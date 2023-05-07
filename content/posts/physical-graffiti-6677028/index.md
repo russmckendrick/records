@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock", "Folk Rock", "Prog Rock"]
 ---
 
-![Physical Graffiti by Led Zeppelin](physical-graffiti-6677028.jpg)
+{{< img src="physical-graffiti-6677028.jpg" title="Physical Graffiti by Led Zeppelin" >}}
 
 <!-- section break -->
 

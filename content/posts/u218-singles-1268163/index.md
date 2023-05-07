@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![U218 Singles by U2](u218-singles-1268163.jpg)
+{{< img src="u218-singles-1268163.jpg" title="U218 Singles by U2" >}}
 
 <!-- section break -->
 

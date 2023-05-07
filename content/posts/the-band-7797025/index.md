@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![The Band by The Band](the-band-7797025.jpg)
+{{< img src="the-band-7797025.jpg" title="The Band by The Band" >}}
 
 <!-- section break -->
 

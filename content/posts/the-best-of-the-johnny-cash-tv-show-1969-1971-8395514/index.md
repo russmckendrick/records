@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![The Best Of The Johnny Cash TV Show: 1969-1971 by Various](the-best-of-the-johnny-cash-tv-show-1969-1971-8395514.jpg)
+{{< img src="the-best-of-the-johnny-cash-tv-show-1969-1971-8395514.jpg" title="The Best Of The Johnny Cash TV Show: 1969-1971 by Various" >}}
 
 <!-- section break -->
 

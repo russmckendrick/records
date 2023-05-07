@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 ---
 
-![Full Metal Jacket (I Wanna Be Your Drill Instructor) by Abigail Mead](full-metal-jacket-i-wanna-be-your-drill-instructor-466221.jpg)
+{{< img src="full-metal-jacket-i-wanna-be-your-drill-instructor-466221.jpg" title="Full Metal Jacket (I Wanna Be Your Drill Instructor) by Abigail Mead" >}}
 
 <!-- section break -->
 
@@ -28,13 +28,13 @@ styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 
 
 ## Videos
-### La chaqueta metálica.BSO.Surfin´ Bird
-{{< youtube id="uFRnUIdHOIc" title="La chaqueta metálica.BSO.Surfin´ Bird" >}}<br>
+### Abigail Mead & Nigel Goulding –Full Metal Jacket I Wanna Be Your Drill Instructor Eskimo pussy mix
+{{< youtube id="1U3vxsee6UY" title="Abigail Mead & Nigel Goulding –Full Metal Jacket I Wanna Be Your Drill Instructor Eskimo pussy mix" >}}<br>
 
 ### More Videos
 
-- [Abigail Mead & Nigel Goulding –Full Metal Jacket I Wanna Be Your Drill Instructor Eskimo pussy mix](https://www.youtube.com/watch?v=1U3vxsee6UY)
 - [Full Metal Jacket (I Wanna Be Your Drill Instructor)](https://www.youtube.com/watch?v=W47Vxd1O4lU)
+- [La chaqueta metálica.BSO.Surfin´ Bird](https://www.youtube.com/watch?v=uFRnUIdHOIc)
 - [Abigail Mead - Sniper](https://www.youtube.com/watch?v=fHYbjQlFT_s)
 
 

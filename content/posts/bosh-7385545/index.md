@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Bosh! by Cleft](bosh-7385545.jpg)
+{{< img src="bosh-7385545.jpg" title="Bosh! by Cleft" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Cleft live in session - Hostage
-{{< youtube id="qot35mfF_ls" title="Cleft live in session - Hostage" >}}<br>
+### Recording the BOSH! album.  Cleft do a gear nerd walkthrough in the recording studio.
+{{< youtube id="gXTYMla2hew" title="Recording the BOSH! album.  Cleft do a gear nerd walkthrough in the recording studio." >}}<br>
 
 ### More Videos
 
-- [Recording the BOSH! album.  Cleft do a gear nerd walkthrough in the recording studio.](https://www.youtube.com/watch?v=gXTYMla2hew)
+- [Cleft live in session - Hostage](https://www.youtube.com/watch?v=qot35mfF_ls)
 
 
 ## Release Information

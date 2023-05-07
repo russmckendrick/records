@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: []
 ---
 
-![Blue Train  by John Coltrane](blue-train-8635682.jpg)
+{{< img src="blue-train-8635682.jpg" title="Blue Train  by John Coltrane" >}}
 
 <!-- section break -->
 
@@ -33,12 +33,12 @@ styles: []
 
 
 ## Videos
-### John Coltrane - Moment's Notice
-{{< youtube id="gocGlRuW1bw" title="John Coltrane - Moment's Notice" >}}<br>
+### Blue Train (Mono Version)
+{{< youtube id="XF9ebuo4tP8" title="Blue Train (Mono Version)" >}}<br>
 
 ### More Videos
 
-- [Blue Train (Mono Version)](https://www.youtube.com/watch?v=XF9ebuo4tP8)
+- [John Coltrane - Moment's Notice](https://www.youtube.com/watch?v=gocGlRuW1bw)
 
 
 ## Release Information

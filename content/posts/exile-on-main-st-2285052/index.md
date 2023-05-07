@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Country Rock", "Rock & Roll"]
 ---
 
-![Exile On Main St. by The Rolling Stones](exile-on-main-st-2285052.jpg)
+{{< img src="exile-on-main-st-2285052.jpg" title="Exile On Main St. by The Rolling Stones" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-![Affinity by Haken](affinity-17746783.jpg)
+{{< img src="affinity-17746783.jpg" title="Affinity by Haken" >}}
 
 <!-- section break -->
 

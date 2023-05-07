@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Playing The Angel by Depeche Mode](playing-the-angel-9818435.jpg)
+{{< img src="playing-the-angel-9818435.jpg" title="Playing The Angel by Depeche Mode" >}}
 
 <!-- section break -->
 

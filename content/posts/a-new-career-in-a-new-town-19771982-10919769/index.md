@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Avantgarde", "Art Rock", "Experimental"]
 ---
 
-![A New Career In A New Town [ 1977–1982 ] by David Bowie](a-new-career-in-a-new-town-19771982-10919769.jpg)
+{{< img src="a-new-career-in-a-new-town-19771982-10919769.jpg" title="A New Career In A New Town [ 1977–1982 ] by David Bowie" >}}
 
 <!-- section break -->
 

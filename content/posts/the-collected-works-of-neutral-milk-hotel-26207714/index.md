@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
-![The Collected Works Of Neutral Milk Hotel by Neutral Milk Hotel](the-collected-works-of-neutral-milk-hotel-26207714.jpg)
+{{< img src="the-collected-works-of-neutral-milk-hotel-26207714.jpg" title="The Collected Works Of Neutral Milk Hotel by Neutral Milk Hotel" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock"]
 ---
 
-![The Blue Elephant by Matt Berry](the-blue-elephant-18722572.jpg)
+{{< img src="the-blue-elephant-18722572.jpg" title="The Blue Elephant by Matt Berry" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 
 
 ## Videos
-### The Blue Elephant
-{{< youtube id="t7yQj7-IFgo" title="The Blue Elephant" >}}<br>
+### Safe Passage
+{{< youtube id="6gvSeLP60hk" title="Safe Passage" >}}<br>
 
 ### More Videos
 
+- [The Blue Elephant](https://www.youtube.com/watch?v=t7yQj7-IFgo)
 - [Matt Berry - Aboard](https://www.youtube.com/watch?v=CuW559e_mv4)
 - [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
-- [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
 
-![Skinhead Moonstomp by Symarip](skinhead-moonstomp-26519942.jpg)
+{{< img src="skinhead-moonstomp-26519942.jpg" title="Skinhead Moonstomp by Symarip" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,12 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### symarip     these boots are made for walking
-{{< youtube id="ClNr1uUtsfE" title="symarip     these boots are made for walking" >}}<br>
+### Symarip ‎- Skinhead Moonstomp
+{{< youtube id="zyWYTkPY2Ls" title="Symarip ‎- Skinhead Moonstomp" >}}<br>
 
 ### More Videos
 
 - [The Pyramids - Must Catch a Train (11.06.2022)](https://www.youtube.com/watch?v=Ub74H6vGXo4)
-- [Symarip ‎- Skinhead Moonstomp](https://www.youtube.com/watch?v=zyWYTkPY2Ls)
 - ['Stay With Him' by Symarip.](https://www.youtube.com/watch?v=NeGm_2MRFFY)
 - [Symarip - Skinhead Moonstomp (Official Audio)](https://www.youtube.com/watch?v=PWvRr8XxDhU)
 - [SYMARIP....BAM BAM BAJI](https://www.youtube.com/watch?v=FLqdkF41Utg)
@@ -68,6 +67,7 @@ styles: ["Ska", "Rocksteady"]
 - [Symarip - Skinhead Jamboree](https://www.youtube.com/watch?v=fdTekV5gblg)
 - [La Bella Jig](https://www.youtube.com/watch?v=iaIBKTAmWrw)
 - [Symarip - Fung Shu](https://www.youtube.com/watch?v=EnvPokQVT4w)
+- [symarip     these boots are made for walking](https://www.youtube.com/watch?v=ClNr1uUtsfE)
 - [symarip-holidays by the sea](https://www.youtube.com/watch?v=foxnKnN7-r0)
 - [These Boots Are Made for Walking](https://www.youtube.com/watch?v=znLnaEcSgdY)
 - [Symarip- That's Nice](https://www.youtube.com/watch?v=YEvq0EPgzQM)

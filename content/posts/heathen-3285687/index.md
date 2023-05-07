@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Alternative Rock"]
 ---
 
-![Heathen by David Bowie](heathen-3285687.jpg)
+{{< img src="heathen-3285687.jpg" title="Heathen by David Bowie" >}}
 
 <!-- section break -->
 

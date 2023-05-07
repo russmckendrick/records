@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Private Revolution by World Party](private-revolution-17493697.jpg)
+{{< img src="private-revolution-17493697.jpg" title="Private Revolution by World Party" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### World Party - Private Revolution
-{{< youtube id="KF33V0tqrEc" title="World Party - Private Revolution" >}}<br>
+### It's All Mine
+{{< youtube id="hTjYsAg3Hoc" title="It's All Mine" >}}<br>
 
 ### More Videos
 
@@ -51,12 +51,12 @@ styles: ["Alternative Rock"]
 - [Dance of the Hoppy Lads](https://www.youtube.com/watch?v=J1B0wMhEbxw)
 - [World Party](https://www.youtube.com/watch?v=qB_xka50sME)
 - [It Can Be Beautiful (Sometimes)](https://www.youtube.com/watch?v=ULtIOuu2Pdg)
-- [It's All Mine](https://www.youtube.com/watch?v=hTjYsAg3Hoc)
 - [The Ballad of the Little Man](https://www.youtube.com/watch?v=g5CGKnvMT_A)
 - [All I Really Want to Do](https://www.youtube.com/watch?v=wv7CEpyr5eQ)
 - [Hawaiian Island World](https://www.youtube.com/watch?v=mWgHwAY-4LU)
 - [Making Love (To the World)](https://www.youtube.com/watch?v=xh9WEzkKyXY)
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
+- [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
 
 ## Release Information

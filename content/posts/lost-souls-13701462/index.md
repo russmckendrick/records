@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Indie Rock"]
 ---
 
-![Lost Souls  by Doves](lost-souls-13701462.jpg)
+{{< img src="lost-souls-13701462.jpg" title="Lost Souls  by Doves" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Space Rock", "Indie Rock"]
 
 
 ## Videos
-### Doves 'Firesuite
-{{< youtube id="YDMbFjQZCkM" title="Doves 'Firesuite" >}}<br>
+### Doves - The Cedar Room
+{{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}<br>
 
 ### More Videos
 
-- [Doves - The Cedar Room](https://www.youtube.com/watch?v=RadUfjnnqOE)
+- [Doves 'Firesuite](https://www.youtube.com/watch?v=YDMbFjQZCkM)
 - [Doves - Break Me Gently](https://www.youtube.com/watch?v=2ct3Ia7HwPc)
 - [doves- catch the sun original video](https://www.youtube.com/watch?v=KqlIFLb6jU0)
 - [Doves - Rise](https://www.youtube.com/watch?v=supe-yD0fX4)

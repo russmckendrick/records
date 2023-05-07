@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-![Porcupine by Echo & The Bunnymen](porcupine-374614.jpg)
+{{< img src="porcupine-374614.jpg" title="Porcupine by Echo & The Bunnymen" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### Ripeness
-{{< youtube id="yOnOUSxaJ-0" title="Ripeness" >}}<br>
+### Heads Will Roll
+{{< youtube id="wo87VUG-F54" title="Heads Will Roll" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["New Wave", "Indie Rock"]
 - [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
 - [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)
 - [Porcupine](https://www.youtube.com/watch?v=bUdyUqhivug)
-- [Heads Will Roll](https://www.youtube.com/watch?v=wo87VUG-F54)
+- [Ripeness](https://www.youtube.com/watch?v=yOnOUSxaJ-0)
 - [Higher Hell](https://www.youtube.com/watch?v=CMh55H3K8fY)
 - [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
 - [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![Parklife by Blur](parklife-7579798.jpg)
+{{< img src="parklife-7579798.jpg" title="Parklife by Blur" >}}
 
 <!-- section break -->
 

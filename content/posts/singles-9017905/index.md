@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Indie Rock"]
 ---
 
-![Singles by New Order](singles-9017905.jpg)
+{{< img src="singles-9017905.jpg" title="Singles by New Order" >}}
 
 <!-- section break -->
 

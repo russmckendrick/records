@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 ---
 
-![Brave  by Marillion](brave-11697942.jpg)
+{{< img src="brave-11697942.jpg" title="Brave  by Marillion" >}}
 
 <!-- section break -->
 

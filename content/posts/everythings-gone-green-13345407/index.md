@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Electro"]
 ---
 
-![Everythings Gone Green by New Order](everythings-gone-green-13345407.jpg)
+{{< img src="everythings-gone-green-13345407.jpg" title="Everythings Gone Green by New Order" >}}
 
 <!-- section break -->
 
@@ -28,13 +28,13 @@ styles: ["New Wave", "Electro"]
 
 
 ## Videos
-### New Order -- Cries and Whispers
-{{< youtube id="0NZfjbht79M" title="New Order -- Cries and Whispers" >}}<br>
+### New Order - Mesh
+{{< youtube id="hpghMn2Vg1c" title="New Order - Mesh" >}}<br>
 
 ### More Videos
 
 - [New Order - Everything's Gone Green (Official Lyric Video)](https://www.youtube.com/watch?v=Aaf-eqg8dvo)
-- [New Order - Mesh](https://www.youtube.com/watch?v=hpghMn2Vg1c)
+- [New Order -- Cries and Whispers](https://www.youtube.com/watch?v=0NZfjbht79M)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ---
 
-![The Three E.P.'s by The Beta Band](the-three-e-p-s-12647330.jpg)
+{{< img src="the-three-e-p-s-12647330.jpg" title="The Three E.P.'s by The Beta Band" >}}
 
 <!-- section break -->
 
@@ -56,12 +56,11 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 
 
 ## Videos
-### The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)
-{{< youtube id="uaz3BW_FeZE" title="The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)" >}}<br>
+### Dry The Rain (Remaster)
+{{< youtube id="6XKvbROUmNk" title="Dry The Rain (Remaster)" >}}<br>
 
 ### More Videos
 
-- [Dry The Rain (Remaster)](https://www.youtube.com/watch?v=6XKvbROUmNk)
 - [I Know (Remaster)](https://www.youtube.com/watch?v=3LmCqpEJdI8)
 - [B + A (Remaster)](https://www.youtube.com/watch?v=vuBCId0eics)
 - [Dogs Got a Bone (Remaster)](https://www.youtube.com/watch?v=NGQcC9LE1i8)
@@ -69,6 +68,7 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 - [The House Song (Remaster)](https://www.youtube.com/watch?v=IP0fjwj18-Q)
 - [The Monolith (Remaster)](https://www.youtube.com/watch?v=-Wle35U34_o)
 - [She's the One (Remaster)](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
+- [The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)](https://www.youtube.com/watch?v=uaz3BW_FeZE)
 
 
 ## Release Information

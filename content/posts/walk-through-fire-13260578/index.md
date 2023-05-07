@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Soul", "Country"]
 ---
 
-![Walk Through Fire by Yola](walk-through-fire-13260578.jpg)
+{{< img src="walk-through-fire-13260578.jpg" title="Walk Through Fire by Yola" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,13 @@ styles: ["Soul", "Country"]
 
 
 ## Videos
-### Yola - Love Is Light [Official Audio]
-{{< youtube id="n_X2tL_DaQw" title="Yola - Love Is Light [Official Audio]" >}}<br>
+### Yola - Ride Out In The Country [Official Audio]
+{{< youtube id="azMLRM0IEYU" title="Yola - Ride Out In The Country [Official Audio]" >}}<br>
 
 ### More Videos
 
 - [Yola - Faraway Look [Official Audio]](https://www.youtube.com/watch?v=S8kMw5pxbkU)
 - [Yola - Shady Grove [Official Audio]](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
-- [Yola - Ride Out In The Country [Official Audio]](https://www.youtube.com/watch?v=azMLRM0IEYU)
 - [Yola - It Ain't Easier [Official Audio]](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
 - [Yola - Walk Through Fire [Official Audio]](https://www.youtube.com/watch?v=H2OmfJiSRAY)
 - [Yola - Rock Me Gently [Official Audio]](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
@@ -56,6 +55,7 @@ styles: ["Soul", "Country"]
 - [Yola - Lonely The Night [Official Audio]](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
 - [Yola - Still Gone [Official Audio]](https://www.youtube.com/watch?v=qy3pS3SLW-E)
 - [Yola - Keep Me Here [Official Audio]](https://www.youtube.com/watch?v=Z6cB44foHQA)
+- [Yola - Love Is Light [Official Audio]](https://www.youtube.com/watch?v=n_X2tL_DaQw)
 
 
 ## Release Information

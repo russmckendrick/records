@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 ---
 
-![No Man's Sky: Music For An Infinite Universe by 65daysofstatic](no-man-s-sky-music-for-an-infinite-universe-9122927.jpg)
+{{< img src="no-man-s-sky-music-for-an-infinite-universe-9122927.jpg" title="No Man's Sky: Music For An Infinite Universe by 65daysofstatic" >}}
 
 <!-- section break -->
 

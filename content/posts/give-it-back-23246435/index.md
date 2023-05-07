@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Give It Back by The Pineapple Thief](give-it-back-23246435.jpg)
+{{< img src="give-it-back-23246435.jpg" title="Give It Back by The Pineapple Thief" >}}
 
 <!-- section break -->
 
@@ -38,18 +38,18 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Wretched Soul (Rewired)
-{{< youtube id="tlceIFqEOIQ" title="Wretched Soul (Rewired)" >}}<br>
+### Boxing Day (Rewired)
+{{< youtube id="W5BriECFUtU" title="Boxing Day (Rewired)" >}}<br>
 
 ### More Videos
 
+- [Wretched Soul (Rewired)](https://www.youtube.com/watch?v=tlceIFqEOIQ)
 - [The Pineapple Thief - Dead In The Water Rewired (Lyric Video)](https://www.youtube.com/watch?v=p8CJ3a0mngI)
 - [Give It Back (Rewired)](https://www.youtube.com/watch?v=o3l7GEflnOc)
 - [Build a World (Rewired)](https://www.youtube.com/watch?v=TWi1SKZhl7A)
 - [Start Your Descent (Rewired)](https://www.youtube.com/watch?v=sD1L9FZi74k)
 - [137 (Rewired)](https://www.youtube.com/watch?v=DQjHGCffIF0)
 - [Shoot First (Rewired)](https://www.youtube.com/watch?v=LobTqOS5qGU)
-- [Boxing Day (Rewired)](https://www.youtube.com/watch?v=W5BriECFUtU)
 - [Warm Seas (Rewired)](https://www.youtube.com/watch?v=_r8yMrhfJsw)
 - [Someone Pull Me Out (Rewired)](https://www.youtube.com/watch?v=Vy0D2Ot86_U)
 - [Last Man Standing (Rewired)](https://www.youtube.com/watch?v=JlZI834YzYg)

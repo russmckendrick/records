@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo", "Dub"]
 ---
 
-![Protection by Massive Attack](protection-9438479.jpg)
+{{< img src="protection-9438479.jpg" title="Protection by Massive Attack" >}}
 
 <!-- section break -->
 

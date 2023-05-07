@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 ---
 
-![Impera by Ghost](impera-22460698.jpg)
+{{< img src="impera-22460698.jpg" title="Impera by Ghost" >}}
 
 <!-- section break -->
 
@@ -37,11 +37,12 @@ styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 
 
 ## Videos
-### Ghost - Call Me Little Sunshine (Official Music Video)
-{{< youtube id="DD2m_iqD7dI" title="Ghost - Call Me Little Sunshine (Official Music Video)" >}}<br>
+### Ghost - Respite On The Spitalfields (Official Audio)
+{{< youtube id="JA21qOo2mWs" title="Ghost - Respite On The Spitalfields (Official Audio)" >}}<br>
 
 ### More Videos
 
+- [Ghost - Call Me Little Sunshine (Official Music Video)](https://www.youtube.com/watch?v=DD2m_iqD7dI)
 - [Ghost - Hunter's Moon (Official Music Video)](https://www.youtube.com/watch?v=rtkaUZvMaG8)
 - [Ghost - Darkness At The Heart Of My Love (Official Audio)](https://www.youtube.com/watch?v=tzXFZuB1wSQ)
 - [Ghost - Twenties (Official Lyric Video)](https://www.youtube.com/watch?v=nQ-pxlKgiTI)
@@ -52,7 +53,6 @@ styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 - [Ghost - Dominion (Official Audio)](https://www.youtube.com/watch?v=N1U7buIoHqc)
 - [Ghost - Imperium (Official Audio)](https://www.youtube.com/watch?v=iuYxW_RiSaw)
 - [Ghost - Bite Of Passage (Official Audio)](https://www.youtube.com/watch?v=C2pLkzpevao)
-- [Ghost - Respite On The Spitalfields (Official Audio)](https://www.youtube.com/watch?v=JA21qOo2mWs)
 
 
 ## Release Information

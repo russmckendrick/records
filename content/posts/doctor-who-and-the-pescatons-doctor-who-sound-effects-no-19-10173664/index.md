@@ -14,7 +14,7 @@ genres: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
 styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
 
-![Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who](doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664.jpg)
+{{< img src="doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664.jpg" title="Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who" >}}
 
 <!-- section break -->
 

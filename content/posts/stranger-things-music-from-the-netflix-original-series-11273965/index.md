@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Stranger Things (Music From The Netflix Original Series) by Various](stranger-things-music-from-the-netflix-original-series-11273965.jpg)
+{{< img src="stranger-things-music-from-the-netflix-original-series-11273965.jpg" title="Stranger Things (Music From The Netflix Original Series) by Various" >}}
 
 <!-- section break -->
 
@@ -55,8 +55,8 @@ styles: []
 
 
 ## Videos
-### The Psychedelic Furs - The Ghost in You (Official Video)
-{{< youtube id="T87u5yuUVi8" title="The Psychedelic Furs - The Ghost in You (Official Video)" >}}<br>
+### You Don't Mess Around With Jim
+{{< youtube id="iPfM-GROsZ8" title="You Don't Mess Around With Jim" >}}<br>
 
 ### More Videos
 
@@ -72,8 +72,8 @@ styles: []
 - [Duran Duran - Girls On Film](https://www.youtube.com/watch?v=RWYA9BvxMso)
 - [Joy Division - Atmosphere [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=1EdUjlawLJM)
 - [Twist of Fate](https://www.youtube.com/watch?v=l64EyXcxvmo)
+- [The Psychedelic Furs - The Ghost in You (Official Video)](https://www.youtube.com/watch?v=T87u5yuUVi8)
 - [Toto - Africa (Official HD Video)](https://www.youtube.com/watch?v=FTQbiNvZqaY)
-- [You Don't Mess Around With Jim](https://www.youtube.com/watch?v=iPfM-GROsZ8)
 - [Devo - Whip It (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=j_QLzthSkfM)
 - [Bon Jovi - Runaway (Official Music Video)](https://www.youtube.com/watch?v=s86K-p089R8)
 - [Cyndi Lauper - Time After Time (Official HD Video)](https://www.youtube.com/watch?v=VdQY7BusJNU)

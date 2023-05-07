@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![The Piper At The Gates Of Dawn by Pink Floyd](the-piper-at-the-gates-of-dawn-8513521.jpg)
+{{< img src="the-piper-at-the-gates-of-dawn-8513521.jpg" title="The Piper At The Gates Of Dawn by Pink Floyd" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Krautrock"]
 ---
 
-![Neu! '86 by Neu!](neu-86-2376449.jpg)
+{{< img src="neu-86-2376449.jpg" title="Neu! '86 by Neu!" >}}
 
 <!-- section break -->
 

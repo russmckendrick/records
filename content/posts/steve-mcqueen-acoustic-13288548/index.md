@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Acoustic"]
 ---
 
-![Steve McQueen Acoustic by Prefab Sprout](steve-mcqueen-acoustic-13288548.jpg)
+{{< img src="steve-mcqueen-acoustic-13288548.jpg" title="Steve McQueen Acoustic by Prefab Sprout" >}}
 
 <!-- section break -->
 

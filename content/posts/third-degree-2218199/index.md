@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rhythm & Blues", "Pub Rock"]
 ---
 
-![Third Degree by Nine Below Zero](third-degree-2218199.jpg)
+{{< img src="third-degree-2218199.jpg" title="Third Degree by Nine Below Zero" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 ---
 
-![∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes.. by New Order](no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-13868695.jpg)
+{{< img src="no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-13868695.jpg" title="∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes.. by New Order" >}}
 
 <!-- section break -->
 

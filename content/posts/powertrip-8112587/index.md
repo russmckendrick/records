@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
 
-![Powertrip by Monster Magnet](powertrip-8112587.jpg)
+{{< img src="powertrip-8112587.jpg" title="Powertrip by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -44,21 +44,21 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 
 
 ## Videos
-### Monster Magnet – Bummer
-{{< youtube id="AB_etD1NAEg" title="Monster Magnet – Bummer" >}}<br>
+### Monster Magnet – 19 Witches
+{{< youtube id="tkLRAQyaofg" title="Monster Magnet – 19 Witches" >}}<br>
 
 ### More Videos
 
 - [Monster Magnet - Powertrip](https://www.youtube.com/watch?v=jE7Zv6d-HUA)
 - [Monster Magnet – Temple Of Your Dreams](https://www.youtube.com/watch?v=1JLcNRtr7nQ)
 - [Monster Magnet – Baby Götterdämerung](https://www.youtube.com/watch?v=8nOtaymIzrw)
-- [Monster Magnet – 19 Witches](https://www.youtube.com/watch?v=tkLRAQyaofg)
 - [Monster Magnet – Powertrip](https://www.youtube.com/watch?v=KbsMDpG5rBc)
 - [Monster Magnet – Crop Circle](https://www.youtube.com/watch?v=qVWYwtzuVKc)
 - [Monster Magnet – Your Lies Become You](https://www.youtube.com/watch?v=ltKDeAFrh3Q)
 - [Monster Magnet – Goliath And The Vampires](https://www.youtube.com/watch?v=n29h6TEtr_A)
 - [Monster Magnet – Atomic Clock](https://www.youtube.com/watch?v=zfboZd9HLIo)
 - [Monster Magnet – Space Lord](https://www.youtube.com/watch?v=doSPqAG77Qw)
+- [Monster Magnet – Bummer](https://www.youtube.com/watch?v=AB_etD1NAEg)
 - [Monster Magnet - Space Lord](https://www.youtube.com/watch?v=dscfeQOMuGw)
 - [Monster Magnet – 3rd Eye Landslide](https://www.youtube.com/watch?v=erlKlvbUIlw)
 - [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)

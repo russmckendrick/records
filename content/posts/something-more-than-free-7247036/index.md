@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![Something More Than Free by Jason Isbell](something-more-than-free-7247036.jpg)
+{{< img src="something-more-than-free-7247036.jpg" title="Something More Than Free by Jason Isbell" >}}
 
 <!-- section break -->
 

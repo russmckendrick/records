@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Contemporary Jazz"]
 ---
 
-![Sixth Sense by Splashgirl](sixth-sense-11750748.jpg)
+{{< img src="sixth-sense-11750748.jpg" title="Sixth Sense by Splashgirl" >}}
 
 <!-- section break -->
 

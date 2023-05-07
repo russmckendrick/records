@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-![If You Can't Stand The Heat by Status Quo](if-you-can-t-stand-the-heat-7581168.jpg)
+{{< img src="if-you-can-t-stand-the-heat-7581168.jpg" title="If You Can't Stand The Heat by Status Quo" >}}
 
 <!-- section break -->
 

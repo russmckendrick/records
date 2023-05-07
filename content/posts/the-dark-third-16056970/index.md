@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![The Dark Third by Pure Reason Revolution](the-dark-third-16056970.jpg)
+{{< img src="the-dark-third-16056970.jpg" title="The Dark Third by Pure Reason Revolution" >}}
 
 <!-- section break -->
 
@@ -61,19 +61,19 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Arrival / The Intention Craft
-{{< youtube id="aZcO_EAqoj0" title="Arrival / The Intention Craft" >}}<br>
+### Apprentice of the Universe
+{{< youtube id="qbTSSD-nZZE" title="Apprentice of the Universe" >}}<br>
 
 ### More Videos
 
 - [Pure Reason Revolution - The Twyncyn / Trembilin Willows](https://www.youtube.com/watch?v=wwwIiyFmoxM)
 - [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
 - [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
-- [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
 - [Voices in Winter / In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
 - [Pure Reason Revolution - Goshen's Remains](https://www.youtube.com/watch?v=DDHW8bsHB0w)
 - [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
+- [Arrival / The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
 - [He Tried to Show Them Magic / Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
 - [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
 - [Pure Reason Revolution - The Exact Colour](https://www.youtube.com/watch?v=TPWwd8AARjE)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post-Hardcore"]
 ---
 
-![Everyone Into Position by Oceansize](everyone-into-position-23377343.jpg)
+{{< img src="everyone-into-position-23377343.jpg" title="Everyone Into Position by Oceansize" >}}
 
 <!-- section break -->
 

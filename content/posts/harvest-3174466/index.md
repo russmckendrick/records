@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 ---
 
-![Harvest by Neil Young](harvest-3174466.jpg)
+{{< img src="harvest-3174466.jpg" title="Harvest by Neil Young" >}}
 
 <!-- section break -->
 

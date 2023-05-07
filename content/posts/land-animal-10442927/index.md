@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ---
 
-![Land Animal by Bent Knee](land-animal-10442927.jpg)
+{{< img src="land-animal-10442927.jpg" title="Land Animal by Bent Knee" >}}
 
 <!-- section break -->
 

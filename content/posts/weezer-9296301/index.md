@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop", "Alternative Rock"]
 ---
 
-![Weezer by Weezer](weezer-9296301.jpg)
+{{< img src="weezer-9296301.jpg" title="Weezer by Weezer" >}}
 
 <!-- section break -->
 

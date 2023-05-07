@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Disco"]
 ---
 
-![From Deewee by Soulwax](from-deewee-10416742.jpg)
+{{< img src="from-deewee-10416742.jpg" title="From Deewee by Soulwax" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Electro", "Synth-pop", "Disco"]
 
 
 ## Videos
-### The Singer Has Become a Deejay
-{{< youtube id="BmJdBBLba9Q" title="The Singer Has Become a Deejay" >}}<br>
+### Trespassers
+{{< youtube id="jJxWVe5M2S8" title="Trespassers" >}}<br>
 
 ### More Videos
 
 - [Masterplanned](https://www.youtube.com/watch?v=pdcbDkrBVaY)
-- [Trespassers](https://www.youtube.com/watch?v=jJxWVe5M2S8)
 - [Is It Always Binary](https://www.youtube.com/watch?v=3E8o9RkLFkM)
 - [Is It Always Binary](https://www.youtube.com/watch?v=W_21IVzPGvY)
 - [Here Come the Men in Suits](https://www.youtube.com/watch?v=jIeopjvrCWI)
+- [The Singer Has Become a Deejay](https://www.youtube.com/watch?v=BmJdBBLba9Q)
 - [Soulwax - Conditions Of A Shared Belief](https://www.youtube.com/watch?v=oo-pUHmN08g)
 - [Soulwax - Transient Program for Drums and Machinery - DEEWEE 019](https://www.youtube.com/watch?v=m8K3-lLxaoI)
 - [Soulwax - Missing Wires](https://www.youtube.com/watch?v=NSWpNntG6Mc)

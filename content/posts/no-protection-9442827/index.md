@@ -14,7 +14,7 @@ genres: ["Electronic", "Reggae"]
 styles: ["Downtempo", "Dub", "Trip Hop"]
 ---
 
-![No Protection by Massive Attack](no-protection-9442827.jpg)
+{{< img src="no-protection-9442827.jpg" title="No Protection by Massive Attack" >}}
 
 <!-- section break -->
 

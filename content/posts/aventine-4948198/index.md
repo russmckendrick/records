@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-![Aventine by Agnes Obel](aventine-4948198.jpg)
+{{< img src="aventine-4948198.jpg" title="Aventine by Agnes Obel" >}}
 
 <!-- section break -->
 
@@ -53,8 +53,8 @@ styles: ["Folk"]
 
 
 ## Videos
-### Agnes Obel - Words Are Dead
-{{< youtube id="hZpn7Cde1w8" title="Agnes Obel - Words Are Dead" >}}<br>
+### Agnes Obel - Smoke And Mirrors
+{{< youtube id="QOGQx4khAG0" title="Agnes Obel - Smoke And Mirrors" >}}<br>
 
 ### More Videos
 
@@ -68,8 +68,8 @@ styles: ["Folk"]
 - [Agnes Obel - Tokka](https://www.youtube.com/watch?v=bAR-7YatJxY)
 - [Agnes Obel - The Curse (Official Video)](https://www.youtube.com/watch?v=6h9XUYj96ho)
 - [Agnes Obel - Pass Them By](https://www.youtube.com/watch?v=ELfqgI-X3yA)
+- [Agnes Obel - Words Are Dead](https://www.youtube.com/watch?v=hZpn7Cde1w8)
 - [Agnes Obel - Fivefold](https://www.youtube.com/watch?v=nBqvRZQbFdA)
-- [Agnes Obel - Smoke And Mirrors](https://www.youtube.com/watch?v=QOGQx4khAG0)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![The Texas-Jerusalem Crossroads by Lift To Experience](the-texas-jerusalem-crossroads-9955614.jpg)
+{{< img src="the-texas-jerusalem-crossroads-9955614.jpg" title="The Texas-Jerusalem Crossroads by Lift To Experience" >}}
 
 <!-- section break -->
 
@@ -52,14 +52,15 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Lift To Experience - These Are The Days (2017 Mix) (Official Video)
-{{< youtube id="FbBPve8A6yI" title="Lift To Experience - These Are The Days (2017 Mix) (Official Video)" >}}<br>
+### Lift To Experience - Down Came The Angels (Official Audio)
+{{< youtube id="5_grjHE5wq8" title="Lift To Experience - Down Came The Angels (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Lift To Experience - When We Shall Touch (Official Audio)](https://www.youtube.com/watch?v=sthmEkUjACM)
 - [Lift To Experience   The Texas Jerusalem Crossroads](https://www.youtube.com/watch?v=RebkScGC2JE)
 - [Lift To Experience - Just As Was Told (Official Audio)](https://www.youtube.com/watch?v=iF96B27HYik)
+- [Lift To Experience - These Are The Days (2017 Mix) (Official Video)](https://www.youtube.com/watch?v=FbBPve8A6yI)
 - [Lift To Experience - Falling From Cloud 9 (Official Video)](https://www.youtube.com/watch?v=bWWzcgsutdk)
 - [Lift To Experience - Waiting To Hit (Official Audio)](https://www.youtube.com/watch?v=sZ28bBvKjig)
 - [Lift To Experience - To Guard And To Guide You (Official Audio)](https://www.youtube.com/watch?v=xOgkUe2437o)
@@ -67,7 +68,6 @@ styles: ["Psychedelic Rock"]
 - [Lift To Experience - The Ground So Soft (Official Audio)](https://www.youtube.com/watch?v=uNRHftDc1Eo)
 - [Lift To Experience - With Crippled Wings (Official Audio)](https://www.youtube.com/watch?v=xFRGO2VxpoM)
 - [Lift To Experience - Into The Storm (Official Audio)](https://www.youtube.com/watch?v=jJ_gE0SrG94)
-- [Lift To Experience - Down Came The Angels (Official Audio)](https://www.youtube.com/watch?v=5_grjHE5wq8)
 
 
 ## Release Information

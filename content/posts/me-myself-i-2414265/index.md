@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Me Myself I by Joan Armatrading](me-myself-i-2414265.jpg)
+{{< img src="me-myself-i-2414265.jpg" title="Me Myself I by Joan Armatrading" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Friends
-{{< youtube id="hF1wTxW7VKM" title="Friends" >}}<br>
+### Turn Out The Light
+{{< youtube id="wg1lJrl3F9Q" title="Turn Out The Light" >}}<br>
 
 ### More Videos
 
 - [Ma Me O Beach](https://www.youtube.com/watch?v=K-tf2qFtNFU)
+- [Friends](https://www.youtube.com/watch?v=hF1wTxW7VKM)
 - [Is It Tomorrow Yet?](https://www.youtube.com/watch?v=41VgElN01lo)
-- [Turn Out The Light](https://www.youtube.com/watch?v=wg1lJrl3F9Q)
 - [Me Myself I](https://www.youtube.com/watch?v=Ibds7i_jLWw)
 - [When You Kisses Me](https://www.youtube.com/watch?v=RLAcUsTMxso)
 - [All The Way From America](https://www.youtube.com/watch?v=btn3JKLJysc)

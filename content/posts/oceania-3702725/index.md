@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Oceania by The Smashing Pumpkins](oceania-3702725.jpg)
+{{< img src="oceania-3702725.jpg" title="Oceania by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

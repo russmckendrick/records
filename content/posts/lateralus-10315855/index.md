@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Experimental"]
 ---
 
-![Lateralus by Tool](lateralus-10315855.jpg)
+{{< img src="lateralus-10315855.jpg" title="Lateralus by Tool" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 
 
 ## Videos
-### TOOL - Lateralus (Audio)
-{{< youtube id="Y7JG63IuaWs" title="TOOL - Lateralus (Audio)" >}}<br>
+### TOOL - Reflection (Audio)
+{{< youtube id="4MzVuHqsNoM" title="TOOL - Reflection (Audio)" >}}<br>
 
 ### More Videos
 
@@ -53,8 +53,8 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 - [TOOL - Parabol (Audio)](https://www.youtube.com/watch?v=ynzDDi9Y044)
 - [TOOL - Parabola (Audio)](https://www.youtube.com/watch?v=-DuAAmHpGbw)
 - [TOOL - Ticks & Leeches (Audio)](https://www.youtube.com/watch?v=q0BOpkA2Vs4)
+- [TOOL - Lateralus (Audio)](https://www.youtube.com/watch?v=Y7JG63IuaWs)
 - [TOOL - Disposition (Audio)](https://www.youtube.com/watch?v=dUQjGpm5Kr8)
-- [TOOL - Reflection (Audio)](https://www.youtube.com/watch?v=4MzVuHqsNoM)
 - [TOOL - Triad (Audio)](https://www.youtube.com/watch?v=JAzLQ5aeAOw)
 - [TOOL - Faaip De Oiad (Audio)](https://www.youtube.com/watch?v=7RmLkY1387A)
 

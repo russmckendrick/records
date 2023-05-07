@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Fashion Nugget by Cake](fashion-nugget-15007936.jpg)
+{{< img src="fashion-nugget-15007936.jpg" title="Fashion Nugget by Cake" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### CAKE - Nugget (Official Audio)
-{{< youtube id="tQ3VgWkgLr8" title="CAKE - Nugget (Official Audio)" >}}<br>
+### Cake-The Distance from Fashion Nugget
+{{< youtube id="GORDBKl8ibY" title="Cake-The Distance from Fashion Nugget" >}}<br>
 
 ### More Videos
 
 - [Cake-Frank Sinatra from Fashion Nugget](https://www.youtube.com/watch?v=aAkWJmoL8KQ)
 - [CAKE - The Distance (Official HD Video)](https://www.youtube.com/watch?v=F_HoMkkRHv8)
-- [Cake-The Distance from Fashion Nugget](https://www.youtube.com/watch?v=GORDBKl8ibY)
 - [Cake-Friend Is a Four Letter Word  from Fashion Nugget](https://www.youtube.com/watch?v=Pj1Kx7AI_rw)
 - [Open Book](https://www.youtube.com/watch?v=0lrg1W7-zHo)
 - [Cake-Daria from Fashion Nugget](https://www.youtube.com/watch?v=avjMKjvUicE)
@@ -59,6 +58,7 @@ styles: ["Alternative Rock"]
 - [CAKE - Frank Sinatra (Official HD Video)](https://www.youtube.com/watch?v=7xw49Y-bYYk)
 - [Cake-Stickshifts and Safetybelts from Fashion Nugget](https://www.youtube.com/watch?v=60WKtfE_cvA)
 - [Cake-Perhaps, Perhaps, Perhaps from Fashion Nugget](https://www.youtube.com/watch?v=nEIbTdBSNTQ)
+- [CAKE - Nugget (Official Audio)](https://www.youtube.com/watch?v=tQ3VgWkgLr8)
 - [Cake-It's Coming Down from Fashion Nugget](https://www.youtube.com/watch?v=zknWYqboUzc)
 - [Nugget](https://www.youtube.com/watch?v=ov3Lh_ELdkI)
 - [CAKE - Frank Sinatra (Official Audio)](https://www.youtube.com/watch?v=rWonYwd5oL8)

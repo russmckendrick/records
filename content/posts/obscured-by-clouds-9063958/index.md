@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![Obscured By Clouds by Pink Floyd](obscured-by-clouds-9063958.jpg)
+{{< img src="obscured-by-clouds-9063958.jpg" title="Obscured By Clouds by Pink Floyd" >}}
 
 <!-- section break -->
 

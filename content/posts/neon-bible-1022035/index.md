@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Neon Bible by Arcade Fire](neon-bible-1022035.jpg)
+{{< img src="neon-bible-1022035.jpg" title="Neon Bible by Arcade Fire" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Black Mirror (Official Video)
-{{< youtube id="aXuymDSGCko" title="Arcade Fire - Black Mirror (Official Video)" >}}<br>
+### Arcade Fire - Intervention
+{{< youtube id="ZO7ZWfvCjBE" title="Arcade Fire - Intervention" >}}<br>
 
 ### More Videos
 
 - [Arcade Fire - Neon Bible (Official Audio)](https://www.youtube.com/watch?v=eHe4cDG2ErM)
+- [Arcade Fire - Black Mirror (Official Video)](https://www.youtube.com/watch?v=aXuymDSGCko)
 - [Arcade Fire - Keep the Car Running (Official Audio)](https://www.youtube.com/watch?v=MSv1om_7DgU)
 - [Arcade Fire - Neon Bible music video](https://www.youtube.com/watch?v=y_n_o1anu9E)
-- [Arcade Fire - Intervention](https://www.youtube.com/watch?v=ZO7ZWfvCjBE)
 - [Arcade Fire - Black Wave, Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
 
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 ---
 
-![Hypocrisy Is The Greatest Luxury by The Disposable Heroes Of Hiphoprisy](hypocrisy-is-the-greatest-luxury-529747.jpg)
+{{< img src="hypocrisy-is-the-greatest-luxury-529747.jpg" title="Hypocrisy Is The Greatest Luxury by The Disposable Heroes Of Hiphoprisy" >}}
 
 <!-- section break -->
 
@@ -42,12 +42,11 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 
 
 ## Videos
-### Hypocrisy Is The Greatest Luxury
-{{< youtube id="PFArDeCfj-M" title="Hypocrisy Is The Greatest Luxury" >}}<br>
+### THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)
+{{< youtube id="XgtIGQkZyrU" title="THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)" >}}<br>
 
 ### More Videos
 
-- [THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)](https://www.youtube.com/watch?v=XgtIGQkZyrU)
 - [Satanic Reverses](https://www.youtube.com/watch?v=3MGxfMH4CJ0)
 - [Disposable Heroes of Hiphoprisy   Hypocrisy is the Greatest Luxury](https://www.youtube.com/watch?v=zurCtInZUcg)
 - [Television The Drug Of The Nation](https://www.youtube.com/watch?v=AioHRn9y6aM)
@@ -58,6 +57,7 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 - [The Disposable Heroes of Hiphoprisy - Language of violence](https://www.youtube.com/watch?v=ldRZRa61iB4)
 - [The Winter Of The Long Hot Summer](https://www.youtube.com/watch?v=TucTQi9SCP4)
 - [The Disposable Heroes Of Hiphoprisy - Music And Politics](https://www.youtube.com/watch?v=ud4qix_IYws)
+- [Hypocrisy Is The Greatest Luxury](https://www.youtube.com/watch?v=PFArDeCfj-M)
 - [Water Pistol Man - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=LOrGp8uU3Kg)
 - [Everyday Life Has Become A Health Risk](https://www.youtube.com/watch?v=wxwufHsUSwo)
 - [Socio-Genetic Experiment - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=p8y1HFzNE-4)

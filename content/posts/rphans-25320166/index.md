@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![( )rphans by Sel Balamir](rphans-25320166.jpg)
+{{< img src="rphans-25320166.jpg" title="( )rphans by Sel Balamir" >}}
 
 <!-- section break -->
 

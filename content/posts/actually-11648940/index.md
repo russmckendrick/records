@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Actually by Pet Shop Boys](actually-11648940.jpg)
+{{< img src="actually-11648940.jpg" title="Actually by Pet Shop Boys" >}}
 
 <!-- section break -->
 

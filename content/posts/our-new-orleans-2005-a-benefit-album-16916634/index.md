@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul", "Blues", "Brass & Military", "Folk, World, & Cou
 styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 ---
 
-![Our New Orleans 2005, A Benefit Album by Various](our-new-orleans-2005-a-benefit-album-16916634.jpg)
+{{< img src="our-new-orleans-2005-a-benefit-album-16916634.jpg" title="Our New Orleans 2005, A Benefit Album by Various" >}}
 
 <!-- section break -->
 

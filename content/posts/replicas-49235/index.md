@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "New Wave", "Post-Punk"]
 ---
 
-![Replicas by Tubeway Army](replicas-49235.jpg)
+{{< img src="replicas-49235.jpg" title="Replicas by Tubeway Army" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 
 
 ## Videos
-### Me, I Disconnect from You
-{{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}<br>
+### Are 'Friends' Electric?
+{{< youtube id="1snv-0jCiWY" title="Are 'Friends' Electric?" >}}<br>
 
 ### More Videos
 
-- [Are 'Friends' Electric?](https://www.youtube.com/watch?v=1snv-0jCiWY)
+- [Me, I Disconnect from You](https://www.youtube.com/watch?v=gb66ZMHlixQ)
 - [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
 - [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
 - [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 ---
 
-![Lamb by Lamb](lamb-5473403.jpg)
+{{< img src="lamb-5473403.jpg" title="Lamb by Lamb" >}}
 
 <!-- section break -->
 
@@ -41,19 +41,19 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 
 
 ## Videos
-### Lamb - Lusty (HD)
-{{< youtube id="x954Iy1kjSU" title="Lamb - Lusty (HD)" >}}<br>
+### Lamb - Zero
+{{< youtube id="43dsR77b_gQ" title="Lamb - Zero" >}}<br>
 
 ### More Videos
 
 - [Lamb ‎– Lamb (Album, 1996)](https://www.youtube.com/watch?v=EuWq_Gx0vjc)
 - [Lamb//Trans Fatty Acid//Kruder & Dorfmeister Remix](https://www.youtube.com/watch?v=94NU-W-KgxI)
+- [Lamb - Lusty (HD)](https://www.youtube.com/watch?v=x954Iy1kjSU)
 - [Lamb - Gorecki (Global Communication Remix) (HD)](https://www.youtube.com/watch?v=KBMaBYE-Awo)
 - [Lamb - Gorecki](https://www.youtube.com/watch?v=tSRYvYN1ayw)
 - [Lamb - God Bless](https://www.youtube.com/watch?v=N9lQjEtiMp0)
 - [Lamb - Cotton Wool](https://www.youtube.com/watch?v=eF4hFfDcV7I)
 - [Lamb - Trans Fatty Acid](https://www.youtube.com/watch?v=nRF80TuHhVk)
-- [Lamb - Zero](https://www.youtube.com/watch?v=43dsR77b_gQ)
 - [Lamb - Merge](https://www.youtube.com/watch?v=QAEJ80au1Kk)
 - [Lamb - Gold](https://www.youtube.com/watch?v=uY1qETRJN-c)
 - [Lamb - Gorecki](https://www.youtube.com/watch?v=kbUfDXrWgbs)

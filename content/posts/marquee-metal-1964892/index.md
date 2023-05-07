@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ---
 
-![Marquee Metal by Various](marquee-metal-1964892.jpg)
+{{< img src="marquee-metal-1964892.jpg" title="Marquee Metal by Various" >}}
 
 <!-- section break -->
 

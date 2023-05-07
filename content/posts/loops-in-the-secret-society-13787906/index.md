@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ---
 
-![Loops In The Secret Society by Jane Weaver](loops-in-the-secret-society-13787906.jpg)
+{{< img src="loops-in-the-secret-society-13787906.jpg" title="Loops In The Secret Society by Jane Weaver" >}}
 
 <!-- section break -->
 
@@ -50,11 +50,12 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 
 
 ## Videos
-### Element (Loops Variation)
-{{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}<br>
+### Majic Milk (Loops Variation)
+{{< youtube id="pFhCwUdCf6g" title="Majic Milk (Loops Variation)" >}}<br>
 
 ### More Videos
 
+- [Element (Loops Variation)](https://www.youtube.com/watch?v=-2eNnE0DQZo)
 - [Milk Loop](https://www.youtube.com/watch?v=ga_vN2nOlwU)
 - [Arrows (Loops Variation)](https://www.youtube.com/watch?v=Bhn-5_ecS4Q)
 - [Ravenspoint (Loops Variation)](https://www.youtube.com/watch?v=du1RjXpiEnw)
@@ -64,7 +65,6 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 - [Did You See Butterflies (Loops Variation)](https://www.youtube.com/watch?v=YtjwvOpWeWc)
 - [Code (Loops Variation)](https://www.youtube.com/watch?v=nV3sqEyDPok)
 - [I Wish (Loops Variation)](https://www.youtube.com/watch?v=w67VcmD9zho)
-- [Majic Milk (Loops Variation)](https://www.youtube.com/watch?v=pFhCwUdCf6g)
 - [Jane Weaver new album . Loops In The Secret Society / 2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
 
 

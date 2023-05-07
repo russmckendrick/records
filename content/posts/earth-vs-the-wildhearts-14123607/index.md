@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Earth Vs The Wildhearts by The Wildhearts](earth-vs-the-wildhearts-14123607.jpg)
+{{< img src="earth-vs-the-wildhearts-14123607.jpg" title="Earth Vs The Wildhearts by The Wildhearts" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![The Greatest Hits, So Far by Public Image Limited](the-greatest-hits-so-far-5905459.jpg)
+{{< img src="the-greatest-hits-so-far-5905459.jpg" title="The Greatest Hits, So Far by Public Image Limited" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### PiL - The Body
-{{< youtube id="-Og6_MQ5DvU" title="PiL - The Body" >}}<br>
+### PiL - Flowers Of Romance
+{{< youtube id="bZhomMUzYUg" title="PiL - Flowers Of Romance" >}}<br>
 
 ### More Videos
 
@@ -50,11 +50,11 @@ styles: ["New Wave", "Synth-pop"]
 - [Death Disco (Remastered)](https://www.youtube.com/watch?v=Whxd1twSFfM)
 - [Memories (2011 Remaster)](https://www.youtube.com/watch?v=rlM__Fk7d2E)
 - [Careering (2011 Remaster)](https://www.youtube.com/watch?v=2kxpZitrSIQ)
-- [PiL - Flowers Of Romance](https://www.youtube.com/watch?v=bZhomMUzYUg)
 - [Public Image Ltd. - This is Not a Love Song (album version)](https://www.youtube.com/watch?v=GZR-SgyD8R8)
 - [PiL - Rise](https://www.youtube.com/watch?v=mQLfxmuI6YM)
 - [PiL - Home](https://www.youtube.com/watch?v=p3ZlwitRLFY)
 - [Public Image Ltd - Seattle (Official Video)](https://www.youtube.com/watch?v=bFOjktDN0IA)
+- [PiL - The Body](https://www.youtube.com/watch?v=-Og6_MQ5DvU)
 - [PiL - Rules and Regulations](https://www.youtube.com/watch?v=pkecN4EVEtc)
 - [P.I.L. - Disappointed](https://www.youtube.com/watch?v=MhSdOHPIp0Q)
 - [Warrior (Remastered 2011)](https://www.youtube.com/watch?v=5sm9OzoJCN4)

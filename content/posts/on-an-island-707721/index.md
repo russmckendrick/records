@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-![On An Island by David Gilmour](on-an-island-707721.jpg)
+{{< img src="on-an-island-707721.jpg" title="On An Island by David Gilmour" >}}
 
 <!-- section break -->
 

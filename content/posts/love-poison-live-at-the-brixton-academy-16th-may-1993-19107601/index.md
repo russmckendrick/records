@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 ---
 
-![Love & Poison (Live At The Brixton Academy, 16th May 1993) by Suede](love-poison-live-at-the-brixton-academy-16th-may-1993-19107601.jpg)
+{{< img src="love-poison-live-at-the-brixton-academy-16th-may-1993-19107601.jpg" title="Love & Poison (Live At The Brixton Academy, 16th May 1993) by Suede" >}}
 
 <!-- section break -->
 
@@ -41,13 +41,13 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### 🔴Suede ‎– Complete C Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]
-{{< youtube id="1z2ysPUqirE" title="🔴Suede ‎– Complete C Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]" >}}<br>
+### 🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]
+{{< youtube id="fNCogNik9n0" title="🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]" >}}<br>
 
 ### More Videos
 
-- [🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=fNCogNik9n0)
 - [🔴Suede ‎– Complete B Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=HZP5yePt6oY)
+- [🔴Suede ‎– Complete C Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=1z2ysPUqirE)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![The Original Recordings by Sex Pistols](the-original-recordings-23371298.jpg)
+{{< img src="the-original-recordings-23371298.jpg" title="The Original Recordings by Sex Pistols" >}}
 
 <!-- section break -->
 

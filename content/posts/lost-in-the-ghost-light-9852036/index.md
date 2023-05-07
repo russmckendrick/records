@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Lost In The Ghost Light by Tim Bowness](lost-in-the-ghost-light-9852036.jpg)
+{{< img src="lost-in-the-ghost-light-9852036.jpg" title="Lost In The Ghost Light by Tim Bowness" >}}
 
 <!-- section break -->
 

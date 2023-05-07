@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
 
-![Sittin' Heavy by Monster Truck](sittin-heavy-8125798.jpg)
+{{< img src="sittin-heavy-8125798.jpg" title="Sittin' Heavy by Monster Truck" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Blues Rock", "Hard Rock"]
 
 
 ## Videos
-### Monster Truck - The Enforcer (Official Audio)
-{{< youtube id="ENNtNc1di-c" title="Monster Truck - The Enforcer (Official Audio)" >}}<br>
+### Monster Truck - Why Are You Not Rocking? (Sittin' Heavy) 2016
+{{< youtube id="dpH3PJj0wh8" title="Monster Truck - Why Are You Not Rocking? (Sittin' Heavy) 2016" >}}<br>
 
 ### More Videos
 
 - [Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=EKv4MNo03zY)
-- [Monster Truck - Why Are You Not Rocking? (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=dpH3PJj0wh8)
+- [Monster Truck - The Enforcer (Official Audio)](https://www.youtube.com/watch?v=ENNtNc1di-c)
 - [Monster Truck - New Soul (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=2-ZnHeKpjHc)
 - [Monster Truck - Don't Tell Me How To Live (Official Audio)](https://www.youtube.com/watch?v=qLHeeK4Kzmo)
 - [Monster Truck - She's A Witch (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=jFY4GpASXzY)

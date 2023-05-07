@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
 
-![The In Sound From Way Out! by Beastie Boys](the-in-sound-from-way-out-11237631.jpg)
+{{< img src="the-in-sound-from-way-out-11237631.jpg" title="The In Sound From Way Out! by Beastie Boys" >}}
 
 <!-- section break -->
 
@@ -42,18 +42,18 @@ styles: ["Instrumental"]
 
 
 ## Videos
-### beastie boys - Lighten Up - The In Sound From Way Out!
-{{< youtube id="7pONzCsX_kM" title="beastie boys - Lighten Up - The In Sound From Way Out!" >}}<br>
+### Beastie Boys - 9 Shambala
+{{< youtube id="I5rUen5H_7Q" title="Beastie Boys - 9 Shambala" >}}<br>
 
 ### More Videos
 
 - [Beastie Boys - 2 Sabrosa](https://www.youtube.com/watch?v=k_UfHToc50E)
 - [Son Of Neckbone](https://www.youtube.com/watch?v=3RvhVXb_1z8)
-- [Beastie Boys - 9 Shambala](https://www.youtube.com/watch?v=I5rUen5H_7Q)
 - [Groove Holmes](https://www.youtube.com/watch?v=kfwZH9qQJfg)
 - [Beastie Boys - In 3´s (The In Sound From Way Out)](https://www.youtube.com/watch?v=Uhx3oulxcj4)
 - [Beastie Boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=M_a_jZYofwE)
 - [beastie boys - Groove Holmes - The In Sound From Way Out!](https://www.youtube.com/watch?v=slb3pqRHmPs)
+- [beastie boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=7pONzCsX_kM)
 - [beastie boys - Transitions - The In Sound From Way Out!](https://www.youtube.com/watch?v=P_u-N4E-JkU)
 
 

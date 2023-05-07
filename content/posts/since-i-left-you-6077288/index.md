@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Abstract"]
 ---
 
-![Since I Left You by The Avalanches](since-i-left-you-6077288.jpg)
+{{< img src="since-i-left-you-6077288.jpg" title="Since I Left You by The Avalanches" >}}
 
 <!-- section break -->
 
@@ -46,13 +46,12 @@ styles: ["Leftfield", "Abstract"]
 
 
 ## Videos
-### The Avalanches - Close To You
-{{< youtube id="eQN5j0bt678" title="The Avalanches - Close To You" >}}<br>
+### The Avalanches - Since I Left You (1hr)
+{{< youtube id="IBjuX1Gs5hU" title="The Avalanches - Since I Left You (1hr)" >}}<br>
 
 ### More Videos
 
 - [The Avalanches - Since I Left You (Extended Alternate Version)](https://www.youtube.com/watch?v=vFWmwkoNq6s)
-- [The Avalanches - Since I Left You (1hr)](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
 - [The Avalanches — Since I Left You](https://www.youtube.com/watch?v=kB3-2CL_l4U)
 - [A Different Feeling (Carl Craig's Paperclip People Remix)](https://www.youtube.com/watch?v=RUZDndmoV0s)
 - [Since I Left You (Stereolab Remix)](https://www.youtube.com/watch?v=cVpeYfRZ6mY)
@@ -65,6 +64,7 @@ styles: ["Leftfield", "Abstract"]
 - [Two Hearts In 3/4 Time](https://www.youtube.com/watch?v=NLglw43AUkE)
 - [The Avalanches — Avalanche Rock](https://www.youtube.com/watch?v=_c_E53N6QfU)
 - [The Avalanches - Flight Tonight](https://www.youtube.com/watch?v=IvWsfyapD2Y)
+- [The Avalanches - Close To You](https://www.youtube.com/watch?v=eQN5j0bt678)
 - [The Avalanches - Diners Only (Original Release)](https://www.youtube.com/watch?v=iDTCSFQk9Cg)
 - [The Avalanches- A different feeling](https://www.youtube.com/watch?v=9loABWPkT2E)
 - [Electricity](https://www.youtube.com/watch?v=uPeQ9eP_FgY)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Modern Classical", "Prog Rock", "Classic Rock"]
 ---
 
-![Tubular Bells by Mike Oldfield](tubular-bells-1964259.jpg)
+{{< img src="tubular-bells-1964259.jpg" title="Tubular Bells by Mike Oldfield" >}}
 
 <!-- section break -->
 

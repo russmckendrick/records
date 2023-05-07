@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
 
-![The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna](the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967.jpg)
+{{< img src="the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967.jpg" title="The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,14 @@ styles: ["Soul", "Funk", "Disco"]
 
 
 ## Videos
-### Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007
-{{< youtube id="ZaMX0Cs5Bc4" title="Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007" >}}<br>
+### Jermaine Jackson - Let's Get Serious
+{{< youtube id="FMLKb4or8yg" title="Jermaine Jackson - Let's Get Serious" >}}<br>
 
 ### More Videos
 
+- [Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007](https://www.youtube.com/watch?v=ZaMX0Cs5Bc4)
 - [Melody Man–Smokey Robinson / remix DJ Spinna & Bobbito](https://www.youtube.com/watch?v=uOVu1qmf5ww)
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
-- [Jermaine Jackson - Let's Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
 
 
 ## Release Information

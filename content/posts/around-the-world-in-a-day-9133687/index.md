@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Dance-pop", "Funk"]
 ---
 
-![Around The World In A Day by Prince And The Revolution](around-the-world-in-a-day-9133687.jpg)
+{{< img src="around-the-world-in-a-day-9133687.jpg" title="Around The World In A Day by Prince And The Revolution" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Pop Rock", "Dance-pop", "Funk"]
 
 
 ## Videos
-### Prince & The Revolution - Raspberry Beret (Official Music Video)
-{{< youtube id="l7vRSu_wsNc" title="Prince & The Revolution - Raspberry Beret (Official Music Video)" >}}<br>
+### Prince & The Revolution - Paisley Park (Official Music Video)
+{{< youtube id="1mhL5ynXzB0" title="Prince & The Revolution - Paisley Park (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Prince & The Revolution - Paisley Park (Official Music Video)](https://www.youtube.com/watch?v=1mhL5ynXzB0)
+- [Prince & The Revolution - Raspberry Beret (Official Music Video)](https://www.youtube.com/watch?v=l7vRSu_wsNc)
 
 
 ## Release Information

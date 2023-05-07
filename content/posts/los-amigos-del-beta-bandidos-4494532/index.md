@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
 
-![Los Amigos Del Beta Bandidos by The Beta Band](los-amigos-del-beta-bandidos-4494532.jpg)
+{{< img src="los-amigos-del-beta-bandidos-4494532.jpg" title="Los Amigos Del Beta Bandidos by The Beta Band" >}}
 
 <!-- section break -->
 
@@ -29,13 +29,13 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 
 
 ## Videos
-### The Beta Band - Needles in My Eyes
-{{< youtube id="byJRrkigdEM" title="The Beta Band - Needles in My Eyes" >}}<br>
+### The Beta Band-Push It Out
+{{< youtube id="HluhRrB0bPA" title="The Beta Band-Push It Out" >}}<br>
 
 ### More Videos
 
 - [The Beta Band - Dr. Baker](https://www.youtube.com/watch?v=kbxoTkSkefo)
-- [The Beta Band-Push It Out](https://www.youtube.com/watch?v=HluhRrB0bPA)
+- [The Beta Band - Needles in My Eyes](https://www.youtube.com/watch?v=byJRrkigdEM)
 
 
 ## Release Information

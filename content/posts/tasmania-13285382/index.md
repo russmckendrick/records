@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![Tasmania by Pond](tasmania-13285382.jpg)
+{{< img src="tasmania-13285382.jpg" title="Tasmania by Pond" >}}
 
 <!-- section break -->
 

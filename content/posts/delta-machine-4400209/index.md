@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Delta Machine by Depeche Mode](delta-machine-4400209.jpg)
+{{< img src="delta-machine-4400209.jpg" title="Delta Machine by Depeche Mode" >}}
 
 <!-- section break -->
 

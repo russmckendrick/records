@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Trip Hop", "Downtempo"]
 ---
 
-![Maxinquaye by Tricky](maxinquaye-3430685.jpg)
+{{< img src="maxinquaye-3430685.jpg" title="Maxinquaye by Tricky" >}}
 
 <!-- section break -->
 

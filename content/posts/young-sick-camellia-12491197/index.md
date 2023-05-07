@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Young Sick Camellia by St. Paul & The Broken Bones](young-sick-camellia-12491197.jpg)
+{{< img src="young-sick-camellia-12491197.jpg" title="Young Sick Camellia by St. Paul & The Broken Bones" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Soul"]
 
 
 ## Videos
-### St. Paul & The Broken Bones - NASA (Audio)
-{{< youtube id="k5EtjM9uNPU" title="St. Paul & The Broken Bones - NASA (Audio)" >}}<br>
+### St. Paul & The Broken Bones - Apollo
+{{< youtube id="mHEPoG11EtE" title="St. Paul & The Broken Bones - Apollo" >}}<br>
 
 ### More Videos
 
-- [St. Paul & The Broken Bones - Apollo](https://www.youtube.com/watch?v=mHEPoG11EtE)
+- [St. Paul & The Broken Bones - NASA (Audio)](https://www.youtube.com/watch?v=k5EtjM9uNPU)
 
 
 ## Release Information

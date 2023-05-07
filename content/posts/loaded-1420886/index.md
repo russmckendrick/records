@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Britpop", "Hard Rock", "Synth-pop", "Indie Rock"]
 ---
 
-![Loaded by Various](loaded-1420886.jpg)
+{{< img src="loaded-1420886.jpg" title="Loaded by Various" >}}
 
 <!-- section break -->
 

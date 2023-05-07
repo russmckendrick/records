@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphonic Rock"]
 ---
 
-![Eras II by Devin Townsend](eras-ii-12482001.jpg)
+{{< img src="eras-ii-12482001.jpg" title="Eras II by Devin Townsend" >}}
 
 <!-- section break -->
 

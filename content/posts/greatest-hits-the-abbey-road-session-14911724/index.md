@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Greatest Hits (The Abbey Road Session) by Therapy?](greatest-hits-the-abbey-road-session-14911724.jpg)
+{{< img src="greatest-hits-the-abbey-road-session-14911724.jpg" title="Greatest Hits (The Abbey Road Session) by Therapy?" >}}
 
 <!-- section break -->
 

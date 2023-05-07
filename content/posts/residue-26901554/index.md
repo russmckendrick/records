@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-![Residue by Amplifier](residue-26901554.jpg)
+{{< img src="residue-26901554.jpg" title="Residue by Amplifier" >}}
 
 <!-- section break -->
 

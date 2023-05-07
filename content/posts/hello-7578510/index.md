@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
 
-![Hello! by Status Quo](hello-7578510.jpg)
+{{< img src="hello-7578510.jpg" title="Hello! by Status Quo" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![A Treasury by Nick Drake](a-treasury-6354022.jpg)
+{{< img src="a-treasury-6354022.jpg" title="A Treasury by Nick Drake" >}}
 
 <!-- section break -->
 
@@ -43,12 +43,12 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Nick Drake: River Man
-{{< youtube id="YqAPxKP2_gU" title="Nick Drake: River Man" >}}<br>
+### Nick Drake - Black Eyed Dog
+{{< youtube id="PabxhKTkE0U" title="Nick Drake - Black Eyed Dog" >}}<br>
 
 ### More Videos
 
-- [Nick Drake - Black Eyed Dog](https://www.youtube.com/watch?v=PabxhKTkE0U)
+- [Nick Drake: River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
 
 
 ## Release Information

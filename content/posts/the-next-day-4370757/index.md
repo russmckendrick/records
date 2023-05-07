@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Avantgarde"]
 ---
 
-![The Next Day by David Bowie](the-next-day-4370757.jpg)
+{{< img src="the-next-day-4370757.jpg" title="The Next Day by David Bowie" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Dream Pop"]
 ---
 
-![Devotion by Beach House](devotion-11684922.jpg)
+{{< img src="devotion-11684922.jpg" title="Devotion by Beach House" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Indie Rock", "Dream Pop"]
 
 
 ## Videos
-### Beach House - Turtle Island
-{{< youtube id="KVqd5KJVzNA" title="Beach House - Turtle Island" >}}<br>
+### Beach House - You Came To Me
+{{< youtube id="8UqwNLdb45k" title="Beach House - You Came To Me" >}}<br>
 
 ### More Videos
 
 - [Beach House  All the Years](https://www.youtube.com/watch?v=eWO4CuAKjyw)
 - [Beach House - Some Things Last A Long Time](https://www.youtube.com/watch?v=MlgkEjrdR9c)
-- [Beach House - You Came To Me](https://www.youtube.com/watch?v=8UqwNLdb45k)
+- [Beach House - Turtle Island](https://www.youtube.com/watch?v=KVqd5KJVzNA)
 - [Beach House Gila](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
 
 

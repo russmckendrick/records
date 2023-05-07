@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 ---
 
-![Silver Sun by Silver Sun](silver-sun-24926828.jpg)
+{{< img src="silver-sun-24926828.jpg" title="Silver Sun by Silver Sun" >}}
 
 <!-- section break -->
 

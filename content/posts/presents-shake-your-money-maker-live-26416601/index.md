@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock"]
 ---
 
-![Presents Shake Your Money Maker Live by The Black Crowes](presents-shake-your-money-maker-live-26416601.jpg)
+{{< img src="presents-shake-your-money-maker-live-26416601.jpg" title="Presents Shake Your Money Maker Live by The Black Crowes" >}}
 
 <!-- section break -->
 

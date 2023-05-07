@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 ---
 
-![Any Minute Now by Soulwax](any-minute-now-26815301.jpg)
+{{< img src="any-minute-now-26815301.jpg" title="Any Minute Now by Soulwax" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### E Talking
-{{< youtube id="3dYrgHnZtmU" title="E Talking" >}}<br>
+### Soulwax   E Talking
+{{< youtube id="SdbaDBp1S_I" title="Soulwax   E Talking" >}}<br>
 
 ### More Videos
 
-- [Soulwax   E Talking](https://www.youtube.com/watch?v=SdbaDBp1S_I)
+- [E Talking](https://www.youtube.com/watch?v=3dYrgHnZtmU)
 - [SOULWAX - NY Excuse](https://www.youtube.com/watch?v=EF3bu9fmheA)
 - [Soulwax - Any Minute Now](https://www.youtube.com/watch?v=aAhn3bh47m0)
 - [Soulwax - Please...don't be yourself](https://www.youtube.com/watch?v=uHZ-m6YrYy4)

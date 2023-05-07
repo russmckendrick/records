@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Boy Child - The Best Of 1967 - 1970 by Scott Walker](boy-child-the-best-of-1967-1970-22965146.jpg)
+{{< img src="boy-child-the-best-of-1967-1970-22965146.jpg" title="Boy Child - The Best Of 1967 - 1970 by Scott Walker" >}}
 
 <!-- section break -->
 

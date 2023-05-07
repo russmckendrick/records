@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![The Twenty Seven Club by Magenta](the-twenty-seven-club-6321416.jpg)
+{{< img src="the-twenty-seven-club-6321416.jpg" title="The Twenty Seven Club by Magenta" >}}
 
 <!-- section break -->
 

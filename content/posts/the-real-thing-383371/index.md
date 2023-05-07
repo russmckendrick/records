@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The Real Thing by Faith No More](the-real-thing-383371.jpg)
+{{< img src="the-real-thing-383371.jpg" title="The Real Thing by Faith No More" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### War Pigs (Live in Berlin 11.9.1989)
-{{< youtube id="305qpNQfhq8" title="War Pigs (Live in Berlin 11.9.1989)" >}}<br>
+### Epic
+{{< youtube id="EO6JN3LLTz8" title="Epic" >}}<br>
 
 ### More Videos
 
 - [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
 - [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
-- [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
 - [Zombie Eaters](https://www.youtube.com/watch?v=33dAH1vC4K0)
 - [The Real Thing](https://www.youtube.com/watch?v=HYFDKk4K1tY)
 - [Underwater Love](https://www.youtube.com/watch?v=jQ1N9khfSYc)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock"]
 - [Cowboy Song (B-Side)](https://www.youtube.com/watch?v=P1tSCCwnOrY)
 - [The Grade (B-Side)](https://www.youtube.com/watch?v=5DfYJq6R2Bs)
 - [From out of Nowhere (Extended Remix)](https://www.youtube.com/watch?v=7_-Mg20ISiU)
+- [War Pigs (Live in Berlin 11.9.1989)](https://www.youtube.com/watch?v=305qpNQfhq8)
 - [Surprise! You're Dead! (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=Io1zkvfbQrs)
 - [Chinese Arithmetic (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=0jB7-5-Z_qc)
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Goodbye Jumbo by World Party](goodbye-jumbo-20773816.jpg)
+{{< img src="goodbye-jumbo-20773816.jpg" title="Goodbye Jumbo by World Party" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-![New Funky Nation by Boo-Yaa T.R.I.B.E.](new-funky-nation-712190.jpg)
+{{< img src="new-funky-nation-712190.jpg" title="New Funky Nation by Boo-Yaa T.R.I.B.E." >}}
 
 <!-- section break -->
 
@@ -41,15 +41,15 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### Once Upon A Drive By
-{{< youtube id="GQPLfzFnWA0" title="Once Upon A Drive By" >}}<br>
+### Six Bad Brothas
+{{< youtube id="9AATTZxO2PQ" title="Six Bad Brothas" >}}<br>
 
 ### More Videos
 
-- [Six Bad Brothas](https://www.youtube.com/watch?v=9AATTZxO2PQ)
 - [Rated R](https://www.youtube.com/watch?v=UPI5Z9JCA7M)
 - [Don't Mess](https://www.youtube.com/watch?v=NTZaHs0Jukc)
 - [New Funky Nation](https://www.youtube.com/watch?v=wtj3sgm8M_I)
+- [Once Upon A Drive By](https://www.youtube.com/watch?v=GQPLfzFnWA0)
 - [T.R.I.B.E.](https://www.youtube.com/watch?v=bQv2-MxXXC4)
 - [Walk The Line](https://www.youtube.com/watch?v=JYFhSAVJpgc)
 - [R.A.I.D.](https://www.youtube.com/watch?v=ubYhrLHHtk0)

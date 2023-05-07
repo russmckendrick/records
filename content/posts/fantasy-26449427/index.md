@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
 
-![Fantasy by M83](fantasy-26449427.jpg)
+{{< img src="fantasy-26449427.jpg" title="Fantasy by M83" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 
 
 ## Videos
-### M83 - 'Us And The Rest' (Official Audio)
-{{< youtube id="SBX5LsazDho" title="M83 - 'Us And The Rest' (Official Audio)" >}}<br>
+### M83 - 'Laura' (Official Audio)
+{{< youtube id="lZG2c824nrE" title="M83 - 'Laura' (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -51,11 +51,11 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 - [M83 - 'Kool Nuit' feat. Kaela (Official Audio)](https://www.youtube.com/watch?v=q2A62QzfnJM)
 - [M83 - 'Deceiver' (Official Audio)](https://www.youtube.com/watch?v=COwo1n3W8Dk)
 - [M83 - 'Dismemberment Bureau' (Official Audio)](https://www.youtube.com/watch?v=yMsU1k9tlWA)
-- [M83 - 'Laura' (Official Audio)](https://www.youtube.com/watch?v=lZG2c824nrE)
 - [M83 - 'Sunny Boy' (Official Audio)](https://www.youtube.com/watch?v=lzbO0_Bk0ac)
 - [M83 - 'Amnesia' (Official Audio)](https://www.youtube.com/watch?v=6zNqhzl2Qv0)
 - [M83 - 'Sunny Boy Part 2' (Official Audio)](https://www.youtube.com/watch?v=T62NBKtEhlU)
 - [M83 - 'Water Deep' (Official Audio)](https://www.youtube.com/watch?v=ZKBtPvP0BCc)
+- [M83 - 'Us And The Rest' (Official Audio)](https://www.youtube.com/watch?v=SBX5LsazDho)
 - [M83 - 'Earth To Sea' (Official Audio)](https://www.youtube.com/watch?v=kyaO0zgBxa8)
 
 

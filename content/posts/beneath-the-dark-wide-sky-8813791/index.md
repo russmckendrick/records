@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Beneath The Dark Wide Sky by Dream The Electric Sleep](beneath-the-dark-wide-sky-8813791.jpg)
+{{< img src="beneath-the-dark-wide-sky-8813791.jpg" title="Beneath The Dark Wide Sky by Dream The Electric Sleep" >}}
 
 <!-- section break -->
 
@@ -51,12 +51,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### All Good Things
-{{< youtube id="fjo9bj0A-Qc" title="All Good Things" >}}<br>
+### Drift
+{{< youtube id="Ck-J8hWeqJY" title="Drift" >}}<br>
 
 ### More Videos
 
-- [Drift](https://www.youtube.com/watch?v=Ck-J8hWeqJY)
+- [All Good Things](https://www.youtube.com/watch?v=fjo9bj0A-Qc)
 
 
 ## Release Information

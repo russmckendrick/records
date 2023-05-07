@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Blues", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Baby Driver (Music From The Motion Picture) by Various](baby-driver-music-from-the-motion-picture-10548165.jpg)
+{{< img src="baby-driver-music-from-the-motion-picture-10548165.jpg" title="Baby Driver (Music From The Motion Picture) by Various" >}}
 
 <!-- section break -->
 
@@ -57,8 +57,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### The Commodores - Easy (Baby Driver Soundtrack)
-{{< youtube id="5-uU30V7Uis" title="The Commodores - Easy (Baby Driver Soundtrack)" >}}<br>
+### BABY DRIVER - 6-Minute Opening Clip
+{{< youtube id="6XMuUVw7TOM" title="BABY DRIVER - 6-Minute Opening Clip" >}}<br>
 
 ### More Videos
 
@@ -73,7 +73,6 @@ styles: ["Soundtrack"]
 - [Harlem Shuffle](https://www.youtube.com/watch?v=6bZyk5mixXk)
 - [Sky Ferreira - Easy (Baby Driver OST)](https://www.youtube.com/watch?v=esV8bKn8_Js)
 - [Queen - Brighton Rock (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=WOlN2a5jPhM)
-- [BABY DRIVER - 6-Minute Opening Clip](https://www.youtube.com/watch?v=6XMuUVw7TOM)
 - [Baby Driver Running Scene (1080p)](https://www.youtube.com/watch?v=7Y59oGt2XWU)
 - [Baby Driver OST - Jon Spencer Blues Explosion - Bellbottoms -](https://www.youtube.com/watch?v=udwZO-GqUoU)
 - [Young MC - Know How (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=8AVPYRe47ww)
@@ -81,6 +80,7 @@ styles: ["Soundtrack"]
 - [Kid Koala - Was He Slow? (Music From The Motion Picture Baby Driver) (Audio)](https://www.youtube.com/watch?v=3igDZrG3DTQ)
 - [Sky Ferreira - Easy (Music From The Motion Picture Baby Driver - Official Video)](https://www.youtube.com/watch?v=2DScjas2Nv8)
 - [Was He Slow? (Music From The Motion Picture Baby Driver)](https://www.youtube.com/watch?v=se_AfP_agEk)
+- [The Commodores - Easy (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=5-uU30V7Uis)
 - [Barry White - Never, Never Gonna Give Ya Up (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=JXQ-qs5bDkI)
 - [Blur - Intermission](https://www.youtube.com/watch?v=ZZCt92zLmLI)
 - [Neat Neat Neat](https://www.youtube.com/watch?v=Y3x5G9UmJOM)

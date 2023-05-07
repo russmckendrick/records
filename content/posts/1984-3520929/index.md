@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-![1984 by Van Halen](1984-3520929.jpg)
+{{< img src="1984-3520929.jpg" title="1984 by Van Halen" >}}
 
 <!-- section break -->
 

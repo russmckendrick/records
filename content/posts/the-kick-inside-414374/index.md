@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-![The Kick Inside by Kate Bush](the-kick-inside-414374.jpg)
+{{< img src="the-kick-inside-414374.jpg" title="The Kick Inside by Kate Bush" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,13 @@ styles: ["Art Rock", "Pop Rock"]
 
 
 ## Videos
-### Oh to Be in Love (2018 Remaster)
-{{< youtube id="9wtxpz3VMWY" title="Oh to Be in Love (2018 Remaster)" >}}<br>
+### Moving (2018 Remaster)
+{{< youtube id="UPxi6EmWp-o" title="Moving (2018 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Kate Bush - Wuthering Heights - Official Music Video - Version 1](https://www.youtube.com/watch?v=-1pMMIe4hb4)
 - [Kate Bush - The Man with the Child in His Eyes - Official Music Video](https://www.youtube.com/watch?v=NAj8suae3WY)
-- [Moving (2018 Remaster)](https://www.youtube.com/watch?v=UPxi6EmWp-o)
 - [The Saxophone Song (2018 Remaster)](https://www.youtube.com/watch?v=ArhssokTFuk)
 - [Strange Phenomena (2018 Remaster)](https://www.youtube.com/watch?v=uY-Z8Lte8WU)
 - [Kite (2018 Remaster)](https://www.youtube.com/watch?v=fZdZmDwEhl0)
@@ -56,6 +55,7 @@ styles: ["Art Rock", "Pop Rock"]
 - [Wuthering Heights (2018 Remaster)](https://www.youtube.com/watch?v=mj9RNQnRqPU)
 - [James and the Cold Gun (2018 Remaster)](https://www.youtube.com/watch?v=7Yj5OLEBje4)
 - [Feel It (2018 Remaster)](https://www.youtube.com/watch?v=dYPd5N71S4k)
+- [Oh to Be in Love (2018 Remaster)](https://www.youtube.com/watch?v=9wtxpz3VMWY)
 - [L'Amour Looks Something Like You (2018 Remaster)](https://www.youtube.com/watch?v=NnVmfYmguiQ)
 - [Them Heavy People (2018 Remaster)](https://www.youtube.com/watch?v=xNE8a51OYCQ)
 - [Room for the Life (2018 Remaster)](https://www.youtube.com/watch?v=M60QcBKxFPY)

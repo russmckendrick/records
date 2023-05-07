@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Gothic Metal"]
 ---
 
-![Prequelle by Ghost](prequelle-12074710.jpg)
+{{< img src="prequelle-12074710.jpg" title="Prequelle by Ghost" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Gothic Metal"]
 
 
 ## Videos
-### Helvetesfönster
-{{< youtube id="qvzpodhuMrM" title="Helvetesfönster" >}}<br>
+### Miasma
+{{< youtube id="BX335Z4esSU" title="Miasma" >}}<br>
 
 ### More Videos
 
@@ -45,10 +45,10 @@ styles: ["Gothic Metal"]
 - [Rats](https://www.youtube.com/watch?v=wwrsoQeh1Ig)
 - [Faith](https://www.youtube.com/watch?v=t9QNheVWL_4)
 - [See The Light](https://www.youtube.com/watch?v=EQPgumd-v8g)
-- [Miasma](https://www.youtube.com/watch?v=BX335Z4esSU)
 - [Dance Macabre](https://www.youtube.com/watch?v=ttY0vfyd-dI)
 - [Pro Memoria](https://www.youtube.com/watch?v=NPLFQpApMAg)
 - [Witch Image](https://www.youtube.com/watch?v=ymb-aG_lt9U)
+- [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)
 - [Life Eternal](https://www.youtube.com/watch?v=LU6ZN_CJICo)
 
 

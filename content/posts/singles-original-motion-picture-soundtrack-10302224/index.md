@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ---
 
-![Singles (Original Motion Picture Soundtrack) by Various](singles-original-motion-picture-soundtrack-10302224.jpg)
+{{< img src="singles-original-motion-picture-soundtrack-10302224.jpg" title="Singles (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 

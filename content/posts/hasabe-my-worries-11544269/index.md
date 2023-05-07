@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Folk, World, & Country"]
 styles: ["African"]
 ---
 
-![Hasabe - My Worries by Ayalew Mesfin](hasabe-my-worries-11544269.jpg)
+{{< img src="hasabe-my-worries-11544269.jpg" title="Hasabe - My Worries by Ayalew Mesfin" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["African"]
 
 
 ## Videos
-### Ambasel (Ambasel)
-{{< youtube id="u3zVeqlYkgI" title="Ambasel (Ambasel)" >}}<br>
+### Yesew Neger (Amazed by Humanity)
+{{< youtube id="7mPX4v98cRw" title="Yesew Neger (Amazed by Humanity)" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["African"]
 - [Gud Aderegechign (Blindsided by Love)](https://www.youtube.com/watch?v=Lr30mEKCXXY)
 - [Endet Liyesh (How Can I See You)](https://www.youtube.com/watch?v=enqrALfa3cM)
 - [Ewedish Nebere (I Used to Love You)](https://www.youtube.com/watch?v=GovAj-xsw1Q)
-- [Yesew Neger (Amazed by Humanity)](https://www.youtube.com/watch?v=7mPX4v98cRw)
+- [Ambasel (Ambasel)](https://www.youtube.com/watch?v=u3zVeqlYkgI)
 
 
 ## Release Information

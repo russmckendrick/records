@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
 
-![Songs In The Key Of Life by Stevie Wonder](songs-in-the-key-of-life-2102311.jpg)
+{{< img src="songs-in-the-key-of-life-2102311.jpg" title="Songs In The Key Of Life by Stevie Wonder" >}}
 
 <!-- section break -->
 
@@ -50,13 +50,13 @@ styles: ["Soul", "Disco"]
 
 
 ## Videos
-### Have A Talk With God
-{{< youtube id="XrLe6MSjBzg" title="Have A Talk With God" >}}<br>
+### Stevie Wonder - Black Man
+{{< youtube id="pEoE2UQXduA" title="Stevie Wonder - Black Man" >}}<br>
 
 ### More Videos
 
 - [Knocks Me Off My Feet](https://www.youtube.com/watch?v=3CB0_YU4G6Y)
-- [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
+- [Have A Talk With God](https://www.youtube.com/watch?v=XrLe6MSjBzg)
 
 
 ## Release Information

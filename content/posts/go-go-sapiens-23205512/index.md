@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop"]
 ---
 
-![Go Go Sapiens by EMF](go-go-sapiens-23205512.jpg)
+{{< img src="go-go-sapiens-23205512.jpg" title="Go Go Sapiens by EMF" >}}
 
 <!-- section break -->
 

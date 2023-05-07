@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Let It Be by The Beatles](let-it-be-20583457.jpg)
+{{< img src="let-it-be-20583457.jpg" title="Let It Be by The Beatles" >}}
 
 <!-- section break -->
 

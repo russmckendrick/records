@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-![Trouble Maker by Rancid](trouble-maker-10418344.jpg)
+{{< img src="trouble-maker-10418344.jpg" title="Trouble Maker by Rancid" >}}
 
 <!-- section break -->
 
@@ -45,15 +45,15 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Say Goodbye To Our Heroes - Rancid
-{{< youtube id="8PAYhHL3lGs" title="Say Goodbye To Our Heroes - Rancid" >}}<br>
+### Telegraph Avenue - Rancid
+{{< youtube id="2hcr2RdhWJ0" title="Telegraph Avenue - Rancid" >}}<br>
 
 ### More Videos
 
 - [Where I'm Going - Rancid](https://www.youtube.com/watch?v=pYnKxE1ezUc)
+- [Say Goodbye To Our Heroes - Rancid](https://www.youtube.com/watch?v=8PAYhHL3lGs)
 - [This Is Not The End - Rancid](https://www.youtube.com/watch?v=v4KK5RKucq8)
 - [An Intimate Close Up of a Street Punk Trouble Maker - Rancid](https://www.youtube.com/watch?v=hKeH-vtQIdo)
-- [Telegraph Avenue - Rancid](https://www.youtube.com/watch?v=2hcr2RdhWJ0)
 
 
 ## Release Information

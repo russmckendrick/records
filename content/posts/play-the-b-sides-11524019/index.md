@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Downtempo", "Leftfield"]
 ---
 
-![Play: The B Sides by Moby](play-the-b-sides-11524019.jpg)
+{{< img src="play-the-b-sides-11524019.jpg" title="Play: The B Sides by Moby" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Folk Rock"]
 ---
 
-![Thick As A Brick by Jethro Tull](thick-as-a-brick-7190621.jpg)
+{{< img src="thick-as-a-brick-7190621.jpg" title="Thick As A Brick by Jethro Tull" >}}
 
 <!-- section break -->
 

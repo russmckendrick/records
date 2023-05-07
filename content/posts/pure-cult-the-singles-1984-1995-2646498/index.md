@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ---
 
-![Pure Cult The Singles 1984 - 1995 by The Cult](pure-cult-the-singles-1984-1995-2646498.jpg)
+{{< img src="pure-cult-the-singles-1984-1995-2646498.jpg" title="Pure Cult The Singles 1984 - 1995 by The Cult" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Revolution (edit)
-{{< youtube id="eMntcphrGsE" title="Revolution (edit)" >}}<br>
+### Resurrection Joe (edit)
+{{< youtube id="h1Xfi6SY79o" title="Resurrection Joe (edit)" >}}<br>
 
 ### More Videos
 
@@ -54,6 +54,7 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 - [Lil’ Devil](https://www.youtube.com/watch?v=eUe2FG_NU_A)
 - [Spiritwalker (edit)](https://www.youtube.com/watch?v=dLOS2DvPCiI)
 - [The Witch (edit)](https://www.youtube.com/watch?v=yLB-oG8kP-s)
+- [Revolution (edit)](https://www.youtube.com/watch?v=eMntcphrGsE)
 - [Love Removal Machine](https://www.youtube.com/watch?v=C_EQ9Gr9bfU)
 - [Rain](https://www.youtube.com/watch?v=NlnrN3Gto1o)
 - [In The Clouds](https://www.youtube.com/watch?v=1qgmlp1qA2U)
@@ -62,7 +63,6 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 - [Heart Of Soul (edit)](https://www.youtube.com/watch?v=PVqIy6yG9Mc)
 - [Wild Flower](https://www.youtube.com/watch?v=R7kB7sycL28)
 - [Star (edit)](https://www.youtube.com/watch?v=CaA_q_2OVo4)
-- [Resurrection Joe (edit)](https://www.youtube.com/watch?v=h1Xfi6SY79o)
 - [Go West](https://www.youtube.com/watch?v=tFZCLyzHKUQ)
 - [Sun King (Edit)](https://www.youtube.com/watch?v=nZk57RPC6tY)
 - [Wild Hearted Son (edit)](https://www.youtube.com/watch?v=RW_E6GdDW5o)

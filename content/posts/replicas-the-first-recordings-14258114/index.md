@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["New Wave"]
 ---
 
-![Replicas (The First Recordings) by Gary Numan](replicas-the-first-recordings-14258114.jpg)
+{{< img src="replicas-the-first-recordings-14258114.jpg" title="Replicas (The First Recordings) by Gary Numan" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Only a Downstat
-{{< youtube id="cYA9DQXyH5E" title="Only a Downstat" >}}<br>
+### The Crazies
+{{< youtube id="-gXsmGoxl8k" title="The Crazies" >}}<br>
 
 ### More Videos
 
@@ -57,11 +57,11 @@ styles: ["New Wave"]
 - [The Machman (Early Version)](https://www.youtube.com/watch?v=UWJeYMgvMN4)
 - [Down in the Park (Early Version)](https://www.youtube.com/watch?v=YOZ2cnTaGZM)
 - [Do You Need the Service? (Early Version)](https://www.youtube.com/watch?v=fLo451kcJmU)
-- [The Crazies](https://www.youtube.com/watch?v=-gXsmGoxl8k)
 - [When the Machines Rock (Early Version)](https://www.youtube.com/watch?v=iubbPHJGPvE)
 - [Me, I Disconnect from You (Early Version)](https://www.youtube.com/watch?v=p9BIiWFzo4c)
 - [Praying to the Aliens (Early Version)](https://www.youtube.com/watch?v=yDPj-zofgDo)
 - [It Must Have Been Years (Early Version)](https://www.youtube.com/watch?v=0XUG457PIGk)
+- [Only a Downstat](https://www.youtube.com/watch?v=cYA9DQXyH5E)
 - [I Nearly Married a Human 3 (Early Version)](https://www.youtube.com/watch?v=jPbkfPF_hm8)
 - [Replicas (Early Version)](https://www.youtube.com/watch?v=aY7QRyt0qMk)
 - [Are 'Friends' Electric? (Early Version)](https://www.youtube.com/watch?v=yb-zvwA0994)

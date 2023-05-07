@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-![Where Have All The Flowers Gone? by Pete Seeger](where-have-all-the-flowers-gone-2943563.jpg)
+{{< img src="where-have-all-the-flowers-gone-2943563.jpg" title="Where Have All The Flowers Gone? by Pete Seeger" >}}
 
 <!-- section break -->
 

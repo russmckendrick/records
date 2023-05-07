@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![We by Arcade Fire](we-23120624.jpg)
+{{< img src="we-23120624.jpg" title="We by Arcade Fire" >}}
 
 <!-- section break -->
 

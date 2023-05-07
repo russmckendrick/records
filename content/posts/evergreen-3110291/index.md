@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Easy Listening"]
 ---
 
-![Evergreen by Acker Bilk His Clarinet And Strings](evergreen-3110291.jpg)
+{{< img src="evergreen-3110291.jpg" title="Evergreen by Acker Bilk His Clarinet And Strings" >}}
 
 <!-- section break -->
 
@@ -45,12 +45,12 @@ styles: ["Easy Listening"]
 
 
 ## Videos
-### Acker Bilk - Evergreen.flv
-{{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}<br>
+### Mr. Acker Bilk - Feelings
+{{< youtube id="ewdJyK5VysQ" title="Mr. Acker Bilk - Feelings" >}}<br>
 
 ### More Videos
 
-- [Mr. Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
+- [Acker Bilk - Evergreen.flv](https://www.youtube.com/watch?v=zSbNM1K_uE8)
 
 
 ## Release Information

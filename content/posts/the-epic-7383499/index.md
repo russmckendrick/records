@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 ---
 
-![The Epic by Kamasi Washington](the-epic-7383499.jpg)
+{{< img src="the-epic-7383499.jpg" title="The Epic by Kamasi Washington" >}}
 
 <!-- section break -->
 
@@ -48,14 +48,15 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 
 
 ## Videos
-### Kamasi Washington - 'Final Thought'
-{{< youtube id="YuQdtFb_Z2k" title="Kamasi Washington - 'Final Thought'" >}}<br>
+### Kamasi Washington - 'The Message'
+{{< youtube id="gI1wK508370" title="Kamasi Washington - 'The Message'" >}}<br>
 
 ### More Videos
 
 - [Kamasi Washington - 'Change of the Guard'](https://www.youtube.com/watch?v=NtQRBzSN9Vw)
 - [Kamasi Washington - 'Askim'](https://www.youtube.com/watch?v=mYdDFZLGx7U)
 - [Kamasi Washington - 'Isabelle'](https://www.youtube.com/watch?v=bCIAMO3Al1A)
+- [Kamasi Washington - 'Final Thought'](https://www.youtube.com/watch?v=YuQdtFb_Z2k)
 - [Kamasi Washington - 'The Next Step'](https://www.youtube.com/watch?v=rQ2bkIfHDl4)
 - [Kamasi Washington - 'The Rhythm Changes'](https://www.youtube.com/watch?v=OkLz4MyDmuE)
 - [Kamasi Washington - 'Miss Understanding'](https://www.youtube.com/watch?v=F-75-tUHIrQ)
@@ -68,7 +69,6 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 - [Kamasi Washington - 'Cherokee'](https://www.youtube.com/watch?v=3DM9fGXHhlk)
 - [Kamasi Washington - 'Clair de Lune'](https://www.youtube.com/watch?v=KqJJ-2cRR0M)
 - [Kamasi Washington - 'Malcolm's Theme'](https://www.youtube.com/watch?v=h-ywrqeQPto)
-- [Kamasi Washington - 'The Message'](https://www.youtube.com/watch?v=gI1wK508370)
 
 
 ## Release Information

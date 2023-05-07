@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Symphonic Metal"]
 ---
 
-![Metropolis Pt. 2: Scenes From A Memory by Dream Theater](metropolis-pt-2-scenes-from-a-memory-6151119.jpg)
+{{< img src="metropolis-pt-2-scenes-from-a-memory-6151119.jpg" title="Metropolis Pt. 2: Scenes From A Memory by Dream Theater" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Progressive Metal", "Symphonic Metal"]
 
 
 ## Videos
-### Scene Six: Home
-{{< youtube id="6qNgrtyUIQQ" title="Scene Six: Home" >}}<br>
+### Scene Seven: II. One Last Time
+{{< youtube id="K6mC13XIvCk" title="Scene Seven: II. One Last Time" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Progressive Metal", "Symphonic Metal"]
 - [Scene Three: II. Fatal Tragedy](https://www.youtube.com/watch?v=cCDLqz0NdCY)
 - [Scene Four: Beyond This Life](https://www.youtube.com/watch?v=-rhxFcAVYmI)
 - [Scene Five: Through Her Eyes](https://www.youtube.com/watch?v=3gy8hkVMqwQ)
+- [Scene Six: Home](https://www.youtube.com/watch?v=6qNgrtyUIQQ)
 - [Scene Seven: I. The Dance of Eternity](https://www.youtube.com/watch?v=eYCYGpu0OxM)
-- [Scene Seven: II. One Last Time](https://www.youtube.com/watch?v=K6mC13XIvCk)
 - [Scene Eight: The Spirit Carries On](https://www.youtube.com/watch?v=7NuiVUxZQfs)
 - [Scene Nine: Finally Free](https://www.youtube.com/watch?v=tdZKo7hPzmE)
 

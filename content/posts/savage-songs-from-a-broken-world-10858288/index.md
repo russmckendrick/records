@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial"]
 ---
 
-![Savage: Songs From A Broken World by Gary Numan](savage-songs-from-a-broken-world-10858288.jpg)
+{{< img src="savage-songs-from-a-broken-world-10858288.jpg" title="Savage: Songs From A Broken World by Gary Numan" >}}
 
 <!-- section break -->
 

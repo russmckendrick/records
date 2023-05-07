@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
 
-![All Of A Sudden I Miss Everyone by Explosions In The Sky](all-of-a-sudden-i-miss-everyone-2146324.jpg)
+{{< img src="all-of-a-sudden-i-miss-everyone-2146324.jpg" title="All Of A Sudden I Miss Everyone by Explosions In The Sky" >}}
 
 <!-- section break -->
 
@@ -34,14 +34,15 @@ styles: ["Post Rock", "Ambient"]
 
 
 ## Videos
-### Explosions in the Sky - All of a Sudden I Miss Everyone (Full Album)
-{{< youtube id="yXQ3zY96Ilw" title="Explosions in the Sky - All of a Sudden I Miss Everyone (Full Album)" >}}<br>
+### 03. Explosions in the sky - It's Natural to Be Afraid
+{{< youtube id="6h7HgpP7c_w" title="03. Explosions in the sky - It's Natural to Be Afraid" >}}<br>
 
 ### More Videos
 
 - [The Birth And Death Of The Day](https://www.youtube.com/watch?v=Fz-mWblMPpw)
 - [Explosions in the Sky - All of a Sudden I Miss Everyone [Full Album HD]](https://www.youtube.com/watch?v=tYfJiKWbUD8)
 - [Welcome, Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
+- [Explosions in the Sky - All of a Sudden I Miss Everyone (Full Album)](https://www.youtube.com/watch?v=yXQ3zY96Ilw)
 - [It's Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
 - [What Do You Go Home To?](https://www.youtube.com/watch?v=Pf-2d5i57gs)
 - [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
@@ -49,7 +50,6 @@ styles: ["Post Rock", "Ambient"]
 - [So Long, Lonesome](https://www.youtube.com/watch?v=rEf85cCQY3M)
 - [Welcome Ghosts By: Explosions in the Sky](https://www.youtube.com/watch?v=xTw-CwypKdk)
 - [Explosions in the Sky | All Of A Sudden I Miss EveryOne | Catastrophe And The Cure](https://www.youtube.com/watch?v=bRBTo-GRwA0)
-- [03. Explosions in the sky - It's Natural to Be Afraid](https://www.youtube.com/watch?v=6h7HgpP7c_w)
 - [Explosions in the Sky | All Of A Sudden I Miss EveryOne | It's Natural To Be Afraid](https://www.youtube.com/watch?v=NcFCUeYBcjs)
 - [Explosions in the Sky - The Birth and Death of the Day](https://www.youtube.com/watch?v=TnTCwg7-UKg)
 

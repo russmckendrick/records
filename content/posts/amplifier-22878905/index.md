@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
 
-![Amplifier by Amplifier](amplifier-22878905.jpg)
+{{< img src="amplifier-22878905.jpg" title="Amplifier by Amplifier" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
 
-![Pony by Orville Peck](pony-15159576.jpg)
+{{< img src="pony-15159576.jpg" title="Pony by Orville Peck" >}}
 
 <!-- section break -->
 
@@ -40,20 +40,20 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 
 
 ## Videos
-### Orville Peck - Turn To Hate [OFFICIAL VIDEO]
-{{< youtube id="vR-4l5M_MQ8" title="Orville Peck - Turn To Hate [OFFICIAL VIDEO]" >}}<br>
+### Kansas (Remembers Me Now)
+{{< youtube id="Jbml8g3iaDQ" title="Kansas (Remembers Me Now)" >}}<br>
 
 ### More Videos
 
 - [Orville Peck - Dead of Night [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=q3esGD6lcMM)
 - [Orville Peck - Hope To Die [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=60MHmrtEuRY)
 - [Orville Peck - Big Sky [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=wd_uz5rVO2I)
+- [Orville Peck - Turn To Hate [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=vR-4l5M_MQ8)
 - [Take You Back (The Iron Hoof Cattle Call)](https://www.youtube.com/watch?v=ofJiqL3NT64)
 - [Winds Change](https://www.youtube.com/watch?v=gjbGylBg4X4)
 - [Roses Are Falling](https://www.youtube.com/watch?v=PC6ITSNtxxM)
 - [Old River](https://www.youtube.com/watch?v=Uh0caTtJjgQ)
 - [Queen of the Rodeo](https://www.youtube.com/watch?v=zrLZ4fzUP5k)
-- [Kansas (Remembers Me Now)](https://www.youtube.com/watch?v=Jbml8g3iaDQ)
 
 
 ## Release Information

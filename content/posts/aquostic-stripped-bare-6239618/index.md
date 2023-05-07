@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic"]
 ---
 
-![Aquostic Stripped Bare by Status Quo](aquostic-stripped-bare-6239618.jpg)
+{{< img src="aquostic-stripped-bare-6239618.jpg" title="Aquostic Stripped Bare by Status Quo" >}}
 
 <!-- section break -->
 

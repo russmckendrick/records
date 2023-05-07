@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Punk"]
 ---
 
-![Bad Reputation by Joan Jett](bad-reputation-12840105.jpg)
+{{< img src="bad-reputation-12840105.jpg" title="Bad Reputation by Joan Jett" >}}
 
 <!-- section break -->
 

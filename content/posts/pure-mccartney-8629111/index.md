@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Pure McCartney by Paul McCartney](pure-mccartney-8629111.jpg)
+{{< img src="pure-mccartney-8629111.jpg" title="Pure McCartney by Paul McCartney" >}}
 
 <!-- section break -->
 

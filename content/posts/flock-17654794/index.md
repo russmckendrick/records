@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Flock by Jane Weaver](flock-17654794.jpg)
+{{< img src="flock-17654794.jpg" title="Flock by Jane Weaver" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: []
 
 
 ## Videos
-### Jane Weaver - Heartlow (Official Video)
-{{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}<br>
+### Stages Of Phases
+{{< youtube id="-2fmLoa6jwc" title="Stages Of Phases" >}}<br>
 
 ### More Videos
 
+- [Jane Weaver - Heartlow (Official Video)](https://www.youtube.com/watch?v=gSb3x-WKLh8)
 - [Jane Weaver - The Revolution Of Super Visions (Official Video)](https://www.youtube.com/watch?v=Zop_79wxs6M)
-- [Stages Of Phases](https://www.youtube.com/watch?v=-2fmLoa6jwc)
 - [Lux](https://www.youtube.com/watch?v=gVsw8943ego)
 - [Modern Reputation](https://www.youtube.com/watch?v=Ty4rkqddcQY)
 - [Flock](https://www.youtube.com/watch?v=XfeRoGIXpvE)

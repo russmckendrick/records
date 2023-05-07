@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Forge by Fassine](forge-14991962.jpg)
+{{< img src="forge-14991962.jpg" title="Forge by Fassine" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Forge
-{{< youtube id="nOz-mJlc5BA" title="Forge" >}}<br>
+### Everyone Is Guilty To Me
+{{< youtube id="9fMOGTcoc1w" title="Everyone Is Guilty To Me" >}}<br>
 
 ### More Videos
 
+- [Forge](https://www.youtube.com/watch?v=nOz-mJlc5BA)
 - [Perfectly Planned](https://www.youtube.com/watch?v=Yo1eSTQ8Clc)
-- [Everyone Is Guilty To Me](https://www.youtube.com/watch?v=9fMOGTcoc1w)
 - [Migraine](https://www.youtube.com/watch?v=MU_QGJUgGtM)
 
 

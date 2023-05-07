@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
 
-![Doppelgänger by Curve](doppelgnger-10770475.jpg)
+{{< img src="doppelgnger-10770475.jpg" title="Doppelgänger by Curve" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Curve - Ice that melts the tips
-{{< youtube id="OBI1FaLNQZA" title="Curve - Ice that melts the tips" >}}<br>
+### Curve - Horror Head
+{{< youtube id="_4xMR7mYPWU" title="Curve - Horror Head" >}}<br>
 
 ### More Videos
 
@@ -46,9 +46,9 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 - [Curve - Missing Link [1993]](https://www.youtube.com/watch?v=KqmGEPfRzk0)
 - [Sandpit](https://www.youtube.com/watch?v=qHX_2Orr1D4)
 - [CURVE - 'Horror Head (Remix)' - 12 1992](https://www.youtube.com/watch?v=o5kwCNC7c88)
+- [Curve - Ice that melts the tips](https://www.youtube.com/watch?v=OBI1FaLNQZA)
 - [Curve   Clipped](https://www.youtube.com/watch?v=4tJsZ6HUN2I)
 - [Curve- falling free  (aphex twin remix)](https://www.youtube.com/watch?v=GKwoghK6B1U)
-- [Curve - Horror Head](https://www.youtube.com/watch?v=_4xMR7mYPWU)
 - [Curve, Clipped](https://www.youtube.com/watch?v=moAIaLbcKb0)
 - [Curve - Doppelganger](https://www.youtube.com/watch?v=mT0dGTNtODc)
 - [Curve - Lillies Dying](https://www.youtube.com/watch?v=q7VKHpfv_Io)

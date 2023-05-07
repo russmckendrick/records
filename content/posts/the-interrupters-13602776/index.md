@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-![The Interrupters by The Interrupters](the-interrupters-13602776.jpg)
+{{< img src="the-interrupters-13602776.jpg" title="The Interrupters by The Interrupters" >}}
 
 <!-- section break -->
 

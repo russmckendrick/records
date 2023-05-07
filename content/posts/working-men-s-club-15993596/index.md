@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post-Punk", "Acid House", "New Wave"]
 ---
 
-![Working Men's Club by Working Men's Club](working-men-s-club-15993596.jpg)
+{{< img src="working-men-s-club-15993596.jpg" title="Working Men's Club by Working Men's Club" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Post-Punk", "Acid House", "New Wave"]
 
 
 ## Videos
-### Tomorrow
-{{< youtube id="Jm6UaS09FR0" title="Tomorrow" >}}<br>
+### Working Men's Club - 'Teeth'
+{{< youtube id="0ovHJ_NzHbE" title="Working Men's Club - 'Teeth'" >}}<br>
 
 ### More Videos
 
@@ -44,11 +44,11 @@ styles: ["Post-Punk", "Acid House", "New Wave"]
 - [Working Men's Club - Valleys (Official Video)](https://www.youtube.com/watch?v=pzkfcLzUYYg)
 - [Working Men's Club - 'A.A.A.A.'](https://www.youtube.com/watch?v=4uCC6IAbRWU)
 - [Cook a Coffee](https://www.youtube.com/watch?v=a3sS2Km_OJo)
-- [Working Men's Club - 'Teeth'](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
 - [John Cooper Clarke](https://www.youtube.com/watch?v=ortHnqOoQB0)
 - [Be My Guest](https://www.youtube.com/watch?v=Y8Qw9CuEmmc)
 - [Outside](https://www.youtube.com/watch?v=0HOJ0tDRi1Q)
 - [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
+- [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
 
 
 ## Release Information

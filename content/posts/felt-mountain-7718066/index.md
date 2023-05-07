@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Downtempo", "Ethereal"]
 ---
 
-![Felt Mountain by Goldfrapp](felt-mountain-7718066.jpg)
+{{< img src="felt-mountain-7718066.jpg" title="Felt Mountain by Goldfrapp" >}}
 
 <!-- section break -->
 

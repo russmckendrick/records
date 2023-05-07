@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-![Le Kov by Gwenno](le-kov-11638501.jpg)
+{{< img src="le-kov-11638501.jpg" title="Le Kov by Gwenno" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Hunros
-{{< youtube id="ksG8PnMCVF8" title="Hunros" >}}<br>
+### Koweth Ker
+{{< youtube id="v07qP27bZXI" title="Koweth Ker" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Indie Pop"]
 - [Den Heb Taves](https://www.youtube.com/watch?v=5k4rpFfb70Y)
 - [Daromres y'n Howl](https://www.youtube.com/watch?v=_Y4Pk3eCHo0)
 - [Aremorika](https://www.youtube.com/watch?v=UCG9vktV-pk)
-- [Koweth Ker](https://www.youtube.com/watch?v=v07qP27bZXI)
+- [Hunros](https://www.youtube.com/watch?v=ksG8PnMCVF8)
 
 
 ## Release Information

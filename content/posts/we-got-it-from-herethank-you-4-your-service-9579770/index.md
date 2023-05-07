@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-![We Got It From Here…Thank You 4 Your Service by A Tribe Called Quest](we-got-it-from-herethank-you-4-your-service-9579770.jpg)
+{{< img src="we-got-it-from-herethank-you-4-your-service-9579770.jpg" title="We Got It From Here…Thank You 4 Your Service by A Tribe Called Quest" >}}
 
 <!-- section break -->
 
@@ -44,12 +44,12 @@ styles: ["Conscious"]
 
 
 ## Videos
-### Enough!!
-{{< youtube id="wMA1kP7gWS4" title="Enough!!" >}}<br>
+### The Donald
+{{< youtube id="ReLIvQNlkLQ" title="The Donald" >}}<br>
 
 ### More Videos
 
-- [The Donald](https://www.youtube.com/watch?v=ReLIvQNlkLQ)
+- [Enough!!](https://www.youtube.com/watch?v=wMA1kP7gWS4)
 
 
 ## Release Information

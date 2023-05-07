@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-![No More Tears by Ozzy Osbourne](no-more-tears-20262616.jpg)
+{{< img src="no-more-tears-20262616.jpg" title="No More Tears by Ozzy Osbourne" >}}
 
 <!-- section break -->
 

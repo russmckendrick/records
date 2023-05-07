@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Idiot by Iggy Pop](the-idiot-10451933.jpg)
+{{< img src="the-idiot-10451933.jpg" title="The Idiot by Iggy Pop" >}}
 
 <!-- section break -->
 
@@ -36,16 +36,16 @@ styles: []
 
 
 ## Videos
-### Sister Midnight
-{{< youtube id="LAiQZGDmVXg" title="Sister Midnight" >}}<br>
+### Dum Dum Boys
+{{< youtube id="12Uks7c0G8c" title="Dum Dum Boys" >}}<br>
 
 ### More Videos
 
+- [Sister Midnight](https://www.youtube.com/watch?v=LAiQZGDmVXg)
 - [Nightclubbing](https://www.youtube.com/watch?v=EpECxEO4uZM)
 - [Funtime](https://www.youtube.com/watch?v=DDYatCwJvCA)
 - [Baby](https://www.youtube.com/watch?v=nU3EyAYg4t4)
 - [China Girl](https://www.youtube.com/watch?v=slU0PSJedbU)
-- [Dum Dum Boys](https://www.youtube.com/watch?v=12Uks7c0G8c)
 - [Tiny Girls](https://www.youtube.com/watch?v=80BN9xWkRsQ)
 - [Mass Production](https://www.youtube.com/watch?v=CmmlxVlUz7Y)
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![2112 by Rush](2112-814617.jpg)
+{{< img src="2112-814617.jpg" title="2112 by Rush" >}}
 
 <!-- section break -->
 

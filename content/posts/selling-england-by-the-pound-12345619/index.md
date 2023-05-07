@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Selling England By The Pound by Genesis](selling-england-by-the-pound-12345619.jpg)
+{{< img src="selling-england-by-the-pound-12345619.jpg" title="Selling England By The Pound by Genesis" >}}
 
 <!-- section break -->
 

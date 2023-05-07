@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![A Flash Of Darkness by Mark Morriss](a-flash-of-darkness-5871313.jpg)
+{{< img src="a-flash-of-darkness-5871313.jpg" title="A Flash Of Darkness by Mark Morriss" >}}
 
 <!-- section break -->
 

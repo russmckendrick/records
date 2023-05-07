@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Pocket Full of Kryptonite  by Spin Doctors](pocket-full-of-kryptonite-6958185.jpg)
+{{< img src="pocket-full-of-kryptonite-6958185.jpg" title="Pocket Full of Kryptonite  by Spin Doctors" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))
-{{< youtube id="YMh6cGih564" title="Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))" >}}<br>
+### Forty or Fifty
+{{< youtube id="a969Vyr_x4I" title="Forty or Fifty" >}}<br>
 
 ### More Videos
 
 - [Spin Doctors - Jimmy Olsen's Blues (New Version)](https://www.youtube.com/watch?v=GrQCro68sRU)
 - [Spin Doctors - What Time Is It?](https://www.youtube.com/watch?v=e86omL8uzks)
 - [Spin Doctors - Little Miss Can't Be Wrong](https://www.youtube.com/watch?v=cXWbMu4PtpE)
-- [Forty or Fifty](https://www.youtube.com/watch?v=a969Vyr_x4I)
 - [Refrigerator Car](https://www.youtube.com/watch?v=_aZ8KV_SyIE)
 - [More Than She Knows](https://www.youtube.com/watch?v=h6qAP__v1S4)
 - [Spin Doctors - Two Princes](https://www.youtube.com/watch?v=wsdy_rct6uo)
@@ -69,6 +68,7 @@ styles: ["Indie Rock"]
 - [Refrigerator Car ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=-4K3WVsZfWY)
 - [Rosetta Stone ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=4kJFR6ScpbA)
 - [Freeway Of The Plains ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=ltjUt3Om3Zw)
+- [Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))](https://www.youtube.com/watch?v=YMh6cGih564)
 - [Little Miss Can't Be Wrong ((live 9-25-1990 bootleg, Continental Divide, New York, NY))](https://www.youtube.com/watch?v=gARswxK2D-E)
 
 

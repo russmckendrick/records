@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ---
 
-![Zeroes And Ones - The Best Of by Jesus Jones](zeroes-and-ones-the-best-of-24975325.jpg)
+{{< img src="zeroes-and-ones-the-best-of-24975325.jpg" title="Zeroes And Ones - The Best Of by Jesus Jones" >}}
 
 <!-- section break -->
 

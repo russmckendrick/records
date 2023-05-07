@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![The Dark Third by Pure Reason Revolution](the-dark-third-3050616.jpg)
+{{< img src="the-dark-third-3050616.jpg" title="The Dark Third by Pure Reason Revolution" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Bullitts Dominae
-{{< youtube id="X3-VtVsXcdE" title="Bullitts Dominae" >}}<br>
+### Pure Reason Revolution - Voices in Winter / The Realms of Divine
+{{< youtube id="KKx0yODlwJs" title="Pure Reason Revolution - Voices in Winter / The Realms of Divine" >}}<br>
 
 ### More Videos
 
@@ -54,12 +54,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
 - [Voices in Winter / In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
 - [Pure Reason Revolution - Goshen's Remains](https://www.youtube.com/watch?v=DDHW8bsHB0w)
+- [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
 - [Arrival / The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
 - [He Tried to Show Them Magic / Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
 - [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
 - [Pure Reason Revolution - The Exact Colour](https://www.youtube.com/watch?v=TPWwd8AARjE)
 - [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
-- [Pure Reason Revolution - Voices in Winter / The Realms of Divine](https://www.youtube.com/watch?v=KKx0yODlwJs)
 - [The Twyncyn / Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)

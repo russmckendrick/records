@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
 
-![A Sunday Night Above The Rain by Marillion](a-sunday-night-above-the-rain-5864102.jpg)
+{{< img src="a-sunday-night-above-the-rain-5864102.jpg" title="A Sunday Night Above The Rain by Marillion" >}}
 
 <!-- section break -->
 

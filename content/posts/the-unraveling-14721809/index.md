@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Southern Rock", "Country Rock"]
 ---
 
-![The Unraveling by Drive-By Truckers](the-unraveling-14721809.jpg)
+{{< img src="the-unraveling-14721809.jpg" title="The Unraveling by Drive-By Truckers" >}}
 
 <!-- section break -->
 

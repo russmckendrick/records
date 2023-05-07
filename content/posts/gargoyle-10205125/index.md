@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 ---
 
-![Gargoyle by Mark Lanegan Band](gargoyle-10205125.jpg)
+{{< img src="gargoyle-10205125.jpg" title="Gargoyle by Mark Lanegan Band" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 
 
 ## Videos
-### Mark Lanegan Band - Goodbye To Beauty
-{{< youtube id="O1mgvLWOKQk" title="Mark Lanegan Band - Goodbye To Beauty" >}}<br>
+### Mark Lanegan Band - Old Swan  (Gargoyle 2017)
+{{< youtube id="yUezUNkbAc8" title="Mark Lanegan Band - Old Swan  (Gargoyle 2017)" >}}<br>
 
 ### More Videos
 
@@ -48,9 +48,9 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 - [Mark Lanegan - Blue Blue Sea](https://www.youtube.com/watch?v=jNc6t2QAQto)
 - [Mark Lanegan - Sister](https://www.youtube.com/watch?v=EJWA0ZVa_aE)
 - [Mark Lanegan Band - Emperor](https://www.youtube.com/watch?v=7QAEdZ3Af1A)
+- [Mark Lanegan Band - Goodbye To Beauty](https://www.youtube.com/watch?v=O1mgvLWOKQk)
 - [Mark Lanegan - Drunk to Destruction](https://www.youtube.com/watch?v=Xqqhtr5_9a4)
 - [Mark Lanegan Band - First Day Of Winter](https://www.youtube.com/watch?v=24Mh47Rby-U)
-- [Mark Lanegan Band - Old Swan  (Gargoyle 2017)](https://www.youtube.com/watch?v=yUezUNkbAc8)
 
 
 ## Release Information

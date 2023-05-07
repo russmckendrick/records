@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![0898 Beautiful South by The Beautiful South](0898-beautiful-south-12047875.jpg)
+{{< img src="0898-beautiful-south-12047875.jpg" title="0898 Beautiful South by The Beautiful South" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Beautiful South - We Are Each Other
-{{< youtube id="oyB7inWkz_g" title="The Beautiful South - We Are Each Other" >}}<br>
+### Here It Is Again
+{{< youtube id="cfIbFWrqGZ8" title="Here It Is Again" >}}<br>
 
 ### More Videos
 
 - [The Beautiful South - Old Red Eyes Is Back](https://www.youtube.com/watch?v=ggJYJ9frSl0)
 - [The Beautiful South - Bell Bottomed Tear [Live]](https://www.youtube.com/watch?v=8EqtpCLUbvM)
-- [Here It Is Again](https://www.youtube.com/watch?v=cfIbFWrqGZ8)
+- [The Beautiful South - We Are Each Other](https://www.youtube.com/watch?v=oyB7inWkz_g)
 - [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
 - [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-![25th Anniversary Vinyl Collection  by Public Enemy](25th-anniversary-vinyl-collection-4593269.jpg)
+{{< img src="25th-anniversary-vinyl-collection-4593269.jpg" title="25th Anniversary Vinyl Collection  by Public Enemy" >}}
 
 <!-- section break -->
 

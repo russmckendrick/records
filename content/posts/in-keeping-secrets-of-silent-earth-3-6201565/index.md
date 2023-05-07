@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-![In Keeping Secrets Of Silent Earth: 3 by Coheed And Cambria](in-keeping-secrets-of-silent-earth-3-6201565.jpg)
+{{< img src="in-keeping-secrets-of-silent-earth-3-6201565.jpg" title="In Keeping Secrets Of Silent Earth: 3 by Coheed And Cambria" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Videos
-### Coheed and Cambria - Devil in Jersey City
-{{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}<br>
+### Coheed and Cambria - A Favor House Atlantic (Official Video)
+{{< youtube id="pRWjLLpwnOM" title="Coheed and Cambria - A Favor House Atlantic (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Coheed and Cambria - A Favor House Atlantic (Official Video)](https://www.youtube.com/watch?v=pRWjLLpwnOM)
+- [Coheed and Cambria - Devil in Jersey City](https://www.youtube.com/watch?v=3bwELa13rBo)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
 
-![Liquidizer by Jesus Jones](liquidizer-25037398.jpg)
+{{< img src="liquidizer-25037398.jpg" title="Liquidizer by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 
 
 ## Videos
-### Someone To Blame
-{{< youtube id="njmTNKyqBSA" title="Someone To Blame" >}}<br>
+### Info Freako
+{{< youtube id="nxFXYO6vZ-I" title="Info Freako" >}}<br>
 
 ### More Videos
 
@@ -51,11 +51,11 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 - [All The Answers](https://www.youtube.com/watch?v=GyNTQrFaVWM)
 - [What's Going On](https://www.youtube.com/watch?v=6yrnnT_GE6M)
 - [Song 13](https://www.youtube.com/watch?v=Ar0K_2wkX5Y)
-- [Info Freako](https://www.youtube.com/watch?v=nxFXYO6vZ-I)
 - [Bring It On Down](https://www.youtube.com/watch?v=ugCOnKCa3Fs)
 - [Too Much To Learn](https://www.youtube.com/watch?v=siRYodWXb2U)
 - [What Would You Know](https://www.youtube.com/watch?v=YulSlxsjpDY)
 - [One For The Money](https://www.youtube.com/watch?v=JUIO1Q8a2tA)
+- [Someone To Blame](https://www.youtube.com/watch?v=njmTNKyqBSA)
 
 
 ## Release Information

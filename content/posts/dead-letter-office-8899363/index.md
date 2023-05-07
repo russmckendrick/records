@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Dead Letter Office by R.E.M.](dead-letter-office-8899363.jpg)
+{{< img src="dead-letter-office-8899363.jpg" title="Dead Letter Office by R.E.M." >}}
 
 <!-- section break -->
 

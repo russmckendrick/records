@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 ---
 
-![Music From Big Pink by The Band](music-from-big-pink-12477287.jpg)
+{{< img src="music-from-big-pink-12477287.jpg" title="Music From Big Pink by The Band" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 
 
 ## Videos
-### Caledonia Mission (Remastered)
-{{< youtube id="X3gP0E_wr4Y" title="Caledonia Mission (Remastered)" >}}<br>
+### In A Station (Remixed 2018)
+{{< youtube id="bS3cWdeJ664" title="In A Station (Remixed 2018)" >}}<br>
 
 ### More Videos
 
 - [Tears Of Rage (Remixed 2018)](https://www.youtube.com/watch?v=E9S5Wwa63a0)
 - [To Kingdom Come (Remastered)](https://www.youtube.com/watch?v=sWNgvsv243A)
-- [In A Station (Remixed 2018)](https://www.youtube.com/watch?v=bS3cWdeJ664)
+- [Caledonia Mission (Remastered)](https://www.youtube.com/watch?v=X3gP0E_wr4Y)
 - [The Weight (Remixed 2018)](https://www.youtube.com/watch?v=-Jy6P9TltXQ)
 - [We Can Talk (Remixed 2018)](https://www.youtube.com/watch?v=P-megEAwgko)
 - [Long Black Veil (Remixed 2018)](https://www.youtube.com/watch?v=Gttwp4OVyxM)

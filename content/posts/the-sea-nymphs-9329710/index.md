@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-![The Sea Nymphs by The Sea Nymphs](the-sea-nymphs-9329710.jpg)
+{{< img src="the-sea-nymphs-9329710.jpg" title="The Sea Nymphs by The Sea Nymphs" >}}
 
 <!-- section break -->
 
@@ -44,14 +44,14 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### The Sea Nymphs : Abade
-{{< youtube id="h2McejcOiwI" title="The Sea Nymphs : Abade" >}}<br>
+### The Sea Nymphs - Shaping The River
+{{< youtube id="TbxzUhk7R5c" title="The Sea Nymphs - Shaping The River" >}}<br>
 
 ### More Videos
 
+- [The Sea Nymphs : Abade](https://www.youtube.com/watch?v=h2McejcOiwI)
 - [The Sea Nymphs - The Sea Ritual (Peel Session)](https://www.youtube.com/watch?v=5NjQgbEduQQ)
 - [The Sea Nymphs - The Psalm Of Life](https://www.youtube.com/watch?v=NIk1D39lqLQ)
-- [The Sea Nymphs - Shaping The River](https://www.youtube.com/watch?v=TbxzUhk7R5c)
 - [The Sea Nymphs - In The Corner Of Sin](https://www.youtube.com/watch?v=yrHJ0cLBObA)
 - [The Sea Nymphs - Lucky Lucy](https://www.youtube.com/watch?v=zQfsgQdLUaY)
 - [The Sea Nymphs - Christ Alive](https://www.youtube.com/watch?v=95POAOWn2xM)

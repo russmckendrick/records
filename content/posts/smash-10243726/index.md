@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Punk", "Hardcore"]
 ---
 
-![Smash by The Offspring](smash-10243726.jpg)
+{{< img src="smash-10243726.jpg" title="Smash by The Offspring" >}}
 
 <!-- section break -->
 
@@ -42,17 +42,17 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 
 
 ## Videos
-### Gotta Get Away
-{{< youtube id="vSEUJHZDppo" title="Gotta Get Away" >}}<br>
+### The Offspring - Come Out And Play
+{{< youtube id="1jOk8dk-qaU" title="The Offspring - Come Out And Play" >}}<br>
 
 ### More Videos
 
-- [The Offspring - Come Out And Play](https://www.youtube.com/watch?v=1jOk8dk-qaU)
 - [The Offspring - Self Esteem](https://www.youtube.com/watch?v=Abrn8aVQ76Q)
 - [The Offspring - Gotta Get Away](https://www.youtube.com/watch?v=C6jz1hewTzA)
 - [Time to Relax](https://www.youtube.com/watch?v=c-sORaM-UJM)
 - [Nitro (Youth Energy)](https://www.youtube.com/watch?v=Z4V0HpfinOs)
 - [Bad Habit](https://www.youtube.com/watch?v=U43XOSiKfqM)
+- [Gotta Get Away](https://www.youtube.com/watch?v=vSEUJHZDppo)
 - [Genocide](https://www.youtube.com/watch?v=8O9HntOhZnM)
 - [Something to Believe In](https://www.youtube.com/watch?v=NckxL3ShTCY)
 - [Come Out and Play](https://www.youtube.com/watch?v=GHUql3OC_uU)

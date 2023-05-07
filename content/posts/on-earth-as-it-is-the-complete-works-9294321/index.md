@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![On Earth As It Is: The Complete Works by Mother Love Bone](on-earth-as-it-is-the-complete-works-9294321.jpg)
+{{< img src="on-earth-as-it-is-the-complete-works-9294321.jpg" title="On Earth As It Is: The Complete Works by Mother Love Bone" >}}
 
 <!-- section break -->
 

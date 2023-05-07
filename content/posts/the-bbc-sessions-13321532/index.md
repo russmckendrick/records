@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The BBC Sessions by Belle & Sebastian](the-bbc-sessions-13321532.jpg)
+{{< img src="the-bbc-sessions-13321532.jpg" title="The BBC Sessions by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -42,12 +42,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)
-{{< youtube id="7A2rbeKqulU" title="Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)" >}}<br>
+### The State I Am In - The Belle and Sebastian
+{{< youtube id="Qxw4jHXmv-A" title="The State I Am In - The Belle and Sebastian" >}}<br>
 
 ### More Videos
 
-- [The State I Am In - The Belle and Sebastian](https://www.youtube.com/watch?v=Qxw4jHXmv-A)
+- [Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)](https://www.youtube.com/watch?v=7A2rbeKqulU)
 
 
 ## Release Information

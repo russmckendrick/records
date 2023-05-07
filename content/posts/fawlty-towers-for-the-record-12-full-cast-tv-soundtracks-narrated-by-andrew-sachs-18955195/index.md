@@ -14,7 +14,7 @@ genres: ["Non-Music", "Stage & Screen"]
 styles: ["Comedy", "Radioplay", "Soundtrack"]
 ---
 
-![Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs) by Fawlty Towers](fawlty-towers-for-the-record-12-full-cast-tv-soundtracks-narrated-by-andrew-sachs-18955195.jpg)
+{{< img src="fawlty-towers-for-the-record-12-full-cast-tv-soundtracks-narrated-by-andrew-sachs-18955195.jpg" title="Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs) by Fawlty Towers" >}}
 
 <!-- section break -->
 

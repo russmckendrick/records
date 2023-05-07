@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 ---
 
-![Bedroom by bdrmm](bedroom-15830094.jpg)
+{{< img src="bedroom-15830094.jpg" title="Bedroom by bdrmm" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 
 
 ## Videos
-### bdrmm - Happy (Official Audio)
-{{< youtube id="Po-RJ3sYSpM" title="bdrmm - Happy (Official Audio)" >}}<br>
+### bdrmm - Is That What You Wanted To Hear? (Official Video)
+{{< youtube id="J-fwuaYXv3M" title="bdrmm - Is That What You Wanted To Hear? (Official Video)" >}}<br>
 
 ### More Videos
 
 - [bdrmm - Bedroom (Full Album)](https://www.youtube.com/watch?v=eQWIrE9xGes)
-- [bdrmm - Is That What You Wanted To Hear? (Official Video)](https://www.youtube.com/watch?v=J-fwuaYXv3M)
 - [bdrmm - A Reason To Celebrate (Official Audio)](https://www.youtube.com/watch?v=_PMHvJwelug)
+- [bdrmm - Happy (Official Audio)](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
 
 
 ## Release Information

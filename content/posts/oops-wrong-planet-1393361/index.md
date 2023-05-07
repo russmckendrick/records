@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![Oops! Wrong Planet by Utopia](oops-wrong-planet-1393361.jpg)
+{{< img src="oops-wrong-planet-1393361.jpg" title="Oops! Wrong Planet by Utopia" >}}
 
 <!-- section break -->
 

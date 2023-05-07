@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz"]
 styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 ---
 
-![To Believe by The Cinematic Orchestra](to-believe-13344503.jpg)
+{{< img src="to-believe-13344503.jpg" title="To Believe by The Cinematic Orchestra" >}}
 
 <!-- section break -->
 
@@ -35,19 +35,19 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 
 
 ## Videos
-### The Cinematic Orchestra - The Workers of Art
-{{< youtube id="t_CWeHxRuO4" title="The Cinematic Orchestra - The Workers of Art" >}}<br>
+### The Cinematic Orchestra - A Caged Bird/Imitations of Life (feat. Roots Manuva)
+{{< youtube id="o-aH1qXU67I" title="The Cinematic Orchestra - A Caged Bird/Imitations of Life (feat. Roots Manuva)" >}}<br>
 
 ### More Videos
 
 - [The Cinematic Orchestra - 'To Believe feat. Moses Sumney'](https://www.youtube.com/watch?v=e7q4sgupsZc)
 - [The Cinematic Orchestra - A Promise (feat. Heidi Vogel) (Edit)](https://www.youtube.com/watch?v=RmhITY04XRA)
-- [The Cinematic Orchestra - A Caged Bird/Imitations of Life (feat. Roots Manuva)](https://www.youtube.com/watch?v=o-aH1qXU67I)
 - [The Cinematic Orchestra - 'To Believe feat  Moses Sumney'](https://www.youtube.com/watch?v=1UrI94XojRs)
 - [The Cinematic Orchestra - Wait For Now/Leave The World (feat. Tawiah)](https://www.youtube.com/watch?v=1iPVvexTouo)
 - [The Cinematic Orchestra - Zero One/This Fantasy (feat. Grey Reverend)](https://www.youtube.com/watch?v=NZNLwgAPIgo)
 - [The Cinematic Orchestra - Lessons](https://www.youtube.com/watch?v=9od_Cm-XD-g)
 - [The Cinematic Orchestra - A Promise (feat. Heidi Vogel)](https://www.youtube.com/watch?v=K0ks9CBYDiM)
+- [The Cinematic Orchestra - The Workers of Art](https://www.youtube.com/watch?v=t_CWeHxRuO4)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Where You Been by Dinosaur Jr.](where-you-been-14192609.jpg)
+{{< img src="where-you-been-14192609.jpg" title="Where You Been by Dinosaur Jr." >}}
 
 <!-- section break -->
 
@@ -49,12 +49,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Dinosaur Jr - Out There
-{{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}<br>
+### Dinosaur Jr - Get Me
+{{< youtube id="ybExfDHg1i0" title="Dinosaur Jr - Get Me" >}}<br>
 
 ### More Videos
 
-- [Dinosaur Jr - Get Me](https://www.youtube.com/watch?v=ybExfDHg1i0)
+- [Dinosaur Jr - Out There](https://www.youtube.com/watch?v=XelDCDRnboE)
 - [Dinosaur Jr - Start Choppin'](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
 - [Dinosaur Jr - Goin' Home](https://www.youtube.com/watch?v=30h3HWSarDA)
 

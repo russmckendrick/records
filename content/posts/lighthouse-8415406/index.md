@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
-![Lighthouse by Iamthemorning](lighthouse-8415406.jpg)
+{{< img src="lighthouse-8415406.jpg" title="Lighthouse by Iamthemorning" >}}
 
 <!-- section break -->
 

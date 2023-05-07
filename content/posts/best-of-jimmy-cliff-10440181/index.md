@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: []
 ---
 
-![Best Of Jimmy Cliff by Jimmy Cliff](best-of-jimmy-cliff-10440181.jpg)
+{{< img src="best-of-jimmy-cliff-10440181.jpg" title="Best Of Jimmy Cliff by Jimmy Cliff" >}}
 
 <!-- section break -->
 

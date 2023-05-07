@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ---
 
-![Films: Past And Future by Rob Dougan](films-past-and-future-13623720.jpg)
+{{< img src="films-past-and-future-13623720.jpg" title="Films: Past And Future by Rob Dougan" >}}
 
 <!-- section break -->
 
@@ -46,12 +46,12 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 
 
 ## Videos
-### Films: Past and Future  Rob Dougan  (Walkthrough)
-{{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}<br>
+### FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)
+{{< youtube id="mdIEqCWV9U8" title="FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)" >}}<br>
 
 ### More Videos
 
-- [FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)](https://www.youtube.com/watch?v=mdIEqCWV9U8)
+- [Films: Past and Future  Rob Dougan  (Walkthrough)](https://www.youtube.com/watch?v=oBJytj9u4MY)
 
 
 ## Release Information

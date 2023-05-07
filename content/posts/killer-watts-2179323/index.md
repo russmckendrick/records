@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ---
 
-![Killer Watts by Various](killer-watts-2179323.jpg)
+{{< img src="killer-watts-2179323.jpg" title="Killer Watts by Various" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,14 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 
 
 ## Videos
-### shakin'street- Solid As A Rock
-{{< youtube id="v6KkdEzc9EY" title="shakin'street- Solid As A Rock" >}}<br>
+### Ozz - 05.Checkin' It Out (Baby Don't You Cry)
+{{< youtube id="fk447PtK5Zk" title="Ozz - 05.Checkin' It Out (Baby Don't You Cry)" >}}<br>
 
 ### More Videos
 
 - [Aerosmith - No Surprize](https://www.youtube.com/watch?v=_roTCXelnq0)
 - [Ray Gomez - U.S.A.](https://www.youtube.com/watch?v=07d0ynor2TU)
-- [Ozz - 05.Checkin' It Out (Baby Don't You Cry)](https://www.youtube.com/watch?v=fk447PtK5Zk)
+- [shakin'street- Solid As A Rock](https://www.youtube.com/watch?v=v6KkdEzc9EY)
 - [Too Wild To Tame - The Boyzz](https://www.youtube.com/watch?v=9aHCp8TK_Tw)
 - [Journey-Line of Fire(Departure)](https://www.youtube.com/watch?v=cHxkJ9TTSdk)
 - [Boogie No More](https://www.youtube.com/watch?v=H36aL8u7eX0)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-![Atmosphere by Joy Division](atmosphere-15622185.jpg)
+{{< img src="atmosphere-15622185.jpg" title="Atmosphere by Joy Division" >}}
 
 <!-- section break -->
 

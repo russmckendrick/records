@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Some Great Reward by Depeche Mode](some-great-reward-8953147.jpg)
+{{< img src="some-great-reward-8953147.jpg" title="Some Great Reward by Depeche Mode" >}}
 
 <!-- section break -->
 

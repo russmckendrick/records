@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![World's Strongest Man by Gaz Coombes](world-s-strongest-man-11949416.jpg)
+{{< img src="world-s-strongest-man-11949416.jpg" title="World's Strongest Man by Gaz Coombes" >}}
 
 <!-- section break -->
 

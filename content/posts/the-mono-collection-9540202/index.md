@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Mono Collection by The Kinks](the-mono-collection-9540202.jpg)
+{{< img src="the-mono-collection-9540202.jpg" title="The Mono Collection by The Kinks" >}}
 
 <!-- section break -->
 

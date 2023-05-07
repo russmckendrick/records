@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![Telekon by Gary Numan](telekon-7788320.jpg)
+{{< img src="telekon-7788320.jpg" title="Telekon by Gary Numan" >}}
 
 <!-- section break -->
 
@@ -46,15 +46,15 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Sleep by Windows
-{{< youtube id="0Wu9AtBqpnY" title="Sleep by Windows" >}}<br>
+### Telekon
+{{< youtube id="EAFu1wj2f44" title="Telekon" >}}<br>
 
 ### More Videos
 
 - [Gary Numan - This Wreckage](https://www.youtube.com/watch?v=m9uvIqIUq4U)
 - [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
-- [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
 - [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
+- [Sleep by Windows](https://www.youtube.com/watch?v=0Wu9AtBqpnY)
 - [I'm an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
 - [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)

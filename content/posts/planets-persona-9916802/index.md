@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ---
 
-![Planets + Persona by Richard Barbieri](planets-persona-9916802.jpg)
+{{< img src="planets-persona-9916802.jpg" title="Planets + Persona by Richard Barbieri" >}}
 
 <!-- section break -->
 
@@ -32,13 +32,13 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 
 
 ## Videos
-### Richard Barbieri - New Found Land (from Planets & Persona)
-{{< youtube id="YEUZtutCahE" title="Richard Barbieri - New Found Land (from Planets & Persona)" >}}<br>
+### Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)
+{{< youtube id="MQiZVQc06KM" title="Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)" >}}<br>
 
 ### More Videos
 
 - [Richard Barbieri - Planets + Persona (album montage)](https://www.youtube.com/watch?v=wx5bKmBCVYg)
-- [Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)](https://www.youtube.com/watch?v=MQiZVQc06KM)
+- [Richard Barbieri - New Found Land (from Planets & Persona)](https://www.youtube.com/watch?v=YEUZtutCahE)
 
 
 ## Release Information

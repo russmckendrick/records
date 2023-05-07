@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![West Coast Vs. Wessex by NOFX](west-coast-vs-wessex-15699574.jpg)
+{{< img src="west-coast-vs-wessex-15699574.jpg" title="West Coast Vs. Wessex by NOFX" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Punk"]
 
 
 ## Videos
-### Ballad of Me and My Friends
-{{< youtube id="noKFSquOvW4" title="Ballad of Me and My Friends" >}}<br>
+### Eat the Meek
+{{< youtube id="Qiaaf0D3PoM" title="Eat the Meek" >}}<br>
 
 ### More Videos
 
-- [Eat the Meek](https://www.youtube.com/watch?v=Qiaaf0D3PoM)
 - [Scavenger Type](https://www.youtube.com/watch?v=CzNNPAPbGp0)
+- [Ballad of Me and My Friends](https://www.youtube.com/watch?v=noKFSquOvW4)
 - [NOFX - Worse Things Happen at Sea (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=XRJNeujU6ok)
 - [NOFX - Glory Hallelujah (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=pm_I2c_PHYU)
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![A Foot In The Door (The Best Of Pink Floyd) by Pink Floyd](a-foot-in-the-door-the-best-of-pink-floyd-12569365.jpg)
+{{< img src="a-foot-in-the-door-the-best-of-pink-floyd-12569365.jpg" title="A Foot In The Door (The Best Of Pink Floyd) by Pink Floyd" >}}
 
 <!-- section break -->
 

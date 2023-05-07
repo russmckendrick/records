@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ---
 
-![Saturdays = Youth by M83](saturdays-youth-7785948.jpg)
+{{< img src="saturdays-youth-7785948.jpg" title="Saturdays = Youth by M83" >}}
 
 <!-- section break -->
 

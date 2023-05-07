@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Let England Shake by PJ Harvey](let-england-shake-2709851.jpg)
+{{< img src="let-england-shake-2709851.jpg" title="Let England Shake by PJ Harvey" >}}
 
 <!-- section break -->
 

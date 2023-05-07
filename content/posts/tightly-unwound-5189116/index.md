@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Tightly Unwound by The Pineapple Thief](tightly-unwound-5189116.jpg)
+{{< img src="tightly-unwound-5189116.jpg" title="Tightly Unwound by The Pineapple Thief" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### The Pineapple Thief - Shoot First (from Tightly Unwound)
-{{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First (from Tightly Unwound)" >}}<br>
+### Tightly Wound
+{{< youtube id="qlfgcaXRZ7U" title="Tightly Wound" >}}<br>
 
 ### More Videos
 
-- [Tightly Wound](https://www.youtube.com/watch?v=qlfgcaXRZ7U)
+- [The Pineapple Thief - Shoot First (from Tightly Unwound)](https://www.youtube.com/watch?v=8vwYejVfkas)
 - [The Pineapple Thief - Too Much to Lose (from Tightly Unwound)](https://www.youtube.com/watch?v=MdaxryzsjjA)
 
 

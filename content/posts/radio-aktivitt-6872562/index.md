@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Experimental"]
 ---
 
-![Radio-Aktivität by Kraftwerk](radio-aktivitt-6872562.jpg)
+{{< img src="radio-aktivitt-6872562.jpg" title="Radio-Aktivität by Kraftwerk" >}}
 
 <!-- section break -->
 

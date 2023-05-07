@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Pop Rock"]
 ---
 
-![New Boots And Panties!! by Ian Dury](new-boots-and-panties-392738.jpg)
+{{< img src="new-boots-and-panties-392738.jpg" title="New Boots And Panties!! by Ian Dury" >}}
 
 <!-- section break -->
 
@@ -38,21 +38,21 @@ styles: ["Punk", "Pop Rock"]
 
 
 ## Videos
-### I'm Partial to Your Abracadabra
-{{< youtube id="beuHVDVvW9A" title="I'm Partial to Your Abracadabra" >}}<br>
+### Plaistow Patricia
+{{< youtube id="mRbnbcJgOVE" title="Plaistow Patricia" >}}<br>
 
 ### More Videos
 
 - [Wake Up and Make Love with Me](https://www.youtube.com/watch?v=QON_NhWRnJ8)
 - [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
 - [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
+- [I'm Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
 - [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
 - [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
 - [Ian Dury - Sex And Drugs And Rock And Roll.](https://www.youtube.com/watch?v=dvhoSAKLztM)
 - [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
 - [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
 - [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
-- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
 

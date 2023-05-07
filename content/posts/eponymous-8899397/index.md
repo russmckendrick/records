@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![Eponymous by R.E.M.](eponymous-8899397.jpg)
+{{< img src="eponymous-8899397.jpg" title="Eponymous by R.E.M." >}}
 
 <!-- section break -->
 

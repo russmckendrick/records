@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Jazz"]
 styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 ---
 
-![Drank by Thundercat](drank-11703561.jpg)
+{{< img src="drank-11703561.jpg" title="Drank by Thundercat" >}}
 
 <!-- section break -->
 

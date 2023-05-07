@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Darkwave", "EBM", "Techno"]
 ---
 
-![Transmission by Death In Vegas](transmission-8473733.jpg)
+{{< img src="transmission-8473733.jpg" title="Transmission by Death In Vegas" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Darkwave", "EBM", "Techno"]
 
 
 ## Videos
-### DEATH IN VEGAS  -   YOU DISCO I FREAK
-{{< youtube id="B-nlvSKFLs8" title="DEATH IN VEGAS  -   YOU DISCO I FREAK" >}}<br>
+### Death In Vegas - Arise - 2016
+{{< youtube id="rPmHbb96t28" title="Death In Vegas - Arise - 2016" >}}<br>
 
 ### More Videos
 
+- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
 - [Death In Vegas - Metal Box](https://www.youtube.com/watch?v=HlFn0_2AmZU)
 - [DEATH IN VEGAS - CONSEQUENCES OF LOVE](https://www.youtube.com/watch?v=X4cdF4H0_dY)
 - [Death In Vegas - Transmission - 2016](https://www.youtube.com/watch?v=haWYnLWl2zw)
-- [Death In Vegas - Arise - 2016](https://www.youtube.com/watch?v=rPmHbb96t28)
 - [Death in Vegas - Transwave](https://www.youtube.com/watch?v=g-4vdO6FuX4)
 - [DEATH IN VEGAS 'TRANSMISSION'](https://www.youtube.com/watch?v=pY8W241L9x0)
 

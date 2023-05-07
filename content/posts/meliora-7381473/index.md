@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-![Meliora by Ghost](meliora-7381473.jpg)
+{{< img src="meliora-7381473.jpg" title="Meliora by Ghost" >}}
 
 <!-- section break -->
 
@@ -35,15 +35,15 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Ghost - Cirice (Official Music Video)
-{{< youtube id="-0Ao4t_fe0I" title="Ghost - Cirice (Official Music Video)" >}}<br>
+### Ghost - Majesty
+{{< youtube id="qS5-QmkKzJQ" title="Ghost - Majesty" >}}<br>
 
 ### More Videos
 
 - [Ghost - From The Pinnacle To The Pit (Official Music Video)](https://www.youtube.com/watch?v=6A-IoOEPbUs)
+- [Ghost - Cirice (Official Music Video)](https://www.youtube.com/watch?v=-0Ao4t_fe0I)
 - [Ghost - He Is (Music Video)](https://www.youtube.com/watch?v=7hMaHDTw-pI)
 - [Ghost - Square Hammer (Official Music Video)](https://www.youtube.com/watch?v=VqoyKzgkqR4)
-- [Ghost - Majesty](https://www.youtube.com/watch?v=qS5-QmkKzJQ)
 - [Spirit](https://www.youtube.com/watch?v=_gSsp7vasSA)
 
 

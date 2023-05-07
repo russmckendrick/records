@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 ---
 
-![Astral Weeks by Van Morrison](astral-weeks-10596963.jpg)
+{{< img src="astral-weeks-10596963.jpg" title="Astral Weeks by Van Morrison" >}}
 
 <!-- section break -->
 

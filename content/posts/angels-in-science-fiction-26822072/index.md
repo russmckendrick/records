@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-![Angels In Science Fiction by St. Paul & The Broken Bones](angels-in-science-fiction-26822072.jpg)
+{{< img src="angels-in-science-fiction-26822072.jpg" title="Angels In Science Fiction by St. Paul & The Broken Bones" >}}
 
 <!-- section break -->
 

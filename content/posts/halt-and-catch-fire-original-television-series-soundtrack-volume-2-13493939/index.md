@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ---
 
-![Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger](halt-and-catch-fire-original-television-series-soundtrack-volume-2-13493939.jpg)
+{{< img src="halt-and-catch-fire-original-television-series-soundtrack-volume-2-13493939.jpg" title="Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 
 
 ## Videos
-### Why I Finally Told Him
-{{< youtube id="4tpHz0bE4BE" title="Why I Finally Told Him" >}}<br>
+### Into the River
+{{< youtube id="DzgWSDgFoxo" title="Into the River" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 - [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Impossible to Love](https://www.youtube.com/watch?v=Pon8Nobg0XI)
+- [Why I Finally Told Him](https://www.youtube.com/watch?v=4tpHz0bE4BE)
 - [The Connection](https://www.youtube.com/watch?v=gyGl8Cv_lJU)
-- [Into the River](https://www.youtube.com/watch?v=DzgWSDgFoxo)
 - [Life Interrupted](https://www.youtube.com/watch?v=Jpe9ed2ncIQ)
 - [Empty Rooms](https://www.youtube.com/watch?v=FggGkHUZ_y0)
 - [Off to Seattle](https://www.youtube.com/watch?v=F_8A2v_Wiw4)

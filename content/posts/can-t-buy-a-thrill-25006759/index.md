@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Can't Buy A Thrill by Steely Dan](can-t-buy-a-thrill-25006759.jpg)
+{{< img src="can-t-buy-a-thrill-25006759.jpg" title="Can't Buy A Thrill by Steely Dan" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Only A Fool Would Say That
-{{< youtube id="Hvz0TOm0zgI" title="Only A Fool Would Say That" >}}<br>
+### Brooklyn (Owes The Charmer Under Me)
+{{< youtube id="vO4I10PeweI" title="Brooklyn (Owes The Charmer Under Me)" >}}<br>
 
 ### More Videos
 
@@ -44,9 +44,9 @@ styles: ["Pop Rock"]
 - [Dirty Work](https://www.youtube.com/watch?v=kR5Ki6jjPaY)
 - [Kings](https://www.youtube.com/watch?v=mNBTUJbnN1o)
 - [Midnite Cruiser](https://www.youtube.com/watch?v=ZBtHA6POwp0)
+- [Only A Fool Would Say That](https://www.youtube.com/watch?v=Hvz0TOm0zgI)
 - [Reelin' In The Years](https://www.youtube.com/watch?v=GaH25Sghoqc)
 - [Fire In The Hole](https://www.youtube.com/watch?v=9PwkU4nsJM8)
-- [Brooklyn (Owes The Charmer Under Me)](https://www.youtube.com/watch?v=vO4I10PeweI)
 - [Change Of The Guard](https://www.youtube.com/watch?v=roLIYw8Ov_I)
 - [Turn That Heartbeat Over Again](https://www.youtube.com/watch?v=DSfiPrhpeF8)
 

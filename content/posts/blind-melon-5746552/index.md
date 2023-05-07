@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Blind Melon by Blind Melon](blind-melon-5746552.jpg)
+{{< img src="blind-melon-5746552.jpg" title="Blind Melon by Blind Melon" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Sleepyhouse
-{{< youtube id="WOVGYcl5mXA" title="Sleepyhouse" >}}<br>
+### Deserted
+{{< youtube id="WaN-EDK2Rv0" title="Deserted" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,7 @@ styles: ["Alternative Rock"]
 - [Paper Scratcher](https://www.youtube.com/watch?v=em5bxko-8q4)
 - [Dear Ol' Dad](https://www.youtube.com/watch?v=5ZQ3OQpk828)
 - [Change](https://www.youtube.com/watch?v=OyPQ5VSX_rI)
-- [Deserted](https://www.youtube.com/watch?v=WaN-EDK2Rv0)
+- [Sleepyhouse](https://www.youtube.com/watch?v=WOVGYcl5mXA)
 - [Holyman](https://www.youtube.com/watch?v=EKJ-YqVtZec)
 - [Seed To A Tree](https://www.youtube.com/watch?v=HtoKGAmCCrM)
 - [Drive](https://www.youtube.com/watch?v=kgwqrCqEm2U)

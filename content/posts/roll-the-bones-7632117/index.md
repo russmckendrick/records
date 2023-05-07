@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Roll The Bones by Rush](roll-the-bones-7632117.jpg)
+{{< img src="roll-the-bones-7632117.jpg" title="Roll The Bones by Rush" >}}
 
 <!-- section break -->
 

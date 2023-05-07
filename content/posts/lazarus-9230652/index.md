@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock", "Musical"]
 ---
 
-![Lazarus by Original New York Cast Of Lazarus](lazarus-9230652.jpg)
+{{< img src="lazarus-9230652.jpg" title="Lazarus by Original New York Cast Of Lazarus" >}}
 
 <!-- section break -->
 

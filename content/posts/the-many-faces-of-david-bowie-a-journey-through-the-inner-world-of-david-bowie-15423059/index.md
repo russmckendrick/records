@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanson", "Blues Rock"]
 ---
 
-![The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie by Various](the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059.jpg)
+{{< img src="the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059.jpg" title="The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie by Various" >}}
 
 <!-- section break -->
 
@@ -49,19 +49,19 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 
 
 ## Videos
-### Iggy Pop feat. David Bowie - Funtime (Live 1977)
-{{< youtube id="tqwwlRuuMis" title="Iggy Pop feat. David Bowie - Funtime (Live 1977)" >}}<br>
+### TOPPOP: Dana Gillespie - Andy Warhol (Chromakey)
+{{< youtube id="b11Jw8ddigI" title="TOPPOP: Dana Gillespie - Andy Warhol (Chromakey)" >}}<br>
 
 ### More Videos
 
 - [David Bowie-  You've Been Around (with Reeves Gabrels)](https://www.youtube.com/watch?v=PemstNpfIvg)
 - [The Man Who Sold the World - performed by Tony Visconti, Woody Woodmansey & Glenn Gregory](https://www.youtube.com/watch?v=0bge0HZy_Us)
 - [Ian Hunter and Mick Ronson - All the Young Dudes - live at Rockpalast 80](https://www.youtube.com/watch?v=08SdIo0e--4)
-- [TOPPOP: Dana Gillespie - Andy Warhol (Chromakey)](https://www.youtube.com/watch?v=b11Jw8ddigI)
 - [Ava Cherry   I Am A Laser](https://www.youtube.com/watch?v=gDidSNQyB24)
 - [Red Eyes - Spiders From Mars (1/11)](https://www.youtube.com/watch?v=hcbOfYVWK_4)
 - [Mick Ronson-2-Growing Up And I'm Fine.](https://www.youtube.com/watch?v=Jz0sF9ZDUJY)
 - [Cuddly Toys : Madman : AUDIO Punk Vinyl.](https://www.youtube.com/watch?v=RAQd0xMKWBA)
+- [Iggy Pop feat. David Bowie - Funtime (Live 1977)](https://www.youtube.com/watch?v=tqwwlRuuMis)
 - [David Bowie & The Lower Third - Can't Help Thinking About Me](https://www.youtube.com/watch?v=K1MXonBG5NI)
 - [David Bowie - Ziggy Stardust](https://www.youtube.com/watch?v=XXq5VvYAI1Q)
 - [Black Country Rock  Woody Woodmansey, Tony Visconti, Glenn Gregory, and friends 6/30/2015](https://www.youtube.com/watch?v=6JFR0SIQyaM)

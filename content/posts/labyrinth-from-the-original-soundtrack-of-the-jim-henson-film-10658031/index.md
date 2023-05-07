@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
 ---
 
-![Labyrinth (From The Original Soundtrack Of The Jim Henson Film) by David Bowie](labyrinth-from-the-original-soundtrack-of-the-jim-henson-film-10658031.jpg)
+{{< img src="labyrinth-from-the-original-soundtrack-of-the-jim-henson-film-10658031.jpg" title="Labyrinth (From The Original Soundtrack Of The Jim Henson Film) by David Bowie" >}}
 
 <!-- section break -->
 

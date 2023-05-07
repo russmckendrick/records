@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 ---
 
-![Born In The U.S.A. by Bruce Springsteen](born-in-the-u-s-a-1551256.jpg)
+{{< img src="born-in-the-u-s-a-1551256.jpg" title="Born In The U.S.A. by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 
 
 ## Videos
-### I'm Goin' Down
-{{< youtube id="FDePd-mHOL4" title="I'm Goin' Down" >}}<br>
+### Working on the Highway
+{{< youtube id="5OEA9_Gtims" title="Working on the Highway" >}}<br>
 
 ### More Videos
 
@@ -49,11 +49,11 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 - [Bruce Springsteen - Dancing In the Dark (Official Video)](https://www.youtube.com/watch?v=129kuDCQtHs)
 - [Cover Me](https://www.youtube.com/watch?v=s3tqIk8TPWM)
 - [Darlington County](https://www.youtube.com/watch?v=1t5JvmqTx94)
-- [Working on the Highway](https://www.youtube.com/watch?v=5OEA9_Gtims)
 - [Downbound Train](https://www.youtube.com/watch?v=2WPJT6VZxlo)
 - [I'm On Fire](https://www.youtube.com/watch?v=1VxFS5-klfk)
 - [No Surrender](https://www.youtube.com/watch?v=txKhQ9cbhgo)
 - [Bobby Jean](https://www.youtube.com/watch?v=iGR_Rk74tOk)
+- [I'm Goin' Down](https://www.youtube.com/watch?v=FDePd-mHOL4)
 - [Glory Days](https://www.youtube.com/watch?v=GLBnj159q3s)
 - [My Hometown](https://www.youtube.com/watch?v=KrGi8ODOWR0)
 

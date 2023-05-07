@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Greatest Hits by Bruce Springsteen](greatest-hits-12213768.jpg)
+{{< img src="greatest-hits-12213768.jpg" title="Greatest Hits by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: []
 
 
 ## Videos
-### Bruce Springsteen - Human Touch (Official Video)
-{{< youtube id="85cNRQo1m3A" title="Bruce Springsteen - Human Touch (Official Video)" >}}<br>
+### Bruce Springsteen - Glory Days (Official Video)
+{{< youtube id="6vQpW9XRiyM" title="Bruce Springsteen - Glory Days (Official Video)" >}}<br>
 
 ### More Videos
 
@@ -60,8 +60,8 @@ styles: []
 - [Bruce Springsteen - Dancing In the Dark (Official Video)](https://www.youtube.com/watch?v=129kuDCQtHs)
 - [Bruce Springsteen - Born in the U.S.A. (Official Video)](https://www.youtube.com/watch?v=EPhWR4d3FJQ)
 - [Bruce Springsteen - My Hometown (Official Video)](https://www.youtube.com/watch?v=77gKSp8WoRg)
-- [Bruce Springsteen - Glory Days (Official Video)](https://www.youtube.com/watch?v=6vQpW9XRiyM)
 - [Bruce Springsteen - Brilliant Disguise (Official Video)](https://www.youtube.com/watch?v=idnJnjV_8rg)
+- [Bruce Springsteen - Human Touch (Official Video)](https://www.youtube.com/watch?v=85cNRQo1m3A)
 - [Bruce Springsteen - Better Days](https://www.youtube.com/watch?v=VmwJQ62Cs_o)
 - [Bruce Springsteen - Streets of Philadelphia (Official Video)](https://www.youtube.com/watch?v=4z2DtNW79sQ)
 - [Secret Garden](https://www.youtube.com/watch?v=WY1spB1J0vw)

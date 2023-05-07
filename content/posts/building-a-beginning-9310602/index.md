@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Neo Soul", "Funk"]
 ---
 
-![Building A Beginning by Jamie Lidell](building-a-beginning-9310602.jpg)
+{{< img src="building-a-beginning-9310602.jpg" title="Building A Beginning by Jamie Lidell" >}}
 
 <!-- section break -->
 

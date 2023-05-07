@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Goth Rock"]
 ---
 
-![S.O.D. The Epic Years by Spear Of Destiny](s-o-d-the-epic-years-492090.jpg)
+{{< img src="s-o-d-the-epic-years-492090.jpg" title="S.O.D. The Epic Years by Spear Of Destiny" >}}
 
 <!-- section break -->
 

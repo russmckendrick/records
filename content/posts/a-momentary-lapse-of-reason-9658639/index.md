@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![A Momentary Lapse Of Reason by Pink Floyd](a-momentary-lapse-of-reason-9658639.jpg)
+{{< img src="a-momentary-lapse-of-reason-9658639.jpg" title="A Momentary Lapse Of Reason by Pink Floyd" >}}
 
 <!-- section break -->
 

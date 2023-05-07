@@ -14,7 +14,7 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
 
-![Citizen Of Glass by Agnes Obel](citizen-of-glass-9218599.jpg)
+{{< img src="citizen-of-glass-9218599.jpg" title="Citizen Of Glass by Agnes Obel" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Vocal", "Ballad"]
 
 
 ## Videos
-### Agnes Obel - Stone (Official Audio)
-{{< youtube id="pyFmxA3ZyLE" title="Agnes Obel - Stone (Official Audio)" >}}<br>
+### Agnes Obel - Mary (Official Audio)
+{{< youtube id="CoBT59xRElU" title="Agnes Obel - Mary (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -47,11 +47,11 @@ styles: ["Vocal", "Ballad"]
 - [Agnes Obel - Familiar (Official Video)](https://www.youtube.com/watch?v=32kYH6XZrIo)
 - [Agnes Obel - Red Virgin Soil (Official Audio)](https://www.youtube.com/watch?v=GalTlzwr3XU)
 - [Agnes Obel - It's Happening Again (Official Video)](https://www.youtube.com/watch?v=YT-ECHaz4PE)
+- [Agnes Obel - Stone (Official Audio)](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
 - [Agnes Obel - Trojan Horses (Official Audio)](https://www.youtube.com/watch?v=-EYEOMj7TBk)
 - [Agnes Obel - Citizen Of Glass (Official Audio)](https://www.youtube.com/watch?v=IlIRIZSZtuc)
 - [Agnes Obel - Golden Green (Official Video)](https://www.youtube.com/watch?v=WRLVINLlEVE)
 - [Agnes Obel - Grasshopper (Official Audio)](https://www.youtube.com/watch?v=TMPRryoSny0)
-- [Agnes Obel - Mary (Official Audio)](https://www.youtube.com/watch?v=CoBT59xRElU)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae", "Funk / Soul"]
 styles: ["Ska", "New Wave"]
 ---
 
-![Encore by The Specials](encore-13150462.jpg)
+{{< img src="encore-13150462.jpg" title="Encore by The Specials" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,12 @@ styles: ["Ska", "New Wave"]
 
 
 ## Videos
-### Enjoy Yourself (It's Later Than You Think)
-{{< youtube id="Ws03yKmR5yI" title="Enjoy Yourself (It's Later Than You Think)" >}}<br>
+### Too Much Too Young (Live At The Troxy)
+{{< youtube id="z9uiqpObNLA" title="Too Much Too Young (Live At The Troxy)" >}}<br>
 
 ### More Videos
 
 - [Stereotype (Live At Le Bataclan)](https://www.youtube.com/watch?v=3y0-Z3w3xq0)
-- [Too Much Too Young (Live At The Troxy)](https://www.youtube.com/watch?v=z9uiqpObNLA)
 - [Black Skin Blue Eyed Boys](https://www.youtube.com/watch?v=BUVHz-HwR7c)
 - [B.L.M](https://www.youtube.com/watch?v=7FyOjzUd57c)
 - [Vote For Me](https://www.youtube.com/watch?v=UNeM3w5SVOs)
@@ -60,6 +59,7 @@ styles: ["Ska", "New Wave"]
 - [Friday Night, Saturday Morning (Live At Le Bataclan)](https://www.youtube.com/watch?v=sYLaOogukHk)
 - [Redemption Song (Live At The Troxy)](https://www.youtube.com/watch?v=2gkmVggL0i0)
 - [Monkey Man (Live At Le Bataclan)](https://www.youtube.com/watch?v=aTmInDkSvTg)
+- [Enjoy Yourself (It's Later Than You Think)](https://www.youtube.com/watch?v=Ws03yKmR5yI)
 - [Ghost Town (Live At Le Bataclan)](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
 - [All The Time In The World (Live At The Troxy)](https://www.youtube.com/watch?v=XLV6zYEDqGA)
 

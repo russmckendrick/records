@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-![In It For The Money by Supergrass](in-it-for-the-money-19975111.jpg)
+{{< img src="in-it-for-the-money-19975111.jpg" title="In It For The Money by Supergrass" >}}
 
 <!-- section break -->
 
@@ -42,17 +42,17 @@ styles: ["Britpop", "Indie Rock"]
 
 
 ## Videos
-### Supergrass - It's Not Me (Early Version) (Official Video)
-{{< youtube id="u80_jUEaWII" title="Supergrass - It's Not Me (Early Version) (Official Video)" >}}<br>
+### Supergrass - Grace (Official HD Video)
+{{< youtube id="Z4IWmNBKN3o" title="Supergrass - Grace (Official HD Video)" >}}<br>
 
 ### More Videos
 
 - [Supergrass - Richard III (Official HD Video)](https://www.youtube.com/watch?v=UnXrrOxzZCE)
 - [Supergrass - In It For The Money (Monitor Mix) (Official Video)](https://www.youtube.com/watch?v=pplWingupSs)
-- [Supergrass - Grace (Official HD Video)](https://www.youtube.com/watch?v=Z4IWmNBKN3o)
 - [Supergrass - Cheapskate (Official HD Video)](https://www.youtube.com/watch?v=7Tivnce5-jU)
 - [Supergrass - Late In The Day (Official HD Video)](https://www.youtube.com/watch?v=v8HJRVpUHQI)
 - [Supergrass - Sun Hits The Sky (Official HD Video)](https://www.youtube.com/watch?v=OJ8TYNpJdLg)
+- [Supergrass - It's Not Me (Early Version) (Official Video)](https://www.youtube.com/watch?v=u80_jUEaWII)
 
 
 ## Release Information

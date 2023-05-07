@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: []
 ---
 
-![Silverlake by Pugwash](silverlake-11269948.jpg)
+{{< img src="silverlake-11269948.jpg" title="Silverlake by Pugwash" >}}
 
 <!-- section break -->
 

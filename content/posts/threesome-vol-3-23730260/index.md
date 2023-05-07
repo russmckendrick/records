@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-![Threesome Vol. 3 by The Lickerish Quartet](threesome-vol-3-23730260.jpg)
+{{< img src="threesome-vol-3-23730260.jpg" title="Threesome Vol. 3 by The Lickerish Quartet" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Pulse by Pink Floyd](pulse-12004382.jpg)
+{{< img src="pulse-12004382.jpg" title="Pulse by Pink Floyd" >}}
 
 <!-- section break -->
 

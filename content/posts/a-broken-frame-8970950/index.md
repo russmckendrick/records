@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![A Broken Frame by Depeche Mode](a-broken-frame-8970950.jpg)
+{{< img src="a-broken-frame-8970950.jpg" title="A Broken Frame by Depeche Mode" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Prog Rock", "Ambient", "New Age"]
 ---
 
-![Secret World Live by Peter Gabriel](secret-world-live-16094641.jpg)
+{{< img src="secret-world-live-16094641.jpg" title="Secret World Live by Peter Gabriel" >}}
 
 <!-- section break -->
 

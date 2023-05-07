@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
 
-![Return To The 37th Chamber by El Michels Affair](return-to-the-37th-chamber-10178866.jpg)
+{{< img src="return-to-the-37th-chamber-10178866.jpg" title="Return To The 37th Chamber by El Michels Affair" >}}
 
 <!-- section break -->
 

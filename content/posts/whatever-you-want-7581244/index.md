@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
 
-![Whatever You Want by Status Quo](whatever-you-want-7581244.jpg)
+{{< img src="whatever-you-want-7581244.jpg" title="Whatever You Want by Status Quo" >}}
 
 <!-- section break -->
 

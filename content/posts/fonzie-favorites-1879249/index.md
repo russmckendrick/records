@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Rock & Roll", "Ballad", "Theme"]
 ---
 
-![Fonzie Favorites by Various](fonzie-favorites-1879249.jpg)
+{{< img src="fonzie-favorites-1879249.jpg" title="Fonzie Favorites by Various" >}}
 
 <!-- section break -->
 
@@ -49,19 +49,19 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 
 
 ## Videos
-### EVERLY BROS BIRD DOG 78 RPM RECORD
-{{< youtube id="qKkzhb9HJus" title="EVERLY BROS BIRD DOG 78 RPM RECORD" >}}<br>
+### Fonzerelli Slide
+{{< youtube id="PO7-jN9mLso" title="Fonzerelli Slide" >}}<br>
 
 ### More Videos
 
 - [THE FONZ SONG by The Heyettes (1976)](https://www.youtube.com/watch?v=wfM8UgSzopU)
 - [Happy Days intro](https://www.youtube.com/watch?v=6W6y7YhHdVE)
 - [Bobby Darin-Splish Splash](https://www.youtube.com/watch?v=oMCsc4Iqvqc)
+- [EVERLY BROS BIRD DOG 78 RPM RECORD](https://www.youtube.com/watch?v=qKkzhb9HJus)
 - [Joe Jones - You talk too much](https://www.youtube.com/watch?v=L33DMVWfS8g)
 - [BARBARA  ANN - THE REGENTS](https://www.youtube.com/watch?v=fA_AetLMHo4)
 - [Jerry Lee Lewis - Great Balls of Fire](https://www.youtube.com/watch?v=7IjgZGhHrYY)
 - [Bill Haley - Rock Around The Clock (1956)](https://www.youtube.com/watch?v=F5fsqYctXgM)
-- [Fonzerelli Slide](https://www.youtube.com/watch?v=PO7-jN9mLso)
 - [The Dubs - Could This Be Magic](https://www.youtube.com/watch?v=jsH418wCt3M)
 - [The Flamingos - I Only Have Eyes For You](https://www.youtube.com/watch?v=63nlhoda2MY)
 - [Tear's On My Pillow](https://www.youtube.com/watch?v=we2kmO24rgE)

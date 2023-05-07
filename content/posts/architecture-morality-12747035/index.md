@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Architecture & Morality by Orchestral Manoeuvres In The Dark](architecture-morality-12747035.jpg)
+{{< img src="architecture-morality-12747035.jpg" title="Architecture & Morality by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 

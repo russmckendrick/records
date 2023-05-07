@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Indie Cindy by Pixies](indie-cindy-5610537.jpg)
+{{< img src="indie-cindy-5610537.jpg" title="Indie Cindy by Pixies" >}}
 
 <!-- section break -->
 

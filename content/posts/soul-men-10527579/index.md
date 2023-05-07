@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Soul Men by Sam & Dave](soul-men-10527579.jpg)
+{{< img src="soul-men-10527579.jpg" title="Soul Men by Sam & Dave" >}}
 
 <!-- section break -->
 
@@ -39,17 +39,17 @@ styles: ["Soul"]
 
 
 ## Videos
-### Sam And Dave  I'm With You
-{{< youtube id="gTxg0V_Jkuk" title="Sam And Dave  I'm With You" >}}<br>
+### Sam & Dave- Soul Man
+{{< youtube id="m7sKnLrsOwo" title="Sam & Dave- Soul Man" >}}<br>
 
 ### More Videos
 
 - [Let It Be Me](https://www.youtube.com/watch?v=Sh_ujzyu78o)
 - [Sam & Dave - Just Keep Holding On](https://www.youtube.com/watch?v=7Mn5ZJd74Cs)
 - [Broke Down Piece of Man](https://www.youtube.com/watch?v=J0rUeSccx-I)
-- [Sam & Dave- Soul Man](https://www.youtube.com/watch?v=m7sKnLrsOwo)
 - [SAM & DAVE  (Soul Man)](https://www.youtube.com/watch?v=7DL_qz8i9b4)
 - [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
+- [Sam And Dave  I'm With You](https://www.youtube.com/watch?v=gTxg0V_Jkuk)
 
 
 ## Release Information

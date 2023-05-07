@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![Flood by They Might Be Giants](flood-16176945.jpg)
+{{< img src="flood-16176945.jpg" title="Flood by They Might Be Giants" >}}
 
 <!-- section break -->
 
@@ -47,8 +47,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Whistling in the Dark
-{{< youtube id="pBN4sOQbYxk" title="Whistling in the Dark" >}}<br>
+### We Want a Rock
+{{< youtube id="Jp8znvfYbow" title="We Want a Rock" >}}<br>
 
 ### More Videos
 
@@ -61,11 +61,11 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
 - [Twisting](https://www.youtube.com/watch?v=j0jNgo6Ar4Q)
-- [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)
 - [Someone Keeps Moving My Chair](https://www.youtube.com/watch?v=5pud7rt4KhU)
 - [Hearing Aid](https://www.youtube.com/watch?v=wMF6Jpm5cvQ)
 - [Minimum Wage](https://www.youtube.com/watch?v=SRcRn_Xv7Ek)
 - [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
+- [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
 - [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)
 - [Women & Men](https://www.youtube.com/watch?v=33BTvjZ45MI)
 - [Sapphire Bullets of Pure Love](https://www.youtube.com/watch?v=MnYKfrgN76Y)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Experimental"]
 ---
 
-![The Colour Of Spring by Talk Talk](the-colour-of-spring-3616436.jpg)
+{{< img src="the-colour-of-spring-3616436.jpg" title="The Colour Of Spring by Talk Talk" >}}
 
 <!-- section break -->
 
@@ -45,18 +45,18 @@ styles: ["Pop Rock", "Experimental"]
 
 
 ## Videos
-### Chameleon Day (1997 Remaster)
-{{< youtube id="RQGAw43t20k" title="Chameleon Day (1997 Remaster)" >}}<br>
+### Talk Talk - Living In Another World (Official Video)
+{{< youtube id="fZQZZf_R434" title="Talk Talk - Living In Another World (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Talk Talk - Give It Up](https://www.youtube.com/watch?v=OsEgxsyUn2c)
 - [Talk Talk - Life's What You Make It (Official Video)](https://www.youtube.com/watch?v=l3VqAsMXE7o)
-- [Talk Talk - Living In Another World (Official Video)](https://www.youtube.com/watch?v=fZQZZf_R434)
 - [Happiness Is Easy (1997 Remaster)](https://www.youtube.com/watch?v=gl4lvJmvqQU)
 - [I Don't Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=o8canrG0YfY)
 - [April 5th (1997 Remaster)](https://www.youtube.com/watch?v=h3vbVCRNcrM)
 - [Give It Up (1997 Remaster)](https://www.youtube.com/watch?v=XK4Cw2STZiQ)
+- [Chameleon Day (1997 Remaster)](https://www.youtube.com/watch?v=RQGAw43t20k)
 - [Time It's Time (1997 Remaster)](https://www.youtube.com/watch?v=vwM77SSxLp8)
 
 

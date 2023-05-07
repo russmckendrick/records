@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Sleep Well Beast by The National](sleep-well-beast-10823938.jpg)
+{{< img src="sleep-well-beast-10823938.jpg" title="Sleep Well Beast by The National" >}}
 
 <!-- section break -->
 
@@ -40,17 +40,17 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The National - 'I'll Still Destroy You'
-{{< youtube id="gPp-3QSXf1g" title="The National - 'I'll Still Destroy You'" >}}<br>
+### The National - 'Sleep Well Beast'
+{{< youtube id="kwraJAssyuE" title="The National - 'Sleep Well Beast'" >}}<br>
 
 ### More Videos
 
 - [The National - 'The System Only Dreams in Total Darkness'](https://www.youtube.com/watch?v=2O6duDDkhis)
 - [The National - 'Walk It Back'](https://www.youtube.com/watch?v=xnZA52oTp6M)
-- [The National - 'Sleep Well Beast'](https://www.youtube.com/watch?v=kwraJAssyuE)
 - [The National - 'Day I Die'](https://www.youtube.com/watch?v=GwZvip416NU)
 - [The National - 'Carin at the Liquor Store'](https://www.youtube.com/watch?v=eEe_yCVLQSc)
 - [The National - 'Guilty Party'](https://www.youtube.com/watch?v=71xmrULJ-ms)
+- [The National - 'I'll Still Destroy You'](https://www.youtube.com/watch?v=gPp-3QSXf1g)
 - [The National - 'Dark Side of the Gym'](https://www.youtube.com/watch?v=4ICyy1V6n4c)
 
 

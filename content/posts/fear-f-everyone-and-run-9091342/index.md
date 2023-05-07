@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-![FEAR (F*** Everyone And Run) by Marillion](fear-f-everyone-and-run-9091342.jpg)
+{{< img src="fear-f-everyone-and-run-9091342.jpg" title="FEAR (F*** Everyone And Run) by Marillion" >}}
 
 <!-- section break -->
 

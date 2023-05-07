@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
 
-![Pretty Africa by Desmond Dekker & The Aces](pretty-africa-13473923.jpg)
+{{< img src="pretty-africa-13473923.jpg" title="Pretty Africa by Desmond Dekker & The Aces" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)
-{{< youtube id="AnZDKe8XErg" title="Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)" >}}<br>
+### Barry Howard & Carl Hall - Was a sunny day (the Aces)
+{{< youtube id="dbe1vssKGKM" title="Barry Howard & Carl Hall - Was a sunny day (the Aces)" >}}<br>
 
 ### More Videos
 
+- [Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)](https://www.youtube.com/watch?v=AnZDKe8XErg)
 - [the Aces - LOVE IS THE KEY](https://www.youtube.com/watch?v=JnFa5-xxsl8)
-- [Barry Howard & Carl Hall - Was a sunny day (the Aces)](https://www.youtube.com/watch?v=dbe1vssKGKM)
 
 
 ## Release Information

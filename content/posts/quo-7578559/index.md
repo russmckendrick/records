@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 ---
 
-![Quo by Status Quo](quo-7578559.jpg)
+{{< img src="quo-7578559.jpg" title="Quo by Status Quo" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave", "Dance-pop"]
 ---
 
-![The Best Of OMD by Orchestral Manoeuvres In The Dark](the-best-of-omd-522821.jpg)
+{{< img src="the-best-of-omd-522821.jpg" title="The Best Of OMD by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 
 
 ## Videos
-### Orchestral Manoeuvres In The Dark - Enola Gay
-{{< youtube id="d5XJ2GiR6Bo" title="Orchestral Manoeuvres In The Dark - Enola Gay" >}}<br>
+### Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)
+{{< youtube id="BAnOXcp6h8Y" title="Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)" >}}<br>
 
 ### More Videos
 
-- [Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)](https://www.youtube.com/watch?v=BAnOXcp6h8Y)
 - [Orchestral Manoeuvres In The Dark - Maid Of Orleans](https://www.youtube.com/watch?v=vmwMhjbThKg)
+- [Orchestral Manoeuvres In The Dark - Enola Gay](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
 - [Orchestral Manoeuvres In The Dark - Electricity](https://www.youtube.com/watch?v=Y43XLVqjytQ)
 - [Orchestral Manoeuvres In The Dark - Souvenir](https://www.youtube.com/watch?v=XDIYOiQUi2s)
 - [Orchestral Manoeuvres In The Dark - Telegraph](https://www.youtube.com/watch?v=rXXM60niKbg)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![It's A Shame About Ray by The Lemonheads](it-s-a-shame-about-ray-22405678.jpg)
+{{< img src="it-s-a-shame-about-ray-22405678.jpg" title="It's A Shame About Ray by The Lemonheads" >}}
 
 <!-- section break -->
 

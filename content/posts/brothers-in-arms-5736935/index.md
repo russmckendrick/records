@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock", "Arena Rock"]
 ---
 
-![Brothers In Arms by Dire Straits](brothers-in-arms-5736935.jpg)
+{{< img src="brothers-in-arms-5736935.jpg" title="Brothers In Arms by Dire Straits" >}}
 
 <!-- section break -->
 

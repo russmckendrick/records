@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "Synthwave"]
 ---
 
-![Lost Themes III: Alive After Death by John Carpenter](lost-themes-iii-alive-after-death-17231170.jpg)
+{{< img src="lost-themes-iii-alive-after-death-17231170.jpg" title="Lost Themes III: Alive After Death by John Carpenter" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 
 
 ## Videos
-### Turning the Bones
-{{< youtube id="nuWNasbkJOg" title="Turning the Bones" >}}<br>
+### John Carpenter - The Dead Walk (Official Audio)
+{{< youtube id="3Ic0Xdpwhl4" title="John Carpenter - The Dead Walk (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [John Carpenter - Alive After Death (Official Music Video)](https://www.youtube.com/watch?v=A8NHR31TA9E)
-- [John Carpenter - The Dead Walk (Official Audio)](https://www.youtube.com/watch?v=3Ic0Xdpwhl4)
 - [John Carpenter - Weeping Ghost (Official Audio)](https://www.youtube.com/watch?v=l7AA4oZ8URA)
 - [Alive After Death](https://www.youtube.com/watch?v=SIing3weJbc)
 - [Carpathian Darkness](https://www.youtube.com/watch?v=FIbZ9J2a6wI)
 - [Cemetery](https://www.youtube.com/watch?v=2_YuSaOcjSU)
+- [Turning the Bones](https://www.youtube.com/watch?v=nuWNasbkJOg)
 - [Dead Eyes](https://www.youtube.com/watch?v=YRaOLUlBLsA)
 - [Vampire's Touch](https://www.youtube.com/watch?v=WOacj_CMlsw)
 - [Dripping Blood](https://www.youtube.com/watch?v=dkR8rLkZ6UQ)

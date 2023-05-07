@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 ---
 
-![Electronic by Electronic](electronic-7046233.jpg)
+{{< img src="electronic-7046233.jpg" title="Electronic by Electronic" >}}
 
 <!-- section break -->
 

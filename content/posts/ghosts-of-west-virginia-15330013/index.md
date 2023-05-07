@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![Ghosts Of West Virginia by Steve Earle & The Dukes](ghosts-of-west-virginia-15330013.jpg)
+{{< img src="ghosts-of-west-virginia-15330013.jpg" title="Ghosts Of West Virginia by Steve Earle & The Dukes" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Country"]
 
 
 ## Videos
-### Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A
-{{< youtube id="L5QqgJ3u11k" title="Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A" >}}<br>
+### Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]
+{{< youtube id="d5tOkJK8DUk" title="Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]" >}}<br>
 
 ### More Videos
 
-- [Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]](https://www.youtube.com/watch?v=d5tOkJK8DUk)
 - [Steve Earle & The Dukes - It's About Blood [Audio Only]](https://www.youtube.com/watch?v=iKWPjr0NPQo)
+- [Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A](https://www.youtube.com/watch?v=L5QqgJ3u11k)
 
 
 ## Release Information

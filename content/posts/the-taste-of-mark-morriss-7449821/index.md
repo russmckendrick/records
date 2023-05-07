@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![The Taste Of Mark Morriss by Mark Morriss](the-taste-of-mark-morriss-7449821.jpg)
+{{< img src="the-taste-of-mark-morriss-7449821.jpg" title="The Taste Of Mark Morriss by Mark Morriss" >}}
 
 <!-- section break -->
 

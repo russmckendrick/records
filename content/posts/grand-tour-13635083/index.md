@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Grand Tour by Big Big Train](grand-tour-13635083.jpg)
+{{< img src="grand-tour-13635083.jpg" title="Grand Tour by Big Big Train" >}}
 
 <!-- section break -->
 

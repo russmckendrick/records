@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Metal", "Grunge"]
 ---
 
-![We Die Young by Alice In Chains](we-die-young-22275457.jpg)
+{{< img src="we-die-young-22275457.jpg" title="We Die Young by Alice In Chains" >}}
 
 <!-- section break -->
 

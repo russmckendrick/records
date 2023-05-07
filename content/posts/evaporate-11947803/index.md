@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ---
 
-![Evaporate by Midas Fall](evaporate-11947803.jpg)
+{{< img src="evaporate-11947803.jpg" title="Evaporate by Midas Fall" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 
 
 ## Videos
-### Midas Fall - Evaporate (Live Session)
-{{< youtube id="U_KKsAY55qM" title="Midas Fall - Evaporate (Live Session)" >}}<br>
+### Midas Fall - Evaporate
+{{< youtube id="k0BnZ_rO-R4" title="Midas Fall - Evaporate" >}}<br>
 
 ### More Videos
 
 - [Midas Fall - Glue](https://www.youtube.com/watch?v=oZ_ArHLW43I)
-- [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
+- [Midas Fall - Evaporate (Live Session)](https://www.youtube.com/watch?v=U_KKsAY55qM)
 
 
 ## Release Information

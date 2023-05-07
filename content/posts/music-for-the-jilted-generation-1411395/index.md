@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Hardcore"]
 ---
 
-![Music For The Jilted Generation by The Prodigy](music-for-the-jilted-generation-1411395.jpg)
+{{< img src="music-for-the-jilted-generation-1411395.jpg" title="Music For The Jilted Generation by The Prodigy" >}}
 
 <!-- section break -->
 

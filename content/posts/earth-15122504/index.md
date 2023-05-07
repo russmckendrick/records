@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Folk", "House"]
 ---
 
-![Earth by Ed O'Brien](earth-15122504.jpg)
+{{< img src="earth-15122504.jpg" title="Earth by Ed O'Brien" >}}
 
 <!-- section break -->
 

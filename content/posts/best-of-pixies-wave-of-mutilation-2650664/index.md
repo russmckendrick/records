@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Best Of Pixies (Wave Of Mutilation) by Pixies](best-of-pixies-wave-of-mutilation-2650664.jpg)
+{{< img src="best-of-pixies-wave-of-mutilation-2650664.jpg" title="Best Of Pixies (Wave Of Mutilation) by Pixies" >}}
 
 <!-- section break -->
 

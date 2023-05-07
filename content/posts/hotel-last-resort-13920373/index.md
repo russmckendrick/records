@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Hotel Last Resort by Violent Femmes](hotel-last-resort-13920373.jpg)
+{{< img src="hotel-last-resort-13920373.jpg" title="Hotel Last Resort by Violent Femmes" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Violent Femmes - Hotel Last Resort (Official Lyric Video)
-{{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort (Official Lyric Video)" >}}<br>
+### Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)
+{{< youtube id="P3XxSZNFpcQ" title="Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)](https://www.youtube.com/watch?v=P3XxSZNFpcQ)
+- [Violent Femmes - Hotel Last Resort (Official Lyric Video)](https://www.youtube.com/watch?v=Jc14JPwnp6M)
 
 
 ## Release Information

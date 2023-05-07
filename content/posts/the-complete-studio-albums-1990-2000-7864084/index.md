@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 ---
 
-![The Complete Studio Albums 1990-2000 by Pantera](the-complete-studio-albums-1990-2000-7864084.jpg)
+{{< img src="the-complete-studio-albums-1990-2000-7864084.jpg" title="The Complete Studio Albums 1990-2000 by Pantera" >}}
 
 <!-- section break -->
 
@@ -88,16 +88,16 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 
 
 ## Videos
-### Pantera - I'm Broken (Official Video)
-{{< youtube id="2-V8kYT1pvE" title="Pantera - I'm Broken (Official Video)" >}}<br>
+### Pantera - This Love (Video)
+{{< youtube id="tymWpEU8wpM" title="Pantera - This Love (Video)" >}}<br>
 
 ### More Videos
 
 - [Pantera - Walk (Official Video)](https://www.youtube.com/watch?v=AkFqg5wAuFk)
 - [Pantera - 5 Minutes Alone (Official Video)](https://www.youtube.com/watch?v=7m7njvwB-Ks)
+- [Pantera - I'm Broken (Official Video)](https://www.youtube.com/watch?v=2-V8kYT1pvE)
 - [Pantera - Cemetery Gates (Official Video)](https://www.youtube.com/watch?v=RVMvART9kb8)
 - [Pantera - Cowboys From Hell (Official Video)](https://www.youtube.com/watch?v=i97OkCXwotE)
-- [Pantera - This Love (Video)](https://www.youtube.com/watch?v=tymWpEU8wpM)
 - [Pantera - Mouth For War (Official Video)](https://www.youtube.com/watch?v=a3JSbOt7CLo)
 - [Pantera - Piss](https://www.youtube.com/watch?v=yeVJguP_T40)
 - [Pantera - Revolution Is My Name (Official Video)](https://www.youtube.com/watch?v=_XI1DD_vJuY)

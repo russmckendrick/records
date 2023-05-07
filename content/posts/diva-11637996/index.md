@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Ballad", "Pop Rock"]
 ---
 
-![Diva by Annie Lennox](diva-11637996.jpg)
+{{< img src="diva-11637996.jpg" title="Diva by Annie Lennox" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,12 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 
 
 ## Videos
-### Annie Lennox - The Gift (Official Video)
-{{< youtube id="_8Lc1QP0nlI" title="Annie Lennox - The Gift (Official Video)" >}}<br>
+### Annie Lennox - Walking on Broken Glass (Official Video)
+{{< youtube id="y25stK5ymlA" title="Annie Lennox - Walking on Broken Glass (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Annie Lennox - Why (Official Music Video)](https://www.youtube.com/watch?v=HG7I4oniOyA)
-- [Annie Lennox - Walking on Broken Glass (Official Video)](https://www.youtube.com/watch?v=y25stK5ymlA)
 - [Annie Lennox - Precious (Official Video)](https://www.youtube.com/watch?v=HQCHd__Zd1w)
 - [Annie Lennox - Legend In My Living Room (Official Video)](https://www.youtube.com/watch?v=YrHUkE3A_G0)
 - [Annie Lennox - Cold (Official Video)](https://www.youtube.com/watch?v=xi19gH6_waE)
@@ -52,6 +51,7 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 - [Annie Lennox - Little Bird (Official Video)](https://www.youtube.com/watch?v=pjbNLVQ_Iwk)
 - [Annie Lennox - Primitive (Official Video)](https://www.youtube.com/watch?v=0W3cxF409Pg)
 - [Stay By Me](https://www.youtube.com/watch?v=MyHL6D8x8RY)
+- [Annie Lennox - The Gift (Official Video)](https://www.youtube.com/watch?v=_8Lc1QP0nlI)
 - [Annie Lennox - Keep Young and Beautiful (Official Video)](https://www.youtube.com/watch?v=pfk8kLJMab0)
 
 

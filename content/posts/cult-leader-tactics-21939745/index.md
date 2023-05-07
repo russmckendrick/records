@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Cult Leader Tactics by Paul Draper](cult-leader-tactics-21939745.jpg)
+{{< img src="cult-leader-tactics-21939745.jpg" title="Cult Leader Tactics by Paul Draper" >}}
 
 <!-- section break -->
 

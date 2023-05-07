@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop", "Classical"]
 styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", "Post Rock"]
 ---
 
-![Scratch My Back / And I'll Scratch Yours by Peter Gabriel](scratch-my-back-and-i-ll-scratch-yours-5166708.jpg)
+{{< img src="scratch-my-back-and-i-ll-scratch-yours-5166708.jpg" title="Scratch My Back / And I'll Scratch Yours by Peter Gabriel" >}}
 
 <!-- section break -->
 

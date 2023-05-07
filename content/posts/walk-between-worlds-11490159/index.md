@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Walk Between Worlds by Simple Minds](walk-between-worlds-11490159.jpg)
+{{< img src="walk-between-worlds-11490159.jpg" title="Walk Between Worlds by Simple Minds" >}}
 
 <!-- section break -->
 

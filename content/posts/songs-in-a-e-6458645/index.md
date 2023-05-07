@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock"]
 ---
 
-![Songs In A&E by Spiritualized](songs-in-a-e-6458645.jpg)
+{{< img src="songs-in-a-e-6458645.jpg" title="Songs In A&E by Spiritualized" >}}
 
 <!-- section break -->
 

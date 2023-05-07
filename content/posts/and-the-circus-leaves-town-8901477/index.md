@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-![...And The Circus Leaves Town by Kyuss](and-the-circus-leaves-town-8901477.jpg)
+{{< img src="and-the-circus-leaves-town-8901477.jpg" title="...And The Circus Leaves Town by Kyuss" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Reggae", "Dub"]
 ---
 
-![Radiodread by Easy Star All-Stars](radiodread-10307769.jpg)
+{{< img src="radiodread-10307769.jpg" title="Radiodread by Easy Star All-Stars" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Reggae", "Dub"]
 
 
 ## Videos
-### Easy Star All Stars - The Tourist (featuring Israel Vibration)
-{{< youtube id="LdnsfrDXhiE" title="Easy Star All Stars - The Tourist (featuring Israel Vibration)" >}}<br>
+### No Surprises - Easy All Stars
+{{< youtube id="f8ZRduB1Uzs" title="No Surprises - Easy All Stars" >}}<br>
 
 ### More Videos
 
@@ -57,11 +57,11 @@ styles: ["Reggae", "Dub"]
 - [Easystar Allstars - Radiodread - Climbing up the Walls](https://www.youtube.com/watch?v=oA1g7P1D6pk)
 - [Radiodread featuring Kirsty Rock-Paranoid Android](https://www.youtube.com/watch?v=N7_s6EpDRVA)
 - [Let Down - Easy Star All Stars](https://www.youtube.com/watch?v=HXBamm5XqO8)
-- [No Surprises - Easy All Stars](https://www.youtube.com/watch?v=f8ZRduB1Uzs)
 - [Airbag - Easy All Stars - Radiodread](https://www.youtube.com/watch?v=USuhLK_bn_Y)
 - [Easy Star All-Stars - Electioneering](https://www.youtube.com/watch?v=H1CRcwm9IcU)
 - [Easy Star All-Stars - Radiodread - No Surprises](https://www.youtube.com/watch?v=GP4o8CIEyBY)
 - [Easy Star Allstars - Lucky](https://www.youtube.com/watch?v=SLXKbGI8G5s)
+- [Easy Star All Stars - The Tourist (featuring Israel Vibration)](https://www.youtube.com/watch?v=LdnsfrDXhiE)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Vocal", "Ballad"]
 ---
 
-![50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2) by Elvis Presley](50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707.jpg)
+{{< img src="50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707.jpg" title="50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2) by Elvis Presley" >}}
 
 <!-- section break -->
 

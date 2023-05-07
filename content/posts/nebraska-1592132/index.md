@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Nebraska by Bruce Springsteen](nebraska-1592132.jpg)
+{{< img src="nebraska-1592132.jpg" title="Nebraska by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -38,18 +38,18 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Open All Night
-{{< youtube id="TxuXBj3EjOs" title="Open All Night" >}}<br>
+### Nebraska
+{{< youtube id="hCpL_ImsiDo" title="Nebraska" >}}<br>
 
 ### More Videos
 
-- [Nebraska](https://www.youtube.com/watch?v=hCpL_ImsiDo)
 - [Bruce Springsteen State Trooper](https://www.youtube.com/watch?v=nU5MyNuBdhg)
 - [Atlantic City](https://www.youtube.com/watch?v=_vy8edcyvHU)
 - [Mansion On the Hill](https://www.youtube.com/watch?v=fxsHA0M8gtM)
 - [Johnny 99](https://www.youtube.com/watch?v=OQUcqK1Op6Y)
 - [Highway Patrolman](https://www.youtube.com/watch?v=o7v1YwubWw8)
 - [Used Cars](https://www.youtube.com/watch?v=67dYxOXPtfQ)
+- [Open All Night](https://www.youtube.com/watch?v=TxuXBj3EjOs)
 - [My Father's House](https://www.youtube.com/watch?v=r0NKGaPSSBQ)
 - [Reason to Believe](https://www.youtube.com/watch?v=H49obsV6oZ0)
 

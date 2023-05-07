@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-![The Drifters' Golden Hits by The Drifters](the-drifters-golden-hits-1250865.jpg)
+{{< img src="the-drifters-golden-hits-1250865.jpg" title="The Drifters' Golden Hits by The Drifters" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### The Drifters - On Broadway (1963)
-{{< youtube id="o_djfcdMSG0" title="The Drifters - On Broadway (1963)" >}}<br>
+### The Drifters - Under the Boardwalk - Stereo LP - HQ
+{{< youtube id="PAIiYJQNSnY" title="The Drifters - Under the Boardwalk - Stereo LP - HQ" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Rhythm & Blues", "Soul"]
 - [The Drifters - Up on the Roof - Stereo LP - HQ](https://www.youtube.com/watch?v=K6RyTRCK-CM)
 - [This Magic Moment](https://www.youtube.com/watch?v=a4PPUp6XS5I)
 - [I Count The Tears --The Drifters](https://www.youtube.com/watch?v=b-D4SqUDS0M)
+- [The Drifters - On Broadway (1963)](https://www.youtube.com/watch?v=o_djfcdMSG0)
 - [The Drifters  There Goes My Baby](https://www.youtube.com/watch?v=ehFWRG5gHyI)
-- [The Drifters - Under the Boardwalk - Stereo LP - HQ](https://www.youtube.com/watch?v=PAIiYJQNSnY)
 - [The Drifters - I've Got Sand In My Shoes - Stereo LP - HQ](https://www.youtube.com/watch?v=dWoC8puTaoM)
 - [1959 HITS ARCHIVE: (If You Cry) True Love, True Love - Drifters](https://www.youtube.com/watch?v=oRpkU1e_LYk)
 - [The Drifters - On Broadway - Stereo LP - HQ](https://www.youtube.com/watch?v=KUMvG0yNPtY)

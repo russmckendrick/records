@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Krautrock", "Electro", "Experimental"]
 ---
 
-![Autobahn by Kraftwerk](autobahn-1978364.jpg)
+{{< img src="autobahn-1978364.jpg" title="Autobahn by Kraftwerk" >}}
 
 <!-- section break -->
 

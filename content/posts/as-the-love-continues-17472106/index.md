@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![As The Love Continues by Mogwai](as-the-love-continues-17472106.jpg)
+{{< img src="as-the-love-continues-17472106.jpg" title="As The Love Continues by Mogwai" >}}
 
 <!-- section break -->
 
@@ -55,13 +55,13 @@ styles: []
 
 
 ## Videos
-### Mogwai - Ritchie Sacramento (Official Video)
-{{< youtube id="VWjzlJEmmxM" title="Mogwai - Ritchie Sacramento (Official Video)" >}}<br>
+### Mogwai - Pat Stains (Official Audio)
+{{< youtube id="jAX7tKZ-3lg" title="Mogwai - Pat Stains (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Mogwai // Dry Fantasy (Official Video)](https://www.youtube.com/watch?v=55wY7XrGFzY)
-- [Mogwai - Pat Stains (Official Audio)](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
+- [Mogwai - Ritchie Sacramento (Official Video)](https://www.youtube.com/watch?v=VWjzlJEmmxM)
 
 
 ## Release Information

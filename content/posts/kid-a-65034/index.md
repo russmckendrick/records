@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 ---
 
-![Kid A by Radiohead](kid-a-65034.jpg)
+{{< img src="kid-a-65034.jpg" title="Kid A by Radiohead" >}}
 
 <!-- section break -->
 
@@ -43,15 +43,15 @@ styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 
 
 ## Videos
-### Everything In Its Right Place
-{{< youtube id="NUnXxh5U25Y" title="Everything In Its Right Place" >}}<br>
+### Idioteque
+{{< youtube id="svwJTnZOaco" title="Idioteque" >}}<br>
 
 ### More Videos
 
 - [Kid A](https://www.youtube.com/watch?v=MXNbfU0Ww_E)
+- [Everything In Its Right Place](https://www.youtube.com/watch?v=NUnXxh5U25Y)
 - [How to Disappear Completely](https://www.youtube.com/watch?v=6W6HhdqA95w)
 - [Optimistic](https://www.youtube.com/watch?v=1On-ZHfTWOo)
-- [Idioteque](https://www.youtube.com/watch?v=svwJTnZOaco)
 - [The National Anthem](https://www.youtube.com/watch?v=NfQD1QiQ9o4)
 - [Motion Picture Soundtrack](https://www.youtube.com/watch?v=EcSvMFm2ABE)
 

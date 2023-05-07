@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
-![Kill The Wolf by Matt Berry](kill-the-wolf-19905307.jpg)
+{{< img src="kill-the-wolf-19905307.jpg" title="Kill The Wolf by Matt Berry" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Matt Berry - Knock Knock (Kill the Wolf Album)
-{{< youtube id="Zq_JpcQGYaU" title="Matt Berry - Knock Knock (Kill the Wolf Album)" >}}<br>
+### Matt Berry - Solstice (Kill the Wolf Album)
+{{< youtube id="5f_3iqHpnVM" title="Matt Berry - Solstice (Kill the Wolf Album)" >}}<br>
 
 ### More Videos
 
@@ -48,9 +48,9 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 - [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
 - [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)
 - [Matt Berry - Wolf Quartet (Kill the Wolf Album)](https://www.youtube.com/watch?v=Cqx4BsxsMts)
-- [Matt Berry - Solstice (Kill the Wolf Album)](https://www.youtube.com/watch?v=5f_3iqHpnVM)
 - [Matt Berry - October Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=zSjjsJzKlzE)
 - [Matt Berry - The Signs (Kill the Wolf Album)](https://www.youtube.com/watch?v=LEgX3IBnnlg)
+- [Matt Berry - Knock Knock (Kill the Wolf Album)](https://www.youtube.com/watch?v=Zq_JpcQGYaU)
 - [Matt Berry - Bonfire (Kill the Wolf Album)](https://www.youtube.com/watch?v=3ykbiAL-48s)
 - [Matt Berry - Village Dance (Kill the Wolf Album)](https://www.youtube.com/watch?v=MEok98HV7_8)
 - [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)

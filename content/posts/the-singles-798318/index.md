@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Singles by Inspiral Carpets](the-singles-798318.jpg)
+{{< img src="the-singles-798318.jpg" title="The Singles by Inspiral Carpets" >}}
 
 <!-- section break -->
 
@@ -49,17 +49,17 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Joe
-{{< youtube id="cT-uBrN6IVs" title="Joe" >}}<br>
+### Sackville
+{{< youtube id="zNpKQPEHcKU" title="Sackville" >}}<br>
 
 ### More Videos
 
+- [Joe](https://www.youtube.com/watch?v=cT-uBrN6IVs)
 - [Find Out Why](https://www.youtube.com/watch?v=2VCwOY9ocZk)
 - [Move](https://www.youtube.com/watch?v=njYUA8cwpU8)
 - [Inspiral Carpets - This Is How It Feels (Official Video)](https://www.youtube.com/watch?v=J-fX0UbpZls)
 - [Inspiral Carpets - She Comes In The Fall (Official HD Video)](https://www.youtube.com/watch?v=FOxxlp_k6jA)
 - [Inspiral Carpets - Commercial Rain (US Video)](https://www.youtube.com/watch?v=OtiAllw_Eiw)
-- [Sackville](https://www.youtube.com/watch?v=zNpKQPEHcKU)
 - [Biggest Mountain](https://www.youtube.com/watch?v=9b1ense02p8)
 - [Weakness](https://www.youtube.com/watch?v=4JkVF1ybjAA)
 - [Caravan (Single Mix)](https://www.youtube.com/watch?v=Zz_rtb4gcKU)

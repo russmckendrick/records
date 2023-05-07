@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy](charmed-life-the-best-of-the-divine-comedy-22022677.jpg)
+{{< img src="charmed-life-the-best-of-the-divine-comedy-22022677.jpg" title="Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy" >}}
 
 <!-- section break -->
 
@@ -52,12 +52,11 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Simple Pleasures
-{{< youtube id="w_7KwkJa3ZY" title="Simple Pleasures" >}}<br>
+### Charmed Life
+{{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}<br>
 
 ### More Videos
 
-- [Charmed Life](https://www.youtube.com/watch?v=m4mwCkOLi9Y)
 - [A Lady of a Certain Age](https://www.youtube.com/watch?v=_dDFCWsGfzQ)
 - [Our Mutual Friend](https://www.youtube.com/watch?v=_bM563xi6pU)
 - [The Certainty Of Chance](https://www.youtube.com/watch?v=8PzExXVXo8g)
@@ -68,6 +67,7 @@ styles: ["Indie Pop"]
 - [When When When](https://www.youtube.com/watch?v=g4R-xZ6C-Mc)
 - [Te Amo España](https://www.youtube.com/watch?v=SvAMN0zsf-M)
 - [Perfect Lovesong 2021](https://www.youtube.com/watch?v=XFHoqPWCNUQ)
+- [Simple Pleasures](https://www.youtube.com/watch?v=w_7KwkJa3ZY)
 - [Those Pesky Kids](https://www.youtube.com/watch?v=u8sIYcN7ii4)
 - [Butterfly](https://www.youtube.com/watch?v=M4g_gPU5VNg)
 

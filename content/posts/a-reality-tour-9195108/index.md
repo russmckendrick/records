@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Glam"]
 ---
 
-![A Reality Tour by David Bowie](a-reality-tour-9195108.jpg)
+{{< img src="a-reality-tour-9195108.jpg" title="A Reality Tour by David Bowie" >}}
 
 <!-- section break -->
 

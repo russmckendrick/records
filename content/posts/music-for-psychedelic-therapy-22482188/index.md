@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-![Music For Psychedelic Therapy by Jon Hopkins](music-for-psychedelic-therapy-22482188.jpg)
+{{< img src="music-for-psychedelic-therapy-22482188.jpg" title="Music For Psychedelic Therapy by Jon Hopkins" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Ascending, Dawn Sky
-{{< youtube id="7TRUERogs4w" title="Ascending, Dawn Sky" >}}<br>
+### Jon Hopkins ft  Ram Dass - Sit Around The Fire
+{{< youtube id="ect4lgWRZbQ" title="Jon Hopkins ft  Ram Dass - Sit Around The Fire" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Ambient"]
 - [Tayos Caves, Ecuador iii](https://www.youtube.com/watch?v=sg-VH5pl-Hs)
 - [Love Flows Over Us In Prismatic Waves](https://www.youtube.com/watch?v=1JenmCSndX8)
 - [Deep In The Glowing Heart](https://www.youtube.com/watch?v=3DfT7jd3bhg)
+- [Ascending, Dawn Sky](https://www.youtube.com/watch?v=7TRUERogs4w)
 - [Arriving](https://www.youtube.com/watch?v=R676FQ7Zi40)
-- [Jon Hopkins ft  Ram Dass - Sit Around The Fire](https://www.youtube.com/watch?v=ect4lgWRZbQ)
 
 
 ## Release Information

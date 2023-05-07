@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-![Vivid by Living Colour](vivid-14827118.jpg)
+{{< img src="vivid-14827118.jpg" title="Vivid by Living Colour" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### What's Your Favorite Color? (Theme Song) (LeBlanc Remix)
-{{< youtube id="hjmS6rlK6oc" title="What's Your Favorite Color? (Theme Song) (LeBlanc Remix)" >}}<br>
+### Broken Hearts
+{{< youtube id="pO1hImyPtS8" title="Broken Hearts" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [Open Letter (To a Landlord)](https://www.youtube.com/watch?v=yEeyR6F-RCI)
 - [Funny Vibe](https://www.youtube.com/watch?v=R7Dq8CT0l0E)
 - [Memories Can't Wait](https://www.youtube.com/watch?v=VSkm4Dr2AzQ)
-- [Broken Hearts](https://www.youtube.com/watch?v=pO1hImyPtS8)
 - [Glamour Boys](https://www.youtube.com/watch?v=9bvU5Vl0H-M)
+- [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
 - [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
 
 

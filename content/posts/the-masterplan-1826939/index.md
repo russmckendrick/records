@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-![The Masterplan by Oasis](the-masterplan-1826939.jpg)
+{{< img src="the-masterplan-1826939.jpg" title="The Masterplan by Oasis" >}}
 
 <!-- section break -->
 

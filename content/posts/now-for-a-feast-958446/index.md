@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ---
 
-![Now For A Feast! by Pop Will Eat Itself](now-for-a-feast-958446.jpg)
+{{< img src="now-for-a-feast-958446.jpg" title="Now For A Feast! by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 
 
 ## Videos
-### PWEI Oh Grebo I Think I Love You
-{{< youtube id="VLOCQpsmutk" title="PWEI Oh Grebo I Think I Love You" >}}<br>
+### Pop Will Eat Itself - Orgone Accumulator
+{{< youtube id="iOD-G6_1OGM" title="Pop Will Eat Itself - Orgone Accumulator" >}}<br>
 
 ### More Videos
 
-- [Pop Will Eat Itself - Orgone Accumulator](https://www.youtube.com/watch?v=iOD-G6_1OGM)
+- [PWEI Oh Grebo I Think I Love You](https://www.youtube.com/watch?v=VLOCQpsmutk)
 - [Pop Will Eat Itself - Sick Little Girl](https://www.youtube.com/watch?v=aqj67I5-dFg)
 
 

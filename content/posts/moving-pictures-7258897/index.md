@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Moving Pictures by Rush](moving-pictures-7258897.jpg)
+{{< img src="moving-pictures-7258897.jpg" title="Moving Pictures by Rush" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Presence by Led Zeppelin](presence-7303488.jpg)
+{{< img src="presence-7303488.jpg" title="Presence by Led Zeppelin" >}}
 
 <!-- section break -->
 

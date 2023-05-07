@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Dog Man Star by Suede](dog-man-star-5448646.jpg)
+{{< img src="dog-man-star-5448646.jpg" title="Dog Man Star by Suede" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Still Life (Remastered)
-{{< youtube id="m2n3qKD6C8k" title="Still Life (Remastered)" >}}<br>
+### Suede - We Are The Pigs
+{{< youtube id="fxtIwh1Nz0k" title="Suede - We Are The Pigs" >}}<br>
 
 ### More Videos
 
-- [Suede - We Are The Pigs](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
+- [Still Life (Remastered)](https://www.youtube.com/watch?v=m2n3qKD6C8k)
 - [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
 - [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
 

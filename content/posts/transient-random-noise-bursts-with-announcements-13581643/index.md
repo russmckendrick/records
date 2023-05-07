@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Krautrock", "Indie Rock"]
 ---
 
-![Transient Random-Noise Bursts With Announcements by Stereolab](transient-random-noise-bursts-with-announcements-13581643.jpg)
+{{< img src="transient-random-noise-bursts-with-announcements-13581643.jpg" title="Transient Random-Noise Bursts With Announcements by Stereolab" >}}
 
 <!-- section break -->
 
@@ -51,8 +51,8 @@ styles: ["Krautrock", "Indie Rock"]
 
 
 ## Videos
-### I'm Going Out Of My Way
-{{< youtube id="1ENSJpYpJlU" title="I'm Going Out Of My Way" >}}<br>
+### Golden Ball
+{{< youtube id="LEWxa--fXlo" title="Golden Ball" >}}<br>
 
 ### More Videos
 
@@ -61,7 +61,7 @@ styles: ["Krautrock", "Indie Rock"]
 - [Tone Burst](https://www.youtube.com/watch?v=UoHK-555v5I)
 - [Our Trinitone Blast](https://www.youtube.com/watch?v=f4lANy2lyDo)
 - [Pack Yr Romantic Mind](https://www.youtube.com/watch?v=P5h_8vYrya0)
-- [Golden Ball](https://www.youtube.com/watch?v=LEWxa--fXlo)
+- [I'm Going Out Of My Way](https://www.youtube.com/watch?v=1ENSJpYpJlU)
 - [Pause](https://www.youtube.com/watch?v=K32zai-jDS4)
 - [Jenny Ondioline](https://www.youtube.com/watch?v=c_zYpoHQzbA)
 - [Analogue Rock](https://www.youtube.com/watch?v=xVBEH26GvPs)

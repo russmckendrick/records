@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Guerrilla by Super Furry Animals](guerrilla-14283127.jpg)
+{{< img src="guerrilla-14283127.jpg" title="Guerrilla by Super Furry Animals" >}}
 
 <!-- section break -->
 

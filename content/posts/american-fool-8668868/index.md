@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-![American Fool by John Cougar Mellencamp](american-fool-8668868.jpg)
+{{< img src="american-fool-8668868.jpg" title="American Fool by John Cougar Mellencamp" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Southern Rock"]
 
 
 ## Videos
-### Jack & Diane
-{{< youtube id="qcca2DzOlOc" title="Jack & Diane" >}}<br>
+### Thundering Hearts
+{{< youtube id="I2xJAJq505o" title="Thundering Hearts" >}}<br>
 
 ### More Videos
 
 - [Hurts So Good](https://www.youtube.com/watch?v=g_9rnnkRX0g)
+- [Jack & Diane](https://www.youtube.com/watch?v=qcca2DzOlOc)
 - [Hand To Hold On To](https://www.youtube.com/watch?v=QTPq27vhB9g)
 - [Danger List](https://www.youtube.com/watch?v=DodNVBf0f4I)
 - [Can You Take It](https://www.youtube.com/watch?v=sdkEEJI9Kss)
-- [Thundering Hearts](https://www.youtube.com/watch?v=I2xJAJq505o)
 - [China Girl](https://www.youtube.com/watch?v=BeD7thCRa3M)
 - [Close Enough](https://www.youtube.com/watch?v=QfosOulnkWw)
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)

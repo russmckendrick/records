@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
 
-![The Utopia Strong by The Utopia Strong](the-utopia-strong-14133042.jpg)
+{{< img src="the-utopia-strong-14133042.jpg" title="The Utopia Strong by The Utopia Strong" >}}
 
 <!-- section break -->
 

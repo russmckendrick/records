@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-![Hounds Of Love by Kate Bush](hounds-of-love-19605145.jpg)
+{{< img src="hounds-of-love-19605145.jpg" title="Hounds Of Love by Kate Bush" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Art Rock", "Pop Rock"]
 
 
 ## Videos
-### Waking The Witch
-{{< youtube id="k7FEneG7gsg" title="Waking The Witch" >}}<br>
+### Kate Bush - Cloudbusting - Official Music Video
+{{< youtube id="pllRW9wETzw" title="Kate Bush - Cloudbusting - Official Music Video" >}}<br>
 
 ### More Videos
 
 - [Kate Bush - Hounds of Love - Official Music Video](https://www.youtube.com/watch?v=VerK4zwMRQw)
-- [Kate Bush - Cloudbusting - Official Music Video](https://www.youtube.com/watch?v=pllRW9wETzw)
+- [Waking The Witch](https://www.youtube.com/watch?v=k7FEneG7gsg)
 - [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
 
 

@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
-![Terraformer by Thank You Scientist](terraformer-13732222.jpg)
+{{< img src="terraformer-13732222.jpg" title="Terraformer by Thank You Scientist" >}}
 
 <!-- section break -->
 
@@ -41,13 +41,13 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 
 ## Videos
-### Thank You Scientist - Terraformer (Official Music Video)
-{{< youtube id="OKKWQEpS8hI" title="Thank You Scientist - Terraformer (Official Music Video)" >}}<br>
+### New Moon and Terraformer by Thank You Scientists
+{{< youtube id="iqRC_2g8Xbc" title="New Moon and Terraformer by Thank You Scientists" >}}<br>
 
 ### More Videos
 
+- [Thank You Scientist - Terraformer (Official Music Video)](https://www.youtube.com/watch?v=OKKWQEpS8hI)
 - [Anchor](https://www.youtube.com/watch?v=CLSKD0Ka01A)
-- [New Moon and Terraformer by Thank You Scientists](https://www.youtube.com/watch?v=iqRC_2g8Xbc)
 - [Thank You Scientist - FXMLDR [Official Audio]](https://www.youtube.com/watch?v=UxzSGMYogow)
 - [Everyday Ghosts](https://www.youtube.com/watch?v=G7Vznh_e5LE)
 - [Son of a Serpent](https://www.youtube.com/watch?v=4yv83xBR0Rw)

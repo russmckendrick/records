@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
 
-![The Unforgettable Fire by U2](the-unforgettable-fire-13734008.jpg)
+{{< img src="the-unforgettable-fire-13734008.jpg" title="The Unforgettable Fire by U2" >}}
 
 <!-- section break -->
 

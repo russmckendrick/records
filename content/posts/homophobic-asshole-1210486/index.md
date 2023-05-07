@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Homophobic Asshole by Senseless Things](homophobic-asshole-1210486.jpg)
+{{< img src="homophobic-asshole-1210486.jpg" title="Homophobic Asshole by Senseless Things" >}}
 
 <!-- section break -->
 

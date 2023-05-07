@@ -14,7 +14,7 @@ genres: ["Reggae", "Pop"]
 styles: ["Ska"]
 ---
 
-![Public Confidential by The Beat](public-confidential-13121934.jpg)
+{{< img src="public-confidential-13121934.jpg" title="Public Confidential by The Beat" >}}
 
 <!-- section break -->
 

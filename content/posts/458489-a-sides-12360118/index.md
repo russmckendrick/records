@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ---
 
-![458489 A Sides by The Fall](458489-a-sides-12360118.jpg)
+{{< img src="458489-a-sides-12360118.jpg" title="458489 A Sides by The Fall" >}}
 
 <!-- section break -->
 

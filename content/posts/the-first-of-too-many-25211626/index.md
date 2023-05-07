@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 ---
 
-![The First Of Too Many  by Senseless Things](the-first-of-too-many-25211626.jpg)
+{{< img src="the-first-of-too-many-25211626.jpg" title="The First Of Too Many  by Senseless Things" >}}
 
 <!-- section break -->
 

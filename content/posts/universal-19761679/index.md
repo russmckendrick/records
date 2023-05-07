@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Universal by Orchestral Manoeuvres In The Dark](universal-19761679.jpg)
+{{< img src="universal-19761679.jpg" title="Universal by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 

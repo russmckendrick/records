@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Post Rock", "Experimental", "Folk"]
 ---
 
-![Lachesis / Clotho / Atropos by Harmony Rockets](lachesis-clotho-atropos-12547656.jpg)
+{{< img src="lachesis-clotho-atropos-12547656.jpg" title="Lachesis / Clotho / Atropos by Harmony Rockets" >}}
 
 <!-- section break -->
 

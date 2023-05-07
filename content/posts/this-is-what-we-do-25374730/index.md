@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Electro"]
 ---
 
-![This Is What We Do by Leftfield](this-is-what-we-do-25374730.jpg)
+{{< img src="this-is-what-we-do-25374730.jpg" title="This Is What We Do by Leftfield" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-![Apples by Ian Dury](apples-8396799.jpg)
+{{< img src="apples-8396799.jpg" title="Apples by Ian Dury" >}}
 
 <!-- section break -->
 

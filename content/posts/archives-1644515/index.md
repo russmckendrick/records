@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Archives by Rush](archives-1644515.jpg)
+{{< img src="archives-1644515.jpg" title="Archives by Rush" >}}
 
 <!-- section break -->
 

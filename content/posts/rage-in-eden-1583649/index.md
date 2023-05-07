@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![Rage In Eden by Ultravox](rage-in-eden-1583649.jpg)
+{{< img src="rage-in-eden-1583649.jpg" title="Rage In Eden by Ultravox" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Ultravox - Rage In Eden - 1981
-{{< youtube id="UaN5JqUSTQw" title="Ultravox - Rage In Eden - 1981" >}}<br>
+### ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album
+{{< youtube id="GnrDUCRB80A" title="ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album" >}}<br>
 
 ### More Videos
 
-- [ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
+- [Ultravox - Rage In Eden - 1981](https://www.youtube.com/watch?v=UaN5JqUSTQw)
 - [ULTRAVOX - We Stand Alone (1981)](https://www.youtube.com/watch?v=A0cCEGo5CqM)
 - [Ultravox - The Thin Wall (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=yYGx00779f8)
 - [Ultravox - The Voice (1981) (HD)](https://www.youtube.com/watch?v=MXyxsp5zlCo)

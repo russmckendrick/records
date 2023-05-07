@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
 
-![Music Complete by New Order](music-complete-7510121.jpg)
+{{< img src="music-complete-7510121.jpg" title="Music Complete by New Order" >}}
 
 <!-- section break -->
 

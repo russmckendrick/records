@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![All The Colours Of You by James](all-the-colours-of-you-18997504.jpg)
+{{< img src="all-the-colours-of-you-18997504.jpg" title="All The Colours Of You by James" >}}
 
 <!-- section break -->
 

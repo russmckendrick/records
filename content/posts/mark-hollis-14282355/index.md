@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Acoustic"]
 ---
 
-![Mark Hollis by Mark Hollis](mark-hollis-14282355.jpg)
+{{< img src="mark-hollis-14282355.jpg" title="Mark Hollis by Mark Hollis" >}}
 
 <!-- section break -->
 
@@ -36,16 +36,16 @@ styles: ["Post Rock", "Acoustic"]
 
 
 ## Videos
-### Westward Bound
-{{< youtube id="6CyJSPhtifs" title="Westward Bound" >}}<br>
+### Inside Looking Out
+{{< youtube id="hDH2QL1JCb0" title="Inside Looking Out" >}}<br>
 
 ### More Videos
 
 - [The Colour Of Spring](https://www.youtube.com/watch?v=Pdf--O5WWrU)
 - [The Watershed](https://www.youtube.com/watch?v=XOgCwcSuz9Y)
-- [Inside Looking Out](https://www.youtube.com/watch?v=hDH2QL1JCb0)
 - [The Gift](https://www.youtube.com/watch?v=B7H9m0irTh0)
 - [A Life (1895 - 1915)](https://www.youtube.com/watch?v=CFI0aPAQ7JM)
+- [Westward Bound](https://www.youtube.com/watch?v=6CyJSPhtifs)
 - [The Daily Planet](https://www.youtube.com/watch?v=xfvjRPiGj5g)
 - [A New Jerusalem](https://www.youtube.com/watch?v=hMNKqQPo-Vc)
 

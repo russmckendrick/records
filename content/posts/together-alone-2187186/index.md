@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-![Together Alone by Crowded House](together-alone-2187186.jpg)
+{{< img src="together-alone-2187186.jpg" title="Together Alone by Crowded House" >}}
 
 <!-- section break -->
 

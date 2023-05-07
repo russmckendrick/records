@@ -14,7 +14,7 @@ genres: ["Classical"]
 styles: []
 ---
 
-![Pink Floyd For Chamber Orchestra - Set The Controls by The Coda Chamber Ensemble](pink-floyd-for-chamber-orchestra-set-the-controls-9668551.jpg)
+{{< img src="pink-floyd-for-chamber-orchestra-set-the-controls-9668551.jpg" title="Pink Floyd For Chamber Orchestra - Set The Controls by The Coda Chamber Ensemble" >}}
 
 <!-- section break -->
 

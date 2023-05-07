@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Good Vibrations by The Beach Boys](good-vibrations-9268345.jpg)
+{{< img src="good-vibrations-9268345.jpg" title="Good Vibrations by The Beach Boys" >}}
 
 <!-- section break -->
 

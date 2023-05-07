@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Asia by Asia](asia-1745333.jpg)
+{{< img src="asia-1745333.jpg" title="Asia by Asia" >}}
 
 <!-- section break -->
 

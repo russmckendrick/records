@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Blues Rock"]
 ---
 
-![Disraeli Gears by Cream](disraeli-gears-7010186.jpg)
+{{< img src="disraeli-gears-7010186.jpg" title="Disraeli Gears by Cream" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![Wish You Were Here by Pink Floyd](wish-you-were-here-9180570.jpg)
+{{< img src="wish-you-were-here-9180570.jpg" title="Wish You Were Here by Pink Floyd" >}}
 
 <!-- section break -->
 

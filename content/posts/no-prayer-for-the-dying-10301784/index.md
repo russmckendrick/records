@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![No Prayer For The Dying by Iron Maiden](no-prayer-for-the-dying-10301784.jpg)
+{{< img src="no-prayer-for-the-dying-10301784.jpg" title="No Prayer For The Dying by Iron Maiden" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
 
-![Journey To The Centre Of The Earth by Rick Wakeman](journey-to-the-centre-of-the-earth-1606192.jpg)
+{{< img src="journey-to-the-centre-of-the-earth-1606192.jpg" title="Journey To The Centre Of The Earth by Rick Wakeman" >}}
 
 <!-- section break -->
 
@@ -32,16 +32,16 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Rick Wakeman   The Journey Recollection vinyl
-{{< youtube id="Bf7yzb8Iokk" title="Rick Wakeman   The Journey Recollection vinyl" >}}<br>
+### Rick Wakeman - The Forest
+{{< youtube id="0pNVkkXqprk" title="Rick Wakeman - The Forest" >}}<br>
 
 ### More Videos
 
-- [Rick Wakeman - The Forest](https://www.youtube.com/watch?v=0pNVkkXqprk)
 - [Rick Wakeman Journey to the Centre of the Earth Full Album 1974   YouTube](https://www.youtube.com/watch?v=YJ9W2pZwvlY)
 - [Rick Wakeman-Journey To The Center Of The Earth](https://www.youtube.com/watch?v=8wFag3o10wg)
 - [Rick Wakeman   The Battle vinyl](https://www.youtube.com/watch?v=88ZZgQ_MAX4)
 - [RICK WAKEMAN JOURNEY TO THE CENTRE OF THE EARTH 2012 (full album)](https://www.youtube.com/watch?v=q9g10wdemd8)
+- [Rick Wakeman   The Journey Recollection vinyl](https://www.youtube.com/watch?v=Bf7yzb8Iokk)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Three Sides Live by Genesis](three-sides-live-1152731.jpg)
+{{< img src="three-sides-live-1152731.jpg" title="Three Sides Live by Genesis" >}}
 
 <!-- section break -->
 

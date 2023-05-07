@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Synth-pop", "Disco"]
 ---
 
-![Music From The Motion Picture Soundtrack Fletch by Various](music-from-the-motion-picture-soundtrack-fletch-171543.jpg)
+{{< img src="music-from-the-motion-picture-soundtrack-fletch-171543.jpg" title="Music From The Motion Picture Soundtrack Fletch by Various" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,14 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 
 
 ## Videos
-### Name Of The Game
-{{< youtube id="5AnyNDp6rkM" title="Name Of The Game" >}}<br>
+### Dan Hartman & Fletch - Get Out Of Town
+{{< youtube id="aGGidnZtQUE" title="Dan Hartman & Fletch - Get Out Of Town" >}}<br>
 
 ### More Videos
 
 - [Stephanie Mills - Bit By Bit (Theme From Fletch) 1985](https://www.youtube.com/watch?v=jPlxWRZO7jY)
-- [Dan Hartman & Fletch - Get Out Of Town](https://www.youtube.com/watch?v=aGGidnZtQUE)
 - [Running For Love](https://www.youtube.com/watch?v=tpjftJM8kr4)
+- [Name Of The Game](https://www.youtube.com/watch?v=5AnyNDp6rkM)
 - [Harold Faltermeyer - Fletch Theme (1985)  Stereo](https://www.youtube.com/watch?v=bNtQr57_QTI)
 - [A Letter To Both Sides](https://www.youtube.com/watch?v=yJ4AsZElvHY)
 - [Is It Over](https://www.youtube.com/watch?v=zW83yGd9uDg)

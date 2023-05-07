@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-![Dissolution by The Pineapple Thief](dissolution-12172923.jpg)
+{{< img src="dissolution-12172923.jpg" title="Dissolution by The Pineapple Thief" >}}
 
 <!-- section break -->
 

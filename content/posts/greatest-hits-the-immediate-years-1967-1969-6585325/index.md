@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ---
 
-![Greatest Hits The Immediate Years 1967 - 1969 by Small Faces](greatest-hits-the-immediate-years-1967-1969-6585325.jpg)
+{{< img src="greatest-hits-the-immediate-years-1967-1969-6585325.jpg" title="Greatest Hits The Immediate Years 1967 - 1969 by Small Faces" >}}
 
 <!-- section break -->
 
@@ -45,16 +45,16 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 
 
 ## Videos
-### Donkey Rides, A Penny a Glass (2013 Remaster)
-{{< youtube id="H6kxROKXEC0" title="Donkey Rides, A Penny a Glass (2013 Remaster)" >}}<br>
+### Get Yourself Together (2012 Remaster)
+{{< youtube id="ctJB-mwI41k" title="Get Yourself Together (2012 Remaster)" >}}<br>
 
 ### More Videos
 
 - [I Feel Much Better (2012 Remaster)](https://www.youtube.com/watch?v=C76bFMCA9ss)
 - [I'm Only Dreaming (2012 Remaster)](https://www.youtube.com/watch?v=_IwHI5Nq6xY)
 - [Wham, Bam, Thank You, Mam (2013 Remaster)](https://www.youtube.com/watch?v=e8SAE0k93eo)
-- [Get Yourself Together (2012 Remaster)](https://www.youtube.com/watch?v=ctJB-mwI41k)
 - [Mad John (2013 Remaster)](https://www.youtube.com/watch?v=BlfQrA9C88w)
+- [Donkey Rides, A Penny a Glass (2013 Remaster)](https://www.youtube.com/watch?v=H6kxROKXEC0)
 - [The Universal (2013 Remaster)](https://www.youtube.com/watch?v=abAt2vXSeHI)
 - [The Journey (2013 Remaster)](https://www.youtube.com/watch?v=Q1yKurfmu60)
 

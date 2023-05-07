@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-![Todd by Todd Rundgren](todd-380303.jpg)
+{{< img src="todd-380303.jpg" title="Todd by Todd Rundgren" >}}
 
 <!-- section break -->
 

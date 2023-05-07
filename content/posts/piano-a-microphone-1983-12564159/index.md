@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Ballad"]
 ---
 
-![Piano & A Microphone 1983 by Prince](piano-a-microphone-1983-12564159.jpg)
+{{< img src="piano-a-microphone-1983-12564159.jpg" title="Piano & A Microphone 1983 by Prince" >}}
 
 <!-- section break -->
 
@@ -34,8 +34,8 @@ styles: ["Ballad"]
 
 
 ## Videos
-### Purple Rain (Piano & A Microphone 1983 Version)
-{{< youtube id="IVLfdZZY9NI" title="Purple Rain (Piano & A Microphone 1983 Version)" >}}<br>
+### Why the Butterflies
+{{< youtube id="rIbUjYzUpTI" title="Why the Butterflies" >}}<br>
 
 ### More Videos
 
@@ -44,7 +44,7 @@ styles: ["Ballad"]
 - [Mary Don't You Weep (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=DxbWRT7-Uno)
 - [Strange Relationship (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=tgXMqOlsoyg)
 - [Wednesday (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=nU8dxoxrnb8)
-- [Why the Butterflies](https://www.youtube.com/watch?v=rIbUjYzUpTI)
+- [Purple Rain (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=IVLfdZZY9NI)
 - [International Lover (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=l6SAhGuDh_0)
 - [Cold Coffee & Cocaine (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=jlyVa1ibBEc)
 

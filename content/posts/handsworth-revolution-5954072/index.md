@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-![Handsworth Revolution by Steel Pulse](handsworth-revolution-5954072.jpg)
+{{< img src="handsworth-revolution-5954072.jpg" title="Handsworth Revolution by Steel Pulse" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Roots Reggae"]
 
 
 ## Videos
-### Steel Pulse - Handsworth Revolution - 06 - Klu Klux Klan
-{{< youtube id="XHDP1mmIjHI" title="Steel Pulse - Handsworth Revolution - 06 - Klu Klux Klan" >}}<br>
+### Steel Pulse - Handsworth Revolution - 07 - Prediction
+{{< youtube id="h0BP-wREKbw" title="Steel Pulse - Handsworth Revolution - 07 - Prediction" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["Roots Reggae"]
 - [Steel Pulse - Handsworth Revolution - 04 - Sound Check.](https://www.youtube.com/watch?v=2hKK5TmZcO8)
 - [Steel Pulse - Handsworth Revolution - 03 - Soldiers](https://www.youtube.com/watch?v=t-XbPkCp76A)
 - [Steel Pulse - Handsworth Revolution - 05 - Prodigal Son](https://www.youtube.com/watch?v=xw51Whd_MTo)
-- [Steel Pulse - Handsworth Revolution - 07 - Prediction](https://www.youtube.com/watch?v=h0BP-wREKbw)
+- [Steel Pulse - Handsworth Revolution - 06 - Klu Klux Klan](https://www.youtube.com/watch?v=XHDP1mmIjHI)
 - [Steel Pulse - Handsworth Revolution - 08 - Macka Splaff.](https://www.youtube.com/watch?v=BLi3P8MRg8E)
 - [Steel Pulse ‎– Ku Klux Klan](https://www.youtube.com/watch?v=4UjkeIiXTr8)
 

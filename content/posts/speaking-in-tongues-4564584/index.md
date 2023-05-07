@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Funk"]
 ---
 
-![Speaking In Tongues by Talking Heads](speaking-in-tongues-4564584.jpg)
+{{< img src="speaking-in-tongues-4564584.jpg" title="Speaking In Tongues by Talking Heads" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["New Wave", "Pop Rock", "Funk"]
 
 
 ## Videos
-### Swamp (2005 Remaster)
-{{< youtube id="15UWm0okgvA" title="Swamp (2005 Remaster)" >}}<br>
+### Talking Heads - Burning Down the House (Official Video)
+{{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Talking Heads - Burning Down the House (Official Video)](https://www.youtube.com/watch?v=_3eC35LoF4U)
 - [Making Flippy Floppy (2005 Remaster)](https://www.youtube.com/watch?v=xphLY5ucIpQ)
 - [Girlfriend Is Better (2005 Remaster)](https://www.youtube.com/watch?v=aK7hC8p5DJ0)
 - [Slippery People (2005 Remaster)](https://www.youtube.com/watch?v=rx2_iHftARo)
 - [I Get Wild / Wild Gravity (2005 Remaster)](https://www.youtube.com/watch?v=gz1go_RC8kk)
+- [Swamp (2005 Remaster)](https://www.youtube.com/watch?v=15UWm0okgvA)
 - [Moon Rocks (2005 Remaster)](https://www.youtube.com/watch?v=kFUH4L3ZTUk)
 - [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
 - [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)

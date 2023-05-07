@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock"]
 ---
 
-![Kingdom Of Rust by Doves](kingdom-of-rust-25227943.jpg)
+{{< img src="kingdom-of-rust-25227943.jpg" title="Kingdom Of Rust by Doves" >}}
 
 <!-- section break -->
 

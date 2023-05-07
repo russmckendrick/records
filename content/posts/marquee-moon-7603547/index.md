@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
-![Marquee Moon by Television](marquee-moon-7603547.jpg)
+{{< img src="marquee-moon-7603547.jpg" title="Marquee Moon by Television" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Ambient", "Indie Rock"]
 ---
 
-![Wah Wah by James](wah-wah-6805469.jpg)
+{{< img src="wah-wah-6805469.jpg" title="Wah Wah by James" >}}
 
 <!-- section break -->
 

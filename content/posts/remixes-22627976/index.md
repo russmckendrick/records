@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ---
 
-![Remixes by Kraftwerk](remixes-22627976.jpg)
+{{< img src="remixes-22627976.jpg" title="Remixes by Kraftwerk" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![The Final Cut by Pink Floyd](the-final-cut-9658690.jpg)
+{{< img src="the-final-cut-9658690.jpg" title="The Final Cut by Pink Floyd" >}}
 
 <!-- section break -->
 

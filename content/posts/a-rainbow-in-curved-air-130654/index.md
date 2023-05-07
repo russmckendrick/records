@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Minimal", "Ambient"]
 ---
 
-![A Rainbow In Curved Air by Terry Riley](a-rainbow-in-curved-air-130654.jpg)
+{{< img src="a-rainbow-in-curved-air-130654.jpg" title="A Rainbow In Curved Air by Terry Riley" >}}
 
 <!-- section break -->
 

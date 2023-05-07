@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![Never Mind The Bollocks, Here's The Sex Pistols by Sex Pistols](never-mind-the-bollocks-here-s-the-sex-pistols-5759979.jpg)
+{{< img src="never-mind-the-bollocks-here-s-the-sex-pistols-5759979.jpg" title="Never Mind The Bollocks, Here's The Sex Pistols by Sex Pistols" >}}
 
 <!-- section break -->
 

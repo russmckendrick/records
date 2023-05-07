@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Hormonally Yours by Shakespear's Sister](hormonally-yours-8958853.jpg)
+{{< img src="hormonally-yours-8958853.jpg" title="Hormonally Yours by Shakespear's Sister" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: []
 
 
 ## Videos
-### Shakespears Sister - Hello (Turn Your Radio On) (Official Video)
-{{< youtube id="IrbFydtLF-Y" title="Shakespears Sister - Hello (Turn Your Radio On) (Official Video)" >}}<br>
+### Shakespears Sister - Goodbye Cruel World (Official Video)
+{{< youtube id="pSH5yQ9y51M" title="Shakespears Sister - Goodbye Cruel World (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Shakespears Sister - Stay (Official Video)](https://www.youtube.com/watch?v=YCYaALgW80c)
-- [Shakespears Sister - Goodbye Cruel World (Official Video)](https://www.youtube.com/watch?v=pSH5yQ9y51M)
+- [Shakespears Sister - Hello (Turn Your Radio On) (Official Video)](https://www.youtube.com/watch?v=IrbFydtLF-Y)
 - [Shakespears Sister - I Don't Care (Official Video)](https://www.youtube.com/watch?v=d022vGBC75o)
 - [Shakespears Sister - I Don't Care](https://www.youtube.com/watch?v=5IU3TNo_WcY)
 - [Shakespears Sister 'I Don't Care'](https://www.youtube.com/watch?v=-odnJZIyc2g)

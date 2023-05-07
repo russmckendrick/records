@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Garbage by Garbage](garbage-19925866.jpg)
+{{< img src="garbage-19925866.jpg" title="Garbage by Garbage" >}}
 
 <!-- section break -->
 

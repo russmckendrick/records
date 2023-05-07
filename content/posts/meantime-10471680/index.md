@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hardcore"]
 ---
 
-![Meantime by Helmet](meantime-10471680.jpg)
+{{< img src="meantime-10471680.jpg" title="Meantime by Helmet" >}}
 
 <!-- section break -->
 

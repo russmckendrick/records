@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Songs From The Big Chair by Tears For Fears](songs-from-the-big-chair-124187.jpg)
+{{< img src="songs-from-the-big-chair-124187.jpg" title="Songs From The Big Chair by Tears For Fears" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
-![Hup by The Wonder Stuff](hup-3580276.jpg)
+{{< img src="hup-3580276.jpg" title="Hup by The Wonder Stuff" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 
 
 ## Videos
-### CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989
-{{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}<br>
+### The Wonder Stuff - Unfaithful
+{{< youtube id="onDvSeWeJsc" title="The Wonder Stuff - Unfaithful" >}}<br>
 
 ### More Videos
 
-- [The Wonder Stuff - Unfaithful](https://www.youtube.com/watch?v=onDvSeWeJsc)
+- [CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989](https://www.youtube.com/watch?v=dOYo2IQ5UNo)
 - [The Wonder Stuff 30 Years In The Bathroom.wmv](https://www.youtube.com/watch?v=fS2AA27i0Ag)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![All Is Dream by Mercury Rev](all-is-dream-15833593.jpg)
+{{< img src="all-is-dream-15833593.jpg" title="All Is Dream by Mercury Rev" >}}
 
 <!-- section break -->
 
@@ -54,8 +54,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Funny Bird (Live Session)
-{{< youtube id="yudJJqkeKzI" title="The Funny Bird (Live Session)" >}}<br>
+### Nocturne In C# Minor, Opus 27, No.1
+{{< youtube id="-zdrJ9uWp0g" title="Nocturne In C# Minor, Opus 27, No.1" >}}<br>
 
 ### More Videos
 
@@ -66,12 +66,12 @@ styles: ["Alternative Rock"]
 - [Nite and Fog](https://www.youtube.com/watch?v=laJuXE6H7uA)
 - [The dark is rising (Mercury rev)](https://www.youtube.com/watch?v=A102xE-Wnfk)
 - [The Saw Song (Live in Detroit 11/23/01)](https://www.youtube.com/watch?v=hgvJrerCItA)
-- [Nocturne In C# Minor, Opus 27, No.1](https://www.youtube.com/watch?v=-zdrJ9uWp0g)
 - [Hercules (Demo)](https://www.youtube.com/watch?v=8M-IkC4e2jQ)
 - [Hercules](https://www.youtube.com/watch?v=Ssmmi_CUhjw)
 - [Goddess On A Highway (Live Session)](https://www.youtube.com/watch?v=r-aja6l2WJQ)
 - [Planet Caravan](https://www.youtube.com/watch?v=ZTnjdQzyQXM)
 - [Gymnopedies 3 (John Peel Session)](https://www.youtube.com/watch?v=8S843-Ub284)
+- [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
 - [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
 
 

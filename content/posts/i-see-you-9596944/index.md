@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![I See You by The XX](i-see-you-9596944.jpg)
+{{< img src="i-see-you-9596944.jpg" title="I See You by The XX" >}}
 
 <!-- section break -->
 
@@ -48,16 +48,16 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### The xx - Naive (Official Audio)
-{{< youtube id="yZBaaPz6jQs" title="The xx - Naive (Official Audio)" >}}<br>
+### The xx - On Hold (Official Video)
+{{< youtube id="blJKoXWlqJk" title="The xx - On Hold (Official Video)" >}}<br>
 
 ### More Videos
 
-- [The xx - On Hold (Official Video)](https://www.youtube.com/watch?v=blJKoXWlqJk)
 - [The XX - Seasons Run](https://www.youtube.com/watch?v=9h5hOBdolWM)
 - [The xx - Say Something Loving (Official Music Video)](https://www.youtube.com/watch?v=Rh2uNrIgGf4)
 - [The xx - Brave For You (Marfa Demo Version)](https://www.youtube.com/watch?v=2xkkSUMstlM)
 - [The xx - I Dare You (Official Music Video)](https://www.youtube.com/watch?v=qqflFMhkqHM)
+- [The xx - Naive (Official Audio)](https://www.youtube.com/watch?v=yZBaaPz6jQs)
 
 
 ## Release Information

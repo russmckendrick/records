@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-![The Best Of The Psychedelic Furs by The Psychedelic Furs](the-best-of-the-psychedelic-furs-19345039.jpg)
+{{< img src="the-best-of-the-psychedelic-furs-19345039.jpg" title="The Best Of The Psychedelic Furs by The Psychedelic Furs" >}}
 
 <!-- section break -->
 

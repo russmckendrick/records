@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Thirteen by Teenage Fanclub](thirteen-12373131.jpg)
+{{< img src="thirteen-12373131.jpg" title="Thirteen by Teenage Fanclub" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 ---
 
-![People's Instinctive Travels And The Paths Of Rhythm by A Tribe Called Quest](people-s-instinctive-travels-and-the-paths-of-rhythm-7926540.jpg)
+{{< img src="people-s-instinctive-travels-and-the-paths-of-rhythm-7926540.jpg" title="People's Instinctive Travels And The Paths Of Rhythm by A Tribe Called Quest" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Ham 'N' Eggs
-{{< youtube id="wUsr1GUZ3oU" title="Ham 'N' Eggs" >}}<br>
+### Description of a Fool
+{{< youtube id="DirRhRgwtes" title="Description of a Fool" >}}<br>
 
 ### More Videos
 
@@ -62,8 +62,8 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 - [Youthful Expression](https://www.youtube.com/watch?v=2WXTGHS8kCs)
 - [Rhythm (Devoted to the Art of Moving Butts)](https://www.youtube.com/watch?v=-pc8H8Ozr6Y)
 - [Mr. Muhammad](https://www.youtube.com/watch?v=e4hpXesb2CA)
+- [Ham 'N' Eggs](https://www.youtube.com/watch?v=wUsr1GUZ3oU)
 - [Go Ahead In the Rain](https://www.youtube.com/watch?v=T1CnUKAxgF4)
-- [Description of a Fool](https://www.youtube.com/watch?v=DirRhRgwtes)
 
 
 ## Release Information

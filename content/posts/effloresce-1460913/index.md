@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Effloresce by Oceansize](effloresce-1460913.jpg)
+{{< img src="effloresce-1460913.jpg" title="Effloresce by Oceansize" >}}
 
 <!-- section break -->
 

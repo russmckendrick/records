@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![Script For A Jester's Tear by Marillion](script-for-a-jester-s-tear-14981330.jpg)
+{{< img src="script-for-a-jester-s-tear-14981330.jpg" title="Script For A Jester's Tear by Marillion" >}}
 
 <!-- section break -->
 

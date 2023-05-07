@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Greatest Hits by Al Green](greatest-hits-7687375.jpg)
+{{< img src="greatest-hits-7687375.jpg" title="Greatest Hits by Al Green" >}}
 
 <!-- section break -->
 

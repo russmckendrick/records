@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Experimental"]
 ---
 
-![Bright Sparks by I Monster](bright-sparks-8200654.jpg)
+{{< img src="bright-sparks-8200654.jpg" title="Bright Sparks by I Monster" >}}
 
 <!-- section break -->
 

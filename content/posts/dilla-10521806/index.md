@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Jazz"]
 styles: []
 ---
 
-![Dilla by Abstract Orchestra](dilla-10521806.jpg)
+{{< img src="dilla-10521806.jpg" title="Dilla by Abstract Orchestra" >}}
 
 <!-- section break -->
 

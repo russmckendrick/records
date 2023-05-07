@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Tech House", "Electro", "Experimental"]
 ---
 
-![Singularity by Jon Hopkins](singularity-11950639.jpg)
+{{< img src="singularity-11950639.jpg" title="Singularity by Jon Hopkins" >}}
 
 <!-- section break -->
 
@@ -37,15 +37,15 @@ styles: ["Tech House", "Electro", "Experimental"]
 
 
 ## Videos
-### Jon Hopkins - Emerald Rush (Official Video)
-{{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}<br>
+### Jon Hopkins - Luminous Beings (Edit) (Official Audio)
+{{< youtube id="GGfttSfGbBM" title="Jon Hopkins - Luminous Beings (Edit) (Official Audio)" >}}<br>
 
 ### More Videos
 
+- [Jon Hopkins - Emerald Rush (Official Video)](https://www.youtube.com/watch?v=4sk0uDbM5lc)
 - [Jon Hopkins - Singularity (Official Video)](https://www.youtube.com/watch?v=lkvnpHFajt0)
 - [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
 - [Jon Hopkins - Singularity (ANNA Remix) (Official Audio)](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
-- [Jon Hopkins - Luminous Beings (Edit) (Official Audio)](https://www.youtube.com/watch?v=GGfttSfGbBM)
 - [Neon Pattern Drum](https://www.youtube.com/watch?v=dPV_bL_YOho)
 - [Jon Hopkins - Feel First Life (Official Video)](https://www.youtube.com/watch?v=rXNPbUyiI64)
 - [C O S M](https://www.youtube.com/watch?v=nMTF-IocBi4)

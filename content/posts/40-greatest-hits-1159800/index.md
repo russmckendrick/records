@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ---
 
-![40 Greatest Hits by Elvis Presley](40-greatest-hits-1159800.jpg)
+{{< img src="40-greatest-hits-1159800.jpg" title="40 Greatest Hits by Elvis Presley" >}}
 
 <!-- section break -->
 

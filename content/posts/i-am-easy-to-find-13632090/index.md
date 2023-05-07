@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![I Am Easy To Find by The National](i-am-easy-to-find-13632090.jpg)
+{{< img src="i-am-easy-to-find-13632090.jpg" title="I Am Easy To Find by The National" >}}
 
 <!-- section break -->
 
@@ -45,14 +45,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### The National - 'Light Years'
-{{< youtube id="5FQtSn_vak0" title="The National - 'Light Years'" >}}<br>
+### The National - 'Hairpin Turns'
+{{< youtube id="W_aN81SBI3A" title="The National - 'Hairpin Turns'" >}}<br>
 
 ### More Videos
 
 - [I Am Easy To Find - A Film by Mike Mills / An Album by The National](https://www.youtube.com/watch?v=ifElv18k2O8)
 - [The National - 'Rylan'](https://www.youtube.com/watch?v=CbXnnn8z1tE)
-- [The National - 'Hairpin Turns'](https://www.youtube.com/watch?v=W_aN81SBI3A)
+- [The National - 'Light Years'](https://www.youtube.com/watch?v=5FQtSn_vak0)
 
 
 ## Release Information

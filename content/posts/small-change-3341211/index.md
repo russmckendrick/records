@@ -14,7 +14,7 @@ genres: ["Jazz", "Blues"]
 styles: []
 ---
 
-![Small Change by Tom Waits](small-change-3341211.jpg)
+{{< img src="small-change-3341211.jpg" title="Small Change by Tom Waits" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: []
 
 
 ## Videos
-### Tom Waits - Bad Liver And A Broken Heart (In Lowell)
-{{< youtube id="IO4CvpL-O5s" title="Tom Waits - Bad Liver And A Broken Heart (In Lowell)" >}}<br>
+### Tom Waits - Jitterbug Boy
+{{< youtube id="zhK7ZylXTs0" title="Tom Waits - Jitterbug Boy" >}}<br>
 
 ### More Videos
 
 - [Tom Waits - Small Change (Got Rained On With His Own .38)](https://www.youtube.com/watch?v=vvGW4A_EI24)
 - [Tom Waits - Invitation To The Blues](https://www.youtube.com/watch?v=Ag2hddV1hE4)
-- [Tom Waits - Jitterbug Boy](https://www.youtube.com/watch?v=zhK7ZylXTs0)
+- [Tom Waits - Bad Liver And A Broken Heart (In Lowell)](https://www.youtube.com/watch?v=IO4CvpL-O5s)
 - [Tom Waits - Step Right Up](https://www.youtube.com/watch?v=kTdScE3Rqh8)
 
 

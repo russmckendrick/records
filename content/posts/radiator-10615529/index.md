@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 ---
 
-![Radiator by Super Furry Animals](radiator-10615529.jpg)
+{{< img src="radiator-10615529.jpg" title="Radiator by Super Furry Animals" >}}
 
 <!-- section break -->
 
@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 
 
 ## Videos
-### Super Furry Animals - Hermann Loves Pauline (Video)
-{{< youtube id="njhQ23ZKjFU" title="Super Furry Animals - Hermann Loves Pauline (Video)" >}}<br>
+### Super Furry Animals - Demons (Video)
+{{< youtube id="BmvwINJeLKU" title="Super Furry Animals - Demons (Video)" >}}<br>
 
 ### More Videos
 
-- [Super Furry Animals - Demons (Video)](https://www.youtube.com/watch?v=BmvwINJeLKU)
+- [Super Furry Animals - Hermann Loves Pauline (Video)](https://www.youtube.com/watch?v=njhQ23ZKjFU)
 
 
 ## Release Information

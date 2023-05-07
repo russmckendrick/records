@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Susannah's Still Alive by Cardiacs](susannah-s-still-alive-1605967.jpg)
+{{< img src="susannah-s-still-alive-1605967.jpg" title="Susannah's Still Alive by Cardiacs" >}}
 
 <!-- section break -->
 
@@ -27,12 +27,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Cardiacs - Suzannah's Still Alive
-{{< youtube id="8YMs5QwHmMc" title="Cardiacs - Suzannah's Still Alive" >}}<br>
+### Blind In Safety And Leafy In Love
+{{< youtube id="gQY9pvYpjZ8" title="Blind In Safety And Leafy In Love" >}}<br>
 
 ### More Videos
 
-- [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
+- [Cardiacs - Suzannah's Still Alive](https://www.youtube.com/watch?v=8YMs5QwHmMc)
 
 
 ## Release Information

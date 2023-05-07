@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["House", "Techno", "Electro", "Synth-pop"]
 ---
 
-![Tour De France by Kraftwerk](tour-de-france-2059631.jpg)
+{{< img src="tour-de-france-2059631.jpg" title="Tour De France by Kraftwerk" >}}
 
 <!-- section break -->
 

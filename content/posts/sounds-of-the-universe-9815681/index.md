@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
 
-![Sounds Of The Universe by Depeche Mode](sounds-of-the-universe-9815681.jpg)
+{{< img src="sounds-of-the-universe-9815681.jpg" title="Sounds Of The Universe by Depeche Mode" >}}
 
 <!-- section break -->
 

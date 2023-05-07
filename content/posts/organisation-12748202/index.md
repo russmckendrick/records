@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Organisation by Orchestral Manoeuvres In The Dark](organisation-12748202.jpg)
+{{< img src="organisation-12748202.jpg" title="Organisation by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 
@@ -37,17 +37,17 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### The Misunderstanding (2003 Digital Remaster)
-{{< youtube id="dVZwu5524f0" title="The Misunderstanding (2003 Digital Remaster)" >}}<br>
+### Motion And Heart (2003 Digital Remaster)
+{{< youtube id="IEqYDv8lMHM" title="Motion And Heart (2003 Digital Remaster)" >}}<br>
 
 ### More Videos
 
 - [Enola Gay (Remastered)](https://www.youtube.com/watch?v=n4mqwJ569_M)
 - [2nd Thought (2003 Digital Remaster)](https://www.youtube.com/watch?v=cwkpoF9uvsY)
 - [VCL XI (2003 Digital Remaster)](https://www.youtube.com/watch?v=FuOBBAyDWHQ)
-- [Motion And Heart (2003 Digital Remaster)](https://www.youtube.com/watch?v=IEqYDv8lMHM)
 - [Statues (2003 Digital Remaster)](https://www.youtube.com/watch?v=tpcSuLNuWp4)
 - [Annex (2003 Digital Remaster)](https://www.youtube.com/watch?v=djQVPn1Aj2k)
+- [The Misunderstanding (2003 Digital Remaster)](https://www.youtube.com/watch?v=dVZwu5524f0)
 - [The More I See You (2003 Digital Remaster)](https://www.youtube.com/watch?v=07Mt2v1qjsI)
 - [Promise (Remastered)](https://www.youtube.com/watch?v=iMAEs9x8KKQ)
 - [Stanlow (2003 Digital Remaster)](https://www.youtube.com/watch?v=WuxiaK5MqYg)

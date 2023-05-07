@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 ---
 
-![The Awards 1992 by Various](the-awards-1992-2697679.jpg)
+{{< img src="the-awards-1992-2697679.jpg" title="The Awards 1992 by Various" >}}
 
 <!-- section break -->
 

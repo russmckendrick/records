@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings](just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214.jpg)
+{{< img src="just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214.jpg" title="Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: ["Soul"]
 
 
 ## Videos
-### Rescue Me
-{{< youtube id="B9Na5FOBsEU" title="Rescue Me" >}}<br>
+### Here I Am Baby
+{{< youtube id="0RQMzvkkaEg" title="Here I Am Baby" >}}<br>
 
 ### More Videos
 
 - [Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)](https://www.youtube.com/watch?v=lWaKjzh0pFI)
 - [Signed, Sealed, Delivered I'm Yours](https://www.youtube.com/watch?v=x0Obj53eHB0)
 - [In the Bush](https://www.youtube.com/watch?v=XHQ4qpZXG2E)
-- [Here I Am Baby](https://www.youtube.com/watch?v=0RQMzvkkaEg)
+- [Rescue Me](https://www.youtube.com/watch?v=B9Na5FOBsEU)
 - [Trespasser](https://www.youtube.com/watch?v=6pdxS81QPHY)
 - [Take Me With U](https://www.youtube.com/watch?v=YkMVl7a7-q0)
 - [Little by Little](https://www.youtube.com/watch?v=-Q7IP-67kow)

@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["P.Funk"]
 ---
 
-![World Wide Funk by Bootsy Collins](world-wide-funk-11046939.jpg)
+{{< img src="world-wide-funk-11046939.jpg" title="World Wide Funk by Bootsy Collins" >}}
 
 <!-- section break -->
 

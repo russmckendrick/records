@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Ambient", "Soundtrack", "Score"]
 ---
 
-![Blade Runner by Vangelis](blade-runner-7097828.jpg)
+{{< img src="blade-runner-7097828.jpg" title="Blade Runner by Vangelis" >}}
 
 <!-- section break -->
 

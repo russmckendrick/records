@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Izzy Stradlin And The Ju Ju Hounds  by Izzy Stradlin And The Ju Ju Hounds](izzy-stradlin-and-the-ju-ju-hounds-8536055.jpg)
+{{< img src="izzy-stradlin-and-the-ju-ju-hounds-8536055.jpg" title="Izzy Stradlin And The Ju Ju Hounds  by Izzy Stradlin And The Ju Ju Hounds" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Izzy Stradlin And The Ju Ju Hounds - Shuffle It All
-{{< youtube id="TKBgbbFaF2U" title="Izzy Stradlin And The Ju Ju Hounds - Shuffle It All" >}}<br>
+### Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop
+{{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop" >}}<br>
 
 ### More Videos
 
-- [Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop](https://www.youtube.com/watch?v=Py9ISGt8da8)
+- [Izzy Stradlin And The Ju Ju Hounds - Shuffle It All](https://www.youtube.com/watch?v=TKBgbbFaF2U)
 - [Izzy Stradlin // Pressure Drop](https://www.youtube.com/watch?v=CP1ALG-iWCI)
 - [Izzy Stradlin - How Much?](https://www.youtube.com/watch?v=mBw7MbayRes)
 - [Guns N' Roses Izzy Stradlin:  Whatever Happened To The Ju Ju Hounds?](https://www.youtube.com/watch?v=HJisRE8x_AQ)

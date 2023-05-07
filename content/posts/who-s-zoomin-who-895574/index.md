@@ -14,7 +14,7 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Synth-pop", "Soul"]
 ---
 
-![Who's Zoomin' Who? by Aretha Franklin](who-s-zoomin-who-895574.jpg)
+{{< img src="who-s-zoomin-who-895574.jpg" title="Who's Zoomin' Who? by Aretha Franklin" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Disco", "Synth-pop", "Soul"]
 
 
 ## Videos
-### Sisters Are Doin' It for Themselves
-{{< youtube id="g9tziRkNq18" title="Sisters Are Doin' It for Themselves" >}}<br>
+### Push
+{{< youtube id="FJprsu2VaWM" title="Push" >}}<br>
 
 ### More Videos
 
@@ -47,11 +47,11 @@ styles: ["Disco", "Synth-pop", "Soul"]
 - [Aretha Franklin - Freeway Of Love (Video)](https://www.youtube.com/watch?v=Ip_pjb5_fgA)
 - [Aretha Franklin – Who's Zoomin' Who?](https://www.youtube.com/watch?v=yuxiZNFJV0s)
 - [Aretha Franklin - Freeway Of Love](https://www.youtube.com/watch?v=auRu9d__4Ws)
+- [Sisters Are Doin' It for Themselves](https://www.youtube.com/watch?v=g9tziRkNq18)
 - [Until You Say You Love Me](https://www.youtube.com/watch?v=oQyc35RQ8Sw)
 - [Aretha Franklin 'Who's Zoomin' Who' [HD]](https://www.youtube.com/watch?v=OwiERojwshI)
 - [Who's Zoomin Who 1985 - Aretha Franklin](https://www.youtube.com/watch?v=YpzzR8J59hU)
 - [Ain't Nobody Ever Loved You](https://www.youtube.com/watch?v=hoea1s3PY_8)
-- [Push](https://www.youtube.com/watch?v=FJprsu2VaWM)
 
 
 ## Release Information

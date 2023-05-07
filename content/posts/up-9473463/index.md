@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Up by Peter Gabriel](up-9473463.jpg)
+{{< img src="up-9473463.jpg" title="Up by Peter Gabriel" >}}
 
 <!-- section break -->
 

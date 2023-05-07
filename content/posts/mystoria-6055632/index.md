@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Mystoria by Amplifier](mystoria-6055632.jpg)
+{{< img src="mystoria-6055632.jpg" title="Mystoria by Amplifier" >}}
 
 <!-- section break -->
 
@@ -45,15 +45,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### AMPLIFIER - Open Up (LYRIC VIDEO)
-{{< youtube id="VDdWkXa4yWE" title="AMPLIFIER - Open Up (LYRIC VIDEO)" >}}<br>
+### AMPLIFIER - ChugChugChugChug (Studio Episode #1)
+{{< youtube id="2IBQEao8Qhk" title="AMPLIFIER - ChugChugChugChug (Studio Episode #1)" >}}<br>
 
 ### More Videos
 
 - [AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=U6aB4735tvQ)
-- [AMPLIFIER - ChugChugChugChug (Studio Episode #1)](https://www.youtube.com/watch?v=2IBQEao8Qhk)
 - [AMPLIFIER - Named After Rocky (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=RblO4B6h2tc)
 - [Amplifier - Black Rainbow](https://www.youtube.com/watch?v=z3JBcuP1FfQ)
+- [AMPLIFIER - Open Up (LYRIC VIDEO)](https://www.youtube.com/watch?v=VDdWkXa4yWE)
 
 
 ## Release Information

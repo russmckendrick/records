@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Three Piece Suite by Gentle Giant](three-piece-suite-10928571.jpg)
+{{< img src="three-piece-suite-10928571.jpg" title="Three Piece Suite by Gentle Giant" >}}
 
 <!-- section break -->
 

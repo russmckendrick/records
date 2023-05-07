@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![Copperhead Road by Steve Earle](copperhead-road-1753416.jpg)
+{{< img src="copperhead-road-1753416.jpg" title="Copperhead Road by Steve Earle" >}}
 
 <!-- section break -->
 

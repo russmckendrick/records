@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Center Won't Hold by Sleater-Kinney](the-center-won-t-hold-14003093.jpg)
+{{< img src="the-center-won-t-hold-14003093.jpg" title="The Center Won't Hold by Sleater-Kinney" >}}
 
 <!-- section break -->
 

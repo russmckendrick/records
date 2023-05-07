@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
 
-![Ceremony by New Order](ceremony-13303363.jpg)
+{{< img src="ceremony-13303363.jpg" title="Ceremony by New Order" >}}
 
 <!-- section break -->
 

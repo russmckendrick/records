@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![Hallucinations Of A Higher Truth by Bill Fisher](hallucinations-of-a-higher-truth-20871457.jpg)
+{{< img src="hallucinations-of-a-higher-truth-20871457.jpg" title="Hallucinations Of A Higher Truth by Bill Fisher" >}}
 
 <!-- section break -->
 

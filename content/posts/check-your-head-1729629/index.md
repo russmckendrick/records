@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Jazz", "Rock"]
 styles: ["Cut-up/DJ", "Fusion"]
 ---
 
-![Check Your Head by Beastie Boys](check-your-head-1729629.jpg)
+{{< img src="check-your-head-1729629.jpg" title="Check Your Head by Beastie Boys" >}}
 
 <!-- section break -->
 
@@ -48,13 +48,13 @@ styles: ["Cut-up/DJ", "Fusion"]
 
 
 ## Videos
-### Beastie Boys - Pass the Mic (Official Music Video)
-{{< youtube id="NpsvBvwRuf0" title="Beastie Boys - Pass the Mic (Official Music Video)" >}}<br>
+### Beastie Boys - So What'Cha Want
+{{< youtube id="ru3gH27Fn6E" title="Beastie Boys - So What'Cha Want" >}}<br>
 
 ### More Videos
 
-- [Beastie Boys - So What'Cha Want](https://www.youtube.com/watch?v=ru3gH27Fn6E)
 - [Beastie Boys - Gratitude](https://www.youtube.com/watch?v=ZdJ5e70Q8mw)
+- [Beastie Boys - Pass the Mic (Official Music Video)](https://www.youtube.com/watch?v=NpsvBvwRuf0)
 - [Beastie Boys - Something's Got To Give (Official Music Video)](https://www.youtube.com/watch?v=teQqelBTw7g)
 - [Beastie Boys - Jimmy James (Official Music Video)](https://www.youtube.com/watch?v=vw5i7TPkYfI)
 

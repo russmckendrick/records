@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska", "Punk", "Hardcore"]
 ---
 
-![Devils Night Out by The Mighty Mighty Bosstones](devils-night-out-9713856.jpg)
+{{< img src="devils-night-out-9713856.jpg" title="Devils Night Out by The Mighty Mighty Bosstones" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Ska", "Punk", "Hardcore"]
 
 
 ## Videos
-### The Mighty Mighty Bosstones - Devil's Night Out
-{{< youtube id="kyj-R97vj-U" title="The Mighty Mighty Bosstones - Devil's Night Out" >}}<br>
+### The Mighty Mighty Bosstones  - Devils Night Out Full Album
+{{< youtube id="cTIEH0PVRGg" title="The Mighty Mighty Bosstones  - Devils Night Out Full Album" >}}<br>
 
 ### More Videos
 
-- [The Mighty Mighty Bosstones  - Devils Night Out Full Album](https://www.youtube.com/watch?v=cTIEH0PVRGg)
+- [The Mighty Mighty Bosstones - Devil's Night Out](https://www.youtube.com/watch?v=kyj-R97vj-U)
 
 
 ## Release Information

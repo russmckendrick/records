@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock"]
 ---
 
-![Folklore by Big Big Train](folklore-8567409.jpg)
+{{< img src="folklore-8567409.jpg" title="Folklore by Big Big Train" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Big Big Train - Brooklands
-{{< youtube id="sOw-d1jQIl8" title="Big Big Train - Brooklands" >}}<br>
+### Folklore by Big Big Train
+{{< youtube id="0D9YF3e4Gac" title="Folklore by Big Big Train" >}}<br>
 
 ### More Videos
 
 - [big big train - lost rivers of London](https://www.youtube.com/watch?v=FaaOPtE1i_s)
+- [Big Big Train - Brooklands](https://www.youtube.com/watch?v=sOw-d1jQIl8)
 - [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-{2016}](https://www.youtube.com/watch?v=O9l-ROlHqg0)
-- [Folklore by Big Big Train](https://www.youtube.com/watch?v=0D9YF3e4Gac)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ---
 
-![Von by Sigur Rós](von-6655456.jpg)
+{{< img src="von-6655456.jpg" title="Von by Sigur Rós" >}}
 
 <!-- section break -->
 

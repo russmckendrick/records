@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![Anthology by Garbage](anthology-24953839.jpg)
+{{< img src="anthology-24953839.jpg" title="Anthology by Garbage" >}}
 
 <!-- section break -->
 

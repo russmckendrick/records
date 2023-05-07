@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 ---
 
-![We Care by Whale](we-care-1415702.jpg)
+{{< img src="we-care-1415702.jpg" title="We Care by Whale" >}}
 
 <!-- section break -->
 

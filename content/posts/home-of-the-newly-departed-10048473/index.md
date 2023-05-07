@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 ---
 
-![Home Of The Newly Departed by Knifeworld](home-of-the-newly-departed-10048473.jpg)
+{{< img src="home-of-the-newly-departed-10048473.jpg" title="Home Of The Newly Departed by Knifeworld" >}}
 
 <!-- section break -->
 

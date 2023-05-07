@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Rock & Roll"]
 ---
 
-![Johnny Cash At San Quentin by Johnny Cash](johnny-cash-at-san-quentin-7478564.jpg)
+{{< img src="johnny-cash-at-san-quentin-7478564.jpg" title="Johnny Cash At San Quentin by Johnny Cash" >}}
 
 <!-- section break -->
 

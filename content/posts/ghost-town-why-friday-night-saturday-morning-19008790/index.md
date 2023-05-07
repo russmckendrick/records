@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
 
-![Ghost Town / Why? / Friday Night, Saturday Morning by The Specials](ghost-town-why-friday-night-saturday-morning-19008790.jpg)
+{{< img src="ghost-town-why-friday-night-saturday-morning-19008790.jpg" title="Ghost Town / Why? / Friday Night, Saturday Morning by The Specials" >}}
 
 <!-- section break -->
 
@@ -28,8 +28,8 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### Ghost Town
-{{< youtube id="nG-pAZWUR9c" title="Ghost Town" >}}<br>
+### Ghost Town (Re-Recorded)
+{{< youtube id="TgOCumR2GxI" title="Ghost Town (Re-Recorded)" >}}<br>
 
 ### More Videos
 
@@ -54,6 +54,7 @@ styles: ["Ska", "Rocksteady"]
 - [Ghost Town](https://www.youtube.com/watch?v=R1S9CG3pkS0)
 - [Ghost Town](https://www.youtube.com/watch?v=ZRFaeJfGeIA)
 - [Ghost Town](https://www.youtube.com/watch?v=UaP4ljZv1ME)
+- [Ghost Town](https://www.youtube.com/watch?v=nG-pAZWUR9c)
 - [Ghost Town](https://www.youtube.com/watch?v=5noVmVdEjl8)
 - [Ghost Town (Extended Version)](https://www.youtube.com/watch?v=qiCxtmIDq5I)
 - [Ghost Town](https://www.youtube.com/watch?v=d0qnu1ZYcys)
@@ -98,7 +99,6 @@ styles: ["Ska", "Rocksteady"]
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=sC3BLJetUHU)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=QhGCeoc2QRs)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=zWdukGVU17Q)
-- [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=TgOCumR2GxI)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=oetKVHBFWmk)
 - [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
 - [Friday Night, Saturday Morning](https://www.youtube.com/watch?v=Mn9ldQNt_OQ)

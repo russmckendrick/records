@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Reggae", "Reggae-Pop", "Dub"]
 ---
 
-![Ziggy Stardub by Easy Star All-Stars](ziggy-stardub-26844965.jpg)
+{{< img src="ziggy-stardub-26844965.jpg" title="Ziggy Stardub by Easy Star All-Stars" >}}
 
 <!-- section break -->
 
@@ -39,19 +39,19 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 
 
 ## Videos
-### Ziggy Stardust (feat. The Skints)
-{{< youtube id="R2cELRztRUo" title="Ziggy Stardust (feat. The Skints)" >}}<br>
+### Starman
+{{< youtube id="xajye1EnIg0" title="Starman" >}}<br>
 
 ### More Videos
 
 - [EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=GE606BMUK0I)
 - [Soul Love (feat. Mortimer)](https://www.youtube.com/watch?v=aWfz7BqFpEk)
 - [Moonage Daydream](https://www.youtube.com/watch?v=3Sl6eGVeMtU)
-- [Starman](https://www.youtube.com/watch?v=xajye1EnIg0)
 - [It Ain't Easy (feat. Samory I)](https://www.youtube.com/watch?v=265zBQuLyIA)
 - [Lady Stardust (feat. SunDub)](https://www.youtube.com/watch?v=fwjNH-DyjaU)
 - [Star (feat. Carlton Livingston)](https://www.youtube.com/watch?v=HPJoGNEAzs4)
 - [Hang on to Yourself (feat. Fishbone and JonnyGO Figure)](https://www.youtube.com/watch?v=Lj1Arh_EkPo)
+- [Ziggy Stardust (feat. The Skints)](https://www.youtube.com/watch?v=R2cELRztRUo)
 - [Suffragette City (feat. The Expanders)](https://www.youtube.com/watch?v=xALGhE_0m2w)
 - [Easy Star All-Stars - Rock 'n' Roll Suicide ft. Macy Gray](https://www.youtube.com/watch?v=iVqeHCl-H_g)
 - [All the Young Dudes (feat. Kirsty Rock)](https://www.youtube.com/watch?v=_sX6PBqFMzo)

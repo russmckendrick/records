@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-![Sex With An X by The Vaselines](sex-with-an-x-2449561.jpg)
+{{< img src="sex-with-an-x-2449561.jpg" title="Sex With An X by The Vaselines" >}}
 
 <!-- section break -->
 

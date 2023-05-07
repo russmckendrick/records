@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 ---
 
-![Trailer Park by Beth Orton](trailer-park-2391456.jpg)
+{{< img src="trailer-park-2391456.jpg" title="Trailer Park by Beth Orton" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 
 
 ## Videos
-### Someone's Daughter - Beth Orton
-{{< youtube id="gIoC_Ya6WRo" title="Someone's Daughter - Beth Orton" >}}<br>
+### BETH ORTON... I WISH I NEVER SAW THE SUNSHINE
+{{< youtube id="XR2gaDtS1js" title="BETH ORTON... I WISH I NEVER SAW THE SUNSHINE" >}}<br>
 
 ### More Videos
 
 - [Beth Orton - She Cries Your Name (Video)](https://www.youtube.com/watch?v=rFZc4ax4tJs)
+- [Someone's Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
 - [Beth Orton - Live As You Dream](https://www.youtube.com/watch?v=Mt3d3lmDd_8)
-- [BETH ORTON... I WISH I NEVER SAW THE SUNSHINE](https://www.youtube.com/watch?v=XR2gaDtS1js)
 - [Beth Orton - Tangent](https://www.youtube.com/watch?v=ToUivqnyxN4)
 - [BETH ORTON - dON'T nEED A rEASON (+ lyrics)](https://www.youtube.com/watch?v=LWt3xqqwsjw)
 - [Beth Orton - sugar boy](https://www.youtube.com/watch?v=JeZpru0Rr_4)

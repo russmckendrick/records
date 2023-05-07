@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Second Coming by The Stone Roses](second-coming-3852822.jpg)
+{{< img src="second-coming-3852822.jpg" title="Second Coming by The Stone Roses" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Tears
-{{< youtube id="D31jeBNNJA8" title="Tears" >}}<br>
+### Breaking Into Heaven
+{{< youtube id="7nu5YLoaxHc" title="Breaking Into Heaven" >}}<br>
 
 ### More Videos
 
-- [Breaking Into Heaven](https://www.youtube.com/watch?v=7nu5YLoaxHc)
 - [The Stone Roses - Love Spreads (with lyrics)](https://www.youtube.com/watch?v=852fIw_I84I)
 - [Driving South](https://www.youtube.com/watch?v=vWCuXy7RVZc)
 - [Daybreak](https://www.youtube.com/watch?v=wE9MXCwNGCk)
 - [Tightrope](https://www.youtube.com/watch?v=bFla7YYpoxE)
+- [Tears](https://www.youtube.com/watch?v=D31jeBNNJA8)
 - [How Do You Sleep](https://www.youtube.com/watch?v=Z-0mj4rJ0Zg)
 - [The Stone Roses - Second Coming - Track 90  Foz](https://www.youtube.com/watch?v=L_5dZGXatFI)
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)

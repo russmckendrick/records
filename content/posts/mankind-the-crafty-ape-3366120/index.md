@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
-![(Mankind) The Crafty Ape by Crippled Black Phoenix](mankind-the-crafty-ape-3366120.jpg)
+{{< img src="mankind-the-crafty-ape-3366120.jpg" title="(Mankind) The Crafty Ape by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - A Letter Concerning Dogheads
-{{< youtube id="MQfypm8ZDgo" title="Crippled Black Phoenix - A Letter Concerning Dogheads" >}}<br>
+### Crippled Black Phoenix - Born In A Hurricane
+{{< youtube id="cihKxslHy2o" title="Crippled Black Phoenix - Born In A Hurricane" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,7 @@ styles: ["Post Rock", "Prog Rock"]
 - [Crippled Black Phoenix - The Brain / Poznan](https://www.youtube.com/watch?v=MSg917RuF_k)
 - [Crippled Black Phoenix - Faced With Complete Failure, Utter Defiance Is the Only Response](https://www.youtube.com/watch?v=x_-bDI5VBCE)
 - [Crippled Black Phoenix - Laying Traps (official video)](https://www.youtube.com/watch?v=-hww41CRS0E)
-- [Crippled Black Phoenix - Born In A Hurricane](https://www.youtube.com/watch?v=cihKxslHy2o)
+- [Crippled Black Phoenix - A Letter Concerning Dogheads](https://www.youtube.com/watch?v=MQfypm8ZDgo)
 
 
 ## Release Information

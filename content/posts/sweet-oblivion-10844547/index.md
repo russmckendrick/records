@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Sweet Oblivion by Screaming Trees](sweet-oblivion-10844547.jpg)
+{{< img src="sweet-oblivion-10844547.jpg" title="Sweet Oblivion by Screaming Trees" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### 𝓢𝓬𝓻𝓮a̲𝖒ing T̲r̲e̲e̲s - 𝗦𝘄𝗲𝗲t̲ 🅾b̲l̲v̲i̲o̲n̲ (Full Album)
-{{< youtube id="LdAGDZqeTTk" title="𝓢𝓬𝓻𝓮a̲𝖒ing T̲r̲e̲e̲s - 𝗦𝘄𝗲𝗲t̲ 🅾b̲l̲v̲i̲o̲n̲ (Full Album)" >}}<br>
+### Screaming Trees - Dollar Bill
+{{< youtube id="1lfd7zeHRRs" title="Screaming Trees - Dollar Bill" >}}<br>
 
 ### More Videos
 
 - [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
+- [𝓢𝓬𝓻𝓮a̲𝖒ing T̲r̲e̲e̲s - 𝗦𝘄𝗲𝗲t̲ 🅾b̲l̲v̲i̲o̲n̲ (Full Album)](https://www.youtube.com/watch?v=LdAGDZqeTTk)
 - [Screaming Trees - Shadow of the Season](https://www.youtube.com/watch?v=vujMy_r5NsY)
-- [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
 - [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
 
 

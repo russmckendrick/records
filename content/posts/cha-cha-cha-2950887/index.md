@@ -14,7 +14,7 @@ genres: ["Jazz", "Latin"]
 styles: ["Cha-Cha"]
 ---
 
-![Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra](cha-cha-cha-2950887.jpg)
+{{< img src="cha-cha-cha-2950887.jpg" title="Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Cha-Cha"]
 
 
 ## Videos
-### Carmen & Fernando del Valle - Vacation Cha Cha
-{{< youtube id="ylGp9-2BN2g" title="Carmen & Fernando del Valle - Vacation Cha Cha" >}}<br>
+### Yes Please Cha Cha
+{{< youtube id="xsyuYWr305g" title="Yes Please Cha Cha" >}}<br>
 
 ### More Videos
 
@@ -50,10 +50,10 @@ styles: ["Cha-Cha"]
 - [Pass Cha Cha](https://www.youtube.com/watch?v=bc4RJH0WMeQ)
 - [Let's Go Cha Cha](https://www.youtube.com/watch?v=fE-gGnhb8v4)
 - [Piccadilly Cha Cha](https://www.youtube.com/watch?v=PynAd9k0d1o)
-- [Yes Please Cha Cha](https://www.youtube.com/watch?v=xsyuYWr305g)
 - [Carmen & Fernando del Valle - Chat Cha Cha](https://www.youtube.com/watch?v=K2VPUhooZ5I)
 - [Torrid Cha Cha](https://www.youtube.com/watch?v=mSqxtpuCniI)
 - [Chanticleer Cha Cha](https://www.youtube.com/watch?v=V7v-Vn4d1qg)
+- [Carmen & Fernando del Valle - Vacation Cha Cha](https://www.youtube.com/watch?v=ylGp9-2BN2g)
 - [Carmen & Fernando del Valle - Continental Cha Cha](https://www.youtube.com/watch?v=svKb_RXGQWc)
 - [Carmen & Fernando del Valle - Simple Cha Cha](https://www.youtube.com/watch?v=9l-eu8bCnH8)
 - [Carmen & Fernando del Valle - Pass Cha Cha](https://www.youtube.com/watch?v=DuwqN3ypVDU)

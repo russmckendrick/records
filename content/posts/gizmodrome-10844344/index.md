@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock"]
 ---
 
-![Gizmodrome by Gizmodrome](gizmodrome-10844344.jpg)
+{{< img src="gizmodrome-10844344.jpg" title="Gizmodrome by Gizmodrome" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Gizmodrome- Ride Your Life
-{{< youtube id="2FRvy0MIKlk" title="Gizmodrome- Ride Your Life" >}}<br>
+### Gizmodrome- Sweet Angels (Rule The Word)
+{{< youtube id="RKh3N-t7ykM" title="Gizmodrome- Sweet Angels (Rule The Word)" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["Alternative Rock"]
 - [Gizmodrome Summer Is Coming](https://www.youtube.com/watch?v=za2_NMennRo)
 - [Gizmodrome- Spin This](https://www.youtube.com/watch?v=Ph1XdKGrjKE)
 - [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
+- [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
-- [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)
 
 
 ## Release Information

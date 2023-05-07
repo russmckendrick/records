@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-![New Miserable Experience by Gin Blossoms](new-miserable-experience-10027980.jpg)
+{{< img src="new-miserable-experience-10027980.jpg" title="New Miserable Experience by Gin Blossoms" >}}
 
 <!-- section break -->
 

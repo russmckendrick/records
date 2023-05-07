@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["AOR", "Hard Rock"]
 ---
 
-![Bad Animals by Heart](bad-animals-1402220.jpg)
+{{< img src="bad-animals-1402220.jpg" title="Bad Animals by Heart" >}}
 
 <!-- section break -->
 

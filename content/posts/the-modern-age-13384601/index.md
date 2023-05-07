@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![The Modern Age by Sleeper](the-modern-age-13384601.jpg)
+{{< img src="the-modern-age-13384601.jpg" title="The Modern Age by Sleeper" >}}
 
 <!-- section break -->
 

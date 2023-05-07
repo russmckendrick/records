@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Liquidizer 2019 by Jesus Jones](liquidizer-2019-14811949.jpg)
+{{< img src="liquidizer-2019-14811949.jpg" title="Liquidizer 2019 by Jesus Jones" >}}
 
 <!-- section break -->
 

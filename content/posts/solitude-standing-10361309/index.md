@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Solitude Standing by Suzanne Vega](solitude-standing-10361309.jpg)
+{{< img src="solitude-standing-10361309.jpg" title="Solitude Standing by Suzanne Vega" >}}
 
 <!-- section break -->
 
@@ -39,18 +39,18 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Ironbound / Fancy Poultry
-{{< youtube id="wnV-DPmrkLk" title="Ironbound / Fancy Poultry" >}}<br>
+### Calypso
+{{< youtube id="I8ExnrHJRUA" title="Calypso" >}}<br>
 
 ### More Videos
 
 - [Suzanne Vega - Luka](https://www.youtube.com/watch?v=VZt7J0iaUD0)
+- [Ironbound / Fancy Poultry](https://www.youtube.com/watch?v=wnV-DPmrkLk)
 - [Suzanne Vega - Solitude Standing](https://www.youtube.com/watch?v=05AHPFPpHIM)
 - [Suzanne Vega - Wooden Horse (Caspar Hauser's Song) (1987 European Vinyl)](https://www.youtube.com/watch?v=I_tEHqfvroA)
 - [Tom's Diner](https://www.youtube.com/watch?v=L9x-DENKIts)
 - [In The Eye](https://www.youtube.com/watch?v=tXwmeEZPl0Y)
 - [Night Vision](https://www.youtube.com/watch?v=wsso9MAHYoc)
-- [Calypso](https://www.youtube.com/watch?v=I8ExnrHJRUA)
 - [Language](https://www.youtube.com/watch?v=kISZKZqjUs4)
 - [Gypsy](https://www.youtube.com/watch?v=1kOG4FVuqG8)
 - [Wooden Horse (Casper Hauser's Song)](https://www.youtube.com/watch?v=nPBZDs5y2vg)

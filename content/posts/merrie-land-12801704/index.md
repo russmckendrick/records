@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![Merrie Land by The Good, The Bad & The Queen](merrie-land-12801704.jpg)
+{{< img src="merrie-land-12801704.jpg" title="Merrie Land by The Good, The Bad & The Queen" >}}
 
 <!-- section break -->
 

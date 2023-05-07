@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock"]
 ---
 
-![Live At Knebworth 1990 by Pink Floyd](live-at-knebworth-1990-18503998.jpg)
+{{< img src="live-at-knebworth-1990-18503998.jpg" title="Live At Knebworth 1990 by Pink Floyd" >}}
 
 <!-- section break -->
 

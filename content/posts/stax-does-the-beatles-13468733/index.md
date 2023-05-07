@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
 
-![Stax Does The Beatles by Various](stax-does-the-beatles-13468733.jpg)
+{{< img src="stax-does-the-beatles-13468733.jpg" title="Stax Does The Beatles by Various" >}}
 
 <!-- section break -->
 
@@ -43,14 +43,14 @@ styles: []
 
 
 ## Videos
-### Let It Be - The Mar-Keys from Stax Does The Beatles
-{{< youtube id="0zqgu5rnPb4" title="Let It Be - The Mar-Keys from Stax Does The Beatles" >}}<br>
+### My Sweet Lord - J.G. Williams from Stax Does The Beatles
+{{< youtube id="QNyoGjBwcPY" title="My Sweet Lord - J.G. Williams from Stax Does The Beatles" >}}<br>
 
 ### More Videos
 
 - [STAX DOES THE BEATLES(a few tracks)](https://www.youtube.com/watch?v=uKYcbGMHPAM)
+- [Let It Be - The Mar-Keys from Stax Does The Beatles](https://www.youtube.com/watch?v=0zqgu5rnPb4)
 - [And I Love Her - Reggie Milner from Stax Does The Beatles](https://www.youtube.com/watch?v=I6agj_lsnF4)
-- [My Sweet Lord - J.G. Williams from Stax Does The Beatles](https://www.youtube.com/watch?v=QNyoGjBwcPY)
 - [Michelle - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=EMcZXkSlpko)
 - [Eleanor Rigby - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=EkP5LsMuOt0)
 - [Day Tripper  (Alternate Take) - Otis Redding from Stax Does The Beatles](https://www.youtube.com/watch?v=b5L_POL7rTQ)

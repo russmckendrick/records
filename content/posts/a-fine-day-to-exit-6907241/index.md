@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![A Fine Day To Exit  by Anathema](a-fine-day-to-exit-6907241.jpg)
+{{< img src="a-fine-day-to-exit-6907241.jpg" title="A Fine Day To Exit  by Anathema" >}}
 
 <!-- section break -->
 

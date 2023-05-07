@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Pod by The Breeders](pod-11099702.jpg)
+{{< img src="pod-11099702.jpg" title="Pod by The Breeders" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Glorious
-{{< youtube id="OSwgWt0UNgE" title="Glorious" >}}<br>
+### Happiness Is A Warm Gun
+{{< youtube id="LoIyUl10ChQ" title="Happiness Is A Warm Gun" >}}<br>
 
 ### More Videos
 
+- [Glorious](https://www.youtube.com/watch?v=OSwgWt0UNgE)
 - [Doe](https://www.youtube.com/watch?v=wANv31sHYrk)
-- [Happiness Is A Warm Gun](https://www.youtube.com/watch?v=LoIyUl10ChQ)
 - [Oh!](https://www.youtube.com/watch?v=53sd3y2m1uU)
 - [Hellbound](https://www.youtube.com/watch?v=vByo-9H5xBs)
 - [When I Was A Painter](https://www.youtube.com/watch?v=3Pe9LS65yM4)

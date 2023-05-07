@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Letters To Maro by Frequency Drift](letters-to-maro-11856237.jpg)
+{{< img src="letters-to-maro-11856237.jpg" title="Letters To Maro by Frequency Drift" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Dear Maro
-{{< youtube id="D45eq-HByMA" title="Dear Maro" >}}<br>
+### Electricity
+{{< youtube id="P4opD_uNKOc" title="Electricity" >}}<br>
 
 ### More Videos
 
 - [Who's Master?](https://www.youtube.com/watch?v=IIJlPaNFWCA)
+- [Dear Maro](https://www.youtube.com/watch?v=D45eq-HByMA)
 - [Underground](https://www.youtube.com/watch?v=VID1aEeeVqU)
-- [Electricity](https://www.youtube.com/watch?v=P4opD_uNKOc)
 - [Sleep Paralysis](https://www.youtube.com/watch?v=nHwBffb2F5A)
 - [Nine](https://www.youtube.com/watch?v=cW0xqaJJYQ4)
 

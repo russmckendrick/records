@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![The Ten Year War by Black Sabbath](the-ten-year-war-11408964.jpg)
+{{< img src="the-ten-year-war-11408964.jpg" title="The Ten Year War by Black Sabbath" >}}
 
 <!-- section break -->
 

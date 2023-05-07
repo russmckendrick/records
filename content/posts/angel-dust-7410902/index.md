@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Angel Dust by Faith No More](angel-dust-7410902.jpg)
+{{< img src="angel-dust-7410902.jpg" title="Angel Dust by Faith No More" >}}
 
 <!-- section break -->
 
@@ -52,8 +52,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Kindergarten
-{{< youtube id="VRgL4mr8lPo" title="Kindergarten" >}}<br>
+### Midlife Crisis by Faith No More
+{{< youtube id="FoQIuDEHVng" title="Midlife Crisis by Faith No More" >}}<br>
 
 ### More Videos
 
@@ -67,12 +67,12 @@ styles: ["Alternative Rock"]
 - [Smaller and Smaller](https://www.youtube.com/watch?v=kW_uhFAb8kQ)
 - [Faith No More - Everything's Ruined (Official Music Video)](https://www.youtube.com/watch?v=usGQjN87BUA)
 - [Malpractice](https://www.youtube.com/watch?v=QYN0CntLzcE)
+- [Kindergarten](https://www.youtube.com/watch?v=VRgL4mr8lPo)
 - [Be Aggressive](https://www.youtube.com/watch?v=m3M6q4w7wO0)
 - [Faith No More - A Small Victory (Official Music Video)](https://www.youtube.com/watch?v=i9_hCjcFNO0)
 - [Crack Hitler](https://www.youtube.com/watch?v=2WIoVVwMZTE)
 - [Jizzlobber](https://www.youtube.com/watch?v=5456JZPWAvY)
 - [Midnight Cowboy (Theme From)](https://www.youtube.com/watch?v=OwAlFtRY3FQ)
-- [Midlife Crisis by Faith No More](https://www.youtube.com/watch?v=FoQIuDEHVng)
 
 
 ## Release Information

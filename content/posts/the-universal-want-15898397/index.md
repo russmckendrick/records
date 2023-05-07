@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![The Universal Want by Doves](the-universal-want-15898397.jpg)
+{{< img src="the-universal-want-15898397.jpg" title="The Universal Want by Doves" >}}
 
 <!-- section break -->
 

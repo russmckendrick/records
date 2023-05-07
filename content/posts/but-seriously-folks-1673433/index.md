@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ---
 
-![But Seriously, Folks... by Joe Walsh](but-seriously-folks-1673433.jpg)
+{{< img src="but-seriously-folks-1673433.jpg" title="But Seriously, Folks... by Joe Walsh" >}}
 
 <!-- section break -->
 
@@ -36,15 +36,15 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 
 
 ## Videos
-### Tomorrow
-{{< youtube id="byl1LfL3SBU" title="Tomorrow" >}}<br>
+### Joe Walsh - Indian Summer
+{{< youtube id="Ea5FH7a3iWU" title="Joe Walsh - Indian Summer" >}}<br>
 
 ### More Videos
 
 - [Joe Walsh - Over and Over](https://www.youtube.com/watch?v=dYuFFJ5Ness)
 - [Second Hand Store](https://www.youtube.com/watch?v=9uzCuP4_72U)
-- [Joe Walsh - Indian Summer](https://www.youtube.com/watch?v=Ea5FH7a3iWU)
 - [Joe Walsh - At The Station (But Seriously Folks, May 16, 1978)](https://www.youtube.com/watch?v=PGe8P7DK4Nc)
+- [Tomorrow](https://www.youtube.com/watch?v=byl1LfL3SBU)
 - [Inner Tube](https://www.youtube.com/watch?v=L9KUnOI3WjU)
 - [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
 - [Joe Walsh - Life's Been Good](https://www.youtube.com/watch?v=BXWvKDSwvls)

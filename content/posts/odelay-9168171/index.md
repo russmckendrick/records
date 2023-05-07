@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Odelay by Beck](odelay-9168171.jpg)
+{{< img src="odelay-9168171.jpg" title="Odelay by Beck" >}}
 
 <!-- section break -->
 

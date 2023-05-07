@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-![On The Level by Status Quo](on-the-level-7578679.jpg)
+{{< img src="on-the-level-7578679.jpg" title="On The Level by Status Quo" >}}
 
 <!-- section break -->
 

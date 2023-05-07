@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-![American Tunes by Allen Toussaint](american-tunes-8634623.jpg)
+{{< img src="american-tunes-8634623.jpg" title="American Tunes by Allen Toussaint" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Mardi Gras In New Orleans
-{{< youtube id="JxzW78F-lRM" title="Mardi Gras In New Orleans" >}}<br>
+### Big Chief
+{{< youtube id="5xOgbMlESMs" title="Big Chief" >}}<br>
 
 ### More Videos
 
@@ -57,6 +57,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Southern Nights](https://www.youtube.com/watch?v=1E1LIXlMzWw)
 - [Viper's Drag](https://www.youtube.com/watch?v=6-xSPorfyCE)
 - [Lotus Blossom](https://www.youtube.com/watch?v=1gVWhGpZvJo)
+- [Mardi Gras In New Orleans](https://www.youtube.com/watch?v=JxzW78F-lRM)
 - [Delores' Boyfriend](https://www.youtube.com/watch?v=EEptig6QMAE)
 - [Come Sunday](https://www.youtube.com/watch?v=vvrPynE7Y-0)
 - [Rocks In My Bed](https://www.youtube.com/watch?v=wpmh0L8UgRE)
@@ -65,7 +66,6 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Hey Little Girl](https://www.youtube.com/watch?v=UvqIYt2f3Zk)
 - [Waltz For Debby](https://www.youtube.com/watch?v=WK0nwThV8dE)
 - [Confessin' (That I Love You)](https://www.youtube.com/watch?v=VTvzPmI5hzo)
-- [Big Chief](https://www.youtube.com/watch?v=5xOgbMlESMs)
 
 
 ## Release Information

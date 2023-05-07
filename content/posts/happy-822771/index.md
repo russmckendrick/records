@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Happy by Ned's Atomic Dustbin](happy-822771.jpg)
+{{< img src="happy-822771.jpg" title="Happy by Ned's Atomic Dustbin" >}}
 
 <!-- section break -->
 
@@ -29,17 +29,17 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin - Happy
-{{< youtube id="gmD08Na5VKI" title="Ned's Atomic Dustbin - Happy" >}}<br>
+### Neds Atomic Dustbin - Happy?
+{{< youtube id="3js3qZOQHu8" title="Neds Atomic Dustbin - Happy?" >}}<br>
 
 ### More Videos
 
+- [Ned's Atomic Dustbin - Happy](https://www.youtube.com/watch?v=gmD08Na5VKI)
 - [Neds Atomic Dustbin-Happy](https://www.youtube.com/watch?v=AI4lzeHQduE)
 - [Ned's Atomic Dustbin - Twenty Three Hour Toothache](https://www.youtube.com/watch?v=eYYZXlmah0w)
 - [Ned's Atomic Dustbin-Happy](https://www.youtube.com/watch?v=INJr2ZSWZHM)
 - [Ned's Atomic Dustbin - Aim (at the Civic)](https://www.youtube.com/watch?v=0jzK1kMfpqc)
 - [Ned's Atomic Dustbin - Happy TOTP](https://www.youtube.com/watch?v=Xr1i0_oeZYw)
-- [Neds Atomic Dustbin - Happy?](https://www.youtube.com/watch?v=3js3qZOQHu8)
 - [Ned's Atomic Dustbin - Happy](https://www.youtube.com/watch?v=_-VREHFOvU0)
 - [Ned's Atomic Dustbin - Happy](https://www.youtube.com/watch?v=ju036hQDFUs)
 - [Ned's Atomic Dustbin - Happy (Live) Audio Only](https://www.youtube.com/watch?v=TZsJeqtpAJ8)

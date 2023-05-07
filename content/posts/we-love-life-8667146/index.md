@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![We Love Life by Pulp](we-love-life-8667146.jpg)
+{{< img src="we-love-life-8667146.jpg" title="We Love Life by Pulp" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### PULP - Weeds II (The Origin Of The Species)
-{{< youtube id="WDyg2xzoizk" title="PULP - Weeds II (The Origin Of The Species)" >}}<br>
+### I Love Life
+{{< youtube id="dZAXCPsSNh0" title="I Love Life" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,6 @@ styles: ["Indie Rock"]
 - [Wickerman](https://www.youtube.com/watch?v=dkFCUIxR5Nk)
 - [Wickerman](https://www.youtube.com/watch?v=T6W3xhkfDdI)
 - [I Love Life](https://www.youtube.com/watch?v=3TA5Sicjgws)
-- [I Love Life](https://www.youtube.com/watch?v=dZAXCPsSNh0)
 - [Birds In Your Garden](https://www.youtube.com/watch?v=gk1SX5CWuAc)
 - [Birds In Your Garden](https://www.youtube.com/watch?v=Om7NdgInx-U)
 - [Bob Lind (The Only Way Is Down)](https://www.youtube.com/watch?v=w_jltVnOuOk)
@@ -68,6 +67,7 @@ styles: ["Indie Rock"]
 - [Sunrise](https://www.youtube.com/watch?v=lowD5j1y9Yk)
 - [We Love Life - Pulp (2001) ALBUM REVIEW](https://www.youtube.com/watch?v=JlKLm3Yo81E)
 - [Yesterday](https://www.youtube.com/watch?v=XdqHDTR8F_M)
+- [PULP - Weeds II (The Origin Of The Species)](https://www.youtube.com/watch?v=WDyg2xzoizk)
 - [Forever In My Dreams](https://www.youtube.com/watch?v=BGhljQ-vRuM)
 - [Pulp - I Love Life](https://www.youtube.com/watch?v=NsqCrGFZzJk)
 

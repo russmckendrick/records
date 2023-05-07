@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-![Mr. Robot: Volume 3 (Original Television Series Soundtrack) by Mac Quayle](mr-robot-volume-3-original-television-series-soundtrack-11225407.jpg)
+{{< img src="mr-robot-volume-3-original-television-series-soundtrack-11225407.jpg" title="Mr. Robot: Volume 3 (Original Television Series Soundtrack) by Mac Quayle" >}}
 
 <!-- section break -->
 
@@ -49,8 +49,8 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### 2.4_1-heartworm.3gp
-{{< youtube id="CdCVt2maF8g" title="2.4_1-heartworm.3gp" >}}<br>
+### Mac Quayle  - Mr. Robot 2.3_1-steel-v4lley.webm
+{{< youtube id="u5nJM6vVvJI" title="Mac Quayle  - Mr. Robot 2.3_1-steel-v4lley.webm" >}}<br>
 
 ### More Videos
 
@@ -70,10 +70,10 @@ styles: ["Soundtrack", "Score"]
 - [2.2_3-existence.opus](https://www.youtube.com/watch?v=szZ6B2NcSyw)
 - [2.2_4-mightbe0wned.tta](https://www.youtube.com/watch?v=H9JjmKlumA0)
 - [2.2_5-divinity.iklax](https://www.youtube.com/watch?v=hNvLFJVEjfs)
-- [Mac Quayle  - Mr. Robot 2.3_1-steel-v4lley.webm](https://www.youtube.com/watch?v=u5nJM6vVvJI)
 - [2.3_3-fuckgutinstinct.act](https://www.youtube.com/watch?v=zfdYYPi1428)
 - [2.3_4-midland-city.oga](https://www.youtube.com/watch?v=Go0mM1Hkt1w)
 - [2.3_5-pun1shm3nt.ape](https://www.youtube.com/watch?v=Alul7aWuqaY)
+- [2.4_1-heartworm.3gp](https://www.youtube.com/watch?v=CdCVt2maF8g)
 
 
 ## Release Information

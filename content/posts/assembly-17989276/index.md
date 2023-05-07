@@ -14,7 +14,7 @@ genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ---
 
-![Assembly by Joe Strummer](assembly-17989276.jpg)
+{{< img src="assembly-17989276.jpg" title="Assembly by Joe Strummer" >}}
 
 <!-- section break -->
 

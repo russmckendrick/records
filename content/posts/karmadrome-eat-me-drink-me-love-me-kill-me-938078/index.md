@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-![Karmadrome / Eat Me! Drink Me! Love Me! Kill Me! by Pop Will Eat Itself](karmadrome-eat-me-drink-me-love-me-kill-me-938078.jpg)
+{{< img src="karmadrome-eat-me-drink-me-love-me-kill-me-938078.jpg" title="Karmadrome / Eat Me! Drink Me! Love Me! Kill Me! by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -27,15 +27,15 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Pop Will Eat Itself - Karmadrome
-{{< youtube id="2YwfFFcNC9o" title="Pop Will Eat Itself - Karmadrome" >}}<br>
+### pop will eat itself ~ eat me drink me love me kill me
+{{< youtube id="QVhbm6RPcLM" title="pop will eat itself ~ eat me drink me love me kill me" >}}<br>
 
 ### More Videos
 
 - [Eat Me, Drink Me, Love Me, Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
+- [Pop Will Eat Itself - Karmadrome](https://www.youtube.com/watch?v=2YwfFFcNC9o)
 - [Pop Will Eat Itself - Eat Me Drink Me Love Me Kill Me](https://www.youtube.com/watch?v=ZhWznez7aGY)
 - [Pop Will Eat Itself- Karmadrome](https://www.youtube.com/watch?v=8t2Qf8ZAG2M)
-- [pop will eat itself ~ eat me drink me love me kill me](https://www.youtube.com/watch?v=QVhbm6RPcLM)
 
 
 ## Release Information

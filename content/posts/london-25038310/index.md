@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
 
-![London by Jesus Jones](london-25038310.jpg)
+{{< img src="london-25038310.jpg" title="London by Jesus Jones" >}}
 
 <!-- section break -->
 

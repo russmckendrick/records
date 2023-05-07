@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-![Rule The World by Tears For Fears](rule-the-world-11224816.jpg)
+{{< img src="rule-the-world-11224816.jpg" title="Rule The World by Tears For Fears" >}}
 
 <!-- section break -->
 

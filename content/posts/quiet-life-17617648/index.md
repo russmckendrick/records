@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave"]
 ---
 
-![Quiet Life by Japan](quiet-life-17617648.jpg)
+{{< img src="quiet-life-17617648.jpg" title="Quiet Life by Japan" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["New Wave"]
 
 
 ## Videos
-### All Tomorrow's Parties (2020 - Remaster)
-{{< youtube id="jOipeqngolc" title="All Tomorrow's Parties (2020 - Remaster)" >}}<br>
+### The Other Side of Life (2020 - Remaster)
+{{< youtube id="_LURKl9kp7k" title="The Other Side of Life (2020 - Remaster)" >}}<br>
 
 ### More Videos
 
@@ -46,8 +46,8 @@ styles: ["New Wave"]
 - [Despair (2020 - Remaster)](https://www.youtube.com/watch?v=nK5mCwpBVkQ)
 - [In Vogue (2020 - Remaster)](https://www.youtube.com/watch?v=zLpRqPrZo1c)
 - [Halloween (2020 - Remaster)](https://www.youtube.com/watch?v=8ONjgjgaY4s)
+- [All Tomorrow's Parties (2020 - Remaster)](https://www.youtube.com/watch?v=jOipeqngolc)
 - [Alien (2020 - Remaster)](https://www.youtube.com/watch?v=tdVzXjXsjwU)
-- [The Other Side of Life (2020 - Remaster)](https://www.youtube.com/watch?v=_LURKl9kp7k)
 
 
 ## Release Information

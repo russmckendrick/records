@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ---
 
-![Gold & Grey by Baroness](gold-grey-13744754.jpg)
+{{< img src="gold-grey-13744754.jpg" title="Gold & Grey by Baroness" >}}
 
 <!-- section break -->
 
@@ -45,14 +45,14 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 
 ## Videos
-### BARONESS - Throw Me An Anchor [AUDIO]
-{{< youtube id="KcWFiTJ23Vo" title="BARONESS - Throw Me An Anchor [AUDIO]" >}}<br>
+### BARONESS - Tourniquet [Official Music Video]
+{{< youtube id="RQeAvbTVWiU" title="BARONESS - Tourniquet [Official Music Video]" >}}<br>
 
 ### More Videos
 
+- [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
 - [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
 - [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
-- [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 
 
 ## Release Information

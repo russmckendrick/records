@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 ---
 
-![ChangesTwoBowie by David Bowie](changestwobowie-11854186.jpg)
+{{< img src="changestwobowie-11854186.jpg" title="ChangesTwoBowie by David Bowie" >}}
 
 <!-- section break -->
 

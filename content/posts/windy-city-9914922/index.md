@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![Windy City by Alison Krauss](windy-city-9914922.jpg)
+{{< img src="windy-city-9914922.jpg" title="Windy City by Alison Krauss" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: []
 
 
 ## Videos
-### Alison Krauss - Make The World Go Away (Feat Jamey Johnson)
-{{< youtube id="1w_VU8C0WGA" title="Alison Krauss - Make The World Go Away (Feat Jamey Johnson)" >}}<br>
+### Alison Krauss - Losing You
+{{< youtube id="mLpuId3BNcU" title="Alison Krauss - Losing You" >}}<br>
 
 ### More Videos
 
 - [Alison Krauss - Windy City](https://www.youtube.com/watch?v=LNtKPzHxKG8)
-- [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
+- [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 
 
 ## Release Information

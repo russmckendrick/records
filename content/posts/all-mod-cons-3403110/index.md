@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Mod"]
 ---
 
-![All Mod Cons by The Jam](all-mod-cons-3403110.jpg)
+{{< img src="all-mod-cons-3403110.jpg" title="All Mod Cons by The Jam" >}}
 
 <!-- section break -->
 
@@ -40,18 +40,18 @@ styles: ["New Wave", "Mod"]
 
 
 ## Videos
-### Mr. Clean
-{{< youtube id="j3u1LsoiL18" title="Mr. Clean" >}}<br>
+### It's Too Bad
+{{< youtube id="IrUmEsR6yyY" title="It's Too Bad" >}}<br>
 
 ### More Videos
 
 - [Billy Hunt](https://www.youtube.com/watch?v=4A6GeBiHp1A)
 - [All Mod Cons](https://www.youtube.com/watch?v=UChgYxZ0_so)
 - [To Be Someone (Didn't We Have A Nice Time)](https://www.youtube.com/watch?v=e16_8ZhPDZU)
+- [Mr. Clean](https://www.youtube.com/watch?v=j3u1LsoiL18)
 - [David Watts](https://www.youtube.com/watch?v=5wRGnbqZBeE)
 - [English Rose](https://www.youtube.com/watch?v=Zve5DJn_9R8)
 - [In The Crowd (Full Version)](https://www.youtube.com/watch?v=b6pO2XkK88I)
-- [It's Too Bad](https://www.youtube.com/watch?v=IrUmEsR6yyY)
 - [Fly](https://www.youtube.com/watch?v=H7mOmYa--x0)
 - [The Place I Love](https://www.youtube.com/watch?v=p0zSbY6fqhU)
 - ['A' Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)

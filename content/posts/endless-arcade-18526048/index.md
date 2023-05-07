@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Endless Arcade by Teenage Fanclub](endless-arcade-18526048.jpg)
+{{< img src="endless-arcade-18526048.jpg" title="Endless Arcade by Teenage Fanclub" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Teenage Fanclub - Everything Is Falling Apart (Official Video)
-{{< youtube id="AffiHHlAbWQ" title="Teenage Fanclub - Everything Is Falling Apart (Official Video)" >}}<br>
+### Teenage Fanclub - Home (single edit)
+{{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home (single edit)" >}}<br>
 
 ### More Videos
 
-- [Teenage Fanclub - Home (single edit)](https://www.youtube.com/watch?v=rKaoUahiY1k)
+- [Teenage Fanclub - Everything Is Falling Apart (Official Video)](https://www.youtube.com/watch?v=AffiHHlAbWQ)
 - [Teenage Fanclub - In Our Dreams](https://www.youtube.com/watch?v=DRh4Gm2clwk)
 
 

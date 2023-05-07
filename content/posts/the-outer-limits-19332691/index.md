@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 ---
 
-![The Outer Limits by Voïvod](the-outer-limits-19332691.jpg)
+{{< img src="the-outer-limits-19332691.jpg" title="The Outer Limits by Voïvod" >}}
 
 <!-- section break -->
 

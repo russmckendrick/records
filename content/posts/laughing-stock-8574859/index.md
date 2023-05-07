@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 ---
 
-![Laughing Stock by Talk Talk](laughing-stock-8574859.jpg)
+{{< img src="laughing-stock-8574859.jpg" title="Laughing Stock by Talk Talk" >}}
 
 <!-- section break -->
 
@@ -34,12 +34,12 @@ styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 
 
 ## Videos
-### TALK  TALK  -   LAUGHING STOCK   -  FULL ALBUM -  1991
-{{< youtube id="ARehbaKm4U0" title="TALK  TALK  -   LAUGHING STOCK   -  FULL ALBUM -  1991" >}}<br>
+### LaughingStock (1991) *Vinyl Rip*
+{{< youtube id="YzHf__Lc418" title="LaughingStock (1991) *Vinyl Rip*" >}}<br>
 
 ### More Videos
 
-- [LaughingStock (1991) *Vinyl Rip*](https://www.youtube.com/watch?v=YzHf__Lc418)
+- [TALK  TALK  -   LAUGHING STOCK   -  FULL ALBUM -  1991](https://www.youtube.com/watch?v=ARehbaKm4U0)
 
 
 ## Release Information

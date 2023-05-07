@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Vocal", "Pop Rock"]
 ---
 
-![Scott 2 by Scott Walker](scott-2-2403028.jpg)
+{{< img src="scott-2-2403028.jpg" title="Scott 2 by Scott Walker" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Vocal", "Pop Rock"]
 
 
 ## Videos
-### Plastic Palace People
-{{< youtube id="fqmrCixYLWU" title="Plastic Palace People" >}}<br>
+### Scott Walker (The Walker Brothers) ~ The Windows of The World
+{{< youtube id="oywI42UcxY4" title="Scott Walker (The Walker Brothers) ~ The Windows of The World" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Vocal", "Pop Rock"]
 - [Scott Walker - Jackie](https://www.youtube.com/watch?v=eKtZf62BQzM)
 - [Scott Walker - The Girls from the Street](https://www.youtube.com/watch?v=Jj_C6Rv0HV0)
 - [The Girls And The Dogs](https://www.youtube.com/watch?v=8p70xFGQTOs)
-- [Scott Walker (The Walker Brothers) ~ The Windows of The World](https://www.youtube.com/watch?v=oywI42UcxY4)
+- [Plastic Palace People](https://www.youtube.com/watch?v=fqmrCixYLWU)
 - [Scott Walker - Come Next Spring](https://www.youtube.com/watch?v=LWy7dJU-7RE)
 - [Scott Walker   Next](https://www.youtube.com/watch?v=gR3W6vmgg_I)
 

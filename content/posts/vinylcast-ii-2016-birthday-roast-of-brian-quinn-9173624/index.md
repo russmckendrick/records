@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: []
 ---
 
-![Vinylcast II 2016 Birthday Roast of Brian Quinn by Tell 'Em Steve-Dave](vinylcast-ii-2016-birthday-roast-of-brian-quinn-9173624.jpg)
+{{< img src="vinylcast-ii-2016-birthday-roast-of-brian-quinn-9173624.jpg" title="Vinylcast II 2016 Birthday Roast of Brian Quinn by Tell 'Em Steve-Dave" >}}
 
 <!-- section break -->
 

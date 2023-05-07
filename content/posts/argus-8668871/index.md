@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-![Argus by Wishbone Ash](argus-8668871.jpg)
+{{< img src="argus-8668871.jpg" title="Argus by Wishbone Ash" >}}
 
 <!-- section break -->
 
@@ -35,19 +35,19 @@ styles: ["Hard Rock", "Classic Rock"]
 
 
 ## Videos
-### Wishbone Ash - Leaf and Stream
-{{< youtube id="ZB6fCuxGvAw" title="Wishbone Ash - Leaf and Stream" >}}<br>
+### Wishbone Ash - The King Will Come
+{{< youtube id="Tna0Mmu1XlI" title="Wishbone Ash - The King Will Come" >}}<br>
 
 ### More Videos
 
 - [Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]](https://www.youtube.com/watch?v=iIbHRX8hO64)
 - [Wishbone Ash ► Phoenix  Live from Memphis 1972 [HQ Audio]](https://www.youtube.com/watch?v=YXV7vdpqwFA)
-- [Wishbone Ash - The King Will Come](https://www.youtube.com/watch?v=Tna0Mmu1XlI)
 - [Wishbone Ash - Sometime World](https://www.youtube.com/watch?v=kvLVSPPLZZY)
 - [Wishbone Ash - Blowin' Free](https://www.youtube.com/watch?v=mUolWNHxRiM)
 - [Wishbone Ash - Throw Down The Sword](https://www.youtube.com/watch?v=LByiVlc6czA)
 - [Wishbone Ash - Time Was](https://www.youtube.com/watch?v=SjIvjmJQJYE)
 - [Wishbone Ash - Warrior](https://www.youtube.com/watch?v=U5X_Dd_6Czk)
+- [Wishbone Ash - Leaf and Stream](https://www.youtube.com/watch?v=ZB6fCuxGvAw)
 
 
 ## Release Information

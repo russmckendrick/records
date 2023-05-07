@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 ---
 
-![Hours... by David Bowie](hours-7102156.jpg)
+{{< img src="hours-7102156.jpg" title="Hours... by David Bowie" >}}
 
 <!-- section break -->
 

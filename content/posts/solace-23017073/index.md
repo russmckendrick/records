@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
 
-![Solace by Held By Trees](solace-23017073.jpg)
+{{< img src="solace-23017073.jpg" title="Solace by Held By Trees" >}}
 
 <!-- section break -->
 

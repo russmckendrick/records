@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
-![Lazer Guided Melodies by Spiritualized](lazer-guided-melodies-18366628.jpg)
+{{< img src="lazer-guided-melodies-18366628.jpg" title="Lazer Guided Melodies by Spiritualized" >}}
 
 <!-- section break -->
 

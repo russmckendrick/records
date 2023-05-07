@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Punk", "Synth-pop"]
 ---
 
-![Tubeway Army by Tubeway Army](tubeway-army-26043385.jpg)
+{{< img src="tubeway-army-26043385.jpg" title="Tubeway Army by Tubeway Army" >}}
 
 <!-- section break -->
 

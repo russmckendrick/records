@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-![Legacy EP by Mansun](legacy-ep-13489607.jpg)
+{{< img src="legacy-ep-13489607.jpg" title="Legacy EP by Mansun" >}}
 
 <!-- section break -->
 

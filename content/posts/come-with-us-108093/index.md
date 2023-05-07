@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "House", "Big Beat"]
 ---
 
-![Come With Us by The Chemical Brothers](come-with-us-108093.jpg)
+{{< img src="come-with-us-108093.jpg" title="Come With Us by The Chemical Brothers" >}}
 
 <!-- section break -->
 

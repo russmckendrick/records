@@ -14,7 +14,7 @@ genres: ["Rock", "Classical"]
 styles: []
 ---
 
-![Tubular Bells 50th Anniversary Celebration by The Royal Philharmonic Orchestra](tubular-bells-50th-anniversary-celebration-25057090.jpg)
+{{< img src="tubular-bells-50th-anniversary-celebration-25057090.jpg" title="Tubular Bells 50th Anniversary Celebration by The Royal Philharmonic Orchestra" >}}
 
 <!-- section break -->
 

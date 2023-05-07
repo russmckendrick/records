@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 ---
 
-![Radio Gnome Invisible Trilogy by Gong](radio-gnome-invisible-trilogy-7910537.jpg)
+{{< img src="radio-gnome-invisible-trilogy-7910537.jpg" title="Radio Gnome Invisible Trilogy by Gong" >}}
 
 <!-- section break -->
 
@@ -63,13 +63,13 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 
 
 ## Videos
-### Gong - Flying Teapot
-{{< youtube id="k2Yc9mHCwRI" title="Gong - Flying Teapot" >}}<br>
+### Gong_ Angel's Egg (1973) full album
+{{< youtube id="u0AhjPHGbLU" title="Gong_ Angel's Egg (1973) full album" >}}<br>
 
 ### More Videos
 
-- [Gong_ Angel's Egg (1973) full album](https://www.youtube.com/watch?v=u0AhjPHGbLU)
 - [The Flying Teapot [Full Album]  1973](https://www.youtube.com/watch?v=8GWkSyHGL6U)
+- [Gong - Flying Teapot](https://www.youtube.com/watch?v=k2Yc9mHCwRI)
 
 
 ## Release Information

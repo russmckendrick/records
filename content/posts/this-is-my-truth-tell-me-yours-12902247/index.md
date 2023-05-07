@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![This Is My Truth Tell Me Yours by Manic Street Preachers](this-is-my-truth-tell-me-yours-12902247.jpg)
+{{< img src="this-is-my-truth-tell-me-yours-12902247.jpg" title="This Is My Truth Tell Me Yours by Manic Street Preachers" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Manic Street Preachers - If You Tolerate This Your Children Will Be Next (Live)
-{{< youtube id="ubhMc_odHcU" title="Manic Street Preachers - If You Tolerate This Your Children Will Be Next (Live)" >}}<br>
+### Manic Street Preachers - Tsunami
+{{< youtube id="cuGpE73NwYw" title="Manic Street Preachers - Tsunami" >}}<br>
 
 ### More Videos
 
@@ -51,10 +51,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Manic Street Preachers - If You Tolerate This Your Children Will Be Next](https://www.youtube.com/watch?v=zw-5Syqmg4g)
 - [The Everlasting](https://www.youtube.com/watch?v=x6Mtc1NvYOM)
 - [If You Tolerate This Then Your Children Will Be Next (Live from Cardiff Millennium Stad...](https://www.youtube.com/watch?v=cHNzQlufkQE)
-- [Manic Street Preachers - Tsunami](https://www.youtube.com/watch?v=cuGpE73NwYw)
 - [Manic Street Preachers - Ready For Drowning](https://www.youtube.com/watch?v=uU0GMTOYe0w)
 - [Manic Street Preachers - Black Dog On My Shoulder](https://www.youtube.com/watch?v=6m6PP6l2Duw)
 - [Ready For Drowning](https://www.youtube.com/watch?v=KDJvmgc-lPk)
+- [Manic Street Preachers - If You Tolerate This Your Children Will Be Next (Live)](https://www.youtube.com/watch?v=ubhMc_odHcU)
 
 
 ## Release Information

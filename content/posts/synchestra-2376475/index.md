@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
 
-![Synchestra by The Devin Townsend Band](synchestra-2376475.jpg)
+{{< img src="synchestra-2376475.jpg" title="Synchestra by The Devin Townsend Band" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 
 ## Videos
-### The Devin Townsend Band ‎– Let It Roll
-{{< youtube id="FNGSwh80bZ4" title="The Devin Townsend Band ‎– Let It Roll" >}}<br>
+### The Devin Townsend Band – Vampira
+{{< youtube id="IJ3iWDtYgAE" title="The Devin Townsend Band – Vampira" >}}<br>
 
 ### More Videos
 
 - [The Devin Townsend Band - Vampira Inside Out Music](https://www.youtube.com/watch?v=MMLXoobDKWs)
-- [The Devin Townsend Band – Vampira](https://www.youtube.com/watch?v=IJ3iWDtYgAE)
+- [The Devin Townsend Band ‎– Let It Roll](https://www.youtube.com/watch?v=FNGSwh80bZ4)
 
 
 ## Release Information

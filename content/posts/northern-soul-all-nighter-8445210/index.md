@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-![Northern Soul All Nighter by Various](northern-soul-all-nighter-8445210.jpg)
+{{< img src="northern-soul-all-nighter-8445210.jpg" title="Northern Soul All Nighter by Various" >}}
 
 <!-- section break -->
 
@@ -64,13 +64,13 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Dee Dee Sharp - Comin' Home Baby
-{{< youtube id="j2FlVZuuN_o" title="Dee Dee Sharp - Comin' Home Baby" >}}<br>
+### Al Wilson - The snake
+{{< youtube id="ULx9k2QkL94" title="Al Wilson - The snake" >}}<br>
 
 ### More Videos
 
 - [Major Lance -  Delilah  (1963)](https://www.youtube.com/watch?v=yBCnH7gY7sQ)
-- [Al Wilson - The snake](https://www.youtube.com/watch?v=ULx9k2QkL94)
+- [Dee Dee Sharp - Comin' Home Baby](https://www.youtube.com/watch?v=j2FlVZuuN_o)
 - [Sam Cooke. Sugar dumpling](https://www.youtube.com/watch?v=tIQL17pjAXo)
 - [The Tams - Disillusioned](https://www.youtube.com/watch?v=Q_5-inO-IBY)
 

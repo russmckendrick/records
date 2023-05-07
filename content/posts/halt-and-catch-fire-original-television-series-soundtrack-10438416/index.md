@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Ambient", "Berlin-School", "Score"]
 ---
 
-![Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger](halt-and-catch-fire-original-television-series-soundtrack-10438416.jpg)
+{{< img src="halt-and-catch-fire-original-television-series-soundtrack-10438416.jpg" title="Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger" >}}
 
 <!-- section break -->
 

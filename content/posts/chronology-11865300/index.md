@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 ---
 
-![Chronology by Jean-Michel Jarre](chronology-11865300.jpg)
+{{< img src="chronology-11865300.jpg" title="Chronology by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -36,15 +36,15 @@ styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 
 
 ## Videos
-### Chronology, Pt. 3 (Remastered)
-{{< youtube id="cP9RDCrU6c4" title="Chronology, Pt. 3 (Remastered)" >}}<br>
+### Chronology, Pt. 5 (Remastered)
+{{< youtube id="9QiPuMR9ZCQ" title="Chronology, Pt. 5 (Remastered)" >}}<br>
 
 ### More Videos
 
 - [Chronology, Pt. 1 (Remastered)](https://www.youtube.com/watch?v=C-G8FU6rvv0)
 - [Chronology, Pt. 2 (Remastered)](https://www.youtube.com/watch?v=yqYkZ1etjnY)
+- [Chronology, Pt. 3 (Remastered)](https://www.youtube.com/watch?v=cP9RDCrU6c4)
 - [Jean-Michel Jarre - Chronology, Pt. 4](https://www.youtube.com/watch?v=Eqilin4Cv08)
-- [Chronology, Pt. 5 (Remastered)](https://www.youtube.com/watch?v=9QiPuMR9ZCQ)
 - [Chronology, Pt. 6 (Remastered)](https://www.youtube.com/watch?v=7KaJbAXG6A8)
 - [Chronology, Pt. 7 (Remastered)](https://www.youtube.com/watch?v=epGfMAW6GjQ)
 - [Chronology, Pt. 8 (Remastered)](https://www.youtube.com/watch?v=V9EDK0liz8A)

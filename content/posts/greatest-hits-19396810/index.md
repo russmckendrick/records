@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Greatest Hits by Thin Lizzy](greatest-hits-19396810.jpg)
+{{< img src="greatest-hits-19396810.jpg" title="Greatest Hits by Thin Lizzy" >}}
 
 <!-- section break -->
 

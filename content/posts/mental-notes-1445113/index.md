@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Mental Notes by Split Enz](mental-notes-1445113.jpg)
+{{< img src="mental-notes-1445113.jpg" title="Mental Notes by Split Enz" >}}
 
 <!-- section break -->
 

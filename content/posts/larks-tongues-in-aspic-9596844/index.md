@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Larks' Tongues In Aspic by King Crimson](larks-tongues-in-aspic-9596844.jpg)
+{{< img src="larks-tongues-in-aspic-9596844.jpg" title="Larks' Tongues In Aspic by King Crimson" >}}
 
 <!-- section break -->
 
@@ -34,12 +34,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### King Crimson - Larks' Tongues In Aspic, Part Two
-{{< youtube id="jX0caf1HvNs" title="King Crimson - Larks' Tongues In Aspic, Part Two" >}}<br>
+### King Crimson - The Talking Drum
+{{< youtube id="OX6WB0vlDUg" title="King Crimson - The Talking Drum" >}}<br>
 
 ### More Videos
 
-- [King Crimson - The Talking Drum](https://www.youtube.com/watch?v=OX6WB0vlDUg)
+- [King Crimson - Larks' Tongues In Aspic, Part Two](https://www.youtube.com/watch?v=jX0caf1HvNs)
 
 
 ## Release Information

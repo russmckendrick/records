@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Groove Metal"]
 ---
 
-![La Sexorcisto: Devil Music Vol. 1 by White Zombie](la-sexorcisto-devil-music-vol-1-10922593.jpg)
+{{< img src="la-sexorcisto-devil-music-vol-1-10922593.jpg" title="La Sexorcisto: Devil Music Vol. 1 by White Zombie" >}}
 
 <!-- section break -->
 
@@ -42,15 +42,15 @@ styles: ["Heavy Metal", "Groove Metal"]
 
 
 ## Videos
-### White Zombie – La Sexorcisto: Devil Music Vol. 1 (Promo Tape)
-{{< youtube id="MdVB5fXEFY0" title="White Zombie – La Sexorcisto: Devil Music Vol. 1 (Promo Tape)" >}}<br>
+### White Zombie - Thunder Kiss '65 (Official Video)
+{{< youtube id="yPNFVj-pISU" title="White Zombie - Thunder Kiss '65 (Official Video)" >}}<br>
 
 ### More Videos
 
 - [White Zombie - Welcome To Planet M.F.](https://www.youtube.com/watch?v=H8gHMU-pDbU)
 - [Beavis and Butt-Head - Do 'White Zombie - Thunder Kiss '65'](https://www.youtube.com/watch?v=NucbEh8vK7I)
+- [White Zombie – La Sexorcisto: Devil Music Vol. 1 (Promo Tape)](https://www.youtube.com/watch?v=MdVB5fXEFY0)
 - [Knuckle Duster (Radio 1-A)](https://www.youtube.com/watch?v=TdKMLrGpcgA)
-- [White Zombie - Thunder Kiss '65 (Official Video)](https://www.youtube.com/watch?v=yPNFVj-pISU)
 - [White Zombie ft. Iggy Pop - Black Sunshine (Official Video)](https://www.youtube.com/watch?v=sqPClltS5k8)
 - [Soul-Crusher](https://www.youtube.com/watch?v=8izPzFRDYPQ)
 - [Cosmic Monsters Inc.](https://www.youtube.com/watch?v=lgNf3Y3NGXw)

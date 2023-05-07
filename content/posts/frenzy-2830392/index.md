@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Frenzy by Split Enz](frenzy-2830392.jpg)
+{{< img src="frenzy-2830392.jpg" title="Frenzy by Split Enz" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - Frenzy (1979)
-{{< youtube id="caAZuKxUeW0" title="Split Enz - Frenzy (1979)" >}}<br>
+### Split Enz - Give It A Whirl
+{{< youtube id="WDJ3th_qhaI" title="Split Enz - Give It A Whirl" >}}<br>
 
 ### More Videos
 
 - [Split Enz-Frenzy (Full Album) 1979 Original Version](https://www.youtube.com/watch?v=dIjapHRUESw)
-- [Split Enz - Give It A Whirl](https://www.youtube.com/watch?v=WDJ3th_qhaI)
+- [Split Enz - Frenzy (1979)](https://www.youtube.com/watch?v=caAZuKxUeW0)
 
 
 ## Release Information

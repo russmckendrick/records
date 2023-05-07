@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
-![Loss by Mull Historical Society](loss-26212055.jpg)
+{{< img src="loss-26212055.jpg" title="Loss by Mull Historical Society" >}}
 
 <!-- section break -->
 

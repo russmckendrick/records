@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 ---
 
-![Do It Yourself by Ian Dury And The Blockheads](do-it-yourself-6288194.jpg)
+{{< img src="do-it-yourself-6288194.jpg" title="Do It Yourself by Ian Dury And The Blockheads" >}}
 
 <!-- section break -->
 
@@ -35,11 +35,12 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 
 
 ## Videos
-### Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)
-{{< youtube id="TtbzKDYotww" title="Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)" >}}<br>
+### There Ain't Half Been Some Clever Bastards
+{{< youtube id="Q63UoIPZFe0" title="There Ain't Half Been Some Clever Bastards" >}}<br>
 
 ### More Videos
 
+- [Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)](https://www.youtube.com/watch?v=TtbzKDYotww)
 - [Ian Dury & The Blockheads:-'Quiet'](https://www.youtube.com/watch?v=vY0Xw7f92dg)
 - [Inbetweenies](https://www.youtube.com/watch?v=B-WVf2pwBMY)
 - [Quiet](https://www.youtube.com/watch?v=dlh_II_EJO0)
@@ -52,7 +53,6 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 - [Dance of the Screamers](https://www.youtube.com/watch?v=vMmvbGMVaQA)
 - [Lullaby for Franci/es](https://www.youtube.com/watch?v=t-wNUhAzRZ0)
 - [Hit Me with Your Rhythm Stick](https://www.youtube.com/watch?v=RUnQnIrJ3XE)
-- [There Ain't Half Been Some Clever Bastards](https://www.youtube.com/watch?v=Q63UoIPZFe0)
 
 
 ## Release Information

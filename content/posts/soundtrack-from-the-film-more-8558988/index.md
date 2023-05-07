@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![Soundtrack From The Film More by Pink Floyd](soundtrack-from-the-film-more-8558988.jpg)
+{{< img src="soundtrack-from-the-film-more-8558988.jpg" title="Soundtrack From The Film More by Pink Floyd" >}}
 
 <!-- section break -->
 

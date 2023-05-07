@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
 
-![The Raw & The Cooked by Fine Young Cannibals](the-raw-the-cooked-251670.jpg)
+{{< img src="the-raw-the-cooked-251670.jpg" title="The Raw & The Cooked by Fine Young Cannibals" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### As Hard As It Is (Remastered)
-{{< youtube id="RarYl823bPo" title="As Hard As It Is (Remastered)" >}}<br>
+### Fine Young Cannibals - Don't Look Back
+{{< youtube id="kdTKpC53no8" title="Fine Young Cannibals - Don't Look Back" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,6 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [Fine Young Cannibals - She Drives Me Crazy  (Official Video)](https://www.youtube.com/watch?v=UtvmTu4zAMg)
 - [Fine Young Cannibals - Good Thing (Official Video)](https://www.youtube.com/watch?v=We_9MthGzwk)
 - [Fine Young Cannibals - I'm Not Satisfied](https://www.youtube.com/watch?v=Dqvy1Kpk6Pc)
-- [Fine Young Cannibals - Don't Look Back](https://www.youtube.com/watch?v=kdTKpC53no8)
 - [Fine Young Cannibals - I'm Not the Man I Used to Be](https://www.youtube.com/watch?v=TrBYsPJ0rkA)
 - [She Drives Me Crazy (Remastered)](https://www.youtube.com/watch?v=uFLI968mYjE)
 - [Good Thing (Remastered)](https://www.youtube.com/watch?v=ytTrfCLniro)
@@ -57,6 +56,7 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [Fine Young Cannibals - Don't Look Back](https://www.youtube.com/watch?v=t0VauRGl0f0)
 - [It's Ok (It's Alright)](https://www.youtube.com/watch?v=MvmBjzI6KCc)
 - [Don't Let It Get You Down (Remastered)](https://www.youtube.com/watch?v=sZgT4I2ALb8)
+- [As Hard As It Is (Remastered)](https://www.youtube.com/watch?v=RarYl823bPo)
 - [Ever Fallen in Love? (Remastered)](https://www.youtube.com/watch?v=r2l7dvXfjHs)
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)

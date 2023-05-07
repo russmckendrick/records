@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: []
 ---
 
-![The Very Very Best Of Crowded House by Crowded House](the-very-very-best-of-crowded-house-13869670.jpg)
+{{< img src="the-very-very-best-of-crowded-house-13869670.jpg" title="The Very Very Best Of Crowded House by Crowded House" >}}
 
 <!-- section break -->
 

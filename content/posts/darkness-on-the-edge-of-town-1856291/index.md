@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-![Darkness On The Edge Of Town by Bruce Springsteen](darkness-on-the-edge-of-town-1856291.jpg)
+{{< img src="darkness-on-the-edge-of-town-1856291.jpg" title="Darkness On The Edge Of Town by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Folk Rock", "Pop Rock"]
 
 
 ## Videos
-### Something in the Night
-{{< youtube id="5q_JZGV05Rk" title="Something in the Night" >}}<br>
+### Adam Raised A Cain | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia LP
+{{< youtube id="YTHKOHEzeMo" title="Adam Raised A Cain | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia LP" >}}<br>
 
 ### More Videos
 
 - [Badlands](https://www.youtube.com/watch?v=SDlSCeQXbPo)
-- [Adam Raised A Cain | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia LP](https://www.youtube.com/watch?v=YTHKOHEzeMo)
 - [Adam Raised a Cain](https://www.youtube.com/watch?v=PRRd78fqmIg)
 - [The Promised Land | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia  LP](https://www.youtube.com/watch?v=AwNGvxRzQ24)
+- [Something in the Night](https://www.youtube.com/watch?v=5q_JZGV05Rk)
 - [Candy's Room](https://www.youtube.com/watch?v=CyPfb0vOVfo)
 - [Racing in the Street](https://www.youtube.com/watch?v=cm9UuM3UXdc)
 - [The Promised Land](https://www.youtube.com/watch?v=azQY2YBUMQc)

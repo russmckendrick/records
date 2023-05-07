@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![The Greatest Songs Ever Written... By Us by NOFX](the-greatest-songs-ever-written-by-us-12707979.jpg)
+{{< img src="the-greatest-songs-ever-written-by-us-12707979.jpg" title="The Greatest Songs Ever Written... By Us by NOFX" >}}
 
 <!-- section break -->
 
@@ -55,15 +55,15 @@ styles: ["Punk"]
 
 
 ## Videos
-### NOFX - Shut Up Already
-{{< youtube id="5mzX98-kL70" title="NOFX - Shut Up Already" >}}<br>
+### NOFX - The Separation of Church & Skate
+{{< youtube id="lRf0LAx0yCE" title="NOFX - The Separation of Church & Skate" >}}<br>
 
 ### More Videos
 
 - [NOFX - Don't Call Me White](https://www.youtube.com/watch?v=4Ik09xFT6mk)
-- [NOFX - The Separation of Church & Skate](https://www.youtube.com/watch?v=lRf0LAx0yCE)
 - [NOFX - Murder the Government](https://www.youtube.com/watch?v=WD3lgI9QIV8)
 - [NOFX - The Idiots Are Taking Over](https://www.youtube.com/watch?v=2sNWDfryyMk)
+- [NOFX - Shut Up Already](https://www.youtube.com/watch?v=5mzX98-kL70)
 - [NOFX - Soul Doubt](https://www.youtube.com/watch?v=4BREp075d58)
 - [NOFX - The Longest Line](https://www.youtube.com/watch?v=th2XSsshwOs)
 - [NOFX - 180 Degrees](https://www.youtube.com/watch?v=eEcVtQCN-EY)

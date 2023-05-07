@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Funeral by Arcade Fire](funeral-2093841.jpg)
+{{< img src="funeral-2093841.jpg" title="Funeral by Arcade Fire" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Neighborhood #3 (Power Out) (Official Video)
-{{< youtube id="0ozdCLrTrtA" title="Arcade Fire - Neighborhood #3 (Power Out) (Official Video)" >}}<br>
+### Arcade Fire - Une Annee Sans Lumiere (Official Audio)
+{{< youtube id="pPKUDprZIvs" title="Arcade Fire - Une Annee Sans Lumiere (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)](https://www.youtube.com/watch?v=TwisvB3PVpU)
 - [Arcade Fire - Neighborhood #2 (Laika) (Official Video)](https://www.youtube.com/watch?v=siFsdInZqC0)
-- [Arcade Fire - Une Annee Sans Lumiere (Official Audio)](https://www.youtube.com/watch?v=pPKUDprZIvs)
+- [Arcade Fire - Neighborhood #3 (Power Out) (Official Video)](https://www.youtube.com/watch?v=0ozdCLrTrtA)
 - [Arcade Fire - Neighborhood #4 (7 Kettles) (Official Audio)](https://www.youtube.com/watch?v=VKZ2rhcwaXE)
 - [Arcade Fire - Crown of Love (Official Audio)](https://www.youtube.com/watch?v=p9XX193hgH8)
 - [Arcade Fire - Wake Up (Official Audio)](https://www.youtube.com/watch?v=sJRPPUr1yic)

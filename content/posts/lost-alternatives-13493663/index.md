@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Lost Alternatives by Steve Lamacq](lost-alternatives-13493663.jpg)
+{{< img src="lost-alternatives-13493663.jpg" title="Lost Alternatives by Steve Lamacq" >}}
 
 <!-- section break -->
 

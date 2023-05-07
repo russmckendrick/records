@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Jazz-Funk"]
 ---
 
-![Live At Fillmore West by King Curtis](live-at-fillmore-west-5959161.jpg)
+{{< img src="live-at-fillmore-west-5959161.jpg" title="Live At Fillmore West by King Curtis" >}}
 
 <!-- section break -->
 
@@ -37,19 +37,19 @@ styles: ["Jazz-Funk"]
 
 
 ## Videos
-### Soul Serenade (Live at Fillmore West, 3/7/1971)
-{{< youtube id="oQlq6BqIP-o" title="Soul Serenade (Live at Fillmore West, 3/7/1971)" >}}<br>
+### Whole Lotta Love (Live at Fillmore West, 3/6/1971)
+{{< youtube id="z8RQZc8ir8E" title="Whole Lotta Love (Live at Fillmore West, 3/6/1971)" >}}<br>
 
 ### More Videos
 
 - [Memphis Soul Stew (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=QISOupYqTi4)
 - [A Whiter Shade of Pale (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=DOrAd-nyRsM)
-- [Whole Lotta Love (Live at Fillmore West, 3/6/1971)](https://www.youtube.com/watch?v=z8RQZc8ir8E)
 - [I Stand Accused (Live at Fillmore West, 3/6/1971)](https://www.youtube.com/watch?v=Fj3MRelfzDc)
 - [Them Changes (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=29liKY8lXI8)
 - [Ode to Billy Joe (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=SfnwzrA-1xc)
 - [Mr. Bojangles (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=QobLjxsp5hE)
 - [Signed, Sealed, Delivered (I'm Yours) (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=4kbU4KldDAA)
+- [Soul Serenade (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=oQlq6BqIP-o)
 
 
 ## Release Information

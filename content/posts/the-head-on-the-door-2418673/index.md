@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 ---
 
-![The Head On The Door by The Cure](the-head-on-the-door-2418673.jpg)
+{{< img src="the-head-on-the-door-2418673.jpg" title="The Head On The Door by The Cure" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
 
-![Mr Love Pants by Ian Dury And The Blockheads](mr-love-pants-7235873.jpg)
+{{< img src="mr-love-pants-7235873.jpg" title="Mr Love Pants by Ian Dury And The Blockheads" >}}
 
 <!-- section break -->
 
@@ -35,16 +35,16 @@ styles: ["Pop Rock", "Funk"]
 
 
 ## Videos
-### Ian Dury & The Blockheads- Honeysuckle Highway (Demo)
-{{< youtube id="Mn78lswQ3Hw" title="Ian Dury & The Blockheads- Honeysuckle Highway (Demo)" >}}<br>
+### Geraldine
+{{< youtube id="adzFl4xqR2k" title="Geraldine" >}}<br>
 
 ### More Videos
 
+- [Ian Dury & The Blockheads- Honeysuckle Highway (Demo)](https://www.youtube.com/watch?v=Mn78lswQ3Hw)
 - [Mash It Up Harry](https://www.youtube.com/watch?v=MNV1SAc7z2M)
 - [You're My Baby](https://www.youtube.com/watch?v=EmlL0LmiNPM)
 - [The Passing Show](https://www.youtube.com/watch?v=8-HL4zg1h6c)
 - [Ian Dury And The Blockheads - Bed O' Roses No. 9](https://www.youtube.com/watch?v=bABopKlvXN8)
-- [Geraldine](https://www.youtube.com/watch?v=adzFl4xqR2k)
 - [Heavy Living](https://www.youtube.com/watch?v=3wdt9eExM4M)
 - [Ian Dury & The Blockheads - Jack Shit George](https://www.youtube.com/watch?v=BVhbpOYccjg)
 

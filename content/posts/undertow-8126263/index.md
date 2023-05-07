@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Undertow by Tool](undertow-8126263.jpg)
+{{< img src="undertow-8126263.jpg" title="Undertow by Tool" >}}
 
 <!-- section break -->
 
@@ -35,17 +35,17 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 ## Videos
-### TOOL - Prison Sex (Audio)
-{{< youtube id="HQqjHechnj4" title="TOOL - Prison Sex (Audio)" >}}<br>
+### TOOL - Crawl Away (Audio)
+{{< youtube id="WuUM2mz8Q_s" title="TOOL - Crawl Away (Audio)" >}}<br>
 
 ### More Videos
 
 - [TOOL - Intolerance (Audio)](https://www.youtube.com/watch?v=BS0KZaaPNsk)
 - [TOOL - Sober](https://www.youtube.com/watch?v=nspxAG12Cpc)
+- [TOOL - Prison Sex (Audio)](https://www.youtube.com/watch?v=HQqjHechnj4)
 - [TOOL - Prison Sex](https://www.youtube.com/watch?v=cUPV4OfNlt0)
 - [TOOL - Sober (Audio)](https://www.youtube.com/watch?v=ouVedNg-6WQ)
 - [TOOL - Bottom (Audio)](https://www.youtube.com/watch?v=O7VmBC19P5M)
-- [TOOL - Crawl Away (Audio)](https://www.youtube.com/watch?v=WuUM2mz8Q_s)
 - [TOOL - Swamp Song (Audio)](https://www.youtube.com/watch?v=VnP2-Pc-plM)
 - [TOOL - Undertow (Audio)](https://www.youtube.com/watch?v=TBIMRWGfFs0)
 - [TOOL - 4° (Audio)](https://www.youtube.com/watch?v=8NGemR1cqZQ)

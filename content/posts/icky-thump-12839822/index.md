@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 ---
 
-![Icky Thump by The White Stripes](icky-thump-12839822.jpg)
+{{< img src="icky-thump-12839822.jpg" title="Icky Thump by The White Stripes" >}}
 
 <!-- section break -->
 
@@ -45,13 +45,13 @@ styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 
 
 ## Videos
-### The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)
-{{< youtube id="8xsF9fHdAfo" title="The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)" >}}<br>
+### The White Stripes - Icky Thump (Official Music Video)
+{{< youtube id="1OjTspCqvk8" title="The White Stripes - Icky Thump (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [The White Stripes - Icky Thump (Official Music Video)](https://www.youtube.com/watch?v=1OjTspCqvk8)
 - [The White Stripes - Conquest (Official Music Video)](https://www.youtube.com/watch?v=0L7FuA8Rry8)
+- [The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)](https://www.youtube.com/watch?v=8xsF9fHdAfo)
 
 
 ## Release Information

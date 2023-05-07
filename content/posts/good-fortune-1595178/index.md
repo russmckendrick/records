@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Experimental"]
 ---
 
-![Good Fortune by Airborn Audio](good-fortune-1595178.jpg)
+{{< img src="good-fortune-1595178.jpg" title="Good Fortune by Airborn Audio" >}}
 
 <!-- section break -->
 
@@ -43,11 +43,12 @@ styles: ["Abstract", "Experimental"]
 
 
 ## Videos
-### Airborn Audio(M. Sayyid & High Priest) - This Year
-{{< youtube id="g6CBFUJaMyY" title="Airborn Audio(M. Sayyid & High Priest) - This Year" >}}<br>
+### Trust Me
+{{< youtube id="5EDIcZehxFI" title="Trust Me" >}}<br>
 
 ### More Videos
 
+- [Airborn Audio(M. Sayyid & High Priest) - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
 - [Airborn Audio(M.Sayyid & High Priest) - Paradise](https://www.youtube.com/watch?v=At0t0VPHwNY)
 - [Airborn Audio - Monday Through Sunday](https://www.youtube.com/watch?v=2YJIw-9XIxI)
 - [Airborn Audio -  Mon. thru sun.](https://www.youtube.com/watch?v=B1pZMq5_0nI)
@@ -64,7 +65,6 @@ styles: ["Abstract", "Experimental"]
 - [Now I Lay Me Down](https://www.youtube.com/watch?v=e-kSPNzLMtc)
 - [House of Mirrors](https://www.youtube.com/watch?v=QbT-wJBvu_0)
 - [Close Your Eyes](https://www.youtube.com/watch?v=6bs1B9tklHo)
-- [Trust Me](https://www.youtube.com/watch?v=5EDIcZehxFI)
 - [Airborn Audio | House Of Mirrors (Edit) 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
 - [Airborn Audio - This Year (Unofficial Music Video)](https://www.youtube.com/watch?v=wkUzklrqM4o)
 

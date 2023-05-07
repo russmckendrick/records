@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun by The Smashing Pumpkins](shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun-12807013.jpg)
+{{< img src="shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun-12807013.jpg" title="Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

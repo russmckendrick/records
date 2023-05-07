@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-![Layla And Other Assorted Love Songs by Derek & The Dominos](layla-and-other-assorted-love-songs-16252835.jpg)
+{{< img src="layla-and-other-assorted-love-songs-16252835.jpg" title="Layla And Other Assorted Love Songs by Derek & The Dominos" >}}
 
 <!-- section break -->
 
@@ -59,8 +59,8 @@ styles: []
 
 
 ## Videos
-### Derek and the Dominos - Little Wing (Studio)
-{{< youtube id="jLPHz8KT9No" title="Derek and the Dominos - Little Wing (Studio)" >}}<br>
+### Layla (40th Anniversary Version / 2010 Remastered)
+{{< youtube id="XVGTGW0cCw8" title="Layla (40th Anniversary Version / 2010 Remastered)" >}}<br>
 
 ### More Videos
 
@@ -74,8 +74,8 @@ styles: []
 - [Derek and the Dominos - Tell the Truth](https://www.youtube.com/watch?v=ml5K4BgrcaQ)
 - [Derek and the Dominos - Why Does Love Got to Be So Sad?](https://www.youtube.com/watch?v=Qe9MAVgkpjc)
 - [Derek and the Dominos - Have You Ever Loved a Woman](https://www.youtube.com/watch?v=a73Lxi-o388)
+- [Derek and the Dominos - Little Wing (Studio)](https://www.youtube.com/watch?v=jLPHz8KT9No)
 - [Derek and the Dominos - It's Too Late](https://www.youtube.com/watch?v=t1pYDgR6zhE)
-- [Layla (40th Anniversary Version / 2010 Remastered)](https://www.youtube.com/watch?v=XVGTGW0cCw8)
 - [Derek and the Dominos - Thorn Tree in the Garden](https://www.youtube.com/watch?v=DrofkmicrRM)
 
 

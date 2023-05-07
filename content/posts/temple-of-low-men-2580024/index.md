@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 ---
 
-![Temple Of Low Men by Crowded House](temple-of-low-men-2580024.jpg)
+{{< img src="temple-of-low-men-2580024.jpg" title="Temple Of Low Men by Crowded House" >}}
 
 <!-- section break -->
 
@@ -38,19 +38,19 @@ styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 
 
 ## Videos
-### Crowded House - Into Temptation
-{{< youtube id="j8U1gC2JilQ" title="Crowded House - Into Temptation" >}}<br>
+### Sister Madly
+{{< youtube id="UlAaFbrPHhU" title="Sister Madly" >}}<br>
 
 ### More Videos
 
 - [Crowded House - I Feel Possessed](https://www.youtube.com/watch?v=FhhB4ztWFbQ)
 - [Crowded House - Better Be Home Soon (Official Video)](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
 - [Kill Eye](https://www.youtube.com/watch?v=k-SQKxoqk7M)
+- [Crowded House - Into Temptation](https://www.youtube.com/watch?v=j8U1gC2JilQ)
 - [Mansion In The Slums](https://www.youtube.com/watch?v=9A4oxGbdLIc)
 - [Crowded House - When You Come](https://www.youtube.com/watch?v=LUP3XOa3yRs)
 - [Never Be The Same](https://www.youtube.com/watch?v=5ppQCjNF6zo)
 - [Love This Life](https://www.youtube.com/watch?v=v1fzJD2e1Gc)
-- [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 - [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
 
 

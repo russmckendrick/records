@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![All The Right Noises by Thunder](all-the-right-noises-17812720.jpg)
+{{< img src="all-the-right-noises-17812720.jpg" title="All The Right Noises by Thunder" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Yeah by The Wannadies](yeah-13511395.jpg)
+{{< img src="yeah-13511395.jpg" title="Yeah by The Wannadies" >}}
 
 <!-- section break -->
 

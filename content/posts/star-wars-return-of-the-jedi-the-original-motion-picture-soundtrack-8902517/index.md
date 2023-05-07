@@ -14,7 +14,7 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams](star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517.jpg)
+{{< img src="star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517.jpg" title="Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams" >}}
 
 <!-- section break -->
 
@@ -36,19 +36,19 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Luke and Leia
-{{< youtube id="oSXeOY_Ad4U" title="Luke and Leia" >}}<br>
+### Rebel Briefing
+{{< youtube id="_0Wn1KkliKA" title="Rebel Briefing" >}}<br>
 
 ### More Videos
 
 - [Return of the Jedi (1983) Retrospective / Review](https://www.youtube.com/watch?v=N2tL4w8qgpk)
 - [Main Title (The Story Continues)](https://www.youtube.com/watch?v=eP14omDNAfk)
 - [Into the Trap](https://www.youtube.com/watch?v=Rh0Xbbw9mQo)
+- [Luke and Leia](https://www.youtube.com/watch?v=oSXeOY_Ad4U)
 - [Parade of the Ewoks](https://www.youtube.com/watch?v=6r2w9ergP1E)
 - [Han Solo Returns (At the Court of Jabba the Hutt)](https://www.youtube.com/watch?v=jjyhuWhOJQw)
 - [Lapti Nek (Jabba's Palace Band)](https://www.youtube.com/watch?v=wINM8zsdw9s)
 - [The Forest Battle](https://www.youtube.com/watch?v=ebCnaPzteZM)
-- [Rebel Briefing](https://www.youtube.com/watch?v=_0Wn1KkliKA)
 - [The Emperor](https://www.youtube.com/watch?v=FvMtMfIr-sU)
 - [The Return of the Jedi](https://www.youtube.com/watch?v=MtB6kOMh5_k)
 - [Ewok Celebration and Finale](https://www.youtube.com/watch?v=QEq-KYcj7Rs)

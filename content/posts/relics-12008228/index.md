@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Relics by Pink Floyd](relics-12008228.jpg)
+{{< img src="relics-12008228.jpg" title="Relics by Pink Floyd" >}}
 
 <!-- section break -->
 

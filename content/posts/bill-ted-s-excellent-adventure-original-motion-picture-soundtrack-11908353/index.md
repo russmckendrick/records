@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ---
 
-![Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack by Various](bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353.jpg)
+{{< img src="bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353.jpg" title="Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack by Various" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 
 
 ## Videos
-### The Boys & the Girls Are Doing It by Vital Signs
-{{< youtube id="4-vucvV7gS0" title="The Boys & the Girls Are Doing It by Vital Signs" >}}<br>
+### Glen Burtnik - Not So Far Away [HQ]
+{{< youtube id="gFxlwnV8YsI" title="Glen Burtnik - Not So Far Away [HQ]" >}}<br>
 
 ### More Videos
 
@@ -45,8 +45,8 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 - [Bricklin - walk away](https://www.youtube.com/watch?v=DrduICZlxFU)
 - [Play With Me - Extreme (Lyrics)](https://www.youtube.com/watch?v=475g0fZNywU)
 - [Two Heads Are Better Than One by Power Tool](https://www.youtube.com/watch?v=U56KbegdkGs)
+- [The Boys & the Girls Are Doing It by Vital Signs](https://www.youtube.com/watch?v=4-vucvV7gS0)
 - [Bricklin - Walk Away, Bill & Ted OST (HQ Remaster)](https://www.youtube.com/watch?v=w3AJ8kHh97s)
-- [Glen Burtnik - Not So Far Away [HQ]](https://www.youtube.com/watch?v=gFxlwnV8YsI)
 - [Shark Island - Dangerous](https://www.youtube.com/watch?v=5uAjZzeB-hI)
 
 

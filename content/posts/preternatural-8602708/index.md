@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Art Rock", "Prog Rock", "Experimental"]
 ---
 
-![Preternatural by Moulettes](preternatural-8602708.jpg)
+{{< img src="preternatural-8602708.jpg" title="Preternatural by Moulettes" >}}
 
 <!-- section break -->
 

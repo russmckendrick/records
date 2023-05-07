@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-![Silent Earthling by Three Trapped Tigers](silent-earthling-8337431.jpg)
+{{< img src="silent-earthling-8337431.jpg" title="Silent Earthling by Three Trapped Tigers" >}}
 
 <!-- section break -->
 

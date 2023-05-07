@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock"]
 ---
 
-![Rings Around The World by Super Furry Animals](rings-around-the-world-20075032.jpg)
+{{< img src="rings-around-the-world-20075032.jpg" title="Rings Around The World by Super Furry Animals" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,14 @@ styles: ["IDM", "Indie Rock"]
 
 
 ## Videos
-### Super Furry Animals - (Drawing) Rings Around the World
-{{< youtube id="kZJIrF5OPGU" title="Super Furry Animals - (Drawing) Rings Around the World" >}}<br>
+### Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))
+{{< youtube id="-i2Kn-EXh_A" title="Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))" >}}<br>
 
 ### More Videos
 
 - [Super Furry Animals - Juxtapozed with U (Video)](https://www.youtube.com/watch?v=dmCZ4f8NhOk)
 - [Super Furry Animals - Receptacle for the Respectable](https://www.youtube.com/watch?v=HpjMy_e8XlA)
-- [Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
+- [Super Furry Animals - (Drawing) Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
 
 
 ## Release Information

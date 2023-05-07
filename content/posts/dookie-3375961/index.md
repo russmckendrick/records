@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Punk", "Punk"]
 ---
 
-![Dookie by Green Day](dookie-3375961.jpg)
+{{< img src="dookie-3375961.jpg" title="Dookie by Green Day" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Pop Punk", "Punk"]
 
 
 ## Videos
-### Having a Blast
-{{< youtube id="XQLhHbjFd5M" title="Having a Blast" >}}<br>
+### Pulling Teeth
+{{< youtube id="2P49LZ4FBTU" title="Pulling Teeth" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["Pop Punk", "Punk"]
 - [GREEN DAY -  DOOKIE / FULL ALBUM  REMASTER 2013](https://www.youtube.com/watch?v=q0QQc70vCxg)
 - [Burnout](https://www.youtube.com/watch?v=XLjo0lY450c)
 - [05- Welcome To Paradise- Green Day (Dookie)](https://www.youtube.com/watch?v=iOcrKFiB_ts)
-- [Pulling Teeth](https://www.youtube.com/watch?v=2P49LZ4FBTU)
+- [Having a Blast](https://www.youtube.com/watch?v=XQLhHbjFd5M)
 - [F.O.D.](https://www.youtube.com/watch?v=UKU-LZh6r2o)
 
 

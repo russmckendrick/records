@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Eponymous 1981-1983 by The Alarm](eponymous-1981-1983-11734076.jpg)
+{{< img src="eponymous-1981-1983-11734076.jpg" title="Eponymous 1981-1983 by The Alarm" >}}
 
 <!-- section break -->
 
@@ -51,12 +51,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Stand (Extended Version)
-{{< youtube id="AycgV7hkhV4" title="The Stand (Extended Version)" >}}<br>
+### The Alarm - Lie Of The Land
+{{< youtube id="Xe9MsP1VddQ" title="The Alarm - Lie Of The Land" >}}<br>
 
 ### More Videos
 
-- [The Alarm - Lie Of The Land](https://www.youtube.com/watch?v=Xe9MsP1VddQ)
+- [The Stand (Extended Version)](https://www.youtube.com/watch?v=AycgV7hkhV4)
 
 
 ## Release Information

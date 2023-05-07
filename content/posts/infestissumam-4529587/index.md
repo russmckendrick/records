@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-![Infestissumam by Ghost](infestissumam-4529587.jpg)
+{{< img src="infestissumam-4529587.jpg" title="Infestissumam by Ghost" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,15 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Ghost B.C. - Secular Haze
-{{< youtube id="vyQZ13jobIY" title="Ghost B.C. - Secular Haze" >}}<br>
+### I'm A Marionette
+{{< youtube id="Gvj7f8-UZ9g" title="I'm A Marionette" >}}<br>
 
 ### More Videos
 
 - [Ghost   Infestissumam   Full Album](https://www.youtube.com/watch?v=dPhvb87xweI)
 - [Ghost B.C. - Year Zero (Censored)](https://www.youtube.com/watch?v=gkBt7yLXyDk)
 - [Infestissumam](https://www.youtube.com/watch?v=Nbbxws7sgy4)
+- [Ghost B.C. - Secular Haze](https://www.youtube.com/watch?v=vyQZ13jobIY)
 - [Per Aspera Ad Inferi](https://www.youtube.com/watch?v=TBwwYMaEWH4)
 - [SECULAR HAZE](https://www.youtube.com/watch?v=o3MPSRHpIno)
 - [Jigolo Har Megiddo](https://www.youtube.com/watch?v=ZXqaNLNQwKw)
@@ -53,7 +54,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [Depth Of Satan's Eyes](https://www.youtube.com/watch?v=TnQQyvWpU-0)
 - [Monstrance Clock](https://www.youtube.com/watch?v=U7Hjowi2oFc)
 - [La Mantra Mori](https://www.youtube.com/watch?v=6FN6k8XtRpw)
-- [I'm A Marionette](https://www.youtube.com/watch?v=Gvj7f8-UZ9g)
 
 
 ## Release Information

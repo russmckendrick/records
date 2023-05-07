@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
 
-![The Best Of Howlin' Wolf by Howlin' Wolf](the-best-of-howlin-wolf-8503900.jpg)
+{{< img src="the-best-of-howlin-wolf-8503900.jpg" title="The Best Of Howlin' Wolf by Howlin' Wolf" >}}
 
 <!-- section break -->
 

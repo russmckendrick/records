@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Tardigrades Will Inherit The Earth by The Mute Gods](tardigrades-will-inherit-the-earth-9875365.jpg)
+{{< img src="tardigrades-will-inherit-the-earth-9875365.jpg" title="Tardigrades Will Inherit The Earth by The Mute Gods" >}}
 
 <!-- section break -->
 
@@ -53,13 +53,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)
-{{< youtube id="mp_bqHtKBAM" title="The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)" >}}<br>
+### THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)
+{{< youtube id="AlmmvkV5olE" title="THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AlmmvkV5olE)
 - [THE MUTE GODS - We Can't Carry On (Lyric Video)](https://www.youtube.com/watch?v=SyjNard5ers)
+- [The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)](https://www.youtube.com/watch?v=mp_bqHtKBAM)
 
 
 ## Release Information

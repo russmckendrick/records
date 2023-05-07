@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Drums And Wires by XTC](drums-and-wires-16269444.jpg)
+{{< img src="drums-and-wires-16269444.jpg" title="Drums And Wires by XTC" >}}
 
 <!-- section break -->
 
@@ -43,11 +43,12 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Making Plans For Nigel
-{{< youtube id="yp-WJXOb2V4" title="Making Plans For Nigel" >}}<br>
+### Ten Feet Tall (2001 Digital Remaster)
+{{< youtube id="ACguqonrjI4" title="Ten Feet Tall (2001 Digital Remaster)" >}}<br>
 
 ### More Videos
 
+- [Making Plans For Nigel](https://www.youtube.com/watch?v=yp-WJXOb2V4)
 - [XTC - Chain of Command / Limelight (1979) full 7” Single](https://www.youtube.com/watch?v=9NPMAZDUmHs)
 - [When You're Near Me I Have Difficulty (2001 Digital Remaster)](https://www.youtube.com/watch?v=IKBjJl7NnJ8)
 - [XTC - Drums and Wires [Full Album]](https://www.youtube.com/watch?v=N66oJVIjk2M)
@@ -55,7 +56,6 @@ styles: ["New Wave", "Pop Rock"]
 - [XTC - Making Plans For Nigel 1979 (Official Video) ᴴᴰ](https://www.youtube.com/watch?v=AiIlcew-GVM)
 - [XTC - Complicated Game](https://www.youtube.com/watch?v=vFlq0mvTRB0)
 - [Helicopter (2001 Digital Remaster)](https://www.youtube.com/watch?v=Hu4NaIC_fko)
-- [Ten Feet Tall (2001 Digital Remaster)](https://www.youtube.com/watch?v=ACguqonrjI4)
 - [Reel By Reel (2001 Digital Remaster)](https://www.youtube.com/watch?v=JoOgmgyM49U)
 - [Outside World (2001 Digital Remaster)](https://www.youtube.com/watch?v=kAKCgduec5o)
 - [XTC - Drums and Wires (Full Album) [HD] Reupload](https://www.youtube.com/watch?v=ph-cxsWVrMw)

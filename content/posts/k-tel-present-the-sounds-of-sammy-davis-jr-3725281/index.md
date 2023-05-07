@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: []
 ---
 
-![K-Tel Present The Sounds Of Sammy Davis Jr. by Sammy Davis Jr.](k-tel-present-the-sounds-of-sammy-davis-jr-3725281.jpg)
+{{< img src="k-tel-present-the-sounds-of-sammy-davis-jr-3725281.jpg" title="K-Tel Present The Sounds Of Sammy Davis Jr. by Sammy Davis Jr." >}}
 
 <!-- section break -->
 
@@ -45,14 +45,14 @@ styles: []
 
 
 ## Videos
-### Sammy Davis Jr. Spinning Wheel
-{{< youtube id="DidwR29BJX0" title="Sammy Davis Jr. Spinning Wheel" >}}<br>
+### Sammy Davis Jr. sings Spinning Wheel
+{{< youtube id="MWRxgyiHk1Q" title="Sammy Davis Jr. sings Spinning Wheel" >}}<br>
 
 ### More Videos
 
 - [Sammy Davis What Kind of Fool Am I](https://www.youtube.com/watch?v=7Jg7wFHWXT4)
 - [Sammy Davis Jr - The Candy Man (Live in Germany 1985)](https://www.youtube.com/watch?v=rsp35yn411A)
-- [Sammy Davis Jr. sings Spinning Wheel](https://www.youtube.com/watch?v=MWRxgyiHk1Q)
+- [Sammy Davis Jr. Spinning Wheel](https://www.youtube.com/watch?v=DidwR29BJX0)
 
 
 ## Release Information

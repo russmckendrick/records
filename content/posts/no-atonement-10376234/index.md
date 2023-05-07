@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
 
-![No Atonement by Bullet Height](no-atonement-10376234.jpg)
+{{< img src="no-atonement-10376234.jpg" title="No Atonement by Bullet Height" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Industrial"]
 
 
 ## Videos
-### BULLET HEIGHT - Break Our Hearts Down (Album Track)
-{{< youtube id="PZwRQQN5cA8" title="BULLET HEIGHT - Break Our Hearts Down (Album Track)" >}}<br>
+### Intravenous
+{{< youtube id="TFVsojTL7rc" title="Intravenous" >}}<br>
 
 ### More Videos
 
@@ -57,9 +57,9 @@ styles: ["Industrial"]
 - [BULLET HEIGHT - Bastion (Official Track)](https://www.youtube.com/watch?v=kmlmn3YHpNs)
 - [BULLET HEIGHT - Hold Together (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Qfie7ok8-XI)
 - [Wild Words](https://www.youtube.com/watch?v=EcshkqnUp9o)
-- [Intravenous](https://www.youtube.com/watch?v=TFVsojTL7rc)
 - [Cadence](https://www.youtube.com/watch?v=oLChpiZ2WQk)
 - [No Atonement](https://www.youtube.com/watch?v=PxE2Bmf3VpY)
+- [BULLET HEIGHT - Break Our Hearts Down (Album Track)](https://www.youtube.com/watch?v=PZwRQQN5cA8)
 - [Fever](https://www.youtube.com/watch?v=Z6hnJrBKOKw)
 - [Break Our Hearts Down](https://www.youtube.com/watch?v=xHItLkOiP3g)
 

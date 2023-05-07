@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
-![The Seeds Of Love by Tears For Fears](the-seeds-of-love-16026538.jpg)
+{{< img src="the-seeds-of-love-16026538.jpg" title="The Seeds Of Love by Tears For Fears" >}}
 
 <!-- section break -->
 

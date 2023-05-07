@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Jazz-Rock", "Fusion", "Avantgarde", "Experimental"]
 ---
 
-![Hot Rats by Frank Zappa](hot-rats-14541297.jpg)
+{{< img src="hot-rats-14541297.jpg" title="Hot Rats by Frank Zappa" >}}
 
 <!-- section break -->
 

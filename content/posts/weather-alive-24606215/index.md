@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ethereal"]
 ---
 
-![Weather Alive by Beth Orton](weather-alive-24606215.jpg)
+{{< img src="weather-alive-24606215.jpg" title="Weather Alive by Beth Orton" >}}
 
 <!-- section break -->
 

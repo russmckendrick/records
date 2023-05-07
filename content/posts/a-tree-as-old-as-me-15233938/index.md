@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![A Tree As Old As Me by Nordic Giants](a-tree-as-old-as-me-15233938.jpg)
+{{< img src="a-tree-as-old-as-me-15233938.jpg" title="A Tree As Old As Me by Nordic Giants" >}}
 
 <!-- section break -->
 

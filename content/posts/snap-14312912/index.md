@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Mod"]
 ---
 
-![Snap! by The Jam](snap-14312912.jpg)
+{{< img src="snap-14312912.jpg" title="Snap! by The Jam" >}}
 
 <!-- section break -->
 
@@ -62,8 +62,8 @@ styles: ["Mod"]
 
 
 ## Videos
-### The Jam - That's Entertainment (Compact SNAP!)
-{{< youtube id="hHfehqgg5Ws" title="The Jam - That's Entertainment (Compact SNAP!)" >}}<br>
+### The Jam - Town Called Malice (Compact SNAP!)
+{{< youtube id="EWNhxsHv478" title="The Jam - Town Called Malice (Compact SNAP!)" >}}<br>
 
 ### More Videos
 
@@ -87,11 +87,11 @@ styles: ["Mod"]
 - [The Jam - Smithers Jones (Compact SNAP!)](https://www.youtube.com/watch?v=NFfQRYpq1K0)
 - [Thick As Thieves](https://www.youtube.com/watch?v=znmpFlKhgoI)
 - [The Jam - The Eton Rifles (Compact SNAP!)](https://www.youtube.com/watch?v=GKZ7ivuN7UQ)
+- [The Jam - That's Entertainment (Compact SNAP!)](https://www.youtube.com/watch?v=hHfehqgg5Ws)
 - [The Jam - Start! (Compact SNAP!)](https://www.youtube.com/watch?v=NLITZTcbDnE)
 - [The Jam - Funeral Pyre (Compact SNAP!)](https://www.youtube.com/watch?v=x8aoHrDZGt4)
 - [The Jam - Absolute Beginners (Compact SNAP!)](https://www.youtube.com/watch?v=hF1qjAoWbDc)
 - [Tales From The Riverbank - The Jam (Audio Only)](https://www.youtube.com/watch?v=Yyx_R0491yk)
-- [The Jam - Town Called Malice (Compact SNAP!)](https://www.youtube.com/watch?v=EWNhxsHv478)
 - [The Jam - Precious (Compact SNAP!)](https://www.youtube.com/watch?v=tpL9jMyTm-4)
 - [The Jam - Beat Surrender (Compact SNAP!)](https://www.youtube.com/watch?v=V7Q4od19xfY)
 - [The Jam - Move On Up Live At Wembley (SNAP!)](https://www.youtube.com/watch?v=kfev4FgNy50)

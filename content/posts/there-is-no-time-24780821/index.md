@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
-![There Is No Time by Church Of The Cosmic Skull](there-is-no-time-24780821.jpg)
+{{< img src="there-is-no-time-24780821.jpg" title="There Is No Time by Church Of The Cosmic Skull" >}}
 
 <!-- section break -->
 

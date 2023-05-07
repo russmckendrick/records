@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Living In Extraordinary Times  by James](living-in-extraordinary-times-12341469.jpg)
+{{< img src="living-in-extraordinary-times-12341469.jpg" title="Living In Extraordinary Times  by James" >}}
 
 <!-- section break -->
 

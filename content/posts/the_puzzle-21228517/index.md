@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract"]
 ---
 
-![The_Puzzle by Devin Townsend](the_puzzle-21228517.jpg)
+{{< img src="the_puzzle-21228517.jpg" title="The_Puzzle by Devin Townsend" >}}
 
 <!-- section break -->
 

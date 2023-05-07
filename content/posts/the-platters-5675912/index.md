@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-![The Platters by The Platters](the-platters-5675912.jpg)
+{{< img src="the-platters-5675912.jpg" title="The Platters by The Platters" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### Bewitched
-{{< youtube id="_Ft_jfUjceQ" title="Bewitched" >}}<br>
+### The Platters - Bewitched, Bothered, and Bewildered
+{{< youtube id="AeB7eUDIZro" title="The Platters - Bewitched, Bothered, and Bewildered" >}}<br>
 
 ### More Videos
 
 - [The Platters - Bewitched](https://www.youtube.com/watch?v=T_zX6hPH84o)
-- [The Platters - Bewitched, Bothered, and Bewildered](https://www.youtube.com/watch?v=AeB7eUDIZro)
+- [Bewitched](https://www.youtube.com/watch?v=_Ft_jfUjceQ)
 - [The Platters - My Prayer](https://www.youtube.com/watch?v=FTqoTZ3lPsA)
 - [The Platters & Tony Williams - Bewitched, Bothered And Bewildered (VintageMusic.es)](https://www.youtube.com/watch?v=2YWAPun86Eg)
 

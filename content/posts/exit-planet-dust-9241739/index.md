@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 ---
 
-![Exit Planet Dust by The Chemical Brothers](exit-planet-dust-9241739.jpg)
+{{< img src="exit-planet-dust-9241739.jpg" title="Exit Planet Dust by The Chemical Brothers" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
-![Ladies And Gentlemen We Are Floating In Space by Spiritualized](ladies-and-gentlemen-we-are-floating-in-space-20161612.jpg)
+{{< img src="ladies-and-gentlemen-we-are-floating-in-space-20161612.jpg" title="Ladies And Gentlemen We Are Floating In Space by Spiritualized" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Stay with Me
-{{< youtube id="gSGA1Q5NFUM" title="Stay with Me" >}}<br>
+### Spiritualized - Electricity (Official Music Video)
+{{< youtube id="ZVKXnWDeNr8" title="Spiritualized - Electricity (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Spiritualized - Come Together (Official Music Video)](https://www.youtube.com/watch?v=uWOdSeDzyy4)
 - [Spiritualized - I Think I'm in Love (Official Audio)](https://www.youtube.com/watch?v=CyZ4IvOwJYI)
-- [Spiritualized - Electricity (Official Music Video)](https://www.youtube.com/watch?v=ZVKXnWDeNr8)
 - [Come Together](https://www.youtube.com/watch?v=idRkBNs-Jgs)
+- [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)
 
 

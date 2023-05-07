@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-![Rave Tapes by Mogwai](rave-tapes-5302004.jpg)
+{{< img src="rave-tapes-5302004.jpg" title="Rave Tapes by Mogwai" >}}
 
 <!-- section break -->
 
@@ -61,12 +61,12 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Mogwai - 'Remurdered'
-{{< youtube id="sZ5nEuG-CRc" title="Mogwai - 'Remurdered'" >}}<br>
+### Mogwai - Repelish (Rave Tapes 2014)
+{{< youtube id="6DF-BkuWGBo" title="Mogwai - Repelish (Rave Tapes 2014)" >}}<br>
 
 ### More Videos
 
-- [Mogwai - Repelish (Rave Tapes 2014)](https://www.youtube.com/watch?v=6DF-BkuWGBo)
+- [Mogwai - 'Remurdered'](https://www.youtube.com/watch?v=sZ5nEuG-CRc)
 - [Mogwai - Heard About You Last Night](https://www.youtube.com/watch?v=Vf7Jj23BVZM)
 - [Master Card](https://www.youtube.com/watch?v=FnVdzWa3KiQ)
 - [Mogwai - Die 1 Dislike! (Rave Tapes Bonus Track)](https://www.youtube.com/watch?v=E9rAbjCT8l0)

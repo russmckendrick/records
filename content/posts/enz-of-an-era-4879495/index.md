@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Enz Of An Era by Split Enz](enz-of-an-era-4879495.jpg)
+{{< img src="enz-of-an-era-4879495.jpg" title="Enz Of An Era by Split Enz" >}}
 
 <!-- section break -->
 

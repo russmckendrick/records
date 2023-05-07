@@ -14,7 +14,7 @@ genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
 
-![(Live) by Peter Cook & Dudley Moore](live-561172.jpg)
+{{< img src="live-561172.jpg" title="(Live) by Peter Cook & Dudley Moore" >}}
 
 <!-- section break -->
 

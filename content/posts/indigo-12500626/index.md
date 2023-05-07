@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: []
 ---
 
-![Indigo by Kandace Springs](indigo-12500626.jpg)
+{{< img src="indigo-12500626.jpg" title="Indigo by Kandace Springs" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: []
 
 
 ## Videos
-### People Make The World Go 'Round
-{{< youtube id="vgsqJCIKtvc" title="People Make The World Go 'Round" >}}<br>
+### Unsophisticated
+{{< youtube id="zC0y-00d00w" title="Unsophisticated" >}}<br>
 
 ### More Videos
 
@@ -60,7 +60,7 @@ styles: []
 - [Piece Of Me](https://www.youtube.com/watch?v=BpIpvLQpMhk)
 - [6 8](https://www.youtube.com/watch?v=UaI38Zy-K1g)
 - [Indigo (Pt. 2)](https://www.youtube.com/watch?v=Zm72L36G--w)
-- [Unsophisticated](https://www.youtube.com/watch?v=zC0y-00d00w)
+- [People Make The World Go 'Round](https://www.youtube.com/watch?v=vgsqJCIKtvc)
 - [Black Orchid](https://www.youtube.com/watch?v=d1zHnWNKTBE)
 - [Love Sucks](https://www.youtube.com/watch?v=f9fLJt5sqrY)
 - [The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=XwwSU8O5X5M)

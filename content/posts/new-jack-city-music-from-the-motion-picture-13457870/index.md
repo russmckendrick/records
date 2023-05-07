@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Pop Rap", "RnB/Swing"]
 ---
 
-![New Jack City (Music From The Motion Picture) by VARIOUS](new-jack-city-music-from-the-motion-picture-13457870.jpg)
+{{< img src="new-jack-city-music-from-the-motion-picture-13457870.jpg" title="New Jack City (Music From The Motion Picture) by VARIOUS" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Pop Rap", "RnB/Swing"]
 
 
 ## Videos
-### Essence - Lyrics 2 The Rhythm
-{{< youtube id="oDIfvCvNLuw" title="Essence - Lyrics 2 The Rhythm" >}}<br>
+### Keith Sweat - (There You Go) Tellin' Me No Again
+{{< youtube id="fEVN_yPyXXg" title="Keith Sweat - (There You Go) Tellin' Me No Again" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["Pop Rap", "RnB/Swing"]
 - [2 Live Crew - In The Dust](https://www.youtube.com/watch?v=ofQrNuzZXiU)
 - [Danny Madden - Facts Of Life](https://www.youtube.com/watch?v=EQfqL9Yk-vE)
 - [Color Me Badd - I Wanna Sex You Up](https://www.youtube.com/watch?v=woLqPI0zmi8)
-- [Keith Sweat - (There You Go) Tellin' Me No Again](https://www.youtube.com/watch?v=fEVN_yPyXXg)
+- [Essence - Lyrics 2 The Rhythm](https://www.youtube.com/watch?v=oDIfvCvNLuw)
 
 
 ## Release Information

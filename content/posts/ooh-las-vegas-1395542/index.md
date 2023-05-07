@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
-![Ooh Las Vegas by Deacon Blue](ooh-las-vegas-1395542.jpg)
+{{< img src="ooh-las-vegas-1395542.jpg" title="Ooh Las Vegas by Deacon Blue" >}}
 
 <!-- section break -->
 
@@ -51,19 +51,19 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 
 
 ## Videos
-### Las Vegas
-{{< youtube id="MfKXbvxw21c" title="Las Vegas" >}}<br>
+### Deacon Blue - Is It Cold Beneath the Hill [?]
+{{< youtube id="I2G3dosGk4I" title="Deacon Blue - Is It Cold Beneath the Hill [?]" >}}<br>
 
 ### More Videos
 
 - [Deacon Blue - Disneyworld](https://www.youtube.com/watch?v=YuMRvCvBJm0)
+- [Las Vegas](https://www.youtube.com/watch?v=MfKXbvxw21c)
 - [DEACON BLUE - LET YOUR HEARTS BE TROUBLED](https://www.youtube.com/watch?v=rOMEr-a_nl8)
 - [Back Here In Beanoland](https://www.youtube.com/watch?v=nWn6ipzktis)
 - [Deacon Blue - Las Vegas](https://www.youtube.com/watch?v=crf3fsAi_WU)
 - [My America](https://www.youtube.com/watch?v=2Kkb9iOh5OY)
 - [Deacon Blue - S.H.A.R.O.N.](https://www.youtube.com/watch?v=BspKQrrj8GQ)
 - [Disneyworld](https://www.youtube.com/watch?v=hXIRGY5OP3I)
-- [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
 
 
 ## Release Information

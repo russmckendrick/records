@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Boy by U2](boy-16273305.jpg)
+{{< img src="boy-16273305.jpg" title="Boy by U2" >}}
 
 <!-- section break -->
 

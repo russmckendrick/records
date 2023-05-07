@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Jagged Little Pill by Alanis Morissette](jagged-little-pill-4064194.jpg)
+{{< img src="jagged-little-pill-4064194.jpg" title="Jagged Little Pill by Alanis Morissette" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Right Through You (2015 Remaster)
-{{< youtube id="gpCE80nmeTw" title="Right Through You (2015 Remaster)" >}}<br>
+### Mary Jane (2015 Remaster)
+{{< youtube id="HYHx5NlUlZk" title="Mary Jane (2015 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -52,9 +52,9 @@ styles: ["Alternative Rock"]
 - [Alanis Morissette - Head Over Feet (Official 4K Music Video)](https://www.youtube.com/watch?v=4iuO49jbovg)
 - [All I Really Want (2015 Remaster)](https://www.youtube.com/watch?v=9t9HQMGfGrY)
 - [Perfect (2015 Remaster)](https://www.youtube.com/watch?v=jZ-_oyHFdeM)
+- [Right Through You (2015 Remaster)](https://www.youtube.com/watch?v=gpCE80nmeTw)
 - [Forgiven (2015 Remaster)](https://www.youtube.com/watch?v=-9DnL-TlyJw)
 - [Head over Feet (2015 Remaster)](https://www.youtube.com/watch?v=r5thPd3hAKs)
-- [Mary Jane (2015 Remaster)](https://www.youtube.com/watch?v=HYHx5NlUlZk)
 - [Ironic (2015 Remaster)](https://www.youtube.com/watch?v=Adu-EfJbuBs)
 - [Not the Doctor (2015 Remaster)](https://www.youtube.com/watch?v=Jpm3SPXeB2I)
 - [Wake Up (2015 Remaster)](https://www.youtube.com/watch?v=JX6FbIkfyro)

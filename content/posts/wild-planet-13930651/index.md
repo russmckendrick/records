@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-![Wild Planet by The B-52's](wild-planet-13930651.jpg)
+{{< img src="wild-planet-13930651.jpg" title="Wild Planet by The B-52's" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["New Wave"]
 
 
 ## Videos
-### The B-52's - Private Idaho (Official Audio)
-{{< youtube id="BxHyliIspkA" title="The B-52's - Private Idaho (Official Audio)" >}}<br>
+### the B–52's ▶ Wild·Planet (Full Album)
+{{< youtube id="P8t6JAG2xCA" title="the B–52's ▶ Wild·Planet (Full Album)" >}}<br>
 
 ### More Videos
 
-- [the B–52's ▶ Wild·Planet (Full Album)](https://www.youtube.com/watch?v=P8t6JAG2xCA)
+- [The B-52's - Private Idaho (Official Audio)](https://www.youtube.com/watch?v=BxHyliIspkA)
 - [53 Miles West of Venus](https://www.youtube.com/watch?v=mvXbB67rSHc)
 
 

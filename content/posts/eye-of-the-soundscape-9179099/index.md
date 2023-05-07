@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ambient", "Prog Rock"]
 ---
 
-![Eye Of The Soundscape by Riverside](eye-of-the-soundscape-9179099.jpg)
+{{< img src="eye-of-the-soundscape-9179099.jpg" title="Eye Of The Soundscape by Riverside" >}}
 
 <!-- section break -->
 
@@ -54,14 +54,14 @@ styles: ["Ambient", "Prog Rock"]
 
 
 ## Videos
-### Riverside - Eye Of The Soundscape (2016)
-{{< youtube id="2a4gOzONptk" title="Riverside - Eye Of The Soundscape (2016)" >}}<br>
+### RIVERSIDE -  Where The River Flows (Album Track)
+{{< youtube id="tBTZJLXOptM" title="RIVERSIDE -  Where The River Flows (Album Track)" >}}<br>
 
 ### More Videos
 
 - [Rapid Eye Movement (2016 mix)](https://www.youtube.com/watch?v=oifjq7YHyAg)
+- [Riverside - Eye Of The Soundscape (2016)](https://www.youtube.com/watch?v=2a4gOzONptk)
 - [Riverside - Rapid Eye Movement (2016 Mix) [HQ/HD]](https://www.youtube.com/watch?v=XY-6Dm6Q_kE)
-- [RIVERSIDE -  Where The River Flows (Album Track)](https://www.youtube.com/watch?v=tBTZJLXOptM)
 - [Riverside - Rainbow Trip](https://www.youtube.com/watch?v=McNam4CH7VE)
 - [Riverside -  Rainbow Trip (2016)](https://www.youtube.com/watch?v=K1tM7opVaLk)
 

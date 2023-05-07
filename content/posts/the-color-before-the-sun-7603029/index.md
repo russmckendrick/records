@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The Color Before The Sun by Coheed And Cambria](the-color-before-the-sun-7603029.jpg)
+{{< img src="the-color-before-the-sun-7603029.jpg" title="The Color Before The Sun by Coheed And Cambria" >}}
 
 <!-- section break -->
 

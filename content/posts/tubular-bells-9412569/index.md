@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Tubular Bells by Mike Oldfield](tubular-bells-9412569.jpg)
+{{< img src="tubular-bells-9412569.jpg" title="Tubular Bells by Mike Oldfield" >}}
 
 <!-- section break -->
 

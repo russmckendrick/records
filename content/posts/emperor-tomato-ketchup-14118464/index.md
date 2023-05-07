@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
 
-![Emperor Tomato Ketchup by Stereolab](emperor-tomato-ketchup-14118464.jpg)
+{{< img src="emperor-tomato-ketchup-14118464.jpg" title="Emperor Tomato Ketchup by Stereolab" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Emo", "Post-Hardcore"]
 ---
 
-![Fugazi by Fugazi](fugazi-8498294.jpg)
+{{< img src="fugazi-8498294.jpg" title="Fugazi by Fugazi" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,12 @@ styles: ["Punk", "Emo", "Post-Hardcore"]
 
 
 ## Videos
-### Fugazi-Waiting room
-{{< youtube id="cMOAXm94VWo" title="Fugazi-Waiting room" >}}<br>
+### Fugazi - Fugazi (1988) [Full EP]
+{{< youtube id="d06_Yl-mHE0" title="Fugazi - Fugazi (1988) [Full EP]" >}}<br>
 
 ### More Videos
 
-- [Fugazi - Fugazi (1988) [Full EP]](https://www.youtube.com/watch?v=d06_Yl-mHE0)
+- [Fugazi-Waiting room](https://www.youtube.com/watch?v=cMOAXm94VWo)
 
 
 ## Release Information

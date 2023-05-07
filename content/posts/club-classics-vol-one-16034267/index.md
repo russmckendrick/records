@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Jazz", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-![Club Classics Vol. One by Soul II Soul](club-classics-vol-one-16034267.jpg)
+{{< img src="club-classics-vol-one-16034267.jpg" title="Club Classics Vol. One by Soul II Soul" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: []
 
 
 ## Videos
-### Soul II Soul - Fairplay (Official Video)
-{{< youtube id="WaZtVZuqNcI" title="Soul II Soul - Fairplay (Official Video)" >}}<br>
+### Soul II Soul - Keep On Movin' (Official Video)
+{{< youtube id="1iQl46-zIcM" title="Soul II Soul - Keep On Movin' (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Soul II Soul ‎– Club Classics Vol.  One (1989)](https://www.youtube.com/watch?v=rAGZnmVOpJQ)
+- [Soul II Soul - Fairplay (Official Video)](https://www.youtube.com/watch?v=WaZtVZuqNcI)
 - [Feel Free](https://www.youtube.com/watch?v=Ighc6cJKyWs)
-- [Soul II Soul - Keep On Movin' (Official Video)](https://www.youtube.com/watch?v=1iQl46-zIcM)
 - [Soul II Soul - Back To Life (However Do You Want Me) (Official Music Video)](https://www.youtube.com/watch?v=TB54dZkzZOY)
 - [Soul II Soul - Feeling Free](https://www.youtube.com/watch?v=QDble9Z7pDs)
 - [Soul II Soul - Jazzie's Groove](https://www.youtube.com/watch?v=_FtrDBpl0WI)

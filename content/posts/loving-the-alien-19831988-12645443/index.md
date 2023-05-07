@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Loving The Alien [ 1983–1988 ] by David Bowie](loving-the-alien-19831988-12645443.jpg)
+{{< img src="loving-the-alien-19831988-12645443.jpg" title="Loving The Alien [ 1983–1988 ] by David Bowie" >}}
 
 <!-- section break -->
 

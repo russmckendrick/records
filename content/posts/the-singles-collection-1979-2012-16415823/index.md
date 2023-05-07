@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alternative Rock", "Dub"]
 ---
 
-![The Singles Collection 1979-2012 by Killing Joke](the-singles-collection-1979-2012-16415823.jpg)
+{{< img src="the-singles-collection-1979-2012-16415823.jpg" title="The Singles Collection 1979-2012 by Killing Joke" >}}
 
 <!-- section break -->
 

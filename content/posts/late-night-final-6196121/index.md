@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Late Night Final by Richard Hawley](late-night-final-6196121.jpg)
+{{< img src="late-night-final-6196121.jpg" title="Late Night Final by Richard Hawley" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Long Black Train
-{{< youtube id="wQmy0pbrGXY" title="Long Black Train" >}}<br>
+### Lonely Night
+{{< youtube id="Tw1stITSY5E" title="Lonely Night" >}}<br>
 
 ### More Videos
 
@@ -49,10 +49,10 @@ styles: ["Alternative Rock"]
 - [Love of My Life](https://www.youtube.com/watch?v=lFNLxKh66fA)
 - [The Nights Are Cold](https://www.youtube.com/watch?v=PQWxJGXsb3I)
 - [Can You Hear the Rain Love](https://www.youtube.com/watch?v=CYAa5970h-4)
-- [Lonely Night](https://www.youtube.com/watch?v=Tw1stITSY5E)
 - [Precious Sight](https://www.youtube.com/watch?v=k9KAeod9Le8)
 - [No Way Home](https://www.youtube.com/watch?v=YJVr9bCrC0w)
 - [Cry a Tear for the Man On the Moon](https://www.youtube.com/watch?v=J7hESbgte8M)
+- [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)
 - [The Light At the End of the Tunnel (Was a Train Coming the Other Way)](https://www.youtube.com/watch?v=jIYdJeRYNSo)
 
 

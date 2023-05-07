@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 ---
 
-![★ (Blackstar) by David Bowie](blackstar-7932038.jpg)
+{{< img src="blackstar-7932038.jpg" title="★ (Blackstar) by David Bowie" >}}
 
 <!-- section break -->
 

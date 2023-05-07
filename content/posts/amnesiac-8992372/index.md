@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-![Amnesiac by Radiohead](amnesiac-8992372.jpg)
+{{< img src="amnesiac-8992372.jpg" title="Amnesiac by Radiohead" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-![Impossible Dream by Haley Bonar](impossible-dream-8882640.jpg)
+{{< img src="impossible-dream-8882640.jpg" title="Impossible Dream by Haley Bonar" >}}
 
 <!-- section break -->
 

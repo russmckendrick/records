@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ---
 
-![Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter](big-trouble-in-little-china-original-motion-picture-soundtrack-12384176.jpg)
+{{< img src="big-trouble-in-little-china-original-motion-picture-soundtrack-12384176.jpg" title="Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter" >}}
 
 <!-- section break -->
 
@@ -48,13 +48,13 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 
 
 ## Videos
-### Coup De Villes - Big Trouble In Little China (Film Version).wmv
-{{< youtube id="OfSjNPxNPDg" title="Coup De Villes - Big Trouble In Little China (Film Version).wmv" >}}<br>
+### Big Trouble In Little China Soundtrack - The Alley (War)
+{{< youtube id="FqKO0ihTB6E" title="Big Trouble In Little China Soundtrack - The Alley (War)" >}}<br>
 
 ### More Videos
 
+- [Coup De Villes - Big Trouble In Little China (Film Version).wmv](https://www.youtube.com/watch?v=OfSjNPxNPDg)
 - [Pork Chop Express (Main Title)](https://www.youtube.com/watch?v=V8_H5OdN6OM)
-- [Big Trouble In Little China Soundtrack - The Alley (War)](https://www.youtube.com/watch?v=FqKO0ihTB6E)
 - [Big Trouble In Little China Soundtrack - Here Come The Storms](https://www.youtube.com/watch?v=4RgcU_AZ3vI)
 - [Big Trouble In Little China Soundtrack - Lopan's Domains/Looking For A Girl](https://www.youtube.com/watch?v=XE2C5HMCHp4)
 - [Big Trouble In Little China Soundtrack - Escape From Wing Kong](https://www.youtube.com/watch?v=09bsMX4wbgg)

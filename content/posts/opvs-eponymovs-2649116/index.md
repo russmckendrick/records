@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Doom Metal", "Heavy Metal"]
 ---
 
-![Opvs Eponymovs by Ghost](opvs-eponymovs-2649116.jpg)
+{{< img src="opvs-eponymovs-2649116.jpg" title="Opvs Eponymovs by Ghost" >}}
 
 <!-- section break -->
 

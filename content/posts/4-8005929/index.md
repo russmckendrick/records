@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![4½ by Steven Wilson](4-8005929.jpg)
+{{< img src="4-8005929.jpg" title="4½ by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -34,14 +34,14 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Steven Wilson   Don't Hate Me 4 ½ 2016
-{{< youtube id="gn8qvgUeSmQ" title="Steven Wilson   Don't Hate Me 4 ½ 2016" >}}<br>
+### Steven Wilson - My Book of Regrets
+{{< youtube id="Ugi1U9vwmG0" title="Steven Wilson - My Book of Regrets" >}}<br>
 
 ### More Videos
 
 - [Steven Wilson - Vermillioncore (NEW ALBUM 4 ½ 2016)](https://www.youtube.com/watch?v=B9Kwm4EMlkk)
-- [Steven Wilson - My Book of Regrets](https://www.youtube.com/watch?v=Ugi1U9vwmG0)
 - [Steven Wilson - Happiness III](https://www.youtube.com/watch?v=HsMDnAdHT1I)
+- [Steven Wilson   Don't Hate Me 4 ½ 2016](https://www.youtube.com/watch?v=gn8qvgUeSmQ)
 
 
 ## Release Information

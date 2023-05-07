@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Above Cirrus by Pure Reason Revolution](above-cirrus-23119040.jpg)
+{{< img src="above-cirrus-23119040.jpg" title="Above Cirrus by Pure Reason Revolution" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Lucid
-{{< youtube id="usmXukkRXRI" title="Lucid" >}}<br>
+### Scream Sideways
+{{< youtube id="DMZuXRR4Mzw" title="Scream Sideways" >}}<br>
 
 ### More Videos
 
 - [Our Prism](https://www.youtube.com/watch?v=lJJ2vUfY5ps)
-- [Scream Sideways](https://www.youtube.com/watch?v=DMZuXRR4Mzw)
+- [Lucid](https://www.youtube.com/watch?v=usmXukkRXRI)
 
 
 ## Release Information

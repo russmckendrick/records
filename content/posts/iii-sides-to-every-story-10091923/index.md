@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Funk Metal", "Hard Rock", "Glam"]
 ---
 
-![III Sides To Every Story by Extreme](iii-sides-to-every-story-10091923.jpg)
+{{< img src="iii-sides-to-every-story-10091923.jpg" title="III Sides To Every Story by Extreme" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 
 
 ## Videos
-### Extreme – Rest In Peace
-{{< youtube id="SbUg1vLsSPI" title="Extreme – Rest In Peace" >}}<br>
+### Extreme – Seven Sundays
+{{< youtube id="23F9TJXxbBc" title="Extreme – Seven Sundays" >}}<br>
 
 ### More Videos
 
@@ -60,8 +60,8 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 - [Extreme – Warheads](https://www.youtube.com/watch?v=-f9MeBQ3jfo)
 - [Extreme – Our Father](https://www.youtube.com/watch?v=1rjO7VFznMo)
 - [Extreme – Stop The World](https://www.youtube.com/watch?v=usMlTDBW2wA)
+- [Extreme – Rest In Peace](https://www.youtube.com/watch?v=SbUg1vLsSPI)
 - [Extreme – God Isn't Dead?](https://www.youtube.com/watch?v=L4zcQ6vNxyQ)
-- [Extreme – Seven Sundays](https://www.youtube.com/watch?v=23F9TJXxbBc)
 - [Extreme – Cupid's Dead](https://www.youtube.com/watch?v=rkUyat92f2o)
 - [Extreme – Politicalamity](https://www.youtube.com/watch?v=dJrUX2s4tF8)
 - [Extreme – Peacemaker Die](https://www.youtube.com/watch?v=jMlXxkiUe5s)

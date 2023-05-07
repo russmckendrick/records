@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Otis Blue / Otis Redding Sings Soul by Otis Redding](otis-blue-otis-redding-sings-soul-4051892.jpg)
+{{< img src="otis-blue-otis-redding-sings-soul-4051892.jpg" title="Otis Blue / Otis Redding Sings Soul by Otis Redding" >}}
 
 <!-- section break -->
 

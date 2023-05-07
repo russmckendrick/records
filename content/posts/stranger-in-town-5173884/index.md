@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 ---
 
-![Stranger In Town by Bob Seger And The Silver Bullet Band](stranger-in-town-5173884.jpg)
+{{< img src="stranger-in-town-5173884.jpg" title="Stranger In Town by Bob Seger And The Silver Bullet Band" >}}
 
 <!-- section break -->
 
@@ -37,17 +37,17 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 
 
 ## Videos
-### Still The Same
-{{< youtube id="PuNXEUwIQMY" title="Still The Same" >}}<br>
+### Ain't Got No Money
+{{< youtube id="oxoPYOzxy_M" title="Ain't Got No Money" >}}<br>
 
 ### More Videos
 
 - [Hollywood Nights](https://www.youtube.com/watch?v=UhuVwVpr3WY)
 - [We've Got Tonight](https://www.youtube.com/watch?v=uZQR3KqvYPc)
+- [Still The Same](https://www.youtube.com/watch?v=PuNXEUwIQMY)
 - [Old Time Rock & Roll](https://www.youtube.com/watch?v=W1LsRShUPtY)
 - [Till It Shines](https://www.youtube.com/watch?v=06MllIiuEHA)
 - [Feel Like A Number](https://www.youtube.com/watch?v=XA1LJ3blITU)
-- [Ain't Got No Money](https://www.youtube.com/watch?v=oxoPYOzxy_M)
 - [Brave Strangers](https://www.youtube.com/watch?v=l6vYnLQFtc0)
 - [The Famous Final Scene](https://www.youtube.com/watch?v=9_Cqohz0188)
 

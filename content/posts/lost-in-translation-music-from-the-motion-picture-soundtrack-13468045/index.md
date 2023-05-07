@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ---
 
-![Lost In Translation (Music From The Motion Picture Soundtrack) by Various](lost-in-translation-music-from-the-motion-picture-soundtrack-13468045.jpg)
+{{< img src="lost-in-translation-music-from-the-motion-picture-soundtrack-13468045.jpg" title="Lost In Translation (Music From The Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 
 
 ## Videos
-### Lost in Translation - Soundtrack - Full Album (2003)
-{{< youtube id="WETG07MZ8Mk" title="Lost in Translation - Soundtrack - Full Album (2003)" >}}<br>
+### Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A
+{{< youtube id="dNuZeKUhu70" title="Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A" >}}<br>
 
 ### More Videos
 
-- [Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A](https://www.youtube.com/watch?v=dNuZeKUhu70)
 - [Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)](https://www.youtube.com/watch?v=DP16_k3CWyg)
+- [Lost in Translation - Soundtrack - Full Album (2003)](https://www.youtube.com/watch?v=WETG07MZ8Mk)
 
 
 ## Release Information

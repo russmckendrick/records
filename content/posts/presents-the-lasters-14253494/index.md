@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
 
-![Presents The Lasters by Fred Deakin](presents-the-lasters-14253494.jpg)
+{{< img src="presents-the-lasters-14253494.jpg" title="Presents The Lasters by Fred Deakin" >}}
 
 <!-- section break -->
 
@@ -47,17 +47,17 @@ styles: ["Downtempo"]
 
 
 ## Videos
-### Get The Message Through
-{{< youtube id="KWjwONTzryk" title="Get The Message Through" >}}<br>
+### Fred Deakin - The End Of The World (Official Audio)
+{{< youtube id="tTRS9LS7IQY" title="Fred Deakin - The End Of The World (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly](https://www.youtube.com/watch?v=OE4YLy-4SgI)
-- [Fred Deakin - The End Of The World (Official Audio)](https://www.youtube.com/watch?v=tTRS9LS7IQY)
 - [You Never Knew](https://www.youtube.com/watch?v=mCGShoLV2eg)
 - [Time To Go](https://www.youtube.com/watch?v=caC1YKzZRkA)
 - [I Remember](https://www.youtube.com/watch?v=4YUNecmI7RQ)
 - [Bringing It Back To You](https://www.youtube.com/watch?v=4yhZzBTaA8A)
+- [Get The Message Through](https://www.youtube.com/watch?v=KWjwONTzryk)
 
 
 ## Release Information

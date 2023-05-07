@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Stoner Rock"]
 ---
 
-![Sirens by Glasgow Coma Scale](sirens-20160328.jpg)
+{{< img src="sirens-20160328.jpg" title="Sirens by Glasgow Coma Scale" >}}
 
 <!-- section break -->
 

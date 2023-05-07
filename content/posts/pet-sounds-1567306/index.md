@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 ---
 
-![Pet Sounds by The Beach Boys](pet-sounds-1567306.jpg)
+{{< img src="pet-sounds-1567306.jpg" title="Pet Sounds by The Beach Boys" >}}
 
 <!-- section break -->
 

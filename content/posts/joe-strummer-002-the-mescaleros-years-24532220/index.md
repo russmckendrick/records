@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll"]
 ---
 
-![Joe Strummer 002: The Mescaleros Years by Joe Strummer & The Mescaleros](joe-strummer-002-the-mescaleros-years-24532220.jpg)
+{{< img src="joe-strummer-002-the-mescaleros-years-24532220.jpg" title="Joe Strummer 002: The Mescaleros Years by Joe Strummer & The Mescaleros" >}}
 
 <!-- section break -->
 
@@ -75,8 +75,8 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 
 
 ## Videos
-### Joe Strummer - Fantastic (Official Audio)
-{{< youtube id="SmiQ8KDqG2o" title="Joe Strummer - Fantastic (Official Audio)" >}}<br>
+### London Is Burning
+{{< youtube id="e9TgNjffZ1E" title="London Is Burning" >}}<br>
 
 ### More Videos
 
@@ -92,8 +92,8 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 - [Global A Go-Go (Demo)](https://www.youtube.com/watch?v=OYI2ihCHPV4)
 - [Joe Strummer - Secret Agent Man (Official Visualizer)](https://www.youtube.com/watch?v=O2mD-mqXDfI)
 - [All In A Day (Demo)](https://www.youtube.com/watch?v=bAR9rBoDEx0)
-- [London Is Burning](https://www.youtube.com/watch?v=e9TgNjffZ1E)
 - [Get Down Moses (Outtake)](https://www.youtube.com/watch?v=92Oe3546d-g)
+- [Joe Strummer - Fantastic (Official Audio)](https://www.youtube.com/watch?v=SmiQ8KDqG2o)
 - [Coma Girl (Outtake)](https://www.youtube.com/watch?v=BK_7ECtly5c)
 
 

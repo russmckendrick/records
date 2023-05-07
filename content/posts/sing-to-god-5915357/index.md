@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-![Sing To God by Cardiacs](sing-to-god-5915357.jpg)
+{{< img src="sing-to-god-5915357.jpg" title="Sing To God by Cardiacs" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### TRIBUTE VIDEO TO TIM SMITH ( CARDIACS ) : MANHOO from SING TO GOD
-{{< youtube id="rN5znaFXcVc" title="TRIBUTE VIDEO TO TIM SMITH ( CARDIACS ) : MANHOO from SING TO GOD" >}}<br>
+### Cardiacs -  Nurses Whispering Verses (Sing to god version)
+{{< youtube id="tiVOEHIHuzU" title="Cardiacs -  Nurses Whispering Verses (Sing to god version)" >}}<br>
 
 ### More Videos
 
@@ -58,9 +58,9 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [Cardiacs - Fiery Gun Hand](https://www.youtube.com/watch?v=ebDdbUacEao)
 - [Cardiacs - Insect Hoofs on Lassie](https://www.youtube.com/watch?v=Ka0boB28wUo)
 - [Bellyeye](https://www.youtube.com/watch?v=F-12zpwEHY0)
+- [TRIBUTE VIDEO TO TIM SMITH ( CARDIACS ) : MANHOO from SING TO GOD](https://www.youtube.com/watch?v=rN5znaFXcVc)
 - [Cardiacs - Dirty Boy](https://www.youtube.com/watch?v=d-dd4fMUhAY)
 - [Billion](https://www.youtube.com/watch?v=chs6xkDJWq4)
-- [Cardiacs -  Nurses Whispering Verses (Sing to god version)](https://www.youtube.com/watch?v=tiVOEHIHuzU)
 - [Foundling](https://www.youtube.com/watch?v=t0qc3kVbACY)
 
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-![And The Anonymous Nobody by De La Soul](and-the-anonymous-nobody-8969133.jpg)
+{{< img src="and-the-anonymous-nobody-8969133.jpg" title="And The Anonymous Nobody by De La Soul" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Conscious"]
 
 
 ## Videos
-### De La Soul - We're Still Here (now)... a documentary about nobody
-{{< youtube id="tmpGJ7P_xsw" title="De La Soul - We're Still Here (now)... a documentary about nobody" >}}<br>
+### De La Soul & The Anonymous Nobody
+{{< youtube id="lY7TXSOYA-M" title="De La Soul & The Anonymous Nobody" >}}<br>
 
 ### More Videos
 
@@ -64,9 +64,9 @@ styles: ["Conscious"]
 - [Genesis](https://www.youtube.com/watch?v=trouXMCxLAw)
 - [De La Soul - Exodus (Official Audio)](https://www.youtube.com/watch?v=SXUrOzR6N9g)
 - [De La Soul - CBGB'S (Official Audio)](https://www.youtube.com/watch?v=r0-ueCPCYNI)
-- [De La Soul & The Anonymous Nobody](https://www.youtube.com/watch?v=lY7TXSOYA-M)
 - [De La Soul - Royalty Capes](https://www.youtube.com/watch?v=Uc-4sB0EFLg)
 - [De La Soul - Memory of… (US) ft. Estelle, Pete Rock](https://www.youtube.com/watch?v=pFTNjzzeU-8)
+- [De La Soul - We're Still Here (now)... a documentary about nobody](https://www.youtube.com/watch?v=tmpGJ7P_xsw)
 - [De La Soul - Sexy Bitch (Official Audio)](https://www.youtube.com/watch?v=cyT2vpBA2Cs)
 - [De La Soul - Action! (Official Audio)](https://www.youtube.com/watch?v=QF24oQIU5DI)
 - [De La Soul - Whoodeeni (feat. 2Chainz) (Official Audio)](https://www.youtube.com/watch?v=V2YAl81ikhQ)

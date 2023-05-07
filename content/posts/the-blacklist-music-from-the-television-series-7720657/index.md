@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-![The Blacklist (Music From The Television Series) by Various](the-blacklist-music-from-the-television-series-7720657.jpg)
+{{< img src="the-blacklist-music-from-the-television-series-7720657.jpg" title="The Blacklist (Music From The Television Series) by Various" >}}
 
 <!-- section break -->
 

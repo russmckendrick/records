@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-![Soul Of A Woman by Sharon Jones & The Dap-Kings](soul-of-a-woman-11143584.jpg)
+{{< img src="soul-of-a-woman-11143584.jpg" title="Soul Of A Woman by Sharon Jones & The Dap-Kings" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: []
 
 
 ## Videos
-### Sharon Jones & The Dap-Kings - Come And Be A Winner (Official Audio)
-{{< youtube id="_oNK5eV0szc" title="Sharon Jones & The Dap-Kings - Come And Be A Winner (Official Audio)" >}}<br>
+### Sharon Jones & the Dap Kings - Matter of Time
+{{< youtube id="_Z9LA1u5KCI" title="Sharon Jones & the Dap Kings - Matter of Time" >}}<br>
 
 ### More Videos
 
-- [Sharon Jones & the Dap Kings - Matter of Time](https://www.youtube.com/watch?v=_Z9LA1u5KCI)
 - [Sharon Jones & The Dap-Kings - Sail On! (Official Audio)](https://www.youtube.com/watch?v=FnO5AM5gzG8)
 - [Sharon Jones & The Dap-Kings - Just Give Me Your Time (Official Audio)](https://www.youtube.com/watch?v=okqZc6D4wy0)
+- [Sharon Jones & The Dap-Kings - Come And Be A Winner (Official Audio)](https://www.youtube.com/watch?v=_oNK5eV0szc)
 - [Sharon Jones & The Dap-Kings - Rumors (Official Audio)](https://www.youtube.com/watch?v=P_Y0OSZktQc)
 - [Sharon Jones & The Dap-Kings - Pass Me By (Official Audio)](https://www.youtube.com/watch?v=R3UVOZDgbS4)
 - [Sharon Jones & The Dap-Kings - Searching For A New Day (Official Audio)](https://www.youtube.com/watch?v=pBs8sfRpq6g)

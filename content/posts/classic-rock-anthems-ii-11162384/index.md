@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
 
-![Classic Rock Anthems II by Various](classic-rock-anthems-ii-11162384.jpg)
+{{< img src="classic-rock-anthems-ii-11162384.jpg" title="Classic Rock Anthems II by Various" >}}
 
 <!-- section break -->
 

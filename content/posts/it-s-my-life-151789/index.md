@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![It's My Life by Talk Talk](it-s-my-life-151789.jpg)
+{{< img src="it-s-my-life-151789.jpg" title="It's My Life by Talk Talk" >}}
 
 <!-- section break -->
 

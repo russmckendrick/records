@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Experimental", "Post-Punk", "Post Rock"]
 ---
 
-![For The First Time by Black Country, New Road](for-the-first-time-17151706.jpg)
+{{< img src="for-the-first-time-17151706.jpg" title="For The First Time by Black Country, New Road" >}}
 
 <!-- section break -->
 

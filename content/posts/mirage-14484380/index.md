@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Mirage by Fleetwood Mac](mirage-14484380.jpg)
+{{< img src="mirage-14484380.jpg" title="Mirage by Fleetwood Mac" >}}
 
 <!-- section break -->
 

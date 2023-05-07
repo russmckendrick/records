@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: []
 ---
 
-![Dust My Broom by Elmore James](dust-my-broom-3329700.jpg)
+{{< img src="dust-my-broom-3329700.jpg" title="Dust My Broom by Elmore James" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: []
 
 
 ## Videos
-### Got To Move
-{{< youtube id="AZ6awi5rUuM" title="Got To Move" >}}<br>
+### Everyday I Have The Blues
+{{< youtube id="pmXZwGwSZ9g" title="Everyday I Have The Blues" >}}<br>
 
 ### More Videos
 
 - [Elmore James - Dust my broom](https://www.youtube.com/watch?v=F8GwPuKL0e0)
 - [Dust My Broom](https://www.youtube.com/watch?v=Ng9XmfebKBY)
-- [Everyday I Have The Blues](https://www.youtube.com/watch?v=pmXZwGwSZ9g)
 - [Rollin And Tumblin](https://www.youtube.com/watch?v=B5eLyA1Wt8c)
+- [Got To Move](https://www.youtube.com/watch?v=AZ6awi5rUuM)
 - [It Hurts Me Too](https://www.youtube.com/watch?v=iBZRgnATKSQ)
 - [Mean Mistreatin Mama](https://www.youtube.com/watch?v=K1DejYST9kk)
 

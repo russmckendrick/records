@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Prog Rock"]
 ---
 
-![Heavy Horses by Jethro Tull](heavy-horses-11884370.jpg)
+{{< img src="heavy-horses-11884370.jpg" title="Heavy Horses by Jethro Tull" >}}
 
 <!-- section break -->
 

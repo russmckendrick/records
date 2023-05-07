@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
-![Everybody's Going To Die  by Church Of The Cosmic Skull](everybody-s-going-to-die-14924038.jpg)
+{{< img src="everybody-s-going-to-die-14924038.jpg" title="Everybody's Going To Die  by Church Of The Cosmic Skull" >}}
 
 <!-- section break -->
 

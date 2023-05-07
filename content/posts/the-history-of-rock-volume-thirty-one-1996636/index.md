@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ---
 
-![The History Of Rock (Volume Thirty One) by The Stranglers](the-history-of-rock-volume-thirty-one-1996636.jpg)
+{{< img src="the-history-of-rock-volume-thirty-one-1996636.jpg" title="The History Of Rock (Volume Thirty One) by The Stranglers" >}}
 
 <!-- section break -->
 

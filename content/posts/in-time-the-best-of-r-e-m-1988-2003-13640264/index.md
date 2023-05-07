@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![In Time: The Best Of R.E.M. 1988-2003 by R.E.M.](in-time-the-best-of-r-e-m-1988-2003-13640264.jpg)
+{{< img src="in-time-the-best-of-r-e-m-1988-2003-13640264.jpg" title="In Time: The Best Of R.E.M. 1988-2003 by R.E.M." >}}
 
 <!-- section break -->
 

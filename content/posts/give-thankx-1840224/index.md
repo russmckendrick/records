@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-![Give Thankx by Jimmy Cliff](give-thankx-1840224.jpg)
+{{< img src="give-thankx-1840224.jpg" title="Give Thankx by Jimmy Cliff" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Music For People by VAST](music-for-people-19112086.jpg)
+{{< img src="music-for-people-19112086.jpg" title="Music For People by VAST" >}}
 
 <!-- section break -->
 
@@ -40,17 +40,17 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Land of Shame
-{{< youtube id="qHv47cPHDkk" title="Land of Shame" >}}<br>
+### The Gates of Rock 'n' Roll
+{{< youtube id="EkwUMxPvfFk" title="The Gates of Rock 'n' Roll" >}}<br>
 
 ### More Videos
 
 - [The Last One Alive](https://www.youtube.com/watch?v=9m02l9C6ris)
 - [Free](https://www.youtube.com/watch?v=FVkRFR3mTzI)
 - [I Don't Have Anything](https://www.youtube.com/watch?v=5KhoB5w-yh8)
-- [The Gates of Rock 'n' Roll](https://www.youtube.com/watch?v=EkwUMxPvfFk)
 - [What Else Do I Need](https://www.youtube.com/watch?v=NlYp-joSPQA)
 - [Blue](https://www.youtube.com/watch?v=_C6NvMbEOIY)
+- [Land of Shame](https://www.youtube.com/watch?v=qHv47cPHDkk)
 - [A Better Place](https://www.youtube.com/watch?v=rs3Xi_IpMM4)
 - [Song Without a Name](https://www.youtube.com/watch?v=jFlfZeB89EA)
 - [We Will Meet Again](https://www.youtube.com/watch?v=uCx2rjCl7sA)

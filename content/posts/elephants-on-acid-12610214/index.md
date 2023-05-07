@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-![Elephants On Acid by Cypress Hill](elephants-on-acid-12610214.jpg)
+{{< img src="elephants-on-acid-12610214.jpg" title="Elephants On Acid by Cypress Hill" >}}
 
 <!-- section break -->
 
@@ -70,15 +70,14 @@ styles: []
 
 
 ## Videos
-### Cypress Hill - Stairway to Heaven (Audio)
-{{< youtube id="HWOGZJvU564" title="Cypress Hill - Stairway to Heaven (Audio)" >}}<br>
+### Cypress Hill - Satao Interval (Audio)
+{{< youtube id="aeJf0A-0GvM" title="Cypress Hill - Satao Interval (Audio)" >}}<br>
 
 ### More Videos
 
 - [Cypress Hill - Tusko (Intro) (Audio)](https://www.youtube.com/watch?v=etAPOcsHgOk)
 - [Cypress Hill - Band of Gypsies (Official Video)](https://www.youtube.com/watch?v=buxccDwjkdA)
 - [Cypress Hill - Put Em in the Ground (Audio)](https://www.youtube.com/watch?v=nNyDk4Q503M)
-- [Cypress Hill - Satao Interval (Audio)](https://www.youtube.com/watch?v=aeJf0A-0GvM)
 - [Cypress Hill - Jesus Was A Stoner (Audio)](https://www.youtube.com/watch?v=-rtS8P5OHHc)
 - [Cypress Hill - Pass The Knife (Audio)](https://www.youtube.com/watch?v=cudK_NRB3Lw)
 - [Cypress Hill - LSD (Interval) (Audio)](https://www.youtube.com/watch?v=YtjMWUf-FwM)
@@ -93,6 +92,7 @@ styles: []
 - [Cypress Hill - Reefer Man](https://www.youtube.com/watch?v=jDb2xNsa2YA)
 - [Cypress Hill - Thru the Rabbit Hole (Interlude)](https://www.youtube.com/watch?v=wOI1YDpWYXM)
 - [Cypress Hill - Blood On My Hands Again (Official Video)](https://www.youtube.com/watch?v=P1AaYTKGknk)
+- [Cypress Hill - Stairway to Heaven (Audio)](https://www.youtube.com/watch?v=HWOGZJvU564)
 
 
 ## Release Information

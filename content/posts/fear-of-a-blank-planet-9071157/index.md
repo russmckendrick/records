@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
 
-![Fear Of A Blank Planet by Porcupine Tree](fear-of-a-blank-planet-9071157.jpg)
+{{< img src="fear-of-a-blank-planet-9071157.jpg" title="Fear Of A Blank Planet by Porcupine Tree" >}}
 
 <!-- section break -->
 

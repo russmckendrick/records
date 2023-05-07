@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Dub", "Indie Rock"]
 ---
 
-![Pigeonhole by New Fast Automatic Daffodils](pigeonhole-3580224.jpg)
+{{< img src="pigeonhole-3580224.jpg" title="Pigeonhole by New Fast Automatic Daffodils" >}}
 
 <!-- section break -->
 
@@ -37,17 +37,17 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 
 
 ## Videos
-### Amplifier
-{{< youtube id="DJx6GlAvl6c" title="Amplifier" >}}<br>
+### Get Better
+{{< youtube id="mjhFtxhdN00" title="Get Better" >}}<br>
 
 ### More Videos
 
-- [Get Better](https://www.youtube.com/watch?v=mjhFtxhdN00)
 - [Fishes Eyes](https://www.youtube.com/watch?v=Ek7tEzmE84Y)
 - [Working For Him](https://www.youtube.com/watch?v=9ObFlEsRwR8)
 - [Part 4](https://www.youtube.com/watch?v=B3lrLtsADsE)
 - [Big](https://www.youtube.com/watch?v=nyMvZA5Wpn0)
 - [You Were Lying When You Said You Loved Me](https://www.youtube.com/watch?v=avmTQEDax1I)
+- [Amplifier](https://www.youtube.com/watch?v=DJx6GlAvl6c)
 - [Reprise](https://www.youtube.com/watch?v=4siq20WoHPA)
 - [Partial](https://www.youtube.com/watch?v=dIopDx0jKX4)
 - [Penguins](https://www.youtube.com/watch?v=ffgG7FPHsRQ)

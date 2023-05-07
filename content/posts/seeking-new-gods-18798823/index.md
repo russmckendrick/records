@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Seeking New Gods by Gruff Rhys](seeking-new-gods-18798823.jpg)
+{{< img src="seeking-new-gods-18798823.jpg" title="Seeking New Gods by Gruff Rhys" >}}
 
 <!-- section break -->
 
@@ -37,18 +37,18 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Everlasting Joy
-{{< youtube id="OztJcWT6krI" title="Everlasting Joy" >}}<br>
+### Gruff Rhys - Mausoleum Of My Former Self (Official Video)
+{{< youtube id="uBWtjXHjD7M" title="Gruff Rhys - Mausoleum Of My Former Self (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Gruff Rhys - Loan Your Loneliness (Official Video)](https://www.youtube.com/watch?v=nr3HnNMS1Cw)
-- [Gruff Rhys - Mausoleum Of My Former Self (Official Video)](https://www.youtube.com/watch?v=uBWtjXHjD7M)
 - [Gruff Rhys - Can't Carry On (Official Video)](https://www.youtube.com/watch?v=BGCOztNcB3w)
 - [Seeking New Gods](https://www.youtube.com/watch?v=5NEwvd9lhKg)
 - [Hiking in Lightning](https://www.youtube.com/watch?v=hkIHf9JyhBQ)
 - [Holiest of the Holy Men](https://www.youtube.com/watch?v=wdNwnMzDKdA)
 - [The Keep](https://www.youtube.com/watch?v=PCEVReHswGY)
+- [Everlasting Joy](https://www.youtube.com/watch?v=OztJcWT6krI)
 - [Distant Snowy Peaks](https://www.youtube.com/watch?v=aKUrrXx6HQg)
 
 

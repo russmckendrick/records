@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Nonsuch by XTC](nonsuch-15995218.jpg)
+{{< img src="nonsuch-15995218.jpg" title="Nonsuch by XTC" >}}
 
 <!-- section break -->
 
@@ -45,8 +45,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Ballad of Peter Pumpkinhead /  XTC
-{{< youtube id="na8W4Bx1Z1A" title="The Ballad of Peter Pumpkinhead /  XTC" >}}<br>
+### XTC- War Dance home demo -Nonsuch-
+{{< youtube id="pBY5lJDO6TA" title="XTC- War Dance home demo -Nonsuch-" >}}<br>
 
 ### More Videos
 
@@ -59,8 +59,8 @@ styles: ["Pop Rock"]
 - [Xtc - The Ugly Underneath](https://www.youtube.com/watch?v=7wVIQeQKEj4)
 - [Humble Daisy (2001 Remaster)](https://www.youtube.com/watch?v=n_EFGlpkUlg)
 - [Wrapped In Grey (2001 Remaster)](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
-- [XTC- War Dance home demo -Nonsuch-](https://www.youtube.com/watch?v=pBY5lJDO6TA)
 - [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
+- [The Ballad of Peter Pumpkinhead /  XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
 
 
 ## Release Information

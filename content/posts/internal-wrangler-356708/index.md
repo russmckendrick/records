@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Internal Wrangler by Clinic](internal-wrangler-356708.jpg)
+{{< img src="internal-wrangler-356708.jpg" title="Internal Wrangler by Clinic" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Clinic - The Second Line (Official Video)
-{{< youtube id="4fqTGMR_asI" title="Clinic - The Second Line (Official Video)" >}}<br>
+### Goodnight Georgie
+{{< youtube id="ZlaNHDKGsYU" title="Goodnight Georgie" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["Indie Rock"]
 - [C.Q.](https://www.youtube.com/watch?v=iaHdPBbjAAw)
 - [Voodoo Wop](https://www.youtube.com/watch?v=Z4782cYLiUo)
 - [2/4](https://www.youtube.com/watch?v=94_AsK9fIq4)
-- [Goodnight Georgie](https://www.youtube.com/watch?v=ZlaNHDKGsYU)
+- [Clinic - The Second Line (Official Video)](https://www.youtube.com/watch?v=4fqTGMR_asI)
 - [T.K. - Clinic](https://www.youtube.com/watch?v=Uo-u_BKDKCA)
 
 

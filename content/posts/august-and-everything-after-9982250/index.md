@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![August And Everything After by Counting Crows](august-and-everything-after-9982250.jpg)
+{{< img src="august-and-everything-after-9982250.jpg" title="August And Everything After by Counting Crows" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Perfect Blue Buildings
-{{< youtube id="HKcD2AxnEYw" title="Perfect Blue Buildings" >}}<br>
+### Omaha
+{{< youtube id="O1RsswsO10M" title="Omaha" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Alternative Rock"]
 - [A Murder Of One](https://www.youtube.com/watch?v=QWj-04CoNuw)
 - [Counting Crows - Mr. Jones (Official Music Video)](https://www.youtube.com/watch?v=-oqAU5VxFWs)
 - [Sullivan Street](https://www.youtube.com/watch?v=6Ekq19HIb_E)
-- [Omaha](https://www.youtube.com/watch?v=O1RsswsO10M)
+- [Perfect Blue Buildings](https://www.youtube.com/watch?v=HKcD2AxnEYw)
 - [Rain King](https://www.youtube.com/watch?v=FEL48-0xRAA)
 
 

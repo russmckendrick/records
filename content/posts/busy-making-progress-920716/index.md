@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ---
 
-![Busy Making Progress by Progress](busy-making-progress-920716.jpg)
+{{< img src="busy-making-progress-920716.jpg" title="Busy Making Progress by Progress" >}}
 
 <!-- section break -->
 

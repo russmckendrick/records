@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Get A Grip by Aerosmith](get-a-grip-9685203.jpg)
+{{< img src="get-a-grip-9685203.jpg" title="Get A Grip by Aerosmith" >}}
 
 <!-- section break -->
 

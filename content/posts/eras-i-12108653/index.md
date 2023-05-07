@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", "Power Pop", "Heavy Metal", "Acoustic", "Ethereal", "Symphonic Rock", "Industrial"]
 ---
 
-![Eras I by Devin Townsend](eras-i-12108653.jpg)
+{{< img src="eras-i-12108653.jpg" title="Eras I by Devin Townsend" >}}
 
 <!-- section break -->
 
@@ -73,12 +73,12 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 
 
 ## Videos
-### Devin Townsend ~ Bend It Like Bender
-{{< youtube id="I4PkL5FwDEA" title="Devin Townsend ~ Bend It Like Bender" >}}<br>
+### A Monday
+{{< youtube id="7UYFLIaxaEk" title="A Monday" >}}<br>
 
 ### More Videos
 
-- [A Monday](https://www.youtube.com/watch?v=7UYFLIaxaEk)
+- [Devin Townsend ~ Bend It Like Bender](https://www.youtube.com/watch?v=I4PkL5FwDEA)
 
 
 ## Release Information

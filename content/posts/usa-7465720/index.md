@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![USA by King Crimson](usa-7465720.jpg)
+{{< img src="usa-7465720.jpg" title="USA by King Crimson" >}}
 
 <!-- section break -->
 

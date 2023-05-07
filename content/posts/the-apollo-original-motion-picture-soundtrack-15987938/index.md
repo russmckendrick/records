@@ -14,7 +14,7 @@ genres: ["Jazz", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![The Apollo (Original Motion Picture Soundtrack) by Various](the-apollo-original-motion-picture-soundtrack-15987938.jpg)
+{{< img src="the-apollo-original-motion-picture-soundtrack-15987938.jpg" title="The Apollo (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 

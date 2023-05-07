@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
 
-![Spirit by Depeche Mode](spirit-9979164.jpg)
+{{< img src="spirit-9979164.jpg" title="Spirit by Depeche Mode" >}}
 
 <!-- section break -->
 

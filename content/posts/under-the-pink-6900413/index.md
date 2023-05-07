@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Under The Pink by Tori Amos](under-the-pink-6900413.jpg)
+{{< img src="under-the-pink-6900413.jpg" title="Under The Pink by Tori Amos" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Tori Amos - God (Official Music Video)
-{{< youtube id="cN3rzi7dZVQ" title="Tori Amos - God (Official Music Video)" >}}<br>
+### Tori Amos - Past the Mission (Official Music Video)
+{{< youtube id="AdIgXD1-93U" title="Tori Amos - Past the Mission (Official Music Video)" >}}<br>
 
 ### More Videos
 
+- [Tori Amos - God (Official Music Video)](https://www.youtube.com/watch?v=cN3rzi7dZVQ)
 - [Tori Amos - Pretty Good Year (Official Music Video)](https://www.youtube.com/watch?v=xr8auZq-Xn8)
-- [Tori Amos - Past the Mission (Official Music Video)](https://www.youtube.com/watch?v=AdIgXD1-93U)
 - [Tori Amos - Cornflake Girl (US Version) (Official Music Video)](https://www.youtube.com/watch?v=w_HA5Czhtx4)
 - [Tori Amos - Cornflake Girl (UK Version) (Official Music Video)](https://www.youtube.com/watch?v=mVSuSsoXABQ)
 

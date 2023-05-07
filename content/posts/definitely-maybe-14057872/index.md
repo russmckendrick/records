@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Definitely Maybe by Oasis](definitely-maybe-14057872.jpg)
+{{< img src="definitely-maybe-14057872.jpg" title="Definitely Maybe by Oasis" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
 
-![A Weapon Called The Word by The Levellers](a-weapon-called-the-word-8310584.jpg)
+{{< img src="a-weapon-called-the-word-8310584.jpg" title="A Weapon Called The Word by The Levellers" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Videos
-### England My Home
-{{< youtube id="grQVSNBqZkY" title="England My Home" >}}<br>
+### The Levellers Three friends
+{{< youtube id="G4CiD0xRrdU" title="The Levellers Three friends" >}}<br>
 
 ### More Videos
 
@@ -47,11 +47,11 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [Barrel Of The Gun](https://www.youtube.com/watch?v=KQUwOfR0JJw)
 - [The Levellers - Barrel Of The Gun](https://www.youtube.com/watch?v=bpnvmj2ek7A)
 - [Carry Me - Levellers](https://www.youtube.com/watch?v=uV-F-LGGtl0)
+- [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
 - [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
 - [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
 - [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
 - [The Levellers - What You Know](https://www.youtube.com/watch?v=AiePzwMaXNg)
-- [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
 
 
 ## Release Information

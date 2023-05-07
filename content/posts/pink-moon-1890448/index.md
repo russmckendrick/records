@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Folk", "Folk Rock"]
 ---
 
-![Pink Moon by Nick Drake](pink-moon-1890448.jpg)
+{{< img src="pink-moon-1890448.jpg" title="Pink Moon by Nick Drake" >}}
 
 <!-- section break -->
 

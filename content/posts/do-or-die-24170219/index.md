@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![Do Or Die by Dropkick Murphys](do-or-die-24170219.jpg)
+{{< img src="do-or-die-24170219.jpg" title="Do Or Die by Dropkick Murphys" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Arena Rock"]
 ---
 
-![Studio Collection by Queen](studio-collection-7554390.jpg)
+{{< img src="studio-collection-7554390.jpg" title="Studio Collection by Queen" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Zappa (Original Motion Picture Soundtrack) by Frank Zappa](zappa-original-motion-picture-soundtrack-18681091.jpg)
+{{< img src="zappa-original-motion-picture-soundtrack-18681091.jpg" title="Zappa (Original Motion Picture Soundtrack) by Frank Zappa" >}}
 
 <!-- section break -->
 

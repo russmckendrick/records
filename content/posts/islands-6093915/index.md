@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Islands by King Crimson](islands-6093915.jpg)
+{{< img src="islands-6093915.jpg" title="Islands by King Crimson" >}}
 
 <!-- section break -->
 

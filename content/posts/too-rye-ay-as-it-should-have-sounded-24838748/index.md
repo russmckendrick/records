@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland](too-rye-ay-as-it-should-have-sounded-24838748.jpg)
+{{< img src="too-rye-ay-as-it-should-have-sounded-24838748.jpg" title="Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### All In All (This One Last Wild Waltz)
-{{< youtube id="zJpbO8_2aqQ" title="All In All (This One Last Wild Waltz)" >}}<br>
+### Dexys Midnight Runners - The Celtic Soul Brothers
+{{< youtube id="sQkkzNic1Vs" title="Dexys Midnight Runners - The Celtic Soul Brothers" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Pop Rock"]
 - [T.S.O.P. [Live]](https://www.youtube.com/watch?v=EMbsPhGM3AI)
 - [Let's Make This Precious (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=deew4kIh7kc)
 - [Dexys Midnight Runners - Come On Eileen (HD)](https://www.youtube.com/watch?v=VjG3kdUp8qc)
-- [Dexys Midnight Runners - The Celtic Soul Brothers](https://www.youtube.com/watch?v=sQkkzNic1Vs)
 - [Dexy's Midnight Runners : The Celtic Soul Brothers  (Australian TV 1983)](https://www.youtube.com/watch?v=hENk6H_0PUM)
+- [All In All (This One Last Wild Waltz)](https://www.youtube.com/watch?v=zJpbO8_2aqQ)
 - [Dexy's Midnight Runners - Plan B/I'll Show You](https://www.youtube.com/watch?v=4CTfGEFaV3A)
 - [Dexy's Midnight Runners - Jackie Wilson Said (1982) (HD)](https://www.youtube.com/watch?v=FLjlrNpKsSk)
 - [Jackie Wilson Said (I'm In Heaven When You Smile)](https://www.youtube.com/watch?v=2zGL-7D6Rk4)

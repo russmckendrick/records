@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Math Rock"]
 ---
 
-![Underwater by Elephant Gym](underwater-13413825.jpg)
+{{< img src="underwater-13413825.jpg" title="Underwater by Elephant Gym" >}}
 
 <!-- section break -->
 

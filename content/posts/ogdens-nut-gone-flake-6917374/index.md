@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Psychedelic Rock"]
 ---
 
-![Ogdens' Nut Gone Flake by Small Faces](ogdens-nut-gone-flake-6917374.jpg)
+{{< img src="ogdens-nut-gone-flake-6917374.jpg" title="Ogdens' Nut Gone Flake by Small Faces" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,14 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Journey
-{{< youtube id="ffOy_wQO9LE" title="The Journey" >}}<br>
+### The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)
+{{< youtube id="TwB3bug2p-I" title="The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)" >}}<br>
 
 ### More Videos
 
 - [The Small Faces - Lazy Sunday Afternoon](https://www.youtube.com/watch?v=zXeRB-3nDR8)
 - [The Small Faces - Ogdens Nut Flake](https://www.youtube.com/watch?v=rCjrF2wWuSg)
-- [The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)](https://www.youtube.com/watch?v=TwB3bug2p-I)
+- [The Journey](https://www.youtube.com/watch?v=ffOy_wQO9LE)
 
 
 ## Release Information

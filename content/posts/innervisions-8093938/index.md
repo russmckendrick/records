@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Innervisions by Stevie Wonder](innervisions-8093938.jpg)
+{{< img src="innervisions-8093938.jpg" title="Innervisions by Stevie Wonder" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Soul"]
 
 
 ## Videos
-### Visions
-{{< youtube id="fy4fMlLj_B8" title="Visions" >}}<br>
+### Living For The City
+{{< youtube id="ghLWjyOOLno" title="Living For The City" >}}<br>
 
 ### More Videos
 
 - [Too High](https://www.youtube.com/watch?v=UvtYEdYjkJM)
-- [Living For The City](https://www.youtube.com/watch?v=ghLWjyOOLno)
+- [Visions](https://www.youtube.com/watch?v=fy4fMlLj_B8)
 - [Golden Lady](https://www.youtube.com/watch?v=CXCTjAMR3eA)
 - [Higher Ground](https://www.youtube.com/watch?v=1esf0efHbjM)
 - [Jesus Children Of America](https://www.youtube.com/watch?v=8o8FVoib92w)

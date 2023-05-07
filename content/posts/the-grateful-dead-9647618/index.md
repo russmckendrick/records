@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-![The Grateful Dead by The Grateful Dead](the-grateful-dead-9647618.jpg)
+{{< img src="the-grateful-dead-9647618.jpg" title="The Grateful Dead by The Grateful Dead" >}}
 
 <!-- section break -->
 

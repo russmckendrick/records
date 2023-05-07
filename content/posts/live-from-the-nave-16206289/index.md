@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ---
 
-![Live From The Nave by bdrmm](live-from-the-nave-16206289.jpg)
+{{< img src="live-from-the-nave-16206289.jpg" title="Live From The Nave by bdrmm" >}}
 
 <!-- section break -->
 

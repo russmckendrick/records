@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Pop"]
 styles: []
 ---
 
-![Running In The Family by Level 42](running-in-the-family-310232.jpg)
+{{< img src="running-in-the-family-310232.jpg" title="Running In The Family by Level 42" >}}
 
 <!-- section break -->
 

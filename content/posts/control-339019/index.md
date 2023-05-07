@@ -14,7 +14,7 @@ genres: ["Electronic", "Funk / Soul", "Pop"]
 styles: ["Contemporary R&B", "Synth-pop"]
 ---
 
-![Control by Janet Jackson](control-339019.jpg)
+{{< img src="control-339019.jpg" title="Control by Janet Jackson" >}}
 
 <!-- section break -->
 
@@ -37,18 +37,18 @@ styles: ["Contemporary R&B", "Synth-pop"]
 
 
 ## Videos
-### Janet Jackson - Control
-{{< youtube id="LH8xbDGv7oY" title="Janet Jackson - Control" >}}<br>
+### He Doesn't Know I'm Alive
+{{< youtube id="FqVAAWyoirU" title="He Doesn't Know I'm Alive" >}}<br>
 
 ### More Videos
 
+- [Janet Jackson - Control](https://www.youtube.com/watch?v=LH8xbDGv7oY)
 - [Control](https://www.youtube.com/watch?v=FMuoowyCkUU)
 - [Nasty](https://www.youtube.com/watch?v=nkTBzFUToLY)
 - [What Have You Done For Me Lately](https://www.youtube.com/watch?v=Q16EWAXwh94)
 - [You Can Be Mine](https://www.youtube.com/watch?v=gdhKkOodub8)
 - [The Pleasure Principle](https://www.youtube.com/watch?v=jXInTVW5h4Y)
 - [When I Think Of You](https://www.youtube.com/watch?v=gIgeh8PEQXI)
-- [He Doesn't Know I'm Alive](https://www.youtube.com/watch?v=FqVAAWyoirU)
 - [Let's Wait Awhile](https://www.youtube.com/watch?v=5cZ7IOApdfg)
 - [Funny How Time Flies (When You're Having Fun)](https://www.youtube.com/watch?v=B2tyZjh-eD0)
 

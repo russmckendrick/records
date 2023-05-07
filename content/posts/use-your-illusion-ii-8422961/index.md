@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
 
-![Use Your Illusion II by Guns N' Roses](use-your-illusion-ii-8422961.jpg)
+{{< img src="use-your-illusion-ii-8422961.jpg" title="Use Your Illusion II by Guns N' Roses" >}}
 
 <!-- section break -->
 

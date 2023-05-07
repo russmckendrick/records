@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![1977 by Ash](1977-23719583.jpg)
+{{< img src="1977-23719583.jpg" title="1977 by Ash" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Acid House", "Indie Rock", "House"]
 ---
 
-![Spartacus by The Farm](spartacus-1407749.jpg)
+{{< img src="spartacus-1407749.jpg" title="Spartacus by The Farm" >}}
 
 <!-- section break -->
 
@@ -46,13 +46,12 @@ styles: ["Acid House", "Indie Rock", "House"]
 
 
 ## Videos
-### The Farm - Don't Let Me Down (1991) From the US Spartacus CD
-{{< youtube id="Pe5ZON_sTpg" title="The Farm - Don't Let Me Down (1991) From the US Spartacus CD" >}}<br>
+### The Farm - Higher & Higher (Terry Farley Mix)
+{{< youtube id="ATdBTjdEoPo" title="The Farm - Higher & Higher (Terry Farley Mix)" >}}<br>
 
 ### More Videos
 
 - [Hearts and Minds](https://www.youtube.com/watch?v=Fg-0TMFS-BI)
-- [The Farm - Higher & Higher (Terry Farley Mix)](https://www.youtube.com/watch?v=ATdBTjdEoPo)
 - [T̲h̲e̲ F̲a̲r̲m̲̲ - S̲p̲a̲r̲t̲a̲c̲u̲s̲](https://www.youtube.com/watch?v=Deycwh9CBh4)
 - [The Farm - All Together Now - Official Video](https://www.youtube.com/watch?v=iRgtzZ-mOQo)
 - [THE FARM 'MIND'](https://www.youtube.com/watch?v=qP2nTxojwBQ)
@@ -62,6 +61,7 @@ styles: ["Acid House", "Indie Rock", "House"]
 - [The Farm - All Together Now (HQ)](https://www.youtube.com/watch?v=uf0nHL42ZCs)
 - [Hearts and Minds](https://www.youtube.com/watch?v=HX1fWf7xO58)
 - [The Farm - Tell The Story (1991) From the US Spartacus CD](https://www.youtube.com/watch?v=l-72nr0DAzA)
+- [The Farm - Don't Let Me Down (1991) From the US Spartacus CD](https://www.youtube.com/watch?v=Pe5ZON_sTpg)
 - [the farm -higher and higher](https://www.youtube.com/watch?v=SuKzKRdEWCg)
 
 

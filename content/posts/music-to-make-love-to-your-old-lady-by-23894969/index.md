@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Pop"]
 styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
 
-![Music To Make Love To Your Old Lady By by Nathaniel Merriweather](music-to-make-love-to-your-old-lady-by-23894969.jpg)
+{{< img src="music-to-make-love-to-your-old-lady-by-23894969.jpg" title="Music To Make Love To Your Old Lady By by Nathaniel Merriweather" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 
 
 ## Videos
-### Koala's Lament
-{{< youtube id="vqXggr9cBec" title="Koala's Lament" >}}<br>
+### Lies and Alibis
+{{< youtube id="yPgz_una_nI" title="Lies and Alibis" >}}<br>
 
 ### More Videos
 
@@ -64,13 +64,13 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Everyone Has a Summer](https://www.youtube.com/watch?v=8l32OnMUGVc)
 - [Lovage - Anger Management (/w Mike Patton)](https://www.youtube.com/watch?v=2P3RTPevirM)
 - [To Catch a Thief](https://www.youtube.com/watch?v=8nvzKqia8GM)
-- [Lies and Alibis](https://www.youtube.com/watch?v=yPgz_una_nI)
 - [Herbs, Good Hygiene and Socks](https://www.youtube.com/watch?v=efRQfNywAxM)
 - [Book of the Month](https://www.youtube.com/watch?v=mSSu9jTbqGU)
 - [Lifeboat](https://www.youtube.com/watch?v=VwYgkmQF2a8)
 - [Strangers on a Train](https://www.youtube.com/watch?v=7KjrrBaNljg)
 - [Lovage (Love That Lovage, Baby)](https://www.youtube.com/watch?v=4ZAxmoRbiBE)
 - [Sex (I'm A)](https://www.youtube.com/watch?v=TV49MerPUb8)
+- [Koala's Lament](https://www.youtube.com/watch?v=vqXggr9cBec)
 - [Tea Time With Maseo](https://www.youtube.com/watch?v=j_I4u6qAK3k)
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
 - [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)

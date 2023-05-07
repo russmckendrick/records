@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Experimental", "Synthwave"]
 ---
 
-![Hannett's Electronic Recordings - Homage To Delia Derbyshire by Martin Hannett](hannett-s-electronic-recordings-homage-to-delia-derbyshire-10764813.jpg)
+{{< img src="hannett-s-electronic-recordings-homage-to-delia-derbyshire-10764813.jpg" title="Hannett's Electronic Recordings - Homage To Delia Derbyshire by Martin Hannett" >}}
 
 <!-- section break -->
 
@@ -46,13 +46,13 @@ styles: ["Experimental", "Synthwave"]
 
 
 ## Videos
-### Martin On Synths, Keyboards ETC (Track A)
-{{< youtube id="hqqqSykCHRo" title="Martin On Synths, Keyboards ETC (Track A)" >}}<br>
+### Martin Plays Bass
+{{< youtube id="hsskkL7C7PA" title="Martin Plays Bass" >}}<br>
 
 ### More Videos
 
 - [Homage To Delia Derbyshire, Pt. 11](https://www.youtube.com/watch?v=KqF8gvUx4kA)
-- [Martin Plays Bass](https://www.youtube.com/watch?v=hsskkL7C7PA)
+- [Martin On Synths, Keyboards ETC (Track A)](https://www.youtube.com/watch?v=hqqqSykCHRo)
 
 
 ## Release Information

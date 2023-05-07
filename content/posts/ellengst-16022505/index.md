@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ---
 
-![Ellengæst by Crippled Black Phoenix](ellengst-16022505.jpg)
+{{< img src="ellengst-16022505.jpg" title="Ellengæst by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 

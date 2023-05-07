@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Ra by Utopia](ra-8117073.jpg)
+{{< img src="ra-8117073.jpg" title="Ra by Utopia" >}}
 
 <!-- section break -->
 
@@ -36,15 +36,15 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 ## Videos
-### Hiroshima
-{{< youtube id="9SmkTjw_2Yg" title="Hiroshima" >}}<br>
+### Communion With The Sun
+{{< youtube id="2bSaJ1KqqMA" title="Communion With The Sun" >}}<br>
 
 ### More Videos
 
-- [Communion With The Sun](https://www.youtube.com/watch?v=2bSaJ1KqqMA)
 - [TODD RUNDGREN / UTOPIA - RA 8 TRACK TAPE (ALTERNATE MIXES)](https://www.youtube.com/watch?v=zcpSYWL_Bn0)
 - [Overture: Mountaintop and Sunrise / Communion with the Sun](https://www.youtube.com/watch?v=bSr22WYcZtY)
 - [Singring and the Glass Guitar (An Electrified)](https://www.youtube.com/watch?v=gWbdfrY210M)
+- [Hiroshima](https://www.youtube.com/watch?v=9SmkTjw_2Yg)
 - [TODD RUNDGREN - UTOPIA - RA - DELUXE EDITION](https://www.youtube.com/watch?v=0Gdrh3qu8SQ)
 
 

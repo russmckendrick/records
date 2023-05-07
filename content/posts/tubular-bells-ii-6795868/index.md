@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Ambient", "Art Rock"]
 ---
 
-![Tubular Bells II by Mike Oldfield](tubular-bells-ii-6795868.jpg)
+{{< img src="tubular-bells-ii-6795868.jpg" title="Tubular Bells II by Mike Oldfield" >}}
 
 <!-- section break -->
 

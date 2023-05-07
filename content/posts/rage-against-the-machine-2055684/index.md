@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-![Rage Against The Machine by Rage Against The Machine](rage-against-the-machine-2055684.jpg)
+{{< img src="rage-against-the-machine-2055684.jpg" title="Rage Against The Machine by Rage Against The Machine" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Funk Metal"]
 
 
 ## Videos
-### Rage Against The Machine - Wake Up (Audio)
-{{< youtube id="4lzqUe1Qfec" title="Rage Against The Machine - Wake Up (Audio)" >}}<br>
+### Fistful of Steel
+{{< youtube id="UnRhHYaX8Cw" title="Fistful of Steel" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Funk Metal"]
 - [Settle for Nothing](https://www.youtube.com/watch?v=fLndnUeWlQo)
 - [Bullet In the Head](https://www.youtube.com/watch?v=BbbWzMGSUuE)
 - [Rage Against The Machine - Know Your Enemy (Audio)](https://www.youtube.com/watch?v=JukTvlrh-Wk)
-- [Fistful of Steel](https://www.youtube.com/watch?v=UnRhHYaX8Cw)
+- [Rage Against The Machine - Wake Up (Audio)](https://www.youtube.com/watch?v=4lzqUe1Qfec)
 - [Township Rebellion](https://www.youtube.com/watch?v=Q04d4O8etHI)
 - [Rage Against The Machine - Freedom (Official Music Video)](https://www.youtube.com/watch?v=H_vQt_v8Jmw)
 

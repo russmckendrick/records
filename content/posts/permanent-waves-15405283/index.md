@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Permanent Waves by Rush](permanent-waves-15405283.jpg)
+{{< img src="permanent-waves-15405283.jpg" title="Permanent Waves by Rush" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
 
-![We The Collective by The Levellers](we-the-collective-11647665.jpg)
+{{< img src="we-the-collective-11647665.jpg" title="We The Collective by The Levellers" >}}
 
 <!-- section break -->
 
@@ -40,17 +40,17 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 
 ## Videos
-### England My Home
-{{< youtube id="TrPa6me_JkU" title="England My Home" >}}<br>
+### One Way
+{{< youtube id="liP8T6X8Qbg" title="One Way" >}}<br>
 
 ### More Videos
 
 - [WE THE COLLECTIVE - LEVELLERS](https://www.youtube.com/watch?v=eRUKW_xvEBE)
-- [One Way](https://www.youtube.com/watch?v=liP8T6X8Qbg)
 - [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
 - [LIBERTY](https://www.youtube.com/watch?v=yUVKWu7wq0g)
 - [Drug Bust McGee - Levellers](https://www.youtube.com/watch?v=lEZwzWC8a8Y)
 - [Dance Before The Storm](https://www.youtube.com/watch?v=vA1QK16pPFs)
+- [England My Home](https://www.youtube.com/watch?v=TrPa6me_JkU)
 
 
 ## Release Information

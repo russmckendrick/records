@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Vocal"]
 ---
 
-![Nothing Has Changed by David Bowie](nothing-has-changed-6301714.jpg)
+{{< img src="nothing-has-changed-6301714.jpg" title="Nothing Has Changed by David Bowie" >}}
 
 <!-- section break -->
 

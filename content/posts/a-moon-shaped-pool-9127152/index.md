@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Indie Rock"]
 ---
 
-![A Moon Shaped Pool by Radiohead](a-moon-shaped-pool-9127152.jpg)
+{{< img src="a-moon-shaped-pool-9127152.jpg" title="A Moon Shaped Pool by Radiohead" >}}
 
 <!-- section break -->
 

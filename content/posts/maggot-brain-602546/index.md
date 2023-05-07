@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 ---
 
-![Maggot Brain by Funkadelic](maggot-brain-602546.jpg)
+{{< img src="maggot-brain-602546.jpg" title="Maggot Brain by Funkadelic" >}}
 
 <!-- section break -->
 

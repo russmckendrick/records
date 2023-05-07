@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![If You're Feeling Sinister by Belle & Sebastian](if-you-re-feeling-sinister-6242307.jpg)
+{{< img src="if-you-re-feeling-sinister-6242307.jpg" title="If You're Feeling Sinister by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Stars Of Track And Field
-{{< youtube id="yCYphHhF4Mo" title="The Stars Of Track And Field" >}}<br>
+### Get Me Away from Here, I’m Dying
+{{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}<br>
 
 ### More Videos
 
-- [Get Me Away from Here, I’m Dying](https://www.youtube.com/watch?v=O_r2K3vvbQ0)
 - [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
 - [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
+- [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
 
 
 ## Release Information

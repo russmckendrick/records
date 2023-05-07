@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Adore by The Smashing Pumpkins](adore-6172304.jpg)
+{{< img src="adore-6172304.jpg" title="Adore by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

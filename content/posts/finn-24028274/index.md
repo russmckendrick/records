@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 ---
 
-![Finn by The Finn Brothers](finn-24028274.jpg)
+{{< img src="finn-24028274.jpg" title="Finn by The Finn Brothers" >}}
 
 <!-- section break -->
 

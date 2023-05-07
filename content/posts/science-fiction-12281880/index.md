@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Science Fiction by Church Of The Cosmic Skull](science-fiction-12281880.jpg)
+{{< img src="science-fiction-12281880.jpg" title="Science Fiction by Church Of The Cosmic Skull" >}}
 
 <!-- section break -->
 

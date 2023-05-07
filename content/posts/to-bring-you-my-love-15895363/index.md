@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![To Bring You My Love by PJ Harvey](to-bring-you-my-love-15895363.jpg)
+{{< img src="to-bring-you-my-love-15895363.jpg" title="To Bring You My Love by PJ Harvey" >}}
 
 <!-- section break -->
 
@@ -38,20 +38,20 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Working For The Man
-{{< youtube id="xuQ0thdv66s" title="Working For The Man" >}}<br>
+### The Dancer
+{{< youtube id="uV99yrooqjg" title="The Dancer" >}}<br>
 
 ### More Videos
 
 - [PJ Harvey - Down By The Water](https://www.youtube.com/watch?v=lbq4G1TjKYg)
 - [To Bring You My Love](https://www.youtube.com/watch?v=P-O91rE4Fe0)
 - [Meet Ze Monsta](https://www.youtube.com/watch?v=hQNMZshcU6k)
+- [Working For The Man](https://www.youtube.com/watch?v=xuQ0thdv66s)
 - [PJ Harvey - C'mon Billy](https://www.youtube.com/watch?v=pr1j3GfJuR4)
 - [Teclo](https://www.youtube.com/watch?v=4qU0IWBAm-s)
 - [Long Snake Moan](https://www.youtube.com/watch?v=mbuvj1k_LIc)
 - [I Think I'm A Mother](https://www.youtube.com/watch?v=d_AVPjUfsJQ)
 - [PJ Harvey - Send His Love To Me](https://www.youtube.com/watch?v=rsUIl7qVzYw)
-- [The Dancer](https://www.youtube.com/watch?v=uV99yrooqjg)
 
 
 ## Release Information

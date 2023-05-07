@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Soul-Jazz"]
 ---
 
-![My Baby Just Cares For Me by Nina Simone](my-baby-just-cares-for-me-3895928.jpg)
+{{< img src="my-baby-just-cares-for-me-3895928.jpg" title="My Baby Just Cares For Me by Nina Simone" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Acoustic"]
 ---
 
-![Days Of The New by Days Of The New](days-of-the-new-25237945.jpg)
+{{< img src="days-of-the-new-25237945.jpg" title="Days Of The New by Days Of The New" >}}
 
 <!-- section break -->
 

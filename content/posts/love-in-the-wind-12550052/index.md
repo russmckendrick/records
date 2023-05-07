@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Doo Wop", "Soul", "Surf"]
 ---
 
-![Love in the Wind by The Sha La Das](love-in-the-wind-12550052.jpg)
+{{< img src="love-in-the-wind-12550052.jpg" title="Love in the Wind by The Sha La Das" >}}
 
 <!-- section break -->
 

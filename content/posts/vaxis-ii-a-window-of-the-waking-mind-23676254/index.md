@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Vaxis II: A Window of the Waking Mind by Coheed And Cambria](vaxis-ii-a-window-of-the-waking-mind-23676254.jpg)
+{{< img src="vaxis-ii-a-window-of-the-waking-mind-23676254.jpg" title="Vaxis II: A Window of the Waking Mind by Coheed And Cambria" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Coheed and Cambria - Blood (Official Audio)
-{{< youtube id="nP7X8M-ngqU" title="Coheed and Cambria - Blood (Official Audio)" >}}<br>
+### Coheed and Cambria - Ladders of Supremacy (Official Audio)
+{{< youtube id="1YNsq20co-o" title="Coheed and Cambria - Ladders of Supremacy (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -53,10 +53,10 @@ styles: ["Prog Rock"]
 - [Coheed and Cambria - Shoulders (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=-Tb_v8MFbF8)
 - [Coheed and Cambria - A Disappearing Act (Official Audio)](https://www.youtube.com/watch?v=QbmQH2LnuNs)
 - [Coheed and Cambria - Love Murder One (Official Audio)](https://www.youtube.com/watch?v=2dgLtjx-ZFg)
+- [Coheed and Cambria - Blood (Official Audio)](https://www.youtube.com/watch?v=nP7X8M-ngqU)
 - [Coheed and Cambria - The Liars Club (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=ltKTHtMmDJQ)
 - [Coheed and Cambria - Bad Man (Official Audio)](https://www.youtube.com/watch?v=cOUCJUgVzIw)
 - [Coheed and Cambria - Our Love (Official Audio)](https://www.youtube.com/watch?v=7Ka43I-cN7g)
-- [Coheed and Cambria - Ladders of Supremacy (Official Audio)](https://www.youtube.com/watch?v=1YNsq20co-o)
 - [Coheed and Cambria - Rise, Naianasha (Cut The Cord) [Official Lyric Video]](https://www.youtube.com/watch?v=2BFqmKtLj1s)
 - [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
 - [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)

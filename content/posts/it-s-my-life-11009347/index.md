@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![It's My Life by Talk Talk](it-s-my-life-11009347.jpg)
+{{< img src="it-s-my-life-11009347.jpg" title="It's My Life by Talk Talk" >}}
 
 <!-- section break -->
 
@@ -37,15 +37,15 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Talk Talk - It's My Life ( Official Video)
-{{< youtube id="cFH5JgyZK1I" title="Talk Talk - It's My Life ( Official Video)" >}}<br>
+### Renee (1997 Remaster)
+{{< youtube id="KfB-iIrJy-s" title="Renee (1997 Remaster)" >}}<br>
 
 ### More Videos
 
+- [Talk Talk - It's My Life ( Official Video)](https://www.youtube.com/watch?v=cFH5JgyZK1I)
 - [Dum Dum Girl (1997 Remaster)](https://www.youtube.com/watch?v=dzMhTPl-uv0)
 - [Talk Talk - Such A Shame (Official Video)](https://www.youtube.com/watch?v=lLdvpFIPReA)
 - [Talk Talk - Such A Shame (Album Version) (HQ)](https://www.youtube.com/watch?v=ZILD_vKEoNE)
-- [Renee (1997 Remaster)](https://www.youtube.com/watch?v=KfB-iIrJy-s)
 - [It's My Life (1997 Remaster)](https://www.youtube.com/watch?v=yWQezjGjiqs)
 - [Tomorrow Started (1997 Remaster)](https://www.youtube.com/watch?v=F5s0oynBz7M)
 - [The Last Time (1997 Remaster)](https://www.youtube.com/watch?v=dsDpI1TiQMs)

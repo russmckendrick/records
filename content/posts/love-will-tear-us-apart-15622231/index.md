@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-![Love Will Tear Us Apart by Joy Division](love-will-tear-us-apart-15622231.jpg)
+{{< img src="love-will-tear-us-apart-15622231.jpg" title="Love Will Tear Us Apart by Joy Division" >}}
 
 <!-- section break -->
 
@@ -31,12 +31,12 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Joy Division: Love Will Tear Us Apart 95
-{{< youtube id="k3_C710an9w" title="Joy Division: Love Will Tear Us Apart 95" >}}<br>
+### Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]
+{{< youtube id="zuuObGsB0No" title="Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=zuuObGsB0No)
+- [Joy Division: Love Will Tear Us Apart 95](https://www.youtube.com/watch?v=k3_C710an9w)
 - [These Days](https://www.youtube.com/watch?v=RNKk8TYnZZ8)
 - [Joy Division - Love Will Tear Us Apart '95 (Radio Version) Lyrics](https://www.youtube.com/watch?v=yLVcOrdzkRc)
 - [Joy Division - Love will tear us apart (Arthur Baker Remix)](https://www.youtube.com/watch?v=uiqoCWvmQY8)

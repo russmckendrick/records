@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock"]
 ---
 
-![Bambu (The Caribou Sessions) by Dennis Wilson](bambu-the-caribou-sessions-10171845.jpg)
+{{< img src="bambu-the-caribou-sessions-10171845.jpg" title="Bambu (The Caribou Sessions) by Dennis Wilson" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,11 @@ styles: ["Pop Rock", "Soft Rock"]
 
 
 ## Videos
-### Time for Bed
-{{< youtube id="eNhetx0ll4I" title="Time for Bed" >}}<br>
+### It's Not Too Late
+{{< youtube id="t9K6LGai3n0" title="It's Not Too Late" >}}<br>
 
 ### More Videos
 
-- [It's Not Too Late](https://www.youtube.com/watch?v=t9K6LGai3n0)
 - [Under the Moonlight](https://www.youtube.com/watch?v=-WCTTUZXG9s)
 - [School Girl](https://www.youtube.com/watch?v=d8JZuUsYmVE)
 - [Love Remember Me](https://www.youtube.com/watch?v=am35689AWpk)
@@ -58,6 +57,7 @@ styles: ["Pop Rock", "Soft Rock"]
 - [Cocktails](https://www.youtube.com/watch?v=hed-71y5eTo)
 - [I Love You](https://www.youtube.com/watch?v=ov1ude7rmkU)
 - [Constant Companion](https://www.youtube.com/watch?v=FbGhAwbAAbs)
+- [Time for Bed](https://www.youtube.com/watch?v=eNhetx0ll4I)
 - [Album Tag Song](https://www.youtube.com/watch?v=HMoyY_08JvI)
 - [All Alone](https://www.youtube.com/watch?v=VC5v5kXgYl0)
 - [Piano Variations On Thoughts of You](https://www.youtube.com/watch?v=iL3vtS7Mfj8)

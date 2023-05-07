@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ---
 
-![Blue For You by Status Quo](blue-for-you-7580826.jpg)
+{{< img src="blue-for-you-7580826.jpg" title="Blue For You by Status Quo" >}}
 
 <!-- section break -->
 

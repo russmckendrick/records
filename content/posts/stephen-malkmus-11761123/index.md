@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Stephen Malkmus by Stephen Malkmus](stephen-malkmus-11761123.jpg)
+{{< img src="stephen-malkmus-11761123.jpg" title="Stephen Malkmus by Stephen Malkmus" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Stephen Malkmus - Jenny And The Ess-Dog (Official Video)
-{{< youtube id="GgPuX759XBw" title="Stephen Malkmus - Jenny And The Ess-Dog (Official Video)" >}}<br>
+### Stephen Malkmus & The Jicks - Phantasies
+{{< youtube id="2jFkf-XhSks" title="Stephen Malkmus & The Jicks - Phantasies" >}}<br>
 
 ### More Videos
 
-- [Stephen Malkmus & The Jicks - Phantasies](https://www.youtube.com/watch?v=2jFkf-XhSks)
+- [Stephen Malkmus - Jenny And The Ess-Dog (Official Video)](https://www.youtube.com/watch?v=GgPuX759XBw)
 - [Stephen Malkmus - Discretion Grove (Official Video)](https://www.youtube.com/watch?v=p08LPjq2e20)
 - [Stephen Malkmus - Jo Jo's Jacket (Official Video)](https://www.youtube.com/watch?v=ve7tpz1juyM)
 - [Stephen Malkmus & The Jicks - Pink India](https://www.youtube.com/watch?v=eMcmDTX1JwQ)

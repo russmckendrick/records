@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Boys and Girls in America by The Hold Steady](boys-and-girls-in-america-9520767.jpg)
+{{< img src="boys-and-girls-in-america-9520767.jpg" title="Boys and Girls in America by The Hold Steady" >}}
 
 <!-- section break -->
 

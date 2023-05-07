@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
-![Love & Hate by Michael Kiwanuka](love-hate-8778580.jpg)
+{{< img src="love-hate-8778580.jpg" title="Love & Hate by Michael Kiwanuka" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 
 
 ## Videos
-### Black Man In A White World
-{{< youtube id="uFcFeZJN70w" title="Black Man In A White World" >}}<br>
+### Falling
+{{< youtube id="31fRP5GrNVs" title="Falling" >}}<br>
 
 ### More Videos
 
 - [Michael Kiwanuka - Cold Little Heart (Full Version)](https://www.youtube.com/watch?v=FGG5K1XLgkA)
-- [Falling](https://www.youtube.com/watch?v=31fRP5GrNVs)
+- [Black Man In A White World](https://www.youtube.com/watch?v=uFcFeZJN70w)
 - [Place I Belong](https://www.youtube.com/watch?v=aZ_djVNez3k)
 - [Love & Hate](https://www.youtube.com/watch?v=w44dlsnJ1no)
 - [One More Night](https://www.youtube.com/watch?v=anzFiFhX7rA)

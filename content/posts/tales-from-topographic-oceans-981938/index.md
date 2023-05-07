@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Tales From Topographic Oceans by Yes](tales-from-topographic-oceans-981938.jpg)
+{{< img src="tales-from-topographic-oceans-981938.jpg" title="Tales From Topographic Oceans by Yes" >}}
 
 <!-- section break -->
 

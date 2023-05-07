@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Breaks"]
 ---
 
-![The Fat Of The Land by The Prodigy](the-fat-of-the-land-19605292.jpg)
+{{< img src="the-fat-of-the-land-19605292.jpg" title="The Fat Of The Land by The Prodigy" >}}
 
 <!-- section break -->
 

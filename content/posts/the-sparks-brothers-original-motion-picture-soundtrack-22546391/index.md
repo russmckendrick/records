@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 ---
 
-![The Sparks Brothers (Original Motion Picture Soundtrack) by Sparks](the-sparks-brothers-original-motion-picture-soundtrack-22546391.jpg)
+{{< img src="the-sparks-brothers-original-motion-picture-soundtrack-22546391.jpg" title="The Sparks Brothers (Original Motion Picture Soundtrack) by Sparks" >}}
 
 <!-- section break -->
 

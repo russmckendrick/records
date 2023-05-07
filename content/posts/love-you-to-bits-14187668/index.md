@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Disco", "Ambient"]
 ---
 
-![Love You To Bits by No-Man](love-you-to-bits-14187668.jpg)
+{{< img src="love-you-to-bits-14187668.jpg" title="Love You To Bits by No-Man" >}}
 
 <!-- section break -->
 
@@ -30,15 +30,15 @@ styles: ["Electro", "Disco", "Ambient"]
 
 
 ## Videos
-### Love You To Pieces (Piece 2)
-{{< youtube id="agTp7aqCcaQ" title="Love You To Pieces (Piece 2)" >}}<br>
+### Love You To Bits (Bit 5)
+{{< youtube id="UJYmPkJ3G84" title="Love You To Bits (Bit 5)" >}}<br>
 
 ### More Videos
 
 - [Love You To Bits (Bit 1)](https://www.youtube.com/watch?v=eWRjB06579s)
 - [No-Man - Love You to Bits (complete)](https://www.youtube.com/watch?v=HO0cKeyf7i8)
 - [Love You To Shreds (Shreds 1-3)](https://www.youtube.com/watch?v=9epzkVDQUQc)
-- [Love You To Bits (Bit 5)](https://www.youtube.com/watch?v=UJYmPkJ3G84)
+- [Love You To Pieces (Piece 2)](https://www.youtube.com/watch?v=agTp7aqCcaQ)
 - [Love You To Pieces (Piece 3)](https://www.youtube.com/watch?v=om31vZrdvLI)
 - [Love You To Pieces (Piece 4)](https://www.youtube.com/watch?v=NEBgViwr_bQ)
 - [Love You To Pieces (Piece 5)](https://www.youtube.com/watch?v=UB0W7ax8Hws)

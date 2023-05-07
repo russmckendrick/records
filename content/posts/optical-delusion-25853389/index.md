@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno"]
 ---
 
-![Optical Delusion by Orbital](optical-delusion-25853389.jpg)
+{{< img src="optical-delusion-25853389.jpg" title="Optical Delusion by Orbital" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Techno"]
 
 
 ## Videos
-### Dirty Rat
-{{< youtube id="z_93fLDRAqw" title="Dirty Rat" >}}<br>
+### You Are the Frequency
+{{< youtube id="DPgqSEE6iZk" title="You Are the Frequency" >}}<br>
 
 ### More Videos
 
@@ -47,9 +47,9 @@ styles: ["Techno"]
 - [Ringa Ringa (The Old Pandemic Folk Song)](https://www.youtube.com/watch?v=R2mvu3g2Qlk)
 - [Day One](https://www.youtube.com/watch?v=8P3C7vY0wcc)
 - [Are You Alive?](https://www.youtube.com/watch?v=odb7NkiZwuQ)
-- [You Are the Frequency](https://www.youtube.com/watch?v=DPgqSEE6iZk)
 - [The New Abnormal](https://www.youtube.com/watch?v=WoBIDnYqrzY)
 - [Home](https://www.youtube.com/watch?v=vGyekX8hmFs)
+- [Dirty Rat](https://www.youtube.com/watch?v=z_93fLDRAqw)
 - [Requiem for the Pre-Apocalypse](https://www.youtube.com/watch?v=9D3NXmsVIo4)
 - [What a Surprise](https://www.youtube.com/watch?v=Lq8PEoEq8Y8)
 - [Moon Princess](https://www.youtube.com/watch?v=74BoaOdnEqA)

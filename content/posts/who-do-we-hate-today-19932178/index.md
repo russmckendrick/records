@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-![Who Do We Hate Today by Jim Bob](who-do-we-hate-today-19932178.jpg)
+{{< img src="who-do-we-hate-today-19932178.jpg" title="Who Do We Hate Today by Jim Bob" >}}
 
 <!-- section break -->
 
@@ -38,11 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Jim's Bed Of Unease (Intro)
-{{< youtube id="DnkIJYBaDOg" title="Jim's Bed Of Unease (Intro)" >}}<br>
+### Who Do We Hate Today?
+{{< youtube id="BlX-YtXrMeQ" title="Who Do We Hate Today?" >}}<br>
 
 ### More Videos
 
+- [Jim's Bed Of Unease (Intro)](https://www.youtube.com/watch?v=DnkIJYBaDOg)
 - [Jim Bob - The Earth Bleeds Out [Official Video]](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
 - [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
 - [Shona Is Dating A Drunk, Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
@@ -54,7 +55,6 @@ styles: ["Alternative Rock"]
 - [Jim Bob - SONG FOR THE UNSUNG (You’re So Modest You’ll Never Think This Song is About You)](https://www.youtube.com/watch?v=MAkb1Jj08JM)
 - [Evan Knows The Sirens](https://www.youtube.com/watch?v=GDdJ15y74Lo)
 - [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
-- [Who Do We Hate Today?](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Tigermilk by Belle & Sebastian](tigermilk-6247282.jpg)
+{{< img src="tigermilk-6247282.jpg" title="Tigermilk by Belle & Sebastian" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Different Light by Bangles](different-light-24530885.jpg)
+{{< img src="different-light-24530885.jpg" title="Different Light by Bangles" >}}
 
 <!-- section break -->
 

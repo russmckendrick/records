@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Sounds That Can't Be Made by Marillion](sounds-that-can-t-be-made-5101713.jpg)
+{{< img src="sounds-that-can-t-be-made-5101713.jpg" title="Sounds That Can't Be Made by Marillion" >}}
 
 <!-- section break -->
 

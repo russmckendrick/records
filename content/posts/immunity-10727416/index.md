@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 ---
 
-![Immunity by Jon Hopkins](immunity-10727416.jpg)
+{{< img src="immunity-10727416.jpg" title="Immunity by Jon Hopkins" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 
 
 ## Videos
-### Jon Hopkins - Immunity
-{{< youtube id="Y8eQR5DMous" title="Jon Hopkins - Immunity" >}}<br>
+### Jon Hopkins - Sun Harmonics 124/Bpm - Vinyl
+{{< youtube id="SeiTV2iiUDQ" title="Jon Hopkins - Sun Harmonics 124/Bpm - Vinyl" >}}<br>
 
 ### More Videos
 
@@ -47,6 +47,7 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 - [Jon Hopkins - Abandon Window [Immunity]](https://www.youtube.com/watch?v=FjI-Vtrax_w)
 - [Jon Hopkins - Form By Firelight [Immunity]](https://www.youtube.com/watch?v=8hj-ubtGqTw)
 - [Jon Hopkins - Sun Harmonics [Immunity]](https://www.youtube.com/watch?v=B0yES8tjCAg)
+- [Jon Hopkins - Immunity](https://www.youtube.com/watch?v=Y8eQR5DMous)
 - [Jon Hopkins - Open Eye Signal (Official Music Video)](https://www.youtube.com/watch?v=Q04ILDXe3QE)
 - [Jon Hopkins - Open Eye Signal 125/Bpm - Vinyl](https://www.youtube.com/watch?v=7xRENp6n6os)
 - [Jon Hopkins - Immunity 81/Bpm - Vinyl](https://www.youtube.com/watch?v=APqBESvT66M)
@@ -54,7 +55,6 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 - [Jon Hopkins - Collider 117/Bpm - Vinyl](https://www.youtube.com/watch?v=cGqRHUxyhf4)
 - [Jon Hopkins - Form By Firelight 141/Bpm - Vinyl](https://www.youtube.com/watch?v=I4XMY3-uouM)
 - [Jon Hopkins - Abandon Window 154/Bpm - Vinyl](https://www.youtube.com/watch?v=Gmhyr8konJk)
-- [Jon Hopkins - Sun Harmonics 124/Bpm - Vinyl](https://www.youtube.com/watch?v=SeiTV2iiUDQ)
 
 
 ## Release Information

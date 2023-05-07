@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Clockwork Angels by Rush](clockwork-angels-4835484.jpg)
+{{< img src="clockwork-angels-4835484.jpg" title="Clockwork Angels by Rush" >}}
 
 <!-- section break -->
 

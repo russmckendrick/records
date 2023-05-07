@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 ---
 
-![In League With Dragons by The Mountain Goats](in-league-with-dragons-13531986.jpg)
+{{< img src="in-league-with-dragons-13531986.jpg" title="In League With Dragons by The Mountain Goats" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 
 
 ## Videos
-### The Mountain Goats Sicilian Crest (Official Audio)
-{{< youtube id="yHDsTbMcm_k" title="The Mountain Goats Sicilian Crest (Official Audio)" >}}<br>
+### The Mountain Goats Cadaver Sniffing Dog
+{{< youtube id="YhWmbViBAxg" title="The Mountain Goats Cadaver Sniffing Dog" >}}<br>
 
 ### More Videos
 
 - [The Mountain Goats Younger](https://www.youtube.com/watch?v=987MTbOl0mc)
-- [The Mountain Goats Cadaver Sniffing Dog](https://www.youtube.com/watch?v=YhWmbViBAxg)
+- [The Mountain Goats Sicilian Crest (Official Audio)](https://www.youtube.com/watch?v=yHDsTbMcm_k)
 - [The Mountain Goats ★ Done Bleeding [HQ]](https://www.youtube.com/watch?v=5q5autRy7RU)
 
 

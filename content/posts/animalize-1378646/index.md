@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Animalize by Kiss](animalize-1378646.jpg)
+{{< img src="animalize-1378646.jpg" title="Animalize by Kiss" >}}
 
 <!-- section break -->
 

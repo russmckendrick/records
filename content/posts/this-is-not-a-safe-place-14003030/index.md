@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 ---
 
-![This Is Not A Safe Place by Ride](this-is-not-a-safe-place-14003030.jpg)
+{{< img src="this-is-not-a-safe-place-14003030.jpg" title="This Is Not A Safe Place by Ride" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - Shadows Behind the Sun (2019)
-{{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun (2019)" >}}<br>
+### Future Love (Official video)
+{{< youtube id="3cN0vWnVaHU" title="Future Love (Official video)" >}}<br>
 
 ### More Videos
 
-- [Future Love (Official video)](https://www.youtube.com/watch?v=3cN0vWnVaHU)
+- [Ride - Shadows Behind the Sun (2019)](https://www.youtube.com/watch?v=ni-t8eDXF_0)
 
 
 ## Release Information

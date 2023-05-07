@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Hatful Of Hollow by The Smiths](hatful-of-hollow-4418602.jpg)
+{{< img src="hatful-of-hollow-4418602.jpg" title="Hatful Of Hollow by The Smiths" >}}
 
 <!-- section break -->
 

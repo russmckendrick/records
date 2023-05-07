@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Art Rock", "Funk"]
 ---
 
-![The Name Of This Band Is Talking Heads by Talking Heads](the-name-of-this-band-is-talking-heads-16809120.jpg)
+{{< img src="the-name-of-this-band-is-talking-heads-16809120.jpg" title="The Name Of This Band Is Talking Heads by Talking Heads" >}}
 
 <!-- section break -->
 
@@ -45,8 +45,8 @@ styles: ["New Wave", "Art Rock", "Funk"]
 
 
 ## Videos
-### Take Me to the River (Live at Central Park) (2004 Remaster)
-{{< youtube id="G6rUomO27G4" title="Take Me to the River (Live at Central Park) (2004 Remaster)" >}}<br>
+### Memories (Can't Wait) (2004 Remaster)
+{{< youtube id="d_DdC3PlVdo" title="Memories (Can't Wait) (2004 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["New Wave", "Art Rock", "Funk"]
 - [Psycho Killer (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=nGhPaJw8p6c)
 - [A Clean Break (Let's Work) (Live) (2004 Remaster)](https://www.youtube.com/watch?v=-vhtCe4PmHA)
 - [Life During Wartime (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=GTIkfzGiIyo)
-- [Memories (Can't Wait) (2004 Remaster)](https://www.youtube.com/watch?v=d_DdC3PlVdo)
 - [Drugs (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=nZ8GumPYT5E)
 - [Born Under Punches (The Heat Goes On) (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=zJpzHoo4XAQ)
 - [Once in a Lifetime (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=NCd5OCpeJjw)
+- [Take Me to the River (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=G6rUomO27G4)
 - [The Great Curve (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=2iYETa3pa6U)
 - [Houses in Motion (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=9GG2oiTGGT0)
 - [Heaven (Live at Emerald City, New Jersey)](https://www.youtube.com/watch?v=5uBKmnVi0r4)

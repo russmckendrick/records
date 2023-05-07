@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Faithful by Todd Rundgren](faithful-1692998.jpg)
+{{< img src="faithful-1692998.jpg" title="Faithful by Todd Rundgren" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
 ---
 
-![Oczy Mlody by The Flaming Lips](oczy-mlody-9646592.jpg)
+{{< img src="oczy-mlody-9646592.jpg" title="Oczy Mlody by The Flaming Lips" >}}
 
 <!-- section break -->
 

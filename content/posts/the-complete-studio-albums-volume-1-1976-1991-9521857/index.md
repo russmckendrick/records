@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Pop Rock"]
 ---
 
-![The Complete Studio Albums Volume 1 (1976-1991) by Tom Petty And The Heartbreakers](the-complete-studio-albums-volume-1-1976-1991-9521857.jpg)
+{{< img src="the-complete-studio-albums-volume-1-1976-1991-9521857.jpg" title="The Complete Studio Albums Volume 1 (1976-1991) by Tom Petty And The Heartbreakers" >}}
 
 <!-- section break -->
 

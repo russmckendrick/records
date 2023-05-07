@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Glam", "Hard Rock"]
 ---
 
-![Metrobolist (Nine Songs By David Bowie) by David Bowie](metrobolist-nine-songs-by-david-bowie-16135214.jpg)
+{{< img src="metrobolist-nine-songs-by-david-bowie-16135214.jpg" title="Metrobolist (Nine Songs By David Bowie) by David Bowie" >}}
 
 <!-- section break -->
 

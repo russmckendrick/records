@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Souvenir by Orchestral Manoeuvres In The Dark](souvenir-14216215.jpg)
+{{< img src="souvenir-14216215.jpg" title="Souvenir by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![Suede by Suede](suede-5438130.jpg)
+{{< img src="suede-5438130.jpg" title="Suede by Suede" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### Suede - Sleeping Pills (Audio Only)
-{{< youtube id="2e5N0tn1-7s" title="Suede - Sleeping Pills (Audio Only)" >}}<br>
+### Suede - So Young
+{{< youtube id="twoO3xYRsz0" title="Suede - So Young" >}}<br>
 
 ### More Videos
 
-- [Suede - So Young](https://www.youtube.com/watch?v=twoO3xYRsz0)
+- [Suede - Sleeping Pills (Audio Only)](https://www.youtube.com/watch?v=2e5N0tn1-7s)
 
 
 ## Release Information

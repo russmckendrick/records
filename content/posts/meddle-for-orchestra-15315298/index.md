@@ -14,7 +14,7 @@ genres: ["Classical"]
 styles: []
 ---
 
-![Meddle For Orchestra by Pink Floyd](meddle-for-orchestra-15315298.jpg)
+{{< img src="meddle-for-orchestra-15315298.jpg" title="Meddle For Orchestra by Pink Floyd" >}}
 
 <!-- section break -->
 

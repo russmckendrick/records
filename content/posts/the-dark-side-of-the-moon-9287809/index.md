@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-![The Dark Side Of The Moon by Pink Floyd](the-dark-side-of-the-moon-9287809.jpg)
+{{< img src="the-dark-side-of-the-moon-9287809.jpg" title="The Dark Side Of The Moon by Pink Floyd" >}}
 
 <!-- section break -->
 

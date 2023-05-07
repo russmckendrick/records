@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Symphonic Rock", "Prog Rock"]
 ---
 
-![Clutching At Straws by Marillion](clutching-at-straws-12802669.jpg)
+{{< img src="clutching-at-straws-12802669.jpg" title="Clutching At Straws by Marillion" >}}
 
 <!-- section break -->
 

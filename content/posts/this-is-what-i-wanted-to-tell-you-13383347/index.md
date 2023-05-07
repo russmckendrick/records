@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 ---
 
-![This (Is What I Wanted To Tell You) by Lambchop](this-is-what-i-wanted-to-tell-you-13383347.jpg)
+{{< img src="this-is-what-i-wanted-to-tell-you-13383347.jpg" title="This (Is What I Wanted To Tell You) by Lambchop" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 
 
 ## Videos
-### Lambchop - 'Crosswords, or What This Says About You' (Official Video)
-{{< youtube id="xPERKl54QBY" title="Lambchop - 'Crosswords, or What This Says About You' (Official Video)" >}}<br>
+### Lambchop - Everything For You (Official Video)
+{{< youtube id="u8NxdNERUGc" title="Lambchop - Everything For You (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Lambchop - Everything For You (Official Video)](https://www.youtube.com/watch?v=u8NxdNERUGc)
+- [Lambchop - 'Crosswords, or What This Says About You' (Official Video)](https://www.youtube.com/watch?v=xPERKl54QBY)
 
 
 ## Release Information

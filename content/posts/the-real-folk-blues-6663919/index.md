@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
 
-![The Real Folk Blues by Howlin' Wolf](the-real-folk-blues-6663919.jpg)
+{{< img src="the-real-folk-blues-6663919.jpg" title="The Real Folk Blues by Howlin' Wolf" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Chicago Blues"]
 
 
 ## Videos
-### Louise
-{{< youtube id="W4oUtgN9HqE" title="Louise" >}}<br>
+### Three Hundred Pounds Of Joy
+{{< youtube id="UzHXBJKP72U" title="Three Hundred Pounds Of Joy" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Chicago Blues"]
 - [Killing Floor](https://www.youtube.com/watch?v=CHrVB35kTrE)
 - [Tell Me What I've Done](https://www.youtube.com/watch?v=sJQzde1L5UI)
 - [Poor Boy](https://www.youtube.com/watch?v=FsagiHRjaHY)
+- [Louise](https://www.youtube.com/watch?v=W4oUtgN9HqE)
 - [Built For Comfort](https://www.youtube.com/watch?v=VoO1q5KSi6w)
-- [Three Hundred Pounds Of Joy](https://www.youtube.com/watch?v=UzHXBJKP72U)
 - [Tail Dragger](https://www.youtube.com/watch?v=m4ucJ8ShLHg)
 - [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
 - [Howlin' Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)

@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk"]
 ---
 
-![The Heart Of Saturday Night by Tom Waits](the-heart-of-saturday-night-11978889.jpg)
+{{< img src="the-heart-of-saturday-night-11978889.jpg" title="The Heart Of Saturday Night by Tom Waits" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Blues Rock", "Folk"]
 
 
 ## Videos
-### Tom Waits - The Heart of Saturday Night  (Full Album)
-{{< youtube id="nqSnZv3JV0M" title="Tom Waits - The Heart of Saturday Night  (Full Album)" >}}<br>
+### Tom Waits - (Looking For) The Heart Of Saturday Night
+{{< youtube id="lbH6BUNsuts" title="Tom Waits - (Looking For) The Heart Of Saturday Night" >}}<br>
 
 ### More Videos
 
-- [Tom Waits - (Looking For) The Heart Of Saturday Night](https://www.youtube.com/watch?v=lbH6BUNsuts)
+- [Tom Waits - The Heart of Saturday Night  (Full Album)](https://www.youtube.com/watch?v=nqSnZv3JV0M)
 
 
 ## Release Information

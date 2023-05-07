@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
 
-![Whatever It Takes by The James Hunter Six](whatever-it-takes-11497989.jpg)
+{{< img src="whatever-it-takes-11497989.jpg" title="Whatever It Takes by The James Hunter Six" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### I Got Eyes
-{{< youtube id="JLY3mzivXRA" title="I Got Eyes" >}}<br>
+### Show Her
+{{< youtube id="3Sb0Rx_O8rc" title="Show Her" >}}<br>
 
 ### More Videos
 
 - [I Don't Wanna Be Without You](https://www.youtube.com/watch?v=Y7Kc_zDU2RI)
 - [Whatever It Takes](https://www.youtube.com/watch?v=s---v0I-fnc)
+- [I Got Eyes](https://www.youtube.com/watch?v=JLY3mzivXRA)
 - [Mm-Hmm](https://www.youtube.com/watch?v=KuYL9szNGsI)
 - [Blisters](https://www.youtube.com/watch?v=yVpO4R8qd7w)
 - [I Should've Spoke Up](https://www.youtube.com/watch?v=di90SP63Ahg)
-- [Show Her](https://www.youtube.com/watch?v=3Sb0Rx_O8rc)
 - [Don't Let Pride Take You for a Ride](https://www.youtube.com/watch?v=6SQGydlB8ls)
 - [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
 - [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)

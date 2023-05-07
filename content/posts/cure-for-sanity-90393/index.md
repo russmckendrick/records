@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 ---
 
-![Cure For Sanity by Pop Will Eat Itself](cure-for-sanity-90393.jpg)
+{{< img src="cure-for-sanity-90393.jpg" title="Cure For Sanity by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -45,8 +45,8 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 
 
 ## Videos
-### Medicine Man Speak With Forked Tongue
-{{< youtube id="9m0_amxpUv0" title="Medicine Man Speak With Forked Tongue" >}}<br>
+### Dance of the Mad Bastards
+{{< youtube id="nkDlSTjJBiE" title="Dance of the Mad Bastards" >}}<br>
 
 ### More Videos
 
@@ -63,11 +63,11 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 - [Dr. Nightmare's Medication Time](https://www.youtube.com/watch?v=iWDDER65_5E)
 - [88 Seconds... & Still Counting](https://www.youtube.com/watch?v=Qq_JYHTHj74)
 - [Pop Will Eat Itself - Dance Of The Mad Bastards (Feet On Heat Mix)](https://www.youtube.com/watch?v=mKvc_jgK9mU)
-- [Dance of the Mad Bastards](https://www.youtube.com/watch?v=nkDlSTjJBiE)
 - [Psychosexual](https://www.youtube.com/watch?v=FGsVEcBbTMk)
 - [City Zen Radio 1990/2000 FM](https://www.youtube.com/watch?v=UUN68Zc2C5w)
 - [The Incredible PWEI VS the Moral Majority](https://www.youtube.com/watch?v=s-1OIIW2by0)
 - [X, Y & Zee](https://www.youtube.com/watch?v=5Ec0o93zoYI)
+- [Medicine Man Speak With Forked Tongue](https://www.youtube.com/watch?v=9m0_amxpUv0)
 
 
 ## Release Information

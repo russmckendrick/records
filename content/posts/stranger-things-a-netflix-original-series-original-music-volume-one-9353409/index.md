@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-![Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon](stranger-things-a-netflix-original-series-original-music-volume-one-9353409.jpg)
+{{< img src="stranger-things-a-netflix-original-series-original-music-volume-one-9353409.jpg" title="Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon" >}}
 
 <!-- section break -->
 
@@ -61,13 +61,12 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### Hawkins Lab
-{{< youtube id="sIKtdbETG9Q" title="Hawkins Lab" >}}<br>
+### Stranger Things Soundtrack Vol. 1 (Chiptune Edition)
+{{< youtube id="X8ngDjOqhAE" title="Stranger Things Soundtrack Vol. 1 (Chiptune Edition)" >}}<br>
 
 ### More Videos
 
 - [The Upside Down](https://www.youtube.com/watch?v=vqffY-6OVKc)
-- [Stranger Things Soundtrack Vol. 1 (Chiptune Edition)](https://www.youtube.com/watch?v=X8ngDjOqhAE)
 - [Kyle Dixon & Michael Stein - Kids (Stranger Things - Vol. 1), 2016](https://www.youtube.com/watch?v=V2f5eHmMEdo)
 - [Kyle Dixon & Michael Stein - Stranger Things Theme - Soundtrack (Extended) | Vinyl Record](https://www.youtube.com/watch?v=9O_lPBKrSeE)
 - [Kids](https://www.youtube.com/watch?v=Ha2OcL_0gtM)
@@ -78,6 +77,7 @@ styles: ["Soundtrack", "Score"]
 - [Lay-Z-Boy](https://www.youtube.com/watch?v=oVd9DKANMZo)
 - [A Kiss](https://www.youtube.com/watch?v=Hnu1fBUjjMQ)
 - [Theoretically](https://www.youtube.com/watch?v=eCmC9PcO4os)
+- [Hawkins Lab](https://www.youtube.com/watch?v=sIKtdbETG9Q)
 - [What Else Is There to Do?](https://www.youtube.com/watch?v=rzoQ6O-1FbM)
 - [You Can Talk to Me](https://www.youtube.com/watch?v=rdNF1ekZF3E)
 

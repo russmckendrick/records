@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Breakbeat", "Indie Rock"]
 ---
 
-![X Y & Zee by Pop Will Eat Itself](x-y-zee-432985.jpg)
+{{< img src="x-y-zee-432985.jpg" title="X Y & Zee by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -28,12 +28,12 @@ styles: ["Breakbeat", "Indie Rock"]
 
 
 ## Videos
-### Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix
-{{< youtube id="UKVYQFQ_wOg" title="Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix" >}}<br>
+### Pop Will Eat Itself - Axe of Men
+{{< youtube id="bd_lMQ_aM5c" title="Pop Will Eat Itself - Axe of Men" >}}<br>
 
 ### More Videos
 
-- [Pop Will Eat Itself - Axe of Men](https://www.youtube.com/watch?v=bd_lMQ_aM5c)
+- [Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix](https://www.youtube.com/watch?v=UKVYQFQ_wOg)
 - [Pop Will Eat Itself - X, Y & Zee (Video)](https://www.youtube.com/watch?v=FcyTCoChsf8)
 - [X, Y & Zee (Electric Sunshine Style)](https://www.youtube.com/watch?v=VHnt11bZdAY)
 - [Pop Will Eat Itself ‎- X Y & Zee](https://www.youtube.com/watch?v=EDuBS2U1kjg)

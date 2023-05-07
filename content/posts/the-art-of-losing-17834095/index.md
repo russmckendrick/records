@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Art Of Losing by The Anchoress](the-art-of-losing-17834095.jpg)
+{{< img src="the-art-of-losing-17834095.jpg" title="The Art Of Losing by The Anchoress" >}}
 
 <!-- section break -->
 

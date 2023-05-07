@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Great Eastern by The Delgados](the-great-eastern-7209256.jpg)
+{{< img src="the-great-eastern-7209256.jpg" title="The Great Eastern by The Delgados" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Delgados - Make Your Move (Twin Peaks Mix)
-{{< youtube id="nUk4DU_5mKM" title="The Delgados - Make Your Move (Twin Peaks Mix)" >}}<br>
+### The Delgados - Thirteen Gliding Principles.wmv
+{{< youtube id="kVuBni6IyKY" title="The Delgados - Thirteen Gliding Principles.wmv" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Indie Rock"]
 - [The Delgados - Accused of Stealing](https://www.youtube.com/watch?v=RLSRrlLM5_A)
 - [The Delgados - American Trilogy](https://www.youtube.com/watch?v=Fhdewbz7qiY)
 - [Reasons for Silence (Ed's Song) - The Delgados](https://www.youtube.com/watch?v=eM--KpYLnNg)
-- [The Delgados - Thirteen Gliding Principles.wmv](https://www.youtube.com/watch?v=kVuBni6IyKY)
 - [The Delgados - Witness](https://www.youtube.com/watch?v=k7zJqGZlKRI)
+- [The Delgados - Make Your Move (Twin Peaks Mix)](https://www.youtube.com/watch?v=nUk4DU_5mKM)
 
 
 ## Release Information

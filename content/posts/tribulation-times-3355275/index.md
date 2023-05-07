@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: []
 ---
 
-![Tribulation Times by Dennis Brown](tribulation-times-3355275.jpg)
+{{< img src="tribulation-times-3355275.jpg" title="Tribulation Times by Dennis Brown" >}}
 
 <!-- section break -->
 

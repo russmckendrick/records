@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Nothing But The Truth by The Pineapple Thief](nothing-but-the-truth-20766034.jpg)
+{{< img src="nothing-but-the-truth-20766034.jpg" title="Nothing But The Truth by The Pineapple Thief" >}}
 
 <!-- section break -->
 
@@ -45,8 +45,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Threatening War (Nothing But The Truth)
-{{< youtube id="I-XlPxeRC4M" title="Threatening War (Nothing But The Truth)" >}}<br>
+### Driving Like Maniacs (Nothing But The Truth)
+{{< youtube id="DvPRkwAXuYg" title="Driving Like Maniacs (Nothing But The Truth)" >}}<br>
 
 ### More Videos
 
@@ -56,7 +56,6 @@ styles: ["Prog Rock"]
 - [The Pineapple Thief - Our Mire](https://www.youtube.com/watch?v=fXK3bTcUDOs)
 - [Build a World (Nothing But The Truth)](https://www.youtube.com/watch?v=vP57XBhB5-0)
 - [Demons (Nothing But The Truth)](https://www.youtube.com/watch?v=rljS4gjt02E)
-- [Driving Like Maniacs (Nothing But The Truth)](https://www.youtube.com/watch?v=DvPRkwAXuYg)
 - [The Pineapple Thief - Someone Pull Me Out of Here](https://www.youtube.com/watch?v=hKYOamo5BkY)
 - [Uncovering Your Tracks (Nothing But The Truth)](https://www.youtube.com/watch?v=r8MUOwUCDIQ)
 - [Break It All (Nothing But The Truth)](https://www.youtube.com/watch?v=l4VIlJJH1dk)
@@ -64,6 +63,7 @@ styles: ["Prog Rock"]
 - [Out of Line (Nothing But The Truth)](https://www.youtube.com/watch?v=1WqFswe0ZnA)
 - [The Pineapple Thief - Wretched Soul](https://www.youtube.com/watch?v=0feChcaPsPw)
 - [Far Below (Nothing But The Truth)](https://www.youtube.com/watch?v=r7aVYMnFmoA)
+- [Threatening War (Nothing But The Truth)](https://www.youtube.com/watch?v=I-XlPxeRC4M)
 - [The Swell (Nothing But The Truth)](https://www.youtube.com/watch?v=p5VJqMLRUng)
 - [The Final Thing on My Mind (Nothing But The Truth)](https://www.youtube.com/watch?v=fODhYXZCRmo)
 - [Drum Cam Split Screen - Our Mire by The Pineapple Thief (From 'Nothing But The Truth')](https://www.youtube.com/watch?v=Ylxs0xVvSDo)

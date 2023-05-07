@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![Metallica by Metallica](metallica-6007719.jpg)
+{{< img src="metallica-6007719.jpg" title="Metallica by Metallica" >}}
 
 <!-- section break -->
 

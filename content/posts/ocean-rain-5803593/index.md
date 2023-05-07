@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-![Ocean Rain by Echo & The Bunnymen](ocean-rain-5803593.jpg)
+{{< img src="ocean-rain-5803593.jpg" title="Ocean Rain by Echo & The Bunnymen" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### Ocean Rain
-{{< youtube id="p_AsT8Ney4A" title="Ocean Rain" >}}<br>
+### Echo & The Bunnymen - Seven Seas (Official Music Video)
+{{< youtube id="LbYxP11rbSM" title="Echo & The Bunnymen - Seven Seas (Official Music Video)" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["New Wave", "Indie Rock"]
 - [The Yo Yo Man](https://www.youtube.com/watch?v=T1gxp2xTeag)
 - [Thorn of Crowns](https://www.youtube.com/watch?v=jbMIe_wU1jQ)
 - [Echo & The Bunnymen - The Killing Moon (Official Music Video)](https://www.youtube.com/watch?v=LWz0JC7afNQ)
-- [Echo & The Bunnymen - Seven Seas (Official Music Video)](https://www.youtube.com/watch?v=LbYxP11rbSM)
 - [My Kingdom](https://www.youtube.com/watch?v=2q1RWbAqYtU)
+- [Ocean Rain](https://www.youtube.com/watch?v=p_AsT8Ney4A)
 - [ECHO & THE BUNNYMEN - Killing Moon - Lyrics for Fun Scenes and Full Moon](https://www.youtube.com/watch?v=prd9RX-fW2g)
 
 

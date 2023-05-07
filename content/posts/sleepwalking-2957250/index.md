@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Sleepwalking by Kingmaker](sleepwalking-2957250.jpg)
+{{< img src="sleepwalking-2957250.jpg" title="Sleepwalking by Kingmaker" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Kingmaker - Queen Jane
-{{< youtube id="oyTtxrFYsmU" title="Kingmaker - Queen Jane" >}}<br>
+### Help Yourself
+{{< youtube id="IWQ2TG2Bv3s" title="Help Yourself" >}}<br>
 
 ### More Videos
 
 - [Playground Brutality Kingmaker](https://www.youtube.com/watch?v=8TT8tNF67v8)
+- [Kingmaker - Queen Jane](https://www.youtube.com/watch?v=oyTtxrFYsmU)
 - [Shiver](https://www.youtube.com/watch?v=3LiTYNB6tMc)
 - [I'm in Love](https://www.youtube.com/watch?v=jooIpqCnBJA)
 - [Tomorrow's World](https://www.youtube.com/watch?v=kmffdCUjWEs)
-- [Help Yourself](https://www.youtube.com/watch?v=IWQ2TG2Bv3s)
 - [Your Place](https://www.youtube.com/watch?v=PX0AIQWfxgw)
 
 

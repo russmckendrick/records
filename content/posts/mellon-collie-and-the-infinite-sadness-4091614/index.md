@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Mellon Collie And The Infinite Sadness by The Smashing Pumpkins](mellon-collie-and-the-infinite-sadness-4091614.jpg)
+{{< img src="mellon-collie-and-the-infinite-sadness-4091614.jpg" title="Mellon Collie And The Infinite Sadness by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

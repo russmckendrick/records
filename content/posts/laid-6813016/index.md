@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Laid by James](laid-6813016.jpg)
+{{< img src="laid-6813016.jpg" title="Laid by James" >}}
 
 <!-- section break -->
 

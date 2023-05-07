@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Dub", "Trip Hop"]
 ---
 
-![Massive Attack V. Mad Professor Part II (Mezzanine Remix Tapes '98) by Massive Attack](massive-attack-v-mad-professor-part-ii-mezzanine-remix-tapes-98-14153302.jpg)
+{{< img src="massive-attack-v-mad-professor-part-ii-mezzanine-remix-tapes-98-14153302.jpg" title="Massive Attack V. Mad Professor Part II (Mezzanine Remix Tapes '98) by Massive Attack" >}}
 
 <!-- section break -->
 

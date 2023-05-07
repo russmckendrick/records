@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Already by Jesus Jones](already-25038097.jpg)
+{{< img src="already-25038097.jpg" title="Already by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### They're Out There
-{{< youtube id="-vxJr1O7PSw" title="They're Out There" >}}<br>
+### Chemical #1
+{{< youtube id="IUXQhXfd0ts" title="Chemical #1" >}}<br>
 
 ### More Videos
 
@@ -49,12 +49,12 @@ styles: ["Synth-pop"]
 - [Run On Empty](https://www.youtube.com/watch?v=3buLGt6tXuM)
 - [Jesus Jones Already (Coler & Richardson version)](https://www.youtube.com/watch?v=95PjhHjJHWs)
 - [Wishing It Away](https://www.youtube.com/watch?v=J6p9kJppv98)
+- [They're Out There](https://www.youtube.com/watch?v=-vxJr1O7PSw)
 - [For A Moment](https://www.youtube.com/watch?v=rddH7lSsKrk)
 - [February](https://www.youtube.com/watch?v=jxw2HQIFz6s)
 - [Top Of The World](https://www.youtube.com/watch?v=LxgWy4dB9mc)
 - [Motion](https://www.youtube.com/watch?v=3rInP9LH_EQ)
 - [Rails](https://www.youtube.com/watch?v=NlnAFGZssxs)
-- [Chemical #1](https://www.youtube.com/watch?v=IUXQhXfd0ts)
 - [Look Out Tomorrow](https://www.youtube.com/watch?v=k4b9uKmNln8)
 - [Addiction Obsession And Me](https://www.youtube.com/watch?v=SHnseuIdK60)
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
 
-![Bright Magic by Public Service Broadcasting](bright-magic-20338117.jpg)
+{{< img src="bright-magic-20338117.jpg" title="Bright Magic by Public Service Broadcasting" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Indie Rock", "Post Rock"]
 
 
 ## Videos
-### Lichtspiel I: Opus
-{{< youtube id="tSAypX2Mb0g" title="Lichtspiel I: Opus" >}}<br>
+### Public Service Broadcasting - Blue Heaven [ft. Andreya Casablanca]
+{{< youtube id="Cv2CGLIj0t0" title="Public Service Broadcasting - Blue Heaven [ft. Andreya Casablanca]" >}}<br>
 
 ### More Videos
 
@@ -48,9 +48,9 @@ styles: ["Indie Rock", "Post Rock"]
 - [Im Licht](https://www.youtube.com/watch?v=EVqhzYW6uLk)
 - [Public Service Broadcasting - Der Rhythmus der Maschinen [ft. Blixa Bargeld]](https://www.youtube.com/watch?v=hPMXn-9CDBU)
 - [Public Service Broadcasting - People, Let's Dance [ft. EERA]](https://www.youtube.com/watch?v=T0MTqhf9xPo)
-- [Public Service Broadcasting - Blue Heaven [ft. Andreya Casablanca]](https://www.youtube.com/watch?v=Cv2CGLIj0t0)
 - [Gib mir das Licht](https://www.youtube.com/watch?v=Lh2ihEWv2i4)
 - [The Visitor](https://www.youtube.com/watch?v=ntY0Qfkzxa4)
+- [Lichtspiel I: Opus](https://www.youtube.com/watch?v=tSAypX2Mb0g)
 - [Lichtspiel II: Schwarz Weiss Grau](https://www.youtube.com/watch?v=rDRNXapkO5o)
 - [Public Service Broadcasting - Lichtspiel III: Symphonie Diagonale](https://www.youtube.com/watch?v=hbLGFrWid-w)
 - [Ich und die Stadt](https://www.youtube.com/watch?v=GQ2tZjtfOgc)

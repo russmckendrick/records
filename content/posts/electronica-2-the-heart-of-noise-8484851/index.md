@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-![Electronica 2 - The Heart Of Noise by Jean-Michel Jarre](electronica-2-the-heart-of-noise-8484851.jpg)
+{{< img src="electronica-2-the-heart-of-noise-8484851.jpg" title="Electronica 2 - The Heart Of Noise by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -42,12 +42,12 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)
-{{< youtube id="RmLEsmmnsGw" title="Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)" >}}<br>
+### Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)
+{{< youtube id="L2kjbfCEBiU" title="Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)" >}}<br>
 
 ### More Videos
 
-- [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)](https://www.youtube.com/watch?v=RmLEsmmnsGw)
 
 
 ## Release Information

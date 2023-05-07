@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![Free All Angels by Ash](free-all-angels-24515054.jpg)
+{{< img src="free-all-angels-24515054.jpg" title="Free All Angels by Ash" >}}
 
 <!-- section break -->
 

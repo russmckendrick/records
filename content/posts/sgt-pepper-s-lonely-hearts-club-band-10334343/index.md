@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Psychedelic Rock"]
 ---
 
-![Sgt. Pepper's Lonely Hearts Club Band by The Beatles](sgt-pepper-s-lonely-hearts-club-band-10334343.jpg)
+{{< img src="sgt-pepper-s-lonely-hearts-club-band-10334343.jpg" title="Sgt. Pepper's Lonely Hearts Club Band by The Beatles" >}}
 
 <!-- section break -->
 

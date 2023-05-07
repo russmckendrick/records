@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
 
-![Little Earthquakes by Tori Amos](little-earthquakes-25684807.jpg)
+{{< img src="little-earthquakes-25684807.jpg" title="Little Earthquakes by Tori Amos" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Acoustic"]
 
 
 ## Videos
-### Tori Amos - Silent All These Years (Official Music Video)
-{{< youtube id="HSYr0etDzRM" title="Tori Amos - Silent All These Years (Official Music Video)" >}}<br>
+### Tori Amos - Winter (Official Music Video)
+{{< youtube id="_PDlGUdDF8Y" title="Tori Amos - Winter (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Tori Amos - Winter (Official Music Video)](https://www.youtube.com/watch?v=_PDlGUdDF8Y)
+- [Tori Amos - Silent All These Years (Official Music Video)](https://www.youtube.com/watch?v=HSYr0etDzRM)
 - [Tori Amos - Crucify [Music Video]](https://www.youtube.com/watch?v=q8ljHOSqc4A)
 
 

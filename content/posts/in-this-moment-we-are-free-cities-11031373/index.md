@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-![In This Moment We Are Free - Cities by Vuur](in-this-moment-we-are-free-cities-11031373.jpg)
+{{< img src="in-this-moment-we-are-free-cities-11031373.jpg" title="In This Moment We Are Free - Cities by Vuur" >}}
 
 <!-- section break -->
 
@@ -47,15 +47,15 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### VUUR - The Fire - San Francisco (Track By Track)
-{{< youtube id="11EeCmOz9Cg" title="VUUR - The Fire - San Francisco (Track By Track)" >}}<br>
+### VUUR - Time - Rotterdam (Track By Track)
+{{< youtube id="nLXj_9ejzm8" title="VUUR - Time - Rotterdam (Track By Track)" >}}<br>
 
 ### More Videos
 
 - [VUUR - In This Moment We Are Free - Cities (Album Teaser)](https://www.youtube.com/watch?v=xWag98avUQI)
 - [VUUR - Days Go By - London (Album Track)](https://www.youtube.com/watch?v=Y3rT-X_zgOg)
 - [VUUR - My Champion - Berlin (Teaser)](https://www.youtube.com/watch?v=WwFqcIiIT0k)
-- [VUUR - Time - Rotterdam (Track By Track)](https://www.youtube.com/watch?v=nLXj_9ejzm8)
+- [VUUR - The Fire - San Francisco (Track By Track)](https://www.youtube.com/watch?v=11EeCmOz9Cg)
 - [An introduction to VUUR - Anneke van Giersbergen's new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
 
 

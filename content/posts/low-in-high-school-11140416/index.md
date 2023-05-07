@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Low In High School by Morrissey](low-in-high-school-11140416.jpg)
+{{< img src="low-in-high-school-11140416.jpg" title="Low In High School by Morrissey" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Morrissey - In Your Lap (Official Audio)
-{{< youtube id="7jumNAMAy3M" title="Morrissey - In Your Lap (Official Audio)" >}}<br>
+### Morrissey - The Girl from Tel-Aviv Who Wouldn't Kneel (Official Audio)
+{{< youtube id="oFYHwZRcAKM" title="Morrissey - The Girl from Tel-Aviv Who Wouldn't Kneel (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Indie Rock"]
 - [Morrissey - Spent the Day in Bed (Official Video)](https://www.youtube.com/watch?v=1rmAi9XmlIo)
 - [Morrissey - All the Young People Must Fall in Love (Official Audio)](https://www.youtube.com/watch?v=MoFVN7pl0n4)
 - [Morrissey - I Bury the Living (Official Audio)](https://www.youtube.com/watch?v=yfcc1wuwOFI)
-- [Morrissey - The Girl from Tel-Aviv Who Wouldn't Kneel (Official Audio)](https://www.youtube.com/watch?v=oFYHwZRcAKM)
+- [Morrissey - In Your Lap (Official Audio)](https://www.youtube.com/watch?v=7jumNAMAy3M)
 - [Morrissey - When You Open Your Legs (Official Audio)](https://www.youtube.com/watch?v=lTZjNUIazmc)
 - [Morrissey - Who Will Protect Us from the Police? (Official Audio)](https://www.youtube.com/watch?v=cvDRtyoqHNw)
 - [Morrissey - Israel (Official Audio)](https://www.youtube.com/watch?v=uCKjotJEWjo)

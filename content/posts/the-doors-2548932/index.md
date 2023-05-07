@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Blues Rock"]
 ---
 
-![The Doors by The Doors](the-doors-2548932.jpg)
+{{< img src="the-doors-2548932.jpg" title="The Doors by The Doors" >}}
 
 <!-- section break -->
 

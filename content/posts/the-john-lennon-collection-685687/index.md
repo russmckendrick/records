@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![The John Lennon Collection by John Lennon](the-john-lennon-collection-685687.jpg)
+{{< img src="the-john-lennon-collection-685687.jpg" title="The John Lennon Collection by John Lennon" >}}
 
 <!-- section break -->
 
@@ -45,13 +45,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Instant Karma! (We All Shine On)
-{{< youtube id="T9mrBxWLcbM" title="Instant Karma! (We All Shine On)" >}}<br>
+### John Lennon: Give Peace A Chance
+{{< youtube id="SBBl5h0SJ1c" title="John Lennon: Give Peace A Chance" >}}<br>
 
 ### More Videos
 
 - [WOMAN. (Ultimate Mix, 2020) - John Lennon (official music video HD)](https://www.youtube.com/watch?v=ZhfWiU8wGCc)
-- [John Lennon: Give Peace A Chance](https://www.youtube.com/watch?v=SBBl5h0SJ1c)
+- [Instant Karma! (We All Shine On)](https://www.youtube.com/watch?v=T9mrBxWLcbM)
 
 
 ## Release Information

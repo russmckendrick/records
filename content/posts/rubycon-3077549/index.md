@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Berlin-School"]
 ---
 
-![Rubycon by Tangerine Dream](rubycon-3077549.jpg)
+{{< img src="rubycon-3077549.jpg" title="Rubycon by Tangerine Dream" >}}
 
 <!-- section break -->
 

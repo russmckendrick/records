@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![High Fidelity (A Hulu Original) by Various](high-fidelity-a-hulu-original-15540975.jpg)
+{{< img src="high-fidelity-a-hulu-original-15540975.jpg" title="High Fidelity (A Hulu Original) by Various" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### High Fidelity: Opening Scene • A Hulu Original
-{{< youtube id="fZUvZD_VlwU" title="High Fidelity: Opening Scene • A Hulu Original" >}}<br>
+### Ann Peebles - I can't stand the Rain 1974
+{{< youtube id="A09GZeORYlo" title="Ann Peebles - I can't stand the Rain 1974" >}}<br>
 
 ### More Videos
 
-- [Ann Peebles - I can't stand the Rain 1974](https://www.youtube.com/watch?v=A09GZeORYlo)
+- [High Fidelity: Opening Scene • A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
 - [Darondo - Didn't I [HQ - REMASTER]](https://www.youtube.com/watch?v=PZqQT5904_U)
 - [I'll Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
 - [Come On Eileen](https://www.youtube.com/watch?v=GbpnAGajyMc)

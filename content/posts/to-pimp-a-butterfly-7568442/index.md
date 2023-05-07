@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
 
-![To Pimp A Butterfly by Kendrick Lamar](to-pimp-a-butterfly-7568442.jpg)
+{{< img src="to-pimp-a-butterfly-7568442.jpg" title="To Pimp A Butterfly by Kendrick Lamar" >}}
 
 <!-- section break -->
 
@@ -44,15 +44,15 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Kendrick Lamar - King Kunta
-{{< youtube id="hRK7PVJFbS8" title="Kendrick Lamar - King Kunta" >}}<br>
+### Kendrick Lamar - Alright
+{{< youtube id="Z-48u_uWMHY" title="Kendrick Lamar - Alright" >}}<br>
 
 ### More Videos
 
+- [Kendrick Lamar - King Kunta](https://www.youtube.com/watch?v=hRK7PVJFbS8)
 - [Kendrick Lamar - i (Official Video)](https://www.youtube.com/watch?v=8aShfolR6w8)
 - [Kendrick Lamar - For Free?](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
 - [Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
-- [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
 
 
 ## Release Information

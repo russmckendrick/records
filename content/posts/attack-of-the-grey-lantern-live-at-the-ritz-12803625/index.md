@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Attack Of The Grey Lantern Live At The Ritz by Paul Draper](attack-of-the-grey-lantern-live-at-the-ritz-12803625.jpg)
+{{< img src="attack-of-the-grey-lantern-live-at-the-ritz-12803625.jpg" title="Attack Of The Grey Lantern Live At The Ritz by Paul Draper" >}}
 
 <!-- section break -->
 

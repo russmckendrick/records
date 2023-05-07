@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-![Order Of Magnitude - Empath Live Volume 1 by Devin Townsend](order-of-magnitude-empath-live-volume-1-16092605.jpg)
+{{< img src="order-of-magnitude-empath-live-volume-1-16092605.jpg" title="Order Of Magnitude - Empath Live Volume 1 by Devin Townsend" >}}
 
 <!-- section break -->
 
@@ -57,14 +57,14 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 ## Videos
-### Disco Inferno (live in London 2019)
-{{< youtube id="7BnKtXVoAFo" title="Disco Inferno (live in London 2019)" >}}<br>
+### Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)
+{{< youtube id="qtgv89oLCOU" title="Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)" >}}<br>
 
 ### More Videos
 
-- [Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)](https://www.youtube.com/watch?v=qtgv89oLCOU)
 - [Borderlands (live in London 2019)](https://www.youtube.com/watch?v=xo8iSy87-5w)
 - [Gigpig Jam (live in London 2019)](https://www.youtube.com/watch?v=bHPDq9XZrLo)
+- [Disco Inferno (live in London 2019)](https://www.youtube.com/watch?v=7BnKtXVoAFo)
 - [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
 
 

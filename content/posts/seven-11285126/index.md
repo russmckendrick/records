@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ---
 
-![Seven by James](seven-11285126.jpg)
+{{< img src="seven-11285126.jpg" title="Seven by James" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### James - Born Of Frustration
-{{< youtube id="QxM42rG0a08" title="James - Born Of Frustration" >}}<br>
+### James - Ring The Bells
+{{< youtube id="FvocnP6X72A" title="James - Ring The Bells" >}}<br>
 
 ### More Videos
 
 - [JAMES    HEAVENS](https://www.youtube.com/watch?v=sisU8GfgLH4)
-- [James - Ring The Bells](https://www.youtube.com/watch?v=FvocnP6X72A)
 - [James - Seven](https://www.youtube.com/watch?v=8JKnDlNBwEQ)
+- [James - Born Of Frustration](https://www.youtube.com/watch?v=QxM42rG0a08)
 - [James - Mother (Live)](https://www.youtube.com/watch?v=dFZaQblezk0)
 - [James - Don't Wait That Long (Live)](https://www.youtube.com/watch?v=IoN6oeeYHMg)
 - [James Protect me Live](https://www.youtube.com/watch?v=cu9-Paql8Ag)

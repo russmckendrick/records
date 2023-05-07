@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Permanent Record: The Very Best Of Violent Femmes by Violent Femmes](permanent-record-the-very-best-of-violent-femmes-12833932.jpg)
+{{< img src="permanent-record-the-very-best-of-violent-femmes-12833932.jpg" title="Permanent Record: The Very Best Of Violent Femmes by Violent Femmes" >}}
 
 <!-- section break -->
 

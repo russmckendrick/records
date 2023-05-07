@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Glam", "Art Rock"]
 ---
 
-![Bowie At The Beeb (The Best Of The BBC Sessions 68-72) by David Bowie](bowie-at-the-beeb-the-best-of-the-bbc-sessions-68-72-8014010.jpg)
+{{< img src="bowie-at-the-beeb-the-best-of-the-bbc-sessions-68-72-8014010.jpg" title="Bowie At The Beeb (The Best Of The BBC Sessions 68-72) by David Bowie" >}}
 
 <!-- section break -->
 

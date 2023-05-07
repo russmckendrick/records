@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![IV Latitude by Lesoir](iv-latitude-11219448.jpg)
+{{< img src="iv-latitude-11219448.jpg" title="IV Latitude by Lesoir" >}}
 
 <!-- section break -->
 

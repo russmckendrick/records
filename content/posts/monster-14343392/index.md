@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Monster by R.E.M.](monster-14343392.jpg)
+{{< img src="monster-14343392.jpg" title="Monster by R.E.M." >}}
 
 <!-- section break -->
 

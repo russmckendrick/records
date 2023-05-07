@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-![A Poet's Life by Tim Armstrong](a-poet-s-life-11895222.jpg)
+{{< img src="a-poet-s-life-11895222.jpg" title="A Poet's Life by Tim Armstrong" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Ska"]
 
 
 ## Videos
-### Tim Armstrong - Among The Dead
-{{< youtube id="-HDdFRGkOJU" title="Tim Armstrong - Among The Dead" >}}<br>
+### Tim Armstrong - Oh No
+{{< youtube id="NQswLcNb2tk" title="Tim Armstrong - Oh No" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Ska"]
 - [Tim Armstrong - Translator](https://www.youtube.com/watch?v=Uc_iFszDRuA)
 - [Tim Armstrong - Take This City](https://www.youtube.com/watch?v=scxEEqX-hXo)
 - [Tim Armstrong - Inner City Violence](https://www.youtube.com/watch?v=HiErApQp0wg)
-- [Tim Armstrong - Oh No](https://www.youtube.com/watch?v=NQswLcNb2tk)
 - [Tim Armstrong - Lady Demeter](https://www.youtube.com/watch?v=pYRrbBm30N8)
+- [Tim Armstrong - Among The Dead](https://www.youtube.com/watch?v=-HDdFRGkOJU)
 - [Tim Armstrong - Cold Blooded](https://www.youtube.com/watch?v=yDCTI84is3o)
 
 

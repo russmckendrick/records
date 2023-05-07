@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Eupnea by Pure Reason Revolution](eupnea-15061317.jpg)
+{{< img src="eupnea-15061317.jpg" title="Eupnea by Pure Reason Revolution" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Bossanova by Pixies](bossanova-15709017.jpg)
+{{< img src="bossanova-15709017.jpg" title="Bossanova by Pixies" >}}
 
 <!-- section break -->
 

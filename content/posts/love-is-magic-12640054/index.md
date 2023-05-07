@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 ---
 
-![Love Is Magic by John Grant](love-is-magic-12640054.jpg)
+{{< img src="love-is-magic-12640054.jpg" title="Love Is Magic by John Grant" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 ---
 
-![Hot Rocks 1964-1971 by The Rolling Stones](hot-rocks-1964-1971-19121767.jpg)
+{{< img src="hot-rocks-1964-1971-19121767.jpg" title="Hot Rocks 1964-1971 by The Rolling Stones" >}}
 
 <!-- section break -->
 

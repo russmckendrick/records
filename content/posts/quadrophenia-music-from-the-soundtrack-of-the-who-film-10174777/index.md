@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues", "Mod"]
 ---
 
-![Quadrophenia (Music From The Soundtrack Of The Who Film) by Various](quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777.jpg)
+{{< img src="quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777.jpg" title="Quadrophenia (Music From The Soundtrack Of The Who Film) by Various" >}}
 
 <!-- section break -->
 
@@ -47,16 +47,16 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 
 
 ## Videos
-### The Chiffons - He´s So Fine
-{{< youtube id="rinz9Avvq6A" title="The Chiffons - He´s So Fine" >}}<br>
+### The Crystals - Da Doo Ron Ron (HQ)
+{{< youtube id="L0dikX80Ed8" title="The Crystals - Da Doo Ron Ron (HQ)" >}}<br>
 
 ### More Videos
 
 - [5:15 - Quadrophenia - The Who](https://www.youtube.com/watch?v=OR5v4yyPV6Y)
+- [The Chiffons - He´s So Fine](https://www.youtube.com/watch?v=rinz9Avvq6A)
 - [The̲ W̲ho - Qu̲adrophe̲nia (Full Album 1973)](https://www.youtube.com/watch?v=0F3HxlYFc5U)
 - [The Real Me (Quadrophenia: The Movie)](https://www.youtube.com/watch?v=82oVtqrCpaI)
 - [Cross Section - Hi Heel Sneakers (Quadrophenia OST)](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
-- [The Crystals - Da Doo Ron Ron (HQ)](https://www.youtube.com/watch?v=L0dikX80Ed8)
 - [Love reign o'er me](https://www.youtube.com/watch?v=ZALcu_UhuIg)
 - [The Who - Bell Boy with Keith Moon](https://www.youtube.com/watch?v=OBruYbPzxOw)
 - [THE WHO - I've Had Enough | QUADROPHENIA](https://www.youtube.com/watch?v=hb8TfdeRJgk)

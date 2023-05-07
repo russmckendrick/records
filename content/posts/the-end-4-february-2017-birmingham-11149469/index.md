@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![The End (4 February 2017 - Birmingham) by Black Sabbath](the-end-4-february-2017-birmingham-11149469.jpg)
+{{< img src="the-end-4-february-2017-birmingham-11149469.jpg" title="The End (4 February 2017 - Birmingham) by Black Sabbath" >}}
 
 <!-- section break -->
 

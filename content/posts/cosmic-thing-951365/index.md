@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Cosmic Thing by The B-52's](cosmic-thing-951365.jpg)
+{{< img src="cosmic-thing-951365.jpg" title="Cosmic Thing by The B-52's" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### The B-52's - Channel Z (Official Music Video)
-{{< youtube id="pB4G9WBYMFo" title="The B-52's - Channel Z (Official Music Video)" >}}<br>
+### The B-52's - Deadbeat Club (Official Music Video)
+{{< youtube id="JXy0XnzTQuc" title="The B-52's - Deadbeat Club (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [The B-52's - Deadbeat Club (Official Music Video)](https://www.youtube.com/watch?v=JXy0XnzTQuc)
 - [The B-52's - Love Shack (Official Music Video)](https://www.youtube.com/watch?v=9SOryJvTAGs)
 - [The B-52's - Roam (Official Music Video)](https://www.youtube.com/watch?v=iNwC0sp-uA4)
+- [The B-52's - Channel Z (Official Music Video)](https://www.youtube.com/watch?v=pB4G9WBYMFo)
 
 
 ## Release Information

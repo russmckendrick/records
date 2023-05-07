@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Comedy"]
 ---
 
-![Live Again! by The League Of Gentlemen](live-again-13526674.jpg)
+{{< img src="live-again-13526674.jpg" title="Live Again! by The League Of Gentlemen" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![The Pleasure Principle by Gary Numan](the-pleasure-principle-7654481.jpg)
+{{< img src="the-pleasure-principle-7654481.jpg" title="The Pleasure Principle by Gary Numan" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Observer (Remastered 2009)
-{{< youtube id="iOwiOhBusgs" title="Observer (Remastered 2009)" >}}<br>
+### Conversation (Remastered 2009)
+{{< youtube id="7_kIjBaxhO0" title="Conversation (Remastered 2009)" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Films (Remastered 2009)](https://www.youtube.com/watch?v=6HbIGk6zH_k)
 - [M.E. (Remastered 2009)](https://www.youtube.com/watch?v=-C_ijHitM-Q)
 - [Tracks (Remastered 2009)](https://www.youtube.com/watch?v=uTgDYuOmUW0)
-- [Conversation (Remastered 2009)](https://www.youtube.com/watch?v=7_kIjBaxhO0)
+- [Observer (Remastered 2009)](https://www.youtube.com/watch?v=iOwiOhBusgs)
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 

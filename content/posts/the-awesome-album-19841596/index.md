@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: []
 ---
 
-![The Awesome Album by Mouse Rat](the-awesome-album-19841596.jpg)
+{{< img src="the-awesome-album-19841596.jpg" title="The Awesome Album by Mouse Rat" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ---
 
-![Matt Berry And The Maypoles Live by Matt Berry](matt-berry-and-the-maypoles-live-7773931.jpg)
+{{< img src="matt-berry-and-the-maypoles-live-7773931.jpg" title="Matt Berry And The Maypoles Live by Matt Berry" >}}
 
 <!-- section break -->
 

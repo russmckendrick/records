@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ---
 
-![12 Things I Forgot by Steven Wilson](12-things-i-forgot-16279675.jpg)
+{{< img src="12-things-i-forgot-16279675.jpg" title="12 Things I Forgot by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -28,13 +28,13 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 
 
 ## Videos
-### Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)
-{{< youtube id="SkJqPSrLUNo" title="Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)" >}}<br>
+### Steven Wilson - MOVE LIKE A FEVER (Official Audio)
+{{< youtube id="6ocVr57vKq4" title="Steven Wilson - MOVE LIKE A FEVER (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
+- [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-![Album Of The Year by Faith No More](album-of-the-year-9027018.jpg)
+{{< img src="album-of-the-year-9027018.jpg" title="Album Of The Year by Faith No More" >}}
 
 <!-- section break -->
 
@@ -50,8 +50,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Paths of Glory
-{{< youtube id="zJ235otXHBI" title="Paths of Glory" >}}<br>
+### She Loves Me Not
+{{< youtube id="aQtsznQtvJ0" title="She Loves Me Not" >}}<br>
 
 ### More Videos
 
@@ -62,8 +62,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [Helpless](https://www.youtube.com/watch?v=BrB0BxFk3k4)
 - [Mouth to Mouth](https://www.youtube.com/watch?v=xFVdPKrvAwA)
 - [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
-- [She Loves Me Not](https://www.youtube.com/watch?v=aQtsznQtvJ0)
 - [Got That Feeling](https://www.youtube.com/watch?v=6w3eoBs6ETg)
+- [Paths of Glory](https://www.youtube.com/watch?v=zJ235otXHBI)
 - [Home Sick Home](https://www.youtube.com/watch?v=6gRC-oZZEhg)
 - [Pristina](https://www.youtube.com/watch?v=of0cPCjfCAM)
 

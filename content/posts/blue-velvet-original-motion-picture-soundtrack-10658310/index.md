@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ---
 
-![Blue Velvet (Original Motion Picture Soundtrack) by Angelo Badalamenti](blue-velvet-original-motion-picture-soundtrack-10658310.jpg)
+{{< img src="blue-velvet-original-motion-picture-soundtrack-10658310.jpg" title="Blue Velvet (Original Motion Picture Soundtrack) by Angelo Badalamenti" >}}
 
 <!-- section break -->
 
@@ -44,14 +44,14 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 
 
 ## Videos
-### Blue Velvet: Main Title Theme (From Blue Velvet)
-{{< youtube id="HNXjgKA6mn8" title="Blue Velvet: Main Title Theme (From Blue Velvet)" >}}<br>
+### Mysteries Of Love (French Horn solo)
+{{< youtube id="arnSJQtBpVA" title="Mysteries Of Love (French Horn solo)" >}}<br>
 
 ### More Videos
 
+- [Blue Velvet: Main Title Theme (From Blue Velvet)](https://www.youtube.com/watch?v=HNXjgKA6mn8)
 - [Mysteries of Love](https://www.youtube.com/watch?v=PgXlMNDezk4)
 - [Angelo Badalamenti - Frank (from Blue Velvet)](https://www.youtube.com/watch?v=BBapDanSkII)
-- [Mysteries Of Love (French Horn solo)](https://www.youtube.com/watch?v=arnSJQtBpVA)
 - [Angelo Badalementi - Mysteries Of Love (instrumental)](https://www.youtube.com/watch?v=4F9GsEg7v64)
 - [Mysteries of Love (From David Lynch's Blue Velvet - OST by Angelo Badalamenti)](https://www.youtube.com/watch?v=ry5vs331sMY)
 

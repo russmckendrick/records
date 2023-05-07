@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
 
-![Short Stories by Jon & Vangelis](short-stories-161300.jpg)
+{{< img src="short-stories-161300.jpg" title="Short Stories by Jon & Vangelis" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Synth-pop", "Ambient"]
 
 
 ## Videos
-### Jon and Vangelis - Bird Song
-{{< youtube id="RpJp1Wxmyfs" title="Jon and Vangelis - Bird Song" >}}<br>
+### Vangelis - Short Stories - Love is - One more Time
+{{< youtube id="44fCYCEQ5SE" title="Vangelis - Short Stories - Love is - One more Time" >}}<br>
 
 ### More Videos
 
@@ -47,12 +47,12 @@ styles: ["Synth-pop", "Ambient"]
 - [Jon & Vangelis - I Hear You Now](https://www.youtube.com/watch?v=hti1iZ9LsIU)
 - [Vangelis - Short Stories - Far away in Baghdad](https://www.youtube.com/watch?v=VAaCes5pv4A)
 - [Vangelis - Short Stories - A play within a play](https://www.youtube.com/watch?v=ZWJTfqKPBLs)
-- [Vangelis - Short Stories - Love is - One more Time](https://www.youtube.com/watch?v=44fCYCEQ5SE)
 - [Vangelis - Short Stories - The Road](https://www.youtube.com/watch?v=KkXEwS5uD24)
 - [Jon & Vangelis - Curious Electric](https://www.youtube.com/watch?v=iQnd8wpScj0)
 - [Vangelis - Short Stories -Curious electric](https://www.youtube.com/watch?v=Jg97_9dyngY)
 - [Vangelis - Short Stories - Thunder](https://www.youtube.com/watch?v=EUfZ3YyUMXc)
 - [Vangelis - Short Stories - I Hear You Now](https://www.youtube.com/watch?v=prYXu1SlT7Y)
+- [Jon and Vangelis - Bird Song](https://www.youtube.com/watch?v=RpJp1Wxmyfs)
 - [Jon and Vangelis - The Road](https://www.youtube.com/watch?v=AWLySXyfpv4)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-![More Noise And Other Disturbances by The Mighty Mighty BossToneS](more-noise-and-other-disturbances-13348515.jpg)
+{{< img src="more-noise-and-other-disturbances-13348515.jpg" title="More Noise And Other Disturbances by The Mighty Mighty BossToneS" >}}
 
 <!-- section break -->
 

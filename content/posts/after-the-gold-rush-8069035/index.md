@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![After The Gold Rush by Neil Young](after-the-gold-rush-8069035.jpg)
+{{< img src="after-the-gold-rush-8069035.jpg" title="After The Gold Rush by Neil Young" >}}
 
 <!-- section break -->
 

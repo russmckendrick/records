@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-![Don't Know How To Party by The Mighty Mighty Bosstones](don-t-know-how-to-party-13667166.jpg)
+{{< img src="don-t-know-how-to-party-13667166.jpg" title="Don't Know How To Party by The Mighty Mighty Bosstones" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Ska", "Punk"]
 
 
 ## Videos
-### A Man Without
-{{< youtube id="Z3RPIRl85sU" title="A Man Without" >}}<br>
+### Holy Smoke
+{{< youtube id="S12UGb6b8cM" title="Holy Smoke" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["Ska", "Punk"]
 - [Our Only Weapon](https://www.youtube.com/watch?v=3QtGz0NCTA0)
 - [Last Dead Mouse](https://www.youtube.com/watch?v=Yb3l_GwdL1Q)
 - [Don't Know How To Party](https://www.youtube.com/watch?v=PVeVvAoo_Wc)
-- [Holy Smoke](https://www.youtube.com/watch?v=S12UGb6b8cM)
+- [A Man Without](https://www.youtube.com/watch?v=Z3RPIRl85sU)
 - [Illegal Left](https://www.youtube.com/watch?v=zouxzzdRSMo)
 - [Tin Soldiers](https://www.youtube.com/watch?v=El_dh1gWC48)
 - [Almost Anything Goes](https://www.youtube.com/watch?v=awHWILGJBI4)

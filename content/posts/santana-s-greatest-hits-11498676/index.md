@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
-![Santana's Greatest Hits by Santana](santana-s-greatest-hits-11498676.jpg)
+{{< img src="santana-s-greatest-hits-11498676.jpg" title="Santana's Greatest Hits by Santana" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Carlos Santana Greatest Hits -  Carlos Santana Best Songs
-{{< youtube id="VUHe5P7sEYQ" title="Carlos Santana Greatest Hits -  Carlos Santana Best Songs" >}}<br>
+### S A N T A N A Greatest Hits Full Album - Best Songs Of S A N T A N A Playlist 2021
+{{< youtube id="BdWWOuCxw4Q" title="S A N T A N A Greatest Hits Full Album - Best Songs Of S A N T A N A Playlist 2021" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 - [Oye Como Va](https://www.youtube.com/watch?v=U3XPzwjhSZw)
 - [Hope You're Feeling Better](https://www.youtube.com/watch?v=sL4S0LII02Y)
 - [Samba Pa Ti](https://www.youtube.com/watch?v=timZoOs9ozo)
-- [S A N T A N A Greatest Hits Full Album - Best Songs Of S A N T A N A Playlist 2021](https://www.youtube.com/watch?v=BdWWOuCxw4Q)
+- [Carlos Santana Greatest Hits -  Carlos Santana Best Songs](https://www.youtube.com/watch?v=VUHe5P7sEYQ)
 - [The Best of Santana Full Album 1998](https://www.youtube.com/watch?v=ZZP-WYpC2HE)
 - [S A N T A N A Greatest Hits Full Albm - Best Songs Of S A N T A N A Playlist 2021](https://www.youtube.com/watch?v=-7JvFA3B7h4)
 - [S A N T A N A Greatest Hits Full Albm - Best Songs Of S A N T A N A Playlist 2021](https://www.youtube.com/watch?v=e4KFECvwR6Y)

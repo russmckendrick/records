@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
 
-![Good Thing by Leon Bridges](good-thing-11947256.jpg)
+{{< img src="good-thing-11947256.jpg" title="Good Thing by Leon Bridges" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Soul", "Contemporary R&B"]
 
 
 ## Videos
-### Leon Bridges: Good Thing - Available Now!
-{{< youtube id="g8t0-2U6tdQ" title="Leon Bridges: Good Thing - Available Now!" >}}<br>
+### Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)
+{{< youtube id="xvPMqljGruE" title="Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Leon Bridges - Georgia to Texas (Lyrics)](https://www.youtube.com/watch?v=Au3ZxR5zn6g)
-- [Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)](https://www.youtube.com/watch?v=xvPMqljGruE)
 - [Leon Bridges - Forgive You (Official Audio)](https://www.youtube.com/watch?v=mK8NE8qtO8o)
+- [Leon Bridges: Good Thing - Available Now!](https://www.youtube.com/watch?v=g8t0-2U6tdQ)
 
 
 ## Release Information

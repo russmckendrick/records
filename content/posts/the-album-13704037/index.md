@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Electro"]
 ---
 
-![The Album by Mantronix](the-album-13704037.jpg)
+{{< img src="the-album-13704037.jpg" title="The Album by Mantronix" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Electro"]
 
 
 ## Videos
-### Mantronix - Mega Mix
-{{< youtube id="gWxW8y5PS34" title="Mantronix - Mega Mix" >}}<br>
+### Mantronix - Bassline
+{{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}<br>
 
 ### More Videos
 
-- [Mantronix - Bassline](https://www.youtube.com/watch?v=5lYh0sWG2OI)
 - [Bassline](https://www.youtube.com/watch?v=TpXkptCMJhI)
 - [Fresh Is the Word (12 Version)](https://www.youtube.com/watch?v=Lnd-vbtMlP8)
 - [Mantronix - Needle To The Groove](https://www.youtube.com/watch?v=YGE5G49c8zU)
 - [Needle to the Groove](https://www.youtube.com/watch?v=yrzb8QfdTpg)
+- [Mantronix - Mega Mix](https://www.youtube.com/watch?v=gWxW8y5PS34)
 - [Mega-Mix](https://www.youtube.com/watch?v=hykpMfQ6u4E)
 - [Mantronix - Hardcore Hip Hop](https://www.youtube.com/watch?v=7wY2nbHhg2Q)
 - [Hardcore Hip-Hop](https://www.youtube.com/watch?v=tiTsdjtaPMc)

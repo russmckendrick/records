@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-![Memoirs Of A Madman by Ozzy Osbourne](memoirs-of-a-madman-6175350.jpg)
+{{< img src="memoirs-of-a-madman-6175350.jpg" title="Memoirs Of A Madman by Ozzy Osbourne" >}}
 
 <!-- section break -->
 
@@ -45,15 +45,15 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### OZZY OSBOURNE - Dreamer
-{{< youtube id="LCCiwPEdEpg" title="OZZY OSBOURNE - Dreamer" >}}<br>
+### Paranoid (Live at The Roundhouse, London, England - 2010)
+{{< youtube id="uUsqxqRCuig" title="Paranoid (Live at The Roundhouse, London, England - 2010)" >}}<br>
 
 ### More Videos
 
+- [OZZY OSBOURNE - Dreamer](https://www.youtube.com/watch?v=LCCiwPEdEpg)
 - [OZZY OSBOURNE - No More Tears](https://www.youtube.com/watch?v=CprfjfN5PRs)
 - [Mr. Crowley](https://www.youtube.com/watch?v=4Rtq63cdTro)
 - [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
-- [Paranoid (Live at The Roundhouse, London, England - 2010)](https://www.youtube.com/watch?v=uUsqxqRCuig)
 
 
 ## Release Information

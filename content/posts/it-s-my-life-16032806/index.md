@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![It's My Life by Talk Talk](it-s-my-life-16032806.jpg)
+{{< img src="it-s-my-life-16032806.jpg" title="It's My Life by Talk Talk" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Does Caroline Know? (1997 Remaster)
-{{< youtube id="bgiCKT6Y-lg" title="Does Caroline Know? (1997 Remaster)" >}}<br>
+### The Last Time (1997 Remaster)
+{{< youtube id="dsDpI1TiQMs" title="The Last Time (1997 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Synth-pop"]
 - [Renee (1997 Remaster)](https://www.youtube.com/watch?v=KfB-iIrJy-s)
 - [It's My Life (1997 Remaster)](https://www.youtube.com/watch?v=yWQezjGjiqs)
 - [Tomorrow Started (1997 Remaster)](https://www.youtube.com/watch?v=F5s0oynBz7M)
-- [The Last Time (1997 Remaster)](https://www.youtube.com/watch?v=dsDpI1TiQMs)
 - [Call in the Night Boy (1997 Remaster)](https://www.youtube.com/watch?v=WIj4hC9v0Hs)
+- [Does Caroline Know? (1997 Remaster)](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
 - [It's You (1997 Remaster)](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
 

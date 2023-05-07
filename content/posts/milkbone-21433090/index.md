@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Milkbone by Milkbone](milkbone-21433090.jpg)
+{{< img src="milkbone-21433090.jpg" title="Milkbone by Milkbone" >}}
 
 <!-- section break -->
 

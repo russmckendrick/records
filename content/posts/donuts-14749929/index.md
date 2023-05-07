@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
 
-![Donuts by J Dilla](donuts-14749929.jpg)
+{{< img src="donuts-14749929.jpg" title="Donuts by J Dilla" >}}
 
 <!-- section break -->
 
@@ -59,13 +59,12 @@ styles: ["Instrumental"]
 
 
 ## Videos
-### J Dilla - Stop - Donuts (Full Album)
-{{< youtube id="Ek_cufWYvjE" title="J Dilla - Stop - Donuts (Full Album)" >}}<br>
+### Sample Breakdown: J. Dilla - Don’t Cry
+{{< youtube id="6By2YvpjjWw" title="Sample Breakdown: J. Dilla - Don’t Cry" >}}<br>
 
 ### More Videos
 
 - [J Dilla - Last Donut of the Night (Donuts) Official Video](https://www.youtube.com/watch?v=fC3Cthm0HFU)
-- [Sample Breakdown: J. Dilla - Don’t Cry](https://www.youtube.com/watch?v=6By2YvpjjWw)
 - [Sniper Elite](https://www.youtube.com/watch?v=DtiJs1bDmHo)
 - [J Dilla - Workinonit - Donuts (Full Album)](https://www.youtube.com/watch?v=5nO7IA1DeeI)
 - [Sample Breakdown: J Dilla - Workinonit](https://www.youtube.com/watch?v=Pv_mHP0Ogxg)
@@ -74,6 +73,7 @@ styles: ["Instrumental"]
 - [J Dilla - Signs](https://www.youtube.com/watch?v=SD4WfUYrj5Q)
 - [J Dilla - Light It - Donuts (Full Album)](https://www.youtube.com/watch?v=C3zqYM3Rkpg)
 - [J Dilla - The New - Donuts (Full Album)](https://www.youtube.com/watch?v=0piaF7P3404)
+- [J Dilla - Stop - Donuts (Full Album)](https://www.youtube.com/watch?v=Ek_cufWYvjE)
 - [J Dilla - People - Donuts (Full Album)](https://www.youtube.com/watch?v=zNJJBD_I5EU)
 - [J Dilla - The Diff'rence - Donuts (Full Album)](https://www.youtube.com/watch?v=v2zTVZFlCZ0)
 - [J Dilla - Mash - Donuts (Full Album)](https://www.youtube.com/watch?v=ZLa6sX9N3Jw)

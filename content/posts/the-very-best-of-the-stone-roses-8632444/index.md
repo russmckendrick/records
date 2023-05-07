@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Very Best Of The Stone Roses by The Stone Roses](the-very-best-of-the-stone-roses-8632444.jpg)
+{{< img src="the-very-best-of-the-stone-roses-8632444.jpg" title="The Very Best Of The Stone Roses by The Stone Roses" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Stone Roses - Fools Gold (Official Video)
-{{< youtube id="NSD11dnphg0" title="The Stone Roses - Fools Gold (Official Video)" >}}<br>
+### The Stone Roses - Complete D Side [ The Very Best Of..  LP ]
+{{< youtube id="KmY_D5ixBIg" title="The Stone Roses - Complete D Side [ The Very Best Of..  LP ]" >}}<br>
 
 ### More Videos
 
@@ -57,8 +57,8 @@ styles: ["Indie Rock"]
 - [The Stone Roses - Complete A Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=Y0fQUsGU6y4)
 - [The Stone Roses - Complete B Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=aTtM4HtVJJg)
 - [The Stone Roses - One Love (Official Video)](https://www.youtube.com/watch?v=60qyfdcAOGE)
+- [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
 - [The Stone Roses - Complete C Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
-- [The Stone Roses - Complete D Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=KmY_D5ixBIg)
 
 
 ## Release Information

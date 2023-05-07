@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Britpop"]
 ---
 
-![Coming Up by Suede](coming-up-5410320.jpg)
+{{< img src="coming-up-5410320.jpg" title="Coming Up by Suede" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 
 
 ## Videos
-### Suede - Saturday Night
-{{< youtube id="wEWn0aVcuSM" title="Suede - Saturday Night" >}}<br>
+### Suede - Filmstar
+{{< youtube id="PX6L65xgOzY" title="Suede - Filmstar" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 - [🔴Suede – Complete C Side [ Coming Up Limited Edition, Numbered, Yellow Translucent, 180g LP ]](https://www.youtube.com/watch?v=V1QIX9Hfo6M)
 - [Suede - Lazy (Official Video)](https://www.youtube.com/watch?v=YP2enk5w5fk)
 - [Suede - Trash](https://www.youtube.com/watch?v=-PdKGDMhau4)
-- [Suede - Filmstar](https://www.youtube.com/watch?v=PX6L65xgOzY)
+- [Suede - Saturday Night](https://www.youtube.com/watch?v=wEWn0aVcuSM)
 
 
 ## Release Information

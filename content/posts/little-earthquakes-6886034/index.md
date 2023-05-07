@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
 
-![Little Earthquakes by Tori Amos](little-earthquakes-6886034.jpg)
+{{< img src="little-earthquakes-6886034.jpg" title="Little Earthquakes by Tori Amos" >}}
 
 <!-- section break -->
 

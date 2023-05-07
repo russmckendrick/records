@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Punk"]
 ---
 
-![Resident Alien by Spacehog](resident-alien-15815605.jpg)
+{{< img src="resident-alien-15815605.jpg" title="Resident Alien by Spacehog" >}}
 
 <!-- section break -->
 
@@ -42,16 +42,16 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 
 
 ## Videos
-### Never Coming Down (Pt. 2)
-{{< youtube id="qKoQc1fh1SE" title="Never Coming Down (Pt. 2)" >}}<br>
+### Spacehog - Space Is the Place (Official Music Video)
+{{< youtube id="a4vvMnIF36M" title="Spacehog - Space Is the Place (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Spacehog - In the Meantime (Official Music Video)](https://www.youtube.com/watch?v=PCsGRCf8T9Y)
 - [Spacehog - Cruel to Be Kind (Official Music Video)](https://www.youtube.com/watch?v=_5IyLeWJQvw)
 - [Spacehog - Candyman (Official Music Video)](https://www.youtube.com/watch?v=OkauEG7dtB4)
-- [Spacehog - Space Is the Place (Official Music Video)](https://www.youtube.com/watch?v=a4vvMnIF36M)
 - [Never Coming Down (Pt 1)](https://www.youtube.com/watch?v=t1BNCU3EMpo)
+- [Never Coming Down (Pt. 2)](https://www.youtube.com/watch?v=qKoQc1fh1SE)
 - [Starside](https://www.youtube.com/watch?v=-Or5bGgL5jY)
 - [Space Is the Place](https://www.youtube.com/watch?v=gPLoIo6nwZQ)
 - [Only a Few](https://www.youtube.com/watch?v=uf7XG1irP0M)

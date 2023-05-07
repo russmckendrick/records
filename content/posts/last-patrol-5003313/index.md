@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 ---
 
-![Last Patrol by Monster Magnet](last-patrol-5003313.jpg)
+{{< img src="last-patrol-5003313.jpg" title="Last Patrol by Monster Magnet" >}}
 
 <!-- section break -->
 

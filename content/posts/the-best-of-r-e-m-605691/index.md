@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![The Best Of R.E.M. by R.E.M.](the-best-of-r-e-m-605691.jpg)
+{{< img src="the-best-of-r-e-m-605691.jpg" title="The Best Of R.E.M. by R.E.M." >}}
 
 <!-- section break -->
 

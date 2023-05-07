@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Garage Rock", "Psychedelic Rock"]
 ---
 
-![25 O'Clock by XTC](25-o-clock-14326864.jpg)
+{{< img src="25-o-clock-14326864.jpg" title="25 O'Clock by XTC" >}}
 
 <!-- section break -->
 
@@ -31,13 +31,13 @@ styles: ["Garage Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Dukes Of Stratosphear, The 25 O'Clock 1985 (vinyl record)
-{{< youtube id="P1zLrEH0evI" title="The Dukes Of Stratosphear, The 25 O'Clock 1985 (vinyl record)" >}}<br>
+### What in the World?? ... by The Dukes of Stratosphear REMASTERED
+{{< youtube id="fzaEsLgF3NQ" title="What in the World?? ... by The Dukes of Stratosphear REMASTERED" >}}<br>
 
 ### More Videos
 
 - [Mole From The Ministry / The Dukes Of Stratosphear](https://www.youtube.com/watch?v=49q5FtQltzg)
-- [What in the World?? ... by The Dukes of Stratosphear REMASTERED](https://www.youtube.com/watch?v=fzaEsLgF3NQ)
+- [The Dukes Of Stratosphear, The 25 O'Clock 1985 (vinyl record)](https://www.youtube.com/watch?v=P1zLrEH0evI)
 - [The Dukes of Stratosphear - 25 O'Clock](https://www.youtube.com/watch?v=xGF7o_I4mAw)
 
 

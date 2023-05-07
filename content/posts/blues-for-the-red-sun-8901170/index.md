@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---
 
-![Blues For The Red Sun by Kyuss](blues-for-the-red-sun-8901170.jpg)
+{{< img src="blues-for-the-red-sun-8901170.jpg" title="Blues For The Red Sun by Kyuss" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Stoner Rock", "Hard Rock"]
 
 
 ## Videos
-### Apothecaries' Weight
-{{< youtube id="ksK4FEsfHrA" title="Apothecaries' Weight" >}}<br>
+### Writhe
+{{< youtube id="x_yZXsO-3Mg" title="Writhe" >}}<br>
 
 ### More Videos
 
@@ -51,9 +51,9 @@ styles: ["Stoner Rock", "Hard Rock"]
 - [Kyuss - Blues For The Red Sun (Full Album) [Official]](https://www.youtube.com/watch?v=gZxPm06Dhn4)
 - [Thumb](https://www.youtube.com/watch?v=_TR2m4IfqPI)
 - [Green Machine](https://www.youtube.com/watch?v=RhaiAEvEiFI)
+- [Apothecaries' Weight](https://www.youtube.com/watch?v=ksK4FEsfHrA)
 - [Freedom Run](https://www.youtube.com/watch?v=5zuqDt-KlkM)
 - [800](https://www.youtube.com/watch?v=D-Wo6NOBilY)
-- [Writhe](https://www.youtube.com/watch?v=x_yZXsO-3Mg)
 - [Caterpillar March](https://www.youtube.com/watch?v=vhQpEmG0mMo)
 - [Mondo Generator](https://www.youtube.com/watch?v=lWDJ6R1nTnI)
 - [Yeah](https://www.youtube.com/watch?v=t_lpSSTIbpM)

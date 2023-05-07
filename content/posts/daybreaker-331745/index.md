@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
-![Daybreaker by Beth Orton](daybreaker-331745.jpg)
+{{< img src="daybreaker-331745.jpg" title="Daybreaker by Beth Orton" >}}
 
 <!-- section break -->
 
@@ -38,11 +38,12 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 
 
 ## Videos
-### Paris Train
-{{< youtube id="6myjARKjFLs" title="Paris Train" >}}<br>
+### Carmella
+{{< youtube id="DiUHKOK6PUE" title="Carmella" >}}<br>
 
 ### More Videos
 
+- [Paris Train](https://www.youtube.com/watch?v=6myjARKjFLs)
 - [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
 - [Concrete Sky](https://www.youtube.com/watch?v=EGVgbKQldEA)
 - [Ted's Waltz](https://www.youtube.com/watch?v=VyybYByaMj8)
@@ -51,7 +52,6 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 - [Anywhere](https://www.youtube.com/watch?v=sLX6xjbCuuA)
 - [Beth Orton - Thinking about tomorrow](https://www.youtube.com/watch?v=kjIwm7d_xs8)
 - [Beth Orton - Carmella](https://www.youtube.com/watch?v=C2vO0wmATrs)
-- [Carmella](https://www.youtube.com/watch?v=DiUHKOK6PUE)
 - [God Song](https://www.youtube.com/watch?v=rIGzMZIrBqw)
 - [This One's Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
 - [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)

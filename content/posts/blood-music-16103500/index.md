@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-![Blood Music by Chapterhouse](blood-music-16103500.jpg)
+{{< img src="blood-music-16103500.jpg" title="Blood Music by Chapterhouse" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,15 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### There's still life : Chapterhouse
-{{< youtube id="kipmFuYEt3g" title="There's still life : Chapterhouse" >}}<br>
+### Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)
+{{< youtube id="0bgXNI4Fc7E" title="Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)" >}}<br>
 
 ### More Videos
 
 - [Global Communication ~ Pentamerous Metamorphosis (Full Album)](https://www.youtube.com/watch?v=Kpj6vyxS4kw)
 - [Don't look now ~ Chapterhouse](https://www.youtube.com/watch?v=F36BQY6tnlg)
 - [Chapterhouse - Don't Look Now (Club Bliss Mix)](https://www.youtube.com/watch?v=X9ZUYrUCzTQ)
+- [There's still life : Chapterhouse](https://www.youtube.com/watch?v=kipmFuYEt3g)
 - [Chapterhouse - Deli (Crystal Poet Remix)](https://www.youtube.com/watch?v=uwRG8rVMjuQ)
 - [Chapterhouse - We Are The Beautiful](https://www.youtube.com/watch?v=vvpuWGDeBzY)
 - [Summer's Gone ~ Chapterhouse](https://www.youtube.com/watch?v=9tIJbjKC-tY)
@@ -58,7 +59,6 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Greater power - Chapterhouse](https://www.youtube.com/watch?v=9EC7uTL10k8)
 - [Chapterhouse - Confusion Trip](https://www.youtube.com/watch?v=5-V7wTT5Bpk)
 - [Love Forever - Chapterhouse](https://www.youtube.com/watch?v=U4EZJEdGuxI)
-- [Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)](https://www.youtube.com/watch?v=0bgXNI4Fc7E)
 - [Chapterhouse - Picnic](https://www.youtube.com/watch?v=uFcBEq2pfmU)
 
 

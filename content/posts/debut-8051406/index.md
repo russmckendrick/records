@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Pop"]
 styles: ["House", "Synth-pop", "Experimental"]
 ---
 
-![Debut by Björk](debut-8051406.jpg)
+{{< img src="debut-8051406.jpg" title="Debut by Björk" >}}
 
 <!-- section break -->
 

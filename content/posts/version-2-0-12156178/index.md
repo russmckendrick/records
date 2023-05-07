@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Version 2.0 by Garbage](version-2-0-12156178.jpg)
+{{< img src="version-2-0-12156178.jpg" title="Version 2.0 by Garbage" >}}
 
 <!-- section break -->
 

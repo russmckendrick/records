@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Electro"]
 ---
 
-![Yell40 Years by Yello](yell40-years-18512575.jpg)
+{{< img src="yell40-years-18512575.jpg" title="Yell40 Years by Yello" >}}
 
 <!-- section break -->
 
@@ -46,15 +46,15 @@ styles: ["Electro"]
 
 
 ## Videos
-### Takla Makan (Martin Roth Remix)
-{{< youtube id="LT5ftB3lMw8" title="Takla Makan (Martin Roth Remix)" >}}<br>
+### YELLO 'You Better Hide' (Extract of Touch Yello)
+{{< youtube id="LZFKmePcasA" title="YELLO 'You Better Hide' (Extract of Touch Yello)" >}}<br>
 
 ### More Videos
 
 - [Yello - Waba Duba (Official Video)](https://www.youtube.com/watch?v=nN9DaTXV0b0)
 - [Meet My Angel](https://www.youtube.com/watch?v=b13C_Rhxu8M)
-- [YELLO 'You Better Hide' (Extract of Touch Yello)](https://www.youtube.com/watch?v=LZFKmePcasA)
 - [Yello - Bostich (DJ Hell 2018 Remix) - OFFICIAL VIDEO](https://www.youtube.com/watch?v=WdXvnRI8gJE)
+- [Takla Makan (Martin Roth Remix)](https://www.youtube.com/watch?v=LT5ftB3lMw8)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Bobbie Gentry's The Delta Sweete Revisited by Mercury Rev](bobbie-gentry-s-the-delta-sweete-revisited-13179920.jpg)
+{{< img src="bobbie-gentry-s-the-delta-sweete-revisited-13179920.jpg" title="Bobbie Gentry's The Delta Sweete Revisited by Mercury Rev" >}}
 
 <!-- section break -->
 

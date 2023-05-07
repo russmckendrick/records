@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Disco", "Pop Rock"]
 ---
 
-![Prince by Prince](prince-8486292.jpg)
+{{< img src="prince-8486292.jpg" title="Prince by Prince" >}}
 
 <!-- section break -->
 
@@ -37,15 +37,15 @@ styles: ["Disco", "Pop Rock"]
 
 
 ## Videos
-### Bambi
-{{< youtube id="INduB7K6VWo" title="Bambi" >}}<br>
+### Prince - I Wanna Be Your Lover (Official Music Video)
+{{< youtube id="Rp8WL621uGM" title="Prince - I Wanna Be Your Lover (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Prince - Why You Wanna Treat Me So Bad? (Official Music Video)](https://www.youtube.com/watch?v=fPaYtVJouYA)
 - [I Wanna Be Your Lover](https://www.youtube.com/watch?v=nzbOY4mGIug)
-- [Prince - I Wanna Be Your Lover (Official Music Video)](https://www.youtube.com/watch?v=Rp8WL621uGM)
 - [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
+- [Bambi](https://www.youtube.com/watch?v=INduB7K6VWo)
 
 
 ## Release Information

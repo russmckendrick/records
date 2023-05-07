@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Gold Mother by James](gold-mother-11284851.jpg)
+{{< img src="gold-mother-11284851.jpg" title="Gold Mother by James" >}}
 
 <!-- section break -->
 

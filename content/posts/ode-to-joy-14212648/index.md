@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![Ode To Joy by Wilco](ode-to-joy-14212648.jpg)
+{{< img src="ode-to-joy-14212648.jpg" title="Ode To Joy by Wilco" >}}
 
 <!-- section break -->
 

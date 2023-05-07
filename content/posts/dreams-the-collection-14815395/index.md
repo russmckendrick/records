@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Dreams: The Collection by The Cranberries](dreams-the-collection-14815395.jpg)
+{{< img src="dreams-the-collection-14815395.jpg" title="Dreams: The Collection by The Cranberries" >}}
 
 <!-- section break -->
 

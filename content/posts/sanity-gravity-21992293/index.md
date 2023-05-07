@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Jazz-Rock"]
 ---
 
-![Sanity & Gravity by Gavin Harrison](sanity-gravity-21992293.jpg)
+{{< img src="sanity-gravity-21992293.jpg" title="Sanity & Gravity by Gavin Harrison" >}}
 
 <!-- section break -->
 

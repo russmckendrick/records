@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Abstract", "Experimental", "Breaks"]
 ---
 
-![Wildflower by The Avalanches](wildflower-8751243.jpg)
+{{< img src="wildflower-8751243.jpg" title="Wildflower by The Avalanches" >}}
 
 <!-- section break -->
 
@@ -70,13 +70,13 @@ styles: ["Abstract", "Experimental", "Breaks"]
 
 
 ## Videos
-### The Avalanches - Colours (Official Audio)
-{{< youtube id="zLRPDovCpmM" title="The Avalanches - Colours (Official Audio)" >}}<br>
+### The Avalanches - Subways (Official Video)
+{{< youtube id="bPIMfOIuEe4" title="The Avalanches - Subways (Official Video)" >}}<br>
 
 ### More Videos
 
-- [The Avalanches - Subways (Official Video)](https://www.youtube.com/watch?v=bPIMfOIuEe4)
 - [The Avalanches - Because I'm Me (Official Video)](https://www.youtube.com/watch?v=eu0KsZ_MVBc)
+- [The Avalanches - Colours (Official Audio)](https://www.youtube.com/watch?v=zLRPDovCpmM)
 - [The Avalanches - The Noisy Eater](https://www.youtube.com/watch?v=_SPoVDMshPg)
 - [The Avalanches - Frankie Sinatra (Official Video)](https://www.youtube.com/watch?v=SjfspM5sDIA)
 

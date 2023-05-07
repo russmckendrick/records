@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Out Of The Blue by Electric Light Orchestra](out-of-the-blue-11176316.jpg)
+{{< img src="out-of-the-blue-11176316.jpg" title="Out Of The Blue by Electric Light Orchestra" >}}
 
 <!-- section break -->
 
@@ -42,16 +42,16 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Electric Light Orchestra - Mr. Blue Sky (Official Video)
-{{< youtube id="aQUlA8Hcv4s" title="Electric Light Orchestra - Mr. Blue Sky (Official Video)" >}}<br>
+### Electric Light Orchestra - Night In The City (Audio)
+{{< youtube id="pN9u6qf3yKY" title="Electric Light Orchestra - Night In The City (Audio)" >}}<br>
 
 ### More Videos
 
 - [E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977](https://www.youtube.com/watch?v=2f9CoaIH9FE)
+- [Electric Light Orchestra - Mr. Blue Sky (Official Video)](https://www.youtube.com/watch?v=aQUlA8Hcv4s)
 - [Electric Light Orchestra - Big Wheels (2016 European Vinyl)](https://www.youtube.com/watch?v=TctEigzKUOk)
 - [Electric Light Orchestra - Starlight (Audio)](https://www.youtube.com/watch?v=wgoNMzepg1g)
 - [Electric Light Orchestra - It's Over (Official Video)](https://www.youtube.com/watch?v=84gmKIKTk40)
-- [Electric Light Orchestra - Night In The City (Audio)](https://www.youtube.com/watch?v=pN9u6qf3yKY)
 - [Electric Light Orchestra - Standin' In The Rain (Audio)](https://www.youtube.com/watch?v=JlKrn5Pk_Bs)
 - [Electric Light Orchestra - Turn To Stone (Audio)](https://www.youtube.com/watch?v=BDhJU_cNCZE)
 - [Electric Light Orchestra - The Quick And The Daft (Audio)](https://www.youtube.com/watch?v=r-Py1j_EMKg)

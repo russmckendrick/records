@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![20 Golden Hits by Willie Nelson](20-golden-hits-3441920.jpg)
+{{< img src="20-golden-hits-3441920.jpg" title="20 Golden Hits by Willie Nelson" >}}
 
 <!-- section break -->
 

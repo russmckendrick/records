@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
 
-![Simple Things by Zero 7](simple-things-19608181.jpg)
+{{< img src="simple-things-19608181.jpg" title="Simple Things by Zero 7" >}}
 
 <!-- section break -->
 

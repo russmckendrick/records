@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: []
 ---
 
-![Vinylcast (Foam Face Edition) by Tell 'Em Steve-Dave](vinylcast-foam-face-edition-9173592.jpg)
+{{< img src="vinylcast-foam-face-edition-9173592.jpg" title="Vinylcast (Foam Face Edition) by Tell 'Em Steve-Dave" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Jazz", "Blues"]
 styles: ["Hard Bop", "Modal", "Post Bop"]
 ---
 
-![The Atlantic Years – In Mono by John Coltrane](the-atlantic-years-in-mono-8630183.jpg)
+{{< img src="the-atlantic-years-in-mono-8630183.jpg" title="The Atlantic Years – In Mono by John Coltrane" >}}
 
 <!-- section break -->
 

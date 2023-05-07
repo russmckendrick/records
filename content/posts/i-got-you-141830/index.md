@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-![I Got You by Split Enz](i-got-you-141830.jpg)
+{{< img src="i-got-you-141830.jpg" title="I Got You by Split Enz" >}}
 
 <!-- section break -->
 

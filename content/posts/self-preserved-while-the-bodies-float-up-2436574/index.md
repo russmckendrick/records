@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Self Preserved While The Bodies Float Up by Oceansize](self-preserved-while-the-bodies-float-up-2436574.jpg)
+{{< img src="self-preserved-while-the-bodies-float-up-2436574.jpg" title="Self Preserved While The Bodies Float Up by Oceansize" >}}
 
 <!-- section break -->
 

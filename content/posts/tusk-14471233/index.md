@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Tusk by Fleetwood Mac](tusk-14471233.jpg)
+{{< img src="tusk-14471233.jpg" title="Tusk by Fleetwood Mac" >}}
 
 <!-- section break -->
 

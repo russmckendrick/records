@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Soundtrack", "Country", "Rock & Roll"]
 ---
 
-![Country Music A Film By Ken Burns The Soundtrack by Various](country-music-a-film-by-ken-burns-the-soundtrack-14124491.jpg)
+{{< img src="country-music-a-film-by-ken-burns-the-soundtrack-14124491.jpg" title="Country Music A Film By Ken Burns The Soundtrack by Various" >}}
 
 <!-- section break -->
 
@@ -57,12 +57,12 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 
 
 ## Videos
-### Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time
-{{< youtube id="XnFcRAuFFyI" title="Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time" >}}<br>
+### Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s
+{{< youtube id="_o_FqMZ8OKA" title="Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s" >}}<br>
 
 ### More Videos
 
-- [Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s](https://www.youtube.com/watch?v=_o_FqMZ8OKA)
+- [Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time](https://www.youtube.com/watch?v=XnFcRAuFFyI)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![A Love Of Shared Disasters by Crippled Black Phoenix](a-love-of-shared-disasters-7938549.jpg)
+{{< img src="a-love-of-shared-disasters-7938549.jpg" title="A Love Of Shared Disasters by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 
@@ -40,18 +40,18 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats
-{{< youtube id="6Z-TufsJmDg" title="Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats" >}}<br>
+### Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends
+{{< youtube id="VZQ-QgI9Y88" title="Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends" >}}<br>
 
 ### More Videos
 
+- [Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats](https://www.youtube.com/watch?v=6Z-TufsJmDg)
 - [Crippled Black Phoenix - A Love of Shared Disasters [Full Album]](https://www.youtube.com/watch?v=zRFEJ32Rxh8)
 - [Crippled Black Phoenix - The Lament Of The Nithered Mercenary](https://www.youtube.com/watch?v=fAXf6jYgJBI)
 - [Crippled Black Phoenix - You Take The Devil Out Of Me](https://www.youtube.com/watch?v=W0S-MaHdA5E)
 - [Crippled Black Phoenix - Goodnight, Europe](https://www.youtube.com/watch?v=sId-R77QXko)
 - [Crippled Black Phoenix - The Northern Cobbler](https://www.youtube.com/watch?v=nXGu_9GnwoM)
 - [Crippled Black Phoenix - The Whistler](https://www.youtube.com/watch?v=WY9F0NoOXhg)
-- [Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends](https://www.youtube.com/watch?v=VZQ-QgI9Y88)
 
 
 ## Release Information

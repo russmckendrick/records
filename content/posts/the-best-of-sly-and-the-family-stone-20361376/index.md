@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Psychedelic", "Disco"]
 ---
 
-![The Best Of Sly And The Family Stone by Sly & The Family Stone](the-best-of-sly-and-the-family-stone-20361376.jpg)
+{{< img src="the-best-of-sly-and-the-family-stone-20361376.jpg" title="The Best Of Sly And The Family Stone by Sly & The Family Stone" >}}
 
 <!-- section break -->
 

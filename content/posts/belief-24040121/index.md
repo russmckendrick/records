@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["House"]
 ---
 
-![Belief by Belief](belief-24040121.jpg)
+{{< img src="belief-24040121.jpg" title="Belief by Belief" >}}
 
 <!-- section break -->
 

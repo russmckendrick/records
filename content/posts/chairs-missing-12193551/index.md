@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-![Chairs Missing by Wire](chairs-missing-12193551.jpg)
+{{< img src="chairs-missing-12193551.jpg" title="Chairs Missing by Wire" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Outdoor Miner (2006 Remastered Version)
-{{< youtube id="uO0nmjkMpw0" title="Outdoor Miner (2006 Remastered Version)" >}}<br>
+### Being Sucked in Again (2006 Remastered Version)
+{{< youtube id="uF7cx8VpXEo" title="Being Sucked in Again (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
@@ -54,9 +54,9 @@ styles: ["New Wave", "Post-Punk"]
 - [Men 2nd (2006 Remastered Version)](https://www.youtube.com/watch?v=K9b6YIzRlwc)
 - [Marooned (2006 Remastered Version)](https://www.youtube.com/watch?v=a7B7PPB23hc)
 - [Sand in My Joints (2006 Remastered Version)](https://www.youtube.com/watch?v=0NvDSUCZj-c)
-- [Being Sucked in Again (2006 Remastered Version)](https://www.youtube.com/watch?v=uF7cx8VpXEo)
 - [Heartbeat (2006 Remastered Version)](https://www.youtube.com/watch?v=ggwm4aXRIQ8)
 - [Mercy (2006 Remastered Version)](https://www.youtube.com/watch?v=MtIXBSs-REs)
+- [Outdoor Miner (2006 Remastered Version)](https://www.youtube.com/watch?v=uO0nmjkMpw0)
 - [I Am the Fly (2006 Remastered Version)](https://www.youtube.com/watch?v=svcAqVL2l28)
 - [I Feel Mysterious Today (2006 Remastered Version)](https://www.youtube.com/watch?v=yhZU1UcrwR8)
 - [From The Nursery (2006 Remastered Version)](https://www.youtube.com/watch?v=CDQ9_avp5ZY)

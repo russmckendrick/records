@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo"]
 ---
 
-![The Secret Of Letting Go by Lamb](the-secret-of-letting-go-13558086.jpg)
+{{< img src="the-secret-of-letting-go-13558086.jpg" title="The Secret Of Letting Go by Lamb" >}}
 
 <!-- section break -->
 
@@ -39,21 +39,21 @@ styles: ["Leftfield", "Downtempo"]
 
 
 ## Videos
-### Lamb - Bulletproof (Official Music Video)
-{{< youtube id="KndAKVMjK00" title="Lamb - Bulletproof (Official Music Video)" >}}<br>
+### One Hand Clapping
+{{< youtube id="Oz0i-3_1-xk" title="One Hand Clapping" >}}<br>
 
 ### More Videos
 
 - [Phosphorous](https://www.youtube.com/watch?v=VBnCyT4a-_s)
 - [Lamb - Moonshine (feat Cian Finn) (Official Music Video)](https://www.youtube.com/watch?v=fdu1sdFOtiE)
 - [Lamb - Armageddon Waits (Official Video)](https://www.youtube.com/watch?v=iuRLSEa7tos)
+- [Lamb - Bulletproof (Official Music Video)](https://www.youtube.com/watch?v=KndAKVMjK00)
 - [The Secret of Letting Go](https://www.youtube.com/watch?v=o6GFbYDbPlc)
 - [Imperial Measures](https://www.youtube.com/watch?v=M2FDvjXMNUs)
 - [The Other Shore](https://www.youtube.com/watch?v=qBnG3g5uY0U)
 - [Deep Delirium](https://www.youtube.com/watch?v=q97RpAHAAkE)
 - [Illumina](https://www.youtube.com/watch?v=y_9DK0jylio)
 - [The Silence in Between](https://www.youtube.com/watch?v=X-W26gZDkxE)
-- [One Hand Clapping](https://www.youtube.com/watch?v=Oz0i-3_1-xk)
 
 
 ## Release Information

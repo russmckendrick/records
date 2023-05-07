@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 ---
 
-![There Is No Love In Fluorescent Light by Stars](there-is-no-love-in-fluorescent-light-10994086.jpg)
+{{< img src="there-is-no-love-in-fluorescent-light-10994086.jpg" title="There Is No Love In Fluorescent Light by Stars" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 
 
 ## Videos
-### Stars - Alone (Official Audio)
-{{< youtube id="k3V-CQI5OiQ" title="Stars - Alone (Official Audio)" >}}<br>
+### Wanderers
+{{< youtube id="Sr5i0Ej2Ofg" title="Wanderers" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 - [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
 - [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
 - [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
-- [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
+- [Stars - Alone (Official Audio)](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
 - [Fluorescent Light](https://www.youtube.com/watch?v=UItCDy8ARYA)
 - [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
 

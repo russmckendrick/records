@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Bluegrass"]
 ---
 
-![Cotillions by WPC](cotillions-14734860.jpg)
+{{< img src="cotillions-14734860.jpg" title="Cotillions by WPC" >}}
 
 <!-- section break -->
 

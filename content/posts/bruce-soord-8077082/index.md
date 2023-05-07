@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Bruce Soord by Bruce Soord](bruce-soord-8077082.jpg)
+{{< img src="bruce-soord-8077082.jpg" title="Bruce Soord by Bruce Soord" >}}
 
 <!-- section break -->
 

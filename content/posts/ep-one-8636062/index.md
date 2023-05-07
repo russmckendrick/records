@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Electro", "Indie Rock"]
 ---
 
-![EP ONE by Paul Draper](ep-one-8636062.jpg)
+{{< img src="ep-one-8636062.jpg" title="EP ONE by Paul Draper" >}}
 
 <!-- section break -->
 

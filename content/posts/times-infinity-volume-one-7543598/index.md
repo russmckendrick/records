@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Times Infinity Volume One by The Dears](times-infinity-volume-one-7543598.jpg)
+{{< img src="times-infinity-volume-one-7543598.jpg" title="Times Infinity Volume One by The Dears" >}}
 
 <!-- section break -->
 

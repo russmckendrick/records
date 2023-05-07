@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Time On Earth by Crowded House](time-on-earth-5536618.jpg)
+{{< img src="time-on-earth-5536618.jpg" title="Time On Earth by Crowded House" >}}
 
 <!-- section break -->
 

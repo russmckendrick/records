@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ska"]
 ---
 
-![Wonderful by Madness](wonderful-23052995.jpg)
+{{< img src="wonderful-23052995.jpg" title="Wonderful by Madness" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Pop Rock", "Ska"]
 
 
 ## Videos
-### Madness - Going To The Top (Wonderful Track 7)
-{{< youtube id="dUICCsFgUPg" title="Madness - Going To The Top (Wonderful Track 7)" >}}<br>
+### Madness -  If I Didn't Care (Wonderful Track 10)
+{{< youtube id="ISoTiosarYs" title="Madness -  If I Didn't Care (Wonderful Track 10)" >}}<br>
 
 ### More Videos
 
@@ -50,10 +50,10 @@ styles: ["Pop Rock", "Ska"]
 - [Madness - 4am (Wonderful Track 4)](https://www.youtube.com/watch?v=Hh__Ni2a8gE)
 - [MADNESS - MEGAMIX - MEDLEY - (WONDERFUL ALBUM)](https://www.youtube.com/watch?v=I5FW6G83VHE)
 - [Madness - Lovestruck (Wonderful Track 1)](https://www.youtube.com/watch?v=aoDwMuRW3uA)
-- [Madness -  If I Didn't Care (Wonderful Track 10)](https://www.youtube.com/watch?v=ISoTiosarYs)
 - [Madness - The Wizard (Wonderful Track 5)](https://www.youtube.com/watch?v=UbqMw5gqbwU)
 - [Madness - Drip Fed Fred (Wonderful Track 6)](https://www.youtube.com/watch?v=_urgVEy5iIc)
 - [Madness - Drip Fed Fred](https://www.youtube.com/watch?v=7JqaGflZIL0)
+- [Madness - Going To The Top (Wonderful Track 7)](https://www.youtube.com/watch?v=dUICCsFgUPg)
 - [Madness - The Communicator (Wonderful Track 3)](https://www.youtube.com/watch?v=QsdlbJWipGc)
 - [Madness - Johnny The Horse (Wonderful Track 2)](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
 

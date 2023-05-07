@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![The Punishment Of Luxury by Orchestral Manoeuvres In The Dark](the-punishment-of-luxury-10776229.jpg)
+{{< img src="the-punishment-of-luxury-10776229.jpg" title="The Punishment Of Luxury by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Orchestral Manoeuvres in the Dark — 'Isotype,' Live on Soundcheck
-{{< youtube id="HTSF0m0eXuU" title="Orchestral Manoeuvres in the Dark — 'Isotype,' Live on Soundcheck" >}}<br>
+### Orchestral Manoeuvres in the Dark - The Punishment of Luxury
+{{< youtube id="2cU53wWb6UI" title="Orchestral Manoeuvres in the Dark - The Punishment of Luxury" >}}<br>
 
 ### More Videos
 
-- [Orchestral Manoeuvres in the Dark - The Punishment of Luxury](https://www.youtube.com/watch?v=2cU53wWb6UI)
 - [Orchestral Manoeuvres in the Dark — 'The Punishment of Luxury,' Live on Soundcheck](https://www.youtube.com/watch?v=NJQ3ZPF824E)
+- [Orchestral Manoeuvres in the Dark — 'Isotype,' Live on Soundcheck](https://www.youtube.com/watch?v=HTSF0m0eXuU)
 - [OMD kiss kiss kiss, bang bang bang](https://www.youtube.com/watch?v=sNAOUfOBjX4)
 - [Orchestral Manoeuvres in the Dark - The View from Here (Audio)](https://www.youtube.com/watch?v=udz-vvfMSGQ)
 - [Orchestral Manoeuvres In The Dark - One More Time (Unofficial Video)](https://www.youtube.com/watch?v=8r8SuETAXqk)

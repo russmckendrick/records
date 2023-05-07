@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock", "Folk Rock"]
 ---
 
-![Stand Up by Jethro Tull](stand-up-9834706.jpg)
+{{< img src="stand-up-9834706.jpg" title="Stand Up by Jethro Tull" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Jesus Hits Like The Atom Bomb by Tripping Daisy](jesus-hits-like-the-atom-bomb-16253095.jpg)
+{{< img src="jesus-hits-like-the-atom-bomb-16253095.jpg" title="Jesus Hits Like The Atom Bomb by Tripping Daisy" >}}
 
 <!-- section break -->
 
@@ -43,14 +43,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Waited A Light Year
-{{< youtube id="BEf20qe-qGs" title="Waited A Light Year" >}}<br>
+### Sonic Bloom
+{{< youtube id="H5At3vR6FZk" title="Sonic Bloom" >}}<br>
 
 ### More Videos
 
+- [Waited A Light Year](https://www.youtube.com/watch?v=BEf20qe-qGs)
 - [Human Contact](https://www.youtube.com/watch?v=PhNa628JWhk)
 - [Geeareohdoubleyou](https://www.youtube.com/watch?v=Uo2vgawfLLc)
-- [Sonic Bloom](https://www.youtube.com/watch?v=H5At3vR6FZk)
 - [About The Movies](https://www.youtube.com/watch?v=0mgwe_x6JKU)
 - [Mechanical Breakdown](https://www.youtube.com/watch?v=qA2pOrKeJdE)
 - [Your Socks Have No Name](https://www.youtube.com/watch?v=1l-CZ8-7ohc)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-![Attack Of The Grey Lantern  by Mansun](attack-of-the-grey-lantern-22982366.jpg)
+{{< img src="attack-of-the-grey-lantern-22982366.jpg" title="Attack Of The Grey Lantern  by Mansun" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Britpop"]
 
 
 ## Videos
-### M̲a̲n̲s̲u̲n̲ - A̲t̲t̲a̲c̲k̲ O̲f̲ T̲h̲e̲ G̲r̲e̲y̲ L̲a̲n̲t̲e̲r̲n̲
-{{< youtube id="Y-30Irqd_FQ" title="M̲a̲n̲s̲u̲n̲ - A̲t̲t̲a̲c̲k̲ O̲f̲ T̲h̲e̲ G̲r̲e̲y̲ L̲a̲n̲t̲e̲r̲n̲" >}}<br>
+### Disgusting
+{{< youtube id="O00-ToMySOc" title="Disgusting" >}}<br>
 
 ### More Videos
 
 - [Mansun Wide Open Space](https://www.youtube.com/watch?v=ppmUdn6GUXQ)
-- [Disgusting](https://www.youtube.com/watch?v=O00-ToMySOc)
+- [M̲a̲n̲s̲u̲n̲ - A̲t̲t̲a̲c̲k̲ O̲f̲ T̲h̲e̲ G̲r̲e̲y̲ L̲a̲n̲t̲e̲r̲n̲](https://www.youtube.com/watch?v=Y-30Irqd_FQ)
 - [Mansun - Stripper Vicar (official video)](https://www.youtube.com/watch?v=NQ_QkYHaX9k)
 - [Mansun - She Makes My Nose Bleed (Official Promo Video)](https://www.youtube.com/watch?v=beJx16Xirlk)
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)

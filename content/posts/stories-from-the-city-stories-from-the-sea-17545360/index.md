@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Stories From The City, Stories From The Sea by PJ Harvey](stories-from-the-city-stories-from-the-sea-17545360.jpg)
+{{< img src="stories-from-the-city-stories-from-the-sea-17545360.jpg" title="Stories From The City, Stories From The Sea by PJ Harvey" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
 
-![Oxygene by Jean-Michel Jarre](oxygene-7597701.jpg)
+{{< img src="oxygene-7597701.jpg" title="Oxygene by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -34,14 +34,14 @@ styles: ["Synth-pop", "Ambient"]
 
 
 ## Videos
-### Jean Michel Jarre - Oxygen II
-{{< youtube id="hD4KMp22jBg" title="Jean Michel Jarre - Oxygen II" >}}<br>
+### Oxygene, Pt. 3
+{{< youtube id="IV1eR4e90oc" title="Oxygene, Pt. 3" >}}<br>
 
 ### More Videos
 
 - [Jean-Michel Jarre - Oxygene, Pt. 1 (Official Music Video)](https://www.youtube.com/watch?v=71DOHvfFDBY)
 - [Jean Michel Jarre — Oxygene (1976/Full album)](https://www.youtube.com/watch?v=5ab7tIZNplM)
-- [Oxygene, Pt. 3](https://www.youtube.com/watch?v=IV1eR4e90oc)
+- [Jean Michel Jarre - Oxygen II](https://www.youtube.com/watch?v=hD4KMp22jBg)
 - [Oxygene, Pt. 5](https://www.youtube.com/watch?v=WdNeyfkM2wo)
 - [Jean-Michel Jarre - Oxygene, Pt. 4](https://www.youtube.com/watch?v=kSIMVnPA994)
 - [Oxygene, Pt. 6](https://www.youtube.com/watch?v=rUJ-KPCKWDs)

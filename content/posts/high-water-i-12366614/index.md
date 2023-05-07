@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 ---
 
-![High Water I by The Magpie Salute](high-water-i-12366614.jpg)
+{{< img src="high-water-i-12366614.jpg" title="High Water I by The Magpie Salute" >}}
 
 <!-- section break -->
 

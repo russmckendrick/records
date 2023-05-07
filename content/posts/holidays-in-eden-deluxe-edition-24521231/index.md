@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Holidays In Eden (Deluxe Edition) by Marillion](holidays-in-eden-deluxe-edition-24521231.jpg)
+{{< img src="holidays-in-eden-deluxe-edition-24521231.jpg" title="Holidays In Eden (Deluxe Edition) by Marillion" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop", "Ballad"]
 ---
 
-![Welcome To The Pleasuredome by Frankie Goes To Hollywood](welcome-to-the-pleasuredome-73458.jpg)
+{{< img src="welcome-to-the-pleasuredome-73458.jpg" title="Welcome To The Pleasuredome by Frankie Goes To Hollywood" >}}
 
 <!-- section break -->
 
@@ -49,8 +49,8 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 
 
 ## Videos
-### Fury
-{{< youtube id="t9AsldPY2ts" title="Fury" >}}<br>
+### The Only Star In Heaven
+{{< youtube id="H45pKYBmsLA" title="The Only Star In Heaven" >}}<br>
 
 ### More Videos
 
@@ -62,13 +62,13 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 - [War](https://www.youtube.com/watch?v=EPA9B3YZtlc)
 - [Two Tribes](https://www.youtube.com/watch?v=o7jrM8E82Sw)
 - [Tag](https://www.youtube.com/watch?v=3MoWj2Qrezc)
+- [Fury](https://www.youtube.com/watch?v=t9AsldPY2ts)
 - [Born To Run](https://www.youtube.com/watch?v=2g5lMRzPLZw)
 - [San Jose](https://www.youtube.com/watch?v=R-ZtD-7wKaM)
 - [Wish The Lads Were Here](https://www.youtube.com/watch?v=0cR0BF0ngl4)
 - [The Ballad of 32](https://www.youtube.com/watch?v=OWHHk3UvSo4)
 - [Krisco Kisses](https://www.youtube.com/watch?v=_P8l1Y-tNow)
 - [Black Night White Light](https://www.youtube.com/watch?v=pIy3Jv3ejAI)
-- [The Only Star In Heaven](https://www.youtube.com/watch?v=H45pKYBmsLA)
 - [The Power Of Love](https://www.youtube.com/watch?v=3-APuH5b46M)
 - [Bang](https://www.youtube.com/watch?v=49rN_5MNO98)
 

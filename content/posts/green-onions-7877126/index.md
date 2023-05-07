@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul", "Funk"]
 ---
 
-![Green Onions by Booker T & The MG's](green-onions-7877126.jpg)
+{{< img src="green-onions-7877126.jpg" title="Green Onions by Booker T & The MG's" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 
 
 ## Videos
-### Behave Yourself
-{{< youtube id="ZdVhIiPJohs" title="Behave Yourself" >}}<br>
+### One Who Really Loves You
+{{< youtube id="d9G_X_7ze8o" title="One Who Really Loves You" >}}<br>
 
 ### More Videos
 
@@ -50,9 +50,9 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 - [I Got a Woman](https://www.youtube.com/watch?v=0ZXqw_cQeTw)
 - [Mo' Onions](https://www.youtube.com/watch?v=3AXwb7GL4-4)
 - [Twist and Shout](https://www.youtube.com/watch?v=gv2BjQIAf5Y)
+- [Behave Yourself](https://www.youtube.com/watch?v=ZdVhIiPJohs)
 - [Stranger on the Shore](https://www.youtube.com/watch?v=dMz3TLRvDEY)
 - [Lonely Avenue](https://www.youtube.com/watch?v=DFYSfgotEa4)
-- [One Who Really Loves You](https://www.youtube.com/watch?v=d9G_X_7ze8o)
 - [You Can't Sit Down](https://www.youtube.com/watch?v=53glDIYrBog)
 - [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
 - [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-![Fear Inoculum by Tool](fear-inoculum-22253038.jpg)
+{{< img src="fear-inoculum-22253038.jpg" title="Fear Inoculum by Tool" >}}
 
 <!-- section break -->
 
@@ -34,8 +34,8 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 ## Videos
-### Chocolate Chip Trip
-{{< youtube id="DkYFuSo0oWA" title="Chocolate Chip Trip" >}}<br>
+### 7empest
+{{< youtube id="wVjcmOKTqJc" title="7empest" >}}<br>
 
 ### More Videos
 
@@ -44,7 +44,7 @@ styles: ["Progressive Metal", "Prog Rock"]
 - [TOOL - Invincible (Audio)](https://www.youtube.com/watch?v=hxsld16TjSU)
 - [TOOL - Descending (Audio)](https://www.youtube.com/watch?v=PcSoLwFisaw)
 - [TOOL - Culling Voices (Audio)](https://www.youtube.com/watch?v=rj3IbZV_YQM)
-- [7empest](https://www.youtube.com/watch?v=wVjcmOKTqJc)
+- [Chocolate Chip Trip](https://www.youtube.com/watch?v=DkYFuSo0oWA)
 
 
 ## Release Information

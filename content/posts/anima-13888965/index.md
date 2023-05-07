@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "IDM"]
 ---
 
-![Anima by Thom Yorke](anima-13888965.jpg)
+{{< img src="anima-13888965.jpg" title="Anima by Thom Yorke" >}}
 
 <!-- section break -->
 

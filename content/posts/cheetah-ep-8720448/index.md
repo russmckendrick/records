@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno", "IDM"]
 ---
 
-![Cheetah EP by Aphex Twin](cheetah-ep-8720448.jpg)
+{{< img src="cheetah-ep-8720448.jpg" title="Cheetah EP by Aphex Twin" >}}
 
 <!-- section break -->
 
@@ -36,14 +36,14 @@ styles: ["Techno", "IDM"]
 
 
 ## Videos
-### Cheeta2 Ms800
-{{< youtube id="n-EsxoAtzw0" title="Cheeta2 Ms800" >}}<br>
+### Aphex Twin - CHEETA1b ms800
+{{< youtube id="r_g75_gIau8" title="Aphex Twin - CHEETA1b ms800" >}}<br>
 
 ### More Videos
 
 - [Cheetaht2 [Ld Spectrum]](https://www.youtube.com/watch?v=3fYeGslglCc)
 - [Aphex Twin - CHEETAHT7b](https://www.youtube.com/watch?v=cJcHE1C0BWQ)
-- [Aphex Twin - CHEETA1b ms800](https://www.youtube.com/watch?v=r_g75_gIau8)
+- [Cheeta2 Ms800](https://www.youtube.com/watch?v=n-EsxoAtzw0)
 
 
 ## Release Information

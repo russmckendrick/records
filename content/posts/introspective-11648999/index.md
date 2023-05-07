@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["House", "Synth-pop"]
 ---
 
-![Introspective by Pet Shop Boys](introspective-11648999.jpg)
+{{< img src="introspective-11648999.jpg" title="Introspective by Pet Shop Boys" >}}
 
 <!-- section break -->
 

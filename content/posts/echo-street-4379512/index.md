@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![Echo Street by Amplifier](echo-street-4379512.jpg)
+{{< img src="echo-street-4379512.jpg" title="Echo Street by Amplifier" >}}
 
 <!-- section break -->
 

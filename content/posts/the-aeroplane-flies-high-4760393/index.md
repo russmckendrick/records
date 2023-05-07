@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The Aeroplane Flies High by The Smashing Pumpkins](the-aeroplane-flies-high-4760393.jpg)
+{{< img src="the-aeroplane-flies-high-4760393.jpg" title="The Aeroplane Flies High by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

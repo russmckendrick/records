@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-![Monolithic Baby! by Monster Magnet](monolithic-baby-24530108.jpg)
+{{< img src="monolithic-baby-24530108.jpg" title="Monolithic Baby! by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Monster Magnet - Monolithic
-{{< youtube id="WtMFxoTMJso" title="Monster Magnet - Monolithic" >}}<br>
+### Monster Magnet - Monolithic.  (HQ)
+{{< youtube id="2fAL9sjce6Q" title="Monster Magnet - Monolithic.  (HQ)" >}}<br>
 
 ### More Videos
 
 - [Monster Magnet ‎– Slut Machine](https://www.youtube.com/watch?v=BrztzfOW7z4)
-- [Monster Magnet - Monolithic.  (HQ)](https://www.youtube.com/watch?v=2fAL9sjce6Q)
 - [On The Verge - Monster Magnet - Monolithic Baby!](https://www.youtube.com/watch?v=k7ZETM9Ewxk)
 - [Unbroken (Hotel Baby)](https://www.youtube.com/watch?v=99DfGBp5PYE)
 - [Monster Magnet - Radiation Day](https://www.youtube.com/watch?v=D5Id6AoS63I)
+- [Monster Magnet - Monolithic](https://www.youtube.com/watch?v=WtMFxoTMJso)
 - [The Right Stuff - Monster Magnet](https://www.youtube.com/watch?v=AwcJ5YoWyBc)
 - [Monster Magnet - Theres No Way Out Of Here](https://www.youtube.com/watch?v=6TS8nii_HJ8)
 - [Master Of The Light - Monster Magnet - Monolithic Baby!](https://www.youtube.com/watch?v=wp_QYeQceQE)

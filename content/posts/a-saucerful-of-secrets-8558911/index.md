@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![A Saucerful Of Secrets by Pink Floyd](a-saucerful-of-secrets-8558911.jpg)
+{{< img src="a-saucerful-of-secrets-8558911.jpg" title="A Saucerful Of Secrets by Pink Floyd" >}}
 
 <!-- section break -->
 

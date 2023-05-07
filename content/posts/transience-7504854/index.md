@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Transience by Steven Wilson](transience-7504854.jpg)
+{{< img src="transience-7504854.jpg" title="Transience by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -41,13 +41,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Steven Wilson - Lazarus
-{{< youtube id="YMM2Iqvmu_4" title="Steven Wilson - Lazarus" >}}<br>
+### Happiness III
+{{< youtube id="NcQDccPNar4" title="Happiness III" >}}<br>
 
 ### More Videos
 
+- [Steven Wilson - Lazarus](https://www.youtube.com/watch?v=YMM2Iqvmu_4)
 - [Steven Wilson - Transience (Single Version)](https://www.youtube.com/watch?v=3zM4AvAl9gQ)
-- [Happiness III](https://www.youtube.com/watch?v=NcQDccPNar4)
 - [Thank You](https://www.youtube.com/watch?v=IQQOvl1WM2A)
 - [Psychosins Psychoanalysis: Steven Wilson - Transience](https://www.youtube.com/watch?v=62ddEbw4Hao)
 

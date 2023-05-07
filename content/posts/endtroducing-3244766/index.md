@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Instrumental", "Cut-up/DJ", "Downtempo"]
 ---
 
-![Endtroducing... by DJ Shadow](endtroducing-3244766.jpg)
+{{< img src="endtroducing-3244766.jpg" title="Endtroducing... by DJ Shadow" >}}
 
 <!-- section break -->
 
@@ -42,18 +42,18 @@ styles: ["Instrumental", "Cut-up/DJ", "Downtempo"]
 
 
 ## Videos
-### Building Steam With A Grain Of Salt
-{{< youtube id="dt-EhEsdbEQ" title="Building Steam With A Grain Of Salt" >}}<br>
+### What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)
+{{< youtube id="09d2G-cXqqE" title="What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)" >}}<br>
 
 ### More Videos
 
 - [DJ Shadow - Midnight In A Perfect World](https://www.youtube.com/watch?v=InFbBlpDTfQ)
 - [Best Foot Forward](https://www.youtube.com/watch?v=FGQjrBuW-Xg)
+- [Building Steam With A Grain Of Salt](https://www.youtube.com/watch?v=dt-EhEsdbEQ)
 - [The Number Song](https://www.youtube.com/watch?v=l1d9l7UB22Y)
 - [Stem / Long Stem (Medley)](https://www.youtube.com/watch?v=OXsaglqlASk)
 - [Mutual Slump](https://www.youtube.com/watch?v=A-HVgnOI3HY)
 - [Organ Donor](https://www.youtube.com/watch?v=uV8OE-TB0nQ)
-- [What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)](https://www.youtube.com/watch?v=09d2G-cXqqE)
 
 
 ## Release Information

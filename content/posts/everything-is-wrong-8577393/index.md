@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 ---
 
-![Everything Is Wrong by Moby](everything-is-wrong-8577393.jpg)
+{{< img src="everything-is-wrong-8577393.jpg" title="Everything Is Wrong by Moby" >}}
 
 <!-- section break -->
 

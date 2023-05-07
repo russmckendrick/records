@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Indie Top 20 Volume VII by Various](indie-top-20-volume-vii-430563.jpg)
+{{< img src="indie-top-20-volume-vii-430563.jpg" title="Indie Top 20 Volume VII by Various" >}}
 
 <!-- section break -->
 

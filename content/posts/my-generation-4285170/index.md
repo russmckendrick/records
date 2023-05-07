@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Mod"]
 ---
 
-![My Generation by The Who](my-generation-4285170.jpg)
+{{< img src="my-generation-4285170.jpg" title="My Generation by The Who" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska"]
 ---
 
-![The Dangermen Sessions (Volume One) by Madness](the-dangermen-sessions-volume-one-24543611.jpg)
+{{< img src="the-dangermen-sessions-volume-one-24543611.jpg" title="The Dangermen Sessions (Volume One) by Madness" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Ska"]
 
 
 ## Videos
-### Madness - You'll Lose A Good Thing
-{{< youtube id="Ju4kJhEM18k" title="Madness - You'll Lose A Good Thing" >}}<br>
+### You'll Lose a Good Thing
+{{< youtube id="IwN-74fBrqY" title="You'll Lose a Good Thing" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Ska"]
 - [Lola](https://www.youtube.com/watch?v=v142-oPlnNI)
 - [So Much Trouble in the World](https://www.youtube.com/watch?v=vIHMY6EtOQI)
 - [I Chase the Devil AKA Ironshirt](https://www.youtube.com/watch?v=JQ0CrMJec5A)
-- [You'll Lose a Good Thing](https://www.youtube.com/watch?v=IwN-74fBrqY)
+- [Madness - You'll Lose A Good Thing](https://www.youtube.com/watch?v=Ju4kJhEM18k)
 - [John Jones](https://www.youtube.com/watch?v=ISJyYFV8iyE)
 - [Madness - The Dangermen Sessions Volume One (Full Album)](https://www.youtube.com/watch?v=GGZ9W7_HCE4)
 - [Madness - Shame And Scandal](https://www.youtube.com/watch?v=jPHOPTwjVwY)

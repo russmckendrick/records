@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![The Waterfall by My Morning Jacket](the-waterfall-6959105.jpg)
+{{< img src="the-waterfall-6959105.jpg" title="The Waterfall by My Morning Jacket" >}}
 
 <!-- section break -->
 

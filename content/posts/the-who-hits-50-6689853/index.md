@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 ---
 
-![The Who Hits 50! by The Who](the-who-hits-50-6689853.jpg)
+{{< img src="the-who-hits-50-6689853.jpg" title="The Who Hits 50! by The Who" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Pop", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
 
-![The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry](the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149.jpg)
+{{< img src="the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149.jpg" title="The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry" >}}
 
 <!-- section break -->
 
@@ -57,8 +57,8 @@ styles: ["Country Rock", "Country"]
 
 
 ## Videos
-### Mean Stepmama Blues
-{{< youtube id="zo7RKPH1WCE" title="Mean Stepmama Blues" >}}<br>
+### Circle ‘Round the Sun
+{{< youtube id="ArsjiIZxKok" title="Circle ‘Round the Sun" >}}<br>
 
 ### More Videos
 
@@ -95,12 +95,12 @@ styles: ["Country Rock", "Country"]
 - [Find 'Em, Fool 'Em And Forget 'Em](https://www.youtube.com/watch?v=rizcoGFfgIg)
 - [He Made A Woman Out Of Me](https://www.youtube.com/watch?v=v8smDOw1B6c)
 - [Rainmaker](https://www.youtube.com/watch?v=z_CQo5JILcU)
-- [Circle ‘Round the Sun](https://www.youtube.com/watch?v=ArsjiIZxKok)
 - [Apartment 21](https://www.youtube.com/watch?v=SL_Ipup_nRU)
 - [Billy The Kid (Live)](https://www.youtube.com/watch?v=SyMcUrBbrHM)
 - [Benjamin](https://www.youtube.com/watch?v=qLwkQYw5VYA)
 - [But I Can't Get Back](https://www.youtube.com/watch?v=NzyynkTW6Ak)
 - [Belinda (Alternate Take)](https://www.youtube.com/watch?v=vLqNo_VzQIE)
+- [Mean Stepmama Blues](https://www.youtube.com/watch?v=zo7RKPH1WCE)
 - [Lookin' In](https://www.youtube.com/watch?v=R8f9PimNb90)
 - [Smoke](https://www.youtube.com/watch?v=SHBVEUr2QAY)
 - [Joanne](https://www.youtube.com/watch?v=X0baW7xZcYY)

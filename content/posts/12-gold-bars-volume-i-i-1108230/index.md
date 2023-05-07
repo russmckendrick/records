@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![12 Gold Bars Volume I+I by Status Quo](12-gold-bars-volume-i-i-1108230.jpg)
+{{< img src="12-gold-bars-volume-i-i-1108230.jpg" title="12 Gold Bars Volume I+I by Status Quo" >}}
 
 <!-- section break -->
 

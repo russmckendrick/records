@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![How To Solve Our Human Problems by Belle & Sebastian](how-to-solve-our-human-problems-11559151.jpg)
+{{< img src="how-to-solve-our-human-problems-11559151.jpg" title="How To Solve Our Human Problems by Belle & Sebastian" >}}
 
 <!-- section break -->
 

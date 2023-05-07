@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Electro"]
 ---
 
-![Welcome Oblivion by How To Destroy Angels](welcome-oblivion-4361414.jpg)
+{{< img src="welcome-oblivion-4361414.jpg" title="Welcome Oblivion by How To Destroy Angels" >}}
 
 <!-- section break -->
 
@@ -58,14 +58,14 @@ styles: ["Industrial", "Electro"]
 
 
 ## Videos
-### How to Destroy Angels - Welcome Oblivion (Full Album)
-{{< youtube id="jQM-laUav_g" title="How to Destroy Angels - Welcome Oblivion (Full Album)" >}}<br>
+### How To Destroy Angels - Ice age
+{{< youtube id="Oq3pDuJeMqQ" title="How To Destroy Angels - Ice age" >}}<br>
 
 ### More Videos
 
+- [How to Destroy Angels - Welcome Oblivion (Full Album)](https://www.youtube.com/watch?v=jQM-laUav_g)
 - [How To Destroy Angels - Keep it together](https://www.youtube.com/watch?v=EoXSUOjGk6w)
 - [How to Destroy Angels - The Wake-Up](https://www.youtube.com/watch?v=23xMs0EtC7U)
-- [How To Destroy Angels - Ice age](https://www.youtube.com/watch?v=Oq3pDuJeMqQ)
 - [How To Destroy Angels - How Long?](https://www.youtube.com/watch?v=1sUTVT7HzSg)
 - [How to Destroy Angels - Welcome Oblivion](https://www.youtube.com/watch?v=AxraUvHlfJk)
 - [How To Destroy Angels - The loop closes](https://www.youtube.com/watch?v=gY2VADkYanQ)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![More Stately Mansions by Charlie Barnes](more-stately-mansions-7073830.jpg)
+{{< img src="more-stately-mansions-7073830.jpg" title="More Stately Mansions by Charlie Barnes" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: []
 
 
 ## Videos
-### House
-{{< youtube id="V4YvBiOknoc" title="House" >}}<br>
+### More Stately Mansions
+{{< youtube id="8iUXhcEhyK0" title="More Stately Mansions" >}}<br>
 
 ### More Videos
 
 - [CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=w4fZO6j6I2s)
 - [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
-- [More Stately Mansions](https://www.youtube.com/watch?v=8iUXhcEhyK0)
+- [House](https://www.youtube.com/watch?v=V4YvBiOknoc)
 - [Hammers](https://www.youtube.com/watch?v=FSMm4tvvuLc)
 - [MacbethMacbethMacbeth](https://www.youtube.com/watch?v=qu6jzDyGJ4I)
 - [Ghosts](https://www.youtube.com/watch?v=u9HC4Q4vw4A)

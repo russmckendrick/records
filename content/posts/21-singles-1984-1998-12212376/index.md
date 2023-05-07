@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![21 Singles 1984-1998 by The Jesus And Mary Chain](21-singles-1984-1998-12212376.jpg)
+{{< img src="21-singles-1984-1998-12212376.jpg" title="21 Singles 1984-1998 by The Jesus And Mary Chain" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![EP Two by Paul Draper](ep-two-9446803.jpg)
+{{< img src="ep-two-9446803.jpg" title="EP Two by Paul Draper" >}}
 
 <!-- section break -->
 

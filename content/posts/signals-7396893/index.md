@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Signals by Rush](signals-7396893.jpg)
+{{< img src="signals-7396893.jpg" title="Signals by Rush" >}}
 
 <!-- section break -->
 

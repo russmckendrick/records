@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
 
-![Doubt by Jesus Jones](doubt-564216.jpg)
+{{< img src="doubt-564216.jpg" title="Doubt by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 
 
 ## Videos
-### Who? Where? Why?
-{{< youtube id="fidPRriWTrQ" title="Who? Where? Why?" >}}<br>
+### Trust Me
+{{< youtube id="CK3C9XZcTbM" title="Trust Me" >}}<br>
 
 ### More Videos
 
-- [Trust Me](https://www.youtube.com/watch?v=CK3C9XZcTbM)
+- [Who? Where? Why?](https://www.youtube.com/watch?v=fidPRriWTrQ)
 - [Jesus Jones - International Bright Young Thing (Official Music Video)](https://www.youtube.com/watch?v=XedEne6TXXA)
 - [I'm Burning](https://www.youtube.com/watch?v=URZMGGwDwKo)
 - [Right Here Right Now](https://www.youtube.com/watch?v=TN42nLpQvM8)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 ---
 
-![No Sounds Are Out Of Bounds by The Orb](no-sounds-are-out-of-bounds-12165872.jpg)
+{{< img src="no-sounds-are-out-of-bounds-12165872.jpg" title="No Sounds Are Out Of Bounds by The Orb" >}}
 
 <!-- section break -->
 

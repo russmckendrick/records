@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Five Leaves Left by Nick Drake](five-leaves-left-4968730.jpg)
+{{< img src="five-leaves-left-4968730.jpg" title="Five Leaves Left by Nick Drake" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Day Is Done
-{{< youtube id="9VNfZwvuyBA" title="Day Is Done" >}}<br>
+### ' Cello Song
+{{< youtube id="MhSVh75lKiE" title="' Cello Song" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Folk Rock"]
 - [River Man](https://www.youtube.com/watch?v=HQ9JBwuO128)
 - [Three Hours](https://www.youtube.com/watch?v=VfSWWScqH5M)
 - [Way To Blue](https://www.youtube.com/watch?v=DW2m0wp8zO0)
-- [' Cello Song](https://www.youtube.com/watch?v=MhSVh75lKiE)
+- [Day Is Done](https://www.youtube.com/watch?v=9VNfZwvuyBA)
 - [Man In A Shed](https://www.youtube.com/watch?v=RPETztdS7Fk)
 - [Fruit Tree](https://www.youtube.com/watch?v=lBBeyHk8Gmw)
 - [Saturday Sun](https://www.youtube.com/watch?v=QwaqO3i_eQA)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-![Live by Status Quo](live-7580911.jpg)
+{{< img src="live-7580911.jpg" title="Live by Status Quo" >}}
 
 <!-- section break -->
 

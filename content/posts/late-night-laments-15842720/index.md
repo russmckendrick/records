@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Ambient"]
 ---
 
-![Late Night Laments by Tim Bowness](late-night-laments-15842720.jpg)
+{{< img src="late-night-laments-15842720.jpg" title="Late Night Laments by Tim Bowness" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Ambient"]
 
 
 ## Videos
-### The Hitman Who Missed
-{{< youtube id="1u8AUkq03cw" title="The Hitman Who Missed" >}}<br>
+### Darkline
+{{< youtube id="FEzmReMZou8" title="Darkline" >}}<br>
 
 ### More Videos
 
@@ -57,9 +57,9 @@ styles: ["Ambient"]
 - [TIM BOWNESS - Northern Rain (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=ns8_oScLjeE)
 - [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
 - [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
+- [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
 - [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
 - [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
-- [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
 - [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
 - [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![A Wizard, A True Star by Todd Rundgren](a-wizard-a-true-star-2244770.jpg)
+{{< img src="a-wizard-a-true-star-2244770.jpg" title="A Wizard, A True Star by Todd Rundgren" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![The Tears Of Technology by Bob Stanley](the-tears-of-technology-14861335.jpg)
+{{< img src="the-tears-of-technology-14861335.jpg" title="The Tears Of Technology by Bob Stanley" >}}
 
 <!-- section break -->
 
@@ -46,18 +46,18 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### John Foxx - Europe After The Rain (HQ)
-{{< youtube id="DFjkOWigb-M" title="John Foxx - Europe After The Rain (HQ)" >}}<br>
+### Illustration - Tidal Flow
+{{< youtube id="zs_BTg2FQTc" title="Illustration - Tidal Flow" >}}<br>
 
 ### More Videos
 
 - [China Crisis - Jean Walks in Fresh Fields](https://www.youtube.com/watch?v=d7Mf_mxnsjg)
 - [Turquoise Days - Grey Skies](https://www.youtube.com/watch?v=GqpL5iNa4rA)
 - [Reel To Real (Remastered 2002)](https://www.youtube.com/watch?v=ACV2n3lJxFs)
-- [Illustration - Tidal Flow](https://www.youtube.com/watch?v=zs_BTg2FQTc)
 - [An Evening In The Ray](https://www.youtube.com/watch?v=pqhTGaRRXSg)
 - [The Turquoise Swimming Pools - The Winds](https://www.youtube.com/watch?v=zwa54ZlE25Y)
 - [Youth](https://www.youtube.com/watch?v=2ikFs0cwqp0)
+- [John Foxx - Europe After The Rain (HQ)](https://www.youtube.com/watch?v=DFjkOWigb-M)
 - [Patrik Fitzgerald - Personal Loss](https://www.youtube.com/watch?v=GMVLCp183Ks)
 - [Eyeless In Gaza - Light of April](https://www.youtube.com/watch?v=3OoJWs5wtfM)
 - [Sealand (2003 Digital Remaster)](https://www.youtube.com/watch?v=t_he2hubqNo)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Teenager Of The Year by Frank Black](teenager-of-the-year-13452170.jpg)
+{{< img src="teenager-of-the-year-13452170.jpg" title="Teenager Of The Year by Frank Black" >}}
 
 <!-- section break -->
 
@@ -50,14 +50,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### [I Want to Live on an] Abstract Plain
-{{< youtube id="KKFrrtq7BF8" title="[I Want to Live on an] Abstract Plain" >}}<br>
+### Fazer Eyes
+{{< youtube id="l_e_UKFGpUQ" title="Fazer Eyes" >}}<br>
 
 ### More Videos
 
 - [Frank Black - Headache](https://www.youtube.com/watch?v=ytQhL0-3FtM)
 - [Superabound](https://www.youtube.com/watch?v=IFx4FGUyPBc)
-- [Fazer Eyes](https://www.youtube.com/watch?v=l_e_UKFGpUQ)
+- [[I Want to Live on an] Abstract Plain](https://www.youtube.com/watch?v=KKFrrtq7BF8)
 - [Big Red](https://www.youtube.com/watch?v=lX2n3XiSNm8)
 - [The Vanishing Spies](https://www.youtube.com/watch?v=GjxV0lX5nmQ)
 

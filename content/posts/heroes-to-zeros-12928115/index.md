@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Dub", "Synth-pop"]
 ---
 
-![Heroes To Zeros by The Beta Band](heroes-to-zeros-12928115.jpg)
+{{< img src="heroes-to-zeros-12928115.jpg" title="Heroes To Zeros by The Beta Band" >}}
 
 <!-- section break -->
 
@@ -40,21 +40,21 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 
 
 ## Videos
-### The Beta Band: Pure For
-{{< youtube id="jSrAGwejnb0" title="The Beta Band: Pure For" >}}<br>
+### Beta Band - Lion Thief
+{{< youtube id="2iwRrUhBzVM" title="Beta Band - Lion Thief" >}}<br>
 
 ### More Videos
 
 - [The Beta Band - 'Out-Side'](https://www.youtube.com/watch?v=XQceoURGvIQ)
 - [The Beta Band - Assessment (Official Music Video)](https://www.youtube.com/watch?v=5XdUt3iIkZ4)
 - [The Beta Band - Simple](https://www.youtube.com/watch?v=Gz3kBDOL5Po)
-- [Beta Band - Lion Thief](https://www.youtube.com/watch?v=2iwRrUhBzVM)
 - [The Beta Band - Pure For](https://www.youtube.com/watch?v=qUugsICNqSQ)
 - [The Beta Band on 'Later...with Jools Holland'](https://www.youtube.com/watch?v=eRr4eVoRi3U)
 - [The Beta Band - Space](https://www.youtube.com/watch?v=alzwfb1C_8k)
 - [The Beta Band - Easy](https://www.youtube.com/watch?v=-ySuIK7wQzE)
 - [The Beta Band: Space Beatle](https://www.youtube.com/watch?v=mA4_NucHWc4)
 - [liquid bird - the beta band](https://www.youtube.com/watch?v=T58NXjt1tiE)
+- [The Beta Band: Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
 - [The Beta Band - Troubles+lyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
 
 

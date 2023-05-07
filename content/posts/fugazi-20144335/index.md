@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Fugazi by Marillion](fugazi-20144335.jpg)
+{{< img src="fugazi-20144335.jpg" title="Fugazi by Marillion" >}}
 
 <!-- section break -->
 

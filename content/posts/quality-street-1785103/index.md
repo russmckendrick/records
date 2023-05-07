@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 ---
 
-![Quality Street by World Of Twist](quality-street-1785103.jpg)
+{{< img src="quality-street-1785103.jpg" title="Quality Street by World Of Twist" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
-![Night Raider by Crippled Black Phoenix](night-raider-13562794.jpg)
+{{< img src="night-raider-13562794.jpg" title="Night Raider by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 

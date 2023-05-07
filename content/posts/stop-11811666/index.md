@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: []
 ---
 
-![Stop! by Sam Brown](stop-11811666.jpg)
+{{< img src="stop-11811666.jpg" title="Stop! by Sam Brown" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: []
 
 
 ## Videos
-### This Feeling
-{{< youtube id="zlbuy37bhXs" title="This Feeling" >}}<br>
+### Tea
+{{< youtube id="RAQ0OmNsmRI" title="Tea" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: []
 - [Your Love Is All](https://www.youtube.com/watch?v=LEBiRGka5nU)
 - [Stop](https://www.youtube.com/watch?v=kRHSAPiBfq8)
 - [It Makes Me Wonder](https://www.youtube.com/watch?v=UUhjwspFCXI)
-- [Tea](https://www.youtube.com/watch?v=RAQ0OmNsmRI)
+- [This Feeling](https://www.youtube.com/watch?v=zlbuy37bhXs)
 - [Piece Of My Luck](https://www.youtube.com/watch?v=x05qXKVpJGU)
 - [Ball And Chain](https://www.youtube.com/watch?v=xEoXSfjJzwA)
 - [Wrap Me Up](https://www.youtube.com/watch?v=bBtt6SwSzzA)

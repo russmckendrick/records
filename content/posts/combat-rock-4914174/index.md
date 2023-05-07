@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Dub", "Punk"]
 ---
 
-![Combat Rock by The Clash](combat-rock-4914174.jpg)
+{{< img src="combat-rock-4914174.jpg" title="Combat Rock by The Clash" >}}
 
 <!-- section break -->
 

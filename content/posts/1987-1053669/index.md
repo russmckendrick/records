@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
 
-![1987 by Whitesnake](1987-1053669.jpg)
+{{< img src="1987-1053669.jpg" title="1987 by Whitesnake" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,12 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Videos
-### Whitesnake - Here I Go Again '87 (Official Music Video)
-{{< youtube id="WyF8RHM1OCg" title="Whitesnake - Here I Go Again '87 (Official Music Video)" >}}<br>
+### Whitesnake - Is This Love (Official Music Video)
+{{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Whitesnake - Is This Love (Official Music Video)](https://www.youtube.com/watch?v=GOJk0HW_hJw)
+- [Whitesnake - Here I Go Again '87 (Official Music Video)](https://www.youtube.com/watch?v=WyF8RHM1OCg)
 - [Whitesnake - Still of the Night (Official Music Video)](https://www.youtube.com/watch?v=swPt9HBRXuE)
 - [Whitesnake - Give Me All Your Love (Official Music Video)](https://www.youtube.com/watch?v=dkl2hiTHUrc)
 

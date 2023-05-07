@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
 
-![Live At Leeds by The Who](live-at-leeds-9414554.jpg)
+{{< img src="live-at-leeds-9414554.jpg" title="Live At Leeds by The Who" >}}
 
 <!-- section break -->
 

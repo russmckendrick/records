@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Experimental"]
 ---
 
-![Dazzle Ships by Orchestral Manoeuvres In The Dark](dazzle-ships-26596208.jpg)
+{{< img src="dazzle-ships-26596208.jpg" title="Dazzle Ships by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 

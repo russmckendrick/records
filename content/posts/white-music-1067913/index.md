@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-![White Music by XTC](white-music-1067913.jpg)
+{{< img src="white-music-1067913.jpg" title="White Music by XTC" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### XTC - Spinning Top
-{{< youtube id="a5lqT0aYC6Y" title="XTC - Spinning Top" >}}<br>
+### Dance Band (2001 Remaster)
+{{< youtube id="gr3YUFcGTVc" title="Dance Band (2001 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -57,10 +57,10 @@ styles: ["New Wave", "Post-Punk"]
 - [I'll Set Myself On Fire (2001 Remaster)](https://www.youtube.com/watch?v=aThzc5oKlBc)
 - [XTC i'm bugged 1978](https://www.youtube.com/watch?v=0BRtiocklmM)
 - [XTC - New Town Animal in a Furnished Cage](https://www.youtube.com/watch?v=2xManY-LuIA)
+- [XTC - Spinning Top](https://www.youtube.com/watch?v=a5lqT0aYC6Y)
 - [Neon Shuffle (2001 Remaster)](https://www.youtube.com/watch?v=ppTHMJRGhSc)
 - [Science Friction (2001 Remaster)](https://www.youtube.com/watch?v=bZlIDgfJCE4)
 - [She's So Square (2001 Remaster)](https://www.youtube.com/watch?v=BJSsRqBqB2k)
-- [Dance Band (2001 Remaster)](https://www.youtube.com/watch?v=gr3YUFcGTVc)
 - [XTC - Heatwave](https://www.youtube.com/watch?v=IiW2ZheWyHQ)
 - [Traffic Light Rock (2001 Remaster)](https://www.youtube.com/watch?v=g-jXkJNkRv8)
 - [Instant Tunes (2001 Remaster)](https://www.youtube.com/watch?v=gOCiMxfjswM)

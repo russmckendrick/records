@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![A Séance Of Dark Delusions by Nordic Giants](a-sance-of-dark-delusions-6982951.jpg)
+{{< img src="a-sance-of-dark-delusions-6982951.jpg" title="A Séance Of Dark Delusions by Nordic Giants" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Nordic Giants - A Séance of Dark Delusions (documentary clip)
-{{< youtube id="LDroAjaym04" title="Nordic Giants - A Séance of Dark Delusions (documentary clip)" >}}<br>
+### Nordic Giants - Rapture (from A Séance of Dark Delusions)
+{{< youtube id="K79YFZLXobM" title="Nordic Giants - Rapture (from A Séance of Dark Delusions)" >}}<br>
 
 ### More Videos
 
 - [¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥](https://www.youtube.com/watch?v=yeI5UM572xI)
-- [Nordic Giants - Rapture (from A Séance of Dark Delusions)](https://www.youtube.com/watch?v=K79YFZLXobM)
+- [Nordic Giants - A Séance of Dark Delusions (documentary clip)](https://www.youtube.com/watch?v=LDroAjaym04)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-![Tidal by Fiona Apple](tidal-10241165.jpg)
+{{< img src="tidal-10241165.jpg" title="Tidal by Fiona Apple" >}}
 
 <!-- section break -->
 

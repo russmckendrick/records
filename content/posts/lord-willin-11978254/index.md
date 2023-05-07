@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-![Lord Willin' by Clipse](lord-willin-11978254.jpg)
+{{< img src="lord-willin-11978254.jpg" title="Lord Willin' by Clipse" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### Let's Talk About It
-{{< youtube id="S9pgK-k4OyY" title="Let's Talk About It" >}}<br>
+### Grindin' (Selector Remix - Main)
+{{< youtube id="QoahpkBbiNQ" title="Grindin' (Selector Remix - Main)" >}}<br>
 
 ### More Videos
 
@@ -59,10 +59,10 @@ styles: ["Gangsta"]
 - [When the Last Time](https://www.youtube.com/watch?v=jqL7GEJap8k)
 - [Ego](https://www.youtube.com/watch?v=9d-6j3-Lwfg)
 - [Comedy Central](https://www.youtube.com/watch?v=jQmE_3LTtTw)
+- [Let's Talk About It](https://www.youtube.com/watch?v=S9pgK-k4OyY)
 - [Gangsta Lean](https://www.youtube.com/watch?v=he71y7-IXrA)
 - [I'm Not You](https://www.youtube.com/watch?v=UVG4DII7Ey8)
 - [Grindin' (Remix - Main)](https://www.youtube.com/watch?v=aHbIBud9aJw)
-- [Grindin' (Selector Remix - Main)](https://www.youtube.com/watch?v=QoahpkBbiNQ)
 
 
 ## Release Information

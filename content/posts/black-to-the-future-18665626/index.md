@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Afrobeat", "Fusion"]
 ---
 
-![Black To The Future by Sons Of Kemet](black-to-the-future-18665626.jpg)
+{{< img src="black-to-the-future-18665626.jpg" title="Black To The Future by Sons Of Kemet" >}}
 
 <!-- section break -->
 
@@ -39,17 +39,17 @@ styles: ["Afrobeat", "Fusion"]
 
 
 ## Videos
-### In Remembrance Of Those Fallen
-{{< youtube id="Emeclwix8Ig" title="In Remembrance Of Those Fallen" >}}<br>
+### Pick Up Your Burning Cross
+{{< youtube id="IpK1a1RqfFA" title="Pick Up Your Burning Cross" >}}<br>
 
 ### More Videos
 
 - [Field Negus](https://www.youtube.com/watch?v=ELXDbxKjx48)
-- [Pick Up Your Burning Cross](https://www.youtube.com/watch?v=IpK1a1RqfFA)
 - [Think Of Home](https://www.youtube.com/watch?v=A5_-BEVYZ9Y)
 - [Sons Of Kemet - Hustle ft. Kojey Radical](https://www.youtube.com/watch?v=EDepEUnJwpY)
 - [For The Culture](https://www.youtube.com/watch?v=8T5SGoQnMg4)
 - [Sons Of Kemet - To Never Forget The Source (Visualizer)](https://www.youtube.com/watch?v=pZUbNXhnSm4)
+- [In Remembrance Of Those Fallen](https://www.youtube.com/watch?v=Emeclwix8Ig)
 - [Let The Circle Be Unbroken](https://www.youtube.com/watch?v=-hjxrchhT5c)
 - [Envision Yourself Levitating](https://www.youtube.com/watch?v=1B8rN291JwA)
 - [Throughout The Madness, Stay Strong](https://www.youtube.com/watch?v=fH4baTgOALo)

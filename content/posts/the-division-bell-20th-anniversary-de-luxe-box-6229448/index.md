@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Division Bell 20th. Anniversary De Luxe Box by Pink Floyd](the-division-bell-20th-anniversary-de-luxe-box-6229448.jpg)
+{{< img src="the-division-bell-20th-anniversary-de-luxe-box-6229448.jpg" title="The Division Bell 20th. Anniversary De Luxe Box by Pink Floyd" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 ---
 
-![Person Pitch by Panda Bear](person-pitch-9649225.jpg)
+{{< img src="person-pitch-9649225.jpg" title="Person Pitch by Panda Bear" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 
 
 ## Videos
-### Search For Delicious
-{{< youtube id="Hiz0C5hQsxU" title="Search For Delicious" >}}<br>
+### Good Girl / Carrots
+{{< youtube id="iRk1DM04GfA" title="Good Girl / Carrots" >}}<br>
 
 ### More Videos
 
@@ -44,7 +44,7 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 - [Take Pills](https://www.youtube.com/watch?v=ggKdy2n_DXA)
 - [Bros](https://www.youtube.com/watch?v=pxBvg6QSZZw)
 - [I'm Not](https://www.youtube.com/watch?v=_98TZ-rxLos)
-- [Good Girl / Carrots](https://www.youtube.com/watch?v=iRk1DM04GfA)
+- [Search For Delicious](https://www.youtube.com/watch?v=Hiz0C5hQsxU)
 - [Ponytail](https://www.youtube.com/watch?v=EgDqnQLX6hk)
 
 

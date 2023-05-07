@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-![Six by Mansun](six-13372907.jpg)
+{{< img src="six-13372907.jpg" title="Six by Mansun" >}}
 
 <!-- section break -->
 

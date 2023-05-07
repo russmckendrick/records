@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Jazz", "Funk / Soul"]
 styles: ["Funk", "Conscious"]
 ---
 
-![Untitled Unmastered. by Kendrick Lamar](untitled-unmastered-8566870.jpg)
+{{< img src="untitled-unmastered-8566870.jpg" title="Untitled Unmastered. by Kendrick Lamar" >}}
 
 <!-- section break -->
 
@@ -36,13 +36,13 @@ styles: ["Funk", "Conscious"]
 
 
 ## Videos
-### untitled 01 | 08.19.2014.
-{{< youtube id="oIoZgIOgu3o" title="untitled 01 | 08.19.2014." >}}<br>
+### untitled 03 | 05.28.2013.
+{{< youtube id="o4M4qssoaWU" title="untitled 03 | 05.28.2013." >}}<br>
 
 ### More Videos
 
+- [untitled 01 | 08.19.2014.](https://www.youtube.com/watch?v=oIoZgIOgu3o)
 - [untitled 02 | 06.23.2014.](https://www.youtube.com/watch?v=_GghFQ8ryEU)
-- [untitled 03 | 05.28.2013.](https://www.youtube.com/watch?v=o4M4qssoaWU)
 - [untitled 04 | 08.14.2014.](https://www.youtube.com/watch?v=82Cqp-kyrQs)
 - [untitled 05 | 09.21.2014.](https://www.youtube.com/watch?v=inOEtUwSasc)
 - [untitled 06 | 06.30.2014.](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)

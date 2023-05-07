@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-![Buhloone Mind State by De La Soul](buhloone-mind-state-26977373.jpg)
+{{< img src="buhloone-mind-state-26977373.jpg" title="Buhloone Mind State by De La Soul" >}}
 
 <!-- section break -->
 
@@ -32,16 +32,19 @@ styles: []
 
 <!-- section break -->
 
+
+
+
 ## Videos
-### De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker
-{{< youtube id="DpkDu0XEu74" title="De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker" >}}<br>
+### De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass
+{{< youtube id="1_g2OmxgIEg" title="De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass" >}}<br>
 
 ### More Videos
 
 - [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=L0rH7bwFnV4)
 - [De La Soul - Eye Patch (Official Audio)](https://www.youtube.com/watch?v=9F2QKqCXOWI)
-- [De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass](https://www.youtube.com/watch?v=1_g2OmxgIEg)
 - [Patti Dooke (Official Audio)](https://www.youtube.com/watch?v=n0X2h56qlG4)
+- [De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker](https://www.youtube.com/watch?v=DpkDu0XEu74)
 - [De La Soul - Long Island Wildin' (Official Audio) ft. Scha Dara Parr & Takagi Kan](https://www.youtube.com/watch?v=FPZwYTQbsuY)
 - [De La Soul - Ego Trippin' (Part Two) (Official Music Video) [HD] ft. Shortie No Mass](https://www.youtube.com/watch?v=eu1g18U1_6s)
 - [De La Soul - Paul's Revenge (Official Audio)](https://www.youtube.com/watch?v=nYpEc2-kfJY)

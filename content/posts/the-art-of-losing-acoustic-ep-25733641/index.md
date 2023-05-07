@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock"]
 ---
 
-![The Art of Losing - Acoustic EP by The Anchoress](the-art-of-losing-acoustic-ep-25733641.jpg)
+{{< img src="the-art-of-losing-acoustic-ep-25733641.jpg" title="The Art of Losing - Acoustic EP by The Anchoress" >}}
 
 <!-- section break -->
 

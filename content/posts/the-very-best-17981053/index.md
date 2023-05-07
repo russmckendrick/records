@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![The Very Best by INXS](the-very-best-17981053.jpg)
+{{< img src="the-very-best-17981053.jpg" title="The Very Best by INXS" >}}
 
 <!-- section break -->
 

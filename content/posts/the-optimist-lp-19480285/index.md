@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-![The Optimist LP by Turin Brakes](the-optimist-lp-19480285.jpg)
+{{< img src="the-optimist-lp-19480285.jpg" title="The Optimist LP by Turin Brakes" >}}
 
 <!-- section break -->
 
@@ -52,8 +52,8 @@ styles: ["Folk Rock", "Pop Rock"]
 
 
 ## Videos
-### The Road
-{{< youtube id="N4rbaOjA8QE" title="The Road" >}}<br>
+### Slack
+{{< youtube id="y_mQsZv_95E" title="Slack" >}}<br>
 
 ### More Videos
 
@@ -63,8 +63,8 @@ styles: ["Folk Rock", "Pop Rock"]
 - [State Of Things](https://www.youtube.com/watch?v=f2mxwJSFJYs)
 - [Feeling Oblivion](https://www.youtube.com/watch?v=StETYODYBTE)
 - [Future Boy](https://www.youtube.com/watch?v=-WvNq5MD9K4)
-- [Slack](https://www.youtube.com/watch?v=y_mQsZv_95E)
 - [By TV Light](https://www.youtube.com/watch?v=ntzEJjkInRg)
+- [The Road](https://www.youtube.com/watch?v=N4rbaOjA8QE)
 - [Mind Over Money](https://www.youtube.com/watch?v=WOJCsGvK0yw)
 - [Three Days Old (Hidden Track)](https://www.youtube.com/watch?v=csqce03dCCM)
 - [Turin Brakes-Feeling Oblivion with lyrics](https://www.youtube.com/watch?v=bDYibOjyQrk)

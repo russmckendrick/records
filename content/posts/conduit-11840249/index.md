@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Conduit by Awooga](conduit-11840249.jpg)
+{{< img src="conduit-11840249.jpg" title="Conduit by Awooga" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![All Nerve by The Breeders](all-nerve-11629630.jpg)
+{{< img src="all-nerve-11629630.jpg" title="All Nerve by The Breeders" >}}
 
 <!-- section break -->
 

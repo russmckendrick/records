@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Indie Rock"]
 ---
 
-![The Sound Of... McAlmont & Butler by McAlmont & Butler](the-sound-of-mcalmont-butler-8331235.jpg)
+{{< img src="the-sound-of-mcalmont-butler-8331235.jpg" title="The Sound Of... McAlmont & Butler by McAlmont & Butler" >}}
 
 <!-- section break -->
 
@@ -39,18 +39,18 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Videos
-### Although
-{{< youtube id="bun3gxzc2R4" title="Although" >}}<br>
+### Yes (Full Version)
+{{< youtube id="vltxC9ljJqA" title="Yes (Full Version)" >}}<br>
 
 ### More Videos
 
 - [McAlmont & Butler - Yes [Full Version]](https://www.youtube.com/watch?v=POIIGYt5RlE)
 - [McAlmont & Butler - Yes (Remix)](https://www.youtube.com/watch?v=IkxU9MPEwa8)
 - [McAlmont and Butler - Although](https://www.youtube.com/watch?v=SHo852__76U)
-- [Yes (Full Version)](https://www.youtube.com/watch?v=vltxC9ljJqA)
 - [You Do (Full Length)](https://www.youtube.com/watch?v=uorRUdpDcW8)
 - [What's The Excuse This Time?](https://www.youtube.com/watch?v=0f30KF1cOCc)
 - [The Right Thing](https://www.youtube.com/watch?v=eSYPVrp4gsc)
+- [Although](https://www.youtube.com/watch?v=bun3gxzc2R4)
 - [Tonight](https://www.youtube.com/watch?v=c1wAwDzatAc)
 - [Disappointment / Interval](https://www.youtube.com/watch?v=e76em75xKaU)
 - [You'll Lose A Good Thing](https://www.youtube.com/watch?v=fSKCLfeYbQM)

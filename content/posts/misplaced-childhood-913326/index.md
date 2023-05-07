@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Misplaced Childhood by Marillion](misplaced-childhood-913326.jpg)
+{{< img src="misplaced-childhood-913326.jpg" title="Misplaced Childhood by Marillion" >}}
 
 <!-- section break -->
 

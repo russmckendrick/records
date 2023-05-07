@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Discipline by King Crimson](discipline-12125596.jpg)
+{{< img src="discipline-12125596.jpg" title="Discipline by King Crimson" >}}
 
 <!-- section break -->
 

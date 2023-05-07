@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Play To Win (The • Virgin • Albums) by Heaven 17](play-to-win-the-virgin-albums-13428374.jpg)
+{{< img src="play-to-win-the-virgin-albums-13428374.jpg" title="Play To Win (The • Virgin • Albums) by Heaven 17" >}}
 
 <!-- section break -->
 

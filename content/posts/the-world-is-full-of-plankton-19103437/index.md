@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![The World Is Full Of Plankton by Amorphous Androgynous](the-world-is-full-of-plankton-19103437.jpg)
+{{< img src="the-world-is-full-of-plankton-19103437.jpg" title="The World Is Full Of Plankton by Amorphous Androgynous" >}}
 
 <!-- section break -->
 
@@ -28,13 +28,13 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Amorphous Androgynous - All is harvest
-{{< youtube id="33pWNJ38kXk" title="Amorphous Androgynous - All is harvest" >}}<br>
+### Amorphous Androgynous - The Emptiness of Nothingness (HD)
+{{< youtube id="VEJbDIwTKNM" title="Amorphous Androgynous - The Emptiness of Nothingness (HD)" >}}<br>
 
 ### More Videos
 
 - [Amorphous Androgynous - The world is full of plankton](https://www.youtube.com/watch?v=aEdJGBa9gfs)
-- [Amorphous Androgynous - The Emptiness of Nothingness (HD)](https://www.youtube.com/watch?v=VEJbDIwTKNM)
+- [Amorphous Androgynous - All is harvest](https://www.youtube.com/watch?v=33pWNJ38kXk)
 
 
 ## Release Information

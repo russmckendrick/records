@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 ---
 
-![Horses by Patti Smith](horses-14504020.jpg)
+{{< img src="horses-14504020.jpg" title="Horses by Patti Smith" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 
 
 ## Videos
-### Patti Smith - Gloria (Audio)
-{{< youtube id="bPO0bTaWcFQ" title="Patti Smith - Gloria (Audio)" >}}<br>
+### Patti Smith ‎Horses Full Album
+{{< youtube id="SVR_eY_1R40" title="Patti Smith ‎Horses Full Album" >}}<br>
 
 ### More Videos
 
-- [Patti Smith ‎Horses Full Album](https://www.youtube.com/watch?v=SVR_eY_1R40)
+- [Patti Smith - Gloria (Audio)](https://www.youtube.com/watch?v=bPO0bTaWcFQ)
 - [Land: Horses / Land of a Thousand Dances / La Mer (de)](https://www.youtube.com/watch?v=cSk6jfln84A)
 - [Patti Smith - Horses   Full Album](https://www.youtube.com/watch?v=yoRFG1oef2I)
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["House", "Dub", "Downtempo"]
 ---
 
-![Screamadelica by Primal Scream](screamadelica-3194462.jpg)
+{{< img src="screamadelica-3194462.jpg" title="Screamadelica by Primal Scream" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["House", "Dub", "Downtempo"]
 
 
 ## Videos
-### Primal Scream - I'm Comin' Down (Official Audio)
-{{< youtube id="1gsrx_8jQHY" title="Primal Scream - I'm Comin' Down (Official Audio)" >}}<br>
+### Primal Scream - Screamadelica 30th Anniversary Announcement
+{{< youtube id="a9kFFms84wc" title="Primal Scream - Screamadelica 30th Anniversary Announcement" >}}<br>
 
 ### More Videos
 
@@ -56,13 +56,13 @@ styles: ["House", "Dub", "Downtempo"]
 - [Come Together](https://www.youtube.com/watch?v=QLcKmOwRk_c)
 - [Loaded - Primal Scream](https://www.youtube.com/watch?v=e8QPkD-15GQ)
 - [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
+- [Primal Scream - I'm Comin' Down (Official Audio)](https://www.youtube.com/watch?v=1gsrx_8jQHY)
 - [Primal Scream - Shine Like Stars (Official Audio)](https://www.youtube.com/watch?v=SKPRmuraUEE)
 - [Primal Scream - Higher Than the Sun (Official Audio)](https://www.youtube.com/watch?v=-y_4JwBz7Ns)
 - [Primal Scream - Screamadelica (Live TV 1992)](https://www.youtube.com/watch?v=_KtK01Ne22k)
 - [Primal Scream -  Movin' on Up](https://www.youtube.com/watch?v=kBiMoRM5lfo)
 - [Primal Scream - Come Together (Disco Screamadelica 1991)](https://www.youtube.com/watch?v=JyU8zLTvAvo)
 - [Primal Scream - Movin on Up (Lyrics)](https://www.youtube.com/watch?v=wWUC2-ypnDQ)
-- [Primal Scream - Screamadelica 30th Anniversary Announcement](https://www.youtube.com/watch?v=a9kFFms84wc)
 - [Primal Scream - Loaded (Top of the Pops 1990)](https://www.youtube.com/watch?v=pIs2M77gsiM)
 - [Loaded (Andy Weatherall Mix)](https://www.youtube.com/watch?v=sNvUQka4wk0)
 - [Primal Scream - Loaded (Andy Weatherall Mix - Official Audio)](https://www.youtube.com/watch?v=Ha1H-UQhVW0)

@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 ---
 
-![Closing Time by Tom Waits](closing-time-3440356.jpg)
+{{< img src="closing-time-3440356.jpg" title="Closing Time by Tom Waits" >}}
 
 <!-- section break -->
 
@@ -40,20 +40,20 @@ styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 
 
 ## Videos
-### Tom Waits - Little Trip To Heaven (On The Wings Of Your Love)
-{{< youtube id="vqLobM-Qa8o" title="Tom Waits - Little Trip To Heaven (On The Wings Of Your Love)" >}}<br>
+### Tom Waits - Virginia Avenue
+{{< youtube id="cyCc4miQnos" title="Tom Waits - Virginia Avenue" >}}<br>
 
 ### More Videos
 
 - [Tom Waits - Ol' 55](https://www.youtube.com/watch?v=BeeK37wrBDQ)
 - [Tom Waits - I Hope That I Don't Fall In Love With You](https://www.youtube.com/watch?v=UhZyLn0oVCs)
-- [Tom Waits - Virginia Avenue](https://www.youtube.com/watch?v=cyCc4miQnos)
 - [Tom Waits - Old Shoes (& Picture Postcards)](https://www.youtube.com/watch?v=6MegTgHW6sg)
 - [Tom Waits - Midnight Lullaby](https://www.youtube.com/watch?v=MVe3rJAL6qk)
 - [Tom Waits - Martha](https://www.youtube.com/watch?v=VXQwDb7AUmo)
 - [Tom Waits - Rosie](https://www.youtube.com/watch?v=FdFO3OyPYHI)
 - [Tom Waits - Lonely](https://www.youtube.com/watch?v=bLspP7zsr-E)
 - [Tom Waits - Ice Cream Man](https://www.youtube.com/watch?v=YCoRoqGz5so)
+- [Tom Waits - Little Trip To Heaven (On The Wings Of Your Love)](https://www.youtube.com/watch?v=vqLobM-Qa8o)
 - [Tom Waits - Grapefruit Moon](https://www.youtube.com/watch?v=7bpZjkjo3Tw)
 - [Tom Waits - Closing Time](https://www.youtube.com/watch?v=mKFCp9P0cFc)
 

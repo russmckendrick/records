@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Psychic Warfare by Clutch](psychic-warfare-7868541.jpg)
+{{< img src="psychic-warfare-7868541.jpg" title="Psychic Warfare by Clutch" >}}
 
 <!-- section break -->
 

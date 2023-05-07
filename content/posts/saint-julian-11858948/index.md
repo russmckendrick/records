@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![Saint Julian by Julian Cope](saint-julian-11858948.jpg)
+{{< img src="saint-julian-11858948.jpg" title="Saint Julian by Julian Cope" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Julian Cope - Saint Julian
-{{< youtube id="LWESpsMNv_E" title="Julian Cope - Saint Julian" >}}<br>
+### Shot Down
+{{< youtube id="_Y33pdrH42w" title="Shot Down" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [Julian Cope - World shut your mouth](https://www.youtube.com/watch?v=2UJbz-pp6GQ)
 - [Julian Cope - Trampolene](https://www.youtube.com/watch?v=dawFWa0hfL4)
 - [Julian Cope -  A Crack In The Clouds](https://www.youtube.com/watch?v=jQHxcafCFu8)
-- [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
+- [Julian Cope - Saint Julian](https://www.youtube.com/watch?v=LWESpsMNv_E)
 - [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
 
 

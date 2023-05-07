@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![40 Years: The Greatest Hits by Spandau Ballet](40-years-the-greatest-hits-16280313.jpg)
+{{< img src="40-years-the-greatest-hits-16280313.jpg" title="40 Years: The Greatest Hits by Spandau Ballet" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-![3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development](3-years-5-months-and-2-days-in-the-life-of-6252763.jpg)
+{{< img src="3-years-5-months-and-2-days-in-the-life-of-6252763.jpg" title="3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Conscious"]
 
 
 ## Videos
-### Give A Man A Fish
-{{< youtube id="EjyWKR8HFC8" title="Give A Man A Fish" >}}<br>
+### Blues Happy
+{{< youtube id="kWSKhBd2HVM" title="Blues Happy" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["Conscious"]
 - [Arrested Development - Mr. Wendal](https://www.youtube.com/watch?v=GfxvsHpTZWk)
 - [Mama's Always On Stage](https://www.youtube.com/watch?v=4rYpFKBzGS4)
 - [People Everyday](https://www.youtube.com/watch?v=eBpiJysWvK8)
-- [Blues Happy](https://www.youtube.com/watch?v=kWSKhBd2HVM)
 - [Children Play With Earth](https://www.youtube.com/watch?v=JXlmXGQRCKo)
 - [Raining Revolution](https://www.youtube.com/watch?v=UvXLuKZX2cc)
 - [Fishin' 4 Religion](https://www.youtube.com/watch?v=PkWSyNe9IUs)
+- [Give A Man A Fish](https://www.youtube.com/watch?v=EjyWKR8HFC8)
 - [U](https://www.youtube.com/watch?v=F_oaU12n-d8)
 - [Eve Of Reality](https://www.youtube.com/watch?v=0aXUsECPt4g)
 - [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)

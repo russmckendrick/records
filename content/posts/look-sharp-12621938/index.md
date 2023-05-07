@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Look Sharp! by Roxette](look-sharp-12621938.jpg)
+{{< img src="look-sharp-12621938.jpg" title="Look Sharp! by Roxette" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Roxette - Chances
-{{< youtube id="8Vs5E68mOGg" title="Roxette - Chances" >}}<br>
+### Roxette - Dangerous (Official Video)
+{{< youtube id="VFNRh26TPmM" title="Roxette - Dangerous (Official Video)" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Synth-pop"]
 - [Paint](https://www.youtube.com/watch?v=Enrlkcf4o-k)
 - [Dance Away](https://www.youtube.com/watch?v=NfTnkTCJ710)
 - [Cry](https://www.youtube.com/watch?v=QLb1R4rNbtY)
+- [Roxette - Chances](https://www.youtube.com/watch?v=8Vs5E68mOGg)
 - [Roxette - Chances](https://www.youtube.com/watch?v=4yd0z5ziIvw)
-- [Roxette - Dangerous (Official Video)](https://www.youtube.com/watch?v=VFNRh26TPmM)
 - [Half A Woman, Half A Shadow](https://www.youtube.com/watch?v=lCDdS03eeLo)
 - [View From A Hill](https://www.youtube.com/watch?v=Kxj0Bn2JzNw)
 - [Shadow Of A Doubt](https://www.youtube.com/watch?v=8ZNrSZuG4FM)

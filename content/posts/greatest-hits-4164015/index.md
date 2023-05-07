@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 ---
 
-![Greatest Hits by Cat Stevens](greatest-hits-4164015.jpg)
+{{< img src="greatest-hits-4164015.jpg" title="Greatest Hits by Cat Stevens" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 
 
 ## Videos
-### Father & Son - Cat Stevens – Greatest Hits
-{{< youtube id="KFzvQfF4OnI" title="Father & Son - Cat Stevens – Greatest Hits" >}}<br>
+### Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)
+{{< youtube id="A--zzYtFUUs" title="Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,6 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 - [Oh Very Young - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=N7SSmDZ4CCM)
 - [Cat Stevens - Moonshadow](https://www.youtube.com/watch?v=kGNxKnLmOH4)
 - [Can't Keep It In - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=MI63YxxSGwY)
-- [Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)](https://www.youtube.com/watch?v=A--zzYtFUUs)
 - [Moonshadow - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=BwOZSUz0FZA)
 - [Cat Stevens - Can't Keep It In](https://www.youtube.com/watch?v=0W_SGoBFJxs)
 - [Two Fine People - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=3XPCqsZAjKw)
@@ -60,6 +59,7 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 - [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=jg_OPer0FbE)
 - [Ready - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=PMM7F5oALys)
 - [The Very Best Of CAT STEVENS 2018 - CAT STEVENS Greatest Hits Full Album (HD)](https://www.youtube.com/watch?v=EKlMWg5wrwk)
+- [Father & Son - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=KFzvQfF4OnI)
 - [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's 80's 90's](https://www.youtube.com/watch?v=kCFGHHwPlHQ)
 - [Sitting - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=pE2HxWGZAIY)
 - [Cat Stevens Greatest Hits Album 2021 - Best Songs Of Cat Stevens 2021](https://www.youtube.com/watch?v=jUHF_kv_8ys)

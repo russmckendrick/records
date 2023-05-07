@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![Ramones by Ramones](ramones-9022105.jpg)
+{{< img src="ramones-9022105.jpg" title="Ramones by Ramones" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Crystal Fairy by Crystal Fairy](crystal-fairy-10031479.jpg)
+{{< img src="crystal-fairy-10031479.jpg" title="Crystal Fairy by Crystal Fairy" >}}
 
 <!-- section break -->
 

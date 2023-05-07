@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Flat White Moon by Field Music](flat-white-moon-18420103.jpg)
+{{< img src="flat-white-moon-18420103.jpg" title="Flat White Moon by Field Music" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Field Music - Not When You're In Love (Official Video)
-{{< youtube id="EhJQccb1GnU" title="Field Music - Not When You're In Love (Official Video)" >}}<br>
+### Field Music - Flat White Moon (Full Album) 2021
+{{< youtube id="YfdqxwgyFgY" title="Field Music - Flat White Moon (Full Album) 2021" >}}<br>
 
 ### More Videos
 
-- [Field Music - Flat White Moon (Full Album) 2021](https://www.youtube.com/watch?v=YfdqxwgyFgY)
+- [Field Music - Not When You're In Love (Official Video)](https://www.youtube.com/watch?v=EhJQccb1GnU)
 - [Field Music - Flat White Moon](https://www.youtube.com/watch?v=DlP8QWJtV04)
 
 

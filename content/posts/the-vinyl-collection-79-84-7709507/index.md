@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: []
 ---
 
-![The Vinyl Collection 79-84  by Simple Minds](the-vinyl-collection-79-84-7709507.jpg)
+{{< img src="the-vinyl-collection-79-84-7709507.jpg" title="The Vinyl Collection 79-84  by Simple Minds" >}}
 
 <!-- section break -->
 

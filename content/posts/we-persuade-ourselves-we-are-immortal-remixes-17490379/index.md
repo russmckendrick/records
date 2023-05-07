@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ---
 
-![We Persuade Ourselves We Are Immortal Remixes by Amorphous Androgynous](we-persuade-ourselves-we-are-immortal-remixes-17490379.jpg)
+{{< img src="we-persuade-ourselves-we-are-immortal-remixes-17490379.jpg" title="We Persuade Ourselves We Are Immortal Remixes by Amorphous Androgynous" >}}
 
 <!-- section break -->
 

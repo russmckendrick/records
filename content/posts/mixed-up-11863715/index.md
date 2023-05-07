@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-![Mixed Up by The Cure](mixed-up-11863715.jpg)
+{{< img src="mixed-up-11863715.jpg" title="Mixed Up by The Cure" >}}
 
 <!-- section break -->
 

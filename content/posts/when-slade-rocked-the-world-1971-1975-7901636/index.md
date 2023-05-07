@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Glam"]
 ---
 
-![When Slade Rocked The World 1971-1975 by Slade](when-slade-rocked-the-world-1971-1975-7901636.jpg)
+{{< img src="when-slade-rocked-the-world-1971-1975-7901636.jpg" title="When Slade Rocked The World 1971-1975 by Slade" >}}
 
 <!-- section break -->
 

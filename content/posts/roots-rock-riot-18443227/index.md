@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae"]
 styles: ["Nu Metal", "Ragga"]
 ---
 
-![Roots Rock Riot by Skindred](roots-rock-riot-18443227.jpg)
+{{< img src="roots-rock-riot-18443227.jpg" title="Roots Rock Riot by Skindred" >}}
 
 <!-- section break -->
 
@@ -43,13 +43,13 @@ styles: ["Nu Metal", "Ragga"]
 
 
 ## Videos
-### Rude Boy for Life
-{{< youtube id="u1borxceXS0" title="Rude Boy for Life" >}}<br>
+### Skindred - Killing me [Roots Rock Riot Album]
+{{< youtube id="dsaHEp1VfXE" title="Skindred - Killing me [Roots Rock Riot Album]" >}}<br>
 
 ### More Videos
 
-- [Skindred - Killing me [Roots Rock Riot Album]](https://www.youtube.com/watch?v=dsaHEp1VfXE)
 - [SKINDRED - Rat Race](https://www.youtube.com/watch?v=h-kmLkfFrtU)
+- [Rude Boy for Life](https://www.youtube.com/watch?v=u1borxceXS0)
 - [Roots Rock Riot](https://www.youtube.com/watch?v=fWQuZIzdXPU)
 
 

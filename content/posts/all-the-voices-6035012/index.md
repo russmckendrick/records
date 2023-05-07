@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![All The Voices by INXS](all-the-voices-6035012.jpg)
+{{< img src="all-the-voices-6035012.jpg" title="All The Voices by INXS" >}}
 
 <!-- section break -->
 

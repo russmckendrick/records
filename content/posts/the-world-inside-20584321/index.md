@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![The World Inside by Tacoma Narrows Bridge Disaster](the-world-inside-20584321.jpg)
+{{< img src="the-world-inside-20584321.jpg" title="The World Inside by Tacoma Narrows Bridge Disaster" >}}
 
 <!-- section break -->
 

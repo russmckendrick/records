@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Either / Or: Expanded Edition by Elliott Smith](either-or-expanded-edition-9965763.jpg)
+{{< img src="either-or-expanded-edition-9965763.jpg" title="Either / Or: Expanded Edition by Elliott Smith" >}}
 
 <!-- section break -->
 
@@ -46,15 +46,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Elliott Smith - Alameda (from Either/Or)
-{{< youtube id="WcRgqXYmzZE" title="Elliott Smith - Alameda (from Either/Or)" >}}<br>
+### Elliott Smith - Either/Or: Expanded Edition (CD1)
+{{< youtube id="9g-vyrGKGWM" title="Elliott Smith - Either/Or: Expanded Edition (CD1)" >}}<br>
 
 ### More Videos
 
-- [Elliott Smith - Either/Or: Expanded Edition (CD1)](https://www.youtube.com/watch?v=9g-vyrGKGWM)
 - [Elliott Smith - Either/Or: Expanded Edition (CD2)](https://www.youtube.com/watch?v=2jrOSoOBVmI)
 - [Elliott Smith - Ballad Of Big Nothing (from Either/Or)](https://www.youtube.com/watch?v=iU9yMN1MCfY)
 - [Elliott Smith - Speed Trials (from Either/Or)](https://www.youtube.com/watch?v=UuizNQUOFCI)
+- [Elliott Smith - Alameda (from Either/Or)](https://www.youtube.com/watch?v=WcRgqXYmzZE)
 - [Elliott Smith - Between The Bars (from Either/Or)](https://www.youtube.com/watch?v=n5g-91mwiNs)
 - [Elliott Smith - Pictures Of Me (from Either/Or)](https://www.youtube.com/watch?v=TKIxDKOfGv8)
 - [Elliott Smith - No Name No. 5 (from Either/Or)](https://www.youtube.com/watch?v=sXd5tbNtoGs)

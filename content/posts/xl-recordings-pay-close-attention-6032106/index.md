@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Blues", "Pop", "Folk, 
 styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Hardcore", "Breakbeat", "Vocal", "Ballad", "Soul", "Drum n Bass"]
 ---
 
-![XL Recordings: Pay Close Attention by Various](xl-recordings-pay-close-attention-6032106.jpg)
+{{< img src="xl-recordings-pay-close-attention-6032106.jpg" title="XL Recordings: Pay Close Attention by Various" >}}
 
 <!-- section break -->
 

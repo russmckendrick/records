@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Hemispheres 40th Anniversary  by Rush](hemispheres-40th-anniversary-12811934.jpg)
+{{< img src="hemispheres-40th-anniversary-12811934.jpg" title="Hemispheres 40th Anniversary  by Rush" >}}
 
 <!-- section break -->
 

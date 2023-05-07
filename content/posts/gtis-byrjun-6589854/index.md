@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
 
-![Ágætis Byrjun by Sigur Rós](gtis-byrjun-6589854.jpg)
+{{< img src="gtis-byrjun-6589854.jpg" title="Ágætis Byrjun by Sigur Rós" >}}
 
 <!-- section break -->
 

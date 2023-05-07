@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
-![Going Blank Again by Ride](going-blank-again-25002466.jpg)
+{{< img src="going-blank-again-25002466.jpg" title="Going Blank Again by Ride" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - Time Of Her Time
-{{< youtube id="hNW4Pq-OIb4" title="Ride - Time Of Her Time" >}}<br>
+### Ride - OX4
+{{< youtube id="57I0Lt0yalA" title="Ride - OX4" >}}<br>
 
 ### More Videos
 
@@ -47,11 +47,11 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 - [Ride - Not Fazed](https://www.youtube.com/watch?v=KqOPgCFdO5E)
 - [Ride - Twisterella](https://www.youtube.com/watch?v=qQ8y87YQDX4)
 - [Ride - Mouse Trap](https://www.youtube.com/watch?v=fnVqqkMp6Ns)
+- [Ride - Time Of Her Time](https://www.youtube.com/watch?v=hNW4Pq-OIb4)
 - [Ride - Chrome Waves](https://www.youtube.com/watch?v=zzL_vKpqSXE)
 - [Ride - Cool Your Boots](https://www.youtube.com/watch?v=3aFh4oTmIio)
 - [Ride - Making Judy Smile](https://www.youtube.com/watch?v=bnmnMAE0sCM)
 - [Ride - Time Machine](https://www.youtube.com/watch?v=5zdq_L4K64w)
-- [Ride - OX4](https://www.youtube.com/watch?v=57I0Lt0yalA)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 ---
 
-![Boy From Michigan by John Grant](boy-from-michigan-19273432.jpg)
+{{< img src="boy-from-michigan-19273432.jpg" title="Boy From Michigan by John Grant" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![OX4_ The Best Of Ride by Ride](ox4_-the-best-of-ride-6901033.jpg)
+{{< img src="ox4_-the-best-of-ride-6901033.jpg" title="OX4_ The Best Of Ride by Ride" >}}
 
 <!-- section break -->
 
@@ -43,12 +43,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ride - Like A Daydream
-{{< youtube id="8zzo25t_eC8" title="Ride - Like A Daydream" >}}<br>
+### Ride - Leave Them All Behind
+{{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
 
 ### More Videos
 
-- [Ride - Leave Them All Behind](https://www.youtube.com/watch?v=gIsnb1TKYjE)
+- [Ride - Like A Daydream](https://www.youtube.com/watch?v=8zzo25t_eC8)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Bang! by World Party](bang-18011911.jpg)
+{{< img src="bang-18011911.jpg" title="Bang! by World Party" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### World Party - Rescue Me
-{{< youtube id="yT7NNW9n06s" title="World Party - Rescue Me" >}}<br>
+### World Party - Let the Kindom Come
+{{< youtube id="YHxPgl8YFmk" title="World Party - Let the Kindom Come" >}}<br>
 
 ### More Videos
 
-- [World Party - Let the Kindom Come](https://www.youtube.com/watch?v=YHxPgl8YFmk)
 - [World Party - Is It Like Today?](https://www.youtube.com/watch?v=0tyLGi2LtlU)
 - [World Party - what is love all about](https://www.youtube.com/watch?v=XqOBGf2F24U)
 - [God Said](https://www.youtube.com/watch?v=d66QrZME0Nw)
@@ -52,6 +51,7 @@ styles: ["Alternative Rock"]
 - [World Party Sooner or Later](https://www.youtube.com/watch?v=9O3Ngy8KcTE)
 - [World Party - Hollywood](https://www.youtube.com/watch?v=-VInJI3OS8k)
 - [World Party   Radio Days](https://www.youtube.com/watch?v=J3EKA8YKBck)
+- [World Party - Rescue Me](https://www.youtube.com/watch?v=yT7NNW9n06s)
 - [World Party Sunshine (Montage)](https://www.youtube.com/watch?v=JBHd9glUJXY)
 - [World Party - All I Gave](https://www.youtube.com/watch?v=AEgz_PD2S9c)
 - [kuwait city](https://www.youtube.com/watch?v=ApDAgCEgnS8)

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
 
-![Stranger To Stranger by Paul Simon](stranger-to-stranger-8604097.jpg)
+{{< img src="stranger-to-stranger-8604097.jpg" title="Stranger To Stranger by Paul Simon" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Stranger To Stranger
-{{< youtube id="P7zs5JmlhwY" title="Stranger To Stranger" >}}<br>
+### The Clock
+{{< youtube id="-mQr64uJ8xE" title="The Clock" >}}<br>
 
 ### More Videos
 
+- [Stranger To Stranger](https://www.youtube.com/watch?v=P7zs5JmlhwY)
 - [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [The Clock](https://www.youtube.com/watch?v=-mQr64uJ8xE)
 - [Paul Simon - Cool Papa Bell (Static Image Video)](https://www.youtube.com/watch?v=Rm2LIorVaPw)
 
 

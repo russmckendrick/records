@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop", "Classic Rock"]
 ---
 
-![Be Here Now by Oasis](be-here-now-24236507.jpg)
+{{< img src="be-here-now-24236507.jpg" title="Be Here Now by Oasis" >}}
 
 <!-- section break -->
 

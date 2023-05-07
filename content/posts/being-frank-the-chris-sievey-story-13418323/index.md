@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Punk", "Comedy"]
 ---
 
-![Being Frank: The Chris Sievey Story by Frank Sidebottom](being-frank-the-chris-sievey-story-13418323.jpg)
+{{< img src="being-frank-the-chris-sievey-story-13418323.jpg" title="Being Frank: The Chris Sievey Story by Frank Sidebottom" >}}
 
 <!-- section break -->
 

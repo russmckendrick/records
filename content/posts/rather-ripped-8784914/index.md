@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Rather Ripped by Sonic Youth](rather-ripped-8784914.jpg)
+{{< img src="rather-ripped-8784914.jpg" title="Rather Ripped by Sonic Youth" >}}
 
 <!-- section break -->
 

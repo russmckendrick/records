@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-![In Cauda Venenum by Opeth](in-cauda-venenum-14182364.jpg)
+{{< img src="in-cauda-venenum-14182364.jpg" title="In Cauda Venenum by Opeth" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Noble Beast by Andrew Bird](noble-beast-1638537.jpg)
+{{< img src="noble-beast-1638537.jpg" title="Noble Beast by Andrew Bird" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### On Ho!
-{{< youtube id="UFOGZ0KFAOA" title="On Ho!" >}}<br>
+### Tenuousness
+{{< youtube id="0nSbR0hG6nc" title="Tenuousness" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Indie Rock"]
 - [andrew bird - oh no (new track 2009](https://www.youtube.com/watch?v=Upqcu2DWK8g)
 - [Not a Robot, But a Ghost](https://www.youtube.com/watch?v=ixQUkxp9BKQ)
 - [Effigy](https://www.youtube.com/watch?v=cbUbjuuBgxo)
+- [On Ho!](https://www.youtube.com/watch?v=UFOGZ0KFAOA)
 - [Natural Disaster](https://www.youtube.com/watch?v=dOiQDGPIMtU)
-- [Tenuousness](https://www.youtube.com/watch?v=0nSbR0hG6nc)
 
 
 ## Release Information

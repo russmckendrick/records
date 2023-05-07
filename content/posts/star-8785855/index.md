@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Star by Belly](star-8785855.jpg)
+{{< img src="star-8785855.jpg" title="Star by Belly" >}}
 
 <!-- section break -->
 
@@ -58,8 +58,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Belly - Gepetto
-{{< youtube id="KtNAzcRNF4k" title="Belly - Gepetto" >}}<br>
+### Belly - Slow Dog
+{{< youtube id="BqwjWrTIT8Q" title="Belly - Slow Dog" >}}<br>
 
 ### More Videos
 
@@ -68,8 +68,8 @@ styles: ["Indie Rock"]
 - [Angel](https://www.youtube.com/watch?v=QR6LsLhxYrs)
 - [Belly - Dusted](https://www.youtube.com/watch?v=OuvpQiyBTSs)
 - [Belly - Every Word](https://www.youtube.com/watch?v=AEH0mxpfL4Y)
+- [Belly - Gepetto](https://www.youtube.com/watch?v=KtNAzcRNF4k)
 - [Belly - Witch](https://www.youtube.com/watch?v=vUFAjBeFbls)
-- [Belly - Slow Dog](https://www.youtube.com/watch?v=BqwjWrTIT8Q)
 - [Belly- Low Red Moon](https://www.youtube.com/watch?v=PLjqM068nqU)
 - [Belly - Feed The Tree](https://www.youtube.com/watch?v=KNE_DasDuaM)
 - [Belly - Full Moon, Empty Heart](https://www.youtube.com/watch?v=mqbU7f1eu2o)

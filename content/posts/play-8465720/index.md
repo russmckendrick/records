@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Leftfield", "Downtempo", "Trip Hop"]
 ---
 
-![Play by Moby](play-8465720.jpg)
+{{< img src="play-8465720.jpg" title="Play by Moby" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 ---
 
-![When These Memories Fade by Jellyfish](when-these-memories-fade-24641348.jpg)
+{{< img src="when-these-memories-fade-24641348.jpg" title="When These Memories Fade by Jellyfish" >}}
 
 <!-- section break -->
 

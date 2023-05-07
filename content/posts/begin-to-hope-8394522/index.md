@@ -14,7 +14,7 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-![Begin To Hope by Regina Spektor](begin-to-hope-8394522.jpg)
+{{< img src="begin-to-hope-8394522.jpg" title="Begin To Hope by Regina Spektor" >}}
 
 <!-- section break -->
 
@@ -50,16 +50,16 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Regina Spektor - Fidelity [Official Music Video]
-{{< youtube id="wigqKfLWjvM" title="Regina Spektor - Fidelity [Official Music Video]" >}}<br>
+### Hotel Song by Regina Spektor
+{{< youtube id="TqJUvP3b9Hk" title="Hotel Song by Regina Spektor" >}}<br>
 
 ### More Videos
 
 - [Regina Spektor - On The Radio [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
 - [Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)](https://www.youtube.com/watch?v=To7sRUSb6NA)
+- [Regina Spektor - Fidelity [Official Music Video]](https://www.youtube.com/watch?v=wigqKfLWjvM)
 - [Regina Spektor - Better [Official Music Video]](https://www.youtube.com/watch?v=VCokhCqK9rw)
 - [Regina Spektor - Samson [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
-- [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
-![Now That’s What I Call Punk & New Wave by Various](now-thats-what-i-call-punk-new-wave-21874351.jpg)
+{{< img src="now-thats-what-i-call-punk-new-wave-21874351.jpg" title="Now That’s What I Call Punk & New Wave by Various" >}}
 
 <!-- section break -->
 
@@ -59,13 +59,13 @@ styles: ["New Wave", "Punk"]
 
 
 ## Videos
-### NOW That's What I Call Punk & New Wave Artwork & Official Tracklist!
-{{< youtube id="TQb_AcW_cZw" title="NOW That's What I Call Punk & New Wave Artwork & Official Tracklist!" >}}<br>
+### The Cure - A Forest (Official Video)
+{{< youtube id="xik-y0xlpZ0" title="The Cure - A Forest (Official Video)" >}}<br>
 
 ### More Videos
 
 - [The Flying Lizards - Money](https://www.youtube.com/watch?v=E-P2qL3qkzk)
-- [The Cure - A Forest (Official Video)](https://www.youtube.com/watch?v=xik-y0xlpZ0)
+- [NOW That's What I Call Punk & New Wave Artwork & Official Tracklist!](https://www.youtube.com/watch?v=TQb_AcW_cZw)
 - [The Clash - London Calling (Official Video)](https://www.youtube.com/watch?v=EfK-WX2pa8c)
 - [The Skids - Into The Valley](https://www.youtube.com/watch?v=9udxbvHiqGw)
 - [The Stranglers - No More Heroes](https://www.youtube.com/watch?v=2B4bsqYxwo0)

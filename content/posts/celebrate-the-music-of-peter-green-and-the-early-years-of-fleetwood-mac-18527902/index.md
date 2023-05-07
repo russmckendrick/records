@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Blues Rock"]
 ---
 
-![Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends](celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902.jpg)
+{{< img src="celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902.jpg" title="Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends" >}}
 
 <!-- section break -->
 

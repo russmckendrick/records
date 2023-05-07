@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Pacific Ocean Blue by Dennis Wilson](pacific-ocean-blue-2513540.jpg)
+{{< img src="pacific-ocean-blue-2513540.jpg" title="Pacific Ocean Blue by Dennis Wilson" >}}
 
 <!-- section break -->
 
@@ -40,11 +40,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Only with You
-{{< youtube id="1Q-oVAhZ3GQ" title="Only with You" >}}<br>
+### Holy Man   DENNIS WILSON
+{{< youtube id="MwOlKKsfpSc" title="Holy Man   DENNIS WILSON" >}}<br>
 
 ### More Videos
 
+- [Only with You](https://www.youtube.com/watch?v=1Q-oVAhZ3GQ)
 - [Pacific Ocean Blues](https://www.youtube.com/watch?v=VSxPcYS1UDo)
 - [What's Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
 - [Dennis Wilson - River Song](https://www.youtube.com/watch?v=LHCzTLnFpLE)
@@ -54,7 +55,6 @@ styles: ["Pop Rock"]
 - [Dennis Wilson - Pacific Ocean Blues](https://www.youtube.com/watch?v=er1LsKPXLj8)
 - [Holy Man (Taylor Hawkins Version)](https://www.youtube.com/watch?v=T-0EGjHwSKE)
 - [Dreamer](https://www.youtube.com/watch?v=GPr5ZZdFdFk)
-- [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
 
 
 ## Release Information

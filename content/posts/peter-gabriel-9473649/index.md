@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock"]
 ---
 
-![Peter Gabriel by Peter Gabriel](peter-gabriel-9473649.jpg)
+{{< img src="peter-gabriel-9473649.jpg" title="Peter Gabriel by Peter Gabriel" >}}
 
 <!-- section break -->
 

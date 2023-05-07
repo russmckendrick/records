@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Reggae"]
 ---
 
-![Special by Jimmy Cliff](special-970900.jpg)
+{{< img src="special-970900.jpg" title="Special by Jimmy Cliff" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Reggae"]
 
 
 ## Videos
-### Jimmy Cliff - Rock Children - (Special)
-{{< youtube id="zoaqgjTLRx0" title="Jimmy Cliff - Rock Children - (Special)" >}}<br>
+### Jimmy Cliff - Originator - (Special)
+{{< youtube id="KCQ2HYjXGgc" title="Jimmy Cliff - Originator - (Special)" >}}<br>
 
 ### More Videos
 
 - [Special](https://www.youtube.com/watch?v=7t_56xBaLwY)
 - [Jimmy Cliff - Roots Radical - (Special)](https://www.youtube.com/watch?v=JSc4-XYANZU)
-- [Jimmy Cliff - Originator - (Special)](https://www.youtube.com/watch?v=KCQ2HYjXGgc)
+- [Jimmy Cliff - Rock Children - (Special)](https://www.youtube.com/watch?v=zoaqgjTLRx0)
 - [Jimmy Cliff   Special](https://www.youtube.com/watch?v=E7tGME656_I)
 - [Jimmy Cliff - Rub A Dub Partner - (Special)](https://www.youtube.com/watch?v=5hP59-qo0i8)
 - [Treat the Youths Right](https://www.youtube.com/watch?v=6AYTozAXiT8)

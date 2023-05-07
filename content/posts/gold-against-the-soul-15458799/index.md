@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Gold Against The Soul by Manic Street Preachers](gold-against-the-soul-15458799.jpg)
+{{< img src="gold-against-the-soul-15458799.jpg" title="Gold Against The Soul by Manic Street Preachers" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Roses in the Hospital (House in the Woods Demo) (Remastered)
-{{< youtube id="FR0WT7rx-Bo" title="Roses in the Hospital (House in the Woods Demo) (Remastered)" >}}<br>
+### Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)
+{{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}<br>
 
 ### More Videos
 
-- [Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)](https://www.youtube.com/watch?v=zJzwIFyZfck)
 - [Manic Street Preachers - Gold Against the Soul (Audio)](https://www.youtube.com/watch?v=xJw2KqxlLho)
 - [Gold Against the Soul (Remastered)](https://www.youtube.com/watch?v=X_Q8YEr_GQU)
 - [Manic Street Preachers - Sleepflower (Audio)](https://www.youtube.com/watch?v=K4Wqb5LerKk)
@@ -55,6 +54,7 @@ styles: ["Alternative Rock"]
 - [From Despair to Where (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=gQnMvWx0xB0)
 - [Sleepflower (Remastered)](https://www.youtube.com/watch?v=CZLU57Xge9c)
 - [Roses in the Hospital (Remastered)](https://www.youtube.com/watch?v=qNZNsOKtX-U)
+- [Roses in the Hospital (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=FR0WT7rx-Bo)
 - [Sleepflower (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=NCBLSOwAurY)
 - [Symphony of Tourette (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=3Pgui4hr9SA)
 - [Gold Against The Soul - Trailer](https://www.youtube.com/watch?v=8qaD-U7fS24)

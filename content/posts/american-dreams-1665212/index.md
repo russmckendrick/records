@@ -14,7 +14,7 @@ genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
 
-![American Dreams by Various](american-dreams-1665212.jpg)
+{{< img src="american-dreams-1665212.jpg" title="American Dreams by Various" >}}
 
 <!-- section break -->
 
@@ -56,12 +56,12 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 
 
 ## Videos
-### Air Supply - Even The Nights Are Better
-{{< youtube id="BRx58DgOxeg" title="Air Supply - Even The Nights Are Better" >}}<br>
+### Lindsey Buckingham - Trouble (1981) (Music Video) 720p
+{{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble (1981) (Music Video) 720p" >}}<br>
 
 ### More Videos
 
-- [Lindsey Buckingham - Trouble (1981) (Music Video) 720p](https://www.youtube.com/watch?v=CO1sQPs3U8k)
+- [Air Supply - Even The Nights Are Better](https://www.youtube.com/watch?v=BRx58DgOxeg)
 
 
 ## Release Information

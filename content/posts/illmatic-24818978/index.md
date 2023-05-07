@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 ---
 
-![Illmatic by Nas](illmatic-24818978.jpg)
+{{< img src="illmatic-24818978.jpg" title="Illmatic by Nas" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 
 
 ## Videos
-### Nas - Represent (Official Audio)
-{{< youtube id="xiVY_yPgvMs" title="Nas - Represent (Official Audio)" >}}<br>
+### Nas - Halftime (Official Music Video - Explicit)
+{{< youtube id="HCDYgZM5yq0" title="Nas - Halftime (Official Music Video - Explicit)" >}}<br>
 
 ### More Videos
 
 - [Nas - N.Y. State of Mind (Official Audio)](https://www.youtube.com/watch?v=hI8A14Qcv68)
 - [Nas - The World Is Yours (Official Music Video)](https://www.youtube.com/watch?v=e5PnuIRnJW8)
 - [The Genesis / N.Y. State of Mind - Nas Subtitulada en español](https://www.youtube.com/watch?v=AudP6Bu2UvI)
-- [Nas - Halftime (Official Music Video - Explicit)](https://www.youtube.com/watch?v=HCDYgZM5yq0)
+- [Nas - Represent (Official Audio)](https://www.youtube.com/watch?v=xiVY_yPgvMs)
 - [NaS - Life's A Bitch (complete with lyrics)](https://www.youtube.com/watch?v=mnKUUBKLygE)
 - [Nas - One Love](https://www.youtube.com/watch?v=hxce_qvhi5I)
 - [Nas - It Ain't Hard To Tell (Official Video - Explicit)](https://www.youtube.com/watch?v=lZXtabqDY-c)

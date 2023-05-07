@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![The Best Of The Faces by Faces](the-best-of-the-faces-1333090.jpg)
+{{< img src="the-best-of-the-faces-1333090.jpg" title="The Best Of The Faces by Faces" >}}
 
 <!-- section break -->
 

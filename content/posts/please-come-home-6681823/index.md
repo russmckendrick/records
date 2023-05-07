@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Please Come Home by Lonely Robot](please-come-home-6681823.jpg)
+{{< img src="please-come-home-6681823.jpg" title="Please Come Home by Lonely Robot" >}}
 
 <!-- section break -->
 
@@ -50,13 +50,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Lonely Robot - Airlock
-{{< youtube id="XeZcUm77IJg" title="Lonely Robot - Airlock" >}}<br>
+### Lonely Robot - A Godless Sea
+{{< youtube id="5-ZEiRKwuqw" title="Lonely Robot - A Godless Sea" >}}<br>
 
 ### More Videos
 
 - [Why Do We Stay - Lonely Robot](https://www.youtube.com/watch?v=WnXbsTZQX3g)
-- [Lonely Robot - A Godless Sea](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
+- [Lonely Robot - Airlock](https://www.youtube.com/watch?v=XeZcUm77IJg)
 
 
 ## Release Information

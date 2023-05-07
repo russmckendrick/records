@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![Wish You Were Here - Immersion Box Set by Pink Floyd](wish-you-were-here-immersion-box-set-3205416.jpg)
+{{< img src="wish-you-were-here-immersion-box-set-3205416.jpg" title="Wish You Were Here - Immersion Box Set by Pink Floyd" >}}
 
 <!-- section break -->
 

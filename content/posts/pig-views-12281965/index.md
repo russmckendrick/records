@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Pig Views by Regal Worm](pig-views-12281965.jpg)
+{{< img src="pig-views-12281965.jpg" title="Pig Views by Regal Worm" >}}
 
 <!-- section break -->
 

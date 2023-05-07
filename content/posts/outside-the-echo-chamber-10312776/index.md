@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Reggae"]
 styles: ["Reggae", "Dub", "Dancehall"]
 ---
 
-![Outside The Echo Chamber by Coldcut](outside-the-echo-chamber-10312776.jpg)
+{{< img src="outside-the-echo-chamber-10312776.jpg" title="Outside The Echo Chamber by Coldcut" >}}
 
 <!-- section break -->
 
@@ -44,16 +44,16 @@ styles: ["Reggae", "Dub", "Dancehall"]
 
 
 ## Videos
-### Coldcut x On-U Sound - 'Metro'
-{{< youtube id="k8x_UjoeMjk" title="Coldcut x On-U Sound - 'Metro'" >}}<br>
+### Coldcut x On-U Sound - 'Kajra Mohabbat Wala feat. Hamsika Iyer'
+{{< youtube id="Dvt2nRs7e7I" title="Coldcut x On-U Sound - 'Kajra Mohabbat Wala feat. Hamsika Iyer'" >}}<br>
 
 ### More Videos
 
 - [Coldcut x On-U Sound - 'Vitals feat. Roots Manuva (Dub)'](https://www.youtube.com/watch?v=9FjK8yyVY0M)
+- [Coldcut x On-U Sound - 'Metro'](https://www.youtube.com/watch?v=k8x_UjoeMjk)
 - [Coldcut x On-U Sound - 'Everyday Another Sanction feat. Chezidek'](https://www.youtube.com/watch?v=kYMRn5VlS4M)
 - [Coldcut x On-U Sound - 'Make Up Your Mind feat. Ce’Cile and Toddla T (Dub)'](https://www.youtube.com/watch?v=3t9RzE-GvBc)
 - [Coldcut x On-U Sound - 'Aztec Riddim'](https://www.youtube.com/watch?v=ksoOE3z3MQk)
-- [Coldcut x On-U Sound - 'Kajra Mohabbat Wala feat. Hamsika Iyer'](https://www.youtube.com/watch?v=Dvt2nRs7e7I)
 - [Coldcut x On-U Sound - 'Divide and Rule feat. Lee 'Scratch' Perry, Junior Reid and Elan'](https://www.youtube.com/watch?v=t1HtUqJ4zSk)
 - [Coldcut x On-U Sound - 'Make Up Your Mind feat. Ce’Cile and Toddla T'](https://www.youtube.com/watch?v=WxDKZ6Bmu8E)
 - [Coldcut x On-U Sound - 'Livid Hip Hop'](https://www.youtube.com/watch?v=YZMghlhcSw8)

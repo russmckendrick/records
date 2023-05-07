@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ---
 
-![Eras IV by Devin Townsend](eras-iv-14051869.jpg)
+{{< img src="eras-iv-14051869.jpg" title="Eras IV by Devin Townsend" >}}
 
 <!-- section break -->
 

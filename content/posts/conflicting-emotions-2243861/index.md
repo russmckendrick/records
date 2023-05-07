@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Conflicting Emotions by Split Enz](conflicting-emotions-2243861.jpg)
+{{< img src="conflicting-emotions-2243861.jpg" title="Conflicting Emotions by Split Enz" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Split Enz - Message To My Girl
-{{< youtube id="O6YD4rjVIO8" title="Split Enz - Message To My Girl" >}}<br>
+### Audiosurf - Split enz - Our day
+{{< youtube id="0D8WfeT9f0o" title="Audiosurf - Split enz - Our day" >}}<br>
 
 ### More Videos
 
 - [Split Enz - The Devil You Know](https://www.youtube.com/watch?v=7WGCQqYlgZQ)
+- [Split Enz - Message To My Girl](https://www.youtube.com/watch?v=O6YD4rjVIO8)
 - [Audiosurf - Split enz - Bon voyage](https://www.youtube.com/watch?v=e7FqT3T1_q4)
-- [Audiosurf - Split enz - Our day](https://www.youtube.com/watch?v=0D8WfeT9f0o)
 
 
 ## Release Information

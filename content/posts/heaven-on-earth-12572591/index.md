@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
 
-![Heaven On Earth by Belinda Carlisle](heaven-on-earth-12572591.jpg)
+{{< img src="heaven-on-earth-12572591.jpg" title="Heaven On Earth by Belinda Carlisle" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Pop Rock", "Ballad"]
 
 
 ## Videos
-### Heaven is a Place on Earth (Acoustic)
-{{< youtube id="-Gbnyvq66Hk" title="Heaven is a Place on Earth (Acoustic)" >}}<br>
+### Love Never Dies
+{{< youtube id="ivOXrlFOeEs" title="Love Never Dies" >}}<br>
 
 ### More Videos
 
@@ -56,7 +56,7 @@ styles: ["Pop Rock", "Ballad"]
 - [We Can Change](https://www.youtube.com/watch?v=GPN6xhSw-Pw)
 - [Fool for Love](https://www.youtube.com/watch?v=lgiLr1q257o)
 - [Nobody Owns Me](https://www.youtube.com/watch?v=cizmZPd2mfo)
-- [Love Never Dies](https://www.youtube.com/watch?v=ivOXrlFOeEs)
+- [Heaven is a Place on Earth (Acoustic)](https://www.youtube.com/watch?v=-Gbnyvq66Hk)
 
 
 ## Release Information

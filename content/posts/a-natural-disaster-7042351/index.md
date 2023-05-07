@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![A Natural Disaster by Anathema](a-natural-disaster-7042351.jpg)
+{{< img src="a-natural-disaster-7042351.jpg" title="A Natural Disaster by Anathema" >}}
 
 <!-- section break -->
 
@@ -48,13 +48,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Anathema - A Natural Disaster (Audio)
-{{< youtube id="_lMiIsQqLaE" title="Anathema - A Natural Disaster (Audio)" >}}<br>
+### Anathema - A Natural Disaster | FULL DEMO
+{{< youtube id="3H-i4PDX3WQ" title="Anathema - A Natural Disaster | FULL DEMO" >}}<br>
 
 ### More Videos
 
+- [Anathema - A Natural Disaster (Audio)](https://www.youtube.com/watch?v=_lMiIsQqLaE)
 - [ANATHEMA - A Natural Disaster](https://www.youtube.com/watch?v=JB1djmYr0aA)
-- [Anathema - A Natural Disaster | FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
 
 
 ## Release Information

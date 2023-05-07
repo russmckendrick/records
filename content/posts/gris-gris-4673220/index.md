@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 ---
 
-![Gris-Gris by Dr. John](gris-gris-4673220.jpg)
+{{< img src="gris-gris-4673220.jpg" title="Gris-Gris by Dr. John" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,14 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 
 
 ## Videos
-### Gris-Gris Gumbo Ya Ya
-{{< youtube id="ijZUoSsnRPU" title="Gris-Gris Gumbo Ya Ya" >}}<br>
+### Croker Courtbullion
+{{< youtube id="HD8npKskEdo" title="Croker Courtbullion" >}}<br>
 
 ### More Videos
 
+- [Gris-Gris Gumbo Ya Ya](https://www.youtube.com/watch?v=ijZUoSsnRPU)
 - [Danse Kalinda Ba Doom](https://www.youtube.com/watch?v=jKn6sUz7O0g)
 - [Danse Fambeaux](https://www.youtube.com/watch?v=apMbFM3UH0E)
-- [Croker Courtbullion](https://www.youtube.com/watch?v=HD8npKskEdo)
 - [Jump Sturdy](https://www.youtube.com/watch?v=KBPGqC27zqc)
 - [I Walk on Guilded Splinters](https://www.youtube.com/watch?v=lekQoT485aA)
 

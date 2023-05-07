@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-![Shaking The Tree (Twelve Golden Greats) by Peter Gabriel](shaking-the-tree-twelve-golden-greats-1662226.jpg)
+{{< img src="shaking-the-tree-twelve-golden-greats-1662226.jpg" title="Shaking The Tree (Twelve Golden Greats) by Peter Gabriel" >}}
 
 <!-- section break -->
 

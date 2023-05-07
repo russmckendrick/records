@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Electro", "Trance"]
 ---
 
-![Electronica 1: The Time Machine by Jean-Michel Jarre](electronica-1-the-time-machine-7593742.jpg)
+{{< img src="electronica-1-the-time-machine-7593742.jpg" title="Electronica 1: The Time Machine by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Synth-pop", "Electro", "Trance"]
 
 
 ## Videos
-### Jean-Michel Jarre, John Carpenter - A Question of Blood (Audio Video)
-{{< youtube id="nVLUXBKFRGs" title="Jean-Michel Jarre, John Carpenter - A Question of Blood (Audio Video)" >}}<br>
+### A Question Of Blood
+{{< youtube id="2qSaeRMK0mk" title="A Question Of Blood" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["Synth-pop", "Electro", "Trance"]
 - [Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=hhcveYXKZTY)
 - [Jean-Michel Jarre - Electronica Volume 1 (Official Trailer)](https://www.youtube.com/watch?v=sw02ZVo4ea4)
 - [Jean-Michel Jarre & M83 - Glory (Steve Angello Remix) [Cover Art]](https://www.youtube.com/watch?v=ogmdkV3b0Yg)
+- [Jean-Michel Jarre, John Carpenter - A Question of Blood (Audio Video)](https://www.youtube.com/watch?v=nVLUXBKFRGs)
 - [Jean-Michel Jarre, Tangerine Dream - Zero Gravity (Audio Video)](https://www.youtube.com/watch?v=L7MHhLYecT0)
 - [Jean-Michel Jarre, Boys Noize - The Time Machine (Audio Video)](https://www.youtube.com/watch?v=xjrCDAXg1Bw)
 - [Jean-Michel Jarre | Deezer Close Up](https://www.youtube.com/watch?v=pDj9t4Uf8Q0)
-- [A Question Of Blood](https://www.youtube.com/watch?v=2qSaeRMK0mk)
 - [Jean-Michel Jarre, Pete Townshend - Travelator, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=4xZQ5hX0xyk)
 - [Jean-Michel Jarre, M83 - Glory](https://www.youtube.com/watch?v=NF7OoJZPLJc)
 

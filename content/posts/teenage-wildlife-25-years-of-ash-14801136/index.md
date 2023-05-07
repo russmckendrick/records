@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Teenage Wildlife: 25 Years Of Ash by Ash](teenage-wildlife-25-years-of-ash-14801136.jpg)
+{{< img src="teenage-wildlife-25-years-of-ash-14801136.jpg" title="Teenage Wildlife: 25 Years Of Ash by Ash" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 ---
 
-![Anthem Of The Peaceful Army by Greta Van Fleet](anthem-of-the-peaceful-army-12689739.jpg)
+{{< img src="anthem-of-the-peaceful-army-12689739.jpg" title="Anthem Of The Peaceful Army by Greta Van Fleet" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### Lover, Leaver (Taker, Believer)
-{{< youtube id="hw1DetXwXgE" title="Lover, Leaver (Taker, Believer)" >}}<br>
+### Greta Van Fleet - The Cold Wind (Audio)
+{{< youtube id="WhwbltW35dM" title="Greta Van Fleet - The Cold Wind (Audio)" >}}<br>
 
 ### More Videos
 
 - [Greta Van Fleet - When The Curtain Falls](https://www.youtube.com/watch?v=86_vnQc1oBE)
+- [Lover, Leaver (Taker, Believer)](https://www.youtube.com/watch?v=hw1DetXwXgE)
 - [Greta Van Fleet - Watching Over (2018), Vinyl Video, UHD, 4K](https://www.youtube.com/watch?v=a67cM-6fJbo)
 - [Greta Van Fleet When The Curtain Falls (Live On The Tonight Show Starring Jimmy Fallon)](https://www.youtube.com/watch?v=Sr1-jIyRB90)
-- [Greta Van Fleet - The Cold Wind (Audio)](https://www.youtube.com/watch?v=WhwbltW35dM)
 - [Greta Van Fleet - Age of Man (Audio)](https://www.youtube.com/watch?v=Wd9te6ZQXpQ)
 - [Greta Van Fleet - Anthem (Audio)](https://www.youtube.com/watch?v=D2xar8DwKi0)
 - [Greta Van Fleet - You're The One (Audio)](https://www.youtube.com/watch?v=S2pa-Eb4wLE)

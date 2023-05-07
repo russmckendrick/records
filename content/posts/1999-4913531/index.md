@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-![1999 by Prince](1999-4913531.jpg)
+{{< img src="1999-4913531.jpg" title="1999 by Prince" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### Lady Cab Driver
-{{< youtube id="YQ7Tcw8yqho" title="Lady Cab Driver" >}}<br>
+### Delirious (2019 Remaster)
+{{< youtube id="ilP0dGXFNgw" title="Delirious (2019 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Prince - 1999 (Official Music Video)](https://www.youtube.com/watch?v=rblt2EtFfC4)
 - [Prince - Little Red Corvette (Official Music Video)](https://www.youtube.com/watch?v=v0KpfrJE4zw)
-- [Delirious (2019 Remaster)](https://www.youtube.com/watch?v=ilP0dGXFNgw)
+- [Lady Cab Driver](https://www.youtube.com/watch?v=YQ7Tcw8yqho)
 - [Prince - Let's Pretend We're Married (Official Music Video)](https://www.youtube.com/watch?v=KXkCtFo4ttI)
 - [Lady Cab Driver (2019 Remaster)](https://www.youtube.com/watch?v=w8KRBcfajfQ)
 - [International Lover (2019 Remaster)](https://www.youtube.com/watch?v=LladYTP25NY)

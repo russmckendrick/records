@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Very Best Of by Morrissey](very-best-of-2852539.jpg)
+{{< img src="very-best-of-2852539.jpg" title="Very Best Of by Morrissey" >}}
 
 <!-- section break -->
 
@@ -46,12 +46,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Morrissey - Boxers - Vinyl
-{{< youtube id="CW6xl0oYWjc" title="Morrissey - Boxers - Vinyl" >}}<br>
+### Morrissey - Glamorous Glue
+{{< youtube id="80sbKxPXzKw" title="Morrissey - Glamorous Glue" >}}<br>
 
 ### More Videos
 
-- [Morrissey - Glamorous Glue](https://www.youtube.com/watch?v=80sbKxPXzKw)
+- [Morrissey - Boxers - Vinyl](https://www.youtube.com/watch?v=CW6xl0oYWjc)
 - [Morrissey - The Last Of The Famous International Playboys](https://www.youtube.com/watch?v=Bk1wUKoXL20)
 - [Morrissey - Sunny](https://www.youtube.com/watch?v=wHqnBTZbuno)
 - [🔴 Morrissey ‎– Complete A Side [ Very Best Of LP 10th Anniversary ]](https://www.youtube.com/watch?v=vLNDN6ltNxQ)

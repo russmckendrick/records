@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Bill by Tripping Daisy](bill-26508692.jpg)
+{{< img src="bill-26508692.jpg" title="Bill by Tripping Daisy" >}}
 
 <!-- section break -->
 

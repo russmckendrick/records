@@ -14,7 +14,7 @@ genres: ["Electronic", "Blues", "Pop"]
 styles: ["Downtempo", "Synth-pop", "Vocal"]
 ---
 
-![Listen Without Prejudice Vol. 1 by George Michael](listen-without-prejudice-vol-1-9939004.jpg)
+{{< img src="listen-without-prejudice-vol-1-9939004.jpg" title="Listen Without Prejudice Vol. 1 by George Michael" >}}
 
 <!-- section break -->
 

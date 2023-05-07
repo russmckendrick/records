@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze"]
 ---
 
-![m b v by My Bloody Valentine](m-b-v-18769009.jpg)
+{{< img src="m-b-v-18769009.jpg" title="m b v by My Bloody Valentine" >}}
 
 <!-- section break -->
 
@@ -37,18 +37,18 @@ styles: ["Shoegaze"]
 
 
 ## Videos
-### she found now - m b v  - my bloody valentine
-{{< youtube id="rBKjhgHGVZs" title="she found now - m b v  - my bloody valentine" >}}<br>
+### nothing is - m b v - my bloody valentine
+{{< youtube id="HHlVpADx_jk" title="nothing is - m b v - my bloody valentine" >}}<br>
 
 ### More Videos
 
+- [she found now - m b v  - my bloody valentine](https://www.youtube.com/watch?v=rBKjhgHGVZs)
 - [only tomorrow - m b v - my bloody valentine](https://www.youtube.com/watch?v=y2FQ3ih0MoE)
 - [who sees you - m b v  - my bloody valentine](https://www.youtube.com/watch?v=UUc5y1NljXI)
 - [is this and yes -  m b v - my bloody valentine](https://www.youtube.com/watch?v=8gH6UOatmAM)
 - [if i am - m b v - my bloody valentine](https://www.youtube.com/watch?v=VJ0axgeNbWU)
 - [new you - m b v - my bloody valentine](https://www.youtube.com/watch?v=VpoOjoiYcWY)
 - [in another way - m b v - my bloody valentine](https://www.youtube.com/watch?v=6oXJus1ajIU)
-- [nothing is - m b v - my bloody valentine](https://www.youtube.com/watch?v=HHlVpADx_jk)
 - [wonder 2 - m b v - my bloody valentine](https://www.youtube.com/watch?v=pWyRfqfEC2s)
 
 

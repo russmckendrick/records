@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Synth-pop"]
 ---
 
-![The Very Best Of by Daryl Hall & John Oates](the-very-best-of-8863457.jpg)
+{{< img src="the-very-best-of-8863457.jpg" title="The Very Best Of by Daryl Hall & John Oates" >}}
 
 <!-- section break -->
 
@@ -46,20 +46,20 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 
 
 ## Videos
-### Hall & Oates  -  Rich Girl  [TOPPOP 1977]
-{{< youtube id="YKDO35K5-BA" title="Hall & Oates  -  Rich Girl  [TOPPOP 1977]" >}}<br>
+### Daryl Hall & John Oates - Maneater (Official Music Video)
+{{< youtube id="yRYFKcMa_Ek" title="Daryl Hall & John Oates - Maneater (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Daryl Hall & John Oates - Private Eyes (Official Music Video)](https://www.youtube.com/watch?v=JsntlJZ9h1U)
 - [Daryl Hall & John Oates - I Can't Go For That (No Can Do) (Official Video)](https://www.youtube.com/watch?v=ccenFp_3kq8)
 - [Daryl Hall & John Oates - Kiss On My List (Official Video)](https://www.youtube.com/watch?v=lsHld-iArOc)
-- [Daryl Hall & John Oates - Maneater (Official Music Video)](https://www.youtube.com/watch?v=yRYFKcMa_Ek)
 - [Daryl Hall & John Oates - Wait For Me (Official Video)](https://www.youtube.com/watch?v=5zkHLp24Gis)
 - [Daryl Hall & John Oates - Say it Isn't So (Official Video)](https://www.youtube.com/watch?v=_R5xIdXwNMk)
 - [Daryl Hall & John Oates - One On One (Official Video)](https://www.youtube.com/watch?v=EXU2tnKEwwo)
 - [Daryl Hall & John Oates - Out Of Touch (Official Video)](https://www.youtube.com/watch?v=D00M2KZH1J0)
 - [Daryl Hall & John Oates - Method of Modern Love (Official Video)](https://www.youtube.com/watch?v=Q3F4c7E9IBU)
+- [Hall & Oates  -  Rich Girl  [TOPPOP 1977]](https://www.youtube.com/watch?v=YKDO35K5-BA)
 - [Daryl Hall & John Oates - You Make My Dreams](https://www.youtube.com/watch?v=EErSKhC0CZs)
 - [Daryl Hall & John Oates - Adult Education](https://www.youtube.com/watch?v=XLYqTZKEpvs)
 - [Daryl Hall & John Oates - You've Lost That Lovin' Feeling (Official Video)](https://www.youtube.com/watch?v=SXX5OtJJWDo)

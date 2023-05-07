@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Pump by Aerosmith](pump-9474092.jpg)
+{{< img src="pump-9474092.jpg" title="Pump by Aerosmith" >}}
 
 <!-- section break -->
 

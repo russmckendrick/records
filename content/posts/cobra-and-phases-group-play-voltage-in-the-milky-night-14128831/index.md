@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Experimental", "Indie Rock", "Post Rock"]
 ---
 
-![Cobra And Phases Group Play Voltage In The Milky Night by Stereolab](cobra-and-phases-group-play-voltage-in-the-milky-night-14128831.jpg)
+{{< img src="cobra-and-phases-group-play-voltage-in-the-milky-night-14128831.jpg" title="Cobra And Phases Group Play Voltage In The Milky Night by Stereolab" >}}
 
 <!-- section break -->
 
@@ -60,18 +60,18 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 
 
 ## Videos
-### Come And Play In The Milky Night
-{{< youtube id="acai-WmHYXM" title="Come And Play In The Milky Night" >}}<br>
+### Caleidoscopic Gaze
+{{< youtube id="jTS6Mu2guiI" title="Caleidoscopic Gaze" >}}<br>
 
 ### More Videos
 
 - [Stereolab - The Free Design (Official Video)](https://www.youtube.com/watch?v=FBR6bFZbh6A)
+- [Come And Play In The Milky Night](https://www.youtube.com/watch?v=acai-WmHYXM)
 - [Italian Shoes Continuum](https://www.youtube.com/watch?v=2uYldgJ4l0U)
 - [Galaxidion](https://www.youtube.com/watch?v=W1QXXBMNsgM)
 - [Blue Milk](https://www.youtube.com/watch?v=ia7YA9a4JqM)
 - [Infinity Girl](https://www.youtube.com/watch?v=fjY0UyGze_k)
 - [Blips Drips And Strips](https://www.youtube.com/watch?v=GIbxZmXUUcM)
-- [Caleidoscopic Gaze](https://www.youtube.com/watch?v=jTS6Mu2guiI)
 - [The Spiracles](https://www.youtube.com/watch?v=lbW9w7Oo6vs)
 
 

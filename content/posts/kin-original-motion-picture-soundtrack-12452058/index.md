@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Kin (Original Motion Picture Soundtrack) by Mogwai](kin-original-motion-picture-soundtrack-12452058.jpg)
+{{< img src="kin-original-motion-picture-soundtrack-12452058.jpg" title="Kin (Original Motion Picture Soundtrack) by Mogwai" >}}
 
 <!-- section break -->
 

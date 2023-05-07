@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Cut-up/DJ", "Hip Hop"]
 ---
 
-![Paul's Boutique by Beastie Boys](paul-s-boutique-12872158.jpg)
+{{< img src="paul-s-boutique-12872158.jpg" title="Paul's Boutique by Beastie Boys" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 
 
 ## Videos
-### The Sounds Of Science
-{{< youtube id="Y90N5XsasN0" title="The Sounds Of Science" >}}<br>
+### What Comes Around
+{{< youtube id="p-gf6KdJVPA" title="What Comes Around" >}}<br>
 
 ### More Videos
 
@@ -53,12 +53,12 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 - [Johnny Ryall](https://www.youtube.com/watch?v=PaE3JTPVKdc)
 - [Egg Man](https://www.youtube.com/watch?v=-OgG0GwT-uY)
 - [High Plains Drifter](https://www.youtube.com/watch?v=WVIbke4NTrg)
+- [The Sounds Of Science](https://www.youtube.com/watch?v=Y90N5XsasN0)
 - [3-Minute Rule](https://www.youtube.com/watch?v=itStM-gwUyU)
 - [Beastie Boys - Hey Ladies](https://www.youtube.com/watch?v=Naf5uJYGoiU)
 - [5-Piece Chicken Dinner](https://www.youtube.com/watch?v=D1SLYttJ4wg)
 - [Beastie Boys - Looking Down The Barrel Of A Gun](https://www.youtube.com/watch?v=yr1Qe2m8oOA)
 - [Car Thief](https://www.youtube.com/watch?v=MaUZpqSylkg)
-- [What Comes Around](https://www.youtube.com/watch?v=p-gf6KdJVPA)
 - [Beastie Boys - Shadrach (Abstract Impressionist Version)](https://www.youtube.com/watch?v=MEVfHmjKOrM)
 - [Ask For Janice](https://www.youtube.com/watch?v=jaA9F1PfOpA)
 - [B-Boy Bouillabaisse: 59 Chrystie Street](https://www.youtube.com/watch?v=a1CwXMGyFFU)

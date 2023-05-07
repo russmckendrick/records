@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Lean Into It by Mr. Big](lean-into-it-2701491.jpg)
+{{< img src="lean-into-it-2701491.jpg" title="Lean Into It by Mr. Big" >}}
 
 <!-- section break -->
 

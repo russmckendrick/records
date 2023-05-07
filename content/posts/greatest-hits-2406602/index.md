@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 ---
 
-![Greatest Hits by Neil Young](greatest-hits-2406602.jpg)
+{{< img src="greatest-hits-2406602.jpg" title="Greatest Hits by Neil Young" >}}
 
 <!-- section break -->
 

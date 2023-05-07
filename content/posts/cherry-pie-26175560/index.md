@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Glam", "Hard Rock"]
 ---
 
-![Cherry Pie by Warrant](cherry-pie-26175560.jpg)
+{{< img src="cherry-pie-26175560.jpg" title="Cherry Pie by Warrant" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Glam", "Hard Rock"]
 
 
 ## Videos
-### LP / Warrant ‎– Cherry Pie / 1991
-{{< youtube id="1mYXpdj5fGQ" title="LP / Warrant ‎– Cherry Pie / 1991" >}}<br>
+### Warrant – I Saw Red
+{{< youtube id="PJ60M7UXCig" title="Warrant – I Saw Red" >}}<br>
 
 ### More Videos
 
@@ -51,12 +51,12 @@ styles: ["Glam", "Hard Rock"]
 - [Warrant – Cherry Pie](https://www.youtube.com/watch?v=Lf3pEwlJ5pw)
 - [Warrant - Uncle Tom's Cabin (Cherry Pie), 1990, Vinyl video 4K, 24bit/96kHz](https://www.youtube.com/watch?v=AlmKZnX_sVY)
 - [LP / Warrant ‎– Cherry Pie / 1991 / Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
+- [LP / Warrant ‎– Cherry Pie / 1991](https://www.youtube.com/watch?v=1mYXpdj5fGQ)
 - [MC / Warrant – Cherry Pie / 1991](https://www.youtube.com/watch?v=0Gc_-ZPpesM)
 - [Warrant – Bed Of Roses](https://www.youtube.com/watch?v=W48heMOeW1c)
 - [Warrant – You're The Only Hell Your Mama Ever Raised](https://www.youtube.com/watch?v=3jvd5LL__7w)
 - [Warrant – Mr. Rainmaker](https://www.youtube.com/watch?v=13V2oQ92No0)
 - [Warrant – Love In Stereo](https://www.youtube.com/watch?v=HPnpYGLjrBw)
-- [Warrant – I Saw Red](https://www.youtube.com/watch?v=PJ60M7UXCig)
 - [Warrant – Song And Dance Man](https://www.youtube.com/watch?v=Mnrg0BlzeM4)
 - [Warrant – Train, Train](https://www.youtube.com/watch?v=jci8rDnicJA)
 - [Warrant – Uncle Tom's Cabin](https://www.youtube.com/watch?v=iTcYXkGWK_0)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![One For Sorrow EP by The Anchoress](one-for-sorrow-ep-6347922.jpg)
+{{< img src="one-for-sorrow-ep-6347922.jpg" title="One For Sorrow EP by The Anchoress" >}}
 
 <!-- section break -->
 

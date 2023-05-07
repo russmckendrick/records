@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
 
-![Orange Synthetic by Cobalt Chapel](orange-synthetic-17164159.jpg)
+{{< img src="orange-synthetic-17164159.jpg" title="Orange Synthetic by Cobalt Chapel" >}}
 
 <!-- section break -->
 

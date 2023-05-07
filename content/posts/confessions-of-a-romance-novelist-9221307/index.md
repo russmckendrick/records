@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Art Rock"]
 ---
 
-![Confessions Of A Romance Novelist by The Anchoress](confessions-of-a-romance-novelist-9221307.jpg)
+{{< img src="confessions-of-a-romance-novelist-9221307.jpg" title="Confessions Of A Romance Novelist by The Anchoress" >}}
 
 <!-- section break -->
 

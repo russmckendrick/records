@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Ambient", "Drone", "Deep Techno"]
 ---
 
-![Leviathan by The Grid](leviathan-19464730.jpg)
+{{< img src="leviathan-19464730.jpg" title="Leviathan by The Grid" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 
 
 ## Videos
-### The Grid / Fripp - After The Rain
-{{< youtube id="VuyDihMwHSY" title="The Grid / Fripp - After The Rain" >}}<br>
+### The Grid / Fripp - Loom
+{{< youtube id="UAOmlMLkd8w" title="The Grid / Fripp - Loom" >}}<br>
 
 ### More Videos
 
 - [The Grid / Fripp - Empire](https://www.youtube.com/watch?v=pR9Ig8JhffE)
 - [The Grid / Fripp - Milkwood](https://www.youtube.com/watch?v=P_oQuB49VnA)
 - [The Grid / Fripp - Pulse Detected](https://www.youtube.com/watch?v=gllVSMQBR7c)
-- [The Grid / Fripp - Loom](https://www.youtube.com/watch?v=UAOmlMLkd8w)
 - [The Grid / Fripp - Leviathan](https://www.youtube.com/watch?v=ylNNEx6GUNw)
+- [The Grid / Fripp - After The Rain](https://www.youtube.com/watch?v=VuyDihMwHSY)
 - [The Grid / Fripp - Fire Tower](https://www.youtube.com/watch?v=kp03NRe_tOs)
 - [The Grid / Fripp - Zhora](https://www.youtube.com/watch?v=9ClPw6JWGPM)
 - [The Grid / Fripp - Sympatico](https://www.youtube.com/watch?v=MinRXsxINRg)

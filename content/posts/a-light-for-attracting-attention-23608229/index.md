@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![A Light For Attracting Attention by The Smile](a-light-for-attracting-attention-23608229.jpg)
+{{< img src="a-light-for-attracting-attention-23608229.jpg" title="A Light For Attracting Attention by The Smile" >}}
 
 <!-- section break -->
 
@@ -38,11 +38,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### The Smile - The Same
-{{< youtube id="4rDaqGv4AIE" title="The Smile - The Same" >}}<br>
+### The Smile - Skrting On The Surface
+{{< youtube id="_nmutqhuWFE" title="The Smile - Skrting On The Surface" >}}<br>
 
 ### More Videos
 
+- [The Smile - The Same](https://www.youtube.com/watch?v=4rDaqGv4AIE)
 - [The Smile - The Opposite](https://www.youtube.com/watch?v=72z6FJsVcbs)
 - [The Smile - You Will Never Work In Television Again](https://www.youtube.com/watch?v=-EB5NhI2RQQ)
 - [The Smile - Pana-vision](https://www.youtube.com/watch?v=wKXQhFXlFs4)
@@ -54,7 +55,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [The Smile - A Hairdryer](https://www.youtube.com/watch?v=U5r4S4YjkF8)
 - [The Smile - Waving A White Flag](https://www.youtube.com/watch?v=RlHEPF4Pqos)
 - [The Smile - We Don't Know What Tomorrow Brings](https://www.youtube.com/watch?v=3oEkWwX9iX4)
-- [The Smile - Skrting On The Surface](https://www.youtube.com/watch?v=_nmutqhuWFE)
 
 
 ## Release Information

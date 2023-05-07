@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Cyr by The Smashing Pumpkins](cyr-16280158.jpg)
+{{< img src="cyr-16280158.jpg" title="Cyr by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

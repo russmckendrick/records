@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Tron (Original Motion Picture Soundtrack) by Wendy Carlos](tron-original-motion-picture-soundtrack-6035147.jpg)
+{{< img src="tron-original-motion-picture-soundtrack-6035147.jpg" title="Tron (Original Motion Picture Soundtrack) by Wendy Carlos" >}}
 
 <!-- section break -->
 
@@ -43,14 +43,13 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### A New Tron and the MCP
-{{< youtube id="ewSk7uf4MbQ" title="A New Tron and the MCP" >}}<br>
+### We've Got Company
+{{< youtube id="VKt5-mxKSz4" title="We've Got Company" >}}<br>
 
 ### More Videos
 
 - [Tron Suite - Wendy Carlos](https://www.youtube.com/watch?v=P5RcNuQXuR4)
 - [01 Tron   Creation Of Tron   Wendy Carlos](https://www.youtube.com/watch?v=o4XVOmAAkyo)
-- [We've Got Company](https://www.youtube.com/watch?v=VKt5-mxKSz4)
 - [Wormhole (TRON Soundtrack)](https://www.youtube.com/watch?v=m-v2vCMjrnw)
 - [Ring Game And Escape (TRON Soundtrack)](https://www.youtube.com/watch?v=xnaFPMkbvEA)
 - [Water, Music And Tronaction (TRON Soundtrack)](https://www.youtube.com/watch?v=bdmIJMhxVk8)
@@ -62,6 +61,7 @@ styles: ["Soundtrack"]
 - [Tower Music [Let Us Pray] (TRON Soundtrack)](https://www.youtube.com/watch?v=AFTSOU6h_UI)
 - [The Light Sailer (TRON Soundtrack)](https://www.youtube.com/watch?v=MkDI0m5M06A)
 - [Sea of Simulation](https://www.youtube.com/watch?v=II7pQns97iU)
+- [A New Tron and the MCP](https://www.youtube.com/watch?v=ewSk7uf4MbQ)
 - [Anthem (TRON Soundtrack)](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
 - [Tron: End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
 

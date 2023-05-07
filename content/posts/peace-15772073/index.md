@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Peace by The Levellers](peace-15772073.jpg)
+{{< img src="peace-15772073.jpg" title="Peace by The Levellers" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Four Boys Lost
-{{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}<br>
+### Levellers - Peace (Full Album) 2020
+{{< youtube id="AQF1TCpIP5g" title="Levellers - Peace (Full Album) 2020" >}}<br>
 
 ### More Videos
 
-- [Levellers - Peace (Full Album) 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
+- [Four Boys Lost](https://www.youtube.com/watch?v=HZ7BUG1oSS4)
 
 
 ## Release Information

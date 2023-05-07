@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ---
 
-![King Rocker (The Original Soundtrack) by The Nightingales](king-rocker-the-original-soundtrack-21188260.jpg)
+{{< img src="king-rocker-the-original-soundtrack-21188260.jpg" title="King Rocker (The Original Soundtrack) by The Nightingales" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 
 
 ## Videos
-### The Nightingales - Gales Doc
-{{< youtube id="jDeAxCQIcGM" title="The Nightingales - Gales Doc" >}}<br>
+### King Rocker: Original Trailer
+{{< youtube id="Zy-ZeKkgXas" title="King Rocker: Original Trailer" >}}<br>
 
 ### More Videos
 
-- [King Rocker: Original Trailer](https://www.youtube.com/watch?v=Zy-ZeKkgXas)
+- [The Nightingales - Gales Doc](https://www.youtube.com/watch?v=jDeAxCQIcGM)
 - [King Rocker Trailer](https://www.youtube.com/watch?v=VukUbf6DPyY)
 
 

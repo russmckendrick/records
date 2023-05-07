@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
 
-![Decksandrumsandrockandroll by Propellerheads](decksandrumsandrockandroll-12126145.jpg)
+{{< img src="decksandrumsandrockandroll-12126145.jpg" title="Decksandrumsandrockandroll by Propellerheads" >}}
 
 <!-- section break -->
 
@@ -41,15 +41,15 @@ styles: ["Breakbeat", "Big Beat"]
 
 
 ## Videos
-### Propellerheads feat: Miss Shirley Bassey - History Repeating
-{{< youtube id="yzLT6_TQmq8" title="Propellerheads feat: Miss Shirley Bassey - History Repeating" >}}<br>
+### Spybreak! (Short One)
+{{< youtube id="Agbn4NzOj04" title="Spybreak! (Short One)" >}}<br>
 
 ### More Videos
 
 - [Propellerheads --- Take California](https://www.youtube.com/watch?v=Dd8WjeK8riE)
 - [Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)](https://www.youtube.com/watch?v=smXziOEWO7Q)
-- [Spybreak! (Short One)](https://www.youtube.com/watch?v=Agbn4NzOj04)
 - [David Arnold and Propellerheads - On Her Majesty's Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
+- [Propellerheads feat: Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
 
 
 ## Release Information

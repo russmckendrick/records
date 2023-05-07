@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![At Folsom Prison by Johnny Cash](at-folsom-prison-7467817.jpg)
+{{< img src="at-folsom-prison-7467817.jpg" title="At Folsom Prison by Johnny Cash" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-![I, Assassin by Gary Numan](i-assassin-13281584.jpg)
+{{< img src="i-assassin-13281584.jpg" title="I, Assassin by Gary Numan" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)
-{{< youtube id="_JL6fXPNA-Y" title="Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)" >}}<br>
+### This House Is Cold
+{{< youtube id="9ZpdwtYphMc" title="This House Is Cold" >}}<br>
 
 ### More Videos
 
@@ -46,10 +46,10 @@ styles: ["Electro", "Synth-pop"]
 - [War Songs](https://www.youtube.com/watch?v=muLUYXAuLcQ)
 - [Glitter and Ash](https://www.youtube.com/watch?v=Ieqb9gqQ1jY)
 - [A Dream of Siam](https://www.youtube.com/watch?v=i0Xpc62vASU)
-- [This House Is Cold](https://www.youtube.com/watch?v=9ZpdwtYphMc)
 - [Music for Chameleons](https://www.youtube.com/watch?v=qseh-XKWvig)
 - [Gary Numan / I, Assassin / Noise Noise  (Audio)](https://www.youtube.com/watch?v=7fADQl-x-dQ)
 - [This Is My House](https://www.youtube.com/watch?v=PhEeiju5XYw)
+- [Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)](https://www.youtube.com/watch?v=_JL6fXPNA-Y)
 - [I, Assassin](https://www.youtube.com/watch?v=Swva7YEvDsk)
 - [Bridge? What Bridge?](https://www.youtube.com/watch?v=8X5yt6h3Bks)
 - [The 1930's Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)

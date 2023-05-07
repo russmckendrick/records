@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Monochrome by Danny Cavanagh](monochrome-10932389.jpg)
+{{< img src="monochrome-10932389.jpg" title="Monochrome by Danny Cavanagh" >}}
 
 <!-- section break -->
 
@@ -32,16 +32,16 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Daniel Cavanagh - The Silent Flight of the Raven Winged Hours (acoustic) (from Monochrome/Colour)
-{{< youtube id="o5XtTnnK6J0" title="Daniel Cavanagh - The Silent Flight of the Raven Winged Hours (acoustic) (from Monochrome/Colour)" >}}<br>
+### Daniel Cavanagh - Oceans Of Time (Monochrome)
+{{< youtube id="xxsaFocAETQ" title="Daniel Cavanagh - Oceans Of Time (Monochrome)" >}}<br>
 
 ### More Videos
 
 - [Daniel Cavanagh - The Exorcist (from Monochrome)](https://www.youtube.com/watch?v=pKGoYUZ_B1c)
 - [Daniel Cavanagh - This Music (from Monochrome)](https://www.youtube.com/watch?v=VuJGTV3T-l0)
 - [Daniel Cavanagh - Soho (Monochrome)](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
+- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours (acoustic) (from Monochrome/Colour)](https://www.youtube.com/watch?v=o5XtTnnK6J0)
 - [Daniel Cavanagh - Dawn (Monochrome)](https://www.youtube.com/watch?v=OmoNknT9zGc)
-- [Daniel Cavanagh - Oceans Of Time (Monochrome)](https://www.youtube.com/watch?v=xxsaFocAETQ)
 - [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
 
 

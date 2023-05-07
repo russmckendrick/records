@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash](johnny-cash-and-the-royal-philharmonic-orchestra-16200952.jpg)
+{{< img src="johnny-cash-and-the-royal-philharmonic-orchestra-16200952.jpg" title="Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash" >}}
 
 <!-- section break -->
 

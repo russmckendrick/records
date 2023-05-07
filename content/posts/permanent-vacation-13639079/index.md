@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Hard Rock", "Glam"]
 ---
 
-![Permanent Vacation by Aerosmith](permanent-vacation-13639079.jpg)
+{{< img src="permanent-vacation-13639079.jpg" title="Permanent Vacation by Aerosmith" >}}
 
 <!-- section break -->
 

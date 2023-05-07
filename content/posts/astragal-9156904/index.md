@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Astragal by Broken DC](astragal-9156904.jpg)
+{{< img src="astragal-9156904.jpg" title="Astragal by Broken DC" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock"]
 ---
 
-![The Basketball Diaries (Original Motion Picture Soundtrack) by Various](the-basketball-diaries-original-motion-picture-soundtrack-13467780.jpg)
+{{< img src="the-basketball-diaries-original-motion-picture-soundtrack-13467780.jpg" title="The Basketball Diaries (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Soundtrack", "Alternative Rock"]
 
 
 ## Videos
-### Flea - I've Been Down (River Phoenix Tribute)
-{{< youtube id="Ec2v9il6Qvs" title="Flea - I've Been Down (River Phoenix Tribute)" >}}<br>
+### Massive Internal Complications - Strawberry Wine
+{{< youtube id="NYEr5BOl8Zs" title="Massive Internal Complications - Strawberry Wine" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Soundtrack", "Alternative Rock"]
 - [People Who Died](https://www.youtube.com/watch?v=1nkRq-ib-gU)
 - [Riders on the Storm](https://www.youtube.com/watch?v=lJZTgynPGT8)
 - [Dizzy](https://www.youtube.com/watch?v=3tTbcYT5pgg)
-- [Massive Internal Complications - Strawberry Wine](https://www.youtube.com/watch?v=NYEr5BOl8Zs)
 - [The Cult - Star](https://www.youtube.com/watch?v=LC8iMRw-DKA)
+- [Flea - I've Been Down (River Phoenix Tribute)](https://www.youtube.com/watch?v=Ec2v9il6Qvs)
 - [Blind Dogs](https://www.youtube.com/watch?v=74oxX7LIssY)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
-![Boxer by The National](boxer-10689734.jpg)
+{{< img src="boxer-10689734.jpg" title="Boxer by The National" >}}
 
 <!-- section break -->
 

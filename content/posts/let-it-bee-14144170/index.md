@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![Let It Bee by Voice Of The Beehive](let-it-bee-14144170.jpg)
+{{< img src="let-it-bee-14144170.jpg" title="Let It Bee by Voice Of The Beehive" >}}
 
 <!-- section break -->
 

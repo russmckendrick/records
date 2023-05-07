@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Experimental", "Art Rock", "Math Rock"]
 ---
 
-![Cavalcade by Black Midi](cavalcade-18869488.jpg)
+{{< img src="cavalcade-18869488.jpg" title="Cavalcade by Black Midi" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Experimental", "Art Rock", "Math Rock"]
 
 
 ## Videos
-### Chondromalacia Patella
-{{< youtube id="fDnzpxWIMII" title="Chondromalacia Patella" >}}<br>
+### black midi - John L
+{{< youtube id="GT0nSp8lUws" title="black midi - John L" >}}<br>
 
 ### More Videos
 
-- [black midi - John L](https://www.youtube.com/watch?v=GT0nSp8lUws)
 - [black midi - Intro (Cavalcavde vinyl introduction rip)](https://www.youtube.com/watch?v=RBPM5z2pmys)
 - [Marlene Dietrich](https://www.youtube.com/watch?v=t-GM18LE1lA)
+- [Chondromalacia Patella](https://www.youtube.com/watch?v=fDnzpxWIMII)
 - [Slow](https://www.youtube.com/watch?v=nGYVnm_hQfQ)
 - [Diamond Stuff](https://www.youtube.com/watch?v=o3MlD0isVv0)
 - [Dethroned](https://www.youtube.com/watch?v=nPquyDbdXWw)

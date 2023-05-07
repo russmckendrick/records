@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 ---
 
-![Heaven Born And Ever Bright by Cardiacs](heaven-born-and-ever-bright-10608092.jpg)
+{{< img src="heaven-born-and-ever-bright-10608092.jpg" title="Heaven Born And Ever Bright by Cardiacs" >}}
 
 <!-- section break -->
 

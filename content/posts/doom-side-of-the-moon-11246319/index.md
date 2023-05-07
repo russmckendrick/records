@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ---
 
-![Doom Side Of The Moon by Doom Side Of The Moon](doom-side-of-the-moon-11246319.jpg)
+{{< img src="doom-side-of-the-moon-11246319.jpg" title="Doom Side Of The Moon by Doom Side Of The Moon" >}}
 
 <!-- section break -->
 

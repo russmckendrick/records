@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Prog Rock"]
 ---
 
-![Record + Sunriders by Amplifier](record-sunriders-11285242.jpg)
+{{< img src="record-sunriders-11285242.jpg" title="Record + Sunriders by Amplifier" >}}
 
 <!-- section break -->
 

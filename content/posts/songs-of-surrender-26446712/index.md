@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
 
-![Songs Of Surrender by U2](songs-of-surrender-26446712.jpg)
+{{< img src="songs-of-surrender-26446712.jpg" title="Songs Of Surrender by U2" >}}
 
 <!-- section break -->
 

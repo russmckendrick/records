@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Rocky IV (Original Motion Picture Soundtrack) by Various](rocky-iv-original-motion-picture-soundtrack-8300839.jpg)
+{{< img src="rocky-iv-original-motion-picture-soundtrack-8300839.jpg" title="Rocky IV (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -35,20 +35,20 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Survivor - Eye Of The Tiger (Official HD Video)
-{{< youtube id="btPJPFnesV4" title="Survivor - Eye Of The Tiger (Official HD Video)" >}}<br>
+### Training Montage (From Rocky IV Soundtrack)
+{{< youtube id="WU9NFr-81tA" title="Training Montage (From Rocky IV Soundtrack)" >}}<br>
 
 ### More Videos
 
 - [Survivor - Burning Heart (Video)](https://www.youtube.com/watch?v=Kc71KZG87X4)
 - [Hearts On Fire (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=_u8oAMhl8Vc)
 - [Double or Nothing (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=fj_39TxmMbQ)
+- [Survivor - Eye Of The Tiger (Official HD Video)](https://www.youtube.com/watch?v=btPJPFnesV4)
 - [War/Fanfare from Rocky IV](https://www.youtube.com/watch?v=1nlTp-4ilFA)
 - [James Brown - Living in America](https://www.youtube.com/watch?v=c5BL4RNFr58)
 - [Robert Tepper - No Easy Way Out (Official Video)](https://www.youtube.com/watch?v=rOXaPE6gklI)
 - [One Way Street (From Rocky IV)](https://www.youtube.com/watch?v=iZOBMzilaZE)
 - [The Sweetest Victory (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=GYt-w9HI5dY)
-- [Training Montage (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=WU9NFr-81tA)
 - [Training Montage (Rocky IV Score Mix)](https://www.youtube.com/watch?v=DYo1yFZMlvM)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![In The Dead, Dead Wood by Vennart](in-the-dead-dead-wood-18001318.jpg)
+{{< img src="in-the-dead-dead-wood-18001318.jpg" title="In The Dead, Dead Wood by Vennart" >}}
 
 <!-- section break -->
 

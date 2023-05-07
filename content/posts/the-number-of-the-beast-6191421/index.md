@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![The Number Of The Beast by Iron Maiden](the-number-of-the-beast-6191421.jpg)
+{{< img src="the-number-of-the-beast-6191421.jpg" title="The Number Of The Beast by Iron Maiden" >}}
 
 <!-- section break -->
 
@@ -36,14 +36,14 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### 22 Acacia Avenue (2015 Remaster)
-{{< youtube id="T5WpPLRrhac" title="22 Acacia Avenue (2015 Remaster)" >}}<br>
+### The Prisoner (2015 Remaster)
+{{< youtube id="MLYdFSaE4tk" title="The Prisoner (2015 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Invaders (2015 Remaster)](https://www.youtube.com/watch?v=iQ5JAxPqum0)
 - [Children of the Damned (2015 Remaster)](https://www.youtube.com/watch?v=wsuj2uhGBvY)
-- [The Prisoner (2015 Remaster)](https://www.youtube.com/watch?v=MLYdFSaE4tk)
+- [22 Acacia Avenue (2015 Remaster)](https://www.youtube.com/watch?v=T5WpPLRrhac)
 - [Iron Maiden - The Number Of The Beast (Official Video)](https://www.youtube.com/watch?v=WxnN05vOuSM)
 - [Iron Maiden - Run To The Hills (Official Video)](https://www.youtube.com/watch?v=86URGgqONvA)
 - [Gangland (2015 Remaster)](https://www.youtube.com/watch?v=YMIKgVnB0ig)

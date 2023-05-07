@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-![Truth And Soul by Fishbone](truth-and-soul-26513438.jpg)
+{{< img src="truth-and-soul-26513438.jpg" title="Truth And Soul by Fishbone" >}}
 
 <!-- section break -->
 

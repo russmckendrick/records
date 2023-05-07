@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-![Transmission by Joy Division](transmission-15622081.jpg)
+{{< img src="transmission-15622081.jpg" title="Transmission by Joy Division" >}}
 
 <!-- section break -->
 

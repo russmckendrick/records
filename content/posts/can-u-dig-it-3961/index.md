@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"]
 ---
 
-![Can U Dig It? by Pop Will Eat Itself](can-u-dig-it-3961.jpg)
+{{< img src="can-u-dig-it-3961.jpg" title="Can U Dig It? by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 

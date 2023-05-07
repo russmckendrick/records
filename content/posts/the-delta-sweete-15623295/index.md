@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![The Delta Sweete by Bobbie Gentry](the-delta-sweete-15623295.jpg)
+{{< img src="the-delta-sweete-15623295.jpg" title="The Delta Sweete by Bobbie Gentry" >}}
 
 <!-- section break -->
 
@@ -52,8 +52,8 @@ styles: ["Folk Rock", "Country Rock"]
 
 
 ## Videos
-### Mornin' Glory (Remastered 2020)
-{{< youtube id="GVtYe7kky9U" title="Mornin' Glory (Remastered 2020)" >}}<br>
+### Jessye' Lisabeth (Demo)
+{{< youtube id="N7ZBS_6ikiY" title="Jessye' Lisabeth (Demo)" >}}<br>
 
 ### More Videos
 
@@ -61,6 +61,7 @@ styles: ["Folk Rock", "Country Rock"]
 - [Big Boss Man (Remastered 2020)](https://www.youtube.com/watch?v=lJIOZOa_enQ)
 - [Reunion (Remastered 2020)](https://www.youtube.com/watch?v=xBl4YQMoBKk)
 - [Parchman Farm (Remastered 2020)](https://www.youtube.com/watch?v=KuPDYHIkJzA)
+- [Mornin' Glory (Remastered 2020)](https://www.youtube.com/watch?v=GVtYe7kky9U)
 - [Sermon (Remastered 2020)](https://www.youtube.com/watch?v=TcouR0lwaSo)
 - [Tobacco Road (Remastered 2020)](https://www.youtube.com/watch?v=_ytkmI7xKeo)
 - [Penduli Pendulum (Remastered 2020)](https://www.youtube.com/watch?v=SSfbqweC3i4)
@@ -75,7 +76,6 @@ styles: ["Folk Rock", "Country Rock"]
 - [Feelin' Good (Demo)](https://www.youtube.com/watch?v=GpJdb2-3hP4)
 - [Mornin' Glory (Demo)](https://www.youtube.com/watch?v=86rcSI5bd9Y)
 - [Sermon (Demo)](https://www.youtube.com/watch?v=XpVexJ7dc6M)
-- [Jessye' Lisabeth (Demo)](https://www.youtube.com/watch?v=N7ZBS_6ikiY)
 - [Refractions (Demo)](https://www.youtube.com/watch?v=RpVThV7h0X0)
 - [Louisiana Man (Demo)](https://www.youtube.com/watch?v=-JWiyebdKi4)
 - [Mornin' Glory](https://www.youtube.com/watch?v=_CFkyuPoH44)

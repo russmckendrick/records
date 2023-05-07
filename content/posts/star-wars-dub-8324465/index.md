@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Dub"]
 ---
 
-![Star Wars Dub by Phil Pratt](star-wars-dub-8324465.jpg)
+{{< img src="star-wars-dub-8324465.jpg" title="Star Wars Dub by Phil Pratt" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ---
 
-![Yesterday Today 1992-1997 by Ocean Colour Scene](yesterday-today-1992-1997-26197274.jpg)
+{{< img src="yesterday-today-1992-1997-26197274.jpg" title="Yesterday Today 1992-1997 by Ocean Colour Scene" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, Wo
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
 
-![Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson](intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26078881.jpg)
+{{< img src="intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26078881.jpg" title="Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -83,14 +83,14 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 
 
 ## Videos
-### Wire - I should have known better
-{{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
+### New Order - The Him [High Quality]
+{{< youtube id="lg7ZtIYvWjw" title="New Order - The Him [High Quality]" >}}<br>
 
 ### More Videos
 
+- [Wire - I should have known better](https://www.youtube.com/watch?v=0TZbOz1Pz5o)
 - [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
 - [A Better Home in the Phantom Zone (1999 Remastered Version)](https://www.youtube.com/watch?v=1m6DAvVurVE)
-- [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
 - [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
 

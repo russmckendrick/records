@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![The Delerium Years 1994-1997 by Porcupine Tree](the-delerium-years-1994-1997-8088258.jpg)
+{{< img src="the-delerium-years-1994-1997-8088258.jpg" title="The Delerium Years 1994-1997 by Porcupine Tree" >}}
 
 <!-- section break -->
 

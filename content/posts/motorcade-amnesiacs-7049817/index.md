@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock"]
 ---
 
-![Motorcade Amnesiacs by Sweet Billy Pilgrim](motorcade-amnesiacs-7049817.jpg)
+{{< img src="motorcade-amnesiacs-7049817.jpg" title="Motorcade Amnesiacs by Sweet Billy Pilgrim" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Art Rock"]
 
 
 ## Videos
-### Tyrekickers
-{{< youtube id="XnGaVygkXwY" title="Tyrekickers" >}}<br>
+### Chasing Horses
+{{< youtube id="-4RLRxKq-pI" title="Chasing Horses" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Art Rock"]
 - [Sweet Billy Pilgrim - Slingshot Grin (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=EdwLWYB18mo)
 - [Burn Before Reading](https://www.youtube.com/watch?v=94xmvK_b1A8)
 - [Sweet Billy Pilgrim - Just Above Midtown (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=Ze3kyWe1oRk)
-- [Chasing Horses](https://www.youtube.com/watch?v=-4RLRxKq-pI)
+- [Tyrekickers](https://www.youtube.com/watch?v=XnGaVygkXwY)
 - [We Just Did What Happened and Nobody Came](https://www.youtube.com/watch?v=0p1AyJAQDdA)
 - [Longstreth](https://www.youtube.com/watch?v=ghZ93J3CBco)
 - [Sweet Billy Pilgrim - Coloma Blues (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=aVIHC0E1Vpw)

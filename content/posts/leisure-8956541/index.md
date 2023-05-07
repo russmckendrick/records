@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-![Leisure by Blur](leisure-8956541.jpg)
+{{< img src="leisure-8956541.jpg" title="Leisure by Blur" >}}
 
 <!-- section break -->
 

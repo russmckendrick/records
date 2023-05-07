@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-![Adventures Of A Reluctant Superhero by Chali 2NA](adventures-of-a-reluctant-superhero-13986143.jpg)
+{{< img src="adventures-of-a-reluctant-superhero-13986143.jpg" title="Adventures Of A Reluctant Superhero by Chali 2NA" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: []
 
 
 ## Videos
-### Superhero Kit
-{{< youtube id="LLtMYPjAit4" title="Superhero Kit" >}}<br>
+### Heartbroken
+{{< youtube id="PWJllBk6Hvw" title="Heartbroken" >}}<br>
 
 ### More Videos
 
@@ -59,7 +59,7 @@ styles: []
 - [Stay Tuned](https://www.youtube.com/watch?v=FB_Khmmissw)
 - [Worth Fighting For](https://www.youtube.com/watch?v=1mkFwgm-Ab8)
 - [Endtro](https://www.youtube.com/watch?v=YWVZJaRaCHM)
-- [Heartbroken](https://www.youtube.com/watch?v=PWJllBk6Hvw)
+- [Superhero Kit](https://www.youtube.com/watch?v=LLtMYPjAit4)
 - [South Coast Rocks](https://www.youtube.com/watch?v=iX_6onkjLEk)
 - [Hands High](https://www.youtube.com/watch?v=c9JFNWYp9Lo)
 - [Distance](https://www.youtube.com/watch?v=qi0unYZA5Fg)

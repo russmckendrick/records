@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Math Rock"]
 ---
 
-![Wrong by Cleft](wrong-8432258.jpg)
+{{< img src="wrong-8432258.jpg" title="Wrong by Cleft" >}}
 
 <!-- section break -->
 

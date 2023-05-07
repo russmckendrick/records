@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Is This It by The Strokes](is-this-it-3146367.jpg)
+{{< img src="is-this-it-3146367.jpg" title="Is This It by The Strokes" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Strokes - The Modern Age (Official Music Video)
-{{< youtube id="RzO7IGWGxu8" title="The Strokes - The Modern Age (Official Music Video)" >}}<br>
+### The Strokes - Someday (Official Music Video)
+{{< youtube id="knU9gRUWCno" title="The Strokes - Someday (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [The Strokes - Last Nite (Official Music Video)](https://www.youtube.com/watch?v=TOypSnKFHrE)
 - [The Strokes   Is This It full album](https://www.youtube.com/watch?v=QfquOawYIuE)
-- [The Strokes - Someday (Official Music Video)](https://www.youtube.com/watch?v=knU9gRUWCno)
 - [The Strokes - Hard To Explain (Official Music Video)](https://www.youtube.com/watch?v=BXkm6h6uq0k)
+- [The Strokes - The Modern Age (Official Music Video)](https://www.youtube.com/watch?v=RzO7IGWGxu8)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Horrific Honorifics by Crippled Black Phoenix](horrific-honorifics-11645142.jpg)
+{{< img src="horrific-honorifics-11645142.jpg" title="Horrific Honorifics by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 

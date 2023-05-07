@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Hold Your Fire by Rush](hold-your-fire-7897222.jpg)
+{{< img src="hold-your-fire-7897222.jpg" title="Hold Your Fire by Rush" >}}
 
 <!-- section break -->
 

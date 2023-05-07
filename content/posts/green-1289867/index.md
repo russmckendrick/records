@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Green by R.E.M.](green-1289867.jpg)
+{{< img src="green-1289867.jpg" title="Green by R.E.M." >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
-![The Singles Album by Jimi Hendrix](the-singles-album-2148022.jpg)
+{{< img src="the-singles-album-2148022.jpg" title="The Singles Album by Jimi Hendrix" >}}
 
 <!-- section break -->
 

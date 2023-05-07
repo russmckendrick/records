@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
-![The Trojan Story by Various](the-trojan-story-19182778.jpg)
+{{< img src="the-trojan-story-19182778.jpg" title="The Trojan Story by Various" >}}
 
 <!-- section break -->
 
@@ -78,8 +78,8 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 
 
 ## Videos
-### THE TENNORS ~ I've Got To Get You Off My Mind
-{{< youtube id="pJF4cDQf0E8" title="THE TENNORS ~ I've Got To Get You Off My Mind" >}}<br>
+### THE ETHIOPIANS ~ Train To Skaville
+{{< youtube id="GJxUC6AgMrY" title="THE ETHIOPIANS ~ Train To Skaville" >}}<br>
 
 ### More Videos
 
@@ -97,7 +97,6 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 - [HONEY BOY MARTIN & THE VOICES - Dreader Than Dread [1967]](https://www.youtube.com/watch?v=TFK7CxlrJ2g)
 - [THE TECHNIQUES ~ Oh Babe](https://www.youtube.com/watch?v=0mmmNanaG7Y)
 - [The Charmers - Rasta Never Fails (Original '71)](https://www.youtube.com/watch?v=iwGFWXkOmVg)
-- [THE ETHIOPIANS ~ Train To Skaville](https://www.youtube.com/watch?v=GJxUC6AgMrY)
 - [DANDY LIVINGSTONE ~ Rudy, A Message To You](https://www.youtube.com/watch?v=ev12lhOsLPo)
 - [HONEY BOY MARTIN & THE VOICES ~ Dreader Than Dread](https://www.youtube.com/watch?v=wJMA41hsvf4)
 - [THE THREE TOPS ~ It's Raining](https://www.youtube.com/watch?v=GHA6Rojn-ik)
@@ -111,6 +110,7 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 - [DERRICK MORGAN ~ Do The Beng Beng](https://www.youtube.com/watch?v=-8jfGbBP3BM)
 - [LYNN TAITT & THE JETS ~ Way Of Life](https://www.youtube.com/watch?v=BKKC5N8V2PA)
 - [TOMMY MC COOK & THE SUPERSONICS ~ Second Fiddle](https://www.youtube.com/watch?v=C7rCif9L4z8)
+- [THE TENNORS ~ I've Got To Get You Off My Mind](https://www.youtube.com/watch?v=pJF4cDQf0E8)
 - [THE MAYTALS ~ Do The Reggay](https://www.youtube.com/watch?v=x4KXyyU8lzc)
 - [THE SLICKERS ~ Nana](https://www.youtube.com/watch?v=deWH__scqak)
 

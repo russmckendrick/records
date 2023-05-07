@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Flicker by Andy Bell](flicker-22022197.jpg)
+{{< img src="flicker-22022197.jpg" title="Flicker by Andy Bell" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: []
 
 
 ## Videos
-### This Is Our Year
-{{< youtube id="cljY3haS0fQ" title="This Is Our Year" >}}<br>
+### The Sky Without You
+{{< youtube id="N4LOo6tRYXs" title="The Sky Without You" >}}<br>
 
 ### More Videos
 
@@ -52,11 +52,11 @@ styles: []
 - [We All Fall Down](https://www.youtube.com/watch?v=MoPRTSL1UYc)
 - [World Of Echo](https://www.youtube.com/watch?v=w1TCQRXD6lw)
 - [Sidewinder](https://www.youtube.com/watch?v=_Uz1ysDqomc)
-- [The Sky Without You](https://www.youtube.com/watch?v=N4LOo6tRYXs)
 - [Holiday In The Sun](https://www.youtube.com/watch?v=VuUaXZNdZcQ)
 - [Way Of The World](https://www.youtube.com/watch?v=1uZEiuqUabo)
 - [Riverside](https://www.youtube.com/watch?v=YC94YBUdVF8)
 - [It Gets Easier](https://www.youtube.com/watch?v=LY6FrGmx5F4)
+- [This Is Our Year](https://www.youtube.com/watch?v=cljY3haS0fQ)
 - [Love Is The Frequency](https://www.youtube.com/watch?v=drtxul3zB5o)
 - [No Getting Out Alive](https://www.youtube.com/watch?v=SAQ7gM4tnpU)
 - [Lifeline](https://www.youtube.com/watch?v=cYqtU4cppYA)

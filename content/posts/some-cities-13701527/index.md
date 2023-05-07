@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Indie Rock"]
 ---
 
-![Some Cities by Doves](some-cities-13701527.jpg)
+{{< img src="some-cities-13701527.jpg" title="Some Cities by Doves" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Doves - The Storm
-{{< youtube id="46ynKrD5nYM" title="Doves - The Storm" >}}<br>
+### Doves - Black & White Town (From Some Cities - 2005)
+{{< youtube id="Nio3f2yN8u8" title="Doves - Black & White Town (From Some Cities - 2005)" >}}<br>
 
 ### More Videos
 
@@ -50,13 +50,13 @@ styles: ["Downtempo", "Indie Rock"]
 - [Doves – Complete C Side [ Some Cities LP ]](https://www.youtube.com/watch?v=48n2X7H5hTg)
 - [Doves – Complete D Side [ Some Cities LP ]](https://www.youtube.com/watch?v=s4bLp-MDgyI)
 - [Some Cities - Doves](https://www.youtube.com/watch?v=ceiBoqK_SPE)
+- [Doves - The Storm](https://www.youtube.com/watch?v=46ynKrD5nYM)
 - [The Doves - Someday Soon](https://www.youtube.com/watch?v=If2W-ZmD9k8)
 - [Sky Starts Falling - Doves (Audio Only)](https://www.youtube.com/watch?v=4ExnaKYXqsA)
 - [Doves ~ Almost Forgot Myself](https://www.youtube.com/watch?v=R54hUCIjNGM)
 - [DOVES - Some Cities](https://www.youtube.com/watch?v=nh76lzkZrCw)
 - [Doves - One Of These Days](https://www.youtube.com/watch?v=9fNTb8L1_m4)
 - [Doves - Walk in Fire](https://www.youtube.com/watch?v=NzXuCj-DXv4)
-- [Doves - Black & White Town (From Some Cities - 2005)](https://www.youtube.com/watch?v=Nio3f2yN8u8)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Thrash", "Progressive Metal"]
 ---
 
-![Synchro Anarchy by Voïvod](synchro-anarchy-22112023.jpg)
+{{< img src="synchro-anarchy-22112023.jpg" title="Synchro Anarchy by Voïvod" >}}
 
 <!-- section break -->
 

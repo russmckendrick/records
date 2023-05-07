@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-![The Last Days Of Oakland by Fantastic Negrito](the-last-days-of-oakland-9225434.jpg)
+{{< img src="the-last-days-of-oakland-9225434.jpg" title="The Last Days Of Oakland by Fantastic Negrito" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
 
-![The Story Of Sonny Boy Slim by Gary Clark Jr.](the-story-of-sonny-boy-slim-7463093.jpg)
+{{< img src="the-story-of-sonny-boy-slim-7463093.jpg" title="The Story Of Sonny Boy Slim by Gary Clark Jr." >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)
-{{< youtube id="M6R0I7mGsUc" title="Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)" >}}<br>
+### Gary Clark Jr. - Wings
+{{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr. - Wings" >}}<br>
 
 ### More Videos
 
-- [Gary Clark Jr. - Wings](https://www.youtube.com/watch?v=kWxLtDfm0GE)
+- [Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)](https://www.youtube.com/watch?v=M6R0I7mGsUc)
 - [Vinyl Unboxing, Gary Clark Jr The Story of Sonny Boy Slim](https://www.youtube.com/watch?v=r41NtcTBL0k)
 - [Gary Clark Jr. - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
 - [Gary Clark Jr. - Grinder (Official Music Video)](https://www.youtube.com/watch?v=5ffEpbvAcG4)

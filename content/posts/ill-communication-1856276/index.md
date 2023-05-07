@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Rock"]
 styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 ---
 
-![Ill Communication by Beastie Boys](ill-communication-1856276.jpg)
+{{< img src="ill-communication-1856276.jpg" title="Ill Communication by Beastie Boys" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 
 
 ## Videos
-### Tough Guy (Remastered 2009)
-{{< youtube id="-AvF_LckwrE" title="Tough Guy (Remastered 2009)" >}}<br>
+### Tough Guy - Beastie Boys
+{{< youtube id="DNkYVaRzhxE" title="Tough Guy - Beastie Boys" >}}<br>
 
 ### More Videos
 
@@ -57,8 +57,8 @@ styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 - [Beastie Boys - Sure Shot](https://www.youtube.com/watch?v=JhqyZeUlE8U)
 - [Beastie Boys - Root Down](https://www.youtube.com/watch?v=Xf1YF_MH1xc)
 - [Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)](https://www.youtube.com/watch?v=ajbr64jeLjQ)
-- [Tough Guy - Beastie Boys](https://www.youtube.com/watch?v=DNkYVaRzhxE)
 - [Tough Guy](https://www.youtube.com/watch?v=30CKfFLfNh0)
+- [Tough Guy (Remastered 2009)](https://www.youtube.com/watch?v=-AvF_LckwrE)
 
 
 ## Release Information

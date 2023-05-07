@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Grave Dancers Union by Soul Asylum](grave-dancers-union-7068256.jpg)
+{{< img src="grave-dancers-union-7068256.jpg" title="Grave Dancers Union by Soul Asylum" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Get on Out
-{{< youtube id="VBrLC_QEsG0" title="Get on Out" >}}<br>
+### April Fool
+{{< youtube id="sP6AgxumUzY" title="April Fool" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Alternative Rock"]
 - [Soul Asylum - Without a Trace](https://www.youtube.com/watch?v=yNWR3OenaPk)
 - [Keep It Up](https://www.youtube.com/watch?v=C2kQ5ECi6QM)
 - [Homesick](https://www.youtube.com/watch?v=RQrGcKBFKfM)
+- [Get on Out](https://www.youtube.com/watch?v=VBrLC_QEsG0)
 - [New World](https://www.youtube.com/watch?v=vSNQpQYQM8E)
-- [April Fool](https://www.youtube.com/watch?v=sP6AgxumUzY)
 - [Growing Into You](https://www.youtube.com/watch?v=oiSGuza-obQ)
 - [99%](https://www.youtube.com/watch?v=OrGtWLrMTxQ)
 - [The Sun Maid](https://www.youtube.com/watch?v=x025XOmFg5A)

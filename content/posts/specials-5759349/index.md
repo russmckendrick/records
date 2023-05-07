@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-![Specials by The Specials](specials-5759349.jpg)
+{{< img src="specials-5759349.jpg" title="Specials by The Specials" >}}
 
 <!-- section break -->
 
@@ -42,15 +42,15 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Specials - The Specials (full album)
-{{< youtube id="e17djV2uGSU" title="The Specials - The Specials (full album)" >}}<br>
+### The Specials - Monkey Man
+{{< youtube id="8miotqEVeSo" title="The Specials - Monkey Man" >}}<br>
 
 ### More Videos
 
 - [The Specials   FULL ALBUM](https://www.youtube.com/watch?v=0eWzrqHYmZs)
-- [The Specials - Monkey Man](https://www.youtube.com/watch?v=8miotqEVeSo)
 - [The Specials - Gangsters](https://www.youtube.com/watch?v=lgCZN1rU5co)
 - [The Specials - A Message To You Rudy (Official Music Video)](https://www.youtube.com/watch?v=cntvEDbagAw)
+- [The Specials - The Specials (full album)](https://www.youtube.com/watch?v=e17djV2uGSU)
 - [The Specials - The Very Best of The Specials and Fun Boy Three (full album)](https://www.youtube.com/watch?v=jQGCG377V3w)
 - [The Specials - Too Much Too Young (2015 Remaster)](https://www.youtube.com/watch?v=PD9NvKKY7W0)
 - [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=xEPfSWk0Lsw)

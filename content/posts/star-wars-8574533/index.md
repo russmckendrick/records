@@ -14,7 +14,7 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
 
-![Star Wars by John Williams](star-wars-8574533.jpg)
+{{< img src="star-wars-8574533.jpg" title="Star Wars by John Williams" >}}
 
 <!-- section break -->
 

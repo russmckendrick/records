@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-![Alice by Tom Waits](alice-11189794.jpg)
+{{< img src="alice-11189794.jpg" title="Alice by Tom Waits" >}}
 
 <!-- section break -->
 
@@ -43,13 +43,13 @@ styles: ["Alternative Rock", "Experimental"]
 
 
 ## Videos
-### Tom Waits - Everything You Can Think
-{{< youtube id="9Bk9ao6cSFs" title="Tom Waits - Everything You Can Think" >}}<br>
+### Alice - Tom Waits
+{{< youtube id="aEj-mrwwaxo" title="Alice - Tom Waits" >}}<br>
 
 ### More Videos
 
-- [Alice - Tom Waits](https://www.youtube.com/watch?v=aEj-mrwwaxo)
 - [Tom Waits - Flowers Grave](https://www.youtube.com/watch?v=_x198_I0Nfc)
+- [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=9Bk9ao6cSFs)
 
 
 ## Release Information

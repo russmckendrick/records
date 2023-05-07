@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Houses Of The Holy by Led Zeppelin](houses-of-the-holy-6224441.jpg)
+{{< img src="houses-of-the-holy-6224441.jpg" title="Houses Of The Holy by Led Zeppelin" >}}
 
 <!-- section break -->
 

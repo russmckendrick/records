@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![We're Here Because We're Here by Anathema](we-re-here-because-we-re-here-2318604.jpg)
+{{< img src="we-re-here-because-we-re-here-2318604.jpg" title="We're Here Because We're Here by Anathema" >}}
 
 <!-- section break -->
 

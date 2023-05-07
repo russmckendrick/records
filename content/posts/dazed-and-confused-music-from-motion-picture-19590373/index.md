@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock"]
 ---
 
-![Dazed and Confused (Music From Motion Picture) by Various](dazed-and-confused-music-from-motion-picture-19590373.jpg)
+{{< img src="dazed-and-confused-music-from-motion-picture-19590373.jpg" title="Dazed and Confused (Music From Motion Picture) by Various" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Paranoid (2012 - Remaster)
-{{< youtube id="v24ljjtqb-U" title="Paranoid (2012 - Remaster)" >}}<br>
+### Ted Nugent - Stranglehold
+{{< youtube id="0c3d7QgZr7g" title="Ted Nugent - Stranglehold" >}}<br>
 
 ### More Videos
 
@@ -50,13 +50,13 @@ styles: ["Classic Rock"]
 - [Jim Dandy](https://www.youtube.com/watch?v=VxMM_IP1C2E)
 - [Tush (2006 Remaster)](https://www.youtube.com/watch?v=P7iPkiyG2jQ)
 - [Nazareth - Love hurts](https://www.youtube.com/watch?v=WISogScYNXA)
-- [Ted Nugent - Stranglehold](https://www.youtube.com/watch?v=0c3d7QgZr7g)
 - [THE RUNAWAYS-Cherry Bomb (1976)](https://www.youtube.com/watch?v=7v3Mwi3_Clc)
 - [Fox On The Run](https://www.youtube.com/watch?v=edOXpZlNdsk)
 - [Lowrider War](https://www.youtube.com/watch?v=ro4yhp9L6Ok)
 - [Tuesday's Gone](https://www.youtube.com/watch?v=iExsbDuVqeE)
 - [Deep Purple - Highway Star 1972 Video HQ](https://www.youtube.com/watch?v=UAKCR7kQMTQ)
 - [Rock N' Roll All Night ( Good Quality ) - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
+- [Paranoid (2012 - Remaster)](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
 
 ## Release Information

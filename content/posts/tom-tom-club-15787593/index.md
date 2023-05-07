@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Dub", "Synth-pop", "Disco"]
 ---
 
-![Tom Tom Club by Tom Tom Club](tom-tom-club-15787593.jpg)
+{{< img src="tom-tom-club-15787593.jpg" title="Tom Tom Club by Tom Tom Club" >}}
 
 <!-- section break -->
 
@@ -36,14 +36,14 @@ styles: ["Dub", "Synth-pop", "Disco"]
 
 
 ## Videos
-### Tom Tom Theme
-{{< youtube id="eJKdZhH9CwY" title="Tom Tom Theme" >}}<br>
+### Tom Tom Club - Genius of Love
+{{< youtube id="ECiMhe4E0pI" title="Tom Tom Club - Genius of Love" >}}<br>
 
 ### More Videos
 
 - [Tom Tom Club  -  Wordy Rappinghood](https://www.youtube.com/watch?v=6Vl1m5FYlAo)
 - [Tom Tom Club - Genius Of Love (Official Music Video)](https://www.youtube.com/watch?v=aCWCF19nUhA)
-- [Tom Tom Club - Genius of Love](https://www.youtube.com/watch?v=ECiMhe4E0pI)
+- [Tom Tom Theme](https://www.youtube.com/watch?v=eJKdZhH9CwY)
 - [Tom Tom Club-L'Elephant](https://www.youtube.com/watch?v=Da9MkEDcm68)
 
 

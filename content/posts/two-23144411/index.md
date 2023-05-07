@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Two by Dubstar](two-23144411.jpg)
+{{< img src="two-23144411.jpg" title="Two by Dubstar" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Tectonic Plates (Dressing Up Extended Mix)
-{{< youtube id="YOlNmpF2VE4" title="Tectonic Plates (Dressing Up Extended Mix)" >}}<br>
+### Dubstar - Hygiene Strip (Official Artist Lyric Video)
+{{< youtube id="W4efy7WBvpA" title="Dubstar - Hygiene Strip (Official Artist Lyric Video)" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,6 @@ styles: ["Synth-pop"]
 - [Dubstar - Tectonic Plates (Official Artist Lyric Video)](https://www.youtube.com/watch?v=tZN50XYHYUQ)
 - [Lighthouse](https://www.youtube.com/watch?v=yH6tQGzAJoY)
 - [Dubstar - Tears (Visualiser)](https://www.youtube.com/watch?v=VgnS0oSovec)
-- [Dubstar - Hygiene Strip (Official Artist Lyric Video)](https://www.youtube.com/watch?v=W4efy7WBvpA)
 - [Blood](https://www.youtube.com/watch?v=SBoUO0_Wy0Q)
 - [Social Proof](https://www.youtube.com/watch?v=MRN--n7Dmpc)
 - [Kissing To Be Unkind](https://www.youtube.com/watch?v=loOtBBDsZZo)
@@ -55,6 +54,7 @@ styles: ["Synth-pop"]
 - [Hygiene Strip (Extended)](https://www.youtube.com/watch?v=0qFIhcT4bpA)
 - [I Can See You Outside (Extended)](https://www.youtube.com/watch?v=2l3xejkp3_I)
 - [Tectonic Plates (Extended)](https://www.youtube.com/watch?v=KPmx0XYwuPw)
+- [Tectonic Plates (Dressing Up Extended Mix)](https://www.youtube.com/watch?v=YOlNmpF2VE4)
 
 
 ## Release Information

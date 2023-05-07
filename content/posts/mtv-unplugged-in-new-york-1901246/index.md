@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Acoustic", "Grunge"]
 ---
 
-![MTV Unplugged In New York by Nirvana](mtv-unplugged-in-new-york-1901246.jpg)
+{{< img src="mtv-unplugged-in-new-york-1901246.jpg" title="MTV Unplugged In New York by Nirvana" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Drum n Bass", "Jungle"]
 ---
 
-![Timeless (25th Anniversary Edition) by Goldie](timeless-25th-anniversary-edition-18291646.jpg)
+{{< img src="timeless-25th-anniversary-edition-18291646.jpg" title="Timeless (25th Anniversary Edition) by Goldie" >}}
 
 <!-- section break -->
 

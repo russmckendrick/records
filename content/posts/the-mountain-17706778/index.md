@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-![The Mountain by Haken](the-mountain-17706778.jpg)
+{{< img src="the-mountain-17706778.jpg" title="The Mountain by Haken" >}}
 
 <!-- section break -->
 
@@ -47,15 +47,15 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### The Path
-{{< youtube id="RvzL2FoF5W8" title="The Path" >}}<br>
+### Because It's There
+{{< youtube id="3u4d7k3nMXA" title="Because It's There" >}}<br>
 
 ### More Videos
 
+- [The Path](https://www.youtube.com/watch?v=RvzL2FoF5W8)
 - [Atlas Stone](https://www.youtube.com/watch?v=JUK4CMh4Feg)
 - [Cockroach King](https://www.youtube.com/watch?v=mwcA2xuKtts)
 - [In Memoriam](https://www.youtube.com/watch?v=-xgE_g0PJ-s)
-- [Because It's There](https://www.youtube.com/watch?v=3u4d7k3nMXA)
 - [Falling Back To Earth](https://www.youtube.com/watch?v=52ALziuI-AY)
 - [As Death Embraces](https://www.youtube.com/watch?v=FHNbW3I-lug)
 - [Pareidolia](https://www.youtube.com/watch?v=-AbGjGpJPO0)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 ---
 
-![Wretch by Kyuss](wretch-8964385.jpg)
+{{< img src="wretch-8964385.jpg" title="Wretch by Kyuss" >}}
 
 <!-- section break -->
 
@@ -40,19 +40,19 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 
 
 ## Videos
-### Love Has Passed Me By
-{{< youtube id="svVpuKb3DhE" title="Love Has Passed Me By" >}}<br>
+### I'm Not
+{{< youtube id="0vlf4z-EMpQ" title="I'm Not" >}}<br>
 
 ### More Videos
 
 - [[Beginning of What's About to Happen] Hwy 74](https://www.youtube.com/watch?v=qDnoe3IP1Pk)
+- [Love Has Passed Me By](https://www.youtube.com/watch?v=svVpuKb3DhE)
 - [Son of a Bitch](https://www.youtube.com/watch?v=IdwEH2se_p0)
 - [Black Widow](https://www.youtube.com/watch?v=lD6lekY7eSk)
 - [Katzenjammer](https://www.youtube.com/watch?v=svWijD-TWrs)
 - [Deadly Kiss](https://www.youtube.com/watch?v=52ZJOcQg29o)
 - [The Law](https://www.youtube.com/watch?v=NMXjKDXWrm8)
 - [Isolation](https://www.youtube.com/watch?v=fvWKp5-XHrA)
-- [I'm Not](https://www.youtube.com/watch?v=0vlf4z-EMpQ)
 - [Big Bikes](https://www.youtube.com/watch?v=RwpWyGPk4k0)
 - [Stage III](https://www.youtube.com/watch?v=FD6iMtFyclU)
 

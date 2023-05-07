@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
 
-![BBC Broadcasts by Genesis](bbc-broadcasts-26289155.jpg)
+{{< img src="bbc-broadcasts-26289155.jpg" title="BBC Broadcasts by Genesis" >}}
 
 <!-- section break -->
 

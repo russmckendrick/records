@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![A Farewell To Kings by Rush](a-farewell-to-kings-6951528.jpg)
+{{< img src="a-farewell-to-kings-6951528.jpg" title="A Farewell To Kings by Rush" >}}
 
 <!-- section break -->
 

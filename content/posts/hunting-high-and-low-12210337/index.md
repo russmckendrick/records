@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Hunting High And Low by a-ha](hunting-high-and-low-12210337.jpg)
+{{< img src="hunting-high-and-low-12210337.jpg" title="Hunting High And Low by a-ha" >}}
 
 <!-- section break -->
 

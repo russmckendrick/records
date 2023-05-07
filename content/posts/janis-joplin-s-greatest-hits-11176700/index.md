@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-![Janis Joplin's Greatest Hits by Janis Joplin](janis-joplin-s-greatest-hits-11176700.jpg)
+{{< img src="janis-joplin-s-greatest-hits-11176700.jpg" title="Janis Joplin's Greatest Hits by Janis Joplin" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Move Over
-{{< youtube id="W4zumh4m7Kg" title="Move Over" >}}<br>
+### Janis Joplin - Get It While You Can (Official Lyric Video)
+{{< youtube id="mtj9w2gYzV4" title="Janis Joplin - Get It While You Can (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Blues Rock"]
 - [Janis Joplin - Try (Just a Little Bit Harder) (Official Audio)](https://www.youtube.com/watch?v=jjHw_FJySg4)
 - [Piece of My Heart (Official Audio)](https://www.youtube.com/watch?v=SCngPse1iiI)
 - [Big Brother & The Holding Company, Janis Joplin - Bye, Bye Baby (Audio) ft. Janis Joplin](https://www.youtube.com/watch?v=xXX5hsnENG8)
-- [Janis Joplin - Get It While You Can (Official Lyric Video)](https://www.youtube.com/watch?v=mtj9w2gYzV4)
+- [Move Over](https://www.youtube.com/watch?v=W4zumh4m7Kg)
 
 
 ## Release Information

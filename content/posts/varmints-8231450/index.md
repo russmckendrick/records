@@ -14,7 +14,7 @@ genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
 
-![Varmints by Anna Meredith](varmints-8231450.jpg)
+{{< img src="varmints-8231450.jpg" title="Varmints by Anna Meredith" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Modern Classical"]
 
 
 ## Videos
-### Anna Meredith - R-Type
-{{< youtube id="A4F2_cWk8cY" title="Anna Meredith - R-Type" >}}<br>
+### ANNA MEREDITH - Taken (Official Video)
+{{< youtube id="vMLXiNfxdI8" title="ANNA MEREDITH - Taken (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Anna Meredith -  Nautilus (Official Video)](https://www.youtube.com/watch?v=Vajhs2wBeCU)
 - [Anna Meredith: “The Vapours” (Official Music Video)](https://www.youtube.com/watch?v=oGQaExAbysQ)
-- [ANNA MEREDITH - Taken (Official Video)](https://www.youtube.com/watch?v=vMLXiNfxdI8)
+- [Anna Meredith - R-Type](https://www.youtube.com/watch?v=A4F2_cWk8cY)
 - [Honeyed Words](https://www.youtube.com/watch?v=S_MO6fL6D7M)
 
 

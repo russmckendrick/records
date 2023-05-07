@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Indie Pop"]
 ---
 
-![Sunset Dreams by Jane Weaver](sunset-dreams-21262522.jpg)
+{{< img src="sunset-dreams-21262522.jpg" title="Sunset Dreams by Jane Weaver" >}}
 
 <!-- section break -->
 

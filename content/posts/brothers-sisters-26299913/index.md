@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Brothers & Sisters by Steve Mason](brothers-sisters-26299913.jpg)
+{{< img src="brothers-sisters-26299913.jpg" title="Brothers & Sisters by Steve Mason" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Steve Mason - I'm On My Way (Official Audio)
-{{< youtube id="-Z3hZDb8R7o" title="Steve Mason - I'm On My Way (Official Audio)" >}}<br>
+### Steve Mason - Mars Man (Official Audio)
+{{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Steve Mason - Mars Man (Official Audio)](https://www.youtube.com/watch?v=z9pomvkgFCY)
+- [Steve Mason - I'm On My Way (Official Audio)](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
 - [Steve Mason feat. Javed Bashir - No More (Official Video)](https://www.youtube.com/watch?v=PpUFg8odzPw)
 
 

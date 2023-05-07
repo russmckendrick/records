@@ -14,7 +14,7 @@ genres: ["Pop", "Classical"]
 styles: ["Indie Pop", "Neo-Classical"]
 ---
 
-![Waves by AVA](waves-13867076.jpg)
+{{< img src="waves-13867076.jpg" title="Waves by AVA" >}}
 
 <!-- section break -->
 

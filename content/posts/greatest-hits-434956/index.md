@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Greatest Hits by Steely Dan](greatest-hits-434956.jpg)
+{{< img src="greatest-hits-434956.jpg" title="Greatest Hits by Steely Dan" >}}
 
 <!-- section break -->
 
@@ -43,16 +43,16 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978
-{{< youtube id="jEB9pAG0i84" title="Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978" >}}<br>
+### S̲te̲e̲ly D̲a̲n - 1974 Greatest Hits - P̲re̲tze̲l L̲o̲gi̲c (Full Album)
+{{< youtube id="OJ8ZUVP4YD8" title="S̲te̲e̲ly D̲a̲n - 1974 Greatest Hits - P̲re̲tze̲l L̲o̲gi̲c (Full Album)" >}}<br>
 
 ### More Videos
 
 - [RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan](https://www.youtube.com/watch?v=UfZWp-hGCdA)
 - [Do It Again](https://www.youtube.com/watch?v=jmdiKePVUy8)
 - [Steely Dan 《Do It Again》 ( original studio sound version)](https://www.youtube.com/watch?v=tgYuLsudaJQ)
-- [S̲te̲e̲ly D̲a̲n - 1974 Greatest Hits - P̲re̲tze̲l L̲o̲gi̲c (Full Album)](https://www.youtube.com/watch?v=OJ8ZUVP4YD8)
 - [Doctor Wu](https://www.youtube.com/watch?v=ImtdntJQfSs)
+- [Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
 
 
 ## Release Information

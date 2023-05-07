@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Post-Metal"]
 ---
 
-![Loss by Pijn](loss-12713966.jpg)
+{{< img src="loss-12713966.jpg" title="Loss by Pijn" >}}
 
 <!-- section break -->
 

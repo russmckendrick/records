@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Signals  by Rush](signals-26922068.jpg)
+{{< img src="signals-26922068.jpg" title="Signals  by Rush" >}}
 
 <!-- section break -->
 

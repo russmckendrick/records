@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Drive by Anneke Van Giersbergen](drive-8685067.jpg)
+{{< img src="drive-8685067.jpg" title="Drive by Anneke Van Giersbergen" >}}
 
 <!-- section break -->
 

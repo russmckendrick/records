@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-![City Burials by Katatonia](city-burials-15179711.jpg)
+{{< img src="city-burials-15179711.jpg" title="City Burials by Katatonia" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Katatonia - Lacquer (from City Burials)
-{{< youtube id="zGvZhRFBQ_I" title="Katatonia - Lacquer (from City Burials)" >}}<br>
+### Katatonia - The Winter of our Passing (from City Burials)
+{{< youtube id="mnWkTAB-ceg" title="Katatonia - The Winter of our Passing (from City Burials)" >}}<br>
 
 ### More Videos
 
 - [Katatonia - The Winter of our Passing OFFICIAL VIDEO](https://www.youtube.com/watch?v=P2H4tCc9E3U)
 - [Katatonia - Behind The Blood (from City Burials)](https://www.youtube.com/watch?v=nQaN2elJ-dQ)
-- [Katatonia - The Winter of our Passing (from City Burials)](https://www.youtube.com/watch?v=mnWkTAB-ceg)
+- [Katatonia - Lacquer (from City Burials)](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
 
 
 ## Release Information

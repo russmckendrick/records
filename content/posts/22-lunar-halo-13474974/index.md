@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ---
 
-![22° Lunar Halo by Sigur Rós](22-lunar-halo-13474974.jpg)
+{{< img src="22-lunar-halo-13474974.jpg" title="22° Lunar Halo by Sigur Rós" >}}
 
 <!-- section break -->
 
@@ -30,12 +30,12 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 
 
 ## Videos
-### They Glow in Light, Like Coloured Glass
-{{< youtube id="EfwkIam5ygs" title="They Glow in Light, Like Coloured Glass" >}}<br>
+### With Arms and Legs Moving, The Tell Tales
+{{< youtube id="MsnqxGAGXb4" title="With Arms and Legs Moving, The Tell Tales" >}}<br>
 
 ### More Videos
 
-- [With Arms and Legs Moving, The Tell Tales](https://www.youtube.com/watch?v=MsnqxGAGXb4)
+- [They Glow in Light, Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
 
 
 ## Release Information

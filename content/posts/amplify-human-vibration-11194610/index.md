@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Amplify Human Vibration by Nordic Giants](amplify-human-vibration-11194610.jpg)
+{{< img src="amplify-human-vibration-11194610.jpg" title="Amplify Human Vibration by Nordic Giants" >}}
 
 <!-- section break -->
 

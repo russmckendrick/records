@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Pictures At An Exhibition by Emerson, Lake & Palmer](pictures-at-an-exhibition-841694.jpg)
+{{< img src="pictures-at-an-exhibition-841694.jpg" title="Pictures At An Exhibition by Emerson, Lake & Palmer" >}}
 
 <!-- section break -->
 

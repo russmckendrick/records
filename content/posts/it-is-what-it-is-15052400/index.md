@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 ---
 
-![It Is What It Is by Thundercat](it-is-what-it-is-15052400.jpg)
+{{< img src="it-is-what-it-is-15052400.jpg" title="It Is What It Is by Thundercat" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 
 
 ## Videos
-### Miguel's Happy Dance
-{{< youtube id="_D_DGhBR7NA" title="Miguel's Happy Dance" >}}<br>
+### Thundercat - 'Dragonball Durag' (Official Video)
+{{< youtube id="ormQQG2UhtQ" title="Thundercat - 'Dragonball Durag' (Official Video)" >}}<br>
 
 ### More Videos
 
@@ -59,9 +59,9 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 - [I Love Louis Cole](https://www.youtube.com/watch?v=YHTufn3VWq0)
 - [Unrequited Love](https://www.youtube.com/watch?v=eRo_FFrliAs)
 - [Existential Dread](https://www.youtube.com/watch?v=f728T_wocZ8)
+- [Miguel's Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
 - [It Is What It Is](https://www.youtube.com/watch?v=lqDs_quhy0I)
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
-- [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
 
 ## Release Information

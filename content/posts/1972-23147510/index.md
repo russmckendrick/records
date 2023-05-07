@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 ---
 
-![1972 by The Black Crowes](1972-23147510.jpg)
+{{< img src="1972-23147510.jpg" title="1972 by The Black Crowes" >}}
 
 <!-- section break -->
 
@@ -34,17 +34,17 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 
 
 ## Videos
-### The Black Crowes - 1972 (Full Album) 2022
-{{< youtube id="25_gvlilQpo" title="The Black Crowes - 1972 (Full Album) 2022" >}}<br>
+### Black Crowes - Moonage Daydream
+{{< youtube id="lKu1T6ccwFI" title="Black Crowes - Moonage Daydream" >}}<br>
 
 ### More Videos
 
+- [The Black Crowes - 1972 (Full Album) 2022](https://www.youtube.com/watch?v=25_gvlilQpo)
 - [The Black Crowes - '1972' Studio Session [Amazon Original]](https://www.youtube.com/watch?v=XMIyT4PsnSk)
 - [The Black Crowes – Papa Was A Rolling Stone](https://www.youtube.com/watch?v=rwOYwWPyrxk)
 - [THE BLACK CROWES new EP an Amazon Original EP titled 1972 + studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
 - [Black Crowes - You Wear It Well](https://www.youtube.com/watch?v=qNbe-OIomVs)
 - [Black Crowes - Papa Was A Rolling Stone](https://www.youtube.com/watch?v=frN4RjtwV0Y)
-- [Black Crowes - Moonage Daydream](https://www.youtube.com/watch?v=lKu1T6ccwFI)
 
 
 ## Release Information

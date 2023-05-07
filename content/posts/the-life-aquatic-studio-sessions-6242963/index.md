@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Acoustic", "MPB", "Soundtrack"]
 ---
 
-![The Life Aquatic Studio Sessions by Seu Jorge](the-life-aquatic-studio-sessions-6242963.jpg)
+{{< img src="the-life-aquatic-studio-sessions-6242963.jpg" title="The Life Aquatic Studio Sessions by Seu Jorge" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 
 
 ## Videos
-### Quicksand
-{{< youtube id="2P5GExUP_FM" title="Quicksand" >}}<br>
+### Team Zissou
+{{< youtube id="SRq7izFVDO4" title="Team Zissou" >}}<br>
 
 ### More Videos
 
@@ -59,7 +59,7 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 - [Five Years](https://www.youtube.com/watch?v=bHUZMCg0px8)
 - [Queen Bitch](https://www.youtube.com/watch?v=pXvMddhYGew)
 - [When I Live My Dream](https://www.youtube.com/watch?v=YA8G9O6V6Ws)
-- [Team Zissou](https://www.youtube.com/watch?v=SRq7izFVDO4)
+- [Quicksand](https://www.youtube.com/watch?v=2P5GExUP_FM)
 
 
 ## Release Information

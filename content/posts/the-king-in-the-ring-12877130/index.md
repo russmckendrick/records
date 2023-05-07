@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["Rock & Roll", "Ballad"]
 ---
 
-![The King In The Ring by Elvis Presley](the-king-in-the-ring-12877130.jpg)
+{{< img src="the-king-in-the-ring-12877130.jpg" title="The King In The Ring by Elvis Presley" >}}
 
 <!-- section break -->
 

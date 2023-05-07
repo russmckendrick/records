@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 ---
 
-![The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers](the-blues-brothers-original-soundtrack-recording-4625231.jpg)
+{{< img src="the-blues-brothers-original-soundtrack-recording-4625231.jpg" title="The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 
 
 ## Videos
-### The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)
-{{< youtube id="mm0mmkAYwPc" title="The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)" >}}<br>
+### The Blues Brothers - The Old Landmark (feat. James Brown) (Official Audio)
+{{< youtube id="CmO7LQMVlaI" title="The Blues Brothers - The Old Landmark (feat. James Brown) (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -45,8 +45,8 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 - [The Blues Brothers - She Caught the Katy (Official Audio)](https://www.youtube.com/watch?v=o5xexv-dMrM)
 - [The Blues Brothers - Peter Gunn Theme (Official Audio)](https://www.youtube.com/watch?v=9DgFOsEs-kE)
 - [The Blues Brothers - Gimme Some Lovin' (Official Audio)](https://www.youtube.com/watch?v=-aqZmPInK3o)
+- [The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)](https://www.youtube.com/watch?v=mm0mmkAYwPc)
 - [The Blues Brothers - Everybody Needs Somebody to Love (Official Audio)](https://www.youtube.com/watch?v=wDvIGZ-_au4)
-- [The Blues Brothers - The Old Landmark (feat. James Brown) (Official Audio)](https://www.youtube.com/watch?v=CmO7LQMVlaI)
 - [The Blues Brothers & Aretha Franklin - Think (Official Audio)](https://www.youtube.com/watch?v=tc36-Li5eww)
 - [The Blues Brothers - Theme from Rawhide (Official Audio)](https://www.youtube.com/watch?v=rtP7yH7l87w)
 - [The Blues Brothers - Minnie the Moocher (Official Audio)](https://www.youtube.com/watch?v=NJqh_KX5x3o)

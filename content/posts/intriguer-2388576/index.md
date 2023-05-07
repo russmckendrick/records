@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Intriguer by Crowded House](intriguer-2388576.jpg)
+{{< img src="intriguer-2388576.jpg" title="Intriguer by Crowded House" >}}
 
 <!-- section break -->
 

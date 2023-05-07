@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Changes by Charles Bradley](changes-8255546.jpg)
+{{< img src="changes-8255546.jpg" title="Changes by Charles Bradley" >}}
 
 <!-- section break -->
 

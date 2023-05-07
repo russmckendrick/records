@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
 
-![Temple Of The Dog by Temple Of The Dog](temple-of-the-dog-5098793.jpg)
+{{< img src="temple-of-the-dog-5098793.jpg" title="Temple Of The Dog by Temple Of The Dog" >}}
 
 <!-- section break -->
 

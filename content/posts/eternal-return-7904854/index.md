@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Eternal Return by Sarah Blasko](eternal-return-7904854.jpg)
+{{< img src="eternal-return-7904854.jpg" title="Eternal Return by Sarah Blasko" >}}
 
 <!-- section break -->
 
@@ -38,18 +38,18 @@ styles: []
 
 
 ## Videos
-### Sarah Blasko - Luxurious
-{{< youtube id="Tpidd8TuxRw" title="Sarah Blasko - Luxurious" >}}<br>
+### Sarah Blasko - I'd Be Lost (live on triple j)
+{{< youtube id="IX88hAbW_2w" title="Sarah Blasko - I'd Be Lost (live on triple j)" >}}<br>
 
 ### More Videos
 
 - [Sarah Blasko: Eternal Return](https://www.youtube.com/watch?v=QKEXADRzV3A)
 - [Sarah Blasko - Only One](https://www.youtube.com/watch?v=VOQoOXYG8jo)
+- [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=Tpidd8TuxRw)
 - ['Only One' by Sarah Blasko taken from new album 'Eternal Return' (GRAPHIC 2015)](https://www.youtube.com/watch?v=GODI9aBPHyg)
 - [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=bDPLyl10OzU)
 - [Sarah Blasko - I'd Be Lost](https://www.youtube.com/watch?v=tFdKcD03R0k)
 - [Sarah Blasko - ASK:REPLY](https://www.youtube.com/watch?v=Kh9hF3pMwRE)
-- [Sarah Blasko - I'd Be Lost (live on triple j)](https://www.youtube.com/watch?v=IX88hAbW_2w)
 - [#796 Sarah Blasko - I'd Be Lost](https://www.youtube.com/watch?v=RKofArVQ0y0)
 
 

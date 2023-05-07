@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Millionaires by James](millionaires-11277658.jpg)
+{{< img src="millionaires-11277658.jpg" title="Millionaires by James" >}}
 
 <!-- section break -->
 

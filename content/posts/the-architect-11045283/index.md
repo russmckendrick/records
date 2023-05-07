@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Indie Pop", "Synth-pop"]
 ---
 
-![The Architect by Jane Weaver](the-architect-11045283.jpg)
+{{< img src="the-architect-11045283.jpg" title="The Architect by Jane Weaver" >}}
 
 <!-- section break -->
 

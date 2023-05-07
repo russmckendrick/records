@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Pop Rock", "Glam", "Soul"]
 ---
 
-![Who Can I Be Now? [ 1974–1976 ] by David Bowie](who-can-i-be-now-19741976-9088273.jpg)
+{{< img src="who-can-i-be-now-19741976-9088273.jpg" title="Who Can I Be Now? [ 1974–1976 ] by David Bowie" >}}
 
 <!-- section break -->
 

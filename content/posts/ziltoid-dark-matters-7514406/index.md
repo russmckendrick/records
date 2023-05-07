@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Ziltoid (Dark Matters) by Devin Townsend Project](ziltoid-dark-matters-7514406.jpg)
+{{< img src="ziltoid-dark-matters-7514406.jpg" title="Ziltoid (Dark Matters) by Devin Townsend Project" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Goth Rock"]
 ---
 
-![Floodland by The Sisters Of Mercy](floodland-7789057.jpg)
+{{< img src="floodland-7789057.jpg" title="Floodland by The Sisters Of Mercy" >}}
 
 <!-- section break -->
 
@@ -46,16 +46,16 @@ styles: ["Goth Rock"]
 
 
 ## Videos
-### Driven Like the Snow (Vinyl Version) (New Version for Digital)
-{{< youtube id="qqqvQ7GI058" title="Driven Like the Snow (Vinyl Version) (New Version for Digital)" >}}<br>
+### Torch (New Version for Digital)
+{{< youtube id="8rUXffWx2mE" title="Torch (New Version for Digital)" >}}<br>
 
 ### More Videos
 
 - [Flood I (New Version for Digital)](https://www.youtube.com/watch?v=Pekj1Y4raSM)
 - [1959 (New Version for Digital)](https://www.youtube.com/watch?v=EWOQWsvQB-k)
 - [Flood II (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=AMbsclRxsjk)
+- [Driven Like the Snow (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=qqqvQ7GI058)
 - [Never Land (A Fragment) (New Version for Digital)](https://www.youtube.com/watch?v=EjVZBS9C5Gw)
-- [Torch (New Version for Digital)](https://www.youtube.com/watch?v=8rUXffWx2mE)
 - [Colours (New Version for Digital)](https://www.youtube.com/watch?v=PpVHw2ehZa0)
 - [Untitled (New Version for Digital)](https://www.youtube.com/watch?v=lQ87rfkvAes)
 - [Sandstorm (New Version for Digital)](https://www.youtube.com/watch?v=XckmFiSXi9Y)

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Folk Rock"]
 ---
 
-![Tea For The Tillerman² by Yusuf Islam](tea-for-the-tillerman-15934691.jpg)
+{{< img src="tea-for-the-tillerman-15934691.jpg" title="Tea For The Tillerman² by Yusuf Islam" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Pop Rock", "Folk Rock"]
 
 
 ## Videos
-### Yusuf / Cat Stevens - Where Do The Children Play?
-{{< youtube id="nBCJhNiKhFE" title="Yusuf / Cat Stevens - Where Do The Children Play?" >}}<br>
+### Miles From Nowhere
+{{< youtube id="Ru2j85VV9GY" title="Miles From Nowhere" >}}<br>
 
 ### More Videos
 
+- [Yusuf / Cat Stevens - Where Do The Children Play?](https://www.youtube.com/watch?v=nBCJhNiKhFE)
 - [Hard Headed Woman](https://www.youtube.com/watch?v=0sZrFf-sgKs)
 - [Wild World](https://www.youtube.com/watch?v=kLv2csYOMdM)
 - [Sad Lisa](https://www.youtube.com/watch?v=ByCit09B2Ag)
 - [Into White](https://www.youtube.com/watch?v=bGVH5EizX0Y)
-- [Miles From Nowhere](https://www.youtube.com/watch?v=Ru2j85VV9GY)
 - [But I Might Die Tonight](https://www.youtube.com/watch?v=N_lge3bASow)
 - [Longer Boats](https://www.youtube.com/watch?v=gz-Wn5hlP9s)
 - [Tea For The Tillerman](https://www.youtube.com/watch?v=ZC3tOgCd_ps)

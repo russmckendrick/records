@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Downtempo", "Trip Hop"]
 ---
 
-![Shout Out! To Freedom... by Nightmares On Wax](shout-out-to-freedom-20771251.jpg)
+{{< img src="shout-out-to-freedom-20771251.jpg" title="Shout Out! To Freedom... by Nightmares On Wax" >}}
 
 <!-- section break -->
 

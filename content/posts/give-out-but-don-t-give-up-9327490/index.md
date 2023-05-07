@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Give Out But Don't Give Up by Primal Scream](give-out-but-don-t-give-up-9327490.jpg)
+{{< img src="give-out-but-don-t-give-up-9327490.jpg" title="Give Out But Don't Give Up by Primal Scream" >}}
 
 <!-- section break -->
 

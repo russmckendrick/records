@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![A Collection Of Great Dance Songs by Pink Floyd](a-collection-of-great-dance-songs-11065998.jpg)
+{{< img src="a-collection-of-great-dance-songs-11065998.jpg" title="A Collection Of Great Dance Songs by Pink Floyd" >}}
 
 <!-- section break -->
 

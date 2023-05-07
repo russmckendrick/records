@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Prog Rock", "Hard Rock"]
 ---
 
-![Rush In Rio by Rush](rush-in-rio-13087653.jpg)
+{{< img src="rush-in-rio-13087653.jpg" title="Rush In Rio by Rush" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Classical"]
 styles: []
 ---
 
-![The Wall For Chamber Orchestra by Pink Floyd](the-wall-for-chamber-orchestra-13569554.jpg)
+{{< img src="the-wall-for-chamber-orchestra-13569554.jpg" title="The Wall For Chamber Orchestra by Pink Floyd" >}}
 
 <!-- section break -->
 

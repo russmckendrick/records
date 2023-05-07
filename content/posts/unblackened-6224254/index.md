@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-![Unblackened by Black Label Society](unblackened-6224254.jpg)
+{{< img src="unblackened-6224254.jpg" title="Unblackened by Black Label Society" >}}
 
 <!-- section break -->
 
@@ -51,8 +51,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Yesterday, Today, Tomorrow- Black Label Society (Unblackened)
-{{< youtube id="-jtP4SYwoPs" title="Yesterday, Today, Tomorrow- Black Label Society (Unblackened)" >}}<br>
+### Throwin' it all Away-Black Label Society (Unblackened)
+{{< youtube id="55ofHYBDLNQ" title="Throwin' it all Away-Black Label Society (Unblackened)" >}}<br>
 
 ### More Videos
 
@@ -61,7 +61,7 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [In This River- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
 - [Losin' Your Mind- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=8WOh9igfGv0)
 - [Lovin' Woman- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=EIGiWQy1A2w)
-- [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
+- [Yesterday, Today, Tomorrow- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=-jtP4SYwoPs)
 - [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
 
 

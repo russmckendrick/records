@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Autofiction by Suede](autofiction-24531455.jpg)
+{{< img src="autofiction-24531455.jpg" title="Autofiction by Suede" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Suede - The Only Way I Can Love You (Official Audio)
-{{< youtube id="T8ZvxPQX3Z0" title="Suede - The Only Way I Can Love You (Official Audio)" >}}<br>
+### Suede - She Still Leads Me (Official Audio)
+{{< youtube id="KHJd1Z1G3M4" title="Suede - She Still Leads Me (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [🔴Suede – Complete A Side [ Autofiction Special Edition, Grey LP ]🔴](https://www.youtube.com/watch?v=vFzylluzzws)
-- [Suede - She Still Leads Me (Official Audio)](https://www.youtube.com/watch?v=KHJd1Z1G3M4)
 - [🔴Suede – Complete B Side [ Autofiction Special Edition, Grey LP ]🔴](https://www.youtube.com/watch?v=lZNnm4pnzJs)
 - [Suede - What am I Without You? (Official Audio)](https://www.youtube.com/watch?v=PZqygdrSKsQ)
 - [Suede - 15 Again (Official Audio)](https://www.youtube.com/watch?v=syVJxcYwcUE)
+- [Suede - The Only Way I Can Love You (Official Audio)](https://www.youtube.com/watch?v=T8ZvxPQX3Z0)
 - [Suede - Black Ice (Official Audio)](https://www.youtube.com/watch?v=HRLD56ZdmkY)
 - [Suede - Personality Disorder (Official Audio)](https://www.youtube.com/watch?v=b1819WD12IA)
 

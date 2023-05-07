@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Space Rock"]
 ---
 
-![Shimmer Into Nature by Ed Wynne](shimmer-into-nature-13112063.jpg)
+{{< img src="shimmer-into-nature-13112063.jpg" title="Shimmer Into Nature by Ed Wynne" >}}
 
 <!-- section break -->
 
@@ -33,14 +33,14 @@ styles: ["Space Rock"]
 
 
 ## Videos
-### Oddplonk
-{{< youtube id="HHwC_sipmNU" title="Oddplonk" >}}<br>
+### Shim
+{{< youtube id="2nfs4BFva6k" title="Shim" >}}<br>
 
 ### More Videos
 
 - [Glass Staircase](https://www.youtube.com/watch?v=9v0FLIFgrMA)
 - [Travel Dust](https://www.youtube.com/watch?v=375Wxy5MvoA)
-- [Shim](https://www.youtube.com/watch?v=2nfs4BFva6k)
+- [Oddplonk](https://www.youtube.com/watch?v=HHwC_sipmNU)
 - [Wherble](https://www.youtube.com/watch?v=We4U6kxxP2E)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Without A Sound by Dinosaur Jr.](without-a-sound-14176579.jpg)
+{{< img src="without-a-sound-14176579.jpg" title="Without A Sound by Dinosaur Jr." >}}
 
 <!-- section break -->
 
@@ -46,16 +46,16 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Grab It
-{{< youtube id="5QAUFL091AY" title="Grab It" >}}<br>
+### Over Your Shoulder
+{{< youtube id="2WNXoYaz5eI" title="Over Your Shoulder" >}}<br>
 
 ### More Videos
 
 - [Dinosaur Jr - I Don't Think So](https://www.youtube.com/watch?v=9WAgITmqLew)
 - [Dinosaur Jr - Feel The Pain](https://www.youtube.com/watch?v=JXkN3nJyWEA)
-- [Over Your Shoulder](https://www.youtube.com/watch?v=2WNXoYaz5eI)
 - [Outta Hand](https://www.youtube.com/watch?v=yuQc_yNG31Y)
 - [Mind Glow](https://www.youtube.com/watch?v=D2hRgQmAdZ8)
+- [Grab It](https://www.youtube.com/watch?v=5QAUFL091AY)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![AT by Andy White](at-26677889.jpg)
+{{< img src="at-26677889.jpg" title="AT by Andy White" >}}
 
 <!-- section break -->
 

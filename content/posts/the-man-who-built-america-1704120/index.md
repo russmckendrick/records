@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ---
 
-![The Man Who Built America by Horslips](the-man-who-built-america-1704120.jpg)
+{{< img src="the-man-who-built-america-1704120.jpg" title="The Man Who Built America by Horslips" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 
 
 ## Videos
-### Long Time Ago
-{{< youtube id="hrRVg8aIazg" title="Long Time Ago" >}}<br>
+### Horslips...The Man Who Built America...Full Album
+{{< youtube id="qQ_ZVFgSbaw" title="Horslips...The Man Who Built America...Full Album" >}}<br>
 
 ### More Videos
 
-- [Horslips...The Man Who Built America...Full Album](https://www.youtube.com/watch?v=qQ_ZVFgSbaw)
+- [Long Time Ago](https://www.youtube.com/watch?v=hrRVg8aIazg)
 - [Horslips- Man who built America](https://www.youtube.com/watch?v=NynajakSbV0)
 - [Loneliness](https://www.youtube.com/watch?v=E1i3mWHSsyk)
 

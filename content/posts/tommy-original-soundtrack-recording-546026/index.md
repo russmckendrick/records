@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ---
 
-![Tommy (Original Soundtrack Recording) by Various](tommy-original-soundtrack-recording-546026.jpg)
+{{< img src="tommy-original-soundtrack-recording-546026.jpg" title="Tommy (Original Soundtrack Recording) by Various" >}}
 
 <!-- section break -->
 

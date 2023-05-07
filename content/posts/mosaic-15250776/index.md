@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Mosaic by Lesoir](mosaic-15250776.jpg)
+{{< img src="mosaic-15250776.jpg" title="Mosaic by Lesoir" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Measure Of Things
-{{< youtube id="Tafxxhk42q8" title="Measure Of Things" >}}<br>
+### Mosaic
+{{< youtube id="cZSZcsb1hWI" title="Mosaic" >}}<br>
 
 ### More Videos
 
-- [Mosaic](https://www.youtube.com/watch?v=cZSZcsb1hWI)
 - [Dystopia](https://www.youtube.com/watch?v=Re6zf28IqtE)
 - [Two Faces](https://www.youtube.com/watch?v=_RMjT1nJjXQ)
 - [Is This It](https://www.youtube.com/watch?v=yj1qIe_u9jY)
 - [Lesoir - Mosaic](https://www.youtube.com/watch?v=ohbUY6f2csY)
+- [Measure Of Things](https://www.youtube.com/watch?v=Tafxxhk42q8)
 - [It's Never Quiet](https://www.youtube.com/watch?v=vNVwJg3loXc)
 
 

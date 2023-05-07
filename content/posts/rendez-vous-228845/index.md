@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Experimental", "Ambient"]
 ---
 
-![Rendez-Vous by Jean-Michel Jarre](rendez-vous-228845.jpg)
+{{< img src="rendez-vous-228845.jpg" title="Rendez-Vous by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -34,16 +34,16 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 
 
 ## Videos
-### Jean Michel Jarre - Rendez Vous
-{{< youtube id="qcf3eGVPlZE" title="Jean Michel Jarre - Rendez Vous" >}}<br>
+### Rendez-vous, Fifth Rendez-Vous
+{{< youtube id="fvXl8s4f518" title="Rendez-vous, Fifth Rendez-Vous" >}}<br>
 
 ### More Videos
 
+- [Jean Michel Jarre - Rendez Vous](https://www.youtube.com/watch?v=qcf3eGVPlZE)
 - [Jean Michel Jarre - First Rendez - Vous](https://www.youtube.com/watch?v=iFcmxcO7AFg)
 - [Rendez-vous, Second Rendez-Vous](https://www.youtube.com/watch?v=6ZxBuqStdTA)
 - [Jean Michel Jarre - Third Rendez - Vous](https://www.youtube.com/watch?v=NbCk8MWFnnM)
 - [Jean Michel Jarre - Fourth Rendez - Vous](https://www.youtube.com/watch?v=hKirGBRLQik)
-- [Rendez-vous, Fifth Rendez-Vous](https://www.youtube.com/watch?v=fvXl8s4f518)
 - [Last Rendez Vous (Remastered)](https://www.youtube.com/watch?v=kJDzaG1AJco)
 - [Jean Michel Jarre - Rendez-vous](https://www.youtube.com/watch?v=URaWRK7vqDE)
 

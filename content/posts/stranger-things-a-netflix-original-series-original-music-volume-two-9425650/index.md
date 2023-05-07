@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-![Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon](stranger-things-a-netflix-original-series-original-music-volume-two-9425650.jpg)
+{{< img src="stranger-things-a-netflix-original-series-original-music-volume-two-9425650.jpg" title="Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon" >}}
 
 <!-- section break -->
 

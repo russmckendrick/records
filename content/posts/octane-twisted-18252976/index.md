@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
-![Octane Twisted by Porcupine Tree](octane-twisted-18252976.jpg)
+{{< img src="octane-twisted-18252976.jpg" title="Octane Twisted by Porcupine Tree" >}}
 
 <!-- section break -->
 

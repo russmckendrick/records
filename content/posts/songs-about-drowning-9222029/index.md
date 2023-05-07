@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ---
 
-![Songs About Drowning by Thought Forms](songs-about-drowning-9222029.jpg)
+{{< img src="songs-about-drowning-9222029.jpg" title="Songs About Drowning by Thought Forms" >}}
 
 <!-- section break -->
 

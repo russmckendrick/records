@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![101 by Depeche Mode](101-9191026.jpg)
+{{< img src="101-9191026.jpg" title="101 by Depeche Mode" >}}
 
 <!-- section break -->
 

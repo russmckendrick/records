@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Binaural by Pearl Jam](binaural-11111324.jpg)
+{{< img src="binaural-11111324.jpg" title="Binaural by Pearl Jam" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Sleight of Hand
-{{< youtube id="Gb0lzdMGc6Y" title="Sleight of Hand" >}}<br>
+### Nothing As It Seems
+{{< youtube id="A2QLjPU7Opo" title="Nothing As It Seems" >}}<br>
 
 ### More Videos
 
-- [Nothing As It Seems](https://www.youtube.com/watch?v=A2QLjPU7Opo)
 - [Light Years](https://www.youtube.com/watch?v=qW_x8gujuYs)
+- [Sleight of Hand](https://www.youtube.com/watch?v=Gb0lzdMGc6Y)
 
 
 ## Release Information

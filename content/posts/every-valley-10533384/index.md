@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "Krautrock"]
 ---
 
-![Every Valley by Public Service Broadcasting](every-valley-10533384.jpg)
+{{< img src="every-valley-10533384.jpg" title="Every Valley by Public Service Broadcasting" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Alternative Rock", "Krautrock"]
 
 
 ## Videos
-### Every Valley [Album Trailer]
-{{< youtube id="kFGsdmcF230" title="Every Valley [Album Trailer]" >}}<br>
+### Public Service Broadcasting - They Gave Me A Lamp
+{{< youtube id="FWvK7Uffmts" title="Public Service Broadcasting - They Gave Me A Lamp" >}}<br>
 
 ### More Videos
 
+- [Every Valley [Album Trailer]](https://www.youtube.com/watch?v=kFGsdmcF230)
 - [Public Service Broadcasting - Progress](https://www.youtube.com/watch?v=x1ZbdGBAqZQ)
-- [Public Service Broadcasting - They Gave Me A Lamp](https://www.youtube.com/watch?v=FWvK7Uffmts)
 
 
 ## Release Information

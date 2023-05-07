@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Varshons II by The Lemonheads](varshons-ii-13179207.jpg)
+{{< img src="varshons-ii-13179207.jpg" title="Varshons II by The Lemonheads" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Lemonheads – Can’t Forget
-{{< youtube id="zp-Yux6P7VU" title="The Lemonheads – Can’t Forget" >}}<br>
+### Unfamiliar
+{{< youtube id="6-KM4GPXCOM" title="Unfamiliar" >}}<br>
 
 ### More Videos
 
+- [The Lemonheads – Can’t Forget](https://www.youtube.com/watch?v=zp-Yux6P7VU)
 - [Old Man Blank](https://www.youtube.com/watch?v=h8EFKNJg0zo)
-- [Unfamiliar](https://www.youtube.com/watch?v=6-KM4GPXCOM)
 
 
 ## Release Information

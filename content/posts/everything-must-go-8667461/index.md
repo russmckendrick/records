@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-![Everything Must Go by Manic Street Preachers](everything-must-go-8667461.jpg)
+{{< img src="everything-must-go-8667461.jpg" title="Everything Must Go by Manic Street Preachers" >}}
 
 <!-- section break -->
 

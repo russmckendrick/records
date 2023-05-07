@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Joyride by Roxette](joyride-21128191.jpg)
+{{< img src="joyride-21128191.jpg" title="Joyride by Roxette" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Roxette - Church Of Your Heart
-{{< youtube id="25-FlwARl7o" title="Roxette - Church Of Your Heart" >}}<br>
+### Roxette - The Big L
+{{< youtube id="P3BziGZOMcE" title="Roxette - The Big L" >}}<br>
 
 ### More Videos
 
 - [Roxette - Joyride (Official Video)](https://www.youtube.com/watch?v=xCorJG9mubk)
 - [Roxette - Fading Like A Flower](https://www.youtube.com/watch?v=8fGLiIvKKys)
-- [Roxette - The Big L](https://www.youtube.com/watch?v=P3BziGZOMcE)
 - [Roxette - Spending My Time](https://www.youtube.com/watch?v=eG0IYV6G0I0)
+- [Roxette - Church Of Your Heart](https://www.youtube.com/watch?v=25-FlwARl7o)
 - [Roxette - (Do You Get) Excited?](https://www.youtube.com/watch?v=5U_P-HR8J5w)
 - [Joyride](https://www.youtube.com/watch?v=EHjve1ZpFxg)
 - [Hotblooded](https://www.youtube.com/watch?v=lJUzQ5FeSMg)

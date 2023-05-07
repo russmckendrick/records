@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-![Images And Words by Dream Theater](images-and-words-4708303.jpg)
+{{< img src="images-and-words-4708303.jpg" title="Images And Words by Dream Theater" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Dream Theater - Pull Me Under [OFFICIAL VIDEO]
-{{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}<br>
+### Dream Theater - Another Day [OFFICIAL VIDEO]
+{{< youtube id="LYtiDCXLAcQ" title="Dream Theater - Another Day [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Dream Theater - Another Day [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=LYtiDCXLAcQ)
+- [Dream Theater - Pull Me Under [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=mipc-JxrhRk)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ---
 
-![Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones](scratched-unreleased-rare-tracks-remixes-22978766.jpg)
+{{< img src="scratched-unreleased-rare-tracks-remixes-22978766.jpg" title="Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 
 
 ## Videos
-### Jesus Jones - The Right Decision (Moody Reconstruction Mix)  1993
-{{< youtube id="xk9QKFtraY8" title="Jesus Jones - The Right Decision (Moody Reconstruction Mix)  1993" >}}<br>
+### Who? Where? Why? (12 Foot Mix)
+{{< youtube id="YmbqoEfZp2k" title="Who? Where? Why? (12 Foot Mix)" >}}<br>
 
 ### More Videos
 
@@ -65,8 +65,8 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 - [Jesus Jones - Real Real Real (Ben Chapman ''Spaced'' 12'' Mix)](https://www.youtube.com/watch?v=omWUFO3vPj0)
 - [Real Real Real (Rhythm 3) (Ben Chapman 'Spaced' Mix)](https://www.youtube.com/watch?v=9YBTyE0lbfk)
 - [International Bright Young Thing (Phil Harding 12'' Mix)](https://www.youtube.com/watch?v=t-6XpgJIQks)
-- [Who? Where? Why? (12 Foot Mix)](https://www.youtube.com/watch?v=YmbqoEfZp2k)
 - [Kill Today](https://www.youtube.com/watch?v=gXg_Bc8hymU)
+- [Jesus Jones - The Right Decision (Moody Reconstruction Mix)  1993](https://www.youtube.com/watch?v=xk9QKFtraY8)
 - [Starting From Scratch](https://www.youtube.com/watch?v=NiK_Su15BEo)
 - [Jesus Jones - Zeroes & Ones [The Prodigy Versus Jesus Jones Mix]](https://www.youtube.com/watch?v=24_9eyOoslg)
 - [Jesus Jones - International Bright Young Thing (Phil Harding 12 Mix)](https://www.youtube.com/watch?v=FkCI_DO4l1o)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-![Still Crazy After All These Years by Paul Simon](still-crazy-after-all-these-years-10764987.jpg)
+{{< img src="still-crazy-after-all-these-years-10764987.jpg" title="Still Crazy After All These Years by Paul Simon" >}}
 
 <!-- section break -->
 

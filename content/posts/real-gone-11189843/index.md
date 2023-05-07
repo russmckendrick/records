@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 ---
 
-![Real Gone by Tom Waits](real-gone-11189843.jpg)
+{{< img src="real-gone-11189843.jpg" title="Real Gone by Tom Waits" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 
 
 ## Videos
-### Tom Waits - Metropolitan Glide
-{{< youtube id="TSfyNuFIXRc" title="Tom Waits - Metropolitan Glide" >}}<br>
+### Tom Waits - Day After Tomorrow
+{{< youtube id="Q_mLxEw6XGE" title="Tom Waits - Day After Tomorrow" >}}<br>
 
 ### More Videos
 
@@ -55,13 +55,13 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 - [Tom Waits - Shake It](https://www.youtube.com/watch?v=kyGToqec2aQ)
 - [Tom Waits - Don't Go Into That Barn](https://www.youtube.com/watch?v=aWgwILGLCAs)
 - [Tom Waits - How's It Gonna End](https://www.youtube.com/watch?v=ol-jeTkop8g)
+- [Tom Waits - Metropolitan Glide](https://www.youtube.com/watch?v=TSfyNuFIXRc)
 - [Tom Waits - Dead and Lovely](https://www.youtube.com/watch?v=_h7PwmqnaC0)
 - [Tom Waits - Circus](https://www.youtube.com/watch?v=D9SyssbAzD0)
 - [Tom Waits - Trampled Rose](https://www.youtube.com/watch?v=u6dx2TCy09I)
 - [Tom Waits - Green Grass](https://www.youtube.com/watch?v=rXq1PBNuUt0)
 - [Tom Waits   Baby Gonna Leave Me](https://www.youtube.com/watch?v=Rqv52GSJLJY)
 - [Tom Waits - Clang Boom Steam](https://www.youtube.com/watch?v=i6UoXzx1vcQ)
-- [Tom Waits - Day After Tomorrow](https://www.youtube.com/watch?v=Q_mLxEw6XGE)
 - [Tom Waits - Dead And Lovely](https://www.youtube.com/watch?v=XxCZC5dF8D8)
 - [Sins Of My Father - Tom Waits](https://www.youtube.com/watch?v=zTDNx_iaM6Q)
 - [Tom Waits - Make It Rain](https://www.youtube.com/watch?v=qZS-B1Afc1c)

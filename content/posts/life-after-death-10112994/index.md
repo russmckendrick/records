@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-![Life After Death by Notorious B.I.G.](life-after-death-10112994.jpg)
+{{< img src="life-after-death-10112994.jpg" title="Life After Death by Notorious B.I.G." >}}
 
 <!-- section break -->
 

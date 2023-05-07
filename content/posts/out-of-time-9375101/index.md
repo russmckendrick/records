@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Out Of Time by R.E.M.](out-of-time-9375101.jpg)
+{{< img src="out-of-time-9375101.jpg" title="Out Of Time by R.E.M." >}}
 
 <!-- section break -->
 

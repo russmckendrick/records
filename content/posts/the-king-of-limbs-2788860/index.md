@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Downtempo", "Experimental"]
 ---
 
-![The King Of Limbs by Radiohead](the-king-of-limbs-2788860.jpg)
+{{< img src="the-king-of-limbs-2788860.jpg" title="The King Of Limbs by Radiohead" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Set Yourself On Fire by Stars](set-yourself-on-fire-4062521.jpg)
+{{< img src="set-yourself-on-fire-4062521.jpg" title="Set Yourself On Fire by Stars" >}}
 
 <!-- section break -->
 

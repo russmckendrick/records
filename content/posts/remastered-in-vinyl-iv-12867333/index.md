@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ---
 
-![Remastered In Vinyl IV by Kate Bush](remastered-in-vinyl-iv-12867333.jpg)
+{{< img src="remastered-in-vinyl-iv-12867333.jpg" title="Remastered In Vinyl IV by Kate Bush" >}}
 
 <!-- section break -->
 

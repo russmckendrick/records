@@ -14,7 +14,7 @@ genres: ["Blues", "Folk, World, & Country"]
 styles: ["Folk", "Delta Blues"]
 ---
 
-![Tomorrow Is My Turn by Rhiannon Giddens](tomorrow-is-my-turn-6703052.jpg)
+{{< img src="tomorrow-is-my-turn-6703052.jpg" title="Tomorrow Is My Turn by Rhiannon Giddens" >}}
 
 <!-- section break -->
 
@@ -50,14 +50,14 @@ styles: ["Folk", "Delta Blues"]
 
 
 ## Videos
-### Rhiannon Giddens - She's Got You
-{{< youtube id="yqqdihSClis" title="Rhiannon Giddens - She's Got You" >}}<br>
+### Rhiannon Giddens - Last Kind Words
+{{< youtube id="7M_Fz4lzi3Q" title="Rhiannon Giddens - Last Kind Words" >}}<br>
 
 ### More Videos
 
 - [Rhiannon Giddens - Don't Let It Trouble Your Mind](https://www.youtube.com/watch?v=uQJ0ylPcUuo)
-- [Rhiannon Giddens - Last Kind Words](https://www.youtube.com/watch?v=7M_Fz4lzi3Q)
 - [Rhiannon Giddens - Waterboy](https://www.youtube.com/watch?v=XyWa6v-ifRY)
+- [Rhiannon Giddens - She's Got You](https://www.youtube.com/watch?v=yqqdihSClis)
 - [Rhiannon Giddens - Round About the Mountain](https://www.youtube.com/watch?v=fgN0mp6-wpQ)
 - [Rhiannon Giddens - O Love Is Teasin'](https://www.youtube.com/watch?v=GgrkEIldnV4)
 - [Rhiannon Giddens - Angel City](https://www.youtube.com/watch?v=XjMsLLEkt2E)

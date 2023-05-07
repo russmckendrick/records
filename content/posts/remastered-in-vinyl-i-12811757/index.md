@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
 
-![Remastered In Vinyl I by Kate Bush](remastered-in-vinyl-i-12811757.jpg)
+{{< img src="remastered-in-vinyl-i-12811757.jpg" title="Remastered In Vinyl I by Kate Bush" >}}
 
 <!-- section break -->
 

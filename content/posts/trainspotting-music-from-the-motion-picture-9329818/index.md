@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 ---
 
-![Trainspotting (Music From The Motion Picture) by Various](trainspotting-music-from-the-motion-picture-9329818.jpg)
+{{< img src="trainspotting-music-from-the-motion-picture-9329818.jpg" title="Trainspotting (Music From The Motion Picture) by Various" >}}
 
 <!-- section break -->
 

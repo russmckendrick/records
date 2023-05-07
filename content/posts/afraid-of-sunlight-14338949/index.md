@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
 
-![Afraid Of Sunlight by Marillion](afraid-of-sunlight-14338949.jpg)
+{{< img src="afraid-of-sunlight-14338949.jpg" title="Afraid Of Sunlight by Marillion" >}}
 
 <!-- section break -->
 

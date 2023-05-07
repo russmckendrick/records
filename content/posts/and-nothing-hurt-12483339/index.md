@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![And Nothing Hurt by Spiritualized](and-nothing-hurt-12483339.jpg)
+{{< img src="and-nothing-hurt-12483339.jpg" title="And Nothing Hurt by Spiritualized" >}}
 
 <!-- section break -->
 

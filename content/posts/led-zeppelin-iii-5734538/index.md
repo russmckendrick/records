@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Hard Rock"]
 ---
 
-![Led Zeppelin III by Led Zeppelin](led-zeppelin-iii-5734538.jpg)
+{{< img src="led-zeppelin-iii-5734538.jpg" title="Led Zeppelin III by Led Zeppelin" >}}
 
 <!-- section break -->
 

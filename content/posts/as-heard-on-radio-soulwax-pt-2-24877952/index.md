@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["House", "Electro"]
 ---
 
-![As Heard On Radio Soulwax Pt.2 by 2 Many DJ's](as-heard-on-radio-soulwax-pt-2-24877952.jpg)
+{{< img src="as-heard-on-radio-soulwax-pt-2-24877952.jpg" title="As Heard On Radio Soulwax Pt.2 by 2 Many DJ's" >}}
 
 <!-- section break -->
 

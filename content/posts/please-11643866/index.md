@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Please by Pet Shop Boys](please-11643866.jpg)
+{{< img src="please-11643866.jpg" title="Please by Pet Shop Boys" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![One EP by Mansun](one-ep-11285610.jpg)
+{{< img src="one-ep-11285610.jpg" title="One EP by Mansun" >}}
 
 <!-- section break -->
 

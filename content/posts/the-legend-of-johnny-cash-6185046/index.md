@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Country Rock"]
 ---
 
-![The Legend Of Johnny Cash by Johnny Cash](the-legend-of-johnny-cash-6185046.jpg)
+{{< img src="the-legend-of-johnny-cash-6185046.jpg" title="The Legend Of Johnny Cash by Johnny Cash" >}}
 
 <!-- section break -->
 

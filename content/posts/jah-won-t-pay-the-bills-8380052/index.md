@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae"]
 styles: ["Reggae", "Punk", "Ska"]
 ---
 
-![Jah Won't Pay The Bills by Sublime](jah-won-t-pay-the-bills-8380052.jpg)
+{{< img src="jah-won-t-pay-the-bills-8380052.jpg" title="Jah Won't Pay The Bills by Sublime" >}}
 
 <!-- section break -->
 

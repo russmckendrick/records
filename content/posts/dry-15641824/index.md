@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Dry by PJ Harvey](dry-15641824.jpg)
+{{< img src="dry-15641824.jpg" title="Dry by PJ Harvey" >}}
 
 <!-- section break -->
 

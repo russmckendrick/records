@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Symphonic Rock"]
 ---
 
-![Afflatus by The Polyphonic Spree](afflatus-21302986.jpg)
+{{< img src="afflatus-21302986.jpg" title="Afflatus by The Polyphonic Spree" >}}
 
 <!-- section break -->
 

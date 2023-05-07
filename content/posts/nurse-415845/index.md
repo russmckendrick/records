@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Nurse by Therapy?](nurse-415845.jpg)
+{{< img src="nurse-415845.jpg" title="Nurse by Therapy?" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Therapy?  - Deep Sleep
-{{< youtube id="3TIc3LbhxAA" title="Therapy?  - Deep Sleep" >}}<br>
+### Perversonality  - Therapy?
+{{< youtube id="Qbs3ms5A5pM" title="Perversonality  - Therapy?" >}}<br>
 
 ### More Videos
 
@@ -50,9 +50,9 @@ styles: ["Indie Rock"]
 - [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
 - [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
 - [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
-- [Perversonality  - Therapy?](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
 - [Therapy? - Gone (with lyrics)](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
 - [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)
+- [Therapy?  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)
 - [Therapy - Hypermania](https://www.youtube.com/watch?v=Yj0AGitctVg)
 
 

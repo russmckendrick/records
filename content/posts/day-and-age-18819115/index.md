@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Day And Age by Frost*](day-and-age-18819115.jpg)
+{{< img src="day-and-age-18819115.jpg" title="Day And Age by Frost*" >}}
 
 <!-- section break -->
 

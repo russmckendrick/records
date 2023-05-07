@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-![Lightwork by Devin Townsend](lightwork-24964213.jpg)
+{{< img src="lightwork-24964213.jpg" title="Lightwork by Devin Townsend" >}}
 
 <!-- section break -->
 
@@ -93,13 +93,13 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 ## Videos
-### Moonpeople - Official Promo Video
-{{< youtube id="D-kl_I8E0kA" title="Moonpeople - Official Promo Video" >}}<br>
+### Unboxing Devin Townsend - Lightwork 2022 Limited Edition Artbook
+{{< youtube id="c2hxyDvgfws" title="Unboxing Devin Townsend - Lightwork 2022 Limited Edition Artbook" >}}<br>
 
 ### More Videos
 
 - [Equinox](https://www.youtube.com/watch?v=8t_QBTKrTXU)
-- [Unboxing Devin Townsend - Lightwork 2022 Limited Edition Artbook](https://www.youtube.com/watch?v=c2hxyDvgfws)
+- [Moonpeople - Official Promo Video](https://www.youtube.com/watch?v=D-kl_I8E0kA)
 - [Heartbreaker - Official Promo Video](https://www.youtube.com/watch?v=G6cNd3dCVFY)
 - [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
 - [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)

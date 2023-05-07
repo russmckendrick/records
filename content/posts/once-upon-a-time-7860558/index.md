@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-![Once Upon A Time by Simple Minds](once-upon-a-time-7860558.jpg)
+{{< img src="once-upon-a-time-7860558.jpg" title="Once Upon A Time by Simple Minds" >}}
 
 <!-- section break -->
 
@@ -36,13 +36,13 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Simple Minds Once Upon a Time
-{{< youtube id="eQlYTc_rZ7c" title="Simple Minds Once Upon a Time" >}}<br>
+### Simple Minds - Sanctify Yourself
+{{< youtube id="sGQNRyxmhhg" title="Simple Minds - Sanctify Yourself" >}}<br>
 
 ### More Videos
 
+- [Simple Minds Once Upon a Time](https://www.youtube.com/watch?v=eQlYTc_rZ7c)
 - [Simple Minds - Alive And Kicking](https://www.youtube.com/watch?v=ljIQo1OHkTI)
-- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
 
 

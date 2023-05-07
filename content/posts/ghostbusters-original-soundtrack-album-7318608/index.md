@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: []
 ---
 
-![Ghostbusters - Original Soundtrack Album by Various](ghostbusters-original-soundtrack-album-7318608.jpg)
+{{< img src="ghostbusters-original-soundtrack-album-7318608.jpg" title="Ghostbusters - Original Soundtrack Album by Various" >}}
 
 <!-- section break -->
 

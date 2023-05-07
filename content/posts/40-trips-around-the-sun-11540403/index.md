@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock"]
 ---
 
-![40 Trips Around The Sun by Toto](40-trips-around-the-sun-11540403.jpg)
+{{< img src="40-trips-around-the-sun-11540403.jpg" title="40 Trips Around The Sun by Toto" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave"]
 ---
 
-![History Never Repeats by Split Enz](history-never-repeats-6659991.jpg)
+{{< img src="history-never-repeats-6659991.jpg" title="History Never Repeats by Split Enz" >}}
 
 <!-- section break -->
 
@@ -28,20 +28,20 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Split Enz - History Never Repeats (with Lyrics)
-{{< youtube id="H4MaXe_Gjxc" title="Split Enz - History Never Repeats (with Lyrics)" >}}<br>
+### History Never Repeats - Split Enz  (audio only)
+{{< youtube id="wZXcYjI1-S8" title="History Never Repeats - Split Enz  (audio only)" >}}<br>
 
 ### More Videos
 
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=vFp4axRBag8)
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=tzuJXqgsiSM)
-- [History Never Repeats - Split Enz  (audio only)](https://www.youtube.com/watch?v=wZXcYjI1-S8)
 - [History Never Repeats - Split Enz [ Live ! 1981 ]](https://www.youtube.com/watch?v=qU13PZnfbrc)
 - [SPLIT ENZ History Never Repeats  Live 2009](https://www.youtube.com/watch?v=nfbQOhwkP58)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=Xz1aSjZ1mIQ)
 - [Split Enz - History Never Repeats (live in Canada)](https://www.youtube.com/watch?v=SN8721jZd70)
 - [Split Enz  HISTORY NEVER REPEATS  Live June 06](https://www.youtube.com/watch?v=7fLBLPCI9Ys)
+- [Split Enz - History Never Repeats (with Lyrics)](https://www.youtube.com/watch?v=H4MaXe_Gjxc)
 - [Split Enz - History Never  Repeats](https://www.youtube.com/watch?v=FQ9uENZ_12Y)
 - [Split Enz – History Never Repeats](https://www.youtube.com/watch?v=lPXXuEkMXes)
 - [Enz History Never Repeats Canada '82](https://www.youtube.com/watch?v=zW9Mc8JGq5E)

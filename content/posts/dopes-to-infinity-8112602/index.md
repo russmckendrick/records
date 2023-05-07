@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
 
-![Dopes To Infinity by Monster Magnet](dopes-to-infinity-8112602.jpg)
+{{< img src="dopes-to-infinity-8112602.jpg" title="Dopes To Infinity by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -43,16 +43,16 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 
 
 ## Videos
-### Monster Magnet - Dopes to Infinity MONSTER.MOV
-{{< youtube id="hWPr5vUoFX0" title="Monster Magnet - Dopes to Infinity MONSTER.MOV" >}}<br>
+### All Friends And Kingdom Come
+{{< youtube id="pshDmk_JrQo" title="All Friends And Kingdom Come" >}}<br>
 
 ### More Videos
 
 - [Dopes To Infinity](https://www.youtube.com/watch?v=JWldvOmqhRk)
 - [Monster Magnet - Dopes to Infinity 10150A.MOV](https://www.youtube.com/watch?v=6M8pI0jYJq4)
 - [Negasonic Teenage Warhead](https://www.youtube.com/watch?v=s9vSW6mL14c)
+- [Monster Magnet - Dopes to Infinity MONSTER.MOV](https://www.youtube.com/watch?v=hWPr5vUoFX0)
 - [Look To Your Orb For The Warning](https://www.youtube.com/watch?v=9xfts_jRZ9U)
-- [All Friends And Kingdom Come](https://www.youtube.com/watch?v=pshDmk_JrQo)
 - [Ego, The Living Planet](https://www.youtube.com/watch?v=aDtrGiK1KM8)
 - [Blow 'Em Off](https://www.youtube.com/watch?v=EDZKEBKvjyo)
 - [Third Alternative](https://www.youtube.com/watch?v=kezve_bWPg0)

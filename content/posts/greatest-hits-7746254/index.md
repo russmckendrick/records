@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Greatest Hits by The Kinks](greatest-hits-7746254.jpg)
+{{< img src="greatest-hits-7746254.jpg" title="Greatest Hits by The Kinks" >}}
 
 <!-- section break -->
 

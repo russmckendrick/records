@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 ---
 
-![Acoustic by Simple Minds](acoustic-9415335.jpg)
+{{< img src="acoustic-9415335.jpg" title="Acoustic by Simple Minds" >}}
 
 <!-- section break -->
 

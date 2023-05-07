@@ -14,7 +14,7 @@ genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
 
-![We The Extras by The Levellers](we-the-extras-11647743.jpg)
+{{< img src="we-the-extras-11647743.jpg" title="We The Extras by The Levellers" >}}
 
 <!-- section break -->
 

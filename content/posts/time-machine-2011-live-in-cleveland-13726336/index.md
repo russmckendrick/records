@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Time Machine 2011: Live In Cleveland by Rush](time-machine-2011-live-in-cleveland-13726336.jpg)
+{{< img src="time-machine-2011-live-in-cleveland-13726336.jpg" title="Time Machine 2011: Live In Cleveland by Rush" >}}
 
 <!-- section break -->
 

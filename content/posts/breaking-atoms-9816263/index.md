@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-![Breaking Atoms by Main Source](breaking-atoms-9816263.jpg)
+{{< img src="breaking-atoms-9816263.jpg" title="Breaking Atoms by Main Source" >}}
 
 <!-- section break -->
 

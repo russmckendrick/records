@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Slanted And Enchanted by Pavement](slanted-and-enchanted-24013337.jpg)
+{{< img src="slanted-and-enchanted-24013337.jpg" title="Slanted And Enchanted by Pavement" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Our Singer
-{{< youtube id="IlmL9BggCNo" title="Our Singer" >}}<br>
+### Fame Throwa
+{{< youtube id="-9s9EMrHFYE" title="Fame Throwa" >}}<br>
 
 ### More Videos
 
@@ -57,8 +57,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Loretta's Scars](https://www.youtube.com/watch?v=LW00xW1vPYo)
 - [Two States](https://www.youtube.com/watch?v=-ws2YMkN-J0)
 - [Perfume-V](https://www.youtube.com/watch?v=GtmEkWV2S50)
-- [Fame Throwa](https://www.youtube.com/watch?v=-9s9EMrHFYE)
 - [Jackals, False Grails: The Lonesome Era](https://www.youtube.com/watch?v=dG_69muRWCw)
+- [Our Singer](https://www.youtube.com/watch?v=IlmL9BggCNo)
 
 
 ## Release Information

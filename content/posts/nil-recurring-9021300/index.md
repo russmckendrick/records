@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Nil Recurring by Porcupine Tree](nil-recurring-9021300.jpg)
+{{< img src="nil-recurring-9021300.jpg" title="Nil Recurring by Porcupine Tree" >}}
 
 <!-- section break -->
 

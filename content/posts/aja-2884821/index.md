@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
 
-![Aja by Steely Dan](aja-2884821.jpg)
+{{< img src="aja-2884821.jpg" title="Aja by Steely Dan" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,14 @@ styles: ["Pop Rock", "Fusion"]
 
 
 ## Videos
-### Aja
-{{< youtube id="CYZwVf07tHA" title="Aja" >}}<br>
+### Peg
+{{< youtube id="u_pt3khMRFs" title="Peg" >}}<br>
 
 ### More Videos
 
 - [Black Cow](https://www.youtube.com/watch?v=XRj0Ohg-y1A)
+- [Aja](https://www.youtube.com/watch?v=CYZwVf07tHA)
 - [Deacon Blues](https://www.youtube.com/watch?v=OyCDicG0tDs)
-- [Peg](https://www.youtube.com/watch?v=u_pt3khMRFs)
 - [Home At Last](https://www.youtube.com/watch?v=Hx5ZlTyzU-k)
 - [I Got The News](https://www.youtube.com/watch?v=T6DSoyAjkus)
 - [Josie](https://www.youtube.com/watch?v=qwZ_u_UKb0Q)

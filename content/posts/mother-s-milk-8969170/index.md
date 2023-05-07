@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-![Mother's Milk by Red Hot Chili Peppers](mother-s-milk-8969170.jpg)
+{{< img src="mother-s-milk-8969170.jpg" title="Mother's Milk by Red Hot Chili Peppers" >}}
 
 <!-- section break -->
 

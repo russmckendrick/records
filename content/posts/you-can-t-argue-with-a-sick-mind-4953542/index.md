@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![You Can't Argue With A Sick Mind by Joe Walsh](you-can-t-argue-with-a-sick-mind-4953542.jpg)
+{{< img src="you-can-t-argue-with-a-sick-mind-4953542.jpg" title="You Can't Argue With A Sick Mind by Joe Walsh" >}}
 
 <!-- section break -->
 
@@ -34,8 +34,8 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Joe Walsh   Walk Away LIVE with Lyrics in Description
-{{< youtube id="w4PK3RsA-2M" title="Joe Walsh   Walk Away LIVE with Lyrics in Description" >}}<br>
+### Joe Walsh   Meadows LIVE with Lyrics in Description
+{{< youtube id="DAP-uLGMcpY" title="Joe Walsh   Meadows LIVE with Lyrics in Description" >}}<br>
 
 ### More Videos
 
@@ -44,8 +44,8 @@ styles: ["Classic Rock"]
 - [Joe Walsh - Rocky Mountain Way (Live)](https://www.youtube.com/watch?v=F1uWA7VPGiE)
 - [Joe Walsh 🇺🇲 - Rocky Mountain Way (live) - Vinyl You Can't Argue With A Sick Mind LP 🇺🇲 1976](https://www.youtube.com/watch?v=iKP8aIz8yX4)
 - [Turn To Stone (Live At Santa Monica Civic Auditorium/1976)](https://www.youtube.com/watch?v=-iG_0MCXKh4)
+- [Joe Walsh   Walk Away LIVE with Lyrics in Description](https://www.youtube.com/watch?v=w4PK3RsA-2M)
 - [Joe Walsh Rocky Mountain Way](https://www.youtube.com/watch?v=0x4El47O8Zs)
-- [Joe Walsh   Meadows LIVE with Lyrics in Description](https://www.youtube.com/watch?v=DAP-uLGMcpY)
 - [Joe Walsh (Rocky Mountain Way)](https://www.youtube.com/watch?v=YDFaZbEWOO0)
 - [Joe Walsh - Rocky Mountain way - You can't argue with a sick mind (1976)](https://www.youtube.com/watch?v=hxFrKKhG0_U)
 - [Joe Walsh- Rocky Mountain Way](https://www.youtube.com/watch?v=Rt75y38J00s)

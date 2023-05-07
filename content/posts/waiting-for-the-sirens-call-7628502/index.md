@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 ---
 
-![Waiting For The Sirens' Call by New Order](waiting-for-the-sirens-call-7628502.jpg)
+{{< img src="waiting-for-the-sirens-call-7628502.jpg" title="Waiting For The Sirens' Call by New Order" >}}
 
 <!-- section break -->
 

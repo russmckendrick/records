@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Rearviewmirror (Greatest Hits 1991-2003: Volume 1) by Pearl Jam](rearviewmirror-greatest-hits-1991-2003-volume-1-22421005.jpg)
+{{< img src="rearviewmirror-greatest-hits-1991-2003-volume-1-22421005.jpg" title="Rearviewmirror (Greatest Hits 1991-2003: Volume 1) by Pearl Jam" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Once (2004 Remix)
-{{< youtube id="PEEsRBkipnc" title="Once (2004 Remix)" >}}<br>
+### Pearl Jam - Greatest Hits - The Up Side - HD Audio
+{{< youtube id="1z5XWZ5yzgU" title="Pearl Jam - Greatest Hits - The Up Side - HD Audio" >}}<br>
 
 ### More Videos
 
-- [Pearl Jam - Greatest Hits - The Up Side - HD Audio](https://www.youtube.com/watch?v=1z5XWZ5yzgU)
+- [Once (2004 Remix)](https://www.youtube.com/watch?v=PEEsRBkipnc)
 - [Pearl Jam - Greatest Hits - The Down Side - HD Audio](https://www.youtube.com/watch?v=AyuTmo_XHzw)
 
 

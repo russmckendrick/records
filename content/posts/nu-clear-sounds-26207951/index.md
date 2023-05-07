@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![Nu-Clear Sounds by Ash](nu-clear-sounds-26207951.jpg)
+{{< img src="nu-clear-sounds-26207951.jpg" title="Nu-Clear Sounds by Ash" >}}
 
 <!-- section break -->
 

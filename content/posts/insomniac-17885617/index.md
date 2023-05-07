@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Punk"]
 ---
 
-![Insomniac by Green Day](insomniac-17885617.jpg)
+{{< img src="insomniac-17885617.jpg" title="Insomniac by Green Day" >}}
 
 <!-- section break -->
 
@@ -51,8 +51,8 @@ styles: ["Pop Punk"]
 
 
 ## Videos
-### Green Day – Stuart And The Ave
-{{< youtube id="rZAheR3M7sc" title="Green Day – Stuart And The Ave" >}}<br>
+### Green Day – 86
+{{< youtube id="PM3OL6OEVQU" title="Green Day – 86" >}}<br>
 
 ### More Videos
 
@@ -63,9 +63,9 @@ styles: ["Pop Punk"]
 - [Green Day – Armatage Shanks](https://www.youtube.com/watch?v=TkXBepXjMS8)
 - [Green Day – Stuck With Me](https://www.youtube.com/watch?v=I8glPSOHdJ8)
 - [Green Day – No Pride](https://www.youtube.com/watch?v=CagiJ6F0ZfQ)
+- [Green Day – Stuart And The Ave](https://www.youtube.com/watch?v=rZAheR3M7sc)
 - [Green Day – Panic Song](https://www.youtube.com/watch?v=xOqKBa6XTFM)
 - [Green Day – Brat](https://www.youtube.com/watch?v=yLGmXX8c_KY)
-- [Green Day – 86](https://www.youtube.com/watch?v=PM3OL6OEVQU)
 - [Green Day – Westbound Sign](https://www.youtube.com/watch?v=HlmpqZjvCdg)
 - [Green Day – Tight Wad Hill](https://www.youtube.com/watch?v=Zh9N18yQPxw)
 - [Green Day – Bab's Uvula Who?](https://www.youtube.com/watch?v=wqVoeUne8qk)

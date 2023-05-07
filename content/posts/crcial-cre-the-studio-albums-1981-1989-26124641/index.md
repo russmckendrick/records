@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Glam"]
 ---
 
-![Crücial Crüe (The Studio Albums 1981-1989) by Mötley Crüe](crcial-cre-the-studio-albums-1981-1989-26124641.jpg)
+{{< img src="crcial-cre-the-studio-albums-1981-1989-26124641.jpg" title="Crücial Crüe (The Studio Albums 1981-1989) by Mötley Crüe" >}}
 
 <!-- section break -->
 

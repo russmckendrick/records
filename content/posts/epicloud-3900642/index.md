@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
 
-![Epicloud by Devin Townsend Project](epicloud-3900642.jpg)
+{{< img src="epicloud-3900642.jpg" title="Epicloud by Devin Townsend Project" >}}
 
 <!-- section break -->
 
@@ -55,14 +55,14 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 
 ## Videos
-### Devin Townsend Project - Save our Now
-{{< youtube id="wTDagfTQ1Ks" title="Devin Townsend Project - Save our Now" >}}<br>
+### DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)
+{{< youtube id="V7xi6Yt36u8" title="DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
 - [Devin Townsend LUCKY ANIMALS (Unofficial Video) =]](https://www.youtube.com/watch?v=UvmIByrcwAQ)
 - [EPICLOUD LISTENING PARTY!](https://www.youtube.com/watch?v=FLbJ72wgXcE)
-- [DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=V7xi6Yt36u8)
+- [Devin Townsend Project - Save our Now](https://www.youtube.com/watch?v=wTDagfTQ1Ks)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ---
 
-![The Jazz Singer (Original Songs From The Motion Picture) by Neil Diamond](the-jazz-singer-original-songs-from-the-motion-picture-1605561.jpg)
+{{< img src="the-jazz-singer-original-songs-from-the-motion-picture-1605561.jpg" title="The Jazz Singer (Original Songs From The Motion Picture) by Neil Diamond" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 
 
 ## Videos
-### Adon Olom (From The Jazz Singer Soundtrack)
-{{< youtube id="Tv3SXDtUdfU" title="Adon Olom (From The Jazz Singer Soundtrack)" >}}<br>
+### You Baby (From The Jazz Singer Soundtrack)
+{{< youtube id="o3Mb4T8vVO4" title="You Baby (From The Jazz Singer Soundtrack)" >}}<br>
 
 ### More Videos
 
 - [America (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=SvseQ90FMHk)
-- [You Baby (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=o3Mb4T8vVO4)
+- [Adon Olom (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
 - [Love On The Rocks (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=22tVYznBKyE)
 - [Amazed And Confused (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=VlyOpuwml30)
 - [On The Robert E. Lee (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=-wef9IzAIag)

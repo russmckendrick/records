@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Time For Heroes - The Best Of The Libertines by The Libertines](time-for-heroes-the-best-of-the-libertines-2263029.jpg)
+{{< img src="time-for-heroes-the-best-of-the-libertines-2263029.jpg" title="Time For Heroes - The Best Of The Libertines by The Libertines" >}}
 
 <!-- section break -->
 

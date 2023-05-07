@@ -14,7 +14,7 @@ genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Neo-Classical"]
 ---
 
-![Ocean Sounds by Iamthemorning](ocean-sounds-12686247.jpg)
+{{< img src="ocean-sounds-12686247.jpg" title="Ocean Sounds by Iamthemorning" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Alternative Rock", "Neo-Classical"]
 
 
 ## Videos
-### iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)
-{{< youtube id="TmNR7BfO2KE" title="iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)" >}}<br>
+### Iamthemorning - 5/4 (from Ocean Sounds)
+{{< youtube id="JRlvqyjuxiM" title="Iamthemorning - 5/4 (from Ocean Sounds)" >}}<br>
 
 ### More Videos
 
+- [iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)](https://www.youtube.com/watch?v=TmNR7BfO2KE)
 - [Romance (Ocean Sounds Sessions)](https://www.youtube.com/watch?v=IJ4ibXqPv4U)
-- [Iamthemorning - 5/4 (from Ocean Sounds)](https://www.youtube.com/watch?v=JRlvqyjuxiM)
 - [Iamthemorning - Touching (from Ocean Sounds)](https://www.youtube.com/watch?v=FanMVr9dvzg)
 - [Os Lunatum (Ocean Sounds Sessions)](https://www.youtube.com/watch?v=ROljdYQzfhM)
 - [Matches (Ocean Sounds Sessions)](https://www.youtube.com/watch?v=QGNln6nMpqg)

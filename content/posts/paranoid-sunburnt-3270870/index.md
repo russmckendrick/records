@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-![Paranoid & Sunburnt by Skunk Anansie](paranoid-sunburnt-3270870.jpg)
+{{< img src="paranoid-sunburnt-3270870.jpg" title="Paranoid & Sunburnt by Skunk Anansie" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### Skunk Anansie ‎– I Can Dream
-{{< youtube id="6bD4IanUhYs" title="Skunk Anansie ‎– I Can Dream" >}}<br>
+### Skunk Anansie - All in the name of pity
+{{< youtube id="AWEpDROevaA" title="Skunk Anansie - All in the name of pity" >}}<br>
 
 ### More Videos
 
@@ -48,11 +48,11 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [Skunk Anansie - I Can Dream](https://www.youtube.com/watch?v=1YaM-2T4yzM)
 - [Skunk Anansie - Little Baby Swastikka](https://www.youtube.com/watch?v=aBINfmb7tWE)
 - [Skunk Anansie - And Here I Stand](https://www.youtube.com/watch?v=ASUvc3MCXSE)
-- [Skunk Anansie - All in the name of pity](https://www.youtube.com/watch?v=AWEpDROevaA)
 - [Skunk Anansie - Selling Jesus](https://www.youtube.com/watch?v=pRH807Zg8MQ)
 - [Skunk Anansie - Charity](https://www.youtube.com/watch?v=qQ7ZeSU8ZXM)
 - [Skunk Anansie - It takes blood and guts to be this cool but i m still just a cliche](https://www.youtube.com/watch?v=Mnv19g5NQW8)
 - [Skunk Anansie - Weak](https://www.youtube.com/watch?v=nPglNjxVHiM)
+- [Skunk Anansie ‎– I Can Dream](https://www.youtube.com/watch?v=6bD4IanUhYs)
 
 
 ## Release Information

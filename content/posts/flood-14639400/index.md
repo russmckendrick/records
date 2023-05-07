@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Flood by They Might Be Giants](flood-14639400.jpg)
+{{< img src="flood-14639400.jpg" title="Flood by They Might Be Giants" >}}
 
 <!-- section break -->
 
@@ -47,8 +47,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Someone Keeps Moving My Chair
-{{< youtube id="5pud7rt4KhU" title="Someone Keeps Moving My Chair" >}}<br>
+### Letterbox
+{{< youtube id="gkBTQX4VwqI" title="Letterbox" >}}<br>
 
 ### More Videos
 
@@ -62,9 +62,9 @@ styles: ["Alternative Rock"]
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
 - [Twisting](https://www.youtube.com/watch?v=j0jNgo6Ar4Q)
 - [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)
+- [Someone Keeps Moving My Chair](https://www.youtube.com/watch?v=5pud7rt4KhU)
 - [Hearing Aid](https://www.youtube.com/watch?v=wMF6Jpm5cvQ)
 - [Minimum Wage](https://www.youtube.com/watch?v=SRcRn_Xv7Ek)
-- [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
 - [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
 - [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)
 - [Women & Men](https://www.youtube.com/watch?v=33BTvjZ45MI)

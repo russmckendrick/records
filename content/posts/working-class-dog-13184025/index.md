@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Working Class Dog by Rick Springfield](working-class-dog-13184025.jpg)
+{{< img src="working-class-dog-13184025.jpg" title="Working Class Dog by Rick Springfield" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: []
 
 
 ## Videos
-### Rick Springfield - I've Done Everything For You
-{{< youtube id="h0zwYNPPD2g" title="Rick Springfield - I've Done Everything For You" >}}<br>
+### Rick Springfield - Jessie's Girl
+{{< youtube id="qYkbTyHXwbs" title="Rick Springfield - Jessie's Girl" >}}<br>
 
 ### More Videos
 
 - [Rick Springfield - Love Is Alright Tonite](https://www.youtube.com/watch?v=yWEzf-mska4)
-- [Rick Springfield - Jessie's Girl](https://www.youtube.com/watch?v=qYkbTyHXwbs)
 - [Rick Springfield - Hole In My Heart](https://www.youtube.com/watch?v=L91VibZWTlM)
 - [Rick Springfield - Carry Me Away](https://www.youtube.com/watch?v=l_zTiqAFRl0)
+- [Rick Springfield - I've Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)
 - [Rick Springfield, Everybody's Girl](https://www.youtube.com/watch?v=YV_O-_LAQj8)
 
 

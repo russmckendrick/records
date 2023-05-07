@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 ---
 
-![A Bit Of What You Fancy 30th Anniversary Edition by The Quireboys](a-bit-of-what-you-fancy-30th-anniversary-edition-23407643.jpg)
+{{< img src="a-bit-of-what-you-fancy-30th-anniversary-edition-23407643.jpg" title="A Bit Of What You Fancy 30th Anniversary Edition by The Quireboys" >}}
 
 <!-- section break -->
 

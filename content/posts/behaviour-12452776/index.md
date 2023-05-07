@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Behaviour. by Pet Shop Boys](behaviour-12452776.jpg)
+{{< img src="behaviour-12452776.jpg" title="Behaviour. by Pet Shop Boys" >}}
 
 <!-- section break -->
 

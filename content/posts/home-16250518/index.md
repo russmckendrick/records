@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ---
 
-![Home by Koj](home-16250518.jpg)
+{{< img src="home-16250518.jpg" title="Home by Koj" >}}
 
 <!-- section break -->
 

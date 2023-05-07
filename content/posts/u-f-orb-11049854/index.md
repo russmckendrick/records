@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Dub", "House"]
 ---
 
-![U.F.Orb by The Orb](u-f-orb-11049854.jpg)
+{{< img src="u-f-orb-11049854.jpg" title="U.F.Orb by The Orb" >}}
 
 <!-- section break -->
 

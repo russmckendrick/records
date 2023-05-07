@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Folk Rock"]
 ---
 
-![Solid Air (Classics Revisited) by John Martyn](solid-air-classics-revisited-5695629.jpg)
+{{< img src="solid-air-classics-revisited-5695629.jpg" title="Solid Air (Classics Revisited) by John Martyn" >}}
 
 <!-- section break -->
 

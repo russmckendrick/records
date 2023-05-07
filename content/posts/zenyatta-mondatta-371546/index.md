@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-![Zenyatta Mondatta by The Police](zenyatta-mondatta-371546.jpg)
+{{< img src="zenyatta-mondatta-371546.jpg" title="Zenyatta Mondatta by The Police" >}}
 
 <!-- section break -->
 

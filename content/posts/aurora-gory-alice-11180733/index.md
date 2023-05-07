@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Aurora Gory Alice by Letters To Cleo](aurora-gory-alice-11180733.jpg)
+{{< img src="aurora-gory-alice-11180733.jpg" title="Aurora Gory Alice by Letters To Cleo" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Big Star
-{{< youtube id="V9lzLf5sOJk" title="Big Star" >}}<br>
+### Letters To Cleo - Here & Now (Official Music Video)
+{{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here & Now (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Letters To Cleo - Here & Now (Official Music Video)](https://www.youtube.com/watch?v=MiazE31XnpA)
+- [Big Star](https://www.youtube.com/watch?v=V9lzLf5sOJk)
 
 
 ## Release Information

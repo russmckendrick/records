@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![The Touch Of Love by Gladys Knight And The Pips](the-touch-of-love-2171568.jpg)
+{{< img src="the-touch-of-love-2171568.jpg" title="The Touch Of Love by Gladys Knight And The Pips" >}}
 
 <!-- section break -->
 

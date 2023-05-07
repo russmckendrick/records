@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Whatever People Say I Am, That's What I'm Not by Arctic Monkeys](whatever-people-say-i-am-that-s-what-i-m-not-11826116.jpg)
+{{< img src="whatever-people-say-i-am-that-s-what-i-m-not-11826116.jpg" title="Whatever People Say I Am, That's What I'm Not by Arctic Monkeys" >}}
 
 <!-- section break -->
 

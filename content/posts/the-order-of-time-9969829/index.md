@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Gospel", "Folk"]
 ---
 
-![The Order Of Time by Valerie June](the-order-of-time-9969829.jpg)
+{{< img src="the-order-of-time-9969829.jpg" title="The Order Of Time by Valerie June" >}}
 
 <!-- section break -->
 

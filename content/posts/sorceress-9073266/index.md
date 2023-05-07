@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Sorceress by Opeth](sorceress-9073266.jpg)
+{{< img src="sorceress-9073266.jpg" title="Sorceress by Opeth" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### OPETH - Era (OFFICIAL VIDEO)
-{{< youtube id="98wXIjkO4i0" title="OPETH - Era (OFFICIAL VIDEO)" >}}<br>
+### OPETH - Sorceress (OFFICIAL LYRIC VIDEO)
+{{< youtube id="LhqijfqecvA" title="OPETH - Sorceress (OFFICIAL LYRIC VIDEO)" >}}<br>
 
 ### More Videos
 
-- [OPETH - Sorceress (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=LhqijfqecvA)
+- [OPETH - Era (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=98wXIjkO4i0)
 - [OPETH - The Wilde Flowers (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=O9vA6dJJX-8)
 - [OPETH - Will O The Wisp (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=Kfpnwk-DXrA)
 

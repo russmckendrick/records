@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Eat The Elephant by A Perfect Circle](eat-the-elephant-11861222.jpg)
+{{< img src="eat-the-elephant-11861222.jpg" title="Eat The Elephant by A Perfect Circle" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Ghost Highway by Mazzy Star](ghost-highway-16210745.jpg)
+{{< img src="ghost-highway-16210745.jpg" title="Ghost Highway by Mazzy Star" >}}
 
 <!-- section break -->
 
@@ -39,18 +39,18 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Blue Flower
-{{< youtube id="FGzNErpGZPg" title="Blue Flower" >}}<br>
+### Flowers In December
+{{< youtube id="ewABojPWmY0" title="Flowers In December" >}}<br>
 
 ### More Videos
 
 - [Mazzy Star - Fade Into You (Official Music Video)](https://www.youtube.com/watch?v=ImKY6TZEyrI)
 - [Halah](https://www.youtube.com/watch?v=vHGHcvJDpaA)
+- [Blue Flower](https://www.youtube.com/watch?v=FGzNErpGZPg)
 - [Mary Of Silence](https://www.youtube.com/watch?v=j9Nl7FlrMpw)
 - [Bells Ring](https://www.youtube.com/watch?v=44OjwGThpbU)
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=pbc0dDK5hn0)
-- [Flowers In December](https://www.youtube.com/watch?v=ewABojPWmY0)
 - [Ride It On](https://www.youtube.com/watch?v=HQUGNTIHOhc)
 - [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
 - [Give You My Lovin](https://www.youtube.com/watch?v=nnFnjUl94b8)

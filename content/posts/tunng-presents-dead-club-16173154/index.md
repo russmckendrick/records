@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ---
 
-![Tunng Presents... Dead Club by Tunng](tunng-presents-dead-club-16173154.jpg)
+{{< img src="tunng-presents-dead-club-16173154.jpg" title="Tunng Presents... Dead Club by Tunng" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 
 
 ## Videos
-### tunng - A Million Colours [Official Video]
-{{< youtube id="voFaQHAgdhw" title="tunng - A Million Colours [Official Video]" >}}<br>
+### Tunng - Eating the Dead
+{{< youtube id="xvaz_moDEs4" title="Tunng - Eating the Dead" >}}<br>
 
 ### More Videos
 
-- [Tunng - Eating the Dead](https://www.youtube.com/watch?v=xvaz_moDEs4)
+- [tunng - A Million Colours [Official Video]](https://www.youtube.com/watch?v=voFaQHAgdhw)
 - [The Last Day](https://www.youtube.com/watch?v=zijFWrWFYKo)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![See Ya 'Round by Split Enz](see-ya-round-2199532.jpg)
+{{< img src="see-ya-round-2199532.jpg" title="See Ya 'Round by Split Enz" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - One Mouth Is Fed
-{{< youtube id="K2NJXKifgqU" title="Split Enz - One Mouth Is Fed" >}}<br>
+### Split Enz - I Walk Away
+{{< youtube id="itr1FaWWDcI" title="Split Enz - I Walk Away" >}}<br>
 
 ### More Videos
 
-- [Split Enz - I Walk Away](https://www.youtube.com/watch?v=itr1FaWWDcI)
+- [Split Enz - One Mouth Is Fed](https://www.youtube.com/watch?v=K2NJXKifgqU)
 - [Split Enz Years Go By Live '84](https://www.youtube.com/watch?v=QfCWjNrzxg4)
 - [Split Enz Kia Kaha: 1984](https://www.youtube.com/watch?v=BUmC6bYu6Yk)
 

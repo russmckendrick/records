@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
 
-![Motown Funk Volume 2 by Various](motown-funk-volume-2-11895847.jpg)
+{{< img src="motown-funk-volume-2-11895847.jpg" title="Motown Funk Volume 2 by Various" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Funk", "Soul"]
 
 
 ## Videos
-### Dazz Band  Let It Whip
-{{< youtube id="lCemjTAw7i0" title="Dazz Band  Let It Whip" >}}<br>
+### Behold
+{{< youtube id="_HDSLNjkdaw" title="Behold" >}}<br>
 
 ### More Videos
 
@@ -56,10 +56,10 @@ styles: ["Funk", "Soul"]
 - [Stevie Wonder - Every Time I See You I Go Wild (1967)](https://www.youtube.com/watch?v=gZsMrmLaoI0)
 - [Rare Earth - I Know I'm Losing You (full version)](https://www.youtube.com/watch?v=F28X8--2dFU)
 - [The Jerry Ross Symposium - It's The Same Old Love](https://www.youtube.com/watch?v=dPeuCmVutSA)
-- [Behold](https://www.youtube.com/watch?v=_HDSLNjkdaw)
 - [Closing Jimmy's (Trouble Man Original Film Score)](https://www.youtube.com/watch?v=PmMqjN4OTiQ)
 - [Grover Washington, Jr.  Mister Magic](https://www.youtube.com/watch?v=2Jvdy6khEmA)
 - [Undisputed Truth-U.F.O's](https://www.youtube.com/watch?v=m_VoWIUnCbo)
+- [Dazz Band  Let It Whip](https://www.youtube.com/watch?v=lCemjTAw7i0)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Berlin-School"]
 ---
 
-![Raum by Tangerine Dream](raum-22300372.jpg)
+{{< img src="raum-22300372.jpg" title="Raum by Tangerine Dream" >}}
 
 <!-- section break -->
 
@@ -35,15 +35,15 @@ styles: ["Berlin-School"]
 
 
 ## Videos
-### Along The Canal
-{{< youtube id="I8cVXa1YckY" title="Along The Canal" >}}<br>
+### Tangerine Dream - You're Always On Time [Edit] (Official Music Video)
+{{< youtube id="MM2xZZuJvpg" title="Tangerine Dream - You're Always On Time [Edit] (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Continuum](https://www.youtube.com/watch?v=V4FmQ2an8ww)
 - [Portico](https://www.youtube.com/watch?v=h0j1vFfyxvg)
 - [In 256 Zeichen](https://www.youtube.com/watch?v=m9yXrfiuQ9M)
-- [Tangerine Dream - You're Always On Time [Edit] (Official Music Video)](https://www.youtube.com/watch?v=MM2xZZuJvpg)
+- [Along The Canal](https://www.youtube.com/watch?v=I8cVXa1YckY)
 - [What You Should Know About Endings](https://www.youtube.com/watch?v=eKNVMBfy-rk)
 - [Raum](https://www.youtube.com/watch?v=RM5aeRkVf4I)
 

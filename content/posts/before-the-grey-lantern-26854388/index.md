@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock"]
 ---
 
-![Before The Grey Lantern by Mansun](before-the-grey-lantern-26854388.jpg)
+{{< img src="before-the-grey-lantern-26854388.jpg" title="Before The Grey Lantern by Mansun" >}}
 
 <!-- section break -->
 

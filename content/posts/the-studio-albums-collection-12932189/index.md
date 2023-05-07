@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
 
-![The Studio Albums Collection by Creedence Clearwater Revival](the-studio-albums-collection-12932189.jpg)
+{{< img src="the-studio-albums-collection-12932189.jpg" title="The Studio Albums Collection by Creedence Clearwater Revival" >}}
 
 <!-- section break -->
 

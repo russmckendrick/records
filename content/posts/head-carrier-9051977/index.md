@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Head Carrier by Pixies](head-carrier-9051977.jpg)
+{{< img src="head-carrier-9051977.jpg" title="Head Carrier by Pixies" >}}
 
 <!-- section break -->
 

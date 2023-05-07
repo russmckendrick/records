@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 ---
 
-![Faith by George Michael](faith-9787338.jpg)
+{{< img src="faith-9787338.jpg" title="Faith by George Michael" >}}
 
 <!-- section break -->
 

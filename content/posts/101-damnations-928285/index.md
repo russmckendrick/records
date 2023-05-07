@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![101 Damnations by Carter The Unstoppable Sex Machine](101-damnations-928285.jpg)
+{{< img src="101-damnations-928285.jpg" title="101 Damnations by Carter The Unstoppable Sex Machine" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Everytime a Church Bell Rings
-{{< youtube id="FxAJCajSgDA" title="Everytime a Church Bell Rings" >}}<br>
+### The Taking of Peckham 123
+{{< youtube id="ZSQARwxri9k" title="The Taking of Peckham 123" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["Indie Rock"]
 - [The Road to Domestos](https://www.youtube.com/watch?v=cJm7lS-iBj0)
 - [Carter USM - An All American National Sport (hi-fi version)](https://www.youtube.com/watch?v=jmzvu8jER_M)
 - [Carter USM - A Perfect Day To Drop The Bomb](https://www.youtube.com/watch?v=onjtaqrXtTI)
+- [Everytime a Church Bell Rings](https://www.youtube.com/watch?v=FxAJCajSgDA)
 - [Carter USM- The Taking Of Peckham 123.](https://www.youtube.com/watch?v=0BkPHPn0YpM)
-- [The Taking of Peckham 123](https://www.youtube.com/watch?v=ZSQARwxri9k)
 - [Carter USM -  Sheriff Fatman](https://www.youtube.com/watch?v=US9nVBuDHhg)
 - [An All American National Sport](https://www.youtube.com/watch?v=sY_NF9XyXLA)
 - [G. I. Blues](https://www.youtube.com/watch?v=eXsW3lw2ptI)

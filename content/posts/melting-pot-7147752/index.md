@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Melting Pot by The Charlatans](melting-pot-7147752.jpg)
+{{< img src="melting-pot-7147752.jpg" title="Melting Pot by The Charlatans" >}}
 
 <!-- section break -->
 
@@ -45,16 +45,16 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Charlatans: Melting Pot (Promo Videos)
-{{< youtube id="4HJ2rnGmvII" title="The Charlatans: Melting Pot (Promo Videos)" >}}<br>
+### One To Another
+{{< youtube id="OxftZoWaWpY" title="One To Another" >}}<br>
 
 ### More Videos
 
 - [The Charlatans - The Only One I Know](https://www.youtube.com/watch?v=0RJwW77Lsj8)
 - [The Charlatans - Patrol (Chemical Brothers Mix)](https://www.youtube.com/watch?v=l30MOxYHLw0)
+- [The Charlatans: Melting Pot (Promo Videos)](https://www.youtube.com/watch?v=4HJ2rnGmvII)
 - [The Charlatans - Opportunity Three](https://www.youtube.com/watch?v=1MtRmr1Pe3Q)
 - [The Charlatans - Melting Pot Neon](https://www.youtube.com/watch?v=mXSGtWAilpg)
-- [One To Another](https://www.youtube.com/watch?v=OxftZoWaWpY)
 - [Jesus Hairdo](https://www.youtube.com/watch?v=KxHlEKc5eoU)
 - [The Only One I Know (Remastered)](https://www.youtube.com/watch?v=srBb61GnTC4)
 - [Weirdo](https://www.youtube.com/watch?v=aE1Ns5-KRkQ)

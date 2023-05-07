@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Classic Rock"]
 ---
 
-![Green River by Creedence Clearwater Revival](green-river-1582177.jpg)
+{{< img src="green-river-1582177.jpg" title="Green River by Creedence Clearwater Revival" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Southern Rock", "Classic Rock"]
 
 
 ## Videos
-### Green River
-{{< youtube id="w0VI1zByJ3s" title="Green River" >}}<br>
+### Tombstone Shadow
+{{< youtube id="cUArM2kAZoM" title="Tombstone Shadow" >}}<br>
 
 ### More Videos
 
+- [Green River](https://www.youtube.com/watch?v=w0VI1zByJ3s)
 - [Creedence Clearwater Revival - Green River (Official Lyric Video)](https://www.youtube.com/watch?v=L5V9nK7-OkM)
 - [Commotion](https://www.youtube.com/watch?v=WCBcI5g3KbY)
-- [Tombstone Shadow](https://www.youtube.com/watch?v=cUArM2kAZoM)
 - [Wrote A Song For Everyone](https://www.youtube.com/watch?v=2xzYM2N3WlQ)
 - [Bad Moon Rising](https://www.youtube.com/watch?v=SuRCxakQt-c)
 - [Lodi](https://www.youtube.com/watch?v=H-Oiz8QaH2M)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Power Windows by Rush](power-windows-7855875.jpg)
+{{< img src="power-windows-7855875.jpg" title="Power Windows by Rush" >}}
 
 <!-- section break -->
 

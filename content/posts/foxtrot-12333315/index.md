@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Foxtrot by Genesis](foxtrot-12333315.jpg)
+{{< img src="foxtrot-12333315.jpg" title="Foxtrot by Genesis" >}}
 
 <!-- section break -->
 

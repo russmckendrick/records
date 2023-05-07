@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Symbiosis by Nordic Giants](symbiosis-22298998.jpg)
+{{< img src="symbiosis-22298998.jpg" title="Symbiosis by Nordic Giants" >}}
 
 <!-- section break -->
 

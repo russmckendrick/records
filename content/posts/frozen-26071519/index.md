@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ---
 
-![Frozen by Curve](frozen-26071519.jpg)
+{{< img src="frozen-26071519.jpg" title="Frozen by Curve" >}}
 
 <!-- section break -->
 

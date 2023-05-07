@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
 
-![Peaches: The Very Best Of The Stranglers by The Stranglers](peaches-the-very-best-of-the-stranglers-16274027.jpg)
+{{< img src="peaches-the-very-best-of-the-stranglers-16274027.jpg" title="Peaches: The Very Best Of The Stranglers by The Stranglers" >}}
 
 <!-- section break -->
 
@@ -48,19 +48,19 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 
 
 ## Videos
-### The Stranglers - No More Heroes
-{{< youtube id="2B4bsqYxwo0" title="The Stranglers - No More Heroes" >}}<br>
+### The Stranglers - Strange Little Girl (TOTP 1982)
+{{< youtube id="k3CAuhVxVW8" title="The Stranglers - Strange Little Girl (TOTP 1982)" >}}<br>
 
 ### More Videos
 
 - [[Get A] Grip (On Yourself) (Grip '89 Remix)](https://www.youtube.com/watch?v=ckbONnCzZlU)
 - [Always The Sun (Sunny Side Up Mix)](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
+- [The Stranglers - No More Heroes](https://www.youtube.com/watch?v=2B4bsqYxwo0)
 - [The Stranglers - European Female (TOTP 1983)](https://www.youtube.com/watch?v=HrwJhMhpUHk)
 - [The Stranglers - Golden Brown (Restored Music Video)](https://www.youtube.com/watch?v=z-GUjA67mdc)
 - [The Stranglers - Skin Deep (Official Video)](https://www.youtube.com/watch?v=aw9mEFn38to)
 - [The Stranglers - Peaches](https://www.youtube.com/watch?v=Q04y16woPAI)
 - [The Stranglers - All Day and All of the Night](https://www.youtube.com/watch?v=y6k3tNNRS_I)
-- [The Stranglers - Strange Little Girl (TOTP 1982)](https://www.youtube.com/watch?v=k3CAuhVxVW8)
 - [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
 - [The Stranglers - Always The Sun (Video)](https://www.youtube.com/watch?v=8dEySTzQ6oc)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)

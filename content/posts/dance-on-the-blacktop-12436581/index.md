@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Alternative Rock"]
 ---
 
-![Dance On The Blacktop by Nothing](dance-on-the-blacktop-12436581.jpg)
+{{< img src="dance-on-the-blacktop-12436581.jpg" title="Dance On The Blacktop by Nothing" >}}
 
 <!-- section break -->
 
@@ -34,13 +34,13 @@ styles: ["Shoegaze", "Alternative Rock"]
 
 
 ## Videos
-### NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]
-{{< youtube id="d91cRGR98yI" title="NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]" >}}<br>
+### NOTHING - The Carpenter's Son (Official Audio)
+{{< youtube id="bxQjvOGl9qU" title="NOTHING - The Carpenter's Son (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [NOTHING - Zero Day (Official Music Video)](https://www.youtube.com/watch?v=RJhkZo5OCHE)
-- [NOTHING - The Carpenter's Son (Official Audio)](https://www.youtube.com/watch?v=bxQjvOGl9qU)
+- [NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=d91cRGR98yI)
 - [NOTHING - Heavy Water/I'd Rather Be Sleeping (Grouper Cover)](https://www.youtube.com/watch?v=JysJhkFzMGo)
 
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Penthouse And Pavement by Heaven 17](penthouse-and-pavement-9929529.jpg)
+{{< img src="penthouse-and-pavement-9929529.jpg" title="Penthouse And Pavement by Heaven 17" >}}
 
 <!-- section break -->
 

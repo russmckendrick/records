@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![War Is Over by Von Hertzen Brothers](war-is-over-11111473.jpg)
+{{< img src="war-is-over-11111473.jpg" title="War Is Over by Von Hertzen Brothers" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Dove by Belly](dove-11957072.jpg)
+{{< img src="dove-11957072.jpg" title="Dove by Belly" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Belly - Shiny One
-{{< youtube id="prF1CdzjTZ4" title="Belly - Shiny One" >}}<br>
+### Human Child
+{{< youtube id="rITGW0pKqmk" title="Human Child" >}}<br>
 
 ### More Videos
 
 - [Belly: Mine (Official Video)](https://www.youtube.com/watch?v=PsGgcabXrpg)
-- [Human Child](https://www.youtube.com/watch?v=rITGW0pKqmk)
+- [Belly - Shiny One](https://www.youtube.com/watch?v=prF1CdzjTZ4)
 - [Belly Stars Align (Official Audio)](https://www.youtube.com/watch?v=rgxHiKv25EM)
 
 

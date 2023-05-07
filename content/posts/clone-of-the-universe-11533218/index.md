@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-![Clone Of The Universe by Fu Manchu](clone-of-the-universe-11533218.jpg)
+{{< img src="clone-of-the-universe-11533218.jpg" title="Clone Of The Universe by Fu Manchu" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,12 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Fu Manchu - Intelligent Worship
-{{< youtube id="DXu5YFTVCyc" title="Fu Manchu - Intelligent Worship" >}}<br>
+### Fu Manchu - Don't Panic
+{{< youtube id="AOSkGeSOOz0" title="Fu Manchu - Don't Panic" >}}<br>
 
 ### More Videos
 
-- [Fu Manchu - Don't Panic](https://www.youtube.com/watch?v=AOSkGeSOOz0)
+- [Fu Manchu - Intelligent Worship](https://www.youtube.com/watch?v=DXu5YFTVCyc)
 - [Fu Manchu - Slower Than Light](https://www.youtube.com/watch?v=d2FRV4wcyDw)
 
 

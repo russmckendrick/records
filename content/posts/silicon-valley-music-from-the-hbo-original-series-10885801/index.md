@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Stage & Screen"]
 styles: ["Hip Hop", "Trap", "Soundtrack"]
 ---
 
-![Silicon Valley (Music From The HBO Original Series) by Various](silicon-valley-music-from-the-hbo-original-series-10885801.jpg)
+{{< img src="silicon-valley-music-from-the-hbo-original-series-10885801.jpg" title="Silicon Valley (Music From The HBO Original Series) by Various" >}}
 
 <!-- section break -->
 
@@ -43,17 +43,17 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 
 
 ## Videos
-### BLOWN - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]
-{{< youtube id="VGYkoXfF-N8" title="BLOWN - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]" >}}<br>
+### Kool Aid - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]
+{{< youtube id="VqQ4aR9hHHs" title="Kool Aid - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]" >}}<br>
 
 ### More Videos
 
 - [Wu-Tang Clan - Don't Stop (Explicit) 2017](https://www.youtube.com/watch?v=AohtHrfgiBo)
 - [Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=HL_fmIvfyCM)
-- [Kool Aid - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
 - [Phantom (Redux) - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
 - [Fun House Pregnant Boy Feat. OG Swaggerdick & Grip Plyaz (Silicon Valley: The Soundtrack)](https://www.youtube.com/watch?v=c9FcwF66No8)
 - [You Came To Party - Too $hort x Meter Mobb (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
+- [BLOWN - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
 - [Problem Child - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
 - [The Mule - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
 - [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)

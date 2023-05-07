@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness by Coheed And Cambria](good-apollo-i-m-burning-star-iv-volume-one-from-fear-through-the-eyes-of-madness-10170395.jpg)
+{{< img src="good-apollo-i-m-burning-star-iv-volume-one-from-fear-through-the-eyes-of-madness-10170395.jpg" title="Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness by Coheed And Cambria" >}}
 
 <!-- section break -->
 

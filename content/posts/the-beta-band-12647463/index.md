@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 ---
 
-![The Beta Band by The Beta Band](the-beta-band-12647463.jpg)
+{{< img src="the-beta-band-12647463.jpg" title="The Beta Band by The Beta Band" >}}
 
 <!-- section break -->
 

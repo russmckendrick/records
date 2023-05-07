@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![The Fidelity Wars by Hefner](the-fidelity-wars-14430353.jpg)
+{{< img src="the-fidelity-wars-14430353.jpg" title="The Fidelity Wars by Hefner" >}}
 
 <!-- section break -->
 

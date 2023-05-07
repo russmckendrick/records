@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Pale Communion by Opeth](pale-communion-6008386.jpg)
+{{< img src="pale-communion-6008386.jpg" title="Pale Communion by Opeth" >}}
 
 <!-- section break -->
 
@@ -36,17 +36,17 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Opeth - Eternal Rains Will Come (Audio)
-{{< youtube id="CoW3Sywb5xQ" title="Opeth - Eternal Rains Will Come (Audio)" >}}<br>
+### opeht pale communion 2014 full album
+{{< youtube id="EgfeVZOItlQ" title="opeht pale communion 2014 full album" >}}<br>
 
 ### More Videos
 
+- [Opeth - Eternal Rains Will Come (Audio)](https://www.youtube.com/watch?v=CoW3Sywb5xQ)
 - [Opeth - Moon Above, Sun Below (Audio)](https://www.youtube.com/watch?v=a3sYPX17cFk)
 - [Opeth - Goblin (Audio)](https://www.youtube.com/watch?v=tHkb8u0NedQ)
 - [Opeth - Elysian Woes (Audio)](https://www.youtube.com/watch?v=_6k--wHwV5A)
 - [Opeth - River (Audio)](https://www.youtube.com/watch?v=v-sGhzHzLSE)
 - [Opeth - Voice of Treason (Audio)](https://www.youtube.com/watch?v=iO4-mXMbiy8)
-- [opeht pale communion 2014 full album](https://www.youtube.com/watch?v=EgfeVZOItlQ)
 - [Opeth - Faith In Others (Audio)](https://www.youtube.com/watch?v=wFSRCZN843c)
 - [Unboxing Opeth - Pale Communion 2014 Deluxe Edition](https://www.youtube.com/watch?v=cuAd_0CXfvc)
 - [Opeth - Cusp Of Eternity (Audio)](https://www.youtube.com/watch?v=JHq9yMXw3iA)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ---
 
-![Ghost In The Shell (Original Soundtrack) by Kenji Kawai](ghost-in-the-shell-original-soundtrack-10522236.jpg)
+{{< img src="ghost-in-the-shell-original-soundtrack-10522236.jpg" title="Ghost In The Shell (Original Soundtrack) by Kenji Kawai" >}}
 
 <!-- section break -->
 

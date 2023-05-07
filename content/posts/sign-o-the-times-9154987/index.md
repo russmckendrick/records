@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 ---
 
-![Sign O The Times by Prince](sign-o-the-times-9154987.jpg)
+{{< img src="sign-o-the-times-9154987.jpg" title="Sign O The Times by Prince" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 
 
 ## Videos
-### It (2020 Remaster)
-{{< youtube id="3O5rUawh7nE" title="It (2020 Remaster)" >}}<br>
+### I Need A Man (2020 Remaster)
+{{< youtube id="wAxs80qKgYY" title="I Need A Man (2020 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -57,7 +57,7 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 - [Housequake (2020 Remaster)](https://www.youtube.com/watch?v=t3sBMaDMCrk)
 - [Prince - U Got The Look (Official Music Video)](https://www.youtube.com/watch?v=_jCuroTbqBI)
 - [The Ballad Of Dorothy Parker (2020 Remaster)](https://www.youtube.com/watch?v=Zf59l6Mzcyw)
-- [I Need A Man (2020 Remaster)](https://www.youtube.com/watch?v=wAxs80qKgYY)
+- [It (2020 Remaster)](https://www.youtube.com/watch?v=3O5rUawh7nE)
 - [Starfish And Coffee (2020 Remaster)](https://www.youtube.com/watch?v=k2bVblHPLwE)
 - [Slow Love (2020 Remaster)](https://www.youtube.com/watch?v=6CljMchARyg)
 - [Hot Thing (2020 Remaster)](https://www.youtube.com/watch?v=jyTrLiL9E-A)

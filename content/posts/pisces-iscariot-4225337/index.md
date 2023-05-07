@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Pisces Iscariot by The Smashing Pumpkins](pisces-iscariot-4225337.jpg)
+{{< img src="pisces-iscariot-4225337.jpg" title="Pisces Iscariot by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

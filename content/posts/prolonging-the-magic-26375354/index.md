@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Prolonging The Magic by Cake](prolonging-the-magic-26375354.jpg)
+{{< img src="prolonging-the-magic-26375354.jpg" title="Prolonging The Magic by Cake" >}}
 
 <!-- section break -->
 

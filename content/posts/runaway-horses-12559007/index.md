@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-![Runaway Horses by Belinda Carlisle](runaway-horses-12559007.jpg)
+{{< img src="runaway-horses-12559007.jpg" title="Runaway Horses by Belinda Carlisle" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Summer Rain
-{{< youtube id="H25HYjXMB8g" title="Summer Rain" >}}<br>
+### Vision Of You
+{{< youtube id="q1xXNddPmnk" title="Vision Of You" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Soft Rock", "Pop Rock"]
 - [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=SheKvJKtpdU)
 - [Runaway Horses](https://www.youtube.com/watch?v=2vMM5gjqVUA)
 - [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=lLhqsopncHE)
-- [Vision Of You](https://www.youtube.com/watch?v=q1xXNddPmnk)
+- [Summer Rain](https://www.youtube.com/watch?v=H25HYjXMB8g)
 - [La Luna](https://www.youtube.com/watch?v=yE1gIRq7yJw)
 - [[We Want] The Same Thing](https://www.youtube.com/watch?v=WPJRQS189bo)
 - [Deep Deep Ocean](https://www.youtube.com/watch?v=RWJ_sZd9VxM)

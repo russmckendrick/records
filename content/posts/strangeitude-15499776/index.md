@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![Strangeitude by Ozric Tentacles](strangeitude-15499776.jpg)
+{{< img src="strangeitude-15499776.jpg" title="Strangeitude by Ozric Tentacles" >}}
 
 <!-- section break -->
 
@@ -34,16 +34,16 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Space Between Your Ears (2020 Ed Wynne Remaster)
-{{< youtube id="kDtVjThwXGc" title="Space Between Your Ears (2020 Ed Wynne Remaster)" >}}<br>
+### Saucers (2020 Ed Wynne Remaster)
+{{< youtube id="KWKFUvdWZT0" title="Saucers (2020 Ed Wynne Remaster)" >}}<br>
 
 ### More Videos
 
 - [White Rhino Tea (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=NwhHFbeMILQ)
 - [Sploosh! (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=8nHntiMfapA)
-- [Saucers (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=KWKFUvdWZT0)
 - [Strangeitude (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=ZxLG8gvkqYk)
 - [Bizarre Bazaar (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=20zYKVTYMHo)
+- [Space Between Your Ears (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=kDtVjThwXGc)
 
 
 ## Release Information

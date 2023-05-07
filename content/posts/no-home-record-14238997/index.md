@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental"]
 ---
 
-![No Home Record by Kim Gordon](no-home-record-14238997.jpg)
+{{< img src="no-home-record-14238997.jpg" title="No Home Record by Kim Gordon" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Indie Rock", "Experimental"]
 
 
 ## Videos
-### Kim Gordon - Air BnB
-{{< youtube id="_Jhhzy7vr8A" title="Kim Gordon - Air BnB" >}}<br>
+### Don't Play It
+{{< youtube id="Hitjbwqz4iY" title="Don't Play It" >}}<br>
 
 ### More Videos
 
 - [Kim Gordon - Sketch Artist (Official Music Video)](https://www.youtube.com/watch?v=TJl_9a6dp4g)
 - [Kim Gordon - Paprika Pony](https://www.youtube.com/watch?v=H8bGYENQjGM)
-- [Don't Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
+- [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
 - [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
 - [Cookie Butter](https://www.youtube.com/watch?v=YvwgSnIyJdE)
 - [Kim Gordon - Hungry Baby (Official Video)](https://www.youtube.com/watch?v=paKCImP-IOk)

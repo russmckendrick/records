@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-![The Cars by The Cars](the-cars-1165287.jpg)
+{{< img src="the-cars-1165287.jpg" title="The Cars by The Cars" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### My Best Friend's Girl
-{{< youtube id="j-dfrHkaXuE" title="My Best Friend's Girl" >}}<br>
+### Just What I Needed
+{{< youtube id="naOzftxOKig" title="Just What I Needed" >}}<br>
 
 ### More Videos
 
 - [Good Times Roll](https://www.youtube.com/watch?v=Ki6xHnDAwHw)
-- [Just What I Needed](https://www.youtube.com/watch?v=naOzftxOKig)
+- [My Best Friend's Girl](https://www.youtube.com/watch?v=j-dfrHkaXuE)
 - [I'm in Touch with Your World](https://www.youtube.com/watch?v=GMYzaqupprQ)
 - [Don't Cha Stop](https://www.youtube.com/watch?v=pg9MIstRhko)
 - [You're All I've Got Tonight](https://www.youtube.com/watch?v=UZ1VZLMJ8D8)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Drum n Bass", "Pop Rock"]
 ---
 
-![Earthling by David Bowie](earthling-7781493.jpg)
+{{< img src="earthling-7781493.jpg" title="Earthling by David Bowie" >}}
 
 <!-- section break -->
 

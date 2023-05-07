@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Elastica by Elastica](elastica-11175695.jpg)
+{{< img src="elastica-11175695.jpg" title="Elastica by Elastica" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Car Song // Elastica
-{{< youtube id="9tX7QnheAPA" title="Car Song // Elastica" >}}<br>
+### Elastica – Connection
+{{< youtube id="iKoEIzxMxfQ" title="Elastica – Connection" >}}<br>
 
 ### More Videos
 
@@ -54,13 +54,13 @@ styles: ["Alternative Rock", "Britpop"]
 - [Elastica - Connection (Official Music Video)](https://www.youtube.com/watch?v=ilKcXIFi-Rc)
 - [Connection // Elastica](https://www.youtube.com/watch?v=5nLLofBZr3o)
 - [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
-- [Elastica – Connection](https://www.youtube.com/watch?v=iKoEIzxMxfQ)
 - [Elastica - Stutter](https://www.youtube.com/watch?v=0ie4x8hWYYE)
 - [2:1](https://www.youtube.com/watch?v=5iE5vu1Mj2g)
 - [Elastica - Car Song](https://www.youtube.com/watch?v=djjw3BKUV28)
 - [Vaseline](https://www.youtube.com/watch?v=GjwQ811cBL8)
 - [Annie // Elastica](https://www.youtube.com/watch?v=L5FDA8sp2bU)
 - [Stutter // Elastica](https://www.youtube.com/watch?v=Lex-7TJN5Qk)
+- [Car Song // Elastica](https://www.youtube.com/watch?v=9tX7QnheAPA)
 
 
 ## Release Information

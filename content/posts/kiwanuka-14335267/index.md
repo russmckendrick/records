@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
-![Kiwanuka by Michael Kiwanuka](kiwanuka-14335267.jpg)
+{{< img src="kiwanuka-14335267.jpg" title="Kiwanuka by Michael Kiwanuka" >}}
 
 <!-- section break -->
 
@@ -41,17 +41,17 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 
 
 ## Videos
-### Rolling
-{{< youtube id="WeRQ_Essido" title="Rolling" >}}<br>
+### Piano Joint (This Kind Of Love)
+{{< youtube id="0PVN31NuYNo" title="Piano Joint (This Kind Of Love)" >}}<br>
 
 ### More Videos
 
 - [Michael Kiwanuka  - You Ain't The Problem](https://www.youtube.com/watch?v=APBqmPQcRK8)
 - [Michael Kiwanuka - You Ain't The Problem (Lyric Video)](https://www.youtube.com/watch?v=2yEeF65NnyI)
 - [Michael Kiwanuka - Final Days](https://www.youtube.com/watch?v=9Z8lLMNSwLM)
+- [Rolling](https://www.youtube.com/watch?v=WeRQ_Essido)
 - [I've Been Dazed](https://www.youtube.com/watch?v=HEqeRL4LRuE)
 - [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=NPOyFQQvXJ4)
-- [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=0PVN31NuYNo)
 - [Another Human Being](https://www.youtube.com/watch?v=1j1vgmZAnrA)
 - [Living In Denial](https://www.youtube.com/watch?v=YM5U3h8uITM)
 - [Hero (Intro)](https://www.youtube.com/watch?v=z7eYrvS-OE8)

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
 
-![How Big The Space by Steven Wilson](how-big-the-space-11863593.jpg)
+{{< img src="how-big-the-space-11863593.jpg" title="How Big The Space by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -28,12 +28,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### How Big the Space [Instrumental] - Steven Wilson (RSD 2018)
-{{< youtube id="2TlYJ1Dgfpw" title="How Big the Space [Instrumental] - Steven Wilson (RSD 2018)" >}}<br>
+### How Big the Space - Steven Wilson - (RSD 2018)
+{{< youtube id="udJsxISenfA" title="How Big the Space - Steven Wilson - (RSD 2018)" >}}<br>
 
 ### More Videos
 
-- [How Big the Space - Steven Wilson - (RSD 2018)](https://www.youtube.com/watch?v=udJsxISenfA)
+- [How Big the Space [Instrumental] - Steven Wilson (RSD 2018)](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
 - [People Who Eat Darkness [Ninet Edit] - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
 
 

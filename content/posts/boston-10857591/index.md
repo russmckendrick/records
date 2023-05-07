@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Boston by Boston](boston-10857591.jpg)
+{{< img src="boston-10857591.jpg" title="Boston by Boston" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Something About You
-{{< youtube id="osG16m9lphY" title="Something About You" >}}<br>
+### Smokin'
+{{< youtube id="ZkbbQsh1sZk" title="Smokin'" >}}<br>
 
 ### More Videos
 
@@ -50,10 +50,10 @@ styles: ["Hard Rock"]
 - [Boston - Rock & Roll Band (Official Audio)](https://www.youtube.com/watch?v=6bhFmtwio8Y)
 - [Rock & Roll Band](https://www.youtube.com/watch?v=n-pC3ncVjEw)
 - [Boston - Peace of Mind (Official Audio)](https://www.youtube.com/watch?v=edwk-8KJ1Js)
-- [Smokin'](https://www.youtube.com/watch?v=ZkbbQsh1sZk)
 - [Boston - More Than a Feeling (Official Video)](https://www.youtube.com/watch?v=t4QK8RxCAwo)
 - [Hitch a Ride](https://www.youtube.com/watch?v=CfSOxvgVfXk)
 - [Boston - Foreplay / Long Time (Official Audio)](https://www.youtube.com/watch?v=TnwqUEelQjE)
+- [Something About You](https://www.youtube.com/watch?v=osG16m9lphY)
 - [Boston : Boston Greatest Hits - The Best Songs Of Boston](https://www.youtube.com/watch?v=awjBLm41xJI)
 - [Let Me Take You Home Tonight](https://www.youtube.com/watch?v=1ZQbJ73GgZ8)
 - [Boston - Boston {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=rmH56P-QDo0)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Greatest Hits by Guns N' Roses](greatest-hits-15959531.jpg)
+{{< img src="greatest-hits-15959531.jpg" title="Greatest Hits by Guns N' Roses" >}}
 
 <!-- section break -->
 

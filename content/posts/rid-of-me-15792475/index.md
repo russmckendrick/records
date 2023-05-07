@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Rid Of Me by PJ Harvey](rid-of-me-15792475.jpg)
+{{< img src="rid-of-me-15792475.jpg" title="Rid Of Me by PJ Harvey" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Missed
-{{< youtube id="U7ezOM1zvo4" title="Missed" >}}<br>
+### PJ Harvey - 50 Ft Queenie
+{{< youtube id="jKLiU7Hq93w" title="PJ Harvey - 50 Ft Queenie" >}}<br>
 
 ### More Videos
 
 - [PJ Harvey - Man-Size](https://www.youtube.com/watch?v=WuJE40OBt48)
 - [Rid Of Me](https://www.youtube.com/watch?v=8PlaNe3mXl8)
-- [PJ Harvey - 50 Ft Queenie](https://www.youtube.com/watch?v=jKLiU7Hq93w)
+- [Missed](https://www.youtube.com/watch?v=U7ezOM1zvo4)
 - [Legs](https://www.youtube.com/watch?v=n60TTqe9fJ8)
 - [Rub 'Til It Bleeds](https://www.youtube.com/watch?v=a5x8p22UU_4)
 - [Hook](https://www.youtube.com/watch?v=NuxosL6KKeA)

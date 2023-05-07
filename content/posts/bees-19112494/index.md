@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Bees by Belly](bees-19112494.jpg)
+{{< img src="bees-19112494.jpg" title="Bees by Belly" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-![Stain by Living Colour](stain-17161930.jpg)
+{{< img src="stain-17161930.jpg" title="Stain by Living Colour" >}}
 
 <!-- section break -->
 

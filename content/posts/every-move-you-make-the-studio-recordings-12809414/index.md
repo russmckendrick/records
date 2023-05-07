@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: []
 ---
 
-![Every Move You Make (The Studio Recordings) by The Police](every-move-you-make-the-studio-recordings-12809414.jpg)
+{{< img src="every-move-you-make-the-studio-recordings-12809414.jpg" title="Every Move You Make (The Studio Recordings) by The Police" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![The Joshua Tree by U2](the-joshua-tree-10391869.jpg)
+{{< img src="the-joshua-tree-10391869.jpg" title="The Joshua Tree by U2" >}}
 
 <!-- section break -->
 

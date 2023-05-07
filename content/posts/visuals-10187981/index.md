@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
 
-![Visuals by Mew](visuals-10187981.jpg)
+{{< img src="visuals-10187981.jpg" title="Visuals by Mew" >}}
 
 <!-- section break -->
 

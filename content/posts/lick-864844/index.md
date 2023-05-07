@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Indie Rock"]
 ---
 
-![Lick by The Lemonheads](lick-864844.jpg)
+{{< img src="lick-864844.jpg" title="Lick by The Lemonheads" >}}
 
 <!-- section break -->
 
@@ -39,19 +39,19 @@ styles: ["Punk", "Indie Rock"]
 
 
 ## Videos
-### Mallo Cup
-{{< youtube id="TceevdVajLI" title="Mallo Cup" >}}<br>
+### Anyway
+{{< youtube id="0UWHmnXXoXA" title="Anyway" >}}<br>
 
 ### More Videos
 
 - [The Lemonheads   Lick Full Album](https://www.youtube.com/watch?v=Oyr-I8wU9kA)
+- [Mallo Cup](https://www.youtube.com/watch?v=TceevdVajLI)
 - [A Circle Of One](https://www.youtube.com/watch?v=auZhrtLScbQ)
 - [Luka](https://www.youtube.com/watch?v=s34hD5fu04w)
 - [Ever](https://www.youtube.com/watch?v=2wgam5X4FTM)
 - [Cazzo di Ferro- The Lemonheads](https://www.youtube.com/watch?v=M0WQ4GmLsO0)
 - [Sad Girl](https://www.youtube.com/watch?v=bn1uvX4L7CU)
 - [The Lemonheads - Anyway](https://www.youtube.com/watch?v=U8qakIRi6RE)
-- [Anyway](https://www.youtube.com/watch?v=0UWHmnXXoXA)
 - [I Am A Rabbit](https://www.youtube.com/watch?v=fKtC2aP7-Cc)
 - [7 Powers](https://www.youtube.com/watch?v=XkltxOJ6Cz8)
 - [Glad I Dont Know](https://www.youtube.com/watch?v=ux4Uo9uCrPU)

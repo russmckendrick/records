@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Contemporary R&B", "Pop Rock", "Funk", "Soul"]
 ---
 
-![Stand For Myself by Yola](stand-for-myself-19686967.jpg)
+{{< img src="stand-for-myself-19686967.jpg" title="Stand For Myself by Yola" >}}
 
 <!-- section break -->
 

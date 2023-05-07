@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-![Star Wars: The Force Awakens (Original Motion Picture Soundtrack) by John Williams](star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358.jpg)
+{{< img src="star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358.jpg" title="Star Wars: The Force Awakens (Original Motion Picture Soundtrack) by John Williams" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### The Abduction
-{{< youtube id="qregcd04S8w" title="The Abduction" >}}<br>
+### The Starkiller
+{{< youtube id="pdEv2Bw42u0" title="The Starkiller" >}}<br>
 
 ### More Videos
 
@@ -61,7 +61,7 @@ styles: ["Soundtrack", "Score"]
 - [The Starkiller](https://www.youtube.com/watch?v=Mr45yw5G1oc)
 - [On the Inside](https://www.youtube.com/watch?v=2UfY_noVmLw)
 - [March of the Resistance](https://www.youtube.com/watch?v=HX6Bi7Yr1tU)
-- [The Starkiller](https://www.youtube.com/watch?v=pdEv2Bw42u0)
+- [The Abduction](https://www.youtube.com/watch?v=qregcd04S8w)
 
 
 ## Release Information

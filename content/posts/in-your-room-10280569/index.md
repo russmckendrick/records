@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![In Your Room by Anneke van Giersbergen](in-your-room-10280569.jpg)
+{{< img src="in-your-room-10280569.jpg" title="In Your Room by Anneke van Giersbergen" >}}
 
 <!-- section break -->
 

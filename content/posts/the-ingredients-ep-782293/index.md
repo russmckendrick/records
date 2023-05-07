@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Ingredients EP by Ned's Atomic Dustbin](the-ingredients-ep-782293.jpg)
+{{< img src="the-ingredients-ep-782293.jpg" title="The Ingredients EP by Ned's Atomic Dustbin" >}}
 
 <!-- section break -->
 

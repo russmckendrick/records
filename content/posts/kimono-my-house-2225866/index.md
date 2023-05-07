@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Kimono My House by Sparks](kimono-my-house-2225866.jpg)
+{{< img src="kimono-my-house-2225866.jpg" title="Kimono My House by Sparks" >}}
 
 <!-- section break -->
 
@@ -38,19 +38,19 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Amateur Hour
-{{< youtube id="3YBmS5oaNwU" title="Amateur Hour" >}}<br>
+### In My Family
+{{< youtube id="UymqKMn9tlo" title="In My Family" >}}<br>
 
 ### More Videos
 
 - [This Town Ain't Big Enough For Both Of Us](https://www.youtube.com/watch?v=BI9gOtRMogY)
+- [Amateur Hour](https://www.youtube.com/watch?v=3YBmS5oaNwU)
 - [Falling In Love With Myself Again](https://www.youtube.com/watch?v=jx4ERgegpO8)
 - [Here In Heaven](https://www.youtube.com/watch?v=4Op1tcnSjX4)
 - [Thank God It's Not Christmas](https://www.youtube.com/watch?v=mEBRzrYKifU)
 - [Hasta Manana, Monsieur](https://www.youtube.com/watch?v=KTmFKmwa8bk)
 - [Talent Is An Asset](https://www.youtube.com/watch?v=FzaKJC_4fC0)
 - [Complaints](https://www.youtube.com/watch?v=iofQGkUfASg)
-- [In My Family](https://www.youtube.com/watch?v=UymqKMn9tlo)
 - [Equator](https://www.youtube.com/watch?v=VC9GI5RvRDs)
 
 

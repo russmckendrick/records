@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Post-Punk"]
 ---
 
-![All The Best by Stiff Little Fingers](all-the-best-864069.jpg)
+{{< img src="all-the-best-864069.jpg" title="All The Best by Stiff Little Fingers" >}}
 
 <!-- section break -->
 

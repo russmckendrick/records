@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![1 by The Beatles](1-7790160.jpg)
+{{< img src="1-7790160.jpg" title="1 by The Beatles" >}}
 
 <!-- section break -->
 

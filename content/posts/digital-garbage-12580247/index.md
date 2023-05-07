@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 ---
 
-![Digital Garbage by Mudhoney](digital-garbage-12580247.jpg)
+{{< img src="digital-garbage-12580247.jpg" title="Digital Garbage by Mudhoney" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Mudhoney - Paranoid Core
-{{< youtube id="AtnzoY2RVoA" title="Mudhoney - Paranoid Core" >}}<br>
+### Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]
+{{< youtube id="UNwo0dWvWt4" title="Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=UNwo0dWvWt4)
+- [Mudhoney - Paranoid Core](https://www.youtube.com/watch?v=AtnzoY2RVoA)
 
 
 ## Release Information

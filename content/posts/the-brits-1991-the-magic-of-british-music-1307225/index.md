@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![The Brits 1991 (The Magic Of British Music)  by Various](the-brits-1991-the-magic-of-british-music-1307225.jpg)
+{{< img src="the-brits-1991-the-magic-of-british-music-1307225.jpg" title="The Brits 1991 (The Magic Of British Music)  by Various" >}}
 
 <!-- section break -->
 

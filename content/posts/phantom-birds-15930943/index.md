@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul", "Blues"]
 styles: ["Psychedelic", "Easy Listening"]
 ---
 
-![Phantom Birds by Matt Berry](phantom-birds-15930943.jpg)
+{{< img src="phantom-birds-15930943.jpg" title="Phantom Birds by Matt Berry" >}}
 
 <!-- section break -->
 

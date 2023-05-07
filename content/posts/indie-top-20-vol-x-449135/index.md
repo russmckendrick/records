@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ---
 
-![Indie Top 20 Vol X by Various](indie-top-20-vol-x-449135.jpg)
+{{< img src="indie-top-20-vol-x-449135.jpg" title="Indie Top 20 Vol X by Various" >}}
 
 <!-- section break -->
 
@@ -45,8 +45,8 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Only Love Can Break Your Heart - Saint Etienne
-{{< youtube id="vZAajrxvDs4" title="Only Love Can Break Your Heart - Saint Etienne" >}}<br>
+### Inspiral Carpets - She comes in the fall
+{{< youtube id="_GnHkfGgEQM" title="Inspiral Carpets - She comes in the fall" >}}<br>
 
 ### More Videos
 
@@ -57,9 +57,9 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 - [Renegade Soundwave - Biting My Nails (Bassnumb Chapter)](https://www.youtube.com/watch?v=z7_yhgJ3opc)
 - [Flowered Up - It's On](https://www.youtube.com/watch?v=fGPTVRGqfeo)
 - [The Field Mice - Triangle (Full Version)](https://www.youtube.com/watch?v=Ql76Q0nSiyY)
+- [Only Love Can Break Your Heart - Saint Etienne](https://www.youtube.com/watch?v=vZAajrxvDs4)
 - [Mock Turtles - Lay Me Down](https://www.youtube.com/watch?v=odVnozap64M)
 - [Spin Scratches in the Sand](https://www.youtube.com/watch?v=tX0V_Dfz9Aw)
-- [Inspiral Carpets - She comes in the fall](https://www.youtube.com/watch?v=_GnHkfGgEQM)
 - [The Charlatans - The Only One I Know](https://www.youtube.com/watch?v=0RJwW77Lsj8)
 - [Waiting For The Angels - The Darkside](https://www.youtube.com/watch?v=tCA6lHY523c)
 - [Spiritualized Anyway That You Want Me](https://www.youtube.com/watch?v=YleJPoKBqrw)

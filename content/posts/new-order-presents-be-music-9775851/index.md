@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 ---
 
-![New Order Presents Be Music by Various](new-order-presents-be-music-9775851.jpg)
+{{< img src="new-order-presents-be-music-9775851.jpg" title="New Order Presents Be Music by Various" >}}
 
 <!-- section break -->
 

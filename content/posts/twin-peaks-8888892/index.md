@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Ambient"]
 ---
 
-![Twin Peaks by Angelo Badalamenti](twin-peaks-8888892.jpg)
+{{< img src="twin-peaks-8888892.jpg" title="Twin Peaks by Angelo Badalamenti" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Soundtrack", "Score", "Ambient"]
 
 
 ## Videos
-### Dance of the Dream Man (Instrumental)
-{{< youtube id="kBn_lQBh9JA" title="Dance of the Dream Man (Instrumental)" >}}<br>
+### Into the Night
+{{< youtube id="euq0sKwbDTg" title="Into the Night" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Soundtrack", "Score", "Ambient"]
 - [The Nightingale](https://www.youtube.com/watch?v=BzImHGz4R0M)
 - [Freshly Squeezed (Instrumental)](https://www.youtube.com/watch?v=bc-Prdyp9LY)
 - [The Bookhouse Boys (Instrumental)](https://www.youtube.com/watch?v=rQrVeoiebWs)
-- [Into the Night](https://www.youtube.com/watch?v=euq0sKwbDTg)
 - [Night Life in Twin Peaks (Instrumental)](https://www.youtube.com/watch?v=xgQ418SHXXg)
+- [Dance of the Dream Man (Instrumental)](https://www.youtube.com/watch?v=kBn_lQBh9JA)
 - [Love Theme from Twin Peaks (Instrumental)](https://www.youtube.com/watch?v=JwHwyejd-vk)
 - [Falling](https://www.youtube.com/watch?v=KkR6Jd0Agi4)
 

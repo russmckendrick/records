@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro", "Hip Hop", "Pop Rock", "Downtempo"]
 ---
 
-![Electronic by Various](electronic-14048921.jpg)
+{{< img src="electronic-14048921.jpg" title="Electronic by Various" >}}
 
 <!-- section break -->
 
@@ -58,14 +58,14 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 
 
 ## Videos
-### Say Hello, Wave Goodbye
-{{< youtube id="1G6SuujVCtk" title="Say Hello, Wave Goodbye" >}}<br>
+### Tears For Fears - Mad World (Official Music Video)
+{{< youtube id="u1ZvPSpLxCg" title="Tears For Fears - Mad World (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Japan - Quiet Life](https://www.youtube.com/watch?v=xhm-EqcPta0)
 - [Visage's 1981 hit Fade to Grey](https://www.youtube.com/watch?v=PeGTJOFSIgU)
-- [Tears For Fears - Mad World (Official Music Video)](https://www.youtube.com/watch?v=u1ZvPSpLxCg)
+- [Say Hello, Wave Goodbye](https://www.youtube.com/watch?v=1G6SuujVCtk)
 - [Simple Minds - Glittering Prize](https://www.youtube.com/watch?v=ucw0twciNGk)
 
 

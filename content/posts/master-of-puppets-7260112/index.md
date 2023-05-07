@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
 
-![Master Of Puppets by Metallica](master-of-puppets-7260112.jpg)
+{{< img src="master-of-puppets-7260112.jpg" title="Master Of Puppets by Metallica" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Belinda by Belinda Carlisle](belinda-18914803.jpg)
+{{< img src="belinda-18914803.jpg" title="Belinda by Belinda Carlisle" >}}
 
 <!-- section break -->
 
@@ -50,13 +50,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Belinda Carlisle - From The Heart (Live at the Roxy '86)
-{{< youtube id="3b86MoMpTwU" title="Belinda Carlisle - From The Heart (Live at the Roxy '86)" >}}<br>
+### Belinda Carlisle - Since You've Gone (Live at the Roxy '86)
+{{< youtube id="CRje6i5v2lU" title="Belinda Carlisle - Since You've Gone (Live at the Roxy '86)" >}}<br>
 
 ### More Videos
 
 - [Belinda Carlisle - Mad About You (Official Video)](https://www.youtube.com/watch?v=XmdtJWmR9zQ)
-- [Belinda Carlisle - Since You've Gone (Live at the Roxy '86)](https://www.youtube.com/watch?v=CRje6i5v2lU)
 - [Belinda Carlisle - I Never Wanted A Rich Man (Live at the Roxy '86)](https://www.youtube.com/watch?v=fiRvcRPZbK0)
 - [Since You've Gone](https://www.youtube.com/watch?v=nevLWv97kg0)
 - [Belinda Carlisle - Gotta Get To You (Live at the Roxy '86)](https://www.youtube.com/watch?v=dPorXIsQn1s)
@@ -64,6 +63,7 @@ styles: ["Pop Rock"]
 - [Belinda Carlisle - We Got The Beat (Live at the Roxy '86)](https://www.youtube.com/watch?v=yM5NQFUYOc0)
 - [Belinda Carlisle - Band of Gold (Live at the Roxy '86)](https://www.youtube.com/watch?v=O6dU8pu4y5E)
 - [Belinda Carlisle - Lust To Love (Live at the Roxy '86)](https://www.youtube.com/watch?v=O9FM-Nq-6BE)
+- [Belinda Carlisle - From The Heart (Live at the Roxy '86)](https://www.youtube.com/watch?v=3b86MoMpTwU)
 - [Belinda Carlisle - Mad About You (Live at the Roxy '86)](https://www.youtube.com/watch?v=8AQaylM3Zpc)
 - [Belinda Carlisle - Head Over Heels (Live at the Roxy '86)](https://www.youtube.com/watch?v=jchMy3mUBao)
 - [Belinda Carlisle - I Feel The Magic (Live at the Roxy '86)](https://www.youtube.com/watch?v=resczd51Q30)

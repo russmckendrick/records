@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![Hand. Cannot. Erase. by Steven Wilson](hand-cannot-erase-6678914.jpg)
+{{< img src="hand-cannot-erase-6678914.jpg" title="Hand. Cannot. Erase. by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Steven Wilson - Perfect Life
-{{< youtube id="gOU_zWdhAoE" title="Steven Wilson - Perfect Life" >}}<br>
+### Steven Wilson - Routine (from Hand. Cannot. Erase.)
+{{< youtube id="sCn-CNanD_g" title="Steven Wilson - Routine (from Hand. Cannot. Erase.)" >}}<br>
 
 ### More Videos
 
-- [Steven Wilson - Routine (from Hand. Cannot. Erase.)](https://www.youtube.com/watch?v=sCn-CNanD_g)
+- [Steven Wilson - Perfect Life](https://www.youtube.com/watch?v=gOU_zWdhAoE)
 
 
 ## Release Information

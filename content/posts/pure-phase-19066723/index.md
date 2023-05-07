@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-![Pure Phase by Spiritualized](pure-phase-19066723.jpg)
+{{< img src="pure-phase-19066723.jpg" title="Pure Phase by Spiritualized" >}}
 
 <!-- section break -->
 

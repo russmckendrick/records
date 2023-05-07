@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-![Please Please Please by James Brown & The Famous Flames](please-please-please-13262472.jpg)
+{{< img src="please-please-please-13262472.jpg" title="Please Please Please by James Brown & The Famous Flames" >}}
 
 <!-- section break -->
 
@@ -43,14 +43,14 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### James Brown- Please, Please, Please
-{{< youtube id="EkVZ3dHh6kg" title="James Brown- Please, Please, Please" >}}<br>
+### James Brown - Please Please Please - 02 - Chonnie-On-Chon
+{{< youtube id="mod74Pe3v04" title="James Brown - Please Please Please - 02 - Chonnie-On-Chon" >}}<br>
 
 ### More Videos
 
+- [James Brown- Please, Please, Please](https://www.youtube.com/watch?v=EkVZ3dHh6kg)
 - [Please, Please, Please](https://www.youtube.com/watch?v=pcYny0JxzNY)
 - [James Brown- Try Me](https://www.youtube.com/watch?v=7J-0GOEZYv0)
-- [James Brown - Please Please Please - 02 - Chonnie-On-Chon](https://www.youtube.com/watch?v=mod74Pe3v04)
 - [Hold My Baby's Hand](https://www.youtube.com/watch?v=_h2vdjyD-JI)
 - [I Feel That Old Feeling Coming On](https://www.youtube.com/watch?v=59l891dpDRw)
 - [Just Won't Do Right](https://www.youtube.com/watch?v=0Jx5b_oMWNg)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-![...And Out Come The Wolves by Rancid](and-out-come-the-wolves-8007348.jpg)
+{{< img src="and-out-come-the-wolves-8007348.jpg" title="...And Out Come The Wolves by Rancid" >}}
 
 <!-- section break -->
 
@@ -47,20 +47,20 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Rancid - Daly City Train (Full Album Stream)
-{{< youtube id="C6VRRaK-Srw" title="Rancid - Daly City Train (Full Album Stream)" >}}<br>
+### Rancid - Roots Radicals [Official Video]
+{{< youtube id="wpzkGQhftMw" title="Rancid - Roots Radicals [Official Video]" >}}<br>
 
 ### More Videos
 
 - [Rancid - Maxwell Murder (Full Album Stream)](https://www.youtube.com/watch?v=XcccqG6-dDg)
 - [Rancid - The 11th Hour (Full Album Stream)](https://www.youtube.com/watch?v=Ly5-hv5-iTU)
-- [Rancid - Roots Radicals [Official Video]](https://www.youtube.com/watch?v=wpzkGQhftMw)
 - [Rancid - Time Bomb](https://www.youtube.com/watch?v=DhKHAopx7D0)
 - [Rancid - Olympia, WA (Full Album Stream)](https://www.youtube.com/watch?v=j5HZ5Bd6DUY)
 - [Rancid - Lock, Step, & Gone (Full Album Stream)](https://www.youtube.com/watch?v=O-vzicKAUTY)
 - [Rancid - Junkie Man (Full Album Stream)](https://www.youtube.com/watch?v=gXXT2KvhwZs)
 - [Rancid - Listed M.I.A. (Full Album Stream)](https://www.youtube.com/watch?v=Azlr8By0lFw)
 - [Rancid - Ruby Soho (Full Album Stream)](https://www.youtube.com/watch?v=58JtsAkRfNs)
+- [Rancid - Daly City Train (Full Album Stream)](https://www.youtube.com/watch?v=C6VRRaK-Srw)
 - [Rancid - Journey To The End Of The East Bay (Full Album Stream)](https://www.youtube.com/watch?v=0DrLoalgK3g)
 - [Rancid - She's Automatic (Full Album Stream)](https://www.youtube.com/watch?v=J3hAkO5aD08)
 - [Rancid - Old Friend (Full Album Stream)](https://www.youtube.com/watch?v=PV1NwV7DrAc)

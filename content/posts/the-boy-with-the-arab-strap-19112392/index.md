@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Boy With The Arab Strap by Belle & Sebastian](the-boy-with-the-arab-strap-19112392.jpg)
+{{< img src="the-boy-with-the-arab-strap-19112392.jpg" title="The Boy With The Arab Strap by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Simple Things
-{{< youtube id="-kfIHFlEUhw" title="Simple Things" >}}<br>
+### Belle and Sebastian - Sleep The Clock Around
+{{< youtube id="3mB8V9Lz7u0" title="Belle and Sebastian - Sleep The Clock Around" >}}<br>
 
 ### More Videos
 
 - [Belle & Sebastian - It Could Have Been A Brilliant Career](https://www.youtube.com/watch?v=qSV4Cs0bwmQ)
-- [Belle and Sebastian - Sleep The Clock Around](https://www.youtube.com/watch?v=3mB8V9Lz7u0)
 - [Belle and Sebastian - Is It Wicked Not To Care?](https://www.youtube.com/watch?v=HL0-0F9BaHQ)
 - [Belle & Sebastian - Ease Your Feet in the Sea](https://www.youtube.com/watch?v=DcZL3e42wEs)
 - [Belle and Sebastian - A Summer Wasting](https://www.youtube.com/watch?v=Z8LmfH2kuB8)
@@ -55,6 +54,7 @@ styles: ["Indie Rock"]
 - [Belle and Sebastian - Dirty Dream #2](https://www.youtube.com/watch?v=uHLOs9QzgCA)
 - [The Boy With The Arab Strap](https://www.youtube.com/watch?v=dN1iW-ee5I8)
 - [Chickfactor](https://www.youtube.com/watch?v=AjnbRPgM6Kk)
+- [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
 - [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
 

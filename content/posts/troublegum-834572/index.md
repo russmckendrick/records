@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Troublegum by Therapy?](troublegum-834572.jpg)
+{{< img src="troublegum-834572.jpg" title="Troublegum by Therapy?" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Screamager
-{{< youtube id="D_m6jtUi9Eo" title="Screamager" >}}<br>
+### Isolation
+{{< youtube id="0D96iERbjDo" title="Isolation" >}}<br>
 
 ### More Videos
 
 - [Therapy? - Screamager](https://www.youtube.com/watch?v=-zZ44S3ZIJM)
 - [Knives](https://www.youtube.com/watch?v=wdSbLWLGgFE)
 - [Therapy? - Nowhere](https://www.youtube.com/watch?v=5z5HJRC9F_0)
+- [Screamager](https://www.youtube.com/watch?v=D_m6jtUi9Eo)
 - [Therapy? - Die Laughing](https://www.youtube.com/watch?v=pAFMRidb4kk)
 - [Hellbelly](https://www.youtube.com/watch?v=rwl7WVXqiS8)
 - [Therapy? - Trigger Inside](https://www.youtube.com/watch?v=-iS7x_U_DdE)
@@ -59,7 +60,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Unbeliever](https://www.youtube.com/watch?v=Eqa-AD8CXFo)
 - [Trigger Inside](https://www.youtube.com/watch?v=sQCDhfTC3SQ)
 - [Lunacy Booth](https://www.youtube.com/watch?v=xqvrLjh5t0U)
-- [Isolation](https://www.youtube.com/watch?v=0D96iERbjDo)
 - [Turn](https://www.youtube.com/watch?v=EEy5OLlZDYY)
 - [Femtex](https://www.youtube.com/watch?v=2C8RqhtefMw)
 - [Unrequited](https://www.youtube.com/watch?v=5675fRD9Blk)

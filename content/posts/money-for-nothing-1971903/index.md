@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "AOR"]
 ---
 
-![Money For Nothing by Dire Straits](money-for-nothing-1971903.jpg)
+{{< img src="money-for-nothing-1971903.jpg" title="Money For Nothing by Dire Straits" >}}
 
 <!-- section break -->
 

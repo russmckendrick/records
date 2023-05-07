@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Acoustic"]
 ---
 
-![This Machine Still Kills Fascists by Dropkick Murphys](this-machine-still-kills-fascists-25013020.jpg)
+{{< img src="this-machine-still-kills-fascists-25013020.jpg" title="This Machine Still Kills Fascists by Dropkick Murphys" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Folk", "Acoustic"]
 
 
 ## Videos
-### Dropkick Murphys Two 6's Upside Down (Music Video)
-{{< youtube id="-5yrNwMWff0" title="Dropkick Murphys Two 6's Upside Down (Music Video)" >}}<br>
+### Never Git Drunk No More (feat. Nikki Lane)
+{{< youtube id="rf63LeDTiOY" title="Never Git Drunk No More (feat. Nikki Lane)" >}}<br>
 
 ### More Videos
 
+- [Dropkick Murphys Two 6's Upside Down (Music Video)](https://www.youtube.com/watch?v=-5yrNwMWff0)
 - [Dropkick Murphys All You Fonies (Music Video)](https://www.youtube.com/watch?v=kM2Cf6h0-rs)
 - [Dig A Hole (feat. Woody Guthrie)](https://www.youtube.com/watch?v=kNaH6VfnB4Y)
-- [Never Git Drunk No More (feat. Nikki Lane)](https://www.youtube.com/watch?v=rf63LeDTiOY)
 - [Talking Jukebox](https://www.youtube.com/watch?v=7Y7u4T37Scs)
 - [Where Trouble Is At](https://www.youtube.com/watch?v=2btpqK2Ss3s)
 - [Cadillac, Cadillac](https://www.youtube.com/watch?v=n_GPhieZfqY)

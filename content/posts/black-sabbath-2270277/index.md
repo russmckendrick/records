@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock"]
 ---
 
-![Black Sabbath by Black Sabbath](black-sabbath-2270277.jpg)
+{{< img src="black-sabbath-2270277.jpg" title="Black Sabbath by Black Sabbath" >}}
 
 <!-- section break -->
 
@@ -33,17 +33,17 @@ styles: ["Hard Rock", "Blues Rock"]
 
 
 ## Videos
-### Black Sabbath  Behind the Wall of Sleep  (Studio Outtake)
-{{< youtube id="wFVj1XSxKVw" title="Black Sabbath  Behind the Wall of Sleep  (Studio Outtake)" >}}<br>
+### Evil Woman, Don't Play Your Games with Me (2009 - Remaster)
+{{< youtube id="1A5a_GlYo0g" title="Evil Woman, Don't Play Your Games with Me (2009 - Remaster)" >}}<br>
 
 ### More Videos
 
 - [BLACK SABBATH - Black Sabbath (Official Video)](https://www.youtube.com/watch?v=0lVdMbUx1_k)
 - [Black Sabbath   First Album   Full Ripped vinyl](https://www.youtube.com/watch?v=tkjqN8j_PSI)
+- [Black Sabbath  Behind the Wall of Sleep  (Studio Outtake)](https://www.youtube.com/watch?v=wFVj1XSxKVw)
 - [Black Sabbath - Black Sabbath | (Black Sabbath, 1970) | [HQ]](https://www.youtube.com/watch?v=ISXnYu-Or4w)
 - [The Wizard (2009 - Remaster)](https://www.youtube.com/watch?v=ftKNGzh7t94)
 - [Behind the Wall of Sleep (2009 - Remaster)](https://www.youtube.com/watch?v=D5Du4BhqE14)
-- [Evil Woman, Don't Play Your Games with Me (2009 - Remaster)](https://www.youtube.com/watch?v=1A5a_GlYo0g)
 - [Sleeping Village (2009 - Remaster)](https://www.youtube.com/watch?v=Za4YaV1x_dw)
 - [Warning (2009 - Remaster)](https://www.youtube.com/watch?v=kkGQBKZpjHA)
 

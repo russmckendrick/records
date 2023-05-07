@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno"]
 ---
 
-![Accelerator by The Future Sound Of London](accelerator-19105981.jpg)
+{{< img src="accelerator-19105981.jpg" title="Accelerator by The Future Sound Of London" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Techno"]
 
 
 ## Videos
-### Papua New Guinea
-{{< youtube id="6QCXpHdW9ak" title="Papua New Guinea" >}}<br>
+### The Future Sound of London - Pulse State
+{{< youtube id="F0RI8L6e7Y0" title="The Future Sound of London - Pulse State" >}}<br>
 
 ### More Videos
 
@@ -54,9 +54,9 @@ styles: ["Techno"]
 - [The Future Sound of London - While Others Cry](https://www.youtube.com/watch?v=6i0LtFyV8KM)
 - [Future Sound Of London - Calcium](https://www.youtube.com/watch?v=a4iyPMWOZkY)
 - [The Future Sound Of London - It's Not My Problem](https://www.youtube.com/watch?v=y2n100-94Uc)
+- [Papua New Guinea](https://www.youtube.com/watch?v=6QCXpHdW9ak)
 - [The Future Sound Of London - Moscow - Video From Rusty's UV Art Display.](https://www.youtube.com/watch?v=_coOzPytQ9w)
 - [The Future Sound of London - 1 in 8](https://www.youtube.com/watch?v=Zu9ak4tCas0)
-- [The Future Sound of London - Pulse State](https://www.youtube.com/watch?v=F0RI8L6e7Y0)
 - [CENTRAL INDUSTRIAL - FSOL](https://www.youtube.com/watch?v=cOYJ7-HaZSQ)
 - [The Future Sound Of London - Calcium - Jumpin' & Pumpin' 1992](https://www.youtube.com/watch?v=-Mo8N_03mq4)
 

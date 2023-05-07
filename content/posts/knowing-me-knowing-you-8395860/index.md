@@ -14,7 +14,7 @@ genres: ["Non-Music"]
 styles: ["Comedy"]
 ---
 
-![Knowing Me Knowing You by Alan Partridge](knowing-me-knowing-you-8395860.jpg)
+{{< img src="knowing-me-knowing-you-8395860.jpg" title="Knowing Me Knowing You by Alan Partridge" >}}
 
 <!-- section break -->
 

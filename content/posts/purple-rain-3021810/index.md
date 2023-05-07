@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Purple Rain by Prince And The Revolution](purple-rain-3021810.jpg)
+{{< img src="purple-rain-3021810.jpg" title="Purple Rain by Prince And The Revolution" >}}
 
 <!-- section break -->
 
@@ -37,18 +37,18 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Prince & The Revolution - Let's Go Crazy (Official Music Video)
-{{< youtube id="aXJhDltzYVQ" title="Prince & The Revolution - Let's Go Crazy (Official Music Video)" >}}<br>
+### Prince - I Would Die 4 U (Live 1984) [Official Video]
+{{< youtube id="SVEFRQavTNI" title="Prince - I Would Die 4 U (Live 1984) [Official Video]" >}}<br>
 
 ### More Videos
 
+- [Prince & The Revolution - Let's Go Crazy (Official Music Video)](https://www.youtube.com/watch?v=aXJhDltzYVQ)
 - [Take Me with U](https://www.youtube.com/watch?v=v5HuK6u1eJw)
 - [The Beautiful Ones](https://www.youtube.com/watch?v=xSJAeWPEWTw)
 - [Prince - Purple Rain (Official Video)](https://www.youtube.com/watch?v=TvnYmWpD_T8)
 - [Prince & The Revolution - Purple Rain (Live 1985) [Official Video]](https://www.youtube.com/watch?v=bm03wqLY3Nc)
 - [Prince & The Revolution - When Doves Cry (Extended Version) (Official Music Video)](https://www.youtube.com/watch?v=IUc0R8bbWQE)
 - [Prince - Purple Rain (Live At Paisley Park, 1999)](https://www.youtube.com/watch?v=ryT-ltTDCko)
-- [Prince - I Would Die 4 U (Live 1984) [Official Video]](https://www.youtube.com/watch?v=SVEFRQavTNI)
 - [I Would Die 4 U](https://www.youtube.com/watch?v=hkNl3pq1twE)
 - [Prince - Take Me With U (Live 1985) [Official Video]](https://www.youtube.com/watch?v=c80mYF6dR7s)
 - [Computer Blue](https://www.youtube.com/watch?v=bt0XdyBgSnE)

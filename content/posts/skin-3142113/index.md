@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Skin by Skin](skin-3142113.jpg)
+{{< img src="skin-3142113.jpg" title="Skin by Skin" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Skin - Money
-{{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}<br>
+### SKIN - Shine Your Light (1993)
+{{< youtube id="jkBX8h5P0No" title="SKIN - Shine Your Light (1993)" >}}<br>
 
 ### More Videos
 
-- [SKIN - Shine Your Light (1993)](https://www.youtube.com/watch?v=jkBX8h5P0No)
+- [Skin - Money](https://www.youtube.com/watch?v=1jYnGlaLf5I)
 
 
 ## Release Information

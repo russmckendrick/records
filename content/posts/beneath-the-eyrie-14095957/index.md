@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Beneath The Eyrie by Pixies](beneath-the-eyrie-14095957.jpg)
+{{< img src="beneath-the-eyrie-14095957.jpg" title="Beneath The Eyrie by Pixies" >}}
 
 <!-- section break -->
 

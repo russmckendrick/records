@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-![Perverse by Jesus Jones](perverse-25037878.jpg)
+{{< img src="perverse-25037878.jpg" title="Perverse by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Don't Believe It
-{{< youtube id="CBlv0bo0JFI" title="Don't Believe It" >}}<br>
+### Spiral
+{{< youtube id="tmaIqBto_fQ" title="Spiral" >}}<br>
 
 ### More Videos
 
@@ -53,8 +53,8 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Magazine](https://www.youtube.com/watch?v=EsOawfkUwSw)
 - [The Right Decision](https://www.youtube.com/watch?v=KaSIMyfzU7s)
 - [Your Crusade](https://www.youtube.com/watch?v=x40Wg4whKrI)
+- [Don't Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
 - [Tongue Tied](https://www.youtube.com/watch?v=Jfl9kQUxNgE)
-- [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
 - [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
 
 

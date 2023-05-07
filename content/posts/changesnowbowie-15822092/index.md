@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ---
 
-![Changesnowbowie by David Bowie](changesnowbowie-15822092.jpg)
+{{< img src="changesnowbowie-15822092.jpg" title="Changesnowbowie by David Bowie" >}}
 
 <!-- section break -->
 

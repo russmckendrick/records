@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ---
 
-![NOMC15 by New Order](nomc15-10443938.jpg)
+{{< img src="nomc15-10443938.jpg" title="NOMC15 by New Order" >}}
 
 <!-- section break -->
 

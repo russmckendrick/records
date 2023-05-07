@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Live At The Cabaret Metro - Chicago 1993 by The Smashing Pumpkins](live-at-the-cabaret-metro-chicago-1993-8397771.jpg)
+{{< img src="live-at-the-cabaret-metro-chicago-1993-8397771.jpg" title="Live At The Cabaret Metro - Chicago 1993 by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

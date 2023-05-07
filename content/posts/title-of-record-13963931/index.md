@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Title Of Record by Filter](title-of-record-13963931.jpg)
+{{< img src="title-of-record-13963931.jpg" title="Title Of Record by Filter" >}}
 
 <!-- section break -->
 

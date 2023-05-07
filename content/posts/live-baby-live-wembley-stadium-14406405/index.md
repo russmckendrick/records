@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Live Baby Live Wembley Stadium by INXS](live-baby-live-wembley-stadium-14406405.jpg)
+{{< img src="live-baby-live-wembley-stadium-14406405.jpg" title="Live Baby Live Wembley Stadium by INXS" >}}
 
 <!-- section break -->
 
@@ -47,12 +47,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live
-{{< youtube id="KygvdzH0gj4" title="INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live" >}}<br>
+### INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991
+{{< youtube id="WhKHZ-PcmzU" title="INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991" >}}<br>
 
 ### More Videos
 
-- [INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=WhKHZ-PcmzU)
+- [INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live](https://www.youtube.com/watch?v=KygvdzH0gj4)
 - [INXS Mystify  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=FmtshAX5oDk)
 
 

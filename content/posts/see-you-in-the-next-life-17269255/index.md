@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop", "Glam"]
 ---
 
-![See You In The Next Life... by Suede](see-you-in-the-next-life-17269255.jpg)
+{{< img src="see-you-in-the-next-life-17269255.jpg" title="See You In The Next Life... by Suede" >}}
 
 <!-- section break -->
 

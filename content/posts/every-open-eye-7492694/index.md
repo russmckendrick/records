@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Every Open Eye by Chvrches](every-open-eye-7492694.jpg)
+{{< img src="every-open-eye-7492694.jpg" title="Every Open Eye by Chvrches" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,15 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### CHVRCHES - Clearest Blue (lyric video)
-{{< youtube id="QpFXXPruuqU" title="CHVRCHES - Clearest Blue (lyric video)" >}}<br>
+### CHVRCHES - Bury It ft. Hayley Williams
+{{< youtube id="B9BLMNn0PrQ" title="CHVRCHES - Bury It ft. Hayley Williams" >}}<br>
 
 ### More Videos
 
 - [CHVRCHES - Leave A Trace](https://www.youtube.com/watch?v=4Eo84jDIMKI)
-- [CHVRCHES - Bury It ft. Hayley Williams](https://www.youtube.com/watch?v=B9BLMNn0PrQ)
 - [CHVRCHES - Clearest Blue](https://www.youtube.com/watch?v=BZyzX4c1vIs)
 - [CHVRCHES - Empty Threat](https://www.youtube.com/watch?v=KNHxwSp-6Og)
+- [CHVRCHES - Clearest Blue (lyric video)](https://www.youtube.com/watch?v=QpFXXPruuqU)
 - [CHVRCHES - Never Ending Circles (lyric video)](https://www.youtube.com/watch?v=AU9_0pxiDjY)
 - [CHVRCHES - Leave A Trace (Lyric Video)](https://www.youtube.com/watch?v=nZRxFsMD4UM)
 - [Keep You on My Side (Reading 2016) CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)

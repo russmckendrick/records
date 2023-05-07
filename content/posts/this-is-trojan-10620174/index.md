@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
-![This Is Trojan by Various](this-is-trojan-10620174.jpg)
+{{< img src="this-is-trojan-10620174.jpg" title="This Is Trojan by Various" >}}
 
 <!-- section break -->
 

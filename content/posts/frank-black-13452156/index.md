@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Frank Black by Frank Black](frank-black-13452156.jpg)
+{{< img src="frank-black-13452156.jpg" title="Frank Black by Frank Black" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Old Black Dawning - Frank Black
-{{< youtube id="FUFFzn3qP1A" title="Old Black Dawning - Frank Black" >}}<br>
+### Fu Manchu - Frank Black
+{{< youtube id="4Ou9S-qE4BA" title="Fu Manchu - Frank Black" >}}<br>
 
 ### More Videos
 
@@ -52,9 +52,9 @@ styles: ["Indie Rock"]
 - [Frank Black - Los Angeles (Lyrics in description)](https://www.youtube.com/watch?v=HymVbqTlL58)
 - [I Heard Ramona Sing - Frank Black](https://www.youtube.com/watch?v=RYfUuXmdrgk)
 - [Hang on to your Ego - Frank Black](https://www.youtube.com/watch?v=VIiYJRO7HAI)
-- [Fu Manchu - Frank Black](https://www.youtube.com/watch?v=4Ou9S-qE4BA)
 - [Places Named After Numbers - Frank Black](https://www.youtube.com/watch?v=YW1nbALCBlk)
 - [Czar - Frank Black](https://www.youtube.com/watch?v=mccxj_l3lME)
+- [Old Black Dawning - Frank Black](https://www.youtube.com/watch?v=FUFFzn3qP1A)
 - [10 Percenter - Frank Black](https://www.youtube.com/watch?v=kfhc0frCr6M)
 - [Brackish Boy - Frank Black](https://www.youtube.com/watch?v=1wj-kBMPDkc)
 - [Two Spaces - Frank Black](https://www.youtube.com/watch?v=5zOEyOvaEYU)

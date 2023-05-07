@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Folk", "Indie Pop"]
 ---
 
-![If You're Feeling Sinister by Belle & Sebastian](if-you-re-feeling-sinister-21130861.jpg)
+{{< img src="if-you-re-feeling-sinister-21130861.jpg" title="If You're Feeling Sinister by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Acoustic", "Folk", "Indie Pop"]
 
 
 ## Videos
-### Belle and Sebastian - If You're Feeling Sinister
-{{< youtube id="e-jnftESRJE" title="Belle and Sebastian - If You're Feeling Sinister" >}}<br>
+### If You're Feeling Sinister
+{{< youtube id="hS6IeXyVhV8" title="If You're Feeling Sinister" >}}<br>
 
 ### More Videos
 
 - [Get Me Away from Here, I’m Dying](https://www.youtube.com/watch?v=O_r2K3vvbQ0)
-- [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
+- [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
 
 

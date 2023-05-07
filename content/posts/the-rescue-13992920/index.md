@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![The Rescue  by Explosions In The Sky](the-rescue-13992920.jpg)
+{{< img src="the-rescue-13992920.jpg" title="The Rescue  by Explosions In The Sky" >}}
 
 <!-- section break -->
 

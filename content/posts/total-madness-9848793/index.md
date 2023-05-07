@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: ["Ska", "Reggae-Pop"]
 ---
 
-![Total Madness by Madness](total-madness-9848793.jpg)
+{{< img src="total-madness-9848793.jpg" title="Total Madness by Madness" >}}
 
 <!-- section break -->
 

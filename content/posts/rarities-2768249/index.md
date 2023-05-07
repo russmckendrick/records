@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Techno", "Trip Hop", "Vocal"]
 ---
 
-![Rarities by Emiliana Torrini](rarities-2768249.jpg)
+{{< img src="rarities-2768249.jpg" title="Rarities by Emiliana Torrini" >}}
 
 <!-- section break -->
 
@@ -56,8 +56,8 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 
 
 ## Videos
-### Emilíana Torrini - Unemployed in Summertime - Music Video
-{{< youtube id="lDi_tJcCJP0" title="Emilíana Torrini - Unemployed in Summertime - Music Video" >}}<br>
+### Baby Blue (Runaways Mix)
+{{< youtube id="AJ7TTqZpuAA" title="Baby Blue (Runaways Mix)" >}}<br>
 
 ### More Videos
 
@@ -65,8 +65,8 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 - [Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)](https://www.youtube.com/watch?v=wsDWu4vC-eI)
 - [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
 - [Baby Blue (Rae & Christian Remix)](https://www.youtube.com/watch?v=ESrnf0rz05A)
+- [Emilíana Torrini - Unemployed in Summertime - Music Video](https://www.youtube.com/watch?v=lDi_tJcCJP0)
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
-- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 
 
 ## Release Information

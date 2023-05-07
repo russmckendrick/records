@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno", "House", "Breakbeat", "Trance"]
 ---
 
-![Thirty-Something by Orbital](thirty-something-24033002.jpg)
+{{< img src="thirty-something-24033002.jpg" title="Thirty-Something by Orbital" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 
 
 ## Videos
-### Impact (Rich NxT Remix - Edit)
-{{< youtube id="6A_TkqEwOn0" title="Impact (Rich NxT Remix - Edit)" >}}<br>
+### Belfast (David Holmes Remix)
+{{< youtube id="H_avqDJCJ54" title="Belfast (David Holmes Remix)" >}}<br>
 
 ### More Videos
 
@@ -68,8 +68,8 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 - [Orbital - Belfast (Yotto Remix) (Visualiser)](https://www.youtube.com/watch?v=rL1UXe5vioc)
 - [Orbital - The Box (Joris Voorn Outside The Box Remix)](https://www.youtube.com/watch?v=-exyYmtgcio)
 - [The Girl with the Sun in Her Head (Lone Remix)](https://www.youtube.com/watch?v=SoVJagJCKxY)
+- [Impact (Rich NxT Remix - Edit)](https://www.youtube.com/watch?v=6A_TkqEwOn0)
 - [Orbital - Chime (Eli Brown Remix) (Visualiser)](https://www.youtube.com/watch?v=cVbZqz3spm0)
-- [Belfast (David Holmes Remix)](https://www.youtube.com/watch?v=H_avqDJCJ54)
 - [Orbital - Belfast (ANNA Ambient Remix) Visualiser](https://www.youtube.com/watch?v=oYDGnjjLMzU)
 
 

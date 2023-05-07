@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Believers by Deacon Blue](believers-9416088.jpg)
+{{< img src="believers-9416088.jpg" title="Believers by Deacon Blue" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Deacon Blue The Believers Official Music Video
-{{< youtube id="d9JmILWh5i8" title="Deacon Blue The Believers Official Music Video" >}}<br>
+### Deacon Blue  - Believers - 03 - I Will and I Won't
+{{< youtube id="UVUsVqdKzmI" title="Deacon Blue  - Believers - 03 - I Will and I Won't" >}}<br>
 
 ### More Videos
 
-- [Deacon Blue  - Believers - 03 - I Will and I Won't](https://www.youtube.com/watch?v=UVUsVqdKzmI)
+- [Deacon Blue The Believers Official Music Video](https://www.youtube.com/watch?v=d9JmILWh5i8)
 
 
 ## Release Information

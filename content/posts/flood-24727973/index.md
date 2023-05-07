@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Flood by Headswim](flood-24727973.jpg)
+{{< img src="flood-24727973.jpg" title="Flood by Headswim" >}}
 
 <!-- section break -->
 
@@ -47,12 +47,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Headswim - Gone To Pot (HQ)
-{{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}<br>
+### Headswim - Stinkhorn (HQ)
+{{< youtube id="ZivlvKrZsFQ" title="Headswim - Stinkhorn (HQ)" >}}<br>
 
 ### More Videos
 
-- [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
+- [Headswim - Gone To Pot (HQ)](https://www.youtube.com/watch?v=WK2bOn6UGqE)
 
 
 ## Release Information

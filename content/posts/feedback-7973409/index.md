@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Feedback by Rush](feedback-7973409.jpg)
+{{< img src="feedback-7973409.jpg" title="Feedback by Rush" >}}
 
 <!-- section break -->
 

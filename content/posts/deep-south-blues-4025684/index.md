@@ -14,7 +14,7 @@ genres: ["Jazz", "Blues"]
 styles: []
 ---
 
-![Deep South Blues by The Mississippi Moons](deep-south-blues-4025684.jpg)
+{{< img src="deep-south-blues-4025684.jpg" title="Deep South Blues by The Mississippi Moons" >}}
 
 <!-- section break -->
 

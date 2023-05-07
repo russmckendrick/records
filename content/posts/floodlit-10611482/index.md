@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Floodlit by Pijn](floodlit-10611482.jpg)
+{{< img src="floodlit-10611482.jpg" title="Floodlit by Pijn" >}}
 
 <!-- section break -->
 

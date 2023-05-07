@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ---
 
-![Threesome Vol. 1 by The Lickerish Quartet](threesome-vol-1-15551347.jpg)
+{{< img src="threesome-vol-1-15551347.jpg" title="Threesome Vol. 1 by The Lickerish Quartet" >}}
 
 <!-- section break -->
 
@@ -36,14 +36,14 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 
 
 ## Videos
-### The Lickerish Quartet - Lighthouse Spaceship Lyric Video
-{{< youtube id="aZM8CQxnOPQ" title="The Lickerish Quartet - Lighthouse Spaceship Lyric Video" >}}<br>
+### The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]
+{{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]" >}}<br>
 
 ### More Videos
 
-- [The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]](https://www.youtube.com/watch?v=ImYKSTJsf-Q)
 - [The Lickerish Quartet - Bluebirds Blues [Tuneling Video]](https://www.youtube.com/watch?v=301_ImeJu5A)
 - [There Is a Magic Number](https://www.youtube.com/watch?v=idfAFwmsmDg)
+- [The Lickerish Quartet - Lighthouse Spaceship Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
 
 
 ## Release Information

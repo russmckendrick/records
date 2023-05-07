@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-![Heart by Heart](heart-3966671.jpg)
+{{< img src="heart-3966671.jpg" title="Heart by Heart" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Videos
-### Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)
-{{< youtube id="lQmQqz4nxmU" title="Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
+### Heart - If Looks Could Kill (Live 1990)
+{{< youtube id="iR0fIUu0rWU" title="Heart - If Looks Could Kill (Live 1990)" >}}<br>
 
 ### More Videos
 
@@ -52,12 +52,12 @@ styles: ["Power Pop", "Pop Rock"]
 - [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
 - [Heart - All eyes [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=c_lJU14nhgw)
 - [Heart - Nobody home [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=ePNGtYqWx2U)
+- [Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=lQmQqz4nxmU)
 - [Heart - What he don't know [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=VsMeGnSMotk)
 - [Heart - Shell shock [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=zoAuNNbD5fU)
 - [These Dreams HEART 1985 LP](https://www.youtube.com/watch?v=4tbPIoL2wOw)
 - [Heart - What About Love?](https://www.youtube.com/watch?v=KE5GGMhmo-M)
 - [Heart - These Dreams](https://www.youtube.com/watch?v=41P8UxneDJE)
-- [Heart - If Looks Could Kill (Live 1990)](https://www.youtube.com/watch?v=iR0fIUu0rWU)
 
 
 ## Release Information

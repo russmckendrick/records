@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Symphonic Rock"]
 ---
 
-![The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer](the-best-of-emerson-lake-palmer-7394100.jpg)
+{{< img src="the-best-of-emerson-lake-palmer-7394100.jpg" title="The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Classic Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Emerson, Lake & Palmer - Fanfare For The Common Man
-{{< youtube id="c2zurZig4L8" title="Emerson, Lake & Palmer - Fanfare For The Common Man" >}}<br>
+### Emerson, Lake & Palmer - Lucky Man
+{{< youtube id="89g1P_J40JA" title="Emerson, Lake & Palmer - Lucky Man" >}}<br>
 
 ### More Videos
 
-- [Emerson, Lake & Palmer - Lucky Man](https://www.youtube.com/watch?v=89g1P_J40JA)
+- [Emerson, Lake & Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
 
 
 ## Release Information

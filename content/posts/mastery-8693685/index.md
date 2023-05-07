@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Ambient", "Experimental"]
 ---
 
-![Mastery by British Theatre](mastery-8693685.jpg)
+{{< img src="mastery-8693685.jpg" title="Mastery by British Theatre" >}}
 
 <!-- section break -->
 

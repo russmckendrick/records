@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Blood Sugar Sex Magik by Red Hot Chili Peppers](blood-sugar-sex-magik-5750524.jpg)
+{{< img src="blood-sugar-sex-magik-5750524.jpg" title="Blood Sugar Sex Magik by Red Hot Chili Peppers" >}}
 
 <!-- section break -->
 

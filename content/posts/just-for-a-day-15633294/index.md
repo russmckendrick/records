@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
 
-![Just For A Day by Slowdive](just-for-a-day-15633294.jpg)
+{{< img src="just-for-a-day-15633294.jpg" title="Just For A Day by Slowdive" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 
 
 ## Videos
-### Primal
-{{< youtube id="xuiE4AMe6QM" title="Primal" >}}<br>
+### The Sadman
+{{< youtube id="8-faqEkqRuM" title="The Sadman" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 - [Erik's Song](https://www.youtube.com/watch?v=r-ffBc1UcDc)
 - [Waves](https://www.youtube.com/watch?v=cPZDOuqzcng)
 - [Brighter](https://www.youtube.com/watch?v=q6h4fNits_Y)
-- [The Sadman](https://www.youtube.com/watch?v=8-faqEkqRuM)
+- [Primal](https://www.youtube.com/watch?v=xuiE4AMe6QM)
 
 
 ## Release Information

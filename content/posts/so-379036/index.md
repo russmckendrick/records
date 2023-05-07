@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Art Rock"]
 ---
 
-![So by Peter Gabriel](so-379036.jpg)
+{{< img src="so-379036.jpg" title="So by Peter Gabriel" >}}
 
 <!-- section break -->
 

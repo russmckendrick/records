@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Synth-pop"]
 ---
 
-![Schubert Dip by EMF](schubert-dip-2122351.jpg)
+{{< img src="schubert-dip-2122351.jpg" title="Schubert Dip by EMF" >}}
 
 <!-- section break -->
 

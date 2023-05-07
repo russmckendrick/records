@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Banana Skin Shoes by Badly Drawn Boy](banana-skin-shoes-15351838.jpg)
+{{< img src="banana-skin-shoes-15351838.jpg" title="Banana Skin Shoes by Badly Drawn Boy" >}}
 
 <!-- section break -->
 

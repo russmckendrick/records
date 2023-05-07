@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![The Wall - Immersion Box Set by Pink Floyd](the-wall-immersion-box-set-3430390.jpg)
+{{< img src="the-wall-immersion-box-set-3430390.jpg" title="The Wall - Immersion Box Set by Pink Floyd" >}}
 
 <!-- section break -->
 

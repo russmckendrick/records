@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
 
-![Abolition Of The Royal Familia by The Orb](abolition-of-the-royal-familia-14977767.jpg)
+{{< img src="abolition-of-the-royal-familia-14977767.jpg" title="Abolition Of The Royal Familia by The Orb" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,13 @@ styles: ["Ambient", "House"]
 
 
 ## Videos
-### The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)
-{{< youtube id="8tPHdqP3xVU" title="The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)" >}}<br>
+### Say Cheese in Dub (Smile You're on Cctv)
+{{< youtube id="Y9KMOPEg3c8" title="Say Cheese in Dub (Smile You're on Cctv)" >}}<br>
 
 ### More Videos
 
 - [The Orb - Daze (Missing & Messed Up Mix) Official Video](https://www.youtube.com/watch?v=_uUhsZHmwtE)
+- [The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)](https://www.youtube.com/watch?v=8tPHdqP3xVU)
 - [The Orb - Pervitin (Empire Culling & The Hemlock Stone Version)](https://www.youtube.com/watch?v=llGe4H1hwqw)
 - [House of Narcotics (Opium Wars Mix)](https://www.youtube.com/watch?v=BG-FQagncJw)
 - [Honey Moonies (Brain Washed at Area 49 Mix)](https://www.youtube.com/watch?v=ph-SqqMBMJE)
@@ -65,7 +66,6 @@ styles: ["Ambient", "House"]
 - [Daze in Dub (98.7 Kiss FM Mix)](https://www.youtube.com/watch?v=71u6SeGu-Yo)
 - [Afros, Afghans & Angels in Dub (Hoodie Wood Mix)](https://www.youtube.com/watch?v=VfdPMKxexIE)
 - [Shape Shifting Part 2 in Dub (Pitter Patter in Batter See Version Excursion)](https://www.youtube.com/watch?v=2Dd7UuTs8-I)
-- [Say Cheese in Dub (Smile You're on Cctv)](https://www.youtube.com/watch?v=Y9KMOPEg3c8)
 
 
 ## Release Information

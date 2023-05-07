@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
 
-![The Daisy Age by Various](the-daisy-age-14069939.jpg)
+{{< img src="the-daisy-age-14069939.jpg" title="The Daisy Age by Various" >}}
 
 <!-- section break -->
 
@@ -45,8 +45,8 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Justin Warfield - K Sera Sera
-{{< youtube id="W7CzA46RvNo" title="Justin Warfield - K Sera Sera" >}}<br>
+### Monie Love - It's a Shame (official video reworked)
+{{< youtube id="DoNNFbW9e00" title="Monie Love - It's a Shame (official video reworked)" >}}<br>
 
 ### More Videos
 
@@ -60,7 +60,7 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 - [Queen Latifah - Mama Gave Birth To The Soul Children (feat. De La Soul)](https://www.youtube.com/watch?v=Aj8v3wSfFV8)
 - [Naughty by Nature - O.P.P. (Official Music Video)](https://www.youtube.com/watch?v=idx3GSL2KWs)
 - [Digable Planets - Where I'm From](https://www.youtube.com/watch?v=sl-pjb7y3y0)
-- [Monie Love - It's a Shame (official video reworked)](https://www.youtube.com/watch?v=DoNNFbW9e00)
+- [Justin Warfield - K Sera Sera](https://www.youtube.com/watch?v=W7CzA46RvNo)
 - [Brand Nubian - All For One (Official Video)](https://www.youtube.com/watch?v=8auuY4fvLyY)
 - [Leaders Of The New School - Case Of The P.T.A. (Video)](https://www.youtube.com/watch?v=EG4h1pGfHC8)
 - [My Definition Of A Boombastic Jazz Style](https://www.youtube.com/watch?v=cC2BE8ItC9k)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![The Albums by Gene](the-albums-15800345.jpg)
+{{< img src="the-albums-15800345.jpg" title="The Albums by Gene" >}}
 
 <!-- section break -->
 

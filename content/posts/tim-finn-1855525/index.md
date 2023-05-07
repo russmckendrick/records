@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 ---
 
-![Tim Finn by Tim Finn](tim-finn-1855525.jpg)
+{{< img src="tim-finn-1855525.jpg" title="Tim Finn by Tim Finn" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Tim Finn - How'm I Gonna Sleep (1989)
-{{< youtube id="ukUHtVVqQ8k" title="Tim Finn - How'm I Gonna Sleep (1989)" >}}<br>
+### TIM FINN & HERBS- Parihaka
+{{< youtube id="hLm0MFEIBLc" title="TIM FINN & HERBS- Parihaka" >}}<br>
 
 ### More Videos
 
 - [Tim Finn - Not Even Close (1989)](https://www.youtube.com/watch?v=KIAnj5YGh-E)
-- [TIM FINN & HERBS- Parihaka](https://www.youtube.com/watch?v=hLm0MFEIBLc)
+- [Tim Finn - How'm I Gonna Sleep (1989)](https://www.youtube.com/watch?v=ukUHtVVqQ8k)
 
 
 ## Release Information

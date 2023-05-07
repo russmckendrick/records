@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental"]
 ---
 
-![Initiation by Todd Rundgren](initiation-13238761.jpg)
+{{< img src="initiation-13238761.jpg" title="Initiation by Todd Rundgren" >}}
 
 <!-- section break -->
 

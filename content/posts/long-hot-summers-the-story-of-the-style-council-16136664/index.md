@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ---
 
-![Long Hot Summers / The Story Of The Style Council by The Style Council](long-hot-summers-the-story-of-the-style-council-16136664.jpg)
+{{< img src="long-hot-summers-the-story-of-the-style-council-16136664.jpg" title="Long Hot Summers / The Story Of The Style Council by The Style Council" >}}
 
 <!-- section break -->
 
@@ -57,12 +57,12 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 
 
 ## Videos
-### My Ever Changing Moods (Extended Version)
-{{< youtube id="vAjf6-lhdOY" title="My Ever Changing Moods (Extended Version)" >}}<br>
+### Long Hot Summers - The Story Of The Style Council - Trailer
+{{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}<br>
 
 ### More Videos
 
-- [Long Hot Summers - The Story Of The Style Council - Trailer](https://www.youtube.com/watch?v=sz4q1L_QDPU)
+- [My Ever Changing Moods (Extended Version)](https://www.youtube.com/watch?v=vAjf6-lhdOY)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ---
 
-![Cherry by Curve](cherry-26071120.jpg)
+{{< img src="cherry-26071120.jpg" title="Cherry by Curve" >}}
 
 <!-- section break -->
 
@@ -29,14 +29,14 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Curve - Galaxy
-{{< youtube id="CVpabyzgM-Q" title="Curve - Galaxy" >}}<br>
+### Curve - Cherry
+{{< youtube id="DJukLbmHqxY" title="Curve - Cherry" >}}<br>
 
 ### More Videos
 
 - [Curve - I speak your every word](https://www.youtube.com/watch?v=OTUS6N9OWYY)
-- [Curve - Cherry](https://www.youtube.com/watch?v=DJukLbmHqxY)
 - [Curve - Clipped](https://www.youtube.com/watch?v=bpJhXTkenIU)
+- [Curve - Galaxy](https://www.youtube.com/watch?v=CVpabyzgM-Q)
 - [Curve - Die like a dog](https://www.youtube.com/watch?v=Qf1sy002-lc)
 
 

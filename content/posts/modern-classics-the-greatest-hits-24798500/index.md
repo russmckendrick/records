@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Mod"]
 ---
 
-![Modern Classics (The Greatest Hits) by Paul Weller](modern-classics-the-greatest-hits-24798500.jpg)
+{{< img src="modern-classics-the-greatest-hits-24798500.jpg" title="Modern Classics (The Greatest Hits) by Paul Weller" >}}
 
 <!-- section break -->
 
@@ -58,14 +58,14 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 
 
 ## Videos
-### Peacock Suit
-{{< youtube id="vrnj-2X0V6M" title="Peacock Suit" >}}<br>
+### Brand New Start
+{{< youtube id="eAZGKO0VQKw" title="Brand New Start" >}}<br>
 
 ### More Videos
 
 - [Mermaids](https://www.youtube.com/watch?v=xds2QRD4078)
 - [The Changingman (Single Edit)](https://www.youtube.com/watch?v=njO6MuSlY9o)
-- [Brand New Start](https://www.youtube.com/watch?v=eAZGKO0VQKw)
+- [Peacock Suit](https://www.youtube.com/watch?v=vrnj-2X0V6M)
 
 
 ## Release Information

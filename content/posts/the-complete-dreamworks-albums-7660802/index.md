@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Lo-Fi"]
 ---
 
-![The Complete Dreamworks Albums by Eels](the-complete-dreamworks-albums-7660802.jpg)
+{{< img src="the-complete-dreamworks-albums-7660802.jpg" title="The Complete Dreamworks Albums by Eels" >}}
 
 <!-- section break -->
 

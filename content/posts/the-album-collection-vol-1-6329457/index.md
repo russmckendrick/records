@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![The Album Collection Vol. 1 by Bruce Springsteen](the-album-collection-vol-1-6329457.jpg)
+{{< img src="the-album-collection-vol-1-6329457.jpg" title="The Album Collection Vol. 1 by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -108,13 +108,13 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Bruce Springsteen: The Album Collection - The Thrill Hill Sessions (Digital video- with...
-{{< youtube id="3evNvtbgojk" title="Bruce Springsteen: The Album Collection - The Thrill Hill Sessions (Digital video- with..." >}}<br>
+### Bruce Springsteen - The Album Collection First Look VOL.1
+{{< youtube id="rY1YyXQ8CqU" title="Bruce Springsteen - The Album Collection First Look VOL.1" >}}<br>
 
 ### More Videos
 
 - [Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)](https://www.youtube.com/watch?v=H7T_9Yt9f2U)
-- [Bruce Springsteen - The Album Collection First Look VOL.1](https://www.youtube.com/watch?v=rY1YyXQ8CqU)
+- [Bruce Springsteen: The Album Collection - The Thrill Hill Sessions (Digital video- with...](https://www.youtube.com/watch?v=3evNvtbgojk)
 - [Unboxing Bruce Springsteen The Album Collection Vol. 1](https://www.youtube.com/watch?v=6qp0QVjTnJU)
 
 

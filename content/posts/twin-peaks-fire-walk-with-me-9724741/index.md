@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 ---
 
-![Twin Peaks: Fire Walk With Me by Angelo Badalamenti](twin-peaks-fire-walk-with-me-9724741.jpg)
+{{< img src="twin-peaks-fire-walk-with-me-9724741.jpg" title="Twin Peaks: Fire Walk With Me by Angelo Badalamenti" >}}
 
 <!-- section break -->
 
@@ -40,11 +40,12 @@ styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 
 
 ## Videos
-### Theme from Twin Peaks-Fire Walk with Me
-{{< youtube id="grlkoRazWh4" title="Theme from Twin Peaks-Fire Walk with Me" >}}<br>
+### Montage from Twin Peaks (Girl Talk / Birds in Hell / Laura Palmer's Theme / Falling)
+{{< youtube id="nQsEFLFLv1c" title="Montage from Twin Peaks (Girl Talk / Birds in Hell / Laura Palmer's Theme / Falling)" >}}<br>
 
 ### More Videos
 
+- [Theme from Twin Peaks-Fire Walk with Me](https://www.youtube.com/watch?v=grlkoRazWh4)
 - [The Pine Float](https://www.youtube.com/watch?v=0s64HHHz5T4)
 - [Sycamore Trees](https://www.youtube.com/watch?v=HnFgsQUqugI)
 - [Don't Do Anything (I Wouldn't Do)](https://www.youtube.com/watch?v=KrsBPs_cMmY)
@@ -54,7 +55,6 @@ styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 - [The Black Dog Runs at Night](https://www.youtube.com/watch?v=Hlkdj8fFFzA)
 - [Best Friends](https://www.youtube.com/watch?v=DZ4S0UPavSk)
 - [Moving Through Time](https://www.youtube.com/watch?v=i3BhWXi5lzo)
-- [Montage from Twin Peaks (Girl Talk / Birds in Hell / Laura Palmer's Theme / Falling)](https://www.youtube.com/watch?v=nQsEFLFLv1c)
 - [The Voice of Love](https://www.youtube.com/watch?v=2VpNT0V25HU)
 
 

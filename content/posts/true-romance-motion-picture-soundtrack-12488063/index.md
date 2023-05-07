@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro House"]
 ---
 
-![True Romance (Motion Picture Soundtrack) by Various](true-romance-motion-picture-soundtrack-12488063.jpg)
+{{< img src="true-romance-motion-picture-soundtrack-12488063.jpg" title="True Romance (Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 
 
 ## Videos
-### Two Hearts
-{{< youtube id="gQ4bRyK3JEo" title="Two Hearts" >}}<br>
+### Amid The Chaos Of The Day
+{{< youtube id="eFZm0oOi2Oc" title="Amid The Chaos Of The Day" >}}<br>
 
 ### More Videos
 
@@ -62,7 +62,7 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 - [Viens Mallika Sous Le Dome Edais From Lakme](https://www.youtube.com/watch?v=WwcWDjOrh2M)
 - [[Love Is] The Tender Trap](https://www.youtube.com/watch?v=Q3o1T5DY_JQ)
 - [Outshined](https://www.youtube.com/watch?v=jBq_tFvtzEI)
-- [Amid The Chaos Of The Day](https://www.youtube.com/watch?v=eFZm0oOi2Oc)
+- [Two Hearts](https://www.youtube.com/watch?v=gQ4bRyK3JEo)
 
 
 ## Release Information

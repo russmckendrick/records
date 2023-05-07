@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Classic Rock"]
 ---
 
-![Their Satanic Majesties Request by The Rolling Stones](their-satanic-majesties-request-381198.jpg)
+{{< img src="their-satanic-majesties-request-381198.jpg" title="Their Satanic Majesties Request by The Rolling Stones" >}}
 
 <!-- section break -->
 

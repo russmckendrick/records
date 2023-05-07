@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
 
-![Abolition Of The Royal Familia (Guillotine Mixes) by The Orb](abolition-of-the-royal-familia-guillotine-mixes-18203164.jpg)
+{{< img src="abolition-of-the-royal-familia-guillotine-mixes-18203164.jpg" title="Abolition Of The Royal Familia (Guillotine Mixes) by The Orb" >}}
 
 <!-- section break -->
 

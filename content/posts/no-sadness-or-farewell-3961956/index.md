@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
-![No Sadness Or Farewell by Crippled Black Phoenix](no-sadness-or-farewell-3961956.jpg)
+{{< img src="no-sadness-or-farewell-3961956.jpg" title="No Sadness Or Farewell by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
-![Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys](feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524.jpg)
+{{< img src="feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524.jpg" title="Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Jazz", "Pop"]
 styles: ["Swing", "Vocal", "Easy Listening"]
 ---
 
-![Nothing But The Best by Frank Sinatra](nothing-but-the-best-18726205.jpg)
+{{< img src="nothing-but-the-best-18726205.jpg" title="Nothing But The Best by Frank Sinatra" >}}
 
 <!-- section break -->
 
@@ -51,12 +51,12 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 
 
 ## Videos
-### Nothing But The Best (2008 Remastered)
-{{< youtube id="8GrYyuO0TOE" title="Nothing But The Best (2008 Remastered)" >}}<br>
+### Come Fly With Me (2008 Remastered)
+{{< youtube id="yOzEeJZ92X8" title="Come Fly With Me (2008 Remastered)" >}}<br>
 
 ### More Videos
 
-- [Come Fly With Me (2008 Remastered)](https://www.youtube.com/watch?v=yOzEeJZ92X8)
+- [Nothing But The Best (2008 Remastered)](https://www.youtube.com/watch?v=8GrYyuO0TOE)
 
 
 ## Release Information

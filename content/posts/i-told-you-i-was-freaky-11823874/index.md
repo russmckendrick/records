@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul", "Pop", "Folk, World, & Country"
 styles: ["Comedy"]
 ---
 
-![I Told You I Was Freaky by Flight Of The Conchords](i-told-you-i-was-freaky-11823874.jpg)
+{{< img src="i-told-you-i-was-freaky-11823874.jpg" title="I Told You I Was Freaky by Flight Of The Conchords" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Comedy"]
 
 
 ## Videos
-### Sugalumps
-{{< youtube id="4QnCfVkL-K4" title="Sugalumps" >}}<br>
+### Friends
+{{< youtube id="LGjPMLGqkPk" title="Friends" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,6 @@ styles: ["Comedy"]
 - [Demon Woman](https://www.youtube.com/watch?v=2shdLm-HpVU)
 - [Carol Brown](https://www.youtube.com/watch?v=Hz5SFQsLzAg)
 - [Fashion is Danger](https://www.youtube.com/watch?v=EU3QKZPT2yU)
-- [Friends](https://www.youtube.com/watch?v=LGjPMLGqkPk)
 - [You Don't Have To Be A Prostitute](https://www.youtube.com/watch?v=-l3H20wCkeA)
 - [I Told You I Was Freaky](https://www.youtube.com/watch?v=un75I40-xro)
 - [I Told You I Was Freaky](https://www.youtube.com/watch?v=YikWapO2TQs)
@@ -60,6 +59,7 @@ styles: ["Comedy"]
 - [Hurt Feelings](https://www.youtube.com/watch?v=GRinCeOBNwE)
 - [Rambling Through The Avenues Of Time](https://www.youtube.com/watch?v=-fny4N4t9N0)
 - [Petrov, Yelyena And Me](https://www.youtube.com/watch?v=IGzbIgDxjrA)
+- [Sugalumps](https://www.youtube.com/watch?v=4QnCfVkL-K4)
 - [Angels](https://www.youtube.com/watch?v=Pt_ujVh6o-0)
 
 

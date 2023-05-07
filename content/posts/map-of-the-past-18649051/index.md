@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Map Of The Past by It Bites](map-of-the-past-18649051.jpg)
+{{< img src="map-of-the-past-18649051.jpg" title="Map Of The Past by It Bites" >}}
 
 <!-- section break -->
 

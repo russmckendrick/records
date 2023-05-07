@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![The Yes Album by Yes](the-yes-album-702483.jpg)
+{{< img src="the-yes-album-702483.jpg" title="The Yes Album by Yes" >}}
 
 <!-- section break -->
 

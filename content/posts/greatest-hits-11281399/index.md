@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Psychedelic Rock", "Soul", "Funk"]
 ---
 
-![Greatest Hits by Sly & The Family Stone](greatest-hits-11281399.jpg)
+{{< img src="greatest-hits-11281399.jpg" title="Greatest Hits by Sly & The Family Stone" >}}
 
 <!-- section break -->
 

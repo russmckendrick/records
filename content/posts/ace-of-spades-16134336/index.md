@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 ---
 
-![Ace Of Spades by Motörhead](ace-of-spades-16134336.jpg)
+{{< img src="ace-of-spades-16134336.jpg" title="Ace Of Spades by Motörhead" >}}
 
 <!-- section break -->
 

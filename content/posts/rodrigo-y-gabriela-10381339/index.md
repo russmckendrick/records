@@ -14,7 +14,7 @@ genres: ["Rock", "Latin"]
 styles: ["Acoustic"]
 ---
 
-![Rodrigo Y Gabriela by Rodrigo Y Gabriela](rodrigo-y-gabriela-10381339.jpg)
+{{< img src="rodrigo-y-gabriela-10381339.jpg" title="Rodrigo Y Gabriela by Rodrigo Y Gabriela" >}}
 
 <!-- section break -->
 
@@ -47,8 +47,8 @@ styles: ["Acoustic"]
 
 
 ## Videos
-### Rodrigo y Gabriela - Diablo Rojo
-{{< youtube id="g2BBiKu-zmg" title="Rodrigo y Gabriela - Diablo Rojo" >}}<br>
+### Rodrigo y Gabriela - Viking Man
+{{< youtube id="dLESmgh-VCE" title="Rodrigo y Gabriela - Viking Man" >}}<br>
 
 ### More Videos
 
@@ -56,9 +56,9 @@ styles: ["Acoustic"]
 - [Rodrigo y Gabriela- Hanuman OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
 - [Rodrigo Y Gabriela - Orion   (Metallica cover)](https://www.youtube.com/watch?v=_zwKvCXw_8M)
 - [Rodrigo y Gabriela - Orion (Studio Version)](https://www.youtube.com/watch?v=GP6rkf3qB0c)
+- [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=g2BBiKu-zmg)
 - [Rodrigo y Gabriela | Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
 - [Rodrigo y Gabriela - Tamacun](https://www.youtube.com/watch?v=Fn9nUE3ngvs)
-- [Rodrigo y Gabriela - Viking Man](https://www.youtube.com/watch?v=dLESmgh-VCE)
 - [Rodrigo y Gabriela - Stairway To Heaven (Led Zeppelin coer)](https://www.youtube.com/watch?v=YRNVn_B-7OA)
 
 

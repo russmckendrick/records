@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Hip-House", "Acid House", "Freestyle"]
 ---
 
-![Into The Dragon by Bomb The Bass](into-the-dragon-12489219.jpg)
+{{< img src="into-the-dragon-12489219.jpg" title="Into The Dragon by Bomb The Bass" >}}
 
 <!-- section break -->
 
@@ -37,19 +37,19 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 
 
 ## Videos
-### BOMB THE BASS - Dynamite Beats.
-{{< youtube id="dhn2mL2F36s" title="BOMB THE BASS - Dynamite Beats." >}}<br>
+### Bomb The Bass - Beat Dis (Video)
+{{< youtube id="W6CJmJ5p3Ow" title="Bomb The Bass - Beat Dis (Video)" >}}<br>
 
 ### More Videos
 
 - [Bomb The Bass - Don't Make Me Wait (Video)](https://www.youtube.com/watch?v=b_42p66WeM0)
-- [Bomb The Bass - Beat Dis (Video)](https://www.youtube.com/watch?v=W6CJmJ5p3Ow)
 - [BOMB THE BASS featuring LAURAINE - Don't Make Me Wait [7 Mix].](https://www.youtube.com/watch?v=T56ONhUdZXg)
 - [BOMB THE BASS - Beat Dis [7 US Mix].](https://www.youtube.com/watch?v=CX-OsVJE-DE)
 - [BOMB THE BASS - Shake It.](https://www.youtube.com/watch?v=nEpeVSQ4S3U)
 - [BOMB THE BASS featuring MERLIN - Mégablast Rap.](https://www.youtube.com/watch?v=s4WnGHIK88k)
 - [Bomb The Bass feat Maureen - Say A Little Prayer (HQ)](https://www.youtube.com/watch?v=2IBqzFkecQw)
 - [BOMB THE BASS - On the Cut.](https://www.youtube.com/watch?v=rU0VJXc0H1s)
+- [BOMB THE BASS - Dynamite Beats.](https://www.youtube.com/watch?v=dhn2mL2F36s)
 - [BOMB THE BASS -Megablast (Hip Hop On Precinct 13) [7 Mix].](https://www.youtube.com/watch?v=bWbJeUEKzc8)
 - [BOMB THE BASS featuring AURRA - Hey You!](https://www.youtube.com/watch?v=alQBkH08BDU)
 - [BOMB THE BASS - Beat Dat [Freestyle Scratch Mix].](https://www.youtube.com/watch?v=vbMj6sfuIK8)

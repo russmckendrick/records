@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-![Bad As Me by Tom Waits](bad-as-me-11147825.jpg)
+{{< img src="bad-as-me-11147825.jpg" title="Bad As Me by Tom Waits" >}}
 
 <!-- section break -->
 
@@ -41,13 +41,13 @@ styles: []
 
 
 ## Videos
-### Tom Waits - Bad As Me
-{{< youtube id="zfIRR2VeyEc" title="Tom Waits - Bad As Me" >}}<br>
+### Tom Waits - Hell Broke Luce
+{{< youtube id="0Fju9o8BVJ8" title="Tom Waits - Hell Broke Luce" >}}<br>
 
 ### More Videos
 
 - [Tom Waits - Satisfied](https://www.youtube.com/watch?v=xHn_Kb4Dz40)
-- [Tom Waits - Hell Broke Luce](https://www.youtube.com/watch?v=0Fju9o8BVJ8)
+- [Tom Waits - Bad As Me](https://www.youtube.com/watch?v=zfIRR2VeyEc)
 - [Tom Waits - Kiss me (Bad As Me)](https://www.youtube.com/watch?v=_Qy7Tt84d1Q)
 - [Tom Waits - Raised Right Men](https://www.youtube.com/watch?v=M9uTo_KBBAw)
 - [Tom Waits   bad as me            full album](https://www.youtube.com/watch?v=c3IHscrJB0I)

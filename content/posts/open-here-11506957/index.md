@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-![Open Here by Field Music](open-here-11506957.jpg)
+{{< img src="open-here-11506957.jpg" title="Open Here by Field Music" >}}
 
 <!-- section break -->
 

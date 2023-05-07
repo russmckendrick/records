@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-![Radio City by Big Star](radio-city-14696673.jpg)
+{{< img src="radio-city-14696673.jpg" title="Radio City by Big Star" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Ben Folds Five by Ben Folds Five](ben-folds-five-14254468.jpg)
+{{< img src="ben-folds-five-14254468.jpg" title="Ben Folds Five by Ben Folds Five" >}}
 
 <!-- section break -->
 

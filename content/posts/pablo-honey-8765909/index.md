@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Pablo Honey by Radiohead](pablo-honey-8765909.jpg)
+{{< img src="pablo-honey-8765909.jpg" title="Pablo Honey by Radiohead" >}}
 
 <!-- section break -->
 

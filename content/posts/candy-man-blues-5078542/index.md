@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: ["Country Blues"]
 ---
 
-![Candy Man Blues by Mississippi John Hurt](candy-man-blues-5078542.jpg)
+{{< img src="candy-man-blues-5078542.jpg" title="Candy Man Blues by Mississippi John Hurt" >}}
 
 <!-- section break -->
 

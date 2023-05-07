@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![People Move On by Bernard Butler](people-move-on-19127773.jpg)
+{{< img src="people-move-on-19127773.jpg" title="People Move On by Bernard Butler" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### People Move On
-{{< youtube id="KozoJM3DLrM" title="People Move On" >}}<br>
+### BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.
+{{< youtube id="FtRzuPw_XSo" title="BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM." >}}<br>
 
 ### More Videos
 
 - [Bernard Butler - People Move On (1998) Full album](https://www.youtube.com/watch?v=xM54pVZkEMU)
-- [BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.](https://www.youtube.com/watch?v=FtRzuPw_XSo)
+- [People Move On](https://www.youtube.com/watch?v=KozoJM3DLrM)
 - [Bernard Butler - I'm Tired](https://www.youtube.com/watch?v=S8rqHZTfMZM)
 - [Bernard butler - Autograph. 1998 Suede Britpop.](https://www.youtube.com/watch?v=KRGAHUXgKlU)
 - [Bernard Butler - Stay](https://www.youtube.com/watch?v=MVhgmGcGqdE)

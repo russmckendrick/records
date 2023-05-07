@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Automatic For The People by R.E.M.](automatic-for-the-people-736266.jpg)
+{{< img src="automatic-for-the-people-736266.jpg" title="Automatic For The People by R.E.M." >}}
 
 <!-- section break -->
 

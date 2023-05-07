@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Get Ready by New Order](get-ready-7515768.jpg)
+{{< img src="get-ready-7515768.jpg" title="Get Ready by New Order" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### New Order - Crystal (Official Music Video)
-{{< youtube id="KVMyXDsadLQ" title="New Order - Crystal (Official Music Video)" >}}<br>
+### New Order  - 60 Miles An Hour (Official Music Video)
+{{< youtube id="yNF-MJv7bzo" title="New Order  - 60 Miles An Hour (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [New Order  - 60 Miles An Hour (Official Music Video)](https://www.youtube.com/watch?v=yNF-MJv7bzo)
+- [New Order - Crystal (Official Music Video)](https://www.youtube.com/watch?v=KVMyXDsadLQ)
 
 
 ## Release Information

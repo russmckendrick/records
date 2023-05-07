@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![I Don't Live Here Anymore by The War On Drugs](i-don-t-live-here-anymore-20771347.jpg)
+{{< img src="i-don-t-live-here-anymore-20771347.jpg" title="I Don't Live Here Anymore by The War On Drugs" >}}
 
 <!-- section break -->
 

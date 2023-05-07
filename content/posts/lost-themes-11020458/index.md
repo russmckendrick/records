@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Soundtrack", "Ambient"]
 ---
 
-![Lost Themes by John Carpenter](lost-themes-11020458.jpg)
+{{< img src="lost-themes-11020458.jpg" title="Lost Themes by John Carpenter" >}}
 
 <!-- section break -->
 

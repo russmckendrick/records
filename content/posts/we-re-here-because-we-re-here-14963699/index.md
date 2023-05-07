@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![We're Here Because We're Here by Anathema](we-re-here-because-we-re-here-14963699.jpg)
+{{< img src="we-re-here-because-we-re-here-14963699.jpg" title="We're Here Because We're Here by Anathema" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Anathema - Thin Air (lyrics)
-{{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air (lyrics)" >}}<br>
+### Anathema - Summer Night Horizon
+{{< youtube id="ld5UqwI8Tg4" title="Anathema - Summer Night Horizon" >}}<br>
 
 ### More Videos
 
-- [Anathema - Summer Night Horizon](https://www.youtube.com/watch?v=ld5UqwI8Tg4)
+- [Anathema - Thin Air (lyrics)](https://www.youtube.com/watch?v=jW0p7jQnKqg)
 - [Anathema - Dreaming Light](https://www.youtube.com/watch?v=rSToh--FUsI)
 - [Anathema - Everything](https://www.youtube.com/watch?v=KaXWp-3fL_E)
 - [Anathema - Angels Walk Among Us (Lyrics)](https://www.youtube.com/watch?v=BRMNJNzscwQ)

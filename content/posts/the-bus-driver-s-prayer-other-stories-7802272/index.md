@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-![The Bus Driver's Prayer & Other Stories by Ian Dury](the-bus-driver-s-prayer-other-stories-7802272.jpg)
+{{< img src="the-bus-driver-s-prayer-other-stories-7802272.jpg" title="The Bus Driver's Prayer & Other Stories by Ian Dury" >}}
 
 <!-- section break -->
 

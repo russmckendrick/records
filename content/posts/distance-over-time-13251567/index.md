@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
 
-![Distance Over Time by Dream Theater](distance-over-time-13251567.jpg)
+{{< img src="distance-over-time-13251567.jpg" title="Distance Over Time by Dream Theater" >}}
 
 <!-- section break -->
 
@@ -48,12 +48,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 
 
 ## Videos
-### Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album
-{{< youtube id="zB19NXfsxdQ" title="Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album" >}}<br>
+### DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)
+{{< youtube id="gylxuO6dKOw" title="DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=gylxuO6dKOw)
+- [Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album](https://www.youtube.com/watch?v=zB19NXfsxdQ)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-![The Unravelling by Knifeworld](the-unravelling-5910169.jpg)
+{{< img src="the-unravelling-5910169.jpg" title="The Unravelling by Knifeworld" >}}
 
 <!-- section break -->
 

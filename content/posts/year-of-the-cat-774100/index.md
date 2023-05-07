@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 ---
 
-![Year Of The Cat by Al Stewart](year-of-the-cat-774100.jpg)
+{{< img src="year-of-the-cat-774100.jpg" title="Year Of The Cat by Al Stewart" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 
 
 ## Videos
-### Al Stewart - On The Border (1976 UK Vinyl)
-{{< youtube id="wgq6iz6-N_M" title="Al Stewart - On The Border (1976 UK Vinyl)" >}}<br>
+### Midas Shadow (2001 Remaster)
+{{< youtube id="Gmb6Rm5yWqk" title="Midas Shadow (2001 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Broadway Hotel (2001 Remaster)](https://www.youtube.com/watch?v=2zpShd0A7Nk)
 - [Al Stewart - Year of the Cat (Official Audio)](https://www.youtube.com/watch?v=Ak_MTXQALa0)
-- [Midas Shadow (2001 Remaster)](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
+- [Al Stewart - On The Border (1976 UK Vinyl)](https://www.youtube.com/watch?v=wgq6iz6-N_M)
 
 
 ## Release Information

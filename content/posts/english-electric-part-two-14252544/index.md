@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![English Electric Part Two by Big Big Train](english-electric-part-two-14252544.jpg)
+{{< img src="english-electric-part-two-14252544.jpg" title="English Electric Part Two by Big Big Train" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Big Big Train - Leopards
-{{< youtube id="X4A4rFLUS84" title="Big Big Train - Leopards" >}}<br>
+### Big Big Train - The Permanent Way
+{{< youtube id="2gbwMI8RW6Y" title="Big Big Train - The Permanent Way" >}}<br>
 
 ### More Videos
 
-- [Big Big Train - The Permanent Way](https://www.youtube.com/watch?v=2gbwMI8RW6Y)
+- [Big Big Train - Leopards](https://www.youtube.com/watch?v=X4A4rFLUS84)
 
 
 ## Release Information

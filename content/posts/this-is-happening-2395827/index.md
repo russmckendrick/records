@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 ---
 
-![This Is Happening by LCD Soundsystem](this-is-happening-2395827.jpg)
+{{< img src="this-is-happening-2395827.jpg" title="This Is Happening by LCD Soundsystem" >}}
 
 <!-- section break -->
 

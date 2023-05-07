@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock"]
 ---
 
-![One by Dubstar](one-12652179.jpg)
+{{< img src="one-12652179.jpg" title="One by Dubstar" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Dubstar - You Were Never In Love (Official Video)
-{{< youtube id="9ORxgXkNb7w" title="Dubstar - You Were Never In Love (Official Video)" >}}<br>
+### Why Don't You Kiss Me
+{{< youtube id="vLk-EO4SjJs" title="Why Don't You Kiss Me" >}}<br>
 
 ### More Videos
 
 - [Dubstar - Love Comes Late (Official Music Video)](https://www.youtube.com/watch?v=W3c4_v-wPw8)
-- [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
+- [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
 
 
 ## Release Information

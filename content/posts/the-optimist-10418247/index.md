@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![The Optimist by Anathema](the-optimist-10418247.jpg)
+{{< img src="the-optimist-10418247.jpg" title="The Optimist by Anathema" >}}
 
 <!-- section break -->
 

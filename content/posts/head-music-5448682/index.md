@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Head Music by Suede](head-music-5448682.jpg)
+{{< img src="head-music-5448682.jpg" title="Head Music by Suede" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,14 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Suede - Electricity (Official Video)
-{{< youtube id="ygHrqRx7Abg" title="Suede - Electricity (Official Video)" >}}<br>
+### Suede - Can't Get Enough
+{{< youtube id="FGeFkrfrHLc" title="Suede - Can't Get Enough" >}}<br>
 
 ### More Videos
 
+- [Suede - Electricity (Official Video)](https://www.youtube.com/watch?v=ygHrqRx7Abg)
 - [Suede - Everything Will Flow](https://www.youtube.com/watch?v=iJKPP13Tqi4)
 - [Suede - She's In Fashion](https://www.youtube.com/watch?v=iNPA68htGxk)
-- [Suede - Can't Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
 - [Suede - Head Music (Full Album)](https://www.youtube.com/watch?v=ysFDcqnE7D4)
 
 

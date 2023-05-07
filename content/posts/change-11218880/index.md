@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Deep Techno"]
 ---
 
-![Change by Cindy Wilson](change-11218880.jpg)
+{{< img src="change-11218880.jpg" title="Change by Cindy Wilson" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Deep Techno"]
 
 
 ## Videos
-### Cindy Wilson - Brother (from Change)
-{{< youtube id="jUhKP3ZkiN0" title="Cindy Wilson - Brother (from Change)" >}}<br>
+### Cindy Wilson - No One Can Tell You (from Change)
+{{< youtube id="PT_tp3iFoCc" title="Cindy Wilson - No One Can Tell You (from Change)" >}}<br>
 
 ### More Videos
 
 - [Cindy Wilson - Mystic (from Change)](https://www.youtube.com/watch?v=qRYxvzS5BS4)
 - [Cindy Wilson - Brother (Official Music Video from Change)](https://www.youtube.com/watch?v=uXfbuIapMfI)
-- [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
+- [Cindy Wilson - Brother (from Change)](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
 
 
 ## Release Information

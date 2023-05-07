@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
 
-![The Allman Brothers Band by The Allman Brothers Band](the-allman-brothers-band-9275505.jpg)
+{{< img src="the-allman-brothers-band-9275505.jpg" title="The Allman Brothers Band by The Allman Brothers Band" >}}
 
 <!-- section break -->
 
@@ -44,14 +44,14 @@ styles: ["Blues Rock", "Southern Rock"]
 
 
 ## Videos
-### Black Hearted Woman
-{{< youtube id="KxZ_ZbiCHpc" title="Black Hearted Woman" >}}<br>
+### Trouble No More
+{{< youtube id="EqHSKn7ikwc" title="Trouble No More" >}}<br>
 
 ### More Videos
 
 - [Don't Want You No More](https://www.youtube.com/watch?v=IQGPC2IEOdQ)
 - [It's Not My Cross To Bear](https://www.youtube.com/watch?v=-dy1xeuStsc)
-- [Trouble No More](https://www.youtube.com/watch?v=EqHSKn7ikwc)
+- [Black Hearted Woman](https://www.youtube.com/watch?v=KxZ_ZbiCHpc)
 - [Every Hungry Woman](https://www.youtube.com/watch?v=5XK2DDoAWTc)
 - [Dreams](https://www.youtube.com/watch?v=ESDqkzZOQCo)
 - [Whipping Post](https://www.youtube.com/watch?v=VZSNs6H-HDI)

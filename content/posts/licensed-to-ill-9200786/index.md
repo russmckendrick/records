@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-![Licensed To Ill by Beastie Boys](licensed-to-ill-9200786.jpg)
+{{< img src="licensed-to-ill-9200786.jpg" title="Licensed To Ill by Beastie Boys" >}}
 
 <!-- section break -->
 
@@ -41,13 +41,13 @@ styles: []
 
 
 ## Videos
-### Beastie Boys - No Sleep Till Brooklyn (Official Music Video)
-{{< youtube id="07Y0cy-nvAg" title="Beastie Boys - No Sleep Till Brooklyn (Official Music Video)" >}}<br>
+### Beastie Boys - She's Crafty (Official Music Video)
+{{< youtube id="erD0nCFA75g" title="Beastie Boys - She's Crafty (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)](https://www.youtube.com/watch?v=eBShN8qT4lk)
-- [Beastie Boys - She's Crafty (Official Music Video)](https://www.youtube.com/watch?v=erD0nCFA75g)
+- [Beastie Boys - No Sleep Till Brooklyn (Official Music Video)](https://www.youtube.com/watch?v=07Y0cy-nvAg)
 
 
 ## Release Information

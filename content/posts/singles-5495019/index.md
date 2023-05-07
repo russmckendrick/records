@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Singles by Future Islands](singles-5495019.jpg)
+{{< img src="singles-5495019.jpg" title="Singles by Future Islands" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Future Islands - A Song for Our Grandfathers (Official Video)
-{{< youtube id="la6Ohm3dobk" title="Future Islands - A Song for Our Grandfathers (Official Video)" >}}<br>
+### Future Islands - Seasons (Waiting On You) (Official Video)
+{{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons (Waiting On You) (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Future Islands - Seasons (Waiting On You) (Official Video)](https://www.youtube.com/watch?v=-5Ae-LhMIG0)
 - [Sun in the Morning](https://www.youtube.com/watch?v=Uyjt0EXHm9A)
+- [Future Islands - A Song for Our Grandfathers (Official Video)](https://www.youtube.com/watch?v=la6Ohm3dobk)
 - [Back in the Tall Grass](https://www.youtube.com/watch?v=3P4_58VCOIc)
 - [Doves](https://www.youtube.com/watch?v=In4JkFZy7jI)
 - [Future Islands - Spirit](https://www.youtube.com/watch?v=PeuCCJ9qQ-k)

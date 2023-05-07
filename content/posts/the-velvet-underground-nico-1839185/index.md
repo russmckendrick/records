@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 ---
 
-![The Velvet Underground & Nico by The Velvet Underground](the-velvet-underground-nico-1839185.jpg)
+{{< img src="the-velvet-underground-nico-1839185.jpg" title="The Velvet Underground & Nico by The Velvet Underground" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 
 
 ## Videos
-### European Son
-{{< youtube id="JNZeMMDEZfo" title="European Son" >}}<br>
+### Femme Fatale
+{{< youtube id="HGttSQsBpXQ" title="Femme Fatale" >}}<br>
 
 ### More Videos
 
@@ -55,6 +55,7 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 - [There She Goes Again](https://www.youtube.com/watch?v=QbW39jwtewE)
 - [I'll Be Your Mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)
 - [The Black Angel's Death Song](https://www.youtube.com/watch?v=5S78t8I8Z5I)
+- [European Son](https://www.youtube.com/watch?v=JNZeMMDEZfo)
 - [Sunday Morning](https://www.youtube.com/watch?v=kSC_IoD-Bxw)
 - [Venus In Furs](https://www.youtube.com/watch?v=1qQ0MG9OPzA)
 - [Run Run Run](https://www.youtube.com/watch?v=EwHIs7IafD0)
@@ -64,7 +65,6 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 - [There She Goes Again](https://www.youtube.com/watch?v=obs9f-Ikj3o)
 - [I'm Waiting For The Man](https://www.youtube.com/watch?v=YbigVkiAe0s)
 - [The Black Angel's Death Song](https://www.youtube.com/watch?v=M0lya8HfDs0)
-- [Femme Fatale](https://www.youtube.com/watch?v=HGttSQsBpXQ)
 - [European Son](https://www.youtube.com/watch?v=Ae0no6_VkKk)
 - [European Son (Alternative Version)](https://www.youtube.com/watch?v=Vwy18WaZuD4)
 - [Sunday Morning (Mono)](https://www.youtube.com/watch?v=zZmCDDeD-ks)

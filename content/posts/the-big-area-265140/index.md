@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-![The Big Area by Then Jerico](the-big-area-265140.jpg)
+{{< img src="the-big-area-265140.jpg" title="The Big Area by Then Jerico" >}}
 
 <!-- section break -->
 

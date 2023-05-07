@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hardcore"]
 ---
 
-![United By Fate by Rival Schools](united-by-fate-24976549.jpg)
+{{< img src="united-by-fate-24976549.jpg" title="United By Fate by Rival Schools" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Hardcore"]
 
 
 ## Videos
-### Rival Schools - Good Things
-{{< youtube id="cLjUI8t0v50" title="Rival Schools - Good Things" >}}<br>
+### Rival Schools - Used For Glue
+{{< youtube id="DcRt7kkzcxM" title="Rival Schools - Used For Glue" >}}<br>
 
 ### More Videos
 
-- [Rival Schools - Used For Glue](https://www.youtube.com/watch?v=DcRt7kkzcxM)
+- [Rival Schools - Good Things](https://www.youtube.com/watch?v=cLjUI8t0v50)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Gold by Ryan Adams](gold-3814418.jpg)
+{{< img src="gold-3814418.jpg" title="Gold by Ryan Adams" >}}
 
 <!-- section break -->
 
@@ -49,8 +49,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Harder Now That It's Over
-{{< youtube id="6y36J92PNAI" title="Harder Now That It's Over" >}}<br>
+### Enemy Fire
+{{< youtube id="DVNj-BHFGXw" title="Enemy Fire" >}}<br>
 
 ### More Videos
 
@@ -58,12 +58,12 @@ styles: ["Alternative Rock"]
 - [Ryan Adams - Answering Bell](https://www.youtube.com/watch?v=Grkn6x6VWms)
 - [Ryan Adams - La Cienega Just Smiled](https://www.youtube.com/watch?v=OWvbjENrgbY)
 - [The Rescue Blues](https://www.youtube.com/watch?v=ulWV9aq2XAc)
+- [Harder Now That It's Over](https://www.youtube.com/watch?v=6y36J92PNAI)
 - [Ryan Adams - Nobody Girl](https://www.youtube.com/watch?v=jMfQOEZ-WAw)
 - [Wild Flowers](https://www.youtube.com/watch?v=dPy-ZQmUBcA)
 - [Firecracker](https://www.youtube.com/watch?v=S0wJzydLPWY)
 - [Gonna Make You Love Me](https://www.youtube.com/watch?v=lkm9MscAryw)
 - [Ryan Adams, Rosalie Come and Go](https://www.youtube.com/watch?v=oWgtiCAkgQ4)
-- [Enemy Fire](https://www.youtube.com/watch?v=DVNj-BHFGXw)
 - [When The Stars Go Blue](https://www.youtube.com/watch?v=-zBx58U58qM)
 - [#14 Ryan Adams - Touch, Feel, & Loose](https://www.youtube.com/watch?v=4CRs-4CEcZg)
 - [Tina Toledo's Street Walkin' Blues](https://www.youtube.com/watch?v=YJUk4Zen1Qg)

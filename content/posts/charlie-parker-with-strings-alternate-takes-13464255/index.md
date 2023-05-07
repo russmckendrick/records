@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Bop"]
 ---
 
-![Charlie Parker With Strings (Alternate Takes) by Charlie Parker With Strings](charlie-parker-with-strings-alternate-takes-13464255.jpg)
+{{< img src="charlie-parker-with-strings-alternate-takes-13464255.jpg" title="Charlie Parker With Strings (Alternate Takes) by Charlie Parker With Strings" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Bop"]
 
 
 ## Videos
-### Just Friends (Take 2 / Alternate Take)
-{{< youtube id="KBZlk32eCz0" title="Just Friends (Take 2 / Alternate Take)" >}}<br>
+### Summertime (Take 1 / Alternate Take)
+{{< youtube id="65IxgLzk2EM" title="Summertime (Take 1 / Alternate Take)" >}}<br>
 
 ### More Videos
 
-- [Summertime (Take 1 / Alternate Take)](https://www.youtube.com/watch?v=65IxgLzk2EM)
+- [Just Friends (Take 2 / Alternate Take)](https://www.youtube.com/watch?v=KBZlk32eCz0)
 - [April In Paris (Take 2 / Alternate Take)](https://www.youtube.com/watch?v=cvaOvxf-FNM)
 
 

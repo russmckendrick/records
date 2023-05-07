@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ---
 
-![Indie Anthems by Various](indie-anthems-10351934.jpg)
+{{< img src="indie-anthems-10351934.jpg" title="Indie Anthems by Various" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 
 
 ## Videos
-### Super Furry Animals - Juxtapozed with U (Video)
-{{< youtube id="dmCZ4f8NhOk" title="Super Furry Animals - Juxtapozed with U (Video)" >}}<br>
+### Elastica - Waking Up
+{{< youtube id="WlOje4ly4hg" title="Elastica - Waking Up" >}}<br>
 
 ### More Videos
 
@@ -57,6 +57,7 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 - [Radiohead - Just](https://www.youtube.com/watch?v=oIFLtNYI3Ls)
 - [The Charlatans - One To Another](https://www.youtube.com/watch?v=uxyQ5ByKLfE)
 - [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
+- [Super Furry Animals - Juxtapozed with U (Video)](https://www.youtube.com/watch?v=dmCZ4f8NhOk)
 - [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
 - [Kasabian - Fire (Official Music Video)](https://www.youtube.com/watch?v=agVpq_XXRmU)
 - [Miles Kane - Rearrange](https://www.youtube.com/watch?v=2SV422fSYE4)
@@ -64,7 +65,6 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 - [The Coral - Dreaming of You](https://www.youtube.com/watch?v=Jdc6s7gJEfA)
 - [The Prodigy - 'Breathe'](https://www.youtube.com/watch?v=rmHDhAohJlQ)
 - [Manic Street Preachers - You Love Us (Clean Version)](https://www.youtube.com/watch?v=FgKXBJ2LZKo)
-- [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
 - [Lush - Ladykillers (Official Video)](https://www.youtube.com/watch?v=Iedz_x6Hlhw)
 - [Inbetweener](https://www.youtube.com/watch?v=iUQ4Ps9zOQQ)
 - [Ashes](https://www.youtube.com/watch?v=J_4xS6rcTs0)

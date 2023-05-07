@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae"]
 styles: ["Ska"]
 ---
 
-![Live At Ernesto's! by The Slackers](live-at-ernesto-s-15686619.jpg)
+{{< img src="live-at-ernesto-s-15686619.jpg" title="Live At Ernesto's! by The Slackers" >}}
 
 <!-- section break -->
 
@@ -44,13 +44,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Slackers - Sooner Or Later
-{{< youtube id="cGHQ6cpmXEQ" title="The Slackers - Sooner Or Later" >}}<br>
+### The Slackers - Married Girl (Live At Ernesto's)
+{{< youtube id="j96ExxBfE3Q" title="The Slackers - Married Girl (Live At Ernesto's)" >}}<br>
 
 ### More Videos
 
-- [The Slackers - Married Girl (Live At Ernesto's)](https://www.youtube.com/watch?v=j96ExxBfE3Q)
 - [The Slackers - Pedophilia (Live at Ernesto's)](https://www.youtube.com/watch?v=Jnn8sywBL9Y)
+- [The Slackers - Sooner Or Later](https://www.youtube.com/watch?v=cGHQ6cpmXEQ)
 
 
 ## Release Information

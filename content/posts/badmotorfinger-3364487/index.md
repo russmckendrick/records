@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Grunge"]
 ---
 
-![Badmotorfinger by Soundgarden](badmotorfinger-3364487.jpg)
+{{< img src="badmotorfinger-3364487.jpg" title="Badmotorfinger by Soundgarden" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Grunge"]
 
 
 ## Videos
-### Badmotorfinger (1991)
-{{< youtube id="rH9UM3Oyoy0" title="Badmotorfinger (1991)" >}}<br>
+### Mind Riot
+{{< youtube id="l4CrtxwsxYE" title="Mind Riot" >}}<br>
 
 ### More Videos
 
 - [Soundgarden - Rusty Cage](https://www.youtube.com/watch?v=pBZs_Py-1_0)
+- [Badmotorfinger (1991)](https://www.youtube.com/watch?v=rH9UM3Oyoy0)
 - [Soundgarden - Jesus Christ Pose (Official Music Video)](https://www.youtube.com/watch?v=14r7y6rM6zA)
 - [Soundgarden - Outshined](https://www.youtube.com/watch?v=sNh-iw7gsuI)
 - [Searching With My Good Eye Closed](https://www.youtube.com/watch?v=fzPr8iDB8gk)
-- [Mind Riot](https://www.youtube.com/watch?v=l4CrtxwsxYE)
 - [Holy Water](https://www.youtube.com/watch?v=gFtFdUOIalk)
 - [Room A Thousand Years Wide](https://www.youtube.com/watch?v=p4nNvXvrWlE)
 

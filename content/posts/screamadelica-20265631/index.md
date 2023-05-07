@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 ---
 
-![Screamadelica by Primal Scream](screamadelica-20265631.jpg)
+{{< img src="screamadelica-20265631.jpg" title="Screamadelica by Primal Scream" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 
 
 ## Videos
-### Loaded (Andy Weatherall Mix)
-{{< youtube id="sNvUQka4wk0" title="Loaded (Andy Weatherall Mix)" >}}<br>
+### Loaded - Primal Scream
+{{< youtube id="e8QPkD-15GQ" title="Loaded - Primal Scream" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,6 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 - [P̲r̲i̲m̲a̲l̲ S̲c̲r̲e̲a̲m̲](https://www.youtube.com/watch?v=Za39Z5cLSww)
 - [Primal Scream - Slip Inside This House (Official Audio)](https://www.youtube.com/watch?v=StskEnmH9l8)
 - [Come Together](https://www.youtube.com/watch?v=QLcKmOwRk_c)
-- [Loaded - Primal Scream](https://www.youtube.com/watch?v=e8QPkD-15GQ)
 - [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
 - [Primal Scream - I'm Comin' Down (Official Audio)](https://www.youtube.com/watch?v=1gsrx_8jQHY)
 - [Primal Scream - Shine Like Stars (Official Audio)](https://www.youtube.com/watch?v=SKPRmuraUEE)
@@ -65,6 +64,7 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 - [Primal Scream - Movin on Up (Lyrics)](https://www.youtube.com/watch?v=wWUC2-ypnDQ)
 - [Primal Scream - Screamadelica 30th Anniversary Announcement](https://www.youtube.com/watch?v=a9kFFms84wc)
 - [Primal Scream - Loaded (Top of the Pops 1990)](https://www.youtube.com/watch?v=pIs2M77gsiM)
+- [Loaded (Andy Weatherall Mix)](https://www.youtube.com/watch?v=sNvUQka4wk0)
 - [Primal Scream - Loaded (Andy Weatherall Mix - Official Audio)](https://www.youtube.com/watch?v=Ha1H-UQhVW0)
 
 

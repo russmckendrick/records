@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-![Heart by Stars](heart-11885268.jpg)
+{{< img src="heart-11885268.jpg" title="Heart by Stars" >}}
 
 <!-- section break -->
 

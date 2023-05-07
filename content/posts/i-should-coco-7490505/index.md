@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![I Should Coco by Supergrass](i-should-coco-7490505.jpg)
+{{< img src="i-should-coco-7490505.jpg" title="I Should Coco by Supergrass" >}}
 
 <!-- section break -->
 
@@ -43,12 +43,12 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Supergrass - Caught By The Fuzz (Official HD Video - US Version)
-{{< youtube id="GNIMuvbiZcc" title="Supergrass - Caught By The Fuzz (Official HD Video - US Version)" >}}<br>
+### Supergrass - Alright (Official HD Video)
+{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
+- [Supergrass - Caught By The Fuzz (Official HD Video - US Version)](https://www.youtube.com/watch?v=GNIMuvbiZcc)
 - [Supergrass - Mansize Rooster (Official HD Video)](https://www.youtube.com/watch?v=dHlLcVHncDw)
 
 

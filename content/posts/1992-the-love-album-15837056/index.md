@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-![1992 The Love Album by Carter The Unstoppable Sex Machine](1992-the-love-album-15837056.jpg)
+{{< img src="1992-the-love-album-15837056.jpg" title="1992 The Love Album by Carter The Unstoppable Sex Machine" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Carter U.S.M. - Do Re Me So Far So Good (Official Video)
-{{< youtube id="zKMGO77yxdI" title="Carter U.S.M. - Do Re Me So Far So Good (Official Video)" >}}<br>
+### Carter U.S.M. - The Impossible Dream
+{{< youtube id="-Mp6F0u-cw0" title="Carter U.S.M. - The Impossible Dream" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Carter U.S.M. - The Only Living Boy In New Cross](https://www.youtube.com/watch?v=Bge-YbKLnI8)
 - [Carter U.S.M. - The Impossible Dream (Official Video)](https://www.youtube.com/watch?v=4ZttAbWEd3E)
 - [Do Re Me so Far so Good](https://www.youtube.com/watch?v=gUksqINVxbY)
+- [Carter U.S.M. - Do Re Me So Far So Good (Official Video)](https://www.youtube.com/watch?v=zKMGO77yxdI)
 - [Carter U.S.M. - The Only Living Boy In New Cross (Official Video)](https://www.youtube.com/watch?v=imcSt2HyzEo)
-- [Carter U.S.M. - The Impossible Dream](https://www.youtube.com/watch?v=-Mp6F0u-cw0)
 
 
 ## Release Information

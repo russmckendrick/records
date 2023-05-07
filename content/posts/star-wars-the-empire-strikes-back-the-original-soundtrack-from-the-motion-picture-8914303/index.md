@@ -14,7 +14,7 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
 
-![Star Wars / The Empire Strikes Back / The Original Soundtrack From The Motion Picture by John Williams](star-wars-the-empire-strikes-back-the-original-soundtrack-from-the-motion-picture-8914303.jpg)
+{{< img src="star-wars-the-empire-strikes-back-the-original-soundtrack-from-the-motion-picture-8914303.jpg" title="Star Wars / The Empire Strikes Back / The Original Soundtrack From The Motion Picture by John Williams" >}}
 
 <!-- section break -->
 

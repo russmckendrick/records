@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-![Sleep's Holy Mountain by Sleep](sleep-s-holy-mountain-8153400.jpg)
+{{< img src="sleep-s-holy-mountain-8153400.jpg" title="Sleep's Holy Mountain by Sleep" >}}
 
 <!-- section break -->
 

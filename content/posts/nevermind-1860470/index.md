@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Nevermind by Nirvana](nevermind-1860470.jpg)
+{{< img src="nevermind-1860470.jpg" title="Nevermind by Nirvana" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Even In His Youth (B-Side)
-{{< youtube id="plBMcpRRrVw" title="Even In His Youth (B-Side)" >}}<br>
+### Nirvana - Stay Away (Audio)
+{{< youtube id="vnHm-u4IYuo" title="Nirvana - Stay Away (Audio)" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["Alternative Rock", "Grunge"]
 - [Nirvana - Territorial Pissings (Audio)](https://www.youtube.com/watch?v=9yNPgx0swCM)
 - [Nirvana - Drain You (Audio)](https://www.youtube.com/watch?v=AJUpHxlJUNQ)
 - [Nirvana - Lounge Act (Audio)](https://www.youtube.com/watch?v=dZqpol8Yrq8)
-- [Nirvana - Stay Away (Audio)](https://www.youtube.com/watch?v=vnHm-u4IYuo)
 - [Nirvana - On A Plain (Audio)](https://www.youtube.com/watch?v=c023U4oQGr4)
 - [Nirvana - Something In The Way (Audio)](https://www.youtube.com/watch?v=4VxdufqB9zg)
 - [Nirvana - Endless, Nameless (Audio)](https://www.youtube.com/watch?v=uj1PagCfejs)
+- [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)
 - [Nirvana - Aneurysm](https://www.youtube.com/watch?v=y7TPnH5emFg)
 
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
 
-![Hello Nasty by Beastie Boys](hello-nasty-5327924.jpg)
+{{< img src="hello-nasty-5327924.jpg" title="Hello Nasty by Beastie Boys" >}}
 
 <!-- section break -->
 

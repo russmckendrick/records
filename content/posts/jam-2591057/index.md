@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Hard Rock"]
 ---
 
-![Jam by Little Angels](jam-2591057.jpg)
+{{< img src="jam-2591057.jpg" title="Jam by Little Angels" >}}
 
 <!-- section break -->
 

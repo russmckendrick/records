@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 ---
 
-![Waking Hours by Del Amitri](waking-hours-418269.jpg)
+{{< img src="waking-hours-418269.jpg" title="Waking Hours by Del Amitri" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Del Amitri - Kiss This Thing Goodbye
-{{< youtube id="Ify_f6XoqMU" title="Del Amitri - Kiss This Thing Goodbye" >}}<br>
+### Del Amitri - Nothing ever happens (James Whale show)
+{{< youtube id="ModyRm-6uNo" title="Del Amitri - Nothing ever happens (James Whale show)" >}}<br>
 
 ### More Videos
 
-- [Del Amitri - Nothing ever happens (James Whale show)](https://www.youtube.com/watch?v=ModyRm-6uNo)
+- [Del Amitri - Kiss This Thing Goodbye](https://www.youtube.com/watch?v=Ify_f6XoqMU)
 
 
 ## Release Information

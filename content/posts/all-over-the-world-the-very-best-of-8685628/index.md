@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Disco"]
 ---
 
-![All Over The World - The Very Best Of by Electric Light Orchestra](all-over-the-world-the-very-best-of-8685628.jpg)
+{{< img src="all-over-the-world-the-very-best-of-8685628.jpg" title="All Over The World - The Very Best Of by Electric Light Orchestra" >}}
 
 <!-- section break -->
 
@@ -45,13 +45,13 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 
 
 ## Videos
-### Electric Light Orchestra - All Over The World (1980)
-{{< youtube id="36XYt4mpRxI" title="Electric Light Orchestra - All Over The World (1980)" >}}<br>
+### Electric Light Orchestra - Showdown (Official Audio)
+{{< youtube id="JHsUGJ4jDsw" title="Electric Light Orchestra - Showdown (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Electric Light Orchestra - Showdown (Official Audio)](https://www.youtube.com/watch?v=JHsUGJ4jDsw)
 - [ELO- Showdown](https://www.youtube.com/watch?v=8hqmmVXcXzU)
+- [Electric Light Orchestra - All Over The World (1980)](https://www.youtube.com/watch?v=36XYt4mpRxI)
 
 
 ## Release Information

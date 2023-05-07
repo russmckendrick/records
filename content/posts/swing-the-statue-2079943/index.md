@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![Swing The Statue! by Victoria Williams](swing-the-statue-2079943.jpg)
+{{< img src="swing-the-statue-2079943.jpg" title="Swing The Statue! by Victoria Williams" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Folk Rock", "Country Rock"]
 
 
 ## Videos
-### Victoria Williams - Why look at the moon
-{{< youtube id="sTWWReyTcl4" title="Victoria Williams - Why look at the moon" >}}<br>
+### Victoria Williams - Tarbelly & Featherfoot
+{{< youtube id="YFC00BJ8mLQ" title="Victoria Williams - Tarbelly & Featherfoot" >}}<br>
 
 ### More Videos
 
-- [Victoria Williams - Tarbelly & Featherfoot](https://www.youtube.com/watch?v=YFC00BJ8mLQ)
+- [Victoria Williams - Why look at the moon](https://www.youtube.com/watch?v=sTWWReyTcl4)
 - [Victoria Williams - Boogieman](https://www.youtube.com/watch?v=BtW8SV-9JLs)
 - [Victoria Williams - Wobbling](https://www.youtube.com/watch?v=GL8x-eNgPA4)
 

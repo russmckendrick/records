@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Avantgarde"]
 ---
 
-![The Spotlight Kid by Captain Beefheart](the-spotlight-kid-8548954.jpg)
+{{< img src="the-spotlight-kid-8548954.jpg" title="The Spotlight Kid by Captain Beefheart" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Blues Rock", "Avantgarde"]
 
 
 ## Videos
-### Captain Beefheart - I'm Gonna Booglarize You Baby
-{{< youtube id="xiJVac8bCH8" title="Captain Beefheart - I'm Gonna Booglarize You Baby" >}}<br>
+### Captain Beefheart - Glider (1972)
+{{< youtube id="jrRedf-yZ2Q" title="Captain Beefheart - Glider (1972)" >}}<br>
 
 ### More Videos
 
 - [Captain Beefheart - Alice In Blunderland](https://www.youtube.com/watch?v=3i0wU9HsCE0)
-- [Captain Beefheart - Glider (1972)](https://www.youtube.com/watch?v=jrRedf-yZ2Q)
 - [C̤a̤pt̤a̤i̤n̤ B̤e̤e̤f̤h̤e̤a̤r̤t̤ - The Spotli̤ght̤ Kid *** full album ***](https://www.youtube.com/watch?v=zOqHNEKl91c)
 - [Captain Beefheart - Click Clack](https://www.youtube.com/watch?v=uNyOr4h2ZLw)
+- [Captain Beefheart - I'm Gonna Booglarize You Baby](https://www.youtube.com/watch?v=xiJVac8bCH8)
 
 
 ## Release Information

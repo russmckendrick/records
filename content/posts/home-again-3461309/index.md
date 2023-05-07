@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Modern Electric Blues", "Soul", "Folk"]
 ---
 
-![Home Again by Michael Kiwanuka](home-again-3461309.jpg)
+{{< img src="home-again-3461309.jpg" title="Home Again by Michael Kiwanuka" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 
 
 ## Videos
-### Michael Kiwanuka - Always Waiting (Official Video)
-{{< youtube id="61_qsDeuFu8" title="Michael Kiwanuka - Always Waiting (Official Video)" >}}<br>
+### Michael Kiwanuka - I Won't Lie
+{{< youtube id="0t2KhjyKEus" title="Michael Kiwanuka - I Won't Lie" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 - [Michael Kiwanuka - Rest (HQ)](https://www.youtube.com/watch?v=Xlonqk5EOrw)
 - [Michael Kiwanuka - Home Again (Official Video)](https://www.youtube.com/watch?v=kJ4s3G7hgR4)
 - [Michael Kiwanuka - Bones (Official Video)](https://www.youtube.com/watch?v=P6EiH1pzY1U)
-- [Michael Kiwanuka - I Won't Lie](https://www.youtube.com/watch?v=0t2KhjyKEus)
+- [Michael Kiwanuka - Always Waiting (Official Video)](https://www.youtube.com/watch?v=61_qsDeuFu8)
 - [Michael Kiwanuka feat. Dan Auerbach - Lasan](https://www.youtube.com/watch?v=GQUo8lLxVmI)
 
 

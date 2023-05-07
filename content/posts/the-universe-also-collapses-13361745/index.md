@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![The Universe Also Collapses  by Gong](the-universe-also-collapses-13361745.jpg)
+{{< img src="the-universe-also-collapses-13361745.jpg" title="The Universe Also Collapses  by Gong" >}}
 
 <!-- section break -->
 
@@ -32,13 +32,13 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### The Elemental
-{{< youtube id="7jjCO45jw88" title="The Elemental" >}}<br>
+### Forever Reoccurring
+{{< youtube id="gyjBBUZ5cwE" title="Forever Reoccurring" >}}<br>
 
 ### More Videos
 
-- [Forever Reoccurring](https://www.youtube.com/watch?v=gyjBBUZ5cwE)
 - [My Sawtooth Wake](https://www.youtube.com/watch?v=7hbZfHer4Jw)
+- [The Elemental](https://www.youtube.com/watch?v=7jjCO45jw88)
 - [If Never I'm and Ever You](https://www.youtube.com/watch?v=B3jBKRKQSXQ)
 
 

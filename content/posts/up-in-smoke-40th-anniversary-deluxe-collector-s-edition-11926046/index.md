@@ -14,7 +14,7 @@ genres: ["Non-Music", "Stage & Screen"]
 styles: ["Soundtrack", "Comedy", "Dialogue"]
 ---
 
-![Up In Smoke (40th Anniversary Deluxe Collector's Edition) by Cheech & Chong](up-in-smoke-40th-anniversary-deluxe-collector-s-edition-11926046.jpg)
+{{< img src="up-in-smoke-40th-anniversary-deluxe-collector-s-edition-11926046.jpg" title="Up In Smoke (40th Anniversary Deluxe Collector's Edition) by Cheech & Chong" >}}
 
 <!-- section break -->
 
@@ -67,13 +67,13 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 
 
 ## Videos
-### Up In Smoke
-{{< youtube id="AtWmU0AMo5A" title="Up In Smoke" >}}<br>
+### War - Low Rider (HQ Audio)
+{{< youtube id="-xTGrfs5TXM" title="War - Low Rider (HQ Audio)" >}}<br>
 
 ### More Videos
 
 - [Cheech and Chong Original.Trailer[1978]](https://www.youtube.com/watch?v=k2pXxHW1DHs)
-- [War - Low Rider (HQ Audio)](https://www.youtube.com/watch?v=-xTGrfs5TXM)
+- [Up In Smoke](https://www.youtube.com/watch?v=AtWmU0AMo5A)
 - [WAR - Low Rider (Official Video) [Remastered in 4K]](https://www.youtube.com/watch?v=BsrqKE1iqqo)
 - [Cheech & Chong Up in Smoke -Best Scenes-](https://www.youtube.com/watch?v=DzWz3En07og)
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic"]
 ---
 
-![MassEducation by St. Vincent](masseducation-12651681.jpg)
+{{< img src="masseducation-12651681.jpg" title="MassEducation by St. Vincent" >}}
 
 <!-- section break -->
 

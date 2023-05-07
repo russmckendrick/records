@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock", "Indie Rock"]
 ---
 
-![Everyone Into Position by Oceansize](everyone-into-position-1460942.jpg)
+{{< img src="everyone-into-position-1460942.jpg" title="Everyone Into Position by Oceansize" >}}
 
 <!-- section break -->
 

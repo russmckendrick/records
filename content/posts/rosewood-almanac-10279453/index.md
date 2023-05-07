@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![Rosewood Almanac by Will Stratton](rosewood-almanac-10279453.jpg)
+{{< img src="rosewood-almanac-10279453.jpg" title="Rosewood Almanac by Will Stratton" >}}
 
 <!-- section break -->
 

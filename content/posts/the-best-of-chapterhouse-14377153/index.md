@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-![The Best Of Chapterhouse by Chapterhouse](the-best-of-chapterhouse-14377153.jpg)
+{{< img src="the-best-of-chapterhouse-14377153.jpg" title="The Best Of Chapterhouse by Chapterhouse" >}}
 
 <!-- section break -->
 

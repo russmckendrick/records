@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Wide Open Space by Mansun](wide-open-space-11894962.jpg)
+{{< img src="wide-open-space-11894962.jpg" title="Wide Open Space by Mansun" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Mansun Wide Open Space [Trouser Enthusiasts Hermaphrodite Circus Mix]
-{{< youtube id="xAm3jogRt9Y" title="Mansun Wide Open Space [Trouser Enthusiasts Hermaphrodite Circus Mix]" >}}<br>
+### Mansun - Wide Open Space (Perfecto Mix) ·1998·
+{{< youtube id="VEMiMRS1ixo" title="Mansun - Wide Open Space (Perfecto Mix) ·1998·" >}}<br>
 
 ### More Videos
 
-- [Mansun - Wide Open Space (Perfecto Mix) ·1998·](https://www.youtube.com/watch?v=VEMiMRS1ixo)
 - [Mansun - Wide Open Space (Trouser Enthusiasts Hermaphrodite circus Mix.wmv](https://www.youtube.com/watch?v=Zp0bGzYML14)
+- [Mansun Wide Open Space [Trouser Enthusiasts Hermaphrodite Circus Mix]](https://www.youtube.com/watch?v=xAm3jogRt9Y)
 - [Mansun Wide Open Space](https://www.youtube.com/watch?v=ppmUdn6GUXQ)
 - [Mansun- Wide Open Space (Forthright remix)](https://www.youtube.com/watch?v=wnorj9T7tpU)
 - [Mansun - Wide Open Space (John 00 Fleming Mix) 1998](https://www.youtube.com/watch?v=b-EE3VnETeU)

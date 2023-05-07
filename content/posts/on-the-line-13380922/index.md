@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![On The Line by Jenny Lewis](on-the-line-13380922.jpg)
+{{< img src="on-the-line-13380922.jpg" title="On The Line by Jenny Lewis" >}}
 
 <!-- section break -->
 

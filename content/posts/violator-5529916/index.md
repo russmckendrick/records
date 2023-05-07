@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Violator by Depeche Mode](violator-5529916.jpg)
+{{< img src="violator-5529916.jpg" title="Violator by Depeche Mode" >}}
 
 <!-- section break -->
 

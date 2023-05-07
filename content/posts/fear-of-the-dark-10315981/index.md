@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![Fear Of The Dark by Iron Maiden](fear-of-the-dark-10315981.jpg)
+{{< img src="fear-of-the-dark-10315981.jpg" title="Fear Of The Dark by Iron Maiden" >}}
 
 <!-- section break -->
 

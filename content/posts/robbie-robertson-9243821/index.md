@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Robbie Robertson by Robbie Robertson](robbie-robertson-9243821.jpg)
+{{< img src="robbie-robertson-9243821.jpg" title="Robbie Robertson by Robbie Robertson" >}}
 
 <!-- section break -->
 
@@ -37,19 +37,19 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Robbie Robertson Showdown At Big Sky (Official)
-{{< youtube id="3u7UZPxu7H0" title="Robbie Robertson Showdown At Big Sky (Official)" >}}<br>
+### Testimony
+{{< youtube id="FqUFRUQ8uZI" title="Testimony" >}}<br>
 
 ### More Videos
 
 - [Robbie Robertson   Fallen Angel](https://www.youtube.com/watch?v=HdtAfUtOEWA)
+- [Robbie Robertson Showdown At Big Sky (Official)](https://www.youtube.com/watch?v=3u7UZPxu7H0)
 - [Broken Arrow](https://www.youtube.com/watch?v=OaXJYBHoxuo)
 - [Sweet Fire Of Love](https://www.youtube.com/watch?v=hgAaf7jka84)
 - [American Roulette](https://www.youtube.com/watch?v=rlxD5GGZTeA)
 - [Robbie Robertson - Somewhere Down The Crazy River](https://www.youtube.com/watch?v=zdtTO_RdrLc)
 - [Hell's Half Acre](https://www.youtube.com/watch?v=s5-t3e7EWK0)
 - [Sonny Got Caught In The Moonlight](https://www.youtube.com/watch?v=Dk3UzUXBMdc)
-- [Testimony](https://www.youtube.com/watch?v=FqUFRUQ8uZI)
 
 
 ## Release Information

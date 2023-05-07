@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Studio Albums 93 - 16 by Suede](studio-albums-93-16-12778997.jpg)
+{{< img src="studio-albums-93-16-12778997.jpg" title="Studio Albums 93 - 16 by Suede" >}}
 
 <!-- section break -->
 

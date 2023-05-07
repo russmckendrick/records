@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-![Stay Human Vol. II by Michael Franti And Spearhead](stay-human-vol-ii-13122410.jpg)
+{{< img src="stay-human-vol-ii-13122410.jpg" title="Stay Human Vol. II by Michael Franti And Spearhead" >}}
 
 <!-- section break -->
 

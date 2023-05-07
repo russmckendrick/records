@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Glam", "Art Rock"]
 ---
 
-![The Rise And Fall Of Ziggy Stardust And The Spiders From Mars by David Bowie](the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-23595440.jpg)
+{{< img src="the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-23595440.jpg" title="The Rise And Fall Of Ziggy Stardust And The Spiders From Mars by David Bowie" >}}
 
 <!-- section break -->
 

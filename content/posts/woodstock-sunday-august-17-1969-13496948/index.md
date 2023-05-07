@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-![Woodstock Sunday August 17, 1969 by Sly & The Family Stone](woodstock-sunday-august-17-1969-13496948.jpg)
+{{< img src="woodstock-sunday-august-17-1969-13496948.jpg" title="Woodstock Sunday August 17, 1969 by Sly & The Family Stone" >}}
 
 <!-- section break -->
 

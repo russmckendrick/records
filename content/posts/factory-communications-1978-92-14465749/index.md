@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
 ---
 
-![Factory Communications 1978-92 by Various](factory-communications-1978-92-14465749.jpg)
+{{< img src="factory-communications-1978-92-14465749.jpg" title="Factory Communications 1978-92 by Various" >}}
 
 <!-- section break -->
 
@@ -107,8 +107,8 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 
 
 ## Videos
-### New Order - Everything's Gone Green
-{{< youtube id="lRgHSxWnhqk" title="New Order - Everything's Gone Green" >}}<br>
+### A Certain Ratio - All Night Party (1979)
+{{< youtube id="HAM9uMKQCPw" title="A Certain Ratio - All Night Party (1979)" >}}<br>
 
 ### More Videos
 
@@ -116,7 +116,6 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
 - [Cabaret Voltaire - Baader Meinhof](https://www.youtube.com/watch?v=8ty1kAz7gR0)
 - [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
-- [A Certain Ratio - All Night Party (1979)](https://www.youtube.com/watch?v=HAM9uMKQCPw)
 - [Get the Message (DNA Mix)](https://www.youtube.com/watch?v=vXSFntRia0k)
 - [Electricity (Factory Version) - OMD](https://www.youtube.com/watch?v=GFuz-BLmeb4)
 - [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
@@ -130,6 +129,7 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [It's Hard to be an Egg](https://www.youtube.com/watch?v=r3x9A38HzAk)
 - [Crispy Ambulance-Deaf](https://www.youtube.com/watch?v=ArMnpj-KMo8)
 - [Section 25 - Dirty Disco](https://www.youtube.com/watch?v=sEVROLHqI2A)
+- [New Order - Everything's Gone Green](https://www.youtube.com/watch?v=lRgHSxWnhqk)
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
 - [Various ‎– Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
 

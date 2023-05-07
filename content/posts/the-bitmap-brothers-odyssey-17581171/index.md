@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Video Game Music"]
 ---
 
-![The Bitmap Brothers: Odyssey by Various](the-bitmap-brothers-odyssey-17581171.jpg)
+{{< img src="the-bitmap-brothers-odyssey-17581171.jpg" title="The Bitmap Brothers: Odyssey by Various" >}}
 
 <!-- section break -->
 

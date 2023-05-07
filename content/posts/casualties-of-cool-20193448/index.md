@@ -14,7 +14,7 @@ genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Country", "Folk", "Abstract"]
 ---
 
-![Casualties Of Cool by Casualties Of Cool](casualties-of-cool-20193448.jpg)
+{{< img src="casualties-of-cool-20193448.jpg" title="Casualties Of Cool by Casualties Of Cool" >}}
 
 <!-- section break -->
 
@@ -55,13 +55,13 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 
 
 ## Videos
-### 01 daddy
-{{< youtube id="vNQDWKzjDqY" title="01 daddy" >}}<br>
+### Casualties of Cool 'Flight' - Official Promo Video
+{{< youtube id="muNLqPPTuDQ" title="Casualties of Cool 'Flight' - Official Promo Video" >}}<br>
 
 ### More Videos
 
 - [CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=L2avV9ZGE3A)
-- [Casualties of Cool 'Flight' - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
+- [01 daddy](https://www.youtube.com/watch?v=vNQDWKzjDqY)
 
 
 ## Release Information

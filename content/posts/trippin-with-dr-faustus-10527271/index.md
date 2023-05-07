@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Prog Rock"]
 ---
 
-![Trippin' With Dr. Faustus by Amplifier](trippin-with-dr-faustus-10527271.jpg)
+{{< img src="trippin-with-dr-faustus-10527271.jpg" title="Trippin' With Dr. Faustus by Amplifier" >}}
 
 <!-- section break -->
 

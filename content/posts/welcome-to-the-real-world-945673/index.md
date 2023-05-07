@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Welcome To The Real World by Mr. Mister](welcome-to-the-real-world-945673.jpg)
+{{< img src="welcome-to-the-real-world-945673.jpg" title="Welcome To The Real World by Mr. Mister" >}}
 
 <!-- section break -->
 

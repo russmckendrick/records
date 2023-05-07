@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Raintown by Deacon Blue](raintown-2313799.jpg)
+{{< img src="raintown-2313799.jpg" title="Raintown by Deacon Blue" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,14 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Town to Be Blamed
-{{< youtube id="eeVeLb9-QoA" title="Town to Be Blamed" >}}<br>
+### Raintown
+{{< youtube id="RckKerR6MI8" title="Raintown" >}}<br>
 
 ### More Videos
 
 - [Born in a Storm](https://www.youtube.com/watch?v=xahuOCodtL0)
 - [Deacon Blue - Chocolate girl HQ](https://www.youtube.com/watch?v=fOrOh3rEwB4)
 - [Born in a Storm](https://www.youtube.com/watch?v=GlJ4XYVvqPQ)
-- [Raintown](https://www.youtube.com/watch?v=RckKerR6MI8)
 - [Ragman](https://www.youtube.com/watch?v=SE4MpZtgdJQ)
 - [He Looks Like Spencer Tracy Now](https://www.youtube.com/watch?v=d6ujXpWJ__0)
 - [Deacon Blue - He Looks like Spencer Tracy Now](https://www.youtube.com/watch?v=hqoc8CLNptk)
@@ -62,6 +61,7 @@ styles: ["Synth-pop"]
 - [The Very Thing](https://www.youtube.com/watch?v=4h6NLkEBD1Q)
 - [Love's Great Fears](https://www.youtube.com/watch?v=wCsGgUzhR1E)
 - [Deacon Blue - Love's great fears](https://www.youtube.com/watch?v=9W_JM_NDYzI)
+- [Town to Be Blamed](https://www.youtube.com/watch?v=eeVeLb9-QoA)
 - [Town to Be Blamed](https://www.youtube.com/watch?v=KQctwZ0yFfI)
 - [Riches](https://www.youtube.com/watch?v=zJ48Sppm9Co)
 - [Kings Of The Western World](https://www.youtube.com/watch?v=1lZbCUtUdAo)

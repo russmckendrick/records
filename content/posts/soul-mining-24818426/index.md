@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-![Soul Mining by The The](soul-mining-24818426.jpg)
+{{< img src="soul-mining-24818426.jpg" title="Soul Mining by The The" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### The The - The Sinking Feeling
-{{< youtube id="RzPeHdPeL-c" title="The The - The Sinking Feeling" >}}<br>
+### The The - The Twilight Hour
+{{< youtube id="oApuE2uJsas" title="The The - The Twilight Hour" >}}<br>
 
 ### More Videos
 
@@ -44,8 +44,8 @@ styles: ["New Wave", "Indie Rock"]
 - [The The - Giant](https://www.youtube.com/watch?v=aub7ojxeEAw)
 - [The The I've Been Waiting for Tomorrow (All of My Life)](https://www.youtube.com/watch?v=MVQ-i4hSESI)
 - [Soul Mining](https://www.youtube.com/watch?v=IkzwnBqjRYg)
+- [The The - The Sinking Feeling](https://www.youtube.com/watch?v=RzPeHdPeL-c)
 - [The The - This Is The Day (Remastered)](https://www.youtube.com/watch?v=XKukFy18nes)
-- [The The - The Twilight Hour](https://www.youtube.com/watch?v=oApuE2uJsas)
 
 
 ## Release Information

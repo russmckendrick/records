@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Variations On Darkness by Sigur Rós](variations-on-darkness-13474949.jpg)
+{{< img src="variations-on-darkness-13474949.jpg" title="Variations On Darkness by Sigur Rós" >}}
 
 <!-- section break -->
 
@@ -30,12 +30,12 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### The Hungry Ghosts, We Live in an Old Chaos of the Sun
-{{< youtube id="ywHYsR6WqHs" title="The Hungry Ghosts, We Live in an Old Chaos of the Sun" >}}<br>
+### The Silence of Animals, The Truth is it Wanted to Cave in
+{{< youtube id="8HrNl8KyvJE" title="The Silence of Animals, The Truth is it Wanted to Cave in" >}}<br>
 
 ### More Videos
 
-- [The Silence of Animals, The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
+- [The Hungry Ghosts, We Live in an Old Chaos of the Sun](https://www.youtube.com/watch?v=ywHYsR6WqHs)
 
 
 ## Release Information

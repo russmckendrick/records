@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Snakes & Arrows by Rush](snakes-arrows-7973425.jpg)
+{{< img src="snakes-arrows-7973425.jpg" title="Snakes & Arrows by Rush" >}}
 
 <!-- section break -->
 

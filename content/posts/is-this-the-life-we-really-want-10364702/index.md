@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Is This The Life We Really Want? by Roger Waters](is-this-the-life-we-really-want-10364702.jpg)
+{{< img src="is-this-the-life-we-really-want-10364702.jpg" title="Is This The Life We Really Want? by Roger Waters" >}}
 
 <!-- section break -->
 

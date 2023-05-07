@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Greatest Hits by Al Green](greatest-hits-1624163.jpg)
+{{< img src="greatest-hits-1624163.jpg" title="Greatest Hits by Al Green" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Soul"]
 
 
 ## Videos
-### Let's Stay Together
-{{< youtube id="2FEJINHoRcU" title="Let's Stay Together" >}}<br>
+### Al Green - How Can You Mend a Broken Heart (Official Audio)
+{{< youtube id="PTY6Kv0nPr8" title="Al Green - How Can You Mend a Broken Heart (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Soul"]
 - [Call Me (Come Back Home)](https://www.youtube.com/watch?v=7vPYMqEjWOo)
 - [I'm Still in Love with You](https://www.youtube.com/watch?v=tS4W_A1X1pM)
 - [Here I Am (Come and Take Me)](https://www.youtube.com/watch?v=vHAXp39WjZM)
-- [Al Green - How Can You Mend a Broken Heart (Official Audio)](https://www.youtube.com/watch?v=PTY6Kv0nPr8)
+- [Let's Stay Together](https://www.youtube.com/watch?v=2FEJINHoRcU)
 - [I Can't Get Next to You](https://www.youtube.com/watch?v=FJeyL4rXPV4)
 - [You Ought to Be with Me](https://www.youtube.com/watch?v=BWXuLHzj8JM)
 - [Look What You Done for Me](https://www.youtube.com/watch?v=le_SsLujDjg)

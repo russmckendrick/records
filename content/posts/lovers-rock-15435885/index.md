@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Lovers Rock by The Dears](lovers-rock-15435885.jpg)
+{{< img src="lovers-rock-15435885.jpg" title="Lovers Rock by The Dears" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Jazz-Funk"]
 ---
 
-![Beatmaker by Matt Berry](beatmaker-22444114.jpg)
+{{< img src="beatmaker-22444114.jpg" title="Beatmaker by Matt Berry" >}}
 
 <!-- section break -->
 

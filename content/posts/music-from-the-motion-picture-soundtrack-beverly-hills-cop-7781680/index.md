@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 ---
 
-![Music From The Motion Picture Soundtrack - Beverly Hills Cop by Various](music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680.jpg)
+{{< img src="music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680.jpg" title="Music From The Motion Picture Soundtrack - Beverly Hills Cop by Various" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,12 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 
 
 ## Videos
-### Glenn Frey - The Heat Is On (From Beverly Hills Cop Soundtrack)
-{{< youtube id="uZD8HKVKneI" title="Glenn Frey - The Heat Is On (From Beverly Hills Cop Soundtrack)" >}}<br>
+### [Beverly_Hills_Cop_I] 04. Rockie_Robbins - Emergency
+{{< youtube id="y3tgHsx3wiQ" title="[Beverly_Hills_Cop_I] 04. Rockie_Robbins - Emergency" >}}<br>
 
 ### More Videos
 
 - [Beverly Hills Cop - full album - score and songs - Harold Faltermeyer](https://www.youtube.com/watch?v=QmhagVGxWiA)
-- [[Beverly_Hills_Cop_I] 04. Rockie_Robbins - Emergency](https://www.youtube.com/watch?v=y3tgHsx3wiQ)
 - [Harold Faltermeyer   Beverly Hills Cop Soundtrack Original Score‏](https://www.youtube.com/watch?v=XJ5Brj-eMlA)
 - [Patti LaBelle - New Attitude](https://www.youtube.com/watch?v=QWfZ5SZZ4xE)
 - [Beverly Hills Cop Soundtrack (1984) [FULL ALBUM]](https://www.youtube.com/watch?v=5yT2tAVvLW8)
@@ -50,6 +49,7 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 - [The Pointer Sisters - Neutron Dance](https://www.youtube.com/watch?v=i-jdhorGtQI)
 - [Gratitude - Danny Elfman](https://www.youtube.com/watch?v=6nzlbR2ZuU0)
 - [Rockie Robbins - Emergency](https://www.youtube.com/watch?v=Dfy7A-pK6NE)
+- [Glenn Frey - The Heat Is On (From Beverly Hills Cop Soundtrack)](https://www.youtube.com/watch?v=uZD8HKVKneI)
 - [Harold Faltermeyer - Axel F (HQ)](https://www.youtube.com/watch?v=BxcgnNNAOy0)
 - [Stir It Up - Patti LaBelle](https://www.youtube.com/watch?v=4ELcA-GdPCE)
 - [Patti LaBelle - Stir It Up (1985) Beverly Hills﻿ Cop - Soundtrack](https://www.youtube.com/watch?v=xtOoeDPc9uI)

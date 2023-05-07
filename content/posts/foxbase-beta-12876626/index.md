@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 ---
 
-![Foxbase Beta by Saint Etienne](foxbase-beta-12876626.jpg)
+{{< img src="foxbase-beta-12876626.jpg" title="Foxbase Beta by Saint Etienne" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
-![The Navigator by Hurray For The Riff Raff](the-navigator-9912657.jpg)
+{{< img src="the-navigator-9912657.jpg" title="The Navigator by Hurray For The Riff Raff" >}}
 
 <!-- section break -->
 

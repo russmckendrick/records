@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![All This Will Be Yours by Bruce Soord](all-this-will-be-yours-14311736.jpg)
+{{< img src="all-this-will-be-yours-14311736.jpg" title="All This Will Be Yours by Bruce Soord" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)
-{{< youtube id="3yTqsLnYreQ" title="Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)" >}}<br>
+### Bruce Soord - All This Will Be Yours (from All This Will Be Yours)
+{{< youtube id="bQoF0vvCHUk" title="Bruce Soord - All This Will Be Yours (from All This Will Be Yours)" >}}<br>
 
 ### More Videos
 
-- [Bruce Soord - All This Will Be Yours (from All This Will Be Yours)](https://www.youtube.com/watch?v=bQoF0vvCHUk)
+- [Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)](https://www.youtube.com/watch?v=3yTqsLnYreQ)
 
 
 ## Release Information

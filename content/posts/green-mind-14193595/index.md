@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
 
-![Green Mind by Dinosaur Jr.](green-mind-14193595.jpg)
+{{< img src="green-mind-14193595.jpg" title="Green Mind by Dinosaur Jr." >}}
 
 <!-- section break -->
 

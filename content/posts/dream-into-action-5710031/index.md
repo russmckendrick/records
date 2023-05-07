@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![Dream Into Action by Howard Jones](dream-into-action-5710031.jpg)
+{{< img src="dream-into-action-5710031.jpg" title="Dream Into Action by Howard Jones" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,11 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Howard Jones - Things Can Only Get Better (Remastered Video) (1985)
-{{< youtube id="woWvClE6yHE" title="Howard Jones - Things Can Only Get Better (Remastered Video) (1985)" >}}<br>
+### Life in One Day, Pt. 1 [2018 Remaster]
+{{< youtube id="dzI32uP4VeA" title="Life in One Day, Pt. 1 [2018 Remaster]" >}}<br>
 
 ### More Videos
 
-- [Life in One Day, Pt. 1 [2018 Remaster]](https://www.youtube.com/watch?v=dzI32uP4VeA)
 - [Dream Into Action [2018 Remaster]](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
 - [Howard Jones - No One Is To Blame](https://www.youtube.com/watch?v=pekhxxngQ3s)
 - [Howard Jones Look Mama](https://www.youtube.com/watch?v=V7kBThjwQ1c)
@@ -56,6 +55,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Specialty [2018 Remaster]](https://www.youtube.com/watch?v=_WRU1DI_WAc)
 - [Why Look for the Key [2018 Remaster]](https://www.youtube.com/watch?v=yjemLgOCVJg)
 - [Hunger for the Flesh [2018 Remaster]](https://www.youtube.com/watch?v=SMdZKJD_atc)
+- [Howard Jones - Things Can Only Get Better (Remastered Video) (1985)](https://www.youtube.com/watch?v=woWvClE6yHE)
 
 
 ## Release Information

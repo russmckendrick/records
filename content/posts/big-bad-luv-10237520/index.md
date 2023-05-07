@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Big Bad Luv by John Moreland](big-bad-luv-10237520.jpg)
+{{< img src="big-bad-luv-10237520.jpg" title="Big Bad Luv by John Moreland" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,12 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Latchkey Kid
-{{< youtube id="t61aeKHE7QE" title="Latchkey Kid" >}}<br>
+### Old Wounds
+{{< youtube id="sJWBJx64frM" title="Old Wounds" >}}<br>
 
 ### More Videos
 
 - [John Moreland - Sallisaw Blue (Official Audio)](https://www.youtube.com/watch?v=bfkXnZ65jS8)
-- [Old Wounds](https://www.youtube.com/watch?v=sJWBJx64frM)
 - [Every Kind of Wrong](https://www.youtube.com/watch?v=ZZ1bZqWpRGk)
 - [Love Is Not an Answer](https://www.youtube.com/watch?v=R4tE27oj8vU)
 - [Lies I Chose to Believe](https://www.youtube.com/watch?v=e9hui3Foy4E)
@@ -54,6 +53,7 @@ styles: ["Folk Rock"]
 - [Ain't We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
 - [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=yR0QCXbxM3U)
 - [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
+- [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
 
 
 ## Release Information

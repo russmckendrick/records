@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
-![Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition) by The Flaming Lips](yoshimi-battles-the-pink-robots-20th-anniversary-deluxe-edition-26754977.jpg)
+{{< img src="yoshimi-battles-the-pink-robots-20th-anniversary-deluxe-edition-26754977.jpg" title="Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition) by The Flaming Lips" >}}
 
 <!-- section break -->
 

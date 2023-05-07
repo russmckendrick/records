@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Are You Normal? by Ned's Atomic Dustbin](are-you-normal-929001.jpg)
+{{< img src="are-you-normal-929001.jpg" title="Are You Normal? by Ned's Atomic Dustbin" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin-Two And Two Made Five.
-{{< youtube id="KSm40achaFI" title="Ned's Atomic Dustbin-Two And Two Made Five." >}}<br>
+### Neds Atomic Dustbin - Tantrum
+{{< youtube id="ZcsLYwWxa7A" title="Neds Atomic Dustbin - Tantrum" >}}<br>
 
 ### More Videos
 
@@ -56,8 +56,8 @@ styles: ["Indie Rock"]
 - [Neds Atomic Dustbin - Swallowing Air](https://www.youtube.com/watch?v=wIpnNiQxg7A)
 - [Ned's Atomic Dustbin-Walking through Syrup](https://www.youtube.com/watch?v=7LdC3FCprnI)
 - [Ned's Atomic Dustbin - Who Goes First?](https://www.youtube.com/watch?v=OqWXJcGAwVI)
+- [Ned's Atomic Dustbin-Two And Two Made Five.](https://www.youtube.com/watch?v=KSm40achaFI)
 - [Neds Atomic Dustbin - Walking Through Syrup](https://www.youtube.com/watch?v=l_UlbQjN0VY)
-- [Neds Atomic Dustbin - Tantrum](https://www.youtube.com/watch?v=ZcsLYwWxa7A)
 - [Ned's Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
 - [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 

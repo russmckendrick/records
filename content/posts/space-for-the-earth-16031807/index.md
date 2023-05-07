@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-![Space For The Earth by Ozric Tentacles](space-for-the-earth-16031807.jpg)
+{{< img src="space-for-the-earth-16031807.jpg" title="Space For The Earth by Ozric Tentacles" >}}
 
 <!-- section break -->
 

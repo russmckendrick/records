@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-![Desire's Magic Theatre by Purson](desire-s-magic-theatre-8453895.jpg)
+{{< img src="desire-s-magic-theatre-8453895.jpg" title="Desire's Magic Theatre by Purson" >}}
 
 <!-- section break -->
 

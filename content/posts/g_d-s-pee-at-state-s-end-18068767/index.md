@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![G_d's Pee At State's End! by Godspeed You Black Emperor!](g_d-s-pee-at-state-s-end-18068767.jpg)
+{{< img src="g_d-s-pee-at-state-s-end-18068767.jpg" title="G_d's Pee At State's End! by Godspeed You Black Emperor!" >}}
 
 <!-- section break -->
 

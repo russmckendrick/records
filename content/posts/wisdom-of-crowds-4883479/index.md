@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Wisdom Of Crowds by Bruce Soord](wisdom-of-crowds-4883479.jpg)
+{{< img src="wisdom-of-crowds-4883479.jpg" title="Wisdom Of Crowds by Bruce Soord" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure
-{{< youtube id="Ulmm9ItsyEQ" title="Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure" >}}<br>
+### Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)
+{{< youtube id="P66D8U7xxh8" title="Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)" >}}<br>
 
 ### More Videos
 
 - [Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)](https://www.youtube.com/watch?v=3XUcKhremjE)
-- [Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)](https://www.youtube.com/watch?v=P66D8U7xxh8)
+- [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
 
 
 ## Release Information

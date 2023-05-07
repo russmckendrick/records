@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ---
 
-![Dead Cities by The Future Sound Of London](dead-cities-18313399.jpg)
+{{< img src="dead-cities-18313399.jpg" title="Dead Cities by The Future Sound Of London" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 
 
 ## Videos
-### Future Sound Of London - Vit Drowning - HQ
-{{< youtube id="di7KnHdGk4A" title="Future Sound Of London - Vit Drowning - HQ" >}}<br>
+### future sound of london dead cities - everyone in the world is doing something without me
+{{< youtube id="OseeyeXoiHI" title="future sound of london dead cities - everyone in the world is doing something without me" >}}<br>
 
 ### More Videos
 
@@ -54,10 +54,10 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 - [future sound of london dead cities - max](https://www.youtube.com/watch?v=tZ7gAp9pTSk)
 - [Quagmire/In A State Of Permanent Abyss](https://www.youtube.com/watch?v=mI8ga0VFk1g)
 - [Future Sound Of London - Live @ Kiss FM, Manchester - 06.11.1996 (Dead Cities tour)](https://www.youtube.com/watch?v=ZUgJpPakpVI)
+- [Future Sound Of London - Vit Drowning - HQ](https://www.youtube.com/watch?v=di7KnHdGk4A)
 - [Future Sound Of London Dead Cites](https://www.youtube.com/watch?v=_1Ps-OtDdGU)
 - [Future Sound Of London - Herd Killing](https://www.youtube.com/watch?v=JDkLdtEYqSY)
 - [future sound of london dead cities - my kingdom](https://www.youtube.com/watch?v=4r1AtaVVGSM)
-- [future sound of london dead cities - everyone in the world is doing something without me](https://www.youtube.com/watch?v=OseeyeXoiHI)
 - [Future Sound of London Dead Cities - Herd killing](https://www.youtube.com/watch?v=vHpmvjqJpjw)
 - [Herd Killing](https://www.youtube.com/watch?v=0HyEoxOQOV4)
 - [future sound of london dead cities - antique toy](https://www.youtube.com/watch?v=1IeOy4hfMLA)

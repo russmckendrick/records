@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Krautrock", "Alternative Rock"]
 ---
 
-![Open Mind (The Best Of Blackfield) by Blackfield](open-mind-the-best-of-blackfield-12599468.jpg)
+{{< img src="open-mind-the-best-of-blackfield-12599468.jpg" title="Open Mind (The Best Of Blackfield) by Blackfield" >}}
 
 <!-- section break -->
 

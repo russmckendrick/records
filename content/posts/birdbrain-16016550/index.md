@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Birdbrain by Buffalo Tom](birdbrain-16016550.jpg)
+{{< img src="birdbrain-16016550.jpg" title="Birdbrain by Buffalo Tom" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-![Guns by Cardiacs](guns-7235227.jpg)
+{{< img src="guns-7235227.jpg" title="Guns by Cardiacs" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### Clean That Evil Mud Out Your Soul
-{{< youtube id="B9qszLOyb1s" title="Clean That Evil Mud Out Your Soul" >}}<br>
+### Sleep All Eyes Open
+{{< youtube id="Ps5xGDgcg7k" title="Sleep All Eyes Open" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [Wind And Rains Is Cold](https://www.youtube.com/watch?v=oW93gitP87k)
 - [Cry Wet Smile Dry](https://www.youtube.com/watch?v=cyertOcNnnA)
 - [Jitterbug (Junior Is A)](https://www.youtube.com/watch?v=y-GJXJOUJjE)
-- [Sleep All Eyes Open](https://www.youtube.com/watch?v=Ps5xGDgcg7k)
 - [Come Back Clammy Lammy](https://www.youtube.com/watch?v=9GeWmRjcaD4)
+- [Clean That Evil Mud Out Your Soul](https://www.youtube.com/watch?v=B9qszLOyb1s)
 - [Ain't He Messy Though](https://www.youtube.com/watch?v=62uYh6Bf_lE)
 - [Signs](https://www.youtube.com/watch?v=cNMNnSdjaMU)
 - [Song Of A Dead Pest](https://www.youtube.com/watch?v=87xA35MmnOs)

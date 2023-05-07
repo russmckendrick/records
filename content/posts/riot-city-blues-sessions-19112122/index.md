@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Indie Rock", "Blues Rock", "Garage Rock", "Country Rock", "Country Blues"]
 ---
 
-![Riot City Blues Sessions by Primal Scream](riot-city-blues-sessions-19112122.jpg)
+{{< img src="riot-city-blues-sessions-19112122.jpg" title="Riot City Blues Sessions by Primal Scream" >}}
 
 <!-- section break -->
 

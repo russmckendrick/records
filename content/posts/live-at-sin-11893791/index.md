@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Art Rock"]
 ---
 
-![Live At Sin-é by Jeff Buckley](live-at-sin-11893791.jpg)
+{{< img src="live-at-sin-11893791.jpg" title="Live At Sin-é by Jeff Buckley" >}}
 
 <!-- section break -->
 
@@ -62,14 +62,14 @@ styles: ["Folk Rock", "Art Rock"]
 
 
 ## Videos
-### Jeff Buckley - Hallelujah live at Sin-é
-{{< youtube id="BsyRq0WFOHY" title="Jeff Buckley - Hallelujah live at Sin-é" >}}<br>
+### jeff buckley - sweet thing
+{{< youtube id="3f08Erq5EK8" title="jeff buckley - sweet thing" >}}<br>
 
 ### More Videos
 
 - [Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)](https://www.youtube.com/watch?v=GQm1cX8uWxE)
 - [Night Flight (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=hYN8Mk54XHg)
-- [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
+- [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
 
 
 ## Release Information

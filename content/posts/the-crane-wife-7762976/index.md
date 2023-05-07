@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Indie Rock"]
 ---
 
-![The Crane Wife by The Decemberists](the-crane-wife-7762976.jpg)
+{{< img src="the-crane-wife-7762976.jpg" title="The Crane Wife by The Decemberists" >}}
 
 <!-- section break -->
 

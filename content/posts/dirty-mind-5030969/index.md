@@ -14,7 +14,7 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Soul", "Synth-pop"]
 ---
 
-![Dirty Mind by Prince](dirty-mind-5030969.jpg)
+{{< img src="dirty-mind-5030969.jpg" title="Dirty Mind by Prince" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Disco", "Soul", "Synth-pop"]
 
 
 ## Videos
-### Head
-{{< youtube id="1UjU9lnAGso" title="Head" >}}<br>
+### Gotta Broken Heart Again
+{{< youtube id="7Xgx5WpMp98" title="Gotta Broken Heart Again" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Disco", "Soul", "Synth-pop"]
 - [Sister](https://www.youtube.com/watch?v=uGq5xN-KUDE)
 - [Partyup](https://www.youtube.com/watch?v=_w94tZ9yXYw)
 - [Do It All Night](https://www.youtube.com/watch?v=NUcgcSXDH9k)
-- [Gotta Broken Heart Again](https://www.youtube.com/watch?v=7Xgx5WpMp98)
+- [Head](https://www.youtube.com/watch?v=1UjU9lnAGso)
 - [When You Were Mine](https://www.youtube.com/watch?v=sXS2KdNzMDk)
 
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-![Torn Down: Mixed Up Extras 2018 by The Cure](torn-down-mixed-up-extras-2018-11892527.jpg)
+{{< img src="torn-down-mixed-up-extras-2018-11892527.jpg" title="Torn Down: Mixed Up Extras 2018 by The Cure" >}}
 
 <!-- section break -->
 

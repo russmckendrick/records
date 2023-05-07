@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![Kick by INXS](kick-489874.jpg)
+{{< img src="kick-489874.jpg" title="Kick by INXS" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### INXS - Guns In The Sky (Official Music Video)
-{{< youtube id="FBje_3aRdgg" title="INXS - Guns In The Sky (Official Music Video)" >}}<br>
+### INXS ‎– Guns In The Sky
+{{< youtube id="V5drADVRwyU" title="INXS ‎– Guns In The Sky" >}}<br>
 
 ### More Videos
 
@@ -56,9 +56,9 @@ styles: ["Pop Rock", "Indie Rock"]
 - [INXS - Mystify](https://www.youtube.com/watch?v=26ELh7P2ZtA)
 - [INXS - New Sensation (Official Music Video)](https://www.youtube.com/watch?v=azfG5H-pCVg)
 - [INXS - Devil Inside (Official Music Video)](https://www.youtube.com/watch?v=hv_zJrO_ptk)
+- [INXS - Guns In The Sky (Official Music Video)](https://www.youtube.com/watch?v=FBje_3aRdgg)
 - [INXS ‎– Need You Tonight](https://www.youtube.com/watch?v=_8W9E5E8cYA)
 - [Inxs - Need you tonight](https://www.youtube.com/watch?v=Swdbv5I6qzc)
-- [INXS ‎– Guns In The Sky](https://www.youtube.com/watch?v=V5drADVRwyU)
 - [Inxs - Wild life](https://www.youtube.com/watch?v=fgJ9qLXHbbk)
 - [INXS – New Sensation](https://www.youtube.com/watch?v=IqWUU7qmVd8)
 - [INXS - Never Tear Us Apart (Soul Version)](https://www.youtube.com/watch?v=MxFrA-eq074)

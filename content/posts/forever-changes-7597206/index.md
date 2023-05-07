@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock"]
 ---
 
-![Forever Changes by Love](forever-changes-7597206.jpg)
+{{< img src="forever-changes-7597206.jpg" title="Forever Changes by Love" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Folk Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### L̰o̰v̰ḛ-̰ ̰F̰o̰r̰ḛv̰ḛr̰ ̰C̰h̰a̰n̰g̰ḛs̰- Collector's Edition Full Album
-{{< youtube id="yA5ZwJ8DQ2o" title="L̰o̰v̰ḛ-̰ ̰F̰o̰r̰ḛv̰ḛr̰ ̰C̰h̰a̰n̰g̰ḛs̰- Collector's Edition Full Album" >}}<br>
+### Maybe the People Would Be the Times or Between Clark and Hilldale (2015 Remaster)
+{{< youtube id="hwnyoH5DpNE" title="Maybe the People Would Be the Times or Between Clark and Hilldale (2015 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Alone Again Or (2015 Remaster)](https://www.youtube.com/watch?v=cPbNpIG8x_s)
-- [Maybe the People Would Be the Times or Between Clark and Hilldale (2015 Remaster)](https://www.youtube.com/watch?v=hwnyoH5DpNE)
+- [L̰o̰v̰ḛ-̰ ̰F̰o̰r̰ḛv̰ḛr̰ ̰C̰h̰a̰n̰g̰ḛs̰- Collector's Edition Full Album](https://www.youtube.com/watch?v=yA5ZwJ8DQ2o)
 - [A House Is Not a Motel (2015 Remaster)](https://www.youtube.com/watch?v=H3xzHYz6L5w)
 - [You Set the Scene (2015 Remaster)](https://www.youtube.com/watch?v=-N9kGKFIAQk)
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
 
-![Angels & Ghosts by Dave Gahan](angels-ghosts-7829894.jpg)
+{{< img src="angels-ghosts-7829894.jpg" title="Angels & Ghosts by Dave Gahan" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: []
 
 
 ## Videos
-### Dave Gahan, Soulsavers - Shine (Official Video)
-{{< youtube id="MP38Z1QfkYw" title="Dave Gahan, Soulsavers - Shine (Official Video)" >}}<br>
+### Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)
+{{< youtube id="2k11RlYp51I" title="Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)](https://www.youtube.com/watch?v=2k11RlYp51I)
+- [Dave Gahan, Soulsavers - Shine (Official Video)](https://www.youtube.com/watch?v=MP38Z1QfkYw)
 
 
 ## Release Information

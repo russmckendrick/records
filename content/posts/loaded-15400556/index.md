@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Loaded by Various](loaded-15400556.jpg)
+{{< img src="loaded-15400556.jpg" title="Loaded by Various" >}}
 
 <!-- section break -->
 

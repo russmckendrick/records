@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Temple Of Low Men by Crowded House](temple-of-low-men-9322448.jpg)
+{{< img src="temple-of-low-men-9322448.jpg" title="Temple Of Low Men by Crowded House" >}}
 
 <!-- section break -->
 

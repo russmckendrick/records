@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Y Kant Tori Read by Y Kant Tori Read](y-kant-tori-read-11172681.jpg)
+{{< img src="y-kant-tori-read-11172681.jpg" title="Y Kant Tori Read by Y Kant Tori Read" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Y Kant Tori Read- Heart Attack at 23
-{{< youtube id="X-469tgMcmc" title="Y Kant Tori Read- Heart Attack at 23" >}}<br>
+### Y Kant Tori Read - The Big Picture
+{{< youtube id="iHdzlbgeQqo" title="Y Kant Tori Read - The Big Picture" >}}<br>
 
 ### More Videos
 
-- [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
 - [Y Kant Tori Read - Cool on Your Island (On Vinyl Record)](https://www.youtube.com/watch?v=hOc0IUWCav8)
+- [Y Kant Tori Read- Heart Attack at 23](https://www.youtube.com/watch?v=X-469tgMcmc)
 - [Y Kant Tori Read - Floating City (Music Video)](https://www.youtube.com/watch?v=dk4kE7ZMMhU)
 - [Y Kant Tori Read - Cool On Your Island (Music Video)](https://www.youtube.com/watch?v=KSFpCrif26Q)
 

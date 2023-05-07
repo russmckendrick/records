@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Very Very Best Of Crowded House by Crowded House](the-very-very-best-of-crowded-house-13782819.jpg)
+{{< img src="the-very-very-best-of-crowded-house-13782819.jpg" title="The Very Very Best Of Crowded House by Crowded House" >}}
 
 <!-- section break -->
 
@@ -47,14 +47,14 @@ styles: []
 
 
 ## Videos
-### Crowded House - Four Seasons In One Day
-{{< youtube id="si3dBlNdifE" title="Crowded House - Four Seasons In One Day" >}}<br>
+### Crowded House - Don't Dream It's Over (Official Video)
+{{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Crowded House - Don't Dream It's Over (Official Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
 - [Crowded House - It's Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
+- [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 
 
 ## Release Information

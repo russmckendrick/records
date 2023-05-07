@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Closure / Continuation by Porcupine Tree](closure-continuation-23687546.jpg)
+{{< img src="closure-continuation-23687546.jpg" title="Closure / Continuation by Porcupine Tree" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Porcupine Tree - Of The New Day (Official Lyric Video)
-{{< youtube id="AY148yblJdg" title="Porcupine Tree - Of The New Day (Official Lyric Video)" >}}<br>
+### Porcupine Tree - Love in the Past Tense (Official Audio)
+{{< youtube id="My9hnoHEgaU" title="Porcupine Tree - Love in the Past Tense (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Porcupine Tree - Harridan (Official Lyric Video)](https://www.youtube.com/watch?v=AW5v4Ohxk5k)
+- [Porcupine Tree - Of The New Day (Official Lyric Video)](https://www.youtube.com/watch?v=AY148yblJdg)
 - [Porcupine Tree - Rats Return (Official Video)](https://www.youtube.com/watch?v=_8yjtkTitsA)
 - [Porcupine Tree - Dignity (Official Audio)](https://www.youtube.com/watch?v=Z3UhjiXG5m0)
 - [Porcupine Tree - Herd Culling (Official Video)](https://www.youtube.com/watch?v=l420X9T1a6E)
@@ -48,7 +49,6 @@ styles: ["Prog Rock"]
 - [Porcupine Tree - Chimera's Wreck (Official Audio)](https://www.youtube.com/watch?v=LO0IV_qeZN4)
 - [Porcupine Tree - Population Three (Official Audio)](https://www.youtube.com/watch?v=LzG1nOFL3XQ)
 - [Porcupine Tree - Never Have (Official Audio)](https://www.youtube.com/watch?v=LYaur8_mUg4)
-- [Porcupine Tree - Love in the Past Tense (Official Audio)](https://www.youtube.com/watch?v=My9hnoHEgaU)
 
 
 ## Release Information

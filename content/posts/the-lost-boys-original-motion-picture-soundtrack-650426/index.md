@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock"]
 ---
 
-![The Lost Boys (Original Motion Picture Soundtrack) by Various](the-lost-boys-original-motion-picture-soundtrack-650426.jpg)
+{{< img src="the-lost-boys-original-motion-picture-soundtrack-650426.jpg" title="The Lost Boys (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Soundtrack", "Pop Rock"]
 
 
 ## Videos
-### The Lost Boys (1987) - Soundtracks - Full Album
-{{< youtube id="gDU4rSgondk" title="The Lost Boys (1987) - Soundtracks - Full Album" >}}<br>
+### The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -
+{{< youtube id="l9uO5unKfHE" title="The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -" >}}<br>
 
 ### More Videos
 
@@ -50,6 +50,7 @@ styles: ["Soundtrack", "Pop Rock"]
 - [The Lost Boys - Soundtrack - People Are Strange - By Echo & The Bunnymen -](https://www.youtube.com/watch?v=eTviNc52igI)
 - [The Lost Boys - Soundtrack - To The Shock Of Miss Louise - By Thomas Newman](https://www.youtube.com/watch?v=6O_NYy5vqX4)
 - [The Lost Boys - Soundtrack - Lost In The Shadows (The Lost Boys) - By Lou Gramm](https://www.youtube.com/watch?v=9mk9MWei8MI)
+- [The Lost Boys (1987) - Soundtracks - Full Album](https://www.youtube.com/watch?v=gDU4rSgondk)
 - [Original The Lost Boys Cry Little Sister by G Tom Mac](https://www.youtube.com/watch?v=TuxdjVI-5r0)
 - [Mace Plays Vinyl - Soundtrack - The Lost Boys - Full Album](https://www.youtube.com/watch?v=K7XPFcHOgKg)
 - [The Lost Boys Original Soundtrack](https://www.youtube.com/watch?v=358dMEr61Ok)
@@ -59,7 +60,6 @@ styles: ["Soundtrack", "Pop Rock"]
 - [The Lost Boys - Tim Cappello - I Still Believe - Music Video](https://www.youtube.com/watch?v=PdaaGlyu7EQ)
 - [Lost Boys - Don't Let The Sun Go Down On Me (Soundtrack) *Must See*](https://www.youtube.com/watch?v=QtwQ9-Fl0HU)
 - [Cry Little Sister (Theme from ''Lost Boys'')](https://www.youtube.com/watch?v=NOiZuw7EToE)
-- [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
 

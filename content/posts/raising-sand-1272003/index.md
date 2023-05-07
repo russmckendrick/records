@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock"]
 ---
 
-![Raising Sand by Robert Plant](raising-sand-1272003.jpg)
+{{< img src="raising-sand-1272003.jpg" title="Raising Sand by Robert Plant" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Stick with Me Baby
-{{< youtube id="0F-acIBDclE" title="Stick with Me Baby" >}}<br>
+### Nothin'
+{{< youtube id="zrLmkbjgorU" title="Nothin'" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["Blues Rock"]
 - [Robert Plant & Alison Krauss - Please Read The Letter](https://www.youtube.com/watch?v=rjs0p5FWpzc)
 - [Trampled Rose](https://www.youtube.com/watch?v=9Ewg_bP20LI)
 - [Fortune Teller](https://www.youtube.com/watch?v=7FFZkSpjPIo)
-- [Nothin'](https://www.youtube.com/watch?v=zrLmkbjgorU)
+- [Stick with Me Baby](https://www.youtube.com/watch?v=0F-acIBDclE)
 - [Let Your Loss Be Your Lesson](https://www.youtube.com/watch?v=j1ztTFbyHmA)
 - [Robert Plant & Alison Krauss - Your Long Journey](https://www.youtube.com/watch?v=eG_rArV84iY)
 

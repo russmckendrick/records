@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Passages by Jesus Jones](passages-11906746.jpg)
+{{< img src="passages-11906746.jpg" title="Passages by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Jesus Jones - Grateful
-{{< youtube id="7EQtbMXGFyk" title="Jesus Jones - Grateful" >}}<br>
+### Jesus Jones  - Suck It Up
+{{< youtube id="VQN-2UBfJSI" title="Jesus Jones  - Suck It Up" >}}<br>
 
 ### More Videos
 
-- [Jesus Jones  - Suck It Up](https://www.youtube.com/watch?v=VQN-2UBfJSI)
 - [Jesus Jones - Where Are All the Dreams? NEW SINGLE](https://www.youtube.com/watch?v=61sf98y0VAk)
+- [Jesus Jones - Grateful](https://www.youtube.com/watch?v=7EQtbMXGFyk)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Hell's Ditch by The Pogues](hell-s-ditch-16187018.jpg)
+{{< img src="hell-s-ditch-16187018.jpg" title="Hell's Ditch by The Pogues" >}}
 
 <!-- section break -->
 

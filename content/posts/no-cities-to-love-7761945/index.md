@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 ---
 
-![No Cities To Love by Sleater-Kinney](no-cities-to-love-7761945.jpg)
+{{< img src="no-cities-to-love-7761945.jpg" title="No Cities To Love by Sleater-Kinney" >}}
 
 <!-- section break -->
 

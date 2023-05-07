@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 ---
 
-![Let It Come Down by Spiritualized](let-it-come-down-20556940.jpg)
+{{< img src="let-it-come-down-20556940.jpg" title="Let It Come Down by Spiritualized" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Spiritualized - Let It Come Down (Official Album Stream)
-{{< youtube id="b_Idip0kllU" title="Spiritualized - Let It Come Down (Official Album Stream)" >}}<br>
+### Spiritualized - Out Of Sight (Official Music Video)
+{{< youtube id="WOswxJKtLLw" title="Spiritualized - Out Of Sight (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Spiritualized - Do It All Over Again (Official Video)](https://www.youtube.com/watch?v=s2v0PZOpRqg)
+- [Spiritualized - Let It Come Down (Official Album Stream)](https://www.youtube.com/watch?v=b_Idip0kllU)
 - [Spiritualized - Stop Your Crying (Official Music Video)](https://www.youtube.com/watch?v=JhynUZyB2sk)
-- [Spiritualized - Out Of Sight (Official Music Video)](https://www.youtube.com/watch?v=WOswxJKtLLw)
 - [Lord Can You Hear Me - Spiritualized (Official Audio)](https://www.youtube.com/watch?v=H8j-fV17i54)
 - [On Fire](https://www.youtube.com/watch?v=IYhI-KHoCb0)
 - [The Twelve Steps](https://www.youtube.com/watch?v=dRNyQ3I7ous)

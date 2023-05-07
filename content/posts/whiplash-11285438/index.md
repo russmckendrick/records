@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Whiplash by James](whiplash-11285438.jpg)
+{{< img src="whiplash-11285438.jpg" title="Whiplash by James" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### James - Tomorrow
-{{< youtube id="HF7Gaxy4_8E" title="James - Tomorrow" >}}<br>
+### James - Waltzing Along
+{{< youtube id="QZTCt-nQY9U" title="James - Waltzing Along" >}}<br>
 
 ### More Videos
 
+- [James - Tomorrow](https://www.youtube.com/watch?v=HF7Gaxy4_8E)
 - [James - Lost A Friend Live (VH-1 1998)](https://www.youtube.com/watch?v=hsxrfv2zVPc)
-- [James - Waltzing Along](https://www.youtube.com/watch?v=QZTCt-nQY9U)
 - [James - She's a star (HQ) (Whiplash 1997)](https://www.youtube.com/watch?v=VF2qV-oSn0Q)
 
 

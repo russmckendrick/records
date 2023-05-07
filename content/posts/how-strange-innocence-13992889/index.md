@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![How Strange, Innocence by Explosions In The Sky](how-strange-innocence-13992889.jpg)
+{{< img src="how-strange-innocence-13992889.jpg" title="How Strange, Innocence by Explosions In The Sky" >}}
 
 <!-- section break -->
 

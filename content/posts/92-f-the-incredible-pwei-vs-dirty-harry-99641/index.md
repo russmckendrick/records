@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ---
 
-![92° F / The Incredible PWEI Vs Dirty Harry by Pop Will Eat Itself](92-f-the-incredible-pwei-vs-dirty-harry-99641.jpg)
+{{< img src="92-f-the-incredible-pwei-vs-dirty-harry-99641.jpg" title="92° F / The Incredible PWEI Vs Dirty Harry by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -28,14 +28,14 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 
 
 ## Videos
-### POP WILL EAT ITSELF - ANOTHER MAN'S RHUBARB (GOOD VIBES REMIX) (1991)
-{{< youtube id="dYC2etFfcMQ" title="POP WILL EAT ITSELF - ANOTHER MAN'S RHUBARB (GOOD VIBES REMIX) (1991)" >}}<br>
+### P.W.E.I - 92f (the 3rd degree)
+{{< youtube id="a8E9haQXTQw" title="P.W.E.I - 92f (the 3rd degree)" >}}<br>
 
 ### More Videos
 
+- [POP WILL EAT ITSELF - ANOTHER MAN'S RHUBARB (GOOD VIBES REMIX) (1991)](https://www.youtube.com/watch?v=dYC2etFfcMQ)
 - [PWEI Pop Will Eat Itself 92 Degrees Original Version Very Metal Noise Pollution EP](https://www.youtube.com/watch?v=AKa1OenSae0)
 - [POP WILL EAT ITSELF - 92oF (BOILERHOUSE 'THE BIRTH, THE DEATH, THE ROMANCE' REMIX) (1991)](https://www.youtube.com/watch?v=gBZTIBtT8IY)
-- [P.W.E.I - 92f (the 3rd degree)](https://www.youtube.com/watch?v=a8E9haQXTQw)
 - [The Incredible PWEI Vs. Dirty Harry by Pop Will Eat Itself](https://www.youtube.com/watch?v=A2xYHBeM-5M)
 
 

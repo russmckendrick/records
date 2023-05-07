@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Third Degree by Flying Colors](third-degree-14222306.jpg)
+{{< img src="third-degree-14222306.jpg" title="Third Degree by Flying Colors" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Geronimo
-{{< youtube id="PzPb0SUAF1Q" title="Geronimo" >}}<br>
+### Guardian
+{{< youtube id="-V2WaeT6r1U" title="Guardian" >}}<br>
 
 ### More Videos
 
 - [The Loss Inside](https://www.youtube.com/watch?v=glJ7oKA0vMs)
-- [Guardian](https://www.youtube.com/watch?v=-V2WaeT6r1U)
 - [Cadence](https://www.youtube.com/watch?v=45bywuigQWI)
 - [Last Train Home](https://www.youtube.com/watch?v=d027LIRm_Ds)
 - [Crawl](https://www.youtube.com/watch?v=pmupTHXOMQo)
+- [Geronimo](https://www.youtube.com/watch?v=PzPb0SUAF1Q)
 
 
 ## Release Information

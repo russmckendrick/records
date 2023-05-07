@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-![Riding With The King by B.B. King](riding-with-the-king-15531509.jpg)
+{{< img src="riding-with-the-king-15531509.jpg" title="Riding With The King by B.B. King" >}}
 
 <!-- section break -->
 

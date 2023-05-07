@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Rush by Rush](rush-5887416.jpg)
+{{< img src="rush-5887416.jpg" title="Rush by Rush" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Pure Air by Anneke van Giersbergen](pure-air-10280655.jpg)
+{{< img src="pure-air-10280655.jpg" title="Pure Air by Anneke van Giersbergen" >}}
 
 <!-- section break -->
 

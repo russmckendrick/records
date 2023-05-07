@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Rhythm & Blues"]
 ---
 
-![Coming Home by Leon Bridges](coming-home-7146187.jpg)
+{{< img src="coming-home-7146187.jpg" title="Coming Home by Leon Bridges" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,13 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 
 
 ## Videos
-### Better Man
-{{< youtube id="E6TCadcFPNE" title="Better Man" >}}<br>
+### There She Goes
+{{< youtube id="KlxpKJwNdlg" title="There She Goes" >}}<br>
 
 ### More Videos
 
 - [Leon Bridges - Coming Home (Official Music Video)](https://www.youtube.com/watch?v=MTrKkqE9p1o)
+- [Better Man](https://www.youtube.com/watch?v=E6TCadcFPNE)
 - [Brown Skin Girl](https://www.youtube.com/watch?v=wk2duLxAmFE)
 - [Smooth Sailin'](https://www.youtube.com/watch?v=jhiK0uXA-QE)
 - [Shine](https://www.youtube.com/watch?v=L1rJNNivdlI)
@@ -52,7 +53,6 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 - [Pull Away](https://www.youtube.com/watch?v=NhmQ_kOsSBc)
 - [Twistin' & Groovin'](https://www.youtube.com/watch?v=sjNcVcv8ax0)
 - [Leon Bridges - River (Official Music Video)](https://www.youtube.com/watch?v=0Hegd4xNfRo)
-- [There She Goes](https://www.youtube.com/watch?v=KlxpKJwNdlg)
 - [Daisy Mae](https://www.youtube.com/watch?v=EoJJcvc7J4c)
 - [Here In My Arms](https://www.youtube.com/watch?v=qmoLKDAMKJM)
 - [Mississippi Kisses](https://www.youtube.com/watch?v=SV3d1U6gEK4)

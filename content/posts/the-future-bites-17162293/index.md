@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-![The Future Bites by Steven Wilson](the-future-bites-17162293.jpg)
+{{< img src="the-future-bites-17162293.jpg" title="The Future Bites by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Steven Wilson - EMINENT SLEAZE (Official Video)
-{{< youtube id="kUKmOkrcMig" title="Steven Wilson - EMINENT SLEAZE (Official Video)" >}}<br>
+### FOLLOWER
+{{< youtube id="Vr5zrU4fk_k" title="FOLLOWER" >}}<br>
 
 ### More Videos
 
@@ -51,9 +51,9 @@ styles: ["Alternative Rock"]
 - [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
 - [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
 - [Steven Wilson - King Ghost (2020)](https://www.youtube.com/watch?v=M55vjv1Bed0)
+- [Steven Wilson - EMINENT SLEAZE (Official Video)](https://www.youtube.com/watch?v=kUKmOkrcMig)
 - [Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)](https://www.youtube.com/watch?v=G_yW8ornhK4)
 - [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
-- [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 

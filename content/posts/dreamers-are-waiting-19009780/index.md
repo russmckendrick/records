@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Dreamers Are Waiting by Crowded House](dreamers-are-waiting-19009780.jpg)
+{{< img src="dreamers-are-waiting-19009780.jpg" title="Dreamers Are Waiting by Crowded House" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Crowded House - To The Island (Official Video)
-{{< youtube id="-HGjvQxGxNQ" title="Crowded House - To The Island (Official Video)" >}}<br>
+### Crowded House - Dreamers Are Waiting (Full Album) HD
+{{< youtube id="c7wb8MWZikc" title="Crowded House - Dreamers Are Waiting (Full Album) HD" >}}<br>
 
 ### More Videos
 
+- [Crowded House - To The Island (Official Video)](https://www.youtube.com/watch?v=-HGjvQxGxNQ)
 - [Crowded House - Whatever You Want (Official Video)](https://www.youtube.com/watch?v=ZggTaHMoQYs)
-- [Crowded House - Dreamers Are Waiting (Full Album) HD](https://www.youtube.com/watch?v=c7wb8MWZikc)
 - [Crowded House - Playing with Fire (Official Video)](https://www.youtube.com/watch?v=HRzk3sWMxAg)
 - [Crowded House - Show Me the Way (Lyric Video)](https://www.youtube.com/watch?v=BVauKkGwdSk)
 

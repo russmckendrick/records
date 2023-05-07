@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ---
 
-![New Gold Dream (81-82-83-84) by Simple Minds](new-gold-dream-81-82-83-84-981644.jpg)
+{{< img src="new-gold-dream-81-82-83-84-981644.jpg" title="New Gold Dream (81-82-83-84) by Simple Minds" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-![Ad Astra by Spiritual Beggars](ad-astra-7189449.jpg)
+{{< img src="ad-astra-7189449.jpg" title="Ad Astra by Spiritual Beggars" >}}
 
 <!-- section break -->
 

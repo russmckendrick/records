@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 ---
 
-![Collapse EP by Aphex Twin](collapse-ep-12513366.jpg)
+{{< img src="collapse-ep-12513366.jpg" title="Collapse EP by Aphex Twin" >}}
 
 <!-- section break -->
 

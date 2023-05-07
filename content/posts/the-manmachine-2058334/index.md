@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-![The Man•Machine by Kraftwerk](the-manmachine-2058334.jpg)
+{{< img src="the-manmachine-2058334.jpg" title="The Man•Machine by Kraftwerk" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Dance-pop"]
 ---
 
-![Words And Music By Saint Etienne  by Saint Etienne](words-and-music-by-saint-etienne-15627233.jpg)
+{{< img src="words-and-music-by-saint-etienne-15627233.jpg" title="Words And Music By Saint Etienne  by Saint Etienne" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Indie Pop", "Dance-pop"]
 
 
 ## Videos
-### Saint Etienne- DJ (Muddyloop Remix)
-{{< youtube id="PGzTgVOl1NE" title="Saint Etienne- DJ (Muddyloop Remix)" >}}<br>
+### Saint Etienne - Haunted Jukebox
+{{< youtube id="_SswsMjN0TU" title="Saint Etienne - Haunted Jukebox" >}}<br>
 
 ### More Videos
 
@@ -50,11 +50,11 @@ styles: ["Indie Pop", "Dance-pop"]
 - [Saint Etienne - I've Got Your Music (Single Version)](https://www.youtube.com/watch?v=_kWy48yIgxQ)
 - [Saint Etienne - Over the Border](https://www.youtube.com/watch?v=DnxGHwDiqWk)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=u7jbF_8MzHs)
+- [Saint Etienne- DJ (Muddyloop Remix)](https://www.youtube.com/watch?v=PGzTgVOl1NE)
 - [Saint Etienne - Popular](https://www.youtube.com/watch?v=8AMCyEZRpYk)
 - [Haunted Jukebox *Saint Etienne*](https://www.youtube.com/watch?v=tjTN83By2Mw)
 - [I Threw It All Away](https://www.youtube.com/watch?v=csAlD1-0l1U)
 - [Saint Etienne - Last Days of Disco](https://www.youtube.com/watch?v=PKM6a6AyyFI)
-- [Saint Etienne - Haunted Jukebox](https://www.youtube.com/watch?v=_SswsMjN0TU)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=tAk6slCEuIw)
 - [Saint Etienne - Popular (Tom Middleton Cosmos Remix)](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
 - [Saint Etienne - I've Got Your Music](https://www.youtube.com/watch?v=3MQmsHPwLvU)

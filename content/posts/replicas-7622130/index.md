@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ---
 
-![Replicas by Tubeway Army](replicas-7622130.jpg)
+{{< img src="replicas-7622130.jpg" title="Replicas by Tubeway Army" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 
 
 ## Videos
-### It Must Have Been Years
-{{< youtube id="so98lFTAZV0" title="It Must Have Been Years" >}}<br>
+### When the Machines Rock
+{{< youtube id="OhMBGZx9KYE" title="When the Machines Rock" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 - [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
 - [You Are in My Vision](https://www.youtube.com/watch?v=FETUoLuEYxg)
 - [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)
-- [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
+- [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
 - [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
 

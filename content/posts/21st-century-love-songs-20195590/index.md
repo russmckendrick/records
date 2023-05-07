@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![21st Century Love Songs by The Wildhearts](21st-century-love-songs-20195590.jpg)
+{{< img src="21st-century-love-songs-20195590.jpg" title="21st Century Love Songs by The Wildhearts" >}}
 
 <!-- section break -->
 

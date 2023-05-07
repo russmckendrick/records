@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ---
 
-![Orange by The Jon Spencer Blues Explosion](orange-1733106.jpg)
+{{< img src="orange-1733106.jpg" title="Orange by The Jon Spencer Blues Explosion" >}}
 
 <!-- section break -->
 

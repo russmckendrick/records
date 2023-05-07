@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The Ultra Vivid Lament by Manic Street Preachers](the-ultra-vivid-lament-20182972.jpg)
+{{< img src="the-ultra-vivid-lament-20182972.jpg" title="The Ultra Vivid Lament by Manic Street Preachers" >}}
 
 <!-- section break -->
 

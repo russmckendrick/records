@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
 
-![Isn't Anything by My Bloody Valentine](isn-t-anything-18793480.jpg)
+{{< img src="isn-t-anything-18793480.jpg" title="Isn't Anything by My Bloody Valentine" >}}
 
 <!-- section break -->
 

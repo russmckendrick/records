@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
 
-![Blood Mountain by Mastodon](blood-mountain-6775331.jpg)
+{{< img src="blood-mountain-6775331.jpg" title="Blood Mountain by Mastodon" >}}
 
 <!-- section break -->
 

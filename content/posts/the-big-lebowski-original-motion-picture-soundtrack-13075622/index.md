@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "S
 styles: ["Soundtrack"]
 ---
 
-![The Big Lebowski  (Original Motion Picture Soundtrack) by Various](the-big-lebowski-original-motion-picture-soundtrack-13075622.jpg)
+{{< img src="the-big-lebowski-original-motion-picture-soundtrack-13075622.jpg" title="The Big Lebowski  (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 

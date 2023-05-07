@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Prog Rock"]
 ---
 
-![Another Live by Utopia](another-live-2312279.jpg)
+{{< img src="another-live-2312279.jpg" title="Another Live by Utopia" >}}
 
 <!-- section break -->
 
@@ -33,13 +33,13 @@ styles: ["Pop Rock", "Synth-pop", "Prog Rock"]
 
 
 ## Videos
-### Todd Rundgren's Utopia - The Wheel - from  Another Live - vinyl LP
-{{< youtube id="VVLtB2m5bfw" title="Todd Rundgren's Utopia - The Wheel - from  Another Live - vinyl LP" >}}<br>
+### Todd Rundgren's Utopia -  Do Ya
+{{< youtube id="KvhMTCIvpfQ" title="Todd Rundgren's Utopia -  Do Ya" >}}<br>
 
 ### More Videos
 
 - [TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION](https://www.youtube.com/watch?v=zo9Oor_vYeE)
-- [Todd Rundgren's Utopia -  Do Ya](https://www.youtube.com/watch?v=KvhMTCIvpfQ)
+- [Todd Rundgren's Utopia - The Wheel - from  Another Live - vinyl LP](https://www.youtube.com/watch?v=VVLtB2m5bfw)
 
 
 ## Release Information

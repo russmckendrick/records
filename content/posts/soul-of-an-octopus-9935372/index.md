@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Soul Of An Octopus by O.R.k.](soul-of-an-octopus-9935372.jpg)
+{{< img src="soul-of-an-octopus-9935372.jpg" title="Soul Of An Octopus by O.R.k." >}}
 
 <!-- section break -->
 

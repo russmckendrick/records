@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk", "Alternative Rock"]
 ---
 
-![Morning Phase by Beck](morning-phase-5626140.jpg)
+{{< img src="morning-phase-5626140.jpg" title="Morning Phase by Beck" >}}
 
 <!-- section break -->
 

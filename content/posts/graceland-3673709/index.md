@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
 
-![Graceland by Paul Simon](graceland-3673709.jpg)
+{{< img src="graceland-3673709.jpg" title="Graceland by Paul Simon" >}}
 
 <!-- section break -->
 

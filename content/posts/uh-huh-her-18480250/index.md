@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Uh Huh Her by PJ Harvey](uh-huh-her-18480250.jpg)
+{{< img src="uh-huh-her-18480250.jpg" title="Uh Huh Her by PJ Harvey" >}}
 
 <!-- section break -->
 
@@ -41,15 +41,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### PJ Harvey - You Come Through
-{{< youtube id="ner3eq4poYA" title="PJ Harvey - You Come Through" >}}<br>
+### The Life And Death Of Mr. Badmouth
+{{< youtube id="GnM9ZKuZM60" title="The Life And Death Of Mr. Badmouth" >}}<br>
 
 ### More Videos
 
+- [PJ Harvey - You Come Through](https://www.youtube.com/watch?v=ner3eq4poYA)
 - [PJ Harvey - Shame](https://www.youtube.com/watch?v=AFLOG2wxg3Q)
 - [PJ Harvey - Who The Fuck?](https://www.youtube.com/watch?v=ZxcCN6BgO_k)
 - [PJ Harvey - The Letter](https://www.youtube.com/watch?v=XwJk2wXsIZI)
-- [The Life And Death Of Mr. Badmouth](https://www.youtube.com/watch?v=GnM9ZKuZM60)
 - [Cat On The Wall](https://www.youtube.com/watch?v=TXnJdptcL9A)
 
 

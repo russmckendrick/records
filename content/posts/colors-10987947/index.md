@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Dance-pop", "New Wave"]
 ---
 
-![Colors by Beck](colors-10987947.jpg)
+{{< img src="colors-10987947.jpg" title="Colors by Beck" >}}
 
 <!-- section break -->
 

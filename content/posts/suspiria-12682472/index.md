@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Experimental", "Soundtrack"]
 ---
 
-![Suspiria by Thom Yorke](suspiria-12682472.jpg)
+{{< img src="suspiria-12682472.jpg" title="Suspiria by Thom Yorke" >}}
 
 <!-- section break -->
 

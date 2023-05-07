@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![Tumbling Through The Floativerse by Ed Wynne](tumbling-through-the-floativerse-23922800.jpg)
+{{< img src="tumbling-through-the-floativerse-23922800.jpg" title="Tumbling Through The Floativerse by Ed Wynne" >}}
 
 <!-- section break -->
 
@@ -34,13 +34,13 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Seen the Sun
-{{< youtube id="3mCX3G_7Z3Q" title="Seen the Sun" >}}<br>
+### Magnetoforia
+{{< youtube id="i6T0RcYZtPo" title="Magnetoforia" >}}<br>
 
 ### More Videos
 
 - [Oilyvoice](https://www.youtube.com/watch?v=_jyi8X3NxrY)
-- [Magnetoforia](https://www.youtube.com/watch?v=i6T0RcYZtPo)
+- [Seen the Sun](https://www.youtube.com/watch?v=3mCX3G_7Z3Q)
 - [Floating Plates](https://www.youtube.com/watch?v=HDszAKfSASo)
 - [Infinity Curtains](https://www.youtube.com/watch?v=8hm4FG_UmEI)
 - [Starseeds](https://www.youtube.com/watch?v=4A560y7IJ3s)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![In///Parallel by Dhani Harrison](in-parallel-11027074.jpg)
+{{< img src="in-parallel-11027074.jpg" title="In///Parallel by Dhani Harrison" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Dhani Harrison - Never Know [Audio]
-{{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}<br>
+### Dhani Harrison - All About Waiting [Official Video]
+{{< youtube id="reRlyvQvTng" title="Dhani Harrison - All About Waiting [Official Video]" >}}<br>
 
 ### More Videos
 
-- [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
+- [Dhani Harrison - Never Know [Audio]](https://www.youtube.com/watch?v=B757_F4TLvs)
 
 
 ## Release Information

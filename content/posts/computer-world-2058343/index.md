@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-![Computer World by Kraftwerk](computer-world-2058343.jpg)
+{{< img src="computer-world-2058343.jpg" title="Computer World by Kraftwerk" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,12 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Kraftwerk - Computerwelt
-{{< youtube id="zWSkwvvfmco" title="Kraftwerk - Computerwelt" >}}<br>
+### Computerwelt (2009 Remaster)
+{{< youtube id="YxlndeU3SVY" title="Computerwelt (2009 Remaster)" >}}<br>
 
 ### More Videos
 
-- [Computerwelt (2009 Remaster)](https://www.youtube.com/watch?v=YxlndeU3SVY)
+- [Kraftwerk - Computerwelt](https://www.youtube.com/watch?v=zWSkwvvfmco)
 
 
 ## Release Information

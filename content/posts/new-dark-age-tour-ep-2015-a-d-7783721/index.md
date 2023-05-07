@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![New Dark Age Tour EP 2015 A.D. by Crippled Black Phoenix](new-dark-age-tour-ep-2015-a-d-7783721.jpg)
+{{< img src="new-dark-age-tour-ep-2015-a-d-7783721.jpg" title="New Dark Age Tour EP 2015 A.D. by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 
@@ -29,13 +29,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### CRIPPLED BLACK PHOENIX, Audio, Glasgow, November 2015, 'NEW DARK AGE'
-{{< youtube id="MBoSOT9m5Lw" title="CRIPPLED BLACK PHOENIX, Audio, Glasgow, November 2015, 'NEW DARK AGE'" >}}<br>
+### Crippled Black Phoenix - Spider Island (Official Premiere)
+{{< youtube id="hfKAOVViEZU" title="Crippled Black Phoenix - Spider Island (Official Premiere)" >}}<br>
 
 ### More Videos
 
 - [Crippled Black Phoenix - New Dark Age](https://www.youtube.com/watch?v=ZQnOxYuE8kM)
-- [Crippled Black Phoenix - Spider Island (Official Premiere)](https://www.youtube.com/watch?v=hfKAOVViEZU)
+- [CRIPPLED BLACK PHOENIX, Audio, Glasgow, November 2015, 'NEW DARK AGE'](https://www.youtube.com/watch?v=MBoSOT9m5Lw)
 
 
 ## Release Information

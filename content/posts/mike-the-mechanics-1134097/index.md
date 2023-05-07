@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-![Mike + The Mechanics by Mike & The Mechanics](mike-the-mechanics-1134097.jpg)
+{{< img src="mike-the-mechanics-1134097.jpg" title="Mike + The Mechanics by Mike & The Mechanics" >}}
 
 <!-- section break -->
 
@@ -37,21 +37,21 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Mike + The Mechanics   All I Need Is A Miracle vinyl
-{{< youtube id="uGIQdVcC9co" title="Mike + The Mechanics   All I Need Is A Miracle vinyl" >}}<br>
+### Mike + The Mechanics - Taken In (Official Video)
+{{< youtube id="8toBVYDKukU" title="Mike + The Mechanics - Taken In (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Mike & The Mechanics - Silent running](https://www.youtube.com/watch?v=ep7W89I_V_g)
 - [Mike + The Mechanics   Silent Running vinyl](https://www.youtube.com/watch?v=vhHCq5LMRhY)
 - [Mike & The Mechanics - All I Need Is A Miracle](https://www.youtube.com/watch?v=cAMLa5ZC-B4)
+- [Mike + The Mechanics   All I Need Is A Miracle vinyl](https://www.youtube.com/watch?v=uGIQdVcC9co)
 - [Silent Running](https://www.youtube.com/watch?v=tNfIq9KTkfE)
 - [I Get the Feeling](https://www.youtube.com/watch?v=WXINL9w-uSU)
 - [You Are the One](https://www.youtube.com/watch?v=f2pRN2mGHJ4)
 - [Mike and the mechanics --   02 All I Need Is A Miracle-- HQ Audio](https://www.youtube.com/watch?v=X1uwIs_Jbq0)
 - [Par Avion - Mike and the Mechanics](https://www.youtube.com/watch?v=4-u03QnXGdE)
 - [Mike and the Mechanics- Hanging by a Thread](https://www.youtube.com/watch?v=O94HHm_Tu-g)
-- [Mike + The Mechanics - Taken In (Official Video)](https://www.youtube.com/watch?v=8toBVYDKukU)
 - [Mike + The Mechanics - Mike + The Mechanics (Full Album 1985)](https://www.youtube.com/watch?v=dOtfmYM_GOs)
 
 

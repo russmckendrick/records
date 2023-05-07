@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ---
 
-![Mandy (Original Motion Picture Soundtrack) by Jóhann Jóhannsson](mandy-original-motion-picture-soundtrack-12558374.jpg)
+{{< img src="mandy-original-motion-picture-soundtrack-12558374.jpg" title="Mandy (Original Motion Picture Soundtrack) by Jóhann Jóhannsson" >}}
 
 <!-- section break -->
 
@@ -43,19 +43,19 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 
 
 ## Videos
-### Children of the New Dawn
-{{< youtube id="-KZxeSATdXI" title="Children of the New Dawn" >}}<br>
+### Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)
+{{< youtube id="s6ARrtnMkzM" title="Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track](https://www.youtube.com/watch?v=PKZEBhRX-TU)
-- [Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)](https://www.youtube.com/watch?v=s6ARrtnMkzM)
 - [Mandy 2018 Soundtrack | 03. Mandy Love Theme | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=ilaRNAPSUKc)
 - [Mandy Love Theme](https://www.youtube.com/watch?v=72ye1IMywrQ)
 - [Mandy 2018 Soundtrack | 14. Memories | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=F8LZgBxLp9I)
 - [Mandy 2018 Soundtrack | 02. Starling | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=P8TDr8XmIzY)
 - [Mandy 2018 Soundtrack | 01. Seeker of the Serpent's Eye | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=XkwtifENU1c)
 - [Mandy 2018 Soundtrack | 07. Sand | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=5rMC2O3dWPs)
+- [Children of the New Dawn](https://www.youtube.com/watch?v=-KZxeSATdXI)
 - [Mandy 2018 Soundtrack | 12. Temple | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=6ylbxJqRkqc)
 - [Mandy 2018 Soundtrack | 11. Waste | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=kmmnk0FZsoc)
 - [Mandy 2018 Soundtrack | 15. Children of the New Dawn | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=_XwmduN4WfA)

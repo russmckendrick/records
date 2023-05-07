@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
 
-![Swing The Mood by Jive Bunny And The Mastermixers](swing-the-mood-576722.jpg)
+{{< img src="swing-the-mood-576722.jpg" title="Swing The Mood by Jive Bunny And The Mastermixers" >}}
 
 <!-- section break -->
 

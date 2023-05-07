@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 ---
 
-![A Steady Drip, Drip, Drip by Sparks](a-steady-drip-drip-drip-15558625.jpg)
+{{< img src="a-steady-drip-drip-drip-15558625.jpg" title="A Steady Drip, Drip, Drip by Sparks" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,14 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 
 
 ## Videos
-### SPARKS - All That - From The Album A Steady, Drip, Drip, Drip
-{{< youtube id="3ebYtDHlMDY" title="SPARKS - All That - From The Album A Steady, Drip, Drip, Drip" >}}<br>
+### Sparks - Lawnmower (Official Video)
+{{< youtube id="tPSFpaCQEvA" title="Sparks - Lawnmower (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Sparks - I'm Toast (Unofficial Video)](https://www.youtube.com/watch?v=aJpfdcurYoQ)
 - [Sparks - iPhone (Official Video)](https://www.youtube.com/watch?v=C3CIDPuxwrY)
-- [Sparks - Lawnmower (Official Video)](https://www.youtube.com/watch?v=tPSFpaCQEvA)
+- [SPARKS - All That - From The Album A Steady, Drip, Drip, Drip](https://www.youtube.com/watch?v=3ebYtDHlMDY)
 - [Sparks - The Existential Threat (Official Video)](https://www.youtube.com/watch?v=dLxPIOxgkM0)
 - [Sparks - One for the Ages (Official Video)](https://www.youtube.com/watch?v=6DA95FFBJNs)
 - [Pacific Standard Time](https://www.youtube.com/watch?v=zf6y7p2iauE)

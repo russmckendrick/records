@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Nothing's Shocking by Jane's Addiction](nothing-s-shocking-5251712.jpg)
+{{< img src="nothing-s-shocking-5251712.jpg" title="Nothing's Shocking by Jane's Addiction" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Jane's Addiction - Ocean Size (Official Music Video)
-{{< youtube id="lVIev94s7Mo" title="Jane's Addiction - Ocean Size (Official Music Video)" >}}<br>
+### Summertime Rolls
+{{< youtube id="ra46DNeUfdk" title="Summertime Rolls" >}}<br>
 
 ### More Videos
 
 - [Jane's Addiction - Mountain Song (Official Video)](https://www.youtube.com/watch?v=1kAIMlISHhU)
-- [Summertime Rolls](https://www.youtube.com/watch?v=ra46DNeUfdk)
+- [Jane's Addiction - Ocean Size (Official Music Video)](https://www.youtube.com/watch?v=lVIev94s7Mo)
 - [Jane's Addiction - Jane Says (Official Music Video)](https://www.youtube.com/watch?v=i7Q_8q3XXrQ)
 
 

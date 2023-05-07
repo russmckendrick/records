@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Cut-up/DJ", "Turntablism"]
 ---
 
-![Conquest by Mix Master Mike](conquest-14537072.jpg)
+{{< img src="conquest-14537072.jpg" title="Conquest by Mix Master Mike" >}}
 
 <!-- section break -->
 

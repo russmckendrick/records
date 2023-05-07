@@ -14,7 +14,7 @@ genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Abstract", "Leftfield", "Experimental"]
 ---
 
-![The Lemon Of Pink by The Books](the-lemon-of-pink-9332526.jpg)
+{{< img src="the-lemon-of-pink-9332526.jpg" title="The Lemon Of Pink by The Books" >}}
 
 <!-- section break -->
 

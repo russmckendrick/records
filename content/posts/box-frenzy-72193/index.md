@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Hip Hop", "Indie Rock"]
 ---
 
-![Box Frenzy by Pop Will Eat Itself](box-frenzy-72193.jpg)
+{{< img src="box-frenzy-72193.jpg" title="Box Frenzy by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 
 
 ## Videos
-### Pop Will Eat Itself  hit the hi tech groove
-{{< youtube id="XdfNh6P_A3g" title="Pop Will Eat Itself  hit the hi tech groove" >}}<br>
+### Pop Will Eat Itself ~ Evelyn
+{{< youtube id="8rw9hgPMkEY" title="Pop Will Eat Itself ~ Evelyn" >}}<br>
 
 ### More Videos
 
 - [Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)](https://www.youtube.com/watch?v=hWhwXhpiMMU)
 - [Pop Will Eat Itself - Love Missile F1 - 11](https://www.youtube.com/watch?v=EBuNUk4J2jk)
 - [Pop Will Eat Itself - Go Box Frenzy - Let's Get Ugly](https://www.youtube.com/watch?v=k2jzNd_pm8U)
+- [Pop Will Eat Itself  hit the hi tech groove](https://www.youtube.com/watch?v=XdfNh6P_A3g)
 - [Pop Will Eat Itself ~ Razorblade Kisses](https://www.youtube.com/watch?v=78hI6JDfJVw)
-- [Pop Will Eat Itself ~ Evelyn](https://www.youtube.com/watch?v=8rw9hgPMkEY)
 
 
 ## Release Information

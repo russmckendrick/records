@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-![#1 Record by Big Star](1-record-14696642.jpg)
+{{< img src="1-record-14696642.jpg" title="#1 Record by Big Star" >}}
 
 <!-- section break -->
 

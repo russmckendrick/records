@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Experimental", "Symphonic Rock"]
 ---
 
-![Scratch My Back by Peter Gabriel](scratch-my-back-2290486.jpg)
+{{< img src="scratch-my-back-2290486.jpg" title="Scratch My Back by Peter Gabriel" >}}
 
 <!-- section break -->
 

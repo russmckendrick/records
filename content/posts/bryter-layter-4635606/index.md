@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Bryter Layter by Nick Drake](bryter-layter-4635606.jpg)
+{{< img src="bryter-layter-4635606.jpg" title="Bryter Layter by Nick Drake" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Hazey Jane I
-{{< youtube id="gfYnXGV8PfM" title="Hazey Jane I" >}}<br>
+### Introduction
+{{< youtube id="jciIE7lh4hw" title="Introduction" >}}<br>
 
 ### More Videos
 
-- [Introduction](https://www.youtube.com/watch?v=jciIE7lh4hw)
 - [Hazey Jane II](https://www.youtube.com/watch?v=lCaDp1gb6D4)
 - [At The Chime Of A City Clock](https://www.youtube.com/watch?v=9qlNDTfecGY)
 - [One Of These Things First](https://www.youtube.com/watch?v=vDtsgVgAx6k)
+- [Hazey Jane I](https://www.youtube.com/watch?v=gfYnXGV8PfM)
 - [Bryter Layter](https://www.youtube.com/watch?v=9DjWvjeZ6ww)
 - [Fly](https://www.youtube.com/watch?v=B2HHpQWmJJQ)
 - [Poor Boy](https://www.youtube.com/watch?v=TLJFSj3b4q0)

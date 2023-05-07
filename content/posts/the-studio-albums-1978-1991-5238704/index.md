@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
 
-![The Studio Albums 1978 - 1991 by Dire Straits](the-studio-albums-1978-1991-5238704.jpg)
+{{< img src="the-studio-albums-1978-1991-5238704.jpg" title="The Studio Albums 1978 - 1991 by Dire Straits" >}}
 
 <!-- section break -->
 

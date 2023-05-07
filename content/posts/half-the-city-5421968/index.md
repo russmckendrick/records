@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-![Half The City by St. Paul & The Broken Bones](half-the-city-5421968.jpg)
+{{< img src="half-the-city-5421968.jpg" title="Half The City by St. Paul & The Broken Bones" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-![The Comforts Of Madness 30th Anniversary Re:Masters by Pale Saints](the-comforts-of-madness-30th-anniversary-re-masters-14621859.jpg)
+{{< img src="the-comforts-of-madness-30th-anniversary-re-masters-14621859.jpg" title="The Comforts Of Madness 30th Anniversary Re:Masters by Pale Saints" >}}
 
 <!-- section break -->
 
@@ -55,14 +55,14 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review
-{{< youtube id="Kok9FSw5jus" title="Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review" >}}<br>
+### You Tear the World in Two (Remastered)
+{{< youtube id="L6tH3b36kzE" title="You Tear the World in Two (Remastered)" >}}<br>
 
 ### More Videos
 
 - [A Deep Sleep for Steven (Remastered)](https://www.youtube.com/watch?v=Va5GW8WcTyA)
+- [Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
 - [Time Thief (Remastered)](https://www.youtube.com/watch?v=el0gPR6uWU4)
-- [You Tear the World in Two (Remastered)](https://www.youtube.com/watch?v=L6tH3b36kzE)
 - [Pale Saints - You Tear the World in Two (Woodhouse Studio LP Demo)](https://www.youtube.com/watch?v=BBElDPFzz20)
 - [Way the World Is (Remastered)](https://www.youtube.com/watch?v=Q8gSq63njnU)
 - [Pale Saints Documentary](https://www.youtube.com/watch?v=XPWk2yOpCZk)

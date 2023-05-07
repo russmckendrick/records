@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 ---
 
-![White Ladder by David Gray](white-ladder-14791554.jpg)
+{{< img src="white-ladder-14791554.jpg" title="White Ladder by David Gray" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 
 
 ## Videos
-### David Gray - White Ladder (live)
-{{< youtube id="mV3d6jKFvQA" title="David Gray - White Ladder (live)" >}}<br>
+### David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017
+{{< youtube id="jUZZyzHyqgM" title="David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017" >}}<br>
 
 ### More Videos
 
+- [David Gray - White Ladder (live)](https://www.youtube.com/watch?v=mV3d6jKFvQA)
 - [David Gray - Babylon (Official Video)](https://www.youtube.com/watch?v=zI_SBAkdKzc)
 - [David Gray - Please Forgive Me (Official Video)](https://www.youtube.com/watch?v=qmFRXwYKQwU)
-- [David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)
 - [David Gray - Say Hello Wave Goodbye 2/24/12 Las Vegas, NV](https://www.youtube.com/watch?v=BXbeT2ta77Y)
 
 

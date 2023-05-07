@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Vocal", "Ballad", "Pop Rock"]
 ---
 
-![Scott 4 by Scott Walker](scott-4-5758295.jpg)
+{{< img src="scott-4-5758295.jpg" title="Scott 4 by Scott Walker" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 
 
 ## Videos
-### Get Behind Me
-{{< youtube id="2Vr22rvFB-g" title="Get Behind Me" >}}<br>
+### Rhymes Of Goodbye
+{{< youtube id="jI1-_LqC8Ok" title="Rhymes Of Goodbye" >}}<br>
 
 ### More Videos
 
 - [Scott Walker - Boy Child](https://www.youtube.com/watch?v=THPVTsenZxs)
 - [Scott Walker - Angels Of Ashes](https://www.youtube.com/watch?v=HYHp-w-1PJY)
-- [Rhymes Of Goodbye](https://www.youtube.com/watch?v=jI1-_LqC8Ok)
+- [Get Behind Me](https://www.youtube.com/watch?v=2Vr22rvFB-g)
 - [Duchess](https://www.youtube.com/watch?v=M7gMlpABItE)
 - [Scott Walker - The Seventh Seal](https://www.youtube.com/watch?v=jMUk1R_fKEA)
 - [Scott Walker The Old Man`s Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)

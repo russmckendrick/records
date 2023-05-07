@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
 
-![Waiata by Split Enz](waiata-2684571.jpg)
+{{< img src="waiata-2684571.jpg" title="Waiata by Split Enz" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 
 
 ## Videos
-### Split Enz - Iris
-{{< youtube id="pF72BXV2quw" title="Split Enz - Iris" >}}<br>
+### Split Enz - Wail
+{{< youtube id="H_3PWbZsRGI" title="Split Enz - Wail" >}}<br>
 
 ### More Videos
 
-- [Split Enz - Wail](https://www.youtube.com/watch?v=H_3PWbZsRGI)
+- [Split Enz - Iris](https://www.youtube.com/watch?v=pF72BXV2quw)
 - [Split Enz - One Step Ahead - Official Video - 1980 - Remastered](https://www.youtube.com/watch?v=2K-4CCvhYco)
 - [Split Enz - Hard Act To Follow](https://www.youtube.com/watch?v=AGTSUeyt-nY)
 - [Split Enz - Cheated [Demo of Clumsy] - from Corroboree / Waiata](https://www.youtube.com/watch?v=RD2xZtN-RD8)

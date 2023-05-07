@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-![The Charlatans by The Charlatans](the-charlatans-20376190.jpg)
+{{< img src="the-charlatans-20376190.jpg" title="The Charlatans by The Charlatans" >}}
 
 <!-- section break -->
 
@@ -41,16 +41,16 @@ styles: ["Britpop", "Indie Rock"]
 
 
 ## Videos
-### THE CHARLATANS - Bullet comes
-{{< youtube id="ogFE4t2eyqw" title="THE CHARLATANS - Bullet comes" >}}<br>
+### The Charlatans - Feeling Holy
+{{< youtube id="-mSwij3eShM" title="The Charlatans - Feeling Holy" >}}<br>
 
 ### More Videos
 
+- [THE CHARLATANS - Bullet comes](https://www.youtube.com/watch?v=ogFE4t2eyqw)
 - [The Charlatans - Just When You're Thinkin' Things Over](https://www.youtube.com/watch?v=blqPQP7RPXw)
 - [The Charlatans - Crashin In](https://www.youtube.com/watch?v=NlrG6wPgOLo)
 - [the charlatans-just lookin](https://www.youtube.com/watch?v=vsjdaOxX8bU)
 - [The Charlatans-Crashin' In on The White Room.](https://www.youtube.com/watch?v=CZnxlnjWBNI)
-- [The Charlatans - Feeling Holy](https://www.youtube.com/watch?v=-mSwij3eShM)
 - [The Charlatans - Nine Acre Court](https://www.youtube.com/watch?v=uT5DUezAaRw)
 
 

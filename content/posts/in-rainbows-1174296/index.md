@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
 
-![In Rainbows by Radiohead](in-rainbows-1174296.jpg)
+{{< img src="in-rainbows-1174296.jpg" title="In Rainbows by Radiohead" >}}
 
 <!-- section break -->
 

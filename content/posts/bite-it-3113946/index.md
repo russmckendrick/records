@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Bite It by Whiteout](bite-it-3113946.jpg)
+{{< img src="bite-it-3113946.jpg" title="Bite It by Whiteout" >}}
 
 <!-- section break -->
 

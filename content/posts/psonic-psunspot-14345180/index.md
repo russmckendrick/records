@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![Psonic Psunspot by XTC](psonic-psunspot-14345180.jpg)
+{{< img src="psonic-psunspot-14345180.jpg" title="Psonic Psunspot by XTC" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,13 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### The Dukes Of Stratosphear - Collideascope
-{{< youtube id="mUOJIm0fVas" title="The Dukes Of Stratosphear - Collideascope" >}}<br>
+### Little Lighthouse (2001 Mix)
+{{< youtube id="davK8592Afw" title="Little Lighthouse (2001 Mix)" >}}<br>
 
 ### More Videos
 
 - [The Dukes Of Stratosphear - Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
-- [Little Lighthouse (2001 Mix)](https://www.youtube.com/watch?v=davK8592Afw)
+- [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
 - [The Dukes Of Stratosphear - Brainiac's daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
 - [Dukes of Stratosphear (XTC) - You're My Drug](https://www.youtube.com/watch?v=HwzZflj9pjM)
 

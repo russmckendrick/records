@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "IDM", "Experimental"]
 ---
 
-![Kid A Mnesia by Radiohead](kid-a-mnesia-21254395.jpg)
+{{< img src="kid-a-mnesia-21254395.jpg" title="Kid A Mnesia by Radiohead" >}}
 
 <!-- section break -->
 

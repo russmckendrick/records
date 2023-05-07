@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Indie Rock"]
 ---
 
-![Republic by New Order](republic-7515852.jpg)
+{{< img src="republic-7515852.jpg" title="Republic by New Order" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Electro", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### New Order - Regret (Official Music Video)
-{{< youtube id="71ZHVmSuBJM" title="New Order - Regret (Official Music Video)" >}}<br>
+### New Order - World (The Price of Love) (Official Music Video)
+{{< youtube id="CXzs47qy2Pk" title="New Order - World (The Price of Love) (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [New Order - World (The Price of Love) (Official Music Video)](https://www.youtube.com/watch?v=CXzs47qy2Pk)
+- [New Order - Regret (Official Music Video)](https://www.youtube.com/watch?v=71ZHVmSuBJM)
 
 
 ## Release Information

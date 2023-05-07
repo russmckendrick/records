@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Much Against Everyone's Advice by Soulwax](much-against-everyone-s-advice-4163855.jpg)
+{{< img src="much-against-everyone-s-advice-4163855.jpg" title="Much Against Everyone's Advice by Soulwax" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Too Many DJs
-{{< youtube id="gJ9ao8u4GMY" title="Too Many DJs" >}}<br>
+### 04   Much Against Everyone's Advice - Soulwax
+{{< youtube id="Jm7N789FXUg" title="04   Much Against Everyone's Advice - Soulwax" >}}<br>
 
 ### More Videos
 
 - [01   Conversation Intercom - Soulwax](https://www.youtube.com/watch?v=r28N6iYEN0I)
 - [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
 - [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
-- [04   Much Against Everyone's Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
+- [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
 - [Funny](https://www.youtube.com/watch?v=eNimQu7lx40)
 - [When Logics Die](https://www.youtube.com/watch?v=x5hVMKDpMnU)
 - [Conversation Intercom](https://www.youtube.com/watch?v=7yx7uoojLM0)

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Songs In The Key Of Animals by Benji Hughes](songs-in-the-key-of-animals-8050808.jpg)
+{{< img src="songs-in-the-key-of-animals-8050808.jpg" title="Songs In The Key Of Animals by Benji Hughes" >}}
 
 <!-- section break -->
 

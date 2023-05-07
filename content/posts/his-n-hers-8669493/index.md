@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Britpop"]
 ---
 
-![His 'N' Hers by Pulp](his-n-hers-8669493.jpg)
+{{< img src="his-n-hers-8669493.jpg" title="His 'N' Hers by Pulp" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,11 @@ styles: ["Britpop"]
 
 
 ## Videos
-### Pulp - Someone Like The Moon
-{{< youtube id="3bzX8OG2nZc" title="Pulp - Someone Like The Moon" >}}<br>
+### Pulp - Babies (Official Video)
+{{< youtube id="38by00DGid0" title="Pulp - Babies (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Pulp - Babies (Official Video)](https://www.youtube.com/watch?v=38by00DGid0)
 - [Pulp  - His 'n Hers](https://www.youtube.com/watch?v=djxqJv65CC4)
 - [Pulp - Lipgloss](https://www.youtube.com/watch?v=1MDpGCTdJxw)
 - [Pulp - Do You Remember The First Time (Promo)](https://www.youtube.com/watch?v=sPGepgWupTw)
@@ -54,6 +53,7 @@ styles: ["Britpop"]
 - [Pulp - Have You Seen Her Lately?](https://www.youtube.com/watch?v=J5FDj2Bdci8)
 - [Pulp - Happy Endings](https://www.youtube.com/watch?v=swyg3oaN0ho)
 - [Pulp - David's Last Summer](https://www.youtube.com/watch?v=1ir1Ib3Tbdw)
+- [Pulp - Someone Like The Moon](https://www.youtube.com/watch?v=3bzX8OG2nZc)
 
 
 ## Release Information

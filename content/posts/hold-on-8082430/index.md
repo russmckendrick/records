@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-![Hold On! by The James Hunter Six](hold-on-8082430.jpg)
+{{< img src="hold-on-8082430.jpg" title="Hold On! by The James Hunter Six" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### The James Hunter 6 'Sachelfoot' | Live Studio Session
-{{< youtube id="kRgOiRxhqWE" title="The James Hunter 6 'Sachelfoot' | Live Studio Session" >}}<br>
+### Light of My Life
+{{< youtube id="eOxA5DXpVio" title="Light of My Life" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Rhythm & Blues"]
 - [The James Hunter Six Something's Calling OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
 - [James Hunter Six  A Truer Heart](https://www.youtube.com/watch?v=bO2jPJwX__A)
 - [The James Hunter Six - Free Your Mind (While You Still Got Time). (ΗD)](https://www.youtube.com/watch?v=jRGSX9GQgc4)
-- [Light of My Life](https://www.youtube.com/watch?v=eOxA5DXpVio)
 - [James Hunter - 'Stranded'](https://www.youtube.com/watch?v=eiTQIecIwMQ)
+- [The James Hunter 6 'Sachelfoot' | Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
 - [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
 
 

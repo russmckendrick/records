@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Liquid Skin by Gomez](liquid-skin-13875867.jpg)
+{{< img src="liquid-skin-13875867.jpg" title="Liquid Skin by Gomez" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Gomez - We Haven't Turned Around
-{{< youtube id="THI4U3OsDQY" title="Gomez - We Haven't Turned Around" >}}<br>
+### Blue Moon Rising
+{{< youtube id="9jHCwCbRGJg" title="Blue Moon Rising" >}}<br>
 
 ### More Videos
 
 - [Hangover (Remastered 2019)](https://www.youtube.com/watch?v=XPebxxCiZQk)
 - [Revolutionary Kind](https://www.youtube.com/watch?v=V2nECCy8uEI)
 - [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
-- [Blue Moon Rising](https://www.youtube.com/watch?v=9jHCwCbRGJg)
 - [Las Vegas Dealer](https://www.youtube.com/watch?v=peX1chFJTpM)
+- [Gomez - We Haven't Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
 - [Fill My Cup](https://www.youtube.com/watch?v=VjnYPEfvyj4)
 - [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)
 - [Rosalita](https://www.youtube.com/watch?v=Ag-_dO-za3k)

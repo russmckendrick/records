@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The North by Stars](the-north-3839836.jpg)
+{{< img src="the-north-3839836.jpg" title="The North by Stars" >}}
 
 <!-- section break -->
 
@@ -40,11 +40,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Stars - The Theory of Relativity
-{{< youtube id="Ta1xEMypk2Q" title="Stars - The Theory of Relativity" >}}<br>
+### Stars- The North
+{{< youtube id="4e4JECimr0k" title="Stars- The North" >}}<br>
 
 ### More Videos
 
+- [Stars - The Theory of Relativity](https://www.youtube.com/watch?v=Ta1xEMypk2Q)
 - [Stars - Hold On When You Get Love And Let Go When You Give It](https://www.youtube.com/watch?v=2SYO6a6PaTs)
 - [The North](https://www.youtube.com/watch?v=A0nanSYxC6A)
 - [Stars - Backlines](https://www.youtube.com/watch?v=DhE2tRB0LCE)
@@ -56,7 +57,6 @@ styles: ["Alternative Rock"]
 - [Do You Want To Die Together?](https://www.youtube.com/watch?v=0S5iyO0Ooe8)
 - [Progress](https://www.youtube.com/watch?v=2w8gzGeqiHo)
 - [Through The Mines](https://www.youtube.com/watch?v=EAF52eYLem4)
-- [Stars- The North](https://www.youtube.com/watch?v=4e4JECimr0k)
 
 
 ## Release Information

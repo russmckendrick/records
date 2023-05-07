@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![Sky Blue by Townes Van Zandt](sky-blue-13310013.jpg)
+{{< img src="sky-blue-13310013.jpg" title="Sky Blue by Townes Van Zandt" >}}
 
 <!-- section break -->
 
@@ -39,15 +39,15 @@ styles: ["Country"]
 
 
 ## Videos
-### Blue Ridge Mtns. (Smoky Version)
-{{< youtube id="G4u_OZ2o2D0" title="Blue Ridge Mtns. (Smoky Version)" >}}<br>
+### Townes Van Zandt - All I Need (Official Audio)
+{{< youtube id="iPZzbym9RsE" title="Townes Van Zandt - All I Need (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Townes Van Zandt - All I Need (Official Audio)](https://www.youtube.com/watch?v=iPZzbym9RsE)
 - [Rex's Blues](https://www.youtube.com/watch?v=4U74ZESnmp0)
 - [Sky Blue](https://www.youtube.com/watch?v=jv8i067f5yM)
 - [Forever, For Always, For Certain](https://www.youtube.com/watch?v=-XtpKt0heq8)
+- [Blue Ridge Mtns. (Smoky Version)](https://www.youtube.com/watch?v=G4u_OZ2o2D0)
 - [Townes Van Zandt - Pancho & Lefty](https://www.youtube.com/watch?v=RfNRLrYWjnc)
 - [Dream Spider](https://www.youtube.com/watch?v=qsSveNJ3Iu0)
 - [Last Thing on My Mind](https://www.youtube.com/watch?v=42XHepyp2r0)

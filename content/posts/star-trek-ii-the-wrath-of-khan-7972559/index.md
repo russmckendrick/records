@@ -14,7 +14,7 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-![Star Trek II: The Wrath Of Khan by James Horner](star-trek-ii-the-wrath-of-khan-7972559.jpg)
+{{< img src="star-trek-ii-the-wrath-of-khan-7972559.jpg" title="Star Trek II: The Wrath Of Khan by James Horner" >}}
 
 <!-- section break -->
 

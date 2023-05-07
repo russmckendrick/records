@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-![Jailbreak by Thin Lizzy](jailbreak-14698179.jpg)
+{{< img src="jailbreak-14698179.jpg" title="Jailbreak by Thin Lizzy" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Hard Rock", "Classic Rock"]
 
 
 ## Videos
-### Blues Boy
-{{< youtube id="9iVmNwoNnDY" title="Blues Boy" >}}<br>
+### Cowboy Song
+{{< youtube id="Q61q458T92w" title="Cowboy Song" >}}<br>
 
 ### More Videos
 
 - [Jailbreak](https://www.youtube.com/watch?v=yFMVvSAeVO4)
 - [Running Back](https://www.youtube.com/watch?v=w8Ca-YfG5r8)
-- [Cowboy Song](https://www.youtube.com/watch?v=Q61q458T92w)
+- [Blues Boy](https://www.youtube.com/watch?v=9iVmNwoNnDY)
 - [Thin Lizzy - Cowboy Song 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=8RXZ6UaZTOA)
 - [Thin Lizzy - Running Back 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=CBcMcaoi75s)
 

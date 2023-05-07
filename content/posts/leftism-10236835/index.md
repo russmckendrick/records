@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo", "Progressive House"]
 ---
 
-![Leftism by Leftfield](leftism-10236835.jpg)
+{{< img src="leftism-10236835.jpg" title="Leftism by Leftfield" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Leftfield", "Downtempo", "Progressive House"]
 
 
 ## Videos
-### Leftfield - Half Past Dub
-{{< youtube id="apwG4hhkd_U" title="Leftfield - Half Past Dub" >}}<br>
+### Inspection (Check One) (Remastered)
+{{< youtube id="84ZyRbb20-4" title="Inspection (Check One) (Remastered)" >}}<br>
 
 ### More Videos
 
@@ -53,9 +53,9 @@ styles: ["Leftfield", "Downtempo", "Progressive House"]
 - [Leftfield - Melt (Remastered)](https://www.youtube.com/watch?v=jaWZl2JiYlw)
 - [Black Flute (Remastered)](https://www.youtube.com/watch?v=g0Iacn8WKhs)
 - [Original (Remastered)](https://www.youtube.com/watch?v=CUgeEeEoFko)
-- [Inspection (Check One) (Remastered)](https://www.youtube.com/watch?v=84ZyRbb20-4)
 - [Space Shanty (Remastered)](https://www.youtube.com/watch?v=mis_CxAJ63U)
 - [Storm 3000 (Remastered)](https://www.youtube.com/watch?v=D2N99BwVmXw)
+- [Leftfield - Half Past Dub](https://www.youtube.com/watch?v=apwG4hhkd_U)
 - [Open Up (Remastered)](https://www.youtube.com/watch?v=uq3IAHVDCGM)
 - [21st Century Poem (Remastered)](https://www.youtube.com/watch?v=Ysve0XA8QjU)
 

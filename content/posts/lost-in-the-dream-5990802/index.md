@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Lost In The Dream by The War On Drugs](lost-in-the-dream-5990802.jpg)
+{{< img src="lost-in-the-dream-5990802.jpg" title="Lost In The Dream by The War On Drugs" >}}
 
 <!-- section break -->
 

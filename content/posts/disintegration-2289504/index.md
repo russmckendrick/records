@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-![Disintegration by The Cure](disintegration-2289504.jpg)
+{{< img src="disintegration-2289504.jpg" title="Disintegration by The Cure" >}}
 
 <!-- section break -->
 

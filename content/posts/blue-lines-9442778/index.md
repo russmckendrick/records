@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-![Blue Lines by Massive Attack](blue-lines-9442778.jpg)
+{{< img src="blue-lines-9442778.jpg" title="Blue Lines by Massive Attack" >}}
 
 <!-- section break -->
 

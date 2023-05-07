@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-![Welcome To Sky Valley by Kyuss](welcome-to-sky-valley-8901378.jpg)
+{{< img src="welcome-to-sky-valley-8901378.jpg" title="Welcome To Sky Valley by Kyuss" >}}
 
 <!-- section break -->
 

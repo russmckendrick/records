@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Nick Of Time by The James Hunter Six](nick-of-time-14888270.jpg)
+{{< img src="nick-of-time-14888270.jpg" title="Nick Of Time by The James Hunter Six" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Soul"]
 
 
 ## Videos
-### Brother or Other
-{{< youtube id="ziRNbu8pOSE" title="Brother or Other" >}}<br>
+### Paradise for One
+{{< youtube id="gFIm8_lPJpw" title="Paradise for One" >}}<br>
 
 ### More Videos
 
@@ -52,11 +52,11 @@ styles: ["Soul"]
 - [Never](https://www.youtube.com/watch?v=USWqRiFo8nM)
 - [Missing in Action](https://www.youtube.com/watch?v=Asc2oHBZgok)
 - [Nick of Time](https://www.youtube.com/watch?v=CSuYDcgNusc)
+- [Brother or Other](https://www.youtube.com/watch?v=ziRNbu8pOSE)
 - [Ain't Goin' Up in One of Those Things](https://www.youtube.com/watch?v=2dDBZodjoVI)
 - [Take It As You Find It](https://www.youtube.com/watch?v=EAYUA_OJK3I)
 - [Can't Help Myself](https://www.youtube.com/watch?v=7pe-TYXpDWc)
 - [How 'Bout Now](https://www.youtube.com/watch?v=y2mTWUtqkeI)
-- [Paradise for One](https://www.youtube.com/watch?v=gFIm8_lPJpw)
 - [He's Your Could've Been](https://www.youtube.com/watch?v=BWIl0SWwCbs)
 
 

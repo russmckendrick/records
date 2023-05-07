@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Live Through This by Hole](live-through-this-8829211.jpg)
+{{< img src="live-through-this-8829211.jpg" title="Live Through This by Hole" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Hole - Violet (Official Video)
-{{< youtube id="cH_rfGBwamc" title="Hole - Violet (Official Video)" >}}<br>
+### Hole - Miss World (Official Video)
+{{< youtube id="mS1Ckczz0LQ" title="Hole - Miss World (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Hole - Miss World (Official Video)](https://www.youtube.com/watch?v=mS1Ckczz0LQ)
 - [Hole - Doll Parts (Official Video)](https://www.youtube.com/watch?v=RD9xK9smth4)
+- [Hole - Violet (Official Video)](https://www.youtube.com/watch?v=cH_rfGBwamc)
 
 
 ## Release Information

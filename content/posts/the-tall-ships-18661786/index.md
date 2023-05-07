@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Symphonic Rock"]
 ---
 
-![The Tall Ships by It Bites](the-tall-ships-18661786.jpg)
+{{< img src="the-tall-ships-18661786.jpg" title="The Tall Ships by It Bites" >}}
 
 <!-- section break -->
 
@@ -49,12 +49,12 @@ styles: ["Symphonic Rock"]
 
 
 ## Videos
-### It Bites - The Tall Ships (FULL ALBUM)
-{{< youtube id="phNXbg1DBIY" title="It Bites - The Tall Ships (FULL ALBUM)" >}}<br>
+### It Bites- The Tall Ships
+{{< youtube id="3DFsrm3Oj9w" title="It Bites- The Tall Ships" >}}<br>
 
 ### More Videos
 
-- [It Bites- The Tall Ships](https://www.youtube.com/watch?v=3DFsrm3Oj9w)
+- [It Bites - The Tall Ships (FULL ALBUM)](https://www.youtube.com/watch?v=phNXbg1DBIY)
 - [IT BITES - This Is England](https://www.youtube.com/watch?v=VUO-YxeTw-M)
 - [IT BITES-FAHRENHEIT](https://www.youtube.com/watch?v=ngChnyQjAJw)
 

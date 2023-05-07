@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
 
-![Dig Your Own Hole by The Chemical Brothers](dig-your-own-hole-10501063.jpg)
+{{< img src="dig-your-own-hole-10501063.jpg" title="Dig Your Own Hole by The Chemical Brothers" >}}
 
 <!-- section break -->
 

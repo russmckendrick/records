@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Blues"]
 styles: ["Alternative Rock", "Downtempo", "Synth-pop"]
 ---
 
-![Ultra by Depeche Mode](ultra-9798755.jpg)
+{{< img src="ultra-9798755.jpg" title="Ultra by Depeche Mode" >}}
 
 <!-- section break -->
 

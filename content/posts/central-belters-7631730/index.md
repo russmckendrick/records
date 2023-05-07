@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-![Central Belters by Mogwai](central-belters-7631730.jpg)
+{{< img src="central-belters-7631730.jpg" title="Central Belters by Mogwai" >}}
 
 <!-- section break -->
 

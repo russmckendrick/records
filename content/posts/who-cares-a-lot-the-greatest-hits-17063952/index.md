@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
-![Who Cares A Lot? The Greatest Hits by Faith No More](who-cares-a-lot-the-greatest-hits-17063952.jpg)
+{{< img src="who-cares-a-lot-the-greatest-hits-17063952.jpg" title="Who Cares A Lot? The Greatest Hits by Faith No More" >}}
 
 <!-- section break -->
 
@@ -40,11 +40,12 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### Faith No More - We Care a Lot (Official Music Video)
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video)" >}}<br>
+### Last Cup of Sorrow
+{{< youtube id="tx72qy4qkhw" title="Last Cup of Sorrow" >}}<br>
 
 ### More Videos
 
+- [Faith No More - We Care a Lot (Official Music Video)](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [Introduce Yourself](https://www.youtube.com/watch?v=KuVUx8cADWs)
 - [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
 - [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
@@ -56,7 +57,6 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 - [The Gentle Art of Making Enemies](https://www.youtube.com/watch?v=l_HtpFAlPWY)
 - [Evidence](https://www.youtube.com/watch?v=g-ZlNcsxgGI)
 - [I Started a Joke](https://www.youtube.com/watch?v=3bdD4fbBYkQ)
-- [Last Cup of Sorrow](https://www.youtube.com/watch?v=tx72qy4qkhw)
 - [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
 - [Faith No More - Stripsearch (Official Music Video)](https://www.youtube.com/watch?v=-_U6165DVeM)
 - [The World Is Yours (Outtake from Angel Dust Sessions)](https://www.youtube.com/watch?v=XXEMTvOmAXM)

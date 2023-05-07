@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Power Pop"]
 ---
 
-![Bellybutton by Jellyfish](bellybutton-1839629.jpg)
+{{< img src="bellybutton-1839629.jpg" title="Bellybutton by Jellyfish" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Alternative Rock", "Power Pop"]
 
 
 ## Videos
-### Baby's Coming Back
-{{< youtube id="VCk8jfgVAac" title="Baby's Coming Back" >}}<br>
+### She Still Loves Him
+{{< youtube id="dJBZyHJKNHg" title="She Still Loves Him" >}}<br>
 
 ### More Videos
 
@@ -45,10 +45,10 @@ styles: ["Alternative Rock", "Power Pop"]
 - [Jellyfish, The King Is Half-Undressed](https://www.youtube.com/watch?v=V1Lq9lxk7Rw)
 - [Jellyfish, That Is Why](https://www.youtube.com/watch?v=loG_RK9EP8o)
 - [I Wanna Stay Home](https://www.youtube.com/watch?v=O0S3Ci8hDZs)
-- [She Still Loves Him](https://www.youtube.com/watch?v=dJBZyHJKNHg)
 - [All I Want Is Everything](https://www.youtube.com/watch?v=mM5ivZN-5bc)
 - [Now She Knows She's Wrong](https://www.youtube.com/watch?v=P8fwwYc-HbU)
 - [Bedspring Kiss](https://www.youtube.com/watch?v=bwoPQxOmVYM)
+- [Baby's Coming Back](https://www.youtube.com/watch?v=VCk8jfgVAac)
 - [Calling Sarah](https://www.youtube.com/watch?v=NkY_5GttIqs)
 
 

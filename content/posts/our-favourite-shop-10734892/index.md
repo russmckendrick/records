@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 ---
 
-![Our Favourite Shop by The Style Council](our-favourite-shop-10734892.jpg)
+{{< img src="our-favourite-shop-10734892.jpg" title="Our Favourite Shop by The Style Council" >}}
 
 <!-- section break -->
 
@@ -42,20 +42,20 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Style Council - Walls Come Tumbling Down
-{{< youtube id="8_WhytIbSno" title="Style Council - Walls Come Tumbling Down" >}}<br>
+### Internationalists
+{{< youtube id="lNFFr8H_qKo" title="Internationalists" >}}<br>
 
 ### More Videos
 
 - [The Style Council - Come To Milton Keynes](https://www.youtube.com/watch?v=eweq1pnVOF0)
 - [The Style Council - Our Favourite Shop (Album Version)](https://www.youtube.com/watch?v=4Xr48EHqvlk)
-- [Internationalists](https://www.youtube.com/watch?v=lNFFr8H_qKo)
 - [Homebreakers   The Style Council](https://www.youtube.com/watch?v=vqDRo2p5W1I)
 - [The Stand Up Comic's Instructions](https://www.youtube.com/watch?v=gsxMirHcG9k)
 - [The Style Council - All Gone Away](https://www.youtube.com/watch?v=mExCJcu98h0)
 - [Style Council - The Boy Who Cried Wolf (HQ)](https://www.youtube.com/watch?v=LJZenO5LXgo)
 - [Down In The Seine](https://www.youtube.com/watch?v=WXP5uFVc1l0)
 - [Luck](https://www.youtube.com/watch?v=yqccuvCOSO4)
+- [Style Council - Walls Come Tumbling Down](https://www.youtube.com/watch?v=8_WhytIbSno)
 - [With Everything To Lose](https://www.youtube.com/watch?v=inJY7ldDcF8)
 - [A Man Of Great Promise](https://www.youtube.com/watch?v=DnVHVBaYIus)
 - [Style Council - The Lodgers](https://www.youtube.com/watch?v=Dpg0jlhNV8Y)

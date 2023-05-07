@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![We Are Legend by Magenta](we-are-legend-10451674.jpg)
+{{< img src="we-are-legend-10451674.jpg" title="We Are Legend by Magenta" >}}
 
 <!-- section break -->
 

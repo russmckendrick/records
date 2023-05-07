@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-![Little Earthquakes - The B-Sides by Tori Amos](little-earthquakes-the-b-sides-26839190.jpg)
+{{< img src="little-earthquakes-the-b-sides-26839190.jpg" title="Little Earthquakes - The B-Sides by Tori Amos" >}}
 
 <!-- section break -->
 

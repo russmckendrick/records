@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Avantgarde", "Psychedelic Rock"]
 ---
 
-![Mass Hypnosis And The Dark Triad by Bill Fisher](mass-hypnosis-and-the-dark-triad-16863852.jpg)
+{{< img src="mass-hypnosis-and-the-dark-triad-16863852.jpg" title="Mass Hypnosis And The Dark Triad by Bill Fisher" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 
 
 ## Videos
-### Mirror of Tomorrow
-{{< youtube id="I-Au5S3LRrs" title="Mirror of Tomorrow" >}}<br>
+### Bill Fisher - All Through The Night (Official Visualizer Video)
+{{< youtube id="QevyAUTftlo" title="Bill Fisher - All Through The Night (Official Visualizer Video)" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 - [Mass Hypnosis](https://www.youtube.com/watch?v=TRe6ohm3FeE)
 - [Days of Old](https://www.youtube.com/watch?v=w0bWFudPqIo)
 - [Message from the Sky](https://www.youtube.com/watch?v=PANvt5h_7qE)
-- [Bill Fisher - All Through The Night (Official Visualizer Video)](https://www.youtube.com/watch?v=QevyAUTftlo)
+- [Mirror of Tomorrow](https://www.youtube.com/watch?v=I-Au5S3LRrs)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
 
-![Gather Up by Matt Berry](gather-up-21118603.jpg)
+{{< img src="gather-up-21118603.jpg" title="Gather Up by Matt Berry" >}}
 
 <!-- section break -->
 

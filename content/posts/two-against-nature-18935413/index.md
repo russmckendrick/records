@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
 
-![Two Against Nature by Steely Dan](two-against-nature-18935413.jpg)
+{{< img src="two-against-nature-18935413.jpg" title="Two Against Nature by Steely Dan" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Pop Rock", "Fusion"]
 
 
 ## Videos
-### Jack of Speed
-{{< youtube id="tSoiAzTwACY" title="Jack of Speed" >}}<br>
+### Cousin Dupree
+{{< youtube id="80b4Y_d8W8o" title="Cousin Dupree" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Pop Rock", "Fusion"]
 - [Two Against Nature](https://www.youtube.com/watch?v=gEPxyPy2D1U)
 - [Janie Runaway](https://www.youtube.com/watch?v=mLzuabui24M)
 - [Almost Gothic](https://www.youtube.com/watch?v=UL33dIYfoCo)
-- [Cousin Dupree](https://www.youtube.com/watch?v=80b4Y_d8W8o)
+- [Jack of Speed](https://www.youtube.com/watch?v=tSoiAzTwACY)
 - [Negative Girl](https://www.youtube.com/watch?v=N01RFpaez84)
 - [West of Hollywood](https://www.youtube.com/watch?v=7ES0OdVB8Yo)
 

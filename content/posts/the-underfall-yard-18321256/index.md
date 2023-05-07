@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![The Underfall Yard by Big Big Train](the-underfall-yard-18321256.jpg)
+{{< img src="the-underfall-yard-18321256.jpg" title="The Underfall Yard by Big Big Train" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Winchester Diver
-{{< youtube id="UR6HH2lMs44" title="Winchester Diver" >}}<br>
+### Victorian Brickwork
+{{< youtube id="57EYF8MKMjc" title="Victorian Brickwork" >}}<br>
 
 ### More Videos
 
 - [Evening Star](https://www.youtube.com/watch?v=mA2-i3C3P_U)
 - [Master James of St George](https://www.youtube.com/watch?v=rCJiLZQPR0Y)
-- [Victorian Brickwork](https://www.youtube.com/watch?v=57EYF8MKMjc)
 - [Last Train](https://www.youtube.com/watch?v=x3OXfz54gQw)
+- [Winchester Diver](https://www.youtube.com/watch?v=UR6HH2lMs44)
 - [The Underfall Yard](https://www.youtube.com/watch?v=bsg9IbViAdI)
 
 

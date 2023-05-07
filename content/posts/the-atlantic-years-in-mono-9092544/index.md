@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-![The Atlantic Years - In Mono by Ray Charles](the-atlantic-years-in-mono-9092544.jpg)
+{{< img src="the-atlantic-years-in-mono-9092544.jpg" title="The Atlantic Years - In Mono by Ray Charles" >}}
 
 <!-- section break -->
 
@@ -110,17 +110,17 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### Drown in My Own Tears (2016 Mono Remaster)
-{{< youtube id="xSXaXj9pLoY" title="Drown in My Own Tears (2016 Mono Remaster)" >}}<br>
+### Am I Blue (2016 Mono Remaster)
+{{< youtube id="IzRUy47y1DU" title="Am I Blue (2016 Mono Remaster)" >}}<br>
 
 ### More Videos
 
 - [Ray Charles - What'd I Say (Official Audio)](https://www.youtube.com/watch?v=6uTDa3771HM)
 - [The Genius After Hours (2016 Mono Remaster)](https://www.youtube.com/watch?v=sXv2EQ-Yb30)
-- [Am I Blue (2016 Mono Remaster)](https://www.youtube.com/watch?v=IzRUy47y1DU)
 - [Rockhouse, Pt. 1 & 2 (2016 Mono Remaster)](https://www.youtube.com/watch?v=wiaq32IOYRU)
 - [I Got a Woman (2016 Mono Remaster)](https://www.youtube.com/watch?v=mvBpsTE-p8w)
 - [Two Years of Torture (2016 Mono Remaster)](https://www.youtube.com/watch?v=NVn8KbLqXDI)
+- [Drown in My Own Tears (2016 Mono Remaster)](https://www.youtube.com/watch?v=xSXaXj9pLoY)
 - [Tell Me How Do You Feel (2016 Mono Remaster)](https://www.youtube.com/watch?v=1t6ieA4W-h4)
 
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 ---
 
-![Dixie-Narco EP by Primal Scream](dixie-narco-ep-19110514.jpg)
+{{< img src="dixie-narco-ep-19110514.jpg" title="Dixie-Narco EP by Primal Scream" >}}
 
 <!-- section break -->
 

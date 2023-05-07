@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-![Best Of Cream by Cream](best-of-cream-7244667.jpg)
+{{< img src="best-of-cream-7244667.jpg" title="Best Of Cream by Cream" >}}
 
 <!-- section break -->
 

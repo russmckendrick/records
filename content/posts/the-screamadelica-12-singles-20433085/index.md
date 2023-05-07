@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
 ---
 
-![The Screamadelica 12 Singles by Primal Scream](the-screamadelica-12-singles-20433085.jpg)
+{{< img src="the-screamadelica-12-singles-20433085.jpg" title="The Screamadelica 12 Singles by Primal Scream" >}}
 
 <!-- section break -->
 

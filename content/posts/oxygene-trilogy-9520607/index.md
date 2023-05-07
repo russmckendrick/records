@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Oxygene Trilogy by Jean-Michel Jarre](oxygene-trilogy-9520607.jpg)
+{{< img src="oxygene-trilogy-9520607.jpg" title="Oxygene Trilogy by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 

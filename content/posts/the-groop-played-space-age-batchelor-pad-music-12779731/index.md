@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Krautrock", "Space Rock", "Indie Rock"]
 ---
 
-![The Groop Played Space Age Batchelor Pad Music by Stereolab](the-groop-played-space-age-batchelor-pad-music-12779731.jpg)
+{{< img src="the-groop-played-space-age-batchelor-pad-music-12779731.jpg" title="The Groop Played Space Age Batchelor Pad Music by Stereolab" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 
 
 ## Videos
-### Avant Garde M.O.R.
-{{< youtube id="40fwESeQ3XE" title="Avant Garde M.O.R." >}}<br>
+### Space Age Bachelor Pad Music (Mellow)
+{{< youtube id="omLgNwbcPb8" title="Space Age Bachelor Pad Music (Mellow)" >}}<br>
 
 ### More Videos
 
-- [Space Age Bachelor Pad Music (Mellow)](https://www.youtube.com/watch?v=omLgNwbcPb8)
+- [Avant Garde M.O.R.](https://www.youtube.com/watch?v=40fwESeQ3XE)
 - [The Groop Play Chord X](https://www.youtube.com/watch?v=1ESJ9GXUCWI)
 - [Space Age Bachelor Pad Music (Foamy)](https://www.youtube.com/watch?v=IGBOxp-DMvM)
 - [Ronco Symphony](https://www.youtube.com/watch?v=zOl52t2OjWI)

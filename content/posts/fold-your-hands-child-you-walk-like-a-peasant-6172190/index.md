@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Fold Your Hands Child, You Walk Like A Peasant by Belle & Sebastian](fold-your-hands-child-you-walk-like-a-peasant-6172190.jpg)
+{{< img src="fold-your-hands-child-you-walk-like-a-peasant-6172190.jpg" title="Fold Your Hands Child, You Walk Like A Peasant by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Belle and Sebastian - The Wrong Girl
-{{< youtube id="6d9sHXnT3ks" title="Belle and Sebastian - The Wrong Girl" >}}<br>
+### Belle and Sebastian - I Fought in a War
+{{< youtube id="3MhMODbr-p4" title="Belle and Sebastian - I Fought in a War" >}}<br>
 
 ### More Videos
 
-- [Belle and Sebastian - I Fought in a War](https://www.youtube.com/watch?v=3MhMODbr-p4)
+- [Belle and Sebastian - The Wrong Girl](https://www.youtube.com/watch?v=6d9sHXnT3ks)
 
 
 ## Release Information

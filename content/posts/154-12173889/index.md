@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk", "Experimental"]
 ---
 
-![154 by Wire](154-12173889.jpg)
+{{< img src="154-12173889.jpg" title="154 by Wire" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["New Wave", "Punk", "Experimental"]
 
 
 ## Videos
-### Once Is Enough (2006 Remastered Version)
-{{< youtube id="OQr6TVdPWxo" title="Once Is Enough (2006 Remastered Version)" >}}<br>
+### Wire - Get Down (Parts I & II)
+{{< youtube id="UaK7_m-pZsU" title="Wire - Get Down (Parts I & II)" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["New Wave", "Punk", "Experimental"]
 - [On Returning (2006 Remastered Version)](https://www.youtube.com/watch?v=DuQvvh-9aCM)
 - [A Mutual Friend (2006 Remastered Version)](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)
 - [Blessed State (2006 Remastered Version)](https://www.youtube.com/watch?v=LeCI9kww3Dk)
+- [Once Is Enough (2006 Remastered Version)](https://www.youtube.com/watch?v=OQr6TVdPWxo)
 - [Indirect Enquiries (2006 Remastered Version)](https://www.youtube.com/watch?v=_1E7brhqdtE)
 - [40 Versions (2006 Remastered Version)](https://www.youtube.com/watch?v=HVR9obMPABw)
 - [WIRE song 1 1979](https://www.youtube.com/watch?v=ZlJu7FZRHxc)
-- [Wire - Get Down (Parts I & II)](https://www.youtube.com/watch?v=UaK7_m-pZsU)
 - [WIRE let's panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
 - [Wire - Small Electric Piece](https://www.youtube.com/watch?v=bSEVrZ1DmlI)
 

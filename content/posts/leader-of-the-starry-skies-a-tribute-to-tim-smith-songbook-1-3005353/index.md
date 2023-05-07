@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ---
 
-![*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various](leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353.jpg)
+{{< img src="leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353.jpg" title="*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 
 
 ## Videos
-### The Stench of Honey
-{{< youtube id="3P1hLlVqyKc" title="The Stench of Honey" >}}<br>
+### Wind and Rains Is Cold
+{{< youtube id="44jrPkCTQqU" title="Wind and Rains Is Cold" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 - [Is This the Life](https://www.youtube.com/watch?v=2PL-cS9aIPE)
 - [Founding](https://www.youtube.com/watch?v=Gw2ojxbzmYo)
 - [Day Is Gone](https://www.youtube.com/watch?v=nKKuOcPDJsQ)
-- [Wind and Rains Is Cold](https://www.youtube.com/watch?v=44jrPkCTQqU)
+- [The Stench of Honey](https://www.youtube.com/watch?v=3P1hLlVqyKc)
 - [Up in Annie's Room](https://www.youtube.com/watch?v=Bwzjuz4B_sY)
 - [Let Alone My Plastic Doll](https://www.youtube.com/watch?v=v_-vSEJ9IDU)
 - [Big Ship](https://www.youtube.com/watch?v=fMxcqGFwntk)

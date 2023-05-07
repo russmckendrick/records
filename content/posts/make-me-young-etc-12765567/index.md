@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Make Me Young, etc.  by Thumpermonkey](make-me-young-etc-12765567.jpg)
+{{< img src="make-me-young-etc-12765567.jpg" title="Make Me Young, etc.  by Thumpermonkey" >}}
 
 <!-- section break -->
 
@@ -35,16 +35,16 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Figstorm
-{{< youtube id="bez5Jd96Xa4" title="Figstorm" >}}<br>
+### Deckchair for Your Ghost
+{{< youtube id="XESW59P9kSU" title="Deckchair for Your Ghost" >}}<br>
 
 ### More Videos
 
 - [Make Me Young Etc](https://www.youtube.com/watch?v=yABAVfQMC-E)
 - [Veldt](https://www.youtube.com/watch?v=ZEyDjgXHdRc)
 - [Cranefly](https://www.youtube.com/watch?v=OP6GrlDQfOw)
-- [Deckchair for Your Ghost](https://www.youtube.com/watch?v=XESW59P9kSU)
 - [Buttersun](https://www.youtube.com/watch?v=zEaWLPUhAiI)
+- [Figstorm](https://www.youtube.com/watch?v=bez5Jd96Xa4)
 - [Tempe Terra](https://www.youtube.com/watch?v=rtEqRFXhTBM)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Punk"]
 ---
 
-![Greatest Hits by Ian Dury And The Blockheads](greatest-hits-12167804.jpg)
+{{< img src="greatest-hits-12167804.jpg" title="Greatest Hits by Ian Dury And The Blockheads" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Punk"]
 
 
 ## Videos
-### Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll
-{{< youtube id="rJjM9lr8nys" title="Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll" >}}<br>
+### Ian Dury - Wake up and make love with me
+{{< youtube id="c-VeOakGGPQ" title="Ian Dury - Wake up and make love with me" >}}<br>
 
 ### More Videos
 
 - [Ian Dury & The Blockheads - Reasons To Be Cheerful Part III](https://www.youtube.com/watch?v=6iiZEOHpogA)
-- [Ian Dury - Wake up and make love with me](https://www.youtube.com/watch?v=c-VeOakGGPQ)
+- [Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
 
 
 ## Release Information

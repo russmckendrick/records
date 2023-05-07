@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Sophtware Slump by Grandaddy](the-sophtware-slump-2995239.jpg)
+{{< img src="the-sophtware-slump-2995239.jpg" title="The Sophtware Slump by Grandaddy" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### Grandaddy - Jed the Humaniod
-{{< youtube id="veqZc8pNz-4" title="Grandaddy - Jed the Humaniod" >}}<br>
+### Grandaddy - He's Simple, He's Dumb, He's the Pilot
+{{< youtube id="IURAKQV7q_o" title="Grandaddy - He's Simple, He's Dumb, He's the Pilot" >}}<br>
 
 ### More Videos
 
-- [Grandaddy - He's Simple, He's Dumb, He's the Pilot](https://www.youtube.com/watch?v=IURAKQV7q_o)
+- [Grandaddy - Jed the Humaniod](https://www.youtube.com/watch?v=veqZc8pNz-4)
 - [Grandaddy - Jed's Other Poem](https://www.youtube.com/watch?v=QoyLvXQFbWE)
 - [Grandaddy - Hewlett's Daughter](https://www.youtube.com/watch?v=5OYwjvnabM8)
 - [Grandaddy - Underneath the Weeping Willow](https://www.youtube.com/watch?v=uYeNZkqCWHw)

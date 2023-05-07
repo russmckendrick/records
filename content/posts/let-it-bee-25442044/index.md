@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![Let It Bee by Voice Of The Beehive](let-it-bee-25442044.jpg)
+{{< img src="let-it-bee-25442044.jpg" title="Let It Bee by Voice Of The Beehive" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,12 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Voice Of The Beehive - Just a City
-{{< youtube id="5zliMFMcT2o" title="Voice Of The Beehive - Just a City" >}}<br>
+### Voice of the Beehive - Don't Call Me Baby (version 1)
+{{< youtube id="quD5B-la-ug" title="Voice of the Beehive - Don't Call Me Baby (version 1)" >}}<br>
 
 ### More Videos
 
 - [Beat of Love - Voice of the Beehive](https://www.youtube.com/watch?v=KuGz-ZpqTWg)
-- [Voice of the Beehive - Don't Call Me Baby (version 1)](https://www.youtube.com/watch?v=quD5B-la-ug)
 - [Voice Of The Beehive - Beat Of Love](https://www.youtube.com/watch?v=HK6IBM3BWlU)
 - [Sorrow Floats - Voice of the Beehive](https://www.youtube.com/watch?v=6gG5AdGWnVU)
 - [Voice Of The Beehive - I Say Nothing](https://www.youtube.com/watch?v=Vw8SpzqaI0I)
@@ -54,6 +53,7 @@ styles: ["Pop Rock", "Indie Rock"]
 - [Trust Me - Voice of the Beehive](https://www.youtube.com/watch?v=lIbsSyGNtn8)
 - [Voice Of The Beehive - Oh Love](https://www.youtube.com/watch?v=9pHt7MAMyfs)
 - [Theres a Barbarian in the Back of My Car - Voice of the Beehive](https://www.youtube.com/watch?v=5ppXJwH0jIs)
+- [Voice Of The Beehive - Just a City](https://www.youtube.com/watch?v=5zliMFMcT2o)
 - [Voice Of The Beehive - Trust Me](https://www.youtube.com/watch?v=zQxGU_oHofU)
 - [Voice Of The Beehive - Sorrow Floats](https://www.youtube.com/watch?v=H3nWNxFoz-w)
 - [Voice Of The Beehive - What You Have Is Enough](https://www.youtube.com/watch?v=Kd7ae8oqkd4)

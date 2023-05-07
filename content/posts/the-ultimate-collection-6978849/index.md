@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-![The Ultimate Collection by Paul Simon](the-ultimate-collection-6978849.jpg)
+{{< img src="the-ultimate-collection-6978849.jpg" title="The Ultimate Collection by Paul Simon" >}}
 
 <!-- section break -->
 

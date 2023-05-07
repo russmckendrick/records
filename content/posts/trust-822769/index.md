@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Trust by Ned's Atomic Dustbin](trust-822769.jpg)
+{{< img src="trust-822769.jpg" title="Trust by Ned's Atomic Dustbin" >}}
 
 <!-- section break -->
 
@@ -28,13 +28,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin - Titch
-{{< youtube id="pAI6J3l8Vlw" title="Ned's Atomic Dustbin - Titch" >}}<br>
+### Ned's Atomic Dustbin - Faceless HD
+{{< youtube id="-sbuANFW8qE" title="Ned's Atomic Dustbin - Faceless HD" >}}<br>
 
 ### More Videos
 
-- [Ned's Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
 - [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=ieYfUDWKJjs)
+- [Ned's Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
 
 
 ## Release Information

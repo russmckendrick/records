@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
 
-![Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson](home-invasion-in-concert-at-the-royal-albert-hall-13391500.jpg)
+{{< img src="home-invasion-in-concert-at-the-royal-albert-hall-13391500.jpg" title="Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson" >}}
 
 <!-- section break -->
 

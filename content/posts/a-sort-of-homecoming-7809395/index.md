@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Acoustic"]
 ---
 
-![A Sort Of Homecoming by Anathema](a-sort-of-homecoming-7809395.jpg)
+{{< img src="a-sort-of-homecoming-7809395.jpg" title="A Sort Of Homecoming by Anathema" >}}
 
 <!-- section break -->
 

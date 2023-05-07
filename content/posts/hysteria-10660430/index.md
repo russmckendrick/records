@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
 
-![Hysteria by Def Leppard](hysteria-10660430.jpg)
+{{< img src="hysteria-10660430.jpg" title="Hysteria by Def Leppard" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,12 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Videos
-### Don't Shoot Shotgun - Def Leppard – Hysteria
-{{< youtube id="LP_pBT-Az0M" title="Don't Shoot Shotgun - Def Leppard – Hysteria" >}}<br>
+### Women - Def Leppard – Hysteria
+{{< youtube id="gGe2SHiSds8" title="Women - Def Leppard – Hysteria" >}}<br>
 
 ### More Videos
 
 - [Def Leppard - Animal](https://www.youtube.com/watch?v=NSH1mOtc9-8)
-- [Women - Def Leppard – Hysteria](https://www.youtube.com/watch?v=gGe2SHiSds8)
 - [Def Leppard - Hysteria (2017 European Vinyl)](https://www.youtube.com/watch?v=nE1Pzpf1YT4)
 - [DEF LEPPARD - Women (Official Music Video)](https://www.youtube.com/watch?v=4HR0P3sIb80)
 - [Rocket - Def Leppard – Hysteria](https://www.youtube.com/watch?v=IBk5iSeGLOU)
@@ -60,6 +59,7 @@ styles: ["Hard Rock", "Arena Rock"]
 - [Def Leppard - Love Bites](https://www.youtube.com/watch?v=W4XiSFyYRE8)
 - [Gods Of War - Def Leppard – Hysteria](https://www.youtube.com/watch?v=lZIQG6OoMb8)
 - [Def Leppard - Rocket](https://www.youtube.com/watch?v=bpcc43NV394)
+- [Don't Shoot Shotgun - Def Leppard – Hysteria](https://www.youtube.com/watch?v=LP_pBT-Az0M)
 - [Def Leppard - Hysteria](https://www.youtube.com/watch?v=PSHHq-76C7c)
 - [Run Riot - Def Leppard – Hysteria](https://www.youtube.com/watch?v=sXRaREKnDjw)
 - [Def Leppard - Rocket](https://www.youtube.com/watch?v=g5qwFmmVHWs)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Progressive Metal", "Heavy Metal"]
 ---
 
-![Purple by Baroness](purple-7859118.jpg)
+{{< img src="purple-7859118.jpg" title="Purple by Baroness" >}}
 
 <!-- section break -->
 

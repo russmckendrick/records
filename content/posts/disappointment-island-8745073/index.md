@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Emo", "Indie Rock"]
 ---
 
-![Disappointment Island by This Town Needs Guns](disappointment-island-8745073.jpg)
+{{< img src="disappointment-island-8745073.jpg" title="Disappointment Island by This Town Needs Guns" >}}
 
 <!-- section break -->
 

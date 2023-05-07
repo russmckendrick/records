@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Art Rock", "Prog Rock", "Fusion"]
 ---
 
-![The Raven That Refused To Sing (And Other Stories) by Steven Wilson](the-raven-that-refused-to-sing-and-other-stories-4327479.jpg)
+{{< img src="the-raven-that-refused-to-sing-and-other-stories-4327479.jpg" title="The Raven That Refused To Sing (And Other Stories) by Steven Wilson" >}}
 
 <!-- section break -->
 

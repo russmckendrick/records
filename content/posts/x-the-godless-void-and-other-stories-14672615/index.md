@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![X: The Godless Void And Other Stories by ...And You Will Know Us By The Trail Of Dead](x-the-godless-void-and-other-stories-14672615.jpg)
+{{< img src="x-the-godless-void-and-other-stories-14672615.jpg" title="X: The Godless Void And Other Stories by ...And You Will Know Us By The Trail Of Dead" >}}
 
 <!-- section break -->
 
@@ -52,15 +52,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### ...And You Will Know Us By the Trail of Dead - Gone
-{{< youtube id="tk_abF9lepo" title="...And You Will Know Us By the Trail of Dead - Gone" >}}<br>
+### ...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)
+{{< youtube id="bbXNaERHIfA" title="...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)" >}}<br>
 
 ### More Videos
 
-- [...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)](https://www.youtube.com/watch?v=bbXNaERHIfA)
 - [...And you will know us by the trails of the dead - X: The Godless Void and Other Stories - 2020](https://www.youtube.com/watch?v=hAuVx4AnojE)
 - [Into The Godless Void (Official video)](https://www.youtube.com/watch?v=qwPvnMdAXyA)
 - [Eyes of the Overworld](https://www.youtube.com/watch?v=KzasmD30QI4)
+- [...And You Will Know Us By the Trail of Dead - Gone](https://www.youtube.com/watch?v=tk_abF9lepo)
 - [All Who Wander](https://www.youtube.com/watch?v=Ct8qSO_0PVo)
 - [Blade of Wind](https://www.youtube.com/watch?v=jzy07GNDUO0)
 

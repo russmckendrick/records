@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
-![The Soft Bulletin by The Flaming Lips](the-soft-bulletin-3416651.jpg)
+{{< img src="the-soft-bulletin-3416651.jpg" title="The Soft Bulletin by The Flaming Lips" >}}
 
 <!-- section break -->
 

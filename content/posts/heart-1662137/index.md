@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Heart by Heart](heart-1662137.jpg)
+{{< img src="heart-1662137.jpg" title="Heart by Heart" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: []
 
 
 ## Videos
-### Heart - Tell It Like It Is - Billboard Top 100 of 1981
-{{< youtube id="X9cDj_OVYLc" title="Heart - Tell It Like It Is - Billboard Top 100 of 1981" >}}<br>
+### I'm Down / Long Tall Sally - Heart
+{{< youtube id="SCTHtO-EZK0" title="I'm Down / Long Tall Sally - Heart" >}}<br>
 
 ### More Videos
 
 - [Barracuda](https://www.youtube.com/watch?v=p6v6wWmEYvY)
 - [Rock and Roll (Live)](https://www.youtube.com/watch?v=U3ozO5pMu6c)
 - [Heart - Even It Up](https://www.youtube.com/watch?v=XLhxF-Un39k)
-- [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
+- [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
 
 
 ## Release Information

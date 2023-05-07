@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Jazz-Rock", "Prog Rock"]
 ---
 
-![In The Land Of Grey And Pink by Caravan](in-the-land-of-grey-and-pink-13767699.jpg)
+{{< img src="in-the-land-of-grey-and-pink-13767699.jpg" title="In The Land Of Grey And Pink by Caravan" >}}
 
 <!-- section break -->
 
@@ -33,14 +33,14 @@ styles: ["Jazz-Rock", "Prog Rock"]
 
 
 ## Videos
-### Golf Girl
-{{< youtube id="hbPfPCz3GRA" title="Golf Girl" >}}<br>
+### In The Land Of Grey & Pink
+{{< youtube id="sTAhkb31khY" title="In The Land Of Grey & Pink" >}}<br>
 
 ### More Videos
 
+- [Golf Girl](https://www.youtube.com/watch?v=hbPfPCz3GRA)
 - [Winter Wine](https://www.youtube.com/watch?v=IlmZt0a6YOQ)
 - [Love To Love You (And Tonight Pigs Will Fly)](https://www.youtube.com/watch?v=JKrdz3Tf9dA)
-- [In The Land Of Grey & Pink](https://www.youtube.com/watch?v=sTAhkb31khY)
 - [Nine Feet Underground (Medley)](https://www.youtube.com/watch?v=_Sls_QCMG2Y)
 
 

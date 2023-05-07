@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![Birmingham Jail And Other Country Favourites by Slim Whitman](birmingham-jail-and-other-country-favourites-2210550.jpg)
+{{< img src="birmingham-jail-and-other-country-favourites-2210550.jpg" title="Birmingham Jail And Other Country Favourites by Slim Whitman" >}}
 
 <!-- section break -->
 

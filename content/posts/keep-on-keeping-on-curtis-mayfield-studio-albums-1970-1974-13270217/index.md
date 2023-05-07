@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
 
-![Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield](keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217.jpg)
+{{< img src="keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217.jpg" title="Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield" >}}
 
 <!-- section break -->
 

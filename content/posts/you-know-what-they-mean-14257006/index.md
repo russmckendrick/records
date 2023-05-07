@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ---
 
-![You Know What They Mean by Bent Knee](you-know-what-they-mean-14257006.jpg)
+{{< img src="you-know-what-they-mean-14257006.jpg" title="You Know What They Mean by Bent Knee" >}}
 
 <!-- section break -->
 
@@ -54,15 +54,15 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 
 
 ## Videos
-### Egg Replacer
-{{< youtube id="RqDd36FtXv4" title="Egg Replacer" >}}<br>
+### Lansing
+{{< youtube id="KT0e1ZwJtU8" title="Lansing" >}}<br>
 
 ### More Videos
 
-- [Lansing](https://www.youtube.com/watch?v=KT0e1ZwJtU8)
 - [BENT KNEE - Bone Rage (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=8W1KaM_C7uA)
 - [Give Us the Gold](https://www.youtube.com/watch?v=Mrhc1GLXmcQ)
 - [BENT KNEE - Hold Me In (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Q63OhjXmjw4)
+- [Egg Replacer](https://www.youtube.com/watch?v=RqDd36FtXv4)
 - [Cradle of Rocks](https://www.youtube.com/watch?v=LjFFTfgwMkI)
 - [Lovell](https://www.youtube.com/watch?v=BlbV45ytPYg)
 - [Lovemenot](https://www.youtube.com/watch?v=Xirz8n3KmmA)

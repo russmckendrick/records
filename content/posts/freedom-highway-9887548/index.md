@@ -14,7 +14,7 @@ genres: ["Jazz", "Blues", "Folk, World, & Country"]
 styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 ---
 
-![Freedom Highway by Rhiannon Giddens](freedom-highway-9887548.jpg)
+{{< img src="freedom-highway-9887548.jpg" title="Freedom Highway by Rhiannon Giddens" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 
 
 ## Videos
-### Rhiannon Giddens - We Could Fly (Official Audio)
-{{< youtube id="5KhzRgqcBBc" title="Rhiannon Giddens - We Could Fly (Official Audio)" >}}<br>
+### Rhiannon Giddens - At The Purchaser's Option
+{{< youtube id="6vy9xTS0QxM" title="Rhiannon Giddens - At The Purchaser's Option" >}}<br>
 
 ### More Videos
 
-- [Rhiannon Giddens - At The Purchaser's Option](https://www.youtube.com/watch?v=6vy9xTS0QxM)
 - [Rhiannon Giddens - The Angels Laid Him Away (Official Audio)](https://www.youtube.com/watch?v=wvG4QC0N3IM)
 - [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
+- [Rhiannon Giddens - We Could Fly (Official Audio)](https://www.youtube.com/watch?v=5KhzRgqcBBc)
 - [Rhiannon Giddens - Hey Bébé](https://www.youtube.com/watch?v=fxjYBfjwnXc)
 - [Rhiannon Giddens - Come Love Come (Official Audio)](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
 - [Rhiannon Giddens - Julie (Official Audio)](https://www.youtube.com/watch?v=zu5ZYXi6EiE)

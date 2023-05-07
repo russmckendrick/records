@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Cure For Pain by Morphine](cure-for-pain-13678278.jpg)
+{{< img src="cure-for-pain-13678278.jpg" title="Cure For Pain by Morphine" >}}
 
 <!-- section break -->
 
@@ -38,16 +38,16 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### A Head with Wings
-{{< youtube id="JDHMQk-6spo" title="A Head with Wings" >}}<br>
+### Buena
+{{< youtube id="Hr11Y1RKYR4" title="Buena" >}}<br>
 
 ### More Videos
 
 - [Dawna](https://www.youtube.com/watch?v=ca2puE1R7a8)
-- [Buena](https://www.youtube.com/watch?v=Hr11Y1RKYR4)
 - [I'm Free Now](https://www.youtube.com/watch?v=hOCMpKC5YQg)
 - [All Wrong](https://www.youtube.com/watch?v=vMptvkimFMQ)
 - [Candy](https://www.youtube.com/watch?v=2ewvn6YBz6E)
+- [A Head with Wings](https://www.youtube.com/watch?v=JDHMQk-6spo)
 - [In Spite of Me](https://www.youtube.com/watch?v=b-nFhh4LaqM)
 - [Thursday](https://www.youtube.com/watch?v=BqAxQeH6Qxg)
 - [Cure for Pain](https://www.youtube.com/watch?v=hK5w0_rqfvE)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ---
 
-![Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds](lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191.jpg)
+{{< img src="lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191.jpg" title="Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds" >}}
 
 <!-- section break -->
 
@@ -46,14 +46,14 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 
 
 ## Videos
-### Lovely Creatures: The Best of Nick Cave & The Bad Seeds 1984-2014
-{{< youtube id="wtaEKCOdvus" title="Lovely Creatures: The Best of Nick Cave & The Bad Seeds 1984-2014" >}}<br>
+### Nick Cave & The Bad Seeds - Tupelo
+{{< youtube id="oSl4KX7zBTQ" title="Nick Cave & The Bad Seeds - Tupelo" >}}<br>
 
 ### More Videos
 
-- [Nick Cave & The Bad Seeds - Tupelo](https://www.youtube.com/watch?v=oSl4KX7zBTQ)
 - [Nick Cave & The Bad Seeds - The Weeping Song (Official Video)](https://www.youtube.com/watch?v=TqhOVY58zIo)
 - [Nick Cave & The Bad Seeds - Deanna](https://www.youtube.com/watch?v=FxORulyOXs8)
+- [Lovely Creatures: The Best of Nick Cave & The Bad Seeds 1984-2014](https://www.youtube.com/watch?v=wtaEKCOdvus)
 - [Nick Cave & The Bad Seeds - Loverman](https://www.youtube.com/watch?v=P51IVqf28Hs)
 
 

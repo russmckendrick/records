@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Psychedelic Rock"]
 ---
 
-![An Introduction To Syd Barrett by Syd Barrett](an-introduction-to-syd-barrett-25396930.jpg)
+{{< img src="an-introduction-to-syd-barrett-25396930.jpg" title="An Introduction To Syd Barrett by Syd Barrett" >}}
 
 <!-- section break -->
 

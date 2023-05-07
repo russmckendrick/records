@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ---
 
-![Sunshine Rock by Bob Mould](sunshine-rock-13162648.jpg)
+{{< img src="sunshine-rock-13162648.jpg" title="Sunshine Rock by Bob Mould" >}}
 
 <!-- section break -->
 

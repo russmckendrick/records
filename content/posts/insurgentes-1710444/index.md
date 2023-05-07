@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 ---
 
-![Insurgentes by Steven Wilson](insurgentes-1710444.jpg)
+{{< img src="insurgentes-1710444.jpg" title="Insurgentes by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,14 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 
 
 ## Videos
-### Steven Wilson - Insurgentes [Full Album +Bonus Tracks]
-{{< youtube id="O0KsSa_JlH8" title="Steven Wilson - Insurgentes [Full Album +Bonus Tracks]" >}}<br>
+### Steven Wilson Insurgentes
+{{< youtube id="h8WglDgOsgA" title="Steven Wilson Insurgentes" >}}<br>
 
 ### More Videos
 
 - [Steven Wilson Harmony Korine HD](https://www.youtube.com/watch?v=BClzBQmZZBc)
+- [Steven Wilson - Insurgentes [Full Album +Bonus Tracks]](https://www.youtube.com/watch?v=O0KsSa_JlH8)
 - [Steven Wilson - Abandoner (from Insurgentes)](https://www.youtube.com/watch?v=JCXMofHD76s)
-- [Steven Wilson Insurgentes](https://www.youtube.com/watch?v=h8WglDgOsgA)
 - [Steven Wilson - Insurgentes (Mexico)](https://www.youtube.com/watch?v=10cWul_wNsc)
 - [Steven Wilson - Insurgentes](https://www.youtube.com/watch?v=krtkPF1OpOU)
 - [Steven Wilson - Insurgentes trailer 2](https://www.youtube.com/watch?v=0KD7_uiVHVw)

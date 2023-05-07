@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: []
 ---
 
-![The Very Best Of John Lee Hooker by John Lee Hooker](the-very-best-of-john-lee-hooker-8578752.jpg)
+{{< img src="the-very-best-of-john-lee-hooker-8578752.jpg" title="The Very Best Of John Lee Hooker by John Lee Hooker" >}}
 
 <!-- section break -->
 

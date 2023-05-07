@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Industrial"]
 ---
 
-![ΚΕΦΑΛΗΞΘ by Ministry](3490956.jpg)
+{{< img src="3490956.jpg" title="ΚΕΦΑΛΗΞΘ by Ministry" >}}
 
 <!-- section break -->
 

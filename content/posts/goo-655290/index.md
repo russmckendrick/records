@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-![Goo by Sonic Youth](goo-655290.jpg)
+{{< img src="goo-655290.jpg" title="Goo by Sonic Youth" >}}
 
 <!-- section break -->
 

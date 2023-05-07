@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
 
-![After The Rain by Nelson](after-the-rain-1841300.jpg)
+{{< img src="after-the-rain-1841300.jpg" title="After The Rain by Nelson" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Hard Rock", "Pop Rock"]
 
 
 ## Videos
-### Nelson – I Can Hardly Wait
-{{< youtube id="Nq4X0R7_FKc" title="Nelson – I Can Hardly Wait" >}}<br>
+### Nelson -  After The Rain Album
+{{< youtube id="KRVHSZB-zpI" title="Nelson -  After The Rain Album" >}}<br>
 
 ### More Videos
 
+- [Nelson – I Can Hardly Wait](https://www.youtube.com/watch?v=Nq4X0R7_FKc)
 - [Nelson - After The Rain](https://www.youtube.com/watch?v=bmywdJby43w)
-- [Nelson -  After The Rain Album](https://www.youtube.com/watch?v=KRVHSZB-zpI)
 - [Nelson – (Can't Live Without Your) Love And Affection](https://www.youtube.com/watch?v=sYo7Pu7XPSU)
 - [Nelson - (Can't Live Without Your) Love And Affection [Official Video]](https://www.youtube.com/watch?v=x1W6-ErrHls)
 

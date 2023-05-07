@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 ---
 
-![The Golden Age Of Apocalypse by Thundercat](the-golden-age-of-apocalypse-3079712.jpg)
+{{< img src="the-golden-age-of-apocalypse-3079712.jpg" title="The Golden Age Of Apocalypse by Thundercat" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,15 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 
 
 ## Videos
-### Daylight
-{{< youtube id="rvyZaAaGgr8" title="Daylight" >}}<br>
+### Return to the Journey
+{{< youtube id="-czZoYtzB9c" title="Return to the Journey" >}}<br>
 
 ### More Videos
 
 - [Mystery Machine (The Golden Age of Apocalypse)](https://www.youtube.com/watch?v=-9DagL4amrY)
 - [Goldenboy](https://www.youtube.com/watch?v=HBcN7kONMW8)
 - [Thundercat - Walkin' (Official Video) HD](https://www.youtube.com/watch?v=8qGigIMM1Vw)
+- [Daylight](https://www.youtube.com/watch?v=rvyZaAaGgr8)
 - [Walkin'](https://www.youtube.com/watch?v=-70T4A2pLWg)
 - [Is It Love?](https://www.youtube.com/watch?v=Y7YSYnjb104)
 - [For Love (I Come Your Friend)](https://www.youtube.com/watch?v=5t8wGiIcFMA)
@@ -56,7 +57,6 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 - [It Really Doesn't Matter to You](https://www.youtube.com/watch?v=VS4L2K-CLUI)
 - [Seasons](https://www.youtube.com/watch?v=_0jVG1zcJSo)
 - [Boat Cruise](https://www.youtube.com/watch?v=O9k-B_46fMg)
-- [Return to the Journey](https://www.youtube.com/watch?v=-czZoYtzB9c)
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
 - [Thundercat- Is It Love?](https://www.youtube.com/watch?v=ijiP-FSjDxU)
 

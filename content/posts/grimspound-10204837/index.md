@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Grimspound by Big Big Train](grimspound-10204837.jpg)
+{{< img src="grimspound-10204837.jpg" title="Grimspound by Big Big Train" >}}
 
 <!-- section break -->
 

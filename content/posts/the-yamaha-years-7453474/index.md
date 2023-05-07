@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Comedy"]
 ---
 
-![The Yamaha Years by John Shuttleworth](the-yamaha-years-7453474.jpg)
+{{< img src="the-yamaha-years-7453474.jpg" title="The Yamaha Years by John Shuttleworth" >}}
 
 <!-- section break -->
 
@@ -55,13 +55,13 @@ styles: ["Synth-pop", "Comedy"]
 
 
 ## Videos
-### John Shuttleworth - Have you seen my Wife
-{{< youtube id="ewRRI4s7CNM" title="John Shuttleworth - Have you seen my Wife" >}}<br>
+### John Shuttleworth Y reg
+{{< youtube id="4LroHr6aOo4" title="John Shuttleworth Y reg" >}}<br>
 
 ### More Videos
 
 - [John Shuttleworth - My Wife Died in 1970 with lyrics](https://www.youtube.com/watch?v=1o2Rb7OTvZw)
-- [John Shuttleworth Y reg](https://www.youtube.com/watch?v=4LroHr6aOo4)
+- [John Shuttleworth - Have you seen my Wife](https://www.youtube.com/watch?v=ewRRI4s7CNM)
 - [Eggs & Gammon.wmv](https://www.youtube.com/watch?v=0a78vNJH2xQ)
 - [John Shuttleworth - The Bee And The Wasp](https://www.youtube.com/watch?v=q54T3lbw1Do)
 - [John Shuttleworth  Shopkeepers in the North](https://www.youtube.com/watch?v=PI7o-FJM8f4)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![How To Replace It by dEUS](how-to-replace-it-26119412.jpg)
+{{< img src="how-to-replace-it-26119412.jpg" title="How To Replace It by dEUS" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-![The Return Of Bruno by Bruce Willis](the-return-of-bruno-743575.jpg)
+{{< img src="the-return-of-bruno-743575.jpg" title="The Return Of Bruno by Bruce Willis" >}}
 
 <!-- section break -->
 
@@ -38,19 +38,19 @@ styles: ["Blues Rock", "Pop Rock"]
 
 
 ## Videos
-### Bruce Willis Respect Yourself (1987)
-{{< youtube id="a3vMKSA0OKc" title="Bruce Willis Respect Yourself (1987)" >}}<br>
+### Under The Boardwalk - Bruce Willis - The Return of Bruno
+{{< youtube id="gH2zJfK0B0Q" title="Under The Boardwalk - Bruce Willis - The Return of Bruno" >}}<br>
 
 ### More Videos
 
 - [Jackpot (Bruno's Bop)](https://www.youtube.com/watch?v=Z2uComF6LuY)
 - [Bruce Willis - Secret Agent Man](https://www.youtube.com/watch?v=3v6pBscvuZI)
 - [Return of Bruno](https://www.youtube.com/watch?v=Z6hJn272wIM)
-- [Under The Boardwalk - Bruce Willis - The Return of Bruno](https://www.youtube.com/watch?v=gH2zJfK0B0Q)
 - [Bruce Willis (The Return of Bruno)](https://www.youtube.com/watch?v=WIciG46xNdg)
 - [Bruce Willis - Down in Hollywood](https://www.youtube.com/watch?v=BY2oWGpNF_s)
 - [(1987) Bruce Willis - The Return of Bruno [Cassette Rip]](https://www.youtube.com/watch?v=YQ1xNdH06r8)
 - [Bruce Willis Respecting Himself - VHS Files 02](https://www.youtube.com/watch?v=ni90iL81wTQ)
+- [Bruce Willis Respect Yourself (1987)](https://www.youtube.com/watch?v=a3vMKSA0OKc)
 
 
 ## Release Information

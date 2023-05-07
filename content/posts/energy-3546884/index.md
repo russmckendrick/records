@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-![Energy by Operation Ivy](energy-3546884.jpg)
+{{< img src="energy-3546884.jpg" title="Energy by Operation Ivy" >}}
 
 <!-- section break -->
 
@@ -44,13 +44,13 @@ styles: ["Ska", "Punk"]
 
 
 ## Videos
-### Room Without a Window (2007 Remaster)
-{{< youtube id="8gW1ha3UsmI" title="Room Without a Window (2007 Remaster)" >}}<br>
+### Bankshot (2007 Remaster)
+{{< youtube id="v3arEYZxrzI" title="Bankshot (2007 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Knowledge (2007 Remaster)](https://www.youtube.com/watch?v=2ItT4f8O93Q)
-- [Bankshot (2007 Remaster)](https://www.youtube.com/watch?v=v3arEYZxrzI)
+- [Room Without a Window (2007 Remaster)](https://www.youtube.com/watch?v=8gW1ha3UsmI)
 
 
 ## Release Information

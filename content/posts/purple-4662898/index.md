@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Purple by Stone Temple Pilots](purple-4662898.jpg)
+{{< img src="purple-4662898.jpg" title="Purple by Stone Temple Pilots" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Stone Temple Pilots - Interstate Love Song (Official Music Video) [HD]
-{{< youtube id="yjJL9DGU7Gg" title="Stone Temple Pilots - Interstate Love Song (Official Music Video) [HD]" >}}<br>
+### Stone Temple Pilots - Vasoline (Official Music Video) [HD]
+{{< youtube id="ht672-wYelc" title="Stone Temple Pilots - Vasoline (Official Music Video) [HD]" >}}<br>
 
 ### More Videos
 
-- [Stone Temple Pilots - Vasoline (Official Music Video) [HD]](https://www.youtube.com/watch?v=ht672-wYelc)
+- [Stone Temple Pilots - Interstate Love Song (Official Music Video) [HD]](https://www.youtube.com/watch?v=yjJL9DGU7Gg)
 
 
 ## Release Information

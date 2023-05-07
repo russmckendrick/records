@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Fingers Of Love by Crowded House](fingers-of-love-726570.jpg)
+{{< img src="fingers-of-love-726570.jpg" title="Fingers Of Love by Crowded House" >}}
 
 <!-- section break -->
 

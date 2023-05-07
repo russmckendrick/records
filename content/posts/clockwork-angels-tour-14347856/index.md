@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Clockwork Angels Tour by Rush](clockwork-angels-tour-14347856.jpg)
+{{< img src="clockwork-angels-tour-14347856.jpg" title="Clockwork Angels Tour by Rush" >}}
 
 <!-- section break -->
 

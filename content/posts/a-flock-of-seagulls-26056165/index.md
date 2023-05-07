@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![A Flock Of Seagulls by A Flock Of Seagulls](a-flock-of-seagulls-26056165.jpg)
+{{< img src="a-flock-of-seagulls-26056165.jpg" title="A Flock Of Seagulls by A Flock Of Seagulls" >}}
 
 <!-- section break -->
 

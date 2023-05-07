@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The Bends by Radiohead](the-bends-1594061.jpg)
+{{< img src="the-bends-1594061.jpg" title="The Bends by Radiohead" >}}
 
 <!-- section break -->
 

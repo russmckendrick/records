@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Villains by Queens Of The Stone Age](villains-10740995.jpg)
+{{< img src="villains-10740995.jpg" title="Villains by Queens Of The Stone Age" >}}
 
 <!-- section break -->
 

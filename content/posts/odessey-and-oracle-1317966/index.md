@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![Odessey And Oracle by The Zombies](odessey-and-oracle-1317966.jpg)
+{{< img src="odessey-and-oracle-1317966.jpg" title="Odessey And Oracle by The Zombies" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### The Zombies - Maybe After He's Gone
-{{< youtube id="0N-FRiu84P8" title="The Zombies - Maybe After He's Gone" >}}<br>
+### The Zombies - 11 - Friends Of Mine (by EarpJohn)
+{{< youtube id="vIJteHQPGr4" title="The Zombies - 11 - Friends Of Mine (by EarpJohn)" >}}<br>
 
 ### More Videos
 
@@ -50,11 +50,11 @@ styles: ["Psychedelic Rock"]
 - [The Zombies - This Will Be Our Year](https://www.youtube.com/watch?v=kI2lTwY0Jx8)
 - [Beechwood Park - The Zombies](https://www.youtube.com/watch?v=ia2-Bu-2LMA)
 - [the zombies a butcher's tale](https://www.youtube.com/watch?v=zMhemzN7sTc)
+- [The Zombies - Maybe After He's Gone](https://www.youtube.com/watch?v=0N-FRiu84P8)
 - [The Zombies - A Rose for Emily](https://www.youtube.com/watch?v=wt2vQkUmpzg)
 - [The Zombies - Brief Candles](https://www.youtube.com/watch?v=vnu8H0x4l60)
 - [The Zombies - Changes](https://www.youtube.com/watch?v=LHYgpenY0D8)
 - [The Zombies   I Want Her She Wants Me](https://www.youtube.com/watch?v=nnTVhidB4z8)
-- [The Zombies - 11 - Friends Of Mine (by EarpJohn)](https://www.youtube.com/watch?v=vIJteHQPGr4)
 - [THE ZOMBIES - TIME OF THE SEASON - Odessey and Oracle (1968) HiDef :: SOTW #55](https://www.youtube.com/watch?v=-Gf7ettG5Y8)
 
 

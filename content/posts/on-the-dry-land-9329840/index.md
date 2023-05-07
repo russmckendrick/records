@@ -14,7 +14,7 @@ genres: ["Rock", "Classical", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
-![On The Dry Land by The Sea Nymphs](on-the-dry-land-9329840.jpg)
+{{< img src="on-the-dry-land-9329840.jpg" title="On The Dry Land by The Sea Nymphs" >}}
 
 <!-- section break -->
 

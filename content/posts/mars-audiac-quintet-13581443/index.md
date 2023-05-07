@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental", "Post Rock"]
 ---
 
-![Mars Audiac Quintet by Stereolab](mars-audiac-quintet-13581443.jpg)
+{{< img src="mars-audiac-quintet-13581443.jpg" title="Mars Audiac Quintet by Stereolab" >}}
 
 <!-- section break -->
 
@@ -57,11 +57,12 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 
 
 ## Videos
-### Des Etoiles Electroniques
-{{< youtube id="ZikC5SMHkPQ" title="Des Etoiles Electroniques" >}}<br>
+### Stereolab - Anamorphose
+{{< youtube id="ksR2AnpgPo0" title="Stereolab - Anamorphose" >}}<br>
 
 ### More Videos
 
+- [Des Etoiles Electroniques](https://www.youtube.com/watch?v=ZikC5SMHkPQ)
 - [Three-Dee Melodie](https://www.youtube.com/watch?v=Hm1wLkRJ30U)
 - [Wow and Flutter](https://www.youtube.com/watch?v=vyxr9D-r3-o)
 - [Transona Five](https://www.youtube.com/watch?v=Dlx3eGq3u_E)
@@ -69,7 +70,6 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 - [L'Enfer Des Formes](https://www.youtube.com/watch?v=A7UD_Fk-VvY)
 - [Ping Pong- Demo](https://www.youtube.com/watch?v=YeCD8Gs8LA0)
 - [Outer Accelerator - (Original Mix)](https://www.youtube.com/watch?v=MKz7tZDfb4I)
-- [Stereolab - Anamorphose](https://www.youtube.com/watch?v=ksR2AnpgPo0)
 
 
 ## Release Information

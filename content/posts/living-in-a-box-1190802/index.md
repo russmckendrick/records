@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Pop"]
 styles: ["New Wave", "Synth-pop", "Soul"]
 ---
 
-![Living In A Box by Living In A Box](living-in-a-box-1190802.jpg)
+{{< img src="living-in-a-box-1190802.jpg" title="Living In A Box by Living In A Box" >}}
 
 <!-- section break -->
 
@@ -38,16 +38,16 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 
 
 ## Videos
-### From Beginning to End
-{{< youtube id="8Dt5WeDyD90" title="From Beginning to End" >}}<br>
+### Superheroes
+{{< youtube id="kx8BE7iY1o8" title="Superheroes" >}}<br>
 
 ### More Videos
 
 - [Living In A Box - Living In A Box (Official Video)](https://www.youtube.com/watch?v=mHzfhU8t5i8)
 - [Love Is the Art](https://www.youtube.com/watch?v=dej7tlxtJH0)
 - [Living in a Box - So the Story Goes (Official Music Video)](https://www.youtube.com/watch?v=voY_sgD0BXc)
+- [From Beginning to End](https://www.youtube.com/watch?v=8Dt5WeDyD90)
 - [Generate the Wave](https://www.youtube.com/watch?v=Rsb9eu1DCZA)
-- [Superheroes](https://www.youtube.com/watch?v=kx8BE7iY1o8)
 - [Living in a Box - Scales of Justice (Official Music Video)](https://www.youtube.com/watch?v=I5YFv6vP0_M)
 - [Going for the Big One](https://www.youtube.com/watch?v=DpbQ7pTQUUk)
 - [Human Story](https://www.youtube.com/watch?v=nEzFYQzIZ7k)

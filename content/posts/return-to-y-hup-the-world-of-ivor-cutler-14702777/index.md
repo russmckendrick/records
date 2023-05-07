@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends](return-to-y-hup-the-world-of-ivor-cutler-14702777.jpg)
+{{< img src="return-to-y-hup-the-world-of-ivor-cutler-14702777.jpg" title="Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends" >}}
 
 <!-- section break -->
 

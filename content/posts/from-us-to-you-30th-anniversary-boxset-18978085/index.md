@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ---
 
-![From Us To You, 30th Anniversary Boxset by EMF](from-us-to-you-30th-anniversary-boxset-18978085.jpg)
+{{< img src="from-us-to-you-30th-anniversary-boxset-18978085.jpg" title="From Us To You, 30th Anniversary Boxset by EMF" >}}
 
 <!-- section break -->
 

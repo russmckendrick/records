@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![Arkansas by Glen Campbell](arkansas-4438611.jpg)
+{{< img src="arkansas-4438611.jpg" title="Arkansas by Glen Campbell" >}}
 
 <!-- section break -->
 

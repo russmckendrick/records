@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ---
 
-![Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything by Mental As Anything](surf-mull-sex-fun-the-classic-recordings-of-mental-as-anything-17667739.jpg)
+{{< img src="surf-mull-sex-fun-the-classic-recordings-of-mental-as-anything-17667739.jpg" title="Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything by Mental As Anything" >}}
 
 <!-- section break -->
 
@@ -51,15 +51,15 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 
 
 ## Videos
-### Mental As Anything - If You Leave Me (popular version, 1981)
-{{< youtube id="tSGtg26-TpU" title="Mental As Anything - If You Leave Me (popular version, 1981)" >}}<br>
+### Mental As Anything - The World Seems Difficult (1989)
+{{< youtube id="j5aFABRQPQQ" title="Mental As Anything - The World Seems Difficult (1989)" >}}<br>
 
 ### More Videos
 
 - [Mental As Anything   Live It Up](https://www.youtube.com/watch?v=kK_eQImKnPA)
 - [MENTAL AS ANYTHING THE NIPS ARE GETTING BIGGER](https://www.youtube.com/watch?v=VVnLJQIJw2Y)
+- [Mental As Anything - If You Leave Me (popular version, 1981)](https://www.youtube.com/watch?v=tSGtg26-TpU)
 - [Mental As Anything - Rock and Roll Music](https://www.youtube.com/watch?v=ZYW5PHqBwgM)
-- [Mental As Anything - The World Seems Difficult (1989)](https://www.youtube.com/watch?v=j5aFABRQPQQ)
 
 
 ## Release Information

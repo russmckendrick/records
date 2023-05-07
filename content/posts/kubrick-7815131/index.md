@@ -14,7 +14,7 @@ genres: ["Electronic", "Classical"]
 styles: ["Downtempo", "Modern Classical"]
 ---
 
-![Kubrick by The Soulsavers](kubrick-7815131.jpg)
+{{< img src="kubrick-7815131.jpg" title="Kubrick by The Soulsavers" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Downtempo", "Modern Classical"]
 
 
 ## Videos
-### Clay
-{{< youtube id="HnvJ-FzFLjM" title="Clay" >}}<br>
+### Soulsavers - DeLarge (album Kubrick)
+{{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>
 
 ### More Videos
 
-- [Soulsavers - DeLarge (album Kubrick)](https://www.youtube.com/watch?v=2KLFnzVZh4o)
+- [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
 
 
 ## Release Information

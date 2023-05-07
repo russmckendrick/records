@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Pyromania by Def Leppard](pyromania-23137115.jpg)
+{{< img src="pyromania-23137115.jpg" title="Pyromania by Def Leppard" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: []
 
 
 ## Videos
-### Def Leppard - Too late For Love (Official Video)
-{{< youtube id="JylbxFYc83k" title="Def Leppard - Too late For Love (Official Video)" >}}<br>
+### DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)
+{{< youtube id="q3sbi86cIRI" title="DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)" >}}<br>
 
 ### More Videos
 
 - [Def Leppard - Photograph](https://www.youtube.com/watch?v=D4dHr8evt6k)
-- [DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)](https://www.youtube.com/watch?v=q3sbi86cIRI)
 - [Def Leppard - Foolin'](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
 - [Def Leppard - Rock Of Ages (Official Music Video) (HD/1080p)](https://www.youtube.com/watch?v=4xHy3ngYfWo)
+- [Def Leppard - Too late For Love (Official Video)](https://www.youtube.com/watch?v=JylbxFYc83k)
 - [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)
 - [Too Late For Love -- Def Leppard .HD +Перевод](https://www.youtube.com/watch?v=F_3qbVA692c)
 

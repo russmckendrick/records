@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
 styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
 
-![Kill Bill Vol. 1 - Original Soundtrack by Various](kill-bill-vol-1-original-soundtrack-7798494.jpg)
+{{< img src="kill-bill-vol-1-original-soundtrack-7798494.jpg" title="Kill Bill Vol. 1 - Original Soundtrack by Various" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 
 
 ## Videos
-### Kill Bill Vol. 1 [OST] #4 - Twisted Nerve
-{{< youtube id="5Q4AUvqfE_g" title="Kill Bill Vol. 1 [OST] #4 - Twisted Nerve" >}}<br>
+### Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)
+{{< youtube id="qe2axAR9GZ4" title="Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 - [5 6 7 8's - woo hoo - (j ross show) - vcd [jeffz].mpg](https://www.youtube.com/watch?v=7DJv0rx5g-c)
 - [Kill Bill - Vol. 1 [Soundtrack]](https://www.youtube.com/watch?v=RMJu05FDO5w)
 - [Kill Bill Vol. 1 [OST] #2 - That Certain Female](https://www.youtube.com/watch?v=EtrkC6mm6b8)
-- [Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)](https://www.youtube.com/watch?v=qe2axAR9GZ4)
+- [Kill Bill Vol. 1 [OST] #4 - Twisted Nerve](https://www.youtube.com/watch?v=5Q4AUvqfE_g)
 - [Kill Bill Vol. 1 [OST] #5 - Queen Of The Crime Council](https://www.youtube.com/watch?v=CLV5wyfPY74)
 - [Kill Bill Vol. 1 [OST] #6 - Ode To Oren Ishii](https://www.youtube.com/watch?v=B_6Yf4NJtYQ)
 - [Kill Bill Vol. 1 [OST] #7 - Run Fay Fun](https://www.youtube.com/watch?v=s8piKgdZd2A)

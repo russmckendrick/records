@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![American Thighs by Veruca Salt](american-thighs-2258972.jpg)
+{{< img src="american-thighs-2258972.jpg" title="American Thighs by Veruca Salt" >}}
 
 <!-- section break -->
 
@@ -40,18 +40,18 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Fly
-{{< youtube id="xkvGsRrNLxk" title="Fly" >}}<br>
+### Spiderman '79
+{{< youtube id="rX3P09KyxXg" title="Spiderman '79" >}}<br>
 
 ### More Videos
 
 - [Get Back](https://www.youtube.com/watch?v=0uyWZEkfXrg)
 - [Veruca Salt - All Hail Me](https://www.youtube.com/watch?v=ogxHkOeUfYM)
 - [Veruca Salt - Seether](https://www.youtube.com/watch?v=4YrK1Rq7AKk)
-- [Spiderman '79](https://www.youtube.com/watch?v=rX3P09KyxXg)
 - [Forsythia](https://www.youtube.com/watch?v=hBglB1efgTM)
 - [Wolf](https://www.youtube.com/watch?v=lwmAtCxIiv4)
 - [Celebrate You](https://www.youtube.com/watch?v=-NCRTidV9gE)
+- [Fly](https://www.youtube.com/watch?v=xkvGsRrNLxk)
 - [Veruca Salt - Number One Blind](https://www.youtube.com/watch?v=tGAfZiERrcs)
 - [Victrola](https://www.youtube.com/watch?v=TxsSAFzfXqE)
 - [Twinstar](https://www.youtube.com/watch?v=cOJYYsjCvoQ)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-![Master Of Reality by Black Sabbath](master-of-reality-8867553.jpg)
+{{< img src="master-of-reality-8867553.jpg" title="Master Of Reality by Black Sabbath" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 
 ## Videos
-### Orchid (2009 - Remaster)
-{{< youtube id="9eHNPWyF_uk" title="Orchid (2009 - Remaster)" >}}<br>
+### Solitude (2009 - Remaster)
+{{< youtube id="lejk2BmBbvk" title="Solitude (2009 - Remaster)" >}}<br>
 
 ### More Videos
 
@@ -45,8 +45,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 - [Black Sabbath - Children Of The Grave/Embryo](https://www.youtube.com/watch?v=X7UZeHvMYZA)
 - [Black Sabbath - Master of Reality (Full Album) [Official Video]](https://www.youtube.com/watch?v=-8rj7dH5at4)
 - [Embryo (2009 - Remaster)](https://www.youtube.com/watch?v=a6Di2JW-0yc)
+- [Orchid (2009 - Remaster)](https://www.youtube.com/watch?v=9eHNPWyF_uk)
 - [Lord of this World (2009 - Remaster)](https://www.youtube.com/watch?v=rCJ95vya8l0)
-- [Solitude (2009 - Remaster)](https://www.youtube.com/watch?v=lejk2BmBbvk)
 - [Into the Void (2009 - Remaster)](https://www.youtube.com/watch?v=-R5XnrZn47Q)
 
 

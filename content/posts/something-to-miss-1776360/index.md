@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Something To Miss by Senseless Things](something-to-miss-1776360.jpg)
+{{< img src="something-to-miss-1776360.jpg" title="Something To Miss by Senseless Things" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 ---
 
-![Last Day Of June  by Steven Wilson](last-day-of-june-21028867.jpg)
+{{< img src="last-day-of-june-21028867.jpg" title="Last Day Of June  by Steven Wilson" >}}
 
 <!-- section break -->
 
@@ -43,13 +43,13 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 
 
 ## Videos
-### Some Things Cannot Be Changed
-{{< youtube id="yxxA4mekUPY" title="Some Things Cannot Be Changed" >}}<br>
+### The Last Day Of June
+{{< youtube id="tWDMTkxppso" title="The Last Day Of June" >}}<br>
 
 ### More Videos
 
-- [The Last Day Of June](https://www.youtube.com/watch?v=tWDMTkxppso)
 - [Steven Wilson - Last Day of June OST Trailer](https://www.youtube.com/watch?v=85_fJISwxQk)
+- [Some Things Cannot Be Changed](https://www.youtube.com/watch?v=yxxA4mekUPY)
 - [Steven Wilson - The Last Day Of June (Last Day Of June Soundtrack)](https://www.youtube.com/watch?v=OcO9SyxCP-4)
 - [Time For A New Start](https://www.youtube.com/watch?v=5wq5dVCJpJA)
 

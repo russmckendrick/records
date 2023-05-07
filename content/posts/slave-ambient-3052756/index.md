@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Slave Ambient by The War On Drugs](slave-ambient-3052756.jpg)
+{{< img src="slave-ambient-3052756.jpg" title="Slave Ambient by The War On Drugs" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The War On Drugs - Baby Missiles  (Official Video)
-{{< youtube id="rMToQg0vSds" title="The War On Drugs - Baby Missiles  (Official Video)" >}}<br>
+### Best Night - The War On Drugs (HQ)
+{{< youtube id="nvOQRlIRxO8" title="Best Night - The War On Drugs (HQ)" >}}<br>
 
 ### More Videos
 
+- [The War On Drugs - Baby Missiles  (Official Video)](https://www.youtube.com/watch?v=rMToQg0vSds)
 - [The War on Drugs - Black Water Falls](https://www.youtube.com/watch?v=EUNSaSkDNKQ)
 - [The War on Drugs — Come to the City (Official Music Video)](https://www.youtube.com/watch?v=FMqWSFNC1jU)
-- [Best Night - The War On Drugs (HQ)](https://www.youtube.com/watch?v=nvOQRlIRxO8)
 - [The War On Drugs - Brothers (Official Video)](https://www.youtube.com/watch?v=TW8Hi_s2K34)
 
 

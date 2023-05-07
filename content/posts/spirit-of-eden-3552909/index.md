@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Abstract", "Post Rock", "Ambient"]
 ---
 
-![Spirit Of Eden by Talk Talk](spirit-of-eden-3552909.jpg)
+{{< img src="spirit-of-eden-3552909.jpg" title="Spirit Of Eden by Talk Talk" >}}
 
 <!-- section break -->
 

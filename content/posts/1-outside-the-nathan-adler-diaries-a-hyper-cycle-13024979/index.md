@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ---
 
-![1. Outside (The Nathan Adler Diaries: A Hyper Cycle) by David Bowie](1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979.jpg)
+{{< img src="1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979.jpg" title="1. Outside (The Nathan Adler Diaries: A Hyper Cycle) by David Bowie" >}}
 
 <!-- section break -->
 

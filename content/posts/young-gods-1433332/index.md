@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![Young Gods by Little Angels](young-gods-1433332.jpg)
+{{< img src="young-gods-1433332.jpg" title="Young Gods by Little Angels" >}}
 
 <!-- section break -->
 

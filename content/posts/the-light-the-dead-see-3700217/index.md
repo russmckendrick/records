@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock", "Gospel"]
 ---
 
-![The Light The Dead See by The Soulsavers](the-light-the-dead-see-3700217.jpg)
+{{< img src="the-light-the-dead-see-3700217.jpg" title="The Light The Dead See by The Soulsavers" >}}
 
 <!-- section break -->
 
@@ -49,8 +49,8 @@ styles: ["Alternative Rock", "Gospel"]
 
 
 ## Videos
-### Soulsavers -  The Longest Day
-{{< youtube id="kO9js-Pym2Q" title="Soulsavers -  The Longest Day" >}}<br>
+### Soulsavers - In the Morning
+{{< youtube id="cUmVS6DkQbI" title="Soulsavers - In the Morning" >}}<br>
 
 ### More Videos
 
@@ -58,7 +58,7 @@ styles: ["Alternative Rock", "Gospel"]
 - [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
 - [Soulsavers - Gone too far](https://www.youtube.com/watch?v=0Tk0EzjoGVU)
 - [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)
-- [Soulsavers - In the Morning](https://www.youtube.com/watch?v=cUmVS6DkQbI)
+- [Soulsavers -  The Longest Day](https://www.youtube.com/watch?v=kO9js-Pym2Q)
 
 
 ## Release Information

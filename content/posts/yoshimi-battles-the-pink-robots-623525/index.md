@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 ---
 
-![Yoshimi Battles The Pink Robots by The Flaming Lips](yoshimi-battles-the-pink-robots-623525.jpg)
+{{< img src="yoshimi-battles-the-pink-robots-623525.jpg" title="Yoshimi Battles The Pink Robots by The Flaming Lips" >}}
 
 <!-- section break -->
 

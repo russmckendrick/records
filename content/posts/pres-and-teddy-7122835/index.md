@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: []
 ---
 
-![Pres And Teddy by The Lester Young-Teddy Wilson Quartet](pres-and-teddy-7122835.jpg)
+{{< img src="pres-and-teddy-7122835.jpg" title="Pres And Teddy by The Lester Young-Teddy Wilson Quartet" >}}
 
 <!-- section break -->
 
@@ -31,18 +31,18 @@ styles: []
 
 
 ## Videos
-### Lester Young - Our Love Is Here to Stay
-{{< youtube id="xWoGC0SFWzo" title="Lester Young - Our Love Is Here to Stay" >}}<br>
+### All Of Me
+{{< youtube id="cH77OyCq7PU" title="All Of Me" >}}<br>
 
 ### More Videos
 
 - [Lester Young & Teddy Wilson.   Pres and Teddy](https://www.youtube.com/watch?v=tDesCGeGLL4)
-- [All Of Me](https://www.youtube.com/watch?v=cH77OyCq7PU)
 - [Prisoner of love - The Lester Young and Teddy Wilson Quartet](https://www.youtube.com/watch?v=i0-gOlp56Ok)
 - [Lester Young & Teddy Wilson Quartet_Louise](https://www.youtube.com/watch?v=NYc_X29JAdM)
 - [The Lester Young / Teddy Wilson Quartet  - Pres Returns](https://www.youtube.com/watch?v=lvBjc-nBBBI)
 - [Lester Young-Teddy Wilson Quartet / Love Me or Leave Me](https://www.youtube.com/watch?v=5GvTHaawtHg)
 - [Prisoner Of Love](https://www.youtube.com/watch?v=yJb-03xp2ZU)
+- [Lester Young - Our Love Is Here to Stay](https://www.youtube.com/watch?v=xWoGC0SFWzo)
 
 
 ## Release Information

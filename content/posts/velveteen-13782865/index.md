@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
 
-![Velveteen by Transvision Vamp](velveteen-13782865.jpg)
+{{< img src="velveteen-13782865.jpg" title="Velveteen by Transvision Vamp" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Rock & Roll"]
 
 
 ## Videos
-### Transvision Vamp - Landslide of Love
-{{< youtube id="eF05qNEc-dI" title="Transvision Vamp - Landslide of Love" >}}<br>
+### Transvision Vamp - Baby I Don't Care (1989)
+{{< youtube id="r26krlXFmOI" title="Transvision Vamp - Baby I Don't Care (1989)" >}}<br>
 
 ### More Videos
 
 - [Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989](https://www.youtube.com/watch?v=q-ccY2xHhY8)
 - [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=yIsESekPHFo)
-- [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=r26krlXFmOI)
+- [Transvision Vamp - Landslide of Love](https://www.youtube.com/watch?v=eF05qNEc-dI)
 - [Transvision Vamp - The Only One (1989)](https://www.youtube.com/watch?v=i3rm5OnuFTw)
 - [Transvision Vamp - I'm hanging out with Halo Jones](https://www.youtube.com/watch?v=FYza-Zspoo4)
 - [Transvision Vamp - Landslide of Love (1989)](https://www.youtube.com/watch?v=H1TBj_bYog8)

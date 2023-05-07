@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, Wo
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
 
-![Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson](intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26064292.jpg)
+{{< img src="intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26064292.jpg" title="Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson" >}}
 
 <!-- section break -->
 

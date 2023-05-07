@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Mary Star Of The Sea by Zwan](mary-star-of-the-sea-892155.jpg)
+{{< img src="mary-star-of-the-sea-892155.jpg" title="Mary Star Of The Sea by Zwan" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Zwan - Lyric (Video Version)
-{{< youtube id="CwmUMySSNQc" title="Zwan - Lyric (Video Version)" >}}<br>
+### Zwan - Honestly (Video)
+{{< youtube id="NLPgz9K4D20" title="Zwan - Honestly (Video)" >}}<br>
 
 ### More Videos
 
 - [Zwan - Mary Star Of The Sea](https://www.youtube.com/watch?v=6cQ66dYE4WY)
-- [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
+- [Zwan - Lyric (Video Version)](https://www.youtube.com/watch?v=CwmUMySSNQc)
 
 
 ## Release Information

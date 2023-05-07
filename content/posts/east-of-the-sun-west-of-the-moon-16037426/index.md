@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ---
 
-![East Of The Sun West Of The Moon  by a-ha](east-of-the-sun-west-of-the-moon-16037426.jpg)
+{{< img src="east-of-the-sun-west-of-the-moon-16037426.jpg" title="East Of The Sun West Of The Moon  by a-ha" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 
 
 ## Videos
-### Slender Frame
-{{< youtube id="y62Np0d4uV0" title="Slender Frame" >}}<br>
+### A-HA - Cold River
+{{< youtube id="hdoeQHzmVsg" title="A-HA - Cold River" >}}<br>
 
 ### More Videos
 
-- [A-HA - Cold River](https://www.youtube.com/watch?v=hdoeQHzmVsg)
 - [East of the Sun](https://www.youtube.com/watch?v=QaleMPKp7ZE)
+- [Slender Frame](https://www.youtube.com/watch?v=y62Np0d4uV0)
 - [a-ha - Crying In The Rain - East Of The Sun West Of The Moon LP 1990](https://www.youtube.com/watch?v=Uo2bFihWfaY)
 
 

@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-![No Time For Dreaming by Charles Bradley](no-time-for-dreaming-2681475.jpg)
+{{< img src="no-time-for-dreaming-2681475.jpg" title="No Time For Dreaming by Charles Bradley" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Charles Bradley - Why Is It So Hard (Live on KEXP)
-{{< youtube id="yBdTVmSVq14" title="Charles Bradley - Why Is It So Hard (Live on KEXP)" >}}<br>
+### Eyes on the Prize (Instrumental)
+{{< youtube id="61lZH-HZqAo" title="Eyes on the Prize (Instrumental)" >}}<br>
 
 ### More Videos
 
@@ -54,9 +54,9 @@ styles: ["Soul", "Rhythm & Blues"]
 - [Lovin' You, Baby (Instrumental)](https://www.youtube.com/watch?v=8fuMl5vqMu4)
 - [Since Our Last Goodbye (Instrumental)](https://www.youtube.com/watch?v=thZr2mmGhdk)
 - [Charles Bradley feat The Sounds Of  Menahan Street Band  - Since our last goodbye](https://www.youtube.com/watch?v=CtZ-2ACChrQ)
-- [Eyes on the Prize (Instrumental)](https://www.youtube.com/watch?v=61lZH-HZqAo)
 - [The Telephone Song (Instrumental)](https://www.youtube.com/watch?v=WG2p4ZcgeH8)
 - [Heart of Gold (Instrumental)](https://www.youtube.com/watch?v=wPXQSjVb2gQ)
+- [Charles Bradley - Why Is It So Hard (Live on KEXP)](https://www.youtube.com/watch?v=yBdTVmSVq14)
 - [Charles Bradley - Revelations (Instrumental)](https://www.youtube.com/watch?v=psXy2qdPxWM)
 - [Slow Love (Instrumental)](https://www.youtube.com/watch?v=ZP920ZDgcjk)
 - [Heart of Gold](https://www.youtube.com/watch?v=kDJPIUibna8)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Bandwagonesque by Teenage Fanclub](bandwagonesque-8667450.jpg)
+{{< img src="bandwagonesque-8667450.jpg" title="Bandwagonesque by Teenage Fanclub" >}}
 
 <!-- section break -->
 

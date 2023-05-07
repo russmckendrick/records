@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 ---
 
-![Pure Comedy by Father John Misty](pure-comedy-10089067.jpg)
+{{< img src="pure-comedy-10089067.jpg" title="Pure Comedy by Father John Misty" >}}
 
 <!-- section break -->
 

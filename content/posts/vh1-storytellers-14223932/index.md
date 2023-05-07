@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock"]
 ---
 
-![VH1 Storytellers by David Bowie](vh1-storytellers-14223932.jpg)
+{{< img src="vh1-storytellers-14223932.jpg" title="VH1 Storytellers by David Bowie" >}}
 
 <!-- section break -->
 

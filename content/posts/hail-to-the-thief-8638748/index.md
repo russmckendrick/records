@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-![Hail To The Thief by Radiohead](hail-to-the-thief-8638748.jpg)
+{{< img src="hail-to-the-thief-8638748.jpg" title="Hail To The Thief by Radiohead" >}}
 
 <!-- section break -->
 

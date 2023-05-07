@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![An Hour Before It's Dark by Marillion](an-hour-before-it-s-dark-22379854.jpg)
+{{< img src="an-hour-before-it-s-dark-22379854.jpg" title="An Hour Before It's Dark by Marillion" >}}
 
 <!-- section break -->
 

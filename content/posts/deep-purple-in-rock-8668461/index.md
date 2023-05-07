@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Deep Purple In Rock by Deep Purple](deep-purple-in-rock-8668461.jpg)
+{{< img src="deep-purple-in-rock-8668461.jpg" title="Deep Purple In Rock by Deep Purple" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Keep The Faith by Bon Jovi](keep-the-faith-9366429.jpg)
+{{< img src="keep-the-faith-9366429.jpg" title="Keep The Faith by Bon Jovi" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Bon Jovi - I'll Sleep When I'm Dead
-{{< youtube id="ts-e0uZfooQ" title="Bon Jovi - I'll Sleep When I'm Dead" >}}<br>
+### In These Arms
+{{< youtube id="LK22vfSmNdI" title="In These Arms" >}}<br>
 
 ### More Videos
 
@@ -49,12 +49,12 @@ styles: ["Hard Rock"]
 - [Bon Jovi - In These Arms](https://www.youtube.com/watch?v=59NoqP02ZYM)
 - [Bon Jovi - Keep The Faith](https://www.youtube.com/watch?v=eZQyVUTcpM4)
 - [I Want You](https://www.youtube.com/watch?v=t_6WvAL5_3E)
+- [Bon Jovi - I'll Sleep When I'm Dead](https://www.youtube.com/watch?v=ts-e0uZfooQ)
 - [Bon Jovi - I Believe](https://www.youtube.com/watch?v=UhqN8-asMgg)
 - [Bon Jovi - If I Was Your Mother](https://www.youtube.com/watch?v=SY5-gPbJQo0)
 - [I Believe](https://www.youtube.com/watch?v=TW4P5AcQFwA)
 - [Bon Jovi - Keep The Faith (LP Version)](https://www.youtube.com/watch?v=Jn9EjX6vOfQ)
 - [Bon Jovi - Dry County](https://www.youtube.com/watch?v=9Ja1aHnj7Wk)
-- [In These Arms](https://www.youtube.com/watch?v=LK22vfSmNdI)
 - [Bed Of Roses](https://www.youtube.com/watch?v=ZYc1jps3JWI)
 - [If I Was Your Mother](https://www.youtube.com/watch?v=IyWLltNX7cI)
 - [Woman In Love](https://www.youtube.com/watch?v=8Mj8PQNqy7U)

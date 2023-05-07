@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Meddle by Pink Floyd](meddle-4137493.jpg)
+{{< img src="meddle-4137493.jpg" title="Meddle by Pink Floyd" >}}
 
 <!-- section break -->
 

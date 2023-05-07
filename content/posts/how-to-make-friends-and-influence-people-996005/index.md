@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![How To Make Friends And Influence People by Terrorvision](how-to-make-friends-and-influence-people-996005.jpg)
+{{< img src="how-to-make-friends-and-influence-people-996005.jpg" title="How To Make Friends And Influence People by Terrorvision" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Time O' the Signs
-{{< youtube id="Y5LS9iSIJv4" title="Time O' the Signs" >}}<br>
+### Pretend Best Friend
+{{< youtube id="oZ4LW_BkO_M" title="Pretend Best Friend" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Pop Rock", "Indie Rock"]
 - [Terrorvision - Oblivion](https://www.youtube.com/watch?v=5RIlRhXXQjg)
 - [Terrorvision – Some People Say](https://www.youtube.com/watch?v=4IuL7EDHPi8)
 - [Middle Man](https://www.youtube.com/watch?v=S0i5RnRj-ZM)
-- [Pretend Best Friend](https://www.youtube.com/watch?v=oZ4LW_BkO_M)
+- [Time O' the Signs](https://www.youtube.com/watch?v=Y5LS9iSIJv4)
 - [What Makes You Tick](https://www.youtube.com/watch?v=Ooxedc1BiPM)
 
 

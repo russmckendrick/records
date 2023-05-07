@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Alternative Rock", "Indie Rock"]
 ---
 
-![Blue Hearts by Bob Mould](blue-hearts-15934028.jpg)
+{{< img src="blue-hearts-15934028.jpg" title="Blue Hearts by Bob Mould" >}}
 
 <!-- section break -->
 

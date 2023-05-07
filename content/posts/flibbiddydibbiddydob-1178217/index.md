@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![Flibbiddydibbiddydob by Snuff](flibbiddydibbiddydob-1178217.jpg)
+{{< img src="flibbiddydibbiddydob-1178217.jpg" title="Flibbiddydibbiddydob by Snuff" >}}
 
 <!-- section break -->
 

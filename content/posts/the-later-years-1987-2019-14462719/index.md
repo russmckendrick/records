@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-![The Later Years 1987-2019 by Pink Floyd](the-later-years-1987-2019-14462719.jpg)
+{{< img src="the-later-years-1987-2019-14462719.jpg" title="The Later Years 1987-2019 by Pink Floyd" >}}
 
 <!-- section break -->
 

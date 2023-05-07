@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Fever Dreams Pts 1-4 by Johnny Marr](fever-dreams-pts-1-4-22287256.jpg)
+{{< img src="fever-dreams-pts-1-4-22287256.jpg" title="Fever Dreams Pts 1-4 by Johnny Marr" >}}
 
 <!-- section break -->
 

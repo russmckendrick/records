@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop"]
 styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", "Indie Rock", "Acid House", "Breaks", "House", "Breakbeat", "Leftfield", "Punk", "Pop Rock", "Folk Rock", "Glam", "Pop Rap"]
 ---
 
-![Cutting Edge 80s (The Alternative Sound Of A Decade) by Various](cutting-edge-80s-the-alternative-sound-of-a-decade-10555246.jpg)
+{{< img src="cutting-edge-80s-the-alternative-sound-of-a-decade-10555246.jpg" title="Cutting Edge 80s (The Alternative Sound Of A Decade) by Various" >}}
 
 <!-- section break -->
 

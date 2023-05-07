@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-![The Small Hours by Matt Berry](the-small-hours-9112372.jpg)
+{{< img src="the-small-hours-9112372.jpg" title="The Small Hours by Matt Berry" >}}
 
 <!-- section break -->
 

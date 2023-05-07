@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-![Ciao! Best Of Lush by Lush](ciao-best-of-lush-7778678.jpg)
+{{< img src="ciao-best-of-lush-7778678.jpg" title="Ciao! Best Of Lush by Lush" >}}
 
 <!-- section break -->
 

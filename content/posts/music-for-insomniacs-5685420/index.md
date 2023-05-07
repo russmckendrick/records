@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Experimental", "Ambient", "Downtempo"]
 ---
 
-![Music For Insomniacs by Matt Berry](music-for-insomniacs-5685420.jpg)
+{{< img src="music-for-insomniacs-5685420.jpg" title="Music For Insomniacs by Matt Berry" >}}
 
 <!-- section break -->
 
@@ -27,12 +27,12 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 
 
 ## Videos
-### Matt Berry - Music For The Insomniac Part II
-{{< youtube id="dUOHKVJzgHc" title="Matt Berry - Music For The Insomniac Part II" >}}<br>
+### Matt Berry - Music For Insomniacs - Part 1
+{{< youtube id="B3QA_GL9XSc" title="Matt Berry - Music For Insomniacs - Part 1" >}}<br>
 
 ### More Videos
 
-- [Matt Berry - Music For Insomniacs - Part 1](https://www.youtube.com/watch?v=B3QA_GL9XSc)
+- [Matt Berry - Music For The Insomniac Part II](https://www.youtube.com/watch?v=dUOHKVJzgHc)
 
 
 ## Release Information

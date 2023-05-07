@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Suburbs by Arcade Fire](the-suburbs-2399813.jpg)
+{{< img src="the-suburbs-2399813.jpg" title="The Suburbs by Arcade Fire" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Wasted Hours (Official Lyric Video)
-{{< youtube id="OI0IKf_VXYk" title="Arcade Fire - Wasted Hours (Official Lyric Video)" >}}<br>
+### Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)
+{{< youtube id="tGVFjGjeyQM" title="Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
@@ -61,8 +61,8 @@ styles: ["Indie Rock"]
 - [Arcade Fire - City with No Children (Official Lyric Video)](https://www.youtube.com/watch?v=MkgcAmT5Io0)
 - [Arcade Fire - Deep Blue (Official Lyric Video)](https://www.youtube.com/watch?v=-lueG-ZACyA)
 - [Arcade Fire - Sprawl I (Flatland) (Official Lyric Video)](https://www.youtube.com/watch?v=OQlpJ-ZgEH4)
+- [Arcade Fire - Wasted Hours (Official Lyric Video)](https://www.youtube.com/watch?v=OI0IKf_VXYk)
 - [Arcade Fire - Month of May (Official Lyric Video)](https://www.youtube.com/watch?v=eNINCykhR3I)
-- [Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)](https://www.youtube.com/watch?v=tGVFjGjeyQM)
 - [Arcade Fire - Half Light I (Official Lyric Video)](https://www.youtube.com/watch?v=qrwCeUqB8CU)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
 
-![The Magpie Salute by The Magpie Salute](the-magpie-salute-10430068.jpg)
+{{< img src="the-magpie-salute-10430068.jpg" title="The Magpie Salute by The Magpie Salute" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### Fearless (Live)
-{{< youtube id="cebO7BRG8IY" title="Fearless (Live)" >}}<br>
+### The Magpie Salute Omission
+{{< youtube id="Zg9FGe5pWFg" title="The Magpie Salute Omission" >}}<br>
 
 ### More Videos
 
 - [The Magpie Salute - Comin' Home](https://www.youtube.com/watch?v=wdCAGlj_jR0)
-- [The Magpie Salute Omission](https://www.youtube.com/watch?v=Zg9FGe5pWFg)
+- [Fearless (Live)](https://www.youtube.com/watch?v=cebO7BRG8IY)
 - [The Magpie Salute - Ain't No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
 - [The Magpie Salute - Wiser Time](https://www.youtube.com/watch?v=5tP_qkbDu5g)
 

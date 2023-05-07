@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Second Nature by Flying Colors](second-nature-6126197.jpg)
+{{< img src="second-nature-6126197.jpg" title="Second Nature by Flying Colors" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
 
-![Slowhand by Eric Clapton](slowhand-732881.jpg)
+{{< img src="slowhand-732881.jpg" title="Slowhand by Eric Clapton" >}}
 
 <!-- section break -->
 

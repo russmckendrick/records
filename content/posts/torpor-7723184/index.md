@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-![Torpor by Baron](torpor-7723184.jpg)
+{{< img src="torpor-7723184.jpg" title="Torpor by Baron" >}}
 
 <!-- section break -->
 
@@ -33,12 +33,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Baron - Mark Maker
-{{< youtube id="BGSwIOP7WZg" title="Baron - Mark Maker" >}}<br>
+### Baron - Stry
+{{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}<br>
 
 ### More Videos
 
-- [Baron - Stry](https://www.youtube.com/watch?v=3sgJCOxKCfg)
+- [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
 
 
 ## Release Information

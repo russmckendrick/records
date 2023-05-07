@@ -14,7 +14,7 @@ genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
 
-![The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna](the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838.jpg)
+{{< img src="the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838.jpg" title="The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Soul", "Funk", "Disco"]
 
 
 ## Videos
-### GENE HARRIS --- AS
-{{< youtube id="b20pX_9F8vI" title="GENE HARRIS --- AS" >}}<br>
+### Ramsey Lewis - Spring High
+{{< youtube id="6rAFUTaCa3k" title="Ramsey Lewis - Spring High" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Soul", "Funk", "Disco"]
 - [Sergio Mendes and Brasil '77 Superstition](https://www.youtube.com/watch?v=heB9Mizn_Bk)
 - [The Main Ingredient - Don't you worry 'bout a thing.wmv](https://www.youtube.com/watch?v=vU6GN9yQZYA)
 - [Carl Anderson - Buttercup](https://www.youtube.com/watch?v=pewJzIZSPQs)
+- [GENE HARRIS --- AS](https://www.youtube.com/watch?v=b20pX_9F8vI)
 - [First Choice - Love Having You Around](https://www.youtube.com/watch?v=so9_Vb5yY4k)
-- [Ramsey Lewis - Spring High](https://www.youtube.com/watch?v=6rAFUTaCa3k)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Electro"]
 ---
 
-![Electro (A Personal Selection Of Electro Classics) by Various](electro-a-personal-selection-of-electro-classics-9836222.jpg)
+{{< img src="electro-a-personal-selection-of-electro-classics-9836222.jpg" title="Electro (A Personal Selection Of Electro Classics) by Various" >}}
 
 <!-- section break -->
 
@@ -33,13 +33,12 @@ styles: ["Electro"]
 
 
 ## Videos
-### The Beat Box Boys - Give Me My Money
-{{< youtube id="KSAOII8kniQ" title="The Beat Box Boys - Give Me My Money" >}}<br>
+### Aleem ft. Leroy Burgess - Release Yourself (DUB)
+{{< youtube id="v6mnQzQ0DgE" title="Aleem ft. Leroy Burgess - Release Yourself (DUB)" >}}<br>
 
 ### More Videos
 
 - [Hashim - Al Naafiysh (The Soul)](https://www.youtube.com/watch?v=i46sF1PcqL8)
-- [Aleem ft. Leroy Burgess - Release Yourself (DUB)](https://www.youtube.com/watch?v=v6mnQzQ0DgE)
 - [Dynamix II - Just give the D.J. a break (12 Club Version)](https://www.youtube.com/watch?v=C7Okvrwtg6k)
 - [High Noon, Pt. 2](https://www.youtube.com/watch?v=EMEVKbIGdHM)
 - [Newcleus Computer Age Push the Button](https://www.youtube.com/watch?v=OJd22xoSTNM)
@@ -53,6 +52,7 @@ styles: ["Electro"]
 - [Grandmaster Flash & The Furious Five- Scorpio (Remastered)](https://www.youtube.com/watch?v=tkXNO3gy7bk)
 - [Imperial Brothers  - We Come To Rock (Club Version) (1984)](https://www.youtube.com/watch?v=bBXfwD2iook)
 - [Divine Sounds - What People Do For Money](https://www.youtube.com/watch?v=qJtKEAQdN3E)
+- [The Beat Box Boys - Give Me My Money](https://www.youtube.com/watch?v=KSAOII8kniQ)
 - [The Packman - I'm the Packman (Eat Everything I Can)](https://www.youtube.com/watch?v=bvfNwrJJPz4)
 - [Kosmic Light Force - Mysterious Waves (Nightbeat Records 1985)](https://www.youtube.com/watch?v=tBwJDoW64p0)
 - [High Fidelity Three - B Boys Breakdance ( Inst.) ( Cutting Records 1984 )](https://www.youtube.com/watch?v=BLnHWdHQp1c)

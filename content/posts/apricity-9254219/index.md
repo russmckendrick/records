@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 ---
 
-![Apricity by Syd Arthur](apricity-9254219.jpg)
+{{< img src="apricity-9254219.jpg" title="Apricity by Syd Arthur" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 
 
 ## Videos
-### Syd Arthur -  Portal
-{{< youtube id="cVTrJpQwL9E" title="Syd Arthur -  Portal" >}}<br>
+### Syd Arthur - No Peace
+{{< youtube id="lmDnL8byUAw" title="Syd Arthur - No Peace" >}}<br>
 
 ### More Videos
 
-- [Syd Arthur - No Peace](https://www.youtube.com/watch?v=lmDnL8byUAw)
 - [Syd Arthur - Apricity](https://www.youtube.com/watch?v=CSs8MrEq3PY)
 - [Syd Arthur - Sun Rays](https://www.youtube.com/watch?v=dP2rdPitZnc)
+- [Syd Arthur -  Portal](https://www.youtube.com/watch?v=cVTrJpQwL9E)
 
 
 ## Release Information

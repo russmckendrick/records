@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Someone Here Is Missing by The Pineapple Thief](someone-here-is-missing-13312163.jpg)
+{{< img src="someone-here-is-missing-13312163.jpg" title="Someone Here Is Missing by The Pineapple Thief" >}}
 
 <!-- section break -->
 

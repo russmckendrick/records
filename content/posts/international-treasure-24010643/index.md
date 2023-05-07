@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
 
-![International Treasure by The Utopia Strong](international-treasure-24010643.jpg)
+{{< img src="international-treasure-24010643.jpg" title="International Treasure by The Utopia Strong" >}}
 
 <!-- section break -->
 
@@ -34,14 +34,14 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 
 ## Videos
-### Trident of Fire
-{{< youtube id="xvIHA2Zek3U" title="Trident of Fire" >}}<br>
+### The Utopia Strong – Castalia
+{{< youtube id="30Zm659bGJM" title="The Utopia Strong – Castalia" >}}<br>
 
 ### More Videos
 
+- [Trident of Fire](https://www.youtube.com/watch?v=xvIHA2Zek3U)
 - [Persephone Sleeps](https://www.youtube.com/watch?v=kwlerJ1u7Vk)
 - [The Utopia Strong – Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
-- [The Utopia Strong – Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
 
 
 ## Release Information

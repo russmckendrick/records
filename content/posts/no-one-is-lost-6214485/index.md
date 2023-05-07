@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
 
-![No One Is Lost by Stars](no-one-is-lost-6214485.jpg)
+{{< img src="no-one-is-lost-6214485.jpg" title="No One Is Lost by Stars" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ---
 
-![The Rolling Stones In Mono by The Rolling Stones](the-rolling-stones-in-mono-9147559.jpg)
+{{< img src="the-rolling-stones-in-mono-9147559.jpg" title="The Rolling Stones In Mono by The Rolling Stones" >}}
 
 <!-- section break -->
 

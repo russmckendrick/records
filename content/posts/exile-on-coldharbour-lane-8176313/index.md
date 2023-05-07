@@ -14,7 +14,7 @@ genres: ["Electronic", "Blues", "Folk, World, & Country"]
 styles: ["Techno", "Acid House"]
 ---
 
-![Exile On Coldharbour Lane by Alabama 3](exile-on-coldharbour-lane-8176313.jpg)
+{{< img src="exile-on-coldharbour-lane-8176313.jpg" title="Exile On Coldharbour Lane by Alabama 3" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Techno", "Acid House"]
 
 
 ## Videos
-### Bourgeoisie Blues
-{{< youtube id="yRiyit9Cfo4" title="Bourgeoisie Blues" >}}<br>
+### The Old Purple Tin (9% Pure Heaven)
+{{< youtube id="TAVhe04F2vw" title="The Old Purple Tin (9% Pure Heaven)" >}}<br>
 
 ### More Videos
 
@@ -49,10 +49,10 @@ styles: ["Techno", "Acid House"]
 - [Speed Of The Sound Of Loneliness](https://www.youtube.com/watch?v=kLfN4G3MFAY)
 - [A3 Woke Up This Morning - with spoken intro](https://www.youtube.com/watch?v=ZbSxVNJqqP4)
 - [U Don't Dans 2 Tekno Anymore](https://www.youtube.com/watch?v=c1_Qz7ILpH0)
+- [Bourgeoisie Blues](https://www.youtube.com/watch?v=yRiyit9Cfo4)
 - [Ain't Goin' To Goa](https://www.youtube.com/watch?v=4PxgcaP3Tdc)
 - [Mao Tse Tung Said - Alabama 3](https://www.youtube.com/watch?v=MWBjwgxEawo)
 - [Hypo Full Of Love (The 12-Step Plan)](https://www.youtube.com/watch?v=LDQGqHlHHGM)
-- [The Old Purple Tin (9% Pure Heaven)](https://www.youtube.com/watch?v=TAVhe04F2vw)
 - [The Night We Nearly Got Busted](https://www.youtube.com/watch?v=iKyiHSGWPc0)
 - [SISTER ROSETTA By Alabama 3](https://www.youtube.com/watch?v=Qqh_685QJQ8)
 - [Alabama 3 - Peace In The Valley (Full Album Version).wmv](https://www.youtube.com/watch?v=5l8CTAZCv7w)

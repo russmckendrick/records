@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Grunge", "Rock & Roll"]
 ---
 
-![Vitalogy by Pearl Jam](vitalogy-8392718.jpg)
+{{< img src="vitalogy-8392718.jpg" title="Vitalogy by Pearl Jam" >}}
 
 <!-- section break -->
 
@@ -46,12 +46,12 @@ styles: ["Grunge", "Rock & Roll"]
 
 
 ## Videos
-### Immortality (Remastered)
-{{< youtube id="pw4VEW3StIw" title="Immortality (Remastered)" >}}<br>
+### Corduroy (Remastered)
+{{< youtube id="FQkgIrfpLw0" title="Corduroy (Remastered)" >}}<br>
 
 ### More Videos
 
-- [Corduroy (Remastered)](https://www.youtube.com/watch?v=FQkgIrfpLw0)
+- [Immortality (Remastered)](https://www.youtube.com/watch?v=pw4VEW3StIw)
 - [Last Exit (Remastered)](https://www.youtube.com/watch?v=YQRyhKmkUUE)
 - [Better Man](https://www.youtube.com/watch?v=27ztFtLKvuQ)
 

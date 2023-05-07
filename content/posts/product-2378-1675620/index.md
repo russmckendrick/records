@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Rock", "Goth Rock"]
 ---
 
-![Product 2378 by Various](product-2378-1675620.jpg)
+{{< img src="product-2378-1675620.jpg" title="Product 2378 by Various" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,13 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 
 
 ## Videos
-### Tower Of Strength (Bombay Edit)
-{{< youtube id="owjzPHBabI4" title="Tower Of Strength (Bombay Edit)" >}}<br>
+### The Jesus And Mary Chain - Head On (Official Music Video)
+{{< youtube id="eGp47YwDZ48" title="The Jesus And Mary Chain - Head On (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [The Wonder Stuff - Who Wants To Be The Disco King?](https://www.youtube.com/watch?v=vWxaxu35rvw)
 - [Vanishing Point (2015 Remaster)](https://www.youtube.com/watch?v=aWuNzXttLVE)
-- [The Jesus And Mary Chain - Head On (Official Music Video)](https://www.youtube.com/watch?v=eGp47YwDZ48)
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
 - [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
 - [Happy Mondays - Mad Cyril](https://www.youtube.com/watch?v=V-8QrkVRf10)
@@ -61,6 +60,7 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 - [Baby Turpentine Remastered](https://www.youtube.com/watch?v=3f7x14AmliU)
 - [Throwing Muses - Dizzy (Official Video)](https://www.youtube.com/watch?v=eGELjc66kFs)
 - [All About Eve - December](https://www.youtube.com/watch?v=mZ15nDrekTU)
+- [Tower Of Strength (Bombay Edit)](https://www.youtube.com/watch?v=owjzPHBabI4)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
 
-![Motown Funk by Various](motown-funk-10167720.jpg)
+{{< img src="motown-funk-10167720.jpg" title="Motown Funk by Various" >}}
 
 <!-- section break -->
 

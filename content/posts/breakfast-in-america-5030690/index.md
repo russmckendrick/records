@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Breakfast In America by Supertramp](breakfast-in-america-5030690.jpg)
+{{< img src="breakfast-in-america-5030690.jpg" title="Breakfast In America by Supertramp" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979
-{{< youtube id="BL3iuizcr0Q" title="S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979" >}}<br>
+### Supertramp - Breakfast In America (Official 4K Video)
+{{< youtube id="aQdoUUi3iJ8" title="Supertramp - Breakfast In America (Official 4K Video)" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Pop Rock"]
 - [Supertramp - Goodbye Stranger (Official Video)](https://www.youtube.com/watch?v=VoMwGjwhl5A)
 - [Supertramp - Breakfast In America (HQ)](https://www.youtube.com/watch?v=3YQb-0P320s)
 - [Supertramp - Take The Long Way Home (BEST QUALITY SOUND)](https://www.youtube.com/watch?v=LPRrHyXchEY)
-- [Supertramp - Breakfast In America (Official 4K Video)](https://www.youtube.com/watch?v=aQdoUUi3iJ8)
+- [S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979](https://www.youtube.com/watch?v=BL3iuizcr0Q)
 - [S͟u͟p͟e͟r͟t͟r͟amp͟ ͟B͟r͟e͟a͟k͟f͟a͟s͟t͟ ͟i͟n͟ ͟A͟m͟e͟r͟i͟ca͟ full album 1979 🇬🇧](https://www.youtube.com/watch?v=Co44YRyPeCI)
 - [Goodbye Stranger (2010 Remastered)](https://www.youtube.com/watch?v=u8pVZ5hTGJQ)
 - [The Logical Song](https://www.youtube.com/watch?v=pP8iUyb9Gn8)

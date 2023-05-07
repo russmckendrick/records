@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ---
 
-![Collected by Cat Stevens](collected-14851665.jpg)
+{{< img src="collected-14851665.jpg" title="Collected by Cat Stevens" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![The Best Of Suede. Beautiful Ones. 1992-2018 by Suede](the-best-of-suede-beautiful-ones-1992-2018-16073517.jpg)
+{{< img src="the-best-of-suede-beautiful-ones-1992-2018-16073517.jpg" title="The Best Of Suede. Beautiful Ones. 1992-2018 by Suede" >}}
 
 <!-- section break -->
 

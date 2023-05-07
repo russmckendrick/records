@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![The Greatest by Ian Brown](the-greatest-1051499.jpg)
+{{< img src="the-greatest-1051499.jpg" title="The Greatest by Ian Brown" >}}
 
 <!-- section break -->
 

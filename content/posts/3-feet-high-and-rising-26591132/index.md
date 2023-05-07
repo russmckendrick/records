@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap"]
 ---
 
-![3 Feet High And Rising by De La Soul](3-feet-high-and-rising-26591132.jpg)
+{{< img src="3-feet-high-and-rising-26591132.jpg" title="3 Feet High And Rising by De La Soul" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![Dixie Blur by Jonathan Wilson](dixie-blur-14876200.jpg)
+{{< img src="dixie-blur-14876200.jpg" title="Dixie Blur by Jonathan Wilson" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: []
 
 
 ## Videos
-### Jonathan Wilson - Platform [Official Audio]
-{{< youtube id="DkWjXVMyv1E" title="Jonathan Wilson - Platform [Official Audio]" >}}<br>
+### So Alive
+{{< youtube id="LrK_prQM5XI" title="So Alive" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,7 @@ styles: []
 - [Jonathan Wilson - Pirate [Official Audio]](https://www.youtube.com/watch?v=PykIR0IxuSo)
 - [Jonathan Wilson - In Heaven Making Love [Official Audio]](https://www.youtube.com/watch?v=TrLx8OsAvfY)
 - [Jonathan Wilson - Fun For The Masses [Official Audio]](https://www.youtube.com/watch?v=SppXH9vI0rc)
-- [So Alive](https://www.youtube.com/watch?v=LrK_prQM5XI)
+- [Jonathan Wilson - Platform [Official Audio]](https://www.youtube.com/watch?v=DkWjXVMyv1E)
 - [Jonathan Wilson - Oh Girl [Official Audio]](https://www.youtube.com/watch?v=dcMpOa6ngFY)
 - [Jonathan Wilson - New Home [Official Audio]](https://www.youtube.com/watch?v=anG9sSb1P7s)
 - [Jonathan Wilson - El Camino Real [Official Audio]](https://www.youtube.com/watch?v=6akW-heVGME)

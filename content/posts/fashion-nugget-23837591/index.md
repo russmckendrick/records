@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Fashion Nugget by Cake](fashion-nugget-23837591.jpg)
+{{< img src="fashion-nugget-23837591.jpg" title="Fashion Nugget by Cake" >}}
 
 <!-- section break -->
 

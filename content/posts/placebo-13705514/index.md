@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Placebo by Placebo](placebo-13705514.jpg)
+{{< img src="placebo-13705514.jpg" title="Placebo by Placebo" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 ---
 
-![Extreme II : Pornograffitti by Extreme](extreme-ii-pornograffitti-10594981.jpg)
+{{< img src="extreme-ii-pornograffitti-10594981.jpg" title="Extreme II : Pornograffitti by Extreme" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### Extreme - More Than Words (Official Music Video)
-{{< youtube id="UrIiLvg58SY" title="Extreme - More Than Words (Official Music Video)" >}}<br>
+### Extreme - Get The Funk Out
+{{< youtube id="IqP76XWHQI0" title="Extreme - Get The Funk Out" >}}<br>
 
 ### More Videos
 
-- [Extreme - Get The Funk Out](https://www.youtube.com/watch?v=IqP76XWHQI0)
+- [Extreme - More Than Words (Official Music Video)](https://www.youtube.com/watch?v=UrIiLvg58SY)
 - [Extreme - Decadence Dance](https://www.youtube.com/watch?v=OoKJpcROgJk)
 
 

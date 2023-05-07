@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-![In Space by Big Star](in-space-14299811.jpg)
+{{< img src="in-space-14299811.jpg" title="In Space by Big Star" >}}
 
 <!-- section break -->
 

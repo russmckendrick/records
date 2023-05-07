@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![The Hipsters by Deacon Blue](the-hipsters-5167648.jpg)
+{{< img src="the-hipsters-5167648.jpg" title="The Hipsters by Deacon Blue" >}}
 
 <!-- section break -->
 

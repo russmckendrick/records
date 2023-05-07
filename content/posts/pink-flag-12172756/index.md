@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "New Wave"]
 ---
 
-![Pink Flag by Wire](pink-flag-12172756.jpg)
+{{< img src="pink-flag-12172756.jpg" title="Pink Flag by Wire" >}}
 
 <!-- section break -->
 
@@ -49,8 +49,8 @@ styles: ["Punk", "New Wave"]
 
 
 ## Videos
-### Feeling Called Love (2006 Remastered Version)
-{{< youtube id="7Arpw8kEjhU" title="Feeling Called Love (2006 Remastered Version)" >}}<br>
+### Pink Flag (2006 Remastered Version)
+{{< youtube id="BgEYF8od2Ck" title="Pink Flag (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
@@ -63,7 +63,6 @@ styles: ["Punk", "New Wave"]
 - [Brazil (2006 Remastered Version)](https://www.youtube.com/watch?v=DrcF_JcTT4Q)
 - [It's So Obvious (2006 Remastered Version)](https://www.youtube.com/watch?v=2JowyQt2Uqk)
 - [Surgeon's Girl (2006 Remastered Version)](https://www.youtube.com/watch?v=0Zl5nFIA1NU)
-- [Pink Flag (2006 Remastered Version)](https://www.youtube.com/watch?v=BgEYF8od2Ck)
 - [The Commercial (2006 Remastered Version)](https://www.youtube.com/watch?v=2eAtwvBPiOA)
 - [Straight Line (2006 Remastered Version)](https://www.youtube.com/watch?v=PVfq405-2i4)
 - [106 Beats That (2006 Remastered Version)](https://www.youtube.com/watch?v=0QCk0f0NjJs)
@@ -73,6 +72,7 @@ styles: ["Punk", "New Wave"]
 - [Mannequin (2006 Remastered Version)](https://www.youtube.com/watch?v=I1ds5KfglWE)
 - [Different to Me (2006 Remastered Version)](https://www.youtube.com/watch?v=tPjoWN0SCb0)
 - [Champs (2006 Remastered Version)](https://www.youtube.com/watch?v=CtCRXhM7bwc)
+- [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)
 - [1 2 X U (2006 Remastered Version)](https://www.youtube.com/watch?v=jOjCSLMZPok)
 
 

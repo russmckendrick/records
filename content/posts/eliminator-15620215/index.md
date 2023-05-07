@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 ---
 
-![Eliminator by ZZ Top](eliminator-15620215.jpg)
+{{< img src="eliminator-15620215.jpg" title="Eliminator by ZZ Top" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,13 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 
 
 ## Videos
-### ZZ Top – Got Me Under Pressure
-{{< youtube id="zkYWrcTtIhs" title="ZZ Top – Got Me Under Pressure" >}}<br>
+### ZZ Top – I Need You Tonight
+{{< youtube id="o-uhRrnYzBg" title="ZZ Top – I Need You Tonight" >}}<br>
 
 ### More Videos
 
 - [Gimme All Your Lovin'](https://www.youtube.com/watch?v=_k1VSeudgxA)
 - [ZZ Top - Gimme All Your Lovin' (Official Music Video)](https://www.youtube.com/watch?v=Ae829mFAGGE)
-- [ZZ Top – I Need You Tonight](https://www.youtube.com/watch?v=o-uhRrnYzBg)
 - [ZZ Top – Gimme All Your Lovin'](https://www.youtube.com/watch?v=In6etvONjAc)
 - [Got Me Under Pressure (2008 Remaster)](https://www.youtube.com/watch?v=qFA2189rkVY)
 - [ZZ Top – Legs](https://www.youtube.com/watch?v=4vsaBJeHZnQ)
@@ -60,6 +59,7 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 - [ZZ Top – Thug](https://www.youtube.com/watch?v=1LdHJWlafG0)
 - [Thug (2008 Remaster)](https://www.youtube.com/watch?v=jhcquu4qPAk)
 - [TV Dinners (2008 Remaster)](https://www.youtube.com/watch?v=x2_HEJqyHfA)
+- [ZZ Top – Got Me Under Pressure](https://www.youtube.com/watch?v=zkYWrcTtIhs)
 - [Dirty Dog (2008 Remaster)](https://www.youtube.com/watch?v=dwpEs81GzZ4)
 - [ZZ Top – Dirty Dog](https://www.youtube.com/watch?v=KR2V4ktRyGY)
 - [ZZ Top – Sharp Dressed Man](https://www.youtube.com/watch?v=_U06Aud-BhE)

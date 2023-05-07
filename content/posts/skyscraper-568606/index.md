@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
 
-![Skyscraper by David Lee Roth](skyscraper-568606.jpg)
+{{< img src="skyscraper-568606.jpg" title="Skyscraper by David Lee Roth" >}}
 
 <!-- section break -->
 
@@ -38,18 +38,18 @@ styles: ["Hard Rock", "Pop Rock"]
 
 
 ## Videos
-### David Lee Roth - Just Like Paradise (Remastered) HQ
-{{< youtube id="Fk3bPOUkht8" title="David Lee Roth - Just Like Paradise (Remastered) HQ" >}}<br>
+### Knucklebones
+{{< youtube id="Ay3H4KLUvDs" title="Knucklebones" >}}<br>
 
 ### More Videos
 
 - [David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p](https://www.youtube.com/watch?v=PUBARAhO9EY)
 - [Just Like Paradise | David Lee Roth | Skyscraper | 1988 Warner Bros LP](https://www.youtube.com/watch?v=RNu8RRro4fY)
-- [Knucklebones](https://www.youtube.com/watch?v=Ay3H4KLUvDs)
 - [David Lee Roth ‎– Skyscraper](https://www.youtube.com/watch?v=geVfpor62bY)
 - [David Lee Roth - California Girls (1985) (Music Video - MTV Version) WIDESCREEN 1080p](https://www.youtube.com/watch?v=-JpM7i0yaz0)
 - [Skyscraper](https://www.youtube.com/watch?v=9_WDMR3r2xk)
 - [David Lee Roth - Stand Up (Skyscraper '88)](https://www.youtube.com/watch?v=4cFl62rIgKg)
+- [David Lee Roth - Just Like Paradise (Remastered) HQ](https://www.youtube.com/watch?v=Fk3bPOUkht8)
 - [David Lee Roth ‎– Knucklebones](https://www.youtube.com/watch?v=cG7mp2zFedE)
 - [David Lee Roth - Just A Gigolo / I Ain't Got Nobody (1985) (Music Video - MTV Version)](https://www.youtube.com/watch?v=BUsWiIN-LfE)
 - [Damn Good](https://www.youtube.com/watch?v=FxhA5GGP7xY)

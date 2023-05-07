@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
 
-![Rare Birds by Jonathan Wilson](rare-birds-11632547.jpg)
+{{< img src="rare-birds-11632547.jpg" title="Rare Birds by Jonathan Wilson" >}}
 
 <!-- section break -->
 
@@ -41,16 +41,16 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Jonathan Wilson - Loving You [Official Music Video]
-{{< youtube id="sBKnvy8cr80" title="Jonathan Wilson - Loving You [Official Music Video]" >}}<br>
+### Jonathan Wilson - Trafalgar Square [Official Music Video]
+{{< youtube id="R2pg8BPQWlc" title="Jonathan Wilson - Trafalgar Square [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [Jonathan Wilson - Trafalgar Square [Official Music Video]](https://www.youtube.com/watch?v=R2pg8BPQWlc)
 - [Jonathan Wilson - Rare Birds [Full Album Stream]](https://www.youtube.com/watch?v=aVwtORXKqoA)
 - [Jonathan Wilson - Me [Official Music Video]](https://www.youtube.com/watch?v=Cswl94NPJhM)
 - [Jonathan Wilson - Miriam Montague [Official Audio]](https://www.youtube.com/watch?v=D18nBRG6hLw)
 - [Jonathan Wilson - Over the Midnight [Official Music Video]](https://www.youtube.com/watch?v=KgD0B0puL_k)
+- [Jonathan Wilson - Loving You [Official Music Video]](https://www.youtube.com/watch?v=sBKnvy8cr80)
 - [Jonathan Wilson ~ Rare Birds LIVE @ The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
 
 

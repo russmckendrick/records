@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
 
-![Hi Infidelity by REO Speedwagon](hi-infidelity-3374002.jpg)
+{{< img src="hi-infidelity-3374002.jpg" title="Hi Infidelity by REO Speedwagon" >}}
 
 <!-- section break -->
 

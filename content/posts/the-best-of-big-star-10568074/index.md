@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-![The Best Of Big Star by Big Star](the-best-of-big-star-10568074.jpg)
+{{< img src="the-best-of-big-star-10568074.jpg" title="The Best Of Big Star by Big Star" >}}
 
 <!-- section break -->
 

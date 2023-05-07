@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The La's by The La's](the-la-s-8909667.jpg)
+{{< img src="the-la-s-8909667.jpg" title="The La's by The La's" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The La's - Timeless Melody (audio only)
-{{< youtube id="Eus8vzjBVaQ" title="The La's - Timeless Melody (audio only)" >}}<br>
+### The La's - There She Goes (audio only)
+{{< youtube id="925i0-TCjrQ" title="The La's - There She Goes (audio only)" >}}<br>
 
 ### More Videos
 
 - [The La's - Son of a Gun (audio only)](https://www.youtube.com/watch?v=Np4mAy-HlmQ)
 - [The La's - I Can't Sleep (audio only)](https://www.youtube.com/watch?v=6LURvVxSZl4)
+- [The La's - Timeless Melody (audio only)](https://www.youtube.com/watch?v=Eus8vzjBVaQ)
 - [The La's - Liberty Ship (audio only)](https://www.youtube.com/watch?v=e4QBcdmn30I)
-- [The La's - There She Goes (audio only)](https://www.youtube.com/watch?v=925i0-TCjrQ)
 - [The La's - Doledrum (audio only)](https://www.youtube.com/watch?v=ZvHpLflwPfc)
 - [The La's - Feelin' (audio only)](https://www.youtube.com/watch?v=1bzxpWob71M)
 - [The La's - Way Out (audio only)](https://www.youtube.com/watch?v=A7PQh0ZgA_U)

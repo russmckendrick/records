@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Laughing On Judgement Day by Thunder](laughing-on-judgement-day-26911130.jpg)
+{{< img src="laughing-on-judgement-day-26911130.jpg" title="Laughing On Judgement Day by Thunder" >}}
 
 <!-- section break -->
 
@@ -42,20 +42,20 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### THUNDER   A Better Man
-{{< youtube id="9zhqaQcd1mA" title="THUNDER   A Better Man" >}}<br>
+### Laughing on Judgement Day
+{{< youtube id="tYc5D9rCoww" title="Laughing on Judgement Day" >}}<br>
 
 ### More Videos
 
 - [Thunder - Laughing On Judgement Day (Full Album)](https://www.youtube.com/watch?v=S-jl07EuBuE)
 - [THUNDER - Xmas Show 2017 - Laughing on Judgement Day](https://www.youtube.com/watch?v=lDcoi5Vla3g)
-- [Laughing on Judgement Day](https://www.youtube.com/watch?v=tYc5D9rCoww)
 - [Thunder - Low Life In High Places OFFICIAL VIDEO (with lyrics)](https://www.youtube.com/watch?v=wCZe70UfjPA)
 - [Thunder - Empty City](https://www.youtube.com/watch?v=cdJIOJTMBYg)
 - [Does It Feel Like Love](https://www.youtube.com/watch?v=oFmkyQq7bQU)
 - [Fire to Ice](https://www.youtube.com/watch?v=FkPjUXquUwk)
 - [Thunder long way from home.wmv](https://www.youtube.com/watch?v=V5qGKCfHZl0)
 - [Thunder - Laughing On Judgement Day](https://www.youtube.com/watch?v=EU3buhICM9c)
+- [THUNDER   A Better Man](https://www.youtube.com/watch?v=9zhqaQcd1mA)
 - [Thunder - Baby I'll Be Gone](https://www.youtube.com/watch?v=KK3ekpyAl9M)
 
 

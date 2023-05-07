@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Blues"]
 styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ---
 
-![We Persuade Ourselves We Are Immortal by Amorphous Androgynous](we-persuade-ourselves-we-are-immortal-16248143.jpg)
+{{< img src="we-persuade-ourselves-we-are-immortal-16248143.jpg" title="We Persuade Ourselves We Are Immortal by Amorphous Androgynous" >}}
 
 <!-- section break -->
 
@@ -31,12 +31,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 
 
 ## Videos
-### The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad
-{{< youtube id="LBpZwZlJzTg" title="The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad" >}}<br>
+### The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal
+{{< youtube id="YUSxUHEt_Cw" title="The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal" >}}<br>
 
 ### More Videos
 
-- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
+- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
 
 

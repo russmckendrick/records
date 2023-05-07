@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Musique Concrète", "Psychedelic Rock", "Avantgarde", "Classical"]
 ---
 
-![Lumpy Gravy by Frank Zappa](lumpy-gravy-9489610.jpg)
+{{< img src="lumpy-gravy-9489610.jpg" title="Lumpy Gravy by Frank Zappa" >}}
 
 <!-- section break -->
 

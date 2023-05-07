@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-![Smart by Sleeper](smart-15425944.jpg)
+{{< img src="smart-15425944.jpg" title="Smart by Sleeper" >}}
 
 <!-- section break -->
 
@@ -48,13 +48,12 @@ styles: ["Britpop"]
 
 
 ## Videos
-### Amuse
-{{< youtube id="kk2JCEUDwQk" title="Amuse" >}}<br>
+### Sleeper - Inbetweener (TOTP)
+{{< youtube id="El-XUjEJ_rU" title="Sleeper - Inbetweener (TOTP)" >}}<br>
 
 ### More Videos
 
 - [Sleeper - Inbetweener](https://www.youtube.com/watch?v=6Vrk-lBoxNA)
-- [Sleeper - Inbetweener (TOTP)](https://www.youtube.com/watch?v=El-XUjEJ_rU)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
 - [Sleeper - 03 Delicious](https://www.youtube.com/watch?v=GW1pRigN4gM)
 - [SLEEPER Vegas](https://www.youtube.com/watch?v=zmkq2_gMUgY)
@@ -64,6 +63,7 @@ styles: ["Britpop"]
 - [Sleeper - Alice In Vain (Live at Glastonbury 1995)](https://www.youtube.com/watch?v=80b7PlTyZEY)
 - [Sleeper - 12 Pyrotechnician](https://www.youtube.com/watch?v=_-pzp-5okOw)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=QYaagkD26YY)
+- [Amuse](https://www.youtube.com/watch?v=kk2JCEUDwQk)
 - [Pyrotechnician](https://www.youtube.com/watch?v=btgY4n4Uwwg)
 - [Vegas](https://www.youtube.com/watch?v=apseuik6hS8)
 - [Sleeper - 06 Bedhead](https://www.youtube.com/watch?v=HvdJoMbQqog)

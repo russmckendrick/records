@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contemporary R&B", "New Jack Swing"]
 ---
 
-![Raw Like Sushi by Neneh Cherry](raw-like-sushi-14721225.jpg)
+{{< img src="raw-like-sushi-14721225.jpg" title="Raw Like Sushi by Neneh Cherry" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 
 
 ## Videos
-### Kisses On The Wind (Dynamic Duo + Latin Rascals Mix)
-{{< youtube id="zWSU6oZEiSQ" title="Kisses On The Wind (Dynamic Duo + Latin Rascals Mix)" >}}<br>
+### Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)
+{{< youtube id="nwTzTY_53lI" title="Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)" >}}<br>
 
 ### More Videos
 
@@ -78,7 +78,7 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 - [Manchild (Smith 'N' Mighty More Bass / Less Vocal Style)](https://www.youtube.com/watch?v=6ZVgsrd_d_0)
 - [Inna City Mamma (Cold Blooded Remix)](https://www.youtube.com/watch?v=VejI0_xY6pE)
 - [Kisses On The Wind (12” Spanish Mix)](https://www.youtube.com/watch?v=QPnQSm_pFaw)
-- [Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)](https://www.youtube.com/watch?v=nwTzTY_53lI)
+- [Kisses On The Wind (Dynamic Duo + Latin Rascals Mix)](https://www.youtube.com/watch?v=zWSU6oZEiSQ)
 - [The Next Generation (The Rap One Mix)](https://www.youtube.com/watch?v=9NvyT-tDrcs)
 - [The Next Generation (Sub-Woofer Mix)](https://www.youtube.com/watch?v=1fagkxqDRm4)
 - [Neneh Cherry - Heart (Club Mix / Audio)](https://www.youtube.com/watch?v=fbUXFN9wT8I)

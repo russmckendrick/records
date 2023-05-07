@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![House Of Blues - Los Angeles 2003 by Porcupine Tree](house-of-blues-los-angeles-2003-19649257.jpg)
+{{< img src="house-of-blues-los-angeles-2003-19649257.jpg" title="House Of Blues - Los Angeles 2003 by Porcupine Tree" >}}
 
 <!-- section break -->
 

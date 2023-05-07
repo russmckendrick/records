@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae"]
 styles: ["Dub"]
 ---
 
-![Sublime Meets Scientist & Mad Professor Inna L.B.C. by Sublime](sublime-meets-scientist-mad-professor-inna-l-b-c-19113523.jpg)
+{{< img src="sublime-meets-scientist-mad-professor-inna-l-b-c-19113523.jpg" title="Sublime Meets Scientist & Mad Professor Inna L.B.C. by Sublime" >}}
 
 <!-- section break -->
 
@@ -33,8 +33,8 @@ styles: ["Dub"]
 
 
 ## Videos
-### Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)
-{{< youtube id="fAGSE9ddZV4" title="Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)" >}}<br>
+### Sublime - Hong Kong Phooey Dub (Mad Professor Mix)
+{{< youtube id="guHlxH4Em-A" title="Sublime - Hong Kong Phooey Dub (Mad Professor Mix)" >}}<br>
 
 ### More Videos
 
@@ -42,7 +42,7 @@ styles: ["Dub"]
 - [Sublime~meets Scientists & Mad Professor~Dub Remixes RSD2021](https://www.youtube.com/watch?v=Vbjax__IcEw)
 - [Sublime - Garden Grove Vocal Dub (Scientist Mix)](https://www.youtube.com/watch?v=vhm6uKeUHHM)
 - [Sublime - Pawn Shop Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=K6mzegiKD2c)
-- [Sublime - Hong Kong Phooey Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=guHlxH4Em-A)
+- [Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=fAGSE9ddZV4)
 - [Sublime - Santeria Dub (Scientist Mix)](https://www.youtube.com/watch?v=5vr7Te-AJfI)
 
 

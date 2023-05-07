@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Tin Machine II by Tin Machine](tin-machine-ii-15628321.jpg)
+{{< img src="tin-machine-ii-15628321.jpg" title="Tin Machine II by Tin Machine" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Tin Machine - Baby Universal (music video version)
-{{< youtube id="E7q3FDDmqmA" title="Tin Machine - Baby Universal (music video version)" >}}<br>
+### Tin machine you belong in Rock n Roll
+{{< youtube id="Ok5A8VoOMis" title="Tin machine you belong in Rock n Roll" >}}<br>
 
 ### More Videos
 
 - [Tin Machine - If There Is Something](https://www.youtube.com/watch?v=c7QYO-1IQ3I)
 - [David Bowie & Tin Machine - Amlapura](https://www.youtube.com/watch?v=2qCXUldOf1s)
-- [Tin machine you belong in Rock n Roll](https://www.youtube.com/watch?v=Ok5A8VoOMis)
+- [Tin Machine - Baby Universal (music video version)](https://www.youtube.com/watch?v=E7q3FDDmqmA)
 - [Tin Machine - One Shot](https://www.youtube.com/watch?v=esu90pt3aTo)
 
 

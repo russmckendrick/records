@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Experimental"]
 ---
 
-![Ommadawn by Mike Oldfield](ommadawn-6644110.jpg)
+{{< img src="ommadawn-6644110.jpg" title="Ommadawn by Mike Oldfield" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![The Rick And Morty Soundtrack by Various](the-rick-and-morty-soundtrack-12575433.jpg)
+{{< img src="the-rick-and-morty-soundtrack-12575433.jpg" title="The Rick And Morty Soundtrack by Various" >}}
 
 <!-- section break -->
 
@@ -51,8 +51,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Rick and Morty - Get Schwifty (C-131)
-{{< youtube id="-oCcvgdSrJ0" title="Rick and Morty - Get Schwifty (C-131)" >}}<br>
+### Rick and Morty - Goodbye Moonmen
+{{< youtube id="l1_cDipA620" title="Rick and Morty - Goodbye Moonmen" >}}<br>
 
 ### More Videos
 
@@ -60,7 +60,7 @@ styles: ["Soundtrack"]
 - [Rick and Morty - Full Official Soundtrack](https://www.youtube.com/watch?v=agDkuOaCb6E)
 - [Rick & Morty Vinyl Box Set Unboxing Sub Pop Adult Swim 2LP Colored Vinyl LED + 7 Single Dan Harmon](https://www.youtube.com/watch?v=rEFN2fQaR7A)
 - [Summer & Tinkles Song | Rick and Morty | Adult Swim](https://www.youtube.com/watch?v=DNUFRIkaFzw)
-- [Rick and Morty - Goodbye Moonmen](https://www.youtube.com/watch?v=l1_cDipA620)
+- [Rick and Morty - Get Schwifty (C-131)](https://www.youtube.com/watch?v=-oCcvgdSrJ0)
 - [Rick and Morty | clipping. “Stab Him in The Throat”](https://www.youtube.com/watch?v=Cjvc6b6nMro)
 - [Rick and Morty | Chad VanGaalen Stuttering Light | Adult Swim](https://www.youtube.com/watch?v=AWOjTgNIetk)
 - [Rick and Morty Score Medley](https://www.youtube.com/watch?v=v6Zvk9H_D-o)

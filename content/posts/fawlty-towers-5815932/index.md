@@ -14,7 +14,7 @@ genres: ["Non-Music", "Stage & Screen"]
 styles: ["Comedy", "Soundtrack"]
 ---
 
-![Fawlty Towers by John Cleese](fawlty-towers-5815932.jpg)
+{{< img src="fawlty-towers-5815932.jpg" title="Fawlty Towers by John Cleese" >}}
 
 <!-- section break -->
 

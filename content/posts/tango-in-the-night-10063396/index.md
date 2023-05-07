@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Tango In The Night by Fleetwood Mac](tango-in-the-night-10063396.jpg)
+{{< img src="tango-in-the-night-10063396.jpg" title="Tango In The Night by Fleetwood Mac" >}}
 
 <!-- section break -->
 

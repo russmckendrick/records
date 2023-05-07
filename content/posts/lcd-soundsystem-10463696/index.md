@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro"]
 ---
 
-![LCD Soundsystem by LCD Soundsystem](lcd-soundsystem-10463696.jpg)
+{{< img src="lcd-soundsystem-10463696.jpg" title="LCD Soundsystem by LCD Soundsystem" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,13 @@ styles: ["Alternative Rock", "Electro"]
 
 
 ## Videos
-### Daft Punk Is Playing at My House
-{{< youtube id="c7eCpUG9r5U" title="Daft Punk Is Playing at My House" >}}<br>
+### Losing My Edge
+{{< youtube id="nqww88x584U" title="Losing My Edge" >}}<br>
 
 ### More Videos
 
 - [LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)](https://www.youtube.com/watch?v=Cj8JrQ9w5jY)
+- [Daft Punk Is Playing at My House](https://www.youtube.com/watch?v=c7eCpUG9r5U)
 - [Too Much Love](https://www.youtube.com/watch?v=CcEC5r0xzt8)
 - [Tribulations](https://www.youtube.com/watch?v=G6aNYV8B5wc)
 - [Movement](https://www.youtube.com/watch?v=2vHUEGI3_no)
@@ -52,7 +53,6 @@ styles: ["Alternative Rock", "Electro"]
 - [Disco Infiltrator](https://www.youtube.com/watch?v=s7CBdX0_A3g)
 - [Great Release](https://www.youtube.com/watch?v=NFy1VJFDrZ4)
 - [Yr City's a Sucker](https://www.youtube.com/watch?v=q_wroK6bY7Y)
-- [Losing My Edge](https://www.youtube.com/watch?v=nqww88x584U)
 - [Beat Connection](https://www.youtube.com/watch?v=xwVFktBrS-E)
 - [Give It Up](https://www.youtube.com/watch?v=th2IQgi5d-Y)
 - [Tired](https://www.youtube.com/watch?v=uIzBOTXASgw)

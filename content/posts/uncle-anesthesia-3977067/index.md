@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Uncle Anesthesia by Screaming Trees](uncle-anesthesia-3977067.jpg)
+{{< img src="uncle-anesthesia-3977067.jpg" title="Uncle Anesthesia by Screaming Trees" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### screaming trees - alice said | uncle anesthesia
-{{< youtube id="AIKtlU5_U04" title="screaming trees - alice said | uncle anesthesia" >}}<br>
+### Story Of Her Fate
+{{< youtube id="_LtDCEE8fro" title="Story Of Her Fate" >}}<br>
 
 ### More Videos
 
-- [Story Of Her Fate](https://www.youtube.com/watch?v=_LtDCEE8fro)
 - [Screaming Trees - Bed Of Roses](https://www.youtube.com/watch?v=GAmZsfFKCxU)
 - [Caught Between](https://www.youtube.com/watch?v=u_RQHzc2qkw)
+- [screaming trees - alice said | uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
 - [Lay Your Head Down](https://www.youtube.com/watch?v=gdmjCJbb0as)
 - [Alice Said](https://www.youtube.com/watch?v=wJcTyOF02UA)
 - [Time For Light](https://www.youtube.com/watch?v=VCg4E1I0YkM)

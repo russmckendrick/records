@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-![I Just Can't Stop It by The Beat](i-just-can-t-stop-it-3723205.jpg)
+{{< img src="i-just-can-t-stop-it-3723205.jpg" title="I Just Can't Stop It by The Beat" >}}
 
 <!-- section break -->
 
@@ -39,20 +39,20 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Beat - Mirror In The Bathroom - 1980
-{{< youtube id="dgMQco_0T-E" title="The Beat - Mirror In The Bathroom - 1980" >}}<br>
+### The English Beat - Two Swords - I Just Can't Stop It [1980]
+{{< youtube id="YRYwncfYzrQ" title="The English Beat - Two Swords - I Just Can't Stop It [1980]" >}}<br>
 
 ### More Videos
 
 - [The English Beat - Twist And Crawl](https://www.youtube.com/watch?v=Bch9DuV0Y8o)
 - [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
+- [The Beat - Mirror In The Bathroom - 1980](https://www.youtube.com/watch?v=dgMQco_0T-E)
 - [Can't get used to losing you](https://www.youtube.com/watch?v=qErykBldZCs)
 - [The Beat - Hands Off She's Mine](https://www.youtube.com/watch?v=BR4HiPHRbrs)
 - [THE BEAT - (THE COMPLETE I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=I58tsdmA5Co)
 - [THE BEAT - TWIST & CRAWL (EXTENDED VERSION)](https://www.youtube.com/watch?v=eteCTeZpSmU)
 - [English Beat - rough rider](https://www.youtube.com/watch?v=KDJFEJsHhrs)
 - [Twist & Crawl](https://www.youtube.com/watch?v=bgCPeW_ZglM)
-- [The English Beat - Two Swords - I Just Can't Stop It [1980]](https://www.youtube.com/watch?v=YRYwncfYzrQ)
 
 
 ## Release Information

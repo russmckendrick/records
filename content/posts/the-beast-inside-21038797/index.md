@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![The Beast Inside by Inspiral Carpets](the-beast-inside-21038797.jpg)
+{{< img src="the-beast-inside-21038797.jpg" title="The Beast Inside by Inspiral Carpets" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Further Away
-{{< youtube id="XdODbhPsHLQ" title="Further Away" >}}<br>
+### Mermaid
+{{< youtube id="8Kb4XFg_xCE" title="Mermaid" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Indie Pop"]
 - [Grip](https://www.youtube.com/watch?v=aycEFuxsej4)
 - [Beast Inside](https://www.youtube.com/watch?v=Lp5bfZ17cR8)
 - [Niagara](https://www.youtube.com/watch?v=on17iGSV7GI)
-- [Mermaid](https://www.youtube.com/watch?v=8Kb4XFg_xCE)
+- [Further Away](https://www.youtube.com/watch?v=XdODbhPsHLQ)
 - [Dreams Are All We Have](https://www.youtube.com/watch?v=ZuEIxhrGYUY)
 
 

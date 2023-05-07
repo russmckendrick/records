@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Bridge Of Spies by T'Pau](bridge-of-spies-423522.jpg)
+{{< img src="bridge-of-spies-423522.jpg" title="Bridge Of Spies by T'Pau" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### T'Pau: Bridge Of Spies (UK, 1988)
-{{< youtube id="1HuYW2l4n9Q" title="T'Pau: Bridge Of Spies (UK, 1988)" >}}<br>
+### T'pau - Bridge Of Spies (Live QEF 3 of 7)
+{{< youtube id="7zRQUnmDQQ8" title="T'pau - Bridge Of Spies (Live QEF 3 of 7)" >}}<br>
 
 ### More Videos
 
@@ -46,9 +46,9 @@ styles: ["Pop Rock"]
 - [China in your hand - T'pau](https://www.youtube.com/watch?v=wfvJS4UO7xI)
 - [T'Pau - Bridge Of Spies](https://www.youtube.com/watch?v=06e3N7VBVZM)
 - [T'pau - Bridge Of Spies](https://www.youtube.com/watch?v=5EARm7TkZj8)
+- [T'Pau: Bridge Of Spies (UK, 1988)](https://www.youtube.com/watch?v=1HuYW2l4n9Q)
 - [T'pau - Bridge Of Spies (Single Version)](https://www.youtube.com/watch?v=6xoOHfhUTuI)
 - [T'Pau - Bridge Of Spies (US Version)](https://www.youtube.com/watch?v=j4dpC6owCME)
-- [T'pau - Bridge Of Spies (Live QEF 3 of 7)](https://www.youtube.com/watch?v=7zRQUnmDQQ8)
 - [T'Pau - Bridge Of Spies Live 2013 Tour Bishops Stortford](https://www.youtube.com/watch?v=017sZD6JZT8)
 - [T'pau Bridge Of Spies](https://www.youtube.com/watch?v=bruw9QIq6rQ)
 - [T'Pau 10 Bridge Of Spies](https://www.youtube.com/watch?v=6bv9-W0E_Pc)

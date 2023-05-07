@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ---
 
-![Acoustic Hits by The Cure](acoustic-hits-10505690.jpg)
+{{< img src="acoustic-hits-10505690.jpg" title="Acoustic Hits by The Cure" >}}
 
 <!-- section break -->
 

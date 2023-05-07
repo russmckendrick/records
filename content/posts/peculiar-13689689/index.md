@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Reggae", "Ska"]
 ---
 
-![Peculiar by The Slackers](peculiar-13689689.jpg)
+{{< img src="peculiar-13689689.jpg" title="Peculiar by The Slackers" >}}
 
 <!-- section break -->
 

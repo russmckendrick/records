@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Prog Rock"]
 ---
 
-![Stormwatch by Jethro Tull](stormwatch-14968787.jpg)
+{{< img src="stormwatch-14968787.jpg" title="Stormwatch by Jethro Tull" >}}
 
 <!-- section break -->
 

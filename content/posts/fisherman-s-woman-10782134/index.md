@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
 
-![Fisherman's Woman by Emiliana Torrini](fisherman-s-woman-10782134.jpg)
+{{< img src="fisherman-s-woman-10782134.jpg" title="Fisherman's Woman by Emiliana Torrini" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Folk Rock", "Acoustic"]
 
 
 ## Videos
-### Emiliana Torrini - Heartstopper
-{{< youtube id="Bt_Mdm-Ew94" title="Emiliana Torrini - Heartstopper" >}}<br>
+### Emiliana Torrini - Today Has Been OK
+{{< youtube id="-k0Uxn-TU_0" title="Emiliana Torrini - Today Has Been OK" >}}<br>
 
 ### More Videos
 
@@ -53,9 +53,9 @@ styles: ["Folk Rock", "Acoustic"]
 - [Emiliana Torrini - Lifesaver](https://www.youtube.com/watch?v=A2R0Rwqqlzk)
 - [Emiliana Torrini-Lifesaver (FAMU)](https://www.youtube.com/watch?v=K_ebeNtn_0c)
 - [Emiliana Torrini - Honeymoon Child](https://www.youtube.com/watch?v=1sMKw_8Spwo)
-- [Emiliana Torrini - Today Has Been OK](https://www.youtube.com/watch?v=-k0Uxn-TU_0)
 - [Emiliana Torrini - Fisherman's Woman - Today Has Been Ok](https://www.youtube.com/watch?v=CQ0-abF1StE)
 - [Emiliana Torrini - Next Time Around](https://www.youtube.com/watch?v=WMburqgnork)
+- [Emiliana Torrini - Heartstopper](https://www.youtube.com/watch?v=Bt_Mdm-Ew94)
 - [Emiliana Torrini - Heartstopper - HD](https://www.youtube.com/watch?v=CDX_u8ggEvA)
 - [Emiliana Torrini - At Least It Was](https://www.youtube.com/watch?v=VdtQZ2YWZ0s)
 - [Emiliana Torrini - At Least It Was](https://www.youtube.com/watch?v=MT-EMAXFhhA)

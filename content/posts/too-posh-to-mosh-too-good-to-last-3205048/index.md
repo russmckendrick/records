@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-![Too Posh To Mosh, Too Good To Last! by Little Angels](too-posh-to-mosh-too-good-to-last-3205048.jpg)
+{{< img src="too-posh-to-mosh-too-good-to-last-3205048.jpg" title="Too Posh To Mosh, Too Good To Last! by Little Angels" >}}
 
 <!-- section break -->
 

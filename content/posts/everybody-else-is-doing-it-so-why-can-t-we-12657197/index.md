@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Everybody Else Is Doing It, So Why Can't We? by The Cranberries](everybody-else-is-doing-it-so-why-can-t-we-12657197.jpg)
+{{< img src="everybody-else-is-doing-it-so-why-can-t-we-12657197.jpg" title="Everybody Else Is Doing It, So Why Can't We? by The Cranberries" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### How
-{{< youtube id="BcIXBVMAQaU" title="How" >}}<br>
+### I Still Do
+{{< youtube id="vovVgQ2BsTo" title="I Still Do" >}}<br>
 
 ### More Videos
 
 - [The Cranberries - Dreams](https://www.youtube.com/watch?v=Yam5uK6e-bQ)
 - [Sunday](https://www.youtube.com/watch?v=lPfa7h5wXQE)
-- [I Still Do](https://www.youtube.com/watch?v=vovVgQ2BsTo)
 - [What You Were](https://www.youtube.com/watch?v=sVRmMYcOe6M)
 - [The Cranberries - Linger](https://www.youtube.com/watch?v=G6Kspj3OO0s)
 - [Linger](https://www.youtube.com/watch?v=QzQIWKHglPs)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock"]
 - [Pretty](https://www.youtube.com/watch?v=YC4bFpy7Y0I)
 - [Nothing Left At All](https://www.youtube.com/watch?v=KjlXjypW6bI)
 - [Liar](https://www.youtube.com/watch?v=_xZ74POZWe8)
+- [How](https://www.youtube.com/watch?v=BcIXBVMAQaU)
 
 
 ## Release Information

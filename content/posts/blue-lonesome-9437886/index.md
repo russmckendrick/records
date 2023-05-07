@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Chicago Blues"]
 ---
 
-![Blue & Lonesome by The Rolling Stones](blue-lonesome-9437886.jpg)
+{{< img src="blue-lonesome-9437886.jpg" title="Blue & Lonesome by The Rolling Stones" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Electric Blues", "Chicago Blues"]
 
 
 ## Videos
-### The Rolling Stones - Ride 'Em On Down
-{{< youtube id="qEuV82GqQnE" title="The Rolling Stones - Ride 'Em On Down" >}}<br>
+### The Rolling Stones - Hate To See You Go
+{{< youtube id="lrIjMzBr-ck" title="The Rolling Stones - Hate To See You Go" >}}<br>
 
 ### More Videos
 
-- [The Rolling Stones - Hate To See You Go](https://www.youtube.com/watch?v=lrIjMzBr-ck)
 - [Blue And Lonesome](https://www.youtube.com/watch?v=iDCKiJkHAQ4)
+- [The Rolling Stones - Ride 'Em On Down](https://www.youtube.com/watch?v=qEuV82GqQnE)
 - [Little Rain - The Rolling Stones ( Blue and Lonesome) 2016](https://www.youtube.com/watch?v=deut9JCpCME)
 - [Commit A Crime](https://www.youtube.com/watch?v=f0sHUyYIyuY)
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Between 10th And 11th / Isolation 21.2.91 by The Charlatans](between-10th-and-11th-isolation-21-2-91-15553282.jpg)
+{{< img src="between-10th-and-11th-isolation-21-2-91-15553282.jpg" title="Between 10th And 11th / Isolation 21.2.91 by The Charlatans" >}}
 
 <!-- section break -->
 

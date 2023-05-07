@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
-![Smash Hits by The Jimi Hendrix Experience](smash-hits-8394977.jpg)
+{{< img src="smash-hits-8394977.jpg" title="Smash Hits by The Jimi Hendrix Experience" >}}
 
 <!-- section break -->
 

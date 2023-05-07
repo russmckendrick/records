@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![The Party's Over by Talk Talk](the-party-s-over-836162.jpg)
+{{< img src="the-party-s-over-836162.jpg" title="The Party's Over by Talk Talk" >}}
 
 <!-- section break -->
 

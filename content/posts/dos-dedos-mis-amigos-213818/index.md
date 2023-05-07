@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Indie Rock", "Experimental"]
 ---
 
-![Dos Dedos Mis Amigos by Pop Will Eat Itself](dos-dedos-mis-amigos-213818.jpg)
+{{< img src="dos-dedos-mis-amigos-213818.jpg" title="Dos Dedos Mis Amigos by Pop Will Eat Itself" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 
 
 ## Videos
-### Pop Will Eat Itself - Dos Dedos Mis Amigos (+ Japan Bonus Tracks)
-{{< youtube id="HoV4MCebgHA" title="Pop Will Eat Itself - Dos Dedos Mis Amigos (+ Japan Bonus Tracks)" >}}<br>
+### Pop Will Eat Itself - Underbelly
+{{< youtube id="48xQ-GyOP5c" title="Pop Will Eat Itself - Underbelly" >}}<br>
 
 ### More Videos
 
 - [Pop Will Eat Itself - Ich Bin Ein Auslander](https://www.youtube.com/watch?v=76wSk1j02_4)
+- [Pop Will Eat Itself - Dos Dedos Mis Amigos (+ Japan Bonus Tracks)](https://www.youtube.com/watch?v=HoV4MCebgHA)
 - [Pop Will Eat Itself - Everything's Cool](https://www.youtube.com/watch?v=fxYyTHEwO7U)
-- [Pop Will Eat Itself - Underbelly](https://www.youtube.com/watch?v=48xQ-GyOP5c)
 
 
 ## Release Information

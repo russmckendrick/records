@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Boy With The Arab Strap by Belle & Sebastian](the-boy-with-the-arab-strap-6215340.jpg)
+{{< img src="the-boy-with-the-arab-strap-6215340.jpg" title="The Boy With The Arab Strap by Belle & Sebastian" >}}
 
 <!-- section break -->
 

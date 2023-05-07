@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Latest Writs The Best Of... Greatest Hits by The Pretty Things](latest-writs-the-best-of-greatest-hits-10461741.jpg)
+{{< img src="latest-writs-the-best-of-greatest-hits-10461741.jpg" title="Latest Writs The Best Of... Greatest Hits by The Pretty Things" >}}
 
 <!-- section break -->
 

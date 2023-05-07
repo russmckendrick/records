@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 ---
 
-![Invisible Touch by Genesis](invisible-touch-6603588.jpg)
+{{< img src="invisible-touch-6603588.jpg" title="Invisible Touch by Genesis" >}}
 
 <!-- section break -->
 

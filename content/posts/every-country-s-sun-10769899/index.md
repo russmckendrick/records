@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Every Country's Sun by Mogwai](every-country-s-sun-10769899.jpg)
+{{< img src="every-country-s-sun-10769899.jpg" title="Every Country's Sun by Mogwai" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-![Extreme by Extreme](extreme-16250003.jpg)
+{{< img src="extreme-16250003.jpg" title="Extreme by Extreme" >}}
 
 <!-- section break -->
 
@@ -38,16 +38,16 @@ styles: ["Funk Metal"]
 
 
 ## Videos
-### Mutha (Don't Wanna Go To School Today)
-{{< youtube id="w7w_BHGS00M" title="Mutha (Don't Wanna Go To School Today)" >}}<br>
+### Extreme - Kid Ego
+{{< youtube id="vWgQCJemN_s" title="Extreme - Kid Ego" >}}<br>
 
 ### More Videos
 
 - [Little Girls](https://www.youtube.com/watch?v=JZDF4RO8Y-E)
-- [Extreme - Kid Ego](https://www.youtube.com/watch?v=vWgQCJemN_s)
 - [Wind Me Up](https://www.youtube.com/watch?v=IHY7Bjbix58)
 - [Kid Ego](https://www.youtube.com/watch?v=Q-rax2IC_ps)
 - [Watching, Waiting](https://www.youtube.com/watch?v=FMTFFlaRDZM)
+- [Mutha (Don't Wanna Go To School Today)](https://www.youtube.com/watch?v=w7w_BHGS00M)
 - [Teacher's Pet](https://www.youtube.com/watch?v=8ZLj1vK9nVw)
 - [Big Boys Don't Cry](https://www.youtube.com/watch?v=KQr8CrhzeWk)
 - [Smoke Signals](https://www.youtube.com/watch?v=m3WimOBBq-M)

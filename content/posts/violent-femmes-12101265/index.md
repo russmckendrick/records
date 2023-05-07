@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Violent Femmes by Violent Femmes](violent-femmes-12101265.jpg)
+{{< img src="violent-femmes-12101265.jpg" title="Violent Femmes by Violent Femmes" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: ["Country Blues", "Hill Country Blues"]
 ---
 
-![Benton County Relic by Cedric Burnside](benton-county-relic-12492420.jpg)
+{{< img src="benton-county-relic-12492420.jpg" title="Benton County Relic by Cedric Burnside" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Ride A Rock Horse by Roger Daltrey](ride-a-rock-horse-4105977.jpg)
+{{< img src="ride-a-rock-horse-4105977.jpg" title="Ride A Rock Horse by Roger Daltrey" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,13 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Roger Daltrey - Proud
-{{< youtube id="DywInNM60gs" title="Roger Daltrey - Proud" >}}<br>
+### Roger Daltrey-Walking the dog (1975)
+{{< youtube id="v5T7odJVXao" title="Roger Daltrey-Walking the dog (1975)" >}}<br>
 
 ### More Videos
 
+- [Roger Daltrey - Proud](https://www.youtube.com/watch?v=DywInNM60gs)
 - [Roger Daltrey – Come And Get Your Love (Original Stereo)](https://www.youtube.com/watch?v=cAGWmqLV8gQ)
-- [Roger Daltrey-Walking the dog (1975)](https://www.youtube.com/watch?v=v5T7odJVXao)
 - [Roger Daltrey 🇬🇧 - Walking The Dog (Rufus Thomas) - Vinyl Ride A Rock Horse LP 🇵🇹 1975](https://www.youtube.com/watch?v=iEMiiN3d6xk)
 - [Roger Daltrey - Ride a Rock Horse - Get Your Love](https://www.youtube.com/watch?v=MzApNg5P0GY)
 - [Roger Daltrey](https://www.youtube.com/watch?v=Ntk9iPID1sM)

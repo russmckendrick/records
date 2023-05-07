@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 ---
 
-![The Holy Pictures by David Holmes](the-holy-pictures-13930358.jpg)
+{{< img src="the-holy-pictures-13930358.jpg" title="The Holy Pictures by David Holmes" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,11 @@ styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 
 
 ## Videos
-### The Ballad Of Sarah And Jack
-{{< youtube id="DW_VfSnsUrg" title="The Ballad Of Sarah And Jack" >}}<br>
+### I Heard Wonders
+{{< youtube id="sAtpVizpkKM" title="I Heard Wonders" >}}<br>
 
 ### More Videos
 
-- [I Heard Wonders](https://www.youtube.com/watch?v=sAtpVizpkKM)
 - [Story Of The Ink](https://www.youtube.com/watch?v=U_J2FejfL2w)
 - [Love Reign Over Me](https://www.youtube.com/watch?v=ZSYcHRCL9g8)
 - [Theme/I.M.C](https://www.youtube.com/watch?v=WdF74_zyXRs)
@@ -52,6 +51,7 @@ styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 - [Melanie](https://www.youtube.com/watch?v=sJQyviWMmN4)
 - [Hey Maggy](https://www.youtube.com/watch?v=j_DeM45jssU)
 - [Birth](https://www.youtube.com/watch?v=NBJbTv2bJvM)
+- [The Ballad Of Sarah And Jack](https://www.youtube.com/watch?v=DW_VfSnsUrg)
 
 
 ## Release Information

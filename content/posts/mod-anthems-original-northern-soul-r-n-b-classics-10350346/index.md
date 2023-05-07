@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Mod", "Soul", "Rhythm & Blues"]
 ---
 
-![Mod Anthems: Original Northern Soul & R'N'B Classics by Various](mod-anthems-original-northern-soul-r-n-b-classics-10350346.jpg)
+{{< img src="mod-anthems-original-northern-soul-r-n-b-classics-10350346.jpg" title="Mod Anthems: Original Northern Soul & R'N'B Classics by Various" >}}
 
 <!-- section break -->
 
@@ -52,11 +52,12 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]
-{{< youtube id="kasWTpTQ1k4" title="Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]" >}}<br>
+### ESTHER PHILLIPS - Just Say Goodbye
+{{< youtube id="sYQJjTCNbTI" title="ESTHER PHILLIPS - Just Say Goodbye" >}}<br>
 
 ### More Videos
 
+- [Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]](https://www.youtube.com/watch?v=kasWTpTQ1k4)
 - [Booker T. & The MG's - Green Onions (Official Audio)](https://www.youtube.com/watch?v=0oox9bJaGJ8)
 - [In the Midnight Hour](https://www.youtube.com/watch?v=uiy36UfftsI)
 - [THE MAR-KEYS - Last Night](https://www.youtube.com/watch?v=FX5T9GvSnbY)
@@ -69,7 +70,6 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 - [WILLIE TEE - Walking Up A One Way Street](https://www.youtube.com/watch?v=imqybrR3OSY)
 - [Rex Garvin & The Might Cravers - Sock It To 'Em J.B. - Parts 1&2 (Atlantic Records)](https://www.youtube.com/watch?v=l-1TQ4IicH4)
 - [THE ASTORS - Candy](https://www.youtube.com/watch?v=t06Xj04K48w)
-- [ESTHER PHILLIPS - Just Say Goodbye](https://www.youtube.com/watch?v=sYQJjTCNbTI)
 - [The Capitols - Cool Jerk](https://www.youtube.com/watch?v=27PydomerjM)
 - [Arthur Conley ~ Sweet Soul Music  (1967)](https://www.youtube.com/watch?v=grE0lwTsSPg)
 - [The Invitations - Skiing In The Snow](https://www.youtube.com/watch?v=SMkdhSWEmNA)

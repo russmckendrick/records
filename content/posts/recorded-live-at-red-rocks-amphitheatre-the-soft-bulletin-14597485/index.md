@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ---
 
-![(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips](recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485.jpg)
+{{< img src="recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485.jpg" title="(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips" >}}
 
 <!-- section break -->
 

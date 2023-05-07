@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![The It Girl by Sleeper](the-it-girl-25128730.jpg)
+{{< img src="the-it-girl-25128730.jpg" title="The It Girl by Sleeper" >}}
 
 <!-- section break -->
 

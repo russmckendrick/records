@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-![A Momentary Lapse Of Reason (Remixed & Updated) by Pink Floyd](a-momentary-lapse-of-reason-remixed-updated-20760595.jpg)
+{{< img src="a-momentary-lapse-of-reason-remixed-updated-20760595.jpg" title="A Momentary Lapse Of Reason (Remixed & Updated) by Pink Floyd" >}}
 
 <!-- section break -->
 

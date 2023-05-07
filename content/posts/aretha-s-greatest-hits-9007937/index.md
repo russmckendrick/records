@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Aretha's Greatest Hits by Aretha Franklin](aretha-s-greatest-hits-9007937.jpg)
+{{< img src="aretha-s-greatest-hits-9007937.jpg" title="Aretha's Greatest Hits by Aretha Franklin" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Soul"]
 
 
 ## Videos
-### Chain of Fools by Aretha Franklin REMASTERED
-{{< youtube id="vFBi7ZEbGx8" title="Chain of Fools by Aretha Franklin REMASTERED" >}}<br>
+### Aretha's Greatest Hits /Atlantic
+{{< youtube id="KuDE2JzHYhU" title="Aretha's Greatest Hits /Atlantic" >}}<br>
 
 ### More Videos
 
-- [Aretha's Greatest Hits /Atlantic](https://www.youtube.com/watch?v=KuDE2JzHYhU)
 - [Aretha Franklin - Spanish Harlem](https://www.youtube.com/watch?v=ax3EJyeKW3M)
+- [Chain of Fools by Aretha Franklin REMASTERED](https://www.youtube.com/watch?v=vFBi7ZEbGx8)
 
 
 ## Release Information

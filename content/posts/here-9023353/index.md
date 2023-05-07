@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Here by Teenage Fanclub](here-9023353.jpg)
+{{< img src="here-9023353.jpg" title="Here by Teenage Fanclub" >}}
 
 <!-- section break -->
 

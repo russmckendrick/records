@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Disco"]
 ---
 
-![Street Songs by Rick James](street-songs-9106450.jpg)
+{{< img src="street-songs-9106450.jpg" title="Street Songs by Rick James" >}}
 
 <!-- section break -->
 
@@ -36,16 +36,16 @@ styles: ["Funk", "Disco"]
 
 
 ## Videos
-### Make Love To Me
-{{< youtube id="7B-jMFeCFg8" title="Make Love To Me" >}}<br>
+### Fire And Desire
+{{< youtube id="wn_DmhusD48" title="Fire And Desire" >}}<br>
 
 ### More Videos
 
 - [Give It To Me Baby](https://www.youtube.com/watch?v=zYV6zZc_9jI)
 - [Ghetto Life](https://www.youtube.com/watch?v=GxBPFWuaIz4)
+- [Make Love To Me](https://www.youtube.com/watch?v=7B-jMFeCFg8)
 - [Mr. Policeman](https://www.youtube.com/watch?v=uSRjIQAHUbs)
 - [Super Freak](https://www.youtube.com/watch?v=1bRFWwX1nk8)
-- [Fire And Desire](https://www.youtube.com/watch?v=wn_DmhusD48)
 - [Call Me Up](https://www.youtube.com/watch?v=BlsA9J5BOi0)
 - [Below The Funk (Pass The J)](https://www.youtube.com/watch?v=xbdEzQTcWPc)
 - [Give It To Me Baby (12 Version)](https://www.youtube.com/watch?v=laggkmozYLY)

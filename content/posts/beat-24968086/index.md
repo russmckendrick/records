@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Beat by King Crimson](beat-24968086.jpg)
+{{< img src="beat-24968086.jpg" title="Beat by King Crimson" >}}
 
 <!-- section break -->
 

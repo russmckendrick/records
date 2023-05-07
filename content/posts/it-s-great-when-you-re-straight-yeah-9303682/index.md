@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
 
-![It's Great When You're Straight...Yeah by Black Grape](it-s-great-when-you-re-straight-yeah-9303682.jpg)
+{{< img src="it-s-great-when-you-re-straight-yeah-9303682.jpg" title="It's Great When You're Straight...Yeah by Black Grape" >}}
 
 <!-- section break -->
 

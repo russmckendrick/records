@@ -14,7 +14,7 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-![There Is No Other... by Isobel Campbell](there-is-no-other-14749767.jpg)
+{{< img src="there-is-no-other-14749767.jpg" title="There Is No Other... by Isobel Campbell" >}}
 
 <!-- section break -->
 

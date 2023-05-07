@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-![Fuzzy Logic by Super Furry Animals](fuzzy-logic-9302863.jpg)
+{{< img src="fuzzy-logic-9302863.jpg" title="Fuzzy Logic by Super Furry Animals" >}}
 
 <!-- section break -->
 

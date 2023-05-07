@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Straight Songs Of Sorrow by Mark Lanegan](straight-songs-of-sorrow-15264315.jpg)
+{{< img src="straight-songs-of-sorrow-15264315.jpg" title="Straight Songs Of Sorrow by Mark Lanegan" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Daylight In The Nocturnal House
-{{< youtube id="ToMgSKgra38" title="Daylight In The Nocturnal House" >}}<br>
+### Mark Lanegan - Skeleton Key
+{{< youtube id="uJDLcaCuFHU" title="Mark Lanegan - Skeleton Key" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["Alternative Rock"]
 - [This Game of Love](https://www.youtube.com/watch?v=D_THKz09seg)
 - [Mark Lanegan - Straight Songs of Sorrow](https://www.youtube.com/watch?v=Iz54DefU37c)
 - [Churchbells, Ghosts](https://www.youtube.com/watch?v=C2ygoNS9LeE)
-- [Mark Lanegan - Skeleton Key](https://www.youtube.com/watch?v=uJDLcaCuFHU)
+- [Daylight In The Nocturnal House](https://www.youtube.com/watch?v=ToMgSKgra38)
 - [Apples From A Tree](https://www.youtube.com/watch?v=60JH83Ze-lM)
 - [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
 - [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)

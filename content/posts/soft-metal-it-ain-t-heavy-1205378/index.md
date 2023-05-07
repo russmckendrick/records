@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
 
-![Soft Metal - It Ain't Heavy . . .  by Various](soft-metal-it-ain-t-heavy-1205378.jpg)
+{{< img src="soft-metal-it-ain-t-heavy-1205378.jpg" title="Soft Metal - It Ain't Heavy . . .  by Various" >}}
 
 <!-- section break -->
 
@@ -43,15 +43,14 @@ styles: ["Soft Rock"]
 
 
 ## Videos
-### Golden Brown - The Stranglers
-{{< youtube id="AWAsI3U2EaE" title="Golden Brown - The Stranglers" >}}<br>
+### Saxon - Ride Like The Wind (Official Video HD)
+{{< youtube id="NleLo2wwNYw" title="Saxon - Ride Like The Wind (Official Video HD)" >}}<br>
 
 ### More Videos
 
 - [Heart - Alone](https://www.youtube.com/watch?v=1Cw1ng75KP0)
 - [Marillion - Kayleigh](https://www.youtube.com/watch?v=pQCu8Jp9iwM)
 - [Whitesnake - Here I Go Again '87](https://www.youtube.com/watch?v=WyF8RHM1OCg)
-- [Saxon - Ride Like The Wind (Official Video HD)](https://www.youtube.com/watch?v=NleLo2wwNYw)
 - [Shot in the Dark](https://www.youtube.com/watch?v=Mzyz2egx_0c)
 - [Journey - Don't Stop Believin' (Audio)](https://www.youtube.com/watch?v=1k8craCGpgs)
 - [Meat Loaf - Dead Ringer for Love](https://www.youtube.com/watch?v=KSTIsZULYmY)
@@ -59,6 +58,7 @@ styles: ["Soft Rock"]
 - [Europe - The Final Countdown (Official Video)](https://www.youtube.com/watch?v=9jK-NcRmVcw)
 - [Starship - We Built This City](https://www.youtube.com/watch?v=K1b8AhIsSYQ)
 - [It Bites Calling All The Heroes](https://www.youtube.com/watch?v=ofL-ePVAshs)
+- [Golden Brown - The Stranglers](https://www.youtube.com/watch?v=AWAsI3U2EaE)
 - [Poison - Nothin' But a Good Time](https://www.youtube.com/watch?v=r3g1kPGDcbc)
 - [Wasch - Body Running Fast](https://www.youtube.com/watch?v=wGnuqpCgXRE)
 - [Krokus - Screaming In The Night](https://www.youtube.com/watch?v=uNKVyoG-AUk)

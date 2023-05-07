@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Octopus by Gentle Giant](octopus-15056299.jpg)
+{{< img src="octopus-15056299.jpg" title="Octopus by Gentle Giant" >}}
 
 <!-- section break -->
 

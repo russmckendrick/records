@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze"]
 ---
 
-![Pasar De Las Luces by Mint Field](pasar-de-las-luces-11608065.jpg)
+{{< img src="pasar-de-las-luces-11608065.jpg" title="Pasar De Las Luces by Mint Field" >}}
 
 <!-- section break -->
 

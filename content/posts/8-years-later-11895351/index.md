@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![8 Years Later  by The Pineapple Thief](8-years-later-11895351.jpg)
+{{< img src="8-years-later-11895351.jpg" title="8 Years Later  by The Pineapple Thief" >}}
 
 <!-- section break -->
 

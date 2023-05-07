@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-![Wasteland by Riverside](wasteland-12587923.jpg)
+{{< img src="wasteland-12587923.jpg" title="Wasteland by Riverside" >}}
 
 <!-- section break -->
 
@@ -46,15 +46,15 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### RIVERSIDE - Wasteland (OFFICIAL VIDEO)
-{{< youtube id="6dLf45s67hM" title="RIVERSIDE - Wasteland (OFFICIAL VIDEO)" >}}<br>
+### RIVERSIDE - Vale Of Tears (Album Track)
+{{< youtube id="001IMO53JwY" title="RIVERSIDE - Vale Of Tears (Album Track)" >}}<br>
 
 ### More Videos
 
 - [RIVERSIDE - Lament (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=4Wqlts7QWA8)
+- [RIVERSIDE - Wasteland (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=6dLf45s67hM)
 - [RIVERSIDE - River Down Below (Album Track)](https://www.youtube.com/watch?v=ZS1crIkpnwc)
 - [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
-- [RIVERSIDE - Vale Of Tears (Album Track)](https://www.youtube.com/watch?v=001IMO53JwY)
 
 
 ## Release Information

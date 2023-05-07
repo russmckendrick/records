@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ---
 
-![Galactic Quarantine by Devin Townsend](galactic-quarantine-19283533.jpg)
+{{< img src="galactic-quarantine-19283533.jpg" title="Galactic Quarantine by Devin Townsend" >}}
 
 <!-- section break -->
 
@@ -58,13 +58,12 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 
 
 ## Videos
-### All Hail The New Flesh (Virtually Live 2020)
-{{< youtube id="9kUMFtZ3y1A" title="All Hail The New Flesh (Virtually Live 2020)" >}}<br>
+### Devin Townsend - Deadhead - Empath Live Vol 2 2020
+{{< youtube id="jeB1iyI_LZE" title="Devin Townsend - Deadhead - Empath Live Vol 2 2020" >}}<br>
 
 ### More Videos
 
 - [DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)](https://www.youtube.com/watch?v=4rOhiHLPT9Q)
-- [Devin Townsend - Deadhead - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=jeB1iyI_LZE)
 - [Devin Townsend - All Hail the New Flesh - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=u5G_1LtY3s4)
 - [Devin Townsend - Love? - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=l03U4dxSiCc)
 - [Devin Townsend - Almost Again - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=e6jf4y8ikTQ)
@@ -73,6 +72,7 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 - [Kingdom (Virtually Live 2020)](https://www.youtube.com/watch?v=wNK-nA4aags)
 - [Devin Townsend - Spirits Will Collide - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=XWYV209auV4)
 - [Devin Townsend - Juular - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=oFvmj2mq5u8)
+- [All Hail The New Flesh (Virtually Live 2020)](https://www.youtube.com/watch?v=9kUMFtZ3y1A)
 - [Detox (Virtually Live 2020)](https://www.youtube.com/watch?v=Kebc9Z2FiQ8)
 - [Hyperdrive! (Virtually Live 2020)](https://www.youtube.com/watch?v=V5tTPVfazIs)
 - [Devin Townsend - Hyperdrive - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=M1VJkXxwAj4)

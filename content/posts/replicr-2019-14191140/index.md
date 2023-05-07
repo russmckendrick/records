@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Noise", "Experimental", "Ambient"]
 ---
 
-![replicr, 2019 by 65daysofstatic](replicr-2019-14191140.jpg)
+{{< img src="replicr-2019-14191140.jpg" title="replicr, 2019 by 65daysofstatic" >}}
 
 <!-- section break -->
 

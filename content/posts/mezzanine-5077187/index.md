@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-![Mezzanine by Massive Attack](mezzanine-5077187.jpg)
+{{< img src="mezzanine-5077187.jpg" title="Mezzanine by Massive Attack" >}}
 
 <!-- section break -->
 

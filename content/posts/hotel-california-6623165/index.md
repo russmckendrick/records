@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Country Rock"]
 ---
 
-![Hotel California by Eagles](hotel-california-6623165.jpg)
+{{< img src="hotel-california-6623165.jpg" title="Hotel California by Eagles" >}}
 
 <!-- section break -->
 

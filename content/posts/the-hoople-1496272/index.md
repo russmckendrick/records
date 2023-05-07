@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Glam", "Hard Rock", "Rock & Roll"]
 ---
 
-![The Hoople by Mott The Hoople](the-hoople-1496272.jpg)
+{{< img src="the-hoople-1496272.jpg" title="The Hoople by Mott The Hoople" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 
 
 ## Videos
-### Mott The Hoople ~ Trudi's Song ~ The Hoople (1974) HQ Audio
-{{< youtube id="8bL-9YcGeDo" title="Mott The Hoople ~ Trudi's Song ~ The Hoople (1974) HQ Audio" >}}<br>
+### Alice
+{{< youtube id="Xg8nNytkPxI" title="Alice" >}}<br>
 
 ### More Videos
 
@@ -46,8 +46,8 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 - [Mott The Hoople - Crash Street Kidds(1974)](https://www.youtube.com/watch?v=x3SN_P3cvbQ)
 - [Mott The Hoople - Roll Away The Stone](https://www.youtube.com/watch?v=sH-5ifOYVXs)
 - [Marionette](https://www.youtube.com/watch?v=kZcEyAuoqfg)
+- [Mott The Hoople ~ Trudi's Song ~ The Hoople (1974) HQ Audio](https://www.youtube.com/watch?v=8bL-9YcGeDo)
 - [23   Mott The Hoople    Alice 1974 with lyrics](https://www.youtube.com/watch?v=N1_GZYTg2Cg)
-- [Alice](https://www.youtube.com/watch?v=Xg8nNytkPxI)
 - [25   Mott The Hoople    Born Late '58 1974 with lyrics](https://www.youtube.com/watch?v=niJAHJ69_Lc)
 - [Mott the Hoople - The Golden Age of Rock and Roll (alternate guitar solo)](https://www.youtube.com/watch?v=gK754ALb4eU)
 

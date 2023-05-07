@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Animals (2018 Remix) by Pink Floyd](animals-2018-remix-24735206.jpg)
+{{< img src="animals-2018-remix-24735206.jpg" title="Animals (2018 Remix) by Pink Floyd" >}}
 
 <!-- section break -->
 

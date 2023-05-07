@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 ---
 
-![Blaze Of Glory by Jon Bon Jovi](blaze-of-glory-1972307.jpg)
+{{< img src="blaze-of-glory-1972307.jpg" title="Blaze Of Glory by Jon Bon Jovi" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 
 
 ## Videos
-### Guano City (From Young Guns II Soundtrack)
-{{< youtube id="P9gAd5Ax4OE" title="Guano City (From Young Guns II Soundtrack)" >}}<br>
+### Jon Bon Jovi - Santa Fe
+{{< youtube id="MQ56h4ql8Dk" title="Jon Bon Jovi - Santa Fe" >}}<br>
 
 ### More Videos
 
@@ -52,13 +52,13 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 - [Jon Bon Jovi - Blood Money Music Video](https://www.youtube.com/watch?v=d51DXtvGxPA)
 - [Blood Money](https://www.youtube.com/watch?v=iQbnm-CCoh4)
 - [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
-- [Jon Bon Jovi - Santa Fe](https://www.youtube.com/watch?v=MQ56h4ql8Dk)
 - [Santa Fe](https://www.youtube.com/watch?v=tpKd5Fa7798)
 - [Justice In The Barrel](https://www.youtube.com/watch?v=AwgSBcEfZ2Q)
 - [Never Say Die](https://www.youtube.com/watch?v=Rr8rgh4q4xQ)
 - [You Really Got Me Now](https://www.youtube.com/watch?v=Fxhhbn9Mvs8)
 - [Bang A Drum](https://www.youtube.com/watch?v=gg9nKnWDuME)
 - [Dyin' Ain't Much Of A Livin'](https://www.youtube.com/watch?v=9kuGA621nr8)
+- [Guano City (From Young Guns II Soundtrack)](https://www.youtube.com/watch?v=P9gAd5Ax4OE)
 
 
 ## Release Information

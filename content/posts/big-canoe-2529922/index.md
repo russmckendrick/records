@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Big Canoe by Tim Finn](big-canoe-2529922.jpg)
+{{< img src="big-canoe-2529922.jpg" title="Big Canoe by Tim Finn" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Carve You in Marble.mp4
-{{< youtube id="t_oOZz--Xfg" title="Carve You in Marble.mp4" >}}<br>
+### Tim Finn - Spiritual Hunger (1986)
+{{< youtube id="GGVNSZowmT8" title="Tim Finn - Spiritual Hunger (1986)" >}}<br>
 
 ### More Videos
 
 - [TIM FINN - No Thunder, No Fire, No Rain (1986)](https://www.youtube.com/watch?v=V7140SlRUQE)
-- [Tim Finn - Spiritual Hunger (1986)](https://www.youtube.com/watch?v=GGVNSZowmT8)
+- [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 
 
 ## Release Information

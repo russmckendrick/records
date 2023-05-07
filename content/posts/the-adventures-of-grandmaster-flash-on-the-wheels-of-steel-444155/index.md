@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Cut-up/DJ"]
 ---
 
-![The Adventures Of Grandmaster Flash On The Wheels Of Steel by Grandmaster Flash & The Furious Five](the-adventures-of-grandmaster-flash-on-the-wheels-of-steel-444155.jpg)
+{{< img src="the-adventures-of-grandmaster-flash-on-the-wheels-of-steel-444155.jpg" title="The Adventures Of Grandmaster Flash On The Wheels Of Steel by Grandmaster Flash & The Furious Five" >}}
 
 <!-- section break -->
 
@@ -27,14 +27,14 @@ styles: ["Cut-up/DJ"]
 
 
 ## Videos
-### The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)
-{{< youtube id="gXNzMVLqIHg" title="The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)" >}}<br>
+### Grandmaster Flash And The Furious Five - The Party Mix (Extended)
+{{< youtube id="QB2Gl1tEiEQ" title="Grandmaster Flash And The Furious Five - The Party Mix (Extended)" >}}<br>
 
 ### More Videos
 
 - [Grandmaster Flash - The Adventures Of Grandmaster Flash On The Wheels Of Steel (1981)](https://www.youtube.com/watch?v=PFYg2Mmlc_o)
 - [Grandmaster Flash - The adventures of Grandmaster Flash on the wheels of steel (12)](https://www.youtube.com/watch?v=PC1TtzVDB5M)
-- [Grandmaster Flash And The Furious Five - The Party Mix (Extended)](https://www.youtube.com/watch?v=QB2Gl1tEiEQ)
+- [The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)](https://www.youtube.com/watch?v=gXNzMVLqIHg)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska"]
 ---
 
-![Protest Songs 1924-2012 by The Specials](protest-songs-1924-2012-20431642.jpg)
+{{< img src="protest-songs-1924-2012-20431642.jpg" title="Protest Songs 1924-2012 by The Specials" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Ska"]
 
 
 ## Videos
-### Listening Wind
-{{< youtube id="WqNAjMOO0ik" title="Listening Wind" >}}<br>
+### My Next Door Neighbor
+{{< youtube id="2vFAqB9s-RE" title="My Next Door Neighbor" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Ska"]
 - [Black, Brown And White](https://www.youtube.com/watch?v=IxAP1uEMbvk)
 - [Ain’t Gonna Let Nobody Turn Us Around](https://www.youtube.com/watch?v=W7pu7D-msHw)
 - [Fuck All The Perfect People](https://www.youtube.com/watch?v=Yvbm7_SUi9Q)
-- [My Next Door Neighbor](https://www.youtube.com/watch?v=2vFAqB9s-RE)
 - [Trouble Every Day](https://www.youtube.com/watch?v=pUuhS14ZJuk)
+- [Listening Wind](https://www.youtube.com/watch?v=WqNAjMOO0ik)
 - [I Live In A City](https://www.youtube.com/watch?v=HoUOyF4SEss)
 - [Soldiers Who Want To Be Heroes](https://www.youtube.com/watch?v=ESFTCcVSq38)
 - [Get Up, Stand Up](https://www.youtube.com/watch?v=Y-PkqGC9eEg)

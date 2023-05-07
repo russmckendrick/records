@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
 
-![Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream](give-out-but-don-t-give-up-the-original-memphis-recordings-20166970.jpg)
+{{< img src="give-out-but-don-t-give-up-the-original-memphis-recordings-20166970.jpg" title="Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream" >}}
 
 <!-- section break -->
 

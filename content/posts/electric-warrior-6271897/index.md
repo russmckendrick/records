@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Glam"]
 ---
 
-![Electric Warrior by T. Rex](electric-warrior-6271897.jpg)
+{{< img src="electric-warrior-6271897.jpg" title="Electric Warrior by T. Rex" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Glam"]
 
 
 ## Videos
-### Mambo Sun (2003 Remaster)
-{{< youtube id="bPkc5-2McG0" title="Mambo Sun (2003 Remaster)" >}}<br>
+### Hot Love
+{{< youtube id="kKoaHw8gy88" title="Hot Love" >}}<br>
 
 ### More Videos
 
 - [T. Rex - Bang a Gong (Get It On) (Official Audio)](https://www.youtube.com/watch?v=FyzWDl0nz00)
 - [Cosmic Dancer (2003 Remaster)](https://www.youtube.com/watch?v=UAv1qZnYAwY)
+- [Mambo Sun (2003 Remaster)](https://www.youtube.com/watch?v=bPkc5-2McG0)
 - [Planet Queen (2003 Remaster)](https://www.youtube.com/watch?v=Q48jqaJWToc)
 - [Rip Off](https://www.youtube.com/watch?v=U1pG-23Jvuw)
-- [Hot Love](https://www.youtube.com/watch?v=kKoaHw8gy88)
 - [The Motivator (2003 Remaster)](https://www.youtube.com/watch?v=j8HPwDIEinM)
 
 

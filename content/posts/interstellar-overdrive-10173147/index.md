@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Acid Rock"]
 ---
 
-![Interstellar Overdrive by Pink Floyd](interstellar-overdrive-10173147.jpg)
+{{< img src="interstellar-overdrive-10173147.jpg" title="Interstellar Overdrive by Pink Floyd" >}}
 
 <!-- section break -->
 

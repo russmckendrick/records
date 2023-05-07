@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-![Modern Life Is Rubbish by Blur](modern-life-is-rubbish-3773519.jpg)
+{{< img src="modern-life-is-rubbish-3773519.jpg" title="Modern Life Is Rubbish by Blur" >}}
 
 <!-- section break -->
 

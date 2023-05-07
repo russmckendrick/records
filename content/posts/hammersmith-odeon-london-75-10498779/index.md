@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 ---
 
-![Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band](hammersmith-odeon-london-75-10498779.jpg)
+{{< img src="hammersmith-odeon-london-75-10498779.jpg" title="Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 
 
 ## Videos
-### It's Hard to Be a Saint In the City (Live at the Hammersmith Odeon, London '75)
-{{< youtube id="YjVh89sHDnI" title="It's Hard to Be a Saint In the City (Live at the Hammersmith Odeon, London '75)" >}}<br>
+### Kitty's Back (Live at the Hammersmith Odeon, London '75)
+{{< youtube id="RWRlqFywXTY" title="Kitty's Back (Live at the Hammersmith Odeon, London '75)" >}}<br>
 
 ### More Videos
 
@@ -62,10 +62,10 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 - [Spirit In the Night (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=dp-aRBV7jLc)
 - [Rosalita (Come Out Tonight) (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=30F7j9mVrO0)
 - [Lost In the Flood (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=s79tVdT2jUs)
+- [It's Hard to Be a Saint In the City (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=YjVh89sHDnI)
 - [Detroit Medley (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=nyQieGYfmfs)
 - [4th of July, Asbury Park (Sandy) (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=f_lSDQy03LY)
 - [Bruce Springsteen - Credits (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=IfSrB5DLT_4)
-- [Kitty's Back (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=RWRlqFywXTY)
 - [Pretty Flamingo - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=2OMF9B-UnLc)
 - [Bruce Springsteen & The E Street Band ‎– Hammersmith Odeon, London '75 - Kitty's Back](https://www.youtube.com/watch?v=CkSPap8PIz4)
 - [Thunder Road - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=bPkPUS148xE)

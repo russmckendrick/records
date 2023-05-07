@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
 
-![The Best Of Indie Top 20 by Various](the-best-of-indie-top-20-974961.jpg)
+{{< img src="the-best-of-indie-top-20-974961.jpg" title="The Best Of Indie Top 20 by Various" >}}
 
 <!-- section break -->
 
@@ -47,17 +47,17 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 
 
 ## Videos
-### Sugar cubes Regina
-{{< youtube id="PznnQ9nhWFU" title="Sugar cubes Regina" >}}<br>
+### 24 Hour Party People - Happy Mondays [Song]
+{{< youtube id="N7sa9r0mvBs" title="24 Hour Party People - Happy Mondays [Song]" >}}<br>
 
 ### More Videos
 
 - [The Pixies - Monkey Gone To Heaven](https://www.youtube.com/watch?v=XycBLF6kWuY)
-- [24 Hour Party People - Happy Mondays [Song]](https://www.youtube.com/watch?v=N7sa9r0mvBs)
 - [The Wedding Present Why Are You Being So Reasonable Now? promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
 - [Paris Angels - Perfume (All On You)](https://www.youtube.com/watch?v=x-iUiIL1oLI)
 - [The Shamen - ProGen (Beatmasters 7 Edit)](https://www.youtube.com/watch?v=U8Stq8mhLas)
 - [THE SUNDAYS-JOY.wmv](https://www.youtube.com/watch?v=FjoIRnJB2IA)
+- [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
 - [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
 

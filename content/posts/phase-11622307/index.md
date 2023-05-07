@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Jazz-Funk"]
 ---
 
-![Phase by Mildlife](phase-11622307.jpg)
+{{< img src="phase-11622307.jpg" title="Phase by Mildlife" >}}
 
 <!-- section break -->
 

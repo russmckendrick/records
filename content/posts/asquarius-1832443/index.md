@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Asquarius by Cud](asquarius-1832443.jpg)
+{{< img src="asquarius-1832443.jpg" title="Asquarius by Cud" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### CUD - Beyond Hair
-{{< youtube id="FYJUxY4Pa7Q" title="CUD - Beyond Hair" >}}<br>
+### Cud - Spanish Love Song
+{{< youtube id="hC2vQwuvr5o" title="Cud - Spanish Love Song" >}}<br>
 
 ### More Videos
 
 - [CUD - Rich and Strange (1992)](https://www.youtube.com/watch?v=D7ikmVbr8J8)
 - [CUD - Magic Alex](https://www.youtube.com/watch?v=wvU4gaoeozk)
-- [Cud - Spanish Love Song](https://www.youtube.com/watch?v=hC2vQwuvr5o)
+- [CUD - Beyond Hair](https://www.youtube.com/watch?v=FYJUxY4Pa7Q)
 
 
 ## Release Information

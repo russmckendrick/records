@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![The Pleasure Principle (The First Recordings) by Gary Numan](the-pleasure-principle-the-first-recordings-14245498.jpg)
+{{< img src="the-pleasure-principle-the-first-recordings-14245498.jpg" title="The Pleasure Principle (The First Recordings) by Gary Numan" >}}
 
 <!-- section break -->
 
@@ -49,8 +49,8 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Conversation (BBC Peel Sessions)
-{{< youtube id="NOE_Q0IEO0Y" title="Conversation (BBC Peel Sessions)" >}}<br>
+### Airlane (BBC Peel Sessions)
+{{< youtube id="7cdMAMZ-WCQ" title="Airlane (BBC Peel Sessions)" >}}<br>
 
 ### More Videos
 
@@ -71,9 +71,9 @@ styles: ["New Wave", "Synth-pop"]
 - [Asylum (Remastered 2009)](https://www.youtube.com/watch?v=3mXwBYCquJE)
 - [Oceans (Remastered 2009)](https://www.youtube.com/watch?v=f-8xdxb4doI)
 - [Photograph (Remastered 2009)](https://www.youtube.com/watch?v=PHsMiqbVBGs)
-- [Airlane (BBC Peel Sessions)](https://www.youtube.com/watch?v=7cdMAMZ-WCQ)
 - [Cars (BBC Peel Sessions)](https://www.youtube.com/watch?v=QlbqoVZiLkA)
 - [Films (BBC Peel Sessions)](https://www.youtube.com/watch?v=m4T0s5OhxiQ)
+- [Conversation (BBC Peel Sessions)](https://www.youtube.com/watch?v=NOE_Q0IEO0Y)
 
 
 ## Release Information

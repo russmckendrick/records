@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-![Whirlpool by Chapterhouse](whirlpool-14883278.jpg)
+{{< img src="whirlpool-14883278.jpg" title="Whirlpool by Chapterhouse" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Inside of Me
-{{< youtube id="nXaw0zjkRa8" title="Inside of Me" >}}<br>
+### Pearl (Edit)
+{{< youtube id="wlqKSAJZsZs" title="Pearl (Edit)" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Feel the Same](https://www.youtube.com/watch?v=oxKoBG7Q15g)
 - [Breather](https://www.youtube.com/watch?v=NgnEP7PFTwE)
 - [April](https://www.youtube.com/watch?v=24wwEQPf26A)
-- [Pearl (Edit)](https://www.youtube.com/watch?v=wlqKSAJZsZs)
+- [Inside of Me](https://www.youtube.com/watch?v=nXaw0zjkRa8)
 - [Satin Safe](https://www.youtube.com/watch?v=z0SiT_RG-qg)
 - [Treasure](https://www.youtube.com/watch?v=6H2Pq0ZLllc)
 

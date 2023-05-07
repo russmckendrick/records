@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock"]
 ---
 
-![Dizzy Heights by Neil Finn](dizzy-heights-5388264.jpg)
+{{< img src="dizzy-heights-5388264.jpg" title="Dizzy Heights by Neil Finn" >}}
 
 <!-- section break -->
 

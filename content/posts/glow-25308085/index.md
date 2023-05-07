@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Glow by Reef](glow-25308085.jpg)
+{{< img src="glow-25308085.jpg" title="Glow by Reef" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### I'm Not Scared
-{{< youtube id="eDBj6-x5joM" title="I'm Not Scared" >}}<br>
+### Lullaby
+{{< youtube id="dSS4uoDEVBM" title="Lullaby" >}}<br>
 
 ### More Videos
 
@@ -55,9 +55,9 @@ styles: ["Alternative Rock"]
 - [Consideration](https://www.youtube.com/watch?v=xGl5TPSYDYM)
 - [Don't You Like It](https://www.youtube.com/watch?v=m5h-lT-NY7M)
 - [Come Back Brighter](https://www.youtube.com/watch?v=V49f3KttyZ8)
+- [I'm Not Scared](https://www.youtube.com/watch?v=eDBj6-x5joM)
 - [Robot Riff](https://www.youtube.com/watch?v=Lmny-IhbJPg)
 - [Yer Old](https://www.youtube.com/watch?v=Eugzm7Q7Tvs)
-- [Lullaby](https://www.youtube.com/watch?v=dSS4uoDEVBM)
 
 
 ## Release Information

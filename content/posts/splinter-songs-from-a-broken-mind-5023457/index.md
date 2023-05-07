@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Darkwave"]
 ---
 
-![Splinter (Songs From A Broken Mind) by Gary Numan](splinter-songs-from-a-broken-mind-5023457.jpg)
+{{< img src="splinter-songs-from-a-broken-mind-5023457.jpg" title="Splinter (Songs From A Broken Mind) by Gary Numan" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["New Wave", "Darkwave"]
 
 
 ## Videos
-### Gary Numan - Love Hurt Bleed
-{{< youtube id="46kXvXV42Qk" title="Gary Numan - Love Hurt Bleed" >}}<br>
+### Gary Numan - My Last Day
+{{< youtube id="uFrldNl6jq8" title="Gary Numan - My Last Day" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["New Wave", "Darkwave"]
 - [Gary Numan - A Shadow Falls On Me](https://www.youtube.com/watch?v=7uXmL81ZVWM)
 - [Gary Numan - Where I Can Never Be](https://www.youtube.com/watch?v=ByyC1fQWUc8)
 - [Gary Numan - We're The Unforgiven](https://www.youtube.com/watch?v=3Zv04TSYTeY)
-- [Gary Numan - My Last Day](https://www.youtube.com/watch?v=uFrldNl6jq8)
+- [Gary Numan - Love Hurt Bleed](https://www.youtube.com/watch?v=46kXvXV42Qk)
 - [Gary Numan - I Am Dust](https://www.youtube.com/watch?v=iMAz9jofm_4)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-![Mothership by Led Zeppelin](mothership-7690309.jpg)
+{{< img src="mothership-7690309.jpg" title="Mothership by Led Zeppelin" >}}
 
 <!-- section break -->
 

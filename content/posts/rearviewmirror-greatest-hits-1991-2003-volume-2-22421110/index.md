@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Rearviewmirror (Greatest Hits 1991-2003: Volume 2) by Pearl Jam](rearviewmirror-greatest-hits-1991-2003-volume-2-22421110.jpg)
+{{< img src="rearviewmirror-greatest-hits-1991-2003-volume-2-22421110.jpg" title="Rearviewmirror (Greatest Hits 1991-2003: Volume 2) by Pearl Jam" >}}
 
 <!-- section break -->
 

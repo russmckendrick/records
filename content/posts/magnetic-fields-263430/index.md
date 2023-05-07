@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-![Magnetic Fields by Jean-Michel Jarre](magnetic-fields-263430.jpg)
+{{< img src="magnetic-fields-263430.jpg" title="Magnetic Fields by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -33,8 +33,8 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Jean Michel Jarre - Magnetic Fields I (Part 1) HD
-{{< youtube id="E7ZN0UBH2bI" title="Jean Michel Jarre - Magnetic Fields I (Part 1) HD" >}}<br>
+### Jean Michel Jarre - Magnetic Fields 2
+{{< youtube id="aibQMYOiofs" title="Jean Michel Jarre - Magnetic Fields 2" >}}<br>
 
 ### More Videos
 
@@ -72,7 +72,7 @@ styles: ["Ambient"]
 - [Magnetic Fields Part 1](https://www.youtube.com/watch?v=GM4ZKiZeBuY)
 - [Jean Michel Jarre - Magnetic Fields 1 (China 1981)](https://www.youtube.com/watch?v=l51VPwyyd5U)
 - [Jean Michel Jarre - Chants Magnetiques 2/Magnetic Fields Part 2 (New Version) (Edit) (HQ)](https://www.youtube.com/watch?v=vYycvi5RUrI)
-- [Jean Michel Jarre - Magnetic Fields 2](https://www.youtube.com/watch?v=aibQMYOiofs)
+- [Jean Michel Jarre - Magnetic Fields I (Part 1) HD](https://www.youtube.com/watch?v=E7ZN0UBH2bI)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
 
-![II by Dead Cross](ii-24964399.jpg)
+{{< img src="ii-24964399.jpg" title="II by Dead Cross" >}}
 
 <!-- section break -->
 
@@ -37,19 +37,19 @@ styles: ["Hardcore", "Heavy Metal"]
 
 
 ## Videos
-### Animal Espionage
-{{< youtube id="x91B4AUsY-8" title="Animal Espionage" >}}<br>
+### Imposter Syndrome
+{{< youtube id="eCBTd720Nng" title="Imposter Syndrome" >}}<br>
 
 ### More Videos
 
 - [Love Without Love](https://www.youtube.com/watch?v=GCPpZpRdjmw)
+- [Animal Espionage](https://www.youtube.com/watch?v=x91B4AUsY-8)
 - [Dead Cross Heart Reformer](https://www.youtube.com/watch?v=y5SmzDk4pSA)
 - [Strong and Wrong](https://www.youtube.com/watch?v=jx6Z67Iqyn4)
 - [Ants and Dragons](https://www.youtube.com/watch?v=3sufoDOJ2L0)
 - [Nightclub Canary](https://www.youtube.com/watch?v=lhEwmFPvFhY)
 - [Dead Cross Christian Missile Crisis](https://www.youtube.com/watch?v=28qhYvvDjjI)
 - [Dead Cross Reign Of Error](https://www.youtube.com/watch?v=4oEZq_JHwBg)
-- [Imposter Syndrome](https://www.youtube.com/watch?v=eCBTd720Nng)
 
 
 ## Release Information

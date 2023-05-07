@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![The Man Who Fell To Earth by Various](the-man-who-fell-to-earth-9399915.jpg)
+{{< img src="the-man-who-fell-to-earth-9399915.jpg" title="The Man Who Fell To Earth by Various" >}}
 
 <!-- section break -->
 
@@ -72,8 +72,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Memory Of Hiroshima (From The Man Who Fell To Earth Original Motion Picture)
-{{< youtube id="Y5Om21KwXg4" title="Memory Of Hiroshima (From The Man Who Fell To Earth Original Motion Picture)" >}}<br>
+### Jazz II
+{{< youtube id="aORe-176u-Y" title="Jazz II" >}}<br>
 
 ### More Videos
 
@@ -82,13 +82,13 @@ styles: ["Soundtrack"]
 - [The Man Who Fell To Earth Clip](https://www.youtube.com/watch?v=RThneDVsbvA)
 - [John Phillips - The Man Who Fell To Earth [Soundtrack Demo] 1976](https://www.youtube.com/watch?v=cwFMMCj4I2s)
 - [Window](https://www.youtube.com/watch?v=vOry3tMkOLw)
-- [Jazz II](https://www.youtube.com/watch?v=aORe-176u-Y)
 - [Space Capsule](https://www.youtube.com/watch?v=q1cxUMryoo8)
 - [Hello Mary Lou](https://www.youtube.com/watch?v=9LYjQ7NKBbo)
 - [Liar, Liar](https://www.youtube.com/watch?v=87IDXO1kiKY)
 - [America](https://www.youtube.com/watch?v=-wX53926e0s)
 - [Stomu Yamash'ta - Win Words [The Man Who Fell To Earth] David Bowie Nicolas Roeg](https://www.youtube.com/watch?v=Qe3la0LgiMs)
 - [Poker Dice (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=T3X60zZEyh0)
+- [Memory Of Hiroshima (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=Y5Om21KwXg4)
 - [Mandala (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=js0AhQ9dyec)
 - [One Way (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=SHcRIQcIPOg)
 

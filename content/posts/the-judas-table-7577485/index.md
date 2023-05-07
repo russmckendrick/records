@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![The Judas Table by Antimatter](the-judas-table-7577485.jpg)
+{{< img src="the-judas-table-7577485.jpg" title="The Judas Table by Antimatter" >}}
 
 <!-- section break -->
 
@@ -35,18 +35,18 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Antimatter - The Judas Table
-{{< youtube id="yIhighJ9S8s" title="Antimatter - The Judas Table" >}}<br>
+### Antimatter - Comrades
+{{< youtube id="uGP16Q-96pw" title="Antimatter - Comrades" >}}<br>
 
 ### More Videos
 
 - [Antimatter - Stillborn Empires [official music video]](https://www.youtube.com/watch?v=e06YDLbTNZA)
 - [Antimatter - Killer](https://www.youtube.com/watch?v=gCjimCfzhEI)
-- [Antimatter - Comrades](https://www.youtube.com/watch?v=uGP16Q-96pw)
 - [Antimatter - Little Piggy](https://www.youtube.com/watch?v=OkXWlqYC1s0)
 - [Antimatter - Hole](https://www.youtube.com/watch?v=fxB3AI9n_V4)
 - [Antimatter - Can of Worms](https://www.youtube.com/watch?v=icrO3PpFrW8)
 - [Antimatter - Integrity](https://www.youtube.com/watch?v=jtKFYIVqutc)
+- [Antimatter - The Judas Table](https://www.youtube.com/watch?v=yIhighJ9S8s)
 
 
 ## Release Information

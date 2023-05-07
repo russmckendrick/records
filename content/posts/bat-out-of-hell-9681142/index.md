@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Bat Out Of Hell by Meat Loaf](bat-out-of-hell-9681142.jpg)
+{{< img src="bat-out-of-hell-9681142.jpg" title="Bat Out Of Hell by Meat Loaf" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Two Out of Three Ain't Bad
-{{< youtube id="HVvXWUAKtus" title="Two Out of Three Ain't Bad" >}}<br>
+### Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)
+{{< youtube id="hkgXS5sotAM" title="Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)" >}}<br>
 
 ### More Videos
 
@@ -45,10 +45,10 @@ styles: ["Pop Rock"]
 - [You Took The Words Right Out of My Mouth (Hot Summer Night)](https://www.youtube.com/watch?v=HRZTRTPiIT4)
 - [Heaven Can Wait](https://www.youtube.com/watch?v=VJKm0KxQ2L4)
 - [All Revved Up with No Place to Go](https://www.youtube.com/watch?v=eWVmRvq50kQ)
+- [Two Out of Three Ain't Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)
 - [Paradise By the Dashboard Light](https://www.youtube.com/watch?v=a136H5K3OKw)
 - [For Crying Out Loud](https://www.youtube.com/watch?v=8KyHDNQkBSA)
 - [Great Boleros of Fire (Live Intro)](https://www.youtube.com/watch?v=6YBGsJtXtys)
-- [Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)](https://www.youtube.com/watch?v=hkgXS5sotAM)
 
 
 ## Release Information

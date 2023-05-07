@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Devil Hopping by Inspiral Carpets](devil-hopping-22846772.jpg)
+{{< img src="devil-hopping-22846772.jpg" title="Devil Hopping by Inspiral Carpets" >}}
 
 <!-- section break -->
 
@@ -40,21 +40,21 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Uniform
-{{< youtube id="0THP1NubPmI" title="Uniform" >}}<br>
+### Cobra
+{{< youtube id="uNs04lzdcMs" title="Cobra" >}}<br>
 
 ### More Videos
 
 - [Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)](https://www.youtube.com/watch?v=DPTpBoYVD8Q)
 - [Party in the Sky](https://www.youtube.com/watch?v=gyG00HOZ1fA)
 - [Plutoman](https://www.youtube.com/watch?v=ZirJBqyGWbE)
+- [Uniform](https://www.youtube.com/watch?v=0THP1NubPmI)
 - [Lovegrove](https://www.youtube.com/watch?v=8GCdt66PINI)
 - [Just Wednesday](https://www.youtube.com/watch?v=jxLfSG75gxg)
 - [Inspiral Carpets - Saturn 5](https://www.youtube.com/watch?v=03cy86u6Wi4)
 - [All of This and More](https://www.youtube.com/watch?v=tsRs5LwcUMA)
 - [The Way the Light Falls (feat. Basil Clarke)](https://www.youtube.com/watch?v=_9HSFatjkAo)
 - [Half Way There](https://www.youtube.com/watch?v=WYNQqFzxHrI)
-- [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
 - [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 
 

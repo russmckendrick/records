@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-![Theyesandeye by Louise Rhodes](theyesandeye-8812487.jpg)
+{{< img src="theyesandeye-8812487.jpg" title="Theyesandeye by Louise Rhodes" >}}
 
 <!-- section break -->
 
@@ -36,15 +36,15 @@ styles: ["Folk"]
 
 
 ## Videos
-### Sea Organ
-{{< youtube id="iFHjVrLQkkM" title="Sea Organ" >}}<br>
+### Hope & Glory
+{{< youtube id="CNp7BhdRXpI" title="Hope & Glory" >}}<br>
 
 ### More Videos
 
 - [Angels](https://www.youtube.com/watch?v=SKMX6PlDXC4)
 - [Full Moon](https://www.youtube.com/watch?v=OwB7wrcIiz4)
-- [Hope & Glory](https://www.youtube.com/watch?v=CNp7BhdRXpI)
 - [Them](https://www.youtube.com/watch?v=KRCRpnshFs4)
+- [Sea Organ](https://www.youtube.com/watch?v=iFHjVrLQkkM)
 - [Sun & Moon](https://www.youtube.com/watch?v=YW_cFvutyl4)
 - [Never Forget](https://www.youtube.com/watch?v=1RNvvh54Z-E)
 - [Magic Ride](https://www.youtube.com/watch?v=TAPADzBL3jk)

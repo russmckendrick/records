@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![In Absentia by Porcupine Tree](in-absentia-11632553.jpg)
+{{< img src="in-absentia-11632553.jpg" title="In Absentia by Porcupine Tree" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Drown With Me [Remastered]
-{{< youtube id="VsG5tIBUk6Y" title="Drown With Me [Remastered]" >}}<br>
+### Porcupine Tree - In Absentia
+{{< youtube id="U8sfqB0J7i4" title="Porcupine Tree - In Absentia" >}}<br>
 
 ### More Videos
 
-- [Porcupine Tree - In Absentia](https://www.youtube.com/watch?v=U8sfqB0J7i4)
 - [Collapse [Intro - Remastered]](https://www.youtube.com/watch?v=-8JbDjln3rc)
+- [Drown With Me [Remastered]](https://www.youtube.com/watch?v=VsG5tIBUk6Y)
 - [Orchidia [Remastered]](https://www.youtube.com/watch?v=LjbYGYqVSx8)
 - [Chloroform [Remastered]](https://www.youtube.com/watch?v=3GVBLqa8JMM)
 - [Futile [Remastered]](https://www.youtube.com/watch?v=YN-N_YSXhcg)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-![Virus by Haken](virus-15637222.jpg)
+{{< img src="virus-15637222.jpg" title="Virus by Haken" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Carousel
-{{< youtube id="84G_kyB9TDo" title="Carousel" >}}<br>
+### The Strain
+{{< youtube id="8gVsg6Whnoo" title="The Strain" >}}<br>
 
 ### More Videos
 
 - [HAKEN - Prosthetic (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=4EmbYo65Pbs)
 - [Invasion](https://www.youtube.com/watch?v=9XvK6cMoVu0)
-- [The Strain](https://www.youtube.com/watch?v=8gVsg6Whnoo)
+- [Carousel](https://www.youtube.com/watch?v=84G_kyB9TDo)
 - [Messiah Complex I: Ivory Tower](https://www.youtube.com/watch?v=8RScoWKlza0)
 - [Messiah Complex Ii: a Glutton for Punishment](https://www.youtube.com/watch?v=ARxTP7BUnFg)
 - [Messiah Complex III: Marigold](https://www.youtube.com/watch?v=KcgmiMkpbO0)

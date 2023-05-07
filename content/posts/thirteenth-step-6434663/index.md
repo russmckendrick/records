@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Thirteenth Step by A Perfect Circle](thirteenth-step-6434663.jpg)
+{{< img src="thirteenth-step-6434663.jpg" title="Thirteenth Step by A Perfect Circle" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### A Perfect Circle - Weak and Powerless
-{{< youtube id="s-GsLh6dazI" title="A Perfect Circle - Weak and Powerless" >}}<br>
+### The Package
+{{< youtube id="m2Yhn6-jJPE" title="The Package" >}}<br>
 
 ### More Videos
 
-- [The Package](https://www.youtube.com/watch?v=m2Yhn6-jJPE)
+- [A Perfect Circle - Weak and Powerless](https://www.youtube.com/watch?v=s-GsLh6dazI)
 - [Blue](https://www.youtube.com/watch?v=6sU_Ra-u5J0)
 - [A Perfect Circle - Outsider (Director's Cut)](https://www.youtube.com/watch?v=KO3l733WRN0)
 - [07. The Outsider - A Perfect Circle](https://www.youtube.com/watch?v=nzyNWyZhUS0)

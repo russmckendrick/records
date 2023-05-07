@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Rock & Roll"]
 ---
 
-![Rockin' All Over The World by Status Quo](rockin-all-over-the-world-7581010.jpg)
+{{< img src="rockin-all-over-the-world-7581010.jpg" title="Rockin' All Over The World by Status Quo" >}}
 
 <!-- section break -->
 

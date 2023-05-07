@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Dead Flowers Reject by Mansun](the-dead-flowers-reject-15836648.jpg)
+{{< img src="the-dead-flowers-reject-15836648.jpg" title="The Dead Flowers Reject by Mansun" >}}
 
 <!-- section break -->
 

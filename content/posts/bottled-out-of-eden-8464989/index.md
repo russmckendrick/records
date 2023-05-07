@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
 
-![Bottled Out Of Eden by Knifeworld](bottled-out-of-eden-8464989.jpg)
+{{< img src="bottled-out-of-eden-8464989.jpg" title="Bottled Out Of Eden by Knifeworld" >}}
 
 <!-- section break -->
 

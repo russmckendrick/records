@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 ---
 
-![Redlight by The Slackers](redlight-10018831.jpg)
+{{< img src="redlight-10018831.jpg" title="Redlight by The Slackers" >}}
 
 <!-- section break -->
 

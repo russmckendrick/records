@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop"]
 ---
 
-![Healing by Todd Rundgren](healing-1693004.jpg)
+{{< img src="healing-1693004.jpg" title="Healing by Todd Rundgren" >}}
 
 <!-- section break -->
 

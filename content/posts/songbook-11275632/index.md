@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-![Songbook by Frank Turner](songbook-11275632.jpg)
+{{< img src="songbook-11275632.jpg" title="Songbook by Frank Turner" >}}
 
 <!-- section break -->
 

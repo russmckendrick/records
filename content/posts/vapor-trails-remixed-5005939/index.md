@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Vapor Trails Remixed by Rush](vapor-trails-remixed-5005939.jpg)
+{{< img src="vapor-trails-remixed-5005939.jpg" title="Vapor Trails Remixed by Rush" >}}
 
 <!-- section break -->
 

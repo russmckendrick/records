@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-![Sublime by Sublime](sublime-8687804.jpg)
+{{< img src="sublime-8687804.jpg" title="Sublime by Sublime" >}}
 
 <!-- section break -->
 
@@ -45,18 +45,18 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Sublime - Santeria (Official Music Video)
-{{< youtube id="AEYN5w4T_aM" title="Sublime - Santeria (Official Music Video)" >}}<br>
+### Sublime - Pawn Shop (Official Video)
+{{< youtube id="gAQ7fGXHFJ8" title="Sublime - Pawn Shop (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Sublime - Seed (Official Video)](https://www.youtube.com/watch?v=_dC48Y4Fk34)
 - [Sublime - What I Got (Official Music Video)](https://www.youtube.com/watch?v=0Uc3ZrmhDN4)
+- [Sublime - Santeria (Official Music Video)](https://www.youtube.com/watch?v=AEYN5w4T_aM)
 - [Sublime - Wrong Way (Official Video)](https://www.youtube.com/watch?v=uLifSFBs_Lk)
 - [Sublime - Same In The End (Official Video)](https://www.youtube.com/watch?v=XINAJ7jgg6Y)
 - [Sublime - Garden Grove](https://www.youtube.com/watch?v=qpSo_zj0UQw)
 - [Sublime - Doin' Time (Official Video)](https://www.youtube.com/watch?v=2yT8RsCarJA)
-- [Sublime - Pawn Shop (Official Video)](https://www.youtube.com/watch?v=gAQ7fGXHFJ8)
 
 
 ## Release Information

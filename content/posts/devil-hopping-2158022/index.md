@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 ---
 
-![Devil Hopping by Inspiral Carpets](devil-hopping-2158022.jpg)
+{{< img src="devil-hopping-2158022.jpg" title="Devil Hopping by Inspiral Carpets" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 
 
 ## Videos
-### Plutoman
-{{< youtube id="ZirJBqyGWbE" title="Plutoman" >}}<br>
+### Party in the Sky
+{{< youtube id="gyG00HOZ1fA" title="Party in the Sky" >}}<br>
 
 ### More Videos
 
 - [Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)](https://www.youtube.com/watch?v=DPTpBoYVD8Q)
-- [Party in the Sky](https://www.youtube.com/watch?v=gyG00HOZ1fA)
+- [Plutoman](https://www.youtube.com/watch?v=ZirJBqyGWbE)
 - [Uniform](https://www.youtube.com/watch?v=0THP1NubPmI)
 - [Lovegrove](https://www.youtube.com/watch?v=8GCdt66PINI)
 - [Just Wednesday](https://www.youtube.com/watch?v=jxLfSG75gxg)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Classic Rock"]
 ---
 
-![The Wall by Pink Floyd](the-wall-8961614.jpg)
+{{< img src="the-wall-8961614.jpg" title="The Wall by Pink Floyd" >}}
 
 <!-- section break -->
 

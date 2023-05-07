@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
 
-![The Singles by The Bluetones](the-singles-13954056.jpg)
+{{< img src="the-singles-13954056.jpg" title="The Singles by The Bluetones" >}}
 
 <!-- section break -->
 
@@ -44,15 +44,15 @@ styles: ["Soft Rock"]
 
 
 ## Videos
-### The Bluetones | The Singles Commercial (2002)
-{{< youtube id="pxA_ESHkE4o" title="The Bluetones | The Singles Commercial (2002)" >}}<br>
+### Keep the Home Fires Burning | The Bluetones (2000)
+{{< youtube id="mNRgUARwQe8" title="Keep the Home Fires Burning | The Bluetones (2000)" >}}<br>
 
 ### More Videos
 
+- [The Bluetones | The Singles Commercial (2002)](https://www.youtube.com/watch?v=pxA_ESHkE4o)
 - [The Bluetones - Are You Blue Or Are You Blind? (Official Video) HD](https://www.youtube.com/watch?v=YjNQaEzc1iI)
 - [The Bluetones - Bluetonic (Official Video) HD](https://www.youtube.com/watch?v=1l_xCy86MLI)
 - [The Bluetones - Slight Return](https://www.youtube.com/watch?v=B-3UpL6MkZ0)
-- [Keep the Home Fires Burning | The Bluetones (2000)](https://www.youtube.com/watch?v=mNRgUARwQe8)
 
 
 ## Release Information

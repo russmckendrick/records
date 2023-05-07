@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Glam"]
 ---
 
-![[Five Years 1969 - 1973] by David Bowie](five-years-1969-1973-7521520.jpg)
+{{< img src="five-years-1969-1973-7521520.jpg" title="[Five Years 1969 - 1973] by David Bowie" >}}
 
 <!-- section break -->
 

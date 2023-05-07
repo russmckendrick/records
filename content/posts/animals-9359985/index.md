@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Animals by Pink Floyd](animals-9359985.jpg)
+{{< img src="animals-9359985.jpg" title="Animals by Pink Floyd" >}}
 
 <!-- section break -->
 

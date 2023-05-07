@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Progressive Metal", "Symphonic Rock"]
 ---
 
-![Empath by Devin Townsend](empath-13421381.jpg)
+{{< img src="empath-13421381.jpg" title="Empath by Devin Townsend" >}}
 
 <!-- section break -->
 
@@ -48,13 +48,12 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 
 
 ## Videos
-### Evermore
-{{< youtube id="V2-cKI34bpU" title="Evermore" >}}<br>
+### Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition
+{{< youtube id="ZDrwCSoia6M" title="Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition" >}}<br>
 
 ### More Videos
 
 - [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
-- [Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition](https://www.youtube.com/watch?v=ZDrwCSoia6M)
 - [Sprite](https://www.youtube.com/watch?v=HsPqxO7lVaM)
 - [Hear Me](https://www.youtube.com/watch?v=NOoBfVFQdQg)
 - [Why?](https://www.youtube.com/watch?v=Ob8IsKzRPwg)
@@ -65,6 +64,7 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 - [Requiem](https://www.youtube.com/watch?v=9pks_5P-hlQ)
 - [Castaway](https://www.youtube.com/watch?v=XrEGBV1zQGY)
 - [Gulag (Demo)](https://www.youtube.com/watch?v=WKzaSSPooeI)
+- [Evermore](https://www.youtube.com/watch?v=V2-cKI34bpU)
 - [Borderlands](https://www.youtube.com/watch?v=J52C4Z7uya0)
 
 

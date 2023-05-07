@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 ---
 
-![The Platinum Collection by Queen](the-platinum-collection-23601854.jpg)
+{{< img src="the-platinum-collection-23601854.jpg" title="The Platinum Collection by Queen" >}}
 
 <!-- section break -->
 

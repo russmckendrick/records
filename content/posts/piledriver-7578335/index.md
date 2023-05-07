@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-![Piledriver by Status Quo](piledriver-7578335.jpg)
+{{< img src="piledriver-7578335.jpg" title="Piledriver by Status Quo" >}}
 
 <!-- section break -->
 

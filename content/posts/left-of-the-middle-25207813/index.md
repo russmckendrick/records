@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Vocal"]
 ---
 
-![Left Of The Middle by Natalie Imbruglia](left-of-the-middle-25207813.jpg)
+{{< img src="left-of-the-middle-25207813.jpg" title="Left Of The Middle by Natalie Imbruglia" >}}
 
 <!-- section break -->
 
@@ -40,20 +40,20 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 
 
 ## Videos
-### Natalie Imbruglia - Leave Me Alone
-{{< youtube id="xqDlLpPV2PA" title="Natalie Imbruglia - Leave Me Alone" >}}<br>
+### Natalie Imbruglia   Left of the Middle
+{{< youtube id="oE9FGK-J9jA" title="Natalie Imbruglia   Left of the Middle" >}}<br>
 
 ### More Videos
 
 - [Natalie Imbruglia - Torn (Official Video) [HD Remastered]](https://www.youtube.com/watch?v=xSZBIs0gs0E)
 - [Natalie Imbruglia - Torn (Video 4K Remastered)](https://www.youtube.com/watch?v=sOY5314LyEY)
+- [Natalie Imbruglia - Leave Me Alone](https://www.youtube.com/watch?v=xqDlLpPV2PA)
 - [Natalie Imbruglia Wishing I Was There Music Video, 1997](https://www.youtube.com/watch?v=mSkNhZQo8h0)
 - [Natalie Imbruglia - Big Mistake (Video 4K Remastered)](https://www.youtube.com/watch?v=ejZmfnRTdME)
 - [Wishing I Was There](https://www.youtube.com/watch?v=3_KiTA7o1Kw)
 - [Natalie Imbruglia - Smoke](https://www.youtube.com/watch?v=JzbjYNUak4I)
 - [Natalie Imbruglia - Torn (Official Video)](https://www.youtube.com/watch?v=VV1XWJN3nJo)
 - [Natalie Imbruglia - Wishing I Was There (Video UK Version) [4K Remastered]](https://www.youtube.com/watch?v=byBOtfWdfZY)
-- [Natalie Imbruglia   Left of the Middle](https://www.youtube.com/watch?v=oE9FGK-J9jA)
 - [One More Addiction](https://www.youtube.com/watch?v=-hOVpna9DDg)
 - [Natalie Imbruglia - Wishing I Was There (Video (US Version)) [4K Remastered]](https://www.youtube.com/watch?v=Fu4_5e1skTM)
 - [Natalie Imbruglia - Big Mistake (Video (SFX Version))](https://www.youtube.com/watch?v=8Jg4VSp7GG0)

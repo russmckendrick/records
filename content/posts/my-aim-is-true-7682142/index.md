@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![My Aim Is True by Elvis Costello](my-aim-is-true-7682142.jpg)
+{{< img src="my-aim-is-true-7682142.jpg" title="My Aim Is True by Elvis Costello" >}}
 
 <!-- section break -->
 
@@ -41,13 +41,12 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Waiting For The End Of The World
-{{< youtube id="pgIR3GU_5sw" title="Waiting For The End Of The World" >}}<br>
+### Miracle Man
+{{< youtube id="O2Jso4D-caQ" title="Miracle Man" >}}<br>
 
 ### More Videos
 
 - [Welcome To The Working Week](https://www.youtube.com/watch?v=FJTIIfhk2k4)
-- [Miracle Man](https://www.youtube.com/watch?v=O2Jso4D-caQ)
 - [No Dancing](https://www.youtube.com/watch?v=7d2KdzBf8yI)
 - [Blame It On Cain](https://www.youtube.com/watch?v=HfHaI7rVp9g)
 - [Alison](https://www.youtube.com/watch?v=XTtopI620ZU)
@@ -57,6 +56,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Mystery Dance](https://www.youtube.com/watch?v=Dhkx6CAEXfU)
 - [Pay It Back (\)](https://www.youtube.com/watch?v=0SEu2e12x1w)
 - [I'm Not Angry](https://www.youtube.com/watch?v=AyGXSW-9x8I)
+- [Waiting For The End Of The World](https://www.youtube.com/watch?v=pgIR3GU_5sw)
 
 
 ## Release Information

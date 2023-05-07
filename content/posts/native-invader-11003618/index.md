@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Alternative Rock", "Ballad"]
 ---
 
-![Native Invader by Tori Amos](native-invader-11003618.jpg)
+{{< img src="native-invader-11003618.jpg" title="Native Invader by Tori Amos" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Acoustic", "Alternative Rock", "Ballad"]
 
 
 ## Videos
-### Tori Amos - Reindeer King (Audio)
-{{< youtube id="ub0yooZAGOA" title="Tori Amos - Reindeer King (Audio)" >}}<br>
+### Tori Amos - Cloud Riders (Audio)
+{{< youtube id="DmVvSjVFh28" title="Tori Amos - Cloud Riders (Audio)" >}}<br>
 
 ### More Videos
 
-- [Tori Amos - Cloud Riders (Audio)](https://www.youtube.com/watch?v=DmVvSjVFh28)
+- [Tori Amos - Reindeer King (Audio)](https://www.youtube.com/watch?v=ub0yooZAGOA)
 
 
 ## Release Information

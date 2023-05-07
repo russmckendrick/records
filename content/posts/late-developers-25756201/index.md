@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
 
-![Late Developers by Belle & Sebastian](late-developers-25756201.jpg)
+{{< img src="late-developers-25756201.jpg" title="Late Developers by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -39,18 +39,18 @@ styles: ["Indie Rock", "Indie Pop"]
 
 
 ## Videos
-### Belle and Sebastian- When We Were Very Young (Official Audio)
-{{< youtube id="thV-lSwQJS8" title="Belle and Sebastian- When We Were Very Young (Official Audio)" >}}<br>
+### Belle and Sebastian- When You’re Not With Me (Official Audio)
+{{< youtube id="qzhRidZTMy0" title="Belle and Sebastian- When You’re Not With Me (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Belle and Sebastian- Juliet Naked (Official Audio)](https://www.youtube.com/watch?v=SJzsPJNs8fg)
 - [Belle and Sebastian- I Don't Know What You See in Me (Official Music Video)](https://www.youtube.com/watch?v=dgao0WD5g48)
 - [Belle and Sebastian- Give A Little Time (Official Audio)](https://www.youtube.com/watch?v=YaAoBKgasV8)
+- [Belle and Sebastian- When We Were Very Young (Official Audio)](https://www.youtube.com/watch?v=thV-lSwQJS8)
 - [Belle and Sebastian- Will I Tell You A Secret (Official Audio)](https://www.youtube.com/watch?v=L8YuF2lk2MU)
 - [Belle and Sebastian- So In The Moment (Official Audio)](https://www.youtube.com/watch?v=gzB1f4GBI3k)
 - [Belle and Sebastian- The Evening Star (Official Audio)](https://www.youtube.com/watch?v=jjUOpbSK8ys)
-- [Belle and Sebastian- When You’re Not With Me (Official Audio)](https://www.youtube.com/watch?v=qzhRidZTMy0)
 - [I Don't Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
 - [Belle and Sebastian- Do You Follow (Official Audio)](https://www.youtube.com/watch?v=eI3GFFR7bPE)
 - [Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)

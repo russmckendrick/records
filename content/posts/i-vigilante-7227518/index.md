@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
 
-![I, Vigilante by Crippled Black Phoenix](i-vigilante-7227518.jpg)
+{{< img src="i-vigilante-7227518.jpg" title="I, Vigilante by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 

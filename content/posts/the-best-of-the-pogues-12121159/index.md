@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Folk Rock"]
 ---
 
-![The Best Of The Pogues by The Pogues](the-best-of-the-pogues-12121159.jpg)
+{{< img src="the-best-of-the-pogues-12121159.jpg" title="The Best Of The Pogues by The Pogues" >}}
 
 <!-- section break -->
 

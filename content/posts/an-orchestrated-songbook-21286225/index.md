@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ---
 
-![An Orchestrated Songbook by Paul Weller](an-orchestrated-songbook-21286225.jpg)
+{{< img src="an-orchestrated-songbook-21286225.jpg" title="An Orchestrated Songbook by Paul Weller" >}}
 
 <!-- section break -->
 

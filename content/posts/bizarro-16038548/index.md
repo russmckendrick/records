@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Bizarro by The Wedding Present](bizarro-16038548.jpg)
+{{< img src="bizarro-16038548.jpg" title="Bizarro by The Wedding Present" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### What Have I Said Now?
-{{< youtube id="BTHl_JYqWpE" title="What Have I Said Now?" >}}<br>
+### No
+{{< youtube id="Rww6zqqTh7A" title="No" >}}<br>
 
 ### More Videos
 
+- [What Have I Said Now?](https://www.youtube.com/watch?v=BTHl_JYqWpE)
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
 - [What Have I Said Now?](https://www.youtube.com/watch?v=l-66q31s1Uw)
 - [THE WEDDING PRESENT - GRANADALAND](https://www.youtube.com/watch?v=XfAn-bo_2pA)
 - [Bewitched](https://www.youtube.com/watch?v=yJhcnWIrF7I)
 - [Be Honest](https://www.youtube.com/watch?v=HfNduoq-Gz8)
-- [No](https://www.youtube.com/watch?v=Rww6zqqTh7A)
 
 
 ## Release Information

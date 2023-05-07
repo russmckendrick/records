@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![Midnight At The Movies by Justin Townes Earle](midnight-at-the-movies-2414977.jpg)
+{{< img src="midnight-at-the-movies-2414977.jpg" title="Midnight At The Movies by Justin Townes Earle" >}}
 
 <!-- section break -->
 

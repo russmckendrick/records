@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Marbles by Marillion](marbles-10716478.jpg)
+{{< img src="marbles-10716478.jpg" title="Marbles by Marillion" >}}
 
 <!-- section break -->
 
@@ -43,12 +43,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Marbles Iii
-{{< youtube id="_rfBi07AvKI" title="Marbles Iii" >}}<br>
+### Marbles I
+{{< youtube id="7GHSOH6x9eg" title="Marbles I" >}}<br>
 
 ### More Videos
 
-- [Marbles I](https://www.youtube.com/watch?v=7GHSOH6x9eg)
+- [Marbles Iii](https://www.youtube.com/watch?v=_rfBi07AvKI)
 
 
 ## Release Information

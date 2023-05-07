@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Beat", "Rock & Roll", "Pop Rock", "Psychedelic Rock"]
 ---
 
-![The Beatles by The Beatles](the-beatles-4030692.jpg)
+{{< img src="the-beatles-4030692.jpg" title="The Beatles by The Beatles" >}}
 
 <!-- section break -->
 

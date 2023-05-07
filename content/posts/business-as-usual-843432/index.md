@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Business As Usual by Men At Work](business-as-usual-843432.jpg)
+{{< img src="business-as-usual-843432.jpg" title="Business As Usual by Men At Work" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Men At Work - Down Under (Video)
-{{< youtube id="XfR9iY5y94s" title="Men At Work - Down Under (Video)" >}}<br>
+### Men At Work - Who Can It Be Now? (Video Version)
+{{< youtube id="SECVGN4Bsgg" title="Men At Work - Who Can It Be Now? (Video Version)" >}}<br>
 
 ### More Videos
 
+- [Men At Work - Down Under (Video)](https://www.youtube.com/watch?v=XfR9iY5y94s)
 - [Men At Work - Be Good Johnny (Official Music Video)](https://www.youtube.com/watch?v=74dvJVwGA6Y)
-- [Men At Work - Who Can It Be Now? (Video Version)](https://www.youtube.com/watch?v=SECVGN4Bsgg)
 
 
 ## Release Information

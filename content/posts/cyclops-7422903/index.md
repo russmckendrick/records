@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Cyclops by King Crimson](cyclops-7422903.jpg)
+{{< img src="cyclops-7422903.jpg" title="Cyclops by King Crimson" >}}
 
 <!-- section break -->
 

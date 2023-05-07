@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-![Ice Hockey Hair EP by Super Furry Animals](ice-hockey-hair-ep-19111489.jpg)
+{{< img src="ice-hockey-hair-ep-19111489.jpg" title="Ice Hockey Hair EP by Super Furry Animals" >}}
 
 <!-- section break -->
 
@@ -29,12 +29,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Ice Hockey Hair
-{{< youtube id="QO-TzvE8gOU" title="Ice Hockey Hair" >}}<br>
+### Super Furry Animals - Ice Hockey Hair
+{{< youtube id="o2gh5kzeTPk" title="Super Furry Animals - Ice Hockey Hair" >}}<br>
 
 ### More Videos
 
-- [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
+- [Ice Hockey Hair](https://www.youtube.com/watch?v=QO-TzvE8gOU)
 - [Super Furry Animals - Smokin'](https://www.youtube.com/watch?v=kSThnmNv9f4)
 - [Smokin'](https://www.youtube.com/watch?v=A8MIKyYh600)
 

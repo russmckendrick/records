@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![(Brawd Bach) Rings Around The World by Super Furry Animals](brawd-bach-rings-around-the-world-23612801.jpg)
+{{< img src="brawd-bach-rings-around-the-world-23612801.jpg" title="(Brawd Bach) Rings Around The World by Super Furry Animals" >}}
 
 <!-- section break -->
 

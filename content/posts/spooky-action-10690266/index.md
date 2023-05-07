@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
 
-![Spooky Action by Paul Draper](spooky-action-10690266.jpg)
+{{< img src="spooky-action-10690266.jpg" title="Spooky Action by Paul Draper" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Indie Rock", "Prog Rock"]
 
 
 ## Videos
-### Paul Draper - Jealousy Is A Powerful Emotion
-{{< youtube id="fGbqK0wPVwk" title="Paul Draper - Jealousy Is A Powerful Emotion" >}}<br>
+### Paul Draper - Don't Poke The Bear
+{{< youtube id="22WfZ8vM-r0" title="Paul Draper - Don't Poke The Bear" >}}<br>
 
 ### More Videos
 
-- [Paul Draper - Don't Poke The Bear](https://www.youtube.com/watch?v=22WfZ8vM-r0)
+- [Paul Draper - Jealousy Is A Powerful Emotion](https://www.youtube.com/watch?v=fGbqK0wPVwk)
 
 
 ## Release Information

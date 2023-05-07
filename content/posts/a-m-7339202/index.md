@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Country Rock", "Indie Rock"]
 ---
 
-![A.M. by Wilco](a-m-7339202.jpg)
+{{< img src="a-m-7339202.jpg" title="A.M. by Wilco" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,14 @@ styles: ["Country Rock", "Indie Rock"]
 
 
 ## Videos
-### It's Just That Simple
-{{< youtube id="XQShhqEahXg" title="It's Just That Simple" >}}<br>
+### Wilco - I Must Be High (Video)
+{{< youtube id="Fw730Mvz8o8" title="Wilco - I Must Be High (Video)" >}}<br>
 
 ### More Videos
 
-- [Wilco - I Must Be High (Video)](https://www.youtube.com/watch?v=Fw730Mvz8o8)
 - [Wilco - Box Full Of Letters (Video)](https://www.youtube.com/watch?v=7gyZw5tvAhI)
 - [Pick up the Change](https://www.youtube.com/watch?v=RMbAX47uELI)
+- [It's Just That Simple](https://www.youtube.com/watch?v=XQShhqEahXg)
 - [Should've Been in Love](https://www.youtube.com/watch?v=_pZcXzviD3U)
 - [Passenger Side](https://www.youtube.com/watch?v=wZtGlbrFMyc)
 

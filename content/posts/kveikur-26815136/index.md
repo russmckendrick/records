@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-![Kveikur by Sigur Rós](kveikur-26815136.jpg)
+{{< img src="kveikur-26815136.jpg" title="Kveikur by Sigur Rós" >}}
 
 <!-- section break -->
 

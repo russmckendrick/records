@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Distant Satellites by Anathema](distant-satellites-5766148.jpg)
+{{< img src="distant-satellites-5766148.jpg" title="Distant Satellites by Anathema" >}}
 
 <!-- section break -->
 

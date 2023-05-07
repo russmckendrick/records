@@ -14,7 +14,7 @@ genres: ["Rock", "Non-Music"]
 styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 ---
 
-![Glitter And Doom Live by Tom Waits](glitter-and-doom-live-11273241.jpg)
+{{< img src="glitter-and-doom-live-11273241.jpg" title="Glitter And Doom Live by Tom Waits" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
 
-![All Souls by Siouxsie & The Banshees](all-souls-24895265.jpg)
+{{< img src="all-souls-24895265.jpg" title="All Souls by Siouxsie & The Banshees" >}}
 
 <!-- section break -->
 
@@ -35,13 +35,13 @@ styles: ["Post-Punk", "New Wave"]
 
 
 ## Videos
-### Siouxsie and the Banshees - Halloween - vinyl rip All Souls
-{{< youtube id="6bUiifyHZYw" title="Siouxsie and the Banshees - Halloween - vinyl rip All Souls" >}}<br>
+### Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls
+{{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}<br>
 
 ### More Videos
 
-- [Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls](https://www.youtube.com/watch?v=XmEasAdZo7s)
 - [Siouxsie and the Banshees - El Dia de los Muertos - vinyl rip All Souls](https://www.youtube.com/watch?v=rAVxdM6khWY)
+- [Siouxsie and the Banshees - Halloween - vinyl rip All Souls](https://www.youtube.com/watch?v=6bUiifyHZYw)
 - [Siouxsie and the Banshees - Rawhead and Bloodybones - vinyl rip All Souls](https://www.youtube.com/watch?v=qBFYD0EQR1s)
 - [Siouxsie and the Banshees - Something Wicked This Way Comes - vinyl rip All Souls](https://www.youtube.com/watch?v=6B8jL8T9OM4)
 - [Siouxsie and the Banshees - Peek-A-Boo - vinyl rip All Souls](https://www.youtube.com/watch?v=3hdVQOzAGog)

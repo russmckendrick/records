@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![The Low Highway by Steve Earle & The Dukes (And Duchesses)](the-low-highway-4470602.jpg)
+{{< img src="the-low-highway-4470602.jpg" title="The Low Highway by Steve Earle & The Dukes (And Duchesses)" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: []
 
 
 ## Videos
-### Pocket Full of Rain
-{{< youtube id="OL7TI5BdZNk" title="Pocket Full of Rain" >}}<br>
+### Steve Earle & The Dukes (& Duchesses) - Remember Me
+{{< youtube id="QRQZnhgVgC8" title="Steve Earle & The Dukes (& Duchesses) - Remember Me" >}}<br>
 
 ### More Videos
 
 - [01 The Low Highway - Steve Earle & the Dukes (and Duchesses)](https://www.youtube.com/watch?v=JZXoKw0YBFg)
-- [Steve Earle & The Dukes (& Duchesses) - Remember Me](https://www.youtube.com/watch?v=QRQZnhgVgC8)
+- [Pocket Full of Rain](https://www.youtube.com/watch?v=OL7TI5BdZNk)
 - [Steve Earle & The Dukes (& Duchesses) - Invisible [Official Music Video]](https://www.youtube.com/watch?v=w_AZmBT4wWI)
 
 

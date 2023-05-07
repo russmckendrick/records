@@ -14,7 +14,7 @@ genres: ["Classical"]
 styles: ["Contemporary"]
 ---
 
-![Odin's Raven Magic by Sigur Rós](odin-s-raven-magic-16306752.jpg)
+{{< img src="odin-s-raven-magic-16306752.jpg" title="Odin's Raven Magic by Sigur Rós" >}}
 
 <!-- section break -->
 
@@ -36,15 +36,15 @@ styles: ["Contemporary"]
 
 
 ## Videos
-### Áss hinn hvíti (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...
-{{< youtube id="vJJAh5JLzs4" title="Áss hinn hvíti (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan..." >}}<br>
+### Spár eða spakmál (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...
+{{< youtube id="_b0JRt7KM_g" title="Spár eða spakmál (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan..." >}}<br>
 
 ### More Videos
 
 - [Prologus (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)](https://www.youtube.com/watch?v=Jbht20ZvEz4)
 - [Alföður orkar (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=FoqLscNxkwo)
+- [Áss hinn hvíti (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=vJJAh5JLzs4)
 - [Hvert stefnir (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=Mhnx1Hlgpfs)
-- [Spár eða spakmál (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=_b0JRt7KM_g)
 - [Dagrenning (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)](https://www.youtube.com/watch?v=G4O_X-U5nBQ)
 
 

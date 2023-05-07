@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Art Rock", "New Wave"]
 ---
 
-![Dizrythmia by Split Enz](dizrythmia-15348573.jpg)
+{{< img src="dizrythmia-15348573.jpg" title="Dizrythmia by Split Enz" >}}
 
 <!-- section break -->
 

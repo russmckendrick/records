@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Nevermind by Nirvana](nevermind-20914213.jpg)
+{{< img src="nevermind-20914213.jpg" title="Nevermind by Nirvana" >}}
 
 <!-- section break -->
 
@@ -43,14 +43,15 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Nirvana - Come As You Are (Official Music Video)
-{{< youtube id="vabnZ9-ex7o" title="Nirvana - Come As You Are (Official Music Video)" >}}<br>
+### Nirvana - Aneurysm
+{{< youtube id="y7TPnH5emFg" title="Nirvana - Aneurysm" >}}<br>
 
 ### More Videos
 
 - [Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)](https://www.youtube.com/watch?v=L1lTdnFQZw4)
 - [Nirvana - Smells Like Teen Spirit (Official Music Video)](https://www.youtube.com/watch?v=hTWKbfoikeg)
 - [Nirvana - In Bloom (Official Music Video)](https://www.youtube.com/watch?v=PbgKEjNBHqM)
+- [Nirvana - Come As You Are (Official Music Video)](https://www.youtube.com/watch?v=vabnZ9-ex7o)
 - [Nirvana - Breed (Audio)](https://www.youtube.com/watch?v=J6EDW5WFb2M)
 - [Nirvana - Lithium (Official Music Video)](https://www.youtube.com/watch?v=pkcJEvMcnEg)
 - [Nirvana - Polly (Audio)](https://www.youtube.com/watch?v=DrlaVYKWeLU)
@@ -62,7 +63,6 @@ styles: ["Alternative Rock", "Grunge"]
 - [Nirvana - Something In The Way (Audio)](https://www.youtube.com/watch?v=4VxdufqB9zg)
 - [Nirvana - Endless, Nameless (Audio)](https://www.youtube.com/watch?v=uj1PagCfejs)
 - [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)
-- [Nirvana - Aneurysm](https://www.youtube.com/watch?v=y7TPnH5emFg)
 
 
 ## Release Information

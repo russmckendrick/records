@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 ---
 
-![Less Is More by Marillion](less-is-more-14876195.jpg)
+{{< img src="less-is-more-14876195.jpg" title="Less Is More by Marillion" >}}
 
 <!-- section break -->
 

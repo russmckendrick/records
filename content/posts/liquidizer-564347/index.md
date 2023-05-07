@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
 
-![Liquidizer by Jesus Jones](liquidizer-564347.jpg)
+{{< img src="liquidizer-564347.jpg" title="Liquidizer by Jesus Jones" >}}
 
 <!-- section break -->
 
@@ -40,17 +40,17 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 
 
 ## Videos
-### Info Freako
-{{< youtube id="nxFXYO6vZ-I" title="Info Freako" >}}<br>
+### The Real World
+{{< youtube id="rs65gS-vcMo" title="The Real World" >}}<br>
 
 ### More Videos
 
 - [Move Mountains (Ben Chapman 7'' Mix)](https://www.youtube.com/watch?v=QSASBEasFXI)
 - [Never Enough](https://www.youtube.com/watch?v=3TbUIMloHlQ)
-- [The Real World](https://www.youtube.com/watch?v=rs65gS-vcMo)
 - [All The Answers](https://www.youtube.com/watch?v=GyNTQrFaVWM)
 - [What's Going On](https://www.youtube.com/watch?v=6yrnnT_GE6M)
 - [Song 13](https://www.youtube.com/watch?v=Ar0K_2wkX5Y)
+- [Info Freako](https://www.youtube.com/watch?v=nxFXYO6vZ-I)
 - [Bring It On Down](https://www.youtube.com/watch?v=ugCOnKCa3Fs)
 - [Too Much To Learn](https://www.youtube.com/watch?v=siRYodWXb2U)
 - [What Would You Know](https://www.youtube.com/watch?v=YulSlxsjpDY)

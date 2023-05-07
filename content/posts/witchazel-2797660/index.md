@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-![Witchazel by Matt Berry](witchazel-2797660.jpg)
+{{< img src="witchazel-2797660.jpg" title="Witchazel by Matt Berry" >}}
 
 <!-- section break -->
 
@@ -38,19 +38,19 @@ styles: []
 
 
 ## Videos
-### The Badger's Wake - Matt Berry
-{{< youtube id="QSp5LwN5Q68" title="The Badger's Wake - Matt Berry" >}}<br>
+### Look in My Book
+{{< youtube id="mJM7LZJtwU0" title="Look in My Book" >}}<br>
 
 ### More Videos
 
 - [MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)](https://www.youtube.com/watch?v=Rdqu-HObUbo)
 - [Matt Berry Roosting Time](https://www.youtube.com/watch?v=d3pPrdSh9Ds)
 - [Matt Berry - A Song for Rosie](https://www.youtube.com/watch?v=Cc5RKEPH1vo)
-- [Look in My Book](https://www.youtube.com/watch?v=mJM7LZJtwU0)
 - [An Awakening - Matt Berry](https://www.youtube.com/watch?v=uIeyGk2QPlg)
 - [Matt Berry Rain Came Down](https://www.youtube.com/watch?v=2E7r7vlJ_tU)
 - [Matt Berry Accident At A Harvest Festival](https://www.youtube.com/watch?v=VAagLPNneGQ)
 - [Matt Berry - Accident At A Harvest Festival](https://www.youtube.com/watch?v=PrUYWbjGevA)
+- [The Badger's Wake - Matt Berry](https://www.youtube.com/watch?v=QSp5LwN5Q68)
 - [Look In My Book - Matt Berry](https://www.youtube.com/watch?v=pNtbE2laRbs)
 - [Matt Berry's Comedy Voice](https://www.youtube.com/watch?v=xXmSlu1n5T4)
 - [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Experimental"]
 ---
 
-![Beautiful Garbage by Garbage](beautiful-garbage-20856595.jpg)
+{{< img src="beautiful-garbage-20856595.jpg" title="Beautiful Garbage by Garbage" >}}
 
 <!-- section break -->
 

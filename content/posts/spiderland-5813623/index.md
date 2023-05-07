@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Math Rock", "Post Rock"]
 ---
 
-![Spiderland by Slint](spiderland-5813623.jpg)
+{{< img src="spiderland-5813623.jpg" title="Spiderland by Slint" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Alternative Rock", "Math Rock", "Post Rock"]
 
 
 ## Videos
-### Good Morning, Captain
-{{< youtube id="CuqEpjcBfaU" title="Good Morning, Captain" >}}<br>
+### Breadcrumb Trail
+{{< youtube id="gBfoQjJ7guk" title="Breadcrumb Trail" >}}<br>
 
 ### More Videos
 
-- [Breadcrumb Trail](https://www.youtube.com/watch?v=gBfoQjJ7guk)
 - [Nosferatu Man](https://www.youtube.com/watch?v=5ugdrdFrhI0)
 - [Don, Aman](https://www.youtube.com/watch?v=qMHh02UhQhs)
 - [Washer](https://www.youtube.com/watch?v=nmL7rXt1fvI)
 - [For Dinner…](https://www.youtube.com/watch?v=oKINKblbx2s)
+- [Good Morning, Captain](https://www.youtube.com/watch?v=CuqEpjcBfaU)
 
 
 ## Release Information

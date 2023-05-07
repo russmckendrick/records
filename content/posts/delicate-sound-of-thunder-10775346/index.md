@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Delicate Sound Of Thunder by Pink Floyd](delicate-sound-of-thunder-10775346.jpg)
+{{< img src="delicate-sound-of-thunder-10775346.jpg" title="Delicate Sound Of Thunder by Pink Floyd" >}}
 
 <!-- section break -->
 

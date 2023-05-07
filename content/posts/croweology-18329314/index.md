@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
 
-![Croweology by The Black Crowes](croweology-18329314.jpg)
+{{< img src="croweology-18329314.jpg" title="Croweology by The Black Crowes" >}}
 
 <!-- section break -->
 
@@ -48,11 +48,12 @@ styles: ["Blues Rock", "Southern Rock"]
 
 
 ## Videos
-### Wiser Time
-{{< youtube id="bS5MwHiLqOQ" title="Wiser Time" >}}<br>
+### Soul Singing
+{{< youtube id="olVG7oKsWEo" title="Soul Singing" >}}<br>
 
 ### More Videos
 
+- [Wiser Time](https://www.youtube.com/watch?v=bS5MwHiLqOQ)
 - [Thorn in My Pride](https://www.youtube.com/watch?v=hbk8NM2XLbY)
 - [Morning Song](https://www.youtube.com/watch?v=l3BgyfsjgV0)
 - [Non-Fiction](https://www.youtube.com/watch?v=WI13i7SMsz4)
@@ -60,7 +61,6 @@ styles: ["Blues Rock", "Southern Rock"]
 - [Remedy](https://www.youtube.com/watch?v=uge7HKkF_Ro)
 - [Hotel Illness](https://www.youtube.com/watch?v=anxlw3cQyfk)
 - [She Talks to Angels](https://www.youtube.com/watch?v=B_8fDDIxbgs)
-- [Soul Singing](https://www.youtube.com/watch?v=olVG7oKsWEo)
 - [Ballad in Urgency](https://www.youtube.com/watch?v=sgfPKR5i9oc)
 
 

@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-![I Learned The Hard Way by Sharon Jones & The Dap-Kings](i-learned-the-hard-way-2214427.jpg)
+{{< img src="i-learned-the-hard-way-2214427.jpg" title="I Learned The Hard Way by Sharon Jones & The Dap-Kings" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### She Ain't a Child No More
-{{< youtube id="ca-9c_SfA6w" title="She Ain't a Child No More" >}}<br>
+### The Reason
+{{< youtube id="kGB4DrQg9ho" title="The Reason" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Better Things](https://www.youtube.com/watch?v=AxKl_1JAc9k)
 - [Give It Back](https://www.youtube.com/watch?v=z4TVU24aUq8)
 - [Money](https://www.youtube.com/watch?v=z7jsaXLN4Ks)
-- [The Reason](https://www.youtube.com/watch?v=kGB4DrQg9ho)
 - [Window Shopping - Sharon Jones & Dap Kings](https://www.youtube.com/watch?v=DOZD_zR4XsU)
+- [She Ain't a Child No More](https://www.youtube.com/watch?v=ca-9c_SfA6w)
 - [I'll Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
 - [Without a Heart](https://www.youtube.com/watch?v=TpBbS1fXhFs)
 - [If You Call](https://www.youtube.com/watch?v=XlenCIefJOM)

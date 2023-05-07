@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Stick Around For Joy by The Sugarcubes](stick-around-for-joy-11249956.jpg)
+{{< img src="stick-around-for-joy-11249956.jpg" title="Stick Around For Joy by The Sugarcubes" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Chihuahua
-{{< youtube id="09yDXvCRYmQ" title="Chihuahua" >}}<br>
+### Gold
+{{< youtube id="GMLOzVaiF0M" title="Gold" >}}<br>
 
 ### More Videos
 
-- [Gold](https://www.youtube.com/watch?v=GMLOzVaiF0M)
 - [Hit](https://www.youtube.com/watch?v=8dGVEvlJ3JY)
 - [Leash Called Love](https://www.youtube.com/watch?v=n8lS3e4WfzM)
 - [Lucky Night](https://www.youtube.com/watch?v=qrSU_sEJwVM)
@@ -52,6 +51,7 @@ styles: ["Indie Rock"]
 - [Walkabout](https://www.youtube.com/watch?v=NpvIj20Uo48)
 - [Hetero Scum](https://www.youtube.com/watch?v=Tce1CYTUGio)
 - [Vitamin](https://www.youtube.com/watch?v=o5SEHe_PrGI)
+- [Chihuahua](https://www.youtube.com/watch?v=09yDXvCRYmQ)
 
 
 ## Release Information

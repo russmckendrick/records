@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Joyride by Roxette](joyride-3178939.jpg)
+{{< img src="joyride-3178939.jpg" title="Joyride by Roxette" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Things Will Never Be The Same
-{{< youtube id="z90mwqX5Tus" title="Things Will Never Be The Same" >}}<br>
+### Roxette - Fading Like A Flower
+{{< youtube id="8fGLiIvKKys" title="Roxette - Fading Like A Flower" >}}<br>
 
 ### More Videos
 
 - [Roxette - Joyride (Official Video)](https://www.youtube.com/watch?v=xCorJG9mubk)
-- [Roxette - Fading Like A Flower](https://www.youtube.com/watch?v=8fGLiIvKKys)
 - [Roxette - The Big L](https://www.youtube.com/watch?v=P3BziGZOMcE)
 - [Roxette - Spending My Time](https://www.youtube.com/watch?v=eG0IYV6G0I0)
 - [Roxette - Church Of Your Heart](https://www.youtube.com/watch?v=25-FlwARl7o)
@@ -59,6 +58,7 @@ styles: ["Pop Rock"]
 - [Soul Deep (Joyride Version)](https://www.youtube.com/watch?v=NayWrQ76TyA)
 - [Small Talk](https://www.youtube.com/watch?v=nK3AJ20YoYU)
 - [Physical Fascination](https://www.youtube.com/watch?v=biXb9z50Gmc)
+- [Things Will Never Be The Same](https://www.youtube.com/watch?v=z90mwqX5Tus)
 - [Perfect Day](https://www.youtube.com/watch?v=tseui1QTurY)
 - [The Sweet Hello, The Sad Goodbye](https://www.youtube.com/watch?v=eutnh_ddgD8)
 - [Love Spins (T & A demo 3 Jan, 1990)](https://www.youtube.com/watch?v=0hxI5DPO1hQ)

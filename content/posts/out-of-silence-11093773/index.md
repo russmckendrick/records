@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Out Of Silence by Neil Finn](out-of-silence-11093773.jpg)
+{{< img src="out-of-silence-11093773.jpg" title="Out Of Silence by Neil Finn" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: []
 
 
 ## Videos
-### Neil Finn - Independence Day with the APO
-{{< youtube id="E0n85StFIeY" title="Neil Finn - Independence Day with the APO" >}}<br>
+### Alone
+{{< youtube id="pOnlqcHhiNI" title="Alone" >}}<br>
 
 ### More Videos
 
@@ -47,13 +47,13 @@ styles: []
 - [Neil Finn - More Than One Of You](https://www.youtube.com/watch?v=1jdyTtCy-zg)
 - [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=K1cq6xtzA3M)
 - [Neil Finn - Indepedence Day](https://www.youtube.com/watch?v=Azwa6xRYTQ4)
-- [Alone](https://www.youtube.com/watch?v=pOnlqcHhiNI)
 - [Neil Finn - Widows Peak](https://www.youtube.com/watch?v=6JfMUJZH3ow)
 - [Neil Finn - Second Nature](https://www.youtube.com/watch?v=9q7Jr0w5MLk)
 - [Neil Finn - The Law Is Always On Your Side](https://www.youtube.com/watch?v=1La1HACYsjc)
 - [Neil Finn - Terrorise Me](https://www.youtube.com/watch?v=tDcDVo89j7A)
 - [Neil Finn - I Know Different](https://www.youtube.com/watch?v=s_q03rRFPB8)
 - [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=0Fq7DMbsVSk)
+- [Neil Finn - Independence Day with the APO](https://www.youtube.com/watch?v=E0n85StFIeY)
 - [Neil Finn: The Infinity Sessions](https://www.youtube.com/watch?v=QbeEsFuJSVA)
 - [The Infinity Sessions: Week Two](https://www.youtube.com/watch?v=zXFnWk8VRA4)
 - [The Infinity Sessions: Week Three](https://www.youtube.com/watch?v=aw7M6X0zgaw)

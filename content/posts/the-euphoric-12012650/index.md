@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![The Euphoric by The Fierce & The Dead](the-euphoric-12012650.jpg)
+{{< img src="the-euphoric-12012650.jpg" title="The Euphoric by The Fierce & The Dead" >}}
 
 <!-- section break -->
 

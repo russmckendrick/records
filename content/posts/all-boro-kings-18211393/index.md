@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Funk Metal", "Hardcore"]
 ---
 
-![All Boro Kings by Dog Eat Dog](all-boro-kings-18211393.jpg)
+{{< img src="all-boro-kings-18211393.jpg" title="All Boro Kings by Dog Eat Dog" >}}
 
 <!-- section break -->
 

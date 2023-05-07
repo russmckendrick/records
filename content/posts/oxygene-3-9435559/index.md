@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Electro"]
 ---
 
-![Oxygene 3 by Jean-Michel Jarre](oxygene-3-9435559.jpg)
+{{< img src="oxygene-3-9435559.jpg" title="Oxygene 3 by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 

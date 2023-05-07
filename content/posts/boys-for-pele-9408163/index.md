@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Avantgarde"]
 ---
 
-![Boys For Pele by Tori Amos](boys-for-pele-9408163.jpg)
+{{< img src="boys-for-pele-9408163.jpg" title="Boys For Pele by Tori Amos" >}}
 
 <!-- section break -->
 
@@ -46,12 +46,12 @@ styles: ["Alternative Rock", "Avantgarde"]
 
 
 ## Videos
-### Tori Amos - Talula (The Tornado Mix) (Official Music Video)
-{{< youtube id="PgHlNeoAH1A" title="Tori Amos - Talula (The Tornado Mix) (Official Music Video)" >}}<br>
+### Tori Amos - Caught a Lite Sneeze (Official Music Video)
+{{< youtube id="weWtRqoSUOI" title="Tori Amos - Caught a Lite Sneeze (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Tori Amos - Caught a Lite Sneeze (Official Music Video)](https://www.youtube.com/watch?v=weWtRqoSUOI)
+- [Tori Amos - Talula (The Tornado Mix) (Official Music Video)](https://www.youtube.com/watch?v=PgHlNeoAH1A)
 - [Tori Amos - Hey Jupiter (The Dakota Version) (Official Music Video)](https://www.youtube.com/watch?v=1AbNx4h8XYc)
 
 

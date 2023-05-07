@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 ---
 
-![Amok by Atoms For Peace](amok-4312273.jpg)
+{{< img src="amok-4312273.jpg" title="Amok by Atoms For Peace" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 
 
 ## Videos
-### Atoms For Peace - Dropped
-{{< youtube id="a9uL315xak8" title="Atoms For Peace - Dropped" >}}<br>
+### Atoms For Peace - Stuck Together Pieces
+{{< youtube id="UMfh89GQoQE" title="Atoms For Peace - Stuck Together Pieces" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 - [Atoms For Peace - Default](https://www.youtube.com/watch?v=yxWBd840E9g)
 - [Atoms For Peace - Default](https://www.youtube.com/watch?v=zU7lArEL0qs)
 - [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=uK2sW_eaNqs)
+- [Atoms For Peace - Dropped](https://www.youtube.com/watch?v=a9uL315xak8)
 - [Atoms For Peace - Unless](https://www.youtube.com/watch?v=sTncKpk0OTo)
-- [Atoms For Peace - Stuck Together Pieces](https://www.youtube.com/watch?v=UMfh89GQoQE)
 - [Atoms For Peace - Judge Jury And Executioner](https://www.youtube.com/watch?v=SZgN_SuxuBg)
 - [Atoms For Peace - Reverse Running](https://www.youtube.com/watch?v=l2yEXYCF7tg)
 - [Atoms For Peace - Amok](https://www.youtube.com/watch?v=dZHrwFvmRxg)

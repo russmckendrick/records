@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Psychedelic Rock"]
 ---
 
-![Drift Code by Rustin Man](drift-code-13151178.jpg)
+{{< img src="drift-code-13151178.jpg" title="Drift Code by Rustin Man" >}}
 
 <!-- section break -->
 

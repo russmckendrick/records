@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
 
-![The Scream by Siouxsie & The Banshees](the-scream-404853.jpg)
+{{< img src="the-scream-404853.jpg" title="The Scream by Siouxsie & The Banshees" >}}
 
 <!-- section break -->
 

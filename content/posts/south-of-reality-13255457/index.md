@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ---
 
-![South Of Reality by The Claypool Lennon Delirium](south-of-reality-13255457.jpg)
+{{< img src="south-of-reality-13255457.jpg" title="South Of Reality by The Claypool Lennon Delirium" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 
 
 ## Videos
-### The Claypool Lennon Delirium - Amethyst Realm (Audio)
-{{< youtube id="cHyzNmQa9Q0" title="The Claypool Lennon Delirium - Amethyst Realm (Audio)" >}}<br>
+### The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)
+{{< youtube id="9dXAzlrRxhY" title="The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
 - [The Claypool Lennon Delirium - Little Fishes (Official Video)](https://www.youtube.com/watch?v=cZOHWyfgZdY)
-- [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Amethyst Realm (Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
 
 
 ## Release Information

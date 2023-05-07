@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-![Back To The Bars by Todd Rundgren](back-to-the-bars-1549510.jpg)
+{{< img src="back-to-the-bars-1549510.jpg" title="Back To The Bars by Todd Rundgren" >}}
 
 <!-- section break -->
 

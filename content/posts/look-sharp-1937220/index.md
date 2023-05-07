@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-![Look Sharp! by Roxette](look-sharp-1937220.jpg)
+{{< img src="look-sharp-1937220.jpg" title="Look Sharp! by Roxette" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,13 @@ styles: ["Power Pop"]
 
 
 ## Videos
-### View From A Hill
-{{< youtube id="Kxj0Bn2JzNw" title="View From A Hill" >}}<br>
+### Sleeping Single
+{{< youtube id="sMULAzlxEWc" title="Sleeping Single" >}}<br>
 
 ### More Videos
 
 - [Roxette - The Look](https://www.youtube.com/watch?v=dzrPH89rtWY)
 - [Dressed For Success](https://www.youtube.com/watch?v=Z9UZP5GvxoM)
-- [Sleeping Single](https://www.youtube.com/watch?v=sMULAzlxEWc)
 - [Paint](https://www.youtube.com/watch?v=Enrlkcf4o-k)
 - [Dance Away](https://www.youtube.com/watch?v=NfTnkTCJ710)
 - [Cry](https://www.youtube.com/watch?v=QLb1R4rNbtY)
@@ -55,6 +54,7 @@ styles: ["Power Pop"]
 - [Roxette - Chances](https://www.youtube.com/watch?v=4yd0z5ziIvw)
 - [Roxette - Dangerous (Official Video)](https://www.youtube.com/watch?v=VFNRh26TPmM)
 - [Half A Woman, Half A Shadow](https://www.youtube.com/watch?v=lCDdS03eeLo)
+- [View From A Hill](https://www.youtube.com/watch?v=Kxj0Bn2JzNw)
 - [Shadow Of A Doubt](https://www.youtube.com/watch?v=8ZNrSZuG4FM)
 - [Roxette - The Look](https://www.youtube.com/watch?v=LlVI7ZNiFlI)
 - [Listen To Your Heart](https://www.youtube.com/watch?v=3F3vjO8UY2E)

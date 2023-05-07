@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
 
-![The Southern Harmony And Musical Companion by The Black Crowes](the-southern-harmony-and-musical-companion-7867280.jpg)
+{{< img src="the-southern-harmony-and-musical-companion-7867280.jpg" title="The Southern Harmony And Musical Companion by The Black Crowes" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 
 
 ## Videos
-### Time Will Tell
-{{< youtube id="8EnPeGaZ8Tk" title="Time Will Tell" >}}<br>
+### The Black Crowes - Sting Me
+{{< youtube id="OaH9wIQDUwE" title="The Black Crowes - Sting Me" >}}<br>
 
 ### More Videos
 
 - [The Black Crowes - Remedy](https://www.youtube.com/watch?v=BYyRLTveFJQ)
-- [The Black Crowes - Sting Me](https://www.youtube.com/watch?v=OaH9wIQDUwE)
+- [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
 - [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
 
 

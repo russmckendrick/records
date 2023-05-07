@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Music For The Masses by Depeche Mode](music-for-the-masses-5349623.jpg)
+{{< img src="music-for-the-masses-5349623.jpg" title="Music For The Masses by Depeche Mode" >}}
 
 <!-- section break -->
 

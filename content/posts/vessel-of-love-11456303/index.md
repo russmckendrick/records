@@ -14,7 +14,7 @@ genres: ["Reggae", "Funk / Soul"]
 styles: ["Reggae-Pop", "Soul", "Dub"]
 ---
 
-![Vessel of Love by Hollie Cook](vessel-of-love-11456303.jpg)
+{{< img src="vessel-of-love-11456303.jpg" title="Vessel of Love by Hollie Cook" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 
 
 ## Videos
-### Hollie Cook Freefalling
-{{< youtube id="KoVZOvdkst8" title="Hollie Cook Freefalling" >}}<br>
+### Lunar Addiction
+{{< youtube id="c88OyiFLjVQ" title="Lunar Addiction" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 - [Hollie Cook Stay Alive](https://www.youtube.com/watch?v=N1--GrdPQWc)
 - [Hollie Cook Survive](https://www.youtube.com/watch?v=-Lr1T_6gd_w)
 - [Ghostly Fading](https://www.youtube.com/watch?v=RgpWSENFGhk)
-- [Lunar Addiction](https://www.youtube.com/watch?v=c88OyiFLjVQ)
+- [Hollie Cook Freefalling](https://www.youtube.com/watch?v=KoVZOvdkst8)
 - [Turn It Around](https://www.youtube.com/watch?v=KK4gRqiMcao)
 - [Vessel of Love](https://www.youtube.com/watch?v=CI4e9Z3eCb0)
 - [Together](https://www.youtube.com/watch?v=JOXjfBI_FWI)

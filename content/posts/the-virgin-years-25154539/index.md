@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ---
 
-![The Virgin Years by The Human League](the-virgin-years-25154539.jpg)
+{{< img src="the-virgin-years-25154539.jpg" title="The Virgin Years by The Human League" >}}
 
 <!-- section break -->
 

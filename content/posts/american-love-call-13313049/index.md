@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-![American Love Call by Durand Jones & The Indications](american-love-call-13313049.jpg)
+{{< img src="american-love-call-13313049.jpg" title="American Love Call by Durand Jones & The Indications" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### How Can I Be Sure
-{{< youtube id="Ouut4xyeOIU" title="How Can I Be Sure" >}}<br>
+### Too Many Tears
+{{< youtube id="YVgvEiE7Lwo" title="Too Many Tears" >}}<br>
 
 ### More Videos
 
@@ -55,11 +55,11 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Durand Jones & The Indications - Don’t You Know (feat. Aaron Frazer)](https://www.youtube.com/watch?v=D2s5xuPwQhU)
 - [Circles](https://www.youtube.com/watch?v=pmlO_Vbe4qs)
 - [Court of Love](https://www.youtube.com/watch?v=MHu11yPdatg)
-- [Too Many Tears](https://www.youtube.com/watch?v=YVgvEiE7Lwo)
 - [Walk Away](https://www.youtube.com/watch?v=JRoQ3pU4i1k)
 - [What I Know About You](https://www.youtube.com/watch?v=CN-GOo8BeF8)
 - [Listen to Your Heart](https://www.youtube.com/watch?v=jcwF7WlqrN0)
 - [Sea Gets Hotter](https://www.youtube.com/watch?v=HGKwkYpB3fI)
+- [How Can I Be Sure](https://www.youtube.com/watch?v=Ouut4xyeOIU)
 - [True Love](https://www.youtube.com/watch?v=L8demwJ3318)
 
 

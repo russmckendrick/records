@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Glam"]
 ---
 
-![Open Up and Say...Ahh! by Poison](open-up-and-say-ahh-11926311.jpg)
+{{< img src="open-up-and-say-ahh-11926311.jpg" title="Open Up and Say...Ahh! by Poison" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,14 @@ styles: ["Glam"]
 
 
 ## Videos
-### Poison - Fallen Angel (Official Video)
-{{< youtube id="AelpbAegA-4" title="Poison - Fallen Angel (Official Video)" >}}<br>
+### Poison - Every Rose Has Its Thorn (Official Video)
+{{< youtube id="j2r2nDhTzO4" title="Poison - Every Rose Has Its Thorn (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Poison - Nothin' But A Good Time (Official Video)](https://www.youtube.com/watch?v=_88L-CU7PD4)
 - [LP / Poison – Open Up And Say ...Ahh! / 1988](https://www.youtube.com/watch?v=6PuKzJ5JXMY)
-- [Poison - Every Rose Has Its Thorn (Official Video)](https://www.youtube.com/watch?v=j2r2nDhTzO4)
+- [Poison - Fallen Angel (Official Video)](https://www.youtube.com/watch?v=AelpbAegA-4)
 - [Poison - Your Mama Don't Dance](https://www.youtube.com/watch?v=aB5JRS6JOck)
 
 

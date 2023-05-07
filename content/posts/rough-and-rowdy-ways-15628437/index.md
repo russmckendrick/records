@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Country Blues", "Folk Rock"]
 ---
 
-![Rough And Rowdy Ways by Bob Dylan](rough-and-rowdy-ways-15628437.jpg)
+{{< img src="rough-and-rowdy-ways-15628437.jpg" title="Rough And Rowdy Ways by Bob Dylan" >}}
 
 <!-- section break -->
 

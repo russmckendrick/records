@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 ---
 
-![Live in Chicago 1990 by Jesus Jones](live-in-chicago-1990-26845856.jpg)
+{{< img src="live-in-chicago-1990-26845856.jpg" title="Live in Chicago 1990 by Jesus Jones" >}}
 
 <!-- section break -->
 

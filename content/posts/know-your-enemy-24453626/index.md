@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Know Your Enemy by Manic Street Preachers](know-your-enemy-24453626.jpg)
+{{< img src="know-your-enemy-24453626.jpg" title="Know Your Enemy by Manic Street Preachers" >}}
 
 <!-- section break -->
 

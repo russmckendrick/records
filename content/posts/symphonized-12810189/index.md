@@ -14,7 +14,7 @@ genres: ["Rock", "Classical"]
 styles: []
 ---
 
-![Symphonized by Anneke van Giersbergen](symphonized-12810189.jpg)
+{{< img src="symphonized-12810189.jpg" title="Symphonized by Anneke van Giersbergen" >}}
 
 <!-- section break -->
 
@@ -50,14 +50,14 @@ styles: []
 
 
 ## Videos
-### ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)
-{{< youtube id="oIwzEfWT85Q" title="ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)" >}}<br>
+### Anneke van Giersbergen & het Residentie Orkest - Travel
+{{< youtube id="ipTnpgJcdYM" title="Anneke van Giersbergen & het Residentie Orkest - Travel" >}}<br>
 
 ### More Videos
 
+- [ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=oIwzEfWT85Q)
 - [Anneke Van Giersbergen w/ Residentie Orkest - Travel - Den Haag, Netherlands 5/19/18](https://www.youtube.com/watch?v=Q72zXeAbwQw)
 - [Anneke Van Giersbergen w/ Residentie Orkest - Feel Alive - Den Haag, Netherlands 5/19/18](https://www.youtube.com/watch?v=mBmtYI8c-FY)
-- [Anneke van Giersbergen & het Residentie Orkest - Travel](https://www.youtube.com/watch?v=ipTnpgJcdYM)
 - [Amity (Symphonized live 2018)](https://www.youtube.com/watch?v=VSKHEUJYRus)
 
 

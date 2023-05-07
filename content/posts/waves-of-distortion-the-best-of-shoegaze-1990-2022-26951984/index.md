@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ---
 
-![Waves Of Distortion (The Best Of Shoegaze 1990​-​2022) by Various](waves-of-distortion-the-best-of-shoegaze-1990-2022-26951984.jpg)
+{{< img src="waves-of-distortion-the-best-of-shoegaze-1990-2022-26951984.jpg" title="Waves Of Distortion (The Best Of Shoegaze 1990​-​2022) by Various" >}}
 
 <!-- section break -->
 

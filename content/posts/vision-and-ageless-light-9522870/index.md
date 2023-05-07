@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
 
-![Vision And Ageless Light by EYE](vision-and-ageless-light-9522870.jpg)
+{{< img src="vision-and-ageless-light-9522870.jpg" title="Vision And Ageless Light by EYE" >}}
 
 <!-- section break -->
 
@@ -31,14 +31,14 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 
 ## Videos
-### Dweller of the Twilight Void
-{{< youtube id="r3ddPlGmIsU" title="Dweller of the Twilight Void" >}}<br>
+### Searching
+{{< youtube id="II5xpjQu7_g" title="Searching" >}}<br>
 
 ### More Videos
 
 - [EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016](https://www.youtube.com/watch?v=DXmw3SgL49E)
 - [Book of the Dead](https://www.youtube.com/watch?v=NrnLQ3Sz4d4)
-- [Searching](https://www.youtube.com/watch?v=II5xpjQu7_g)
+- [Dweller of the Twilight Void](https://www.youtube.com/watch?v=r3ddPlGmIsU)
 - [Kill the Slavemaster](https://www.youtube.com/watch?v=s8BqdpTiOkI)
 - [As Sure as the Sun](https://www.youtube.com/watch?v=PSMuvO9Pj-s)
 

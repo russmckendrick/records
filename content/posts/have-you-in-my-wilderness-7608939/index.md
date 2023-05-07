@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Have You In My Wilderness by Julia Holter](have-you-in-my-wilderness-7608939.jpg)
+{{< img src="have-you-in-my-wilderness-7608939.jpg" title="Have You In My Wilderness by Julia Holter" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Julia Holter - Sea Calls Me Home (Official Video)
-{{< youtube id="OERixQR-hxY" title="Julia Holter - Sea Calls Me Home (Official Video)" >}}<br>
+### Have You In My Wilderness
+{{< youtube id="uYLOYsDYpRg" title="Have You In My Wilderness" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Indie Pop"]
 - [Julia Holter - Silhouette (Official Video)](https://www.youtube.com/watch?v=m8_ZWlOKsUQ)
 - [How Long?](https://www.youtube.com/watch?v=rV6dzWOSEQE)
 - [Julia Holter - Betsy On The Roof (Official Audio)](https://www.youtube.com/watch?v=Sr2GYsynCFg)
-- [Have You In My Wilderness](https://www.youtube.com/watch?v=uYLOYsDYpRg)
+- [Julia Holter - Sea Calls Me Home (Official Video)](https://www.youtube.com/watch?v=OERixQR-hxY)
 
 
 ## Release Information

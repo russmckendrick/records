@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
-![Nowhere by Ride](nowhere-25002331.jpg)
+{{< img src="nowhere-25002331.jpg" title="Nowhere by Ride" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - Here And Now
-{{< youtube id="cqtN38_lK-Y" title="Ride - Here And Now" >}}<br>
+### Ride- Vapour Trail
+{{< youtube id="ygGw_zo_W8A" title="Ride- Vapour Trail" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 - [Ride- Dreams burn down](https://www.youtube.com/watch?v=E5zTuVhNs5c)
 - [Ride- Decay](https://www.youtube.com/watch?v=J9W205fw0G8)
 - [Ride - Paralysed](https://www.youtube.com/watch?v=721yIvBq7DI)
-- [Ride- Vapour Trail](https://www.youtube.com/watch?v=ygGw_zo_W8A)
 - [Ride - Taste](https://www.youtube.com/watch?v=BZ8_c-aFOVg)
+- [Ride - Here And Now](https://www.youtube.com/watch?v=cqtN38_lK-Y)
 - [Ride - Nowhere](https://www.youtube.com/watch?v=NxGAC5inulE)
 
 

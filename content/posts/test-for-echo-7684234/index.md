@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Test For Echo by Rush](test-for-echo-7684234.jpg)
+{{< img src="test-for-echo-7684234.jpg" title="Test For Echo by Rush" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
-![Hurricane Esmeralda by Moonparticle](hurricane-esmeralda-11512973.jpg)
+{{< img src="hurricane-esmeralda-11512973.jpg" title="Hurricane Esmeralda by Moonparticle" >}}
 
 <!-- section break -->
 

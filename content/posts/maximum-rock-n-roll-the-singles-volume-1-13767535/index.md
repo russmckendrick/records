@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Blues Rock"]
 ---
 
-![Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream](maximum-rock-n-roll-the-singles-volume-1-13767535.jpg)
+{{< img src="maximum-rock-n-roll-the-singles-volume-1-13767535.jpg" title="Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
 
-![Songs Of Faith And Devotion by Depeche Mode](songs-of-faith-and-devotion-5349924.jpg)
+{{< img src="songs-of-faith-and-devotion-5349924.jpg" title="Songs Of Faith And Devotion by Depeche Mode" >}}
 
 <!-- section break -->
 

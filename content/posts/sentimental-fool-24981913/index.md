@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Sentimental Fool by Lee Fields](sentimental-fool-24981913.jpg)
+{{< img src="sentimental-fool-24981913.jpg" title="Sentimental Fool by Lee Fields" >}}
 
 <!-- section break -->
 
@@ -40,18 +40,18 @@ styles: ["Soul"]
 
 
 ## Videos
-### Lee Fields Sentimental Fool (Official Video)
-{{< youtube id="7LuwyvAl1rU" title="Lee Fields Sentimental Fool (Official Video)" >}}<br>
+### Your Face Before My Eyes
+{{< youtube id="DZYMWEZQuQk" title="Your Face Before My Eyes" >}}<br>
 
 ### More Videos
 
 - [Lee Fields - Forever (Official Audio)](https://www.youtube.com/watch?v=BRXpKc873PQ)
 - [What Did I Do](https://www.youtube.com/watch?v=-uEdg8aueLw)
+- [Lee Fields Sentimental Fool (Official Video)](https://www.youtube.com/watch?v=7LuwyvAl1rU)
 - [Without A Heart](https://www.youtube.com/watch?v=zKDL_x1mJpU)
 - [Lee Fields Two Jobs (Official Audio)](https://www.youtube.com/watch?v=bVOxk-Xw5Sk)
 - [I Should Have Let You Be](https://www.youtube.com/watch?v=6uJbt6SXykI)
 - [Lee Fields - The Door](https://www.youtube.com/watch?v=pyyqy8djtcM)
-- [Your Face Before My Eyes](https://www.youtube.com/watch?v=DZYMWEZQuQk)
 - [Just Give Me Your Time](https://www.youtube.com/watch?v=_N4R4cdVFa4)
 
 

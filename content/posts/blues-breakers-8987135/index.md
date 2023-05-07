@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 ---
 
-![Blues Breakers by John Mayall](blues-breakers-8987135.jpg)
+{{< img src="blues-breakers-8987135.jpg" title="Blues Breakers by John Mayall" >}}
 
 <!-- section break -->
 

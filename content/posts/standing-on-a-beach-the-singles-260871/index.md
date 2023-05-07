@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Post-Punk", "New Wave", "Synth-pop", "Coldwave"]
 ---
 
-![Standing On A Beach • The Singles by The Cure](standing-on-a-beach-the-singles-260871.jpg)
+{{< img src="standing-on-a-beach-the-singles-260871.jpg" title="Standing On A Beach • The Singles by The Cure" >}}
 
 <!-- section break -->
 

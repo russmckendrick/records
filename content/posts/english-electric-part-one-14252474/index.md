@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![English Electric Part One by Big Big Train](english-electric-part-one-14252474.jpg)
+{{< img src="english-electric-part-one-14252474.jpg" title="English Electric Part One by Big Big Train" >}}
 
 <!-- section break -->
 

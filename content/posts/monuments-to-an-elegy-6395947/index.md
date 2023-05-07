@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Monuments To An Elegy by The Smashing Pumpkins](monuments-to-an-elegy-6395947.jpg)
+{{< img src="monuments-to-an-elegy-6395947.jpg" title="Monuments To An Elegy by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

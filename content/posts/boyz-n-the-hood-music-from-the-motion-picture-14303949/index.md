@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ---
 
-![Boyz N The Hood (Music From The Motion Picture) by Various](boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg)
+{{< img src="boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg" title="Boyz N The Hood (Music From The Motion Picture) by Various" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 
 
 ## Videos
-### Tevin Campbell - Just Ask Me
-{{< youtube id="VwHp7G7d9WM" title="Tevin Campbell - Just Ask Me" >}}<br>
+### Dr. Buzzard & The Savannah Band - Sunshower Boyz N The Hood Soundtrack
+{{< youtube id="Z7trsR5oFY4" title="Dr. Buzzard & The Savannah Band - Sunshower Boyz N The Hood Soundtrack" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 - [Stanley Clarke-Boyz N The Hood Theme](https://www.youtube.com/watch?v=qsvAI3A7c_c)
 - [Ice Cube - How To Survive In South Central](https://www.youtube.com/watch?v=hTtl7YdOjcA)
 - [Ice Cube - How To Survive In South Central (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=h5CX4x9KP0g)
-- [Dr. Buzzard & The Savannah Band - Sunshower Boyz N The Hood Soundtrack](https://www.youtube.com/watch?v=Z7trsR5oFY4)
+- [Tevin Campbell - Just Ask Me](https://www.youtube.com/watch?v=VwHp7G7d9WM)
 - [Tevin Campbell     Just Ask Me To (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=doRNgKeIGFA)
 - [Too Short    It's Your Life (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=yO90oQDOBeE)
 

@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Stranger Heads Prevail by Thank You Scientist](stranger-heads-prevail-14543822.jpg)
+{{< img src="stranger-heads-prevail-14543822.jpg" title="Stranger Heads Prevail by Thank You Scientist" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Thank You Scientist - Psychopomp (AUDIO ONLY)
-{{< youtube id="LK8JgjNxumo" title="Thank You Scientist - Psychopomp (AUDIO ONLY)" >}}<br>
+### A Wolf in Cheap Clothing
+{{< youtube id="T9PpxCshuC0" title="A Wolf in Cheap Clothing" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Prog Rock"]
 - [Thank You Scientist - The Amateur Arsonist's Handbook](https://www.youtube.com/watch?v=B97Ifr9pPy4)
 - [Thank You Scientist - The Somnambulist (AUDIO ONLY)](https://www.youtube.com/watch?v=Ip9Edh6pwkM)
 - [Thank You Scientist - Prologue... A Faint Applause (AUDIO ONLY)](https://www.youtube.com/watch?v=OIwNiP0BeRc)
-- [A Wolf in Cheap Clothing](https://www.youtube.com/watch?v=T9PpxCshuC0)
+- [Thank You Scientist - Psychopomp (AUDIO ONLY)](https://www.youtube.com/watch?v=LK8JgjNxumo)
 - [Thank You Scientist ¨Psychopomp¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=AC_kliYTiTc)
 - [Thank You Scientist ¨Mr. Invisible¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=WL2IgxzWgUE)
 - [Thank You Scientist ¨Caverns¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=DN6sJ0WYwlw)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Mod", "Rock Opera"]
 ---
 
-![Quadrophenia by The Who](quadrophenia-3818240.jpg)
+{{< img src="quadrophenia-3818240.jpg" title="Quadrophenia by The Who" >}}
 
 <!-- section break -->
 

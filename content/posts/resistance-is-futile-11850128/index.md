@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Resistance Is Futile by Manic Street Preachers](resistance-is-futile-11850128.jpg)
+{{< img src="resistance-is-futile-11850128.jpg" title="Resistance Is Futile by Manic Street Preachers" >}}
 
 <!-- section break -->
 
@@ -52,12 +52,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Manic Street Preachers - Distant Colours (Official Video)
-{{< youtube id="7RZzxbZ6WWY" title="Manic Street Preachers - Distant Colours (Official Video)" >}}<br>
+### Manic Street Preachers - Hold Me Like a Heaven (Official Video)
+{{< youtube id="JU5bn2LiOfA" title="Manic Street Preachers - Hold Me Like a Heaven (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Manic Street Preachers - Hold Me Like a Heaven (Official Video)](https://www.youtube.com/watch?v=JU5bn2LiOfA)
+- [Manic Street Preachers - Distant Colours (Official Video)](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
 - [Manic Street Preachers - International Blue (Official Video)](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
 
 

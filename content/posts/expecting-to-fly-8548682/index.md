@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-![Expecting To Fly by The Bluetones](expecting-to-fly-8548682.jpg)
+{{< img src="expecting-to-fly-8548682.jpg" title="Expecting To Fly by The Bluetones" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Britpop", "Indie Rock"]
 
 
 ## Videos
-### Cut Some Rug - The Bluetones
-{{< youtube id="Cv3be8ScIdQ" title="Cut Some Rug - The Bluetones" >}}<br>
+### The Bluetones - Putting out Fires
+{{< youtube id="mC2zVwPdWos" title="The Bluetones - Putting out Fires" >}}<br>
 
 ### More Videos
 
 - [The Bluetones - Slight Return](https://www.youtube.com/watch?v=B-3UpL6MkZ0)
 - [Talking to Clarry - The Bluetones](https://www.youtube.com/watch?v=5kVRAbSOTMs)
 - [The bluetones- Bluetonic](https://www.youtube.com/watch?v=7JVFHCcHv5Y)
-- [The Bluetones - Putting out Fires](https://www.youtube.com/watch?v=mC2zVwPdWos)
 - [Bluetones - Cut Some Rug - Full Video Song](https://www.youtube.com/watch?v=i80ClZCwVcg)
+- [Cut Some Rug - The Bluetones](https://www.youtube.com/watch?v=Cv3be8ScIdQ)
 
 
 ## Release Information

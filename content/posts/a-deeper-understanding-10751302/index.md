@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![A Deeper Understanding by The War On Drugs](a-deeper-understanding-10751302.jpg)
+{{< img src="a-deeper-understanding-10751302.jpg" title="A Deeper Understanding by The War On Drugs" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### The War On Drugs - Holding On [Official Video]
-{{< youtube id="6-oHBkikDBg" title="The War On Drugs - Holding On [Official Video]" >}}<br>
+### The War On Drugs - Strangest Thing [Official Audio]
+{{< youtube id="bvmEYgFsgyg" title="The War On Drugs - Strangest Thing [Official Audio]" >}}<br>
 
 ### More Videos
 
 - [The War on Drugs - Pain [Official Video]](https://www.youtube.com/watch?v=J9LgHNf2Qy0)
-- [The War On Drugs - Strangest Thing [Official Audio]](https://www.youtube.com/watch?v=bvmEYgFsgyg)
+- [The War On Drugs - Holding On [Official Video]](https://www.youtube.com/watch?v=6-oHBkikDBg)
 - [The War On Drugs - Thinking Of A Place [Official Audio]](https://www.youtube.com/watch?v=TeaDE1magRk)
 
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
 
-![Reality by David Bowie](reality-5509641.jpg)
+{{< img src="reality-5509641.jpg" title="Reality by David Bowie" >}}
 
 <!-- section break -->
 

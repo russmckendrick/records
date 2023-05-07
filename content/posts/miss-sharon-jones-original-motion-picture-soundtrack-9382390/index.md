@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Stage & Screen"]
 styles: ["Funk", "Soul", "Soundtrack"]
 ---
 
-![Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings](miss-sharon-jones-original-motion-picture-soundtrack-9382390.jpg)
+{{< img src="miss-sharon-jones-original-motion-picture-soundtrack-9382390.jpg" title="Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings" >}}
 
 <!-- section break -->
 
@@ -47,13 +47,14 @@ styles: ["Funk", "Soul", "Soundtrack"]
 
 
 ## Videos
-### Sharon Jones & The Dap-Kings - Retreat! (Official Music Video)
-{{< youtube id="PrOYkHjdpdM" title="Sharon Jones & The Dap-Kings - Retreat! (Official Music Video)" >}}<br>
+### Keep on Looking
+{{< youtube id="iPk3Wg5h978" title="Keep on Looking" >}}<br>
 
 ### More Videos
 
 - [Sharon Jones & the Dap-Kings I'm Still Here](https://www.youtube.com/watch?v=XQOYAjd8icg)
 - [Tell Me](https://www.youtube.com/watch?v=PJDlVXuonI4)
+- [Sharon Jones & The Dap-Kings - Retreat! (Official Music Video)](https://www.youtube.com/watch?v=PrOYkHjdpdM)
 - [New Shoes](https://www.youtube.com/watch?v=TScb8PRPc-8)
 - [Longer and Stronger Sharon Jones](https://www.youtube.com/watch?v=KWKsATGHWao)
 - [Sharon Jones &amp; the Dap-Kings - If You Call](https://www.youtube.com/watch?v=J3kYZgeYhC4)
@@ -64,7 +65,6 @@ styles: ["Funk", "Soul", "Soundtrack"]
 - [Sharon Jones & the Dap-Kings When I Come Home](https://www.youtube.com/watch?v=96EL_f1Nugc)
 - [Sharon Jones and the Dap Kings - Let Them Knock](https://www.youtube.com/watch?v=Pf6gyRI1zqg)
 - [Sharon Jones & the Dap-Kings Stranger To My Happiness](https://www.youtube.com/watch?v=IlPE1rEdAdI)
-- [Keep on Looking](https://www.youtube.com/watch?v=iPk3Wg5h978)
 - [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
 - [Sharon Jones & The Dap-Kings - I learned the hard way](https://www.youtube.com/watch?v=N2enjrlMXkY)
 - [Slow Down, Love](https://www.youtube.com/watch?v=S3Fvc6D0GUs)

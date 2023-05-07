@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ---
 
-![Is Satan Real? by Church Of The Cosmic Skull](is-satan-real-10504683.jpg)
+{{< img src="is-satan-real-10504683.jpg" title="Is Satan Real? by Church Of The Cosmic Skull" >}}
 
 <!-- section break -->
 
@@ -35,16 +35,16 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 
 
 ## Videos
-### Church of the Cosmic Skull - Black Slug (Official Video)
-{{< youtube id="xCQCLe40avs" title="Church of the Cosmic Skull - Black Slug (Official Video)" >}}<br>
+### Church of the Cosmic Skull - Watch it Grow (Official Audio)
+{{< youtube id="S_87QEtsXYA" title="Church of the Cosmic Skull - Watch it Grow (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Church of the Cosmic Skull - Mountain Heart (Official Audio)](https://www.youtube.com/watch?v=WkqEmrRxGIg)
+- [Church of the Cosmic Skull - Black Slug (Official Video)](https://www.youtube.com/watch?v=xCQCLe40avs)
 - [Church of the Cosmic Skull - Movements in the Sky (Official Audio)](https://www.youtube.com/watch?v=6gLGnncwnYc)
 - [Church of the Cosmic Skull - Answers in your Soul (Official Audio)](https://www.youtube.com/watch?v=kLQ0yAkmbis)
 - [Church of the Cosmic Skull - Is Satan Real? (Official Audio)](https://www.youtube.com/watch?v=kSrj2qMDiJ4)
-- [Church of the Cosmic Skull - Watch it Grow (Official Audio)](https://www.youtube.com/watch?v=S_87QEtsXYA)
 - [Church of the Cosmic Skull - Evil in your Eye (Official Audio)](https://www.youtube.com/watch?v=f5_w2ovow84)
 
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Pills 'N' Thrills And Bellyaches by Happy Mondays](pills-n-thrills-and-bellyaches-6913456.jpg)
+{{< img src="pills-n-thrills-and-bellyaches-6913456.jpg" title="Pills 'N' Thrills And Bellyaches by Happy Mondays" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Happy Mondays - Loose Fit (Official Music Video)
-{{< youtube id="xfF4k6TxFno" title="Happy Mondays - Loose Fit (Official Music Video)" >}}<br>
+### Happy Mondays - Step On (Official Music Video)
+{{< youtube id="mFBQ0PH5rM4" title="Happy Mondays - Step On (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Happy Mondays - Step On (Official Music Video)](https://www.youtube.com/watch?v=mFBQ0PH5rM4)
 - [Happy Mondays - Kinky Afro (Official Video)](https://www.youtube.com/watch?v=O8maBsuhHr4)
+- [Happy Mondays - Loose Fit (Official Music Video)](https://www.youtube.com/watch?v=xfF4k6TxFno)
 
 
 ## Release Information

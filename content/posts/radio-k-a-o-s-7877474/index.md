@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Classic Rock"]
 ---
 
-![Radio K.A.O.S. by Roger Waters](radio-k-a-o-s-7877474.jpg)
+{{< img src="radio-k-a-o-s-7877474.jpg" title="Radio K.A.O.S. by Roger Waters" >}}
 
 <!-- section break -->
 

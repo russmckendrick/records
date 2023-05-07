@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Jangle Pop", "Post-Punk", "Indie Rock", "Alternative Rock"]
 ---
 
-![The Queen Is Dead by The Smiths](the-queen-is-dead-3564656.jpg)
+{{< img src="the-queen-is-dead-3564656.jpg" title="The Queen Is Dead by The Smiths" >}}
 
 <!-- section break -->
 

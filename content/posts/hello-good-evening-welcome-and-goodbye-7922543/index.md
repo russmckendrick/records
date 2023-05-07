@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Hello, Good Evening, Welcome and Goodbye by Carter The Unstoppable Sex Machine](hello-good-evening-welcome-and-goodbye-7922543.jpg)
+{{< img src="hello-good-evening-welcome-and-goodbye-7922543.jpg" title="Hello, Good Evening, Welcome and Goodbye by Carter The Unstoppable Sex Machine" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)
-{{< youtube id="K0yt2Jr0cYo" title="CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)" >}}<br>
+### Intro (Live)
+{{< youtube id="qUnXO-0CJpc" title="Intro (Live)" >}}<br>
 
 ### More Videos
 
 - [The Music that Nobody Likes (Live)](https://www.youtube.com/watch?v=CQwq74RfkZw)
-- [Intro (Live)](https://www.youtube.com/watch?v=qUnXO-0CJpc)
 - [Sheriff Fatman (Live)](https://www.youtube.com/watch?v=661sgGG4hXQ)
 - [Rent (Live)](https://www.youtube.com/watch?v=pqz_aV2PlgU)
 - [Rubbish (Live)](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
+- [CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
 
 
 ## Release Information

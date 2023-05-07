@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-![Victim Of Love by Charles Bradley](victim-of-love-4400772.jpg)
+{{< img src="victim-of-love-4400772.jpg" title="Victim Of Love by Charles Bradley" >}}
 
 <!-- section break -->
 
@@ -39,11 +39,12 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Strictly Reserved for You
-{{< youtube id="8eR2L-KQSi4" title="Strictly Reserved for You" >}}<br>
+### Charles Bradley - Hurricane
+{{< youtube id="z-zTw7TWWws" title="Charles Bradley - Hurricane" >}}<br>
 
 ### More Videos
 
+- [Strictly Reserved for You](https://www.youtube.com/watch?v=8eR2L-KQSi4)
 - [You Put the Flame on It](https://www.youtube.com/watch?v=WU5-6OA19Dc)
 - [Let Love Stand a Chance](https://www.youtube.com/watch?v=eCQiO_W-ruY)
 - [Charles Bradley - Victim Of Love](https://www.youtube.com/watch?v=gxFYkoAFZAY)
@@ -52,7 +53,6 @@ styles: ["Soul", "Rhythm & Blues"]
 - [Confusion](https://www.youtube.com/watch?v=8vXDxR7UYUQ)
 - [Where Do We Go From Here](https://www.youtube.com/watch?v=oCcXHfVFpdM)
 - [Crying in the Chapel](https://www.youtube.com/watch?v=8xyb-qoxFPU)
-- [Charles Bradley - Hurricane](https://www.youtube.com/watch?v=z-zTw7TWWws)
 - [Through the Storm](https://www.youtube.com/watch?v=o_HtSBU73bs)
 
 

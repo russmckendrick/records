@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno"]
 ---
 
-![Oxymore by Jean-Michel Jarre](oxymore-24896663.jpg)
+{{< img src="oxymore-24896663.jpg" title="Oxymore by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,13 @@ styles: ["Techno"]
 
 
 ## Videos
-### OXYMORE
-{{< youtube id="lCKIWSJw8LM" title="OXYMORE" >}}<br>
+### NEON LIPS (Binaural Headphone Mix)
+{{< youtube id="Bpe9C0pZ4fk" title="NEON LIPS (Binaural Headphone Mix)" >}}<br>
 
 ### More Videos
 
 - [AGORA](https://www.youtube.com/watch?v=Jb-u4KeW7Zw)
+- [OXYMORE](https://www.youtube.com/watch?v=lCKIWSJw8LM)
 - [NEON LIPS](https://www.youtube.com/watch?v=1sdXjw-ggd8)
 - [SONIC LAND](https://www.youtube.com/watch?v=4WtegAy_-to)
 - [ANIMAL GENESIS](https://www.youtube.com/watch?v=PyzpdcSZUcs)
@@ -54,7 +55,6 @@ styles: ["Techno"]
 - [CRYSTAL GARDEN](https://www.youtube.com/watch?v=h843xk2UQTI)
 - [AGORA (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oPKpe5zfXVs)
 - [OXYMORE (Binaurel Headphone Mix)](https://www.youtube.com/watch?v=YVDktZ644iw)
-- [NEON LIPS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Bpe9C0pZ4fk)
 - [SONIC LAND (Binaural Headphone Mix)](https://www.youtube.com/watch?v=TYb2MfdUzf8)
 - [ANIMAL GENESIS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Wtxr2c2hZuU)
 - [SYNTHY SISTERS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oJdJHCy9Osg)

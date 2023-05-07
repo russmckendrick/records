@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![Machine Gun Etiquette by The Damned](machine-gun-etiquette-8859300.jpg)
+{{< img src="machine-gun-etiquette-8859300.jpg" title="Machine Gun Etiquette by The Damned" >}}
 
 <!-- section break -->
 

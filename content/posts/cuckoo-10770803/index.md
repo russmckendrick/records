@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Indie Rock"]
 ---
 
-![Cuckoo by Curve](cuckoo-10770803.jpg)
+{{< img src="cuckoo-10770803.jpg" title="Cuckoo by Curve" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Curve - Men Are From Mars, Women Are From Venus
-{{< youtube id="BOQX4v5c6u4" title="Curve - Men Are From Mars, Women Are From Venus" >}}<br>
+### Curve - Cuckoo
+{{< youtube id="oFj97DVmhxU" title="Curve - Cuckoo" >}}<br>
 
 ### More Videos
 
@@ -46,12 +46,12 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 - [Curve - Missing Link](https://www.youtube.com/watch?v=Ma7KLHAVm1M)
 - [Curve - Missing Link {Nine Inch Nails Screaming Bird Mix}](https://www.youtube.com/watch?v=2WYFu4a9GCg)
 - [Curve - Crystal](https://www.youtube.com/watch?v=KL-I0kyYxT4)
+- [Curve - Men Are From Mars, Women Are From Venus](https://www.youtube.com/watch?v=BOQX4v5c6u4)
 - [Curve - All of one](https://www.youtube.com/watch?v=rUDSBN7oN10)
 - [Curve Unreadable Communication](https://www.youtube.com/watch?v=UqL7RlmPwws)
 - [Curve - Turkey Crossing](https://www.youtube.com/watch?v=3x72B9kuWp8)
 - [Curve - Superblaster](https://www.youtube.com/watch?v=Zxi5vBnhQu0)
 - [Curve - Sweetest Pie](https://www.youtube.com/watch?v=aa0AyjhTaCY)
-- [Curve - Cuckoo](https://www.youtube.com/watch?v=oFj97DVmhxU)
 
 
 ## Release Information

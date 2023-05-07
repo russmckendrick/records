@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 ---
 
-![The Singles by Can](the-singles-10434382.jpg)
+{{< img src="the-singles-10434382.jpg" title="The Singles by Can" >}}
 
 <!-- section break -->
 
@@ -51,8 +51,8 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 
 
 ## Videos
-### Can - Turtles Have Short Legs (Official Audio)
-{{< youtube id="my8T7hB992k" title="Can - Turtles Have Short Legs (Official Audio)" >}}<br>
+### Can - Moonshake (Official Audio)
+{{< youtube id="IL4B69x8X7s" title="Can - Moonshake (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -60,11 +60,11 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 - [Can -  She Brings The Rain (Official Audio)](https://www.youtube.com/watch?v=xiuuSoPphxI)
 - [Can - Spoon (Official Audio)](https://www.youtube.com/watch?v=l6PH7a4RptU)
 - [Can - Shikako Maru Ten (Official Audio)](https://www.youtube.com/watch?v=jNnilECnMpw)
+- [Can - Turtles Have Short Legs (Official Audio)](https://www.youtube.com/watch?v=my8T7hB992k)
 - [Can - Halleluwah (Edit) (Official Audio)](https://www.youtube.com/watch?v=ry_3f0q8QZE)
 - [Can - Vitamin C (Official Audio)](https://www.youtube.com/watch?v=zrkUiCugQDE)
 - [Can - I'm So Green (Official Audio)](https://www.youtube.com/watch?v=Q6l8HwHde1M)
 - [Can - Mushroom (Official Audio)](https://www.youtube.com/watch?v=cR5gYbQzr5s)
-- [Can - Moonshake (Official Audio)](https://www.youtube.com/watch?v=IL4B69x8X7s)
 - [Can - Future Days (Edit) (Official Audio)](https://www.youtube.com/watch?v=NNdAhHQNDcg)
 - [Can - Dizzy Dizzy (Edit) (Official Audio)](https://www.youtube.com/watch?v=SW2nrz8bgoA)
 - [Can - Splash (Edit) (Official Audio)](https://www.youtube.com/watch?v=HtX9AAQak44)

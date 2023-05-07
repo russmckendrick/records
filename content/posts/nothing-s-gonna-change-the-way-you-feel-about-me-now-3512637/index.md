@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Country", "Country Rock"]
 ---
 
-![Nothing's Gonna Change The Way You Feel About Me Now by Justin Townes Earle](nothing-s-gonna-change-the-way-you-feel-about-me-now-3512637.jpg)
+{{< img src="nothing-s-gonna-change-the-way-you-feel-about-me-now-3512637.jpg" title="Nothing's Gonna Change The Way You Feel About Me Now by Justin Townes Earle" >}}
 
 <!-- section break -->
 

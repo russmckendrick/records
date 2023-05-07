@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-![Falling Deeper by Anathema](falling-deeper-3110214.jpg)
+{{< img src="falling-deeper-3110214.jpg" title="Falling Deeper by Anathema" >}}
 
 <!-- section break -->
 

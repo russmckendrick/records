@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Duke by Genesis](duke-12344522.jpg)
+{{< img src="duke-12344522.jpg" title="Duke by Genesis" >}}
 
 <!-- section break -->
 

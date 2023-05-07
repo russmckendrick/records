@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![The Wild, The Innocent &  The E Street Shuffle by Bruce Springsteen](the-wild-the-innocent-the-e-street-shuffle-5153034.jpg)
+{{< img src="the-wild-the-innocent-the-e-street-shuffle-5153034.jpg" title="The Wild, The Innocent &  The E Street Shuffle by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -35,16 +35,16 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Rosalita (Come Out Tonight)
-{{< youtube id="JuVKhS13eKY" title="Rosalita (Come Out Tonight)" >}}<br>
+### The E Street Shuffle
+{{< youtube id="LWLMaZ7H3B0" title="The E Street Shuffle" >}}<br>
 
 ### More Videos
 
-- [The E Street Shuffle](https://www.youtube.com/watch?v=LWLMaZ7H3B0)
 - [4th of July, Asbury Park (Sandy)](https://www.youtube.com/watch?v=EiGfB0QBTV4)
 - [Kitty's Back](https://www.youtube.com/watch?v=bLulUBjiIIc)
 - [Wild Billy's Circus Story](https://www.youtube.com/watch?v=CM8XT4Qk1bQ)
 - [Incident on 57th Street](https://www.youtube.com/watch?v=ioQcvijom28)
+- [Rosalita (Come Out Tonight)](https://www.youtube.com/watch?v=JuVKhS13eKY)
 - [New York City Serenade](https://www.youtube.com/watch?v=fEQENfRoBgw)
 
 

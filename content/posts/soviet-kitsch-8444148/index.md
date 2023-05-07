@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 ---
 
-![Soviet Kitsch by Regina Spektor](soviet-kitsch-8444148.jpg)
+{{< img src="soviet-kitsch-8444148.jpg" title="Soviet Kitsch by Regina Spektor" >}}
 
 <!-- section break -->
 
@@ -43,16 +43,16 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 
 
 ## Videos
-### Carbon Monoxide - Regina Spektor - Lyrics On Screen
-{{< youtube id="-in_oSu4Ojg" title="Carbon Monoxide - Regina Spektor - Lyrics On Screen" >}}<br>
+### Regina Spektor - Sailor Song
+{{< youtube id="Uro9hjHSsiw" title="Regina Spektor - Sailor Song" >}}<br>
 
 ### More Videos
 
 - [Regina Spektor - Us [OFFICIAL Video]](https://www.youtube.com/watch?v=fczPlmz-Vug)
 - [Regina Spektor Ode to Divorce Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
 - [Regina Spektor - Poor Little Rich Boy](https://www.youtube.com/watch?v=9GS5CpYTcfM)
+- [Carbon Monoxide - Regina Spektor - Lyrics On Screen](https://www.youtube.com/watch?v=-in_oSu4Ojg)
 - [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)
-- [Regina Spektor - Sailor Song](https://www.youtube.com/watch?v=Uro9hjHSsiw)
 
 
 ## Release Information

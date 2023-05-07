@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-![Eras III by Devin Townsend](eras-iii-12932368.jpg)
+{{< img src="eras-iii-12932368.jpg" title="Eras III by Devin Townsend" >}}
 
 <!-- section break -->
 

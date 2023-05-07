@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Last Place by Grandaddy](last-place-9923055.jpg)
+{{< img src="last-place-9923055.jpg" title="Last Place by Grandaddy" >}}
 
 <!-- section break -->
 

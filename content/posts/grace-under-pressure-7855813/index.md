@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Grace Under Pressure by Rush](grace-under-pressure-7855813.jpg)
+{{< img src="grace-under-pressure-7855813.jpg" title="Grace Under Pressure by Rush" >}}
 
 <!-- section break -->
 

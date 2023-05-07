@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ---
 
-![Hot Hits 16 by Unknown Artist](hot-hits-16-1425998.jpg)
+{{< img src="hot-hits-16-1425998.jpg" title="Hot Hits 16 by Unknown Artist" >}}
 
 <!-- section break -->
 

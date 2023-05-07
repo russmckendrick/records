@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![Nuisance by Menswear](nuisance-15932078.jpg)
+{{< img src="nuisance-15932078.jpg" title="Nuisance by Menswear" >}}
 
 <!-- section break -->
 
@@ -42,14 +42,14 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### Menswear - Daydreamer (Official Music Video)
-{{< youtube id="oRwlD6qyMF0" title="Menswear - Daydreamer (Official Music Video)" >}}<br>
+### MENSWEAR-BEING BRAVE
+{{< youtube id="NO4_BjbLCqY" title="MENSWEAR-BEING BRAVE" >}}<br>
 
 ### More Videos
 
-- [MENSWEAR-BEING BRAVE](https://www.youtube.com/watch?v=NO4_BjbLCqY)
 - [Menswear - I'll Manage Somehow](https://www.youtube.com/watch?v=ix469VbXjjM)
 - [Menswear - Sleeping in](https://www.youtube.com/watch?v=vICR80UFv8g)
+- [Menswear - Daydreamer (Official Music Video)](https://www.youtube.com/watch?v=oRwlD6qyMF0)
 - [Menswear - Stardust (Official Video)](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 
 

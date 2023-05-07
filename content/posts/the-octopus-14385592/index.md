@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
 
-![The Octopus by Amplifier](the-octopus-14385592.jpg)
+{{< img src="the-octopus-14385592.jpg" title="The Octopus by Amplifier" >}}
 
 <!-- section break -->
 

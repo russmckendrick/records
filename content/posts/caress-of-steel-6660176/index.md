@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Caress Of Steel by Rush](caress-of-steel-6660176.jpg)
+{{< img src="caress-of-steel-6660176.jpg" title="Caress Of Steel by Rush" >}}
 
 <!-- section break -->
 

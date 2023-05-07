@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-![Glastonbury 2000 by David Bowie](glastonbury-2000-12811492.jpg)
+{{< img src="glastonbury-2000-12811492.jpg" title="Glastonbury 2000 by David Bowie" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
 
-![Bill Withers Live At Carnegie Hall by Bill Withers](bill-withers-live-at-carnegie-hall-3748571.jpg)
+{{< img src="bill-withers-live-at-carnegie-hall-3748571.jpg" title="Bill Withers Live At Carnegie Hall by Bill Withers" >}}
 
 <!-- section break -->
 

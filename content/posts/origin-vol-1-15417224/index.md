@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-![Origin Vol. 1 by The Soundtrack Of Our Lives](origin-vol-1-15417224.jpg)
+{{< img src="origin-vol-1-15417224.jpg" title="Origin Vol. 1 by The Soundtrack Of Our Lives" >}}
 
 <!-- section break -->
 

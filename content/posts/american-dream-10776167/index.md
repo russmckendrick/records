@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield"]
 ---
 
-![American Dream by LCD Soundsystem](american-dream-10776167.jpg)
+{{< img src="american-dream-10776167.jpg" title="American Dream by LCD Soundsystem" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Leftfield"]
 
 
 ## Videos
-### oh baby
-{{< youtube id="PPa7wrRW2zE" title="oh baby" >}}<br>
+### change yr mind
+{{< youtube id="ocu-e4A-XBk" title="change yr mind" >}}<br>
 
 ### More Videos
 
+- [oh baby](https://www.youtube.com/watch?v=PPa7wrRW2zE)
 - [LCD Soundsystem - oh baby (Official Video)](https://www.youtube.com/watch?v=5gIhrPGyu6U)
 - [other voices](https://www.youtube.com/watch?v=ZRaVXBJDiu8)
 - [LCD Soundsystem - tonite (Video)](https://www.youtube.com/watch?v=lqq3BtGrpU8)
 - [i used to](https://www.youtube.com/watch?v=P3tNaLXGPXc)
 - [LCD Soundsystem - american dream](https://www.youtube.com/watch?v=ML1MUKOJIIo)
-- [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
 - [LCD Soundsystem - call the police](https://www.youtube.com/watch?v=zWKIWNJnlzI)
 - [how do you sleep?](https://www.youtube.com/watch?v=E55hWJFzaC8)
 - [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)

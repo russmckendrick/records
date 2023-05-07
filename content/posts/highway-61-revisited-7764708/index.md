@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Blues Rock"]
 ---
 
-![Highway 61 Revisited by Bob Dylan](highway-61-revisited-7764708.jpg)
+{{< img src="highway-61-revisited-7764708.jpg" title="Highway 61 Revisited by Bob Dylan" >}}
 
 <!-- section break -->
 

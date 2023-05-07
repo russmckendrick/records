@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Missiles by The Dears](missiles-12677910.jpg)
+{{< img src="missiles-12677910.jpg" title="Missiles by The Dears" >}}
 
 <!-- section break -->
 

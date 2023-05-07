@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![The Dark Side Of The Moon - Immersion Box Set by Pink Floyd](the-dark-side-of-the-moon-immersion-box-set-3142241.jpg)
+{{< img src="the-dark-side-of-the-moon-immersion-box-set-3142241.jpg" title="The Dark Side Of The Moon - Immersion Box Set by Pink Floyd" >}}
 
 <!-- section break -->
 

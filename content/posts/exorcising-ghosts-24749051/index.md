@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave"]
 ---
 
-![Exorcising Ghosts by Japan](exorcising-ghosts-24749051.jpg)
+{{< img src="exorcising-ghosts-24749051.jpg" title="Exorcising Ghosts by Japan" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Synth-pop", "New Wave"]
 
 
 ## Videos
-### Talking Drum
-{{< youtube id="lyt1TN3OCH4" title="Talking Drum" >}}<br>
+### Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)
+{{< youtube id="-EA4vEYRZTk" title="Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)" >}}<br>
 
 ### More Videos
 
@@ -59,9 +59,9 @@ styles: ["Synth-pop", "New Wave"]
 - [My New Career](https://www.youtube.com/watch?v=JEp3AQhhwnc)
 - [The Other Side Of Life](https://www.youtube.com/watch?v=i4J3zPy3iLE)
 - [Visions Of China](https://www.youtube.com/watch?v=1qmNNP1VgIk)
-- [Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)](https://www.youtube.com/watch?v=-EA4vEYRZTk)
 - [Ghosts](https://www.youtube.com/watch?v=ZK8DBICAWFs)
 - [Life Without Buildings](https://www.youtube.com/watch?v=8dhgiDNhG9k)
+- [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)
 - [The Art Of Parties](https://www.youtube.com/watch?v=KKXdKGYAnt4)
 
 

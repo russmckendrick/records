@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo", "Synth-pop"]
 ---
 
-![Exciter by Depeche Mode](exciter-9798727.jpg)
+{{< img src="exciter-9798727.jpg" title="Exciter by Depeche Mode" >}}
 
 <!-- section break -->
 

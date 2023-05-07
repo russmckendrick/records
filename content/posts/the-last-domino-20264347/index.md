@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![The Last Domino? by Genesis](the-last-domino-20264347.jpg)
+{{< img src="the-last-domino-20264347.jpg" title="The Last Domino? by Genesis" >}}
 
 <!-- section break -->
 

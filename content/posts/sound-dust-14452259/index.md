@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 ---
 
-![Sound-Dust by Stereolab](sound-dust-14452259.jpg)
+{{< img src="sound-dust-14452259.jpg" title="Sound-Dust by Stereolab" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 
 
 ## Videos
-### Spacemoth
-{{< youtube id="_ukyogTkqV4" title="Spacemoth" >}}<br>
+### Nothing To Do With Me
+{{< youtube id="D0-FTcR-9YI" title="Nothing To Do With Me" >}}<br>
 
 ### More Videos
 
@@ -63,6 +63,7 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 - [Nothing To Do With Me](https://www.youtube.com/watch?v=MJqW17Xv-l4)
 - [Stereolab Sound - Dust review](https://www.youtube.com/watch?v=UAPa0pjhydQ)
 - [Space Moth](https://www.youtube.com/watch?v=h7xHsamKVF8)
+- [Spacemoth](https://www.youtube.com/watch?v=_ukyogTkqV4)
 - [Hallucinex](https://www.youtube.com/watch?v=pbWXRzCvtdQ)
 - [Stereolab - Captain Easychord (full)](https://www.youtube.com/watch?v=KZ9z0Puurgk)
 - [The Black Arts](https://www.youtube.com/watch?v=EPvQAMo5d0M)
@@ -71,7 +72,6 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 - [Baby Lulu](https://www.youtube.com/watch?v=-qnVLdEEGtU)
 - [Double Rocker](https://www.youtube.com/watch?v=FyLP6qq1Kuw)
 - [Gus The Mynah Bird](https://www.youtube.com/watch?v=xHX5PCuq8zs)
-- [Nothing To Do With Me](https://www.youtube.com/watch?v=D0-FTcR-9YI)
 
 
 ## Release Information

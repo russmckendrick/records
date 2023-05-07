@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![Urban Hymns by The Verve](urban-hymns-9057753.jpg)
+{{< img src="urban-hymns-9057753.jpg" title="Urban Hymns by The Verve" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### A Northern Soul (Live From The 9:30 Club)
-{{< youtube id="pcpYiEXQf_A" title="A Northern Soul (Live From The 9:30 Club)" >}}<br>
+### Echo Bass
+{{< youtube id="PV4iqmJayhw" title="Echo Bass" >}}<br>
 
 ### More Videos
 
@@ -67,7 +67,6 @@ styles: ["Alternative Rock", "Britpop"]
 - [Country Song](https://www.youtube.com/watch?v=abQ-akIlY_U)
 - [Bitter Sweet Symphony (James Lavelle Remix)](https://www.youtube.com/watch?v=qeXNol9xVMk)
 - [So Sister](https://www.youtube.com/watch?v=D0aDnjNZImE)
-- [Echo Bass](https://www.youtube.com/watch?v=PV4iqmJayhw)
 - [Three Steps](https://www.youtube.com/watch?v=VFiM4FORyC8)
 - [The Drugs Don't Work (Demo)](https://www.youtube.com/watch?v=UpQ66S4peNM)
 - [The Crab](https://www.youtube.com/watch?v=urlZ0LPk8Kk)
@@ -100,6 +99,7 @@ styles: ["Alternative Rock", "Britpop"]
 - [History (Live From Brixton Academy)](https://www.youtube.com/watch?v=IGwxps_UbPo)
 - [Slide Away (Live From The Manchester Academy)](https://www.youtube.com/watch?v=nZLKeOMAfu0)
 - [A Man Called Sun (Live From The 9:30 Club)](https://www.youtube.com/watch?v=ACyvrO96nTQ)
+- [A Northern Soul (Live From The 9:30 Club)](https://www.youtube.com/watch?v=pcpYiEXQf_A)
 - [Space And Time (Live From Brixton Academy)](https://www.youtube.com/watch?v=oRwmI2Kjg9s)
 - [This Is Music (Live From The Manchester Academy)](https://www.youtube.com/watch?v=ULVkjh4IcXo)
 - [Weeping Willow (Live From The 9:30 Club)](https://www.youtube.com/watch?v=dboEqXd8tBM)

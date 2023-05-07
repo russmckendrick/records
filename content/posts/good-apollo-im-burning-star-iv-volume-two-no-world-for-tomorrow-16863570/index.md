@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ---
 
-![Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria](good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570.jpg)
+{{< img src="good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570.jpg" title="Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 
 
 ## Videos
-### Mother Superior
-{{< youtube id="thXSi3czdAY" title="Mother Superior" >}}<br>
+### The Running Free
+{{< youtube id="qoqcKqPWhzc" title="The Running Free" >}}<br>
 
 ### More Videos
 
 - [No World for Tomorrow](https://www.youtube.com/watch?v=DYFVQ_o3SAQ)
 - [Feathers](https://www.youtube.com/watch?v=NN2yuGIjNE8)
-- [The Running Free](https://www.youtube.com/watch?v=qoqcKqPWhzc)
 - [IV - The Road and the Damned](https://www.youtube.com/watch?v=X1RJdBHF_Fs)
 - [I - The Fall of House Atlantic](https://www.youtube.com/watch?v=unaN4Jejgk8)
 - [V - On the Brink](https://www.youtube.com/watch?v=wQx9UsSjzVA)
+- [Mother Superior](https://www.youtube.com/watch?v=thXSi3czdAY)
 - [The Hound (of Blood and Rank)](https://www.youtube.com/watch?v=Q62g4b0A8Qs)
 - [Gravemakers & Gunslingers](https://www.youtube.com/watch?v=Fx8yc4u8Qgc)
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Minimal", "Experimental", "Synthwave"]
 ---
 
-![RR7349 by Survive](rr7349-9108160.jpg)
+{{< img src="rr7349-9108160.jpg" title="RR7349 by Survive" >}}
 
 <!-- section break -->
 
@@ -34,12 +34,12 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 
 
 ## Videos
-### S U R V I V E - RR7349 - 1 - A. H. B.
-{{< youtube id="QG8tmtjLMgg" title="S U R V I V E - RR7349 - 1 - A. H. B." >}}<br>
+### S U R V I V E - 'RR7349' (Full Album Stream)
+{{< youtube id="Z30CFPklA8Q" title="S U R V I V E - 'RR7349' (Full Album Stream)" >}}<br>
 
 ### More Videos
 
-- [S U R V I V E - 'RR7349' (Full Album Stream)](https://www.youtube.com/watch?v=Z30CFPklA8Q)
+- [S U R V I V E - RR7349 - 1 - A. H. B.](https://www.youtube.com/watch?v=QG8tmtjLMgg)
 - [S U R V I V E - RR7349 - 2 - Other](https://www.youtube.com/watch?v=02jdlRMwYCg)
 - [Dirt](https://www.youtube.com/watch?v=s75L0MQVnRY)
 - [S U R V I V E - RR7349 - 4 - Highrise](https://www.youtube.com/watch?v=ceqa9nrV7sw)

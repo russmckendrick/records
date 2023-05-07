@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-![Damned Damned Damned by The Damned](damned-damned-damned-24589202.jpg)
+{{< img src="damned-damned-damned-24589202.jpg" title="Damned Damned Damned by The Damned" >}}
 
 <!-- section break -->
 
@@ -40,18 +40,18 @@ styles: ["Punk"]
 
 
 ## Videos
-### Fish
-{{< youtube id="_dnfYfYYZQU" title="Fish" >}}<br>
+### Fan Club
+{{< youtube id="jzof7TAVZFU" title="Fan Club" >}}<br>
 
 ### More Videos
 
 - [I Fall (2017 - Remaster)](https://www.youtube.com/watch?v=kQTJ5jqGSpc)
-- [Fan Club](https://www.youtube.com/watch?v=jzof7TAVZFU)
 - [Feel the Pain (2017 - Remaster)](https://www.youtube.com/watch?v=Hz16ObeWQ6E)
 - [I Fall](https://www.youtube.com/watch?v=5hBoLTuO2zI)
 - [Feel the Pain](https://www.youtube.com/watch?v=WCzUMOoEwTU)
 - [Fish (2017 - Remaster)](https://www.youtube.com/watch?v=TokQhnIFKI0)
 - [New Rose](https://www.youtube.com/watch?v=UkbIt1TsXZU)
+- [Fish](https://www.youtube.com/watch?v=_dnfYfYYZQU)
 - [1 of the 2](https://www.youtube.com/watch?v=hn3NrzjKGVo)
 - [So Messed Up](https://www.youtube.com/watch?v=_kBVKs4jqZc)
 - [See Her Tonite (2017 - Remaster)](https://www.youtube.com/watch?v=tFu0X8vskNM)

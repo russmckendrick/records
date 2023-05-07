@@ -14,7 +14,7 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ---
 
-![Requiem For A Dream by Clint Mansell](requiem-for-a-dream-8384112.jpg)
+{{< img src="requiem-for-a-dream-8384112.jpg" title="Requiem For A Dream by Clint Mansell" >}}
 
 <!-- section break -->
 

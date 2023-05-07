@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![Private Space by Durand Jones & The Indications](private-space-19635559.jpg)
+{{< img src="private-space-19635559.jpg" title="Private Space by Durand Jones & The Indications" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Soul"]
 
 
 ## Videos
-### Durand Jones & The Indications - Witchoo (Official Video)
-{{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}<br>
+### More Than Ever
+{{< youtube id="1ANy6hrk8Zg" title="More Than Ever" >}}<br>
 
 ### More Videos
 
+- [Durand Jones & The Indications - Witchoo (Official Video)](https://www.youtube.com/watch?v=d7vTtnevlO4)
 - [Sea of Love](https://www.youtube.com/watch?v=LlsyxKzXUm8)
 - [Private Space](https://www.youtube.com/watch?v=P73S0B5e7Ow)
 - [Durand Jones & The Indications - Love Will Work It Out (Official Video)](https://www.youtube.com/watch?v=2AnXiScwWj4)
 - [I Can See](https://www.youtube.com/watch?v=f7BscBQb11g)
 - [Durand Jones & The Indications - The Way That I Do (Official Video)](https://www.youtube.com/watch?v=OYq5CxVnOPU)
-- [More Than Ever](https://www.youtube.com/watch?v=1ANy6hrk8Zg)
 - [Durand Jones & The Indications - Private Space (Full Album) 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
 - [Sexy Thang](https://www.youtube.com/watch?v=hs2RSEg9fyE)
 

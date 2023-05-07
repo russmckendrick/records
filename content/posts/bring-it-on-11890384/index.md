@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Bring It On by Gomez](bring-it-on-11890384.jpg)
+{{< img src="bring-it-on-11890384.jpg" title="Bring It On by Gomez" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Gomez - Tijuana Lady
-{{< youtube id="1ojprhey24c" title="Gomez - Tijuana Lady" >}}<br>
+### Gomez - Get Miles Vinyl Rip from Bring It On (1998)
+{{< youtube id="eMtfb1j5sw0" title="Gomez - Get Miles Vinyl Rip from Bring It On (1998)" >}}<br>
 
 ### More Videos
 
-- [Gomez - Get Miles Vinyl Rip from Bring It On (1998)](https://www.youtube.com/watch?v=eMtfb1j5sw0)
 - [Get Miles](https://www.youtube.com/watch?v=8hEFQsqWhUQ)
+- [Gomez - Tijuana Lady](https://www.youtube.com/watch?v=1ojprhey24c)
 - [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
 
 

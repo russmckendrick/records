@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno", "Leftfield", "Ambient"]
 ---
 
-![Dubnobasswithmyheadman by Underworld](dubnobasswithmyheadman-5955411.jpg)
+{{< img src="dubnobasswithmyheadman-5955411.jpg" title="Dubnobasswithmyheadman by Underworld" >}}
 
 <!-- section break -->
 
@@ -34,16 +34,16 @@ styles: ["Techno", "Leftfield", "Ambient"]
 
 
 ## Videos
-### River Of Bass (Remastered)
-{{< youtube id="OOWEY4MGzM8" title="River Of Bass (Remastered)" >}}<br>
+### Dark & Long (Remastered)
+{{< youtube id="HJEUwJ9lKlc" title="Dark & Long (Remastered)" >}}<br>
 
 ### More Videos
 
-- [Dark & Long (Remastered)](https://www.youtube.com/watch?v=HJEUwJ9lKlc)
 - [Mmm... Skyscraper I Love You (Remastered)](https://www.youtube.com/watch?v=A5sm-c7EIus)
 - [Surfboy (Remastered)](https://www.youtube.com/watch?v=PzQ2deV-6mI)
 - [Spoonman (Remastered)](https://www.youtube.com/watch?v=s7znayyihGM)
 - [Tongue (Remastered)](https://www.youtube.com/watch?v=oIXPcW_6V7k)
+- [River Of Bass (Remastered)](https://www.youtube.com/watch?v=OOWEY4MGzM8)
 
 
 ## Release Information

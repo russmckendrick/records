@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ---
 
-![Hammer And Anvil by Pure Reason Revolution](hammer-and-anvil-24455267.jpg)
+{{< img src="hammer-and-anvil-24455267.jpg" title="Hammer And Anvil by Pure Reason Revolution" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 
 
 ## Videos
-### Pure Reason Revolution - Fight Fire - Hammer and Anvil - 2010
-{{< youtube id="-oOWaZRn8WM" title="Pure Reason Revolution - Fight Fire - Hammer and Anvil - 2010" >}}<br>
+### Pure Reason Revolution - Valour - Hammer and Anvil - 2010
+{{< youtube id="l8MK78-aPLs" title="Pure Reason Revolution - Valour - Hammer and Anvil - 2010" >}}<br>
 
 ### More Videos
 
-- [Pure Reason Revolution - Valour - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=l8MK78-aPLs)
 - [Pure Reason Revolution - Black Mourning - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=fg2C_9Bj_sQ)
+- [Pure Reason Revolution - Fight Fire - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=-oOWaZRn8WM)
 
 
 ## Release Information

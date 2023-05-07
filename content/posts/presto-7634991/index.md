@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Presto by Rush](presto-7634991.jpg)
+{{< img src="presto-7634991.jpg" title="Presto by Rush" >}}
 
 <!-- section break -->
 

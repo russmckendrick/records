@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ---
 
-![The Sophtware Slump .​.​.​.​. On A Wooden Piano by Grandaddy](the-sophtware-slump-on-a-wooden-piano-17475412.jpg)
+{{< img src="the-sophtware-slump-on-a-wooden-piano-17475412.jpg" title="The Sophtware Slump .​.​.​.​. On A Wooden Piano by Grandaddy" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Grandaddy - Broken Household Appliance National Forest (Piano Version)
-{{< youtube id="V8rGmtZstZI" title="Grandaddy - Broken Household Appliance National Forest (Piano Version)" >}}<br>
+### Grandaddy - Miner at the Dial-a-View (Piano Version)
+{{< youtube id="Q6rTYdsO0Qs" title="Grandaddy - Miner at the Dial-a-View (Piano Version)" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 - [Grandaddy - Jed the Humanoid (Piano Version)](https://www.youtube.com/watch?v=d36NP961r8s)
 - [Grandaddy - He's Simple, He's Dumb, He's the Pilot (Piano Version)](https://www.youtube.com/watch?v=ndnfFi8WL9M)
 - [Grandaddy - Jed's Other Poem (Beautiful Ground) (Piano Version)](https://www.youtube.com/watch?v=hwRnQuxOw6U)
-- [Grandaddy - Miner at the Dial-a-View (Piano Version)](https://www.youtube.com/watch?v=Q6rTYdsO0Qs)
+- [Grandaddy - Broken Household Appliance National Forest (Piano Version)](https://www.youtube.com/watch?v=V8rGmtZstZI)
 - [Grandaddy - Hewlett's Daughter (Piano Version)](https://www.youtube.com/watch?v=FcYUpTV5sdw)
 - [Grandaddy - Chartsengrafs (Piano Version)](https://www.youtube.com/watch?v=CQ-fP3QPqYQ)
 

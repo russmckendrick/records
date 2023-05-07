@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal"]
 ---
 
-![No Cross No Crown by Corrosion Of Conformity](no-cross-no-crown-11474479.jpg)
+{{< img src="no-cross-no-crown-11474479.jpg" title="No Cross No Crown by Corrosion Of Conformity" >}}
 
 <!-- section break -->
 

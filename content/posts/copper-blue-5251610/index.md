@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Copper Blue by Sugar](copper-blue-5251610.jpg)
+{{< img src="copper-blue-5251610.jpg" title="Copper Blue by Sugar" >}}
 
 <!-- section break -->
 
@@ -35,14 +35,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Sugar - A Good Idea
-{{< youtube id="R6dzOsM0gTw" title="Sugar - A Good Idea" >}}<br>
+### SUGAR - If I Can't Change Your Mind
+{{< youtube id="aHnFIaLp_ys" title="SUGAR - If I Can't Change Your Mind" >}}<br>
 
 ### More Videos
 
 - [Copper Blue Sugar (Full Version / Album Complet 1992) HQ](https://www.youtube.com/watch?v=BfGioWWLZ8E)
 - [Sugar - The Act We Act](https://www.youtube.com/watch?v=-MejXR48CpY)
-- [SUGAR - If I Can't Change Your Mind](https://www.youtube.com/watch?v=aHnFIaLp_ys)
+- [Sugar - A Good Idea](https://www.youtube.com/watch?v=R6dzOsM0gTw)
 - [SUGAR - Helpless](https://www.youtube.com/watch?v=oUf1sObmhr8)
 
 

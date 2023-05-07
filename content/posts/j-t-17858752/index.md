@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![J.T.  by Steve Earle & The Dukes](j-t-17858752.jpg)
+{{< img src="j-t-17858752.jpg" title="J.T.  by Steve Earle & The Dukes" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: []
 
 
 ## Videos
-### Steve Earle & The Dukes - The Saint Of Lost Causes [Audio Only]
-{{< youtube id="xeqGCbo6pFo" title="Steve Earle & The Dukes - The Saint Of Lost Causes [Audio Only]" >}}<br>
+### Steve Earle & The Dukes - Lone Pine Hill [Audio Only]
+{{< youtube id="fRsPjoIC8lI" title="Steve Earle & The Dukes - Lone Pine Hill [Audio Only]" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: []
 - [Steve Earle & The Dukes - Harlem River Blues [Audio Only]](https://www.youtube.com/watch?v=FXgtD3jfikk)
 - [Steve Earle & The Dukes - Champagne Corolla [Audio Only]](https://www.youtube.com/watch?v=JLYKGOeTSWo)
 - [Steve Earle & The Dukes - Last Words [Audio Only]](https://www.youtube.com/watch?v=RR2XPOYqSZI)
-- [Steve Earle & The Dukes - Lone Pine Hill [Audio Only]](https://www.youtube.com/watch?v=fRsPjoIC8lI)
+- [Steve Earle & The Dukes - The Saint Of Lost Causes [Audio Only]](https://www.youtube.com/watch?v=xeqGCbo6pFo)
 - [Steve Earle & The Dukes - I Don't Care [Audio Only]](https://www.youtube.com/watch?v=PzFAztmFYXQ)
 - [Steve Earle & The Dukes - Turn Out My Lights [Audio Only]](https://www.youtube.com/watch?v=E5b9gVDhWQY)
 - [Steve Earle & The Dukes - They Killed John Henry [Audio Only]](https://www.youtube.com/watch?v=1TGssyFJAuk)

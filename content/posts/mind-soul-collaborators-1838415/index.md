@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Reggae", "Folk, World, & Country"]
 styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Techno", "Ska", "Ambient", "Acid", "Tribal", "Folk"]
 ---
 
-![Mind + Soul Collaborators by Back To The Planet](mind-soul-collaborators-1838415.jpg)
+{{< img src="mind-soul-collaborators-1838415.jpg" title="Mind + Soul Collaborators by Back To The Planet" >}}
 
 <!-- section break -->
 
@@ -35,12 +35,12 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 
 
 ## Videos
-### Back to the planet - Daydream (Orbital Remix)
-{{< youtube id="suNsAIWYIL8" title="Back to the planet - Daydream (Orbital Remix)" >}}<br>
+### Back to the Planet   Sleepless Nights
+{{< youtube id="aDdBekh_jhA" title="Back to the Planet   Sleepless Nights" >}}<br>
 
 ### More Videos
 
-- [Back to the Planet   Sleepless Nights](https://www.youtube.com/watch?v=aDdBekh_jhA)
+- [Back to the planet - Daydream (Orbital Remix)](https://www.youtube.com/watch?v=suNsAIWYIL8)
 - [Back to the Planet Sleepless Nights and Reprise.](https://www.youtube.com/watch?v=lNSEV-_tJh0)
 
 

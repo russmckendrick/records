@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![The Holy Bible 20 by Manic Street Preachers](the-holy-bible-20-6380440.jpg)
+{{< img src="the-holy-bible-20-6380440.jpg" title="The Holy Bible 20 by Manic Street Preachers" >}}
 
 <!-- section break -->
 
@@ -106,20 +106,20 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Manic Street Preachers - The Holy Bible (Private Remaster) - 02 ifwhiteamericatoldthetruthforoneday
-{{< youtube id="IGI14Al5GS4" title="Manic Street Preachers - The Holy Bible (Private Remaster) - 02 ifwhiteamericatoldthetruthforoneday" >}}<br>
+### Mausoleum (Remastered)
+{{< youtube id="Ax4a8OXC4c4" title="Mausoleum (Remastered)" >}}<br>
 
 ### More Videos
 
 - [Yes (Remastered)](https://www.youtube.com/watch?v=4ZNGdD0Hxss)
 - [She Is Suffering (Remastered)](https://www.youtube.com/watch?v=KAVEIsZnnvM)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 03 Of Walking Abortion](https://www.youtube.com/watch?v=SBmptf5tvZo)
-- [Mausoleum (Remastered)](https://www.youtube.com/watch?v=Ax4a8OXC4c4)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 09 Faster](https://www.youtube.com/watch?v=Hp1N6YblCXg)
 - [Die in the Summertime (Remastered)](https://www.youtube.com/watch?v=jHtWXYXQzPs)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 13 P.C.P.](https://www.youtube.com/watch?v=WypjUAa8xEM)
 - [This Is Yesterday (Remastered)](https://www.youtube.com/watch?v=GfJ1MIAJV6Y)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 06 Revol](https://www.youtube.com/watch?v=dDBn62JWQps)
+- [Manic Street Preachers - The Holy Bible (Private Remaster) - 02 ifwhiteamericatoldthetruthforoneday](https://www.youtube.com/watch?v=IGI14Al5GS4)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 01 Yes](https://www.youtube.com/watch?v=2dMTuV9Y2tk)
 
 

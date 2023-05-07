@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-![Appetite For Destruction by Guns N' Roses](appetite-for-destruction-7492229.jpg)
+{{< img src="appetite-for-destruction-7492229.jpg" title="Appetite For Destruction by Guns N' Roses" >}}
 
 <!-- section break -->
 

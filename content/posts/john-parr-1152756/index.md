@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
 
-![John Parr by John Parr](john-parr-1152756.jpg)
+{{< img src="john-parr-1152756.jpg" title="John Parr by John Parr" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Hard Rock", "Pop Rock"]
 
 
 ## Videos
-### John Parr - Naughty Naughty (Official Music Video)
-{{< youtube id="syhrz_AMLQU" title="John Parr - Naughty Naughty (Official Music Video)" >}}<br>
+### John Parr - Naughty Naughty
+{{< youtube id="UY9VGQERxMA" title="John Parr - Naughty Naughty" >}}<br>
 
 ### More Videos
 
-- [John Parr - Naughty Naughty](https://www.youtube.com/watch?v=UY9VGQERxMA)
+- [John Parr - Naughty Naughty (Official Music Video)](https://www.youtube.com/watch?v=syhrz_AMLQU)
 - [John Parr - Love Grammar 1984 (Official Video)](https://www.youtube.com/watch?v=FntI8wFhEfE)
 - [John Parr - St. Elmo's Fire (Man In Motion) (Official Music Video)](https://www.youtube.com/watch?v=dx7vNdAb5e4)
 - [John Parr - John Parr 1984 [Full Album]](https://www.youtube.com/watch?v=GektcmKmB5Q)

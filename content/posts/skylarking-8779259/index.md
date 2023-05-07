@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Skylarking by XTC](skylarking-8779259.jpg)
+{{< img src="skylarking-8779259.jpg" title="Skylarking by XTC" >}}
 
 <!-- section break -->
 

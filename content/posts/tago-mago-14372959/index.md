@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Krautrock", "Experimental", "Avantgarde"]
 ---
 
-![Tago Mago by Can](tago-mago-14372959.jpg)
+{{< img src="tago-mago-14372959.jpg" title="Tago Mago by Can" >}}
 
 <!-- section break -->
 
@@ -35,16 +35,16 @@ styles: ["Krautrock", "Experimental", "Avantgarde"]
 
 
 ## Videos
-### Can - Aumgn
-{{< youtube id="4Up6Mw5SxJM" title="Can - Aumgn" >}}<br>
+### CAN - Bring Me Coffee Or Tea
+{{< youtube id="u0z76B3A_xM" title="CAN - Bring Me Coffee Or Tea" >}}<br>
 
 ### More Videos
 
-- [CAN - Bring Me Coffee Or Tea](https://www.youtube.com/watch?v=u0z76B3A_xM)
 - [Paperhouse - Can (1971)](https://www.youtube.com/watch?v=m5SyBIoMwsM)
 - [Mushroom - Can (1971)](https://www.youtube.com/watch?v=T_9LJCKOvQE)
 - [Can - Oh Yeah](https://www.youtube.com/watch?v=qKpCKBfazX8)
 - [Can - Halleluwah](https://www.youtube.com/watch?v=2dZbAFmnRVA)
+- [Can - Aumgn](https://www.youtube.com/watch?v=4Up6Mw5SxJM)
 - [Can - Peking O](https://www.youtube.com/watch?v=woRA1EjayI8)
 - [Bring Me Coffee or Tea](https://www.youtube.com/watch?v=_Pqc25njYbs)
 

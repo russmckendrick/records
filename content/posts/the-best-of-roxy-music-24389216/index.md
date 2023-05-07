@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ---
 
-![The Best Of Roxy Music by Roxy Music](the-best-of-roxy-music-24389216.jpg)
+{{< img src="the-best-of-roxy-music-24389216.jpg" title="The Best Of Roxy Music by Roxy Music" >}}
 
 <!-- section break -->
 
@@ -46,14 +46,14 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 
 
 ## Videos
-### Roxy Music - Oh yeah
-{{< youtube id="rpuiPhxsZLo" title="Roxy Music - Oh yeah" >}}<br>
+### Roxy Music - More Than This
+{{< youtube id="kOnde5c7OG8" title="Roxy Music - More Than This" >}}<br>
 
 ### More Videos
 
-- [Roxy Music - More Than This](https://www.youtube.com/watch?v=kOnde5c7OG8)
 - [Roxy Music - Jealous Guy (Official Video)](https://www.youtube.com/watch?v=hRzGzRqNj58)
 - [Roxy Music - Over You ᴴᴰ](https://www.youtube.com/watch?v=Lm84LZF66_w)
+- [Roxy Music - Oh yeah](https://www.youtube.com/watch?v=rpuiPhxsZLo)
 
 
 ## Release Information

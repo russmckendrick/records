@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![This Is A Photograph by Kevin Morby](this-is-a-photograph-23180702.jpg)
+{{< img src="this-is-a-photograph-23180702.jpg" title="This Is A Photograph by Kevin Morby" >}}
 
 <!-- section break -->
 

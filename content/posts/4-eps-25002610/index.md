@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
-![4 EPs by Ride](4-eps-25002610.jpg)
+{{< img src="4-eps-25002610.jpg" title="4 EPs by Ride" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-![The Early Years 1965-1972 by Pink Floyd](the-early-years-1965-1972-9218307.jpg)
+{{< img src="the-early-years-1965-1972-9218307.jpg" title="The Early Years 1965-1972 by Pink Floyd" >}}
 
 <!-- section break -->
 

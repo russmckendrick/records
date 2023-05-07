@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Vs. by Pearl Jam](vs-8354355.jpg)
+{{< img src="vs-8354355.jpg" title="Vs. by Pearl Jam" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,13 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Rats (Remastered)
-{{< youtube id="NW_YwJNcZyY" title="Rats (Remastered)" >}}<br>
+### Animal (Remastered)
+{{< youtube id="vR7OWzvf5uM" title="Animal (Remastered)" >}}<br>
 
 ### More Videos
 
 - [Go (Remastered)](https://www.youtube.com/watch?v=gBt8DnKC1_Y)
 - [Rearviewmirror (Remastered)](https://www.youtube.com/watch?v=bf2LDmkzmwo)
-- [Animal (Remastered)](https://www.youtube.com/watch?v=vR7OWzvf5uM)
 - [Dissident (Remastered)](https://www.youtube.com/watch?v=4cpJ982JGOo)
 - [W.M.A. (Remastered)](https://www.youtube.com/watch?v=Q2bZS_nPPNA)
 - [Indifference (Remastered)](https://www.youtube.com/watch?v=vZCMgm6Z-8M)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Blood (Remastered)](https://www.youtube.com/watch?v=p84QQvrL74s)
 - [Leash (Remastered)](https://www.youtube.com/watch?v=x3pRrMz_Uqk)
 - [Pearl Jam - Elderly Woman Behind the Counter in a Small Town (Official Audio)](https://www.youtube.com/watch?v=4YFYNUu_sqE)
+- [Rats (Remastered)](https://www.youtube.com/watch?v=NW_YwJNcZyY)
 
 
 ## Release Information

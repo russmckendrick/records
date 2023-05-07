@@ -14,7 +14,7 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: []
 ---
 
-![Anarchist Gospel by Sunny War](anarchist-gospel-25939921.jpg)
+{{< img src="anarchist-gospel-25939921.jpg" title="Anarchist Gospel by Sunny War" >}}
 
 <!-- section break -->
 
@@ -42,20 +42,20 @@ styles: []
 
 
 ## Videos
-### Sunny War - No Reason [Official Audio]
-{{< youtube id="jsNlM1wKynQ" title="Sunny War - No Reason [Official Audio]" >}}<br>
+### Sunny War - Baby Bitch  [Official Audio]
+{{< youtube id="Qim2TSC3x40" title="Sunny War - Baby Bitch  [Official Audio]" >}}<br>
 
 ### More Videos
 
 - [Sunny War - Higher (feat. David Rawlings) [Official Audio]](https://www.youtube.com/watch?v=8hnaMoHzx7o)
 - [Sunny War performs Whole](https://www.youtube.com/watch?v=VflAVCg385Q)
 - [Sunny War - New Day [Official Audio]](https://www.youtube.com/watch?v=XOxIAk-DQSs)
-- [Sunny War - Baby Bitch  [Official Audio]](https://www.youtube.com/watch?v=Qim2TSC3x40)
 - [Sunny War - Shelter And Storm (feat. David Rawlings) [Official Audio]](https://www.youtube.com/watch?v=w0xt2H9COvo)
 - [Sweet Nothing](https://www.youtube.com/watch?v=p6F-CmRerF4)
 - [Sunny War - Whole [Official Audio]](https://www.youtube.com/watch?v=O7GlPPDZp_A)
 - [Sunny War - Hopeless (feat. Allison Russell and Chris Pierce) [Official Audio]](https://www.youtube.com/watch?v=psTUUQe9cz0)
 - [Whole](https://www.youtube.com/watch?v=O1TQYzmzRTQ)
+- [Sunny War - No Reason [Official Audio]](https://www.youtube.com/watch?v=jsNlM1wKynQ)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"]
 ---
 
-![Transformers: The Movie (Original Motion Picture Soundtrack) by Various](transformers-the-movie-original-motion-picture-soundtrack-7782037.jpg)
+{{< img src="transformers-the-movie-original-motion-picture-soundtrack-7782037.jpg" title="Transformers: The Movie (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 

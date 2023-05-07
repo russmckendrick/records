@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-![Music To Draw To: Satellite by Kid Koala](music-to-draw-to-satellite-9741236.jpg)
+{{< img src="music-to-draw-to-satellite-9741236.jpg" title="Music To Draw To: Satellite by Kid Koala" >}}
 
 <!-- section break -->
 

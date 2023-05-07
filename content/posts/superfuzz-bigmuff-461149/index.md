@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-![Superfuzz Bigmuff by Mudhoney](superfuzz-bigmuff-461149.jpg)
+{{< img src="superfuzz-bigmuff-461149.jpg" title="Superfuzz Bigmuff by Mudhoney" >}}
 
 <!-- section break -->
 

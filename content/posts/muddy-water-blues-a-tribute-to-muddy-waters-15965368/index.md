@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-![Muddy Water Blues - A Tribute to Muddy Waters by Paul Rodgers](muddy-water-blues-a-tribute-to-muddy-waters-15965368.jpg)
+{{< img src="muddy-water-blues-a-tribute-to-muddy-waters-15965368.jpg" title="Muddy Water Blues - A Tribute to Muddy Waters by Paul Rodgers" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Paul Rodgers & Jeff Beck - I Just Want to Make Love to You
-{{< youtube id="yhPnsWZRF0k" title="Paul Rodgers & Jeff Beck - I Just Want to Make Love to You" >}}<br>
+### Paul Rodgers - Muddy Water Blues (Electric Version)
+{{< youtube id="jzqq1FrvBKo" title="Paul Rodgers - Muddy Water Blues (Electric Version)" >}}<br>
 
 ### More Videos
 
 - [Paul Rodgers ~ The Hunter](https://www.youtube.com/watch?v=W_2wLOgD6Ls)
-- [Paul Rodgers - Muddy Water Blues (Electric Version)](https://www.youtube.com/watch?v=jzqq1FrvBKo)
 - [Paul Rodgers - Louisiana Blues](https://www.youtube.com/watch?v=pfAYIW0nArs)
 - [Paul Rodgers (feat. David Gilmour) - Standing around crying](https://www.youtube.com/watch?v=Qj1t95ijlUM)
 - [Paul Rodgers/Gary Moore - She Moves Me (A tribute to Muddy Waters)](https://www.youtube.com/watch?v=_XfTUR_vaQ0)
+- [Paul Rodgers & Jeff Beck - I Just Want to Make Love to You](https://www.youtube.com/watch?v=yhPnsWZRF0k)
 
 
 ## Release Information

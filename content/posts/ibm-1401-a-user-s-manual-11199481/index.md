@@ -14,7 +14,7 @@ genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
 
-![IBM 1401, A User's Manual by Jóhann Jóhannsson](ibm-1401-a-user-s-manual-11199481.jpg)
+{{< img src="ibm-1401-a-user-s-manual-11199481.jpg" title="IBM 1401, A User's Manual by Jóhann Jóhannsson" >}}
 
 <!-- section break -->
 
@@ -36,13 +36,13 @@ styles: ["Modern Classical"]
 
 
 ## Videos
-### Jóhann Jóhannsson - The Sun's Gone Dim And The Sky's Turned Black (Baraka)
-{{< youtube id="euROmffXvKM" title="Jóhann Jóhannsson - The Sun's Gone Dim And The Sky's Turned Black (Baraka)" >}}<br>
+### IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit
+{{< youtube id="tBw_wSoVQrY" title="IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit" >}}<br>
 
 ### More Videos
 
 - [Johann Johannsson - Part 1/ IBM 1401 Processing Unit](https://www.youtube.com/watch?v=tUkgJWxCyR0)
-- [IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit](https://www.youtube.com/watch?v=tBw_wSoVQrY)
+- [Jóhann Jóhannsson - The Sun's Gone Dim And The Sky's Turned Black (Baraka)](https://www.youtube.com/watch?v=euROmffXvKM)
 
 
 ## Release Information

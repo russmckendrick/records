@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Three Of A Perfect Pair by King Crimson](three-of-a-perfect-pair-24973192.jpg)
+{{< img src="three-of-a-perfect-pair-24973192.jpg" title="Three Of A Perfect Pair by King Crimson" >}}
 
 <!-- section break -->
 

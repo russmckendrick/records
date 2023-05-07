@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![To Bring You My Love - Demos by PJ Harvey](to-bring-you-my-love-demos-15895402.jpg)
+{{< img src="to-bring-you-my-love-demos-15895402.jpg" title="To Bring You My Love - Demos by PJ Harvey" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Meet Ze Monsta (Demo)
-{{< youtube id="0YG33LTqUCs" title="Meet Ze Monsta (Demo)" >}}<br>
+### Working For The Man (Demo)
+{{< youtube id="y8Ex_55jaAQ" title="Working For The Man (Demo)" >}}<br>
 
 ### More Videos
 
 - [To Bring You My Love (Demo)](https://www.youtube.com/watch?v=Q45TjwkoZM8)
-- [Working For The Man (Demo)](https://www.youtube.com/watch?v=y8Ex_55jaAQ)
+- [Meet Ze Monsta (Demo)](https://www.youtube.com/watch?v=0YG33LTqUCs)
 - [C'mon Billy (Demo)](https://www.youtube.com/watch?v=4msAgtMvvz8)
 - [Teclo (Demo)](https://www.youtube.com/watch?v=SVq1R6ZI0QM)
 - [Long Snake Moan (Demo)](https://www.youtube.com/watch?v=EcjEWUzvmEs)

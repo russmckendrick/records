@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic"]
 ---
 
-![Fisherman's Blues by The Waterboys](fisherman-s-blues-7147495.jpg)
+{{< img src="fisherman-s-blues-7147495.jpg" title="Fisherman's Blues by The Waterboys" >}}
 
 <!-- section break -->
 

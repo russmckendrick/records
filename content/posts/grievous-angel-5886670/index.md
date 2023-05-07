@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
 
-![Grievous Angel by Gram Parsons](grievous-angel-5886670.jpg)
+{{< img src="grievous-angel-5886670.jpg" title="Grievous Angel by Gram Parsons" >}}
 
 <!-- section break -->
 
@@ -37,15 +37,15 @@ styles: ["Country Rock", "Country"]
 
 
 ## Videos
-### Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)
-{{< youtube id="kZ1X1lBTn2g" title="Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)" >}}<br>
+### Love Hurts (Remastered Version)
+{{< youtube id="4fCTZ0ZnD44" title="Love Hurts (Remastered Version)" >}}<br>
 
 ### More Videos
 
 - [Return of the Grievous Angel (Remastered Version)](https://www.youtube.com/watch?v=h_Iz0iVvhEc)
 - [Medley Live from Northern Quebec (A) Cash on the Barrelhead (B) Hickory Wind (Remastered Version)](https://www.youtube.com/watch?v=ORI38WMccdM)
 - [Brass Buttons (Remastered Version)](https://www.youtube.com/watch?v=c7BwdZVDjS8)
-- [Love Hurts (Remastered Version)](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
+- [Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)](https://www.youtube.com/watch?v=kZ1X1lBTn2g)
 
 
 ## Release Information

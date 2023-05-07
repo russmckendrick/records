@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["New Jack Swing"]
 ---
 
-![Don't Be Cruel by Bobby Brown](don-t-be-cruel-768752.jpg)
+{{< img src="don-t-be-cruel-768752.jpg" title="Don't Be Cruel by Bobby Brown" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["New Jack Swing"]
 
 
 ## Videos
-### bobby brown - don't be cruel w/lyrics
-{{< youtube id="AnUdQwabjsQ" title="bobby brown - don't be cruel w/lyrics" >}}<br>
+### Bobby Brown My Prerogative Lyrics
+{{< youtube id="pfzy4Kk-8b0" title="Bobby Brown My Prerogative Lyrics" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["New Jack Swing"]
 - [Bobby Brown - I Really Love You Girl](https://www.youtube.com/watch?v=IxN5BH0IFhw)
 - [Cruel Reprise](https://www.youtube.com/watch?v=PiSB3uJQMxY)
 - [Cruel Prelude](https://www.youtube.com/watch?v=gab9hWIidGE)
-- [Bobby Brown My Prerogative Lyrics](https://www.youtube.com/watch?v=pfzy4Kk-8b0)
 - [Bobby Brown - Don't Be Cruel (Official Video)](https://www.youtube.com/watch?v=pd7dCbEfTs4)
+- [bobby brown - don't be cruel w/lyrics](https://www.youtube.com/watch?v=AnUdQwabjsQ)
 - [Don't Be Cruel (Remix)](https://www.youtube.com/watch?v=pv0dMWnPDpE)
 - [Bobby Brown-Don't Be Cruel](https://www.youtube.com/watch?v=zkdj12XICzg)
 - [Bobby Brown - Rock Wit'cha (Album Version)](https://www.youtube.com/watch?v=eI0-n3bkRno)

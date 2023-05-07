@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 ---
 
-![Remain In Light by Talking Heads](remain-in-light-3908559.jpg)
+{{< img src="remain-in-light-3908559.jpg" title="Remain In Light by Talking Heads" >}}
 
 <!-- section break -->
 
@@ -36,14 +36,14 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 
 
 ## Videos
-### Once in a Lifetime (2005 Remaster)
-{{< youtube id="CHatn3_UxEU" title="Once in a Lifetime (2005 Remaster)" >}}<br>
+### Born Under Punches (The Heat Goes On) (2005 Remaster)
+{{< youtube id="w6T_X7MXg40" title="Born Under Punches (The Heat Goes On) (2005 Remaster)" >}}<br>
 
 ### More Videos
 
-- [Born Under Punches (The Heat Goes On) (2005 Remaster)](https://www.youtube.com/watch?v=w6T_X7MXg40)
 - [Crosseyed and Painless (2005 Remaster)](https://www.youtube.com/watch?v=z92avHmgDRA)
 - [The Great Curve (2005 Remaster)](https://www.youtube.com/watch?v=3N5qQrGSuJ4)
+- [Once in a Lifetime (2005 Remaster)](https://www.youtube.com/watch?v=CHatn3_UxEU)
 - [Houses in Motion (2005 Remaster)](https://www.youtube.com/watch?v=Yt9_uyXgOzc)
 - [Seen and Not Seen (2005 Remaster)](https://www.youtube.com/watch?v=PH5JvU19_YQ)
 - [Listening Wind (2005 Remaster)](https://www.youtube.com/watch?v=RjWej8fOdR8)

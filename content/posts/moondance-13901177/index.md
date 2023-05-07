@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Moondance by Van Morrison](moondance-13901177.jpg)
+{{< img src="moondance-13901177.jpg" title="Moondance by Van Morrison" >}}
 
 <!-- section break -->
 

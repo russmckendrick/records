@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "Post-Metal", "Post Rock"]
 ---
 
-![Exsolve by Jo Quail](exsolve-14196389.jpg)
+{{< img src="exsolve-14196389.jpg" title="Exsolve by Jo Quail" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 ---
 
-![For You by Prince](for-you-8433126.jpg)
+{{< img src="for-you-8433126.jpg" title="For You by Prince" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 
 
 ## Videos
-### Baby
-{{< youtube id="282ZyNwDxgE" title="Baby" >}}<br>
+### Crazy You
+{{< youtube id="HchaAbzBnpg" title="Crazy You" >}}<br>
 
 ### More Videos
 
 - [For You](https://www.youtube.com/watch?v=2-hcFcWYM08)
 - [In Love](https://www.youtube.com/watch?v=bLxlK21P2AA)
 - [Soft and Wet](https://www.youtube.com/watch?v=Aq7ddhSGOSE)
-- [Crazy You](https://www.youtube.com/watch?v=HchaAbzBnpg)
 - [Just as Long as We're Together](https://www.youtube.com/watch?v=Mv1Ga81EsaQ)
+- [Baby](https://www.youtube.com/watch?v=282ZyNwDxgE)
 - [My Love Is Forever](https://www.youtube.com/watch?v=2C_mYu5THXk)
 - [So Blue](https://www.youtube.com/watch?v=UeWse9WsnFA)
 - [I'm Yours](https://www.youtube.com/watch?v=lk5avOf5tqY)

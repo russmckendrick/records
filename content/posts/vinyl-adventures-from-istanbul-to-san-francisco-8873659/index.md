@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Blues", "Non-Music", "Pop", "Classical", "Folk, 
 styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 ---
 
-![Vinyl Adventures From Istanbul To San Francisco by Tim Burgess](vinyl-adventures-from-istanbul-to-san-francisco-8873659.jpg)
+{{< img src="vinyl-adventures-from-istanbul-to-san-francisco-8873659.jpg" title="Vinyl Adventures From Istanbul To San Francisco by Tim Burgess" >}}
 
 <!-- section break -->
 

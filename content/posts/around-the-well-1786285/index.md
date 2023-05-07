@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock", "Folk"]
 ---
 
-![Around The Well by Iron And Wine](around-the-well-1786285.jpg)
+{{< img src="around-the-well-1786285.jpg" title="Around The Well by Iron And Wine" >}}
 
 <!-- section break -->
 

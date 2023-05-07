@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: []
 ---
 
-![Shades And Echoes by Forenzics](shades-and-echoes-22152553.jpg)
+{{< img src="shades-and-echoes-22152553.jpg" title="Shades And Echoes by Forenzics" >}}
 
 <!-- section break -->
 

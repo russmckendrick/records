@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
 
-![Substance by Joy Division](substance-7267756.jpg)
+{{< img src="substance-7267756.jpg" title="Substance by Joy Division" >}}
 
 <!-- section break -->
 
@@ -47,14 +47,13 @@ styles: ["Post-Punk", "New Wave"]
 
 
 ## Videos
-### From Safety to Where (2010 Remaster)
-{{< youtube id="ZFV5XSGC4qQ" title="From Safety to Where (2010 Remaster)" >}}<br>
+### Digital (2010 Remaster)
+{{< youtube id="MnnWHhAJktM" title="Digital (2010 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Warsaw (2010 Remaster)](https://www.youtube.com/watch?v=gtSFtvXgeRk)
 - [Leaders of Men (2010 Remaster)](https://www.youtube.com/watch?v=iQjGHxQ2nn4)
-- [Digital (2010 Remaster)](https://www.youtube.com/watch?v=MnnWHhAJktM)
 - [Joy Division - Autosuggestion](https://www.youtube.com/watch?v=qrX5d6pt60k)
 - [Transmission (2010 Remaster)](https://www.youtube.com/watch?v=Kx3EqNYQklg)
 - [She's Lost Control (2010 Remaster)](https://www.youtube.com/watch?v=Hzd5inljWhA)
@@ -65,6 +64,7 @@ styles: ["Post-Punk", "New Wave"]
 - [No Love Lost (2010 Remaster)](https://www.youtube.com/watch?v=5v8Frk_37-Y)
 - [Failures (2010 Remaster)](https://www.youtube.com/watch?v=7Bbb86ajF3U)
 - [Glass (2010 Remaster)](https://www.youtube.com/watch?v=iI-IoAEGV4U)
+- [From Safety to Where (2010 Remaster)](https://www.youtube.com/watch?v=ZFV5XSGC4qQ)
 - [Novelty (2010 Remaster)](https://www.youtube.com/watch?v=Gqqr31PWsII)
 - [Komakino (2010 Remaster)](https://www.youtube.com/watch?v=4DbnkkyhPnI)
 - [These Days (2010 Remaster)](https://www.youtube.com/watch?v=6g_b0xr9rZs)

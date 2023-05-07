@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 ---
 
-![The Headphone Masterpiece by Cody ChesnuTT](the-headphone-masterpiece-6090015.jpg)
+{{< img src="the-headphone-masterpiece-6090015.jpg" title="The Headphone Masterpiece by Cody ChesnuTT" >}}
 
 <!-- section break -->
 
@@ -64,8 +64,8 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 
 
 ## Videos
-### (07) Cody ChesnuTT - The Seed - Volume 1
-{{< youtube id="2gPYxvvBWKs" title="(07) Cody ChesnuTT - The Seed - Volume 1" >}}<br>
+### Cody ChesnuTT Serve this Royalty.  Part 1
+{{< youtube id="B9vNOlnLgPg" title="Cody ChesnuTT Serve this Royalty.  Part 1" >}}<br>
 
 ### More Videos
 
@@ -73,9 +73,9 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 - [No One Will](https://www.youtube.com/watch?v=P3GDIf2RGqM)
 - [Cody ChesnuTT - Bitch, I'm Broke](https://www.youtube.com/watch?v=KeeCMCQFTOE)
 - [Cody Chesnutt- Upstarts In A Blowout](https://www.youtube.com/watch?v=bwKo5qBtzoU)
-- [Cody ChesnuTT Serve this Royalty.  Part 1](https://www.youtube.com/watch?v=B9vNOlnLgPg)
 - [If We Don't Disagree - Cody Chesnutt (2002)](https://www.youtube.com/watch?v=fbUx8A65FtI)
 - [Cody Chesnutt - No One Will](https://www.youtube.com/watch?v=k3kkf_Y_WfU)
+- [(07) Cody ChesnuTT - The Seed - Volume 1](https://www.youtube.com/watch?v=2gPYxvvBWKs)
 - [Cody ChesnuTT - The Most Beautiful Shame](https://www.youtube.com/watch?v=sq09nzSbA9s)
 - [Cody ChesnuTT - Look Good In Leather Lyrics](https://www.youtube.com/watch?v=PeF0U6SssgY)
 

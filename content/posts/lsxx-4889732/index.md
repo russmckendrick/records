@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![LSXX by The Breeders](lsxx-4889732.jpg)
+{{< img src="lsxx-4889732.jpg" title="LSXX by The Breeders" >}}
 
 <!-- section break -->
 
@@ -93,15 +93,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Breeders - Saints
-{{< youtube id="29DKkmZMTlk" title="The Breeders - Saints" >}}<br>
+### The Breeders - I Just Wanna Get Along
+{{< youtube id="r-jIAE_DC9I" title="The Breeders - I Just Wanna Get Along" >}}<br>
 
 ### More Videos
 
 - [The Breeders - Cannonball](https://www.youtube.com/watch?v=fxvkI9MTQw4)
 - [I Just Wanna Get Along](https://www.youtube.com/watch?v=elHm4mobOIk)
 - [The Breeders - Divine Hammer (Official Video)](https://www.youtube.com/watch?v=tUiP5eyx3NM)
-- [The Breeders - I Just Wanna Get Along](https://www.youtube.com/watch?v=r-jIAE_DC9I)
+- [The Breeders - Saints](https://www.youtube.com/watch?v=29DKkmZMTlk)
 
 
 ## Release Information

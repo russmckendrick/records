@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Dub", "Downtempo"]
 ---
 
-![Smokers Delight by Nightmares On Wax](smokers-delight-15030498.jpg)
+{{< img src="smokers-delight-15030498.jpg" title="Smokers Delight by Nightmares On Wax" >}}
 
 <!-- section break -->
 
@@ -45,17 +45,17 @@ styles: ["Trip Hop", "Dub", "Downtempo"]
 
 
 ## Videos
-### Me And You
-{{< youtube id="gd7PMEPHH6E" title="Me And You" >}}<br>
+### Nightmares on wax - groove st
+{{< youtube id="tBg48HzyrQQ" title="Nightmares on wax - groove st" >}}<br>
 
 ### More Videos
 
 - [Nightmares on wax - night's introlude](https://www.youtube.com/watch?v=C6ixa3G_tL4)
 - [Nightmares on wax- pipes honour](https://www.youtube.com/watch?v=UiiGWxO-VkY)
-- [Nightmares on wax - groove st](https://www.youtube.com/watch?v=tBg48HzyrQQ)
 - [Mission venice](https://www.youtube.com/watch?v=X_w8Qfc5X_k)
 - [Nights Introlude](https://www.youtube.com/watch?v=U6v5Ec2-D4Q)
 - [Dreddoverboard](https://www.youtube.com/watch?v=_U8jWlq5wRI)
+- [Me And You](https://www.youtube.com/watch?v=gd7PMEPHH6E)
 - [Stars](https://www.youtube.com/watch?v=zCoXzl_QrKM)
 - [Wait A Minute / Praying For A Jeepbeat](https://www.youtube.com/watch?v=_qwCWBLPeGE)
 - [Time (To Listen)](https://www.youtube.com/watch?v=F_7-0sOzLuE)

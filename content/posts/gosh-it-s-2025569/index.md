@@ -14,7 +14,7 @@ genres: ["Reggae", "Pop"]
 styles: ["Ska"]
 ---
 
-![Gosh It's... by Bad Manners](gosh-it-s-2025569.jpg)
+{{< img src="gosh-it-s-2025569.jpg" title="Gosh It's... by Bad Manners" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### Bad Manners.........Gosh It's.......... Bad Manners Part 4
-{{< youtube id="pAO7mr7Pi0s" title="Bad Manners.........Gosh It's.......... Bad Manners Part 4" >}}<br>
+### Bad Manners - can can
+{{< youtube id="CJSwSBbdiCM" title="Bad Manners - can can" >}}<br>
 
 ### More Videos
 
 - [Bad Manners - Can-Can (TOTP)](https://www.youtube.com/watch?v=sirHoeJ5Td8)
-- [Bad Manners - can can](https://www.youtube.com/watch?v=CJSwSBbdiCM)
+- [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
 
 
 ## Release Information

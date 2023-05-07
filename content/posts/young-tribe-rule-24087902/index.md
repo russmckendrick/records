@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-![Young Tribe Rule by Whiteout](young-tribe-rule-24087902.jpg)
+{{< img src="young-tribe-rule-24087902.jpg" title="Young Tribe Rule by Whiteout" >}}
 
 <!-- section break -->
 

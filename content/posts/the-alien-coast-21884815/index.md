@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-![The Alien Coast by St. Paul & The Broken Bones](the-alien-coast-21884815.jpg)
+{{< img src="the-alien-coast-21884815.jpg" title="The Alien Coast by St. Paul & The Broken Bones" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### St. Paul & The Broken Bones - The Alien Coast Album Listening Party
-{{< youtube id="TUhQkIYB8KA" title="St. Paul & The Broken Bones - The Alien Coast Album Listening Party" >}}<br>
+### St. Paul & The Broken Bones - Minotaur (Official Audio)
+{{< youtube id="bd96ZE48h5M" title="St. Paul & The Broken Bones - Minotaur (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [St. Paul & The Broken Bones - Minotaur (Official Audio)](https://www.youtube.com/watch?v=bd96ZE48h5M)
+- [St. Paul & The Broken Bones - The Alien Coast Album Listening Party](https://www.youtube.com/watch?v=TUhQkIYB8KA)
 
 
 ## Release Information

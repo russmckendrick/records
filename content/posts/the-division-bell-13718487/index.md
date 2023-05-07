@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Prog Rock"]
 ---
 
-![The Division Bell by Pink Floyd](the-division-bell-13718487.jpg)
+{{< img src="the-division-bell-13718487.jpg" title="The Division Bell by Pink Floyd" >}}
 
 <!-- section break -->
 

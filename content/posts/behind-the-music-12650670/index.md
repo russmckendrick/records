@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Behind The Music by The Soundtrack Of Our Lives](behind-the-music-12650670.jpg)
+{{< img src="behind-the-music-12650670.jpg" title="Behind The Music by The Soundtrack Of Our Lives" >}}
 
 <!-- section break -->
 
@@ -48,14 +48,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Soundtrack of Our Lives - Independent Luxury
-{{< youtube id="hdW3yRTeBzM" title="Soundtrack of Our Lives - Independent Luxury" >}}<br>
+### MIND THE GAP The Soundtrack Of Our Lives
+{{< youtube id="ZTK5k6kyH7w" title="MIND THE GAP The Soundtrack Of Our Lives" >}}<br>
 
 ### More Videos
 
+- [Soundtrack of Our Lives - Independent Luxury](https://www.youtube.com/watch?v=hdW3yRTeBzM)
 - [The Soundtrack of Our Lives - Sister Surround](https://www.youtube.com/watch?v=n43d09Q6eB0)
 - [Soundtrack of Our Lives Into the Next Sun ('Behind the Music' LP)](https://www.youtube.com/watch?v=RrZQ8n3x8EY)
-- [MIND THE GAP The Soundtrack Of Our Lives](https://www.youtube.com/watch?v=ZTK5k6kyH7w)
 
 
 ## Release Information

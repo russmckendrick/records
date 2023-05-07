@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
 
-![Fantastic Planet by Noveller](fantastic-planet-6546782.jpg)
+{{< img src="fantastic-planet-6546782.jpg" title="Fantastic Planet by Noveller" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Avantgarde"]
 
 
 ## Videos
-### Noveller - 'Rubicon'
-{{< youtube id="hPDN9DH-now" title="Noveller - 'Rubicon'" >}}<br>
+### Noveller - No Unholy Mountain
+{{< youtube id="rkJCNRJWIzU" title="Noveller - No Unholy Mountain" >}}<br>
 
 ### More Videos
 
-- [Noveller - No Unholy Mountain](https://www.youtube.com/watch?v=rkJCNRJWIzU)
+- [Noveller - 'Rubicon'](https://www.youtube.com/watch?v=hPDN9DH-now)
 - [Noveller - 'Pulse Point'](https://www.youtube.com/watch?v=C2k1ItFICXY)
 
 

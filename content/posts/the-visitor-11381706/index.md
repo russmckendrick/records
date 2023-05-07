@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![The Visitor by Neil Young](the-visitor-11381706.jpg)
+{{< img src="the-visitor-11381706.jpg" title="The Visitor by Neil Young" >}}
 
 <!-- section break -->
 

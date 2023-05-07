@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Coral Island by The Coral](coral-island-18531073.jpg)
+{{< img src="coral-island-18531073.jpg" title="Coral Island by The Coral" >}}
 
 <!-- section break -->
 

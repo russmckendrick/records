@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Blue Hour by Suede](the-blue-hour-12541434.jpg)
+{{< img src="the-blue-hour-12541434.jpg" title="The Blue Hour by Suede" >}}
 
 <!-- section break -->
 

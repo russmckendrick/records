@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![True Colours by Split Enz](true-colours-15700504.jpg)
+{{< img src="true-colours-15700504.jpg" title="True Colours by Split Enz" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - How Can I Resist Her? (1980)
-{{< youtube id="sA1M-_pJv6s" title="Split Enz - How Can I Resist Her? (1980)" >}}<br>
+### Split Enz - I Got You (1980)
+{{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
 
 ### More Videos
 
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
+- [Split Enz - How Can I Resist Her? (1980)](https://www.youtube.com/watch?v=sA1M-_pJv6s)
 - [HOW CAN I RESIST HER By Split Enz](https://www.youtube.com/watch?v=BLDmz3YfjMo)
 - [Split Enz - Nobody Takes Me Seriously](https://www.youtube.com/watch?v=gkk5kZxe_ks)
 - [split enz - the choral sea](https://www.youtube.com/watch?v=8-jVOHQLRF0)

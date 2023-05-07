@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 ---
 
-![Fear Of Music by Talking Heads](fear-of-music-4728034.jpg)
+{{< img src="fear-of-music-4728034.jpg" title="Fear Of Music by Talking Heads" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 
 
 ## Videos
-### Memories Can't Wait (2005 Remaster)
-{{< youtube id="ssCFwQkyCeI" title="Memories Can't Wait (2005 Remaster)" >}}<br>
+### Paper (2005 Remaster)
+{{< youtube id="swCk2wKPK6Y" title="Paper (2005 Remaster)" >}}<br>
 
 ### More Videos
 
 - [I Zimbra (2005 Remaster)](https://www.youtube.com/watch?v=qKFn66dzdz0)
 - [Mind (2005 Remaster)](https://www.youtube.com/watch?v=ehB6462JHog)
-- [Paper (2005 Remaster)](https://www.youtube.com/watch?v=swCk2wKPK6Y)
 - [Cities (2005 Remaster)](https://www.youtube.com/watch?v=K5H1nEP2wXA)
 - [Life During Wartime (2005 Remaster)](https://www.youtube.com/watch?v=_NywTcGOUkE)
+- [Memories Can't Wait (2005 Remaster)](https://www.youtube.com/watch?v=ssCFwQkyCeI)
 - [Air (2005 Remaster)](https://www.youtube.com/watch?v=i6WaEcv9sdw)
 - [Heaven (2005 Remaster)](https://www.youtube.com/watch?v=JAa7J10D8Qw)
 - [Animals (2005 Remaster)](https://www.youtube.com/watch?v=eBiIFhg0Jnc)

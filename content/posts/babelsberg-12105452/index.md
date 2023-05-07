@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Babelsberg by Gruff Rhys](babelsberg-12105452.jpg)
+{{< img src="babelsberg-12105452.jpg" title="Babelsberg by Gruff Rhys" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video
-{{< youtube id="UXbdEig4apo" title="Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video" >}}<br>
+### Gruff Rhys - Limited Edition Heart (Official Audio)
+{{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Gruff Rhys - Limited Edition Heart (Official Audio)](https://www.youtube.com/watch?v=L09PSR7uQtU)
 - [Gruff Rhys - Frontier Man (Official Video)](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
+- [Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video](https://www.youtube.com/watch?v=UXbdEig4apo)
 
 
 ## Release Information

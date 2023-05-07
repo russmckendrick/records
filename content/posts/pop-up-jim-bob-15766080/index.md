@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-![Pop Up Jim Bob by Jim Bob](pop-up-jim-bob-15766080.jpg)
+{{< img src="pop-up-jim-bob-15766080.jpg" title="Pop Up Jim Bob by Jim Bob" >}}
 
 <!-- section break -->
 
@@ -36,16 +36,16 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Jim Bob - If it Ain't Broke (Official Video)
-{{< youtube id="FtJDa_UMDFE" title="Jim Bob - If it Ain't Broke (Official Video)" >}}<br>
+### POP UP TV   HD 720p
+{{< youtube id="bFcl6RiEFYY" title="POP UP TV   HD 720p" >}}<br>
 
 ### More Videos
 
 - [Jim Bob - Jo's Got Papercuts [Official Video]](https://www.youtube.com/watch?v=OqRWb9JQW_0)
 - [Jim Bob: Pop Up Jim Bob [CD / Limited Edition Vinyl LP with 2021 Jim Bob Calendar]](https://www.youtube.com/watch?v=hICaKXpoMCw)
+- [Jim Bob - If it Ain't Broke (Official Video)](https://www.youtube.com/watch?v=FtJDa_UMDFE)
 - [BIG Boy](https://www.youtube.com/watch?v=CRUMIlyIW1g)
 - [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
-- [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 ---
 
-![Future Ruins by Swervedriver](future-ruins-13092267.jpg)
+{{< img src="future-ruins-13092267.jpg" title="Future Ruins by Swervedriver" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 
 
 ## Videos
-### Future Ruins
-{{< youtube id="dlJkbwCH7Oo" title="Future Ruins" >}}<br>
+### The Lonely Crowd Fades in the Air
+{{< youtube id="hLhtN3WdLIc" title="The Lonely Crowd Fades in the Air" >}}<br>
 
 ### More Videos
 
 - [Mary Winter](https://www.youtube.com/watch?v=yohv_1_dJrM)
-- [The Lonely Crowd Fades in the Air](https://www.youtube.com/watch?v=hLhtN3WdLIc)
+- [Future Ruins](https://www.youtube.com/watch?v=dlJkbwCH7Oo)
 - [Theeascending](https://www.youtube.com/watch?v=k2bG0xsaKk8)
 - [Drone Lover](https://www.youtube.com/watch?v=uiP4O7MlasM)
 - [Spiked Flower](https://www.youtube.com/watch?v=CH-SPJWiykc)

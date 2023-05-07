@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ---
 
-![Jeff Wayne's Musical Version Of The War Of The Worlds by Jeff Wayne](jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081.jpg)
+{{< img src="jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081.jpg" title="Jeff Wayne's Musical Version Of The War Of The Worlds by Jeff Wayne" >}}
 
 <!-- section break -->
 

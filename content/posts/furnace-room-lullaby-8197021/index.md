@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Country"]
 ---
 
-![Furnace Room Lullaby by Neko Case & Her Boyfriends](furnace-room-lullaby-8197021.jpg)
+{{< img src="furnace-room-lullaby-8197021.jpg" title="Furnace Room Lullaby by Neko Case & Her Boyfriends" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Country"]
 
 
 ## Videos
-### South Tacoma Way
-{{< youtube id="k8iz8oNzOxM" title="South Tacoma Way" >}}<br>
+### We've Never Met
+{{< youtube id="zhMr1kCJy-Y" title="We've Never Met" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Alternative Rock", "Country"]
 - [Neko Case & Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
 - [Mood to Burn Bridges](https://www.youtube.com/watch?v=qKdDcwdygos)
 - [Thrice All American](https://www.youtube.com/watch?v=lT4QMN93g9o)
-- [We've Never Met](https://www.youtube.com/watch?v=zhMr1kCJy-Y)
+- [South Tacoma Way](https://www.youtube.com/watch?v=k8iz8oNzOxM)
 - [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
 - [Neko Case - Furnace Room Lullaby [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)
 

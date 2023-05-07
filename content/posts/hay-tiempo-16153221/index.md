@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Country Rock", "Indie Rock", "Britpop"]
 ---
 
-![¡Hay Tiempo! by Menswear](hay-tiempo-16153221.jpg)
+{{< img src="hay-tiempo-16153221.jpg" title="¡Hay Tiempo! by Menswear" >}}
 
 <!-- section break -->
 

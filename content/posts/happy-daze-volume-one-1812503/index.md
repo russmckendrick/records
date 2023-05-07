@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ---
 
-![Happy Daze (Volume One) by Various](happy-daze-volume-one-1812503.jpg)
+{{< img src="happy-daze-volume-one-1812503.jpg" title="Happy Daze (Volume One) by Various" >}}
 
 <!-- section break -->
 

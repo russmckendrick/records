@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Rejoice! I'm Dead! by Gong](rejoice-i-m-dead-9058357.jpg)
+{{< img src="rejoice-i-m-dead-9058357.jpg" title="Rejoice! I'm Dead! by Gong" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Gong — The Thing That Should Be
-{{< youtube id="Mbq8hfejqcQ" title="Gong — The Thing That Should Be" >}}<br>
+### GONG - Rejoice! (LIVE in Bonn 2017)
+{{< youtube id="wCO89IRZGTg" title="GONG - Rejoice! (LIVE in Bonn 2017)" >}}<br>
 
 ### More Videos
 
-- [GONG - Rejoice! (LIVE in Bonn 2017)](https://www.youtube.com/watch?v=wCO89IRZGTg)
 - [Gong - Rejoice! I'm Dead! (album montage)](https://www.youtube.com/watch?v=dgBCSVgzxzA)
 - [GONG -- REJOICE - I'M NOT DEAD (DJ MIX)](https://www.youtube.com/watch?v=KElr32jXF1A)
+- [Gong — The Thing That Should Be](https://www.youtube.com/watch?v=Mbq8hfejqcQ)
 - [GONG - Rejoice! (Loreley, NOTP 2017)](https://www.youtube.com/watch?v=RqacE7JXHnY)
 - [GONG - Rejoice (clip) (from Rejoice! I'm Dead!)](https://www.youtube.com/watch?v=bynWRpnP3aU)
 - [GONG-Rejoice! I'm dead!-Sesc Belenzinho SP 2017](https://www.youtube.com/watch?v=7cg6BjI6IC0)

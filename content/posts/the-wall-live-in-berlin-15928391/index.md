@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ---
 
-![The Wall (Live In Berlin) by Roger Waters](the-wall-live-in-berlin-15928391.jpg)
+{{< img src="the-wall-live-in-berlin-15928391.jpg" title="The Wall (Live In Berlin) by Roger Waters" >}}
 
 <!-- section break -->
 

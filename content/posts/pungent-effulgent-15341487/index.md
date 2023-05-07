@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-![Pungent Effulgent by Ozric Tentacles](pungent-effulgent-15341487.jpg)
+{{< img src="pungent-effulgent-15341487.jpg" title="Pungent Effulgent by Ozric Tentacles" >}}
 
 <!-- section break -->
 

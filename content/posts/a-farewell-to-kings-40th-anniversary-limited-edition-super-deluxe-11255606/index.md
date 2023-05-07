@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe) by Rush](a-farewell-to-kings-40th-anniversary-limited-edition-super-deluxe-11255606.jpg)
+{{< img src="a-farewell-to-kings-40th-anniversary-limited-edition-super-deluxe-11255606.jpg" title="A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe) by Rush" >}}
 
 <!-- section break -->
 

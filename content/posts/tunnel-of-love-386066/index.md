@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Ballad"]
 ---
 
-![Tunnel Of Love by Bruce Springsteen](tunnel-of-love-386066.jpg)
+{{< img src="tunnel-of-love-386066.jpg" title="Tunnel Of Love by Bruce Springsteen" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Soft Rock", "Pop Rock", "Ballad"]
 
 
 ## Videos
-### Two Faces
-{{< youtube id="119sq2IIoiA" title="Two Faces" >}}<br>
+### All That Heaven Will Allow
+{{< youtube id="XlMDSTeb4_w" title="All That Heaven Will Allow" >}}<br>
 
 ### More Videos
 
@@ -49,11 +49,11 @@ styles: ["Soft Rock", "Pop Rock", "Ballad"]
 - [VINYL « Nr. 6763 -1987 - (Sides 2) Bruce Springsteen – Tunnel Of Love](https://www.youtube.com/watch?v=4e_qcQVFtoQ)
 - [Bruce Springsteen - Tunnel Of Love [Cassette]](https://www.youtube.com/watch?v=x02Uesie3Pk)
 - [Tougher Than the Rest](https://www.youtube.com/watch?v=9XQX-zRVK-w)
-- [All That Heaven Will Allow](https://www.youtube.com/watch?v=XlMDSTeb4_w)
 - [Spare Parts](https://www.youtube.com/watch?v=mkFD8gmBWQc)
 - [Cautious Man](https://www.youtube.com/watch?v=QRHPkseMFnU)
 - [Walk Like a Man](https://www.youtube.com/watch?v=k2WDBy53x2k)
 - [Tunnel of Love](https://www.youtube.com/watch?v=SVynfAYk_0I)
+- [Two Faces](https://www.youtube.com/watch?v=119sq2IIoiA)
 - [Brilliant Disguise](https://www.youtube.com/watch?v=vQVs36wfyaY)
 - [One Step Up](https://www.youtube.com/watch?v=hK0XsJ9GH1w)
 - [When You're Alone](https://www.youtube.com/watch?v=yj53o9pkKRo)

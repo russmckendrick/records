@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ---
 
-![HD015 by Survive](hd015-9231465.jpg)
+{{< img src="hd015-9231465.jpg" title="HD015 by Survive" >}}
 
 <!-- section break -->
 

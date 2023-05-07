@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Psychedelic Rock"]
 ---
 
-![Electric Ladyland by The Jimi Hendrix Experience](electric-ladyland-7611376.jpg)
+{{< img src="electric-ladyland-7611376.jpg" title="Electric Ladyland by The Jimi Hendrix Experience" >}}
 
 <!-- section break -->
 

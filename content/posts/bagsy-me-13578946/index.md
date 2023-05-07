@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Bagsy Me by The Wannadies](bagsy-me-13578946.jpg)
+{{< img src="bagsy-me-13578946.jpg" title="Bagsy Me by The Wannadies" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Wannadies - That's All
-{{< youtube id="gOtFWWc_nFw" title="The Wannadies - That's All" >}}<br>
+### The Wannadies - Combat Honey
+{{< youtube id="nU6Aqp9oUL0" title="The Wannadies - Combat Honey" >}}<br>
 
 ### More Videos
 
-- [The Wannadies - Combat Honey](https://www.youtube.com/watch?v=nU6Aqp9oUL0)
+- [The Wannadies - That's All](https://www.youtube.com/watch?v=gOtFWWc_nFw)
 
 
 ## Release Information

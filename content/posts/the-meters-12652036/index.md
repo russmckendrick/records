@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Bayou Funk"]
 ---
 
-![The Meters by The Meters](the-meters-12652036.jpg)
+{{< img src="the-meters-12652036.jpg" title="The Meters by The Meters" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Bayou Funk"]
 
 
 ## Videos
-### Sophisticated Cissy
-{{< youtube id="wEm_sj6k6lI" title="Sophisticated Cissy" >}}<br>
+### Art
+{{< youtube id="8vRRz62oJQ4" title="Art" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["Bayou Funk"]
 - [Cardova](https://www.youtube.com/watch?v=4kd3QuTexvM)
 - [The Meters- Sing A Simple Song](https://www.youtube.com/watch?v=cMi8X2UB91I)
 - [Live Wire](https://www.youtube.com/watch?v=D9IGwqUAwdU)
-- [Art](https://www.youtube.com/watch?v=8vRRz62oJQ4)
+- [Sophisticated Cissy](https://www.youtube.com/watch?v=wEm_sj6k6lI)
 - [Ease Back](https://www.youtube.com/watch?v=oFaA816BUPg)
 - [6V6 LA](https://www.youtube.com/watch?v=4CNS2jYBsZw)
 - [Sehorn's Farm](https://www.youtube.com/watch?v=54Ss8rnzCz8)

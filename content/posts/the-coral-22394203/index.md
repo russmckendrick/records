@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-![The Coral by The Coral](the-coral-22394203.jpg)
+{{< img src="the-coral-22394203.jpg" title="The Coral by The Coral" >}}
 
 <!-- section break -->
 
@@ -54,12 +54,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Spanish Main
-{{< youtube id="n-MoD4xtFaM" title="Spanish Main" >}}<br>
+### I Remember When
+{{< youtube id="RQorl6DeAq0" title="I Remember When" >}}<br>
 
 ### More Videos
 
-- [I Remember When](https://www.youtube.com/watch?v=RQorl6DeAq0)
+- [Spanish Main](https://www.youtube.com/watch?v=n-MoD4xtFaM)
 - [The Coral - Shadows Fall HQ](https://www.youtube.com/watch?v=fIVbqZ5_-yE)
 - [The Coral - Dreaming Of You (HQ)](https://www.youtube.com/watch?v=4Soyz9wEWgM)
 - [Simon Diamond](https://www.youtube.com/watch?v=mXrReCugyrc)

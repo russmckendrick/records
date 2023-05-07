@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Cupid & Psyche 85 by Scritti Politti](cupid-psyche-85-481976.jpg)
+{{< img src="cupid-psyche-85-481976.jpg" title="Cupid & Psyche 85 by Scritti Politti" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Lover To Fall
-{{< youtube id="ZtyVnfJGaCc" title="Lover To Fall" >}}<br>
+### Perfect Way
+{{< youtube id="s-P94UFne-w" title="Perfect Way" >}}<br>
 
 ### More Videos
 
 - [Scritti Politti - The Word Girl](https://www.youtube.com/watch?v=cyWB9WPLT1s)
 - [Small Talk](https://www.youtube.com/watch?v=cLdY5Pslcfg)
-- [Perfect Way](https://www.youtube.com/watch?v=s-P94UFne-w)
 - [Scritti Politti - Hypnotize](https://www.youtube.com/watch?v=382YYvtCBls)
 - [Scritti Politti - A Little Knowledge](https://www.youtube.com/watch?v=PWj43WH8hbQ)
+- [Lover To Fall](https://www.youtube.com/watch?v=ZtyVnfJGaCc)
 - [Wood Beez](https://www.youtube.com/watch?v=2-wNWem2248)
 - [Hypnotize](https://www.youtube.com/watch?v=V_QanDw8AyI)
 - [Scritti Politti - Word Girl / Flesh & Blood](https://www.youtube.com/watch?v=zgFtf63rdag)

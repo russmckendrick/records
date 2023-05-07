@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 ---
 
-![God Says No by Monster Magnet](god-says-no-8112114.jpg)
+{{< img src="god-says-no-8112114.jpg" title="God Says No by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -45,14 +45,14 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 
 
 ## Videos
-### Monster Magnet - Down in the Jungle
-{{< youtube id="HTMOv_2YgWg" title="Monster Magnet - Down in the Jungle" >}}<br>
+### All Shook Out - Monster Magnet - God Says No
+{{< youtube id="luq69m7Sp-g" title="All Shook Out - Monster Magnet - God Says No" >}}<br>
 
 ### More Videos
 
 - [Melt - Monster Magnet - God Says No](https://www.youtube.com/watch?v=tmbwoAeQcJ4)
 - [MONSTER MAGNET - Heads Explode unedited [God Says No] [HDadv][1080p]](https://www.youtube.com/watch?v=WhJGAbBVzQw)
-- [All Shook Out - Monster Magnet - God Says No](https://www.youtube.com/watch?v=luq69m7Sp-g)
+- [Monster Magnet - Down in the Jungle](https://www.youtube.com/watch?v=HTMOv_2YgWg)
 - [Monster Magnet-Queen of You (lyrics)](https://www.youtube.com/watch?v=RxFIuSVQ7vM)
 - [Silver Future - Monster Magnet - God Says No](https://www.youtube.com/watch?v=kuixhLvxA5A)
 - [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)

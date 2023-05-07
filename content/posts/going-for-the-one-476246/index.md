@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Going For The One by Yes](going-for-the-one-476246.jpg)
+{{< img src="going-for-the-one-476246.jpg" title="Going For The One by Yes" >}}
 
 <!-- section break -->
 

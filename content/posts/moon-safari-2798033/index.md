@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Future Jazz", "Downtempo"]
 ---
 
-![Moon Safari by AIR](moon-safari-2798033.jpg)
+{{< img src="moon-safari-2798033.jpg" title="Moon Safari by AIR" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Future Jazz", "Downtempo"]
 
 
 ## Videos
-### Remember
-{{< youtube id="6tLZrNswQZQ" title="Remember" >}}<br>
+### AIR - Ce Matin La
+{{< youtube id="IQdMAzsj7Xc" title="AIR - Ce Matin La" >}}<br>
 
 ### More Videos
 
@@ -56,7 +56,7 @@ styles: ["Future Jazz", "Downtempo"]
 - [Air - Remember](https://www.youtube.com/watch?v=B0rk_15Z5kU)
 - [Talisman](https://www.youtube.com/watch?v=IKIpsr5AhKc)
 - [Air | You make it easy](https://www.youtube.com/watch?v=S7s-kIMD-NE)
-- [AIR - Ce Matin La](https://www.youtube.com/watch?v=IQdMAzsj7Xc)
+- [Remember](https://www.youtube.com/watch?v=6tLZrNswQZQ)
 - [You Make It Easy](https://www.youtube.com/watch?v=k-FDyIeyqoE)
 - [Air - New Star In The Sky](https://www.youtube.com/watch?v=RwjmqYdb_EU)
 - [Ce matin-là (From L'uomo in più)](https://www.youtube.com/watch?v=jIQziWqjnOc)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![The Seer by Big Country](the-seer-369478.jpg)
+{{< img src="the-seer-369478.jpg" title="The Seer by Big Country" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Big Country - The Seer (feat. Kate Bush)
-{{< youtube id="p3CiO0Kr6i8" title="Big Country - The Seer (feat. Kate Bush)" >}}<br>
+### Big Country - Look Away
+{{< youtube id="enZ3cLD-9kQ" title="Big Country - Look Away" >}}<br>
 
 ### More Videos
 
-- [Big Country - Look Away](https://www.youtube.com/watch?v=enZ3cLD-9kQ)
+- [Big Country - The Seer (feat. Kate Bush)](https://www.youtube.com/watch?v=p3CiO0Kr6i8)
 - [The Teacher](https://www.youtube.com/watch?v=EuAIUM9u2vI)
 - [Big Country. Hold the Heart](https://www.youtube.com/watch?v=jpU_6IT32mo)
 - [Hold The Heart](https://www.youtube.com/watch?v=LDiYafZyheo)

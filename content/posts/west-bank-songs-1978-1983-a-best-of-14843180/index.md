@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Power Pop"]
 ---
 
-![West Bank Songs 1978-1983 (A Best Of) by The Undertones](west-bank-songs-1978-1983-a-best-of-14843180.jpg)
+{{< img src="west-bank-songs-1978-1983-a-best-of-14843180.jpg" title="West Bank Songs 1978-1983 (A Best Of) by The Undertones" >}}
 
 <!-- section break -->
 

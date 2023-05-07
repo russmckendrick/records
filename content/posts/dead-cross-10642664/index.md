@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
 
-![Dead Cross by Dead Cross](dead-cross-10642664.jpg)
+{{< img src="dead-cross-10642664.jpg" title="Dead Cross by Dead Cross" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Hardcore", "Heavy Metal"]
 
 
 ## Videos
-### Obedience School
-{{< youtube id="OPic-JDSpzM" title="Obedience School" >}}<br>
+### Dead Cross Seizure and Desist
+{{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}<br>
 
 ### More Videos
 
-- [Dead Cross Seizure and Desist](https://www.youtube.com/watch?v=WpdcT8kyP1U)
 - [Idiopathic](https://www.youtube.com/watch?v=X88l3lDg4ps)
+- [Obedience School](https://www.youtube.com/watch?v=OPic-JDSpzM)
 - [Shillelagh](https://www.youtube.com/watch?v=2Sd-B617LgQ)
 - [Bela Lugosi's Dead](https://www.youtube.com/watch?v=4QQHlXIDUfI)
 - [Divine Filth](https://www.youtube.com/watch?v=zarUQE-cTIo)

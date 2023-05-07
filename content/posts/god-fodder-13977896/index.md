@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Punk"]
 ---
 
-![God Fodder by Ned's Atomic Dustbin](god-fodder-13977896.jpg)
+{{< img src="god-fodder-13977896.jpg" title="God Fodder by Ned's Atomic Dustbin" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 
 
 ## Videos
-### Ned's Atomic Dustbin - Kill Your Television
-{{< youtube id="FaTcIzLk880" title="Ned's Atomic Dustbin - Kill Your Television" >}}<br>
+### Ned's Atomic Dustbin-Until You Find Out
+{{< youtube id="cTb5zr9vI4E" title="Ned's Atomic Dustbin-Until You Find Out" >}}<br>
 
 ### More Videos
 
@@ -50,6 +50,7 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 - [Ned's Atomic Dustbin-Kill Your Television](https://www.youtube.com/watch?v=ZA2371iADS0)
 - [Ned's Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=HqGzBqPnNBk)
 - [Ned's Atomic Dustbin-Less Than Useful](https://www.youtube.com/watch?v=pYqfB44lEF0)
+- [Ned's Atomic Dustbin - Kill Your Television](https://www.youtube.com/watch?v=FaTcIzLk880)
 - [Ned's Atomic Dustbin-Selfish](https://www.youtube.com/watch?v=uzUwJjgTRKk)
 - [Neds Atomic Dustbin-Happy](https://www.youtube.com/watch?v=AI4lzeHQduE)
 - [Ned's Atomic Dustbin-Grey Cell Green](https://www.youtube.com/watch?v=GkH0wgg8igM)
@@ -64,7 +65,6 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 - [Grey Cell Green](https://www.youtube.com/watch?v=c0ptSGGcQUs)
 - [Ned's Atomic Dustbin-Nothing Like](https://www.youtube.com/watch?v=PgaW75ay1Mw)
 - [Ned's Atomic Dustbin - Cut Up - God Fodder [1991]](https://www.youtube.com/watch?v=O6BtD4q63fg)
-- [Ned's Atomic Dustbin-Until You Find Out](https://www.youtube.com/watch?v=cTb5zr9vI4E)
 - [Ned's Atomic Dustbin-You](https://www.youtube.com/watch?v=xyOYwnTekOc)
 - [Ned's Atomic Dustbin-What Gives My Son?](https://www.youtube.com/watch?v=6ahrAlCt0L4)
 

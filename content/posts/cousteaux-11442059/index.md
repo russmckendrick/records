@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![CousteauX by Cousteau](cousteaux-11442059.jpg)
+{{< img src="cousteaux-11442059.jpg" title="CousteauX by Cousteau" >}}
 
 <!-- section break -->
 

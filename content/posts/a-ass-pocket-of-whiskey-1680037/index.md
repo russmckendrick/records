@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric Blues"]
 ---
 
-![A Ass Pocket Of Whiskey by R.L. Burnside](a-ass-pocket-of-whiskey-1680037.jpg)
+{{< img src="a-ass-pocket-of-whiskey-1680037.jpg" title="A Ass Pocket Of Whiskey by R.L. Burnside" >}}
 
 <!-- section break -->
 

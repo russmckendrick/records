@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Field Recording"]
 ---
 
-![Amazônia by Jean-Michel Jarre](amaznia-18216709.jpg)
+{{< img src="amaznia-18216709.jpg" title="Amazônia by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Ambient", "Field Recording"]
 
 
 ## Videos
-### Amazônia, Pt. 3 (Binaural Audio - Headphones only)
-{{< youtube id="PVH2txpwQiQ" title="Amazônia, Pt. 3 (Binaural Audio - Headphones only)" >}}<br>
+### Amazônia, Pt. 9
+{{< youtube id="L6quam3cEaE" title="Amazônia, Pt. 9" >}}<br>
 
 ### More Videos
 
@@ -50,9 +50,9 @@ styles: ["Ambient", "Field Recording"]
 - [Amazônia, Pt. 6](https://www.youtube.com/watch?v=1ZKyCKU1PCQ)
 - [Amazônia, Pt. 7](https://www.youtube.com/watch?v=SlKefLTiwgk)
 - [Amazônia, Pt. 8](https://www.youtube.com/watch?v=ZIvwNbN1xCc)
-- [Amazônia, Pt. 9](https://www.youtube.com/watch?v=L6quam3cEaE)
 - [Amazônia, Pt. 1 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=UxIOoeGC2jY)
 - [Amazônia, Pt. 2 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=HTWXEQ0jg28)
+- [Amazônia, Pt. 3 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=PVH2txpwQiQ)
 - [Amazônia, Pt. 4 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=wh2pfKWtNq4)
 - [Amazônia, Pt. 5 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=cavAYYkfVp4)
 - [Amazônia, Pt. 6 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=xqTUdYHZHUc)

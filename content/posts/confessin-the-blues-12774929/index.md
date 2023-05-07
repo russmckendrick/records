@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Rock & Roll"]
 ---
 
-![Confessin' The Blues by Various](confessin-the-blues-12774929.jpg)
+{{< img src="confessin-the-blues-12774929.jpg" title="Confessin' The Blues by Various" >}}
 
 <!-- section break -->
 

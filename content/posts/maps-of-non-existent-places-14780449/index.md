@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Maps Of Non-Existent Places by Thank You Scientist](maps-of-non-existent-places-14780449.jpg)
+{{< img src="maps-of-non-existent-places-14780449.jpg" title="Maps Of Non-Existent Places by Thank You Scientist" >}}
 
 <!-- section break -->
 

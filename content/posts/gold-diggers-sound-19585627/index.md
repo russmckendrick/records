@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
 
-![Gold-Diggers Sound by Leon Bridges](gold-diggers-sound-19585627.jpg)
+{{< img src="gold-diggers-sound-19585627.jpg" title="Gold-Diggers Sound by Leon Bridges" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Soul", "Contemporary R&B"]
 
 
 ## Videos
-### Leon Bridges - Why Don't You Touch Me: Part 1 (Official Video)
-{{< youtube id="TqgMx3eWdYg" title="Leon Bridges - Why Don't You Touch Me: Part 1 (Official Video)" >}}<br>
+### Leon Bridges - Magnolias (Official Audio)
+{{< youtube id="zii5MS4rEBI" title="Leon Bridges - Magnolias (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -50,9 +50,9 @@ styles: ["Soul", "Contemporary R&B"]
 - [Leon Bridges - Sho Nuff (Official Audio)](https://www.youtube.com/watch?v=L5TSafwHkV8)
 - [Leon Bridges - Blue Mesas (Official Audio)](https://www.youtube.com/watch?v=2QjPc81E09A)
 - [Leon Bridges, Robert Glasper - Born Again (Official Audio)](https://www.youtube.com/watch?v=qD04kpUV3nc)
+- [Leon Bridges - Why Don't You Touch Me: Part 1 (Official Video)](https://www.youtube.com/watch?v=TqgMx3eWdYg)
 - [Leon Bridges - Don't Worry (Official Audio) ft. Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
 - [Leon Bridges - Sweeter (Official Video) ft. Terrace Martin](https://www.youtube.com/watch?v=35AWgksymtA)
-- [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![The Hurting by Tears For Fears](the-hurting-5934162.jpg)
+{{< img src="the-hurting-5934162.jpg" title="The Hurting by Tears For Fears" >}}
 
 <!-- section break -->
 

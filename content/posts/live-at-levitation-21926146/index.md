@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Live At Levitation by Primal Scream](live-at-levitation-21926146.jpg)
+{{< img src="live-at-levitation-21926146.jpg" title="Live At Levitation by Primal Scream" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ---
 
-![Richard D. James Album by Aphex Twin](richard-d-james-album-3979643.jpg)
+{{< img src="richard-d-james-album-3979643.jpg" title="Richard D. James Album by Aphex Twin" >}}
 
 <!-- section break -->
 
@@ -38,18 +38,18 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 
 
 ## Videos
-### Aphex Twin - Yellow Calx
-{{< youtube id="2dHKh-Nu1oU" title="Aphex Twin - Yellow Calx" >}}<br>
+### Aphex Twin - Cornish Acid
+{{< youtube id="TkyTltnqdlg" title="Aphex Twin - Cornish Acid" >}}<br>
 
 ### More Videos
 
 - [4](https://www.youtube.com/watch?v=7WAa3tY6cfo)
-- [Aphex Twin - Cornish Acid](https://www.youtube.com/watch?v=TkyTltnqdlg)
 - [Peek 824545201](https://www.youtube.com/watch?v=JVKCw_qlSvo)
 - [Fingerbib](https://www.youtube.com/watch?v=v3-KGSuJy_s)
 - [Carn Marth](https://www.youtube.com/watch?v=Pb2HJsYvjaw)
 - [Aphex Twin - To Cure A Weakling Child](https://www.youtube.com/watch?v=pugC5qZ_SXU)
 - [Goon Gumpas](https://www.youtube.com/watch?v=NMYIVsdGfoo)
+- [Aphex Twin - Yellow Calx](https://www.youtube.com/watch?v=2dHKh-Nu1oU)
 - [Aphex Twin - Girl/Boy Song](https://www.youtube.com/watch?v=mkxz3nU5vOI)
 - [Aphex Twin - Logan Rock Witch (video)](https://www.youtube.com/watch?v=vycZbHX-Fq0)
 

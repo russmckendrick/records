@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock"]
 ---
 
-![Goin' Your Way (Highlights) by Neil Finn](goin-your-way-highlights-7780882.jpg)
+{{< img src="goin-your-way-highlights-7780882.jpg" title="Goin' Your Way (Highlights) by Neil Finn" >}}
 
 <!-- section break -->
 

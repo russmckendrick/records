@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
-![Roots by Children of the Sün](roots-23720324.jpg)
+{{< img src="roots-23720324.jpg" title="Roots by Children of the Sün" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,13 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 
 ## Videos
-### CHILDREN OF THE SÜN - REFLECTION (Official Audio)
-{{< youtube id="geF67QdW7S4" title="CHILDREN OF THE SÜN - REFLECTION (Official Audio)" >}}<br>
+### Thunder
+{{< youtube id="_qxZ025XJTY" title="Thunder" >}}<br>
 
 ### More Videos
 
 - [Children of the Sün - Roots (full Album 2022)](https://www.youtube.com/watch?v=Jgtcr15D41I)
+- [CHILDREN OF THE SÜN - REFLECTION (Official Audio)](https://www.youtube.com/watch?v=geF67QdW7S4)
 - [CHILDREN OF THE SÜN - LEAVES (Official Audio)](https://www.youtube.com/watch?v=whzDdlOmD5g)
 - [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
 - [CHILDREN OF THE SÜN - GASLIGHTING (Official Audio)](https://www.youtube.com/watch?v=fZnD3F_ebPc)
@@ -54,7 +55,6 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 - [Roots](https://www.youtube.com/watch?v=6exWfGXt62Q)
 - [Man in the Moon](https://www.youtube.com/watch?v=aRvpCb0c1oI)
 - [CHILDREN OF THE SÜN - IN SILVA (Official Audio)](https://www.youtube.com/watch?v=Ml7chTCmetw)
-- [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 
 

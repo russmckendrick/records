@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![To Cure A Blizzard Upon A Plastic Sea by Vennart](to-cure-a-blizzard-upon-a-plastic-sea-12785734.jpg)
+{{< img src="to-cure-a-blizzard-upon-a-plastic-sea-12785734.jpg" title="To Cure A Blizzard Upon A Plastic Sea by Vennart" >}}
 
 <!-- section break -->
 

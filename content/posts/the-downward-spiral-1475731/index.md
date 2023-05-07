@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
 
-![The Downward Spiral by Nine Inch Nails](the-downward-spiral-1475731.jpg)
+{{< img src="the-downward-spiral-1475731.jpg" title="The Downward Spiral by Nine Inch Nails" >}}
 
 <!-- section break -->
 

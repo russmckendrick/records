@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Country Rock"]
 ---
 
-![Welcome 2 Club XIII by Drive-By Truckers](welcome-2-club-xiii-23507621.jpg)
+{{< img src="welcome-2-club-xiii-23507621.jpg" title="Welcome 2 Club XIII by Drive-By Truckers" >}}
 
 <!-- section break -->
 

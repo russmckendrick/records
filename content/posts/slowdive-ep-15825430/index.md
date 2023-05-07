@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Slowdive EP by Slowdive](slowdive-ep-15825430.jpg)
+{{< img src="slowdive-ep-15825430.jpg" title="Slowdive EP by Slowdive" >}}
 
 <!-- section break -->
 
@@ -28,13 +28,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Slowdive - Slowdive (1991)
-{{< youtube id="JzVwpibI8uY" title="Slowdive - Slowdive (1991)" >}}<br>
+### Slowdive - Avalyn 1 & 2
+{{< youtube id="5uUoaq_X8oc" title="Slowdive - Avalyn 1 & 2" >}}<br>
 
 ### More Videos
 
 - [Slowdive](https://www.youtube.com/watch?v=hs9kJZ1uJ-Q)
-- [Slowdive - Avalyn 1 & 2](https://www.youtube.com/watch?v=5uUoaq_X8oc)
+- [Slowdive - Slowdive (1991)](https://www.youtube.com/watch?v=JzVwpibI8uY)
 
 
 ## Release Information

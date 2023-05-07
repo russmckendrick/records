@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-![Metal Killers by Various](metal-killers-1916752.jpg)
+{{< img src="metal-killers-1916752.jpg" title="Metal Killers by Various" >}}
 
 <!-- section break -->
 

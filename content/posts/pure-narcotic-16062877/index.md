@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Pure Narcotic by Porcupine Tree](pure-narcotic-16062877.jpg)
+{{< img src="pure-narcotic-16062877.jpg" title="Pure Narcotic by Porcupine Tree" >}}
 
 <!-- section break -->
 

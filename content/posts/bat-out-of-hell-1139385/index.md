@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-![Bat Out Of Hell by Meat Loaf](bat-out-of-hell-1139385.jpg)
+{{< img src="bat-out-of-hell-1139385.jpg" title="Bat Out Of Hell by Meat Loaf" >}}
 
 <!-- section break -->
 
@@ -38,16 +38,16 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 
 ## Videos
-### Two Out of Three Ain't Bad
-{{< youtube id="HVvXWUAKtus" title="Two Out of Three Ain't Bad" >}}<br>
+### Bat Out of Hell
+{{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}<br>
 
 ### More Videos
 
-- [Bat Out of Hell](https://www.youtube.com/watch?v=x7ES7ueI7p0)
 - [M̲e̲at L̲oaf - B̲at O̲ut of H̲ell (Full Album) 1977](https://www.youtube.com/watch?v=BsQHVWBeTUU)
 - [You Took The Words Right Out of My Mouth (Hot Summer Night)](https://www.youtube.com/watch?v=HRZTRTPiIT4)
 - [Heaven Can Wait](https://www.youtube.com/watch?v=VJKm0KxQ2L4)
 - [All Revved Up with No Place to Go](https://www.youtube.com/watch?v=eWVmRvq50kQ)
+- [Two Out of Three Ain't Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)
 - [Paradise By the Dashboard Light](https://www.youtube.com/watch?v=a136H5K3OKw)
 - [For Crying Out Loud](https://www.youtube.com/watch?v=8KyHDNQkBSA)
 - [Great Boleros of Fire (Live Intro)](https://www.youtube.com/watch?v=6YBGsJtXtys)

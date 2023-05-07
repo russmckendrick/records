@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"]
 ---
 
-![Cosmogramma by Flying Lotus](cosmogramma-2595467.jpg)
+{{< img src="cosmogramma-2595467.jpg" title="Cosmogramma by Flying Lotus" >}}
 
 <!-- section break -->
 
@@ -45,16 +45,16 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 
 
 ## Videos
-### Do the Astral Plane
-{{< youtube id="V_VeIP_l7iA" title="Do the Astral Plane" >}}<br>
+### Satelllliiiiiteee
+{{< youtube id="PC69RbHDiCg" title="Satelllliiiiiteee" >}}<br>
 
 ### More Videos
 
 - [Flying Lotus - Zodiac Shit](https://www.youtube.com/watch?v=0ScYz9sNaQk)
 - [Flying Lotus - MmmHmm ft. Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
+- [Do the Astral Plane](https://www.youtube.com/watch?v=V_VeIP_l7iA)
 - [Clock Catcher](https://www.youtube.com/watch?v=lmMwJeLMWkA)
 - [Flying Lotus- Cosmogramma ALBUM REVIEW](https://www.youtube.com/watch?v=KCuamde9Atc)
-- [Satelllliiiiiteee](https://www.youtube.com/watch?v=PC69RbHDiCg)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Ambient", "Art Rock", "Instrumental"]
 ---
 
-![The Endless River by Pink Floyd](the-endless-river-6268164.jpg)
+{{< img src="the-endless-river-6268164.jpg" title="The Endless River by Pink Floyd" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock"]
 ---
 
-![Cobras And Fire: The Mastermind Redux by Monster Magnet](cobras-and-fire-the-mastermind-redux-7628637.jpg)
+{{< img src="cobras-and-fire-the-mastermind-redux-7628637.jpg" title="Cobras And Fire: The Mastermind Redux by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,11 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Titan
-{{< youtube id="g8XUUkXJqH4" title="The Titan" >}}<br>
+### Monster Magnet - Cobras And Fire (Hallucination Bomb)
+{{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}<br>
 
 ### More Videos
 
-- [Monster Magnet - Cobras And Fire (Hallucination Bomb)](https://www.youtube.com/watch?v=j6FYl9wDrqM)
 - [MONSTER MAGNET - Watch Me Fade (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=TNIc7H-tkP4)
 - [She Digs That Hole](https://www.youtube.com/watch?v=EdRat1Fm8Iw)
 - [Gods, Punks And The Everlasting Twilight](https://www.youtube.com/watch?v=xpz5yIazAlI)
@@ -51,6 +50,7 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 - [Mastermind '69](https://www.youtube.com/watch?v=f3Sp4tafOpg)
 - [Cobras And Fire (Hallucination Bomb)](https://www.youtube.com/watch?v=U-_kyy9Sb_s)
 - [Monster Magnet  -  Perish in Fire](https://www.youtube.com/watch?v=ZZOurnFyvD8)
+- [The Titan](https://www.youtube.com/watch?v=g8XUUkXJqH4)
 - [Ball Of Confusion](https://www.youtube.com/watch?v=_ns1NlBWmGE)
 
 

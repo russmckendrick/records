@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 ---
 
-![Second Toughest In The Infants by Underworld](second-toughest-in-the-infants-7761310.jpg)
+{{< img src="second-toughest-in-the-infants-7761310.jpg" title="Second Toughest In The Infants by Underworld" >}}
 
 <!-- section break -->
 

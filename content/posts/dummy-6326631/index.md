@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-![Dummy by Portishead](dummy-6326631.jpg)
+{{< img src="dummy-6326631.jpg" title="Dummy by Portishead" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Trip Hop", "Downtempo"]
 
 
 ## Videos
-### It Could Be Sweet
-{{< youtube id="Aw8GucJ4f7E" title="It Could Be Sweet" >}}<br>
+### Pedestal
+{{< youtube id="6zexKiOafjk" title="Pedestal" >}}<br>
 
 ### More Videos
 
@@ -47,10 +47,10 @@ styles: ["Trip Hop", "Downtempo"]
 - [Mysterons](https://www.youtube.com/watch?v=slDNOtOQ8oA)
 - [Sour Times](https://www.youtube.com/watch?v=VoSoZyiHZ6o)
 - [Strangers](https://www.youtube.com/watch?v=wCAURNnKqFo)
+- [It Could Be Sweet](https://www.youtube.com/watch?v=Aw8GucJ4f7E)
 - [Wandering Star](https://www.youtube.com/watch?v=8T0cRt8efsQ)
 - [It's A Fire](https://www.youtube.com/watch?v=selAvZE6lp4)
 - [Roads](https://www.youtube.com/watch?v=7nxWP9BhI7w)
-- [Pedestal](https://www.youtube.com/watch?v=6zexKiOafjk)
 - [Biscuit](https://www.youtube.com/watch?v=FRntBOQsNYc)
 
 

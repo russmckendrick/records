@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Rock & Roll"]
 ---
 
-![Bop Till You Drop by Ry Cooder](bop-till-you-drop-1596461.jpg)
+{{< img src="bop-till-you-drop-1596461.jpg" title="Bop Till You Drop by Ry Cooder" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,14 @@ styles: ["Blues Rock", "Rock & Roll"]
 
 
 ## Videos
-### Ry Cooder - I can't win (From the Album: Bop 'til you drop)
-{{< youtube id="EAe_3_GO9t0" title="Ry Cooder - I can't win (From the Album: Bop 'til you drop)" >}}<br>
+### I Think Its Going to Work out Fine
+{{< youtube id="MVEMQ_SCc6w" title="I Think Its Going to Work out Fine" >}}<br>
 
 ### More Videos
 
 - [Down in Hollywood](https://www.youtube.com/watch?v=d4lmMBHlAS4)
 - [Ry Cooder - I Think It's Going To Work Out Fine](https://www.youtube.com/watch?v=_oYzxkfzJZ0)
+- [Ry Cooder - I can't win (From the Album: Bop 'til you drop)](https://www.youtube.com/watch?v=EAe_3_GO9t0)
 - [Look at Granny Run Run - Ry Cooder](https://www.youtube.com/watch?v=4uMNwfNoViE)
 - [Ry Cooder - Dont Mess Up A Good Thing](https://www.youtube.com/watch?v=ExuqsRMMoy4)
 - [The Very Thing That Makes You Rich (Makes Me Poor)](https://www.youtube.com/watch?v=OTJ3RQSa1PU)
@@ -53,7 +54,6 @@ styles: ["Blues Rock", "Rock & Roll"]
 - [I Can't Win](https://www.youtube.com/watch?v=ATk47PJUbMQ)
 - [Trouble, You Can't Fool Me](https://www.youtube.com/watch?v=QilXueoAcck)
 - [Don't Mess up a Good Thing](https://www.youtube.com/watch?v=zVss8tMwcpg)
-- [I Think Its Going to Work out Fine](https://www.youtube.com/watch?v=MVEMQ_SCc6w)
 
 
 ## Release Information

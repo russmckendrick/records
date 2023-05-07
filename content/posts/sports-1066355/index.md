@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 ---
 
-![Sports by Huey Lewis & The News](sports-1066355.jpg)
+{{< img src="sports-1066355.jpg" title="Sports by Huey Lewis & The News" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 
 
 ## Videos
-### Finally Found A Home
-{{< youtube id="-DQ3ZKyKd0g" title="Finally Found A Home" >}}<br>
+### Huey Lewis And The News - Bad Is Bad
+{{< youtube id="7CscPTI8fwA" title="Huey Lewis And The News - Bad Is Bad" >}}<br>
 
 ### More Videos
 
 - [Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)](https://www.youtube.com/watch?v=M7JVlpm0eRs)
 - [Huey Lewis And The News - Heart And Soul (Official Music Video)](https://www.youtube.com/watch?v=8TdaXhpjHws)
-- [Huey Lewis And The News - Bad Is Bad](https://www.youtube.com/watch?v=7CscPTI8fwA)
 - [Huey Lewis And The News - I Want A New Drug (Official Music Video)](https://www.youtube.com/watch?v=N6uEMOeDZsA)
 - [Walking On A Thin Line](https://www.youtube.com/watch?v=VVE9Kj1o4ig)
+- [Finally Found A Home](https://www.youtube.com/watch?v=-DQ3ZKyKd0g)
 - [Huey Lewis And The News - If This Is It (Official Music Video)](https://www.youtube.com/watch?v=AaTQAaJWW54)
 - [You Crack Me Up](https://www.youtube.com/watch?v=-Z6WHizfg8U)
 - [Honky Tonk Blues](https://www.youtube.com/watch?v=ko-w5e4-mbw)

@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Acoustic"]
 ---
 
-![Heartbreaker by Ryan Adams](heartbreaker-7040056.jpg)
+{{< img src="heartbreaker-7040056.jpg" title="Heartbreaker by Ryan Adams" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Acoustic"]
 
 
 ## Videos
-### Oh My Sweet Carolina
-{{< youtube id="eMZYRvDvgT4" title="Oh My Sweet Carolina" >}}<br>
+### Ryan Adams - Damn, Sam (I Love A Woman That Rains)
+{{< youtube id="C0i3LyJXAjo" title="Ryan Adams - Damn, Sam (I Love A Woman That Rains)" >}}<br>
 
 ### More Videos
 
@@ -52,9 +52,9 @@ styles: ["Acoustic"]
 - [Ryan Adams, To Be Young (Is to Be Sad, Is to Be High)](https://www.youtube.com/watch?v=g_c1YM53Wwo)
 - [Ryan Adams, My Winding Wheel](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
 - [Ryan Adams - AMY (Heartbreaker)](https://www.youtube.com/watch?v=BvmORF7DLFM)
+- [Oh My Sweet Carolina](https://www.youtube.com/watch?v=eMZYRvDvgT4)
 - [Bartering Lines](https://www.youtube.com/watch?v=aKHyuoPriRQ)
 - [Ryan Adams, Call Me on Your Way Back Home](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
-- [Ryan Adams - Damn, Sam (I Love A Woman That Rains)](https://www.youtube.com/watch?v=C0i3LyJXAjo)
 - [Ryan Adams - Come Pick Me Up](https://www.youtube.com/watch?v=kM0mjukDGRw)
 - [Ryan Adams, To Be the One](https://www.youtube.com/watch?v=hekcNSyhW9g)
 - [Ryan Adams, Why Do They Leave](https://www.youtube.com/watch?v=VGIFTHlJLO8)

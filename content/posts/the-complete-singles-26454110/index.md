@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![The Complete Singles by Inspiral Carpets](the-complete-singles-26454110.jpg)
+{{< img src="the-complete-singles-26454110.jpg" title="The Complete Singles by Inspiral Carpets" >}}
 
 <!-- section break -->
 
@@ -52,14 +52,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### I Want You (feat. Mark E. Smith) (2023 Remaster)
-{{< youtube id="9TlpH6Fwycc" title="I Want You (feat. Mark E. Smith) (2023 Remaster)" >}}<br>
+### Butterfly (2023 Remaster)
+{{< youtube id="sUAGD5cvsMk" title="Butterfly (2023 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)](https://www.youtube.com/watch?v=cmqzakGa6Dc)
 - [Keep the Circle Around (2023 Remaster)](https://www.youtube.com/watch?v=mypEpDOaZ6U)
-- [Butterfly (2023 Remaster)](https://www.youtube.com/watch?v=sUAGD5cvsMk)
 - [Joe (2023 Remaster)](https://www.youtube.com/watch?v=f_GhZ9w3o28)
 - [Find Out Why (2023 Remaster)](https://www.youtube.com/watch?v=SRbVmjUsVeg)
 - [Move (2023 Remaster)](https://www.youtube.com/watch?v=k9SYolKaqHU)
@@ -75,6 +74,7 @@ styles: ["Indie Rock"]
 - [Bitches Brew (2023 Remaster)](https://www.youtube.com/watch?v=cK_XaUE45TU)
 - [How It Should Be (2023 Remaster)](https://www.youtube.com/watch?v=cwECpC5LU2k)
 - [Saturn 5 (2023 Remaster)](https://www.youtube.com/watch?v=IZjqpT2PPgI)
+- [I Want You (feat. Mark E. Smith) (2023 Remaster)](https://www.youtube.com/watch?v=9TlpH6Fwycc)
 - [Uniform (2023 Remaster)](https://www.youtube.com/watch?v=2ZTQFw3IgaA)
 - [Come Back Tomorrow (2023 Remaster)](https://www.youtube.com/watch?v=X0YXJCuFv2A)
 - [You're so Good for Me (2023 Remaster)](https://www.youtube.com/watch?v=wPS1PD-JbpM)

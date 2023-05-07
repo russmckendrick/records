@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Rejuvenation 2001-2014 by Simple Minds](rejuvenation-2001-2014-12910238.jpg)
+{{< img src="rejuvenation-2001-2014-12910238.jpg" title="Rejuvenation 2001-2014 by Simple Minds" >}}
 
 <!-- section break -->
 

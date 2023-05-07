@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Dumbing Up by World Party](dumbing-up-18417163.jpg)
+{{< img src="dumbing-up-18417163.jpg" title="Dumbing Up by World Party" >}}
 
 <!-- section break -->
 
@@ -50,8 +50,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### World Party - Always On My Mind
-{{< youtube id="rN1GCf3MwoE" title="World Party - Always On My Mind" >}}<br>
+### World Party - Here Comes The Future
+{{< youtube id="AFn1kWOgkiY" title="World Party - Here Comes The Future" >}}<br>
 
 ### More Videos
 
@@ -59,10 +59,10 @@ styles: ["Alternative Rock"]
 - [World Party - Is It Like Today?](https://www.youtube.com/watch?v=0tyLGi2LtlU)
 - [I THOUGHT YOU WERE A SPY (2006) by World Party featuring Karl Wallinger](https://www.youtube.com/watch?v=yh6kFK15ZJ0)
 - [World Party - Who Are You? (Live)](https://www.youtube.com/watch?v=-wPyehctfwg)
-- [World Party - Here Comes The Future](https://www.youtube.com/watch?v=AFn1kWOgkiY)
 - [Always On My Mind](https://www.youtube.com/watch?v=MZt_WxMSGls)
 - [You're a Hurricane, I'm a Caravan](https://www.youtube.com/watch?v=o1i-yYuQWDw)
 - [See the Light](https://www.youtube.com/watch?v=9oWxP5Pk8Wc)
+- [World Party - Always On My Mind](https://www.youtube.com/watch?v=rN1GCf3MwoE)
 
 
 ## Release Information

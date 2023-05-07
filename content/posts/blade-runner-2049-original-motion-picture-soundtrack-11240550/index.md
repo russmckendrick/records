@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ---
 
-![Blade Runner 2049 (Original Motion Picture Soundtrack) by Hans Zimmer](blade-runner-2049-original-motion-picture-soundtrack-11240550.jpg)
+{{< img src="blade-runner-2049-original-motion-picture-soundtrack-11240550.jpg" title="Blade Runner 2049 (Original Motion Picture Soundtrack) by Hans Zimmer" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 
 
 ## Videos
-### One For My Baby (And One More For The Road) - Frank Sinatra (Blade Runner 2049 Soundtrack)
-{{< youtube id="RgyfXKKeZMo" title="One For My Baby (And One More For The Road) - Frank Sinatra (Blade Runner 2049 Soundtrack)" >}}<br>
+### Lauren Daigle - Almost Human
+{{< youtube id="HcBpKOiGuz8" title="Lauren Daigle - Almost Human" >}}<br>
 
 ### More Videos
 
@@ -57,10 +57,10 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 - [Blade Runner (Blade Runner 2049 Soundtrack)](https://www.youtube.com/watch?v=1uAoaKM16kw)
 - [Blade Runner 2049 Original Motion Picture Soundtrack by Hans Zimmer - (HQ) (HD)](https://www.youtube.com/watch?v=JDQ1gFMQKR8)
 - [MIXED: Blade Runner 2049 Original Motion Picture Soundtrack](https://www.youtube.com/watch?v=nf0llz_Rfd0)
+- [One For My Baby (And One More For The Road) - Frank Sinatra (Blade Runner 2049 Soundtrack)](https://www.youtube.com/watch?v=RgyfXKKeZMo)
 - [Blade Runner 2049 - Mesa (Extended)](https://www.youtube.com/watch?v=zzTiaVq9RN0)
 - [Mondo and The Art of Soundtracks | Jigowatts](https://www.youtube.com/watch?v=bsGXfgsw4Y8)
 - [Can't Help Falling in Love | Blade Runner 2049 Soundtrack](https://www.youtube.com/watch?v=gjIiKmpBV1Q)
-- [Lauren Daigle - Almost Human](https://www.youtube.com/watch?v=HcBpKOiGuz8)
 
 
 ## Release Information

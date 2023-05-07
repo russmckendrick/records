@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk"]
 ---
 
-![Bringing It All Back Home by Bob Dylan](bringing-it-all-back-home-7763624.jpg)
+{{< img src="bringing-it-all-back-home-7763624.jpg" title="Bringing It All Back Home by Bob Dylan" >}}
 
 <!-- section break -->
 

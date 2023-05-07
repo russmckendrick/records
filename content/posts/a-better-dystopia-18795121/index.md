@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-![A Better Dystopia by Monster Magnet](a-better-dystopia-18795121.jpg)
+{{< img src="a-better-dystopia-18795121.jpg" title="A Better Dystopia by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Be Forewarned
-{{< youtube id="n-Bb-gtjMb0" title="Be Forewarned" >}}<br>
+### Motorcycle (Straight to Hell)
+{{< youtube id="3_B5nY6_9Io" title="Motorcycle (Straight to Hell)" >}}<br>
 
 ### More Videos
 
@@ -52,12 +52,12 @@ styles: ["Stoner Rock"]
 - [Born to Go](https://www.youtube.com/watch?v=jucuttyPPQY)
 - [Epitaph for a Head](https://www.youtube.com/watch?v=29ijCdrzRjI)
 - [Solid Gold Hell](https://www.youtube.com/watch?v=EMVQQWadkbg)
+- [Be Forewarned](https://www.youtube.com/watch?v=n-Bb-gtjMb0)
 - [Mr. Destroyer](https://www.youtube.com/watch?v=jzoOiSe1yYo)
 - [When the Wolf Sits](https://www.youtube.com/watch?v=PjJ8KnWNuTk)
 - [Death](https://www.youtube.com/watch?v=byXV8klxtiE)
 - [Situation](https://www.youtube.com/watch?v=ToYoq70P7HI)
 - [It's Trash](https://www.youtube.com/watch?v=JBUDIPEs6q0)
-- [Motorcycle (Straight to Hell)](https://www.youtube.com/watch?v=3_B5nY6_9Io)
 - [Learning to Die](https://www.youtube.com/watch?v=bEZZdpQjJnA)
 - [Welcome to the Void (Bonus Track)](https://www.youtube.com/watch?v=GzAXSIiGy-w)
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Come On Pilgrim... It's Surfer Rosa by Pixies](come-on-pilgrim-it-s-surfer-rosa-12571941.jpg)
+{{< img src="come-on-pilgrim-it-s-surfer-rosa-12571941.jpg" title="Come On Pilgrim... It's Surfer Rosa by Pixies" >}}
 
 <!-- section break -->
 

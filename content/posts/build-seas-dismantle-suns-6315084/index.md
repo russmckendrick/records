@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Build Seas, Dismantle Suns by Nordic Giants](build-seas-dismantle-suns-6315084.jpg)
+{{< img src="build-seas-dismantle-suns-6315084.jpg" title="Build Seas, Dismantle Suns by Nordic Giants" >}}
 
 <!-- section break -->
 

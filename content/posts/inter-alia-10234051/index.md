@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Post-Hardcore"]
 ---
 
-![in•ter a•li•a by At The Drive-In](inter-alia-10234051.jpg)
+{{< img src="inter-alia-10234051.jpg" title="in•ter a•li•a by At The Drive-In" >}}
 
 <!-- section break -->
 

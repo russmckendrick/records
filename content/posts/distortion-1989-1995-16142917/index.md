@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Distortion: 1989 - 1995 by Bob Mould](distortion-1989-1995-16142917.jpg)
+{{< img src="distortion-1989-1995-16142917.jpg" title="Distortion: 1989 - 1995 by Bob Mould" >}}
 
 <!-- section break -->
 

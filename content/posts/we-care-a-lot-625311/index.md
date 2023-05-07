@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ---
 
-![We Care A Lot by Faith No More](we-care-a-lot-625311.jpg)
+{{< img src="we-care-a-lot-625311.jpg" title="We Care A Lot by Faith No More" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 
 
 ## Videos
-### Faith No More - We Care a Lot (Official Music Video) [4K]
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video) [4K]" >}}<br>
+### We Care a Lot
+{{< youtube id="9L3M2WC5LPA" title="We Care a Lot" >}}<br>
 
 ### More Videos
 
-- [We Care a Lot](https://www.youtube.com/watch?v=9L3M2WC5LPA)
+- [Faith No More - We Care a Lot (Official Music Video) [4K]](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [The Jungle](https://www.youtube.com/watch?v=JJ5qKiOc-Bg)
 - [Mark Bowen by Faith No More](https://www.youtube.com/watch?v=By5p2rqbm5A)
 - [Jim by Faith No More](https://www.youtube.com/watch?v=oOBZthysdGY)

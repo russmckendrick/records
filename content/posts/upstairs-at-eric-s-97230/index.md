@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![Upstairs At Eric's by Yazoo](upstairs-at-eric-s-97230.jpg)
+{{< img src="upstairs-at-eric-s-97230.jpg" title="Upstairs At Eric's by Yazoo" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Winter Kills
-{{< youtube id="77t2V9-UyHg" title="Winter Kills" >}}<br>
+### Yazoo - Only You(1982)(HQ)(Audio)/only you - yazoo(Upstairs At Erics)
+{{< youtube id="9pbGNskws_Q" title="Yazoo - Only You(1982)(HQ)(Audio)/only you - yazoo(Upstairs At Erics)" >}}<br>
 
 ### More Videos
 
@@ -56,9 +56,9 @@ styles: ["Synth-pop"]
 - [Goodbye Seventies](https://www.youtube.com/watch?v=_V4zNeXendQ)
 - [YAZOO: UPSTAIRS AT ERIC'S - 40 years (1982) Synthpop (Vince Clarke / Alison Moyet) 80s](https://www.youtube.com/watch?v=nTPnyo0E4QQ)
 - [Yaz / Upstairs At Eric's / In My Room  (HD Audio)](https://www.youtube.com/watch?v=iF4PUOTu0y4)
+- [Winter Kills](https://www.youtube.com/watch?v=77t2V9-UyHg)
 - [YAZOO - Only you [Upstairs at Eric's Remake]](https://www.youtube.com/watch?v=4W35VtdCMyA)
 - [Bring Your Love Down (Didn't I)](https://www.youtube.com/watch?v=j0XfOld-AAc)
-- [Yazoo - Only You(1982)(HQ)(Audio)/only you - yazoo(Upstairs At Erics)](https://www.youtube.com/watch?v=9pbGNskws_Q)
 - [Yazoo - Upstairs At Eric's - 08 - Tuesday (1982) (HQ)](https://www.youtube.com/watch?v=6vnw_her0HE)
 - [Don't Go](https://www.youtube.com/watch?v=w0IQ2Efylu4)
 - [Too Pieces](https://www.youtube.com/watch?v=4iDM9Ng_r8k)

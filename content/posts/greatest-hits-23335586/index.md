@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Greatest Hits by Whitesnake](greatest-hits-23335586.jpg)
+{{< img src="greatest-hits-23335586.jpg" title="Greatest Hits by Whitesnake" >}}
 
 <!-- section break -->
 

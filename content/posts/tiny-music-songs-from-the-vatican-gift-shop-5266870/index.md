@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-![Tiny Music...Songs From The Vatican Gift Shop by Stone Temple Pilots](tiny-music-songs-from-the-vatican-gift-shop-5266870.jpg)
+{{< img src="tiny-music-songs-from-the-vatican-gift-shop-5266870.jpg" title="Tiny Music...Songs From The Vatican Gift Shop by Stone Temple Pilots" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Seven Caged Tigers
-{{< youtube id="jVb7XdQIhYs" title="Seven Caged Tigers" >}}<br>
+### Tumble in the Rough
+{{< youtube id="cjLiO7BlpuI" title="Tumble in the Rough" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [Stone Temple Pilots - Trippin' On A Hole In A Paper Heart (Official Music Video)](https://www.youtube.com/watch?v=HVPzWkdhwrw)
 - [Stone Temple Pilots - Lady Picture Show (Official Music Video)](https://www.youtube.com/watch?v=ds_43MdYiuQ)
 - [Stone Temple Pilots - And So I Know (Official Music Video)](https://www.youtube.com/watch?v=iGK5uFmhGdA)
+- [Seven Caged Tigers](https://www.youtube.com/watch?v=jVb7XdQIhYs)
 - [Adhesive](https://www.youtube.com/watch?v=qXkL4Ug-b2Y)
-- [Tumble in the Rough](https://www.youtube.com/watch?v=cjLiO7BlpuI)
 - [Press Play](https://www.youtube.com/watch?v=XYnRNBYKYhs)
 - [Daisy](https://www.youtube.com/watch?v=hNffAjfpo7w)
 - [Ride the Cliché](https://www.youtube.com/watch?v=RzYu50mxrjo)

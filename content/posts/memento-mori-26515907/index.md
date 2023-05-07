@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Alternative Rock"]
 ---
 
-![Memento Mori by Depeche Mode](memento-mori-26515907.jpg)
+{{< img src="memento-mori-26515907.jpg" title="Memento Mori by Depeche Mode" >}}
 
 <!-- section break -->
 

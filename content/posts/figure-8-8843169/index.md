@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
-![Figure 8 by Elliott Smith](figure-8-8843169.jpg)
+{{< img src="figure-8-8843169.jpg" title="Figure 8 by Elliott Smith" >}}
 
 <!-- section break -->
 

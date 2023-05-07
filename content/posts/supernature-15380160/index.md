@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
 
-![Supernature by Goldfrapp](supernature-15380160.jpg)
+{{< img src="supernature-15380160.jpg" title="Supernature by Goldfrapp" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 
 
 ## Videos
-### Goldfrapp - Ooh La La
-{{< youtube id="uco-2V4ytYQ" title="Goldfrapp - Ooh La La" >}}<br>
+### Goldfrapp - Ride A White Horse
+{{< youtube id="nFF8bubMc40" title="Goldfrapp - Ride A White Horse" >}}<br>
 
 ### More Videos
 
 - [Goldfrapp - Number 1](https://www.youtube.com/watch?v=gzfaJRDfveo)
-- [Goldfrapp - Ride A White Horse](https://www.youtube.com/watch?v=nFF8bubMc40)
+- [Goldfrapp - Ooh La La](https://www.youtube.com/watch?v=uco-2V4ytYQ)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Grunge"]
 ---
 
-![Jar Of Flies / Sap by Alice In Chains](jar-of-flies-sap-3566414.jpg)
+{{< img src="jar-of-flies-sap-3566414.jpg" title="Jar Of Flies / Sap by Alice In Chains" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Grunge"]
 
 
 ## Videos
-### Nutshell
-{{< youtube id="_siJRgDlddY" title="Nutshell" >}}<br>
+### Am I Inside
+{{< youtube id="08iaCYLhZ-k" title="Am I Inside" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Grunge"]
 - [Brother](https://www.youtube.com/watch?v=nH8BgfluCJA)
 - [Got Me Wrong](https://www.youtube.com/watch?v=IDFSAvTwnb0)
 - [Right Turn](https://www.youtube.com/watch?v=gBCTEM2Hga4)
-- [Am I Inside](https://www.youtube.com/watch?v=08iaCYLhZ-k)
+- [Nutshell](https://www.youtube.com/watch?v=_siJRgDlddY)
 - [Whale & Wasp](https://www.youtube.com/watch?v=1VvvPGXQ1RM)
 - [Swing On This](https://www.youtube.com/watch?v=Uj3R2ASEMDE)
 - [Love Song](https://www.youtube.com/watch?v=lmTKN09DPPQ)

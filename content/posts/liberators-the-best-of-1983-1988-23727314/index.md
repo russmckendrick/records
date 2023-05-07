@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-![Liberators! The Best Of 1983-1988 by Spear Of Destiny](liberators-the-best-of-1983-1988-23727314.jpg)
+{{< img src="liberators-the-best-of-1983-1988-23727314.jpg" title="Liberators! The Best Of 1983-1988 by Spear Of Destiny" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Surfing With The Alien by Joe Satriani](surfing-with-the-alien-14479209.jpg)
+{{< img src="surfing-with-the-alien-14479209.jpg" title="Surfing With The Alien by Joe Satriani" >}}
 
 <!-- section break -->
 

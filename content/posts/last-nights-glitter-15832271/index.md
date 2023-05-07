@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Last Nights Glitter by Charlie Barnes](last-nights-glitter-15832271.jpg)
+{{< img src="last-nights-glitter-15832271.jpg" title="Last Nights Glitter by Charlie Barnes" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic", "Reggae"]
 styles: ["Reggae", "Dub"]
 ---
 
-![Dubber Side Of The Moon by Easy Star All-Stars](dubber-side-of-the-moon-6664281.jpg)
+{{< img src="dubber-side-of-the-moon-6664281.jpg" title="Dubber Side Of The Moon by Easy Star All-Stars" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Reggae", "Dub"]
 
 
 ## Videos
-### Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)
-{{< youtube id="CD_SkZpc6J0" title="Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)" >}}<br>
+### EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER
+{{< youtube id="waLrqTiltmQ" title="EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER" >}}<br>
 
 ### More Videos
 
-- [EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER](https://www.youtube.com/watch?v=waLrqTiltmQ)
 - [Easy Star All Stars - Money (The Alchemist Remix)](https://www.youtube.com/watch?v=azmdQp4MryE)
+- [Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)](https://www.youtube.com/watch?v=CD_SkZpc6J0)
 
 
 ## Release Information

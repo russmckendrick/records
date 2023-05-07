@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
 
-![The Best Years Of Our Lives by Steve Harley & Cockney Rebel](the-best-years-of-our-lives-18332692.jpg)
+{{< img src="the-best-years-of-our-lives-18332692.jpg" title="The Best Years Of Our Lives by Steve Harley & Cockney Rebel" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### 49th Parallel (2014 Remaster)
-{{< youtube id="CQ90oxGi1yo" title="49th Parallel (2014 Remaster)" >}}<br>
+### Mr. Raffles (Man, It Was Mean) (Live at Hammersmith Odeon, 14 April 1975)
+{{< youtube id="4TKpsqymLnM" title="Mr. Raffles (Man, It Was Mean) (Live at Hammersmith Odeon, 14 April 1975)" >}}<br>
 
 ### More Videos
 
@@ -57,6 +57,7 @@ styles: ["Classic Rock"]
 - [Panorama (2014 Remaster)](https://www.youtube.com/watch?v=fzX1IdOH_E0)
 - [Steve Harley & Cockney Rebel ~ Make Me Smile (Come Up And See Me) ~ The Best Years Of Our Lives (HQ)](https://www.youtube.com/watch?v=prUFFUTb7lQ)
 - [Back to the Farm (2014 Remaster)](https://www.youtube.com/watch?v=f_D2THFZP_E)
+- [49th Parallel (2014 Remaster)](https://www.youtube.com/watch?v=CQ90oxGi1yo)
 - [The Best Years of Our Lives (2014 Remaster)](https://www.youtube.com/watch?v=BvRz8aAm9E0)
 - [Another Journey (2014 Remaster)](https://www.youtube.com/watch?v=W_xqddFzJwo)
 - [The Best Years of Our Lives (Acoustic Version)](https://www.youtube.com/watch?v=nln6a7fJcmU)
@@ -65,7 +66,6 @@ styles: ["Classic Rock"]
 - [Panorama (Live at the Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=0rgyWfnZFWY)
 - [Sweet Dreams (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=bGbuEDFlkac)
 - [Sebastian (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=ONqG1sF4K0Y)
-- [Mr. Raffles (Man, It Was Mean) (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=4TKpsqymLnM)
 - [Back to the Farm (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=4Grhiof9Ch8)
 - [49th Parallel (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=eovlmyBwb2s)
 - [Death Trip (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=N7SknTV2JQw)

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-![Live At Brixton  by Public Service Broadcasting](live-at-brixton-9448381.jpg)
+{{< img src="live-at-brixton-9448381.jpg" title="Live At Brixton  by Public Service Broadcasting" >}}
 
 <!-- section break -->
 

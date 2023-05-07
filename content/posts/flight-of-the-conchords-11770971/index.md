@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Folk, World, & Country", "Stag
 styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 ---
 
-![Flight Of The Conchords by Flight Of The Conchords](flight-of-the-conchords-11770971.jpg)
+{{< img src="flight-of-the-conchords-11770971.jpg" title="Flight Of The Conchords by Flight Of The Conchords" >}}
 
 <!-- section break -->
 
@@ -43,15 +43,15 @@ styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 
 
 ## Videos
-### Flight of the Conchords Ep2 Inner City Pressure
-{{< youtube id="7wqfcwgT0Ds" title="Flight of the Conchords Ep2 Inner City Pressure" >}}<br>
+### Flight Of The Conchords
+{{< youtube id="lmDTSQtK20c" title="Flight Of The Conchords" >}}<br>
 
 ### More Videos
 
 - [Flight of the Conchords Ep 8 'Foux Da Fa Fa'](https://www.youtube.com/watch?v=X5hrUGFhsXo)
 - [Flight of the Conchords Ep 3 Hiphopopotamus vs. Rhymenoceros](https://www.youtube.com/watch?v=FArZxLj6DLk)
-- [Flight Of The Conchords](https://www.youtube.com/watch?v=lmDTSQtK20c)
 - [Flight of the Conchords: Robot Song (HBO)](https://www.youtube.com/watch?v=mvrva8NoMLM)
+- [Flight of the Conchords Ep2 Inner City Pressure](https://www.youtube.com/watch?v=7wqfcwgT0Ds)
 - [Flight of the Conchords Ep 6 Bowie's In Space](https://www.youtube.com/watch?v=f4zV4pJ8MwM)
 - [Boom](https://www.youtube.com/watch?v=hD82FYtIIr0)
 

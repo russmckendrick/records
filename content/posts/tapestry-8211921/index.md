@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-![Tapestry by Carole King](tapestry-8211921.jpg)
+{{< img src="tapestry-8211921.jpg" title="Tapestry by Carole King" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: []
 
 
 ## Videos
-### Smackwater Jack
-{{< youtube id="ANsKjjyfeOo" title="Smackwater Jack" >}}<br>
+### Where You Lead
+{{< youtube id="jtxeDpNoR8I" title="Where You Lead" >}}<br>
 
 ### More Videos
 
@@ -54,8 +54,8 @@ styles: []
 - [Beautiful](https://www.youtube.com/watch?v=6ZC17DIsDaQ)
 - [Way over Yonder](https://www.youtube.com/watch?v=M2alP70O_Gw)
 - [Carole King - You've Got a Friend (Official Audio)](https://www.youtube.com/watch?v=eAR_Ff5A8Rk)
-- [Where You Lead](https://www.youtube.com/watch?v=jtxeDpNoR8I)
 - [Will You Love Me Tomorrow?](https://www.youtube.com/watch?v=WMGBcS0h-Ng)
+- [Smackwater Jack](https://www.youtube.com/watch?v=ANsKjjyfeOo)
 - [Tapestry](https://www.youtube.com/watch?v=JM07lUytXA0)
 - [Carole King - (You Make Me Feel Like) A Natural Woman (Official Audio)](https://www.youtube.com/watch?v=KQXY8zwQgmc)
 

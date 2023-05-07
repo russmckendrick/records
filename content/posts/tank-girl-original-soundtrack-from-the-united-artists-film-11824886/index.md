@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
 
-![Tank Girl - Original Soundtrack From The United Artists Film by Various](tank-girl-original-soundtrack-from-the-united-artists-film-11824886.jpg)
+{{< img src="tank-girl-original-soundtrack-from-the-united-artists-film-11824886.jpg" title="Tank Girl - Original Soundtrack From The United Artists Film by Various" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 
 
 ## Videos
-### Big Gun (O.S.T.)
-{{< youtube id="nmVgLArRbAk" title="Big Gun (O.S.T.)" >}}<br>
+### Aurora (O.S.T.)
+{{< youtube id="AeSCsB2uOmI" title="Aurora (O.S.T.)" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 - [Roads (O.S.T.)](https://www.youtube.com/watch?v=uvOkWj1USBE)
 - [Let's Do It (O.S.T.)](https://www.youtube.com/watch?v=xi8i08ve4hE)
 - [Thief (O.S.T.)](https://www.youtube.com/watch?v=-MjlENtpyxc)
-- [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
+- [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
 
 
 ## Release Information

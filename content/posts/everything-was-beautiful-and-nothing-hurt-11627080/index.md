@@ -14,7 +14,7 @@ genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 ---
 
-![Everything Was Beautiful, And Nothing Hurt by Moby](everything-was-beautiful-and-nothing-hurt-11627080.jpg)
+{{< img src="everything-was-beautiful-and-nothing-hurt-11627080.jpg" title="Everything Was Beautiful, And Nothing Hurt by Moby" >}}
 
 <!-- section break -->
 

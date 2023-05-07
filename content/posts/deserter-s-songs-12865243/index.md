@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
-![Deserter's Songs by Mercury Rev](deserter-s-songs-12865243.jpg)
+{{< img src="deserter-s-songs-12865243.jpg" title="Deserter's Songs by Mercury Rev" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Funny Bird
-{{< youtube id="SFWHQmgmW8E" title="The Funny Bird" >}}<br>
+### The Happy End (The Drunk Room)
+{{< youtube id="t7GheV0j2XE" title="The Happy End (The Drunk Room)" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 - [I Collect Coins](https://www.youtube.com/watch?v=OG5qHUDn-ck)
 - [Opus 40](https://www.youtube.com/watch?v=HJ_WzV38t3A)
 - [Hudson Line](https://www.youtube.com/watch?v=9jPw4lleFno)
-- [The Happy End (The Drunk Room)](https://www.youtube.com/watch?v=t7GheV0j2XE)
 - [Goddess on a Hiway](https://www.youtube.com/watch?v=V4H5AA1MNKU)
+- [The Funny Bird](https://www.youtube.com/watch?v=SFWHQmgmW8E)
 - [Pick Up If You're There](https://www.youtube.com/watch?v=FLCfMxO60N8)
 - [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 

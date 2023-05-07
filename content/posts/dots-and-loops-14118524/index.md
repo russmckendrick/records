@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock", "Experimental"]
 ---
 
-![Dots And Loops by Stereolab](dots-and-loops-14118524.jpg)
+{{< img src="dots-and-loops-14118524.jpg" title="Dots And Loops by Stereolab" >}}
 
 <!-- section break -->
 

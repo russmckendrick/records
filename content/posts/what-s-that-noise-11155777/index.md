@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["House", "Breaks", "Downtempo"]
 ---
 
-![What's That Noise? by Coldcut](what-s-that-noise-11155777.jpg)
+{{< img src="what-s-that-noise-11155777.jpg" title="What's That Noise? by Coldcut" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["House", "Breaks", "Downtempo"]
 
 
 ## Videos
-### Coldcut Featuring Yazz - Doctorin' The House ( 7'' Vocal Mix ).wmv
-{{< youtube id="YFXiDxb3xnE" title="Coldcut Featuring Yazz - Doctorin' The House ( 7'' Vocal Mix ).wmv" >}}<br>
+### What's That Noise (Original Mix)
+{{< youtube id="KerrBcAMxZI" title="What's That Noise (Original Mix)" >}}<br>
 
 ### More Videos
 
@@ -45,7 +45,6 @@ styles: ["House", "Breaks", "Downtempo"]
 - [COLDCUT - WHAT'S THAT NOISE(FULL ALBUM - VINYL) 33RPM - 1988](https://www.youtube.com/watch?v=l13T8AboN7U)
 - [Coldcut - Stop This Crazy Thing](https://www.youtube.com/watch?v=0-kcCNgd9SE)
 - [Coldcut - People Hold On (Video) ft. Lisa Stansfield](https://www.youtube.com/watch?v=4IoWjow6xDs)
-- [What's That Noise (Original Mix)](https://www.youtube.com/watch?v=KerrBcAMxZI)
 - [Coldcut - People Hold On [single version wLisa Stansfield]](https://www.youtube.com/watch?v=f2nt4wAFjh4)
 - [What's That Noise?](https://www.youtube.com/watch?v=D1vO1w8-UKM)
 - [Coldcut - 'True Skool'](https://www.youtube.com/watch?v=PRHCP-Czj0Y)
@@ -79,6 +78,7 @@ styles: ["House", "Breaks", "Downtempo"]
 - [Coldcut - Doctorin' The House (The Upset Remix) (1988)](https://www.youtube.com/watch?v=LrhXIVqzDW0)
 - [Coldcut and Yazz & The Plastic Population - Doctorin' the House](https://www.youtube.com/watch?v=KoTTNMlzJ_w)
 - [Coldcut feat Yazz & The Plastic Population  - Doctorin' The House (Extended)](https://www.youtube.com/watch?v=BTreuMLvwPM)
+- [Coldcut Featuring Yazz - Doctorin' The House ( 7'' Vocal Mix ).wmv](https://www.youtube.com/watch?v=YFXiDxb3xnE)
 - [Coldcut   Sampling 1988](https://www.youtube.com/watch?v=qE8cUwEqpnM)
 - [Coldcut (feat. Yazz & The Plastic Population) - Doctorin' the House - Top of The Pops 18-02-1988](https://www.youtube.com/watch?v=chkWk2gU9H4)
 - [Coldcut Featuring Yazz and the Plastic Population - Doctorin' The House](https://www.youtube.com/watch?v=jcCuV_NdAIs)

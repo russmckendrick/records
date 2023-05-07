@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Ambient"]
 ---
 
-![Valtari by Sigur Rós](valtari-19148089.jpg)
+{{< img src="valtari-19148089.jpg" title="Valtari by Sigur Rós" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 
 
 ## Videos
-### Sigur Rós - Varúð [Official Music Video]
-{{< youtube id="Gf1h2PMPCAo" title="Sigur Rós - Varúð [Official Music Video]" >}}<br>
+### Sigur Rós - Valtari [Full Album Stream]
+{{< youtube id="jQi77xni1p8" title="Sigur Rós - Valtari [Full Album Stream]" >}}<br>
 
 ### More Videos
 
-- [Sigur Rós - Valtari [Full Album Stream]](https://www.youtube.com/watch?v=jQi77xni1p8)
+- [Sigur Rós - Varúð [Official Music Video]](https://www.youtube.com/watch?v=Gf1h2PMPCAo)
 
 
 ## Release Information

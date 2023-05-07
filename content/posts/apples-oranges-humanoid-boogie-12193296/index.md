@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-![Apples & Oranges / Humanoid Boogie by Andy Partridge](apples-oranges-humanoid-boogie-12193296.jpg)
+{{< img src="apples-oranges-humanoid-boogie-12193296.jpg" title="Apples & Oranges / Humanoid Boogie by Andy Partridge" >}}
 
 <!-- section break -->
 
@@ -29,13 +29,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Andy Partridge on Apples and Oranges chord structure
-{{< youtube id="_B5BCebmaqA" title="Andy Partridge on Apples and Oranges chord structure" >}}<br>
+### Andy Partridge on Apples and Oranges melody
+{{< youtube id="556ewyZxUIk" title="Andy Partridge on Apples and Oranges melody" >}}<br>
 
 ### More Videos
 
 - [Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)](https://www.youtube.com/watch?v=wFWt15ZHNaA)
-- [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
+- [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
 
 
 ## Release Information

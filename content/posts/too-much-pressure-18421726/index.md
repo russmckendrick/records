@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Ska"]
 ---
 
-![Too Much Pressure by The Selecter](too-much-pressure-18421726.jpg)
+{{< img src="too-much-pressure-18421726.jpg" title="Too Much Pressure by The Selecter" >}}
 
 <!-- section break -->
 
@@ -43,13 +43,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Selecter - Too Much Pressure
-{{< youtube id="QHnX_wEW1K0" title="The Selecter - Too Much Pressure" >}}<br>
+### THE SELECTER - EVERYDAY
+{{< youtube id="OIpTEqK0W9E" title="THE SELECTER - EVERYDAY" >}}<br>
 
 ### More Videos
 
+- [The Selecter - Too Much Pressure](https://www.youtube.com/watch?v=QHnX_wEW1K0)
 - [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
-- [THE SELECTER - EVERYDAY](https://www.youtube.com/watch?v=OIpTEqK0W9E)
 - [THE SELECTER - DANGER](https://www.youtube.com/watch?v=ckvX_gqcrxs)
 - [Selecter - danger](https://www.youtube.com/watch?v=BjUeBGkum6A)
 - [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![In-A-Gadda-Da-Vida by Iron Butterfly](in-a-gadda-da-vida-9641670.jpg)
+{{< img src="in-a-gadda-da-vida-9641670.jpg" title="In-A-Gadda-Da-Vida by Iron Butterfly" >}}
 
 <!-- section break -->
 
@@ -34,15 +34,15 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### In-A-Gadda-Da-Vida
-{{< youtube id="XugIsZbTFy0" title="In-A-Gadda-Da-Vida" >}}<br>
+### Most Anything You Want
+{{< youtube id="5QZdITJX6I0" title="Most Anything You Want" >}}<br>
 
 ### More Videos
 
-- [Most Anything You Want](https://www.youtube.com/watch?v=5QZdITJX6I0)
 - [In A Gadda Da Vida - Iron Buttefly I](https://www.youtube.com/watch?v=uGmkM4v9AaY)
 - [IRON BUTTERFLY IN- A-GADDA-DA-VIDA IN HD BEST FULL VERSION](https://www.youtube.com/watch?v=ZCkHanF4v1w)
 - [Flowers and Beads](https://www.youtube.com/watch?v=rN8iFqDvB_c)
+- [In-A-Gadda-Da-Vida](https://www.youtube.com/watch?v=XugIsZbTFy0)
 - [My Mirage](https://www.youtube.com/watch?v=zlh4661CQFw)
 - [Iron Butterfly - In-A-Gadda-Da-Vida (Official Audio)](https://www.youtube.com/watch?v=hNBgEirKxq8)
 - [Termination](https://www.youtube.com/watch?v=TxAGeGBhIxI)

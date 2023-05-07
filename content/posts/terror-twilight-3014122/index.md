@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Terror Twilight by Pavement](terror-twilight-3014122.jpg)
+{{< img src="terror-twilight-3014122.jpg" title="Terror Twilight by Pavement" >}}
 
 <!-- section break -->
 

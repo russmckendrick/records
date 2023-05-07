@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Acid House", "New Wave", "Post-Punk"]
 ---
 
-![Fear Fear by Working Men's Club](fear-fear-23891849.jpg)
+{{< img src="fear-fear-23891849.jpg" title="Fear Fear by Working Men's Club" >}}
 
 <!-- section break -->
 
@@ -35,8 +35,8 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 
 
 ## Videos
-### 19
-{{< youtube id="5dbX7nMshMU" title="19" >}}<br>
+### Money Is Mine
+{{< youtube id="BSRFZ-zPiG8" title="Money Is Mine" >}}<br>
 
 ### More Videos
 
@@ -45,8 +45,8 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 - [Working Men's Club - Circumference (Visualiser)](https://www.youtube.com/watch?v=kGNqyWTcKd8)
 - [Fear Fear](https://www.youtube.com/watch?v=gWb6K10kny4)
 - [Cut](https://www.youtube.com/watch?v=wmpLFvuCR7s)
+- [19](https://www.youtube.com/watch?v=5dbX7nMshMU)
 - [The Last One](https://www.youtube.com/watch?v=NiuAKCPopUg)
-- [Money Is Mine](https://www.youtube.com/watch?v=BSRFZ-zPiG8)
 - [Working Men's Club - Fear Fear | RESEÑA DEL ÁLBUM](https://www.youtube.com/watch?v=5NU2Az9Up7A)
 
 

@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Conscious"]
 ---
 
-![Run The Jewels 3 by Run The Jewels](run-the-jewels-3-9653096.jpg)
+{{< img src="run-the-jewels-3-9653096.jpg" title="Run The Jewels 3 by Run The Jewels" >}}
 
 <!-- section break -->
 
@@ -43,8 +43,8 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 
 
 ## Videos
-### Run The Jewels - Everybody Stay Calm | From The RTJ3 Album
-{{< youtube id="ZcnWxb_hKaE" title="Run The Jewels - Everybody Stay Calm | From The RTJ3 Album" >}}<br>
+### Run The Jewels - Don't Get Captured | From The RTJ3 Album
+{{< youtube id="agRfunNZIcY" title="Run The Jewels - Don't Get Captured | From The RTJ3 Album" >}}<br>
 
 ### More Videos
 
@@ -56,9 +56,9 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 - [Run The Jewels - Call Ticketron | From The RTJ3 Album](https://www.youtube.com/watch?v=eaJmgMuYNjc)
 - [Run The Jewels - Hey Kids (Bumaye) (feat. Danny Brown) | From The RTJ3 Album](https://www.youtube.com/watch?v=4Jl-BeR4M4c)
 - [Run The Jewels - Stay Gold | From The RTJ3 Album](https://www.youtube.com/watch?v=mNQD6oj8nBo)
-- [Run The Jewels - Don't Get Captured | From The RTJ3 Album](https://www.youtube.com/watch?v=agRfunNZIcY)
 - [Run The Jewels - Thieves! (Screamed The Ghost) (feat. Tunde Adebimpe) | From The RTJ3 Album](https://www.youtube.com/watch?v=KFKmG7A-pzA)
 - [Run The Jewels - Panther Like A Panther (Miracle Mix edit) (feat. Trina) | From The RTJ3 Album](https://www.youtube.com/watch?v=zgOABuZoe0c)
+- [Run The Jewels - Everybody Stay Calm | From The RTJ3 Album](https://www.youtube.com/watch?v=ZcnWxb_hKaE)
 - [Run The Jewels - Oh Mama | From The RTJ3 Album](https://www.youtube.com/watch?v=30aGtXWo0SU)
 - [Run The Jewels - Thursday In The Danger Room (feat. Kamasi Washington) | From The RTJ3 Album](https://www.youtube.com/watch?v=YxaNYGeaOjc)
 - [Run The Jewels - A Report To The Shareholders / Kill Your Masters | From The RTJ3 Album](https://www.youtube.com/watch?v=pg0byaqVaXo)

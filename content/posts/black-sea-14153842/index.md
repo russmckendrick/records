@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-![Black Sea by XTC](black-sea-14153842.jpg)
+{{< img src="black-sea-14153842.jpg" title="Black Sea by XTC" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Love At First Sight (2001 Remaster)
-{{< youtube id="aFhQevV4z3c" title="Love At First Sight (2001 Remaster)" >}}<br>
+### XTC - Generals and Majors - Black Sea [1980]
+{{< youtube id="uCuZ11IW1CY" title="XTC - Generals and Majors - Black Sea [1980]" >}}<br>
 
 ### More Videos
 
-- [XTC - Generals and Majors - Black Sea [1980]](https://www.youtube.com/watch?v=uCuZ11IW1CY)
+- [Love At First Sight (2001 Remaster)](https://www.youtube.com/watch?v=aFhQevV4z3c)
 - [No Language In Our Lungs (2001 Remaster)](https://www.youtube.com/watch?v=JgOOvMj3HyQ)
 - [Burning With Optimism's Flames (2001 Remaster)](https://www.youtube.com/watch?v=XSWoTrdTKhM)
 - [Living Through Another Cuba (2001 Remaster)](https://www.youtube.com/watch?v=BTp_qgh-i4g)

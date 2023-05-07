@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![The Big Express by XTC](the-big-express-25208314.jpg)
+{{< img src="the-big-express-25208314.jpg" title="The Big Express by XTC" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### XTC - Wake Up
-{{< youtube id="ON-Ef6zwTUg" title="XTC - Wake Up" >}}<br>
+### XTC - I Bought Myself A Liarbird
+{{< youtube id="0S4hKJRYfMs" title="XTC - I Bought Myself A Liarbird" >}}<br>
 
 ### More Videos
 
@@ -63,9 +63,9 @@ styles: ["Pop Rock"]
 - [Xtc Washaway cover](https://www.youtube.com/watch?v=jPdk7kGXwCk)
 - [Train Running Low On Soul Coal by XTC REMASTERED](https://www.youtube.com/watch?v=4akgpwHAlk8)
 - [XTC - I Remember The Sun](https://www.youtube.com/watch?v=PtStJaaH5Cs)
+- [XTC - Wake Up](https://www.youtube.com/watch?v=ON-Ef6zwTUg)
 - [XTC - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=zHhOx68AS_s)
 - [Xtc I Bought Myself a Liarbird cover](https://www.youtube.com/watch?v=Rl7jczY42H0)
-- [XTC - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=0S4hKJRYfMs)
 
 
 ## Release Information

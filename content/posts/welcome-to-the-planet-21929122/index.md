@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Welcome To The Planet  by Big Big Train](welcome-to-the-planet-21929122.jpg)
+{{< img src="welcome-to-the-planet-21929122.jpg" title="Welcome To The Planet  by Big Big Train" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Welcome to the Planet
-{{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}<br>
+### B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)
+{{< youtube id="xuBVD39b4cw" title="B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)" >}}<br>
 
 ### More Videos
 
-- [B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)](https://www.youtube.com/watch?v=xuBVD39b4cw)
+- [Welcome to the Planet](https://www.youtube.com/watch?v=grdDTkrbeNs)
 
 
 ## Release Information

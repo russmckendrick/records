@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 ---
 
-![Coda by Led Zeppelin](coda-7303584.jpg)
+{{< img src="coda-7303584.jpg" title="Coda by Led Zeppelin" >}}
 
 <!-- section break -->
 

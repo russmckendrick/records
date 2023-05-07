@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![My Maudlin Career by Camera Obscura](my-maudlin-career-1758491.jpg)
+{{< img src="my-maudlin-career-1758491.jpg" title="My Maudlin Career by Camera Obscura" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Camera Obscura - Away With Murder
-{{< youtube id="F3Og6oi3e6Y" title="Camera Obscura - Away With Murder" >}}<br>
+### Camera Obscura - My Maudlin Career
+{{< youtube id="bCIXI9ubfFs" title="Camera Obscura - My Maudlin Career" >}}<br>
 
 ### More Videos
 
@@ -48,9 +48,9 @@ styles: ["Pop Rock", "Indie Rock"]
 - [Camera Obscura - James](https://www.youtube.com/watch?v=Ku2epT_e-F0)
 - [Camera Obscura - Honey In The Sun (Official Video)](https://www.youtube.com/watch?v=ZfDg7Vz8Ow4)
 - [Camera Obscura - The Sweetest Thing](https://www.youtube.com/watch?v=nhSanTYPm2g)
-- [Camera Obscura - My Maudlin Career](https://www.youtube.com/watch?v=bCIXI9ubfFs)
 - [Camera Obscura - The Sweetest Thing](https://www.youtube.com/watch?v=tzWlg3JFFTU)
 - [Camera Obscura - Careless Love](https://www.youtube.com/watch?v=pWXc3NERmhI)
+- [Camera Obscura - Away With Murder](https://www.youtube.com/watch?v=F3Og6oi3e6Y)
 - [Camera Obscura - Forests & Sands](https://www.youtube.com/watch?v=1qqpWhRV7oM)
 
 

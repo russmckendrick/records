@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-![Rosalie Cunningham by Rosalie Cunningham](rosalie-cunningham-13945205.jpg)
+{{< img src="rosalie-cunningham-13945205.jpg" title="Rosalie Cunningham by Rosalie Cunningham" >}}
 
 <!-- section break -->
 

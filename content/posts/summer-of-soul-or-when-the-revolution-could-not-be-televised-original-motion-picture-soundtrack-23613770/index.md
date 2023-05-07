@@ -14,7 +14,7 @@ genres: ["Latin", "Funk / Soul", "Blues", "Stage & Screen"]
 styles: ["Soul", "Soundtrack"]
 ---
 
-![Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack) by Various](summer-of-soul-or-when-the-revolution-could-not-be-televised-original-motion-picture-soundtrack-23613770.jpg)
+{{< img src="summer-of-soul-or-when-the-revolution-could-not-be-televised-original-motion-picture-soundtrack-23613770.jpg" title="Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 

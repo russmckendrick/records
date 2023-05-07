@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 ---
 
-![Weezer by Weezer](weezer-13486233.jpg)
+{{< img src="weezer-13486233.jpg" title="Weezer by Weezer" >}}
 
 <!-- section break -->
 

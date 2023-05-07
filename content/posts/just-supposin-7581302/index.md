@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
 
-![Just Supposin'... by Status Quo](just-supposin-7581302.jpg)
+{{< img src="just-supposin-7581302.jpg" title="Just Supposin'... by Status Quo" >}}
 
 <!-- section break -->
 
@@ -34,14 +34,14 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 
 
 ## Videos
-### Status Quo – Don't Drive My Car
-{{< youtube id="n0GScZd2Ers" title="Status Quo – Don't Drive My Car" >}}<br>
+### Status Quo – What You're Proposin'
+{{< youtube id="z4Zh5DyMRDU" title="Status Quo – What You're Proposin'" >}}<br>
 
 ### More Videos
 
-- [Status Quo – What You're Proposin'](https://www.youtube.com/watch?v=z4Zh5DyMRDU)
 - [Status Quo – Rock 'n' Roll](https://www.youtube.com/watch?v=UGuPCJcj3As)
 - [Status Quo – Lies](https://www.youtube.com/watch?v=Q4yckEtH-jQ)
+- [Status Quo – Don't Drive My Car](https://www.youtube.com/watch?v=n0GScZd2Ers)
 
 
 ## Release Information

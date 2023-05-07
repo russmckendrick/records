@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![A Bit Of Previous by Belle & Sebastian](a-bit-of-previous-23097233.jpg)
+{{< img src="a-bit-of-previous-23097233.jpg" title="A Bit Of Previous by Belle & Sebastian" >}}
 
 <!-- section break -->
 
@@ -44,16 +44,16 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Belle And Sebastian - A Bit Of Previous 7 inch
-{{< youtube id="yo-ZS8al_hQ" title="Belle And Sebastian - A Bit Of Previous 7 inch" >}}<br>
+### Reclaim the Night
+{{< youtube id="sbWW4cRfIAs" title="Reclaim the Night" >}}<br>
 
 ### More Videos
 
 - [Belle and Sebastian - Young and Stupid (Official Lyric Video)](https://www.youtube.com/watch?v=O9P7EBj8LgU)
+- [Belle And Sebastian - A Bit Of Previous 7 inch](https://www.youtube.com/watch?v=yo-ZS8al_hQ)
 - [If They’re Shooting At You](https://www.youtube.com/watch?v=r94kiQ4vdLc)
 - [Belle And Sebastian - Sometimes](https://www.youtube.com/watch?v=xAB7GFHN_QA)
 - [Talk to Me, Talk to Me](https://www.youtube.com/watch?v=hLeETgzOz18)
-- [Reclaim the Night](https://www.youtube.com/watch?v=sbWW4cRfIAs)
 - [Do It for Your Country](https://www.youtube.com/watch?v=kuzNkBOa17A)
 - [Prophets On Hold](https://www.youtube.com/watch?v=8JkmXvWx6r4)
 - [Belle and Sebastian- Unnecessary Drama (Official Music Video)](https://www.youtube.com/watch?v=h2-RZSVHNVQ)

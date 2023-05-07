@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Under Stars by Lonely Robot](under-stars-13532354.jpg)
+{{< img src="under-stars-13532354.jpg" title="Under Stars by Lonely Robot" >}}
 
 <!-- section break -->
 

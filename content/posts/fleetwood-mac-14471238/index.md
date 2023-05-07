@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Fleetwood Mac by Fleetwood Mac](fleetwood-mac-14471238.jpg)
+{{< img src="fleetwood-mac-14471238.jpg" title="Fleetwood Mac by Fleetwood Mac" >}}
 
 <!-- section break -->
 

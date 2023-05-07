@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-![King For A Day Fool For A Lifetime by Faith No More](king-for-a-day-fool-for-a-lifetime-9020814.jpg)
+{{< img src="king-for-a-day-fool-for-a-lifetime-9020814.jpg" title="King For A Day Fool For A Lifetime by Faith No More" >}}
 
 <!-- section break -->
 
@@ -51,8 +51,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Ugly in the Morning
-{{< youtube id="TvfXwv6m1KQ" title="Ugly in the Morning" >}}<br>
+### The Gentle Art of Making Enemies
+{{< youtube id="l_HtpFAlPWY" title="The Gentle Art of Making Enemies" >}}<br>
 
 ### More Videos
 
@@ -64,10 +64,10 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [Faith No More - Digging The Grave (Official Music Video)](https://www.youtube.com/watch?v=CANh13XKFVk)
 - [King for a Day, Fool for a Lifetime (2016 Remaster)](https://www.youtube.com/watch?v=Rb1cld8WtSE)
 - [Get Out](https://www.youtube.com/watch?v=FOkh5hxPY6s)
-- [The Gentle Art of Making Enemies](https://www.youtube.com/watch?v=l_HtpFAlPWY)
 - [Star A.D.](https://www.youtube.com/watch?v=xALb75mMnJ0)
 - [Cuckoo for Caca](https://www.youtube.com/watch?v=pPJSHpRhge8)
 - [Caralho Voador](https://www.youtube.com/watch?v=tsm9VlnRJdM)
+- [Ugly in the Morning](https://www.youtube.com/watch?v=TvfXwv6m1KQ)
 - [Take This Bottle](https://www.youtube.com/watch?v=9ImBIsrczFg)
 - [King for a Day](https://www.youtube.com/watch?v=vCktbM5Uqk4)
 - [What a Day](https://www.youtube.com/watch?v=5ZTcxtQWVNU)

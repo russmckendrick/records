@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![No Jacket Required by Phil Collins](no-jacket-required-665295.jpg)
+{{< img src="no-jacket-required-665295.jpg" title="No Jacket Required by Phil Collins" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Phil Collins - I Don't Wanna Know (2016 Remaster)
-{{< youtube id="1neTO6a1cw0" title="Phil Collins - I Don't Wanna Know (2016 Remaster)" >}}<br>
+### Long Long Way To Go (2016 Remastered)
+{{< youtube id="M-7LOzT73PU" title="Long Long Way To Go (2016 Remastered)" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Pop Rock"]
 - [Phil Collins - Only You Know And I Know (1985 European Vinyl)](https://www.youtube.com/watch?v=Ikkx5favmVc)
 - [Phil Collins - Inside Out](https://www.youtube.com/watch?v=L-IpCQp5Wdw)
 - [Only You Know And I Know (2016 Remastered)](https://www.youtube.com/watch?v=xiB5Mx79IbE)
-- [Long Long Way To Go (2016 Remastered)](https://www.youtube.com/watch?v=M-7LOzT73PU)
+- [Phil Collins - I Don't Wanna Know (2016 Remaster)](https://www.youtube.com/watch?v=1neTO6a1cw0)
 - [One More Night (2016 Remastered)](https://www.youtube.com/watch?v=6Hmrc3IzvAA)
 - [Don't Lose My Number (2016 Remastered)](https://www.youtube.com/watch?v=ZLCG6DJTNBs)
 - [Phil Collins - Who Said I Would (2016 Remaster)](https://www.youtube.com/watch?v=4dZgeeTV9so)

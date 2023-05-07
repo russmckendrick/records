@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Industrial", "Synth-pop"]
 ---
 
-![Pretty Hate Machine by Nine Inch Nails](pretty-hate-machine-3004371.jpg)
+{{< img src="pretty-hate-machine-3004371.jpg" title="Pretty Hate Machine by Nine Inch Nails" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Industrial", "Synth-pop"]
 
 
 ## Videos
-### Nine Inch Nails - Down In It
-{{< youtube id="QrrEo3hZABU" title="Nine Inch Nails - Down In It" >}}<br>
+### Terrible Lie
+{{< youtube id="rSjPAwsEXMU" title="Terrible Lie" >}}<br>
 
 ### More Videos
 
 - [Head Like A Hole](https://www.youtube.com/watch?v=ghIRu6UvQPc)
+- [Nine Inch Nails - Down In It](https://www.youtube.com/watch?v=QrrEo3hZABU)
 - [Nine Inch Nails - Head Like A Hole (Official Video)](https://www.youtube.com/watch?v=ao-Sahfy7Hg)
-- [Terrible Lie](https://www.youtube.com/watch?v=rSjPAwsEXMU)
 - [Sanctified](https://www.youtube.com/watch?v=pIyTpWyeYy0)
 - [Something I Can Never Have](https://www.youtube.com/watch?v=AiIu1v988W0)
 - [Kinda I Want To](https://www.youtube.com/watch?v=1UaqcWBtT-o)

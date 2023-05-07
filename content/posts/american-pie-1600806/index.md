@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
 
-![American Pie by Don McLean](american-pie-1600806.jpg)
+{{< img src="american-pie-1600806.jpg" title="American Pie by Don McLean" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,13 @@ styles: ["Folk Rock", "Acoustic"]
 
 
 ## Videos
-### American Pie
-{{< youtube id="iX_TFkut1PM" title="American Pie" >}}<br>
+### The Grave
+{{< youtube id="p05aJNfWib8" title="The Grave" >}}<br>
 
 ### More Videos
 
 - [Don McLean - American Pie](https://www.youtube.com/watch?v=y5ecvBaqHBk)
+- [American Pie](https://www.youtube.com/watch?v=iX_TFkut1PM)
 - [Till Tomorrow](https://www.youtube.com/watch?v=TlqW3cTh5Ts)
 - [Vincent](https://www.youtube.com/watch?v=ciLNMesqPh0)
 - [Crossroads](https://www.youtube.com/watch?v=tawHuI7KHR0)
@@ -51,7 +52,6 @@ styles: ["Folk Rock", "Acoustic"]
 - [Empty Chairs](https://www.youtube.com/watch?v=sDjvPFg9B7Q)
 - [Everybody Loves Me, Baby](https://www.youtube.com/watch?v=N4cjBUeHHgU)
 - [Sister Fatima](https://www.youtube.com/watch?v=UVqQg_qcY-o)
-- [The Grave](https://www.youtube.com/watch?v=p05aJNfWib8)
 - [Babylon](https://www.youtube.com/watch?v=4bnhhbV34nI)
 
 

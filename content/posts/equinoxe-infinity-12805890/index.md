@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Equinoxe Infinity by Jean-Michel Jarre](equinoxe-infinity-12805890.jpg)
+{{< img src="equinoxe-infinity-12805890.jpg" title="Equinoxe Infinity by Jean-Michel Jarre" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### INFINITY (movement 6)
-{{< youtube id="xFGVI0_UiNs" title="INFINITY (movement 6)" >}}<br>
+### FLYING TOTEMS (movement 2)
+{{< youtube id="vd4DHJAddVg" title="FLYING TOTEMS (movement 2)" >}}<br>
 
 ### More Videos
 
@@ -47,9 +47,9 @@ styles: ["Synth-pop"]
 - [Jean-Michel Jarre - Flying Totems (Franci98my Remix)](https://www.youtube.com/watch?v=jaXBcbxJc5E)
 - [Continous Mix](https://www.youtube.com/watch?v=wuBvQapEhAo)
 - [THE WATCHERS (movement 1)](https://www.youtube.com/watch?v=ytd-i6fNWzY)
-- [FLYING TOTEMS (movement 2)](https://www.youtube.com/watch?v=vd4DHJAddVg)
 - [ALL THAT YOU LEAVE BEHIND (movement 4)](https://www.youtube.com/watch?v=Cw6Nc6QPfg0)
 - [IF THE WIND COULD SPEAK (movement 5)](https://www.youtube.com/watch?v=Ij0uhDRpIcg)
+- [INFINITY (movement 6)](https://www.youtube.com/watch?v=xFGVI0_UiNs)
 - [MACHINES ARE LEARNING (movement 7)](https://www.youtube.com/watch?v=e3OZxdPrrno)
 - [THE OPENING (movement 8)](https://www.youtube.com/watch?v=7-r0-SdrzCA)
 - [DON'T LOOK BACK (movement 9)](https://www.youtube.com/watch?v=xJ3n3JTiZ20)

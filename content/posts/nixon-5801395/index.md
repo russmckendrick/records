@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![Nixon by Lambchop](nixon-5801395.jpg)
+{{< img src="nixon-5801395.jpg" title="Nixon by Lambchop" >}}
 
 <!-- section break -->
 

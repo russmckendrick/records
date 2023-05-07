@@ -14,7 +14,7 @@ genres: ["Electronic", "Classical", "Stage & Screen"]
 styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 ---
 
-![TRON: Legacy (Vinyl Edition Motion Picture Soundtrack) by Daft Punk](tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762.jpg)
+{{< img src="tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762.jpg" title="TRON: Legacy (Vinyl Edition Motion Picture Soundtrack) by Daft Punk" >}}
 
 <!-- section break -->
 

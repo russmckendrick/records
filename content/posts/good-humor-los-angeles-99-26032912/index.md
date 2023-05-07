@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Good Humor / Los Angeles '99 by Saint Etienne](good-humor-los-angeles-99-26032912.jpg)
+{{< img src="good-humor-los-angeles-99-26032912.jpg" title="Good Humor / Los Angeles '99 by Saint Etienne" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Goodnight Jack
-{{< youtube id="xaEsmPxg17k" title="Goodnight Jack" >}}<br>
+### Lose That Girl
+{{< youtube id="kq4DNXC5M8E" title="Lose That Girl" >}}<br>
 
 ### More Videos
 
@@ -57,7 +57,7 @@ styles: ["Indie Pop"]
 - [Sylvie](https://www.youtube.com/watch?v=lRcBhYSfQug)
 - [Split Screen](https://www.youtube.com/watch?v=zHKp-qh94Pc)
 - [Mr. Donut](https://www.youtube.com/watch?v=g2aLMmFuT4k)
-- [Lose That Girl](https://www.youtube.com/watch?v=kq4DNXC5M8E)
+- [Goodnight Jack](https://www.youtube.com/watch?v=xaEsmPxg17k)
 - [The Bad Photographer](https://www.youtube.com/watch?v=a8W6y_zM3ZE)
 - [Been So Long](https://www.youtube.com/watch?v=vA_3ixmJrYo)
 - [Postman](https://www.youtube.com/watch?v=kUhOMKWRA5I)

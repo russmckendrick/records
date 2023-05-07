@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle Pop", "Latin", "Synth-pop"]
 ---
 
-![Life Moves Pretty Fast: The John Hughes Mixtapes by Various](life-moves-pretty-fast-the-john-hughes-mixtapes-25135282.jpg)
+{{< img src="life-moves-pretty-fast-the-john-hughes-mixtapes-25135282.jpg" title="Life Moves Pretty Fast: The John Hughes Mixtapes by Various" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Power Pop", "Rock & Roll"]
 ---
 
-![Rocket To Russia by Ramones](rocket-to-russia-11538026.jpg)
+{{< img src="rocket-to-russia-11538026.jpg" title="Rocket To Russia by Ramones" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![The A&M Albums by Dodgy](the-a-m-albums-22286113.jpg)
+{{< img src="the-a-m-albums-22286113.jpg" title="The A&M Albums by Dodgy" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---
 
-![Ace A's + Killer B's by Dodgy](ace-a-s-killer-b-s-22218358.jpg)
+{{< img src="ace-a-s-killer-b-s-22218358.jpg" title="Ace A's + Killer B's by Dodgy" >}}
 
 <!-- section break -->
 

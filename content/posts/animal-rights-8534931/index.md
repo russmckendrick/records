@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Punk", "Alternative Rock"]
 ---
 
-![Animal Rights by Moby](animal-rights-8534931.jpg)
+{{< img src="animal-rights-8534931.jpg" title="Animal Rights by Moby" >}}
 
 <!-- section break -->
 

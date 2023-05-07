@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-![A New Morning by Suede](a-new-morning-5448464.jpg)
+{{< img src="a-new-morning-5448464.jpg" title="A New Morning by Suede" >}}
 
 <!-- section break -->
 

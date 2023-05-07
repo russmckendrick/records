@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Magnet by The Fierce & The Dead](magnet-8267564.jpg)
+{{< img src="magnet-8267564.jpg" title="Magnet by The Fierce & The Dead" >}}
 
 <!-- section break -->
 

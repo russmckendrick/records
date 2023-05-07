@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Drone"]
 ---
 
-![A Pink Sunset For No One by Noveller](a-pink-sunset-for-no-one-9809690.jpg)
+{{< img src="a-pink-sunset-for-no-one-9809690.jpg" title="A Pink Sunset For No One by Noveller" >}}
 
 <!-- section break -->
 
@@ -37,14 +37,14 @@ styles: ["Ambient", "Drone"]
 
 
 ## Videos
-### Emergence
-{{< youtube id="shqOfpmCW70" title="Emergence" >}}<br>
+### Rituals
+{{< youtube id="9ngNK_OwK-k" title="Rituals" >}}<br>
 
 ### More Videos
 
 - [A Pink Sunset For No One](https://www.youtube.com/watch?v=zGk4imfGKi4)
+- [Emergence](https://www.youtube.com/watch?v=shqOfpmCW70)
 - [Noveller - Another Dark Hour](https://www.youtube.com/watch?v=kmECKxc_Occ)
-- [Rituals](https://www.youtube.com/watch?v=9ngNK_OwK-k)
 - [Lone Victory Tonight](https://www.youtube.com/watch?v=rOysMVKzmRE)
 
 

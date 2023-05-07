@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
 
-![The Colorist & Emiliana Torrini by The Colorist](the-colorist-emiliana-torrini-9675385.jpg)
+{{< img src="the-colorist-emiliana-torrini-9675385.jpg" title="The Colorist & Emiliana Torrini by The Colorist" >}}
 
 <!-- section break -->
 
@@ -50,15 +50,15 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Today Has Been OK
-{{< youtube id="GfmLjtSbpQc" title="Today Has Been OK" >}}<br>
+### Serenade
+{{< youtube id="VAv_vqYPRBA" title="Serenade" >}}<br>
 
 ### More Videos
 
 - [The Colorist & Emiliana Torrini - Speed Of Dark](https://www.youtube.com/watch?v=-8R2-s5pMI0)
 - [The Colorist & Emiliana Torrini - When We Dance (Official Video)](https://www.youtube.com/watch?v=WfVrdOp2Btw)
 - [Blood Red](https://www.youtube.com/watch?v=Bi3RoBLEajY)
-- [Serenade](https://www.youtube.com/watch?v=VAv_vqYPRBA)
+- [Today Has Been OK](https://www.youtube.com/watch?v=GfmLjtSbpQc)
 
 
 ## Release Information

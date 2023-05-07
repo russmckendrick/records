@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Acoustic", "Soft Rock"]
 ---
 
-![Altitude  by ALT](altitude-23202755.jpg)
+{{< img src="altitude-23202755.jpg" title="Altitude  by ALT" >}}
 
 <!-- section break -->
 
@@ -47,12 +47,12 @@ styles: ["Acoustic", "Soft Rock"]
 
 
 ## Videos
-### Alt - Favourite Girl
-{{< youtube id="-vjGteVwIM8" title="Alt - Favourite Girl" >}}<br>
+### alt - what you've done
+{{< youtube id="o-x_kPtLdiA" title="alt - what you've done" >}}<br>
 
 ### More Videos
 
-- [alt - what you've done](https://www.youtube.com/watch?v=o-x_kPtLdiA)
+- [Alt - Favourite Girl](https://www.youtube.com/watch?v=-vjGteVwIM8)
 
 
 ## Release Information

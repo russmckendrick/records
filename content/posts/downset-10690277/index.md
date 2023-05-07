@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Rock"]
 styles: []
 ---
 
-![Downset. by Downset.](downset-10690277.jpg)
+{{< img src="downset-10690277.jpg" title="Downset. by Downset." >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: []
 
 
 ## Videos
-### downset. - anger
-{{< youtube id="Lqh_AzlEjKU" title="downset. - anger" >}}<br>
+### downset. - take 'em out
+{{< youtube id="u_RUlt7bjQE" title="downset. - take 'em out" >}}<br>
 
 ### More Videos
 
@@ -47,10 +47,10 @@ styles: []
 - [Downset - Eyes Shut Tight](https://www.youtube.com/watch?v=NxpapKbDrD4)
 - [Downset](https://www.youtube.com/watch?v=qRdWO0Iw5cI)
 - [Downset Anger](https://www.youtube.com/watch?v=H6IQxhkVIEw)
+- [downset. - anger](https://www.youtube.com/watch?v=Lqh_AzlEjKU)
 - [Downset. - Anger](https://www.youtube.com/watch?v=G8ZoFbNGpBc)
 - [downset. - ritual](https://www.youtube.com/watch?v=RMF3ZIizj8k)
 - [Downset - Downset (HQ)](https://www.youtube.com/watch?v=8oOkUizclp8)
-- [downset. - take 'em out](https://www.youtube.com/watch?v=u_RUlt7bjQE)
 - [Breed The Killer](https://www.youtube.com/watch?v=KJdRbiJvOxY)
 
 

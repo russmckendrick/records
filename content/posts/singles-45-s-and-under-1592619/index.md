@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
-![Singles - 45's And Under by Squeeze](singles-45-s-and-under-1592619.jpg)
+{{< img src="singles-45-s-and-under-1592619.jpg" title="Singles - 45's And Under by Squeeze" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["New Wave", "Punk"]
 
 
 ## Videos
-### Annie Get Your Gun
-{{< youtube id="0Bfm_1Ralgc" title="Annie Get Your Gun" >}}<br>
+### Black Coffee In Bed
+{{< youtube id="ZyF425Fu3o4" title="Black Coffee In Bed" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["New Wave", "Punk"]
 - [Is That Love?](https://www.youtube.com/watch?v=ROjSnSo0DiI)
 - [Take Me I'm Yours](https://www.youtube.com/watch?v=YrVn4HAh2vM)
 - [Slap & Tickle](https://www.youtube.com/watch?v=co1c1PTPWYs)
-- [Black Coffee In Bed](https://www.youtube.com/watch?v=ZyF425Fu3o4)
+- [Annie Get Your Gun](https://www.youtube.com/watch?v=0Bfm_1Ralgc)
 - [Tempted](https://www.youtube.com/watch?v=WWteW9MAzdo)
 - [If I Didn't Love You](https://www.youtube.com/watch?v=liLruG9gV40)
 - [Squeeze - Is That Love (1981)](https://www.youtube.com/watch?v=Uz0UeOUBnn8)

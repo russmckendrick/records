@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Closed For Business by Mansun](closed-for-business-19116019.jpg)
+{{< img src="closed-for-business-19116019.jpg" title="Closed For Business by Mansun" >}}
 
 <!-- section break -->
 

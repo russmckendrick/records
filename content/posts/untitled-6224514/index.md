@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock"]
 ---
 
-![Untitled by Led Zeppelin](untitled-6224514.jpg)
+{{< img src="untitled-6224514.jpg" title="Untitled by Led Zeppelin" >}}
 
 <!-- section break -->
 

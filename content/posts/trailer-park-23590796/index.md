@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
-![Trailer Park by Beth Orton](trailer-park-23590796.jpg)
+{{< img src="trailer-park-23590796.jpg" title="Trailer Park by Beth Orton" >}}
 
 <!-- section break -->
 
@@ -39,17 +39,17 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 
 
 ## Videos
-### Beth Orton - sugar boy
-{{< youtube id="JeZpru0Rr_4" title="Beth Orton - sugar boy" >}}<br>
+### Beth Orton - Live As You Dream
+{{< youtube id="Mt3d3lmDd_8" title="Beth Orton - Live As You Dream" >}}<br>
 
 ### More Videos
 
 - [Beth Orton - She Cries Your Name (Video)](https://www.youtube.com/watch?v=rFZc4ax4tJs)
 - [Someone's Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
-- [Beth Orton - Live As You Dream](https://www.youtube.com/watch?v=Mt3d3lmDd_8)
 - [BETH ORTON... I WISH I NEVER SAW THE SUNSHINE](https://www.youtube.com/watch?v=XR2gaDtS1js)
 - [Beth Orton - Tangent](https://www.youtube.com/watch?v=ToUivqnyxN4)
 - [BETH ORTON - dON'T nEED A rEASON (+ lyrics)](https://www.youtube.com/watch?v=LWt3xqqwsjw)
+- [Beth Orton - sugar boy](https://www.youtube.com/watch?v=JeZpru0Rr_4)
 - [Beth Orton - Touch Me With Your Love (Video)](https://www.youtube.com/watch?v=OQ3iZc7lfaY)
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)

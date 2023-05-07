@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Separation Sunday by The Hold Steady](separation-sunday-9314471.jpg)
+{{< img src="separation-sunday-9314471.jpg" title="Separation Sunday by The Hold Steady" >}}
 
 <!-- section break -->
 
@@ -39,18 +39,18 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Banging Camp
-{{< youtube id="Ie-_fcvmfrM" title="Banging Camp" >}}<br>
+### The Hold Steady - Cattle and the Creeping Things
+{{< youtube id="vH73KPV11hE" title="The Hold Steady - Cattle and the Creeping Things" >}}<br>
 
 ### More Videos
 
 - [The Hold Steady - How a Resurrection Really Feels](https://www.youtube.com/watch?v=PFiiq2sFD7E)
 - [Stevie Nix](https://www.youtube.com/watch?v=IapupJ1gf9I)
-- [The Hold Steady - Cattle and the Creeping Things](https://www.youtube.com/watch?v=vH73KPV11hE)
 - [Charlemagne in Sweatpants](https://www.youtube.com/watch?v=a1Garm5R3nU)
 - [How a Resurrection Really Feels](https://www.youtube.com/watch?v=OYI4Xj-l1rk)
 - [The Most Important Thing](https://www.youtube.com/watch?v=Df29NhNhANA)
 - [Don't Let Me Explode](https://www.youtube.com/watch?v=94PUqP4yVzc)
+- [Banging Camp](https://www.youtube.com/watch?v=Ie-_fcvmfrM)
 - [Hornets! Hornets!](https://www.youtube.com/watch?v=zi9FCw5FK60)
 - [Multitude of Casualties](https://www.youtube.com/watch?v=Q9WQoOBrq_g)
 

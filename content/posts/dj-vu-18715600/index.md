@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![Déjà Vu by Crosby, Stills, Nash & Young](dj-vu-18715600.jpg)
+{{< img src="dj-vu-18715600.jpg" title="Déjà Vu by Crosby, Stills, Nash & Young" >}}
 
 <!-- section break -->
 

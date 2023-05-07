@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-![Transcendence by Devin Townsend Project](transcendence-9021741.jpg)
+{{< img src="transcendence-9021741.jpg" title="Transcendence by Devin Townsend Project" >}}
 
 <!-- section break -->
 
@@ -52,12 +52,12 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### DEVIN TOWNSEND PROJECT - Stormbending (Album Track)
-{{< youtube id="8s9qh77gj6Y" title="DEVIN TOWNSEND PROJECT - Stormbending (Album Track)" >}}<br>
+### Devin Townsend Project - Transcendence
+{{< youtube id="kUh72bHQr08" title="Devin Townsend Project - Transcendence" >}}<br>
 
 ### More Videos
 
-- [Devin Townsend Project - Transcendence](https://www.youtube.com/watch?v=kUh72bHQr08)
+- [DEVIN TOWNSEND PROJECT - Stormbending (Album Track)](https://www.youtube.com/watch?v=8s9qh77gj6Y)
 
 
 ## Release Information

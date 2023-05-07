@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-![The Lookout by Laura Veirs](the-lookout-11865679.jpg)
+{{< img src="the-lookout-11865679.jpg" title="The Lookout by Laura Veirs" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Folk"]
 
 
 ## Videos
-### Laura Veirs - Margaret Sands (opbmusic)
-{{< youtube id="_LoW3hKVBGQ" title="Laura Veirs - Margaret Sands (opbmusic)" >}}<br>
+### Laura Veirs - Everybody Needs You
+{{< youtube id="srwAMHbHVAE" title="Laura Veirs - Everybody Needs You" >}}<br>
 
 ### More Videos
 
 - [Laura Veirs - The Lookout [Full Album Stream]](https://www.youtube.com/watch?v=9nSs3Xn2blI)
-- [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
+- [Laura Veirs - Margaret Sands (opbmusic)](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
 - [Laura Veirs - Seven Falls (Live on KEXP)](https://www.youtube.com/watch?v=46Z89pu4Lu0)
 
 

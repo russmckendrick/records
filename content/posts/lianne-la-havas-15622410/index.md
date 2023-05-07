@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Pop"]
 styles: []
 ---
 
-![Lianne La Havas by Lianne La Havas](lianne-la-havas-15622410.jpg)
+{{< img src="lianne-la-havas-15622410.jpg" title="Lianne La Havas by Lianne La Havas" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### Sour Flower
-{{< youtube id="BgirEShyrMg" title="Sour Flower" >}}<br>
+### Read My Mind
+{{< youtube id="ZmbiD9SCF7w" title="Read My Mind" >}}<br>
 
 ### More Videos
 
-- [Read My Mind](https://www.youtube.com/watch?v=ZmbiD9SCF7w)
+- [Sour Flower](https://www.youtube.com/watch?v=BgirEShyrMg)
 - [Seven Times](https://www.youtube.com/watch?v=y12ZQbGGK_M)
 - [Please Don't Make Me Cry](https://www.youtube.com/watch?v=qwPJd6nQV9Y)
 - [Bittersweet (Full Length)](https://www.youtube.com/watch?v=AI4wVtrmMAc)

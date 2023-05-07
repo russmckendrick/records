@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
-![Introduce Yourself by Faith No More](introduce-yourself-652381.jpg)
+{{< img src="introduce-yourself-652381.jpg" title="Introduce Yourself by Faith No More" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### Chinese Arithmetic
-{{< youtube id="7U0-9J0aonA" title="Chinese Arithmetic" >}}<br>
+### Death March
+{{< youtube id="lrROABXAn8Q" title="Death March" >}}<br>
 
 ### More Videos
 
 - [Faster Disco](https://www.youtube.com/watch?v=x-AhE32UPw8)
 - [Anne's Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
 - [Introduce Yourself](https://www.youtube.com/watch?v=KuVUx8cADWs)
-- [Death March](https://www.youtube.com/watch?v=lrROABXAn8Q)
+- [Chinese Arithmetic](https://www.youtube.com/watch?v=7U0-9J0aonA)
 - [Faith No More - We Care a Lot (Official Music Video)](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [R N' R](https://www.youtube.com/watch?v=jID0GrUstMQ)
 - [The Crab Song](https://www.youtube.com/watch?v=QFYymqpBBkg)

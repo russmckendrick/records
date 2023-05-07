@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk"]
 ---
 
-![Let's Get It On by Marvin Gaye](let-s-get-it-on-11895455.jpg)
+{{< img src="let-s-get-it-on-11895455.jpg" title="Let's Get It On by Marvin Gaye" >}}
 
 <!-- section break -->
 

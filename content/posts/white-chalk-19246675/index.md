@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Ethereal"]
 ---
 
-![White Chalk by PJ Harvey](white-chalk-19246675.jpg)
+{{< img src="white-chalk-19246675.jpg" title="White Chalk by PJ Harvey" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: []
 ---
 
-![Where Does It Go by Denise Johnson](where-does-it-go-15998946.jpg)
+{{< img src="where-does-it-go-15998946.jpg" title="Where Does It Go by Denise Johnson" >}}
 
 <!-- section break -->
 
@@ -35,15 +35,15 @@ styles: []
 
 
 ## Videos
-### True Faith
-{{< youtube id="5DwsT7QCf3M" title="True Faith" >}}<br>
+### Sunshine After the Rain
+{{< youtube id="0kLsI7nnp9g" title="Sunshine After the Rain" >}}<br>
 
 ### More Videos
 
+- [True Faith](https://www.youtube.com/watch?v=5DwsT7QCf3M)
 - [I'm Not in Love](https://www.youtube.com/watch?v=5GUyKPcIgFg)
 - [Nothing You Can Do](https://www.youtube.com/watch?v=pVeGgakuIJk)
 - [Evangeline](https://www.youtube.com/watch?v=3FcaFSIQKww)
-- [Sunshine After the Rain](https://www.youtube.com/watch?v=0kLsI7nnp9g)
 - [Well I Wonder](https://www.youtube.com/watch?v=P_R5Y3-2utE)
 - [Steal Me Easy](https://www.youtube.com/watch?v=tBDmZT2_3dY)
 

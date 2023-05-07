@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Ambient", "Post Rock"]
 ---
 
-![Behind The Counter With by Max Richter](behind-the-counter-with-10404409.jpg)
+{{< img src="behind-the-counter-with-10404409.jpg" title="Behind The Counter With by Max Richter" >}}
 
 <!-- section break -->
 
@@ -64,19 +64,19 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 
 
 ## Videos
-### Max Richter - Richter: Mercy (Audio)
-{{< youtube id="_B9dGfYCo78" title="Max Richter - Richter: Mercy (Audio)" >}}<br>
+### Boards of Canada - Zoetrope
+{{< youtube id="gO6i9YPtEd8" title="Boards of Canada - Zoetrope" >}}<br>
 
 ### More Videos
 
 - [Zoetrope](https://www.youtube.com/watch?v=JV-spttHBcg)
 - [Charles Ives - The Unanswered Question](https://www.youtube.com/watch?v=kkaOz48cq2g)
 - [Mogwai // Ether (Official Audio)](https://www.youtube.com/watch?v=2FlHCmEwRkw)
+- [Max Richter - Richter: Mercy (Audio)](https://www.youtube.com/watch?v=_B9dGfYCo78)
 - [Low - What Part of Me](https://www.youtube.com/watch?v=exxRz-iVBlc)
 - [Aphex Twin - Diskhat1](https://www.youtube.com/watch?v=5Cnfypi5jQo)
 - [Godspeed You! Black Emperor - Rockets Fall on Rocket Falls](https://www.youtube.com/watch?v=dh_wnykggWM)
 - [Zoetrope](https://www.youtube.com/watch?v=c9a6JaXsNfA)
-- [Boards of Canada - Zoetrope](https://www.youtube.com/watch?v=gO6i9YPtEd8)
 - [Arcadiana, Op.12 (1994) : VI. O Albion](https://www.youtube.com/watch?v=EXWZLCYDJUg)
 - [Ives: The Unanswered Question](https://www.youtube.com/watch?v=8tNA_DbpJjU)
 - [Kaitlyn Aurelia Smith   Bobbing Beams Of Light](https://www.youtube.com/watch?v=tDzKWqqSTvs)

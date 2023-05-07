@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-![All Good Wishes by Gulp](all-good-wishes-12359789.jpg)
+{{< img src="all-good-wishes-12359789.jpg" title="All Good Wishes by Gulp" >}}
 
 <!-- section break -->
 

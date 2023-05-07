@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Leftfield", "Downtempo", "Folk"]
 ---
 
-![Seventh Tree by Goldfrapp](seventh-tree-17643982.jpg)
+{{< img src="seventh-tree-17643982.jpg" title="Seventh Tree by Goldfrapp" >}}
 
 <!-- section break -->
 

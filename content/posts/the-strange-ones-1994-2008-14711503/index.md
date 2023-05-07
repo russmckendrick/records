@@ -14,7 +14,7 @@ genres: ["Rock", "Non-Music"]
 styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternative Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
-![The Strange Ones 1994-2008  by Supergrass](the-strange-ones-1994-2008-14711503.jpg)
+{{< img src="the-strange-ones-1994-2008-14711503.jpg" title="The Strange Ones 1994-2008  by Supergrass" >}}
 
 <!-- section break -->
 
@@ -339,14 +339,14 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 
 
 ## Videos
-### Supergrass - Bad Blood (Official HD Video)
-{{< youtube id="WZhinVDm9yM" title="Supergrass - Bad Blood (Official HD Video)" >}}<br>
+### Supergrass - Alright (Official HD Video)
+{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright (Official HD Video)" >}}<br>
 
 ### More Videos
 
 - [Strange Ones](https://www.youtube.com/watch?v=aJsVw_PyTGs)
 - [Supergrass - Diamond Hoo Ha Man (Official HD Video)](https://www.youtube.com/watch?v=6EPHk16mO20)
-- [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
+- [Supergrass - Bad Blood (Official HD Video)](https://www.youtube.com/watch?v=WZhinVDm9yM)
 
 
 ## Release Information

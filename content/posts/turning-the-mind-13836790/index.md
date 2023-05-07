@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 ---
 
-![Turning The Mind by Maps](turning-the-mind-13836790.jpg)
+{{< img src="turning-the-mind-13836790.jpg" title="Turning The Mind by Maps" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
 
-![If This Is Rock And Roll, I Want My Old Job Back by The Saw Doctors](if-this-is-rock-and-roll-i-want-my-old-job-back-2736659.jpg)
+{{< img src="if-this-is-rock-and-roll-i-want-my-old-job-back-2736659.jpg" title="If This Is Rock And Roll, I Want My Old Job Back by The Saw Doctors" >}}
 
 <!-- section break -->
 

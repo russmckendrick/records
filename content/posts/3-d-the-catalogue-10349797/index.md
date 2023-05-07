@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Techno", "Electro", "Experimental"]
 ---
 
-![3-D (The Catalogue) by Kraftwerk](3-d-the-catalogue-10349797.jpg)
+{{< img src="3-d-the-catalogue-10349797.jpg" title="3-D (The Catalogue) by Kraftwerk" >}}
 
 <!-- section break -->
 

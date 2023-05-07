@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-![(What's The Story) Morning Glory? by Oasis](what-s-the-story-morning-glory-6127871.jpg)
+{{< img src="what-s-the-story-morning-glory-6127871.jpg" title="(What's The Story) Morning Glory? by Oasis" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Britpop"]
 
 
 ## Videos
-### O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)
-{{< youtube id="b4NffykrJ6Y" title="O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)" >}}<br>
+### Oasis - Morning Glory (Official HD Remastered Video)
+{{< youtube id="Wm54XyLwBAk" title="Oasis - Morning Glory (Official HD Remastered Video)" >}}<br>
 
 ### More Videos
 
-- [Oasis - Morning Glory (Official HD Remastered Video)](https://www.youtube.com/watch?v=Wm54XyLwBAk)
+- [O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)](https://www.youtube.com/watch?v=b4NffykrJ6Y)
 
 
 ## Release Information

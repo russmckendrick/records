@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Maximum Rock 'N' Roll The Singles Volume 2  by Primal Scream](maximum-rock-n-roll-the-singles-volume-2-13767591.jpg)
+{{< img src="maximum-rock-n-roll-the-singles-volume-2-13767591.jpg" title="Maximum Rock 'N' Roll The Singles Volume 2  by Primal Scream" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-![Tones Of Town by Field Music](tones-of-town-10173938.jpg)
+{{< img src="tones-of-town-10173938.jpg" title="Tones Of Town by Field Music" >}}
 
 <!-- section break -->
 
@@ -39,12 +39,12 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Field Music - Tones of Town
-{{< youtube id="nYzlSJKboio" title="Field Music - Tones of Town" >}}<br>
+### Field Music - In Context
+{{< youtube id="DBqx9Tpmj-U" title="Field Music - In Context" >}}<br>
 
 ### More Videos
 
-- [Field Music - In Context](https://www.youtube.com/watch?v=DBqx9Tpmj-U)
+- [Field Music - Tones of Town](https://www.youtube.com/watch?v=nYzlSJKboio)
 
 
 ## Release Information

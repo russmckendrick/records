@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Hemispheres by Rush](hemispheres-7036854.jpg)
+{{< img src="hemispheres-7036854.jpg" title="Hemispheres by Rush" >}}
 
 <!-- section break -->
 

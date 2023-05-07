@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![90125 by Yes](90125-12253387.jpg)
+{{< img src="90125-12253387.jpg" title="90125 by Yes" >}}
 
 <!-- section break -->
 

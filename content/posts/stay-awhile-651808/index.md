@@ -14,7 +14,7 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Soul-Jazz", "Soul"]
 ---
 
-![Stay Awhile by Dusty Springfield](stay-awhile-651808.jpg)
+{{< img src="stay-awhile-651808.jpg" title="Stay Awhile by Dusty Springfield" >}}
 
 <!-- section break -->
 
@@ -38,17 +38,17 @@ styles: ["Soul-Jazz", "Soul"]
 
 
 ## Videos
-### Stay Awhile
-{{< youtube id="pGB3WljqzmE" title="Stay Awhile" >}}<br>
+### Anyone Who Had A Heart
+{{< youtube id="O6NOByozZVo" title="Anyone Who Had A Heart" >}}<br>
 
 ### More Videos
 
+- [Stay Awhile](https://www.youtube.com/watch?v=pGB3WljqzmE)
 - [Wishin' And Hopin'](https://www.youtube.com/watch?v=dyZG1s7gbn8)
 - [You Don't Own Me](https://www.youtube.com/watch?v=nAQKgOmUk-U)
 - [Every Day I Have To Cry](https://www.youtube.com/watch?v=-8VJz9JHGSc)
 - [I Only Want To Be With You](https://www.youtube.com/watch?v=6opirWRSj4c)
 - [Mama Said](https://www.youtube.com/watch?v=NyikIdu9gks)
-- [Anyone Who Had A Heart](https://www.youtube.com/watch?v=O6NOByozZVo)
 - [When The Love Light Starts Shining Thru His Eyes](https://www.youtube.com/watch?v=IrVqT5C7mOQ)
 - [Mockingbird](https://www.youtube.com/watch?v=0BEIGZf1IBI)
 - [Something Special](https://www.youtube.com/watch?v=rnZ1iU2-No8)

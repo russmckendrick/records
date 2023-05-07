@@ -14,7 +14,7 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![The Italian Job by Quincy Jones](the-italian-job-6089363.jpg)
+{{< img src="the-italian-job-6089363.jpg" title="The Italian Job by Quincy Jones" >}}
 
 <!-- section break -->
 
@@ -39,16 +39,16 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Quincy Jones & Matt Monro - The Italian Job - On Days Like These (1969)
-{{< youtube id="rnlPqjkkt6E" title="Quincy Jones & Matt Monro - The Italian Job - On Days Like These (1969)" >}}<br>
+### Quincy Jones - On Days Like These (The Italian Job)
+{{< youtube id="6AW-PaaHS1c" title="Quincy Jones - On Days Like These (The Italian Job)" >}}<br>
 
 ### More Videos
 
-- [Quincy Jones - On Days Like These (The Italian Job)](https://www.youtube.com/watch?v=6AW-PaaHS1c)
 - [Matt Monro - On Days Like These (The Italian Job,1969)](https://www.youtube.com/watch?v=KQIRbV_noi8)
 - [Quincy Jones - It's Caper Time - (Italian Job OST) Mod Acid Jazz](https://www.youtube.com/watch?v=4Yb5t10yyuw)
 - [Quincy Jones - Something's Cookin' (The Italian Job)](https://www.youtube.com/watch?v=7BIkOidvc0E)
 - [The Italian Job (pt 2) ultimate soundtrack suite by Quincy Jones](https://www.youtube.com/watch?v=pnrNUXbEYC0)
+- [Quincy Jones & Matt Monro - The Italian Job - On Days Like These (1969)](https://www.youtube.com/watch?v=rnlPqjkkt6E)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Experimental", "Vocal", "Ambient"]
 ---
 
-![Utopia by Björk](utopia-11154874.jpg)
+{{< img src="utopia-11154874.jpg" title="Utopia by Björk" >}}
 
 <!-- section break -->
 

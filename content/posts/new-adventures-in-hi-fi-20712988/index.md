@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![New Adventures In Hi-Fi by R.E.M.](new-adventures-in-hi-fi-20712988.jpg)
+{{< img src="new-adventures-in-hi-fi-20712988.jpg" title="New Adventures In Hi-Fi by R.E.M." >}}
 
 <!-- section break -->
 
@@ -42,16 +42,16 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### rem - leave
-{{< youtube id="qdqwvVLa3hc" title="rem - leave" >}}<br>
+### R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)
+{{< youtube id="9BC07l2_zKU" title="R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)](https://www.youtube.com/watch?v=9BC07l2_zKU)
 - [R.E.M. - E-Bow The Letter (Official Music Video) feat. Patti Smith](https://www.youtube.com/watch?v=5cnIQHJ169s)
 - [R. E. M. | The Wake-Up Bomb | 1996](https://www.youtube.com/watch?v=gi6oi-SeGOE)
 - [R.E.M. - New Test Leper (Official Music Video)](https://www.youtube.com/watch?v=_c_Yg8azAi0)
 - [R.E.M. - Undertow (Official Audio)](https://www.youtube.com/watch?v=Mp8gL2zlazI)
+- [rem - leave](https://www.youtube.com/watch?v=qdqwvVLa3hc)
 - [R.E.M. - Binky The Doormat (Official Audio)](https://www.youtube.com/watch?v=pnAjtgYjhxo)
 
 

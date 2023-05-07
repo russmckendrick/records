@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 ---
 
-![More Hot Rocks (Big Hits & Fazed Cookies) by The Rolling Stones](more-hot-rocks-big-hits-fazed-cookies-22967249.jpg)
+{{< img src="more-hot-rocks-big-hits-fazed-cookies-22967249.jpg" title="More Hot Rocks (Big Hits & Fazed Cookies) by The Rolling Stones" >}}
 
 <!-- section break -->
 

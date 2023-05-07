@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro"]
 ---
 
-![The Mix by Kraftwerk](the-mix-10035766.jpg)
+{{< img src="the-mix-10035766.jpg" title="The Mix by Kraftwerk" >}}
 
 <!-- section break -->
 

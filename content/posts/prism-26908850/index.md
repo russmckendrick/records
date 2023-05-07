@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient House", "Dub", "Disco", "Drum n Bass", "Downtempo", "Ambient"]
 ---
 
-![Prism by The Orb](prism-26908850.jpg)
+{{< img src="prism-26908850.jpg" title="Prism by The Orb" >}}
 
 <!-- section break -->
 
@@ -37,15 +37,15 @@ styles: ["Ambient House", "Dub", "Disco", "Drum n Bass", "Downtempo", "Ambient"]
 
 
 ## Videos
-### the beginning of the end
-{{< youtube id="pztEJG19dbk" title="the beginning of the end" >}}<br>
+### The Orb - H.O.M.E (high orbs mini earths)
+{{< youtube id="_KZfmTLCNX8" title="The Orb - H.O.M.E (high orbs mini earths)" >}}<br>
 
 ### More Videos
 
 - [The Orb - Prism](https://www.youtube.com/watch?v=CsPENyMyKcw)
 - [The Orb - living in recycled times (feat. Rachel D'Arcy)](https://www.youtube.com/watch?v=zdlIv-0vvwY)
-- [The Orb - H.O.M.E (high orbs mini earths)](https://www.youtube.com/watch?v=_KZfmTLCNX8)
 - [The Orb - why can you be in two places at once, when you can’t be anywhere at all.. where’s gary mix](https://www.youtube.com/watch?v=g-1LU0puPCo)
+- [the beginning of the end](https://www.youtube.com/watch?v=pztEJG19dbk)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Classical"]
 styles: ["Contemporary"]
 ---
 
-![Chrysalis by AVAWAVES](chrysalis-20529481.jpg)
+{{< img src="chrysalis-20529481.jpg" title="Chrysalis by AVAWAVES" >}}
 
 <!-- section break -->
 

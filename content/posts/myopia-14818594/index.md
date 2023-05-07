@@ -14,7 +14,7 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
 
-![Myopia by Agnes Obel](myopia-14818594.jpg)
+{{< img src="myopia-14818594.jpg" title="Myopia by Agnes Obel" >}}
 
 <!-- section break -->
 
@@ -38,16 +38,16 @@ styles: ["Vocal", "Ballad"]
 
 
 ## Videos
-### Roscian
-{{< youtube id="YBK62Gaot7k" title="Roscian" >}}<br>
+### Drosera
+{{< youtube id="D3HbohY5F3c" title="Drosera" >}}<br>
 
 ### More Videos
 
 - [Agnes Obel - Camera's Rolling (Official Video)](https://www.youtube.com/watch?v=C2fpFeNZwAg)
 - [Agnes Obel - Broken Sleep (Official Video)](https://www.youtube.com/watch?v=9-b85ngtQO4)
 - [Agnes Obel - Island Of Doom (Official Video)](https://www.youtube.com/watch?v=R0-HVFEjOlE)
+- [Roscian](https://www.youtube.com/watch?v=YBK62Gaot7k)
 - [Myopia](https://www.youtube.com/watch?v=Mav1oiRSByc)
-- [Drosera](https://www.youtube.com/watch?v=D3HbohY5F3c)
 - [Can't Be](https://www.youtube.com/watch?v=3NWV_fa9tS0)
 - [Promise Keeper](https://www.youtube.com/watch?v=2q_zl6X23vM)
 - [Parliament Of Owls](https://www.youtube.com/watch?v=NpwdJMOPbIs)

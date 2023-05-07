@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 ---
 
-![Rumours  by Fleetwood Mac](rumours-4288657.jpg)
+{{< img src="rumours-4288657.jpg" title="Rumours  by Fleetwood Mac" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Peter Gabriel II by Peter Gabriel](peter-gabriel-ii-9477792.jpg)
+{{< img src="peter-gabriel-ii-9477792.jpg" title="Peter Gabriel II by Peter Gabriel" >}}
 
 <!-- section break -->
 

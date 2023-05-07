@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 ---
 
-![Brilliant Adventure [1992-2001] by David Bowie](brilliant-adventure-1992-2001-21131182.jpg)
+{{< img src="brilliant-adventure-1992-2001-21131182.jpg" title="Brilliant Adventure [1992-2001] by David Bowie" >}}
 
 <!-- section break -->
 

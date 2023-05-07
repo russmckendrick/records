@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Koyo by Koyo](koyo-10895225.jpg)
+{{< img src="koyo-10895225.jpg" title="Koyo by Koyo" >}}
 
 <!-- section break -->
 

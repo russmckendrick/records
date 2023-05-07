@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
 
-![Gish by The Smashing Pumpkins](gish-3266516.jpg)
+{{< img src="gish-3266516.jpg" title="Gish by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

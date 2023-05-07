@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Experimental"]
 ---
 
-![Sun Zoom Spark: 1970 To 1972 by Captain Beefheart](sun-zoom-spark-1970-to-1972-6313145.jpg)
+{{< img src="sun-zoom-spark-1970-to-1972-6313145.jpg" title="Sun Zoom Spark: 1970 To 1972 by Captain Beefheart" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Live At The Orpheum by King Crimson](live-at-the-orpheum-6596408.jpg)
+{{< img src="live-at-the-orpheum-6596408.jpg" title="Live At The Orpheum by King Crimson" >}}
 
 <!-- section break -->
 

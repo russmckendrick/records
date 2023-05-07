@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Vaxis – Act I: The Unheavenly Creatures by Coheed And Cambria](vaxis-act-i-the-unheavenly-creatures-12677957.jpg)
+{{< img src="vaxis-act-i-the-unheavenly-creatures-12677957.jpg" title="Vaxis – Act I: The Unheavenly Creatures by Coheed And Cambria" >}}
 
 <!-- section break -->
 

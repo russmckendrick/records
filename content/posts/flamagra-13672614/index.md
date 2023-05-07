@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 ---
 
-![Flamagra by Flying Lotus](flamagra-13672614.jpg)
+{{< img src="flamagra-13672614.jpg" title="Flamagra by Flying Lotus" >}}
 
 <!-- section break -->
 
@@ -55,8 +55,8 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 
 
 ## Videos
-### Land Of Honey (Instrumental)
-{{< youtube id="nyA6W6ZIbxM" title="Land Of Honey (Instrumental)" >}}<br>
+### Find Your Own Way Home (Instrumental)
+{{< youtube id="8BcyuMW1UYg" title="Find Your Own Way Home (Instrumental)" >}}<br>
 
 ### More Videos
 
@@ -64,6 +64,7 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 - [Flying Lotus - Black Balloons Reprise (Official Video) ft. Denzel Curry](https://www.youtube.com/watch?v=Isn8Qp-H0N4)
 - [Takashi (Instrumental)](https://www.youtube.com/watch?v=c9dxT9kW3ss)
 - [Flying Lotus - More (feat. Anderson .Paak) [Official Video]](https://www.youtube.com/watch?v=ylqBPksn36A)
+- [Land Of Honey (Instrumental)](https://www.youtube.com/watch?v=nyA6W6ZIbxM)
 - [Flying Lotus - Fire Is Coming feat. David Lynch](https://www.youtube.com/watch?v=aTrTtzTQrv0)
 - [Heroes (Instrumental)](https://www.youtube.com/watch?v=Ee_oq3dl5y4)
 - [Heroes](https://www.youtube.com/watch?v=aDDvwoABgwE)
@@ -77,7 +78,6 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 - [Capillaries](https://www.youtube.com/watch?v=uuUe2PWtV1Y)
 - [Say Something (Instrumental)](https://www.youtube.com/watch?v=59XfRXg8-EE)
 - [Burning Down The House (feat. George Clinton)](https://www.youtube.com/watch?v=h4Z-mTcAsPU)
-- [Find Your Own Way Home (Instrumental)](https://www.youtube.com/watch?v=8BcyuMW1UYg)
 - [Spontaneous (feat. Little Dragon)](https://www.youtube.com/watch?v=Yi67hQf2AjA)
 - [Capillaries (Instrumental)](https://www.youtube.com/watch?v=8UxyRlNZxos)
 - [Takashi](https://www.youtube.com/watch?v=YrygJAr13Dk)

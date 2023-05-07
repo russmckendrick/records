@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Afterglow by Crowded House](afterglow-9322428.jpg)
+{{< img src="afterglow-9322428.jpg" title="Afterglow by Crowded House" >}}
 
 <!-- section break -->
 

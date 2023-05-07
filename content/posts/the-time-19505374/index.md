@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-![The Time by The Time](the-time-19505374.jpg)
+{{< img src="the-time-19505374.jpg" title="The Time by The Time" >}}
 
 <!-- section break -->
 
@@ -40,16 +40,16 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### Girl
-{{< youtube id="zhBD1D9n084" title="Girl" >}}<br>
+### The Stick
+{{< youtube id="8MKBkG55xi4" title="The Stick" >}}<br>
 
 ### More Videos
 
 - [Get It Up](https://www.youtube.com/watch?v=qF632f3h7gY)
+- [Girl](https://www.youtube.com/watch?v=zhBD1D9n084)
 - [After Hi School](https://www.youtube.com/watch?v=mFcNjM8py8k)
 - [Cool](https://www.youtube.com/watch?v=_Ibaf56aeew)
 - [Oh, Baby](https://www.youtube.com/watch?v=5oiBHTCsAZI)
-- [The Stick](https://www.youtube.com/watch?v=8MKBkG55xi4)
 
 
 ## Release Information

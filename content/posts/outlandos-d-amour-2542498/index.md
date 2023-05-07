@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 ---
 
-![Outlandos D'Amour by The Police](outlandos-d-amour-2542498.jpg)
+{{< img src="outlandos-d-amour-2542498.jpg" title="Outlandos D'Amour by The Police" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 
 
 ## Videos
-### The Police - Roxanne
-{{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne" >}}<br>
+### The Police - Hole In My Life (Outlandos D'Amour) (2009 European Vinyl)
+{{< youtube id="zR1YTxzfnyk" title="The Police - Hole In My Life (Outlandos D'Amour) (2009 European Vinyl)" >}}<br>
 
 ### More Videos
 
-- [The Police - Hole In My Life (Outlandos D'Amour) (2009 European Vinyl)](https://www.youtube.com/watch?v=zR1YTxzfnyk)
+- [The Police - Roxanne](https://www.youtube.com/watch?v=3T1c7GkzRQQ)
 
 
 ## Release Information

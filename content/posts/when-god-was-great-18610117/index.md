@@ -14,7 +14,7 @@ genres: ["Rock", "Reggae"]
 styles: ["Punk", "Ska"]
 ---
 
-![When God Was Great by The Mighty Mighty Bosstones](when-god-was-great-18610117.jpg)
+{{< img src="when-god-was-great-18610117.jpg" title="When God Was Great by The Mighty Mighty Bosstones" >}}
 
 <!-- section break -->
 

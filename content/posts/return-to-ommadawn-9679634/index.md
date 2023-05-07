@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Celtic", "Art Rock", "Folk Rock", "Folk"]
 ---
 
-![Return To Ommadawn by Mike Oldfield](return-to-ommadawn-9679634.jpg)
+{{< img src="return-to-ommadawn-9679634.jpg" title="Return To Ommadawn by Mike Oldfield" >}}
 
 <!-- section break -->
 

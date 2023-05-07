@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "New Wave", "Post-Punk"]
 ---
 
-![Temptation by New Order](temptation-13374825.jpg)
+{{< img src="temptation-13374825.jpg" title="Temptation by New Order" >}}
 
 <!-- section break -->
 

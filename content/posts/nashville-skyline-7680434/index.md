@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-![Nashville Skyline by Bob Dylan](nashville-skyline-7680434.jpg)
+{{< img src="nashville-skyline-7680434.jpg" title="Nashville Skyline by Bob Dylan" >}}
 
 <!-- section break -->
 

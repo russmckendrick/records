@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-![Mobile Home by Longpigs](mobile-home-20771269.jpg)
+{{< img src="mobile-home-20771269.jpg" title="Mobile Home by Longpigs" >}}
 
 <!-- section break -->
 

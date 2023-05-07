@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![In Our Bedroom After The War by Stars](in-our-bedroom-after-the-war-2095142.jpg)
+{{< img src="in-our-bedroom-after-the-war-2095142.jpg" title="In Our Bedroom After The War by Stars" >}}
 
 <!-- section break -->
 
@@ -41,15 +41,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### In Our Bedroom After The War
-{{< youtube id="c5qx_ZMY7tU" title="In Our Bedroom After The War" >}}<br>
+### Stars - Bitches In Tokyo
+{{< youtube id="2DIsxR33mK8" title="Stars - Bitches In Tokyo" >}}<br>
 
 ### More Videos
 
 - [Stars - Are We Here Now DVD Trailer](https://www.youtube.com/watch?v=T5BX4e5Srw0)
 - [My Favourite Book](https://www.youtube.com/watch?v=E6FXEm-V588)
-- [Stars - Bitches In Tokyo](https://www.youtube.com/watch?v=2DIsxR33mK8)
 - [Stars - Take Me To The Riot](https://www.youtube.com/watch?v=QzSUIxYQI2E)
+- [In Our Bedroom After The War](https://www.youtube.com/watch?v=c5qx_ZMY7tU)
 
 
 ## Release Information

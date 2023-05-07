@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Time And Tide by Split Enz](time-and-tide-2805312.jpg)
+{{< img src="time-and-tide-2805312.jpg" title="Time And Tide by Split Enz" >}}
 
 <!-- section break -->
 
@@ -56,8 +56,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever
-{{< youtube id="VQqjT4YUyNQ" title="Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever" >}}<br>
+### Split Enz - Time and Tide (Private Remaster 2017) - 05 Lost For Words
+{{< youtube id="f5GpZIchfm0" title="Split Enz - Time and Tide (Private Remaster 2017) - 05 Lost For Words" >}}<br>
 
 ### More Videos
 
@@ -65,7 +65,6 @@ styles: ["New Wave", "Pop Rock"]
 - [Split Enz - Time and Tide (Private Remaster 2017) - 02 Giant Heartbeat](https://www.youtube.com/watch?v=CfhOKyGYBrc)
 - [Split Enz - Log Cabin Fever (1982)](https://www.youtube.com/watch?v=lNfcoDpZrH4)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 01 Dirty Creature](https://www.youtube.com/watch?v=Y2jyNxzVBA8)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 05 Lost For Words](https://www.youtube.com/watch?v=f5GpZIchfm0)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 07 Take A Walk](https://www.youtube.com/watch?v=-Y3eKfjZMpQ)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 03 Hello Sandy Allen](https://www.youtube.com/watch?v=YVy15wHoDIE)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 04 Never Ceases To Amaze Me](https://www.youtube.com/watch?v=-BP_7m6qHfo)
@@ -74,6 +73,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Split Enz - Time and Tide (Private Remaster 2017) - 06 Small World](https://www.youtube.com/watch?v=IK-HGz0j3rc)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 09 Six Months In A Leaky Boat](https://www.youtube.com/watch?v=zTKKhmMKwJY)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer](https://www.youtube.com/watch?v=kgXuTj13JO0)
+- [Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever](https://www.youtube.com/watch?v=VQqjT4YUyNQ)
 
 
 ## Release Information

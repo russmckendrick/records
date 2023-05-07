@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Yours For The Taking (The Best Of) by Gene](yours-for-the-taking-the-best-of-15778008.jpg)
+{{< img src="yours-for-the-taking-the-best-of-15778008.jpg" title="Yours For The Taking (The Best Of) by Gene" >}}
 
 <!-- section break -->
 

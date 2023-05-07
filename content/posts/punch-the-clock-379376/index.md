@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-![Punch The Clock by Elvis Costello & The Attractions](punch-the-clock-379376.jpg)
+{{< img src="punch-the-clock-379376.jpg" title="Punch The Clock by Elvis Costello & The Attractions" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### TKO (Boxing Day)
-{{< youtube id="Y5yoFjJSlwo" title="TKO (Boxing Day)" >}}<br>
+### Mouth Almighty
+{{< youtube id="CIDC1bKNp_Q" title="Mouth Almighty" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Elvis Costello & The Attractions - Everyday I Write The Book](https://www.youtube.com/watch?v=V1d4r9awjKE)
 - [The Greatest Thing](https://www.youtube.com/watch?v=dAizlY5yzd8)
 - [Everyday I Write The Book](https://www.youtube.com/watch?v=Ajw8MM4yhpA)
-- [Mouth Almighty](https://www.youtube.com/watch?v=CIDC1bKNp_Q)
+- [TKO (Boxing Day)](https://www.youtube.com/watch?v=Y5yoFjJSlwo)
 - [The Invisible Man](https://www.youtube.com/watch?v=3o-iZ_GfTTs)
 - [The Element Within Her](https://www.youtube.com/watch?v=ilKum_0cfK4)
 - [Charm School](https://www.youtube.com/watch?v=FoK19qiftb0)

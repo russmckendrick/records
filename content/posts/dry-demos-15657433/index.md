@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Dry - Demos by PJ Harvey](dry-demos-15657433.jpg)
+{{< img src="dry-demos-15657433.jpg" title="Dry - Demos by PJ Harvey" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Joe (Demo)
-{{< youtube id="pRrFIYYmKMg" title="Joe (Demo)" >}}<br>
+### Sheela-Na-Gig (Demo)
+{{< youtube id="WQwrFbUiJIU" title="Sheela-Na-Gig (Demo)" >}}<br>
 
 ### More Videos
 
@@ -46,8 +46,8 @@ styles: ["Alternative Rock"]
 - [Dress (Demo)](https://www.youtube.com/watch?v=yVbgYf5CUKs)
 - [Victory (Demo)](https://www.youtube.com/watch?v=AfInQ_S2wdg)
 - [Happy And Bleeding (Demo)](https://www.youtube.com/watch?v=QysU-W1FGwI)
-- [Sheela-Na-Gig (Demo)](https://www.youtube.com/watch?v=WQwrFbUiJIU)
 - [Hair (Demo)](https://www.youtube.com/watch?v=OFZyhVPy7vw)
+- [Joe (Demo)](https://www.youtube.com/watch?v=pRrFIYYmKMg)
 - [Plants And Rags (Demo)](https://www.youtube.com/watch?v=UDdOtL1sATE)
 - [Fountain (Demo)](https://www.youtube.com/watch?v=hbutrQa8zcs)
 - [Water (Demo)](https://www.youtube.com/watch?v=1jFb_5bQYZU)

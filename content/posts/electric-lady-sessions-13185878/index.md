@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Electro", "Post-Punk"]
 ---
 
-![Electric Lady Sessions by LCD Soundsystem](electric-lady-sessions-13185878.jpg)
+{{< img src="electric-lady-sessions-13185878.jpg" title="Electric Lady Sessions by LCD Soundsystem" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Electro", "Post-Punk"]
 
 
 ## Videos
-### LCD Soundsystem - call the police (electric lady sessions - official audio)
-{{< youtube id="igyk9YN6aVM" title="LCD Soundsystem - call the police (electric lady sessions - official audio)" >}}<br>
+### LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)
+{{< youtube id="AZVhrv_sC3g" title="LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)" >}}<br>
 
 ### More Videos
 
@@ -49,10 +49,10 @@ styles: ["Electro", "Post-Punk"]
 - [LCD Soundsystem - american dream (electric lady sessions - official audio)](https://www.youtube.com/watch?v=pvuo-PUCi90)
 - [LCD Soundsystem - you wanted a hit (electric lady sessions - official audio)](https://www.youtube.com/watch?v=ol8kl1mDDaE)
 - [LCD Soundsystem - get innocuous (electric lady sessions - official audio)](https://www.youtube.com/watch?v=hI4AMdE0SAQ)
+- [LCD Soundsystem - call the police (electric lady sessions - official audio)](https://www.youtube.com/watch?v=igyk9YN6aVM)
 - [LCD Soundsystem - i used to (electric lady sessions - official audio)](https://www.youtube.com/watch?v=17uquO5IbOI)
 - [LCD Soundsystem - tonite (electric lady sessions - official audio)](https://www.youtube.com/watch?v=q25E__7vpK4)
 - [LCD Soundsystem - home (electric lady sessions - official audio)](https://www.youtube.com/watch?v=VXnOusZ5fXE)
-- [LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)](https://www.youtube.com/watch?v=AZVhrv_sC3g)
 - [LCD Soundsystem - emotional haircut (electric lady sessions - official audio)](https://www.youtube.com/watch?v=uQoZ_9vtb0Q)
 - [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
 - [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)

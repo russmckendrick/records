@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Fly By Night by Rush](fly-by-night-6585753.jpg)
+{{< img src="fly-by-night-6585753.jpg" title="Fly By Night by Rush" >}}
 
 <!-- section break -->
 

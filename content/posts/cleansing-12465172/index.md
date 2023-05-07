@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Groove Metal", "Industrial Metal"]
 ---
 
-![Cleansing by Prong](cleansing-12465172.jpg)
+{{< img src="cleansing-12465172.jpg" title="Cleansing by Prong" >}}
 
 <!-- section break -->
 
@@ -40,15 +40,15 @@ styles: ["Groove Metal", "Industrial Metal"]
 
 
 ## Videos
-### PRONG - Another Worldly Device
-{{< youtube id="Ud8hAKe_tYs" title="PRONG - Another Worldly Device" >}}<br>
+### Prong - Whose Fist Is This Anyway?
+{{< youtube id="SLya_k_lQL0" title="Prong - Whose Fist Is This Anyway?" >}}<br>
 
 ### More Videos
 
 - [Prong - Snap your fingers, snap your neck](https://www.youtube.com/watch?v=Cl-5TrGakWY)
 - [Prong - Broken Peace](https://www.youtube.com/watch?v=TbTJIHqNmc8)
 - [Prong announces 25 years of CLEANSING European tour](https://www.youtube.com/watch?v=YO6PZ49KFIo)
-- [Prong - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=SLya_k_lQL0)
+- [PRONG - Another Worldly Device](https://www.youtube.com/watch?v=Ud8hAKe_tYs)
 - [PRONG - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=v49Hve4GvOo)
 
 

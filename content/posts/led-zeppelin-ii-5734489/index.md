@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Classic Rock", "Hard Rock"]
 ---
 
-![Led Zeppelin II by Led Zeppelin](led-zeppelin-ii-5734489.jpg)
+{{< img src="led-zeppelin-ii-5734489.jpg" title="Led Zeppelin II by Led Zeppelin" >}}
 
 <!-- section break -->
 

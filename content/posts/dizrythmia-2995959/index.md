@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Dizrythmia by Split Enz](dizrythmia-2995959.jpg)
+{{< img src="dizrythmia-2995959.jpg" title="Dizrythmia by Split Enz" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Bold As Brass (2020 Remaster)
-{{< youtube id="SRVEd8oeRkU" title="Bold As Brass (2020 Remaster)" >}}<br>
+### Crosswords (2020 Remaster)
+{{< youtube id="MIn6XPXuzks" title="Crosswords (2020 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Split Enz - Sugar And Spice](https://www.youtube.com/watch?v=zt5tXIIrnW0)
 - [Charlie](https://www.youtube.com/watch?v=vspL-4UUmRs)
 - [Split Enz - Parrot Fashion Love (1977)](https://www.youtube.com/watch?v=wAosTZ5gfCc)
+- [Bold As Brass (2020 Remaster)](https://www.youtube.com/watch?v=SRVEd8oeRkU)
 - [Split Enz - Jamboree](https://www.youtube.com/watch?v=iR1Xjbalmj4)
-- [Crosswords (2020 Remaster)](https://www.youtube.com/watch?v=MIn6XPXuzks)
 
 
 ## Release Information

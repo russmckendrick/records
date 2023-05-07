@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Red by King Crimson](red-4703409.jpg)
+{{< img src="red-4703409.jpg" title="Red by King Crimson" >}}
 
 <!-- section break -->
 

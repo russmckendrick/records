@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Population Four by Cranes](population-four-15796529.jpg)
+{{< img src="population-four-15796529.jpg" title="Population Four by Cranes" >}}
 
 <!-- section break -->
 
@@ -39,18 +39,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Cranes - On Top Of The World
-{{< youtube id="bsi_itjf_08" title="Cranes - On Top Of The World" >}}<br>
+### CRANES - Can't Get Free
+{{< youtube id="yxpU26EeHis" title="CRANES - Can't Get Free" >}}<br>
 
 ### More Videos
 
 - [Cranes - Tangled Up](https://www.youtube.com/watch?v=8O5YYeaseyk)
 - [Cranes - Fourteen](https://www.youtube.com/watch?v=N_tnRFk1uYA)
 - [Cranes - Breeze](https://www.youtube.com/watch?v=4zlyT6TZdfg)
-- [CRANES - Can't Get Free](https://www.youtube.com/watch?v=yxpU26EeHis)
 - [CRANES - Stalk](https://www.youtube.com/watch?v=6PXbNjzDfr8)
 - [CRANES - Sweet Unknown](https://www.youtube.com/watch?v=CFiREL2rNl8)
 - [CRANES - Angel Bell](https://www.youtube.com/watch?v=IRMUYpkOlrI)
+- [Cranes - On Top Of The World](https://www.youtube.com/watch?v=bsi_itjf_08)
 - [CRANES - Brazil](https://www.youtube.com/watch?v=r9TlxeROvGE)
 - [CRANES - Let Go](https://www.youtube.com/watch?v=AblK9ZsFJHA)
 - [CRANES - To Be](https://www.youtube.com/watch?v=I5rS3EeFkNc)

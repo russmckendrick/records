@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock"]
 ---
 
-![I'll Be Your Girl by The Decemberists](i-ll-be-your-girl-11709250.jpg)
+{{< img src="i-ll-be-your-girl-11709250.jpg" title="I'll Be Your Girl by The Decemberists" >}}
 
 <!-- section break -->
 
@@ -36,13 +36,13 @@ styles: ["Indie Rock", "Folk Rock"]
 
 
 ## Videos
-### The Decemberists - Severed
-{{< youtube id="ksTFj6L0mao" title="The Decemberists - Severed" >}}<br>
+### Decemberists preview 'i'll be your girl' lp with new 'severed' video
+{{< youtube id="A8zrQYAygeo" title="Decemberists preview 'i'll be your girl' lp with new 'severed' video" >}}<br>
 
 ### More Videos
 
+- [The Decemberists - Severed](https://www.youtube.com/watch?v=ksTFj6L0mao)
 - [The Decemberists - Once In My Life (Audio)](https://www.youtube.com/watch?v=hMiFPHWQ5Yw)
-- [Decemberists preview 'i'll be your girl' lp with new 'severed' video](https://www.youtube.com/watch?v=A8zrQYAygeo)
 
 
 ## Release Information

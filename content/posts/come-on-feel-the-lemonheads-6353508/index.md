@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Come On Feel The Lemonheads by The Lemonheads](come-on-feel-the-lemonheads-6353508.jpg)
+{{< img src="come-on-feel-the-lemonheads-6353508.jpg" title="Come On Feel The Lemonheads by The Lemonheads" >}}
 
 <!-- section break -->
 
@@ -43,13 +43,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]
-{{< youtube id="66dq0FIQO8c" title="The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]" >}}<br>
+### The Lemonheads - Big gay heart
+{{< youtube id="wnxTjW8MBlc" title="The Lemonheads - Big gay heart" >}}<br>
 
 ### More Videos
 
+- [The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]](https://www.youtube.com/watch?v=66dq0FIQO8c)
 - [The Lemonheads - Into Your Arms (Lyrics)](https://www.youtube.com/watch?v=Kt-lmyQG6GI)
-- [The Lemonheads - Big gay heart](https://www.youtube.com/watch?v=wnxTjW8MBlc)
 - [The Lemonheads - Into Your Arms](https://www.youtube.com/watch?v=ZhlJCQH7-SQ)
 
 

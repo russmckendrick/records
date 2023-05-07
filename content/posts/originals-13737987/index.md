@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-![Originals by Prince](originals-13737987.jpg)
+{{< img src="originals-13737987.jpg" title="Originals by Prince" >}}
 
 <!-- section break -->
 
@@ -58,8 +58,8 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### Prince - Dear Michaelangelo (Official Audio)
-{{< youtube id="ZP9WDBtzIBQ" title="Prince - Dear Michaelangelo (Official Audio)" >}}<br>
+### Prince - Noon Rendezvous (Official Audio)
+{{< youtube id="XqFEpHXqFzg" title="Prince - Noon Rendezvous (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -67,7 +67,6 @@ styles: ["Minneapolis Sound", "Funk"]
 - [Prince - Sex Shooter (Official Audio)](https://www.youtube.com/watch?v=UmTqS2IBkTc)
 - [Prince - Jungle Love (Official Audio)](https://www.youtube.com/watch?v=VimhzZyd0Wc)
 - [Prince - Manic Monday (Official Music Video)](https://www.youtube.com/watch?v=WnPX-uI7ivM)
-- [Prince - Noon Rendezvous (Official Audio)](https://www.youtube.com/watch?v=XqFEpHXqFzg)
 - [Prince - Make-Up (Official Audio)](https://www.youtube.com/watch?v=sOZVJODyiRA)
 - [Prince - 100 MPH (Official Audio)](https://www.youtube.com/watch?v=OpJpvrdUSB4)
 - [Prince - You're My Love (Official Audio)](https://www.youtube.com/watch?v=3o84aYs15go)
@@ -76,6 +75,7 @@ styles: ["Minneapolis Sound", "Funk"]
 - [Prince - The Glamorous Life (Official Audio)](https://www.youtube.com/watch?v=F8jjS3hCQRo)
 - [Prince - Gigolos Get Lonely Too (Official Audio)](https://www.youtube.com/watch?v=HVA8BrimcKk)
 - [Prince - Love… Thy Will Be Done (Official Audio)](https://www.youtube.com/watch?v=efubwIE9Aaw)
+- [Prince - Dear Michaelangelo (Official Audio)](https://www.youtube.com/watch?v=ZP9WDBtzIBQ)
 - [Prince - Wouldn’t You Love to Love Me? (Official Audio)](https://www.youtube.com/watch?v=D7U6pniM13s)
 
 

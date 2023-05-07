@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Ballad"]
 ---
 
-![Lionheart by Kate Bush](lionheart-426108.jpg)
+{{< img src="lionheart-426108.jpg" title="Lionheart by Kate Bush" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 
 
 ## Videos
-### Kate Bush - Wow - Official Music Video
-{{< youtube id="ZyuxXWxKSTg" title="Kate Bush - Wow - Official Music Video" >}}<br>
+### Kashka from Baghdad
+{{< youtube id="ZsUQIMGIVrM" title="Kashka from Baghdad" >}}<br>
 
 ### More Videos
 
 - [Kate Bush ‎ Liоnheаrt  Full Album HD](https://www.youtube.com/watch?v=XZm8ciAdPcc)
-- [Kashka from Baghdad](https://www.youtube.com/watch?v=ZsUQIMGIVrM)
+- [Kate Bush - Wow - Official Music Video](https://www.youtube.com/watch?v=ZyuxXWxKSTg)
 - [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
 
 

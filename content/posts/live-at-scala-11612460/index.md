@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Live At Scala by Paul Draper](live-at-scala-11612460.jpg)
+{{< img src="live-at-scala-11612460.jpg" title="Live At Scala by Paul Draper" >}}
 
 <!-- section break -->
 

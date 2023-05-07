@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Speak & Spell by Depeche Mode](speak-spell-8953011.jpg)
+{{< img src="speak-spell-8953011.jpg" title="Speak & Spell by Depeche Mode" >}}
 
 <!-- section break -->
 

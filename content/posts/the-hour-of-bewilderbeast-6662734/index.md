@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Folk Rock", "Downtempo"]
 ---
 
-![The Hour Of Bewilderbeast by Badly Drawn Boy](the-hour-of-bewilderbeast-6662734.jpg)
+{{< img src="the-hour-of-bewilderbeast-6662734.jpg" title="The Hour Of Bewilderbeast by Badly Drawn Boy" >}}
 
 <!-- section break -->
 
@@ -46,16 +46,16 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 
 
 ## Videos
-### Badly Drawn Boy -  'Once Around The Block'
-{{< youtube id="RPVAipmV7jY" title="Badly Drawn Boy -  'Once Around The Block'" >}}<br>
+### Badly Drawn Boy - The Shining
+{{< youtube id="KNY-Pl1_ji0" title="Badly Drawn Boy - The Shining" >}}<br>
 
 ### More Videos
 
-- [Badly Drawn Boy - The Shining](https://www.youtube.com/watch?v=KNY-Pl1_ji0)
 - [Badly Drawn Boy - Everybody's Stalking](https://www.youtube.com/watch?v=dlYsmqANxIo)
 - [Badly Drawn Boy - Another Pearl](https://www.youtube.com/watch?v=HYdE2-W1xfU)
 - [Badly Drawn Boy - Disillusion](https://www.youtube.com/watch?v=Haa7Vr0li5U)
 - [Badly Drawn Boy - Spitting In The Wind](https://www.youtube.com/watch?v=J0POI7qC0uc)
+- [Badly Drawn Boy -  'Once Around The Block'](https://www.youtube.com/watch?v=RPVAipmV7jY)
 - [Bewilderbeast](https://www.youtube.com/watch?v=8YwGcqtYRdI)
 - [Badly Drawn Boy - Bewilder](https://www.youtube.com/watch?v=hHPYNEDK2Ew)
 

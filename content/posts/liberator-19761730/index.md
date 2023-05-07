@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Liberator by Orchestral Manoeuvres In The Dark](liberator-19761730.jpg)
+{{< img src="liberator-19761730.jpg" title="Liberator by Orchestral Manoeuvres In The Dark" >}}
 
 <!-- section break -->
 
@@ -40,14 +40,13 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Christine
-{{< youtube id="oh4JiRbgpMY" title="Christine" >}}<br>
+### Love And Hate You
+{{< youtube id="WoIo7_zvBuE" title="Love And Hate You" >}}<br>
 
 ### More Videos
 
 - [Dream Of Me (Based On Love's Theme)](https://www.youtube.com/watch?v=Vc-d3FGoxDI)
 - [Orchestral Manoeuvres In The Dark - Stand Above Me](https://www.youtube.com/watch?v=HewK0qkT7OI)
-- [Love And Hate You](https://www.youtube.com/watch?v=WoIo7_zvBuE)
 - [Best Years Of Our Lives](https://www.youtube.com/watch?v=xY1fe9h7l7E)
 - [Agnus Dei](https://www.youtube.com/watch?v=5ScXTwAF8TY)
 - [Heaven Is](https://www.youtube.com/watch?v=8Q13k_EQwyA)
@@ -55,6 +54,7 @@ styles: ["Synth-pop"]
 - [Only Tears](https://www.youtube.com/watch?v=duHtik7Ph48)
 - [King Of Stone](https://www.youtube.com/watch?v=pLh8r5yNXQU)
 - [Dollar Girl](https://www.youtube.com/watch?v=KT-1fnFOzuM)
+- [Christine](https://www.youtube.com/watch?v=oh4JiRbgpMY)
 
 
 ## Release Information

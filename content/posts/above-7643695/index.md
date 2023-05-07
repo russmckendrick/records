@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 ---
 
-![Above by Mad Season](above-7643695.jpg)
+{{< img src="above-7643695.jpg" title="Above by Mad Season" >}}
 
 <!-- section break -->
 
@@ -43,14 +43,14 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 
 
 ## Videos
-### Long Gone Day
-{{< youtube id="-1RdXVQN4ag" title="Long Gone Day" >}}<br>
+### I'm Above
+{{< youtube id="rbvXpfvqJbc" title="I'm Above" >}}<br>
 
 ### More Videos
 
 - [Mad Season - River Of Deceit](https://www.youtube.com/watch?v=Fm72DPJCX58)
 - [All Alone](https://www.youtube.com/watch?v=OJar1xAqaWI)
-- [I'm Above](https://www.youtube.com/watch?v=rbvXpfvqJbc)
+- [Long Gone Day](https://www.youtube.com/watch?v=-1RdXVQN4ag)
 
 
 ## Release Information

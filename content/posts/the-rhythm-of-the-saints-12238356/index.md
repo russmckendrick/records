@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-![The Rhythm Of The Saints by Paul Simon](the-rhythm-of-the-saints-12238356.jpg)
+{{< img src="the-rhythm-of-the-saints-12238356.jpg" title="The Rhythm Of The Saints by Paul Simon" >}}
 
 <!-- section break -->
 

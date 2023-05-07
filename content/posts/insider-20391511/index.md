@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-![Insider by Amplifier](insider-20391511.jpg)
+{{< img src="insider-20391511.jpg" title="Insider by Amplifier" >}}
 
 <!-- section break -->
 

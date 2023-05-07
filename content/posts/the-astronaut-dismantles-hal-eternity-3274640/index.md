@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ---
 
-![The Astronaut Dismantles HAL/Eternity by Amplifier](the-astronaut-dismantles-hal-eternity-3274640.jpg)
+{{< img src="the-astronaut-dismantles-hal-eternity-3274640.jpg" title="The Astronaut Dismantles HAL/Eternity by Amplifier" >}}
 
 <!-- section break -->
 

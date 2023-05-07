@@ -14,7 +14,7 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-![Springsteen On Broadway by Bruce Springsteen](springsteen-on-broadway-13106936.jpg)
+{{< img src="springsteen-on-broadway-13106936.jpg" title="Springsteen On Broadway by Bruce Springsteen" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-![Aloha by Son Little](aloha-14719879.jpg)
+{{< img src="aloha-14719879.jpg" title="Aloha by Son Little" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: []
 
 
 ## Videos
-### Son Little - mahalia (Full Album Stream)
-{{< youtube id="Mpcl0_4cPns" title="Son Little - mahalia (Full Album Stream)" >}}<br>
+### Son Little - suffer
+{{< youtube id="xLo0a_mKmx4" title="Son Little - suffer" >}}<br>
 
 ### More Videos
 
-- [Son Little - suffer](https://www.youtube.com/watch?v=xLo0a_mKmx4)
+- [Son Little - mahalia (Full Album Stream)](https://www.youtube.com/watch?v=Mpcl0_4cPns)
 - [Son Little - bbbaby (Full Album Stream)](https://www.youtube.com/watch?v=tzKUCpIsMnQ)
 - [Son Little - about her. again.](https://www.youtube.com/watch?v=RKyR-kOMLNY)
 - [Son Little - neve give up](https://www.youtube.com/watch?v=jaZcnBog0Zs)

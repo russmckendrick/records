@@ -14,7 +14,7 @@ genres: ["Rock", "Non-Music"]
 styles: ["Acoustic", "Comedy"]
 ---
 
-![Get Out Of My Room by Cheech & Chong](get-out-of-my-room-968986.jpg)
+{{< img src="get-out-of-my-room-968986.jpg" title="Get Out Of My Room by Cheech & Chong" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Acoustic", "Comedy"]
 
 
 ## Videos
-### Cheech & Chong Get Out of My Room - Trailer
-{{< youtube id="JMn2W9co5Tc" title="Cheech & Chong Get Out of My Room - Trailer" >}}<br>
+### Cheech and Chong - Love is Strange
+{{< youtube id="_TK2pzRRfQ8" title="Cheech and Chong - Love is Strange" >}}<br>
 
 ### More Videos
 
-- [Cheech and Chong - Love is Strange](https://www.youtube.com/watch?v=_TK2pzRRfQ8)
 - [Get Out Of My Room Cheech and Chong](https://www.youtube.com/watch?v=8Gx5INc9s0A)
+- [Cheech & Chong Get Out of My Room - Trailer](https://www.youtube.com/watch?v=JMn2W9co5Tc)
 - [Cheech & Chong - Get Out Of My Room Trailer (deutsch)](https://www.youtube.com/watch?v=aiF6WcpCzvY)
 
 

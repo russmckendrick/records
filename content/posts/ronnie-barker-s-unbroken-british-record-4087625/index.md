@@ -14,7 +14,7 @@ genres: ["Non-Music", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ---
 
-![Ronnie Barker's Unbroken British Record by Ronnie Barker](ronnie-barker-s-unbroken-british-record-4087625.jpg)
+{{< img src="ronnie-barker-s-unbroken-british-record-4087625.jpg" title="Ronnie Barker's Unbroken British Record by Ronnie Barker" >}}
 
 <!-- section break -->
 

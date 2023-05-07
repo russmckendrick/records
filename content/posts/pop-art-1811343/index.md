@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Pop Art by Transvision Vamp](pop-art-1811343.jpg)
+{{< img src="pop-art-1811343.jpg" title="Pop Art by Transvision Vamp" >}}
 
 <!-- section break -->
 
@@ -39,17 +39,17 @@ styles: ["Pop Rock"]
 
 ## Videos
 ### Andy Warhol's Dead
-{{< youtube id="toPtvO6QXwk" title="Andy Warhol's Dead" >}}<br>
+{{< youtube id="ozjukVjVjNQ" title="Andy Warhol's Dead" >}}<br>
 
 ### More Videos
 
 - [Transvision Vamp - I Want Your Love (1988)](https://www.youtube.com/watch?v=l3u3lc3II-I)
 - [Transvision Vamp Pop Art + Velveteen (The video Singles) VHS](https://www.youtube.com/watch?v=EyYSLqqmZ_k)
 - [Transvision Vamp - Revolution Baby (1988)](https://www.youtube.com/watch?v=yB-YpycXhvM)
+- [Andy Warhol's Dead](https://www.youtube.com/watch?v=toPtvO6QXwk)
 - [Transvision Vamp - Tell That Girl to Shut Up (1988)](https://www.youtube.com/watch?v=_zlt_jB1kC0)
 - [Trash City](https://www.youtube.com/watch?v=pqAt3HZRyAY)
 - [Transvision Vamp - Sister Moon (1988)](https://www.youtube.com/watch?v=-yEMSuVcA-M)
-- [Andy Warhol's Dead](https://www.youtube.com/watch?v=ozjukVjVjNQ)
 - [Transvision Vamp - ANDY WARHOL'S DEAD](https://www.youtube.com/watch?v=CvpNW-89hk4)
 - [Sex Kick](https://www.youtube.com/watch?v=CGEswhonXMg)
 - [Sister Moon (7 Version)](https://www.youtube.com/watch?v=LeLXrNc13OE)

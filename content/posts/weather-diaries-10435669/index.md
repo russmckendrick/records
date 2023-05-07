@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
 
-![Weather Diaries by Ride](weather-diaries-10435669.jpg)
+{{< img src="weather-diaries-10435669.jpg" title="Weather Diaries by Ride" >}}
 
 <!-- section break -->
 

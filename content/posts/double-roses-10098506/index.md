@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
-![Double Roses by Karen Elson](double-roses-10098506.jpg)
+{{< img src="double-roses-10098506.jpg" title="Double Roses by Karen Elson" >}}
 
 <!-- section break -->
 

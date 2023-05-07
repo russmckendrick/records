@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
 
-![Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor!](lift-your-skinny-fists-like-antennas-to-heaven-74260.jpg)
+{{< img src="lift-your-skinny-fists-like-antennas-to-heaven-74260.jpg" title="Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor!" >}}
 
 <!-- section break -->
 

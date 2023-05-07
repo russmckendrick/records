@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Funk"]
 ---
 
-![Betty Davis by Betty Davis](betty-davis-10549758.jpg)
+{{< img src="betty-davis-10549758.jpg" title="Betty Davis by Betty Davis" >}}
 
 <!-- section break -->
 

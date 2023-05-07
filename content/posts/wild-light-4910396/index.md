@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Math Rock", "Shoegaze"]
 ---
 
-![Wild Light by 65daysofstatic](wild-light-4910396.jpg)
+{{< img src="wild-light-4910396.jpg" title="Wild Light by 65daysofstatic" >}}
 
 <!-- section break -->
 
@@ -44,14 +44,14 @@ styles: ["Post Rock", "Math Rock", "Shoegaze"]
 
 
 ## Videos
-### 65daysofstatic - The Undertow
-{{< youtube id="8JdO4yg0_8U" title="65daysofstatic - The Undertow" >}}<br>
+### 65daysofstatic - PRISMS
+{{< youtube id="geMmsM43N4Y" title="65daysofstatic - PRISMS" >}}<br>
 
 ### More Videos
 
 - [65daysofstatic - Safe Passage](https://www.youtube.com/watch?v=V480DQCRSJ0)
-- [65daysofstatic - PRISMS](https://www.youtube.com/watch?v=geMmsM43N4Y)
 - [Taipei (Wild Light) - 65daysofstatic](https://www.youtube.com/watch?v=eH8NAUum0Tk)
+- [65daysofstatic - The Undertow](https://www.youtube.com/watch?v=8JdO4yg0_8U)
 - [65daysofstatic - Taipei](https://www.youtube.com/watch?v=QE5A2Y-MTJ8)
 - [65daysofstatic - Sleepwalk City](https://www.youtube.com/watch?v=N67mw_1Iz-A)
 - [65daysofstatic - Heat Death Infinity Splitter](https://www.youtube.com/watch?v=WGuHD3dIOWg)

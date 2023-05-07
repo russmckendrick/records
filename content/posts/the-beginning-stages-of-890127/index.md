@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
-![The Beginning Stages Of... by The Polyphonic Spree](the-beginning-stages-of-890127.jpg)
+{{< img src="the-beginning-stages-of-890127.jpg" title="The Beginning Stages Of... by The Polyphonic Spree" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### THE POLYPHONIC SPREE soldier girl
-{{< youtube id="4uzddaCSwpE" title="THE POLYPHONIC SPREE soldier girl" >}}<br>
+### the polyphonic spree - it's the sun
+{{< youtube id="P9gk1PGZxaE" title="the polyphonic spree - it's the sun" >}}<br>
 
 ### More Videos
 
-- [the polyphonic spree - it's the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
+- [THE POLYPHONIC SPREE soldier girl](https://www.youtube.com/watch?v=4uzddaCSwpE)
 - [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
 

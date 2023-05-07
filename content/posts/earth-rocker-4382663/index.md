@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Earth Rocker by Clutch](earth-rocker-4382663.jpg)
+{{< img src="earth-rocker-4382663.jpg" title="Earth Rocker by Clutch" >}}
 
 <!-- section break -->
 

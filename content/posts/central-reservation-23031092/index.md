@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 ---
 
-![Central Reservation by Beth Orton](central-reservation-23031092.jpg)
+{{< img src="central-reservation-23031092.jpg" title="Central Reservation by Beth Orton" >}}
 
 <!-- section break -->
 
@@ -40,17 +40,17 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 
 
 ## Videos
-### Beth Orton - Central Reservation - 07 - Stars All Seem To Weep
-{{< youtube id="ntr5FGZejK4" title="Beth Orton - Central Reservation - 07 - Stars All Seem To Weep" >}}<br>
+### Beth Orton Central Reservation (Original Version)
+{{< youtube id="7hrWbUKpQmA" title="Beth Orton Central Reservation (Original Version)" >}}<br>
 
 ### More Videos
 
+- [Beth Orton - Central Reservation - 07 - Stars All Seem To Weep](https://www.youtube.com/watch?v=ntr5FGZejK4)
 - [Precious Maybe  Beth Orton](https://www.youtube.com/watch?v=Asbh1Arz5FM)
 - [Beth Orton Central Reservation](https://www.youtube.com/watch?v=vHqB8xuNfB8)
 - [Beth Orton - So Much More](https://www.youtube.com/watch?v=6h5OkCHsFuI)
 - [Precious Maybe (2008 Remastered Version)](https://www.youtube.com/watch?v=wK_jBepeifE)
 - [Central Reservation (The Then Again Version)](https://www.youtube.com/watch?v=WF2qiMDif1Q)
-- [Beth Orton Central Reservation (Original Version)](https://www.youtube.com/watch?v=7hrWbUKpQmA)
 - [Beth Orton - Central Reservation](https://www.youtube.com/watch?v=Th3gkE_sP9k)
 - [Beth Orton Stars All Seem To Weep](https://www.youtube.com/watch?v=TSGmahdU890)
 - [Beth Orton - Stolen Car](https://www.youtube.com/watch?v=uJ35dnfYKrQ)

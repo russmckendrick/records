@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Van Weezer by Weezer](van-weezer-18600571.jpg)
+{{< img src="van-weezer-18600571.jpg" title="Van Weezer by Weezer" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![And The Glass Handed Kites by Mew](and-the-glass-handed-kites-15964207.jpg)
+{{< img src="and-the-glass-handed-kites-15964207.jpg" title="And The Glass Handed Kites by Mew" >}}
 
 <!-- section break -->
 

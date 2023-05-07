@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Mod"]
 ---
 
-![Who's Next by The Who](who-s-next-6957505.jpg)
+{{< img src="who-s-next-6957505.jpg" title="Who's Next by The Who" >}}
 
 <!-- section break -->
 

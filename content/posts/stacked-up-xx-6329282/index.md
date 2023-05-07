@@ -14,7 +14,7 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ---
 
-![Stacked Up XX by Senser](stacked-up-xx-6329282.jpg)
+{{< img src="stacked-up-xx-6329282.jpg" title="Stacked Up XX by Senser" >}}
 
 <!-- section break -->
 
@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 
 
 ## Videos
-### Senser - No Comply (Official Video)
-{{< youtube id="K5yYtzsJAyg" title="Senser - No Comply (Official Video)" >}}<br>
+### Senser - Worth
+{{< youtube id="ImyjkfQbSH8" title="Senser - Worth" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 - [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
 - [Senser - Switch (Official Video)](https://www.youtube.com/watch?v=TPbXnwkiTF4)
 - [States of Mind  by Senser, of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
+- [Senser - No Comply (Official Video)](https://www.youtube.com/watch?v=K5yYtzsJAyg)
 - [Senser - Age Of Panic - Live @ Reading Festival '94](https://www.youtube.com/watch?v=sbX5Ft336tA)
-- [Senser - Worth](https://www.youtube.com/watch?v=ImyjkfQbSH8)
 - [The Key](https://www.youtube.com/watch?v=A6sEg0fdWV8)
 - [Senser - What's Going On (w lyrics)](https://www.youtube.com/watch?v=G3-TCUhQfiY)
 - [States of Mind](https://www.youtube.com/watch?v=5mNVnr5BKsA)

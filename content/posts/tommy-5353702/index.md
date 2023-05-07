@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Pop Rock"]
 ---
 
-![Tommy by The Who](tommy-5353702.jpg)
+{{< img src="tommy-5353702.jpg" title="Tommy by The Who" >}}
 
 <!-- section break -->
 

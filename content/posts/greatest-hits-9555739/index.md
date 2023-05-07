@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Synth-pop", "Pop Rock"]
 ---
 
-![Greatest Hits by Eurythmics](greatest-hits-9555739.jpg)
+{{< img src="greatest-hits-9555739.jpg" title="Greatest Hits by Eurythmics" >}}
 
 <!-- section break -->
 
@@ -46,8 +46,8 @@ styles: ["Synth-pop", "Pop Rock"]
 
 
 ## Videos
-### Eurythmics-Who's That Girl
-{{< youtube id="JZ9gY7ugc-Q" title="Eurythmics-Who's That Girl" >}}<br>
+### ♪ Eurythmics - Thorn In My Side | Singles #17/33
+{{< youtube id="ojlzOnqwGeA" title="♪ Eurythmics - Thorn In My Side | Singles #17/33" >}}<br>
 
 ### More Videos
 
@@ -55,6 +55,7 @@ styles: ["Synth-pop", "Pop Rock"]
 - [Eurythmics, Annie Lennox, Dave Stewart - Here Comes The Rain Again (Remastered)](https://www.youtube.com/watch?v=TzFnYcIqj6I)
 - [Eurythmics - Here Comes The Rain Again ( Extended 12 ) 1983](https://www.youtube.com/watch?v=22zdnYE8dLk)
 - [There Must Be An Angel (Playing With My Heart) (Remastered)](https://www.youtube.com/watch?v=RCdneDxFRYQ)
+- [Eurythmics-Who's That Girl](https://www.youtube.com/watch?v=JZ9gY7ugc-Q)
 - [Eurythmics, Annie Lennox, Dave Stewart - Thorn In My Side (Official Video)](https://www.youtube.com/watch?v=_AmkmqYEarw)
 - [Eurythmics Would I Lie to You Lyrics](https://www.youtube.com/watch?v=PzlFEpv9EAM)
 - [Sister are doin' it for themselves lyrics-Eurythmics and Aretha Franklin](https://www.youtube.com/watch?v=85KTiWcn14U)
@@ -62,7 +63,6 @@ styles: ["Synth-pop", "Pop Rock"]
 - [Eurythmics - Missionary Man (HQ Audio)](https://www.youtube.com/watch?v=dhLp11ZbfFI)
 - [♪ Eurythmics - I Need A Man | Singles #22/33](https://www.youtube.com/watch?v=SfV0yhEMX7Q)
 - [Eurythmics Love Is A Stranger Lyrics](https://www.youtube.com/watch?v=0XlagMjYRNk)
-- [♪ Eurythmics - Thorn In My Side | Singles #17/33](https://www.youtube.com/watch?v=ojlzOnqwGeA)
 - [The King and Queen of America](https://www.youtube.com/watch?v=MelbhSbRRE4)
 - [Angel](https://www.youtube.com/watch?v=OItVapYPjkY)
 

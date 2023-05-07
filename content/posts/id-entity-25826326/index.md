@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![ID.Entity by Riverside](id-entity-25826326.jpg)
+{{< img src="id-entity-25826326.jpg" title="ID.Entity by Riverside" >}}
 
 <!-- section break -->
 
@@ -37,12 +37,13 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Landmine Blast
-{{< youtube id="IWOSPLBDTTo" title="Landmine Blast" >}}<br>
+### RIVERSIDE - “Friend or Foe? (Single Edit)“ (Official Video)
+{{< youtube id="EWQQFjyHtro" title="RIVERSIDE - “Friend or Foe? (Single Edit)“ (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Friend or Foe?](https://www.youtube.com/watch?v=-BCXXbuQHxs)
+- [Landmine Blast](https://www.youtube.com/watch?v=IWOSPLBDTTo)
 - [Riverside - Big Tech Brother (Official Track Visualizer)](https://www.youtube.com/watch?v=xJ6I3_xbH7I)
 - [Post-Truth](https://www.youtube.com/watch?v=Ymq2VQOUyuE)
 - [The Place Where I Belong](https://www.youtube.com/watch?v=dHaj6uDx5Cs)
@@ -50,7 +51,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [Self-Aware](https://www.youtube.com/watch?v=blB0UkMBCSA)
 - [Age of Anger](https://www.youtube.com/watch?v=QRZS6JVe2sQ)
 - [Together Again](https://www.youtube.com/watch?v=fcdmcjrhjak)
-- [RIVERSIDE - “Friend or Foe? (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=EWQQFjyHtro)
 - [RIVERSIDE - “Self-Aware (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=Weuo4hgVHyY)
 
 

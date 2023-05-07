@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Fish Heads And Tails by Goodbye Mr. Mackenzie](fish-heads-and-tails-1029622.jpg)
+{{< img src="fish-heads-and-tails-1029622.jpg" title="Fish Heads And Tails by Goodbye Mr. Mackenzie" >}}
 
 <!-- section break -->
 

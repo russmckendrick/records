@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", "Shoegaze", "EBM", "Industrial"]
 ---
 
-![Indie Top 20 Volume XI by Various](indie-top-20-volume-xi-589039.jpg)
+{{< img src="indie-top-20-volume-xi-589039.jpg" title="Indie Top 20 Volume XI by Various" >}}
 
 <!-- section break -->
 

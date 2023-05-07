@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Europop", "Downtempo"]
 ---
 
-![The Best Of Hooverphonic by Hooverphonic](the-best-of-hooverphonic-18295270.jpg)
+{{< img src="the-best-of-hooverphonic-18295270.jpg" title="The Best Of Hooverphonic by Hooverphonic" >}}
 
 <!-- section break -->
 
@@ -61,12 +61,12 @@ styles: ["Europop", "Downtempo"]
 
 
 ## Videos
-### Hooverphonic - Sometimes
-{{< youtube id="_QbnmV90tko" title="Hooverphonic - Sometimes" >}}<br>
+### Hooverphonic - 2 Wicky (Official Video)
+{{< youtube id="dppcuKJrqbE" title="Hooverphonic - 2 Wicky (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Hooverphonic - 2 Wicky (Official Video)](https://www.youtube.com/watch?v=dppcuKJrqbE)
+- [Hooverphonic - Sometimes](https://www.youtube.com/watch?v=_QbnmV90tko)
 - [Hooverphonic - You (Still Video)](https://www.youtube.com/watch?v=wplXFoN_RQg)
 
 

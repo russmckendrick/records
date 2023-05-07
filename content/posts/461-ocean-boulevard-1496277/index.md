@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-![461 Ocean Boulevard by Eric Clapton](461-ocean-boulevard-1496277.jpg)
+{{< img src="461-ocean-boulevard-1496277.jpg" title="461 Ocean Boulevard by Eric Clapton" >}}
 
 <!-- section break -->
 

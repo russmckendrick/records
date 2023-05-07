@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Glam", "Pop Rock", "Soul"]
 ---
 
-![ChangesOneBowie by David Bowie](changesonebowie-8518115.jpg)
+{{< img src="changesonebowie-8518115.jpg" title="ChangesOneBowie by David Bowie" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-![Takk... by Sigur Rós](takk-7665804.jpg)
+{{< img src="takk-7665804.jpg" title="Takk... by Sigur Rós" >}}
 
 <!-- section break -->
 

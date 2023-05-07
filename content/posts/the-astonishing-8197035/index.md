@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-![The Astonishing by Dream Theater](the-astonishing-8197035.jpg)
+{{< img src="the-astonishing-8197035.jpg" title="The Astonishing by Dream Theater" >}}
 
 <!-- section break -->
 
@@ -64,12 +64,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Dream Theater - The Gift Of Music [OFFICIAL VIDEO]
-{{< youtube id="fae4FQ4McSY" title="Dream Theater - The Gift Of Music [OFFICIAL VIDEO]" >}}<br>
+### Dream Theater - Astonishing (Audio)
+{{< youtube id="Mt618RnQ3RA" title="Dream Theater - Astonishing (Audio)" >}}<br>
 
 ### More Videos
 
-- [Dream Theater - Astonishing (Audio)](https://www.youtube.com/watch?v=Mt618RnQ3RA)
+- [Dream Theater - The Gift Of Music [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=fae4FQ4McSY)
 
 
 ## Release Information

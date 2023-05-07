@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Diesel And Dust by Midnight Oil](diesel-and-dust-3639615.jpg)
+{{< img src="diesel-and-dust-3639615.jpg" title="Diesel And Dust by Midnight Oil" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Bullroarer (2007 Remastered)
-{{< youtube id="0IRwIXAjD_w" title="Bullroarer (2007 Remastered)" >}}<br>
+### Warakurna (2007 Remastered)
+{{< youtube id="WPhym6Bpxiw" title="Warakurna (2007 Remastered)" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Alternative Rock"]
 - [Midnight Oil - Put Down That Weapon](https://www.youtube.com/watch?v=XzEwCc4WVKs)
 - [Midnight Oil - Dreamworld](https://www.youtube.com/watch?v=OcKcjpSWmm0)
 - [Arctic World (2007 Remastered)](https://www.youtube.com/watch?v=LBJQoUfj91U)
-- [Warakurna (2007 Remastered)](https://www.youtube.com/watch?v=WPhym6Bpxiw)
 - [Whoah (2007 Remastered)](https://www.youtube.com/watch?v=4CKrGtaT11E)
+- [Bullroarer (2007 Remastered)](https://www.youtube.com/watch?v=0IRwIXAjD_w)
 - [Sell My Soul (2007 Remastered)](https://www.youtube.com/watch?v=779BEw77_1s)
 - [Sometimes (2007 Remastered)](https://www.youtube.com/watch?v=tki30k4_oPk)
 - [Midnight Oil - Beds Are Burning (Diesel And Dust), 1987 Vinyl video. UHD, 4K, 24bit/96kHz](https://www.youtube.com/watch?v=fxUxj_byZtc)

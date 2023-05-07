@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Ethereal"]
 ---
 
-![Stars And Topsoil A Collection (1982-1990) by Cocteau Twins](stars-and-topsoil-a-collection-1982-1990-3372164.jpg)
+{{< img src="stars-and-topsoil-a-collection-1982-1990-3372164.jpg" title="Stars And Topsoil A Collection (1982-1990) by Cocteau Twins" >}}
 
 <!-- section break -->
 
@@ -46,16 +46,16 @@ styles: ["Alternative Rock", "Ethereal"]
 
 
 ## Videos
-### The Thinner The Air
-{{< youtube id="mJmnKVL5ja0" title="The Thinner The Air" >}}<br>
+### Sugar Hiccup
+{{< youtube id="gbzCUmuI-Bg" title="Sugar Hiccup" >}}<br>
 
 ### More Videos
 
-- [Sugar Hiccup](https://www.youtube.com/watch?v=gbzCUmuI-Bg)
 - [Lorelei](https://www.youtube.com/watch?v=o7tcFKakZTA)
 - [Pink Orange Red](https://www.youtube.com/watch?v=sDTiyR339Mw)
 - [Pale Clouded White](https://www.youtube.com/watch?v=JP5EVzxrYtg)
 - [Lazy Calm](https://www.youtube.com/watch?v=m0wVqkt7ND8)
+- [The Thinner The Air](https://www.youtube.com/watch?v=mJmnKVL5ja0)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
 
-![Slowdive by Slowdive](slowdive-10229694.jpg)
+{{< img src="slowdive-10229694.jpg" title="Slowdive by Slowdive" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Reggae", "Stage & Screen"]
 styles: ["Ska", "Soundtrack"]
 ---
 
-![Dance Craze - The Best of British Ska...LIVE! by Various](dance-craze-the-best-of-british-ska-live-26536709.jpg)
+{{< img src="dance-craze-the-best-of-british-ska-live-26536709.jpg" title="Dance Craze - The Best of British Ska...LIVE! by Various" >}}
 
 <!-- section break -->
 
@@ -69,17 +69,17 @@ styles: ["Ska", "Soundtrack"]
 
 
 ## Videos
-### MADNESS - SWAN LAKE AND RAZORBLADE ALLEY (DANCE CRAZE)
-{{< youtube id="nU1EV0WvwzM" title="MADNESS - SWAN LAKE AND RAZORBLADE ALLEY (DANCE CRAZE)" >}}<br>
+### Dance Craze - Documentary 1981 (Part 7)
+{{< youtube id="tKhGB6Ih5oc" title="Dance Craze - Documentary 1981 (Part 7)" >}}<br>
 
 ### More Videos
 
 - [DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)](https://www.youtube.com/watch?v=Tr5kO4-yKoM)
 - [The Specials Concrete Jungle from 'Dance Craze'](https://www.youtube.com/watch?v=g8qh63nu1OQ)
 - [Dance Craze The best of British Ska live full album vinyl](https://www.youtube.com/watch?v=kBTowqTVkAk)
+- [MADNESS - SWAN LAKE AND RAZORBLADE ALLEY (DANCE CRAZE)](https://www.youtube.com/watch?v=nU1EV0WvwzM)
 - [Dance Craze - Documentary 1981 (Part 1)](https://www.youtube.com/watch?v=Amo1MNw7c1k)
 - [Dance Craze - Documentary 1981 (Part 2)](https://www.youtube.com/watch?v=62k2AKhy-ms)
-- [Dance Craze - Documentary 1981 (Part 7)](https://www.youtube.com/watch?v=tKhGB6Ih5oc)
 
 
 ## Release Information

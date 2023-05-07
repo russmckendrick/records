@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Doing It For The Kids by Various](doing-it-for-the-kids-547494.jpg)
+{{< img src="doing-it-for-the-kids-547494.jpg" title="Doing It For The Kids by Various" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### My Bloody Valentine - Cigarette In Your Bed
-{{< youtube id="P82V5TEEVWc" title="My Bloody Valentine - Cigarette In Your Bed" >}}<br>
+### The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988
+{{< youtube id="J5AyEsD0Tpk" title="The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988" >}}<br>
 
 ### More Videos
 
@@ -53,9 +53,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Nikki Sudden & The Jacobites - Death Is Hanging Over Me](https://www.youtube.com/watch?v=gN08etKFUs8)
 - [Momus A Complete History Of Sexual Jealousy](https://www.youtube.com/watch?v=PAjpgAkeTj0)
 - [The Jazz Butcher - Lot 49](https://www.youtube.com/watch?v=f8EVyEaXu_I)
-- [The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988](https://www.youtube.com/watch?v=J5AyEsD0Tpk)
 - [Biff Bang Pow! - She Paints](https://www.youtube.com/watch?v=Ai4ifP6MA_M)
 - [Pacific - Jet stream (Audio)](https://www.youtube.com/watch?v=HLXXByTQH54)
+- [My Bloody Valentine - Cigarette In Your Bed](https://www.youtube.com/watch?v=P82V5TEEVWc)
 - [The Times - Godevil](https://www.youtube.com/watch?v=hCuK6BGrxz4)
 - [Razorcuts-Brighter Now](https://www.youtube.com/watch?v=M6-m8jFd2JU)
 - [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)

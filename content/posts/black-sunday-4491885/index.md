@@ -14,7 +14,7 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-![Black Sunday by Cypress Hill](black-sunday-4491885.jpg)
+{{< img src="black-sunday-4491885.jpg" title="Black Sunday by Cypress Hill" >}}
 
 <!-- section break -->
 
@@ -42,16 +42,16 @@ styles: []
 
 
 ## Videos
-### Cypress Hill - When the Shit Goes Down
-{{< youtube id="I826gxc8TvI" title="Cypress Hill - When the Shit Goes Down" >}}<br>
+### cψρƦε$$ HILL - Black Sunday FULLΛLBUM
+{{< youtube id="k4D5kp1d3nE" title="cψρƦε$$ HILL - Black Sunday FULLΛLBUM" >}}<br>
 
 ### More Videos
 
 - [Cypress Hill - Insane In The Brain (Official Video)](https://www.youtube.com/watch?v=RijB8wnJCN0)
 - [Lock Down](https://www.youtube.com/watch?v=PHZl5DuWMbo)
+- [Cypress Hill - When the Shit Goes Down](https://www.youtube.com/watch?v=I826gxc8TvI)
 - [Cypress Hill - I Ain't Goin' Out Like That](https://www.youtube.com/watch?v=q7p-ihYOG5s)
 - [Cypress Hill - Hits from the Bong (Audio)](https://www.youtube.com/watch?v=eMK4cfXj5c0)
-- [cψρƦε$$ HILL - Black Sunday FULLΛLBUM](https://www.youtube.com/watch?v=k4D5kp1d3nE)
 
 
 ## Release Information

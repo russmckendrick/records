@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 ---
 
-![Hot Shots II by The Beta Band](hot-shots-ii-12843720.jpg)
+{{< img src="hot-shots-ii-12843720.jpg" title="Hot Shots II by The Beta Band" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### The Beta Band - Eclipse
-{{< youtube id="06KiM57Pvu0" title="The Beta Band - Eclipse" >}}<br>
+### The Beta Band - Hot Shots II  (Full album)
+{{< youtube id="O7rjG--0oqU" title="The Beta Band - Hot Shots II  (Full album)" >}}<br>
 
 ### More Videos
 
+- [The Beta Band - Eclipse](https://www.youtube.com/watch?v=06KiM57Pvu0)
 - [Broke](https://www.youtube.com/watch?v=kB81YHKYDdI)
-- [The Beta Band - Hot Shots II  (Full album)](https://www.youtube.com/watch?v=O7rjG--0oqU)
 
 
 ## Release Information

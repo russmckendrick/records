@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Rock"]
 ---
 
-![The Marquee - 30 Legendary Years by Various](the-marquee-30-legendary-years-1679405.jpg)
+{{< img src="the-marquee-30-legendary-years-1679405.jpg" title="The Marquee - 30 Legendary Years by Various" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
 
-![Superunknown by Soundgarden](superunknown-5757840.jpg)
+{{< img src="superunknown-5757840.jpg" title="Superunknown by Soundgarden" >}}
 
 <!-- section break -->
 
@@ -44,15 +44,15 @@ styles: ["Grunge", "Alternative Rock"]
 
 
 ## Videos
-### Soundgarden - My Wave (Official Music Video)
-{{< youtube id="HEbYxEXM2cE" title="Soundgarden - My Wave (Official Music Video)" >}}<br>
+### Soundgarden - Spoonman (Official Music Video)
+{{< youtube id="T0_zzCLLRvE" title="Soundgarden - Spoonman (Official Music Video)" >}}<br>
 
 ### More Videos
 
+- [Soundgarden - My Wave (Official Music Video)](https://www.youtube.com/watch?v=HEbYxEXM2cE)
 - [Soundgarden - Fell On Black Days (Official Music Video)](https://www.youtube.com/watch?v=ySzrJ4GRF7s)
 - [Soundgarden - Superunknown (Official Video)](https://www.youtube.com/watch?v=AwdjreJKggg)
 - [Soundgarden - Black Hole Sun (Official Music Video)](https://www.youtube.com/watch?v=3mbBbFH9fAg)
-- [Soundgarden - Spoonman (Official Music Video)](https://www.youtube.com/watch?v=T0_zzCLLRvE)
 - [Soundgarden - The Day I Tried To Live (Official Music Video)](https://www.youtube.com/watch?v=dbckIuT_YDc)
 
 

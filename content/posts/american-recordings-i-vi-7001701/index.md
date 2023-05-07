@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-![American Recordings I - VI by Johnny Cash](american-recordings-i-vi-7001701.jpg)
+{{< img src="american-recordings-i-vi-7001701.jpg" title="American Recordings I - VI by Johnny Cash" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![The Lamb Lies Down On Broadway by Genesis](the-lamb-lies-down-on-broadway-12333317.jpg)
+{{< img src="the-lamb-lies-down-on-broadway-12333317.jpg" title="The Lamb Lies Down On Broadway by Genesis" >}}
 
 <!-- section break -->
 

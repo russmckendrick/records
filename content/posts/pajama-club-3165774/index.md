@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-![Pajama Club by Pajama Club](pajama-club-3165774.jpg)
+{{< img src="pajama-club-3165774.jpg" title="Pajama Club by Pajama Club" >}}
 
 <!-- section break -->
 

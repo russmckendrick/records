@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
-![Never Loved Elvis by The Wonder Stuff](never-loved-elvis-566167.jpg)
+{{< img src="never-loved-elvis-566167.jpg" title="Never Loved Elvis by The Wonder Stuff" >}}
 
 <!-- section break -->
 

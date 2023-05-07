@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Pop"]
 ---
 
-![One In A Thousand by Obey Robots](one-in-a-thousand-26209652.jpg)
+{{< img src="one-in-a-thousand-26209652.jpg" title="One In A Thousand by Obey Robots" >}}
 
 <!-- section break -->
 

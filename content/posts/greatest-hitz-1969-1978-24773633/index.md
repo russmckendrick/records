@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Glam"]
 ---
 
-![Greatest Hitz 1969-1978 by The Sweet](greatest-hitz-1969-1978-24773633.jpg)
+{{< img src="greatest-hitz-1969-1978-24773633.jpg" title="Greatest Hitz 1969-1978 by The Sweet" >}}
 
 <!-- section break -->
 

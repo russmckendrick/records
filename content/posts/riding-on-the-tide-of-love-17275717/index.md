@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Riding On The Tide Of Love by Deacon Blue](riding-on-the-tide-of-love-17275717.jpg)
+{{< img src="riding-on-the-tide-of-love-17275717.jpg" title="Riding On The Tide Of Love by Deacon Blue" >}}
 
 <!-- section break -->
 
@@ -36,8 +36,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Deacon Blue - City of Love (At Home Sessions)
-{{< youtube id="eyEUQOIwxuY" title="Deacon Blue - City of Love (At Home Sessions)" >}}<br>
+### Deacon Blue - I Will and I Won't (At Home Sessions)
+{{< youtube id="yiSF3N8ks8M" title="Deacon Blue - I Will and I Won't (At Home Sessions)" >}}<br>
 
 ### More Videos
 
@@ -50,9 +50,9 @@ styles: ["Pop Rock"]
 - [Deacon Blue - Nothing's Changed (Official Audio)](https://www.youtube.com/watch?v=kkyuGrqIGAQ)
 - [Deacon Blue - She Loved The Snow (Official Audio)](https://www.youtube.com/watch?v=kk4iy86H-o0)
 - [Deacon Blue Riding On The Tide Of Love live [BBC Scotland Hogmanay 2020]](https://www.youtube.com/watch?v=C4irNbEBy88)
-- [Deacon Blue - I Will and I Won't (At Home Sessions)](https://www.youtube.com/watch?v=yiSF3N8ks8M)
 - [Deacon Blue - Only Tender Love (At Home Sessions)](https://www.youtube.com/watch?v=xPRpQFGtbqw)
 - [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
+- [Deacon Blue - City of Love (At Home Sessions)](https://www.youtube.com/watch?v=eyEUQOIwxuY)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-![Counterparts by Rush](counterparts-7684165.jpg)
+{{< img src="counterparts-7684165.jpg" title="Counterparts by Rush" >}}
 
 <!-- section break -->
 

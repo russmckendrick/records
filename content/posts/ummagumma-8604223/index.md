@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Experimental"]
 ---
 
-![Ummagumma by Pink Floyd](ummagumma-8604223.jpg)
+{{< img src="ummagumma-8604223.jpg" title="Ummagumma by Pink Floyd" >}}
 
 <!-- section break -->
 

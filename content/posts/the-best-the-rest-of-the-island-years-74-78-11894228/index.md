@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
 
-![The Best & The Rest Of The Island Years 74-78 by Sparks](the-best-the-rest-of-the-island-years-74-78-11894228.jpg)
+{{< img src="the-best-the-rest-of-the-island-years-74-78-11894228.jpg" title="The Best & The Rest Of The Island Years 74-78 by Sparks" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 ---
 
-![Wish by The Cure](wish-25263778.jpg)
+{{< img src="wish-25263778.jpg" title="Wish by The Cure" >}}
 
 <!-- section break -->
 

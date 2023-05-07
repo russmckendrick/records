@@ -14,7 +14,7 @@ genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-![In The Dark by Toots & The Maytals](in-the-dark-15638649.jpg)
+{{< img src="in-the-dark-15638649.jpg" title="In The Dark by Toots & The Maytals" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Roots Reggae"]
 
 
 ## Videos
-### Fever
-{{< youtube id="U4iL3UHzFTI" title="Fever" >}}<br>
+### Take A Look In The Mirror
+{{< youtube id="Oi4ua4VKQbA" title="Take A Look In The Mirror" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["Roots Reggae"]
 - [Toots & The Maytals - In The Dark](https://www.youtube.com/watch?v=Oi4wNA9WDBw)
 - [Having A Party](https://www.youtube.com/watch?v=V3UXvVhk1ik)
 - [I See You](https://www.youtube.com/watch?v=m-60xJNLpJM)
-- [Take A Look In The Mirror](https://www.youtube.com/watch?v=Oi4ua4VKQbA)
+- [Fever](https://www.youtube.com/watch?v=U4iL3UHzFTI)
 - [Toots And The Maytals - Love Gonna Walk Out On Me](https://www.youtube.com/watch?v=DnAS51ormCw)
 - [Revolution](https://www.youtube.com/watch?v=Y2oI1q2t6gE)
 - [Sailing On](https://www.youtube.com/watch?v=itnsYaWbtQg)

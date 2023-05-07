@@ -14,7 +14,7 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-![Life by Inspiral Carpets](life-21039049.jpg)
+{{< img src="life-21039049.jpg" title="Life by Inspiral Carpets" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Monkey On My Back
-{{< youtube id="gaSVZvqmtkk" title="Monkey On My Back" >}}<br>
+### Memories of You
+{{< youtube id="Xao5l_fJB70" title="Memories of You" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Indie Pop"]
 - [Directing Traffik](https://www.youtube.com/watch?v=izyZZFD5a5Y)
 - [Besides Me](https://www.youtube.com/watch?v=mSJUZfwstu4)
 - [Many Happy Returns](https://www.youtube.com/watch?v=ubSea2_3RMw)
-- [Memories of You](https://www.youtube.com/watch?v=Xao5l_fJB70)
 - [She Comes in the Fall](https://www.youtube.com/watch?v=gDc9EhUjUAI)
+- [Monkey On My Back](https://www.youtube.com/watch?v=gaSVZvqmtkk)
 - [Sun Don't Shine](https://www.youtube.com/watch?v=BE8SIcWdowc)
 - [Inside My Head](https://www.youtube.com/watch?v=e1RiKH53Ko0)
 - [Sackville](https://www.youtube.com/watch?v=LY0CCIt5t1s)

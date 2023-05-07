@@ -14,7 +14,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Prog Rock"]
 ---
 
-![The Diary by The Gentle Storm](the-diary-26059753.jpg)
+{{< img src="the-diary-26059753.jpg" title="The Diary by The Gentle Storm" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Hyperspace by Beck](hyperspace-14427560.jpg)
+{{< img src="hyperspace-14427560.jpg" title="Hyperspace by Beck" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![Rio by Duran Duran](rio-140843.jpg)
+{{< img src="rio-140843.jpg" title="Rio by Duran Duran" >}}
 
 <!-- section break -->
 
@@ -37,16 +37,16 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Duran Duran - My Own Way (Official Music Video )
-{{< youtube id="QUrIDz6L5vc" title="Duran Duran - My Own Way (Official Music Video )" >}}<br>
+### Duran Duran - New Religion from AS THE LIGHTS GO DOWN
+{{< youtube id="hV0nzGy3TRs" title="Duran Duran - New Religion from AS THE LIGHTS GO DOWN" >}}<br>
 
 ### More Videos
 
 - [Duran Duran - Hungry like the Wolf (Official Music Video)](https://www.youtube.com/watch?v=oJL-lCzEXgI)
 - [Duran Duran - Rio (Official Music Video)](https://www.youtube.com/watch?v=nTizYn3-QN0)
 - [Duran Duran - Save A Prayer (Official Music Video)](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
+- [Duran Duran - My Own Way (Official Music Video )](https://www.youtube.com/watch?v=QUrIDz6L5vc)
 - [Duran Duran - Lonely In Your Nightmare (Official Music Video)](https://www.youtube.com/watch?v=rGdLNbIc2ZA)
-- [Duran Duran - New Religion from AS THE LIGHTS GO DOWN](https://www.youtube.com/watch?v=hV0nzGy3TRs)
 - [Last Chance on the Stairway (2009 Remaster)](https://www.youtube.com/watch?v=0TSOM7PkFkg)
 - [Duran Duran - The Chauffeur (Official Music Video)](https://www.youtube.com/watch?v=1B__8N5d_LA)
 - [Duran Duran - Lonely In Your Nightmare Version 2 (Official Music Video)](https://www.youtube.com/watch?v=zU20mJJULyI)

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-![Mental Notes by Split Enz](mental-notes-15348568.jpg)
+{{< img src="mental-notes-15348568.jpg" title="Mental Notes by Split Enz" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Videos
-### Split Enz Amy [Darling]
-{{< youtube id="2CWQ6EDZGYc" title="Split Enz Amy [Darling]" >}}<br>
+### Split Enz - Mental Notes
+{{< youtube id="d80t_wzZq88" title="Split Enz - Mental Notes" >}}<br>
 
 ### More Videos
 
 - [Split Enz - Stranger Than Fiction](https://www.youtube.com/watch?v=7T4bHxbR0vk)
 - [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
-- [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
+- [Split Enz Amy [Darling]](https://www.youtube.com/watch?v=2CWQ6EDZGYc)
 - [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
 - [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)

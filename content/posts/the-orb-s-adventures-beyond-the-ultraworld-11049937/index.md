@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Dub", "Ambient House"]
 ---
 
-![The Orb's Adventures Beyond The Ultraworld by The Orb](the-orb-s-adventures-beyond-the-ultraworld-11049937.jpg)
+{{< img src="the-orb-s-adventures-beyond-the-ultraworld-11049937.jpg" title="The Orb's Adventures Beyond The Ultraworld by The Orb" >}}
 
 <!-- section break -->
 

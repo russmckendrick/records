@@ -14,7 +14,7 @@ genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporary Jazz", "Soundtrack"]
 ---
 
-![Lost Highway (Original Motion Picture Soundtrack) by Various](lost-highway-original-motion-picture-soundtrack-9274768.jpg)
+{{< img src="lost-highway-original-motion-picture-soundtrack-9274768.jpg" title="Lost Highway (Original Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -48,8 +48,8 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 
 
 ## Videos
-### Lost Highway Soundtrack 05. Haunting & Heartbreaking
-{{< youtube id="nX12fKHHt34" title="Lost Highway Soundtrack 05. Haunting & Heartbreaking" >}}<br>
+### Rammstein (Edit)
+{{< youtube id="x6jtEnLJncM" title="Rammstein (Edit)" >}}<br>
 
 ### More Videos
 
@@ -57,6 +57,7 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 - [Videodrones; Questions](https://www.youtube.com/watch?v=ji_BZmgB1OM)
 - [The Perfect Drug](https://www.youtube.com/watch?v=pa5YJRcfCfM)
 - [Red Bats With Teeth](https://www.youtube.com/watch?v=k-e08eBbNv0)
+- [Lost Highway Soundtrack 05. Haunting & Heartbreaking](https://www.youtube.com/watch?v=nX12fKHHt34)
 - [Eye](https://www.youtube.com/watch?v=kmqS01NMips)
 - [Dub Driving](https://www.youtube.com/watch?v=9lCxWbKB1iI)
 - [Mr. Eddy's Theme 1](https://www.youtube.com/watch?v=ksRRT7eoJFo)
@@ -69,7 +70,6 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 - [I Put A Spell On You](https://www.youtube.com/watch?v=jy7Q1nt-4PE)
 - [Fats Revisited](https://www.youtube.com/watch?v=Zy9NTRgUXqU)
 - [Fred's World](https://www.youtube.com/watch?v=vi5uEJi2nkI)
-- [Rammstein (Edit)](https://www.youtube.com/watch?v=x6jtEnLJncM)
 - [Hollywood Sunset](https://www.youtube.com/watch?v=L8SyzCv9OxY)
 - [Heirate Mich (Edit)](https://www.youtube.com/watch?v=r2AInopKBWM)
 - [Police](https://www.youtube.com/watch?v=eP6IQ3Vfuho)

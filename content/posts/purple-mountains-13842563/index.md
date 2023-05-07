@@ -14,7 +14,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk"]
 ---
 
-![Purple Mountains by Purple Mountains](purple-mountains-13842563.jpg)
+{{< img src="purple-mountains-13842563.jpg" title="Purple Mountains by Purple Mountains" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Folk"]
 
 
 ## Videos
-### She’s Making Friends, I’m Turning Stranger
-{{< youtube id="EhQjp-P4y34" title="She’s Making Friends, I’m Turning Stranger" >}}<br>
+### Margaritas at the Mall
+{{< youtube id="BamaU09AdGA" title="Margaritas at the Mall" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,7 @@ styles: ["Alternative Rock", "Folk"]
 - [Purple Mountains All My Happiness is Gone (Official Music Video)](https://www.youtube.com/watch?v=XvUBbROsXBw)
 - [Purple Mountains Darkness and Cold (Official Music Video)](https://www.youtube.com/watch?v=JZKMa-ByLBQ)
 - [Snow is Falling in Manhattan](https://www.youtube.com/watch?v=50227UHWULg)
-- [Margaritas at the Mall](https://www.youtube.com/watch?v=BamaU09AdGA)
+- [She’s Making Friends, I’m Turning Stranger](https://www.youtube.com/watch?v=EhQjp-P4y34)
 - [I Loved Being My Mother’s Son](https://www.youtube.com/watch?v=7tLbSIwPqu0)
 - [Nights That Won’t Happen](https://www.youtube.com/watch?v=XxJzN0asbqg)
 - [Storyline Fever](https://www.youtube.com/watch?v=YEpq9RFBaew)

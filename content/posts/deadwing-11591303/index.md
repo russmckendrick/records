@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Deadwing by Porcupine Tree](deadwing-11591303.jpg)
+{{< img src="deadwing-11591303.jpg" title="Deadwing by Porcupine Tree" >}}
 
 <!-- section break -->
 
@@ -39,8 +39,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Mellotron Scratch
-{{< youtube id="rBNu-rILsE0" title="Mellotron Scratch" >}}<br>
+### Halo
+{{< youtube id="RFowJjldSww" title="Halo" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Unboxing Porcupine Tree - Deadwing 2023 Deluxe Edition](https://www.youtube.com/watch?v=NeBqm0B2z3s)
 - [Shallow](https://www.youtube.com/watch?v=1lym_8nmyJI)
 - [Lazarus](https://www.youtube.com/watch?v=WeyIOc_A3G4)
-- [Halo](https://www.youtube.com/watch?v=RFowJjldSww)
 - [Arriving Somewhere But Not Here](https://www.youtube.com/watch?v=Kpeip2B8l2E)
+- [Mellotron Scratch](https://www.youtube.com/watch?v=rBNu-rILsE0)
 - [Open Car](https://www.youtube.com/watch?v=xuORaGlbBoQ)
 - [The Start of Something Beautiful](https://www.youtube.com/watch?v=x_O8HZpkaH0)
 - [Glass Arm Shattering](https://www.youtube.com/watch?v=HwgLkvHM6js)

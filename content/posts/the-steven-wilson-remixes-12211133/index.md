@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![The Steven Wilson Remixes by Yes](the-steven-wilson-remixes-12211133.jpg)
+{{< img src="the-steven-wilson-remixes-12211133.jpg" title="The Steven Wilson Remixes by Yes" >}}
 
 <!-- section break -->
 

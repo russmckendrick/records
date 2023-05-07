@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ---
 
-![Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald](sweet-freedom-the-best-of-michael-mcdonald-573351.jpg)
+{{< img src="sweet-freedom-the-best-of-michael-mcdonald-573351.jpg" title="Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald" >}}
 
 <!-- section break -->
 
@@ -37,17 +37,17 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 
 
 ## Videos
-### I keep forgetting - Michael Mc Donald
-{{< youtube id="CnjEzx7Glr8" title="I keep forgetting - Michael Mc Donald" >}}<br>
+### James Ingram and Michael McDonald - Yah Mo Be There
+{{< youtube id="_3rVtcm6pBE" title="James Ingram and Michael McDonald - Yah Mo Be There" >}}<br>
 
 ### More Videos
 
-- [James Ingram and Michael McDonald - Yah Mo Be There](https://www.youtube.com/watch?v=_3rVtcm6pBE)
 - [MICHAEL McDONALD - I Gotta Try](https://www.youtube.com/watch?v=JL4JuGPxsJI)
 - [Our Love](https://www.youtube.com/watch?v=NrkOf2G_jLk)
 - [Michael McDonald - No Lookin' Back (great quality)](https://www.youtube.com/watch?v=x7QKprUnrfg)
 - [[I'll Be Your] Angel](https://www.youtube.com/watch?v=KBcnRdIZFLg)
 - [Michael McDonald  -  I Keep Forgettin'](https://www.youtube.com/watch?v=zY0--b6DLqQ)
+- [I keep forgetting - Michael Mc Donald](https://www.youtube.com/watch?v=CnjEzx7Glr8)
 - [Patti LaBelle - On My Own (Official Music Video) ft. Michael McDonald](https://www.youtube.com/watch?v=KsH63qJlIMM)
 - [Michael McDonald - Any Foolish Thing](https://www.youtube.com/watch?v=1iv1rPBDDv0)
 - [Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&B Pop](https://www.youtube.com/watch?v=dJe1iUuAW4M)

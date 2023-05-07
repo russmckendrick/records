@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Whispering Jack by John Farnham](whispering-jack-1161865.jpg)
+{{< img src="whispering-jack-1161865.jpg" title="Whispering Jack by John Farnham" >}}
 
 <!-- section break -->
 
@@ -38,12 +38,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### You're The Voice ~ John Farnham live at the Palais
-{{< youtube id="CcGP7FKWT80" title="You're The Voice ~ John Farnham live at the Palais" >}}<br>
+### John Farnham - Pressure Down
+{{< youtube id="Emutat3_IP0" title="John Farnham - Pressure Down" >}}<br>
 
 ### More Videos
 
-- [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
 - [John Farnham - Whispering Jack In Concert (full concert)](https://www.youtube.com/watch?v=LEEVsxG5blQ)
 - [Pressure Down](https://www.youtube.com/watch?v=tF0gqm4uUNo)
 - [Love to Shine](https://www.youtube.com/watch?v=A0uOghhkgOw)
@@ -56,6 +55,7 @@ styles: ["Pop Rock"]
 - [A Touch of Paradise ~~~ John Farnham, 1987](https://www.youtube.com/watch?v=RrQJBDqmyrs)
 - [John Farnham - Pressure Down | Whispering Jack 25th Anniversary | Qpac Brisbane | 2nd November 2011](https://www.youtube.com/watch?v=0sRHzrNdNtc)
 - [[HQ] Coldplay- You're The Voice (with John Farnham) Sound Relief Concert [HQ]](https://www.youtube.com/watch?v=19JN50bLKjY)
+- [You're The Voice ~ John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
 
 
 ## Release Information

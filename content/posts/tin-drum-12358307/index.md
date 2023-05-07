@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-![Tin Drum by Japan](tin-drum-12358307.jpg)
+{{< img src="tin-drum-12358307.jpg" title="Tin Drum by Japan" >}}
 
 <!-- section break -->
 
@@ -36,13 +36,12 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Japan - Cantonese Boy
-{{< youtube id="JFTjxYBMOpw" title="Japan - Cantonese Boy" >}}<br>
+### Visions Of China (2003 Digital Remaster)
+{{< youtube id="1__fxehH3jo" title="Visions Of China (2003 Digital Remaster)" >}}<br>
 
 ### More Videos
 
 - [The Art of Parties (2003 - Remaster)](https://www.youtube.com/watch?v=aEuB_rfuM7Q)
-- [Visions Of China (2003 Digital Remaster)](https://www.youtube.com/watch?v=1__fxehH3jo)
 - [Talking Drum (2003 Digital Remaster)](https://www.youtube.com/watch?v=VMnPLCrGZA0)
 - [Ghosts (2003 Digital Remaster)](https://www.youtube.com/watch?v=0cLeyGWthgw)
 - [Canton (2003 Digital Remaster)](https://www.youtube.com/watch?v=R1Rt8mX9LJE)
@@ -50,6 +49,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Sons Of Pioneers (2003 Digital Remaster)](https://www.youtube.com/watch?v=aEf38uz6FuQ)
 - [Cantonese Boy (Remastered)](https://www.youtube.com/watch?v=SfVG-4g0c1I)
 - [Life Without Buildings (Remaster 2003)](https://www.youtube.com/watch?v=RPk0-GMFqAI)
+- [Japan - Cantonese Boy](https://www.youtube.com/watch?v=JFTjxYBMOpw)
 - [Japan – Visions Of China](https://www.youtube.com/watch?v=wnlSy2I0gfc)
 - [Japan – The Art Of Parties](https://www.youtube.com/watch?v=hRgDEhqFXAc)
 

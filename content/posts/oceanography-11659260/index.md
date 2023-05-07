@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-![Oceanography by Charlie Barnes](oceanography-11659260.jpg)
+{{< img src="oceanography-11659260.jpg" title="Oceanography by Charlie Barnes" >}}
 
 <!-- section break -->
 

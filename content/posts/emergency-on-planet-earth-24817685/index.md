@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Acid Jazz"]
 ---
 
-![Emergency On Planet Earth by Jamiroquai](emergency-on-planet-earth-24817685.jpg)
+{{< img src="emergency-on-planet-earth-24817685.jpg" title="Emergency On Planet Earth by Jamiroquai" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Acid Jazz"]
 
 
 ## Videos
-### Jamiroquai - If I Like It, I Do It
-{{< youtube id="up0swWdzr24" title="Jamiroquai - If I Like It, I Do It" >}}<br>
+### Jamiroquai - Blow Your Mind (Official Music Video)
+{{< youtube id="MVTkbCCl3-I" title="Jamiroquai - Blow Your Mind (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Jamiroquai - When You Gonna Learn? (Official Music Video)](https://www.youtube.com/watch?v=eo7iwlMFPrM)
 - [Jamiroquai - Too Young to Die (Official Music Video)](https://www.youtube.com/watch?v=mjeWKssl8Ic)
-- [Jamiroquai - Blow Your Mind (Official Music Video)](https://www.youtube.com/watch?v=MVTkbCCl3-I)
 - [Jamiroquai - Emergency on Planet Earth (Official Video)](https://www.youtube.com/watch?v=zuR5TYI5Qkg)
+- [Jamiroquai - If I Like It, I Do It](https://www.youtube.com/watch?v=up0swWdzr24)
 - [Jamiroquai - Hooked Up (Audio)](https://www.youtube.com/watch?v=tljTNY1rMsU)
 - [Jamiroquai - Music of the Mind (Audio)](https://www.youtube.com/watch?v=D4rur_x1Xi0)
 - [Jamiroquai - Whatever It Is, I Just Can't Stop (Audio)](https://www.youtube.com/watch?v=m0O79CuOUPs)

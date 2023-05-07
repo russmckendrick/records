@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-![Abacab by Genesis](abacab-2294111.jpg)
+{{< img src="abacab-2294111.jpg" title="Abacab by Genesis" >}}
 
 <!-- section break -->
 

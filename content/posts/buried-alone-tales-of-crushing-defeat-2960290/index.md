@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![Buried Alone: Tales Of Crushing Defeat by Knifeworld](buried-alone-tales-of-crushing-defeat-2960290.jpg)
+{{< img src="buried-alone-tales-of-crushing-defeat-2960290.jpg" title="Buried Alone: Tales Of Crushing Defeat by Knifeworld" >}}
 
 <!-- section break -->
 
@@ -41,15 +41,15 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Unwreckaged
-{{< youtube id="LDKZtF6_Tm4" title="Unwreckaged" >}}<br>
+### The Wretched Fathoms
+{{< youtube id="qvdPCSTGyy8" title="The Wretched Fathoms" >}}<br>
 
 ### More Videos
 
 - [Severed of Horsehoof](https://www.youtube.com/watch?v=5c5xHtYKAes)
 - [Corpses Feuding Underground](https://www.youtube.com/watch?v=N7Yr0pRD800)
 - [Me to the Future of You](https://www.youtube.com/watch?v=vUd8UKQ71pk)
-- [The Wretched Fathoms](https://www.youtube.com/watch?v=qvdPCSTGyy8)
+- [Unwreckaged](https://www.youtube.com/watch?v=LDKZtF6_Tm4)
 
 
 ## Release Information

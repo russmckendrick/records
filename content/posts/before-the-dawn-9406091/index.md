@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-![Before The Dawn by The KT Fellowship](before-the-dawn-9406091.jpg)
+{{< img src="before-the-dawn-9406091.jpg" title="Before The Dawn by The KT Fellowship" >}}
 
 <!-- section break -->
 

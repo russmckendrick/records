@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Space Rock", "Prog Rock", "Ambient"]
 ---
 
-![Jurassic Shift by Ozric Tentacles](jurassic-shift-5159986.jpg)
+{{< img src="jurassic-shift-5159986.jpg" title="Jurassic Shift by Ozric Tentacles" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 
 
 ## Videos
-### Ozric Tentacles - Feng Shui
-{{< youtube id="rhvXJU0rpOg" title="Ozric Tentacles - Feng Shui" >}}<br>
+### Pteranodon (2020 Ed Wynne Remaster)
+{{< youtube id="5xo90EXeggA" title="Pteranodon (2020 Ed Wynne Remaster)" >}}<br>
 
 ### More Videos
 
@@ -47,13 +47,13 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 - [Stretchy (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=S-82W6gVEt8)
 - [Feng Shui (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=K0hWabelX9w)
 - [Half Light In Thillai](https://www.youtube.com/watch?v=gqMdQxn8RRQ)
-- [Pteranodon (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=5xo90EXeggA)
 - [Train Oasis (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=e_7vCf87A1k)
 - [Vita Voom (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=oEXkbwOxGOI)
 - [Sunhair (System 7 Stargate mix)](https://www.youtube.com/watch?v=v1H2i8Ax8ps)
 - [Pteranodon (Hallucinogen mix)](https://www.youtube.com/watch?v=lNV05jaWAb8)
 - [Ozric Tentacles - Sunhair](https://www.youtube.com/watch?v=Fi7VPXmbxME)
 - [Ozric Tentacles - Stretchy](https://www.youtube.com/watch?v=csM8IIaXFYM)
+- [Ozric Tentacles - Feng Shui](https://www.youtube.com/watch?v=rhvXJU0rpOg)
 - [Ozric Tentacles - Jurassic Shift Pt.1](https://www.youtube.com/watch?v=Uc_6ORsvdbY)
 - [Ozric Tentacles - Jurassic Shift Pt 2](https://www.youtube.com/watch?v=cxPcDQA0WPI)
 - [Ozric Tentacles - Pteranodon](https://www.youtube.com/watch?v=TMydRUWYkq0)

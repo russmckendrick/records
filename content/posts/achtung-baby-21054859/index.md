@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Achtung Baby by U2](achtung-baby-21054859.jpg)
+{{< img src="achtung-baby-21054859.jpg" title="Achtung Baby by U2" >}}
 
 <!-- section break -->
 

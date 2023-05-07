@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Punk", "New Wave"]
 ---
 
-![Against The Odds 1974-1982 by Blondie](against-the-odds-1974-1982-24318461.jpg)
+{{< img src="against-the-odds-1974-1982-24318461.jpg" title="Against The Odds 1974-1982 by Blondie" >}}
 
 <!-- section break -->
 
@@ -163,8 +163,8 @@ styles: ["Power Pop", "Punk", "New Wave"]
 
 
 ## Videos
-### In The Flesh (Extended Intro)
-{{< youtube id="GDmeThqyFKE" title="In The Flesh (Extended Intro)" >}}<br>
+### I Love You Honey, Give Me A Beer (Go Through It)
+{{< youtube id="q0w_4hRFc08" title="I Love You Honey, Give Me A Beer (Go Through It)" >}}<br>
 
 ### More Videos
 
@@ -174,8 +174,8 @@ styles: ["Power Pop", "Punk", "New Wave"]
 - [Angels On The Balcony (Giorgio Moroder Demo)](https://www.youtube.com/watch?v=CJgO8VI3hMU)
 - [The Disco Song (1974 Session)](https://www.youtube.com/watch?v=XJ-6bwCEX4g)
 - [The Hardest Part (Home Tape)](https://www.youtube.com/watch?v=Ff53JdsHyo8)
+- [In The Flesh (Extended Intro)](https://www.youtube.com/watch?v=GDmeThqyFKE)
 - [X Offender (Intro)](https://www.youtube.com/watch?v=pZh3iiwpWBY)
-- [I Love You Honey, Give Me A Beer (Go Through It)](https://www.youtube.com/watch?v=q0w_4hRFc08)
 - [I'm On E (Take 2)](https://www.youtube.com/watch?v=Q2F1FOp-Kbw)
 - [Sexy Ida (1974 Session)](https://www.youtube.com/watch?v=34lEv6Fec1c)
 - [Call Me](https://www.youtube.com/watch?v=wLFT_yd8ETY)

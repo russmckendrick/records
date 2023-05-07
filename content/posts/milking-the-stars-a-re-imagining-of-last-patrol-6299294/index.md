@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ---
 
-![Milking The Stars: A Re-Imagining Of Last Patrol by Monster Magnet](milking-the-stars-a-re-imagining-of-last-patrol-6299294.jpg)
+{{< img src="milking-the-stars-a-re-imagining-of-last-patrol-6299294.jpg" title="Milking The Stars: A Re-Imagining Of Last Patrol by Monster Magnet" >}}
 
 <!-- section break -->
 
@@ -40,17 +40,17 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Milking The Stars
-{{< youtube id="RyADFdo6H3g" title="Milking The Stars" >}}<br>
+### Let The Circus Burn
+{{< youtube id="mggy7HHsbFU" title="Let The Circus Burn" >}}<br>
 
 ### More Videos
 
 - [MONSTER MAGNET - The Duke (Official Video) | Napalm Records](https://www.youtube.com/watch?v=2RCwgz4FiSA)
 - [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
 - [MONSTER MAGNET - Mindless Ones (Official) | Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
+- [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
 - [Last Patrol (Live)](https://www.youtube.com/watch?v=MOdftJvtYvw)
 - [End Of Time (B-3)](https://www.youtube.com/watch?v=V2mU6pDuuZE)
-- [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
 - [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
 - [Mindless Ones '68](https://www.youtube.com/watch?v=kiVjdn1o82k)
 - [Three Kingfishers (Live)](https://www.youtube.com/watch?v=6jEcMZ8XANc)

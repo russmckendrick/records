@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: []
 ---
 
-![Cheating The Polygraph by Gavin Harrison](cheating-the-polygraph-6905612.jpg)
+{{< img src="cheating-the-polygraph-6905612.jpg" title="Cheating The Polygraph by Gavin Harrison" >}}
 
 <!-- section break -->
 

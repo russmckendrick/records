@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![For The Music by Blackfield](for-the-music-16348308.jpg)
+{{< img src="for-the-music-16348308.jpg" title="For The Music by Blackfield" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: []
 
 
 ## Videos
-### Over & Over
-{{< youtube id="89kHkP9OJao" title="Over & Over" >}}<br>
+### Blackfield - For The Music (Official Music Video)
+{{< youtube id="1N8wIhCxMns" title="Blackfield - For The Music (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Blackfield - For The Music (Official Music Video)](https://www.youtube.com/watch?v=1N8wIhCxMns)
 - [Album Preview: Blackfield – For The Music](https://www.youtube.com/watch?v=9wp8HV8S0cE)
+- [Over & Over](https://www.youtube.com/watch?v=89kHkP9OJao)
 - [Falling](https://www.youtube.com/watch?v=SMaDJlCKv2k)
 - [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
 - [Blackfield - Summer's Gone (Official 4K Video)](https://www.youtube.com/watch?v=iPpsVVBUPHo)

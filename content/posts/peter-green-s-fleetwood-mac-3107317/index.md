@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-![Peter Green's Fleetwood Mac by Fleetwood Mac](peter-green-s-fleetwood-mac-3107317.jpg)
+{{< img src="peter-green-s-fleetwood-mac-3107317.jpg" title="Peter Green's Fleetwood Mac by Fleetwood Mac" >}}
 
 <!-- section break -->
 
@@ -40,12 +40,12 @@ styles: ["Blues Rock", "Pop Rock"]
 
 
 ## Videos
-### peter green's fleetwood mac - need your love so bad
-{{< youtube id="RtmW2ek7WkQ" title="peter green's fleetwood mac - need your love so bad" >}}<br>
+### Peter Green's Fleetwood Mac  1968  (Expanded Edition)
+{{< youtube id="mF9wRyQGv1k" title="Peter Green's Fleetwood Mac  1968  (Expanded Edition)" >}}<br>
 
 ### More Videos
 
-- [Peter Green's Fleetwood Mac  1968  (Expanded Edition)](https://www.youtube.com/watch?v=mF9wRyQGv1k)
+- [peter green's fleetwood mac - need your love so bad](https://www.youtube.com/watch?v=RtmW2ek7WkQ)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
 
-![Mindfucker by Monster Magnet](mindfucker-11746582.jpg)
+{{< img src="mindfucker-11746582.jpg" title="Mindfucker by Monster Magnet" >}}
 
 <!-- section break -->
 

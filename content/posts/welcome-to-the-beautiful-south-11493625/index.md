@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![Welcome To The Beautiful South by The Beautiful South](welcome-to-the-beautiful-south-11493625.jpg)
+{{< img src="welcome-to-the-beautiful-south-11493625.jpg" title="Welcome To The Beautiful South by The Beautiful South" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Song For Whoever
-{{< youtube id="Jiags4WMI6k" title="Song For Whoever" >}}<br>
+### The Beautiful South - I Love You (But You're Boring)
+{{< youtube id="LhXRAHepS7Q" title="The Beautiful South - I Love You (But You're Boring)" >}}<br>
 
 ### More Videos
 
@@ -50,11 +50,11 @@ styles: ["Pop Rock"]
 - [you keep it all in](https://www.youtube.com/watch?v=-rBcIa7dLMQ)
 - [Girlfriend](https://www.youtube.com/watch?v=im14_8uXhxM)
 - [Beautiful South - You Keep It All In - TOTP 1994](https://www.youtube.com/watch?v=vuEuLTkfAgU)
+- [Song For Whoever](https://www.youtube.com/watch?v=Jiags4WMI6k)
 - [The Beautiful South - Oh, Blackpool](https://www.youtube.com/watch?v=pWzWtqY1Ar4)
 - [The Beautiful South - Love Is](https://www.youtube.com/watch?v=atfQAIxY7w4)
 - [From Under The Covers](https://www.youtube.com/watch?v=zJAPvGHDHeI)
 - [Love Is...](https://www.youtube.com/watch?v=nzHU2pCUA0c)
-- [The Beautiful South - I Love You (But You're Boring)](https://www.youtube.com/watch?v=LhXRAHepS7Q)
 
 
 ## Release Information

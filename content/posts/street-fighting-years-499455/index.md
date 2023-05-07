@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Street Fighting Years by Simple Minds](street-fighting-years-499455.jpg)
+{{< img src="street-fighting-years-499455.jpg" title="Street Fighting Years by Simple Minds" >}}
 
 <!-- section break -->
 

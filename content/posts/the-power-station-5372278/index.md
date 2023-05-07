@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-![The Power Station by The Power Station](the-power-station-5372278.jpg)
+{{< img src="the-power-station-5372278.jpg" title="The Power Station by The Power Station" >}}
 
 <!-- section break -->
 
@@ -36,12 +36,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Power Station - Some Like It Hot
-{{< youtube id="Hw1t7OCESUw" title="The Power Station - Some Like It Hot" >}}<br>
+### Harvest for the World (2005 Remaster)
+{{< youtube id="08OhoybGUmw" title="Harvest for the World (2005 Remaster)" >}}<br>
 
 ### More Videos
 
-- [Harvest for the World (2005 Remaster)](https://www.youtube.com/watch?v=08OhoybGUmw)
+- [The Power Station - Some Like It Hot](https://www.youtube.com/watch?v=Hw1t7OCESUw)
 - [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
 - [The Power Station - Get It On (Bang A Gong)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 

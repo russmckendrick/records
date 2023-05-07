@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop", "Indie Rock"]
 ---
 
-![The Five Ghosts by Stars](the-five-ghosts-26126612.jpg)
+{{< img src="the-five-ghosts-26126612.jpg" title="The Five Ghosts by Stars" >}}
 
 <!-- section break -->
 
@@ -39,13 +39,13 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Videos
-### Stars - Dead Hearts [Official Video]
-{{< youtube id="OQT2HVfxJu4" title="Stars - Dead Hearts [Official Video]" >}}<br>
+### Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album
+{{< youtube id="TERbyLZDCqU" title="Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album" >}}<br>
 
 ### More Videos
 
-- [Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album](https://www.youtube.com/watch?v=TERbyLZDCqU)
 - [STARS - Fixed [Official Music Video]](https://www.youtube.com/watch?v=17jdZdVmEuk)
+- [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
 
 
 ## Release Information

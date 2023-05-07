@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
 
-![Slippery When Wet by Bon Jovi](slippery-when-wet-9307146.jpg)
+{{< img src="slippery-when-wet-9307146.jpg" title="Slippery When Wet by Bon Jovi" >}}
 
 <!-- section break -->
 

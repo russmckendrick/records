@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Dick Privilege by Vennart](dick-privilege-14729801.jpg)
+{{< img src="dick-privilege-14729801.jpg" title="Dick Privilege by Vennart" >}}
 
 <!-- section break -->
 

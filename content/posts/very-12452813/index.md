@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["House", "Synth-pop", "Dance-pop"]
 ---
 
-![Very by Pet Shop Boys](very-12452813.jpg)
+{{< img src="very-12452813.jpg" title="Very by Pet Shop Boys" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Your Wilderness by The Pineapple Thief](your-wilderness-8925684.jpg)
+{{< img src="your-wilderness-8925684.jpg" title="Your Wilderness by The Pineapple Thief" >}}
 
 <!-- section break -->
 

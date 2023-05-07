@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 ---
 
-![Us by Peter Gabriel](us-9471068.jpg)
+{{< img src="us-9471068.jpg" title="Us by Peter Gabriel" >}}
 
 <!-- section break -->
 

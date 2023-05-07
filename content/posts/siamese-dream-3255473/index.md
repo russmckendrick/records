@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Siamese Dream by The Smashing Pumpkins](siamese-dream-3255473.jpg)
+{{< img src="siamese-dream-3255473.jpg" title="Siamese Dream by The Smashing Pumpkins" >}}
 
 <!-- section break -->
 

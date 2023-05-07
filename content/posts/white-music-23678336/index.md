@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-![White Music by XTC](white-music-23678336.jpg)
+{{< img src="white-music-23678336.jpg" title="White Music by XTC" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Darkwave"]
 ---
 
-![Black Celebration by Depeche Mode](black-celebration-9180616.jpg)
+{{< img src="black-celebration-9180616.jpg" title="Black Celebration by Depeche Mode" >}}
 
 <!-- section break -->
 

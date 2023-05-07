@@ -14,7 +14,7 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Soul"]
 ---
 
-![Don't Give Up On Me by Solomon Burke](don-t-give-up-on-me-25336930.jpg)
+{{< img src="don-t-give-up-on-me-25336930.jpg" title="Don't Give Up On Me by Solomon Burke" >}}
 
 <!-- section break -->
 

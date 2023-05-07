@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 ---
 
-![Pleased To Meet You by James](pleased-to-meet-you-11277673.jpg)
+{{< img src="pleased-to-meet-you-11277673.jpg" title="Pleased To Meet You by James" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,14 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 
 
 ## Videos
-### James - Falling Down (Later with Jools Holland 2001)
-{{< youtube id="4qnc93RdAqQ" title="James - Falling Down (Later with Jools Holland 2001)" >}}<br>
+### James - Getting Away With It (Live) (TOTP 2001)
+{{< youtube id="F4upGHpRyXY" title="James - Getting Away With It (Live) (TOTP 2001)" >}}<br>
 
 ### More Videos
 
 - [James - Getting Away With It (All Messed Up)](https://www.youtube.com/watch?v=Io2Cl1u5gmU)
-- [James - Getting Away With It (Live) (TOTP 2001)](https://www.youtube.com/watch?v=F4upGHpRyXY)
 - [James - Space (with lyrics)](https://www.youtube.com/watch?v=_wqdCKr5T5k)
+- [James - Falling Down (Later with Jools Holland 2001)](https://www.youtube.com/watch?v=4qnc93RdAqQ)
 - [James - Falling Down (Live VH1 Will Wanted 2001) [RARE!!]](https://www.youtube.com/watch?v=wAtjCVcc3pk)
 
 

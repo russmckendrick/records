@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 ---
 
-![X by Queens Of The Stone Age](x-2984283.jpg)
+{{< img src="x-2984283.jpg" title="X by Queens Of The Stone Age" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 
 
 ## Videos
-### I Think I Lost My Headache
-{{< youtube id="MALlDpvo1dE" title="I Think I Lost My Headache" >}}<br>
+### Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)
+{{< youtube id="0l0nzPpvbFs" title="Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)](https://www.youtube.com/watch?v=bAXPUN2z2CE)
-- [Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)](https://www.youtube.com/watch?v=0l0nzPpvbFs)
+- [I Think I Lost My Headache](https://www.youtube.com/watch?v=MALlDpvo1dE)
 - [Queens Of The Stone Age - Monsters In The Parasol (Official Music Video)](https://www.youtube.com/watch?v=hnLwHOVXkWE)
 
 

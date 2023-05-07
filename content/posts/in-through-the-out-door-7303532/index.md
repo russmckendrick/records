@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 ---
 
-![In Through The Out Door by Led Zeppelin](in-through-the-out-door-7303532.jpg)
+{{< img src="in-through-the-out-door-7303532.jpg" title="In Through The Out Door by Led Zeppelin" >}}
 
 <!-- section break -->
 

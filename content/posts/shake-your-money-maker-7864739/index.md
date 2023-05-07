@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Hard Rock"]
 ---
 
-![Shake Your Money Maker by The Black Crowes](shake-your-money-maker-7864739.jpg)
+{{< img src="shake-your-money-maker-7864739.jpg" title="Shake Your Money Maker by The Black Crowes" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Rock & Roll", "Hard Rock"]
 
 
 ## Videos
-### Sister Luck
-{{< youtube id="2AkDHA-JKkY" title="Sister Luck" >}}<br>
+### Jealous Again
+{{< youtube id="p0J4hxqiiho" title="Jealous Again" >}}<br>
 
 ### More Videos
 
 - [The Black Crowes - Hard To Handle](https://www.youtube.com/watch?v=BRcs_OzQb14)
 - [The Black Crowes - She Talks To Angels (Official Video)](https://www.youtube.com/watch?v=H58gMiQQRm0)
 - [The Black Crowes - Twice As Hard](https://www.youtube.com/watch?v=XLg7aoGAkkk)
-- [Jealous Again](https://www.youtube.com/watch?v=p0J4hxqiiho)
+- [Sister Luck](https://www.youtube.com/watch?v=2AkDHA-JKkY)
 - [Thick N' Thin](https://www.youtube.com/watch?v=78ICN03p6vg)
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)

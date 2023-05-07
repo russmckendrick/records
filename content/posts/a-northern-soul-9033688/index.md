@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-![A Northern Soul by The Verve](a-northern-soul-9033688.jpg)
+{{< img src="a-northern-soul-9033688.jpg" title="A Northern Soul by The Verve" >}}
 
 <!-- section break -->
 
@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### 10 Life's an Ocean
-{{< youtube id="vSq2TiH7UyQ" title="10 Life's an Ocean" >}}<br>
+### The Verve - Drive You Home
+{{< youtube id="KdeirtG3bow" title="The Verve - Drive You Home" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 - [The Verve - So It Goes](https://www.youtube.com/watch?v=UeZv80G_VvU)
 - [The Verve - A Northern Soul](https://www.youtube.com/watch?v=XSQQbhu3YUc)
 - [The Verve - Brainstorm Interlude](https://www.youtube.com/watch?v=leXtT2ryHPM)
-- [The Verve - Drive You Home](https://www.youtube.com/watch?v=KdeirtG3bow)
 - [The Verve- No Knock On My Door](https://www.youtube.com/watch?v=qCsnRwGHBGk)
+- [10 Life's an Ocean](https://www.youtube.com/watch?v=vSq2TiH7UyQ)
 - [The Verve - Stormy Clouds (1995) HD w/lyrics](https://www.youtube.com/watch?v=ISt2zpysAmk)
 - [The Verve: A Northern Soul: Reprise](https://www.youtube.com/watch?v=Cv99r9pOSIs)
 

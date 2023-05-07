@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Thrash", "Nu Metal"]
 ---
 
-![Roots by Sepultura](roots-11088399.jpg)
+{{< img src="roots-11088399.jpg" title="Roots by Sepultura" >}}
 
 <!-- section break -->
 
@@ -56,8 +56,8 @@ styles: ["Thrash", "Nu Metal"]
 
 
 ## Videos
-### Sepultura – Ratamahatta
-{{< youtube id="5HPymRAcsmY" title="Sepultura – Ratamahatta" >}}<br>
+### Sepultura – Canyon Jam (Hidden Track)
+{{< youtube id="Jxi9Unr4Yvc" title="Sepultura – Canyon Jam (Hidden Track)" >}}<br>
 
 ### More Videos
 
@@ -67,6 +67,7 @@ styles: ["Thrash", "Nu Metal"]
 - [Sepultura - Attitude [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0TanJ9jf-p4)
 - [Sepultura – Roots](https://www.youtube.com/watch?v=myaY_WKIgOA)
 - [Sepultura – Attitude](https://www.youtube.com/watch?v=O8rRjUKjkIw)
+- [Sepultura – Ratamahatta](https://www.youtube.com/watch?v=5HPymRAcsmY)
 - [Sepultura – Cut-Throat](https://www.youtube.com/watch?v=D4e5ECoMoWc)
 - [Sepultura – Dusted](https://www.youtube.com/watch?v=IUNlmSQZaAI)
 - [Sepultura – Dictatorshit](https://www.youtube.com/watch?v=VNkyeiBbKhA)
@@ -81,7 +82,6 @@ styles: ["Thrash", "Nu Metal"]
 - [Sepultura – Born Stubborn](https://www.youtube.com/watch?v=HgZoUf97hDc)
 - [Sepultura – Symptom Of The Universe (Bonus Track)](https://www.youtube.com/watch?v=uKOBkGWFB_E)
 - [Sepultura – Ambush](https://www.youtube.com/watch?v=Zo0u29dJOaQ)
-- [Sepultura – Canyon Jam (Hidden Track)](https://www.youtube.com/watch?v=Jxi9Unr4Yvc)
 - [Sepultura – Endangered Species](https://www.youtube.com/watch?v=NOGfroS3GHs)
 
 

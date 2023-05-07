@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Contemporary Jazz", "Fusion"]
 ---
 
-![Empire Central by Snarky Puppy](empire-central-24798023.jpg)
+{{< img src="empire-central-24798023.jpg" title="Empire Central by Snarky Puppy" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Contemporary Jazz", "Fusion"]
 
 
 ## Videos
-### Fuel City
-{{< youtube id="M6Hy49RbXkY" title="Fuel City" >}}<br>
+### Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)
+{{< youtube id="ire-T-zfX6k" title="Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)" >}}<br>
 
 ### More Videos
 
@@ -55,6 +55,7 @@ styles: ["Contemporary Jazz", "Fusion"]
 - [Broken Arrow](https://www.youtube.com/watch?v=EHr-ttLW97Q)
 - [Honiara](https://www.youtube.com/watch?v=w02WOup3KBY)
 - [East Bay](https://www.youtube.com/watch?v=cOmBL2w-4uk)
+- [Fuel City](https://www.youtube.com/watch?v=M6Hy49RbXkY)
 - [Mean Green](https://www.youtube.com/watch?v=-Ko0u9wTE5g)
 - [Coney Bear](https://www.youtube.com/watch?v=1TQoY-w9_x4)
 - [Snarky Puppy - Trinity (Extended Version) (Empire Central)](https://www.youtube.com/watch?v=CSiLPkUopBg)
@@ -62,7 +63,6 @@ styles: ["Contemporary Jazz", "Fusion"]
 - [Snarky Puppy - Pineapple (Empire Central)](https://www.youtube.com/watch?v=RNTptTel610)
 - [Snarky Puppy - RL's (Empire Central)](https://www.youtube.com/watch?v=fyp0kcIYap0)
 - [Snarky Puppy - Belmont (Empire Central)](https://www.youtube.com/watch?v=dC3b3ul6dME)
-- [Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)](https://www.youtube.com/watch?v=ire-T-zfX6k)
 
 
 ## Release Information

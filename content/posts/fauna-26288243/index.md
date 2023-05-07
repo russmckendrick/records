@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-![Fauna by Haken](fauna-26288243.jpg)
+{{< img src="fauna-26288243.jpg" title="Fauna by Haken" >}}
 
 <!-- section break -->
 
@@ -34,14 +34,13 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Elephants Never Forget (Instrumental)
-{{< youtube id="ql3BHkTGk0w" title="Elephants Never Forget (Instrumental)" >}}<br>
+### Haken - The Alphabet of Me (Official Video)
+{{< youtube id="LQJ-e75ZSj8" title="Haken - The Alphabet of Me (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Haken - Taurus (Official Video)](https://www.youtube.com/watch?v=4FQBK4CFWbI)
 - [HAKEN - Nightingale (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=IeENKWcitCw)
-- [Haken - The Alphabet of Me (Official Video)](https://www.youtube.com/watch?v=LQJ-e75ZSj8)
 - [Sempiternal Beings](https://www.youtube.com/watch?v=CCxjJOB18xk)
 - [Beneath the White Rainbow](https://www.youtube.com/watch?v=QuJ6Ejdpo2A)
 - [Island in the Clouds](https://www.youtube.com/watch?v=-71LuuAw9tc)
@@ -55,6 +54,7 @@ styles: ["Progressive Metal"]
 - [Beneath the White Rainbow (Instrumental)](https://www.youtube.com/watch?v=PG-kGoe61pQ)
 - [Island in the Clouds (Instrumental)](https://www.youtube.com/watch?v=2AmhgjYltAk)
 - [Lovebite (Instrumental)](https://www.youtube.com/watch?v=umOv2PyZ9sc)
+- [Elephants Never Forget (Instrumental)](https://www.youtube.com/watch?v=ql3BHkTGk0w)
 - [Eyes Of Ebony (Instrumental)](https://www.youtube.com/watch?v=MqDJh-D6mkg)
 
 

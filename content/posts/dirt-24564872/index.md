@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Metal", "Grunge", "Hard Rock"]
 ---
 
-![Dirt by Alice In Chains](dirt-24564872.jpg)
+{{< img src="dirt-24564872.jpg" title="Dirt by Alice In Chains" >}}
 
 <!-- section break -->
 
@@ -41,15 +41,15 @@ styles: ["Alternative Metal", "Grunge", "Hard Rock"]
 
 
 ## Videos
-### Alice In Chains - Would? (Official HD Video)
-{{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}<br>
+### Dam That River
+{{< youtube id="UVFd4tpphvE" title="Dam That River" >}}<br>
 
 ### More Videos
 
 - [Alice In Chains - Rooster (Official HD Video)](https://www.youtube.com/watch?v=uAE6Il6OTcs)
 - [Alice In Chains - Them Bones (Official HD Video)](https://www.youtube.com/watch?v=zTuD8k3JvxQ)
 - [Alice In Chains - Angry Chair (Official HD Video)](https://www.youtube.com/watch?v=IpEXM1Yziws)
-- [Dam That River](https://www.youtube.com/watch?v=UVFd4tpphvE)
+- [Alice In Chains - Would? (Official HD Video)](https://www.youtube.com/watch?v=Nco_kh8xJDs)
 - [Rain When I Die](https://www.youtube.com/watch?v=v8uJoLJJP70)
 - [Alice In Chains - Down in a Hole (Official Video)](https://www.youtube.com/watch?v=f8hT3oDDf6c)
 - [Junkhead](https://www.youtube.com/watch?v=bjOG0meK-vk)

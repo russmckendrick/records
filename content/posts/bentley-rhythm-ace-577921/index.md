@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Big Beat"]
 ---
 
-![Bentley Rhythm Ace by Bentley Rhythm Ace](bentley-rhythm-ace-577921.jpg)
+{{< img src="bentley-rhythm-ace-577921.jpg" title="Bentley Rhythm Ace by Bentley Rhythm Ace" >}}
 
 <!-- section break -->
 
@@ -39,17 +39,17 @@ styles: ["Big Beat"]
 
 
 ## Videos
-### BENTLEY  RHYTHM  ACE - Mind That Gap
-{{< youtube id="LjBM3W1OPks" title="BENTLEY  RHYTHM  ACE - Mind That Gap" >}}<br>
+### Whoosh 1997 Bentley Rhythm Ace
+{{< youtube id="94u97Z6GkWo" title="Whoosh 1997 Bentley Rhythm Ace" >}}<br>
 
 ### More Videos
 
 - [Bentley Rhythym Ace - Bentley's Gonna Sort You Out](https://www.youtube.com/watch?v=3IWl77o3l50)
 - [Bentley Rhythm Ace - Midlander (There Can Only Be One...)](https://www.youtube.com/watch?v=H7hpYIM51QI)
 - [Bently Rhythm Ace -  Let There Be Flutes](https://www.youtube.com/watch?v=N7f62H-jLJU)
+- [BENTLEY  RHYTHM  ACE - Mind That Gap](https://www.youtube.com/watch?v=LjBM3W1OPks)
 - [BENTLEY  RHYTHM  ACE - Run On The Spot](https://www.youtube.com/watch?v=EjEAV0RWJxQ)
 - [Ragtopskodacarchase (Original) Bentley Rhythm Ace 1997](https://www.youtube.com/watch?v=_sRA2Rf99ZY)
-- [Whoosh 1997 Bentley Rhythm Ace](https://www.youtube.com/watch?v=94u97Z6GkWo)
 - [BENTLEY  RHYTHM  ACE - Who Put The Bom In Bom Bom Diddleye Bom](https://www.youtube.com/watch?v=c9KrikAnnEY)
 - [Spacehopper 1997 Bentley Rhythm Ace](https://www.youtube.com/watch?v=mpXVR7P4TyE)
 - [BENTLEY  RHYTHM  ACE - Return Of The Hardcore Jumble Carbootechnodisco Roadshow](https://www.youtube.com/watch?v=HfGDkeneGTo)

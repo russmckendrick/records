@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 ---
 
-![Octave by The Moody Blues](octave-1660021.jpg)
+{{< img src="octave-1660021.jpg" title="Octave by The Moody Blues" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### THE MOODY BLUES Octave 03 had to fall in love
-{{< youtube id="jxN_LCVHtdk" title="THE MOODY BLUES Octave 03 had to fall in love" >}}<br>
+### Steppin' In A Slide Zone | The Moody Blues | Octave | 1978 London Records LP
+{{< youtube id="IefRKigKiaQ" title="Steppin' In A Slide Zone | The Moody Blues | Octave | 1978 London Records LP" >}}<br>
 
 ### More Videos
 
@@ -50,11 +50,11 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 - [THE MOODY BLUES Octave 02 under moonshine](https://www.youtube.com/watch?v=hyzThAfm9D0)
 - [THE MOODY BLUES Octave 05 Driftwood](https://www.youtube.com/watch?v=uW4gwfRG4Q4)
 - [THE MOODY BLUES Octave 06 top Rank Suite](https://www.youtube.com/watch?v=U1dn7P6qIfQ)
-- [Steppin' In A Slide Zone | The Moody Blues | Octave | 1978 London Records LP](https://www.youtube.com/watch?v=IefRKigKiaQ)
 - [The Moody Blues - Steppin´a Slide Zone](https://www.youtube.com/watch?v=FLES11HG4GA)
 - [THE MOODY BLUES Octave 07 I´m your man](https://www.youtube.com/watch?v=P9LnALULXU0)
 - [THE MOODY BLUES Octave 04 I´ll be level with you](https://www.youtube.com/watch?v=OGJoyUbUdhI)
 - [Moody Blues - The Day We Meet Again](https://www.youtube.com/watch?v=Zs2Hwp8pmoQ)
+- [THE MOODY BLUES Octave 03 had to fall in love](https://www.youtube.com/watch?v=jxN_LCVHtdk)
 
 
 ## Release Information

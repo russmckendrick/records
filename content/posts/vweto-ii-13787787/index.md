@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
 
-![Vweto II by Georgia Anne Muldrow](vweto-ii-13787787.jpg)
+{{< img src="vweto-ii-13787787.jpg" title="Vweto II by Georgia Anne Muldrow" >}}
 
 <!-- section break -->
 
@@ -44,20 +44,20 @@ styles: ["Instrumental", "Funk"]
 
 
 ## Videos
-### Nate Dogg's Eulogy
-{{< youtube id="Y2vyP7IzVg4" title="Nate Dogg's Eulogy" >}}<br>
+### When the Fonk Radiates
+{{< youtube id="ocag27kZJ2Y" title="When the Fonk Radiates" >}}<br>
 
 ### More Videos
 
 - [Brokenfolks](https://www.youtube.com/watch?v=oJabLChQ8Bs)
 - [GEORGIA ANNE MULDROW - BIG MAMA AFRICA JAM](https://www.youtube.com/watch?v=jxbEScphfOs)
 - [Emo Blues](https://www.youtube.com/watch?v=1kcGwm9x9M4)
-- [When the Fonk Radiates](https://www.youtube.com/watch?v=ocag27kZJ2Y)
 - [Big Mama Africa Jam](https://www.youtube.com/watch?v=D2kwqYMnijg)
 - [CV Jam Number 2](https://www.youtube.com/watch?v=UgSQtQXz9wc)
 - [Old School Fonk](https://www.youtube.com/watch?v=2qMQw8e7-GE)
 - [Yoyo Ma Fonk](https://www.youtube.com/watch?v=O0t97d5BRlc)
 - [Das Funk](https://www.youtube.com/watch?v=qsagVuvu9OE)
+- [Nate Dogg's Eulogy](https://www.youtube.com/watch?v=Y2vyP7IzVg4)
 - [Gettin It](https://www.youtube.com/watch?v=OUjRgX7Q4lY)
 - [Bass Attack Bap](https://www.youtube.com/watch?v=YoN5w1fQLbU)
 - [Almost Trendy](https://www.youtube.com/watch?v=QbmvOuKK_Us)

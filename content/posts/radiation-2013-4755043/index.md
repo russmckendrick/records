@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ---
 
-![Radiation 2013 by Marillion](radiation-2013-4755043.jpg)
+{{< img src="radiation-2013-4755043.jpg" title="Radiation 2013 by Marillion" >}}
 
 <!-- section break -->
 

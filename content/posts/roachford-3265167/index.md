@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ---
 
-![Roachford by Roachford](roachford-3265167.jpg)
+{{< img src="roachford-3265167.jpg" title="Roachford by Roachford" >}}
 
 <!-- section break -->
 
@@ -38,13 +38,13 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 
 
 ## Videos
-### Find Me Another Love
-{{< youtube id="ujUbohXs4JE" title="Find Me Another Love" >}}<br>
+### Roachford Cuddly Toy Original Video
+{{< youtube id="gZvpVYm2kxI" title="Roachford Cuddly Toy Original Video" >}}<br>
 
 ### More Videos
 
-- [Roachford Cuddly Toy Original Video](https://www.youtube.com/watch?v=gZvpVYm2kxI)
 - [Roachford - Find Me Another Love](https://www.youtube.com/watch?v=yZQRlmsDZJ4)
+- [Find Me Another Love](https://www.youtube.com/watch?v=ujUbohXs4JE)
 - [Find Me Another Love (The 'Psycho Bump Beat ' Mix)](https://www.youtube.com/watch?v=RbGljByCxq0)
 - [Roachford - Cuddly Toy](https://www.youtube.com/watch?v=sbscx0S3jcY)
 

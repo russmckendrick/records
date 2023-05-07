@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-![Gold by Dr. Hook](gold-17603065.jpg)
+{{< img src="gold-17603065.jpg" title="Gold by Dr. Hook" >}}
 
 <!-- section break -->
 

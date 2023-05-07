@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-![The Delerium Years 1991-1993 by Porcupine Tree](the-delerium-years-1991-1993-9719328.jpg)
+{{< img src="the-delerium-years-1991-1993-9719328.jpg" title="The Delerium Years 1991-1993 by Porcupine Tree" >}}
 
 <!-- section break -->
 

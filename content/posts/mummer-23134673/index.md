@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![Mummer by XTC](mummer-23134673.jpg)
+{{< img src="mummer-23134673.jpg" title="Mummer by XTC" >}}
 
 <!-- section break -->
 
@@ -38,14 +38,14 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### XTC - Beating of Hearts
-{{< youtube id="MT4zz2b50kg" title="XTC - Beating of Hearts" >}}<br>
+### XTC - Love on a Farmboy's Wages
+{{< youtube id="4VSFU0jKVYs" title="XTC - Love on a Farmboy's Wages" >}}<br>
 
 ### More Videos
 
 - [XTC   In Loving Memory of a Name](https://www.youtube.com/watch?v=GTLVRD8S-3s)
+- [XTC - Beating of Hearts](https://www.youtube.com/watch?v=MT4zz2b50kg)
 - [XTC - Wonderland](https://www.youtube.com/watch?v=7DCtdVdvuE0)
-- [XTC - Love on a Farmboy's Wages](https://www.youtube.com/watch?v=4VSFU0jKVYs)
 - [XTC - Funk Pop A Roll](https://www.youtube.com/watch?v=JnvO6lrZSxo)
 - [XTC - Beating of Hearts](https://www.youtube.com/watch?v=-dXQBVvBtO8)
 

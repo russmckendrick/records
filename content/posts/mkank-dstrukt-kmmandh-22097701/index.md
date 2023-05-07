@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock"]
 styles: ["Avant-garde Jazz", "Prog Rock"]
 ---
 
-![Mëkanïk Dëstruktïẁ Kömmandöh by Magma](mkank-dstrukt-kmmandh-22097701.jpg)
+{{< img src="mkank-dstrukt-kmmandh-22097701.jpg" title="Mëkanïk Dëstruktïẁ Kömmandöh by Magma" >}}
 
 <!-- section break -->
 

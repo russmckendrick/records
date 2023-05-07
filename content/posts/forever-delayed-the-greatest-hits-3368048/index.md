@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-![Forever Delayed - The Greatest Hits by Manic Street Preachers](forever-delayed-the-greatest-hits-3368048.jpg)
+{{< img src="forever-delayed-the-greatest-hits-3368048.jpg" title="Forever Delayed - The Greatest Hits by Manic Street Preachers" >}}
 
 <!-- section break -->
 

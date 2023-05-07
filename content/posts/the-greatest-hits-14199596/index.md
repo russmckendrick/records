@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![The Greatest Hits by Thunder](the-greatest-hits-14199596.jpg)
+{{< img src="the-greatest-hits-14199596.jpg" title="The Greatest Hits by Thunder" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Alternative Rock"]
 ---
 
-![Loveless by My Bloody Valentine](loveless-18793696.jpg)
+{{< img src="loveless-18793696.jpg" title="Loveless by My Bloody Valentine" >}}
 
 <!-- section break -->
 

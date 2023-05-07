@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
 
-![Sound Of Silver by LCD Soundsystem](sound-of-silver-3921382.jpg)
+{{< img src="sound-of-silver-3921382.jpg" title="Sound Of Silver by LCD Soundsystem" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,12 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 
 
 ## Videos
-### Sound of Silver
-{{< youtube id="_kmTQj8x0N8" title="Sound of Silver" >}}<br>
+### Get Innocuous!
+{{< youtube id="0GpLkFv-CKU" title="Get Innocuous!" >}}<br>
 
 ### More Videos
 
 - [LCD Soundsystem - North American Scum (Official Video)](https://www.youtube.com/watch?v=gJ2np7R-Uwg)
-- [Get Innocuous!](https://www.youtube.com/watch?v=0GpLkFv-CKU)
 - [LCD Soundsystem - Get Innocuous (HD)](https://www.youtube.com/watch?v=Ve9Y-dl40sQ)
 - [Time to Get Away](https://www.youtube.com/watch?v=K1SKj0jV-6M)
 - [North American Scum](https://www.youtube.com/watch?v=bu0_YRgZrEQ)
@@ -51,6 +50,7 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 - [All My Friends](https://www.youtube.com/watch?v=vVEZNvqecdE)
 - [Us V Them](https://www.youtube.com/watch?v=JpIsA7OniXc)
 - [Watch the Tapes](https://www.youtube.com/watch?v=0OSulJRG3oQ)
+- [Sound of Silver](https://www.youtube.com/watch?v=_kmTQj8x0N8)
 - [New York, I Love You but You're Bringing Me Down](https://www.youtube.com/watch?v=c5kM3iwYVi0)
 
 

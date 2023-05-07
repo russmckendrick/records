@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Trompe Le Monde by Pixies](trompe-le-monde-20199340.jpg)
+{{< img src="trompe-le-monde-20199340.jpg" title="Trompe Le Monde by Pixies" >}}
 
 <!-- section break -->
 

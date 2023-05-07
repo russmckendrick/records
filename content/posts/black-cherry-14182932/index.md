@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
 
-![Black Cherry by Goldfrapp](black-cherry-14182932.jpg)
+{{< img src="black-cherry-14182932.jpg" title="Black Cherry by Goldfrapp" >}}
 
 <!-- section break -->
 
@@ -38,15 +38,15 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 
 
 ## Videos
-### Goldfrapp - Black Cherry (Lyric Video)
-{{< youtube id="vnN342N6NQw" title="Goldfrapp - Black Cherry (Lyric Video)" >}}<br>
+### Goldfrapp - Train
+{{< youtube id="PHnYe5Nj0F0" title="Goldfrapp - Train" >}}<br>
 
 ### More Videos
 
 - [Goldfrapp - Strict Machine (Official HD Video)](https://www.youtube.com/watch?v=YeawPUpTHJA)
-- [Goldfrapp - Train](https://www.youtube.com/watch?v=PHnYe5Nj0F0)
 - [Goldfrapp - Black Cherry Documentary](https://www.youtube.com/watch?v=Lgktgw8a69I)
 - [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
+- [Goldfrapp - Black Cherry (Lyric Video)](https://www.youtube.com/watch?v=vnN342N6NQw)
 
 
 ## Release Information

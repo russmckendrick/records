@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-![Who by The Who](who-14492295.jpg)
+{{< img src="who-14492295.jpg" title="Who by The Who" >}}
 
 <!-- section break -->
 

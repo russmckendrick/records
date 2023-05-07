@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 ---
 
-![Parade by Prince And The Revolution](parade-8955563.jpg)
+{{< img src="parade-8955563.jpg" title="Parade by Prince And The Revolution" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 
 
 ## Videos
-### Do U Lie?
-{{< youtube id="FRaxAVVuqLs" title="Do U Lie?" >}}<br>
+### Christopher Tracy's Parade
+{{< youtube id="U2QWdZ7m_3o" title="Christopher Tracy's Parade" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 - [Prince - Anotherloverholenyohead (Official Music Video)](https://www.youtube.com/watch?v=Zc99JK9gHDk)
 - [Prince - Mountains (Official Music Video)](https://www.youtube.com/watch?v=_WmPeLOLDnA)
 - [Sometimes It Snows in April](https://www.youtube.com/watch?v=ikZgBhSMSUM)
-- [Christopher Tracy's Parade](https://www.youtube.com/watch?v=U2QWdZ7m_3o)
+- [Do U Lie?](https://www.youtube.com/watch?v=FRaxAVVuqLs)
 
 
 ## Release Information

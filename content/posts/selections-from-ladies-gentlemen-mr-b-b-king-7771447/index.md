@@ -14,7 +14,7 @@ genres: ["Blues"]
 styles: []
 ---
 
-![Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King](selections-from-ladies-gentlemen-mr-b-b-king-7771447.jpg)
+{{< img src="selections-from-ladies-gentlemen-mr-b-b-king-7771447.jpg" title="Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King" >}}
 
 <!-- section break -->
 

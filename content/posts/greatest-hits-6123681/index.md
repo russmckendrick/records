@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
 
-![Greatest Hits by Fleetwood Mac](greatest-hits-6123681.jpg)
+{{< img src="greatest-hits-6123681.jpg" title="Greatest Hits by Fleetwood Mac" >}}
 
 <!-- section break -->
 

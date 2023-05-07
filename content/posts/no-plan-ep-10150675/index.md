@@ -14,7 +14,7 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Art Rock", "Jazz-Rock"]
 ---
 
-![No Plan EP by David Bowie](no-plan-ep-10150675.jpg)
+{{< img src="no-plan-ep-10150675.jpg" title="No Plan EP by David Bowie" >}}
 
 <!-- section break -->
 

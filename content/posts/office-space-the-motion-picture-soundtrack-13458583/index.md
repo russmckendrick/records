@@ -14,7 +14,7 @@ genres: ["Hip Hop", "Latin", "Stage & Screen"]
 styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
 
-![Office Space (The Motion Picture Soundtrack) by Various](office-space-the-motion-picture-soundtrack-13458583.jpg)
+{{< img src="office-space-the-motion-picture-soundtrack-13458583.jpg" title="Office Space (The Motion Picture Soundtrack) by Various" >}}
 
 <!-- section break -->
 
@@ -37,8 +37,8 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 
 
 ## Videos
-### Get Dis Money
-{{< youtube id="TumoVqPuPVw" title="Get Dis Money" >}}<br>
+### Damn It Feels Good To Be A Gangsta
+{{< youtube id="0PqRXVCGKIA" title="Damn It Feels Good To Be A Gangsta" >}}<br>
 
 ### More Videos
 
@@ -47,7 +47,6 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 - [Geto Boys - Still (Office Space soundtrack)](https://www.youtube.com/watch?v=lCOeIksA3Yo)
 - [No Tears](https://www.youtube.com/watch?v=9KWpIxdfNzY)
 - [Office Space Soundtrack - Shove This Jay Oh Bee (HQ)](https://www.youtube.com/watch?v=HyxoLqbFDkI)
-- [Damn It Feels Good To Be A Gangsta](https://www.youtube.com/watch?v=0PqRXVCGKIA)
 - [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
 - [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
 - [Shove This Jay-Oh-Bee](https://www.youtube.com/watch?v=axJVs-OseS8)
@@ -56,6 +55,7 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 - [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
 - [Home](https://www.youtube.com/watch?v=QKuJ-DJPUXs)
 - [Get Off My Elevator](https://www.youtube.com/watch?v=r-WMAkO7r3Q)
+- [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
 - [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
 
 

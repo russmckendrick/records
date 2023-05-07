@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ---
 
-![The Fragile Army by The Polyphonic Spree](the-fragile-army-1133398.jpg)
+{{< img src="the-fragile-army-1133398.jpg" title="The Fragile Army by The Polyphonic Spree" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-![Construction Time Again by Depeche Mode](construction-time-again-8953117.jpg)
+{{< img src="construction-time-again-8953117.jpg" title="Construction Time Again by Depeche Mode" >}}
 
 <!-- section break -->
 

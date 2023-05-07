@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-![Amused To Death by Roger Waters](amused-to-death-7272383.jpg)
+{{< img src="amused-to-death-7272383.jpg" title="Amused To Death by Roger Waters" >}}
 
 <!-- section break -->
 
@@ -42,8 +42,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Late Home Tonight, Pt. II
-{{< youtube id="isVAEXdKBS4" title="Late Home Tonight, Pt. II" >}}<br>
+### Late Home Tonight, Pt. I
+{{< youtube id="_QGNAm5cHTo" title="Late Home Tonight, Pt. I" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Perfect Sense, Pt. I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
 - [Perfect Sense, Pt. II](https://www.youtube.com/watch?v=eYG7INhXFjc)
 - [Roger Waters - The Bravery of Being Out of Range](https://www.youtube.com/watch?v=JamLmpVOgE0)
-- [Late Home Tonight, Pt. I](https://www.youtube.com/watch?v=_QGNAm5cHTo)
+- [Late Home Tonight, Pt. II](https://www.youtube.com/watch?v=isVAEXdKBS4)
 - [Too Much Rope](https://www.youtube.com/watch?v=Vz65-1wXoLY)
 - [What God Wants, Pt. II](https://www.youtube.com/watch?v=e4TMbtgmrH0)
 - [What God Wants, Pt. III](https://www.youtube.com/watch?v=OccmcfZ9ZnY)

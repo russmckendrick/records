@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![The Life Of The Honeybee & Other Moments Of Clarity by Abel Ganz](the-life-of-the-honeybee-other-moments-of-clarity-15659971.jpg)
+{{< img src="the-life-of-the-honeybee-other-moments-of-clarity-15659971.jpg" title="The Life Of The Honeybee & Other Moments Of Clarity by Abel Ganz" >}}
 
 <!-- section break -->
 
@@ -31,12 +31,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Abel Ganz : One Small Soul
-{{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}<br>
+### Abel Ganz : Arran Shores
+{{< youtube id="nnidk9i8vBQ" title="Abel Ganz : Arran Shores" >}}<br>
 
 ### More Videos
 
-- [Abel Ganz : Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
+- [Abel Ganz : One Small Soul](https://www.youtube.com/watch?v=81h_ZOnPxrY)
 
 
 ## Release Information

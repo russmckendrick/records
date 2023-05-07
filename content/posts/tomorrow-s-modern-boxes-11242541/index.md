@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Tomorrow's Modern Boxes by Thom Yorke](tomorrow-s-modern-boxes-11242541.jpg)
+{{< img src="tomorrow-s-modern-boxes-11242541.jpg" title="Tomorrow's Modern Boxes by Thom Yorke" >}}
 
 <!-- section break -->
 

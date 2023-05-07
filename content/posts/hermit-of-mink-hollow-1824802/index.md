@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 ---
 
-![Hermit Of Mink Hollow by Todd Rundgren](hermit-of-mink-hollow-1824802.jpg)
+{{< img src="hermit-of-mink-hollow-1824802.jpg" title="Hermit Of Mink Hollow by Todd Rundgren" >}}
 
 <!-- section break -->
 

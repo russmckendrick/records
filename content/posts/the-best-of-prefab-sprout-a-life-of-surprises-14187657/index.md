@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-![The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout](the-best-of-prefab-sprout-a-life-of-surprises-14187657.jpg)
+{{< img src="the-best-of-prefab-sprout-a-life-of-surprises-14187657.jpg" title="The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout" >}}
 
 <!-- section break -->
 
@@ -44,8 +44,8 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Faron Young (Remastered)
-{{< youtube id="SPWF1ncqhzI" title="Faron Young (Remastered)" >}}<br>
+### All the World Loves Lovers
+{{< youtube id="5xHPENAHZJU" title="All the World Loves Lovers" >}}<br>
 
 ### More Videos
 
@@ -59,7 +59,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [The King of Rock 'N' Roll](https://www.youtube.com/watch?v=IHDHB6qqp9o)
 - [Cruel](https://www.youtube.com/watch?v=DKHZfytXIAw)
 - [If You Don't Love Me](https://www.youtube.com/watch?v=0Xscw0V7ZLU)
-- [All the World Loves Lovers](https://www.youtube.com/watch?v=5xHPENAHZJU)
+- [Faron Young (Remastered)](https://www.youtube.com/watch?v=SPWF1ncqhzI)
 - [Prefab Sprout Wild Horses](https://www.youtube.com/watch?v=Zv_jxrAMThI)
 - [Prefab Sprout - The Sound Of Crying](https://www.youtube.com/watch?v=6we_GK0ZWa8)
 

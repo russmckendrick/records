@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![OK Computer by Radiohead](ok-computer-3339642.jpg)
+{{< img src="ok-computer-3339642.jpg" title="OK Computer by Radiohead" >}}
 
 <!-- section break -->
 

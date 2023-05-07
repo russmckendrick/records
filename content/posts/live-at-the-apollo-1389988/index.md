@@ -14,7 +14,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul"]
 ---
 
-![Live At The Apollo by Daryl Hall & John Oates](live-at-the-apollo-1389988.jpg)
+{{< img src="live-at-the-apollo-1389988.jpg" title="Live At The Apollo by Daryl Hall & John Oates" >}}
 
 <!-- section break -->
 

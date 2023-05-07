@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![First Two Pages Of Frankenstein by The National](first-two-pages-of-frankenstein-26832221.jpg)
+{{< img src="first-two-pages-of-frankenstein-26832221.jpg" title="First Two Pages Of Frankenstein by The National" >}}
 
 <!-- section break -->
 
@@ -39,14 +39,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)
-{{< youtube id="KrCTNeuvmqA" title="The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)" >}}<br>
+### The National - New Order T-Shirt (Official Visualizer)
+{{< youtube id="QEMabLFhD38" title="The National - New Order T-Shirt (Official Visualizer)" >}}<br>
 
 ### More Videos
 
 - [The National - Eucalyptus (Official Video)](https://www.youtube.com/watch?v=MSywJt3VlUM)
-- [The National - New Order T-Shirt (Official Visualizer)](https://www.youtube.com/watch?v=QEMabLFhD38)
 - [The National - Tropic Morning News (Lyric Video)](https://www.youtube.com/watch?v=zdU0qwZKLfU)
+- [The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)](https://www.youtube.com/watch?v=KrCTNeuvmqA)
 
 
 ## Release Information

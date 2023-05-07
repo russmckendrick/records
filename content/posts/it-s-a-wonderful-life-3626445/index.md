@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
 
-![It's A Wonderful Life by Sparklehorse](it-s-a-wonderful-life-3626445.jpg)
+{{< img src="it-s-a-wonderful-life-3626445.jpg" title="It's A Wonderful Life by Sparklehorse" >}}
 
 <!-- section break -->
 
@@ -40,13 +40,13 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 
 ## Videos
-### Sparklehorse feat. Nina Persson - Gold Day (Official Video)
-{{< youtube id="OrFrcF6xd4I" title="Sparklehorse feat. Nina Persson - Gold Day (Official Video)" >}}<br>
+### Sparklehorse - Comfort Me (Official Video)
+{{< youtube id="7JviEK52rl8" title="Sparklehorse - Comfort Me (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Sparklehorse - It's a wonderful life](https://www.youtube.com/watch?v=AGZsQf6WjHI)
-- [Sparklehorse - Comfort Me (Official Video)](https://www.youtube.com/watch?v=7JviEK52rl8)
+- [Sparklehorse feat. Nina Persson - Gold Day (Official Video)](https://www.youtube.com/watch?v=OrFrcF6xd4I)
 
 
 ## Release Information

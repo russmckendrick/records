@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-![Time's Up by Living Colour](time-s-up-313923.jpg)
+{{< img src="time-s-up-313923.jpg" title="Time's Up by Living Colour" >}}
 
 <!-- section break -->
 
@@ -43,18 +43,18 @@ styles: ["Funk Metal"]
 
 
 ## Videos
-### Information Overload
-{{< youtube id="CoZlttsXcn0" title="Information Overload" >}}<br>
+### Living Colour - Time's Up (Official Video)
+{{< youtube id="0YAA7nivQng" title="Living Colour - Time's Up (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Living Colour - Solace of You](https://www.youtube.com/watch?v=vIUke0CCvDs)
 - [Living Colour - Love Rears Its Ugly Head (Official Video)](https://www.youtube.com/watch?v=MQcPB1WkISI)
 - [Living Colour - Elvis Is Dead](https://www.youtube.com/watch?v=8nvpRkn_R5g)
-- [Living Colour - Time's Up (Official Video)](https://www.youtube.com/watch?v=0YAA7nivQng)
 - [History Lesson](https://www.youtube.com/watch?v=mbPUQMez-UQ)
 - [Someone Like You](https://www.youtube.com/watch?v=G5tGZFon4kQ)
 - [Type](https://www.youtube.com/watch?v=1-OGHe7EQ9I)
+- [Information Overload](https://www.youtube.com/watch?v=CoZlttsXcn0)
 - [Under Cover of Darkness](https://www.youtube.com/watch?v=fueAMsAUUbk)
 - [Tag Team Partners](https://www.youtube.com/watch?v=o3DlvVupc_U)
 

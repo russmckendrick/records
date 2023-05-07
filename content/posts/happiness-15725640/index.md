@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["House", "Synth-pop", "Downtempo"]
 ---
 
-![Happiness by The Beloved](happiness-15725640.jpg)
+{{< img src="happiness-15725640.jpg" title="Happiness by The Beloved" >}}
 
 <!-- section break -->
 
@@ -38,8 +38,8 @@ styles: ["House", "Synth-pop", "Downtempo"]
 
 
 ## Videos
-### Up, Up And Away (Remastered)
-{{< youtube id="DWOYUz07XvI" title="Up, Up And Away (Remastered)" >}}<br>
+### Found
+{{< youtube id="_tgz2omaRek" title="Found" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["House", "Synth-pop", "Downtempo"]
 - [The Sun Rising (Remastered)](https://www.youtube.com/watch?v=i6b3JTGDsWI)
 - [I Love You More (Remastered)](https://www.youtube.com/watch?v=fD15Oegd4GI)
 - [Wake Up Soon (Remastered)](https://www.youtube.com/watch?v=zxANQIEGRXc)
-- [Found](https://www.youtube.com/watch?v=_tgz2omaRek)
+- [Up, Up And Away (Remastered)](https://www.youtube.com/watch?v=DWOYUz07XvI)
 - [I Love You More (Demo)](https://www.youtube.com/watch?v=_HgaSc2BEOY)
 - [Jackie (Won’t You Please Come Home?)](https://www.youtube.com/watch?v=hjbtMzoLu_4)
 - [Your Love Takes Me Higher (Demo)](https://www.youtube.com/watch?v=54N8uSIHzf0)

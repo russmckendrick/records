@@ -14,7 +14,7 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-![The Nashville Sound  by Jason Isbell And The 400 Unit](the-nashville-sound-10424624.jpg)
+{{< img src="the-nashville-sound-10424624.jpg" title="The Nashville Sound  by Jason Isbell And The 400 Unit" >}}
 
 <!-- section break -->
 

@@ -14,7 +14,7 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-![Techno Pop by Kraftwerk](techno-pop-2059617.jpg)
+{{< img src="techno-pop-2059617.jpg" title="Techno Pop by Kraftwerk" >}}
 
 <!-- section break -->
 

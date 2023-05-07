@@ -14,7 +14,7 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Rhythm & Blues"]
 ---
 
-![Made In America by The Blues Brothers](made-in-america-2767076.jpg)
+{{< img src="made-in-america-2767076.jpg" title="Made In America by The Blues Brothers" >}}
 
 <!-- section break -->
 

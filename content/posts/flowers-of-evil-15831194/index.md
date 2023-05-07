@@ -14,7 +14,7 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-![ Flowers Of Evil by Ulver](flowers-of-evil-15831194.jpg)
+{{< img src="flowers-of-evil-15831194.jpg" title=" Flowers Of Evil by Ulver" >}}
 
 <!-- section break -->
 

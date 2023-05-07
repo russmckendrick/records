@@ -14,7 +14,7 @@ genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Gospel", "Disco"]
 ---
 
-![The Wonder Of Stevie (Volume 3) by DJ Spinna](the-wonder-of-stevie-volume-3-8755651.jpg)
+{{< img src="the-wonder-of-stevie-volume-3-8755651.jpg" title="The Wonder Of Stevie (Volume 3) by DJ Spinna" >}}
 
 <!-- section break -->
 
@@ -41,14 +41,15 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 
 
 ## Videos
-### Have a Talk with God
-{{< youtube id="6nWImSfuoYQ" title="Have a Talk with God" >}}<br>
+### Don't You Worry About a Thing
+{{< youtube id="PpBBIwJTRU0" title="Don't You Worry About a Thing" >}}<br>
 
 ### More Videos
 
 - [Keep On Running](https://www.youtube.com/watch?v=4qPfGgjCLns)
 - [Buttercup](https://www.youtube.com/watch?v=-adgKAoLRL4)
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
+- [Have a Talk with God](https://www.youtube.com/watch?v=6nWImSfuoYQ)
 - [Just A Little Piece Of You](https://www.youtube.com/watch?v=EK3C8a8NUPY)
 - [If She Breaks Your Heart](https://www.youtube.com/watch?v=cd1enmm-gDw)
 - [05 Sunlightsquare - Pastime Paradise [Sunlightsquare Records]](https://www.youtube.com/watch?v=eLlddfdAHvk)
@@ -62,7 +63,6 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 - [Quincy Jones feat. Patti Austin - Betcha' Wouldn't Hurt Me](https://www.youtube.com/watch?v=iNkHNqr6VYM)
 - [If You Don't Love Me](https://www.youtube.com/watch?v=VyYTPokWkHY)
 - [Go Home](https://www.youtube.com/watch?v=cVc-1zwqtbk)
-- [Don't You Worry About a Thing](https://www.youtube.com/watch?v=PpBBIwJTRU0)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-![Don't Prey For Me by Little Angels](don-t-prey-for-me-2591341.jpg)
+{{< img src="don-t-prey-for-me-2591341.jpg" title="Don't Prey For Me by Little Angels" >}}
 
 <!-- section break -->
 
@@ -37,13 +37,13 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Little Angels - Don't prey for me.
-{{< youtube id="Az-ayGM81Yo" title="Little Angels - Don't prey for me." >}}<br>
+### Little Angels - Don´t pray for me
+{{< youtube id="H5Mx2UZ2UaA" title="Little Angels - Don´t pray for me" >}}<br>
 
 ### More Videos
 
 - [Little Angels - Don't Prey For Me (Full Album)](https://www.youtube.com/watch?v=wW4ex-Id_nA)
-- [Little Angels - Don´t pray for me](https://www.youtube.com/watch?v=H5Mx2UZ2UaA)
+- [Little Angels - Don't prey for me.](https://www.youtube.com/watch?v=Az-ayGM81Yo)
 
 
 ## Release Information

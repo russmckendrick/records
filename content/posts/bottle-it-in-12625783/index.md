@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-![Bottle It In by Kurt Vile](bottle-it-in-12625783.jpg)
+{{< img src="bottle-it-in-12625783.jpg" title="Bottle It In by Kurt Vile" >}}
 
 <!-- section break -->
 
@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Kurt Vile - Bassackwards
-{{< youtube id="pOFWHty4XFQ" title="Kurt Vile - Bassackwards" >}}<br>
+### Kurt Vile - One Trick Ponies
+{{< youtube id="W7OmWKy6_8E" title="Kurt Vile - One Trick Ponies" >}}<br>
 
 ### More Videos
 
-- [Kurt Vile - One Trick Ponies](https://www.youtube.com/watch?v=W7OmWKy6_8E)
+- [Kurt Vile - Bassackwards](https://www.youtube.com/watch?v=pOFWHty4XFQ)
 
 
 ## Release Information

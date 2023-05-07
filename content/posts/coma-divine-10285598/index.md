@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Coma Divine by Porcupine Tree](coma-divine-10285598.jpg)
+{{< img src="coma-divine-10285598.jpg" title="Coma Divine by Porcupine Tree" >}}
 
 <!-- section break -->
 

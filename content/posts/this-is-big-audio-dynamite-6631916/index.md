@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Electro", "Synth-pop"]
 ---
 
-![This Is Big Audio Dynamite by Big Audio Dynamite](this-is-big-audio-dynamite-6631916.jpg)
+{{< img src="this-is-big-audio-dynamite-6631916.jpg" title="This Is Big Audio Dynamite by Big Audio Dynamite" >}}
 
 <!-- section break -->
 

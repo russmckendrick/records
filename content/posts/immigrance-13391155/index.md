@@ -14,7 +14,7 @@ genres: ["Jazz"]
 styles: ["Fusion"]
 ---
 
-![Immigrance by Snarky Puppy](immigrance-13391155.jpg)
+{{< img src="immigrance-13391155.jpg" title="Immigrance by Snarky Puppy" >}}
 
 <!-- section break -->
 
@@ -36,13 +36,12 @@ styles: ["Fusion"]
 
 
 ## Videos
-### Snarky Puppy, LIVE FULL SET, Avondale Brewing, Birmingham, 9-21-19
-{{< youtube id="lTNibgY1OSY" title="Snarky Puppy, LIVE FULL SET, Avondale Brewing, Birmingham, 9-21-19" >}}<br>
+### Coven
+{{< youtube id="dKiUclnIxcs" title="Coven" >}}<br>
 
 ### More Videos
 
 - [Chonks](https://www.youtube.com/watch?v=tmeJsETS-Yk)
-- [Coven](https://www.youtube.com/watch?v=dKiUclnIxcs)
 - [Even Us](https://www.youtube.com/watch?v=Pn66pDO91vQ)
 - [Bling Bling](https://www.youtube.com/watch?v=4MdhSuMo7vw)
 - [Bigly Strictness](https://www.youtube.com/watch?v=-iTHiniZksU)
@@ -50,6 +49,7 @@ styles: ["Fusion"]
 - [Snarky Puppy - Xavi (Official Audio)](https://www.youtube.com/watch?v=LxbWlDyjP9s)
 - [Snarky Puppy - Bad Kids To The Back](https://www.youtube.com/watch?v=2J-IXWienCw)
 - [Are You In: Immigrance Album Review (Snarky Puppy)](https://www.youtube.com/watch?v=7j1l2DHuRtg)
+- [Snarky Puppy, LIVE FULL SET, Avondale Brewing, Birmingham, 9-21-19](https://www.youtube.com/watch?v=lTNibgY1OSY)
 
 
 ## Release Information

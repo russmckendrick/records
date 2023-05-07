@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-![ Here Comes A Man From The Council With A Flamethrower by A Formal Horse](here-comes-a-man-from-the-council-with-a-flamethrower-14849783.jpg)
+{{< img src="here-comes-a-man-from-the-council-with-a-flamethrower-14849783.jpg" title=" Here Comes A Man From The Council With A Flamethrower by A Formal Horse" >}}
 
 <!-- section break -->
 
@@ -44,17 +44,17 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Magazine Zooey Deschanel
-{{< youtube id="ftjAexbR2p8" title="Magazine Zooey Deschanel" >}}<br>
+### Here Comes a Man from the Council With a Flamethrower
+{{< youtube id="LdWKULgyC2I" title="Here Comes a Man from the Council With a Flamethrower" >}}<br>
 
 ### More Videos
 
+- [Magazine Zooey Deschanel](https://www.youtube.com/watch?v=ftjAexbR2p8)
 - [Commons](https://www.youtube.com/watch?v=AXcwWhRVprw)
 - [Last Track on Side Fun](https://www.youtube.com/watch?v=xYV9TkBML_I)
 - [Lonely Doe Young Doe](https://www.youtube.com/watch?v=yg-M0hI6cXY)
 - [Bird](https://www.youtube.com/watch?v=kJydOXYAGB0)
 - [Bee](https://www.youtube.com/watch?v=vNAS4q54L0A)
-- [Here Comes a Man from the Council With a Flamethrower](https://www.youtube.com/watch?v=LdWKULgyC2I)
 
 
 ## Release Information

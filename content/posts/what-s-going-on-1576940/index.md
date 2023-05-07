@@ -14,7 +14,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-![What's Going On by Marvin Gaye](what-s-going-on-1576940.jpg)
+{{< img src="what-s-going-on-1576940.jpg" title="What's Going On by Marvin Gaye" >}}
 
 <!-- section break -->
 

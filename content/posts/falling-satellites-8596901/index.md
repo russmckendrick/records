@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
 
-![Falling Satellites by Frost*](falling-satellites-8596901.jpg)
+{{< img src="falling-satellites-8596901.jpg" title="Falling Satellites by Frost*" >}}
 
 <!-- section break -->
 
@@ -56,13 +56,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Raging Against The Dying of the Light Blues in 7/8
-{{< youtube id="89I01Wd5a1Q" title="The Raging Against The Dying of the Light Blues in 7/8" >}}<br>
+### Frost* - Lights Out (Progressive Rock)
+{{< youtube id="biEvNFPTpcw" title="Frost* - Lights Out (Progressive Rock)" >}}<br>
 
 ### More Videos
 
 - [FROST* - Numbers (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=exnCIi-MLkc)
-- [Frost* - Lights Out (Progressive Rock)](https://www.youtube.com/watch?v=biEvNFPTpcw)
+- [The Raging Against The Dying of the Light Blues in 7/8](https://www.youtube.com/watch?v=89I01Wd5a1Q)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Alternative Rock", "Goth Rock"]
 ---
 
-![All About Eve by All About Eve](all-about-eve-7972344.jpg)
+{{< img src="all-about-eve-7972344.jpg" title="All About Eve by All About Eve" >}}
 
 <!-- section break -->
 

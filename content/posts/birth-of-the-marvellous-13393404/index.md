@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-![Birth Of The Marvellous by Sermon](birth-of-the-marvellous-13393404.jpg)
+{{< img src="birth-of-the-marvellous-13393404.jpg" title="Birth Of The Marvellous by Sermon" >}}
 
 <!-- section break -->
 

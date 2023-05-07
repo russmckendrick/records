@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-![The Tipping Point by Tears For Fears](the-tipping-point-22266628.jpg)
+{{< img src="the-tipping-point-22266628.jpg" title="The Tipping Point by Tears For Fears" >}}
 
 <!-- section break -->
 

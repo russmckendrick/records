@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-![Banefyre by Crippled Black Phoenix](banefyre-24411629.jpg)
+{{< img src="banefyre-24411629.jpg" title="Banefyre by Crippled Black Phoenix" >}}
 
 <!-- section break -->
 
@@ -42,13 +42,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### CRIPPLED BLACK PHOENIX - Bonefire (official audio) 2022
-{{< youtube id="FLvkB67NVTc" title="CRIPPLED BLACK PHOENIX - Bonefire (official audio) 2022" >}}<br>
+### CRIPPLED BLACK PHOENIX - Blackout77 (official video) 2022
+{{< youtube id="_yl7QIvD6n4" title="CRIPPLED BLACK PHOENIX - Blackout77 (official video) 2022" >}}<br>
 
 ### More Videos
 
 - [CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us (official video) 2022](https://www.youtube.com/watch?v=07XHKXhfah0)
-- [CRIPPLED BLACK PHOENIX - Blackout77 (official video) 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
+- [CRIPPLED BLACK PHOENIX - Bonefire (official audio) 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
 
 
 ## Release Information

@@ -14,7 +14,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock"]
 ---
 
-![Dear Science by TV On The Radio](dear-science-4688708.jpg)
+{{< img src="dear-science-4688708.jpg" title="Dear Science by TV On The Radio" >}}
 
 <!-- section break -->
 

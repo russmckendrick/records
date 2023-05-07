@@ -14,7 +14,7 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-![Earth To Dora (She Belongs With The Gentle Souls) by Eels](earth-to-dora-she-belongs-with-the-gentle-souls-16136698.jpg)
+{{< img src="earth-to-dora-she-belongs-with-the-gentle-souls-16136698.jpg" title="Earth To Dora (She Belongs With The Gentle Souls) by Eels" >}}
 
 <!-- section break -->
 
@@ -37,15 +37,15 @@ styles: []
 
 
 ## Videos
-### EELS - Baby Let’s Make It Real - official lyric video
-{{< youtube id="VXuBaaxH_7U" title="EELS - Baby Let’s Make It Real - official lyric video" >}}<br>
+### EELS - Are We Alright Again - official video
+{{< youtube id="ERdHNn1tggA" title="EELS - Are We Alright Again - official video" >}}<br>
 
 ### More Videos
 
 - [EELS - Anything For Boo - official lyric video](https://www.youtube.com/watch?v=tfsby3Rh8r0)
 - [EELS - Are We Alright Again  - official audio](https://www.youtube.com/watch?v=xGjAA8Q9VG8)
 - [EELS - Who You Say You Are - official lyric video](https://www.youtube.com/watch?v=UmUSivxidEw)
-- [EELS - Are We Alright Again - official video](https://www.youtube.com/watch?v=ERdHNn1tggA)
+- [EELS - Baby Let’s Make It Real - official lyric video](https://www.youtube.com/watch?v=VXuBaaxH_7U)
 
 
 ## Release Information

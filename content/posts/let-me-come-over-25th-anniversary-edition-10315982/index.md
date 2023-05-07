@@ -14,7 +14,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-![Let Me Come Over (25th Anniversary Edition) by Buffalo Tom](let-me-come-over-25th-anniversary-edition-10315982.jpg)
+{{< img src="let-me-come-over-25th-anniversary-edition-10315982.jpg" title="Let Me Come Over (25th Anniversary Edition) by Buffalo Tom" >}}
 
 <!-- section break -->
 
@@ -52,16 +52,16 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Buffalo Tom - Frozen Lake (1992)
-{{< youtube id="watFbEYyFAw" title="Buffalo Tom - Frozen Lake (1992)" >}}<br>
+### Buffalo Tom - Velvet Roof
+{{< youtube id="P1LFwWyXs2I" title="Buffalo Tom - Velvet Roof" >}}<br>
 
 ### More Videos
 
 - [Stymied](https://www.youtube.com/watch?v=GZAiJhZgmdo)
 - [Buffalo Tom - Taillights Fade (Acoustic MTV 120 Minutes)](https://www.youtube.com/watch?v=CI79ViVzGwg)
 - [Buffalo Tom - Taillights Fade](https://www.youtube.com/watch?v=sEjmJ1Ge00U)
-- [Buffalo Tom - Velvet Roof](https://www.youtube.com/watch?v=P1LFwWyXs2I)
 - [Buffalo Tom - Darl (1992)](https://www.youtube.com/watch?v=ou170-VJzQY)
+- [Buffalo Tom - Frozen Lake (1992)](https://www.youtube.com/watch?v=watFbEYyFAw)
 - [Buffalo Tom - Larry](https://www.youtube.com/watch?v=OJ09IPoF3os)
 - [Buffalo Tom - Crutch (Album Version)](https://www.youtube.com/watch?v=xbvrADHK9BM)
 
