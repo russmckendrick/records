@@ -39,18 +39,18 @@ styles: ["Soundtrack", "Score", "Ambient"]
 
 
 ## Videos
-### Night Life in Twin Peaks (Instrumental)
-{{< youtube id="xgQ418SHXXg" title="Night Life in Twin Peaks (Instrumental)" >}}<br>
+### Twin Peaks Theme
+{{< youtube id="nCn3LYqCnrk" title="Twin Peaks Theme" >}}<br>
 
 ### More Videos
 
-- [Twin Peaks Theme](https://www.youtube.com/watch?v=nCn3LYqCnrk)
 - [Laura Palmer's Theme (Instrumental)](https://www.youtube.com/watch?v=woUt7wPe8Ow)
 - [Audrey's Dance (Instrumental)](https://www.youtube.com/watch?v=3uJh6Famdgo)
 - [The Nightingale](https://www.youtube.com/watch?v=BzImHGz4R0M)
 - [Freshly Squeezed (Instrumental)](https://www.youtube.com/watch?v=bc-Prdyp9LY)
 - [The Bookhouse Boys (Instrumental)](https://www.youtube.com/watch?v=rQrVeoiebWs)
 - [Into the Night](https://www.youtube.com/watch?v=euq0sKwbDTg)
+- [Night Life in Twin Peaks (Instrumental)](https://www.youtube.com/watch?v=xgQ418SHXXg)
 - [Dance of the Dream Man (Instrumental)](https://www.youtube.com/watch?v=kBn_lQBh9JA)
 - [Love Theme from Twin Peaks (Instrumental)](https://www.youtube.com/watch?v=JwHwyejd-vk)
 - [Falling](https://www.youtube.com/watch?v=KkR6Jd0Agi4)

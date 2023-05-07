@@ -38,13 +38,13 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 
 
 ## Videos
-### Rhymes Of Goodbye
-{{< youtube id="jI1-_LqC8Ok" title="Rhymes Of Goodbye" >}}<br>
+### Scott Walker - Boy Child
+{{< youtube id="THPVTsenZxs" title="Scott Walker - Boy Child" >}}<br>
 
 ### More Videos
 
-- [Scott Walker - Boy Child](https://www.youtube.com/watch?v=THPVTsenZxs)
 - [Scott Walker - Angels Of Ashes](https://www.youtube.com/watch?v=HYHp-w-1PJY)
+- [Rhymes Of Goodbye](https://www.youtube.com/watch?v=jI1-_LqC8Ok)
 - [Get Behind Me](https://www.youtube.com/watch?v=2Vr22rvFB-g)
 - [Duchess](https://www.youtube.com/watch?v=M7gMlpABItE)
 - [Scott Walker - The Seventh Seal](https://www.youtube.com/watch?v=jMUk1R_fKEA)

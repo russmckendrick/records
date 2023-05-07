@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 
 
 ## Videos
-### Hardly Wait
-{{< youtube id="JmSfWo5pwpo" title="Hardly Wait" >}}<br>
+### Rid Of Me (4-Track Demo Version)
+{{< youtube id="ZrRkrD8edhE" title="Rid Of Me (4-Track Demo Version)" >}}<br>
 
 ### More Videos
 
-- [Rid Of Me (4-Track Demo Version)](https://www.youtube.com/watch?v=ZrRkrD8edhE)
+- [Hardly Wait](https://www.youtube.com/watch?v=JmSfWo5pwpo)
 - [Easy (4-Track Demo Version)](https://www.youtube.com/watch?v=8OBm_rDdWPE)
 - [Driving (4-Track Demo Version)](https://www.youtube.com/watch?v=vGGRoL_jzl0)
 - [Yuri-G (4-Track Demo Version)](https://www.youtube.com/watch?v=R_LvybRW1YI)

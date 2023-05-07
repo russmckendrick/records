@@ -38,12 +38,12 @@ styles: ["Ska"]
 
 
 ## Videos
-### Tim Armstrong - Hold On
-{{< youtube id="modmuWBssl4" title="Tim Armstrong - Hold On" >}}<br>
+### Tim Armstrong - Wake Up
+{{< youtube id="5YuCERKiRIo" title="Tim Armstrong - Wake Up" >}}<br>
 
 ### More Videos
 
-- [Tim Armstrong - Wake Up](https://www.youtube.com/watch?v=5YuCERKiRIo)
+- [Tim Armstrong - Hold On](https://www.youtube.com/watch?v=modmuWBssl4)
 - [Tim Armstrong - Into Action](https://www.youtube.com/watch?v=0zmIR1aAGYE)
 - [Tim Armstrong - Translator](https://www.youtube.com/watch?v=Uc_iFszDRuA)
 - [Tim Armstrong - Take This City](https://www.youtube.com/watch?v=scxEEqX-hXo)

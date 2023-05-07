@@ -37,12 +37,12 @@ styles: ["Indie Rock", "Experimental"]
 
 
 ## Videos
-### Kim Gordon - Paprika Pony
-{{< youtube id="H8bGYENQjGM" title="Kim Gordon - Paprika Pony" >}}<br>
+### Kim Gordon - Sketch Artist (Official Music Video)
+{{< youtube id="TJl_9a6dp4g" title="Kim Gordon - Sketch Artist (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Kim Gordon - Sketch Artist (Official Music Video)](https://www.youtube.com/watch?v=TJl_9a6dp4g)
+- [Kim Gordon - Paprika Pony](https://www.youtube.com/watch?v=H8bGYENQjGM)
 - [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
 - [Don't Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
 - [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)

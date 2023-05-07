@@ -37,12 +37,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### North Atlantic Oscillation - Savage with Barometer (Fog Electric)
-{{< youtube id="7JDhZb67cV4" title="North Atlantic Oscillation - Savage with Barometer (Fog Electric)" >}}<br>
+### North Atlantic Oscillation - Soft Coda
+{{< youtube id="M43P_8UkA5A" title="North Atlantic Oscillation - Soft Coda" >}}<br>
 
 ### More Videos
 
-- [North Atlantic Oscillation - Soft Coda](https://www.youtube.com/watch?v=M43P_8UkA5A)
+- [North Atlantic Oscillation - Savage with Barometer (Fog Electric)](https://www.youtube.com/watch?v=7JDhZb67cV4)
 - [North Atlantic Oscillation - Chirality (from Fog Electric)](https://www.youtube.com/watch?v=jMPe7pdj6Kw)
 - [North Atlantic Oscillation - The Receiver](https://www.youtube.com/watch?v=lddEcLhINGA)
 

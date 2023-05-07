@@ -39,14 +39,14 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 
 
 ## Videos
-### Monster Magnet - One Dead Moon (Bonus Track+Lyrics)
-{{< youtube id="1fkmcfd8Cfk" title="Monster Magnet - One Dead Moon (Bonus Track+Lyrics)" >}}<br>
+### Monster Magnet - Three Kingfishers
+{{< youtube id="1dt-XS9Ez5k" title="Monster Magnet - Three Kingfishers" >}}<br>
 
 ### More Videos
 
-- [Monster Magnet - Three Kingfishers](https://www.youtube.com/watch?v=1dt-XS9Ez5k)
 - [Monster Magnet - Paradise (Last Patrol) music video](https://www.youtube.com/watch?v=8-mZqUg7lYU)
 - [Monster Magnet - Last patrol](https://www.youtube.com/watch?v=jZesB9j4rjQ)
+- [Monster Magnet - One Dead Moon (Bonus Track+Lyrics)](https://www.youtube.com/watch?v=1fkmcfd8Cfk)
 
 
 ## Release Information

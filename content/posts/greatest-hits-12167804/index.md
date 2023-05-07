@@ -38,13 +38,13 @@ styles: ["Punk"]
 
 
 ## Videos
-### Ian Dury - Wake up and make love with me
-{{< youtube id="c-VeOakGGPQ" title="Ian Dury - Wake up and make love with me" >}}<br>
+### Ian Dury & The Blockheads - Reasons To Be Cheerful Part III
+{{< youtube id="6iiZEOHpogA" title="Ian Dury & The Blockheads - Reasons To Be Cheerful Part III" >}}<br>
 
 ### More Videos
 
-- [Ian Dury & The Blockheads - Reasons To Be Cheerful Part III](https://www.youtube.com/watch?v=6iiZEOHpogA)
 - [Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
+- [Ian Dury - Wake up and make love with me](https://www.youtube.com/watch?v=c-VeOakGGPQ)
 
 
 ## Release Information

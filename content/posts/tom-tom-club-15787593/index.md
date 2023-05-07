@@ -36,12 +36,12 @@ styles: ["Dub", "Synth-pop", "Disco"]
 
 
 ## Videos
-### Tom Tom Club - Genius Of Love (Official Music Video)
-{{< youtube id="aCWCF19nUhA" title="Tom Tom Club - Genius Of Love (Official Music Video)" >}}<br>
+### Tom Tom Club  -  Wordy Rappinghood
+{{< youtube id="6Vl1m5FYlAo" title="Tom Tom Club  -  Wordy Rappinghood" >}}<br>
 
 ### More Videos
 
-- [Tom Tom Club  -  Wordy Rappinghood](https://www.youtube.com/watch?v=6Vl1m5FYlAo)
+- [Tom Tom Club - Genius Of Love (Official Music Video)](https://www.youtube.com/watch?v=aCWCF19nUhA)
 - [Tom Tom Club - Genius of Love](https://www.youtube.com/watch?v=ECiMhe4E0pI)
 - [Tom Tom Theme](https://www.youtube.com/watch?v=eJKdZhH9CwY)
 - [Tom Tom Club-L'Elephant](https://www.youtube.com/watch?v=Da9MkEDcm68)

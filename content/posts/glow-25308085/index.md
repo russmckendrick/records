@@ -40,14 +40,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### I Would Have Left You  - Reef -  Glow 1997
-{{< youtube id="4GgTuTU0PqY" title="I Would Have Left You  - Reef -  Glow 1997" >}}<br>
+### Place Your Hands
+{{< youtube id="cJ-kDEXcR3c" title="Place Your Hands" >}}<br>
 
 ### More Videos
 
-- [Place Your Hands](https://www.youtube.com/watch?v=cJ-kDEXcR3c)
 - [Place Your Hands -  Reef -  Glow 1997](https://www.youtube.com/watch?v=e0iN7Mg73pQ)
 - [I Would Have Left You](https://www.youtube.com/watch?v=5QCEmbvrawY)
+- [I Would Have Left You  - Reef -  Glow 1997](https://www.youtube.com/watch?v=4GgTuTU0PqY)
 - [Summer's In Bloom](https://www.youtube.com/watch?v=RLxhXi0Bzdg)
 - [Summer's In Bloom -  Reef -  Glow 1997](https://www.youtube.com/watch?v=kc5DhwC5flI)
 - [Lately Stomping](https://www.youtube.com/watch?v=ZLn3kpmgmzI)

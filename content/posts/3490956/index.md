@@ -34,14 +34,14 @@ styles: ["Industrial"]
 
 
 ## Videos
-### New World Order by Ministry
-{{< youtube id="HWelpY0O0jc" title="New World Order by Ministry" >}}<br>
+### Beavis and Butt-Head - Do 'Ministry - N.W.O.'
+{{< youtube id="WADa5ItkV6o" title="Beavis and Butt-Head - Do 'Ministry - N.W.O.'" >}}<br>
 
 ### More Videos
 
-- [Beavis and Butt-Head - Do 'Ministry - N.W.O.'](https://www.youtube.com/watch?v=WADa5ItkV6o)
 - [Ministry - Jesus Built My Hotrod (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
 - [Ministry - Just One Fix (Official Music Video)](https://www.youtube.com/watch?v=XYYGKCanqfA)
+- [New World Order by Ministry](https://www.youtube.com/watch?v=HWelpY0O0jc)
 
 
 ## Release Information

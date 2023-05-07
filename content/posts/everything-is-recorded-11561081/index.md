@@ -52,15 +52,15 @@ styles: ["Trip Hop", "Beatdown"]
 
 
 ## Videos
-### Everything Is Recorded - Show Love (Feat. Syd & Sampha)
-{{< youtube id="jtwzymbS1D0" title="Everything Is Recorded - Show Love (Feat. Syd & Sampha)" >}}<br>
+### Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett
+{{< youtube id="V4xBBRuy87E" title="Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett" >}}<br>
 
 ### More Videos
 
-- [Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett](https://www.youtube.com/watch?v=V4xBBRuy87E)
 - [Everything Is Recorded – D'elusion feat. Infinite, Mela Murder and Green Gartside](https://www.youtube.com/watch?v=P11lAfY40Sc)
 - [Everything Is Recorded ‎– Everything Is Recorded (2017)](https://www.youtube.com/watch?v=dj_Ap0_RmQE)
 - [Everything Is Recorded - Close But Not Quite (ft. Sampha) [Official Music Video]](https://www.youtube.com/watch?v=a03XVCxV8gM)
+- [Everything Is Recorded - Show Love (Feat. Syd & Sampha)](https://www.youtube.com/watch?v=jtwzymbS1D0)
 - [Everything Is Recorded - Bloodshot Red Eyes feat. Infinite & Green Gartside](https://www.youtube.com/watch?v=2PLLVNT9FjU)
 - [Everything Is Recorded - Mountains Of Gold (ft. Sampha, Ibeyi, Wiki & Kamasi Washington)](https://www.youtube.com/watch?v=PWCh1qlNth4)
 

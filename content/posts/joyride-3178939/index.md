@@ -40,17 +40,17 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Joyride
-{{< youtube id="EHjve1ZpFxg" title="Joyride" >}}<br>
+### Roxette - Joyride (Official Video)
+{{< youtube id="xCorJG9mubk" title="Roxette - Joyride (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Roxette - Joyride (Official Video)](https://www.youtube.com/watch?v=xCorJG9mubk)
 - [Roxette - Fading Like A Flower](https://www.youtube.com/watch?v=8fGLiIvKKys)
 - [Roxette - The Big L](https://www.youtube.com/watch?v=P3BziGZOMcE)
 - [Roxette - Spending My Time](https://www.youtube.com/watch?v=eG0IYV6G0I0)
 - [Roxette - Church Of Your Heart](https://www.youtube.com/watch?v=25-FlwARl7o)
 - [Roxette - (Do You Get) Excited?](https://www.youtube.com/watch?v=5U_P-HR8J5w)
+- [Joyride](https://www.youtube.com/watch?v=EHjve1ZpFxg)
 - [Hotblooded](https://www.youtube.com/watch?v=lJUzQ5FeSMg)
 - [Knockin' On Every Door](https://www.youtube.com/watch?v=bbiy2KOVVKk)
 - [I Remember You](https://www.youtube.com/watch?v=Y9vAu5sLC98)

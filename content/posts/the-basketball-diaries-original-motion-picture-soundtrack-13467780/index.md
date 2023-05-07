@@ -40,12 +40,11 @@ styles: ["Soundtrack", "Alternative Rock"]
 
 
 ## Videos
-### Blind Dogs
-{{< youtube id="74oxX7LIssY" title="Blind Dogs" >}}<br>
+### The Basketball Diaries Catholic Boy Jim Carroll
+{{< youtube id="JB72RnNJk9I" title="The Basketball Diaries Catholic Boy Jim Carroll" >}}<br>
 
 ### More Videos
 
-- [The Basketball Diaries Catholic Boy Jim Carroll](https://www.youtube.com/watch?v=JB72RnNJk9I)
 - [PJ Harvey - Down By The Water](https://www.youtube.com/watch?v=lbq4G1TjKYg)
 - [People Who Died](https://www.youtube.com/watch?v=1nkRq-ib-gU)
 - [Riders on the Storm](https://www.youtube.com/watch?v=lJZTgynPGT8)
@@ -53,6 +52,7 @@ styles: ["Soundtrack", "Alternative Rock"]
 - [Massive Internal Complications - Strawberry Wine](https://www.youtube.com/watch?v=NYEr5BOl8Zs)
 - [The Cult - Star](https://www.youtube.com/watch?v=LC8iMRw-DKA)
 - [Flea - I've Been Down (River Phoenix Tribute)](https://www.youtube.com/watch?v=Ec2v9il6Qvs)
+- [Blind Dogs](https://www.youtube.com/watch?v=74oxX7LIssY)
 
 
 ## Release Information

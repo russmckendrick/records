@@ -36,17 +36,17 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Dial : Revenge
-{{< youtube id="M-G787hGa1Y" title="Dial : Revenge" >}}<br>
+### Two Rights Make One Wrong
+{{< youtube id="zg7REZbQ-A0" title="Two Rights Make One Wrong" >}}<br>
 
 ### More Videos
 
-- [Two Rights Make One Wrong](https://www.youtube.com/watch?v=zg7REZbQ-A0)
 - [Take Me Somewhere Nice](https://www.youtube.com/watch?v=CK1zCi0z_Hk)
 - [Sine Wave](https://www.youtube.com/watch?v=4gJueO-_zXE)
 - [Secret Pint](https://www.youtube.com/watch?v=JSCb7H4kAIQ)
 - [Robot Chant](https://www.youtube.com/watch?v=u7wtHzLqM8Q)
 - [You Don't Know Jesus](https://www.youtube.com/watch?v=g1r80NyUHZU)
+- [Dial : Revenge](https://www.youtube.com/watch?v=M-G787hGa1Y)
 
 
 ## Release Information

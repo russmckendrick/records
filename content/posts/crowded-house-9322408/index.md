@@ -38,12 +38,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Crowded House - Now We're Getting Somewhere
-{{< youtube id="OmnDCPWxBFM" title="Crowded House - Now We're Getting Somewhere" >}}<br>
+### Crowded House - Don't Dream It's Over (Official Music Video)
+{{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Crowded House - Don't Dream It's Over (Official Music Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
+- [Crowded House - Now We're Getting Somewhere](https://www.youtube.com/watch?v=OmnDCPWxBFM)
 - [Crowded House, World Where You Live](https://www.youtube.com/watch?v=gv33K1x7FVg)
 - [Crowded House - Something So Strong (Official Video)](https://www.youtube.com/watch?v=WyBKzBtaKWM)
 

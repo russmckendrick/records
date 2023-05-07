@@ -47,13 +47,13 @@ styles: ["Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST
-{{< youtube id="2cLV_pIPdNE" title="MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST" >}}<br>
+### Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)
+{{< youtube id="79YmYQebXzE" title="Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)" >}}<br>
 
 ### More Videos
 
-- [Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)](https://www.youtube.com/watch?v=79YmYQebXzE)
 - [MAD DOGS AND ENGLISHMEN @ THE FILLMORE EAST](https://www.youtube.com/watch?v=Ia-IoPMR9Uo)
+- [MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST](https://www.youtube.com/watch?v=2cLV_pIPdNE)
 - [Joe Cocker  - Mad Dogs & Englishmen - Space Captain](https://www.youtube.com/watch?v=-407iUd_pFY)
 - [The Letter (Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=LlX5IWwizGg)
 - [J̤o̤e̤ ̤C̤o̤c̤k̤e̤r̤-̤M̤a̤d̤ Dogs & .... (Deluxe Edition)[Full Album HQ]](https://www.youtube.com/watch?v=tr7EOkIgiqo)

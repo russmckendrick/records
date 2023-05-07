@@ -39,17 +39,17 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### All You Pretty Girls (2001 Remaster)
-{{< youtube id="H-QmWy22mM8" title="All You Pretty Girls (2001 Remaster)" >}}<br>
+### This World Over (2001 Remaster)
+{{< youtube id="HXsgFPPLBa0" title="This World Over (2001 Remaster)" >}}<br>
 
 ### More Videos
 
-- [This World Over (2001 Remaster)](https://www.youtube.com/watch?v=HXsgFPPLBa0)
 - [The Everyday Story Of Smalltown (2001 - Remaster)](https://www.youtube.com/watch?v=H7XK_-Z1vEA)
 - [Shake You Donkey Up (2001 Remaster)](https://www.youtube.com/watch?v=VOJwTGCIOuk)
 - [Wake Up (2001 Remaster)](https://www.youtube.com/watch?v=6Yf3UUKdF0o)
 - [I Remember The Sun (2001 Remaster)](https://www.youtube.com/watch?v=3JFFQl-d5cM)
 - [Train Running Low On Soul Coal (2001 Remaster)](https://www.youtube.com/watch?v=g7C_YkZ91D8)
+- [All You Pretty Girls (2001 Remaster)](https://www.youtube.com/watch?v=H-QmWy22mM8)
 - [You're The Wish You Are I Had (2001 Remaster)](https://www.youtube.com/watch?v=HKaaQC3ATg8)
 - [I Bought Myself A Liarbird (2001 Remaster)](https://www.youtube.com/watch?v=3ZXnBu1gpzw)
 - [Red Brick Dream (2001 Remaster)](https://www.youtube.com/watch?v=VKkjdzLKajQ)

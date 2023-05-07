@@ -39,17 +39,17 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 
 
 ## Videos
-### Primal Scream - Come Together (Official HD Video)
-{{< youtube id="nyylAvfyuBw" title="Primal Scream - Come Together (Official HD Video)" >}}<br>
+### Primal Scream - Movin' on Up (Official HD Video)
+{{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin' on Up (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
 - [Primal Scream - Loaded (Official Video)](https://www.youtube.com/watch?v=Y3ixEzKA4k0)
 - [Primal Scream - Loaded (Official HD Video)](https://www.youtube.com/watch?v=XQ045ycEOQE)
 - [Primal Scream - Higher Than the Sun (Official Video)](https://www.youtube.com/watch?v=YHjVIBDYgXg)
 - [Primal Scream - Higher Than the Sun (Official HD Video)](https://www.youtube.com/watch?v=sOBeeqvfyvc)
 - [Primal Scream - Come Together (Official Video)](https://www.youtube.com/watch?v=ZUjW82je_38)
+- [Primal Scream - Come Together (Official HD Video)](https://www.youtube.com/watch?v=nyylAvfyuBw)
 - [P̲r̲i̲m̲a̲l̲ S̲c̲r̲e̲a̲m̲](https://www.youtube.com/watch?v=Za39Z5cLSww)
 - [Primal Scream - Slip Inside This House (Official Audio)](https://www.youtube.com/watch?v=StskEnmH9l8)
 - [Come Together](https://www.youtube.com/watch?v=QLcKmOwRk_c)

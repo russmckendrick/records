@@ -38,12 +38,12 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Del Amitri - Nothing ever happens (James Whale show)
-{{< youtube id="ModyRm-6uNo" title="Del Amitri - Nothing ever happens (James Whale show)" >}}<br>
+### Del Amitri - Kiss This Thing Goodbye
+{{< youtube id="Ify_f6XoqMU" title="Del Amitri - Kiss This Thing Goodbye" >}}<br>
 
 ### More Videos
 
-- [Del Amitri - Kiss This Thing Goodbye](https://www.youtube.com/watch?v=Ify_f6XoqMU)
+- [Del Amitri - Nothing ever happens (James Whale show)](https://www.youtube.com/watch?v=ModyRm-6uNo)
 
 
 ## Release Information

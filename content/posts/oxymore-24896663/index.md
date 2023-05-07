@@ -39,12 +39,11 @@ styles: ["Techno"]
 
 
 ## Videos
-### ZEITGEIST (Binaural Headphone Mix)
-{{< youtube id="eVTEy5xUMbA" title="ZEITGEIST (Binaural Headphone Mix)" >}}<br>
+### AGORA
+{{< youtube id="Jb-u4KeW7Zw" title="AGORA" >}}<br>
 
 ### More Videos
 
-- [AGORA](https://www.youtube.com/watch?v=Jb-u4KeW7Zw)
 - [OXYMORE](https://www.youtube.com/watch?v=lCKIWSJw8LM)
 - [NEON LIPS](https://www.youtube.com/watch?v=1sdXjw-ggd8)
 - [SONIC LAND](https://www.youtube.com/watch?v=4WtegAy_-to)
@@ -60,6 +59,7 @@ styles: ["Techno"]
 - [ANIMAL GENESIS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Wtxr2c2hZuU)
 - [SYNTHY SISTERS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oJdJHCy9Osg)
 - [SEX IN THE MACHINE (Binaural Headphone Mix)](https://www.youtube.com/watch?v=QFbGxXdDdGI)
+- [ZEITGEIST (Binaural Headphone Mix)](https://www.youtube.com/watch?v=eVTEy5xUMbA)
 - [CRYSTAL GARDEN (Binaural Headphone Mix)](https://www.youtube.com/watch?v=TcRv_J1-v1c)
 - [BRUTALISM (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Pxj4mBZ5fJM)
 - [EPICA (Binaurel Headphone Mix)](https://www.youtube.com/watch?v=Vj9_79BlZFE)

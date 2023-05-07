@@ -44,12 +44,11 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 
 
 ## Videos
-### Lovage - Stroker Ace
-{{< youtube id="6uUvjdSHWeQ" title="Lovage - Stroker Ace" >}}<br>
+### Lovage - Lies and Alibis
+{{< youtube id="hxf21Yh0LsI" title="Lovage - Lies and Alibis" >}}<br>
 
 ### More Videos
 
-- [Lovage - Lies and Alibis](https://www.youtube.com/watch?v=hxf21Yh0LsI)
 - [Ladies Love Chest Rockwell](https://www.youtube.com/watch?v=KhtXq2B4Ogo)
 - [Lovage - Everyone Has A Summer - Music To Make Love To Your Old Lady By - 2001](https://www.youtube.com/watch?v=iTeHE1zKnHg)
 - [Lovage Book of the Month  (full video)](https://www.youtube.com/watch?v=KwBRkN9__uc)
@@ -57,6 +56,7 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Lovage - Strangers on a Train](https://www.youtube.com/watch?v=9jmK_UTXafs)
 - [Pit Stop (Take Me Home)](https://www.youtube.com/watch?v=y3Hm8wJ55wQ)
 - [Lovage / Music To Make Love To Your Old Lady By - Instrumental (Full Album)](https://www.youtube.com/watch?v=CbyRp4CX5_0)
+- [Lovage - Stroker Ace](https://www.youtube.com/watch?v=6uUvjdSHWeQ)
 - [Lovage - Pit Stop (take me home) (/w Mike Patton)](https://www.youtube.com/watch?v=iPXKzHBTSA4)
 - [Anger Management](https://www.youtube.com/watch?v=RQvs6dAmlYM)
 - [Lovage - Lifeboat (/w Mike Patton)](https://www.youtube.com/watch?v=xu3tzC9evm8)

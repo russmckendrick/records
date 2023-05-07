@@ -90,14 +90,14 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Videos
-### Liberty Song (Remastered Version)
-{{< youtube id="3fyyaSC4ApE" title="Liberty Song (Remastered Version)" >}}<br>
+### Far from Home (Remastered Version)
+{{< youtube id="x25Y01K0VtU" title="Far from Home (Remastered Version)" >}}<br>
 
 ### More Videos
 
-- [Far from Home (Remastered Version)](https://www.youtube.com/watch?v=x25Y01K0VtU)
 - [Another Man's Cause (Remastered Version)](https://www.youtube.com/watch?v=fiDsuG_LIno)
 - [15 Years (Remastered Version)](https://www.youtube.com/watch?v=-vB-WxV88CA)
+- [Liberty Song (Remastered Version)](https://www.youtube.com/watch?v=3fyyaSC4ApE)
 - [Levellers - One Way (Official Music Video)](https://www.youtube.com/watch?v=u0S8RNkL5Wg)
 - [The Levellers - One Way](https://www.youtube.com/watch?v=l_K1NqCpmQI)
 - [Levellers - The Game](https://www.youtube.com/watch?v=5rxC6_S1a1A)

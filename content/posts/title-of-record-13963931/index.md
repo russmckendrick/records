@@ -40,12 +40,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Filter - The Best Things (Official Video) HD
-{{< youtube id="Of1idt51DHc" title="Filter - The Best Things (Official Video) HD" >}}<br>
+### Filter - Take A Picture (Official Music Video)
+{{< youtube id="h8MAHQhKe7Q" title="Filter - Take A Picture (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Filter - Take A Picture (Official Music Video)](https://www.youtube.com/watch?v=h8MAHQhKe7Q)
+- [Filter - The Best Things (Official Video) HD](https://www.youtube.com/watch?v=Of1idt51DHc)
 - [Filter - Title of Record (Expanded Edition) (Full Album)](https://www.youtube.com/watch?v=nSbnSTL8anw)
 
 

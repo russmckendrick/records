@@ -35,12 +35,12 @@ styles: ["Reggae", "Punk", "Ska"]
 
 
 ## Videos
-### SUBLIME - D.J.s - Jah Won't Pay The Bills cassette
-{{< youtube id="uPEBQypmZV8" title="SUBLIME - D.J.s - Jah Won't Pay The Bills cassette" >}}<br>
+### Sublime - Jah Won't Pay The Bills (Record Store Day 2016)
+{{< youtube id="iO4ll__JMrQ" title="Sublime - Jah Won't Pay The Bills (Record Store Day 2016)" >}}<br>
 
 ### More Videos
 
-- [Sublime - Jah Won't Pay The Bills (Record Store Day 2016)](https://www.youtube.com/watch?v=iO4ll__JMrQ)
+- [SUBLIME - D.J.s - Jah Won't Pay The Bills cassette](https://www.youtube.com/watch?v=uPEBQypmZV8)
 - [Sublime - Jah Wont Pay The Bills - 07 - Slowride](https://www.youtube.com/watch?v=39JvLs7zLu4)
 
 

@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### the polyphonic spree - it's the sun
-{{< youtube id="P9gk1PGZxaE" title="the polyphonic spree - it's the sun" >}}<br>
+### THE POLYPHONIC SPREE soldier girl
+{{< youtube id="4uzddaCSwpE" title="THE POLYPHONIC SPREE soldier girl" >}}<br>
 
 ### More Videos
 
-- [THE POLYPHONIC SPREE soldier girl](https://www.youtube.com/watch?v=4uzddaCSwpE)
+- [the polyphonic spree - it's the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
 - [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
 

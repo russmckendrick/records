@@ -38,13 +38,13 @@ styles: ["Deep Techno"]
 
 
 ## Videos
-### Cindy Wilson - No One Can Tell You (from Change)
-{{< youtube id="PT_tp3iFoCc" title="Cindy Wilson - No One Can Tell You (from Change)" >}}<br>
+### Cindy Wilson - Mystic (from Change)
+{{< youtube id="qRYxvzS5BS4" title="Cindy Wilson - Mystic (from Change)" >}}<br>
 
 ### More Videos
 
-- [Cindy Wilson - Mystic (from Change)](https://www.youtube.com/watch?v=qRYxvzS5BS4)
 - [Cindy Wilson - Brother (Official Music Video from Change)](https://www.youtube.com/watch?v=uXfbuIapMfI)
+- [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
 - [Cindy Wilson - Brother (from Change)](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
 
 

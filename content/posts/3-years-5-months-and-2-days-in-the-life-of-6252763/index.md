@@ -43,12 +43,11 @@ styles: ["Conscious"]
 
 
 ## Videos
-### U
-{{< youtube id="F_oaU12n-d8" title="U" >}}<br>
+### People Everyday - Arrested Development
+{{< youtube id="QlKWz_FcVoo" title="People Everyday - Arrested Development" >}}<br>
 
 ### More Videos
 
-- [People Everyday - Arrested Development](https://www.youtube.com/watch?v=QlKWz_FcVoo)
 - [3̲ ̲Y̲e̲a̲r̲s̲,̲ ̲5̲ ̲M̲o̲n̲t̲h̲s̲ ̲A̲n̲d̲ ̲2̲ ̲D̲a̲y̲s̲ ̲I̲n̲ ̲T̲h̲e̲ ̲L̲i̲f̲e̲ ̲O̲f̲.̲.̲.̲](https://www.youtube.com/watch?v=GMGXnL78xmQ)
 - [Arrested Development - Tennessee](https://www.youtube.com/watch?v=6VCdJyOAQYM)
 - [Man's Final Frontier](https://www.youtube.com/watch?v=yaY3slfWuRE)
@@ -60,6 +59,7 @@ styles: ["Conscious"]
 - [Raining Revolution](https://www.youtube.com/watch?v=UvXLuKZX2cc)
 - [Fishin' 4 Religion](https://www.youtube.com/watch?v=PkWSyNe9IUs)
 - [Give A Man A Fish](https://www.youtube.com/watch?v=EjyWKR8HFC8)
+- [U](https://www.youtube.com/watch?v=F_oaU12n-d8)
 - [Eve Of Reality](https://www.youtube.com/watch?v=0aXUsECPt4g)
 - [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)
 - [Washed Away](https://www.youtube.com/watch?v=lBzxAXAvbu8)

@@ -36,12 +36,11 @@ styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 
 
 ## Videos
-### Sananda Maitreya - Seven More Days (Remastered - Official Audio)
-{{< youtube id="nt-8MNoH-KQ" title="Sananda Maitreya - Seven More Days (Remastered - Official Audio)" >}}<br>
+### Terence Trent D'Arby - LP Introducing the Hardline According  - Sign Your Name
+{{< youtube id="7ALdICJVsvM" title="Terence Trent D'Arby - LP Introducing the Hardline According  - Sign Your Name" >}}<br>
 
 ### More Videos
 
-- [Terence Trent D'Arby - LP Introducing the Hardline According  - Sign Your Name](https://www.youtube.com/watch?v=7ALdICJVsvM)
 - [If You All Get To Heaven: Terence Trent D'Arby *HQ*](https://www.youtube.com/watch?v=funBT_8jBMw)
 - [Sananda Maitreya - If You All Get To Heaven (Remastered - Official Audio)](https://www.youtube.com/watch?v=-O4kvMFbl0c)
 - [Sananda Maitreya - If You Let Me Stay](https://www.youtube.com/watch?v=hMhEzd9Bsb4)
@@ -51,6 +50,7 @@ styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 - [Sananda Maitreya - Dance Little Sister (Official Video)](https://www.youtube.com/watch?v=OlmKCj03fHw)
 - [I'll Never Turn My Back On You (Father's Words) (Remastered - Official Audio)](https://www.youtube.com/watch?v=XNiJPwD_wzs)
 - [Sananda Maitreya - Dance Little Sister (Remastered - Official Audio)](https://www.youtube.com/watch?v=SdUE-QH-vWE)
+- [Sananda Maitreya - Seven More Days (Remastered - Official Audio)](https://www.youtube.com/watch?v=nt-8MNoH-KQ)
 - [Sananda Maitreya - Let's Go Forward (Remastered - Official Audio)](https://www.youtube.com/watch?v=TLSRNsOrids)
 - [Sananda Maitreya - Rain (Remastered - Official Audio)](https://www.youtube.com/watch?v=V-KkA9jn2iI)
 - [Sananda Maitreya - Sign Your Name (Remastered - Official Audio)](https://www.youtube.com/watch?v=iLVLfL3QVQQ)

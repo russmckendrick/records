@@ -37,12 +37,11 @@ styles: ["Ambient", "Field Recording"]
 
 
 ## Videos
-### Amazônia, Pt. 5 (Binaural Audio - Headphones only)
-{{< youtube id="cavAYYkfVp4" title="Amazônia, Pt. 5 (Binaural Audio - Headphones only)" >}}<br>
+### Amazônia, Pt. 1
+{{< youtube id="A1EmGAAmy34" title="Amazônia, Pt. 1" >}}<br>
 
 ### More Videos
 
-- [Amazônia, Pt. 1](https://www.youtube.com/watch?v=A1EmGAAmy34)
 - [Amazônia, Pt. 2](https://www.youtube.com/watch?v=f7xPpmlx0Ls)
 - [Amazônia, Pt. 3](https://www.youtube.com/watch?v=oU8IATLjvRs)
 - [Amazônia, Pt. 4](https://www.youtube.com/watch?v=wnlt8p0ZQ5c)
@@ -55,6 +54,7 @@ styles: ["Ambient", "Field Recording"]
 - [Amazônia, Pt. 2 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=HTWXEQ0jg28)
 - [Amazônia, Pt. 3 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=PVH2txpwQiQ)
 - [Amazônia, Pt. 4 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=wh2pfKWtNq4)
+- [Amazônia, Pt. 5 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=cavAYYkfVp4)
 - [Amazônia, Pt. 6 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=xqTUdYHZHUc)
 - [Amazônia, Pt. 7 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=8fpnPv3hDD0)
 - [Amazônia, Pt. 8 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=46mIEklhxew)

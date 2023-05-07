@@ -40,16 +40,16 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### The Stick
-{{< youtube id="8MKBkG55xi4" title="The Stick" >}}<br>
+### Get It Up
+{{< youtube id="qF632f3h7gY" title="Get It Up" >}}<br>
 
 ### More Videos
 
-- [Get It Up](https://www.youtube.com/watch?v=qF632f3h7gY)
 - [Girl](https://www.youtube.com/watch?v=zhBD1D9n084)
 - [After Hi School](https://www.youtube.com/watch?v=mFcNjM8py8k)
 - [Cool](https://www.youtube.com/watch?v=_Ibaf56aeew)
 - [Oh, Baby](https://www.youtube.com/watch?v=5oiBHTCsAZI)
+- [The Stick](https://www.youtube.com/watch?v=8MKBkG55xi4)
 
 
 ## Release Information

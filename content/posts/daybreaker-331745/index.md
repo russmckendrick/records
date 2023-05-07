@@ -38,12 +38,11 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 
 
 ## Videos
-### Thinking About Tomorrow
-{{< youtube id="Ea_9I61HehA" title="Thinking About Tomorrow" >}}<br>
+### Paris Train
+{{< youtube id="6myjARKjFLs" title="Paris Train" >}}<br>
 
 ### More Videos
 
-- [Paris Train](https://www.youtube.com/watch?v=6myjARKjFLs)
 - [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
 - [Concrete Sky](https://www.youtube.com/watch?v=EGVgbKQldEA)
 - [Ted's Waltz](https://www.youtube.com/watch?v=VyybYByaMj8)
@@ -55,6 +54,7 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 - [Carmella](https://www.youtube.com/watch?v=DiUHKOK6PUE)
 - [God Song](https://www.youtube.com/watch?v=rIGzMZIrBqw)
 - [This One's Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
+- [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)
 
 
 ## Release Information

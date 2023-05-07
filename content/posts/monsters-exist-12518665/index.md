@@ -37,17 +37,17 @@ styles: ["Techno"]
 
 
 ## Videos
-### Orbital - Monsters Exist
-{{< youtube id="1NQWhdrjXuA" title="Orbital - Monsters Exist" >}}<br>
+### Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)
+{{< youtube id="GEmw73HGyAA" title="Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
 
 ### More Videos
 
-- [Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=GEmw73HGyAA)
 - [Orbital - Kaiju (official audio)](https://www.youtube.com/watch?v=YYdioE5vnj8)
 - [Orbital - Tiny Foldable Cities](https://www.youtube.com/watch?v=7CC5aX8OzOI)
 - [Orbital - A Long Way From Home (official audio)](https://www.youtube.com/watch?v=wQcOG9P0458)
 - [Orbital - P.H.U.K.](https://www.youtube.com/watch?v=BGYZp3QqhqE)
 - [Orbital - Analogue Test Oct 16 (official audio)](https://www.youtube.com/watch?v=Ke-fWqUEhQg)
+- [Orbital - Monsters Exist](https://www.youtube.com/watch?v=1NQWhdrjXuA)
 - [Orbital - Fun With The System (official audio)](https://www.youtube.com/watch?v=2-E7aliBKTE)
 - [Orbital - Hoo Hoo Ha Ha (official audio)](https://www.youtube.com/watch?v=CDzKmemfHqQ)
 - [Orbital - The Raid (official audio)](https://www.youtube.com/watch?v=_txIsgwOxbo)

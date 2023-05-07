@@ -40,12 +40,12 @@ styles: []
 
 
 ## Videos
-### Dave Gahan and Soulsavers Imposter Vinyl 12 test pressing US
-{{< youtube id="T31S2ZrUEsc" title="Dave Gahan and Soulsavers Imposter Vinyl 12 test pressing US" >}}<br>
+### Dave Gahan, Soulsavers - Metal Heart (Official Video)
+{{< youtube id="QNvNs0MzYGg" title="Dave Gahan, Soulsavers - Metal Heart (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Dave Gahan, Soulsavers - Metal Heart (Official Video)](https://www.youtube.com/watch?v=QNvNs0MzYGg)
+- [Dave Gahan and Soulsavers Imposter Vinyl 12 test pressing US](https://www.youtube.com/watch?v=T31S2ZrUEsc)
 - [Dave Gahan, Soulsavers - Shut Me Down (Official Audio)](https://www.youtube.com/watch?v=HMunLq0Mmg0)
 - [Dave Gahan, Soulsavers - Not Dark Yet (Official Audio)](https://www.youtube.com/watch?v=ziHqfsIgCp0)
 - [Dave Gahan, Soulsavers - Always On My Mind (Official Audio)](https://www.youtube.com/watch?v=u_9QOy0xoDI)

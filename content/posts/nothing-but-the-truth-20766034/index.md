@@ -45,18 +45,18 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Pineapple Thief - Someone Pull Me Out of Here
-{{< youtube id="hKYOamo5BkY" title="The Pineapple Thief - Someone Pull Me Out of Here" >}}<br>
+### Versions of the Truth (Nothing But The Truth)
+{{< youtube id="wN2UoQLf-so" title="Versions of the Truth (Nothing But The Truth)" >}}<br>
 
 ### More Videos
 
-- [Versions of the Truth (Nothing But The Truth)](https://www.youtube.com/watch?v=wN2UoQLf-so)
 - [In Exile (Nothing But The Truth)](https://www.youtube.com/watch?v=z-7iAQBnlXk)
 - [Warm Seas (Nothing But The Truth)](https://www.youtube.com/watch?v=HzFnNXvukVk)
 - [The Pineapple Thief - Our Mire](https://www.youtube.com/watch?v=fXK3bTcUDOs)
 - [Build a World (Nothing But The Truth)](https://www.youtube.com/watch?v=vP57XBhB5-0)
 - [Demons (Nothing But The Truth)](https://www.youtube.com/watch?v=rljS4gjt02E)
 - [Driving Like Maniacs (Nothing But The Truth)](https://www.youtube.com/watch?v=DvPRkwAXuYg)
+- [The Pineapple Thief - Someone Pull Me Out of Here](https://www.youtube.com/watch?v=hKYOamo5BkY)
 - [Uncovering Your Tracks (Nothing But The Truth)](https://www.youtube.com/watch?v=r8MUOwUCDIQ)
 - [Break It All (Nothing But The Truth)](https://www.youtube.com/watch?v=l4VIlJJH1dk)
 - [White Mist (Nothing But The Truth)](https://www.youtube.com/watch?v=lMmZyB1zS_Y)

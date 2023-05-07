@@ -41,12 +41,11 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### The Pogues- sayonara(Lyrics)
-{{< youtube id="5PsERlOwYsw" title="The Pogues- sayonara(Lyrics)" >}}<br>
+### The Pogues - Hell's Ditch
+{{< youtube id="jBAgkmy2vrg" title="The Pogues - Hell's Ditch" >}}<br>
 
 ### More Videos
 
-- [The Pogues - Hell's Ditch](https://www.youtube.com/watch?v=jBAgkmy2vrg)
 - [Hell's Ditch](https://www.youtube.com/watch?v=9bmqL0g1M0I)
 - [The Sunnyside of the Street](https://www.youtube.com/watch?v=PFarc3yjSC8)
 - [Lorca's Novena](https://www.youtube.com/watch?v=pdgJLtjTbFI)
@@ -59,6 +58,7 @@ styles: ["Folk Rock"]
 - [The Pogues - Sayonara](https://www.youtube.com/watch?v=r3bw1pdW5fU)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=66quTi26YLY)
 - [The Pogues ~ Hell's Ditch](https://www.youtube.com/watch?v=wn1yVnkYXnY)
+- [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 
 

@@ -45,16 +45,16 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 
 
 ## Videos
-### Satelllliiiiiteee
-{{< youtube id="PC69RbHDiCg" title="Satelllliiiiiteee" >}}<br>
+### Flying Lotus - Zodiac Shit
+{{< youtube id="0ScYz9sNaQk" title="Flying Lotus - Zodiac Shit" >}}<br>
 
 ### More Videos
 
-- [Flying Lotus - Zodiac Shit](https://www.youtube.com/watch?v=0ScYz9sNaQk)
 - [Flying Lotus - MmmHmm ft. Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
 - [Do the Astral Plane](https://www.youtube.com/watch?v=V_VeIP_l7iA)
 - [Clock Catcher](https://www.youtube.com/watch?v=lmMwJeLMWkA)
 - [Flying Lotus- Cosmogramma ALBUM REVIEW](https://www.youtube.com/watch?v=KCuamde9Atc)
+- [Satelllliiiiiteee](https://www.youtube.com/watch?v=PC69RbHDiCg)
 
 
 ## Release Information

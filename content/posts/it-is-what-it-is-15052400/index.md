@@ -43,12 +43,11 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 
 
 ## Videos
-### Existential Dread
-{{< youtube id="f728T_wocZ8" title="Existential Dread" >}}<br>
+### Thundercat - 'Innerstellar Love' (Official Audio)
+{{< youtube id="yA4R9qLa26E" title="Thundercat - 'Innerstellar Love' (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Thundercat - 'Innerstellar Love' (Official Audio)](https://www.youtube.com/watch?v=yA4R9qLa26E)
 - [How Sway](https://www.youtube.com/watch?v=QwQeEmY1QxI)
 - [Thundercat - 'Fair Chance (feat. Ty Dolla $ign & Lil B)' (Official Audio)](https://www.youtube.com/watch?v=IoFOXgIme9M)
 - [How I Feel](https://www.youtube.com/watch?v=qIOMiQ3d80A)
@@ -58,6 +57,7 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 - [Overseas](https://www.youtube.com/watch?v=HE-2bO2I_es)
 - [I Love Louis Cole](https://www.youtube.com/watch?v=YHTufn3VWq0)
 - [Unrequited Love](https://www.youtube.com/watch?v=eRo_FFrliAs)
+- [Existential Dread](https://www.youtube.com/watch?v=f728T_wocZ8)
 - [Miguel's Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
 - [It Is What It Is](https://www.youtube.com/watch?v=lqDs_quhy0I)
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)

@@ -42,12 +42,11 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Roger Waters - Amused to Death (1992)
-{{< youtube id="lneXi5yCKsg" title="Roger Waters - Amused to Death (1992)" >}}<br>
+### The Ballad of Bill Hubbard
+{{< youtube id="EIzgTL5NDT8" title="The Ballad of Bill Hubbard" >}}<br>
 
 ### More Videos
 
-- [The Ballad of Bill Hubbard](https://www.youtube.com/watch?v=EIzgTL5NDT8)
 - [Roger Waters - What God Wants, Pt. 1](https://www.youtube.com/watch?v=wtq1_peTXbw)
 - [Perfect Sense, Pt. I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
 - [Perfect Sense, Pt. II](https://www.youtube.com/watch?v=eYG7INhXFjc)
@@ -60,6 +59,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Watching TV](https://www.youtube.com/watch?v=Ca3PnHFgJ54)
 - [Roger Waters - Three Wishes](https://www.youtube.com/watch?v=SWEPrenL5d8)
 - [It's a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
+- [Roger Waters - Amused to Death (1992)](https://www.youtube.com/watch?v=lneXi5yCKsg)
 
 
 ## Release Information

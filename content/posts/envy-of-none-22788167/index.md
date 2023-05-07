@@ -39,12 +39,11 @@ styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Western Sunset - Envy of None - A Tribute to Neil Peart
-{{< youtube id="avToblb8HkY" title="Western Sunset - Envy of None - A Tribute to Neil Peart" >}}<br>
+### Never Said I Love You
+{{< youtube id="Yp8q2mMoa7k" title="Never Said I Love You" >}}<br>
 
 ### More Videos
 
-- [Never Said I Love You](https://www.youtube.com/watch?v=Yp8q2mMoa7k)
 - [Shadow](https://www.youtube.com/watch?v=QF-NhLJ5bnU)
 - [Envy Of None - Look Inside (Official Video)](https://www.youtube.com/watch?v=QF-lfYi7DXk)
 - [Envy Of None - Liar (Official Lyric Video) from debut album Envy Of None](https://www.youtube.com/watch?v=vV-IZRh22mo)
@@ -55,6 +54,7 @@ styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 - [Dumb](https://www.youtube.com/watch?v=GgfkpnSwWKQ)
 - [Enemy](https://www.youtube.com/watch?v=XUYlFQUEfs4)
 - [Western Sunset](https://www.youtube.com/watch?v=VeQqcaZm5ws)
+- [Western Sunset - Envy of None - A Tribute to Neil Peart](https://www.youtube.com/watch?v=avToblb8HkY)
 
 
 ## Release Information

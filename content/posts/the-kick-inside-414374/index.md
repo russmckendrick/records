@@ -41,18 +41,18 @@ styles: ["Art Rock", "Pop Rock"]
 
 
 ## Videos
-### Wuthering Heights (2018 Remaster)
-{{< youtube id="mj9RNQnRqPU" title="Wuthering Heights (2018 Remaster)" >}}<br>
+### Kate Bush - Wuthering Heights - Official Music Video - Version 1
+{{< youtube id="-1pMMIe4hb4" title="Kate Bush - Wuthering Heights - Official Music Video - Version 1" >}}<br>
 
 ### More Videos
 
-- [Kate Bush - Wuthering Heights - Official Music Video - Version 1](https://www.youtube.com/watch?v=-1pMMIe4hb4)
 - [Kate Bush - The Man with the Child in His Eyes - Official Music Video](https://www.youtube.com/watch?v=NAj8suae3WY)
 - [Moving (2018 Remaster)](https://www.youtube.com/watch?v=UPxi6EmWp-o)
 - [The Saxophone Song (2018 Remaster)](https://www.youtube.com/watch?v=ArhssokTFuk)
 - [Strange Phenomena (2018 Remaster)](https://www.youtube.com/watch?v=uY-Z8Lte8WU)
 - [Kite (2018 Remaster)](https://www.youtube.com/watch?v=fZdZmDwEhl0)
 - [The Man with the Child in His Eyes (2018 Remaster)](https://www.youtube.com/watch?v=mj9lnMuez-Q)
+- [Wuthering Heights (2018 Remaster)](https://www.youtube.com/watch?v=mj9RNQnRqPU)
 - [James and the Cold Gun (2018 Remaster)](https://www.youtube.com/watch?v=7Yj5OLEBje4)
 - [Feel It (2018 Remaster)](https://www.youtube.com/watch?v=dYPd5N71S4k)
 - [Oh to Be in Love (2018 Remaster)](https://www.youtube.com/watch?v=9wtxpz3VMWY)

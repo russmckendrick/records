@@ -40,12 +40,12 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 
 
 ## Videos
-### The Magpie Salute - High Water
-{{< youtube id="Z4h20Rr3a9s" title="The Magpie Salute - High Water" >}}<br>
+### The Magpie Salute ~ High Water
+{{< youtube id="C9FkRy4xsa0" title="The Magpie Salute ~ High Water" >}}<br>
 
 ### More Videos
 
-- [The Magpie Salute ~ High Water](https://www.youtube.com/watch?v=C9FkRy4xsa0)
+- [The Magpie Salute - High Water](https://www.youtube.com/watch?v=Z4h20Rr3a9s)
 
 
 ## Release Information

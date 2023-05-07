@@ -42,17 +42,17 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 
 
 ## Videos
-### True Romance Score by Hans ZImmer: Shootout (Track 13)
-{{< youtube id="dhdUZzbeSZY" title="True Romance Score by Hans ZImmer: Shootout (Track 13)" >}}<br>
+### You're So Cool
+{{< youtube id="lFUkaB_NU5o" title="You're So Cool" >}}<br>
 
 ### More Videos
 
-- [You're So Cool](https://www.youtube.com/watch?v=lFUkaB_NU5o)
 - [True Romance Soundtrack Track 5 I Want Your Body Nymphomania](https://www.youtube.com/watch?v=RalIJp1jL6M)
 - [Hans Zimmer - You're So Cool](https://www.youtube.com/watch?v=bayyRPSXGq0)
 - [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
 - [True Romance Soundtrack Track 6 Stars At Dawn Hans Zimmer](https://www.youtube.com/watch?v=Dx1VZnMv2A8)
 - [In Dreams](https://www.youtube.com/watch?v=xFlKHvkOmSQ)
+- [True Romance Score by Hans ZImmer: Shootout (Track 13)](https://www.youtube.com/watch?v=dhdUZzbeSZY)
 - [Wounded Bird](https://www.youtube.com/watch?v=eUDwnzeGgA0)
 - [True Romance (OST) - Shootout](https://www.youtube.com/watch?v=vWJ6wu22I30)
 - [I Want Your Body](https://www.youtube.com/watch?v=jVLJAsPx7EI)

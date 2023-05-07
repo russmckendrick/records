@@ -40,12 +40,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Bangles - Walk Like an Egyptian (Video Version)
-{{< youtube id="Cv6tuzHUuuk" title="The Bangles - Walk Like an Egyptian (Video Version)" >}}<br>
+### The Bangles - Manic Monday
+{{< youtube id="SsmVgoXDq2w" title="The Bangles - Manic Monday" >}}<br>
 
 ### More Videos
 
-- [The Bangles - Manic Monday](https://www.youtube.com/watch?v=SsmVgoXDq2w)
+- [The Bangles - Walk Like an Egyptian (Video Version)](https://www.youtube.com/watch?v=Cv6tuzHUuuk)
 - [The Bangles - Walking Down Your Street (Video Version)](https://www.youtube.com/watch?v=HvnV2jFeWNQ)
 - [The Bangles - If She Knew What She Wants](https://www.youtube.com/watch?v=mu_pNeqAQ-U)
 

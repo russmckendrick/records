@@ -39,12 +39,11 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Funny Bird
-{{< youtube id="SFWHQmgmW8E" title="The Funny Bird" >}}<br>
+### Holes
+{{< youtube id="B7EyfGpV094" title="Holes" >}}<br>
 
 ### More Videos
 
-- [Holes](https://www.youtube.com/watch?v=B7EyfGpV094)
 - [Tonite It Shows](https://www.youtube.com/watch?v=12_kW1d-VTQ)
 - [Endlessly](https://www.youtube.com/watch?v=ifjDuA2ZZbE)
 - [I Collect Coins](https://www.youtube.com/watch?v=OG5qHUDn-ck)
@@ -52,6 +51,7 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 - [Hudson Line](https://www.youtube.com/watch?v=9jPw4lleFno)
 - [The Happy End (The Drunk Room)](https://www.youtube.com/watch?v=t7GheV0j2XE)
 - [Goddess on a Hiway](https://www.youtube.com/watch?v=V4H5AA1MNKU)
+- [The Funny Bird](https://www.youtube.com/watch?v=SFWHQmgmW8E)
 - [Pick Up If You're There](https://www.youtube.com/watch?v=FLCfMxO60N8)
 - [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 

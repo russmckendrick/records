@@ -35,12 +35,12 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 
 
 ## Videos
-### Take Pills
-{{< youtube id="ggKdy2n_DXA" title="Take Pills" >}}<br>
+### Comfy In Nautica
+{{< youtube id="7xqOz_YqDxM" title="Comfy In Nautica" >}}<br>
 
 ### More Videos
 
-- [Comfy In Nautica](https://www.youtube.com/watch?v=7xqOz_YqDxM)
+- [Take Pills](https://www.youtube.com/watch?v=ggKdy2n_DXA)
 - [Bros](https://www.youtube.com/watch?v=pxBvg6QSZZw)
 - [I'm Not](https://www.youtube.com/watch?v=_98TZ-rxLos)
 - [Good Girl / Carrots](https://www.youtube.com/watch?v=iRk1DM04GfA)

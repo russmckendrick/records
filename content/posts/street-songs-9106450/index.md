@@ -36,13 +36,13 @@ styles: ["Funk", "Disco"]
 
 
 ## Videos
-### Make Love To Me
-{{< youtube id="7B-jMFeCFg8" title="Make Love To Me" >}}<br>
+### Give It To Me Baby
+{{< youtube id="zYV6zZc_9jI" title="Give It To Me Baby" >}}<br>
 
 ### More Videos
 
-- [Give It To Me Baby](https://www.youtube.com/watch?v=zYV6zZc_9jI)
 - [Ghetto Life](https://www.youtube.com/watch?v=GxBPFWuaIz4)
+- [Make Love To Me](https://www.youtube.com/watch?v=7B-jMFeCFg8)
 - [Mr. Policeman](https://www.youtube.com/watch?v=uSRjIQAHUbs)
 - [Super Freak](https://www.youtube.com/watch?v=1bRFWwX1nk8)
 - [Fire And Desire](https://www.youtube.com/watch?v=wn_DmhusD48)

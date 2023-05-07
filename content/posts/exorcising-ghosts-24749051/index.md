@@ -44,17 +44,17 @@ styles: ["Synth-pop", "New Wave"]
 
 
 ## Videos
-### Nightporter
-{{< youtube id="mKsY_dEjwtQ" title="Nightporter" >}}<br>
+### Quiet Life
+{{< youtube id="WJGzrTfVwVk" title="Quiet Life" >}}<br>
 
 ### More Videos
 
-- [Quiet Life](https://www.youtube.com/watch?v=WJGzrTfVwVk)
 - [Methods Of Dance](https://www.youtube.com/watch?v=jGV8NRwJcU4)
 - [Sons Of Pioneers (2003 Digital Remaster)](https://www.youtube.com/watch?v=aEf38uz6FuQ)
 - [Swing (Remastered 2003)](https://www.youtube.com/watch?v=ahtyVegPVjE)
 - [Gentlemen Take Polaroids](https://www.youtube.com/watch?v=SlyI2isjAas)
 - [A Foreign Place](https://www.youtube.com/watch?v=moPdbB34vDI)
+- [Nightporter](https://www.youtube.com/watch?v=mKsY_dEjwtQ)
 - [My New Career](https://www.youtube.com/watch?v=JEp3AQhhwnc)
 - [The Other Side Of Life](https://www.youtube.com/watch?v=i4J3zPy3iLE)
 - [Visions Of China](https://www.youtube.com/watch?v=1qmNNP1VgIk)

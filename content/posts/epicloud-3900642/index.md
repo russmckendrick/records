@@ -55,14 +55,14 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 
 ## Videos
-### DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)
-{{< youtube id="V7xi6Yt36u8" title="DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)" >}}<br>
+### Devin Townsend LUCKY ANIMALS (Unofficial Video) =]
+{{< youtube id="UvmIByrcwAQ" title="Devin Townsend LUCKY ANIMALS (Unofficial Video) =]" >}}<br>
 
 ### More Videos
 
-- [Devin Townsend LUCKY ANIMALS (Unofficial Video) =]](https://www.youtube.com/watch?v=UvmIByrcwAQ)
 - [EPICLOUD LISTENING PARTY!](https://www.youtube.com/watch?v=FLbJ72wgXcE)
 - [Devin Townsend Project - Save our Now](https://www.youtube.com/watch?v=wTDagfTQ1Ks)
+- [DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=V7xi6Yt36u8)
 
 
 ## Release Information

@@ -43,18 +43,18 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Heartbeat (2006 Remastered Version)
-{{< youtube id="ggwm4aXRIQ8" title="Heartbeat (2006 Remastered Version)" >}}<br>
+### Practice Makes Perfect (2006 Remastered Version)
+{{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
-- [Practice Makes Perfect (2006 Remastered Version)](https://www.youtube.com/watch?v=9M0vuDE5gig)
 - [French Film Blurred (2006 Remastered Version)](https://www.youtube.com/watch?v=ci1OZ1mWKMg)
 - [Another the Letter (2006 Remastered Version)](https://www.youtube.com/watch?v=LSxp1QaUUaE)
 - [Men 2nd (2006 Remastered Version)](https://www.youtube.com/watch?v=K9b6YIzRlwc)
 - [Marooned (2006 Remastered Version)](https://www.youtube.com/watch?v=a7B7PPB23hc)
 - [Sand in My Joints (2006 Remastered Version)](https://www.youtube.com/watch?v=0NvDSUCZj-c)
 - [Being Sucked in Again (2006 Remastered Version)](https://www.youtube.com/watch?v=uF7cx8VpXEo)
+- [Heartbeat (2006 Remastered Version)](https://www.youtube.com/watch?v=ggwm4aXRIQ8)
 - [Mercy (2006 Remastered Version)](https://www.youtube.com/watch?v=MtIXBSs-REs)
 - [Outdoor Miner (2006 Remastered Version)](https://www.youtube.com/watch?v=uO0nmjkMpw0)
 - [I Am the Fly (2006 Remastered Version)](https://www.youtube.com/watch?v=svcAqVL2l28)

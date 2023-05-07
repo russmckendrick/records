@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The War On Drugs - I Don't Live Here Anymore (feat. Lucius) [Official Music Video]
-{{< youtube id="MVh6XTwWhMY" title="The War On Drugs - I Don't Live Here Anymore (feat. Lucius) [Official Music Video]" >}}<br>
+### The War On Drugs - I Don't Wanna Wait [Official Audio]
+{{< youtube id="GTpJ-DHpnw8" title="The War On Drugs - I Don't Wanna Wait [Official Audio]" >}}<br>
 
 ### More Videos
 
-- [The War On Drugs - I Don't Wanna Wait [Official Audio]](https://www.youtube.com/watch?v=GTpJ-DHpnw8)
 - [The War On Drugs - Harmonia's Dream [Official Audio]](https://www.youtube.com/watch?v=fUgylH_-88Y)
+- [The War On Drugs - I Don't Live Here Anymore (feat. Lucius) [Official Music Video]](https://www.youtube.com/watch?v=MVh6XTwWhMY)
 - [The War On Drugs - Living Proof [Official Video]](https://www.youtube.com/watch?v=B3OEofsCur8)
 
 

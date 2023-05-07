@@ -44,12 +44,11 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Skools Out…
-{{< youtube id="EGIOehtTR0g" title="Skools Out…" >}}<br>
+### Ladytron - Playgirl [Official Music Video]
+{{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [Ladytron - Playgirl [Official Music Video]](https://www.youtube.com/watch?v=qMH6wljk4Xw)
 - [Discotraxx](https://www.youtube.com/watch?v=dzwpEUJfvHc)
 - [Mu-Tron](https://www.youtube.com/watch?v=eiOA-Wza16I)
 - [Ladytron - Playgirl](https://www.youtube.com/watch?v=pTx2k8N3-GQ)
@@ -67,6 +66,7 @@ styles: ["Electro", "Synth-pop"]
 - [Laughing Cavalier](https://www.youtube.com/watch?v=DLcB6e-5T7g)
 - [Ladybird](https://www.youtube.com/watch?v=gEVFvpxym_M)
 - [Jet Age](https://www.youtube.com/watch?v=XTOSuN6i5to)
+- [Skools Out…](https://www.youtube.com/watch?v=EGIOehtTR0g)
 
 
 ## Release Information

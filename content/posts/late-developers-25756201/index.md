@@ -39,12 +39,11 @@ styles: ["Indie Rock", "Indie Pop"]
 
 
 ## Videos
-### Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)
-{{< youtube id="kMzfU26LXuM" title="Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)" >}}<br>
+### Belle and Sebastian- Juliet Naked (Official Audio)
+{{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Belle and Sebastian- Juliet Naked (Official Audio)](https://www.youtube.com/watch?v=SJzsPJNs8fg)
 - [Belle and Sebastian- I Don't Know What You See in Me (Official Music Video)](https://www.youtube.com/watch?v=dgao0WD5g48)
 - [Belle and Sebastian- Give A Little Time (Official Audio)](https://www.youtube.com/watch?v=YaAoBKgasV8)
 - [Belle and Sebastian- When We Were Very Young (Official Audio)](https://www.youtube.com/watch?v=thV-lSwQJS8)
@@ -54,6 +53,7 @@ styles: ["Indie Rock", "Indie Pop"]
 - [Belle and Sebastian- When You’re Not With Me (Official Audio)](https://www.youtube.com/watch?v=qzhRidZTMy0)
 - [I Don't Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
 - [Belle and Sebastian- Do You Follow (Official Audio)](https://www.youtube.com/watch?v=eI3GFFR7bPE)
+- [Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
 - [Belle and Sebastian- Late Developers (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
 
 

@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Suede - Everything Will Flow
-{{< youtube id="iJKPP13Tqi4" title="Suede - Everything Will Flow" >}}<br>
+### Suede - Electricity (Official Video)
+{{< youtube id="ygHrqRx7Abg" title="Suede - Electricity (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Suede - Electricity (Official Video)](https://www.youtube.com/watch?v=ygHrqRx7Abg)
+- [Suede - Everything Will Flow](https://www.youtube.com/watch?v=iJKPP13Tqi4)
 - [Suede - She's In Fashion](https://www.youtube.com/watch?v=iNPA68htGxk)
 - [Suede - Can't Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
 - [Suede - Head Music (Full Album)](https://www.youtube.com/watch?v=ysFDcqnE7D4)

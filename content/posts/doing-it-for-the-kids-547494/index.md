@@ -40,12 +40,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988
-{{< youtube id="J5AyEsD0Tpk" title="The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988" >}}<br>
+### Primal Scream - All Fall Down
+{{< youtube id="4wi2bi9-ZUI" title="Primal Scream - All Fall Down" >}}<br>
 
 ### More Videos
 
-- [Primal Scream - All Fall Down](https://www.youtube.com/watch?v=4wi2bi9-ZUI)
 - [Pacific - Jetstream (Fanmade Video) (1988)](https://www.youtube.com/watch?v=Dul4i-Y5vU4)
 - [Felt - Ballad Of The Band](https://www.youtube.com/watch?v=FcQs4sng8CU)
 - [Jasmine Minks - Cut Me Deep](https://www.youtube.com/watch?v=38xbRxrnwqk)
@@ -53,6 +52,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Nikki Sudden & The Jacobites - Death Is Hanging Over Me](https://www.youtube.com/watch?v=gN08etKFUs8)
 - [Momus A Complete History Of Sexual Jealousy](https://www.youtube.com/watch?v=PAjpgAkeTj0)
 - [The Jazz Butcher - Lot 49](https://www.youtube.com/watch?v=f8EVyEaXu_I)
+- [The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988](https://www.youtube.com/watch?v=J5AyEsD0Tpk)
 - [Biff Bang Pow! - She Paints](https://www.youtube.com/watch?v=Ai4ifP6MA_M)
 - [Pacific - Jet stream (Audio)](https://www.youtube.com/watch?v=HLXXByTQH54)
 - [My Bloody Valentine - Cigarette In Your Bed](https://www.youtube.com/watch?v=P82V5TEEVWc)

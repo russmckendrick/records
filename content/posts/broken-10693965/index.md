@@ -36,13 +36,13 @@ styles: ["Industrial", "Industrial Metal"]
 
 
 ## Videos
-### Nine Inch Nails: Help Me I Am In Hell (1992)
-{{< youtube id="CBOhQamGGuI" title="Nine Inch Nails: Help Me I Am In Hell (1992)" >}}<br>
+### Nine Inch Nails - Pinion
+{{< youtube id="XfW0ke4bwI4" title="Nine Inch Nails - Pinion" >}}<br>
 
 ### More Videos
 
-- [Nine Inch Nails - Pinion](https://www.youtube.com/watch?v=XfW0ke4bwI4)
 - [Nine Inch Nails - Wish (Official Video)](https://www.youtube.com/watch?v=kuoFiIFkdAA)
+- [Nine Inch Nails: Help Me I Am In Hell (1992)](https://www.youtube.com/watch?v=CBOhQamGGuI)
 - [Nine Inch Nails: Gave Up (1992)](https://www.youtube.com/watch?v=yVpw1SwJRBI)
 
 

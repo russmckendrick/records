@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Sleater-Kinney - Can I Go On (Official Video)
-{{< youtube id="pB08AUiTP3w" title="Sleater-Kinney - Can I Go On (Official Video)" >}}<br>
+### Sleater-Kinney - The Center Won't Hold (Official Lyric Video)
+{{< youtube id="_xfPoLEJpgY" title="Sleater-Kinney - The Center Won't Hold (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Sleater-Kinney - The Center Won't Hold (Official Lyric Video)](https://www.youtube.com/watch?v=_xfPoLEJpgY)
+- [Sleater-Kinney - Can I Go On (Official Video)](https://www.youtube.com/watch?v=pB08AUiTP3w)
 - [Sleater-Kinney - The Future Is Here (Official Lyric Video)](https://www.youtube.com/watch?v=MP_2p79Ems4)
 
 

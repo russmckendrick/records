@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### Steve Earle & The Dukes - Dublin Blues [Audio Only]
-{{< youtube id="wrNWrG385hg" title="Steve Earle & The Dukes - Dublin Blues [Audio Only]" >}}<br>
+### Steve Earle & The Dukes - Far Away In Another Town [Audio Only]
+{{< youtube id="yqcFxkhM_i0" title="Steve Earle & The Dukes - Far Away In Another Town [Audio Only]" >}}<br>
 
 ### More Videos
 
-- [Steve Earle & The Dukes - Far Away In Another Town [Audio Only]](https://www.youtube.com/watch?v=yqcFxkhM_i0)
+- [Steve Earle & The Dukes - Dublin Blues [Audio Only]](https://www.youtube.com/watch?v=wrNWrG385hg)
 - [Steve Earle & The Dukes - Harlem River Blues [Audio Only]](https://www.youtube.com/watch?v=FXgtD3jfikk)
 - [Steve Earle & The Dukes - Champagne Corolla [Audio Only]](https://www.youtube.com/watch?v=JLYKGOeTSWo)
 - [Steve Earle & The Dukes - Last Words [Audio Only]](https://www.youtube.com/watch?v=RR2XPOYqSZI)

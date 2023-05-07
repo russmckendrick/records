@@ -42,12 +42,11 @@ styles: ["Heavy Metal", "Groove Metal"]
 
 
 ## Videos
-### Starface
-{{< youtube id="mGHQ6_-jK_A" title="Starface" >}}<br>
+### White Zombie - Welcome To Planet M.F.
+{{< youtube id="H8gHMU-pDbU" title="White Zombie - Welcome To Planet M.F." >}}<br>
 
 ### More Videos
 
-- [White Zombie - Welcome To Planet M.F.](https://www.youtube.com/watch?v=H8gHMU-pDbU)
 - [Beavis and Butt-Head - Do 'White Zombie - Thunder Kiss '65'](https://www.youtube.com/watch?v=NucbEh8vK7I)
 - [White Zombie – La Sexorcisto: Devil Music Vol. 1 (Promo Tape)](https://www.youtube.com/watch?v=MdVB5fXEFY0)
 - [Knuckle Duster (Radio 1-A)](https://www.youtube.com/watch?v=TdKMLrGpcgA)
@@ -61,6 +60,7 @@ styles: ["Heavy Metal", "Groove Metal"]
 - [Thrust!](https://www.youtube.com/watch?v=3g6AgWNcc4E)
 - [One Big Crunch](https://www.youtube.com/watch?v=oUfr7Hhd-Jg)
 - [Grindhouse (A Go-Go)](https://www.youtube.com/watch?v=iEGLwoi_x6A)
+- [Starface](https://www.youtube.com/watch?v=mGHQ6_-jK_A)
 - [Warp Asylum](https://www.youtube.com/watch?v=8Ni6q-qHn04)
 
 

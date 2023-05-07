@@ -39,14 +39,14 @@ styles: ["Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Doves – Complete C Side [ Some Cities LP ]
-{{< youtube id="48n2X7H5hTg" title="Doves – Complete C Side [ Some Cities LP ]" >}}<br>
+### Shadows Of Salford
+{{< youtube id="LR3rHOXQeeM" title="Shadows Of Salford" >}}<br>
 
 ### More Videos
 
-- [Shadows Of Salford](https://www.youtube.com/watch?v=LR3rHOXQeeM)
 - [Doves – Complete A Side [ Some Cities LP ]](https://www.youtube.com/watch?v=UYQfuM1PP8o)
 - [Doves – Complete B Side [ Some Cities LP ]](https://www.youtube.com/watch?v=_HrOy64dsCs)
+- [Doves – Complete C Side [ Some Cities LP ]](https://www.youtube.com/watch?v=48n2X7H5hTg)
 - [Doves – Complete D Side [ Some Cities LP ]](https://www.youtube.com/watch?v=s4bLp-MDgyI)
 - [Some Cities - Doves](https://www.youtube.com/watch?v=ceiBoqK_SPE)
 - [Doves - The Storm](https://www.youtube.com/watch?v=46ynKrD5nYM)

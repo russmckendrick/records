@@ -49,12 +49,11 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 
 
 ## Videos
-### The Flamingos - I Only Have Eyes For You
-{{< youtube id="63nlhoda2MY" title="The Flamingos - I Only Have Eyes For You" >}}<br>
+### THE FONZ SONG by The Heyettes (1976)
+{{< youtube id="wfM8UgSzopU" title="THE FONZ SONG by The Heyettes (1976)" >}}<br>
 
 ### More Videos
 
-- [THE FONZ SONG by The Heyettes (1976)](https://www.youtube.com/watch?v=wfM8UgSzopU)
 - [Happy Days intro](https://www.youtube.com/watch?v=6W6y7YhHdVE)
 - [Bobby Darin-Splish Splash](https://www.youtube.com/watch?v=oMCsc4Iqvqc)
 - [EVERLY BROS BIRD DOG 78 RPM RECORD](https://www.youtube.com/watch?v=qKkzhb9HJus)
@@ -64,6 +63,7 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 - [Bill Haley - Rock Around The Clock (1956)](https://www.youtube.com/watch?v=F5fsqYctXgM)
 - [Fonzerelli Slide](https://www.youtube.com/watch?v=PO7-jN9mLso)
 - [The Dubs - Could This Be Magic](https://www.youtube.com/watch?v=jsH418wCt3M)
+- [The Flamingos - I Only Have Eyes For You](https://www.youtube.com/watch?v=63nlhoda2MY)
 - [Tear's On My Pillow](https://www.youtube.com/watch?v=we2kmO24rgE)
 - [DOO WOP GOLD,MAYBE THE CHANTELS.](https://www.youtube.com/watch?v=vG-dv88RAMY)
 - [A Million To One- Jimmy Charles- 1960](https://www.youtube.com/watch?v=Jtej42eOdXA)

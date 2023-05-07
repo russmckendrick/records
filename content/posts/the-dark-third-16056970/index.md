@@ -61,17 +61,17 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Pure Reason Revolution - Goshen's Remains
-{{< youtube id="DDHW8bsHB0w" title="Pure Reason Revolution - Goshen's Remains" >}}<br>
+### Pure Reason Revolution - The Twyncyn / Trembilin Willows
+{{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
 
 ### More Videos
 
-- [Pure Reason Revolution - The Twyncyn / Trembilin Willows](https://www.youtube.com/watch?v=wwwIiyFmoxM)
 - [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
 - [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
 - [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
 - [Voices in Winter / In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
+- [Pure Reason Revolution - Goshen's Remains](https://www.youtube.com/watch?v=DDHW8bsHB0w)
 - [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
 - [Arrival / The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
 - [He Tried to Show Them Magic / Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)

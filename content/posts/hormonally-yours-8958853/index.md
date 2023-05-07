@@ -40,15 +40,15 @@ styles: []
 
 
 ## Videos
-### Shakespears Sister - I Don't Care
-{{< youtube id="5IU3TNo_WcY" title="Shakespears Sister - I Don't Care" >}}<br>
+### Shakespears Sister - Stay (Official Video)
+{{< youtube id="YCYaALgW80c" title="Shakespears Sister - Stay (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Shakespears Sister - Stay (Official Video)](https://www.youtube.com/watch?v=YCYaALgW80c)
 - [Shakespears Sister - Hello (Turn Your Radio On) (Official Video)](https://www.youtube.com/watch?v=IrbFydtLF-Y)
 - [Shakespears Sister - Goodbye Cruel World (Official Video)](https://www.youtube.com/watch?v=pSH5yQ9y51M)
 - [Shakespears Sister - I Don't Care (Official Video)](https://www.youtube.com/watch?v=d022vGBC75o)
+- [Shakespears Sister - I Don't Care](https://www.youtube.com/watch?v=5IU3TNo_WcY)
 - [Shakespears Sister 'I Don't Care'](https://www.youtube.com/watch?v=-odnJZIyc2g)
 - [Shakespears Sister - Goodbye Cruel World](https://www.youtube.com/watch?v=C575XA836cY)
 

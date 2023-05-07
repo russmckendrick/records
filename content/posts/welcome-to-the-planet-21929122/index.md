@@ -37,12 +37,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)
-{{< youtube id="xuBVD39b4cw" title="B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)" >}}<br>
+### Welcome to the Planet
+{{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}<br>
 
 ### More Videos
 
-- [Welcome to the Planet](https://www.youtube.com/watch?v=grdDTkrbeNs)
+- [B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)](https://www.youtube.com/watch?v=xuBVD39b4cw)
 
 
 ## Release Information

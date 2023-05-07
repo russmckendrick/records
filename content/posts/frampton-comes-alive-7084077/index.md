@@ -42,14 +42,14 @@ styles: ["Rock & Roll", "Pop Rock"]
 
 
 ## Videos
-### Lines On My Face (Live In The United States/1976)
-{{< youtube id="_FnhDVaeG6M" title="Lines On My Face (Live In The United States/1976)" >}}<br>
+### Do You Feel Like We Do (Live In The United States/1976)
+{{< youtube id="hUioud7Qtsw" title="Do You Feel Like We Do (Live In The United States/1976)" >}}<br>
 
 ### More Videos
 
-- [Do You Feel Like We Do (Live In The United States/1976)](https://www.youtube.com/watch?v=hUioud7Qtsw)
 - [Days Dawning (Live)](https://www.youtube.com/watch?v=vpe5buHsr54)
 - [Something's Happening (Live In The United States/1976)](https://www.youtube.com/watch?v=pc5Rz-Mpu4o)
+- [Lines On My Face (Live In The United States/1976)](https://www.youtube.com/watch?v=_FnhDVaeG6M)
 
 
 ## Release Information

@@ -44,12 +44,11 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 
 
 ## Videos
-### Dj shadow-organ donor (extended overhaul)
-{{< youtube id="1p1n-j_MQKE" title="Dj shadow-organ donor (extended overhaul)" >}}<br>
+### Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace
+{{< youtube id="VKW-67YNkqo" title="Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace" >}}<br>
 
 ### More Videos
 
-- [Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
 - [Zimbabwe Legit - Doin' Damage In My Native Language (Shadow's Legitimate Mix)](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
 - [Marie Queenie Lyons - See And Don't See](https://www.youtube.com/watch?v=PwcEFnwbVuo)
 - [The Wild Bunch ‎– Friends & Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
@@ -62,6 +61,7 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 - [UNKLE-Back And Forth-In A State](https://www.youtube.com/watch?v=RraRrDvXuq8)
 - [DJ Shadow - What Does Your Soul Look Like (Part 3)](https://www.youtube.com/watch?v=NSEQYDjKVNs)
 - [RPM - Flow](https://www.youtube.com/watch?v=FEyKjxhOqVY)
+- [Dj shadow-organ donor (extended overhaul)](https://www.youtube.com/watch?v=1p1n-j_MQKE)
 - [UNKLE feat. Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
 - [Blackalicious - Swan lake](https://www.youtube.com/watch?v=sGEkP1F-tgQ)
 - [Ian Brown & U.N.K.L.E - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)

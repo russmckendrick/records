@@ -39,13 +39,13 @@ styles: ["Leftfield", "Synth-pop"]
 
 
 ## Videos
-### Long Summer Days
-{{< youtube id="w8DnOwohmG8" title="Long Summer Days" >}}<br>
+### EMF - Children (Official Music Video)
+{{< youtube id="fN7XEB31uow" title="EMF - Children (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [EMF - Children (Official Music Video)](https://www.youtube.com/watch?v=fN7XEB31uow)
 - [Children](https://www.youtube.com/watch?v=FHoLIZtzxbY)
+- [Long Summer Days](https://www.youtube.com/watch?v=w8DnOwohmG8)
 - [When You're Mine](https://www.youtube.com/watch?v=XjjUqJc3wBQ)
 - [Travelling Not Running](https://www.youtube.com/watch?v=ofZBwZkuSy4)
 - [I Believe](https://www.youtube.com/watch?v=-iAmTM2fTEU)

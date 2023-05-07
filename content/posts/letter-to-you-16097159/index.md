@@ -40,16 +40,16 @@ styles: ["Arena Rock", "Classic Rock"]
 
 
 ## Videos
-### Bruce Springsteen - The Power Of Prayer (Official Audio)
-{{< youtube id="Jb-m9SJKboE" title="Bruce Springsteen - The Power Of Prayer (Official Audio)" >}}<br>
+### Bruce Springsteen - One Minute You're Here (Official Audio)
+{{< youtube id="s-RT3nxr3T4" title="Bruce Springsteen - One Minute You're Here (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Bruce Springsteen - One Minute You're Here (Official Audio)](https://www.youtube.com/watch?v=s-RT3nxr3T4)
 - [Bruce Springsteen - Letter To You (Official Video)](https://www.youtube.com/watch?v=AQyLEz0qy-g)
 - [Bruce Springsteen - Burnin' Train (Official Audio)](https://www.youtube.com/watch?v=tTwpR6SCyRw)
 - [Bruce Springsteen - Janey Needs A Shooter (Official Audio)](https://www.youtube.com/watch?v=A_BRCRkAkAE)
 - [Bruce Springsteen - Last Man Standing (Official Audio)](https://www.youtube.com/watch?v=YE6l-_g814I)
+- [Bruce Springsteen - The Power Of Prayer (Official Audio)](https://www.youtube.com/watch?v=Jb-m9SJKboE)
 - [Bruce Springsteen - House Of A Thousand Guitars (Official Audio)](https://www.youtube.com/watch?v=KzvnEvbL-qs)
 - [Bruce Springsteen - Rainmaker (Official Audio)](https://www.youtube.com/watch?v=E_0pQTEhj8A)
 - [Bruce Springsteen - If I Was The Priest (Official Audio)](https://www.youtube.com/watch?v=izbq7IUYja0)

@@ -39,12 +39,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Stevie Nix
-{{< youtube id="IapupJ1gf9I" title="Stevie Nix" >}}<br>
+### The Hold Steady - How a Resurrection Really Feels
+{{< youtube id="PFiiq2sFD7E" title="The Hold Steady - How a Resurrection Really Feels" >}}<br>
 
 ### More Videos
 
-- [The Hold Steady - How a Resurrection Really Feels](https://www.youtube.com/watch?v=PFiiq2sFD7E)
+- [Stevie Nix](https://www.youtube.com/watch?v=IapupJ1gf9I)
 - [The Hold Steady - Cattle and the Creeping Things](https://www.youtube.com/watch?v=vH73KPV11hE)
 - [Charlemagne in Sweatpants](https://www.youtube.com/watch?v=a1Garm5R3nU)
 - [How a Resurrection Really Feels](https://www.youtube.com/watch?v=OYI4Xj-l1rk)

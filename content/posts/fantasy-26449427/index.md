@@ -41,16 +41,16 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 
 
 ## Videos
-### M83 - 'Laura' (Official Audio)
-{{< youtube id="lZG2c824nrE" title="M83 - 'Laura' (Official Audio)" >}}<br>
+### M83 - 'Oceans Niagara' (Official Music Video)
+{{< youtube id="ryFV9dORPPw" title="M83 - 'Oceans Niagara' (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [M83 - 'Oceans Niagara' (Official Music Video)](https://www.youtube.com/watch?v=ryFV9dORPPw)
 - [M83 - 'Fantasy' (Official Audio)](https://www.youtube.com/watch?v=vmdwiWPrJNE)
 - [M83 - 'Kool Nuit' feat. Kaela (Official Audio)](https://www.youtube.com/watch?v=q2A62QzfnJM)
 - [M83 - 'Deceiver' (Official Audio)](https://www.youtube.com/watch?v=COwo1n3W8Dk)
 - [M83 - 'Dismemberment Bureau' (Official Audio)](https://www.youtube.com/watch?v=yMsU1k9tlWA)
+- [M83 - 'Laura' (Official Audio)](https://www.youtube.com/watch?v=lZG2c824nrE)
 - [M83 - 'Sunny Boy' (Official Audio)](https://www.youtube.com/watch?v=lzbO0_Bk0ac)
 - [M83 - 'Amnesia' (Official Audio)](https://www.youtube.com/watch?v=6zNqhzl2Qv0)
 - [M83 - 'Sunny Boy Part 2' (Official Audio)](https://www.youtube.com/watch?v=T62NBKtEhlU)

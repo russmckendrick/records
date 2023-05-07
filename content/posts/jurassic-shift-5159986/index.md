@@ -38,12 +38,11 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 
 
 ## Videos
-### Ozric Tentacles - Vita Voom.wmv
-{{< youtube id="ZRQBaiV853c" title="Ozric Tentacles - Vita Voom.wmv" >}}<br>
+### Sunhair (2020 Ed Wynne Remaster)
+{{< youtube id="FDixlKkQR2w" title="Sunhair (2020 Ed Wynne Remaster)" >}}<br>
 
 ### More Videos
 
-- [Sunhair (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=FDixlKkQR2w)
 - [Stretchy (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=S-82W6gVEt8)
 - [Feng Shui (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=K0hWabelX9w)
 - [Half Light In Thillai](https://www.youtube.com/watch?v=gqMdQxn8RRQ)
@@ -59,6 +58,7 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 - [Ozric Tentacles - Jurassic Shift Pt 2](https://www.youtube.com/watch?v=cxPcDQA0WPI)
 - [Ozric Tentacles - Pteranodon](https://www.youtube.com/watch?v=TMydRUWYkq0)
 - [Ozric Tentacles - Half Light In Thillai](https://www.youtube.com/watch?v=Q60TpTnK1Bs)
+- [Ozric Tentacles - Vita Voom.wmv](https://www.youtube.com/watch?v=ZRQBaiV853c)
 - [Ozric Tentacles - Train Oasis](https://www.youtube.com/watch?v=wgjEguBHbv4)
 - [Ozric Tentacles - Feng Shui (Live)](https://www.youtube.com/watch?v=M9CjobOAPoQ)
 

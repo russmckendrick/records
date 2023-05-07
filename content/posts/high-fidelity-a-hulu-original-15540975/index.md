@@ -36,13 +36,13 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Darondo - Didn't I [HQ - REMASTER]
-{{< youtube id="PZqQT5904_U" title="Darondo - Didn't I [HQ - REMASTER]" >}}<br>
+### Ann Peebles - I can't stand the Rain 1974
+{{< youtube id="A09GZeORYlo" title="Ann Peebles - I can't stand the Rain 1974" >}}<br>
 
 ### More Videos
 
-- [Ann Peebles - I can't stand the Rain 1974](https://www.youtube.com/watch?v=A09GZeORYlo)
 - [High Fidelity: Opening Scene • A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
+- [Darondo - Didn't I [HQ - REMASTER]](https://www.youtube.com/watch?v=PZqQT5904_U)
 - [I'll Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
 - [Come On Eileen](https://www.youtube.com/watch?v=GbpnAGajyMc)
 - [Tiebreaker](https://www.youtube.com/watch?v=WgPCuiBPVR0)

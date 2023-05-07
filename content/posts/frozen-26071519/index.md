@@ -29,13 +29,13 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 
 
 ## Videos
-### Curve - Coast is clear
-{{< youtube id="k8kObm7NfQY" title="Curve - Coast is clear" >}}<br>
+### Curve Frozen
+{{< youtube id="q8_5TC1s0wQ" title="Curve Frozen" >}}<br>
 
 ### More Videos
 
-- [Curve Frozen](https://www.youtube.com/watch?v=q8_5TC1s0wQ)
 - [Curve - The colour hurts](https://www.youtube.com/watch?v=wv9NKUiKR4U)
+- [Curve - Coast is clear](https://www.youtube.com/watch?v=k8kObm7NfQY)
 - [Curve - Zoo](https://www.youtube.com/watch?v=kKvzP8j13_o)
 - [Curve - Coast is clear](https://www.youtube.com/watch?v=lqtxTl4m6l4)
 - [Curve - Frozen](https://www.youtube.com/watch?v=vAANdjxEKlU)

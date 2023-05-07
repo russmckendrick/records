@@ -37,12 +37,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Flying Colors - Cosmic Symphony
-{{< youtube id="mUYEWrsRSU4" title="Flying Colors - Cosmic Symphony" >}}<br>
+### Flying Colors - Open Up Your Eyes
+{{< youtube id="vXj2VF9eLYg" title="Flying Colors - Open Up Your Eyes" >}}<br>
 
 ### More Videos
 
-- [Flying Colors - Open Up Your Eyes](https://www.youtube.com/watch?v=vXj2VF9eLYg)
+- [Flying Colors - Cosmic Symphony](https://www.youtube.com/watch?v=mUYEWrsRSU4)
 
 
 ## Release Information

@@ -36,14 +36,14 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 
 
 ## Videos
-### Mass Hypnosis
-{{< youtube id="TRe6ohm3FeE" title="Mass Hypnosis" >}}<br>
+### Bill Fisher - Celador (Official Music Video)
+{{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Bill Fisher - Celador (Official Music Video)](https://www.youtube.com/watch?v=ZF0XltdLn88)
 - [Bill Fisher - Psychopathy (Official Music Video)](https://www.youtube.com/watch?v=sUUy8JNoSKg)
 - [The Dark Triad](https://www.youtube.com/watch?v=AQdwH-cBFo8)
+- [Mass Hypnosis](https://www.youtube.com/watch?v=TRe6ohm3FeE)
 - [Days of Old](https://www.youtube.com/watch?v=w0bWFudPqIo)
 - [Message from the Sky](https://www.youtube.com/watch?v=PANvt5h_7qE)
 - [Mirror of Tomorrow](https://www.youtube.com/watch?v=I-Au5S3LRrs)

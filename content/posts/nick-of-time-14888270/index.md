@@ -41,16 +41,16 @@ styles: ["Soul"]
 
 
 ## Videos
-### Nick of Time
-{{< youtube id="CSuYDcgNusc" title="Nick of Time" >}}<br>
+### I Can Change Your Mind
+{{< youtube id="h-7hfMvA6Lc" title="I Can Change Your Mind" >}}<br>
 
 ### More Videos
 
-- [I Can Change Your Mind](https://www.youtube.com/watch?v=h-7hfMvA6Lc)
 - [Who's Fooling Who](https://www.youtube.com/watch?v=FEooO3WtAv4)
 - [Till I Hear It From You](https://www.youtube.com/watch?v=C-OPn3Y3krE)
 - [Never](https://www.youtube.com/watch?v=USWqRiFo8nM)
 - [Missing in Action](https://www.youtube.com/watch?v=Asc2oHBZgok)
+- [Nick of Time](https://www.youtube.com/watch?v=CSuYDcgNusc)
 - [Brother or Other](https://www.youtube.com/watch?v=ziRNbu8pOSE)
 - [Ain't Goin' Up in One of Those Things](https://www.youtube.com/watch?v=2dDBZodjoVI)
 - [Take It As You Find It](https://www.youtube.com/watch?v=EAYUA_OJK3I)

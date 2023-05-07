@@ -28,12 +28,11 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### Ghost Town (Re-Recorded)
-{{< youtube id="bUpuTqCW41I" title="Ghost Town (Re-Recorded)" >}}<br>
+### The Specials - Ghost Town [Official HD Remastered Video]
+{{< youtube id="RZ2oXzrnti4" title="The Specials - Ghost Town [Official HD Remastered Video]" >}}<br>
 
 ### More Videos
 
-- [The Specials - Ghost Town [Official HD Remastered Video]](https://www.youtube.com/watch?v=RZ2oXzrnti4)
 - [The Specials ‎– The Conquering Ruler LP (2001) [VINYL RIP] *HQ AUDIO* *RE-ENGINEERED*](https://www.youtube.com/watch?v=mELEK9q4QjY)
 - [The Specials - Why?](https://www.youtube.com/watch?v=a8PoqDzQ5qs)
 - [The Specials - Ghost Town Music Video](https://www.youtube.com/watch?v=MsH_6VL6K58)
@@ -59,6 +58,7 @@ styles: ["Ska", "Rocksteady"]
 - [Ghost Town (Extended Version)](https://www.youtube.com/watch?v=qiCxtmIDq5I)
 - [Ghost Town](https://www.youtube.com/watch?v=d0qnu1ZYcys)
 - [Ghost Town](https://www.youtube.com/watch?v=X46whHwfEdo)
+- [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=bUpuTqCW41I)
 - [Ghost Town](https://www.youtube.com/watch?v=UF392XbwzPk)
 - [Ghost Town](https://www.youtube.com/watch?v=njEAldevfpc)
 - [Ghost Town](https://www.youtube.com/watch?v=TMRcz1-Cl4k)

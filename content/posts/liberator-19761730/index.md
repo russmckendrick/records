@@ -40,15 +40,15 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Agnus Dei
-{{< youtube id="5ScXTwAF8TY" title="Agnus Dei" >}}<br>
+### Dream Of Me (Based On Love's Theme)
+{{< youtube id="Vc-d3FGoxDI" title="Dream Of Me (Based On Love's Theme)" >}}<br>
 
 ### More Videos
 
-- [Dream Of Me (Based On Love's Theme)](https://www.youtube.com/watch?v=Vc-d3FGoxDI)
 - [Orchestral Manoeuvres In The Dark - Stand Above Me](https://www.youtube.com/watch?v=HewK0qkT7OI)
 - [Love And Hate You](https://www.youtube.com/watch?v=WoIo7_zvBuE)
 - [Best Years Of Our Lives](https://www.youtube.com/watch?v=xY1fe9h7l7E)
+- [Agnus Dei](https://www.youtube.com/watch?v=5ScXTwAF8TY)
 - [Heaven Is](https://www.youtube.com/watch?v=8Q13k_EQwyA)
 - [Stand Above Me](https://www.youtube.com/watch?v=cTrkwjwasB8)
 - [Only Tears](https://www.youtube.com/watch?v=duHtik7Ph48)

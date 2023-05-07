@@ -35,12 +35,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Turn That Heartbeat Over Again
-{{< youtube id="DSfiPrhpeF8" title="Turn That Heartbeat Over Again" >}}<br>
+### Do It Again
+{{< youtube id="jmdiKePVUy8" title="Do It Again" >}}<br>
 
 ### More Videos
 
-- [Do It Again](https://www.youtube.com/watch?v=jmdiKePVUy8)
 - [Dirty Work](https://www.youtube.com/watch?v=kR5Ki6jjPaY)
 - [Kings](https://www.youtube.com/watch?v=mNBTUJbnN1o)
 - [Midnite Cruiser](https://www.youtube.com/watch?v=ZBtHA6POwp0)
@@ -49,6 +48,7 @@ styles: ["Pop Rock"]
 - [Fire In The Hole](https://www.youtube.com/watch?v=9PwkU4nsJM8)
 - [Brooklyn (Owes The Charmer Under Me)](https://www.youtube.com/watch?v=vO4I10PeweI)
 - [Change Of The Guard](https://www.youtube.com/watch?v=roLIYw8Ov_I)
+- [Turn That Heartbeat Over Again](https://www.youtube.com/watch?v=DSfiPrhpeF8)
 
 
 ## Release Information

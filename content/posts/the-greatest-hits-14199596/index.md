@@ -53,12 +53,12 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Thunder - Everybody Wants Her (Official Video)
-{{< youtube id="rrISpBSWN30" title="Thunder - Everybody Wants Her (Official Video)" >}}<br>
+### Thunder – She’s So Fine (Official Video)
+{{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Thunder – She’s So Fine (Official Video)](https://www.youtube.com/watch?v=Lu24Cmwlpwo)
+- [Thunder - Everybody Wants Her (Official Video)](https://www.youtube.com/watch?v=rrISpBSWN30)
 
 
 ## Release Information

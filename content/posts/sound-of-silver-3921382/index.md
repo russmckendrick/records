@@ -37,13 +37,13 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 
 
 ## Videos
-### LCD Soundsystem - Get Innocuous (HD)
-{{< youtube id="Ve9Y-dl40sQ" title="LCD Soundsystem - Get Innocuous (HD)" >}}<br>
+### LCD Soundsystem - North American Scum (Official Video)
+{{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}<br>
 
 ### More Videos
 
-- [LCD Soundsystem - North American Scum (Official Video)](https://www.youtube.com/watch?v=gJ2np7R-Uwg)
 - [Get Innocuous!](https://www.youtube.com/watch?v=0GpLkFv-CKU)
+- [LCD Soundsystem - Get Innocuous (HD)](https://www.youtube.com/watch?v=Ve9Y-dl40sQ)
 - [Time to Get Away](https://www.youtube.com/watch?v=K1SKj0jV-6M)
 - [North American Scum](https://www.youtube.com/watch?v=bu0_YRgZrEQ)
 - [Someone Great](https://www.youtube.com/watch?v=eISo-iFGGDg)

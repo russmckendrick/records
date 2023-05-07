@@ -40,12 +40,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Party in the Sky
-{{< youtube id="gyG00HOZ1fA" title="Party in the Sky" >}}<br>
+### Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)
+{{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)](https://www.youtube.com/watch?v=DPTpBoYVD8Q)
+- [Party in the Sky](https://www.youtube.com/watch?v=gyG00HOZ1fA)
 - [Plutoman](https://www.youtube.com/watch?v=ZirJBqyGWbE)
 - [Uniform](https://www.youtube.com/watch?v=0THP1NubPmI)
 - [Lovegrove](https://www.youtube.com/watch?v=8GCdt66PINI)

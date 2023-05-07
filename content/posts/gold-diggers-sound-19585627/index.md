@@ -39,17 +39,17 @@ styles: ["Soul", "Contemporary R&B"]
 
 
 ## Videos
-### Leon Bridges - Why Don't You Touch Me: Part 1 (Official Video)
-{{< youtube id="TqgMx3eWdYg" title="Leon Bridges - Why Don't You Touch Me: Part 1 (Official Video)" >}}<br>
+### Leon Bridges - Motorbike (Official Video)
+{{< youtube id="Y9OMJ0HvPbk" title="Leon Bridges - Motorbike (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Leon Bridges - Motorbike (Official Video)](https://www.youtube.com/watch?v=Y9OMJ0HvPbk)
 - [Leon Bridges - Steam (Official Video)](https://www.youtube.com/watch?v=c7IxY6CTiVA)
 - [Leon Bridges - Details (Official Audio)](https://www.youtube.com/watch?v=3izvKqufprY)
 - [Leon Bridges - Sho Nuff (Official Audio)](https://www.youtube.com/watch?v=L5TSafwHkV8)
 - [Leon Bridges - Blue Mesas (Official Audio)](https://www.youtube.com/watch?v=2QjPc81E09A)
 - [Leon Bridges, Robert Glasper - Born Again (Official Audio)](https://www.youtube.com/watch?v=qD04kpUV3nc)
+- [Leon Bridges - Why Don't You Touch Me: Part 1 (Official Video)](https://www.youtube.com/watch?v=TqgMx3eWdYg)
 - [Leon Bridges - Don't Worry (Official Audio) ft. Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
 - [Leon Bridges - Sweeter (Official Video) ft. Terrace Martin](https://www.youtube.com/watch?v=35AWgksymtA)
 - [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)

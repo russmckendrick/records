@@ -42,12 +42,11 @@ styles: ["Punk"]
 
 
 ## Videos
-### Then I Kissed Her (Demo)
-{{< youtube id="FnEmV-zPAao" title="Then I Kissed Her (Demo)" >}}<br>
+### I Don't Need to Tell Her
+{{< youtube id="YQPuZfv1PdI" title="I Don't Need to Tell Her" >}}<br>
 
 ### More Videos
 
-- [I Don't Need to Tell Her](https://www.youtube.com/watch?v=YQPuZfv1PdI)
 - [Total War](https://www.youtube.com/watch?v=FvDz7WVD9kQ)
 - [Hey You](https://www.youtube.com/watch?v=Sr-DPx0qPeQ)
 - [Shadow](https://www.youtube.com/watch?v=gH5k8TdX78A)
@@ -64,6 +63,7 @@ styles: ["Punk"]
 - [We Are The Chaos Bros. (Fulham Fallout Firty Free)](https://www.youtube.com/watch?v=5sSs_spaMe4)
 - [Be My Prisoner (Streets Version)](https://www.youtube.com/watch?v=7H2S0ySpHzI)
 - [Total War (Demo)](https://www.youtube.com/watch?v=seaN3qLMnqs)
+- [Then I Kissed Her (Demo)](https://www.youtube.com/watch?v=FnEmV-zPAao)
 - [I Love the Dark (Demo)](https://www.youtube.com/watch?v=raIG1_yTzq4)
 - [Freak Show (LP Demo)](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
 

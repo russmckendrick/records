@@ -40,13 +40,13 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Walking On The Milky Way
-{{< youtube id="GeXNQqlyMfw" title="Walking On The Milky Way" >}}<br>
+### OMD Universal Vinyl LP Walking in the Milky Way
+{{< youtube id="LdF4ejCuzTk" title="OMD Universal Vinyl LP Walking in the Milky Way" >}}<br>
 
 ### More Videos
 
-- [OMD Universal Vinyl LP Walking in the Milky Way](https://www.youtube.com/watch?v=LdF4ejCuzTk)
 - [OMD Universal](https://www.youtube.com/watch?v=Knp3eCjGbQI)
+- [Walking On The Milky Way](https://www.youtube.com/watch?v=GeXNQqlyMfw)
 - [Very Close To Far Away](https://www.youtube.com/watch?v=GozYmddBK80)
 
 

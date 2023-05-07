@@ -44,12 +44,11 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Passin' Me By by The Pharcyde from Bizarre Ride II The Pharcyde
-{{< youtube id="UYN1ODw4wM8" title="Passin' Me By by The Pharcyde from Bizarre Ride II The Pharcyde" >}}<br>
+### 4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde
+{{< youtube id="VDieujZyzzM" title="4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde" >}}<br>
 
 ### More Videos
 
-- [4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VDieujZyzzM)
 - [Oh S*** by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=QdANlTrjXBg)
 - [It's Jigaboo Time (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=emY7MNY3SIY)
 - [4 Better or 4 Worse  by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=kg8YrFgtznU)
@@ -60,6 +59,7 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 - [Pack The Pipe by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=3jXYwF6hl-I)
 - [Officer by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=sby8NMiNlmo)
 - [Ya Mama by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=g3SZK9-PfZw)
+- [Passin' Me By by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=UYN1ODw4wM8)
 - [Otha Fish by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=0ra4_t8kPXE)
 - [Quinton's On The Way (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
 - [Return of the B-Boy by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4NR4b1bbls4)

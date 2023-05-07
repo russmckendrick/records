@@ -34,12 +34,12 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 
 
 ## Videos
-### Jean Michel Jarre - First Rendez - Vous
-{{< youtube id="iFcmxcO7AFg" title="Jean Michel Jarre - First Rendez - Vous" >}}<br>
+### Jean Michel Jarre - Rendez Vous
+{{< youtube id="qcf3eGVPlZE" title="Jean Michel Jarre - Rendez Vous" >}}<br>
 
 ### More Videos
 
-- [Jean Michel Jarre - Rendez Vous](https://www.youtube.com/watch?v=qcf3eGVPlZE)
+- [Jean Michel Jarre - First Rendez - Vous](https://www.youtube.com/watch?v=iFcmxcO7AFg)
 - [Rendez-vous, Second Rendez-Vous](https://www.youtube.com/watch?v=6ZxBuqStdTA)
 - [Jean Michel Jarre - Third Rendez - Vous](https://www.youtube.com/watch?v=NbCk8MWFnnM)
 - [Jean Michel Jarre - Fourth Rendez - Vous](https://www.youtube.com/watch?v=hKirGBRLQik)

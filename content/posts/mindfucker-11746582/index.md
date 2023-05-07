@@ -40,13 +40,13 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records
-{{< youtube id="tsvvS142wWg" title="MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records" >}}<br>
+### MONSTER MAGNET - Ejection (Official Video) | Napalm Records
+{{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection (Official Video) | Napalm Records" >}}<br>
 
 ### More Videos
 
-- [MONSTER MAGNET - Ejection (Official Video) | Napalm Records](https://www.youtube.com/watch?v=odiGshPzmlI)
 - [MONSTER MAGNET - I'm God (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
+- [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
 - [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
 

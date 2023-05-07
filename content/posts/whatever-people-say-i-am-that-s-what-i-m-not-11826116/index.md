@@ -41,12 +41,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Perhaps Vampires Is A Bit Strong But…
-{{< youtube id="53y82WWjea0" title="Perhaps Vampires Is A Bit Strong But…" >}}<br>
+### Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)
+{{< youtube id="pK7egZaT3hs" title="Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)](https://www.youtube.com/watch?v=pK7egZaT3hs)
 - [Arctic Monkeys - The View From The Afternoon (Official Video)](https://www.youtube.com/watch?v=PeQAZsyucbQ)
 - [Arctic Monkeys - When The Sun Goes Down (Official Video)](https://www.youtube.com/watch?v=EqkBRVukQmE)
 - [I Bet You Look Good On The Dancefloor](https://www.youtube.com/watch?v=CYpn8yUnX_c)
@@ -56,6 +55,7 @@ styles: ["Indie Rock"]
 - [Riot Van](https://www.youtube.com/watch?v=a62FZZa3fjE)
 - [Red Light Indicates Doors Are Secured](https://www.youtube.com/watch?v=u8PjGQLO9mI)
 - [Mardy Bum](https://www.youtube.com/watch?v=dO368WjwyFs)
+- [Perhaps Vampires Is A Bit Strong But…](https://www.youtube.com/watch?v=53y82WWjea0)
 - [From The Ritz To The Rubble](https://www.youtube.com/watch?v=H8bNHRVwzyA)
 - [A Certain Romance](https://www.youtube.com/watch?v=zMupng6KQeE)
 

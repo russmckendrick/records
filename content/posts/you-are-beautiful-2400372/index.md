@@ -38,12 +38,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Funky Weekend - The Stylistics
-{{< youtube id="kqMWcaIXi2Y" title="Funky Weekend - The Stylistics" >}}<br>
+### Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)
+{{< youtube id="Jx70sfKwyZk" title="Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)" >}}<br>
 
 ### More Videos
 
-- [Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)](https://www.youtube.com/watch?v=Jx70sfKwyZk)
+- [Funky Weekend - The Stylistics](https://www.youtube.com/watch?v=kqMWcaIXi2Y)
 - [The Stylistics       You Are Beautiful](https://www.youtube.com/watch?v=yYuWLInzYCA)
 - [Stylistics -You Are Beautiful/ A3 That Don't Shake Me 3:15/Avco 1975](https://www.youtube.com/watch?v=za04lLFqchw)
 

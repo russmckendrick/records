@@ -38,13 +38,13 @@ styles: []
 
 
 ## Videos
-### More Stately Mansions
-{{< youtube id="8iUXhcEhyK0" title="More Stately Mansions" >}}<br>
+### CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)
+{{< youtube id="w4fZO6j6I2s" title="CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=w4fZO6j6I2s)
 - [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
+- [More Stately Mansions](https://www.youtube.com/watch?v=8iUXhcEhyK0)
 - [House](https://www.youtube.com/watch?v=V4YvBiOknoc)
 - [Hammers](https://www.youtube.com/watch?v=FSMm4tvvuLc)
 - [MacbethMacbethMacbeth](https://www.youtube.com/watch?v=qu6jzDyGJ4I)

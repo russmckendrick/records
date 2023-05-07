@@ -40,17 +40,17 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Tumble in the Rough
-{{< youtube id="cjLiO7BlpuI" title="Tumble in the Rough" >}}<br>
+### Stone Temple Pilots - Big Bang Baby (Official Music Video)
+{{< youtube id="G0gAxuvo5rc" title="Stone Temple Pilots - Big Bang Baby (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Stone Temple Pilots - Big Bang Baby (Official Music Video)](https://www.youtube.com/watch?v=G0gAxuvo5rc)
 - [Stone Temple Pilots - Trippin' On A Hole In A Paper Heart (Official Music Video)](https://www.youtube.com/watch?v=HVPzWkdhwrw)
 - [Stone Temple Pilots - Lady Picture Show (Official Music Video)](https://www.youtube.com/watch?v=ds_43MdYiuQ)
 - [Stone Temple Pilots - And So I Know (Official Music Video)](https://www.youtube.com/watch?v=iGK5uFmhGdA)
 - [Seven Caged Tigers](https://www.youtube.com/watch?v=jVb7XdQIhYs)
 - [Adhesive](https://www.youtube.com/watch?v=qXkL4Ug-b2Y)
+- [Tumble in the Rough](https://www.youtube.com/watch?v=cjLiO7BlpuI)
 - [Press Play](https://www.youtube.com/watch?v=XYnRNBYKYhs)
 - [Daisy](https://www.youtube.com/watch?v=hNffAjfpo7w)
 - [Ride the Cliché](https://www.youtube.com/watch?v=RzYu50mxrjo)

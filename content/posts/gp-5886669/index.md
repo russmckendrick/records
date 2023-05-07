@@ -39,12 +39,11 @@ styles: ["Country", "Country Rock"]
 
 
 ## Videos
-### How Much I've Lied (Remastered Version)
-{{< youtube id="WhGP3bGaFxY" title="How Much I've Lied (Remastered Version)" >}}<br>
+### Still Feeling Blue (Remastered Version)
+{{< youtube id="zmu6jygpD00" title="Still Feeling Blue (Remastered Version)" >}}<br>
 
 ### More Videos
 
-- [Still Feeling Blue (Remastered Version)](https://www.youtube.com/watch?v=zmu6jygpD00)
 - [We'll Sweep out the Ashes in the Morning (2007 Remaster)](https://www.youtube.com/watch?v=V8c2SI1bq1E)
 - [A Song for You (Remastered Version)](https://www.youtube.com/watch?v=unohYEFELoo)
 - [Streets of Baltimore (2007 Remaster)](https://www.youtube.com/watch?v=Xi0c2clOqp0)
@@ -53,6 +52,7 @@ styles: ["Country", "Country Rock"]
 - [The New Soft Shoe (Remastered Version)](https://www.youtube.com/watch?v=F7K8KmjYA7g)
 - [Kiss the Children (Remastered Version)](https://www.youtube.com/watch?v=gkatnTSEAcY)
 - [Cry One More Time (Remastered Version)](https://www.youtube.com/watch?v=Lt2AsJl_zzc)
+- [How Much I've Lied (Remastered Version)](https://www.youtube.com/watch?v=WhGP3bGaFxY)
 - [Big Mouth Blues (Remastered Version)](https://www.youtube.com/watch?v=u9YANfKuPt4)
 
 

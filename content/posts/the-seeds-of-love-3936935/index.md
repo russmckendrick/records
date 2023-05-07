@@ -36,12 +36,12 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 
 
 ## Videos
-### Tea̲rs fo̲r Fea̲rs - Th̲e See̲ds of Lov̲e [Full Album] 1989
-{{< youtube id="BP3mq_LoFWQ" title="Tea̲rs fo̲r Fea̲rs - Th̲e See̲ds of Lov̲e [Full Album] 1989" >}}<br>
+### Tears For Fears - Sowing The Seeds Of Love
+{{< youtube id="VAtGOESO7W8" title="Tears For Fears - Sowing The Seeds Of Love" >}}<br>
 
 ### More Videos
 
-- [Tears For Fears - Sowing The Seeds Of Love](https://www.youtube.com/watch?v=VAtGOESO7W8)
+- [Tea̲rs fo̲r Fea̲rs - Th̲e See̲ds of Lov̲e [Full Album] 1989](https://www.youtube.com/watch?v=BP3mq_LoFWQ)
 
 
 ## Release Information

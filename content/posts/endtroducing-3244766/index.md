@@ -42,13 +42,13 @@ styles: ["Instrumental", "Cut-up/DJ", "Downtempo"]
 
 
 ## Videos
-### Building Steam With A Grain Of Salt
-{{< youtube id="dt-EhEsdbEQ" title="Building Steam With A Grain Of Salt" >}}<br>
+### DJ Shadow - Midnight In A Perfect World
+{{< youtube id="InFbBlpDTfQ" title="DJ Shadow - Midnight In A Perfect World" >}}<br>
 
 ### More Videos
 
-- [DJ Shadow - Midnight In A Perfect World](https://www.youtube.com/watch?v=InFbBlpDTfQ)
 - [Best Foot Forward](https://www.youtube.com/watch?v=FGQjrBuW-Xg)
+- [Building Steam With A Grain Of Salt](https://www.youtube.com/watch?v=dt-EhEsdbEQ)
 - [The Number Song](https://www.youtube.com/watch?v=l1d9l7UB22Y)
 - [Stem / Long Stem (Medley)](https://www.youtube.com/watch?v=OXsaglqlASk)
 - [Mutual Slump](https://www.youtube.com/watch?v=A-HVgnOI3HY)

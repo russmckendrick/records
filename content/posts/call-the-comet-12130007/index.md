@@ -40,14 +40,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Johnny Marr - Call The Comet - Official Album Trailer [HD]
-{{< youtube id="vWIdEwZvfp0" title="Johnny Marr - Call The Comet - Official Album Trailer [HD]" >}}<br>
+### Johnny Marr - Hi Hello - Official Music Video [HD]
+{{< youtube id="vT_IlY0A4_0" title="Johnny Marr - Hi Hello - Official Music Video [HD]" >}}<br>
 
 ### More Videos
 
-- [Johnny Marr - Hi Hello - Official Music Video [HD]](https://www.youtube.com/watch?v=vT_IlY0A4_0)
 - [Johnny Marr - The Tracers - Official Music Video [HD]](https://www.youtube.com/watch?v=e5daIu9-OG0)
 - [Johnny Marr - Walk Into The Sea - Official Music Video [HD]](https://www.youtube.com/watch?v=upGAJlhGWt4)
+- [Johnny Marr - Call The Comet - Official Album Trailer [HD]](https://www.youtube.com/watch?v=vWIdEwZvfp0)
 
 
 ## Release Information

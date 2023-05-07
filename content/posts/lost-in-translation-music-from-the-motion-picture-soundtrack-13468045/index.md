@@ -40,12 +40,12 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 
 
 ## Videos
-### Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)
-{{< youtube id="DP16_k3CWyg" title="Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)" >}}<br>
+### Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A
+{{< youtube id="dNuZeKUhu70" title="Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A" >}}<br>
 
 ### More Videos
 
-- [Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A](https://www.youtube.com/watch?v=dNuZeKUhu70)
+- [Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)](https://www.youtube.com/watch?v=DP16_k3CWyg)
 - [Lost in Translation - Soundtrack - Full Album (2003)](https://www.youtube.com/watch?v=WETG07MZ8Mk)
 
 

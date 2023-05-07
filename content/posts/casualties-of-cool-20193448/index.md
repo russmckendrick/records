@@ -55,13 +55,13 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 
 
 ## Videos
-### 01 daddy
-{{< youtube id="vNQDWKzjDqY" title="01 daddy" >}}<br>
+### CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)
+{{< youtube id="L2avV9ZGE3A" title="CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=L2avV9ZGE3A)
 - [Casualties of Cool 'Flight' - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
+- [01 daddy](https://www.youtube.com/watch?v=vNQDWKzjDqY)
 
 
 ## Release Information

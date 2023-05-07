@@ -51,18 +51,18 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Get Out
-{{< youtube id="FOkh5hxPY6s" title="Get Out" >}}<br>
+### Faith No More - King For A Day
+{{< youtube id="tq-9kk8k4gk" title="Faith No More - King For A Day" >}}<br>
 
 ### More Videos
 
-- [Faith No More - King For A Day](https://www.youtube.com/watch?v=tq-9kk8k4gk)
 - [Faith No More - Ricochet (Official Music Video)](https://www.youtube.com/watch?v=BzoDVzO1F9I)
 - [Faith No More - Evidence (Official Music Video)](https://www.youtube.com/watch?v=7lvMNLhJrb0)
 - [F̲a̲ith N̲o M̲ore - K̲ing f̲or a̲ D̲ay (Full Album)](https://www.youtube.com/watch?v=MYULU2zPMHU)
 - [Faith No More - Digging The Grave](https://www.youtube.com/watch?v=mhyzG5nTUH0)
 - [Faith No More - Digging The Grave (Official Music Video)](https://www.youtube.com/watch?v=CANh13XKFVk)
 - [King for a Day, Fool for a Lifetime (2016 Remaster)](https://www.youtube.com/watch?v=Rb1cld8WtSE)
+- [Get Out](https://www.youtube.com/watch?v=FOkh5hxPY6s)
 - [The Gentle Art of Making Enemies](https://www.youtube.com/watch?v=l_HtpFAlPWY)
 - [Star A.D.](https://www.youtube.com/watch?v=xALb75mMnJ0)
 - [Cuckoo for Caca](https://www.youtube.com/watch?v=pPJSHpRhge8)

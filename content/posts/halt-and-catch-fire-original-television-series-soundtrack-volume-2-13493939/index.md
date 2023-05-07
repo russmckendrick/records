@@ -39,15 +39,15 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 
 
 ## Videos
-### Why I Finally Told Him
-{{< youtube id="4tpHz0bE4BE" title="Why I Finally Told Him" >}}<br>
+### Mosaic
+{{< youtube id="fi4_G2nB_-s" title="Mosaic" >}}<br>
 
 ### More Videos
 
-- [Mosaic](https://www.youtube.com/watch?v=fi4_G2nB_-s)
 - [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Impossible to Love](https://www.youtube.com/watch?v=Pon8Nobg0XI)
+- [Why I Finally Told Him](https://www.youtube.com/watch?v=4tpHz0bE4BE)
 - [The Connection](https://www.youtube.com/watch?v=gyGl8Cv_lJU)
 - [Into the River](https://www.youtube.com/watch?v=DzgWSDgFoxo)
 - [Life Interrupted](https://www.youtube.com/watch?v=Jpe9ed2ncIQ)

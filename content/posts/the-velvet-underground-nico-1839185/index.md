@@ -40,16 +40,16 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 
 
 ## Videos
-### All Tomorrow's Parties
-{{< youtube id="nfAK-IAlcsY" title="All Tomorrow's Parties" >}}<br>
+### The Velvet Underground, Nico - Sunday Morning
+{{< youtube id="Xhbyj8pqUao" title="The Velvet Underground, Nico - Sunday Morning" >}}<br>
 
 ### More Videos
 
-- [The Velvet Underground, Nico - Sunday Morning](https://www.youtube.com/watch?v=Xhbyj8pqUao)
 - [I'm Waiting For The Man](https://www.youtube.com/watch?v=99og_g7rXnA)
 - [Femme Fatale](https://www.youtube.com/watch?v=ggHPtzVSEeE)
 - [Venus In Furs](https://www.youtube.com/watch?v=KR7Lv8XZtkk)
 - [Run Run Run](https://www.youtube.com/watch?v=wIdf3PwKmEI)
+- [All Tomorrow's Parties](https://www.youtube.com/watch?v=nfAK-IAlcsY)
 - [Heroin](https://www.youtube.com/watch?v=foptT2bsKww)
 - [There She Goes Again](https://www.youtube.com/watch?v=QbW39jwtewE)
 - [I'll Be Your Mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)

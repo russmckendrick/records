@@ -40,14 +40,14 @@ styles: ["Grunge", "Alternative Rock"]
 
 
 ## Videos
-### Stone Temple Pilots - Creep (Official Music Video)
-{{< youtube id="sT1DdO3SISg" title="Stone Temple Pilots - Creep (Official Music Video)" >}}<br>
+### Stone Temple Pilots - Sex Type Thing (Official Music Video)
+{{< youtube id="8hhu-OyHqZM" title="Stone Temple Pilots - Sex Type Thing (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Stone Temple Pilots - Sex Type Thing (Official Music Video)](https://www.youtube.com/watch?v=8hhu-OyHqZM)
 - [Stone Temple Pilots - Plush (Official Music Video)](https://www.youtube.com/watch?v=V5UOC0C0x8Q)
 - [Stone Temple Pilots - Wicked Garden (Official Music Video)](https://www.youtube.com/watch?v=2oPeZFOpPAM)
+- [Stone Temple Pilots - Creep (Official Music Video)](https://www.youtube.com/watch?v=sT1DdO3SISg)
 - [Dead & Bloated (2017 Remaster)](https://www.youtube.com/watch?v=SCx_uiSdC_c)
 - [Sin (2017 Remaster)](https://www.youtube.com/watch?v=mFgpWbI3Czo)
 - [No Memory (2017 Remaster)](https://www.youtube.com/watch?v=HfxaR9S-BXU)

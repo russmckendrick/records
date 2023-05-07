@@ -37,12 +37,11 @@ styles: ["Alternative Rock", "Electro"]
 
 
 ## Videos
-### Yeah (Pretentious Mix)
-{{< youtube id="vTDDSrhXdBY" title="Yeah (Pretentious Mix)" >}}<br>
+### LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)
+{{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)" >}}<br>
 
 ### More Videos
 
-- [LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)](https://www.youtube.com/watch?v=Cj8JrQ9w5jY)
 - [Daft Punk Is Playing at My House](https://www.youtube.com/watch?v=c7eCpUG9r5U)
 - [Too Much Love](https://www.youtube.com/watch?v=CcEC5r0xzt8)
 - [Tribulations](https://www.youtube.com/watch?v=G6aNYV8B5wc)
@@ -58,6 +57,7 @@ styles: ["Alternative Rock", "Electro"]
 - [Give It Up](https://www.youtube.com/watch?v=th2IQgi5d-Y)
 - [Tired](https://www.youtube.com/watch?v=uIzBOTXASgw)
 - [Yeah](https://www.youtube.com/watch?v=ERdGCgI-Uj4)
+- [Yeah (Pretentious Mix)](https://www.youtube.com/watch?v=vTDDSrhXdBY)
 
 
 ## Release Information

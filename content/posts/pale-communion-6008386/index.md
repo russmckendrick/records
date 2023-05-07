@@ -36,13 +36,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Opeth - Goblin (Audio)
-{{< youtube id="tHkb8u0NedQ" title="Opeth - Goblin (Audio)" >}}<br>
+### Opeth - Eternal Rains Will Come (Audio)
+{{< youtube id="CoW3Sywb5xQ" title="Opeth - Eternal Rains Will Come (Audio)" >}}<br>
 
 ### More Videos
 
-- [Opeth - Eternal Rains Will Come (Audio)](https://www.youtube.com/watch?v=CoW3Sywb5xQ)
 - [Opeth - Moon Above, Sun Below (Audio)](https://www.youtube.com/watch?v=a3sYPX17cFk)
+- [Opeth - Goblin (Audio)](https://www.youtube.com/watch?v=tHkb8u0NedQ)
 - [Opeth - Elysian Woes (Audio)](https://www.youtube.com/watch?v=_6k--wHwV5A)
 - [Opeth - River (Audio)](https://www.youtube.com/watch?v=v-sGhzHzLSE)
 - [Opeth - Voice of Treason (Audio)](https://www.youtube.com/watch?v=iO4-mXMbiy8)

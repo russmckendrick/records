@@ -39,13 +39,13 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 
 
 ## Videos
-### In A Station (Remixed 2018)
-{{< youtube id="bS3cWdeJ664" title="In A Station (Remixed 2018)" >}}<br>
+### Tears Of Rage (Remixed 2018)
+{{< youtube id="E9S5Wwa63a0" title="Tears Of Rage (Remixed 2018)" >}}<br>
 
 ### More Videos
 
-- [Tears Of Rage (Remixed 2018)](https://www.youtube.com/watch?v=E9S5Wwa63a0)
 - [To Kingdom Come (Remastered)](https://www.youtube.com/watch?v=sWNgvsv243A)
+- [In A Station (Remixed 2018)](https://www.youtube.com/watch?v=bS3cWdeJ664)
 - [Caledonia Mission (Remastered)](https://www.youtube.com/watch?v=X3gP0E_wr4Y)
 - [The Weight (Remixed 2018)](https://www.youtube.com/watch?v=-Jy6P9TltXQ)
 - [We Can Talk (Remixed 2018)](https://www.youtube.com/watch?v=P-megEAwgko)

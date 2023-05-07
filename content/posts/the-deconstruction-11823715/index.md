@@ -58,13 +58,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### EELS - Bone Dry - Official Video
-{{< youtube id="l6CNDk4yJnU" title="EELS - Bone Dry - Official Video" >}}<br>
+### EELS - The Deconstruction - title track (AUDIO)
+{{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track (AUDIO)" >}}<br>
 
 ### More Videos
 
-- [EELS - The Deconstruction - title track (AUDIO)](https://www.youtube.com/watch?v=59Au8TUVakg)
 - [EELS - Premonition (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=-Ohw7xQ_9Cs)
+- [EELS - Bone Dry - Official Video](https://www.youtube.com/watch?v=l6CNDk4yJnU)
 - [EELS - The Unanswerable (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=scBTg78OevM)
 - [EELS - The Quandary (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=FsCkx8YVtSk)
 - [EELS - Be Hurt (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=Tju1_bwzLFw)

@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### New Order  - 60 Miles An Hour (Official Music Video)
-{{< youtube id="yNF-MJv7bzo" title="New Order  - 60 Miles An Hour (Official Music Video)" >}}<br>
+### New Order - Crystal (Official Music Video)
+{{< youtube id="KVMyXDsadLQ" title="New Order - Crystal (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [New Order - Crystal (Official Music Video)](https://www.youtube.com/watch?v=KVMyXDsadLQ)
+- [New Order  - 60 Miles An Hour (Official Music Video)](https://www.youtube.com/watch?v=yNF-MJv7bzo)
 
 
 ## Release Information

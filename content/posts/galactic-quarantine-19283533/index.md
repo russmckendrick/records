@@ -58,15 +58,15 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 
 
 ## Videos
-### Devin Townsend - Almost Again - Empath Live Vol 2 2020
-{{< youtube id="e6jf4y8ikTQ" title="Devin Townsend - Almost Again - Empath Live Vol 2 2020" >}}<br>
+### DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)
+{{< youtube id="4rOhiHLPT9Q" title="DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)" >}}<br>
 
 ### More Videos
 
-- [DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)](https://www.youtube.com/watch?v=4rOhiHLPT9Q)
 - [Devin Townsend - Deadhead - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=jeB1iyI_LZE)
 - [Devin Townsend - All Hail the New Flesh - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=u5G_1LtY3s4)
 - [Devin Townsend - Love? - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=l03U4dxSiCc)
+- [Devin Townsend - Almost Again - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=e6jf4y8ikTQ)
 - [Devin Townsend - Detox - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=0qi0RsE-Mk4)
 - [Velvet Kevorkian (Virtually Live 2020)](https://www.youtube.com/watch?v=W-A2Z5cIhPg)
 - [Kingdom (Virtually Live 2020)](https://www.youtube.com/watch?v=wNK-nA4aags)

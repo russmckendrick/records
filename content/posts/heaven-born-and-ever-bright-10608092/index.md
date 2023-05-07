@@ -36,17 +36,17 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 
 
 ## Videos
-### Cardiacs - Bodysbad
-{{< youtube id="mXqqmxDq300" title="Cardiacs - Bodysbad" >}}<br>
+### Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)
+{{< youtube id="CQwlaMzdzl8" title="Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)" >}}<br>
 
 ### More Videos
 
-- [Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)](https://www.youtube.com/watch?v=CQwlaMzdzl8)
 - [Cardiacs - The Alphabet Business Concern (Home of Fadeless Splendour)](https://www.youtube.com/watch?v=nLH9N73RhLU)
 - [Cardiacs - Helen and Heaven](https://www.youtube.com/watch?v=e7tGYm9XNp8)
 - [Cardiacs - Goodbye Grace](https://www.youtube.com/watch?v=OXEVCQ1wAFA)
 - [Cardiacs - Anything I Can't Eat](https://www.youtube.com/watch?v=pFWzkOiLHyw)
 - [Cardiacs - Helen And Heaven](https://www.youtube.com/watch?v=GCpTb-oZZRY)
+- [Cardiacs - Bodysbad](https://www.youtube.com/watch?v=mXqqmxDq300)
 - [Cardiacs - For Good and All](https://www.youtube.com/watch?v=3w-SSegxzoA)
 - [CARDIACS - Core](https://www.youtube.com/watch?v=6pEbXdT0PWw)
 - [Cardiacs - Day is Gone](https://www.youtube.com/watch?v=iRctRAWNi2w)

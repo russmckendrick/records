@@ -37,12 +37,11 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Inside My Head
-{{< youtube id="e1RiKH53Ko0" title="Inside My Head" >}}<br>
+### Real Thing
+{{< youtube id="xHOPXlOyUCY" title="Real Thing" >}}<br>
 
 ### More Videos
 
-- [Real Thing](https://www.youtube.com/watch?v=xHOPXlOyUCY)
 - [Song for a Family](https://www.youtube.com/watch?v=rNcERd3hwfM)
 - [Inspiral Carpets - This Is How It Feels (Official Video)](https://www.youtube.com/watch?v=J-fX0UbpZls)
 - [Directing Traffik](https://www.youtube.com/watch?v=izyZZFD5a5Y)
@@ -52,6 +51,7 @@ styles: ["Indie Pop"]
 - [She Comes in the Fall](https://www.youtube.com/watch?v=gDc9EhUjUAI)
 - [Monkey On My Back](https://www.youtube.com/watch?v=gaSVZvqmtkk)
 - [Sun Don't Shine](https://www.youtube.com/watch?v=BE8SIcWdowc)
+- [Inside My Head](https://www.youtube.com/watch?v=e1RiKH53Ko0)
 - [Sackville](https://www.youtube.com/watch?v=LY0CCIt5t1s)
 
 

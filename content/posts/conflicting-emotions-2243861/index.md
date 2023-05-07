@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Split Enz - Message To My Girl
-{{< youtube id="O6YD4rjVIO8" title="Split Enz - Message To My Girl" >}}<br>
+### Split Enz - The Devil You Know
+{{< youtube id="7WGCQqYlgZQ" title="Split Enz - The Devil You Know" >}}<br>
 
 ### More Videos
 
-- [Split Enz - The Devil You Know](https://www.youtube.com/watch?v=7WGCQqYlgZQ)
+- [Split Enz - Message To My Girl](https://www.youtube.com/watch?v=O6YD4rjVIO8)
 - [Audiosurf - Split enz - Bon voyage](https://www.youtube.com/watch?v=e7FqT3T1_q4)
 - [Audiosurf - Split enz - Our day](https://www.youtube.com/watch?v=0D8WfeT9f0o)
 

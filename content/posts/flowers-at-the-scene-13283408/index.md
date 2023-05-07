@@ -50,13 +50,13 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Videos
-### TIM BOWNESS - It's The World (Lyric Video)
-{{< youtube id="ohSYbX4qHzc" title="TIM BOWNESS - It's The World (Lyric Video)" >}}<br>
+### TIM BOWNESS - I Go Deeper (Lyric Video)
+{{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper (Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [TIM BOWNESS - I Go Deeper (Lyric Video)](https://www.youtube.com/watch?v=ptY7m76xAps)
 - [TIM BOWNESS - Borderline (Lyric Video)](https://www.youtube.com/watch?v=qDuOJWLXM28)
+- [TIM BOWNESS - It's The World (Lyric Video)](https://www.youtube.com/watch?v=ohSYbX4qHzc)
 - [TIM BOWNESS talks “Flowers At The Scene” - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
 
 

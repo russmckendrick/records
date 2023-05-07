@@ -39,13 +39,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - Give It A Whirl
-{{< youtube id="WDJ3th_qhaI" title="Split Enz - Give It A Whirl" >}}<br>
+### Split Enz-Frenzy (Full Album) 1979 Original Version
+{{< youtube id="dIjapHRUESw" title="Split Enz-Frenzy (Full Album) 1979 Original Version" >}}<br>
 
 ### More Videos
 
-- [Split Enz-Frenzy (Full Album) 1979 Original Version](https://www.youtube.com/watch?v=dIjapHRUESw)
 - [Split Enz - Frenzy (1979)](https://www.youtube.com/watch?v=caAZuKxUeW0)
+- [Split Enz - Give It A Whirl](https://www.youtube.com/watch?v=WDJ3th_qhaI)
 
 
 ## Release Information

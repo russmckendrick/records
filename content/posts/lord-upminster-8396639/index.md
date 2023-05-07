@@ -33,12 +33,11 @@ styles: ["New Wave", "Dub", "Disco"]
 
 
 ## Videos
-### Ian Dury   Lord Upminster   TRUST IS A MUST
-{{< youtube id="kVllPYHD81w" title="Ian Dury   Lord Upminster   TRUST IS A MUST" >}}<br>
+### Ian Dury - Red Letter
+{{< youtube id="elL42w6qOdk" title="Ian Dury - Red Letter" >}}<br>
 
 ### More Videos
 
-- [Ian Dury - Red Letter](https://www.youtube.com/watch?v=elL42w6qOdk)
 - [Ian Dury - Lord Upminster (Full Album) 1981](https://www.youtube.com/watch?v=7Z2hgwig88c)
 - [Ian Dury - Girls (Watching)](https://www.youtube.com/watch?v=s7Hi_aX_L34)
 - [IAN DURY - Trust (Is A Must) (1981) Disco Funk *Chas Jankel, Sly Dunbar, Robbie Shakespeare](https://www.youtube.com/watch?v=_C0cWQFT8uk)
@@ -55,6 +54,7 @@ styles: ["New Wave", "Dub", "Disco"]
 - [Ian Dury -- Trust Is a Must (1981) slow version](https://www.youtube.com/watch?v=R8um4UfRUgM)
 - [IAN DURY, Lord Upminster, Spasticus (Autisticus)](https://www.youtube.com/watch?v=h08TWKtbGug)
 - [ian dury   trust is a must](https://www.youtube.com/watch?v=BgwGao1-zmI)
+- [Ian Dury   Lord Upminster   TRUST IS A MUST](https://www.youtube.com/watch?v=kVllPYHD81w)
 
 
 ## Release Information

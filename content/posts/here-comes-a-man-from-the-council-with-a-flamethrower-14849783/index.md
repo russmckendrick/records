@@ -44,15 +44,15 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Bird
-{{< youtube id="kJydOXYAGB0" title="Bird" >}}<br>
+### Magazine Zooey Deschanel
+{{< youtube id="ftjAexbR2p8" title="Magazine Zooey Deschanel" >}}<br>
 
 ### More Videos
 
-- [Magazine Zooey Deschanel](https://www.youtube.com/watch?v=ftjAexbR2p8)
 - [Commons](https://www.youtube.com/watch?v=AXcwWhRVprw)
 - [Last Track on Side Fun](https://www.youtube.com/watch?v=xYV9TkBML_I)
 - [Lonely Doe Young Doe](https://www.youtube.com/watch?v=yg-M0hI6cXY)
+- [Bird](https://www.youtube.com/watch?v=kJydOXYAGB0)
 - [Bee](https://www.youtube.com/watch?v=vNAS4q54L0A)
 - [Here Comes a Man from the Council With a Flamethrower](https://www.youtube.com/watch?v=LdWKULgyC2I)
 

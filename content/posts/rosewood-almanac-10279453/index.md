@@ -38,12 +38,12 @@ styles: []
 
 
 ## Videos
-### Will Stratton - Light blue
-{{< youtube id="FbgqMEmDroE" title="Will Stratton - Light blue" >}}<br>
+### Vanishing Class
+{{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}<br>
 
 ### More Videos
 
-- [Vanishing Class](https://www.youtube.com/watch?v=LWUGoiw7yyY)
+- [Will Stratton - Light blue](https://www.youtube.com/watch?v=FbgqMEmDroE)
 
 
 ## Release Information

@@ -46,13 +46,13 @@ styles: ["Alternative Rock", "Avantgarde"]
 
 
 ## Videos
-### Tori Amos - Hey Jupiter (The Dakota Version) (Official Music Video)
-{{< youtube id="1AbNx4h8XYc" title="Tori Amos - Hey Jupiter (The Dakota Version) (Official Music Video)" >}}<br>
+### Tori Amos - Talula (The Tornado Mix) (Official Music Video)
+{{< youtube id="PgHlNeoAH1A" title="Tori Amos - Talula (The Tornado Mix) (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Tori Amos - Talula (The Tornado Mix) (Official Music Video)](https://www.youtube.com/watch?v=PgHlNeoAH1A)
 - [Tori Amos - Caught a Lite Sneeze (Official Music Video)](https://www.youtube.com/watch?v=weWtRqoSUOI)
+- [Tori Amos - Hey Jupiter (The Dakota Version) (Official Music Video)](https://www.youtube.com/watch?v=1AbNx4h8XYc)
 
 
 ## Release Information

@@ -34,12 +34,11 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Island in the Clouds (Instrumental)
-{{< youtube id="2AmhgjYltAk" title="Island in the Clouds (Instrumental)" >}}<br>
+### Haken - Taurus (Official Video)
+{{< youtube id="4FQBK4CFWbI" title="Haken - Taurus (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Haken - Taurus (Official Video)](https://www.youtube.com/watch?v=4FQBK4CFWbI)
 - [HAKEN - Nightingale (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=IeENKWcitCw)
 - [Haken - The Alphabet of Me (Official Video)](https://www.youtube.com/watch?v=LQJ-e75ZSj8)
 - [Sempiternal Beings](https://www.youtube.com/watch?v=CCxjJOB18xk)
@@ -53,6 +52,7 @@ styles: ["Progressive Metal"]
 - [The Alphabet of Me (Instrumental)](https://www.youtube.com/watch?v=2n5VAkm_DVs)
 - [Sempiternal Beings (Instrumental)](https://www.youtube.com/watch?v=mV6HDaQGt-Y)
 - [Beneath the White Rainbow (Instrumental)](https://www.youtube.com/watch?v=PG-kGoe61pQ)
+- [Island in the Clouds (Instrumental)](https://www.youtube.com/watch?v=2AmhgjYltAk)
 - [Lovebite (Instrumental)](https://www.youtube.com/watch?v=umOv2PyZ9sc)
 - [Elephants Never Forget (Instrumental)](https://www.youtube.com/watch?v=ql3BHkTGk0w)
 - [Eyes Of Ebony (Instrumental)](https://www.youtube.com/watch?v=MqDJh-D6mkg)

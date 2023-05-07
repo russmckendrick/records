@@ -39,14 +39,14 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 
 
 ## Videos
-### Crazy You
-{{< youtube id="HchaAbzBnpg" title="Crazy You" >}}<br>
+### For You
+{{< youtube id="2-hcFcWYM08" title="For You" >}}<br>
 
 ### More Videos
 
-- [For You](https://www.youtube.com/watch?v=2-hcFcWYM08)
 - [In Love](https://www.youtube.com/watch?v=bLxlK21P2AA)
 - [Soft and Wet](https://www.youtube.com/watch?v=Aq7ddhSGOSE)
+- [Crazy You](https://www.youtube.com/watch?v=HchaAbzBnpg)
 - [Just as Long as We're Together](https://www.youtube.com/watch?v=Mv1Ga81EsaQ)
 - [Baby](https://www.youtube.com/watch?v=282ZyNwDxgE)
 - [My Love Is Forever](https://www.youtube.com/watch?v=2C_mYu5THXk)

@@ -40,15 +40,15 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 
 ## Videos
-### Drug Bust McGee - Levellers
-{{< youtube id="lEZwzWC8a8Y" title="Drug Bust McGee - Levellers" >}}<br>
+### WE THE COLLECTIVE - LEVELLERS
+{{< youtube id="eRUKW_xvEBE" title="WE THE COLLECTIVE - LEVELLERS" >}}<br>
 
 ### More Videos
 
-- [WE THE COLLECTIVE - LEVELLERS](https://www.youtube.com/watch?v=eRUKW_xvEBE)
 - [One Way](https://www.youtube.com/watch?v=liP8T6X8Qbg)
 - [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
 - [LIBERTY](https://www.youtube.com/watch?v=yUVKWu7wq0g)
+- [Drug Bust McGee - Levellers](https://www.youtube.com/watch?v=lEZwzWC8a8Y)
 - [Dance Before The Storm](https://www.youtube.com/watch?v=vA1QK16pPFs)
 - [England My Home](https://www.youtube.com/watch?v=TrPa6me_JkU)
 

@@ -39,15 +39,15 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### Prince - Let's Pretend We're Married (Official Music Video)
-{{< youtube id="KXkCtFo4ttI" title="Prince - Let's Pretend We're Married (Official Music Video)" >}}<br>
+### Prince - 1999 (Official Music Video)
+{{< youtube id="rblt2EtFfC4" title="Prince - 1999 (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Prince - 1999 (Official Music Video)](https://www.youtube.com/watch?v=rblt2EtFfC4)
 - [Prince - Little Red Corvette (Official Music Video)](https://www.youtube.com/watch?v=v0KpfrJE4zw)
 - [Delirious (2019 Remaster)](https://www.youtube.com/watch?v=ilP0dGXFNgw)
 - [Lady Cab Driver](https://www.youtube.com/watch?v=YQ7Tcw8yqho)
+- [Prince - Let's Pretend We're Married (Official Music Video)](https://www.youtube.com/watch?v=KXkCtFo4ttI)
 - [Lady Cab Driver (2019 Remaster)](https://www.youtube.com/watch?v=w8KRBcfajfQ)
 - [International Lover (2019 Remaster)](https://www.youtube.com/watch?v=LladYTP25NY)
 - [Something in the Water (Does Not Compute)](https://www.youtube.com/watch?v=LwoSyRd5ngY)

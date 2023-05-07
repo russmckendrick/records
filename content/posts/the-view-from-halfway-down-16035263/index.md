@@ -33,15 +33,15 @@ styles: ["Shoegaze", "Indie Rock"]
 
 
 ## Videos
-### Andy Bell - I Was Alone
-{{< youtube id="1822p05m3Hw" title="Andy Bell - I Was Alone" >}}<br>
+### Andy Bell - Love Comes In Waves
+{{< youtube id="MbNmaB-es5U" title="Andy Bell - Love Comes In Waves" >}}<br>
 
 ### More Videos
 
-- [Andy Bell - Love Comes In Waves](https://www.youtube.com/watch?v=MbNmaB-es5U)
 - [Andy Bell - Heat Haze On Weyland Road](https://www.youtube.com/watch?v=wX7VFHVab64)
 - [Andy Bell - Skywalker](https://www.youtube.com/watch?v=54icAzH384o)
 - [Andy Bell - Cherry Cola](https://www.youtube.com/watch?v=9ne_ioVdofw)
+- [Andy Bell - I Was Alone](https://www.youtube.com/watch?v=1822p05m3Hw)
 - [Andy Bell - Ghost Tones](https://www.youtube.com/watch?v=WaYkVvAg3q4)
 - [Andy Bell - Indica](https://www.youtube.com/watch?v=yxvqhlBtIbs)
 - [Andy Bell - Aubrey Drylands Gladwell](https://www.youtube.com/watch?v=7RJxFq0URe0)

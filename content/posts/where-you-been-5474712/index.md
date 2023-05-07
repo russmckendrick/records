@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Dinosaur Jr - Get Me
-{{< youtube id="ybExfDHg1i0" title="Dinosaur Jr - Get Me" >}}<br>
+### Dinosaur Jr - Out There
+{{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}<br>
 
 ### More Videos
 
-- [Dinosaur Jr - Out There](https://www.youtube.com/watch?v=XelDCDRnboE)
+- [Dinosaur Jr - Get Me](https://www.youtube.com/watch?v=ybExfDHg1i0)
 - [Dinosaur Jr - Start Choppin'](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
 - [Dinosaur Jr - Goin' Home](https://www.youtube.com/watch?v=30h3HWSarDA)
 

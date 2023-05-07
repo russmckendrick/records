@@ -35,16 +35,16 @@ styles: ["Hard Rock", "Classic Rock"]
 
 
 ## Videos
-### Wishbone Ash - Throw Down The Sword
-{{< youtube id="LByiVlc6czA" title="Wishbone Ash - Throw Down The Sword" >}}<br>
+### Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]
+{{< youtube id="iIbHRX8hO64" title="Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]" >}}<br>
 
 ### More Videos
 
-- [Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]](https://www.youtube.com/watch?v=iIbHRX8hO64)
 - [Wishbone Ash ► Phoenix  Live from Memphis 1972 [HQ Audio]](https://www.youtube.com/watch?v=YXV7vdpqwFA)
 - [Wishbone Ash - The King Will Come](https://www.youtube.com/watch?v=Tna0Mmu1XlI)
 - [Wishbone Ash - Sometime World](https://www.youtube.com/watch?v=kvLVSPPLZZY)
 - [Wishbone Ash - Blowin' Free](https://www.youtube.com/watch?v=mUolWNHxRiM)
+- [Wishbone Ash - Throw Down The Sword](https://www.youtube.com/watch?v=LByiVlc6czA)
 - [Wishbone Ash - Time Was](https://www.youtube.com/watch?v=SjIvjmJQJYE)
 - [Wishbone Ash - Warrior](https://www.youtube.com/watch?v=U5X_Dd_6Czk)
 - [Wishbone Ash - Leaf and Stream](https://www.youtube.com/watch?v=ZB6fCuxGvAw)

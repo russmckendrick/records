@@ -39,15 +39,15 @@ styles: ["Leftfield", "Downtempo"]
 
 
 ## Videos
-### The Secret of Letting Go
-{{< youtube id="o6GFbYDbPlc" title="The Secret of Letting Go" >}}<br>
+### Phosphorous
+{{< youtube id="VBnCyT4a-_s" title="Phosphorous" >}}<br>
 
 ### More Videos
 
-- [Phosphorous](https://www.youtube.com/watch?v=VBnCyT4a-_s)
 - [Lamb - Moonshine (feat Cian Finn) (Official Music Video)](https://www.youtube.com/watch?v=fdu1sdFOtiE)
 - [Lamb - Armageddon Waits (Official Video)](https://www.youtube.com/watch?v=iuRLSEa7tos)
 - [Lamb - Bulletproof (Official Music Video)](https://www.youtube.com/watch?v=KndAKVMjK00)
+- [The Secret of Letting Go](https://www.youtube.com/watch?v=o6GFbYDbPlc)
 - [Imperial Measures](https://www.youtube.com/watch?v=M2FDvjXMNUs)
 - [The Other Shore](https://www.youtube.com/watch?v=qBnG3g5uY0U)
 - [Deep Delirium](https://www.youtube.com/watch?v=q97RpAHAAkE)

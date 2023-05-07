@@ -38,12 +38,11 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Ever Fallen in Love? (Remastered)
-{{< youtube id="r2l7dvXfjHs" title="Ever Fallen in Love? (Remastered)" >}}<br>
+### Fine Young Cannibals - The Raw And The Cooked (Full Album)
+{{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Fine Young Cannibals - The Raw And The Cooked (Full Album)](https://www.youtube.com/watch?v=5-5U4U1bdQQ)
 - [Fine Young Cannibals - She Drives Me Crazy  (Official Video)](https://www.youtube.com/watch?v=UtvmTu4zAMg)
 - [Fine Young Cannibals - Good Thing (Official Video)](https://www.youtube.com/watch?v=We_9MthGzwk)
 - [Fine Young Cannibals - I'm Not Satisfied](https://www.youtube.com/watch?v=Dqvy1Kpk6Pc)
@@ -58,6 +57,7 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [It's Ok (It's Alright)](https://www.youtube.com/watch?v=MvmBjzI6KCc)
 - [Don't Let It Get You Down (Remastered)](https://www.youtube.com/watch?v=sZgT4I2ALb8)
 - [As Hard As It Is (Remastered)](https://www.youtube.com/watch?v=RarYl823bPo)
+- [Ever Fallen in Love? (Remastered)](https://www.youtube.com/watch?v=r2l7dvXfjHs)
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 

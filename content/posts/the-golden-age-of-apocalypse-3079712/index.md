@@ -41,12 +41,11 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 
 
 ## Videos
-### Thundercat- Is It Love?
-{{< youtube id="ijiP-FSjDxU" title="Thundercat- Is It Love?" >}}<br>
+### Mystery Machine (The Golden Age of Apocalypse)
+{{< youtube id="-9DagL4amrY" title="Mystery Machine (The Golden Age of Apocalypse)" >}}<br>
 
 ### More Videos
 
-- [Mystery Machine (The Golden Age of Apocalypse)](https://www.youtube.com/watch?v=-9DagL4amrY)
 - [Goldenboy](https://www.youtube.com/watch?v=HBcN7kONMW8)
 - [Thundercat - Walkin' (Official Video) HD](https://www.youtube.com/watch?v=8qGigIMM1Vw)
 - [Daylight](https://www.youtube.com/watch?v=rvyZaAaGgr8)
@@ -59,6 +58,7 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 - [Boat Cruise](https://www.youtube.com/watch?v=O9k-B_46fMg)
 - [Return to the Journey](https://www.youtube.com/watch?v=-czZoYtzB9c)
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
+- [Thundercat- Is It Love?](https://www.youtube.com/watch?v=ijiP-FSjDxU)
 
 
 ## Release Information

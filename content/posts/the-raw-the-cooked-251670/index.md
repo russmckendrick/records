@@ -38,13 +38,13 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Fine Young Cannibals - Good Thing (Official Video)
-{{< youtube id="We_9MthGzwk" title="Fine Young Cannibals - Good Thing (Official Video)" >}}<br>
+### Fine Young Cannibals - The Raw And The Cooked (Full Album)
+{{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Fine Young Cannibals - The Raw And The Cooked (Full Album)](https://www.youtube.com/watch?v=5-5U4U1bdQQ)
 - [Fine Young Cannibals - She Drives Me Crazy  (Official Video)](https://www.youtube.com/watch?v=UtvmTu4zAMg)
+- [Fine Young Cannibals - Good Thing (Official Video)](https://www.youtube.com/watch?v=We_9MthGzwk)
 - [Fine Young Cannibals - I'm Not Satisfied](https://www.youtube.com/watch?v=Dqvy1Kpk6Pc)
 - [Fine Young Cannibals - Don't Look Back](https://www.youtube.com/watch?v=kdTKpC53no8)
 - [Fine Young Cannibals - I'm Not the Man I Used to Be](https://www.youtube.com/watch?v=TrBYsPJ0rkA)

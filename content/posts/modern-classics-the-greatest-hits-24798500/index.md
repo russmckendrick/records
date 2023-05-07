@@ -58,14 +58,14 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 
 
 ## Videos
-### Brand New Start
-{{< youtube id="eAZGKO0VQKw" title="Brand New Start" >}}<br>
+### Mermaids
+{{< youtube id="xds2QRD4078" title="Mermaids" >}}<br>
 
 ### More Videos
 
-- [Mermaids](https://www.youtube.com/watch?v=xds2QRD4078)
 - [The Changingman (Single Edit)](https://www.youtube.com/watch?v=njO6MuSlY9o)
 - [Peacock Suit](https://www.youtube.com/watch?v=vrnj-2X0V6M)
+- [Brand New Start](https://www.youtube.com/watch?v=eAZGKO0VQKw)
 
 
 ## Release Information

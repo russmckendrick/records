@@ -45,12 +45,12 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 
 
 ## Videos
-### MONSTER MAGNET - Heads Explode unedited [God Says No] [HDadv][1080p]
-{{< youtube id="WhJGAbBVzQw" title="MONSTER MAGNET - Heads Explode unedited [God Says No] [HDadv][1080p]" >}}<br>
+### Melt - Monster Magnet - God Says No
+{{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}<br>
 
 ### More Videos
 
-- [Melt - Monster Magnet - God Says No](https://www.youtube.com/watch?v=tmbwoAeQcJ4)
+- [MONSTER MAGNET - Heads Explode unedited [God Says No] [HDadv][1080p]](https://www.youtube.com/watch?v=WhJGAbBVzQw)
 - [All Shook Out - Monster Magnet - God Says No](https://www.youtube.com/watch?v=luq69m7Sp-g)
 - [Monster Magnet - Down in the Jungle](https://www.youtube.com/watch?v=HTMOv_2YgWg)
 - [Monster Magnet-Queen of You (lyrics)](https://www.youtube.com/watch?v=RxFIuSVQ7vM)

@@ -39,12 +39,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ride It On
-{{< youtube id="HQUGNTIHOhc" title="Ride It On" >}}<br>
+### Mazzy Star - Fade Into You (Official Music Video)
+{{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Mazzy Star - Fade Into You (Official Music Video)](https://www.youtube.com/watch?v=ImKY6TZEyrI)
 - [Halah](https://www.youtube.com/watch?v=vHGHcvJDpaA)
 - [Blue Flower](https://www.youtube.com/watch?v=FGzNErpGZPg)
 - [Mary Of Silence](https://www.youtube.com/watch?v=j9Nl7FlrMpw)
@@ -52,6 +51,7 @@ styles: ["Indie Rock"]
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=pbc0dDK5hn0)
 - [Flowers In December](https://www.youtube.com/watch?v=ewABojPWmY0)
+- [Ride It On](https://www.youtube.com/watch?v=HQUGNTIHOhc)
 - [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
 - [Give You My Lovin](https://www.youtube.com/watch?v=nnFnjUl94b8)
 - [Ghost Highway](https://www.youtube.com/watch?v=-61E8zxzTME)

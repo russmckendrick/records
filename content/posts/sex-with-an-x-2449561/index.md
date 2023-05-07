@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### The Vaselines - Sex With An X [OFFICIAL VIDEO]
-{{< youtube id="GHIa3zr_vTQ" title="The Vaselines - Sex With An X [OFFICIAL VIDEO]" >}}<br>
+### The Vaselines - I Hate The 80's (2010)
+{{< youtube id="i1zMx4Eltbo" title="The Vaselines - I Hate The 80's (2010)" >}}<br>
 
 ### More Videos
 
-- [The Vaselines - I Hate The 80's (2010)](https://www.youtube.com/watch?v=i1zMx4Eltbo)
+- [The Vaselines - Sex With An X [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=GHIa3zr_vTQ)
 
 
 ## Release Information

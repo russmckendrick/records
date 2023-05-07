@@ -40,12 +40,11 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Videos
-### Love And Affection - Def Leppard – Hysteria
-{{< youtube id="olMfN2U82FE" title="Love And Affection - Def Leppard – Hysteria" >}}<br>
+### Def Leppard - Animal
+{{< youtube id="NSH1mOtc9-8" title="Def Leppard - Animal" >}}<br>
 
 ### More Videos
 
-- [Def Leppard - Animal](https://www.youtube.com/watch?v=NSH1mOtc9-8)
 - [Women - Def Leppard – Hysteria](https://www.youtube.com/watch?v=gGe2SHiSds8)
 - [Def Leppard - Hysteria (2017 European Vinyl)](https://www.youtube.com/watch?v=nE1Pzpf1YT4)
 - [DEF LEPPARD - Women (Official Music Video)](https://www.youtube.com/watch?v=4HR0P3sIb80)
@@ -68,6 +67,7 @@ styles: ["Hard Rock", "Arena Rock"]
 - [Def Leppard - Armageddon It](https://www.youtube.com/watch?v=am1odzz5qOc)
 - [Excitable - Def Leppard – Hysteria](https://www.youtube.com/watch?v=yqPHCny4BMo)
 - [Def Leppard - Run Riot](https://www.youtube.com/watch?v=xAzcvDS3spY)
+- [Love And Affection - Def Leppard – Hysteria](https://www.youtube.com/watch?v=olMfN2U82FE)
 - [Def Leppard - Pour Some Sugar On Me](https://www.youtube.com/watch?v=cks0erRtwGc)
 - [Def Leppard - Love And Affection](https://www.youtube.com/watch?v=TIywEbO35Rg)
 - [Def Leppard - Gods Of War](https://www.youtube.com/watch?v=9DLGIkJcLB4)

@@ -39,14 +39,14 @@ styles: ["Progressive Metal", "Symphonic Metal"]
 
 
 ## Videos
-### Scene Three: I. Through My Words
-{{< youtube id="TPOfOuMSNKg" title="Scene Three: I. Through My Words" >}}<br>
+### Scene One: Regression
+{{< youtube id="H2UHWFU5uFY" title="Scene One: Regression" >}}<br>
 
 ### More Videos
 
-- [Scene One: Regression](https://www.youtube.com/watch?v=H2UHWFU5uFY)
 - [Scene Two: I. Overture 1928](https://www.youtube.com/watch?v=36bUoh0HMIE)
 - [Scene Two: II. Strange Déjà Vu](https://www.youtube.com/watch?v=mSiNpUnUy1w)
+- [Scene Three: I. Through My Words](https://www.youtube.com/watch?v=TPOfOuMSNKg)
 - [Scene Three: II. Fatal Tragedy](https://www.youtube.com/watch?v=cCDLqz0NdCY)
 - [Scene Four: Beyond This Life](https://www.youtube.com/watch?v=-rhxFcAVYmI)
 - [Scene Five: Through Her Eyes](https://www.youtube.com/watch?v=3gy8hkVMqwQ)

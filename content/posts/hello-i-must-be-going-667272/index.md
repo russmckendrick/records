@@ -38,15 +38,15 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Phil Collins-Hello, I Must Be Going! [Full Album] 1982
-{{< youtube id="6KGW8LAeMU8" title="Phil Collins-Hello, I Must Be Going! [Full Album] 1982" >}}<br>
+### Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)
+{{< youtube id="_LeizBR6NZo" title="Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)" >}}<br>
 
 ### More Videos
 
-- [Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)](https://www.youtube.com/watch?v=_LeizBR6NZo)
 - [Phil Collins      Hello, I Must Be Going](https://www.youtube.com/watch?v=PtW6JFluNwY)
 - [Phil Collins - I Don't Care Anymore (Official Music Video)](https://www.youtube.com/watch?v=xLpfbcXTeo8)
 - [Phil Collins - Don't Let Him Steal Your Heart Away (Official Music Video)](https://www.youtube.com/watch?v=b2W-lxDq4-Y)
+- [Phil Collins-Hello, I Must Be Going! [Full Album] 1982](https://www.youtube.com/watch?v=6KGW8LAeMU8)
 - [I Don't Care Anymore | Phil Collins | Hello, I Must Be Going! | 1982 Atlantic LP](https://www.youtube.com/watch?v=P18nuSvCNE0)
 
 

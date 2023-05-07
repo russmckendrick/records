@@ -37,14 +37,14 @@ styles: []
 
 
 ## Videos
-### XTC ~ Stupidly Happy ~ Wasp Star (Apple Venus Vol 2)
-{{< youtube id="HkzQeYWaL3w" title="XTC ~ Stupidly Happy ~ Wasp Star (Apple Venus Vol 2)" >}}<br>
+### XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2
+{{< youtube id="g1I4AJJZ-1w" title="XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2" >}}<br>
 
 ### More Videos
 
-- [XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2](https://www.youtube.com/watch?v=g1I4AJJZ-1w)
 - [XTC - I'm The Man Who Murdered Love](https://www.youtube.com/watch?v=jdqk6AD69tg)
 - [XTC - Playground](https://www.youtube.com/watch?v=HERvQzYl2W8)
+- [XTC ~ Stupidly Happy ~ Wasp Star (Apple Venus Vol 2)](https://www.youtube.com/watch?v=HkzQeYWaL3w)
 - [XTC - In Another Life-](https://www.youtube.com/watch?v=dsWdNdk6plg)
 - [XTC- Boarded Up-](https://www.youtube.com/watch?v=gv7D_u-rv_Q)
 - [XTC   We're All Light](https://www.youtube.com/watch?v=9SfAoKxt4bw)

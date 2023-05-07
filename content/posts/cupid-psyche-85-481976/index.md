@@ -37,12 +37,12 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Small Talk
-{{< youtube id="cLdY5Pslcfg" title="Small Talk" >}}<br>
+### Scritti Politti - The Word Girl
+{{< youtube id="cyWB9WPLT1s" title="Scritti Politti - The Word Girl" >}}<br>
 
 ### More Videos
 
-- [Scritti Politti - The Word Girl](https://www.youtube.com/watch?v=cyWB9WPLT1s)
+- [Small Talk](https://www.youtube.com/watch?v=cLdY5Pslcfg)
 - [Perfect Way](https://www.youtube.com/watch?v=s-P94UFne-w)
 - [Scritti Politti - Hypnotize](https://www.youtube.com/watch?v=382YYvtCBls)
 - [Scritti Politti - A Little Knowledge](https://www.youtube.com/watch?v=PWj43WH8hbQ)

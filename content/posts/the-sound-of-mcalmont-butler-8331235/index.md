@@ -39,14 +39,14 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Videos
-### Yes (Full Version)
-{{< youtube id="vltxC9ljJqA" title="Yes (Full Version)" >}}<br>
+### McAlmont & Butler - Yes [Full Version]
+{{< youtube id="POIIGYt5RlE" title="McAlmont & Butler - Yes [Full Version]" >}}<br>
 
 ### More Videos
 
-- [McAlmont & Butler - Yes [Full Version]](https://www.youtube.com/watch?v=POIIGYt5RlE)
 - [McAlmont & Butler - Yes (Remix)](https://www.youtube.com/watch?v=IkxU9MPEwa8)
 - [McAlmont and Butler - Although](https://www.youtube.com/watch?v=SHo852__76U)
+- [Yes (Full Version)](https://www.youtube.com/watch?v=vltxC9ljJqA)
 - [You Do (Full Length)](https://www.youtube.com/watch?v=uorRUdpDcW8)
 - [What's The Excuse This Time?](https://www.youtube.com/watch?v=0f30KF1cOCc)
 - [The Right Thing](https://www.youtube.com/watch?v=eSYPVrp4gsc)

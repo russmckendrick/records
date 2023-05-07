@@ -37,16 +37,16 @@ styles: ["Blues Rock", "Rock & Roll"]
 
 
 ## Videos
-### The Very Thing That Makes You Rich (Makes Me Poor)
-{{< youtube id="OTJ3RQSa1PU" title="The Very Thing That Makes You Rich (Makes Me Poor)" >}}<br>
+### Down in Hollywood
+{{< youtube id="d4lmMBHlAS4" title="Down in Hollywood" >}}<br>
 
 ### More Videos
 
-- [Down in Hollywood](https://www.youtube.com/watch?v=d4lmMBHlAS4)
 - [Ry Cooder - I Think It's Going To Work Out Fine](https://www.youtube.com/watch?v=_oYzxkfzJZ0)
 - [Ry Cooder - I can't win (From the Album: Bop 'til you drop)](https://www.youtube.com/watch?v=EAe_3_GO9t0)
 - [Look at Granny Run Run - Ry Cooder](https://www.youtube.com/watch?v=4uMNwfNoViE)
 - [Ry Cooder - Dont Mess Up A Good Thing](https://www.youtube.com/watch?v=ExuqsRMMoy4)
+- [The Very Thing That Makes You Rich (Makes Me Poor)](https://www.youtube.com/watch?v=OTJ3RQSa1PU)
 - [Little Sister](https://www.youtube.com/watch?v=zeUUye3TMhI)
 - [Look at Granny Run Run](https://www.youtube.com/watch?v=2Mze2hcfGLI)
 - [Go Home, Girl](https://www.youtube.com/watch?v=k63zFZn2JRE)

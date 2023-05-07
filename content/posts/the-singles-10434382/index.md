@@ -51,12 +51,11 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 
 
 ## Videos
-### Can - ...And More (Official Audio)
-{{< youtube id="fB1k0-RKecU" title="Can - ...And More (Official Audio)" >}}<br>
+### Can - Soul Desert (Official Audio)
+{{< youtube id="TECyopdL4fI" title="Can - Soul Desert (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Can - Soul Desert (Official Audio)](https://www.youtube.com/watch?v=TECyopdL4fI)
 - [Can -  She Brings The Rain (Official Audio)](https://www.youtube.com/watch?v=xiuuSoPphxI)
 - [Can - Spoon (Official Audio)](https://www.youtube.com/watch?v=l6PH7a4RptU)
 - [Can - Shikako Maru Ten (Official Audio)](https://www.youtube.com/watch?v=jNnilECnMpw)
@@ -72,6 +71,7 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 - [Can - Hunters And Collectors (Edit) (Official Audio)](https://www.youtube.com/watch?v=8Y2K1TSQcPg)
 - [Can - Vernal Equinox (Edit) (Official Audio)](https://www.youtube.com/watch?v=jEUfuOY0XUQ)
 - [Can - I Want More (Official Audio)](https://www.youtube.com/watch?v=2yWItRfjg8w)
+- [Can - ...And More (Official Audio)](https://www.youtube.com/watch?v=fB1k0-RKecU)
 - [Can - Silent Night (Official Audio)](https://www.youtube.com/watch?v=t04ANDPU42Y)
 - [Can - Cascade Waltz (Official Audio)](https://www.youtube.com/watch?v=cAnPP7wfGUs)
 - [Can - Don't Say No (Edit) (Official Audio)](https://www.youtube.com/watch?v=KVt6i-ks5pg)

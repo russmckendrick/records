@@ -38,14 +38,14 @@ styles: ["Soul-Jazz", "Soul"]
 
 
 ## Videos
-### Every Day I Have To Cry
-{{< youtube id="-8VJz9JHGSc" title="Every Day I Have To Cry" >}}<br>
+### Stay Awhile
+{{< youtube id="pGB3WljqzmE" title="Stay Awhile" >}}<br>
 
 ### More Videos
 
-- [Stay Awhile](https://www.youtube.com/watch?v=pGB3WljqzmE)
 - [Wishin' And Hopin'](https://www.youtube.com/watch?v=dyZG1s7gbn8)
 - [You Don't Own Me](https://www.youtube.com/watch?v=nAQKgOmUk-U)
+- [Every Day I Have To Cry](https://www.youtube.com/watch?v=-8VJz9JHGSc)
 - [I Only Want To Be With You](https://www.youtube.com/watch?v=6opirWRSj4c)
 - [Mama Said](https://www.youtube.com/watch?v=NyikIdu9gks)
 - [Anyone Who Had A Heart](https://www.youtube.com/watch?v=O6NOByozZVo)

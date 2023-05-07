@@ -39,15 +39,15 @@ styles: []
 
 
 ## Videos
-### Grandaddy - The Boat is in the Barn
-{{< youtube id="rdKzxlbeMxc" title="Grandaddy - The Boat is in the Barn" >}}<br>
+### Grandaddy - Way We Won't
+{{< youtube id="QUEiXOxFfec" title="Grandaddy - Way We Won't" >}}<br>
 
 ### More Videos
 
-- [Grandaddy - Way We Won't](https://www.youtube.com/watch?v=QUEiXOxFfec)
 - [Grandaddy - Brush with the Wild](https://www.youtube.com/watch?v=YLLECw9OCUc)
 - [Grandaddy - Evermore](https://www.youtube.com/watch?v=5ye3To3agTE)
 - [Grandaddy - Oh She Deleter :(](https://www.youtube.com/watch?v=6_0juWWBESE)
+- [Grandaddy - The Boat is in the Barn](https://www.youtube.com/watch?v=rdKzxlbeMxc)
 - [Grandaddy - I Don't Wanna Live Here Anymore](https://www.youtube.com/watch?v=tMiOs6hRLYA)
 - [Grandaddy - That's What You Get for Gettin' Outta Bed](https://www.youtube.com/watch?v=ECIuz_WHCZA)
 - [Grandaddy - This is the Part](https://www.youtube.com/watch?v=hqA-77r0PTU)

@@ -58,13 +58,13 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Jupiter 4c (Early Version Of Sky)
-{{< youtube id="WIse_jyk2pM" title="Jupiter 4c (Early Version Of Sky)" >}}<br>
+### The Human League - Being Boiled (Fast Version)
+{{< youtube id="neuLu1MMl5M" title="The Human League - Being Boiled (Fast Version)" >}}<br>
 
 ### More Videos
 
-- [The Human League - Being Boiled (Fast Version)](https://www.youtube.com/watch?v=neuLu1MMl5M)
 - [Soundtrack To A Generation (Edit)](https://www.youtube.com/watch?v=Uh4KgDyJ0t4)
+- [Jupiter 4c (Early Version Of Sky)](https://www.youtube.com/watch?v=WIse_jyk2pM)
 - [SH5 (Early Version Of Liar)](https://www.youtube.com/watch?v=xmc_zKeTNRo)
 - [Stylopops You Broke My Heart (Early Version Of Marianne)](https://www.youtube.com/watch?v=l7Rk0tfld_A)
 - [No Time (Early Version Of The Word Before Last)](https://www.youtube.com/watch?v=WsvCxaLpI3s)

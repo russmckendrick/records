@@ -36,13 +36,13 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### Judas Priest - Victim Of Changes
-{{< youtube id="EKSU1W0ZUmQ" title="Judas Priest - Victim Of Changes" >}}<br>
+### Judas Priest - Rocka Rolla (BBC Performance)
+{{< youtube id="957N7EAtpY4" title="Judas Priest - Rocka Rolla (BBC Performance)" >}}<br>
 
 ### More Videos
 
-- [Judas Priest - Rocka Rolla (BBC Performance)](https://www.youtube.com/watch?v=957N7EAtpY4)
 - [Judas Priest - The Ripper (Video)](https://www.youtube.com/watch?v=lriWlHZAy8A)
+- [Judas Priest - Victim Of Changes](https://www.youtube.com/watch?v=EKSU1W0ZUmQ)
 
 
 ## Release Information

@@ -43,14 +43,14 @@ styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 
 
 ## Videos
-### Optimistic
-{{< youtube id="1On-ZHfTWOo" title="Optimistic" >}}<br>
+### Kid A
+{{< youtube id="MXNbfU0Ww_E" title="Kid A" >}}<br>
 
 ### More Videos
 
-- [Kid A](https://www.youtube.com/watch?v=MXNbfU0Ww_E)
 - [Everything In Its Right Place](https://www.youtube.com/watch?v=NUnXxh5U25Y)
 - [How to Disappear Completely](https://www.youtube.com/watch?v=6W6HhdqA95w)
+- [Optimistic](https://www.youtube.com/watch?v=1On-ZHfTWOo)
 - [Idioteque](https://www.youtube.com/watch?v=svwJTnZOaco)
 - [The National Anthem](https://www.youtube.com/watch?v=NfQD1QiQ9o4)
 - [Motion Picture Soundtrack](https://www.youtube.com/watch?v=EcSvMFm2ABE)

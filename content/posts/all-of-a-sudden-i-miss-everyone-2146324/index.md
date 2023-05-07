@@ -34,12 +34,12 @@ styles: ["Post Rock", "Ambient"]
 
 
 ## Videos
-### Explosions in the Sky - All of a Sudden I Miss Everyone [Full Album HD]
-{{< youtube id="tYfJiKWbUD8" title="Explosions in the Sky - All of a Sudden I Miss Everyone [Full Album HD]" >}}<br>
+### The Birth And Death Of The Day
+{{< youtube id="Fz-mWblMPpw" title="The Birth And Death Of The Day" >}}<br>
 
 ### More Videos
 
-- [The Birth And Death Of The Day](https://www.youtube.com/watch?v=Fz-mWblMPpw)
+- [Explosions in the Sky - All of a Sudden I Miss Everyone [Full Album HD]](https://www.youtube.com/watch?v=tYfJiKWbUD8)
 - [Welcome, Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
 - [Explosions in the Sky - All of a Sudden I Miss Everyone (Full Album)](https://www.youtube.com/watch?v=yXQ3zY96Ilw)
 - [It's Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)

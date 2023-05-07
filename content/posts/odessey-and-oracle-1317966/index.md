@@ -40,18 +40,18 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### The Zombies - Brief Candles
-{{< youtube id="vnu8H0x4l60" title="The Zombies - Brief Candles" >}}<br>
+### Care Of Cell 44 - The Zombies
+{{< youtube id="afrdo2qneoI" title="Care Of Cell 44 - The Zombies" >}}<br>
 
 ### More Videos
 
-- [Care Of Cell 44 - The Zombies](https://www.youtube.com/watch?v=afrdo2qneoI)
 - [Hung Up On A Dream - The Zombies](https://www.youtube.com/watch?v=8XOd6Uajh-4)
 - [The Zombies - This Will Be Our Year](https://www.youtube.com/watch?v=kI2lTwY0Jx8)
 - [Beechwood Park - The Zombies](https://www.youtube.com/watch?v=ia2-Bu-2LMA)
 - [the zombies a butcher's tale](https://www.youtube.com/watch?v=zMhemzN7sTc)
 - [The Zombies - Maybe After He's Gone](https://www.youtube.com/watch?v=0N-FRiu84P8)
 - [The Zombies - A Rose for Emily](https://www.youtube.com/watch?v=wt2vQkUmpzg)
+- [The Zombies - Brief Candles](https://www.youtube.com/watch?v=vnu8H0x4l60)
 - [The Zombies - Changes](https://www.youtube.com/watch?v=LHYgpenY0D8)
 - [The Zombies   I Want Her She Wants Me](https://www.youtube.com/watch?v=nnTVhidB4z8)
 - [The Zombies - 11 - Friends Of Mine (by EarpJohn)](https://www.youtube.com/watch?v=vIJteHQPGr4)

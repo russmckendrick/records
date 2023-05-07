@@ -40,12 +40,11 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 
 
 ## Videos
-### Left Of The Middle
-{{< youtube id="_7WwzAfTAyw" title="Left Of The Middle" >}}<br>
+### Natalie Imbruglia - Torn (Official Video) [HD Remastered]
+{{< youtube id="xSZBIs0gs0E" title="Natalie Imbruglia - Torn (Official Video) [HD Remastered]" >}}<br>
 
 ### More Videos
 
-- [Natalie Imbruglia - Torn (Official Video) [HD Remastered]](https://www.youtube.com/watch?v=xSZBIs0gs0E)
 - [Natalie Imbruglia - Torn (Video 4K Remastered)](https://www.youtube.com/watch?v=sOY5314LyEY)
 - [Natalie Imbruglia - Leave Me Alone](https://www.youtube.com/watch?v=xqDlLpPV2PA)
 - [Natalie Imbruglia Wishing I Was There Music Video, 1997](https://www.youtube.com/watch?v=mSkNhZQo8h0)
@@ -65,6 +64,7 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 - [Impressed](https://www.youtube.com/watch?v=Fp0D91YRtj8)
 - [Intuition](https://www.youtube.com/watch?v=4Clo8te75No)
 - [City](https://www.youtube.com/watch?v=Od9nYiK2rhY)
+- [Left Of The Middle](https://www.youtube.com/watch?v=_7WwzAfTAyw)
 - [Natalie Imbruglia don't you think](https://www.youtube.com/watch?v=JTqHnW29iVI)
 - [Impressed](https://www.youtube.com/watch?v=fs3f3xCU4O4)
 

@@ -40,12 +40,11 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Idiot Stare
-{{< youtube id="pSER4yejfBo" title="Idiot Stare" >}}<br>
+### Zeroes And Ones - Jesus Jones
+{{< youtube id="2s_UjdsMoPk" title="Zeroes And Ones - Jesus Jones" >}}<br>
 
 ### More Videos
 
-- [Zeroes And Ones - Jesus Jones](https://www.youtube.com/watch?v=2s_UjdsMoPk)
 - [The Devil You Know - Jesus Jones](https://www.youtube.com/watch?v=wewIoLusKP8)
 - [Get A Good Thing](https://www.youtube.com/watch?v=MSlkl3ozIq4)
 - [From Love To War](https://www.youtube.com/watch?v=XgGF3SwynZs)
@@ -56,6 +55,7 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Don't Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
 - [Tongue Tied](https://www.youtube.com/watch?v=Jfl9kQUxNgE)
 - [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
+- [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
 
 
 ## Release Information

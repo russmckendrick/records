@@ -28,12 +28,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Slowdive - Slowdive (1991)
-{{< youtube id="JzVwpibI8uY" title="Slowdive - Slowdive (1991)" >}}<br>
+### Slowdive
+{{< youtube id="hs9kJZ1uJ-Q" title="Slowdive" >}}<br>
 
 ### More Videos
 
-- [Slowdive](https://www.youtube.com/watch?v=hs9kJZ1uJ-Q)
+- [Slowdive - Slowdive (1991)](https://www.youtube.com/watch?v=JzVwpibI8uY)
 - [Slowdive - Avalyn 1 & 2](https://www.youtube.com/watch?v=5uUoaq_X8oc)
 
 

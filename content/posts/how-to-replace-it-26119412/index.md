@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Man Of The House
-{{< youtube id="yC1gfZsIoRE" title="Man Of The House" >}}<br>
+### dEUS - Must Have Been New (Official Visualizer)
+{{< youtube id="SUCUO5k0MLg" title="dEUS - Must Have Been New (Official Visualizer)" >}}<br>
 
 ### More Videos
 
-- [dEUS - Must Have Been New (Official Visualizer)](https://www.youtube.com/watch?v=SUCUO5k0MLg)
+- [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
 - [How To Replace It](https://www.youtube.com/watch?v=wzcg5SMJraM)
 - [dEUS - 1989 (Official Visualizer)](https://www.youtube.com/watch?v=Gx206aFD6Wg)
 

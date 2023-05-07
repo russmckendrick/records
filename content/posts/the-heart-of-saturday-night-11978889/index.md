@@ -39,12 +39,12 @@ styles: ["Blues Rock", "Folk"]
 
 
 ## Videos
-### Tom Waits - (Looking For) The Heart Of Saturday Night
-{{< youtube id="lbH6BUNsuts" title="Tom Waits - (Looking For) The Heart Of Saturday Night" >}}<br>
+### Tom Waits - The Heart of Saturday Night  (Full Album)
+{{< youtube id="nqSnZv3JV0M" title="Tom Waits - The Heart of Saturday Night  (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Tom Waits - The Heart of Saturday Night  (Full Album)](https://www.youtube.com/watch?v=nqSnZv3JV0M)
+- [Tom Waits - (Looking For) The Heart Of Saturday Night](https://www.youtube.com/watch?v=lbH6BUNsuts)
 
 
 ## Release Information

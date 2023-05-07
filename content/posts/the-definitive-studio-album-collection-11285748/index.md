@@ -112,12 +112,12 @@ styles: ["Soul"]
 
 
 ## Videos
-### Cigarettes and Coffee
-{{< youtube id="cm3YM_9iW_s" title="Cigarettes and Coffee" >}}<br>
+### I've Got Dreams to Remember
+{{< youtube id="MOwNCKZeNOE" title="I've Got Dreams to Remember" >}}<br>
 
 ### More Videos
 
-- [I've Got Dreams to Remember](https://www.youtube.com/watch?v=MOwNCKZeNOE)
+- [Cigarettes and Coffee](https://www.youtube.com/watch?v=cm3YM_9iW_s)
 - [Down in the Valley (Mono) (2018 Remaster)](https://www.youtube.com/watch?v=GuxR4JZ0l7A)
 
 

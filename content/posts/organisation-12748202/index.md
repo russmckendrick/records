@@ -37,12 +37,11 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Progress (Live From The Factory, UK / 1978 / 2003 Digital Remaster)
-{{< youtube id="c69Q9MayIkI" title="Progress (Live From The Factory, UK / 1978 / 2003 Digital Remaster)" >}}<br>
+### Enola Gay (Remastered)
+{{< youtube id="n4mqwJ569_M" title="Enola Gay (Remastered)" >}}<br>
 
 ### More Videos
 
-- [Enola Gay (Remastered)](https://www.youtube.com/watch?v=n4mqwJ569_M)
 - [2nd Thought (2003 Digital Remaster)](https://www.youtube.com/watch?v=cwkpoF9uvsY)
 - [VCL XI (2003 Digital Remaster)](https://www.youtube.com/watch?v=FuOBBAyDWHQ)
 - [Motion And Heart (2003 Digital Remaster)](https://www.youtube.com/watch?v=IEqYDv8lMHM)
@@ -54,6 +53,7 @@ styles: ["Synth-pop"]
 - [Stanlow (2003 Digital Remaster)](https://www.youtube.com/watch?v=WuxiaK5MqYg)
 - [Introducing Radios (Live From The Factory, UK / 1978 / 2003 Digital Remaster)](https://www.youtube.com/watch?v=PoSXbFAhW-Q)
 - [Distance Fades Between Us (Live From The Factory, UK / 1978 / 2003 Digital Remaster)](https://www.youtube.com/watch?v=xGTXscdWzHE)
+- [Progress (Live From The Factory, UK / 1978 / 2003 Digital Remaster)](https://www.youtube.com/watch?v=c69Q9MayIkI)
 - [Once When I Was Six (Live From The Factory, UK / 1978 / 2003 Digital Remaster)](https://www.youtube.com/watch?v=I-1FY6lff64)
 - [Electricity (DinDisc 1980 Version / 2003 Digital Remaster)](https://www.youtube.com/watch?v=toRBdwhlMTY)
 

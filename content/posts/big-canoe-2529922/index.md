@@ -38,12 +38,12 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Tim Finn - Spiritual Hunger (1986)
-{{< youtube id="GGVNSZowmT8" title="Tim Finn - Spiritual Hunger (1986)" >}}<br>
+### TIM FINN - No Thunder, No Fire, No Rain (1986)
+{{< youtube id="V7140SlRUQE" title="TIM FINN - No Thunder, No Fire, No Rain (1986)" >}}<br>
 
 ### More Videos
 
-- [TIM FINN - No Thunder, No Fire, No Rain (1986)](https://www.youtube.com/watch?v=V7140SlRUQE)
+- [Tim Finn - Spiritual Hunger (1986)](https://www.youtube.com/watch?v=GGVNSZowmT8)
 - [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 
 

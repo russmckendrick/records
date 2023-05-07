@@ -39,15 +39,15 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Hothouse Flowers - Don't Go (Official Video)
-{{< youtube id="HDEY1UeIsr4" title="Hothouse Flowers - Don't Go (Official Video)" >}}<br>
+### Hothouse Flowers ‎– Don't Go
+{{< youtube id="Ym1bePL88ro" title="Hothouse Flowers ‎– Don't Go" >}}<br>
 
 ### More Videos
 
-- [Hothouse Flowers ‎– Don't Go](https://www.youtube.com/watch?v=Ym1bePL88ro)
 - [Hothouse Flowers - It'll Be Easier in the Morning](https://www.youtube.com/watch?v=BzwPz83UbuU)
 - [Hothouse Flowers -  I'm sorry](https://www.youtube.com/watch?v=_6wFR7cUfE8)
 - [Hothouse Flowers The Older We Get](https://www.youtube.com/watch?v=h3oWuIEAGaQ)
+- [Hothouse Flowers - Don't Go (Official Video)](https://www.youtube.com/watch?v=HDEY1UeIsr4)
 
 
 ## Release Information

@@ -52,12 +52,11 @@ styles: ["Indie Rock", "Post Rock", "Experimental"]
 
 
 ## Videos
-### Contronatura
-{{< youtube id="y7aKp3rAH9A" title="Contronatura" >}}<br>
+### Stereolab - Miss Modular (Official Video)
+{{< youtube id="Q2kuPgS1Hi4" title="Stereolab - Miss Modular (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Stereolab - Miss Modular (Official Video)](https://www.youtube.com/watch?v=Q2kuPgS1Hi4)
 - [Brakhage](https://www.youtube.com/watch?v=QdnX8-HDgaY)
 - [Miss Modular](https://www.youtube.com/watch?v=H5GW9xG19t4)
 - [The Flower Called Nowhere](https://www.youtube.com/watch?v=NqhkqnSg164)
@@ -67,6 +66,7 @@ styles: ["Indie Rock", "Post Rock", "Experimental"]
 - [Refractions in the Plastic Pulse](https://www.youtube.com/watch?v=Pvgfknx_vq0)
 - [Parsec](https://www.youtube.com/watch?v=lV0ylsWIrJw)
 - [Ticker-tape of the Unconscious](https://www.youtube.com/watch?v=Bxq21YMljFA)
+- [Contronatura](https://www.youtube.com/watch?v=y7aKp3rAH9A)
 
 
 ## Release Information

@@ -50,14 +50,14 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 
 
 ## Videos
-### Funeral (Acoustic - Live in Leeds 2019)
-{{< youtube id="mZ_xXGLwu0c" title="Funeral (Acoustic - Live in Leeds 2019)" >}}<br>
+### DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)
+{{< youtube id="H45yG8FzpkQ" title="DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=H45yG8FzpkQ)
 - [Deadhead (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=Mn3ZaLRYqG8)
 - [Love? (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=7R8LbdIhb-g)
+- [Funeral (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=mZ_xXGLwu0c)
 - [Ih-Ah! (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=XtR4tnbHc-o)
 
 

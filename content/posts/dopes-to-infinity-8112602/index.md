@@ -43,12 +43,11 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 
 
 ## Videos
-### Monster Magnet - Negasonic Teenage Warhead
-{{< youtube id="Qv2CADhNYMg" title="Monster Magnet - Negasonic Teenage Warhead" >}}<br>
+### Dopes To Infinity
+{{< youtube id="JWldvOmqhRk" title="Dopes To Infinity" >}}<br>
 
 ### More Videos
 
-- [Dopes To Infinity](https://www.youtube.com/watch?v=JWldvOmqhRk)
 - [Monster Magnet - Dopes to Infinity 10150A.MOV](https://www.youtube.com/watch?v=6M8pI0jYJq4)
 - [Negasonic Teenage Warhead](https://www.youtube.com/watch?v=s9vSW6mL14c)
 - [Monster Magnet - Dopes to Infinity MONSTER.MOV](https://www.youtube.com/watch?v=hWPr5vUoFX0)
@@ -64,6 +63,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 - [Vertigo](https://www.youtube.com/watch?v=XWuZQ3ySNt4)
 - [Monster Magnet - Forbidden Planet 1](https://www.youtube.com/watch?v=oYiMVTvQmac)
 - [Monster Magnet - Forbidden Planet 2](https://www.youtube.com/watch?v=krSiJW4AZbE)
+- [Monster Magnet - Negasonic Teenage Warhead](https://www.youtube.com/watch?v=Qv2CADhNYMg)
 
 
 ## Release Information

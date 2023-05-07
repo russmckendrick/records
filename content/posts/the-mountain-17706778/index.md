@@ -47,12 +47,11 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Nobody
-{{< youtube id="bVmucEX4DZQ" title="Nobody" >}}<br>
+### The Path
+{{< youtube id="RvzL2FoF5W8" title="The Path" >}}<br>
 
 ### More Videos
 
-- [The Path](https://www.youtube.com/watch?v=RvzL2FoF5W8)
 - [Atlas Stone](https://www.youtube.com/watch?v=JUK4CMh4Feg)
 - [Cockroach King](https://www.youtube.com/watch?v=mwcA2xuKtts)
 - [In Memoriam](https://www.youtube.com/watch?v=-xgE_g0PJ-s)
@@ -62,6 +61,7 @@ styles: ["Prog Rock", "Progressive Metal"]
 - [Pareidolia](https://www.youtube.com/watch?v=-AbGjGpJPO0)
 - [Somebody](https://www.youtube.com/watch?v=kLIyBYQkr3w)
 - [The Path Unbeaten](https://www.youtube.com/watch?v=N8naO6HASm0)
+- [Nobody](https://www.youtube.com/watch?v=bVmucEX4DZQ)
 
 
 ## Release Information

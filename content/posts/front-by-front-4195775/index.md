@@ -37,12 +37,11 @@ styles: ["EBM"]
 
 
 ## Videos
-### Terminal State
-{{< youtube id="UijjMj91ODg" title="Terminal State" >}}<br>
+### Front 242 - Headhunter (Official Video)
+{{< youtube id="m1cRGVaJF7Y" title="Front 242 - Headhunter (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Front 242 - Headhunter (Official Video)](https://www.youtube.com/watch?v=m1cRGVaJF7Y)
 - [Until Death (Us Do Part)](https://www.youtube.com/watch?v=Vq-udrSV7M4)
 - [Circling Overland](https://www.youtube.com/watch?v=GQTys90jNkc)
 - [I'm Rhythmus Bleiben](https://www.youtube.com/watch?v=yi6vw3L5W6Y)
@@ -51,6 +50,7 @@ styles: ["EBM"]
 - [Blend The Strengths](https://www.youtube.com/watch?v=0Iu9Uko9zvg)
 - [Headhunter V3.0](https://www.youtube.com/watch?v=aPKsvVKqvOg)
 - [Work 01](https://www.youtube.com/watch?v=2_Y5C2k0H7w)
+- [Terminal State](https://www.youtube.com/watch?v=UijjMj91ODg)
 
 
 ## Release Information

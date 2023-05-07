@@ -41,12 +41,11 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### The Joy Circuit
-{{< youtube id="_KQdSQRd-6g" title="The Joy Circuit" >}}<br>
+### Gary Numan - This Wreckage
+{{< youtube id="m9uvIqIUq4U" title="Gary Numan - This Wreckage" >}}<br>
 
 ### More Videos
 
-- [Gary Numan - This Wreckage](https://www.youtube.com/watch?v=m9uvIqIUq4U)
 - [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
 - [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
 - [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
@@ -55,6 +54,7 @@ styles: ["New Wave", "Synth-pop"]
 - [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
+- [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
 
 
 ## Release Information

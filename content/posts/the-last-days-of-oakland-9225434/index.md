@@ -41,17 +41,17 @@ styles: []
 
 
 ## Videos
-### Fantastic Negrito - In the Pines (Oakland) [Official Audio]
-{{< youtube id="dBarS2VUqXc" title="Fantastic Negrito - In the Pines (Oakland) [Official Audio]" >}}<br>
+### Fantastic Negrito - The Worst (Official Audio)
+{{< youtube id="4fDJlWxhyvw" title="Fantastic Negrito - The Worst (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Fantastic Negrito - The Worst (Official Audio)](https://www.youtube.com/watch?v=4fDJlWxhyvw)
 - [Fantastic Negrito - The Nigga Song](https://www.youtube.com/watch?v=yZn8NnCIX_s)
 - [Fantastic Negrito - The Last Days of Oakland (Intro) [Official Audio]](https://www.youtube.com/watch?v=GMsMhI4P4Nw)
 - [Fantastic Negrito - Rant Rushmore (Official Audio)](https://www.youtube.com/watch?v=X9cIYWdL8EI)
 - [Fantastic Negrito - Lost in a Crowd (Official Audio)](https://www.youtube.com/watch?v=U4krMJ2lymk)
 - [Fantastic Negrito - Working Poor (Official Audio)](https://www.youtube.com/watch?v=C-8D55x83SU)
+- [Fantastic Negrito - In the Pines (Oakland) [Official Audio]](https://www.youtube.com/watch?v=dBarS2VUqXc)
 - [Fantastic Negrito - Nothing Without You (Official Audio)](https://www.youtube.com/watch?v=e-W98ao9e-I)
 - [Fantastic Negrito - About a Bird (Official Audio)](https://www.youtube.com/watch?v=m6UH2--6rWc)
 

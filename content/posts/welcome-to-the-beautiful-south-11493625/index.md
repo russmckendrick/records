@@ -38,17 +38,17 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Beautiful South - You Keep It All In - TOTP 1994
-{{< youtube id="vuEuLTkfAgU" title="Beautiful South - You Keep It All In - TOTP 1994" >}}<br>
+### The Beautiful South - Song For Whoever
+{{< youtube id="J-q_gAM1BXQ" title="The Beautiful South - Song For Whoever" >}}<br>
 
 ### More Videos
 
-- [The Beautiful South - Song For Whoever](https://www.youtube.com/watch?v=J-q_gAM1BXQ)
 - [Have You Ever Been Away](https://www.youtube.com/watch?v=JPBwzOCpz74)
 - [THE BEAUTIFUL SOUTH - ILL SAIL THIS SHIP ALONE](https://www.youtube.com/watch?v=_NljLKfcwOc)
 - [Woman In The Wall](https://www.youtube.com/watch?v=Ea_GmMMVbUk)
 - [you keep it all in](https://www.youtube.com/watch?v=-rBcIa7dLMQ)
 - [Girlfriend](https://www.youtube.com/watch?v=im14_8uXhxM)
+- [Beautiful South - You Keep It All In - TOTP 1994](https://www.youtube.com/watch?v=vuEuLTkfAgU)
 - [Song For Whoever](https://www.youtube.com/watch?v=Jiags4WMI6k)
 - [The Beautiful South - Oh, Blackpool](https://www.youtube.com/watch?v=pWzWtqY1Ar4)
 - [The Beautiful South - Love Is](https://www.youtube.com/watch?v=atfQAIxY7w4)

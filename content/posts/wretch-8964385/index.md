@@ -40,15 +40,15 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 
 
 ## Videos
-### Katzenjammer
-{{< youtube id="svWijD-TWrs" title="Katzenjammer" >}}<br>
+### [Beginning of What's About to Happen] Hwy 74
+{{< youtube id="qDnoe3IP1Pk" title="[Beginning of What's About to Happen] Hwy 74" >}}<br>
 
 ### More Videos
 
-- [[Beginning of What's About to Happen] Hwy 74](https://www.youtube.com/watch?v=qDnoe3IP1Pk)
 - [Love Has Passed Me By](https://www.youtube.com/watch?v=svVpuKb3DhE)
 - [Son of a Bitch](https://www.youtube.com/watch?v=IdwEH2se_p0)
 - [Black Widow](https://www.youtube.com/watch?v=lD6lekY7eSk)
+- [Katzenjammer](https://www.youtube.com/watch?v=svWijD-TWrs)
 - [Deadly Kiss](https://www.youtube.com/watch?v=52ZJOcQg29o)
 - [The Law](https://www.youtube.com/watch?v=NMXjKDXWrm8)
 - [Isolation](https://www.youtube.com/watch?v=fvWKp5-XHrA)

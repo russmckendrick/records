@@ -38,12 +38,11 @@ styles: ["Folk Rock", "Pop Rock"]
 
 
 ## Videos
-### Streets of Fire
-{{< youtube id="HzIm7Ek6Vv0" title="Streets of Fire" >}}<br>
+### Badlands
+{{< youtube id="SDlSCeQXbPo" title="Badlands" >}}<br>
 
 ### More Videos
 
-- [Badlands](https://www.youtube.com/watch?v=SDlSCeQXbPo)
 - [Adam Raised A Cain | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia LP](https://www.youtube.com/watch?v=YTHKOHEzeMo)
 - [Adam Raised a Cain](https://www.youtube.com/watch?v=PRRd78fqmIg)
 - [The Promised Land | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia  LP](https://www.youtube.com/watch?v=AwNGvxRzQ24)
@@ -52,6 +51,7 @@ styles: ["Folk Rock", "Pop Rock"]
 - [Racing in the Street](https://www.youtube.com/watch?v=cm9UuM3UXdc)
 - [The Promised Land](https://www.youtube.com/watch?v=azQY2YBUMQc)
 - [Factory](https://www.youtube.com/watch?v=3YuEJ_XolkM)
+- [Streets of Fire](https://www.youtube.com/watch?v=HzIm7Ek6Vv0)
 - [Prove It All Night](https://www.youtube.com/watch?v=UzjkWdRqWFo)
 - [Darkness on the Edge of Town](https://www.youtube.com/watch?v=0LpdEyGhNxM)
 

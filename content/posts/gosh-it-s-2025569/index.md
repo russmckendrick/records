@@ -40,13 +40,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### Bad Manners - can can
-{{< youtube id="CJSwSBbdiCM" title="Bad Manners - can can" >}}<br>
+### Bad Manners - Can-Can (TOTP)
+{{< youtube id="sirHoeJ5Td8" title="Bad Manners - Can-Can (TOTP)" >}}<br>
 
 ### More Videos
 
-- [Bad Manners - Can-Can (TOTP)](https://www.youtube.com/watch?v=sirHoeJ5Td8)
 - [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
+- [Bad Manners - can can](https://www.youtube.com/watch?v=CJSwSBbdiCM)
 
 
 ## Release Information

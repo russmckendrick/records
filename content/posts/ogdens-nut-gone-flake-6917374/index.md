@@ -42,14 +42,14 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Journey
-{{< youtube id="ffOy_wQO9LE" title="The Journey" >}}<br>
+### The Small Faces - Lazy Sunday Afternoon
+{{< youtube id="zXeRB-3nDR8" title="The Small Faces - Lazy Sunday Afternoon" >}}<br>
 
 ### More Videos
 
-- [The Small Faces - Lazy Sunday Afternoon](https://www.youtube.com/watch?v=zXeRB-3nDR8)
 - [The Small Faces - Ogdens Nut Flake](https://www.youtube.com/watch?v=rCjrF2wWuSg)
 - [The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)](https://www.youtube.com/watch?v=TwB3bug2p-I)
+- [The Journey](https://www.youtube.com/watch?v=ffOy_wQO9LE)
 
 
 ## Release Information

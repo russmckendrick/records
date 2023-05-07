@@ -51,14 +51,14 @@ styles: []
 
 
 ## Videos
-### Thundercat - 'Friend Zone'
-{{< youtube id="FqE_H1A-8B4" title="Thundercat - 'Friend Zone'" >}}<br>
+### Thundercat - 'Tokyo' (Official Video)
+{{< youtube id="SZzjw2UfUEk" title="Thundercat - 'Tokyo' (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Thundercat - 'Tokyo' (Official Video)](https://www.youtube.com/watch?v=SZzjw2UfUEk)
 - [Thundercat - Hi (feat. Mac Miller)](https://www.youtube.com/watch?v=_lRqsAVBonI)
 - [Thundercat - 'Them Changes' (Official Video)](https://www.youtube.com/watch?v=GNCd_ERZvZM)
+- [Thundercat - 'Friend Zone'](https://www.youtube.com/watch?v=FqE_H1A-8B4)
 - [Thundercat - 'Walk On By (feat. Kendrick Lamar)'](https://www.youtube.com/watch?v=wV8HYokDWeE)
 - [Thundercat - 'Drunk'](https://www.youtube.com/watch?v=McA_CgwoG-w)
 - [Thundercat - 'Drink Dat (feat. Wiz Khalifa)'](https://www.youtube.com/watch?v=_pxpTZpdZ-U)

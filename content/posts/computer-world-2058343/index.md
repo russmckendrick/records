@@ -35,12 +35,12 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Computerwelt (2009 Remaster)
-{{< youtube id="YxlndeU3SVY" title="Computerwelt (2009 Remaster)" >}}<br>
+### Kraftwerk - Computerwelt
+{{< youtube id="zWSkwvvfmco" title="Kraftwerk - Computerwelt" >}}<br>
 
 ### More Videos
 
-- [Kraftwerk - Computerwelt](https://www.youtube.com/watch?v=zWSkwvvfmco)
+- [Computerwelt (2009 Remaster)](https://www.youtube.com/watch?v=YxlndeU3SVY)
 
 
 ## Release Information

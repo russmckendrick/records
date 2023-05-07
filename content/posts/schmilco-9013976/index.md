@@ -40,12 +40,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### If I Ever Was a Child - Wilco - Schmilco
-{{< youtube id="ykOrfedFJ8o" title="If I Ever Was a Child - Wilco - Schmilco" >}}<br>
+### SCHMILCO - Wilco [2016] - Full Album
+{{< youtube id="h2wt9TvkSZE" title="SCHMILCO - Wilco [2016] - Full Album" >}}<br>
 
 ### More Videos
 
-- [SCHMILCO - Wilco [2016] - Full Album](https://www.youtube.com/watch?v=h2wt9TvkSZE)
+- [If I Ever Was a Child - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
 
 
 ## Release Information

@@ -39,12 +39,11 @@ styles: ["Breakbeat", "Industrial"]
 
 
 ## Videos
-### Wake Up, Time to Die
-{{< youtube id="Lyur17ff3T8" title="Wake Up, Time to Die" >}}<br>
+### Poison to the Mind
+{{< youtube id="ffPjII-GJ7Y" title="Poison to the Mind" >}}<br>
 
 ### More Videos
 
-- [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
 - [PWEI Is a Four Letter Word](https://www.youtube.com/watch?v=0-FaCRhqzVU)
 - [Pop Will Eat Itself | Def Con One](https://www.youtube.com/watch?v=v7Wm4qXC_j4)
 - [Preaching to the Perverted](https://www.youtube.com/watch?v=1P_bN4z2AOc)
@@ -57,6 +56,7 @@ styles: ["Breakbeat", "Industrial"]
 - [Shortwave Transmission On Up to the Minuteman Nine](https://www.youtube.com/watch?v=IVmAAB5vFIg)
 - [Satellite Ecstatica](https://www.youtube.com/watch?v=PXxQ8_PPBXQ)
 - [Not Now James, We're Busy](https://www.youtube.com/watch?v=ykPoCFZODPU)
+- [Wake Up, Time to Die](https://www.youtube.com/watch?v=Lyur17ff3T8)
 - [This the day...this is the hour...this is this (Pop Will Eat Itself) (1989)](https://www.youtube.com/watch?v=Od_I5eC_mHc)
 - [Pop Will Eat Itself - Wake Up! Time To Die [HQ AUDIO]](https://www.youtube.com/watch?v=j7OUeFShS6o)
 - [Wise Up! Sucker (12 Youth Remix)](https://www.youtube.com/watch?v=5ch4CNXisao)

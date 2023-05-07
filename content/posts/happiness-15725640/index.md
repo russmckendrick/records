@@ -38,12 +38,11 @@ styles: ["House", "Synth-pop", "Downtempo"]
 
 
 ## Videos
-### Jackie (Won’t You Please Come Home?)
-{{< youtube id="hjbtMzoLu_4" title="Jackie (Won’t You Please Come Home?)" >}}<br>
+### Hello (Remastered)
+{{< youtube id="Y-uevW8RdiM" title="Hello (Remastered)" >}}<br>
 
 ### More Videos
 
-- [Hello (Remastered)](https://www.youtube.com/watch?v=Y-uevW8RdiM)
 - [Your Love Takes Me Higher (Remastered)](https://www.youtube.com/watch?v=sVkPQfSO9K8)
 - [Time After Time (Remastered)](https://www.youtube.com/watch?v=1rvhe4AWi8k)
 - [Don't You Worry (Remastered)](https://www.youtube.com/watch?v=7COD9PVwwCg)
@@ -54,6 +53,7 @@ styles: ["House", "Synth-pop", "Downtempo"]
 - [Up, Up And Away (Remastered)](https://www.youtube.com/watch?v=DWOYUz07XvI)
 - [Found](https://www.youtube.com/watch?v=_tgz2omaRek)
 - [I Love You More (Demo)](https://www.youtube.com/watch?v=_HgaSc2BEOY)
+- [Jackie (Won’t You Please Come Home?)](https://www.youtube.com/watch?v=hjbtMzoLu_4)
 - [Your Love Takes Me Higher (Demo)](https://www.youtube.com/watch?v=54N8uSIHzf0)
 - [Time After Time (Demo)](https://www.youtube.com/watch?v=DeIjVkuB4eM)
 - [Jennifer Smiles](https://www.youtube.com/watch?v=R_hKl9z_IdQ)

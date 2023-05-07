@@ -38,17 +38,17 @@ styles: ["Psychedelic", "Easy Listening"]
 
 
 ## Videos
-### Take A Bow
-{{< youtube id="bJVX9FyO8nY" title="Take A Bow" >}}<br>
+### Something In My Eye
+{{< youtube id="fSEOOB3-gqQ" title="Something In My Eye" >}}<br>
 
 ### More Videos
 
-- [Something In My Eye](https://www.youtube.com/watch?v=fSEOOB3-gqQ)
 - [You Danced All Night](https://www.youtube.com/watch?v=QBuxse1m-t0)
 - [Phantom Birds](https://www.youtube.com/watch?v=HPPRRXHonzE)
 - [Moonlight Flit](https://www.youtube.com/watch?v=pwe8SVBBvoM)
 - [Man Of Doom](https://www.youtube.com/watch?v=gbvx_kYHin4)
 - [Where's My Love?](https://www.youtube.com/watch?v=27tI2Kg0FkY)
+- [Take A Bow](https://www.youtube.com/watch?v=bJVX9FyO8nY)
 - [Intermission](https://www.youtube.com/watch?v=QXuyeK0N6so)
 - [Hail To The King](https://www.youtube.com/watch?v=tDCzAjxQFEY)
 - [In My Mind](https://www.youtube.com/watch?v=RwBRK3iVJ1A)

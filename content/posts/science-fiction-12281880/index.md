@@ -38,12 +38,12 @@ styles: []
 
 
 ## Videos
-### Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)
-{{< youtube id="Al1ammaaqqs" title="Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)" >}}<br>
+### Science Fiction
+{{< youtube id="b5WJDSmv1iE" title="Science Fiction" >}}<br>
 
 ### More Videos
 
-- [Science Fiction](https://www.youtube.com/watch?v=b5WJDSmv1iE)
+- [Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)](https://www.youtube.com/watch?v=Al1ammaaqqs)
 - [Church of the Cosmic Skull - Science Fiction](https://www.youtube.com/watch?v=hdXffwZGg1Q)
 
 

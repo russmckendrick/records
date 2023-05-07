@@ -41,18 +41,18 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 
 
 ## Videos
-### The Jon Spencer Blues Explosion - Brenda
-{{< youtube id="tpdZkryLPBY" title="The Jon Spencer Blues Explosion - Brenda" >}}<br>
+### The Jon Spencer Blues Explosion - Bellbottoms
+{{< youtube id="XlTqcshkmc8" title="The Jon Spencer Blues Explosion - Bellbottoms" >}}<br>
 
 ### More Videos
 
-- [The Jon Spencer Blues Explosion - Bellbottoms](https://www.youtube.com/watch?v=XlTqcshkmc8)
 - [The Jon Spencer Blues Explosion - Ditch](https://www.youtube.com/watch?v=E5aZEHN4Z5I)
 - [The Jon Spencer Blues Explosion - Dang](https://www.youtube.com/watch?v=3fQY7uFTfVI)
 - [The Jon Spencer Blues Explosion - Very Rare](https://www.youtube.com/watch?v=KkSPNkAl3WY)
 - [The Jon Spencer Blues Explosion - Sweat](https://www.youtube.com/watch?v=tHi5sdlhpjw)
 - [The Jon Spencer Blues Explosion - Cowboy](https://www.youtube.com/watch?v=il9MDvx_lO4)
 - [The Jon Spencer Blues Explosion - Orange](https://www.youtube.com/watch?v=Z1r2fUb_zdc)
+- [The Jon Spencer Blues Explosion - Brenda](https://www.youtube.com/watch?v=tpdZkryLPBY)
 - [The Jon Spencer Blues Explosion - Dissect](https://www.youtube.com/watch?v=tW9mbgss86Q)
 - [The Jon Spencer Blues Explosion - Blues X Man](https://www.youtube.com/watch?v=zVrXDFJ3--0)
 - [The Jon Spencer Blues Explosion - Full Grown](https://www.youtube.com/watch?v=KM_DSCHjrf4)

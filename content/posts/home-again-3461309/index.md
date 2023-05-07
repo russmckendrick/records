@@ -38,14 +38,14 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 
 
 ## Videos
-### Michael Kiwanuka - Rest (HQ)
-{{< youtube id="Xlonqk5EOrw" title="Michael Kiwanuka - Rest (HQ)" >}}<br>
+### Michael Kiwanuka - Tell Me A Tale (Live At Hackney Round Chapel)
+{{< youtube id="TpoVVdL3lDA" title="Michael Kiwanuka - Tell Me A Tale (Live At Hackney Round Chapel)" >}}<br>
 
 ### More Videos
 
-- [Michael Kiwanuka - Tell Me A Tale (Live At Hackney Round Chapel)](https://www.youtube.com/watch?v=TpoVVdL3lDA)
 - [Michael Kiwanuka - I'm Getting Ready (Official Video)](https://www.youtube.com/watch?v=VHRKdpR1E6Q)
 - [Michael Kiwanuka - I'll Get Along (Official Video)](https://www.youtube.com/watch?v=rEA5lCcga-s)
+- [Michael Kiwanuka - Rest (HQ)](https://www.youtube.com/watch?v=Xlonqk5EOrw)
 - [Michael Kiwanuka - Home Again (Official Video)](https://www.youtube.com/watch?v=kJ4s3G7hgR4)
 - [Michael Kiwanuka - Bones (Official Video)](https://www.youtube.com/watch?v=P6EiH1pzY1U)
 - [Michael Kiwanuka - Always Waiting (Official Video)](https://www.youtube.com/watch?v=61_qsDeuFu8)

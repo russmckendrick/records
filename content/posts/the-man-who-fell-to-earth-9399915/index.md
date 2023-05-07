@@ -72,12 +72,11 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Memory Of Hiroshima (From The Man Who Fell To Earth Original Motion Picture)
-{{< youtube id="Y5Om21KwXg4" title="Memory Of Hiroshima (From The Man Who Fell To Earth Original Motion Picture)" >}}<br>
+### The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9
+{{< youtube id="wd9vU1KaQiY" title="The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9" >}}<br>
 
 ### More Videos
 
-- [The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9](https://www.youtube.com/watch?v=wd9vU1KaQiY)
 - [The Man Who Fell To Earth](https://www.youtube.com/watch?v=LpoeOfidJds)
 - [The Man Who Fell To Earth Clip](https://www.youtube.com/watch?v=RThneDVsbvA)
 - [John Phillips - The Man Who Fell To Earth [Soundtrack Demo] 1976](https://www.youtube.com/watch?v=cwFMMCj4I2s)
@@ -89,6 +88,7 @@ styles: ["Soundtrack"]
 - [America](https://www.youtube.com/watch?v=-wX53926e0s)
 - [Stomu Yamash'ta - Win Words [The Man Who Fell To Earth] David Bowie Nicolas Roeg](https://www.youtube.com/watch?v=Qe3la0LgiMs)
 - [Poker Dice (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=T3X60zZEyh0)
+- [Memory Of Hiroshima (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=Y5Om21KwXg4)
 - [Mandala (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=js0AhQ9dyec)
 - [One Way (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=SHcRIQcIPOg)
 

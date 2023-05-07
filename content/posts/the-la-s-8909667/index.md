@@ -40,16 +40,16 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The La's - Doledrum (audio only)
-{{< youtube id="ZvHpLflwPfc" title="The La's - Doledrum (audio only)" >}}<br>
+### The La's - Son of a Gun (audio only)
+{{< youtube id="Np4mAy-HlmQ" title="The La's - Son of a Gun (audio only)" >}}<br>
 
 ### More Videos
 
-- [The La's - Son of a Gun (audio only)](https://www.youtube.com/watch?v=Np4mAy-HlmQ)
 - [The La's - I Can't Sleep (audio only)](https://www.youtube.com/watch?v=6LURvVxSZl4)
 - [The La's - Timeless Melody (audio only)](https://www.youtube.com/watch?v=Eus8vzjBVaQ)
 - [The La's - Liberty Ship (audio only)](https://www.youtube.com/watch?v=e4QBcdmn30I)
 - [The La's - There She Goes (audio only)](https://www.youtube.com/watch?v=925i0-TCjrQ)
+- [The La's - Doledrum (audio only)](https://www.youtube.com/watch?v=ZvHpLflwPfc)
 - [The La's - Feelin' (audio only)](https://www.youtube.com/watch?v=1bzxpWob71M)
 - [The La's - Way Out (audio only)](https://www.youtube.com/watch?v=A7PQh0ZgA_U)
 - [The La's - I.O.U (audio only)](https://www.youtube.com/watch?v=0YirTfE0EsM)

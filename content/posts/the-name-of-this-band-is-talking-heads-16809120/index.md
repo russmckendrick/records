@@ -45,12 +45,11 @@ styles: ["New Wave", "Art Rock", "Funk"]
 
 
 ## Videos
-### Electricity (Drugs) (Live at The Agora, Cleveland, Ohio) (2004 Remaster)
-{{< youtube id="YBlj-a97HYI" title="Electricity (Drugs) (Live at The Agora, Cleveland, Ohio) (2004 Remaster)" >}}<br>
+### New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)
+{{< youtube id="2KM5XNGJDqg" title="New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)" >}}<br>
 
 ### More Videos
 
-- [New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=2KM5XNGJDqg)
 - [Stay Hungry (1979 Version) (2004 Remaster)](https://www.youtube.com/watch?v=q4TXwmtvOiI)
 - [Psycho Killer (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=nGhPaJw8p6c)
 - [A Clean Break (Let's Work) (Live) (2004 Remaster)](https://www.youtube.com/watch?v=-vhtCe4PmHA)
@@ -63,6 +62,7 @@ styles: ["New Wave", "Art Rock", "Funk"]
 - [The Great Curve (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=2iYETa3pa6U)
 - [Houses in Motion (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=9GG2oiTGGT0)
 - [Heaven (Live at Emerald City, New Jersey)](https://www.youtube.com/watch?v=5uBKmnVi0r4)
+- [Electricity (Drugs) (Live at The Agora, Cleveland, Ohio) (2004 Remaster)](https://www.youtube.com/watch?v=YBlj-a97HYI)
 - [I'm Not in Love (Live at KSAN, San Francisco)](https://www.youtube.com/watch?v=MZgkcx3R1F0)
 - [Crosseyed and Painless (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=z8ou1_b02NA)
 - [The Big Country (Live at WXRT, Chicago)](https://www.youtube.com/watch?v=NDt-3V0x0XE)

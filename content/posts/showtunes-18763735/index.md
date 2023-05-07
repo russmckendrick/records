@@ -36,12 +36,12 @@ styles: []
 
 
 ## Videos
-### Drop C
-{{< youtube id="JW0CDPY5dJc" title="Drop C" >}}<br>
+### Lambchop - A Chef's Kiss (Official Lyric Video)
+{{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chef's Kiss (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Lambchop - A Chef's Kiss (Official Lyric Video)](https://www.youtube.com/watch?v=KzNWfgRFjhY)
+- [Drop C](https://www.youtube.com/watch?v=JW0CDPY5dJc)
 - [Papa Was a Rolling Stone Journalist](https://www.youtube.com/watch?v=E4JXIgoTfk4)
 - [Lambchop - Fuku (Official Video)](https://www.youtube.com/watch?v=KP8SGpb0PTc)
 - [Unknown Man](https://www.youtube.com/watch?v=fvfc1L1G9CI)

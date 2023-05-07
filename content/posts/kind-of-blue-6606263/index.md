@@ -33,13 +33,13 @@ styles: ["Modal"]
 
 
 ## Videos
-### Miles Davis - All Blues (Official Audio)
-{{< youtube id="-488UORrfJ0" title="Miles Davis - All Blues (Official Audio)" >}}<br>
+### Miles Davis - So What (Official Audio)
+{{< youtube id="ylXk1LBvIqU" title="Miles Davis - So What (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Miles Davis - So What (Official Audio)](https://www.youtube.com/watch?v=ylXk1LBvIqU)
 - [Miles Davis - Blue In Green (Official Audio)](https://www.youtube.com/watch?v=TLDflhhdPCg)
+- [Miles Davis - All Blues (Official Audio)](https://www.youtube.com/watch?v=-488UORrfJ0)
 
 
 ## Release Information

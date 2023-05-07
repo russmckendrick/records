@@ -42,12 +42,11 @@ styles: ["Noise"]
 
 
 ## Videos
-### Inside Me
-{{< youtube id="y1Beh6xQu4k" title="Inside Me" >}}<br>
+### The Jesus And Mary Chain - Just Like Honey (Official Music Video)
+{{< youtube id="7EgB__YratE" title="The Jesus And Mary Chain - Just Like Honey (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [The Jesus And Mary Chain - Just Like Honey (Official Music Video)](https://www.youtube.com/watch?v=7EgB__YratE)
 - [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
 - [The Jesus And Mary Chain - You Trip Me Up (Official Music Video)](https://www.youtube.com/watch?v=zK2nJWNgZBA)
 - [The Living End](https://www.youtube.com/watch?v=9KyWnw9py3s)
@@ -56,6 +55,7 @@ styles: ["Noise"]
 - [Cut Dead](https://www.youtube.com/watch?v=iFw_jFtJ7sw)
 - [In a Hole](https://www.youtube.com/watch?v=F9rXf0UxBPM)
 - [Taste of Cindy](https://www.youtube.com/watch?v=QGn9hISJ0wU)
+- [Inside Me](https://www.youtube.com/watch?v=y1Beh6xQu4k)
 - [Sowing Seeds](https://www.youtube.com/watch?v=9-HHsMa_fw0)
 - [My Little Underground](https://www.youtube.com/watch?v=HYZDSURXqqY)
 - [Something's Wrong](https://www.youtube.com/watch?v=UxlwSRNw8LA)

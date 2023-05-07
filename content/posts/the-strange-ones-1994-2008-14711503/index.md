@@ -339,13 +339,13 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 
 
 ## Videos
-### Supergrass - Alright (Official HD Video)
-{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright (Official HD Video)" >}}<br>
+### Strange Ones
+{{< youtube id="aJsVw_PyTGs" title="Strange Ones" >}}<br>
 
 ### More Videos
 
-- [Strange Ones](https://www.youtube.com/watch?v=aJsVw_PyTGs)
 - [Supergrass - Diamond Hoo Ha Man (Official HD Video)](https://www.youtube.com/watch?v=6EPHk16mO20)
+- [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
 - [Supergrass - Bad Blood (Official HD Video)](https://www.youtube.com/watch?v=WZhinVDm9yM)
 
 

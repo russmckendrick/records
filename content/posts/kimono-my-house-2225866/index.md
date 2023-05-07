@@ -38,12 +38,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Amateur Hour
-{{< youtube id="3YBmS5oaNwU" title="Amateur Hour" >}}<br>
+### This Town Ain't Big Enough For Both Of Us
+{{< youtube id="BI9gOtRMogY" title="This Town Ain't Big Enough For Both Of Us" >}}<br>
 
 ### More Videos
 
-- [This Town Ain't Big Enough For Both Of Us](https://www.youtube.com/watch?v=BI9gOtRMogY)
+- [Amateur Hour](https://www.youtube.com/watch?v=3YBmS5oaNwU)
 - [Falling In Love With Myself Again](https://www.youtube.com/watch?v=jx4ERgegpO8)
 - [Here In Heaven](https://www.youtube.com/watch?v=4Op1tcnSjX4)
 - [Thank God It's Not Christmas](https://www.youtube.com/watch?v=mEBRzrYKifU)

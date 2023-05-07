@@ -38,12 +38,11 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix- Champions Of Disturbance (pt 1&2)
-{{< youtube id="Ypq3QJxMHT4" title="Crippled Black Phoenix- Champions Of Disturbance (pt 1&2)" >}}<br>
+### Crippled Black Phoenix - Bronze (Full Album)
+{{< youtube id="O5ka3u6su3M" title="Crippled Black Phoenix - Bronze (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Crippled Black Phoenix - Bronze (Full Album)](https://www.youtube.com/watch?v=O5ka3u6su3M)
 - [Crippled Black Phoenix - Dead Imperial Bastard](https://www.youtube.com/watch?v=KgjifMxvzQQ)
 - [Crippled Black Phoenix - Champions Of Disturbance (Pt 1 & 2)](https://www.youtube.com/watch?v=FIGgkISamQI)
 - [Crippled Black Phoenix - We Are The Darkeners](https://www.youtube.com/watch?v=l7aptX4aTZw)
@@ -51,6 +50,7 @@ styles: ["Post Rock", "Prog Rock"]
 - [Crippled Black Phoenix - Turn To Stone (Official Premiere)](https://www.youtube.com/watch?v=gOMqznyez20)
 - [Crippled Black Phoenix - Winning A Losing Battle (Official Premiere)](https://www.youtube.com/watch?v=VLKjk9c8OTc)
 - [Crippled Black Phoenix - Rotten Memories](https://www.youtube.com/watch?v=S6vSPk9i584)
+- [Crippled Black Phoenix- Champions Of Disturbance (pt 1&2)](https://www.youtube.com/watch?v=Ypq3QJxMHT4)
 - [Crippled Black Phoenix - Denisovans](https://www.youtube.com/watch?v=ldCy3eCKZ8c)
 - [Crippled Black Phoenix - Scared And Alone](https://www.youtube.com/watch?v=lVOLLdNzgQw)
 - [Crippled Black Phoenix - Goodbye Then](https://www.youtube.com/watch?v=EfDCYYL7Q_U)

@@ -48,13 +48,13 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 
 
 ## Videos
-### Blade Runner 2049 Original Motion Picture Soundtrack by Hans Zimmer - (HQ) (HD)
-{{< youtube id="JDQ1gFMQKR8" title="Blade Runner 2049 Original Motion Picture Soundtrack by Hans Zimmer - (HQ) (HD)" >}}<br>
+### Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer
+{{< youtube id="pMjIERoxzUQ" title="Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer" >}}<br>
 
 ### More Videos
 
-- [Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
 - [Blade Runner (Blade Runner 2049 Soundtrack)](https://www.youtube.com/watch?v=1uAoaKM16kw)
+- [Blade Runner 2049 Original Motion Picture Soundtrack by Hans Zimmer - (HQ) (HD)](https://www.youtube.com/watch?v=JDQ1gFMQKR8)
 - [MIXED: Blade Runner 2049 Original Motion Picture Soundtrack](https://www.youtube.com/watch?v=nf0llz_Rfd0)
 - [One For My Baby (And One More For The Road) - Frank Sinatra (Blade Runner 2049 Soundtrack)](https://www.youtube.com/watch?v=RgyfXKKeZMo)
 - [Blade Runner 2049 - Mesa (Extended)](https://www.youtube.com/watch?v=zzTiaVq9RN0)

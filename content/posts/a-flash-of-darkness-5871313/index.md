@@ -39,12 +39,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mark Morriss 'A Flash Of Darkness' Full Album
-{{< youtube id="L9q47aVymd4" title="Mark Morriss 'A Flash Of Darkness' Full Album" >}}<br>
+### A Flash of Darkness
+{{< youtube id="aSwZUI8ETZ8" title="A Flash of Darkness" >}}<br>
 
 ### More Videos
 
-- [A Flash of Darkness](https://www.youtube.com/watch?v=aSwZUI8ETZ8)
+- [Mark Morriss 'A Flash Of Darkness' Full Album](https://www.youtube.com/watch?v=L9q47aVymd4)
 
 
 ## Release Information

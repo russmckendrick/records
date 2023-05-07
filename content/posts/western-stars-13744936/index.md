@@ -41,12 +41,11 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 
 
 ## Videos
-### Bruce Springsteen - Western Stars (Official Video)
-{{< youtube id="_IXzAAKrsFE" title="Bruce Springsteen - Western Stars (Official Video)" >}}<br>
+### Bruce Springsteen - There Goes My Miracle (Lyric Video)
+{{< youtube id="tbDKBcPsmoQ" title="Bruce Springsteen - There Goes My Miracle (Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Bruce Springsteen - There Goes My Miracle (Lyric Video)](https://www.youtube.com/watch?v=tbDKBcPsmoQ)
 - [Tucson Train](https://www.youtube.com/watch?v=I1mVTBB9ACw)
 - [Sundown](https://www.youtube.com/watch?v=JjeN0EpD1BA)
 - [Bruce Springsteen - Moonlight Motel (Official Audio)](https://www.youtube.com/watch?v=paFUBjeTcZY)
@@ -55,6 +54,7 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 - [Bruce Springsteen - Sundown (2019)](https://www.youtube.com/watch?v=p99hRBM30iM)
 - [Bruce Springsteen - Hello Sunshine (Lyric Video)](https://www.youtube.com/watch?v=icJjlg5e6l8)
 - [There Goes My Miracle](https://www.youtube.com/watch?v=ovDPz46lGVY)
+- [Bruce Springsteen - Western Stars (Official Video)](https://www.youtube.com/watch?v=_IXzAAKrsFE)
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
 - [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 

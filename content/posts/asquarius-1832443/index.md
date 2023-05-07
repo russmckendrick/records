@@ -40,14 +40,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Cud - Spanish Love Song
-{{< youtube id="hC2vQwuvr5o" title="Cud - Spanish Love Song" >}}<br>
+### CUD - Rich and Strange (1992)
+{{< youtube id="D7ikmVbr8J8" title="CUD - Rich and Strange (1992)" >}}<br>
 
 ### More Videos
 
-- [CUD - Rich and Strange (1992)](https://www.youtube.com/watch?v=D7ikmVbr8J8)
 - [CUD - Magic Alex](https://www.youtube.com/watch?v=wvU4gaoeozk)
 - [CUD - Beyond Hair](https://www.youtube.com/watch?v=FYJUxY4Pa7Q)
+- [Cud - Spanish Love Song](https://www.youtube.com/watch?v=hC2vQwuvr5o)
 
 
 ## Release Information

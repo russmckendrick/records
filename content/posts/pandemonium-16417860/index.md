@@ -38,13 +38,13 @@ styles: ["Industrial", "Heavy Metal"]
 
 
 ## Videos
-### Millenium
-{{< youtube id="Tpiqap0JRIA" title="Millenium" >}}<br>
+### Killing Joke - Pandemonium
+{{< youtube id="skUUVejxDZc" title="Killing Joke - Pandemonium" >}}<br>
 
 ### More Videos
 
-- [Killing Joke - Pandemonium](https://www.youtube.com/watch?v=skUUVejxDZc)
 - [Exorcism](https://www.youtube.com/watch?v=lC781aCldKY)
+- [Millenium](https://www.youtube.com/watch?v=Tpiqap0JRIA)
 - [Communion](https://www.youtube.com/watch?v=kjoJd2GxBMo)
 - [Black Moon](https://www.youtube.com/watch?v=HsvPlgOUtsQ)
 - [Labyrinth](https://www.youtube.com/watch?v=NjDyUIwsuXo)

@@ -38,16 +38,16 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Charles Bradley - Stay Away (Official Audio)
-{{< youtube id="orZABpOFUj4" title="Charles Bradley - Stay Away (Official Audio)" >}}<br>
+### Charles Bradley - Can't Fight the Feeling (Official Audio)
+{{< youtube id="inCKjKHd-YY" title="Charles Bradley - Can't Fight the Feeling (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Charles Bradley - Can't Fight the Feeling (Official Audio)](https://www.youtube.com/watch?v=inCKjKHd-YY)
 - [Charles Bradley - Luv Jones (Official Audio)](https://www.youtube.com/watch?v=931ZsQyAE2o)
 - [Charles Bradley I Feel a Change (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Cx8qITIIRiU)
 - [Charles Bradley - Slip Away (Official Audio)](https://www.youtube.com/watch?v=DB6zL9lJ55U)
 - [Charles Bradley - Black Velvet (Official Audio)](https://www.youtube.com/watch?v=hOX9FmZrj04)
+- [Charles Bradley - Stay Away (Official Audio)](https://www.youtube.com/watch?v=orZABpOFUj4)
 - [Charles Bradley - Heart of Gold (Official Audio)](https://www.youtube.com/watch?v=YDz80tc7pRM)
 - [Charles Bradley - I Hope You Find The Good Life (Official Audio)](https://www.youtube.com/watch?v=D3nmdVJsaq4)
 - [Charles Bradley - Fly Little Girl (Official Audio)](https://www.youtube.com/watch?v=TkhAaPCApYE)

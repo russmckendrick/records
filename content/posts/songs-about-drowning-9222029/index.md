@@ -37,12 +37,12 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Thought Forms - Forget My Name
-{{< youtube id="wIqml6lLNJw" title="Thought Forms - Forget My Name" >}}<br>
+### Thought Forms - Woolf Music
+{{< youtube id="20G3LlU4z1A" title="Thought Forms - Woolf Music" >}}<br>
 
 ### More Videos
 
-- [Thought Forms - Woolf Music](https://www.youtube.com/watch?v=20G3LlU4z1A)
+- [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
 
 
 ## Release Information

@@ -40,13 +40,13 @@ styles: ["Soul"]
 
 
 ## Videos
-### Lee Fields Sentimental Fool (Official Video)
-{{< youtube id="7LuwyvAl1rU" title="Lee Fields Sentimental Fool (Official Video)" >}}<br>
+### Lee Fields - Forever (Official Audio)
+{{< youtube id="BRXpKc873PQ" title="Lee Fields - Forever (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Lee Fields - Forever (Official Audio)](https://www.youtube.com/watch?v=BRXpKc873PQ)
 - [What Did I Do](https://www.youtube.com/watch?v=-uEdg8aueLw)
+- [Lee Fields Sentimental Fool (Official Video)](https://www.youtube.com/watch?v=7LuwyvAl1rU)
 - [Without A Heart](https://www.youtube.com/watch?v=zKDL_x1mJpU)
 - [Lee Fields Two Jobs (Official Audio)](https://www.youtube.com/watch?v=bVOxk-Xw5Sk)
 - [I Should Have Let You Be](https://www.youtube.com/watch?v=6uJbt6SXykI)

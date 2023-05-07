@@ -43,12 +43,11 @@ styles: ["Soft Rock"]
 
 
 ## Videos
-### John Parr - St Elmo's Fire  (Man In Motion)
-{{< youtube id="EOvMpND2OZY" title="John Parr - St Elmo's Fire  (Man In Motion)" >}}<br>
+### Heart - Alone
+{{< youtube id="1Cw1ng75KP0" title="Heart - Alone" >}}<br>
 
 ### More Videos
 
-- [Heart - Alone](https://www.youtube.com/watch?v=1Cw1ng75KP0)
 - [Marillion - Kayleigh](https://www.youtube.com/watch?v=pQCu8Jp9iwM)
 - [Whitesnake - Here I Go Again '87](https://www.youtube.com/watch?v=WyF8RHM1OCg)
 - [Saxon - Ride Like The Wind (Official Video HD)](https://www.youtube.com/watch?v=NleLo2wwNYw)
@@ -65,6 +64,7 @@ styles: ["Soft Rock"]
 - [Krokus - Screaming In The Night](https://www.youtube.com/watch?v=uNKVyoG-AUk)
 - [Faith No More - We Care A Lot (Official Music Video)](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [Survivor - Burning Heart](https://www.youtube.com/watch?v=Kc71KZG87X4)
+- [John Parr - St Elmo's Fire  (Man In Motion)](https://www.youtube.com/watch?v=EOvMpND2OZY)
 
 
 ## Release Information

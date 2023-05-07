@@ -43,12 +43,11 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Sea of Simulation
-{{< youtube id="II7pQns97iU" title="Sea of Simulation" >}}<br>
+### Tron Suite - Wendy Carlos
+{{< youtube id="P5RcNuQXuR4" title="Tron Suite - Wendy Carlos" >}}<br>
 
 ### More Videos
 
-- [Tron Suite - Wendy Carlos](https://www.youtube.com/watch?v=P5RcNuQXuR4)
 - [01 Tron   Creation Of Tron   Wendy Carlos](https://www.youtube.com/watch?v=o4XVOmAAkyo)
 - [We've Got Company](https://www.youtube.com/watch?v=VKt5-mxKSz4)
 - [Wormhole (TRON Soundtrack)](https://www.youtube.com/watch?v=m-v2vCMjrnw)
@@ -61,6 +60,7 @@ styles: ["Soundtrack"]
 - [Love Theme](https://www.youtube.com/watch?v=nB_AVIC14ow)
 - [Tower Music [Let Us Pray] (TRON Soundtrack)](https://www.youtube.com/watch?v=AFTSOU6h_UI)
 - [The Light Sailer (TRON Soundtrack)](https://www.youtube.com/watch?v=MkDI0m5M06A)
+- [Sea of Simulation](https://www.youtube.com/watch?v=II7pQns97iU)
 - [A New Tron and the MCP](https://www.youtube.com/watch?v=ewSk7uf4MbQ)
 - [Anthem (TRON Soundtrack)](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
 - [Tron: End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)

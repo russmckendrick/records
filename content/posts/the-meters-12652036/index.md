@@ -40,12 +40,11 @@ styles: ["Bayou Funk"]
 
 
 ## Videos
-### The Meters - Stormy
-{{< youtube id="i-ShsT4aKHU" title="The Meters - Stormy" >}}<br>
+### The Meters- Cardova
+{{< youtube id="bzjGeyW0MpE" title="The Meters- Cardova" >}}<br>
 
 ### More Videos
 
-- [The Meters- Cardova](https://www.youtube.com/watch?v=bzjGeyW0MpE)
 - [Cissy Strut](https://www.youtube.com/watch?v=Nd3yDoOyvbY)
 - [The Meters- Cissy Strut](https://www.youtube.com/watch?v=Zkk-IXt0Dj0)
 - [Here Comes the Meter Man](https://www.youtube.com/watch?v=jEA4FiYZWaM)
@@ -59,6 +58,7 @@ styles: ["Bayou Funk"]
 - [6V6 LA](https://www.youtube.com/watch?v=4CNS2jYBsZw)
 - [Sehorn's Farm](https://www.youtube.com/watch?v=54Ss8rnzCz8)
 - [Ann](https://www.youtube.com/watch?v=QGuL1qOKp4Q)
+- [The Meters - Stormy](https://www.youtube.com/watch?v=i-ShsT4aKHU)
 - [Sing a Simple Song](https://www.youtube.com/watch?v=7VT9MTLEDWw)
 
 

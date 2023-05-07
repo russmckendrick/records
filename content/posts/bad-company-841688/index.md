@@ -33,12 +33,12 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 
 
 ## Videos
-### Bad Company - Bad Company (Official Audio)
-{{< youtube id="JXQJpyQBShU" title="Bad Company - Bad Company (Official Audio)" >}}<br>
+### Bad Company - Bad Company (US CD Reissue)
+{{< youtube id="XQcR3iL-7ks" title="Bad Company - Bad Company (US CD Reissue)" >}}<br>
 
 ### More Videos
 
-- [Bad Company - Bad Company (US CD Reissue)](https://www.youtube.com/watch?v=XQcR3iL-7ks)
+- [Bad Company - Bad Company (Official Audio)](https://www.youtube.com/watch?v=JXQJpyQBShU)
 - [Bad Company - Bad Company (1974) (Full Album)](https://www.youtube.com/watch?v=rClS2ANayh8)
 
 

@@ -39,18 +39,18 @@ styles: ["Reggae"]
 
 
 ## Videos
-### Keep On Dancing
-{{< youtube id="UfRxM6XNwDg" title="Keep On Dancing" >}}<br>
+### Special
+{{< youtube id="7t_56xBaLwY" title="Special" >}}<br>
 
 ### More Videos
 
-- [Special](https://www.youtube.com/watch?v=7t_56xBaLwY)
 - [Jimmy Cliff - Roots Radical - (Special)](https://www.youtube.com/watch?v=JSc4-XYANZU)
 - [Jimmy Cliff - Originator - (Special)](https://www.youtube.com/watch?v=KCQ2HYjXGgc)
 - [Jimmy Cliff - Rock Children - (Special)](https://www.youtube.com/watch?v=zoaqgjTLRx0)
 - [Jimmy Cliff   Special](https://www.youtube.com/watch?v=E7tGME656_I)
 - [Jimmy Cliff - Rub A Dub Partner - (Special)](https://www.youtube.com/watch?v=5hP59-qo0i8)
 - [Treat the Youths Right](https://www.youtube.com/watch?v=6AYTozAXiT8)
+- [Keep On Dancing](https://www.youtube.com/watch?v=UfRxM6XNwDg)
 - [Rub-A-Dub Partners](https://www.youtube.com/watch?v=JFXQ7_Ou59Q)
 - [Rock Children](https://www.youtube.com/watch?v=OOWaTCeUgX0)
 - [Love Heights](https://www.youtube.com/watch?v=Jo23MfdC2_k)

@@ -37,13 +37,13 @@ styles: ["New Wave"]
 
 
 ## Videos
-### The B-52's - The B-52's (1979) - Full Album
-{{< youtube id="bZNdaL75118" title="The B-52's - The B-52's (1979) - Full Album" >}}<br>
+### The B-52's - Rock Lobster (Official Music Video)
+{{< youtube id="n4QSYx4wVQg" title="The B-52's - Rock Lobster (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [The B-52's - Rock Lobster (Official Music Video)](https://www.youtube.com/watch?v=n4QSYx4wVQg)
 - [The B-52's - Planet Claire (1979)](https://www.youtube.com/watch?v=gdMRTmuOeqA)
+- [The B-52's - The B-52's (1979) - Full Album](https://www.youtube.com/watch?v=bZNdaL75118)
 
 
 ## Release Information

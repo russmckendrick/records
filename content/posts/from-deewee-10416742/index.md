@@ -40,12 +40,11 @@ styles: ["Electro", "Synth-pop", "Disco"]
 
 
 ## Videos
-### Soulwax - Missing Wires
-{{< youtube id="NSWpNntG6Mc" title="Soulwax - Missing Wires" >}}<br>
+### Masterplanned
+{{< youtube id="pdcbDkrBVaY" title="Masterplanned" >}}<br>
 
 ### More Videos
 
-- [Masterplanned](https://www.youtube.com/watch?v=pdcbDkrBVaY)
 - [Trespassers](https://www.youtube.com/watch?v=jJxWVe5M2S8)
 - [Is It Always Binary](https://www.youtube.com/watch?v=3E8o9RkLFkM)
 - [Is It Always Binary](https://www.youtube.com/watch?v=W_21IVzPGvY)
@@ -53,6 +52,7 @@ styles: ["Electro", "Synth-pop", "Disco"]
 - [The Singer Has Become a Deejay](https://www.youtube.com/watch?v=BmJdBBLba9Q)
 - [Soulwax - Conditions Of A Shared Belief](https://www.youtube.com/watch?v=oo-pUHmN08g)
 - [Soulwax - Transient Program for Drums and Machinery - DEEWEE 019](https://www.youtube.com/watch?v=m8K3-lLxaoI)
+- [Soulwax - Missing Wires](https://www.youtube.com/watch?v=NSWpNntG6Mc)
 
 
 ## Release Information

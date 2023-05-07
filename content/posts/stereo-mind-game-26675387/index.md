@@ -37,18 +37,18 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Daughter - Party (Official Video)
-{{< youtube id="KdgntP7Yp5o" title="Daughter - Party (Official Video)" >}}<br>
+### Daughter - To Rage (Official Lyric Video)
+{{< youtube id="4O-Jg8Bp67s" title="Daughter - To Rage (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Daughter - To Rage (Official Lyric Video)](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
 - [Daughter - Junkmail (Official Lyric Video)](https://www.youtube.com/watch?v=ubcE16uf4_Y)
 - [Daughter - Dandelion (Official Lyric Video)](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
 - [Daughter - Isolation (Official Lyric Video)](https://www.youtube.com/watch?v=fcbGDyRF5gM)
 - [Daughter - Be On Your Way (Official Video)](https://www.youtube.com/watch?v=6GDzvjRRIkY)
 - [Daughter - Future Lover (Official Lyric Video)](https://www.youtube.com/watch?v=yyOr8tzmzBM)
 - [Daughter - (Missed Calls) (Official Lyric Video)](https://www.youtube.com/watch?v=R02iLK2ku64)
+- [Daughter - Party (Official Video)](https://www.youtube.com/watch?v=KdgntP7Yp5o)
 - [Daughter - Wish I Could Cross The Sea (Official Lyric Video)](https://www.youtube.com/watch?v=oh7Ptszx-V0)
 - [Daughter - Intro (Official Lyric Video)](https://www.youtube.com/watch?v=CLMNIFyjeYw)
 - [Daughter - Swim Back (Official Video)](https://www.youtube.com/watch?v=MXuYBBjHHiQ)

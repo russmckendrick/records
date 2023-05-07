@@ -36,12 +36,11 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - Here And Now
-{{< youtube id="cqtN38_lK-Y" title="Ride - Here And Now" >}}<br>
+### Ride - Taste (Video)
+{{< youtube id="APqGzOD0fUk" title="Ride - Taste (Video)" >}}<br>
 
 ### More Videos
 
-- [Ride - Taste (Video)](https://www.youtube.com/watch?v=APqGzOD0fUk)
 - [Ride-Seagull](https://www.youtube.com/watch?v=wF0FO5riglY)
 - [Ride - Vapour Trail (Video)](https://www.youtube.com/watch?v=pVhNi5cU8mo)
 - [Ride- Kaleidoscope](https://www.youtube.com/watch?v=JucqVvhitWE)
@@ -52,6 +51,7 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 - [Ride - Paralysed](https://www.youtube.com/watch?v=721yIvBq7DI)
 - [Ride- Vapour Trail](https://www.youtube.com/watch?v=ygGw_zo_W8A)
 - [Ride - Taste](https://www.youtube.com/watch?v=BZ8_c-aFOVg)
+- [Ride - Here And Now](https://www.youtube.com/watch?v=cqtN38_lK-Y)
 - [Ride - Nowhere](https://www.youtube.com/watch?v=NxGAC5inulE)
 
 

@@ -37,12 +37,12 @@ styles: ["Blues Rock", "Hard Rock"]
 
 
 ## Videos
-### Monster Truck - Why Are You Not Rocking? (Sittin' Heavy) 2016
-{{< youtube id="dpH3PJj0wh8" title="Monster Truck - Why Are You Not Rocking? (Sittin' Heavy) 2016" >}}<br>
+### Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016
+{{< youtube id="EKv4MNo03zY" title="Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016" >}}<br>
 
 ### More Videos
 
-- [Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=EKv4MNo03zY)
+- [Monster Truck - Why Are You Not Rocking? (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=dpH3PJj0wh8)
 - [Monster Truck - The Enforcer (Official Audio)](https://www.youtube.com/watch?v=ENNtNc1di-c)
 - [Monster Truck - New Soul (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=2-ZnHeKpjHc)
 - [Monster Truck - Don't Tell Me How To Live (Official Audio)](https://www.youtube.com/watch?v=qLHeeK4Kzmo)

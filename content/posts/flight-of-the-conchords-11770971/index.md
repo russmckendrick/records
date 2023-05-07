@@ -43,16 +43,16 @@ styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 
 
 ## Videos
-### Flight of the Conchords Ep 6 Bowie's In Space
-{{< youtube id="f4zV4pJ8MwM" title="Flight of the Conchords Ep 6 Bowie's In Space" >}}<br>
+### Flight of the Conchords Ep 8 'Foux Da Fa Fa'
+{{< youtube id="X5hrUGFhsXo" title="Flight of the Conchords Ep 8 'Foux Da Fa Fa'" >}}<br>
 
 ### More Videos
 
-- [Flight of the Conchords Ep 8 'Foux Da Fa Fa'](https://www.youtube.com/watch?v=X5hrUGFhsXo)
 - [Flight of the Conchords Ep 3 Hiphopopotamus vs. Rhymenoceros](https://www.youtube.com/watch?v=FArZxLj6DLk)
 - [Flight Of The Conchords](https://www.youtube.com/watch?v=lmDTSQtK20c)
 - [Flight of the Conchords: Robot Song (HBO)](https://www.youtube.com/watch?v=mvrva8NoMLM)
 - [Flight of the Conchords Ep2 Inner City Pressure](https://www.youtube.com/watch?v=7wqfcwgT0Ds)
+- [Flight of the Conchords Ep 6 Bowie's In Space](https://www.youtube.com/watch?v=f4zV4pJ8MwM)
 - [Boom](https://www.youtube.com/watch?v=hD82FYtIIr0)
 
 

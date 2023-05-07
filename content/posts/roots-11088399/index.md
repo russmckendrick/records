@@ -56,12 +56,11 @@ styles: ["Thrash", "Nu Metal"]
 
 
 ## Videos
-### Sepultura – Itsari
-{{< youtube id="MDEQs9qGK4A" title="Sepultura – Itsari" >}}<br>
+### Sepultura - Roots (Full Album)
+{{< youtube id="NXvPBe9ynsc" title="Sepultura - Roots (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Sepultura - Roots (Full Album)](https://www.youtube.com/watch?v=NXvPBe9ynsc)
 - [Sepultura - Roots Bloody Roots [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=F_6IjeprfEs)
 - [Sepultura - Ratamahatta [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=NiwqRSCWw2g)
 - [Sepultura - Attitude [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0TanJ9jf-p4)
@@ -71,6 +70,7 @@ styles: ["Thrash", "Nu Metal"]
 - [Sepultura – Cut-Throat](https://www.youtube.com/watch?v=D4e5ECoMoWc)
 - [Sepultura – Dusted](https://www.youtube.com/watch?v=IUNlmSQZaAI)
 - [Sepultura – Dictatorshit](https://www.youtube.com/watch?v=VNkyeiBbKhA)
+- [Sepultura – Itsari](https://www.youtube.com/watch?v=MDEQs9qGK4A)
 - [Sepultura – Jasco](https://www.youtube.com/watch?v=xXHlSZ8deRM)
 - [Sepultura – Chaos B.C (Bonus Track)](https://www.youtube.com/watch?v=flU0nVcr8cg)
 - [Sepultura – Straighthate](https://www.youtube.com/watch?v=cnSw1MtGnZY)

@@ -41,12 +41,11 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Bitter Sweet Symphony (MSG Version)
-{{< youtube id="I6MdbXqQhl0" title="Bitter Sweet Symphony (MSG Version)" >}}<br>
+### T̲he V̲e̲rve - Urban Hymns (Full Album)
+{{< youtube id="AWUD05jzL5o" title="T̲he V̲e̲rve - Urban Hymns (Full Album)" >}}<br>
 
 ### More Videos
 
-- [T̲he V̲e̲rve - Urban Hymns (Full Album)](https://www.youtube.com/watch?v=AWUD05jzL5o)
 - [The Verve - Bitter Sweet Symphony (Official Music Video)](https://www.youtube.com/watch?v=1lyu1KKwC74)
 - [The Verve - The Drugs Don't Work](https://www.youtube.com/watch?v=ToQ0n3itoII)
 - [The Verve - Lucky Man (Official Music Video)](https://www.youtube.com/watch?v=MH6TJU0qWoY)
@@ -73,6 +72,7 @@ styles: ["Alternative Rock", "Britpop"]
 - [The Crab](https://www.youtube.com/watch?v=urlZ0LPk8Kk)
 - [Stamped](https://www.youtube.com/watch?v=LQUe_NwBnJg)
 - [Never Wanna See You Cry](https://www.youtube.com/watch?v=EEFSpz974A8)
+- [Bitter Sweet Symphony (MSG Version)](https://www.youtube.com/watch?v=I6MdbXqQhl0)
 - [The Longest Day](https://www.youtube.com/watch?v=KD7bW8BsY9g)
 - [Lucky Man (Happiness More Or Less Mix)](https://www.youtube.com/watch?v=o0Xe0vswleo)
 - [Bitter Sweet Symphony (Extended Version)](https://www.youtube.com/watch?v=1WTATreAg08)

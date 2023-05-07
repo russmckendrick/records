@@ -42,18 +42,18 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Specials - You're Wondering Now
-{{< youtube id="xEPfSWk0Lsw" title="The Specials - You're Wondering Now" >}}<br>
+### The Specials   FULL ALBUM
+{{< youtube id="0eWzrqHYmZs" title="The Specials   FULL ALBUM" >}}<br>
 
 ### More Videos
 
-- [The Specials   FULL ALBUM](https://www.youtube.com/watch?v=0eWzrqHYmZs)
 - [The Specials - Monkey Man](https://www.youtube.com/watch?v=8miotqEVeSo)
 - [The Specials - Gangsters](https://www.youtube.com/watch?v=lgCZN1rU5co)
 - [The Specials - A Message To You Rudy (Official Music Video)](https://www.youtube.com/watch?v=cntvEDbagAw)
 - [The Specials - The Specials (full album)](https://www.youtube.com/watch?v=e17djV2uGSU)
 - [The Specials - The Very Best of The Specials and Fun Boy Three (full album)](https://www.youtube.com/watch?v=jQGCG377V3w)
 - [The Specials - Too Much Too Young (2015 Remaster)](https://www.youtube.com/watch?v=PD9NvKKY7W0)
+- [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=xEPfSWk0Lsw)
 - [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
 - [The Specials - Stupid Marriage](https://www.youtube.com/watch?v=YM7oBFi0oN8)
 

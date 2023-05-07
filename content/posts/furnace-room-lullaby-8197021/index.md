@@ -37,14 +37,14 @@ styles: ["Alternative Rock", "Country"]
 
 
 ## Videos
-### Neko Case & Her Boyfriends - Mood to Burn Bridges
-{{< youtube id="_s6DQSIjTFs" title="Neko Case & Her Boyfriends - Mood to Burn Bridges" >}}<br>
+### Set Out Running
+{{< youtube id="HTPJq30ghBA" title="Set Out Running" >}}<br>
 
 ### More Videos
 
-- [Set Out Running](https://www.youtube.com/watch?v=HTPJq30ghBA)
 - [Neko Case Furnace Room Lullaby from The Gift](https://www.youtube.com/watch?v=9nBt_e9tzdQ)
 - [Guided By Wire](https://www.youtube.com/watch?v=sCwg05ayU6o)
+- [Neko Case & Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
 - [Mood to Burn Bridges](https://www.youtube.com/watch?v=qKdDcwdygos)
 - [Thrice All American](https://www.youtube.com/watch?v=lT4QMN93g9o)
 - [We've Never Met](https://www.youtube.com/watch?v=zhMr1kCJy-Y)

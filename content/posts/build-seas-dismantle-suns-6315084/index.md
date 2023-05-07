@@ -36,13 +36,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Nordic Giants ± Little Bird ± Dismantle Suns
-{{< youtube id="lRf7YNeUh18" title="Nordic Giants ± Little Bird ± Dismantle Suns" >}}<br>
+### Nordic Giants ± Mechanical Minds ± Dismantle Suns EP
+{{< youtube id="TxeBiUnKOEM" title="Nordic Giants ± Mechanical Minds ± Dismantle Suns EP" >}}<br>
 
 ### More Videos
 
-- [Nordic Giants ± Mechanical Minds ± Dismantle Suns EP](https://www.youtube.com/watch?v=TxeBiUnKOEM)
 - [Nordic Giants ± Dark Clouds Mean War ± Dismantle Suns EP](https://www.youtube.com/watch?v=eO5KM3BlOa4)
+- [Nordic Giants ± Little Bird ± Dismantle Suns](https://www.youtube.com/watch?v=lRf7YNeUh18)
 - [Nordic Giants ± Strangest Tides Ft HeyMun ± Dismantle Suns EP](https://www.youtube.com/watch?v=5XLoMwelcec)
 - [Nordic Giants - Live at the Cabaret Voltaire, Edinburgh October 7, 2013 FULL SHOW HD](https://www.youtube.com/watch?v=VBkcCv9pzsA)
 - [Nordic Giants @ London Lexington 2013 - Dark Clouds Mean War](https://www.youtube.com/watch?v=fCqAjnaluNg)

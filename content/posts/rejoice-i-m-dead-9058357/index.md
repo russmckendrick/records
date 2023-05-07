@@ -37,18 +37,18 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Gong - Rejoice! (Phoenix FM session at Studio 6 Music)
-{{< youtube id="z0JA74pIk58" title="Gong - Rejoice! (Phoenix FM session at Studio 6 Music)" >}}<br>
+### GONG - Rejoice! (LIVE in Bonn 2017)
+{{< youtube id="wCO89IRZGTg" title="GONG - Rejoice! (LIVE in Bonn 2017)" >}}<br>
 
 ### More Videos
 
-- [GONG - Rejoice! (LIVE in Bonn 2017)](https://www.youtube.com/watch?v=wCO89IRZGTg)
 - [Gong - Rejoice! I'm Dead! (album montage)](https://www.youtube.com/watch?v=dgBCSVgzxzA)
 - [GONG -- REJOICE - I'M NOT DEAD (DJ MIX)](https://www.youtube.com/watch?v=KElr32jXF1A)
 - [Gong — The Thing That Should Be](https://www.youtube.com/watch?v=Mbq8hfejqcQ)
 - [GONG - Rejoice! (Loreley, NOTP 2017)](https://www.youtube.com/watch?v=RqacE7JXHnY)
 - [GONG - Rejoice (clip) (from Rejoice! I'm Dead!)](https://www.youtube.com/watch?v=bynWRpnP3aU)
 - [GONG-Rejoice! I'm dead!-Sesc Belenzinho SP 2017](https://www.youtube.com/watch?v=7cg6BjI6IC0)
+- [Gong - Rejoice! (Phoenix FM session at Studio 6 Music)](https://www.youtube.com/watch?v=z0JA74pIk58)
 - [Prog Review 497 - Rejoice! I'm Dead! - Gong](https://www.youtube.com/watch?v=Ce1_JgQeEwc)
 
 

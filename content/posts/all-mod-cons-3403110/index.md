@@ -40,12 +40,11 @@ styles: ["New Wave", "Mod"]
 
 
 ## Videos
-### Fly
-{{< youtube id="H7mOmYa--x0" title="Fly" >}}<br>
+### Billy Hunt
+{{< youtube id="4A6GeBiHp1A" title="Billy Hunt" >}}<br>
 
 ### More Videos
 
-- [Billy Hunt](https://www.youtube.com/watch?v=4A6GeBiHp1A)
 - [All Mod Cons](https://www.youtube.com/watch?v=UChgYxZ0_so)
 - [To Be Someone (Didn't We Have A Nice Time)](https://www.youtube.com/watch?v=e16_8ZhPDZU)
 - [Mr. Clean](https://www.youtube.com/watch?v=j3u1LsoiL18)
@@ -53,6 +52,7 @@ styles: ["New Wave", "Mod"]
 - [English Rose](https://www.youtube.com/watch?v=Zve5DJn_9R8)
 - [In The Crowd (Full Version)](https://www.youtube.com/watch?v=b6pO2XkK88I)
 - [It's Too Bad](https://www.youtube.com/watch?v=IrUmEsR6yyY)
+- [Fly](https://www.youtube.com/watch?v=H7mOmYa--x0)
 - [The Place I Love](https://www.youtube.com/watch?v=p0zSbY6fqhU)
 - ['A' Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)
 - [Down In The Tube Station At Midnight (Full Version)](https://www.youtube.com/watch?v=rKcc_I9NXvM)

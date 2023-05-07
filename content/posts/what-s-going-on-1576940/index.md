@@ -37,12 +37,12 @@ styles: ["Soul"]
 
 
 ## Videos
-### M̲a̲rvin G̲a̲ye  - W̲hat's G̲oing On Full Album 1971
-{{< youtube id="Mmve4q1Hy9Y" title="M̲a̲rvin G̲a̲ye  - W̲hat's G̲oing On Full Album 1971" >}}<br>
+### Marvin Gaye - What's Going On
+{{< youtube id="H-kA3UtBj4M" title="Marvin Gaye - What's Going On" >}}<br>
 
 ### More Videos
 
-- [Marvin Gaye - What's Going On](https://www.youtube.com/watch?v=H-kA3UtBj4M)
+- [M̲a̲rvin G̲a̲ye  - W̲hat's G̲oing On Full Album 1971](https://www.youtube.com/watch?v=Mmve4q1Hy9Y)
 
 
 ## Release Information

@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Industrial"]
 
 
 ## Videos
-### Gary Numan - The End of Things (Official Video)
-{{< youtube id="8BAylyh2XG4" title="Gary Numan - The End of Things (Official Video)" >}}<br>
+### Gary Numan - Ghost Nation (Official Audio)
+{{< youtube id="r36v1grp3I0" title="Gary Numan - Ghost Nation (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Gary Numan - Ghost Nation (Official Audio)](https://www.youtube.com/watch?v=r36v1grp3I0)
+- [Gary Numan - The End of Things (Official Video)](https://www.youtube.com/watch?v=8BAylyh2XG4)
 - [Bed of Thorns](https://www.youtube.com/watch?v=mBdAVaaxmpY)
 - [Gary Numan / Savage (Songs from a Broken World) / And It All Began With You  (Audio)](https://www.youtube.com/watch?v=-7yLt4EY5P4)
 - [Gary Numan - My Name Is Ruin (Official Video)](https://www.youtube.com/watch?v=lHomCiPFknY)

@@ -52,12 +52,11 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)
-{{< youtube id="ffhWSv2qwBc" title="The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)" >}}<br>
+### The Notorious B.I.G. - Sky's The Limit (Official Music Video)
+{{< youtube id="d3vOeCkeCNA" title="The Notorious B.I.G. - Sky's The Limit (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [The Notorious B.I.G. - Sky's The Limit (Official Music Video)](https://www.youtube.com/watch?v=d3vOeCkeCNA)
 - [The Notorious B.I.G. - I Got A Story To Tell (Official Audio)](https://www.youtube.com/watch?v=6TnsIGsyUyw)
 - [The Notorious B.I.G. - Hypnotize](https://www.youtube.com/watch?v=glEiPXAYE-U)
 - [The Notorious B.I.G. - Life After Death (Full Album) [Official]](https://www.youtube.com/watch?v=rCyWFj0nLyk)
@@ -65,6 +64,7 @@ styles: ["Gangsta"]
 - [The Notorious B.I.G. - Life After Death (Official Audio)](https://www.youtube.com/watch?v=lTtKkPgvQok)
 - [The Notorious B.I.G. - Somebody's Gotta Die (Official Audio)](https://www.youtube.com/watch?v=22YBfS3hLrg)
 - [The Notorious B.I.G. - Kick in the Door (Official Audio)](https://www.youtube.com/watch?v=78SV9tguyVM)
+- [The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)](https://www.youtube.com/watch?v=ffhWSv2qwBc)
 - [The Notorious B.I.G. - Niggas Bleed (Official Audio)](https://www.youtube.com/watch?v=hObvr_Iyl7k)
 - [The Notorious B.I.G. - Long Kiss Goodnight (Official Audio)](https://www.youtube.com/watch?v=7bluk086A2U)
 - [The Notorious B.I.G. - I Love The Dough (feat. Jay-Z and Angela Winbush) (Official Audio)](https://www.youtube.com/watch?v=I4Lwjz2CAFI)

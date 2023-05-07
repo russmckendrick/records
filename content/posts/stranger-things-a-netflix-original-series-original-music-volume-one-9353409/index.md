@@ -61,12 +61,11 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### Hawkins Lab
-{{< youtube id="sIKtdbETG9Q" title="Hawkins Lab" >}}<br>
+### The Upside Down
+{{< youtube id="vqffY-6OVKc" title="The Upside Down" >}}<br>
 
 ### More Videos
 
-- [The Upside Down](https://www.youtube.com/watch?v=vqffY-6OVKc)
 - [Stranger Things Soundtrack Vol. 1 (Chiptune Edition)](https://www.youtube.com/watch?v=X8ngDjOqhAE)
 - [Kyle Dixon & Michael Stein - Kids (Stranger Things - Vol. 1), 2016](https://www.youtube.com/watch?v=V2f5eHmMEdo)
 - [Kyle Dixon & Michael Stein - Stranger Things Theme - Soundtrack (Extended) | Vinyl Record](https://www.youtube.com/watch?v=9O_lPBKrSeE)
@@ -78,6 +77,7 @@ styles: ["Soundtrack", "Score"]
 - [Lay-Z-Boy](https://www.youtube.com/watch?v=oVd9DKANMZo)
 - [A Kiss](https://www.youtube.com/watch?v=Hnu1fBUjjMQ)
 - [Theoretically](https://www.youtube.com/watch?v=eCmC9PcO4os)
+- [Hawkins Lab](https://www.youtube.com/watch?v=sIKtdbETG9Q)
 - [What Else Is There to Do?](https://www.youtube.com/watch?v=rzoQ6O-1FbM)
 - [You Can Talk to Me](https://www.youtube.com/watch?v=rdNF1ekZF3E)
 

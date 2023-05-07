@@ -42,12 +42,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Electric Light Orchestra - Mr. Blue Sky (Official Video)
-{{< youtube id="aQUlA8Hcv4s" title="Electric Light Orchestra - Mr. Blue Sky (Official Video)" >}}<br>
+### E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977
+{{< youtube id="2f9CoaIH9FE" title="E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977" >}}<br>
 
 ### More Videos
 
-- [E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977](https://www.youtube.com/watch?v=2f9CoaIH9FE)
+- [Electric Light Orchestra - Mr. Blue Sky (Official Video)](https://www.youtube.com/watch?v=aQUlA8Hcv4s)
 - [Electric Light Orchestra - Big Wheels (2016 European Vinyl)](https://www.youtube.com/watch?v=TctEigzKUOk)
 - [Electric Light Orchestra - Starlight (Audio)](https://www.youtube.com/watch?v=wgoNMzepg1g)
 - [Electric Light Orchestra - It's Over (Official Video)](https://www.youtube.com/watch?v=84gmKIKTk40)

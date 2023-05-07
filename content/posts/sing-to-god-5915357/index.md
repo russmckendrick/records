@@ -48,12 +48,11 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### Cardiacs -  Nurses Whispering Verses (Sing to god version)
-{{< youtube id="tiVOEHIHuzU" title="Cardiacs -  Nurses Whispering Verses (Sing to god version)" >}}<br>
+### Cardiacs - Eat It Up Worms Hero
+{{< youtube id="hFHAwU2cXDw" title="Cardiacs - Eat It Up Worms Hero" >}}<br>
 
 ### More Videos
 
-- [Cardiacs - Eat It Up Worms Hero](https://www.youtube.com/watch?v=hFHAwU2cXDw)
 - [The Cardiacs - Dog Like Sparky](https://www.youtube.com/watch?v=a820Xo4XdB8)
 - [Cardiacs - Fiery Gun Hand](https://www.youtube.com/watch?v=ebDdbUacEao)
 - [Cardiacs - Insect Hoofs on Lassie](https://www.youtube.com/watch?v=Ka0boB28wUo)
@@ -61,6 +60,7 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [TRIBUTE VIDEO TO TIM SMITH ( CARDIACS ) : MANHOO from SING TO GOD](https://www.youtube.com/watch?v=rN5znaFXcVc)
 - [Cardiacs - Dirty Boy](https://www.youtube.com/watch?v=d-dd4fMUhAY)
 - [Billion](https://www.youtube.com/watch?v=chs6xkDJWq4)
+- [Cardiacs -  Nurses Whispering Verses (Sing to god version)](https://www.youtube.com/watch?v=tiVOEHIHuzU)
 - [Foundling](https://www.youtube.com/watch?v=t0qc3kVbACY)
 
 

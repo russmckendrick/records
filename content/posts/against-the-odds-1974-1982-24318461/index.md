@@ -163,13 +163,13 @@ styles: ["Power Pop", "Punk", "New Wave"]
 
 
 ## Videos
-### Little Girl Lies (Private Stock Mix)
-{{< youtube id="K14GND5NwuQ" title="Little Girl Lies (Private Stock Mix)" >}}<br>
+### Once I Had A Love (Betrock Demo)
+{{< youtube id="bzVt7eerM28" title="Once I Had A Love (Betrock Demo)" >}}<br>
 
 ### More Videos
 
-- [Once I Had A Love (Betrock Demo)](https://www.youtube.com/watch?v=bzVt7eerM28)
 - [Rapture (Disco Version)](https://www.youtube.com/watch?v=EaqqVT3gn-I)
+- [Little Girl Lies (Private Stock Mix)](https://www.youtube.com/watch?v=K14GND5NwuQ)
 - [Angels On The Balcony (Giorgio Moroder Demo)](https://www.youtube.com/watch?v=CJgO8VI3hMU)
 - [The Disco Song (1974 Session)](https://www.youtube.com/watch?v=XJ-6bwCEX4g)
 - [The Hardest Part (Home Tape)](https://www.youtube.com/watch?v=Ff53JdsHyo8)

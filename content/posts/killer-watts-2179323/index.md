@@ -42,15 +42,15 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 
 
 ## Videos
-### Too Wild To Tame - The Boyzz
-{{< youtube id="9aHCp8TK_Tw" title="Too Wild To Tame - The Boyzz" >}}<br>
+### Aerosmith - No Surprize
+{{< youtube id="_roTCXelnq0" title="Aerosmith - No Surprize" >}}<br>
 
 ### More Videos
 
-- [Aerosmith - No Surprize](https://www.youtube.com/watch?v=_roTCXelnq0)
 - [Ray Gomez - U.S.A.](https://www.youtube.com/watch?v=07d0ynor2TU)
 - [Ozz - 05.Checkin' It Out (Baby Don't You Cry)](https://www.youtube.com/watch?v=fk447PtK5Zk)
 - [shakin'street- Solid As A Rock](https://www.youtube.com/watch?v=v6KkdEzc9EY)
+- [Too Wild To Tame - The Boyzz](https://www.youtube.com/watch?v=9aHCp8TK_Tw)
 - [Journey-Line of Fire(Departure)](https://www.youtube.com/watch?v=cHxkJ9TTSdk)
 - [Boogie No More](https://www.youtube.com/watch?v=H36aL8u7eX0)
 

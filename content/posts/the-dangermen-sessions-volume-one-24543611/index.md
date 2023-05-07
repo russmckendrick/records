@@ -38,13 +38,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### Girl Why Don't You?
-{{< youtube id="HcKWvvGhcJ0" title="Girl Why Don't You?" >}}<br>
+### Israelites
+{{< youtube id="KPoypZ9casY" title="Israelites" >}}<br>
 
 ### More Videos
 
-- [Israelites](https://www.youtube.com/watch?v=KPoypZ9casY)
 - [Madness You Keep Me Hanging on](https://www.youtube.com/watch?v=U3Ms2s4Uq38)
+- [Girl Why Don't You?](https://www.youtube.com/watch?v=HcKWvvGhcJ0)
 - [You Keep Me Hanging On](https://www.youtube.com/watch?v=D8yXfL_Y67E)
 - [This Is Where](https://www.youtube.com/watch?v=wGFg1hVBR-Y)
 - [Taller Than You Are](https://www.youtube.com/watch?v=1gOB44FkP2k)

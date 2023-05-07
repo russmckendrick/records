@@ -39,15 +39,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Dance of the Hoppy Lads
-{{< youtube id="J1B0wMhEbxw" title="Dance of the Hoppy Lads" >}}<br>
+### World Party - Ship of Fools
+{{< youtube id="ZHh0V7UjVXI" title="World Party - Ship of Fools" >}}<br>
 
 ### More Videos
 
-- [World Party - Ship of Fools](https://www.youtube.com/watch?v=ZHh0V7UjVXI)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=JaYcJQej5Uw)
 - [World Party - All Come True](https://www.youtube.com/watch?v=DO1cW97Z3sU)
 - [World Party - Private Revolution (Extended Version)](https://www.youtube.com/watch?v=hRxone8ZtmM)
+- [Dance of the Hoppy Lads](https://www.youtube.com/watch?v=J1B0wMhEbxw)
 - [World Party](https://www.youtube.com/watch?v=qB_xka50sME)
 - [It Can Be Beautiful (Sometimes)](https://www.youtube.com/watch?v=ULtIOuu2Pdg)
 - [It's All Mine](https://www.youtube.com/watch?v=hTjYsAg3Hoc)

@@ -50,12 +50,12 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Videos
-### Todd Rundgren - Back to the Bars (1978) FULL ALBUM Vinyl Rip
-{{< youtube id="YlA1ZjLinMM" title="Todd Rundgren - Back to the Bars (1978) FULL ALBUM Vinyl Rip" >}}<br>
+### Todd Rundgren (Vinyl) Back to the Bars (full album)
+{{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}<br>
 
 ### More Videos
 
-- [Todd Rundgren (Vinyl) Back to the Bars (full album)](https://www.youtube.com/watch?v=dy-4Rzrkwv4)
+- [Todd Rundgren - Back to the Bars (1978) FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=YlA1ZjLinMM)
 
 
 ## Release Information

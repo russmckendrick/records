@@ -36,12 +36,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - I Walk Away
-{{< youtube id="itr1FaWWDcI" title="Split Enz - I Walk Away" >}}<br>
+### Split Enz - One Mouth Is Fed
+{{< youtube id="K2NJXKifgqU" title="Split Enz - One Mouth Is Fed" >}}<br>
 
 ### More Videos
 
-- [Split Enz - One Mouth Is Fed](https://www.youtube.com/watch?v=K2NJXKifgqU)
+- [Split Enz - I Walk Away](https://www.youtube.com/watch?v=itr1FaWWDcI)
 - [Split Enz Years Go By Live '84](https://www.youtube.com/watch?v=QfCWjNrzxg4)
 - [Split Enz Kia Kaha: 1984](https://www.youtube.com/watch?v=BUmC6bYu6Yk)
 

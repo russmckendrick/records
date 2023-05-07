@@ -41,16 +41,16 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Mansun - Negative
-{{< youtube id="WwMSH9-Irm4" title="Mansun - Negative" >}}<br>
+### Mansun - Six
+{{< youtube id="RxbHvLgNl_4" title="Mansun - Six" >}}<br>
 
 ### More Videos
 
-- [Mansun - Six](https://www.youtube.com/watch?v=RxbHvLgNl_4)
 - [M̲a̲n̲s̲u̲n̲̲ - S̲i̲x̲](https://www.youtube.com/watch?v=F0P1JxLWHiA)
 - [Mansun - Six official promo video (HQ)](https://www.youtube.com/watch?v=DxZnqSDXZjw)
 - [Mansun - Legacy](https://www.youtube.com/watch?v=UKa7opcFxCU)
 - [Mansun - Six (animated cover)](https://www.youtube.com/watch?v=bhEi2cBpoAk)
+- [Mansun - Negative](https://www.youtube.com/watch?v=WwMSH9-Irm4)
 - [Mansun - Negative](https://www.youtube.com/watch?v=BnyHcDZHvko)
 - [Mansun - Shotgun](https://www.youtube.com/watch?v=UgK_1nkp6VE)
 

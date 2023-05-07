@@ -40,14 +40,14 @@ styles: ["Indie Rock", "Synth-pop"]
 
 
 ## Videos
-### North Star
-{{< youtube id="5oOk8j0SfoA" title="North Star" >}}<br>
+### Aladdin
+{{< youtube id="5PFZnKYnL1s" title="Aladdin" >}}<br>
 
 ### More Videos
 
-- [Aladdin](https://www.youtube.com/watch?v=5PFZnKYnL1s)
 - [Shadows](https://www.youtube.com/watch?v=XpDbwHbQ_Ak)
 - [Time On Her Side](https://www.youtube.com/watch?v=r1oGu0w5ySI)
+- [North Star](https://www.youtube.com/watch?v=5oOk8j0SfoA)
 - [Candles](https://www.youtube.com/watch?v=Y5FSKPpOkLo)
 - [Day Glow Fire](https://www.youtube.com/watch?v=yfIC5hKRFAw)
 - [Black Rose](https://www.youtube.com/watch?v=J6ivIJt3Vtg)

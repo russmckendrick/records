@@ -34,12 +34,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - The Golden Boy Swallowed By The Sea
-{{< youtube id="R5g1xKYD1I4" title="Crippled Black Phoenix - The Golden Boy Swallowed By The Sea" >}}<br>
+### Crippled Black Phoenix -  False Spring
+{{< youtube id="0rYN9uTYn3c" title="Crippled Black Phoenix -  False Spring" >}}<br>
 
 ### More Videos
 
-- [Crippled Black Phoenix -  False Spring](https://www.youtube.com/watch?v=0rYN9uTYn3c)
+- [Crippled Black Phoenix - The Golden Boy Swallowed By The Sea](https://www.youtube.com/watch?v=R5g1xKYD1I4)
 
 
 ## Release Information

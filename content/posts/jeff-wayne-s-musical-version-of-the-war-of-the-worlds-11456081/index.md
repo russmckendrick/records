@@ -44,13 +44,13 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 
 
 ## Videos
-### Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]
-{{< youtube id="bm1lwQIsFXE" title="Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]" >}}<br>
+### The War of the Worlds - Jeff Wayne's Musical Version - Full Musical
+{{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Wayne's Musical Version - Full Musical" >}}<br>
 
 ### More Videos
 
-- [The War of the Worlds - Jeff Wayne's Musical Version - Full Musical](https://www.youtube.com/watch?v=16aa5NtpVbw)
 - [Jeff Wayne - The Eve of the War (Official Audio) ft. Richard Burton, Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
+- [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 
 
 ## Release Information

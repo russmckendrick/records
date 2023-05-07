@@ -37,12 +37,12 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 
 
 ## Videos
-### Army Of Me
-{{< youtube id="a19X695w3No" title="Army Of Me" >}}<br>
+### Ripper's Sole (O.S.T.)
+{{< youtube id="8ric_N_AGD8" title="Ripper's Sole (O.S.T.)" >}}<br>
 
 ### More Videos
 
-- [Ripper's Sole (O.S.T.)](https://www.youtube.com/watch?v=8ric_N_AGD8)
+- [Army Of Me](https://www.youtube.com/watch?v=a19X695w3No)
 - [Girl U Want (O.S.T.)](https://www.youtube.com/watch?v=Ga_eP6vIHnQ)
 - [Mockingbird Girl (O.S.T.)](https://www.youtube.com/watch?v=6TqnZEe-6K8)
 - [Shove (O.S.T.)](https://www.youtube.com/watch?v=itXA0NPMu7M)

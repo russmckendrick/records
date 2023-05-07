@@ -37,17 +37,17 @@ styles: ["New Wave", "Punk"]
 
 
 ## Videos
-### Tempted
-{{< youtube id="WWteW9MAzdo" title="Tempted" >}}<br>
+### Pulling Mussels (From The Shell)
+{{< youtube id="vB5glE-Oo94" title="Pulling Mussels (From The Shell)" >}}<br>
 
 ### More Videos
 
-- [Pulling Mussels (From The Shell)](https://www.youtube.com/watch?v=vB5glE-Oo94)
 - [Is That Love?](https://www.youtube.com/watch?v=ROjSnSo0DiI)
 - [Take Me I'm Yours](https://www.youtube.com/watch?v=YrVn4HAh2vM)
 - [Slap & Tickle](https://www.youtube.com/watch?v=co1c1PTPWYs)
 - [Black Coffee In Bed](https://www.youtube.com/watch?v=ZyF425Fu3o4)
 - [Annie Get Your Gun](https://www.youtube.com/watch?v=0Bfm_1Ralgc)
+- [Tempted](https://www.youtube.com/watch?v=WWteW9MAzdo)
 - [If I Didn't Love You](https://www.youtube.com/watch?v=liLruG9gV40)
 - [Squeeze - Is That Love (1981)](https://www.youtube.com/watch?v=Uz0UeOUBnn8)
 

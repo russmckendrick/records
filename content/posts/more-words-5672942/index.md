@@ -39,13 +39,13 @@ styles: []
 
 
 ## Videos
-### Glen Campbell - Dreams Of The Everyday Housewife
-{{< youtube id="LonUQ5o-vLc" title="Glen Campbell - Dreams Of The Everyday Housewife" >}}<br>
+### Gentle On My Mind , Glen Campbell , 1967 Vinyl
+{{< youtube id="VecunpIqlg0" title="Gentle On My Mind , Glen Campbell , 1967 Vinyl" >}}<br>
 
 ### More Videos
 
-- [Gentle On My Mind , Glen Campbell , 1967 Vinyl](https://www.youtube.com/watch?v=VecunpIqlg0)
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
+- [Glen Campbell - Dreams Of The Everyday Housewife](https://www.youtube.com/watch?v=LonUQ5o-vLc)
 
 
 ## Release Information

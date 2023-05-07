@@ -49,18 +49,18 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### David Gilmour - Shine On You Crazy Diamond (Live At Pompeii)
-{{< youtube id="CiXNIjGX1hY" title="David Gilmour - Shine On You Crazy Diamond (Live At Pompeii)" >}}<br>
+### David Gilmour - One of These Days (Live At Pompeii)
+{{< youtube id="ABPQdXertbs" title="David Gilmour - One of These Days (Live At Pompeii)" >}}<br>
 
 ### More Videos
 
-- [David Gilmour - One of These Days (Live At Pompeii)](https://www.youtube.com/watch?v=ABPQdXertbs)
 - [David Gilmour - Money (Live At Pompeii)](https://www.youtube.com/watch?v=26nZZSLs65o)
 - [David Gilmour - Time/Breathe (Reprise) (Live At Pompeii)](https://www.youtube.com/watch?v=sogFyPrAY5E)
 - [David Gilmour - Wish You Were Here (Live At Pompeii)](https://www.youtube.com/watch?v=WaEKXGlfYj8)
 - [David Gilmour - Comfortably Numb (Live At Pompeii)](https://www.youtube.com/watch?v=eHKG7EMxWW8)
 - [David Gilmour - Run Like Hell (Live At Pompeii)](https://www.youtube.com/watch?v=Z50ssGVeE94)
 - [David Gilmour - The Great Gig In the Sky (Live At Pompeii)](https://www.youtube.com/watch?v=jXRJSyHuG2I)
+- [David Gilmour - Shine On You Crazy Diamond (Live At Pompeii)](https://www.youtube.com/watch?v=CiXNIjGX1hY)
 - [David Gilmour - High Hopes (Live At Pompeii)](https://www.youtube.com/watch?v=-xveqYrKJTE)
 - [David Gilmour - Coming Back To Life (Live At Pompeii)](https://www.youtube.com/watch?v=YTaYw6V5HP4)
 - [David Gilmour - Sorrow (Live At Pompeii)](https://www.youtube.com/watch?v=q3ATfbYXqpc)

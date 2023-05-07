@@ -36,12 +36,11 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 
 
 ## Videos
-### The Same Thing
-{{< youtube id="RBvebLOo98Y" title="The Same Thing" >}}<br>
+### I Just Want To Make Love To You
+{{< youtube id="bmY4lnFvdy8" title="I Just Want To Make Love To You" >}}<br>
 
 ### More Videos
 
-- [I Just Want To Make Love To You](https://www.youtube.com/watch?v=bmY4lnFvdy8)
 - [MUDDY WATERS - Tom Cat PSYCH/BLUES (1968)](https://www.youtube.com/watch?v=NVOGKQIds3g)
 - [[I'm Your] Hoochie Coochie Man](https://www.youtube.com/watch?v=GTRuU_PHdzI)
 - [Let's Spend The Night Together](https://www.youtube.com/watch?v=1Oza295_pkY)
@@ -49,6 +48,7 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 - [Mannish Boy](https://www.youtube.com/watch?v=RxgCGd_Meu8)
 - [Herbert Harper's Free Press News](https://www.youtube.com/watch?v=s-4MtSa8aoc)
 - [Tom Cat](https://www.youtube.com/watch?v=RnK4mvFNj64)
+- [The Same Thing](https://www.youtube.com/watch?v=RBvebLOo98Y)
 
 
 ## Release Information

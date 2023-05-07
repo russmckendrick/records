@@ -42,18 +42,18 @@ styles: ["Reggae", "Roots Reggae"]
 
 
 ## Videos
-### Bob Marley & The Wailers - Stir It Up
-{{< youtube id="w8Mpnav5Vx4" title="Bob Marley & The Wailers - Stir It Up" >}}<br>
+### Legend  Bob Marley Cd completo Hd  Remastered
+{{< youtube id="hUzeGvg0pOg" title="Legend  Bob Marley Cd completo Hd  Remastered" >}}<br>
 
 ### More Videos
 
-- [Legend  Bob Marley Cd completo Hd  Remastered](https://www.youtube.com/watch?v=hUzeGvg0pOg)
 - [Bob Marley & The Wailers - Is This Love](https://www.youtube.com/watch?v=FIsuGbF3g0g)
 - [Bob Marley & The Wailers - No Woman No Cry](https://www.youtube.com/watch?v=uH-Ysg8xVwY)
 - [Bob Marley & The Wailers - Could You Be Loved](https://www.youtube.com/watch?v=pNc36Kbm7F0)
 - [Bob Marley & The Wailers - Three Little Birds](https://www.youtube.com/watch?v=mvzXk_iivZE)
 - [Bob Marley & The Wailers - Buffalo Soldier](https://www.youtube.com/watch?v=OqWAWtbMSis)
 - [Bob Marley & The Wailers - Get Up Stand Up](https://www.youtube.com/watch?v=BElFYqtEUv0)
+- [Bob Marley & The Wailers - Stir It Up](https://www.youtube.com/watch?v=w8Mpnav5Vx4)
 - [Bob Marley & The Wailers - One Love / People Get Ready](https://www.youtube.com/watch?v=t3uiLFuotuo)
 - [Bob Marley & The Wailers - I Shot The Sheriff](https://www.youtube.com/watch?v=J7cbLDQv-p8)
 - [Bob Marley & The Wailers - Waiting In Vain](https://www.youtube.com/watch?v=NVOOGWTbXmg)

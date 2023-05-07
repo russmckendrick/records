@@ -38,16 +38,16 @@ styles: []
 
 
 ## Videos
-### Matt Berry Rain Came Down
-{{< youtube id="2E7r7vlJ_tU" title="Matt Berry Rain Came Down" >}}<br>
+### MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)
+{{< youtube id="Rdqu-HObUbo" title="MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)" >}}<br>
 
 ### More Videos
 
-- [MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)](https://www.youtube.com/watch?v=Rdqu-HObUbo)
 - [Matt Berry Roosting Time](https://www.youtube.com/watch?v=d3pPrdSh9Ds)
 - [Matt Berry - A Song for Rosie](https://www.youtube.com/watch?v=Cc5RKEPH1vo)
 - [Look in My Book](https://www.youtube.com/watch?v=mJM7LZJtwU0)
 - [An Awakening - Matt Berry](https://www.youtube.com/watch?v=uIeyGk2QPlg)
+- [Matt Berry Rain Came Down](https://www.youtube.com/watch?v=2E7r7vlJ_tU)
 - [Matt Berry Accident At A Harvest Festival](https://www.youtube.com/watch?v=VAagLPNneGQ)
 - [Matt Berry - Accident At A Harvest Festival](https://www.youtube.com/watch?v=PrUYWbjGevA)
 - [The Badger's Wake - Matt Berry](https://www.youtube.com/watch?v=QSp5LwN5Q68)

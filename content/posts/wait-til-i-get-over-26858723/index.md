@@ -40,13 +40,13 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 
 
 ## Videos
-### Durand Jones - That Feeling (Official Video)
-{{< youtube id="sZpVPKfIVQ8" title="Durand Jones - That Feeling (Official Video)" >}}<br>
+### Durand Jones - Lord Have Mercy (Official Video)
+{{< youtube id="q1Eq7tpGTjc" title="Durand Jones - Lord Have Mercy (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Durand Jones - Lord Have Mercy (Official Video)](https://www.youtube.com/watch?v=q1Eq7tpGTjc)
 - [Durand Jones - Sadie (Official Lyric Video)](https://www.youtube.com/watch?v=JA7SYpE7U1s)
+- [Durand Jones - That Feeling (Official Video)](https://www.youtube.com/watch?v=sZpVPKfIVQ8)
 
 
 ## Release Information

@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### The Dears - Heart On An Animal
-{{< youtube id="vJsjarLVm68" title="The Dears - Heart On An Animal" >}}<br>
+### The Dears - Instant Nightmare!
+{{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare!" >}}<br>
 
 ### More Videos
 
-- [The Dears - Instant Nightmare!](https://www.youtube.com/watch?v=dJnXiqAo8H4)
 - [The Dears - Is This What You Really Want?](https://www.youtube.com/watch?v=fcWiNJybFUY)
+- [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
 
 
 ## Release Information

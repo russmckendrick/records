@@ -43,13 +43,13 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 
 
 ## Videos
-### Long Gone Day
-{{< youtube id="-1RdXVQN4ag" title="Long Gone Day" >}}<br>
+### Mad Season - River Of Deceit
+{{< youtube id="Fm72DPJCX58" title="Mad Season - River Of Deceit" >}}<br>
 
 ### More Videos
 
-- [Mad Season - River Of Deceit](https://www.youtube.com/watch?v=Fm72DPJCX58)
 - [All Alone](https://www.youtube.com/watch?v=OJar1xAqaWI)
+- [Long Gone Day](https://www.youtube.com/watch?v=-1RdXVQN4ag)
 - [I'm Above](https://www.youtube.com/watch?v=rbvXpfvqJbc)
 
 

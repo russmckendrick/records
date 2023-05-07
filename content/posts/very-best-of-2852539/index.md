@@ -46,13 +46,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Morrissey - The Last Of The Famous International Playboys
-{{< youtube id="Bk1wUKoXL20" title="Morrissey - The Last Of The Famous International Playboys" >}}<br>
+### Morrissey - Boxers - Vinyl
+{{< youtube id="CW6xl0oYWjc" title="Morrissey - Boxers - Vinyl" >}}<br>
 
 ### More Videos
 
-- [Morrissey - Boxers - Vinyl](https://www.youtube.com/watch?v=CW6xl0oYWjc)
 - [Morrissey - Glamorous Glue](https://www.youtube.com/watch?v=80sbKxPXzKw)
+- [Morrissey - The Last Of The Famous International Playboys](https://www.youtube.com/watch?v=Bk1wUKoXL20)
 - [Morrissey - Sunny](https://www.youtube.com/watch?v=wHqnBTZbuno)
 - [🔴 Morrissey ‎– Complete A Side [ Very Best Of LP 10th Anniversary ]](https://www.youtube.com/watch?v=vLNDN6ltNxQ)
 - [Morrissey - Boxers](https://www.youtube.com/watch?v=UANBdod8Nuk)

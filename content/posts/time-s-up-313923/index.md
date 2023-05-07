@@ -43,15 +43,15 @@ styles: ["Funk Metal"]
 
 
 ## Videos
-### History Lesson
-{{< youtube id="mbPUQMez-UQ" title="History Lesson" >}}<br>
+### Living Colour - Solace of You
+{{< youtube id="vIUke0CCvDs" title="Living Colour - Solace of You" >}}<br>
 
 ### More Videos
 
-- [Living Colour - Solace of You](https://www.youtube.com/watch?v=vIUke0CCvDs)
 - [Living Colour - Love Rears Its Ugly Head (Official Video)](https://www.youtube.com/watch?v=MQcPB1WkISI)
 - [Living Colour - Elvis Is Dead](https://www.youtube.com/watch?v=8nvpRkn_R5g)
 - [Living Colour - Time's Up (Official Video)](https://www.youtube.com/watch?v=0YAA7nivQng)
+- [History Lesson](https://www.youtube.com/watch?v=mbPUQMez-UQ)
 - [Someone Like You](https://www.youtube.com/watch?v=G5tGZFon4kQ)
 - [Type](https://www.youtube.com/watch?v=1-OGHe7EQ9I)
 - [Information Overload](https://www.youtube.com/watch?v=CoZlttsXcn0)

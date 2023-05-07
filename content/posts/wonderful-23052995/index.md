@@ -39,12 +39,11 @@ styles: ["Pop Rock", "Ska"]
 
 
 ## Videos
-### Madness - Johnny The Horse (Wonderful Track 2)
-{{< youtube id="dVg0Jb2-ouU" title="Madness - Johnny The Horse (Wonderful Track 2)" >}}<br>
+### Madness - Lovestruck
+{{< youtube id="FiThjLcB1Qk" title="Madness - Lovestruck" >}}<br>
 
 ### More Videos
 
-- [Madness - Lovestruck](https://www.youtube.com/watch?v=FiThjLcB1Qk)
 - [Madness - Elysium (Wonderful Track 8)](https://www.youtube.com/watch?v=XhPPZwcPC9M)
 - [Madness - No Money (Wonderful Track 11)](https://www.youtube.com/watch?v=JyJSWO-eSVI)
 - [Madness - 4am (Wonderful Track 4)](https://www.youtube.com/watch?v=Hh__Ni2a8gE)
@@ -56,6 +55,7 @@ styles: ["Pop Rock", "Ska"]
 - [Madness - Drip Fed Fred](https://www.youtube.com/watch?v=7JqaGflZIL0)
 - [Madness - Going To The Top (Wonderful Track 7)](https://www.youtube.com/watch?v=dUICCsFgUPg)
 - [Madness - The Communicator (Wonderful Track 3)](https://www.youtube.com/watch?v=QsdlbJWipGc)
+- [Madness - Johnny The Horse (Wonderful Track 2)](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
 
 
 ## Release Information

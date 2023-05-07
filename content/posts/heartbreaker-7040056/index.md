@@ -43,12 +43,11 @@ styles: ["Acoustic"]
 
 
 ## Videos
-### Ryan Adams, Why Do They Leave
-{{< youtube id="VGIFTHlJLO8" title="Ryan Adams, Why Do They Leave" >}}<br>
+### [Argument with David Rawlings Concerning Morrisey]
+{{< youtube id="-Z0o7zWtu_0" title="[Argument with David Rawlings Concerning Morrisey]" >}}<br>
 
 ### More Videos
 
-- [[Argument with David Rawlings Concerning Morrisey]](https://www.youtube.com/watch?v=-Z0o7zWtu_0)
 - [Ryan Adams, To Be Young (Is to Be Sad, Is to Be High)](https://www.youtube.com/watch?v=g_c1YM53Wwo)
 - [Ryan Adams, My Winding Wheel](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
 - [Ryan Adams - AMY (Heartbreaker)](https://www.youtube.com/watch?v=BvmORF7DLFM)
@@ -58,6 +57,7 @@ styles: ["Acoustic"]
 - [Ryan Adams - Damn, Sam (I Love A Woman That Rains)](https://www.youtube.com/watch?v=C0i3LyJXAjo)
 - [Ryan Adams - Come Pick Me Up](https://www.youtube.com/watch?v=kM0mjukDGRw)
 - [Ryan Adams, To Be the One](https://www.youtube.com/watch?v=hekcNSyhW9g)
+- [Ryan Adams, Why Do They Leave](https://www.youtube.com/watch?v=VGIFTHlJLO8)
 - [Ryan Adams, Shakedown on 9th Street](https://www.youtube.com/watch?v=aOV_WQLp1_M)
 - [Ryan Adams, Don't Ask for the Water](https://www.youtube.com/watch?v=s2aVfugHN5w)
 - [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)

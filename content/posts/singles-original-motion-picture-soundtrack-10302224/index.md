@@ -59,18 +59,18 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 
 
 ## Videos
-### Chloe Dancer/Crown Of Thorns
-{{< youtube id="MJTRSQgIb88" title="Chloe Dancer/Crown Of Thorns" >}}<br>
+### Alice In Chains - Would? (Official HD Video)
+{{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Alice In Chains - Would? (Official HD Video)](https://www.youtube.com/watch?v=Nco_kh8xJDs)
 - [Paul Westerberg - Dyslexic Heart](https://www.youtube.com/watch?v=MVhBEtTSEcE)
 - [Mudhoney – Overblown](https://www.youtube.com/watch?v=a991p2SXpr8)
 - [Singles: Original Motion Picture Soundtrack (Full Album)](https://www.youtube.com/watch?v=b88Rin1cplU)
 - [Dyslexic Heart](https://www.youtube.com/watch?v=MZVAppKV794)
 - [Lovemongers - Battle of Evermore](https://www.youtube.com/watch?v=q7DxFQ6FhzQ)
 - [Pearl Jam - Breath](https://www.youtube.com/watch?v=8GeZ7fd_90A)
+- [Chloe Dancer/Crown Of Thorns](https://www.youtube.com/watch?v=MJTRSQgIb88)
 - [Chris Cornell - Seasons](https://www.youtube.com/watch?v=TksqEIl1uxU)
 - [Birth Ritual](https://www.youtube.com/watch?v=YrreIn7PQbI)
 - [Smashing Pumpkins Drown (full, better quality)](https://www.youtube.com/watch?v=pGDzsds4Ll0)

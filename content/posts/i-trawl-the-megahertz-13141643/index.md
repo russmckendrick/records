@@ -37,15 +37,15 @@ styles: ["Modern Classical", "Experimental"]
 
 
 ## Videos
-### I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps
-{{< youtube id="5ilBNaMxQwk" title="I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps" >}}<br>
+### I Trawl The Megahertz (Complete)
+{{< youtube id="1bSPNboKCzM" title="I Trawl The Megahertz (Complete)" >}}<br>
 
 ### More Videos
 
-- [I Trawl The Megahertz (Complete)](https://www.youtube.com/watch?v=1bSPNboKCzM)
 - [Paddy Mcaloon-Sleeping Rough](https://www.youtube.com/watch?v=OUQLhJAxRZc)
 - [Paddy McAloon - I Trawl The Megahertz (Edit)](https://www.youtube.com/watch?v=1_uV_vypH0o)
 - [Paddy McAloon - Esprit De Corps](https://www.youtube.com/watch?v=TkRpbSVZQpM)
+- [I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
 
 
 ## Release Information

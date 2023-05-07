@@ -40,15 +40,15 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### The Verve - So It Goes
-{{< youtube id="UeZv80G_VvU" title="The Verve - So It Goes" >}}<br>
+### The Verve - This Is Music
+{{< youtube id="PgsPAsno4OU" title="The Verve - This Is Music" >}}<br>
 
 ### More Videos
 
-- [The Verve - This Is Music](https://www.youtube.com/watch?v=PgsPAsno4OU)
 - [The Verve - History](https://www.youtube.com/watch?v=2jmf9UQ3YIs)
 - [01 A New Decade](https://www.youtube.com/watch?v=mpYC6W1nu8o)
 - [The Verve - On your own (live)](https://www.youtube.com/watch?v=KxBJJIeIJ3g)
+- [The Verve - So It Goes](https://www.youtube.com/watch?v=UeZv80G_VvU)
 - [The Verve - A Northern Soul](https://www.youtube.com/watch?v=XSQQbhu3YUc)
 - [The Verve - Brainstorm Interlude](https://www.youtube.com/watch?v=leXtT2ryHPM)
 - [The Verve - Drive You Home](https://www.youtube.com/watch?v=KdeirtG3bow)

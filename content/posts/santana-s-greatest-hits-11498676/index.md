@@ -38,14 +38,14 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Hope You're Feeling Better ~ Santana
-{{< youtube id="P_vJBz2_LtE" title="Hope You're Feeling Better ~ Santana" >}}<br>
+### Santana. Samba Pa Ti
+{{< youtube id="WzSayxVM_E0" title="Santana. Samba Pa Ti" >}}<br>
 
 ### More Videos
 
-- [Santana. Samba Pa Ti](https://www.youtube.com/watch?v=WzSayxVM_E0)
 - [Santana - Black Magic Woman (Official Audio)](https://www.youtube.com/watch?v=9wT1s96JIb0)
 - [Santana - Smooth (Stereo) ft. Rob Thomas](https://www.youtube.com/watch?v=6Whgn_iE5uc)
+- [Hope You're Feeling Better ~ Santana](https://www.youtube.com/watch?v=P_vJBz2_LtE)
 - [Persuasion](https://www.youtube.com/watch?v=PMBDutul1tA)
 - [Oye Como Va](https://www.youtube.com/watch?v=U3XPzwjhSZw)
 - [Hope You're Feeling Better](https://www.youtube.com/watch?v=sL4S0LII02Y)

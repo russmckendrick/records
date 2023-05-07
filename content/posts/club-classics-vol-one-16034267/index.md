@@ -38,13 +38,13 @@ styles: []
 
 
 ## Videos
-### Feel Free
-{{< youtube id="Ighc6cJKyWs" title="Feel Free" >}}<br>
+### Soul II Soul ‎– Club Classics Vol.  One (1989)
+{{< youtube id="rAGZnmVOpJQ" title="Soul II Soul ‎– Club Classics Vol.  One (1989)" >}}<br>
 
 ### More Videos
 
-- [Soul II Soul ‎– Club Classics Vol.  One (1989)](https://www.youtube.com/watch?v=rAGZnmVOpJQ)
 - [Soul II Soul - Fairplay (Official Video)](https://www.youtube.com/watch?v=WaZtVZuqNcI)
+- [Feel Free](https://www.youtube.com/watch?v=Ighc6cJKyWs)
 - [Soul II Soul - Keep On Movin' (Official Video)](https://www.youtube.com/watch?v=1iQl46-zIcM)
 - [Soul II Soul - Back To Life (However Do You Want Me) (Official Music Video)](https://www.youtube.com/watch?v=TB54dZkzZOY)
 - [Soul II Soul - Feeling Free](https://www.youtube.com/watch?v=QDble9Z7pDs)

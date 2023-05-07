@@ -40,15 +40,15 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Dance Away
-{{< youtube id="NfTnkTCJ710" title="Dance Away" >}}<br>
+### Roxette - The Look
+{{< youtube id="dzrPH89rtWY" title="Roxette - The Look" >}}<br>
 
 ### More Videos
 
-- [Roxette - The Look](https://www.youtube.com/watch?v=dzrPH89rtWY)
 - [Dressed For Success](https://www.youtube.com/watch?v=Z9UZP5GvxoM)
 - [Sleeping Single](https://www.youtube.com/watch?v=sMULAzlxEWc)
 - [Paint](https://www.youtube.com/watch?v=Enrlkcf4o-k)
+- [Dance Away](https://www.youtube.com/watch?v=NfTnkTCJ710)
 - [Cry](https://www.youtube.com/watch?v=QLb1R4rNbtY)
 - [Roxette - Chances](https://www.youtube.com/watch?v=8Vs5E68mOGg)
 - [Roxette - Chances](https://www.youtube.com/watch?v=4yd0z5ziIvw)

@@ -35,12 +35,12 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### Sleeper - Look At You Now
-{{< youtube id="LSh37ZvMTiw" title="Sleeper - Look At You Now" >}}<br>
+### SLEEPER 'THE SUN ALSO RISES' Official video
+{{< youtube id="czLvTGLcyHE" title="SLEEPER 'THE SUN ALSO RISES' Official video" >}}<br>
 
 ### More Videos
 
-- [SLEEPER 'THE SUN ALSO RISES' Official video](https://www.youtube.com/watch?v=czLvTGLcyHE)
+- [Sleeper - Look At You Now](https://www.youtube.com/watch?v=LSh37ZvMTiw)
 
 
 ## Release Information

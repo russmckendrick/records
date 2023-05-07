@@ -64,12 +64,11 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 
 
 ## Videos
-### Ives: The Unanswered Question
-{{< youtube id="8tNA_DbpJjU" title="Ives: The Unanswered Question" >}}<br>
+### Zoetrope
+{{< youtube id="JV-spttHBcg" title="Zoetrope" >}}<br>
 
 ### More Videos
 
-- [Zoetrope](https://www.youtube.com/watch?v=JV-spttHBcg)
 - [Charles Ives - The Unanswered Question](https://www.youtube.com/watch?v=kkaOz48cq2g)
 - [Mogwai // Ether (Official Audio)](https://www.youtube.com/watch?v=2FlHCmEwRkw)
 - [Max Richter - Richter: Mercy (Audio)](https://www.youtube.com/watch?v=_B9dGfYCo78)
@@ -79,6 +78,7 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 - [Zoetrope](https://www.youtube.com/watch?v=c9a6JaXsNfA)
 - [Boards of Canada - Zoetrope](https://www.youtube.com/watch?v=gO6i9YPtEd8)
 - [Arcadiana, Op.12 (1994) : VI. O Albion](https://www.youtube.com/watch?v=EXWZLCYDJUg)
+- [Ives: The Unanswered Question](https://www.youtube.com/watch?v=8tNA_DbpJjU)
 - [Kaitlyn Aurelia Smith   Bobbing Beams Of Light](https://www.youtube.com/watch?v=tDzKWqqSTvs)
 - [Golijov: Tenebrae - 2.](https://www.youtube.com/watch?v=kZhro4uKyg8)
 - [Wasserklavier](https://www.youtube.com/watch?v=yIfIUyj6eDc)

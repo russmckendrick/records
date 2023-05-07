@@ -37,12 +37,11 @@ styles: ["Disco", "Synth-pop", "Soul"]
 
 
 ## Videos
-### Push
-{{< youtube id="FJprsu2VaWM" title="Push" >}}<br>
+### Integrity
+{{< youtube id="wOse0WM-6c4" title="Integrity" >}}<br>
 
 ### More Videos
 
-- [Integrity](https://www.youtube.com/watch?v=wOse0WM-6c4)
 - [Sisters Are Doin’ It For Themselves [Ft. Aretha Franklin] (Official Video)](https://www.youtube.com/watch?v=drGx7JkFSp4)
 - [Aretha Franklin - Freeway Of Love (Video)](https://www.youtube.com/watch?v=Ip_pjb5_fgA)
 - [Aretha Franklin – Who's Zoomin' Who?](https://www.youtube.com/watch?v=yuxiZNFJV0s)
@@ -52,6 +51,7 @@ styles: ["Disco", "Synth-pop", "Soul"]
 - [Aretha Franklin 'Who's Zoomin' Who' [HD]](https://www.youtube.com/watch?v=OwiERojwshI)
 - [Who's Zoomin Who 1985 - Aretha Franklin](https://www.youtube.com/watch?v=YpzzR8J59hU)
 - [Ain't Nobody Ever Loved You](https://www.youtube.com/watch?v=hoea1s3PY_8)
+- [Push](https://www.youtube.com/watch?v=FJprsu2VaWM)
 
 
 ## Release Information

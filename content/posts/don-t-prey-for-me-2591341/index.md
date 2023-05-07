@@ -37,12 +37,12 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Little Angels - Don´t pray for me
-{{< youtube id="H5Mx2UZ2UaA" title="Little Angels - Don´t pray for me" >}}<br>
+### Little Angels - Don't Prey For Me (Full Album)
+{{< youtube id="wW4ex-Id_nA" title="Little Angels - Don't Prey For Me (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Little Angels - Don't Prey For Me (Full Album)](https://www.youtube.com/watch?v=wW4ex-Id_nA)
+- [Little Angels - Don´t pray for me](https://www.youtube.com/watch?v=H5Mx2UZ2UaA)
 - [Little Angels - Don't prey for me.](https://www.youtube.com/watch?v=Az-ayGM81Yo)
 
 

@@ -44,12 +44,11 @@ styles: ["Instrumental", "Funk"]
 
 
 ## Videos
-### Bronx Skates
-{{< youtube id="vnPR8alNV6I" title="Bronx Skates" >}}<br>
+### Brokenfolks
+{{< youtube id="oJabLChQ8Bs" title="Brokenfolks" >}}<br>
 
 ### More Videos
 
-- [Brokenfolks](https://www.youtube.com/watch?v=oJabLChQ8Bs)
 - [GEORGIA ANNE MULDROW - BIG MAMA AFRICA JAM](https://www.youtube.com/watch?v=jxbEScphfOs)
 - [Emo Blues](https://www.youtube.com/watch?v=1kcGwm9x9M4)
 - [When the Fonk Radiates](https://www.youtube.com/watch?v=ocag27kZJ2Y)
@@ -62,6 +61,7 @@ styles: ["Instrumental", "Funk"]
 - [Gettin It](https://www.youtube.com/watch?v=OUjRgX7Q4lY)
 - [Bass Attack Bap](https://www.youtube.com/watch?v=YoN5w1fQLbU)
 - [Almost Trendy](https://www.youtube.com/watch?v=QbmvOuKK_Us)
+- [Bronx Skates](https://www.youtube.com/watch?v=vnPR8alNV6I)
 - [Something Fun](https://www.youtube.com/watch?v=bOdbCxu49fw)
 - [Wu Punk](https://www.youtube.com/watch?v=j33VtKOYTLU)
 - [Mary Lou's Motherboard](https://www.youtube.com/watch?v=qaxYIPhdqp0)

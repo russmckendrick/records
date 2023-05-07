@@ -44,12 +44,11 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 
 
 ## Videos
-### Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)
-{{< youtube id="yUGJak2IY2c" title="Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)" >}}<br>
+### Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75
+{{< youtube id="e_W-I5LKiBY" title="Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75" >}}<br>
 
 ### More Videos
 
-- [Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75](https://www.youtube.com/watch?v=e_W-I5LKiBY)
 - [The E Street Shuffle (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=1-dY01Ex7wc)
 - [Thunder Road (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=6O3MO2y30fU)
 - [Born to Run (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=ajbJqfNS0aA)
@@ -71,6 +70,7 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 - [Bruce Springsteen & The E Street Band ‎– Hammersmith Odeon, London '75 - Kitty's Back](https://www.youtube.com/watch?v=CkSPap8PIz4)
 - [Thunder Road - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=bPkPUS148xE)
 - [Kitty's Back (Live at the Hammersmith Odeon, London, UK - November 1975)](https://www.youtube.com/watch?v=MWhGrwrxCkk)
+- [Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)](https://www.youtube.com/watch?v=yUGJak2IY2c)
 - [Lost in the Flood - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=8DvTeI7-kLM)
 - [Wear My Ring Around Your  - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=qfNMOFHIoag)
 - [Bruce Springsteen - For You (Live 1975)](https://www.youtube.com/watch?v=nxyo1bMQyEY)

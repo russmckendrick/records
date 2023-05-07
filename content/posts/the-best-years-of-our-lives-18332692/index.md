@@ -43,18 +43,18 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Steve Harley & Cockney Rebel ~ Make Me Smile (Come Up And See Me) ~ The Best Years Of Our Lives (HQ)
-{{< youtube id="prUFFUTb7lQ" title="Steve Harley & Cockney Rebel ~ Make Me Smile (Come Up And See Me) ~ The Best Years Of Our Lives (HQ)" >}}<br>
+### Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975
+{{< youtube id="G00gx11mKf4" title="Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975" >}}<br>
 
 ### More Videos
 
-- [Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975](https://www.youtube.com/watch?v=G00gx11mKf4)
 - [Introducing 'The Best Years' (2014 Remaster)](https://www.youtube.com/watch?v=qEiPqFwDs1E)
 - [The Mad, Mad Moonlight (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=jrRkOA8wbQY)
 - [The Mad Mad Moonlight (2014 Remaster)](https://www.youtube.com/watch?v=hDal-VyOkVM)
 - [Mr. Raffles (Man, It Was Mean)](https://www.youtube.com/watch?v=4hRJ4878OXw)
 - [It Wasn't Me (2014 Remaster)](https://www.youtube.com/watch?v=Vf8n-7c4Pmk)
 - [Panorama (2014 Remaster)](https://www.youtube.com/watch?v=fzX1IdOH_E0)
+- [Steve Harley & Cockney Rebel ~ Make Me Smile (Come Up And See Me) ~ The Best Years Of Our Lives (HQ)](https://www.youtube.com/watch?v=prUFFUTb7lQ)
 - [Back to the Farm (2014 Remaster)](https://www.youtube.com/watch?v=f_D2THFZP_E)
 - [49th Parallel (2014 Remaster)](https://www.youtube.com/watch?v=CQ90oxGi1yo)
 - [The Best Years of Our Lives (2014 Remaster)](https://www.youtube.com/watch?v=BvRz8aAm9E0)

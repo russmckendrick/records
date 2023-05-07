@@ -39,15 +39,15 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Geisha Boys And Temple Girls (2006 Digital Remaster)
-{{< youtube id="gbhptD6H_Rc" title="Geisha Boys And Temple Girls (2006 Digital Remaster)" >}}<br>
+### [We Don't Need This] Fascist Groove Thang
+{{< youtube id="Q49BjlSOCGE" title="[We Don't Need This] Fascist Groove Thang" >}}<br>
 
 ### More Videos
 
-- [[We Don't Need This] Fascist Groove Thang](https://www.youtube.com/watch?v=Q49BjlSOCGE)
 - [Penthouse And Pavement (Remastered 2006)](https://www.youtube.com/watch?v=XV502Rw0Fqg)
 - [Play To Win (Remastered)](https://www.youtube.com/watch?v=m-fY639gW08)
 - [Soul Warfare (2006 Digital Remaster)](https://www.youtube.com/watch?v=NKFJs3aK6k8)
+- [Geisha Boys And Temple Girls (2006 Digital Remaster)](https://www.youtube.com/watch?v=gbhptD6H_Rc)
 - [Let's All Make A Bomb (2006 Digital Remaster)](https://www.youtube.com/watch?v=I57YbiJ7x2w)
 - [The Height Of The Fighting (Remastered 2006)](https://www.youtube.com/watch?v=mJ28KUI8uAw)
 - [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)

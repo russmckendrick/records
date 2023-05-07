@@ -39,18 +39,18 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Mermaid
-{{< youtube id="8Kb4XFg_xCE" title="Mermaid" >}}<br>
+### Inspiral Carpets - Caravan
+{{< youtube id="lxGkMeS-5eI" title="Inspiral Carpets - Caravan" >}}<br>
 
 ### More Videos
 
-- [Inspiral Carpets - Caravan](https://www.youtube.com/watch?v=lxGkMeS-5eI)
 - [Inspiral Carpets - Please Be Cruel](https://www.youtube.com/watch?v=Qsmvsede5jU)
 - [Born Yesterday](https://www.youtube.com/watch?v=jTlGa__tw-c)
 - [Sleep Well Tonight](https://www.youtube.com/watch?v=mXqeV4lW2O0)
 - [Grip](https://www.youtube.com/watch?v=aycEFuxsej4)
 - [Beast Inside](https://www.youtube.com/watch?v=Lp5bfZ17cR8)
 - [Niagara](https://www.youtube.com/watch?v=on17iGSV7GI)
+- [Mermaid](https://www.youtube.com/watch?v=8Kb4XFg_xCE)
 - [Further Away](https://www.youtube.com/watch?v=XdODbhPsHLQ)
 - [Dreams Are All We Have](https://www.youtube.com/watch?v=ZuEIxhrGYUY)
 

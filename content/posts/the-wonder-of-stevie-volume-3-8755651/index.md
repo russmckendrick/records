@@ -41,13 +41,13 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 
 
 ## Videos
-### DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)
-{{< youtube id="cjwgXDdbWxI" title="DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)" >}}<br>
+### Keep On Running
+{{< youtube id="4qPfGgjCLns" title="Keep On Running" >}}<br>
 
 ### More Videos
 
-- [Keep On Running](https://www.youtube.com/watch?v=4qPfGgjCLns)
 - [Buttercup](https://www.youtube.com/watch?v=-adgKAoLRL4)
+- [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
 - [Have a Talk with God](https://www.youtube.com/watch?v=6nWImSfuoYQ)
 - [Just A Little Piece Of You](https://www.youtube.com/watch?v=EK3C8a8NUPY)
 - [If She Breaks Your Heart](https://www.youtube.com/watch?v=cd1enmm-gDw)

@@ -37,12 +37,11 @@ styles: []
 
 
 ## Videos
-### Fall In Love With Me
-{{< youtube id="kSBqXcdxsJE" title="Fall In Love With Me" >}}<br>
+### Lust For Life
+{{< youtube id="XPax7gTmgXA" title="Lust For Life" >}}<br>
 
 ### More Videos
 
-- [Lust For Life](https://www.youtube.com/watch?v=XPax7gTmgXA)
 - [Ig̲g̲y P̲op - L̲ust For L̲ife (Full Album) 1977](https://www.youtube.com/watch?v=XaJSOsoEBbk)
 - [Sixteen](https://www.youtube.com/watch?v=zw7USmXMEYo)
 - [Some Weird Sin](https://www.youtube.com/watch?v=NC3JDy6NudM)
@@ -51,6 +50,7 @@ styles: []
 - [Success](https://www.youtube.com/watch?v=jO6wevEWV8g)
 - [Turn Blue](https://www.youtube.com/watch?v=vfpKXo94SVg)
 - [Neighborhood Threat](https://www.youtube.com/watch?v=IT-T7aH__i8)
+- [Fall In Love With Me](https://www.youtube.com/watch?v=kSBqXcdxsJE)
 - [Iggy Pop - Lust For Life](https://www.youtube.com/watch?v=jQvUBf5l7Vw)
 - [Iggy Pop - The Passenger (Official Video)](https://www.youtube.com/watch?v=-fWw7FE9tTo)
 

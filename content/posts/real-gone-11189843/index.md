@@ -44,12 +44,11 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 
 
 ## Videos
-### Tom Waits - Make It Rain
-{{< youtube id="qZS-B1Afc1c" title="Tom Waits - Make It Rain" >}}<br>
+### Tom Waits - Top Of The Hill
+{{< youtube id="sLck-fxs6NI" title="Tom Waits - Top Of The Hill" >}}<br>
 
 ### More Videos
 
-- [Tom Waits - Top Of The Hill](https://www.youtube.com/watch?v=sLck-fxs6NI)
 - [Tom Waits - Hoist That Rag](https://www.youtube.com/watch?v=aw3mFXOwRgw)
 - [Tom Waits - Sins of My Father](https://www.youtube.com/watch?v=ZG_9sonT_8k)
 - [Tom Waits - Shake It](https://www.youtube.com/watch?v=kyGToqec2aQ)
@@ -65,6 +64,7 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 - [Tom Waits - Day After Tomorrow](https://www.youtube.com/watch?v=Q_mLxEw6XGE)
 - [Tom Waits - Dead And Lovely](https://www.youtube.com/watch?v=XxCZC5dF8D8)
 - [Sins Of My Father - Tom Waits](https://www.youtube.com/watch?v=zTDNx_iaM6Q)
+- [Tom Waits - Make It Rain](https://www.youtube.com/watch?v=qZS-B1Afc1c)
 - [Tom Waits - Top Of The Hill](https://www.youtube.com/watch?v=fiMDVCCtUQo)
 - [Tom Waits - Green Grass](https://www.youtube.com/watch?v=KRfNj2njwTg)
 - [Tom Waits - Shake It](https://www.youtube.com/watch?v=lWL9mZ91Dvo)

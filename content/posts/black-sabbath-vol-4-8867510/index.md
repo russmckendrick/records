@@ -35,16 +35,16 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### Snowblind (2021 - Remaster)
-{{< youtube id="AmNJ7ISSvwE" title="Snowblind (2021 - Remaster)" >}}<br>
+### Wheels of Confusion / The Straightener (2021 - Remaster)
+{{< youtube id="DhCZ5yC9uLE" title="Wheels of Confusion / The Straightener (2021 - Remaster)" >}}<br>
 
 ### More Videos
 
-- [Wheels of Confusion / The Straightener (2021 - Remaster)](https://www.youtube.com/watch?v=DhCZ5yC9uLE)
 - [Tomorrow's Dream (2020 - Remaster)](https://www.youtube.com/watch?v=KaN5Acc8owk)
 - [Changes (2021 - Remaster)](https://www.youtube.com/watch?v=_eBCxYVma1g)
 - [FX (2021 - Remaster)](https://www.youtube.com/watch?v=RwFeN1h8dDg)
 - [Supernaut (2020 - Remaster)](https://www.youtube.com/watch?v=Ivj3TjsMgOg)
+- [Snowblind (2021 - Remaster)](https://www.youtube.com/watch?v=AmNJ7ISSvwE)
 - [Cornucopia (2021 - Remaster)](https://www.youtube.com/watch?v=m6PqCU7PpW4)
 - [Laguna Sunrise (2021 - Remaster)](https://www.youtube.com/watch?v=hAEqXqTTRVc)
 - [St. Vitus Dance (2021 - Remaster)](https://www.youtube.com/watch?v=OAGoDcYZ44s)

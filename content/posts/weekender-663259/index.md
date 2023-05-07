@@ -29,12 +29,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### FLOWERED UP .......WEEKENDER FULL VERSION
-{{< youtube id="TdLqoZSsd_U" title="FLOWERED UP .......WEEKENDER FULL VERSION" >}}<br>
+### HVN16 - Flowered Up 'Weekender'  film
+{{< youtube id="RrpCdoRgBpQ" title="HVN16 - Flowered Up 'Weekender'  film" >}}<br>
 
 ### More Videos
 
-- [HVN16 - Flowered Up 'Weekender'  film](https://www.youtube.com/watch?v=RrpCdoRgBpQ)
 - [Flowered Up - Weekender](https://www.youtube.com/watch?v=o4gKTRuc-5Q)
 - [Flowered Up - Weekender  (Full video)](https://www.youtube.com/watch?v=TVJFGRUL8EQ)
 - [Flowered Up, Weekender](https://www.youtube.com/watch?v=dbfUw9F7A8M)
@@ -47,6 +46,7 @@ styles: ["Indie Rock"]
 - [Flowered Up - Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) [Heavenly] 1992](https://www.youtube.com/watch?v=nblT-P5NIkc)
 - [Flowered Up - Cracker Jack](https://www.youtube.com/watch?v=48V6cC2v5tY)
 - [Flowered Up - Weekender](https://www.youtube.com/watch?v=IDJpF3ZWTn0)
+- [FLOWERED UP .......WEEKENDER FULL VERSION](https://www.youtube.com/watch?v=TdLqoZSsd_U)
 - [Flowered Up - Enough's Enough - Weekender 12](https://www.youtube.com/watch?v=iNNu2Aca9Uc)
 
 

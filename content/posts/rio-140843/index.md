@@ -37,12 +37,12 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Duran Duran - Rio (Official Music Video)
-{{< youtube id="nTizYn3-QN0" title="Duran Duran - Rio (Official Music Video)" >}}<br>
+### Duran Duran - Hungry like the Wolf (Official Music Video)
+{{< youtube id="oJL-lCzEXgI" title="Duran Duran - Hungry like the Wolf (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Duran Duran - Hungry like the Wolf (Official Music Video)](https://www.youtube.com/watch?v=oJL-lCzEXgI)
+- [Duran Duran - Rio (Official Music Video)](https://www.youtube.com/watch?v=nTizYn3-QN0)
 - [Duran Duran - Save A Prayer (Official Music Video)](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
 - [Duran Duran - My Own Way (Official Music Video )](https://www.youtube.com/watch?v=QUrIDz6L5vc)
 - [Duran Duran - Lonely In Your Nightmare (Official Music Video)](https://www.youtube.com/watch?v=rGdLNbIc2ZA)

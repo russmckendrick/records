@@ -42,12 +42,12 @@ styles: ["Mod", "Psychedelic Rock"]
 
 
 ## Videos
-### You've Really Got A Hold On Me
-{{< youtube id="YYNkkJjhsqA" title="You've Really Got A Hold On Me" >}}<br>
+### Small Faces ~ Baby Don't You Do It (Vinyl)
+{{< youtube id="K4Gay7gZmRA" title="Small Faces ~ Baby Don't You Do It (Vinyl)" >}}<br>
 
 ### More Videos
 
-- [Small Faces ~ Baby Don't You Do It (Vinyl)](https://www.youtube.com/watch?v=K4Gay7gZmRA)
+- [You've Really Got A Hold On Me](https://www.youtube.com/watch?v=YYNkkJjhsqA)
 - [My Way Of Giving](https://www.youtube.com/watch?v=SQ3T49mag48)
 - [My Mind's Eye](https://www.youtube.com/watch?v=D8cg7zzR_xM)
 - [Runaway](https://www.youtube.com/watch?v=7hQLBOHjvo8)

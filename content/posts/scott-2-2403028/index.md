@@ -40,18 +40,18 @@ styles: ["Vocal", "Pop Rock"]
 
 
 ## Videos
-### Scott Walker   Next
-{{< youtube id="gR3W6vmgg_I" title="Scott Walker   Next" >}}<br>
+### Scott Walker - The Amorous Humphrey Plugg
+{{< youtube id="JFXuMljSY7g" title="Scott Walker - The Amorous Humphrey Plugg" >}}<br>
 
 ### More Videos
 
-- [Scott Walker - The Amorous Humphrey Plugg](https://www.youtube.com/watch?v=JFXuMljSY7g)
 - [Scott Walker - Jackie](https://www.youtube.com/watch?v=eKtZf62BQzM)
 - [Scott Walker - The Girls from the Street](https://www.youtube.com/watch?v=Jj_C6Rv0HV0)
 - [The Girls And The Dogs](https://www.youtube.com/watch?v=8p70xFGQTOs)
 - [Plastic Palace People](https://www.youtube.com/watch?v=fqmrCixYLWU)
 - [Scott Walker (The Walker Brothers) ~ The Windows of The World](https://www.youtube.com/watch?v=oywI42UcxY4)
 - [Scott Walker - Come Next Spring](https://www.youtube.com/watch?v=LWy7dJU-7RE)
+- [Scott Walker   Next](https://www.youtube.com/watch?v=gR3W6vmgg_I)
 
 
 ## Release Information

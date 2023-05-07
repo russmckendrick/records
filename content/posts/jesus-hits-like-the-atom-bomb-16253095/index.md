@@ -43,17 +43,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Your Socks Have No Name
-{{< youtube id="1l-CZ8-7ohc" title="Your Socks Have No Name" >}}<br>
+### Waited A Light Year
+{{< youtube id="BEf20qe-qGs" title="Waited A Light Year" >}}<br>
 
 ### More Videos
 
-- [Waited A Light Year](https://www.youtube.com/watch?v=BEf20qe-qGs)
 - [Human Contact](https://www.youtube.com/watch?v=PhNa628JWhk)
 - [Geeareohdoubleyou](https://www.youtube.com/watch?v=Uo2vgawfLLc)
 - [Sonic Bloom](https://www.youtube.com/watch?v=H5At3vR6FZk)
 - [About The Movies](https://www.youtube.com/watch?v=0mgwe_x6JKU)
 - [Mechanical Breakdown](https://www.youtube.com/watch?v=qA2pOrKeJdE)
+- [Your Socks Have No Name](https://www.youtube.com/watch?v=1l-CZ8-7ohc)
 - [Field Day Jitters](https://www.youtube.com/watch?v=cewkFHrSagA)
 - [Our Drive To The Sun / Can A Man Mark It?](https://www.youtube.com/watch?v=piz0pY1AhiI)
 - [8 Ladies](https://www.youtube.com/watch?v=uMr-AiNEijc)

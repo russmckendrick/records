@@ -38,13 +38,13 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 
 
 ## Videos
-### Goldfrapp - Black Cherry Documentary
-{{< youtube id="Lgktgw8a69I" title="Goldfrapp - Black Cherry Documentary" >}}<br>
+### Goldfrapp - Strict Machine (Official HD Video)
+{{< youtube id="YeawPUpTHJA" title="Goldfrapp - Strict Machine (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Goldfrapp - Strict Machine (Official HD Video)](https://www.youtube.com/watch?v=YeawPUpTHJA)
 - [Goldfrapp - Train](https://www.youtube.com/watch?v=PHnYe5Nj0F0)
+- [Goldfrapp - Black Cherry Documentary](https://www.youtube.com/watch?v=Lgktgw8a69I)
 - [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
 - [Goldfrapp - Black Cherry (Lyric Video)](https://www.youtube.com/watch?v=vnN342N6NQw)
 

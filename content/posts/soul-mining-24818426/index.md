@@ -35,12 +35,12 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### The The - Giant
-{{< youtube id="aub7ojxeEAw" title="The The - Giant" >}}<br>
+### The The - Uncertain Smile (Audio)
+{{< youtube id="5bErFXjUGvQ" title="The The - Uncertain Smile (Audio)" >}}<br>
 
 ### More Videos
 
-- [The The - Uncertain Smile (Audio)](https://www.youtube.com/watch?v=5bErFXjUGvQ)
+- [The The - Giant](https://www.youtube.com/watch?v=aub7ojxeEAw)
 - [The The I've Been Waiting for Tomorrow (All of My Life)](https://www.youtube.com/watch?v=MVQ-i4hSESI)
 - [Soul Mining](https://www.youtube.com/watch?v=IkzwnBqjRYg)
 - [The The - The Sinking Feeling](https://www.youtube.com/watch?v=RzPeHdPeL-c)

@@ -47,14 +47,14 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Rancid - Time Bomb
-{{< youtube id="DhKHAopx7D0" title="Rancid - Time Bomb" >}}<br>
+### Rancid - Maxwell Murder (Full Album Stream)
+{{< youtube id="XcccqG6-dDg" title="Rancid - Maxwell Murder (Full Album Stream)" >}}<br>
 
 ### More Videos
 
-- [Rancid - Maxwell Murder (Full Album Stream)](https://www.youtube.com/watch?v=XcccqG6-dDg)
 - [Rancid - The 11th Hour (Full Album Stream)](https://www.youtube.com/watch?v=Ly5-hv5-iTU)
 - [Rancid - Roots Radicals [Official Video]](https://www.youtube.com/watch?v=wpzkGQhftMw)
+- [Rancid - Time Bomb](https://www.youtube.com/watch?v=DhKHAopx7D0)
 - [Rancid - Olympia, WA (Full Album Stream)](https://www.youtube.com/watch?v=j5HZ5Bd6DUY)
 - [Rancid - Lock, Step, & Gone (Full Album Stream)](https://www.youtube.com/watch?v=O-vzicKAUTY)
 - [Rancid - Junkie Man (Full Album Stream)](https://www.youtube.com/watch?v=gXXT2KvhwZs)

@@ -47,12 +47,12 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 
 
 ## Videos
-### Radioactivity (William Orbit Hardcore Remix - Kling Klang Edit)
-{{< youtube id="O8DHr4R_H1o" title="Radioactivity (William Orbit Hardcore Remix - Kling Klang Edit)" >}}<br>
+### KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)
+{{< youtube id="6lk0x2ZA1nU" title="KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)" >}}<br>
 
 ### More Videos
 
-- [KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)](https://www.youtube.com/watch?v=6lk0x2ZA1nU)
+- [Radioactivity (William Orbit Hardcore Remix - Kling Klang Edit)](https://www.youtube.com/watch?v=O8DHr4R_H1o)
 
 
 ## Release Information

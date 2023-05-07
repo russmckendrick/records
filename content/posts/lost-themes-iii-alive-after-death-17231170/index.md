@@ -38,13 +38,13 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 
 
 ## Videos
-### John Carpenter - Weeping Ghost (Official Audio)
-{{< youtube id="l7AA4oZ8URA" title="John Carpenter - Weeping Ghost (Official Audio)" >}}<br>
+### John Carpenter - Alive After Death (Official Music Video)
+{{< youtube id="A8NHR31TA9E" title="John Carpenter - Alive After Death (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [John Carpenter - Alive After Death (Official Music Video)](https://www.youtube.com/watch?v=A8NHR31TA9E)
 - [John Carpenter - The Dead Walk (Official Audio)](https://www.youtube.com/watch?v=3Ic0Xdpwhl4)
+- [John Carpenter - Weeping Ghost (Official Audio)](https://www.youtube.com/watch?v=l7AA4oZ8URA)
 - [Alive After Death](https://www.youtube.com/watch?v=SIing3weJbc)
 - [Carpathian Darkness](https://www.youtube.com/watch?v=FIbZ9J2a6wI)
 - [Cemetery](https://www.youtube.com/watch?v=2_YuSaOcjSU)

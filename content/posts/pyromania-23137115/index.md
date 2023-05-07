@@ -38,13 +38,13 @@ styles: []
 
 
 ## Videos
-### Def Leppard - Foolin'
-{{< youtube id="9SnxBvH-0Mc" title="Def Leppard - Foolin'" >}}<br>
+### Def Leppard - Photograph
+{{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}<br>
 
 ### More Videos
 
-- [Def Leppard - Photograph](https://www.youtube.com/watch?v=D4dHr8evt6k)
 - [DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)](https://www.youtube.com/watch?v=q3sbi86cIRI)
+- [Def Leppard - Foolin'](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
 - [Def Leppard - Rock Of Ages (Official Music Video) (HD/1080p)](https://www.youtube.com/watch?v=4xHy3ngYfWo)
 - [Def Leppard - Too late For Love (Official Video)](https://www.youtube.com/watch?v=JylbxFYc83k)
 - [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)

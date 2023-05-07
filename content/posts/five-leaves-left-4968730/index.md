@@ -38,14 +38,14 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Three Hours
-{{< youtube id="VfSWWScqH5M" title="Three Hours" >}}<br>
+### The Thoughts Of Mary Jane
+{{< youtube id="XpR_OdvyRNI" title="The Thoughts Of Mary Jane" >}}<br>
 
 ### More Videos
 
-- [The Thoughts Of Mary Jane](https://www.youtube.com/watch?v=XpR_OdvyRNI)
 - [Time Has Told Me](https://www.youtube.com/watch?v=G8SmkwS82u4)
 - [River Man](https://www.youtube.com/watch?v=HQ9JBwuO128)
+- [Three Hours](https://www.youtube.com/watch?v=VfSWWScqH5M)
 - [Way To Blue](https://www.youtube.com/watch?v=DW2m0wp8zO0)
 - [Day Is Done](https://www.youtube.com/watch?v=9VNfZwvuyBA)
 - [' Cello Song](https://www.youtube.com/watch?v=MhSVh75lKiE)

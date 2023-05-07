@@ -38,13 +38,13 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 
 
 ## Videos
-### Horslips- Man who built America
-{{< youtube id="NynajakSbV0" title="Horslips- Man who built America" >}}<br>
+### Horslips...The Man Who Built America...Full Album
+{{< youtube id="qQ_ZVFgSbaw" title="Horslips...The Man Who Built America...Full Album" >}}<br>
 
 ### More Videos
 
-- [Horslips...The Man Who Built America...Full Album](https://www.youtube.com/watch?v=qQ_ZVFgSbaw)
 - [Long Time Ago](https://www.youtube.com/watch?v=hrRVg8aIazg)
+- [Horslips- Man who built America](https://www.youtube.com/watch?v=NynajakSbV0)
 - [Loneliness](https://www.youtube.com/watch?v=E1i3mWHSsyk)
 
 

@@ -46,13 +46,13 @@ styles: ["Alternative Rock", "Space Rock"]
 
 
 ## Videos
-### Sweet Talk
-{{< youtube id="6pb_8WVXgFs" title="Sweet Talk" >}}<br>
+### Baby I'm Just a Fool
+{{< youtube id="ncD2YXmCUeI" title="Baby I'm Just a Fool" >}}<br>
 
 ### More Videos
 
-- [Baby I'm Just a Fool](https://www.youtube.com/watch?v=ncD2YXmCUeI)
 - [Soul On Fire](https://www.youtube.com/watch?v=-DHGimTS7lQ)
+- [Sweet Talk](https://www.youtube.com/watch?v=6pb_8WVXgFs)
 
 
 ## Release Information

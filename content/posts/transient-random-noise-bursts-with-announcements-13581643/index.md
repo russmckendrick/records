@@ -51,12 +51,11 @@ styles: ["Krautrock", "Indie Rock"]
 
 
 ## Videos
-### Jenny Ondioline
-{{< youtube id="c_zYpoHQzbA" title="Jenny Ondioline" >}}<br>
+### Stereolab - Jenny Ondioline (Official Video)
+{{< youtube id="zsIBzVSZeIQ" title="Stereolab - Jenny Ondioline (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Stereolab - Jenny Ondioline (Official Video)](https://www.youtube.com/watch?v=zsIBzVSZeIQ)
 - [Stereolab - Pack Your Romantic Mind (Rare Early Mix)](https://www.youtube.com/watch?v=PJYc2xl7pgk)
 - [Tone Burst](https://www.youtube.com/watch?v=UoHK-555v5I)
 - [Our Trinitone Blast](https://www.youtube.com/watch?v=f4lANy2lyDo)
@@ -64,6 +63,7 @@ styles: ["Krautrock", "Indie Rock"]
 - [I'm Going Out Of My Way](https://www.youtube.com/watch?v=1ENSJpYpJlU)
 - [Golden Ball](https://www.youtube.com/watch?v=LEWxa--fXlo)
 - [Pause](https://www.youtube.com/watch?v=K32zai-jDS4)
+- [Jenny Ondioline](https://www.youtube.com/watch?v=c_zYpoHQzbA)
 - [Analogue Rock](https://www.youtube.com/watch?v=xVBEH26GvPs)
 - [Crest](https://www.youtube.com/watch?v=uMEcoUD2X5Q)
 - [Lock-Groove Lullaby](https://www.youtube.com/watch?v=XxUrm-IzBVU)

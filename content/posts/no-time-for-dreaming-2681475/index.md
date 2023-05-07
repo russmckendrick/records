@@ -40,12 +40,11 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Eyes on the Prize (Instrumental)
-{{< youtube id="61lZH-HZqAo" title="Eyes on the Prize (Instrumental)" >}}<br>
+### OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band
+{{< youtube id="MTy7ugrSFz4" title="OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band" >}}<br>
 
 ### More Videos
 
-- [OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band](https://www.youtube.com/watch?v=MTy7ugrSFz4)
 - [No Time For Dreaming (Instrumental)](https://www.youtube.com/watch?v=tdHABhSOd3E)
 - [How Long (Instrumental)](https://www.youtube.com/watch?v=qEAFQfLWPFY)
 - [Heartaches and Pain (Instrumental)](https://www.youtube.com/watch?v=B498xlbeeTg)
@@ -54,6 +53,7 @@ styles: ["Soul", "Rhythm & Blues"]
 - [Lovin' You, Baby (Instrumental)](https://www.youtube.com/watch?v=8fuMl5vqMu4)
 - [Since Our Last Goodbye (Instrumental)](https://www.youtube.com/watch?v=thZr2mmGhdk)
 - [Charles Bradley feat The Sounds Of  Menahan Street Band  - Since our last goodbye](https://www.youtube.com/watch?v=CtZ-2ACChrQ)
+- [Eyes on the Prize (Instrumental)](https://www.youtube.com/watch?v=61lZH-HZqAo)
 - [The Telephone Song (Instrumental)](https://www.youtube.com/watch?v=WG2p4ZcgeH8)
 - [Heart of Gold (Instrumental)](https://www.youtube.com/watch?v=wPXQSjVb2gQ)
 - [Charles Bradley - Why Is It So Hard (Live on KEXP)](https://www.youtube.com/watch?v=yBdTVmSVq14)

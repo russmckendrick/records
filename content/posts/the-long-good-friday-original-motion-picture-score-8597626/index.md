@@ -37,14 +37,14 @@ styles: ["Score", "Soundtrack"]
 
 
 ## Videos
-### Francis Monkman - At the Pool [The Long Good Friday, Original Soundtrack]
-{{< youtube id="QAF36U3q-Yo" title="Francis Monkman - At the Pool [The Long Good Friday, Original Soundtrack]" >}}<br>
+### Francis Monkman - The Long Good Friday (1979) Soundtrack.
+{{< youtube id="2boaFaezG00" title="Francis Monkman - The Long Good Friday (1979) Soundtrack." >}}<br>
 
 ### More Videos
 
-- [Francis Monkman - The Long Good Friday (1979) Soundtrack.](https://www.youtube.com/watch?v=2boaFaezG00)
 - [Francis Monkman - Overture [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=gT0ZpSLH_VM)
 - [The Long Good Friday - The Scene is Set (Theme)](https://www.youtube.com/watch?v=DK3FJpTXlLU)
+- [Francis Monkman - At the Pool [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=QAF36U3q-Yo)
 - [Francis Monkman - Fury [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=6fXdwg1vEtk)
 - [Francis Monkman - Taken [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=EVULl0aDKfw)
 

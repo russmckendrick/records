@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Clinic - Distortions (Official Video)
-{{< youtube id="Ii4lkM1pLjQ" title="Clinic - Distortions (Official Video)" >}}<br>
+### Clinic - Earth Angel
+{{< youtube id="q4OWG1Qze7o" title="Clinic - Earth Angel" >}}<br>
 
 ### More Videos
 
-- [Clinic - Earth Angel](https://www.youtube.com/watch?v=q4OWG1Qze7o)
+- [Clinic - Distortions (Official Video)](https://www.youtube.com/watch?v=Ii4lkM1pLjQ)
 - [Internal Wrangler - Clinic](https://www.youtube.com/watch?v=j1JPj1Oj7Co)
 - [CLINIC - THE RETURN OF EVIL BILL](https://www.youtube.com/watch?v=eP2GDPNnUXc)
 - [2nd Foot Stomp](https://www.youtube.com/watch?v=mUxozHmUzLE)

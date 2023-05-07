@@ -51,12 +51,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Stand (Extended Version)
-{{< youtube id="AycgV7hkhV4" title="The Stand (Extended Version)" >}}<br>
+### The Alarm - Lie Of The Land
+{{< youtube id="Xe9MsP1VddQ" title="The Alarm - Lie Of The Land" >}}<br>
 
 ### More Videos
 
-- [The Alarm - Lie Of The Land](https://www.youtube.com/watch?v=Xe9MsP1VddQ)
+- [The Stand (Extended Version)](https://www.youtube.com/watch?v=AycgV7hkhV4)
 
 
 ## Release Information

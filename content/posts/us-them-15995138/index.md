@@ -51,16 +51,16 @@ styles: ["Classic Rock", "Prog Rock"]
 
 
 ## Videos
-### Roger Waters - Money (Live in Amsterdam, June, 2018)
-{{< youtube id="LnRXVt1UFrQ" title="Roger Waters - Money (Live in Amsterdam, June, 2018)" >}}<br>
+### Roger Waters - Welcome To The Machine (Us + Them)
+{{< youtube id="PtTzX_XsjYs" title="Roger Waters - Welcome To The Machine (Us + Them)" >}}<br>
 
 ### More Videos
 
-- [Roger Waters - Welcome To The Machine (Us + Them)](https://www.youtube.com/watch?v=PtTzX_XsjYs)
 - [Roger Waters - Us + Them (Ámsterdam y Reino Unido / 2019)](https://www.youtube.com/watch?v=UvKjsKteoko)
 - [Roger Waters Us Them 2019 FULL HD -   FULL MOVIE](https://www.youtube.com/watch?v=dhkf_b1RD2E)
 - [The Happiest Days Of Our Lives/Another Brick In The Wall, Part 2/Another Brick In The W...](https://www.youtube.com/watch?v=gV0_C4dN-kk)
 - [Roger Waters - Us & Them (Live in Amsterdam, June, 2018)](https://www.youtube.com/watch?v=O7w765-TbjY)
+- [Roger Waters - Money (Live in Amsterdam, June, 2018)](https://www.youtube.com/watch?v=LnRXVt1UFrQ)
 
 
 ## Release Information

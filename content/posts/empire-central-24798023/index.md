@@ -44,12 +44,11 @@ styles: ["Contemporary Jazz", "Fusion"]
 
 
 ## Videos
-### Snarky Puppy - RL's (Empire Central)
-{{< youtube id="fyp0kcIYap0" title="Snarky Puppy - RL's (Empire Central)" >}}<br>
+### Free Fall
+{{< youtube id="eTvn9UrJBvA" title="Free Fall" >}}<br>
 
 ### More Videos
 
-- [Free Fall](https://www.youtube.com/watch?v=eTvn9UrJBvA)
 - [Keep It On Your Mind](https://www.youtube.com/watch?v=YmwtPWd5iFM)
 - [Portal](https://www.youtube.com/watch?v=4-Sabajk4O4)
 - [Broken Arrow](https://www.youtube.com/watch?v=EHr-ttLW97Q)
@@ -61,6 +60,7 @@ styles: ["Contemporary Jazz", "Fusion"]
 - [Snarky Puppy - Trinity (Extended Version) (Empire Central)](https://www.youtube.com/watch?v=CSiLPkUopBg)
 - [Snarky Puppy - Bet (Empire Central)](https://www.youtube.com/watch?v=fnWoFuh7ZuA)
 - [Snarky Puppy - Pineapple (Empire Central)](https://www.youtube.com/watch?v=RNTptTel610)
+- [Snarky Puppy - RL's (Empire Central)](https://www.youtube.com/watch?v=fyp0kcIYap0)
 - [Snarky Puppy - Belmont (Empire Central)](https://www.youtube.com/watch?v=dC3b3ul6dME)
 - [Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)](https://www.youtube.com/watch?v=ire-T-zfX6k)
 

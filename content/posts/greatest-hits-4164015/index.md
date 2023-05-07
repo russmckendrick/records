@@ -40,12 +40,11 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 
 
 ## Videos
-### CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975
-{{< youtube id="YbN9NT7-SkI" title="CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975" >}}<br>
+### CAT STEVENS - Wild World 1971
+{{< youtube id="Jta56wBl7SM" title="CAT STEVENS - Wild World 1971" >}}<br>
 
 ### More Videos
 
-- [CAT STEVENS - Wild World 1971](https://www.youtube.com/watch?v=Jta56wBl7SM)
 - [Wild World - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=AMbpoitXTb8)
 - [Cat Stevens- Sitting](https://www.youtube.com/watch?v=djpnsqdNabM)
 - [Oh Very Young - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=N7SSmDZ4CCM)
@@ -71,6 +70,7 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 - [Cat Stevens - Cat Stevens Greatest Hits || Best Songs Cat Stevens ( Full Album Live)](https://www.youtube.com/watch?v=2rNBBU_62hw)
 - [Cat Stevens Greatest Hits Album - Best Songs Of Cat Stevens](https://www.youtube.com/watch?v=JkaCkZmPRFk)
 - [C.a.t S.t.e.v.e.n.s Greatest Hits, Full Album - Rock Music Playlist 2022](https://www.youtube.com/watch?v=vmZbyEgDhas)
+- [CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975](https://www.youtube.com/watch?v=YbN9NT7-SkI)
 
 
 ## Release Information

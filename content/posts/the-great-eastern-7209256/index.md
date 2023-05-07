@@ -38,13 +38,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Delgados - American Trilogy
-{{< youtube id="Fhdewbz7qiY" title="The Delgados - American Trilogy" >}}<br>
+### The Delgados - The Past That Suits You Best
+{{< youtube id="HJpvtbPqDu8" title="The Delgados - The Past That Suits You Best" >}}<br>
 
 ### More Videos
 
-- [The Delgados - The Past That Suits You Best](https://www.youtube.com/watch?v=HJpvtbPqDu8)
 - [The Delgados - Accused of Stealing](https://www.youtube.com/watch?v=RLSRrlLM5_A)
+- [The Delgados - American Trilogy](https://www.youtube.com/watch?v=Fhdewbz7qiY)
 - [Reasons for Silence (Ed's Song) - The Delgados](https://www.youtube.com/watch?v=eM--KpYLnNg)
 - [The Delgados - Thirteen Gliding Principles.wmv](https://www.youtube.com/watch?v=kVuBni6IyKY)
 - [The Delgados - Witness](https://www.youtube.com/watch?v=k7zJqGZlKRI)

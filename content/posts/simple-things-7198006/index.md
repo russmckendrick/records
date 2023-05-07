@@ -39,13 +39,13 @@ styles: ["Downtempo"]
 
 
 ## Videos
-### Zero 7 - Destiny [Full-Length] [HQ]
-{{< youtube id="idtRhja2rAM" title="Zero 7 - Destiny [Full-Length] [HQ]" >}}<br>
+### Simple Things - Zero 7 (Full Album)
+{{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Simple Things - Zero 7 (Full Album)](https://www.youtube.com/watch?v=mV5FhnK2UKM)
 - [Zero 7 - I Have Seen (Official Video) ft. Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
+- [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
 
 

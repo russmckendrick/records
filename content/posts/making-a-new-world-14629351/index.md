@@ -47,14 +47,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Coffee or Wine
-{{< youtube id="pKbn2ipegpo" title="Coffee or Wine" >}}<br>
+### A Change of Heir
+{{< youtube id="-2tpEGNFuvU" title="A Change of Heir" >}}<br>
 
 ### More Videos
 
-- [A Change of Heir](https://www.youtube.com/watch?v=-2tpEGNFuvU)
 - [Field Music - Only In A Man's World](https://www.youtube.com/watch?v=ft__PS9rFAU)
 - [Between Nations](https://www.youtube.com/watch?v=uAG_WNGqKis)
+- [Coffee or Wine](https://www.youtube.com/watch?v=pKbn2ipegpo)
 - [An Independent State](https://www.youtube.com/watch?v=633JiD0MLws)
 - [From a Dream, into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
 - [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)

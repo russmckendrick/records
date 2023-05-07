@@ -64,13 +64,13 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 
 
 ## Videos
-### Cody ChesnuTT - Bitch, I'm Broke
-{{< youtube id="KeeCMCQFTOE" title="Cody ChesnuTT - Bitch, I'm Broke" >}}<br>
+### Cody Chesnutt - Eric Burdon
+{{< youtube id="tD4VoPlC91A" title="Cody Chesnutt - Eric Burdon" >}}<br>
 
 ### More Videos
 
-- [Cody Chesnutt - Eric Burdon](https://www.youtube.com/watch?v=tD4VoPlC91A)
 - [No One Will](https://www.youtube.com/watch?v=P3GDIf2RGqM)
+- [Cody ChesnuTT - Bitch, I'm Broke](https://www.youtube.com/watch?v=KeeCMCQFTOE)
 - [Cody Chesnutt- Upstarts In A Blowout](https://www.youtube.com/watch?v=bwKo5qBtzoU)
 - [Cody ChesnuTT Serve this Royalty.  Part 1](https://www.youtube.com/watch?v=B9vNOlnLgPg)
 - [If We Don't Disagree - Cody Chesnutt (2002)](https://www.youtube.com/watch?v=fbUx8A65FtI)

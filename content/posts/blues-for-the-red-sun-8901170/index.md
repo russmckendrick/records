@@ -42,12 +42,11 @@ styles: ["Stoner Rock", "Hard Rock"]
 
 
 ## Videos
-### Mondo Generator
-{{< youtube id="lWDJ6R1nTnI" title="Mondo Generator" >}}<br>
+### Kyuss - Thong Song (Official Video)
+{{< youtube id="CtFuXV5FEvI" title="Kyuss - Thong Song (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Kyuss - Thong Song (Official Video)](https://www.youtube.com/watch?v=CtFuXV5FEvI)
 - [Kyuss - Blues For The Red Sun (Full Album) [Official]](https://www.youtube.com/watch?v=gZxPm06Dhn4)
 - [Thumb](https://www.youtube.com/watch?v=_TR2m4IfqPI)
 - [Green Machine](https://www.youtube.com/watch?v=RhaiAEvEiFI)
@@ -56,6 +55,7 @@ styles: ["Stoner Rock", "Hard Rock"]
 - [800](https://www.youtube.com/watch?v=D-Wo6NOBilY)
 - [Writhe](https://www.youtube.com/watch?v=x_yZXsO-3Mg)
 - [Caterpillar March](https://www.youtube.com/watch?v=vhQpEmG0mMo)
+- [Mondo Generator](https://www.youtube.com/watch?v=lWDJ6R1nTnI)
 - [Yeah](https://www.youtube.com/watch?v=t_lpSSTIbpM)
 
 

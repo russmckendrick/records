@@ -41,12 +41,11 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Death
-{{< youtube id="byXV8klxtiE" title="Death" >}}<br>
+### The Diamond Mine
+{{< youtube id="B5cw4KMugBc" title="The Diamond Mine" >}}<br>
 
 ### More Videos
 
-- [The Diamond Mine](https://www.youtube.com/watch?v=B5cw4KMugBc)
 - [The Diamond Mine](https://www.youtube.com/watch?v=hMW6P2LcBmw)
 - [Monster Magnet - A Better Dystopia (Full Album) 2021 - Napalm Records](https://www.youtube.com/watch?v=VFCcWppMT5Q)
 - [Born to Go](https://www.youtube.com/watch?v=jucuttyPPQY)
@@ -55,6 +54,7 @@ styles: ["Stoner Rock"]
 - [Be Forewarned](https://www.youtube.com/watch?v=n-Bb-gtjMb0)
 - [Mr. Destroyer](https://www.youtube.com/watch?v=jzoOiSe1yYo)
 - [When the Wolf Sits](https://www.youtube.com/watch?v=PjJ8KnWNuTk)
+- [Death](https://www.youtube.com/watch?v=byXV8klxtiE)
 - [Situation](https://www.youtube.com/watch?v=ToYoq70P7HI)
 - [It's Trash](https://www.youtube.com/watch?v=JBUDIPEs6q0)
 - [Motorcycle (Straight to Hell)](https://www.youtube.com/watch?v=3_B5nY6_9Io)

@@ -39,15 +39,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Las Vegas Dealer
-{{< youtube id="peX1chFJTpM" title="Las Vegas Dealer" >}}<br>
+### Hangover (Remastered 2019)
+{{< youtube id="XPebxxCiZQk" title="Hangover (Remastered 2019)" >}}<br>
 
 ### More Videos
 
-- [Hangover (Remastered 2019)](https://www.youtube.com/watch?v=XPebxxCiZQk)
 - [Revolutionary Kind](https://www.youtube.com/watch?v=V2nECCy8uEI)
 - [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
 - [Blue Moon Rising](https://www.youtube.com/watch?v=9jHCwCbRGJg)
+- [Las Vegas Dealer](https://www.youtube.com/watch?v=peX1chFJTpM)
 - [Gomez - We Haven't Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
 - [Fill My Cup](https://www.youtube.com/watch?v=VjnYPEfvyj4)
 - [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)

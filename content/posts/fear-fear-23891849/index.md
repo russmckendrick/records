@@ -35,17 +35,17 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 
 
 ## Videos
-### The Last One
-{{< youtube id="NiuAKCPopUg" title="The Last One" >}}<br>
+### Working Men's Club - Widow (Official Video)
+{{< youtube id="A5quA4GrzQ0" title="Working Men's Club - Widow (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Working Men's Club - Widow (Official Video)](https://www.youtube.com/watch?v=A5quA4GrzQ0)
 - [Working Men's Club - Ploys (Official Video)](https://www.youtube.com/watch?v=LECCjs6KHHQ)
 - [Working Men's Club - Circumference (Visualiser)](https://www.youtube.com/watch?v=kGNqyWTcKd8)
 - [Fear Fear](https://www.youtube.com/watch?v=gWb6K10kny4)
 - [Cut](https://www.youtube.com/watch?v=wmpLFvuCR7s)
 - [19](https://www.youtube.com/watch?v=5dbX7nMshMU)
+- [The Last One](https://www.youtube.com/watch?v=NiuAKCPopUg)
 - [Money Is Mine](https://www.youtube.com/watch?v=BSRFZ-zPiG8)
 - [Working Men's Club - Fear Fear | RESEÑA DEL ÁLBUM](https://www.youtube.com/watch?v=5NU2Az9Up7A)
 

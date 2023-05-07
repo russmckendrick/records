@@ -48,15 +48,15 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### John Williams - The Jedi Steps and Finale (Audio Only)
-{{< youtube id="cUBUlKgsNK8" title="John Williams - The Jedi Steps and Finale (Audio Only)" >}}<br>
+### John Williams - Rey's Theme (Audio Only)
+{{< youtube id="65As1V0vQDM" title="John Williams - Rey's Theme (Audio Only)" >}}<br>
 
 ### More Videos
 
-- [John Williams - Rey's Theme (Audio Only)](https://www.youtube.com/watch?v=65As1V0vQDM)
 - [John Williams - Main Title and The Attack on the Jakku Village (Audio Only)](https://www.youtube.com/watch?v=y8ac1Qg-r-8)
 - [Star Wars The Force Awakens Soundtrack](https://www.youtube.com/watch?v=yp5ks2X80RY)
 - [John Williams - Snoke (Audio Only)](https://www.youtube.com/watch?v=mSQ3BJVMfAI)
+- [John Williams - The Jedi Steps and Finale (Audio Only)](https://www.youtube.com/watch?v=cUBUlKgsNK8)
 - [The Starkiller](https://www.youtube.com/watch?v=Mr45yw5G1oc)
 - [On the Inside](https://www.youtube.com/watch?v=2UfY_noVmLw)
 - [March of the Resistance](https://www.youtube.com/watch?v=HX6Bi7Yr1tU)

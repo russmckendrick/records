@@ -39,18 +39,18 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 
 
 ## Videos
-### CoRe - Track 4 - Jumble
-{{< youtube id="wdUqNciCrvE" title="CoRe - Track 4 - Jumble" >}}<br>
+### Michael Monroe feat. Slash - Magic Carpet Ride
+{{< youtube id="RWgSXpWcaZg" title="Michael Monroe feat. Slash - Magic Carpet Ride" >}}<br>
 
 ### More Videos
 
-- [Michael Monroe feat. Slash - Magic Carpet Ride](https://www.youtube.com/watch?v=RWgSXpWcaZg)
 - [Digable Planets - Little Renee](https://www.youtube.com/watch?v=FZJ7P95uZqs)
 - [Tainted Love Soft Cell Lyrics](https://www.youtube.com/watch?v=CQ5_QxwFjNI)
 - [Paul Simon - Kodachrome (Audio)](https://www.youtube.com/watch?v=8rlDTK6QI-w)
 - [Morten Harket - Can't take my eyes off you](https://www.youtube.com/watch?v=VQc5O5nvXJA)
 - [REM - It's A Free World Baby](https://www.youtube.com/watch?v=S4NAl460xYc)
 - [Red Hot Chili Peppers - Soul To Squeeze [Official Music Video]](https://www.youtube.com/watch?v=0XcN12uVHeQ)
+- [CoRe - Track 4 - Jumble](https://www.youtube.com/watch?v=wdUqNciCrvE)
 - [Conehead Love Music Video](https://www.youtube.com/watch?v=NMkaOtvRvVo)
 
 

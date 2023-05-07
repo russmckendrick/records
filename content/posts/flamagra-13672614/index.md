@@ -55,17 +55,17 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 
 
 ## Videos
-### Heroes (Instrumental)
-{{< youtube id="Ee_oq3dl5y4" title="Heroes (Instrumental)" >}}<br>
+### Flying Lotus - Post Requisite
+{{< youtube id="2XY0EHSXyk0" title="Flying Lotus - Post Requisite" >}}<br>
 
 ### More Videos
 
-- [Flying Lotus - Post Requisite](https://www.youtube.com/watch?v=2XY0EHSXyk0)
 - [Flying Lotus - Black Balloons Reprise (Official Video) ft. Denzel Curry](https://www.youtube.com/watch?v=Isn8Qp-H0N4)
 - [Takashi (Instrumental)](https://www.youtube.com/watch?v=c9dxT9kW3ss)
 - [Flying Lotus - More (feat. Anderson .Paak) [Official Video]](https://www.youtube.com/watch?v=ylqBPksn36A)
 - [Land Of Honey (Instrumental)](https://www.youtube.com/watch?v=nyA6W6ZIbxM)
 - [Flying Lotus - Fire Is Coming feat. David Lynch](https://www.youtube.com/watch?v=aTrTtzTQrv0)
+- [Heroes (Instrumental)](https://www.youtube.com/watch?v=Ee_oq3dl5y4)
 - [Heroes](https://www.youtube.com/watch?v=aDDvwoABgwE)
 - [Fire Is Coming (Instrumental)](https://www.youtube.com/watch?v=XRRnvciRWgc)
 - [Post Requisite](https://www.youtube.com/watch?v=QbytIjGOqqk)

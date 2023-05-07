@@ -43,13 +43,13 @@ styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 
 
 ## Videos
-### Father John Misty - Pure Comedy [FULL ALBUM STREAM]
-{{< youtube id="DzLt-11Glzg" title="Father John Misty - Pure Comedy [FULL ALBUM STREAM]" >}}<br>
+### Father John Misty - Pure Comedy [Official Music Video]
+{{< youtube id="wKrSYgirAhc" title="Father John Misty - Pure Comedy [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [Father John Misty - Pure Comedy [Official Music Video]](https://www.youtube.com/watch?v=wKrSYgirAhc)
 - [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
+- [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
 
 
 ## Release Information

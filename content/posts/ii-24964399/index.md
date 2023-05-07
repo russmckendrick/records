@@ -37,18 +37,18 @@ styles: ["Hardcore", "Heavy Metal"]
 
 
 ## Videos
-### Dead Cross Reign Of Error
-{{< youtube id="4oEZq_JHwBg" title="Dead Cross Reign Of Error" >}}<br>
+### Love Without Love
+{{< youtube id="GCPpZpRdjmw" title="Love Without Love" >}}<br>
 
 ### More Videos
 
-- [Love Without Love](https://www.youtube.com/watch?v=GCPpZpRdjmw)
 - [Animal Espionage](https://www.youtube.com/watch?v=x91B4AUsY-8)
 - [Dead Cross Heart Reformer](https://www.youtube.com/watch?v=y5SmzDk4pSA)
 - [Strong and Wrong](https://www.youtube.com/watch?v=jx6Z67Iqyn4)
 - [Ants and Dragons](https://www.youtube.com/watch?v=3sufoDOJ2L0)
 - [Nightclub Canary](https://www.youtube.com/watch?v=lhEwmFPvFhY)
 - [Dead Cross Christian Missile Crisis](https://www.youtube.com/watch?v=28qhYvvDjjI)
+- [Dead Cross Reign Of Error](https://www.youtube.com/watch?v=4oEZq_JHwBg)
 - [Imposter Syndrome](https://www.youtube.com/watch?v=eCBTd720Nng)
 
 

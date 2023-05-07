@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Broke
-{{< youtube id="kB81YHKYDdI" title="Broke" >}}<br>
+### The Beta Band - Eclipse
+{{< youtube id="06KiM57Pvu0" title="The Beta Band - Eclipse" >}}<br>
 
 ### More Videos
 
-- [The Beta Band - Eclipse](https://www.youtube.com/watch?v=06KiM57Pvu0)
+- [Broke](https://www.youtube.com/watch?v=kB81YHKYDdI)
 - [The Beta Band - Hot Shots II  (Full album)](https://www.youtube.com/watch?v=O7rjG--0oqU)
 
 

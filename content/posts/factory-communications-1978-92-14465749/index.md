@@ -107,12 +107,11 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 
 
 ## Videos
-### The Distractions - Time Goes By So Slow (1979)
-{{< youtube id="ouOeEoF8-Dk" title="The Distractions - Time Goes By So Slow (1979)" >}}<br>
+### Joy Division - Digital
+{{< youtube id="9qgFGqJz9yc" title="Joy Division - Digital" >}}<br>
 
 ### More Videos
 
-- [Joy Division - Digital](https://www.youtube.com/watch?v=9qgFGqJz9yc)
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
 - [Cabaret Voltaire - Baader Meinhof](https://www.youtube.com/watch?v=8ty1kAz7gR0)
 - [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
@@ -122,6 +121,7 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
 - [Joy Division - 06 - She's Lost Control](https://www.youtube.com/watch?v=7PtvIr2oiaE)
 - [Step On](https://www.youtube.com/watch?v=Z6xFAuxft7I)
+- [The Distractions - Time Goes By So Slow (1979)](https://www.youtube.com/watch?v=ouOeEoF8-Dk)
 - [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US Sunshine & Love CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
 - [the names - nightshift](https://www.youtube.com/watch?v=eg4i-fwgBac)
 - [New Order - Ceremony (Original Version) + Lyrics](https://www.youtube.com/watch?v=H5UK40sSo8I)

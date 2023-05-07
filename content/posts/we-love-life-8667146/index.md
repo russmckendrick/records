@@ -39,12 +39,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Birds In Your Garden
-{{< youtube id="Om7NdgInx-U" title="Birds In Your Garden" >}}<br>
+### Weeds
+{{< youtube id="kpdcSgqIsVc" title="Weeds" >}}<br>
 
 ### More Videos
 
-- [Weeds](https://www.youtube.com/watch?v=kpdcSgqIsVc)
 - [Weeds](https://www.youtube.com/watch?v=zo1rNwu6Eig)
 - [Weeds II (The Origin Of The Species)](https://www.youtube.com/watch?v=JAv_nMOrVek)
 - [Weeds II (The Origin Of The Species)](https://www.youtube.com/watch?v=TJcc5V6yCLc)
@@ -57,6 +56,7 @@ styles: ["Indie Rock"]
 - [I Love Life](https://www.youtube.com/watch?v=3TA5Sicjgws)
 - [I Love Life](https://www.youtube.com/watch?v=dZAXCPsSNh0)
 - [Birds In Your Garden](https://www.youtube.com/watch?v=gk1SX5CWuAc)
+- [Birds In Your Garden](https://www.youtube.com/watch?v=Om7NdgInx-U)
 - [Bob Lind (The Only Way Is Down)](https://www.youtube.com/watch?v=w_jltVnOuOk)
 - [Bob Lind (The Only Way Is Down)](https://www.youtube.com/watch?v=-ZpAU6l5kdE)
 - [Bad Cover Version](https://www.youtube.com/watch?v=znT-KFXReCA)

@@ -40,14 +40,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Noose
-{{< youtube id="ltSu-V_QPDY" title="Noose" >}}<br>
+### Tripping Daisy - I Got A Girl
+{{< youtube id="eYI99xuI9CM" title="Tripping Daisy - I Got A Girl" >}}<br>
 
 ### More Videos
 
-- [Tripping Daisy - I Got A Girl](https://www.youtube.com/watch?v=eYI99xuI9CM)
 - [Rocketpop](https://www.youtube.com/watch?v=kpx5YaRm0hs)
 - [Tripping Daisy - Piranha](https://www.youtube.com/watch?v=_-JPNvS5yJA)
+- [Noose](https://www.youtube.com/watch?v=ltSu-V_QPDY)
 - [Trip Along](https://www.youtube.com/watch?v=Hd9AQ_a8uXY)
 - [Tripping Daisy - Prick](https://www.youtube.com/watch?v=iwBWEjPX0qk)
 

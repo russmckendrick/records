@@ -30,12 +30,12 @@ styles: ["Ambient", "Berlin-School"]
 
 
 ## Videos
-### Rubycon (Pt. 2 / Remastered 2018)
-{{< youtube id="f9i0sZxhzxo" title="Rubycon (Pt. 2 / Remastered 2018)" >}}<br>
+### Rubycon (Pt. 1 / Remastered 2018)
+{{< youtube id="BVkRl0sXjjY" title="Rubycon (Pt. 1 / Remastered 2018)" >}}<br>
 
 ### More Videos
 
-- [Rubycon (Pt. 1 / Remastered 2018)](https://www.youtube.com/watch?v=BVkRl0sXjjY)
+- [Rubycon (Pt. 2 / Remastered 2018)](https://www.youtube.com/watch?v=f9i0sZxhzxo)
 
 
 ## Release Information

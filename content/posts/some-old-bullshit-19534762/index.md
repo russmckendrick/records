@@ -42,12 +42,11 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 
 
 ## Videos
-### Holy Snappers
-{{< youtube id="z8aXenos-4A" title="Holy Snappers" >}}<br>
+### Egg Raid On Mojo
+{{< youtube id="_fyEPio-kgM" title="Egg Raid On Mojo" >}}<br>
 
 ### More Videos
 
-- [Egg Raid On Mojo](https://www.youtube.com/watch?v=_fyEPio-kgM)
 - [Beastie Boys](https://www.youtube.com/watch?v=zHBexaWW56U)
 - [Cooky Puss](https://www.youtube.com/watch?v=a5ohFISLu6U)
 - [Bonus Batter](https://www.youtube.com/watch?v=1hTtMaTFk5U)
@@ -55,6 +54,7 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 - [Cooky Puss](https://www.youtube.com/watch?v=Uluk-fS6KHU)
 - [Egg Raid On Mojo (Demo)](https://www.youtube.com/watch?v=-qAw1NdCfic)
 - [Riot Fight](https://www.youtube.com/watch?v=eSLVA4DXOwo)
+- [Holy Snappers](https://www.youtube.com/watch?v=z8aXenos-4A)
 - [Beastie Revolution](https://www.youtube.com/watch?v=okDM6f-3Wl4)
 - [Transit Cop](https://www.youtube.com/watch?v=6C6g-7qx4kA)
 - [Jimi](https://www.youtube.com/watch?v=Y6yzuJTaysM)

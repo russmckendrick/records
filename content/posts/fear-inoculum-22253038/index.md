@@ -34,12 +34,12 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 ## Videos
-### TOOL - Pneuma (Audio)
-{{< youtube id="5ClCaPmAA7s" title="TOOL - Pneuma (Audio)" >}}<br>
+### TOOL - Fear Inoculum (Audio)
+{{< youtube id="q7DfQMPmJRI" title="TOOL - Fear Inoculum (Audio)" >}}<br>
 
 ### More Videos
 
-- [TOOL - Fear Inoculum (Audio)](https://www.youtube.com/watch?v=q7DfQMPmJRI)
+- [TOOL - Pneuma (Audio)](https://www.youtube.com/watch?v=5ClCaPmAA7s)
 - [TOOL - Invincible (Audio)](https://www.youtube.com/watch?v=hxsld16TjSU)
 - [TOOL - Descending (Audio)](https://www.youtube.com/watch?v=PcSoLwFisaw)
 - [TOOL - Culling Voices (Audio)](https://www.youtube.com/watch?v=rj3IbZV_YQM)

@@ -36,12 +36,12 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 
 
 ## Videos
-### Sigur Rós - Valtari [Full Album Stream]
-{{< youtube id="jQi77xni1p8" title="Sigur Rós - Valtari [Full Album Stream]" >}}<br>
+### Sigur Rós - Varúð [Official Music Video]
+{{< youtube id="Gf1h2PMPCAo" title="Sigur Rós - Varúð [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [Sigur Rós - Varúð [Official Music Video]](https://www.youtube.com/watch?v=Gf1h2PMPCAo)
+- [Sigur Rós - Valtari [Full Album Stream]](https://www.youtube.com/watch?v=jQi77xni1p8)
 
 
 ## Release Information

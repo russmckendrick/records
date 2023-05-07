@@ -42,18 +42,18 @@ styles: []
 
 
 ## Videos
-### Where You Lead
-{{< youtube id="jtxeDpNoR8I" title="Where You Lead" >}}<br>
+### Carole King - I Feel the Earth Move (Official Audio)
+{{< youtube id="6913KnbMpHM" title="Carole King - I Feel the Earth Move (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Carole King - I Feel the Earth Move (Official Audio)](https://www.youtube.com/watch?v=6913KnbMpHM)
 - [Carole King - So Far Away (Official Audio)](https://www.youtube.com/watch?v=UofYl3dataU)
 - [Carole King - It's Too Late (Official Audio)](https://www.youtube.com/watch?v=VkKxmnrRVHo)
 - [Home Again](https://www.youtube.com/watch?v=5bbU6gY2N9c)
 - [Beautiful](https://www.youtube.com/watch?v=6ZC17DIsDaQ)
 - [Way over Yonder](https://www.youtube.com/watch?v=M2alP70O_Gw)
 - [Carole King - You've Got a Friend (Official Audio)](https://www.youtube.com/watch?v=eAR_Ff5A8Rk)
+- [Where You Lead](https://www.youtube.com/watch?v=jtxeDpNoR8I)
 - [Will You Love Me Tomorrow?](https://www.youtube.com/watch?v=WMGBcS0h-Ng)
 - [Smackwater Jack](https://www.youtube.com/watch?v=ANsKjjyfeOo)
 - [Tapestry](https://www.youtube.com/watch?v=JM07lUytXA0)

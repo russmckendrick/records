@@ -46,15 +46,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mind Glow
-{{< youtube id="D2hRgQmAdZ8" title="Mind Glow" >}}<br>
+### Dinosaur Jr - I Don't Think So
+{{< youtube id="9WAgITmqLew" title="Dinosaur Jr - I Don't Think So" >}}<br>
 
 ### More Videos
 
-- [Dinosaur Jr - I Don't Think So](https://www.youtube.com/watch?v=9WAgITmqLew)
 - [Dinosaur Jr - Feel The Pain](https://www.youtube.com/watch?v=JXkN3nJyWEA)
 - [Over Your Shoulder](https://www.youtube.com/watch?v=2WNXoYaz5eI)
 - [Outta Hand](https://www.youtube.com/watch?v=yuQc_yNG31Y)
+- [Mind Glow](https://www.youtube.com/watch?v=D2hRgQmAdZ8)
 - [Grab It](https://www.youtube.com/watch?v=5QAUFL091AY)
 
 

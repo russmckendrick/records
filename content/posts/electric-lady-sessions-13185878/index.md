@@ -40,12 +40,11 @@ styles: ["Electro", "Post-Punk"]
 
 
 ## Videos
-### LCD Soundsystem - oh baby (electric lady sessions - official audio)
-{{< youtube id="LLJegb3TdPY" title="LCD Soundsystem - oh baby (electric lady sessions - official audio)" >}}<br>
+### LCD Soundsystem - Seconds (electric lady sessions - official audio)
+{{< youtube id="nkj83iwRmNk" title="LCD Soundsystem - Seconds (electric lady sessions - official audio)" >}}<br>
 
 ### More Videos
 
-- [LCD Soundsystem - Seconds (electric lady sessions - official audio)](https://www.youtube.com/watch?v=nkj83iwRmNk)
 - [LCD Soundsystem - american dream (electric lady sessions - official audio)](https://www.youtube.com/watch?v=pvuo-PUCi90)
 - [LCD Soundsystem - you wanted a hit (electric lady sessions - official audio)](https://www.youtube.com/watch?v=ol8kl1mDDaE)
 - [LCD Soundsystem - get innocuous (electric lady sessions - official audio)](https://www.youtube.com/watch?v=hI4AMdE0SAQ)
@@ -55,6 +54,7 @@ styles: ["Electro", "Post-Punk"]
 - [LCD Soundsystem - home (electric lady sessions - official audio)](https://www.youtube.com/watch?v=VXnOusZ5fXE)
 - [LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)](https://www.youtube.com/watch?v=AZVhrv_sC3g)
 - [LCD Soundsystem - emotional haircut (electric lady sessions - official audio)](https://www.youtube.com/watch?v=uQoZ_9vtb0Q)
+- [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
 - [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)
 
 

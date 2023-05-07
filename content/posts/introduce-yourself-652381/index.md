@@ -38,18 +38,18 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### The Crab Song
-{{< youtube id="QFYymqpBBkg" title="The Crab Song" >}}<br>
+### Faster Disco
+{{< youtube id="x-AhE32UPw8" title="Faster Disco" >}}<br>
 
 ### More Videos
 
-- [Faster Disco](https://www.youtube.com/watch?v=x-AhE32UPw8)
 - [Anne's Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
 - [Introduce Yourself](https://www.youtube.com/watch?v=KuVUx8cADWs)
 - [Chinese Arithmetic](https://www.youtube.com/watch?v=7U0-9J0aonA)
 - [Death March](https://www.youtube.com/watch?v=lrROABXAn8Q)
 - [Faith No More - We Care a Lot (Official Music Video)](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [R N' R](https://www.youtube.com/watch?v=jID0GrUstMQ)
+- [The Crab Song](https://www.youtube.com/watch?v=QFYymqpBBkg)
 - [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)
 - [Spirit](https://www.youtube.com/watch?v=oFPjpDmDq-U)
 

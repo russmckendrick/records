@@ -43,12 +43,11 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 
 
 ## Videos
-### High Fidelity Original Soundtracks - Who Loves The Sun
-{{< youtube id="u9eXAJhXrhg" title="High Fidelity Original Soundtracks - Who Loves The Sun" >}}<br>
+### Jack Black - Lets get it on
+{{< youtube id="J0ML8LfyNR8" title="Jack Black - Lets get it on" >}}<br>
 
 ### More Videos
 
-- [Jack Black - Lets get it on](https://www.youtube.com/watch?v=J0ML8LfyNR8)
 - [High Fidelity Original Soundtracks - Dry the Rain](https://www.youtube.com/watch?v=357GIArSJBg)
 - [High Fidelity Original Soundtracks - Cold Blooded Old Times](https://www.youtube.com/watch?v=29i1rQ-Rxak)
 - [High Fidelity Original Soundtracks - Let's Get it On](https://www.youtube.com/watch?v=CdvFGRdUaDo)
@@ -58,6 +57,7 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 - [High Fidelity Original Soundtracks - Fallen for You](https://www.youtube.com/watch?v=Qcv6F2B04nk)
 - [High Fidelity Original Soundtracks - Inside Game](https://www.youtube.com/watch?v=PTvCY2sNTuM)
 - [High Fidelity Original Soundtracks - You're Gonna Miss Me](https://www.youtube.com/watch?v=rwUCpXfs-hE)
+- [High Fidelity Original Soundtracks - Who Loves The Sun](https://www.youtube.com/watch?v=u9eXAJhXrhg)
 - [High Fidelity Original Soundtracks - Always See Your Face](https://www.youtube.com/watch?v=0vMsKQ2ti50)
 
 

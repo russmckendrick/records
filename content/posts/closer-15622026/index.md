@@ -37,13 +37,13 @@ styles: ["Post-Punk", "New Wave"]
 
 
 ## Videos
-### Passover (2007 Remaster)
-{{< youtube id="WS1PU4kZ2ao" title="Passover (2007 Remaster)" >}}<br>
+### Atrocity Exhibition (2007 Remaster)
+{{< youtube id="KZoIeaT85-A" title="Atrocity Exhibition (2007 Remaster)" >}}<br>
 
 ### More Videos
 
-- [Atrocity Exhibition (2007 Remaster)](https://www.youtube.com/watch?v=KZoIeaT85-A)
 - [Isolation (2007 Remaster)](https://www.youtube.com/watch?v=5ViMA_qDKTU)
+- [Passover (2007 Remaster)](https://www.youtube.com/watch?v=WS1PU4kZ2ao)
 - [Colony (2007 Remaster)](https://www.youtube.com/watch?v=1JI1A_OI6S8)
 - [A Means to an End (2007 Remaster)](https://www.youtube.com/watch?v=bBF3QQoZS1M)
 - [Heart and Soul (2007 Remaster)](https://www.youtube.com/watch?v=atXB3qQ5CPU)

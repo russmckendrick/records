@@ -42,12 +42,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Lay Back in the Sun
-{{< youtube id="UMPm-s2egAw" title="Lay Back in the Sun" >}}<br>
+### Spiritualized - Medication
+{{< youtube id="LQxrzqu4PYU" title="Spiritualized - Medication" >}}<br>
 
 ### More Videos
 
-- [Spiritualized - Medication](https://www.youtube.com/watch?v=LQxrzqu4PYU)
+- [Lay Back in the Sun](https://www.youtube.com/watch?v=UMPm-s2egAw)
 - [Medication](https://www.youtube.com/watch?v=kl2bRCCCAw4)
 - [Let It Flow](https://www.youtube.com/watch?v=Zvi7wzeU__w)
 - [Electric Mainline](https://www.youtube.com/watch?v=uoz2dQZiT04)

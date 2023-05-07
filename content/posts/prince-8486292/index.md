@@ -37,13 +37,13 @@ styles: ["Disco", "Pop Rock"]
 
 
 ## Videos
-### Prince - I Wanna Be Your Lover (Official Music Video)
-{{< youtube id="Rp8WL621uGM" title="Prince - I Wanna Be Your Lover (Official Music Video)" >}}<br>
+### Prince - Why You Wanna Treat Me So Bad? (Official Music Video)
+{{< youtube id="fPaYtVJouYA" title="Prince - Why You Wanna Treat Me So Bad? (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Prince - Why You Wanna Treat Me So Bad? (Official Music Video)](https://www.youtube.com/watch?v=fPaYtVJouYA)
 - [I Wanna Be Your Lover](https://www.youtube.com/watch?v=nzbOY4mGIug)
+- [Prince - I Wanna Be Your Lover (Official Music Video)](https://www.youtube.com/watch?v=Rp8WL621uGM)
 - [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
 - [Bambi](https://www.youtube.com/watch?v=INduB7K6VWo)
 

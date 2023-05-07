@@ -34,15 +34,15 @@ styles: ["Synth-pop", "Ambient"]
 
 
 ## Videos
-### Oxygene, Pt. 5
-{{< youtube id="WdNeyfkM2wo" title="Oxygene, Pt. 5" >}}<br>
+### Jean-Michel Jarre - Oxygene, Pt. 1 (Official Music Video)
+{{< youtube id="71DOHvfFDBY" title="Jean-Michel Jarre - Oxygene, Pt. 1 (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Jean-Michel Jarre - Oxygene, Pt. 1 (Official Music Video)](https://www.youtube.com/watch?v=71DOHvfFDBY)
 - [Jean Michel Jarre — Oxygene (1976/Full album)](https://www.youtube.com/watch?v=5ab7tIZNplM)
 - [Oxygene, Pt. 3](https://www.youtube.com/watch?v=IV1eR4e90oc)
 - [Jean Michel Jarre - Oxygen II](https://www.youtube.com/watch?v=hD4KMp22jBg)
+- [Oxygene, Pt. 5](https://www.youtube.com/watch?v=WdNeyfkM2wo)
 - [Jean-Michel Jarre - Oxygene, Pt. 4](https://www.youtube.com/watch?v=kSIMVnPA994)
 - [Oxygene, Pt. 6](https://www.youtube.com/watch?v=rUJ-KPCKWDs)
 - [J.-M. Jarre - Oxygene (extended)](https://www.youtube.com/watch?v=ttpPIRnEFVE)

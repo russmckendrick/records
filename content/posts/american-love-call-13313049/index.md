@@ -46,18 +46,18 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Listen to Your Heart
-{{< youtube id="jcwF7WlqrN0" title="Listen to Your Heart" >}}<br>
+### Durand Jones & The Indications - Morning in America
+{{< youtube id="b1V_1TPDVxc" title="Durand Jones & The Indications - Morning in America" >}}<br>
 
 ### More Videos
 
-- [Durand Jones & The Indications - Morning in America](https://www.youtube.com/watch?v=b1V_1TPDVxc)
 - [Durand Jones & The Indications - Don’t You Know (feat. Aaron Frazer)](https://www.youtube.com/watch?v=D2s5xuPwQhU)
 - [Circles](https://www.youtube.com/watch?v=pmlO_Vbe4qs)
 - [Court of Love](https://www.youtube.com/watch?v=MHu11yPdatg)
 - [Too Many Tears](https://www.youtube.com/watch?v=YVgvEiE7Lwo)
 - [Walk Away](https://www.youtube.com/watch?v=JRoQ3pU4i1k)
 - [What I Know About You](https://www.youtube.com/watch?v=CN-GOo8BeF8)
+- [Listen to Your Heart](https://www.youtube.com/watch?v=jcwF7WlqrN0)
 - [Sea Gets Hotter](https://www.youtube.com/watch?v=HGKwkYpB3fI)
 - [How Can I Be Sure](https://www.youtube.com/watch?v=Ouut4xyeOIU)
 - [True Love](https://www.youtube.com/watch?v=L8demwJ3318)

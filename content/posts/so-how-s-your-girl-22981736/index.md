@@ -44,12 +44,11 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 
 
 ## Videos
-### Handsome Boy Modeling School - Torch Song Trilogy
-{{< youtube id="xunZgvXRq3M" title="Handsome Boy Modeling School - Torch Song Trilogy" >}}<br>
+### Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]
+{{< youtube id="1w_HupwkGbE" title="Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]" >}}<br>
 
 ### More Videos
 
-- [Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]](https://www.youtube.com/watch?v=1w_HupwkGbE)
 - [Handsome Boy Modeling School - Magnetizing Ft. Del Tha Funkee Homosapien](https://www.youtube.com/watch?v=tldQYRdpoLQ)
 - [Handsome Boy Modeling School - Metaphysical](https://www.youtube.com/watch?v=gcPzoWk6mmg)
 - [Look At This Face (Oh My God They're Gorgeous)](https://www.youtube.com/watch?v=zQccR1aAiJ0)
@@ -61,6 +60,7 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 - [Handsome Boy Modeling School - The Projects PJays](https://www.youtube.com/watch?v=BjIBOvjL884)
 - [Handsome Boy Modeling School - Sunshine](https://www.youtube.com/watch?v=__p2IpVAEQU)
 - [Modeling Sucks](https://www.youtube.com/watch?v=R-kFNuPLA0I)
+- [Handsome Boy Modeling School - Torch Song Trilogy](https://www.youtube.com/watch?v=xunZgvXRq3M)
 - [Handsome Boy Modeling School - The Runaway Song](https://www.youtube.com/watch?v=PfFp6Evi1pI)
 - [Handsome Boy Modeling School - Megaton B Boy 2000](https://www.youtube.com/watch?v=3eYvNUcPy50)
 - [Handsome Boy Modeling School - Father Speaks](https://www.youtube.com/watch?v=1FzcDfY_kLg)

@@ -37,12 +37,11 @@ styles: ["Soul", "Funk", "Disco"]
 
 
 ## Videos
-### Ramsey Lewis - Spring High
-{{< youtube id="6rAFUTaCa3k" title="Ramsey Lewis - Spring High" >}}<br>
+### DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise
+{{< youtube id="aSORZzduAos" title="DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise" >}}<br>
 
 ### More Videos
 
-- [DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise](https://www.youtube.com/watch?v=aSORZzduAos)
 - [Hugo Montenegro - You Got it Bad Gir](https://www.youtube.com/watch?v=xFbJrTfrmTE)
 - [JOSE  FELICIANO - GOLDEN LADY](https://www.youtube.com/watch?v=PNeqAq4Ljt8)
 - [Sergio Mendes and Brasil '77 Superstition](https://www.youtube.com/watch?v=heB9Mizn_Bk)
@@ -50,6 +49,7 @@ styles: ["Soul", "Funk", "Disco"]
 - [Carl Anderson - Buttercup](https://www.youtube.com/watch?v=pewJzIZSPQs)
 - [GENE HARRIS --- AS](https://www.youtube.com/watch?v=b20pX_9F8vI)
 - [First Choice - Love Having You Around](https://www.youtube.com/watch?v=so9_Vb5yY4k)
+- [Ramsey Lewis - Spring High](https://www.youtube.com/watch?v=6rAFUTaCa3k)
 
 
 ## Release Information

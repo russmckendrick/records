@@ -44,12 +44,11 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 
 
 ## Videos
-### Monster Magnet – Tractor
-{{< youtube id="NaAdOY4a--Q" title="Monster Magnet – Tractor" >}}<br>
+### Monster Magnet - Powertrip
+{{< youtube id="jE7Zv6d-HUA" title="Monster Magnet - Powertrip" >}}<br>
 
 ### More Videos
 
-- [Monster Magnet - Powertrip](https://www.youtube.com/watch?v=jE7Zv6d-HUA)
 - [Monster Magnet – Temple Of Your Dreams](https://www.youtube.com/watch?v=1JLcNRtr7nQ)
 - [Monster Magnet – Baby Götterdämerung](https://www.youtube.com/watch?v=8nOtaymIzrw)
 - [Monster Magnet – 19 Witches](https://www.youtube.com/watch?v=tkLRAQyaofg)
@@ -62,6 +61,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 - [Monster Magnet – Bummer](https://www.youtube.com/watch?v=AB_etD1NAEg)
 - [Monster Magnet - Space Lord](https://www.youtube.com/watch?v=dscfeQOMuGw)
 - [Monster Magnet – 3rd Eye Landslide](https://www.youtube.com/watch?v=erlKlvbUIlw)
+- [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
 - [Monster Magnet – See You In Hell](https://www.youtube.com/watch?v=MRrEUZLWD9o)
 
 

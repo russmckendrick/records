@@ -41,13 +41,13 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 
 ## Videos
-### CHILDREN OF THE SÜN - LEAVES (Official Audio)
-{{< youtube id="whzDdlOmD5g" title="CHILDREN OF THE SÜN - LEAVES (Official Audio)" >}}<br>
+### Children of the Sün - Roots (full Album 2022)
+{{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots (full Album 2022)" >}}<br>
 
 ### More Videos
 
-- [Children of the Sün - Roots (full Album 2022)](https://www.youtube.com/watch?v=Jgtcr15D41I)
 - [CHILDREN OF THE SÜN - REFLECTION (Official Audio)](https://www.youtube.com/watch?v=geF67QdW7S4)
+- [CHILDREN OF THE SÜN - LEAVES (Official Audio)](https://www.youtube.com/watch?v=whzDdlOmD5g)
 - [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
 - [CHILDREN OF THE SÜN - GASLIGHTING (Official Audio)](https://www.youtube.com/watch?v=fZnD3F_ebPc)
 - [Eden](https://www.youtube.com/watch?v=G_gV6Hhyy9E)

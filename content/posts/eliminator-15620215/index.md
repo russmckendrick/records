@@ -39,13 +39,13 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 
 
 ## Videos
-### ZZ Top – I Need You Tonight
-{{< youtube id="o-uhRrnYzBg" title="ZZ Top – I Need You Tonight" >}}<br>
+### Gimme All Your Lovin'
+{{< youtube id="_k1VSeudgxA" title="Gimme All Your Lovin'" >}}<br>
 
 ### More Videos
 
-- [Gimme All Your Lovin'](https://www.youtube.com/watch?v=_k1VSeudgxA)
 - [ZZ Top - Gimme All Your Lovin' (Official Music Video)](https://www.youtube.com/watch?v=Ae829mFAGGE)
+- [ZZ Top – I Need You Tonight](https://www.youtube.com/watch?v=o-uhRrnYzBg)
 - [ZZ Top – Gimme All Your Lovin'](https://www.youtube.com/watch?v=In6etvONjAc)
 - [Got Me Under Pressure (2008 Remaster)](https://www.youtube.com/watch?v=qFA2189rkVY)
 - [ZZ Top – Legs](https://www.youtube.com/watch?v=4vsaBJeHZnQ)

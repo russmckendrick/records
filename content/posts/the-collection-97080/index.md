@@ -42,12 +42,11 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Ultravox - Reap The Wild Wind Music Video
-{{< youtube id="JB_Ae_U1w2M" title="Ultravox - Reap The Wild Wind Music Video" >}}<br>
+### Ultravox - The Collection (Video, 1984)
+{{< youtube id="ZUguvYE9FuE" title="Ultravox - The Collection (Video, 1984)" >}}<br>
 
 ### More Videos
 
-- [Ultravox - The Collection (Video, 1984)](https://www.youtube.com/watch?v=ZUguvYE9FuE)
 - [Ultravox - Hymn Music Video](https://www.youtube.com/watch?v=m8kd6YAvQSY)
 - [Ultravox - We Came To Dance Music Video](https://www.youtube.com/watch?v=RAQRVnHuq1k)
 - [Ultravox - One Small Day Music Video](https://www.youtube.com/watch?v=HxvhBaVj-cM)
@@ -58,6 +57,7 @@ styles: ["Synth-pop"]
 - [Ultravox - The Thin Wall (Single Edit) Music Video](https://www.youtube.com/watch?v=YgKcupEWc6w)
 - [Ultravox - The Voice (Alternate Version) Music Video](https://www.youtube.com/watch?v=xQA_xQhDdMY)
 - [Ultravox - Vienna (Album And 12 Version) Music Video](https://www.youtube.com/watch?v=jnA4VYNj2Mw)
+- [Ultravox - Reap The Wild Wind Music Video](https://www.youtube.com/watch?v=JB_Ae_U1w2M)
 
 
 ## Release Information

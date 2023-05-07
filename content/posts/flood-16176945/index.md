@@ -47,12 +47,11 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Minimum Wage
-{{< youtube id="SRcRn_Xv7Ek" title="Minimum Wage" >}}<br>
+### Theme from Flood
+{{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}<br>
 
 ### More Videos
 
-- [Theme from Flood](https://www.youtube.com/watch?v=pJ9QQdH3IiQ)
 - [THEY MIGHT BE GIANTS Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 - [Birdhouse In Your Soul (Official Video) - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
 - [Lucky Ball and Chain](https://www.youtube.com/watch?v=z8au4eCVPis)
@@ -64,6 +63,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)
 - [Someone Keeps Moving My Chair](https://www.youtube.com/watch?v=5pud7rt4KhU)
 - [Hearing Aid](https://www.youtube.com/watch?v=wMF6Jpm5cvQ)
+- [Minimum Wage](https://www.youtube.com/watch?v=SRcRn_Xv7Ek)
 - [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
 - [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
 - [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)

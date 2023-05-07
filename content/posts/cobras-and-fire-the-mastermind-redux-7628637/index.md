@@ -38,16 +38,16 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Mastermind '69
-{{< youtube id="f3Sp4tafOpg" title="Mastermind '69" >}}<br>
+### Monster Magnet - Cobras And Fire (Hallucination Bomb)
+{{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}<br>
 
 ### More Videos
 
-- [Monster Magnet - Cobras And Fire (Hallucination Bomb)](https://www.youtube.com/watch?v=j6FYl9wDrqM)
 - [MONSTER MAGNET - Watch Me Fade (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=TNIc7H-tkP4)
 - [She Digs That Hole](https://www.youtube.com/watch?v=EdRat1Fm8Iw)
 - [Gods, Punks And The Everlasting Twilight](https://www.youtube.com/watch?v=xpz5yIazAlI)
 - [Monster Magnet - Mastermind (Cobras and Fire Redux 2015)](https://www.youtube.com/watch?v=g3mI88C2Cnc)
+- [Mastermind '69](https://www.youtube.com/watch?v=f3Sp4tafOpg)
 - [Cobras And Fire (Hallucination Bomb)](https://www.youtube.com/watch?v=U-_kyy9Sb_s)
 - [Monster Magnet  -  Perish in Fire](https://www.youtube.com/watch?v=ZZOurnFyvD8)
 - [The Titan](https://www.youtube.com/watch?v=g8XUUkXJqH4)

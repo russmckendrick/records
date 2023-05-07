@@ -38,14 +38,14 @@ styles: ["Soft Rock"]
 
 
 ## Videos
-### Wilson Phillips - Hold On (Official Music Video)
-{{< youtube id="uIbXvaE39wM" title="Wilson Phillips - Hold On (Official Music Video)" >}}<br>
+### wilson phillips - release me with lyrics
+{{< youtube id="dSKZy2Knk94" title="wilson phillips - release me with lyrics" >}}<br>
 
 ### More Videos
 
-- [wilson phillips - release me with lyrics](https://www.youtube.com/watch?v=dSKZy2Knk94)
 - [The Dream is still Alive Wilson Phillips 1990 - Video](https://www.youtube.com/watch?v=aMOpnuv_8xU)
 - [Impulsive](https://www.youtube.com/watch?v=9MF9e-KKhfY)
+- [Wilson Phillips - Hold On (Official Music Video)](https://www.youtube.com/watch?v=uIbXvaE39wM)
 - [You're In Love](https://www.youtube.com/watch?v=IlnWKfd7Cgo)
 - [Hold On](https://www.youtube.com/watch?v=1SNGwgGoBVg)
 - [Someday I'll Be Next To You (with lyrics)](https://www.youtube.com/watch?v=KfzOmiezrf8)

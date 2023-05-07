@@ -52,12 +52,11 @@ styles: ["Folk Rock", "Country Rock"]
 
 
 ## Videos
-### Louisiana Man (Remastered 2020)
-{{< youtube id="0UsFJnARGVU" title="Louisiana Man (Remastered 2020)" >}}<br>
+### Okolona River Bottom Band (Remastered 2020)
+{{< youtube id="pgt3aOY5Mqo" title="Okolona River Bottom Band (Remastered 2020)" >}}<br>
 
 ### More Videos
 
-- [Okolona River Bottom Band (Remastered 2020)](https://www.youtube.com/watch?v=pgt3aOY5Mqo)
 - [Big Boss Man (Remastered 2020)](https://www.youtube.com/watch?v=lJIOZOa_enQ)
 - [Reunion (Remastered 2020)](https://www.youtube.com/watch?v=xBl4YQMoBKk)
 - [Parchman Farm (Remastered 2020)](https://www.youtube.com/watch?v=KuPDYHIkJzA)
@@ -67,6 +66,7 @@ styles: ["Folk Rock", "Country Rock"]
 - [Penduli Pendulum (Remastered 2020)](https://www.youtube.com/watch?v=SSfbqweC3i4)
 - [Jessye' Lisabeth (Remastered 2020)](https://www.youtube.com/watch?v=a9IoXpuOLAI)
 - [Refractions (Remastered 2020)](https://www.youtube.com/watch?v=hl9Q1-Lobes)
+- [Louisiana Man (Remastered 2020)](https://www.youtube.com/watch?v=0UsFJnARGVU)
 - [Courtyard (Remastered 2020)](https://www.youtube.com/watch?v=F3XH5Gj9TGI)
 - [Okolona River Bottom Band (Instrumental)](https://www.youtube.com/watch?v=JSzahtQw2FQ)
 - [Mississippi Delta (Alternate Take)](https://www.youtube.com/watch?v=e8l4qxSyHTU)

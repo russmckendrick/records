@@ -39,12 +39,11 @@ styles: ["Grunge"]
 
 
 ## Videos
-### Swing On This
-{{< youtube id="Uj3R2ASEMDE" title="Swing On This" >}}<br>
+### Alice In Chains - No Excuses (Official Video)
+{{< youtube id="r80HF68KM8g" title="Alice In Chains - No Excuses (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Alice In Chains - No Excuses (Official Video)](https://www.youtube.com/watch?v=r80HF68KM8g)
 - [Rotten Apple](https://www.youtube.com/watch?v=poo2xaEhrHE)
 - [Don't Follow](https://www.youtube.com/watch?v=CqO4vBSLHMw)
 - [Alice In Chains - I Stay Away (Official Video)](https://www.youtube.com/watch?v=ODTv9Lt5WYs)
@@ -54,6 +53,7 @@ styles: ["Grunge"]
 - [Am I Inside](https://www.youtube.com/watch?v=08iaCYLhZ-k)
 - [Nutshell](https://www.youtube.com/watch?v=_siJRgDlddY)
 - [Whale & Wasp](https://www.youtube.com/watch?v=1VvvPGXQ1RM)
+- [Swing On This](https://www.youtube.com/watch?v=Uj3R2ASEMDE)
 - [Love Song](https://www.youtube.com/watch?v=lmTKN09DPPQ)
 
 

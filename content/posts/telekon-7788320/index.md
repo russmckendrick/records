@@ -46,14 +46,14 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Remind Me to Smile
-{{< youtube id="WW_dgV9sYnk" title="Remind Me to Smile" >}}<br>
+### Gary Numan - This Wreckage
+{{< youtube id="m9uvIqIUq4U" title="Gary Numan - This Wreckage" >}}<br>
 
 ### More Videos
 
-- [Gary Numan - This Wreckage](https://www.youtube.com/watch?v=m9uvIqIUq4U)
 - [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
 - [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
+- [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
 - [Sleep by Windows](https://www.youtube.com/watch?v=0Wu9AtBqpnY)
 - [I'm an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
 - [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)

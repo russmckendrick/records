@@ -39,15 +39,15 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Love Bug Blues
-{{< youtube id="3vPHQRg0LHM" title="Love Bug Blues" >}}<br>
+### Strictly Reserved for You
+{{< youtube id="8eR2L-KQSi4" title="Strictly Reserved for You" >}}<br>
 
 ### More Videos
 
-- [Strictly Reserved for You](https://www.youtube.com/watch?v=8eR2L-KQSi4)
 - [You Put the Flame on It](https://www.youtube.com/watch?v=WU5-6OA19Dc)
 - [Let Love Stand a Chance](https://www.youtube.com/watch?v=eCQiO_W-ruY)
 - [Charles Bradley - Victim Of Love](https://www.youtube.com/watch?v=gxFYkoAFZAY)
+- [Love Bug Blues](https://www.youtube.com/watch?v=3vPHQRg0LHM)
 - [Dusty Blue](https://www.youtube.com/watch?v=Bo6RCh5NKNc)
 - [Confusion](https://www.youtube.com/watch?v=8vXDxR7UYUQ)
 - [Where Do We Go From Here](https://www.youtube.com/watch?v=oCcXHfVFpdM)

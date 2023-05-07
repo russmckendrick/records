@@ -41,12 +41,11 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 
 
 ## Videos
-### SENSER - Age Of Panic
-{{< youtube id="MyQallcPu2A" title="SENSER - Age Of Panic" >}}<br>
+### Senser - Age of Panic (Official Video)
+{{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Senser - Age of Panic (Official Video)](https://www.youtube.com/watch?v=tmZ-loZlsyI)
 - [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
 - [Senser - Switch (Official Video)](https://www.youtube.com/watch?v=TPbXnwkiTF4)
 - [States of Mind  by Senser, of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
@@ -61,6 +60,7 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 - [Senser - Eject (Official Video)](https://www.youtube.com/watch?v=W69gdXUryEg)
 - [Senser - Stubborn](https://www.youtube.com/watch?v=anEPodHXSi0)
 - [Senser - Worth (fusion metal techno hip hop)](https://www.youtube.com/watch?v=TGJs3aGXZMw)
+- [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
 - [Senser  'Stacked Up' (Full Album)](https://www.youtube.com/watch?v=8M6r_sLmKJk)
 - [Senser - Age of Panic + Eject (live at Glastonbury 1994)](https://www.youtube.com/watch?v=WNhlU-n7eGs)

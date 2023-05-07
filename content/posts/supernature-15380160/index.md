@@ -39,12 +39,12 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 
 
 ## Videos
-### Goldfrapp - Ride A White Horse
-{{< youtube id="nFF8bubMc40" title="Goldfrapp - Ride A White Horse" >}}<br>
+### Goldfrapp - Number 1
+{{< youtube id="gzfaJRDfveo" title="Goldfrapp - Number 1" >}}<br>
 
 ### More Videos
 
-- [Goldfrapp - Number 1](https://www.youtube.com/watch?v=gzfaJRDfveo)
+- [Goldfrapp - Ride A White Horse](https://www.youtube.com/watch?v=nFF8bubMc40)
 - [Goldfrapp - Ooh La La](https://www.youtube.com/watch?v=uco-2V4ytYQ)
 
 

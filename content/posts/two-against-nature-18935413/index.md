@@ -37,17 +37,17 @@ styles: ["Pop Rock", "Fusion"]
 
 
 ## Videos
-### Cousin Dupree
-{{< youtube id="80b4Y_d8W8o" title="Cousin Dupree" >}}<br>
+### Gaslighting Abbie
+{{< youtube id="tZemaEpPJ80" title="Gaslighting Abbie" >}}<br>
 
 ### More Videos
 
-- [Gaslighting Abbie](https://www.youtube.com/watch?v=tZemaEpPJ80)
 - [What a Shame About Me](https://www.youtube.com/watch?v=fj6XELmaE5Y)
 - [Two Against Nature](https://www.youtube.com/watch?v=gEPxyPy2D1U)
 - [Janie Runaway](https://www.youtube.com/watch?v=mLzuabui24M)
 - [Almost Gothic](https://www.youtube.com/watch?v=UL33dIYfoCo)
 - [Jack of Speed](https://www.youtube.com/watch?v=tSoiAzTwACY)
+- [Cousin Dupree](https://www.youtube.com/watch?v=80b4Y_d8W8o)
 - [Negative Girl](https://www.youtube.com/watch?v=N01RFpaez84)
 - [West of Hollywood](https://www.youtube.com/watch?v=7ES0OdVB8Yo)
 

@@ -43,13 +43,13 @@ styles: []
 
 
 ## Videos
-### The Temperance Movement - Ain't No Telling (Live from Glasgow)
-{{< youtube id="ykap4ysw9xQ" title="The Temperance Movement - Ain't No Telling (Live from Glasgow)" >}}<br>
+### The Temperance Movement - Only Friend (Rehearsal Session)
+{{< youtube id="5mGALmFlHOA" title="The Temperance Movement - Only Friend (Rehearsal Session)" >}}<br>
 
 ### More Videos
 
-- [The Temperance Movement - Only Friend (Rehearsal Session)](https://www.youtube.com/watch?v=5mGALmFlHOA)
 - [The Temperance Movement - Midnight Black (Live from London)](https://www.youtube.com/watch?v=5f3GShdQxnY)
+- [The Temperance Movement - Ain't No Telling (Live from Glasgow)](https://www.youtube.com/watch?v=ykap4ysw9xQ)
 - [The Temperance Movement - Take It Back (Live from Glasgow)](https://www.youtube.com/watch?v=p-YJaKnZGjA)
 - [The Temperance Movement - Lovers and Fighters (Live from Portsmouth)](https://www.youtube.com/watch?v=TXnYc7Dnexg)
 - [The Temperance Movement - Only Friend (Live from Lincoln)](https://www.youtube.com/watch?v=nyexfGdS6BM)

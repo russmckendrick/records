@@ -38,16 +38,16 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 ## Videos
-### OPETH - Svekets Prins (OFFICIAL VISUALIZER TRACK)
-{{< youtube id="QcMdA7Xs8jE" title="OPETH - Svekets Prins (OFFICIAL VISUALIZER TRACK)" >}}<br>
+### Opeth - In Cauda Venenum (Full Album)
+{{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Opeth - In Cauda Venenum (Full Album)](https://www.youtube.com/watch?v=noN0m4_1uNg)
 - [Opeth - In Cauda Venenum (Swedish edition)](https://www.youtube.com/watch?v=YnnQqGvs9FE)
 - [Opeth — In Cauda Venenum: The Bonus Tracks (Full Album)](https://www.youtube.com/watch?v=q285uHiNfmM)
 - [OPETH - Universal Truth (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=ypdlAMXIvCM)
 - [OPETH - Dignity (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=GF5FXYmBrc4)
+- [OPETH - Svekets Prins (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
 
 
 ## Release Information

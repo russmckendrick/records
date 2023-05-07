@@ -29,13 +29,13 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 
 
 ## Videos
-### The Beta Band - Needles in My Eyes
-{{< youtube id="byJRrkigdEM" title="The Beta Band - Needles in My Eyes" >}}<br>
+### The Beta Band - Dr. Baker
+{{< youtube id="kbxoTkSkefo" title="The Beta Band - Dr. Baker" >}}<br>
 
 ### More Videos
 
-- [The Beta Band - Dr. Baker](https://www.youtube.com/watch?v=kbxoTkSkefo)
 - [The Beta Band-Push It Out](https://www.youtube.com/watch?v=HluhRrB0bPA)
+- [The Beta Band - Needles in My Eyes](https://www.youtube.com/watch?v=byJRrkigdEM)
 
 
 ## Release Information

@@ -44,12 +44,12 @@ styles: ["Punk", "Ska"]
 
 ## Videos
 ### The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING
-{{< youtube id="USUEiyKJJjs" title="The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING" >}}<br>
+{{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING" >}}<br>
 
 ### More Videos
 
-- [The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING](https://www.youtube.com/watch?v=fsOq0-tdQkA)
 - [The Mighty Mighty BossToneS - THE FINAL PARADE (Lyric Video)](https://www.youtube.com/watch?v=WcwNZLgVE1g)
+- [The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING](https://www.youtube.com/watch?v=USUEiyKJJjs)
 
 
 ## Release Information

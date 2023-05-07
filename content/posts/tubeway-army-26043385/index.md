@@ -40,12 +40,12 @@ styles: ["Punk", "Synth-pop"]
 
 
 ## Videos
-### My Shadow In Vain
-{{< youtube id="L1XohGWRQSQ" title="My Shadow In Vain" >}}<br>
+### Listen To The Sirens
+{{< youtube id="iA6smLm8cog" title="Listen To The Sirens" >}}<br>
 
 ### More Videos
 
-- [Listen To The Sirens](https://www.youtube.com/watch?v=iA6smLm8cog)
+- [My Shadow In Vain](https://www.youtube.com/watch?v=L1XohGWRQSQ)
 - [The Life Machine](https://www.youtube.com/watch?v=DSUJgPJIymU)
 - [Friends](https://www.youtube.com/watch?v=vv_NKfnmv6Y)
 - [Something's In The House](https://www.youtube.com/watch?v=lffjz6kf5fI)

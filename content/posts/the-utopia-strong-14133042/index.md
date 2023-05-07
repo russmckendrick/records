@@ -34,12 +34,12 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Utopia Strong - Konta Chorus
-{{< youtube id="-1osxHixrFc" title="The Utopia Strong - Konta Chorus" >}}<br>
+### The Utopia Strong - Brainsurgeons 3 (Track Video)
+{{< youtube id="gG02P9j406I" title="The Utopia Strong - Brainsurgeons 3 (Track Video)" >}}<br>
 
 ### More Videos
 
-- [The Utopia Strong - Brainsurgeons 3 (Track Video)](https://www.youtube.com/watch?v=gG02P9j406I)
+- [The Utopia Strong - Konta Chorus](https://www.youtube.com/watch?v=-1osxHixrFc)
 
 
 ## Release Information

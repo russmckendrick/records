@@ -34,17 +34,17 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 
 
 ## Videos
-### S U R V I V E - Scalar Wave MNQ 026
-{{< youtube id="LfBSXdX4TdQ" title="S U R V I V E - Scalar Wave MNQ 026" >}}<br>
+### S U R V I V E - Deserted Skies MNQ 026
+{{< youtube id="G4onbTp1jio" title="S U R V I V E - Deserted Skies MNQ 026" >}}<br>
 
 ### More Videos
 
-- [S U R V I V E - Deserted Skies MNQ 026](https://www.youtube.com/watch?v=G4onbTp1jio)
 - [S U R V I V E - Floating Cube MNQ 026](https://www.youtube.com/watch?v=MrVc3pd9PS8)
 - [S U R V I V E - To The Alone Blow MNQ 026](https://www.youtube.com/watch?v=Rl6l0pr4kSo)
 - [S U R V I V E - To Hourglass MNQ 026](https://www.youtube.com/watch?v=RhFugm5c2Xg)
 - [S U R V I V E - Omniverse MNQ 026](https://www.youtube.com/watch?v=dOsLzKVJO30)
 - [S U R V I V E - Black Mollies MNQ 026](https://www.youtube.com/watch?v=bMRGn2mlfow)
+- [S U R V I V E - Scalar Wave MNQ 026](https://www.youtube.com/watch?v=LfBSXdX4TdQ)
 - [S U R V I V E - Shunting Yard MNQ 026](https://www.youtube.com/watch?v=Y5EjtsGKQ8g)
 - [S U R V I V E - Dirge MNQ 026](https://www.youtube.com/watch?v=wpkVwT4wh2E)
 

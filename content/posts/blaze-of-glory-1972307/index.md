@@ -39,12 +39,11 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 
 
 ## Videos
-### Santa Fe
-{{< youtube id="tpKd5Fa7798" title="Santa Fe" >}}<br>
+### Billy Get Your Guns (From Young Guns II Soundtrack)
+{{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From Young Guns II Soundtrack)" >}}<br>
 
 ### More Videos
 
-- [Billy Get Your Guns (From Young Guns II Soundtrack)](https://www.youtube.com/watch?v=4nAxzn0--Oc)
 - [Jon Bon Jovi - Billy Get Your Guns](https://www.youtube.com/watch?v=_Y7bPKURC0A)
 - [Miracle](https://www.youtube.com/watch?v=jgV4PiHDgU8)
 - [Jon Bon Jovi - Miracle (Official Video)](https://www.youtube.com/watch?v=wnM9WEha5E0)
@@ -53,6 +52,7 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 - [Blood Money](https://www.youtube.com/watch?v=iQbnm-CCoh4)
 - [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
 - [Jon Bon Jovi - Santa Fe](https://www.youtube.com/watch?v=MQ56h4ql8Dk)
+- [Santa Fe](https://www.youtube.com/watch?v=tpKd5Fa7798)
 - [Justice In The Barrel](https://www.youtube.com/watch?v=AwgSBcEfZ2Q)
 - [Never Say Die](https://www.youtube.com/watch?v=Rr8rgh4q4xQ)
 - [You Really Got Me Now](https://www.youtube.com/watch?v=Fxhhbn9Mvs8)

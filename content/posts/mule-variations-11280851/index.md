@@ -44,17 +44,17 @@ styles: ["Abstract", "Art Rock"]
 
 
 ## Videos
-### Tom Waits - Hold On (ANTI-)
-{{< youtube id="WPnOEiehONQ" title="Tom Waits - Hold On (ANTI-)" >}}<br>
+### Tom Waits - Mule Variations - full album
+{{< youtube id="c_OkcVLBB9A" title="Tom Waits - Mule Variations - full album" >}}<br>
 
 ### More Videos
 
-- [Tom Waits - Mule Variations - full album](https://www.youtube.com/watch?v=c_OkcVLBB9A)
 - [Tom Waits - Get Behind The Mule](https://www.youtube.com/watch?v=O_v2HChe350)
 - [Tom Waits  -  Mule Variations  (Full Album)](https://www.youtube.com/watch?v=ktHLsBs14vc)
 - [Tom Waits - Get Behind The Mule](https://www.youtube.com/watch?v=l7yuTR8r6QM)
 - [Tom Waits - Hold On](https://www.youtube.com/watch?v=0P5jV4lHHR0)
 - [Tom Waits - Big In Japan](https://www.youtube.com/watch?v=NM60iVDu79Y)
+- [Tom Waits - Hold On (ANTI-)](https://www.youtube.com/watch?v=WPnOEiehONQ)
 - [Tom Waits - Take It With Me](https://www.youtube.com/watch?v=Dixxse4dpQ4)
 - [Tom Waits  ( Mule Variations )](https://www.youtube.com/watch?v=7bypKtolqko)
 - [Tom Waits - Pony](https://www.youtube.com/watch?v=mRzIFJn4GNw)

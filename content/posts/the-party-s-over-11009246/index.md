@@ -37,12 +37,11 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Mirror Man (1997 Remaster)
-{{< youtube id="YMZ0ApjY5IQ" title="Mirror Man (1997 Remaster)" >}}<br>
+### Talk Talk - Today (Official Video)
+{{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Talk Talk - Today (Official Video)](https://www.youtube.com/watch?v=TNm4lM-FBHE)
 - [Talk Talk - MIRROR MAN - 1982](https://www.youtube.com/watch?v=MKirbC-GCG8)
 - [Talk Talk](https://www.youtube.com/watch?v=0uA5Qe5PSWw)
 - [Talk Talk - Talk Talk (Official Video)](https://www.youtube.com/watch?v=2IgjUYrDbWI)
@@ -51,6 +50,7 @@ styles: ["New Wave", "Synth-pop"]
 - [The Party's Over (1997 Remaster)](https://www.youtube.com/watch?v=kNXYKYkqvE8)
 - [Hate (1997 Remaster)](https://www.youtube.com/watch?v=4rqUYKKSyHE)
 - [Have You Heard the News (1997 Remaster)](https://www.youtube.com/watch?v=aYIKfkTJYcs)
+- [Mirror Man (1997 Remaster)](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
 - [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
 - [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 

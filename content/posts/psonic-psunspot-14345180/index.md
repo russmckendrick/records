@@ -35,15 +35,15 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Dukes of Stratosphear (XTC) - You're My Drug
-{{< youtube id="HwzZflj9pjM" title="Dukes of Stratosphear (XTC) - You're My Drug" >}}<br>
+### The Dukes Of Stratosphear - Vanishing Girl
+{{< youtube id="0bbqezgfqD8" title="The Dukes Of Stratosphear - Vanishing Girl" >}}<br>
 
 ### More Videos
 
-- [The Dukes Of Stratosphear - Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
 - [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
 - [Little Lighthouse (2001 Mix)](https://www.youtube.com/watch?v=davK8592Afw)
 - [The Dukes Of Stratosphear - Brainiac's daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
+- [Dukes of Stratosphear (XTC) - You're My Drug](https://www.youtube.com/watch?v=HwzZflj9pjM)
 
 
 ## Release Information

@@ -39,14 +39,14 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 
 
 ## Videos
-### Pop Will Eat Itself - Underbelly
-{{< youtube id="48xQ-GyOP5c" title="Pop Will Eat Itself - Underbelly" >}}<br>
+### Pop Will Eat Itself - Ich Bin Ein Auslander
+{{< youtube id="76wSk1j02_4" title="Pop Will Eat Itself - Ich Bin Ein Auslander" >}}<br>
 
 ### More Videos
 
-- [Pop Will Eat Itself - Ich Bin Ein Auslander](https://www.youtube.com/watch?v=76wSk1j02_4)
 - [Pop Will Eat Itself - Dos Dedos Mis Amigos (+ Japan Bonus Tracks)](https://www.youtube.com/watch?v=HoV4MCebgHA)
 - [Pop Will Eat Itself - Everything's Cool](https://www.youtube.com/watch?v=fxYyTHEwO7U)
+- [Pop Will Eat Itself - Underbelly](https://www.youtube.com/watch?v=48xQ-GyOP5c)
 
 
 ## Release Information

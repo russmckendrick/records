@@ -39,16 +39,16 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 
 
 ## Videos
-### Tevin Campbell - Just Ask Me
-{{< youtube id="VwHp7G7d9WM" title="Tevin Campbell - Just Ask Me" >}}<br>
+### Every Single Weekend
+{{< youtube id="-2L2JoIrCG4" title="Every Single Weekend" >}}<br>
 
 ### More Videos
 
-- [Every Single Weekend](https://www.youtube.com/watch?v=-2L2JoIrCG4)
 - [Stanley Clarke-Boyz N The Hood Theme](https://www.youtube.com/watch?v=qsvAI3A7c_c)
 - [Ice Cube - How To Survive In South Central](https://www.youtube.com/watch?v=hTtl7YdOjcA)
 - [Ice Cube - How To Survive In South Central (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=h5CX4x9KP0g)
 - [Dr. Buzzard & The Savannah Band - Sunshower Boyz N The Hood Soundtrack](https://www.youtube.com/watch?v=Z7trsR5oFY4)
+- [Tevin Campbell - Just Ask Me](https://www.youtube.com/watch?v=VwHp7G7d9WM)
 - [Tevin Campbell     Just Ask Me To (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=doRNgKeIGFA)
 - [Too Short    It's Your Life (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=yO90oQDOBeE)
 

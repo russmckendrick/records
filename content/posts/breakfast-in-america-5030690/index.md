@@ -38,12 +38,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Supertramp - The Logical Song (Official Video)
-{{< youtube id="k4tdefi0Znc" title="Supertramp - The Logical Song (Official Video)" >}}<br>
+### Supertramp - Breakfast In America (Official Video)
+{{< youtube id="gD1EkIbIUUc" title="Supertramp - Breakfast In America (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Supertramp - Breakfast In America (Official Video)](https://www.youtube.com/watch?v=gD1EkIbIUUc)
+- [Supertramp - The Logical Song (Official Video)](https://www.youtube.com/watch?v=k4tdefi0Znc)
 - [Supertramp - Goodbye Stranger (Official Video)](https://www.youtube.com/watch?v=VoMwGjwhl5A)
 - [Supertramp - Breakfast In America (HQ)](https://www.youtube.com/watch?v=3YQb-0P320s)
 - [Supertramp - Take The Long Way Home (BEST QUALITY SOUND)](https://www.youtube.com/watch?v=LPRrHyXchEY)

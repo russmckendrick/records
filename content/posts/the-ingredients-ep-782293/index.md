@@ -29,12 +29,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin - Terminally Groovy Lyrics
-{{< youtube id="pSgNYq7N2X0" title="Ned's Atomic Dustbin - Terminally Groovy Lyrics" >}}<br>
+### Ned's Atomic Dustbin - Grey Cell Green
+{{< youtube id="GFxVMfBfQDY" title="Ned's Atomic Dustbin - Grey Cell Green" >}}<br>
 
 ### More Videos
 
-- [Ned's Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=GFxVMfBfQDY)
+- [Ned's Atomic Dustbin - Terminally Groovy Lyrics](https://www.youtube.com/watch?v=pSgNYq7N2X0)
 
 
 ## Release Information

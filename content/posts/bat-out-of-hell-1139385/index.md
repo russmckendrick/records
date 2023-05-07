@@ -38,13 +38,13 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 
 ## Videos
-### You Took The Words Right Out of My Mouth (Hot Summer Night)
-{{< youtube id="HRZTRTPiIT4" title="You Took The Words Right Out of My Mouth (Hot Summer Night)" >}}<br>
+### Bat Out of Hell
+{{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}<br>
 
 ### More Videos
 
-- [Bat Out of Hell](https://www.youtube.com/watch?v=x7ES7ueI7p0)
 - [M̲e̲at L̲oaf - B̲at O̲ut of H̲ell (Full Album) 1977](https://www.youtube.com/watch?v=BsQHVWBeTUU)
+- [You Took The Words Right Out of My Mouth (Hot Summer Night)](https://www.youtube.com/watch?v=HRZTRTPiIT4)
 - [Heaven Can Wait](https://www.youtube.com/watch?v=VJKm0KxQ2L4)
 - [All Revved Up with No Place to Go](https://www.youtube.com/watch?v=eWVmRvq50kQ)
 - [Two Out of Three Ain't Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)

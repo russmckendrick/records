@@ -40,13 +40,13 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Suede - The Wild Ones
-{{< youtube id="a0SuX1IvJys" title="Suede - The Wild Ones" >}}<br>
+### Still Life (Remastered)
+{{< youtube id="m2n3qKD6C8k" title="Still Life (Remastered)" >}}<br>
 
 ### More Videos
 
-- [Still Life (Remastered)](https://www.youtube.com/watch?v=m2n3qKD6C8k)
 - [Suede - We Are The Pigs](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
+- [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
 - [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
 
 

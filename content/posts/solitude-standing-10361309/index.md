@@ -39,16 +39,16 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### In The Eye
-{{< youtube id="tXwmeEZPl0Y" title="In The Eye" >}}<br>
+### Suzanne Vega - Luka
+{{< youtube id="VZt7J0iaUD0" title="Suzanne Vega - Luka" >}}<br>
 
 ### More Videos
 
-- [Suzanne Vega - Luka](https://www.youtube.com/watch?v=VZt7J0iaUD0)
 - [Ironbound / Fancy Poultry](https://www.youtube.com/watch?v=wnV-DPmrkLk)
 - [Suzanne Vega - Solitude Standing](https://www.youtube.com/watch?v=05AHPFPpHIM)
 - [Suzanne Vega - Wooden Horse (Caspar Hauser's Song) (1987 European Vinyl)](https://www.youtube.com/watch?v=I_tEHqfvroA)
 - [Tom's Diner](https://www.youtube.com/watch?v=L9x-DENKIts)
+- [In The Eye](https://www.youtube.com/watch?v=tXwmeEZPl0Y)
 - [Night Vision](https://www.youtube.com/watch?v=wsso9MAHYoc)
 - [Calypso](https://www.youtube.com/watch?v=I8ExnrHJRUA)
 - [Language](https://www.youtube.com/watch?v=kISZKZqjUs4)

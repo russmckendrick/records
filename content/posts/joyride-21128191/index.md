@@ -40,12 +40,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Soul Deep (Joyride Version)
-{{< youtube id="NayWrQ76TyA" title="Soul Deep (Joyride Version)" >}}<br>
+### Roxette - Joyride (Official Video)
+{{< youtube id="xCorJG9mubk" title="Roxette - Joyride (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Roxette - Joyride (Official Video)](https://www.youtube.com/watch?v=xCorJG9mubk)
 - [Roxette - Fading Like A Flower](https://www.youtube.com/watch?v=8fGLiIvKKys)
 - [Roxette - The Big L](https://www.youtube.com/watch?v=P3BziGZOMcE)
 - [Roxette - Spending My Time](https://www.youtube.com/watch?v=eG0IYV6G0I0)
@@ -56,6 +55,7 @@ styles: ["Pop Rock"]
 - [Knockin' On Every Door](https://www.youtube.com/watch?v=bbiy2KOVVKk)
 - [I Remember You](https://www.youtube.com/watch?v=Y9vAu5sLC98)
 - [Watercolours In The Rain](https://www.youtube.com/watch?v=8oZ8odKEm7I)
+- [Soul Deep (Joyride Version)](https://www.youtube.com/watch?v=NayWrQ76TyA)
 - [Small Talk](https://www.youtube.com/watch?v=nK3AJ20YoYU)
 - [Physical Fascination](https://www.youtube.com/watch?v=biXb9z50Gmc)
 - [Things Will Never Be The Same](https://www.youtube.com/watch?v=z90mwqX5Tus)

@@ -42,14 +42,14 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 
 
 ## Videos
-### Ziggy Stardust
-{{< youtube id="eO4Y1I1pmXo" title="Ziggy Stardust" >}}<br>
+### Rebel Rebel
+{{< youtube id="-D_3bPt0wcw" title="Rebel Rebel" >}}<br>
 
 ### More Videos
 
-- [Rebel Rebel](https://www.youtube.com/watch?v=-D_3bPt0wcw)
 - [Life On Mars?](https://www.youtube.com/watch?v=l-Sx_NgkpTs)
 - [Starman](https://www.youtube.com/watch?v=A-izaHiBdfE)
+- [Ziggy Stardust](https://www.youtube.com/watch?v=eO4Y1I1pmXo)
 - [Lady Stardust](https://www.youtube.com/watch?v=PtNsulPqGQA)
 - [Changes](https://www.youtube.com/watch?v=hVJyDvOeQfA)
 - [Oh! You Pretty Things](https://www.youtube.com/watch?v=U2TC3A2GaMo)

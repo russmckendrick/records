@@ -47,12 +47,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991
-{{< youtube id="WhKHZ-PcmzU" title="INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991" >}}<br>
+### INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live
+{{< youtube id="KygvdzH0gj4" title="INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live" >}}<br>
 
 ### More Videos
 
-- [INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live](https://www.youtube.com/watch?v=KygvdzH0gj4)
+- [INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=WhKHZ-PcmzU)
 - [INXS Mystify  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=FmtshAX5oDk)
 
 

@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Once (2004 Remix)
-{{< youtube id="PEEsRBkipnc" title="Once (2004 Remix)" >}}<br>
+### Pearl Jam - Greatest Hits - The Up Side - HD Audio
+{{< youtube id="1z5XWZ5yzgU" title="Pearl Jam - Greatest Hits - The Up Side - HD Audio" >}}<br>
 
 ### More Videos
 
-- [Pearl Jam - Greatest Hits - The Up Side - HD Audio](https://www.youtube.com/watch?v=1z5XWZ5yzgU)
+- [Once (2004 Remix)](https://www.youtube.com/watch?v=PEEsRBkipnc)
 - [Pearl Jam - Greatest Hits - The Down Side - HD Audio](https://www.youtube.com/watch?v=AyuTmo_XHzw)
 
 

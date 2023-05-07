@@ -39,13 +39,13 @@ styles: ["Indie Rock", "Ethereal"]
 
 
 ## Videos
-### PJ Harvey - When Under Ether
-{{< youtube id="pFWCF8NAZGo" title="PJ Harvey - When Under Ether" >}}<br>
+### The Devil
+{{< youtube id="09019xe0TiQ" title="The Devil" >}}<br>
 
 ### More Videos
 
-- [The Devil](https://www.youtube.com/watch?v=09019xe0TiQ)
 - [PJ Harvey - The Piano](https://www.youtube.com/watch?v=4x-5kt0TOjo)
+- [PJ Harvey - When Under Ether](https://www.youtube.com/watch?v=pFWCF8NAZGo)
 - [PJ Harvey - When Under Ether](https://www.youtube.com/watch?v=lnUQwE0YhZo)
 - [Dear Darkness](https://www.youtube.com/watch?v=rXOccIZ7Ojs)
 - [Grow Grow Grow](https://www.youtube.com/watch?v=UwbwKM051wU)

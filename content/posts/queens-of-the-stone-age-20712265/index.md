@@ -39,12 +39,12 @@ styles: ["Stoner Rock", "Hard Rock"]
 
 
 ## Videos
-### Queens of the Stone Age - Avon (Official Audio)
-{{< youtube id="aimHMr-Ee4o" title="Queens of the Stone Age - Avon (Official Audio)" >}}<br>
+### Queens of the Stone Age - Regular John (Official Audio)
+{{< youtube id="wjNbxJttwP8" title="Queens of the Stone Age - Regular John (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Queens of the Stone Age - Regular John (Official Audio)](https://www.youtube.com/watch?v=wjNbxJttwP8)
+- [Queens of the Stone Age - Avon (Official Audio)](https://www.youtube.com/watch?v=aimHMr-Ee4o)
 - [Queens of the Stone Age - If Only (Official Audio)](https://www.youtube.com/watch?v=1HqTh0nd9GE)
 - [Queens of the Stone Age - Walkin on the Sidewalks (Official Audio)](https://www.youtube.com/watch?v=veA1UK68A5Y)
 - [Queens of the Stone Age - You Would Know (Official Audio)](https://www.youtube.com/watch?v=Fp32A3Tvi8A)

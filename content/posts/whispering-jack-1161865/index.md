@@ -38,12 +38,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### One Step Away
-{{< youtube id="TevBky6WiSI" title="One Step Away" >}}<br>
+### John Farnham - Pressure Down
+{{< youtube id="Emutat3_IP0" title="John Farnham - Pressure Down" >}}<br>
 
 ### More Videos
 
-- [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
 - [John Farnham - Whispering Jack In Concert (full concert)](https://www.youtube.com/watch?v=LEEVsxG5blQ)
 - [Pressure Down](https://www.youtube.com/watch?v=tF0gqm4uUNo)
 - [Love to Shine](https://www.youtube.com/watch?v=A0uOghhkgOw)
@@ -52,6 +51,7 @@ styles: ["Pop Rock"]
 - [John Farnham - You're the Voice](https://www.youtube.com/watch?v=tbkOZTSvrHs)
 - [Pressure Down Music Video by John Farnham](https://www.youtube.com/watch?v=zIIcisbK3hE)
 - [Reasons [Live] from the 'Whispering Jack - 20th Anniversary Edition' DVD](https://www.youtube.com/watch?v=RTQnCSMF8HI)
+- [One Step Away](https://www.youtube.com/watch?v=TevBky6WiSI)
 - [A Touch of Paradise ~~~ John Farnham, 1987](https://www.youtube.com/watch?v=RrQJBDqmyrs)
 - [John Farnham - Pressure Down | Whispering Jack 25th Anniversary | Qpac Brisbane | 2nd November 2011](https://www.youtube.com/watch?v=0sRHzrNdNtc)
 - [[HQ] Coldplay- You're The Voice (with John Farnham) Sound Relief Concert [HQ]](https://www.youtube.com/watch?v=19JN50bLKjY)

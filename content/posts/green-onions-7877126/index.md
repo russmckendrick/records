@@ -40,12 +40,11 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 
 
 ## Videos
-### You Can't Sit Down
-{{< youtube id="53glDIYrBog" title="You Can't Sit Down" >}}<br>
+### Booker T. & The MG's - Green Onions (Official Audio)
+{{< youtube id="0oox9bJaGJ8" title="Booker T. & The MG's - Green Onions (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Booker T. & The MG's - Green Onions (Official Audio)](https://www.youtube.com/watch?v=0oox9bJaGJ8)
 - [Rinky Dink (MONO Audio)](https://www.youtube.com/watch?v=gFUwxnL5h_Q)
 - [I Got a Woman](https://www.youtube.com/watch?v=0ZXqw_cQeTw)
 - [Mo' Onions](https://www.youtube.com/watch?v=3AXwb7GL4-4)
@@ -54,6 +53,7 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 - [Stranger on the Shore](https://www.youtube.com/watch?v=dMz3TLRvDEY)
 - [Lonely Avenue](https://www.youtube.com/watch?v=DFYSfgotEa4)
 - [One Who Really Loves You](https://www.youtube.com/watch?v=d9G_X_7ze8o)
+- [You Can't Sit Down](https://www.youtube.com/watch?v=53glDIYrBog)
 - [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
 - [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
 

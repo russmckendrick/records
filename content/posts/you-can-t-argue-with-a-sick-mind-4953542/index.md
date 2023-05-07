@@ -34,12 +34,11 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Walk Away (Live)
-{{< youtube id="8uM4SAkK_DA" title="Walk Away (Live)" >}}<br>
+### Joe Walsh and Friends (1975)
+{{< youtube id="Ip82v3MAYyA" title="Joe Walsh and Friends (1975)" >}}<br>
 
 ### More Videos
 
-- [Joe Walsh and Friends (1975)](https://www.youtube.com/watch?v=Ip82v3MAYyA)
 - [Rocky Mountain Way - Joe Walsh 4-track reel to reel tape](https://www.youtube.com/watch?v=w0R6MDm6S54)
 - [Joe Walsh - Rocky Mountain Way (Live)](https://www.youtube.com/watch?v=F1uWA7VPGiE)
 - [Joe Walsh 🇺🇲 - Rocky Mountain Way (live) - Vinyl You Can't Argue With A Sick Mind LP 🇺🇲 1976](https://www.youtube.com/watch?v=iKP8aIz8yX4)
@@ -53,6 +52,7 @@ styles: ["Classic Rock"]
 - [Joe Walsh - Time Out- You can't Argue with a sick mind (1976)](https://www.youtube.com/watch?v=HnoLIngj6QA)
 - [Joe Walsh   Help Me Through the Night LIVE with Lyrics in Description](https://www.youtube.com/watch?v=FbbO4zOmNpg)
 - [JOE WALSH -Turn to stone.  (Vinyl sound)](https://www.youtube.com/watch?v=E14FEjOLwVA)
+- [Walk Away (Live)](https://www.youtube.com/watch?v=8uM4SAkK_DA)
 - [Meadows (Live)](https://www.youtube.com/watch?v=D6a4RY76V0g)
 - [Turn To Stone](https://www.youtube.com/watch?v=piWs3y443-A)
 

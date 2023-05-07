@@ -36,14 +36,14 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Luke and Leia
-{{< youtube id="oSXeOY_Ad4U" title="Luke and Leia" >}}<br>
+### Return of the Jedi (1983) Retrospective / Review
+{{< youtube id="N2tL4w8qgpk" title="Return of the Jedi (1983) Retrospective / Review" >}}<br>
 
 ### More Videos
 
-- [Return of the Jedi (1983) Retrospective / Review](https://www.youtube.com/watch?v=N2tL4w8qgpk)
 - [Main Title (The Story Continues)](https://www.youtube.com/watch?v=eP14omDNAfk)
 - [Into the Trap](https://www.youtube.com/watch?v=Rh0Xbbw9mQo)
+- [Luke and Leia](https://www.youtube.com/watch?v=oSXeOY_Ad4U)
 - [Parade of the Ewoks](https://www.youtube.com/watch?v=6r2w9ergP1E)
 - [Han Solo Returns (At the Court of Jabba the Hutt)](https://www.youtube.com/watch?v=jjyhuWhOJQw)
 - [Lapti Nek (Jabba's Palace Band)](https://www.youtube.com/watch?v=wINM8zsdw9s)

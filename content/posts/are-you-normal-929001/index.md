@@ -41,14 +41,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Neds Atomic Dustbin - Legend In His Own Boots
-{{< youtube id="1WavRfjeQHI" title="Neds Atomic Dustbin - Legend In His Own Boots" >}}<br>
+### Ned's Atomic Dustbin-Legoland
+{{< youtube id="yCWYygUCwOk" title="Ned's Atomic Dustbin-Legoland" >}}<br>
 
 ### More Videos
 
-- [Ned's Atomic Dustbin-Legoland](https://www.youtube.com/watch?v=yCWYygUCwOk)
 - [Ned's Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
 - [Neds Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=CZhmQ0JC7Cg)
+- [Neds Atomic Dustbin - Legend In His Own Boots](https://www.youtube.com/watch?v=1WavRfjeQHI)
 - [Ned's Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=o4a9E89Iq3o)
 - [Ned's Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
 - [Ned's Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)

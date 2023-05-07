@@ -35,12 +35,11 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 
 
 ## Videos
-### Mischief
-{{< youtube id="-rv_sLtKfbE" title="Mischief" >}}<br>
+### Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)
+{{< youtube id="TtbzKDYotww" title="Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)" >}}<br>
 
 ### More Videos
 
-- [Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)](https://www.youtube.com/watch?v=TtbzKDYotww)
 - [Ian Dury & The Blockheads:-'Quiet'](https://www.youtube.com/watch?v=vY0Xw7f92dg)
 - [Inbetweenies](https://www.youtube.com/watch?v=B-WVf2pwBMY)
 - [Quiet](https://www.youtube.com/watch?v=dlh_II_EJO0)
@@ -49,6 +48,7 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 - [Waiting for Your Taxi](https://www.youtube.com/watch?v=EGGq-uorOwc)
 - [This Is What We Find](https://www.youtube.com/watch?v=QKoh1J84uCU)
 - [Uneasy Sunny Day Hotsy Totsy](https://www.youtube.com/watch?v=q4aswN7D2DQ)
+- [Mischief](https://www.youtube.com/watch?v=-rv_sLtKfbE)
 - [Dance of the Screamers](https://www.youtube.com/watch?v=vMmvbGMVaQA)
 - [Lullaby for Franci/es](https://www.youtube.com/watch?v=t-wNUhAzRZ0)
 - [Hit Me with Your Rhythm Stick](https://www.youtube.com/watch?v=RUnQnIrJ3XE)

@@ -38,18 +38,18 @@ styles: ["Acid Jazz"]
 
 
 ## Videos
-### Jamiroquai - Whatever It Is, I Just Can't Stop (Audio)
-{{< youtube id="m0O79CuOUPs" title="Jamiroquai - Whatever It Is, I Just Can't Stop (Audio)" >}}<br>
+### Jamiroquai - When You Gonna Learn? (Official Music Video)
+{{< youtube id="eo7iwlMFPrM" title="Jamiroquai - When You Gonna Learn? (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Jamiroquai - When You Gonna Learn? (Official Music Video)](https://www.youtube.com/watch?v=eo7iwlMFPrM)
 - [Jamiroquai - Too Young to Die (Official Music Video)](https://www.youtube.com/watch?v=mjeWKssl8Ic)
 - [Jamiroquai - Blow Your Mind (Official Music Video)](https://www.youtube.com/watch?v=MVTkbCCl3-I)
 - [Jamiroquai - Emergency on Planet Earth (Official Video)](https://www.youtube.com/watch?v=zuR5TYI5Qkg)
 - [Jamiroquai - If I Like It, I Do It](https://www.youtube.com/watch?v=up0swWdzr24)
 - [Jamiroquai - Hooked Up (Audio)](https://www.youtube.com/watch?v=tljTNY1rMsU)
 - [Jamiroquai - Music of the Mind (Audio)](https://www.youtube.com/watch?v=D4rur_x1Xi0)
+- [Jamiroquai - Whatever It Is, I Just Can't Stop (Audio)](https://www.youtube.com/watch?v=m0O79CuOUPs)
 - [Jamiroquai - Revolution 1993 (Audio)](https://www.youtube.com/watch?v=bKzV1pLDNp4)
 - [Jamiroquai - Didgin' Out (Audio)](https://www.youtube.com/watch?v=pvyLdqbiHVg)
 

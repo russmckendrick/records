@@ -41,12 +41,12 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### OCEANS OF SLUMBER - Devout (Album Track)
-{{< youtube id="TN8f2ouaqfs" title="OCEANS OF SLUMBER - Devout (Album Track)" >}}<br>
+### OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)
+{{< youtube id="QxzqnetYSbk" title="OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
+- [OCEANS OF SLUMBER - Devout (Album Track)](https://www.youtube.com/watch?v=TN8f2ouaqfs)
 - [OCEANS OF SLUMBER - Suffer The Last Bridge (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=uj2lpQxGKhU)
 - [Turpentine](https://www.youtube.com/watch?v=ygykQnXU0NI)
 - [OCEANS OF SLUMBER - Turpentine (Album Track)](https://www.youtube.com/watch?v=XXKUSynBbAI)

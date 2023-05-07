@@ -47,17 +47,17 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Your Racist Friend
-{{< youtube id="JFGQdvYIJ0M" title="Your Racist Friend" >}}<br>
+### Theme from Flood
+{{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}<br>
 
 ### More Videos
 
-- [Theme from Flood](https://www.youtube.com/watch?v=pJ9QQdH3IiQ)
 - [THEY MIGHT BE GIANTS Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 - [Birdhouse In Your Soul (Official Video) - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
 - [Lucky Ball and Chain](https://www.youtube.com/watch?v=z8au4eCVPis)
 - [They Might Be Giants - Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=p6NzVd3pGdE)
 - [Dead](https://www.youtube.com/watch?v=bPgXYPJC2uA)
+- [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
 - [Twisting](https://www.youtube.com/watch?v=j0jNgo6Ar4Q)
 - [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)

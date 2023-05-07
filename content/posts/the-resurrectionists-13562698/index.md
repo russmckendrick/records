@@ -39,13 +39,13 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - 444
-{{< youtube id="BYFOhIoDvcc" title="Crippled Black Phoenix - 444" >}}<br>
+### 200 Tons of Bad Luck (Remastered)
+{{< youtube id="rwPIbMiYUMQ" title="200 Tons of Bad Luck (Remastered)" >}}<br>
 
 ### More Videos
 
-- [200 Tons of Bad Luck (Remastered)](https://www.youtube.com/watch?v=rwPIbMiYUMQ)
 - [Rise up and Fight (Remastered)](https://www.youtube.com/watch?v=GO7yxjWo77c)
+- [Crippled Black Phoenix - 444](https://www.youtube.com/watch?v=BYFOhIoDvcc)
 - [Burnt Reynolds - Crippled Black Phoenix](https://www.youtube.com/watch?v=NEdlia-p8xc)
 - [Crippled black phoenix - Song for the loved](https://www.youtube.com/watch?v=6tmPo9F5wgw)
 

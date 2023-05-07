@@ -38,12 +38,11 @@ styles: []
 
 
 ## Videos
-### The Infinity Sessions: Week Four
-{{< youtube id="LDSDBG68zHI" title="The Infinity Sessions: Week Four" >}}<br>
+### Neil Finn - Love Is Emotional
+{{< youtube id="umEBtfZnZnA" title="Neil Finn - Love Is Emotional" >}}<br>
 
 ### More Videos
 
-- [Neil Finn - Love Is Emotional](https://www.youtube.com/watch?v=umEBtfZnZnA)
 - [Neil Finn - More Than One Of You](https://www.youtube.com/watch?v=1jdyTtCy-zg)
 - [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=K1cq6xtzA3M)
 - [Neil Finn - Indepedence Day](https://www.youtube.com/watch?v=Azwa6xRYTQ4)
@@ -58,6 +57,7 @@ styles: []
 - [Neil Finn: The Infinity Sessions](https://www.youtube.com/watch?v=QbeEsFuJSVA)
 - [The Infinity Sessions: Week Two](https://www.youtube.com/watch?v=zXFnWk8VRA4)
 - [The Infinity Sessions: Week Three](https://www.youtube.com/watch?v=aw7M6X0zgaw)
+- [The Infinity Sessions: Week Four](https://www.youtube.com/watch?v=LDSDBG68zHI)
 
 
 ## Release Information

@@ -39,17 +39,17 @@ styles: ["Art Rock"]
 
 
 ## Videos
-### Chasing Horses
-{{< youtube id="-4RLRxKq-pI" title="Chasing Horses" >}}<br>
+### Candle Book and Bell
+{{< youtube id="lRlpH34urEI" title="Candle Book and Bell" >}}<br>
 
 ### More Videos
 
-- [Candle Book and Bell](https://www.youtube.com/watch?v=lRlpH34urEI)
 - [Ffwd to the Freeze Frame](https://www.youtube.com/watch?v=J_PRPX_pIrk)
 - [Make It So](https://www.youtube.com/watch?v=AC6GmaN2OZA)
 - [Sweet Billy Pilgrim - Slingshot Grin (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=EdwLWYB18mo)
 - [Burn Before Reading](https://www.youtube.com/watch?v=94xmvK_b1A8)
 - [Sweet Billy Pilgrim - Just Above Midtown (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=Ze3kyWe1oRk)
+- [Chasing Horses](https://www.youtube.com/watch?v=-4RLRxKq-pI)
 - [Tyrekickers](https://www.youtube.com/watch?v=XnGaVygkXwY)
 - [We Just Did What Happened and Nobody Came](https://www.youtube.com/watch?v=0p1AyJAQDdA)
 - [Longstreth](https://www.youtube.com/watch?v=ghZ93J3CBco)

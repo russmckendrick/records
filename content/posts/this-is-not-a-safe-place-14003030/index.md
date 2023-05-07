@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 
 
 ## Videos
-### Future Love (Official video)
-{{< youtube id="3cN0vWnVaHU" title="Future Love (Official video)" >}}<br>
+### Ride - Shadows Behind the Sun (2019)
+{{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun (2019)" >}}<br>
 
 ### More Videos
 
-- [Ride - Shadows Behind the Sun (2019)](https://www.youtube.com/watch?v=ni-t8eDXF_0)
+- [Future Love (Official video)](https://www.youtube.com/watch?v=3cN0vWnVaHU)
 
 
 ## Release Information

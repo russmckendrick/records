@@ -37,12 +37,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Tightly Wound
-{{< youtube id="qlfgcaXRZ7U" title="Tightly Wound" >}}<br>
+### The Pineapple Thief - Shoot First (from Tightly Unwound)
+{{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First (from Tightly Unwound)" >}}<br>
 
 ### More Videos
 
-- [The Pineapple Thief - Shoot First (from Tightly Unwound)](https://www.youtube.com/watch?v=8vwYejVfkas)
+- [Tightly Wound](https://www.youtube.com/watch?v=qlfgcaXRZ7U)
 - [The Pineapple Thief - Too Much to Lose (from Tightly Unwound)](https://www.youtube.com/watch?v=MdaxryzsjjA)
 
 

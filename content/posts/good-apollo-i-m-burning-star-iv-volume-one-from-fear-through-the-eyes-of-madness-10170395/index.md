@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Coheed and Cambria - The Suffering (Video)
-{{< youtube id="XnABRPS37hk" title="Coheed and Cambria - The Suffering (Video)" >}}<br>
+### Coheed and Cambria - Welcome Home (Official Video)
+{{< youtube id="n0H3RlaQVrM" title="Coheed and Cambria - Welcome Home (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Coheed and Cambria - Welcome Home (Official Video)](https://www.youtube.com/watch?v=n0H3RlaQVrM)
+- [Coheed and Cambria - The Suffering (Video)](https://www.youtube.com/watch?v=XnABRPS37hk)
 
 
 ## Release Information

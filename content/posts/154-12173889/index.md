@@ -41,15 +41,15 @@ styles: ["New Wave", "Punk", "Experimental"]
 
 
 ## Videos
-### Single K.O. (2006 Remastered Version)
-{{< youtube id="YSIXgqsSW6g" title="Single K.O. (2006 Remastered Version)" >}}<br>
+### I Should Have Known Better (2006 Remastered Version)
+{{< youtube id="FxigNmhB5KM" title="I Should Have Known Better (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
-- [I Should Have Known Better (2006 Remastered Version)](https://www.youtube.com/watch?v=FxigNmhB5KM)
 - [Two People In a Room (2006 Remastered Version)](https://www.youtube.com/watch?v=KjRzgZYpoPQ)
 - [The 15th (2006 Remastered Version)](https://www.youtube.com/watch?v=azpgFemktHg)
 - [The Other Window (2006 Remastered Version)](https://www.youtube.com/watch?v=sAhntpY7Pg0)
+- [Single K.O. (2006 Remastered Version)](https://www.youtube.com/watch?v=YSIXgqsSW6g)
 - [A Touching Display (2006 Remastered Version)](https://www.youtube.com/watch?v=1Fq-56TdMcw)
 - [On Returning (2006 Remastered Version)](https://www.youtube.com/watch?v=DuQvvh-9aCM)
 - [A Mutual Friend (2006 Remastered Version)](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)

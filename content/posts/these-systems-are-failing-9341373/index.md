@@ -34,17 +34,17 @@ styles: ["New Wave", "Post-Punk", "Punk"]
 
 
 ## Videos
-### Moby & The Void Pacific Choir - Erupt & Matter (Official Video)
-{{< youtube id="9wOZNGias5I" title="Moby & The Void Pacific Choir - Erupt & Matter (Official Video)" >}}<br>
+### Moby & The Void Pacific Choir - And It Hurts
+{{< youtube id="_-hVE_9W0bw" title="Moby & The Void Pacific Choir - And It Hurts" >}}<br>
 
 ### More Videos
 
-- [Moby & The Void Pacific Choir - And It Hurts](https://www.youtube.com/watch?v=_-hVE_9W0bw)
 - [Moby & The Void Pacific Choir - Almost Loved](https://www.youtube.com/watch?v=g7W0ske7vWA)
 - [Moby & The Void Pacific Choir - Don't Leave Me](https://www.youtube.com/watch?v=jtL3Jsl2ieE)
 - [Moby & The Void Pacific Choir - Hey! Hey!](https://www.youtube.com/watch?v=RSO8hv4aUkE)
 - [Moby & The Void Pacific Choir - Are You Lost In The World Like Me?](https://www.youtube.com/watch?v=WZ8HKrLTqq8)
 - [Moby & The Void Pacific Choir - Are You Lost In The World Like Me? (Official Video)](https://www.youtube.com/watch?v=VASywEuqFd8)
+- [Moby & The Void Pacific Choir - Erupt & Matter (Official Video)](https://www.youtube.com/watch?v=9wOZNGias5I)
 - [Moby & The Void Pacific Choir - The Light Is Clear In My Eyes](https://www.youtube.com/watch?v=WsXbZrLahSs)
 - [Moby & The Void Pacific Choir - Break. Doubt (Performance Video)](https://www.youtube.com/watch?v=ebNnzqjaBew)
 - [Moby & The Void Pacific Choir - A Simple Love](https://www.youtube.com/watch?v=2guWg9C-YGE)

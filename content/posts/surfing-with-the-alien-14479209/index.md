@@ -48,14 +48,14 @@ styles: []
 
 
 ## Videos
-### Joe Satriani – Crushing Day
-{{< youtube id="W3jtDOz3lOU" title="Joe Satriani – Crushing Day" >}}<br>
+### Joe Satriani – Surfing With The Alien
+{{< youtube id="JeUPSYrVP1w" title="Joe Satriani – Surfing With The Alien" >}}<br>
 
 ### More Videos
 
-- [Joe Satriani – Surfing With The Alien](https://www.youtube.com/watch?v=JeUPSYrVP1w)
 - [Joe Satriani – Hill Of The Skull](https://www.youtube.com/watch?v=SJ5n-Rr9t7M)
 - [Joe Satriani – Lords Of Karma](https://www.youtube.com/watch?v=LgZ_p1-CRqg)
+- [Joe Satriani – Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
 - [Joe Satriani – Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
 - [Joe Satriani – Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
 - [Joe Satriani – Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)

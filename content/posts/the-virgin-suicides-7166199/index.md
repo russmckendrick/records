@@ -85,12 +85,11 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 
 
 ## Videos
-### Air - Playground Love from The Virgin Suicides OST (Vinyl)
-{{< youtube id="8WglwMp20Mg" title="Air - Playground Love from The Virgin Suicides OST (Vinyl)" >}}<br>
+### AIR  -  The Virgin Suicides  OST  -  ((( FULL ALBUM )))
+{{< youtube id="CmK7LxBnlg8" title="AIR  -  The Virgin Suicides  OST  -  ((( FULL ALBUM )))" >}}<br>
 
 ### More Videos
 
-- [AIR  -  The Virgin Suicides  OST  -  ((( FULL ALBUM )))](https://www.youtube.com/watch?v=CmK7LxBnlg8)
 - [AIR - Playground Love (Official Video)](https://www.youtube.com/watch?v=NAgX1jO3No0)
 - [Air - Empty House (Official Audio)](https://www.youtube.com/watch?v=lCRo8RLZ8dA)
 - [Air - Suicide Underground (Official Audio)](https://www.youtube.com/watch?v=qquFdHCxArA)
@@ -99,6 +98,7 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 - [Ghost Song](https://www.youtube.com/watch?v=4_nVb9kYlBU)
 - [Cemetary Party](https://www.youtube.com/watch?v=U5kwoGYZjDo)
 - [The Word Hurricane](https://www.youtube.com/watch?v=ocTDASQ8sfA)
+- [Air - Playground Love from The Virgin Suicides OST (Vinyl)](https://www.youtube.com/watch?v=8WglwMp20Mg)
 - [Air - Afternoon Sister (Official Audio)](https://www.youtube.com/watch?v=fMz77CUQKPw)
 - [The Virgin Suicides - Thème](https://www.youtube.com/watch?v=8-elWUT2Avg)
 

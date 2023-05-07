@@ -33,12 +33,11 @@ styles: ["Electro"]
 
 
 ## Videos
-### The Russell Brothers - The Party Scene
-{{< youtube id="Qyan1_bxiA0" title="The Russell Brothers - The Party Scene" >}}<br>
+### Hashim - Al Naafiysh (The Soul)
+{{< youtube id="i46sF1PcqL8" title="Hashim - Al Naafiysh (The Soul)" >}}<br>
 
 ### More Videos
 
-- [Hashim - Al Naafiysh (The Soul)](https://www.youtube.com/watch?v=i46sF1PcqL8)
 - [Aleem ft. Leroy Burgess - Release Yourself (DUB)](https://www.youtube.com/watch?v=v6mnQzQ0DgE)
 - [Dynamix II - Just give the D.J. a break (12 Club Version)](https://www.youtube.com/watch?v=C7Okvrwtg6k)
 - [High Noon, Pt. 2](https://www.youtube.com/watch?v=EMEVKbIGdHM)
@@ -47,6 +46,7 @@ styles: ["Electro"]
 - [Paul Hardcastle - Rainforest (12 inch version) 1985 HQsound](https://www.youtube.com/watch?v=lFmcdf77wzU)
 - [Keymatic - Breakin In Space](https://www.youtube.com/watch?v=AhZVhtOsZDE)
 - [Dwayne Omarr - This Party's Jam Packed](https://www.youtube.com/watch?v=2Y48_5DoqmU)
+- [The Russell Brothers - The Party Scene](https://www.youtube.com/watch?v=Qyan1_bxiA0)
 - [Freak A Zoid - Midnight Star](https://www.youtube.com/watch?v=5wJWuaPR0Lo)
 - [G-Force Featuring Ronnie Gee & Captain Cee - Feel The Force ( Satellite Music International 1983 )](https://www.youtube.com/watch?v=VX98k2meA68)
 - [Grandmaster Flash & The Furious Five- Scorpio (Remastered)](https://www.youtube.com/watch?v=tkXNO3gy7bk)

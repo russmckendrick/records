@@ -38,12 +38,12 @@ styles: ["Britpop"]
 
 
 ## Videos
-### Oasis - Morning Glory (Official HD Remastered Video)
-{{< youtube id="Wm54XyLwBAk" title="Oasis - Morning Glory (Official HD Remastered Video)" >}}<br>
+### O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)
+{{< youtube id="b4NffykrJ6Y" title="O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)" >}}<br>
 
 ### More Videos
 
-- [O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)](https://www.youtube.com/watch?v=b4NffykrJ6Y)
+- [Oasis - Morning Glory (Official HD Remastered Video)](https://www.youtube.com/watch?v=Wm54XyLwBAk)
 
 
 ## Release Information

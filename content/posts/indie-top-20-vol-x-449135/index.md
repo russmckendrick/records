@@ -45,12 +45,11 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### The Charlatans - The Only One I Know
-{{< youtube id="0RJwW77Lsj8" title="The Charlatans - The Only One I Know" >}}<br>
+### THE FARM - GROOVY TRAIN (TERRY FARLEY REMIX) (1990)
+{{< youtube id="fOj_zwVKY-w" title="THE FARM - GROOVY TRAIN (TERRY FARLEY REMIX) (1990)" >}}<br>
 
 ### More Videos
 
-- [THE FARM - GROOVY TRAIN (TERRY FARLEY REMIX) (1990)](https://www.youtube.com/watch?v=fOj_zwVKY-w)
 - [The Shamen - Make It Mine](https://www.youtube.com/watch?v=HyPpiHQupeQ)
 - [Paris Angels - All on you (perfume)](https://www.youtube.com/watch?v=SN6dTK_OrmE)
 - [The KLF - What Time Is Love? (Echo & The Bunnymen Mix)](https://www.youtube.com/watch?v=MlLJ-9JibAQ)
@@ -61,6 +60,7 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 - [Mock Turtles - Lay Me Down](https://www.youtube.com/watch?v=odVnozap64M)
 - [Spin Scratches in the Sand](https://www.youtube.com/watch?v=tX0V_Dfz9Aw)
 - [Inspiral Carpets - She comes in the fall](https://www.youtube.com/watch?v=_GnHkfGgEQM)
+- [The Charlatans - The Only One I Know](https://www.youtube.com/watch?v=0RJwW77Lsj8)
 - [Waiting For The Angels - The Darkside](https://www.youtube.com/watch?v=tCA6lHY523c)
 - [Spiritualized Anyway That You Want Me](https://www.youtube.com/watch?v=YleJPoKBqrw)
 - [The Family Cat - A Place With A Name](https://www.youtube.com/watch?v=i7Irdy0NrPM)

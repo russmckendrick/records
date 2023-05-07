@@ -38,18 +38,18 @@ styles: ["Industrial", "Synth-pop"]
 
 
 ## Videos
-### Sin
-{{< youtube id="5bwE5IU4pzA" title="Sin" >}}<br>
+### Head Like A Hole
+{{< youtube id="ghIRu6UvQPc" title="Head Like A Hole" >}}<br>
 
 ### More Videos
 
-- [Head Like A Hole](https://www.youtube.com/watch?v=ghIRu6UvQPc)
 - [Nine Inch Nails - Down In It](https://www.youtube.com/watch?v=QrrEo3hZABU)
 - [Nine Inch Nails - Head Like A Hole (Official Video)](https://www.youtube.com/watch?v=ao-Sahfy7Hg)
 - [Terrible Lie](https://www.youtube.com/watch?v=rSjPAwsEXMU)
 - [Sanctified](https://www.youtube.com/watch?v=pIyTpWyeYy0)
 - [Something I Can Never Have](https://www.youtube.com/watch?v=AiIu1v988W0)
 - [Kinda I Want To](https://www.youtube.com/watch?v=1UaqcWBtT-o)
+- [Sin](https://www.youtube.com/watch?v=5bwE5IU4pzA)
 - [That's What I Get](https://www.youtube.com/watch?v=l4Cin02QIZE)
 - [The Only Time](https://www.youtube.com/watch?v=EWc00wZWG_k)
 - [Ringfinger](https://www.youtube.com/watch?v=Xbp0qm-x1v8)

@@ -39,16 +39,16 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Big Big Train - London Plane Sequence
-{{< youtube id="z3SS27wGjq0" title="Big Big Train - London Plane Sequence" >}}<br>
+### Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]
+{{< youtube id="1FeatR8ZXy8" title="Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]" >}}<br>
 
 ### More Videos
 
-- [Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]](https://www.youtube.com/watch?v=1FeatR8ZXy8)
 - [BIG BIG TRAIN-The Second Brightest Strar-10-The Gentlemen's Reprise-Prog Rock-{2017}](https://www.youtube.com/watch?v=Aow_g329l6g)
 - [The Second Brightest Star](https://www.youtube.com/watch?v=ybMxRZVQVcI)
 - [Notes on The Second Brightest Star by Big Big Train](https://www.youtube.com/watch?v=SGf2CKoRti4)
 - [Terra Australis Incognita](https://www.youtube.com/watch?v=T4gWzO7aRpA)
+- [Big Big Train - London Plane Sequence](https://www.youtube.com/watch?v=z3SS27wGjq0)
 
 
 ## Release Information

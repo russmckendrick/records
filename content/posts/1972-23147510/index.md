@@ -34,16 +34,16 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 
 
 ## Videos
-### Black Crowes - Papa Was A Rolling Stone
-{{< youtube id="frN4RjtwV0Y" title="Black Crowes - Papa Was A Rolling Stone" >}}<br>
+### The Black Crowes - 1972 (Full Album) 2022
+{{< youtube id="25_gvlilQpo" title="The Black Crowes - 1972 (Full Album) 2022" >}}<br>
 
 ### More Videos
 
-- [The Black Crowes - 1972 (Full Album) 2022](https://www.youtube.com/watch?v=25_gvlilQpo)
 - [The Black Crowes - '1972' Studio Session [Amazon Original]](https://www.youtube.com/watch?v=XMIyT4PsnSk)
 - [The Black Crowes – Papa Was A Rolling Stone](https://www.youtube.com/watch?v=rwOYwWPyrxk)
 - [THE BLACK CROWES new EP an Amazon Original EP titled 1972 + studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
 - [Black Crowes - You Wear It Well](https://www.youtube.com/watch?v=qNbe-OIomVs)
+- [Black Crowes - Papa Was A Rolling Stone](https://www.youtube.com/watch?v=frN4RjtwV0Y)
 - [Black Crowes - Moonage Daydream](https://www.youtube.com/watch?v=lKu1T6ccwFI)
 
 

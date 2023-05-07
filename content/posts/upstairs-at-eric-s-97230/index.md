@@ -39,12 +39,11 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Goodbye Seventies
-{{< youtube id="_V4zNeXendQ" title="Goodbye Seventies" >}}<br>
+### Yaz - Upstairs At Eric's (1982) Full Album
+{{< youtube id="6J5CIU9AiwA" title="Yaz - Upstairs At Eric's (1982) Full Album" >}}<br>
 
 ### More Videos
 
-- [Yaz - Upstairs At Eric's (1982) Full Album](https://www.youtube.com/watch?v=6J5CIU9AiwA)
 - [Yazoo - Upstairs At Eric's   Full Album](https://www.youtube.com/watch?v=I2KddN4qQNY)
 - [Yazoo - Don't Go (Official HD Video)](https://www.youtube.com/watch?v=_sQGwDeambg)
 - [Yaz - Situation (Official Audio)](https://www.youtube.com/watch?v=ysmVlaw36L0)
@@ -53,6 +52,7 @@ styles: ["Synth-pop"]
 - [In My Room](https://www.youtube.com/watch?v=xaVjNrXqF0U)
 - [Yazoo ▪️ Upstairs At Eric's [1982]](https://www.youtube.com/watch?v=AhRX8Fqs39A)
 - [Yazoo - Nobody's Diary (Official Video)](https://www.youtube.com/watch?v=1qq7jTPkjVg)
+- [Goodbye Seventies](https://www.youtube.com/watch?v=_V4zNeXendQ)
 - [YAZOO: UPSTAIRS AT ERIC'S - 40 years (1982) Synthpop (Vince Clarke / Alison Moyet) 80s](https://www.youtube.com/watch?v=nTPnyo0E4QQ)
 - [Yaz / Upstairs At Eric's / In My Room  (HD Audio)](https://www.youtube.com/watch?v=iF4PUOTu0y4)
 - [Winter Kills](https://www.youtube.com/watch?v=77t2V9-UyHg)

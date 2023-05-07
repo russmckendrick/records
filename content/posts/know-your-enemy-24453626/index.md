@@ -49,15 +49,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Manic Street Preachers - Found That Soul
-{{< youtube id="DWmtlTxvUsU" title="Manic Street Preachers - Found That Soul" >}}<br>
+### Manic Street Preachers - So Why So Sad
+{{< youtube id="x3i1E9N8zww" title="Manic Street Preachers - So Why So Sad" >}}<br>
 
 ### More Videos
 
-- [Manic Street Preachers - So Why So Sad](https://www.youtube.com/watch?v=x3i1E9N8zww)
 - [My Guernica](https://www.youtube.com/watch?v=wqyOYXQY748)
 - [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=vUJLdC6wqno)
 - [Manic Street Preachers  -  The Masses Against The Classes](https://www.youtube.com/watch?v=ZW2Gk1pkL6s)
+- [Manic Street Preachers - Found That Soul](https://www.youtube.com/watch?v=DWmtlTxvUsU)
 - [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=3UAjcuSVZMs)
 
 

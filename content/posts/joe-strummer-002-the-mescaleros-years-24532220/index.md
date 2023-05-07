@@ -75,17 +75,17 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 
 
 ## Videos
-### Joe Strummer - The Road To Rock 'N' Roll (Demo) (Official Video)
-{{< youtube id="OWT-P4ncOiI" title="Joe Strummer - The Road To Rock 'N' Roll (Demo) (Official Video)" >}}<br>
+### Time and The Tide
+{{< youtube id="tEGS-e0HZEM" title="Time and The Tide" >}}<br>
 
 ### More Videos
 
-- [Time and The Tide](https://www.youtube.com/watch?v=tEGS-e0HZEM)
 - [JOE STRUMMER 002: THE MESCALEROS YEARS UNBOXING & RESEÑA](https://www.youtube.com/watch?v=sbBeo-TBdww)
 - [Techno D-Day (Demo)](https://www.youtube.com/watch?v=NIZcNfdr_p4)
 - [Ocean Of Dreams](https://www.youtube.com/watch?v=sZhCnF-Z-YY)
 - [Forbidden City (Demo)](https://www.youtube.com/watch?v=MwOuk4EoTZk)
 - [X-Ray Style (Demo)](https://www.youtube.com/watch?v=5iF2-jU79qM)
+- [Joe Strummer - The Road To Rock 'N' Roll (Demo) (Official Video)](https://www.youtube.com/watch?v=OWT-P4ncOiI)
 - [Tony Adams (Demo)](https://www.youtube.com/watch?v=rNbAtr46nPI)
 - [Cool ‘N’ Out (Demo)](https://www.youtube.com/watch?v=0iG7WtkcsD8)
 - [Global A Go-Go (Demo)](https://www.youtube.com/watch?v=OYI2ihCHPV4)

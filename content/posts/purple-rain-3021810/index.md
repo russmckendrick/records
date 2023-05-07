@@ -37,12 +37,11 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Purple Rain
-{{< youtube id="S6Y1gohk5-A" title="Purple Rain" >}}<br>
+### Prince & The Revolution - Let's Go Crazy (Official Music Video)
+{{< youtube id="aXJhDltzYVQ" title="Prince & The Revolution - Let's Go Crazy (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Prince & The Revolution - Let's Go Crazy (Official Music Video)](https://www.youtube.com/watch?v=aXJhDltzYVQ)
 - [Take Me with U](https://www.youtube.com/watch?v=v5HuK6u1eJw)
 - [The Beautiful Ones](https://www.youtube.com/watch?v=xSJAeWPEWTw)
 - [Prince - Purple Rain (Official Video)](https://www.youtube.com/watch?v=TvnYmWpD_T8)
@@ -55,6 +54,7 @@ styles: ["Soundtrack"]
 - [Computer Blue](https://www.youtube.com/watch?v=bt0XdyBgSnE)
 - [Darling Nikki](https://www.youtube.com/watch?v=j8oxXkUjYHg)
 - [Baby I'm a Star](https://www.youtube.com/watch?v=4YdPZ1J0KrE)
+- [Purple Rain](https://www.youtube.com/watch?v=S6Y1gohk5-A)
 
 
 ## Release Information

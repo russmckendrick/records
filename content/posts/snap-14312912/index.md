@@ -62,12 +62,11 @@ styles: ["Mod"]
 
 
 ## Videos
-### The Jam - That's Entertainment (Compact SNAP!)
-{{< youtube id="hHfehqgg5Ws" title="The Jam - That's Entertainment (Compact SNAP!)" >}}<br>
+### The Jam - All Around The World
+{{< youtube id="GPktB0NHwDY" title="The Jam - All Around The World" >}}<br>
 
 ### More Videos
 
-- [The Jam - All Around The World](https://www.youtube.com/watch?v=GPktB0NHwDY)
 - [The Jam - Going Underground (Compact SNAP!)](https://www.youtube.com/watch?v=vzkpgf2oXwo)
 - [The Jam - In The City (Compact SNAP!)](https://www.youtube.com/watch?v=KpOmQ_uj4Yc)
 - [The Jam - Dreams of Children + Lyrics](https://www.youtube.com/watch?v=v97LHOHjrjM)
@@ -87,6 +86,7 @@ styles: ["Mod"]
 - [The Jam - Smithers Jones (Compact SNAP!)](https://www.youtube.com/watch?v=NFfQRYpq1K0)
 - [Thick As Thieves](https://www.youtube.com/watch?v=znmpFlKhgoI)
 - [The Jam - The Eton Rifles (Compact SNAP!)](https://www.youtube.com/watch?v=GKZ7ivuN7UQ)
+- [The Jam - That's Entertainment (Compact SNAP!)](https://www.youtube.com/watch?v=hHfehqgg5Ws)
 - [The Jam - Start! (Compact SNAP!)](https://www.youtube.com/watch?v=NLITZTcbDnE)
 - [The Jam - Funeral Pyre (Compact SNAP!)](https://www.youtube.com/watch?v=x8aoHrDZGt4)
 - [The Jam - Absolute Beginners (Compact SNAP!)](https://www.youtube.com/watch?v=hF1qjAoWbDc)

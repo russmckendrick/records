@@ -44,17 +44,17 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Elastica - Stutter
-{{< youtube id="0ie4x8hWYYE" title="Elastica - Stutter" >}}<br>
+### Elastica - Line Up
+{{< youtube id="g7Y7vH2XsAM" title="Elastica - Line Up" >}}<br>
 
 ### More Videos
 
-- [Elastica - Line Up](https://www.youtube.com/watch?v=g7Y7vH2XsAM)
 - [Indian Song // Elastica](https://www.youtube.com/watch?v=aCEntBulV9U)
 - [Elastica - Connection (Official Music Video)](https://www.youtube.com/watch?v=ilKcXIFi-Rc)
 - [Connection // Elastica](https://www.youtube.com/watch?v=5nLLofBZr3o)
 - [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
 - [Elastica – Connection](https://www.youtube.com/watch?v=iKoEIzxMxfQ)
+- [Elastica - Stutter](https://www.youtube.com/watch?v=0ie4x8hWYYE)
 - [2:1](https://www.youtube.com/watch?v=5iE5vu1Mj2g)
 - [Elastica - Car Song](https://www.youtube.com/watch?v=djjw3BKUV28)
 - [Vaseline](https://www.youtube.com/watch?v=GjwQ811cBL8)

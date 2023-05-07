@@ -33,12 +33,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Suite - 01 - Father's Shout - Atom Heart Mother- Pink Floyd
-{{< youtube id="tVYvlzX5m9s" title="Suite - 01 - Father's Shout - Atom Heart Mother- Pink Floyd" >}}<br>
+### VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother
+{{< youtube id="0khlKK6bcb8" title="VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother" >}}<br>
 
 ### More Videos
 
-- [VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother](https://www.youtube.com/watch?v=0khlKK6bcb8)
+- [Suite - 01 - Father's Shout - Atom Heart Mother- Pink Floyd](https://www.youtube.com/watch?v=tVYvlzX5m9s)
 
 
 ## Release Information

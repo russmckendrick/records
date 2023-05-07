@@ -40,13 +40,13 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### A Perfect Circle - 3 Libras
-{{< youtube id="u9MAg9E5K3w" title="A Perfect Circle - 3 Libras" >}}<br>
+### A Perfect Circle - Judith (Official Music Video)
+{{< youtube id="xTgKRCXybSM" title="A Perfect Circle - Judith (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [A Perfect Circle - Judith (Official Music Video)](https://www.youtube.com/watch?v=xTgKRCXybSM)
 - [Sleeping Beauty (Live)](https://www.youtube.com/watch?v=OjU69YihvPc)
+- [A Perfect Circle - 3 Libras](https://www.youtube.com/watch?v=u9MAg9E5K3w)
 - [Sleeping Beauty](https://www.youtube.com/watch?v=eUUb1bNlmUs)
 - [A Perfect Circle - Thinking Of You (Official Music Video)](https://www.youtube.com/watch?v=KUiFBp6cCV8)
 

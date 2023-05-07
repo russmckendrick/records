@@ -40,12 +40,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Soul Asylum - Black Gold
-{{< youtube id="KpiFDrFEGvE" title="Soul Asylum - Black Gold" >}}<br>
+### Soul Asylum - Somebody to Shove
+{{< youtube id="OrrE5bCA5lg" title="Soul Asylum - Somebody to Shove" >}}<br>
 
 ### More Videos
 
-- [Soul Asylum - Somebody to Shove](https://www.youtube.com/watch?v=OrrE5bCA5lg)
+- [Soul Asylum - Black Gold](https://www.youtube.com/watch?v=KpiFDrFEGvE)
 - [Soul Asylum - Runaway Train (Official Video)](https://www.youtube.com/watch?v=NRtvqT_wMeY)
 - [Soul Asylum - Without a Trace](https://www.youtube.com/watch?v=yNWR3OenaPk)
 - [Keep It Up](https://www.youtube.com/watch?v=C2kQ5ECi6QM)

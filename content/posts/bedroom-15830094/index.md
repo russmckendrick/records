@@ -38,12 +38,12 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 
 
 ## Videos
-### bdrmm - Is That What You Wanted To Hear? (Official Video)
-{{< youtube id="J-fwuaYXv3M" title="bdrmm - Is That What You Wanted To Hear? (Official Video)" >}}<br>
+### bdrmm - Bedroom (Full Album)
+{{< youtube id="eQWIrE9xGes" title="bdrmm - Bedroom (Full Album)" >}}<br>
 
 ### More Videos
 
-- [bdrmm - Bedroom (Full Album)](https://www.youtube.com/watch?v=eQWIrE9xGes)
+- [bdrmm - Is That What You Wanted To Hear? (Official Video)](https://www.youtube.com/watch?v=J-fwuaYXv3M)
 - [bdrmm - A Reason To Celebrate (Official Audio)](https://www.youtube.com/watch?v=_PMHvJwelug)
 - [bdrmm - Happy (Official Audio)](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
 

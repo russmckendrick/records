@@ -57,15 +57,15 @@ styles: ["Indie Rock", "Post Rock"]
 
 
 ## Videos
-### Metronomic Underground
-{{< youtube id="pxknMTAoC8U" title="Metronomic Underground" >}}<br>
+### Stereolab – The Noise of Carpet (Official Video)
+{{< youtube id="PGREbC-Q2Do" title="Stereolab – The Noise of Carpet (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Stereolab – The Noise of Carpet (Official Video)](https://www.youtube.com/watch?v=PGREbC-Q2Do)
 - [Percolator](https://www.youtube.com/watch?v=c3WMtylDWmg)
 - [Emperor Tomato Ketchup](https://www.youtube.com/watch?v=NrEUMRdB4Q8)
 - [Les Yper-Sound](https://www.youtube.com/watch?v=VS062AP7000)
+- [Metronomic Underground](https://www.youtube.com/watch?v=pxknMTAoC8U)
 - [Tomorrow Is Already Here](https://www.youtube.com/watch?v=MxXxT-o4SPY)
 
 

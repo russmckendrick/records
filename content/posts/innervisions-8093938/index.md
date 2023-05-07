@@ -37,12 +37,11 @@ styles: ["Soul"]
 
 
 ## Videos
-### He's Misstra Know-It-All
-{{< youtube id="uivvYGyQiow" title="He's Misstra Know-It-All" >}}<br>
+### Too High
+{{< youtube id="UvtYEdYjkJM" title="Too High" >}}<br>
 
 ### More Videos
 
-- [Too High](https://www.youtube.com/watch?v=UvtYEdYjkJM)
 - [Visions](https://www.youtube.com/watch?v=fy4fMlLj_B8)
 - [Living For The City](https://www.youtube.com/watch?v=ghLWjyOOLno)
 - [Golden Lady](https://www.youtube.com/watch?v=CXCTjAMR3eA)
@@ -50,6 +49,7 @@ styles: ["Soul"]
 - [Jesus Children Of America](https://www.youtube.com/watch?v=8o8FVoib92w)
 - [All In Love Is Fair](https://www.youtube.com/watch?v=1surYguNfEg)
 - [Don't You Worry 'Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
+- [He's Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
 
 
 ## Release Information

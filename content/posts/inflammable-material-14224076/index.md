@@ -41,12 +41,11 @@ styles: ["Punk"]
 
 
 ## Videos
-### Rough Trade
-{{< youtube id="WMCjbX6gSEo" title="Rough Trade" >}}<br>
+### Suspect Device
+{{< youtube id="on6DxBgfsDY" title="Suspect Device" >}}<br>
 
 ### More Videos
 
-- [Suspect Device](https://www.youtube.com/watch?v=on6DxBgfsDY)
 - [State Of Emergency](https://www.youtube.com/watch?v=-RMKSlByyMg)
 - [Here We Are Nowhere](https://www.youtube.com/watch?v=mnw8LfFttp8)
 - [Wasted Life](https://www.youtube.com/watch?v=8nx8adlkvFw)
@@ -55,6 +54,7 @@ styles: ["Punk"]
 - [White Noise](https://www.youtube.com/watch?v=xrocrwBVyAs)
 - [Breakout](https://www.youtube.com/watch?v=HRC9C_2gHZo)
 - [Law and Order](https://www.youtube.com/watch?v=LD8Y0F9BZ8A)
+- [Rough Trade](https://www.youtube.com/watch?v=WMCjbX6gSEo)
 - [Johnny Was](https://www.youtube.com/watch?v=2SCAFiP049o)
 - [Alternative Ulster](https://www.youtube.com/watch?v=PlGmYetiCjA)
 - [Closed Groove](https://www.youtube.com/watch?v=xFgRXssRmQ4)

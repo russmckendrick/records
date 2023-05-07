@@ -37,18 +37,18 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 
 
 ## Videos
-### kool keith - get off my elevator
-{{< youtube id="WIlc0S97KQ4" title="kool keith - get off my elevator" >}}<br>
+### Mambo 8
+{{< youtube id="lqi_HT1MfsU" title="Mambo 8" >}}<br>
 
 ### More Videos
 
-- [Mambo 8](https://www.youtube.com/watch?v=lqi_HT1MfsU)
 - [9-5](https://www.youtube.com/watch?v=rOifm4AbsuY)
 - [Geto Boys - Still (Office Space soundtrack)](https://www.youtube.com/watch?v=lCOeIksA3Yo)
 - [No Tears](https://www.youtube.com/watch?v=9KWpIxdfNzY)
 - [Office Space Soundtrack - Shove This Jay Oh Bee (HQ)](https://www.youtube.com/watch?v=HyxoLqbFDkI)
 - [Damn It Feels Good To Be A Gangsta](https://www.youtube.com/watch?v=0PqRXVCGKIA)
 - [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
+- [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
 - [Shove This Jay-Oh-Bee](https://www.youtube.com/watch?v=axJVs-OseS8)
 - [Ice Cube - Down for Whatever (DIRTY)](https://www.youtube.com/watch?v=-T44yl-LMSU)
 - [Big Boss Man](https://www.youtube.com/watch?v=CY4lNkIO76U)

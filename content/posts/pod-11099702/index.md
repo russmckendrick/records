@@ -40,12 +40,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Metal Man
-{{< youtube id="9S-V1LxNccI" title="Metal Man" >}}<br>
+### Glorious
+{{< youtube id="OSwgWt0UNgE" title="Glorious" >}}<br>
 
 ### More Videos
 
-- [Glorious](https://www.youtube.com/watch?v=OSwgWt0UNgE)
 - [Doe](https://www.youtube.com/watch?v=wANv31sHYrk)
 - [Happiness Is A Warm Gun](https://www.youtube.com/watch?v=LoIyUl10ChQ)
 - [Oh!](https://www.youtube.com/watch?v=53sd3y2m1uU)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock"]
 - [Opened](https://www.youtube.com/watch?v=wFMxXEcATxk)
 - [Only In 3's](https://www.youtube.com/watch?v=6LM6hA4NyO8)
 - [Lime House](https://www.youtube.com/watch?v=fjsELVfqFFw)
+- [Metal Man](https://www.youtube.com/watch?v=9S-V1LxNccI)
 
 
 ## Release Information

@@ -46,12 +46,11 @@ styles: ["Conscious"]
 
 
 ## Videos
-### De La Soul - Snoopies (feat. David Byrne) (Official Audio)
-{{< youtube id="rBk9knE8v08" title="De La Soul - Snoopies (feat. David Byrne) (Official Audio)" >}}<br>
+### De La Soul - Pain ft. Snoop Dogg (Official Audio)
+{{< youtube id="7vDVDo9w20w" title="De La Soul - Pain ft. Snoop Dogg (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [De La Soul - Pain ft. Snoop Dogg (Official Audio)](https://www.youtube.com/watch?v=7vDVDo9w20w)
 - [De La Soul - Memory Of... (US) [feat. Estelle & Pete Rock] (Official Audio)](https://www.youtube.com/watch?v=ECS-DDN_NiI)
 - [De La Soul - Here in After (feat. Damon Albarn) (Official Audio)](https://www.youtube.com/watch?v=OWpmWvJThkQ)
 - [De La Soul - Lord Intended (feat. Justin Hawkins) (Official Audio)](https://www.youtube.com/watch?v=fs8g_BRPbc8)
@@ -60,6 +59,7 @@ styles: ["Conscious"]
 - [De La Soul - Drawn ft. Little Dragon (Official Audio)](https://www.youtube.com/watch?v=umdFFR9XVpE)
 - [De La Soul - Drawn ft. Little Dragon](https://www.youtube.com/watch?v=lGpw84iVgmM)
 - [De La Soul - Royalty Capes (Official Audio)](https://www.youtube.com/watch?v=x792pVBX89o)
+- [De La Soul - Snoopies (feat. David Byrne) (Official Audio)](https://www.youtube.com/watch?v=rBk9knE8v08)
 - [Genesis](https://www.youtube.com/watch?v=trouXMCxLAw)
 - [De La Soul - Exodus (Official Audio)](https://www.youtube.com/watch?v=SXUrOzR6N9g)
 - [De La Soul - CBGB'S (Official Audio)](https://www.youtube.com/watch?v=r0-ueCPCYNI)

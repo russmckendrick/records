@@ -35,12 +35,11 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Curve - Lillies Dying
-{{< youtube id="q7VKHpfv_Io" title="Curve - Lillies Dying" >}}<br>
+### Curve - Horror Head (4K Remaster)
+{{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head (4K Remaster)" >}}<br>
 
 ### More Videos
 
-- [Curve - Horror Head (4K Remaster)](https://www.youtube.com/watch?v=Y3jYRP9jGKc)
 - [Curve - Superblaster (4K Remaster)](https://www.youtube.com/watch?v=pYQa-Ft6nmE)
 - [Curve - Horror Head](https://www.youtube.com/watch?v=04i4A5OdNmA)
 - [Curve - Missing Link [1993]](https://www.youtube.com/watch?v=KqmGEPfRzk0)
@@ -52,6 +51,7 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 - [Curve - Horror Head](https://www.youtube.com/watch?v=_4xMR7mYPWU)
 - [Curve, Clipped](https://www.youtube.com/watch?v=moAIaLbcKb0)
 - [Curve - Doppelganger](https://www.youtube.com/watch?v=mT0dGTNtODc)
+- [Curve - Lillies Dying](https://www.youtube.com/watch?v=q7VKHpfv_Io)
 - [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
 - [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 

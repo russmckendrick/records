@@ -38,12 +38,11 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### David Gilmour - And Then... (Official Audio)
-{{< youtube id="ZZlXn-DaCwY" title="David Gilmour - And Then... (Official Audio)" >}}<br>
+### David Gilmour - 5 A.M. (Official Audio)
+{{< youtube id="lIoflO7R480" title="David Gilmour - 5 A.M. (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [David Gilmour - 5 A.M. (Official Audio)](https://www.youtube.com/watch?v=lIoflO7R480)
 - [David Gilmour - Rattle That Lock (Official Audio)](https://www.youtube.com/watch?v=GkVWsk8xueo)
 - [David Gilmour - Faces of Stone (Official Audio)](https://www.youtube.com/watch?v=AUGOkCQ37NA)
 - [David Gilmour - A Boat Lies Waiting (Official Audio)](https://www.youtube.com/watch?v=hoSCZuX0SwE)
@@ -52,6 +51,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 - [David Gilmour - Beauty (Official Audio)](https://www.youtube.com/watch?v=FC5Q2liC2yI)
 - [David Gilmour - The Girl In The Yellow Dress (Official Audio)](https://www.youtube.com/watch?v=N69ArORNEhE)
 - [David Gilmour - Today (Official Audio)](https://www.youtube.com/watch?v=t3c8VOdO_G4)
+- [David Gilmour - And Then... (Official Audio)](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
 - [David Gilmour, Rattle That Lock (Albun completo)](https://www.youtube.com/watch?v=HMJl3gq2Ows)
 
 

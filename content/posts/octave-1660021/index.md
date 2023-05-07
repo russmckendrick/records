@@ -38,15 +38,15 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### THE MOODY BLUES Octave 02 under moonshine
-{{< youtube id="hyzThAfm9D0" title="THE MOODY BLUES Octave 02 under moonshine" >}}<br>
+### THE MOODY BLUES Octave 10 The day we meet again
+{{< youtube id="WBedAweB96Y" title="THE MOODY BLUES Octave 10 The day we meet again" >}}<br>
 
 ### More Videos
 
-- [THE MOODY BLUES Octave 10 The day we meet again](https://www.youtube.com/watch?v=WBedAweB96Y)
 - [THE MOODY BLUES Octave 09 One step into the Light](https://www.youtube.com/watch?v=WASVOabb3C8)
 - [THE MOODY BLUES Octave 08 Survival](https://www.youtube.com/watch?v=p4O6blewlIg)
 - [THE MOODY BLUES Octave 01 Steppin' in a slide zone](https://www.youtube.com/watch?v=Qyp_5M1dV88)
+- [THE MOODY BLUES Octave 02 under moonshine](https://www.youtube.com/watch?v=hyzThAfm9D0)
 - [THE MOODY BLUES Octave 05 Driftwood](https://www.youtube.com/watch?v=uW4gwfRG4Q4)
 - [THE MOODY BLUES Octave 06 top Rank Suite](https://www.youtube.com/watch?v=U1dn7P6qIfQ)
 - [Steppin' In A Slide Zone | The Moody Blues | Octave | 1978 London Records LP](https://www.youtube.com/watch?v=IefRKigKiaQ)

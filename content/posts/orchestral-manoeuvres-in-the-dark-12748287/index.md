@@ -38,12 +38,11 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Electricity (Hannett/Cargo Studios Version / Remastered 2003)
-{{< youtube id="n2-RNug1XoI" title="Electricity (Hannett/Cargo Studios Version / Remastered 2003)" >}}<br>
+### Orchestral Manoeuvres In The Dark - Electricity (1979)
+{{< youtube id="7qKSJIsQN1Y" title="Orchestral Manoeuvres In The Dark - Electricity (1979)" >}}<br>
 
 ### More Videos
 
-- [Orchestral Manoeuvres In The Dark - Electricity (1979)](https://www.youtube.com/watch?v=7qKSJIsQN1Y)
 - [Bunker Soldiers (Remastered 2003)](https://www.youtube.com/watch?v=IRqfQcHI6EQ)
 - [Almost (Remastered 2003)](https://www.youtube.com/watch?v=s0oGOVDMZOo)
 - [Mystereality (Remastered 2003)](https://www.youtube.com/watch?v=Lfs2ZKPlU0Y)
@@ -58,6 +57,7 @@ styles: ["Synth-pop"]
 - [I Betray My Friends (Remastered 2003)](https://www.youtube.com/watch?v=W4FL4SOBwh8)
 - [Taking Sides Again (Remastered 2003)](https://www.youtube.com/watch?v=STMujfrPghs)
 - [Waiting For The Man (Remastered 2003)](https://www.youtube.com/watch?v=k5bQ9BL5NTc)
+- [Electricity (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=n2-RNug1XoI)
 - [Almost (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=e9LDb3bgq3c)
 
 

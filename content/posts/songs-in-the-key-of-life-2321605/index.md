@@ -50,13 +50,13 @@ styles: ["Soul", "Disco"]
 
 
 ## Videos
-### Have A Talk With God
-{{< youtube id="XrLe6MSjBzg" title="Have A Talk With God" >}}<br>
+### Knocks Me Off My Feet
+{{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}<br>
 
 ### More Videos
 
-- [Knocks Me Off My Feet](https://www.youtube.com/watch?v=3CB0_YU4G6Y)
 - [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
+- [Have A Talk With God](https://www.youtube.com/watch?v=XrLe6MSjBzg)
 
 
 ## Release Information

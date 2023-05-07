@@ -28,13 +28,13 @@ styles: ["Breakbeat", "Indie Rock"]
 
 
 ## Videos
-### Pop Will Eat Itself - X, Y & Zee (Video)
-{{< youtube id="FcyTCoChsf8" title="Pop Will Eat Itself - X, Y & Zee (Video)" >}}<br>
+### Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix
+{{< youtube id="UKVYQFQ_wOg" title="Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix" >}}<br>
 
 ### More Videos
 
-- [Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix](https://www.youtube.com/watch?v=UKVYQFQ_wOg)
 - [Pop Will Eat Itself - Axe of Men](https://www.youtube.com/watch?v=bd_lMQ_aM5c)
+- [Pop Will Eat Itself - X, Y & Zee (Video)](https://www.youtube.com/watch?v=FcyTCoChsf8)
 - [X, Y & Zee (Electric Sunshine Style)](https://www.youtube.com/watch?v=VHnt11bZdAY)
 - [Pop Will Eat Itself ‎- X Y & Zee](https://www.youtube.com/watch?v=EDuBS2U1kjg)
 

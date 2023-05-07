@@ -43,13 +43,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### Madness - Night Boat to Cairo (Official HD Video)
-{{< youtube id="lLLL1KxpYMA" title="Madness - Night Boat to Cairo (Official HD Video)" >}}<br>
+### Madness - One Step Beyond (Official 4k Video)
+{{< youtube id="SOJSM46nWwo" title="Madness - One Step Beyond (Official 4k Video)" >}}<br>
 
 ### More Videos
 
-- [Madness - One Step Beyond (Official 4k Video)](https://www.youtube.com/watch?v=SOJSM46nWwo)
 - [Madness - My Girl (Official Video)](https://www.youtube.com/watch?v=Pw-8AGRcyvk)
+- [Madness - Night Boat to Cairo (Official HD Video)](https://www.youtube.com/watch?v=lLLL1KxpYMA)
 - [Madness - Believe Me (One Step Beyond Track 4)](https://www.youtube.com/watch?v=XV2w7Wt5mD8)
 - [Madness - Land Of Hope And Glory (One Step Beyond Track 5)](https://www.youtube.com/watch?v=-RLfJ9cx2IA)
 - [Madness - The Prince (One Step Beyond Track 6)](https://www.youtube.com/watch?v=mJsUblCxuJY)

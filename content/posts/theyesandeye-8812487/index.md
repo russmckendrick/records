@@ -36,13 +36,13 @@ styles: ["Folk"]
 
 
 ## Videos
-### Hope & Glory
-{{< youtube id="CNp7BhdRXpI" title="Hope & Glory" >}}<br>
+### Angels
+{{< youtube id="SKMX6PlDXC4" title="Angels" >}}<br>
 
 ### More Videos
 
-- [Angels](https://www.youtube.com/watch?v=SKMX6PlDXC4)
 - [Full Moon](https://www.youtube.com/watch?v=OwB7wrcIiz4)
+- [Hope & Glory](https://www.youtube.com/watch?v=CNp7BhdRXpI)
 - [Them](https://www.youtube.com/watch?v=KRCRpnshFs4)
 - [Sea Organ](https://www.youtube.com/watch?v=iFHjVrLQkkM)
 - [Sun & Moon](https://www.youtube.com/watch?v=YW_cFvutyl4)

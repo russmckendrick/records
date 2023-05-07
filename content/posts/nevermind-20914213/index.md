@@ -43,12 +43,11 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Nirvana - On A Plain (Audio)
-{{< youtube id="c023U4oQGr4" title="Nirvana - On A Plain (Audio)" >}}<br>
+### Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)
+{{< youtube id="L1lTdnFQZw4" title="Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)" >}}<br>
 
 ### More Videos
 
-- [Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)](https://www.youtube.com/watch?v=L1lTdnFQZw4)
 - [Nirvana - Smells Like Teen Spirit (Official Music Video)](https://www.youtube.com/watch?v=hTWKbfoikeg)
 - [Nirvana - In Bloom (Official Music Video)](https://www.youtube.com/watch?v=PbgKEjNBHqM)
 - [Nirvana - Come As You Are (Official Music Video)](https://www.youtube.com/watch?v=vabnZ9-ex7o)
@@ -59,6 +58,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Nirvana - Drain You (Audio)](https://www.youtube.com/watch?v=AJUpHxlJUNQ)
 - [Nirvana - Lounge Act (Audio)](https://www.youtube.com/watch?v=dZqpol8Yrq8)
 - [Nirvana - Stay Away (Audio)](https://www.youtube.com/watch?v=vnHm-u4IYuo)
+- [Nirvana - On A Plain (Audio)](https://www.youtube.com/watch?v=c023U4oQGr4)
 - [Nirvana - Something In The Way (Audio)](https://www.youtube.com/watch?v=4VxdufqB9zg)
 - [Nirvana - Endless, Nameless (Audio)](https://www.youtube.com/watch?v=uj1PagCfejs)
 - [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)

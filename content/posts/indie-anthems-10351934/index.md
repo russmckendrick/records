@@ -48,12 +48,11 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 
 
 ## Videos
-### TEENAGE FANCLUB - Sparky's dream
-{{< youtube id="9buNckusos0" title="TEENAGE FANCLUB - Sparky's dream" >}}<br>
+### Suede - Trash
+{{< youtube id="-PdKGDMhau4" title="Suede - Trash" >}}<br>
 
 ### More Videos
 
-- [Suede - Trash](https://www.youtube.com/watch?v=-PdKGDMhau4)
 - [Radiohead - Just](https://www.youtube.com/watch?v=oIFLtNYI3Ls)
 - [The Charlatans - One To Another](https://www.youtube.com/watch?v=uxyQ5ByKLfE)
 - [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
@@ -71,6 +70,7 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 - [Ashes](https://www.youtube.com/watch?v=J_4xS6rcTs0)
 - [Travis - Sing (Official Video)](https://www.youtube.com/watch?v=eYO1-gGWJyo)
 - [Pixies - Here Comes Your Man (Official Video)](https://www.youtube.com/watch?v=tPgf_btTFlc)
+- [TEENAGE FANCLUB - Sparky's dream](https://www.youtube.com/watch?v=9buNckusos0)
 - [Spiritualized - Come Together (Official Music Video)](https://www.youtube.com/watch?v=uWOdSeDzyy4)
 
 

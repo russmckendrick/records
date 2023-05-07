@@ -47,12 +47,12 @@ styles: []
 
 
 ## Videos
-### Crowded House - It's Only Natural
-{{< youtube id="duf-dofeoms" title="Crowded House - It's Only Natural" >}}<br>
+### Crowded House - Don't Dream It's Over (Official Video)
+{{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Crowded House - Don't Dream It's Over (Official Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
+- [Crowded House - It's Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 

@@ -39,14 +39,14 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Maggie Bell  -  A Woman Left Lonely
-{{< youtube id="rdL9thGP0b4" title="Maggie Bell  -  A Woman Left Lonely" >}}<br>
+### Maggie Bell - Queen Of The Night (1974) [ Complete LP]
+{{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night (1974) [ Complete LP]" >}}<br>
 
 ### More Videos
 
-- [Maggie Bell - Queen Of The Night (1974) [ Complete LP]](https://www.youtube.com/watch?v=vAKYmPkeHuk)
 - [Maggie Bell - Queen of the Night](https://www.youtube.com/watch?v=QXA3n769Jdg)
 - [Maggie Bell - Caddo Queen](https://www.youtube.com/watch?v=sY8uBUavak0)
+- [Maggie Bell  -  A Woman Left Lonely](https://www.youtube.com/watch?v=rdL9thGP0b4)
 - [Maggie Bell - A Woman Left Lonely](https://www.youtube.com/watch?v=q8Em1G6Fl1U)
 - [As the Years Go Passing By- Maggie Bell (HQ)](https://www.youtube.com/watch?v=vDidE0uVpjA)
 

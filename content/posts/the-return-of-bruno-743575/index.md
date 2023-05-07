@@ -38,13 +38,13 @@ styles: ["Blues Rock", "Pop Rock"]
 
 
 ## Videos
-### Return of Bruno
-{{< youtube id="Z6hJn272wIM" title="Return of Bruno" >}}<br>
+### Jackpot (Bruno's Bop)
+{{< youtube id="Z2uComF6LuY" title="Jackpot (Bruno's Bop)" >}}<br>
 
 ### More Videos
 
-- [Jackpot (Bruno's Bop)](https://www.youtube.com/watch?v=Z2uComF6LuY)
 - [Bruce Willis - Secret Agent Man](https://www.youtube.com/watch?v=3v6pBscvuZI)
+- [Return of Bruno](https://www.youtube.com/watch?v=Z6hJn272wIM)
 - [Under The Boardwalk - Bruce Willis - The Return of Bruno](https://www.youtube.com/watch?v=gH2zJfK0B0Q)
 - [Bruce Willis (The Return of Bruno)](https://www.youtube.com/watch?v=WIciG46xNdg)
 - [Bruce Willis - Down in Hollywood](https://www.youtube.com/watch?v=BY2oWGpNF_s)

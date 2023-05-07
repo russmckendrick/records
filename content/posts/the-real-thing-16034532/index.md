@@ -37,12 +37,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Chinese Arithmetic (Live in Sheffield) (B-Side)
-{{< youtube id="0jB7-5-Z_qc" title="Chinese Arithmetic (Live in Sheffield) (B-Side)" >}}<br>
+### Faith No More - From Out Of Nowhere (Official Music Video)
+{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
 - [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
 - [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
 - [Zombie Eaters](https://www.youtube.com/watch?v=33dAH1vC4K0)
@@ -58,6 +57,7 @@ styles: ["Alternative Rock"]
 - [From out of Nowhere (Extended Remix)](https://www.youtube.com/watch?v=7_-Mg20ISiU)
 - [War Pigs (Live in Berlin 11.9.1989)](https://www.youtube.com/watch?v=305qpNQfhq8)
 - [Surprise! You're Dead! (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=Io1zkvfbQrs)
+- [Chinese Arithmetic (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=0jB7-5-Z_qc)
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 

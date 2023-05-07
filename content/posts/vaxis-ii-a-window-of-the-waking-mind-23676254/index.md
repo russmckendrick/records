@@ -41,12 +41,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Coheed and Cambria - The Liars Club (Performance Video)
-{{< youtube id="N-yvF7Lngr8" title="Coheed and Cambria - The Liars Club (Performance Video)" >}}<br>
+### Coheed and Cambria - The Embers of Fire (Official Audio)
+{{< youtube id="9NBaKRUrr_M" title="Coheed and Cambria - The Embers of Fire (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Coheed and Cambria - The Embers of Fire (Official Audio)](https://www.youtube.com/watch?v=9NBaKRUrr_M)
 - [Coheed and Cambria - A Disappearing Act (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=qmMI6fEpxns)
 - [Coheed and Cambria - Beautiful Losers (Official Audio)](https://www.youtube.com/watch?v=XZpM_G2i5Uo)
 - [Coheed and Cambria - Comatose [OFFICIAL LYRIC VIDEO]](https://www.youtube.com/watch?v=sG940KWNeI8)
@@ -60,6 +59,7 @@ styles: ["Prog Rock"]
 - [Coheed and Cambria - Ladders of Supremacy (Official Audio)](https://www.youtube.com/watch?v=1YNsq20co-o)
 - [Coheed and Cambria - Rise, Naianasha (Cut The Cord) [Official Lyric Video]](https://www.youtube.com/watch?v=2BFqmKtLj1s)
 - [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
+- [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)
 
 
 ## Release Information

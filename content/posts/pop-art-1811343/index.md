@@ -38,12 +38,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Revolution Baby
-{{< youtube id="xsv5dhQALAs" title="Revolution Baby" >}}<br>
+### Transvision Vamp - I Want Your Love (1988)
+{{< youtube id="l3u3lc3II-I" title="Transvision Vamp - I Want Your Love (1988)" >}}<br>
 
 ### More Videos
 
-- [Transvision Vamp - I Want Your Love (1988)](https://www.youtube.com/watch?v=l3u3lc3II-I)
 - [Transvision Vamp Pop Art + Velveteen (The video Singles) VHS](https://www.youtube.com/watch?v=EyYSLqqmZ_k)
 - [Transvision Vamp - Revolution Baby (1988)](https://www.youtube.com/watch?v=yB-YpycXhvM)
 - [Andy Warhol's Dead](https://www.youtube.com/watch?v=toPtvO6QXwk)
@@ -60,6 +59,7 @@ styles: ["Pop Rock"]
 - [Sister Moon (Groove On)](https://www.youtube.com/watch?v=_8lJ18PspyE)
 - [Trash City](https://www.youtube.com/watch?v=tftptvlqPsA)
 - [Andy Warhol's Dead (Andy Kershaw BBC Session)](https://www.youtube.com/watch?v=0Qx1WzFazCI)
+- [Revolution Baby](https://www.youtube.com/watch?v=xsv5dhQALAs)
 
 
 ## Release Information

@@ -35,13 +35,13 @@ styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 
 
 ## Videos
-### Funkadelic - Can You Get To That (HQ)
-{{< youtube id="8rrOdcnFbAY" title="Funkadelic - Can You Get To That (HQ)" >}}<br>
+### Funkadelic - Maggot Brain [HQ]
+{{< youtube id="JOKn33-q4Ao" title="Funkadelic - Maggot Brain [HQ]" >}}<br>
 
 ### More Videos
 
-- [Funkadelic - Maggot Brain [HQ]](https://www.youtube.com/watch?v=JOKn33-q4Ao)
 - [Funkadelic - Maggot Brain (full album)](https://www.youtube.com/watch?v=21sP7orRS3c)
+- [Funkadelic - Can You Get To That (HQ)](https://www.youtube.com/watch?v=8rrOdcnFbAY)
 
 
 ## Release Information

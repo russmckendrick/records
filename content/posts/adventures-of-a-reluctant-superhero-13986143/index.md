@@ -42,12 +42,11 @@ styles: []
 
 
 ## Videos
-### Distance
-{{< youtube id="qi0unYZA5Fg" title="Distance" >}}<br>
+### Stay Tuned - Chali 2na and Krafty Kuts
+{{< youtube id="Zzs5wXa3-Jk" title="Stay Tuned - Chali 2na and Krafty Kuts" >}}<br>
 
 ### More Videos
 
-- [Stay Tuned - Chali 2na and Krafty Kuts](https://www.youtube.com/watch?v=Zzs5wXa3-Jk)
 - [Bruce 2na](https://www.youtube.com/watch?v=a9AcviLZ_nU)
 - [Guard The Fort (Radio Edit)](https://www.youtube.com/watch?v=tjSkYsL8fvM)
 - [Black Vapor](https://www.youtube.com/watch?v=oBo0xTEeovw)
@@ -63,6 +62,7 @@ styles: []
 - [Superhero Kit](https://www.youtube.com/watch?v=LLtMYPjAit4)
 - [South Coast Rocks](https://www.youtube.com/watch?v=iX_6onkjLEk)
 - [Hands High](https://www.youtube.com/watch?v=c9JFNWYp9Lo)
+- [Distance](https://www.youtube.com/watch?v=qi0unYZA5Fg)
 
 
 ## Release Information

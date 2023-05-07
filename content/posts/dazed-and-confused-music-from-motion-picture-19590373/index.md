@@ -39,12 +39,11 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Rock N' Roll All Night ( Good Quality ) - Kiss
-{{< youtube id="mSYXXIW9gfE" title="Rock N' Roll All Night ( Good Quality ) - Kiss" >}}<br>
+### Rock and Roll, Hoochie Koo
+{{< youtube id="KdSQA3SgWqk" title="Rock and Roll, Hoochie Koo" >}}<br>
 
 ### More Videos
 
-- [Rock and Roll, Hoochie Koo](https://www.youtube.com/watch?v=KdSQA3SgWqk)
 - [Slow Ride](https://www.youtube.com/watch?v=yaMNseIe_vI)
 - [School's Out](https://www.youtube.com/watch?v=gcVEhtojXlc)
 - [Jim Dandy](https://www.youtube.com/watch?v=VxMM_IP1C2E)
@@ -56,6 +55,7 @@ styles: ["Classic Rock"]
 - [Lowrider War](https://www.youtube.com/watch?v=ro4yhp9L6Ok)
 - [Tuesday's Gone](https://www.youtube.com/watch?v=iExsbDuVqeE)
 - [Deep Purple - Highway Star 1972 Video HQ](https://www.youtube.com/watch?v=UAKCR7kQMTQ)
+- [Rock N' Roll All Night ( Good Quality ) - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
 - [Paranoid (2012 - Remaster)](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
 

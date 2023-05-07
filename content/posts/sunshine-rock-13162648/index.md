@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 
 
 ## Videos
-### Bob Mould - Lost Faith (Official Music Video)
-{{< youtube id="k5F-aj171QM" title="Bob Mould - Lost Faith (Official Music Video)" >}}<br>
+### Bob Mould Sunshine Rock
+{{< youtube id="ZHQUyZnS7qo" title="Bob Mould Sunshine Rock" >}}<br>
 
 ### More Videos
 
-- [Bob Mould Sunshine Rock](https://www.youtube.com/watch?v=ZHQUyZnS7qo)
+- [Bob Mould - Lost Faith (Official Music Video)](https://www.youtube.com/watch?v=k5F-aj171QM)
 - [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
 
 

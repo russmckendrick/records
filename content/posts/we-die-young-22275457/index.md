@@ -28,14 +28,14 @@ styles: ["Alternative Metal", "Grunge"]
 
 
 ## Videos
-### Killing Yourself - Alice in Chains
-{{< youtube id="6e8l4TPdVCI" title="Killing Yourself - Alice in Chains" >}}<br>
+### Alice In Chains - We Die Young (Official HD Video)
+{{< youtube id="6JA25BIxgtk" title="Alice In Chains - We Die Young (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Alice In Chains - We Die Young (Official HD Video)](https://www.youtube.com/watch?v=6JA25BIxgtk)
 - [Alice in Chains - It Ain't Like That (1990)](https://www.youtube.com/watch?v=xLsc9rygd8k)
 - [Alice in Chains - Killing Yourself - We Die Young EP](https://www.youtube.com/watch?v=MtrLJrMZwMo)
+- [Killing Yourself - Alice in Chains](https://www.youtube.com/watch?v=6e8l4TPdVCI)
 
 
 ## Release Information

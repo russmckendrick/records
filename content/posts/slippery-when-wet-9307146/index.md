@@ -38,12 +38,12 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Videos
-### Bon Jovi - You Give Love A Bad Name (Official Music Video)
-{{< youtube id="KrZHPOeOxQQ" title="Bon Jovi - You Give Love A Bad Name (Official Music Video)" >}}<br>
+### Bon Jovi - Wanted Dead Or Alive (Official Music Video)
+{{< youtube id="SRvCvsRp5ho" title="Bon Jovi - Wanted Dead Or Alive (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Bon Jovi - Wanted Dead Or Alive (Official Music Video)](https://www.youtube.com/watch?v=SRvCvsRp5ho)
+- [Bon Jovi - You Give Love A Bad Name (Official Music Video)](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
 - [Bon Jovi - Livin' On A Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
 - [LP / Bon Jovi – Slippery When Wet / 1986](https://www.youtube.com/watch?v=YfQjIPPL4tg)
 - [Bon Jovi - Never Say Goodbye (Official Music Video)](https://www.youtube.com/watch?v=ifm00JEjSeo)

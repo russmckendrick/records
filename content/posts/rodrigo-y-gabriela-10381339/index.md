@@ -47,13 +47,13 @@ styles: ["Acoustic"]
 
 
 ## Videos
-### Rodrigo Y Gabriela - Orion   (Metallica cover)
-{{< youtube id="_zwKvCXw_8M" title="Rodrigo Y Gabriela - Orion   (Metallica cover)" >}}<br>
+### Rodrigo y Gabriela - Diablo Rojo (HQ)
+{{< youtube id="l_cJ5fvVhiI" title="Rodrigo y Gabriela - Diablo Rojo (HQ)" >}}<br>
 
 ### More Videos
 
-- [Rodrigo y Gabriela - Diablo Rojo (HQ)](https://www.youtube.com/watch?v=l_cJ5fvVhiI)
 - [Rodrigo y Gabriela- Hanuman OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
+- [Rodrigo Y Gabriela - Orion   (Metallica cover)](https://www.youtube.com/watch?v=_zwKvCXw_8M)
 - [Rodrigo y Gabriela - Orion (Studio Version)](https://www.youtube.com/watch?v=GP6rkf3qB0c)
 - [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=g2BBiKu-zmg)
 - [Rodrigo y Gabriela | Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)

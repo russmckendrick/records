@@ -35,17 +35,17 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Spiritualized - Crazy (Official Music Video)
-{{< youtube id="3vCcjlcJ8JM" title="Spiritualized - Crazy (Official Music Video)" >}}<br>
+### Spiritualized - Always Together With You (Official Music Video)
+{{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Spiritualized - Always Together With You (Official Music Video)](https://www.youtube.com/watch?v=ME0ji3o05UQ)
 - [[FULL ALBUM] Spiritualized - Everything Was Beautiful (2022)](https://www.youtube.com/watch?v=nunIIDrWiqQ)
 - [Spiritualized - Crazy (Official Audio)](https://www.youtube.com/watch?v=DsAcPAE3moM)
 - [Spiritualized  - Mainline Song (Official Audio)](https://www.youtube.com/watch?v=ie46jOrQ2Hk)
 - [Everything Was Beautiful and Nothing Hurt](https://www.youtube.com/watch?v=OAhFS5Sl1V8)
 - [Spiritualized - The Mainline Song (Official Video)](https://www.youtube.com/watch?v=hze3Su59kFE)
+- [Spiritualized - Crazy (Official Music Video)](https://www.youtube.com/watch?v=3vCcjlcJ8JM)
 
 
 ## Release Information

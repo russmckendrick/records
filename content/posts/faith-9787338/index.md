@@ -37,12 +37,11 @@ styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 
 
 ## Videos
-### I Want Your Sex (Pts. 1 & 2 Remastered)
-{{< youtube id="-pIRNx6Q3aE" title="I Want Your Sex (Pts. 1 & 2 Remastered)" >}}<br>
+### George Michael - Faith (Official Video)
+{{< youtube id="6Cs3Pvmmv0E" title="George Michael - Faith (Official Video)" >}}<br>
 
 ### More Videos
 
-- [George Michael - Faith (Official Video)](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
 - [George Michael - One More Try](https://www.youtube.com/watch?v=bG5N3GC-m20)
 - [George Michael - I Want Your Sex (Official Video)](https://www.youtube.com/watch?v=r3AP26ywQsQ)
 - [George Michael - Kissing a Fool](https://www.youtube.com/watch?v=hhmj6Gm-6Do)
@@ -52,6 +51,7 @@ styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 - [Monkey (A cappella Remastered)](https://www.youtube.com/watch?v=BcuCJwqjJx8)
 - [Kissing a Fool (Remastered)](https://www.youtube.com/watch?v=2oMBNwv4OW4)
 - [Father Figure (Remastered)](https://www.youtube.com/watch?v=2WNVNAOQWCE)
+- [I Want Your Sex (Pts. 1 & 2 Remastered)](https://www.youtube.com/watch?v=-pIRNx6Q3aE)
 - [One More Try (Remastered)](https://www.youtube.com/watch?v=gQn2xzLLSyo)
 - [Hard Day (Remastered)](https://www.youtube.com/watch?v=tdIMU6Y-uEk)
 - [A Last Request (I Want Your Sex) (Remastered)](https://www.youtube.com/watch?v=xwn7eCIMxk8)

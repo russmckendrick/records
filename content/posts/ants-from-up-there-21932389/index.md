@@ -38,18 +38,18 @@ styles: ["Folk Rock", "Experimental"]
 
 
 ## Videos
-### Black Country, New Road - 'The Place Where He Inserted the Blade' (Official Audio)
-{{< youtube id="YPrs3DqraWM" title="Black Country, New Road - 'The Place Where He Inserted the Blade' (Official Audio)" >}}<br>
+### Black Country, New Road - 'Intro' (Official Audio)
+{{< youtube id="hg2FriyudSw" title="Black Country, New Road - 'Intro' (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Black Country, New Road - 'Intro' (Official Audio)](https://www.youtube.com/watch?v=hg2FriyudSw)
 - [Black Country, New Road - 'Chaos Space Marine' (Official Audio)](https://www.youtube.com/watch?v=Jqy6WPSfZSA)
 - [Black Country, New Road - 'Concorde' (Official Video)](https://www.youtube.com/watch?v=yjC4qXiBRu4)
 - [Black Country, New Road - 'Bread Song' (Official Audio)](https://www.youtube.com/watch?v=Hi8HjWTUqwI)
 - [Black Country, New Road - 'Good Will Hunting' (Official Audio)](https://www.youtube.com/watch?v=EX67uWOlbgs)
 - [Black Country, New Road - 'Haldern' (Official Audio)](https://www.youtube.com/watch?v=K9osutGvu64)
 - [Black Country, New Road - 'Mark’s Theme' (Official Audio)](https://www.youtube.com/watch?v=UlRdFR5owyI)
+- [Black Country, New Road - 'The Place Where He Inserted the Blade' (Official Audio)](https://www.youtube.com/watch?v=YPrs3DqraWM)
 - [Black Country, New Road - 'Snow Globes' (Official Audio)](https://www.youtube.com/watch?v=hTVwQ1Gjqas)
 - [Black Country, New Road - 'Basketball Shoes' (Official Audio)](https://www.youtube.com/watch?v=uOnjuIb1TWY)
 

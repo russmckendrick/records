@@ -52,17 +52,17 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Buffalo Tom - Larry
-{{< youtube id="OJ09IPoF3os" title="Buffalo Tom - Larry" >}}<br>
+### Stymied
+{{< youtube id="GZAiJhZgmdo" title="Stymied" >}}<br>
 
 ### More Videos
 
-- [Stymied](https://www.youtube.com/watch?v=GZAiJhZgmdo)
 - [Buffalo Tom - Taillights Fade (Acoustic MTV 120 Minutes)](https://www.youtube.com/watch?v=CI79ViVzGwg)
 - [Buffalo Tom - Taillights Fade](https://www.youtube.com/watch?v=sEjmJ1Ge00U)
 - [Buffalo Tom - Velvet Roof](https://www.youtube.com/watch?v=P1LFwWyXs2I)
 - [Buffalo Tom - Darl (1992)](https://www.youtube.com/watch?v=ou170-VJzQY)
 - [Buffalo Tom - Frozen Lake (1992)](https://www.youtube.com/watch?v=watFbEYyFAw)
+- [Buffalo Tom - Larry](https://www.youtube.com/watch?v=OJ09IPoF3os)
 - [Buffalo Tom - Crutch (Album Version)](https://www.youtube.com/watch?v=xbvrADHK9BM)
 
 

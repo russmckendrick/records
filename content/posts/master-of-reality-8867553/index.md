@@ -36,16 +36,16 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 
 ## Videos
-### Lord of this World (2009 - Remaster)
-{{< youtube id="rCJ95vya8l0" title="Lord of this World (2009 - Remaster)" >}}<br>
+### After Forever (2009 - Remaster)
+{{< youtube id="F-VfSPA8iLc" title="After Forever (2009 - Remaster)" >}}<br>
 
 ### More Videos
 
-- [After Forever (2009 - Remaster)](https://www.youtube.com/watch?v=F-VfSPA8iLc)
 - [Black Sabbath - Children Of The Grave/Embryo](https://www.youtube.com/watch?v=X7UZeHvMYZA)
 - [Black Sabbath - Master of Reality (Full Album) [Official Video]](https://www.youtube.com/watch?v=-8rj7dH5at4)
 - [Embryo (2009 - Remaster)](https://www.youtube.com/watch?v=a6Di2JW-0yc)
 - [Orchid (2009 - Remaster)](https://www.youtube.com/watch?v=9eHNPWyF_uk)
+- [Lord of this World (2009 - Remaster)](https://www.youtube.com/watch?v=rCJ95vya8l0)
 - [Solitude (2009 - Remaster)](https://www.youtube.com/watch?v=lejk2BmBbvk)
 - [Into the Void (2009 - Remaster)](https://www.youtube.com/watch?v=-R5XnrZn47Q)
 

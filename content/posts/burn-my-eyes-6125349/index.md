@@ -36,13 +36,13 @@ styles: ["Thrash", "Heavy Metal"]
 
 
 ## Videos
-### Machine Head - Davidian
-{{< youtube id="_mWPPBW4DU8" title="Machine Head - Davidian" >}}<br>
+### Machine Head - Old [OFFICIAL VIDEO]
+{{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Machine Head - Old [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=r2dY8Vv_TFY)
 - [Davidian](https://www.youtube.com/watch?v=sM8Awen6umM)
+- [Machine Head - Davidian](https://www.youtube.com/watch?v=_mWPPBW4DU8)
 - [Old](https://www.youtube.com/watch?v=Z7Zs_TLa81Y)
 - [A Thousand Lies](https://www.youtube.com/watch?v=FqV3OzRs-6Q)
 - [The Rage to Overcome](https://www.youtube.com/watch?v=Yt9iQwqf0ec)

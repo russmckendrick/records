@@ -34,13 +34,13 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Magnetoforia
-{{< youtube id="i6T0RcYZtPo" title="Magnetoforia" >}}<br>
+### Oilyvoice
+{{< youtube id="_jyi8X3NxrY" title="Oilyvoice" >}}<br>
 
 ### More Videos
 
-- [Oilyvoice](https://www.youtube.com/watch?v=_jyi8X3NxrY)
 - [Seen the Sun](https://www.youtube.com/watch?v=3mCX3G_7Z3Q)
+- [Magnetoforia](https://www.youtube.com/watch?v=i6T0RcYZtPo)
 - [Floating Plates](https://www.youtube.com/watch?v=HDszAKfSASo)
 - [Infinity Curtains](https://www.youtube.com/watch?v=8hm4FG_UmEI)
 - [Starseeds](https://www.youtube.com/watch?v=4A560y7IJ3s)

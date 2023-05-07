@@ -70,12 +70,11 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Slow Divers (Live)
-{{< youtube id="g89cx6BZ1bQ" title="Slow Divers (Live)" >}}<br>
+### Jane's Addiction - Mountain Song (Official Video)
+{{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Jane's Addiction - Mountain Song (Official Video)](https://www.youtube.com/watch?v=1kAIMlISHhU)
 - [Up the Beach](https://www.youtube.com/watch?v=eEORxpfQMTA)
 - [Ted, Just Admit It...](https://www.youtube.com/watch?v=5WZL176LnOY)
 - [Had a Dad](https://www.youtube.com/watch?v=2q0jl6mL-VA)
@@ -90,6 +89,7 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [My Cat's Name Is Maceo (Demo)](https://www.youtube.com/watch?v=-CUkqZezD-I)
 - [City (Soul Kiss 88)](https://www.youtube.com/watch?v=wP588k4mHLo)
 - [Been Caught Stealing (Studio Out-Take)](https://www.youtube.com/watch?v=lhWez4MO6DM)
+- [Slow Divers (Live)](https://www.youtube.com/watch?v=g89cx6BZ1bQ)
 
 
 ## Release Information

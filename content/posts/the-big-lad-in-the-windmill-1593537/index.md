@@ -38,12 +38,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### It Bites -Tokyo 10/10/1989 #1
-{{< youtube id="6XE1NG9zaYU" title="It Bites -Tokyo 10/10/1989 #1" >}}<br>
+### Calling All The Heroes - It Bites
+{{< youtube id="3hIWY-ir0s8" title="Calling All The Heroes - It Bites" >}}<br>
 
 ### More Videos
 
-- [Calling All The Heroes - It Bites](https://www.youtube.com/watch?v=3hIWY-ir0s8)
+- [It Bites -Tokyo 10/10/1989 #1](https://www.youtube.com/watch?v=6XE1NG9zaYU)
 - [It Bites - Wanna shout](https://www.youtube.com/watch?v=9GX4l_mXyu4)
 - [It Bites - Munich 09/02/1987](https://www.youtube.com/watch?v=Dy0v7c4r24Y)
 - [It Bites - Tokyo 10/10/1989 #2](https://www.youtube.com/watch?v=wRgxjj9HdIE)

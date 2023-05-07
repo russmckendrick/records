@@ -45,15 +45,15 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Telegraph Avenue - Rancid
-{{< youtube id="2hcr2RdhWJ0" title="Telegraph Avenue - Rancid" >}}<br>
+### Where I'm Going - Rancid
+{{< youtube id="pYnKxE1ezUc" title="Where I'm Going - Rancid" >}}<br>
 
 ### More Videos
 
-- [Where I'm Going - Rancid](https://www.youtube.com/watch?v=pYnKxE1ezUc)
 - [Say Goodbye To Our Heroes - Rancid](https://www.youtube.com/watch?v=8PAYhHL3lGs)
 - [This Is Not The End - Rancid](https://www.youtube.com/watch?v=v4KK5RKucq8)
 - [An Intimate Close Up of a Street Punk Trouble Maker - Rancid](https://www.youtube.com/watch?v=hKeH-vtQIdo)
+- [Telegraph Avenue - Rancid](https://www.youtube.com/watch?v=2hcr2RdhWJ0)
 
 
 ## Release Information

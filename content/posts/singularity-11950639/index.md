@@ -37,12 +37,11 @@ styles: ["Tech House", "Electro", "Experimental"]
 
 
 ## Videos
-### Recovery
-{{< youtube id="MaqlsAmlbzo" title="Recovery" >}}<br>
+### Jon Hopkins - Emerald Rush (Official Video)
+{{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Jon Hopkins - Emerald Rush (Official Video)](https://www.youtube.com/watch?v=4sk0uDbM5lc)
 - [Jon Hopkins - Singularity (Official Video)](https://www.youtube.com/watch?v=lkvnpHFajt0)
 - [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
 - [Jon Hopkins - Singularity (ANNA Remix) (Official Audio)](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
@@ -52,6 +51,7 @@ styles: ["Tech House", "Electro", "Experimental"]
 - [C O S M](https://www.youtube.com/watch?v=nMTF-IocBi4)
 - [Echo Dissolve](https://www.youtube.com/watch?v=2vYOYz6zVyA)
 - [Jon Hopkins - Luminous Beings (HQ audio)](https://www.youtube.com/watch?v=ogMGGaeecww)
+- [Recovery](https://www.youtube.com/watch?v=MaqlsAmlbzo)
 
 
 ## Release Information

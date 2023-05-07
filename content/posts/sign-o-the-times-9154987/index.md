@@ -44,12 +44,11 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 
 
 ## Videos
-### It's Gonna Be A Beautiful Night (2020 Remaster)
-{{< youtube id="hGKh0TVJ2Bs" title="It's Gonna Be A Beautiful Night (2020 Remaster)" >}}<br>
+### Prince - I Could Never Take The Place Of Your Man (Official Music Video)
+{{< youtube id="t5Px4jY1TVc" title="Prince - I Could Never Take The Place Of Your Man (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Prince - I Could Never Take The Place Of Your Man (Official Music Video)](https://www.youtube.com/watch?v=t5Px4jY1TVc)
 - [Play In The Sunshine (2020 Remaster)](https://www.youtube.com/watch?v=TNPg22bMiZc)
 - [Sign 'O' the Times](https://www.youtube.com/watch?v=ySAobTZLpD4)
 - [The Cross](https://www.youtube.com/watch?v=_REFPbBnGJk)
@@ -66,6 +65,7 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 - [If I Was Your Girlfriend (2020 Remaster)](https://www.youtube.com/watch?v=6gVIHsgiKb0)
 - [Strange Relationship (2020 Remaster)](https://www.youtube.com/watch?v=8ejxV690HeA)
 - [The Cross (2020 Remaster)](https://www.youtube.com/watch?v=D9s2nqF4hOI)
+- [It's Gonna Be A Beautiful Night (2020 Remaster)](https://www.youtube.com/watch?v=hGKh0TVJ2Bs)
 - [Adore (2020 Remaster)](https://www.youtube.com/watch?v=v8fLjiar1c8)
 
 

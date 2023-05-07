@@ -45,13 +45,13 @@ styles: ["Vocal"]
 
 
 ## Videos
-### When the Swallows Come Back to Capistrano
-{{< youtube id="X2Fg7eJ7TPU" title="When the Swallows Come Back to Capistrano" >}}<br>
+### If I Didn't Care
+{{< youtube id="Xt3QYPkoa64" title="If I Didn't Care" >}}<br>
 
 ### More Videos
 
-- [If I Didn't Care](https://www.youtube.com/watch?v=Xt3QYPkoa64)
 - [Bless You (For Being An Angel)](https://www.youtube.com/watch?v=XIuNdUNhQ_I)
+- [When the Swallows Come Back to Capistrano](https://www.youtube.com/watch?v=X2Fg7eJ7TPU)
 - [Whispering Grass (Don't Tell The Trees)](https://www.youtube.com/watch?v=v5rdLrZu6YM)
 - [Maybe](https://www.youtube.com/watch?v=cSv7Nq2ia_Y)
 - [Java Jive](https://www.youtube.com/watch?v=R9jc0qNvVQk)

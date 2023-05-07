@@ -39,15 +39,15 @@ styles: ["Southern Rock"]
 
 
 ## Videos
-### Small Town
-{{< youtube id="_EO-6KpyYQ4" title="Small Town" >}}<br>
+### Rain On The Scarecrow ~ John Cougar Mellencamp 1985 Scarecrow ~ MERCURY LP
+{{< youtube id="1jlOJ7X3O60" title="Rain On The Scarecrow ~ John Cougar Mellencamp 1985 Scarecrow ~ MERCURY LP" >}}<br>
 
 ### More Videos
 
-- [Rain On The Scarecrow ~ John Cougar Mellencamp 1985 Scarecrow ~ MERCURY LP](https://www.youtube.com/watch?v=1jlOJ7X3O60)
 - [Rain On The Scarecrow-John Cougar Mellencamp +Lyrics](https://www.youtube.com/watch?v=Me-YOqjTf9M)
 - [Rain On The Scarecrow](https://www.youtube.com/watch?v=Ea9IyrTDNXQ)
 - [Grandma's Theme](https://www.youtube.com/watch?v=ebeau6rE0cY)
+- [Small Town](https://www.youtube.com/watch?v=_EO-6KpyYQ4)
 - [Minutes To Memories](https://www.youtube.com/watch?v=ZD_2z-U6mAo)
 - [Lonely Ol' Night](https://www.youtube.com/watch?v=azZAeSKgWUE)
 - [The Face Of The Nation](https://www.youtube.com/watch?v=1PwnIinH6Qw)

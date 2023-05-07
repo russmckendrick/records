@@ -41,12 +41,11 @@ styles: ["Drum n Bass", "Jungle"]
 
 
 ## Videos
-### Goldie / Timeless
-{{< youtube id="UHnE7N79rBQ" title="Goldie / Timeless" >}}<br>
+### Goldie - Inner City Life (Official Music Video)
+{{< youtube id="i-P98B2skts" title="Goldie - Inner City Life (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Goldie - Inner City Life (Official Music Video)](https://www.youtube.com/watch?v=i-P98B2skts)
 - [Goldie - Kemistry (V.I.P Mix)](https://www.youtube.com/watch?v=qL_jXmEgN_Q)
 - [Goldie & Metalheadz - Inner City Life (Baby Boy's Edit)](https://www.youtube.com/watch?v=5dfzVzv6a4w)
 - [Goldie - Timeless](https://www.youtube.com/watch?v=Usqwy2-E4SE)
@@ -81,6 +80,7 @@ styles: ["Drum n Bass", "Jungle"]
 - [Goldie - Timeless](https://www.youtube.com/watch?v=X6h2Wgs1nkA)
 - [Goldie - Timeless](https://www.youtube.com/watch?v=OKHlQa-N8FU)
 - [GOLDIE - TIMELESS - PART 1/2 | London Real](https://www.youtube.com/watch?v=fTPMmV8-MHA)
+- [Goldie / Timeless](https://www.youtube.com/watch?v=UHnE7N79rBQ)
 - [Goldie - Timeless (Full Version)](https://www.youtube.com/watch?v=BzezB5An9SI)
 - [Goldie - State Of Mind](https://www.youtube.com/watch?v=eElkoPuJm6E)
 - [Goldie - Timeless](https://www.youtube.com/watch?v=LWdP9Y_ERf4)

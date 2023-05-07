@@ -43,12 +43,11 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 
 
 ## Videos
-### Atoms For Peace - Ingenue
-{{< youtube id="DpVfF4U75B8" title="Atoms For Peace - Ingenue" >}}<br>
+### Atoms For Peace - Before Your Very Eyes
+{{< youtube id="1GQF9y2dKv8" title="Atoms For Peace - Before Your Very Eyes" >}}<br>
 
 ### More Videos
 
-- [Atoms For Peace - Before Your Very Eyes](https://www.youtube.com/watch?v=1GQF9y2dKv8)
 - [Atoms For Peace - Default](https://www.youtube.com/watch?v=yxWBd840E9g)
 - [Atoms For Peace - Default](https://www.youtube.com/watch?v=zU7lArEL0qs)
 - [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=uK2sW_eaNqs)
@@ -59,6 +58,7 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 - [Atoms For Peace - Reverse Running](https://www.youtube.com/watch?v=l2yEXYCF7tg)
 - [Atoms For Peace - Amok](https://www.youtube.com/watch?v=dZHrwFvmRxg)
 - [Atoms For Peace - Before Your Very Eyes](https://www.youtube.com/watch?v=ZWrUEsVrdSU)
+- [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=DpVfF4U75B8)
 - [Atoms For Peace  - Judge Jury and Executioner](https://www.youtube.com/watch?v=LmNXMAQhp-I)
 
 

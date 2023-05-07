@@ -37,15 +37,15 @@ styles: ["Contemporary R&B", "Synth-pop"]
 
 
 ## Videos
-### You Can Be Mine
-{{< youtube id="gdhKkOodub8" title="You Can Be Mine" >}}<br>
+### Janet Jackson - Control
+{{< youtube id="LH8xbDGv7oY" title="Janet Jackson - Control" >}}<br>
 
 ### More Videos
 
-- [Janet Jackson - Control](https://www.youtube.com/watch?v=LH8xbDGv7oY)
 - [Control](https://www.youtube.com/watch?v=FMuoowyCkUU)
 - [Nasty](https://www.youtube.com/watch?v=nkTBzFUToLY)
 - [What Have You Done For Me Lately](https://www.youtube.com/watch?v=Q16EWAXwh94)
+- [You Can Be Mine](https://www.youtube.com/watch?v=gdhKkOodub8)
 - [The Pleasure Principle](https://www.youtube.com/watch?v=jXInTVW5h4Y)
 - [When I Think Of You](https://www.youtube.com/watch?v=gIgeh8PEQXI)
 - [He Doesn't Know I'm Alive](https://www.youtube.com/watch?v=FqVAAWyoirU)

@@ -44,13 +44,13 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 
 
 ## Videos
-### Interstellar Video Official
-{{< youtube id="D6-OHRup75c" title="Interstellar Video Official" >}}<br>
+### Amplifier  The Wave  HD
+{{< youtube id="mixPxkJswHA" title="Amplifier  The Wave  HD" >}}<br>
 
 ### More Videos
 
-- [Amplifier  The Wave  HD](https://www.youtube.com/watch?v=mixPxkJswHA)
 - [Unwrapping the new Octopus Media Book Format](https://www.youtube.com/watch?v=55cv0Ld7TAE)
+- [Interstellar Video Official](https://www.youtube.com/watch?v=D6-OHRup75c)
 - [Planet Of Insects](https://www.youtube.com/watch?v=UsJ_lzhiHb0)
 
 

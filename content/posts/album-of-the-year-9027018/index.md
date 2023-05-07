@@ -50,12 +50,11 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Got That Feeling
-{{< youtube id="6w3eoBs6ETg" title="Got That Feeling" >}}<br>
+### Collision
+{{< youtube id="otNNGROI0Cs" title="Collision" >}}<br>
 
 ### More Videos
 
-- [Collision](https://www.youtube.com/watch?v=otNNGROI0Cs)
 - [Faith No More - Stripsearch (Official Music Video)](https://www.youtube.com/watch?v=-_U6165DVeM)
 - [Faith No More - Last Cup of Sorrow (Official Music Video)](https://www.youtube.com/watch?v=gjEbHBafvm0)
 - [Naked in Front of the Computer](https://www.youtube.com/watch?v=R2c0AQb6OP8)
@@ -63,6 +62,7 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [Mouth to Mouth](https://www.youtube.com/watch?v=xFVdPKrvAwA)
 - [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
 - [She Loves Me Not](https://www.youtube.com/watch?v=aQtsznQtvJ0)
+- [Got That Feeling](https://www.youtube.com/watch?v=6w3eoBs6ETg)
 - [Paths of Glory](https://www.youtube.com/watch?v=zJ235otXHBI)
 - [Home Sick Home](https://www.youtube.com/watch?v=6gRC-oZZEhg)
 - [Pristina](https://www.youtube.com/watch?v=of0cPCjfCAM)

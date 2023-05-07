@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - Sennen
-{{< youtube id="_4FjWtH83Ho" title="Ride - Sennen" >}}<br>
+### Ride - Chelsea Girl
+{{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}<br>
 
 ### More Videos
 
-- [Ride - Chelsea Girl](https://www.youtube.com/watch?v=VukI-fMrNkM)
+- [Ride - Sennen](https://www.youtube.com/watch?v=_4FjWtH83Ho)
 
 
 ## Release Information

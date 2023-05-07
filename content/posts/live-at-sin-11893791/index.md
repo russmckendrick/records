@@ -62,14 +62,14 @@ styles: ["Folk Rock", "Art Rock"]
 
 
 ## Videos
-### jeff buckley - sweet thing
-{{< youtube id="3f08Erq5EK8" title="jeff buckley - sweet thing" >}}<br>
+### Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)
+{{< youtube id="GQm1cX8uWxE" title="Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)" >}}<br>
 
 ### More Videos
 
-- [Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)](https://www.youtube.com/watch?v=GQm1cX8uWxE)
 - [Night Flight (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=hYN8Mk54XHg)
 - [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
+- [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 
 
 ## Release Information

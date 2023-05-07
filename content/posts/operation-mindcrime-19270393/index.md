@@ -43,13 +43,13 @@ styles: ["Heavy Metal", "Progressive Metal"]
 
 
 ## Videos
-### Queensryche - I Don't Believe In Love
-{{< youtube id="2c3g6tTYoxM" title="Queensryche - I Don't Believe In Love" >}}<br>
+### Queensryche - Eyes Of A Stranger (Official Video)
+{{< youtube id="A4duZjxusGM" title="Queensryche - Eyes Of A Stranger (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Queensryche - Eyes Of A Stranger (Official Video)](https://www.youtube.com/watch?v=A4duZjxusGM)
 - [Queensryche - Suite Sister Mary (Official Video)](https://www.youtube.com/watch?v=8CZGion20E4)
+- [Queensryche - I Don't Believe In Love](https://www.youtube.com/watch?v=2c3g6tTYoxM)
 - [Queensryche - Operation: Mindcrime](https://www.youtube.com/watch?v=vAI2QOBMlTA)
 
 

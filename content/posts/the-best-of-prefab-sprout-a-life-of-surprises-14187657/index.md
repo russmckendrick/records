@@ -44,17 +44,17 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Goodbye Lucille #1
-{{< youtube id="wPQYgn7ASIc" title="Goodbye Lucille #1" >}}<br>
+### Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)
+{{< youtube id="FKZY_r0hKqg" title="Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)" >}}<br>
 
 ### More Videos
 
-- [Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)](https://www.youtube.com/watch?v=FKZY_r0hKqg)
 - [Prefab Sprout - If You Don't Love Me](https://www.youtube.com/watch?v=9FRQDOVSekE)
 - [Prefab Sprout — Wild Horses](https://www.youtube.com/watch?v=v3H3lKt5_BM)
 - [Life of Surprises](https://www.youtube.com/watch?v=NZ8NME3372M)
 - [When Love Breaks Down](https://www.youtube.com/watch?v=IjzAogwxQxM)
 - [Cars and Girls](https://www.youtube.com/watch?v=mKNL_VRus2o)
+- [Goodbye Lucille #1](https://www.youtube.com/watch?v=wPQYgn7ASIc)
 - [The King of Rock 'N' Roll](https://www.youtube.com/watch?v=IHDHB6qqp9o)
 - [Cruel](https://www.youtube.com/watch?v=DKHZfytXIAw)
 - [If You Don't Love Me](https://www.youtube.com/watch?v=0Xscw0V7ZLU)

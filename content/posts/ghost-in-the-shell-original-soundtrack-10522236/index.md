@@ -37,14 +37,14 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 
 
 ## Videos
-### Kenji Kawai – 謡II - Ghost City [1995] HQ HD
-{{< youtube id="T1lFE39E1Tc" title="Kenji Kawai – 謡II - Ghost City [1995] HQ HD" >}}<br>
+### Ghost In The Shell (1995) OST
+{{< youtube id="ceBW3RbrL0E" title="Ghost In The Shell (1995) OST" >}}<br>
 
 ### More Videos
 
-- [Ghost In The Shell (1995) OST](https://www.youtube.com/watch?v=ceBW3RbrL0E)
 - [M01 Chant I - Making of Cyborg - Kenji Kawai (Ghost in the Shell Soundtrack)](https://www.youtube.com/watch?v=iTPNaUsjksM)
 - [Ghost in the Shell OST - Floating Museum](https://www.youtube.com/watch?v=S9579XgUUds)
+- [Kenji Kawai – 謡II - Ghost City [1995] HQ HD](https://www.youtube.com/watch?v=T1lFE39E1Tc)
 
 
 ## Release Information

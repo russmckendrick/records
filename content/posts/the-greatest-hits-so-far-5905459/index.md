@@ -39,12 +39,12 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### PIL (Public Image Ltd) - Public Image (Public Image)
-{{< youtube id="cifo77azntk" title="PIL (Public Image Ltd) - Public Image (Public Image)" >}}<br>
+### PIL Greatest Hits
+{{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}<br>
 
 ### More Videos
 
-- [PIL Greatest Hits](https://www.youtube.com/watch?v=BjFDqPPhP0w)
+- [PIL (Public Image Ltd) - Public Image (Public Image)](https://www.youtube.com/watch?v=cifo77azntk)
 - [PUBLIC IMAGE LIMITED - This Is Not A Love Song](https://www.youtube.com/watch?v=-Kzk1xZCiv8)
 - [Death Disco (Remastered)](https://www.youtube.com/watch?v=Whxd1twSFfM)
 - [Memories (2011 Remaster)](https://www.youtube.com/watch?v=rlM__Fk7d2E)

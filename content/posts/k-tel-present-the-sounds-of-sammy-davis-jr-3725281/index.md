@@ -45,13 +45,13 @@ styles: []
 
 
 ## Videos
-### Sammy Davis Jr. Spinning Wheel
-{{< youtube id="DidwR29BJX0" title="Sammy Davis Jr. Spinning Wheel" >}}<br>
+### Sammy Davis What Kind of Fool Am I
+{{< youtube id="7Jg7wFHWXT4" title="Sammy Davis What Kind of Fool Am I" >}}<br>
 
 ### More Videos
 
-- [Sammy Davis What Kind of Fool Am I](https://www.youtube.com/watch?v=7Jg7wFHWXT4)
 - [Sammy Davis Jr - The Candy Man (Live in Germany 1985)](https://www.youtube.com/watch?v=rsp35yn411A)
+- [Sammy Davis Jr. Spinning Wheel](https://www.youtube.com/watch?v=DidwR29BJX0)
 - [Sammy Davis Jr. sings Spinning Wheel](https://www.youtube.com/watch?v=MWRxgyiHk1Q)
 
 

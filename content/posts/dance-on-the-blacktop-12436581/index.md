@@ -34,13 +34,13 @@ styles: ["Shoegaze", "Alternative Rock"]
 
 
 ## Videos
-### NOTHING - The Carpenter's Son (Official Audio)
-{{< youtube id="bxQjvOGl9qU" title="NOTHING - The Carpenter's Son (Official Audio)" >}}<br>
+### NOTHING - Zero Day (Official Music Video)
+{{< youtube id="RJhkZo5OCHE" title="NOTHING - Zero Day (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [NOTHING - Zero Day (Official Music Video)](https://www.youtube.com/watch?v=RJhkZo5OCHE)
 - [NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=d91cRGR98yI)
+- [NOTHING - The Carpenter's Son (Official Audio)](https://www.youtube.com/watch?v=bxQjvOGl9qU)
 - [NOTHING - Heavy Water/I'd Rather Be Sleeping (Grouper Cover)](https://www.youtube.com/watch?v=JysJhkFzMGo)
 
 

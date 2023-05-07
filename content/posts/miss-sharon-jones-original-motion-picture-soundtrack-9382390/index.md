@@ -47,12 +47,11 @@ styles: ["Funk", "Soul", "Soundtrack"]
 
 
 ## Videos
-### Sharon Jones and the Dap Kings - Let Them Knock
-{{< youtube id="Pf6gyRI1zqg" title="Sharon Jones and the Dap Kings - Let Them Knock" >}}<br>
+### Sharon Jones & the Dap-Kings I'm Still Here
+{{< youtube id="XQOYAjd8icg" title="Sharon Jones & the Dap-Kings I'm Still Here" >}}<br>
 
 ### More Videos
 
-- [Sharon Jones & the Dap-Kings I'm Still Here](https://www.youtube.com/watch?v=XQOYAjd8icg)
 - [Tell Me](https://www.youtube.com/watch?v=PJDlVXuonI4)
 - [Sharon Jones & The Dap-Kings - Retreat! (Official Music Video)](https://www.youtube.com/watch?v=PrOYkHjdpdM)
 - [New Shoes](https://www.youtube.com/watch?v=TScb8PRPc-8)
@@ -63,6 +62,7 @@ styles: ["Funk", "Soul", "Soundtrack"]
 - [Humble Me](https://www.youtube.com/watch?v=pOWmDAz4Ep0)
 - [I'll Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
 - [Sharon Jones & the Dap-Kings When I Come Home](https://www.youtube.com/watch?v=96EL_f1Nugc)
+- [Sharon Jones and the Dap Kings - Let Them Knock](https://www.youtube.com/watch?v=Pf6gyRI1zqg)
 - [Sharon Jones & the Dap-Kings Stranger To My Happiness](https://www.youtube.com/watch?v=IlPE1rEdAdI)
 - [Keep on Looking](https://www.youtube.com/watch?v=iPk3Wg5h978)
 - [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)

@@ -44,17 +44,17 @@ styles: ["Reggae", "Dub"]
 
 
 ## Videos
-### Radiodread featuring Kirsty Rock-Paranoid Android
-{{< youtube id="N7_s6EpDRVA" title="Radiodread featuring Kirsty Rock-Paranoid Android" >}}<br>
+### Easy Star All Stars - Radiodread (Album Full)
+{{< youtube id="wKIvYmlOS_o" title="Easy Star All Stars - Radiodread (Album Full)" >}}<br>
 
 ### More Videos
 
-- [Easy Star All Stars - Radiodread (Album Full)](https://www.youtube.com/watch?v=wKIvYmlOS_o)
 - [Easy-star all-stars - Karma police (Radiodread)](https://www.youtube.com/watch?v=edNNvg-NBzY)
 - [Easy Star All-Stars - Paranoid Android](https://www.youtube.com/watch?v=kOe7xRQUxa4)
 - [Radiodread - No Surprises](https://www.youtube.com/watch?v=ShEqdWaS50Q)
 - [Easy Star All-Stars ft Morgan Heritage - High and Dry](https://www.youtube.com/watch?v=Zur0gr7tE60)
 - [Easystar Allstars - Radiodread - Climbing up the Walls](https://www.youtube.com/watch?v=oA1g7P1D6pk)
+- [Radiodread featuring Kirsty Rock-Paranoid Android](https://www.youtube.com/watch?v=N7_s6EpDRVA)
 - [Let Down - Easy Star All Stars](https://www.youtube.com/watch?v=HXBamm5XqO8)
 - [No Surprises - Easy All Stars](https://www.youtube.com/watch?v=f8ZRduB1Uzs)
 - [Airbag - Easy All Stars - Radiodread](https://www.youtube.com/watch?v=USuhLK_bn_Y)

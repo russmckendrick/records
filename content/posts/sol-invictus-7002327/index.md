@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Faith No More - Superhero
-{{< youtube id="NKP98hDBJ8w" title="Faith No More - Superhero" >}}<br>
+### Sol Invictus
+{{< youtube id="5LqYlz_NXzo" title="Sol Invictus" >}}<br>
 
 ### More Videos
 
-- [Sol Invictus](https://www.youtube.com/watch?v=5LqYlz_NXzo)
+- [Faith No More - Superhero](https://www.youtube.com/watch?v=NKP98hDBJ8w)
 - [Black Friday](https://www.youtube.com/watch?v=HRm24MerRXk)
 - [Sunny Side Up](https://www.youtube.com/watch?v=4UffVzuOZAY)
 - [Separation Anxiety](https://www.youtube.com/watch?v=LDYNfMdNeqg)

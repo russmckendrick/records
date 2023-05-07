@@ -35,12 +35,12 @@ styles: ["Soul", "Funk", "Disco"]
 
 
 ## Videos
-### Melody Man–Smokey Robinson / remix DJ Spinna & Bobbito
-{{< youtube id="uOVu1qmf5ww" title="Melody Man–Smokey Robinson / remix DJ Spinna & Bobbito" >}}<br>
+### Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007
+{{< youtube id="ZaMX0Cs5Bc4" title="Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007" >}}<br>
 
 ### More Videos
 
-- [Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007](https://www.youtube.com/watch?v=ZaMX0Cs5Bc4)
+- [Melody Man–Smokey Robinson / remix DJ Spinna & Bobbito](https://www.youtube.com/watch?v=uOVu1qmf5ww)
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
 - [Jermaine Jackson - Let's Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
 

@@ -40,16 +40,16 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Bon Jovi - I Believe
-{{< youtube id="UhqN8-asMgg" title="Bon Jovi - I Believe" >}}<br>
+### Bon Jovi - Bed Of Roses
+{{< youtube id="NvR60Wg9R7Q" title="Bon Jovi - Bed Of Roses" >}}<br>
 
 ### More Videos
 
-- [Bon Jovi - Bed Of Roses](https://www.youtube.com/watch?v=NvR60Wg9R7Q)
 - [Bon Jovi - In These Arms](https://www.youtube.com/watch?v=59NoqP02ZYM)
 - [Bon Jovi - Keep The Faith](https://www.youtube.com/watch?v=eZQyVUTcpM4)
 - [I Want You](https://www.youtube.com/watch?v=t_6WvAL5_3E)
 - [Bon Jovi - I'll Sleep When I'm Dead](https://www.youtube.com/watch?v=ts-e0uZfooQ)
+- [Bon Jovi - I Believe](https://www.youtube.com/watch?v=UhqN8-asMgg)
 - [Bon Jovi - If I Was Your Mother](https://www.youtube.com/watch?v=SY5-gPbJQo0)
 - [I Believe](https://www.youtube.com/watch?v=TW4P5AcQFwA)
 - [Bon Jovi - Keep The Faith (LP Version)](https://www.youtube.com/watch?v=Jn9EjX6vOfQ)

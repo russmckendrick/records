@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Grunge", "Acoustic"]
 
 
 ## Videos
-### Days Of The New - Touch, Peel And Stand (Official Video)
-{{< youtube id="Wg-HZd4Lb2Q" title="Days Of The New - Touch, Peel And Stand (Official Video)" >}}<br>
+### Days Of The New - Shelf In The Room (Official Video)
+{{< youtube id="Cw6bgdJlth0" title="Days Of The New - Shelf In The Room (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Days Of The New - Shelf In The Room (Official Video)](https://www.youtube.com/watch?v=Cw6bgdJlth0)
+- [Days Of The New - Touch, Peel And Stand (Official Video)](https://www.youtube.com/watch?v=Wg-HZd4Lb2Q)
 - [Days Of The New - The Down Town](https://www.youtube.com/watch?v=kHQcdj5stHk)
 - [Days Of The New – The Down Town](https://www.youtube.com/watch?v=RvV0t9d6hjc)
 - [Days Of The New – Touch, Peel And Stand](https://www.youtube.com/watch?v=iM7nzyhDDQY)

@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### My Favourite Book
-{{< youtube id="E6FXEm-V588" title="My Favourite Book" >}}<br>
+### Stars - Are We Here Now DVD Trailer
+{{< youtube id="T5BX4e5Srw0" title="Stars - Are We Here Now DVD Trailer" >}}<br>
 
 ### More Videos
 
-- [Stars - Are We Here Now DVD Trailer](https://www.youtube.com/watch?v=T5BX4e5Srw0)
+- [My Favourite Book](https://www.youtube.com/watch?v=E6FXEm-V588)
 - [Stars - Bitches In Tokyo](https://www.youtube.com/watch?v=2DIsxR33mK8)
 - [Stars - Take Me To The Riot](https://www.youtube.com/watch?v=QzSUIxYQI2E)
 - [In Our Bedroom After The War](https://www.youtube.com/watch?v=c5qx_ZMY7tU)

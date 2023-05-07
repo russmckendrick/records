@@ -35,13 +35,13 @@ styles: []
 
 
 ## Videos
-### Vennart 'Donkey Kong' (Official Audio)
-{{< youtube id="OOef0N1mbKU" title="Vennart 'Donkey Kong' (Official Audio)" >}}<br>
+### VENNART - Immortal Soldiers (Official Audio)
+{{< youtube id="tkc9A_wDh08" title="VENNART - Immortal Soldiers (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [VENNART - Immortal Soldiers (Official Audio)](https://www.youtube.com/watch?v=tkc9A_wDh08)
 - [VENNART - Spider Bones (Official Audio)](https://www.youtube.com/watch?v=JKgOGi636c0)
+- [Vennart 'Donkey Kong' (Official Audio)](https://www.youtube.com/watch?v=OOef0N1mbKU)
 
 
 ## Release Information

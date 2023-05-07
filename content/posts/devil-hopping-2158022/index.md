@@ -40,12 +40,11 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 
 
 ## Videos
-### Half Way There
-{{< youtube id="WYNQqFzxHrI" title="Half Way There" >}}<br>
+### Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)
+{{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)](https://www.youtube.com/watch?v=DPTpBoYVD8Q)
 - [Party in the Sky](https://www.youtube.com/watch?v=gyG00HOZ1fA)
 - [Plutoman](https://www.youtube.com/watch?v=ZirJBqyGWbE)
 - [Uniform](https://www.youtube.com/watch?v=0THP1NubPmI)
@@ -54,6 +53,7 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 - [Inspiral Carpets - Saturn 5](https://www.youtube.com/watch?v=03cy86u6Wi4)
 - [All of This and More](https://www.youtube.com/watch?v=tsRs5LwcUMA)
 - [The Way the Light Falls (feat. Basil Clarke)](https://www.youtube.com/watch?v=_9HSFatjkAo)
+- [Half Way There](https://www.youtube.com/watch?v=WYNQqFzxHrI)
 - [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
 - [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 

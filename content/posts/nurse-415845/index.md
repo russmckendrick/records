@@ -38,17 +38,17 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Neck Freak
-{{< youtube id="rSgjWbnHn7o" title="Neck Freak" >}}<br>
+### Therapy? - Nausea
+{{< youtube id="a9BmmGM9bSY" title="Therapy? - Nausea" >}}<br>
 
 ### More Videos
 
-- [Therapy? - Nausea](https://www.youtube.com/watch?v=a9BmmGM9bSY)
 - [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
 - [Accelerator](https://www.youtube.com/watch?v=oRavi-MzMf4)
 - [Therapy? : Disgracelands (1992)](https://www.youtube.com/watch?v=ObltOZKQvXM)
 - [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
 - [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
+- [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
 - [Perversonality  - Therapy?](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
 - [Therapy? - Gone (with lyrics)](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
 - [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)

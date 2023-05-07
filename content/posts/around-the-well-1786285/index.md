@@ -51,18 +51,18 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 
 
 ## Videos
-### Peng! 33
-{{< youtube id="7uEQpxm5ODo" title="Peng! 33" >}}<br>
+### Iron and Wine - Love Vigilantes (a New Order cover)
+{{< youtube id="EL-mDlRKNKg" title="Iron and Wine - Love Vigilantes (a New Order cover)" >}}<br>
 
 ### More Videos
 
-- [Iron and Wine - Love Vigilantes (a New Order cover)](https://www.youtube.com/watch?v=EL-mDlRKNKg)
 - [Iron and Wine - Such Great Heights (a Postal Service cover)](https://www.youtube.com/watch?v=kgy09d4WNhA)
 - [Iron and Wine - The Trapeze Swinger](https://www.youtube.com/watch?v=yt7O8gDy0DA)
 - [Iron and Wine - Carried Home](https://www.youtube.com/watch?v=rMTYjiJ8wO8)
 - [Belated Promise Ring - Iron & Wine](https://www.youtube.com/watch?v=vVwIBFEjQXY)
 - [Iron and Wine - Swans And The Swimming](https://www.youtube.com/watch?v=UNDb6I3OJqU)
 - [Around The Well [Iron & Wine, 2009]](https://www.youtube.com/watch?v=FKjMFeB56TU)
+- [Peng! 33](https://www.youtube.com/watch?v=7uEQpxm5ODo)
 
 
 ## Release Information

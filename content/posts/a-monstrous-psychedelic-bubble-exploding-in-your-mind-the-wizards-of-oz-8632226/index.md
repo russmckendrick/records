@@ -41,12 +41,12 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 
 
 ## Videos
-### Tame Impala - It's not meant to be
-{{< youtube id="KeZt5IGJ1T8" title="Tame Impala - It's not meant to be" >}}<br>
+### CYBOTRON - Gods Of Norse
+{{< youtube id="fPCj8pD31RM" title="CYBOTRON - Gods Of Norse" >}}<br>
 
 ### More Videos
 
-- [CYBOTRON - Gods Of Norse](https://www.youtube.com/watch?v=fPCj8pD31RM)
+- [Tame Impala - It's not meant to be](https://www.youtube.com/watch?v=KeZt5IGJ1T8)
 - [Russell Morris - The Real Thing (1969)](https://www.youtube.com/watch?v=M_1R3aUFL0g)
 - [Leong Lau - Salem Abdullah (1977)](https://www.youtube.com/watch?v=UD1NFfxrtCc)
 - [Doug Jerebine - Midnight Sun](https://www.youtube.com/watch?v=07oBUV8hY7U)

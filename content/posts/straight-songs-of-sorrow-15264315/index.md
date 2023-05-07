@@ -43,12 +43,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Ballad of A Dying Rover
-{{< youtube id="3alMP5Jj-YU" title="Ballad of A Dying Rover" >}}<br>
+### Mark Lanegan - 'Bleed All Over'
+{{< youtube id="b4EL3wo1K84" title="Mark Lanegan - 'Bleed All Over'" >}}<br>
 
 ### More Videos
 
-- [Mark Lanegan - 'Bleed All Over'](https://www.youtube.com/watch?v=b4EL3wo1K84)
 - [I Wouldn't Want To Say](https://www.youtube.com/watch?v=mnV45clEoY4)
 - [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
 - [This Game of Love](https://www.youtube.com/watch?v=D_THKz09seg)
@@ -58,6 +57,7 @@ styles: ["Alternative Rock"]
 - [Daylight In The Nocturnal House](https://www.youtube.com/watch?v=ToMgSKgra38)
 - [Apples From A Tree](https://www.youtube.com/watch?v=60JH83Ze-lM)
 - [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
+- [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)
 
 
 ## Release Information

@@ -37,18 +37,18 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Videos
-### The Levellers - Blind Faith
-{{< youtube id="ndh0u8gPkV4" title="The Levellers - Blind Faith" >}}<br>
+### World Freak Show - Levellers
+{{< youtube id="Xe71vrfSVWI" title="World Freak Show - Levellers" >}}<br>
 
 ### More Videos
 
-- [World Freak Show - Levellers](https://www.youtube.com/watch?v=Xe71vrfSVWI)
 - [The Levellers- Carry me](https://www.youtube.com/watch?v=3MLcEWaqk4k)
 - [Barrel Of The Gun](https://www.youtube.com/watch?v=KQUwOfR0JJw)
 - [The Levellers - Barrel Of The Gun](https://www.youtube.com/watch?v=bpnvmj2ek7A)
 - [Carry Me - Levellers](https://www.youtube.com/watch?v=uV-F-LGGtl0)
 - [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
 - [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
+- [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
 - [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
 - [The Levellers - What You Know](https://www.youtube.com/watch?v=AiePzwMaXNg)
 - [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)

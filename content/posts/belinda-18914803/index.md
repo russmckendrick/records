@@ -50,12 +50,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Belinda Carlisle - Since You've Gone (Live at the Roxy '86)
-{{< youtube id="CRje6i5v2lU" title="Belinda Carlisle - Since You've Gone (Live at the Roxy '86)" >}}<br>
+### Belinda Carlisle - Mad About You (Official Video)
+{{< youtube id="XmdtJWmR9zQ" title="Belinda Carlisle - Mad About You (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Belinda Carlisle - Mad About You (Official Video)](https://www.youtube.com/watch?v=XmdtJWmR9zQ)
+- [Belinda Carlisle - Since You've Gone (Live at the Roxy '86)](https://www.youtube.com/watch?v=CRje6i5v2lU)
 - [Belinda Carlisle - I Never Wanted A Rich Man (Live at the Roxy '86)](https://www.youtube.com/watch?v=fiRvcRPZbK0)
 - [Since You've Gone](https://www.youtube.com/watch?v=nevLWv97kg0)
 - [Belinda Carlisle - Gotta Get To You (Live at the Roxy '86)](https://www.youtube.com/watch?v=dPorXIsQn1s)

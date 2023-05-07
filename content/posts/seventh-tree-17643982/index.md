@@ -38,12 +38,12 @@ styles: ["Leftfield", "Downtempo", "Folk"]
 
 
 ## Videos
-### Goldfrapp - Happiness (Official HD Video)
-{{< youtube id="mnHlGONToIc" title="Goldfrapp - Happiness (Official HD Video)" >}}<br>
+### Goldfrapp - A&E (Official HD Video)
+{{< youtube id="p7Ptai9I6eo" title="Goldfrapp - A&E (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Goldfrapp - A&E (Official HD Video)](https://www.youtube.com/watch?v=p7Ptai9I6eo)
+- [Goldfrapp - Happiness (Official HD Video)](https://www.youtube.com/watch?v=mnHlGONToIc)
 - [Goldfrapp - Caravan Girl (Official HD Video)](https://www.youtube.com/watch?v=FjuPtkno5t0)
 - [Goldfrapp - Clowns (Official HD Super 8 Video)](https://www.youtube.com/watch?v=wjDtCYvamB4)
 

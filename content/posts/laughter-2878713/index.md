@@ -37,12 +37,11 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 
 
 ## Videos
-### Hey, Hey Take Me Away
-{{< youtube id="Py5psXv_QDQ" title="Hey, Hey Take Me Away" >}}<br>
+### Manic Depression (Jimi)
+{{< youtube id="CIhx64KPoRg" title="Manic Depression (Jimi)" >}}<br>
 
 ### More Videos
 
-- [Manic Depression (Jimi)](https://www.youtube.com/watch?v=CIhx64KPoRg)
 - [Ian Dury and the Blockheads..Delusions of Grandeur](https://www.youtube.com/watch?v=_mkFbyJ3zd4)
 - [Oh Mr Peanut](https://www.youtube.com/watch?v=xSNpOb0lnJc)
 - [Delusions of Grandeur](https://www.youtube.com/watch?v=q8jO_yD4aRg)
@@ -53,6 +52,7 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 - [Dance of the Crackpots](https://www.youtube.com/watch?v=t0EnuWqY5Bw)
 - [Uncoolohol](https://www.youtube.com/watch?v=jPE_518dRHI)
 - [Ian Dury & the Blockheads 🇬🇧 - Pardon - Vinyl Laughter LP 🇵🇹 1980](https://www.youtube.com/watch?v=xZavklxmcaQ)
+- [Hey, Hey Take Me Away](https://www.youtube.com/watch?v=Py5psXv_QDQ)
 - [Yes and No (Paula)](https://www.youtube.com/watch?v=G5FA3UUTS98)
 - [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
 - [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)

@@ -37,18 +37,18 @@ styles: ["Leftfield", "Downtempo", "Ethereal"]
 
 
 ## Videos
-### Horse Tears
-{{< youtube id="92qlKcNo3XA" title="Horse Tears" >}}<br>
+### Paper Bag
+{{< youtube id="jw3Z-kUMC7g" title="Paper Bag" >}}<br>
 
 ### More Videos
 
-- [Paper Bag](https://www.youtube.com/watch?v=jw3Z-kUMC7g)
 - [Human](https://www.youtube.com/watch?v=HoYwBI1g7tk)
 - [Pilots](https://www.youtube.com/watch?v=eqwrV-qzpq8)
 - [Deer Stop](https://www.youtube.com/watch?v=7ZoevxcGo9E)
 - [Felt Mountain](https://www.youtube.com/watch?v=cTAycSBW08s)
 - [Oompah Radar](https://www.youtube.com/watch?v=A8nL51nIy6U)
 - [Goldfrapp - Utopia](https://www.youtube.com/watch?v=QUB7e3BtnvU)
+- [Horse Tears](https://www.youtube.com/watch?v=92qlKcNo3XA)
 
 
 ## Release Information

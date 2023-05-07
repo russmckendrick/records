@@ -41,12 +41,11 @@ styles: ["Indie Pop", "Dance-pop"]
 
 
 ## Videos
-### Saint Etienne - Tonight
-{{< youtube id="UEWEAqNR2XQ" title="Saint Etienne - Tonight" >}}<br>
+### When I Was Seventeen
+{{< youtube id="GSTSTNK0BG0" title="When I Was Seventeen" >}}<br>
 
 ### More Videos
 
-- [When I Was Seventeen](https://www.youtube.com/watch?v=GSTSTNK0BG0)
 - [Saint Etienne - I've Got Your Music (Single Version)](https://www.youtube.com/watch?v=_kWy48yIgxQ)
 - [Saint Etienne - Over the Border](https://www.youtube.com/watch?v=DnxGHwDiqWk)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=u7jbF_8MzHs)
@@ -59,6 +58,7 @@ styles: ["Indie Pop", "Dance-pop"]
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=tAk6slCEuIw)
 - [Saint Etienne - Popular (Tom Middleton Cosmos Remix)](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
 - [Saint Etienne - I've Got Your Music](https://www.youtube.com/watch?v=3MQmsHPwLvU)
+- [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
 
 
 ## Release Information

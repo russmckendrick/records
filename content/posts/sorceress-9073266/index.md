@@ -41,13 +41,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### OPETH - The Wilde Flowers (OFFICIAL LYRIC VIDEO)
-{{< youtube id="O9vA6dJJX-8" title="OPETH - The Wilde Flowers (OFFICIAL LYRIC VIDEO)" >}}<br>
+### OPETH - Era (OFFICIAL VIDEO)
+{{< youtube id="98wXIjkO4i0" title="OPETH - Era (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [OPETH - Era (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=98wXIjkO4i0)
 - [OPETH - Sorceress (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=LhqijfqecvA)
+- [OPETH - The Wilde Flowers (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=O9vA6dJJX-8)
 - [OPETH - Will O The Wisp (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=Kfpnwk-DXrA)
 
 

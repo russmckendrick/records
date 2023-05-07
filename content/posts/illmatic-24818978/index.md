@@ -40,12 +40,11 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 
 
 ## Videos
-### Nas - Memory Lane (Sittin' In Da Park) (lyrics)
-{{< youtube id="am0YvkzDO1k" title="Nas - Memory Lane (Sittin' In Da Park) (lyrics)" >}}<br>
+### Nas - N.Y. State of Mind (Official Audio)
+{{< youtube id="hI8A14Qcv68" title="Nas - N.Y. State of Mind (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Nas - N.Y. State of Mind (Official Audio)](https://www.youtube.com/watch?v=hI8A14Qcv68)
 - [Nas - The World Is Yours (Official Music Video)](https://www.youtube.com/watch?v=e5PnuIRnJW8)
 - [The Genesis / N.Y. State of Mind - Nas Subtitulada en español](https://www.youtube.com/watch?v=AudP6Bu2UvI)
 - [Nas - Represent (Official Audio)](https://www.youtube.com/watch?v=xiVY_yPgvMs)
@@ -53,6 +52,7 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 - [NaS - Life's A Bitch (complete with lyrics)](https://www.youtube.com/watch?v=mnKUUBKLygE)
 - [Nas - One Love](https://www.youtube.com/watch?v=hxce_qvhi5I)
 - [Nas - It Ain't Hard To Tell (Official Video - Explicit)](https://www.youtube.com/watch?v=lZXtabqDY-c)
+- [Nas - Memory Lane (Sittin' In Da Park) (lyrics)](https://www.youtube.com/watch?v=am0YvkzDO1k)
 - [One Time 4 Your Mind - Nas (lyrics on screen)](https://www.youtube.com/watch?v=HDTJxsLEEU0)
 - [Nas - Represent, album: Ilmatic, with Lyrics and poem](https://www.youtube.com/watch?v=t6ZmP26tWYY)
 - [Nas - The World Is Yours (Large Professor/Vaporized Remix)](https://www.youtube.com/watch?v=bRy55mYdrq4)

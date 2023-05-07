@@ -39,12 +39,12 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### Suede - So Young
-{{< youtube id="twoO3xYRsz0" title="Suede - So Young" >}}<br>
+### Suede - Sleeping Pills (Audio Only)
+{{< youtube id="2e5N0tn1-7s" title="Suede - Sleeping Pills (Audio Only)" >}}<br>
 
 ### More Videos
 
-- [Suede - Sleeping Pills (Audio Only)](https://www.youtube.com/watch?v=2e5N0tn1-7s)
+- [Suede - So Young](https://www.youtube.com/watch?v=twoO3xYRsz0)
 
 
 ## Release Information

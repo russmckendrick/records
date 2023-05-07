@@ -36,13 +36,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### China in your hand - T'pau
-{{< youtube id="wfvJS4UO7xI" title="China in your hand - T'pau" >}}<br>
+### T'Pau - Heart And Soul (Official Video)
+{{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul (Official Video)" >}}<br>
 
 ### More Videos
 
-- [T'Pau - Heart And Soul (Official Video)](https://www.youtube.com/watch?v=SwrYMWoqg5w)
 - [T'Pau - Valentine](https://www.youtube.com/watch?v=s047ZgjysX8)
+- [China in your hand - T'pau](https://www.youtube.com/watch?v=wfvJS4UO7xI)
 - [T'Pau - Bridge Of Spies](https://www.youtube.com/watch?v=06e3N7VBVZM)
 - [T'pau - Bridge Of Spies](https://www.youtube.com/watch?v=5EARm7TkZj8)
 - [T'Pau: Bridge Of Spies (UK, 1988)](https://www.youtube.com/watch?v=1HuYW2l4n9Q)

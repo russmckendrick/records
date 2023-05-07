@@ -38,14 +38,14 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 
 
 ## Videos
-### Praying to the Aliens
-{{< youtube id="Niw_cOHiY1w" title="Praying to the Aliens" >}}<br>
+### Me, I Disconnect from You
+{{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}<br>
 
 ### More Videos
 
-- [Me, I Disconnect from You](https://www.youtube.com/watch?v=gb66ZMHlixQ)
 - [Are 'Friends' Electric?](https://www.youtube.com/watch?v=1snv-0jCiWY)
 - [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
+- [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
 - [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
 - [You Are in My Vision](https://www.youtube.com/watch?v=FETUoLuEYxg)
 - [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)

@@ -48,14 +48,14 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 
 
 ## Videos
-### Robert Palmer - Johnny and Mary (Official Video)
-{{< youtube id="7_SAMrDnXOE" title="Robert Palmer - Johnny and Mary (Official Video)" >}}<br>
+### Radio Active (Face A) (1980)
+{{< youtube id="c-NmtskiSzo" title="Radio Active (Face A) (1980)" >}}<br>
 
 ### More Videos
 
-- [Radio Active (Face A) (1980)](https://www.youtube.com/watch?v=c-NmtskiSzo)
 - [Ottawan - D.I.S.C.O. (HD) Legendado em PT- BR](https://www.youtube.com/watch?v=mJpymZpk-t8)
 - [Black Slate - Amigo](https://www.youtube.com/watch?v=-9NgIPLtwSc)
+- [Robert Palmer - Johnny and Mary (Official Video)](https://www.youtube.com/watch?v=7_SAMrDnXOE)
 - [Gillan - Trouble](https://www.youtube.com/watch?v=wcceF1v0EE4)
 - [Gary Numan   I Die You Die](https://www.youtube.com/watch?v=Xw8dTF9Jr34)
 - [Genesis - Misunderstanding](https://www.youtube.com/watch?v=IrNTsKg4z64)

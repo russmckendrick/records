@@ -40,12 +40,11 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 
 
 ## Videos
-### Kill Bill Vol. 1 [OST] #9 - Battle Without Honor Or Humanity
-{{< youtube id="ebMrRxK5S3U" title="Kill Bill Vol. 1 [OST] #9 - Battle Without Honor Or Humanity" >}}<br>
+### Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD
+{{< youtube id="7kSuas6mRpk" title="Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD" >}}<br>
 
 ### More Videos
 
-- [Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD](https://www.youtube.com/watch?v=7kSuas6mRpk)
 - [Kill Bill Vol. 1 [OST] #1 - Bang Bang (My Baby Shot Me Down)](https://www.youtube.com/watch?v=9KHEcUF_fvQ)
 - [5 6 7 8's - woo hoo - (j ross show) - vcd [jeffz].mpg](https://www.youtube.com/watch?v=7DJv0rx5g-c)
 - [Kill Bill - Vol. 1 [Soundtrack]](https://www.youtube.com/watch?v=RMJu05FDO5w)
@@ -56,6 +55,7 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 - [Kill Bill Vol. 1 [OST] #6 - Ode To Oren Ishii](https://www.youtube.com/watch?v=B_6Yf4NJtYQ)
 - [Kill Bill Vol. 1 [OST] #7 - Run Fay Fun](https://www.youtube.com/watch?v=s8piKgdZd2A)
 - [Kill Bill Vol. 1 [OST] #8 - The Green Hornet Theme](https://www.youtube.com/watch?v=YAyyTHFNyIQ)
+- [Kill Bill Vol. 1 [OST] #9 - Battle Without Honor Or Humanity](https://www.youtube.com/watch?v=ebMrRxK5S3U)
 - [Kill Bill Vol. 1 [OST] #10 - Don't Let Me Be Misunderstood](https://www.youtube.com/watch?v=VTR5AT1QwXw)
 - [Kill Bill Vol. 1 [OST] #11 - Woo Hoo](https://www.youtube.com/watch?v=J-mRtjTAigo)
 - [Kill Bill Vol. 1 [OST] #12 - Crane/White Lightning](https://www.youtube.com/watch?v=U7-B7SkSzQ8)

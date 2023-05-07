@@ -55,13 +55,13 @@ styles: ["Synth-pop", "Comedy"]
 
 
 ## Videos
-### John Shuttleworth Y reg
-{{< youtube id="4LroHr6aOo4" title="John Shuttleworth Y reg" >}}<br>
+### John Shuttleworth - My Wife Died in 1970 with lyrics
+{{< youtube id="1o2Rb7OTvZw" title="John Shuttleworth - My Wife Died in 1970 with lyrics" >}}<br>
 
 ### More Videos
 
-- [John Shuttleworth - My Wife Died in 1970 with lyrics](https://www.youtube.com/watch?v=1o2Rb7OTvZw)
 - [John Shuttleworth - Have you seen my Wife](https://www.youtube.com/watch?v=ewRRI4s7CNM)
+- [John Shuttleworth Y reg](https://www.youtube.com/watch?v=4LroHr6aOo4)
 - [Eggs & Gammon.wmv](https://www.youtube.com/watch?v=0a78vNJH2xQ)
 - [John Shuttleworth - The Bee And The Wasp](https://www.youtube.com/watch?v=q54T3lbw1Do)
 - [John Shuttleworth  Shopkeepers in the North](https://www.youtube.com/watch?v=PI7o-FJM8f4)

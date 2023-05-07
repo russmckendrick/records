@@ -30,13 +30,13 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 
 
 ## Videos
-### Flowered Up - Weekender  (Full video)
-{{< youtube id="TVJFGRUL8EQ" title="Flowered Up - Weekender  (Full video)" >}}<br>
+### HVN16 - Flowered Up 'Weekender'  film
+{{< youtube id="RrpCdoRgBpQ" title="HVN16 - Flowered Up 'Weekender'  film" >}}<br>
 
 ### More Videos
 
-- [HVN16 - Flowered Up 'Weekender'  film](https://www.youtube.com/watch?v=RrpCdoRgBpQ)
 - [Flowered Up - Weekender](https://www.youtube.com/watch?v=o4gKTRuc-5Q)
+- [Flowered Up - Weekender  (Full video)](https://www.youtube.com/watch?v=TVJFGRUL8EQ)
 - [Flowered Up, Weekender](https://www.youtube.com/watch?v=dbfUw9F7A8M)
 - [Flowered Up  Weekender](https://www.youtube.com/watch?v=IYnxpwWmdM4)
 - [Flowered up   Weekender Part 1](https://www.youtube.com/watch?v=9KRdyNkeJn4)

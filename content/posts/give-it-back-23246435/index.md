@@ -38,12 +38,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Pineapple Thief - Dead In The Water Rewired (Lyric Video)
-{{< youtube id="p8CJ3a0mngI" title="The Pineapple Thief - Dead In The Water Rewired (Lyric Video)" >}}<br>
+### Wretched Soul (Rewired)
+{{< youtube id="tlceIFqEOIQ" title="Wretched Soul (Rewired)" >}}<br>
 
 ### More Videos
 
-- [Wretched Soul (Rewired)](https://www.youtube.com/watch?v=tlceIFqEOIQ)
+- [The Pineapple Thief - Dead In The Water Rewired (Lyric Video)](https://www.youtube.com/watch?v=p8CJ3a0mngI)
 - [Give It Back (Rewired)](https://www.youtube.com/watch?v=o3l7GEflnOc)
 - [Build a World (Rewired)](https://www.youtube.com/watch?v=TWi1SKZhl7A)
 - [Start Your Descent (Rewired)](https://www.youtube.com/watch?v=sD1L9FZi74k)

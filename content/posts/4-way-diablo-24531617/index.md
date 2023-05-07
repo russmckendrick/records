@@ -41,14 +41,14 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Blow Your Mind - Monster Magnet - 4-Way Diablo
-{{< youtube id="GYkNh3w6hcE" title="Blow Your Mind - Monster Magnet - 4-Way Diablo" >}}<br>
+### Monster Magnet - Slap In The Face - 4-Way Diablo.wmv
+{{< youtube id="Adf7bQ8W6Ck" title="Monster Magnet - Slap In The Face - 4-Way Diablo.wmv" >}}<br>
 
 ### More Videos
 
-- [Monster Magnet - Slap In The Face - 4-Way Diablo.wmv](https://www.youtube.com/watch?v=Adf7bQ8W6Ck)
 - [Monster Magnet - Wall of Fire](https://www.youtube.com/watch?v=oJH6W-c-Rgw)
 - [Monster Magnet - You're Alive](https://www.youtube.com/watch?v=G7z91YHoDH0)
+- [Blow Your Mind - Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=GYkNh3w6hcE)
 - [Monster Magnet - A Thousand Stars](https://www.youtube.com/watch?v=w3_jlsyWSRg)
 - [Monster Magnet - I'm calling you](https://www.youtube.com/watch?v=mYi5hWZvc2Q)
 - [Monster Magnet - No Vacation](https://www.youtube.com/watch?v=xQBMXQVWZ60)

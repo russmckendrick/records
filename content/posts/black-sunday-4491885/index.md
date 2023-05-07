@@ -42,14 +42,14 @@ styles: []
 
 
 ## Videos
-### Cypress Hill - I Ain't Goin' Out Like That
-{{< youtube id="q7p-ihYOG5s" title="Cypress Hill - I Ain't Goin' Out Like That" >}}<br>
+### Cypress Hill - Insane In The Brain (Official Video)
+{{< youtube id="RijB8wnJCN0" title="Cypress Hill - Insane In The Brain (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Cypress Hill - Insane In The Brain (Official Video)](https://www.youtube.com/watch?v=RijB8wnJCN0)
 - [Lock Down](https://www.youtube.com/watch?v=PHZl5DuWMbo)
 - [Cypress Hill - When the Shit Goes Down](https://www.youtube.com/watch?v=I826gxc8TvI)
+- [Cypress Hill - I Ain't Goin' Out Like That](https://www.youtube.com/watch?v=q7p-ihYOG5s)
 - [Cypress Hill - Hits from the Bong (Audio)](https://www.youtube.com/watch?v=eMK4cfXj5c0)
 - [cψρƦε$$ HILL - Black Sunday FULLΛLBUM](https://www.youtube.com/watch?v=k4D5kp1d3nE)
 

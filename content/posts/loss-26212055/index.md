@@ -40,12 +40,12 @@ styles: ["Acoustic", "Indie Rock"]
 
 
 ## Videos
-### Mull Historical Society: strangeways inside
-{{< youtube id="wKsgrxywZ9Q" title="Mull Historical Society: strangeways inside" >}}<br>
+### Loss
+{{< youtube id="X7FCbmZm-1c" title="Loss" >}}<br>
 
 ### More Videos
 
-- [Loss](https://www.youtube.com/watch?v=X7FCbmZm-1c)
+- [Mull Historical Society: strangeways inside](https://www.youtube.com/watch?v=wKsgrxywZ9Q)
 - [Watching Xanadu](https://www.youtube.com/watch?v=mvccQGUpXYM)
 - [This Is Not Who We Were](https://www.youtube.com/watch?v=ZB7W0Ii6Uzo)
 

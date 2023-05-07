@@ -37,12 +37,11 @@ styles: ["Shoegaze", "Indie Rock"]
 
 
 ## Videos
-### You Never Should
-{{< youtube id="w1z76Y_3x7s" title="You Never Should" >}}<br>
+### my bloody valentine – Feed Me With Your Kiss (official video)
+{{< youtube id="9rxE0Mr_U8U" title="my bloody valentine – Feed Me With Your Kiss (official video)" >}}<br>
 
 ### More Videos
 
-- [my bloody valentine – Feed Me With Your Kiss (official video)](https://www.youtube.com/watch?v=9rxE0Mr_U8U)
 - [my bloody valentine - All I Need (visualiser)](https://www.youtube.com/watch?v=is-3lC00DeY)
 - [Soft as Snow (But Warm Inside)](https://www.youtube.com/watch?v=ze8A33p5-h0)
 - [Lose My Breath](https://www.youtube.com/watch?v=pMCm3RLuSt0)
@@ -59,6 +58,7 @@ styles: ["Shoegaze", "Indie Rock"]
 - [Several Girls Galore](https://www.youtube.com/watch?v=6OgnaBn6jvc)
 - [Several Girls Galore](https://www.youtube.com/watch?v=7cOBugK_O8U)
 - [You Never Should](https://www.youtube.com/watch?v=1ZUlcUp7-80)
+- [You Never Should](https://www.youtube.com/watch?v=w1z76Y_3x7s)
 - [Nothing Much to Lose](https://www.youtube.com/watch?v=62M08JFTovM)
 - [Nothing Much To Lose](https://www.youtube.com/watch?v=HzsjqkYI1BI)
 - [I Can See It (But I Can’t Feel It)](https://www.youtube.com/watch?v=EG159C9shuA)

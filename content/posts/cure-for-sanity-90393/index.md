@@ -45,16 +45,16 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 
 
 ## Videos
-### Pop Will Eat Itself - PsychoSexual
-{{< youtube id="JDFm-w8qQ-Q" title="Pop Will Eat Itself - PsychoSexual" >}}<br>
+### Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards
+{{< youtube id="pk51UnRyzlM" title="Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards" >}}<br>
 
 ### More Videos
 
-- [Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards](https://www.youtube.com/watch?v=pk51UnRyzlM)
 - [Axe of Men](https://www.youtube.com/watch?v=spFu4eFgBik)
 - [The Beat That Refused to Die](https://www.youtube.com/watch?v=8mTqvzdKFFc)
 - [Lived In Splendour, Died In Chaos](https://www.youtube.com/watch?v=JGs2rDQ_6cM)
 - [92° F (The 3rd Degree)](https://www.youtube.com/watch?v=Y0fY_aFjnB4)
+- [Pop Will Eat Itself - PsychoSexual](https://www.youtube.com/watch?v=JDFm-w8qQ-Q)
 - [Very Metal Noise Pollution](https://www.youtube.com/watch?v=iL0hRD2Wr0A)
 - [Nightmare At 20,000 Feet](https://www.youtube.com/watch?v=iLl9gLrwsmA)
 - [1000 X No](https://www.youtube.com/watch?v=9ycq4ABS9-I)

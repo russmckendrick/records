@@ -46,12 +46,12 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Luck of Lucien
-{{< youtube id="7T2lja6Agbk" title="Luck of Lucien" >}}<br>
+### Push It Along
+{{< youtube id="T6a8N2CjNRU" title="Push It Along" >}}<br>
 
 ### More Videos
 
-- [Push It Along](https://www.youtube.com/watch?v=T6a8N2CjNRU)
+- [Luck of Lucien](https://www.youtube.com/watch?v=7T2lja6Agbk)
 - [After Hours](https://www.youtube.com/watch?v=nlJJIrPHBsc)
 - [Footprints](https://www.youtube.com/watch?v=ay9bFqeHQRk)
 - [I Left My Wallet in El Segundo](https://www.youtube.com/watch?v=pemnd3Igzrg)

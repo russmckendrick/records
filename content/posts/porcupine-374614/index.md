@@ -38,12 +38,11 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### In Bluer Skies
-{{< youtube id="xtzzHeeLR3E" title="In Bluer Skies" >}}<br>
+### Echo And The Bunnymen - The Cutter HD
+{{< youtube id="nMplIrSlg8E" title="Echo And The Bunnymen - The Cutter HD" >}}<br>
 
 ### More Videos
 
-- [Echo And The Bunnymen - The Cutter HD](https://www.youtube.com/watch?v=nMplIrSlg8E)
 - [Back of Love](https://www.youtube.com/watch?v=W5O-F0s8CzU)
 - [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
 - [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)
@@ -52,6 +51,7 @@ styles: ["New Wave", "Indie Rock"]
 - [Ripeness](https://www.youtube.com/watch?v=yOnOUSxaJ-0)
 - [Higher Hell](https://www.youtube.com/watch?v=CMh55H3K8fY)
 - [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
+- [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
 
 
 ## Release Information

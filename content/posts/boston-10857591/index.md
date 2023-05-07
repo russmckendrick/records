@@ -36,12 +36,11 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Boston - Smokin' (Official Audio)
-{{< youtube id="bDI-AdnIK08" title="Boston - Smokin' (Official Audio)" >}}<br>
+### Boston - Boston (1976) [Full Album]
+{{< youtube id="4zDR5jmCXOg" title="Boston - Boston (1976) [Full Album]" >}}<br>
 
 ### More Videos
 
-- [Boston - Boston (1976) [Full Album]](https://www.youtube.com/watch?v=4zDR5jmCXOg)
 - [More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
 - [B̤o̤s̤ton-B̤o̤s̤ton  [SACD R Remastered]  1976  Full Album HQ](https://www.youtube.com/watch?v=KTA0ImUMk-g)
 - [Peace of Mind](https://www.youtube.com/watch?v=tJ42CLtr7Jg)
@@ -60,6 +59,7 @@ styles: ["Hard Rock"]
 - [Boston - Boston {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=rmH56P-QDo0)
 - [Boston - More Than A Feeling - Remastered](https://www.youtube.com/watch?v=zOILAZHf2pE)
 - [Boston - 1976 (Analog Album Remaster)](https://www.youtube.com/watch?v=_V4LtZuF--Q)
+- [Boston - Smokin' (Official Audio)](https://www.youtube.com/watch?v=bDI-AdnIK08)
 
 
 ## Release Information

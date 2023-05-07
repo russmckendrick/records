@@ -44,12 +44,12 @@ styles: ["Punk"]
 
 
 ## Videos
-### Dropkick Murphys - Never Alone (Full Album Stream)
-{{< youtube id="H5BnIDiTakg" title="Dropkick Murphys - Never Alone (Full Album Stream)" >}}<br>
+### Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)
+{{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)" >}}<br>
 
 ### More Videos
 
-- [Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)](https://www.youtube.com/watch?v=zbXHjZdnT_s)
+- [Dropkick Murphys - Never Alone (Full Album Stream)](https://www.youtube.com/watch?v=H5BnIDiTakg)
 
 
 ## Release Information

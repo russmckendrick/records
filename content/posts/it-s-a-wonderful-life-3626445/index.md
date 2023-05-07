@@ -40,12 +40,12 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 
 ## Videos
-### Sparklehorse - Comfort Me (Official Video)
-{{< youtube id="7JviEK52rl8" title="Sparklehorse - Comfort Me (Official Video)" >}}<br>
+### Sparklehorse - It's a wonderful life
+{{< youtube id="AGZsQf6WjHI" title="Sparklehorse - It's a wonderful life" >}}<br>
 
 ### More Videos
 
-- [Sparklehorse - It's a wonderful life](https://www.youtube.com/watch?v=AGZsQf6WjHI)
+- [Sparklehorse - Comfort Me (Official Video)](https://www.youtube.com/watch?v=7JviEK52rl8)
 - [Sparklehorse feat. Nina Persson - Gold Day (Official Video)](https://www.youtube.com/watch?v=OrFrcF6xd4I)
 
 

@@ -42,12 +42,12 @@ styles: ["Neo Soul", "Funk"]
 
 
 ## Videos
-### Jamie Lidell - I Live To Make You Smile (Official Audio)
-{{< youtube id="SpXk3GslsgU" title="Jamie Lidell - I Live To Make You Smile (Official Audio)" >}}<br>
+### Jamie Lidell - Building A Beginning (Lyric Video)
+{{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning (Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Jamie Lidell - Building A Beginning (Lyric Video)](https://www.youtube.com/watch?v=RkNdHL3eXGc)
+- [Jamie Lidell - I Live To Make You Smile (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
 
 
 ## Release Information

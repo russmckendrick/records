@@ -38,16 +38,16 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Videos
-### Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)
-{{< youtube id="Pt_3uddGa4g" title="Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
+### CD / Heart – Heart / 1985
+{{< youtube id="SR_mWAbNiYM" title="CD / Heart – Heart / 1985" >}}<br>
 
 ### More Videos
 
-- [CD / Heart – Heart / 1985](https://www.youtube.com/watch?v=SR_mWAbNiYM)
 - [Heart - Never (Official Music Video)](https://www.youtube.com/watch?v=zWzy5q_M5Ho)
 - [Heart - If looks could kill [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=1qfc5e3r65Q)
 - [Heart - What about love [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=p8YwufAbiWA)
 - [Heart - Never [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=vLRHWYP78D4)
+- [Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Pt_3uddGa4g)
 - [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
 - [Heart - All eyes [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=c_lJU14nhgw)
 - [Heart - Nobody home [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=ePNGtYqWx2U)

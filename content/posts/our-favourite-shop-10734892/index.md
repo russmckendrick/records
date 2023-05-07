@@ -42,13 +42,13 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Internationalists
-{{< youtube id="lNFFr8H_qKo" title="Internationalists" >}}<br>
+### The Style Council - Come To Milton Keynes
+{{< youtube id="eweq1pnVOF0" title="The Style Council - Come To Milton Keynes" >}}<br>
 
 ### More Videos
 
-- [The Style Council - Come To Milton Keynes](https://www.youtube.com/watch?v=eweq1pnVOF0)
 - [The Style Council - Our Favourite Shop (Album Version)](https://www.youtube.com/watch?v=4Xr48EHqvlk)
+- [Internationalists](https://www.youtube.com/watch?v=lNFFr8H_qKo)
 - [Homebreakers   The Style Council](https://www.youtube.com/watch?v=vqDRo2p5W1I)
 - [The Stand Up Comic's Instructions](https://www.youtube.com/watch?v=gsxMirHcG9k)
 - [The Style Council - All Gone Away](https://www.youtube.com/watch?v=mExCJcu98h0)

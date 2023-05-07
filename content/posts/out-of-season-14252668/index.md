@@ -38,12 +38,11 @@ styles: ["Downtempo", "Folk Rock"]
 
 
 ## Videos
-### Beth Gibbons & Rustin Man-Rustin Man
-{{< youtube id="XwW88xMH15c" title="Beth Gibbons & Rustin Man-Rustin Man" >}}<br>
+### Beth Gibbons & Rustin Man-Mysteries
+{{< youtube id="Epyt0IQ_uEA" title="Beth Gibbons & Rustin Man-Mysteries" >}}<br>
 
 ### More Videos
 
-- [Beth Gibbons & Rustin Man-Mysteries](https://www.youtube.com/watch?v=Epyt0IQ_uEA)
 - [Beth Gibbons & Rustin Man-Tom The Model](https://www.youtube.com/watch?v=I6lRw-e5cEQ)
 - [Beth Gibbons & Rustin Man-Show](https://www.youtube.com/watch?v=gfPoHQplGKU)
 - [Beth Gibbons & Rustin Man-Romance](https://www.youtube.com/watch?v=B_Tb0Xt9fgo)
@@ -52,6 +51,7 @@ styles: ["Downtempo", "Folk Rock"]
 - [Beth Gibbons & Rustin Man-Resolve](https://www.youtube.com/watch?v=wIu9G0e1MbA)
 - [Beth Gibbons & Rustin Man-Drake](https://www.youtube.com/watch?v=4gXY_UrDSqU)
 - [Beth Gibbons & Rustin Man-Funny Time Of Year](https://www.youtube.com/watch?v=KnOzR2Qo0Kc)
+- [Beth Gibbons & Rustin Man-Rustin Man](https://www.youtube.com/watch?v=XwW88xMH15c)
 - [Beth Gibbons & Rustin Man-Spider Monkey (Live 11-11-2002)](https://www.youtube.com/watch?v=KjWY9M_1Cgw)
 - [Beth Gibbons & Rustin Man-Tom The Model (Live 11-11-2002)](https://www.youtube.com/watch?v=IBKp42WKxEI)
 - [Beth Gibbons & Rustin Man-Funny Time Of Year (Live 11-11-2002)](https://www.youtube.com/watch?v=yUVh44DKWGU)

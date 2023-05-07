@@ -38,14 +38,14 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 
 
 ## Videos
-### Supernatural (From Ghostbusters II Soundtrack)
-{{< youtube id="XevZm9GA0BM" title="Supernatural (From Ghostbusters II Soundtrack)" >}}<br>
+### Bobby Brown On Our Own (Ghostbusters II Soundtrack)
+{{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own (Ghostbusters II Soundtrack)" >}}<br>
 
 ### More Videos
 
-- [Bobby Brown On Our Own (Ghostbusters II Soundtrack)](https://www.youtube.com/watch?v=LvPlfUDAnLU)
 - [On Our Own (From Ghostbusters II Soundtrack)](https://www.youtube.com/watch?v=2_S94_nx5Ao)
 - [Ghostbusters II Soundtrack (1989) [FULL ALBUM]](https://www.youtube.com/watch?v=d2dlk_t4tHI)
+- [Supernatural (From Ghostbusters II Soundtrack)](https://www.youtube.com/watch?v=XevZm9GA0BM)
 - [The Promised Land](https://www.youtube.com/watch?v=OvHIU98qLGU)
 - [We're Back (From Ghostbusters II Soundtrack)](https://www.youtube.com/watch?v=SQc89-YoSKo)
 - [Spirit](https://www.youtube.com/watch?v=2-IGR5mwRUE)

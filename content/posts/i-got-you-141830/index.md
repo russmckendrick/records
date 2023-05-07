@@ -27,13 +27,13 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Split Enz : I Got You (rare clip)
-{{< youtube id="icBL4ahIWTU" title="Split Enz : I Got You (rare clip)" >}}<br>
+### Split Enz - I Got You (1980)
+{{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
 
 ### More Videos
 
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [I Got You](https://www.youtube.com/watch?v=bAAe3cVFxTM)
+- [Split Enz : I Got You (rare clip)](https://www.youtube.com/watch?v=icBL4ahIWTU)
 - [Split Enz - Double Happy (1980)](https://www.youtube.com/watch?v=nsGblAyjmZM)
 - [Split Enz - I Got You](https://www.youtube.com/watch?v=xv6oOxn1axw)
 

@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - Not Fazed
-{{< youtube id="KqOPgCFdO5E" title="Ride - Not Fazed" >}}<br>
+### Ride - Leave Them All Behind
+{{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
 
 ### More Videos
 
-- [Ride - Leave Them All Behind](https://www.youtube.com/watch?v=gIsnb1TKYjE)
+- [Ride - Not Fazed](https://www.youtube.com/watch?v=KqOPgCFdO5E)
 - [Ride - Twisterella](https://www.youtube.com/watch?v=qQ8y87YQDX4)
 - [Ride - Mouse Trap](https://www.youtube.com/watch?v=fnVqqkMp6Ns)
 - [Ride - Time Of Her Time](https://www.youtube.com/watch?v=hNW4Pq-OIb4)

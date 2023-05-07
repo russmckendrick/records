@@ -38,14 +38,14 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 
 
 ## Videos
-### No Speak No Slave
-{{< youtube id="-bPhju3r1qc" title="No Speak No Slave" >}}<br>
+### The Black Crowes - Remedy
+{{< youtube id="BYyRLTveFJQ" title="The Black Crowes - Remedy" >}}<br>
 
 ### More Videos
 
-- [The Black Crowes - Remedy](https://www.youtube.com/watch?v=BYyRLTveFJQ)
 - [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
 - [The Black Crowes - Sting Me](https://www.youtube.com/watch?v=OaH9wIQDUwE)
+- [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
 
 
 ## Release Information

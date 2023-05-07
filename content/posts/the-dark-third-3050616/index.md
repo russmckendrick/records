@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Aeropause
-{{< youtube id="r6b7lVJSKQY" title="Aeropause" >}}<br>
+### Pure Reason Revolution - The Twyncyn / Trembilin Willows
+{{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
 
 ### More Videos
 
-- [Pure Reason Revolution - The Twyncyn / Trembilin Willows](https://www.youtube.com/watch?v=wwwIiyFmoxM)
+- [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
 - [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
 - [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)

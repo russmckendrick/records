@@ -52,12 +52,11 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Coasters - Crazy Baby
-{{< youtube id="QV7Az4N9-iQ" title="Coasters - Crazy Baby" >}}<br>
+### Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]
+{{< youtube id="kasWTpTQ1k4" title="Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]" >}}<br>
 
 ### More Videos
 
-- [Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]](https://www.youtube.com/watch?v=kasWTpTQ1k4)
 - [Booker T. & The MG's - Green Onions (Official Audio)](https://www.youtube.com/watch?v=0oox9bJaGJ8)
 - [In the Midnight Hour](https://www.youtube.com/watch?v=uiy36UfftsI)
 - [THE MAR-KEYS - Last Night](https://www.youtube.com/watch?v=FX5T9GvSnbY)
@@ -75,6 +74,7 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 - [Arthur Conley ~ Sweet Soul Music  (1967)](https://www.youtube.com/watch?v=grE0lwTsSPg)
 - [The Invitations - Skiing In The Snow](https://www.youtube.com/watch?v=SMkdhSWEmNA)
 - [DARRELL BANKS - Open the door to your heart - REVILOT](https://www.youtube.com/watch?v=zWlPIAxDAA0)
+- [Coasters - Crazy Baby](https://www.youtube.com/watch?v=QV7Az4N9-iQ)
 - [KING CURTIS - Memphis Soul Stew](https://www.youtube.com/watch?v=4Sm9n-6hy6M)
 - [Archie Bell & The Drells - Here I Go Again](https://www.youtube.com/watch?v=EciMesBeNDs)
 - [Chuck Wood - Seven Days Too Long](https://www.youtube.com/watch?v=b3ZRDeKLyqk)

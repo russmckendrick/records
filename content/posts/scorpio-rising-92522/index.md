@@ -35,12 +35,12 @@ styles: ["Alternative Rock", "Leftfield"]
 
 
 ## Videos
-### Leather
-{{< youtube id="YRhp8ygTPZM" title="Leather" >}}<br>
+### Death In Vegas - Scorpio Raising ft. Liam Gallagher
+{{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}<br>
 
 ### More Videos
 
-- [Death In Vegas - Scorpio Raising ft. Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
+- [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
 - [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
 - [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
 - [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)

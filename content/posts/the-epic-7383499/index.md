@@ -48,13 +48,13 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 
 
 ## Videos
-### Kamasi Washington - 'Isabelle'
-{{< youtube id="bCIAMO3Al1A" title="Kamasi Washington - 'Isabelle'" >}}<br>
+### Kamasi Washington - 'Change of the Guard'
+{{< youtube id="NtQRBzSN9Vw" title="Kamasi Washington - 'Change of the Guard'" >}}<br>
 
 ### More Videos
 
-- [Kamasi Washington - 'Change of the Guard'](https://www.youtube.com/watch?v=NtQRBzSN9Vw)
 - [Kamasi Washington - 'Askim'](https://www.youtube.com/watch?v=mYdDFZLGx7U)
+- [Kamasi Washington - 'Isabelle'](https://www.youtube.com/watch?v=bCIAMO3Al1A)
 - [Kamasi Washington - 'Final Thought'](https://www.youtube.com/watch?v=YuQdtFb_Z2k)
 - [Kamasi Washington - 'The Next Step'](https://www.youtube.com/watch?v=rQ2bkIfHDl4)
 - [Kamasi Washington - 'The Rhythm Changes'](https://www.youtube.com/watch?v=OkLz4MyDmuE)

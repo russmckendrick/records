@@ -36,13 +36,13 @@ styles: ["Techno", "IDM"]
 
 
 ## Videos
-### Aphex Twin - CHEETA1b ms800
-{{< youtube id="r_g75_gIau8" title="Aphex Twin - CHEETA1b ms800" >}}<br>
+### Cheetaht2 [Ld Spectrum]
+{{< youtube id="3fYeGslglCc" title="Cheetaht2 [Ld Spectrum]" >}}<br>
 
 ### More Videos
 
-- [Cheetaht2 [Ld Spectrum]](https://www.youtube.com/watch?v=3fYeGslglCc)
 - [Aphex Twin - CHEETAHT7b](https://www.youtube.com/watch?v=cJcHE1C0BWQ)
+- [Aphex Twin - CHEETA1b ms800](https://www.youtube.com/watch?v=r_g75_gIau8)
 - [Cheeta2 Ms800](https://www.youtube.com/watch?v=n-EsxoAtzw0)
 
 

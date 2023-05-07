@@ -50,13 +50,13 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 
 
 ## Videos
-### M83 'Midnight City' Official video
-{{< youtube id="dX3k_QDnzHE" title="M83 'Midnight City' Official video" >}}<br>
+### M83 - Outro
+{{< youtube id="Eyjj8BgsBGU" title="M83 - Outro" >}}<br>
 
 ### More Videos
 
-- [M83 - Outro](https://www.youtube.com/watch?v=Eyjj8BgsBGU)
 - [M83 - Intro feat. Zola Jesus (audio)](https://www.youtube.com/watch?v=yr_HIrfr7is)
+- [M83 'Midnight City' Official video](https://www.youtube.com/watch?v=dX3k_QDnzHE)
 - [M83 - Wait (Official Video)](https://www.youtube.com/watch?v=lAwYodrBr2Q)
 - [M83 'Reunion' Official video](https://www.youtube.com/watch?v=DJQQrjVmQG0)
 - [M83 - My Tears Are Becoming A Sea (audio)](https://www.youtube.com/watch?v=uE8EhJ9gS28)

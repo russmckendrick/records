@@ -43,13 +43,13 @@ styles: ["Stoner Rock", "Heavy Metal"]
 
 
 ## Videos
-### CORROSION OF CONFORMITY - The Luddite (OFFICIAL MUSIC VIDEO)
-{{< youtube id="TusKotRru_c" title="CORROSION OF CONFORMITY - The Luddite (OFFICIAL MUSIC VIDEO)" >}}<br>
+### CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)
+{{< youtube id="ljxyItzRZm4" title="CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)" >}}<br>
 
 ### More Videos
 
-- [CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)](https://www.youtube.com/watch?v=ljxyItzRZm4)
 - [CORROSION OF CONFORMITY - Wolf Named Crow (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=fIfv7BKvtI8)
+- [CORROSION OF CONFORMITY - The Luddite (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=TusKotRru_c)
 - [Corrosion Of Conformity — Little Man](https://www.youtube.com/watch?v=B0ubqmddD4s)
 
 

@@ -40,17 +40,17 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Gizmodrome- Amaka Pipa
-{{< youtube id="7Ovg7IfI89o" title="Gizmodrome- Amaka Pipa" >}}<br>
+### Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma
+{{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma" >}}<br>
 
 ### More Videos
 
-- [Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma](https://www.youtube.com/watch?v=ygZyuB21gMU)
 - [Gizmodrome- Zubatta Cheve](https://www.youtube.com/watch?v=Su7O_l93U6o)
 - [Gizmodrome- Zombies In The Mall](https://www.youtube.com/watch?v=innkqp8YDPw)
 - [Gizmodrome- Stark Naked](https://www.youtube.com/watch?v=-Znl0JPeZ8M)
 - [Gizmodrome Summer Is Coming](https://www.youtube.com/watch?v=za2_NMennRo)
 - [Gizmodrome- Spin This](https://www.youtube.com/watch?v=Ph1XdKGrjKE)
+- [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
 - [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
 - [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)

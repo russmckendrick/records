@@ -42,14 +42,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### R.E.M. - New Test Leper (Official Music Video)
-{{< youtube id="_c_Yg8azAi0" title="R.E.M. - New Test Leper (Official Music Video)" >}}<br>
+### R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)
+{{< youtube id="9BC07l2_zKU" title="R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)](https://www.youtube.com/watch?v=9BC07l2_zKU)
 - [R.E.M. - E-Bow The Letter (Official Music Video) feat. Patti Smith](https://www.youtube.com/watch?v=5cnIQHJ169s)
 - [R. E. M. | The Wake-Up Bomb | 1996](https://www.youtube.com/watch?v=gi6oi-SeGOE)
+- [R.E.M. - New Test Leper (Official Music Video)](https://www.youtube.com/watch?v=_c_Yg8azAi0)
 - [R.E.M. - Undertow (Official Audio)](https://www.youtube.com/watch?v=Mp8gL2zlazI)
 - [rem - leave](https://www.youtube.com/watch?v=qdqwvVLa3hc)
 - [R.E.M. - Binky The Doormat (Official Audio)](https://www.youtube.com/watch?v=pnAjtgYjhxo)

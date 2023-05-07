@@ -38,12 +38,11 @@ styles: ["Leftfield"]
 
 
 ## Videos
-### how do you sleep?
-{{< youtube id="E55hWJFzaC8" title="how do you sleep?" >}}<br>
+### oh baby
+{{< youtube id="PPa7wrRW2zE" title="oh baby" >}}<br>
 
 ### More Videos
 
-- [oh baby](https://www.youtube.com/watch?v=PPa7wrRW2zE)
 - [LCD Soundsystem - oh baby (Official Video)](https://www.youtube.com/watch?v=5gIhrPGyu6U)
 - [other voices](https://www.youtube.com/watch?v=ZRaVXBJDiu8)
 - [LCD Soundsystem - tonite (Video)](https://www.youtube.com/watch?v=lqq3BtGrpU8)
@@ -51,6 +50,7 @@ styles: ["Leftfield"]
 - [LCD Soundsystem - american dream](https://www.youtube.com/watch?v=ML1MUKOJIIo)
 - [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
 - [LCD Soundsystem - call the police](https://www.youtube.com/watch?v=zWKIWNJnlzI)
+- [how do you sleep?](https://www.youtube.com/watch?v=E55hWJFzaC8)
 - [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)
 - [call the police](https://www.youtube.com/watch?v=b4AYQa0j_v8)
 - [american dream](https://www.youtube.com/watch?v=pUo4Waix-ww)

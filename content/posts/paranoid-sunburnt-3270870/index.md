@@ -39,12 +39,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### Skunk Anansie - I Can Dream
-{{< youtube id="1YaM-2T4yzM" title="Skunk Anansie - I Can Dream" >}}<br>
+### Skunk Anansie - Intellectualise my blackness
+{{< youtube id="W-UPYJ7ugBM" title="Skunk Anansie - Intellectualise my blackness" >}}<br>
 
 ### More Videos
 
-- [Skunk Anansie - Intellectualise my blackness](https://www.youtube.com/watch?v=W-UPYJ7ugBM)
+- [Skunk Anansie - I Can Dream](https://www.youtube.com/watch?v=1YaM-2T4yzM)
 - [Skunk Anansie - Little Baby Swastikka](https://www.youtube.com/watch?v=aBINfmb7tWE)
 - [Skunk Anansie - And Here I Stand](https://www.youtube.com/watch?v=ASUvc3MCXSE)
 - [Skunk Anansie - All in the name of pity](https://www.youtube.com/watch?v=AWEpDROevaA)

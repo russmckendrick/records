@@ -48,12 +48,11 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 
 
 ## Videos
-### Apple Of Sodom
-{{< youtube id="TzgkwXjWuEg" title="Apple Of Sodom" >}}<br>
+### Lost Highway Soundtrack 01. I’m Deranged (Edit)
+{{< youtube id="oHxkDIvbyGg" title="Lost Highway Soundtrack 01. I’m Deranged (Edit)" >}}<br>
 
 ### More Videos
 
-- [Lost Highway Soundtrack 01. I’m Deranged (Edit)](https://www.youtube.com/watch?v=oHxkDIvbyGg)
 - [Videodrones; Questions](https://www.youtube.com/watch?v=ji_BZmgB1OM)
 - [The Perfect Drug](https://www.youtube.com/watch?v=pa5YJRcfCfM)
 - [Red Bats With Teeth](https://www.youtube.com/watch?v=k-e08eBbNv0)
@@ -64,6 +63,7 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 - [This Magic Moment](https://www.youtube.com/watch?v=fP-mlrMv7Ok)
 - [Mr. Eddy's Theme 2](https://www.youtube.com/watch?v=5GhEn4-VtRE)
 - [Fred & Renee Make Love](https://www.youtube.com/watch?v=bCgEAeMZEpI)
+- [Apple Of Sodom](https://www.youtube.com/watch?v=TzgkwXjWuEg)
 - [Lost Highway Soundtrack 13. Insensatez](https://www.youtube.com/watch?v=YuZvHfuyIT8)
 - [Lost Highway Soundtrack 14. Something Wicked This Way Comes](https://www.youtube.com/watch?v=vSshzmKOlCE)
 - [I Put A Spell On You](https://www.youtube.com/watch?v=jy7Q1nt-4PE)

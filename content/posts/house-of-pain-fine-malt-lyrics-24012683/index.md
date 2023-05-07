@@ -50,13 +50,13 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 
 
 ## Videos
-### House Of Pain - Guess Who's Back
-{{< youtube id="z2hesUfjTTE" title="House Of Pain - Guess Who's Back" >}}<br>
+### House of Pain - Jump Around (Official Music Video)
+{{< youtube id="XhzpxjuwZy0" title="House of Pain - Jump Around (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [House of Pain - Jump Around (Official Music Video)](https://www.youtube.com/watch?v=XhzpxjuwZy0)
 - [House Of Pain - Life Goes On](https://www.youtube.com/watch?v=oR3gM8PhRRQ)
+- [House Of Pain - Guess Who's Back](https://www.youtube.com/watch?v=z2hesUfjTTE)
 - [House Of Pain - House of Pain Anthem](https://www.youtube.com/watch?v=VTOcN7MnijA)
 - [House Of Pain - Feel It](https://www.youtube.com/watch?v=lZ_-IaV5G18)
 - [House Of Pain - All My Love](https://www.youtube.com/watch?v=uK15faVp8EY)

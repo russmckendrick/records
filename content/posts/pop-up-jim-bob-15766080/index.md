@@ -36,14 +36,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### BIG Boy
-{{< youtube id="CRUMIlyIW1g" title="BIG Boy" >}}<br>
+### Jim Bob - Jo's Got Papercuts [Official Video]
+{{< youtube id="OqRWb9JQW_0" title="Jim Bob - Jo's Got Papercuts [Official Video]" >}}<br>
 
 ### More Videos
 
-- [Jim Bob - Jo's Got Papercuts [Official Video]](https://www.youtube.com/watch?v=OqRWb9JQW_0)
 - [Jim Bob: Pop Up Jim Bob [CD / Limited Edition Vinyl LP with 2021 Jim Bob Calendar]](https://www.youtube.com/watch?v=hICaKXpoMCw)
 - [Jim Bob - If it Ain't Broke (Official Video)](https://www.youtube.com/watch?v=FtJDa_UMDFE)
+- [BIG Boy](https://www.youtube.com/watch?v=CRUMIlyIW1g)
 - [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
 - [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
 

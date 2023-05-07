@@ -34,12 +34,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### King Crimson - The Talking Drum
-{{< youtube id="OX6WB0vlDUg" title="King Crimson - The Talking Drum" >}}<br>
+### King Crimson - Larks' Tongues In Aspic, Part Two
+{{< youtube id="jX0caf1HvNs" title="King Crimson - Larks' Tongues In Aspic, Part Two" >}}<br>
 
 ### More Videos
 
-- [King Crimson - Larks' Tongues In Aspic, Part Two](https://www.youtube.com/watch?v=jX0caf1HvNs)
+- [King Crimson - The Talking Drum](https://www.youtube.com/watch?v=OX6WB0vlDUg)
 
 
 ## Release Information

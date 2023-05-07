@@ -36,13 +36,13 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Tayos Caves, Ecuador ii
-{{< youtube id="jm_Y1HL59VA" title="Tayos Caves, Ecuador ii" >}}<br>
+### Welcome
+{{< youtube id="YhRybYyrNaI" title="Welcome" >}}<br>
 
 ### More Videos
 
-- [Welcome](https://www.youtube.com/watch?v=YhRybYyrNaI)
 - [Tayos Caves, Ecuador i](https://www.youtube.com/watch?v=fzZ9r6VdCfc)
+- [Tayos Caves, Ecuador ii](https://www.youtube.com/watch?v=jm_Y1HL59VA)
 - [Tayos Caves, Ecuador iii](https://www.youtube.com/watch?v=sg-VH5pl-Hs)
 - [Love Flows Over Us In Prismatic Waves](https://www.youtube.com/watch?v=1JenmCSndX8)
 - [Deep In The Glowing Heart](https://www.youtube.com/watch?v=3DfT7jd3bhg)

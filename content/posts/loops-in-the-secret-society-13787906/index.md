@@ -50,12 +50,12 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 
 
 ## Videos
-### Milk Loop
-{{< youtube id="ga_vN2nOlwU" title="Milk Loop" >}}<br>
+### Element (Loops Variation)
+{{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}<br>
 
 ### More Videos
 
-- [Element (Loops Variation)](https://www.youtube.com/watch?v=-2eNnE0DQZo)
+- [Milk Loop](https://www.youtube.com/watch?v=ga_vN2nOlwU)
 - [Arrows (Loops Variation)](https://www.youtube.com/watch?v=Bhn-5_ecS4Q)
 - [Ravenspoint (Loops Variation)](https://www.youtube.com/watch?v=du1RjXpiEnw)
 - [Cells (Loops Variation)](https://www.youtube.com/watch?v=ra57S1IZje4)

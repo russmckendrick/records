@@ -38,12 +38,11 @@ styles: ["Cha-Cha"]
 
 
 ## Videos
-### Carmen & Fernando del Valle - Vacation Cha Cha
-{{< youtube id="ylGp9-2BN2g" title="Carmen & Fernando del Valle - Vacation Cha Cha" >}}<br>
+### Chat Cha Cha
+{{< youtube id="LL6NYx_5s0o" title="Chat Cha Cha" >}}<br>
 
 ### More Videos
 
-- [Chat Cha Cha](https://www.youtube.com/watch?v=LL6NYx_5s0o)
 - [Continental Cha Cha](https://www.youtube.com/watch?v=wI0HUieG2Xo)
 - [Simple Cha Cha](https://www.youtube.com/watch?v=sGvTUFDf5rA)
 - [Vacation Cha Cha](https://www.youtube.com/watch?v=0jDKNOnuqXU)
@@ -54,6 +53,7 @@ styles: ["Cha-Cha"]
 - [Carmen & Fernando del Valle - Chat Cha Cha](https://www.youtube.com/watch?v=K2VPUhooZ5I)
 - [Torrid Cha Cha](https://www.youtube.com/watch?v=mSqxtpuCniI)
 - [Chanticleer Cha Cha](https://www.youtube.com/watch?v=V7v-Vn4d1qg)
+- [Carmen & Fernando del Valle - Vacation Cha Cha](https://www.youtube.com/watch?v=ylGp9-2BN2g)
 - [Carmen & Fernando del Valle - Continental Cha Cha](https://www.youtube.com/watch?v=svKb_RXGQWc)
 - [Carmen & Fernando del Valle - Simple Cha Cha](https://www.youtube.com/watch?v=9l-eu8bCnH8)
 - [Carmen & Fernando del Valle - Pass Cha Cha](https://www.youtube.com/watch?v=DuwqN3ypVDU)

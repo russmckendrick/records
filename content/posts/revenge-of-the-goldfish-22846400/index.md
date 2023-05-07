@@ -37,12 +37,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Irresistible Force
-{{< youtube id="wi5gO_h08Bg" title="Irresistible Force" >}}<br>
+### Inspiral Carpets - Generations (Official HD Video)
+{{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Inspiral Carpets - Generations (Official HD Video)](https://www.youtube.com/watch?v=rV5U2ZdcOCM)
 - [Saviour](https://www.youtube.com/watch?v=T3lwGF-a9ik)
 - [Inspiral Carpets - Bitches Brew (Official HD Video)](https://www.youtube.com/watch?v=pTyqVaAm2AA)
 - [Smoking Her Clothes](https://www.youtube.com/watch?v=OXlllcOcf1o)
@@ -53,6 +52,7 @@ styles: ["Indie Rock"]
 - [Two Worlds Collide](https://www.youtube.com/watch?v=ODLSSIKZYr0)
 - [Mystery](https://www.youtube.com/watch?v=uEqsc5FWuZQ)
 - [Rain Song](https://www.youtube.com/watch?v=WTQg9B90ytM)
+- [Irresistible Force](https://www.youtube.com/watch?v=wi5gO_h08Bg)
 
 
 ## Release Information

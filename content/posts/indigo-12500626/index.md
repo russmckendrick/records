@@ -41,12 +41,12 @@ styles: []
 
 
 ## Videos
-### Kandace Springs - Fix Me
-{{< youtube id="oXmtRxZKVFo" title="Kandace Springs - Fix Me" >}}<br>
+### Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]
+{{< youtube id="EaQwTZmJywg" title="Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]" >}}<br>
 
 ### More Videos
 
-- [Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]](https://www.youtube.com/watch?v=EaQwTZmJywg)
+- [Kandace Springs - Fix Me](https://www.youtube.com/watch?v=oXmtRxZKVFo)
 - [Kandace Springs - Piece Of Me](https://www.youtube.com/watch?v=vfSHvk0wGko)
 - [Kandace Springs - Unsophisticated ft. Roy Hargrove](https://www.youtube.com/watch?v=yuMkMu8keXE)
 - [Kandace Springs - Love Sucks](https://www.youtube.com/watch?v=Q05BJUp463I)

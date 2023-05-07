@@ -40,12 +40,11 @@ styles: ["Glam", "Hard Rock"]
 
 
 ## Videos
-### Warrant – Train, Train
-{{< youtube id="jci8rDnicJA" title="Warrant – Train, Train" >}}<br>
+### Warrant - Uncle Tom's Cabin (Official Video)
+{{< youtube id="bx6f68Wd9dc" title="Warrant - Uncle Tom's Cabin (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Warrant - Uncle Tom's Cabin (Official Video)](https://www.youtube.com/watch?v=bx6f68Wd9dc)
 - [Warrant - Cherry Pie](https://www.youtube.com/watch?v=OjyZKfdwlng)
 - [Warrant - I Saw Red](https://www.youtube.com/watch?v=3dh79Ggx9Js)
 - [Warrant – Cherry Pie](https://www.youtube.com/watch?v=Lf3pEwlJ5pw)
@@ -59,6 +58,7 @@ styles: ["Glam", "Hard Rock"]
 - [Warrant – Love In Stereo](https://www.youtube.com/watch?v=HPnpYGLjrBw)
 - [Warrant – I Saw Red](https://www.youtube.com/watch?v=PJ60M7UXCig)
 - [Warrant – Song And Dance Man](https://www.youtube.com/watch?v=Mnrg0BlzeM4)
+- [Warrant – Train, Train](https://www.youtube.com/watch?v=jci8rDnicJA)
 - [Warrant – Uncle Tom's Cabin](https://www.youtube.com/watch?v=iTcYXkGWK_0)
 - [Warrant – Blind Faith](https://www.youtube.com/watch?v=QGB_J4OEk6c)
 - [Warrant – Sure Feels Good To Me](https://www.youtube.com/watch?v=KCL2ZWA_yE0)

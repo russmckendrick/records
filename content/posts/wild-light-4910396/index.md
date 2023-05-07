@@ -44,15 +44,15 @@ styles: ["Post Rock", "Math Rock", "Shoegaze"]
 
 
 ## Videos
-### 65daysofstatic - Taipei
-{{< youtube id="QE5A2Y-MTJ8" title="65daysofstatic - Taipei" >}}<br>
+### 65daysofstatic - Safe Passage
+{{< youtube id="V480DQCRSJ0" title="65daysofstatic - Safe Passage" >}}<br>
 
 ### More Videos
 
-- [65daysofstatic - Safe Passage](https://www.youtube.com/watch?v=V480DQCRSJ0)
 - [65daysofstatic - PRISMS](https://www.youtube.com/watch?v=geMmsM43N4Y)
 - [Taipei (Wild Light) - 65daysofstatic](https://www.youtube.com/watch?v=eH8NAUum0Tk)
 - [65daysofstatic - The Undertow](https://www.youtube.com/watch?v=8JdO4yg0_8U)
+- [65daysofstatic - Taipei](https://www.youtube.com/watch?v=QE5A2Y-MTJ8)
 - [65daysofstatic - Sleepwalk City](https://www.youtube.com/watch?v=N67mw_1Iz-A)
 - [65daysofstatic - Heat Death Infinity Splitter](https://www.youtube.com/watch?v=WGuHD3dIOWg)
 - [65daysofstatic - Blackspots](https://www.youtube.com/watch?v=GxLneEgGYm8)

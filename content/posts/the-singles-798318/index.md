@@ -49,12 +49,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Find Out Why
-{{< youtube id="2VCwOY9ocZk" title="Find Out Why" >}}<br>
+### Joe
+{{< youtube id="cT-uBrN6IVs" title="Joe" >}}<br>
 
 ### More Videos
 
-- [Joe](https://www.youtube.com/watch?v=cT-uBrN6IVs)
+- [Find Out Why](https://www.youtube.com/watch?v=2VCwOY9ocZk)
 - [Move](https://www.youtube.com/watch?v=njYUA8cwpU8)
 - [Inspiral Carpets - This Is How It Feels (Official Video)](https://www.youtube.com/watch?v=J-fX0UbpZls)
 - [Inspiral Carpets - She Comes In The Fall (Official HD Video)](https://www.youtube.com/watch?v=FOxxlp_k6jA)

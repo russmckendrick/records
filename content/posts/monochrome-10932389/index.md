@@ -32,13 +32,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Daniel Cavanagh - Soho (Monochrome)
-{{< youtube id="wAfA7aw5Dzw" title="Daniel Cavanagh - Soho (Monochrome)" >}}<br>
+### Daniel Cavanagh - The Exorcist (from Monochrome)
+{{< youtube id="pKGoYUZ_B1c" title="Daniel Cavanagh - The Exorcist (from Monochrome)" >}}<br>
 
 ### More Videos
 
-- [Daniel Cavanagh - The Exorcist (from Monochrome)](https://www.youtube.com/watch?v=pKGoYUZ_B1c)
 - [Daniel Cavanagh - This Music (from Monochrome)](https://www.youtube.com/watch?v=VuJGTV3T-l0)
+- [Daniel Cavanagh - Soho (Monochrome)](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
 - [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours (acoustic) (from Monochrome/Colour)](https://www.youtube.com/watch?v=o5XtTnnK6J0)
 - [Daniel Cavanagh - Dawn (Monochrome)](https://www.youtube.com/watch?v=OmoNknT9zGc)
 - [Daniel Cavanagh - Oceans Of Time (Monochrome)](https://www.youtube.com/watch?v=xxsaFocAETQ)

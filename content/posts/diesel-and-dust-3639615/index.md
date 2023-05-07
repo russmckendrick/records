@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Midnight Oil - The Dead Heart
-{{< youtube id="16bFBzx7I_0" title="Midnight Oil - The Dead Heart" >}}<br>
+### Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]
+{{< youtube id="R6eJwfgATZ8" title="Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]" >}}<br>
 
 ### More Videos
 
-- [Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]](https://www.youtube.com/watch?v=R6eJwfgATZ8)
 - [Midnight Oil - Beds Are Burning](https://www.youtube.com/watch?v=ejorQVy3m8E)
+- [Midnight Oil - The Dead Heart](https://www.youtube.com/watch?v=16bFBzx7I_0)
 - [Midnight Oil - Put Down That Weapon](https://www.youtube.com/watch?v=XzEwCc4WVKs)
 - [Midnight Oil - Dreamworld](https://www.youtube.com/watch?v=OcKcjpSWmm0)
 - [Arctic World (2007 Remastered)](https://www.youtube.com/watch?v=LBJQoUfj91U)

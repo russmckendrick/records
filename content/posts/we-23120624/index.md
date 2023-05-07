@@ -35,18 +35,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - WE (Official Audio)
-{{< youtube id="X4MHYNGmqng" title="Arcade Fire - WE (Official Audio)" >}}<br>
+### Age of Anxiety I
+{{< youtube id="IH_qgFWOg2I" title="Age of Anxiety I" >}}<br>
 
 ### More Videos
 
-- [Age of Anxiety I](https://www.youtube.com/watch?v=IH_qgFWOg2I)
 - [Age of Anxiety II (Rabbit Hole)](https://www.youtube.com/watch?v=SR9kwm5iF8Y)
 - [End of The Empire I-III](https://www.youtube.com/watch?v=dFX5g7kyX9g)
 - [End of the Empire IV (Sagittarius A*)](https://www.youtube.com/watch?v=YNFEs3JKMeA)
 - [Arcade Fire - The Lightning I, II (Official Video)](https://www.youtube.com/watch?v=qJiALpiqpk8)
 - [Arcade Fire - Unconditional I (Lookout Kid) (Official Video)](https://www.youtube.com/watch?v=FdXRbOrsyRY)
 - [Arcade Fire - Unconditional II (Race and Religion) (Official Audio) ft. Peter Gabriel](https://www.youtube.com/watch?v=dXGUMVoOPlk)
+- [Arcade Fire - WE (Official Audio)](https://www.youtube.com/watch?v=X4MHYNGmqng)
 
 
 ## Release Information

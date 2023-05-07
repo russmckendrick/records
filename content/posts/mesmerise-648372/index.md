@@ -29,13 +29,13 @@ styles: ["Shoegaze", "Indie Rock"]
 
 
 ## Videos
-### Chapterhouse - Mesmerise
-{{< youtube id="YDlLNdoTxLs" title="Chapterhouse - Mesmerise" >}}<br>
+### Chapterhouse - Precious One
+{{< youtube id="HW0JWRt0t1A" title="Chapterhouse - Precious One" >}}<br>
 
 ### More Videos
 
-- [Chapterhouse - Precious One](https://www.youtube.com/watch?v=HW0JWRt0t1A)
 - [Chapterhouse - Mesmerise (Video)](https://www.youtube.com/watch?v=Ecm0BVOt62A)
+- [Chapterhouse - Mesmerise](https://www.youtube.com/watch?v=YDlLNdoTxLs)
 - [Chapterhouse Precious One](https://www.youtube.com/watch?v=ulC6MFx2mAM)
 - [Chapterhouse - Summer Chill](https://www.youtube.com/watch?v=A434PaWxN_Q)
 - [Chapterhouse - Mesmerise (Remix)](https://www.youtube.com/watch?v=USVFDiAYveM)

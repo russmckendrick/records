@@ -46,12 +46,11 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 
 
 ## Videos
-### Extreme – Politicalamity
-{{< youtube id="dJrUX2s4tF8" title="Extreme – Politicalamity" >}}<br>
+### Extreme - Rest In Peace
+{{< youtube id="odz3c68JE1c" title="Extreme - Rest In Peace" >}}<br>
 
 ### More Videos
 
-- [Extreme - Rest In Peace](https://www.youtube.com/watch?v=odz3c68JE1c)
 - [Extreme Warheads (Studio Version)](https://www.youtube.com/watch?v=P3RAleZQFpc)
 - [Extreme – Everything Under The Sun / Rise 'N Shine / Am I Ever Gonna Change / Who Cares?](https://www.youtube.com/watch?v=WHuR_SYgHQ4)
 - [Extreme - Tragic Comic](https://www.youtube.com/watch?v=_44jokODfzM)
@@ -64,6 +63,7 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 - [Extreme – God Isn't Dead?](https://www.youtube.com/watch?v=L4zcQ6vNxyQ)
 - [Extreme – Seven Sundays](https://www.youtube.com/watch?v=23F9TJXxbBc)
 - [Extreme – Cupid's Dead](https://www.youtube.com/watch?v=rkUyat92f2o)
+- [Extreme – Politicalamity](https://www.youtube.com/watch?v=dJrUX2s4tF8)
 - [Extreme – Peacemaker Die](https://www.youtube.com/watch?v=jMlXxkiUe5s)
 
 

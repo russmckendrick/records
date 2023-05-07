@@ -35,13 +35,13 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Double or Nothing (From Rocky IV Soundtrack)
-{{< youtube id="fj_39TxmMbQ" title="Double or Nothing (From Rocky IV Soundtrack)" >}}<br>
+### Survivor - Burning Heart (Video)
+{{< youtube id="Kc71KZG87X4" title="Survivor - Burning Heart (Video)" >}}<br>
 
 ### More Videos
 
-- [Survivor - Burning Heart (Video)](https://www.youtube.com/watch?v=Kc71KZG87X4)
 - [Hearts On Fire (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=_u8oAMhl8Vc)
+- [Double or Nothing (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=fj_39TxmMbQ)
 - [Survivor - Eye Of The Tiger (Official HD Video)](https://www.youtube.com/watch?v=btPJPFnesV4)
 - [War/Fanfare from Rocky IV](https://www.youtube.com/watch?v=1nlTp-4ilFA)
 - [James Brown - Living in America](https://www.youtube.com/watch?v=c5BL4RNFr58)

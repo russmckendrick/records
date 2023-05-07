@@ -36,12 +36,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Deacon Blue - Not Gonna Be That Girl (Official Audio)
-{{< youtube id="HEMgponMEZ4" title="Deacon Blue - Not Gonna Be That Girl (Official Audio)" >}}<br>
+### Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)
+{{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)](https://www.youtube.com/watch?v=ylCZZVkwbig)
+- [Deacon Blue - Not Gonna Be That Girl (Official Audio)](https://www.youtube.com/watch?v=HEMgponMEZ4)
 - [Deacon Blue - Look Up (Official Audio)](https://www.youtube.com/watch?v=5MuKyy1c79Q)
 - [Deacon Blue - It's Still Early (Official Audio)](https://www.youtube.com/watch?v=YhWyfNhlPrI)
 - [Deacon Blue - Time (Official Audio)](https://www.youtube.com/watch?v=1CCo2rnUkjo)

@@ -40,13 +40,13 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 
 
 ## Videos
-### Stand!
-{{< youtube id="Al0WUPn_CnM" title="Stand!" >}}<br>
+### Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)
+{{< youtube id="Bg0tFRea0wA" title="Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)](https://www.youtube.com/watch?v=Bg0tFRea0wA)
 - [Sly & The Family Stone - Everybody Is a Star (Official Audio)](https://www.youtube.com/watch?v=3-1s2gqDs_U)
+- [Stand!](https://www.youtube.com/watch?v=Al0WUPn_CnM)
 - [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
 - [Everyday People](https://www.youtube.com/watch?v=bsxM-zuKdmQ)
 - [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)

@@ -35,12 +35,11 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 
 
 ## Videos
-### Stir It Up - Patti LaBelle
-{{< youtube id="4ELcA-GdPCE" title="Stir It Up - Patti LaBelle" >}}<br>
+### Beverly Hills Cop - full album - score and songs - Harold Faltermeyer
+{{< youtube id="QmhagVGxWiA" title="Beverly Hills Cop - full album - score and songs - Harold Faltermeyer" >}}<br>
 
 ### More Videos
 
-- [Beverly Hills Cop - full album - score and songs - Harold Faltermeyer](https://www.youtube.com/watch?v=QmhagVGxWiA)
 - [[Beverly_Hills_Cop_I] 04. Rockie_Robbins - Emergency](https://www.youtube.com/watch?v=y3tgHsx3wiQ)
 - [Harold Faltermeyer   Beverly Hills Cop Soundtrack Original Score‏](https://www.youtube.com/watch?v=XJ5Brj-eMlA)
 - [Patti LaBelle - New Attitude](https://www.youtube.com/watch?v=QWfZ5SZZ4xE)
@@ -52,6 +51,7 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 - [Rockie Robbins - Emergency](https://www.youtube.com/watch?v=Dfy7A-pK6NE)
 - [Glenn Frey - The Heat Is On (From Beverly Hills Cop Soundtrack)](https://www.youtube.com/watch?v=uZD8HKVKneI)
 - [Harold Faltermeyer - Axel F (HQ)](https://www.youtube.com/watch?v=BxcgnNNAOy0)
+- [Stir It Up - Patti LaBelle](https://www.youtube.com/watch?v=4ELcA-GdPCE)
 - [Patti LaBelle - Stir It Up (1985) Beverly Hills﻿ Cop - Soundtrack](https://www.youtube.com/watch?v=xtOoeDPc9uI)
 - [Axel F - Harold Faltermeyer (Original Version)](https://www.youtube.com/watch?v=dASqLXiuomY)
 - [Patti LaBelle - Stir It Up (Beverly Hills Cop soundtrack)](https://www.youtube.com/watch?v=6_mhFuIPFMs)

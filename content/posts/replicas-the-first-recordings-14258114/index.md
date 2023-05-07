@@ -48,12 +48,11 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Are 'Friends' Electric? (Early Version)
-{{< youtube id="yb-zvwA0994" title="Are 'Friends' Electric? (Early Version)" >}}<br>
+### You Are in My Vision (Early Version)
+{{< youtube id="syXXDdt2FuQ" title="You Are in My Vision (Early Version)" >}}<br>
 
 ### More Videos
 
-- [You Are in My Vision (Early Version)](https://www.youtube.com/watch?v=syXXDdt2FuQ)
 - [The Machman (Early Version)](https://www.youtube.com/watch?v=UWJeYMgvMN4)
 - [Down in the Park (Early Version)](https://www.youtube.com/watch?v=YOZ2cnTaGZM)
 - [Do You Need the Service? (Early Version)](https://www.youtube.com/watch?v=fLo451kcJmU)
@@ -65,6 +64,7 @@ styles: ["New Wave"]
 - [Only a Downstat](https://www.youtube.com/watch?v=cYA9DQXyH5E)
 - [I Nearly Married a Human 3 (Early Version)](https://www.youtube.com/watch?v=jPbkfPF_hm8)
 - [Replicas (Early Version)](https://www.youtube.com/watch?v=aY7QRyt0qMk)
+- [Are 'Friends' Electric? (Early Version)](https://www.youtube.com/watch?v=yb-zvwA0994)
 - [We Have a Technical](https://www.youtube.com/watch?v=PXHObgshCK8)
 - [Down in the Park (Outtake Mix)](https://www.youtube.com/watch?v=0IKq5ICT2Xc)
 - [Are 'Friends' Electric? (Early Version 2)](https://www.youtube.com/watch?v=VRqpSgnuR1c)

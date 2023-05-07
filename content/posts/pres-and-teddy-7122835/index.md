@@ -31,13 +31,13 @@ styles: []
 
 
 ## Videos
-### Prisoner of love - The Lester Young and Teddy Wilson Quartet
-{{< youtube id="i0-gOlp56Ok" title="Prisoner of love - The Lester Young and Teddy Wilson Quartet" >}}<br>
+### Lester Young & Teddy Wilson.   Pres and Teddy
+{{< youtube id="tDesCGeGLL4" title="Lester Young & Teddy Wilson.   Pres and Teddy" >}}<br>
 
 ### More Videos
 
-- [Lester Young & Teddy Wilson.   Pres and Teddy](https://www.youtube.com/watch?v=tDesCGeGLL4)
 - [All Of Me](https://www.youtube.com/watch?v=cH77OyCq7PU)
+- [Prisoner of love - The Lester Young and Teddy Wilson Quartet](https://www.youtube.com/watch?v=i0-gOlp56Ok)
 - [Lester Young & Teddy Wilson Quartet_Louise](https://www.youtube.com/watch?v=NYc_X29JAdM)
 - [The Lester Young / Teddy Wilson Quartet  - Pres Returns](https://www.youtube.com/watch?v=lvBjc-nBBBI)
 - [Lester Young-Teddy Wilson Quartet / Love Me or Leave Me](https://www.youtube.com/watch?v=5GvTHaawtHg)

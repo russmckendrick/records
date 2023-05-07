@@ -40,12 +40,11 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### The Temperance Movement - There's Still Time (Official Audio)
-{{< youtube id="C-KWfJ7Elpw" title="The Temperance Movement - There's Still Time (Official Audio)" >}}<br>
+### The Temperance Movement - Caught in the Middle (Official Video)
+{{< youtube id="VMTDrY4lTDo" title="The Temperance Movement - Caught in the Middle (Official Video)" >}}<br>
 
 ### More Videos
 
-- [The Temperance Movement - Caught in the Middle (Official Video)](https://www.youtube.com/watch?v=VMTDrY4lTDo)
 - [The Temperance Movement - Love and Devotion (Official Audio)](https://www.youtube.com/watch?v=uk5EkHkd9VQ)
 - [The Temperance Movement - Backwater Zoo (Official Audio)](https://www.youtube.com/watch?v=KpkDOGadvQ4)
 - [The Temperance Movement - Another Spiral (Official Audio)](https://www.youtube.com/watch?v=FwpikW0BIC0)
@@ -53,6 +52,7 @@ styles: ["Blues Rock"]
 - [The Temperance Movement - The Way It Was and the Way It Is Now (Official Audio)](https://www.youtube.com/watch?v=JXrwh4trr8U)
 - [The Temperance Movement - Higher Than the Sun (Official Audio)](https://www.youtube.com/watch?v=9T3_Jw8Rb40)
 - [The Temperance Movement - Children (Official Audio)](https://www.youtube.com/watch?v=e5eadiTyo2Y)
+- [The Temperance Movement - There's Still Time (Official Audio)](https://www.youtube.com/watch?v=C-KWfJ7Elpw)
 - [The Temperance Movement - The Wonders We've Seen (Official Audio)](https://www.youtube.com/watch?v=W_c7x8M6C-Y)
 - [The Temperance Movement - Built-In Forgetter](https://www.youtube.com/watch?v=VORUDEzu89M)
 - [The Temperance Movement - A Deeper Cut](https://www.youtube.com/watch?v=_seBHGQCqgU)

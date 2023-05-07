@@ -39,16 +39,16 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Amen, So Be It
-{{< youtube id="CJXRbDZQ07Q" title="Amen, So Be It" >}}<br>
+### John Moreland - Sallisaw Blue (Official Audio)
+{{< youtube id="bfkXnZ65jS8" title="John Moreland - Sallisaw Blue (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [John Moreland - Sallisaw Blue (Official Audio)](https://www.youtube.com/watch?v=bfkXnZ65jS8)
 - [Old Wounds](https://www.youtube.com/watch?v=sJWBJx64frM)
 - [Every Kind of Wrong](https://www.youtube.com/watch?v=ZZ1bZqWpRGk)
 - [Love Is Not an Answer](https://www.youtube.com/watch?v=R4tE27oj8vU)
 - [Lies I Chose to Believe](https://www.youtube.com/watch?v=e9hui3Foy4E)
+- [Amen, So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
 - [No Glory in Regret](https://www.youtube.com/watch?v=FVGpp9Ltv-s)
 - [Ain't We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
 - [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=yR0QCXbxM3U)

@@ -39,12 +39,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Thank You Scientist - Mr. Invisible
-{{< youtube id="dv1ypynSLzY" title="Thank You Scientist - Mr. Invisible" >}}<br>
+### Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]
+{{< youtube id="df6lSXzv9lI" title="Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]" >}}<br>
 
 ### More Videos
 
-- [Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]](https://www.youtube.com/watch?v=df6lSXzv9lI)
+- [Thank You Scientist - Mr. Invisible](https://www.youtube.com/watch?v=dv1ypynSLzY)
 - [Thank You Scientist - The Amateur Arsonist's Handbook](https://www.youtube.com/watch?v=B97Ifr9pPy4)
 - [Thank You Scientist - The Somnambulist (AUDIO ONLY)](https://www.youtube.com/watch?v=Ip9Edh6pwkM)
 - [Thank You Scientist - Prologue... A Faint Applause (AUDIO ONLY)](https://www.youtube.com/watch?v=OIwNiP0BeRc)

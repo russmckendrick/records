@@ -41,12 +41,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Sleepyhouse
-{{< youtube id="WOVGYcl5mXA" title="Sleepyhouse" >}}<br>
+### Blind Melon - No Rain
+{{< youtube id="3qVPNONdF58" title="Blind Melon - No Rain" >}}<br>
 
 ### More Videos
 
-- [Blind Melon - No Rain](https://www.youtube.com/watch?v=3qVPNONdF58)
 - [Blind Melon - Change](https://www.youtube.com/watch?v=Yn1WbBaWTdc)
 - [Blind Melon - I Wonder (Official Music Video)](https://www.youtube.com/watch?v=raFcoygsfFI)
 - [Blind Melon - Dear Ol' Dad](https://www.youtube.com/watch?v=SBmA705ULjc)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock"]
 - [Dear Ol' Dad](https://www.youtube.com/watch?v=5ZQ3OQpk828)
 - [Change](https://www.youtube.com/watch?v=OyPQ5VSX_rI)
 - [Deserted](https://www.youtube.com/watch?v=WaN-EDK2Rv0)
+- [Sleepyhouse](https://www.youtube.com/watch?v=WOVGYcl5mXA)
 - [Holyman](https://www.youtube.com/watch?v=EKJ-YqVtZec)
 - [Seed To A Tree](https://www.youtube.com/watch?v=HtoKGAmCCrM)
 - [Drive](https://www.youtube.com/watch?v=kgwqrCqEm2U)

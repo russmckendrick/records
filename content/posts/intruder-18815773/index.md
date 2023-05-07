@@ -41,13 +41,13 @@ styles: ["Industrial"]
 
 
 ## Videos
-### Gary Numan - The End of Dragons (Official Audio)
-{{< youtube id="k9x_maPw0DE" title="Gary Numan - The End of Dragons (Official Audio)" >}}<br>
+### Gary Numan - Intruder (Official Video)
+{{< youtube id="-RxebQuFgJY" title="Gary Numan - Intruder (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Gary Numan - Intruder (Official Video)](https://www.youtube.com/watch?v=-RxebQuFgJY)
 - [Gary Numan -  Is This World Not Enough (Official Audio)](https://www.youtube.com/watch?v=HzPAQCQdozw)
+- [Gary Numan - The End of Dragons (Official Audio)](https://www.youtube.com/watch?v=k9x_maPw0DE)
 - [Gary Numan - The Gift (Official Audio)](https://www.youtube.com/watch?v=T4YhOnS6ItI)
 - [Gary Numan - A Black Sun (Official Audio)](https://www.youtube.com/watch?v=lIdlve4SsIg)
 - [Gary Numan -  And It Breaks Me Again (Official Audio)](https://www.youtube.com/watch?v=Gd7dsGwkUzU)

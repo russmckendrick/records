@@ -39,15 +39,15 @@ styles: ["Alternative Rock", "Synth-pop"]
 
 
 ## Videos
-### Right Here Right Now
-{{< youtube id="TN42nLpQvM8" title="Right Here Right Now" >}}<br>
+### Trust Me
+{{< youtube id="CK3C9XZcTbM" title="Trust Me" >}}<br>
 
 ### More Videos
 
-- [Trust Me](https://www.youtube.com/watch?v=CK3C9XZcTbM)
 - [Who? Where? Why?](https://www.youtube.com/watch?v=fidPRriWTrQ)
 - [Jesus Jones - International Bright Young Thing (Official Music Video)](https://www.youtube.com/watch?v=XedEne6TXXA)
 - [I'm Burning](https://www.youtube.com/watch?v=URZMGGwDwKo)
+- [Right Here Right Now](https://www.youtube.com/watch?v=TN42nLpQvM8)
 - [Nothing To Hold Me](https://www.youtube.com/watch?v=4V0aimOOSmE)
 - [Jesus Jones - Real Real Real (Official Music Video)](https://www.youtube.com/watch?v=qBklIul0Rog)
 - [Welcome Back Victoria](https://www.youtube.com/watch?v=ay7J7wH2W4A)

@@ -45,12 +45,12 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 
 
 ## Videos
-### The Shamen - Oxygen Restriction
-{{< youtube id="JxUuFgsFaMc" title="The Shamen - Oxygen Restriction" >}}<br>
+### The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991
+{{< youtube id="NZ_LDyvoxUY" title="The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991" >}}<br>
 
 ### More Videos
 
-- [The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991](https://www.youtube.com/watch?v=NZ_LDyvoxUY)
+- [The Shamen - Oxygen Restriction](https://www.youtube.com/watch?v=JxUuFgsFaMc)
 
 
 ## Release Information

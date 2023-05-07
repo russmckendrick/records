@@ -56,14 +56,14 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Split Enz - Time and Tide (Private Remaster 2017) - 01 Dirty Creature
-{{< youtube id="Y2jyNxzVBA8" title="Split Enz - Time and Tide (Private Remaster 2017) - 01 Dirty Creature" >}}<br>
+### Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY
+{{< youtube id="Nv1IjVbPbHs" title="Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY" >}}<br>
 
 ### More Videos
 
-- [Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY](https://www.youtube.com/watch?v=Nv1IjVbPbHs)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 02 Giant Heartbeat](https://www.youtube.com/watch?v=CfhOKyGYBrc)
 - [Split Enz - Log Cabin Fever (1982)](https://www.youtube.com/watch?v=lNfcoDpZrH4)
+- [Split Enz - Time and Tide (Private Remaster 2017) - 01 Dirty Creature](https://www.youtube.com/watch?v=Y2jyNxzVBA8)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 05 Lost For Words](https://www.youtube.com/watch?v=f5GpZIchfm0)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 07 Take A Walk](https://www.youtube.com/watch?v=-Y3eKfjZMpQ)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 03 Hello Sandy Allen](https://www.youtube.com/watch?v=YVy15wHoDIE)

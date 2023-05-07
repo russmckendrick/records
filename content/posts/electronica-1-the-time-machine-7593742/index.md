@@ -44,12 +44,12 @@ styles: ["Synth-pop", "Electro", "Trance"]
 
 
 ## Videos
-### Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 1 (Audio Video)
-{{< youtube id="NxV0OWna09U" title="Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 1 (Audio Video)" >}}<br>
+### Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)
+{{< youtube id="pRwYx8w1clk" title="Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)" >}}<br>
 
 ### More Videos
 
-- [Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)](https://www.youtube.com/watch?v=pRwYx8w1clk)
+- [Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 1 (Audio Video)](https://www.youtube.com/watch?v=NxV0OWna09U)
 - [Jean-Michel Jarre, Air - Close Your Eyes (Audio Video)](https://www.youtube.com/watch?v=aI6kxtQ1sgY)
 - [Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=hhcveYXKZTY)
 - [Jean-Michel Jarre - Electronica Volume 1 (Official Trailer)](https://www.youtube.com/watch?v=sw02ZVo4ea4)

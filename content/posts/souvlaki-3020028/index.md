@@ -38,14 +38,14 @@ styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 
 
 ## Videos
-### Sing
-{{< youtube id="Ek_ttFy6q0s" title="Sing" >}}<br>
+### Slowdive - Alison (Video)
+{{< youtube id="jkM3M3zGcGE" title="Slowdive - Alison (Video)" >}}<br>
 
 ### More Videos
 
-- [Slowdive - Alison (Video)](https://www.youtube.com/watch?v=jkM3M3zGcGE)
 - [Machine Gun](https://www.youtube.com/watch?v=HF1k1m6eYV0)
 - [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
+- [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
 - [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
 - [Slowdive - When the Sun Hits (Audio)](https://www.youtube.com/watch?v=MKYY0IlTMw4)
 - [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)

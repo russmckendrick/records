@@ -44,14 +44,14 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Spiritwalker (edit)
-{{< youtube id="dLOS2DvPCiI" title="Spiritwalker (edit)" >}}<br>
+### She Sells Sanctuary
+{{< youtube id="cQS4TzB0EvU" title="She Sells Sanctuary" >}}<br>
 
 ### More Videos
 
-- [She Sells Sanctuary](https://www.youtube.com/watch?v=cQS4TzB0EvU)
 - [Fire Woman](https://www.youtube.com/watch?v=7-DjzbGOtec)
 - [Lil’ Devil](https://www.youtube.com/watch?v=eUe2FG_NU_A)
+- [Spiritwalker (edit)](https://www.youtube.com/watch?v=dLOS2DvPCiI)
 - [The Witch (edit)](https://www.youtube.com/watch?v=yLB-oG8kP-s)
 - [Revolution (edit)](https://www.youtube.com/watch?v=eMntcphrGsE)
 - [Love Removal Machine](https://www.youtube.com/watch?v=C_EQ9Gr9bfU)

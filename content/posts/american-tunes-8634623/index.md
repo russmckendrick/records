@@ -46,12 +46,11 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Rocks In My Bed
-{{< youtube id="wpmh0L8UgRE" title="Rocks In My Bed" >}}<br>
+### Allen Toussaint - Big Chief [Official Audio]
+{{< youtube id="NKhE8YNU4cQ" title="Allen Toussaint - Big Chief [Official Audio]" >}}<br>
 
 ### More Videos
 
-- [Allen Toussaint - Big Chief [Official Audio]](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
 - [Allen Toussaint - Confessin' (That I Love You) [Official Audio]](https://www.youtube.com/watch?v=kZ9W9X45B2s)
 - [American Tune](https://www.youtube.com/watch?v=TNZ1RQqCjdc)
 - [Southern Nights](https://www.youtube.com/watch?v=1E1LIXlMzWw)
@@ -60,6 +59,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Mardi Gras In New Orleans](https://www.youtube.com/watch?v=JxzW78F-lRM)
 - [Delores' Boyfriend](https://www.youtube.com/watch?v=EEptig6QMAE)
 - [Come Sunday](https://www.youtube.com/watch?v=vvrPynE7Y-0)
+- [Rocks In My Bed](https://www.youtube.com/watch?v=wpmh0L8UgRE)
 - [Danza, Op. 33](https://www.youtube.com/watch?v=edcqdFkAz8c)
 - [Rosetta](https://www.youtube.com/watch?v=1WHtjZF0P54)
 - [Hey Little Girl](https://www.youtube.com/watch?v=UvqIYt2f3Zk)

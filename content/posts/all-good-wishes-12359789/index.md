@@ -36,12 +36,12 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Gulp - I Dream Of Your Song
-{{< youtube id="DpHY-R70mw4" title="Gulp - I Dream Of Your Song" >}}<br>
+### Gulp - Search For Your Love (Official Video)
+{{< youtube id="Vr3Ib8vomG0" title="Gulp - Search For Your Love (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Gulp - Search For Your Love (Official Video)](https://www.youtube.com/watch?v=Vr3Ib8vomG0)
+- [Gulp - I Dream Of Your Song](https://www.youtube.com/watch?v=DpHY-R70mw4)
 - [Gulp - Silver Tides](https://www.youtube.com/watch?v=pGny1SQOXeE)
 
 

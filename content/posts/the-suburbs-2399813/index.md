@@ -44,17 +44,17 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Suburban War (Official Lyric Video)
-{{< youtube id="KpWqfrX9908" title="Arcade Fire - Suburban War (Official Lyric Video)" >}}<br>
+### Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)
+{{< youtube id="NuSbELCNloc" title="Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)" >}}<br>
 
 ### More Videos
 
-- [Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)](https://www.youtube.com/watch?v=NuSbELCNloc)
 - [Arcade Fire - The Suburbs [Full Live Album]](https://www.youtube.com/watch?v=B1Bt0UiIN5o)
 - [Arcade Fire - Modern Man (Official Lyric Video)](https://www.youtube.com/watch?v=P_0PhRlfjas)
 - [Arcade Fire - Ready to Start (Official Video)](https://www.youtube.com/watch?v=9oI27uSzxNQ)
 - [Arcade Fire - The Suburbs (Official Video)](https://www.youtube.com/watch?v=5Euj9f3gdyM)
 - [Arcade Fire - Rococo (Official Lyric Video)](https://www.youtube.com/watch?v=ly65sLPIKVw)
+- [Arcade Fire - Suburban War (Official Lyric Video)](https://www.youtube.com/watch?v=KpWqfrX9908)
 - [Arcade Fire - Empty Room (Official Lyric Video)](https://www.youtube.com/watch?v=qutEvlHaCHE)
 - [Arcade Fire - We Used to Wait (Official Lyric Video)](https://www.youtube.com/watch?v=xQuUN1HGa0c)
 - [Arcade Fire - City with No Children (Official Lyric Video)](https://www.youtube.com/watch?v=MkgcAmT5Io0)

@@ -45,12 +45,12 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 
 ## Videos
-### BARONESS - Seasons [OFFICIAL]
-{{< youtube id="k3n8RBaUMpc" title="BARONESS - Seasons [OFFICIAL]" >}}<br>
+### BARONESS - Throw Me An Anchor [AUDIO]
+{{< youtube id="KcWFiTJ23Vo" title="BARONESS - Throw Me An Anchor [AUDIO]" >}}<br>
 
 ### More Videos
 
-- [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
+- [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
 - [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
 - [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 

@@ -37,14 +37,14 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 
 
 ## Videos
-### Midas Shadow (2001 Remaster)
-{{< youtube id="Gmb6Rm5yWqk" title="Midas Shadow (2001 Remaster)" >}}<br>
+### Broadway Hotel (2001 Remaster)
+{{< youtube id="2zpShd0A7Nk" title="Broadway Hotel (2001 Remaster)" >}}<br>
 
 ### More Videos
 
-- [Broadway Hotel (2001 Remaster)](https://www.youtube.com/watch?v=2zpShd0A7Nk)
 - [Al Stewart - Year of the Cat (Official Audio)](https://www.youtube.com/watch?v=Ak_MTXQALa0)
 - [Al Stewart - On The Border (1976 UK Vinyl)](https://www.youtube.com/watch?v=wgq6iz6-N_M)
+- [Midas Shadow (2001 Remaster)](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
 
 
 ## Release Information

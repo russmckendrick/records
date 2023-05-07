@@ -51,12 +51,11 @@ styles: ["Conscious", "Boom Bap"]
 
 
 ## Videos
-### De La Soul - Description (Official Audio)
-{{< youtube id="t4h0SHmj9xY" title="De La Soul - Description (Official Audio)" >}}<br>
+### De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)
+{{< youtube id="3wYtCyAKbzE" title="De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)](https://www.youtube.com/watch?v=3wYtCyAKbzE)
 - [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
 - [De La Soul - The Magic Number (Official Audio)](https://www.youtube.com/watch?v=0Yy7A74o8gQ)
 - [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
@@ -72,6 +71,7 @@ styles: ["Conscious", "Boom Bap"]
 - [De La Soul - Do as De La Does (Official Audio)](https://www.youtube.com/watch?v=xo2-GVRNEro)
 - [De La Soul - Plug Tunin' (Last Chance to Comprehend) (Official Audio)](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
 - [De La Soul - De La Orgee (Official Audio)](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
+- [De La Soul - Description (Official Audio)](https://www.youtube.com/watch?v=t4h0SHmj9xY)
 - [De La Soul - Me Myself and I (Official Audio)](https://www.youtube.com/watch?v=fG9lFewfGEs)
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)

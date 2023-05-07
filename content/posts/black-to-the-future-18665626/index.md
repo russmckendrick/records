@@ -39,14 +39,14 @@ styles: ["Afrobeat", "Fusion"]
 
 
 ## Videos
-### Sons Of Kemet - Hustle ft. Kojey Radical
-{{< youtube id="EDepEUnJwpY" title="Sons Of Kemet - Hustle ft. Kojey Radical" >}}<br>
+### Field Negus
+{{< youtube id="ELXDbxKjx48" title="Field Negus" >}}<br>
 
 ### More Videos
 
-- [Field Negus](https://www.youtube.com/watch?v=ELXDbxKjx48)
 - [Pick Up Your Burning Cross](https://www.youtube.com/watch?v=IpK1a1RqfFA)
 - [Think Of Home](https://www.youtube.com/watch?v=A5_-BEVYZ9Y)
+- [Sons Of Kemet - Hustle ft. Kojey Radical](https://www.youtube.com/watch?v=EDepEUnJwpY)
 - [For The Culture](https://www.youtube.com/watch?v=8T5SGoQnMg4)
 - [Sons Of Kemet - To Never Forget The Source (Visualizer)](https://www.youtube.com/watch?v=pZUbNXhnSm4)
 - [In Remembrance Of Those Fallen](https://www.youtube.com/watch?v=Emeclwix8Ig)

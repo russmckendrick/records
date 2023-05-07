@@ -41,12 +41,11 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 
 
 ## Videos
-### Hero (Intro)
-{{< youtube id="z7eYrvS-OE8" title="Hero (Intro)" >}}<br>
+### Michael Kiwanuka  - You Ain't The Problem
+{{< youtube id="APBqmPQcRK8" title="Michael Kiwanuka  - You Ain't The Problem" >}}<br>
 
 ### More Videos
 
-- [Michael Kiwanuka  - You Ain't The Problem](https://www.youtube.com/watch?v=APBqmPQcRK8)
 - [Michael Kiwanuka - You Ain't The Problem (Lyric Video)](https://www.youtube.com/watch?v=2yEeF65NnyI)
 - [Michael Kiwanuka - Final Days](https://www.youtube.com/watch?v=9Z8lLMNSwLM)
 - [Rolling](https://www.youtube.com/watch?v=WeRQ_Essido)
@@ -55,6 +54,7 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 - [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=0PVN31NuYNo)
 - [Another Human Being](https://www.youtube.com/watch?v=1j1vgmZAnrA)
 - [Living In Denial](https://www.youtube.com/watch?v=YM5U3h8uITM)
+- [Hero (Intro)](https://www.youtube.com/watch?v=z7eYrvS-OE8)
 - [Hard To Say Goodbye](https://www.youtube.com/watch?v=786dl0llF4c)
 - [Final Days](https://www.youtube.com/watch?v=t7egVrhFaFU)
 - [Interlude (Loving The People)](https://www.youtube.com/watch?v=YHPxzrAvWS0)

@@ -40,14 +40,14 @@ styles: ["Soft Rock", "Pop Rock", "Ballad"]
 
 
 ## Videos
-### Tougher Than the Rest
-{{< youtube id="9XQX-zRVK-w" title="Tougher Than the Rest" >}}<br>
+### Ain't Got You
+{{< youtube id="5iO8d8m0esY" title="Ain't Got You" >}}<br>
 
 ### More Videos
 
-- [Ain't Got You](https://www.youtube.com/watch?v=5iO8d8m0esY)
 - [VINYL « Nr. 6763 -1987 - (Sides 2) Bruce Springsteen – Tunnel Of Love](https://www.youtube.com/watch?v=4e_qcQVFtoQ)
 - [Bruce Springsteen - Tunnel Of Love [Cassette]](https://www.youtube.com/watch?v=x02Uesie3Pk)
+- [Tougher Than the Rest](https://www.youtube.com/watch?v=9XQX-zRVK-w)
 - [All That Heaven Will Allow](https://www.youtube.com/watch?v=XlMDSTeb4_w)
 - [Spare Parts](https://www.youtube.com/watch?v=mkFD8gmBWQc)
 - [Cautious Man](https://www.youtube.com/watch?v=QRHPkseMFnU)

@@ -40,12 +40,12 @@ styles: ["Ska"]
 
 
 ## Videos
-### Everybody Knows
-{{< youtube id="tZRq9KZEst4" title="Everybody Knows" >}}<br>
+### The Specials - Freedom Highway
+{{< youtube id="wfSTXDOURFI" title="The Specials - Freedom Highway" >}}<br>
 
 ### More Videos
 
-- [The Specials - Freedom Highway](https://www.youtube.com/watch?v=wfSTXDOURFI)
+- [Everybody Knows](https://www.youtube.com/watch?v=tZRq9KZEst4)
 - [I Don't Mind Failing In This World](https://www.youtube.com/watch?v=OArAuPfDvWs)
 - [Black, Brown And White](https://www.youtube.com/watch?v=IxAP1uEMbvk)
 - [Ain’t Gonna Let Nobody Turn Us Around](https://www.youtube.com/watch?v=W7pu7D-msHw)

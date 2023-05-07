@@ -45,15 +45,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Bury Me With It
-{{< youtube id="-0c53YAYK1o" title="Bury Me With It" >}}<br>
+### Horn Intro
+{{< youtube id="uHnfpd7gUjE" title="Horn Intro" >}}<br>
 
 ### More Videos
 
-- [Horn Intro](https://www.youtube.com/watch?v=uHnfpd7gUjE)
 - [Modest Mouse - Float On (Official Music Video)](https://www.youtube.com/watch?v=CTAud5O7Qqk)
 - [Modest Mouse - The World At Large (Audio)](https://www.youtube.com/watch?v=1TXdU9LMmv4)
 - [Dig Your Grave](https://www.youtube.com/watch?v=3wFiHru0Ke4)
+- [Bury Me With It](https://www.youtube.com/watch?v=-0c53YAYK1o)
 - [Dance Hall](https://www.youtube.com/watch?v=LTQhvRv2ziQ)
 - [Bukowski](https://www.youtube.com/watch?v=m0VpdRYCv3s)
 - [This Devil's Workday](https://www.youtube.com/watch?v=cOIeXLSajSg)

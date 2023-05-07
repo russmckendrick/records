@@ -46,15 +46,15 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 
 
 ## Videos
-### Daryl Hall & John Oates - Wait For Me (Official Video)
-{{< youtube id="5zkHLp24Gis" title="Daryl Hall & John Oates - Wait For Me (Official Video)" >}}<br>
+### Daryl Hall & John Oates - Private Eyes (Official Music Video)
+{{< youtube id="JsntlJZ9h1U" title="Daryl Hall & John Oates - Private Eyes (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Daryl Hall & John Oates - Private Eyes (Official Music Video)](https://www.youtube.com/watch?v=JsntlJZ9h1U)
 - [Daryl Hall & John Oates - I Can't Go For That (No Can Do) (Official Video)](https://www.youtube.com/watch?v=ccenFp_3kq8)
 - [Daryl Hall & John Oates - Kiss On My List (Official Video)](https://www.youtube.com/watch?v=lsHld-iArOc)
 - [Daryl Hall & John Oates - Maneater (Official Music Video)](https://www.youtube.com/watch?v=yRYFKcMa_Ek)
+- [Daryl Hall & John Oates - Wait For Me (Official Video)](https://www.youtube.com/watch?v=5zkHLp24Gis)
 - [Daryl Hall & John Oates - Say it Isn't So (Official Video)](https://www.youtube.com/watch?v=_R5xIdXwNMk)
 - [Daryl Hall & John Oates - One On One (Official Video)](https://www.youtube.com/watch?v=EXU2tnKEwwo)
 - [Daryl Hall & John Oates - Out Of Touch (Official Video)](https://www.youtube.com/watch?v=D00M2KZH1J0)

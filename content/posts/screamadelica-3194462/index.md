@@ -39,12 +39,11 @@ styles: ["House", "Dub", "Downtempo"]
 
 
 ## Videos
-### Loaded (Andy Weatherall Mix)
-{{< youtube id="sNvUQka4wk0" title="Loaded (Andy Weatherall Mix)" >}}<br>
+### Primal Scream - Movin' on Up (Official HD Video)
+{{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin' on Up (Official HD Video)" >}}<br>
 
 ### More Videos
 
-- [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
 - [Primal Scream - Loaded (Official Video)](https://www.youtube.com/watch?v=Y3ixEzKA4k0)
 - [Primal Scream - Loaded (Official HD Video)](https://www.youtube.com/watch?v=XQ045ycEOQE)
 - [Primal Scream - Higher Than the Sun (Official Video)](https://www.youtube.com/watch?v=YHjVIBDYgXg)
@@ -65,6 +64,7 @@ styles: ["House", "Dub", "Downtempo"]
 - [Primal Scream - Movin on Up (Lyrics)](https://www.youtube.com/watch?v=wWUC2-ypnDQ)
 - [Primal Scream - Screamadelica 30th Anniversary Announcement](https://www.youtube.com/watch?v=a9kFFms84wc)
 - [Primal Scream - Loaded (Top of the Pops 1990)](https://www.youtube.com/watch?v=pIs2M77gsiM)
+- [Loaded (Andy Weatherall Mix)](https://www.youtube.com/watch?v=sNvUQka4wk0)
 - [Primal Scream - Loaded (Andy Weatherall Mix - Official Audio)](https://www.youtube.com/watch?v=Ha1H-UQhVW0)
 
 

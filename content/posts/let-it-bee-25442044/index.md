@@ -39,15 +39,15 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Voice Of The Beehive - I Say Nothing
-{{< youtube id="Vw8SpzqaI0I" title="Voice Of The Beehive - I Say Nothing" >}}<br>
+### Beat of Love - Voice of the Beehive
+{{< youtube id="KuGz-ZpqTWg" title="Beat of Love - Voice of the Beehive" >}}<br>
 
 ### More Videos
 
-- [Beat of Love - Voice of the Beehive](https://www.youtube.com/watch?v=KuGz-ZpqTWg)
 - [Voice of the Beehive - Don't Call Me Baby (version 1)](https://www.youtube.com/watch?v=quD5B-la-ug)
 - [Voice Of The Beehive - Beat Of Love](https://www.youtube.com/watch?v=HK6IBM3BWlU)
 - [Sorrow Floats - Voice of the Beehive](https://www.youtube.com/watch?v=6gG5AdGWnVU)
+- [Voice Of The Beehive - I Say Nothing](https://www.youtube.com/watch?v=Vw8SpzqaI0I)
 - [Oh Love - Voice of the Beehive](https://www.youtube.com/watch?v=UEkn5nRs1l4)
 - [Voice Of The Beehive - Man In The Moon](https://www.youtube.com/watch?v=tktgY5gIQZE)
 - [Trust Me - Voice of the Beehive](https://www.youtube.com/watch?v=lIbsSyGNtn8)

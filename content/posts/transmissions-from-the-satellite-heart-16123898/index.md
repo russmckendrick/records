@@ -39,12 +39,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### ******* (Plastic Jesus)
-{{< youtube id="GmoljzSI6W8" title="******* (Plastic Jesus)" >}}<br>
+### The Flaming Lips - She Don't Use Jelly [Official Music Video]
+{{< youtube id="cvfxKbpoxRE" title="The Flaming Lips - She Don't Use Jelly [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [The Flaming Lips - She Don't Use Jelly [Official Music Video]](https://www.youtube.com/watch?v=cvfxKbpoxRE)
 - [The Flaming Lips - Be My Head [Official Music Video]](https://www.youtube.com/watch?v=6iwrnwSzbGM)
 - [The Flaming Lips - Turn It On [Official Music Video]](https://www.youtube.com/watch?v=WHV2Txq342o)
 - [Flaming Lips - Slow Nerve Action Music Video](https://www.youtube.com/watch?v=dAOL6iXZWRU)
@@ -54,6 +53,7 @@ styles: ["Alternative Rock"]
 - [Pilot Can at the Queer of God](https://www.youtube.com/watch?v=anOaEWU18og)
 - [The Flaming Lips - Turn It On - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=EDOPdJO9jhw)
 - [The Flaming Lips - Superhumans - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=BCxy69NTyQM)
+- [******* (Plastic Jesus)](https://www.youtube.com/watch?v=GmoljzSI6W8)
 - [Superhumans](https://www.youtube.com/watch?v=X_Ygk4qGyt4)
 - [The Flaming Lips - Chewin the Apple of Your Eye - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=TyZLQK1hmpA)
 - [Pilot Can at the Queer of God - Flaming Lips](https://www.youtube.com/watch?v=EhNS5R1NUqc)

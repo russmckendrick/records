@@ -60,15 +60,15 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 
 
 ## Videos
-### Blue Milk
-{{< youtube id="ia7YA9a4JqM" title="Blue Milk" >}}<br>
+### Stereolab - The Free Design (Official Video)
+{{< youtube id="FBR6bFZbh6A" title="Stereolab - The Free Design (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Stereolab - The Free Design (Official Video)](https://www.youtube.com/watch?v=FBR6bFZbh6A)
 - [Come And Play In The Milky Night](https://www.youtube.com/watch?v=acai-WmHYXM)
 - [Italian Shoes Continuum](https://www.youtube.com/watch?v=2uYldgJ4l0U)
 - [Galaxidion](https://www.youtube.com/watch?v=W1QXXBMNsgM)
+- [Blue Milk](https://www.youtube.com/watch?v=ia7YA9a4JqM)
 - [Infinity Girl](https://www.youtube.com/watch?v=fjY0UyGze_k)
 - [Blips Drips And Strips](https://www.youtube.com/watch?v=GIbxZmXUUcM)
 - [Caleidoscopic Gaze](https://www.youtube.com/watch?v=jTS6Mu2guiI)

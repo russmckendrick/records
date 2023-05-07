@@ -39,12 +39,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### soulwax - my cruel joke
-{{< youtube id="rW7UzZ9sqKc" title="soulwax - my cruel joke" >}}<br>
+### 01   Conversation Intercom - Soulwax
+{{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}<br>
 
 ### More Videos
 
-- [01   Conversation Intercom - Soulwax](https://www.youtube.com/watch?v=r28N6iYEN0I)
 - [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
 - [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
 - [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
@@ -54,6 +53,7 @@ styles: ["Alternative Rock"]
 - [Conversation Intercom](https://www.youtube.com/watch?v=7yx7uoojLM0)
 - [Soulwax - Saturday](https://www.youtube.com/watch?v=Dxq9VnAoV9A)
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
+- [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
 
 
 ## Release Information

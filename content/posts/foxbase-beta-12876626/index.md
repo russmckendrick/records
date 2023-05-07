@@ -38,15 +38,15 @@ styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 
 
 ## Videos
-### Saint Etienne - Carnt Sleep
-{{< youtube id="XOUMSijvnhY" title="Saint Etienne - Carnt Sleep" >}}<br>
+### Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)
+{{< youtube id="pnQChL9V88g" title="Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)" >}}<br>
 
 ### More Videos
 
-- [Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)](https://www.youtube.com/watch?v=pnQChL9V88g)
 - [Saint Etienne Only Love Can Break Your Heart (Foxbase Beta Instrumental)](https://www.youtube.com/watch?v=jH2kiQsVMlk)
 - [Saint Etienne - Spring (Air France Remix)](https://www.youtube.com/watch?v=WtMKMAB31mw)
 - [Saint Etienne - Stoned to Say the Least](https://www.youtube.com/watch?v=UgwP9Tbp9f0)
+- [Saint Etienne - Carnt Sleep](https://www.youtube.com/watch?v=XOUMSijvnhY)
 - [Saint Etienne - SPRING [FoxBase Beta Mix]](https://www.youtube.com/watch?v=oueyvUMWr_k)
 - [Saint Etienne - London Belongs To Me (From Foxbase Beta)](https://www.youtube.com/watch?v=iZqFfMP-cyM)
 - [Saint Etienne - Only Love Can Break Your Heart (Richard X Remix)](https://www.youtube.com/watch?v=9rCeHdSEMC8)

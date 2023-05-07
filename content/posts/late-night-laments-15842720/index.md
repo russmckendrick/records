@@ -48,16 +48,16 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Tim Bowness - Late Night Laments
-{{< youtube id="QrP7apxFBLA" title="Tim Bowness - Late Night Laments" >}}<br>
+### We Caught the Light
+{{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}<br>
 
 ### More Videos
 
-- [We Caught the Light](https://www.youtube.com/watch?v=-_OAaUeqVJ0)
 - [TIM BOWNESS - Northern Rain (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=ns8_oScLjeE)
 - [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
 - [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
 - [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
+- [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
 - [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
 - [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
 - [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)

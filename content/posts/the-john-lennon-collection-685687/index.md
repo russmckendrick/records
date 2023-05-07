@@ -45,12 +45,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### John Lennon: Give Peace A Chance
-{{< youtube id="SBBl5h0SJ1c" title="John Lennon: Give Peace A Chance" >}}<br>
+### WOMAN. (Ultimate Mix, 2020) - John Lennon (official music video HD)
+{{< youtube id="ZhfWiU8wGCc" title="WOMAN. (Ultimate Mix, 2020) - John Lennon (official music video HD)" >}}<br>
 
 ### More Videos
 
-- [WOMAN. (Ultimate Mix, 2020) - John Lennon (official music video HD)](https://www.youtube.com/watch?v=ZhfWiU8wGCc)
+- [John Lennon: Give Peace A Chance](https://www.youtube.com/watch?v=SBBl5h0SJ1c)
 - [Instant Karma! (We All Shine On)](https://www.youtube.com/watch?v=T9mrBxWLcbM)
 
 

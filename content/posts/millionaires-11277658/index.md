@@ -40,15 +40,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### JAMES - STRANGERS - legendado
-{{< youtube id="XYlcPuru_wU" title="JAMES - STRANGERS - legendado" >}}<br>
+### James - Just Like Fred Astaire
+{{< youtube id="Y5qyNF-MLaQ" title="James - Just Like Fred Astaire" >}}<br>
 
 ### More Videos
 
-- [James - Just Like Fred Astaire](https://www.youtube.com/watch?v=Y5qyNF-MLaQ)
 - [James - We're Going To Miss You](https://www.youtube.com/watch?v=tMtgy8Xt5O4)
 - [James - I Know What I'm Here For](https://www.youtube.com/watch?v=htbQ_FY8EeQ)
 - [James - Hello (live)](https://www.youtube.com/watch?v=hhOHnCqpmCg)
+- [JAMES - STRANGERS - legendado](https://www.youtube.com/watch?v=XYlcPuru_wU)
 
 
 ## Release Information

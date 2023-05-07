@@ -37,17 +37,17 @@ styles: ["Soundtrack", "Reggae"]
 
 
 ## Videos
-### The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)
-{{< youtube id="GX5DPsw0Hy0" title="The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)" >}}<br>
+### Review 25: Jimmy Cliff - The Harder They Come
+{{< youtube id="f0DNBaKWieI" title="Review 25: Jimmy Cliff - The Harder They Come" >}}<br>
 
 ### More Videos
 
-- [Review 25: Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=f0DNBaKWieI)
 - [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
 - [The Maytals - Pressure Drop + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=YgMoEMfKdDs)
 - [Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)](https://www.youtube.com/watch?v=StP9OX4bOgU)
 - [The Harder They Come Movie HD](https://www.youtube.com/watch?v=j9U1zc8ys-Q)
 - [Jimmy Cliff - You Can Get If You Really Want](https://www.youtube.com/watch?v=alJGnfiQ9iU)
+- [The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=GX5DPsw0Hy0)
 - [Scotty   Draw Your Brakes](https://www.youtube.com/watch?v=pcGadadrPtk)
 - [Scotty - Draw Your Brakes - Balada Sangrenta Jimmy Cliff](https://www.youtube.com/watch?v=m7KxOv1v7Bs)
 - [The Uniques - My Conversation + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=jSoRU_VxoPY)

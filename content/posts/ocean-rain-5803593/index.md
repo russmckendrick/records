@@ -37,16 +37,16 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### Echo & The Bunnymen - The Killing Moon (Official Music Video)
-{{< youtube id="LWz0JC7afNQ" title="Echo & The Bunnymen - The Killing Moon (Official Music Video)" >}}<br>
+### Silver
+{{< youtube id="sQ_QRK_iWrk" title="Silver" >}}<br>
 
 ### More Videos
 
-- [Silver](https://www.youtube.com/watch?v=sQ_QRK_iWrk)
 - [Nocturnal Me](https://www.youtube.com/watch?v=Pu5PWfFmI4I)
 - [Crystal Days](https://www.youtube.com/watch?v=2_uSLF8of-w)
 - [The Yo Yo Man](https://www.youtube.com/watch?v=T1gxp2xTeag)
 - [Thorn of Crowns](https://www.youtube.com/watch?v=jbMIe_wU1jQ)
+- [Echo & The Bunnymen - The Killing Moon (Official Music Video)](https://www.youtube.com/watch?v=LWz0JC7afNQ)
 - [Echo & The Bunnymen - Seven Seas (Official Music Video)](https://www.youtube.com/watch?v=LbYxP11rbSM)
 - [My Kingdom](https://www.youtube.com/watch?v=2q1RWbAqYtU)
 - [Ocean Rain](https://www.youtube.com/watch?v=p_AsT8Ney4A)

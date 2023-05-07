@@ -44,12 +44,11 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 
 
 ## Videos
-### Poison
-{{< youtube id="kx5sJ0LefTw" title="Poison" >}}<br>
+### The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]
+{{< youtube id="dm1aYGFhceA" title="The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]" >}}<br>
 
 ### More Videos
 
-- [The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]](https://www.youtube.com/watch?v=dm1aYGFhceA)
 - [THE WONDERSTUFF : IT'S YER MONEY I'M AFTER BABY (reversed video)](https://www.youtube.com/watch?v=dWqmdlJQVFg)
 - [The Wonder Stuff - Like a Merry Go Round - The Eight Legged Groove Machine [1988]](https://www.youtube.com/watch?v=IUNd1v32DIY)
 - [THE WONDERSTUFF : A WISH AWAY (reversed video)](https://www.youtube.com/watch?v=Ap3X2snL0Jo)
@@ -57,6 +56,7 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 - [Wonder Stuff - Red Berry Joy Town (live)](https://www.youtube.com/watch?v=9hAykqZfe90)
 - [The Wonder Stuff - (Like a) Merry Go Round](https://www.youtube.com/watch?v=ZCK8joGyvPU)
 - [The Wonder Stuff - Unbearable, Give Give Give Me More More More](https://www.youtube.com/watch?v=hDsAgYNwt-I)
+- [Poison](https://www.youtube.com/watch?v=kx5sJ0LefTw)
 - [Some Sad Someone](https://www.youtube.com/watch?v=7N4lx8_vFBE)
 - [The Animals And Me](https://www.youtube.com/watch?v=59muH5FAWVM)
 - [Grin](https://www.youtube.com/watch?v=6i4ha0Z831A)

@@ -36,18 +36,18 @@ styles: ["New Jack Swing"]
 
 
 ## Videos
-### Cruel Prelude
-{{< youtube id="gab9hWIidGE" title="Cruel Prelude" >}}<br>
+### Bobby Brown - I´ll be good to you
+{{< youtube id="zSrKa3xLcO0" title="Bobby Brown - I´ll be good to you" >}}<br>
 
 ### More Videos
 
-- [Bobby Brown - I´ll be good to you](https://www.youtube.com/watch?v=zSrKa3xLcO0)
 - [Bobby Brown - Every Little Step (Official Video)](https://www.youtube.com/watch?v=P0FKzPfsxA4)
 - [Take It Slow](https://www.youtube.com/watch?v=I-UOWhayTtU)
 - [Bobby Brown - All Day All Night](https://www.youtube.com/watch?v=QRPH5K5kirs)
 - [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE)
 - [Bobby Brown - I Really Love You Girl](https://www.youtube.com/watch?v=IxN5BH0IFhw)
 - [Cruel Reprise](https://www.youtube.com/watch?v=PiSB3uJQMxY)
+- [Cruel Prelude](https://www.youtube.com/watch?v=gab9hWIidGE)
 - [Bobby Brown My Prerogative Lyrics](https://www.youtube.com/watch?v=pfzy4Kk-8b0)
 - [Bobby Brown - Don't Be Cruel (Official Video)](https://www.youtube.com/watch?v=pd7dCbEfTs4)
 - [bobby brown - don't be cruel w/lyrics](https://www.youtube.com/watch?v=AnUdQwabjsQ)

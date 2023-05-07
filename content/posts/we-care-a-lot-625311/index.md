@@ -38,14 +38,14 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 
 
 ## Videos
-### Mark Bowen by Faith No More
-{{< youtube id="By5p2rqbm5A" title="Mark Bowen by Faith No More" >}}<br>
+### Faith No More - We Care a Lot (Official Music Video) [4K]
+{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video) [4K]" >}}<br>
 
 ### More Videos
 
-- [Faith No More - We Care a Lot (Official Music Video) [4K]](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [We Care a Lot](https://www.youtube.com/watch?v=9L3M2WC5LPA)
 - [The Jungle](https://www.youtube.com/watch?v=JJ5qKiOc-Bg)
+- [Mark Bowen by Faith No More](https://www.youtube.com/watch?v=By5p2rqbm5A)
 - [Jim by Faith No More](https://www.youtube.com/watch?v=oOBZthysdGY)
 - [Why Do You Bother by Faith No More](https://www.youtube.com/watch?v=m5n9nwTPqhk)
 - [Greed](https://www.youtube.com/watch?v=R4mPRUZ3oS8)

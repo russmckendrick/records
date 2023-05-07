@@ -39,14 +39,14 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### El Rodeo
-{{< youtube id="UnUHC7LoiWE" title="El Rodeo" >}}<br>
+### Kyuss - One Inch Man
+{{< youtube id="CAXGu81Rk1g" title="Kyuss - One Inch Man" >}}<br>
 
 ### More Videos
 
-- [Kyuss - One Inch Man](https://www.youtube.com/watch?v=CAXGu81Rk1g)
 - [Hurricane](https://www.youtube.com/watch?v=9S-HOU6IehU)
 - [Spaceship Landing](https://www.youtube.com/watch?v=XJeD2tsKBoA)
+- [El Rodeo](https://www.youtube.com/watch?v=UnUHC7LoiWE)
 - [Catamaran](https://www.youtube.com/watch?v=kdkeorF6Fiw)
 - [Jumbo Blimp Jumbo](https://www.youtube.com/watch?v=wC5UKU7xh_4)
 

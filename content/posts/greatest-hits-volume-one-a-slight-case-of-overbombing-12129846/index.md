@@ -37,13 +37,13 @@ styles: ["Goth Rock"]
 
 
 ## Videos
-### The Sisters of Mercy - Dr Jeep (Extended Version)
-{{< youtube id="ZlJz9-4N-s0" title="The Sisters of Mercy - Dr Jeep (Extended Version)" >}}<br>
+### Sisters of Mercy - Temple of Love '92
+{{< youtube id="ROnXv7Z7v28" title="Sisters of Mercy - Temple of Love '92" >}}<br>
 
 ### More Videos
 
-- [Sisters of Mercy - Temple of Love '92](https://www.youtube.com/watch?v=ROnXv7Z7v28)
 - [The Sisters of Mercy HD: Temple of Love 1992](https://www.youtube.com/watch?v=nMz7P3hAMAM)
+- [The Sisters of Mercy - Dr Jeep (Extended Version)](https://www.youtube.com/watch?v=ZlJz9-4N-s0)
 - [This Corrosion (Extended 10 min) -Sisters of Mercy [HQ]](https://www.youtube.com/watch?v=pgifFdi8eio)
 - [The Sisters of Mercy - More (Extended version)](https://www.youtube.com/watch?v=BURM7l6_pvg)
 - [The Sisters Of Mercy - No Time To Cry - Music Video](https://www.youtube.com/watch?v=sZs0VDI-CxM)

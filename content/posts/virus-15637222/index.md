@@ -39,12 +39,11 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Only Stars
-{{< youtube id="BP55LZwJgRI" title="Only Stars" >}}<br>
+### HAKEN - Prosthetic (OFFICIAL VIDEO)
+{{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [HAKEN - Prosthetic (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=4EmbYo65Pbs)
 - [Invasion](https://www.youtube.com/watch?v=9XvK6cMoVu0)
 - [Carousel](https://www.youtube.com/watch?v=84G_kyB9TDo)
 - [The Strain](https://www.youtube.com/watch?v=8gVsg6Whnoo)
@@ -53,6 +52,7 @@ styles: ["Progressive Metal"]
 - [Messiah Complex III: Marigold](https://www.youtube.com/watch?v=KcgmiMkpbO0)
 - [Messiah Complex Iv: The Sect](https://www.youtube.com/watch?v=ChXXRVOAtzo)
 - [Messiah Complex V: Ectobius Rex](https://www.youtube.com/watch?v=YkzpCm9QRnE)
+- [Only Stars](https://www.youtube.com/watch?v=BP55LZwJgRI)
 
 
 ## Release Information

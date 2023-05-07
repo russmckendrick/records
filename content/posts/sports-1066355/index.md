@@ -37,12 +37,12 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 
 
 ## Videos
-### Huey Lewis And The News - Heart And Soul (Official Music Video)
-{{< youtube id="8TdaXhpjHws" title="Huey Lewis And The News - Heart And Soul (Official Music Video)" >}}<br>
+### Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)
+{{< youtube id="M7JVlpm0eRs" title="Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)](https://www.youtube.com/watch?v=M7JVlpm0eRs)
+- [Huey Lewis And The News - Heart And Soul (Official Music Video)](https://www.youtube.com/watch?v=8TdaXhpjHws)
 - [Huey Lewis And The News - Bad Is Bad](https://www.youtube.com/watch?v=7CscPTI8fwA)
 - [Huey Lewis And The News - I Want A New Drug (Official Music Video)](https://www.youtube.com/watch?v=N6uEMOeDZsA)
 - [Walking On A Thin Line](https://www.youtube.com/watch?v=VVE9Kj1o4ig)

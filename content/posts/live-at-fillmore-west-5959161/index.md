@@ -37,13 +37,13 @@ styles: ["Jazz-Funk"]
 
 
 ## Videos
-### Whole Lotta Love (Live at Fillmore West, 3/6/1971)
-{{< youtube id="z8RQZc8ir8E" title="Whole Lotta Love (Live at Fillmore West, 3/6/1971)" >}}<br>
+### Memphis Soul Stew (Live at Fillmore West, 3/7/1971)
+{{< youtube id="QISOupYqTi4" title="Memphis Soul Stew (Live at Fillmore West, 3/7/1971)" >}}<br>
 
 ### More Videos
 
-- [Memphis Soul Stew (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=QISOupYqTi4)
 - [A Whiter Shade of Pale (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=DOrAd-nyRsM)
+- [Whole Lotta Love (Live at Fillmore West, 3/6/1971)](https://www.youtube.com/watch?v=z8RQZc8ir8E)
 - [I Stand Accused (Live at Fillmore West, 3/6/1971)](https://www.youtube.com/watch?v=Fj3MRelfzDc)
 - [Them Changes (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=29liKY8lXI8)
 - [Ode to Billy Joe (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=SfnwzrA-1xc)

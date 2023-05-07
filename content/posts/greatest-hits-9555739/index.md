@@ -46,12 +46,11 @@ styles: ["Synth-pop", "Pop Rock"]
 
 
 ## Videos
-### Angel
-{{< youtube id="OItVapYPjkY" title="Angel" >}}<br>
+### Eurythmics - When Tomorrow Comes [Lyrics]
+{{< youtube id="Z5rFDibmeQk" title="Eurythmics - When Tomorrow Comes [Lyrics]" >}}<br>
 
 ### More Videos
 
-- [Eurythmics - When Tomorrow Comes [Lyrics]](https://www.youtube.com/watch?v=Z5rFDibmeQk)
 - [Eurythmics, Annie Lennox, Dave Stewart - Here Comes The Rain Again (Remastered)](https://www.youtube.com/watch?v=TzFnYcIqj6I)
 - [Eurythmics - Here Comes The Rain Again ( Extended 12 ) 1983](https://www.youtube.com/watch?v=22zdnYE8dLk)
 - [There Must Be An Angel (Playing With My Heart) (Remastered)](https://www.youtube.com/watch?v=RCdneDxFRYQ)
@@ -65,6 +64,7 @@ styles: ["Synth-pop", "Pop Rock"]
 - [Eurythmics Love Is A Stranger Lyrics](https://www.youtube.com/watch?v=0XlagMjYRNk)
 - [♪ Eurythmics - Thorn In My Side | Singles #17/33](https://www.youtube.com/watch?v=ojlzOnqwGeA)
 - [The King and Queen of America](https://www.youtube.com/watch?v=MelbhSbRRE4)
+- [Angel](https://www.youtube.com/watch?v=OItVapYPjkY)
 
 
 ## Release Information

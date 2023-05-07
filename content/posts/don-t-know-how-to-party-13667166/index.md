@@ -37,12 +37,11 @@ styles: ["Ska", "Punk"]
 
 
 ## Videos
-### What Was Was Over
-{{< youtube id="BXDgiwf76yw" title="What Was Was Over" >}}<br>
+### Someday I Suppose
+{{< youtube id="Mvav4aPv0-s" title="Someday I Suppose" >}}<br>
 
 ### More Videos
 
-- [Someday I Suppose](https://www.youtube.com/watch?v=Mvav4aPv0-s)
 - [Our Only Weapon](https://www.youtube.com/watch?v=3QtGz0NCTA0)
 - [Last Dead Mouse](https://www.youtube.com/watch?v=Yb3l_GwdL1Q)
 - [Don't Know How To Party](https://www.youtube.com/watch?v=PVeVvAoo_Wc)
@@ -52,6 +51,7 @@ styles: ["Ska", "Punk"]
 - [Tin Soldiers](https://www.youtube.com/watch?v=El_dh1gWC48)
 - [Almost Anything Goes](https://www.youtube.com/watch?v=awHWILGJBI4)
 - [Issachar](https://www.youtube.com/watch?v=Mb94pbeWqq0)
+- [What Was Was Over](https://www.youtube.com/watch?v=BXDgiwf76yw)
 - [Seven Thirty Seven / Shoe Glue](https://www.youtube.com/watch?v=UbHQT73w8Mg)
 
 

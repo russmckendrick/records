@@ -41,12 +41,12 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Gardenia
-{{< youtube id="Ew6qzoN2sqk" title="Gardenia" >}}<br>
+### Kyuss - Demon Cleaner (Official Video)
+{{< youtube id="B7Ske2eKX2g" title="Kyuss - Demon Cleaner (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Kyuss - Demon Cleaner (Official Video)](https://www.youtube.com/watch?v=B7Ske2eKX2g)
+- [Gardenia](https://www.youtube.com/watch?v=Ew6qzoN2sqk)
 - [Supa Scoopa and Mighty Scoop](https://www.youtube.com/watch?v=Av-gUkwzvzk)
 - [Whitewater / Lick Doo (Hidden Track)](https://www.youtube.com/watch?v=q8rvXl-la3w)
 

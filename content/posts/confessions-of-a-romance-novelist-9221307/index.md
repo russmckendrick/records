@@ -44,13 +44,13 @@ styles: ["Indie Rock", "Art Rock"]
 
 
 ## Videos
-### The Anchoress - Popular (from Confessions of a Romance Novelist)
-{{< youtube id="K7TK2k1jtjw" title="The Anchoress - Popular (from Confessions of a Romance Novelist)" >}}<br>
+### Confessions of a Romance Novelist
+{{< youtube id="6ul6hypmC30" title="Confessions of a Romance Novelist" >}}<br>
 
 ### More Videos
 
-- [Confessions of a Romance Novelist](https://www.youtube.com/watch?v=6ul6hypmC30)
 - [The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=Z2FXZeJED2w)
+- [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
 
 
 ## Release Information

@@ -41,12 +41,12 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 
 
 ## Videos
-### Whale Kickin
-{{< youtube id="ktYTBY44O3E" title="Whale Kickin" >}}<br>
+### Whale - Hobo Humpin Slobo Babe
+{{< youtube id="2up7su7CeMU" title="Whale - Hobo Humpin Slobo Babe" >}}<br>
 
 ### More Videos
 
-- [Whale - Hobo Humpin Slobo Babe](https://www.youtube.com/watch?v=2up7su7CeMU)
+- [Whale Kickin](https://www.youtube.com/watch?v=ktYTBY44O3E)
 - [Whale - Pay for me](https://www.youtube.com/watch?v=QwujYHLJay4)
 - [I´ll do ya-Whale](https://www.youtube.com/watch?v=j-VjC6EgjzU)
 - [Whale - I'm Cold.wmv](https://www.youtube.com/watch?v=P0CCPs5FFAc)

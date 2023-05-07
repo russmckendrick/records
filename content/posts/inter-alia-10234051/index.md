@@ -39,12 +39,12 @@ styles: ["Indie Rock", "Post-Hardcore"]
 
 
 ## Videos
-### At The Drive In - Incurably Innocent (Lyric Video)
-{{< youtube id="uS_IramA9m4" title="At The Drive In - Incurably Innocent (Lyric Video)" >}}<br>
+### At The Drive In - Hostage Stamps (Official Music Video)
+{{< youtube id="JoNJ6AQhmFY" title="At The Drive In - Hostage Stamps (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [At The Drive In - Hostage Stamps (Official Music Video)](https://www.youtube.com/watch?v=JoNJ6AQhmFY)
+- [At The Drive In - Incurably Innocent (Lyric Video)](https://www.youtube.com/watch?v=uS_IramA9m4)
 
 
 ## Release Information

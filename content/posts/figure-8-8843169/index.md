@@ -46,13 +46,13 @@ styles: ["Acoustic", "Indie Rock"]
 
 
 ## Videos
-### Happiness/The Gondola Man
-{{< youtube id="Hadz9rZH5zI" title="Happiness/The Gondola Man" >}}<br>
+### Elliott Smith - Son Of Sam
+{{< youtube id="afeAUndotas" title="Elliott Smith - Son Of Sam" >}}<br>
 
 ### More Videos
 
-- [Elliott Smith - Son Of Sam](https://www.youtube.com/watch?v=afeAUndotas)
 - [Everything Means Nothing To Me](https://www.youtube.com/watch?v=m2NCuoVMhjk)
+- [Happiness/The Gondola Man](https://www.youtube.com/watch?v=Hadz9rZH5zI)
 - [In The Lost And Found (Honky Bach) /The Roost](https://www.youtube.com/watch?v=wjhXDbGQ_II)
 - [Junk Bond Trader](https://www.youtube.com/watch?v=KAXXJEj3AwY)
 - [Can't Make A Sound](https://www.youtube.com/watch?v=QXR3kB0V5Cw)

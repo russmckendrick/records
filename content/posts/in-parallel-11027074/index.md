@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Dhani Harrison - All About Waiting [Official Video]
-{{< youtube id="reRlyvQvTng" title="Dhani Harrison - All About Waiting [Official Video]" >}}<br>
+### Dhani Harrison - Never Know [Audio]
+{{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}<br>
 
 ### More Videos
 
-- [Dhani Harrison - Never Know [Audio]](https://www.youtube.com/watch?v=B757_F4TLvs)
+- [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
 
 
 ## Release Information

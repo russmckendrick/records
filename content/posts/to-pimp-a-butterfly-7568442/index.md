@@ -44,15 +44,15 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Kendrick Lamar - Alright
-{{< youtube id="Z-48u_uWMHY" title="Kendrick Lamar - Alright" >}}<br>
+### Kendrick Lamar - King Kunta
+{{< youtube id="hRK7PVJFbS8" title="Kendrick Lamar - King Kunta" >}}<br>
 
 ### More Videos
 
-- [Kendrick Lamar - King Kunta](https://www.youtube.com/watch?v=hRK7PVJFbS8)
 - [Kendrick Lamar - i (Official Video)](https://www.youtube.com/watch?v=8aShfolR6w8)
 - [Kendrick Lamar - For Free?](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
 - [Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
+- [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
 
 
 ## Release Information

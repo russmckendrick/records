@@ -40,12 +40,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Teenage Fanclub - What You Do To Me
-{{< youtube id="SmJ3zOn9RD8" title="Teenage Fanclub - What You Do To Me" >}}<br>
+### Teenage Fanclub - Star Sign
+{{< youtube id="xw49UgKoZnQ" title="Teenage Fanclub - Star Sign" >}}<br>
 
 ### More Videos
 
-- [Teenage Fanclub - Star Sign](https://www.youtube.com/watch?v=xw49UgKoZnQ)
+- [Teenage Fanclub - What You Do To Me](https://www.youtube.com/watch?v=SmJ3zOn9RD8)
 - [Teenage Fanclub - The Concept](https://www.youtube.com/watch?v=Er_JOsnwzcI)
 
 

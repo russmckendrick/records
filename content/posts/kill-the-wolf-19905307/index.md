@@ -37,12 +37,12 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Matt Berry - Kill The Wolf Box Set (UNBOXING)
-{{< youtube id="n_nt6clp3ck" title="Matt Berry - Kill The Wolf Box Set (UNBOXING)" >}}<br>
+### Matt Berry - Gather Up (Kill the Wolf Album)
+{{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>
 
 ### More Videos
 
-- [Matt Berry - Gather Up (Kill the Wolf Album)](https://www.youtube.com/watch?v=gdx-EanE6Hk)
+- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
 - [Matt Berry - Devil Inside Me](https://www.youtube.com/watch?v=2yE8htFL1m8)
 - [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
 - [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)

@@ -35,14 +35,14 @@ styles: ["Post-Punk", "Acid House", "New Wave"]
 
 
 ## Videos
-### Cook a Coffee
-{{< youtube id="a3sS2Km_OJo" title="Cook a Coffee" >}}<br>
+### Angel
+{{< youtube id="wsgjt1jC3Pc" title="Angel" >}}<br>
 
 ### More Videos
 
-- [Angel](https://www.youtube.com/watch?v=wsgjt1jC3Pc)
 - [Working Men's Club - Valleys (Official Video)](https://www.youtube.com/watch?v=pzkfcLzUYYg)
 - [Working Men's Club - 'A.A.A.A.'](https://www.youtube.com/watch?v=4uCC6IAbRWU)
+- [Cook a Coffee](https://www.youtube.com/watch?v=a3sS2Km_OJo)
 - [Working Men's Club - 'Teeth'](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
 - [John Cooper Clarke](https://www.youtube.com/watch?v=ortHnqOoQB0)
 - [Be My Guest](https://www.youtube.com/watch?v=Y8Qw9CuEmmc)

@@ -38,13 +38,13 @@ styles: ["Soul"]
 
 
 ## Videos
-### Private Space
-{{< youtube id="P73S0B5e7Ow" title="Private Space" >}}<br>
+### Durand Jones & The Indications - Witchoo (Official Video)
+{{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Durand Jones & The Indications - Witchoo (Official Video)](https://www.youtube.com/watch?v=d7vTtnevlO4)
 - [Sea of Love](https://www.youtube.com/watch?v=LlsyxKzXUm8)
+- [Private Space](https://www.youtube.com/watch?v=P73S0B5e7Ow)
 - [Durand Jones & The Indications - Love Will Work It Out (Official Video)](https://www.youtube.com/watch?v=2AnXiScwWj4)
 - [I Can See](https://www.youtube.com/watch?v=f7BscBQb11g)
 - [Durand Jones & The Indications - The Way That I Do (Official Video)](https://www.youtube.com/watch?v=OYq5CxVnOPU)

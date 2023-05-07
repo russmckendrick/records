@@ -39,17 +39,17 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 
 
 ## Videos
-### John Carpenter Lost Themes II - Dark Blues
-{{< youtube id="XzMo4vAOEqs" title="John Carpenter Lost Themes II - Dark Blues" >}}<br>
+### John Carpenter Lost themes II - Distant Dream
+{{< youtube id="sAfVnzSVrBY" title="John Carpenter Lost themes II - Distant Dream" >}}<br>
 
 ### More Videos
 
-- [John Carpenter Lost themes II - Distant Dream](https://www.youtube.com/watch?v=sAfVnzSVrBY)
 - [John Carpenter Lost themes II - White Pulse](https://www.youtube.com/watch?v=gqXU2iUj39E)
 - [John Carpenter - Lost Themes II - Persia Rising](https://www.youtube.com/watch?v=vPtfdgpUtqc)
 - [John Carpenter Lost Themes II - Angel's Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
 - [John Carpenter Lost Themes II - Hofner Dawn](https://www.youtube.com/watch?v=2Qcz15Ash7U)
 - [John Carpenter Lost Themes II - Windy Death](https://www.youtube.com/watch?v=DSeyGqv1qMk)
+- [John Carpenter Lost Themes II - Dark Blues](https://www.youtube.com/watch?v=XzMo4vAOEqs)
 - [John Carpenter Lost Themes II - Virtual Survivor](https://www.youtube.com/watch?v=fPC60B1v2Rc)
 - [John Carpenter Lost Themes II - Bela Lugosi](https://www.youtube.com/watch?v=hGFHL1VPQzI)
 - [John Carpenter Lost Themes II - Last Sunrise](https://www.youtube.com/watch?v=qTzdyFQWQkw)

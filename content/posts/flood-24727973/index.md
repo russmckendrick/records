@@ -47,12 +47,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Headswim - Stinkhorn (HQ)
-{{< youtube id="ZivlvKrZsFQ" title="Headswim - Stinkhorn (HQ)" >}}<br>
+### Headswim - Gone To Pot (HQ)
+{{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}<br>
 
 ### More Videos
 
-- [Headswim - Gone To Pot (HQ)](https://www.youtube.com/watch?v=WK2bOn6UGqE)
+- [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
 
 ## Release Information

@@ -52,12 +52,11 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 
 
 ## Videos
-### Vi Lua Vi Sol
-{{< youtube id="hoxGDKQZ1nY" title="Vi Lua Vi Sol" >}}<br>
+### Fists of Fury
+{{< youtube id="YFe5a66BuCw" title="Fists of Fury" >}}<br>
 
 ### More Videos
 
-- [Fists of Fury](https://www.youtube.com/watch?v=YFe5a66BuCw)
 - [Agents of The Multiverse](https://www.youtube.com/watch?v=tWjPIJ0Rz6g)
 - [Can You Hear Him](https://www.youtube.com/watch?v=fXUMKIc7a6E)
 - [Kamasi Washington Hub-Tones](https://www.youtube.com/watch?v=u-e6mOTK__Y)
@@ -70,6 +69,7 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 - [Testify](https://www.youtube.com/watch?v=dyhaya-g2eQ)
 - [One of One](https://www.youtube.com/watch?v=31RbajKWAZ8)
 - [The Space Travelers Lullaby](https://www.youtube.com/watch?v=8Zw85YN37Cs)
+- [Vi Lua Vi Sol](https://www.youtube.com/watch?v=hoxGDKQZ1nY)
 - [Kamasi Washington - Street Fighter Mas](https://www.youtube.com/watch?v=LdyabrdFMC8)
 - [Song For The Fallen](https://www.youtube.com/watch?v=qQC1TptRryQ)
 - [Journey](https://www.youtube.com/watch?v=HgB_MtTsdQk)

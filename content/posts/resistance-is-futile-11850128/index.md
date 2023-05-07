@@ -52,13 +52,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Manic Street Preachers - International Blue (Official Video)
-{{< youtube id="zcJ8BTAGqE0" title="Manic Street Preachers - International Blue (Official Video)" >}}<br>
+### Manic Street Preachers - Hold Me Like a Heaven (Official Video)
+{{< youtube id="JU5bn2LiOfA" title="Manic Street Preachers - Hold Me Like a Heaven (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Manic Street Preachers - Hold Me Like a Heaven (Official Video)](https://www.youtube.com/watch?v=JU5bn2LiOfA)
 - [Manic Street Preachers - Distant Colours (Official Video)](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
+- [Manic Street Preachers - International Blue (Official Video)](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
 
 
 ## Release Information

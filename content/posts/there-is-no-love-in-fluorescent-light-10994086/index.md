@@ -40,16 +40,16 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 
 
 ## Videos
-### Losing To You
-{{< youtube id="lPYmAYU5Nug" title="Losing To You" >}}<br>
+### Privilege
+{{< youtube id="Q1-jaX3K4Ik" title="Privilege" >}}<br>
 
 ### More Videos
 
-- [Privilege](https://www.youtube.com/watch?v=Q1-jaX3K4Ik)
 - [We Called It Love](https://www.youtube.com/watch?v=YJwmEFm_tpg)
 - [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
 - [California, I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
 - [Stars - Real Thing (Official Audio)](https://www.youtube.com/watch?v=xm-vMmgKL68)
+- [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
 - [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
 - [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
 - [Stars - Alone (Official Audio)](https://www.youtube.com/watch?v=k3V-CQI5OiQ)

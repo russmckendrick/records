@@ -45,12 +45,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### North Country Boy
-{{< youtube id="NuozckSMNh4" title="North Country Boy" >}}<br>
+### The Charlatans - The Only One I Know
+{{< youtube id="0RJwW77Lsj8" title="The Charlatans - The Only One I Know" >}}<br>
 
 ### More Videos
 
-- [The Charlatans - The Only One I Know](https://www.youtube.com/watch?v=0RJwW77Lsj8)
 - [The Charlatans - Patrol (Chemical Brothers Mix)](https://www.youtube.com/watch?v=l30MOxYHLw0)
 - [The Charlatans: Melting Pot (Promo Videos)](https://www.youtube.com/watch?v=4HJ2rnGmvII)
 - [The Charlatans - Opportunity Three](https://www.youtube.com/watch?v=1MtRmr1Pe3Q)
@@ -59,6 +58,7 @@ styles: ["Indie Rock"]
 - [Jesus Hairdo](https://www.youtube.com/watch?v=KxHlEKc5eoU)
 - [The Only One I Know (Remastered)](https://www.youtube.com/watch?v=srBb61GnTC4)
 - [Weirdo](https://www.youtube.com/watch?v=aE1Ns5-KRkQ)
+- [North Country Boy](https://www.youtube.com/watch?v=NuozckSMNh4)
 - [The Charlatans - Theme from Wish](https://www.youtube.com/watch?v=T5pkheKRKOk)
 - [Then](https://www.youtube.com/watch?v=x-eOMMuwTC4)
 - [Just When You’re Thinkin’ Things Over](https://www.youtube.com/watch?v=nJeHGRetnNw)

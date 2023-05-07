@@ -45,13 +45,13 @@ styles: []
 
 
 ## Videos
-### VENNART - Retaliate (Lyric Video)
-{{< youtube id="JyEjLh_VdRY" title="VENNART - Retaliate (Lyric Video)" >}}<br>
+### VENNART - Operate (OFFICIAL VIDEO)
+{{< youtube id="Xgc2B6wYilI" title="VENNART - Operate (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [VENNART - Operate (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Xgc2B6wYilI)
 - [VENNART - Don't Forget The Joker (Lyric Video)](https://www.youtube.com/watch?v=VDdpyypbaKo)
+- [VENNART - Retaliate (Lyric Video)](https://www.youtube.com/watch?v=JyEjLh_VdRY)
 
 
 ## Release Information

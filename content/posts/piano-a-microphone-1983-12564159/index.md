@@ -34,18 +34,18 @@ styles: ["Ballad"]
 
 
 ## Videos
-### International Lover (Piano & A Microphone 1983 Version)
-{{< youtube id="l6SAhGuDh_0" title="International Lover (Piano & A Microphone 1983 Version)" >}}<br>
+### 17 Days (Piano & A Microphone 1983 Version)
+{{< youtube id="g1uZkgr2gHY" title="17 Days (Piano & A Microphone 1983 Version)" >}}<br>
 
 ### More Videos
 
-- [17 Days (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=g1uZkgr2gHY)
 - [A Case of You (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=SwkN-Eq_9qo)
 - [Mary Don't You Weep (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=DxbWRT7-Uno)
 - [Strange Relationship (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=tgXMqOlsoyg)
 - [Wednesday (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=nU8dxoxrnb8)
 - [Why the Butterflies](https://www.youtube.com/watch?v=rIbUjYzUpTI)
 - [Purple Rain (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=IVLfdZZY9NI)
+- [International Lover (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=l6SAhGuDh_0)
 - [Cold Coffee & Cocaine (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=jlyVa1ibBEc)
 
 

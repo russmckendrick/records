@@ -50,12 +50,12 @@ styles: ["Synth-pop", "Folk Rock"]
 
 
 ## Videos
-### John Grant - Glacier
-{{< youtube id="K3BzvWPYo94" title="John Grant - Glacier" >}}<br>
+### John Grant - Pale Green Ghosts
+{{< youtube id="Ux1fglC0aT0" title="John Grant - Pale Green Ghosts" >}}<br>
 
 ### More Videos
 
-- [John Grant - Pale Green Ghosts](https://www.youtube.com/watch?v=Ux1fglC0aT0)
+- [John Grant - Glacier](https://www.youtube.com/watch?v=K3BzvWPYo94)
 - [John Grant - GMF](https://www.youtube.com/watch?v=ekFWPsXXcg0)
 - [John Grant - Sensitive New Age Guy (from Pale Green Ghosts)](https://www.youtube.com/watch?v=zcamcBY2-4M)
 - [John Grant - Glacier [Pale Green Ghosts]](https://www.youtube.com/watch?v=ZeDlRVdbxYQ)

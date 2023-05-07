@@ -40,13 +40,13 @@ styles: ["Synth-pop", "Experimental"]
 
 
 ## Videos
-### Radio Waves
-{{< youtube id="Evas4RwWg-I" title="Radio Waves" >}}<br>
+### Dazzle Ships (Parts II, III And VII)
+{{< youtube id="wy3IxefErus" title="Dazzle Ships (Parts II, III And VII)" >}}<br>
 
 ### More Videos
 
-- [Dazzle Ships (Parts II, III And VII)](https://www.youtube.com/watch?v=wy3IxefErus)
 - [Telegraph](https://www.youtube.com/watch?v=keNcC2qn_LA)
+- [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
 
 
 ## Release Information

@@ -35,17 +35,17 @@ styles: ["Gothic Metal"]
 
 
 ## Videos
-### Dance Macabre
-{{< youtube id="ttY0vfyd-dI" title="Dance Macabre" >}}<br>
+### Ghost - Rats (Official Music Video)
+{{< youtube id="C_ijc7A5oAc" title="Ghost - Rats (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Ghost - Rats (Official Music Video)](https://www.youtube.com/watch?v=C_ijc7A5oAc)
 - [Ashes](https://www.youtube.com/watch?v=XxyGT0B2cHU)
 - [Rats](https://www.youtube.com/watch?v=wwrsoQeh1Ig)
 - [Faith](https://www.youtube.com/watch?v=t9QNheVWL_4)
 - [See The Light](https://www.youtube.com/watch?v=EQPgumd-v8g)
 - [Miasma](https://www.youtube.com/watch?v=BX335Z4esSU)
+- [Dance Macabre](https://www.youtube.com/watch?v=ttY0vfyd-dI)
 - [Pro Memoria](https://www.youtube.com/watch?v=NPLFQpApMAg)
 - [Witch Image](https://www.youtube.com/watch?v=ymb-aG_lt9U)
 - [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)

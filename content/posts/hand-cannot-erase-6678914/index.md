@@ -39,12 +39,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Steven Wilson - Routine (from Hand. Cannot. Erase.)
-{{< youtube id="sCn-CNanD_g" title="Steven Wilson - Routine (from Hand. Cannot. Erase.)" >}}<br>
+### Steven Wilson - Perfect Life
+{{< youtube id="gOU_zWdhAoE" title="Steven Wilson - Perfect Life" >}}<br>
 
 ### More Videos
 
-- [Steven Wilson - Perfect Life](https://www.youtube.com/watch?v=gOU_zWdhAoE)
+- [Steven Wilson - Routine (from Hand. Cannot. Erase.)](https://www.youtube.com/watch?v=sCn-CNanD_g)
 
 
 ## Release Information

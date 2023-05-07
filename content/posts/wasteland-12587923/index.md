@@ -46,14 +46,14 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Riverside - Wasteland [Lyrics on screen]
-{{< youtube id="bXPsLDO77rA" title="Riverside - Wasteland [Lyrics on screen]" >}}<br>
+### RIVERSIDE - Lament (OFFICIAL VIDEO)
+{{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [RIVERSIDE - Lament (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=4Wqlts7QWA8)
 - [RIVERSIDE - Wasteland (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=6dLf45s67hM)
 - [RIVERSIDE - River Down Below (Album Track)](https://www.youtube.com/watch?v=ZS1crIkpnwc)
+- [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
 - [RIVERSIDE - Vale Of Tears (Album Track)](https://www.youtube.com/watch?v=001IMO53JwY)
 
 

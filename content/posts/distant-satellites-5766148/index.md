@@ -38,12 +38,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Anathema - Distant Satellites [Full Album]
-{{< youtube id="J1pkkCmBgCk" title="Anathema - Distant Satellites [Full Album]" >}}<br>
+### Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)
+{{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)" >}}<br>
 
 ### More Videos
 
-- [Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)](https://www.youtube.com/watch?v=q2bwKAPgsyA)
+- [Anathema - Distant Satellites [Full Album]](https://www.youtube.com/watch?v=J1pkkCmBgCk)
 - [Anathema - The Making of the 'Distant Satellites' (clip) (from the Special Edition documentary)](https://www.youtube.com/watch?v=MsgFPDZKU3M)
 
 

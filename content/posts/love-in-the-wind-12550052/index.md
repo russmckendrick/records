@@ -39,14 +39,14 @@ styles: ["Doo Wop", "Soul", "Surf"]
 
 
 ## Videos
-### The Sha La Das - Okay My Love (Official Audio)
-{{< youtube id="Gp5-_UdJq7M" title="The Sha La Das - Okay My Love (Official Audio)" >}}<br>
+### The Sha La Das - Love in the Wind (Official Audio)
+{{< youtube id="S-0XRjO8Iy0" title="The Sha La Das - Love in the Wind (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [The Sha La Das - Love in the Wind (Official Audio)](https://www.youtube.com/watch?v=S-0XRjO8Iy0)
 - [Sha La Das - Open My Eyes (Official Audio)](https://www.youtube.com/watch?v=EDSSesrKz0k)
 - [Sha La Das - Just for a Minute (Official Audio)](https://www.youtube.com/watch?v=_I6OloEONDw)
+- [The Sha La Das - Okay My Love (Official Audio)](https://www.youtube.com/watch?v=Gp5-_UdJq7M)
 - [The Sha La Das - Carnival (Official Audio)](https://www.youtube.com/watch?v=kaA0TFlVtiY)
 - [The Sha La Das - Those Years Are Over (Official Audio)](https://www.youtube.com/watch?v=UncuOBiYjuM)
 

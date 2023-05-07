@@ -88,12 +88,11 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 
 
 ## Videos
-### Pantera - Primal Concrete Sledge (Live Video)
-{{< youtube id="3DOamgay6Mw" title="Pantera - Primal Concrete Sledge (Live Video)" >}}<br>
+### Pantera - Walk (Official Video)
+{{< youtube id="AkFqg5wAuFk" title="Pantera - Walk (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Pantera - Walk (Official Video)](https://www.youtube.com/watch?v=AkFqg5wAuFk)
 - [Pantera - 5 Minutes Alone (Official Video)](https://www.youtube.com/watch?v=7m7njvwB-Ks)
 - [Pantera - I'm Broken (Official Video)](https://www.youtube.com/watch?v=2-V8kYT1pvE)
 - [Pantera - Cemetery Gates (Official Video)](https://www.youtube.com/watch?v=RVMvART9kb8)
@@ -105,6 +104,7 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 - [Pantera - Domination (Live Video)](https://www.youtube.com/watch?v=aDACorIaxNw)
 - [Pantera - Drag The Waters (Official Video)](https://www.youtube.com/watch?v=4hx8TW6sYys)
 - [Pantera - Planet Caravan (Video)](https://www.youtube.com/watch?v=kWChhdIgT6Q)
+- [Pantera - Primal Concrete Sledge (Live Video)](https://www.youtube.com/watch?v=3DOamgay6Mw)
 - [Pantera - Psycho Holiday (Official Video)](https://www.youtube.com/watch?v=JTDj-I8LiXM)
 
 

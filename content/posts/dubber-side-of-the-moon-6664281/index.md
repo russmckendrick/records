@@ -37,12 +37,12 @@ styles: ["Reggae", "Dub"]
 
 
 ## Videos
-### Easy Star All Stars - Money (The Alchemist Remix)
-{{< youtube id="azmdQp4MryE" title="Easy Star All Stars - Money (The Alchemist Remix)" >}}<br>
+### EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER
+{{< youtube id="waLrqTiltmQ" title="EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER" >}}<br>
 
 ### More Videos
 
-- [EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER](https://www.youtube.com/watch?v=waLrqTiltmQ)
+- [Easy Star All Stars - Money (The Alchemist Remix)](https://www.youtube.com/watch?v=azmdQp4MryE)
 - [Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)](https://www.youtube.com/watch?v=CD_SkZpc6J0)
 
 

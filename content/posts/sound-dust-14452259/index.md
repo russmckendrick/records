@@ -48,12 +48,11 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 
 
 ## Videos
-### Stereolab Sound - Dust review
-{{< youtube id="UAPa0pjhydQ" title="Stereolab Sound - Dust review" >}}<br>
+### Black Ants In Sound-dust
+{{< youtube id="TweTfd5AVfU" title="Black Ants In Sound-dust" >}}<br>
 
 ### More Videos
 
-- [Black Ants In Sound-dust](https://www.youtube.com/watch?v=TweTfd5AVfU)
 - [Captain Easychord](https://www.youtube.com/watch?v=9KTP17jwJ48)
 - [Les Bon Bons Des Raisons](https://www.youtube.com/watch?v=T0034s3reng)
 - [Black Ants In Sound-dust](https://www.youtube.com/watch?v=XxG1pefQCGY)
@@ -61,6 +60,7 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 - [Suggestion Diabolique](https://www.youtube.com/watch?v=YMnAkqu1HXE)
 - [Hallucinex](https://www.youtube.com/watch?v=gqXJKVV_LLE)
 - [Nothing To Do With Me](https://www.youtube.com/watch?v=MJqW17Xv-l4)
+- [Stereolab Sound - Dust review](https://www.youtube.com/watch?v=UAPa0pjhydQ)
 - [Space Moth](https://www.youtube.com/watch?v=h7xHsamKVF8)
 - [Spacemoth](https://www.youtube.com/watch?v=_ukyogTkqV4)
 - [Hallucinex](https://www.youtube.com/watch?v=pbWXRzCvtdQ)

@@ -38,12 +38,12 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 
 
 ## Videos
-### Tim Finn – “Made My Day” (Epic) 1983
-{{< youtube id="NVFBUo0aj28" title="Tim Finn – “Made My Day” (Epic) 1983" >}}<br>
+### Tim Finn - Through The Years (1983)
+{{< youtube id="oyVGUQguaic" title="Tim Finn - Through The Years (1983)" >}}<br>
 
 ### More Videos
 
-- [Tim Finn - Through The Years (1983)](https://www.youtube.com/watch?v=oyVGUQguaic)
+- [Tim Finn – “Made My Day” (Epic) 1983](https://www.youtube.com/watch?v=NVFBUo0aj28)
 - [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
 - [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
 

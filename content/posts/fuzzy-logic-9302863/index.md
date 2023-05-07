@@ -40,13 +40,13 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Super Furry Animals - Something 4 the Weekend (Video)
-{{< youtube id="D1QyO4TkWts" title="Super Furry Animals - Something 4 the Weekend (Video)" >}}<br>
+### Super Furry Animals - God! Show Me Magic (Video)
+{{< youtube id="d1siktyfFxY" title="Super Furry Animals - God! Show Me Magic (Video)" >}}<br>
 
 ### More Videos
 
-- [Super Furry Animals - God! Show Me Magic (Video)](https://www.youtube.com/watch?v=d1siktyfFxY)
 - [Super Furry Animals - If You Don't Want Me To Destroy You](https://www.youtube.com/watch?v=TT03pCDn6DA)
+- [Super Furry Animals - Something 4 the Weekend (Video)](https://www.youtube.com/watch?v=D1QyO4TkWts)
 
 
 ## Release Information

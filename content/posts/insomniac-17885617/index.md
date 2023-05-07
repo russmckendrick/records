@@ -51,12 +51,11 @@ styles: ["Pop Punk"]
 
 
 ## Videos
-### Green Day – Tight Wad Hill
-{{< youtube id="Zh9N18yQPxw" title="Green Day – Tight Wad Hill" >}}<br>
+### Green Day – Brain Stew
+{{< youtube id="sYGUcshuQdA" title="Green Day – Brain Stew" >}}<br>
 
 ### More Videos
 
-- [Green Day – Brain Stew](https://www.youtube.com/watch?v=sYGUcshuQdA)
 - [Green Day – Jaded](https://www.youtube.com/watch?v=nXrSfv4-Woo)
 - [Green Day – Walking Contradiction](https://www.youtube.com/watch?v=CUHn4iOXibo)
 - [Green Day – Geek Stink Breath](https://www.youtube.com/watch?v=dOy4u8_Zl58)
@@ -68,6 +67,7 @@ styles: ["Pop Punk"]
 - [Green Day – Brat](https://www.youtube.com/watch?v=yLGmXX8c_KY)
 - [Green Day – 86](https://www.youtube.com/watch?v=PM3OL6OEVQU)
 - [Green Day – Westbound Sign](https://www.youtube.com/watch?v=HlmpqZjvCdg)
+- [Green Day – Tight Wad Hill](https://www.youtube.com/watch?v=Zh9N18yQPxw)
 - [Green Day – Bab's Uvula Who?](https://www.youtube.com/watch?v=wqVoeUne8qk)
 
 

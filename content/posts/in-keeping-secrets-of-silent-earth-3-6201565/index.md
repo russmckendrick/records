@@ -40,12 +40,12 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Videos
-### Coheed and Cambria - A Favor House Atlantic (Official Video)
-{{< youtube id="pRWjLLpwnOM" title="Coheed and Cambria - A Favor House Atlantic (Official Video)" >}}<br>
+### Coheed and Cambria - Devil in Jersey City
+{{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}<br>
 
 ### More Videos
 
-- [Coheed and Cambria - Devil in Jersey City](https://www.youtube.com/watch?v=3bwELa13rBo)
+- [Coheed and Cambria - A Favor House Atlantic (Official Video)](https://www.youtube.com/watch?v=pRWjLLpwnOM)
 
 
 ## Release Information

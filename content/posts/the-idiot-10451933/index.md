@@ -36,13 +36,13 @@ styles: []
 
 
 ## Videos
-### Funtime
-{{< youtube id="DDYatCwJvCA" title="Funtime" >}}<br>
+### Sister Midnight
+{{< youtube id="LAiQZGDmVXg" title="Sister Midnight" >}}<br>
 
 ### More Videos
 
-- [Sister Midnight](https://www.youtube.com/watch?v=LAiQZGDmVXg)
 - [Nightclubbing](https://www.youtube.com/watch?v=EpECxEO4uZM)
+- [Funtime](https://www.youtube.com/watch?v=DDYatCwJvCA)
 - [Baby](https://www.youtube.com/watch?v=nU3EyAYg4t4)
 - [China Girl](https://www.youtube.com/watch?v=slU0PSJedbU)
 - [Dum Dum Boys](https://www.youtube.com/watch?v=12Uks7c0G8c)

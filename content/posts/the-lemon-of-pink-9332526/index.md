@@ -41,13 +41,13 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 
 
 ## Videos
-### The Books - The Lemon of Pink
-{{< youtube id="FC0jSezdwTU" title="The Books - The Lemon of Pink" >}}<br>
+### The Books - The Lemon of Pink (full album)
+{{< youtube id="IiXpi5u5Vu8" title="The Books - The Lemon of Pink (full album)" >}}<br>
 
 ### More Videos
 
-- [The Books - The Lemon of Pink (full album)](https://www.youtube.com/watch?v=IiXpi5u5Vu8)
 - [The Books - The Lemon of Pink (full album)](https://www.youtube.com/watch?v=CiuC8A8eKu4)
+- [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
 - [The Books - Take Time (official video)](https://www.youtube.com/watch?v=b1irbhY_dgY)
 - [The Books - A True Story of a Story of True Love - The Lemon of Pink](https://www.youtube.com/watch?v=Ku-g3LiBxmg)
 - [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)

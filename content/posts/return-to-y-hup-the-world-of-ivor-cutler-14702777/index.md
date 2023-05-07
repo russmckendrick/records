@@ -51,12 +51,12 @@ styles: []
 
 
 ## Videos
-### Out of Decency
-{{< youtube id="AN_3nCGTbKo" title="Out of Decency" >}}<br>
+### Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)
+{{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}<br>
 
 ### More Videos
 
-- [Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)](https://www.youtube.com/watch?v=aWMWR8eTLm0)
+- [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)
 
 
 ## Release Information

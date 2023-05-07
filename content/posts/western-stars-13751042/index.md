@@ -41,12 +41,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Chasin' Wild Horses
-{{< youtube id="0yAryPUV_zk" title="Chasin' Wild Horses" >}}<br>
+### Bruce Springsteen - There Goes My Miracle (Lyric Video)
+{{< youtube id="tbDKBcPsmoQ" title="Bruce Springsteen - There Goes My Miracle (Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Bruce Springsteen - There Goes My Miracle (Lyric Video)](https://www.youtube.com/watch?v=tbDKBcPsmoQ)
 - [Tucson Train](https://www.youtube.com/watch?v=I1mVTBB9ACw)
 - [Sundown](https://www.youtube.com/watch?v=JjeN0EpD1BA)
 - [Bruce Springsteen - Moonlight Motel (Official Audio)](https://www.youtube.com/watch?v=paFUBjeTcZY)
@@ -57,6 +56,7 @@ styles: ["Pop Rock"]
 - [There Goes My Miracle](https://www.youtube.com/watch?v=ovDPz46lGVY)
 - [Bruce Springsteen - Western Stars (Official Video)](https://www.youtube.com/watch?v=_IXzAAKrsFE)
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
+- [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 
 
 ## Release Information

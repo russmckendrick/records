@@ -38,13 +38,13 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 
 
 ## Videos
-### John Grant - Touch & Go (Official Audio)
-{{< youtube id="-49B91A6mY0" title="John Grant - Touch & Go (Official Audio)" >}}<br>
+### John Grant - Love Is Magic (OFFICIAL VIDEO)
+{{< youtube id="-qtTidRF2V0" title="John Grant - Love Is Magic (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [John Grant - Love Is Magic (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-qtTidRF2V0)
 - [John Grant - Love Is Magic (Lyric Video)](https://www.youtube.com/watch?v=AEBCBcqYzoM)
+- [John Grant - Touch & Go (Official Audio)](https://www.youtube.com/watch?v=-49B91A6mY0)
 - [John Grant - Is He Strange (Official Audio)](https://www.youtube.com/watch?v=g4ObBiXnato)
 - [John Grant - Love Is Magic (Album Trailer)](https://www.youtube.com/watch?v=mNFt_ECyFb8)
 - [John Grant - He's Got His Mother's Hips (Official Audio)](https://www.youtube.com/watch?v=KrogQsF1Qes)

@@ -35,14 +35,14 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Ghost B.C. - Secular Haze
-{{< youtube id="vyQZ13jobIY" title="Ghost B.C. - Secular Haze" >}}<br>
+### Ghost   Infestissumam   Full Album
+{{< youtube id="dPhvb87xweI" title="Ghost   Infestissumam   Full Album" >}}<br>
 
 ### More Videos
 
-- [Ghost   Infestissumam   Full Album](https://www.youtube.com/watch?v=dPhvb87xweI)
 - [Ghost B.C. - Year Zero (Censored)](https://www.youtube.com/watch?v=gkBt7yLXyDk)
 - [Infestissumam](https://www.youtube.com/watch?v=Nbbxws7sgy4)
+- [Ghost B.C. - Secular Haze](https://www.youtube.com/watch?v=vyQZ13jobIY)
 - [Per Aspera Ad Inferi](https://www.youtube.com/watch?v=TBwwYMaEWH4)
 - [SECULAR HAZE](https://www.youtube.com/watch?v=o3MPSRHpIno)
 - [Jigolo Har Megiddo](https://www.youtube.com/watch?v=ZXqaNLNQwKw)

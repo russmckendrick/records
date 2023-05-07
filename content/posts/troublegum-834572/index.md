@@ -42,12 +42,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Turn
-{{< youtube id="EEy5OLlZDYY" title="Turn" >}}<br>
+### Therapy? - Screamager
+{{< youtube id="-zZ44S3ZIJM" title="Therapy? - Screamager" >}}<br>
 
 ### More Videos
 
-- [Therapy? - Screamager](https://www.youtube.com/watch?v=-zZ44S3ZIJM)
 - [Knives](https://www.youtube.com/watch?v=wdSbLWLGgFE)
 - [Therapy? - Nowhere](https://www.youtube.com/watch?v=5z5HJRC9F_0)
 - [Screamager](https://www.youtube.com/watch?v=D_m6jtUi9Eo)
@@ -61,6 +60,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Trigger Inside](https://www.youtube.com/watch?v=sQCDhfTC3SQ)
 - [Lunacy Booth](https://www.youtube.com/watch?v=xqvrLjh5t0U)
 - [Isolation](https://www.youtube.com/watch?v=0D96iERbjDo)
+- [Turn](https://www.youtube.com/watch?v=EEy5OLlZDYY)
 - [Femtex](https://www.youtube.com/watch?v=2C8RqhtefMw)
 - [Unrequited](https://www.youtube.com/watch?v=5675fRD9Blk)
 - [Brainsaw (Incl. Hidden Track You Are My Sunshine)](https://www.youtube.com/watch?v=E33WuonJSpo)

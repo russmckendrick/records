@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### BADBADNOTGOOD - Speaking Gently (Official Stream)
-{{< youtube id="fafBo42s_Ss" title="BADBADNOTGOOD - Speaking Gently (Official Stream)" >}}<br>
+### BADBADNOTGOOD - 'IV' LP (Full Album Stream)
+{{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}<br>
 
 ### More Videos
 
-- [BADBADNOTGOOD - 'IV' LP (Full Album Stream)](https://www.youtube.com/watch?v=lstVQxf0p3Y)
+- [BADBADNOTGOOD - Speaking Gently (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
 - [BADBADNOTGOOD - Up (IV Bonus Track - Japan Edition)](https://www.youtube.com/watch?v=VwVX172N3OQ)
 - [BADBADNOTGOOD - Time Moves Slow feat. Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
 - [BADBADNOTGOOD - In Your Eyes (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)

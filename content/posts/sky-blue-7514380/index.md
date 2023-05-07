@@ -49,14 +49,14 @@ styles: []
 
 
 ## Videos
-### Devin Townsend Project - Rain City
-{{< youtube id="hGwKNj5jwfA" title="Devin Townsend Project - Rain City" >}}<br>
+### Devin Townsend - Sky Blue
+{{< youtube id="PRFHR19EW34" title="Devin Townsend - Sky Blue" >}}<br>
 
 ### More Videos
 
-- [Devin Townsend - Sky Blue](https://www.youtube.com/watch?v=PRFHR19EW34)
 - [DEVIN TOWNSEND PROJECT - Rejoice (Lyric Video)](https://www.youtube.com/watch?v=pCNx6vs7c2Y)
 - [Devin Townsend Project - A New Reign](https://www.youtube.com/watch?v=BEKd6fzmGE0)
+- [Devin Townsend Project - Rain City](https://www.youtube.com/watch?v=hGwKNj5jwfA)
 - [Silent Militia - The Devin Townsend Project](https://www.youtube.com/watch?v=zGCWq9sylao)
 - [Forever - The Devin Townsend Project](https://www.youtube.com/watch?v=xxzrGzdMPFg)
 - [Devin Townsend Project - Universal Flame](https://www.youtube.com/watch?v=xZ8Xt4CV2qQ)

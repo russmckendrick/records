@@ -29,13 +29,13 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 
 
 ## Videos
-### The Beta Band - The House Song
-{{< youtube id="PihMXJ2lKCs" title="The Beta Band - The House Song" >}}<br>
+### The Beta Band - Inner Meet Me
+{{< youtube id="eyRu0b7nnNc" title="The Beta Band - Inner Meet Me" >}}<br>
 
 ### More Videos
 
-- [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
 - [Beta Band-She's The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
+- [The Beta Band - The House Song](https://www.youtube.com/watch?v=PihMXJ2lKCs)
 - [The Beta Band - 07 Monolith](https://www.youtube.com/watch?v=xeUVbfPIPhU)
 
 

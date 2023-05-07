@@ -36,12 +36,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Dream Theater - Another Day [OFFICIAL VIDEO]
-{{< youtube id="LYtiDCXLAcQ" title="Dream Theater - Another Day [OFFICIAL VIDEO]" >}}<br>
+### Dream Theater - Pull Me Under [OFFICIAL VIDEO]
+{{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Dream Theater - Pull Me Under [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=mipc-JxrhRk)
+- [Dream Theater - Another Day [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=LYtiDCXLAcQ)
 
 
 ## Release Information

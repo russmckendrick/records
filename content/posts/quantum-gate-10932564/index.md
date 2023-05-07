@@ -37,15 +37,15 @@ styles: ["Ambient", "Berlin-School"]
 
 
 ## Videos
-### Tangerine Dream - It is Time to Leave When Everyone is Dancing (from Quantum Gate)
-{{< youtube id="xW7CRMXo7kA" title="Tangerine Dream - It is Time to Leave When Everyone is Dancing (from Quantum Gate)" >}}<br>
+### Tangerine Dream - Sensing Elements
+{{< youtube id="18-UfWJDQWI" title="Tangerine Dream - Sensing Elements" >}}<br>
 
 ### More Videos
 
-- [Tangerine Dream - Sensing Elements](https://www.youtube.com/watch?v=18-UfWJDQWI)
 - [Tangerine Dream Proton Bonfire 29.09.2017 Quantum Gate](https://www.youtube.com/watch?v=NuHrcu56_sY)
 - [Tangerine Dream - Quantum Gate (album quotes)](https://www.youtube.com/watch?v=MolQLkAb9Io)
 - [Tangerine Dream - Quantum Key](https://www.youtube.com/watch?v=L4zPGoE_guw)
+- [Tangerine Dream - It is Time to Leave When Everyone is Dancing (from Quantum Gate)](https://www.youtube.com/watch?v=xW7CRMXo7kA)
 
 
 ## Release Information

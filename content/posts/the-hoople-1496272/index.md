@@ -37,12 +37,11 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 
 
 ## Videos
-### Mott the Hoople - The Golden Age of Rock and Roll (alternate guitar solo)
-{{< youtube id="gK754ALb4eU" title="Mott the Hoople - The Golden Age of Rock and Roll (alternate guitar solo)" >}}<br>
+### Mott The Hoople The Golden Age of Rock 'n' Roll
+{{< youtube id="gyFidNXfkMw" title="Mott The Hoople The Golden Age of Rock 'n' Roll" >}}<br>
 
 ### More Videos
 
-- [Mott The Hoople The Golden Age of Rock 'n' Roll](https://www.youtube.com/watch?v=gyFidNXfkMw)
 - [Mott The Hoople - Crash Street Kidds(1974)](https://www.youtube.com/watch?v=x3SN_P3cvbQ)
 - [Mott The Hoople - Roll Away The Stone](https://www.youtube.com/watch?v=sH-5ifOYVXs)
 - [Marionette](https://www.youtube.com/watch?v=kZcEyAuoqfg)
@@ -50,6 +49,7 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 - [23   Mott The Hoople    Alice 1974 with lyrics](https://www.youtube.com/watch?v=N1_GZYTg2Cg)
 - [Alice](https://www.youtube.com/watch?v=Xg8nNytkPxI)
 - [25   Mott The Hoople    Born Late '58 1974 with lyrics](https://www.youtube.com/watch?v=niJAHJ69_Lc)
+- [Mott the Hoople - The Golden Age of Rock and Roll (alternate guitar solo)](https://www.youtube.com/watch?v=gK754ALb4eU)
 
 
 ## Release Information

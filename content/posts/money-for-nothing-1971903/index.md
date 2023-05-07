@@ -39,12 +39,12 @@ styles: ["Pop Rock", "AOR"]
 
 
 ## Videos
-### LP Dire Straits   Money For Nothing 1988   02   Down To The Waterline
-{{< youtube id="cOpT1zn-8dk" title="LP Dire Straits   Money For Nothing 1988   02   Down To The Waterline" >}}<br>
+### LP Dire Straits   Money For Nothing 1988   01   Sultans Of Swing
+{{< youtube id="5LFeiIK0DGo" title="LP Dire Straits   Money For Nothing 1988   01   Sultans Of Swing" >}}<br>
 
 ### More Videos
 
-- [LP Dire Straits   Money For Nothing 1988   01   Sultans Of Swing](https://www.youtube.com/watch?v=5LFeiIK0DGo)
+- [LP Dire Straits   Money For Nothing 1988   02   Down To The Waterline](https://www.youtube.com/watch?v=cOpT1zn-8dk)
 - [LP Dire Straits   Money For Nothing 1988   03   Portobello Belle](https://www.youtube.com/watch?v=aTPug7iJuuM)
 - [LP Dire Straits   Money For Nothing 1988   04   Twisting By The Pool](https://www.youtube.com/watch?v=-JjMeu-gEDk)
 - [LP Dire Straits   Money For Nothing 1988   05   Tunnel Of Love](https://www.youtube.com/watch?v=F_vKtUwkGGM)

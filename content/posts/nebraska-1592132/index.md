@@ -38,16 +38,16 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Highway Patrolman
-{{< youtube id="o7v1YwubWw8" title="Highway Patrolman" >}}<br>
+### Nebraska
+{{< youtube id="hCpL_ImsiDo" title="Nebraska" >}}<br>
 
 ### More Videos
 
-- [Nebraska](https://www.youtube.com/watch?v=hCpL_ImsiDo)
 - [Bruce Springsteen State Trooper](https://www.youtube.com/watch?v=nU5MyNuBdhg)
 - [Atlantic City](https://www.youtube.com/watch?v=_vy8edcyvHU)
 - [Mansion On the Hill](https://www.youtube.com/watch?v=fxsHA0M8gtM)
 - [Johnny 99](https://www.youtube.com/watch?v=OQUcqK1Op6Y)
+- [Highway Patrolman](https://www.youtube.com/watch?v=o7v1YwubWw8)
 - [Used Cars](https://www.youtube.com/watch?v=67dYxOXPtfQ)
 - [Open All Night](https://www.youtube.com/watch?v=TxuXBj3EjOs)
 - [My Father's House](https://www.youtube.com/watch?v=r0NKGaPSSBQ)

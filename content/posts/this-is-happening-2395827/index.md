@@ -37,12 +37,11 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 
 
 ## Videos
-### Somebody's Calling Me
-{{< youtube id="-jDlmw8V-zE" title="Somebody's Calling Me" >}}<br>
+### LCD Soundsystem - Drunk Girls
+{{< youtube id="1xT6cdfP_cM" title="LCD Soundsystem - Drunk Girls" >}}<br>
 
 ### More Videos
 
-- [LCD Soundsystem - Drunk Girls](https://www.youtube.com/watch?v=1xT6cdfP_cM)
 - [Dance Yrself Clean](https://www.youtube.com/watch?v=9ZNkPA_zUd4)
 - [Drunk Girls](https://www.youtube.com/watch?v=h0fw6WbzU7E)
 - [One Touch](https://www.youtube.com/watch?v=hPrEsCx3trQ)
@@ -50,6 +49,7 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 - [I Can Change](https://www.youtube.com/watch?v=V7QaGc2fmmE)
 - [You Wanted A Hit](https://www.youtube.com/watch?v=kyxNluCh3TQ)
 - [Pow Pow](https://www.youtube.com/watch?v=hzzQ7hXQ7qk)
+- [Somebody's Calling Me](https://www.youtube.com/watch?v=-jDlmw8V-zE)
 - [Home](https://www.youtube.com/watch?v=ETDCbQUYiAQ)
 
 

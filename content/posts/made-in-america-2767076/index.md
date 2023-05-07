@@ -38,12 +38,11 @@ styles: ["Blues Rock", "Rhythm & Blues"]
 
 
 ## Videos
-### From the Bottom
-{{< youtube id="SaV1pF10RyM" title="From the Bottom" >}}<br>
+### The Blues Brothers   Made In America Full Album
+{{< youtube id="JXIt_mj-IdE" title="The Blues Brothers   Made In America Full Album" >}}<br>
 
 ### More Videos
 
-- [The Blues Brothers   Made In America Full Album](https://www.youtube.com/watch?v=JXIt_mj-IdE)
 - [Going Back to Miami](https://www.youtube.com/watch?v=sQEiKsTDm6Q)
 - [Green Onions](https://www.youtube.com/watch?v=JfWfF57OYPE)
 - [Riot in Cell Block Number Nine](https://www.youtube.com/watch?v=pH4I-Q48MUw)
@@ -51,6 +50,7 @@ styles: ["Blues Rock", "Rhythm & Blues"]
 - [Soul Finger (Including Funky Broadway)](https://www.youtube.com/watch?v=kYGLYUCgPyw)
 - [Guilty](https://www.youtube.com/watch?v=y9-eSnhVEfs)
 - [I Ain't Got You](https://www.youtube.com/watch?v=WLo3rYgKmNo)
+- [From the Bottom](https://www.youtube.com/watch?v=SaV1pF10RyM)
 - [Do You Love Me: Mother Popcorn (You Got to Have a Mother for Me)](https://www.youtube.com/watch?v=0sjEj5wVW-0)
 - [Who's Making Love](https://www.youtube.com/watch?v=WZ7U8ahPerc)
 

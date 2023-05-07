@@ -49,12 +49,11 @@ styles: ["Punk", "New Wave"]
 
 
 ## Videos
-### Mannequin (2006 Remastered Version)
-{{< youtube id="I1ds5KfglWE" title="Mannequin (2006 Remastered Version)" >}}<br>
+### Reuters (2006 Remastered Version)
+{{< youtube id="JFm-U8WIrNg" title="Reuters (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
-- [Reuters (2006 Remastered Version)](https://www.youtube.com/watch?v=JFm-U8WIrNg)
 - [Field Day for the Sundays (2006 Remastered Version)](https://www.youtube.com/watch?v=bjGx8A3tXMw)
 - [Three Girl Rhumba (2006 Remastered Version)](https://www.youtube.com/watch?v=ctpzzTR15yo)
 - [Ex Lion Tamer (2006 Remastered Version)](https://www.youtube.com/watch?v=YOIBDZuetBY)
@@ -70,6 +69,7 @@ styles: ["Punk", "New Wave"]
 - [Mr Suit (2006 Remastered Version)](https://www.youtube.com/watch?v=LPU8tS1uHl0)
 - [Strange (2006 Remastered Version)](https://www.youtube.com/watch?v=Zv0fFtP6iIQ)
 - [Fragile (2006 Remastered Version)](https://www.youtube.com/watch?v=fJoLkMAzq10)
+- [Mannequin (2006 Remastered Version)](https://www.youtube.com/watch?v=I1ds5KfglWE)
 - [Different to Me (2006 Remastered Version)](https://www.youtube.com/watch?v=tPjoWN0SCb0)
 - [Champs (2006 Remastered Version)](https://www.youtube.com/watch?v=CtCRXhM7bwc)
 - [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)

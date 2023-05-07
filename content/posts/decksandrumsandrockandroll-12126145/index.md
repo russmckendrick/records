@@ -41,15 +41,15 @@ styles: ["Breakbeat", "Big Beat"]
 
 
 ## Videos
-### Propellerheads feat: Miss Shirley Bassey - History Repeating
-{{< youtube id="yzLT6_TQmq8" title="Propellerheads feat: Miss Shirley Bassey - History Repeating" >}}<br>
+### Propellerheads --- Take California
+{{< youtube id="Dd8WjeK8riE" title="Propellerheads --- Take California" >}}<br>
 
 ### More Videos
 
-- [Propellerheads --- Take California](https://www.youtube.com/watch?v=Dd8WjeK8riE)
 - [Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)](https://www.youtube.com/watch?v=smXziOEWO7Q)
 - [Spybreak! (Short One)](https://www.youtube.com/watch?v=Agbn4NzOj04)
 - [David Arnold and Propellerheads - On Her Majesty's Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
+- [Propellerheads feat: Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
 
 
 ## Release Information

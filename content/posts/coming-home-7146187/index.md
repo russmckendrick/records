@@ -38,12 +38,12 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 
 
 ## Videos
-### Better Man
-{{< youtube id="E6TCadcFPNE" title="Better Man" >}}<br>
+### Leon Bridges - Coming Home (Official Music Video)
+{{< youtube id="MTrKkqE9p1o" title="Leon Bridges - Coming Home (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Leon Bridges - Coming Home (Official Music Video)](https://www.youtube.com/watch?v=MTrKkqE9p1o)
+- [Better Man](https://www.youtube.com/watch?v=E6TCadcFPNE)
 - [Brown Skin Girl](https://www.youtube.com/watch?v=wk2duLxAmFE)
 - [Smooth Sailin'](https://www.youtube.com/watch?v=jhiK0uXA-QE)
 - [Shine](https://www.youtube.com/watch?v=L1rJNNivdlI)

@@ -37,13 +37,13 @@ styles: ["Alternative Rock", "Synth-pop"]
 
 
 ## Videos
-### The Strokes - Brooklyn Bridge To Chorus (Audio)
-{{< youtube id="2jna3dWEnzo" title="The Strokes - Brooklyn Bridge To Chorus (Audio)" >}}<br>
+### The Strokes - The Adults Are Talking (Official Video)
+{{< youtube id="ewOPQZZn4SY" title="The Strokes - The Adults Are Talking (Official Video)" >}}<br>
 
 ### More Videos
 
-- [The Strokes - The Adults Are Talking (Official Video)](https://www.youtube.com/watch?v=ewOPQZZn4SY)
 - [The Strokes - Selfless (Audio)](https://www.youtube.com/watch?v=1-W6whvn8Bs)
+- [The Strokes - Brooklyn Bridge To Chorus (Audio)](https://www.youtube.com/watch?v=2jna3dWEnzo)
 - [The Strokes - Bad Decisions (Official Video)](https://www.youtube.com/watch?v=5fbZTnZDvPA)
 - [The Strokes - Eternal Summer (Audio)](https://www.youtube.com/watch?v=5c3EjeP2x-Q)
 - [The Strokes - At The Door (Official Video)](https://www.youtube.com/watch?v=9CAz_vvsK9M)

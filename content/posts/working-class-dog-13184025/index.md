@@ -38,12 +38,12 @@ styles: []
 
 
 ## Videos
-### Rick Springfield - Jessie's Girl
-{{< youtube id="qYkbTyHXwbs" title="Rick Springfield - Jessie's Girl" >}}<br>
+### Rick Springfield - Love Is Alright Tonite
+{{< youtube id="yWEzf-mska4" title="Rick Springfield - Love Is Alright Tonite" >}}<br>
 
 ### More Videos
 
-- [Rick Springfield - Love Is Alright Tonite](https://www.youtube.com/watch?v=yWEzf-mska4)
+- [Rick Springfield - Jessie's Girl](https://www.youtube.com/watch?v=qYkbTyHXwbs)
 - [Rick Springfield - Hole In My Heart](https://www.youtube.com/watch?v=L91VibZWTlM)
 - [Rick Springfield - Carry Me Away](https://www.youtube.com/watch?v=l_zTiqAFRl0)
 - [Rick Springfield - I've Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)

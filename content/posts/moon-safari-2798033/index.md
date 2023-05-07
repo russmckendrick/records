@@ -38,16 +38,16 @@ styles: ["Future Jazz", "Downtempo"]
 
 
 ## Videos
-### La femme d'argent
-{{< youtube id="BswuwCn1hBo" title="La femme d'argent" >}}<br>
+### Air - Sexy Boy  (full length)
+{{< youtube id="A_ulZiob5I0" title="Air - Sexy Boy  (full length)" >}}<br>
 
 ### More Videos
 
-- [Air - Sexy Boy  (full length)](https://www.youtube.com/watch?v=A_ulZiob5I0)
 - [AIR - Sexy Boy (Official Video)](https://www.youtube.com/watch?v=wouKI_myXxk)
 - [Air - La Femme d'Argent](https://www.youtube.com/watch?v=U4U19zwFENs)
 - [AIR - All I Need (Official Video)](https://www.youtube.com/watch?v=kxWFyvTg6mc)
 - [Air - All I Need](https://www.youtube.com/watch?v=mTHjFeXmnHs)
+- [La femme d'argent](https://www.youtube.com/watch?v=BswuwCn1hBo)
 - [Air - Kelly Watch The Stars](https://www.youtube.com/watch?v=Rui0hzN-EFE)
 - [All I Need (feat. Beth Hirsch)](https://www.youtube.com/watch?v=Mx1NwIaQbbE)
 - [Air - Talisman](https://www.youtube.com/watch?v=Y_wk7PNx_Hk)

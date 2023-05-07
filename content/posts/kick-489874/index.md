@@ -40,12 +40,11 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Inxs - Need you tonight
-{{< youtube id="Swdbv5I6qzc" title="Inxs - Need you tonight" >}}<br>
+### INXS - Need You Tonight (Official Music Video)
+{{< youtube id="F93ywiGMDnQ" title="INXS - Need You Tonight (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [INXS - Need You Tonight (Official Music Video)](https://www.youtube.com/watch?v=F93ywiGMDnQ)
 - [INXS - Mediate](https://www.youtube.com/watch?v=Pr-Vfnd7Yno)
 - [I̲N̲XS - Ki̲ck (Full Album) 1987](https://www.youtube.com/watch?v=Kout30BRs8E)
 - [Kick](https://www.youtube.com/watch?v=yqthQ3hYKdY)
@@ -58,6 +57,7 @@ styles: ["Pop Rock", "Indie Rock"]
 - [INXS - Devil Inside (Official Music Video)](https://www.youtube.com/watch?v=hv_zJrO_ptk)
 - [INXS - Guns In The Sky (Official Music Video)](https://www.youtube.com/watch?v=FBje_3aRdgg)
 - [INXS ‎– Need You Tonight](https://www.youtube.com/watch?v=_8W9E5E8cYA)
+- [Inxs - Need you tonight](https://www.youtube.com/watch?v=Swdbv5I6qzc)
 - [INXS ‎– Guns In The Sky](https://www.youtube.com/watch?v=V5drADVRwyU)
 - [Inxs - Wild life](https://www.youtube.com/watch?v=fgJ9qLXHbbk)
 - [INXS – New Sensation](https://www.youtube.com/watch?v=IqWUU7qmVd8)

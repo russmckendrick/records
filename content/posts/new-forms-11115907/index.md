@@ -39,12 +39,11 @@ styles: ["Drum n Bass"]
 
 
 ## Videos
-### Roni Size Reprazent -  Change My Life
-{{< youtube id="DVXhlpxutII" title="Roni Size Reprazent -  Change My Life" >}}<br>
+### Intro
+{{< youtube id="zQeWeU8lfvs" title="Intro" >}}<br>
 
 ### More Videos
 
-- [Intro](https://www.youtube.com/watch?v=zQeWeU8lfvs)
 - [Roni Size Reprazent - Heroes](https://www.youtube.com/watch?v=Xb7fQhz21OU)
 - [Mad Cat](https://www.youtube.com/watch?v=sU5PQKFdCA4)
 - [RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )](https://www.youtube.com/watch?v=ivbFTbGQwzY)
@@ -64,6 +63,7 @@ styles: ["Drum n Bass"]
 - [New Forms](https://www.youtube.com/watch?v=SZ-H2fAwL-s)
 - [Roni Size / Reprazent - Morse Code](https://www.youtube.com/watch?v=Ii1Y98ziXYA)
 - [Roni Size Reprazent - Destination](https://www.youtube.com/watch?v=jthxuoPLt3E)
+- [Roni Size Reprazent -  Change My Life](https://www.youtube.com/watch?v=DVXhlpxutII)
 
 
 ## Release Information

@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 
 
 ## Videos
-### Wanderlust
-{{< youtube id="12iKTYOe6hA" title="Wanderlust" >}}<br>
+### Delays - On
+{{< youtube id="7mDZPbOmnTc" title="Delays - On" >}}<br>
 
 ### More Videos
 
-- [Delays - On](https://www.youtube.com/watch?v=7mDZPbOmnTc)
+- [Wanderlust](https://www.youtube.com/watch?v=12iKTYOe6hA)
 - [Delays - Hey Girl](https://www.youtube.com/watch?v=E8wgJftpGDA)
 - [Delays - Nearer Than Heaven](https://www.youtube.com/watch?v=JbIddy1G_OY)
 - [DELAYS - LONG TIME COMING](https://www.youtube.com/watch?v=tqRnGdD_WV4)

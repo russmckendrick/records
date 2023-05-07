@@ -37,13 +37,13 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### OZZY OSBOURNE - Crazy Train (Official Video)
-{{< youtube id="FVovq9TGBw0" title="OZZY OSBOURNE - Crazy Train (Official Video)" >}}<br>
+### Mr. Crowley
+{{< youtube id="o0RE230PlX4" title="Mr. Crowley" >}}<br>
 
 ### More Videos
 
-- [Mr. Crowley](https://www.youtube.com/watch?v=o0RE230PlX4)
 - [I Don't Know](https://www.youtube.com/watch?v=JNm6bucMPmY)
+- [OZZY OSBOURNE - Crazy Train (Official Video)](https://www.youtube.com/watch?v=FVovq9TGBw0)
 - [Goodbye to Romance](https://www.youtube.com/watch?v=pnhTPeKijdQ)
 - [Dee](https://www.youtube.com/watch?v=J9BQRMBjUOY)
 - [Suicide Solution](https://www.youtube.com/watch?v=yVSmiDJB-PI)

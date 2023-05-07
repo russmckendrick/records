@@ -31,13 +31,13 @@ styles: ["Rock & Roll"]
 
 
 ## Videos
-### Jive Bunny And The MasterMixers - Swing The Mood (12 Version)
-{{< youtube id="ygIcyOSITgo" title="Jive Bunny And The MasterMixers - Swing The Mood (12 Version)" >}}<br>
+### Jive Bunny and the Mastermixers - SWING THE MOOD
+{{< youtube id="d7zF10x8NWw" title="Jive Bunny and the Mastermixers - SWING THE MOOD" >}}<br>
 
 ### More Videos
 
-- [Jive Bunny and the Mastermixers - SWING THE MOOD](https://www.youtube.com/watch?v=d7zF10x8NWw)
 - [Jive bunny - The Album - 01 - Swing the Mood](https://www.youtube.com/watch?v=aoi5sVsJqCY)
+- [Jive Bunny And The MasterMixers - Swing The Mood (12 Version)](https://www.youtube.com/watch?v=ygIcyOSITgo)
 - [Jive Bunny & The Mastermixers - Swing The Mood [Radio Mix]](https://www.youtube.com/watch?v=OiAite3KcGw)
 - [Jive Bunny And The Mastermixers ( Album )](https://www.youtube.com/watch?v=EmwhJS2i7uk)
 - [- JiveBunny - C-c-c-come on everybody.flv](https://www.youtube.com/watch?v=7BI2qSpJipM)

@@ -34,17 +34,17 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 ## Videos
-### Split Enz - Spellbound
-{{< youtube id="m4E-jGjPgAM" title="Split Enz - Spellbound" >}}<br>
+### Split Enz - Stranger Than Fiction
+{{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}<br>
 
 ### More Videos
 
-- [Split Enz - Stranger Than Fiction](https://www.youtube.com/watch?v=7T4bHxbR0vk)
 - [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
 - [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
 - [Split Enz Amy [Darling]](https://www.youtube.com/watch?v=2CWQ6EDZGYc)
 - [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
 - [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
+- [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
 

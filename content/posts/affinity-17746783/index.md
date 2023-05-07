@@ -43,14 +43,14 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Haken - Lapse
-{{< youtube id="EdabtT7mUGI" title="Haken - Lapse" >}}<br>
+### affinity.exe
+{{< youtube id="AvhjDInyGYQ" title="affinity.exe" >}}<br>
 
 ### More Videos
 
-- [affinity.exe](https://www.youtube.com/watch?v=AvhjDInyGYQ)
 - [HAKEN - Initiate (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-7pEXGCtnnk)
 - [HAKEN - 1985 (Album Track)](https://www.youtube.com/watch?v=yW8nBlZZvxM)
+- [Haken - Lapse](https://www.youtube.com/watch?v=EdabtT7mUGI)
 - [The Architect](https://www.youtube.com/watch?v=hiPNVVOTpe8)
 - [HAKEN - Earthrise (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=hQ8KqJJJJhk)
 - [Red Giant](https://www.youtube.com/watch?v=9kXE4HroksQ)

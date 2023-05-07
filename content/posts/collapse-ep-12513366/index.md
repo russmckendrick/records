@@ -32,12 +32,12 @@ styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 
 
 ## Videos
-### 1st 44 - Aphex Twin
-{{< youtube id="dedIrECaUAc" title="1st 44 - Aphex Twin" >}}<br>
+### Aphex Twin - T69 Collapse
+{{< youtube id="SqayDnQ2wmw" title="Aphex Twin - T69 Collapse" >}}<br>
 
 ### More Videos
 
-- [Aphex Twin - T69 Collapse](https://www.youtube.com/watch?v=SqayDnQ2wmw)
+- [1st 44 - Aphex Twin](https://www.youtube.com/watch?v=dedIrECaUAc)
 - [Aphex Twin- MT1 t29r2 (Collapse EP)](https://www.youtube.com/watch?v=0MtrLA_jmow)
 - [Aphex twin - abundance10edit (2 R8's, FZ20m & A 909)](https://www.youtube.com/watch?v=6NRhSQiP1X8)
 

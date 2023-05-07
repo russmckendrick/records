@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Steven Wilson - Hey Sleeper - The Future Bites
-{{< youtube id="QxHXQfV7Mt4" title="Steven Wilson - Hey Sleeper - The Future Bites" >}}<br>
+### Steven Wilson - SELF (Official Video)
+{{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Steven Wilson - SELF (Official Video)](https://www.youtube.com/watch?v=UroVey4fJ_g)
 - [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
+- [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
 - [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
 - [Steven Wilson - KING GHOST (Official Video)](https://www.youtube.com/watch?v=zSvdLcS62ZM)
 - [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)

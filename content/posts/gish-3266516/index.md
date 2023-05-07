@@ -39,12 +39,12 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 
 
 ## Videos
-### The Smashing Pumpkins - I Am One (Official Music Video)
-{{< youtube id="Pi6RJmUNBbw" title="The Smashing Pumpkins - I Am One (Official Music Video)" >}}<br>
+### Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}
+{{< youtube id="E2RDyA8id0A" title="Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}" >}}<br>
 
 ### More Videos
 
-- [Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}](https://www.youtube.com/watch?v=E2RDyA8id0A)
+- [The Smashing Pumpkins - I Am One (Official Music Video)](https://www.youtube.com/watch?v=Pi6RJmUNBbw)
 - [The Smashing Pumpkins - Siva (Official Music Video)](https://www.youtube.com/watch?v=F3wAtWywrP4)
 - [The Smashing Pumpkins - Rhinoceros (Official Music Video)](https://www.youtube.com/watch?v=aVfWx9282y0)
 - [Bury Me (Remastered 2011)](https://www.youtube.com/watch?v=B15BrotSE68)

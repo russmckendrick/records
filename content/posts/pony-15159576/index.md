@@ -40,12 +40,12 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 
 
 ## Videos
-### Orville Peck - Hope To Die [OFFICIAL VIDEO]
-{{< youtube id="60MHmrtEuRY" title="Orville Peck - Hope To Die [OFFICIAL VIDEO]" >}}<br>
+### Orville Peck - Dead of Night [OFFICIAL VIDEO]
+{{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Orville Peck - Dead of Night [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=q3esGD6lcMM)
+- [Orville Peck - Hope To Die [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=60MHmrtEuRY)
 - [Orville Peck - Big Sky [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=wd_uz5rVO2I)
 - [Orville Peck - Turn To Hate [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=vR-4l5M_MQ8)
 - [Take You Back (The Iron Hoof Cattle Call)](https://www.youtube.com/watch?v=ofJiqL3NT64)

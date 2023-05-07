@@ -39,17 +39,17 @@ styles: ["Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### Camera Obscura - Careless Love
-{{< youtube id="pWXc3NERmhI" title="Camera Obscura - Careless Love" >}}<br>
+### Camera Obscura - French Navy official video
+{{< youtube id="O3CkfvYMCWM" title="Camera Obscura - French Navy official video" >}}<br>
 
 ### More Videos
 
-- [Camera Obscura - French Navy official video](https://www.youtube.com/watch?v=O3CkfvYMCWM)
 - [Camera Obscura - James](https://www.youtube.com/watch?v=Ku2epT_e-F0)
 - [Camera Obscura - Honey In The Sun (Official Video)](https://www.youtube.com/watch?v=ZfDg7Vz8Ow4)
 - [Camera Obscura - The Sweetest Thing](https://www.youtube.com/watch?v=nhSanTYPm2g)
 - [Camera Obscura - My Maudlin Career](https://www.youtube.com/watch?v=bCIXI9ubfFs)
 - [Camera Obscura - The Sweetest Thing](https://www.youtube.com/watch?v=tzWlg3JFFTU)
+- [Camera Obscura - Careless Love](https://www.youtube.com/watch?v=pWXc3NERmhI)
 - [Camera Obscura - Away With Murder](https://www.youtube.com/watch?v=F3Og6oi3e6Y)
 - [Camera Obscura - Forests & Sands](https://www.youtube.com/watch?v=1qqpWhRV7oM)
 

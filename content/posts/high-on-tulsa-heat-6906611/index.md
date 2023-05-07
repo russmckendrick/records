@@ -38,13 +38,13 @@ styles: []
 
 
 ## Videos
-### John Moreland from High On Tulsa Heat at The Kessler
-{{< youtube id="ZuBGQ9ADoFE" title="John Moreland from High On Tulsa Heat at The Kessler" >}}<br>
+### John Moreland - High On Tulsa Heat (Full Album 2015)
+{{< youtube id="9fKhz3bWMrA" title="John Moreland - High On Tulsa Heat (Full Album 2015)" >}}<br>
 
 ### More Videos
 
-- [John Moreland - High On Tulsa Heat (Full Album 2015)](https://www.youtube.com/watch?v=9fKhz3bWMrA)
 - [High on Tulsa Heat](https://www.youtube.com/watch?v=c40ou27eoFs)
+- [John Moreland from High On Tulsa Heat at The Kessler](https://www.youtube.com/watch?v=ZuBGQ9ADoFE)
 - [Hang Me in the Tulsa County Stars](https://www.youtube.com/watch?v=dVBVSysjTiI)
 - [Cleveland County Blues](https://www.youtube.com/watch?v=8FDHleNGyAo)
 - [John Moreland Hang Me in the Tulsa County Stars Live at SXSW 2015 FULL VERSION](https://www.youtube.com/watch?v=7s-oZALFMZ8)

@@ -39,12 +39,11 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 
 
 ## Videos
-### The Black Crowes – High Head Blues
-{{< youtube id="q-Mzy-RFGro" title="The Black Crowes – High Head Blues" >}}<br>
+### The Black Crowes - A Conspiracy
+{{< youtube id="zvGXRCQSd44" title="The Black Crowes - A Conspiracy" >}}<br>
 
 ### More Videos
 
-- [The Black Crowes - A Conspiracy](https://www.youtube.com/watch?v=zvGXRCQSd44)
 - [The Black Crowes – Nonfiction](https://www.youtube.com/watch?v=NWrWA7Vnmy4)
 - [The Black Crowes – Cursed Diamond](https://www.youtube.com/watch?v=7OeNv8IwK9s)
 - [The Black Crowes – Gone](https://www.youtube.com/watch?v=fk67JUBuhRw)
@@ -52,6 +51,7 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 - [The Black Crowes – She Gave Good Sunflower](https://www.youtube.com/watch?v=iKqRWpsZOqs)
 - [The Black Crowes – Wiser Time](https://www.youtube.com/watch?v=WlXgU2Gcxnc)
 - [The Black Crowes – P. 25 London](https://www.youtube.com/watch?v=XoaWRbiKSXg)
+- [The Black Crowes – High Head Blues](https://www.youtube.com/watch?v=q-Mzy-RFGro)
 - [The Black Crowes – A Conspiracy](https://www.youtube.com/watch?v=2DtUK0sqw80)
 - [The Black Crowes – Downtown Money Waster](https://www.youtube.com/watch?v=R2pO0AUy82U)
 - [The Black Crowes – Ballad In Urgency](https://www.youtube.com/watch?v=kiI-30MkIZg)

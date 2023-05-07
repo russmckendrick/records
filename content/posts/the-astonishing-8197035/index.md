@@ -64,12 +64,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### Dream Theater - Astonishing (Audio)
-{{< youtube id="Mt618RnQ3RA" title="Dream Theater - Astonishing (Audio)" >}}<br>
+### Dream Theater - The Gift Of Music [OFFICIAL VIDEO]
+{{< youtube id="fae4FQ4McSY" title="Dream Theater - The Gift Of Music [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
-- [Dream Theater - The Gift Of Music [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=fae4FQ4McSY)
+- [Dream Theater - Astonishing (Audio)](https://www.youtube.com/watch?v=Mt618RnQ3RA)
 
 
 ## Release Information

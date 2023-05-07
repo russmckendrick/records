@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### Richard Hawley - Alone (Official Video)
-{{< youtube id="Lwj6SjKBweU" title="Richard Hawley - Alone (Official Video)" >}}<br>
+### Richard Hawley – Off My Mind (Official Video)
+{{< youtube id="t9UuZlB8DTA" title="Richard Hawley – Off My Mind (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Richard Hawley – Off My Mind (Official Video)](https://www.youtube.com/watch?v=t9UuZlB8DTA)
+- [Richard Hawley - Alone (Official Video)](https://www.youtube.com/watch?v=Lwj6SjKBweU)
 - [Richard Hawley - My Little Treasures (Official Video)](https://www.youtube.com/watch?v=BhLAO-x5lOw)
 - [Richard Hawley - Further (Official Audio)](https://www.youtube.com/watch?v=HL52vxONCcM)
 - [Richard Hawley - Emilina Says (Official Audio)](https://www.youtube.com/watch?v=T36rAgvpCeY)

@@ -57,17 +57,17 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 
 
 ## Videos
-### Ping Pong- Demo
-{{< youtube id="YeCD8Gs8LA0" title="Ping Pong- Demo" >}}<br>
+### Des Etoiles Electroniques
+{{< youtube id="ZikC5SMHkPQ" title="Des Etoiles Electroniques" >}}<br>
 
 ### More Videos
 
-- [Des Etoiles Electroniques](https://www.youtube.com/watch?v=ZikC5SMHkPQ)
 - [Three-Dee Melodie](https://www.youtube.com/watch?v=Hm1wLkRJ30U)
 - [Wow and Flutter](https://www.youtube.com/watch?v=vyxr9D-r3-o)
 - [Transona Five](https://www.youtube.com/watch?v=Dlx3eGq3u_E)
 - [Stereolab - L'Enfer Des Formes](https://www.youtube.com/watch?v=Blsw1powe6M)
 - [L'Enfer Des Formes](https://www.youtube.com/watch?v=A7UD_Fk-VvY)
+- [Ping Pong- Demo](https://www.youtube.com/watch?v=YeCD8Gs8LA0)
 - [Outer Accelerator - (Original Mix)](https://www.youtube.com/watch?v=MKz7tZDfb4I)
 - [Stereolab - Anamorphose](https://www.youtube.com/watch?v=ksR2AnpgPo0)
 

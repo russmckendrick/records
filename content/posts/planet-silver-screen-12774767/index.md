@@ -37,13 +37,13 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 
 
 ## Videos
-### Planet Silver Screen
-{{< youtube id="cvGShUhUvZw" title="Planet Silver Screen" >}}<br>
+### FOUR STROKE BARON - PLANET SILVER SCREEN (OFFICIAL VIDEO)
+{{< youtube id="nfONQAflRBw" title="FOUR STROKE BARON - PLANET SILVER SCREEN (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [FOUR STROKE BARON - PLANET SILVER SCREEN (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=nfONQAflRBw)
 - [FOUR STROKE BARON - PLANET SILVER SCREEN (DRUM PLAYTHROUGH)](https://www.youtube.com/watch?v=PUdwFiEdJXg)
+- [Planet Silver Screen](https://www.youtube.com/watch?v=cvGShUhUvZw)
 
 
 ## Release Information

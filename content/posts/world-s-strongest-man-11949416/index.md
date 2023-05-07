@@ -39,13 +39,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Gaz Coombes - Wounded Egos (Official Video)
-{{< youtube id="kn_qMEo8RD0" title="Gaz Coombes - Wounded Egos (Official Video)" >}}<br>
+### Gaz Coombes - Deep Pockets (Audio)
+{{< youtube id="Ui5nb0wLY74" title="Gaz Coombes - Deep Pockets (Audio)" >}}<br>
 
 ### More Videos
 
-- [Gaz Coombes - Deep Pockets (Audio)](https://www.youtube.com/watch?v=Ui5nb0wLY74)
 - [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
+- [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
 
 
 ## Release Information

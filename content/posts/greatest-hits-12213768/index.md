@@ -46,13 +46,13 @@ styles: []
 
 
 ## Videos
-### Badlands
-{{< youtube id="SDlSCeQXbPo" title="Badlands" >}}<br>
+### Bruce Springsteen - Born to Run (Official Video)
+{{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Bruce Springsteen - Born to Run (Official Video)](https://www.youtube.com/watch?v=IxuThNgl3YA)
 - [Thunder Road](https://www.youtube.com/watch?v=-xSOWnfNMs0)
+- [Badlands](https://www.youtube.com/watch?v=SDlSCeQXbPo)
 - [The River](https://www.youtube.com/watch?v=y7BUXRsTbvI)
 - [Bruce Springsteen - Hungry Heart (Berlin '95 Version)](https://www.youtube.com/watch?v=0My2AqPFpFg)
 - [Bruce Springsteen - Atlantic City](https://www.youtube.com/watch?v=M3eu1gW-bQ8)

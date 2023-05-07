@@ -40,13 +40,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Teenage Fanclub - In Our Dreams
-{{< youtube id="DRh4Gm2clwk" title="Teenage Fanclub - In Our Dreams" >}}<br>
+### Teenage Fanclub - Home (single edit)
+{{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home (single edit)" >}}<br>
 
 ### More Videos
 
-- [Teenage Fanclub - Home (single edit)](https://www.youtube.com/watch?v=rKaoUahiY1k)
 - [Teenage Fanclub - Everything Is Falling Apart (Official Video)](https://www.youtube.com/watch?v=AffiHHlAbWQ)
+- [Teenage Fanclub - In Our Dreams](https://www.youtube.com/watch?v=DRh4Gm2clwk)
 
 
 ## Release Information

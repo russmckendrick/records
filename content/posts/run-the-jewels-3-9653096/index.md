@@ -43,12 +43,11 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 
 
 ## Videos
-### Run The Jewels - Panther Like A Panther (Miracle Mix edit) (feat. Trina) | From The RTJ3 Album
-{{< youtube id="zgOABuZoe0c" title="Run The Jewels - Panther Like A Panther (Miracle Mix edit) (feat. Trina) | From The RTJ3 Album" >}}<br>
+### Run The Jewels - Legend Has It | From The RTJ3 Album
+{{< youtube id="QaPrQa3oMy0" title="Run The Jewels - Legend Has It | From The RTJ3 Album" >}}<br>
 
 ### More Videos
 
-- [Run The Jewels - Legend Has It | From The RTJ3 Album](https://www.youtube.com/watch?v=QaPrQa3oMy0)
 - [Run The Jewels - 2100 feat. BOOTS | From The RTJ3 Album](https://www.youtube.com/watch?v=J-FPb-Mcpjw)
 - [Run The Jewels - Legend Has It (Official Music Video From RTJ3 & Black Panther)](https://www.youtube.com/watch?v=vWaljXUiCaE)
 - [Run The Jewels - Down (feat. Joi) | From The RTJ3 Album](https://www.youtube.com/watch?v=saR7SYa6nAs)
@@ -58,6 +57,7 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 - [Run The Jewels - Stay Gold | From The RTJ3 Album](https://www.youtube.com/watch?v=mNQD6oj8nBo)
 - [Run The Jewels - Don't Get Captured | From The RTJ3 Album](https://www.youtube.com/watch?v=agRfunNZIcY)
 - [Run The Jewels - Thieves! (Screamed The Ghost) (feat. Tunde Adebimpe) | From The RTJ3 Album](https://www.youtube.com/watch?v=KFKmG7A-pzA)
+- [Run The Jewels - Panther Like A Panther (Miracle Mix edit) (feat. Trina) | From The RTJ3 Album](https://www.youtube.com/watch?v=zgOABuZoe0c)
 - [Run The Jewels - Everybody Stay Calm | From The RTJ3 Album](https://www.youtube.com/watch?v=ZcnWxb_hKaE)
 - [Run The Jewels - Oh Mama | From The RTJ3 Album](https://www.youtube.com/watch?v=30aGtXWo0SU)
 - [Run The Jewels - Thursday In The Danger Room (feat. Kamasi Washington) | From The RTJ3 Album](https://www.youtube.com/watch?v=YxaNYGeaOjc)

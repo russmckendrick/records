@@ -43,12 +43,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Super Furry Animals - Northern Lites (Official HD Video)
-{{< youtube id="BXJoGAe0R3w" title="Super Furry Animals - Northern Lites (Official HD Video)" >}}<br>
+### Super Furry Animals - Do or Die (HD Official Video)
+{{< youtube id="YYzB2c3C5LM" title="Super Furry Animals - Do or Die (HD Official Video)" >}}<br>
 
 ### More Videos
 
-- [Super Furry Animals - Do or Die (HD Official Video)](https://www.youtube.com/watch?v=YYzB2c3C5LM)
+- [Super Furry Animals - Northern Lites (Official HD Video)](https://www.youtube.com/watch?v=BXJoGAe0R3w)
 - [Super Furry Animals - Fire in My Heart (Official HD Video)](https://www.youtube.com/watch?v=odHFwbQthN0)
 
 

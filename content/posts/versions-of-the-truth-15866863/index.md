@@ -38,12 +38,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Pineapple Thief - Versions of the Truth (2020) Full Album
-{{< youtube id="UdNFADpNLXU" title="The Pineapple Thief - Versions of the Truth (2020) Full Album" >}}<br>
+### The Pineapple Thief - Demons
+{{< youtube id="fVNjhKLF1Pg" title="The Pineapple Thief - Demons" >}}<br>
 
 ### More Videos
 
-- [The Pineapple Thief - Demons](https://www.youtube.com/watch?v=fVNjhKLF1Pg)
+- [The Pineapple Thief - Versions of the Truth (2020) Full Album](https://www.youtube.com/watch?v=UdNFADpNLXU)
 - [The Pineapple Thief - Break it All](https://www.youtube.com/watch?v=7nooe94rQ2Q)
 - [The Pineapple Thief - Versions of the Truth](https://www.youtube.com/watch?v=O32DMyXN-mI)
 - [The Pineapple Thief - Driving Like Maniacs](https://www.youtube.com/watch?v=eV_i6Y_6KVY)

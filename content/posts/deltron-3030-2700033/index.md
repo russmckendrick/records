@@ -49,13 +49,13 @@ styles: ["Leftfield", "Experimental", "Conscious"]
 
 
 ## Videos
-### Deltron 3030- 3030 Instrumental
-{{< youtube id="1d7BKvBChlM" title="Deltron 3030- 3030 Instrumental" >}}<br>
+### Deltron 3030 - Memory Loss
+{{< youtube id="4k18VIqM764" title="Deltron 3030 - Memory Loss" >}}<br>
 
 ### More Videos
 
-- [Deltron 3030 - Memory Loss](https://www.youtube.com/watch?v=4k18VIqM764)
 - [Deltron 3030 - Positive Contact](https://www.youtube.com/watch?v=-oCXwl7XBiQ)
+- [Deltron 3030- 3030 Instrumental](https://www.youtube.com/watch?v=1d7BKvBChlM)
 - [deltron 3030 - time keeps on slipping](https://www.youtube.com/watch?v=xdur7odHUfE)
 - [Deltron 3030 - Deltron 3030 (FULL ALBUM)](https://www.youtube.com/watch?v=v6YJjkO7F5A)
 - [Turbulence (Mark Bell Remix)](https://www.youtube.com/watch?v=XVCTatXqrts)

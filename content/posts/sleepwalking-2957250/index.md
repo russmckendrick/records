@@ -40,17 +40,17 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Your Place
-{{< youtube id="PX0AIQWfxgw" title="Your Place" >}}<br>
+### Playground Brutality Kingmaker
+{{< youtube id="8TT8tNF67v8" title="Playground Brutality Kingmaker" >}}<br>
 
 ### More Videos
 
-- [Playground Brutality Kingmaker](https://www.youtube.com/watch?v=8TT8tNF67v8)
 - [Kingmaker - Queen Jane](https://www.youtube.com/watch?v=oyTtxrFYsmU)
 - [Shiver](https://www.youtube.com/watch?v=3LiTYNB6tMc)
 - [I'm in Love](https://www.youtube.com/watch?v=jooIpqCnBJA)
 - [Tomorrow's World](https://www.youtube.com/watch?v=kmffdCUjWEs)
 - [Help Yourself](https://www.youtube.com/watch?v=IWQ2TG2Bv3s)
+- [Your Place](https://www.youtube.com/watch?v=PX0AIQWfxgw)
 
 
 ## Release Information

@@ -40,17 +40,17 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 
 
 ## Videos
-### Bon Jovi – Living In Sin
-{{< youtube id="ZMTmro7YxNE" title="Bon Jovi – Living In Sin" >}}<br>
+### Bon Jovi - Bad Medicine
+{{< youtube id="eOUtsybozjg" title="Bon Jovi - Bad Medicine" >}}<br>
 
 ### More Videos
 
-- [Bon Jovi - Bad Medicine](https://www.youtube.com/watch?v=eOUtsybozjg)
 - [Bon Jovi - Lay Your Hands On Me](https://www.youtube.com/watch?v=EhjSzibOIH4)
 - [LP / Bon Jovi – New Jersey / 1988](https://www.youtube.com/watch?v=tLrodL0dezQ)
 - [Bon Jovi - Living In Sin](https://www.youtube.com/watch?v=VI2-ASiNCac)
 - [Bon Jovi - I'll Be There For You (Official Music Video)](https://www.youtube.com/watch?v=mh8MIp2FOhc)
 - [Bon Jovi - Wild Is The Wind](https://www.youtube.com/watch?v=VWR0RvDYDaM)
+- [Bon Jovi – Living In Sin](https://www.youtube.com/watch?v=ZMTmro7YxNE)
 - [Bon Jovi – Love For Sale](https://www.youtube.com/watch?v=CrkhIm2_IrM)
 - [Bon Jovi – Stick To Your Guns](https://www.youtube.com/watch?v=nUhFrxIdjN0)
 - [Bon Jovi – Born To Be My Baby](https://www.youtube.com/watch?v=_ifA5ClURvI)

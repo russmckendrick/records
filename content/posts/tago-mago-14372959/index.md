@@ -35,13 +35,13 @@ styles: ["Krautrock", "Experimental", "Avantgarde"]
 
 
 ## Videos
-### Mushroom - Can (1971)
-{{< youtube id="T_9LJCKOvQE" title="Mushroom - Can (1971)" >}}<br>
+### CAN - Bring Me Coffee Or Tea
+{{< youtube id="u0z76B3A_xM" title="CAN - Bring Me Coffee Or Tea" >}}<br>
 
 ### More Videos
 
-- [CAN - Bring Me Coffee Or Tea](https://www.youtube.com/watch?v=u0z76B3A_xM)
 - [Paperhouse - Can (1971)](https://www.youtube.com/watch?v=m5SyBIoMwsM)
+- [Mushroom - Can (1971)](https://www.youtube.com/watch?v=T_9LJCKOvQE)
 - [Can - Oh Yeah](https://www.youtube.com/watch?v=qKpCKBfazX8)
 - [Can - Halleluwah](https://www.youtube.com/watch?v=2dZbAFmnRVA)
 - [Can - Aumgn](https://www.youtube.com/watch?v=4Up6Mw5SxJM)

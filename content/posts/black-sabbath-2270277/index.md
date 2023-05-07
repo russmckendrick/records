@@ -33,12 +33,12 @@ styles: ["Hard Rock", "Blues Rock"]
 
 
 ## Videos
-### Black Sabbath   First Album   Full Ripped vinyl
-{{< youtube id="tkjqN8j_PSI" title="Black Sabbath   First Album   Full Ripped vinyl" >}}<br>
+### BLACK SABBATH - Black Sabbath (Official Video)
+{{< youtube id="0lVdMbUx1_k" title="BLACK SABBATH - Black Sabbath (Official Video)" >}}<br>
 
 ### More Videos
 
-- [BLACK SABBATH - Black Sabbath (Official Video)](https://www.youtube.com/watch?v=0lVdMbUx1_k)
+- [Black Sabbath   First Album   Full Ripped vinyl](https://www.youtube.com/watch?v=tkjqN8j_PSI)
 - [Black Sabbath  Behind the Wall of Sleep  (Studio Outtake)](https://www.youtube.com/watch?v=wFVj1XSxKVw)
 - [Black Sabbath - Black Sabbath | (Black Sabbath, 1970) | [HQ]](https://www.youtube.com/watch?v=ISXnYu-Or4w)
 - [The Wizard (2009 - Remaster)](https://www.youtube.com/watch?v=ftKNGzh7t94)

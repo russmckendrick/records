@@ -44,15 +44,15 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### Cot Damn
-{{< youtube id="krQH5wQTWJY" title="Cot Damn" >}}<br>
+### Intro
+{{< youtube id="dajcaoe0RC8" title="Intro" >}}<br>
 
 ### More Videos
 
-- [Intro](https://www.youtube.com/watch?v=dajcaoe0RC8)
 - [Young Boy](https://www.youtube.com/watch?v=A76sY6UCM1Q)
 - [Virginia](https://www.youtube.com/watch?v=Zss77i-ZfZ4)
 - [Grindin'](https://www.youtube.com/watch?v=YLW5oP8DtyM)
+- [Cot Damn](https://www.youtube.com/watch?v=krQH5wQTWJY)
 - [Ma, I Don't Love Her](https://www.youtube.com/watch?v=hmi9WGfN77E)
 - [FamLay Freestyle](https://www.youtube.com/watch?v=a2rIFBHvYAU)
 - [When the Last Time](https://www.youtube.com/watch?v=jqL7GEJap8k)

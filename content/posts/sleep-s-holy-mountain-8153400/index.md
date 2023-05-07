@@ -37,17 +37,17 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Sleep - Holy Mountain (Official Audio)
-{{< youtube id="Y4cxaVEqZsE" title="Sleep - Holy Mountain (Official Audio)" >}}<br>
+### Sleep - Dragonaut [Official Video]
+{{< youtube id="qMIS2BaDilY" title="Sleep - Dragonaut [Official Video]" >}}<br>
 
 ### More Videos
 
-- [Sleep - Dragonaut [Official Video]](https://www.youtube.com/watch?v=qMIS2BaDilY)
 - [Sleep - Dragonaut (Official Audio)](https://www.youtube.com/watch?v=2bRuKExTfGM)
 - [Sleep - The Druid (Official Audio)](https://www.youtube.com/watch?v=effUB0_T1pE)
 - [Sleep - Evil Gypsy/Solomons Theme (Official Audio)](https://www.youtube.com/watch?v=pDSztGsEHDA)
 - [Sleep - Some Grass (Official Audio)](https://www.youtube.com/watch?v=nUjjWvFLeWw)
 - [Sleep - Aquarian (Official Audio)](https://www.youtube.com/watch?v=6PGFBhmrmRA)
+- [Sleep - Holy Mountain (Official Audio)](https://www.youtube.com/watch?v=Y4cxaVEqZsE)
 - [Sleep - Inside The Sun (Official Audio)](https://www.youtube.com/watch?v=0_k2w6dYbqY)
 - [Sleep - From Beyond (Official Audio)](https://www.youtube.com/watch?v=yLBF-b54sfA)
 - [Sleep - Nains Baptism (Official Audio)](https://www.youtube.com/watch?v=qv1DwJmAemo)

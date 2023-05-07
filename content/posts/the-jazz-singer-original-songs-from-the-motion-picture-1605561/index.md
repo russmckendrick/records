@@ -42,12 +42,11 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 
 
 ## Videos
-### Acapulco (From The Jazz Singer Soundtrack)
-{{< youtube id="E6FCghO92Mo" title="Acapulco (From The Jazz Singer Soundtrack)" >}}<br>
+### America (From The Jazz Singer Soundtrack)
+{{< youtube id="SvseQ90FMHk" title="America (From The Jazz Singer Soundtrack)" >}}<br>
 
 ### More Videos
 
-- [America (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=SvseQ90FMHk)
 - [Adon Olom (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
 - [You Baby (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=o3Mb4T8vVO4)
 - [Love On The Rocks (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=22tVYznBKyE)
@@ -55,6 +54,7 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 - [On The Robert E. Lee (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=-wef9IzAIag)
 - [Summerlove (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=l4VHZapvpgI)
 - [Hello Again (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=DsbX1PZq5TA)
+- [Acapulco (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=E6FCghO92Mo)
 - [Hey Louise (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=e53gzWewtaM)
 - [Songs Of Life (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=zRD0Mgxt1oM)
 - [Jerusalem (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=1ivnzchGzII)

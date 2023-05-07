@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 
 
 ## Videos
-### 🔴Suede – Complete A Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]
-{{< youtube id="pUWV0AnTCzA" title="🔴Suede – Complete A Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]" >}}<br>
+### [Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p
+{{< youtube id="aGah_flIerg" title="[Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p" >}}<br>
 
 ### More Videos
 
-- [[Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p](https://www.youtube.com/watch?v=aGah_flIerg)
 - [🔴Suede – Complete B Side [ Coming Up Limited Edition, Numbered, Yellow Translucent, 180g LP ]](https://www.youtube.com/watch?v=kG28yAxWr2Q)
+- [🔴Suede – Complete A Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]](https://www.youtube.com/watch?v=pUWV0AnTCzA)
 - [Suede - Beautiful Ones](https://www.youtube.com/watch?v=xqovGKdgAXY)
 - [🔴Suede – Complete A Side [ Coming Up Limited Edition, Numbered, Yellow Translucent, 180g LP ]](https://www.youtube.com/watch?v=b3oqS7CWkk8)
 - [🔴Suede – Complete B Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]](https://www.youtube.com/watch?v=KC97mYs71n8)

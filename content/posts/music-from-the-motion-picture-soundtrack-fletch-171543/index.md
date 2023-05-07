@@ -35,18 +35,18 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 
 
 ## Videos
-### Diggin' In
-{{< youtube id="dXHT3_GKVuE" title="Diggin' In" >}}<br>
+### Stephanie Mills - Bit By Bit (Theme From Fletch) 1985
+{{< youtube id="jPlxWRZO7jY" title="Stephanie Mills - Bit By Bit (Theme From Fletch) 1985" >}}<br>
 
 ### More Videos
 
-- [Stephanie Mills - Bit By Bit (Theme From Fletch) 1985](https://www.youtube.com/watch?v=jPlxWRZO7jY)
 - [Dan Hartman & Fletch - Get Out Of Town](https://www.youtube.com/watch?v=aGGidnZtQUE)
 - [Running For Love](https://www.youtube.com/watch?v=tpjftJM8kr4)
 - [Name Of The Game](https://www.youtube.com/watch?v=5AnyNDp6rkM)
 - [Harold Faltermeyer - Fletch Theme (1985)  Stereo](https://www.youtube.com/watch?v=bNtQr57_QTI)
 - [A Letter To Both Sides](https://www.youtube.com/watch?v=yJ4AsZElvHY)
 - [Is It Over](https://www.youtube.com/watch?v=zW83yGd9uDg)
+- [Diggin' In](https://www.youtube.com/watch?v=dXHT3_GKVuE)
 - [Exotic Skates](https://www.youtube.com/watch?v=aIlWY_tk53s)
 - [Running For Love (Instrumental)](https://www.youtube.com/watch?v=HC2-slEyuVk)
 

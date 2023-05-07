@@ -52,13 +52,13 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Lift To Experience - Just As Was Told (Official Audio)
-{{< youtube id="iF96B27HYik" title="Lift To Experience - Just As Was Told (Official Audio)" >}}<br>
+### Lift To Experience - When We Shall Touch (Official Audio)
+{{< youtube id="sthmEkUjACM" title="Lift To Experience - When We Shall Touch (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Lift To Experience - When We Shall Touch (Official Audio)](https://www.youtube.com/watch?v=sthmEkUjACM)
 - [Lift To Experience   The Texas Jerusalem Crossroads](https://www.youtube.com/watch?v=RebkScGC2JE)
+- [Lift To Experience - Just As Was Told (Official Audio)](https://www.youtube.com/watch?v=iF96B27HYik)
 - [Lift To Experience - These Are The Days (2017 Mix) (Official Video)](https://www.youtube.com/watch?v=FbBPve8A6yI)
 - [Lift To Experience - Falling From Cloud 9 (Official Video)](https://www.youtube.com/watch?v=bWWzcgsutdk)
 - [Lift To Experience - Waiting To Hit (Official Audio)](https://www.youtube.com/watch?v=sZ28bBvKjig)

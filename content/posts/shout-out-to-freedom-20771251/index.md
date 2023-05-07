@@ -43,16 +43,16 @@ styles: ["Downtempo", "Trip Hop"]
 
 
 ## Videos
-### Miami 80
-{{< youtube id="Qx5RbYhM7_s" title="Miami 80" >}}<br>
+### Nightmares On Wax - Shout Out! To Freedom... (Full Live Performance)
+{{< youtube id="E0877duFog8" title="Nightmares On Wax - Shout Out! To Freedom... (Full Live Performance)" >}}<br>
 
 ### More Videos
 
-- [Nightmares On Wax - Shout Out! To Freedom... (Full Live Performance)](https://www.youtube.com/watch?v=E0877duFog8)
 - [Shout Out! (Intro)](https://www.youtube.com/watch?v=Hh6SyjaaK-0)
 - [Imagineering](https://www.youtube.com/watch?v=sjjc2JZSan8)
 - [Creator SOS](https://www.youtube.com/watch?v=0GH77QUwbMQ)
 - [3D Warrior](https://www.youtube.com/watch?v=tUvpDJI5FgE)
+- [Miami 80](https://www.youtube.com/watch?v=Qx5RbYhM7_s)
 - [GTP Call](https://www.youtube.com/watch?v=g1o6K4rhtfo)
 - [Wikid Satellites](https://www.youtube.com/watch?v=zf1tsqdjDEE)
 - [To Freedom (Interlude)](https://www.youtube.com/watch?v=aTGmgeDmLpw)

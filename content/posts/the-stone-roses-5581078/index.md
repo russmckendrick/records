@@ -39,13 +39,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Stone Roses - She Bangs the Drums (Official Video)
-{{< youtube id="wD6Pq0bSMPo" title="The Stone Roses - She Bangs the Drums (Official Video)" >}}<br>
+### The Stone Roses - I Wanna Be Adored (Official Video)
+{{< youtube id="4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" >}}<br>
 
 ### More Videos
 
-- [The Stone Roses - I Wanna Be Adored (Official Video)](https://www.youtube.com/watch?v=4D2qcbu26gs)
 - [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
+- [The Stone Roses - She Bangs the Drums (Official Video)](https://www.youtube.com/watch?v=wD6Pq0bSMPo)
 - [The Stone Roses - Waterfall (Official Video)](https://www.youtube.com/watch?v=7NrLBlw9WZE)
 - [The Stone Roses - Don't Stop (Audio)](https://www.youtube.com/watch?v=yNLx6EUTBlU)
 - [The Stone Roses - Bye Bye Bad Man (Audio)](https://www.youtube.com/watch?v=xwi2TaaOq-Y)

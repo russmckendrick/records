@@ -35,12 +35,11 @@ styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 
 
 ## Videos
-### Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)
-{{< youtube id="H2ihddzxTFA" title="Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)" >}}<br>
+### Death In Vegas - Scorpio Raising ft. Liam Gallagher
+{{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}<br>
 
 ### More Videos
 
-- [Death In Vegas - Scorpio Raising ft. Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
 - [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
 - [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
 - [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
@@ -49,6 +48,7 @@ styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 - [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
 - [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
 - [Death in Vegas - 23 Lies (Hope Sandoval)](https://www.youtube.com/watch?v=ONxlnW0T3X8)
+- [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
 
 
 ## Release Information

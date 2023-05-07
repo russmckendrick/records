@@ -46,12 +46,12 @@ styles: ["Electro"]
 
 
 ## Videos
-### Meet My Angel
-{{< youtube id="b13C_Rhxu8M" title="Meet My Angel" >}}<br>
+### Yello - Waba Duba (Official Video)
+{{< youtube id="nN9DaTXV0b0" title="Yello - Waba Duba (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Yello - Waba Duba (Official Video)](https://www.youtube.com/watch?v=nN9DaTXV0b0)
+- [Meet My Angel](https://www.youtube.com/watch?v=b13C_Rhxu8M)
 - [YELLO 'You Better Hide' (Extract of Touch Yello)](https://www.youtube.com/watch?v=LZFKmePcasA)
 - [Yello - Bostich (DJ Hell 2018 Remix) - OFFICIAL VIDEO](https://www.youtube.com/watch?v=WdXvnRI8gJE)
 - [Takla Makan (Martin Roth Remix)](https://www.youtube.com/watch?v=LT5ftB3lMw8)

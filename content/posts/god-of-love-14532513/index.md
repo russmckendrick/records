@@ -40,15 +40,15 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 
 
 ## Videos
-### Cool Mountaineer
-{{< youtube id="boZu3RvzApE" title="Cool Mountaineer" >}}<br>
+### Bad Brains - God Of Love (Full album 1995)
+{{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love (Full album 1995)" >}}<br>
 
 ### More Videos
 
-- [Bad Brains - God Of Love (Full album 1995)](https://www.youtube.com/watch?v=qL_2Vw1iUoA)
 - [Bad Brains - To The Heavens](https://www.youtube.com/watch?v=9scEyRRKRHU)
 - [How I Love Thee](https://www.youtube.com/watch?v=HlUQmaEBRLE)
 - [Bad Brains  -  God of Love](https://www.youtube.com/watch?v=ryLmymTTfGg)
+- [Cool Mountaineer](https://www.youtube.com/watch?v=boZu3RvzApE)
 - [Darling I Need You](https://www.youtube.com/watch?v=SadIA-zX4vk)
 - [Justice Keepers](https://www.youtube.com/watch?v=isp3qJH_jlI)
 - [Long Time](https://www.youtube.com/watch?v=jUVw_nD5Hws)

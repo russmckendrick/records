@@ -39,12 +39,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### World Party - Private Revolution
-{{< youtube id="KF33V0tqrEc" title="World Party - Private Revolution" >}}<br>
+### World Party - Ship of Fools
+{{< youtube id="ZHh0V7UjVXI" title="World Party - Ship of Fools" >}}<br>
 
 ### More Videos
 
-- [World Party - Ship of Fools](https://www.youtube.com/watch?v=ZHh0V7UjVXI)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=JaYcJQej5Uw)
 - [World Party - All Come True](https://www.youtube.com/watch?v=DO1cW97Z3sU)
 - [World Party - Private Revolution (Extended Version)](https://www.youtube.com/watch?v=hRxone8ZtmM)
@@ -57,6 +56,7 @@ styles: ["Alternative Rock"]
 - [Hawaiian Island World](https://www.youtube.com/watch?v=mWgHwAY-4LU)
 - [Making Love (To the World)](https://www.youtube.com/watch?v=xh9WEzkKyXY)
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
+- [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
 
 ## Release Information

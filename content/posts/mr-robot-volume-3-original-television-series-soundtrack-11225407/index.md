@@ -49,14 +49,14 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### 2.0_3-j0urnaling.ivs
-{{< youtube id="CVGAPiNrdwI" title="2.0_3-j0urnaling.ivs" >}}<br>
+### Mr. Robot, Vol. 3 - Mac Quayle - Soundtrack Preview (Official Video)
+{{< youtube id="tMHQIaPjRmo" title="Mr. Robot, Vol. 3 - Mac Quayle - Soundtrack Preview (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Mr. Robot, Vol. 3 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=tMHQIaPjRmo)
 - [Mac Quayle  - Mr. Robot 2.0_1-s4ve-the-w0rld.act](https://www.youtube.com/watch?v=T-dglvI2KXg)
 - [2.0_2-FuxSocy.sln](https://www.youtube.com/watch?v=5OfZPpjqrGg)
+- [2.0_3-j0urnaling.ivs](https://www.youtube.com/watch?v=CVGAPiNrdwI)
 - [Mac Quayle  - Mr. Robot 2.0_4-control-1s-an-illusion](https://www.youtube.com/watch?v=oV50Uex04TM)
 - [Mac Quayle  - Mr. Robot 2.0_6-madame3xecutioner.oga](https://www.youtube.com/watch?v=Q_UT1lhkwBY)
 - [2.0_7-jester-actual.dss](https://www.youtube.com/watch?v=w4ilJeNJnxo)

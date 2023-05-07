@@ -38,12 +38,11 @@ styles: ["Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Shades Of Michaelangelo
-{{< youtube id="c8GV0CxraL4" title="Shades Of Michaelangelo" >}}<br>
+### Leave A Light On
+{{< youtube id="J7DOyqNtmgM" title="Leave A Light On" >}}<br>
 
 ### More Videos
 
-- [Leave A Light On](https://www.youtube.com/watch?v=J7DOyqNtmgM)
 - [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=SheKvJKtpdU)
 - [Runaway Horses](https://www.youtube.com/watch?v=2vMM5gjqVUA)
 - [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=lLhqsopncHE)
@@ -54,6 +53,7 @@ styles: ["Soft Rock", "Pop Rock"]
 - [Deep Deep Ocean](https://www.youtube.com/watch?v=RWJ_sZd9VxM)
 - [Valentine](https://www.youtube.com/watch?v=FaSq1WmCTvg)
 - [Whatever It Takes](https://www.youtube.com/watch?v=7T3HLGHigwI)
+- [Shades Of Michaelangelo](https://www.youtube.com/watch?v=c8GV0CxraL4)
 
 
 ## Release Information

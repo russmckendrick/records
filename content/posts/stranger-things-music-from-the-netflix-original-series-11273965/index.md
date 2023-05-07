@@ -55,12 +55,11 @@ styles: []
 
 
 ## Videos
-### Cyndi Lauper - Time After Time (Official HD Video)
-{{< youtube id="VdQY7BusJNU" title="Cyndi Lauper - Time After Time (Official HD Video)" >}}<br>
+### INTRO - Will Singing the Clash
+{{< youtube id="cy9iyo9Ygg4" title="INTRO - Will Singing the Clash" >}}<br>
 
 ### More Videos
 
-- [INTRO - Will Singing the Clash](https://www.youtube.com/watch?v=cy9iyo9Ygg4)
 - [Every Breath You Take](https://www.youtube.com/watch?v=GO5utuvcZps)
 - [Stranger Things Mike and Eleven - Every breath you take](https://www.youtube.com/watch?v=su5HtUmvndE)
 - [Stranger Things Soundtrack | S02E08 Should I Stay or Should I Go by The Clash](https://www.youtube.com/watch?v=__jjYB3GyD8)
@@ -77,6 +76,7 @@ styles: []
 - [You Don't Mess Around With Jim](https://www.youtube.com/watch?v=iPfM-GROsZ8)
 - [Devo - Whip It (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=j_QLzthSkfM)
 - [Bon Jovi - Runaway (Official Music Video)](https://www.youtube.com/watch?v=s86K-p089R8)
+- [Cyndi Lauper - Time After Time (Official HD Video)](https://www.youtube.com/watch?v=VdQY7BusJNU)
 - [The Romantics - Talking in Your Sleep](https://www.youtube.com/watch?v=JmGMzyajA2U)
 - [Fad Gadget - Back To Nature](https://www.youtube.com/watch?v=7PySsErAILE)
 - [Rock You Like a Hurricane](https://www.youtube.com/watch?v=Ge3lXjKiWXQ)

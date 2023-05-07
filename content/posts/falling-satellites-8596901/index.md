@@ -56,12 +56,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Raging Against The Dying of the Light Blues in 7/8
-{{< youtube id="89I01Wd5a1Q" title="The Raging Against The Dying of the Light Blues in 7/8" >}}<br>
+### FROST* - Numbers (OFFICIAL VIDEO)
+{{< youtube id="exnCIi-MLkc" title="FROST* - Numbers (OFFICIAL VIDEO)" >}}<br>
 
 ### More Videos
 
-- [FROST* - Numbers (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=exnCIi-MLkc)
+- [The Raging Against The Dying of the Light Blues in 7/8](https://www.youtube.com/watch?v=89I01Wd5a1Q)
 - [Frost* - Lights Out (Progressive Rock)](https://www.youtube.com/watch?v=biEvNFPTpcw)
 
 

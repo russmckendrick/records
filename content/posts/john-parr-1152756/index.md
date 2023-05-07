@@ -38,12 +38,11 @@ styles: ["Hard Rock", "Pop Rock"]
 
 
 ## Videos
-### John Parr - Heartbreaker [lyrics] (HQ Sound) (AOR/Melodic Rock)
-{{< youtube id="2l_EhoIxTLM" title="John Parr - Heartbreaker [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
+### John Parr - Naughty Naughty (Official Music Video)
+{{< youtube id="syhrz_AMLQU" title="John Parr - Naughty Naughty (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [John Parr - Naughty Naughty (Official Music Video)](https://www.youtube.com/watch?v=syhrz_AMLQU)
 - [John Parr - Naughty Naughty](https://www.youtube.com/watch?v=UY9VGQERxMA)
 - [John Parr - Love Grammar 1984 (Official Video)](https://www.youtube.com/watch?v=FntI8wFhEfE)
 - [John Parr - St. Elmo's Fire (Man In Motion) (Official Music Video)](https://www.youtube.com/watch?v=dx7vNdAb5e4)
@@ -54,6 +53,7 @@ styles: ["Hard Rock", "Pop Rock"]
 - [John Parr - Treat me like an animal [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=4RCGKr-sG-U)
 - [John Parr - She's gonna love you to death [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=G_W2apd5I6Q)
 - [John Parr - Revenge [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=2uPS6itedvU)
+- [John Parr - Heartbreaker [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=2l_EhoIxTLM)
 - [John Parr - Somebody stole my thunder [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=wLltCfWmkJU)
 - [John Parr - Don't leave your mark on me [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=rqJDv_8gqHE)
 - [John Parr - St. Elmo's fire (Man in motion) [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Mwu-aSW8NLQ)

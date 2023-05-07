@@ -43,12 +43,11 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 
 
 ## Videos
-### On My Own
-{{< youtube id="K6JVAwpKNtw" title="On My Own" >}}<br>
+### Wu-Tang Clan - Don't Stop (Explicit) 2017
+{{< youtube id="AohtHrfgiBo" title="Wu-Tang Clan - Don't Stop (Explicit) 2017" >}}<br>
 
 ### More Videos
 
-- [Wu-Tang Clan - Don't Stop (Explicit) 2017](https://www.youtube.com/watch?v=AohtHrfgiBo)
 - [Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=HL_fmIvfyCM)
 - [Kool Aid - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
 - [Phantom (Redux) - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
@@ -57,6 +56,7 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 - [BLOWN - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
 - [Problem Child - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
 - [The Mule - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
+- [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
 - [Stretch Your Face - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
 
 

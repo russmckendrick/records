@@ -38,16 +38,16 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 
 
 ## Videos
-### The Next Generation
-{{< youtube id="EMhqdgUgC-M" title="The Next Generation" >}}<br>
+### Neneh Cherry - Buffalo Stance (Official Music Video)
+{{< youtube id="JWsRz3TJDEY" title="Neneh Cherry - Buffalo Stance (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Neneh Cherry - Buffalo Stance (Official Music Video)](https://www.youtube.com/watch?v=JWsRz3TJDEY)
 - [Neneh Cherry - Manchild](https://www.youtube.com/watch?v=OJ9VBMBS3qE)
 - [Neneh Cherry - Kisses On The Wind](https://www.youtube.com/watch?v=J31Xh8-R3IY)
 - [Neneh Cherry - Inna City Mamma](https://www.youtube.com/watch?v=9K1BMRG0efw)
 - [Inna City Mamma](https://www.youtube.com/watch?v=j13Ah4O1E8I)
+- [The Next Generation](https://www.youtube.com/watch?v=EMhqdgUgC-M)
 - [Love Ghetto](https://www.youtube.com/watch?v=QaNPtKtUbjg)
 - [Neneh Cherry - Heart](https://www.youtube.com/watch?v=gexJL7-cEaw)
 - [Phoney Ladies](https://www.youtube.com/watch?v=HJR7P8Lu_cA)

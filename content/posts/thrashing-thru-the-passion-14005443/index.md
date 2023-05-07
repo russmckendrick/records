@@ -38,12 +38,12 @@ styles: []
 
 
 ## Videos
-### The Hold Steady - You Did Good Kid
-{{< youtube id="P-aRAhigP1I" title="The Hold Steady - You Did Good Kid" >}}<br>
+### The Hold Steady - Denver Haircut
+{{< youtube id="HA3CF9rusvE" title="The Hold Steady - Denver Haircut" >}}<br>
 
 ### More Videos
 
-- [The Hold Steady - Denver Haircut](https://www.youtube.com/watch?v=HA3CF9rusvE)
+- [The Hold Steady - You Did Good Kid](https://www.youtube.com/watch?v=P-aRAhigP1I)
 
 
 ## Release Information
