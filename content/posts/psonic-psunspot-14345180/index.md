@@ -35,12 +35,12 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### The Dukes Of Stratosphear - Vanishing Girl
-{{< youtube id="0bbqezgfqD8" title="The Dukes Of Stratosphear - Vanishing Girl" >}}<br>
+### The Dukes Of Stratosphear - Collideascope
+{{< youtube id="mUOJIm0fVas" title="The Dukes Of Stratosphear - Collideascope" >}}<br>
 
 ### More Videos
 
-- [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
+- [The Dukes Of Stratosphear - Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
 - [Little Lighthouse (2001 Mix)](https://www.youtube.com/watch?v=davK8592Afw)
 - [The Dukes Of Stratosphear - Brainiac's daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
 - [Dukes of Stratosphear (XTC) - You're My Drug](https://www.youtube.com/watch?v=HwzZflj9pjM)

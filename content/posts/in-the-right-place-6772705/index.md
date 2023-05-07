@@ -39,14 +39,14 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 
 
 ## Videos
-### Right Place Wrong Time
-{{< youtube id="zw-2CTx4YgY" title="Right Place Wrong Time" >}}<br>
+### Qualified
+{{< youtube id="ebnKMMqKMMc" title="Qualified" >}}<br>
 
 ### More Videos
 
+- [Right Place Wrong Time](https://www.youtube.com/watch?v=zw-2CTx4YgY)
 - [Same Old Same Old](https://www.youtube.com/watch?v=R9FXjsc9uBs)
 - [Just the Same](https://www.youtube.com/watch?v=aSfIvbQ39ZY)
-- [Qualified](https://www.youtube.com/watch?v=ebnKMMqKMMc)
 - [Traveling Mood](https://www.youtube.com/watch?v=ZBm_EW2qqAk)
 - [Peace Brother Peace](https://www.youtube.com/watch?v=fPcIqqUhVtk)
 - [Life](https://www.youtube.com/watch?v=03eYl97ZbUg)

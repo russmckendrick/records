@@ -37,12 +37,12 @@ styles: ["Classic Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Emerson, Lake & Palmer - Lucky Man
-{{< youtube id="89g1P_J40JA" title="Emerson, Lake & Palmer - Lucky Man" >}}<br>
+### Emerson, Lake & Palmer - Fanfare For The Common Man
+{{< youtube id="c2zurZig4L8" title="Emerson, Lake & Palmer - Fanfare For The Common Man" >}}<br>
 
 ### More Videos
 
-- [Emerson, Lake & Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
+- [Emerson, Lake & Palmer - Lucky Man](https://www.youtube.com/watch?v=89g1P_J40JA)
 
 
 ## Release Information

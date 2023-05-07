@@ -36,15 +36,15 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 
 
 ## Videos
-### The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072
-{{< youtube id="SSo3LizTu_I" title="The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072" >}}<br>
+### The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)
+{{< youtube id="mm0mmkAYwPc" title="The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)" >}}<br>
 
 ### More Videos
 
+- [The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072](https://www.youtube.com/watch?v=SSo3LizTu_I)
 - [The Blues Brothers - She Caught the Katy (Official Audio)](https://www.youtube.com/watch?v=o5xexv-dMrM)
 - [The Blues Brothers - Peter Gunn Theme (Official Audio)](https://www.youtube.com/watch?v=9DgFOsEs-kE)
 - [The Blues Brothers - Gimme Some Lovin' (Official Audio)](https://www.youtube.com/watch?v=-aqZmPInK3o)
-- [The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)](https://www.youtube.com/watch?v=mm0mmkAYwPc)
 - [The Blues Brothers - Everybody Needs Somebody to Love (Official Audio)](https://www.youtube.com/watch?v=wDvIGZ-_au4)
 - [The Blues Brothers - The Old Landmark (feat. James Brown) (Official Audio)](https://www.youtube.com/watch?v=CmO7LQMVlaI)
 - [The Blues Brothers & Aretha Franklin - Think (Official Audio)](https://www.youtube.com/watch?v=tc36-Li5eww)

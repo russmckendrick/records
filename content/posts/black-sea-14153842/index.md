@@ -39,15 +39,15 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Living Through Another Cuba (2001 Remaster)
-{{< youtube id="BTp_qgh-i4g" title="Living Through Another Cuba (2001 Remaster)" >}}<br>
+### Love At First Sight (2001 Remaster)
+{{< youtube id="aFhQevV4z3c" title="Love At First Sight (2001 Remaster)" >}}<br>
 
 ### More Videos
 
 - [XTC - Generals and Majors - Black Sea [1980]](https://www.youtube.com/watch?v=uCuZ11IW1CY)
-- [Love At First Sight (2001 Remaster)](https://www.youtube.com/watch?v=aFhQevV4z3c)
 - [No Language In Our Lungs (2001 Remaster)](https://www.youtube.com/watch?v=JgOOvMj3HyQ)
 - [Burning With Optimism's Flames (2001 Remaster)](https://www.youtube.com/watch?v=XSWoTrdTKhM)
+- [Living Through Another Cuba (2001 Remaster)](https://www.youtube.com/watch?v=BTp_qgh-i4g)
 - [Sgt. Rock (Is Going To Help Me) XTC The Thief Of Bagdad Single](https://www.youtube.com/watch?v=kwUfJTLdVlc)
 - [XTC - Respectable Street](https://www.youtube.com/watch?v=Xz4JmNhkjXc)
 - [XTC - Sgt. Rock-Multi-Coloured Wap Shop BBC1 Television 1981](https://www.youtube.com/watch?v=OjQwLBYHcx0)

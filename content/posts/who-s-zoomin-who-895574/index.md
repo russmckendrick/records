@@ -37,16 +37,16 @@ styles: ["Disco", "Synth-pop", "Soul"]
 
 
 ## Videos
-### Aretha Franklin – Who's Zoomin' Who?
-{{< youtube id="yuxiZNFJV0s" title="Aretha Franklin – Who's Zoomin' Who?" >}}<br>
+### Sisters Are Doin' It for Themselves
+{{< youtube id="g9tziRkNq18" title="Sisters Are Doin' It for Themselves" >}}<br>
 
 ### More Videos
 
 - [Integrity](https://www.youtube.com/watch?v=wOse0WM-6c4)
 - [Sisters Are Doin’ It For Themselves [Ft. Aretha Franklin] (Official Video)](https://www.youtube.com/watch?v=drGx7JkFSp4)
 - [Aretha Franklin - Freeway Of Love (Video)](https://www.youtube.com/watch?v=Ip_pjb5_fgA)
+- [Aretha Franklin – Who's Zoomin' Who?](https://www.youtube.com/watch?v=yuxiZNFJV0s)
 - [Aretha Franklin - Freeway Of Love](https://www.youtube.com/watch?v=auRu9d__4Ws)
-- [Sisters Are Doin' It for Themselves](https://www.youtube.com/watch?v=g9tziRkNq18)
 - [Until You Say You Love Me](https://www.youtube.com/watch?v=oQyc35RQ8Sw)
 - [Aretha Franklin 'Who's Zoomin' Who' [HD]](https://www.youtube.com/watch?v=OwiERojwshI)
 - [Who's Zoomin Who 1985 - Aretha Franklin](https://www.youtube.com/watch?v=YpzzR8J59hU)

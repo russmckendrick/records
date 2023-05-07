@@ -58,8 +58,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### XTC - Skylarking (Full Album) [HD]
-{{< youtube id="85J91FwPrTw" title="XTC - Skylarking (Full Album) [HD]" >}}<br>
+### The meeting place
+{{< youtube id="fBxCxUFOBv0" title="The meeting place" >}}<br>
 
 ### More Videos
 
@@ -69,7 +69,7 @@ styles: ["New Wave", "Pop Rock"]
 - [XTC - Grass](https://www.youtube.com/watch?v=nErBEvTIvfo)
 - [Earn Enough For Us (Remastered 2001)](https://www.youtube.com/watch?v=wft8l-bw0qw)
 - [That's Really Super, Supergirl (Remastered 2001)](https://www.youtube.com/watch?v=CBNsiEWghGA)
-- [The meeting place](https://www.youtube.com/watch?v=fBxCxUFOBv0)
+- [XTC - Skylarking (Full Album) [HD]](https://www.youtube.com/watch?v=85J91FwPrTw)
 
 
 ## Release Information

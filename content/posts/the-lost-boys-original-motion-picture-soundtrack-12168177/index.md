@@ -38,8 +38,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### The Lost Boys (1987) - Soundtracks - Full Album
-{{< youtube id="gDU4rSgondk" title="The Lost Boys (1987) - Soundtracks - Full Album" >}}<br>
+### The Lost Boys - Soundtrack - Lost In The Shadows (The Lost Boys) - By Lou Gramm
+{{< youtube id="9mk9MWei8MI" title="The Lost Boys - Soundtrack - Lost In The Shadows (The Lost Boys) - By Lou Gramm" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Soundtrack"]
 - [The Lost Boys - Soundtrack - Cry Little Sister (Theme From The Lost Boys) - By Gerard McMann](https://www.youtube.com/watch?v=mrMLMV6E4CM)
 - [The Lost Boys - Soundtrack - People Are Strange - By Echo & The Bunnymen -](https://www.youtube.com/watch?v=eTviNc52igI)
 - [The Lost Boys - Soundtrack - To The Shock Of Miss Louise - By Thomas Newman](https://www.youtube.com/watch?v=6O_NYy5vqX4)
-- [The Lost Boys - Soundtrack - Lost In The Shadows (The Lost Boys) - By Lou Gramm](https://www.youtube.com/watch?v=9mk9MWei8MI)
+- [The Lost Boys (1987) - Soundtracks - Full Album](https://www.youtube.com/watch?v=gDU4rSgondk)
 - [Original The Lost Boys Cry Little Sister by G Tom Mac](https://www.youtube.com/watch?v=TuxdjVI-5r0)
 - [Mace Plays Vinyl - Soundtrack - The Lost Boys - Full Album](https://www.youtube.com/watch?v=K7XPFcHOgKg)
 - [The Lost Boys Original Soundtrack](https://www.youtube.com/watch?v=358dMEr61Ok)

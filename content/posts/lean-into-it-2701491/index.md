@@ -39,13 +39,13 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)
-{{< youtube id="46BCpSJKIjw" title="Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)" >}}<br>
+### Mr. Big - Just Take My Heart (MV)
+{{< youtube id="AyYoc5JGY7c" title="Mr. Big - Just Take My Heart (MV)" >}}<br>
 
 ### More Videos
 
 - [Mr. Big - To Be With You 4K Video](https://www.youtube.com/watch?v=L6-uJLteKek)
-- [Mr. Big - Just Take My Heart (MV)](https://www.youtube.com/watch?v=AyYoc5JGY7c)
+- [Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)](https://www.youtube.com/watch?v=46BCpSJKIjw)
 
 
 ## Release Information

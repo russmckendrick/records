@@ -39,8 +39,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Blue Overall (2001 Remaster)
-{{< youtube id="XZgkVc9-nfY" title="Blue Overall (2001 Remaster)" >}}<br>
+### XTC - Wake Up
+{{< youtube id="ON-Ef6zwTUg" title="XTC - Wake Up" >}}<br>
 
 ### More Videos
 
@@ -54,6 +54,7 @@ styles: ["Pop Rock"]
 - [You're The Wish You Are I Had (2001 Remaster)](https://www.youtube.com/watch?v=HKaaQC3ATg8)
 - [I Bought Myself A Liarbird (2001 Remaster)](https://www.youtube.com/watch?v=3ZXnBu1gpzw)
 - [Red Brick Dream (2001 Remaster)](https://www.youtube.com/watch?v=VKkjdzLKajQ)
+- [Blue Overall (2001 Remaster)](https://www.youtube.com/watch?v=XZgkVc9-nfY)
 - [Wash Away (2001 Remaster)](https://www.youtube.com/watch?v=5wxMu53yUuw)
 - [XTC -Seagulls Screaming Kiss Her, Kiss Her -](https://www.youtube.com/watch?v=SilKZK47XTc)
 - [Reign Of Blows (2001 Remaster)](https://www.youtube.com/watch?v=QVi4jjK3DVc)
@@ -62,7 +63,6 @@ styles: ["Pop Rock"]
 - [Xtc Washaway cover](https://www.youtube.com/watch?v=jPdk7kGXwCk)
 - [Train Running Low On Soul Coal by XTC REMASTERED](https://www.youtube.com/watch?v=4akgpwHAlk8)
 - [XTC - I Remember The Sun](https://www.youtube.com/watch?v=PtStJaaH5Cs)
-- [XTC - Wake Up](https://www.youtube.com/watch?v=ON-Ef6zwTUg)
 - [XTC - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=zHhOx68AS_s)
 - [Xtc I Bought Myself a Liarbird cover](https://www.youtube.com/watch?v=Rl7jczY42H0)
 - [XTC - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=0S4hKJRYfMs)

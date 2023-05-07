@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Country"]
 
 
 ## Videos
-### We've Never Met
-{{< youtube id="zhMr1kCJy-Y" title="We've Never Met" >}}<br>
+### South Tacoma Way
+{{< youtube id="k8iz8oNzOxM" title="South Tacoma Way" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Alternative Rock", "Country"]
 - [Neko Case & Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
 - [Mood to Burn Bridges](https://www.youtube.com/watch?v=qKdDcwdygos)
 - [Thrice All American](https://www.youtube.com/watch?v=lT4QMN93g9o)
-- [South Tacoma Way](https://www.youtube.com/watch?v=k8iz8oNzOxM)
+- [We've Never Met](https://www.youtube.com/watch?v=zhMr1kCJy-Y)
 - [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
 - [Neko Case - Furnace Room Lullaby [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)
 

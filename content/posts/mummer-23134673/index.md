@@ -39,15 +39,15 @@ styles: ["Pop Rock"]
 
 ## Videos
 ### XTC - Beating of Hearts
-{{< youtube id="-dXQBVvBtO8" title="XTC - Beating of Hearts" >}}<br>
+{{< youtube id="MT4zz2b50kg" title="XTC - Beating of Hearts" >}}<br>
 
 ### More Videos
 
 - [XTC   In Loving Memory of a Name](https://www.youtube.com/watch?v=GTLVRD8S-3s)
-- [XTC - Beating of Hearts](https://www.youtube.com/watch?v=MT4zz2b50kg)
 - [XTC - Wonderland](https://www.youtube.com/watch?v=7DCtdVdvuE0)
 - [XTC - Love on a Farmboy's Wages](https://www.youtube.com/watch?v=4VSFU0jKVYs)
 - [XTC - Funk Pop A Roll](https://www.youtube.com/watch?v=JnvO6lrZSxo)
+- [XTC - Beating of Hearts](https://www.youtube.com/watch?v=-dXQBVvBtO8)
 
 
 ## Release Information

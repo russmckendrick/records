@@ -39,13 +39,13 @@ styles: ["Soul"]
 
 
 ## Videos
-### Aretha Franklin - Spanish Harlem
-{{< youtube id="ax3EJyeKW3M" title="Aretha Franklin - Spanish Harlem" >}}<br>
+### Chain of Fools by Aretha Franklin REMASTERED
+{{< youtube id="vFBi7ZEbGx8" title="Chain of Fools by Aretha Franklin REMASTERED" >}}<br>
 
 ### More Videos
 
 - [Aretha's Greatest Hits /Atlantic](https://www.youtube.com/watch?v=KuDE2JzHYhU)
-- [Chain of Fools by Aretha Franklin REMASTERED](https://www.youtube.com/watch?v=vFBi7ZEbGx8)
+- [Aretha Franklin - Spanish Harlem](https://www.youtube.com/watch?v=ax3EJyeKW3M)
 
 
 ## Release Information

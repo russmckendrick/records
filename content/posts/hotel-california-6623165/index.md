@@ -37,13 +37,13 @@ styles: ["Country Rock"]
 
 
 ## Videos
-### Eagles - Hotel California (Lyrics)
-{{< youtube id="To86UdOx0A8" title="Eagles - Hotel California (Lyrics)" >}}<br>
+### Eagles - Hotel California (Lossless Audio)
+{{< youtube id="Br3KkvgMAZY" title="Eagles - Hotel California (Lossless Audio)" >}}<br>
 
 ### More Videos
 
-- [Eagles - Hotel California (Lossless Audio)](https://www.youtube.com/watch?v=Br3KkvgMAZY)
 - [Eagles - Hotel California (Live 1977) (Official Video) [HD]](https://www.youtube.com/watch?v=09839DpTctU)
+- [Eagles - Hotel California (Lyrics)](https://www.youtube.com/watch?v=To86UdOx0A8)
 - [Eagles perform Hotel California at the 1998 Rock & Roll Hall of Fame Induction Ceremony](https://www.youtube.com/watch?v=FVsbvFkhzY4)
 - [Eagles - Hotel California  (𝙇𝙮𝙧𝙞𝙘𝙨)](https://www.youtube.com/watch?v=qXoU7wF9cuo)
 - [Hotel California](https://www.youtube.com/watch?v=7yx5vm2AH24)

@@ -36,12 +36,12 @@ styles: ["Soul"]
 
 
 ## Videos
-### Wonderful World
-{{< youtube id="6LLPLIeGrOM" title="Wonderful World" >}}<br>
+### My Girl
+{{< youtube id="PtW03zWhXRw" title="My Girl" >}}<br>
 
 ### More Videos
 
-- [My Girl](https://www.youtube.com/watch?v=PtW03zWhXRw)
+- [Wonderful World](https://www.youtube.com/watch?v=6LLPLIeGrOM)
 
 
 ## Release Information

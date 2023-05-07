@@ -51,8 +51,8 @@ styles: ["Conscious", "Boom Bap"]
 
 
 ## Videos
-### De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)
-{{< youtube id="OwwaO_FxEco" title="De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)" >}}<br>
+### De La Soul - Me Myself and I (Official Audio)
+{{< youtube id="fG9lFewfGEs" title="De La Soul - Me Myself and I (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -60,6 +60,7 @@ styles: ["Conscious", "Boom Bap"]
 - [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
 - [De La Soul - The Magic Number (Official Audio)](https://www.youtube.com/watch?v=0Yy7A74o8gQ)
 - [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
+- [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
 - [De La Soul - Can U Keep a Secret (Official Audio)](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
 - [De La Soul - Transmitting Live from Mars (Official Audio)](https://www.youtube.com/watch?v=7nFCOYP1Tow)
 - [De La Soul - Eye Know (Official Audio) ft. Otis Redding](https://www.youtube.com/watch?v=_q9T41DV18A)
@@ -72,7 +73,6 @@ styles: ["Conscious", "Boom Bap"]
 - [De La Soul - Plug Tunin' (Last Chance to Comprehend) (Official Audio)](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
 - [De La Soul - De La Orgee (Official Audio)](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
 - [De La Soul - Description (Official Audio)](https://www.youtube.com/watch?v=t4h0SHmj9xY)
-- [De La Soul - Me Myself and I (Official Audio)](https://www.youtube.com/watch?v=fG9lFewfGEs)
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)

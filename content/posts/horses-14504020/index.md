@@ -36,13 +36,13 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 
 
 ## Videos
-### Land: Horses / Land of a Thousand Dances / La Mer (de)
-{{< youtube id="cSk6jfln84A" title="Land: Horses / Land of a Thousand Dances / La Mer (de)" >}}<br>
+### Patti Smith - Gloria (Audio)
+{{< youtube id="bPO0bTaWcFQ" title="Patti Smith - Gloria (Audio)" >}}<br>
 
 ### More Videos
 
 - [Patti Smith ‎Horses Full Album](https://www.youtube.com/watch?v=SVR_eY_1R40)
-- [Patti Smith - Gloria (Audio)](https://www.youtube.com/watch?v=bPO0bTaWcFQ)
+- [Land: Horses / Land of a Thousand Dances / La Mer (de)](https://www.youtube.com/watch?v=cSk6jfln84A)
 - [Patti Smith - Horses   Full Album](https://www.youtube.com/watch?v=yoRFG1oef2I)
 
 

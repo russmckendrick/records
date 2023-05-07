@@ -35,19 +35,19 @@ styles: []
 
 
 ## Videos
-### Musique du film Ghostbusters
-{{< youtube id="DjWYs10OyFE" title="Musique du film Ghostbusters" >}}<br>
+### Ghostbusters Soundtrack (1984) 1 - Ghostbusters (Ray Parker Jr.)
+{{< youtube id="p0MGBrKLhi4" title="Ghostbusters Soundtrack (1984) 1 - Ghostbusters (Ray Parker Jr.)" >}}<br>
 
 ### More Videos
 
 - [Ghostbusters Full Album From the Motion Picture/Film 1984](https://www.youtube.com/watch?v=TymQWWtIU1c)
 - [Original GhostBusters Theme Song](https://www.youtube.com/watch?v=m9We2XsVZfc)
 - [Ray Parker Jr. - Ghostbusters](https://www.youtube.com/watch?v=Fe93CLbHjxQ)
+- [Musique du film Ghostbusters](https://www.youtube.com/watch?v=DjWYs10OyFE)
 - [GHOSTBUSTERS / Original soundtrack album (Sonido Vinilo) - 1984](https://www.youtube.com/watch?v=BnroRUrhcK8)
 - [Ghostbusters original soundtrack: THREE PRESSINGS COMPARED](https://www.youtube.com/watch?v=ZrjnjC6x_KY)
 - [Ghostbusters](https://www.youtube.com/watch?v=TaV1r341wYk)
 - [Ghostbusters](https://www.youtube.com/watch?v=Uvck7ItXwdc)
-- [Ghostbusters Soundtrack (1984) 1 - Ghostbusters (Ray Parker Jr.)](https://www.youtube.com/watch?v=p0MGBrKLhi4)
 - [Magic](https://www.youtube.com/watch?v=hK2EUIYiWXU)
 - [Ghostbusters 1984 - Complete motion picture score - Elmer Bernstein](https://www.youtube.com/watch?v=4o6KaJ36660)
 

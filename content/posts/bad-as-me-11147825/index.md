@@ -41,15 +41,15 @@ styles: []
 
 
 ## Videos
-### Tom Waits - Raised Right Men
-{{< youtube id="M9uTo_KBBAw" title="Tom Waits - Raised Right Men" >}}<br>
+### Tom Waits - Bad As Me
+{{< youtube id="zfIRR2VeyEc" title="Tom Waits - Bad As Me" >}}<br>
 
 ### More Videos
 
 - [Tom Waits - Satisfied](https://www.youtube.com/watch?v=xHn_Kb4Dz40)
-- [Tom Waits - Bad As Me](https://www.youtube.com/watch?v=zfIRR2VeyEc)
 - [Tom Waits - Hell Broke Luce](https://www.youtube.com/watch?v=0Fju9o8BVJ8)
 - [Tom Waits - Kiss me (Bad As Me)](https://www.youtube.com/watch?v=_Qy7Tt84d1Q)
+- [Tom Waits - Raised Right Men](https://www.youtube.com/watch?v=M9uTo_KBBAw)
 - [Tom Waits   bad as me            full album](https://www.youtube.com/watch?v=c3IHscrJB0I)
 
 

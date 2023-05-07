@@ -41,14 +41,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Stars - Ageless Beauty
-{{< youtube id="JKg17Gc8WCI" title="Stars - Ageless Beauty" >}}<br>
+### Stars- One More Night
+{{< youtube id="UN3ftt-Gr24" title="Stars- One More Night" >}}<br>
 
 ### More Videos
 
+- [Stars - Ageless Beauty](https://www.youtube.com/watch?v=JKg17Gc8WCI)
 - [Stars - Your Ex-Lover Is Dead](https://www.youtube.com/watch?v=r5Or6-HOveg)
 - [Stars - Reunion](https://www.youtube.com/watch?v=KnZt39OKfcc)
-- [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)
 - [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
 
 

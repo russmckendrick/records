@@ -58,8 +58,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### XTC English Settlement Album Review
-{{< youtube id="dNx7NR51qdc" title="XTC English Settlement Album Review" >}}<br>
+### Senses Working Overtime (Remastered)
+{{< youtube id="kjt7AdLYT2w" title="Senses Working Overtime (Remastered)" >}}<br>
 
 ### More Videos
 
@@ -69,11 +69,11 @@ styles: ["New Wave", "Pop Rock"]
 - [XTC - No Thugs in Our House](https://www.youtube.com/watch?v=UfE-z0RN7n0)
 - [XTC - Runaways](https://www.youtube.com/watch?v=0gQo_lXw2zg)
 - [Xtc - It's Nearly Africa - 1982](https://www.youtube.com/watch?v=Ad1e0FaHuqU)
-- [Senses Working Overtime (Remastered)](https://www.youtube.com/watch?v=kjt7AdLYT2w)
 - [XTC - Jason and the Argonauts](https://www.youtube.com/watch?v=BDNupK1RkdY)
 - [English Roundabout (2001 Remaster)](https://www.youtube.com/watch?v=aSIyaZoG0sU)
 - [Runaways (2001 Remaster)](https://www.youtube.com/watch?v=tJocUSEXk8c)
 - [XTC - Yacht Dance - English Settlement [1982]](https://www.youtube.com/watch?v=0hHYU28TkvQ)
+- [XTC English Settlement Album Review](https://www.youtube.com/watch?v=dNx7NR51qdc)
 - [No Thugs In Our House (2001 Remaster)](https://www.youtube.com/watch?v=PnRzV4ehSxY)
 - [XTC - Knuckle Down](https://www.youtube.com/watch?v=g9zZ0hefFok)
 

@@ -52,8 +52,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Thanks For The Pepperoni (Remastered 2014)
-{{< youtube id="rDDA0tSxzVU" title="Thanks For The Pepperoni (Remastered 2014)" >}}<br>
+### Hear Me Lord (Remastered 2014)
+{{< youtube id="EoUIryN1tM4" title="Hear Me Lord (Remastered 2014)" >}}<br>
 
 ### More Videos
 
@@ -74,10 +74,10 @@ styles: ["Pop Rock"]
 - [I Dig Love (Remastered 2014)](https://www.youtube.com/watch?v=EE9GWOeMDkE)
 - [Art Of Dying (Remastered 2014)](https://www.youtube.com/watch?v=tmo8L7NlURQ)
 - [Isn't It A Pity (Version Two / Remastered 2014)](https://www.youtube.com/watch?v=bHV2CY5LOSQ)
-- [Hear Me Lord (Remastered 2014)](https://www.youtube.com/watch?v=EoUIryN1tM4)
 - [Out Of The Blue (Remastered 2014)](https://www.youtube.com/watch?v=hD_ZVuwfkS4)
 - [Plug Me In (Remastered 2014)](https://www.youtube.com/watch?v=BgpwqkYYyUo)
 - [I Remember Jeep (Remastered 2014)](https://www.youtube.com/watch?v=PFY6SBhFZHc)
+- [Thanks For The Pepperoni (Remastered 2014)](https://www.youtube.com/watch?v=rDDA0tSxzVU)
 
 
 ## Release Information

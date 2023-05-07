@@ -45,8 +45,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Dear Madam Barnum (2001 Remaster)
-{{< youtube id="Mm0GL6GAw2M" title="Dear Madam Barnum (2001 Remaster)" >}}<br>
+### The Ballad of Peter Pumpkinhead /  XTC
+{{< youtube id="na8W4Bx1Z1A" title="The Ballad of Peter Pumpkinhead /  XTC" >}}<br>
 
 ### More Videos
 
@@ -55,12 +55,12 @@ styles: ["Pop Rock"]
 - [XTC-Then She Appeared- Nonsuch 1992](https://www.youtube.com/watch?v=rkCeN4PLR10)
 - [My Bird Performs (2001 Remaster)](https://www.youtube.com/watch?v=-fx8D1ixbys)
 - [XTC - Wrapped in Grey - Steven Wilson 2013 Stereo Mix](https://www.youtube.com/watch?v=4esd2g-d-rA)
+- [Dear Madam Barnum (2001 Remaster)](https://www.youtube.com/watch?v=Mm0GL6GAw2M)
 - [Xtc - The Ugly Underneath](https://www.youtube.com/watch?v=7wVIQeQKEj4)
 - [Humble Daisy (2001 Remaster)](https://www.youtube.com/watch?v=n_EFGlpkUlg)
 - [Wrapped In Grey (2001 Remaster)](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
 - [XTC- War Dance home demo -Nonsuch-](https://www.youtube.com/watch?v=pBY5lJDO6TA)
 - [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
-- [The Ballad of Peter Pumpkinhead /  XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
 
 
 ## Release Information

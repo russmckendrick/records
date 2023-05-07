@@ -37,19 +37,19 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Radio Source Sagittarius
-{{< youtube id="sKz39VLf2KM" title="Radio Source Sagittarius" >}}<br>
+### Fu Manchu - The Last Question [Audio]
+{{< youtube id="aGX_AQOBolw" title="Fu Manchu - The Last Question [Audio]" >}}<br>
 
 ### More Videos
 
 - [Dimension Shifter](https://www.youtube.com/watch?v=RIzhUm0Gt_g)
 - [Fu Manchu - Invaders On My Back Official Audio](https://www.youtube.com/watch?v=6N3wQ084we8)
 - [Fu Manchu - Anxiety Reducer Official Audio](https://www.youtube.com/watch?v=bZQ-kKUfNFY)
+- [Radio Source Sagittarius](https://www.youtube.com/watch?v=sKz39VLf2KM)
 - [Mutant](https://www.youtube.com/watch?v=bTI8HXleDm4)
 - [No Warning](https://www.youtube.com/watch?v=XvwDc95TkH8)
 - [Evolution Machine](https://www.youtube.com/watch?v=0SdypZTlVw8)
 - [Triplanetary](https://www.youtube.com/watch?v=RcruRnHbZ_o)
-- [Fu Manchu - The Last Question [Audio]](https://www.youtube.com/watch?v=aGX_AQOBolw)
 
 
 ## Release Information

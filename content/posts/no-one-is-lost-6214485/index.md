@@ -39,12 +39,12 @@ styles: ["Indie Rock", "Indie Pop"]
 
 
 ## Videos
-### Stars - No One Is Lost (Official Video)
-{{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost (Official Video)" >}}<br>
+### Stars - From The Night (Official Video)
+{{< youtube id="Dr5VE3ogdl8" title="Stars - From The Night (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Stars - From The Night (Official Video)](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
+- [Stars - No One Is Lost (Official Video)](https://www.youtube.com/watch?v=PehLcp7sNi0)
 
 
 ## Release Information

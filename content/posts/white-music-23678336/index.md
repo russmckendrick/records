@@ -40,15 +40,15 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### This Is Pop? (2001 Remaster)
-{{< youtube id="Urz3Md03bXM" title="This Is Pop? (2001 Remaster)" >}}<br>
+### Radios In Motion (2001 Remaster)
+{{< youtube id="nNnmPQ2284w" title="Radios In Motion (2001 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Hang On To The Night (2001 Remaster)](https://www.youtube.com/watch?v=bc4ZYVVBog8)
 - [XTC white music](https://www.youtube.com/watch?v=px-E3Fw253o)
-- [Radios In Motion (2001 Remaster)](https://www.youtube.com/watch?v=nNnmPQ2284w)
 - [Cross Wires (2001 Remaster)](https://www.youtube.com/watch?v=0tC9pqA8h9Y)
+- [This Is Pop? (2001 Remaster)](https://www.youtube.com/watch?v=Urz3Md03bXM)
 - [Do What You Do (2001 Remaster)](https://www.youtube.com/watch?v=ejr9X_Xuryw)
 - [Statue Of Liberty (2001 Remaster)](https://www.youtube.com/watch?v=OT46ZAPGPAc)
 - [Xtc - All along the watchtower (1978)](https://www.youtube.com/watch?v=6qXxOSYZi7U)
