@@ -32,8 +32,8 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 
 
 ## Videos
-### RICK WAKEMAN JOURNEY TO THE CENTRE OF THE EARTH 2012 (full album)
-{{< youtube id="q9g10wdemd8" title="RICK WAKEMAN JOURNEY TO THE CENTRE OF THE EARTH 2012 (full album)" >}}<br>
+### Rick Wakeman   The Journey Recollection vinyl
+{{< youtube id="Bf7yzb8Iokk" title="Rick Wakeman   The Journey Recollection vinyl" >}}<br>
 
 ### More Videos
 
@@ -41,7 +41,7 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 - [Rick Wakeman Journey to the Centre of the Earth Full Album 1974   YouTube](https://www.youtube.com/watch?v=YJ9W2pZwvlY)
 - [Rick Wakeman-Journey To The Center Of The Earth](https://www.youtube.com/watch?v=8wFag3o10wg)
 - [Rick Wakeman   The Battle vinyl](https://www.youtube.com/watch?v=88ZZgQ_MAX4)
-- [Rick Wakeman   The Journey Recollection vinyl](https://www.youtube.com/watch?v=Bf7yzb8Iokk)
+- [RICK WAKEMAN JOURNEY TO THE CENTRE OF THE EARTH 2012 (full album)](https://www.youtube.com/watch?v=q9g10wdemd8)
 
 
 ## Release Information

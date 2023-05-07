@@ -38,8 +38,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Nausea
-{{< youtube id="lnG_TXXVf4g" title="Nausea" >}}<br>
+### Therapy?  - Deep Sleep
+{{< youtube id="3TIc3LbhxAA" title="Therapy?  - Deep Sleep" >}}<br>
 
 ### More Videos
 
@@ -47,12 +47,12 @@ styles: ["Indie Rock"]
 - [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
 - [Accelerator](https://www.youtube.com/watch?v=oRavi-MzMf4)
 - [Therapy? : Disgracelands (1992)](https://www.youtube.com/watch?v=ObltOZKQvXM)
+- [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
 - [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
 - [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
 - [Perversonality  - Therapy?](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
 - [Therapy? - Gone (with lyrics)](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
 - [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)
-- [Therapy?  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)
 - [Therapy - Hypermania](https://www.youtube.com/watch?v=Yj0AGitctVg)
 
 

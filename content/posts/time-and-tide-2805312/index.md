@@ -56,8 +56,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer
-{{< youtube id="kgXuTj13JO0" title="Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer" >}}<br>
+### Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever
+{{< youtube id="VQqjT4YUyNQ" title="Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever" >}}<br>
 
 ### More Videos
 
@@ -73,7 +73,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Split Enz - Time and Tide (Private Remaster 2017) - 12 Make Sense Of It](https://www.youtube.com/watch?v=XVkkev8YVNg)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 06 Small World](https://www.youtube.com/watch?v=IK-HGz0j3rc)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 09 Six Months In A Leaky Boat](https://www.youtube.com/watch?v=zTKKhmMKwJY)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever](https://www.youtube.com/watch?v=VQqjT4YUyNQ)
+- [Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer](https://www.youtube.com/watch?v=kgXuTj13JO0)
 
 
 ## Release Information

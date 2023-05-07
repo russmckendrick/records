@@ -38,8 +38,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### S͟u͟p͟e͟r͟t͟r͟amp͟ ͟B͟r͟e͟a͟k͟f͟a͟s͟t͟ ͟i͟n͟ ͟A͟m͟e͟r͟i͟ca͟ full album 1979 🇬🇧
-{{< youtube id="Co44YRyPeCI" title="S͟u͟p͟e͟r͟t͟r͟amp͟ ͟B͟r͟e͟a͟k͟f͟a͟s͟t͟ ͟i͟n͟ ͟A͟m͟e͟r͟i͟ca͟ full album 1979 🇬🇧" >}}<br>
+### S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979
+{{< youtube id="BL3iuizcr0Q" title="S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Pop Rock"]
 - [Supertramp - Breakfast In America (HQ)](https://www.youtube.com/watch?v=3YQb-0P320s)
 - [Supertramp - Take The Long Way Home (BEST QUALITY SOUND)](https://www.youtube.com/watch?v=LPRrHyXchEY)
 - [Supertramp - Breakfast In America (Official 4K Video)](https://www.youtube.com/watch?v=aQdoUUi3iJ8)
-- [S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979](https://www.youtube.com/watch?v=BL3iuizcr0Q)
+- [S͟u͟p͟e͟r͟t͟r͟amp͟ ͟B͟r͟e͟a͟k͟f͟a͟s͟t͟ ͟i͟n͟ ͟A͟m͟e͟r͟i͟ca͟ full album 1979 🇬🇧](https://www.youtube.com/watch?v=Co44YRyPeCI)
 - [Goodbye Stranger (2010 Remastered)](https://www.youtube.com/watch?v=u8pVZ5hTGJQ)
 - [The Logical Song](https://www.youtube.com/watch?v=pP8iUyb9Gn8)
 

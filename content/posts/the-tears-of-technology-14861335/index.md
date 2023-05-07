@@ -46,8 +46,8 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Sealand (2003 Digital Remaster)
-{{< youtube id="t_he2hubqNo" title="Sealand (2003 Digital Remaster)" >}}<br>
+### John Foxx - Europe After The Rain (HQ)
+{{< youtube id="DFjkOWigb-M" title="John Foxx - Europe After The Rain (HQ)" >}}<br>
 
 ### More Videos
 
@@ -58,9 +58,9 @@ styles: ["New Wave", "Synth-pop"]
 - [An Evening In The Ray](https://www.youtube.com/watch?v=pqhTGaRRXSg)
 - [The Turquoise Swimming Pools - The Winds](https://www.youtube.com/watch?v=zwa54ZlE25Y)
 - [Youth](https://www.youtube.com/watch?v=2ikFs0cwqp0)
-- [John Foxx - Europe After The Rain (HQ)](https://www.youtube.com/watch?v=DFjkOWigb-M)
 - [Patrik Fitzgerald - Personal Loss](https://www.youtube.com/watch?v=GMVLCp183Ks)
 - [Eyeless In Gaza - Light of April](https://www.youtube.com/watch?v=3OoJWs5wtfM)
+- [Sealand (2003 Digital Remaster)](https://www.youtube.com/watch?v=t_he2hubqNo)
 - [THOMAS LEER private plane 1978](https://www.youtube.com/watch?v=sehOKE4vNGE)
 - [The Electronic Circus   Direct Lines 1981](https://www.youtube.com/watch?v=n9uLSLUxHzU)
 - [Pale Fountains - Unless - 1983](https://www.youtube.com/watch?v=pAOi3hmA3Cw)

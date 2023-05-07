@@ -40,13 +40,13 @@ styles: ["Grunge"]
 
 
 ## Videos
-### Soundgarden - Jesus Christ Pose (Official Music Video)
-{{< youtube id="14r7y6rM6zA" title="Soundgarden - Jesus Christ Pose (Official Music Video)" >}}<br>
+### Badmotorfinger (1991)
+{{< youtube id="rH9UM3Oyoy0" title="Badmotorfinger (1991)" >}}<br>
 
 ### More Videos
 
 - [Soundgarden - Rusty Cage](https://www.youtube.com/watch?v=pBZs_Py-1_0)
-- [Badmotorfinger (1991)](https://www.youtube.com/watch?v=rH9UM3Oyoy0)
+- [Soundgarden - Jesus Christ Pose (Official Music Video)](https://www.youtube.com/watch?v=14r7y6rM6zA)
 - [Soundgarden - Outshined](https://www.youtube.com/watch?v=sNh-iw7gsuI)
 - [Searching With My Good Eye Closed](https://www.youtube.com/watch?v=fzPr8iDB8gk)
 - [Mind Riot](https://www.youtube.com/watch?v=l4CrtxwsxYE)

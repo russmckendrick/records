@@ -28,8 +28,8 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Split Enz – History Never Repeats
-{{< youtube id="lPXXuEkMXes" title="Split Enz – History Never Repeats" >}}<br>
+### Split Enz - History Never Repeats (with Lyrics)
+{{< youtube id="H4MaXe_Gjxc" title="Split Enz - History Never Repeats (with Lyrics)" >}}<br>
 
 ### More Videos
 
@@ -42,8 +42,8 @@ styles: ["New Wave"]
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=Xz1aSjZ1mIQ)
 - [Split Enz - History Never Repeats (live in Canada)](https://www.youtube.com/watch?v=SN8721jZd70)
 - [Split Enz  HISTORY NEVER REPEATS  Live June 06](https://www.youtube.com/watch?v=7fLBLPCI9Ys)
-- [Split Enz - History Never Repeats (with Lyrics)](https://www.youtube.com/watch?v=H4MaXe_Gjxc)
 - [Split Enz - History Never  Repeats](https://www.youtube.com/watch?v=FQ9uENZ_12Y)
+- [Split Enz – History Never Repeats](https://www.youtube.com/watch?v=lPXXuEkMXes)
 - [Enz History Never Repeats Canada '82](https://www.youtube.com/watch?v=zW9Mc8JGq5E)
 - [Split Enz History Never Repeats 1 1 2000](https://www.youtube.com/watch?v=wJaZp-Zobcg)
 - [Split Enz- Poor Boy/History Never Repeats](https://www.youtube.com/watch?v=ZXejwWu4HYk)

@@ -31,12 +31,11 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Baby Baby (12 No getting Over You Mix) - Amy Grant
-{{< youtube id="DP0uTkS5t5g" title="Baby Baby (12 No getting Over You Mix) - Amy Grant" >}}<br>
+### Amy Grant - Baby, Baby
+{{< youtube id="vMXuuYnoRdI" title="Amy Grant - Baby, Baby" >}}<br>
 
 ### More Videos
 
-- [Amy Grant - Baby, Baby](https://www.youtube.com/watch?v=vMXuuYnoRdI)
 - [Amy Grant - Baby Baby (Lyric Video) ft. Tori Kelly](https://www.youtube.com/watch?v=euMfgdv_TWw)
 - [Amy Grant Baby Baby (UK radio edit)](https://www.youtube.com/watch?v=TxG8GAdIlCE)
 - [Baby Baby - Amy Grant With Lyrics](https://www.youtube.com/watch?v=MvoCxOv6zL0)
@@ -44,6 +43,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Amy Grant - Baby Baby (7 Heart In Motion Mix) (1991)](https://www.youtube.com/watch?v=cqlmQMSt0yg)
 - [Amy Grant / Tori Kelly - Baby Baby (Behind The Scenes)](https://www.youtube.com/watch?v=SjpnDyWlfjg)
 - [Amy Grant - Baby Baby (12 Heart In Motion Mix)](https://www.youtube.com/watch?v=ucyLYstmAzk)
+- [Baby Baby (12 No getting Over You Mix) - Amy Grant](https://www.youtube.com/watch?v=DP0uTkS5t5g)
 
 
 ## Release Information
