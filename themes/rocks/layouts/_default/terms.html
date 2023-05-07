@@ -5,19 +5,55 @@
       <header class="major">
         <h1>{{ .Title }}</h1>
       </header>
+      <nav>
+        {{- $letters := split "#ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+        {{ range $letters }}
+          <a href="#{{ . }}">{{ . }}</a>{{ if not (eq . "Z") }}, {{ end }}
+        {{ end }}
+      </nav>
     </div>
   </section>
   <section id="two" class="spotlights">
     <div class="inner">
-      <div class="col-6 col-12-small">
-        {{ $taxonomy := index .Site.Taxonomies (lower .Title) }}
-        {{ $total := len $taxonomy }}
-        {{ range $index, $term := $taxonomy }}
-        <a href="{{ $term.Page.Permalink }}">{{ $term.Page.Title }} ({{
-          $term.Count }})</a>
-        {{ if ne $index (sub $total 1) }}, &nbsp; {{ end }}
+      {{- $letters := split "#ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+      {{- $taxonomy := index .Site.Taxonomies (lower .Title) -}}
+      {{- $pages_by_letters := dict -}}
+      {{ range $taxonomy.Alphabetical }}
+        {{- $term := . -}}
+        {{- $title := $term.Page.Title -}}
+        {{- $thePrefix := "The " -}}
+        {{- if and (strings.HasPrefix (strings.ToUpper $title) (strings.ToUpper $thePrefix)) (ne $title "The The") }}
+          {{- $title = trim $title $thePrefix -}}
         {{ end }}
-      </div>
+        {{- $first_letter := upper (substr $title 0 1) -}}
+        {{- if not (in $letters $first_letter) }}
+          {{ $first_letter = "#" }}
+        {{ end }}
+        {{- $new_list := slice -}}
+        {{ with index $pages_by_letters $first_letter }}
+          {{- $new_list = . | append $term -}}
+        {{ else }}
+          {{- $new_list = slice $term -}}
+        {{ end }}
+        {{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
+      {{ end }}
+
+      {{ range $letters }}
+        {{- $letter := . -}}
+        {{- $terms := index $pages_by_letters $letter -}}
+        {{ if $terms }}
+          <div class="col-6 col-12-small" id="{{ $letter }}">
+            <h2>{{ $letter }}</h2>
+            <ul>
+              {{ range $terms }}
+                <li>
+                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+      {{ end }}
     </div>
   </section>
-  {{ end }}
+{{ end }}
