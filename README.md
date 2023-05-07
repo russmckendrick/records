@@ -19,7 +19,7 @@ The Python script used to scrape the content from Discogs can be found at [russm
 
 ## My Discogs Collection 💽
 
-You can view my personal Discogs collection, the source for the site, [here](http://discogs.com/user/russmck/collection/).But you should really just goto [McKendrick Rocks](https://www.mckendrick.rocks/)! 🎧🎶
+You can view my personal Discogs collection, the source for the site, [here](http://discogs.com/user/russmck/collection/). But, you should really just goto [McKendrick Rocks](https://www.mckendrick.rocks/) and view it there! 🎧🎶
 
 ## Questions or Feedback? 📬
 
