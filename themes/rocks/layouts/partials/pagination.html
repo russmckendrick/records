@@ -17,17 +17,6 @@
 
 <ul class="pagination">
   <!-- First page. -->
-  {{ if ne $paginator.PageNumber 1 }}
-  <li><span class="button small">
-      <a href="{{ $paginator.First.URL }}">
-        <<
-      </a></span>
-  </li>
-  {{ else }}
-  <li><span class="button small disabled">
-      <<
-    </span></li>
-  {{ end }}
 
   <!-- Previous page. -->
   {{ if $paginator.HasPrev }}
@@ -39,6 +28,18 @@
   {{ else }}
   <li><span class="button small disabled">
       Prev
+    </span></li>
+  {{ end }}
+
+  {{ if ne $paginator.PageNumber 1 }}
+  <li><span class="button small">
+      <a href="{{ $paginator.First.URL }}">
+        <<
+      </a></span>
+  </li>
+  {{ else }}
+  <li><span class="button small disabled">
+      <<
     </span></li>
   {{ end }}
 
@@ -101,19 +102,6 @@
 
   {{ end }}
 
-  <!-- Next page. -->
-  {{ if $paginator.HasNext }}
-  <li><span class="button small">
-      <a href="{{ $paginator.Next.URL }}">
-        Next
-      </a></span>
-  </li>
-  {{ else }}
-  <li><span class="button small disabled">
-      Next
-    </span></li>
-  {{ end }}
-
   <!-- Last page. -->
   {{ if ne $paginator.PageNumber $paginator.TotalPages }}
   <li><span class="button small">
@@ -124,6 +112,19 @@
   {{ else }}
   <li><span class="button small disabled">
       >>
+    </span></li>
+  {{ end }}
+
+  <!-- Next page. -->
+  {{ if $paginator.HasNext }}
+  <li><span class="button small">
+      <a href="{{ $paginator.Next.URL }}">
+        Next
+      </a></span>
+  </li>
+  {{ else }}
+  <li><span class="button small disabled">
+      Next
     </span></li>
   {{ end }}
 

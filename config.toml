@@ -32,14 +32,15 @@ enableRobotsTXT = true
     name = "Genres"
     url = "/genres/"
     weight = 4
+  [[menu.main]]
+    name = "Source Code"
+    url = "https://github.com/russmckendrick/discogs-scraper"
+    weight = 5
 
 [taxonomies]
   artists = "artist"
   genres = "genres"
   styles = "styles"
-
-[outputs]
-  home = [ "HTML", "JSON", "RSS"]
 
 [sitemap]
   changefreq = "weekly"
