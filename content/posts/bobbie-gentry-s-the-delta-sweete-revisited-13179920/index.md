@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mercury Rev feat. Susanne Sundfør - Tobacco Road (Official Audio)
-{{< youtube id="fXbGxxIsa5k" title="Mercury Rev feat. Susanne Sundfør - Tobacco Road (Official Audio)" >}}<br>
+### Mercury Rev feat. Vashti Bunyan & Kaela Sinclair - Penduli Pendulum (Official Audio)
+{{< youtube id="fA0JqAGyHZk" title="Mercury Rev feat. Vashti Bunyan & Kaela Sinclair - Penduli Pendulum (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Alternative Rock"]
 - [Mercury Rev feat. Carice Van Houten - Parchman Farm (Official Audio)](https://www.youtube.com/watch?v=b01sU4Q-CRw)
 - [Mercury Rev feat. Laetitia Sadier - Mornin' Glory (Official Audio)](https://www.youtube.com/watch?v=uKmU75V3rsg)
 - [Mercury Rev feat. Margo Price - Sermon (Official Audio)](https://www.youtube.com/watch?v=MLnBmLCY3f8)
-- [Mercury Rev feat. Vashti Bunyan & Kaela Sinclair - Penduli Pendulum (Official Audio)](https://www.youtube.com/watch?v=fA0JqAGyHZk)
+- [Mercury Rev feat. Susanne Sundfør - Tobacco Road (Official Audio)](https://www.youtube.com/watch?v=fXbGxxIsa5k)
 - [Mercury Rev x Phoebe Bridgers - Jesseye' Lisabeth](https://www.youtube.com/watch?v=Ks-kqBgdz9M)
 - [Mercury Rev feat. Marissa Nadler - Refractions (Official Audio)](https://www.youtube.com/watch?v=2KwiCIBoPn0)
 - [Mercury Rev feat. Beth Orton - Courtyard (Official Audio)](https://www.youtube.com/watch?v=D94_Rm0jxQg)

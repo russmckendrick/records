@@ -52,14 +52,14 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 
 
 ## Videos
-### Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)
-{{< youtube id="rKlHRIfV4BE" title="Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)" >}}<br>
+### Thundercat - Jethro (Screwed & Chopped by DJ Slopped Up)
+{{< youtube id="KXznSsiNMoM" title="Thundercat - Jethro (Screwed & Chopped by DJ Slopped Up)" >}}<br>
 
 ### More Videos
 
+- [Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)](https://www.youtube.com/watch?v=rKlHRIfV4BE)
 - [Thundercat - 'Walk On By feat. Kendrick Lamar’ (slowed)](https://www.youtube.com/watch?v=y2c-5DnkE2E)
 - [Them Changes - Thundercat (Screwed & Chopped by DJ Slopped Up)](https://www.youtube.com/watch?v=1cGJGoNny6M)
-- [Thundercat - Jethro (Screwed & Chopped by DJ Slopped Up)](https://www.youtube.com/watch?v=KXznSsiNMoM)
 - [Thundercat - Show You The Way (Chopped And Screwed) DeathScrewed](https://www.youtube.com/watch?v=WxE2kUx588E)
 
 

@@ -45,14 +45,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Just When You’re Thinkin’ Things Over
-{{< youtube id="nJeHGRetnNw" title="Just When You’re Thinkin’ Things Over" >}}<br>
+### The Charlatans: Melting Pot (Promo Videos)
+{{< youtube id="4HJ2rnGmvII" title="The Charlatans: Melting Pot (Promo Videos)" >}}<br>
 
 ### More Videos
 
 - [The Charlatans - The Only One I Know](https://www.youtube.com/watch?v=0RJwW77Lsj8)
 - [The Charlatans - Patrol (Chemical Brothers Mix)](https://www.youtube.com/watch?v=l30MOxYHLw0)
-- [The Charlatans: Melting Pot (Promo Videos)](https://www.youtube.com/watch?v=4HJ2rnGmvII)
 - [The Charlatans - Opportunity Three](https://www.youtube.com/watch?v=1MtRmr1Pe3Q)
 - [The Charlatans - Melting Pot Neon](https://www.youtube.com/watch?v=mXSGtWAilpg)
 - [One To Another](https://www.youtube.com/watch?v=OxftZoWaWpY)
@@ -62,6 +61,7 @@ styles: ["Indie Rock"]
 - [North Country Boy](https://www.youtube.com/watch?v=NuozckSMNh4)
 - [The Charlatans - Theme from Wish](https://www.youtube.com/watch?v=T5pkheKRKOk)
 - [Then](https://www.youtube.com/watch?v=x-eOMMuwTC4)
+- [Just When You’re Thinkin’ Things Over](https://www.youtube.com/watch?v=nJeHGRetnNw)
 
 
 ## Release Information

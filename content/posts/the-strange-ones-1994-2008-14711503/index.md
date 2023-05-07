@@ -339,14 +339,14 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 
 
 ## Videos
-### Supergrass - Diamond Hoo Ha Man (Official HD Video)
-{{< youtube id="6EPHk16mO20" title="Supergrass - Diamond Hoo Ha Man (Official HD Video)" >}}<br>
+### Supergrass - Bad Blood (Official HD Video)
+{{< youtube id="WZhinVDm9yM" title="Supergrass - Bad Blood (Official HD Video)" >}}<br>
 
 ### More Videos
 
 - [Strange Ones](https://www.youtube.com/watch?v=aJsVw_PyTGs)
+- [Supergrass - Diamond Hoo Ha Man (Official HD Video)](https://www.youtube.com/watch?v=6EPHk16mO20)
 - [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
-- [Supergrass - Bad Blood (Official HD Video)](https://www.youtube.com/watch?v=WZhinVDm9yM)
 
 
 ## Release Information

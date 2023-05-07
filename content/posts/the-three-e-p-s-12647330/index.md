@@ -56,8 +56,8 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 
 
 ## Videos
-### Inner Meet Me (Remaster)
-{{< youtube id="Abzt4cFprM4" title="Inner Meet Me (Remaster)" >}}<br>
+### The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)
+{{< youtube id="uaz3BW_FeZE" title="The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)" >}}<br>
 
 ### More Videos
 
@@ -65,10 +65,10 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 - [I Know (Remaster)](https://www.youtube.com/watch?v=3LmCqpEJdI8)
 - [B + A (Remaster)](https://www.youtube.com/watch?v=vuBCId0eics)
 - [Dogs Got a Bone (Remaster)](https://www.youtube.com/watch?v=NGQcC9LE1i8)
+- [Inner Meet Me (Remaster)](https://www.youtube.com/watch?v=Abzt4cFprM4)
 - [The House Song (Remaster)](https://www.youtube.com/watch?v=IP0fjwj18-Q)
 - [The Monolith (Remaster)](https://www.youtube.com/watch?v=-Wle35U34_o)
 - [She's the One (Remaster)](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
-- [The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)](https://www.youtube.com/watch?v=uaz3BW_FeZE)
 
 
 ## Release Information

@@ -38,17 +38,17 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Videos
-### Father John Misty - Mr. Tillman [Official Audio]
-{{< youtube id="n38R1JTEAPo" title="Father John Misty - Mr. Tillman [Official Audio]" >}}<br>
+### Father John Misty - Date Night [Official Music Video]
+{{< youtube id="nAdoIUNMdWs" title="Father John Misty - Date Night [Official Music Video]" >}}<br>
 
 ### More Videos
 
 - [Father John Misty - God's Favorite Customer [Official Music Video]](https://www.youtube.com/watch?v=sNG4g354P3w)
 - [Father John Misty - Please Don't Die [Official Music Video]](https://www.youtube.com/watch?v=SR1CSqQJi3E)
 - [Father John Misty - God's Favorite Customer [Full Album]](https://www.youtube.com/watch?v=t1Cp4djuo3Y)
-- [Father John Misty - Date Night [Official Music Video]](https://www.youtube.com/watch?v=nAdoIUNMdWs)
 - [Father John Misty - Just Dumb Enough to Try [Official Audio]](https://www.youtube.com/watch?v=tAmj-Iqwu7A)
 - [Father John Misty - Mr. Tillman [Official Music Video]](https://www.youtube.com/watch?v=j5B5IGqyy2s)
+- [Father John Misty - Mr. Tillman [Official Audio]](https://www.youtube.com/watch?v=n38R1JTEAPo)
 
 
 ## Release Information

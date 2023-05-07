@@ -38,8 +38,8 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Videos
-### Heart - Shell shock [lyrics] (HQ Sound) (AOR/Melodic Rock)
-{{< youtube id="zoAuNNbD5fU" title="Heart - Shell shock [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
+### Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)
+{{< youtube id="lQmQqz4nxmU" title="Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["Power Pop", "Pop Rock"]
 - [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
 - [Heart - All eyes [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=c_lJU14nhgw)
 - [Heart - Nobody home [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=ePNGtYqWx2U)
-- [Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=lQmQqz4nxmU)
 - [Heart - What he don't know [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=VsMeGnSMotk)
+- [Heart - Shell shock [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=zoAuNNbD5fU)
 - [These Dreams HEART 1985 LP](https://www.youtube.com/watch?v=4tbPIoL2wOw)
 - [Heart - What About Love?](https://www.youtube.com/watch?v=KE5GGMhmo-M)
 - [Heart - These Dreams](https://www.youtube.com/watch?v=41P8UxneDJE)

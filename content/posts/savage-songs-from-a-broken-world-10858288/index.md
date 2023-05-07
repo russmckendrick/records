@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Industrial"]
 
 
 ## Videos
-### Gary Numan - If We Had Known (Official Audio)
-{{< youtube id="wwm34E2PTRs" title="Gary Numan - If We Had Known (Official Audio)" >}}<br>
+### Gary Numan - Mercy (Official Audio)
+{{< youtube id="wYTjYpC1XYc" title="Gary Numan - Mercy (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -53,9 +53,9 @@ styles: ["Alternative Rock", "Industrial"]
 - [Gary Numan / Savage (Songs from a Broken World) / Pray for the Pain That You Serve  (Audio)](https://www.youtube.com/watch?v=-HyXhuEdaC0)
 - [Gary Numan - When The World Comes Apart (Official Video)](https://www.youtube.com/watch?v=P5E6RTDA7oc)
 - [Gary Numan - Cold](https://www.youtube.com/watch?v=2G3Itp50jSk)
-- [Gary Numan - Mercy (Official Audio)](https://www.youtube.com/watch?v=wYTjYpC1XYc)
 - [Gary Numan - The Promise (Official Audio)](https://www.youtube.com/watch?v=2vxs6JFjDZ0)
 - [Gary Numan - Broken (Official Audio)](https://www.youtube.com/watch?v=qzsvZpO1I_4)
+- [Gary Numan - If We Had Known (Official Audio)](https://www.youtube.com/watch?v=wwm34E2PTRs)
 
 
 ## Release Information

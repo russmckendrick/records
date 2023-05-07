@@ -40,8 +40,8 @@ styles: ["Punk"]
 
 
 ## Videos
-### Fish (2017 - Remaster)
-{{< youtube id="TokQhnIFKI0" title="Fish (2017 - Remaster)" >}}<br>
+### Fish
+{{< youtube id="_dnfYfYYZQU" title="Fish" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Punk"]
 - [Feel the Pain (2017 - Remaster)](https://www.youtube.com/watch?v=Hz16ObeWQ6E)
 - [I Fall](https://www.youtube.com/watch?v=5hBoLTuO2zI)
 - [Feel the Pain](https://www.youtube.com/watch?v=WCzUMOoEwTU)
+- [Fish (2017 - Remaster)](https://www.youtube.com/watch?v=TokQhnIFKI0)
 - [New Rose](https://www.youtube.com/watch?v=UkbIt1TsXZU)
-- [Fish](https://www.youtube.com/watch?v=_dnfYfYYZQU)
 - [1 of the 2](https://www.youtube.com/watch?v=hn3NrzjKGVo)
 - [So Messed Up](https://www.youtube.com/watch?v=_kBVKs4jqZc)
 - [See Her Tonite (2017 - Remaster)](https://www.youtube.com/watch?v=tFu0X8vskNM)

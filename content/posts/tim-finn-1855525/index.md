@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Tim Finn - Not Even Close (1989)
-{{< youtube id="KIAnj5YGh-E" title="Tim Finn - Not Even Close (1989)" >}}<br>
+### Tim Finn - How'm I Gonna Sleep (1989)
+{{< youtube id="ukUHtVVqQ8k" title="Tim Finn - How'm I Gonna Sleep (1989)" >}}<br>
 
 ### More Videos
 
-- [Tim Finn - How'm I Gonna Sleep (1989)](https://www.youtube.com/watch?v=ukUHtVVqQ8k)
+- [Tim Finn - Not Even Close (1989)](https://www.youtube.com/watch?v=KIAnj5YGh-E)
 - [TIM FINN & HERBS- Parihaka](https://www.youtube.com/watch?v=hLm0MFEIBLc)
 
 

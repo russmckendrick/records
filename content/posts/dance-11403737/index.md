@@ -44,12 +44,12 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Moral (Extended Version)
-{{< youtube id="NTZ9IV03ZLE" title="Moral (Extended Version)" >}}<br>
+### Slowcar to China
+{{< youtube id="ROGHXpApiwE" title="Slowcar to China" >}}<br>
 
 ### More Videos
 
-- [Slowcar to China](https://www.youtube.com/watch?v=ROGHXpApiwE)
+- [Moral (Extended Version)](https://www.youtube.com/watch?v=NTZ9IV03ZLE)
 - [Night Talk](https://www.youtube.com/watch?v=ZD-I0j-e-mU)
 - [A Subway Called 'You'](https://www.youtube.com/watch?v=udi3ox-s1QE)
 - [Cry the Clock Said](https://www.youtube.com/watch?v=Led64P0ZbLo)

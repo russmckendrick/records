@@ -41,14 +41,14 @@ styles: ["IDM", "Indie Rock"]
 
 
 ## Videos
-### Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))
-{{< youtube id="-i2Kn-EXh_A" title="Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))" >}}<br>
+### Super Furry Animals - (Drawing) Rings Around the World
+{{< youtube id="kZJIrF5OPGU" title="Super Furry Animals - (Drawing) Rings Around the World" >}}<br>
 
 ### More Videos
 
 - [Super Furry Animals - Juxtapozed with U (Video)](https://www.youtube.com/watch?v=dmCZ4f8NhOk)
 - [Super Furry Animals - Receptacle for the Respectable](https://www.youtube.com/watch?v=HpjMy_e8XlA)
-- [Super Furry Animals - (Drawing) Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
+- [Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
 
 
 ## Release Information

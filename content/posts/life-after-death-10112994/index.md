@@ -52,8 +52,8 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)
-{{< youtube id="ffhWSv2qwBc" title="The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)" >}}<br>
+### The Notorious B.I.G. - Kick in the Door (Official Audio)
+{{< youtube id="78SV9tguyVM" title="The Notorious B.I.G. - Kick in the Door (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -64,7 +64,7 @@ styles: ["Gangsta"]
 - [The Notorious B.I.G. - Mo Money Mo Problems (Official Music Video)](https://www.youtube.com/watch?v=gUhRKVIjJtw)
 - [The Notorious B.I.G. - Life After Death (Official Audio)](https://www.youtube.com/watch?v=lTtKkPgvQok)
 - [The Notorious B.I.G. - Somebody's Gotta Die (Official Audio)](https://www.youtube.com/watch?v=22YBfS3hLrg)
-- [The Notorious B.I.G. - Kick in the Door (Official Audio)](https://www.youtube.com/watch?v=78SV9tguyVM)
+- [The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)](https://www.youtube.com/watch?v=ffhWSv2qwBc)
 - [The Notorious B.I.G. - Niggas Bleed (Official Audio)](https://www.youtube.com/watch?v=hObvr_Iyl7k)
 - [The Notorious B.I.G. - Long Kiss Goodnight (Official Audio)](https://www.youtube.com/watch?v=7bluk086A2U)
 - [The Notorious B.I.G. - I Love The Dough (feat. Jay-Z and Angela Winbush) (Official Audio)](https://www.youtube.com/watch?v=I4Lwjz2CAFI)

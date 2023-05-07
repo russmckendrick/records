@@ -41,15 +41,15 @@ styles: ["Funk", "Soul"]
 
 
 ## Videos
-### El Michels Affair - Return To The 37th chamber (Full Album Stream)
-{{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber (Full Album Stream)" >}}<br>
+### El Michels Affair - Shaolin Brew
+{{< youtube id="AK5gDN8AfY0" title="El Michels Affair - Shaolin Brew" >}}<br>
 
 ### More Videos
 
+- [El Michels Affair - Return To The 37th chamber (Full Album Stream)](https://www.youtube.com/watch?v=KaIo14MUyfU)
 - [El Michels Affair - 4th Chamber - BC001-45 - Side A](https://www.youtube.com/watch?v=dfzbkTiOB-E)
 - [El Michels Affair - Iron Man](https://www.youtube.com/watch?v=g6Lk6YRS5b0)
 - [El Michels Affair - Tearz - BC008-45 - Side A](https://www.youtube.com/watch?v=dvPYQHLZdUk)
-- [El Michels Affair - Shaolin Brew](https://www.youtube.com/watch?v=AK5gDN8AfY0)
 - [El Michels Affair -  Return To The 37th Chamber -  07 Shadow Boxing](https://www.youtube.com/watch?v=lvktFx3k4Ts)
 - [El Michels Affair - Wu-Tang Clan Aint Nuthing Ta F Wit](https://www.youtube.com/watch?v=LNATIh11nPE)
 

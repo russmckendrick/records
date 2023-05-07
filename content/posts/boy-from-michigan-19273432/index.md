@@ -40,15 +40,15 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 
 
 ## Videos
-### John Grant - The Only Baby (Official Lyric Video)
-{{< youtube id="Lit7cPfkUYo" title="John Grant - The Only Baby (Official Lyric Video)" >}}<br>
+### John Grant - Boy from Michigan (Official Video)
+{{< youtube id="ecBpAwovikg" title="John Grant - Boy from Michigan (Official Video)" >}}<br>
 
 ### More Videos
 
-- [John Grant - Boy from Michigan (Official Video)](https://www.youtube.com/watch?v=ecBpAwovikg)
 - [Boy from Michigan (Edit)](https://www.youtube.com/watch?v=7MeIAn1vlcs)
 - [County Fair](https://www.youtube.com/watch?v=DonNLCCbl3c)
 - [John Grant - Billy (Official Video)](https://www.youtube.com/watch?v=6eHAg7TuYjw)
+- [John Grant - The Only Baby (Official Lyric Video)](https://www.youtube.com/watch?v=Lit7cPfkUYo)
 
 
 ## Release Information

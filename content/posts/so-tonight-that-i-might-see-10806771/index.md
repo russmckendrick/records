@@ -38,8 +38,8 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 
 
 ## Videos
-### So Tonight That I Might See
-{{< youtube id="gYbBL_3XLEM" title="So Tonight That I Might See" >}}<br>
+### Unreflected
+{{< youtube id="CZXUFYsKKSo" title="Unreflected" >}}<br>
 
 ### More Videos
 
@@ -50,9 +50,9 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 - [Mazzy Star - Fade Into You (Official Music Video)](https://www.youtube.com/watch?v=ImKY6TZEyrI)
 - [Blue Light](https://www.youtube.com/watch?v=H7VUO-WxppY)
 - [She's My Baby](https://www.youtube.com/watch?v=_AalUu5JY9M)
-- [Unreflected](https://www.youtube.com/watch?v=CZXUFYsKKSo)
 - [Wasted](https://www.youtube.com/watch?v=3XWj4YMWyjU)
 - [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
+- [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
 
 
 ## Release Information

@@ -51,8 +51,8 @@ styles: []
 
 
 ## Videos
-### Thundercat - 'Drunk'
-{{< youtube id="McA_CgwoG-w" title="Thundercat - 'Drunk'" >}}<br>
+### Thundercat - 'Walk On By (feat. Kendrick Lamar)'
+{{< youtube id="wV8HYokDWeE" title="Thundercat - 'Walk On By (feat. Kendrick Lamar)'" >}}<br>
 
 ### More Videos
 
@@ -60,7 +60,7 @@ styles: []
 - [Thundercat - Hi (feat. Mac Miller)](https://www.youtube.com/watch?v=_lRqsAVBonI)
 - [Thundercat - 'Them Changes' (Official Video)](https://www.youtube.com/watch?v=GNCd_ERZvZM)
 - [Thundercat - 'Friend Zone'](https://www.youtube.com/watch?v=FqE_H1A-8B4)
-- [Thundercat - 'Walk On By (feat. Kendrick Lamar)'](https://www.youtube.com/watch?v=wV8HYokDWeE)
+- [Thundercat - 'Drunk'](https://www.youtube.com/watch?v=McA_CgwoG-w)
 - [Thundercat - 'Drink Dat (feat. Wiz Khalifa)'](https://www.youtube.com/watch?v=_pxpTZpdZ-U)
 - [Thundercat - 'Uh Uh'](https://www.youtube.com/watch?v=9lHjeEkS1WE)
 - [Thundercat - 'A Fan's Mail (Tron Song Suite II)'](https://www.youtube.com/watch?v=g8f5CtP0nT4)

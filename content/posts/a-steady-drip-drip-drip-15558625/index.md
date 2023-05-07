@@ -42,17 +42,17 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 
 
 ## Videos
-### Pacific Standard Time
-{{< youtube id="zf6y7p2iauE" title="Pacific Standard Time" >}}<br>
+### SPARKS - All That - From The Album A Steady, Drip, Drip, Drip
+{{< youtube id="3ebYtDHlMDY" title="SPARKS - All That - From The Album A Steady, Drip, Drip, Drip" >}}<br>
 
 ### More Videos
 
 - [Sparks - I'm Toast (Unofficial Video)](https://www.youtube.com/watch?v=aJpfdcurYoQ)
 - [Sparks - iPhone (Official Video)](https://www.youtube.com/watch?v=C3CIDPuxwrY)
-- [SPARKS - All That - From The Album A Steady, Drip, Drip, Drip](https://www.youtube.com/watch?v=3ebYtDHlMDY)
 - [Sparks - Lawnmower (Official Video)](https://www.youtube.com/watch?v=tPSFpaCQEvA)
 - [Sparks - The Existential Threat (Official Video)](https://www.youtube.com/watch?v=dLxPIOxgkM0)
 - [Sparks - One for the Ages (Official Video)](https://www.youtube.com/watch?v=6DA95FFBJNs)
+- [Pacific Standard Time](https://www.youtube.com/watch?v=zf6y7p2iauE)
 - [Sparks - The Existential Threat (+ bonus How To Make A Music Video by Cyriak)](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
 
 

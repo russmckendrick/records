@@ -36,12 +36,12 @@ styles: ["Acoustic", "Folk"]
 
 
 ## Videos
-### William Patrick Corgan - The Spaniards
-{{< youtube id="e1ZnYLBKs-o" title="William Patrick Corgan - The Spaniards" >}}<br>
+### William Patrick Corgan - Aeronaut
+{{< youtube id="7PdZXNET88A" title="William Patrick Corgan - Aeronaut" >}}<br>
 
 ### More Videos
 
-- [William Patrick Corgan - Aeronaut](https://www.youtube.com/watch?v=7PdZXNET88A)
+- [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
 - [PILLBOX - Official Trailer (2017)](https://www.youtube.com/watch?v=ULv4EwpJlb8)
 
 

@@ -41,13 +41,13 @@ styles: []
 
 
 ## Videos
-### Fantastic Negrito - The Nigga Song
-{{< youtube id="yZn8NnCIX_s" title="Fantastic Negrito - The Nigga Song" >}}<br>
+### Fantastic Negrito - The Last Days of Oakland (Intro) [Official Audio]
+{{< youtube id="GMsMhI4P4Nw" title="Fantastic Negrito - The Last Days of Oakland (Intro) [Official Audio]" >}}<br>
 
 ### More Videos
 
 - [Fantastic Negrito - The Worst (Official Audio)](https://www.youtube.com/watch?v=4fDJlWxhyvw)
-- [Fantastic Negrito - The Last Days of Oakland (Intro) [Official Audio]](https://www.youtube.com/watch?v=GMsMhI4P4Nw)
+- [Fantastic Negrito - The Nigga Song](https://www.youtube.com/watch?v=yZn8NnCIX_s)
 - [Fantastic Negrito - Rant Rushmore (Official Audio)](https://www.youtube.com/watch?v=X9cIYWdL8EI)
 - [Fantastic Negrito - Lost in a Crowd (Official Audio)](https://www.youtube.com/watch?v=U4krMJ2lymk)
 - [Fantastic Negrito - Working Poor (Official Audio)](https://www.youtube.com/watch?v=C-8D55x83SU)

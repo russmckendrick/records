@@ -40,14 +40,13 @@ styles: ["Punk", "Synth-pop"]
 
 
 ## Videos
-### Zero Bars (Mr. Smith)
-{{< youtube id="vI-PCAlHSUo" title="Zero Bars (Mr. Smith)" >}}<br>
+### The Life Machine
+{{< youtube id="DSUJgPJIymU" title="The Life Machine" >}}<br>
 
 ### More Videos
 
 - [Listen To The Sirens](https://www.youtube.com/watch?v=iA6smLm8cog)
 - [My Shadow In Vain](https://www.youtube.com/watch?v=L1XohGWRQSQ)
-- [The Life Machine](https://www.youtube.com/watch?v=DSUJgPJIymU)
 - [Friends](https://www.youtube.com/watch?v=vv_NKfnmv6Y)
 - [Something's In The House](https://www.youtube.com/watch?v=lffjz6kf5fI)
 - [Every Day I Die](https://www.youtube.com/watch?v=w6gqcm3mMs4)
@@ -56,6 +55,7 @@ styles: ["Punk", "Synth-pop"]
 - [Are You Real?](https://www.youtube.com/watch?v=eMN6jyioL2I)
 - [The Dream Police](https://www.youtube.com/watch?v=yxsjjVHy4es)
 - [Jo the Waiter](https://www.youtube.com/watch?v=Ab-9LbTfLFc)
+- [Zero Bars (Mr. Smith)](https://www.youtube.com/watch?v=vI-PCAlHSUo)
 
 
 ## Release Information

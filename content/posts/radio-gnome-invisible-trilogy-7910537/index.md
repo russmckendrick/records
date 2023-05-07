@@ -63,13 +63,13 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 
 
 ## Videos
-### The Flying Teapot [Full Album]  1973
-{{< youtube id="8GWkSyHGL6U" title="The Flying Teapot [Full Album]  1973" >}}<br>
+### Gong - Flying Teapot
+{{< youtube id="k2Yc9mHCwRI" title="Gong - Flying Teapot" >}}<br>
 
 ### More Videos
 
 - [Gong_ Angel's Egg (1973) full album](https://www.youtube.com/watch?v=u0AhjPHGbLU)
-- [Gong - Flying Teapot](https://www.youtube.com/watch?v=k2Yc9mHCwRI)
+- [The Flying Teapot [Full Album]  1973](https://www.youtube.com/watch?v=8GWkSyHGL6U)
 
 
 ## Release Information

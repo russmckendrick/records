@@ -42,17 +42,17 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 
 
 ## Videos
-### Oceansize - Fear (Spratleys Japs cover)
-{{< youtube id="_TEIJX5H-xw" title="Oceansize - Fear (Spratleys Japs cover)" >}}<br>
+### The Stench of Honey
+{{< youtube id="3P1hLlVqyKc" title="The Stench of Honey" >}}<br>
 
 ### More Videos
 
+- [Oceansize - Fear (Spratleys Japs cover)](https://www.youtube.com/watch?v=_TEIJX5H-xw)
 - [Mikrokosmos - Is This The Life](https://www.youtube.com/watch?v=HHD4pRo_tdc)
 - [Is This the Life](https://www.youtube.com/watch?v=2PL-cS9aIPE)
 - [Founding](https://www.youtube.com/watch?v=Gw2ojxbzmYo)
 - [Day Is Gone](https://www.youtube.com/watch?v=nKKuOcPDJsQ)
 - [Wind and Rains Is Cold](https://www.youtube.com/watch?v=44jrPkCTQqU)
-- [The Stench of Honey](https://www.youtube.com/watch?v=3P1hLlVqyKc)
 - [Up in Annie's Room](https://www.youtube.com/watch?v=Bwzjuz4B_sY)
 - [Let Alone My Plastic Doll](https://www.youtube.com/watch?v=v_-vSEJ9IDU)
 - [Big Ship](https://www.youtube.com/watch?v=fMxcqGFwntk)

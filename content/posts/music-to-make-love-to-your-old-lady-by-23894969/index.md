@@ -44,8 +44,8 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 
 
 ## Videos
-### Lovage - Strangers on a Train
-{{< youtube id="9jmK_UTXafs" title="Lovage - Strangers on a Train" >}}<br>
+### Koala's Lament
+{{< youtube id="vqXggr9cBec" title="Koala's Lament" >}}<br>
 
 ### More Videos
 
@@ -54,6 +54,7 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Lovage - Everyone Has A Summer - Music To Make Love To Your Old Lady By - 2001](https://www.youtube.com/watch?v=iTeHE1zKnHg)
 - [Lovage Book of the Month  (full video)](https://www.youtube.com/watch?v=KwBRkN9__uc)
 - [Lovage- Stroker Ace](https://www.youtube.com/watch?v=PIZboBSZiYg)
+- [Lovage - Strangers on a Train](https://www.youtube.com/watch?v=9jmK_UTXafs)
 - [Pit Stop (Take Me Home)](https://www.youtube.com/watch?v=y3Hm8wJ55wQ)
 - [Lovage / Music To Make Love To Your Old Lady By - Instrumental (Full Album)](https://www.youtube.com/watch?v=CbyRp4CX5_0)
 - [Lovage - Stroker Ace](https://www.youtube.com/watch?v=6uUvjdSHWeQ)
@@ -70,7 +71,6 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Strangers on a Train](https://www.youtube.com/watch?v=7KjrrBaNljg)
 - [Lovage (Love That Lovage, Baby)](https://www.youtube.com/watch?v=4ZAxmoRbiBE)
 - [Sex (I'm A)](https://www.youtube.com/watch?v=TV49MerPUb8)
-- [Koala's Lament](https://www.youtube.com/watch?v=vqXggr9cBec)
 - [Tea Time With Maseo](https://www.youtube.com/watch?v=j_I4u6qAK3k)
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
 - [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)

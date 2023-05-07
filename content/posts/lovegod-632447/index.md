@@ -39,15 +39,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Supercherry (Remastered)
-{{< youtube id="MjjsiSarij4" title="Supercherry (Remastered)" >}}<br>
+### The Soup Dragons - Lovegod
+{{< youtube id="R6Xu9O4pzyw" title="The Soup Dragons - Lovegod" >}}<br>
 
 ### More Videos
 
 - [Backwards Dog (Remastered)](https://www.youtube.com/watch?v=-4wDQoLFF9U)
 - [The Soup Dragons Sweetmeat](https://www.youtube.com/watch?v=vAyiOebGUS4)
 - [The Soup Dragons - I'm Free](https://www.youtube.com/watch?v=hSWbpVjwQGM)
-- [The Soup Dragons - Lovegod](https://www.youtube.com/watch?v=R6Xu9O4pzyw)
+- [Supercherry (Remastered)](https://www.youtube.com/watch?v=MjjsiSarij4)
 - [Drive The Pain (Remastered)](https://www.youtube.com/watch?v=8ZRvi69hRB8)
 - [Softly (Remastered)](https://www.youtube.com/watch?v=eOxRrBbrPXs)
 - [The Soup Dragons - Love you to Death](https://www.youtube.com/watch?v=IMB-tkFSUSc)

@@ -43,8 +43,8 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 
 
 ## Videos
-### B-Boy Bouillabaisse: A.W.O.L.
-{{< youtube id="oXvXcecHg_E" title="B-Boy Bouillabaisse: A.W.O.L." >}}<br>
+### The Sounds Of Science
+{{< youtube id="Y90N5XsasN0" title="The Sounds Of Science" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,6 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 - [Johnny Ryall](https://www.youtube.com/watch?v=PaE3JTPVKdc)
 - [Egg Man](https://www.youtube.com/watch?v=-OgG0GwT-uY)
 - [High Plains Drifter](https://www.youtube.com/watch?v=WVIbke4NTrg)
-- [The Sounds Of Science](https://www.youtube.com/watch?v=Y90N5XsasN0)
 - [3-Minute Rule](https://www.youtube.com/watch?v=itStM-gwUyU)
 - [Beastie Boys - Hey Ladies](https://www.youtube.com/watch?v=Naf5uJYGoiU)
 - [5-Piece Chicken Dinner](https://www.youtube.com/watch?v=D1SLYttJ4wg)
@@ -70,6 +69,7 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 - [B-Boy Bouillabaisse: Dropping Names](https://www.youtube.com/watch?v=Bji0w5iGDQ8)
 - [B-Boy Bouillabaisse: Lay It On Me](https://www.youtube.com/watch?v=gxmgxcEouNg)
 - [B-Boy Bouillabaisse: Mike On The Mic](https://www.youtube.com/watch?v=tpSLyTwhjr8)
+- [B-Boy Bouillabaisse: A.W.O.L.](https://www.youtube.com/watch?v=oXvXcecHg_E)
 
 
 ## Release Information

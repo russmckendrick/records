@@ -41,15 +41,14 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 
 
 ## Videos
-### Reel People feat. Tony Momrelle - Golden Lady (Album Mix)
-{{< youtube id="SgLR1ylOZC8" title="Reel People feat. Tony Momrelle - Golden Lady (Album Mix)" >}}<br>
+### Have a Talk with God
+{{< youtube id="6nWImSfuoYQ" title="Have a Talk with God" >}}<br>
 
 ### More Videos
 
 - [Keep On Running](https://www.youtube.com/watch?v=4qPfGgjCLns)
 - [Buttercup](https://www.youtube.com/watch?v=-adgKAoLRL4)
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
-- [Have a Talk with God](https://www.youtube.com/watch?v=6nWImSfuoYQ)
 - [Just A Little Piece Of You](https://www.youtube.com/watch?v=EK3C8a8NUPY)
 - [If She Breaks Your Heart](https://www.youtube.com/watch?v=cd1enmm-gDw)
 - [05 Sunlightsquare - Pastime Paradise [Sunlightsquare Records]](https://www.youtube.com/watch?v=eLlddfdAHvk)
@@ -59,6 +58,7 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 - [As](https://www.youtube.com/watch?v=46_-ZhVaGjA)
 - [David Porter - I Don't Know Why I Love You (Official Visualizer)](https://www.youtube.com/watch?v=9tHSJg3qGi0)
 - [Make My Water Boil (Loving You Has Been So Wonderful)](https://www.youtube.com/watch?v=V11ackF41qk)
+- [Reel People feat. Tony Momrelle - Golden Lady (Album Mix)](https://www.youtube.com/watch?v=SgLR1ylOZC8)
 - [Quincy Jones feat. Patti Austin - Betcha' Wouldn't Hurt Me](https://www.youtube.com/watch?v=iNkHNqr6VYM)
 - [If You Don't Love Me](https://www.youtube.com/watch?v=VyYTPokWkHY)
 - [Go Home](https://www.youtube.com/watch?v=cVc-1zwqtbk)

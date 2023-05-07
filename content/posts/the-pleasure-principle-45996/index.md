@@ -38,19 +38,19 @@ styles: ["Synth-pop", "New Wave"]
 
 
 ## Videos
-### Conversation (Remastered 2009)
-{{< youtube id="7_kIjBaxhO0" title="Conversation (Remastered 2009)" >}}<br>
+### Complex
+{{< youtube id="QKAb_J_NGyQ" title="Complex" >}}<br>
 
 ### More Videos
 
 - [GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album](https://www.youtube.com/watch?v=KJmujhpDslY)
 - [Airlane (Remastered 2009)](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
 - [Metal (Remastered 2009)](https://www.youtube.com/watch?v=ZmZ6_tbLgXM)
-- [Complex](https://www.youtube.com/watch?v=QKAb_J_NGyQ)
 - [Films (Remastered 2009)](https://www.youtube.com/watch?v=6HbIGk6zH_k)
 - [M.E. (Remastered 2009)](https://www.youtube.com/watch?v=-C_ijHitM-Q)
 - [Tracks (Remastered 2009)](https://www.youtube.com/watch?v=uTgDYuOmUW0)
 - [Observer (Remastered 2009)](https://www.youtube.com/watch?v=iOwiOhBusgs)
+- [Conversation (Remastered 2009)](https://www.youtube.com/watch?v=7_kIjBaxhO0)
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 

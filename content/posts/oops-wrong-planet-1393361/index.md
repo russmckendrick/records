@@ -37,17 +37,17 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Videos
-### Utopia - Crazy Lady Blue
-{{< youtube id="QxeGZuwgPEU" title="Utopia - Crazy Lady Blue" >}}<br>
+### Windows // Utopia 1977
+{{< youtube id="1m08iCofGoA" title="Windows // Utopia 1977" >}}<br>
 
 ### More Videos
 
 - [Utopia - Abandon City](https://www.youtube.com/watch?v=Wyiu68va3mA)
 - [Utopia-My angel](https://www.youtube.com/watch?v=GpW8WXlC094)
-- [Windows // Utopia 1977](https://www.youtube.com/watch?v=1m08iCofGoA)
 - [Todd Rundgren & Utopia - The Martyr](https://www.youtube.com/watch?v=Sel6IHexvng)
 - [Utopia - Love Is The Answer](https://www.youtube.com/watch?v=YadkaBwxazE)
 - [Utopia- Trapped](https://www.youtube.com/watch?v=tOAdhIWpgk8)
+- [Utopia - Crazy Lady Blue](https://www.youtube.com/watch?v=QxeGZuwgPEU)
 
 
 ## Release Information

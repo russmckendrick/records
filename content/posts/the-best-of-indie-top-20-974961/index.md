@@ -47,17 +47,17 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 
 
 ## Videos
-### The Wedding Present Why Are You Being So Reasonable Now? promo video
-{{< youtube id="NEjiGjVyFPc" title="The Wedding Present Why Are You Being So Reasonable Now? promo video" >}}<br>
+### Sugar cubes Regina
+{{< youtube id="PznnQ9nhWFU" title="Sugar cubes Regina" >}}<br>
 
 ### More Videos
 
 - [The Pixies - Monkey Gone To Heaven](https://www.youtube.com/watch?v=XycBLF6kWuY)
 - [24 Hour Party People - Happy Mondays [Song]](https://www.youtube.com/watch?v=N7sa9r0mvBs)
+- [The Wedding Present Why Are You Being So Reasonable Now? promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
 - [Paris Angels - Perfume (All On You)](https://www.youtube.com/watch?v=x-iUiIL1oLI)
 - [The Shamen - ProGen (Beatmasters 7 Edit)](https://www.youtube.com/watch?v=U8Stq8mhLas)
 - [THE SUNDAYS-JOY.wmv](https://www.youtube.com/watch?v=FjoIRnJB2IA)
-- [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
 - [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
 

@@ -40,11 +40,12 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 
 
 ## Videos
-### The Beta Band - 'Out-Side'
-{{< youtube id="XQceoURGvIQ" title="The Beta Band - 'Out-Side'" >}}<br>
+### The Beta Band: Pure For
+{{< youtube id="jSrAGwejnb0" title="The Beta Band: Pure For" >}}<br>
 
 ### More Videos
 
+- [The Beta Band - 'Out-Side'](https://www.youtube.com/watch?v=XQceoURGvIQ)
 - [The Beta Band - Assessment (Official Music Video)](https://www.youtube.com/watch?v=5XdUt3iIkZ4)
 - [The Beta Band - Simple](https://www.youtube.com/watch?v=Gz3kBDOL5Po)
 - [Beta Band - Lion Thief](https://www.youtube.com/watch?v=2iwRrUhBzVM)
@@ -54,7 +55,6 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 - [The Beta Band - Easy](https://www.youtube.com/watch?v=-ySuIK7wQzE)
 - [The Beta Band: Space Beatle](https://www.youtube.com/watch?v=mA4_NucHWc4)
 - [liquid bird - the beta band](https://www.youtube.com/watch?v=T58NXjt1tiE)
-- [The Beta Band: Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
 - [The Beta Band - Troubles+lyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
 
 

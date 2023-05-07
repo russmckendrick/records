@@ -35,13 +35,13 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### Primus - The Seven (Official Lyric Video)
-{{< youtube id="kZVToL4LhDQ" title="Primus - The Seven (Official Lyric Video)" >}}<br>
+### Primus - The Rainbow Goblins Chapter 7 (The Ends?)
+{{< youtube id="zH0ciOB9Fgw" title="Primus - The Rainbow Goblins Chapter 7 (The Ends?)" >}}<br>
 
 ### More Videos
 
-- [Primus - The Rainbow Goblins Chapter 7 (The Ends?)](https://www.youtube.com/watch?v=zH0ciOB9Fgw)
 - [Primus - The Seven (Official Audio)](https://www.youtube.com/watch?v=jw95wlggfYM)
+- [Primus - The Seven (Official Lyric Video)](https://www.youtube.com/watch?v=kZVToL4LhDQ)
 - [Primus - The Desaturating Seven [Full Album]](https://www.youtube.com/watch?v=yLhJYYRx_9k)
 - [Primus - The Trek - (The Desaturating Seven)](https://www.youtube.com/watch?v=25ofF3O6Rz8)
 - [Primus - The Rainbow Goblins Chapter 1 (The Valley)](https://www.youtube.com/watch?v=Ui0Y0fVRjzU)

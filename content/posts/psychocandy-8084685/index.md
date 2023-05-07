@@ -42,8 +42,8 @@ styles: ["Noise"]
 
 
 ## Videos
-### Taste of Cindy
-{{< youtube id="QGn9hISJ0wU" title="Taste of Cindy" >}}<br>
+### In a Hole
+{{< youtube id="F9rXf0UxBPM" title="In a Hole" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["Noise"]
 - [Taste the Floor](https://www.youtube.com/watch?v=sz7pwUwabmo)
 - [The Hardest Walk](https://www.youtube.com/watch?v=iZ6Vk0yviTA)
 - [Cut Dead](https://www.youtube.com/watch?v=iFw_jFtJ7sw)
-- [In a Hole](https://www.youtube.com/watch?v=F9rXf0UxBPM)
+- [Taste of Cindy](https://www.youtube.com/watch?v=QGn9hISJ0wU)
 - [Inside Me](https://www.youtube.com/watch?v=y1Beh6xQu4k)
 - [Sowing Seeds](https://www.youtube.com/watch?v=9-HHsMa_fw0)
 - [My Little Underground](https://www.youtube.com/watch?v=HYZDSURXqqY)

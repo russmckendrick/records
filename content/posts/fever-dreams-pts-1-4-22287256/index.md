@@ -48,14 +48,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]
-{{< youtube id="-8NMZguzcx0" title="Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]" >}}<br>
+### Johnny Marr - Sensory Street (Official Lyric Video)
+{{< youtube id="9jlL9cCSGgg" title="Johnny Marr - Sensory Street (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
+- [Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=-8NMZguzcx0)
 - [Johnny Marr - Spirit Power and Soul (Official Video)](https://www.youtube.com/watch?v=qeqBn3BAMag)
 - [Johnny Marr – Complete B Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=40bUdPVakXA)
-- [Johnny Marr - Sensory Street (Official Lyric Video)](https://www.youtube.com/watch?v=9jlL9cCSGgg)
 - [Johnny Marr - Night and Day (Official Video)](https://www.youtube.com/watch?v=xuOocn__zVo)
 - [Johnny Marr – Complete C Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=cCG006B34UY)
 - [Johnny Marr – Complete D Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=z32vdSmuPSs)

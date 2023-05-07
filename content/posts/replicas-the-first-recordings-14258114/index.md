@@ -48,8 +48,8 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Replicas (Early Version 2)
-{{< youtube id="R0I3iGhfZgk" title="Replicas (Early Version 2)" >}}<br>
+### Only a Downstat
+{{< youtube id="cYA9DQXyH5E" title="Only a Downstat" >}}<br>
 
 ### More Videos
 
@@ -62,13 +62,13 @@ styles: ["New Wave"]
 - [Me, I Disconnect from You (Early Version)](https://www.youtube.com/watch?v=p9BIiWFzo4c)
 - [Praying to the Aliens (Early Version)](https://www.youtube.com/watch?v=yDPj-zofgDo)
 - [It Must Have Been Years (Early Version)](https://www.youtube.com/watch?v=0XUG457PIGk)
-- [Only a Downstat](https://www.youtube.com/watch?v=cYA9DQXyH5E)
 - [I Nearly Married a Human 3 (Early Version)](https://www.youtube.com/watch?v=jPbkfPF_hm8)
 - [Replicas (Early Version)](https://www.youtube.com/watch?v=aY7QRyt0qMk)
 - [Are 'Friends' Electric? (Early Version)](https://www.youtube.com/watch?v=yb-zvwA0994)
 - [We Have a Technical](https://www.youtube.com/watch?v=PXHObgshCK8)
 - [Down in the Park (Outtake Mix)](https://www.youtube.com/watch?v=0IKq5ICT2Xc)
 - [Are 'Friends' Electric? (Early Version 2)](https://www.youtube.com/watch?v=VRqpSgnuR1c)
+- [Replicas (Early Version 2)](https://www.youtube.com/watch?v=R0I3iGhfZgk)
 - [Me! I Disconnect from You (BBC Peel Sessions)](https://www.youtube.com/watch?v=9okbA3gWP1Y)
 - [Down in the Park (BBC Peel Sessions)](https://www.youtube.com/watch?v=Wdl5--cSVe8)
 - [I Nearly Married a Human (BBC Peel Sessions)](https://www.youtube.com/watch?v=NTMKk8GrN4M)

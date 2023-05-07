@@ -39,13 +39,13 @@ styles: ["Hard Rock", "Classic Rock"]
 
 
 ## Videos
-### Thunder- Backstreet Symphony (album version)
-{{< youtube id="G6NxKb9r_oA" title="Thunder- Backstreet Symphony (album version)" >}}<br>
+### Thunder - Love Walked In
+{{< youtube id="R-VVfcnvpAA" title="Thunder - Love Walked In" >}}<br>
 
 ### More Videos
 
 - [Thunder - She's so fine](https://www.youtube.com/watch?v=RprKusE4DF8)
-- [Thunder - Love Walked In](https://www.youtube.com/watch?v=R-VVfcnvpAA)
+- [Thunder- Backstreet Symphony (album version)](https://www.youtube.com/watch?v=G6NxKb9r_oA)
 
 
 ## Release Information

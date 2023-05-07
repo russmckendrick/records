@@ -70,8 +70,8 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### Motörhead - Everything Louder Forever - The Very Best Of Album Info
-{{< youtube id="7v5-lV3UKiw" title="Motörhead - Everything Louder Forever - The Very Best Of Album Info" >}}<br>
+### MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl.
+{{< youtube id="_Sz3tiWxalI" title="MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl." >}}<br>
 
 ### More Videos
 
@@ -80,7 +80,6 @@ styles: ["Heavy Metal"]
 - [Motörhead – We Are Motörhead (Official Video)](https://www.youtube.com/watch?v=rrtYh-E7B-E)
 - [Motörhead – ‘Everything Louder Forever – The Very Best Of’ 2CD & 2LP unboxing](https://www.youtube.com/watch?v=hVLg1xeJEpY)
 - [Motörhead – Rock Out (Official Video)](https://www.youtube.com/watch?v=tHV7AwkzYWg)
-- [MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl.](https://www.youtube.com/watch?v=_Sz3tiWxalI)
 - [Motörhead – Whorehouse Blues (Official Video)](https://www.youtube.com/watch?v=6fQc57t7VSA)
 - [MOTORHEAD Best Song 2121 - Greatest Hit Of Motorhead Full Album](https://www.youtube.com/watch?v=s-vgBwNv_Wo)
 - [Motörhead – Life’s A Bitch (Official Video)](https://www.youtube.com/watch?v=vD0VJV6srao)
@@ -88,6 +87,7 @@ styles: ["Heavy Metal"]
 - [Motörhead – I Don’t Believe A Word (Official Video)](https://www.youtube.com/watch?v=Qs-n-rtd-PI)
 - [Motörhead – Be My Baby (Official Video)](https://www.youtube.com/watch?v=RRqwCtttvuc)
 - [Обзор виниловой пластинки Motorhead - Everything Louder Forever (The Very Best Of)](https://www.youtube.com/watch?v=teHrdPXQQBE)
+- [Motörhead - Everything Louder Forever - The Very Best Of Album Info](https://www.youtube.com/watch?v=7v5-lV3UKiw)
 - [God Save the Queen](https://www.youtube.com/watch?v=sqG-_9uYNkM)
 - [Motörhead – God Save The Queen (Official Video)](https://www.youtube.com/watch?v=Qa1wdUkeuvE)
 - [Motörhead – The Chase Is Better Than The Catch (Official Video)](https://www.youtube.com/watch?v=PktB0bxo2oQ)

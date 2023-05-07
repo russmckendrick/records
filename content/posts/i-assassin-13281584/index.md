@@ -36,8 +36,8 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Gary Numan / I, Assassin / Noise Noise  (Audio)
-{{< youtube id="7fADQl-x-dQ" title="Gary Numan / I, Assassin / Noise Noise  (Audio)" >}}<br>
+### Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)
+{{< youtube id="_JL6fXPNA-Y" title="Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Electro", "Synth-pop"]
 - [A Dream of Siam](https://www.youtube.com/watch?v=i0Xpc62vASU)
 - [This House Is Cold](https://www.youtube.com/watch?v=9ZpdwtYphMc)
 - [Music for Chameleons](https://www.youtube.com/watch?v=qseh-XKWvig)
+- [Gary Numan / I, Assassin / Noise Noise  (Audio)](https://www.youtube.com/watch?v=7fADQl-x-dQ)
 - [This Is My House](https://www.youtube.com/watch?v=PhEeiju5XYw)
-- [Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)](https://www.youtube.com/watch?v=_JL6fXPNA-Y)
 - [I, Assassin](https://www.youtube.com/watch?v=Swva7YEvDsk)
 - [Bridge? What Bridge?](https://www.youtube.com/watch?v=8X5yt6h3Bks)
 - [The 1930's Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)

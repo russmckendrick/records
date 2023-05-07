@@ -32,9 +32,6 @@ styles: []
 
 <!-- section break -->
 
-
-
-
 ## Videos
 ### De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker
 {{< youtube id="DpkDu0XEu74" title="De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker" >}}<br>
