@@ -1,4 +1,4 @@
-baseURL = 'http://www.mckendrick.rocks/'
+baseURL = 'https://www.mckendrick.rocks/'
 languageCode = 'en-gb'
 title = 'McKendrickRocks'
 theme = "rocks"
