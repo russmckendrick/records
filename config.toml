@@ -34,13 +34,16 @@ enableRobotsTXT = true
     weight = 22
   [[menu.main]]
     name = "Source Code"
-    url = "https://github.com/russmckendrick/discogs-scraper"
+    url = "https://github.com/russmckendrick/records/"
     weight = 100
   [[menu.main]]
     name = "Search"
     url = "/search/"
     weight = 11
-
+  [[menu.main]]
+    name = "Random Album"
+    url = "/random/"
+    weight = 12
 
 [taxonomies]
   artists = "artist"

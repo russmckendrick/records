@@ -1,0 +1,4 @@
+---
+title: "Random"
+layout: "random"
+---

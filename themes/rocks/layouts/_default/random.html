@@ -1,0 +1,82 @@
+{{ define "main" }}
+
+
+<!-- random.html -->
+
+
+<section id="banner" class="style3">
+    <div class="inner">
+        <header class="major">
+            <h1 id="album-title"></h1>
+        </header>
+        <div class="content">
+            <p><button class ="button primary large" id="get-random-album">Grab Another Random Album</button></p>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Main -->
+<div id="main">
+
+    <section id="two" class="spotlights">
+        <section>
+            <a href="generic.html" class="image">
+                <img id="album-image" alt="Album cover" data-position="center
+                    center">
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3><span id="album-album"></span> by <span
+                                id="album-artist"></span></h3>
+                    </header>
+                    <p>Date added: <span id="album-date"></span></p>
+                    <ul class="actions">
+                        <li><a href="generic.html" class="button">Goto Album</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <script>
+        const albumsUrl = "/index.json";
+        const albumTitleEl = document.getElementById('album-title');
+        const albumArtistEl = document.getElementById('album-artist');
+        const albumAlbumEl = document.getElementById('album-album');
+        const albumImageEl = document.getElementById('album-image');
+        const albumDateEl = document.getElementById('album-date');
+        const getRandomAlbumBtn = document.getElementById('get-random-album');
+        let albums;
+
+        fetch(albumsUrl)
+            .then(response => response.text())
+            .then(data => {
+                data = data.replace(/&nbsp;/g, ' '); // replace non-breaking space characters with regular spaces
+                albums = JSON.parse(data).documents;
+                getRandomAlbum();
+            })
+            .catch(error => console.error(error)); // log any errors to the console
+
+        function getRandomAlbum() {
+            const randomIndex = Math.floor(Math.random() * albums.length);
+            const randomAlbum = albums[randomIndex];
+
+            albumTitleEl.textContent = randomAlbum.title;
+            albumArtistEl.textContent = randomAlbum.artist;
+            albumAlbumEl.textContent = randomAlbum.album;
+            albumImageEl.src = randomAlbum.coverImage;
+            albumImageEl.alt = randomAlbum.album + ' cover';
+            albumDateEl.textContent = randomAlbum.date;
+            const genericLinks = document.querySelectorAll("a[href='generic.html']");
+            genericLinks.forEach(link => link.href = randomAlbum.uri);
+        }
+
+        getRandomAlbumBtn.addEventListener('click', getRandomAlbum);
+    </script>
+
+
+{{ end }}
