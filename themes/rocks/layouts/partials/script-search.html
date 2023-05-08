@@ -1,0 +1,70 @@
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+  var index = null;
+  var store = null;
+
+  function doSearch(query) {
+    if (!index || !store) {
+      return;
+    }
+
+    var results = index.search(query).map(function (result) {
+      return store[result.ref];
+    });
+
+    var searchResultsContainer = document.getElementById("search-results");
+    searchResultsContainer.innerHTML = '<section id="two" class="spotlights"></section>';
+    var spotlightsSection = searchResultsContainer.querySelector("#two");
+
+    results.forEach(function (result, index) {
+      var imagePosition = index % 2 === 0 ? "center center" : "top center";
+      var resultElement = document.createElement("section");
+      resultElement.innerHTML = `
+        <a href="${result.uri}" class="image">
+          <img src="${result.coverImage}" alt="" data-position="${imagePosition}" />
+        </a>
+        <div class="content">
+          <div class="inner">
+            <header class="major">
+              <h3>${result.album}</h3>
+            </header>
+            <p>Added: ${result.date}</p>
+            <ul class="actions">
+              <li><a href="${result.uri}" class="button">View album</a></li>
+            </ul>
+          </div>
+        </div>`;
+      spotlightsSection.appendChild(resultElement);
+    });
+  }
+
+  fetch("{{ "index.json" | absURL }}")
+    .then(function (response) {
+      return response.json();
+    })
+    .then(function (data) {
+      store = {};
+      data.documents.forEach(function (doc) {
+        store[doc.uri] = doc;
+      });
+
+      index = lunr(function () {
+        this.ref("uri");
+        this.field("title");
+        this.field("artist");
+        this.field("album");
+        this.field("date");
+        this.field("coverImage");
+        this.field("artistImage");
+        this.field("artistUri");
+
+        data.documents.forEach(function (doc) {
+          this.add(doc);
+        }, this);
+      });
+
+      document.getElementById("search").addEventListener("input", function (event) {
+        doSearch(event.target.value);
+      });
+    });
+</script>

@@ -19,23 +19,28 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 10
   [[menu.main]]
     name = "Artists"
     url = "/artist/"
-    weight = 2
+    weight = 20
   [[menu.main]]
     name = "Styles"
     url = "/styles/"
-    weight = 3
+    weight = 21
   [[menu.main]]
     name = "Genres"
     url = "/genres/"
-    weight = 4
+    weight = 22
   [[menu.main]]
     name = "Source Code"
     url = "https://github.com/russmckendrick/discogs-scraper"
-    weight = 5
+    weight = 100
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 11
+
 
 [taxonomies]
   artists = "artist"
@@ -46,3 +51,6 @@ enableRobotsTXT = true
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] 

@@ -5,12 +5,15 @@
       <header class="major">
         <h1>{{ .Title }}</h1>
       </header>
+      {{ if eq .Title "Artist" }}
       <nav>
         {{- $letters := split "#ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
         {{ range $letters }}
           <a href="#{{ . }}">{{ . }}</a>{{ if not (eq . "Z") }}, {{ end }}
         {{ end }}
       </nav>
+    {{ end }}
+    
     </div>
   </section>
   <section id="two" class="spotlights">
