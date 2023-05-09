@@ -35,6 +35,13 @@ styles: ["House"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/belief/1629118508" >}}
+
+
+
+
+
 ## Videos
 ### BELIEF - DREAMS (OFFICIAL VIDEO)
 {{< youtube id="xAphjKTK1sk" title="BELIEF - DREAMS (OFFICIAL VIDEO)" >}}<br>

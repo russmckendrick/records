@@ -41,8 +41,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="667R6KITRrms7zJCYDNCmc" width="100%" height="500" >}}
+Apart from their clever art-pop, Sunderland, England’s Field Music have made a secondary career commissioning their music for various media and art institutions. After a 2019 audio-visual performance commemorating the World War I armistice centenary for the Imperial War Museum, David and Peter Brewis used the project as a jumping-off point to begin their seventh studio album. Focusing on war and its life-altering consequences, this loosely conceptual song cycle returns to the terse progressive arrangements of 2012’s Mercury Prize-nominated <i>Plumb</i>. The songs are subject to open interpretation, alluding to war narrative tropes and fleshing out the people behind them: the soldier who returns home (“Coffee or Wine”); an office worker preparing the final payment of war reparations (“Money Is a Memory”); a family that settle in through a subsidised housing scheme (“Best Kept Garden”). The swaggering funk of “Only in a Man’s World” is a commentary on how society views the use of sanitary pads, and how its marketing towards women hasn’t changed—just one example of how the innovations and advancements of the time still impact us today.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/making-a-new-world/1476733640" >}}
+
+
 
 
 

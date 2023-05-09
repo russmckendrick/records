@@ -45,8 +45,12 @@ styles: ["Classic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6t2iNN1eyys71UV7eW9i7O" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/us-them/1517099398" >}}
+
+
 
 
 

@@ -26,6 +26,13 @@ styles: ["Jazz-Funk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beatmaker-single/1597038144" >}}
+
+
+
+
+
 ## Videos
 ### Beatmaker
 {{< youtube id="30ZQP2INn48" title="Beatmaker" >}}<br>

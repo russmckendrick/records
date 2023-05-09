@@ -32,8 +32,12 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3P1GcnqfInTkdYYC2cK0vJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/white-bear/1037063159" >}}
+
+
 
 
 

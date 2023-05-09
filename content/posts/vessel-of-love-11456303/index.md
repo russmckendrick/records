@@ -32,8 +32,12 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="29Aplj5QoUFYcasz1z83Xu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vessel-of-love/1289767295" >}}
+
+
 
 
 

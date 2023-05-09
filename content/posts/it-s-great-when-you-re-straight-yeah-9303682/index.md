@@ -32,8 +32,12 @@ styles: ["Pop Rock", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3A0BH6NwwS00OMn59A6rnE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/its-great-when-youre-straight-yeah/1442232066" >}}
+
+
 
 
 

@@ -34,8 +34,14 @@ styles: ["Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5s7h5WHFK2QzS2tZ6KQ9aB" width="100%" height="500" >}}
+On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon," <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls," and spartan ballads, like the piano-based "The Meadow." Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-lookout/1336461182" >}}
+
+
 
 
 

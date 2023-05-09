@@ -57,6 +57,13 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/singles-collection-1979-2012/1442469562" >}}
+
+
+
+
+
 ## Videos
 ### Killing Joke Timewave
 {{< youtube id="zjaTN6ROjrI" title="Killing Joke Timewave" >}}<br>

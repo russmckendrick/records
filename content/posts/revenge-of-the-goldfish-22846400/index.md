@@ -36,6 +36,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/revenge-of-the-goldfish/1145592944" >}}
+
+
+
+
+
 ## Videos
 ### Inspiral Carpets - Generations (Official HD Video)
 {{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations (Official HD Video)" >}}<br>

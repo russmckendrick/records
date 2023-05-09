@@ -73,8 +73,12 @@ styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="60Yx1xATvlWpAMzsBMMTSE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-platinum-collection/1440821736" >}}
+
+
 
 
 

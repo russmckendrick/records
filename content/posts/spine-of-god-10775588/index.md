@@ -32,8 +32,12 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5p41F9RwcmPhg7KImkOhyH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/spine-of-god/1246231213" >}}
+
+
 
 
 

@@ -157,6 +157,13 @@ styles: ["Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/loving-the-alien-1983-1988-remastered/1416872602" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

@@ -42,8 +42,11 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}
+
 
 
 

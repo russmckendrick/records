@@ -33,8 +33,15 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4ZUryKKDhiMXcD4fluAEhl" width="100%" height="500" >}}
+Beck’s 14th full-length album takes its name from a special feature found in the classic 1979 video game Asteroids. “I remember this point where you’re gonna get killed in the game,” he tells Apple Music, “and [hitting] this button would make you disappear and reappear somewhere safe. Just in general, I think we could all use that button.”<br />
+<i>Hyperspace</i> finds the pioneering singer-songwriter joining with Pharrell Williams (who co-wrote and co-produced seven of its 11 tracks) for a set of surrealist synth-pop that feels worlds away from anywhere, let alone the directness of 2017’s <i>Colors</i>. Where that record felt like it might burst at the seams, Beck luxuriates in negative space and ambiguity here. “Stratosphere”—which features well-hidden backup vocals from Coldplay frontman Chris Martin—sounds like it was recorded at that exact altitude, its synths coming and going like condensation on glass. The equally haunting “Uneventful Days” feels like a message from the in-between. “I couldn’t quite place what it was,” he says of the song. “It’s like those moments in the aftermath of a period of time. Like a new job in a new town. You’re standing in an empty apartment, staring out the window at a palm tree.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hyperspace/1482861953" >}}
+
+
 
 
 

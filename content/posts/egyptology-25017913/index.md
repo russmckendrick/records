@@ -42,8 +42,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5NfPEtvBa7f9a9l8mp58Wz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/egyptology/710934487" >}}
+
+
 
 
 

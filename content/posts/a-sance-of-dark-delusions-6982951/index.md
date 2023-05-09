@@ -31,8 +31,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1nvdOtFuIoL0witOuuQwqZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-s%C3%A9ance-of-dark-delusions/985590300" >}}
+
+
 
 
 

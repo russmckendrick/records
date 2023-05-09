@@ -32,6 +32,15 @@ styles: []
 <!-- section break -->
 
 
+Like many of Neil Young's protest albums before it, <i>The Visitor</i> is another pull-no-punches affair, packing some of his most potent political statements to date. "I’m Canadian, by the way/And I love the USA,” he sings on “Already Great,” likening his adopted home to “the promised land… the helping hand” over sludgy piano and guitar. Then, with caustic wit, he plays an anti-environmentalist pipeline foreman on “Fly by Night Deal." But Young saves his most pointed jab for the languid, bluesy stomper “When Bad Got Good,” leading the band in a chant: “He lies/You lie/Lock him up!”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-visitor/1299337620" >}}
+
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="13R3e9v50xgAYNL56mdyYZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/times-infinity-vol-one/1178843853" >}}
+
+
 
 
 

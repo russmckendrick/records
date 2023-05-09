@@ -32,8 +32,12 @@ styles: ["Prog Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7kHvpj74cgrJuJ2K6E0mUm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stand-up-2016-steven-wilson-remixes-bonus-tracks/1187655211" >}}
+
+
 
 
 

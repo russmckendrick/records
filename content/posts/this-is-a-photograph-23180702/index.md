@@ -32,8 +32,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6NMzokKOYpPO9VXDjmc5y6" width="100%" height="500" >}}
+In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to escape a pandemic-burdened winter in his hometown of Kansas City. There, he wrote <i>This Is a Photograph</i>, a folky, left-of-the-dial rock album and a particularly reflective entry in his catalogue. Its sound is sometimes earthy and gospel-inflected, sometimes lush and symphonic, with lyrics tinted by existential reflection and the spectre of death. The sinewy title track was inspired by family photos that Morby and his mother went through after thinking they’d just seen his father die following an accidental double dose of heart medication. The lived-in duet “Bittersweet, TN”, about the loss of a friend, features vocals by Erin Rae and floats along on its banjo lines. And the sparse but upbeat “Goodbye To Good Times” doesn’t offer any resolution, but instead presents a eulogy for better days as the songwriter strums his acoustic guitar, simultaneously nostalgic and grounded in the difficult present.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-a-photograph/1607541242" >}}
+
+
 
 
 

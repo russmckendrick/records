@@ -28,8 +28,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2YRKb8nnxH7FFe9Vwtd0Ql" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-collection-of-great-dance-songs/734647165" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Experimental", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2YCKr94Hh3qjNoFfJO2pJb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/peng/311000701" >}}
+
+
 
 
 

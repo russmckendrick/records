@@ -34,6 +34,13 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}
+
+
+
+
+
 ## Videos
 ### Whitesnake - Is This Love (Official Music Video)
 {{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}<br>

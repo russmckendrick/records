@@ -30,8 +30,12 @@ styles: ["Alternative Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="318b6Is2MnqkuL079NnPko" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/superfuzz-bigmuff-deluxe-edition/279888941" >}}
+
+
 
 
 

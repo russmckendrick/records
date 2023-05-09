@@ -38,8 +38,14 @@ styles: ["Grunge", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="29sTacnS0qA9xri6YS8xLA" width="100%" height="500" >}}
+With <i>Superunknown</i>, Soundgarden left grunge behind for good. Arriving just as Nirvana were in their death throes and Pearl Jam were becoming increasingly weary of life in the spotlight, Soundgarden’s fourth album eagerly seized the mantle for arena-ready alternative rock. From the bone-cracking thrust of “My Wave” to the Beatlesesque power ballad “Black Hole Sun” to the doomy metallic monster “4th of July”, <i>Superunknown</i> blew Soundgarden’s musical scope wide open and foregrounded their latent pop sensibility—but not at the expense of the band’s essential, mosh-pit-baiting heaviosity.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/superunknown-20th-anniversary/1440811129" >}}
+
+
 
 
 

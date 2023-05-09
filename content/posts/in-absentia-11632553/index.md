@@ -34,8 +34,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="38d7C2XIoUX0v5cU0HuSSW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-absentia/1581760123" >}}
+
+
 
 
 

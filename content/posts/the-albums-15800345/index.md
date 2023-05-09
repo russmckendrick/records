@@ -97,6 +97,13 @@ styles: ["Indie Rock", "Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kiss-best-of-solo-albums/1538080316" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

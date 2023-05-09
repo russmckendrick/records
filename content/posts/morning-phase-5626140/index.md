@@ -35,8 +35,14 @@ styles: ["Folk", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2Qx7dgA5VjX8JDQaXVxzHu" width="100%" height="500" >}}
+In the more than five years separating the release of <i>Modern Guilt</i> and <i>Morning Phase</i>, the multifaceted producer/songwriter continued to embellish his prolific, diverse career: he produced a clutch of beautiful albums (including Charlotte Gainsbourg’s <i>IRM</i> and Thurston Moore’s <i>Demolished Thoughts</i>) and undertook a number of visionary collaborative projects. With its lushness and atmospheric beauty, <i>Morning Phase</i> is his most accomplished (and straightforward) musical endeavour since his beloved 2002 album, <i>Sea Change</i>. In fact, many of the core musicians who played on <i>Sea Change</i>—including guitarist Smokey Hormel, bassist/multi-instrumentalist Justin Meldal-Johnsen and ex-Jellyfish keyboardist Roger Joseph Manning Jr.—give <i>Morning Phase</i> its finely detailed instrumental warmth. “Heart Is a Drum” sets the tone early with its glowing combination of acoustic instruments, luxurious electronics and elegant vocal harmonies. The other meditative highlights include the hazy, impressionistic orchestral sweep of “Wave” and the reflexive multi-tracked melody of “Morning”. This is an achingly beautiful collection of songwriting from one of pop music’s postmodern masters.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/morning-phase/1440857105" >}}
+
+
 
 
 

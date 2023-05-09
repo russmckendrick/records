@@ -34,8 +34,12 @@ styles: ["Country"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Myi5x11ZZlHhWDH6XYEWx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/midnight-at-the-movies/305368671" >}}
+
+
 
 
 

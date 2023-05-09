@@ -32,8 +32,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0sMKZOihmPdESS8suMaA4j" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/passages/1647622175" >}}
+
+
 
 
 

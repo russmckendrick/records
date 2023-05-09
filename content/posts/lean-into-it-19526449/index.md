@@ -33,8 +33,12 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2Y7fURPZCCr4iZIrM2S3dR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lean-into-it-expanded-edition/1270103288" >}}
+
+
 
 
 

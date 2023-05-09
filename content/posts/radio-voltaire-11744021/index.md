@@ -46,6 +46,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/radio-voltaire/1337056975" >}}
+
+
+
+
+
 ## Videos
 ### Radio Voltaire
 {{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}<br>

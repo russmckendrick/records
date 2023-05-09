@@ -35,6 +35,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/shades-and-echoes/1593377292" >}}
+
+
+
+
+
 ## Videos
 ### Chances Are (Official Music Video)
 {{< youtube id="Q8iw7N1opTw" title="Chances Are (Official Music Video)" >}}<br>

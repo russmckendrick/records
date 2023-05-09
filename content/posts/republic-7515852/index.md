@@ -33,8 +33,15 @@ styles: ["Electro", "Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7mIOgbore2HTzdh2ZyS4rH" width="100%" height="500" >}}
+Gillian Gilbert's melancholy background vocals on "World" are a sure sign of a band that's all grown up—older, wearier, wiser, but undaunted in their pursuit of transcendence. Recorded after Factory's demise, <i>Republic</i> is a darker album than <i>Technique</i>, with somber tones creeping into New Order’s lush mix of guitars and synths. They're still raving on "Spooky" and the driving "Chemical", though the acid house has taken on a nervous twitch, and "Liar" is tinged by desperation. But reflection becomes a chance to soar on the triumphant "Regret".
+
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/republic/1040965893" >}}
+
+
 
 
 

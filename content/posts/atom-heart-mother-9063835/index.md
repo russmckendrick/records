@@ -27,8 +27,14 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2cUpAOlQjV5uSjkWj5bEQY" width="100%" height="500" >}}
+1970 found Pink Floyd at their wildly experimental peak. Covering the first side of the original LP, the 23-minute instrumental title track is wonderfully grandiose, featuring some killer David Gilmour guitar solos and the band's first (and last) extensive use of orchestra and choir. Before the album ends with the quirky tape-loop-enhanced epic "Alan's Psychedelic Breakfast", a trio of remarkably lovely acoustic songs—highlighted by Roger Waters' delicately philosophical "If"—showcases the band's growing lyrical sophistication.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/atom-heart-mother/699606212" >}}
+
+
 
 
 

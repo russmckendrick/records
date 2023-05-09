@@ -31,8 +31,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5UwPMUtxGKZRcULMAkpxQm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}
+
+
 
 
 

@@ -36,8 +36,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3usnShwygMXVZB4IV5dwnU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/out-of-the-blue/1054525002" >}}
+
+
 
 
 

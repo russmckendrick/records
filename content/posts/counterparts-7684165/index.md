@@ -33,8 +33,12 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6JNHWbFco4bnRP5ybKGriN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/counterparts-remastered/642211626" >}}
+
+
 
 
 

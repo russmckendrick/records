@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="40KUzz9XDYb0hUQSAV1fkq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/liquidizer/697141413" >}}
+
+
 
 
 

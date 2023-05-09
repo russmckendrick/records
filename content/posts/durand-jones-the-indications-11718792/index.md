@@ -30,8 +30,12 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3idaZ1PVAh5zF50jEipyEq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/durand-jones-the-indications-deluxe-edition/1339389796" >}}
+
+
 
 
 

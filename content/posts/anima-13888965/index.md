@@ -32,8 +32,16 @@ styles: ["Ambient", "Experimental", "IDM"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5DDPFOJVHhc93OlqirbAtm" width="100%" height="500" >}}
+“How people may emotionally connect with music I’ve been involved in is something that part of me is completely mystified by,” Thom Yorke tells Apple Music’s Zane Lowe. “Human beings are really different, so why would it be that what I do connects in that way? I discovered maybe around [Radiohead's album] <i>The Bends</i> that the bit I didn’t want to show, the vulnerable bit… that bit was the bit that mattered.”<br />
+<i>ANIMA</i>, Yorke’s third solo album, further weaponises that discovery. Obsessed by anxiety and dystopia, it might be the most disarmingly personal music of a career not short of anxiety and dystopia. “Dawn Chorus” feels like the centrepiece: It's stop-you-in-your-tracks beautiful with a claustrophobic “stream of consciousness” lyric that feels something like a slowly descending panic attack. And, as Yorke describes, it was the record's biggest challenge. “There’s a hit I have to get out of it,” he says. “I was trying to develop how ‘Dawn Chorus’ was going to work, and find the right combinations on the synthesisers I was using. Couldn’t find it, tried it again and again and again. But I knew when I found it I would have my way into the song. Things like that matter to me—they are sort of obsessive, but there is an emotional connection. I was deliberately trying to find something as cold as possible to go with it, like I sing essentially one note all the way through.”<br />
+Yorke and long-time collaborator Nigel Godrich (“I think most artists, if they're honest, are never solo artists,” Yorke says) continue to transfuse raw feeling into the album’s chilling electronica. “Traffic”, with its jagged beats and “I can’t breathe” refrain, feels like a partner track to another memorable Yorke album opener, “Everything in Its Right Place”. The extraordinary “Not the News”, meanwhile, slaloms through bleeps and baleful strings to reach a thunderous final destination. It’s the work of a modern icon still engaged with his unique gift. “My cliché thing I always say is, 'You know you're in trouble when people stop listening to sad music,'” Yorke says. “Because the moment people stop listening to sad music, they don't want to know anymore. They're turning themselves off.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/anima/1467347588" >}}
+
+
 
 
 

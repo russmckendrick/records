@@ -46,8 +46,12 @@ styles: ["Trip Hop", "Beatdown"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3WeILTWWyrY13Ye6vu1pG1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-is-recorded-by-richard-russell/1326029609" >}}
+
+
 
 
 

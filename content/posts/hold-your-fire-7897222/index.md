@@ -32,8 +32,14 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3OSQvwW2BElGZfjhsHJEru" width="100%" height="500" >}}
+Anyone acquainted with the epic grandeur of this progressive rock trio's work in the ‘70s might be surprised to hear Rush so comfortable in the pop-rock world of the ‘80s. Yet, it makes great sense that a band constantly looking to re-invent itself would find comfort in the emergent technologies of the era. Geddy Lee's voice frequently comes down from the helium-screech end of his range to embrace a warmer, human tone and it's his extra keyboard washes that layer the intricacies of the songs. Drummer Neil Peart can still be heard functioning as both the steady metronomic beat box and a percussive wunderkind consistently surprising with his inventive fills. But the real emphasis here is on songwriting. "Time Stand Still" with ‘Til Tuesday's Aimee Mann doubling up the vocals, "Open Secrets," and "Turn the Page" are among the group's most rewarding. "Force Ten" is a techno-charged hard rocker that recalls the band's fiery early edge. "Lock and Key" and "Mission" use ethereal textures underneath rock brawn.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hold-your-fire-remastered/1442456383" >}}
+
+
 
 
 

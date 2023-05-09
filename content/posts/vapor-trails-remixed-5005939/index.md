@@ -37,6 +37,13 @@ styles: ["Prog Rock", "Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vapor-trails-remixed/708140941" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

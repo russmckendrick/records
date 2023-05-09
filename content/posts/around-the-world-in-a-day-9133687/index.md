@@ -31,8 +31,14 @@ styles: ["Pop Rock", "Dance-pop", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="27SA4Pkelh2pbwbVEORPOM" width="100%" height="500" >}}
+Fans expected <i>Purple Rain II</i>; The Kid took ‘em on a trip instead. In 1985, <i>Around the World in a Day</i> introduced a psychedelic overhaul to Prince’s lavender world. Songs like “America” and the title track are tinged with exotic instruments (finger cymbals, oud, darbuka) and striking studio tricks. “Raspberry Beret” sums up the mindset—curious, searching, whimsical, a damn near perfect Prince song. By rejecting the predictable path offered by commercial success, Prince inspired fans to seek their own utopia, their own Paisley Park.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/around-the-world-in-a-day/213034763" >}}
+
+
 
 
 

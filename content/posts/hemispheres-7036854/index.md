@@ -26,8 +26,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2vrM9ltjKIvNg3nkwXoJuc" width="100%" height="500" >}}
+While the pop success of 1980's <i>Permanent Waves</i> made Rush a fixture on the hard rock scene, 1978's <i>Hemispheres</i> did much to establish its credentials among the prog-rock crowd. Featuring just four songs of great conceptual thrust and virtuoso musicianship, <i>Hemispheres</i> is not an album to be taken casually or lightly. It demands serious concentration. The eighteen-minute opening track, "Cygnus X-1 Book 2 Hemispheres," cut into five concrete sections (six, if Apollo and Dionysus are taken separately), delves heavily into the tug of war between reason and emotion, and musically tugs at various dissonant factors, as Geddy Lee's familiar shriek must overcome the torrent of guitar riffs and chords from Alex Lifeson and the never-let-up percussion of drummer Neil Peart. "Circumstances" and "The Trees" are closer to conventional rockers, yet with much more serious philosophical concerns than your average hard rock. "La Villa Strangiato" is a multi-parted instrumental overture that never shies from attempting an extra flourish in the effort to out-duel whatever its perceived instrumental competition might be.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hemispheres-remastered/1440764218" >}}
+
+
 
 
 

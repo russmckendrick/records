@@ -34,8 +34,12 @@ styles: ["Punk", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7GUBzGdOxLRGtEtSK6sYCG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/animal-rights/1193759982" >}}
+
+
 
 
 

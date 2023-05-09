@@ -30,8 +30,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0VYuTYQPftcTUmq2ehYlzV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/flowers-of-evil/1526294296" >}}
+
+
 
 
 

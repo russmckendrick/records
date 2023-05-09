@@ -40,6 +40,13 @@ styles: ["Hard Rock", "Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/behind-closed-doors-expanded-edition/742494830" >}}
+
+
+
+
+
 ## Videos
 ### Thunder - Behind Closed Doors (Full Album)
 {{< youtube id="J_aEafaZk6A" title="Thunder - Behind Closed Doors (Full Album)" >}}<br>

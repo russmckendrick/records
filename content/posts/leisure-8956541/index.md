@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0cTdvscLZjCTEKxYUlJFwa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/leisure-special-edition/699689006" >}}
+
+
 
 
 

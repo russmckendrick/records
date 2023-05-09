@@ -30,8 +30,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="78UazygH85UAB0qXqQpzg6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-idiot/1440888621" >}}
+
+
 
 
 

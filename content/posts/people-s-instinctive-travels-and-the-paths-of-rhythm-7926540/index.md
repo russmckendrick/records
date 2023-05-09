@@ -40,8 +40,14 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3kV0i1qqudjf0PGawJ4jck" width="100%" height="500" >}}
+A seminal debut album that hasn’t aged a second. Bursting with inventiveness, color and charm, it framed Q-Tip, Phife Dawg, Ali Shaheed Muhammed and Jarobi (who would quit the band in 1991 to attend culinary school) as one of hip-hop’s most important groups. Lyrically, it’s extraordinary—tackling police brutality and high art, STDs and veganism—while freewheeling, giddy creativity radiates off everything. Its most iconic moments (“I Left My Wallet In El Segundo”, “Can I Kick It?”) are its most spare and jazzy, while hip-hop is still yet to pen a love letter that tops “Bonita Applebum.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/peoples-instinctive-travels-and-the-paths-of/1046921573" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0MeEbDVddh6V0gTKvx7BbS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-new-morning-deluxe-edition-remastered/437250212" >}}
+
+
 
 
 

@@ -32,6 +32,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-the-dead-dead-wood/1574731572" >}}
+
+
+
+
+
 ## Videos
 ### VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)
 {{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)" >}}<br>

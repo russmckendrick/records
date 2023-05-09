@@ -35,6 +35,15 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 <!-- section break -->
 
 
+The massive, nearly 79-minute <i>Lateralus</i> is TOOL entering full bloom as the 21st century's most popular, beloved and impactful progressive rock band—a patient unfurling of heady ideas, mystical themes and off-kilter riffs. The trademarks of their next two decades are born here on their third album—a spiral of math and science themes, brain-melting time signatures, shifting rhythmic interplay, expanding song lengths, tumbles of drums and the metaphysical artwork of Alex Grey. It's a legacy band embarking on a new flight path, reinventing their experimental genius and finding new ways to be heavy.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lateralus/1474185412" >}}
+
+
+
 
 
 ## Videos

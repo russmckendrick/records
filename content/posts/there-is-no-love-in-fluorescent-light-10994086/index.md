@@ -34,8 +34,12 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="33vbGD5V5sEDbyzXJnYPtg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/there-is-no-love-in-fluorescent-light/1267599221" >}}
+
+
 
 
 

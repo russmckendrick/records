@@ -24,8 +24,12 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3g7HHsKJxubekldsxGe0Py" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/22-lunar-halo/1458756440" >}}
+
+
 
 
 

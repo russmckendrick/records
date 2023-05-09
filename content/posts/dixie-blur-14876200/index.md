@@ -36,8 +36,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2J7ySwyyvdBeP8EcNYrgZv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dixie-blur/1489222560" >}}
+
+
 
 
 

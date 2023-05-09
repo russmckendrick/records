@@ -34,8 +34,12 @@ styles: ["New Wave", "Darkwave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5VYauwYxotVdCXDrcK9KdQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/splinter-songs-from-a-broken-mind/1170105981" >}}
+
+
 
 
 

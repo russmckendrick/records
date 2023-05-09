@@ -56,8 +56,14 @@ styles: ["Indie Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5NIK2GM7XYSX5a6OUC5B0S" width="100%" height="500" >}}
+As epitomised by a title track referencing his haemorrhoids, the former Czars frontman has lost none of his candor or humor on this third solo album. His melodic skill remains intact too and, after the electro-pop of 2013’s <i>Pale Green Ghosts</i>, Grant investigates robotic funk (“Snug Slacks”), taut techno (“Disappointing”) and sumptuous FM rock (“Down Here”) while skewering ex-lovers and contemplating personal crises. Even on his most upbeat record yet, it’s an ability to amuse, shock and discomfit–sometimes in just one verse–that makes Grant such a compelling songwriter.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grey-tickles-black-pressure/1009276812" >}}
+
+
 
 
 

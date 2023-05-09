@@ -29,8 +29,14 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1yBoaVrgcup2hX2DCYUajs" width="100%" height="500" >}}
+In 1968, New Orleans keyboardist Mac Rebennack reinvented himself as a slightly sinister swamp spiritualist known as Dr. John, the frog-voiced Night Tripper. Rebennack and his crew's strange brew mixed San Francisco psychedelia with New Orleans R&B, which sounds especially effective in "Gris-Gris Gumbo Ya Ya" and "I Walk on Guilded Splinters"—heavily percussive, chant-driven tracks suggesting something ominous rising from the swamp. "Mama Roux," meanwhile, whips up its own Afro-Cuban magic.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gris-gris/106225386" >}}
+
+
 
 
 

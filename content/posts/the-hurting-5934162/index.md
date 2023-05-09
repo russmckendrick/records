@@ -32,8 +32,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3sIFpEctox1XOs3FEkqrgr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-hurting-super-deluxe-edition/1436478609" >}}
+
+
 
 
 

@@ -31,8 +31,12 @@ styles: ["Hard Rock", "Mod"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5MqyhhHbT13zsloD3uHhlQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whos-next-deluxe-edition/1440850317" >}}
+
+
 
 
 

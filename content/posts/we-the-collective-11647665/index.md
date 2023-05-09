@@ -39,6 +39,13 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we-the-collective/1318326494" >}}
+
+
+
+
+
 ## Videos
 ### WE THE COLLECTIVE - LEVELLERS
 {{< youtube id="eRUKW_xvEBE" title="WE THE COLLECTIVE - LEVELLERS" >}}<br>

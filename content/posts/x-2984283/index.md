@@ -36,6 +36,13 @@ styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082" >}}
+
+
+
+
+
 ## Videos
 ### Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)
 {{< youtube id="bAXPUN2z2CE" title="Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)" >}}<br>

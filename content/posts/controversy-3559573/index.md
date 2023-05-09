@@ -30,8 +30,14 @@ styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="27fOQ2nbqOv460RSUFW7E4" width="100%" height="500" >}}
+Already infamous for his provocative lyrics, Prince continued to shock fans by bringing politics into the mix on 1981’s <i>Controversy</i>, unleashing some of pop’s funkiest protest jams. Powered by pulsating basslines and gleaming synth-pop riffs, tracks like “Controversy” and “Sexuality” are floor-filling anthems that cleverly question identity norms. Of course, no Prince album would be complete without a few lush ballads (“Do Me, Baby”) and raunchy rock jams (“Jack U Off”). <i>Controversy</i> is that perfect Prince combo of deep sensuality and social commentary.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/controversy/214145071" >}}
+
+
 
 
 

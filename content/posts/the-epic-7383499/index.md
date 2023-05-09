@@ -42,8 +42,14 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2j2q2ySuVk43eHB8wI5XQj" width="100%" height="500" >}}
+The most ambitious jazz album to arrive in ages, Los Angeles saxophonist/composer Kamasi Washington's debut clocks in at 174 minutes—with never a dull moment. While his flawless 10-piece band already packs a wallop, thanks to their doubled basses and drums, Washington embellishes them with a string section and angelic choir. Like his luminous playing on Kendrick Lamar’s <i>To Pimp a Butterfly</i>, Washington solos with power and grace here. Versions of "Cherokee" and Terence Blanchard's "Malcolm's Theme" nod to jazz tradition, but it's originals like "Change of the Guard" that signal his truly epic aspirations.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-epic/975610456" >}}
+
+
 
 
 

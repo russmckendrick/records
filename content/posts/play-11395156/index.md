@@ -40,8 +40,12 @@ styles: ["Breakbeat", "Leftfield", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="724hO8VLcKOz9b0y18wA8c" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/play/1193810754" >}}
+
+
 
 
 

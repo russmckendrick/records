@@ -33,8 +33,12 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7zAViKhzlLc837pE1NquIS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/queen-of-the-night/1541334774" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1R77epa6N8qyWYFCa41S9f" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/supernature/1142257697" >}}
+
+
 
 
 

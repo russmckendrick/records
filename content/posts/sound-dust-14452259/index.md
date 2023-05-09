@@ -42,8 +42,12 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="19UJ41n18Bej71oLEj14xO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sound-dust/1231424728" >}}
+
+
 
 
 

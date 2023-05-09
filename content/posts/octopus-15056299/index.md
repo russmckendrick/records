@@ -30,8 +30,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="77JV3at9mjHWzD3Iub1zSh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/octopus-steven-wilson-mix/1204273198" >}}
+
+
 
 
 

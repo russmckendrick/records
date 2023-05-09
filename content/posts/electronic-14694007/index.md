@@ -33,8 +33,12 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1vGrQ0is3Avh0bZSI7T6L1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gang-signs-prayer/1673768631" >}}
+
+
 
 
 

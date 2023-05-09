@@ -45,6 +45,15 @@ styles: ["Soundtrack", "Score"]
 <!-- section break -->
 
 
+The Force is as strong as ever in John Williams’ writing for orchestra. His mix of classical influences hasn’t changed—why mess with film-scoring perfection?—but he’s found new ways to make the melange sing. The marching aggression of brass instruments during “Attack on the Jakku Village” has an appropriately Mahlerian grandeur, while a Debussy-like flute cavorts intriguingly through “The Scavenger.” And when it comes to choreographing battles in space, as with “Scherzo for X-Wings,” Williams’ talent remains unmatched.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/star-wars-the-force-awakens-original-motion-picture/1440634745" >}}
+
+
+
 
 
 ## Videos

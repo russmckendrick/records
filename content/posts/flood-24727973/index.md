@@ -46,6 +46,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-flood-in-our-heads-ep/1169991821" >}}
+
+
+
+
+
 ## Videos
 ### Headswim - Gone To Pot (HQ)
 {{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}<br>

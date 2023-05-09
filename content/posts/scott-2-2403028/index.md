@@ -34,8 +34,12 @@ styles: ["Vocal", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4bGsY4hGvqBf9XrAzA1gZ2" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/scott-2/1442979621" >}}
+
+
 
 
 

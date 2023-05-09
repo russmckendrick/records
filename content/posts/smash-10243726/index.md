@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7IDywTRaCI8qzS3X8tNU3x" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/smash-remastered/1485043082" >}}
+
+
 
 
 

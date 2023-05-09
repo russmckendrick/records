@@ -33,8 +33,12 @@ styles: ["Synth-pop", "Darkwave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0JSOfVzxVTpyvxzXggc8rG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/black-celebration-deluxe/1577638904" >}}
+
+
 
 
 

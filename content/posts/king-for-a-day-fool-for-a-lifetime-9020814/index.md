@@ -45,8 +45,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6KHnSZsn0E2OzcVChd8UUW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/king-for-a-day-fool-for-a-lifetime/184673815" >}}
+
+
 
 
 

@@ -46,6 +46,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-musics-for-taking-care-of-the/1648119317" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

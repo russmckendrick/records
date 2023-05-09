@@ -31,8 +31,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="67NH57XjUXzXmAxqZlEHNS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pulsing-signals-live/1599773680" >}}
+
+
 
 
 

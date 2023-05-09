@@ -35,8 +35,14 @@ styles: ["Funk Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7DFb9QZJG2Dxu1HaCHjRsq" width="100%" height="500" >}}
+On their third album, funk-metal fusionists Living Colour proved they could out-angst the gloomiest grunge acts of the day. The darker, heavier sound of <i>Stain</i> is matched by weighty social commentary: The thrash-powered “Go Away” takes aim at the apathetic masses who think the world’s problems can be cured by sending “20 dollars to Live-Aid,” while the mutant thrust of “Ausländer” paints a harrowing portrait of xenophobia. Even the moments of beauty—like the luminous future soul of “Nothingness”—are infused with existential dread.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stain/158628416" >}}
+
+
 
 
 

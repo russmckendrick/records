@@ -34,8 +34,12 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="65Al3RSB7zeQeYcinysMxJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/white-music-bonus-track-version/724360813" >}}
+
+
 
 
 

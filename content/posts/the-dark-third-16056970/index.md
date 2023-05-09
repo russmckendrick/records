@@ -55,8 +55,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4ijk02bZgFVyexq2bYzpL1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}
+
+
 
 
 

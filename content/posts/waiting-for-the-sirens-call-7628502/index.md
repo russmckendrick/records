@@ -33,8 +33,14 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1bzjjvsRKcbfaQc8XHJtvl" width="100%" height="500" >}}
+New Order's eighth studio album offers proof that after more than two decades in the trenches, rock 'n' roll is something like second nature. Yes, <i>rock 'n' roll</i>: Just listen to the bluesy shuffle of "Working Overtime", a surprising British Invasion throwback. Elsewhere, they sound as modern as ever, with synths and dance beats driving "Krafty" and "Morning Night and Day", but the album's beefy guitars and drums are stadium-sized. Even the club-oriented "Jetstream", with its gospel-influenced vocal harmonies, sounds like they've been listening to The Rolling Stones.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/waiting-for-the-sirens-call/1041432291" >}}
+
+
 
 
 

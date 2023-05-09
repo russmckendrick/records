@@ -30,6 +30,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-life-of-the-honey-bee-and-other-moments-of-clarity/1510099512" >}}
+
+
+
+
+
 ## Videos
 ### Abel Ganz : One Small Soul
 {{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}<br>

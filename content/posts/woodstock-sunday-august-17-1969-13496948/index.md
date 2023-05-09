@@ -31,8 +31,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0iNGQ0jChQG1tuigTqv7jJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/woodstock-sunday-august-17-1969-live/1478440844" >}}
+
+
 
 
 

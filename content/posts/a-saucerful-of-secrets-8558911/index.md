@@ -29,8 +29,14 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2vnJKtGjZXRUg0mYPZ3HGH" width="100%" height="500" >}}
+On their second album, Pink Floyd shifted from quirky psych-pop to a full-on space-rock assault. <i>A Saucerful of Secrets</i> was a giant step towards the kind of cosmic exploits they'd soon be famous for. Syd Barrett ceded the spotlight to new guitarist David Gilmour, but the trippy intensity of extended tracks like the hypnotic, Eastern-tinged "Set the Controls for the Heart of the Sun" and the brain-melting avant-garde title track left no doubt that Floyd were the rulers of the acid-rock realm.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-saucerful-of-secrets/699872176" >}}
+
+
 
 
 

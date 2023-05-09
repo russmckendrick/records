@@ -53,6 +53,13 @@ styles: ["Soundtrack", "Score"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-1-original-television-series-soundtrack/1111049508" >}}
+
+
+
+
+
 ## Videos
 ### Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)
 {{< youtube id="-B--tEBZwCg" title="Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)" >}}<br>

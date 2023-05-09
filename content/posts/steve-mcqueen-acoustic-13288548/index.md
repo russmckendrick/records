@@ -30,8 +30,12 @@ styles: ["Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2fRgL0eDSoENHMrrGXH8Ev" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/steve-mcqueen-acoustic/1457321476" >}}
+
+
 
 
 

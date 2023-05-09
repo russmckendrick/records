@@ -35,6 +35,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/deception-bay/1324894051" >}}
+
+
+
+
+
 ## Videos
 ### Milkbone Album Trailer
 {{< youtube id="OdeILt8MV1U" title="Milkbone Album Trailer" >}}<br>

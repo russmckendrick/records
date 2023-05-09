@@ -30,8 +30,15 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="41Dl68Kik63nV6zvn07NgY" width="100%" height="500" >}}
+This 1978 stunner presents a single electronic suite, overflowing with lush, analog synth lines. Jarre doubles down on the approach of his previous classic, <i>Oxygène</i>: The tunes are more intensely rhythmic, the synth lines even richer and more atmospheric and the graceful melodic structures recall the symphonic flow of Jarre's famed film-composer father, Maurice. Blending impressionistic atmospheres with pop-savvy hooks and the influence of German electronic music, <i>Equinoxe</i> suggests what might have happened if Kraftwerk had studied Debussy.
+
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/equinoxe/1027735188" >}}
+
+
 
 
 

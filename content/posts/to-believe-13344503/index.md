@@ -29,8 +29,12 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7Jm76j0kKzyy2GLExHlVQO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/to-believe/1446886232" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="484pzryEPqn6KSMLtP2c4f" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/new-miserable-experience/1442677676" >}}
+
+
 
 
 

@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4V8NUW8yUln846aiOZ8ANR" width="100%" height="500" >}}
+Made while Richard Ashcroft was processing the breakdown of a long-term relationship and the band were tumbling towards their first split, The Verve’s second album thrives on dark emotions. “This Is Music” charges its funk groove and inflamed guitars with defiance and rage, and acoustic ballad “On Your Own” is embittered by solitude and betrayal. The latter is a glimpse of the singer-songwriter classicism Ashcroft would eventually settle into, but “History” is the great leap forward here; its captivating sorrow driven by strings and a re-purposed William Blake poem.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-northern-soul/1442287322" >}}
+
+
 
 
 

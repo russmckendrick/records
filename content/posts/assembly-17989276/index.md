@@ -38,8 +38,12 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5fmJ1t5AyvBrCGOLBXiaVh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/assembly/1550840015" >}}
+
+
 
 
 

@@ -33,8 +33,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6SeeXO8uekKSzMrxyNJP3N" width="100%" height="500" >}}
+The Breeders’ music is a ball of little contrasts: beautiful but rough, off-hand but confident, spacey but tactile, lived-in—an unfamiliar object knit from yarn. The group's first album with a fully reunited lineup from their breakthrough LP, <i>Last Splash</i>, finds them back on their private path, balancing rave-ups (“Nervous Mary”, “Wait in the Car”) with heavy-lidded ballads (“All Nerve”, “Dawn: Making an Effort”) and blasts of noise with girlish harmonies, gently pushing the familiar garage-band template in new directions. As always, their ace remains an ability to elevate naiveté to mysterious, almost supernatural levels—just listen to “Walking with a Killer”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-nerve/1319598646" >}}
+
+
 
 
 

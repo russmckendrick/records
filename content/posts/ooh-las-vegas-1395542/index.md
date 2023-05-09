@@ -45,8 +45,12 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1PojyXhUkx4U6t9RwAdPGy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ooh-las-vegas-b-sides-film-tracks-sessions/300117724" >}}
+
+
 
 
 

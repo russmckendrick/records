@@ -41,6 +41,13 @@ styles: ["Electro", "Synth-pop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/electronica-2-the-heart-of-noise/1081484725" >}}
+
+
+
+
+
 ## Videos
 ### Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)
 {{< youtube id="RmLEsmmnsGw" title="Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)" >}}<br>

@@ -24,8 +24,12 @@ styles: ["Prog Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="200p7O3raeXT2jNhmzK4TE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ommadawn-deluxe-edition/1440735205" >}}
+
+
 
 
 

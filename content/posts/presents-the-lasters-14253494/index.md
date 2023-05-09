@@ -41,8 +41,12 @@ styles: ["Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1pL9wHzQnZh4Rs6oHDjlKa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fred-deakin-presents-the-lasters/1480648770" >}}
+
+
 
 
 

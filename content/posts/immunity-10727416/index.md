@@ -30,8 +30,12 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1rxWlYQcH945S3jpIMYR35" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/immunity/766062577" >}}
+
+
 
 
 

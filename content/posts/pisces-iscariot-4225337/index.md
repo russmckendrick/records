@@ -36,8 +36,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7glwer1Pzyns4h32fHbl53" width="100%" height="500" >}}
+Just as artists such as Bob Dylan, Bruce Springsteen and Prince overflow with material, Smashing Pumpkins' Billy Corgan is another prolific writer whose official albums only tell a part of the story. <i>Pisces Iscariot</i> was released after just two Smashing Pumpkins studio albums -- <i>Gish</i>, <i>Siamese Dream</i> -- had been issued. For a collection of studio outtakes and European B-sides, it plays surprisingly cohesively. The 2012 <i>Deluxe Edition</i> adds 17 unreleased or alternate versions of tunes from the 1990s. The <i>Deluxe</i> proves its value with the live version of the Velvet Underground's "Venus In Furs" and the electric power of "Jackie Blue." Corgan is a whiz and where other alternative bands often rebelled against the audiophile potential of the studio, Corgan built sonic temples. The dreamy acoustics of "Whir," the brutal guitar battle of "Starla," the passionate covers of the Animals' "A Girl Named Sandoz" and Fleetwood Mac's "Landslide" add up to a group that sounds as fresh today, twenty years after the fact.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pisces-iscariot-deluxe-edition/1471445093" >}}
+
+
 
 
 

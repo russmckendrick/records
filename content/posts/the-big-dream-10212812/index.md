@@ -44,8 +44,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5o6I4nyMWG7lzVr8r9lGFj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-big-dream/1213517622" >}}
+
+
 
 
 

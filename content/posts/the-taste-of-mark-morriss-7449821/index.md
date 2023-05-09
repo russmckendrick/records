@@ -34,8 +34,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7cpe14MkhUj8KSVnhRAjfg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-taste-of-mark-morriss/1182948149" >}}
+
+
 
 
 

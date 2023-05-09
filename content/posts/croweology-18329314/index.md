@@ -42,8 +42,14 @@ styles: ["Blues Rock", "Southern Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6V5oOvWQrsiRM9gKEKTjOo" width="100%" height="500" >}}
+Rather than issue a “Greatest Hits” collection to sum up their past twenty years, the Black Crowes decided to eyeball their catalog and reinvent their favorite tunes with acoustic arrangements. It’s an obvious move for a band that has always held onto their rock and pre-rock roots. Their Southern charm, where they’ve taken back roots music from their British rock heroes (the Rolling Stones, the Faces), has never let them down as long as singer Chris Robinson can knowingly leer into the lyrics. Acoustic or not, the funk is still there for the sweaty workouts of “Remedy”, “Jealous Again” and “Downtown Money Waster”, while an elegiac mood carries “She Talks to Angels”, “Ballad In Urgency” and Gram Parsons’ “She”. The electric organ provides the extra boost to help these acoustic guitar-wielding rockers over the classic rock mountain. Bonus tracks, “Boomer’s Story” and Little Feat’s “Willin’” are welcomed additions to what is fast becoming an impeccable catalog of tunes. Their 2008 comeback <i>Warpaint</i> reinvigorated the band and <i>Before the Frost/ Until the Freeze</i> solidified their place as one of America’s finest rock ‘n’ roll bands.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/croweology-acoustic-versions/383772953" >}}
+
+
 
 
 

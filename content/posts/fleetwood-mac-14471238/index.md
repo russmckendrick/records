@@ -33,8 +33,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5VIQ3VaAoRKOEpJ0fewdvo" width="100%" height="500" >}}
+A band at the forefront of the smooth U.S. West Coast sound, Fleetwood Mac contained three gifted songwriters and remarkable vocalists who all wrote enduring anthems. This sprawling compilation cherry-picks the best of their remarkable ’70s and ’80s output, highlighting Christine McVie’s lovelorn lyrics and sweet melodies (“You Make Loving Fun,” “Don’t Stop”), Stevie Nicks’ mystical bent and ethereal vocals (“Rhiannon,” “Sara”), and Lindsey Buckingham’s winning way with pop hooks and experimental production techniques (“Go Your Own Way,” “Tusk”).
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155" >}}
+
+
 
 
 

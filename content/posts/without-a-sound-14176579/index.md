@@ -40,8 +40,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0yxM1OyaFOZiJhi9eNThE4" width="100%" height="500" >}}
+After spending the early ‘90s transitioning from post-hardcore noisemakers to a classic-rock-refined powerhouse, Dinosaur Jr. settled into their groove on <i>Without a Sound</i>. You can hear it in the way “Feel the Pain” effortlessly shifts from a midtempo strut into a delirious, accelerated guitar break that effectively doubles as its chorus. Elsewhere, the lilting “Outta Hand” showcases J Mascis’ increased ease with tender acoustic ballads, and even the songs that lead with his signature face-melting screech (see: “Grab It”) reveal their sensitive core.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/without-a-sound/1318699993" >}}
+
+
 
 
 

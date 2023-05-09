@@ -39,8 +39,12 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6BK62pLb3I24L5zr2zaYoI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gold-grey/1455859673" >}}
+
+
 
 
 

@@ -179,6 +179,13 @@ styles: ["Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1299225968" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

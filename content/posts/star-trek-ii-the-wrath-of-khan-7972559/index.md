@@ -45,8 +45,12 @@ styles: ["Soundtrack", "Score"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2fM9r2JGdpKJ0LT3NKlQ25" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/star-trek-ii-the-wrath-of-khan-original-motion/726982589" >}}
+
+
 
 
 

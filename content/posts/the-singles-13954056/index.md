@@ -38,8 +38,12 @@ styles: ["Soft Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3R9Lp4s38Y9pMfcwG9YP27" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-singles/1443777907" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5UjwQ3co1TWY9458ojqjAj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}
+
+
 
 
 

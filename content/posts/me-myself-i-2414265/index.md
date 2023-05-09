@@ -32,8 +32,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0bbqWBKFr1kdqxjoAAIBcR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/me-myself-i/1443914431" >}}
+
+
 
 
 

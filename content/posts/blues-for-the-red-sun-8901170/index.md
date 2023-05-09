@@ -36,8 +36,14 @@ styles: ["Stoner Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7wXj8GxTkGAUU99DXR7n2f" width="100%" height="500" >}}
+With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging his basslines deep enough to rattle the earth’s core and John Garcia howling from some sun-scorched spot in the middle of the California desert, Kyuss’ second album married early grunge to late-’60s acid rock—planting the seed from which stoner rock sprouted. Gut-churning slabs of ultra-distorted, tripped-out sludge like “Thumb” and “Molten Universe” plow ahead like bulldozers reshaping the moon—picking up steam, sending meteors into orbit and leaving craters in their wake.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blues-for-the-red-sun/213508542" >}}
+
+
 
 
 

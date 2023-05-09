@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6ZB8qaR9JNuS0Q0bG1nbcH" width="100%" height="500" >}}
+Arcade Fire’s fiery, rhythmically complex rock burns at full-beam, straight out of the gate. Make no mistake, the Montreal collective's debut deals in weighty themes (take “Haiti”, the rootsy, shuffling tribute to core member Régine Chassagne’s politically volatile childhood home). But—from the stirring swell of “Wake Up” to the twitchy anguish of “Neighbourhood #3” (Power Out)”—frontman Win Butler marshals a kind of choral defiance, tracking down life-affirming light in the darkest spaces.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/funeral/1249417623" >}}
+
+
 
 
 

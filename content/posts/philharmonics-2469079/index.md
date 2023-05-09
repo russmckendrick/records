@@ -34,8 +34,12 @@ styles: ["Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1hOKjrormSHpyOw0BREwEx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/philharmonics-deluxe-edition/431226423" >}}
+
+
 
 
 

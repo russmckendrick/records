@@ -34,8 +34,12 @@ styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="67F2ya9fonXH0jVVgLa7sb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/closing-time-remastered/1485071375" >}}
+
+
 
 
 

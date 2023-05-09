@@ -30,8 +30,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="01l0bTrSMLFLlytGcEioLY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/an-hour-before-its-dark/1593404034" >}}
+
+
 
 
 

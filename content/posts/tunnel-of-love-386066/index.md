@@ -34,8 +34,12 @@ styles: ["Soft Rock", "Pop Rock", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Qcef60m4gcckV24PmPYVq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tunnel-of-love/192745941" >}}
+
+
 
 
 

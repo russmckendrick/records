@@ -28,8 +28,12 @@ styles: ["Post Rock", "Stoner Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0rJ9KcNjZ8MjYBuviSzMmV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sirens/1577932525" >}}
+
+
 
 
 

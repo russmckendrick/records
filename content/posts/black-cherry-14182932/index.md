@@ -32,8 +32,12 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="65BnZsIXnhBeBReAHAaF6V" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/black-cherry/1143687106" >}}
+
+
 
 
 

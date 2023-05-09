@@ -31,8 +31,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1lODBFaX8Bu46GxK0TpGjj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/someone-here-is-missing/369027963" >}}
+
+
 
 
 

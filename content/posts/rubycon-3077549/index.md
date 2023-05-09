@@ -24,8 +24,11 @@ styles: ["Ambient", "Berlin-School"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5vHDwkXdVRGHTCpc5is4Vo" width="100%" height="500" >}}
+
 
 
 

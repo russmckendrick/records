@@ -43,6 +43,13 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-octopus/1198303873" >}}
+
+
+
+
+
 ## Videos
 ### Amplifier  The Wave  HD
 {{< youtube id="mixPxkJswHA" title="Amplifier  The Wave  HD" >}}<br>

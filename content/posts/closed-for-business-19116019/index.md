@@ -29,8 +29,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="00tjPzsf5FEqakQXM1r1oh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1582887992" >}}
+
+
 
 
 

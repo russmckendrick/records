@@ -51,8 +51,11 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="3ZAFnRYQRAiBplISQFj7nC" width="100%" height="500" >}}
+
 
 
 

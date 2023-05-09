@@ -44,8 +44,12 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2BmZLziYKcz046KjcpOwf7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/loops-in-the-secret-society/1667806926" >}}
+
+
 
 
 

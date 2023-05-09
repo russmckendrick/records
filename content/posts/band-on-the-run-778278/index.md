@@ -31,6 +31,15 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
+Recorded under less than ideal circumstances in Lagos, Nigeria after two key members quit, <i>Band on the Run</i> was Wings' make-or-break moment. The rough-and-ready studio sound adds some welcome grit on rockers like "Jet" and the affectionate John Lennon tribute "Let Me Roll It." Elsewhere, the title track is one of McCartney's most soaring multi-part pop masterpieces, and "Bluebird" is a tender acoustic love song. Quirkier material, like the playful "Mrs. Vandebilt" and "Picasso's Last Words (Drink To Me)," adds even more depth.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/band-on-the-run-2010-remaster/1443413822" >}}
+
+
+
 
 
 ## Videos

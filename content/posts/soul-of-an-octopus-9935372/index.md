@@ -31,8 +31,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5D1dbyrjgEoh1HUOmJtwTW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/soul-of-an-octopus/1202252926" >}}
+
+
 
 
 

@@ -37,8 +37,12 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1cqta2uSKVYdom7CRMGDwn" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/above/158602381" >}}
+
+
 
 
 

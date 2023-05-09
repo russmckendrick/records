@@ -28,8 +28,12 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1j5bnk2x6LNbB0kbWY4GFq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1972-ep/1649880264" >}}
+
+
 
 
 

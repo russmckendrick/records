@@ -37,8 +37,12 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="13nSBmeumXh3Jo4IgGEfLR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/if-this-is-rock-and-roll-i-want-my-old-job-back/374785828" >}}
+
+
 
 
 

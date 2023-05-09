@@ -31,8 +31,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2f2NEtvt132ETAdS7Xqudk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/weather-systems/674013181" >}}
+
+
 
 
 

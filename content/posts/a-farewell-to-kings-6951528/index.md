@@ -28,8 +28,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="18i33u5FvfvgHjZMulpyO2" width="100%" height="500" >}}
+With 1977's <i>A Farewell to Kings</i>, Rush continued its pursuit of sonically and compositionally complex hard and progressive rock, setting the performance standard for all hard rock bands to emulate, on the way becoming one of the most distinctive groups of the ‘70s. The title track begins with a gentle acoustic guitar and synthesizer overture before breaking out into one of the band's trademark explosions. Drummer Neil Peart never met a time signature he couldn't twist to his own desires and with his heavy rhythmic hand the band erupts into epic splendor. "Closer to the Heart" is the closest the band had come to a conventional pop song in a few years and nicely counterbalances the conceptual ambitions of the ten-minute album closer "Cygnus X-1" and the eleven-minute tour-de-force "Xanadu." "Madrigal" spotlights the band's lesser-explored softer side, whereas "Cinderella Man" pushes forth the band's aggression. The Canadian trio managed to be both obscure and accessible, pulling in an ardent following despite its unusual and unconventional approach.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-farewell-to-kings-remastered/1440771611" >}}
+
+
 
 
 

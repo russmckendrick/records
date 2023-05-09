@@ -36,6 +36,13 @@ styles: ["Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dont-prey-for-me/1442397355" >}}
+
+
+
+
+
 ## Videos
 ### Little Angels - Don't Prey For Me (Full Album)
 {{< youtube id="wW4ex-Id_nA" title="Little Angels - Don't Prey For Me (Full Album)" >}}<br>

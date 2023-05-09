@@ -2,4 +2,5 @@
 title: "Van Halen"
 summary: "American rock band formed in Pasadena, California in 1974 by Dutch brothers Eddie and Alex Van Halen. From 1974 until 1985, the band consisted of the Van Halens ; vocalist David Lee Roth; and bassist/vocalist Michael Anthony. In 1985, Roth left the band to embark on a solo career and was replaced by former Montrose lead vocalist Sammy Hagar. With Hagar, the group released four albums over the course of 11 years. Former Extreme frontman Gary Cherone replaced Hagar in 1996, before parting ways in 1999. Van Halen then went on hiatus until reuniting with Hagar in 2003 for a worldwide tour in 2004. Hagar again left Van Halen in 2005. In 2006 Roth returned, but Anthony was replaced on bass guitar by Eddie's son, Wolfgang Van Halen. In 2012, the band released their final studio album. It was also Van Halen's first album with Roth in 28 years and the only one to feature Wolfgang. died on the 6th October 2020 at St. Johns Hospital, Santa Monica, California after a long battle with throat cancer."
 image: "van-halen.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/van-halen/166529"
 ---

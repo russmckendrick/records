@@ -34,8 +34,12 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1lvAASyHZrOQ04lowYjWEC" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/machine-gun-etiquette/1621373741" >}}
+
+
 
 
 

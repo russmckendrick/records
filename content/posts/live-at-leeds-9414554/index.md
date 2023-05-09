@@ -55,8 +55,14 @@ styles: ["Blues Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6W3aTLI4B5UsPpWMvhT2W4" width="100%" height="500" >}}
+Shortly after refining their sound on the rock opera <i>Tommy</i>, The Who went back to explosive basics on this live show. Part of the thrill comes from hearing the band rampage through its covers, including ripping hard rock takes on Mose Allison's "Young Man Blues" and Eddie Cochran's "Summertime Blues.” "Substitute” sounds even punkier than the original 1966 single had, and an extended “My Generation” gives Pete Townshend a chance to stretch out on guitar before Keith Moon and John Entwistle come crashing back in.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-leeds-deluxe-edition-2001-remaster/1440859591" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3t5PKVYlbYXIiLIRDPPkp4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wait-til-i-get-over/1668161620" >}}
+
+
 
 
 

@@ -30,8 +30,12 @@ styles: ["Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6AmnVWOxXYucWxgidEgwhy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lets-get-it-on-remastered/1442835298" >}}
+
+
 
 
 

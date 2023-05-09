@@ -44,6 +44,9 @@ styles: []
 
 
 
+
+
+
 ## Videos
 ### Sammy Davis What Kind of Fool Am I
 {{< youtube id="7Jg7wFHWXT4" title="Sammy Davis What Kind of Fool Am I" >}}<br>

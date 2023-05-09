@@ -33,8 +33,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5IShQJXhZCvqviakBf1ViX" width="100%" height="500" >}}
+The debut album from Crystal Fairy, a supergroup of musicians from At the Drive-In, Le Butcherettes, and the Melvins, meditates on the mind of an artist. A whirlwind of delightfully rebellious, avant-garde sludge, it feels paranoid, panicked, and pressing, with wild tempos that suddenly spike or dip.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/crystal-fairy/1183014173" >}}
+
+
 
 
 

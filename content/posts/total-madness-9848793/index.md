@@ -45,8 +45,12 @@ styles: ["Ska", "Reggae-Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3a2gd5Zovdn1AxqU7EPkwV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/total-madness/1208858748" >}}
+
+
 
 
 

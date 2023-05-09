@@ -34,6 +34,13 @@ styles: ["Space Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/trippin-with-dr-faustus/1235100150" >}}
+
+
+
+
+
 ## Videos
 ### Amplifier - Rainbow Machine
 {{< youtube id="TE4KCRZI2tg" title="Amplifier - Rainbow Machine" >}}<br>

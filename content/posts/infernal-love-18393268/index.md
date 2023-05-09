@@ -33,8 +33,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="31KNGmbreLRbNfmEXRnXTl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/infernal-love-deluxe-edition/1443322426" >}}
+
+
 
 
 

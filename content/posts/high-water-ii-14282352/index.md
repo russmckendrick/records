@@ -34,8 +34,12 @@ styles: ["Southern Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4ctT6An3hNgDhsATMeagOb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}
+
+
 
 
 

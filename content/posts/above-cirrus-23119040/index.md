@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="18QmmOwcTZugATzOCDCmv8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/above-cirrus/1609674107" >}}
+
+
 
 
 

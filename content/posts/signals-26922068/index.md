@@ -56,8 +56,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0gAhBCBqahVbuOgROHwISD" width="100%" height="500" >}}
+Anxious to explore the expanding sonic options of the electronic age while also sensing a shift in the hard rock marketplace, Rush softened their guitar-based attack to implement a heavier dependence on synthesizers and an emphasis on the moodier aspects of their sound. The change is announced with the opening keyboard purr of “Subdivisions,” a dead accurate if wordy investigation (drummer Neal Peart is the one member who reluctantly curtails his excesses) into the travails of adolescence. From there, the beats syncopate nearer to New Wave while the songs deal less with sci-fi imaginings and adhere closer to real life. “The Analog Kid,” “The Weapon” and “New World Man” all race forth with a surging energy appropriate to the era. While older fans may have been stunned by these concessions to modern fashion, the results are an invigorated power trio firing on all cylinders. “Losing It,” featuring Ben Mink on electric violin, is a mature reflection on artistic decline, while “Countdown” observes the space shuttle launch with enviable audio verite.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/signals-remastered/1440765198" >}}
+
+
 
 
 

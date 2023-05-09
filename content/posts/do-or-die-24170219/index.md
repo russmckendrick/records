@@ -38,8 +38,12 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5EKDBIKZ37Idq0QiXG2qzk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/do-or-die/1485047507" >}}
+
+
 
 
 

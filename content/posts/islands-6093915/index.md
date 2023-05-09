@@ -28,9 +28,20 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5SHta5TtyI85Vb9pUBMYuG" width="100%" height="500" >}}
+The title track of <i>Islands</i> is a melancholic trance that outlines a mood of unattainable tranquility. Sung by new bassist Boz Burrell, it’s a strikingly patient and uncluttered ballad, and one of Crimson’s most delicate moments. Elsewhere, the band seeks to provoke the senses, not least with the spiky, lurching groove of “Ladies of the Road,” which sounds like The Beatles attempting <i>Bitches Brew</i>. Robert Fripp’s sonic ingenuity continues to blossom on “Sailor’s Tale,” in which his sustained guitar notes melt into a small symphony of glassy groans.
 
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/islands-expanded-edition/978453417" >}}
+
+
+
+
+
+## Videos
+### King Crimson - Islands
+{{< youtube id="jY7dbRyoHfE" title="King Crimson - Islands" >}}<br>
 
 
 

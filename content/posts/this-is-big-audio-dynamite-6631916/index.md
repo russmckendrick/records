@@ -30,8 +30,12 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7hPrpRim9NirEQiF4nXi7B" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-big-audio-dynamite/192786175" >}}
+
+
 
 
 

@@ -52,8 +52,14 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2fDm6GpssR8S6uQnDE4MKM" width="100%" height="500" >}}
+After four albums of skittish and meticulous New Wave pop, Andy Partridge pushed his band to create <i>English Settlement</i>, their first double album. It is an exceptionally ripe collection of ideas: one moment a jittery anti-violence chant (“Melt the Guns”), the next a double-speed pastoral skank (“English Roundabout”). He also toned down some of their trademark dissonance for chiming ’60s guitars, particularly on the stunning single “Senses Working Overtime”—a song about his impending nervous breakdown—and the unsettlingly sweet warning shot “All of a Sudden (It’s Too Late).”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/english-settlement/724357979" >}}
+
+
 
 
 

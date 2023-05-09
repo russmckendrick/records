@@ -34,8 +34,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2PaO94K7k8U9QPe2QWdRXf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pig-views/1561978428" >}}
+
+
 
 
 

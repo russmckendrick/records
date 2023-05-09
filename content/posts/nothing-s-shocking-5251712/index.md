@@ -32,8 +32,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4DVBJPJyizvHfJQt5pYaCa" width="100%" height="500" >}}
+Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says," the horn-driven funk of "Idiots Rule," and howling rocker "Pig’s in Zen" show a far more eccentric sensibility.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nothings-shocking/1018518208" >}}
+
+
 
 
 

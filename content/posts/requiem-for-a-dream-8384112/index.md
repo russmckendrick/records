@@ -61,8 +61,12 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7Jkv05qDgXZynnNaYcxY5W" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/requiem-for-a-dream-feat-kronos-quartet-original/315410011" >}}
+
+
 
 
 

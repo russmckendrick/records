@@ -35,8 +35,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4RoOGpdrgfiIUyv0kLaC4e" width="100%" height="500" >}}
+Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless,” where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/masseduction/1440947061" >}}
+
+
 
 
 

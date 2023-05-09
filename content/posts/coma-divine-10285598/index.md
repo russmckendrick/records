@@ -36,8 +36,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6VraqAY6LZwy2ymnAyWdpe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/coma-divine-recorded-live-in-rome-expanded-edition/1170643787" >}}
+
+
 
 
 

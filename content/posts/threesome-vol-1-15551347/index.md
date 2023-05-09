@@ -30,8 +30,12 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6kOgdCOle8lLNybjAAkaRg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/threesome-vol-1-ep/1503092920" >}}
+
+
 
 
 

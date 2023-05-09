@@ -33,8 +33,14 @@ styles: ["Progressive Metal", "Sludge Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1VzmKgEG38fsUBZVe15wuF" width="100%" height="500" >}}
+With their customary cross-breeding of rock genres, the Georgians reflect on mortality and serious illness via the story of a condemned man wandering the desert. So far, so prog. Indeed, “Jaguar God” spends eight minutes running the gamut from folk-rock and psychedelic abandon to iron-plated riffs and acrobatic fretwork. This deeply emotional record isn’t a wholesale return to the intricate epics of 2009’s <i>Crack the Skye</i>, though: the punchy hard rock of “Show Yourself” and the melodic sludge of “Steambreather” deliver instant, fun-sized thrills.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/emperor-of-sand/1195230194" >}}
+
+
 
 
 

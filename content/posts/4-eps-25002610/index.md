@@ -40,6 +40,13 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/4-eps/1621584649" >}}
+
+
+
+
+
 ## Videos
 ### Ride - Chelsea Girl
 {{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}<br>

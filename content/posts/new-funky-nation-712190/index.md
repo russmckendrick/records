@@ -35,8 +35,12 @@ styles: ["Gangsta"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0wwXoYRG1vO7IsZO9qlHkD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/new-funky-nation/1443498528" >}}
+
+
 
 
 

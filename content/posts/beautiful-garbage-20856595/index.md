@@ -35,8 +35,12 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0NVuRvkKyJU72UAADRQ1nq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beautiful-garbage/1544163294" >}}
+
+
 
 
 

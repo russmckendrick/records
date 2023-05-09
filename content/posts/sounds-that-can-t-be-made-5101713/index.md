@@ -30,8 +30,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0lAEuHtUjBNSqbM0ae5klW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sounds-that-cant-be-made/558499415" >}}
+
+
 
 
 

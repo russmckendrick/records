@@ -33,8 +33,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4GT6uZod4p5RiDMOVHOMme" width="100%" height="500" >}}
+Faith has always been a thematic touchstone for Arcade Fire (frontman Win Butler even took religious studies at college in Montreal) but the twin American pillars of religion and commercialism come to the fore on this second album. Recorded in a converted church, <i>Neon Bible</i> thrums with urgent boot-stompers (“Keep the Car Running”), and jittery, organ-drenched hymnals (“Intervention”). But, somehow, it still manages to meld its baleful worldview with tricksy, irresistible melodies.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/neon-bible/1252615522" >}}
+
+
 
 
 

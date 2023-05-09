@@ -33,8 +33,14 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2MXZ5iBdwsSzzlZszRZoTY" width="100%" height="500" >}}
+The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start,” whose comfortably numbing Floydian sway blossoms into orchestral ecstasy.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-optimist/1218795282" >}}
+
+
 
 
 

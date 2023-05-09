@@ -37,8 +37,14 @@ styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0YFBrqatMlyDCqqYhhoizO" width="100%" height="500" >}}
+For all the capering looseness on this debut from Kiwi comedy duo Flight of the Conchords—the futuristic ad-libs on “Robots”, say—it’s the loving craft and precision of these musical parodies that makes them soar. Whether they’re attempting a yé-yé song with limited French (“Foux Du Fafa”) or imagining a highly-specific Prince jam (“The Most Beautiful Girl (In the Room)”), Bret McKenzie and Jemaine Clement’s knowledge of, and affection for, their subjects shines through. One downside: you may never be able to listen to beloved records again without giggling. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/flight-of-the-conchords/278064216" >}}
+
+
 
 
 

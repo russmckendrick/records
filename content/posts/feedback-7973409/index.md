@@ -30,8 +30,14 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0mT6ezOOTIUucAF9csghFE" width="100%" height="500" >}}
+No one could've predicted this 2004 EP — a collection of the band's favorite tunes. The pure heavy metal thunder of Eddie Cochran's "Summertime Blues" is undeniable and quite a shocker coming from a band that always found ways to complicate its simplest impulses with elaborate concepts and deliberate, fussy intricacies. Here, guitarist Alex Lifeson turns the amp to ten, drummer Neil Peart kicks out the jams, slipping in just a few quick flourishes to keep things interesting, and singer Geddy Lee refrains from the high-end hysteria to deliver a full-throated attack. There's nearly an R&B menace to the folk-rock haunting the Yardbirds' "Heart Full of Soul," where gorgeous harmonies and Lifeson's thick fuzz-tone spring the song to life. They double-dip into the Yardbirds catalog with a sonically ambitious take on the psychedelic classic "Shapes of Things." The Buffalo Springfield's "For What It's Worth" never sounded more ominous and the band speeds up Love's "Seven and Seven Is" until it's nearly hardcore punk. This Canadian power trio has never been criticized for being too brief, but this collection could easily be expanded considering how much fun Rush is having.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/feedback-ep/642209709" >}}
+
+
 
 
 

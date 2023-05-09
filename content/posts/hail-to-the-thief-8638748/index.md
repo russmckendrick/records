@@ -36,8 +36,14 @@ styles: ["Alternative Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5mzoI3VH0ZWk1pLFR6RoYy" width="100%" height="500" >}}
+“That’s a nice way to start, Jonny,” mutters Thom Yorke, backed by the introductory blast of feedback on “2 + 2 = 5”. It’s a fitting opening for <i>Hail to the Thief</i>, a sixth record that sees Radiohead relinquish some of their trademark fastidiousness for something more rough-hewn, spontaneous, and freeform. It’s an approach that, in keeping with the atmosphere of political turmoil, yields skittering, richly complex songs that perhaps peak with the heady, bitter march of “There, There”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hail-to-the-thief/1097863576" >}}
+
+
 
 
 

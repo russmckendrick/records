@@ -30,6 +30,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tubular-bells-50th-anniversary-celebration/1645180679" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

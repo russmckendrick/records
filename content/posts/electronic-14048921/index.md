@@ -52,8 +52,11 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5AgLnccLcpqgDWFO5stqx1" width="100%" height="500" >}}
+
 
 
 

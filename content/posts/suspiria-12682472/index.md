@@ -47,8 +47,15 @@ styles: ["Experimental", "Soundtrack"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2UehMLybYgLuuNHRNJpbCB" width="100%" height="500" >}}
+When director Luca Guadagnino (<i>Call Me By Your Name</i>, <i>A Bigger Splash</i>) first approached Radiohead frontman Thom Yorke about soundtracking his remake of the surrealist horror movie <i>Suspiria</i>, Yorke was reticent: After all, the original’s soundtrack (by Italian prog band Goblin) remains a classic of its kind, and anyway, Yorke had never even <i>written</i> a soundtrack before. But knowing he’d regret saying no, he said yes.<br />
+Inspired by the loose, hypnotic sound of German Krautrock (the remake is set in Berlin in 1977, the year the original <i>Suspiria</i> came out) and the cut-and-paste experiments of musique concrète, the result is probably the most relentlessly unsettled—and unsettling—album Yorke has ever been involved with. Eerie synth miniatures (“Volk”) mix with choral pieces (“Sabbath Incantation,” “The Conjuring of Anke”), and fragments (“A Soft Hand Across Your Face”) with full-fledged songs (“Has Ended,” “Unmade”). When the music does land somewhere comfortable—the twinkling waltz of “Suspirium”—enjoy the moment: It won’t stay that way for long.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/suspiria-music-for-the-luca-guadagnino-film/1432203897" >}}
+
+
 
 
 

@@ -33,6 +33,15 @@ styles: ["Psychedelic Rock", "Blues Rock"]
 <!-- section break -->
 
 
+On their second studio album, the British power trio subdues blues grooves to create a psychedelic hard-rock masterpiece. The trippy “Strange Brew” and the rollicking “Sunshine of Your Love” blend seamlessly with lesser-known tunes to form an aura that’s best conveyed by the album cover’s fluorescent colors. Jack Bruce and Eric Clapton create haunting vocal harmonies. And where Clapton’s guitar tones are sublimely experimental, drummer Ginger Baker provides eclectic rhythms that defy easy categorization.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/disraeli-gears/1440817229" >}}
+
+
+
 
 
 

@@ -47,6 +47,13 @@ styles: ["Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/smart/298625555" >}}
+
+
+
+
+
 ## Videos
 ### Sleeper - Inbetweener
 {{< youtube id="6Vrk-lBoxNA" title="Sleeper - Inbetweener" >}}<br>

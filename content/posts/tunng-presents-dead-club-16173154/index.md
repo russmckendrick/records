@@ -34,8 +34,12 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5jpgLuaFmwPsYw8n9pOcKc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tunng-presents-dead-club/1662910624" >}}
+
+
 
 
 

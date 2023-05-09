@@ -35,8 +35,12 @@ styles: ["IDM", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6g6WBTqT5gE4fAcwRljpjc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/207054203" >}}
+
+
 
 
 

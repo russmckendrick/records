@@ -32,8 +32,12 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4wanbjhmr7hmCDpB5xuNNa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hay-tiempo/1525715715" >}}
+
+
 
 
 

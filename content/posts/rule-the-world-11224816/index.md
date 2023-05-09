@@ -38,8 +38,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2HyJKdwnnaM156kvcPDwr8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rule-the-world-the-greatest-hits/1440759345" >}}
+
+
 
 
 

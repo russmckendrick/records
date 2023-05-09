@@ -35,6 +35,13 @@ styles: ["Indie Pop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-good-wishes/1385894969" >}}
+
+
+
+
+
 ## Videos
 ### Gulp - Search For Your Love (Official Video)
 {{< youtube id="Vr3Ib8vomG0" title="Gulp - Search For Your Love (Official Video)" >}}<br>

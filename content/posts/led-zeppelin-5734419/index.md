@@ -31,8 +31,16 @@ styles: ["Blues Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="44Ig8dzqOkvkGDzaUof9lK" width="100%" height="500" >}}
+Years after <i>Led Zeppelin IV</i> became one of the most famous albums in the history of rock music, Robert Plant was driving toward the Oregon Coast when the radio caught his ear. The music was fantastic: old, spectral doo-wop—nothing he’d ever heard before. When the DJ came back on, he started plugging the station’s seasonal fundraiser. Support local radio, he said—we promise we’ll never play “Stairway to Heaven”. Plant pulled over and called in with a sizable donation. It wasn’t that he didn’t like the song, he said later. He’d just heard it plenty before.<br /> 
+It hangs together well enough as an album. But the real beauty of <i>IV</i> is as a collection of seeds, each sprouting in a different direction: gentle folk (“Going to California”) and nasty blues (“Black Dog”), the epic (“Stairway to Heaven”) and the concise (“Rock and Roll”). That fans have fought for years over the album’s perfect moment (it’s “When the Levee Breaks”) is a testament not only to the passion the band inspires, but also to how perfectly they capture their own internal yins and yangs. An entire ecosystem of music could be built on the songs here. And it was.<br />
+Overstated? Yes—there are times when <i>IV</i> seems to exist to ask why you would overdub one guitar when you could overdub four. But if the flowery stuff doesn’t work for you (“The Battle of Evermore”), the dirty stuff (“Misty Mountain Hop”) probably will, and if you prefer your symphonies to stay in the concert hall, the band still sweats, pounds and moans enough to scandalise company at levels polite and otherwise. The irony of <i>IV</i> is that it opened a new world for hard rock by embracing the colour and variety of its natural enemy: pop.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-iv-remastered/580708175" >}}
+
+
 
 
 

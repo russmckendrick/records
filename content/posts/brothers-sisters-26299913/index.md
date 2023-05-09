@@ -35,6 +35,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/brothers-sisters/1650378995" >}}
+
+
+
+
+
 ## Videos
 ### Steve Mason - Mars Man (Official Audio)
 {{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man (Official Audio)" >}}<br>

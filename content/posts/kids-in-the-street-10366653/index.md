@@ -34,8 +34,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="10bNKmk6ZxM6HRB5mwh4SU" width="100%" height="500" >}}
+A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on classics: roots, country, Americana. He's already messed around with tradition, but on <i>Kids in the Street</i>, his sly stylistic mash-ups are revelatory. He zips between swaggering garage-damaged R&B (“Champagne Corolla”) and sweetly bluesy rock (“Short Hair Woman”). With savvy instrumentation and aching vocals, he freshens up bluegrass-anchored ballads (“Faded Valentine”) and country weepers (“What’s She Crying For”). Earle balances devilish playfulness with the arch outlook of a man who’s lived.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kids-in-the-street/1436938097" >}}
+
+
 
 
 

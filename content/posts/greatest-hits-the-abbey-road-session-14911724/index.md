@@ -36,6 +36,9 @@ styles: ["Alternative Rock"]
 
 
 
+
+
+
 ## Videos
 ### Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)
 {{< youtube id="h7-XdZj3a_A" title="Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)" >}}<br>

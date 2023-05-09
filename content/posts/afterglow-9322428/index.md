@@ -35,8 +35,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1DlJDIqxvAFNEAX2sEJQ2V" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/afterglow-deluxe-edition/1442858192" >}}
+
+
 
 
 

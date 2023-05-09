@@ -32,8 +32,12 @@ styles: ["Post Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3pJX3b0AAzg2r4vEZfqr17" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/night-raider-remastered/1458792311" >}}
+
+
 
 
 

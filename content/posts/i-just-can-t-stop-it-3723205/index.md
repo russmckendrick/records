@@ -38,6 +38,13 @@ styles: ["Ska"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-just-cant-stop-it/1215346597" >}}
+
+
+
+
+
 ## Videos
 ### The English Beat - Twist And Crawl
 {{< youtube id="Bch9DuV0Y8o" title="The English Beat - Twist And Crawl" >}}<br>

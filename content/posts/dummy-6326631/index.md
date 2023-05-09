@@ -32,8 +32,14 @@ styles: ["Trip Hop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3539EbNgIdEDGBKkUf4wno" width="100%" height="500" >}}
+Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to his band since this outstanding debut. You can see his point: a record as compellingly discomfiting as <i>Dummy</i> seems at odds with a movement that spawned multiple chill-out albums. Its noir, precisely layered sound—tranquilized hip-hop beats, haunted strings, and tortured guitar lines—is given soul by Beth Gibbons’s voice. Bruised, elegant, and confessional, she suggests a faded actress spilling her heart into a dressing room mirror on the exquisitely sad “Sour Times” and “Glory Box”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dummy/1440653096" >}}
+
+
 
 
 

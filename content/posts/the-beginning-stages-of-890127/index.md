@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3L5TWTJ9eqvUG213cc9v0y" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of-disk-1/121997782" >}}
+
+
 
 
 

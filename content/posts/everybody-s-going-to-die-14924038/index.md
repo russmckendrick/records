@@ -32,8 +32,12 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7zmXVi04UQH3Ku0slUVeBO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everybodys-going-to-die/1487673648" >}}
+
+
 
 
 

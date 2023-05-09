@@ -34,8 +34,12 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="55fq75UfkYbGMq4CncCtOH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/metallica-remastered/1571968136" >}}
+
+
 
 
 

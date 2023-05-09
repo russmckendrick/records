@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5vkqYmiPBYLaalcmjujWxK" width="100%" height="500" >}}
+Love and melody return as Radiohead hit a fine balance between adventure and warmth. With no label to please and a pay-what-you-want purchase model planned, <i>In Rainbows</i> was free to be wilfully avant garde. Instead, amid plenty of rhythmic and electronic flourishes, the band re-engage with tunes and guitars, framing emotional intensity within straightforward rock (“Bodysnatchers”) and gently burning love songs that are artful without being oblique (“All I Need”, “House of Cards”). Of course, the love Thom Yorke sings of is darkly complicated but it’s satisfying to hear his aching falsetto at the fore again.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-rainbows/1109714933" >}}
+
+
 
 
 

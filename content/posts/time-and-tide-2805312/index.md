@@ -50,8 +50,11 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5wMlZOCdi80meEY3mCbc8S" width="100%" height="500" >}}
+
 
 
 

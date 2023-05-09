@@ -40,8 +40,14 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7y0QwysyQgSf9fyBFr6Q3x" width="100%" height="500" >}}
+A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-hour-of-bewilderbeast/1540689690" >}}
+
+
 
 
 

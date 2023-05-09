@@ -35,8 +35,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4I9BDOOxpLw2ClFDRhTJaN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-our-bedroom-after-the-war/1269678307" >}}
+
+
 
 
 

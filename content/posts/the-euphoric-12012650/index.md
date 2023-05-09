@@ -31,8 +31,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5aa5POsnuQ2EmEXkrnzDVN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-euphoric/1370930459" >}}
+
+
 
 
 

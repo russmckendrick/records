@@ -32,8 +32,12 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1YrdGK2y2Edq2R5gFja2ai" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}
+
+
 
 
 

@@ -46,8 +46,12 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5FOHr9NAcLlF1ChHMulOMv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/von/1447419946" >}}
+
+
 
 
 

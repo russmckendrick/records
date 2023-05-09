@@ -56,8 +56,12 @@ styles: ["Folk Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="58NsNICf7hyif5WruzsLWc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-sin-%C3%A9-legacy-edition-audio-version/309064121" >}}
+
+
 
 
 

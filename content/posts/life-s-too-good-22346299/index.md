@@ -33,8 +33,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0UQGKhImc5hgh2SxYAA3Jp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1536988611" >}}
+
+
 
 
 

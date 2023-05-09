@@ -34,8 +34,12 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1MO10hUmqw1ANCmMprA2SU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-bit-of-what-you-fancy-30th-anniversary-edition/1574981034" >}}
+
+
 
 
 

@@ -37,6 +37,13 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/synchestra/1045644245" >}}
+
+
+
+
+
 ## Videos
 ### The Devin Townsend Band - Vampira Inside Out Music
 {{< youtube id="MMLXoobDKWs" title="The Devin Townsend Band - Vampira Inside Out Music" >}}<br>

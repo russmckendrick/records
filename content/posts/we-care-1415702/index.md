@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3TgmBpNScivl2SxxEJkR4W" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we-care/724612339" >}}
+
+
 
 
 

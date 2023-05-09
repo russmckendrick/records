@@ -33,6 +33,13 @@ styles: ["Alternative Rock", "Goth Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-love-songs-vol-666/1308838071" >}}
+
+
+
+
+
 ## Videos
 ### HIM-When Love And Death Embrace Music Video (HD)
 {{< youtube id="lERFDES7qz4" title="HIM-When Love And Death Embrace Music Video (HD)" >}}<br>

@@ -35,9 +35,20 @@ styles: ["Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0LfM3PGkXE6KvJEE1HkOnz" width="100%" height="500" >}}
+The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled album and 1977’s <i>Rumours</i>. Christine McVie penned some stellar songs as evidenced by the gossamer “Everywhere” and the seductive “Tell Me Lies” from the underrated 1987 album <i>Tango In The Night</i>. Lindsay Buckingham’s most memorable songs surface, such as the catchy strut of “Don’t Stop,” the anthemic “Go Your Own Way” and the weirdly brilliant title-track from 1979’s <i>Tusk</i>.
 
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}
+
+
+
+
+
+## Videos
+### Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album
+{{< youtube id="ohy8E4TJaZE" title="Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album" >}}<br>
 
 
 

@@ -38,8 +38,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0gkUcpkyW2SXN49Yktkf6F" width="100%" height="500" >}}
+“Our heads are just houses, without enough windows,” trills Régine Chassagne aboard the grand, orchestral sweep of “Half Light I.” It’s a line that typifies the poetic cynicism—and evocative suburban imagery—of Arcade Fire’s expansive third record. Dripping conflicted nostalgia (“Rococo”), adventurous thematic echoes (“The Suburbs” and “Suburban War”), and throbbing, piano-driven grandeur (“We Used To Wait”), <i>The Suburbs</i> both despairs and idealizes, cultivating a masterpiece from disenchantment with the information age.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-suburbs/1252757950" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Vze7jtjAVQOdIIQ8oO2X7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/garbage-20th-anniversary-edition/1544166061" >}}
+
+
 
 
 

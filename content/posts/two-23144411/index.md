@@ -32,8 +32,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2Wv3hPA9qYT7yC9AFY6iWe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/luh-feat-zakrem-extended-version-single/1617448535" >}}
+
+
 
 
 

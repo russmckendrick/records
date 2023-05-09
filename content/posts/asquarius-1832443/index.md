@@ -34,8 +34,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4CmyWfydUoXUlfpw0d0vkB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/asquarius-reissue-expanded/1443220829" >}}
+
+
 
 
 

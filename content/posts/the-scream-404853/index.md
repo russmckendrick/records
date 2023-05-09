@@ -32,8 +32,12 @@ styles: ["Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3uMr78kOScjc6eLHMYcVl4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-scream-deluxe/1412077263" >}}
+
+
 
 
 

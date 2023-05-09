@@ -44,8 +44,12 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="27QcRAR2ESoVje74G3SFyk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ix/1047146946" >}}
+
+
 
 
 

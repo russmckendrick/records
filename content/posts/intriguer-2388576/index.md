@@ -32,8 +32,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="55Mg8Cq8cttF64MzqN6T5N" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/intriguer-deluxe-version/1599607936" >}}
+
+
 
 
 

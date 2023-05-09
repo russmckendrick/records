@@ -39,6 +39,9 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 
 
 
+
+
+
 ## Videos
 ### Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A
 {{< youtube id="dNuZeKUhu70" title="Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A" >}}<br>

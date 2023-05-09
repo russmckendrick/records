@@ -33,8 +33,12 @@ styles: ["Downtempo", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1b8wM8rrNJzdxHykdygy9V" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/some-cities/724424013" >}}
+
+
 
 
 

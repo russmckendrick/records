@@ -35,8 +35,14 @@ styles: ["Alternative Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3Jr1RhAyndBxtyi8rJs3Op" width="100%" height="500" >}}
+Maynard James Keenan’s rock supergroup has seriously grown up in the 14 years since their last album. The Tool frontman’s band is still angry—they’ve just found new, different ways to express it. The gargantuan riffs of APC’s past now make room for strings, piano and post-rock builds. <i>Eat the Elephant</i> is thoughtful and brooding, but still heavy as ever (tracks like “TalkTalk” would fit right in on <i>Thirteenth Step</i>). Harps and horns make slow-burning “The Contrarian” frighteningly ominous, and “So Long, and Thanks for All the Fish” sounds so uplifting it’s unsettling—but its lyrics reveal a sardonic ode to modern life, while lamenting the loss of David Bowie and other legends.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/eat-the-elephant/1340651075" >}}
+
+
 
 
 

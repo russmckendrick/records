@@ -36,6 +36,13 @@ styles: ["Blues Rock", "Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sittin-heavy/1600457332" >}}
+
+
+
+
+
 ## Videos
 ### Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016
 {{< youtube id="EKv4MNo03zY" title="Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016" >}}<br>

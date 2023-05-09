@@ -42,8 +42,12 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5kSUsy5FU3Wcxd4DBvXFm4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blade-runner-2049-original-motion-picture-soundtrack/1291056782" >}}
+
+
 
 
 

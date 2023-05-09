@@ -37,8 +37,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6CdJfbaGFV9yTIMzrJMoIm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-temperance-movement-deluxe-edition/909486206" >}}
+
+
 
 
 

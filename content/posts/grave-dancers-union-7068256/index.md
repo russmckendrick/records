@@ -34,8 +34,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3EFhsxrJoH3yE3r8bHheE6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grave-dancers-union-2022-remaster/158329476" >}}
+
+
 
 
 

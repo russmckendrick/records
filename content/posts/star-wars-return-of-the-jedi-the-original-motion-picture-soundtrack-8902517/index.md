@@ -35,6 +35,13 @@ styles: ["Soundtrack"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/star-wars-return-of-the-jedi-original-motion/1375817940" >}}
+
+
+
+
+
 ## Videos
 ### Return of the Jedi (1983) Retrospective / Review
 {{< youtube id="N2tL4w8qgpk" title="Return of the Jedi (1983) Retrospective / Review" >}}<br>

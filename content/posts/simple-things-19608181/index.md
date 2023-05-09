@@ -33,8 +33,14 @@ styles: ["Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1VRBB9iu84o3g16CczH9iH" width="100%" height="500" >}}
+Born in the groggy, morning after haze of a new millennium, there is something fittingly languid, contemplative and ephemeral about Zero 7’s 2001 debut. Or, to perhaps put it another way, schoolfriends Henry Binns and Sam Hardaker’s first record sculpts a sonic atmosphere that enraptures even as it slips your grasp; its mixture of jazz-inflected instrumentals and hushed vocal tracks caught somewhere between a dream and the soundtrack for a nonexistent movie. “Distractions” (one of two songs fronted by a young, pre-global domination Sia Furler) is the true north of this approach: a weightless miracle of space-age effects and pleading, supple soul. But former sound engineers Binns and Hardaker are just as adept at lyricless communication (just drink in the lush, soaring strings on “Polaris”). And <i>Simple Things</i> is ultimately—fittingly—a masterpiece of restraint, space and a subtle, whispered sort of beauty.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/simple-things-special-edition/1441141192" >}}
+
+
 
 
 

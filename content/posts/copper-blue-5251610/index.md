@@ -34,6 +34,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/copper-blue-deluxe-edition/529998071" >}}
+
+
+
+
+
 ## Videos
 ### Copper Blue Sugar (Full Version / Album Complet 1992) HQ
 {{< youtube id="BfGioWWLZ8E" title="Copper Blue Sugar (Full Version / Album Complet 1992) HQ" >}}<br>

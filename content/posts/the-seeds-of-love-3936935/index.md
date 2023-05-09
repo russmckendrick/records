@@ -30,8 +30,12 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4oel5wcfKxpWxJuC4VbtuO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-seeds-of-love/1447096341" >}}
+
+
 
 
 

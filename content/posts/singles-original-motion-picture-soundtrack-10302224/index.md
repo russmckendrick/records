@@ -53,8 +53,11 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}
+
 
 
 

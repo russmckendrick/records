@@ -37,6 +37,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}
+
+
+
+
+
 ## Videos
 ### MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)
 {{< youtube id="Rdqu-HObUbo" title="MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)" >}}<br>

@@ -39,8 +39,14 @@ styles: ["Blues Rock", "Texas Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4dShhtGUjPunYS95jHOm3r" width="100%" height="500" >}}
+This double album is the ultimate anthology of blues rock guitar genius Stevie Ray Vaughan's brilliant but tragically brief career. With a discography spanning just eight years, the Texas axeman almost single-handedly brought the blues back into the mainstream with searing shuffles like "Pride and Joy" and tender instrumentals like the aqueous "Lenny," which simultaneously channeled Jimi Hendrix and Albert King. And he could make the funk flow when he wanted, as shown by tracks like "Couldn't Stand the Weather."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-stevie-ray-vaughan-and-double-trouble/193063151" >}}
+
+
 
 
 

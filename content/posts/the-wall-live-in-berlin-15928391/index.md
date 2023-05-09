@@ -50,8 +50,12 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2x0jjg2Pw98wHDixqzCeqy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291" >}}
+
+
 
 
 

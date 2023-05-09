@@ -31,8 +31,12 @@ styles: ["Ambient", "Berlin-School"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6h0wIWFJY2SyjL10ojsajL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/quantum-gate/1275652998" >}}
+
+
 
 
 

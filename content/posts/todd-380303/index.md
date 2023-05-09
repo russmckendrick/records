@@ -39,8 +39,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5vsHuXiqwQZYT6AD5NKYsd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-todd-rundgren/107636259" >}}
+
+
 
 
 

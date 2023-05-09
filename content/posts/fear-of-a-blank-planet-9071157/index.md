@@ -28,8 +28,12 @@ styles: ["Indie Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="59J51uy6r6QcYe7cX0Fzz6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fear-of-a-blank-planet/1532103463" >}}
+
+
 
 
 

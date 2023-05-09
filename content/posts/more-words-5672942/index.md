@@ -38,6 +38,9 @@ styles: []
 
 
 
+
+
+
 ## Videos
 ### Gentle On My Mind , Glen Campbell , 1967 Vinyl
 {{< youtube id="VecunpIqlg0" title="Gentle On My Mind , Glen Campbell , 1967 Vinyl" >}}<br>

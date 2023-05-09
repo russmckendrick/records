@@ -34,8 +34,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="76u6r3rbepB6621MXHm0mo" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gleb-kolyadin/1316964513" >}}
+
+
 
 
 

@@ -31,8 +31,16 @@ styles: ["Soundtrack"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7nXJ5k4XgRj5OLg9m8V3zc" width="100%" height="500" >}}
+Sometime during the half-year stretch when 1984’s <i>Purple Rain</i> was the most popular album in America, Tipper Gore, wife of then-senator Al Gore, walked in on their 11-year-old daughter listening to the song “Darling Nikki.” She was shocked. The lyrics—with their references to pornography, masturbation, sex toys, and sex itself—seemed inappropriate for a child. Within a year or so, she’d formed a committee called Parents Music Resource Center, designed to raise awareness about the moral evils of pop music—a campaign that went so far as to put stickers on the albums themselves: “Parental Advisory: Explicit Content.”<br /> 
+Of course, to hear “Darling Nikki” as a song only about sex is to miss the point, and to reduce “sex” in the world of Prince to the physical act is to miss it further. The brilliance of <i>Purple Rain</i> is how it stirs seemingly contradictory moods—lust, devotion, intimacy, alienation—into a brew where nothing can be separated from anything else. He makes trauma sound erotic (“When Doves Cry”) and salvation sound reckless (“Let’s Go Crazy”). His sexual escapades are spiritual, disorienting, and almost psychedelic (“Darling Nikki,” “Computer Blue”), while his spiritual journeys are grounded in the mechanics of a guitar solo (“Purple Rain”). <br />
+In putting together Prince’s wardrobe for the movie that the album soundtracked, costume designer Marie France noticed the way he was drawn to contrasts: a silk trench coat with punky silver studs; clean, masculine lines with feminine fabrics like lace and chiffon; the edgy and the romantic. He often drew comparisons to Jimi Hendrix for the way he mixed music that felt Black and white, sacred and profane (even though, as he pointed out, his playing was more like Santana’s). The reality is that he had no precedent then and no comparison now. Tipper Gore may have been right in her panic over “Darling Nikki,” but not for the reasons she thought: The song’s power isn’t just that it’s explicit, but that it manages to be mysterious at the same time.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/purple-rain-soundtrack-2015-paisley-park-remaster/214145442" >}}
+
+
 
 
 

@@ -30,8 +30,14 @@ styles: ["Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6a1HtLhd3zNccXRNUZ23ge" width="100%" height="500" >}}
+The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiration from its members, sourced from all over the world. Produced by bassist-composer and founder Michael League, the richly instrumental and spiritual <i>Immigrance</i> celebrates multiculturalism and calls for a revaluing of human connection and harmony. This message resonates throughout the album’s sound palette with compositions like “Xavi”, inspired by Moroccan Chaabi groove, and the jazz-funk beat of “Bad Kids to the Back”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/immigrance/1448116436" >}}
+
+
 
 
 

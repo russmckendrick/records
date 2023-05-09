@@ -34,8 +34,12 @@ styles: ["Ambient", "Soundtrack", "Score"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6NkuCdMz5tGmHbOXAWbtCW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blade-runner-original-score-from-the-motion-picture/73327394" >}}
+
+
 
 
 

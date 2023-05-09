@@ -41,8 +41,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7FwAtuhhWivxvK4aPgyyUD" width="100%" height="500" >}}
+It's pretty funny that two paeans to sloth are buried on this hard-working 19-song album, but that's hardly the only good joke on <i>Flood</i>, trickster duo They Might Be Giants' third album. (Try the title of "We Want a Rock.") Their first for Elektra, it finds the indie wunderkinds taking their omnivorous, only-half-kidding pop above ground. Four tracks produced by English hitmakers Clive Langer and Alan Winstanley (Elvis Costello, Madness) include a wry, genuinely touching missive from a nightlight  ("Birdhouse in Your Soul") and an obscure '50s geopolitical lesson ("Istanbul (Not Constantinople)"). Concept-sealing musical detail abounds, from the noisy party at which "Your Racist Friend" holds forth to the elegant statement from noise guitarist Arto Lindsay that ends "Hearing Aid."  Proof that TMBG's concepts traveled well even when separated from college-radio environs: <i>Flood</i> eventually went gold.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/flood/298111036" >}}
+
+
 
 
 

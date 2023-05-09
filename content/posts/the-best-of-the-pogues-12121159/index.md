@@ -36,8 +36,12 @@ styles: ["Folk", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3wRRu2P6cndiyru88yCXnL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980" >}}
+
+
 
 
 

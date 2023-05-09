@@ -34,8 +34,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ntg4L6zjosDII94zoyboq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/speak-and-spell-deluxe/665412305" >}}
+
+
 
 
 

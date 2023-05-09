@@ -33,8 +33,14 @@ styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Bmuyq89rXZJNK1w8pauEg" width="100%" height="500" >}}
+While underground raves had made landfall in the US, electronic music was not a mainstream proposition there in 1995. This album helped change that. A demolition derby of breakbeats and synth pyrotechnics, The Chemical Brothers' debut combined the attitude of rock with the energy of club music. There are synths here that sound like buzz saws, and beats that could plow through roadblocks. With its repeated promise that "the brothers gonna work it out", "Leave Home" is one of the most emphatic album openers ever.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/exit-planet-dust/723670972" >}}
+
+
 
 
 

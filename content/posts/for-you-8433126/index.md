@@ -33,8 +33,14 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0IofYnPCppEIKAJmc517JS" width="100%" height="500" >}}
+Stepping onto the world stage in 1978, Prince was already a wildly talented soul singer with an unusual taste for hard rock riffs and future-shock keyboard hooks. His sumptuous debut, <i>For You</i>, blends opulent disco-era arrangements with the raw lyrics and the wildly distinctive style that would quickly define him. While it’s not as expansive or experimental as the albums that followed, <i>For You</i> remains a luscious collection of offbeat electro-funk (“Soft and Wet”) and steamy slow jams (“Baby”).
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/for-you/663586846" >}}
+
+
 
 
 

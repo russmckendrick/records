@@ -51,8 +51,11 @@ styles: ["Soundtrack"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="1XaJOcLe3xMQ611SMHtOja" width="100%" height="500" >}}
+
 
 
 

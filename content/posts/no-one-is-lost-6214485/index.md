@@ -33,8 +33,12 @@ styles: ["Indie Rock", "Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1DO8C1pmMT1llrTbm0Se83" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-one-is-lost/908536655" >}}
+
+
 
 
 

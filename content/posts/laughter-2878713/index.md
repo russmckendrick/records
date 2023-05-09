@@ -36,6 +36,13 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/laughter/1489399868" >}}
+
+
+
+
+
 ## Videos
 ### Manic Depression (Jimi)
 {{< youtube id="CIhx64KPoRg" title="Manic Depression (Jimi)" >}}<br>

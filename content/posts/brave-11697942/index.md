@@ -62,8 +62,12 @@ styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1gREZOde7X9shG1p2WmsvU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/brave/693409538" >}}
+
+
 
 
 

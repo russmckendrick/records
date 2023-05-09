@@ -34,8 +34,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5F9YYEKDxenkRpyuovdqZe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/head-carrier/1589760454" >}}
+
+
 
 
 

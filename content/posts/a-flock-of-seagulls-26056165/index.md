@@ -33,8 +33,12 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4PBrFxguHrtne9aVbwWTh1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-a-flock-of-seagulls/290766340" >}}
+
+
 
 
 

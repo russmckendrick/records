@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3YBbEumtx9naxbCQWoeu41" width="100%" height="500" >}}
+Far from stalling Suede, the departure of guitarist Bernard Butler seems to loosen them up. With snake hips, <i>Coming Up</i> wriggles free of <i>Dog Man Star</i>’s claustrophobia and Brett Anderson's melodramas ring with more defiance than despair. New boy Richard Oakes is a faithful substitute for Butler’s spidery effervescence on cocksure stomps “Trash” and “Beautiful Ones”, and “Saturday Night” confirms that they can still shape melancholy and nihilism into a gorgeous ballad.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/coming-up-remastered-deluxe-edition/437633399" >}}
+
+
 
 
 

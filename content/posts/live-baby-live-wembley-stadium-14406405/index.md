@@ -46,6 +46,9 @@ styles: ["Alternative Rock"]
 
 
 
+
+
+
 ## Videos
 ### INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live
 {{< youtube id="KygvdzH0gj4" title="INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live" >}}<br>

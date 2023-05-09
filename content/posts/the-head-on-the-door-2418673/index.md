@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Uq47onfCEj5en94jpHovk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-head-on-the-door-remastered/1440791711" >}}
+
+
 
 
 

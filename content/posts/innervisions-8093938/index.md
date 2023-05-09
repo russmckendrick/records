@@ -31,25 +31,14 @@ styles: ["Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5jgI8Eminx9MmLBontDWq8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/innervisions/1440806790" >}}
 
 
 
-## Videos
-### Too High
-{{< youtube id="UvtYEdYjkJM" title="Too High" >}}<br>
 
-### More Videos
-
-- [Visions](https://www.youtube.com/watch?v=fy4fMlLj_B8)
-- [Living For The City](https://www.youtube.com/watch?v=ghLWjyOOLno)
-- [Golden Lady](https://www.youtube.com/watch?v=CXCTjAMR3eA)
-- [Higher Ground](https://www.youtube.com/watch?v=1esf0efHbjM)
-- [Jesus Children Of America](https://www.youtube.com/watch?v=8o8FVoib92w)
-- [All In Love Is Fair](https://www.youtube.com/watch?v=1surYguNfEg)
-- [Don't You Worry 'Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
-- [He's Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
 
 
 ## Release Information

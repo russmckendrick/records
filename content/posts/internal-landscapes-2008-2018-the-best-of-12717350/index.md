@@ -37,6 +37,13 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/internal-landscapes-best-of-2008-2018/1424981630" >}}
+
+
+
+
+
 ## Videos
 ### Anathema - Springfield (from The Optimist)
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}<br>

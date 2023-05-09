@@ -39,8 +39,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5BeufSLtuFnIP808stSFjg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796" >}}
+
+
 
 
 

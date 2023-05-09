@@ -37,8 +37,12 @@ styles: ["P.Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ndTmbdsSz7Bbuw6up7Pk6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/world-wide-funk/1600467754" >}}
+
+
 
 
 

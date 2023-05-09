@@ -46,6 +46,13 @@ styles: ["Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1535128775" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

@@ -39,8 +39,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6WK4H6AhFAt4RhuTzLFJws" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nonsuch/724439635" >}}
+
+
 
 
 

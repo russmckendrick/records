@@ -34,8 +34,12 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4jSXkwrnjdMeYWCTCtlxgH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lighthouse/1086183990" >}}
+
+
 
 
 

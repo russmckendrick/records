@@ -32,8 +32,12 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2oJwcaAzLz9LWPGhMEMSYq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/doom-side-of-the-moon/1600465934" >}}
+
+
 
 
 

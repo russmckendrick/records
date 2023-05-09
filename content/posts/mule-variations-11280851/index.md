@@ -38,8 +38,12 @@ styles: ["Abstract", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7cAcex6xw4fP67ltgn1gm3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mule-variations-remastered/1485070836" >}}
+
+
 
 
 

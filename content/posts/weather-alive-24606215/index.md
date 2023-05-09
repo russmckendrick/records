@@ -30,8 +30,12 @@ styles: ["Ethereal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4LukTKZB3A6mp2jaed8x64" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/weather-alive/1624041691" >}}
+
+
 
 
 

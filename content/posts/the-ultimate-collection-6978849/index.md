@@ -43,6 +43,13 @@ styles: ["Folk Rock", "Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/paul-simon-the-ultimate-collection/967293370" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

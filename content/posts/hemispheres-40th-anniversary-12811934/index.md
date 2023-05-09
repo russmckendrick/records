@@ -39,8 +39,12 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5G0G9TLLWr8n1abpY4ihmy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hemispheres-40th-anniversary/1437585347" >}}
+
+
 
 
 

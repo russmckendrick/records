@@ -44,8 +44,12 @@ styles: ["Synth-pop", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7JzIz5uW3p6IUPOtAzOIyw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pale-green-ghosts/730337669" >}}
+
+
 
 
 

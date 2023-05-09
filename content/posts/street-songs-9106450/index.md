@@ -30,8 +30,14 @@ styles: ["Funk", "Disco"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2DBFUBBqJQvfXpodPi2WP5" width="100%" height="500" >}}
+With 1981’s <i>Street Songs</i>, Rick James slapped a rocker’s edge onto disco’s derriere. Inspired by the Buffalo projects where they grew up, he and the Stone City Band explore a thriving subculture of prostitutes, junkies and hustlers on “Ghetto Life”, while “Mr. Policeman” is one of the first songs to openly address police brutality. James had the guts to go where others wouldn’t dare. With their wired grooves and debauched come-ons, “Give It to Me Baby” and “Super Freak” are more than suggestive—they’re deliriously, defiantly hedonistic.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/street-songs/1440805214" >}}
+
+
 
 
 

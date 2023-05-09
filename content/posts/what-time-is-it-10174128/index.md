@@ -28,8 +28,12 @@ styles: ["Electro", "Soul", "Funk", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="57YH772Zn30jNACjrTpbFK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/what-time-is-it-single/716395719" >}}
+
+
 
 
 

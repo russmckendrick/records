@@ -32,8 +32,14 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="00BBpx0gG4KfQtxSJBPKUZ" width="100%" height="500" >}}
+Working again with director Barbet Schroeder, Pink Floyd created this soundtrack for the film <i>La Vallée</i> over a two-week period in early 1972. It was a relatively quick session for the group, which was also recording <i>The Dark Side of the Moon</i> back in London. To compare it to the soundtrack they had recorded just three years earlier (<i>More</i>) is remarkable—just listen to the tightly arranged, pastoral wonder of “Wot’s ... Uh the Deal” or the nearly glam, folk sing-along “Free Four”. With the dark, paranoia-and-synthesiser-tinged “Childhood’s End”, you can hear the seeds of the music that came to fruition on <i>The Dark Side ... </i>. At this point in their career, Pink Floyd had developed into a distinct and powerful group—veering between stately rock ’n’ roll and wide-eyed wonder at the drop of a hat. All the pieces of the band were in place on this album—lyrical introspection, Gilmour’s soaring guitar work and the loping gait of the rhythm section.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/obscured-by-clouds/717956085" >}}
+
+
 
 
 

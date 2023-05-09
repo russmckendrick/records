@@ -31,8 +31,12 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3LdlOZcV0dp7ePBXe2KAGa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mott-the-hoople-greatest-hits/532943087" >}}
+
+
 
 
 

@@ -42,8 +42,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2u9kFU66dEBxvvw23QPujf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-natural-disaster-remastered/970424341" >}}
+
+
 
 
 

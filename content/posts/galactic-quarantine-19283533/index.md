@@ -52,8 +52,12 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0HIX5tm0EFBK7x91GCaIbM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/devolution-series-2-galactic-quarantine-live/1564004758" >}}
+
+
 
 
 

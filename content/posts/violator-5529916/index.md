@@ -31,8 +31,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5g3Yi15plTSMaq6tYiuw8p" width="100%" height="500" >}}
+On their seventh album, Depeche Mode struck upon a balance of lust, gloom, and melody that turned them into global superstars. Inspired by Priscilla Presley’s account of her life with Elvis, lead single “Personal Jesus” incorporates a rockabilly twang, the blues, and a preacher man’s fervor into their synth-pop, while “Enjoy the Silence,” originally written as a ballad, becomes one of their finest moments by mounting its mournful bass and pleading chorus onto house beats.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/violator-deluxe/1174246686" >}}
+
+
 
 
 

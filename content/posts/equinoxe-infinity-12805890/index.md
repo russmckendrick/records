@@ -32,8 +32,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4wc5RqHgN4VmoW0iulFneI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/equinoxe-infinity/1435149472" >}}
+
+
 
 
 

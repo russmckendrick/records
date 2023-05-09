@@ -72,6 +72,15 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 <!-- section break -->
 
 
+Joe Strummer’s late work with The Mescaleros continued the project his previous band, The Clash, had started: to situate rock in a global conversation about working-class music. Comprising the band’s three studio albums (1999’s <i>Rock Art and the X-Ray Style</i>, 2001’s <i>Global a Go-Go</i> and 2003’s <i>Streetcore</i>) plus outtakes and live tracks, <i>The Mescaleros Years</i> moves briskly and knowledgeably but with the same beginner’s passion Strummer marshalled for 30 years, fusing fiddle music with Indian rhythms (“Bhindi Bhagee”), garage rock with reggae (“Coma Girl”) and cosmopolitan beats with backwoods feedback (the outtake “Ocean of Dreams”). No matter where they go, every song here bears a sense of celebration. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/joe-strummer-002-the-mescaleros-years/1635875119" >}}
+
+
+
 
 
 ## Videos

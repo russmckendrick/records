@@ -33,8 +33,12 @@ styles: ["Leftfield", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ky3W5jkdbGeNQOqm7hCAX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-secret-of-letting-go/1449335374" >}}
+
+
 
 
 

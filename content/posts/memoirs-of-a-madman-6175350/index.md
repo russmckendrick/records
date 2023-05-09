@@ -39,8 +39,12 @@ styles: ["Hard Rock", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5k1h73bDwVffYMNx4yj22s" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/memoirs-of-a-madman/911604105" >}}
+
+
 
 
 

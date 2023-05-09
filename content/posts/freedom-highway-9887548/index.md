@@ -34,8 +34,12 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1CVuPxNHwY5ORJ8MhjD0UB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/freedom-highway/1179556528" >}}
+
+
 
 
 

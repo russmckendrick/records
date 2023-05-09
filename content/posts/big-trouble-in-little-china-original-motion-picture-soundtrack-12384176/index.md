@@ -42,8 +42,12 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="69itXZ73r3zpYhaWMTYD4H" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/big-trouble-in-little-china-original-motion-picture/1502302598" >}}
+
+
 
 
 

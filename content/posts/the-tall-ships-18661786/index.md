@@ -48,6 +48,13 @@ styles: ["Symphonic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-tall-ships/1056381718" >}}
+
+
+
+
+
 ## Videos
 ### It Bites - The Tall Ships (FULL ALBUM)
 {{< youtube id="phNXbg1DBIY" title="It Bites - The Tall Ships (FULL ALBUM)" >}}<br>

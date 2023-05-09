@@ -34,8 +34,14 @@ styles: ["Hard Rock", "Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3XYqOJI1YlX40kJTdzFEzp" width="100%" height="500" >}}
+<i>Permanent Vacation</i> opens with the weird wail of "Heart's Done Time," echoing "Sweet Emotion," one of Aerosmith's finest moments, and from there the fresh-from-rehab band proceeds to reclaim the classic-rock throne. Debate rages eternal over whether the album's lynchpin is the staccato strut of "Rag Doll" or the self-aware riffage of "Dude (Looks Like a Lady)"; both are defining moments of '80s Aerosmith. Perfectly punchy, "I'm Down" is not the first time they covered The Beatles, and someone snuck a steel drum into the party-starting title track.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/permanent-vacation/1440823323" >}}
+
+
 
 
 

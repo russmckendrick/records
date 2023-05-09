@@ -34,8 +34,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4d0NAOjtU92WVcPVfIPz4q" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-animals/1047014473" >}}
+
+
 
 
 

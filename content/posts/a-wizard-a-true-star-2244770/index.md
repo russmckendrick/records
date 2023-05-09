@@ -45,8 +45,12 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1RSC0dy1oOIS3RO8tomZOV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-wizard-a-true-star/1084056467" >}}
+
+
 
 
 

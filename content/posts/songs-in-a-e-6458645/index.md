@@ -40,8 +40,11 @@ styles: ["Alternative Rock", "Space Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="2sVtK7SzMhN1NRrTB42Vqo" width="100%" height="500" >}}
+
 
 
 

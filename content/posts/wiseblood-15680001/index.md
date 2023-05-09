@@ -35,8 +35,12 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2KSTxX4gIPwRIqJD9QdtFp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wiseblood/170614446" >}}
+
+
 
 
 

@@ -39,8 +39,12 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6UTPtKWSrjSYls6za3poKj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/god-says-no/1442653776" >}}
+
+
 
 
 

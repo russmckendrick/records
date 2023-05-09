@@ -32,8 +32,12 @@ styles: ["Contemporary Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5imbMBaEeWCWiQJtNgo2vg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/as-we-stand-feat-moses-boyd/1617398228" >}}
+
+
 
 
 

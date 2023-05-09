@@ -49,8 +49,15 @@ styles: ["Rock & Roll", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6QaVfG1pHYl1z15ZxkvVDW" width="100%" height="500" >}}
+For better and worse, <i>Sgt. Pepper’s Lonely Hearts Club Band</i> helped set the precedent that rock bands could (and should) do more or less whatever they wanted. Songs got longer, albums grew concepts and the idea of the LP as a concise product meant to showcase a performer’s talents gave way to the suspicion that commercial concerns ultimately only served The Man. A few months before The Beatles were set to record <i>Sgt. Pepper’s</i>, Bob Dylan had released <i>Blonde on Blonde</i>, an album so expansive it had to literally be pressed onto two records, while The Beach Boys’ <i>Pet Sounds</i> stretched the dimensions and possibilities of the three-minute pop song. McCartney in particular had been fascinated by things like Frank Zappa & The Mothers of Invention’s 1966 debut, <i>Freak Out!</i>, a double album whose hodgepodge of songs, noise, skits and sound gags mirrored conceptual art’s breaking of the painterly frame. Where The Beatles had once sought to distil and consolidate, now they were looking to expand. McCartney had even come up with an alter ego and pseudo-unifying backstory—a move Lennon later said only worked because the band <i>said</i> it worked. In other words, they didn’t want to just exorcise the group that made “I Want to Hold Your Hand”, they wanted to smother them with a pillow. Vacationing in France just before recording had started, McCartney slicked his hair back with Vaseline and wandered the streets in a fake moustache and clear-lens glasses, an experience he called “quite liberating”.<br />
+For all its experiments (“A Day in the Life”) and invocations of the counterculture (“Lucy in the Sky With Diamonds”), it’s probably the band’s most conservative album: the beer hall sing-alongs of the title track and “With a Little Help From My Friends”, the old-timey entertainments of “Being for the Benefit of Mister Kite!”, the domestic contentment of “When I’m Sixty-Four”. Like The Kinks circa “Waterloo Sunset” and <i>The Kinks Are the Village Green Preservation Society</i> and The Beach Boys of <i>Smiley Smile</i>, <i>Sgt. Pepper’s</i> is an album that looked towards the past instead of the future, the work of guys in their late twenties starting to wonder if they’d been too eager to break from the old world—or at least might have lost something along the way. (Lennon’s “Strawberry Fields Forever”, recorded around the same time, covered similar themes; that the band was all taking acid—a drug that has a way of flattening geologic time—probably didn’t hurt either.) Even Lennon’s lyric on “A Day in the Life”—“I read the news today, oh boy”—rang with a cosmic quaintness, an image not of young radicals on the loose but of the aging souls of “Eleanor Rigby”, finding infinite richness in a narrow life. A couple of months after the album was released, the band—along with partners, children and business infrastructure—travelled to Greece with the vague intention of buying an island for everyone to live on, but eventually managed to think better of it.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sgt-peppers-lonely-hearts-club-band-remix/1573250333" >}}
+
+
 
 
 

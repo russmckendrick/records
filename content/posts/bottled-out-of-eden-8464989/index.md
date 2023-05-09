@@ -44,8 +44,12 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5y7jTbe2INzkBFMqeGVIH6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bottled-out-of-eden/1087654773" >}}
+
+
 
 
 

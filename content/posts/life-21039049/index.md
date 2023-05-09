@@ -36,6 +36,13 @@ styles: ["Indie Pop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/life-extended-edition/1193777299" >}}
+
+
+
+
+
 ## Videos
 ### Real Thing
 {{< youtube id="xHOPXlOyUCY" title="Real Thing" >}}<br>

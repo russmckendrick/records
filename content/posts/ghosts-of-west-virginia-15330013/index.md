@@ -32,8 +32,12 @@ styles: ["Country"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6wQa5jlPJRxZnQjpZLlsMD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ghosts-of-west-virginia/1499101368" >}}
+
+
 
 
 

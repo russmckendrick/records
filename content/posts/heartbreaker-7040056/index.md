@@ -37,8 +37,14 @@ styles: ["Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7hmZCaBzp6mVrelxW6Ckrn" width="100%" height="500" >}}
+Ryan Adams began his solo career close to where he'd left off with Whiskeytown—kicking out rough-and-tumble country and heart-on-sleeve ballads. The difference is how relaxed he sounds, even when rocking out on "To Be Young (Is to Be Sad, Is to Be High)" and singing duet with Emmylou Harris on "Oh My Sweet Carolina." Collaborators Gillian Welch and David Rawlings keep him in a good-natured mood, and their harmonies help make "Amy" one of the prettiest tunes he'd yet written. Only the near-punk "Shakedown on 9th Street" hints at how musically unpredictable he'd become.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/heartbreaker/593627968" >}}
+
+
 
 
 

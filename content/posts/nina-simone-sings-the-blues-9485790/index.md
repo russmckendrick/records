@@ -33,8 +33,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="12aKG91Tj6hJFOe90TzcX2" width="100%" height="500" >}}
+In 1967, the great Nina Simone shifted from the orchestral arrangements of <i>High Priestess of Soul</i> to the rawer small-band aesthetic of <i>Sings the Blues</i>, her first record for RCA. Backed by top session players including drummer Bernard Purdie, Simone didn’t sing only the blues, however: As always, she boiled a wide range of styles into her own inimitable stew. But the originals “Do I Move You?” and “Blues for Mama” were blues through and through, and “Backlash Blues,” with lyrics by Langston Hughes, epitomized Simone’s galvanizing role in the art and politics of the time: “Mr. Backlash/Just who do you think I am?/You raise my taxes, freeze my wages/And send my son to Vietnam.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sings-the-blues/209405366" >}}
+
+
 
 
 

@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3gBVdu4a1MMJVMy6vwPEb8" width="100%" height="500" >}}
+Flashes of emergent experimentalism bring this melodic indie-rock debut to life. This early iteration of Radiohead might be straightforward by their later standards but you can still hear their leftfield instincts surfacing. The crunching riff that rips through “Creep” and “Blowout”’s yin-yang of lounge vibes and grunge noise demonstrate a willing to blemish and warp rock convention to create something much more interesting. Thom Yorke’s vocal is already assured too, delivering angst and pain with the penetration of a surgical scalpel on “Stop Whispering” and “Lurgee”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pablo-honey/1097862062" >}}
+
+
 
 
 

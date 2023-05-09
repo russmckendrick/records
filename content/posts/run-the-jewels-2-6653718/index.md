@@ -33,8 +33,12 @@ styles: ["Hardcore Hip-Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6WBUyDe1Xy8QRwF6wzhJsY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-2/1569903245" >}}
+
+
 
 
 

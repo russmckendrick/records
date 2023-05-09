@@ -34,6 +34,13 @@ styles: ["Indie Pop", "Neo-Classical"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}
+
+
+
+
+
 ## Videos
 ### AVA - Waves [Neo-Classical, Ambient, Electronic]
 {{< youtube id="CiBM_R_2GYc" title="AVA - Waves [Neo-Classical, Ambient, Electronic]" >}}<br>

@@ -33,6 +33,13 @@ styles: ["Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fauna/1650860109" >}}
+
+
+
+
+
 ## Videos
 ### Haken - Taurus (Official Video)
 {{< youtube id="4FQBK4CFWbI" title="Haken - Taurus (Official Video)" >}}<br>

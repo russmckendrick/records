@@ -333,8 +333,12 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2pcVCyLvZY5DjHx8fUsSVM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-strange-ones-1994-2008/1493585754" >}}
+
+
 
 
 

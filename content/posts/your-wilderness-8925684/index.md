@@ -30,8 +30,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7jjzqewWL5T2lj8hU2Z4bG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/your-wilderness/1115706791" >}}
+
+
 
 
 

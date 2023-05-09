@@ -38,8 +38,12 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="48kU5gP41TqZEw32Cwhsna" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bizarre-ride-ii-the-pharcyde/1440913414" >}}
+
+
 
 
 

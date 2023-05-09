@@ -33,6 +33,13 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blue-for-you/1444058292" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

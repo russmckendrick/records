@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Neo-Classical"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="33itCfl3s0GHYF4Y9urXwm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ocean-sounds/1424578057" >}}
+
+
 
 
 

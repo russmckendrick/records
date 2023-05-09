@@ -33,8 +33,15 @@ styles: ["Soundtrack", "Score", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6iGX2bbzKEocRY0HzdQ9zX" width="100%" height="500" >}}
+Likely the most influential and beloved television soundtrack of all time, Angelo Badalamenti's dark jazz mood piece for <i>Twin Peaks</i> moves with a distinctly slow, sinister, sensual elegance. It was the second collaboration between the composer and director David Lynch, following 1986's landmark <i>Blue Velvet</i>. At an initial meeting, Lynch, who didn't yet have a script, described the feel of the show: a girl alone in the woods while the sycamore trees sway in the wind. With Lynch in his ear demanding it be slower, Badalamenti improvised the haunting, iconic "Laura Palmer's Theme." <br /> 
+The rest of the <i>Twin Peaks</i> score moves in similar shadows, stalking between noir moods and romantic swoon, cool jazz and warm dream pop. It's a musical universe befitting Twin Peaks, Washington itself: slow-motion tempos, velvety synths, gently brushed drums, vibraphones, twangy guitar, simple melodies, dissonance, and a liberal coating of reverb. In three tracks—"The Nightingale," "Into the Night," and "Falling"—you can also hear the croon of Julee Cruise, who set the red-curtained stage for generations of drifting, melancholy vocals, including those of Lana Del Rey, Beach House, Chromatics, and Sky Ferreira. Badalamenti's uncanny world and evocative textures would have wide-ranging impact, in indie gloom bands like Cigarettes After Sex, "doom jazz" bands like Bohren & Der Club of Gore, and the austere film soundtracks of Cliff Martinez.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/twin-peaks-soundtrack-from/374382340" >}}
+
+
 
 
 

@@ -35,8 +35,14 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="68z6MWYYNmvTcru1QMcYId" width="100%" height="500" >}}
+The most jarring part about listening to the London band black midi isn’t how much musical ground they cover—post-punk, progressive rock, breakneck jazz, cabaret—but the fact that they cover it all at once. A quasi-concept album that seems to have something to do with war (“Welcome to Hell”, “27 Questions”), or at least the violence men do more generally (“Sugar/Tzu”, “Dangerous Liaisons”), <i>Hellfire</i> isn’t an easy listen. But it’s funny (main character: Tristan Bongo), beautiful, at least in a garish, misanthropic way (the Neil Diamond bombast of “The Defence”), and so obviously playful in its intelligence that you just want to let it run over you. The first listen feels like being yelled at in a language you don’t understand. By the third, you’ll be yelling with them.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hellfire/1613170781" >}}
+
+
 
 
 

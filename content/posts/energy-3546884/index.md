@@ -43,6 +43,13 @@ styles: ["Ska", "Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/summer-operation/1660380490" >}}
+
+
+
+
+
 ## Videos
 ### Knowledge (2007 Remaster)
 {{< youtube id="2ItT4f8O93Q" title="Knowledge (2007 Remaster)" >}}<br>

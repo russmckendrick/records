@@ -33,6 +33,13 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/home/1501400140" >}}
+
+
+
+
+
 ## Videos
 ### KOJ - Home (Official Video)
 {{< youtube id="Y0D2FA0Po1Y" title="KOJ - Home (Official Video)" >}}<br>

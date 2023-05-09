@@ -32,8 +32,12 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="00uliTKAB5mqWzQKMYbrND" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-prayer-for-the-dying/979954026" >}}
+
+
 
 
 

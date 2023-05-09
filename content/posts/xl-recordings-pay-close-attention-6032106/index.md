@@ -66,8 +66,11 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="3D9vUf511saEHLua6NcOLw" width="100%" height="500" >}}
+
 
 
 

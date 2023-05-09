@@ -41,8 +41,12 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3q6Bz38jmqRDkXI7j5Hb9Y" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1469579555" >}}
+
+
 
 
 

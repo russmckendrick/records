@@ -28,8 +28,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3nUNxSh2szhmN7iifAKv5i" width="100%" height="500" >}}
+At the onset of the 1980s, Rush were poised as one of hard rock’s most successful groups. Their album epics established them as cult favorites with a rapidly expanding cult. Their overtly serious lyrics, written by the group’s drummer Neil Peart, led to obsessive discussion among fans and were a point of derision for critics. But what could not be argued was their larger than life <i>sound</i> — other power trios might be as loud, but none were as complex. Alex Lifeson’s guitar was simply massive, essaying classic guitar riffs soon emulated by aspiring actual and air guitarists everywhere, while Peart’s unrestrained drum fills challenged all rock drummers with their liberal use of unusual time signatures. <i>Permanent Waves</i> features several of the group’s essential tunes. “The Spirit of Radio” has become a classic rock staple with its climactic chorus delivering the necessary catharsis. “Freewill” stands as the band’s self-empowerment anthem (Peart is a diehard Ayn Rand disciple) and the expanded tracks — “Jacob’s Ladder,” “Natural Science” — trip out into extended instrumental passages that are among the most nuanced in rock. Rush managed to be progressive without losing their core appeal.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/permanent-waves-remastered/1440782947" >}}
+
+
 
 
 

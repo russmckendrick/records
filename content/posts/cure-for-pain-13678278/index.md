@@ -37,6 +37,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cure-for-pain-deluxe-edition/1592001614" >}}
+
+
+
+
+
 ## Videos
 ### Dawna
 {{< youtube id="ca2puE1R7a8" title="Dawna" >}}<br>

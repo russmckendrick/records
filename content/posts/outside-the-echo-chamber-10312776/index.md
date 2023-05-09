@@ -38,8 +38,12 @@ styles: ["Reggae", "Dub", "Dancehall"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0xGFzBeoGZOwtYf7r78MSs" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/outside-the-echo-chamber/1583219464" >}}
+
+
 
 
 

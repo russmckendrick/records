@@ -33,8 +33,12 @@ styles: ["Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Sik3ZYRJ7Yb4Q5DMlql8D" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/velveteen/1443764149" >}}
+
+
 
 
 

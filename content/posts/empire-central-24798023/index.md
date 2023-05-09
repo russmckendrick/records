@@ -38,8 +38,62 @@ styles: ["Contemporary Jazz", "Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="17sDfQwRab5dr2aVsgu1IA" width="100%" height="500" >}}
+On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Founded in 2004 at the University of North Texas, the band made its musical home in Dallas—entrenched in the city’s funk, soul and gospel sounds—and it’s there where they made the live-recorded <i>Empire Central</i>. With band members co-writing songs for the first time, bassist and leader Michael League set them only one theme of inspiration: “make it Dallas”. The result encompasses the RH Factor soul of “Cliroy”, the sludgy funk of “Keep It On Your Mind” and the intricate melodies of “Bet”. Perhaps no one embodies the spirit of Dallas more than the band’s long-time collaborator, the funk keyboardist and singer Bernard Wright. <i>Empire Central</i> also marks his final recording—featured here on “Take It!”—before his death only months later. “This album is a chance to say thanks to our home,” League tells Apple Music. “It is also a tribute to Bernard and his incredible musical legacy. He left us far too soon.” Read on for League’s in-depth thoughts on the album, track by track.
+
+<b>“Keep It On Your Mind”</b>
+“When I wrote ‘Keep It On Your Mind’, I was thinking about a classic Fort Worth group, Yarbrough & Peoples, and their hit single ‘Don’t Stop The Music’. Our drummer JT regularly plays with them, and they actually came to one of our performances, which was great. They are a perfect example of Texas funk, anchored by an active bassline. This track is one of the few examples of a Snarky Puppy tune where the melody is just a backdrop for the bass.”
+
+<b>“East Bay”</b>
+“Our woodwind player Chris Bullock wrote ‘East Bay’ while we were on tour in Oakland. He sees Oakland as a sister city to Dallas in terms of its music, and what I love about Chris’ composition style is that he approaches it like J Dilla or a hip-hop artist, interlocking parts in disjointed sections. Somehow, he fits it all together beautifully, with a groove-laden ride-out at the end.”
+
+<b>“Bet”</b>
+“‘Bet’ was written in honour of my good friend RC Williams, who is Erykah Badu’s musical director and essentially the musical heart of Dallas. Every Wednesday night, he runs a jam session in the city, where I was part of the house band for a number of years, and he is just a connector of people who makes things happen. I love midtempo tunes like this that come in, slam it and get out without trying to be too epic.”
+
+<b>“Cliroy”</b>
+“Our trumpeter Jay Jennings is a native Texan, and this tune is dedicated to two of his heroes: Roy Hargrove and Clifford Brown. We wanted to pay respect to their legacies, especially Hargrove’s RH Factor band, which is very influential for us as a group. Again, the song has a slower, groove-laden feel, which is a very Dallas sound, featuring a fantastic performance from Bobby Sparks on Minimoog bass.”
+
+<b>“Take It!” (feat. Bernard Wright)</b>
+“This is the only song we’ve recorded as Snarky Puppy that has been previously released by another artist. Our keyboard player Bobby Sparks had this on his MySpace page years ago, and it was a big part of the formation of Snarky Puppy’s sound, since we would listen to it all the time when we were touring in our early days. We kept playing it during sound check for these recordings and decided to throw it into the set list one night. It features the great Bernard Wright for his final recorded performance, where he plays one of the most amazing solos I’ve ever heard.”
+
+<b>“Portal”</b>
+“This was written by our Argentinian percussionist, Marcelo Woloski, and is inspired by the candombe drumming rhythms of Uruguay. Marcelo is a beautifully melodic writer, and this track is a great contrast to the rest of our groove-oriented repertoire, providing more of an orchestral feeling to the record.”
+
+<b>“Broken Arrow”</b>
+“Justin Stanton, our keyboard player, wrote ‘Broken Arrow’ to showcase a different side of Texas—its country music. When he brought the tune to the band, he said to think of Crosby, Stills & Nash, which was a fun reference, and it also has a soulful feel, bringing to mind Al Green in sections before going back to being guitar-driven. It’s all over the place, which I love.”
+
+<b>“RL’s”</b>
+“As a band, we love to take a well-established genre and see what we can do to make it ours. The shuffle is like a religion in Texas, and I wrote this track in homage to a legendary blues shack in south Dallas where I have spent many wonderful nights listening to bands play blues shuffles. ‘RL’s’ is bluesy, but we extrapolate the shuffle, and, at the end, we all come in hard over the foundation of our drummer JT’s groove.”
+
+<b>“Mean Green”</b>
+“Our percussionist Nate Werth started writing this tune for his other group Ghost-Note but thought it would work better for Snarky Puppy, so we threw it in the set at the last minute. It has a straight 4/4 funk groove, but the melody is really complex rhythmically, going from a James Brown feel in the first section to a P-funk vibe in the second. It creates a great feel.”
+
+<b>“Fuel City”</b>
+“Fuel City is a legendary gas-station taco stand where everyone goes in Dallas after gigs to eat and hang out. Bill Laurance, our piano player who is based in London, wrote this one to try and tap into the way he felt the first time he was in Dallas, experiencing the musical power of the Black church and its emotions conveyed through song.”
+
+<b>“Free Fall”</b>
+“Justin Stanton was drawing on Bernard Wright’s influence when he wrote this, along with the sounds of the people Bernard grew up with in Jamaica, Queens, like Lenny White. The track has a real ’70s funk feel, and it has no solos, which is rare for us. It navigates really beautifully around a harmonic hook and never leaves the groove.”
+
+<b>“Belmont”</b>
+“Belmont Avenue is the street I lived on from around 2007 to 2010, during a mini golden age in the Dallas scene. You’d have Bernard playing on Mondays with his trio, a jazz session on Tuesday, and RC’s jam on Wednesday. Bernard’s gig on Monday was like church for the musicians in town—everyone would come down and, afterwards, they’d all come back to my place, as it was so close by, and I’d cook, and we’d hang out until 4 am. This track is an homage to Bernard and remembering those beautiful moments—the most inspirational time in my life.”
+
+<b>“Pineapple”</b>
+“‘Pineapple’ was written with one of our previous drummers, Robert ‘Sput’ Searight, in mind. It has a new jack swing feel, which Sput loved to play, and is titled after a funny night we had on tour when we were out dancing, and he somehow had a pineapple with him the whole time. The tune slams from start to end but moves around interestingly, showing off the drummers and their swing.”
+
+<b>“Honiara”</b>
+“Zach Brock, our violinist, wrote this when he was on a trip to the Solomon Islands and became fascinated with their folklore rhythms. It’s named after the capital of the country and showcases the interaction between the melodic and rhythmic sections of the group. The band is always up for a challenge, and we’re usually at our best when we’re faced with new and intricate tunes like this.”
+
+<b>“Coney Bear”</b>
+“‘Coney Bear’ is another tune focusing on the guitar-driven side of Texan music, foregrounding rock in its melodic lines, as well as a touch of Afrobeat in there, too. It was written by one of our three guitarists, Bob Lanzetti, focusing on that section and the rhythm, rather than the fanfare of the horns.”
+
+<b>“Trinity”</b>
+“‘Trinity’ is a truly joyful ending to the record. When we played it during the live sessions, we went into an unplanned four-minute reprise, since we were so taken with the feel of the tune. One of our guitarists, Mark Lettieri, wrote this, marrying a gospel feel with ZZ Top-style rock. Mark’s been in Texas since he was 18, and he named the tune after the Trinity River, which flows through Dallas and is such a life force for the city.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/empire-central/1624123331" >}}
+
+
 
 
 

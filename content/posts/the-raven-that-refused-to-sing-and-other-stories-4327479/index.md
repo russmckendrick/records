@@ -28,8 +28,12 @@ styles: ["Art Rock", "Prog Rock", "Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2xJFvV7JzoYYMere5rqjVf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-raven-that-refused-to-sing-and-other-stories/684102613" >}}
+
+
 
 
 

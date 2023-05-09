@@ -35,6 +35,13 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/third-degree/1443308710" >}}
+
+
+
+
+
 ## Videos
 ### Nine Below Zero - Eleven Plus Eleven
 {{< youtube id="ExM1vP-rhH4" title="Nine Below Zero - Eleven Plus Eleven" >}}<br>

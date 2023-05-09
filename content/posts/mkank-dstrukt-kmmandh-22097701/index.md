@@ -31,6 +31,13 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mekanik-destruktiw-kommandoh-2017-remastered-version/1534549783" >}}
+
+
+
+
+
 ## Videos
 ### MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)
 {{< youtube id="23k0pCLLmuE" title="MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)" >}}<br>

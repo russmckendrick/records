@@ -33,8 +33,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Y3Hr84DBJ7oV76c3BuInv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/soul-of-a-woman/1484989831" >}}
+
+
 
 
 

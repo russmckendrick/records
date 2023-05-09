@@ -32,8 +32,14 @@ styles: ["Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0X4ZNTZw7SYgrp5rlBQC3N" width="100%" height="500" >}}
+This 10x-platinum 1980 album (the band’s ninth) is the career pinnacle for arena rockers REO Speedwagon. By this point, they’d shed their earlier prog affections and roadhouse rave-ups in favor of straight-up heartland radio rock. The slick-sounding album is often lazily dismissed as a cloying collection of power ballads, but a closer listen reveals both songcraft subtlety and how long-overlooked guitarist Gary Richrath kept the songs grounded in some rock ’n’ roll debauchery. Richrath had a rarely contained Ron Wood/Jeff Beck vide amid an otherwise controlled bunch of players and songs. Ex-folkie Kevin Cronin penned the majority of the tunes, but Richrath was key to their success. <i>High Infidelity</i> is a study in contrasts. They got the ladies with weepy, unironic ballads and the dudes with raunched-out, glammy guitar. Both elements often appeared in the same tune, as on the massive hits “Take It on the Run” (written by Richrath) and “Keep on Loving You” (written by Cronin). Conversely, songs like “Don’t Let Him Go” (featuring a killer Bo Diddley beat), “Out of Season,” and “Someone Tonight” rivaled the pop of Dwight Twilley or The Knack.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hi-infidelity-30th-anniversary-edition/447759207" >}}
+
+
 
 
 

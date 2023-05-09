@@ -32,8 +32,12 @@ styles: ["Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2HyDLO6tHAOx2QiQr9RLCf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/his-n-hers-deluxe-edition/1444184951" >}}
+
+
 
 
 

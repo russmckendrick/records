@@ -36,8 +36,14 @@ styles: ["Reggae", "Roots Reggae"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4jKeipwuUTjlx9USNYdhZn" width="100%" height="500" >}}
+An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-the-wailers-2002-edition/1469575763" >}}
+
+
 
 
 

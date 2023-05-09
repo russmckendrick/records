@@ -31,8 +31,14 @@ styles: ["Hard Rock", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3REUXdj5OPKhuDTrTtCBU0" width="100%" height="500" >}}
+Jamming more ideas and personality into 34 minutes than most bands pack into a career, this towering pinnacle of ’80s hard rock was a last gasp both for David Lee Roth’s initial run in Van Halen and for metal as sunny as The Beach Boys. Rarely has a band sounded so skilled, so casually confident, so happy to be here. There’s Hall of Fame-hooked synth-rock (“Jump”), pomp-gone-pop (“I’ll Wait”), classy California car-club sass (“Panama”), and bar-band brashness (“Top Jimmy”), plus comedy and chops for miles.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1984/976831013" >}}
+
+
 
 
 

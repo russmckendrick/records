@@ -33,8 +33,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="532IlegHv3OfVGgyCFGBTs" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}
+
+
 
 
 

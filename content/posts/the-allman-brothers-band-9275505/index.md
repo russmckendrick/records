@@ -38,8 +38,12 @@ styles: ["Blues Rock", "Southern Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0R71uuGE9YcLkywh2h9gUv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-allman-brothers-band/1469584148" >}}
+
+
 
 
 

@@ -36,8 +36,12 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0k6cw6YE0G3jxCGXXTCFyh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fulham-fallout/266191802" >}}
+
+
 
 
 

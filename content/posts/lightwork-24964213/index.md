@@ -87,8 +87,12 @@ styles: ["Progressive Metal", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6qjb8ZypDxCCIZUKYwjYlL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lightwork-deluxe-edition/1638173881" >}}
+
+
 
 
 

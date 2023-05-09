@@ -29,8 +29,12 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1JVrV2H0YJSCiECBEr3WCa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/home-of-the-newly-departed/1510605584" >}}
+
+
 
 
 

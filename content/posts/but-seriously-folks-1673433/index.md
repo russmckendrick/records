@@ -30,8 +30,12 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5yqBTSoJqE9EfApl2Pptva" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/but-seriously-folks/332682774" >}}
+
+
 
 
 

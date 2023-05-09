@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6vQB3ZBxnQPP3jQcGV2qzg" width="100%" height="500" >}}
+The Cure’s Robert Smith has always been a torn man; it’s what fuels his greatest music. He has a natural gift for pop music (“Love Song”), an obsessive love for the dark and dismal (“The Same Deep Water as You”) and a moderate side that sometimes lands the perfect balance between the two (“Pictures Of You’). Whether it’s revisionist history or not, Smith claims that 1989’s <i>Disintegration</i> is the second installment of a trilogy of Cure albums begun with 1982’s <i>Pornography</i> and completed with 2000’s <i>Bloodflowers</i>. Each one sprawls with epic visions and a definite death-rattle and on each of these releases, Smith slows the tempo, deepens the textures with pulsing synths and dirty skrotches of guitar, and often allows himself six to nine-plus minutes to make his point. While one hesitates to ever say Smith sounds comfortable—his natural state is apparently somewhere between romantically tortured and completely strung out to dry—he does seem to be working at peak capacity, as tracks such as the aforementioned and “Prayers for Rain” clearly bear out.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/disintegration-remastered/1440785740" >}}
+
+
 
 
 

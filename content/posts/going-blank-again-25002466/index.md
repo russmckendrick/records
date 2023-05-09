@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5l70cCHX1QzN680J68rblF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/going-blank-again/1621531296" >}}
+
+
 
 
 

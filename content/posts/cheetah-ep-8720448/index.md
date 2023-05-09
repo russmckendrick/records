@@ -30,8 +30,14 @@ styles: ["Techno", "IDM"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6u6ES0Y3XthiMi8IGIrevq" width="100%" height="500" >}}
+After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5,” James makes the most of the challenge.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cheetah-ep/1121631291" >}}
+
+
 
 
 

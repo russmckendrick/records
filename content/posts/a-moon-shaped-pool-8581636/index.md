@@ -33,8 +33,14 @@ styles: ["Art Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2ix8vWvvSp2Yo7rKMiWpkg" width="100%" height="500" >}}
+Radiohead’s ninth album is a haunting collection of shapeshifting rock, dystopian lullabies, and vast spectral beauty. Though you’ll hear echoes of their previous work—the remote churn of “Daydreaming,” the feverish ascent and spidery guitar of “Ful Stop,” Jonny Greenwood’s terrifying string flourishes—<i>A Moon Shaped Pool</i> is both familiar and wonderfully elusive, much like its unforgettable closer. A live favorite since the mid-‘90s, “True Love Waits” has been re-imagined in the studio as a weightless, piano-driven meditation that grows more exquisite as it gently floats away.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-moon-shaped-pool/1111577743" >}}
+
+
 
 
 

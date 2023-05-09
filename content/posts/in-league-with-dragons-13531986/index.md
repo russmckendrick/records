@@ -36,8 +36,12 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5y9OP5VLb8oA1uBj31rxoO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-league-with-dragons/1449160212" >}}
+
+
 
 
 

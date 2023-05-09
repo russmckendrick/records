@@ -38,8 +38,12 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4iNsIkR18NMo2chPsyfVnv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/day-and-age-deluxe-edition/1556722306" >}}
+
+
 
 
 

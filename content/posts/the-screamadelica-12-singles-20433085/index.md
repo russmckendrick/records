@@ -58,6 +58,13 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-screamadelica-12-singles/1581970344" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

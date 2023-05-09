@@ -32,8 +32,12 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="27h98zEMf4R8Q25uOkumGe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/white-ladder-20th-anniversary-edition/1479987640" >}}
+
+
 
 
 

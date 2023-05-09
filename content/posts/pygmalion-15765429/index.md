@@ -31,8 +31,12 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7n7VUw9XFam4zMT7zn99tq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pygmalion/400647147" >}}
+
+
 
 
 

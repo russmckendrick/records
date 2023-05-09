@@ -33,8 +33,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Iv8JZCiHflefOwvkEXOqx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1144277578" >}}
+
+
 
 
 

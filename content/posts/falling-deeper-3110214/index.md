@@ -31,8 +31,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2NeXgLGntWT35hwrQRpNRB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/falling-deeper/684127793" >}}
+
+
 
 
 

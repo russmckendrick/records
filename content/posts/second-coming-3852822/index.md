@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3DE7aixVSE6DZ6ALYIztT0" width="100%" height="500" >}}
+Unbowed by the burden of expectation, the Mancunians forge new ways to groove. Despite the suffocating pressure to match a classic debut and the intra-band squabbles it caused, <i>Second Coming</i> contains premium psychedelic pop in “Ten Storey Love Song” and the spiteful “How Do You Sleep”. The band’s impulse to merge guitars and dance music into new states of bliss gets best explored here though. The techno-rock collision of “Begging You” is exhilarating and singular, while an elastic rhythm section and Ian Brown’s righteous swagger transform “Love Spreads” from a Led Zep tribute into mantric rock-funk.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/second-coming/1440870988" >}}
+
+
 
 
 

@@ -31,8 +31,12 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6dn2O3un8SV0QZ421jDdEj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/new-gold-dream-81-82-83-84-remastered/1443123330" >}}
+
+
 
 
 

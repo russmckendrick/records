@@ -32,8 +32,14 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5PfnCqRbdfIDMb1x3MPQam" width="100%" height="500" >}}
+Few albums define an era like <i>Moondance</i>, a 1970 release that brings together several of our all-time favourite Van Morrison tracks. The opener, “And It Stoned Me,” simmers with the swaggering soul inflection that runs through most of the album. But the fusion of jazz, folk, R&B and Irish mysticism is a stylistic playground for the volcanic vocalist. He’s clearly having a blast—whether he's gliding through the Sinatra-esque title track or belting out a full-throated command to “turn it up…the radio” on “Caravan”. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/moondance/712727450" >}}
+
+
 
 
 

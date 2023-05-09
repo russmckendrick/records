@@ -33,8 +33,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7v0p90m2p3kAX5EkZbS5aQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}
+
+
 
 
 

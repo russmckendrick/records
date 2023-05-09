@@ -42,8 +42,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4SFG7APMZeeM97ixKPoQuk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/surfing-with-the-alien/405602019" >}}
+
+
 
 
 

@@ -62,6 +62,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/holidays-in-eden-deluxe-edition/1645122919" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

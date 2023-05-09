@@ -35,8 +35,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0bQglEvsHphrS19FGODEGo" width="100%" height="500" >}}
+Their debut album, <i>Gish</i>, established Smashing Pumpkins as a viable alternative rock band with arena rock potential, but <i>Siamese Dream</i> broke the gameplan wide open. From their earliest days, the Pumpkins had been a cauldron of heated emotions and demanding visions. Leader Billy Corgan took on most instrumental duties in order to recreate the sounds in his head. And with producer Butch Vig ready to capture the big rock sound that many alternative groups were shying away from, Corgan and Vig went about layering the guitars until the wall couldn’t be penetrated. None of this would mean much if not for powerful songwriting; “Cherub Rock”, “Quiet”, “Today” and “Geek U.S.A.” meshed the ‘90s-era underachiever vibe with the stadium sounds of classic rock bands.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/siamese-dream/721207206" >}}
+
+
 
 
 

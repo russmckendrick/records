@@ -46,8 +46,12 @@ styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1hd9IzmLyGV1BTzEx5P7VJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/brothers-in-arms-remastered-1996/1565391787" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7hKst6QIxeAcpOx3o2y6mi" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/doubt/693294187" >}}
+
+
 
 
 

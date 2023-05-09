@@ -46,8 +46,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Hk3soDAxOmpHJsi15xEeI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/let-me-come-over-25th-anniversary-edition/1224811046" >}}
+
+
 
 
 

@@ -28,8 +28,14 @@ styles: ["Funk", "Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6U9fEF6ZUIDM8M03JNB9I4" width="100%" height="500" >}}
+Despite two solid albums of hard, mostly Prince-created funk, the Time didn't break out of their R&B framework until the world-beating success of Purple Rain carried them to crossover success. Morris Day's comedic turn in the movie, along with the band's sauciest grooves yet ("Jungle Love," "The Bird"), helped make Ice Cream Castle a major mainstream hit. Unfortunately, it also spelled the end of the line for five years, with the Time not releasing another disc until 1990. Though more than just a satellite of His Royal Badness' planet, the group's first farewell remains one of the strongest Prince-related album of that golden '80s era. Other highlights include the soft, reflective near-title track and - inevitably - Day's mock-seductive rap on "If the Kid Can't Make You Come." Chili sauce!
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ice-cream-castle/302057903" >}}
+
+
 
 
 

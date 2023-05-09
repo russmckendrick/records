@@ -34,6 +34,13 @@ styles: ["Alternative Rock", "Power Pop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bellybutton/723693536" >}}
+
+
+
+
+
 ## Videos
 ### Jellyfish - The King Is Half-Undressed
 {{< youtube id="AgdgptaBma8" title="Jellyfish - The King Is Half-Undressed" >}}<br>

@@ -32,8 +32,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ZV0ADSGaNPIt9Avv3H0GG" width="100%" height="500" >}}
+The careful selection of covers on <i>Windy City</i> speaks volumes about Alison Krauss’ inspirations as an artist. Here, she offers a warmly nostalgic musical tour of mid-century Nashville. These are deep cuts—among the Bill Monroe b-sides and obscure bluegrass covers are only a few hits by Glen Campbell and Brenda Lee. But Krauss makes every song sound effortlessly her own, from the string-accompanied heartbreak “Losing You” to the gently swinging twang of “Dream of Me."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/windy-city-deluxe/1440864842" >}}
+
+
 
 
 

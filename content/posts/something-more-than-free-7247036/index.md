@@ -33,8 +33,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1foB2t5YmfC6PxIC31g5Cp" width="100%" height="500" >}}
+The former Drive-By Trucker delivers his most diverse album yet in <i>Something More Than Free</i>, a beautifully observed and finely conceived collection of windswept rock that finds the singer/songwriter exploring questions of place and identity. While “Speed Trap Town” perfectly captures the feeling of growing up in rural America, “24 Frames” ponders faith and family—all with the lyrical acuity of Townes Van Zandt and the melodic aplomb of Tom Petty. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/something-more-than-free/986866335" >}}
+
+
 
 
 

@@ -40,8 +40,16 @@ styles: ["Blues Rock", "Country Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5U4dnRZsfW8NmwBBkELFPh" width="100%" height="500" >}}
+More than songs or performances, 1972’s <i>Exile on Main St.</i> was about mood. Listen close: Can you hear the young gods sweating it out in the basement of a French mansion overlooking the Mediterranean? Surrounded by junkies and hangers-on? Eating lobster and stuffed tomatoes in the afternoon and working all night? Never had the band managed to translate their myth—the sloppy, redemptive glory of rock ’n’ roll—so faithfully into sound. A great party album, yes, and a party unto itself. But <i>Exile</i> was also the closest The Rolling Stones ever got to something truly avant-garde, an album whose perceived mistakes—the muddy mix; the sloppy, dislocated performances—conjured a feeling something more correct would have wiped away.<br />
+Even in its looser moments, 1971’s <i>Sticky Fingers</i> had sounded professional—raw music gussied up for the main stage. <i>Exile</i>, by contrast, wasn’t just born in the basement, it evoked one: a place of clutter and darkness, strange things forgotten and unfinished. For every “Tumbling Dice” or “Torn and Frayed“—two of the album’s more coherent moments—there was an “I Just Want to See His Face” or “Let It Loose”, tracks that functioned less as finished thoughts than open-ended suggestions, seeds for new growth. And the blues that had once served as the band’s shorthand for earthly hardships and desires now sounded mysterious and arcane—less the entertainment of juke joints than the vernacular of some underground society.<br />
+The story of <i>Exile</i> is probably oversold—after all, they only spent part of the time in the basement. But the frame remains useful. “I hear you talking when I’m on the street,” Mick slurs on the opening line of “Rocks Off”. “Your mouth don't move, but I can hear you speak.” For the next hour, the paradoxes keep coming: light in darkness, clarity in chaos. For years, the band had described confusion—with <i>Exile</i>, they embodied it.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/exile-on-main-st-2010-remaster/1440872228" >}}
+
+
 
 
 

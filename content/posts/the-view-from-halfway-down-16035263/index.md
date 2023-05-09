@@ -32,6 +32,13 @@ styles: ["Shoegaze", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-view-from-halfway-down/1524681497" >}}
+
+
+
+
+
 ## Videos
 ### Andy Bell - Love Comes In Waves
 {{< youtube id="MbNmaB-es5U" title="Andy Bell - Love Comes In Waves" >}}<br>

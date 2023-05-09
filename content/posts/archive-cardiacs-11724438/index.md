@@ -36,6 +36,13 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/archive/335949366" >}}
+
+
+
+
+
 ## Videos
 ### Cardiacs - T.V.T.V.
 {{< youtube id="YU3fP7Efy28" title="Cardiacs - T.V.T.V." >}}<br>

@@ -34,8 +34,12 @@ styles: ["Ska", "Rocksteady"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="502yjlT5pnBRCv5l9QFF4s" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/skinhead-moonstomp-deluxe-edition/1141938969" >}}
+
+
 
 
 

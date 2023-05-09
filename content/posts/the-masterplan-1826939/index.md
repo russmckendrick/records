@@ -38,6 +38,13 @@ styles: ["Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-masterplan/1517453693" >}}
+
+
+
+
+
 ## Videos
 ### Oasis - The Masterplan
 {{< youtube id="dPPi2D6GK7A" title="Oasis - The Masterplan" >}}<br>

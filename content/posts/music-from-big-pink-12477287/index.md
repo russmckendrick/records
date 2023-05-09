@@ -33,8 +33,14 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ky5kdvfPxSmSpj03hpSAE" width="100%" height="500" >}}
+Though it grew out of jam sessions in the basement of the band’s communal house in upstate New York, <i>Music From Big Pink</i> lures us to otherworldly environments. “I Shall Be Released” and “In a Station” emerge from floating, celestial sounds, while “Lonesome Suzie” is a Curtis Mayfield ballad soaked in tranquilized blues. The Band’s dreamy, hymn-like undertones come to light in “The Weight,” in which the triangulated harmonies of Richard Manuel, Rick Danko, and Levon Helm forge a new form of rustic gospel goodness.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/music-from-big-pink-remastered/1440814725" >}}
+
+
 
 
 

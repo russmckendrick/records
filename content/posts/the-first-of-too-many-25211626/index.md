@@ -56,6 +56,13 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}
+
+
+
+
+
 ## Videos
 ### Senseless Things - Everybody's Gone
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}<br>

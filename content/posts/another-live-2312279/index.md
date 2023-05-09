@@ -32,6 +32,13 @@ styles: ["Pop Rock", "Synth-pop", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/another-live/100982431" >}}
+
+
+
+
+
 ## Videos
 ### TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION
 {{< youtube id="zo9Oor_vYeE" title="TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION" >}}<br>

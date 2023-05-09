@@ -45,6 +45,13 @@ styles: ["Goth Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/floodland/1027459890" >}}
+
+
+
+
+
 ## Videos
 ### Flood I (New Version for Digital)
 {{< youtube id="Pekj1Y4raSM" title="Flood I (New Version for Digital)" >}}<br>

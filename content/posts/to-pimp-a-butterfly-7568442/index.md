@@ -38,8 +38,16 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7ycBtnsMtyVbbwTfJwRjSP" width="100%" height="500" >}}
+In 2014, after Macklemore & Ryan Lewis’s <i>The Heist</i> won the Best Rap Album Grammy over Kendrick Lamar’s <i>good kid, m.A.A.d city</i>, Macklemore posted an apology to Kendrick, reading, in part, "You got robbed. I wanted you to win. You should have.”<br />
+He wasn’t alone. Flush with heat rocks like “Backseat Freestyle” and moody turns like “Swimming Pools (Drank),” <i>good kid, m.A.A.d city</i> was an epochal moment for Kendrick Lamar and West Coast hip-hop—but a bigger moment was still on the horizon. Meandering far from <i>m.A.A.d. city</i>’s Compton street soliloquies, the follow-up <i>To Pimp a Butterfly</i> is a searing portrait of the black experience in America as well as a document of Kendrick’s own personal awakening. He juxtaposes pain (“Institutionalized,” “The Blacker the Berry,” “King Kunta”) and depression (“u”) with joyful celebration (“i”). Kendrick holds a microscope up to the consequences of racialized self-hatred and class subjugation on “Wesley’s Theory” and “Complexion,” while “How Much a Dollar Cost” and “You Ain't Gotta Lie (Momma Said)” are dramatic, personal testimonials about fame and his changing world. And in the wake of increased gun violence and police brutality, the powerhouse “Alright” became a rallying cry for the Black Lives Matter movement. The music is as complex as his thoughts, favoring deep jazz, fragrant coffeehouse poetry, and dirty P-funk with help from a phalanx of collaborators ranging from Kamasi Washington and Thundercat to Pharrell Williams and Boi-1da.<br />
+<i>To Pimp a Butterfly</i> is Kendrick’s <i>Guernica</i>—a timeless, powerful, and fascinating political statement—as well as one of the sharpest left turns in rap history. The year after the Grammy snub, <i>TPAB</i> elevated Kendrick from one of the best rappers in the game to one of the best artists of all time. And, surprise! It also won the Grammy for Best Rap Album. (Then he won another for 2017's <i>DAMN</i>, plus a Pulitzer for good measure). Despite the adage, sometimes you <i>do</i> remember who came in second.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/to-pimp-a-butterfly/1440828886" >}}
+
+
 
 
 

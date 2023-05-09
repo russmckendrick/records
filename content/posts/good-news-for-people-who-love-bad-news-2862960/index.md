@@ -39,8 +39,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0TGTGuc2vXv6ZECoAf52N0" width="100%" height="500" >}}
+The singular phrasing and manic yowls of Isaac Brock are here in abundance, as are turn-on-a-dime melodies, compelling lyrics, and inventive rhythms. But <i>Good News</i> also expands on the skeletal urgency of earlier albums to include slurring, stomping horns (supplied by the Dirty Dozen Brass Band), banjo, violin, and keyboards. It all comes together as an imaginative masterpiece by a rock band with wild-hearted vision.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/good-news-for-people-who-love-bad-news/201257412" >}}
+
+
 
 
 

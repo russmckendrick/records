@@ -36,8 +36,12 @@ styles: ["Heavy Metal", "Groove Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Cvv0qNSdZNf9o0j8EohoD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/la-sexorcisto-devil-music-volume-1/1440905956" >}}
+
+
 
 
 

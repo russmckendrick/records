@@ -31,8 +31,11 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0EevA0t8Qcxh4TFLtBQPyo" width="100%" height="500" >}}
+
 
 
 

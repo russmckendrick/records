@@ -39,8 +39,12 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3IpexZ309jiPcLdFkz3S6F" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/glitter-and-doom-live-remastered/1485071268" >}}
+
+
 
 
 

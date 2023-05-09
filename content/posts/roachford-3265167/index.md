@@ -32,8 +32,12 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6dF7fcowcdm0UhWUEDMfIH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-roachford/289538023" >}}
+
+
 
 
 

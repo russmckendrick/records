@@ -62,6 +62,13 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570363167" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

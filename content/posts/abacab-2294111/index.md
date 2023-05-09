@@ -32,8 +32,12 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6KSLVAuJx6hWsYEk005uZj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/abacab/908962261" >}}
+
+
 
 
 

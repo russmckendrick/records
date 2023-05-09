@@ -48,8 +48,14 @@ styles: ["Prog Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Dbax7G8SWrP9xyzkOvy2F" width="100%" height="500" >}}
+Sweeping and epic, Roger Waters’ visionary rock opera tells the story of Pink, a rock star whose power has corrupted him. Pink Floyd told this partially autobiographical, partially metaphorical story with some of the most exhilarating art rock ever created. Powerhouse basslines, drumming both thunderous and restrained, and dreamy synth fills are matched with an orchestra, sound effects, song fragments, and Dave Gilmour’s guitar solos.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-wall/704273346" >}}
+
+
 
 
 

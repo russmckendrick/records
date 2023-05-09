@@ -31,8 +31,12 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7eMXWxMOHtAoliVQfVpdpl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/changesnowbowie/1505418271" >}}
+
+
 
 
 

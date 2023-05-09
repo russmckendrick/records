@@ -24,8 +24,12 @@ styles: ["Minimal", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7tMM2MIBklhAtmmsgbQrAq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air-poppy-nogood-and/259224014" >}}
+
+
 
 
 

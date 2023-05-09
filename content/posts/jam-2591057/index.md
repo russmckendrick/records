@@ -45,6 +45,13 @@ styles: ["Soft Rock", "Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jam/1442295456" >}}
+
+
+
+
+
 ## Videos
 ### Little Angels – Womankind
 {{< youtube id="AyqjkGLewpY" title="Little Angels – Womankind" >}}<br>

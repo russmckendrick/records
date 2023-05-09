@@ -30,8 +30,12 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7dpMnSxwpr2DSLrdywIYot" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy-2009-remastered-version/1193799249" >}}
+
+
 
 
 

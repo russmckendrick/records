@@ -33,8 +33,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4NKM2cooUqnyICpeslOehd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/trains-boats-and-planes/125917251" >}}
+
+
 
 
 

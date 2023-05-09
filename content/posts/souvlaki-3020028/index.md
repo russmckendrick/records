@@ -32,8 +32,12 @@ styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="53eHm1f3sFiSzWMaKOl98Z" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/souvlaki/399211729" >}}
+
+
 
 
 

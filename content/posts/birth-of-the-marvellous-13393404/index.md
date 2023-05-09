@@ -31,6 +31,13 @@ styles: ["Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/birth-of-the-marvellous/1448303615" >}}
+
+
+
+
+
 ## Videos
 ### Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album
 {{< youtube id="P0FtRWykN-w" title="Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album" >}}<br>

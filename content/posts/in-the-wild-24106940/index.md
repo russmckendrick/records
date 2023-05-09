@@ -36,8 +36,12 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3kY1OhkaStCboWLSBTIfvg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-the-wild/1614835473" >}}
+
+
 
 
 

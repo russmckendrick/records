@@ -31,6 +31,15 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 <!-- section break -->
 
 
+Like something straight out of the sci-fi films they idolize, these time-traveling synth savants from Austin zap listeners deep into the analog past. “A.H.B.” draws you in, with sinister electro-funk moving in slinky slow motion, and the gnarly “Dirt” dials up the feedback on a wormhole to the outer reaches of coldwave. The ominous “Copter” conjures zombies from around every corner—while promising a brighter day with its shimmering ambient outro.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rr7349/1132755962" >}}
+
+
+
 
 
 ## Videos

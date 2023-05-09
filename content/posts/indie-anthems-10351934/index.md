@@ -42,8 +42,11 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0I5gq6g5TdvPWVAqEECV2y" width="100%" height="500" >}}
+
 
 
 

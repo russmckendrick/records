@@ -33,8 +33,12 @@ styles: ["Alternative Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3SOcm48I0DOX1KEHF2IEVY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sweet-oblivion/157316025" >}}
+
+
 
 
 

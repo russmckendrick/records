@@ -36,8 +36,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="53WtJIxsyBRKKMohHtBVA5" width="100%" height="500" >}}
+On the title track that opens Badly Drawn Boy’s ninth studio album (and first in eight years), Damon Gough is getting back up and he’s ready to move on. “It’s time to break free from this plaster cast/And leave your past behind,” the English singer-songwriter rejoices over horn-filled funk, returning to the genre-bending experiments of 2000’s Mercury Prize-winning <i>The Hour of Bewilderbeast</i> and 2002’s <i>Have You Fed the Fish</i>. Gough, who went through an extended bout of soul-searching during his absence, exudes marital bliss on "I Need Someone to Trust" and "Fly on the Wall", taking a more pop-minded bent even as his penchant for chamber music remains present. The loose-limbed “Is This a Dream?” and “Colours” carry a celebratory tone, where he acknowledges his past mistakes as he recollects his thoughts. Even the more subdued moments, like the bossa-nova-tinged “You and Me Against the World”, play with a slow rhythmic groove as Gough opens his heart: “I feel so vulnerable/I want to be/Only in love.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/banana-skin-shoes/1500598594" >}}
+
+
 
 
 

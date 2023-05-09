@@ -27,8 +27,12 @@ styles: ["Soul", "Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5FGcx8wMUcJ8BV5P2qVRso" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/out-loud-live/1371582575" >}}
+
+
 
 
 

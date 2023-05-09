@@ -55,8 +55,12 @@ styles: ["Europop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0InAk7mftm3eHWY3sLZoBX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-hooverphonic/1162708533" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3zqyliH82PrgRAkIe6CSA2" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sentimental-fool/1651925180" >}}
+
+
 
 
 

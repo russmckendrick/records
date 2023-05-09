@@ -28,8 +28,12 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6SSE8rmfK2n5D10pJYBaYX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sunset-dreams/1668233212" >}}
+
+
 
 
 

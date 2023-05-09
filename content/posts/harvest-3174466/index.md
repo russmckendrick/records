@@ -32,6 +32,21 @@ styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 <!-- section break -->
 
 
+Graham Nash tells a story about visiting Neil Young at his ranch in Northern California in 1971. Young asked Nash if he wanted to hear something; Nash said sure. Young led Nash down to a lake, where the two men got into a rowboat and started rowing. Nash said Young had been a mystery to him his entire life, so having to row out to the middle of a lake to have a conversation made sense. It turns out Young had outfitted his house and adjoining barn with enormous speakers, and the two men sat on the water and listened to <i>Harvest</i>. 
+
+The album gave Young his biggest commercial success, and in “Heart of Gold”, a song that defined the faded beauty of ’70s folk-rock and Young’s only No. 1 single. But its sparseness and sense of withdrawal also served as a pivot away from the civic-mindedness of the late 1960s and as the foundation for indie artists like Elliott Smith and albums like Nirvana’s <i>Unplugged</i>, whose strength seemed born more of fragility and isolation than anything else. Linda Ronstadt, who sang backup on both “Heart of Gold” and “Old Man”, described Young as a sketch artist whose roughness in the studio belied his ability to find the essence of a song and grab it by the throat. 
+
+You don’t need to listen to it in a rowboat, but you understand why Young might have wanted it that way: Not only is <i>Harvest</i> about the fantasy of keeping it simple, it’s about the fantasy of keeping it simple alone, or at least away from the shore. So give him space to grieve the friends he’s lost (“The Needle and the Damage Done”), and understand, at least in an artistic context, the cruelty of “A Man Needs a Maid” as the complaint of a guy who’s done the people thing and is sick of it. (The album’s 50th Anniversary package—which features a solo BBC performance from 1971 alongside a few studio outtakes, including an early version of “Bad Fog of Loneliness”—underscores the point.) 
+
+Classic as the album is, its relative delicacy and orchestral colouring make it feel like an outlier in Young’s catalogue. He famously wrote that “Heart of Gold” put him in the middle of the road, which was fine for a little while, but then got boring, so he steered into a ditch—a quip that gave rise to the unofficial titling of his mid-’70s stretch of <i>Time Fades Away</i>, <i>On the Beach</i> and <i>Tonight’s the Night</i> as the Ditch Trilogy. It’s a good line. But what makes it interesting isn’t the metaphorical contrast between road and ditch, it’s the revelation that, in Young’s mind, he was always travelling—a prophecy the 50-plus years that came after bore out.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/harvest-50th-anniversary-edition/1648841033" >}}
+
+
+
 
 
 

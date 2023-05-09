@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7yQtjAjhtNi76KRu05XWFS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grace-legacy-edition/1476889347" >}}
+
+
 
 
 

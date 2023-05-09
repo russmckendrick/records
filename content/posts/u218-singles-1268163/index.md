@@ -40,8 +40,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0pYUq4UiXNgq8mO23rlHVU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/u218-singles-deluxe-edition/1440729856" >}}
+
+
 
 
 

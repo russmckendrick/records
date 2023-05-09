@@ -34,8 +34,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Co1PfkD3RSirfxw6h2KfJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stop/1443915889" >}}
+
+
 
 
 

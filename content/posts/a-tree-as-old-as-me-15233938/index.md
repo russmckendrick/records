@@ -26,8 +26,11 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0hZZ417pOuUFd45IHNlk2t" width="100%" height="500" >}}
+
 
 
 

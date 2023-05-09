@@ -38,6 +38,9 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 
 
 
+
+
+
 ## Videos
 ### Every Single Weekend
 {{< youtube id="-2L2JoIrCG4" title="Every Single Weekend" >}}<br>

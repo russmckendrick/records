@@ -42,20 +42,23 @@ styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6lfjbwFGzQ6aSNP1N3JlT8" width="100%" height="500" >}}
+For the first time in their album-making career, the Beastie Boys didn't reinvent themselves on <i>Ill Communication</i>. Instead, they moved laterally, amplifying the breakthroughs of <i>Check Your Head</i> in a manner that was even more satisfying than the earlier album. From slammin' mic fests ("Sure Shot," "Root Down") to hardcore punk rants ("Tough Guy," "Heart Attack Man"), Buddhist meditations ("Bodhisattva Vow") and sturdy organ-funk instrumentals ("Ricky's Theme"), this is a dizzying ride through everything that moves Ad-Rock, MCA, and Mike D. Without setting themselves up as teachers, they school many a funk-rocker in groove, humor, and style. Listen to the crunch of "Sabotage," which begat a hilarious video, or the roots salute "B-Boys Makin' With the Freak Freak." A true long-form masterpiece.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ill-communication/724771323" >}}
+
+
 
 
 
 ## Videos
-### Beastie Boys - Sabotage
-{{< youtube id="z5rRZdiu1UE" title="Beastie Boys - Sabotage" >}}<br>
+### Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)
+{{< youtube id="ajbr64jeLjQ" title="Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Beastie Boys - Sure Shot](https://www.youtube.com/watch?v=JhqyZeUlE8U)
-- [Beastie Boys - Root Down](https://www.youtube.com/watch?v=Xf1YF_MH1xc)
-- [Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)](https://www.youtube.com/watch?v=ajbr64jeLjQ)
 - [Tough Guy - Beastie Boys](https://www.youtube.com/watch?v=DNkYVaRzhxE)
 - [Tough Guy](https://www.youtube.com/watch?v=30CKfFLfNh0)
 - [Tough Guy (Remastered 2009)](https://www.youtube.com/watch?v=-AvF_LckwrE)

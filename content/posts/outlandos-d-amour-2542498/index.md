@@ -32,8 +32,12 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1H9g6j4Wwj6wh6p8YHVtkf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/outlandos-damour-remastered/1440797181" >}}
+
+
 
 
 
@@ -44,6 +48,7 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 ### More Videos
 
 - [The Police - Hole In My Life (Outlandos D'Amour) (2009 European Vinyl)](https://www.youtube.com/watch?v=zR1YTxzfnyk)
+- [The Police  -  Outlandos D'Amour (Full Album) 1978 - Classic Rock 70s 80s 90s](https://www.youtube.com/watch?v=Rt7YHNEri7w)
 
 
 ## Release Information

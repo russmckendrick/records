@@ -168,8 +168,14 @@ styles: ["Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6m9cpSfRCYltkhxl23wq0j" width="100%" height="500" >}}
+This expansive overview focuses on David Bowie's fertile breakthrough, kicking off with his haunting 1969 hit "Space Oddity" and including every studio album up to 1973's <i>Pin Ups</i>, his affectionate Swinging London homage. Tracks from the storming <i>Live Santa Monica '72</i> also showcase Bowie’s onstage reputation, as he balances rollicking workouts like the scuzzy “Hang on to Yourself” with poignant breathers like “Andy Warhol”, a moving acoustic guitar-led tribute from one pop icon to another.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/five-years-1969-1973/1016484169" >}}
+
+
 
 
 

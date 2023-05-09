@@ -40,6 +40,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-john-lee-hooker-blues/679162110" >}}
+
+
+
+
+
 ## Videos
 ### GIANT SIZED John Lee Hooker Vinyl Matchup
 {{< youtube id="W-DEJF5iZmU" title="GIANT SIZED John Lee Hooker Vinyl Matchup" >}}<br>

@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6vOmA5zWeFeKvuRBxaO59A" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/resident-alien/40454930" >}}
+
+
 
 
 

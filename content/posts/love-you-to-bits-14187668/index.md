@@ -24,8 +24,12 @@ styles: ["Electro", "Disco", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6BJX73xMimxz4OJtWWuO0u" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/love-you-to-bits/1489308225" >}}
+
+
 
 
 

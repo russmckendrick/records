@@ -32,8 +32,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1NvW80mVflSphrro6oWLuP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/high-on-tulsa-heat/968599286" >}}
+
+
 
 
 

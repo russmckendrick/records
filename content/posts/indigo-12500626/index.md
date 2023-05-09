@@ -35,8 +35,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3KJDc381jm06rWww5E45or" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/indigo/1414681591" >}}
+
+
 
 
 

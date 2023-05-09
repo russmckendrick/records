@@ -32,8 +32,12 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="02b8Jb4tkLxVtPWh0QfQKB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lionheart-remastered/1441564919" >}}
+
+
 
 
 

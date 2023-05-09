@@ -33,8 +33,12 @@ styles: ["Glam", "Pop Rock", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3aGkjugjzDWaETRbbRafoF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/changesonebowie-2016-remaster/1090470635" >}}
+
+
 
 
 

@@ -33,6 +33,15 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 <!-- section break -->
 
 
+The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443" >}}
+
+
+
 
 
 ## Videos

@@ -36,6 +36,13 @@ styles: ["Ska", "Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dont-know-how-to-party/1443739943" >}}
+
+
+
+
+
 ## Videos
 ### Someday I Suppose
 {{< youtube id="Mvav4aPv0-s" title="Someday I Suppose" >}}<br>

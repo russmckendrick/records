@@ -57,8 +57,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="24gD76Q8ZZRBPBzRzsNNrQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/radio-gnome-invisible-trilogy/1057678912" >}}
+
+
 
 
 

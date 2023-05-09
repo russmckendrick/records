@@ -50,8 +50,12 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6w7XFtdCQf871KU40Ot1Ra" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-beta-band/1339300024" >}}
+
+
 
 
 

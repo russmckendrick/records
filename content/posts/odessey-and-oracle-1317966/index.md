@@ -34,8 +34,14 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6XqM4NINcx3oc7NhOUKxXp" width="100%" height="500" >}}
+Although 1968's <i>Odessey and Oracle</i> was released after The Zombies split, its lush and complex sound cemented the group's legacy for generations to come. It's easily among the finest examples of British psychedelic pop, draped in baroque orchestral arrangements, innovative Mellotron, layered harmonies, and Colin Blunstone's soft, breathy vocals. The breezily euphoric "Care of Cell 44," the haunting ballad "A Rose for Emily," and the sensual, jazzy "Time of the Season" exhibit keyboardist Rod Argent and bassist Chris White's uncommon sense of melody, arrangement, and dynamics.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/odessey-and-oracle/252723845" >}}
+
+
 
 
 

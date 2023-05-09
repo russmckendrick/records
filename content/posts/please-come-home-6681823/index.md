@@ -44,8 +44,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7pFK9qhhBtH8eDUwyL8UBt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/please-come-home/1049160955" >}}
+
+
 
 
 

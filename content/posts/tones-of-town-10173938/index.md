@@ -33,8 +33,12 @@ styles: ["Pop Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5aVrkuKBK83Oos5JhqcND4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tones-of-town/210355490" >}}
+
+
 
 
 

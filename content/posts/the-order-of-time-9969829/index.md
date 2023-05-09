@@ -34,8 +34,14 @@ styles: ["Gospel", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4TVWSt83FpSfocgA3omB0k" width="100%" height="500" >}}
+That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble, and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown,” which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-order-of-time/1440948460" >}}
+
+
 
 
 

@@ -32,6 +32,13 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bad-company/978942690" >}}
+
+
+
+
+
 ## Videos
 ### Bad Company - Bad Company (US CD Reissue)
 {{< youtube id="XQcR3iL-7ks" title="Bad Company - Bad Company (US CD Reissue)" >}}<br>

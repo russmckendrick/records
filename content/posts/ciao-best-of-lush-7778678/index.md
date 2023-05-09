@@ -40,8 +40,12 @@ styles: ["Indie Rock", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Y5zRmNwW2yG6c7ESCNmbf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ciao-best-of-lush/310996586" >}}
+
+
 
 
 

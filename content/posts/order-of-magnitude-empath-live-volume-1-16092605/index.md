@@ -56,6 +56,13 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549" >}}
+
+
+
+
+
 ## Videos
 ### Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)
 {{< youtube id="qtgv89oLCOU" title="Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)" >}}<br>

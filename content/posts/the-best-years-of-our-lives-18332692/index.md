@@ -37,8 +37,12 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4D1oAjj0nxeAlsAJWAJn8g" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-years-of-our-lives-deluxe-version/1631057930" >}}
+
+
 
 
 

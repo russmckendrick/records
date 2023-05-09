@@ -34,6 +34,13 @@ styles: ["Post-Punk", "New Wave"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-souls/1650831654" >}}
+
+
+
+
+
 ## Videos
 ### Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls
 {{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}<br>

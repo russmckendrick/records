@@ -39,8 +39,12 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4YPpC6s1gbCDKI2Ikwl43s" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ace-as-killer-bs/1443796376" >}}
+
+
 
 
 

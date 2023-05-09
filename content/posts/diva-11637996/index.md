@@ -32,8 +32,12 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="33ImEB9taJ3Tie4APfTL7B" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/diva/258646635" >}}
+
+
 
 
 

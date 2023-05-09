@@ -50,6 +50,13 @@ styles: ["Indie Rock", "Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-it-girl/835855794" >}}
+
+
+
+
+
 ## Videos
 ### Shrinkwrapped - Sleeper - The It Girl
 {{< youtube id="GDqcXMQxMG0" title="Shrinkwrapped - Sleeper - The It Girl" >}}<br>

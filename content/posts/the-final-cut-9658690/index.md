@@ -35,8 +35,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1yMenUMOx7BpfTDuVQs99y" width="100%" height="500" >}}
+Roger Waters dominated Pink Floyd on <i>The Wall</i>, but the follow-up was nearly his first solo album. Rick Wright had been fired, studio musicians supplant the band, and even David Gilmour only sings lead on the scabrous rocker "Not Now John". Recorded during the build-up to the Falklands War, Waters' lyrics reflect his personal demons: corruption, societal breakdown and—looming over everything—his father's death in World War II. But there's compassion in Waters' worldview and a few glimpses of hope amidst the bitterness.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-final-cut/719121288" >}}
+
+
 
 
 

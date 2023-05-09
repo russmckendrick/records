@@ -8,7 +8,13 @@
             {{ if .Params.image }}
             <div class="row gtr-200">
                 <div class="col-8 col-12-medium">
-                    <p>{{ .Summary }}</p>
+                    <p>{{ .Summary }}<br>
+                        {{ if ne .Params.apple_music_artist_url "None" }}
+                        <ul class="actions">
+                            <li><a href="{{  .Params.apple_music_artist_url }}" class="button">Goto {{ .Title }} on Apple Music</a></li>
+                        </ul>
+                        
+                        {{ end }}</p>
                 </div>
                 <div class="col-4 col-12-medium">
                     <span class="image fit"><img src="{{ (path.Join
@@ -17,8 +23,9 @@
             </div>
         </section>
         {{ end }}
+    
         {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) }}
-        <section id="two" class="spotlights">
+        <section id="three" class="spotlights">
             {{ range $index, $page := $paginator.Pages }}
             <section>
                 <a href="{{ $page.RelPermalink }}" class="image">

@@ -33,8 +33,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6NbdjT5mdw0oTZDiEZOgey" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/private-revolution/711969568" >}}
+
+
 
 
 

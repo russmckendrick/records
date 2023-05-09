@@ -46,6 +46,13 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-mountain/1045392645" >}}
+
+
+
+
+
 ## Videos
 ### The Path
 {{< youtube id="RvzL2FoF5W8" title="The Path" >}}<br>

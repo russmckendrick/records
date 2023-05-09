@@ -36,6 +36,13 @@ styles: ["Prog Rock", "Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/insider/1189715758" >}}
+
+
+
+
+
 ## Videos
 ### Amplifier -- Insider
 {{< youtube id="c3K6-ljo7UQ" title="Amplifier -- Insider" >}}<br>

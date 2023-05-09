@@ -38,6 +38,15 @@ styles: ["Electric Blues", "Psychedelic Rock"]
 <!-- section break -->
 
 
+On <i>Electric Ladyland</i>, Jimi explores the recording studio for a double LP beyond compare. Every aspect of Hendrix’s genius comes to life on his third and final studio album. There’s the intense hard-rock punch of “Crosstown Traffic”; the two masterful, very different versions of “Voodoo Chile”; the radical, rollicking interpretation of Bob Dylan’s “All Along the Watchtower”; and the dreamy, multilayered beauty of “1983…(A Merman I Should Turn to Be).” This is the sound of a genius dreaming.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/electric-ladyland/357652252" >}}
+
+
+
 
 
 

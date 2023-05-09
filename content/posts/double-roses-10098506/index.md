@@ -32,8 +32,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1p5lpv5I3e9spUNQGvmJC7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/double-roses/1186335978" >}}
+
+
 
 
 

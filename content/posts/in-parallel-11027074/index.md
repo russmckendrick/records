@@ -32,8 +32,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5hCY4mjnpM6AVa32C9DQDe" width="100%" height="500" >}}
+Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-parallel/1258197590" >}}
+
+
 
 
 

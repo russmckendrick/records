@@ -40,8 +40,12 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2TV8JqednqRKb2injBMYGd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/iii-sides-to-every-story/1440724126" >}}
+
+
 
 
 

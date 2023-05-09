@@ -31,8 +31,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6bR98XzGnklTORDvZ7Oc2i" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/architecture-morality/714757729" >}}
+
+
 
 
 

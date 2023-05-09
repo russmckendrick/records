@@ -36,8 +36,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7o14zVcXSRk7clV6QCEdOD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/slanted-enchanted/1589229771" >}}
+
+
 
 
 

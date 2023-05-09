@@ -32,8 +32,12 @@ styles: ["Post Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1spBZkNLoM62OmrajrTld9" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bronze-deluxe-edition/1170690446" >}}
+
+
 
 
 

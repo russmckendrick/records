@@ -36,6 +36,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bagsy-me/705302046" >}}
+
+
+
+
+
 ## Videos
 ### The Wannadies - Combat Honey
 {{< youtube id="nU6Aqp9oUL0" title="The Wannadies - Combat Honey" >}}<br>

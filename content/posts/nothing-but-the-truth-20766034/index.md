@@ -39,8 +39,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1BrLpPMTVcKxKp25pc4HBA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-truth/1579363537" >}}
+
+
 
 
 

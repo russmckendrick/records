@@ -74,8 +74,12 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6DPdEaZ0KDBCCgXyy4q8bi" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/buena-vista-social-club/1467829048" >}}
+
+
 
 
 

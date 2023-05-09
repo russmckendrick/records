@@ -33,8 +33,12 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2qzIwKYSSxlTMQJynoUoO2" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/preternatural-bonus-track-version/1094302086" >}}
+
+
 
 
 

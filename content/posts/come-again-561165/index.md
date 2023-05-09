@@ -40,6 +40,13 @@ styles: ["Comedy", "Spoken Word"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/come-again/724582290" >}}
+
+
+
+
+
 ## Videos
 ### Coughin' Contest
 {{< youtube id="M-W_p4dt8Jk" title="Coughin' Contest" >}}<br>

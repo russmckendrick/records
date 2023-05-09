@@ -28,9 +28,18 @@ styles: ["Art Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4nQe6IzubN7cE7EWzrIvu4" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-yes-album/1049017157" >}}
+
+
+
+
+
+## Videos
+### Y̲es – T̲he Y̲es Album (Full Album) 1971
+{{< youtube id="_Y6oPS4aLk8" title="Y̲es – T̲he Y̲es Album (Full Album) 1971" >}}<br>
 
 
 

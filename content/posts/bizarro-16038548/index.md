@@ -32,8 +32,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3tp8pJWiuLPiwxZ1URt1OP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bizarro/211455153" >}}
+
+
 
 
 

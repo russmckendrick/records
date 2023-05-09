@@ -32,8 +32,12 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="019nA7vSKz0dD5yRKYRpbM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fever-ray-deluxe-edition/923360560" >}}
+
+
 
 
 

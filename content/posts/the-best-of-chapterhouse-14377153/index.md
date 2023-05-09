@@ -39,6 +39,13 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852" >}}
+
+
+
+
+
 ## Videos
 ### There's Still Life
 {{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}<br>

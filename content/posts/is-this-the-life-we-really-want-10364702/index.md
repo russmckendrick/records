@@ -34,8 +34,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2XhQwji1ixgjca0XzkiTek" width="100%" height="500" >}}
+From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689" >}}
+
+
 
 
 

@@ -49,8 +49,12 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3ibgs75uFxEL3JNmBGXY7E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-greatest-songs-ever-written-by-us/1485042726" >}}
+
+
 
 
 

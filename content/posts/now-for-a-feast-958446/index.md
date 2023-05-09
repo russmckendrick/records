@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0d8vBDCsUiArvT3zKfzFs5" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/now-for-a-feast-25th-anniversary-expanded-edition/461120910" >}}
+
+
 
 
 

@@ -31,8 +31,12 @@ styles: ["Ambient House", "Dub", "Disco", "Drum n Bass", "Downtempo", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3TjPYf016Q9GGpugNeiGjK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/prism-deluxe/1665731165" >}}
+
+
 
 
 

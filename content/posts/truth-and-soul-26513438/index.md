@@ -34,8 +34,14 @@ styles: ["Ska", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3fFLTUfssjzN4vipRRfGxZ" width="100%" height="500" >}}
+With <i>Truth and Soul</i>, Fishbone certified their status as some of the most important, freethinking artists of the alt-rock era, the band your favorite band talked about. With their album-opening cover of Curtis Mayfield's soulful lament "Freddie's Dead," they define and transcend black music's past; with "Bonin' In the Boneyard," they lay the impossibly funky foundation for its future. "Ghetto Soundwave" and "Change" close this uproarious masterpiece with a pair of streetwise, socially conscious anthems that call for unity among the tribes.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/truth-and-soul/196393427" >}}
+
+
 
 
 

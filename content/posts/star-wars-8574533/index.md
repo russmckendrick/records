@@ -40,6 +40,13 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/star-wars-a-new-hope-original-motion-picture-score/1375814280" >}}
+
+
+
+
+
 ## Videos
 ### Star Wars A New Hope Full Soundtrack
 {{< youtube id="sDMPTZ7y1lE" title="Star Wars A New Hope Full Soundtrack" >}}<br>

@@ -34,8 +34,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3TfA5qAwyI3iy3YbRc28qL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bring-it-on-20th-anniversary-deluxe/1383478428" >}}
+
+
 
 
 

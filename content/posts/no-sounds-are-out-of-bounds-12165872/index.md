@@ -34,8 +34,12 @@ styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2vyUnf6hnPpsYC5Ja8T0QL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-sounds-are-out-of-bounds-deluxe/1391652456" >}}
+
+
 
 
 

@@ -42,8 +42,12 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3tVxsOv2aTeaF3zsuWsd3e" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-live-at-mif/1462511115" >}}
+
+
 
 
 

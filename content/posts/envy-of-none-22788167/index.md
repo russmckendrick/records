@@ -33,8 +33,47 @@ styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="23Iuy4cXEOCOdmbnkb8ZIy" width="100%" height="500" >}}
+For his first post-Rush album project, guitar wizard Alex Lifeson has teamed up with bassist Andy Curran of veteran Canadian rockers Coney Hatch, producer Alfio Annibalini (Voivod/Sons of Otis) and beguiling young singer Maiah Wynne to form Envy of None. The group’s self-titled debut is a true collaborative effort featuring deep electronic textures, dreamy alt-rock and a poignant tribute to Lifeson’s late, great friend and bandmate Neil Peart. Just don’t expect any of it to sound like Rush. “I was in Rush for 45 years, but I have a lot of other musical ideas,” Lifeson tells Apple Music. “Working with a different set of people who are great musicians and great songwriters was a rewarding experience. I was able to create the type of soundscapes and character in the guitar that was very non-guitarlike.” Below, Lifeson and Curran discuss each track. 
+ 
+<b>“Never Said I Love You”</b>
+Alex Lifeson: “Even when this song was in a demo format, before it had vocals or anything, we felt it was a pretty darn hooky song. We were even jokingly calling it a ‘smash-hit bed track’. We had a bit of confidence that it might actually get a lot of airplay one day. When Maiah got involved, I think Andy suggested the line ‘I never said I loved you,’ and she just ran with it. I ended up adding some acoustic guitars to the chorus to help make it really big and wide and singable.” 
+ 
+<b>“Shadow”</b>
+Andy Curran: “This is probably the earliest Envy of None song that we all collaborated on. Certainly, it was the first time Alfi and I shared anything we were working on with Maiah. That might be the one that really resonated with Alex when he realised, as we did, how special Maiah is—and her grasp of melodies and lyrics and harmonies. She said the electronic vibe of the track reminded her of a video game.” 
+ 
+<b>“Look Inside”</b>
+Lifeson: “When this first came around, we all struggled with it. The parts were interesting separately, but gluing it together seemed to be a little bit of a task. The difficulty is it’s a very slow tempo, and it’s in 3/4 time, so it has that swing to it. But we slowly figured it out. Andy’s bass is just so awesome and memorable and cool. Maiah’s vocal is dreamy, and the melody is reminiscent of something from the early Beatles era. I added the guitar that starts off the song—it sounds like a keyboard part, but it’s actually a guitar. It’s a real stoner lullaby. That’s what we call it, anyway.” 
+ 
+<b>“Liar”</b>
+Curran: “I’m a big fan of industrial music—I love Rammstein and Nine Inch Nails. I came up with this groove and originally sent it to Dave Ogilvie from Skinny Puppy, who had a band called Jakalope and was looking for some songs. He loved it, but he told me the band had just broken up. So, I called Alfi and said we needed to do something with this. I had little seeds of the lyric and vocal idea, but Maiah ended up taking those ideas and writing lyrics about her experience of being on jury duty and listening to some woman lie through her teeth. It really works.”
+ 
+<b>“Spy House”</b>
+Lifeson: “This is one of the songs that I wrote some time ago. It was intended to be a little instrumental exercise, and it has the only solo on the record, so you can tell that it was something that I was working on before Envy of None got going. A lot of times, I come up with song titles by looking around the room and seeing a book or a movie or something, and that’s where this came from. Then Maiah wrote lyrics based on a character who’s very paranoid in a relationship and spying on her love interest.” 
+ 
+<b>“Dog’s Life”</b>
+Curran: “This is one of the very last songs that we added. I had this sequenced bass idea that I sent along to everybody, and then Maiah sent over maybe 60 tracks of vocal ideas that poor Alex and Alfi had to sift through. Then I randomly reached out to Joe Vitale because he’s one of my favourite drummers. People might recognise his name from playing with Joe Walsh for years. He’s in his seventies now, but he plays like a 16-year-old on this. It’s one of my favourites on the record.” 
+ 
+<b>“Kabul Blues”</b>
+Lifeson: “This is another song from the ‘Spy House’ era, and it was originally an instrumental. It was an exercise in trying to create a bluesy song that had an Eastern influence or character to it, but at the same time, it was like an acid trip—if you can imagine those three things together. Then I put all these weird effects and spacey sounds in the background, Andy redid the bass and Maiah wrote great lyrics for it—very evocative. She did a very sensual vocal treatment for the song. Then I edited the guitar, so it moves around her vocal. It’s definitely one of my favourites.” 
+ 
+<b>“Old Strings”</b>
+Lifeson: “This is where Maiah and I really cemented our relationship. She was very, very inspiring for my guitar playing and my guitar arrangements on this record, but this song is the perfect example. It’s one of her songs, and it was originally double-time. It had a real rootsy feel, almost bluegrass. So, I worked for two days putting guitars, banjo and mandolin on it. In the meantime, Alf and Andy were stripping the song down to its most essential melodic parts, with a half-time feel. When I heard their version, I was ready to delete everything I did. So, we did it that way. It's a beautifully constructed song, and lyrically it’s beautiful. Very profound, in my opinion.” 
+ 
+<b>“Dumb”</b>
+Curran: “This is a little bit of a guilty pleasure for me. The bass is fairly relentless and syncopated, and it very much has an ’80s dance feel. It’s maybe something that you would hear in a club in Berlin, with some tight clothing on—so it’s quite foreign to the rest of the songs. I originally tried to sell the band on having it stay that way throughout the song, but Alex suggested I add another part, which is now the intro. Maiah wrote some very personal lyrics, and the guitars Alex added might be my favourite guitar moments on the album, even though they don’t sound like guitars at all.” 
+ 
+<b>“Enemy”</b>
+Lifeson: “Maiah’s performance is so amazing on this. It melts me every time I hear it. I have goose bumps right now, as I’m saying this. There is so much menace in the way she delivers her vocals. The song has this almost <i>Twilight Zone</i>-ish riff, and all these quirky elements come together to create an uncomfortable listening experience. When the chorus comes in with the heavy guitars, it’s really intense. And that whole ‘put a flower in your gun’ line is just something else.
+ 
+<b>“Western Sunset”</b>
+Lifeson: “This is difficult to talk about because I wrote the song around the time we heard of Neil’s illness. We all spent time with him, and one day I was on his patio, watching the sunset. It was a very serene, calm moment in the middle of this terrible news, and it struck me that with the sun setting and bringing closure to the day, it became this poignant moment we were sharing. As a closer for the album, it also gives you a chance to catch your breath and digest everything you just listened to. I immediately think of Neil when I hear the song, and it actually makes me feel good. That kind of thing is an important part of recovering from the loss of someone that you love so much.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/envy-of-none/1599578868" >}}
+
+
 
 
 

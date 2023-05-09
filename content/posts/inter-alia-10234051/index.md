@@ -33,8 +33,11 @@ styles: ["Indie Rock", "Post-Hardcore"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="3Ka6oBfQ6rdAvQ1kK9KYvX" width="100%" height="500" >}}
+
 
 
 

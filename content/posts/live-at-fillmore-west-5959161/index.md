@@ -31,8 +31,12 @@ styles: ["Jazz-Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0Tg5AKLEbLNnDjyZh5e913" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dont-fight-the-feeling-the-complete-aretha-franklin/955202983" >}}
+
+
 
 
 

@@ -35,8 +35,14 @@ styles: ["Comedy"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0a89maD3IKWIyWdOljmkQb" width="100%" height="500" >}}
+Behold one of the majestically silly couplets on this second serving of Kiwi comedy folk (“Here I am all dressed in snakeskin/Now I’m in the kitchen making love to your cake tin” purrs Jemaine Clement on the title track) and you’d be forgiven for thinking it was business (time) as usual. But the Clement and Bret McKenzie aren’t afraid to broaden their parodic palette on this follow-up. To be clear: this is a good thing. “Sugalumps” inverts traditional R&B objectification with absurd results and “You Don’t Have to Be a Prostitute” takes an audacious run at Sting’s “Roxanne”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-told-you-i-was-freaky/335064254" >}}
+
+
 
 
 

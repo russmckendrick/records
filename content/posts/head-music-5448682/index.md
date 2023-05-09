@@ -35,8 +35,14 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="03SdAKm8cdH2jeKKyTiYvc" width="100%" height="500" >}}
+Suede recruited Paul Oakenfold collaborator Steve Osborne to produce their fourth album but the sound of Brett Anderson skanking on “Savoir Faire” notwithstanding, <i>Head Music</i> is not the left turn towards the dancefloor that would suggest. Instead, Osborne gives a reliably melodic, melodramatic collection satisfying crispness and an electronic sheen. From the shouty glam-boogie of “Elephant Man”, to “Electricity”’s crackling riffs and “She’s In Fashion”’s infectious, drunken synths, this is Suede’s most atmospheric and expansive record yet.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/head-music-remastered/435028645" >}}
+
+
 
 
 

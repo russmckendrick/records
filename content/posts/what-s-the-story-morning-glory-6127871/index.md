@@ -35,6 +35,15 @@ styles: ["Britpop"]
 <!-- section break -->
 
 
+Oasis cement their place at rock’s top table with ideas as big as their tunes. Revelling in his band’s dizzying ascent, Noel Gallagher embraces Oasis’s stadium destiny by adding strings, pianos and balladry to their arsenal. “Some Might Say” and “Morning Glory” retain the invigorating roar of <i>Definitely Maybe</i> but “Wonderwall” and “Don’t Look Back In Anger” are stately singalongs to unite pub lock-ins and festival fields in “love you, mate” embraces. Accordingly, Liam Gallagher shed some of his sneer, bringing sensitivity and reflection to “Champagne Supernova”’s sunset psychedelia.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whats-the-story-morning-glory/1517447039" >}}
+
+
+
 
 
 ## Videos

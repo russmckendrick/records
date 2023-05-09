@@ -34,8 +34,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3poVlFX7lPm5Q7XKsOGEwk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/version-2-0-20th-anniversary-edition-2018-remaster/1544368240" >}}
+
+
 
 
 

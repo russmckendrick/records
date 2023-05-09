@@ -33,8 +33,12 @@ styles: ["Folk Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2amHBpP8C0EUy6yBNy6nN6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/forever-changes-remastered/1125521386" >}}
+
+
 
 
 

@@ -38,8 +38,12 @@ styles: ["Electro", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0Rg5gPR4pbwQrnfmTO9yxK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/604/1619141992" >}}
+
+
 
 
 

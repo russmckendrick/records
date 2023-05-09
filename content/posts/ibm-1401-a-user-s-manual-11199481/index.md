@@ -30,8 +30,12 @@ styles: ["Modern Classical"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="24zOxE6Bo3u4DEO1Yi5p69" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ibm-1401-a-users-manual/311183849" >}}
+
+
 
 
 

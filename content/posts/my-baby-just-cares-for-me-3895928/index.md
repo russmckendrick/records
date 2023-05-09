@@ -42,8 +42,12 @@ styles: ["Soul-Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2cDU1aJ6M0LEsGy8Ks8c8l" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-voice-of-nina-simone-my-baby-just-cares-for-me/590241536" >}}
+
+
 
 
 

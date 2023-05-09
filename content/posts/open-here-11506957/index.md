@@ -33,8 +33,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2IxeW5CPwsvdbsU5TJ2ouQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/open-here/1302724440" >}}
+
+
 
 
 

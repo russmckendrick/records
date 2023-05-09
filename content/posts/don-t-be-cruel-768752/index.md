@@ -33,6 +33,15 @@ styles: ["New Jack Swing"]
 <!-- section break -->
 
 
+With 1988’s <i>Don’t Be Cruel</i>, Bobby Brown transformed himself from a teen idol into a seductive crooner with a rapper’s brash self-confidence. Overseen by producers Babyface and L.A. Reid, “Don’t Be Cruel” and the unapologetic “My Prerogative” pair Brown’s sneering-but-sexy attitude with hip-hop’s rugged breakbeats. Even the slow jams—“Roni,” “Rock Wit’cha”—conceal sharpness beneath Brown’s smooth delivery. Rap, pop, and soul converge on “Every Little Step,” a dazzling hit that proves R&B doesn’t have to be corny to be catchy.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dont-be-cruel/1440773569" >}}
+
+
+
 
 
 ## Videos

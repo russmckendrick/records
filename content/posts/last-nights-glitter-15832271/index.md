@@ -32,8 +32,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2xvdwaoDxpDC5S3YefeXAl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/last-nights-glitter/1516641724" >}}
+
+
 
 
 

@@ -32,8 +32,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="04FfqGvZJ9oUBGRVrq2FE5" width="100%" height="500" >}}
+The poster boy for melancholic singer/songwriters, Nick Drake recorded three very different studio albums in his 26 years. Where his debut <i>Five Leaves Left</i> is somber and string-laden, and his swan song <i>Pink Moon</i> acoustic and stark, <i>Bryter Layter</i> is a virtual party, featuring strings, horns, and a galvanizing rhythm section on loan from Fairport Convention. The band dynamic tints Drake's compositions with a cosmopolitan flavor. You can practically smell the sophisticated nightclub of "At the Chime of the City Clock." When Drake does slow things to a contemplative crawl, it's for three momentous songs. Brilliantly augmented by John Cale's swelling viola and harpsichord, "Hazey Jane I," "Fly," and "Northern Sky" are wistful, romantic tunes that capture Drake's overwhelming sense of displacement in a harsh yet beautiful world.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bryter-layter-remastered/1440723775" >}}
+
+
 
 
 

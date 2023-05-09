@@ -32,8 +32,12 @@ styles: ["Ska", "Punk", "Hardcore"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="75UKyp4bDRZ55X5Ww4uolM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/devils-night-out/321147421" >}}
+
+
 
 
 

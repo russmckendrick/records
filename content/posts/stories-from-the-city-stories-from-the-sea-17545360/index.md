@@ -34,8 +34,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0hBWhJEmVyNPG2Jq71CJXz" width="100%" height="500" >}}
+Polly Harvey says she aimed for “absolute beauty” on her most upbeat, direct record yet. She’s certainly been reinvigorated by a love affair but that doesn’t mean her edges and explosiveness have been dulled. A simple drums-bass-guitar set-up carves the melodic lushness and “This is Love” declares its carnal desires with a dopamine rush of blues-punk, while “Big Exit” wraps the insecurities of love in a buzz of dual guitars and counter-melodies. Don’t expect a happy ending either: Thom Yorke duet “This Mess We’re In” is gorgeous but heavy-legged with impending trouble.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stories-from-the-city-stories-from-the-sea/1442556188" >}}
+
+
 
 
 

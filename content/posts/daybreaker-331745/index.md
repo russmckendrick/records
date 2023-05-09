@@ -32,8 +32,14 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2dxeLDM2q7hDslXKSJDFEy" width="100%" height="500" >}}
+<i>Daybreaker</i> finds Orton at a crossroads, marrying her debut's folktronica to the Americana of <i>Central Reservation</i>. There's also a newfound cinematic streak—the stately orchestrations of “Paris Train”—and her diverse array of collaborators speaks to Orton's amplified stature. The Smiths' Johnny Marr co-wrote the languid “Concrete Sky”, while her earliest collaborators, the Chemical Brothers, underwrite the title-track's paranoid ambience. Emmylou Harris pops up on Nashville waltz “God Song”, while Ryan Adams is a frequent presence: He lends backing vocals, and wrote the tender and lovely “This One's Gonna Bruise” for Orton to sing.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/daybreaker/696518811" >}}
+
+
 
 
 

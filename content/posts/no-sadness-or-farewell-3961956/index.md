@@ -28,8 +28,12 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5xvQlmZwXisRdrhccmEfLq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-sadness-or-farewell/1601045064" >}}
+
+
 
 
 

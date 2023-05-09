@@ -39,6 +39,9 @@ styles: ["Blues Rock"]
 
 
 
+
+
+
 ## Videos
 ### Paul Rodgers ~ The Hunter
 {{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers ~ The Hunter" >}}<br>

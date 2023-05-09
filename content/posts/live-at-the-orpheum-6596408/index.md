@@ -29,8 +29,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="20SQYKjSaO8NENPoxDSrkG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-orpheum/950800441" >}}
+
+
 
 
 

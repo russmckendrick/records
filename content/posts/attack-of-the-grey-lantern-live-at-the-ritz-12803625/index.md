@@ -34,8 +34,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5vq49BfLlCDxHlgqMSvuyl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-live-at-the-ritz/1633688317" >}}
+
+
 
 
 

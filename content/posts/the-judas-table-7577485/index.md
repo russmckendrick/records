@@ -34,6 +34,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-judas-table/1556091887" >}}
+
+
+
+
+
 ## Videos
 ### Antimatter - Stillborn Empires [official music video]
 {{< youtube id="e06YDLbTNZA" title="Antimatter - Stillborn Empires [official music video]" >}}<br>

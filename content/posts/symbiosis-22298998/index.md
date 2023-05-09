@@ -30,8 +30,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1ncW9ytqUn06IQb6SHFPqH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/symbiosis/1604277526" >}}
+
+
 
 
 

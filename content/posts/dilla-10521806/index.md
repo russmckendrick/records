@@ -34,8 +34,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2k03GJKwMPvBOXXL7gcvVf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dilla/1238569093" >}}
+
+
 
 
 

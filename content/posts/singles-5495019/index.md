@@ -32,8 +32,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="26bhmgVpg5E5HyU4K1BYMc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/singles/791124020" >}}
+
+
 
 
 

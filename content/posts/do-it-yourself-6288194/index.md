@@ -34,6 +34,13 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/do-it-yourself/1489404416" >}}
+
+
+
+
+
 ## Videos
 ### Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)
 {{< youtube id="TtbzKDYotww" title="Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)" >}}<br>

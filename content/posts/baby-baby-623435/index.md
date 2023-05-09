@@ -25,8 +25,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0FCOSFaHI0ihmg16dkA2Dw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lullaby-renditions-of-amy-grant-just-for-babies/1271452396" >}}
+
+
 
 
 

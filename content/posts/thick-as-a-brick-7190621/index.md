@@ -24,8 +24,12 @@ styles: ["Prog Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1ZxChDw03SUFGUz0RC8A8M" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/thick-as-a-brick-2012-steven-wilson-stereo-remix/1006839794" >}}
+
+
 
 
 

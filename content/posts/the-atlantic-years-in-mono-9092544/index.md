@@ -109,6 +109,13 @@ styles: ["Rhythm & Blues"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405" >}}
+
+
+
+
+
 ## Videos
 ### Ray Charles - What'd I Say (Official Audio)
 {{< youtube id="6uTDa3771HM" title="Ray Charles - What'd I Say (Official Audio)" >}}<br>

@@ -33,8 +33,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="11kNM2Qz9AnObYsX3PQzuM" width="100%" height="500" >}}
+Building on the hooky pop electronica that had internet oracles everywhere falling for their 2013 debut, Glaswegian trio Lauren Mayberry, Iain Cook and Martin Doherty return on a second record shimmering with icy, controlled confidence. “Leave a Trace” is a skittering R&B-influenced air-puncher while “Clearest Blue” builds to an almost impossibly euphoric riot of 80s synth stabs. It’s not all precision-engineered pyrotechnics though. Closing track “Afterglow” (complete with Mayberry’s haunting one-take vocal and a radiator clanking in the background) proves that Chvrches do stripped-down just as well as they do scrubbed-up.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/every-open-eye/1440834051" >}}
+
+
 
 
 

@@ -31,8 +31,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0tHQTsZepeMpMqgtBdaFRx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-future-bites/1530202084" >}}
+
+
 
 
 

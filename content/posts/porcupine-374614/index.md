@@ -32,8 +32,12 @@ styles: ["New Wave", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4brJ6hWYqPj1sccgk390dC" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/porcupine-expanded-version/31740123" >}}
+
+
 
 
 

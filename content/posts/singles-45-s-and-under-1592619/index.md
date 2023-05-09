@@ -36,6 +36,13 @@ styles: ["New Wave", "Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/singles-45s-and-under/1446091631" >}}
+
+
+
+
+
 ## Videos
 ### Pulling Mussels (From The Shell)
 {{< youtube id="vB5glE-Oo94" title="Pulling Mussels (From The Shell)" >}}<br>

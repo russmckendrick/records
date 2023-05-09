@@ -41,6 +41,13 @@ styles: ["Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/laughing-on-judgement-day/690849956" >}}
+
+
+
+
+
 ## Videos
 ### Thunder - Laughing On Judgement Day (Full Album)
 {{< youtube id="S-jl07EuBuE" title="Thunder - Laughing On Judgement Day (Full Album)" >}}<br>

@@ -33,8 +33,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1WaH3Jqbs7gcTpVFmPmHX9" width="100%" height="500" >}}
+Bronx-born Saun & Starr are best known as backup singers for the venerable retro-soul band Sharon Jones & The Dap-Kings. This time around, with The Dap-Kings as <i>their</i> backing band, they step into the spotlight with <i>Look Closer</i>, putting a gently contemporary spin on classic soul and early funk. They preserve the loose, organic, live-band sound that makes their ancestors so irreplaceable, from mid-period Marvin Gaye (the bright and breezy “Sunshine [You’re Blowin’ My Cool]”) to the sultry, brooding sound of someone like Irma Thomas (“In the Night”).
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/look-closer/1485060275" >}}
+
+
 
 
 

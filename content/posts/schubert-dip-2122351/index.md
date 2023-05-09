@@ -33,8 +33,12 @@ styles: ["Leftfield", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="475PE6J6LTBGBpt26rRrHe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/schubert-dip/1242337425" >}}
+
+
 
 
 

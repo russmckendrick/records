@@ -38,8 +38,12 @@ styles: ["Art Rock", "Prog Rock", "Ambient", "New Age"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7k90isZkgNWclg0pFco7eb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/secret-world-live/1445901797" >}}
+
+
 
 
 

@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3HYrgbpT5l1F3H1YsQKYFM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/love-poison-live-at-the-brixton-academy-16th-may-1993/1569041269" >}}
+
+
 
 
 

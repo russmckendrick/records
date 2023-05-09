@@ -51,8 +51,14 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0tzfI6NFJqcJkWb23R3lRZ" width="100%" height="500" >}}
+“One of the <i>crazy</i> things we did was not release this song because we didn’t think it was good enough.” That was Thom Yorke’s message to a Norwegian crowd in June 2017 before Radiohead played “I Promise” live for the first time since 1996. The centrepiece of <i>OKNOTOK</i>’s second set of unreleased tracks and B-sides, it’s a startlingly beautiful snapshot of the band’s ridiculous post-<i>The Bends</i>, <i>OK Computer</i>-era potency. Elsewhere, “Lift” is another glistening gem from the vaults and “Meeting in the Aisle” provides a reminder of the band’s haunting way around an instrumental. A remastered <i>OK Computer</i>, meanwhile, remains the foreboding masterpiece it ever was.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ok-computer-oknotok-1997-2017/1239489060" >}}
+
+
 
 
 
@@ -62,8 +68,20 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 
 ### More Videos
 
+- [Airbag](https://www.youtube.com/watch?v=jNY_wLukVW0)
 - [Radiohead - No Surprises](https://www.youtube.com/watch?v=u5CVsCnxyXg)
+- [Paranoid Android](https://www.youtube.com/watch?v=Lt8AfIeJOxw)
 - [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
+- [Subterranean Homesick Alien](https://www.youtube.com/watch?v=_fTWmUlTEqE)
+- [Exit Music (For A Film)](https://www.youtube.com/watch?v=Bf01riuiJWA)
+- [Let Down (Remastered)](https://www.youtube.com/watch?v=ZVgHPSyEIqk)
+- [Karma Police](https://www.youtube.com/watch?v=4IJI6soiQhI)
+- [Fitter Happier](https://www.youtube.com/watch?v=O4SzvsMFaek)
+- [Electioneering](https://www.youtube.com/watch?v=3DtgWrFTtQk)
+- [Climbing Up the Walls](https://www.youtube.com/watch?v=XX4EpkR-Sp4)
+- [No Surprises](https://www.youtube.com/watch?v=LBt60dfwEBY)
+- [Lucky](https://www.youtube.com/watch?v=yuZYQvvLXVY)
+- [The Tourist](https://www.youtube.com/watch?v=HkgzObf8uVU)
 
 
 ## Release Information

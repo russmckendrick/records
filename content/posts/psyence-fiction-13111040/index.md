@@ -35,8 +35,12 @@ styles: ["Downtempo", "Abstract", "Trip Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0LFPjvWEaHP7WKQD6F5pVS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/psyence-fiction/1667639546" >}}
+
+
 
 
 

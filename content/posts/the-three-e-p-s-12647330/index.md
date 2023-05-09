@@ -50,8 +50,12 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6w7XFtdCQf871KU40Ot1Ra" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s-20th-anniversary-remaster/1410176605" >}}
+
+
 
 
 

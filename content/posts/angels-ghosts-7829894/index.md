@@ -31,8 +31,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6ktDFJ9gHrd4Y5oScUHxtx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/angels-ghosts/1037278178" >}}
+
+
 
 
 

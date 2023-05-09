@@ -30,8 +30,14 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4g5nPCL3oFaJB0402Kedm8" width="100%" height="500" >}}
+Throughout the ‘80s, like many veteran rockers, Rush had to come to terms with an ever-changing landscape that meant dealing with the video age and the emergence of new recording technologies. Since Rush was among the more progressive bands of the ‘70s, it was only natural that the band would find a comfortable fit for the new synthesizers and electronic effects sweeping onto modern rock albums. While there are no twenty-minute epics, Neil Peart did pen thematically ambitious songs that deal with everything from nuclear war ("Manhattan Project") and monetary greed ("The Big Money") to suburban alienation ("Middletown Dreams"). The musical interplay between band members is accentuated with the layers of synthesizers that percolate and align with drummer Peart's physically punishing attack. "Grand Designs," "Marathon" and "Mystic Rhythms" don't just channel the band's illustrious instrumental abilities but press them into the service of some of the group's most underrated songs, and singer Geddy Lee is no longer left to wail like a banshee into the abyss but is supported with a wide array of vocal effects and harmonies.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/power-windows-remastered/1440759088" >}}
+
+
 
 
 

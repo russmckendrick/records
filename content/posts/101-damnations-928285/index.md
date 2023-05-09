@@ -33,8 +33,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3jJ36Wp8yuMlMlEy832Eeq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/101-damnations-bonus-edition/1286410386" >}}
+
+
 
 
 

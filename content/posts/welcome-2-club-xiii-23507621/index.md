@@ -31,8 +31,12 @@ styles: ["Southern Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5QO99FKAyigde7NHHyGZaK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/welcome-2-club-xiii/1617848474" >}}
+
+
 
 
 

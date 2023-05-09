@@ -38,8 +38,14 @@ styles: ["Conscious"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3WvQpufOsPzkZvcSuynCf3" width="100%" height="500" >}}
+On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi rekindle a chemistry that endeared them to hip-hop fans worldwide. Filled with exploratory instrumental beds, creative samples, supple rhyming, and serious knock, it passes the headphone and car stereo test. “Kids…” is like a rap nerd’s fever dream, Andre 3000 and Q-Tip slaying bars. Phife—who passed away in March 2016—is the album’s scion, his roughneck style and biting humor shining through on “Black Spasmodic” and “Whateva Will Be.” “We the People” and “The Killing Season” (featuring Kanye West) show ATCQ’s ability to move minds as well as butts. <i>We got it from Here... Thank You 4 Your service</i> is not a wake or a comeback—it’s an extended visit with a long-missed friend, and a mic-dropping reminder of Tribe’s importance and influence.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we-got-it-from-here-thank-you-4-your-service/1173106678" >}}
+
+
 
 
 

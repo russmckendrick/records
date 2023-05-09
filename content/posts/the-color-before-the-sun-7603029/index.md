@@ -44,8 +44,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6ewn6Mp7uBHuncFbdEvlGe" width="100%" height="500" >}}
+<i>The Color Before the Sun</i> is the first Coheed album to exist outside the dark universe of <i>The Amory Wars</i>—the elaborate sci-fi saga that entwines the band’s first seven albums with comics written by frontman Claudio Sanchez. Even without the narrative concept, <i>The Color Before the Sun</i> is one of the most focused albums of the band’s epic career. Launching to life with the catchy “Island”, Sanchez brings a fresh lyrical perspective to radio-ready rock (“Here to Mars", “You Got Spirit, Kid”), metal theatrics (“Eraser”) and cinematic prog-punk (“Peace To the Mountain”).
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-color-before-the-sun/1030919924" >}}
+
+
 
 
 

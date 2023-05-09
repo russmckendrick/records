@@ -34,8 +34,12 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3mcKOl0KNe65BqiBa40WxR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/new-jersey/1440826305" >}}
+
+
 
 
 

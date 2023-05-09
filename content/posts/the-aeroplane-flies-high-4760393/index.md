@@ -62,6 +62,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-aeroplane-flies-high-deluxe-edition/1433794676" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

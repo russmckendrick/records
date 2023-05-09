@@ -33,8 +33,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0vrHQhDASQKq7sr4wGaj73" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-second-brightest-star/1252927599" >}}
+
+
 
 
 

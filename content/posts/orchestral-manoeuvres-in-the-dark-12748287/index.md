@@ -32,8 +32,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5AN8aqTrcuMZO7rpD9U2yF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}
+
+
 
 
 

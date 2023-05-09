@@ -38,8 +38,12 @@ styles: ["Synth-pop", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ezKQuRSkTDJSgwJ6iL4Jq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/exorcising-ghosts/724314377" >}}
+
+
 
 
 

@@ -32,6 +32,15 @@ styles: ["Gothic Metal"]
 <!-- section break -->
 
 
+Set in medieval times, when the bubonic plague spread death across Europe, Ghost’s fourth album is a sociopolitical allegory for our own time. On soaring, metallic hymns like the Faustian “Rats,” the guitar explosion of “See the Light,” and the sinister, rumbling “Faith,” the theatrical Swedes' new frontman, Cardinal Copia, pulls the curtain back on power-hungry politicians and religious charlatans everywhere. Later, the pulsing discotheque romance of “Dance Macabre” and satanic Queen-esque ballad “Pro Memoria” offer contrasting meditations on love and death.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/prequelle/1368157625" >}}
+
+
+
 
 
 ## Videos

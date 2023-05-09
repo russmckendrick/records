@@ -42,8 +42,12 @@ styles: ["Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4hzfLKRc6V5xIU2Bv00E5R" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424" >}}
+
+
 
 
 

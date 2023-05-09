@@ -32,8 +32,12 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5xFlkqLDx3wbgqtvrez1n0" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-30th-anniversary-edition/331564777" >}}
+
+
 
 
 

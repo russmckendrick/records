@@ -28,6 +28,13 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/todd-rundgrens-utopia/100982409" >}}
+
+
+
+
+
 ## Videos
 ### UTOPIA - Todd Rundgren's Utopia -- 1974
 {{< youtube id="CO0aqSBTVJk" title="UTOPIA - Todd Rundgren's Utopia -- 1974" >}}<br>

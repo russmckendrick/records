@@ -33,8 +33,14 @@ styles: ["Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4A271CZJOcBKENslfEDsYM" width="100%" height="500" >}}
+The difference between Charles Bradley and a so-called soul revivalist is that, for Bradley—who was 67 when the third and final album of his lifetime, <i>Changes</i>, came out in 2016—soul never died in the first place. Like the work of Sharon Jones & The Dap-Kings (whose affiliates the Menahan Street Band provide most of Bradley’s musical backing), <i>Changes</i> doesn’t sound like a lost ’60s album so much as a found one, retouched and dusted off, sonically saturated in a way that wouldn’t’ve been possible 50 years ago. And while Bradley spent years as a James Brown impersonator, his delivery has more in common with what you heard in the balladry of Otis Redding: pained and reflective (“Changes”) but resilient (“Good to Be Back Home”) too—the sound of everything to give and nothing left to lose.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/changes/1485051210" >}}
+
+
 
 
 

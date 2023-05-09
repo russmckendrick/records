@@ -33,8 +33,12 @@ styles: ["Ambient", "House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="750aWEljQEs90DHcS7DDsc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia-guillotine-mixes/1537418838" >}}
+
+
 
 
 

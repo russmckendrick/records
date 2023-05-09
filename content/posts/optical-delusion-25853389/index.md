@@ -32,8 +32,14 @@ styles: ["Techno"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2jQbFspnSh7erex6RDKQGJ" width="100%" height="500" >}}
+The opening track of Orbital’s 10th album, <i>Optical Delusion</i>, borrows its melody from “Ring Around the Rosie”, the folk song whose playground connotations belie its common associations with the Black Death. That a plague song should introduce the Hartnoll brothers’ first studio album since 2018’s <i>Monsters Exist</i> is not accidental: Recorded in the wake of COVID-19’s first two cataclysmic years, <i>Optical Delusion</i> grapples directly with the societal unease of the 2020s—“The New Abnormal”, as an off-kilter breakbeat anthem calls it. Yet only the incendiary invective of the Sleaford Mods-fronted “Dirty Rat” would qualify as an actual protest song on this wide-ranging album of characteristically inventive beats and enveloping textures. For the most part, they face down an uncertain future with steely resolve, as on the rolling drum ’n' bass of “Requiem for the Pre-Apocalypse”, or stoic grace, as on the melancholy “Are You Alive?”. But the duo and their guests aren’t afraid to let loose, either: The haunting yet exhilarating “Day One” is a rave anthem like Orbital have been making since the early ’90s—a reminder that sometimes the dance floor is the best possible refuge.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/optical-delusion/1648750410" >}}
+
+
 
 
 

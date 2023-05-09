@@ -57,8 +57,12 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4cb90sqEVjRWxu4BnilPch" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/afraid-of-sunlight/692119730" >}}
+
+
 
 
 

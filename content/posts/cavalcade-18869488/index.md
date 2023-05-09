@@ -31,8 +31,12 @@ styles: ["Experimental", "Art Rock", "Math Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7AsC27VDa3yOksZrfBSD6D" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cavalcade/1556010645" >}}
+
+
 
 
 

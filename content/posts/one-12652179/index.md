@@ -34,6 +34,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/one/1553879308" >}}
+
+
+
+
+
 ## Videos
 ### Dubstar - Love Comes Late (Official Music Video)
 {{< youtube id="W3c4_v-wPw8" title="Dubstar - Love Comes Late (Official Music Video)" >}}<br>

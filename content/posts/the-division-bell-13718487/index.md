@@ -33,8 +33,14 @@ styles: ["Arena Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5F0IQXuHfTV7SBvZVnXERl" width="100%" height="500" >}}
+At the dawn of the Internet Age, personal communication became the touchstone of Pink Floyd's second post-Roger Waters album. With Rick Wright and Nick Mason fully reintegrated into the band, the songs are full of spacious, Floydian textures beneath deeply personal, introspective lyrics. David Gilmour shouts to be heard on “What Do You Want from Me”—one of Floyd’s toughest rockers. On “Keep Talking”, his pleading vocals become nearly drowned out by ominous funk beats and the synthetic voice of Stephen Hawking.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-division-bell/704316542" >}}
+
+
 
 
 

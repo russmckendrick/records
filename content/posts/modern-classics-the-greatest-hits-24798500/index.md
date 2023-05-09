@@ -52,8 +52,12 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2qgyvODrXPODZphzwuvSOR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/modern-classics-the-greatest-hits/1440925454" >}}
+
+
 
 
 

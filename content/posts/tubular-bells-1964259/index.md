@@ -24,8 +24,14 @@ styles: ["Folk Rock", "Modern Classical", "Prog Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0a3YQpBnRzJzNktOjb6Dum" width="100%" height="500" >}}
+A shifting labyrinth of complex orchestral pop beckons you on a two-part 1973 suite of mostly instrumental music that goes well beyond the familiar tinkling melody of its opening section. Oldfield—a prodigious talent who wrote his first songs at the age of nine—plays 20 instruments throughout, including the titular bells, and the scope is staggering. Spanish guitar flickers, ambient moments materialise, and it all builds to a finger-plucked, deliciously proggy finale.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tubular-bells/1440852773" >}}
+
+
 
 
 

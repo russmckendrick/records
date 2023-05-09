@@ -35,8 +35,14 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7FEBQOq6SXl4CsqR6wTTGy" width="100%" height="500" >}}
+This mid-'90s debut from Manchester duo Lamb creates a captivating kind of fusion, layering Lou Rhodes' bluesy torch songs over producer Andy Barlow's sample-heavy cut-ups. While the shuffling breaks and brooding chords of "Gorecki" and the dark strings of "God Bless" will appeal to Portishead lovers, tracks like the murky, shape-shifting "Cottonwool" and the smoky "Closer," with its plucked bass and trilling saxophone, have more in common with the era's experimental fusions of jazz and drum 'n' bass than the languid pace of trip-hop.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lamb/1442928989" >}}
+
+
 
 
 

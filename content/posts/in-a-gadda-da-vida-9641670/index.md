@@ -28,8 +28,12 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4L1Qw49gKwFuQwQovBxsKI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-a-gadda-da-vida/780234002" >}}
+
+
 
 
 

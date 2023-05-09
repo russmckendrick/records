@@ -33,8 +33,12 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5PtCXycY9LrvdDeXWioM9o" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}
+
+
 
 
 

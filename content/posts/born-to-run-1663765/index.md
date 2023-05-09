@@ -30,8 +30,14 @@ styles: ["Arena Rock", "Classic Rock", "Folk Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="43YIoHKSrEw2GJsWmhZIpu" width="100%" height="500" >}}
+Springsteen's third album was the one that broke it all open for him, planting his tales of Jersey girls, cars, and nights spent sleeping on the beach firmly in the Top Five. He shot for an unholy hybrid of Orbison, Dylan and Spector—and actually reached it. "Come take my hand", he invited in the opening lines. "We're ridin' out tonight to case the Promised Land." Soon after this album, he'd discover the limits of such dreams, but here, it's a wide-open road: Even the tales of petty crime ("Meeting Across the River") and teen-gang violence ("Jungleland") are invested with all the wit and charm you can handle. Bruce's catalogue is filled with one-of-a-kind albums from <i>The Wild, The Innocent and the E Street Shuffle</i> to <i>The Ghost of Tom Joad</i>. Forty years on, <i>Born to Run</i> still sits near the very top of that stack.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/born-to-run/310730204" >}}
+
+
 
 
 

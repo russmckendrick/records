@@ -2,4 +2,5 @@
 title: "Soundgarden"
 summary: "As one of the first bands to record for the legendary Records, Soundgarden is generally regarded as one of the founding fathers of grunge, even though most of their work was of a far more rock/metallic nature than the likes of , , or . From a metallic standpoint, their peak was 1991's Badmotorfinger, with the later albums showing a more alternative side to the band . The band parted ways amicably in April of 1997 to pursue other interests. Most notable of these was vocalist Chris Cornell joining forces with the core of in . At precisely midnight on January 1, 2010, U.S. EST, Chris Cornell posted on his Twitter and Facebook: \"The 12 year break is over & school is back in session. Knights of the Soundtable ride again!\" On May 18, 2017, around midnight, vocalist Chris Cornell was found dead in MGM Grand hotel room after a show in Detroit. Fan club & merchandise: ."
 image: "soundgarden.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/soundgarden/133036"
 ---

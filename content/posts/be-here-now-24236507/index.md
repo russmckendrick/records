@@ -34,6 +34,15 @@ styles: ["Britpop", "Classic Rock"]
 <!-- section break -->
 
 
+How do you react to becoming the UK’s biggest rock band? Just get bigger and bolder. From “D’ You Know What I Mean?”’s filmic psych and string-drenched weepy “Don’t Go Away” to “All Around the World”’s 36-piece orchestra and escalating key changes, everything on Oasis’s third album is rendered in epic scale. Sharp melodies and Liam’s serrated vocal penetrate the rich production to stop it becoming cloying and, for all the grandeur, “My Big Mouth” and “It’s Gettin’ Better (Man!!)” crackle with the feral energy that made Oasis so thrilling in the first place.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/be-here-now-deluxe-remastered-edition/1523139329" >}}
+
+
+
 
 
 ## Videos

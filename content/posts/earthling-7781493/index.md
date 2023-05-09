@@ -31,8 +31,12 @@ styles: ["Drum n Bass", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4yRoLvuzNxFDdodNNrZAEM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/earthling-expanded-edition/1061943538" >}}
+
+
 
 
 

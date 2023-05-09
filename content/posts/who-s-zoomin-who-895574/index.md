@@ -31,8 +31,12 @@ styles: ["Disco", "Synth-pop", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7x58T4Q8rIR7rY9mPen1li" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Trip Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Td5bSMxDrTIDAvxJQIo5t" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/roseland-nyc-live/1440913466" >}}
+
+
 
 
 

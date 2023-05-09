@@ -34,8 +34,12 @@ styles: ["Folk", "Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3WK3HkX9lTZIhnHdehjEGB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-machine-still-kills-fascists-expanded-edition/1663331530" >}}
+
+
 
 
 

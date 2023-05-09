@@ -29,8 +29,12 @@ styles: ["Electro", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2UmOMd1STQEn8wtMGAyA6f" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}
+
+
 
 
 

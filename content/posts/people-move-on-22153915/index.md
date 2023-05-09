@@ -34,8 +34,12 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2ek8848KJ7XKzeICUDvdQ7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/people-move-on/1587703233" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Techno", "Acid House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6wEV0CthYpgNVKowNEtNuj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1554839307" >}}
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1zcm3UvHNHpseYOUfd0pna" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/breakfast-in-america-remastered/1440512054" >}}
+
+
 
 
 

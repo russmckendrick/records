@@ -52,8 +52,12 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3FVsJiQMI7dp0RfTBdWtMW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/skylarking-remastered/1440889477" >}}
+
+
 
 
 

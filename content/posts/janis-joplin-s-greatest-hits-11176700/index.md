@@ -32,8 +32,14 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4qHWXbp5TbUWqH35c6m8kN" width="100%" height="500" >}}
+Few white women knew the blues as well as Joplin, and this collection showcases her most iconic moments. Her soul shines through the rib-rattling wail of “Piece of My Heart,” while “Me and Bobby McGee” marries her aching voice to classic country storytelling. A live take of “Down On Me” illustrates her command of the stage while fronting the blues rock powerhouse Big Brother & The Holding Company.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/janis-joplins-greatest-hits/1475500000" >}}
+
+
 
 
 

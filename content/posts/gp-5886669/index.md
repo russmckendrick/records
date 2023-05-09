@@ -33,8 +33,14 @@ styles: ["Country", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1PtpuplCBaViRQsJFAdWRf" width="100%" height="500" >}}
+After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gram Parsons kept pushing the envelope with his solo debut. On the one hand, he continued making old-school country contemporary, whether covering the George Jones weeper "That's All It Took" or blending honky-tonk and soul on his own "Big Mouth Blues." On the other, he took the singer/songwriter path in new directions, coupling complex imagery with country arrangements on tunes like "The New Soft Shoe." The rest of the world is still playing catch-up.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gp/305092396" >}}
+
+
 
 
 

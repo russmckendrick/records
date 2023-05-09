@@ -40,8 +40,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4dA5KrLw6NHYJJus1tJVwa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/how-to-solve-our-human-problems-pt-1-3/1586487006" >}}
+
+
 
 
 

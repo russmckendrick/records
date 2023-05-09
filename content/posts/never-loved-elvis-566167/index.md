@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0sc97tRZV9gOJPacbs7ArY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-remastered/1443938336" >}}
+
+
 
 
 

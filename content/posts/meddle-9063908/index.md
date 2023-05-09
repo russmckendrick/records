@@ -28,8 +28,14 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="468ZwCchVtzEbt9BHmXopb" width="100%" height="500" >}}
+<i>Meddle</i> represents Pink Floyd’s first actualization of the sounds inside their collective heads. Recording studio technology and their own instrumental prowess finally evolved to the point where the band’s lush dreamscapes could now be reliably replicated. Considered a “transitional” album between the band’s beginnings and the conceptually ambitious <i>The Dark Side of the Moon</i>, <i>Meddle</i> stands as one of the era’s strongest post-psychedelia statements. The lead track, “One of These Days,” pulses with an extraterrestrial step alongside the swirling keyboard washes. “A Pillow of Winds” is a perfect staring-at-the-sun acoustic daydream ballad. In the middle of the first half of album rests “Fearless,” one of the group’s finest, most mellow performances and a mixture of cosmic groove and acoustic folk. Meanwhile, the 23-1/2 minutes of “Echoes,” from its initial beeps through its multi-part instrumental drive, exemplifies the band’s love for grandeur. Most importantly, <i>Meddle</i> shows the band operating as a collective, writing together and adding unexpected flourishes throughout.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/meddle/699632611" >}}
+
+
 
 
 

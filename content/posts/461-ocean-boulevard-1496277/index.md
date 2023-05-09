@@ -32,8 +32,12 @@ styles: ["Blues Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="73cxqemPE6sVoCkwRuPU6E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/461-ocean-boulevard/1440851328" >}}
+
+
 
 
 

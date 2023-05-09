@@ -35,6 +35,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pop-up-jim-bob/1511931898" >}}
+
+
+
+
+
 ## Videos
 ### Jim Bob - Jo's Got Papercuts [Official Video]
 {{< youtube id="OqRWb9JQW_0" title="Jim Bob - Jo's Got Papercuts [Official Video]" >}}<br>

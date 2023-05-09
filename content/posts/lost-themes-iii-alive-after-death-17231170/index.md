@@ -32,8 +32,12 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2GYD5j8wa4kEhlmN5GGiUT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lost-themes-iii-alive-after-death/1534812089" >}}
+
+
 
 
 

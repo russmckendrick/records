@@ -40,8 +40,12 @@ styles: ["Experimental", "Synthwave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5wziifmaJa8t0DDipB9o9Z" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hannetts-electronic-recordings-homage-to-delia-derbyshire/1286330954" >}}
+
+
 
 
 

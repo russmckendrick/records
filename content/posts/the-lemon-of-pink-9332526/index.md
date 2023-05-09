@@ -35,8 +35,12 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6zwjQ6buUEcF3E9IGTJXtP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-lemon-of-pink-remastered/410702942" >}}
+
+
 
 
 

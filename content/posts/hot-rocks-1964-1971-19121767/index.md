@@ -43,8 +43,12 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0aqZJlugIkTUWW1sa4BANp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786" >}}
+
+
 
 
 

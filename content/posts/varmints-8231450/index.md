@@ -33,8 +33,14 @@ styles: ["Modern Classical"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1qVKTHX3HLFIi9PkTldCus" width="100%" height="500" >}}
+Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she’s also written a piece for an MRI scanner. Echoing that breadth of approaches, her debut album blends classical leanings (clarinet, tuba, cello) with bubbling electronics and Dirty Projectors-esque avant-pop. The Scottish-born, London-based composer stokes pinging, bass-buffeted melodies on opener “Nautilus”, while “Taken” moves to distorted guitar and a quasi-rock chorus. Whether turning to epic synth odysseys (“The Vapours”) or sugary electro-pop (“Something Helpful”), <i>Varmints</i> accumulates more giddy ideas with every passing minute.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/varmints/1053717277" >}}
+
+
 
 
 

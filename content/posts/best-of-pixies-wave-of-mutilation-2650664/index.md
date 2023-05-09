@@ -45,8 +45,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Liso0laYSkoJM9DfN37UV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-best-of-pixies/1025318588" >}}
+
+
 
 
 

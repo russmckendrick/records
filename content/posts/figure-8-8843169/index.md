@@ -40,8 +40,12 @@ styles: ["Acoustic", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7DC0pE943VR5tAKIvQXHts" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/figure-8/1440745328" >}}
+
+
 
 
 

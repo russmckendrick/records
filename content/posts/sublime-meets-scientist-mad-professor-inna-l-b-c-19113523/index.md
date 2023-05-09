@@ -32,6 +32,13 @@ styles: ["Dub"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sublime-meets-scientist-mad-professor-inna-l-b-c/1585841109" >}}
+
+
+
+
+
 ## Videos
 ### MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub
 {{< youtube id="EsHLjK2cQws" title="MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub" >}}<br>

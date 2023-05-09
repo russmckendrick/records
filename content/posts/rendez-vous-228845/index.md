@@ -28,8 +28,14 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3YrKqMhEdhdvS3BrmKurFr" width="100%" height="500" >}}
+Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <i>Rendez-Vous</i> goes clear into the cosmos. Designed for play onboard space shuttle missions, the six-part suite has a weightless, soaring quality appropriate for that otherworldly setting. The final section is dedicated to Jarre's friend Ron McNair, an astronaut who died in the 1986 Challenger explosion. With a haunting saxophone solo atop a synthesised heartbeat, the piece becomes an emotional memorial and a somber conclusion to the interplanetary trip.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rendez-vous/1027735025" >}}
+
+
 
 
 

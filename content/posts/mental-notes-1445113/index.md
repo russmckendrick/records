@@ -32,8 +32,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="40kD3JoZgiQL0ZwH9OZ2Bg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mental-notes/1629181127" >}}
+
+
 
 
 

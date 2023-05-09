@@ -34,8 +34,12 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="66mnkzELAR3AK13W7Elv4l" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fear-of-the-dark/979946632" >}}
+
+
 
 
 

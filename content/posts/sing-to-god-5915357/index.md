@@ -47,6 +47,13 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sing-to-god-part-1/336692748" >}}
+
+
+
+
+
 ## Videos
 ### Cardiacs - Eat It Up Worms Hero
 {{< youtube id="hFHAwU2cXDw" title="Cardiacs - Eat It Up Worms Hero" >}}<br>

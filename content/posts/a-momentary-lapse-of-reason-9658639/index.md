@@ -33,8 +33,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4xODvcpjOOgu4oKWL0sCte" width="100%" height="500" >}}
+David Gilmour took some criticism for carrying on Pink Floyd without Roger Waters—not least from Waters himself. Begun as a solo album, this became the relaunch of Pink Floyd when cofounders Rick Wright and Nick Mason joined in. Gilmour's less-acidic worldview means <i>A Momentary Lapse of Reason</i> lacks the pointed lyrical edge of the last handful of Floyd albums. But the lush, richly detailed arrangements of tracks like the dreamy "Learning to Fly" give Gilmour's liquid guitar solos room to evolve.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-momentary-lapse-of-reason/699606729" >}}
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6bBWWTnN4B4wwGJpWlZFkW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-ass-pocket-of-whiskey/1093176251" >}}
+
+
 
 
 

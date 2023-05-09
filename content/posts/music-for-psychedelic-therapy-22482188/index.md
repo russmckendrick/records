@@ -30,8 +30,12 @@ styles: ["Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2zY5p176SfmupXceLKT6bH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/music-for-psychedelic-therapy/1581582605" >}}
+
+
 
 
 

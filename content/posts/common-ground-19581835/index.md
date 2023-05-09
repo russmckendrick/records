@@ -31,8 +31,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7hoFLrTBtEyDQq19jwA8iq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/common-ground/1564398164" >}}
+
+
 
 
 

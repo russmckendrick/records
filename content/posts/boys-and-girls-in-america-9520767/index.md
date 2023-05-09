@@ -43,8 +43,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1lLya6vgwjJahE3TMq7IfR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/boys-and-girls-in-america/208395734" >}}
+
+
 
 
 

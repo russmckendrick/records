@@ -37,8 +37,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5MscroQK1QhbVhUJs1gNXf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/straight-songs-of-sorrow/1498128011" >}}
+
+
 
 
 

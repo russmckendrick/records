@@ -32,8 +32,12 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1zkXIfTbqbhK0TYxhVl60V" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/waking-hours/1443380763" >}}
+
+
 
 
 

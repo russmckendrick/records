@@ -29,8 +29,12 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="64TDaAbxgO0TmKZrIavdLg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/person-pitch/1484070816" >}}
+
+
 
 
 

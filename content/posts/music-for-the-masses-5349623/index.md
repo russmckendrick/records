@@ -32,8 +32,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4tPRXghD4ago6NYyyfrtES" width="100%" height="500" >}}
+<i>Music for the Masses</i> was meant to be an ironic title, but there’s a tangible increase in grandeur in these songs. Opener “Never Let Me Down Again” anticipates the stadiums they’d soon be playing by welcoming in guitars and Led Zeppelin-sampling beats. “Nothing” and “Behind the Wheel” offer similarly widescreen synth-pop, but it’s not all swinging for the arena rafters: “Little 15” almost tips into chamber music and “The Things You Said” is one of Martin Gore’s most graceful and haunted ballads.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses-deluxe/1174246735" >}}
+
+
 
 
 

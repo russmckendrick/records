@@ -43,8 +43,12 @@ styles: ["Soundtrack"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="391z2l9eAfCttmdvE4O5LP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/zappa-original-motion-picture-soundtrack/1540380239" >}}
+
+
 
 
 

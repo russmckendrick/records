@@ -35,6 +35,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/boing/570560067" >}}
+
+
+
+
+
 ## Videos
 ### Airhead - Funny How (Official Music Video)
 {{< youtube id="17Zfcq6cq2g" title="Airhead - Funny How (Official Music Video)" >}}<br>

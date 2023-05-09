@@ -32,8 +32,14 @@ styles: ["Folk Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4qvFBtRrwbSgoH3nyVlTCp" width="100%" height="500" >}}
+Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers and pirates, Colin Meloy and company posses the most unlikely aesthetic in indie pop. But on <i>The Crane Wife</i>, the band toys with a different sort of nostalgia. A series of arena-style power chords ring out at the end of the sublime opener, "The Crane Wife 3", an oddly sequenced finale to a three-part song cycle for a Japanese folktale. Those chords presage the head-scratcher to come:  yet another themed song cycle,"The Island," nearly thirteen minutes long and enthusiastically channeling the ghosts of early Yes, Pink Floyd, even (seriously) Jethro Tull. Studded with swirling organ fills and Meloy's impassioned yips, this is prog rock at its most earnest and grandiose, and the song grows on you - as does the album's other curiosity, the Steely Dan-style white-boy funk of "The Perfect Crime". Not every song is such a departure: witness the bubbly "O Valencia", or "Yankee Bayonet", a lovely, lovelorn duet with Laura Veirs. .  <i>The Crane Wife</i> shows a band in transition: dark, brooding, and ambitious.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-crane-wife/259967897" >}}
+
+
 
 
 

@@ -68,9 +68,18 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0Unhg884FzoZhVWyrMvtAG" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/animals-2018-remix/1632196339" >}}
+
+
+
+
+
+## Videos
+### Pink Floyd - Animals (Full Album) HD
+{{< youtube id="yFHYCiIYXOA" title="Pink Floyd - Animals (Full Album) HD" >}}<br>
 
 
 

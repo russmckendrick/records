@@ -44,8 +44,12 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6R0ynY7RF20ofs9GJR5TXR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hurry-up-were-dreaming/1674216738" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1I1mX0fymdB9SWCGAhLETr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/0898-beautiful-south/1442244263" >}}
+
+
 
 
 

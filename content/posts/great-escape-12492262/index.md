@@ -33,8 +33,12 @@ styles: ["Prog Rock", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6F2EJ4TAUAyPShRxIa8EOj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/great-escape/1407034902" >}}
+
+
 
 
 

@@ -36,8 +36,14 @@ styles: ["Neo Soul", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5rISZufkzaN126NIxgvn1T" width="100%" height="500" >}}
+A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”), or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/building-a-beginning/1133940590" >}}
+
+
 
 
 

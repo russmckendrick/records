@@ -38,6 +38,13 @@ styles: ["Breakbeat", "Industrial"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-the-day-this-is-the-hour-this-is-this/478281843" >}}
+
+
+
+
+
 ## Videos
 ### Poison to the Mind
 {{< youtube id="ffPjII-GJ7Y" title="Poison to the Mind" >}}<br>

@@ -45,8 +45,14 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3i67sGIVw8EBlgfSRv3Lj2" width="100%" height="500" >}}
+The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects not only the most beloved tracks from Frank Sinatra's Reprise years, but also some of the best tunes in the entire American Songbook. Here, the singer's strutting enunciation injects extra pep into "The Way You Look Tonight," his inimitably cool voice expressing every ounce of the lyrics' joy. "The Girl from Ipanema," meanwhile, leaves the U.S. entirely, with the Chairman sliding gracefully down the bossa nova classic.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-best-remastered/1440858119" >}}
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7KOmuu3cbJQEQYGt3XmLmY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kimono-my-house-21st-century-edition/1443750483" >}}
+
+
 
 
 

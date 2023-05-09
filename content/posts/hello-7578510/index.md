@@ -30,8 +30,12 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0LDQzaZoYOLpeMpsSa4m9t" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hello/1443266438" >}}
+
+
 
 
 

@@ -28,8 +28,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5g5aKkI0ExfU4kDvADP6JK" width="100%" height="500" >}}
+The 1970s proved to be an era for hard rock bands to explore the further reaches of their ambitions. Canada’s Rush were among the groups who locked into a successful new formula that eschewed the conventions of the hit single for instrumental diversions and lyrical adventures that helped them stand out within the burgeoning scene. <i>2112</i> is Rush’s fourth album and the first to consistently capture their emerging vision. All accomplished musicians, the trio emphasized dynamics and thrilling trills to accentuate their epic musical vision. Arena rock was only beginning to find its place and Rush’s blend of progressive rock’s slow-building moods and their own anthemic powerchords proved to be an enlightening mixture. The title track is a seven-part, 20 minute epic where drummer Neil Peart’s Ayn Rand inspired lyrics are passionately expressed by bassist Geddy Lee’s shrieking delivery. The shorter selections that made up side two of the original album – “A Passage to Bangkok,” in particular – pointed up the band’s strengths as succinct writers as well. Rush became the exemplary power trio, every member finding their distinctive niche without sacrificing the collective power of the group sound.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/2112-2012-remaster/1445876680" >}}
+
+
 
 
 

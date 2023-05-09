@@ -31,8 +31,12 @@ styles: ["Art Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4jd6oC0It60c1J3GpXCv6M" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}
+
+
 
 
 

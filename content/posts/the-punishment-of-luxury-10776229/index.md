@@ -34,8 +34,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5PwufXJGsllH7Px8eCY03m" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-punishment-of-luxury/1235723435" >}}
+
+
 
 
 

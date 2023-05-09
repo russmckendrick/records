@@ -32,6 +32,13 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/piledriver-deluxe-version/1442895761" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

@@ -35,8 +35,15 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6BhqPpIgY83rqoZ2L78Lte" width="100%" height="500" >}}
+It's hard to imagine Bruce Springsteen describing a project of his as a concept album—too much prog baggage, too much expectation of some big, grand, overarching <i>story</i>. But nothing he's done across five decades as one of rock's most accomplished storytellers has had the singular, specific focus and locus, lyrically and musically, as this long-gestating solo effort—a lush meditation on the landscape of the western United States and the people who are drawn there, or got stuck there.<br />
+Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-out E Street Band affair, this set of 13 largely subdued character-driven songs (his first new ones since 2014's <i>High Hopes</i>, following five years immersed in memoir) is ornamented with strings and horns and slide guitar and banjo that sound both dusty and Dusty. They trade in the most familiar of American iconography—trains, hitchhikers, motels, sunsets, diners, Hollywood, and, of course, wild horses—but aren't necessarily antiquated; the clichés are jumping-off points, aiming for timelessness as much as nostalgia. The battered stuntman of “Drive Fast” could be licking, and cataloging, his wounds in 1959 or 2019. As convulsive and pivotal as the current moment may feel, restlessness and aimlessness and disenfranchisement are evergreen, and the songs are built to feel that way. In true Springsteen fashion, the personal is elevated to the mythical.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/western-stars/1459884961" >}}
+
+
 
 
 

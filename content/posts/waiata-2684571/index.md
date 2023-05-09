@@ -33,8 +33,11 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}
+
 
 
 

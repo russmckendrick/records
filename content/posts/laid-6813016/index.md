@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5pALyxshOPc8LLKggzNvQe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/laid-deluxe-edition/1445872484" >}}
+
+
 
 
 

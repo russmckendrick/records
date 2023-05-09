@@ -26,6 +26,13 @@ styles: ["Post-Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ceremony-version-2-2019-remaster-single/1457720890" >}}
+
+
+
+
+
 ## Videos
 ### New Order (Substance; 1987) - Ceremony
 {{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}<br>

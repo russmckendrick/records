@@ -30,8 +30,12 @@ styles: ["Post Rock", "Post-Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1l0vdH5YXjjQQOnMoKlErl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/loss/1538573096" >}}
+
+
 
 
 

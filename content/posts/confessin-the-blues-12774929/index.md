@@ -64,8 +64,11 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="4BlStEiUW9o9mv8OHOdEsI" width="100%" height="500" >}}
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0GeWd0yUKXHbCXVag1mJvO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mer-de-noms/723435992" >}}
+
+
 
 
 

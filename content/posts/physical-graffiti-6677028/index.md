@@ -37,8 +37,15 @@ styles: ["Hard Rock", "Blues Rock", "Folk Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="26tH0kjUhkxBEd3ipGkx3Y" width="100%" height="500" >}}
+Led Zeppelin were on a tear in the early part of their career, releasing a streak of riff-driven albums between 1969 and 1973 that set a new standard in hard rock. While each of those first five records was created during a concentrated period of recording, much of the sixth, the double LP <i>Physical Graffiti</i>, drew from material developed at earlier sessions. Tracks like the crunching “Houses of the Holy” (intended as the title track for their 1973 album) and the loose and lyrical “Down By the Seaside” (written in 1970 and reworked for the group’s fourth record, but ultimately not included) may have been meant for other projects, but they easily meet the band's exacting standards. And the odds-and-ends feel of <i>Physical Graffiti</i> is one of its strengths, showing every side of Led Zeppelin in a single sprawling package. <br />
+The extended format means the band can indulge every whim and include experiments that might have been harder to justify on a single disc. The proggy, bluesy “In My Time of Dying,” slinking along on the back of some of Jimmy Page’s greasiest slide-guitar work, stretches past 11 minutes, shifting from a deathly crawl to a raucous double-time romp. Meanwhile, the gorgeous acoustic instrumental “Bron-Yr-Aur” showcases the group’s interest in mystical folk, and “Boogie With Stu” is a ragged and joyous jam on an old Ritchie Valens tune. <i>Physical Graffiti</i> has its share of rock radio classics too—see the haunting “Kashmir,” which mixes a punishing groove with Middle Eastern modes and features one of Robert Plant’s most unhinged vocals, and the supremely funky “Trampled Under Foot” (John Paul Jones credits Stevie Wonder as the inspiration for its clavinet-delivered stomp). In these brilliant and widely loved songs as much as in the lesser-known gems that surround them, <i>Physical Graffiti</i> proves that as the second half of the '70s dawned, Zep were still making more killer music than they knew what to do with.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/physical-graffiti-remastered/580707980" >}}
+
+
 
 
 

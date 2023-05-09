@@ -30,8 +30,12 @@ styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6GjmCt1jb9IiOTw106Xa4W" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/quo/1442993053" >}}
+
+
 
 
 

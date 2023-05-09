@@ -35,8 +35,12 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="31qneFkDfKhjVNH0kqdhQ1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-is-wrong/1193759680" >}}
+
+
 
 
 

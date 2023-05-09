@@ -46,8 +46,14 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6f3h8jHeXY6I6qduBrK3eK" width="100%" height="500" >}}
+Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the L.A.-based tenor saxophonist and his West Coast Get Down crew as bold new voices in jazz—the type who could headline classic concert halls or indie rock festivals interchangeably. On this double-length, the Kendrick Lamar collaborator stays true to the big, sweeping sound that first garnered him such wide-ranging acclaim. With broad melodic gestures, lengthy vamps and expansive sonics, including a double rhythm section and frequent use of choir and orchestra, <i>Heaven and Earth</i> documents the maturing of Washington’s resolutely Afrocentric aesthetic. “Fists of Fury”, a reimagined Bruce Lee theme, leads off the first half (<i>Earth</i>) with a pronounced activist message (“our time as victims is over… ”). The second half (<i>Heaven</i>) opens with “The Space Traveler’s Lullaby”, signalling a decisive turn toward spirituality and the cosmos.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/heaven-and-earth/1363033047" >}}
+
+
 
 
 

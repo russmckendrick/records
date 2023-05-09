@@ -38,8 +38,12 @@ styles: ["Indie Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0YyehrYQpXofc6dBAzxYPh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/confessions-of-a-romance-novelist/1048632716" >}}
+
+
 
 
 

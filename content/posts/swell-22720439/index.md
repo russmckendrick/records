@@ -25,8 +25,12 @@ styles: ["Prog Rock", "Space Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3dELdGiOlU9Tv3MYYuayEx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/swell-digital/1571562583" >}}
+
+
 
 
 

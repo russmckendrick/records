@@ -34,8 +34,12 @@ styles: ["Classic Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4UyEneWCIKATQf3keQnG7O" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rockin-all-over-the-world-the-collection/1442672981" >}}
+
+
 
 
 

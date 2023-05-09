@@ -52,8 +52,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2b5r3YRZYwSAeXd7aWZjWp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/star/1450116246" >}}
+
+
 
 
 

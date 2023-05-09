@@ -32,8 +32,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6zhu5JppyczTRXGzHA2qr8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/aurora-gory-alice/298888785" >}}
+
+
 
 
 

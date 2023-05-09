@@ -32,8 +32,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4fs94SISHR2Ycv5dvzMqYy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/distant-satellites-tour-edition/1030782699" >}}
+
+
 
 
 

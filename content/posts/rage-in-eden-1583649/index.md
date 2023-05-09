@@ -31,8 +31,12 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5ueP8JeD2SeNSYzX7ybnPc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-definitive-edition/1633071500" >}}
+
+
 
 
 

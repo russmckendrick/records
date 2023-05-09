@@ -27,8 +27,12 @@ styles: ["Space Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="12XSaLVFFKy9bZwS4hzOKA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/shimmer-into-nature/1423203880" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5J1t0MUxKrixwW0RuyaBJb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/clouds-in-the-mirror-this-is-not-a-safe/1500022098" >}}
+
+
 
 
 

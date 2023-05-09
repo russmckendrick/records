@@ -44,8 +44,12 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1GYvmeraQXDxxSC9T3RDvM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159" >}}
+
+
 
 
 

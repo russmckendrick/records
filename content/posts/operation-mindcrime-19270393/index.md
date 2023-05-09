@@ -37,8 +37,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4eEQ3aNA8mptFIfbFdX79p" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/operation-mindcrime-bonus-track-version/1440839313" >}}
+
+
 
 
 

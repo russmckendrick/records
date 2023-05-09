@@ -36,8 +36,12 @@ styles: ["Noise"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0PnzJO3D4i85ALVJPaDpru" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/darklands/164392139" >}}
+
+
 
 
 

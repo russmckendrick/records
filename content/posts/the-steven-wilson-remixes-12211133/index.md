@@ -53,8 +53,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="093JGCJ5YMNGFnmsvR9WHt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-steven-wilson-remixes/1404263939" >}}
+
+
 
 
 

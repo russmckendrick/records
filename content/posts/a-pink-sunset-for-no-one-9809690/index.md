@@ -31,8 +31,12 @@ styles: ["Ambient", "Drone"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2x1qstmdJlt3YRPlSfY2Z1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-pink-sunset-for-no-one/1668273418" >}}
+
+
 
 
 

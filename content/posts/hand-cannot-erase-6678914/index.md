@@ -33,8 +33,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6P7vL4vGgyrD7q9VR9BcnV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hand-cannot-erase-deluxe-edition/947842870" >}}
+
+
 
 
 

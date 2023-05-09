@@ -34,9 +34,20 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4WkYJeMlLaNN1x5klAgeJu" width="100%" height="500" >}}
+Depeche Mode’s lyrics have been so consumed by personal anxieties during the latter half of their career that it’s startling to hear some explicitly political songs here. Stripping back their blues influences in favor of muscular electronics, they rage against apathy and the ruling classes on “Going Backwards”, “Where’s the Revolution,” and “Scum”. However, it’s in the more optimistic and confessional moments—Krautrock peace anthem “So Much Love” and distorted Motown ballad “Poison Heart”—that <i>Spirit</i> truly excels.
 
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/spirit-deluxe/1199983730" >}}
+
+
+
+
+
+## Videos
+### Depeche Mode - Where's the Revolution (Official Video)
+{{< youtube id="jsCR05oKROA" title="Depeche Mode - Where's the Revolution (Official Video)" >}}<br>
 
 
 

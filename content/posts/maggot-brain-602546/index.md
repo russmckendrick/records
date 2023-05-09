@@ -29,8 +29,12 @@ styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3ywVzrwMQ3Kq43N9zBdBQm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/maggot-brain/1595227414" >}}
+
+
 
 
 

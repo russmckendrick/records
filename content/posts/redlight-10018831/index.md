@@ -34,8 +34,12 @@ styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7DEKBwENqn6p0SmmupGe5T" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/redlight/1485047063" >}}
+
+
 
 
 

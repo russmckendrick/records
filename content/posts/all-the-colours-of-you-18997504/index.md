@@ -33,8 +33,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5ygHCOppc7ipeiWCB8cj9M" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-the-colours-of-you/1553115786" >}}
+
+
 
 
 

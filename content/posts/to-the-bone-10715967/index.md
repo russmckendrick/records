@@ -33,8 +33,14 @@ styles: ["Prog Rock", "Pop Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1ahl6UmqCDuNy6rJVfRKeC" width="100%" height="500" >}}
+On his fifth solo record, the prolific Steven Wilson builds a monumentally lush collection inspired by his ‘70s and ‘80s art-pop heroes, like Kate Bush and Peter Gabriel. Wilson’s cinematic ambition pays off in spades: The title track’s mystical grooves ease you into the album’s layered sound, and Israeli singer Ninet Tayeb provides a showstopping performance amid cosmic pop atmospheres on “Pariah.” Steady yourself for the guitar solo of “Refuge”—it’s an epic shred over the song’s spacey crescendo.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/to-the-bone/1440885200" >}}
+
+
 
 
 

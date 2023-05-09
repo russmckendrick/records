@@ -38,6 +38,13 @@ styles: ["Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/virus-deluxe-edition/1503491133" >}}
+
+
+
+
+
 ## Videos
 ### HAKEN - Prosthetic (OFFICIAL VIDEO)
 {{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic (OFFICIAL VIDEO)" >}}<br>

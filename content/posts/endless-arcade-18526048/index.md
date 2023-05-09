@@ -34,8 +34,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6BBYKRGhb3pBbxwM18B6oY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/endless-arcade/1544103316" >}}
+
+
 
 
 

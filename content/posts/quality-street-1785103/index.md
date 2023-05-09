@@ -34,6 +34,13 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/quality-street/714633804" >}}
+
+
+
+
+
 ## Videos
 ### World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990
 {{< youtube id="itseYKke4bw" title="World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990" >}}<br>

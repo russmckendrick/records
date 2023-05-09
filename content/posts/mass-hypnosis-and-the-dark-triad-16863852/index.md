@@ -30,8 +30,12 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6f6lWss0TZzzs16MTo5vHG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mass-hypnosis-and-the-dark-triad/1523722475" >}}
+
+
 
 
 

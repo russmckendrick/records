@@ -32,8 +32,12 @@ styles: ["Industrial", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3umFHeEpc4yLXtrRcv9gLN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vsq-performs-nine-inch-nails-pretty-hate-machine/990375204" >}}
+
+
 
 
 

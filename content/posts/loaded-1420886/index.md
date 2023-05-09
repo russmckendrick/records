@@ -40,8 +40,11 @@ styles: ["Britpop", "Hard Rock", "Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6zT1CYxdMjosZQwBGGpEoD" width="100%" height="500" >}}
+
 
 
 

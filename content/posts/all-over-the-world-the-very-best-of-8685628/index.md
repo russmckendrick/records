@@ -44,6 +44,13 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549" >}}
+
+
+
+
+
 ## Videos
 ### Electric Light Orchestra - Showdown (Official Audio)
 {{< youtube id="JHsUGJ4jDsw" title="Electric Light Orchestra - Showdown (Official Audio)" >}}<br>

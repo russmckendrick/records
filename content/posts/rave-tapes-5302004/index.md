@@ -55,8 +55,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="27SFWD5ME13mJJWjgP71e4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rave-tapes/761276074" >}}
+
+
 
 
 

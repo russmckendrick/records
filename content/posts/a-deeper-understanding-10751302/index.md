@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4TkmrrpjlPoCPpGyDN3rkF" width="100%" height="500" >}}
+After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a step further. Marrying the weathered hope of Dylan, Springsteen, and Petty with a studio rat’s sense of detail, <i>A Deeper Understanding</i> feels like an album designed to get lost in, where lush textures meet plainspoken questions about life, loss, and hope, and where songs stretch out as though they're chasing answers. For as much as Granduciel says in words, it’s his music that speaks loudest, from the synth-strobing heartland rock of “Holding On” and “Nothing to Find” to ballads like “Clean Living” and “Knocked Down,” whose spaces are as expansive as any sound.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-deeper-understanding/1242366660" >}}
+
+
 
 
 

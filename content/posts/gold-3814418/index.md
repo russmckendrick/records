@@ -43,8 +43,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1tYlx93ShW1M8TiAVDJSKc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gold/1452859795" >}}
+
+
 
 
 

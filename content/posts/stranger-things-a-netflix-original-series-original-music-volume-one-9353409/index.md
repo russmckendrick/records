@@ -58,6 +58,15 @@ styles: ["Soundtrack", "Score"]
 <!-- section break -->
 
 
+No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped set the tone for one of TV’s buzziest ever first seasons. Obviously, Dixon and Stein—who moonlight as Austin Korg-maestros S U R V I V E and supplied music for the soundtrack to revivalist splatterfest <i>The Guest</i>—lovingly ransack ‘80s ambience. But there are thrilling changes in pace, as evidenced by the drum stabs on the fittingly haunting “Lights Out”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-1-a-netflix-original-series-soundtrack/1142771412" >}}
+
+
+
 
 
 ## Videos

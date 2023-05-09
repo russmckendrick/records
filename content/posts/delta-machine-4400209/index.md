@@ -39,8 +39,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1kpZUS7tLWK0hMWNCKP9La" width="100%" height="500" >}}
+Depeche Mode often sound like they’re thumbing through their own glorious past on their 13th album. “Heaven”, “Goodbye,” and “Slow” all simmer with the union of blues and electronica that served them so well on 1990’s <i>Violator</i> and 1993’s <i>Songs of Faith and Devotion</i>, while “Soothe My Soul”’s terrific electro-glam thump recalls the hooks and angst of ’80s Mode. It’s not just about echoing former glories though: minimalist-techno ballad “My Little Universe” is thrillingly forward-looking. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/delta-machine-deluxe/600433961" >}}
+
+
 
 
 

@@ -43,8 +43,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3jYtS7SxY6Ams2qFinZx1Z" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/on-earth-as-it-is-the-complete-works/1440887833" >}}
+
+
 
 
 

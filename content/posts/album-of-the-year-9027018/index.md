@@ -44,8 +44,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="42uSfP4HXXGZn6kE3dZadO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/album-of-the-year/365629446" >}}
+
+
 
 
 

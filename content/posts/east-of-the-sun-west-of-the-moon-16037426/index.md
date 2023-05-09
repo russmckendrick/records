@@ -33,8 +33,12 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="21F9tlwzdMLinAy1DIrtqw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/east-of-the-sun-west-of-the-moon/378016648" >}}
+
+
 
 
 

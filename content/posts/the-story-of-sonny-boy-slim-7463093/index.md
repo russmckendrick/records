@@ -35,8 +35,14 @@ styles: ["Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5gRwx5vpeXUA75GmuqwByn" width="100%" height="500" >}}
+There's no question that Texas-based singer/guitarist Gary Clark Jr. can shred with the best of them. But on his second major-label full-length, it's his restraint that's his trump card. He gently dabs the minimalist blues-rocker "The Healing" with little more than a B.B. King-style riff and a poker-hot vocal, keeping the song gorgeously unfussy. Just as expressive is the stomping "Grinder", which features a literally screaming guitar lick that mimics the line it follows: "My baby's crying/So now my baby's crying”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426" >}}
+
+
 
 
 

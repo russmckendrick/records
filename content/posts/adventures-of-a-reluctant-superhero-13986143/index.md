@@ -36,8 +36,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6arS2YInQ8Rd0hrH6tJGpO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/adventures-of-a-reluctant-superhero/1470643068" >}}
+
+
 
 
 

@@ -33,8 +33,14 @@ styles: ["Alternative Rock", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1wTJNgMbDEkPRYCcTcDsTr" width="100%" height="500" >}}
+Four years after <i>Some Cities</i>, Doves return triumphant with the heavy, epic rumbling sound of <i>Kingdom of Rust</i>. The trio's penchant for minor chords and reverb-heavy production drapes the new album in overcast, moderately melancholy tones, and an underlining theme of movement and travel affords their fourth album a kinetic aesthetic. On opening track, “Jetstream”, frontman Jimi Goodwin sings about catching a drift on a troubled dream as the instrumentation gradually creates the feeling of dislocated movement — with the eventual appearance of stomping drums, cascading electronic.s and an effective, minimal guitar riff. Hints of woozy psychedelia color “10:03”, which starts like Coldplay-meets-Glasvegas and ends with a thundering U2-inspired groove, and the trio is occasionally accompanied by violin and cello (“Kingdom of Rust”, “Birds Flew Backwards”) for swirling, orchestral atmospherics.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kingdom-of-rust/721269518" >}}
+
+
 
 
 

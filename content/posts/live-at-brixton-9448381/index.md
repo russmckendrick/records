@@ -56,8 +56,12 @@ styles: ["Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4vwN2hlVoC5mF1NmL09reL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-brixton-deluxe/1181005050" >}}
+
+
 
 
 

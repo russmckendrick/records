@@ -30,8 +30,12 @@ styles: ["Alternative Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7ID0EuIjKxSNFw6dqOWDmo" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/radio-k-a-o-s/180102794" >}}
+
+
 
 
 

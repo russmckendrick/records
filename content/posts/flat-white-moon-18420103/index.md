@@ -34,8 +34,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="27svLi0FC84qXDbT6DfFUY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/flat-white-moon/1551209901" >}}
+
+
 
 
 

@@ -52,8 +52,14 @@ styles: ["Minneapolis Sound", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1X1So5oX4TCFGdK6BN9UXs" width="100%" height="500" >}}
+When Prince died in 2016, he left behind a huge amount of unreleased music—a literal steel vault so private and tightly guarded it had to be drilled open. Following on the heels of 2018’s unprecedentedly intimate <i>Piano & a Microphone 1983</i>, <i>Originals</i> is a collection of highly polished demos for songs ultimately gifted to other artists. As exciting as it is to hear Prince's initial vision for now-ubiquitous hits like “Manic Monday” and “Nothing Compares 2 U,” the most revelatory tracks here tend to be the raunchy ones: “Sex Shooter,” originally for Apollonia 6 (“Come on, kiss the gun”); “Jungle Love,” originally for The Time (and complete with monkey-howl backing vocals); the sex-doll synth-pop of “Make-Up,” for Vanity 6. Not that it <i>isn’t</i> exciting to hear him sing “Manic Monday” (adopted by The Bangles) and “Nothing Compares 2 U” (reportedly inspired by a departed housekeeper before being rendered immortal by Sinéad O’Connor)—it is. But what better testament to Prince’s genius than his ability to lay our nastiest, basest impulses over a funk beat and elevate them to high art?
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/originals/1460319631" >}}
+
+
 
 
 

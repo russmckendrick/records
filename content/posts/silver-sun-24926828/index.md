@@ -37,8 +37,12 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6CcsJU06RJfoaMjRcxsKOP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/silver-sun/1276092987" >}}
+
+
 
 
 

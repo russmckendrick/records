@@ -33,8 +33,12 @@ styles: ["Indie Pop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0gquqV1L3QZjZJ0ExzxtMo" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-sound-of-mcalmont-and-butler/723687997" >}}
+
+
 
 
 

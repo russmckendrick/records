@@ -82,8 +82,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0lzhEDgoe7Y6bhT42NWrp2" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots-20th-anniversary/1650861915" >}}
+
+
 
 
 

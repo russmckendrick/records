@@ -38,6 +38,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ghost-highway/988896855" >}}
+
+
+
+
+
 ## Videos
 ### Mazzy Star - Fade Into You (Official Music Video)
 {{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You (Official Music Video)" >}}<br>

@@ -31,8 +31,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7nUXtyeACKeeCcw10FIlwS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-this-will-be-yours/1474856040" >}}
+
+
 
 
 

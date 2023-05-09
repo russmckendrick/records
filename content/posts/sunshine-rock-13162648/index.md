@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3Ppeh02131RsLjih5e4Yjj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sunshine-rock/1437426052" >}}
+
+
 
 
 

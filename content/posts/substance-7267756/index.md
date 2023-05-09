@@ -41,8 +41,14 @@ styles: ["Post-Punk", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2KPhpTUihx9KRWRwBtpTeJ" width="100%" height="500" >}}
+This anthology gave listeners an unprecedented glimpse into Joy Division's catalogue when it appeared, eight years after Ian Curtis' death, and it remains an essential compendium. The smouldering "Warsaw" and the rest of the group's 1978 debut EP capture their punk intensity; "Atmosphere" offers a whiff of their ethereal beauty. An industrial-tinged version of "She's Lost Control" hints at an electronic path they never got the chance to take. And then there's the heartbreaking "Love Will Tear Us Apart". If any one song represents their legacy, it's this one.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/substance-1977-1980/996111401" >}}
+
+
 
 
 

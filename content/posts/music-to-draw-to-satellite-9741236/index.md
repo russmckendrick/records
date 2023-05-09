@@ -40,8 +40,14 @@ styles: ["Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1BqRGW49C8GQ4A6tRY4Ani" width="100%" height="500" >}}
+The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/music-to-draw-to-satellite-feat-emil%C3%ADana-torrini/1440929755" >}}
+
+
 
 
 

@@ -35,8 +35,12 @@ styles: ["Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="70exS14xxzYmM5V9QSTIaQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nick-of-time/1487734088" >}}
+
+
 
 
 

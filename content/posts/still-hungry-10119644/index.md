@@ -32,8 +32,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5iigLSGkoPUnCAlLM9Fisi" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/still-hungry/1252039374" >}}
+
+
 
 
 

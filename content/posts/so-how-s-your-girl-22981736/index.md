@@ -38,8 +38,12 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="11xrdpHkh2KUuxPGEfQZKG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/so-hows-your-girl/1607689963" >}}
+
+
 
 
 

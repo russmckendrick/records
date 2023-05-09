@@ -53,8 +53,12 @@ styles: ["Symphonic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7M6qdztBAZADkaYJ6bIEhF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/clutching-at-straws/693411248" >}}
+
+
 
 
 

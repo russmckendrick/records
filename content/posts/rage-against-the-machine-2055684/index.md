@@ -32,8 +32,17 @@ styles: ["Funk Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Io5vWtmV1rFj4yirKb4y4" width="100%" height="500" >}}
+It’d be interesting to know just how many suburban kids learned about Che Guevara, or that the FBI targeted Martin Luther King for his opposition to the Vietnam War, from <i>Rage Against the Machine</i>. It isn’t that its politics are obscure. If anything, part of the reason the album remains so powerful is the way it captures the generalized angst kids feel toward parents (“F**k you, I won’t do what you tell me!”) while also pointing at broader forms of control regarding education (“Take the Power Back”), law enforcement (“Killing in the Name”), and the carceral system (“Settle for Nothing”). Like Nirvana’s <i>Nevermind</i> or even the Red Hot Chili Peppers’ <i>Blood Sugar Sex Magik</i>, it reshaped ’90s rock and helped bring underground styles into the mainstream. It also plugs into a world beyond itself—the kind of music you can take to the gym but also build a syllabus around.<br />
+	Like the revolutionaries, MCs, and hard rock that inspired it, <i>Rage Against the Machine</i> exists in all caps. Its most lasting lyrics—“Some of those that work forces/Are the same that burn crosses” (“Killing in the Name”), “Anger is a gift” (“Freedom”)—have the instant memorability of a protest chant; its riffs democratize their anger, having been stripped of the flashy, technical stuff and restored to the Black blues they come from. The immediacy isn’t just a metaphor for their message; it’s a functional way to spread the word and put power into the hands of the people: Why bother learning “Stairway to Heaven” when you can just learn “Bombtrack”?<br />
+	It’s easy to see the ironies of a multi-platinum band advocating for radical left politics. But the music business has always found ways to monetize rebellion, from Elvis to John Lennon to the Sex Pistols. <i>Rage Against the Machine</i> transcends its contradictions by standing inside them and giving itself over anyway. Guitarist Tom Morello remembers a record executive hearing the band practice “Killing in the Name” as Zack de la Rocha screamed, “F**k you, I won’t do what you tell me!” 16 times. The exec sheepishly asked if this was the direction that they were going in. Yes, Morello said, it was. But just remember: He didn’t have to.
+ 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rage-against-the-machine/191450810" >}}
+
+
 
 
 

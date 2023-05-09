@@ -38,8 +38,12 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3Bsq4ECSzsqgsfLnugjS3j" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/elastica/1537947271" >}}
+
+
 
 
 

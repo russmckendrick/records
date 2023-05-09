@@ -29,8 +29,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6rp9TGETse9Tzc2Vzr5Io7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/make-me-young-etc/1575655883" >}}
+
+
 
 
 

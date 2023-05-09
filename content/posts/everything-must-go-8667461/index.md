@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3jvKfPU4A2j7tVOFkhcEi2" width="100%" height="500" >}}
+Shimmering, box-fresh anthems that sparked the second age of Welsh rock’s favourite outcasts. Forged in the aftermath of founding member Richey Edwards’ disappearance, <i>Everything Must Go</i> could have easily been a deeper dive into the sparse hopelessness of preceding record <i>The Holy Bible</i>. Instead, it feels like a glorious rebirth, replete with grand sweeps of orchestration (the lush, defiant wallop of “Design For Life”) and growling, stadium-ready guitars (“Australia”) that channel a kind of lyrically oblique Britpop that became the Manics’ most popular sermon.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-must-go-10th-anniversary-edition/311112270" >}}
+
+
 
 
 

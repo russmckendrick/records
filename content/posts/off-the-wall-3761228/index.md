@@ -32,8 +32,14 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2ZytN2cY4Zjrr9ukb2rqTP" width="100%" height="500" >}}
+No longer a precocious child star but not yet the King of Pop, Michael Jackson hooked up with producer Quincy Jones for this 1979 solo breakthrough—a disco-era masterpiece propelled by gleaming melodies, compulsive grooves, and some of Jackson’s most spectacular performances. While it contains a handful of his signature, heart-tugging ballads, <i>Off the Wall</i> is also incredibly funky: From the sinuous sway of “Rock with You” to the glittering rush of “Don’t Stop ’Til You Get Enough,” these tracks will never cease to fill dance floors.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/off-the-wall/186166282" >}}
+
+
 
 
 
@@ -43,6 +49,7 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 
 ### More Videos
 
+- [Don't Stop 'Til You Get Enough](https://www.youtube.com/watch?v=n3qQtSRmHxo)
 - [Michael Jackson - Get On The Floor (Off The Wall) (CD Reissue)](https://www.youtube.com/watch?v=79Wx4wULXCM)
 - [michael jackson off the wall full album](https://www.youtube.com/watch?v=kbwt8E-pPEU)
 - [Michael Jackson - Rock With You (Official Video)](https://www.youtube.com/watch?v=5X-Mrc2l1d0)

@@ -32,8 +32,12 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="77Lae5VorRCNpgZFMW8yRO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/richard-d-james-album/281111401" >}}
+
+
 
 
 

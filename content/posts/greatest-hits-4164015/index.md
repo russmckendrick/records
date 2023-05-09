@@ -34,8 +34,12 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5BDqJzTLIb2J85U8DA9g29" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cat-stevens/1440922727" >}}
+
+
 
 
 

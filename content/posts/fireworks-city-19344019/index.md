@@ -33,8 +33,12 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="44a62Pr8xc894HkcyvBK31" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fireworks-city/1469551559" >}}
+
+
 
 
 

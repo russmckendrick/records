@@ -37,8 +37,12 @@ styles: ["Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5wnNTpK8zZCzbEblOvKmUV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/too-much-pressure/1629178476" >}}
+
+
 
 
 

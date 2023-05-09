@@ -34,6 +34,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/too-rye-ay/1442968287" >}}
+
+
+
+
+
 ## Videos
 ### Too-Rye-Ay
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}<br>

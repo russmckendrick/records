@@ -40,8 +40,12 @@ styles: ["Post Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1IyNGhDF2FtTiLzQj9FNjT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mankind-the-crafty-ape/1600467205" >}}
+
+
 
 
 

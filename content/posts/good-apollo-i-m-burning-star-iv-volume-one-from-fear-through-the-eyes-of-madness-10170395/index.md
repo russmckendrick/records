@@ -40,6 +40,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/good-apollo-im-burning-star-iv-vol-1-from-fear-through/307654866" >}}
+
+
+
+
+
 ## Videos
 ### Coheed and Cambria - Welcome Home (Official Video)
 {{< youtube id="n0H3RlaQVrM" title="Coheed and Cambria - Welcome Home (Official Video)" >}}<br>

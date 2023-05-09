@@ -32,8 +32,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3u0IGTWxu7msPN0uA3AoaJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/give-it-back-rewired/1610584399" >}}
+
+
 
 
 

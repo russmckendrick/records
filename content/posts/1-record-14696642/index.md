@@ -34,8 +34,14 @@ styles: ["Power Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1BumwwIEw1EC3xAHyf1ive" width="100%" height="500" >}}
+It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick, and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel,” the psych-folk popper “The Ballad of El Goodo,” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance.”  
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1-record/1422691834" >}}
+
+
 
 
 

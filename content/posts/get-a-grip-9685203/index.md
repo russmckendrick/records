@@ -36,8 +36,12 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="180jTzor4W2MQ9HW5h5Fh4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/get-a-grip/1680799198" >}}
+
+
 
 
 

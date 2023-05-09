@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6btRCMNdmGVykuuabl07E6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/saint-julian-expanded-edition/1442418528" >}}
+
+
 
 
 

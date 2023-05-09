@@ -37,8 +37,12 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3Qf4H3NYSp3BMIRe6WOyOA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-bonus-track-version/1533360448" >}}
+
+
 
 
 

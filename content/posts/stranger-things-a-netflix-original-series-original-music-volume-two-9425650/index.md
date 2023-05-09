@@ -63,6 +63,13 @@ styles: ["Soundtrack", "Score"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-2-a-netflix-original-series-soundtrack/1145580199" >}}
+
+
+
+
+
 ## Videos
 ### Kyle Dixon & Michael Stein - Stranger Things Vol. 2
 {{< youtube id="itC9WixTGNE" title="Kyle Dixon & Michael Stein - Stranger Things Vol. 2" >}}<br>

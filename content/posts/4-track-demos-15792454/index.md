@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1K9Lun3S3LDl6FAWkdRFVN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/4-track-demos/1443834026" >}}
+
+
 
 
 

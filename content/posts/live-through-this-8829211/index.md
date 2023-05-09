@@ -34,6 +34,15 @@ styles: ["Alternative Rock", "Grunge"]
 <!-- section break -->
 
 
+<i>Live Through This</i> is one of the best rock albums of the ’90s, full stop. Released at the height of the grunge boom, it mixes punk ferocity with catchy jangle-pop, and contains some of the most potent feminist lyrics to ever find their way onto the radio. "Miss World" smuggles its confrontational lines within easy-to-digest hooks, while the monster choruses and quiet-loud-explosive dynamics of "Violet" and "Doll Parts" established Courtney Love as a songwriting force to be reckoned with, drama be damned. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-through-this/1445732603" >}}
+
+
+
 
 
 ## Videos

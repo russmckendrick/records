@@ -42,6 +42,13 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/amok/1545337159" >}}
+
+
+
+
+
 ## Videos
 ### Atoms For Peace - Before Your Very Eyes
 {{< youtube id="1GQF9y2dKv8" title="Atoms For Peace - Before Your Very Eyes" >}}<br>

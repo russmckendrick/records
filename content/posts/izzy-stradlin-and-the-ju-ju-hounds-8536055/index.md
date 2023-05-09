@@ -32,8 +32,12 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0C5dXQc43DCHdGqTU857Wt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/izzy-stradlin-and-the-ju-ju-hounds/1443075882" >}}
+
+
 
 
 

@@ -49,6 +49,13 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/back-to-the-bars-live/1084024177" >}}
+
+
+
+
+
 ## Videos
 ### Todd Rundgren (Vinyl) Back to the Bars (full album)
 {{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}<br>

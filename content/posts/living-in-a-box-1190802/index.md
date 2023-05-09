@@ -32,8 +32,12 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3YXwaw2fNG3lZHU0YjhEX5" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-living-in-a-box/1629177912" >}}
+
+
 
 
 

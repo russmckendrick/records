@@ -28,6 +28,9 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 
 
 
+
+
+
 ## Videos
 ### Curve Frozen
 {{< youtube id="q8_5TC1s0wQ" title="Curve Frozen" >}}<br>

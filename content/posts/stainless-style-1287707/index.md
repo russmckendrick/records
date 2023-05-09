@@ -34,8 +34,12 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4gwCfJlNCswVeVL4jvYkmA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stainless-style/1601513716" >}}
+
+
 
 
 

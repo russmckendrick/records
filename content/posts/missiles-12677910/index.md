@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="22sAE4K4007kSsI6Lm6We2" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/missiles/952849135" >}}
+
+
 
 
 

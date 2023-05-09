@@ -40,6 +40,13 @@ styles: ["Downtempo", "Modern Classical"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kubrick/1048598267" >}}
+
+
+
+
+
 ## Videos
 ### Soulsavers - DeLarge (album Kubrick)
 {{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>

@@ -31,8 +31,15 @@ styles: ["Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2widuo17g5CEC66IbzveRu" width="100%" height="500" >}}
+To put the Eagles’ mid-’70s dominance into perspective, consider this: In early 1976, the group released <i>Their Greatest Hits 1971-1975</i>, a compilation that would spend the next <i>half decade</i> in the Billboard Top 200 and go on to become the biggest-selling American album of the 20th century. But here’s the crazy thing: The band’s most popular, career-defining song was still to come. That honor, of course, goes to the title track of their 1976 smash <i>Hotel California</i>, the record where the Eagles expunged any lingering trace of their country-rock roots and took up residence in the football stadiums of the world.<br />
+That shift can be largely attributed to the new kid in town: Joe Walsh, who replaced outgoing founding guitarist Bernie Leadon. Formerly the frontman of dirty-boogie outfit the James Gang and an eccentric, hard-rockin’ solo artist in his own right, Walsh immediately puts his stamp on the band with the opening “Hotel California,” where he and six-string wingman Don Felder added the exclamation point to Don Henley’s eerie, enigmatic narrative with one of the most dramatic, finger-aching guitar solos in the rock canon. That swagger spills over into the brontosaurus stomp of “Victim of Love” (the closest this band ever got to heavy metal) and the disco-fied “Life in the Fast Lane,” an account of Hollywood hedonism as alluringly decadent as a penthouse masquerade ball with an open bar. But <i>Hotel California</i> is both a portrait of ’70s excess from behind the velvet rope and the soundtrack to the inevitably cruel comedown. In the sweeping yet cynical piano ballad “The Last Resort,” Henley is already bracing for the moment when the party has to end—not just for a band that would split within four years, but for the very notion of American capitalism itself.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hotel-california/635770200" >}}
+
+
 
 
 

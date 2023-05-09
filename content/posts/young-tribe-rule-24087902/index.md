@@ -33,6 +33,13 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/young-tribe-rule/1635555869" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

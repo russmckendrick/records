@@ -33,8 +33,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2k8KgmDp9oHrmu0MIj4XDE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/is-this-it/269080434" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0AP5O47kJWlaKVnnybKvQI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we-the/1440743107" >}}
+
+
 
 
 

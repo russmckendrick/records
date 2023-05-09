@@ -35,10 +35,23 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1mJFgPeuLhU1PzLNBURdJC" width="100%" height="500" >}}
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-soft-bulletin/1247942375" >}}
+
+
+
+
+
+## Videos
+### Feeling Yourself Disintegrate (2017 Remaster)
+{{< youtube id="XvvGYEjloOg" title="Feeling Yourself Disintegrate (2017 Remaster)" >}}<br>
+
+### More Videos
+
+- [A Spoonful Weighs a Ton (2017 Remaster)](https://www.youtube.com/watch?v=5qVaP7mNphA)
+- [Suddenly Everything Has Changed (2017 Remaster)](https://www.youtube.com/watch?v=uEVbyd-u2X4)
 
 
 ## Release Information

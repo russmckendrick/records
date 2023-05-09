@@ -34,8 +34,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1dZNgJ3Gh3wp6ohzk29JUG" width="100%" height="500" >}}
+After taking more than a year off for some much-needed rest following the world tour in support of 1979’s <i>Tusk</i>, Fleetwood Mac recorded 1982’s <i>Mirage</i> in the decadence of Château d'Hérouville near Paris. Whereas <i>Tusk</i> was a deliberate departure from the preceding masterpiece <i>Rumors</i>, the slickly produced <i>Mirage</i> was an attempt to bring Fleetwood Mac's fans more hits on par with the likes of “Go Your Own Way,” “Don’t Stop,” “Dreams,” and “You Make Loving Fun.” <i>Mirage</i> definitely delivered some stellar singles, starting with the seductive sway of “Hold Me.” Penned by Christine McVie (along with the opening “Love in Store”), it hinted at how her songwriting prowess would blossom and save 1987’s <i>Tango in the Night</i> amid the band’s dissolve. After digging through her song stash, Stevie Nicks offered the catchy “Gypsy.” (She'd written it in 1979 for her debut solo album, <i>Bella Donna</i>, but left it off when the song’s muse died of leukemia.) Lindsey Buckingham borrowed melodies from Nicks’ “Wild Heart” for “Can’t Go Back."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mirage-remastered/1112125557" >}}
+
+
 
 
 

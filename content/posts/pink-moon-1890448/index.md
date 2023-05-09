@@ -33,8 +33,12 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5mwOo1zikswhmfHvtqVSXg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pink-moon/1567147188" >}}
+
+
 
 
 

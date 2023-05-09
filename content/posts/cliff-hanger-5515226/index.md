@@ -32,8 +32,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4jDYIT8hRGwGxDmTd6c9tN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cliff-hanger/185867129" >}}
+
+
 
 
 

@@ -33,6 +33,13 @@ styles: ["Downtempo", "Electro"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beats-in-space-058-korn%C3%A9l-kov%C3%A1cs-dj-mix/1668406756" >}}
+
+
+
+
+
 ## Videos
 ### 8:58 - Nearly There
 {{< youtube id="HkJYq40WNU0" title="8:58 - Nearly There" >}}<br>

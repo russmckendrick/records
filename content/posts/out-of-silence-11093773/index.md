@@ -32,8 +32,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1NLL8ibiwZmZEX7UCdO9Ls" width="100%" height="500" >}}
+Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecutive Fridays in August 2017, he gathered friends, family, artists, even a small orchestra and choir, in Roundhead Studios in Auckland and live-streamed the sessions. The final meeting on August 25 culminated in the complete recording of this album. It’s a return to organic chemistry, capturing the immediate, spontaneous, and whimsical moments that often get deleted in the era of Pro Tools.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/out-of-silence/1440901277" >}}
+
+
 
 
 

@@ -34,8 +34,11 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}
+
 
 
 

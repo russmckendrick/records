@@ -34,8 +34,14 @@ styles: ["Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3ly9T2L4pqTZijFgQssd3x" width="100%" height="500" >}}
+An iconic album telling timeless tales of sex, class struggles, and insecurity. Dreamt up by Jarvis Cocker on a Casiotone keyboard, “Common People” is the instantaneous mega-hit destined for dance floors of all future generations, “Mis-Shapes” a call to arms for society’s outsiders, while coming-of-age anthems “Disco 2000” and “F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E” narrate the gloriously awkward fumblings of first love. After all, “this isn’t chocolate boxes and roses”. Listen closely and you’ll hear Cocker’s knowing wink and a wry smile as his unlikely Britpop heroes unified a generation of misfits.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/different-class/1440923838" >}}
+
+
 
 
 

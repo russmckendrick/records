@@ -32,8 +32,12 @@ styles: ["Stoner Rock", "Progressive Metal", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="25FRZSpdZCczTURlAcMm6r" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/purple/1032909985" >}}
+
+
 
 
 

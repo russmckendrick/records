@@ -40,8 +40,12 @@ styles: ["Synth-pop", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1moeActSxQQhEdAVIClRBm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-eurythmics/307738008" >}}
+
+
 
 
 

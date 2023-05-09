@@ -24,8 +24,12 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="51BKPr5L8cGZGk9bl9Jf5L" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/transmission-2020-digital-remaster-single/1511732470" >}}
+
+
 
 
 

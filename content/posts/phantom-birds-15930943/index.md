@@ -37,6 +37,13 @@ styles: ["Psychedelic", "Easy Listening"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/phantom-birds/1520178813" >}}
+
+
+
+
+
 ## Videos
 ### Something In My Eye
 {{< youtube id="fSEOOB3-gqQ" title="Something In My Eye" >}}<br>

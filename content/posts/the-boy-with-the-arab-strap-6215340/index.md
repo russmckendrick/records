@@ -34,8 +34,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4AChnLbiWqxiotXz8kv6D7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-boy-with-the-arab-strap/516530719" >}}
+
+
 
 
 

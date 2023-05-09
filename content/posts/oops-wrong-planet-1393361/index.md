@@ -36,6 +36,13 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/oops-wrong-planet/129641944" >}}
+
+
+
+
+
 ## Videos
 ### Utopia - Abandon City
 {{< youtube id="Wyiu68va3mA" title="Utopia - Abandon City" >}}<br>

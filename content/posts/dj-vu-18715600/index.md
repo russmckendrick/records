@@ -84,8 +84,14 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5bHkK1X4WEOzNvRhehvOcb" width="100%" height="500" >}}
+A milestone record of the folk-rock movement, CSN’s second album together (and their first with Y) was a virtual how-to for flower children entering adulthood in the ‘70s. It offers sweetly harmonised instruction on how to embrace domesticity (“Our House”), raise kids (“Teach Your Children”) and steer clear of trouble without selling out (“Almost Cut My Hair”). But <i>Déjà Vu</i>’s great power is its enigmatic familiarity, which carries Aquarian Age ideals into a new era (“Woodstock”, “Carry On”).
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/d%C3%A9j%C3%A0-vu/321974224" >}}
+
+
 
 
 

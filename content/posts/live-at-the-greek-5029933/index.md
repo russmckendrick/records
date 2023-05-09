@@ -42,8 +42,12 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4LgSNfHfSLGEB0EufP9aIB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-greek/1252355548" >}}
+
+
 
 
 

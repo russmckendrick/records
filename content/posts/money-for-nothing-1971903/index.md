@@ -33,8 +33,12 @@ styles: ["Pop Rock", "AOR"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4qtMQSCoDtgCbqAcEZr6Mx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/money-for-nothing-remastered-2022/1622635555" >}}
+
+
 
 
 

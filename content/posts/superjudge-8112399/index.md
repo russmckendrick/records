@@ -40,8 +40,12 @@ styles: ["Space Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2uddKwvNYZT28E6ml2ZlOt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/superjudge-deluxe/1443231247" >}}
+
+
 
 
 

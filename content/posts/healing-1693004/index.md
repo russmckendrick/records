@@ -31,8 +31,12 @@ styles: ["Art Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="28Y7qITdIQ1c6B0m8RNNkJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/healing/1084030825" >}}
+
+
 
 
 

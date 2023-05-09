@@ -78,8 +78,12 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7mAvhljwzf6MGLPz64rSMb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018-deluxe/1528561849" >}}
+
+
 
 
 

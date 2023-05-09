@@ -46,8 +46,12 @@ styles: ["Folk Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="49OTnZwTrJYLD23gcI3B3N" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-optimist-lp-original-demos-demo-version/1574258049" >}}
+
+
 
 
 

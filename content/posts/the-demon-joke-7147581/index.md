@@ -44,6 +44,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-demon-joke/1049159070" >}}
+
+
+
+
+
 ## Videos
 ### VENNART - Operate (OFFICIAL VIDEO)
 {{< youtube id="Xgc2B6wYilI" title="VENNART - Operate (OFFICIAL VIDEO)" >}}<br>

@@ -33,6 +33,15 @@ styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 <!-- section break -->
 
 
+Terence Trent D’Arby’s 1987 debut urged R&B into the modern age, harking back to the classic soul of Sam Cooke and Otis Redding while paving the way for neo-soul. D’Arby emotes through the register-traversing plea “If You Let Me Stay,” the seductively whistling “Wishing Well,” and the gospel-hued “As Yet Untitled” in a rich, deeply rooted rasp. He also dabbles in Caribbean and Middle Eastern rhythms and horn-driven funk, and just plain owns Smokey Robinson’s “Who’s Loving You.” It still feels absolutely contemporary.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/introducing-the-hardline-according-to-terence-trent-darby/250551726" >}}
+
+
+
 
 
 ## Videos

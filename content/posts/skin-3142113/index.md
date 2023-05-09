@@ -33,8 +33,14 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1ZXb9KHWazVh0xoWZYdsJD" width="100%" height="500" >}}
+Entrancing electronica executed with utter confidence—and big pop hooks. Harley Streten’s dense production and can’t-teach radio-friendly choruses installed him as dance music’s fashionably brainy coming man, and this second album broadens his appeal and horizons. “Never Be Like You” is your starting point—a slinky, proper hit roughed up by Streten’s jabbing beats—but thanks to his cartel of collaborators, we’re spoiled. Kučka’s contributions provide some of the more halting moments, Raekwon is a devastatingly ominous presence (“You Know”), while Beck lends <i>Skin</i> its poised emotional climax on closer “Tiny Cities.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/skin/1103321078" >}}
+
+
 
 
 

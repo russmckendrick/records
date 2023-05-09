@@ -55,8 +55,12 @@ styles: ["Pop Rock", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7yZHLfxqiGPbSQLrVJljah" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-singles-deluxe-edition/1148701635" >}}
+
+
 
 
 

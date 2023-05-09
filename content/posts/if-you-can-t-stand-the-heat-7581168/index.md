@@ -34,6 +34,13 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/if-you-cant-stand-the-heat/1443422494" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

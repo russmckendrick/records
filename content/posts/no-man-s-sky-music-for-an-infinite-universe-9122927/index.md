@@ -38,8 +38,12 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3nL8AikcXC3berhPBy8OTD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe/1469726921" >}}
+
+
 
 
 

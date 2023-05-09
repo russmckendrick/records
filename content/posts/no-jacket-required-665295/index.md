@@ -32,8 +32,15 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1rVhockt4RAiZFaK3M3zPB" width="100%" height="500" >}}
+In the early ’80s, Phil Collins commandeered Genesis’ transition from prog-rock standard-bearers to Top 40 hit machine, while launching his own immensely successful solo career. But 1985 was truly the Year of the Phil, when, in the wake of Genesis’ self-titled 1983 chart-topper and his own GRAMMYⓇ-winning theme song for the film <i>Against All Odds</i>, Collins dropped his blockbuster third record, <i>No Jacket Required</i>. The album not only served as the height of Collins’ incomparable ‘80s hot streak, it also became a defining sonic document of the era—with all the sax solos, squealing guitars, glossy synths, and percolating programmed drum beats to prove it.<br />
+Up to this point in his solo career, Collins tended to vacillate between reverential ‘60s-retro homage and modern production techniques, but <i>No Jacket Required</i> effortlessly fused the two into a glitzy Motown-meets-MTV sound every bit as funky and frisky as what pop juggernauts like Madonna, Prince, and Michael Jackson were pumping out at the time. On irresistible opener “Sussudio” and its similarly styled companion “Who Said I Would,” Collins proved that he too could party like it’s 1999, with synth stabs and brass jabs that thrust you onto the dance floor with all the subtlety of an electric cattle prod. The album also reinforced Collins’ status as a master balladeer, whether he was slinking into the soft-focus romantic reverie “One More Night” or wading into politically charged terrain on the equally exotic and ominous “Long Long Way to Go.” But on a record where every song could’ve been a hit single—and half of them actually were—Collins saves the best for last with the towering “Take Me Home.” It’s a track that perfectly encapsulates his ‘80s imperial phase, where even a song that grimly details a man’s descent into madness couldn’t help but sound like a heaven-sent inspirational anthem.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-jacket-required-deluxe-edition-remastered/1088551708" >}}
+
+
 
 
 

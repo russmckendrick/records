@@ -34,8 +34,12 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="56YzQ0dhmRMDryZsrjdHun" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ladies-and-gentlemen-we-are-floating-in-space/1502476612" >}}
+
+
 
 
 

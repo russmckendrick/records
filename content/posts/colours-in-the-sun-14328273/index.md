@@ -34,6 +34,13 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/colours-in-the-sun/1473359674" >}}
+
+
+
+
+
 ## Videos
 ### VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]
 {{< youtube id="eyFCWhywrqM" title="VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]" >}}<br>

@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Mozf4qsfZx8WIsPyUmwO6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wretch/207946744" >}}
+
+
 
 
 

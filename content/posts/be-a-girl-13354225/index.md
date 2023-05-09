@@ -33,8 +33,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7bx60z6sWg9fz9Ve2AruOI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/be-a-girl/253726073" >}}
+
+
 
 
 

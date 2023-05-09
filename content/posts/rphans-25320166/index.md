@@ -28,8 +28,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6L4JJlahXj3TrcvZXBmauY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rphans-digital/1607158807" >}}
+
+
 
 
 

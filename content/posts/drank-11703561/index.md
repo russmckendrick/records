@@ -46,8 +46,14 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="73P5LAZvZquPqD5naqW2Mo" width="100%" height="500" >}}
+“I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}
+
+
 
 
 

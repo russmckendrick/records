@@ -36,8 +36,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1QSoW668F9DVj8Rk9azF7h" width="100%" height="500" >}}
+Neil Finn didn’t create Crowded House’s third and most rewarding album on his own, instead co-writing this lushly adventurous set with his brother (and former Split Enz foil) Tim. <i>Woodface</i> follows the lead of The Beatles and Beach Boys at their most psychedelic, expanding pop music’s range with bold sonic and lyrical details. While “Fall at Your Feet” is a timeless ballad as good as any found on the band’s hit-stacked 1986 debut, <i>Woodface</i>’s stranger turns foretell the proliferation of dreamy, obtuse indie rock. Every song is a layer cake of mesmerising melodies.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/woodface/724471916" >}}
+
+
 
 
 

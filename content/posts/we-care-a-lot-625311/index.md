@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3udSCTdyARfZASR78cBMMN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}
+
+
 
 
 

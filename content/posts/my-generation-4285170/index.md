@@ -34,8 +34,12 @@ styles: ["Mod"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Oc6Ok1Oawu8lRkjmD4mXy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/my-generation-stereo-version-deluxe-version/1443123252" >}}
+
+
 
 
 

@@ -35,8 +35,17 @@ styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6GphKx2QAPRoVGWE9D7ou8" width="100%" height="500" >}}
+No matter where you’re at in life, stepping into <i>Pet Sounds</i> can feel like stepping back into childhood. The colors are brighter, the scale bigger. There are moments of wonder and excitement (“Wouldn’t It Be Nice”) and moments of profound pain (“I Just Wasn’t Made for These Times”). Brian Wilson’s arrangements brought a complexity to rock music that nobody had heard before, but they also captured a simple, poetic point: When you’re young, everything hits with the weight of an orchestra.<br />
+Wilson was a child of Southern California and Disney, of the great suburban myths that shaped America after World War II: The joke is that his brother Dennis was the only Beach Boy who actually surfed, while the rest just held boards to sell a story. At a mid-’60s moment when bands like The Velvet Underground were starting to use pop to explore rough, bracing realities, <i>Pet Sounds</i> reached back to the fantasies of ’30s pop and ’50s exotica, of old Hollywood and early television. And as sacred as the album’s mood is (Wilson called his next project, <i>Smile</i>, a “teenage symphony to God”), it makes sense that its co-lyricist, Tony Asher, had come from advertising: No matter how ambitious he got, he also knew he needed to project something neat, immediate, and universal.<br />
+Of all <i>Pet Sounds</i>’ legacies, the most profound is the idea that pop music—something accessible and extroverted—could be used to express deep internal worlds. Wilson’s experiments with LSD aren’t obvious in any garish, cartoonish way. But you can hear him trying to excavate feelings buried so deep in the underbrush of shame and memory that seeking them out is an adventure on par with any. <i>Pet Sounds</i> is a reminder that the core of courage is innocence, and that just because you can’t change the past doesn’t mean it doesn’t still hurt.
+ 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pet-sounds/1440841241" >}}
+
+
 
 
 

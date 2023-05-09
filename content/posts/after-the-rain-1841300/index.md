@@ -36,6 +36,13 @@ styles: ["Hard Rock", "Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/after-the-rain-remastered/1443313013" >}}
+
+
+
+
+
 ## Videos
 ### Nelson – I Can Hardly Wait
 {{< youtube id="Nq4X0R7_FKc" title="Nelson – I Can Hardly Wait" >}}<br>

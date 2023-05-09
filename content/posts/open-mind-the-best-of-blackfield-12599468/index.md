@@ -37,8 +37,12 @@ styles: ["Krautrock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="55j4GzT3zf2HxUiVRqn3Nz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/open-mind-the-best-of-blackfield/1416237959" >}}
+
+
 
 
 

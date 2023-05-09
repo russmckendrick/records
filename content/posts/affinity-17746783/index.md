@@ -42,6 +42,13 @@ styles: ["Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/affinity/1088398278" >}}
+
+
+
+
+
 ## Videos
 ### affinity.exe
 {{< youtube id="AvhjDInyGYQ" title="affinity.exe" >}}<br>

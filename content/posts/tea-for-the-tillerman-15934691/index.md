@@ -33,8 +33,11 @@ styles: ["Pop Rock", "Folk Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="44VxbAytHpVi3Rq8hRhild" width="100%" height="500" >}}
+
 
 
 

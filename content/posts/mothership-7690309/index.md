@@ -46,8 +46,14 @@ styles: ["Hard Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4wExFfncaUIqSgoxnqa3Eh" width="100%" height="500" >}}
+Mothership is Jimmy Page’s hand-curated selection of the best of Led Zeppelin, and it’s the ultimate showcase of their proto-metal skills. The intuitive interplay between John Bonham’s drums and Page’s guitar riffs created some of the leanest hard rock on record—“Black Dog,” “Whole Lotta Love”—providing cocksure backup to Robert Plant’s lascivious screams. Equally skilled as bluesmen—“Since I’ve Been Loving You” is particularly aching—they reached a compositional peak in the Eastern strings of “Kashmir” and the folk-prog epic “Stairway to Heaven,” rock standards that retain an otherworldly power.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mothership-remastered/1052497413" >}}
+
+
 
 
 

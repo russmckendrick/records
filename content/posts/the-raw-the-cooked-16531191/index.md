@@ -32,8 +32,12 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6CoeDRu0SmpFtLZMcRTO2F" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-raw-the-cooked/1313940401" >}}
+
+
 
 
 

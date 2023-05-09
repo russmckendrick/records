@@ -57,8 +57,12 @@ styles: ["Alternative Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5iYYQwB0oH9FVyVlaOXZdr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/goo/1440838993" >}}
+
+
 
 
 

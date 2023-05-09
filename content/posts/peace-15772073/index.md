@@ -37,6 +37,13 @@ styles: ["Folk Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/peace/1497353598" >}}
+
+
+
+
+
 ## Videos
 ### Four Boys Lost
 {{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}<br>

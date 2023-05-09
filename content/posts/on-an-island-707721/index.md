@@ -32,8 +32,12 @@ styles: ["Prog Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3hhRkf54AIQsdKLMWTxVLg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/on-an-island/703028242" >}}
+
+
 
 
 

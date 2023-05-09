@@ -24,8 +24,12 @@ styles: ["Acoustic", "Celtic", "Art Rock", "Folk Rock", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3V3hCBFtp1PMcWPx2bqPyv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/return-to-ommadawn/1440893253" >}}
+
+
 
 
 

@@ -45,8 +45,11 @@ styles: ["Classic Rock", "Blues Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0my24L5pit3nfpj6ccdlZA" width="100%" height="500" >}}
+
 
 
 

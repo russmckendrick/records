@@ -32,8 +32,12 @@ styles: ["Blues Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="56jScJ8N9n8B4ZNu52KeHk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-return-of-bruno/1444378334" >}}
+
+
 
 
 

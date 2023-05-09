@@ -33,8 +33,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Zisq1gECqPQtxvny6AUXP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/much-against-everyones-advice/15159110" >}}
+
+
 
 
 

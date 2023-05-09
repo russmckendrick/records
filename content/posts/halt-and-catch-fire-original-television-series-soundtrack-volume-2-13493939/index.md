@@ -38,6 +38,13 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-vol-2-original-television-series/1446955010" >}}
+
+
+
+
+
 ## Videos
 ### Mosaic
 {{< youtube id="fi4_G2nB_-s" title="Mosaic" >}}<br>

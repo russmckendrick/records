@@ -30,8 +30,12 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4YimfceN1R0nOS9CefIFhm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/once-upon-a-time/1440841956" >}}
+
+
 
 
 

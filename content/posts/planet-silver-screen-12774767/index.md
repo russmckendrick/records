@@ -31,8 +31,12 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2ZOtKQ6rAGvjDJ8ShRFsdU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/planet-silver-screen/1414568711" >}}
+
+
 
 
 

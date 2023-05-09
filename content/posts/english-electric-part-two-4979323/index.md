@@ -35,6 +35,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-two/611682743" >}}
+
+
+
+
+
 ## Videos
 ### Big Big Train - Leopards
 {{< youtube id="X4A4rFLUS84" title="Big Big Train - Leopards" >}}<br>

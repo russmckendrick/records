@@ -29,8 +29,31 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2sAePf08xIp4tnDlMUCV8B" width="100%" height="500" >}}
+It has nearly become a cliché unto itself for so many albums released in 2021 and 2022: an accomplished work of art that perfectly articulates themes of isolation and desperation and fatalism, only for the artists to reveal that the songs that express these ideas most acutely were written <i>before</i> the pandemic. “It was already sort of all in the world,” Arcade Fire’s Win Butler tells Apple Music’s Zane Lowe. “In order to write music, you have to have this antenna up that kind of picks up little signals from the future and signals from the past. And so I think a lot of times we're just getting these like aftershocks of things that are about to happen.”
+
+<i>WE</i> is 10 tracks, but really more like five songs, taking into account various parts and chapters that give the album its epic scope, capturing the joy-in-the-face-of-peril spirit of their beloved 2004 debut <i>Funeral</i>, only with the peril a bit heightened. The songs that Butler and his wife Régine Chassagne started in their backyard New Orleans studio prior to March 2020 form a narrative that opens in a state of despair and winds up in an unlikely place of hope and optimism, with all the exuberance that marks the band’s most memorable songs. Like all Arcade Fire albums, <i>WE</i> is a family affair, featuring not just Butler, Chassagne and Butler’s younger brother Will—who has since left the group, amicably—but Butler’s mom, a harpist, as well as guest vocals from Peter Gabriel. Read on as Butler expounds on a few key moments from <i>WE</i>.
+
+<b>“End of the Empire I-III”</b>
+“It's easy to interpret everything as being about the present, and I think there's an element of that, but I think you're trying to pick up on smoke signals. To me, the end of the empire isn't about now, it's about the future. It's about what's coming. I'm still waiting to wake up and check my phone and see the stock market has finally crashed. I mean, it's just an inevitability. This stuff is so cyclical, and it's like we're just printing money and pretending everything's okay. My grandfather lived through the Depression and was a musician in World War II and lived through some pretty intense stuff, and so I think this generation is up to the task as well. We have an eight-year-old, and the tools that he has compared to the tools that I had at that age are incredible.”
+
+<b>“End of the Empire IV (Sagittarius A)”</b>
+“‘End of the Empire’ is four parts; we had the first three parts and it was already six and a half minutes. For some reason I just knew that there was a fourth part to it, and I had this index card that said, ‘Sagittarius A’, which is a black hole in the middle of our solar system. I just had the card on my wall and I would just walk by it. As soon as I was vaccinated and was able to travel, I went with my son to go visit my parents because I hadn't seen them in a long time. I went back to their house in Maine and I brought my 4-track and I put it in the basement of their house and ran a bunch of cables up to the top floor. I felt like I was 15. It was exactly like the shit I was doing when I was 15. I was like, 'Mom, I'm working on this song.' We would play 'Sagittarius A' together. There were a couple other songs that I did these 4-track recordings of playing it with her, and it sort of helped me to work through it and to just figure out what it is.”
+
+<b>“The Lightning II”</b>
+“What was in my head when I was singing that song was all the Haitians at the border trying to get into the US who had taken a boat from Haiti to Brazil and then walked or taken a train all the way to the Mexican border. Just to find a better life for your family—imagine what it would take, the bravery. The governor of Texas can honestly...I don't hate a lot of people, but I hate that motherfucker. I don't even believe in hell, but if there's a hell, that motherfucker's going there. Just to meet people with the absolute absence of compassion, these fake fucking Christians. That's not necessarily what the song's about, but that was what was in my head: What does it mean to not quit and to reach the end and then to be turned back, and you still can't quit because you still have your family, so then you get sent back to where you started and you still can't give up because it's still your life and it's still your family and you're still fighting for survival.”
+
+<b>“Unconditional I (Lookout Kid)”</b>
+“I was really just thinking about my son and the world that he's facing and how I was a very depressed kid, particularly in high school. I was trying to imagine the way that I'm wired, just chemically, having to deal with that now, not to mention 10 years from now, whenever the fuck he's going to be dealing with it. He's going to need to have a thick skin and to just really be able to take a hit and have some fortitude. And basically just the idea of unconditional love, which is this impossible thing to achieve. But we do it naturally, somehow. And it's something that I think we naturally have with our kids, but I think it's something that we're supposed to have for people that we're not related to as well.”
+
+<b>“WE”</b>
+“I think the journey of the record, the first half is: Imagine this character's like, 'Get me the F out of here, get me off this planet, get me out of my own skin, get me away from myself. I don't want to be here.' It's anxiety and it's depression and it's heaviness, it's the weight of the world. And he looks at this black hole like, 'Well, maybe if I could get through that black hole, that would be far enough away.' And when he gets there, he finds that it's himself and it's everyone he ever loved and the lives of his ancestors. There's nothing to escape, because it's all the same thing anyway. Stories and films are always building towards this big conclusion and then the credits roll. And to me, the sentiment is, 'Let's just fucking do it again, with all of it—all the pain, all the loneliness, all the sadness, all the heartbreak. I just want to do it over and over again. Just run it back.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we/1613566080" >}}
+
+
 
 
 

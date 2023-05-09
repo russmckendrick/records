@@ -36,6 +36,13 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/into-the-dragon/400362376" >}}
+
+
+
+
+
 ## Videos
 ### Bomb The Bass - Don't Make Me Wait (Video)
 {{< youtube id="b_42p66WeM0" title="Bomb The Bass - Don't Make Me Wait (Video)" >}}<br>

@@ -33,8 +33,12 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5IvpieyaXDZI2GxwmdwlQA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/last-patrol/1184723168" >}}
+
+
 
 
 

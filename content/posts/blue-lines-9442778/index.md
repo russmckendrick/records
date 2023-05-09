@@ -31,8 +31,14 @@ styles: ["Trip Hop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5mAPk4qeNqVLtNydaWbWlf" width="100%" height="500" >}}
+Often considered one of the very first trip-hop albums (released before the term was coined!), <i>Blue Lines</i> is a masterpiece no matter what genre it is filed under. Elements of hip-hop, dub, funk, soul, R&B and electronic music come together in unforeseen ways. A variety of singers guest, with Shara Nelson bringing a notable imprint to the low-key "Safe From Harm," Horace Andy turning the elliptical keyboard lines of "One Love" into a formidable nightclub track, and Tricky rapping rather sedately through the title tune. The brilliance of this 45-minute excursion into a new world of sound can't be underestimated. Many of its stylistic choices became standard operating procedure for other musicians in the developing genre, but no one made such moves with more authority than Massive Attack.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}
+
+
 
 
 

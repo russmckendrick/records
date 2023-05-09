@@ -38,8 +38,14 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6r7LZXAVueS5DqdrvXJJK7" width="100%" height="500" >}}
+Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}
+
+
 
 
 

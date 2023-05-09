@@ -31,8 +31,14 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1vhib5WLHRVdOpRjiTHk15" width="100%" height="500" >}}
+Released on the heels of a breakthrough 1976, <i>Stranger in Town</i> marked Seger’s first album after becoming a bona fide star. Not that you’d know it outside, say, “Hollywood Nights,” which tells tale of a homesick Midwestern boy looking out at L.A. For the most part, <i>Stranger</i> sticks to the same passionate rave-ups (“Feel Like a Number,” “Old Time Rock and Roll”) and hard-bitten ballads (“Still the Same,” “Till It Shines”) that paved Seger’s road to fame in the first place—a strong but humble sound that still resonates.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stranger-in-town/1440888092" >}}
+
+
 
 
 

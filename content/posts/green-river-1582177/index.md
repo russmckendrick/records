@@ -31,8 +31,14 @@ styles: ["Southern Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0i9mOB6mPGqwVvtJEXiwPG" width="100%" height="500" >}}
+CCR were at the height of their powers in 1969, <i>Green River</i> being the second of three LPs the band would release that year. Having found their sound on <i>Bayou Country</i>, Fogerty and crew fully step into their own with this release, which features the timeless singles "Bad Moon Rising", "Lodi" and of course the title track. <i>Willy and the Poor Boys</i> would soon follow, keeping up the band's ferocious pace, but if you had to pick just one CCR album, this should be it.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/green-river/1440952818" >}}
+
+
 
 
 

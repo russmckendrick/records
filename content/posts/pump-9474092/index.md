@@ -32,8 +32,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2WXQrFpRtf1FVSS70D5TVT" width="100%" height="500" >}}
+Rejuvenated with the help of Bon Jovi producer Bruce Fairbairn, Aerosmith ended the ‘80s with a triumph. While unbridled rockers like “Love In an Elevator” match their sleazy glories of yesteryear, <i>Pump</i> has a serious side, too. In “Janie’s Got a Gun,” a girl’s sexual abuse culminates in an act of revenge. Throughout “Monkey on My Back,” Steven Tyler rails against the substances that nearly ruined his band. Thankfully, this sober, slightly more thoughtful Aerosmith was as exciting as the earlier model.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pump/1440824301" >}}
+
+
 
 
 

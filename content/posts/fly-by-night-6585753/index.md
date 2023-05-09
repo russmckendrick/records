@@ -30,8 +30,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3ZtICWkqezf0bBTUwY1Khe" width="100%" height="500" >}}
+This Canadian trio's self-titled debut proved the band was adept at the heavy blues-rock of the era, but it was with its second album, 1975's <i>Fly By Night</i>, that Rush established its signature sound: a mix of studio wizardry and athletic musicianship coupled with a desire to break past conventional songforms. Mostly, this was the result of new drummer Neil Peart, whose inquisitive lyrics and extra polyrhythmic emphasis would make them arena-rock superstars before decade's end. Peart's unusual sensibility can be heard in the nearly nine-minute epic "By-Tor and the Snow Dog," the extra flicker driving "Anthem" and the graceful, jazzy touches of "Making Memories." Singer Geddy Lee pushes his voice to the upper reaches of his range. "Beneath, Between and Behind" sounds like a drag race between drummer, guitarist and singer to see who can twist and turn with greater dexterity. One part hard rock, two parts progressive ambition, and the band was off in a prolific and singular direction.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fly-by-night-remastered/1440724415" >}}
+
+
 
 
 

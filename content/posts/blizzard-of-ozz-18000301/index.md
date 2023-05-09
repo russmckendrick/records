@@ -31,8 +31,14 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4qUMByJ3Pk94BFnCmGaUPS" width="100%" height="500" >}}
+Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old band. Ditching Black Sabbath’s hairy stoner grooves, the singer forged a bold new approach to heavy metal, one reliant upon the classical training of his guitarist, Randy Rhoads, whose runs and compositional genius were the perfect complement to Ozzy’s meditations on paranoia, death, and sin. “Crazy Train,” “I Don’t Know,” “Mr. Crowley”—these aren’t songs so much as skillfully choreographed dances between seething dread and melodic elegance.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blizzard-of-ozz-40th-anniversary-expanded-edition/1531535089" >}}
+
+
 
 
 

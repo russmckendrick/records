@@ -36,8 +36,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2fDJpBJhtloxzUENHlU9JB" width="100%" height="500" >}}
+After introducing a trio sound that fan Warren Zevon likened to Bartok, PJ Harvey moved on to up the ante with producer Steve Albini. Bringing the use of soft-loud dynamics to a new, er, levels, Albini showcased the Harvey band's rumble in a way that made even their great debut, <i>Dry</i>, sound a little tame. Filled with sexual and social power and loathing, the record also put across a wicked sense of humor, as when a male band member howls a "Lick my legs, I'm on fire" mantra at the end of the title track or the outfit turns Dylan's "Highway 61 Revisited" into a sonic carnival ride. The blend was not unlike that of Polly Jean Harvey's hero Captain Beefheart, who was apparently pleased: The two have been confidantes for years.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rid-of-me/1440923277" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Indie Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="63sDkky1tDgS9oF2gSh2ry" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/visuals/1195025592" >}}
+
+
 
 
 

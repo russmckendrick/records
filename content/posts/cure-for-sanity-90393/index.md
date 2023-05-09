@@ -39,8 +39,12 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6yuGZO9460TzKMMZ7qQZez" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cure-for-sanity/292672031" >}}
+
+
 
 
 

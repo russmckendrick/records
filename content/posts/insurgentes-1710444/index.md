@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3psPvfJX0dMn05RK7fqcIL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/insurgentes-remastered/1119733844" >}}
+
+
 
 
 

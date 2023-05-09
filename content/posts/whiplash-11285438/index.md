@@ -33,8 +33,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4E4vSSVnJPqvgtfHiXTnHl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whiplash-digitally-remastered/1442989104" >}}
+
+
 
 
 

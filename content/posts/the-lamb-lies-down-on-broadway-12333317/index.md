@@ -45,8 +45,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="49BxISwAbZZfmlhqD6Vh88" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-lamb-lies-down-on-broadway-remastered-2008/1418306248" >}}
+
+
 
 
 

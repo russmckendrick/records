@@ -35,8 +35,11 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6ir2CmieJAjY36ZzWveT0K" width="100%" height="500" >}}
+
 
 
 

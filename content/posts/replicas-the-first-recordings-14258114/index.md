@@ -42,8 +42,12 @@ styles: ["New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7I5VqBsW2lzslDO3nqQFdm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}
+
+
 
 
 

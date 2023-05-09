@@ -35,8 +35,12 @@ styles: ["Progressive Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="50O9zBtbDovF8Z8Z4xnHEO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/winter/1068112932" >}}
+
+
 
 
 

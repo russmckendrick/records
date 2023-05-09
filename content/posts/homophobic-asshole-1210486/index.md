@@ -27,6 +27,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/homophobic-a-e/259488624" >}}
+
+
+
+
+
 ## Videos
 ### SENSELESS THINGS Homophobic Asshole
 {{< youtube id="Q3YUFhjR3wM" title="SENSELESS THINGS Homophobic Asshole" >}}<br>

@@ -33,8 +33,14 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5LMGAYhn2ywaxGZdtmXGpw" width="100%" height="500" >}}
+In the slicker-than-slick '80s, a freaky-looking, long-bearded boogie trio out of Houston seemed unlikely to take MTV by storm. But with <i>Eliminator</i>, a reinvented ZZ Top did just that. Updating their classic, good-time Texas boogie with just enough synthesizers to appeal to the New Wave set—and wrapping it in videos full of sexy girls, spinning fur-covered guitars, and magical hot rods—they turned meaty singles like the choogling "Gimme All Your Lovin'" and the wry "Sharp Dressed Man" into genre-exploding classics.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/eliminator/655184882" >}}
+
+
 
 
 

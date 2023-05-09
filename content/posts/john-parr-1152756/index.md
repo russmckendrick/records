@@ -32,8 +32,12 @@ styles: ["Hard Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1bUjfNXBRrs8xXeetRbBwg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/st-elmos-fire-anniversary-edition-single/711914155" >}}
+
+
 
 
 

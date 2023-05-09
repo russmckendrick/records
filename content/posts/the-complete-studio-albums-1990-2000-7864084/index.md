@@ -87,6 +87,9 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 
 
 
+
+
+
 ## Videos
 ### Pantera - Walk (Official Video)
 {{< youtube id="AkFqg5wAuFk" title="Pantera - Walk (Official Video)" >}}<br>

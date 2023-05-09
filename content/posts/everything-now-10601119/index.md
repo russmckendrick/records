@@ -35,8 +35,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1DNojVW079FU9YnAMk3Cgr" width="100%" height="500" >}}
+Though Arcade Fire have always been comfortable making grand statements, they’ve also been generous with nuance. After joining forces with LCD Soundsystem’s James Murphy on 2013’s <i>Reflektor</i>, the Canadian outfit bring in a similarly impressive crew of co-producers—Daft Punk’s Thomas Bangalter, Pulp’s Steve Mackey—for <i>Everything Now</i>, an album whose jaunty, disco-indebted art-rock is weighted with haunting takes on information overload (the ABBA-esque title track) and nostalgia (“Signs of Life”). “If you can’t see the forest for the trees, just burn it all down,” frontman Win Butler sings on “We Don’t Deserve Love,” a gorgeous yet disorienting ballad at the album’s conclusion. “And bring the ashes to me.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-now/1240796998" >}}
+
+
 
 
 

@@ -36,8 +36,12 @@ styles: ["Art Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5G5UwqPsxDKpxJLX4xsyuh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hounds-of-love-2018-remaster/1675560565" >}}
+
+
 
 
 

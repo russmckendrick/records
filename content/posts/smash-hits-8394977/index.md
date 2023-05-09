@@ -36,6 +36,13 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-jimi-hendrix-experience-smash-hits/344477479" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

@@ -41,6 +41,13 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/30-something/1619288979" >}}
+
+
+
+
+
 ## Videos
 ### Smiley
 {{< youtube id="Gl-7yh4hY04" title="Smiley" >}}<br>

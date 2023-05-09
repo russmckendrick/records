@@ -34,8 +34,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6NqxNgmWYbWW8xkASo13UZ" width="100%" height="500" >}}
+On his eleventh studio album, Steven Morrissey beholds the choppy water of a polarised age and effectively grabs a surfboard. Bracing, black-skied and wrapped in lyrical barb-wire, <i>Low in High School</i> finds the former Smiths frontman taking on modern propagandists (“My Love, I’d Do Anything For You”), abusive authority figures (“Who Will Protect Us from the Police?”) and lust amid political revolution (“In Your Lap”). There’s melodic light to balance the dark imagery, though. “Spent the Day in Bed”—a stately, piano-sprinkled riposte to the horror of 24-hour news—may be one of the most deftly effective songs he’s produced in a decade.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/low-in-high-school/1282060987" >}}
+
+
 
 
 

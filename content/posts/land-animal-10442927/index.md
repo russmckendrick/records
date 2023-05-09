@@ -45,8 +45,12 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7K5KSdrusSD2O70NyAFhJk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/land-animal/1225586747" >}}
+
+
 
 
 

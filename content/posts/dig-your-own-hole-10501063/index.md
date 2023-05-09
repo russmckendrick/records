@@ -33,8 +33,12 @@ styles: ["Breakbeat", "Big Beat"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0FjHy5dCyVROqDUl6f2VTK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dig-your-own-hole/714366008" >}}
+
+
 
 
 

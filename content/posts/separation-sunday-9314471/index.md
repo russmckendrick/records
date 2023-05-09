@@ -33,8 +33,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2o9xoahiznyfXC13U5dex7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/separation-sunday-deluxe-version/1143274331" >}}
+
+
 
 
 

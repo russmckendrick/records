@@ -38,8 +38,14 @@ styles: ["Ambient", "Dub", "Ambient House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3IQGG1m7Pa6DAopVyxGmlL" width="100%" height="500" >}}
+<i>The Orb's Adventures Beyond the Ultraworld</i> is less an album than a magical place—like Narnia or Wonderland, but easier to get to (and get lost in). House grooves and hip-hop breaks provide the gently funky underpinning for undulating waves of sound: hazy synths, dub bass, field recordings and brain-teasing snippets of movie dialogue. The Steve Reich-sampling "Little Fluffy Clouds" is a rave-defining anthem, and the epic closer will have you dreaming in colours you never knew existed.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-orbs-adventures-beyond-the-ultraworld/1452851519" >}}
+
+
 
 
 

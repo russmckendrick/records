@@ -38,8 +38,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0laB3CZ60ALn8lVAx1Hwxi" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/here-comes-a-man-from-the-council-with-a-flamethrower/1484413225" >}}
+
+
 
 
 

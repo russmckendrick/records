@@ -30,8 +30,12 @@ styles: ["Post Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1zngAcNNliJMx91HWEJf2G" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/solace/1615429505" >}}
+
+
 
 
 

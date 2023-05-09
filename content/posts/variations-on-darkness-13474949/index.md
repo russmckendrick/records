@@ -24,8 +24,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5XFyXXLcDqPXmeTxYKO1FU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/variations-on-darkness/1458756921" >}}
+
+
 
 
 

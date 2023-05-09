@@ -32,8 +32,14 @@ styles: ["Darkwave", "EBM", "Techno"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0PhdBZuLPXXwuF2mbuefld" width="100%" height="500" >}}
+A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embraces chilly Euro synths and Ballardian drones. For their sixth album, Richard Fearless joined forces with vocalist Sasha Grey, who oozes cool all over the record's soft Italo disco (“Flak”), intense synth arpeggios (“Metal Box”) and malevolent techno. It shifts nimbly between monochromatic intensities: “Strom” orbits on woozy, circular whispers, but segues into “You Disco I Freak”, eight minutes of ricocheting mania.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/transmission/1110655687" >}}
+
+
 
 
 

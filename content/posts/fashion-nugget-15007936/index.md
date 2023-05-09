@@ -36,8 +36,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0xqBjioTJ32aszn90qV2m1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fashion-nugget/1632472281" >}}
+
+
 
 
 

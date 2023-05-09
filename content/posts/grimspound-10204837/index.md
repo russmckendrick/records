@@ -30,8 +30,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3YBGYpPgEcC8Tszi9ufIYS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grimspound/1208076126" >}}
+
+
 
 
 

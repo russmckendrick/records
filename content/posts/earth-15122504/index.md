@@ -33,6 +33,9 @@ styles: ["Indie Rock", "Folk", "House"]
 
 
 
+
+
+
 ## Videos
 ### EOB - Brasil
 {{< youtube id="xefWbfWUbrQ" title="EOB - Brasil" >}}<br>

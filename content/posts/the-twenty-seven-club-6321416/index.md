@@ -30,6 +30,9 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 
+
+
+
 ## Videos
 ### Magenta - The Twenty Seven Club PROMO
 {{< youtube id="yidfGKTVtdo" title="Magenta - The Twenty Seven Club PROMO" >}}<br>

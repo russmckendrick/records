@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1T0rvI76cjmfOErWUFPIFv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/he-will-have-his-way-the-songs-of-tim-neil-finn/721281542" >}}
+
+
 
 
 

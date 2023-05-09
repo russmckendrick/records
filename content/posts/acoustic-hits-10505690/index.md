@@ -42,6 +42,13 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cure-for-me-acoustic-single/1577868696" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

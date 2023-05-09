@@ -31,8 +31,12 @@ styles: ["Reggae", "Dub"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4lH7ibcfsyzOWLi3gjbLIL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dubber-side-of-the-moon-bonus-track-version/393668042" >}}
+
+
 
 
 

@@ -161,8 +161,12 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0zL2nmuAvTxYOdQ5iqTTIV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/brilliant-adventure-1992-2001/1589252338" >}}
+
+
 
 
 

@@ -40,6 +40,13 @@ styles: ["Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-ultimate-collection/1143692008" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

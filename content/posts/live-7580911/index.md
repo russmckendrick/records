@@ -37,8 +37,12 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="37fTC5eDweVZHPo01f0EUd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-n-e-c/1442835222" >}}
+
+
 
 
 

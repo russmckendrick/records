@@ -34,8 +34,12 @@ styles: ["House", "Techno", "Electro", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6NYyISRJeOlJ1IldQtNvMw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tour-de-france-remastered/726341054" >}}
+
+
 
 
 

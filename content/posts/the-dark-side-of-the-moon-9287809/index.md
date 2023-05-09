@@ -32,9 +32,18 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4LH4d3cOWNNsVw41Gqt2kv" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-50th-anniversary-2023-remaster/1664429596" >}}
+
+
+
+
+
+## Videos
+### Pink Floyd - Dark Side Of The Moon
+{{< youtube id="DLOth-BuCNY" title="Pink Floyd - Dark Side Of The Moon" >}}<br>
 
 
 

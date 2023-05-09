@@ -31,8 +31,12 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5GzKYZDoiVimgFXDOdLwZh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/radiation-2013/1328434526" >}}
+
+
 
 
 

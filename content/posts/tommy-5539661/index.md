@@ -46,8 +46,12 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5cT7ee1sy2oEbFalP4asS4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tommy/1461210985" >}}
+
+
 
 
 

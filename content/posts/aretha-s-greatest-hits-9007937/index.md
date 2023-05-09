@@ -36,6 +36,15 @@ styles: ["Soul"]
 <!-- section break -->
 
 
+This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/30-greatest-hits/933578756" >}}
+
+
+
 
 
 ## Videos

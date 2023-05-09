@@ -49,8 +49,12 @@ styles: ["Prog Rock", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4WA0COIl14e6amUlwz89pN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/epicloud/1045671472" >}}
+
+
 
 
 

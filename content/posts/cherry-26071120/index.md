@@ -28,6 +28,13 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/curva-cereza-single/1514226691" >}}
+
+
+
+
+
 ## Videos
 ### Curve - I speak your every word
 {{< youtube id="OTUS6N9OWYY" title="Curve - I speak your every word" >}}<br>

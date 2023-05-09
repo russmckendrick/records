@@ -34,8 +34,12 @@ styles: ["Prog Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2oWXmi9uLRKn60yRmY22MB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-keeping-secrets-of-silent-earth-3/365400149" >}}
+
+
 
 
 

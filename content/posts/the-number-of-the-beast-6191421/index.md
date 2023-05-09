@@ -30,8 +30,14 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="33d72N71hl9bXwT4zAcqUy" width="100%" height="500" >}}
+Original lead singer Paul Di’Anno left Iron Maiden after their 1981 world tour. His replacement—Bruce Dickinson—proved more than up for the job. Bassist and chief songwriter Steve Harris caught lightning in a bottle with a collection of tunes that became cornerstones of the Maiden catalog. There isn’t a weak song here. The title track and “Run to the Hills” are crowd-pleasers while “Children of the Damned,” “The Prisoner,” and “Hallowed Be Thy Name” are exemplary displays of the group’s instrumental prowess, its uncanny knack for writing accessible riffs, and a perfect launchpad for Dickinson’s commanding operatic vocal style.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-number-of-the-beast/979953728" >}}
+
+
 
 
 

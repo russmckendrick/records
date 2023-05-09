@@ -40,8 +40,15 @@ styles: ["Grunge", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5pd9B3KQWKshHw4lnsSLNy" width="100%" height="500" >}}
+Written largely during sound checks while Pearl Jam toured behind 1993’s <i>Vs.</i>, <i>Vitalogy</i> is, above all else, the band’s first record with Eddie Vedder at the wheel. When he’d joined the Seattle outfit a few years earlier—a surfer from San Diego who’d auditioned long-distance via cassette tape—Vedder hadn’t expected to become a celebrity or the face of a supposed cultural revolution. <i>Vitalogy</i> (which was originally titled <i>Life</i>) finds him responding to the pressures of mainstream success by asserting control over the one thing he could: music.<br />
+When Stone Gossard, the band’s chief songwriter up to that point, presented him with a characteristically midtempo demo—lead single “Spin the Black Circle”, an ode to vinyl that couldn’t have been less en vogue in 1994—Vedder returned it a day later at twice the speed. That tension can be felt throughout <i>Vitalogy</i>. From wilfully difficult experiments (never forget “Stupid Mop”, an eight-minute outro of improvised noise and the voices of psychiatric hospital patients he'd recorded from TV as a teenager) to white-knuckle triumphs like “Corduroy” and “Not for You”, Vedder's contributions formed a clear line in the sand: This is how things are gonna go from here on out, and with any luck, not everybody's gonna like it. Even “Better Man”—a song Vedder wrote in the '80s that had been left off of <i>Vs.</i>—came very close to being left out again because it was simply too palatable. Though the album would top the charts upon its release—exclusively on vinyl for the first two weeks—<i>Vitalogy</i> marked Pearl Jam's first real turn inward. But by insisting they retreat at the height of their fame, Vedder ensured that they'd never be crushed by it—a gambit that's still paying off decades later.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vitalogy-expanded-edition/426356461" >}}
+
+
 
 
 

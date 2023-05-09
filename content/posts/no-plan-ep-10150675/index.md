@@ -26,8 +26,14 @@ styles: ["Art Rock", "Jazz-Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2zhmNj7DAfoHCLrApo7ipN" width="100%" height="500" >}}
+It’s impossible to hear <i>No Plan</i> as anything but Bowie confronting his terminal diagnosis—it opens with a revamp of <i>Blackstar</i>’s “Lazarus” and the lines, “Look up here, I’m in heaven”; in “No Plan”, his lack of regrets untethers him from earthly concerns. The proggy guitar of “Killing a Little Time” emphasises his rage, yet the rapturous intensity of “When I Met You” celebrates the great love who rearranged his soul. Sublime.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-plan-ep/1191638191" >}}
+
+
 
 
 

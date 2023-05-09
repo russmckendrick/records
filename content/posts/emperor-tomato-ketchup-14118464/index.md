@@ -51,8 +51,15 @@ styles: ["Indie Rock", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2AJqzRQltkneduxKsqmgYJ" width="100%" height="500" >}}
+One of Stereolab’s biggest contributions to the conversation was to prove that great music was less about developing new ideas than about rearranging old or forgotten ideas in wholly new ways. They weren’t alone, of course: The ’90s gave us artists like Air, Saint Etienne, Beck and dozens of others who made art from history’s trash and yoked together styles that felt like they belonged in different galaxies. (The sampled collages of hip-hop count here too—in all cases, it’s music, in part, about listening to music.)<br />
+Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ketchup</i>. Even as the band evolved (the jazzy density of “Cybele’s Reverie”, the off-kilter precision of “Motoroller Scalatron”), they retained a toylike charm, a scrappiness that made even their most complex tracks sound punk, the joyful noise of kids next door. They could make their biggest lyrical ideas sound fun (“Motoroller Scalatron” describes the material organisation of society, “Les Yper Sound” allegorises war as sport), and their chintziest musical ones sound not only sophisticated—because you only need so much sophistication—but approachable, music for and by the people. The overall sense—and the great charm of the band in general circa <i>Emperor Tomato Ketchup</i>—was that they felt utterly like a band, weirdos whose tendencies might have cast them out from society at large but who found strength and family in each other. You don’t just listen to <i>Emperor Tomato Ketchup</i>, you vote for it.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/emperor-tomato-ketchup/1230526714" >}}
+
+
 
 
 

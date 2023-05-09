@@ -35,10 +35,23 @@ styles: ["Leftfield", "Downtempo", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5xLWMLXJBEnmw5SEpvjpTp" width="100%" height="500" >}}
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/exciter-deluxe/1174248501" >}}
+
+
+
+
+
+## Videos
+### Depeche Mode - One Night in Paris - The Exciter Tour 2001
+{{< youtube id="WtxyqQ3y5D4" title="Depeche Mode - One Night in Paris - The Exciter Tour 2001" >}}<br>
+
+### More Videos
+
+- [Depeche Mode - Dream On (Official Video)](https://www.youtube.com/watch?v=7dgrMSTalZ0)
+- [Depeche Mode - Freelove (Official Video)](https://www.youtube.com/watch?v=xZ3nJ6KhWOo)
 
 
 ## Release Information

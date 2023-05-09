@@ -38,8 +38,12 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6F17MbloTeRoXs7JI3lTHy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/real-gone-remastered/1485070843" >}}
+
+
 
 
 

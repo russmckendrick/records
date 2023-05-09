@@ -35,6 +35,13 @@ styles: ["Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bridge-of-spies/1442998643" >}}
+
+
+
+
+
 ## Videos
 ### T'Pau - Heart And Soul (Official Video)
 {{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul (Official Video)" >}}<br>

@@ -34,8 +34,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5dkglmRYnnvIxZSR5hJcNT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983" >}}
+
+
 
 
 

@@ -32,8 +32,14 @@ styles: ["Folk Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4A366gjTrYQwmRtkTezF2W" width="100%" height="500" >}}
+A jazz-pop sheen and genuine sense of reflection cut across Simon’s 1975 album. The lush title track and scatty wordplay of “50 Ways to Leave Your Lover” find him documenting acute mid-life crises, while on “My Little Town” he and Art Garfunkel harmonize over a melancholy reminiscence of childhood.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/still-crazy-after-all-these-years-bonus-tracks-edition/380590574" >}}
+
+
 
 
 

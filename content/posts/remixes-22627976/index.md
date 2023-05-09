@@ -41,8 +41,12 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5FvNOnZtP0dQKZbDQ1uhGy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/remixes/1545401738" >}}
+
+
 
 
 

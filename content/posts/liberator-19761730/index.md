@@ -34,8 +34,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0xAbHDjFGLyK4vz9ZYTop7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/liberator/728324593" >}}
+
+
 
 
 

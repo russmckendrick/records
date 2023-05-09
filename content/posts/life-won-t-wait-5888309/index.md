@@ -44,8 +44,12 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="410JU10vru3pFk7f7vA94E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/life-wont-wait/1485036889" >}}
+
+
 
 
 

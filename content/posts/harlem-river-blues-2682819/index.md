@@ -33,8 +33,14 @@ styles: ["Country", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0hihWmULfM5FNgrS7NOXjN" width="100%" height="500" >}}
+Justin Townes Earle has quite a legacy to live up to. His father is Steve Earle and he was named in part after the late, great legendary songwriter Townes Van Zandt. With those influences of artistic purity looking over his shoulder, Earle sticks to roots music where a Hammond B-3 sounds perfectly at home. “Move Over Mama” is the perfect example of Earle’s sincerity towards old forms. It’s a rockabilly number that sounds like it could’ve been recorded in the 1950s with its cloudy reverb and slapping acoustic bass. “Workin’ for the MTA” sounds like an old country music mountain ballad. “Wanderin’” is the Woody Guthrie-like tune Bob Dylan chased as a young man. “Slippin’ and Slidin’” adds some gritty guitar and R&B horns to Earle’s high lonesome vocals. “Christchurch Woman” is a gripping love song that could’ve been written and performed by his father. “Learning to Cry” sounds like a great tune for Roy Orbison to sing. As it stands, they’re all great tunes from a promising young talent who, unlike many flavors of the month, should be with us for years to come.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/harlem-river-blues/387455658" >}}
+
+
 
 
 

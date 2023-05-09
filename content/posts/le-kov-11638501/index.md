@@ -32,8 +32,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3iVFjOB6CU7WBxMssF5RlN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/le-kov/1316525300" >}}
+
+
 
 
 

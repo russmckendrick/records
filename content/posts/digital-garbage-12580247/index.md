@@ -33,8 +33,12 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5VfPuzaqpBlazZKCz1ai2w" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/digital-garbage/1399701869" >}}
+
+
 
 
 

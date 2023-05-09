@@ -32,8 +32,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0Ctt9npqW0LHlzoTyNszTy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/astragal/1171757044" >}}
+
+
 
 
 

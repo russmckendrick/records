@@ -35,8 +35,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ndGMh4twJNzPpr5XtHTR2" width="100%" height="500" >}}
+Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to the internet. There’s nothing <i>quite</i> so radical about their debut, which fuses a punk snarl with the sharp tunes and agitated rhythms of New Wave, but it’s delivered with such invigorating panache that every note sounds fresh. The clincher is Alex Turner, who can carve knowing vignettes from any situation—whether he’s idly fantasising in a checkout queue (“I Bet You Look Good on the Dancefloor”) or, on “Mardy Bum”, lamenting a girlfriend’s volatile mood (“I see your frown and it’s like looking down the barrel of a gun.”)
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whatever-people-say-i-am-thats-what-im-not/111153953" >}}
+
+
 
 
 

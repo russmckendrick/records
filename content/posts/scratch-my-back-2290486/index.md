@@ -34,10 +34,32 @@ styles: ["Experimental", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6UvXlXqOAFv49ePZ22kEyn" width="100%" height="500" >}}
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/scratch-my-back/989290344" >}}
+
+
+
+
+
+## Videos
+### Peter Gabriel - Heroes
+{{< youtube id="LsvuipGq2ns" title="Peter Gabriel - Heroes" >}}<br>
+
+### More Videos
+
+- [The Boy In The Bubble](https://www.youtube.com/watch?v=hEDU0UOZJec)
+- [Mirrorball](https://www.youtube.com/watch?v=kEIyipWrKYo)
+- [Flume](https://www.youtube.com/watch?v=mbqaf0mWIzY)
+- [Listening Wind](https://www.youtube.com/watch?v=bvyu1E-1hCg)
+- [The Power Of The Heart](https://www.youtube.com/watch?v=ArK62jJAM1g)
+- [My Body Is A Cage](https://www.youtube.com/watch?v=zbpZFvrerHM)
+- [The Book Of Love (Remix)](https://www.youtube.com/watch?v=XZLZMUB7bYA)
+- [I Think It's Going To Rain Today](https://www.youtube.com/watch?v=TBjHQ4tcH7Q)
+- [Apres Moi](https://www.youtube.com/watch?v=BDiit_-LzvA)
+- [Street Spirit (Fade Out)](https://www.youtube.com/watch?v=AiZ3PWGA3uw)
+- [Peter Gabriel - Heroes (Live in Verona 2010)](https://www.youtube.com/watch?v=wSX9F6ETTDQ)
 
 
 ## Release Information

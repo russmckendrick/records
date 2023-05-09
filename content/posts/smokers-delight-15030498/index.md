@@ -39,8 +39,12 @@ styles: ["Trip Hop", "Dub", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3stVzMomzhVGw0prDxLY0K" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/smokers-delight-digital-deluxe/1498226874" >}}
+
+
 
 
 

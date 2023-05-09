@@ -31,8 +31,12 @@ styles: ["Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="65KwtzkJXw7oT819NFWmEP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-race-for-space/947928979" >}}
+
+
 
 
 

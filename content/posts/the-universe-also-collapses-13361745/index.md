@@ -26,8 +26,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7226guTxXx7gkwbUgh7Zjz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-universe-also-collapses/1453425781" >}}
+
+
 
 
 

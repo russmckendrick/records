@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4XKvqhpEPobqCV9Q4zfbSp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}
+
+
 
 
 

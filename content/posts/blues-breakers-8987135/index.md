@@ -34,8 +34,14 @@ styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4bSvzPMgzwvfqHAbcWG88o" width="100%" height="500" >}}
+Eric Clapton was a rising star when he recorded this potent and scruffy album with British blues singer/songwriter John Mayall in 1966. Mayall’s tunes, including the brass-fortified “Key to Love,” the slow-burning “Double Crossing Time,” and barroom rave-up “Little Girl,” lift on Clapton’s fluid, gritty licks. The band channels some Beatles on Ray Charles’ R&B standard “What’d I Say,” before tackling with noisy accuracy Mose Allison and Bukka White’s gnarly prison anthem “Parchman Farm.” Meanwhile, Clapton makes his lead-vocal debut on a languorous rendition of Robert Johnson’s “Ramblin’ on My Mind.” 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blues-breakers-with-eric-clapton/1434913344" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0UM9SydcBtsklCTFgGLvcT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/212579326" >}}
+
+
 
 
 

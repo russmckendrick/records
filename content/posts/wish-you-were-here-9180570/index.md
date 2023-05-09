@@ -27,8 +27,14 @@ styles: ["Art Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0bCAjiUamIFqKJsekOYuRw" width="100%" height="500" >}}
+As sprawling as their earlier epic <i>The Dark Side of the Moon</i> yet more focused, this 1975 jewel featured lengthy, left-of-centre excursions (“Shine on You Crazy Diamond”) that were both majestic and reverent—along with a couple barbs thrown at the music industry ("Have a Cigar", "Welcome to the Machine"). It's also partly Pink Floyd’s anguished and glorious tribute to the gifted Syd Barrett—whose career with the band ended seven years earlier—and a moving set from top to bottom.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wish-you-were-here/704223460" >}}
+
+
 
 
 

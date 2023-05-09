@@ -44,6 +44,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/forever-delayed-the-greatest-hits/211440430" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

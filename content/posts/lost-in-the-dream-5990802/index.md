@@ -32,8 +32,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="51VxHZphGLsI7aUPqIkJaz" width="100%" height="500" >}}
+With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emotionally rich, guitar-driven grandeur that earned songwriter/bandleader Adam Granduciel accolades from far beyond his hometown scene in Philadelphia. The War on Drugs’ fourth full-length operates with a bigger, bolder agenda—evident in the clattering electronics and hypnotic production of the nearly nine-minute opener, “Under the Pressure”. From there, <i>Lost in the Dream</i> unfolds with warm, melancholic rock that combines Granduciel’s mystical tenor with a blurry haze of vintage synths, chiming guitars, horn accents and reverb-soaked ambience. Uptempo tracks like “Red Eyes” and “An Ocean in Between the Waves” juxtapose pulsing, mechanical backbeats with droning synths. Ballads, like the heartbreaking “Suffering” and the gently paced title track, float along in a beautiful fog. After <i>Lost in the Dream</i> closes with a couple of minutes of wordless feedback, the album leaves a hypnotic, lingering impression.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lost-in-the-dream/765568650" >}}
+
+
 
 
 

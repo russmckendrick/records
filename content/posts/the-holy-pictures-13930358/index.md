@@ -32,8 +32,12 @@ styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="49d0jWRrWych8cCvMKWM7E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-holy-pictures/1452866493" >}}
+
+
 
 
 

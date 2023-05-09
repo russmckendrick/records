@@ -32,8 +32,12 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5m3M1JEQCG0TsXW2z7S5Io" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/apricity/1442241018" >}}
+
+
 
 
 

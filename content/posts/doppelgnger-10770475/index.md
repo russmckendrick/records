@@ -34,6 +34,13 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009" >}}
+
+
+
+
+
 ## Videos
 ### Curve - Horror Head (4K Remaster)
 {{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head (4K Remaster)" >}}<br>

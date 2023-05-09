@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="14um9vHDZsoNRn28ymg9DQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/call-the-comet/1362676938" >}}
+
+
 
 
 

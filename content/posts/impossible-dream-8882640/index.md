@@ -32,8 +32,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="68TnN27IirILZwbJgqS0w8" width="100%" height="500" >}}
+Dustbowl ballads and hazily anthemic hymns to heartache have always been part of Haley Bonar’s DNA. But there’s the feeling of stars aligning on the Minnesotan’s sixth record. From the cowboy-booted stomp of “Hometown” and riff-borne punchlines of “Called You Queen” (“Excuse me sir, do you have a light? I know that I can be dark”), to the strange, punky storm that is “Kismet Kill”, this is a compact, complex revelation.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/impossible-dream/1106390964" >}}
+
+
 
 
 

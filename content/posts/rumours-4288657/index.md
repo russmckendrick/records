@@ -105,8 +105,14 @@ styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0BwWUstDMUbgq2NYONRqlu" width="100%" height="500" >}}
+Fleetwood Mac’s <i>Rumours</i> practically defined FM-radio in the late-‘70s. The group’s three main songwriters each carved out their territory as their romantic lives with each other were falling apart. Stevie Nicks had a touch of mystic (“Dreams”, “Gold Dust Woman”). Christine McVie wrote universal anthems (“Don’t Stop”, “Songbird”) and Lindsey Buckingham churned out dynamic pop confectionaries with undercurrents of emotional distress (“Second Hand News”, “Go Your Own Way”). Spinning tragedy into gold was clearly their specialty.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rumours/594061854" >}}
+
+
 
 
 

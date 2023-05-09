@@ -46,6 +46,13 @@ styles: ["Progressive Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116" >}}
+
+
+
+
+
 ## Videos
 ### VUUR - In This Moment We Are Free - Cities (Album Teaser)
 {{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities (Album Teaser)" >}}<br>

@@ -31,8 +31,14 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1vJ8rCzq6BJtKGz9Yf6oT3" width="100%" height="500" >}}
+Inspired by the possibilities of digital technology and the audacious rhythms of Brazil and Africa, Peter Gabriel invigorated pop music with 1986’s <i>So</i>. “Sledgehammer” is a James Brown groove reinforced with juicy synths and hard-hitting drum machines. While that song highlights Gabriel’s most soulful singing, his husky voice materialises like a beam of light through the roiling pulses of “Red Rain”. The duelling currents of tension and comfort merge on “In Your Eyes”, a love song so pure in its intentions that its intricate machinery becomes almost invisible.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/so/986800858" >}}
+
+
 
 
 

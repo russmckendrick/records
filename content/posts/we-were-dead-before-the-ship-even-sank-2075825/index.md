@@ -40,8 +40,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2lXBCL76UL5PCPbfAqKBkz" width="100%" height="500" >}}
+<i>We Were Dead Before the Ship Even Sank</i> is a gripping and satisfying recording, with skittering tempos, jerky rhythms, and delightful surprises around every quirky corner. Lead singer, guitarist, and gifted songwriter Isaac Brock sounds positively manic on the clattering “March Into the Sea.” A notable addition to the band on this recording is former Smiths guitarist Johnny Marr, whose chiming, lyrical style meshes beautifully with Brock’s jagged and idiosyncratic playing. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we-were-dead-before-the-ship-even-sank/216544035" >}}
+
+
 
 
 

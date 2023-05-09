@@ -33,8 +33,12 @@ styles: ["Downtempo", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1FCXtoqBqujb32C6ea37v0" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/we-can-create/757501669" >}}
+
+
 
 
 

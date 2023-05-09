@@ -28,8 +28,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2kgmLqUim1JdglABNIc5zn" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/good-vibrations-40th-anniversary-ep/716240038" >}}
+
+
 
 
 

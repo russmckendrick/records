@@ -40,6 +40,13 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/residue/1191817521" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

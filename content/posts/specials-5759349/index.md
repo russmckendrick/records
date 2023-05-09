@@ -36,8 +36,14 @@ styles: ["Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2OHPxPTasGkolt8lFDxCpE" width="100%" height="500" >}}
+Michael Bublé’s yuletide collection takes some of the season’s most popular songs and invests them with his own personal seal of companionship. He promises a swinging holiday, full of big-band sass. With Shania Twain, he tips his hat to The Drifters’ arrangement of “White Christmas”, while The Puppini Sisters help bring a touch of the boogie-woogie bugle boy to “Jingle Bells” and Thalia delivers a perfect “Feliz Navidad”. Bublé’s cover of Mariah Carey’s “All I Want for Christmas Is You” takes some chutzpah, but it’s a gift that keeps on giving.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/christmas-deluxe-special-edition/669831882" >}}
+
+
 
 
 

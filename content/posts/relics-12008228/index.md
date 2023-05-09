@@ -33,8 +33,15 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="361QTNnQcBcNJ38gn8ZWQw" width="100%" height="500" >}}
+Representing Pink Floyd's magical early period, <i>Relics</i> combines album cuts with non-LP singles and one previously unreleased tune, the hypnotic, jazzy "Biding My Time". Tuneful early hits "See Emily Play" and "Arnold Layne" overflow with psychedelic visionary Syd Barrett's eccentric brand of off-kilter genius, mixing British whimsy with trippy textures and an infectiously cracked pop sensibility. The rest of the compilation captures the band at their dreamiest and most melodic, proving that Floyd didn't have to be freaky to be fascinating.
+
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/relics/734655586" >}}
+
+
 
 
 

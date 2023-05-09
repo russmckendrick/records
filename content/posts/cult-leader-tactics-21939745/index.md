@@ -33,8 +33,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0uDGeRNJfliZQ2cUphDDjS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cult-leader-tactics/1588722385" >}}
+
+
 
 
 

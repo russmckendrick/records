@@ -32,8 +32,12 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1sBTE8pk2bYgcqI3C0xBnw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jurassic-shift/214136665" >}}
+
+
 
 
 

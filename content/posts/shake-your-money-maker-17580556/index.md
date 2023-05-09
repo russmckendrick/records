@@ -59,8 +59,12 @@ styles: ["Blues Rock", "Rock & Roll", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2NRRQLuW6j3EsoWpIl2MR3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/shake-your-money-maker/1440810644" >}}
+
+
 
 
 

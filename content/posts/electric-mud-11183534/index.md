@@ -30,8 +30,12 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4fOVcN7X7vQ8L41is621uJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/electric-mud/1440803762" >}}
+
+
 
 
 

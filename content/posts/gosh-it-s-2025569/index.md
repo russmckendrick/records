@@ -34,8 +34,12 @@ styles: ["Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7hj9olHsogggH66RRuLxwc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gosh-its/461069899" >}}
+
+
 
 
 

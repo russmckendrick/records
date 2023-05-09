@@ -44,6 +44,13 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-infant-freebase/64778945" >}}
+
+
+
+
+
 ## Videos
 ### The Soundtrack Of Our Lives - Embryonic Rendezvous
 {{< youtube id="2v6TpXXyIgE" title="The Soundtrack Of Our Lives - Embryonic Rendezvous" >}}<br>

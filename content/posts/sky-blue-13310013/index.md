@@ -33,8 +33,12 @@ styles: ["Country"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1qBsiIeOWm2cKStpqib9Me" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sky-blue/1446644374" >}}
+
+
 
 
 

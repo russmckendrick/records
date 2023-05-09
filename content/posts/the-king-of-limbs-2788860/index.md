@@ -30,8 +30,14 @@ styles: ["Abstract", "Downtempo", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3P17levwUPzmFfLYdAK3A7" width="100%" height="500" >}}
+If <i>In Rainbows</i>—with its direct, live-influenced songcraft and game-changing honesty box pricing—was Radiohead aligning two distinct visions of the band, this eighth record explores a third way. Concise, dance-indebted, and dripping nocturnal electronica, <i>The King of Limbs</i> sees them experiment with galloping loops (“Bloom”) and blippy production (“Morning Mr Magpie”). Still, their knack for affecting avant-rock is undimmed, and “Lotus Flower” is a spectral—and appropriately beautiful—career-high.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-king-of-limbs/1109714965" >}}
+
+
 
 
 

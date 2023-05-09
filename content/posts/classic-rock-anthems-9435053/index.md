@@ -42,8 +42,11 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6xhhCNbvErbq2yyRTU7CtS" width="100%" height="500" >}}
+
 
 
 

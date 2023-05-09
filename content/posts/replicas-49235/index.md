@@ -32,8 +32,12 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="14chsctrt7Rx38fQUbfqFz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}
+
+
 
 
 

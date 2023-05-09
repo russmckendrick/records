@@ -42,8 +42,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6PKN5bdQDvKjMoja6QQUC5" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-faces-good-boys-when-theyre-asleep/56208331" >}}
+
+
 
 
 

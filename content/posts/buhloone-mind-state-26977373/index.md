@@ -33,6 +33,17 @@ styles: []
 <!-- section break -->
 
 
+De La Soul’s third album, 1993’s <i>Buhloone Mindstate</i>, is a totem of hip-hop self-expression, the oft-quoted line from “In the Woods”—“Fuck being hard, Posdnuos is complicated”—serving as something between poetic exhale and mission statement. Enjoying a sunrise after the darkness of <i>De La Soul Is Dead</i>, the trio (on their final album with Prince Paul behind the decks) revels in the freedoms of jazz music (Maceo Parker, Fred Wesley and Pee Wee Ellis all provide support) and a border-free worldview. (“Long Island Wildin’” features rappers Scha Dara Parr and Takagi Kan, who rap in their native Japanese.)
+
+In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the road less travelled, staying true to themselves in an age of sellouts (“It might blow up, but it won’t go pop”) and crime-infatuated consumers (“I be the in ’cause the brother holdin’ Glocks is out/I be the in ’cause the pusher runnin’ blocks is out”). “I Am I Be” is a landmark moment of diaristic rap writing, where Posdnuos talks about label woes, rent troubles, racist America and the dissolution of the Native Tongues crew in one powerful, metaphor-filled verse.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/buhloone-mindstate/1664590204" >}}
+
+
+
 
 
 ## Videos

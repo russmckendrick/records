@@ -44,8 +44,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6MEBn5n2uktdaned7Zc91o" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-darkest-skies-are-the-brightest/1541054468" >}}
+
+
 
 
 

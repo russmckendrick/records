@@ -34,6 +34,13 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/koyo/1259107930" >}}
+
+
+
+
+
 ## Videos
 ### KOYO - Jettisoned (Official Video)
 {{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned (Official Video)" >}}<br>

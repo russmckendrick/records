@@ -31,8 +31,14 @@ styles: ["Southern Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1DQ6Hm6J2aIZ1SvGii3bzj" width="100%" height="500" >}}
+In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood and Mike Cooley expressed their concerns about the sharp political divides that cut across US racial and socioeconomic lines. Since then, those complex moral issues have only gotten worse—leaving the Southern rock band no other choice but to report back on what they’ve learned. Hood is responsible for the bulk of the songs: He speaks directly to his children on issues like gun violence (“Thoughts and Prayers”) and child separation federal policies (“Babies in Cages”), expressing regret over the mess they’ve inherited. Cooley is at his most serious-minded on the powerful “Grievance Merchants”, offering a pointed critique on the rise of white supremacist ideology. The melancholy, fiddle-laced “21st Century USA” continues the band’s MO of defending the working class, conjuring the image of an economically depressed rural county and the employees who deserve their fair share.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-unraveling/1487667655" >}}
+
+
 
 
 

@@ -34,8 +34,16 @@ styles: ["Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2W6MaUiInBkna5DfBES4E3" width="100%" height="500" >}}
+Of the albums that reshaped mainstream rock in 1991 (including Nirvana’s <i>Nevermind</i> and Pearl Jam’s <i>Ten</i>), <i>Badmotorfinger</i> is both the most traditional and the least accessible. The hallmarks of classic hard rock are there: big riffs, heavy rhythms, Chris Cornell’s tomcat shriek. But there’s an antisociality to it that, if not the residual influence of punk and hardcore, is at least the kind of thing you wouldn’t play at parties. Talking with Apple Music, guitarist Kim Thayil describes it as a question of function: Some hard rock you can listen to while playing sports, driving fast, making love. “With our records,” he says, “we wanted to make sure that there was some depth in there, that there was a psychedelic element.”<br />
+They’re qualities achieved through special effects (“Rusty Cage”), repetition (“Jesus Christ Pose”) and sheer inertia (“Slaves & Bulldozers”). And while the pedigree was underground, they conveyed enough conventional sex and danger to appeal to audiences who didn’t care about pedigree so long as they rocked—which they did, without irony or pretense. When Guns N’ Roses asked them to tour in 1991, they went. And when Skid Row asked them a year later, they went then, too. Soundgarden were an interesting band—but one determined not to let their interestingness get to them.<br />
+Though <i>Badmotorfinger</i> didn’t see the same phenomenal success that <i>Nevermind</i> and <i>Ten</i> did, it bridged a gap between underground and mainstream rock at a time when the nature of that gap was changing and the width of it narrowing. Looking back, Thayil is grateful: “They got all the attention,” he says. “Meanwhile, [we had] steady growth.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/badmotorfinger-25th-anniversary-remaster/1440890539" >}}
+
+
 
 
 

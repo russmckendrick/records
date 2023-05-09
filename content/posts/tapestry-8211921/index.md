@@ -36,8 +36,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="12n11cgnpjXKLeqrnIERoS" width="100%" height="500" >}}
+Difficult as it may be, imagine for a minute that <i>Tapestry</i> wasn’t one of the most successful albums in music history; that it wasn’t a defining touchstone for both the boomer generation and the singer/songwriter movement. Freed from all the baggage, Carole King’s second album <i>still</i> overflows with emotionally honest, subtly soulful singing; masterfully written tunes that blend pop, folk, and R&B; and warm, organic but seamless production. But it’s the unguarded intimacy of <i>Tapestry</i> we love most, particularly on highlights like “It’s Too Late” and “You’ve Got a Friend."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tapestry/747087657" >}}
+
+
 
 
 

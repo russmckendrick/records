@@ -35,6 +35,13 @@ styles: ["Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-the-right-noises/1543696882" >}}
+
+
+
+
+
 ## Videos
 ### Thunder - Last One Out Turn Off The Lights (Official Video)
 {{< youtube id="AWWZ38bQYZg" title="Thunder - Last One Out Turn Off The Lights (Official Video)" >}}<br>

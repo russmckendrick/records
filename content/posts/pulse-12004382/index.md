@@ -49,8 +49,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1uSpngQgBBgwRFYS5sOdqI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pulse-live-2018-remaster/1592552392" >}}
+
+
 
 
 

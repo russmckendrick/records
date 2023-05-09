@@ -40,8 +40,11 @@ styles: ["Acoustic", "Psychedelic Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6DX4SASj4jxDSTPq9vz3RL" width="100%" height="500" >}}
+
 
 
 

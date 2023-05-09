@@ -38,8 +38,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4sD5ykdDoniE85pwTz0Hz6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-unravelling/1049125354" >}}
+
+
 
 
 

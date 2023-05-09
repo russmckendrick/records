@@ -31,8 +31,14 @@ styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3edtzsZ1ykjQmc43fprRtJ" width="100%" height="500" >}}
+If a novice or a casual fan is seeking an introduction to—or a brief summary of—one of rock 'n' roll's legendary bands, this 2003 Dead collection does a satisfactory job of going over the "hits" for a group not often overly concerned about its hitmaking potential. Throwing 1987's "Touch of Grey" into the second position refutes chronology in favor of a sequence that plays like a natural album. Five tracks here are from the excellent 1970 album <i>American Beauty</i>, with the remainder coming from across the band's career, regardless of the labels that first issued the material. Deadheads will insist that even a casual fan should own a half-dozen live albums to better understand the band's dynamic, and that's not a bad idea for someone wishing to better know the Dead. However, most people looking for familiar songs will be satisfied: "Truckin'," "Sugar Magnolia," "Casey Jones," "Uncle John's Band," and "Friend of the Devil," for starters, are all classic rock 'n' roll.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-grateful-dead/663694969" >}}
+
+
 
 
 

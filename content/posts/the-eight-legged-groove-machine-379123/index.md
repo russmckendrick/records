@@ -38,8 +38,12 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1b06Wg1DES4MExc3BgJsDf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-eight-legged-groove-machine-remastered/1444101451" >}}
+
+
 
 
 

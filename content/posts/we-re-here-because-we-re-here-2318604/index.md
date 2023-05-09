@@ -34,6 +34,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/were-here-because-were-here/369025308" >}}
+
+
+
+
+
 ## Videos
 ### Anathema - Thin Air (lyrics)
 {{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air (lyrics)" >}}<br>

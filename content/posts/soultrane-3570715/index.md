@@ -28,8 +28,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7pU5qUNqbOMToIyqzF0Nmg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/soultrane-remastered/1440948339" >}}
+
+
 
 
 

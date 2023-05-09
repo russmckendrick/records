@@ -34,8 +34,12 @@ styles: ["Prog Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5S6piLR8OYNymGIApEC6k4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-later-years-1987-2019/1477509316" >}}
+
+
 
 
 

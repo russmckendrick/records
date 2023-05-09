@@ -38,8 +38,14 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0DBkFC6739trhCoVreZyds" width="100%" height="500" >}}
+Released a year before Blur would face off against Oasis in the mid-'90s Battle of Britpop, the group's third album showcases the wit at the heart of their music. The sassy, disco-tinged "Girls and Boys" sets the tone, as jaunty guitar and keyboard riffs mesh with Damon Albarn's flirty vocals. Meanwhile, the melancholic "End of a Century" brings a wistful, Kinks-like touch. But it's the iconic title track, complete with actor Phil Daniels' chirpy Cockney monologues in the verses, that defines its era.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/parklife/699665183" >}}
+
+
 
 
 

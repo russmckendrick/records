@@ -38,6 +38,13 @@ styles: ["Hard Rock", "Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/backstreet-symphony/693198536" >}}
+
+
+
+
+
 ## Videos
 ### Thunder - She's so fine
 {{< youtube id="RprKusE4DF8" title="Thunder - She's so fine" >}}<br>

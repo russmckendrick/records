@@ -38,8 +38,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1j57Q5ntVi7crpibb0h4sv" width="100%" height="500" >}}
+Released just months after The Smiths’ debut album, this collection of non-LP B-sides and singles finds Morrissey and guitarist Johnny Marr brilliantly blending deceptively simple motifs with literate, trenchant lyrics. From the anthemic art-pop of “How Soon Is Now?” to the cockeyed, quasi-R&B of “This Night Has Opened My Eyes”, every song here is hummable and melancholic in equal measure. Unquenchable yearning on “Please, Please, Please Let Me Get What I Want”, the ironic narcissism of “Heaven Knows I’m Miserable Now”—the moods and themes gel effortlessly too.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hatful-of-hollow/799969670" >}}
+
+
 
 
 

@@ -30,8 +30,12 @@ styles: ["Dub", "Synth-pop", "Disco"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5WKUL88usO5Y8cfbh2EQdu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tom-tom-club-deluxe-version/1443455978" >}}
+
+
 
 
 

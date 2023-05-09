@@ -31,8 +31,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7DbpWj9i5uZ1UggeGRo1LZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/some-great-reward-deluxe-edition/665413158" >}}
+
+
 
 
 

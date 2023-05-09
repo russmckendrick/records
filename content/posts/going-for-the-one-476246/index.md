@@ -27,8 +27,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2U4JHXMiBxsKH4dnYEQg2g" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/going-for-the-one-deluxe-edition/1082014857" >}}
+
+
 
 
 

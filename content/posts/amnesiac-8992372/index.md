@@ -33,8 +33,14 @@ styles: ["Alternative Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1HrMmB5useeZ0F5lHrMvl0" width="100%" height="500" >}}
+Having bloomed from the same recording sessions as <i>Kid A</i>, Radiohead’s fifth album offers an alternate angle on the restive experimentation of their post-‘90s phase. <i>Amnesiac</i> undoubtedly shares its predecessor’s electronic digressions (“Like Spinning Plates”) and jazz flourishes (most potently on the tumbling, percussive “Dollars & Cents”). But it also offers something even more challenging, replete with crumbling orchestral builds and—as on the plaintive “Morning Bell/Amnesiac”—invigorating bursts of Thom Yorke’s matchless falsetto.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/amnesiac/1097864180" >}}
+
+
 
 
 

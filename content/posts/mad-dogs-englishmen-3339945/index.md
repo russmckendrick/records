@@ -41,8 +41,12 @@ styles: ["Blues Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7kXPAQK9SXrGuvvfjjsEjN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen-live-at-the-fillmore-east-1970-reissue/1423706584" >}}
+
+
 
 
 

@@ -36,6 +36,13 @@ styles: ["Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/psychic-warfare/1675774664" >}}
+
+
+
+
+
 ## Videos
 ### Clutch - X-Ray Visions
 {{< youtube id="X8cmbmwFAl8" title="Clutch - X-Ray Visions" >}}<br>

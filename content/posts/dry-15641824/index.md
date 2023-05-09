@@ -33,8 +33,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="08Plby1CLD0UNgChnPD8lo" width="100%" height="500" >}}
+As a female songwriter addressing gender politics in the early ’90s, Polly Harvey drew comparisons to the Riot Grrrl movement. If this 1992 debut suggests any of her contemporaries though, it’s Nirvana with its bruising riffs, pop hooks and vocals that mine an impassioned yet vulnerable soul. Otherwise, this concoction of sensuality and spikiness seeded into blues, folk and post-punk is remarkably singular. “Dress and “Sheela-Na-Gig” are exhilarating in melody and power, while “Plants and Rags” proves that even ballads can have thrillingly sharp edges.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dry/1450131752" >}}
+
+
 
 
 

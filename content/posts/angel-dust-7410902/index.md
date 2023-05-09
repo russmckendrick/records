@@ -46,8 +46,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4cg5GrTMewtbntkO84uE2k" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/angel-dust/184672979" >}}
+
+
 
 
 

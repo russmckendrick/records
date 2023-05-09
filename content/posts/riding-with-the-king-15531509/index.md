@@ -36,6 +36,15 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 
+<i>Riding With the King</i> is the sound of two roosters scratching, crowing and strutting around the henhouse. King and Clapton whip up loads of crying guitar genius, like the licks they trade on “Three O’Clock Blues” and “When My Heart Beats Like a Hammer”. The pair also have a blast sharing the mic. King even gets his English protégé to unleash a Memphis growl in the midst of a soul-funk version of Sam & Dave’s “Hold On! I’m Comin’”. Slowhand never sounded so wild.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/81873725" >}}
+
+
+
 
 
 

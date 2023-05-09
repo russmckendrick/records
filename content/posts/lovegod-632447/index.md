@@ -33,8 +33,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Q5U6UHrFKiz7Ovg97pMlQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lovegod-deluxe-remastered/1444082369" >}}
+
+
 
 
 

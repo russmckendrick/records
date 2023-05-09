@@ -63,8 +63,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6pLUd5MUqSi2rBKyUV7ICa" width="100%" height="500" >}}
+This collection, curated by Sir Paul, proves there are second and third acts in life. <i>Pure McCartney</i> highlights his solo works from his 1970 debut to 2015. There are plenty of curios mixed in with the hits—too many here to mention—presenting a comprehensive, well-balanced road map of the legend’s long and winding career.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pure-mccartney-deluxe-edition/1440951787" >}}
+
+
 
 
 

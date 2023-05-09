@@ -34,6 +34,13 @@ styles: ["Alternative Rock", "Leftfield"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/274003120" >}}
+
+
+
+
+
 ## Videos
 ### Death In Vegas - Scorpio Raising ft. Liam Gallagher
 {{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}<br>

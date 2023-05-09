@@ -37,8 +37,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6N1YMrQifhHLD4Bmqry5CT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/marbles/1328777975" >}}
+
+
 
 
 

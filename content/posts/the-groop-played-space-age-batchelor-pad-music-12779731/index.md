@@ -32,8 +32,12 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="31HW3lvz4NXJLNK1TzdCRu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-groop-played-space-age-batchelor-pad-music/268672477" >}}
+
+
 
 
 

@@ -36,8 +36,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3pPyHBRk2RvmNn4Cg1Asv6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/new-adventures-in-hi-fi/1440951221" >}}
+
+
 
 
 

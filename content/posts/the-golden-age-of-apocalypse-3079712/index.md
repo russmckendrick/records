@@ -35,8 +35,12 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6pCLvgEb0INbO0WaN2Byyw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-golden-age-of-apocalypse/453767128" >}}
+
+
 
 
 

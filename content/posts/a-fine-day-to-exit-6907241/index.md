@@ -43,8 +43,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Z9hJQpO6d7hD1eKVLoYdq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-fine-day-to-exit-remastered/970425242" >}}
+
+
 
 
 

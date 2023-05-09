@@ -33,9 +33,18 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0lsSMm3rM4AQ3m9W9E8zU5" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/three-of-a-perfect-pair-expanded-edition/1090449276" >}}
+
+
+
+
+
+## Videos
+### King Crimson - Three Of A Perfect Pair
+{{< youtube id="QdMHy074kNc" title="King Crimson - Three Of A Perfect Pair" >}}<br>
 
 
 

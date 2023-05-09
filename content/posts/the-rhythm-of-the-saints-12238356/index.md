@@ -32,10 +32,32 @@ styles: ["Folk Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="08tZq3FDsspdU6ycn8Jl2o" width="100%" height="500" >}}
+On his proper follow-up to <i>Graceland</i>, Simon introduces addictive Latin rhythms to sprightly West African guitars. Opening with the joyous massed drumming of “The Obvious Child,” from there he wields his soothing, conversational vocals to ponder modern life’s complexities, finding hope on the gospel-tinged “The Cool, Cool River.”
 
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-rhythm-of-the-saints-bonus-tracks-edition/380597264" >}}
+
+
+
+
+
+## Videos
+### Can't Run But
+{{< youtube id="znfNpN6rfoM" title="Can't Run But" >}}<br>
+
+### More Videos
+
+- [Paul Simon - Obvious Child (Official Video)](https://www.youtube.com/watch?v=9HKNAhAxMAk)
+- [Paul Simon - The Coast (Official Audio)](https://www.youtube.com/watch?v=1-tzfMr9E_Y)
+- [Paul Simon - Proof (Official Video)](https://www.youtube.com/watch?v=Z5Oh-GDikis)
+- [Further to Fly](https://www.youtube.com/watch?v=UU39FlPHNIM)
+- [She Moves On](https://www.youtube.com/watch?v=414FPXLWDVk)
+- [Paul Simon - Born at the Right Time (Official Audio)](https://www.youtube.com/watch?v=dxnYpg2wyiM)
+- [The Cool, Cool River](https://www.youtube.com/watch?v=gFmPrST-GUw)
+- [Spirit Voices](https://www.youtube.com/watch?v=Ntz9xrtAIXk)
+- [The Rhythm of the Saints](https://www.youtube.com/watch?v=-0MuckJUILs)
 
 
 ## Release Information

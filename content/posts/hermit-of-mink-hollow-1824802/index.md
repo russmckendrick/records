@@ -36,8 +36,12 @@ styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0X73YCfQ3IeOq7AnrePPzG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hermit-of-mink-hollow/1084058840" >}}
+
+
 
 
 

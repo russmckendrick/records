@@ -34,8 +34,14 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4jldY4eFDSoZua0KBCp6KH" width="100%" height="500" >}}
+<i>Prisoner</i> continues to refine the sound that Ryan Adams first explored with his 2014 self-titled album: a sure-handed mix of <i>Tunnel of Love</i>-era Springsteen, ‘80s college rock, and soft-focus synths. A track like “Anything I Say to You Now” illustrates how perfectly this formula suits him; a Smiths-esque jangle of guitars gives sentimental depth to his plain-spoken refrain, “Anything I say to you now is just a lie.” As he works through the rest of the emotional wreckage, highlights like "Shiver and Shake” prove that Adams’ poignancy as a songwriter can still bring us to our knees.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/prisoner/1440888762" >}}
+
+
 
 
 

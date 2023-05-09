@@ -32,15 +32,27 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="47fRf3JwriMUPPzFjdvNS6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/please-2018-remaster/1645128742" >}}
+
+
 
 
 
 ## Videos
-### Pet Shop Boys   Please Whole Album HQ 1986 #
-{{< youtube id="_KAGx_52PAg" title="Pet Shop Boys   Please Whole Album HQ 1986 #" >}}<br>
+### Pet Shop Boys - Opportunities
+{{< youtube id="di60NYGu03Y" title="Pet Shop Boys - Opportunities" >}}<br>
 
+### More Videos
+
+- [Pet Shop Boys   Please Whole Album HQ 1986 #](https://www.youtube.com/watch?v=_KAGx_52PAg)
+- [Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=p3j2NYZ8FKs)
+- [Pet Shop Boys - Opportunities (Let's Make Lots of Money) (Version 2) (HD)](https://www.youtube.com/watch?v=PyeWRd7ZEBs)
+- [Pet Shop Boys - Love Comes Quickly](https://www.youtube.com/watch?v=QHaA1beOwrY)
+- [Pet Shop Boys - Suburbia](https://www.youtube.com/watch?v=-VCqAjYO3NM)
+- [Pet Shop Boys - Suburbia (2003 Digital Remaster)](https://www.youtube.com/watch?v=oY7XObvKFx8)
 
 
 ## Release Information

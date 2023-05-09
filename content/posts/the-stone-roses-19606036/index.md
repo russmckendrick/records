@@ -35,8 +35,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0um9FI6BLBldL5POP4D4Cw" width="100%" height="500" >}}
+Few debuts have the consistency, surety and bewitching melody of this indie landmark. The Stone Roses’ fierce self-belief is well noted but it never descends into ugly hubris on a record that restored colour and swagger to late ’80s guitar music. In fact, the album’s great strength is its humanity as it portrays love (“She Bangs the Drums”), empathy (“Waterfall”), isolation (“Made of Stone”) and retribution (“Shoot You Down”). The music’s rooted in ’60s psychedelia but contemporary club culture and an ear for a groove synthesise spectacularly into beatific funk epic “Fools Gold”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-stone-roses-remastered/322969529" >}}
+
+
 
 
 

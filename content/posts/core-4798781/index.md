@@ -34,8 +34,14 @@ styles: ["Grunge", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5kxuokOacguIqDJRh1ZXRC" width="100%" height="500" >}}
+After shifting vocal duties over the years, rock legends Stone Temple Pilots have settled on a fresh direction after landing Jeff Gutt (of <i>The X Factor USA</i> fame) as their new leading man. Their powerful, self-titled seventh studio album—their first major release since 2013’s <i>High Rise</i>—delivers more of the turbulent, driving rock the band are known for, most notably on tracks “Roll Me Under” and “Meadow”. It’s not all in-your-face riffs, though—STP strip things back beautifully too, making way for the brilliant ballads “The Art of Letting Go” and “Thought She’d Be Mine”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stone-temple-pilots-2018/1340481443" >}}
+
+
 
 
 

@@ -55,8 +55,12 @@ styles: ["Art Rock", "Alternative Rock", "Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6ftJKeuvClf1axwHiVw0KA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-reality-tour-live/1676509044" >}}
+
+
 
 
 

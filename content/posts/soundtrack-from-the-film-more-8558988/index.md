@@ -35,6 +35,16 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
+Though it was officially a soundtrack for a rarely seen Barbet Schroeder film, <i>More</i> is a hugely important transitional album for Pink Floyd. Here the post-Syd Barrett lineup moves away from freeform psychedelia and masters song structure, while keeping their experimental edge. There's a lost classic in Roger Waters' soaring, spooky "Cymbaline", while "The Nile Song" is one of their heaviest rockers. But <i>More</i> mostly features the band's lyrical side: "Green Is the Colour" has to be the only Floyd song featuring a pennywhistle.
+
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/more-original-film-soundtrack/703496837" >}}
+
+
+
 
 
 

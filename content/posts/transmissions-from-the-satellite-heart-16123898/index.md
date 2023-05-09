@@ -33,8 +33,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0rr668ZzoNDQa1yxhSpBAw" width="100%" height="500" >}}
+An “alternative rock” band that actually does provide an alternative by utilizing the recording studio to its maximum advantage, Oklahoma’s Flaming Lips make moody, modern day psychedelia that’s weird, creepy and excitedly optimistic. “She Don’t Use Jelly” was the freak hit that finally put the band across to the mainstream. The band used this point of entry for maximum effect, landing themselves on <i>Beverly Hills 90210</i> and securing a devoted following with outlandish three-dimensional live performances. <i>Transmissions</i>, with new guitarist Ronald Jones and drummer Steven Drozd, showcases the band’s strengths, from the whiplash rock hysteria of the opener “Turn It On” to the mock-field recording rusticity of “Chewin’ the Apple of Your Eye,” (which actually sounds like a long-lost ‘60s outtake recovered from a worn bootleg LP). The group’s svengali Wayne Coyne is at full capacity, singing like a demented street performer to best camouflage the shockingly bubble-gum melodies underpinning these fancily adorned studio recordings (“Be My Head”). This is what you call ‘head’ music for people who upon turning on and tuning in, don’t choose to drop out. But instead opt to engage further.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/transmissions-from-the-satellite-heart/1231989623" >}}
+
+
 
 
 

@@ -52,8 +52,12 @@ styles: ["Industrial", "Electro"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7GbRsK5uQvjenixMQzz0mA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/welcome-oblivion/604859646" >}}
+
+
 
 
 

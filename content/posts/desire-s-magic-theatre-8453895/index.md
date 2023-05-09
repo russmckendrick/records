@@ -32,8 +32,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2fZ5Aphgy3IhGGsT66ZEYu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/desires-magic-theatre/1443009179" >}}
+
+
 
 
 

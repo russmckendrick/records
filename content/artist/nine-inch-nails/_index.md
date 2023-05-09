@@ -2,4 +2,5 @@
 title: "Nine Inch Nails"
 summary: "Industrial rock band Nine Inch Nails was formed in 1988 by in Cleveland, Ohio. Reznor has served as the main producer, singer, songwriter, instrumentalist, and sole member of Nine Inch Nails for 28 years. This changed in December 2016 when officially became the second member of the band. Nine Inch Nails straddles a wide range of many styles of rock music and other genres that require an electronic sound, which can often cause drastic changes in sound from album to album. However NIN albums in general have many identifiable characteristics in common, such as recurring leitmotifs, chromatic melodies, dissonance, terraced dynamics and common lyrical themes. Nine Inch Nails is most famously known for the melding of industrial elements with pop sensibilities in their first albums. This move was considered instrumental in bringing the industrial genre as a whole into the mainstream, although genre purists and Trent Reznor alike have refused to identify NIN as an industrial band."
 image: "nine-inch-nails.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/nine-inch-nails/107917"
 ---

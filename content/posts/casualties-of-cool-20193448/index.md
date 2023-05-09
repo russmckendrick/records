@@ -54,6 +54,13 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/casualties-of-cool-deluxe-version/865501059" >}}
+
+
+
+
+
 ## Videos
 ### CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)
 {{< youtube id="L2avV9ZGE3A" title="CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)" >}}<br>

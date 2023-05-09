@@ -25,8 +25,12 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0u0CJa9zwFbGSU8JWQYS5G" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/love-will-tear-us-apart-single/429822858" >}}
+
+
 
 
 

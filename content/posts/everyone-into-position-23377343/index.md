@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3ZveR9515NaBOT7w4hMre6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everyone-into-position/1136804665" >}}
+
+
 
 
 

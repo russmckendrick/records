@@ -37,8 +37,12 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="60f6ypxsKLEemkp4216Ood" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mandy-original-motion-picture-soundtrack-deluxe/1409930378" >}}
+
+
 
 
 

@@ -35,8 +35,12 @@ styles: ["Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0YOlpbeUweZWajP4nUcFAm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pasar-de-las-luces/1608120869" >}}
+
+
 
 
 

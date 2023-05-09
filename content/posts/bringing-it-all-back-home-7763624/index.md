@@ -33,8 +33,14 @@ styles: ["Folk Rock", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1lPoRKSgZHQAYXxzBsOQ7v" width="100%" height="500" >}}
+You can tell Bob Dylan knew he’d found greatness by blending folk and rock ’n’ roll. Tracks such as “Subterranean Homesick Blues” and “Maggie’s Farm” rollick, while love songs like “She Belongs to Me” still show Dylan’s capacity for tenderness, even when backed by drums and electric guitars. The “folk” tunes here are extraordinary—from the childlike wonder of “Mr. Tambourine Man” to the poignant reflection of “It’s All Over Now, Baby Blue”—Dylan’s words are more enigmatic than ever before, yet more clear-eyed and meaningful too.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bringing-it-all-back-home/177964575" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Puz2Otjvfmcza22endA13" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827" >}}
+
+
 
 
 

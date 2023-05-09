@@ -31,8 +31,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3AK4qpcQtgygEHLRvRWn5q" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/second-nature-deluxe-edition/1600467187" >}}
+
+
 
 
 

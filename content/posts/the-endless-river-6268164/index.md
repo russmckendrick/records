@@ -40,8 +40,12 @@ styles: ["Prog Rock", "Ambient", "Art Rock", "Instrumental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0yU7VItpGPmPcvKmwLg0JT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-endless-river/919664303" >}}
+
+
 
 
 

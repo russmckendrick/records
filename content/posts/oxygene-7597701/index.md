@@ -28,8 +28,14 @@ styles: ["Synth-pop", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3e7TxckusgnC1AYnAqbl2z" width="100%" height="500" >}}
+Space: the final frontier. And also, in Jean Michel Jarre's case, the beginning of a wildly successful career as one of electronic music's best-selling artists. Close your eyes, and the French musician's 1977 debut album doubles as an intergalactic trip, with soaring synthesiser melodies and bubbling arpeggios serving as a kind of imaginary flight simulator. Lush and melodramatic, <i>Oxygène</i> set the standard for electronic prog, paving the way for Tiësto's world-conquering trance and Hudson Mohawke's giddy maximalism.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/oxyg%C3%A8ne/1027735862" >}}
+
+
 
 
 

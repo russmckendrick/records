@@ -34,8 +34,12 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6BN0KczNzSrfmKoQzd6lMS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/half-the-city/1533050536" >}}
+
+
 
 
 

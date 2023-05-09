@@ -31,8 +31,12 @@ styles: ["Leftfield", "Downtempo", "Ethereal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6cJfHiiiH0fH6Ly5uRE902" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/felt-mountain/1143696168" >}}
+
+
 
 
 

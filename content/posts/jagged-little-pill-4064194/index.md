@@ -34,8 +34,16 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Ap3F8CxjjsQKZGASDcHNA" width="100%" height="500" >}}
+Everyone has a moment on <i>Jagged Little Pill</i> that they feel like they belong to—a spitting wisecrack or rhetorical question that struck a nerve early on and continued to reveal its wisdom with age, time and experience. Alanis Morissette’s era-defining album is full of these moments—snarling, eye-rolling, ugly truths that feel so good to say out loud. Like Morissette, whose arrival bridged the gap between grunge, alternative and mainstream pop, much of the album’s enduring magnetism is in its embrace of chaos and contradiction. Her blockbuster third LP (following two teen-pop records that went Top 40 in her native Canada) was poetic and straightforward, cynical and idealistic, sarcastic and wide-eyed, lost but hopeful (baby!). It is also fearlessly confrontational, with sharp-edged criticisms of Catholicism, technology and boyish men that few artists since have had the guts to echo. So when the 21-year-old former Nickelodeon star released it in 1995 after being dropped by her label, MCA Canada, its fresh and unapologetic worldview just hit different.<br />
+Beneath the record's radio-friendly hooks and shiny harmonies were startling observations on the messiness and banality of life. Human weakness is a theme—she’s hyperactive and distracted on “All I Really Want”, disoriented by happiness on “Head Over Feet”—but then, so is strength. On “Not the Doctor”, she refuses to play mother or babysitter for someone else’s problems. For women, many of Morissette's lyrics felt like a reckoning: “Right Through You” skewers a man for not taking her seriously (“You took a long hard look at my ass/And then played golf for a while”), and on “You Oughta Know”, the cheating-ex send-up lit with rage, she captures the fury felt from such blatant disrespect: “And every time I scratch my nails down someone else’s back I hope you feel it/Well, can you feel it?”<br />
+Yet even if the album’s core spirit is disillusionment—a refusal to smile, play along or indulge—listeners seem to cling to its hopefulness, the idea that bleeding, screaming and learning is also, ultimately, living. Perhaps that’s why, for all her angst and anger, Morissette is relatively kind to herself. In the easygoing “Hand in My Pocket”, now a time capsule of cigarettes and taxi cabs, she forgives herself for not having it all figured out. Everything’s going to be fine, fine, fine.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jagged-little-pill-remastered/1050392837" >}}
+
+
 
 
 

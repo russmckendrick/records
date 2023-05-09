@@ -38,8 +38,14 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4YXo7p7aubyVIbNLoVlBp9" width="100%" height="500" >}}
+<i>Spirit of Eden</i> is one of the most powerful and singular experiences in modern music. Released in 1988, written by singer Mark Hollis and producer-multi-instrumentalist Tim Friese-Greene, and performed as improvisations with several outside musicians, then digitally edited into place, the album is quite simply a masterpiece. Critical reception has only grown over the years as the album’s subtle emotional spaces reveal themselves over longer periods to be even deeper than originally suspected. The pop hooks of the group’s previous works have been dismissed for the extended ambience of the nine-minute “The Rainbow,” the seven-minute symphonic grind of “Desire” and the nearly seven-minute “Eden,” where the organ and guitar again rise to dramatic heights. Lyrics pass in the night with meanings obscured, but the emotions are clearly pained yet hopeful. Hollis’ voice turns the musical spaces into something greater than the sum of its parts. This level of experimentation would continue with the follow-up <i>Laughing Stock</i> and Hollis’ self-titled solo album. He has since retired from music.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/spirit-of-eden/701395363" >}}
+
+
 
 
 

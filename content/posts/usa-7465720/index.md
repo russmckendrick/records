@@ -28,9 +28,20 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4kNnXWAPlVekku543YWIEb" width="100%" height="500" >}}
+King Crimson’s 1969 debut album is often considered the group’s best. It is <i>the</i> album that transformed psychedelia into progressive rock influenced by jazz and classical music. Prior adventurers such as The Moody Blues sound tame in comparison to the wild-eyed ambitions of “21st Century Schizoid Man.” The members all dominate their instruments, with Ian McDonald bringing the Mellotron to center stage along with his expansive saxophone work, while Robert Fripp takes the guitar beyond the blues and singer Greg Lake commands the mic. 
 
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}
+
+
+
+
+
+## Videos
+### King Crimson - Larks Tongues In Aspic Part II (USA album)
+{{< youtube id="HYF3KU-UALg" title="King Crimson - Larks Tongues In Aspic Part II (USA album)" >}}<br>
 
 
 

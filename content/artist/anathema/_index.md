@@ -2,4 +2,5 @@
 title: "Anathema"
 summary: "Liverpool's Anathema, started out in the early '90s as strictly a doom metal outfit, with the requisite growled vocals and the trademark muddy sound, but when original singer Darren White left the band in 1995, with guitarist Vincent Cavanagh taking the reins, Anathema started their slow journey into completely uncharted territory. In fact, Anathema's metamorphosis over the past decade is one of the most remarkable band transformations in recent memory, as album after album has sounded more and more progressive and melodic, in no small part fueled by Cavanagh's superb singing voice. 2001's A Fine Day to Exit, aided by excellent songs like Release and Pressure, was an artistic breakthrough, as the band completely shed themselves of their metal roots, while still putting out powerful, brooding atmospheric rock. On 22 September 2020 the band announced that they would go on an indefinite hiatus."
 image: "anathema.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/anathema/428003344"
 ---

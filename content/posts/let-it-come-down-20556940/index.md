@@ -33,8 +33,12 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4P3KaftJ2WwL89iKIEkWai" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/let-it-come-down/1502492981" >}}
+
+
 
 
 

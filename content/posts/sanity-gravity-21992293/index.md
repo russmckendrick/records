@@ -31,8 +31,12 @@ styles: ["Jazz-Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6vNd4ca4gboaDtCkdh4LzI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sanity-gravity-remastered/1596823241" >}}
+
+
 
 
 

@@ -45,8 +45,16 @@ styles: ["Krautrock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0XwFmkEzDFl5KrVG5z0lE6" width="100%" height="500" >}}
+To get a sense of where Stereolab were coming from early on, take a minute—18, actually—with “Jenny Ondioline”. Where The Velvet Underground’s “Sister Ray” used drone to mimic the warm surge of a heroin high, Stereolab’s drone on <i>Transient Random-Noise Bursts</i> was healthier, cleaner, progress-oriented, but with just the slightest twist of retro—the sound of monorail demonstrations and microwave ovens, of a bright new plastic future.<br />
+That the band’s lyrics tilted towards socialist readings (“Jenny Ondioline”), solidarity chants (“Analogue Rock”) and statements of political self-determination (“Our Trinitone Blast”) only supports the thesis that their propensity to play three chords for 10 minutes at a time was less an expression of being stoned than of being almost militantly unified: These were young, well-read bohemians prepared to change the world.<br />
+And while they dove considerably deeper into kitsch as their career went on, you can hear the seeds of the fascination here—if not in Laetitia Sadier’s charmingly blasé delivery, then in the breezy French-ish folk-pop of “Pack Yr Romantic Mind” or “I’m Going Out of My Way”, which samples Perrey and Kingsley’s '60s-era rework of Antônio Carlos Jobim’s “One Note Samba”—the Rosetta Stone of easy listening for robots.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/transient-random-noise-bursts-with-announcements/1231426759" >}}
+
+
 
 
 

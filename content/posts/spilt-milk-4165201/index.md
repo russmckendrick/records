@@ -36,6 +36,13 @@ styles: ["Power Pop", "Glam"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/spilt-milk/723680259" >}}
+
+
+
+
+
 ## Videos
 ### Jellyfish - New Mistake
 {{< youtube id="eHvgQDRpA-s" title="Jellyfish - New Mistake" >}}<br>

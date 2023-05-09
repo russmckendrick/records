@@ -85,8 +85,11 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5tA2nuPhQz0AVIzQtayJKi" width="100%" height="500" >}}
+
 
 
 

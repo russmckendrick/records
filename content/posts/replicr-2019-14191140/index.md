@@ -50,8 +50,12 @@ styles: ["Noise", "Experimental", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="00chiEAshbWdhrPg6Y8po1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/replicr-2019/1471952343" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4PfgUTGoURqbID40xeSIRP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-drifters-golden-hits-mono/1566599254" >}}
+
+
 
 
 

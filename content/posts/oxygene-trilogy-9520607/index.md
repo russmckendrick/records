@@ -64,8 +64,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="469JDZgyHrDdZT25FeLKgT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/oxygene-trilogy/1163145484" >}}
+
+
 
 
 

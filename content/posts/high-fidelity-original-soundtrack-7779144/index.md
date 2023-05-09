@@ -37,8 +37,11 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0zXA2xmkw5x4iN4Cb3j13P" width="100%" height="500" >}}
+
 
 
 

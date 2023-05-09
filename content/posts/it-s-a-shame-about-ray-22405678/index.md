@@ -53,8 +53,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Q8DyYRZ8qbDoTUDJBgE3A" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/its-a-shame-about-ray-expanded-edition/1667654799" >}}
+
+
 
 
 

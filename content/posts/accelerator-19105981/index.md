@@ -32,8 +32,12 @@ styles: ["Techno"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5QJgGoswsej4o1KwXpfYCZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/accelerator-deluxe/151039580" >}}
+
+
 
 
 

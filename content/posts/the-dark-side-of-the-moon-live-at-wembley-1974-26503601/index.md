@@ -32,8 +32,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6SDPwUC74HcxwB84kPs4pM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-live-at-wembley-1974-remastered/1664148827" >}}
+
+
 
 
 

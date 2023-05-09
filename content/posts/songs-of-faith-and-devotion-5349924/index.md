@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1nHX4rMCk0NIBSplCjioCb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songs-of-faith-and-devotion-deluxe/665414502" >}}
+
+
 
 
 

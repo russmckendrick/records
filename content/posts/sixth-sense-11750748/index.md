@@ -36,8 +36,12 @@ styles: ["Contemporary Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0upNZrUJOsxd09PO1f6X1L" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sixth-sense/1359604900" >}}
+
+
 
 
 

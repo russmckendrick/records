@@ -26,8 +26,14 @@ styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2TgPxHvr9xiMkbbCL3n1LJ" width="100%" height="500" >}}
+For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has been surprisingly prolific since his 2014 comeback. He’s toyed with robots (<i>Computer Controlled Acoustic Instruments pt2 EP</i>) and shown off rare synths (<i>Cheetah EP</i>), but on <i>Collapse EP</i>, he revels in the sheer thrill of gonzo beatmaking. The multi-part epic “T69 collapse” begins simply, with rubbery electro rhythms and wistful synths, but halfway through, the drums go haywire and threaten to pull the track apart at any moment. “Pthex” follows a similarly fraught path, starting with gentle echoes of James’ early-’90s ambient works before tangling up in knots. And the streamlined “1st 44” strips back to virtually nothing but shuddering kicks and claps; it’s one of his heaviest drum tracks ever.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/collapse-ep/1418633340" >}}
+
+
 
 
 

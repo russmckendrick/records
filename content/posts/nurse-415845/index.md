@@ -32,8 +32,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0hCWVATXp9l0GyyTUD7OLn" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nurse/1444110474" >}}
+
+
 
 
 

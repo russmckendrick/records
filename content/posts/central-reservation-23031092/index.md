@@ -34,8 +34,14 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6j7rYlihEMA63TyKLUH4nC" width="100%" height="500" >}}
+Orton's second album forsakes the trip-hop of her debut for more robust textures. The devil's on their trail: Opener “Stolen Car” has a nervy energy and a beautifully orchestrated droning undertow, and sets up a road trip through the American south (by way of Orton's native Norwich). There's sweet countrypolitan in “Sweetest Decline” and “Pass in Time”, but the best bits ooze with darkness: the desert hum of “So Much More,” the ominous twang in “Devil Song,” and on the one-take “Feel to Believe,” a furious vocal performance that breaches the limits of the microphone.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/central-reservation/281790109" >}}
+
+
 
 
 

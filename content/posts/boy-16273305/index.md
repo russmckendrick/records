@@ -34,8 +34,14 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4YCjEFs1aDmcilTMbqMwjY" width="100%" height="500" >}}
+U2’s 1980 debut album announced a band with a distinctive sonic tone and major ambitions. Guitarist Dave “The Edge” Evans had his basic chiming attack in place, the rhythm section of bassist Adam Clayton and drummer Larry Mullen, Jr. was capable of tense, propulsive motion, and singer Paul “Bono” Hewson knew how to scale the castle walls, mountainside, and whatever romantic terrain he needed to in order to reach the soulful aspirations of youth. And producer Steve Lillywhite ensured the band’s vision got to tape. “I Will Follow” was an immediate anthem, but the tight frisson of “An Cat Dubh”, the driving attack that alternates with moments of pastoral reflection in “Out of Control”, and the carefully placed dramatic guitar notes that chase “Stories for Boys“ make this a more than impressive debut.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/boy-deluxe-edition/1440793935" >}}
+
+
 
 
 

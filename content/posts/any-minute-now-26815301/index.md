@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5ZQP07MzwSsiKkjSYJLD40" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/any-minute-now/273159734" >}}
+
+
 
 
 

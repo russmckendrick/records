@@ -35,8 +35,12 @@ styles: ["Prog Rock", "Jazz-Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4944tGwKGP3Rsv0xQs1CfP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/terraformer/1618539649" >}}
+
+
 
 
 

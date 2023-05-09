@@ -35,8 +35,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Pus5h1qGedCn4CtOuPVtp" width="100%" height="500" >}}
+Deftly fleeing the sprawling cultural shadow of “Loser,” Beck’s second mainstream record represents a dazzling leap forward. But even as the Dust Brothers add a polished, hip-hop-indebted snap (especially on body-popping marvel “Where It’s At”), Beck never forgets the animating, restless weirdness that makes him so unique. “The New Pollution” brings sashaying '60s atmospherics, “Minus” packs a fizzing, punky snarl, and “Devils Haircut” sets a new high water-mark for Hansen’s lyrically obtuse pop witchcraft.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/odelay/1440871815" >}}
+
+
 
 
 

@@ -34,15 +34,34 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="35UJLpClj5EDrhpNIi4DFg" width="100%" height="500" >}}
+Art-rock adventure fuses with arena grandeur on the band’s first great leap forward. Given its recording was plagued by writer’s block and creative dead ends, Radiohead’s second album is remarkably confident and daring. The three guitarists build mesmerising layers within haunted balladry (“Fake Plastic Trees”), a thrilling Frankenstein’s monster of folk, grunge, psych and jazz (“Just”), and stunning, numinous closer “Street Spirit (Fade Out)”. Thom Yorke’s lyrics are equally nuanced and searching, creating an elegiac undertow from his anxieties about consumerism, narcissism, and the mind-melt of sudden fame.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-bends/1097862703" >}}
+
+
 
 
 
 ## Videos
-### The Bends
-{{< youtube id="K8z8hLvjb_U" title="The Bends" >}}<br>
+### Planet Telex
+{{< youtube id="09EsZXrKEP4" title="Planet Telex" >}}<br>
 
+### More Videos
+
+- [The Bends](https://www.youtube.com/watch?v=K8z8hLvjb_U)
+- [Radiohead - High and Dry](https://www.youtube.com/watch?v=7qFfFVSerQo)
+- [Radiohead - Fake Plastic Trees](https://www.youtube.com/watch?v=n5h0qHwNrHk)
+- [Bones](https://www.youtube.com/watch?v=3ZKxungSg9U)
+- [[Nice Dream]](https://www.youtube.com/watch?v=jIjTFt6XmFM)
+- [Radiohead - Just](https://www.youtube.com/watch?v=oIFLtNYI3Ls)
+- [Radiohead - My Iron Lung](https://www.youtube.com/watch?v=pRU-6vaKaf4)
+- [Bullet Proof ... I Wish I Was](https://www.youtube.com/watch?v=KkCgUI_g2oo)
+- [Black Star](https://www.youtube.com/watch?v=d7lbzUUXj0k)
+- [Sulk](https://www.youtube.com/watch?v=-SLb6BdCHlE)
+- [Radiohead - Street Spirit (Fade Out)](https://www.youtube.com/watch?v=LCJblaUkkfc)
 
 
 ## Release Information

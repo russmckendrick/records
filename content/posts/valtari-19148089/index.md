@@ -30,8 +30,14 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ZHkshyLAi9f8DXdj3Z5ph" width="100%" height="500" >}}
+No other band creates symphonic textures quite like Sigur Rós. The Icelandic group uses the entire dynamic range to slowly unfurl its best melodic moments. With bandleader Jónsi also pursuing a more song-oriented solo career, Sigur Rós can better focus on creating atmospherics and epic land- and spacescapes that alter a room's mood. The band's ambience is first-rate and a mystery worth leaving; there's no need to pull apart the reasons for why this music works. It simply does. There are traces of conventional songcraft in tunes such as "Eg Anda", "Ekki Mukk", and "Dauoalogn", but the general forces behind the music are notes that linger in space and melt with chords that float between the strings and piano. No cover band could reproduce this music; it's a singular achievement that deserves wonder and praise. Others with laptops and effect boards may create their own version of this approach, but it's a great thrill to hear it from the source.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/valtari/717401815" >}}
+
+
 
 
 

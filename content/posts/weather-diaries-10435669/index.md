@@ -33,8 +33,12 @@ styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6DFrBk3avbXfcMXh02bOAV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/weather-diaries/1217906716" >}}
+
+
 
 
 

@@ -40,8 +40,14 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4tUyNf5dGXwY4TaMaxwhqF" width="100%" height="500" >}}
+This handy, packed-to-the-brim career overview of Daryl Hall & John Oates contains not only the group’s six chart-toppers, but also plenty of other classic soul-pop singles and deep cuts from their ‘70s/’80s heyday. “Rich Girl” couches its biting critique in deftly deployed string arrangements, while the understated R&B croon of “Sara Smile” remains irresistible and sublime. Even lesser-known tracks like the sensuous, stinging “Your Imagination” illustrate how prolific and inspired this duo truly was.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-daryl-hall-john-oates-remastered/199998241" >}}
+
+
 
 
 

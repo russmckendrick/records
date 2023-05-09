@@ -34,8 +34,12 @@ styles: ["Glam", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5TMMmKdys49eu6QSPC9sdB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cherry-pie-bonus-track-version/198468184" >}}
+
+
 
 
 

@@ -34,6 +34,13 @@ styles: ["Ska"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/public-confidential/1442800503" >}}
+
+
+
+
+
 ## Videos
 ### Maniac - The Beat feat Ranking Roger
 {{< youtube id="kKWUHAGSHvM" title="Maniac - The Beat feat Ranking Roger" >}}<br>

@@ -35,8 +35,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5kngzyNwERbKiQDvVwsgMt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bad-as-me-deluxe-edition/1485070792" >}}
+
+
 
 
 

@@ -41,8 +41,12 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3mZDjow2ZIxfWewSXum1d8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nomc15-live/1296071973" >}}
+
+
 
 
 

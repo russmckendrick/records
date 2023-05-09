@@ -31,8 +31,12 @@ styles: ["Avantgarde"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="20CL8A5VfMDbEinS8BrGfr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fantastic-planet/1667792300" >}}
+
+
 
 
 

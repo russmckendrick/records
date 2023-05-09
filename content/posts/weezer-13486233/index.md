@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1xpGyKyV26uPstk1Elgp9Q" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}
+
+
 
 
 

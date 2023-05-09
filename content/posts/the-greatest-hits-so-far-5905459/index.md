@@ -38,6 +38,13 @@ styles: ["New Wave", "Synth-pop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-greatest-hits-so-far-remastered/714765153" >}}
+
+
+
+
+
 ## Videos
 ### PIL Greatest Hits
 {{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}<br>

@@ -47,6 +47,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/global-a-go-go/1493855775" >}}
+
+
+
+
+
 ## Videos
 ### Joe Strummer & the Mescaleros - Global A Go-Go
 {{< youtube id="nmyKLpVM98Q" title="Joe Strummer & the Mescaleros - Global A Go-Go" >}}<br>

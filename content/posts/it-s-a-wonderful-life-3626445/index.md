@@ -34,8 +34,12 @@ styles: ["Lo-Fi", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6iP3HGmoRXFUrKiml2QVkz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/its-a-wonderful-life/1461512623" >}}
+
+
 
 
 

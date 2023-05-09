@@ -33,8 +33,12 @@ styles: ["Punk", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0YynOffgq2WqjglN3JsE45" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lick/595928526" >}}
+
+
 
 
 

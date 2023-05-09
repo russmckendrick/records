@@ -34,8 +34,16 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3I5zKec5GZIyY2MFu9WCRA" width="100%" height="500" >}}
+On their first album in more than a decade, Crowded House have returned refreshed—and with a revamped line-up, now featuring frontman Neil Finn’s sons Liam (guitar) and Elroy (drums) alongside long-time producer Mitchell Froom (keyboards) and founding member Nick Seymour (bass). Together they bring a new perspective to the Australian-New Zealand band’s lush signature sound.<br />
+Perhaps as a result of his 2019 stint filling in for Lindsey Buckingham on tour with Fleetwood Mac, Finn feels more open to slipping into different musical skins without sacrificing the radio-friendly accessibility that has always distinguished Crowded House. So when “Love Isn’t Hard at All” suddenly breaks into the classic Tetris theme, it’s not jarring but simply another pleasing Easter egg; likewise the Beach Boys homage of “To the Island” and the New Wave throwback of “Whatever You Want”.<br />
+Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotionals like “Deeper Down” and “Start of Something”. Still, <i>Dreamers Are Waiting</i> shares a sense of modernity with its 2010 predecessor <i>Intriguer</i>, as if Finn and co. have stayed attuned to new music since the band’s initial run ended in 1996. Certain turns recall the likes of younger Antipodean dreamers like Tame Impala and Unknown Mortal Orchestra, both of whom were commissioned to remix “To the Island”. This is the sound of Crowded House coming full circle: not just in Finn welcoming his sons and Froom as permanent bandmates, but in the way it organically encompasses—and happily cherry-picks—ideas from the past and present alike.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dreamers-are-waiting/1536857014" >}}
+
+
 
 
 

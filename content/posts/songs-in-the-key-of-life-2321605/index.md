@@ -44,19 +44,14 @@ styles: ["Soul", "Disco"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6YUCc2RiXcEKS9ibuZxjt0" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-life/1440788438" >}}
 
 
 
-## Videos
-### Knocks Me Off My Feet
-{{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}<br>
 
-### More Videos
-
-- [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
-- [Have A Talk With God](https://www.youtube.com/watch?v=XrLe6MSjBzg)
 
 
 ## Release Information

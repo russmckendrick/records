@@ -32,8 +32,14 @@ styles: ["Jangle Pop", "Post-Punk", "Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Y0p2XCgRRIjna91aQE8q7" width="100%" height="500" >}}
+From start to finish, <i>The Queen Is Dead</i> is, perhaps, The Smiths' strongest album, and it's certainly their funniest. In particular, the Kinks-like music hall bounce of "Frankly, Mr. Shankly" and the rockabilly-tinged "Vicar in a Tutu" sport hilariously cruel lyrics, while pungent one-liners crop up in nearly every track. Elsewhere, the shimmering "The Boy with the Thorn in His Side" is one of Johnny Marr's most glorious tunes, while "There Is a Light That Never Goes Out" features one of Morrissey's most disconsolately romantic lyrics.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-queen-is-dead/800092985" >}}
+
+
 
 
 

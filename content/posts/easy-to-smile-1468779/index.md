@@ -27,6 +27,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/easy-to-smile/259486680" >}}
+
+
+
+
+
 ## Videos
 ### Easy To Smile (Edited Version)
 {{< youtube id="98eDh69GD-M" title="Easy To Smile (Edited Version)" >}}<br>

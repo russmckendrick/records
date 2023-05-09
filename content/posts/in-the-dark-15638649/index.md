@@ -34,8 +34,12 @@ styles: ["Roots Reggae"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6FuHnw9KkeYH6TSJaNOlto" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-the-dark/1442876860" >}}
+
+
 
 
 

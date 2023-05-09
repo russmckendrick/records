@@ -38,8 +38,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0W1lMfOHYxHxWKHlwPdQnq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-life-of-surprises-the-best-of-prefab-sprout-remastered/1476850752" >}}
+
+
 
 
 

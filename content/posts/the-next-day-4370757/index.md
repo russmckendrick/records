@@ -56,8 +56,12 @@ styles: ["Art Rock", "Pop Rock", "Avantgarde"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2BW7T8PojNxH9RPq4WWa6h" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-next-day/1676277418" >}}
+
+
 
 
 

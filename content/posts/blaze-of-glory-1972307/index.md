@@ -33,8 +33,12 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5QsPmoN7UK8tL5NRtSuC2Y" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory-inspired-by-the-film-young-guns-ii/1440657641" >}}
+
+
 
 
 

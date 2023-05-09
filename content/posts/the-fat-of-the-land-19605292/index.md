@@ -32,9 +32,18 @@ styles: ["Breakbeat", "Breaks"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2qivROlvQ8BcUKTaCA7dL2" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-fat-of-the-land/1450123945" >}}
+
+
+
+
+
+## Videos
+### The Prodigy ▶ The·Fat·of·the·Land (Full Album)
+{{< youtube id="GP6F0y3eU0Q" title="The Prodigy ▶ The·Fat·of·the·Land (Full Album)" >}}<br>
 
 
 

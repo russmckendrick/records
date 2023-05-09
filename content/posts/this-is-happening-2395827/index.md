@@ -31,8 +31,14 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4hnqM0JK4CM1phwfq1Ldyz" width="100%" height="500" >}}
+Critical acclaim only leaves New York’s most self-aware hipster more confused on album three. At what cost popularity? “I try and try/It ends up feeling kind of wrong,” James Murphy admits on “You Wanted a Hit.” At what cost heartbreak? “Never needed anyone for so long,” he laments on “All I Want,” a pristine “Heroes” tribute. These songs vacillate between ecstasy and agony—even the bawdy “Drunk Girls” curdles—and yearn for release. The coiled “One Touch” never quite breaks free, while “Pow Pow” feels like a glorious tantrum.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-happening/693391469" >}}
+
+
 
 
 

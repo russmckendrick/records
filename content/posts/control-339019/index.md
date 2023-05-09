@@ -31,8 +31,14 @@ styles: ["Contemporary R&B", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7GWkceE5McMVfffd1RGL6Y" width="100%" height="500" >}}
+After two solid but low-profile releases, <i>Control</i> turned 19-year-old Janet Jackson into an international superstar, second only to her brother Michael. Leaving the family nest to connect with former Prince protégés Jimmy Jam and Terry Lewis, Jackson created a subtle concept album about feminine independence—from the take-no-prisoners electro-funk of "Nasty" to the shimmering delicacy of "Let's Wait Awhile." The mixture of vibrant, melodic pop and dance floor-ready R&B especially shines on the syncopated thwack of "What Have You Done for Me Lately."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/control/1440831636" >}}
+
+
 
 
 

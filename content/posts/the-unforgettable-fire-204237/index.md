@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3FFosIE1A9HGRrinKTcBQ3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-unforgettable-fire/1443184272" >}}
+
+
 
 
 

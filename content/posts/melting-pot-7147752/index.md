@@ -39,8 +39,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6nHvtNjvdDLiUIUkJ7td27" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/melting-pot/1450132766" >}}
+
+
 
 
 

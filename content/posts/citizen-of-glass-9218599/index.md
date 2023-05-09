@@ -32,8 +32,14 @@ styles: ["Vocal", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="78BjMfLH8YUXM6hbodHKmA" width="100%" height="500" >}}
+Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again,” in the eerie celestial layers of the stately “Trojan Horses,” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes.” Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity, and privacy.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/citizen-of-glass/1132114456" >}}
+
+
 
 
 

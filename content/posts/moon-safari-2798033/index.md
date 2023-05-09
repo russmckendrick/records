@@ -32,8 +32,14 @@ styles: ["Future Jazz", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="206GTDefY2qRMQxYXmfb0a" width="100%" height="500" >}}
+Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporized vocals, warm synths, and stainless steel hi-fi sensibility. Without being as kitschy or (wink, wink) ironic as its spacey “Sexy Boy” single might lead you to believe, the album is an immaculate collection of suave Moog moves and future-disco downtempo. A defining achievement in the chill-out subgenre, it rightfully dominated compilation racks at the turn of the century on the strength of songs like “Kelly Watch the Stars” and “You Make It Easy.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/moon-safari/697240234" >}}
+
+
 
 
 

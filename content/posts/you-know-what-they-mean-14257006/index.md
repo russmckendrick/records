@@ -48,8 +48,12 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2kJqRDKcVQ0bxG4sjXREsv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/you-know-what-they-mean/1475485888" >}}
+
+
 
 
 

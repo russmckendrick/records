@@ -34,8 +34,16 @@ styles: ["Alternative Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3BSOiAas8BpJOii3kCPyjV" width="100%" height="500" >}}
+Decades after the fact, it's easy to forget that in grunge's heyday, Pearl Jam were even bigger than Nirvana. Though Kurt Cobain became the scene's icon (especially in death), Pearl Jam commanded the attention of an even wider swath of America. And their second album, <i>Vs.</i>, marks the moment where the band proved that both they and the movement they spearheaded had the legs to move forward and evolve. <br />
+In the wake of their debut's record-breaking success and resultant overexposure, Pearl Jam tried to avoid making another blockbuster. <i>Vs.</i> is less polished and anthemic than <i>Ten</i>; the songs are more idiosyncratic, and the band declined to make music videos for the singles. The core elements of the sound that made Pearl Jam superstars are still evident here—the big, blazing riffs on tunes like "Blood" and "Animal," and Vedder's leonine roar throughout most of the album. <br />
+But the band were branching out into new directions, too. The syncopated grooves of "Rats" and "W.M.A." show the grunge gods could be funky when they wanted to. "Glorified G" mates its anti-gun message with a rather R.E.M.-ish, much poppier feel. Perhaps most significantly, a good chunk of <i>Vs.</i> explores a quieter, more melodic side, as heard on the ghostly, nearly ambient "Indifference," the lyrically and sonically small-scale character study "Elderly Woman Behind the Counter in a Small Town," and the hooky, acoustic-strumming "Daughter," which became the album's biggest hit. But when they let loose on the rockers, they reminded the world of the fury and abandon that made them heroes in the first place.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vs-expanded-edition/426656353" >}}
+
+
 
 
 

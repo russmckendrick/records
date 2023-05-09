@@ -35,6 +35,13 @@ styles: ["Folk Rock", "Country Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush-50th-anniversary-bonus-tracks-edition/1541168056" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

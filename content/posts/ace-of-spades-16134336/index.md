@@ -104,8 +104,12 @@ styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3rxF05Aux0QTrN533Kjc91" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ace-of-spades/1591509047" >}}
+
+
 
 
 

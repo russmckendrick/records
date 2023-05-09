@@ -39,8 +39,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1sZSQvn5aTuxMP4JVa4qpG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1445740062" >}}
+
+
 
 
 

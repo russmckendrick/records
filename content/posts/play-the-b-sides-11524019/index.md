@@ -35,6 +35,13 @@ styles: ["Breakbeat", "Downtempo", "Leftfield"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/play-the-b-sides/1193809704" >}}
+
+
+
+
+
 ## Videos
 ### Moby ▶ Play–The B Sides…(2000) Full Album
 {{< youtube id="jkCM0mVKQic" title="Moby ▶ Play–The B Sides…(2000) Full Album" >}}<br>

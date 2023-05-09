@@ -32,8 +32,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4lEh61xtnppqi8iMficFlo" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bosh/780505469" >}}
+
+
 
 
 

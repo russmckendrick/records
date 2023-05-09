@@ -33,8 +33,12 @@ styles: ["Pop Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="303IyFuPx8pzAuAjazvdHK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/let-it-bee/1320002748" >}}
+
+
 
 
 

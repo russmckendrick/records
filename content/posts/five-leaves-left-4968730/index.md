@@ -32,8 +32,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7IpcJbVxLLEfW0KXB7ndE2" width="100%" height="500" >}}
+The haunting songs of Nick Drake continue to fascinate fans worldwide over 30 years after his untimely death. Beneath his music's delicately melodic surface are depths of emotion and insight few singer-songwriters have approached. <i>Five Leaves Left</i>, his 1969 debut, was recorded while Drake was still a student at Cambridge University. As a singer, he displays self-assurance far beyond his years, combining folk influences with jazz-tinged phrasing. Such tracks as "Way to Blue," "River Man" and "Saturday Sun" capture longing and loss in moody watercolor tones. "Time Has Told Me" and "Thoughts of Mary Jane" are evocative love songs, while "Fruit Tree" ponders the price of fame.  Produced by folk-rock maven Joe Boyd, the album's tracks are enhanced by Richard Thompson's tasteful guitar and Robert Kirby's inspired orchestrations.  A timelessly beguiling work, <i>Five Leaves Left</i> is the luminous first creation of an artist destined to become a legend.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/five-leaves-left-remastered/1440656068" >}}
+
+
 
 
 

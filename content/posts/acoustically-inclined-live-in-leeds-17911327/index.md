@@ -44,8 +44,12 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="32SpE85d6HbJRQPKQ6I5U4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842" >}}
+
+
 
 
 

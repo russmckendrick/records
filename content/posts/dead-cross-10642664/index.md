@@ -32,8 +32,12 @@ styles: ["Hardcore", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0pgakkzw4eUOMPfwBXxj7E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dead-cross/1228978283" >}}
+
+
 
 
 

@@ -87,8 +87,11 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="3oNY3UpmcQQ4TAicUcKkdf" width="100%" height="500" >}}
+
 
 
 

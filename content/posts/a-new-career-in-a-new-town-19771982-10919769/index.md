@@ -142,6 +142,13 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-new-career-in-a-new-town-1977-1982/1255088551" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

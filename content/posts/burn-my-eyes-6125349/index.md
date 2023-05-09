@@ -35,6 +35,13 @@ styles: ["Thrash", "Heavy Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/burn-my-eyes/214477654" >}}
+
+
+
+
+
 ## Videos
 ### Machine Head - Old [OFFICIAL VIDEO]
 {{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}<br>

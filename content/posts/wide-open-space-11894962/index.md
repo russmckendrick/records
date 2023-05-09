@@ -29,8 +29,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3OGZXSC31ykWEN3A3j7dvW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wide-open-space-remastered-single/1584231195" >}}
+
+
 
 
 

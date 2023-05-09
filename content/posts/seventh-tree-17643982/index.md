@@ -32,8 +32,12 @@ styles: ["Leftfield", "Downtempo", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4YGQn2C71NbOEgSQM9fxRt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/seventh-tree/1143225545" >}}
+
+
 
 
 

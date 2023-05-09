@@ -27,8 +27,14 @@ styles: ["Prog Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3U3iBmoTag1wxENqHq2ZqF" width="100%" height="500" >}}
+Initially panned as indulgent and pretentious on its 1975 release, Rush’s <i>Caress of Steel</i> found the Canadian trio abandoning the proto-metal style of its two preceding albums and fully embracing progressive rock. (The opener “Bastille Day” is the token hard rock vestige.) This is best exemplified in the last two songs: the 12-and-a-half-minute epic “The Necromancer” and “The Fountain of Lamneth,” a near 20-minute composition in six parts that took up the entire second side of the album’s vinyl record. Composed in three movements, “The Necromancer” is Rush’s second song featuring the fictional character Prince By-Tor. (He first appeared in "By-Tor & The Snow Dog" on Rush's second album, <i>Fly by Night</i>.) But it’s Alex Lifeson’s awe-inspiring guitar solo erupting a third of the way in that easily upstages both the song’s concept and narrative. Though everyone blamed the lengthy “The Fountain of Lamneth” for poor album sales and a disastrous tour, it was this very approach to Rush's music that made the following <i>2112</i> a three-time multiplatinum achievement.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/caress-of-steel-remastered/1440641046" >}}
+
+
 
 
 

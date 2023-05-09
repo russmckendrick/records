@@ -34,8 +34,12 @@ styles: ["Soul", "Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6j1xh7WBOIVNekKFKFKbAp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-time-for-dreaming-feat-menahan-street-band/1485045964" >}}
+
+
 
 
 

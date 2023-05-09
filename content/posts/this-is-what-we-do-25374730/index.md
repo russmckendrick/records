@@ -33,8 +33,12 @@ styles: ["Leftfield", "Electro"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5hggIegd5o50qXfc1UCjSS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-what-we-do/1635360070" >}}
+
+
 
 
 

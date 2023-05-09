@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2t7r6hUtlrqQfX0Z5zHzF8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/prince-of-tears/1268762151" >}}
+
+
 
 
 

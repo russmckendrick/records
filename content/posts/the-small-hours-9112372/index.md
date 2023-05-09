@@ -36,6 +36,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-small-hours/1128004597" >}}
+
+
+
+
+
 ## Videos
 ### Matt Berry - Obsessed and So Obscure
 {{< youtube id="D6eKamGyuMQ" title="Matt Berry - Obsessed and So Obscure" >}}<br>

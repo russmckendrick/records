@@ -30,8 +30,14 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3AQgdwMNCiN7awXch5fAaG" width="100%" height="500" >}}
+“The world moves on a woman’s hips”, David Byrne yelps on “The Great Curve”, summing up where his band is coming from on their genre-bending fourth album. You can hear them overhaul their nervy post-punk sound under the influence of African polyrhythms—and fearless producer Brian Eno—on “Once In a Lifetime” and “Crosseyed and Painless”, adopting trance-like beats and babbling loops of guitar/keyboards while Byrne chants free-associative lyrics that somehow make perfect sense.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/remain-in-light/300948043" >}}
+
+
 
 
 

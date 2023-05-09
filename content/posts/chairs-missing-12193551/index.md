@@ -37,8 +37,12 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7tWxaE1as1wy12Yd1De41r" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chairs-missing/1328869087" >}}
+
+
 
 
 

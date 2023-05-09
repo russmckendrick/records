@@ -30,8 +30,14 @@ styles: ["Disco", "Soul", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4JsSbaggaprB1AfDylXnxO" width="100%" height="500" >}}
+Released at the end of 1980, <i>Dirty Mind</i> was a showcase for how Prince would revolutionize pop music: He welded New Wave to funk while challenging the status quo with his unapologetic sexuality. Even the love songs here (“When You Were Mine,” “Gotta Broken Heart Again”) have a touch of kink, while the kinky songs (“Head,” the punky incest poem “Sister”) take their taboos as seriously as heartache. It’s a blurring of the sacred and profane that would come to define his career.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dirty-mind/214145168" >}}
+
+
 
 
 

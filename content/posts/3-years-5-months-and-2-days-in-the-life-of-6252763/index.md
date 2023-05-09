@@ -37,8 +37,12 @@ styles: ["Conscious"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4QrhfVaznhrAPlM5xCKBPh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160" >}}
+
+
 
 
 

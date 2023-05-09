@@ -35,8 +35,14 @@ styles: ["Alternative Metal", "Alternative Rock", "Hard Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="58NXIEYqmq5dQHg9nV9duM" width="100%" height="500" >}}
+Alice In Chains’ <i>Dirt</i> casts an unnerving spell unlike anything else from the grunge explosion. Driven by relentlessly aggressive but rhythmically slippery riffs, “Would?” and “God Smack” give Layne Staley a chance to explore a vocal arsenal that encompasses bluesy wails, unholy screams, and guttural growls. While “Dirt” and “Hate to Feel” are some of the darkest dirges since Black Sabbath’s prime, the album peaks with “Down in a Hole” and “Rooster,” a pair of spooky, majestic ballads that alter the idea of what a slow-burning hard rock song can sound like.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dirt-remastered/157316517" >}}
+
+
 
 
 

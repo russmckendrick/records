@@ -28,6 +28,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/one-for-sorrow-ep/909495393" >}}
+
+
+
+
+
 ## Videos
 ### One For Sorrow - The Anchoress
 {{< youtube id="AP0MpWelbx8" title="One For Sorrow - The Anchoress" >}}<br>

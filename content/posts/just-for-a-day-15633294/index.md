@@ -31,8 +31,12 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7761KE2C9rH1QO9WAE1Ysb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/just-for-a-day/399186360" >}}
+
+
 
 
 

@@ -35,6 +35,13 @@ styles: ["African"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hasabe-my-worries/1680801339" >}}
+
+
+
+
+
 ## Videos
 ### AYALEW MESFIN.HASABE
 {{< youtube id="_1BwNKnKi4E" title="AYALEW MESFIN.HASABE" >}}<br>

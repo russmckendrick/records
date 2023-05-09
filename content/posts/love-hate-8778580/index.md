@@ -32,8 +32,14 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0qxsfpy2VU0i4eDR9RTaAU" width="100%" height="500" >}}
+Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers, and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”  
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/love-hate/1440832200" >}}
+
+
 
 
 

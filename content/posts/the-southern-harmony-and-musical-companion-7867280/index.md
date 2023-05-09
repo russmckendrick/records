@@ -32,8 +32,12 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4hVgzAM4i3dPdhZQki9cKk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}
+
+
 
 
 

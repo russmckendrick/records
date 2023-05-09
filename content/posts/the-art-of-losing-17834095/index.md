@@ -36,8 +36,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4eUBwmpVt57DKniIa2lzSt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-art-of-losing/1535065686" >}}
+
+
 
 
 

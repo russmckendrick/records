@@ -39,8 +39,12 @@ styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2DSNJ8bdoYfC6Uydg8ilBC" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/icky-thump/1533513464" >}}
+
+
 
 
 

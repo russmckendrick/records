@@ -32,8 +32,14 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5WBx64FIN04CvM2T1MGrUN" width="100%" height="500" >}}
+By 1969, Bob Dylan was again changing personas, this time singing country with a throaty drawl and a humble tone. Many highlights include a melancholic overhaul (featuring Johnny Cash) of Dylan’s 1963 weeper “Girl From the North Country”, and the swooning “I Threw It All Away”, which, with its spare organ and acoustic guitar, stuns as an epistle to regret. And Dylan proved that he could sing in a warm, liquid croon on the lovely, hushed “Lay Lady Lay”. This often twangy affair ranks as one of Dylan’s greatest.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nashville-skyline/177980677" >}}
+
+
 
 
 

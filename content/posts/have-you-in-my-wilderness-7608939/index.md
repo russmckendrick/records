@@ -32,8 +32,14 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0EiGGBzF9wzJn2X8F0Yvjh" width="100%" height="500" >}}
+Bold experimentalism is key for Californian Julia Holter. Her third album is a melange of thoughtful, alternative approaches to pop. “Feel You”’s harpsichord jauntiness and skittish drums provide the idea platform for the album’s textual tapestry. Syncopated jazz (“Vazquez”), hypnotic shanties (“Sea Calls Me Home”) and aching torch songs (“How Long?” and “Night Song”) all follow, but the tone—while opulent, rich and dramatic—never feels false. “Silhouette” is a gorgeously off-kilter, while “Betsy on the Roof” builds from barely a whisper.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/have-you-in-my-wilderness/1046817772" >}}
+
+
 
 
 

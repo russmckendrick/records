@@ -29,8 +29,12 @@ styles: ["Hard Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7xEluvnbmFtRB5g66CJ2ND" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/argus-remastered/1440504883" >}}
+
+
 
 
 

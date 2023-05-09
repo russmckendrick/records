@@ -31,8 +31,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7meXKEI99ccqzh9AtmeeAR" width="100%" height="500" >}}
+Add this album to your library now.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/closure-continuation/1592522261" >}}
+
+
 
 
 

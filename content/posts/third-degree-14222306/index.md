@@ -31,8 +31,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="36tjJmRAztF6E0JOsMgK4o" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/third-degree/1600470882" >}}
+
+
 
 
 

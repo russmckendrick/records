@@ -32,8 +32,11 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5GHFTDBFBEIyzUUY8PiIrP" width="100%" height="500" >}}
+
 
 
 

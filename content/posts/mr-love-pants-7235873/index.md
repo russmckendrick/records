@@ -34,6 +34,13 @@ styles: ["Pop Rock", "Funk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1489403955" >}}
+
+
+
+
+
 ## Videos
 ### Ian Dury & The Blockheads- Honeysuckle Highway (Demo)
 {{< youtube id="Mn78lswQ3Hw" title="Ian Dury & The Blockheads- Honeysuckle Highway (Demo)" >}}<br>

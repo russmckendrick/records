@@ -29,8 +29,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7qUdFFdSea6C4Y5S3laQOz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/where-does-it-go/1532924026" >}}
+
+
 
 
 

@@ -36,8 +36,14 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="54DjkEN3wdCQgfCTZ9WjdB" width="100%" height="500" >}}
+Recorded as a soundtrack for Prince’s directorial debut, <i>Under the Cherry Moon</i>, <i>Parade</i> melds his deepening funk explorations with a fascination for <i>Sgt. Pepper’s</i>-era Beatles. The album comes on strong and playful, stripped-back yet bursting with color. There are a handful of classics here in the steel-drum double-dutch of “New Position” and the ‘40s fantasia “Under the Cherry Moon,” but nothing reaches the heights of “Kiss,” which makes more of empty space than most artists make of sound.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/parade-music-from-the-motion-picture-under-the-cherry-moon/260336005" >}}
+
+
 
 
 

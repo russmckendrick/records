@@ -33,8 +33,14 @@ styles: ["Minneapolis Sound", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="34MHuXONazzgSxI0cThpAg" width="100%" height="500" >}}
+Even the brilliant provocations of <i>Dirty Mind</i> and <i>Controversy</i> couldn’t have prepared us for the album that made Prince a star. Featuring three Top 20 hits—“Little Red Corvette,” “Delirious,” and the title track—<i>1999</i> didn’t just help define his electro-futuristic sound, but the sound of ’80s pop in general. And though Prince's primary area of study remained sex (“Let’s Pretend We’re Married,” “Lady Cab Driver”), his stabs at satire (“All the Critics Love U in New York”) are surprisingly sharp, too.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1999/214145240" >}}
+
+
 
 
 

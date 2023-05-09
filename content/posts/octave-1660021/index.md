@@ -32,8 +32,12 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="58Lnkf8TmX0GyxK45vfN1K" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/octave-expanded/1450958696" >}}
+
+
 
 
 

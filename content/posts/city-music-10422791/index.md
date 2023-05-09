@@ -33,8 +33,12 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5wrVAAdcCRz1MaL5J7LIyk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/city-music/1208719994" >}}
+
+
 
 
 

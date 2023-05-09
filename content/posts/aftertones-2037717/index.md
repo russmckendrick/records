@@ -32,8 +32,12 @@ styles: ["Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="03jz5LMm85cJfaN5KLz31M" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/aftertones/1546946678" >}}
+
+
 
 
 

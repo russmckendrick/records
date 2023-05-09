@@ -32,6 +32,13 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/echo-street-bonus-edition/1179873452" >}}
+
+
+
+
+
 ## Videos
 ### Amplifier (Echo Street) - Where the river goes
 {{< youtube id="mOzRzoE-F5Y" title="Amplifier (Echo Street) - Where the river goes" >}}<br>

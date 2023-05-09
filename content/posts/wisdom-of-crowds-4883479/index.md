@@ -31,8 +31,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6k7ud0Yn06PFK8RtkvYDND" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wisdom-of-crowds/682955123" >}}
+
+
 
 
 

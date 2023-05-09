@@ -33,8 +33,12 @@ styles: ["Reggae"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7DThjcUUrZYmpcELciIu2w" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/special/185718171" >}}
+
+
 
 
 

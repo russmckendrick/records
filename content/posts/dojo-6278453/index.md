@@ -31,8 +31,12 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5iiAPWKhtg9WcJq7PFuW7N" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dojo/892082605" >}}
+
+
 
 
 

@@ -32,8 +32,14 @@ styles: ["Leftfield"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4AF1M7bGCFL3LHCtXUUXw5" width="100%" height="500" >}}
+You could forgive James Murphy for feeling apprehensive about reviving LCD Soundsystem after their epic bowing-out in 2011. But when David Bowie urges you to do something, you kind of have to take it to heart. Bowie’s influence is all over <i>american dream</i>, as are all the touchpoints that announced LCD's early-'00s indie bona fides. The searing guitars and ambient textures on “call the police” and “other voices” play like pages in Bowie’s Berlin diaries, and the band nods generously in the direction of Bono, Talking Heads, electro, and '80s post-punk throughout. That’s no surprise. But for Murphy, <i>american dream</i> also represents a beautifully matured reckoning. The jaded record-store geek of 2002’s “Losing My Edge” is now gracefully grappling with aging and loss on the thumping, New Order-esque “tonite,” sing-speaking lines like, "We maybe realize what it is we need before we die.” This is LCD come full circle. Not only have they not missed a stitch upon returning—<i>american dream</i> is arguably their best album yet.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/american-dream/1258822744" >}}
+
+
 
 
 

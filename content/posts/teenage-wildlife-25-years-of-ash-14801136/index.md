@@ -44,8 +44,12 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Rxm9U0KKKcc3qxFhHPM9N" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1488363014" >}}
+
+
 
 
 

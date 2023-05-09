@@ -35,6 +35,13 @@ styles: ["Indie Rock", "Folk Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ill-be-your-girl/1333262413" >}}
+
+
+
+
+
 ## Videos
 ### The Decemberists - Severed
 {{< youtube id="ksTFj6L0mao" title="The Decemberists - Severed" >}}<br>

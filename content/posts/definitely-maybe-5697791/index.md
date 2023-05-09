@@ -36,6 +36,13 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/definitely-maybe/1517506402" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

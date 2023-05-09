@@ -36,8 +36,12 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5wIVDVJHwGN05eMWfRAjl9" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/some-old-b-t/724689773" >}}
+
+
 
 
 

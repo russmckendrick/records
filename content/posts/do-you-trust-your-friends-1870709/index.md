@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6YjZy9c9RBiouy4SK2kYqY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/do-you-trust-your-friends/1443067827" >}}
+
+
 
 
 

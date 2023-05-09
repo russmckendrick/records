@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7HDcY3h70X3zLjceUO874A" width="100%" height="500" >}}
+The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, honest-to-goodness rock. Corin Tucker is in full command of her howitzer of a voice on standouts like “Surface Envy”. Carrie Brownstein’s haughty punk sneer leads the glorious “A New Wave”. Janet Weiss’ masterful drumming navigates the songwriting’s hairpin tonal shifts, from the glittering “Hey Darling” to the turbulent album closer, “Fade". <i>No Cities to Love</i> is an electrifying step forward for one of the great American rock bands. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-cities-to-love/927171224" >}}
+
+
 
 
 

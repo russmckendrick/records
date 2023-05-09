@@ -32,10 +32,41 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="52coGwksoCtU0ZfSjgGRET" width="100%" height="500" >}}
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/behaviour-further-listening-1990-1991-deluxe-edition/1393146587" >}}
+
+
+
+
+
+## Videos
+### Pet Shop Boys - So Hard
+{{< youtube id="jFAA6Z_YIEM" title="Pet Shop Boys - So Hard" >}}<br>
+
+### More Videos
+
+- [PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)](https://www.youtube.com/watch?v=iQAiRNeZMYg)
+- [Pet Shop Boys - So Hard (Extended Version) (HD)](https://www.youtube.com/watch?v=DJh1tQMwIRI)
+- [Pet Shop Boys – Behaviour vinyl](https://www.youtube.com/watch?v=V3CdCAVf9GI)
+- [Pet Shop Boys - Being Boring](https://www.youtube.com/watch?v=DnvFOaBoieE)
+- [Pet Shop Boys - Behaviour (Full Album)](https://www.youtube.com/watch?v=fNxBB3LQ3Gc)
+- [Pet Shop Boys - How Can You Expect To Be Taken Seriously?](https://www.youtube.com/watch?v=1hk2x_0pEhI)
+- [Pet Shop Boys: Behaviour Interview - 1990.](https://www.youtube.com/watch?v=F6tMI5qTYzM)
+- [Pet Shop Boys - Jealousy](https://www.youtube.com/watch?v=chq885RKXAI)
+- [Pet Shop Boys - This Must Be The Place I Waited Years To Leave (Official Audio)](https://www.youtube.com/watch?v=C7kkjPDryFM)
+- [Pet Shop Boys - Where The Streets Have No Name (I Can't Take My Eyes Off You)](https://www.youtube.com/watch?v=Jt2j79pca7c)
+- [Pet Shop Boys - My October Symphony (Official Audio)](https://www.youtube.com/watch?v=yTgrMRV2qGA)
+- [Pet Shop Boys Behaviour. TV advert (December 1990)](https://www.youtube.com/watch?v=SiEdbJ8cRzY)
+- [Pet Shop Boys - So Hard (Extended Dance Mix)](https://www.youtube.com/watch?v=ojgNCMFO3KM)
+- [Pet Shop Boys - To Face The Truth (Official Audio)](https://www.youtube.com/watch?v=-vR4NdpdFZI)
+- [Pet Shop Boys - So Hard on Wogan 28/09/1990](https://www.youtube.com/watch?v=2iBJAutBfWI)
+- [The End of the World (2018 Remaster)](https://www.youtube.com/watch?v=mT58mvfq4oo)
+- [Pet Shop Boys - So Hard (live) 1991 [HD]](https://www.youtube.com/watch?v=aQEV5tVZQpM)
+- [Pet Shop Boys - So Hard on Top of the Pops 04/10/1990](https://www.youtube.com/watch?v=SJqBqVTzyjo)
+- [Pet Shop Boys - So Hard (Performance Live 91) [4K]](https://www.youtube.com/watch?v=pOqFIrqE1Uc)
+- [PET SHOP BOYS **SO HARD**](https://www.youtube.com/watch?v=ca6XV9z83o0)
 
 
 ## Release Information

@@ -26,8 +26,12 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3Us4t6rgu8K9qxnnTRw0iB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/exsolve/1438778156" >}}
+
+
 
 
 

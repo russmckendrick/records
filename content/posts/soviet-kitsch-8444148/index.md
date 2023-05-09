@@ -37,8 +37,12 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0HeAK5QnrTRrksc2WuTYgy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/soviet-kitsch/20006406" >}}
+
+
 
 
 

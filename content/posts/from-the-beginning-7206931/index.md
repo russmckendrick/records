@@ -36,8 +36,12 @@ styles: ["Mod", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2v3ETGXR7oTvsZZiIp9JKp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/from-the-beginning-deluxe-edition/1443798933" >}}
+
+
 
 
 

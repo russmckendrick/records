@@ -29,8 +29,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4AB19qiiH6r1eiIlH6cpFC" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/how-strange-innocence-anniversary-edition/318867117" >}}
+
+
 
 
 

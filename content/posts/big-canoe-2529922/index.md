@@ -32,8 +32,12 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0XaudJ8R95idCykqptWyEF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/big-canoe/723416046" >}}
+
+
 
 
 

@@ -32,10 +32,27 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7ae4SfR2B1wEXX5EwS2Cg7" width="100%" height="500" >}}
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/actually-2018-remaster/1645128416" >}}
+
+
+
+
+
+## Videos
+### Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]
+{{< youtube id="dRHetRTOD1Q" title="Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]" >}}<br>
+
+### More Videos
+
+- [P E T _ S H O P _ B O Y S  ( A C T U A L L Y ) 1987  (Full Album)](https://www.youtube.com/watch?v=ZedvECF7xCY)
+- [Pet Shop Boys - What Have I Done To Deserve This (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=Wn9E5i7l-Eg)
+- [Pet Shop Boys ‎– Actually](https://www.youtube.com/watch?v=mEG8OhXVFLA)
+- [Pet Shop Boys - Rent](https://www.youtube.com/watch?v=8v-jX3d_jto)
+- [Pet Shop Boys - Actually (Full Album)](https://www.youtube.com/watch?v=IUqrJVc9VRk)
+- [Pet Shop Boys - Heart](https://www.youtube.com/watch?v=wTkfK2g4pKI)
 
 
 ## Release Information

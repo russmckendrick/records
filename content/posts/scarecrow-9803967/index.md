@@ -33,8 +33,14 @@ styles: ["Southern Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1BYEhfr8qQGNhbqPAbfnxk" width="100%" height="500" >}}
+Released in 1985, at the peak of the decade’s neon garishness, John Mellencamp’s <i>Scarecrow</i> comes off like a tight Saturday night set played at the local VFW hall. “R.O.C.K. in the U.S.A.” nails a balance of ’60s energy and ’80s grit. Meanwhile, the haunting-but-wholesome “Rain on the Scarecrow” is both celebration and elegy for an endangered American farm culture. At the album’s core is “Small Town,” a three-chord anthem that marries the gleaming melodicism of The Byrds to Woody Guthrie’s rustic simplicity.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/scarecrow-bonus-track-2005-remaster/1440760003" >}}
+
+
 
 
 

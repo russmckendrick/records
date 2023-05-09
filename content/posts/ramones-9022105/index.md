@@ -120,8 +120,14 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5uYDAwW0SZgcfOFkxrST64" width="100%" height="500" >}}
+One of the most thrilling albums ever made, the Ramones' debut defined the sound of American punk rock. Fast, loud, and subversively smart, these wise guys from Forest Hills, Queens fearlessly repurposed the cleanest '50s and '60s pop models—from girl groups to Beach Boys—for a disaffected new generation. From the shout-along choruses and needling fuzz guitars of "Blitzkrieg Bop" to the Lesley Gore-sweet "I Wanna Be Your Boyfriend," these rip-roarin’ cuts still sound as fresh as if they were recorded today.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ramones/847972873" >}}
+
+
 
 
 

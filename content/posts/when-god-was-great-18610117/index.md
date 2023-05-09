@@ -37,8 +37,12 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2GMkzDNISHUME6JBeT46D3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/when-god-was-great/1553943817" >}}
+
+
 
 
 

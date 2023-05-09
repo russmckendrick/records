@@ -38,8 +38,12 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7ligZljXfUtcKPCotWul5g" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/317564400" >}}
+
+
 
 
 

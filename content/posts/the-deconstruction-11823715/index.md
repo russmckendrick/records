@@ -52,8 +52,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3nhc68aAns0r8qoBZr2ley" width="100%" height="500" >}}
+Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with plenty of orchestral influences present in Eels’ latest offering—especially in the title track’s dark strings and “Rusty Pipes” with its subtle choral background vocals. “You Are The Shining Light” provides throwback with a ‘60s style drum beat and a piercing electric guitar lead, while the atmospheric “In Our Cathedral” gives that warm, fuzzy feeling—making <i>The Deconstruction</i> a reflective look at life through varied pop and rock styles.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-deconstruction/1330700343" >}}
+
+
 
 
 

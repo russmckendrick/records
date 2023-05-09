@@ -101,8 +101,11 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}
+
 
 
 

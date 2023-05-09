@@ -42,8 +42,14 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1d075yQcykHjerQ2BN0ABn" width="100%" height="500" >}}
+Fleetwood Mac decided to follow up the career-defining, best-selling <i>Rumours</i> with an album that would not compromise their integrity or seem like a quick rehash of their proven FM-radio-friendly formula. <i>Tusk</i> is not <i>Rumours, Pt. II</i>. It's an expansive, 20-track collection that allows each of the three songwriters—Lindsey Buckingham, Christine McVie, and Stevie Nicks—to stretch their musical vocabulary with the very best sonics that money could buy. Buckingham took on much of the production himself, recording at home and in the personally modified Village Recorder studio in West Los Angeles, until he fashioned an album both quirky and accessible, as much a part of the '70s rock elite establishment as informed by the funkier experiments of the emerging punk and new wave. Though individual tracks do stand out—McVie's "Over & Over," "Never Make Me Cry," "Sara," "Storms," and "Beautiful Child," "Buckingham's "Walk a Thin Line" and "Tusk"—the album is best experienced as a long, flowing whole, moods emerging, harmonies shifting, and odd sound experiments percolating underneath the smooth professional sheen.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tusk-remastered/1055803853" >}}
+
+
 
 
 

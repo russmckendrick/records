@@ -35,8 +35,14 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1aucGNKimhgARC7iO2xLt2" width="100%" height="500" >}}
+Elvis Costello’s 1977 debut album is a literate, poppy-punk masterpiece, and then some. Yes, it tears through angry, pointed material—from sneering looks at the daily grind (“Welcome to the Working Week”) to mocking impossible standards of others (“Miracle Man”). It also mellows on a signature ballad that’s tough and tender (“Alison”), and the delectably spare and weirdly noir-ish “Watching the Detectives” is a mark of songwriting genius. While Costello’s lyrics cut like killer short stories, his musical knowledge is only partly displayed here, which makes the melodic brilliance even more remarkable.  
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/my-aim-is-true/1440840988" >}}
+
+
 
 
 

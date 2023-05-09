@@ -29,8 +29,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1tQlk2v7Igg4goC0gUwHA7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/amplify-human-vibration/1293775068" >}}
+
+
 
 
 

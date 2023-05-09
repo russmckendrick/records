@@ -31,8 +31,14 @@ styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="34K1Kvskt9arWy8E1Gz3Lw" width="100%" height="500" >}}
+You could say that George Michael’s debut solo album is about thematic freedom—a loosening of Wham!’s teen-oriented songwriting shackles and a conscious step into the seamy passions and moral complexity of adulthood. And, yes, fundamentally that checks out. From the sultry, wide-screen gospel of “Father Figure” to the grunt-laden, censor-baiting paean to monogamous desire that is “I Want Your Sex, Pts. 1 & 2”, <i>Faith</i> established a path to artistic seriousness (and, let’s be real, controversy) that many an emancipated commercial pop star went on to emulate. But this record—animated by Prince and Michael Jackson’s critically acclaimed creative breakthroughs and featuring Michael not only producing all the songs but also playing many of the instruments himself—is, in many ways, a preternaturally gifted musician rightly asking for some respect to be put on their name. “Faith” turns a spare rockabilly riff into three minutes of taut, melodic perfection, “One More Try” pairs those signature roller-coaster vocal runs with a pulsing, tear-streaked torch song, and “Hand to Mouth” shows that no one can imbue life’s grimy underbelly with yearning sumptuousness quite like George.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/faith-2010-remaster/395918916" >}}
+
+
 
 
 

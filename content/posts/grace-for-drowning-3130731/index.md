@@ -36,8 +36,12 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="44uwH9ASkm1MStvYdDdTDn" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grace-for-drowning-deluxe-version/674008092" >}}
+
+
 
 
 

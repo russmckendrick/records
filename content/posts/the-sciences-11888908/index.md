@@ -28,8 +28,14 @@ styles: ["Stoner Rock", "Doom Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6X0ErPKlQAxQDhWKNprz7u" width="100%" height="500" >}}
+Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same name. As though revving a long-dormant engine of feedback and distortion, it’s a fitting start to the legendary doom trio’s first album in almost two decades (released on 4/20, no less). Unlike their hour-plus stoner meditation, <i>Dopesmoker</i>, <i>The Sciences</i> is divided into six colossal tracks, anchored by the comforting familiarity of sludgy riffs and rumbling percussion. Throughout, you’ll find some of their greatest guitar solos (“Marijuanaut’s Theme”) and lyrics (“Giza Butler,” an homage to Black Sabbath’s Geezer Butler), while stunning, reflective closer “The Botanist” is among the best songs in their genre-defining career.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-sciences/1510661717" >}}
+
+
 
 
 

@@ -5,7 +5,7 @@
 <section id="banner" class="style3">
     <div class="inner">
         <header class="major">
-            <h1 id="album-title"></h1>
+            <h1>Random Create Digging</h1>
         </header>
         <div class="content">
             <p><button class="button primary large" id="get-random-album">Grab Another Random Album</button></p>
@@ -38,13 +38,13 @@
 
 <script>
     const albumsUrl = "/index.json";
-    const albumTitleEl = document.getElementById('album-title');
     const albumArtistEl = document.getElementById('album-artist');
     const albumAlbumEl = document.getElementById('album-album');
     const albumImageEl = document.getElementById('album-image');
     const albumDateEl = document.getElementById('album-date');
     const getRandomAlbumBtn = document.getElementById('get-random-album');
     const gotoAlbumLink = document.getElementById('goto-album');
+    const imageAlbumLink = document.getElementById('image-link-album');
     let albums;
 
     fetch(albumsUrl)
@@ -57,38 +57,26 @@
         .catch(error => console.error(error)); // log any errors to the console
 
     function getRandomAlbum() {
-        let randomIndex = Math.floor(Math.random() * albums.length);
-        let randomAlbum = albums[randomIndex];
+        const randomIndex = Math.floor(Math.random() * albums.length);
+        const randomAlbum = albums[randomIndex];
 
-        for(let i = 0; i < 6; i++) { // cycle through 6 random albums
-            setTimeout(() => {
-                randomIndex = Math.floor(Math.random() * albums.length);
-                randomAlbum = albums[randomIndex];
-                updateAlbum(randomAlbum);
-            }, i * 500); // delay each change by half a second
-        }
-
-        setTimeout(() => { // after 3 seconds, settle on the final album
-            randomIndex = Math.floor(Math.random() * albums.length);
-            randomAlbum = albums[randomIndex];
-            updateAlbum(randomAlbum);
-            gotoAlbumLink.href = randomAlbum.uri;
-        }, 3000);
-    }
-
-    function updateAlbum(album) {
-        albumTitleEl.textContent = album.title;
-        albumArtistEl.textContent = album.artist;
-        albumAlbumEl.textContent = album.album;
-        albumImageEl.src = album.coverImage;
-        albumImageEl.alt = album.album + ' cover';
-        albumDateEl.textContent = album.date;
+        albumArtistEl.textContent = randomAlbum.artist;
+        albumAlbumEl.textContent = randomAlbum.album;
+        albumImageEl.src = randomAlbum.coverImage;
+        albumImageEl.alt = randomAlbum.album + ' cover';
+        albumDateEl.textContent = randomAlbum.date;
+        gotoAlbumLink.href = randomAlbum.uri;
+        imageAlbumLink.href = randomAlbum.uri;
     }
 
     getRandomAlbumBtn.addEventListener('click', getRandomAlbum);
     gotoAlbumLink.addEventListener('click', (event) => {
         event.preventDefault();
         window.location.href = gotoAlbumLink.href;
+    });
+    imageAlbumLink.addEventListener('click', (event) => {
+        event.preventDefault();
+        window.location.href = imageAlbumLink.href;
     });
 </script>
 

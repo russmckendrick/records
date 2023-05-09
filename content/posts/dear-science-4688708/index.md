@@ -33,8 +33,12 @@ styles: ["Leftfield", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3bWZ33ZCvHQD3nJnPjpfk7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dear-science-bonus-track-version/1437099502" >}}
+
+
 
 
 

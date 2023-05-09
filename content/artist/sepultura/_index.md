@@ -2,4 +2,5 @@
 title: "Sepultura"
 summary: "A Brazilian metal band founded in 1984 in Belo Horizonte by brothers Max and Igor Cavalera. Sepultura is one of Brazil's most famous cultural exports and has become one of the most famous thrash/death metal bands in the world. Group's first stable recording line-up was established in 1985 and included Max on guitar/vocals, Igor on drums, Jairo T. on lead guitar and Paulo Jr. on bass. Jairo T. left the band in 1986 and was replaced by Andreas Kisser. This line-up is often considered as the \"classic\" Sepultura line-up that was together until 1996 when Max Cavalera left the band over a disagreement. Derrick Green took over the vocals in 1998. Igor Cavalera left the band in 2006 due to incompatibility of thoughts with the other members. He was first replaced by Jean Dolabella, who was then replaced by Eloy Casagrande in 2011."
 image: "sepultura.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/sepultura/918092"
 ---

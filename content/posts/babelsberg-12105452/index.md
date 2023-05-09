@@ -32,8 +32,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5QOzSPc4y8ScDP4ZS7XyuD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/babelsberg/1362980945" >}}
+
+
 
 
 

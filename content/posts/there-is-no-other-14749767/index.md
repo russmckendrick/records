@@ -42,8 +42,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2NEAYeM12tN0CdSk9dh143" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/there-is-no-other/1474138431" >}}
+
+
 
 
 

@@ -43,6 +43,13 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-sea-nymphs/1178220150" >}}
+
+
+
+
+
 ## Videos
 ### The Sea Nymphs : Abade
 {{< youtube id="h2McejcOiwI" title="The Sea Nymphs : Abade" >}}<br>

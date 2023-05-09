@@ -30,8 +30,14 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7pGb2cOGVz6vLyaZaKOQ7D" width="100%" height="500" >}}
+Early Sabbath’s apocalyptic vision reaches a fever pitch on what is arguably their finest hour: 1971’s <i>Master of Reality</i>. The tectonic-scale heaviness of “Children of the Grave”, “Into the Void” and “Sweet Leaf” gave birth to an entirely new vibe in rock. Ozzy completes the wicked package with incantatory lyrics that belie a young dude whose psyche has been shredded by Christianity, social alienation and the looming threat of global thermonuclear war. Don’t skip over the ballad “Solitude”—it’s the gloomiest of the lot.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/master-of-reality-2009-remastered-version/1193822439" >}}
+
+
 
 
 

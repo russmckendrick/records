@@ -30,8 +30,12 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5qAJbMh6zmjSgZy7BW34Ja" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-what-i-wanted-to-tell-you/1442193707" >}}
+
+
 
 
 

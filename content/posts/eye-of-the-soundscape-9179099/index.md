@@ -48,8 +48,12 @@ styles: ["Ambient", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="10LHKSAfZ52oYnUa9z5PVz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/eye-of-the-soundscape/1152468690" >}}
+
+
 
 
 

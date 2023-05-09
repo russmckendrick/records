@@ -53,8 +53,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5iIWnMgvSM8uEBwXKsPcXM" width="100%" height="500" >}}
+Recorded in Miami with a troupe of top-notch Southern players—including Delaney & Bonnie, Bobby Whitlock, and Duane Allman—<i>Layla and Other Assorted Love Songs</i> is a convivial celebration stoked by roiling urges. Guitar fireworks are seamlessly woven into the fibers of “I Looked Away” and “Bell Bottom Blues,” but the album is just as powerful on the hushed hotel room jam “I Am Yours.” Clapton’s inner demons surface on the towering title track, a thunderstorm of lust and anxiety funneled by his and Allman’s dueling guitars.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/layla-and-other-assorted-love-songs-40th-anniversary/1440663263" >}}
+
+
 
 
 

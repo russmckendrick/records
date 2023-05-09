@@ -36,6 +36,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/at/1675919389" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

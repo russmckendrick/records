@@ -36,6 +36,13 @@ styles: ["Soul"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dont-give-up-on-me/1485019443" >}}
+
+
+
+
+
 ## Videos
 ### Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)
 {{< youtube id="FR73etxqFx4" title="Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)" >}}<br>

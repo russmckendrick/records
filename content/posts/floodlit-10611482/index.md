@@ -26,8 +26,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5z7mZOQyjl8i20QtuUS83K" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/floodlit-ep/1540744493" >}}
+
+
 
 
 

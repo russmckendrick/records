@@ -37,6 +37,13 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/extreme-ii-pornograffitti/1445751596" >}}
+
+
+
+
+
 ## Videos
 ### Extreme - More Than Words (Official Music Video)
 {{< youtube id="UrIiLvg58SY" title="Extreme - More Than Words (Official Music Video)" >}}<br>

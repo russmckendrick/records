@@ -31,8 +31,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7uQeo4W4xhKTUtN8Tmo31J" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/robbie-robertson/1442372729" >}}
+
+
 
 
 

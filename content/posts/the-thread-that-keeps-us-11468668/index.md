@@ -44,8 +44,12 @@ styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Ws4bwfBSjDopuj2oUISaU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-thread-that-keeps-us-deluxe-edition/1289246851" >}}
+
+
 
 
 

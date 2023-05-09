@@ -36,6 +36,13 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}
+
+
+
+
+
 ## Videos
 ### Matt Berry - Gather Up (Kill the Wolf Album)
 {{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>

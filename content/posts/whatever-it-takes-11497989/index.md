@@ -32,8 +32,12 @@ styles: ["Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5xS12JJKDNn0UNflrA9nUW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whatever-it-takes/1484988854" >}}
+
+
 
 
 

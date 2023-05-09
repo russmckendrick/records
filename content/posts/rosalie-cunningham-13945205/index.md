@@ -30,8 +30,12 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7g9nava0UGMviUscrU4gOf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rosalie-cunningham/1464598387" >}}
+
+
 
 
 

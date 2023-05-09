@@ -34,8 +34,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5IY7BFou323iAAWQ0UQEh5" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/three-piece-suite-steven-wilson-mix/1261302548" >}}
+
+
 
 
 

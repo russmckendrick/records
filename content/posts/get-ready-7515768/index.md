@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6V0NOI7IaZDO9mBvHNc1jt" width="100%" height="500" >}}
+Twenty years after <i>Movement</i>, New Order marched into the 21st century with renewal on their minds once again. It had been eight years since <i>Republic</i>, an album fraught with turmoil, but they sound reinvigorated on the optimistic "Turn My Way" and the lean "Vicious Streak". Dark and driving, "Primitive Notion" wouldn't have been out of place on <i>Brotherhood</i>, but subtle electronic touches on songs like "Slow Jam" and "Someone Like You" prove that they're too interested in the future to get hung up on the past.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/get-ready/36400877" >}}
+
+
 
 
 

@@ -40,8 +40,12 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6yui99cp2Q3dosoHtiPJk7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-roxy-music/724413368" >}}
+
+
 
 
 

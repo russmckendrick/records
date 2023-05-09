@@ -35,8 +35,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7qQEoMXpeyJ2GJkkdDsVdr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gold-mother-remastered/1443094532" >}}
+
+
 
 
 

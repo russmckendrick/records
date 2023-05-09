@@ -36,8 +36,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1clekgjwj7TdXgYjQjm1BJ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/anarchist-gospel/1645020451" >}}
+
+
 
 
 

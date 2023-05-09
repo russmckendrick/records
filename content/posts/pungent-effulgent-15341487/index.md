@@ -29,8 +29,12 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1avIphrxjyuSHUNaoICDJI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pungent-effulgent/1189443799" >}}
+
+
 
 
 

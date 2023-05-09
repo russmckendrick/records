@@ -27,6 +27,13 @@ styles: ["New Wave", "Electro"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green-2019-remaster-single/1457716993" >}}
+
+
+
+
+
 ## Videos
 ### New Order - Everything's Gone Green (Official Lyric Video)
 {{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}<br>

@@ -31,8 +31,14 @@ styles: ["Hard Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Cf545T4jkaiyvMnTRPOB2" width="100%" height="500" >}}
+Plenty of rock bands kicked ass in the '70s, but how many of 'em did it with street-tough poetry as part of the equation? Thin Lizzy's imagistic hard rock was propelled by bassist Phil Lynott's tough-sounding voice as well as a snaking, twin-lead guitar sound that would prove hugely influential. The group really hit their peak on this 1976 album. <i>Jailbreak</i> contains the band's only US hit, "The Boys Are Back In Town," but all the songs on it swagger and bounce without the cheesy self-mythologizing most of their peers fell prey to. This is nothing less than a literate hard-rock record, as essential to your musical understanding of the '70s as anything by T. Rex, Skynyrd, AC/DC, or even Springsteen. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jailbreak/1440918303" >}}
+
+
 
 
 

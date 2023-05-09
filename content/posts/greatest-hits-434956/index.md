@@ -42,6 +42,13 @@ styles: ["Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-steely-dan/1440803723" >}}
+
+
+
+
+
 ## Videos
 ### RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan
 {{< youtube id="UfZWp-hGCdA" title="RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan" >}}<br>

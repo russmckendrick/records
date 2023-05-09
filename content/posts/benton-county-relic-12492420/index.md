@@ -34,8 +34,12 @@ styles: ["Country Blues", "Hill Country Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6N2kgU28H4AZWrsnw8IVeu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/benton-county-relic/1534658310" >}}
+
+
 
 
 

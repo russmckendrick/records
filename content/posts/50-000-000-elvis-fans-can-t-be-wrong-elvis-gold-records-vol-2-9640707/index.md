@@ -36,8 +36,14 @@ styles: ["Rock & Roll", "Vocal", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0s357yjkkRrf0KCXtnISGe" width="100%" height="500" >}}
+Just how big a star was Elvis Presley in the '50s? Consider that RCA released its first Elvis greatest-hits album in March 1958—the 14-track <i>Elvis' Golden Records</i>—and then put out this second volume in November 1959. (The a- and b-sides issued in 1958 and 1959 with "Hard Headed Woman" and "Don't Ask Me Why" were left off due to their inclusion on the <i>King Creole</i> soundtrack the prior year.) In the late '50s, even Presley's b-sides charted in the Top 40. Whereas the albums of his Army period—<i>For LP Fans Only</i>, <i>A Date with Elvis</i>—raided the vaults for his sessions at Sun Records, the singles here were all new tracks recorded either several months before Elvis departed or during one of his rare weekends of Army leave. Contrary to some rumors, Presley wasn't showing signs of mellowing. Songs such as "I Got Stung," "One Night," and "A Big Hunk O' Love" are as ferocious in their own way as the tracks he cut at Sun Records and in his first few years at RCA. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/50-000-000-elvis-fans-cant-be-wrong-elvis-gold-records-vol-2/674507376" >}}
+
+
 
 
 

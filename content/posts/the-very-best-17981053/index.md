@@ -42,8 +42,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2l9enpmtIGp7jZTlKxR1qa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best/1440521939" >}}
+
+
 
 
 

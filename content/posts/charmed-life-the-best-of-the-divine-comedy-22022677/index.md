@@ -46,8 +46,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2kk8ONoQSPpG7Z0Uv9TsoB" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy-deluxe-edition/1594918111" >}}
+
+
 
 
 

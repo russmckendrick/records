@@ -32,8 +32,12 @@ styles: ["Grunge", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="63HdXCn0Xz1pRZc2GzMw7k" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog/1440657497" >}}
+
+
 
 
 

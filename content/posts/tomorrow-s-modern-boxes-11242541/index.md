@@ -30,8 +30,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="48mLH4Pm2BErDEQC7YT1xW" width="100%" height="500" >}}
+The second solo album from Thom Yorke shares with its predecessor an exclusive reliance on keyboards and electronics to accompany the Radiohead frontman's haunting vocals. But <i>Tomorrow's Modern Boxes</i> is sparser and less groove-driven than <i>The Eraser</i>. While a couple of tunes are fueled by modified house beats, pieces like the beatless, ethereal instrumental "Pink Section" and the delicately floating "Interference" allow Yorke to achieve the kind of sonic simplicity that becomes difficult when you've got a whole band's ideas to contend with.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tomorrows-modern-boxes/1262568019" >}}
+
+
 
 
 

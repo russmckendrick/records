@@ -33,8 +33,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="662vZghUEjQCywafYimHtK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/penthouse-and-pavement/714604615" >}}
+
+
 
 
 

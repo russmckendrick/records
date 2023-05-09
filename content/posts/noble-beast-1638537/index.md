@@ -36,8 +36,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6mBVlPWGqKYGGTVsSxPWPW" width="100%" height="500" >}}
+Andrew Bird has a way of making things seem easy. Such is the disarming sense of grace and confidence on the Chicago singer/multi-instrumentalist’s fifth solo studio album, it takes a while to note the complexity of what he achieves so casually. When he’s not fusing whimsical humor, swelling strings, and a bossa-nova swagger on “Masterswarm,” he’s applying his signature croon to machine-made beats and fuzzier noises on “Not a Robot, but a Ghost,” or inventing his version of a pastoral-folk symphony in “Souverian.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/noble-beast/671946528" >}}
+
+
 
 
 

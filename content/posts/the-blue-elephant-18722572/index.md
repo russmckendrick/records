@@ -39,6 +39,13 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-blue-elephant/1553322260" >}}
+
+
+
+
+
 ## Videos
 ### The Blue Elephant
 {{< youtube id="t7yQj7-IFgo" title="The Blue Elephant" >}}<br>

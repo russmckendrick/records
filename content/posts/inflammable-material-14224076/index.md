@@ -35,8 +35,12 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2uXYm7SqdQlOgrx2FEWlkD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/inflammable-material/697417504" >}}
+
+
 
 
 

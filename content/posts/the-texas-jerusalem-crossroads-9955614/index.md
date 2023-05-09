@@ -46,8 +46,12 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="062SIuYHTCmS3gAsOupCdA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-texas-jerusalem-crossroads/1172400599" >}}
+
+
 
 
 

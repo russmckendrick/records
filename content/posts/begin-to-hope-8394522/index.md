@@ -44,8 +44,12 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ssMZRCnobXKQXjQ2R5A5a" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/begin-to-hope-bonus-track-version/157820746" >}}
+
+
 
 
 

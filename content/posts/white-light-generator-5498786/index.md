@@ -40,8 +40,12 @@ styles: ["Prog Rock", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5mPReMFpBcYy8LINld3yhF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/white-light-generator/1600467011" >}}
+
+
 
 
 

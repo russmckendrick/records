@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5hcyt9fwjv3bSHSbOLNdQb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/london/1647622598" >}}
+
+
 
 
 

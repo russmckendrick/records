@@ -31,8 +31,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4UwKTEr9w2Q2GfJGkuSFxE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mosaic/1507505607" >}}
+
+
 
 
 

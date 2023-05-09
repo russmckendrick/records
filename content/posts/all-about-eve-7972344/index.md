@@ -33,8 +33,12 @@ styles: ["Folk Rock", "Alternative Rock", "Goth Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="72KSAG3XBDNT7zBbz2l2Ki" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-about-eve/1442969916" >}}
+
+
 
 
 

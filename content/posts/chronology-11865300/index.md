@@ -30,8 +30,12 @@ styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4RTDlj21LMbDZD5sm4WTEW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chronology/1027734461" >}}
+
+
 
 
 

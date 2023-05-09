@@ -40,8 +40,14 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0CvKQbws4lBM0UopcAn7OK" width="100%" height="500" >}}
+The patriarch of New Orleans R&B recorded one last session before he passed away in November 2015. <i>American Tunes</i> features solo piano recordings made at Touissant’s home studio as well as others made with guests like Jay Bellerose, Bill Frisell, Rhiannon Giddens, and Van Dyke Parks. He’s in fine form, too, lending his singular style to songs by Professor Longhair, Duke Ellington, Fats Waller, Paul Simon, and beautiful originals like  “Southern Nights.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/american-tunes/1100493803" >}}
+
+
 
 
 

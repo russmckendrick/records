@@ -36,6 +36,13 @@ styles: ["Goth Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-vol-one-a-slight-case-of/1384587799" >}}
+
+
+
+
+
 ## Videos
 ### Sisters of Mercy - Temple of Love '92
 {{< youtube id="ROnXv7Z7v28" title="Sisters of Mercy - Temple of Love '92" >}}<br>

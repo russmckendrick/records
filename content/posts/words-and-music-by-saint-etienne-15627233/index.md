@@ -35,8 +35,12 @@ styles: ["Indie Pop", "Dance-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2VFTKW5v9Tw9CwlmgsYwou" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/words-and-music-by-saint-etienne/1502242307" >}}
+
+
 
 
 

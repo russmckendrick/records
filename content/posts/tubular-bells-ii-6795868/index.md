@@ -36,8 +36,12 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3DSrfmHKb8WWgrX1Mvsx6K" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tubular-bells-ii/358349175" >}}
+
+
 
 
 

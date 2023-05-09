@@ -33,8 +33,12 @@ styles: ["Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7v04VQBNE3VmBxf7vbnpnL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}
+
+
 
 
 

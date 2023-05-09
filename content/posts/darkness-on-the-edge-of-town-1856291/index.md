@@ -32,8 +32,14 @@ styles: ["Folk Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4KT6G8fj8EEIfsyr75hbgc" width="100%" height="500" >}}
+Bruce Springsteen’s fourth album finds the rock ’n’ roll poet of the working class wrestling with themes involving troubled souls in troubled times. Songs are filled with dead-end factories, dark bars, and lost horizons—lyrical devices that reinforce Springsteen’s idea that salvation is found only through love. Surging opener “Badlands” and the dramatic “The Promised Land” offer hope as a vaccination against sadness and struggles, while the percolating title track—and poignant ballads “Racing in the Street” and “Factory”—subtly remind us that we were all just born to run.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977" >}}
+
+
 
 
 

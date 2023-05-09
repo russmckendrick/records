@@ -35,8 +35,12 @@ styles: ["Krautrock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="15FI3scIDCp17myrtT0cHs" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/autoamerican-bonus-tracks-edition-2001-remaster/724402839" >}}
+
+
 
 
 

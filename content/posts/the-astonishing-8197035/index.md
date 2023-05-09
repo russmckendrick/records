@@ -58,8 +58,14 @@ styles: ["Prog Rock", "Progressive Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6SRlWxC7lMPu2qlwOMslrk" width="100%" height="500" >}}
+A two-hour concept album about creative musicians battling institutional enforcement of electronic cacophony in the year 2285, <i>The Astonishing</i> tones down Dream Theater’s super-musicianly dexterity somewhat in service of its plot. Emphasis goes to piano parts, jazz touches, classical choirs, and orchestral arias such as the one in “Act of Faythe.” But amid all the multicharacter rock opera, riff-shredders like “Our New World” still connect on their own, while “When Your Time Has Come” works as a miniature version of the whole project.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-astonishing/1061243392" >}}
+
+
 
 
 

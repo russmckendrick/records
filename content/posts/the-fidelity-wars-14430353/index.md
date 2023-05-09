@@ -35,6 +35,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-fidelity-wars/1057821453" >}}
+
+
+
+
+
 ## Videos
 ### Hefner - I Took Her Love For Granted (Official Video)
 {{< youtube id="KgTg_cjk0Fc" title="Hefner - I Took Her Love For Granted (Official Video)" >}}<br>

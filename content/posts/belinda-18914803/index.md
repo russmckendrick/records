@@ -44,8 +44,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6LEZyia6Ny2PUdMD2FWhF3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-belinda-carlisle/996508709" >}}
+
+
 
 
 

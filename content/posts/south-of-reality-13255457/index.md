@@ -31,8 +31,12 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3KiA7e7NDRMKecw7YGVkZK" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/south-of-reality/1440080018" >}}
+
+
 
 
 

@@ -31,8 +31,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4yTLxREZV5Fjl4SY37tr2l" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/for-the-music/1531752115" >}}
+
+
 
 
 

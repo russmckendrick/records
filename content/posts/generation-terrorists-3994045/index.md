@@ -41,8 +41,12 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5XV63qDoIC1z2Tb0EIMVua" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/generation-terrorists-remastered/573139474" >}}
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0wtOX04qOsDIfH53NWJl54" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/love-is-magic/1407828339" >}}
+
+
 
 
 

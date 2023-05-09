@@ -32,8 +32,12 @@ styles: ["Breakbeat", "House", "Big Beat"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="56nVadPbdCs1yGB0AtXSGp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/come-with-us/721206816" >}}
+
+
 
 
 

@@ -28,6 +28,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/something-to-miss/259504098" >}}
+
+
+
+
+
 ## Videos
 ### Senseless Things - Something To Miss
 {{< youtube id="NzWfqBz8ksY" title="Senseless Things - Something To Miss" >}}<br>

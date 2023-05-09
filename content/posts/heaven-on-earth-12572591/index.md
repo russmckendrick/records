@@ -32,8 +32,12 @@ styles: ["Pop Rock", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="34SBayfOPJb9ztyCTvS3no" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/heaven-on-earth/684787804" >}}
+
+
 
 
 

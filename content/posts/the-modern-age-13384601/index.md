@@ -34,6 +34,13 @@ styles: ["Indie Rock", "Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-modern-age/1445590486" >}}
+
+
+
+
+
 ## Videos
 ### SLEEPER 'THE SUN ALSO RISES' Official video
 {{< youtube id="czLvTGLcyHE" title="SLEEPER 'THE SUN ALSO RISES' Official video" >}}<br>

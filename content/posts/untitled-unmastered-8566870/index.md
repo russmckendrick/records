@@ -30,8 +30,14 @@ styles: ["Funk", "Conscious"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0kL3TYRsSXnu0iJvFO3rud" width="100%" height="500" >}}
+Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you something about the Compton MC’s provocative, multi-layered genius. Take the contrast of the collection's ultra-generic title and its attention-grabbing, out-of-left-field release. Take the retro-futuristic, Funkadelic-inspired grooves that simmer under tracks like “untitled 02” and “untitled 06.” These are only the beginning of the album's  hypnotic, nuanced nod to hip-hop’s deep roots and unstoppable political and expressive currency. Songs like “untitled 03” and “untitled 05”—with layered references, wild-eyed jazz solos, and cutting insight—continue Lamar's winning streak.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/untitled-unmastered/1440844834" >}}
+
+
 
 
 

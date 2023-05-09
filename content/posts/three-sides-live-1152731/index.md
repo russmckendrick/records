@@ -35,8 +35,12 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5hvmL4yhRrws8Tpn9NoZpt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/three-sides-live/724403891" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7iehh77UNP03AllcLAB69M" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/easy-stars-lonely-hearts-dub-band-bonus-track-version/309072993" >}}
+
+
 
 
 

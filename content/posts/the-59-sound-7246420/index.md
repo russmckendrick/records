@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3iC6u4b7pxcrreH1w5C5HD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-59-sound/1631014742" >}}
+
+
 
 
 

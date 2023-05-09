@@ -40,8 +40,12 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7nIgN7HYfrsz7Q5TcPwQfm" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/paul-weller-an-orchestrated-songbook-with-jules/1572852255" >}}
+
+
 
 
 

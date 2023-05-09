@@ -36,8 +36,12 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1FJ9XKn6aTTigSG5GTQaXZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hypocrisy-is-the-greatest-luxury/1442921405" >}}
+
+
 
 
 

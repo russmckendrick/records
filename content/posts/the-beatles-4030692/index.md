@@ -261,8 +261,14 @@ styles: ["Beat", "Rock & Roll", "Pop Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1klALx0u4AavZNEvC4LrTL" width="100%" height="500" >}}
+Beneath the white-on-white cover art, “The White Album” is an eclectic, 30-track album of largely stripped-down material, originally spread across two vinyl records. The album was a stark contrast to <i>Sgt. Pepper</i> in every aspect — from the cover art to the sounds within. The sheer breadth of material as well as the mixture of the loud and the soft is part of what makes “The White Album” so surprising. The heavy sounds of “Helter Skelter” and “Yer Blues” juxtapose with the gentle beauty of “Long, Long, Long” and “Julia”. The cacophony of “Revolution 9” is followed by the orchestral lullaby of “Good Night”. The album’s extended length gave the band room in which they could explore all of their musical influences and multiple forms of popular music, while creating revolutionary sounds in the studio. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-beatles-the-white-album/1441133180" >}}
+
+
 
 
 

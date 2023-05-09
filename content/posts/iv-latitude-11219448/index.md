@@ -37,6 +37,9 @@ styles: ["Prog Rock"]
 
 
 
+
+
+
 ## Videos
 ### Latitude
 {{< youtube id="t3zBRu3b4RU" title="Latitude" >}}<br>

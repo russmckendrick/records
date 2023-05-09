@@ -33,8 +33,14 @@ styles: ["Psychedelic Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3IPhWIXHOAhS2npnq6FiCG" width="100%" height="500" >}}
+<i>Ummagumma</i> is Floyd at their most cosmically adventurous—and one of the most joyously freaky records ever released by a major label. On the live half, the band attacks already-trippy material like the swirling "Astronomy Domine" with an even more ominous, otherworldly feel. The studio recordings are solo efforts by all four band members, crafting heady prog-rock suites and mind-blowing avant-garde sound collages. In the middle sits Roger Waters' chiming "Grantchester Meadows", pointing the way to the delicate, atmospheric tunes that would become Floyd mainstays.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ummagumma/699827490" >}}
+
+
 
 
 

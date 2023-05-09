@@ -44,8 +44,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="62LAXcFArJMqe9UFSaGnJc" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dumbing-up/711981890" >}}
+
+
 
 
 

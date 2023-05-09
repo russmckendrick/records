@@ -41,8 +41,12 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0pUursvGUAgcDiEqYlnZ0q" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1061940454" >}}
+
+
 
 
 

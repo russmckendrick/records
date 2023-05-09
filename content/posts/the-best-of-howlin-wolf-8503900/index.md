@@ -38,8 +38,12 @@ styles: ["Chicago Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0MSREewx6CgUBtSonNOkJT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-collection-the/1484883790" >}}
+
+
 
 
 

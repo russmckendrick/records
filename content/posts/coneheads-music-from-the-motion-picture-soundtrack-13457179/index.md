@@ -33,8 +33,11 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="1SWZCAejTTpS4tG3uRPqo9" width="100%" height="500" >}}
+
 
 
 

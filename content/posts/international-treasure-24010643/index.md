@@ -33,6 +33,13 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/international-treasure/1614462986" >}}
+
+
+
+
+
 ## Videos
 ### Trident of Fire
 {{< youtube id="xvIHA2Zek3U" title="Trident of Fire" >}}<br>

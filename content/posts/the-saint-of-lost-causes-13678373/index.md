@@ -34,8 +34,12 @@ styles: ["Folk", "Country"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2u56gjSmnJzoZOcUO84Lrw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-saint-of-lost-causes/1451565483" >}}
+
+
 
 
 

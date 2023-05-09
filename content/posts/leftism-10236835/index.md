@@ -34,8 +34,12 @@ styles: ["Leftfield", "Downtempo", "Progressive House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Hh2XrY2Yuse8omAzSabdp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/leftism-22/1219444979" >}}
+
+
 
 
 

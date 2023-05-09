@@ -31,8 +31,12 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="08dJZlYk0LYjlc0xsWhzMo" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/turn/328947264" >}}
+
+
 
 
 

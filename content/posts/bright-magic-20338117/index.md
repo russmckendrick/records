@@ -33,8 +33,12 @@ styles: ["Indie Rock", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5MpSEsDO02dg1McQDcDjAE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bright-magic/1566582480" >}}
+
+
 
 
 

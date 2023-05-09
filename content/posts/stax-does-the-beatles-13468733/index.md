@@ -37,8 +37,11 @@ styles: []
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}
+
 
 
 

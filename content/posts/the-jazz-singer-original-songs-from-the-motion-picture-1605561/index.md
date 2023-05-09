@@ -36,8 +36,12 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3NDwrDoBKwmBQYz4emr9P7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546" >}}
+
+
 
 
 

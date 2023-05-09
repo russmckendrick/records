@@ -28,10 +28,26 @@ styles: ["Electro", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3eyz60xEK5dGEeZF1JJSi9" width="100%" height="500" >}}
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-man-machine-remastered/726157248" >}}
+
+
+
+
+
+## Videos
+### Kraftwerk- die Roboter
+{{< youtube id="bLY1lYb1Pps" title="Kraftwerk- die Roboter" >}}<br>
+
+### More Videos
+
+- [Spacelab (2009 Remaster)](https://www.youtube.com/watch?v=nZXYnVBK0fY)
+- [Metropolis (2009 Remaster)](https://www.youtube.com/watch?v=2FRG4V7ZK5A)
+- [Das Model (2009 Remaster)](https://www.youtube.com/watch?v=o0iga1eNgvA)
+- [Neonlicht (2009 Remaster)](https://www.youtube.com/watch?v=fqsMCEgHMrE)
+- [Die Mensch-Maschine (2009 Remaster)](https://www.youtube.com/watch?v=8VApZHVH6iw)
 
 
 ## Release Information

@@ -34,8 +34,12 @@ styles: ["Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6ohX7moZZnF1FwYrli1OJ6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-utero-20th-anniversary-edition/1440858699" >}}
+
+
 
 
 

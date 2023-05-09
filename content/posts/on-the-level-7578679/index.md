@@ -34,6 +34,13 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/on-the-level/1443160113" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

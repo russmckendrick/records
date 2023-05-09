@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="485E7qOktHuqCNj9ivL8Xc" width="100%" height="500" >}}
+Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly reuniting for a couple of shows opening for Nirvana, whose leader, Kurt Cobain, was their most famous fan. Flash-forward to 2010 and the duo reunite with a new album and it’s a wonderful collection of skeletal pop songs sung with an ear towards simple hooks and perfectly scripted instrumentation. There are no wasted notes. The vocal interplay is ingenuous. “The Devil’s Inside Me” and “Turning It On” are great male-to-female pieces of sexual tension. The title track is a handclap-fueled ultra-catchy pop song. “Overweight But Over You” is exactly the kind of churning power-pop song that Cobain himself tried to write so many times. “I Hate the ‘80s” gears up with splendid 1960s guitars to mock the decade where the best music was often driven underground and left unheard. “Whitechapel” adds an extra sheen of sophistication right before the garage-rock-cum-country glee of “My God Is Bigger Than Your God.” Exquisite.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sex-with-an-x/387736753" >}}
+
+
 
 
 

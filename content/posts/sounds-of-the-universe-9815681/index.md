@@ -36,8 +36,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2Bo9dmgi22zpLiswxilkoZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075" >}}
+
+
 
 
 

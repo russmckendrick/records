@@ -34,8 +34,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1Wjheru5k9DMQduRIasAyL" width="100%" height="500" >}}
+A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/schmilco/1131561462" >}}
+
+
 
 
 

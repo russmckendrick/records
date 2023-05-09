@@ -34,9 +34,18 @@ styles: ["Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4AsXQ17Arq1cUVoa9dKJ3F" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-deluxe/1196727792" >}}
+
+
+
+
+
+## Videos
+### Tango in the Night (2017 Remaster)
+{{< youtube id="i_xlI6gMH7U" title="Tango in the Night (2017 Remaster)" >}}<br>
 
 
 

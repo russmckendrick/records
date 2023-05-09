@@ -223,8 +223,12 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5nKpMsduwp5xqCKq2IbSKv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-rolling-stones-in-mono-remastered/1440774096" >}}
+
+
 
 
 

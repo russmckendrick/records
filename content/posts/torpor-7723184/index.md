@@ -32,6 +32,13 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/torpor/1494198864" >}}
+
+
+
+
+
 ## Videos
 ### Baron - Stry
 {{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}<br>

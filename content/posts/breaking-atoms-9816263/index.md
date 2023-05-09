@@ -35,8 +35,12 @@ styles: ["Conscious"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0YBKh4pphYo7UW6f4b6uxy" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/breaking-atoms-2017-remastered/1565380753" >}}
+
+
 
 
 

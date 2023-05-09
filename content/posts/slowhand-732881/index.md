@@ -31,8 +31,14 @@ styles: ["Blues Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5MAL7e4EnKXW1hFg6NbFqP" width="100%" height="500" >}}
+Eric Clapton’s skills as a guitarist and songwriter came together on this 1977 album. Even the covers, such as J.J. Cale’s hypnotic blues-blast “Cocaine” and John Martyn’s gentle “May You Never,” are soulful and well-sketched. His unhurried guitar playing is subtly persuasive and restrained, especially on the country-influenced “Lay Down Sally,” the melancholic lover’s ballad “Wonderful Tonight,” and blues burner “Mean Old Frisco.” More, Clapton’s singing conveys wide-ranging emotions—from sadness on the telling “We’re All the Way” to contrition on the Dylanesque “Next Time You See Her.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/slowhand-35th-anniversary-edition/1440782705" >}}
+
+
 
 
 

@@ -37,8 +37,14 @@ styles: ["Funk Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2rNAZnGy5aH1enh3NRn6IA" width="100%" height="500" >}}
+Living Colour’s second album blows up the muscular swagger of their debut into an eclectic, epic musical statement on survival in America. Channeling the hardcore fury of Bad Brains, the title track sounds the alarm for environmental disaster; “Elvis Is Dead” uses The King as the piñata in a savage funk-metal battering of systemic racism. But the band balances these big-picture pronouncements with intimate, playful gestures—on “Love Rears Its Ugly Head,” Corey Glover cheekily plumbs the anxieties of modern romance over a stuttering soul groove.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/times-up/158439495" >}}
+
+
 
 
 

@@ -34,6 +34,13 @@ styles: ["Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cant-buy-a-thrill/1652580027" >}}
+
+
+
+
+
 ## Videos
 ### Do It Again
 {{< youtube id="jmdiKePVUy8" title="Do It Again" >}}<br>

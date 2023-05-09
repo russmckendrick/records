@@ -37,6 +37,13 @@ styles: ["Ska"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1504284446" >}}
+
+
+
+
+
 ## Videos
 ### Israelites
 {{< youtube id="KPoypZ9casY" title="Israelites" >}}<br>

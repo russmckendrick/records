@@ -33,8 +33,12 @@ styles: ["Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6k1iylSzWOs7SgavxlJ8kt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/electric-warrior/1440804752" >}}
+
+
 
 
 

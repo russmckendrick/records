@@ -32,8 +32,11 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="7hb7PW4pEcddvEPyU8WORa" width="100%" height="500" >}}
+
 
 
 

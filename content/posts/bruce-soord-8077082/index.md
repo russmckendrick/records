@@ -32,8 +32,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0kttM7jNGfit5uxoxYYpBn" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bruce-soord/1049319243" >}}
+
+
 
 
 

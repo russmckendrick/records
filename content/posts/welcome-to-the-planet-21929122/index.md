@@ -31,8 +31,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4GbXSOXXIWzoqbsI3u7rRu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-planet/1591312364" >}}
+
+
 
 
 

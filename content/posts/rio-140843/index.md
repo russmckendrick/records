@@ -31,8 +31,14 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="02tfQwJSOLP77oCd9U8bqm" width="100%" height="500" >}}
+Duran Duran’s second album elegantly and audaciously tests the boundaries of synth-pop, fleshing out New Wave guitars and disco grooves with shimmering keyboards and some of the '80s' catchiest hooks. "Rio" pits Simon Le Bon's suave voice against a sleek, driving pulse, while "The Chauffeur" sets him adrift among ethereal pads and pan pipes. John Taylor's muscular basslines propel "Last Chance on the Stairway" and "My Own Way"; "Hungry Like the Wolf" plays hard rock riffs off delectable vocal harmonies. The melancholy "Save a Prayer" sounds tailor-made for slow dances in the distant future.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rio-collectors-edition/693610443" >}}
+
+
 
 
 

@@ -26,6 +26,13 @@ styles: ["Indie Rock", "New Wave", "Post-Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/temptation-2019-remaster-single/1457719992" >}}
+
+
+
+
+
 ## Videos
 ### New Order - Temptation (Official Music Video) [HD Upgrade]
 {{< youtube id="xxDv_RTdLQo" title="New Order - Temptation (Official Music Video) [HD Upgrade]" >}}<br>

@@ -34,8 +34,12 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7tsqjPwOhgPOWHgp9RHYi6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-learned-the-hard-way/1484995880" >}}
+
+
 
 
 

@@ -39,8 +39,11 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0cO2uSBkGgniN35oeuaUCM" width="100%" height="500" >}}
+
 
 
 

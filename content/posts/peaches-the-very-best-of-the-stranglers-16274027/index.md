@@ -42,8 +42,12 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3HExg0VnCPiFFF6M3VYpQr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566" >}}
+
+
 
 
 

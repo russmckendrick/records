@@ -27,9 +27,18 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="13dGZzRzFoejmyVXAbTPAH" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/red-expanded-edition/918614446" >}}
+
+
+
+
+
+## Videos
+### King Crimson - Red (OFFICIAL)
+{{< youtube id="X_pDwv3tpug" title="King Crimson - Red (OFFICIAL)" >}}<br>
 
 
 

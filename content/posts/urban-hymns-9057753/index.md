@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="52AeC4gwbxDfFlLHgK1ByD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/urban-hymns-deluxe-remastered-2016/1443258184" >}}
+
+
 
 
 

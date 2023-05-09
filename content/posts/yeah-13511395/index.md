@@ -38,6 +38,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/yeah/270581696" >}}
+
+
+
+
+
 ## Videos
 ### I Love Myself by The Wannadies (Album Yeah)
 {{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies (Album Yeah)" >}}<br>

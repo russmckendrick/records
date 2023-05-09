@@ -34,6 +34,13 @@ styles: ["Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/too-rye-ay-as-it-should-have-sounded-2022/1631813034" >}}
+
+
+
+
+
 ## Videos
 ### Too-Rye-Ay
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}<br>

@@ -35,6 +35,13 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump-on-a-wooden-piano/1527310709" >}}
+
+
+
+
+
 ## Videos
 ### Grandaddy - The Crystal Lake (Piano Version)
 {{< youtube id="MXwCreLCUrU" title="Grandaddy - The Crystal Lake (Piano Version)" >}}<br>

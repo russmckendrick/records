@@ -37,6 +37,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/varshons-2/1667417175" >}}
+
+
+
+
+
 ## Videos
 ### The Lemonheads – Can’t Forget
 {{< youtube id="zp-Yux6P7VU" title="The Lemonheads – Can’t Forget" >}}<br>

@@ -28,8 +28,12 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0MFwAFXyJzCiKihXmX9RpW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/you-cant-argue-with-a-sick-mind/1422950082" >}}
+
+
 
 
 

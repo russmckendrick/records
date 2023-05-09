@@ -31,8 +31,12 @@ styles: ["Blues Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6GQLj4tvPqK3jjqTt1Lt5L" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bop-till-you-drop/336767770" >}}
+
+
 
 
 

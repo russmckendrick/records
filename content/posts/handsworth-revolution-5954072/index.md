@@ -30,8 +30,14 @@ styles: ["Roots Reggae"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2AmHSmroi01mQ9yDUqyhuv" width="100%" height="500" >}}
+England’s Steel Pulse took no prisoners with their cerebral yet accessible brand of roots reggae. On this 1978 debut, the woofer-challenging grooves are tempered with cool jazz, soothing harmonies and warm organs, which juxtapose the political and religious protestations and themes. The album appealed to a wide audience—songs like “Soldiers” and “Bad Man” gave voice to the voiceless in black Britain while turning on the punks and mods. The beautiful “Prodigal Son” became one of their signature tunes, and “Prediction” revealed a musical diversity that served them well down the road.  
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/handsworth-revolution-deluxe-edition/1480067980" >}}
+
+
 
 
 

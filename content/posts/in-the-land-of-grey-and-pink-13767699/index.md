@@ -27,8 +27,12 @@ styles: ["Jazz-Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6TWjon4uYsV2wu7QJTuKjd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-the-land-of-grey-and-pink/1443216681" >}}
+
+
 
 
 

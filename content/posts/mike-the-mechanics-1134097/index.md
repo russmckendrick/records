@@ -31,8 +31,12 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7pXUIU9n8JXEbQS95sodGr" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics-m6/1197681039" >}}
+
+
 
 
 

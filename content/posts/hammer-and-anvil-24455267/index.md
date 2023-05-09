@@ -32,8 +32,12 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1FlOmKtLz0PImGZA1GqVFv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hammer-and-anvil/1056376043" >}}
+
+
 
 
 

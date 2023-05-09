@@ -36,8 +36,14 @@ styles: ["Hard Rock", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="28yHV3Gdg30AiB8h8em1eW" width="100%" height="500" >}}
+It's hard to overstate the impact of Guns N' Roses' 1987 debut as a commercial juggernaut, convulsive pop-cultural realignment and overall statement of (ill) intent. This extremely deluxe reissue—a year late for the record's 30th anniversary—clocks in at 51 tracks and three and a half hours, an exhaustive and definitive document of not only the original album but its sundry B-sides, outtakes and 25 previously unreleased demos. The ferocious live tracks encapsulate the energy of a band shot out of a cannon from the Sunset Strip's grimy glam-metal underground into worldwide infamy. Whatever the band's complicated history since, the sheer mass of material—highlighted by the seldom-heard pre-GNR song “Shadow of Your Love” and an embryonic acoustic version of “November Rain”—feels revelatory. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction-super-deluxe/1377826053" >}}
+
+
 
 
 

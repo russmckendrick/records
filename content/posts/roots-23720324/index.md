@@ -35,8 +35,12 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3LIDGjqIJ1E9YwabMjuu13" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/roots/1590864217" >}}
+
+
 
 
 

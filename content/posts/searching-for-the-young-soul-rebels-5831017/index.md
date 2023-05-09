@@ -33,8 +33,12 @@ styles: ["New Wave", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5iawHcgRuKL5HMRbigdvWC" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/searching-for-the-young-soul-rebels/742535835" >}}
+
+
 
 
 

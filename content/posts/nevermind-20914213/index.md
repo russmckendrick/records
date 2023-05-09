@@ -37,8 +37,17 @@ styles: ["Alternative Rock", "Grunge"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2guirTSEqLizK7j9i1MTTZ" width="100%" height="500" >}}
+Drummer Dave Grohl once said that the metaphor that kept coming up while Nirvana was recording <i>Nevermind</i> was children’s music. Listen and you can hear it: the sing-song melodies, the simple performances, the way it feels direct but also a little haunted. For however much the band are framed as ambassadors for generational angst, what makes <i>Nevermind</i> special isn’t its rage, but its innocence. Of course they wanted to tear down the culture that came before it: It was often misogynistic and cruel. But in its place, they wanted to build something equitable and new. “I’m so horny/That’s okay, my will is good,” Cobain sings on “Lithium”. It’s funny. It’s dumb. It’s simple. It’s wise. And it hits like a bolt of lightning: His will, it <i>is</i> good.<br />
+Even as an outsider, Cobain was an outsider—he drew influence from The Beatles just as much as he did Black Sabbath. And as much as the band helped bring punk and underground rock into the mainstream, <i>Nevermind</i> is a tirelessly complex piece of music—not in the way that prog rock is, but in the way folk art can be: an expression that draws on something familiar in ways that feel alien and intuitive. Anyone who has ever tried to pick up a guitar and play these songs realises that the punk maxim of needing just three chords is inapplicable: Here are songs that expand on it, progressing in ways that don’t make sense until they do.<br />
+Still, they never present themselves as more than ordinary. Where once stood the sex god in his leather pants now stands a beflannelled caveman, banging away on his cool new rock (“Territorial Pissings”, “Stay Away”); where once was the glossy power ballad is now something fragile and raw (“Polly”, “Something in the Way”). The old guard was still kicking: Both Metallica’s Black Album and Guns N’ Roses’ two-volume <i>Use Your Illusion</i> famously came out within weeks of <i>Nevermind</i>, selling millions while drawing the sort of critical curiosity that big rock bands hadn’t had in years. But <i>Nevermind</i> cut a Rubicon. Kip Winger, of the hair-metal band Winger, remembers seeing the course-setting video for “Smells Like Teen Spirit” and thinking he was finished. And not only did <i>Nevermind</i> go on to sell about as well as <i>Metallica</i> and <i>Use Your Illusion</i>, for a brief moment in early 1992, it even displaced Michael Jackson’s <i>Dangerous</i> as the best-selling album in the United States.<br />
+A publicist for Sub Pop (the band’s first label) once said that the thing that made Nirvana stand out in Seattle at the start was that girls liked them—not, you figure, just because Cobain was one of the first male rock stars to say he was a feminist, but because he was one of the first male rock stars who didn’t seem turned on by power. As radical as it seemed at the time, the beauty of <i>Nevermind</i> was simple: Anyone could come, just as they are.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nevermind/1440783617" >}}
+
+
 
 
 

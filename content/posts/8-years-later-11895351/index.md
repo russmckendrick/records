@@ -29,8 +29,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1bPaM4vbjgWkyKgsooeSiH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/8-years-later/1585711251" >}}
+
+
 
 
 

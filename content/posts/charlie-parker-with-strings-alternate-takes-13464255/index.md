@@ -38,6 +38,9 @@ styles: ["Bop"]
 
 
 
+
+
+
 ## Videos
 ### Just Friends (Take 2 / Alternate Take)
 {{< youtube id="KBZlk32eCz0" title="Just Friends (Take 2 / Alternate Take)" >}}<br>

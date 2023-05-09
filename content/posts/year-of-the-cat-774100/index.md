@@ -31,8 +31,14 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2JxEUrs4GzHQdkV6qQayz5" width="100%" height="500" >}}
+Though his intricate story-songs quickly won him a loyal following in Britain, it took Al Stewart nearly a decade before his music found an audience in America. He did it with "Year of the Cat," a beguiling account of exotic romance that became an unexpected hit in early 1977. Stewart's album of the same title didn't disappoint those looking for similarly intelligent and evocative tunes. Produced by Alan Parsons, Year of the Cat is a superbly imagined collection of sonic postcards, its folk-based melodies enhanced by colorful dabs of keyboards and saxophones. From historical sketches ("Lord Grenville") to melodramatic narratives ("On the Border") and bittersweet lovers' farewells ("Sand in Your Shoes"), these songs are vivid snapshots of characters and continents. Stewart's warm, whispery vocals bring a compelling intimacy to the tracks. Immerse yourself in <i>Year of the Cat</i>'s tales of international intrigue and erotic escape.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/year-of-the-cat-remastered/695528177" >}}
+
+
 
 
 

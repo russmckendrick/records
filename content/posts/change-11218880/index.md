@@ -32,8 +32,12 @@ styles: ["Deep Techno"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1aunDVNDmrnIfmYklDAouX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/change/1262024890" >}}
+
+
 
 
 

@@ -38,8 +38,12 @@ styles: ["Britpop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2gu1tAkUSoe5zTJNM0qU3g" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/modern-life-is-rubbish/726407617" >}}
+
+
 
 
 

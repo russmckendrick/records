@@ -35,8 +35,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1UVthTEgHP0WcZZxqHtkvL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bottle-it-in/1586491648" >}}
+
+
 
 
 

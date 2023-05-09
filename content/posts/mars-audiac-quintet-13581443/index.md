@@ -51,8 +51,14 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3p7TBwwN0OGa9UxpcbdeY4" width="100%" height="500" >}}
+If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the gleaming optimism of the space age, <i>Mars Audiac Quintet</i> fell in love. The feel got lighter, the sound clearer, the French thicker, the structures more oriented towards pop songs than open-ended grooves (“Ping Pong”, “L’Enfer Des Formes”). Even the politics seemed more direct: “Look at the symbols, they are alive/They move, evolve, and then they die,” Laetitia Sadier sings on “Wow and Flutter”. That she’s paraphrasing the endless clash of Marxist dialectics doesn’t matter as much as how unbothered she sounds while doing it; all that’s missing is her cocktail. Then there’s stuff like “The Stars Our Destination”, which balances kitsch with earnestness and high-minded ideas with an almost naive optimism—a blend the band turned into their signature.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mars-audiac-quintet/1231421047" >}}
+
+
 
 
 

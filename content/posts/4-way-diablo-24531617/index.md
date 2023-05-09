@@ -35,8 +35,12 @@ styles: ["Stoner Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="720kpRumHTQsh2leZ3GL1g" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/4-way-diablo/1635598921" >}}
+
+
 
 
 

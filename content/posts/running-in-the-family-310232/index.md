@@ -30,8 +30,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1yAkrIyJL8D55sWTjS6U1n" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/running-in-the-family/1443532962" >}}
+
+
 
 
 

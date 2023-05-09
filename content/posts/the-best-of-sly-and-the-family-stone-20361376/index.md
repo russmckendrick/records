@@ -44,6 +44,13 @@ styles: ["Funk", "Psychedelic", "Disco"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-sly-the-family-stone/508650571" >}}
+
+
+
+
+
 ## Videos
 ### Sly & The Family Stone - Dance To The Music (Audio)
 {{< youtube id="Jn2PNlhvy8E" title="Sly & The Family Stone - Dance To The Music (Audio)" >}}<br>

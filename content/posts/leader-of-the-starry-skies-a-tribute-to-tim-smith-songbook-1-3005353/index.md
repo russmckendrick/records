@@ -41,6 +41,9 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 
 
 
+
+
+
 ## Videos
 ### Oceansize - Fear (Spratleys Japs cover)
 {{< youtube id="_TEIJX5H-xw" title="Oceansize - Fear (Spratleys Japs cover)" >}}<br>

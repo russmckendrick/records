@@ -32,8 +32,12 @@ styles: ["Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2ue75Cel9sD94D5MI7W592" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/where-have-all-the-flowers-gone-the-songs-of-pete-seeger/262257395" >}}
+
+
 
 
 

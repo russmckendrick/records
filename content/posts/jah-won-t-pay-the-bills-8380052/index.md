@@ -34,6 +34,13 @@ styles: ["Reggae", "Punk", "Ska"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jah-wont-pay-the-bills-2016-edition/1443218407" >}}
+
+
+
+
+
 ## Videos
 ### Sublime - Jah Won't Pay The Bills (Record Store Day 2016)
 {{< youtube id="iO4ll__JMrQ" title="Sublime - Jah Won't Pay The Bills (Record Store Day 2016)" >}}<br>

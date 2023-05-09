@@ -32,8 +32,12 @@ styles: ["Acid Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0SeTonJJPjy57LqiCDmeEM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/emergency-on-planet-earth-remastered/600870407" >}}
+
+
 
 
 

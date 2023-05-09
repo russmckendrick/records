@@ -31,8 +31,14 @@ styles: ["Country Rock", "Country"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6UQujMGmR5MbFsML9amCuN" width="100%" height="500" >}}
+The smartest move in the making of Gram Parson's posthumously released 1974 sophomore album is Emmylou Harris' promotion from backing singer to full-fledged duet partner—with the deliciously painful "Love Hurts" and "Hearts on Fire" immortalizing their rapport. Elvis Presley bandmembers add a barroom kick to "Ooh Las Vegas," while "Return of the Grievous Angel" and "In My Hour of Darkness" best manifest the country rocker's tragic magic.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}
+
+
 
 
 

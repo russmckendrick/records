@@ -34,8 +34,12 @@ styles: ["Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2BaLIDWPD51aLNVFPrNV2C" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/just-dropped-in-to-see-what-condition-my-rendition-was-in/1531719654" >}}
+
+
 
 
 

@@ -79,8 +79,12 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2E1q8eohZZ1BUQ7Bq5WUIY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-virgin-suicides-original-motion-picture-score/1467236029" >}}
+
+
 
 
 

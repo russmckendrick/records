@@ -34,8 +34,14 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="744i0LypfMwHHrKhzsqAx0" width="100%" height="500" >}}
+<i>Clockwork Angels</i> is the 20th studio album from rock’s holy triumvirate of Geddy Lee, Alex Lifeson, and Neil Peart, but it also reconfirms Rush’s 35-year-plus dedication to musical and lyrical exploration. The recipe remains the same (as the credits always note, “Music: Lee and Lifeson, Lyrics: Peart”), but the potential for ideas encased in air-guitar perfection keeps flourishing. <i>Clockwork Angels</i> is a conceptual tale about a young man’s dream quest. It involves steampunk, lost cities, pirates, a watchmaker, and more. Musically, Rush doesn't slow down. “Caravan” and “BU2B” exude a heft and dark resonance that recalls Tool. “Headlong Flight,” meanwhile, is another freewheeling Rush track, coasting on a zipline over jagged crevices with Lee as narrator, Lifeson’s careening guitar the guidance system, and Peart’s fluid percussion the accelerator pedal.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/clockwork-angels/522093869" >}}
+
+
 
 
 

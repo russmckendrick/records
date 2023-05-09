@@ -33,8 +33,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="47FOg0GaQDPGTbBTHDXg9V" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1193733398" >}}
+
+
 
 
 

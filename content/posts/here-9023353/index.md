@@ -34,8 +34,14 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3b6Fw0JpYUyXgRrKSVHJ7J" width="100%" height="500" >}}
+<i>Here</i> finds the Scottish indie veterans doing what they do best. Their 10th full-length is a beautifully crafted set of chiming guitars and poignant reflection that borders on the bittersweet—from the psychedelic sadness of “I Was Beautiful When I Was Alive” to the autumnal strums of “The Darkest Part of the Night”, a song whose end we always dread.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/here/1125410429" >}}
+
+
 
 
 

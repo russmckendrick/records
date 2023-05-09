@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7f4DUvIlSluy7YRnZsLEkd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gods-favorite-customer/1359220140" >}}
+
+
 
 
 

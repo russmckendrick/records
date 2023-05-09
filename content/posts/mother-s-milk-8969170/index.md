@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1oOkcBu5bgkUzZTvKD1m8z" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mothers-milk-remastered/1440872972" >}}
+
+
 
 
 

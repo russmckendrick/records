@@ -24,8 +24,12 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5bXAysvuhQbyWllgYuahwt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/atmosphere-2020-digital-remaster-single/1511760196" >}}
+
+
 
 
 

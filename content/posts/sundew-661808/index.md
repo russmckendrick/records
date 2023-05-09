@@ -34,6 +34,13 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sundew/714532688" >}}
+
+
+
+
+
 ## Videos
 ### Paris Angels - Eternity (1991)
 {{< youtube id="XVyHvWFRlCo" title="Paris Angels - Eternity (1991)" >}}<br>

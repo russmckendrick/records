@@ -26,8 +26,12 @@ styles: ["Electro", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7mKi3cd7dfW7Y1VR4MeZWG" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ep-one-ep/1105432622" >}}
+
+
 
 
 

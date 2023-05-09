@@ -24,8 +24,11 @@ styles: ["Musique Concrète", "Psychedelic Rock", "Avantgarde", "Classical"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="2WtjHoqPZlQhCNzEhy6TkZ" width="100%" height="500" >}}
+
 
 
 

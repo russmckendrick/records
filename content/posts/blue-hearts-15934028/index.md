@@ -36,8 +36,12 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1OcbPvViMa2vNKSGgdcQRD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blue-hearts/1512263916" >}}
+
+
 
 
 
@@ -62,4 +66,4 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 | Label          | Merge Records |
 | Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
 | Catalog Number | MRG730 |
-| Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out. |
+| Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.  Runouts are etched. |

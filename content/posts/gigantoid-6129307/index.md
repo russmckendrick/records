@@ -31,8 +31,12 @@ styles: ["Stoner Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0AUiFu4Sh6stPr4y8sgGsh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gigantoid/868547942" >}}
+
+
 
 
 

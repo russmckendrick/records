@@ -50,8 +50,12 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6wVVudQgnSWB6Gpe4YBKXU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ad-astra/963146026" >}}
+
+
 
 
 

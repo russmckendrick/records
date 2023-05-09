@@ -30,6 +30,15 @@ styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 <!-- section break -->
 
 
+Rock-electronic fusionists Underworld’s 1996 album is a keystone of home-listening techno that helped introduce UK rave sounds to American ears: a high-BPM opus in which quarter-hour songs flit by in the blink of an eye, guitars cascade over rippling drum machines, and Karl Hyde unspools stream-of-consciousness rants like a Beat poet perched atop the subwoofer. Whether plunging into hypnotic house (“Rowla”) or the multi-part epics that open the album, it’s progressive in the truest sense of the term—a record that bridged divides, blazed new trails, and still sounds fresh, decades later.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/second-toughest-in-the-infants-remastered/1443227490" >}}
+
+
+
 
 
 

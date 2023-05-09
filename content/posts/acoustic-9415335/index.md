@@ -38,8 +38,12 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2KFyDzBQYxY0X3sLoxYnl1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/acoustic/1440871080" >}}
+
+
 
 
 

@@ -29,9 +29,18 @@ styles: ["Classic Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5JZxCVMYJqplJhJgfytng2" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-knebworth-1990/1554080602" >}}
+
+
+
+
+
+## Videos
+### Pink Floyd - Shine On You Crazy Diamond (Pts. 1-5) [Live at Knebworth 1990) [2021 Edit]
+{{< youtube id="ZfevCGgOTTk" title="Pink Floyd - Shine On You Crazy Diamond (Pts. 1-5) [Live at Knebworth 1990) [2021 Edit]" >}}<br>
 
 
 

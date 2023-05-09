@@ -32,8 +32,12 @@ styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7t38G4SGphJox2lCAAZo2m" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738" >}}
+
+
 
 
 

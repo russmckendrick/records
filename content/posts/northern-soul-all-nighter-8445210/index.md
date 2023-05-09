@@ -58,8 +58,11 @@ styles: ["Soul", "Rhythm & Blues"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6tT9kikyZYdYwfV08PhLVE" width="100%" height="500" >}}
+
 
 
 

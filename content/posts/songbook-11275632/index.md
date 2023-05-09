@@ -51,8 +51,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="59XmOOWGNhybRV8B0PsFlH" width="100%" height="500" >}}
+A decade after releasing his first solo album, Frank Turner gathers his favorite songs from 10 years of impassioned folk-punk. From a roaring paean to the mosh pit (“Four Simple Words”) to bittersweet reflections on ill-fated romance (“Mittens”), the first half is a best-of collection marked by the intensity, craft, and melody that’s made Turner an arena headliner. <i>Songbook</i>’s second part presents old songs in new forms. Some are simply revitalized, others completely reimagined—including the transformation of “Glorious You” from a fuzzy rocker into a tender ballad.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songbook/1440909143" >}}
+
+
 
 
 

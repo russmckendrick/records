@@ -42,8 +42,12 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7MPJRyMFbWbgezRP2Pj4TZ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/empath-deluxe-edition/1449841303" >}}
+
+
 
 
 

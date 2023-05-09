@@ -27,9 +27,20 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3b4E89rxzZQ9zkhgKpj8N4" width="100%" height="500" >}}
+Most of the British rock superstars of Pink Floyd's generation took little notice of the late-'70s punk revolution. While the three extended epics that make up the bulk of <i>Animals</i> couldn't sound less like the Sex Pistols, Roger Waters' venomous, Orwellian lyrics viciously dismiss the whole of modern British society as dogs, pigs and sheep. That sense of seething contempt and anger makes <i>Animals</i> a spiritual cousin to the punks, though the hopeful two-part bookend "Pigs on the Wing" offers a welcoming sense of compassion.
 
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/animals/699610635" >}}
+
+
+
+
+
+## Videos
+### Pink Floyd - Animals (Full Album) HD
+{{< youtube id="yFHYCiIYXOA" title="Pink Floyd - Animals (Full Album) HD" >}}<br>
 
 
 

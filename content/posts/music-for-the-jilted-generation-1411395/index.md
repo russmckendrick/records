@@ -33,8 +33,12 @@ styles: ["Breakbeat", "Hardcore"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="05yevdRXvaX6KGRaZehaDW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/music-for-the-jilted-generation/1450123784" >}}
+
+
 
 
 

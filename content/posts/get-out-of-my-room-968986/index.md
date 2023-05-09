@@ -36,8 +36,11 @@ styles: ["Acoustic", "Comedy"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="6uUpFFTnVIHJGYJAWsv5qt" width="100%" height="500" >}}
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6t4AvdMaZVObrBe9rFnG2n" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hallucinations-of-a-higher-truth/1575676546" >}}
+
+
 
 
 

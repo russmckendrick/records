@@ -53,8 +53,12 @@ styles: ["Arena Rock", "Prog Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1iG0R0t4IK55xjpjuizNda" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rush-in-rio-live/5305450" >}}
+
+
 
 
 

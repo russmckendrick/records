@@ -32,8 +32,14 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4pG3bKkbmReDt5QTDn3JDz" width="100%" height="500" >}}
+There’s never been anything like <i>Astral Weeks</i>—not before or since. Parting with the straightforward, R&B-based rock of his past, a young Van Morrison embraced his love of jazz, blues, folk and poetry all at once. The thrillingly transcendent journey finds him mixing bittersweet childhood memories and in-the-moment reveries like a folk-rock James Joyce. His soulful voice soars over a constantly shifting, almost impressionistic landscape of fluid, jazzy lines, gentle strumming and shimmering orchestrations. The magic Morrison created here is as otherworldly as the title suggests.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/astral-weeks/1031002336" >}}
+
+
 
 
 

@@ -33,8 +33,14 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1b1ljTXAkcugOLAHkIi7Eq" width="100%" height="500" >}}
+Working with producer Allen Toussaint and the Meters, the second installment of Dr. John's early-'70s New Orleans funk trilogy resulted in a righteous hit single ("Right Place, Wrong Time") and funk arrangements synchronized like the gears of a finely tuned watch. Dr. John borrows "I Been Hoodood" from his minstrel-singing grandfather, illuminates "Life" with flashes of New Orleans piano boogie, and takes a raffish soft-shoe stroll through the Crescent City demimonde on "Such a Night."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-the-right-place/145077581" >}}
+
+
 
 
 

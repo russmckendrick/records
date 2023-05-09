@@ -33,8 +33,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7xn8nwwutlJFMb7Zf9NEHi" width="100%" height="500" >}}
+By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Mountain</i> is an anthem for uneasy times. From the heartsick horn sample that kicks off “I Was a Lover” to “Wash the Day”’s sitars, car bombs, and diamond-encrusted guns, this Brooklyn quintet conjures a bleak, post-apocalyptic landscape, then surveys the sonic ruins. The stunning, propulsive “Wolf Like Me” makes  vampires look like sissies, while “Dirtywhirl” conflates hurricanes, the Hindu goddess Durga, and “the flesh of a girl.” Tunde Adebimpe’s steely tenor has been compared to Peter Gabriel’s, but it’s more expressive than that. On tracks like the hard-driving dirge “Blues from Down Here,” he sounds like nothing so much as the late Arthur Lee from Love: supple, menacing, and a trifle unhinged. With Kyp Malone’s eerie falsetto harmonies ringing over the top, the effect is part futuristic doo-wop, part dystopian Beach Boys. Buzzing post-punk guitars and ambient drone, live drums and stuttering processed beats: the arrangements are layered and dense, and the musical influences come fast and furious. By all rights, the whole thing should fly apart, but instead <i>Return to Cookie Mountain</i> achieves a counterpoint as savage as the Mad-Max world it surveys. There’s no one else making music quite like this.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/return-to-cookie-mountain/1437098983" >}}
+
+
 
 
 

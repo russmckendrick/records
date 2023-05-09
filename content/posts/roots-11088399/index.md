@@ -50,8 +50,14 @@ styles: ["Thrash", "Nu Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5JjnPCfpp6redrkKpXZAs8" width="100%" height="500" >}}
+Blurring the line between mosh pits and tribal dances, <i>Roots</i> is a rush of down-tuned guitar chug, Amazonian rhythms, and industrial electronics. Mid-’90s groove metal doesn’t get any more funky or furious than “Breed Apart” and “Ratamahatta,” a riot of wildly clattering percussion with singer Max Cavalera venting volcanic anger at his government’s treatment of Brazil’s indigenous population. Sepultura team up with musicians from the Xavante tribe for “Itsari,” an enchanting foray into Brazilian folk music that speaks to the band’s grand vision.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/roots/214473832" >}}
+
+
 
 
 

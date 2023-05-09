@@ -32,8 +32,12 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="79EPGP6VA65fDFs4fgFpel" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hours/1053991355" >}}
+
+
 
 
 

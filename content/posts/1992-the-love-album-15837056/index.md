@@ -32,8 +32,12 @@ styles: ["Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="11KRUBEB5YIfrGJuNmonn1" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-deluxe-version/1631043762" >}}
+
+
 
 
 

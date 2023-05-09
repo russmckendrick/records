@@ -99,8 +99,12 @@ styles: ["Techno", "Electro", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6nnO5r6I1JtSZ8eTwwIiIF" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/3-d-the-catalogue-live/1572506374" >}}
+
+
 
 
 

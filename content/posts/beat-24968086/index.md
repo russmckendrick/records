@@ -30,9 +30,18 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="70UWdLBwzIDEu1o30kWGjG" width="100%" height="500" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beat-expanded-edition/1090454400" >}}
+
+
+
+
+
+## Videos
+### King Crimson - Heartbeat
+{{< youtube id="WYnT6huYhLw" title="King Crimson - Heartbeat" >}}<br>
 
 
 

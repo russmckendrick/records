@@ -32,8 +32,12 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1uWlVlw1urB8jD15nj9Uyi" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/you-are-beautiful/1605185732" >}}
+
+
 
 
 

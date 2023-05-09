@@ -29,8 +29,12 @@ styles: ["Krautrock", "Experimental", "Avantgarde"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0bO4qU98i4vCpGqTElUZDQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tago-mago-40th-anniversary-edition/709211421" >}}
+
+
 
 
 

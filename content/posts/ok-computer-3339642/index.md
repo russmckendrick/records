@@ -38,8 +38,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6dVIqQ8qmQ5GBnJ9shOYGE" width="100%" height="500" >}}
+The greatest album of all time? Plenty of polls suggest that, with Radiohead’s third set of songs frequently vying for that almighty accolade. There is, underneath the blanket praise, music too; a perfect (1997) statement of pre-millennial angst that sees the singer Thom Yorke being awkward about everything, from trains to politics. "Karma Police" is the band’s last great catchy pop tune, but it’s lesser known tracks like "Let Down" that still offer the surprises. So pretty, so sad, so Radiohead. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ok-computer/1097861387" >}}
+
+
 
 
 
@@ -49,8 +55,20 @@ styles: ["Alternative Rock"]
 
 ### More Videos
 
+- [Airbag](https://www.youtube.com/watch?v=jNY_wLukVW0)
 - [Radiohead - No Surprises](https://www.youtube.com/watch?v=u5CVsCnxyXg)
+- [Paranoid Android](https://www.youtube.com/watch?v=Lt8AfIeJOxw)
 - [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
+- [Subterranean Homesick Alien](https://www.youtube.com/watch?v=_fTWmUlTEqE)
+- [Exit Music (For A Film)](https://www.youtube.com/watch?v=Bf01riuiJWA)
+- [Let Down (Remastered)](https://www.youtube.com/watch?v=ZVgHPSyEIqk)
+- [Karma Police](https://www.youtube.com/watch?v=4IJI6soiQhI)
+- [Fitter Happier](https://www.youtube.com/watch?v=O4SzvsMFaek)
+- [Electioneering](https://www.youtube.com/watch?v=3DtgWrFTtQk)
+- [Climbing Up the Walls](https://www.youtube.com/watch?v=XX4EpkR-Sp4)
+- [No Surprises](https://www.youtube.com/watch?v=LBt60dfwEBY)
+- [Lucky](https://www.youtube.com/watch?v=yuZYQvvLXVY)
+- [The Tourist](https://www.youtube.com/watch?v=HkgzObf8uVU)
 
 
 ## Release Information

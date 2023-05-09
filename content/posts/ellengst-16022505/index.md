@@ -30,8 +30,12 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1cJS5A69PL7RmfkrVn106W" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/elleng%C3%A6st/1524581300" >}}
+
+
 
 
 

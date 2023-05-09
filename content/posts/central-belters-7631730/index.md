@@ -56,6 +56,15 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
+Glasgow’s Mogwai has never done anything in a small way. Their towering post-rock is rife with gorgeous, swelling crescendos (“Helicon 1”), frenetic, calculated explosions (“Mogwai Fear Satan”), and vast depths of emotion (“Devil Rides”). The career-spanning compilation <i>Central Belters</i> reflects the band’s preference for the monumental, packing in nearly four hours of highlights. It’s a long, tempestuous ride, but the heart-stopping (and tear duct-filling) drama doesn’t relent for a second.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/central-belters/1039971176" >}}
+
+
+
 
 
 ## Videos

@@ -35,8 +35,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7rfKAiPs9ToZP9zEJDBqBH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/green-remastered/1440947724" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7MmecIjzXOyvZ2ISSlcggj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/milking-the-stars-a-re-imagining-of-last-patrol/1183601514" >}}
+
+
 
 
 

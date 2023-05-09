@@ -30,8 +30,14 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7GwY9afibQt4oUfsOucXpl" width="100%" height="500" >}}
+For his second solo album following the dissolution of Led Zeppelin in 1980, Robert Plant teamed up with Phil Collins and other musicians to reinvent himself with a thrilling mix of new-age synths and prog rock. The mood is heady on “Big Log,” Plant cooing and moaning over twilit guitar twang. “Thru’ With the Two Step” sounds like a blues jam from Mars with its Brian Eno-esque electronic intro, while the off-kilter rock rhythm of “In the Mood” harks back to Plant’s Zeppelin days.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739" >}}
+
+
 
 
 

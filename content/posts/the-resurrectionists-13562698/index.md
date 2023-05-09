@@ -33,8 +33,12 @@ styles: ["Post Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="01f5YMYwN78H6duUNw1r3k" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-resurrectionists-remastered/1458796610" >}}
+
+
 
 
 

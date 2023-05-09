@@ -39,6 +39,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/title-of-record/1576792084" >}}
+
+
+
+
+
 ## Videos
 ### Filter - Take A Picture (Official Music Video)
 {{< youtube id="h8MAHQhKe7Q" title="Filter - Take A Picture (Official Music Video)" >}}<br>

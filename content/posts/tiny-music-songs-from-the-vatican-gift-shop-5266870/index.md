@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2JJEIN6LvQJQTJDfnYdDAe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tiny-music-songs-from-the-vatican-gift-shop-super/1558522377" >}}
+
+
 
 
 

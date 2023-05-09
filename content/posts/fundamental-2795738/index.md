@@ -33,8 +33,12 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3zD8yWMybwybi9M4T1KXLf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fundamental-as-anything/1064935549" >}}
+
+
 
 
 

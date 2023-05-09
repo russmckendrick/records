@@ -36,8 +36,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4QF2Eg1fVxr0jx2tLVcusI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/radiator/1651927761" >}}
+
+
 
 
 

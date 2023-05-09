@@ -47,8 +47,14 @@ styles: ["Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="011ifQyKbsMAWCUFDZiMaa" width="100%" height="500" >}}
+Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply constructed set of songs that evinced the singer/songwriter’s classical training and tasteful restraint. The Danish songwriter’s second full-length album, <i>Aventine</i>, has an even more captivating and hushed intimacy. Much of <i>Aventine</i> floats along with a hazy sense of melancholy, accompanied by Obel’s solo piano or a small chamber ensemble. Songs like “Fuel to Fire” and “The Curse” use the sparest of elements for haunting results. The evocative highlights are many, but “Smoke & Mirrors” is utterly disarming.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/aventine/681187053" >}}
+
+
 
 
 

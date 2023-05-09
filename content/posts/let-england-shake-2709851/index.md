@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2f8Rfpdol5jrJe3OL4YH6k" width="100%" height="500" >}}
+For her 11th album, PJ Harvey steps away from the strident agit-folk that made her name in the ‘90s, writing instead a subtle and hauntingly beautiful record that is simultaneously a meditation on the brutality and futility of the First World War and a nostalgic paean to her home country. As is her custom, guitars take center stage, all eerie and drenched in chilling reverb (“In the Dark Places”), while Harvey’s vocals are uncharacteristically understated and soft, reaching tremulously to the top of her register on “Hanging in the Wire.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/let-england-shake/1440758226" >}}
+
+
 
 
 

@@ -28,8 +28,14 @@ styles: ["Jazz-Rock", "Fusion", "Avantgarde", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0WYYrC9My9rYWigac003hw" width="100%" height="500" >}}
+Frank Zappa's guitar chops played second fiddle to his skewered pop visions, his tape-edit abilities, and the general bizarre quality of his work with The Mothers of Invention. <i>Lumpy Gravy</i> saw him conducting an orchestra, while <i>Cruising with Ruben and the Jets</i> fulfilled his interests in doo-wop. <i>Hot Rats</i>, meanwhile, shows off Zappa's unorthodox approach to jazz and blues. "Willie the Pimp," with Captain Beefheart wailing away as Howlin' Wolf, is an epic jam, with Zappa turning in one of his dirtiest performances on record. At nine minutes, the only complaint is that it's too short! "Peaches En Regalia" is a stone classic, a compact piece that shows off Zappa's guitar and arrangement skills. The extended pieces—"Son of Mr. Green Genes," "The Gumbo Variations"—carry symphonic and jazz-improv weight, respectively, while "Little Umbrellas" and "It Must Be a Camel" prove Zappa can get down to business when the spirit moves him. Longtime musical accomplices Ian Underwood and Don "Sugarcane" Harris are on board, as well as Jean-Luc Ponty and Little Feat's Lowell George. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hot-rats/1562897106" >}}
+
+
 
 
 

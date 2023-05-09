@@ -40,6 +40,9 @@ styles: ["Pop Rock", "Soft Rock"]
 
 
 
+
+
+
 ## Videos
 ### It's Not Too Late
 {{< youtube id="t9K6LGai3n0" title="It's Not Too Late" >}}<br>

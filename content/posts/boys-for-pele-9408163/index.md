@@ -40,8 +40,12 @@ styles: ["Alternative Rock", "Avantgarde"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7vuSTl6tuWg0CQdmfphkFQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/boys-for-pele-deluxe/1155862196" >}}
+
+
 
 
 

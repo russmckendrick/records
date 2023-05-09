@@ -32,8 +32,12 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7xPIMxW4eWRTehFphCiDbH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/changestwobowie-2018-remaster/1350497019" >}}
+
+
 
 
 

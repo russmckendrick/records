@@ -33,8 +33,14 @@ styles: ["House", "Dub", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4TECsw2dFHZ1ULrT7OA3OL" width="100%" height="500" >}}
+Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}
+
+
 
 
 

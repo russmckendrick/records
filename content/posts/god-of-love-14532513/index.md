@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4qeyjV02AhO0BMH61DFcQT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/god-of-love/298875762" >}}
+
+
 
 
 

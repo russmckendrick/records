@@ -2,4 +2,5 @@
 title: "Joy Division"
 summary: "British punk/post-punk/new wave band formed in 1976 in Salford, Greater Manchester. They were incorrectly named on the flyer for their first gig alongside Buzzcocks and Penetration but announced themselves as at the start of their first performance. Throughout 1977 they continued under this name up to the recording of the first EP but changed their name to Joy Division at the start of 1978, before releasing their first 7\" EP \"\". Shortly after the suicide of Ian Curtis on May 18, 1980 – following troubles with grand mal seizures , depression, and other contributing personal factors happening in his life – the band was renamed , following a pact between all four members made long before Curtis's death that should any member leave, the remaining members would change the name of the group. Ian Curtis , Bernard Sumner , Peter \"Hooky\" Hook , and Stephen Morris ."
 image: "joy-division.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/joy-division/722383"
 ---

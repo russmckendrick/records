@@ -45,6 +45,13 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}
+
+
+
+
+
 ## Videos
 ### Gather Up
 {{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>

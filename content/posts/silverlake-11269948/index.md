@@ -35,6 +35,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/silverlake/1282544689" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

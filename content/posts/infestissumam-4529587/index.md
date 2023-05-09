@@ -34,15 +34,22 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/infestissumam-deluxe-version/1446019421" >}}
+
+
+
+
+
 ## Videos
-### Ghost   Infestissumam   Full Album
-{{< youtube id="dPhvb87xweI" title="Ghost   Infestissumam   Full Album" >}}<br>
+### Ghost B.C. - Year Zero (Censored)
+{{< youtube id="gkBt7yLXyDk" title="Ghost B.C. - Year Zero (Censored)" >}}<br>
 
 ### More Videos
 
-- [Ghost B.C. - Year Zero (Censored)](https://www.youtube.com/watch?v=gkBt7yLXyDk)
-- [Infestissumam](https://www.youtube.com/watch?v=Nbbxws7sgy4)
 - [Ghost B.C. - Secular Haze](https://www.youtube.com/watch?v=vyQZ13jobIY)
+- [Ghost   Infestissumam   Full Album](https://www.youtube.com/watch?v=dPhvb87xweI)
+- [Infestissumam](https://www.youtube.com/watch?v=Nbbxws7sgy4)
 - [Per Aspera Ad Inferi](https://www.youtube.com/watch?v=TBwwYMaEWH4)
 - [SECULAR HAZE](https://www.youtube.com/watch?v=o3MPSRHpIno)
 - [Jigolo Har Megiddo](https://www.youtube.com/watch?v=ZXqaNLNQwKw)

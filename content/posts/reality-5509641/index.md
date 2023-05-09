@@ -33,8 +33,12 @@ styles: ["Alternative Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="13uBd1FnzOOHgWXmcgaYr6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/reality/1676545706" >}}
+
+
 
 
 

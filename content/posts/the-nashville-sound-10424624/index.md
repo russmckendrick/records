@@ -32,8 +32,12 @@ styles: ["Country"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0gYLr4tpPpRrPg2WIS64jw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-nashville-sound/1216344634" >}}
+
+
 
 
 

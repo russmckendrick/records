@@ -35,8 +35,14 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0jo7K3IkLusU2dbYLvQIOs" width="100%" height="500" >}}
+The strength of Elvis Costello’s creative drive and musical impulsiveness can be defined by this 1983 album. It is, in many ways, a return to pure, smart pop, showing off Costello’s novelist eye for lyrical detail and tuned ear for stirring melody. Alan Winstanley and Clive Langer’s layered production helps uphold the pop grandeur. There’s sweet sing-song on “Everyday I Write the Book", punchy, horn-drenched soul on “TKO (Boxing Day)” and a plaintive ode to working-class grief and anti-war sentiment with “Shipbuilding". Then disjointed rhythms, countermelody and stinging wit jive together on “Love Went Mad”. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/punch-the-clock/1442898613" >}}
+
+
 
 
 

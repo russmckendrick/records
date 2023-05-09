@@ -39,8 +39,14 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1sVlvoWbgJwJLGdEoOAz03" width="100%" height="500" >}}
+Full of unruly insouciance, Sublime’s eponymous third venture packs bong-powered summertime hits that made frontman Bradley Nowell immortal. His final record—which dropped weeks after his untimely death in 1996—is driven by slacker ska-punk debauchery, taking spectators on a wild ride fueled by tales of looting liquor stores (the sly, spunky bop of “April 29, 1992 (Miami)”) and popping a cap in Sancho (the bouncy upstroke of “Santeria”). Its languorous rhythms and puerile soul beguile with the defiant spirit of ‘90s alt-rock, which this masterpiece helped define.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sublime/1440838803" >}}
+
+
 
 
 

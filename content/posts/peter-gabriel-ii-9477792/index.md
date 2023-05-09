@@ -35,6 +35,13 @@ styles: ["Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-2-scratch-remastered/986702307" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

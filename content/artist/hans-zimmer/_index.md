@@ -2,4 +2,5 @@
 title: "Hans Zimmer"
 summary: "German composer and record producer. Head of composers studio . Born: 12 September 1957 in Frankfurt am Main, Germany. Zimmer began his musical career playing keyboards and synthesizers with, among others, the bands and . He was also a member of the electro-wave band . In the 1980s he worked with film composer Stanley Myers, but his breakthrough came with completing the score for film \"Rain Man\" , which was nominated for an Academy Award. Since then, Zimmer and his studios have composed music for many major blockbusters. In 1995 he received an Academy Award for Best Original Score for the animated movie \"The Lion King\" . From a vast catalogue of work, he composed the theme for the boxing series \"\" , and also produced the soundtracks for the anime series \"Blood+\" . Zimmer's lives and works in Santa Monica, California where his studio, Remote Control Productions is based, which hosts several accomplished producers. Some later composers who worked for him include and , among others."
 image: "hans-zimmer.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/hans-zimmer/454295032"
 ---

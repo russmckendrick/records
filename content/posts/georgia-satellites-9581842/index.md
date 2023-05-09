@@ -32,8 +32,12 @@ styles: ["Southern Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0obHqsEpkaCWGWGjxcdXel" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/georgia-satellites/298088771" >}}
+
+
 
 
 

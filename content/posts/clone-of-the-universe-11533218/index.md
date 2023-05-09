@@ -29,8 +29,14 @@ styles: ["Stoner Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2K1v7kMAW5ORS0XlVlvlOs" width="100%" height="500" >}}
+It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes, and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship," time-traveling astral rock of "Clone of the Universe," and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/clone-of-the-universe/1325141667" >}}
+
+
 
 
 

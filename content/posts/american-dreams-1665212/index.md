@@ -50,8 +50,11 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="1WqrASGjFxsN4g7lttZ7T1" width="100%" height="500" >}}
+
 
 
 

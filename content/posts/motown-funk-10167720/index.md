@@ -44,8 +44,11 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}
+
 
 
 

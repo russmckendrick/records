@@ -43,8 +43,12 @@ styles: ["Leftfield", "Experimental", "Conscious"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="04uhhcjGVCHodMgZjXOlye" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/deltron-3030/288544306" >}}
+
+
 
 
 

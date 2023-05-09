@@ -29,8 +29,12 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7sKThLp2JeJqysSXC5ckhI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful/1591255695" >}}
+
+
 
 
 

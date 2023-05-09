@@ -34,8 +34,12 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0w3z3xSfH7pB3SNf50pCg3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-echobelly/282215710" >}}
+
+
 
 
 

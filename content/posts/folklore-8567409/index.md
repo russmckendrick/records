@@ -33,8 +33,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3j1MgNFNI90XdSTEGDN4pa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/folklore/1096218321" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4n6tTCMAv1nL8Rn91xnLmu" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/population-four/1676102669" >}}
+
+
 
 
 

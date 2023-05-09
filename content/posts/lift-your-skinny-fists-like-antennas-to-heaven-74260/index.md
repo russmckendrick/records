@@ -26,8 +26,12 @@ styles: ["Post Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2rT82YYlV9UoxBYLIezkRq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lift-your-skinny-fists-like-antennas-to-heaven/40886657" >}}
+
+
 
 
 

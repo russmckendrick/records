@@ -30,8 +30,12 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="56G9UnPmRifbubzPDJfAyd" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/coda-deluxe-edition/999609825" >}}
+
+
 
 
 

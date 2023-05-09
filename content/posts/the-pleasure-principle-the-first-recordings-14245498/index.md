@@ -43,8 +43,12 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5h5AK7SRFErq9V6h9T36Pz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-the-first-recordings/1481785089" >}}
+
+
 
 
 

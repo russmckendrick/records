@@ -35,8 +35,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2grx6MZQYbH1Z6TLQXbRPg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/are-you-normal/290619406" >}}
+
+
 
 
 

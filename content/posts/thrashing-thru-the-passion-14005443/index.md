@@ -32,8 +32,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="16XUMEdixzqRXVVPZsB3ak" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/thrashing-thru-the-passion/1464237035" >}}
+
+
 
 
 

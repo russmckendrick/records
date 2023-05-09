@@ -37,8 +37,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="43qzoPgTc1B2V7qJ6nPTjT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723" >}}
+
+
 
 
 

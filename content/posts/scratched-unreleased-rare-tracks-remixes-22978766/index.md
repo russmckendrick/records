@@ -40,8 +40,12 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5nEsrcazvAhWAjijlzvKKU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/scratched-unreleased-rare-tracks-remixes/1344026834" >}}
+
+
 
 
 

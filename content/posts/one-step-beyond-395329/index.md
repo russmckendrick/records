@@ -37,8 +37,12 @@ styles: ["Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Jst9QoWbNmjQFUyGIkMnA" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/one-step-beyond-deluxe-version/1208852389" >}}
+
+
 
 
 

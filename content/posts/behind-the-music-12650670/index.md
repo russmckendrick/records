@@ -42,8 +42,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3NoWJU6iEUKX4WlPsisjFh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/behind-the-music-bonus-tracks/160441258" >}}
+
+
 
 
 

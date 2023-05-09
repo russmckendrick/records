@@ -36,6 +36,13 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-weapon-called-the-word/1443300461" >}}
+
+
+
+
+
 ## Videos
 ### World Freak Show - Levellers
 {{< youtube id="Xe71vrfSVWI" title="World Freak Show - Levellers" >}}<br>

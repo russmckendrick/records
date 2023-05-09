@@ -32,8 +32,12 @@ styles: ["AOR", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="56dfEbntfVTMCxjrjggL1e" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bad-animals/724077331" >}}
+
+
 
 
 

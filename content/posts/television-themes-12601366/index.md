@@ -38,6 +38,13 @@ styles: ["Theme"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/television-themes/1414662713" >}}
+
+
+
+
+
 ## Videos
 ### The Good Life
 {{< youtube id="XiaGzoiHX1s" title="The Good Life" >}}<br>

@@ -34,8 +34,14 @@ styles: ["Electro", "Synth-pop", "Disco"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0ixwdleroFAl7fWqYZaSsA" width="100%" height="500" >}}
+After leaving Soulwax (the band) dormant for well over a decade, it feels fitting that the Dewaele brothers resurrect their original guise with a subversive, one-take electronic blitz. <i>FROM DEEWEE</i> is a combative record, rigid with taut drums, hypnotic synths, and a deliciously portentous mood. “Conditions of a Shared Belief,” “Is It Always Binary,” and “My Tired Eyes” are highlights, but this is meticulously engineered to be enjoyed as one relentless thrill ride.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/from-deewee/1202928741" >}}
+
+
 
 
 

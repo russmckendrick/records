@@ -39,6 +39,13 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/on-the-dry-land/1177144029" >}}
+
+
+
+
+
 ## Videos
 ### The Sea Nymphs - The Black Blooded Clam
 {{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}<br>

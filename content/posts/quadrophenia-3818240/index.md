@@ -78,8 +78,14 @@ styles: ["Hard Rock", "Mod", "Rock Opera"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2miMVTH3qNA49YD2BUaIWK" width="100%" height="500" >}}
+You don’t need to follow the plot of Pete Townshend’s second rock opera to appreciate the grandeur of this double-LP. Capturing The Who's “maximum” live sound in the studio, songs like “The Real Me,” “The Punk and the Godfather,” and “Love, Reign O’er Me” come across with their knockout power fully intact. Roger Daltrey’s commanding vocals are matched by Keith Moon’s manic drum wizardry, John Entwistle’s melodic, plunging basslines, and Townshend’s windmill power chords.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/quadrophenia-2013-remaster/1440824353" >}}
+
+
 
 
 

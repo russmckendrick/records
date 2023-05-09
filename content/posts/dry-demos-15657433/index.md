@@ -35,6 +35,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dry-demos/1515280509" >}}
+
+
+
+
+
 ## Videos
 ### Oh My Lover (Demo)
 {{< youtube id="0iohH75zxjc" title="Oh My Lover (Demo)" >}}<br>

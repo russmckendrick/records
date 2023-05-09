@@ -30,8 +30,12 @@ styles: ["Electro", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1AbColVwAzX9BY56BPC0Rl" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-assassin/251628587" >}}
+
+
 
 
 

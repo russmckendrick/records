@@ -46,8 +46,14 @@ styles: ["Gangsta"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7dRdaGSxgcBdJnrOviQRuB" width="100%" height="500" >}}
+How to top a debut that single-handedly reinvigorated East Coast gangsta rap? Pick up right where it left off, but make everything way bigger. Christopher Wallace’s sprawling second album ramps up the drama and the pop sheen: "Mo Money Mo Problems" turns a sparkling Diana Ross sample into a "triple beam lyrical dream", and the smooth, rolling "Hypnotize" is as spellbinding as its title promises. Still, Big never sacrificed any of the narrative grit—look no further than “Ten Crack Commandments” or his much-imitated, never-duplicated flow.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/life-after-death-2014-remaster/906888433" >}}
+
+
 
 
 

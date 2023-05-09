@@ -33,8 +33,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="534yKA6eUgPJwhRRY6dLXe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/top-summer-latin-house-2019-brazil-vibes-dance-party-mix/1465197024" >}}
+
+
 
 
 

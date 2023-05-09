@@ -44,8 +44,12 @@ styles: ["Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3h89plfuG5GwCqJKxCpwOe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/920706074" >}}
+
+
 
 
 

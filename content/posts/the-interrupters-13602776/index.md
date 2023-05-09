@@ -35,8 +35,12 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6AoWkAFBSNlX63z1fJVNIL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-interrupters-deluxe-edition/1485060236" >}}
+
+
 
 
 

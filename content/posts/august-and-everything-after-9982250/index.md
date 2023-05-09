@@ -33,8 +33,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4nKfZbCALT9H9LfedtDwnZ" width="100%" height="500" >}}
+By pairing plaintive songs with Adam Duritz’s supple, shape-shifting vocals, <i>August and Everything After</i> hits a recipe that feels both timeless and contemporary. With ringing chords and insistent grooves, “Omaha” and “Mr. Jones” are immediately inviting, but even in their poppy moments, Counting Crows always sound like a bunch of guys jamming in a living room. The band echoes R.E.M. in the impressionistic portraiture of “Round Here” and the jangly rushes of “Rain King”, while Duritz takes Van Morrison’s cue with the empathetic, unpredictable vocal expressions of “Anna Begins”.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/august-and-everything-after/1442449109" >}}
+
+
 
 
 

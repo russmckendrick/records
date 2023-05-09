@@ -29,8 +29,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2Jtm2jkinaMRN8HIMWMj7D" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/space-for-the-earth/1524291057" >}}
+
+
 
 
 

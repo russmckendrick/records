@@ -35,8 +35,12 @@ styles: ["Classic Rock", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1gB28ytYFQElaXngAfeYep" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bad-reputation-expanded-edition/1434145250" >}}
+
+
 
 
 

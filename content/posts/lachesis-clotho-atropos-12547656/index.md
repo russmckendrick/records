@@ -25,8 +25,12 @@ styles: ["Post Rock", "Experimental", "Folk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7kqcfibumsfedCBoBzehwt" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lachesis-clotho-atropos/1429387563" >}}
+
+
 
 
 

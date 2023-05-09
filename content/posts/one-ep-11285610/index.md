@@ -28,6 +28,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/its-a-memory-feat-elohim-mansions-on-the-moon-remixes-ep/1442813569" >}}
+
+
+
+
+
 ## Videos
 ### Mansun -  Egg Shaped Fred (official PV)
 {{< youtube id="xX29wha0bKw" title="Mansun -  Egg Shaped Fred (official PV)" >}}<br>

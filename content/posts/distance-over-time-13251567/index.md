@@ -42,8 +42,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1sRDi0MSGOy91fHhcpXIu4" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/distance-over-time-bonus-track-version/1445099485" >}}
+
+
 
 
 

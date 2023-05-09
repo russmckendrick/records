@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Britpop", "Glam"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3PlQSR2N8I89VSgJtRGDBM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/see-you-in-the-next-life/1485580531" >}}
+
+
 
 
 

@@ -35,8 +35,12 @@ styles: ["Funk", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="70OhGmsHTYRhPNmDmMMcwT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/return-to-the-37th-chamber/1472448782" >}}
+
+
 
 
 
@@ -52,6 +56,7 @@ styles: ["Funk", "Soul"]
 - [El Michels Affair - Shaolin Brew](https://www.youtube.com/watch?v=AK5gDN8AfY0)
 - [El Michels Affair -  Return To The 37th Chamber -  07 Shadow Boxing](https://www.youtube.com/watch?v=lvktFx3k4Ts)
 - [El Michels Affair - Wu-Tang Clan Aint Nuthing Ta F Wit](https://www.youtube.com/watch?v=LNATIh11nPE)
+- [El Michels Affair feat. Lee Fields - Snakes](https://www.youtube.com/watch?v=FTb9vPss-UI)
 
 
 ## Release Information

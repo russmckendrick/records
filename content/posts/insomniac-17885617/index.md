@@ -45,8 +45,12 @@ styles: ["Pop Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7d3nOmFvL51roNElAdpi9d" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/insomniac-25th-anniversary-deluxe-edition/1557550800" >}}
+
+
 
 
 

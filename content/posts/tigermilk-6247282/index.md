@@ -32,8 +32,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3MSxGvwpiKePFsygmWT3G9" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tigermilk/1669026397" >}}
+
+
 
 
 

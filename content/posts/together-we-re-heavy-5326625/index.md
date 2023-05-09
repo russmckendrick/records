@@ -32,8 +32,12 @@ styles: ["Art Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0x7azbWn5H39TTsmwEl48G" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/together-were-heavy/903318414" >}}
+
+
 
 
 

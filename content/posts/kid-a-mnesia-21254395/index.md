@@ -59,8 +59,16 @@ styles: ["Alternative Rock", "IDM", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6ofEQubaL265rIW6WnCU8y" width="100%" height="500" >}}
+<i>KID A MNESIA</i> isn’t just an occasion to revisit a pair of groundbreaking albums (2000’s <i>Kid A</i> and 2001’s <i>Amnesiac</i>), but a chance to hear a little of how Radiohead got there. Recording sessions were tough: Thom Yorke had writer’s block, and his new commitment to electronic music—or, at least, a turn away from conventional rock—left some of his bandmates wondering about their function and purpose. As guitarist Ed O’Brien once put it, he was a guitarist faced with a bunch of tracks that had no guitar.<br />
+At one point, producer Nigel Godrich split the band into two groups: one working with instruments in the main recording area, the other in a programming room processing sounds from next door, all under the condition that no acoustic instruments—guitars, drums, etc.—be used. The constraints opened doors: Not only did the band discover new ways of working (and, by extension, refresh their passion for music after years of unyielding pressure), but, in doing so, they shifted the template for what we think of when we think of a rock band, mixing the acoustic and the electronic (“Everything in Its Right Place”, “Like Spinning Plates”) and relatively straightforward tracks (“Optimistic”, “Pyramid Song”) with fragmentary, discursive ones (“Kid A”, “Pulk/Pull Revolving Doors”). <br />
+In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “Follow Me Around“) and future (the deconstructed, full-band sound of “If You Say the Word”), as well as versions of “Like Spinning Plates” and “Pulk/Pull Revolving Doors” that chart their evolution in real time. It’s a snapshot of a band taking step back from themselves and the way they worked, finding a way forward in the process.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}
+
+
 
 
 

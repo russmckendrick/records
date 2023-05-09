@@ -31,8 +31,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6oFsq13ql71yK5Gaar7eIy" width="100%" height="500" >}}
+Depeche Mode continued their fascinating evolution on album three. Alan Wilder joined the line-up, bringing an interest in sampling that manifests itself on all the industrial clatter of “Pipeline.” Martin Gore’s writing developed a political bent and singer Dave Gahan found more gravitas. The confection is realized best on “Everything Counts”, where grinding synths and an unflagging beat give way to a chorus that cloaks its attack on corporate greed inside sugary harmonies.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/construction-time-again-deluxe/1174247799" >}}
+
+
 
 
 

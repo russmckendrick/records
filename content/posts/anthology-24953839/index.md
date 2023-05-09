@@ -44,6 +44,13 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/anthology/1655672474" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

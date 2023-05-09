@@ -33,8 +33,14 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5WpjO5MZRlFohnZ1EeIcsy" width="100%" height="500" >}}
+Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}
+
+
 
 
 

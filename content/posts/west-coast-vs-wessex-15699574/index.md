@@ -32,8 +32,12 @@ styles: ["Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1V0jqCyz5StIhGp16Ggdz7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/west-coast-vs-wessex/1511829717" >}}
+
+
 
 
 

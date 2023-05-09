@@ -34,6 +34,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dove/1343422246" >}}
+
+
+
+
+
 ## Videos
 ### Belly: Mine (Official Video)
 {{< youtube id="PsGgcabXrpg" title="Belly: Mine (Official Video)" >}}<br>

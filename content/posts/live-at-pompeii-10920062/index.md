@@ -43,8 +43,12 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4cwlWUSFUUFPFYKYLbPIQL" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-pompeii/1260000840" >}}
+
+
 
 
 

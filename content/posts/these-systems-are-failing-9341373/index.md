@@ -33,6 +33,13 @@ styles: ["New Wave", "Post-Punk", "Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/these-systems-are-failing/1160876308" >}}
+
+
+
+
+
 ## Videos
 ### Moby & The Void Pacific Choir - And It Hurts
 {{< youtube id="_-hVE_9W0bw" title="Moby & The Void Pacific Choir - And It Hurts" >}}<br>

@@ -48,6 +48,13 @@ styles: ["Alternative Rock", "Gospel"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-light-the-dead-see/671788459" >}}
+
+
+
+
+
 ## Videos
 ### Soulsavers - 'Take Me Back Home'
 {{< youtube id="v85gICtpVjw" title="Soulsavers - 'Take Me Back Home'" >}}<br>

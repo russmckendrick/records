@@ -54,8 +54,12 @@ styles: ["New Wave", "Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2ODAEaYlqS88SU4ZZu1bI6" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/singles/1129721479" >}}
+
+
 
 
 

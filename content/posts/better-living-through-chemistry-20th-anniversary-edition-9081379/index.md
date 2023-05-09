@@ -35,6 +35,13 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1143639792" >}}
+
+
+
+
+
 ## Videos
 ### FatBoy Slim - First down
 {{< youtube id="2FChxWapTP0" title="FatBoy Slim - First down" >}}<br>

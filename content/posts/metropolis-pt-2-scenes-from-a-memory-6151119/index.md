@@ -33,8 +33,12 @@ styles: ["Progressive Metal", "Symphonic Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1QZi8laY96nhaeGSklvN4D" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/metropolis-pt-2-scenes-from-a-memory/282694467" >}}
+
+
 
 
 

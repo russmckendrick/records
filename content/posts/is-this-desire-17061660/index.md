@@ -34,8 +34,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1LQlpOjLrnNvsqg6tosrYD" width="100%" height="500" >}}
+Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s with this simmering, electronic-infused album. <i>Is This Desire?</i> is built on the intimate tales and torments of various women—the prostitute's plight in "Angelene" is reflected in Harvey's grungy snarl, while the innocent "Joy" hopelessly rumbles through creeping industrial dissonance. Harvey's electronic experiments are as moody as her characters, fluttering between grinding, overblown beats on "My Beautiful Leah" and "A Perfect Day Elise," and a minimalist, Portishead-like throb on "Electric Light."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/is-this-desire/1440912742" >}}
+
+
 
 
 

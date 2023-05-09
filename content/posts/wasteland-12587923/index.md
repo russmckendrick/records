@@ -40,8 +40,14 @@ styles: ["Prog Rock", "Progressive Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2x2TYXmboFBDvZnSPK15B2" width="100%" height="500" >}}
+Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of vulnerability. On “Acid Rain”, the band pours out heavy riffs; a stirring, poignant quality defines “The Day After”, while a gentle spirit floats through “Guardian Angel”. Having lost guitarist and founder Piotr Grudziński in 2016, the Polish prog leaders let rip with a heavy heart on the evocative “Lament” and instrumental centrepiece “The Struggle for Survival”. This is an album about grief, acceptance and closure. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/wasteland/1416948034" >}}
+
+
 
 
 

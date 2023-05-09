@@ -52,6 +52,13 @@ styles: ["Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/la-thunder-covers-the-greatest-hits-of-led-zeppelin-box-set/991469744" >}}
+
+
+
+
+
 ## Videos
 ### Thunder – She’s So Fine (Official Video)
 {{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}<br>

@@ -37,6 +37,13 @@ styles: ["Heavy Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/young-gods/1443369213" >}}
+
+
+
+
+
 ## Videos
 ### Little Angels - Young Gods
 {{< youtube id="dysWRyP3Ung" title="Little Angels - Young Gods" >}}<br>

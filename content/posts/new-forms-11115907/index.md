@@ -38,6 +38,13 @@ styles: ["Drum n Bass"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/roni-size-reprazent-new-forms-vol-2-remastered/1443805487" >}}
+
+
+
+
+
 ## Videos
 ### Intro
 {{< youtube id="zQeWeU8lfvs" title="Intro" >}}<br>

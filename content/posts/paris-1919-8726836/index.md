@@ -31,8 +31,12 @@ styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3WkD4YxRCzgXG2MJF9yDpk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/paris-1919/1251616879" >}}
+
+
 
 
 

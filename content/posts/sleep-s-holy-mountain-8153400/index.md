@@ -31,8 +31,14 @@ styles: ["Stoner Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6L7ENQZtfSKVAq1CIRZSxs" width="100%" height="500" >}}
+Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner metal on their landmark album, <i>Sleep’s Holy Mountain</i>. The power trio’s lumbering chugs wander through prehistoric landscapes covered in mountains of fuzz and whirling vocal effects (“Dragonaut”) and continue into shadowy nether realms wherein monk-like chants ride throbbing, meditative riffs (“From Beyond”). Subtle yet incredibly potent doses of blues and funk pop up all over, giving jams like the hazy, psychedelic “Aquarian” a slow and shaggy swing.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sleeps-holy-mountain/43359181" >}}
+
+
 
 
 

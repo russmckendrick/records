@@ -46,8 +46,15 @@ styles: ["Indie Rock", "Post Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="151mT9g0fDHVfpmWeYk4Wx" width="100%" height="500" >}}
+Part of Stereolab’s legacy was to expose the orthodoxy of indie rock by embracing stuff indie rockers would have found desperately uncool: space-age pop, cocktail jazz, elevator music. Where 1996’s <i>Emperor Tomato Ketchup</i> retained a punk edge (if you squinted, at least), <i>Dots and Loops</i>, released only a year later, was the full fruitcake. Compare the band’s 1993 epic “Jenny Ondioline”, a three-chord, 18-minute trance of noisy guitars and socialist incantations (“I don’t care, democracy’s being fucked”), with “Refractions in the Plastic Pulse”, which shifts from lounge waltz to variety-show jazz to synthesiser étude to funk-lite—a complex, almost pointedly corny descent into music that sounds less like the work of bonded mammals than some faceless corporation.<br />
+That, of course, is part of the point: Marxist-socialist-materialists that they were, the band advanced the idea that all this manufactured stuff was in fact the real music of our mostly manufactured times: the swingin’ '60s window dressing of “Miss Modular”, the soothing breakbeats of “Parsec”, the greet-the-day vibraphones of “Brakhage”—all of it sounded curiously prefabricated, musical MREs for enterprising youths on the go. Light, colourful, and effortlessly complex, <i>Dots and Loops</i> mapped the future the band had been searching for from the start.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dots-and-loops/1230517312" >}}
+
+
 
 
 

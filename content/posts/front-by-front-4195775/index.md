@@ -31,8 +31,12 @@ styles: ["EBM"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3bJDzdsqXwjo9EXupegwIR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/front-by-front/139889038" >}}
+
+
 
 
 

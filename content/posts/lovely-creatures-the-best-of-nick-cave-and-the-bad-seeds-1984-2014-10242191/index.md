@@ -45,6 +45,13 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lovely-creatures-the-best-of-nick-cave-and-the/1210447337" >}}
+
+
+
+
+
 ## Videos
 ### Nick Cave & The Bad Seeds - Tupelo
 {{< youtube id="oSl4KX7zBTQ" title="Nick Cave & The Bad Seeds - Tupelo" >}}<br>

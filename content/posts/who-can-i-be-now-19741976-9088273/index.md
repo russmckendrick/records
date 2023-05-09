@@ -137,6 +137,13 @@ styles: ["Pop Rock", "Glam", "Soul"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/who-can-i-be-now-1974-1976/1135943211" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

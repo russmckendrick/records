@@ -36,8 +36,11 @@ styles: ["Instrumental"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0nA01XOVBUoi1zDVVYKz4i" width="100%" height="500" >}}
+
 
 
 
@@ -47,6 +50,7 @@ styles: ["Instrumental"]
 
 ### More Videos
 
+- [Beastie Boys - 7 Eugene's Lament](https://www.youtube.com/watch?v=IITuTnKD8po)
 - [Son Of Neckbone](https://www.youtube.com/watch?v=3RvhVXb_1z8)
 - [Beastie Boys - 9 Shambala](https://www.youtube.com/watch?v=I5rUen5H_7Q)
 - [Groove Holmes](https://www.youtube.com/watch?v=kfwZH9qQJfg)

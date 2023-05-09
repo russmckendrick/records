@@ -32,8 +32,12 @@ styles: ["Blues Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4wIMZUtT4EGh13GP78xgNj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-magpie-salute-live/1440905281" >}}
+
+
 
 
 

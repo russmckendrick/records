@@ -36,8 +36,11 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5RyWJx6ASGDuaEwVe0aWvG" width="100%" height="500" >}}
+
 
 
 

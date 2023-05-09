@@ -34,8 +34,14 @@ styles: ["Leftfield", "Alternative Rock", "Dub", "Punk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1ZH5g1RDq3GY1OvyD0w0s2" width="100%" height="500" >}}
+In 1982 there wasn’t another band in the world that could unite West Texas troubadour Joe Ely, New York graffiti artist Futura 2000, and Beat poet Allen Ginsberg. That those are the three prominent guest musicians on <i>Combat Rock</i> says a lot about the Clash — about their eclectic interests and their stature not just in the music world, but within world culture at large. The Clash’s final album to feature the classic lineup, <i>Combat Rock</i> is at once their most basic rock album, and the most bizarre. The Clash had to go through a lot to be able to write a riff as simple and memorable as “Should I Stay or Should I Go.” “Rock the Casbah,” on the other hand, is one of the most effortlessly complex dance songs to ever top the charts. The rest of the album is thornier. “Overpowered by Funk,” “Car Jamming,” and “Sean Flynn” are even more out there than the songs on <i>Sandinista!</i>.    “Inoculated City” is one of Mick Jones’ most underrated pop songs, but it is Joe Strummer’s “Straight To Hell” that ends <i>Combat Rock</i>, and the Clash’s career, with elegiac grace.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/combat-rock/685585931" >}}
+
+
 
 
 

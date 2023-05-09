@@ -34,8 +34,12 @@ styles: ["Groove Metal", "Industrial Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1RmsgRJnBFyRMAVl1NW9pO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cleansing/158332411" >}}
+
+
 
 
 

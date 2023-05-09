@@ -50,8 +50,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="55RhFRyQFihIyGf61MgcfV" width="100%" height="500" >}}
+This edition of one of the most important and artistically ambitious albums of the '90s features a remastering of the original album by Bob Ludwig. Even before it was further boosted by Ludwig here, the original album was one of the finest-<i>sounding</i> albums of its day, with producer Flood and his longtime associate Alan Moulder ensuring that every guitar chord achieved epic grandeur. The album spanned two fully packed CDs upon its original release, making it essentially a 4-LP set. The songwriting was solid, and Corgan was clearly on a mission to inject his prog-rock interests into a slicker-than-grunge hard rock sound. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-remastered/721224313" >}}
+
+
 
 
 

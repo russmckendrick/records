@@ -30,8 +30,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3myPwaMYjdwhtq0nFgeG6W" width="100%" height="500" >}}
+Curt Smith and Roland Orzabal’s MTV-era breakthrough is a tour de force of New Wave's possibilities. They tip toward prog on the surging "Broken" and indulge in piano-led balladry on the spare "I Believe." The album is also a vehicle for some of the '80s' most inspired singles: On "Shout," with its indelible hook and vivid digital production, and the open-road anthem "Everybody Wants to Rule the World," they put their big-tent aspirations front and center, while the majestic "Head Over Heels / Broken" confirms their place atop the arena-pop throne.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songs-from-the-big-chair/1440813508" >}}
+
+
 
 
 

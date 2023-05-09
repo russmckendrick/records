@@ -31,8 +31,11 @@ styles: ["Southern Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="4gouGcdQn9OvjX42xnWrF0" width="100%" height="500" >}}
+
 
 
 

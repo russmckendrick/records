@@ -33,8 +33,12 @@ styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="49LA20VMk65fQyEaIzYdvf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots/1189403816" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1ujZpTYHOc5XS0JIBKjUaI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1443229003" >}}
+
+
 
 
 

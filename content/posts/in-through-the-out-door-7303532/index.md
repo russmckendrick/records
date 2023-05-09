@@ -29,8 +29,14 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1W5CtQ7Ng0kP3lXyz7PIT2" width="100%" height="500" >}}
+<i>In Through the Out Door</i>, Led Zeppelin’s final studio album, was also one of the few pre-SoundScan era releases to debut atop the Billboard chart. Coming after a three-year-plus wait, the record delivers some of Zeppelin’s most ambitious work. The Latin-tinged “Fool in the Rain” again demonstrates the quartet’s unique approach to dance music, while the pomp-rock spectacular “Carouselambra” allows John Paul Jones’ keyboards to take the spotlight. The definitively silly country romp “Hot Dog,” though, is maybe the least typical thing to ever come from this always surprising band. And the album's closer, “I’m Gonna Crawl,” proves that Led Zep had hardly forgotten the meat-and-potatoes thud that first won them an audience. If a great band need leave the stage, let it always be with such happily venturesome sounds.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-through-the-out-door-remastered/580707622" >}}
+
+
 
 
 

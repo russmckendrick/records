@@ -46,8 +46,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4RzYS74QxvpqTDVwKbhuSg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/all-things-must-pass-50th-anniversary/1670732500" >}}
+
+
 
 
 

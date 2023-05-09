@@ -32,8 +32,14 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1gquhHnaFnshQuJGnHRpF9" width="100%" height="500" >}}
+As a guitarist, David Gilmour often conjures magic from simplicity. It’s a method applied to much of his fourth solo album, not just the fret work. Sure, there are moments of grandstanding but what shines through is a winning understatement. Whether it’s the defiant funk of “Today” or the melancholic hush of “A Boat Lies Waiting”, each track is built with measure and precision, complementing the reflection and resolve of lyrics written with novelist wife Polly Samson.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rattle-that-lock-deluxe/1018308980" >}}
+
+
 
 
 

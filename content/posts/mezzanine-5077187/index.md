@@ -33,8 +33,12 @@ styles: ["Trip Hop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="49MNmJhZQewjt06rpwp6QR" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mezzanine-deluxe/1428684976" >}}
+
+
 
 
 

@@ -34,6 +34,13 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fear-fear/1607961392" >}}
+
+
+
+
+
 ## Videos
 ### Working Men's Club - Widow (Official Video)
 {{< youtube id="A5quA4GrzQ0" title="Working Men's Club - Widow (Official Video)" >}}<br>

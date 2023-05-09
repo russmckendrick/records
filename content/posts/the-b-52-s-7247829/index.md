@@ -31,8 +31,12 @@ styles: ["New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3eXETk1esvZPRluDCWH3GN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/b-52s/1440816774" >}}
+
+
 
 
 

@@ -33,8 +33,12 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6eh82ojicL8RSJF7GkYTh7" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-more-tears-30th-anniversary-expanded-edition/1585398360" >}}
+
+
 
 
 

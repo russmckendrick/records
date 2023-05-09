@@ -29,8 +29,14 @@ styles: ["Pop Rock", "Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5Zxv8bCtxjz11jjypNdkEa" width="100%" height="500" >}}
+A work of immaculate craft and insinuating wit, 1977's <i>Aja</i> is perhaps the most fully-realized album in Steely Dan's catalog. Leaders Donald Fagan and Walter Becker enlisted an all-star crew of jazz/rock players - drummer Steve Gadd and saxophonist Wayne Shorter among them - to lend this album an urbane finesse and dark-tinged sparkle. Steely Dan pays tribute to old-school jazz in "Deacon Blues" and brings a sophisticated R&B groove to "Peg" and "Home At Last."  "Black Cow" has a sardonic sting, while "Josie" radiates warmth with a minimum of irony. The arrangements are gorgeously expansive -- the title tune is a jazz mini-suite. Fagan's vocals (embellished with high-gloss harmonies) are bitingly dry with a twist of venom. Behind the album's cool exterior is a burning passion for fine musicianship.  Undeniably excellent, this album's hipster Žlan has made it an enduring favorite among rock and jazz aficionados alike.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/aja-remastered/1440938356" >}}
+
+
 
 
 

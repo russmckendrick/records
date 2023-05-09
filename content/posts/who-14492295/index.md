@@ -33,8 +33,12 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5MqyhhHbT13zsloD3uHhlQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}
+
+
 
 
 

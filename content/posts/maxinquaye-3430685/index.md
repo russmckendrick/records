@@ -34,8 +34,14 @@ styles: ["Leftfield", "Trip Hop", "Downtempo"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4pWLQ312KAN43yhm3omkZo" width="100%" height="500" >}}
+If unease were an art form, then <i>Maxinquaye</i> would be its Sistine Chapel. Thanks to its unhurried hush, the album is a make-out must, but it's the pervading sense of danger that makes it so sensually sinister. Tricky and Martina Topley-Bird play devil and angel on your shoulders, trading gravelly raps with cool, crystalline delivery. Despite the claustrophobic atmospheres, there's something for every mood, from the sultry whispers of "Overcome" to a thrilling Public Enemy cover, "Black Steel". Listen loud—and, preferably, late at night.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/maxinquaye/1440918276" >}}
+
+
 
 
 

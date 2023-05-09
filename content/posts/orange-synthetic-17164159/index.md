@@ -32,8 +32,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4wzOcamZNvEGQkJptxZQcx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/orange-synthetic/1536139108" >}}
+
+
 
 
 

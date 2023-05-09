@@ -34,6 +34,13 @@ styles: ["Alternative Rock", "Hardcore"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/meantime/1440915669" >}}
+
+
+
+
+
 ## Videos
 ### Meantime (1992)
 {{< youtube id="pHlKg9qswlk" title="Meantime (1992)" >}}<br>

@@ -33,6 +33,13 @@ styles: ["Post Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/were-not-done-end-title-from-the-kin-original-motion/1392201092" >}}
+
+
+
+
+
 ## Videos
 ### Mogwai // Donuts (Official Audio)
 {{< youtube id="_5CHTscFyFo" title="Mogwai // Donuts (Official Audio)" >}}<br>

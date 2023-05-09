@@ -36,8 +36,12 @@ styles: ["Punk", "Power Pop", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7Jb0VtDTacuQdXM3pYyrbv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rocket-to-russia/847962534" >}}
+
+
 
 
 

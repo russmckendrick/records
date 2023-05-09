@@ -36,8 +36,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="31poENBRik5Velm7Z2gPSw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-navigator/1181880598" >}}
+
+
 
 
 

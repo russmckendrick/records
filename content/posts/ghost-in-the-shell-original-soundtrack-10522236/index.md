@@ -36,6 +36,13 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ghost-in-the-shell-koukaku-kidoutai-original-soundtrack/910532068" >}}
+
+
+
+
+
 ## Videos
 ### Ghost In The Shell (1995) OST
 {{< youtube id="ceBW3RbrL0E" title="Ghost In The Shell (1995) OST" >}}<br>

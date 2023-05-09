@@ -30,8 +30,12 @@ styles: ["Industrial", "Industrial Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4jyWDa1yM9ul7zgUdR80hw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/broken-ep/1440743805" >}}
+
+
 
 
 

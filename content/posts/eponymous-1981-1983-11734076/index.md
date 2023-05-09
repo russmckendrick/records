@@ -45,8 +45,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="26V0RphKza9QE7KNAaPB51" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/eponymous-1981-1983/1343357621" >}}
+
+
 
 
 

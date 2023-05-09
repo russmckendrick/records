@@ -36,8 +36,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="02lktkm4J7K7N8T63Gm7KX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/black-sunday/266797392" >}}
+
+
 
 
 

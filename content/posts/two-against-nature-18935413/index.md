@@ -31,8 +31,12 @@ styles: ["Pop Rock", "Fusion"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2MJc2N3eFVT0ZabBN4zc32" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/two-against-nature/297597608" >}}
+
+
 
 
 

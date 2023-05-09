@@ -43,8 +43,12 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0FU4Eo42Oyg1We3eRrOf4m" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1365569059" >}}
+
+
 
 
 

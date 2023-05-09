@@ -45,6 +45,13 @@ styles: ["Acoustic", "Country Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-legend-of-johnny-cash/675914676" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

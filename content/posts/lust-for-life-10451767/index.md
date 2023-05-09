@@ -31,8 +31,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2jnV6ytZOmt71iEC5xHEYz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lust-for-life/1440882892" >}}
+
+
 
 
 

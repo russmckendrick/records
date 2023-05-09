@@ -33,8 +33,12 @@ styles: ["Doo Wop", "Soul", "Surf"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7E31JWIpQ2vsGlIeB5WNqU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/love-in-the-wind/1485064517" >}}
+
+
 
 
 

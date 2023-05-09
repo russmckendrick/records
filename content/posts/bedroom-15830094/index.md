@@ -32,8 +32,12 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3Pu648nWwshjvkl96rKxPS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bedroom/1502108037" >}}
+
+
 
 
 

@@ -40,6 +40,15 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 <!-- section break -->
 
 
+<i>Neil Young: Greatest Hits</i> showcases several of Young's musical personas and how they often bleed into one another. 1969’s “Down By the River” and “Cowgirl In the Sand” have the sturdy, rumbling support of Crazy Horse, and two Crosby, Stills, Nash & Young cuts, “Helpless” and “Ohio,” are rock landmarks. All 16 remastered FM-radio staples are a testament to the rocker's brilliant restlessness..
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/135132797" >}}
+
+
+
 
 
 

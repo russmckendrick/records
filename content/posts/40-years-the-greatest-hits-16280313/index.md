@@ -43,6 +43,13 @@ styles: ["Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}
+
+
+
+
+
 ## Videos
 ### Spandau Ballet - The Boxer
 {{< youtube id="2vBQJv5cudk" title="Spandau Ballet - The Boxer" >}}<br>

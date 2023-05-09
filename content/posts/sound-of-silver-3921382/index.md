@@ -31,8 +31,14 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1R8kkopLT4IAxzMMkjic6X" width="100%" height="500" >}}
+With "Losing My Edge", James Murphy proved he had a better record collection than you. On <i>Sound of Silver</i>, he puts it to good use, crafting peerless tunes that draw from disco, dance-punk, krautrock, Detroit techno and more, all while still sounding quintessentially LCD—and incredibly moving. "New York, I Love You But You're Bringing Me Down" is a bittersweet dirge torn from the real-estate section, and the one-two punch of "Someone Great" and "All My Friends" is a masterstroke of middle-aged emo.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sound-of-silver/742432549" >}}
+
+
 
 
 

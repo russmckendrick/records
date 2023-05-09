@@ -37,8 +37,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1mA5CUUztAKf53GDuypfAT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/come-on-feel-the-lemonheads/1667958046" >}}
+
+
 
 
 

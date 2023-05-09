@@ -27,6 +27,13 @@ styles: ["Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}
+
+
+
+
+
 ## Videos
 ### Slowdive
 {{< youtube id="hs9kJZ1uJ-Q" title="Slowdive" >}}<br>

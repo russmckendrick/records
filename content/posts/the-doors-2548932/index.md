@@ -33,8 +33,14 @@ styles: ["Psychedelic Rock", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1jWmEhn3ggaL6isoyLfwBn" width="100%" height="500" >}}
+The Doors were among the most important rock 'n' roll bands of the '60s and have transcended into the 21st century with their magic and mystique intact. In an era when bands are often imitated, The Doors stand alone. They sound like no one else. In just five short years, 1967 to 1971, they released six studio albums with Jim Morrison that went beyond rock 'n' roll to touch on blues, folk, flamenco, crooner ballads, pop hits, and poetry. Morrison led with lyrics that served as love songs and existential ruminations. A number of big hits—"Light My Fire," "People Are Strange," "Hello, I Love You," "Touch Me," "Love Her Madly"—established The Doors' popular legacy, but deeper album cuts such as "The Changeling," "Peace Frog," "Waiting for the Sun," and "The Crystal Ship" illuminate the peerless musicianship of keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore, who made The Doors a <i>band</i> in the truest sense of the word.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463" >}}
+
+
 
 
 

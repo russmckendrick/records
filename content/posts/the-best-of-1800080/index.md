@@ -30,8 +30,12 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3OzDHSE776USP1UGN698Xw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/setlist-the-very-best-of-judas-priest-live/646158338" >}}
+
+
 
 
 

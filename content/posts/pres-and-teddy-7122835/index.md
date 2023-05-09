@@ -30,6 +30,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pres-teddy/1425259073" >}}
+
+
+
+
+
 ## Videos
 ### Lester Young & Teddy Wilson.   Pres and Teddy
 {{< youtube id="tDesCGeGLL4" title="Lester Young & Teddy Wilson.   Pres and Teddy" >}}<br>

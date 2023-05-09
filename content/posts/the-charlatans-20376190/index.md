@@ -35,8 +35,12 @@ styles: ["Britpop", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3w929DsUH49KkQ8FNLo2wE" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-charlatans/1136815128" >}}
+
+
 
 
 

@@ -84,8 +84,17 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0jTGHV5xqHPvEcwL8f6YU5" width="100%" height="500" >}}
+The dissolution of The Beatles was a famously unpleasant situation: By 1968, John Lennon and Paul McCartney were sometimes working simultaneously in separate studios; only about half of the White Album’s songs featured the full band. Conceived by McCartney as an effort to reclaim the band’s marital groove, <i>Let It Be</i> presented The Beatles not as an elaborate studio art project but as four guys making music together in a room.<br />
+For as divisive as Phil Spector’s 11th-hour contributions were (George Martin joked that he should be given a credit for production, while Spector should get one for overproduction), they were also overstated: Only a handful of tracks here—most notably Lennon’s “Across the Universe” and McCartney’s “The Long and Winding Road”—were all that heavily orchestrated. While some were chopped up and reassembled to get a better shape, the rest of the album (“Get Back”; George Harrison’s breezy “For You Blue”; the surrealistic blues of Lennon’s “Dig a Pony”, recorded live on the rooftop of the band’s Apple Corps offices) hewed more or less to what McCartney had envisioned: The Beatles rediscovering the poise and spontaneity of a great live band. (“Let It Be” was a relatively big production even before Spector came on board.)<br />
+Still, it’s a bittersweet, sometimes uncomfortable listen, and only further muddled by the eternal debate of whether or not it was actually the band’s last album, having been more or less finished before <i>Abbey Road</i> was started but not released until the band had broken up about a year later. (“And now we’d like to do ‘Hark, the Angels Come!’” Lennon squeaks in falsetto before “Let It Be”—a jab at what he felt was McCartney’s sodden pseudo-religiosity.) Still, listen and you can hear the heart, humour and camaraderie that made them so unusual to begin with: McCartney’s “Two of Us”, the throwback “One After 909” the eternal “Get Back”.<br />
+In September 1969, Lennon quit. <i>Abbey Road</i> came out about a week later. McCartney effectively quit the following April, and put out his first solo record, <i>McCartney</i>, about a week later. In a self-interview that doubled as album promotion and carefully worded statement of personal independence, McCartney said that his only immediate plans were to grow up.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/let-it-be-2021-mix/1582219768" >}}
+
+
 
 
 

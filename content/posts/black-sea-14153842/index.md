@@ -33,8 +33,14 @@ styles: ["New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6sLuXZdrb1cmsAnfrmgbrU" width="100%" height="500" >}}
+A minimalist quartet with expansive productions, a modernist dance band, circa 1980, with undanceable rhythms and its heart in ‘60s pop, and whose songs — with unflagging intelligence — question everyone and distrust signs of intellect, XTC serve as a study in contrast. Its leader Andy Partridge is the virtual definition of the standoffish, British observer, preferring socio-political metaphor over matters of the heart  — and always singing on the defensive, as if he’s the kid at the bottom of the pile-up being beaten senseless. <i>Black Sea</i> is the group’s fourth album and continues along the sonic improvements — drums and guitars charge at you — and compositional maturity that took root with their previous <i>Drums and Wires</i>. “Respectable Street,” “Generals and Majors” and “Towers of London” are the closest this group of misanthropes is likely to come to accessible, mainstream pop. “Living Through Another Cuba” and “Love at First Sight” virtually define the group’s obstinate approach, spelling out their internal paranoia with jagged rhythms, carefully placed and seductively catchy backing vocals, and a parade of sounds that suggest the circus is in town. Plenty of fun to go around — if you prefer brain teasers.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/black-sea-bonus-track-version/724626591" >}}
+
+
 
 
 

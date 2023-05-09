@@ -31,8 +31,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="152Hw6E0tNz3EQNq9c1CDf" width="100%" height="500" >}}
+Knowing what we know now about the career of Mark Hollis and Talk Talk, it’s much easier to hear the strengths of their second album, <i>It’s My Life</i>, and how it relates to the band Talk Talk would become. At the time of its release, the band had been linked to the New Romantic movement, opening for Duran Duran, but this album began the shift towards their own identifiable sound. The addition of producer-multi-instrumentalist Tim Friese-Greene provided the group with an entirely new weapon. The synths are still very present on this album — and the band were able to squeeze out hits with the über-catchy “Dum Dum Girl” and “It’s My Life” — but there’s a concentration in new textures. “Renée” is a hint to where the group’s sound would be going on future releases: Hollis’ chilling voice and instrumental passages that threaten to disappear into the fog. “Does Caroline Know” uses a challenging rhythm track, while the hummable “It’s You” takes the mechanized ‘80s sounds and turns on the heart and soul.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/its-my-life-remastered-1997/695469000" >}}
+
+
 
 
 

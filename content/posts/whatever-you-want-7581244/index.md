@@ -34,6 +34,13 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whatever-you-want/1443409213" >}}
+
+
+
+
+
 ## Videos
 ### Status Quo - Whatever You Want
 {{< youtube id="uLCOYGITsjA" title="Status Quo - Whatever You Want" >}}<br>

@@ -40,8 +40,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0KIUMm3Br5jHyMd4O6KyDW" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/silent-earthling/1078005851" >}}
+
+
 
 
 

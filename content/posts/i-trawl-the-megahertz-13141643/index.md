@@ -31,8 +31,12 @@ styles: ["Modern Classical", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3JtTs7tzD7uj6hpPb1apkT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-trawl-the-megahertz/1441428258" >}}
+
+
 
 
 

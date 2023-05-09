@@ -54,8 +54,12 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4Amgy7JIX58geZLD6Wrz2r" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cobra-and-phases-group-play-voltage-in-the-milky-night/1230503490" >}}
+
+
 
 
 

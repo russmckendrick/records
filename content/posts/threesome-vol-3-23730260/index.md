@@ -30,8 +30,12 @@ styles: ["Power Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1HJ1KKCq4B6808D1IcewLC" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620" >}}
+
+
 
 
 

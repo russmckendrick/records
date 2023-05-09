@@ -30,8 +30,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4IpUyI6R1fyDtJF3cmJS4E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064" >}}
+
+
 
 
 

@@ -33,6 +33,13 @@ styles: ["Sludge Metal", "Doom Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/9-13/1260737417" >}}
+
+
+
+
+
 ## Videos
 ### IRON MONKEY - 9-13 (Official Music Video)
 {{< youtube id="_JH0os_xukQ" title="IRON MONKEY - 9-13 (Official Music Video)" >}}<br>

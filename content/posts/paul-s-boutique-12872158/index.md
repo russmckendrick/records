@@ -37,39 +37,17 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1kmyirVya5fRxdjsPFDM05" width="100%" height="500" >}}
+If <i>Licensed to Ill</i> was the frat party, <i>Paul’s Boutique</i> was the tall tale: a sprawling, psychedelic joke so delightful in the telling that the punchline ceased to matter. The band was in LA now, doing LA things: swimming (the rental mansion had a bridge over the pool), hobnobbing and cruising around (Adam Yauch’s new car, an early 1970s Cadillac Fleetwood Brougham d’Elegance, was outfitted with a digital tape player to listen to rough mixes—unheard of at the time). And instead of the boxy, minimalistic grid of <i>Licensed to Ill</i>, you had LA’s winding roads, a Möbius strip of funk and soul samples (stitched together by producers the Dust Brothers) shaded by Seussian trees.<br />
+Certain tracks are classics—the Three Stooges-in-the-club routines of “Shake Your Rump” and “Hey Ladies”, the supernatural sludge of “Looking Down the Barrel of a Gun”. But the effect of <i>Paul’s Boutique</i> was more than the sum of its parts. This wasn’t just hip-hop as a sound, but a way of understanding culture: magpie, extroverted, deeply entertained by just about everything around it. The band’s creativity didn’t lie in expressing the innermost depths of their respective souls (a myth anyway, as it turns out), but in the ingenuity and sheer joy with which they assembled and reassembled the flotsam and jetsam of the world into something new—an approach that, among other things, anticipated the giddy, information-saturated possibilities of the internet a good decade before most people really knew what the internet was. Art is attention; with <i>Paul’s Boutique</i>, the Beastie Boys paid it. It flopped, of course, both critically and commercially. Then the world caught up.
 
 
 
-## Videos
-### To All The Girls
-{{< youtube id="x2TP7tNQPwk" title="To All The Girls" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pauls-boutique-20th-anniversary-remastered-edition/721276795" >}}
 
-### More Videos
 
-- [Beastie Boys - Shake Your Rump](https://www.youtube.com/watch?v=BptQHAW2T5M)
-- [Johnny Ryall](https://www.youtube.com/watch?v=PaE3JTPVKdc)
-- [Egg Man](https://www.youtube.com/watch?v=-OgG0GwT-uY)
-- [High Plains Drifter](https://www.youtube.com/watch?v=WVIbke4NTrg)
-- [The Sounds Of Science](https://www.youtube.com/watch?v=Y90N5XsasN0)
-- [3-Minute Rule](https://www.youtube.com/watch?v=itStM-gwUyU)
-- [Beastie Boys - Hey Ladies](https://www.youtube.com/watch?v=Naf5uJYGoiU)
-- [5-Piece Chicken Dinner](https://www.youtube.com/watch?v=D1SLYttJ4wg)
-- [Beastie Boys - Looking Down The Barrel Of A Gun](https://www.youtube.com/watch?v=yr1Qe2m8oOA)
-- [Car Thief](https://www.youtube.com/watch?v=MaUZpqSylkg)
-- [What Comes Around](https://www.youtube.com/watch?v=p-gf6KdJVPA)
-- [Beastie Boys - Shadrach (Abstract Impressionist Version)](https://www.youtube.com/watch?v=MEVfHmjKOrM)
-- [Ask For Janice](https://www.youtube.com/watch?v=jaA9F1PfOpA)
-- [B-Boy Bouillabaisse: 59 Chrystie Street](https://www.youtube.com/watch?v=a1CwXMGyFFU)
-- [B-Boy Bouillabaisse: Get On The Mic](https://www.youtube.com/watch?v=6tHE2riC8Jk)
-- [B-Boy Bouillabaisse: Stop That Train](https://www.youtube.com/watch?v=Dq8rRxIGSnw)
-- [B-Boy Bouillabaisse: A Year And A Day](https://www.youtube.com/watch?v=7XqWICaNjTs)
-- [B-Boy Bouillabaisse: Hello Brooklyn](https://www.youtube.com/watch?v=JfhgscVs_9g)
-- [B-Boy Bouillabaisse: Dropping Names](https://www.youtube.com/watch?v=Bji0w5iGDQ8)
-- [B-Boy Bouillabaisse: Lay It On Me](https://www.youtube.com/watch?v=gxmgxcEouNg)
-- [B-Boy Bouillabaisse: Mike On The Mic](https://www.youtube.com/watch?v=tpSLyTwhjr8)
-- [B-Boy Bouillabaisse: A.W.O.L.](https://www.youtube.com/watch?v=oXvXcecHg_E)
+
+
 
 
 ## Release Information

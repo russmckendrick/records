@@ -44,6 +44,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mystoria-deluxe-edition/1169669580" >}}
+
+
+
+
+
 ## Videos
 ### AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)
 {{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)" >}}<br>

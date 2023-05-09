@@ -50,6 +50,13 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/scratch-my-back-and-ill-scratch-yours/987543707" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

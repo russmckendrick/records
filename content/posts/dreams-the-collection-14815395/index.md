@@ -35,6 +35,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dreams-the-collection/1440649801" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

@@ -32,8 +32,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4cBfyeNYbJAmOq0sl3Hijd" width="100%" height="500" >}}
+The keys to this album are John Farnham’s years of experience as both a solo singer and with Little River Band and David Hirschfelder’s rich keyboard textures. The combination still sounds fresh decades later, with Farnham’s voice showcasing incredible range, power and versatility. His vocals are warm and intense (“Pressure Down”) as well as tender (“A Touch of Paradise”). On standout track “You’re the Voice”, he pulls off a performance that bleeds honesty over soaring synths and bagpipes.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whispering-jack/270340388" >}}
+
+
 
 
 

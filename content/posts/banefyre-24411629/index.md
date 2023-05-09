@@ -36,8 +36,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2qUu76qcYJEtd5F85BBi2E" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/banefyre/1616007627" >}}
+
+
 
 
 

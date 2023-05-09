@@ -36,8 +36,14 @@ styles: ["Soul", "Funk"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0Stnb66v5cibvR22sFdLYx" width="100%" height="500" >}}
+On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me.” It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney,” everyone in the room is a believer.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-carnegie-hall/203795472" >}}
+
+
 
 
 

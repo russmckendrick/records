@@ -38,8 +38,12 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7dFwoDgO6X2veAYg6rzBI9" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blue-velvet-original-motion-picture-soundtrack/1649800938" >}}
+
+
 
 
 

@@ -34,6 +34,13 @@ styles: ["Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tasmania/1660070869" >}}
+
+
+
+
+
 ## Videos
 ### Pond - Daisy (Official Video)
 {{< youtube id="Ap2gStsDZZo" title="Pond - Daisy (Official Video)" >}}<br>

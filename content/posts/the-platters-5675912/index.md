@@ -34,8 +34,12 @@ styles: ["Rhythm & Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7l3vhUqMYbu62TIKSocf4B" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-platters/1440912576" >}}
+
+
 
 
 

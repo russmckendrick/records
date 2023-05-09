@@ -157,8 +157,12 @@ styles: ["Power Pop", "Punk", "New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0xgjNfcoYavtty8592ehW9" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/against-the-odds-1974-1982/1625686357" >}}
+
+
 
 
 

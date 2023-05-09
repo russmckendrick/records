@@ -38,8 +38,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4G4eepBf68OTJ1JnssD2Oi" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lost-in-the-ghost-light/1179909058" >}}
+
+
 
 
 

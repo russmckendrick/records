@@ -34,8 +34,14 @@ styles: ["Electric Blues", "Chicago Blues"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="43TJjpNBfw0qY6E87VeIxX" width="100%" height="500" >}}
+American blues has long been part of the Stones’ DNA, and <i>Blue & Lonesome</i> is a greasy, grimy tribute to their blues heroes. Deep cuts by the likes of Jimmy Reed, Howlin’ Wolf, Magic Sam, and Little Walter are delivered with soulful reverence, showing that even rock ‘n’ roll legends are still just music fans at heart.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blue-lonesome/1440863936" >}}
+
+
 
 
 

@@ -34,6 +34,13 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/meliora-deluxe-edition/1440945489" >}}
+
+
+
+
+
 ## Videos
 ### Ghost - From The Pinnacle To The Pit (Official Music Video)
 {{< youtube id="6A-IoOEPbUs" title="Ghost - From The Pinnacle To The Pit (Official Music Video)" >}}<br>

@@ -37,6 +37,13 @@ styles: ["Comedy", "Spoken Word"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beyond-the-fringe-live-at-the-cambridge-art-theatre/717490504" >}}
+
+
+
+
+
 ## Videos
 ### Derek and Clive - 'Derek and Clive (Live)' - Full album
 {{< youtube id="-2ezqpFWnfU" title="Derek and Clive - 'Derek and Clive (Live)' - Full album" >}}<br>

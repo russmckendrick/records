@@ -34,8 +34,14 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2EqmYUomXLsQ1ookAbbtjw" width="100%" height="500" >}}
+After the fizzing energy of their debut, Suede tumble into darkness. <i>Dog Man Star </i> indulges self-loathing, paranoia, failing love and addiction–and sounds magnificent for it. It’s often brilliantly overblown: the proggy “The Asphalt World” clocks in at nearly ten minutes and “The Next Life” employs a full orchestra. But outsider anthems “Heroine” and the optimistic “The Power” are consumingly melodic, while “The Wild Ones” synthesizes virtuoso playing and a crumbling psyche into arguably their finest five minutes.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dog-man-star-remastered-deluxe-edition/437206374" >}}
+
+
 
 
 

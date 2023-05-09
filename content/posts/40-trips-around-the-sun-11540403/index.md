@@ -39,8 +39,12 @@ styles: ["Arena Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5ChYBNgy8o2ps5716s1GH2" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-40-trips-around-the-sun/1310067089" >}}
+
+
 
 
 

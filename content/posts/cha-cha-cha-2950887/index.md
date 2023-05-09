@@ -32,8 +32,11 @@ styles: ["Cha-Cha"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}
+
 
 
 

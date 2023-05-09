@@ -31,8 +31,12 @@ styles: ["Classic Rock", "Symphonic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3uYhG442MU4ca3ZsovlGVh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1208718941" >}}
+
+
 
 
 

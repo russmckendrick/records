@@ -31,8 +31,12 @@ styles: ["New Wave"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4sLCQxMRfn3gAHrBNZtbTH" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues-bonus-track-version/124923817" >}}
+
+
 
 
 

@@ -62,8 +62,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5CVouzgQnK0xK3M3YC8ncs" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/souvenir/1475850622" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7mo9S3gkLJEEDz3thU5Hiv" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/turning-the-mind/757877794" >}}
+
+
 
 
 

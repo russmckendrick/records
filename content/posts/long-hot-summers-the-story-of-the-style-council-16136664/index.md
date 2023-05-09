@@ -56,6 +56,13 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/long-hot-summers-the-story-of-the-style-council/1529602288" >}}
+
+
+
+
+
 ## Videos
 ### Long Hot Summers - The Story Of The Style Council - Trailer
 {{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}<br>

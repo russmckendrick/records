@@ -34,8 +34,14 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0PMasrHdpaoIRuHuhHp72O" width="100%" height="500" >}}
+<i>Born in the U.S.A.</i> delivered the superstar status that Springsteen fans had always expected. The title track was one of seven hits from <i>U.S.A.</i>, which also included the ultra-modern synth-rock of "Dancing in the Dark," the lustful "I'm on Fire," and the quiet, end-of-the-road "My Hometown." Springsteen's ability to make fist-waving, good-time music of troubled stories was at its highest peak here.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/born-in-the-u-s-a/203708420" >}}
+
+
 
 
 

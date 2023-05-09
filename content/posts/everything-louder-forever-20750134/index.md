@@ -64,8 +64,12 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1TqvkPmfgnOWninXz3vKXT" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/everything-louder-forever-the-very-best-of-deluxe-edition/1591621148" >}}
+
+
 
 
 

@@ -48,8 +48,11 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5i9znXMK0Ni5hrHCdSDZY9" width="100%" height="500" >}}
+
 
 
 

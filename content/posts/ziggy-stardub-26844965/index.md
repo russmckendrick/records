@@ -33,8 +33,12 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="213d5Et8RNepC1sYgAQQRx" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ziggy-stardub/1660346908" >}}
+
+
 
 
 

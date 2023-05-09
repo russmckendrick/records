@@ -34,6 +34,13 @@ styles: ["Glam"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/open-up-and-say-ahh-20th-anniversary-edition/716552394" >}}
+
+
+
+
+
 ## Videos
 ### Poison - Nothin' But A Good Time (Official Video)
 {{< youtube id="_88L-CU7PD4" title="Poison - Nothin' But A Good Time (Official Video)" >}}<br>

@@ -39,8 +39,14 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="26yWpyWgFK6xuxi1UsLUFW" width="100%" height="500" >}}
+Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cosmogramma/367788829" >}}
+
+
 
 
 

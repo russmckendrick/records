@@ -34,8 +34,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="56vFkneGivqQcoNQq362iZ" width="100%" height="500" >}}
+He’s been labelled a hip–hop artist, but as the song says, Post Malone is a rockstar too. His second album regales fans with tales of the hedonism and excess that 2016’s astoundingly popular <i>Stoney</i> afforded him. The <i>beerbongs & bentleys</i> universe is one of partying, girls, money and Saint Laurent clothes, but he makes no secret of the downsides to success. Money is everything—except true happiness, and this tenderness adds a dark depth to his addictive songs. This album, like his previous releases, proves that Post holds the recipe for the perfect chart-topper: a wild lifestyle, exceptionally catchy melodies, and the ability to fit Mötley Crüe drummer Tommy Lee and heartfelt acoustic ballads alongside fiery features from Nicki Minaj, YG and 21 Savage. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/beerbongs-bentleys/1373516902" >}}
+
+
 
 
 

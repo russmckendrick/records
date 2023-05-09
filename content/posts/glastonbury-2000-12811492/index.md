@@ -44,8 +44,12 @@ styles: ["Art Rock", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6frjpRu2P0fdF9xSS9stjY" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/glastonbury-2000-live/1438252305" >}}
+
+
 
 
 

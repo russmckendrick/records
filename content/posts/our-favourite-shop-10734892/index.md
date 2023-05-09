@@ -36,8 +36,12 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="75nT99YVabgYL2UcyKrPHa" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/our-favourite-shop-remastered/1443801982" >}}
+
+
 
 
 

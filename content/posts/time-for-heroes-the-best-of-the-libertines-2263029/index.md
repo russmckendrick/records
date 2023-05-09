@@ -35,8 +35,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4gq5rvmYsXX99ZBzlGcnnq" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/time-for-heroes-the-best-of-the-libertines/1544358134" >}}
+
+
 
 
 

@@ -30,8 +30,14 @@ styles: ["Shoegaze", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1qDA0jVhj4ZTjGHmpbmmwa" width="100%" height="500" >}}
+Some bands take a few years to regroup for their next move; dream-pop pioneers Slowdive took 22, a return all the more bittersweet given how many bands their sound has influenced since. Combining the atmospherics of ambient music with rock ’n’ roll’s low center of gravity, <i>Slowdive</i> sounds as vital as anything the band recorded in the early ‘90s, whether it’s the foggy, countryish inflections of “No Longer Making Time” or the propulsive “Star Roving.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/slowdive/1210172617" >}}
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Soul-Jazz", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2coXvs2zYk60U9Dd2hm6St" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stay-awhile-i-only-want-to-be-with-you/1436881148" >}}
+
+
 
 
 

@@ -32,8 +32,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7Jyg6ic5h9BDJ3WuYWYA6K" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/placebo/961067797" >}}
+
+
 
 
 

@@ -40,8 +40,12 @@ styles: ["Acid House", "Indie Rock", "House"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0nDhAjCRFVSV1zDviuZqID" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/spartacus/1187293695" >}}
+
+
 
 
 

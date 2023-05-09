@@ -36,8 +36,11 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="0ezeGGrqYPEL6nlD3eXV4y" width="100%" height="500" >}}
+
 
 
 

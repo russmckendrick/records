@@ -65,6 +65,13 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono/1114657651" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

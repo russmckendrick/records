@@ -30,8 +30,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1fSFgmvRFtrsezbIlp5zSw" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-heart-is-strange-deluxe/1608061903" >}}
+
+
 
 
 

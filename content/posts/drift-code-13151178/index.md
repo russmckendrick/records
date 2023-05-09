@@ -31,8 +31,12 @@ styles: ["Folk", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7E97tVDTSx7tRk8v3XGRvS" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/drift-code/1441129695" >}}
+
+
 
 
 

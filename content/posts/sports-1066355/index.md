@@ -31,8 +31,12 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5jyfyM8Cinnh05OswtWv41" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/sports-30th-anniversary-edition-2013-remaster/1440825555" >}}
+
+
 
 
 

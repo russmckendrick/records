@@ -50,8 +50,12 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="04NFuSzNhIjdwzS5LbQigM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rarities/1527623910" >}}
+
+
 
 
 

@@ -37,6 +37,13 @@ styles: ["Indie Rock", "Britpop"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mobile-home/1443716812" >}}
+
+
+
+
+
 ## Videos
 ### Longpigs - The Frank Sonata
 {{< youtube id="DSA6dU-2_Js" title="Longpigs - The Frank Sonata" >}}<br>

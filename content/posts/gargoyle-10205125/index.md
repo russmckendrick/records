@@ -32,8 +32,14 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6nCviCRyD2aptKlHAN7lEj" width="100%" height="500" >}}
+Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible over the past 20 years. His fourth album with Mark Lanegan Band falls in line with 2014’s <i>Phantom Radio</i>, mixing the grit of blues and murder ballads with gothy electronic atmospheres. As always, the center of these songs is Lanegan’s voice, a husky instrument as threatening as it is seductive, be it on the brooding ‘60s shuffle of “Emperor” or the soaring “Nocturne,” which plays devil to U2’s angels.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gargoyle/1195027557" >}}
+
+
 
 
 

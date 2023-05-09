@@ -37,8 +37,14 @@ styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6nyf9D2M4je5BdNXwycoIe" width="100%" height="500" >}}
+Josh Tillman’s third album as Father John Misty is a wry and passionate complaint against nearly everything under the sun: Politics, religion, entertainment, war—even Father John Misty can’t escape Father John Misty’s gimlet eye. But even the wordiest, most cynically self-aware songs here (“Leaving L.A.,” “When the God of Love Returns There’ll Be Hell to Pay”) are executed with angelic beauty, a contrast that puts Tillman in a league with spiritual predecessors like Randy Newman or Harry Nilsson. A performer as savvy as Tillman knows you can’t sell the apocalypse without making it sound pretty.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/pure-comedy/1195129976" >}}
+
+
 
 
 

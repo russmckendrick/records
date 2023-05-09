@@ -40,8 +40,14 @@ styles: ["Ambient", "Dark Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6nFtsE7rZHInooqb9QYGrn" width="100%" height="500" >}}
+An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> finds duo Trent Reznor and Atticus Ross (<i>The Social Network</i>) joining forces with fellow Oscar winner Gustavo Santaolalla (<i>Brokeback Mountain, Babel</i>) and Scottish post-rock outfit Mogwai (<i>Zidane: A 21st Century Portrait</i>) for a collection of soundscapes that—alternately unsettling and breathtakingly beautiful—evoke the scale and horror of global climate change. 
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/before-the-flood-music-from-the-motion-picture/1162988948" >}}
+
+
 
 
 

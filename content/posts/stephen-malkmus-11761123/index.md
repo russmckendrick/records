@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6uf2oHrKdAQuJ7sqjA8mEM" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/stephen-malkmus/306715054" >}}
+
+
 
 
 

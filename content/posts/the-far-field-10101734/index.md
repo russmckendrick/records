@@ -34,8 +34,14 @@ styles: ["Indie Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="37Xk4WSzbCfYBFTHUHgDYv" width="100%" height="500" >}}
+Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave.” “’Cause what was gold/Is gone and cold.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-far-field/1195221378" >}}
+
+
 
 
 

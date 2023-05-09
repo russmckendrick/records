@@ -30,8 +30,14 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="632b0oXuFpstA4DO2cUKdG" width="100%" height="500" >}}
+By the mid-'80s, it was hard to distinguish a Genesis record from a Phil Collins solo cut. <i>Invisible Touch</i> was released just a year after Collins' blockbuster <i>No Jacket Required</i>, and it plays like a sequel to that pop-rock classic. From the political "Land of Confusion" to the romantic ballad "In Too Deep" to the chart-topping pop of the title track, the album is packed with big hooks and glistening production—making for the most accessible and commercial distillation of Genesis' art-rock sound.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/invisible-touch-2007-remaster/714425692" >}}
+
+
 
 
 

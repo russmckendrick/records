@@ -48,6 +48,13 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/map-of-the-past/1056415449" >}}
+
+
+
+
+
 ## Videos
 ### It Bites - Map of The Past
 {{< youtube id="UTkXOi5c3dE" title="It Bites - Map of The Past" >}}<br>

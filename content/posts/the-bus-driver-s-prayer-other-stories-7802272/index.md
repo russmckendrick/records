@@ -36,8 +36,12 @@ styles: ["Power Pop", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="45luz2YNTnks45NmZsNprn" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1489399630" >}}
+
+
 
 
 

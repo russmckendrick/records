@@ -36,8 +36,12 @@ styles: ["Southern Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5KEqZXp6Aw2LF6J5bjelbf" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/three-snakes-and-one-charm/1444127640" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5J1t0MUxKrixwW0RuyaBJb" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/this-is-not-a-safe-place/1459049456" >}}
+
+
 
 
 

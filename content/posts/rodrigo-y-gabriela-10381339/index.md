@@ -41,8 +41,12 @@ styles: ["Acoustic"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3iqyQHFVWrmx4rjWRJXCNg" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/rodrigo-y-gabriela/1336807458" >}}
+
+
 
 
 

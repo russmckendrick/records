@@ -46,8 +46,12 @@ styles: ["Progressive Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3C3x7g8DmzmnXd6Busxugp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/transcendence-deluxe-edition/1138087195" >}}
+
+
 
 
 

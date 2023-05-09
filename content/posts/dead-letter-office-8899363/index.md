@@ -39,8 +39,12 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0lxAgLR0aeBfYXF4lXKW9F" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dead-letter-office/1444187996" >}}
+
+
 
 
 

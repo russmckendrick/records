@@ -32,8 +32,14 @@ styles: ["Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6W0V8B0fJItvOwC8v114rZ" width="100%" height="500" >}}
+It simply doesn’t get better than “Tired of Being Alone,” “Let’s Stay Together,” and “I’m Still In Love With You.” Green’s otherworldly improvisations in such compact space made the singles all the more revelatory. The productions knew how to squeeze every essential nuance into the limited space without losing an ounce of power.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1203896404" >}}
+
+
 
 
 

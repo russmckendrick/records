@@ -62,8 +62,12 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7v5nA9SIdX1XEJqStVUS4F" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/burning-love-40-greatest-hits-of-elvis-presley/1521597171" >}}
+
+
 
 
 

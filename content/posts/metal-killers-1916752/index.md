@@ -34,8 +34,11 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}
+
 
 
 

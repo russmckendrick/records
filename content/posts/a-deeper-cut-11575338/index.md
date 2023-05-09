@@ -34,8 +34,12 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="081mWFWjZU1Dyl2RspScxV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-deeper-cut/1301389456" >}}
+
+
 
 
 

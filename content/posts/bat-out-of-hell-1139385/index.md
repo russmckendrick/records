@@ -32,8 +32,14 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6mvI80w5r78niBmwtu7RF9" width="100%" height="500" >}}
+A revving Harley of operatic rock purrs at the heart of this 1977 epic. Yes, it proved to be the career catapult for Meat Loaf’s brand of piano-hammering emotion, but its highlights—from the overblown 9-minute onslaught of the title track onwards—are as much the work of lead composer Jim Steinman. “Heaven Can Wait” plays like a twisted hymn and “Two Out of Three Ain’t Bad” turns power baladeering into a blustering art form.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bat-out-of-hell-bonus-tracks-edition/153016096" >}}
+
+
 
 
 

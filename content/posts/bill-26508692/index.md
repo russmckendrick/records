@@ -32,8 +32,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6PeDtOK5p4YYZdgB3hYyIO" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bill/1443484197" >}}
+
+
 
 
 

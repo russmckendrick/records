@@ -42,6 +42,15 @@ styles: ["Pop Rock", "Vocal"]
 <!-- section break -->
 
 
+<i>Nothing Has Changed</i> is the first David Bowie compilation to bridge “Changes,” “Ziggy Stardust,” and other forever-potent glam anthems of his early years to his most current recordings. He pushed the parameters of pop music with the postmodern sonics of “Sound and Vision” and the dubbed-out funk of “Let’s Dance,” but the secret treasure is tucked at the end. The writhing jazz rhythms and wounded crooning of 2014’s “Sue (Or in a Season of Crime)” show that he never stopped searching for new inventions.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nothing-has-changed-the-best-of-david-bowie-deluxe-edition/926949929" >}}
+
+
+
 
 
 

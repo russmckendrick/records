@@ -31,8 +31,14 @@ styles: ["Folk Rock", "Blues Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6YabPKtZAjxwyWbuO9p4ZD" width="100%" height="500" >}}
+If Dylan had dared flirted with rock conceits on the previous <i>Bringing It All Back Home</i>, here he did nothing less than tempestuously ravish them, recasting much of the era in his own willfully sketchy image in the bargain. <i>Highway 61</i> is electric in every sense of the word, a nervy jangle that spins furiously about the twin axes of a full-fledged rock studio band (anchored by Al Kooper and Michael Bloomfield) and a taunting, spectral Dylan who shed the last vestiges of his folkie past to become one of the 60's most elusive icons. Powered by the reptilian licks of Bloomfield, the title track, "From a Buick 6" and "Tombstone Blues" have more to do with garage-savvy American proto-punk than <i>Help!</i> or Rubber Soul, the Beatles' releases that frame the <i>61</i> era. There may be nods to the blues ("It Takes a Lot to Laugh..") and his recent folk past ("Desolation Row"), but the intoxicating language Dylan serves up throughout transcend anything as mundane as mere genre. Poetically opaque, brilliantly snotty, and sometimes damn near inscrutable, it remains as consistently riveting as the day it was released.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/highway-61-revisited/201281514" >}}
+
+
 
 
 

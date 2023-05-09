@@ -42,6 +42,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dr-hook-premium-gold-collection/723588920" >}}
+
+
+
+
+
 ## Videos
 ### Dr  Hook - When You're In Love With A Beautiful Woman
 {{< youtube id="OsZ-QdP6VEE" title="Dr  Hook - When You're In Love With A Beautiful Woman" >}}<br>

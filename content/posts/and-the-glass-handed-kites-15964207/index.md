@@ -46,8 +46,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1APfuoXoBLFK6PRolJdrEk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mew-and-the-glass-handed-kites/424196154" >}}
+
+
 
 
 

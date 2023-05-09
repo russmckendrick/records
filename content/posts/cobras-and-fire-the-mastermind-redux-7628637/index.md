@@ -32,8 +32,12 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6rwFQ2irEjdv0EEJJneuOP" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cobras-and-fire-the-mastermind-redux/1183622896" >}}
+
+
 
 
 

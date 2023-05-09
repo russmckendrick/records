@@ -38,8 +38,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="15UcGyiZaQujbZ2n8ACJ5y" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/free-hand/1629182869" >}}
+
+
 
 
 

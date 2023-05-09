@@ -45,6 +45,9 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 
 
 
+
+
+
 ## Videos
 ### Yes We Can Can
 {{< youtube id="mP3YhOzb74k" title="Yes We Can Can" >}}<br>

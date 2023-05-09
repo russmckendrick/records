@@ -28,8 +28,11 @@ styles: ["Alternative Rock", "Prog Rock"]
 <!-- section break -->
 
 
+
+
 ## Spotify
 {{< spotify type="album" id="2DHSJ8Zwoac6RU6hkSQQjS" width="100%" height="500" >}}
+
 
 
 

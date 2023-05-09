@@ -46,6 +46,15 @@ styles: ["Soundtrack", "Score"]
 <!-- section break -->
 
 
+Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving. Echoing the show’s trippy twists and turns, this music relies on dark synths and sparse, transparent rhythms (“2.0_2-FuxSocy.sln”) for a sense of glitchy dread. Often, however, it’s the music’s more ambient moments that distill the cleanest moments of tension, such as the airy piano/synth exercise “2.0_6-madame3xecutioner.oga” and “2.0_3-j0urnaling.ivs,” which combines chimneys of breezy overtones with ominous drones and unsettling percussive interjections.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-3-original-television-series-soundtrack/1240417353" >}}
+
+
+
 
 
 ## Videos

@@ -34,6 +34,13 @@ styles: ["Hard Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/earth-versus-the-wildhearts/41297620" >}}
+
+
+
+
+
 ## Videos
 ### The Wildhearts - TV Tan
 {{< youtube id="o8y-M_0UffE" title="The Wildhearts - TV Tan" >}}<br>

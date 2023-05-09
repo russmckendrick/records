@@ -32,8 +32,12 @@ styles: ["Synth-pop", "Ambient"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1BxJGQez8eRFmWQqHor7H3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/short-stories-2016-remaster/1443103998" >}}
+
+
 
 
 

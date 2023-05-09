@@ -36,8 +36,14 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5yJ7ZZMLxnVbMuXpfjL8CE" width="100%" height="500" >}}
+David and Peter Brewis’s sixth album is their first since becoming fathers. With paternal reflection steeping the lyrics, there’s also new warmth and optimism to the music. Their artful pop once revelled in restlessness and unpredictability but melodies are given more time to radiate here. There are still plenty of ideas and twists to get lost in during “The Noisy Days Are Over”’s taut funk and “Disappointed’’s blue-eyed-soul but “The Morning Is Waiting” is happy to wallow in a beautiful, string-mottled tune.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/commontime/1048481537" >}}
+
+
 
 
 

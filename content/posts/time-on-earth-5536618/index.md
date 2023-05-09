@@ -38,8 +38,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="48vqZ7AYwMuw1b1sfJXi1n" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/time-on-earth/1600080505" >}}
+
+
 
 
 

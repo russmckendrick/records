@@ -35,6 +35,13 @@ styles: ["Alternative Rock", "New Wave"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/heaven-the-best-of-the-psychedelic-furs/433444062" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

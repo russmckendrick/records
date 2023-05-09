@@ -31,8 +31,12 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6tcBa4XORQYZBuFCILU3tX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/into-the-gap/1679081538" >}}
+
+
 
 
 

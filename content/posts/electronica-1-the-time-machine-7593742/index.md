@@ -38,8 +38,14 @@ styles: ["Synth-pop", "Electro", "Trance"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2TeBcXsF6f0A6v0oxACUX5" width="100%" height="500" >}}
+On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel Jarre explores electronic music’s past with an eye toward its future—and with a few notable friends in tow. “Glory,” with M83, is all airy, modern electronic pop, and "Zero Gravity,” Jarre’s Tangerine Dream collaboration, is a meandering cinematic soundscape that recalls his new-age roots. Elsewhere, he contrasts those lighter sounds with emotive trance flourishes, and drops some thudding kicks and eerie, electro-inspired synths on the Gesaffelstein-assisted “Conquistador.”
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745" >}}
+
+
 
 
 

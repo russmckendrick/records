@@ -35,8 +35,12 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="303SfM4fCrqwqnsSCQG8bV" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}
+
+
 
 
 

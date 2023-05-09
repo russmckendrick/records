@@ -35,8 +35,12 @@ styles: ["Math Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4SFGBr7QyGdGURLdeVapns" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/%E6%B0%B4%E5%BA%95/1613718805" >}}
+
+
 
 
 

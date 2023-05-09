@@ -35,6 +35,13 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/four-walls-and-an-amplifier/959034630" >}}
+
+
+
+
+
 ## Videos
 ### Amplifier - 01. MotorHead
 {{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}<br>

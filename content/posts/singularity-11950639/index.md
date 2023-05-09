@@ -31,8 +31,14 @@ styles: ["Tech House", "Electro", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1nvzBC1M3dlCMIxfUCBhlO" width="100%" height="500" >}}
+Building on his background as a classical pianist and composer, Surrey producer Jon Hopkins uses vast electronic soundscapes to explore other worlds. Here, on his fifth album, he contemplates our own. Inspired by adventures with meditation and psychedelics, <i>Singularity</i> aims to evoke the magical awe of heightened consciousness. It’s a theme that could easily feel affected or clichéd, but Hopkins does it phenomenal justice with imaginative, mind-bending songs that feel both spontaneous and rigorously structured. Floating from industrial, polyrhythmic techno (“Emerald Rush") to celestial, ambient atmospheres (“Feel First Life”), it’s a transcendent headphone vision quest you’ll want to go on again.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/singularity/1349736537" >}}
+
+
 
 
 

@@ -35,8 +35,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5XgUtV3205kTcgoSLNf8ix" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-last-days-of-oakland/1246371196" >}}
+
+
 
 
 

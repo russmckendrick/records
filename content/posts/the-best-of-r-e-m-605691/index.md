@@ -38,8 +38,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3UvVHQ31PhSMtI2GIS91Lz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}
+
+
 
 
 

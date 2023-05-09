@@ -42,6 +42,13 @@ styles: []
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/flicker/1600686699" >}}
+
+
+
+
+
 ## Videos
 ### Andy Bell Something Like Love
 {{< youtube id="ttvHX1pClw4" title="Andy Bell Something Like Love" >}}<br>

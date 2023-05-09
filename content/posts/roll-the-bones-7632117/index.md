@@ -32,8 +32,12 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2myflcR6pL3Eo0vJFkyHbU" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-remastered/642200510" >}}
+
+
 
 
 

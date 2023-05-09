@@ -26,6 +26,9 @@ styles: ["Soul", "Disco"]
 
 
 
+
+
+
 ## Videos
 ### Edwin Starr - It's Called The Rock ( Disco 1979 )
 {{< youtube id="2tUr7Ca3aww" title="Edwin Starr - It's Called The Rock ( Disco 1979 )" >}}<br>

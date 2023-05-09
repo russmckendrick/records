@@ -32,8 +32,12 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2AyJzvREOnlnYhaBzF1Kxp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/raw-like-sushi/716751901" >}}
+
+
 
 
 

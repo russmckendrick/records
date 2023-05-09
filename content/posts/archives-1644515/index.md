@@ -48,6 +48,13 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/no-rush-single/1653217412" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

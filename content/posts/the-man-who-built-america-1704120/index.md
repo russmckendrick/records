@@ -32,8 +32,12 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6T8yKphsRNbMZBb8nL44lk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-man-who-built-america-bonus-tracks-version/1618441329" >}}
+
+
 
 
 

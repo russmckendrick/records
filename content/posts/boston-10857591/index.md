@@ -30,8 +30,14 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2QLp07RO6anZHmtcKTEvSC" width="100%" height="500" >}}
+Gifted guitarist/producer Tom Scholz and singer Brad Delp couldn’t have imagined the success of their 1976 debut when they recorded it in a Boston basement. It’s packed with heavy, guitar-driven peaks, gentle passages, and glacier-sized choruses—from party-starter anthem “Smokin’,” to the ode to nostalgia “More Than a Feeling,” to the everyman ballad “Let Me Take You Home Tonight.” “Rock & Roll Band” is an autobiographical tale of bar-band adversities and “Foreplay/Long Time” kicks up from murky jazz-prog to pure, sing-along power pop. It’s an album for the ages.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/boston/913902091" >}}
+
+
 
 
 

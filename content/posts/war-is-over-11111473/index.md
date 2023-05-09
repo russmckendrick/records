@@ -34,8 +34,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7EqrrMcMnLF5LZy4tReToj" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/war-is-over/1600456979" >}}
+
+
 
 
 

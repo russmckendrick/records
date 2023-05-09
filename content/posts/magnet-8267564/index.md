@@ -27,8 +27,12 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1BSX3UWbygVND55iI6czun" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/magnet-ep/1031295288" >}}
+
+
 
 
 

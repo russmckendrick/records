@@ -32,6 +32,15 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 
+<i>Harvest Moon</i> nods without subtlety to Neil’s star-making 1972 album, <i>Harvest</i>, in both its name and laidback, countrified sound. However, this is the sound of an old(er) man taking a look at his life and fighting to keep his heart of gold from fading to rust. With the softly swaying romantic title track, Neil delivers a wedding slow-dance for the ages, but on “From Hank to Hendrix” and “You and Me,” he addresses the struggles that beset every long-term union.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/harvest-moon/72796976" >}}
+
+
+
 
 
 ## Videos

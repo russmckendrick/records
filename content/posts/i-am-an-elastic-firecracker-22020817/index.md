@@ -34,8 +34,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4H0sGJvU49fFtUH86CJyu5" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-am-an-elastic-firecracker/1443726891" >}}
+
+
 
 
 

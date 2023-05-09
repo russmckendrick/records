@@ -37,6 +37,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/who-do-we-hate-today/1566592596" >}}
+
+
+
+
+
 ## Videos
 ### Jim's Bed Of Unease (Intro)
 {{< youtube id="DnkIJYBaDOg" title="Jim's Bed Of Unease (Intro)" >}}<br>

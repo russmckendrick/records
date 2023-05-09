@@ -455,6 +455,13 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-early-years-1967-1972-cre-ation/1137669181" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

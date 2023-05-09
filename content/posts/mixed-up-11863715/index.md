@@ -34,8 +34,12 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5bTDNDi8bt5A7VdCkDCzbe" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mixed-up-remastered-2018-deluxe-edition/1364112266" >}}
+
+
 
 
 

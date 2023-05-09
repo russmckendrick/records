@@ -32,8 +32,12 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0rnxP99MwQY1rr6Y4phq1Y" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hip-to-the-jag/1504344922" >}}
+
+
 
 
 

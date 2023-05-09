@@ -39,8 +39,14 @@ styles: ["Pop Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="70V1kL7w7Q9pDU4I6zDjYE" width="100%" height="500" >}}
+Talk Talk snuck into the music industry as part of the New Romantic movement, opening for Duran Duran and recording a debut album, 1982’s <i>The Party’s Over</i>, that fit the emerging music trend. However — and this is a big however — singer Mark Hollis and producer-multi-instrumentalist Tim Friese-Greene had other plans. They quickly moved away from the synthetic washes and began exploring natural atmospherics that created a brand new style of music. <i>The Colour of Spring</i> is the middle ground. It retains the accessible spirit of <i>It’s My Life</i> with the pop snap and crackle of “I Don’t Believe In You” and the white funk of “Life’s What You Make It,” but there is also a touch of the luminous stillness and grandiosity that dominates <i>Spirit of Eden</i> and <i>Laughing Stock</i>. <i>The Colour of Spring</i> is the album most likely to satisfy all comers. The music often has a pulse (“Living in Another World”) and when it does stretch out on “April 5th,” “Chameleon Day” and “Time It’s Time,” it’s with a sweetness that retains its connections to the pop-rock world the band would soon be leaving for ambient lands.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-colour-of-spring/696811651" >}}
+
+
 
 
 

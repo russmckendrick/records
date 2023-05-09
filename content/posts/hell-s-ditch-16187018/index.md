@@ -35,8 +35,12 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6vWXyEHqnvo4C5xniFTmR8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hells-ditch-expanded-edition/189232803" >}}
+
+
 
 
 

@@ -34,8 +34,12 @@ styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6iGX2bbzKEocRY0HzdQ9zX" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/twin-peaks-fire-walk-with-me-soundtrack-from-the/46734067" >}}
+
+
 
 
 

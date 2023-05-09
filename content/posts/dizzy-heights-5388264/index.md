@@ -33,8 +33,12 @@ styles: ["Pop Rock", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3cwQSyZTWTp1Air5e6jcV9" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dizzy-heights-bonus-track-version/727690973" >}}
+
+
 
 
 

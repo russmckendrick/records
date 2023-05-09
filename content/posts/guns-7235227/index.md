@@ -36,6 +36,13 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/guns/336779427" >}}
+
+
+
+
+
 ## Videos
 ### Spell with a Shell
 {{< youtube id="I1-978oeynU" title="Spell with a Shell" >}}<br>

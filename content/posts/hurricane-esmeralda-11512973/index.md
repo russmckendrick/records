@@ -31,8 +31,12 @@ styles: ["Prog Rock", "Jazz-Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5RP022eUeGAODpJPAB8KKk" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hurricane-esmeralda/1314469704" >}}
+
+
 
 
 

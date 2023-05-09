@@ -36,6 +36,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bite-it/1635562008" >}}
+
+
+
+
+
 ## Videos
 ### Whiteout - No Time
 {{< youtube id="KsoyNoEl2gw" title="Whiteout - No Time" >}}<br>

@@ -34,8 +34,12 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7vhsZvvArRpU9cXxjfiC06" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}
+
+
 
 
 

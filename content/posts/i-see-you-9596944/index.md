@@ -42,8 +42,14 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6Zw6NKh3oIUhDRMOyBmsUU" width="100%" height="500" >}}
+After two albums of perfectly coiled indie pop, The xx open up. The intimate spaces and beautifully tessellated arrangements endure, but, perhaps owing to drummer/producer Jamie xx’s solo flowering, <i>I See You</i> is expansive and bright. The samples employed on “Say Something Loving” (Alessi Brothers) and “On Hold” (Hall & Oates), for example, add a new and joyous dimension to Romy Madley Croft and Oliver Sims’ vocals. The Londoners remain untouchable as stripped-back, small-hours balladeers, with closer “Test Me” as halting and affecting as they’ve ever been.      
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-see-you/1170658234" >}}
+
+
 
 
 

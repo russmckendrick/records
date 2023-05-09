@@ -32,8 +32,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4QTkJvr6vfj3MuOqnSpMfE" width="100%" height="500" >}}
+With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Broken Frame</i> is Depeche Mode exploring their sound with impressive assurance. “The Meaning of Love” and “A Photograph of You” maintain the energy and infectiousness of <i>Speak & Spell</i>, but “See You” leads its pop hook down a dark alley of a heartbreak. “Satellite” investigates electro-dub and, at the album’s most ambitious, “Shouldn’t Have Done That” examines the evolution of dictators with unsettling harmonies and marching jackboots.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-broken-frame-deluxe/665404834" >}}
+
+
 
 
 

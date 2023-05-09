@@ -31,8 +31,14 @@ styles: ["Alternative Rock", "Electro"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6aSk2vxoY3xtz7cXKuY9EL" width="100%" height="500" >}}
+On LCD’s debut, James Murphy plunders the past—namely Liquid Liquid and ESG’s punk-funk—but makes those influences glitter anew. Bringing the New York underground overground, the bristling fizz of “Thrills” and “Movement” are dispatches from some dingy club full of beautiful people, but Murphy also forges his own inimitable pop sensibility from his love of his source material and his 30-something ennui. “Daft Punk Is Playing at My House” is a loving sneer, and the bubbling “Disco Infiltrator” feels like a champagne bath to clean away the city’s grime.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lcd-soundsystem/696523434" >}}
+
+
 
 
 

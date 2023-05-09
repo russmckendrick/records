@@ -31,6 +31,13 @@ styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/blackstar/1676286487" >}}
+
+
+
+
+
 
 ## Release Information
 |  Key           | Value                                                |

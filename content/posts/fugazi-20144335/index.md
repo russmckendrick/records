@@ -47,8 +47,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="1qU6HQ914NtTvXmsLoGbAz" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656" >}}
+
+
 
 
 

@@ -39,8 +39,14 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0IJ8KmhJausnsCjUvgM5vY" width="100%" height="500" >}}
+Rancid’s ninth studio album arrives 24 years after their debut, but time hasn’t diminished their energy; this rollicking set finds the Berkeley punks as raw, committed, and passionate as they’ve ever been. The years have given them plenty of memories, and nostalgia rises off <i>Trouble Maker</i> like steam from a mosh pit, whether they’re saluting punk’s departed icons (“Say Goodbye to Our Heroes”), remembering good times with good company (“Buddy”), or venerating Berkeley’s activist history (“Telegraph Avenue”).
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/trouble-maker-deluxe-edition/1485069298" >}}
+
+
 
 
 

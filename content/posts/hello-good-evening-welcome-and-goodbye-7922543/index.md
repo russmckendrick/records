@@ -34,8 +34,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0V5f26pCXvxLghZ66UM2h8" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hello-good-evening-welcome-and-goodbye-live/1594857663" >}}
+
+
 
 
 

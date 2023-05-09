@@ -31,8 +31,14 @@ styles: ["Pop Rock", "Soul"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6e6XTbQ6rFQdyxQU1BUU4V" width="100%" height="500" >}}
+Daryl Hall and John Oates are in peak form on this electric 1985 headlining set at the Apollo Theater, showing off their effortlessly tight-knit yet limber take on soul pop. With former Temptations Eddie Kendricks and David Ruffin in tow, the duo flash their bona fides on a rollicking introductory medley of Motown hits, before bringing it down to a simmer on a slow-burning take of “When Something Is Wrong With My Baby."
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-apollo/262058880" >}}
+
+
 
 
 

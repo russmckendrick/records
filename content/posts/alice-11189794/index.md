@@ -37,8 +37,12 @@ styles: ["Alternative Rock", "Experimental"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3zeDrhkNv8872fC7CsOCpI" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/alice-anniversary-edition/1646707007" >}}
+
+
 
 
 

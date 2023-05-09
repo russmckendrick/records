@@ -43,8 +43,12 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7hSjhZyFoR5DHEL8wcWFD5" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-volume-i-volume-ii/1461891971" >}}
+
+
 
 
 

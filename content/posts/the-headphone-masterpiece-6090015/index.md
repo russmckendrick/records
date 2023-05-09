@@ -58,8 +58,12 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="4DO0EipTAYZYaUDSoEVK98" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-headphone-masterpiece/1529286229" >}}
+
+
 
 
 

@@ -35,8 +35,12 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="519qj756HnUkN4S8RhgdPD" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/transience/1143182695" >}}
+
+
 
 
 

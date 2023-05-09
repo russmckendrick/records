@@ -32,8 +32,14 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5K18gTgac0q6Jma5HkV1vA" width="100%" height="500" >}}
+Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot like Mazzy Star’s second album. Tambourines roll at tumbleweed tempos, a lap steel gently weeps, and Hope Sandoval sings with the fluid grace of a waking dream. The title track is a psychedelic swirl of feedback and gentle murmurs, and “Mary of Silence” goes even deeper into Doors-inspired drone rock. On “Fade into You,” Sandoval’s weary voice falls across acoustic strumming like velvet curtains brushing an empty dance floor.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/so-tonight-that-i-might-see/1440848808" >}}
+
+
 
 
 

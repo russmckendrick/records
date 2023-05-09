@@ -30,6 +30,13 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/vision-and-ageless-light/1202059458" >}}
+
+
+
+
+
 ## Videos
 ### EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016
 {{< youtube id="DXmw3SgL49E" title="EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016" >}}<br>

@@ -34,8 +34,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0F3cyWdv3ANruF1ICS22q3" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/faithful/1084189642" >}}
+
+
 
 
 

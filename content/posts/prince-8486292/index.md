@@ -31,8 +31,12 @@ styles: ["Disco", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5zEFCJy9kAyD8rMbBESdYh" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-prince/175020481" >}}
+
+
 
 
 

@@ -64,8 +64,12 @@ styles: []
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2CnvBTLTov5YDGM2axRKcQ" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1413278413" >}}
+
+
 
 
 

@@ -35,6 +35,13 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/heaven-born-and-ever-bright/333656477" >}}
+
+
+
+
+
 ## Videos
 ### Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)
 {{< youtube id="CQwlaMzdzl8" title="Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)" >}}<br>

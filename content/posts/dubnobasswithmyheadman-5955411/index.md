@@ -31,6 +31,15 @@ styles: ["Techno", "Leftfield", "Ambient"]
 <!-- section break -->
 
 
+This ambitious 1994 album will leave you in a sweating, swirling, ecstatic trance. Bringing on DJ Darren Emerson was a brilliant move by Karl Hyde and Rick Smith, whose rock inclinations get completely submerged in endless textures of ambient echoes, throbbing bass, buzzing synths and scattered breakbeats. Hyde's dark, monotone moan—often multi-tracked—snakes its way through beats that drive relentlessly forward. Propulsive, yet fluid and melodic, this is dance music that both electronic heads and indie rockers can agree on.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dubnobasswithmyheadman-20th-anniversary-remaster/1443808376" >}}
+
+
+
 
 
 ## Videos

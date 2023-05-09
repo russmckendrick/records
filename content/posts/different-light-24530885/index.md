@@ -34,8 +34,12 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="7qEP3i0f0zfk6JUFW3SyeN" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/different-light-deluxe-edition/397587066" >}}
+
+
 
 
 

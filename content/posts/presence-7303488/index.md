@@ -29,8 +29,14 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3uhD8hNpb0m3iIZ18RHH5u" width="100%" height="500" >}}
+Cut in 18 days as Robert Plant recovered from a serious car accident — he was forced to sing from a wheelchair — <i>Presence</i> is the most underappreciated of Led albums but nonetheless shows that even a rushed Zep could turn in convincingly soaring (“Achilles Last Stand”), thumping (“Nobody’s Fault But Mine”) and playful (“Royal Orleans”) stuff. Jimmy Page’s guitar solos, especially on the opening “Achilles,” are among his most urgent and driven, while Robert Plant appears more angst-ridden than he would until his solo days. Presence is ultimately proof that the most minor Led Zeppelin album could go head to head with many other bands’ most important ones.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/presence-remastered/580707889" >}}
+
+
 
 
 

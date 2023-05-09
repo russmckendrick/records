@@ -36,8 +36,12 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0Nv08xNFTsUHdfvf5HR0lp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-blue-hour/1372130297" >}}
+
+
 
 
 

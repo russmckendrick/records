@@ -32,8 +32,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="6yskFQZNlLYhkchAxELHi6" width="100%" height="500" >}}
+There are no winners in <i>Nebraska</i>—a bleak sonic landscape where America’s dispossessed are ground into dust by social forces beyond their control. There’s the drifting murderer of the title track; a child whose family slaves away beneath a “Mansion On the Hill”; and a hard-luck guy forced to kill for the mob in “Atlantic City”. Springsteen’s darkest record is also his sparest: just voice and guitar lost in a sea of lonely reverb. There's an almost bone-chilling starkness to these songs, but they're deeply moving too.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/nebraska/185798980" >}}
+
+
 
 
 

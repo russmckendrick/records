@@ -50,8 +50,14 @@ styles: ["Thrash"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="5r4qa5AIQUVypFRXQzjaiu" width="100%" height="500" >}}
+<i>Chaos A.D.</i> isn't just one of the decade's best metal albums; it's one of the genre's most diverse albums. When the band decamped to a remote studio in South Wales with master engineer Andy Wallace, it was intent on doing something different. A harbinger of the album’s ambitions, “Kaiowas” is a completely acoustic track recorded outdoors at a medieval Welsh castle. Even the album’s heaviest riffs display a newly enflamed confidence and sense of purpose. The brilliant opening track, “Refuse/Resist”—which functions both as a protest anthem and a visceral celebration of heavy metal—set the template for a new groove-oriented vision of violent guitar music. While many metal bands seemed as though they were out to prove they could out-rock, outpace, and out-scream every other group, <i>Chaos A.D.</i> isn't concerned about competing with its predecessors or peers. Instead, the band made an album that celebrated its personal influences, tastes, and desire for innovation. Aside from its powerful songs, this was the philosophy by which Sepultura breathed new life into notions of what heavy metal was and could be.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chaos-a-d/214479827" >}}
+
+
 
 
 

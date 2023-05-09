@@ -33,6 +33,13 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-utopia-strong/1466902269" >}}
+
+
+
+
+
 ## Videos
 ### The Utopia Strong - Brainsurgeons 3 (Track Video)
 {{< youtube id="gG02P9j406I" title="The Utopia Strong - Brainsurgeons 3 (Track Video)" >}}<br>

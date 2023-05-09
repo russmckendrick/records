@@ -31,8 +31,12 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2RbQWhfCtfJWuIe758hy60" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/southland-mission/1024130093" >}}
+
+
 
 
 

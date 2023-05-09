@@ -33,8 +33,15 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="2Se4ZylF9NkFGD92yv1aZC" width="100%" height="500" >}}
+Even though Pink Floyd's debut album followed <i>Sgt. Pepper's</i> by a couple of months, nothing could have prepared the world for the magical blend of genius and LSD-induced madness that drove Floyd frontman Syd Barrett's dazzling psychedelic vision. Barrett's cubist guitar riffs collide magnificently with Rick Wright's hypnotic, snake-charmer organ lines amid a dizzying merry-go-round of sound effects. All the while, Syd's equally abstract lyrical approach freely mixes fairytale imagery with cosmic explorations—the ideal soundtrack for journeys through both outer and inner space.
+
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401" >}}
+
+
 
 
 

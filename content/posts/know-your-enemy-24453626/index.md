@@ -48,6 +48,13 @@ styles: ["Alternative Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/know-your-enemy/319494170" >}}
+
+
+
+
+
 ## Videos
 ### Manic Street Preachers - So Why So Sad
 {{< youtube id="x3i1E9N8zww" title="Manic Street Preachers - So Why So Sad" >}}<br>

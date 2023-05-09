@@ -36,8 +36,14 @@ styles: ["Rock & Roll", "Pop Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="3719jlsd41vKAiYWrXNt9o" width="100%" height="500" >}}
+What was it that Peter Frampton brought to <i>Frampton Comes Alive!</i> that audiences had missed on his preceding four solo albums? Whatever it was, he certainly got it right here—on one of the most charismatic and rocking live sets ever captured on tape. The gutsy pop-rock smash "Show Me the Way," the heartfelt power ballad "Baby, I Love Your Way," and the swaggering talkbox-guitar workout "Do You Feel Like We Do" still bring mid-'70s, arena-sized excitement to life.
+
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/frampton-comes-alive-live/1440754678" >}}
+
+
 
 
 

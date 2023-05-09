@@ -33,8 +33,12 @@ styles: ["Stoner Rock", "Hard Rock"]
 <!-- section break -->
 
 
-## Spotify
-{{< spotify type="album" id="0PSTqZ8cInMb1Wr68Uqdwp" width="100%" height="500" >}}
+
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082" >}}
+
+
 
 
 
