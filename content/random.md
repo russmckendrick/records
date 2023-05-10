@@ -1,4 +1,4 @@
 ---
-title: "Random"
+title: "Crate Digging"
 layout: "random"
 ---
