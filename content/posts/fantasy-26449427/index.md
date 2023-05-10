@@ -3,6 +3,7 @@ title: "M83 - Fantasy"
 artist: "M83"
 album_name: "Fantasy"
 date: 2023-03-20T05:44:16.000000Z
+release_date: "2023-03-17"
 release_id: "26449427"
 slug: "fantasy-26449427"
 hideSummary: true

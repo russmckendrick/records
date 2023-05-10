@@ -3,6 +3,7 @@ title: "Aretha Franklin - Aretha's Greatest Hits"
 artist: "Aretha Franklin"
 album_name: "Aretha's Greatest Hits"
 date: 2016-09-06T16:36:37.000000Z
+release_date: "1985-01-01"
 release_id: "9007937"
 slug: "aretha-s-greatest-hits-9007937"
 hideSummary: true

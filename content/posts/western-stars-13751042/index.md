@@ -3,6 +3,7 @@ title: "Bruce Springsteen - Western Stars"
 artist: "Bruce Springsteen"
 album_name: "Western Stars"
 date: 2019-06-15T14:28:43.000000Z
+release_date: "2019-06-14"
 release_id: "13751042"
 slug: "western-stars-13751042"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Neil Young - Harvest"
 artist: "Neil Young"
 album_name: "Harvest"
 date: 2016-01-11T17:43:20.000000Z
+release_date: "1972-02-01"
 release_id: "3174466"
 slug: "harvest-3174466"
 hideSummary: true

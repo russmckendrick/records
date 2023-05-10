@@ -3,6 +3,7 @@ title: "Belly - Bees"
 artist: "Belly"
 album_name: "Bees"
 date: 2021-06-12T06:03:40.000000Z
+release_date: "1988-09-19"
 release_id: "19112494"
 slug: "bees-19112494"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "The Verve - A Northern Soul"
 artist: "The Verve"
 album_name: "A Northern Soul"
 date: 2016-10-15T11:13:55.000000Z
+release_date: "1995-07-03"
 release_id: "9033688"
 slug: "a-northern-soul-9033688"
 hideSummary: true

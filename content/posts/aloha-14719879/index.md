@@ -3,6 +3,7 @@ title: "Son Little - Aloha"
 artist: "Son Little"
 album_name: "Aloha"
 date: 2020-02-07T18:46:04.000000Z
+release_date: "2020-01-31"
 release_id: "14719879"
 slug: "aloha-14719879"
 hideSummary: true

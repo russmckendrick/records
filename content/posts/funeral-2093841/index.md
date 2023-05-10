@@ -3,6 +3,7 @@ title: "Arcade Fire - Funeral"
 artist: "Arcade Fire"
 album_name: "Funeral"
 date: 2016-02-14T11:10:06.000000Z
+release_date: "2004-09-14"
 release_id: "2093841"
 slug: "funeral-2093841"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhy
 artist: "A Tribe Called Quest"
 album_name: "People's Instinctive Travels And The Paths Of Rhythm"
 date: 2017-04-14T09:25:48.000000Z
+release_date: "1990-04-10"
 release_id: "7926540"
 slug: "people-s-instinctive-travels-and-the-paths-of-rhythm-7926540"
 hideSummary: true

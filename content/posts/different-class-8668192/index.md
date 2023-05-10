@@ -3,6 +3,7 @@ title: "Pulp - Different Class"
 artist: "Pulp"
 album_name: "Different Class"
 date: 2016-06-21T16:38:39.000000Z
+release_date: "1995-10-30"
 release_id: "8668192"
 slug: "different-class-8668192"
 hideSummary: true

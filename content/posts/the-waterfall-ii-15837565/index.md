@@ -3,6 +3,7 @@ title: "My Morning Jacket - The Waterfall II"
 artist: "My Morning Jacket"
 album_name: "The Waterfall II"
 date: 2020-09-15T17:31:36.000000Z
+release_date: "2020-07-17"
 release_id: "15837565"
 slug: "the-waterfall-ii-15837565"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Ghost - Prequelle"
 artist: "Ghost"
 album_name: "Prequelle"
 date: 2018-06-15T10:57:11.000000Z
+release_date: "2018-06-01"
 release_id: "12074710"
 slug: "prequelle-12074710"
 hideSummary: true

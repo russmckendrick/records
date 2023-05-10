@@ -3,6 +3,7 @@ title: "The Smashing Pumpkins - Pisces Iscariot"
 artist: "The Smashing Pumpkins"
 album_name: "Pisces Iscariot"
 date: 2016-04-07T17:34:42.000000Z
+release_date: "1994-10-04"
 release_id: "4225337"
 slug: "pisces-iscariot-4225337"
 hideSummary: true

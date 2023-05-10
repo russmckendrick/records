@@ -3,6 +3,7 @@ title: "Depeche Mode - Memento Mori"
 artist: "Depeche Mode"
 album_name: "Memento Mori"
 date: 2023-04-03T04:25:46.000000Z
+release_date: "2023-03-24"
 release_id: "26515907"
 slug: "memento-mori-26515907"
 hideSummary: true

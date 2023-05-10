@@ -3,6 +3,7 @@ title: "Radiohead - Pablo Honey"
 artist: "Radiohead"
 album_name: "Pablo Honey"
 date: 2016-07-15T17:16:11.000000Z
+release_date: "1993-02-22"
 release_id: "8765909"
 slug: "pablo-honey-8765909"
 hideSummary: true

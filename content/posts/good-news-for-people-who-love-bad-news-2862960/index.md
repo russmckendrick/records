@@ -3,6 +3,7 @@ title: "Modest Mouse - Good News For People Who Love Bad News"
 artist: "Modest Mouse"
 album_name: "Good News For People Who Love Bad News"
 date: 2019-06-03T17:50:11.000000Z
+release_date: "2004-04-06"
 release_id: "2862960"
 slug: "good-news-for-people-who-love-bad-news-2862960"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Zero 7 - Simple Things"
 artist: "Zero 7"
 album_name: "Simple Things"
 date: 2021-07-27T04:41:25.000000Z
+release_date: "2001-04-23"
 release_id: "19608181"
 slug: "simple-things-19608181"
 hideSummary: true

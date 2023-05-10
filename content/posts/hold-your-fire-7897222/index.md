@@ -3,6 +3,7 @@ title: "Rush - Hold Your Fire"
 artist: "Rush"
 album_name: "Hold Your Fire"
 date: 2017-02-19T10:40:26.000000Z
+release_date: "1987-09-08"
 release_id: "7897222"
 slug: "hold-your-fire-7897222"
 hideSummary: true

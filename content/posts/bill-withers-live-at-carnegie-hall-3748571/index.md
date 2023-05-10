@@ -3,6 +3,7 @@ title: "Bill Withers - Bill Withers Live At Carnegie Hall"
 artist: "Bill Withers"
 album_name: "Bill Withers Live At Carnegie Hall"
 date: 2016-10-01T10:34:58.000000Z
+release_date: "1973-01-01"
 release_id: "3748571"
 slug: "bill-withers-live-at-carnegie-hall-3748571"
 hideSummary: true

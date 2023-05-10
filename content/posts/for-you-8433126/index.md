@@ -3,6 +3,7 @@ title: "Prince - For You"
 artist: "Prince"
 album_name: "For You"
 date: 2016-06-27T17:46:20.000000Z
+release_date: "1978-04-07"
 release_id: "8433126"
 slug: "for-you-8433126"
 hideSummary: true

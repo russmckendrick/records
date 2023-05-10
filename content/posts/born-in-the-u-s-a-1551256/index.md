@@ -3,6 +3,7 @@ title: "Bruce Springsteen - Born In The U.S.A."
 artist: "Bruce Springsteen"
 album_name: "Born In The U.S.A."
 date: 2015-09-11T18:02:25.000000Z
+release_date: "1984-06-04"
 release_id: "1551256"
 slug: "born-in-the-u-s-a-1551256"
 hideSummary: true

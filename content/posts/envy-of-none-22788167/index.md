@@ -3,6 +3,7 @@ title: "Envy Of None - Envy Of None"
 artist: "Envy Of None"
 album_name: "Envy Of None"
 date: 2022-04-07T04:04:26.000000Z
+release_date: "2022-04-08"
 release_id: "22788167"
 slug: "envy-of-none-22788167"
 hideSummary: true

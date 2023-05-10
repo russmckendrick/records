@@ -3,6 +3,7 @@ title: "The Beatles - Let It Be"
 artist: "The Beatles"
 album_name: "Let It Be"
 date: 2021-10-22T10:09:58.000000Z
+release_date: "1970-05-08"
 release_id: "20583457"
 slug: "let-it-be-20583457"
 hideSummary: true

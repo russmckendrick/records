@@ -3,6 +3,7 @@ title: "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Waile
 artist: "Bob Marley & The Wailers"
 album_name: "Legend - The Best Of Bob Marley And The Wailers"
 date: 2016-06-21T16:37:49.000000Z
+release_date: "1984-05-08"
 release_id: "4418438"
 slug: "legend-the-best-of-bob-marley-and-the-wailers-4418438"
 hideSummary: true

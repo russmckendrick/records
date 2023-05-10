@@ -3,6 +3,7 @@ title: "Jason Isbell And The 400 Unit - Reunions"
 artist: "Jason Isbell And The 400 Unit"
 album_name: "Reunions"
 date: 2020-05-20T15:58:49.000000Z
+release_date: "2020-05-15"
 release_id: "15259036"
 slug: "reunions-15259036"
 hideSummary: true

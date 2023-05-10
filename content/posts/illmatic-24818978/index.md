@@ -3,6 +3,7 @@ title: "Nas - Illmatic"
 artist: "Nas"
 album_name: "Illmatic"
 date: 2022-10-14T05:53:38.000000Z
+release_date: "1994-04-19"
 release_id: "24818978"
 slug: "illmatic-24818978"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Rush - Power Windows"
 artist: "Rush"
 album_name: "Power Windows"
 date: 2017-02-19T10:39:39.000000Z
+release_date: "1985-10-29"
 release_id: "7855875"
 slug: "power-windows-7855875"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Bruce Springsteen - Letter To You"
 artist: "Bruce Springsteen"
 album_name: "Letter To You"
 date: 2020-10-23T09:30:37.000000Z
+release_date: "2020-10-23"
 release_id: "16097159"
 slug: "letter-to-you-16097159"
 hideSummary: true

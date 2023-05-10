@@ -3,6 +3,7 @@ title: "The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)"
 artist: "The Blues Brothers"
 album_name: "The Blues Brothers (Original Soundtrack Recording)"
 date: 2015-09-04T16:48:03.000000Z
+release_date: "1980-06"
 release_id: "4625231"
 slug: "the-blues-brothers-original-soundtrack-recording-4625231"
 hideSummary: true

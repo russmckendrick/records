@@ -3,6 +3,7 @@ title: "Rancid - Trouble Maker"
 artist: "Rancid"
 album_name: "Trouble Maker"
 date: 2017-06-10T11:14:25.000000Z
+release_date: "2017-06-09"
 release_id: "10418344"
 slug: "trouble-maker-10418344"
 hideSummary: true

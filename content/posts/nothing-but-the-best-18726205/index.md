@@ -3,6 +3,7 @@ title: "Frank Sinatra - Nothing But The Best"
 artist: "Frank Sinatra"
 album_name: "Nothing But The Best"
 date: 2021-06-23T06:30:29.000000Z
+release_date: "2008-05-13"
 release_id: "18726205"
 slug: "nothing-but-the-best-18726205"
 hideSummary: true

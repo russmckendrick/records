@@ -3,6 +3,7 @@ title: "Van Halen - 1984"
 artist: "Van Halen"
 album_name: "1984"
 date: 2016-03-24T19:08:12.000000Z
+release_date: "1984-01-09"
 release_id: "952734"
 slug: "1984-952734"
 hideSummary: true

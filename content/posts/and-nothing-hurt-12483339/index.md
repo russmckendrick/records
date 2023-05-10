@@ -3,6 +3,7 @@ title: "Spiritualized - And Nothing Hurt"
 artist: "Spiritualized"
 album_name: "And Nothing Hurt"
 date: 2018-09-07T20:19:36.000000Z
+release_date: "2018-09-07"
 release_id: "12483339"
 slug: "and-nothing-hurt-12483339"
 hideSummary: true

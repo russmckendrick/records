@@ -3,6 +3,7 @@ title: "The Vaselines - Sex With An X"
 artist: "The Vaselines"
 album_name: "Sex With An X"
 date: 2020-08-01T12:42:00.000000Z
+release_date: "2010-09-14"
 release_id: "2449561"
 slug: "sex-with-an-x-2449561"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "TV On The Radio - Return To Cookie Mountain"
 artist: "TV On The Radio"
 album_name: "Return To Cookie Mountain"
 date: 2018-06-16T09:50:36.000000Z
+release_date: "2006-07-06"
 release_id: "12117863"
 slug: "return-to-cookie-mountain-12117863"
 hideSummary: true

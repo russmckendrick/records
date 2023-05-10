@@ -3,6 +3,7 @@ title: "Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols"
 artist: "Sex Pistols"
 album_name: "Never Mind The Bollocks, Here's The Sex Pistols"
 date: 2016-04-18T16:17:07.000000Z
+release_date: "1977-10"
 release_id: "5759979"
 slug: "never-mind-the-bollocks-here-s-the-sex-pistols-5759979"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Ozzy Osbourne - Blizzard Of Ozz"
 artist: "Ozzy Osbourne"
 album_name: "Blizzard Of Ozz"
 date: 2021-03-27T09:19:14.000000Z
+release_date: "1980-09-12"
 release_id: "18000301"
 slug: "blizzard-of-ozz-18000301"
 hideSummary: true

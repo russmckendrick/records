@@ -3,6 +3,7 @@ title: "The Smiths - Hatful Of Hollow"
 artist: "The Smiths"
 album_name: "Hatful Of Hollow"
 date: 2016-10-03T14:27:49.000000Z
+release_date: "1984-11-12"
 release_id: "4418602"
 slug: "hatful-of-hollow-4418602"
 hideSummary: true

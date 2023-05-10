@@ -3,6 +3,7 @@ title: "Yola - Walk Through Fire"
 artist: "Yola"
 album_name: "Walk Through Fire"
 date: 2019-03-27T19:31:10.000000Z
+release_date: "2019-12-06"
 release_id: "13260578"
 slug: "walk-through-fire-13260578"
 hideSummary: true

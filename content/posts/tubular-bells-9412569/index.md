@@ -3,6 +3,7 @@ title: "Mike Oldfield - Tubular Bells"
 artist: "Mike Oldfield"
 album_name: "Tubular Bells"
 date: 2016-12-01T06:53:11.000000Z
+release_date: "1973-02-01"
 release_id: "9412569"
 slug: "tubular-bells-9412569"
 hideSummary: true

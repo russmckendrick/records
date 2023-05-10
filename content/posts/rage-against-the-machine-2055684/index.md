@@ -3,6 +3,7 @@ title: "Rage Against The Machine - Rage Against The Machine"
 artist: "Rage Against The Machine"
 album_name: "Rage Against The Machine"
 date: 2015-08-09T08:46:38.000000Z
+release_date: "1992-11-03"
 release_id: "2055684"
 slug: "rage-against-the-machine-2055684"
 hideSummary: true

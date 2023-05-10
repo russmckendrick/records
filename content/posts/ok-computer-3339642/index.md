@@ -3,6 +3,7 @@ title: "Radiohead - OK Computer"
 artist: "Radiohead"
 album_name: "OK Computer"
 date: 2016-04-17T13:48:28.000000Z
+release_date: "1997-05-21"
 release_id: "3339642"
 slug: "ok-computer-3339642"
 hideSummary: true

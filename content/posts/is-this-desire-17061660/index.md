@@ -3,6 +3,7 @@ title: "PJ Harvey - Is This Desire?"
 artist: "PJ Harvey"
 album_name: "Is This Desire?"
 date: 2021-01-29T06:51:31.000000Z
+release_date: "1998-01-01"
 release_id: "17061660"
 slug: "is-this-desire-17061660"
 hideSummary: true

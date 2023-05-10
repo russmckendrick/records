@@ -3,6 +3,7 @@ title: "Radiohead - A Moon Shaped Pool"
 artist: "Radiohead"
 album_name: "A Moon Shaped Pool"
 date: 2020-06-24T11:44:41.000000Z
+release_date: "2016-05-08"
 release_id: "8581634"
 slug: "a-moon-shaped-pool-8581634"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Sleater-Kinney - No Cities To Love"
 artist: "Sleater-Kinney"
 album_name: "No Cities To Love"
 date: 2017-06-08T17:53:00.000000Z
+release_date: "2015-01-20"
 release_id: "7761945"
 slug: "no-cities-to-love-7761945"
 hideSummary: true

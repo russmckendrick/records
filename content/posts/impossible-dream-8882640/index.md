@@ -3,6 +3,7 @@ title: "Haley Bonar - Impossible Dream"
 artist: "Haley Bonar"
 album_name: "Impossible Dream"
 date: 2016-11-14T17:48:29.000000Z
+release_date: "2016-08-05"
 release_id: "8882640"
 slug: "impossible-dream-8882640"
 hideSummary: true

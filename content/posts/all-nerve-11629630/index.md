@@ -3,6 +3,7 @@ title: "The Breeders - All Nerve"
 artist: "The Breeders"
 album_name: "All Nerve"
 date: 2018-03-07T19:21:50.000000Z
+release_date: "2018-03-02"
 release_id: "11629630"
 slug: "all-nerve-11629630"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Green Day - Dookie"
 artist: "Green Day"
 album_name: "Dookie"
 date: 2017-02-05T12:26:47.000000Z
+release_date: "1994-02-01"
 release_id: "3375961"
 slug: "dookie-3375961"
 hideSummary: true

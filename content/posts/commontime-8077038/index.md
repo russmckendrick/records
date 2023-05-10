@@ -3,6 +3,7 @@ title: "Field Music - Commontime"
 artist: "Field Music"
 album_name: "Commontime"
 date: 2016-02-08T12:51:45.000000Z
+release_date: "2016-02-05"
 release_id: "8077038"
 slug: "commontime-8077038"
 hideSummary: true

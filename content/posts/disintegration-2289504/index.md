@@ -3,6 +3,7 @@ title: "The Cure - Disintegration"
 artist: "The Cure"
 album_name: "Disintegration"
 date: 2016-08-05T14:55:50.000000Z
+release_date: "1989-05-02"
 release_id: "2289504"
 slug: "disintegration-2289504"
 hideSummary: true

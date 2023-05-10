@@ -3,6 +3,7 @@ title: "My Bloody Valentine - m b v"
 artist: "My Bloody Valentine"
 album_name: "m b v"
 date: 2021-05-21T05:29:13.000000Z
+release_date: "2013-02-02"
 release_id: "18769009"
 slug: "m-b-v-18769009"
 hideSummary: true

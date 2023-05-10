@@ -3,6 +3,7 @@ title: "Charles Bradley - Victim Of Love"
 artist: "Charles Bradley"
 album_name: "Victim Of Love"
 date: 2016-10-03T14:26:22.000000Z
+release_date: "2013-04-02"
 release_id: "4400772"
 slug: "victim-of-love-4400772"
 hideSummary: true

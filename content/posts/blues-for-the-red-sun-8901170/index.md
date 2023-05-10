@@ -3,6 +3,7 @@ title: "Kyuss - Blues For The Red Sun"
 artist: "Kyuss"
 album_name: "Blues For The Red Sun"
 date: 2016-09-14T16:59:29.000000Z
+release_date: "1992-06-30"
 release_id: "8901170"
 slug: "blues-for-the-red-sun-8901170"
 hideSummary: true

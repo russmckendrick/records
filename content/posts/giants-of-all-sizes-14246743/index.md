@@ -3,6 +3,7 @@ title: "Elbow - Giants Of All Sizes"
 artist: "Elbow"
 album_name: "Giants Of All Sizes"
 date: 2019-12-25T11:28:37.000000Z
+release_date: "2019-10-11"
 release_id: "14246743"
 slug: "giants-of-all-sizes-14246743"
 hideSummary: true

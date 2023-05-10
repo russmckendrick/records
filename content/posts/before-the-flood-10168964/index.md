@@ -3,6 +3,7 @@ title: "Trent Reznor - Before The Flood"
 artist: "Trent Reznor"
 album_name: "Before The Flood"
 date: 2017-04-28T14:35:07.000000Z
+release_date: "2016-10-21"
 release_id: "10168964"
 slug: "before-the-flood-10168964"
 hideSummary: true

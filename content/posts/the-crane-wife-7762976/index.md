@@ -3,6 +3,7 @@ title: "The Decemberists - The Crane Wife"
 artist: "The Decemberists"
 album_name: "The Crane Wife"
 date: 2016-10-28T17:21:50.000000Z
+release_date: "2007-01-29"
 release_id: "7762976"
 slug: "the-crane-wife-7762976"
 hideSummary: true

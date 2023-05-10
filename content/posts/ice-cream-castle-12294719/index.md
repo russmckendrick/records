@@ -3,6 +3,7 @@ title: "The Time - Ice Cream Castle"
 artist: "The Time"
 album_name: "Ice Cream Castle"
 date: 2018-07-28T20:49:54.000000Z
+release_date: "1984-07-03"
 release_id: "12294719"
 slug: "ice-cream-castle-12294719"
 hideSummary: true

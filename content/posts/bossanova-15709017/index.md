@@ -3,6 +3,7 @@ title: "Pixies - Bossanova"
 artist: "Pixies"
 album_name: "Bossanova"
 date: 2020-08-07T08:49:43.000000Z
+release_date: "1990-08-13"
 release_id: "15709017"
 slug: "bossanova-15709017"
 hideSummary: true

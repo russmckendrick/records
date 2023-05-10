@@ -3,6 +3,7 @@ title: "Black Country, New Road - For The First Time"
 artist: "Black Country, New Road"
 album_name: "For The First Time"
 date: 2021-02-05T09:27:50.000000Z
+release_date: "2021-02-05"
 release_id: "17151706"
 slug: "for-the-first-time-17151706"
 hideSummary: true

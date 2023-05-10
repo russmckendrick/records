@@ -3,6 +3,7 @@ title: "Pink Floyd - The Division Bell"
 artist: "Pink Floyd"
 album_name: "The Division Bell"
 date: 2019-06-07T16:48:45.000000Z
+release_date: "1994-03-28"
 release_id: "13718487"
 slug: "the-division-bell-13718487"
 hideSummary: true

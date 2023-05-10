@@ -3,6 +3,7 @@ title: "Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)
 artist: "Mac Quayle"
 album_name: "Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
 date: 2017-12-02T20:16:29.000000Z
+release_date: "2017-06-09"
 release_id: "11225407"
 slug: "mr-robot-volume-3-original-television-series-soundtrack-11225407"
 hideSummary: true

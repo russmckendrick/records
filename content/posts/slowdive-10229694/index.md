@@ -3,6 +3,7 @@ title: "Slowdive - Slowdive"
 artist: "Slowdive"
 album_name: "Slowdive"
 date: 2017-05-05T17:26:48.000000Z
+release_date: "2017-05-05"
 release_id: "10229694"
 slug: "slowdive-10229694"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Underworld - Second Toughest In The Infants"
 artist: "Underworld"
 album_name: "Second Toughest In The Infants"
 date: 2016-11-24T18:43:44.000000Z
+release_date: "2015-11-13"
 release_id: "7761310"
 slug: "second-toughest-in-the-infants-7761310"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Saun & Starr - Look Closer"
 artist: "Saun & Starr"
 album_name: "Look Closer"
 date: 2016-09-06T16:36:27.000000Z
+release_date: "2015-05-19"
 release_id: "7014688"
 slug: "look-closer-7014688"
 hideSummary: true

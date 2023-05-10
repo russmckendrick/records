@@ -3,6 +3,7 @@ title: "Allen Toussaint - American Tunes"
 artist: "Allen Toussaint"
 album_name: "American Tunes"
 date: 2016-07-01T18:30:13.000000Z
+release_date: "2016-06-10"
 release_id: "8634623"
 slug: "american-tunes-8634623"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Aerosmith - Permanent Vacation"
 artist: "Aerosmith"
 album_name: "Permanent Vacation"
 date: 2019-05-21T18:14:15.000000Z
+release_date: "1987-08-25"
 release_id: "13639079"
 slug: "permanent-vacation-13639079"
 hideSummary: true

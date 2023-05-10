@@ -3,6 +3,7 @@ title: "Robert Plant - Raising Sand"
 artist: "Robert Plant"
 album_name: "Raising Sand"
 date: 2016-03-05T13:38:06.000000Z
+release_date: "2007-01-01"
 release_id: "1272003"
 slug: "raising-sand-1272003"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Steve Mason - About The Light"
 artist: "Steve Mason"
 album_name: "About The Light"
 date: 2019-01-19T09:38:30.000000Z
+release_date: "2019-01-18"
 release_id: "13072237"
 slug: "about-the-light-13072237"
 hideSummary: true

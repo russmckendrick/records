@@ -3,6 +3,7 @@ title: "Rush - Moving Pictures"
 artist: "Rush"
 album_name: "Moving Pictures"
 date: 2017-02-19T10:39:08.000000Z
+release_date: "1981-02-12"
 release_id: "7258897"
 slug: "moving-pictures-7258897"
 hideSummary: true

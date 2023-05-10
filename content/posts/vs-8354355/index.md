@@ -3,6 +3,7 @@ title: "Pearl Jam - Vs."
 artist: "Pearl Jam"
 album_name: "Vs."
 date: 2016-10-26T16:19:09.000000Z
+release_date: "1993-10-19"
 release_id: "8354355"
 slug: "vs-8354355"
 hideSummary: true

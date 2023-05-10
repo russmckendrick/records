@@ -3,6 +3,7 @@ title: "New Order - Music Complete"
 artist: "New Order"
 album_name: "Music Complete"
 date: 2015-09-25T17:24:07.000000Z
+release_date: "2015-09-25"
 release_id: "7510121"
 slug: "music-complete-7510121"
 hideSummary: true

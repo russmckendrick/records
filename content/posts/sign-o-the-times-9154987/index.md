@@ -3,6 +3,7 @@ title: "Prince - Sign O The Times"
 artist: "Prince"
 album_name: "Sign O The Times"
 date: 2016-10-21T17:28:25.000000Z
+release_date: "1987-03-30"
 release_id: "9154987"
 slug: "sign-o-the-times-9154987"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Stone Temple Pilots - Core"
 artist: "Stone Temple Pilots"
 album_name: "Core"
 date: 2016-12-18T09:51:03.000000Z
+release_date: "2018-03-16"
 release_id: "4798781"
 slug: "core-4798781"
 hideSummary: true

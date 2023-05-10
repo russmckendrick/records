@@ -3,6 +3,7 @@ title: "Pink Floyd - Obscured By Clouds"
 artist: "Pink Floyd"
 album_name: "Obscured By Clouds"
 date: 2016-09-23T16:51:08.000000Z
+release_date: "1972-06-02"
 release_id: "9063958"
 slug: "obscured-by-clouds-9063958"
 hideSummary: true

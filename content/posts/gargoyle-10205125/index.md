@@ -3,6 +3,7 @@ title: "Mark Lanegan Band - Gargoyle"
 artist: "Mark Lanegan Band"
 album_name: "Gargoyle"
 date: 2017-05-16T18:14:01.000000Z
+release_date: "2017-04-28"
 release_id: "10205125"
 slug: "gargoyle-10205125"
 hideSummary: true

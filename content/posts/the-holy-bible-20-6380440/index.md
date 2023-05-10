@@ -3,6 +3,7 @@ title: "Manic Street Preachers - The Holy Bible 20"
 artist: "Manic Street Preachers"
 album_name: "The Holy Bible 20"
 date: 2015-08-09T12:08:08.000000Z
+release_date: "1994-08"
 release_id: "6380440"
 slug: "the-holy-bible-20-6380440"
 hideSummary: true

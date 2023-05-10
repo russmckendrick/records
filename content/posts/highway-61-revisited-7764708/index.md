@@ -3,6 +3,7 @@ title: "Bob Dylan - Highway 61 Revisited"
 artist: "Bob Dylan"
 album_name: "Highway 61 Revisited"
 date: 2016-10-26T16:18:35.000000Z
+release_date: "1965-08-30"
 release_id: "7764708"
 slug: "highway-61-revisited-7764708"
 hideSummary: true

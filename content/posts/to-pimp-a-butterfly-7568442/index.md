@@ -3,6 +3,7 @@ title: "Kendrick Lamar - To Pimp A Butterfly"
 artist: "Kendrick Lamar"
 album_name: "To Pimp A Butterfly"
 date: 2016-03-26T09:36:28.000000Z
+release_date: "2015-03-15"
 release_id: "7568442"
 slug: "to-pimp-a-butterfly-7568442"
 hideSummary: true

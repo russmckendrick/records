@@ -3,6 +3,7 @@ title: "Sons Of Kemet - Black To The Future"
 artist: "Sons Of Kemet"
 album_name: "Black To The Future"
 date: 2021-12-15T10:53:41.000000Z
+release_date: "2021-05-14"
 release_id: "18665626"
 slug: "black-to-the-future-18665626"
 hideSummary: true

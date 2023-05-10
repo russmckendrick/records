@@ -3,6 +3,7 @@ title: "David Bowie - [Five Years 1969 - 1973]"
 artist: "David Bowie"
 album_name: "[Five Years 1969 - 1973]"
 date: 2016-01-20T19:04:07.000000Z
+release_date: "2015-09-25"
 release_id: "7521520"
 slug: "five-years-1969-1973-7521520"
 hideSummary: true

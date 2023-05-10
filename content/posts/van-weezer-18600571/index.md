@@ -3,6 +3,7 @@ title: "Weezer - Van Weezer"
 artist: "Weezer"
 album_name: "Van Weezer"
 date: 2021-05-07T05:04:03.000000Z
+release_date: "2021-05-07"
 release_id: "18600571"
 slug: "van-weezer-18600571"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Dream Theater - The Astonishing"
 artist: "Dream Theater"
 album_name: "The Astonishing"
 date: 2016-03-21T20:28:10.000000Z
+release_date: "2016-01-29"
 release_id: "8197035"
 slug: "the-astonishing-8197035"
 hideSummary: true

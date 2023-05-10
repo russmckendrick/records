@@ -3,6 +3,7 @@ title: "Wilco - Ode To Joy"
 artist: "Wilco"
 album_name: "Ode To Joy"
 date: 2019-10-05T15:31:35.000000Z
+release_date: "2019-10-04"
 release_id: "14212648"
 slug: "ode-to-joy-14212648"
 hideSummary: true

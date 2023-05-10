@@ -3,6 +3,7 @@ title: "Stone Temple Pilots - Purple"
 artist: "Stone Temple Pilots"
 album_name: "Purple"
 date: 2016-12-24T10:28:37.000000Z
+release_date: "1994-06-07"
 release_id: "4662898"
 slug: "purple-4662898"
 hideSummary: true

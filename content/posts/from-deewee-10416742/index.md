@@ -3,6 +3,7 @@ title: "Soulwax - From Deewee"
 artist: "Soulwax"
 album_name: "From Deewee"
 date: 2017-06-09T16:12:41.000000Z
+release_date: "2017-03-24"
 release_id: "10416742"
 slug: "from-deewee-10416742"
 hideSummary: true

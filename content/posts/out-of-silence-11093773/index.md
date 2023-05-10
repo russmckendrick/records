@@ -3,6 +3,7 @@ title: "Neil Finn - Out Of Silence"
 artist: "Neil Finn"
 album_name: "Out Of Silence"
 date: 2017-11-10T19:29:43.000000Z
+release_date: "2017-09-01"
 release_id: "11093773"
 slug: "out-of-silence-11093773"
 hideSummary: true

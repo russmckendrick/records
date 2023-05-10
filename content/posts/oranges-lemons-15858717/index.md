@@ -3,6 +3,7 @@ title: "XTC - Oranges & Lemons"
 artist: "XTC"
 album_name: "Oranges & Lemons"
 date: 2020-09-07T09:13:40.000000Z
+release_date: "1989-02-27"
 release_id: "15858717"
 slug: "oranges-lemons-15858717"
 hideSummary: true

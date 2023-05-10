@@ -3,6 +3,7 @@ title: "Pink Floyd - Ummagumma"
 artist: "Pink Floyd"
 album_name: "Ummagumma"
 date: 2016-06-03T20:02:26.000000Z
+release_date: "1969-10-25"
 release_id: "8604223"
 slug: "ummagumma-8604223"
 hideSummary: true

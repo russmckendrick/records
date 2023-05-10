@@ -3,6 +3,7 @@ title: "My Bloody Valentine - Isn't Anything"
 artist: "My Bloody Valentine"
 album_name: "Isn't Anything"
 date: 2021-05-21T05:29:01.000000Z
+release_date: "1988-11-21"
 release_id: "18793480"
 slug: "isn-t-anything-18793480"
 hideSummary: true

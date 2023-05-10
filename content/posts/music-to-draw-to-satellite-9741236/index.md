@@ -3,6 +3,7 @@ title: "Kid Koala - Music To Draw To: Satellite"
 artist: "Kid Koala"
 album_name: "Music To Draw To: Satellite"
 date: 2017-04-22T10:05:55.000000Z
+release_date: "2017-01-20"
 release_id: "9741236"
 slug: "music-to-draw-to-satellite-9741236"
 hideSummary: true

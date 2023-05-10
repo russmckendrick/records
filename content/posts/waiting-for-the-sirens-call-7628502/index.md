@@ -3,6 +3,7 @@ title: "New Order - Waiting For The Sirens' Call"
 artist: "New Order"
 album_name: "Waiting For The Sirens' Call"
 date: 2016-01-31T14:13:12.000000Z
+release_date: "2005-03-28"
 release_id: "7628502"
 slug: "waiting-for-the-sirens-call-7628502"
 hideSummary: true

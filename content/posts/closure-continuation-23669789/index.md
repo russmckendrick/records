@@ -3,6 +3,7 @@ title: "Porcupine Tree - Closure / Continuation"
 artist: "Porcupine Tree"
 album_name: "Closure / Continuation"
 date: 2022-06-24T02:44:48.000000Z
+release_date: "2022-06-24"
 release_id: "23669789"
 slug: "closure-continuation-23669789"
 hideSummary: true

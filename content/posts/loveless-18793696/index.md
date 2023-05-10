@@ -3,6 +3,7 @@ title: "My Bloody Valentine - Loveless"
 artist: "My Bloody Valentine"
 album_name: "Loveless"
 date: 2021-05-21T05:28:44.000000Z
+release_date: "1991-11-04"
 release_id: "18793696"
 slug: "loveless-18793696"
 hideSummary: true

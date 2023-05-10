@@ -3,6 +3,7 @@ title: "Sepultura - Chaos A.D."
 artist: "Sepultura"
 album_name: "Chaos A.D."
 date: 2018-01-20T19:09:20.000000Z
+release_date: "1993-09-02"
 release_id: "10997064"
 slug: "chaos-a-d-10997064"
 hideSummary: true

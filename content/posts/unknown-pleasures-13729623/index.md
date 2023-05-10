@@ -3,6 +3,7 @@ title: "Joy Division - Unknown Pleasures"
 artist: "Joy Division"
 album_name: "Unknown Pleasures"
 date: 2019-06-17T17:32:30.000000Z
+release_date: "1979-06-15"
 release_id: "13729623"
 slug: "unknown-pleasures-13729623"
 hideSummary: true

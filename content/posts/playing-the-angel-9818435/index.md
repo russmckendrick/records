@@ -3,6 +3,7 @@ title: "Depeche Mode - Playing The Angel"
 artist: "Depeche Mode"
 album_name: "Playing The Angel"
 date: 2017-02-11T14:52:54.000000Z
+release_date: "2005-10-17"
 release_id: "9818435"
 slug: "playing-the-angel-9818435"
 hideSummary: true

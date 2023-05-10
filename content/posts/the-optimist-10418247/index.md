@@ -3,6 +3,7 @@ title: "Anathema - The Optimist"
 artist: "Anathema"
 album_name: "The Optimist"
 date: 2017-06-10T11:11:02.000000Z
+release_date: "2017-06-09"
 release_id: "10418247"
 slug: "the-optimist-10418247"
 hideSummary: true

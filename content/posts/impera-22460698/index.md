@@ -3,6 +3,7 @@ title: "Ghost - Impera"
 artist: "Ghost"
 album_name: "Impera"
 date: 2022-03-15T04:22:17.000000Z
+release_date: "2022-03-11"
 release_id: "22460698"
 slug: "impera-22460698"
 hideSummary: true

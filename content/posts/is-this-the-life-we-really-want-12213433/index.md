@@ -3,6 +3,7 @@ title: "Roger Waters - Is This The Life We Really Want?"
 artist: "Roger Waters"
 album_name: "Is This The Life We Really Want?"
 date: 2018-08-11T07:54:54.000000Z
+release_date: "2017-05-26"
 release_id: "12213433"
 slug: "is-this-the-life-we-really-want-12213433"
 hideSummary: true

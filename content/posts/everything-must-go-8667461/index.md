@@ -3,6 +3,7 @@ title: "Manic Street Preachers - Everything Must Go"
 artist: "Manic Street Preachers"
 album_name: "Everything Must Go"
 date: 2016-07-18T17:36:27.000000Z
+release_date: "1996-05"
 release_id: "8667461"
 slug: "everything-must-go-8667461"
 hideSummary: true

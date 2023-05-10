@@ -3,6 +3,7 @@ title: "...And You Will Know Us By The Trail Of Dead - X: The Godless Void And O
 artist: "...And You Will Know Us By The Trail Of Dead"
 album_name: "X: The Godless Void And Other Stories"
 date: 2020-01-22T19:06:06.000000Z
+release_date: "2020-01-17"
 release_id: "14672615"
 slug: "x-the-godless-void-and-other-stories-14672615"
 hideSummary: true

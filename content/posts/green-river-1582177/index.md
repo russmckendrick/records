@@ -3,6 +3,7 @@ title: "Creedence Clearwater Revival - Green River"
 artist: "Creedence Clearwater Revival"
 album_name: "Green River"
 date: 2015-09-15T15:20:21.000000Z
+release_date: "1969-08-03"
 release_id: "1582177"
 slug: "green-river-1582177"
 hideSummary: true

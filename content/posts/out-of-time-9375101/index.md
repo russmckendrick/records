@@ -3,6 +3,7 @@ title: "R.E.M. - Out Of Time"
 artist: "R.E.M."
 album_name: "Out Of Time"
 date: 2018-01-08T18:31:33.000000Z
+release_date: "1991-03-12"
 release_id: "9375101"
 slug: "out-of-time-9375101"
 hideSummary: true

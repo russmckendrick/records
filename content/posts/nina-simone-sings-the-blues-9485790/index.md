@@ -3,6 +3,7 @@ title: "Nina Simone - Nina Simone Sings The Blues"
 artist: "Nina Simone"
 album_name: "Nina Simone Sings The Blues"
 date: 2016-12-19T17:44:48.000000Z
+release_date: "1967-01-01"
 release_id: "9485790"
 slug: "nina-simone-sings-the-blues-9485790"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Nick Cave & The Bad Seeds - Ghosteen"
 artist: "Nick Cave & The Bad Seeds"
 album_name: "Ghosteen"
 date: 2019-12-25T11:28:59.000000Z
+release_date: "2019-10-03"
 release_id: "14345514"
 slug: "ghosteen-14345514"
 hideSummary: true

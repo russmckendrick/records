@@ -3,6 +3,7 @@ title: "Black Sabbath - Paranoid"
 artist: "Black Sabbath"
 album_name: "Paranoid"
 date: 2015-09-30T17:20:06.000000Z
+release_date: "1970-09-18"
 release_id: "7161194"
 slug: "paranoid-7161194"
 hideSummary: true

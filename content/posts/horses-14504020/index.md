@@ -3,6 +3,7 @@ title: "Patti Smith - Horses"
 artist: "Patti Smith"
 album_name: "Horses"
 date: 2020-01-08T18:57:39.000000Z
+release_date: "1975-11-10"
 release_id: "14504020"
 slug: "horses-14504020"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Bob Seger And The Silver Bullet Band - Stranger In Town"
 artist: "Bob Seger And The Silver Bullet Band"
 album_name: "Stranger In Town"
 date: 2016-02-29T18:16:24.000000Z
+release_date: "1978-05-05"
 release_id: "5173884"
 slug: "stranger-in-town-5173884"
 hideSummary: true

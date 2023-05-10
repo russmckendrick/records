@@ -3,6 +3,7 @@ title: "Fu Manchu - Clone Of The Universe"
 artist: "Fu Manchu"
 album_name: "Clone Of The Universe"
 date: 2018-02-10T10:54:28.000000Z
+release_date: "2018-02-09"
 release_id: "11533218"
 slug: "clone-of-the-universe-11533218"
 hideSummary: true

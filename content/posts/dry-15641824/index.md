@@ -3,6 +3,7 @@ title: "PJ Harvey - Dry"
 artist: "PJ Harvey"
 album_name: "Dry"
 date: 2020-07-31T11:26:12.000000Z
+release_date: "1992-03-02"
 release_id: "15641824"
 slug: "dry-15641824"
 hideSummary: true

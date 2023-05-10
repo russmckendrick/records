@@ -3,6 +3,7 @@ title: "LCD Soundsystem - LCD Soundsystem"
 artist: "LCD Soundsystem"
 album_name: "LCD Soundsystem"
 date: 2017-06-24T08:44:08.000000Z
+release_date: "2005-01-24"
 release_id: "10463696"
 slug: "lcd-soundsystem-10463696"
 hideSummary: true

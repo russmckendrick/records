@@ -3,6 +3,7 @@ title: "U2 - Boy"
 artist: "U2"
 album_name: "Boy"
 date: 2020-12-03T05:42:16.000000Z
+release_date: "1980-10-20"
 release_id: "16273305"
 slug: "boy-16273305"
 hideSummary: true

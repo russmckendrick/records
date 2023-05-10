@@ -3,6 +3,7 @@ title: "Steve Earle - Copperhead Road"
 artist: "Steve Earle"
 album_name: "Copperhead Road"
 date: 2016-02-29T18:16:24.000000Z
+release_date: "1988-10-17"
 release_id: "1753416"
 slug: "copperhead-road-1753416"
 hideSummary: true

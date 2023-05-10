@@ -3,6 +3,7 @@ title: "They Might Be Giants - Flood"
 artist: "They Might Be Giants"
 album_name: "Flood"
 date: 2020-11-13T11:44:20.000000Z
+release_date: "1990-01-15"
 release_id: "16176945"
 slug: "flood-16176945"
 hideSummary: true

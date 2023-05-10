@@ -3,6 +3,7 @@ title: "Jamie Lidell - Building A Beginning"
 artist: "Jamie Lidell"
 album_name: "Building A Beginning"
 date: 2017-04-02T13:01:44.000000Z
+release_date: "2016-10-14"
 release_id: "9310602"
 slug: "building-a-beginning-9310602"
 hideSummary: true

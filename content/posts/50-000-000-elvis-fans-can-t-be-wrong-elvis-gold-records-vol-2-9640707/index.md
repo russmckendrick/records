@@ -3,6 +3,7 @@ title: "Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Record
 artist: "Elvis Presley"
 album_name: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
 date: 2021-06-07T10:54:03.000000Z
+release_date: "1959-11-13"
 release_id: "9640707"
 slug: "50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707"
 hideSummary: true

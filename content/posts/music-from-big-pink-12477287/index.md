@@ -3,6 +3,7 @@ title: "The Band - Music From Big Pink"
 artist: "The Band"
 album_name: "Music From Big Pink"
 date: 2020-06-16T12:11:25.000000Z
+release_date: "1968-07-01"
 release_id: "12477287"
 slug: "music-from-big-pink-12477287"
 hideSummary: true

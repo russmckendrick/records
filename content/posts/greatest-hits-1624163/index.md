@@ -3,6 +3,7 @@ title: "Al Green - Greatest Hits"
 artist: "Al Green"
 album_name: "Greatest Hits"
 date: 2016-01-09T07:44:54.000000Z
+release_date: "1975-04-01"
 release_id: "1624163"
 slug: "greatest-hits-1624163"
 hideSummary: true

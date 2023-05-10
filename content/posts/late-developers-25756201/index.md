@@ -3,6 +3,7 @@ title: "Belle & Sebastian - Late Developers"
 artist: "Belle & Sebastian"
 album_name: "Late Developers"
 date: 2023-02-06T11:31:58.000000Z
+release_date: "2023-01-13"
 release_id: "25756201"
 slug: "late-developers-25756201"
 hideSummary: true

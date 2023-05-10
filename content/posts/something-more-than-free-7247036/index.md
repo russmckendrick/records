@@ -3,6 +3,7 @@ title: "Jason Isbell - Something More Than Free"
 artist: "Jason Isbell"
 album_name: "Something More Than Free"
 date: 2016-02-21T12:08:45.000000Z
+release_date: "2015-07-17"
 release_id: "7247036"
 slug: "something-more-than-free-7247036"
 hideSummary: true

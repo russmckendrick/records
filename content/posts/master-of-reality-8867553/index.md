@@ -3,6 +3,7 @@ title: "Black Sabbath - Master Of Reality"
 artist: "Black Sabbath"
 album_name: "Master Of Reality"
 date: 2016-08-11T15:57:18.000000Z
+release_date: "1971-07-21"
 release_id: "8867553"
 slug: "master-of-reality-8867553"
 hideSummary: true

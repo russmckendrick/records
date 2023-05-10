@@ -3,6 +3,7 @@ title: "Rick James - Street Songs"
 artist: "Rick James"
 album_name: "Street Songs"
 date: 2019-04-09T17:40:59.000000Z
+release_date: "1981-04-07"
 release_id: "9106450"
 slug: "street-songs-9106450"
 hideSummary: true

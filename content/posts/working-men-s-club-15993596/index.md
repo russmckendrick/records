@@ -3,6 +3,7 @@ title: "Working Men's Club - Working Men's Club"
 artist: "Working Men's Club"
 album_name: "Working Men's Club"
 date: 2020-10-02T12:21:00.000000Z
+release_date: "2020-10-02"
 release_id: "15993596"
 slug: "working-men-s-club-15993596"
 hideSummary: true

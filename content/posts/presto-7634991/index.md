@@ -3,6 +3,7 @@ title: "Rush - Presto"
 artist: "Rush"
 album_name: "Presto"
 date: 2017-02-26T10:56:12.000000Z
+release_date: "1989-11-21"
 release_id: "7634991"
 slug: "presto-7634991"
 hideSummary: true

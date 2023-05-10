@@ -3,6 +3,7 @@ title: "ZZ Top - Eliminator"
 artist: "ZZ Top"
 album_name: "Eliminator"
 date: 2020-08-01T12:48:59.000000Z
+release_date: "1983-03-23"
 release_id: "15620215"
 slug: "eliminator-15620215"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Greta Van Fleet - Anthem Of The Peaceful Army"
 artist: "Greta Van Fleet"
 album_name: "Anthem Of The Peaceful Army"
 date: 2018-10-28T10:02:06.000000Z
+release_date: "2018-10-19"
 release_id: "12689739"
 slug: "anthem-of-the-peaceful-army-12689739"
 hideSummary: true

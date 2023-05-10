@@ -3,6 +3,7 @@ title: "Joy Division - Substance"
 artist: "Joy Division"
 album_name: "Substance"
 date: 2015-08-09T08:43:10.000000Z
+release_date: "1988-07-11"
 release_id: "7267756"
 slug: "substance-7267756"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Morrissey - Low In High School"
 artist: "Morrissey"
 album_name: "Low In High School"
 date: 2017-11-17T16:42:09.000000Z
+release_date: "2017-11-17"
 release_id: "11140416"
 slug: "low-in-high-school-11140416"
 hideSummary: true

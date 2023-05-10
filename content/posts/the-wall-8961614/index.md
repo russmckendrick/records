@@ -3,6 +3,7 @@ title: "Pink Floyd - The Wall"
 artist: "Pink Floyd"
 album_name: "The Wall"
 date: 2016-09-05T12:30:03.000000Z
+release_date: "1979-11-30"
 release_id: "8961614"
 slug: "the-wall-8961614"
 hideSummary: true

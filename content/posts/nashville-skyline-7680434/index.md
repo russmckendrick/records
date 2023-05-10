@@ -3,6 +3,7 @@ title: "Bob Dylan - Nashville Skyline"
 artist: "Bob Dylan"
 album_name: "Nashville Skyline"
 date: 2016-12-02T12:52:59.000000Z
+release_date: "1969-04-09"
 release_id: "7680434"
 slug: "nashville-skyline-7680434"
 hideSummary: true

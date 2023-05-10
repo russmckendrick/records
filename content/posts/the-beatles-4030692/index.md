@@ -3,6 +3,7 @@ title: "The Beatles - The Beatles"
 artist: "The Beatles"
 album_name: "The Beatles"
 date: 2016-11-27T11:51:28.000000Z
+release_date: "1968-11-22"
 release_id: "4030692"
 slug: "the-beatles-4030692"
 hideSummary: true

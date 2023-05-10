@@ -3,6 +3,7 @@ title: "LCD Soundsystem - Sound Of Silver"
 artist: "LCD Soundsystem"
 album_name: "Sound Of Silver"
 date: 2016-10-31T17:50:59.000000Z
+release_date: "2007-03-12"
 release_id: "3921382"
 slug: "sound-of-silver-3921382"
 hideSummary: true

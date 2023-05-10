@@ -3,6 +3,7 @@ title: "The Band - The Band"
 artist: "The Band"
 album_name: "The Band"
 date: 2017-10-06T17:18:16.000000Z
+release_date: "2018-04-27"
 release_id: "7797025"
 slug: "the-band-7797025"
 hideSummary: true

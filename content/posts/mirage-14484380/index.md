@@ -3,6 +3,7 @@ title: "Fleetwood Mac - Mirage"
 artist: "Fleetwood Mac"
 album_name: "Mirage"
 date: 2019-12-04T21:48:33.000000Z
+release_date: "1982-06-18"
 release_id: "14484380"
 slug: "mirage-14484380"
 hideSummary: true

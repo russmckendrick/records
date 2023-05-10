@@ -3,6 +3,7 @@ title: "John Williams - Star Wars: The Force Awakens (Original Motion Picture So
 artist: "John Williams"
 album_name: "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)"
 date: 2016-06-22T16:33:20.000000Z
+release_date: "2015-12-18"
 release_id: "8657358"
 slug: "star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358"
 hideSummary: true

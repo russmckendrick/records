@@ -3,6 +3,7 @@ title: "Crowded House - Woodface"
 artist: "Crowded House"
 album_name: "Woodface"
 date: 2023-04-29T03:01:47.000000Z
+release_date: "1991-06-24"
 release_id: "9322374"
 slug: "woodface-9322374"
 hideSummary: true

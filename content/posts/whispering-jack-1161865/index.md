@@ -3,6 +3,7 @@ title: "John Farnham - Whispering Jack"
 artist: "John Farnham"
 album_name: "Whispering Jack"
 date: 2015-09-11T18:02:25.000000Z
+release_date: "1986-10-20"
 release_id: "1161865"
 slug: "whispering-jack-1161865"
 hideSummary: true

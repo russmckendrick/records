@@ -3,6 +3,7 @@ title: "Guns N' Roses - Use Your Illusion II"
 artist: "Guns N' Roses"
 album_name: "Use Your Illusion II"
 date: 2016-06-21T16:39:55.000000Z
+release_date: "1991-09-17"
 release_id: "8422961"
 slug: "use-your-illusion-ii-8422961"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "U2 - The Joshua Tree"
 artist: "U2"
 album_name: "The Joshua Tree"
 date: 2018-01-22T19:14:28.000000Z
+release_date: "1987-03-09"
 release_id: "10391869"
 slug: "the-joshua-tree-10391869"
 hideSummary: true

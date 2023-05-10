@@ -3,6 +3,7 @@ title: "De La Soul - Buhloone Mind State"
 artist: "De La Soul"
 album_name: "Buhloone Mind State"
 date: 2023-05-05T04:25:20.000000Z
+release_date: "1993-09-21"
 release_id: "26977373"
 slug: "buhloone-mind-state-26977373"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Talk Talk - It's My Life"
 artist: "Talk Talk"
 album_name: "It's My Life"
 date: 2017-11-04T16:14:39.000000Z
+release_date: "1984-02-13"
 release_id: "11009347"
 slug: "it-s-my-life-11009347"
 hideSummary: true

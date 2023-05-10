@@ -3,6 +3,7 @@ title: "Radiohead - In Rainbows"
 artist: "Radiohead"
 album_name: "In Rainbows"
 date: 2015-08-09T08:34:56.000000Z
+release_date: "2007-10-10"
 release_id: "1174296"
 slug: "in-rainbows-1174296"
 hideSummary: true

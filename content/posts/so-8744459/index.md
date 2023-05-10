@@ -3,6 +3,7 @@ title: "Peter Gabriel - So "
 artist: "Peter Gabriel"
 album_name: "So "
 date: 2016-07-15T17:15:52.000000Z
+release_date: "1986-05-19"
 release_id: "8744459"
 slug: "so-8744459"
 hideSummary: true

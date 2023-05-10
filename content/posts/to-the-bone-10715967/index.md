@@ -3,6 +3,7 @@ title: "Steven Wilson - To The Bone"
 artist: "Steven Wilson"
 album_name: "To The Bone"
 date: 2017-08-18T18:21:46.000000Z
+release_date: "2017-08-18"
 release_id: "10715967"
 slug: "to-the-bone-10715967"
 hideSummary: true

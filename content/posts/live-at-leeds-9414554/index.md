@@ -3,6 +3,7 @@ title: "The Who - Live At Leeds"
 artist: "The Who"
 album_name: "Live At Leeds"
 date: 2016-11-30T18:50:05.000000Z
+release_date: "1970-05-16"
 release_id: "9414554"
 slug: "live-at-leeds-9414554"
 hideSummary: true

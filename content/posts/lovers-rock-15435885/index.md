@@ -3,6 +3,7 @@ title: "The Dears - Lovers Rock"
 artist: "The Dears"
 album_name: "Lovers Rock"
 date: 2022-09-18T04:25:19.000000Z
+release_date: "2020-05-15"
 release_id: "15435885"
 slug: "lovers-rock-15435885"
 hideSummary: true

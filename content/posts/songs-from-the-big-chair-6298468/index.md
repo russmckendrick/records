@@ -3,6 +3,7 @@ title: "Tears For Fears - Songs From The Big Chair"
 artist: "Tears For Fears"
 album_name: "Songs From The Big Chair"
 date: 2016-03-24T16:33:28.000000Z
+release_date: "1985-02-25"
 release_id: "6298468"
 slug: "songs-from-the-big-chair-6298468"
 hideSummary: true

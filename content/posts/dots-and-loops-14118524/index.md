@@ -3,6 +3,7 @@ title: "Stereolab - Dots And Loops"
 artist: "Stereolab"
 album_name: "Dots And Loops"
 date: 2019-09-15T12:02:49.000000Z
+release_date: "1997-09-23"
 release_id: "14118524"
 slug: "dots-and-loops-14118524"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Van Morrison - Astral Weeks"
 artist: "Van Morrison"
 album_name: "Astral Weeks"
 date: 2017-07-23T14:31:10.000000Z
+release_date: "1968-11-01"
 release_id: "10596963"
 slug: "astral-weeks-10596963"
 hideSummary: true

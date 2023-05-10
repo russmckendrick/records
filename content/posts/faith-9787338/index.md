@@ -3,6 +3,7 @@ title: "George Michael - Faith"
 artist: "George Michael"
 album_name: "Faith"
 date: 2020-08-01T12:43:38.000000Z
+release_date: "1987-10-30"
 release_id: "9787338"
 slug: "faith-9787338"
 hideSummary: true

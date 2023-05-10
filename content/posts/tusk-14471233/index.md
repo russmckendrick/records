@@ -3,6 +3,7 @@ title: "Fleetwood Mac - Tusk"
 artist: "Fleetwood Mac"
 album_name: "Tusk"
 date: 2019-12-02T09:34:15.000000Z
+release_date: "1979-10-12"
 release_id: "14471233"
 slug: "tusk-14471233"
 hideSummary: true

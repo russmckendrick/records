@@ -3,6 +3,7 @@ title: "INXS - Kick"
 artist: "INXS"
 album_name: "Kick"
 date: 2015-09-10T18:28:00.000000Z
+release_date: "2013-01-01"
 release_id: "489874"
 slug: "kick-489874"
 hideSummary: true

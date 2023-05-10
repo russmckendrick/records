@@ -3,6 +3,7 @@ title: "Rush - Signals"
 artist: "Rush"
 album_name: "Signals"
 date: 2017-02-22T18:03:13.000000Z
+release_date: "1982-09-09"
 release_id: "7396893"
 slug: "signals-7396893"
 hideSummary: true

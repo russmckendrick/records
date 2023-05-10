@@ -3,6 +3,7 @@ title: "Dr. John - In The Right Place"
 artist: "Dr. John"
 album_name: "In The Right Place"
 date: 2015-10-05T18:22:12.000000Z
+release_date: "1973-02-25"
 release_id: "6772705"
 slug: "in-the-right-place-6772705"
 hideSummary: true

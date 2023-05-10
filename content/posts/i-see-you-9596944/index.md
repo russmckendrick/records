@@ -3,6 +3,7 @@ title: "The XX - I See You"
 artist: "The XX"
 album_name: "I See You"
 date: 2017-01-19T18:45:17.000000Z
+release_date: "2017-01-13"
 release_id: "9596944"
 slug: "i-see-you-9596944"
 hideSummary: true

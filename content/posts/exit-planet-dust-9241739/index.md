@@ -3,6 +3,7 @@ title: "The Chemical Brothers - Exit Planet Dust"
 artist: "The Chemical Brothers"
 album_name: "Exit Planet Dust"
 date: 2018-06-13T17:28:36.000000Z
+release_date: "1995-06-26"
 release_id: "9241739"
 slug: "exit-planet-dust-9241739"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Rush - 2112"
 artist: "Rush"
 album_name: "2112"
 date: 2016-03-16T18:38:08.000000Z
+release_date: "1976-04-01"
 release_id: "814617"
 slug: "2112-814617"
 hideSummary: true

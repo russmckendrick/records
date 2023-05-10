@@ -3,6 +3,7 @@ title: "Belle & Sebastian - A Bit Of Previous"
 artist: "Belle & Sebastian"
 album_name: "A Bit Of Previous"
 date: 2022-05-08T06:21:58.000000Z
+release_date: "2022-05-06"
 release_id: "23097233"
 slug: "a-bit-of-previous-23097233"
 hideSummary: true

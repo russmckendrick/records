@@ -3,6 +3,7 @@ title: "Fleetwood Mac - Fleetwood Mac"
 artist: "Fleetwood Mac"
 album_name: "Fleetwood Mac"
 date: 2019-12-02T09:34:05.000000Z
+release_date: "2002-10-12"
 release_id: "14471238"
 slug: "fleetwood-mac-14471238"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Michael Kiwanuka - Love & Hate"
 artist: "Michael Kiwanuka"
 album_name: "Love & Hate"
 date: 2017-01-06T19:25:04.000000Z
+release_date: "2016-07-15"
 release_id: "8778580"
 slug: "love-hate-8778580"
 hideSummary: true

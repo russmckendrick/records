@@ -3,6 +3,7 @@ title: "Alice In Chains - Dirt"
 artist: "Alice In Chains"
 album_name: "Dirt"
 date: 2022-09-25T07:16:40.000000Z
+release_date: "1992-09-29"
 release_id: "24564872"
 slug: "dirt-24564872"
 hideSummary: true

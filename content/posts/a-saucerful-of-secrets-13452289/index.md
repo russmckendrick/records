@@ -3,6 +3,7 @@ title: "Pink Floyd - A Saucerful Of Secrets"
 artist: "Pink Floyd"
 album_name: "A Saucerful Of Secrets"
 date: 2019-04-13T11:18:45.000000Z
+release_date: "1968-06-29"
 release_id: "13452289"
 slug: "a-saucerful-of-secrets-13452289"
 hideSummary: true

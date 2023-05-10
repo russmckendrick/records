@@ -3,6 +3,7 @@ title: "Johnny Cash - Johnny Cash At San Quentin"
 artist: "Johnny Cash"
 album_name: "Johnny Cash At San Quentin"
 date: 2016-11-24T18:43:30.000000Z
+release_date: "1969-06-04"
 release_id: "7478564"
 slug: "johnny-cash-at-san-quentin-7478564"
 hideSummary: true

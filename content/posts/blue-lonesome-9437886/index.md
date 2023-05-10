@@ -3,6 +3,7 @@ title: "The Rolling Stones - Blue & Lonesome"
 artist: "The Rolling Stones"
 album_name: "Blue & Lonesome"
 date: 2017-02-11T14:53:32.000000Z
+release_date: "2016-12-02"
 release_id: "9437886"
 slug: "blue-lonesome-9437886"
 hideSummary: true

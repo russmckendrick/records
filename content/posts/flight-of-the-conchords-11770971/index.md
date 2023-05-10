@@ -3,6 +3,7 @@ title: "Flight Of The Conchords - Flight Of The Conchords"
 artist: "Flight Of The Conchords"
 album_name: "Flight Of The Conchords"
 date: 2018-03-31T10:51:31.000000Z
+release_date: "2008-04-21"
 release_id: "11770971"
 slug: "flight-of-the-conchords-11770971"
 hideSummary: true

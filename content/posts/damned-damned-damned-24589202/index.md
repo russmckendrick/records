@@ -3,6 +3,7 @@ title: "The Damned - Damned Damned Damned"
 artist: "The Damned"
 album_name: "Damned Damned Damned"
 date: 2022-10-14T05:15:31.000000Z
+release_date: "2017-12-15"
 release_id: "24589202"
 slug: "damned-damned-damned-24589202"
 hideSummary: true

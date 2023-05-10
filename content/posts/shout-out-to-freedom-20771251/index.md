@@ -3,6 +3,7 @@ title: "Nightmares On Wax - Shout Out! To Freedom..."
 artist: "Nightmares On Wax"
 album_name: "Shout Out! To Freedom..."
 date: 2021-10-30T04:06:37.000000Z
+release_date: "2021-10-29"
 release_id: "20771251"
 slug: "shout-out-to-freedom-20771251"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Katatonia - Sky Void Of Stars"
 artist: "Katatonia"
 album_name: "Sky Void Of Stars"
 date: 2023-01-21T02:12:50.000000Z
+release_date: "2023-01-20"
 release_id: "25820851"
 slug: "sky-void-of-stars-25820851"
 hideSummary: true

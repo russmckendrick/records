@@ -3,6 +3,7 @@ title: "Agnes Obel - Citizen Of Glass"
 artist: "Agnes Obel"
 album_name: "Citizen Of Glass"
 date: 2017-01-03T18:48:28.000000Z
+release_date: "2016-10-21"
 release_id: "9218599"
 slug: "citizen-of-glass-9218599"
 hideSummary: true

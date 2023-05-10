@@ -3,6 +3,7 @@ title: "Arcade Fire - Everything Now"
 artist: "Arcade Fire"
 album_name: "Everything Now"
 date: 2017-07-29T08:50:33.000000Z
+release_date: "2017-07-28"
 release_id: "10601119"
 slug: "everything-now-10601119"
 hideSummary: true

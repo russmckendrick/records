@@ -3,6 +3,7 @@ title: "Eagles - Hotel California"
 artist: "Eagles"
 album_name: "Hotel California"
 date: 2017-07-23T14:31:29.000000Z
+release_date: "1976-12-08"
 release_id: "6623165"
 slug: "hotel-california-6623165"
 hideSummary: true

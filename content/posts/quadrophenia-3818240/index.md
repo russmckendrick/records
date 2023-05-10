@@ -3,6 +3,7 @@ title: "The Who - Quadrophenia"
 artist: "The Who"
 album_name: "Quadrophenia"
 date: 2015-08-09T12:09:54.000000Z
+release_date: "1973-10-26"
 release_id: "3818240"
 slug: "quadrophenia-3818240"
 hideSummary: true

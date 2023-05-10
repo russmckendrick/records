@@ -3,6 +3,7 @@ title: "Beastie Boys - Paul's Boutique"
 artist: "Beastie Boys"
 album_name: "Paul's Boutique"
 date: 2020-02-14T18:07:05.000000Z
+release_date: "1989-07-25"
 release_id: "12872158"
 slug: "paul-s-boutique-12872158"
 hideSummary: true

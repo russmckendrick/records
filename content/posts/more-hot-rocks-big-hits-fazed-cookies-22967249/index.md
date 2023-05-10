@@ -3,6 +3,7 @@ title: "The Rolling Stones - More Hot Rocks (Big Hits & Fazed Cookies)"
 artist: "The Rolling Stones"
 album_name: "More Hot Rocks (Big Hits & Fazed Cookies)"
 date: 2022-05-17T07:05:31.000000Z
+release_date: "1972-12-01"
 release_id: "22967249"
 slug: "more-hot-rocks-big-hits-fazed-cookies-22967249"
 hideSummary: true

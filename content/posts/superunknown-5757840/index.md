@@ -3,6 +3,7 @@ title: "Soundgarden - Superunknown"
 artist: "Soundgarden"
 album_name: "Superunknown"
 date: 2017-06-11T13:16:04.000000Z
+release_date: "1994-03-08"
 release_id: "5757840"
 slug: "superunknown-5757840"
 hideSummary: true

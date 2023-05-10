@@ -3,6 +3,7 @@ title: "New Order - Get Ready"
 artist: "New Order"
 album_name: "Get Ready"
 date: 2015-10-04T11:28:04.000000Z
+release_date: "2001-08-27"
 release_id: "7515768"
 slug: "get-ready-7515768"
 hideSummary: true

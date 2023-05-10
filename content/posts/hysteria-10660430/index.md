@@ -3,6 +3,7 @@ title: "Def Leppard - Hysteria"
 artist: "Def Leppard"
 album_name: "Hysteria"
 date: 2017-08-05T17:08:06.000000Z
+release_date: "1987-08-03"
 release_id: "10660430"
 slug: "hysteria-10660430"
 hideSummary: true

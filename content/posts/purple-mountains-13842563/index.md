@@ -3,6 +3,7 @@ title: "Purple Mountains - Purple Mountains"
 artist: "Purple Mountains"
 album_name: "Purple Mountains"
 date: 2019-07-12T15:33:26.000000Z
+release_date: "2019-07-12"
 release_id: "13842563"
 slug: "purple-mountains-13842563"
 hideSummary: true

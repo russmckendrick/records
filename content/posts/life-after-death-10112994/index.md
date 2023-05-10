@@ -3,6 +3,7 @@ title: "Notorious B.I.G. - Life After Death"
 artist: "Notorious B.I.G."
 album_name: "Life After Death"
 date: 2017-04-22T10:04:55.000000Z
+release_date: "1997-03-25"
 release_id: "10112994"
 slug: "life-after-death-10112994"
 hideSummary: true

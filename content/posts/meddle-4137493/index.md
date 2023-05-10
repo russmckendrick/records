@@ -3,6 +3,7 @@ title: "Pink Floyd - Meddle"
 artist: "Pink Floyd"
 album_name: "Meddle"
 date: 2016-01-08T19:11:34.000000Z
+release_date: "1971-10-30"
 release_id: "4137493"
 slug: "meddle-4137493"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Radiohead - Kid A Mnesia"
 artist: "Radiohead"
 album_name: "Kid A Mnesia"
 date: 2021-12-12T08:40:33.000000Z
+release_date: "2021-11-05"
 release_id: "21254395"
 slug: "kid-a-mnesia-21254395"
 hideSummary: true

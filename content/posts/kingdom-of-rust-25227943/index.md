@@ -3,6 +3,7 @@ title: "Doves - Kingdom Of Rust"
 artist: "Doves"
 album_name: "Kingdom Of Rust"
 date: 2022-11-22T02:17:56.000000Z
+release_date: "2009-04-03"
 release_id: "25227943"
 slug: "kingdom-of-rust-25227943"
 hideSummary: true

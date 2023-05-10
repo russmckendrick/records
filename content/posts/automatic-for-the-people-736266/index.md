@@ -3,6 +3,7 @@ title: "R.E.M. - Automatic For The People"
 artist: "R.E.M."
 album_name: "Automatic For The People"
 date: 2015-08-09T08:39:05.000000Z
+release_date: "1992-10-05"
 release_id: "736266"
 slug: "automatic-for-the-people-736266"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Nick Drake - Bryter Layter"
 artist: "Nick Drake"
 album_name: "Bryter Layter"
 date: 2015-08-09T08:36:29.000000Z
+release_date: "1970-01-01"
 release_id: "4635606"
 slug: "bryter-layter-4635606"
 hideSummary: true

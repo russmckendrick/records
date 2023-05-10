@@ -3,6 +3,7 @@ title: "ALT - Altitude "
 artist: "ALT"
 album_name: "Altitude "
 date: 2022-06-06T01:25:47.000000Z
+release_date: "2022-10-14"
 release_id: "23202755"
 slug: "altitude-23202755"
 hideSummary: true

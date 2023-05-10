@@ -3,6 +3,7 @@ title: "Daryl Hall & John Oates - The Very Best Of"
 artist: "Daryl Hall & John Oates"
 album_name: "The Very Best Of"
 date: 2016-08-13T09:39:29.000000Z
+release_date: "2005-06-14"
 release_id: "8863457"
 slug: "the-very-best-of-8863457"
 hideSummary: true

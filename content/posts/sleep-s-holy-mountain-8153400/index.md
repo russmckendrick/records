@@ -3,6 +3,7 @@ title: "Sleep - Sleep's Holy Mountain"
 artist: "Sleep"
 album_name: "Sleep's Holy Mountain"
 date: 2018-08-23T19:24:24.000000Z
+release_date: "1992-11-01"
 release_id: "8153400"
 slug: "sleep-s-holy-mountain-8153400"
 hideSummary: true

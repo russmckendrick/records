@@ -3,6 +3,7 @@ title: "Derek & The Dominos - Layla And Other Assorted Love Songs"
 artist: "Derek & The Dominos"
 album_name: "Layla And Other Assorted Love Songs"
 date: 2021-04-05T06:12:09.000000Z
+release_date: "1970-11-09"
 release_id: "16252835"
 slug: "layla-and-other-assorted-love-songs-16252835"
 hideSummary: true

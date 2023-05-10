@@ -3,6 +3,7 @@ title: "The War On Drugs - Lost In The Dream"
 artist: "The War On Drugs"
 album_name: "Lost In The Dream"
 date: 2015-08-09T09:04:57.000000Z
+release_date: "2014-03-18"
 release_id: "5990802"
 slug: "lost-in-the-dream-5990802"
 hideSummary: true

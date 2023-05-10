@@ -3,6 +3,7 @@ title: "Flight Of The Conchords - I Told You I Was Freaky"
 artist: "Flight Of The Conchords"
 album_name: "I Told You I Was Freaky"
 date: 2018-04-06T15:39:32.000000Z
+release_date: "2009-10-20"
 release_id: "11823874"
 slug: "i-told-you-i-was-freaky-11823874"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Led Zeppelin - Houses Of The Holy"
 artist: "Led Zeppelin"
 album_name: "Houses Of The Holy"
 date: 2017-02-26T10:56:57.000000Z
+release_date: "1973-03-28"
 release_id: "6224441"
 slug: "houses-of-the-holy-6224441"
 hideSummary: true

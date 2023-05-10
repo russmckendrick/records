@@ -3,6 +3,7 @@ title: "John Coltrane - Blue Train "
 artist: "John Coltrane"
 album_name: "Blue Train "
 date: 2017-05-12T18:25:29.000000Z
+release_date: "1957-11-01"
 release_id: "8635682"
 slug: "blue-train-8635682"
 hideSummary: true

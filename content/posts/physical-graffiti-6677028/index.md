@@ -3,6 +3,7 @@ title: "Led Zeppelin - Physical Graffiti"
 artist: "Led Zeppelin"
 album_name: "Physical Graffiti"
 date: 2017-02-26T10:58:09.000000Z
+release_date: "1975-02-24"
 release_id: "6677028"
 slug: "physical-graffiti-6677028"
 hideSummary: true

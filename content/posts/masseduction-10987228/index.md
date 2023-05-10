@@ -3,6 +3,7 @@ title: "St. Vincent - Masseduction"
 artist: "St. Vincent"
 album_name: "Masseduction"
 date: 2017-10-13T18:10:27.000000Z
+release_date: "2017-10-13"
 release_id: "10987228"
 slug: "masseduction-10987228"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Tori Amos - Little Earthquakes"
 artist: "Tori Amos"
 album_name: "Little Earthquakes"
 date: 2017-03-26T10:56:09.000000Z
+release_date: "1992-01-06"
 release_id: "6886034"
 slug: "little-earthquakes-6886034"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Yola - Stand For Myself"
 artist: "Yola"
 album_name: "Stand For Myself"
 date: 2021-08-09T03:27:52.000000Z
+release_date: "2021-07-30"
 release_id: "19686967"
 slug: "stand-for-myself-19686967"
 hideSummary: true

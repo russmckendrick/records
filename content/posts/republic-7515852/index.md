@@ -3,6 +3,7 @@ title: "New Order - Republic"
 artist: "New Order"
 album_name: "Republic"
 date: 2015-12-14T17:05:24.000000Z
+release_date: "1993-04-27"
 release_id: "7515852"
 slug: "republic-7515852"
 hideSummary: true

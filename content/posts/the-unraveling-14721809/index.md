@@ -3,6 +3,7 @@ title: "Drive-By Truckers - The Unraveling"
 artist: "Drive-By Truckers"
 album_name: "The Unraveling"
 date: 2020-01-31T18:59:12.000000Z
+release_date: "2020-01-31"
 release_id: "14721809"
 slug: "the-unraveling-14721809"
 hideSummary: true

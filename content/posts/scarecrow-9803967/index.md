@@ -3,6 +3,7 @@ title: "John Cougar Mellencamp - Scarecrow"
 artist: "John Cougar Mellencamp"
 album_name: "Scarecrow"
 date: 2020-08-01T12:50:26.000000Z
+release_date: "1985-08-05"
 release_id: "9803967"
 slug: "scarecrow-9803967"
 hideSummary: true

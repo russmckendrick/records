@@ -3,6 +3,7 @@ title: "Snarky Puppy - Empire Central"
 artist: "Snarky Puppy"
 album_name: "Empire Central"
 date: 2022-10-18T05:49:25.000000Z
+release_date: "2022-09-30"
 release_id: "24798023"
 slug: "empire-central-24798023"
 hideSummary: true

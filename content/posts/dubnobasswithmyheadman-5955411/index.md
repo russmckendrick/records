@@ -3,6 +3,7 @@ title: "Underworld - Dubnobasswithmyheadman"
 artist: "Underworld"
 album_name: "Dubnobasswithmyheadman"
 date: 2015-10-10T16:14:49.000000Z
+release_date: "2014-01-01"
 release_id: "5955411"
 slug: "dubnobasswithmyheadman-5955411"
 hideSummary: true

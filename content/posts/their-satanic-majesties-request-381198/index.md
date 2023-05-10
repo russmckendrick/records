@@ -3,6 +3,7 @@ title: "The Rolling Stones - Their Satanic Majesties Request"
 artist: "The Rolling Stones"
 album_name: "Their Satanic Majesties Request"
 date: 2016-12-02T12:53:18.000000Z
+release_date: "1967-12-08"
 release_id: "381198"
 slug: "their-satanic-majesties-request-381198"
 hideSummary: true

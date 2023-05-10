@@ -3,6 +3,7 @@ title: "Depeche Mode - Violator"
 artist: "Depeche Mode"
 album_name: "Violator"
 date: 2016-04-30T15:20:34.000000Z
+release_date: "1990-03-19"
 release_id: "5529916"
 slug: "violator-5529916"
 hideSummary: true

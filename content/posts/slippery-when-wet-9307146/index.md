@@ -3,6 +3,7 @@ title: "Bon Jovi - Slippery When Wet"
 artist: "Bon Jovi"
 album_name: "Slippery When Wet"
 date: 2021-06-22T02:48:42.000000Z
+release_date: "1986-08-18"
 release_id: "9307146"
 slug: "slippery-when-wet-9307146"
 hideSummary: true

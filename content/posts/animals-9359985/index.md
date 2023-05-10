@@ -3,6 +3,7 @@ title: "Pink Floyd - Animals"
 artist: "Pink Floyd"
 album_name: "Animals"
 date: 2016-11-18T18:42:09.000000Z
+release_date: "1977-01-23"
 release_id: "9359985"
 slug: "animals-9359985"
 hideSummary: true

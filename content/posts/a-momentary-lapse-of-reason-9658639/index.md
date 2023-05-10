@@ -3,6 +3,7 @@ title: "Pink Floyd - A Momentary Lapse Of Reason"
 artist: "Pink Floyd"
 album_name: "A Momentary Lapse Of Reason"
 date: 2017-01-20T17:08:04.000000Z
+release_date: "1987-09-07"
 release_id: "9658639"
 slug: "a-momentary-lapse-of-reason-9658639"
 hideSummary: true

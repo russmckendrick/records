@@ -3,6 +3,7 @@ title: "Fleetwood Mac - Greatest Hits"
 artist: "Fleetwood Mac"
 album_name: "Greatest Hits"
 date: 2015-10-04T11:27:10.000000Z
+release_date: "1988-11-15"
 release_id: "6123681"
 slug: "greatest-hits-6123681"
 hideSummary: true

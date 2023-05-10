@@ -3,6 +3,7 @@ title: "Rush - Snakes & Arrows"
 artist: "Rush"
 album_name: "Snakes & Arrows"
 date: 2017-02-27T14:00:17.000000Z
+release_date: "2007-05-01"
 release_id: "7973425"
 slug: "snakes-arrows-7973425"
 hideSummary: true

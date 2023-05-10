@@ -3,6 +3,7 @@ title: "Death In Vegas - Transmission"
 artist: "Death In Vegas"
 album_name: "Transmission"
 date: 2016-05-31T19:31:47.000000Z
+release_date: "2016-05-27"
 release_id: "8473733"
 slug: "transmission-8473733"
 hideSummary: true

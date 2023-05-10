@@ -3,6 +3,7 @@ title: "Beck - Hyperspace"
 artist: "Beck"
 album_name: "Hyperspace"
 date: 2019-11-22T18:27:26.000000Z
+release_date: "2019-11-22"
 release_id: "14427560"
 slug: "hyperspace-14427560"
 hideSummary: true

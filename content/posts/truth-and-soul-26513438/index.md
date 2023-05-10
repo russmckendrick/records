@@ -3,6 +3,7 @@ title: "Fishbone - Truth And Soul"
 artist: "Fishbone"
 album_name: "Truth And Soul"
 date: 2023-04-03T04:23:55.000000Z
+release_date: "1988-09-13"
 release_id: "26513438"
 slug: "truth-and-soul-26513438"
 hideSummary: true

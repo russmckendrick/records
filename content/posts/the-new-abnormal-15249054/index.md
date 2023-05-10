@@ -3,6 +3,7 @@ title: "The Strokes - The New Abnormal"
 artist: "The Strokes"
 album_name: "The New Abnormal"
 date: 2020-05-09T09:34:55.000000Z
+release_date: "2020-04-10"
 release_id: "15249054"
 slug: "the-new-abnormal-15249054"
 hideSummary: true

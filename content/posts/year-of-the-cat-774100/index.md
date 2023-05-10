@@ -3,6 +3,7 @@ title: "Al Stewart - Year Of The Cat"
 artist: "Al Stewart"
 album_name: "Year Of The Cat"
 date: 2017-01-25T18:25:25.000000Z
+release_date: "1993-11-22"
 release_id: "774100"
 slug: "year-of-the-cat-774100"
 hideSummary: true

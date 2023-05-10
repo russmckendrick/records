@@ -3,6 +3,7 @@ title: "Arcade Fire - The Suburbs"
 artist: "Arcade Fire"
 album_name: "The Suburbs"
 date: 2018-01-18T19:48:40.000000Z
+release_date: "2010-08-02"
 release_id: "2399813"
 slug: "the-suburbs-2399813"
 hideSummary: true

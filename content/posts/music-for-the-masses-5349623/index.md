@@ -3,6 +3,7 @@ title: "Depeche Mode - Music For The Masses"
 artist: "Depeche Mode"
 album_name: "Music For The Masses"
 date: 2016-05-24T17:39:18.000000Z
+release_date: "1987-09-28"
 release_id: "5349623"
 slug: "music-for-the-masses-5349623"
 hideSummary: true

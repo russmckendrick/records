@@ -3,6 +3,7 @@ title: "Stars - The North"
 artist: "Stars"
 album_name: "The North"
 date: 2017-06-27T18:05:30.000000Z
+release_date: "2022-06-17"
 release_id: "3839836"
 slug: "the-north-3839836"
 hideSummary: true

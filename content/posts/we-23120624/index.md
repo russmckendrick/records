@@ -3,6 +3,7 @@ title: "Arcade Fire - We"
 artist: "Arcade Fire"
 album_name: "We"
 date: 2022-05-06T10:53:15.000000Z
+release_date: "2022-05-06"
 release_id: "23120624"
 slug: "we-23120624"
 hideSummary: true

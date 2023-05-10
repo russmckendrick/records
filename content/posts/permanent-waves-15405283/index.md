@@ -3,6 +3,7 @@ title: "Rush - Permanent Waves"
 artist: "Rush"
 album_name: "Permanent Waves"
 date: 2020-06-01T13:33:53.000000Z
+release_date: "1980-01-14"
 release_id: "15405283"
 slug: "permanent-waves-15405283"
 hideSummary: true

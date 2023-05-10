@@ -3,6 +3,7 @@ title: "Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Pictu
 artist: "Sharon Jones & The Dap-Kings"
 album_name: "Miss Sharon Jones! (Original Motion Picture Soundtrack)"
 date: 2016-12-29T10:13:00.000000Z
+release_date: "2016-08-19"
 release_id: "9382390"
 slug: "miss-sharon-jones-original-motion-picture-soundtrack-9382390"
 hideSummary: true

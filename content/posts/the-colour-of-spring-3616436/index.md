@@ -3,6 +3,7 @@ title: "Talk Talk - The Colour Of Spring"
 artist: "Talk Talk"
 album_name: "The Colour Of Spring"
 date: 2016-10-11T16:25:06.000000Z
+release_date: "1986"
 release_id: "3616436"
 slug: "the-colour-of-spring-3616436"
 hideSummary: true

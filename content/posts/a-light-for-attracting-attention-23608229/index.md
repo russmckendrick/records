@@ -3,6 +3,7 @@ title: "The Smile - A Light For Attracting Attention"
 artist: "The Smile"
 album_name: "A Light For Attracting Attention"
 date: 2022-06-18T05:47:15.000000Z
+release_date: "2022-05-13"
 release_id: "23608229"
 slug: "a-light-for-attracting-attention-23608229"
 hideSummary: true

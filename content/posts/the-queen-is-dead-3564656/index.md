@@ -3,6 +3,7 @@ title: "The Smiths - The Queen Is Dead"
 artist: "The Smiths"
 album_name: "The Queen Is Dead"
 date: 2015-08-09T08:29:29.000000Z
+release_date: "1986-06-16"
 release_id: "3564656"
 slug: "the-queen-is-dead-3564656"
 hideSummary: true

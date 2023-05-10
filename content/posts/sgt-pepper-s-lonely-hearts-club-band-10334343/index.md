@@ -3,6 +3,7 @@ title: "The Beatles - Sgt. Pepper's Lonely Hearts Club Band"
 artist: "The Beatles"
 album_name: "Sgt. Pepper's Lonely Hearts Club Band"
 date: 2017-05-27T08:24:00.000000Z
+release_date: "1967-05-26"
 release_id: "10334343"
 slug: "sgt-pepper-s-lonely-hearts-club-band-10334343"
 hideSummary: true

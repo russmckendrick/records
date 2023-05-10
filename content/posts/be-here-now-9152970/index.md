@@ -3,6 +3,7 @@ title: "Oasis - Be Here Now"
 artist: "Oasis"
 album_name: "Be Here Now"
 date: 2016-10-14T16:17:56.000000Z
+release_date: "1997-08-21"
 release_id: "9152970"
 slug: "be-here-now-9152970"
 hideSummary: true

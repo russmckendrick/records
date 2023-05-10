@@ -3,6 +3,7 @@ title: "John Grant - Grey Tickles, Black Pressure"
 artist: "John Grant"
 album_name: "Grey Tickles, Black Pressure"
 date: 2015-10-09T17:01:43.000000Z
+release_date: "2015-10-09"
 release_id: "7574111"
 slug: "grey-tickles-black-pressure-7574111"
 hideSummary: true

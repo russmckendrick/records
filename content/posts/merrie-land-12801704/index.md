@@ -3,6 +3,7 @@ title: "The Good, The Bad & The Queen - Merrie Land"
 artist: "The Good, The Bad & The Queen"
 album_name: "Merrie Land"
 date: 2018-11-17T10:42:31.000000Z
+release_date: "2018-11-16"
 release_id: "12801704"
 slug: "merrie-land-12801704"
 hideSummary: true

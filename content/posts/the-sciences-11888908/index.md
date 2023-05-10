@@ -3,6 +3,7 @@ title: "Sleep - The Sciences"
 artist: "Sleep"
 album_name: "The Sciences"
 date: 2018-05-25T19:11:59.000000Z
+release_date: "2018-04-20"
 release_id: "11888908"
 slug: "the-sciences-11888908"
 hideSummary: true

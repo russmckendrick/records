@@ -3,6 +3,7 @@ title: "Nirvana - MTV Unplugged In New York"
 artist: "Nirvana"
 album_name: "MTV Unplugged In New York"
 date: 2016-04-15T17:26:11.000000Z
+release_date: "1994-11-01"
 release_id: "1901246"
 slug: "mtv-unplugged-in-new-york-1901246"
 hideSummary: true

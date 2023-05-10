@@ -3,6 +3,7 @@ title: "Sigur Rós - Ágætis Byrjun"
 artist: "Sigur Rós"
 album_name: "Ágætis Byrjun"
 date: 2016-11-18T18:42:26.000000Z
+release_date: "1999-06-12"
 release_id: "6589854"
 slug: "gtis-byrjun-6589854"
 hideSummary: true

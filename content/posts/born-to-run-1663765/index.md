@@ -3,6 +3,7 @@ title: "Bruce Springsteen - Born To Run"
 artist: "Bruce Springsteen"
 album_name: "Born To Run"
 date: 2015-09-21T17:34:23.000000Z
+release_date: "1975-08-25"
 release_id: "1663765"
 slug: "born-to-run-1663765"
 hideSummary: true

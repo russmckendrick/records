@@ -3,6 +3,7 @@ title: "Sigur Rós - Odin's Raven Magic"
 artist: "Sigur Rós"
 album_name: "Odin's Raven Magic"
 date: 2020-12-05T04:48:27.000000Z
+release_date: "2020-12-04"
 release_id: "16306752"
 slug: "odin-s-raven-magic-16306752"
 hideSummary: true

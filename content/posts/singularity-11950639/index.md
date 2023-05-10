@@ -3,6 +3,7 @@ title: "Jon Hopkins - Singularity"
 artist: "Jon Hopkins"
 album_name: "Singularity"
 date: 2020-03-14T08:49:42.000000Z
+release_date: "2018-05-04"
 release_id: "11950639"
 slug: "singularity-11950639"
 hideSummary: true

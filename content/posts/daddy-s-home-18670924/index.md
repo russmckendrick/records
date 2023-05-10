@@ -3,6 +3,7 @@ title: "St. Vincent - Daddy's Home"
 artist: "St. Vincent"
 album_name: "Daddy's Home"
 date: 2021-05-15T06:31:58.000000Z
+release_date: "2021-05-14"
 release_id: "18670924"
 slug: "daddy-s-home-18670924"
 hideSummary: true

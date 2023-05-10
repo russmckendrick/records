@@ -3,6 +3,7 @@ title: "Talking Heads - Remain In Light"
 artist: "Talking Heads"
 album_name: "Remain In Light"
 date: 2015-09-16T18:52:12.000000Z
+release_date: "1980-10-08"
 release_id: "3908559"
 slug: "remain-in-light-3908559"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Natalie Imbruglia - Left Of The Middle"
 artist: "Natalie Imbruglia"
 album_name: "Left Of The Middle"
 date: 2023-04-09T09:12:06.000000Z
+release_date: "1997-11-24"
 release_id: "25207813"
 slug: "left-of-the-middle-25207813"
 hideSummary: true

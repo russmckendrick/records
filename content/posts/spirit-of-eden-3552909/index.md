@@ -3,6 +3,7 @@ title: "Talk Talk - Spirit Of Eden"
 artist: "Talk Talk"
 album_name: "Spirit Of Eden"
 date: 2016-10-11T16:24:57.000000Z
+release_date: "1988-09-16"
 release_id: "3552909"
 slug: "spirit-of-eden-3552909"
 hideSummary: true

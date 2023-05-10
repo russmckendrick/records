@@ -3,6 +3,7 @@ title: "Coheed And Cambria - The Color Before The Sun"
 artist: "Coheed And Cambria"
 album_name: "The Color Before The Sun"
 date: 2015-10-24T08:06:03.000000Z
+release_date: "2015-10-16"
 release_id: "7603029"
 slug: "the-color-before-the-sun-7603029"
 hideSummary: true

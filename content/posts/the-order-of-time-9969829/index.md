@@ -3,6 +3,7 @@ title: "Valerie June - The Order Of Time"
 artist: "Valerie June"
 album_name: "The Order Of Time"
 date: 2017-03-18T12:17:28.000000Z
+release_date: "2017-03-10"
 release_id: "9969829"
 slug: "the-order-of-time-9969829"
 hideSummary: true

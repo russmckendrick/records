@@ -3,6 +3,7 @@ title: "Massive Attack - Blue Lines"
 artist: "Massive Attack"
 album_name: "Blue Lines"
 date: 2016-12-02T12:53:32.000000Z
+release_date: "1991-08-06"
 release_id: "9442778"
 slug: "blue-lines-9442778"
 hideSummary: true

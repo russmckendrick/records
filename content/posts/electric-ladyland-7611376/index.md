@@ -3,6 +3,7 @@ title: "The Jimi Hendrix Experience - Electric Ladyland"
 artist: "The Jimi Hendrix Experience"
 album_name: "Electric Ladyland"
 date: 2016-04-23T09:44:30.000000Z
+release_date: "1968-09-16"
 release_id: "7611376"
 slug: "electric-ladyland-7611376"
 hideSummary: true

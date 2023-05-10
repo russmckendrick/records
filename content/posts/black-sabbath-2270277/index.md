@@ -3,6 +3,7 @@ title: "Black Sabbath - Black Sabbath"
 artist: "Black Sabbath"
 album_name: "Black Sabbath"
 date: 2015-09-27T10:53:49.000000Z
+release_date: "1970-02-13"
 release_id: "2270277"
 slug: "black-sabbath-2270277"
 hideSummary: true

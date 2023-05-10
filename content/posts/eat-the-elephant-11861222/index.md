@@ -3,6 +3,7 @@ title: "A Perfect Circle - Eat The Elephant"
 artist: "A Perfect Circle"
 album_name: "Eat The Elephant"
 date: 2018-04-20T17:55:36.000000Z
+release_date: "2018-04-20"
 release_id: "11861222"
 slug: "eat-the-elephant-11861222"
 hideSummary: true

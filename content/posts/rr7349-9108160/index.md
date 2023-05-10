@@ -3,6 +3,7 @@ title: "Survive - RR7349"
 artist: "Survive"
 album_name: "RR7349"
 date: 2016-09-26T17:22:54.000000Z
+release_date: "2016-09-30"
 release_id: "9108160"
 slug: "rr7349-9108160"
 hideSummary: true

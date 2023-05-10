@@ -3,6 +3,7 @@ title: "Soul II Soul - Club Classics Vol. One"
 artist: "Soul II Soul"
 album_name: "Club Classics Vol. One"
 date: 2020-10-16T10:31:44.000000Z
+release_date: "1989-04-10"
 release_id: "16034267"
 slug: "club-classics-vol-one-16034267"
 hideSummary: true

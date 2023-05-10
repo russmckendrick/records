@@ -3,6 +3,7 @@ title: "Rush - Clockwork Angels"
 artist: "Rush"
 album_name: "Clockwork Angels"
 date: 2017-02-26T10:56:33.000000Z
+release_date: "2012-06-08"
 release_id: "4835484"
 slug: "clockwork-angels-4835484"
 hideSummary: true

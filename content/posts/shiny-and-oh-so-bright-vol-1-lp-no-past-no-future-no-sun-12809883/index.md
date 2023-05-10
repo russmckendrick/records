@@ -3,6 +3,7 @@ title: "The Smashing Pumpkins - Shiny And Oh So Bright - Vol.1 / LP - No Past, N
 artist: "The Smashing Pumpkins"
 album_name: "Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun"
 date: 2018-11-17T10:43:01.000000Z
+release_date: "2018-11-16"
 release_id: "12809883"
 slug: "shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun-12809883"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Wilco - Schmilco"
 artist: "Wilco"
 album_name: "Schmilco"
 date: 2016-09-13T16:31:14.000000Z
+release_date: "2016-09-06"
 release_id: "9013976"
 slug: "schmilco-9013976"
 hideSummary: true

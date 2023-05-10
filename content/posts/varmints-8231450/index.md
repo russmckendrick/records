@@ -3,6 +3,7 @@ title: "Anna Meredith - Varmints"
 artist: "Anna Meredith"
 album_name: "Varmints"
 date: 2016-10-26T16:18:45.000000Z
+release_date: "2016-03-04"
 release_id: "8231450"
 slug: "varmints-8231450"
 hideSummary: true

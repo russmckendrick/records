@@ -3,6 +3,7 @@ title: "Julia Holter - Have You In My Wilderness"
 artist: "Julia Holter"
 album_name: "Have You In My Wilderness"
 date: 2015-12-28T14:07:45.000000Z
+release_date: "2015-09-25"
 release_id: "7608939"
 slug: "have-you-in-my-wilderness-7608939"
 hideSummary: true

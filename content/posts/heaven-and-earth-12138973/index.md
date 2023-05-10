@@ -3,6 +3,7 @@ title: "Kamasi Washington - Heaven And Earth"
 artist: "Kamasi Washington"
 album_name: "Heaven And Earth"
 date: 2018-06-23T08:48:59.000000Z
+release_date: "2018-06-22"
 release_id: "12138973"
 slug: "heaven-and-earth-12138973"
 hideSummary: true

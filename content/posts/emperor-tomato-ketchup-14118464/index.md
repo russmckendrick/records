@@ -3,6 +3,7 @@ title: "Stereolab - Emperor Tomato Ketchup"
 artist: "Stereolab"
 album_name: "Emperor Tomato Ketchup"
 date: 2019-09-15T12:00:17.000000Z
+release_date: "1996-03-18"
 release_id: "14118464"
 slug: "emperor-tomato-ketchup-14118464"
 hideSummary: true

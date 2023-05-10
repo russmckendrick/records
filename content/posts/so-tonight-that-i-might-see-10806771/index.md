@@ -3,6 +3,7 @@ title: "Mazzy Star - So Tonight That I Might See"
 artist: "Mazzy Star"
 album_name: "So Tonight That I Might See"
 date: 2017-09-08T18:26:05.000000Z
+release_date: "1993-01-01"
 release_id: "10806771"
 slug: "so-tonight-that-i-might-see-10806771"
 hideSummary: true

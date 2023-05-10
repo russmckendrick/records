@@ -3,6 +3,7 @@ title: "Fleetwood Mac - Rumours "
 artist: "Fleetwood Mac"
 album_name: "Rumours "
 date: 2015-09-30T17:20:53.000000Z
+release_date: "1977-02-04"
 release_id: "4288657"
 slug: "rumours-4288657"
 hideSummary: true

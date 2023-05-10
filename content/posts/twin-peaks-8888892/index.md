@@ -3,6 +3,7 @@ title: "Angelo Badalamenti - Twin Peaks"
 artist: "Angelo Badalamenti"
 album_name: "Twin Peaks"
 date: 2016-08-26T16:30:13.000000Z
+release_date: "1990-09-11"
 release_id: "8888892"
 slug: "twin-peaks-8888892"
 hideSummary: true

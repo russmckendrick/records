@@ -3,6 +3,7 @@ title: "Meat Loaf - Bat Out Of Hell"
 artist: "Meat Loaf"
 album_name: "Bat Out Of Hell"
 date: 2017-07-05T14:33:25.000000Z
+release_date: "1977-10-21"
 release_id: "9681142"
 slug: "bat-out-of-hell-9681142"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "XTC - English Settlement"
 artist: "XTC"
 album_name: "English Settlement"
 date: 2018-01-19T20:40:49.000000Z
+release_date: "1982-02-12"
 release_id: "8800946"
 slug: "english-settlement-8800946"
 hideSummary: true

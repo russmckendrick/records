@@ -3,6 +3,7 @@ title: "Miles Davis - Kind Of Blue"
 artist: "Miles Davis"
 album_name: "Kind Of Blue"
 date: 2015-09-22T17:42:07.000000Z
+release_date: "1959-08-17"
 release_id: "6606263"
 slug: "kind-of-blue-6606263"
 hideSummary: true

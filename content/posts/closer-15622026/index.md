@@ -3,6 +3,7 @@ title: "Joy Division - Closer"
 artist: "Joy Division"
 album_name: "Closer"
 date: 2020-07-17T12:19:11.000000Z
+release_date: "1980-07-18"
 release_id: "15622026"
 slug: "closer-15622026"
 hideSummary: true

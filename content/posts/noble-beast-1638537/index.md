@@ -3,6 +3,7 @@ title: "Andrew Bird - Noble Beast"
 artist: "Andrew Bird"
 album_name: "Noble Beast"
 date: 2016-02-11T20:06:19.000000Z
+release_date: "2009-02-02"
 release_id: "1638537"
 slug: "noble-beast-1638537"
 hideSummary: true

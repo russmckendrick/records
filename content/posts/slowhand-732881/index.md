@@ -3,6 +3,7 @@ title: "Eric Clapton - Slowhand"
 artist: "Eric Clapton"
 album_name: "Slowhand"
 date: 2020-08-02T13:41:14.000000Z
+release_date: "1977-11-25"
 release_id: "732881"
 slug: "slowhand-732881"
 hideSummary: true

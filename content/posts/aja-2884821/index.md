@@ -3,6 +3,7 @@ title: "Steely Dan - Aja"
 artist: "Steely Dan"
 album_name: "Aja"
 date: 2019-11-16T11:54:09.000000Z
+release_date: "1977-01-01"
 release_id: "2884821"
 slug: "aja-2884821"
 hideSummary: true

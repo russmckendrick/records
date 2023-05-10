@@ -3,6 +3,7 @@ title: "Beck - Odelay"
 artist: "Beck"
 album_name: "Odelay"
 date: 2016-10-21T17:27:55.000000Z
+release_date: "1996-01-01"
 release_id: "9168171"
 slug: "odelay-9168171"
 hideSummary: true

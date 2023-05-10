@@ -3,6 +3,7 @@ title: "Sublime - Sublime"
 artist: "Sublime"
 album_name: "Sublime"
 date: 2016-09-29T17:26:03.000000Z
+release_date: "1996-07-30"
 release_id: "8687804"
 slug: "sublime-8687804"
 hideSummary: true

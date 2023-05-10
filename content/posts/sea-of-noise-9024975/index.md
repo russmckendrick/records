@@ -3,6 +3,7 @@ title: "St. Paul & The Broken Bones - Sea Of Noise"
 artist: "St. Paul & The Broken Bones"
 album_name: "Sea Of Noise"
 date: 2016-10-06T16:52:35.000000Z
+release_date: "2016-09-09"
 release_id: "9024975"
 slug: "sea-of-noise-9024975"
 hideSummary: true

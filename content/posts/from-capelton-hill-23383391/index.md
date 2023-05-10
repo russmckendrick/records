@@ -3,6 +3,7 @@ title: "Stars - From Capelton Hill"
 artist: "Stars"
 album_name: "From Capelton Hill"
 date: 2022-05-31T04:16:54.000000Z
+release_date: "2022-05-27"
 release_id: "23383391"
 slug: "from-capelton-hill-23383391"
 hideSummary: true

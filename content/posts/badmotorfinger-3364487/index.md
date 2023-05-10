@@ -3,6 +3,7 @@ title: "Soundgarden - Badmotorfinger"
 artist: "Soundgarden"
 album_name: "Badmotorfinger"
 date: 2017-06-10T11:12:15.000000Z
+release_date: "1991-10-08"
 release_id: "3364487"
 slug: "badmotorfinger-3364487"
 hideSummary: true

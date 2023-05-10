@@ -3,6 +3,7 @@ title: "Pearl Jam - Ten"
 artist: "Pearl Jam"
 album_name: "Ten"
 date: 2016-11-08T18:43:42.000000Z
+release_date: "1991-08-27"
 release_id: "1704831"
 slug: "ten-1704831"
 hideSummary: true

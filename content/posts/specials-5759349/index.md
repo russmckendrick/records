@@ -3,6 +3,7 @@ title: "The Specials - Specials"
 artist: "The Specials"
 album_name: "Specials"
 date: 2015-10-15T17:43:22.000000Z
+release_date: "2011-10-21"
 release_id: "5759349"
 slug: "specials-5759349"
 hideSummary: true

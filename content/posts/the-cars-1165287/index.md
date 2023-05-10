@@ -3,6 +3,7 @@ title: "The Cars - The Cars"
 artist: "The Cars"
 album_name: "The Cars"
 date: 2020-08-02T13:38:38.000000Z
+release_date: "2002-02-19"
 release_id: "1165287"
 slug: "the-cars-1165287"
 hideSummary: true

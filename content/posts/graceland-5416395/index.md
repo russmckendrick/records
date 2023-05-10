@@ -3,6 +3,7 @@ title: "Paul Simon - Graceland"
 artist: "Paul Simon"
 album_name: "Graceland"
 date: 2016-01-13T10:27:40.000000Z
+release_date: "1986-08-25"
 release_id: "5416395"
 slug: "graceland-5416395"
 hideSummary: true

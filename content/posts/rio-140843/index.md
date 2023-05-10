@@ -3,6 +3,7 @@ title: "Duran Duran - Rio"
 artist: "Duran Duran"
 album_name: "Rio"
 date: 2020-08-02T13:40:07.000000Z
+release_date: "1982-05-10"
 release_id: "140843"
 slug: "rio-140843"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Oasis - (What's The Story) Morning Glory?"
 artist: "Oasis"
 album_name: "(What's The Story) Morning Glory?"
 date: 2016-03-23T12:58:39.000000Z
+release_date: "1995-10-02"
 release_id: "6127871"
 slug: "what-s-the-story-morning-glory-6127871"
 hideSummary: true

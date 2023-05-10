@@ -3,6 +3,7 @@ title: "Sleater-Kinney - The Center Won't Hold"
 artist: "Sleater-Kinney"
 album_name: "The Center Won't Hold"
 date: 2019-08-16T17:11:48.000000Z
+release_date: "2019-08-16"
 release_id: "14003093"
 slug: "the-center-won-t-hold-14003093"
 hideSummary: true

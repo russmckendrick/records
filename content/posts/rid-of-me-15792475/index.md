@@ -3,6 +3,7 @@ title: "PJ Harvey - Rid Of Me"
 artist: "PJ Harvey"
 album_name: "Rid Of Me"
 date: 2020-08-25T13:30:46.000000Z
+release_date: "1993-05-04"
 release_id: "15792475"
 slug: "rid-of-me-15792475"
 hideSummary: true

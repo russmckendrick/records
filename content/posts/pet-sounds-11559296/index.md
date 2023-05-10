@@ -3,6 +3,7 @@ title: "The Beach Boys - Pet Sounds"
 artist: "The Beach Boys"
 album_name: "Pet Sounds"
 date: 2019-08-05T17:25:41.000000Z
+release_date: "1966-05-16"
 release_id: "11559296"
 slug: "pet-sounds-11559296"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Genesis - Invisible Touch"
 artist: "Genesis"
 album_name: "Invisible Touch"
 date: 2015-12-04T18:21:09.000000Z
+release_date: "1986-06-01"
 release_id: "6603588"
 slug: "invisible-touch-6603588"
 hideSummary: true

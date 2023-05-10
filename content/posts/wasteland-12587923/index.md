@@ -3,6 +3,7 @@ title: "Riverside - Wasteland"
 artist: "Riverside"
 album_name: "Wasteland"
 date: 2018-09-30T12:30:44.000000Z
+release_date: "2018-09-28"
 release_id: "12587923"
 slug: "wasteland-12587923"
 hideSummary: true

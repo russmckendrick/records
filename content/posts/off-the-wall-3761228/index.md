@@ -3,6 +3,7 @@ title: "Michael Jackson - Off The Wall"
 artist: "Michael Jackson"
 album_name: "Off The Wall"
 date: 2016-04-08T19:08:40.000000Z
+release_date: "1979-08-10"
 release_id: "3761228"
 slug: "off-the-wall-3761228"
 hideSummary: true

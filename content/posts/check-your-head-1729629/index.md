@@ -3,6 +3,7 @@ title: "Beastie Boys - Check Your Head"
 artist: "Beastie Boys"
 album_name: "Check Your Head"
 date: 2016-09-05T12:29:43.000000Z
+release_date: "1992-04-21"
 release_id: "1729629"
 slug: "check-your-head-1729629"
 hideSummary: true

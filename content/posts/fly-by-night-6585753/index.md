@@ -3,6 +3,7 @@ title: "Rush - Fly By Night"
 artist: "Rush"
 album_name: "Fly By Night"
 date: 2017-03-02T17:33:40.000000Z
+release_date: "1975-02-15"
 release_id: "6585753"
 slug: "fly-by-night-6585753"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "The National - Sleep Well Beast"
 artist: "The National"
 album_name: "Sleep Well Beast"
 date: 2017-09-15T13:59:50.000000Z
+release_date: "2017-09-08"
 release_id: "10823938"
 slug: "sleep-well-beast-10823938"
 hideSummary: true

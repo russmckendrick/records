@@ -3,6 +3,7 @@ title: "The War On Drugs - A Deeper Understanding"
 artist: "The War On Drugs"
 album_name: "A Deeper Understanding"
 date: 2017-08-25T17:20:29.000000Z
+release_date: "2017-08-25"
 release_id: "10751302"
 slug: "a-deeper-understanding-10751302"
 hideSummary: true

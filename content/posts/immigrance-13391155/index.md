@@ -3,6 +3,7 @@ title: "Snarky Puppy - Immigrance"
 artist: "Snarky Puppy"
 album_name: "Immigrance"
 date: 2020-01-25T14:28:55.000000Z
+release_date: "2019-03-15"
 release_id: "13391155"
 slug: "immigrance-13391155"
 hideSummary: true

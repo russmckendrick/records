@@ -3,6 +3,7 @@ title: "The Smashing Pumpkins - Mellon Collie And The Infinite Sadness"
 artist: "The Smashing Pumpkins"
 album_name: "Mellon Collie And The Infinite Sadness"
 date: 2015-09-23T17:23:10.000000Z
+release_date: "1995-10-24"
 release_id: "4091614"
 slug: "mellon-collie-and-the-infinite-sadness-4091614"
 hideSummary: true

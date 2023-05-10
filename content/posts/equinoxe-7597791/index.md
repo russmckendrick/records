@@ -3,6 +3,7 @@ title: "Jean-Michel Jarre - Equinoxe"
 artist: "Jean-Michel Jarre"
 album_name: "Equinoxe"
 date: 2016-12-08T18:38:48.000000Z
+release_date: "2015-08-28"
 release_id: "7597791"
 slug: "equinoxe-7597791"
 hideSummary: true

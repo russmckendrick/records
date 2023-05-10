@@ -3,6 +3,7 @@ title: "Orville Peck - Pony"
 artist: "Orville Peck"
 album_name: "Pony"
 date: 2020-04-23T11:52:07.000000Z
+release_date: "2019-03-22"
 release_id: "15159576"
 slug: "pony-15159576"
 hideSummary: true

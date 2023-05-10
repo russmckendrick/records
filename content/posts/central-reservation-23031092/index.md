@@ -3,6 +3,7 @@ title: "Beth Orton - Central Reservation"
 artist: "Beth Orton"
 album_name: "Central Reservation"
 date: 2022-06-18T05:55:09.000000Z
+release_date: "1999-01-28"
 release_id: "23031092"
 slug: "central-reservation-23031092"
 hideSummary: true

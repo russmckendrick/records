@@ -3,6 +3,7 @@ title: "Beck - Morning Phase"
 artist: "Beck"
 album_name: "Morning Phase"
 date: 2017-08-11T18:27:02.000000Z
+release_date: "2014-01-01"
 release_id: "5626140"
 slug: "morning-phase-5626140"
 hideSummary: true

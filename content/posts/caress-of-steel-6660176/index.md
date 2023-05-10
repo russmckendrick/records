@@ -3,6 +3,7 @@ title: "Rush - Caress Of Steel"
 artist: "Rush"
 album_name: "Caress Of Steel"
 date: 2017-03-02T17:34:04.000000Z
+release_date: "1975-01-01"
 release_id: "6660176"
 slug: "caress-of-steel-6660176"
 hideSummary: true

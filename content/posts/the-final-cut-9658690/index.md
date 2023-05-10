@@ -3,6 +3,7 @@ title: "Pink Floyd - The Final Cut"
 artist: "Pink Floyd"
 album_name: "The Final Cut"
 date: 2017-01-20T17:07:48.000000Z
+release_date: "1983-03-21"
 release_id: "9658690"
 slug: "the-final-cut-9658690"
 hideSummary: true

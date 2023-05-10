@@ -3,6 +3,7 @@ title: "Pink Floyd - The Piper At The Gates Of Dawn"
 artist: "Pink Floyd"
 album_name: "The Piper At The Gates Of Dawn"
 date: 2016-06-03T20:01:46.000000Z
+release_date: "1967-08-05"
 release_id: "8513521"
 slug: "the-piper-at-the-gates-of-dawn-8513521"
 hideSummary: true

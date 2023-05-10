@@ -3,6 +3,7 @@ title: "Michael Kiwanuka - Home Again"
 artist: "Michael Kiwanuka"
 album_name: "Home Again"
 date: 2017-01-16T18:21:05.000000Z
+release_date: "2012-01-01"
 release_id: "3461309"
 slug: "home-again-3461309"
 hideSummary: true

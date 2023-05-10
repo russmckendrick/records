@@ -3,6 +3,7 @@ title: "King Crimson - Islands"
 artist: "King Crimson"
 album_name: "Islands"
 date: 2017-08-11T18:29:19.000000Z
+release_date: "1971-12-03"
 release_id: "6093915"
 slug: "islands-6093915"
 hideSummary: true

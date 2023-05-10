@@ -3,6 +3,7 @@ title: "David Bowie - Labyrinth (From The Original Soundtrack Of The Jim Henson 
 artist: "David Bowie"
 album_name: "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)"
 date: 2017-08-05T17:06:40.000000Z
+release_date: "1986-01-01"
 release_id: "10658031"
 slug: "labyrinth-from-the-original-soundtrack-of-the-jim-henson-film-10658031"
 hideSummary: true

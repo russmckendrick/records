@@ -3,6 +3,7 @@ title: "Thundercat - Drank"
 artist: "Thundercat"
 album_name: "Drank"
 date: 2018-03-16T16:38:54.000000Z
+release_date: "2017-02-24"
 release_id: "11703561"
 slug: "drank-11703561"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Arcade Fire - Neon Bible"
 artist: "Arcade Fire"
 album_name: "Neon Bible"
 date: 2018-01-26T20:03:56.000000Z
+release_date: "2007-03-02"
 release_id: "1022035"
 slug: "neon-bible-1022035"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Frank Turner - Songbook"
 artist: "Frank Turner"
 album_name: "Songbook"
 date: 2017-12-27T13:37:44.000000Z
+release_date: "2017-11-24"
 release_id: "11275632"
 slug: "songbook-11275632"
 hideSummary: true

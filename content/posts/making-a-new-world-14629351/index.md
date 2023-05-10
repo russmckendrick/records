@@ -3,6 +3,7 @@ title: "Field Music - Making A New World"
 artist: "Field Music"
 album_name: "Making A New World"
 date: 2020-01-10T18:20:53.000000Z
+release_date: "2020-01-10"
 release_id: "14629351"
 slug: "making-a-new-world-14629351"
 hideSummary: true

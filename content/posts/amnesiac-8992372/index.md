@@ -3,6 +3,7 @@ title: "Radiohead - Amnesiac"
 artist: "Radiohead"
 album_name: "Amnesiac"
 date: 2016-10-01T10:33:37.000000Z
+release_date: "2001-06-04"
 release_id: "8992372"
 slug: "amnesiac-8992372"
 hideSummary: true

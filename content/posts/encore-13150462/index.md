@@ -3,6 +3,7 @@ title: "The Specials - Encore"
 artist: "The Specials"
 album_name: "Encore"
 date: 2019-02-01T18:56:27.000000Z
+release_date: "2019-02-01"
 release_id: "13150462"
 slug: "encore-13150462"
 hideSummary: true

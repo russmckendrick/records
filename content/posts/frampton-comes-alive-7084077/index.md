@@ -3,6 +3,7 @@ title: "Peter Frampton - Frampton Comes Alive!"
 artist: "Peter Frampton"
 album_name: "Frampton Comes Alive!"
 date: 2019-01-05T11:38:49.000000Z
+release_date: "1976-01-06"
 release_id: "7084077"
 slug: "frampton-comes-alive-7084077"
 hideSummary: true

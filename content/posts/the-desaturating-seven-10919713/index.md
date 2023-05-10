@@ -3,6 +3,7 @@ title: "Primus - The Desaturating Seven"
 artist: "Primus"
 album_name: "The Desaturating Seven"
 date: 2017-09-29T17:23:38.000000Z
+release_date: "2017-09-29"
 release_id: "10919713"
 slug: "the-desaturating-seven-10919713"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Radiohead - The Bends"
 artist: "Radiohead"
 album_name: "The Bends"
 date: 2016-01-31T14:12:42.000000Z
+release_date: "1995-03-08"
 release_id: "1594061"
 slug: "the-bends-1594061"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Kim Gordon - No Home Record"
 artist: "Kim Gordon"
 album_name: "No Home Record"
 date: 2019-10-11T14:37:42.000000Z
+release_date: "2019-10-11"
 release_id: "14238997"
 slug: "no-home-record-14238997"
 hideSummary: true

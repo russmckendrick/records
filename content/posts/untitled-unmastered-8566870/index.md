@@ -3,6 +3,7 @@ title: "Kendrick Lamar - Untitled Unmastered."
 artist: "Kendrick Lamar"
 album_name: "Untitled Unmastered."
 date: 2017-01-23T17:31:10.000000Z
+release_date: "2016-03-04"
 release_id: "8566870"
 slug: "untitled-unmastered-8566870"
 hideSummary: true

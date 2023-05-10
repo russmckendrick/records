@@ -3,6 +3,7 @@ title: "Nirvana - Nevermind"
 artist: "Nirvana"
 album_name: "Nevermind"
 date: 2022-06-01T01:31:11.000000Z
+release_date: "1991-09-24"
 release_id: "20914213"
 slug: "nevermind-20914213"
 hideSummary: true

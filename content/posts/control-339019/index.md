@@ -3,6 +3,7 @@ title: "Janet Jackson - Control"
 artist: "Janet Jackson"
 album_name: "Control"
 date: 2020-08-01T12:44:39.000000Z
+release_date: "1986-02-04"
 release_id: "339019"
 slug: "control-339019"
 hideSummary: true

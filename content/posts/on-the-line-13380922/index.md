@@ -3,6 +3,7 @@ title: "Jenny Lewis - On The Line"
 artist: "Jenny Lewis"
 album_name: "On The Line"
 date: 2019-03-23T13:39:23.000000Z
+release_date: "2019-03-22"
 release_id: "13380922"
 slug: "on-the-line-13380922"
 hideSummary: true

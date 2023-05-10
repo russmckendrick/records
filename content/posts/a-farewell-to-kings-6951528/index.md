@@ -3,6 +3,7 @@ title: "Rush - A Farewell To Kings"
 artist: "Rush"
 album_name: "A Farewell To Kings"
 date: 2017-02-19T10:40:04.000000Z
+release_date: "1977-09-01"
 release_id: "6951528"
 slug: "a-farewell-to-kings-6951528"
 hideSummary: true

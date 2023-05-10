@@ -3,6 +3,7 @@ title: "Orbital - Optical Delusion"
 artist: "Orbital"
 album_name: "Optical Delusion"
 date: 2023-02-20T05:07:04.000000Z
+release_date: "2023-02-17"
 release_id: "25853389"
 slug: "optical-delusion-25853389"
 hideSummary: true

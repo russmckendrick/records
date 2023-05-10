@@ -3,6 +3,7 @@ title: "Boston - Boston"
 artist: "Boston"
 album_name: "Boston"
 date: 2018-11-17T19:36:07.000000Z
+release_date: "1976-08-25"
 release_id: "10857591"
 slug: "boston-10857591"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Prince - Originals"
 artist: "Prince"
 album_name: "Originals"
 date: 2019-07-20T10:15:25.000000Z
+release_date: "2019-06-07"
 release_id: "13737987"
 slug: "originals-13737987"
 hideSummary: true

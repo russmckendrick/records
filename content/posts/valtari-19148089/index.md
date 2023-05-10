@@ -3,6 +3,7 @@ title: "Sigur Rós - Valtari"
 artist: "Sigur Rós"
 album_name: "Valtari"
 date: 2021-07-03T06:11:15.000000Z
+release_date: "2012-05-28"
 release_id: "19148089"
 slug: "valtari-19148089"
 hideSummary: true

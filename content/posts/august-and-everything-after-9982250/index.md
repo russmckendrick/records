@@ -3,6 +3,7 @@ title: "Counting Crows - August And Everything After"
 artist: "Counting Crows"
 album_name: "August And Everything After"
 date: 2017-06-10T11:12:30.000000Z
+release_date: "1993-01-01"
 release_id: "9982250"
 slug: "august-and-everything-after-9982250"
 hideSummary: true

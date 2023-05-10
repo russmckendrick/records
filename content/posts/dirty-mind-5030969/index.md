@@ -3,6 +3,7 @@ title: "Prince - Dirty Mind"
 artist: "Prince"
 album_name: "Dirty Mind"
 date: 2016-10-23T08:56:22.000000Z
+release_date: "1980-10-08"
 release_id: "5030969"
 slug: "dirty-mind-5030969"
 hideSummary: true

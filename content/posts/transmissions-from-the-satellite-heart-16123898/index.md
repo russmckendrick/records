@@ -3,6 +3,7 @@ title: "The Flaming Lips - Transmissions From The Satellite Heart"
 artist: "The Flaming Lips"
 album_name: "Transmissions From The Satellite Heart"
 date: 2021-03-10T08:46:12.000000Z
+release_date: "1993-06-22"
 release_id: "16123898"
 slug: "transmissions-from-the-satellite-heart-16123898"
 hideSummary: true

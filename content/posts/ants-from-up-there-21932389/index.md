@@ -3,6 +3,7 @@ title: "Black Country, New Road - Ants From Up There"
 artist: "Black Country, New Road"
 album_name: "Ants From Up There"
 date: 2022-02-04T03:58:24.000000Z
+release_date: "2022-02-04"
 release_id: "21932389"
 slug: "ants-from-up-there-21932389"
 hideSummary: true

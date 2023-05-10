@@ -3,6 +3,7 @@ title: "Sepultura - Roots"
 artist: "Sepultura"
 album_name: "Roots"
 date: 2017-11-03T18:39:15.000000Z
+release_date: "1996-02-20"
 release_id: "11088399"
 slug: "roots-11088399"
 hideSummary: true

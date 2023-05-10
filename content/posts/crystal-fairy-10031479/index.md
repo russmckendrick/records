@@ -3,6 +3,7 @@ title: "Crystal Fairy - Crystal Fairy"
 artist: "Crystal Fairy"
 album_name: "Crystal Fairy"
 date: 2017-04-11T17:18:59.000000Z
+release_date: "2017-02-24"
 release_id: "10031479"
 slug: "crystal-fairy-10031479"
 hideSummary: true

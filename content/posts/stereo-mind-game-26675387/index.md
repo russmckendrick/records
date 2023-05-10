@@ -3,6 +3,7 @@ title: "Daughter - Stereo Mind Game"
 artist: "Daughter"
 album_name: "Stereo Mind Game"
 date: 2023-04-23T04:35:10.000000Z
+release_date: "2023-04-07"
 release_id: "26675387"
 slug: "stereo-mind-game-26675387"
 hideSummary: true

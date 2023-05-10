@@ -3,6 +3,7 @@ title: "The Stone Roses - The Stone Roses"
 artist: "The Stone Roses"
 album_name: "The Stone Roses"
 date: 2015-08-09T08:35:22.000000Z
+release_date: "1989-05-02"
 release_id: "5581078"
 slug: "the-stone-roses-5581078"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "The Flaming Lips - Oczy Mlody"
 artist: "The Flaming Lips"
 album_name: "Oczy Mlody"
 date: 2022-03-21T06:20:07.000000Z
+release_date: "2017-01-13"
 release_id: "9646592"
 slug: "oczy-mlody-9646592"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Suede - Coming Up"
 artist: "Suede"
 album_name: "Coming Up"
 date: 2016-07-18T17:36:55.000000Z
+release_date: "2011-06-13"
 release_id: "5410320"
 slug: "coming-up-5410320"
 hideSummary: true

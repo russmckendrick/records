@@ -3,6 +3,7 @@ title: "Talk Talk - It's My Life"
 artist: "Talk Talk"
 album_name: "It's My Life"
 date: 2020-10-10T10:40:26.000000Z
+release_date: "1984-02-13"
 release_id: "16032806"
 slug: "it-s-my-life-16032806"
 hideSummary: true

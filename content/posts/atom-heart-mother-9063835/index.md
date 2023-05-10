@@ -3,6 +3,7 @@ title: "Pink Floyd - Atom Heart Mother"
 artist: "Pink Floyd"
 album_name: "Atom Heart Mother"
 date: 2016-09-23T16:49:45.000000Z
+release_date: "1970-10-02"
 release_id: "9063835"
 slug: "atom-heart-mother-9063835"
 hideSummary: true

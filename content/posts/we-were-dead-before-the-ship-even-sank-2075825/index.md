@@ -3,6 +3,7 @@ title: "Modest Mouse - We Were Dead Before The Ship Even Sank"
 artist: "Modest Mouse"
 album_name: "We Were Dead Before The Ship Even Sank"
 date: 2017-08-23T17:35:15.000000Z
+release_date: "2007-03-20"
 release_id: "2075825"
 slug: "we-were-dead-before-the-ship-even-sank-2075825"
 hideSummary: true

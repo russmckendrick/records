@@ -3,6 +3,7 @@ title: "Led Zeppelin - Led Zeppelin II"
 artist: "Led Zeppelin"
 album_name: "Led Zeppelin II"
 date: 2017-02-26T10:57:38.000000Z
+release_date: "1969-10-22"
 release_id: "5734489"
 slug: "led-zeppelin-ii-5734489"
 hideSummary: true

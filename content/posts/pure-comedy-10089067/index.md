@@ -3,6 +3,7 @@ title: "Father John Misty - Pure Comedy"
 artist: "Father John Misty"
 album_name: "Pure Comedy"
 date: 2017-04-08T10:03:27.000000Z
+release_date: "2017-04-07"
 release_id: "10089067"
 slug: "pure-comedy-10089067"
 hideSummary: true

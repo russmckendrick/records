@@ -3,6 +3,7 @@ title: "Violent Femmes - Violent Femmes"
 artist: "Violent Femmes"
 album_name: "Violent Femmes"
 date: 2018-06-10T09:38:35.000000Z
+release_date: "1983-01-01"
 release_id: "12101265"
 slug: "violent-femmes-12101265"
 hideSummary: true

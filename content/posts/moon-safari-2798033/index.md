@@ -3,6 +3,7 @@ title: "AIR - Moon Safari"
 artist: "AIR"
 album_name: "Moon Safari"
 date: 2016-09-05T12:30:27.000000Z
+release_date: "1998-01-16"
 release_id: "2798033"
 slug: "moon-safari-2798033"
 hideSummary: true

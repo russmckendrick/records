@@ -3,6 +3,7 @@ title: "Kamasi Washington - The Epic"
 artist: "Kamasi Washington"
 album_name: "The Epic"
 date: 2016-03-26T15:16:51.000000Z
+release_date: "2015-05-04"
 release_id: "7383499"
 slug: "the-epic-7383499"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Nick Drake - Five Leaves Left"
 artist: "Nick Drake"
 album_name: "Five Leaves Left"
 date: 2016-08-05T14:56:00.000000Z
+release_date: "1969-07-03"
 release_id: "4968730"
 slug: "five-leaves-left-4968730"
 hideSummary: true

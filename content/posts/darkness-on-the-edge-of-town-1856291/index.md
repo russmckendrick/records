@@ -3,6 +3,7 @@ title: "Bruce Springsteen - Darkness On The Edge Of Town"
 artist: "Bruce Springsteen"
 album_name: "Darkness On The Edge Of Town"
 date: 2015-09-15T15:20:21.000000Z
+release_date: "1978-06-02"
 release_id: "1856291"
 slug: "darkness-on-the-edge-of-town-1856291"
 hideSummary: true

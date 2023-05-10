@@ -3,6 +3,7 @@ title: "Kevin Morby - This Is A Photograph"
 artist: "Kevin Morby"
 album_name: "This Is A Photograph"
 date: 2022-05-17T07:05:53.000000Z
+release_date: "2022-05-13"
 release_id: "23180702"
 slug: "this-is-a-photograph-23180702"
 hideSummary: true

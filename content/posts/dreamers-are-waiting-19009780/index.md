@@ -3,6 +3,7 @@ title: "Crowded House - Dreamers Are Waiting"
 artist: "Crowded House"
 album_name: "Dreamers Are Waiting"
 date: 2021-06-04T06:26:22.000000Z
+release_date: "2021-06-04"
 release_id: "19009780"
 slug: "dreamers-are-waiting-19009780"
 hideSummary: true

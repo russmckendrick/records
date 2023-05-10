@@ -3,6 +3,7 @@ title: "Laura Veirs - The Lookout"
 artist: "Laura Veirs"
 album_name: "The Lookout"
 date: 2018-04-20T17:55:25.000000Z
+release_date: "2018-04-13"
 release_id: "11865679"
 slug: "the-lookout-11865679"
 hideSummary: true

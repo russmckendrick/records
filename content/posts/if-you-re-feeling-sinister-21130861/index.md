@@ -3,6 +3,7 @@ title: "Belle & Sebastian - If You're Feeling Sinister"
 artist: "Belle & Sebastian"
 album_name: "If You're Feeling Sinister"
 date: 2021-12-07T13:04:16.000000Z
+release_date: "1996-11-18"
 release_id: "21130861"
 slug: "if-you-re-feeling-sinister-21130861"
 hideSummary: true

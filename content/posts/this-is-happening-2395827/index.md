@@ -3,6 +3,7 @@ title: "LCD Soundsystem - This Is Happening"
 artist: "LCD Soundsystem"
 album_name: "This Is Happening"
 date: 2017-06-04T10:36:49.000000Z
+release_date: "2010-05-17"
 release_id: "2395827"
 slug: "this-is-happening-2395827"
 hideSummary: true

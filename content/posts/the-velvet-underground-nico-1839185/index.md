@@ -3,6 +3,7 @@ title: "The Velvet Underground - The Velvet Underground & Nico"
 artist: "The Velvet Underground"
 album_name: "The Velvet Underground & Nico"
 date: 2016-01-10T12:53:11.000000Z
+release_date: "1967-03-12"
 release_id: "1839185"
 slug: "the-velvet-underground-nico-1839185"
 hideSummary: true

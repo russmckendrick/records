@@ -3,6 +3,7 @@ title: "Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan A
 artist: "Stevie Ray Vaughan & Double Trouble"
 album_name: "The Essential Stevie Ray Vaughan And Double Trouble"
 date: 2021-08-17T02:03:29.000000Z
+release_date: "2002-10-01"
 release_id: "9479922"
 slug: "the-essential-stevie-ray-vaughan-and-double-trouble-9479922"
 hideSummary: true

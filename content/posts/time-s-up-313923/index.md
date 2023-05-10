@@ -3,6 +3,7 @@ title: "Living Colour - Time's Up"
 artist: "Living Colour"
 album_name: "Time's Up"
 date: 2015-10-05T18:23:05.000000Z
+release_date: "1990-08-20"
 release_id: "313923"
 slug: "time-s-up-313923"
 hideSummary: true

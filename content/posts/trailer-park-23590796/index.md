@@ -3,6 +3,7 @@ title: "Beth Orton - Trailer Park"
 artist: "Beth Orton"
 album_name: "Trailer Park"
 date: 2022-06-18T05:46:48.000000Z
+release_date: "2008-10-13"
 release_id: "23590796"
 slug: "trailer-park-23590796"
 hideSummary: true

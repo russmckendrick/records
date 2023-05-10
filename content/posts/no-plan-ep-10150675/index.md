@@ -3,6 +3,7 @@ title: "David Bowie - No Plan EP"
 artist: "David Bowie"
 album_name: "No Plan EP"
 date: 2017-04-22T10:01:51.000000Z
+release_date: "2017-01-08"
 release_id: "10150675"
 slug: "no-plan-ep-10150675"
 hideSummary: true

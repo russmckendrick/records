@@ -3,6 +3,7 @@ title: "Prince And The Revolution - Purple Rain"
 artist: "Prince And The Revolution"
 album_name: "Purple Rain"
 date: 2015-08-09T08:34:25.000000Z
+release_date: "1984-06-25"
 release_id: "3021810"
 slug: "purple-rain-3021810"
 hideSummary: true

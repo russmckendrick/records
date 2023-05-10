@@ -3,6 +3,7 @@ title: "Crosby, Stills, Nash & Young - Déjà Vu"
 artist: "Crosby, Stills, Nash & Young"
 album_name: "Déjà Vu"
 date: 2021-05-14T09:52:07.000000Z
+release_date: "1970-03-11"
 release_id: "18715600"
 slug: "dj-vu-18715600"
 hideSummary: true

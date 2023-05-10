@@ -3,6 +3,7 @@ title: "The Black Crowes - Croweology"
 artist: "The Black Crowes"
 album_name: "Croweology"
 date: 2021-04-30T07:38:41.000000Z
+release_date: "2010-08-03"
 release_id: "18329314"
 slug: "croweology-18329314"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Suede - Dog Man Star"
 artist: "Suede"
 album_name: "Dog Man Star"
 date: 2016-10-01T10:34:12.000000Z
+release_date: "1994-10-10"
 release_id: "5448646"
 slug: "dog-man-star-5448646"
 hideSummary: true

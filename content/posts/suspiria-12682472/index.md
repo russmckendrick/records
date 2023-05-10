@@ -3,6 +3,7 @@ title: "Thom Yorke - Suspiria"
 artist: "Thom Yorke"
 album_name: "Suspiria"
 date: 2018-12-27T18:11:35.000000Z
+release_date: "2018-10-26"
 release_id: "12682472"
 slug: "suspiria-12682472"
 hideSummary: true

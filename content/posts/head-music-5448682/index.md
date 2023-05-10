@@ -3,6 +3,7 @@ title: "Suede - Head Music"
 artist: "Suede"
 album_name: "Head Music"
 date: 2017-05-04T21:09:51.000000Z
+release_date: "2011-06-20"
 release_id: "5448682"
 slug: "head-music-5448682"
 hideSummary: true

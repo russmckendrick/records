@@ -3,6 +3,7 @@ title: "Bobbie Gentry - The Delta Sweete"
 artist: "Bobbie Gentry"
 album_name: "The Delta Sweete"
 date: 2020-08-01T10:22:53.000000Z
+release_date: "2019-02-08"
 release_id: "15623295"
 slug: "the-delta-sweete-15623295"
 hideSummary: true

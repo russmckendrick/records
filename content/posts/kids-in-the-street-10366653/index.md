@@ -3,6 +3,7 @@ title: "Justin Townes Earle - Kids In The Street"
 artist: "Justin Townes Earle"
 album_name: "Kids In The Street"
 date: 2019-05-25T17:27:53.000000Z
+release_date: "2017-05-26"
 release_id: "10366653"
 slug: "kids-in-the-street-10366653"
 hideSummary: true

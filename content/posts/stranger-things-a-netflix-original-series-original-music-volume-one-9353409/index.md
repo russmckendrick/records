@@ -3,6 +3,7 @@ title: "Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music 
 artist: "Kyle Dixon"
 album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume One"
 date: 2016-11-14T18:59:13.000000Z
+release_date: "2016-08-12"
 release_id: "9353409"
 slug: "stranger-things-a-netflix-original-series-original-music-volume-one-9353409"
 hideSummary: true

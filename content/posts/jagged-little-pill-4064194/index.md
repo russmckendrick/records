@@ -3,6 +3,7 @@ title: "Alanis Morissette - Jagged Little Pill"
 artist: "Alanis Morissette"
 album_name: "Jagged Little Pill"
 date: 2017-04-17T13:21:29.000000Z
+release_date: "1995-06-13"
 release_id: "4064194"
 slug: "jagged-little-pill-4064194"
 hideSummary: true

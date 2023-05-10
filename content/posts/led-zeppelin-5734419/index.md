@@ -3,6 +3,7 @@ title: "Led Zeppelin - Led Zeppelin"
 artist: "Led Zeppelin"
 album_name: "Led Zeppelin"
 date: 2017-02-26T10:57:15.000000Z
+release_date: "1971-11-08"
 release_id: "5734419"
 slug: "led-zeppelin-5734419"
 hideSummary: true

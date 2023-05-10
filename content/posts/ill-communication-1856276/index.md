@@ -3,6 +3,7 @@ title: "Beastie Boys - Ill Communication"
 artist: "Beastie Boys"
 album_name: "Ill Communication"
 date: 2016-04-30T15:21:14.000000Z
+release_date: "1994-05-31"
 release_id: "1856276"
 slug: "ill-communication-1856276"
 hideSummary: true

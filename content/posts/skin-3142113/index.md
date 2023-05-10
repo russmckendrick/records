@@ -3,6 +3,7 @@ title: "Skin - Skin"
 artist: "Skin"
 album_name: "Skin"
 date: 2018-12-17T19:15:09.000000Z
+release_date: "2016-05-27"
 release_id: "3142113"
 slug: "skin-3142113"
 hideSummary: true

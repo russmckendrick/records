@@ -3,6 +3,7 @@ title: "Ramones - Ramones"
 artist: "Ramones"
 album_name: "Ramones"
 date: 2016-10-17T16:23:33.000000Z
+release_date: "1976-04-23"
 release_id: "9022105"
 slug: "ramones-9022105"
 hideSummary: true

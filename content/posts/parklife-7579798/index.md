@@ -3,6 +3,7 @@ title: "Blur - Parklife"
 artist: "Blur"
 album_name: "Parklife"
 date: 2016-07-05T16:23:28.000000Z
+release_date: "1994-04-25"
 release_id: "7579798"
 slug: "parklife-7579798"
 hideSummary: true

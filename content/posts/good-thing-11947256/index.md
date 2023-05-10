@@ -3,6 +3,7 @@ title: "Leon Bridges - Good Thing"
 artist: "Leon Bridges"
 album_name: "Good Thing"
 date: 2019-08-23T14:19:27.000000Z
+release_date: "2018-05-04"
 release_id: "11947256"
 slug: "good-thing-11947256"
 hideSummary: true

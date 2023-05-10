@@ -3,6 +3,7 @@ title: "Fiona Apple - Tidal"
 artist: "Fiona Apple"
 album_name: "Tidal"
 date: 2017-05-16T18:15:12.000000Z
+release_date: "1996-07-23"
 release_id: "10241165"
 slug: "tidal-10241165"
 hideSummary: true

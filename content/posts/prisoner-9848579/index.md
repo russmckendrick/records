@@ -3,6 +3,7 @@ title: "Ryan Adams - Prisoner"
 artist: "Ryan Adams"
 album_name: "Prisoner"
 date: 2018-10-10T17:51:41.000000Z
+release_date: "2017-02-17"
 release_id: "9848579"
 slug: "prisoner-9848579"
 hideSummary: true

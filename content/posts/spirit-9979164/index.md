@@ -3,6 +3,7 @@ title: "Depeche Mode - Spirit"
 artist: "Depeche Mode"
 album_name: "Spirit"
 date: 2017-03-18T12:18:16.000000Z
+release_date: "2017-03-17"
 release_id: "9979164"
 slug: "spirit-9979164"
 hideSummary: true

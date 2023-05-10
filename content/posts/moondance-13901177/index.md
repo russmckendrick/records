@@ -3,6 +3,7 @@ title: "Van Morrison - Moondance"
 artist: "Van Morrison"
 album_name: "Moondance"
 date: 2019-08-03T05:18:24.000000Z
+release_date: "1970-01-27"
 release_id: "13901177"
 slug: "moondance-13901177"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Rush - Hemispheres"
 artist: "Rush"
 album_name: "Hemispheres"
 date: 2015-08-09T08:38:01.000000Z
+release_date: "1978-10-29"
 release_id: "7036854"
 slug: "hemispheres-7036854"
 hideSummary: true

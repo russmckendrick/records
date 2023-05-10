@@ -3,6 +3,7 @@ title: "Gary Clark Jr. - The Story Of Sonny Boy Slim"
 artist: "Gary Clark Jr."
 album_name: "The Story Of Sonny Boy Slim"
 date: 2015-09-22T19:05:10.000000Z
+release_date: "2015-09-11"
 release_id: "7463093"
 slug: "the-story-of-sonny-boy-slim-7463093"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "David Gilmour - Rattle That Lock"
 artist: "David Gilmour"
 album_name: "Rattle That Lock"
 date: 2015-09-18T17:27:13.000000Z
+release_date: "2015-09-18"
 release_id: "7252492"
 slug: "rattle-that-lock-7252492"
 hideSummary: true

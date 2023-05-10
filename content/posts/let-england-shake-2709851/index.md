@@ -3,6 +3,7 @@ title: "PJ Harvey - Let England Shake"
 artist: "PJ Harvey"
 album_name: "Let England Shake"
 date: 2017-09-29T17:28:42.000000Z
+release_date: "2011-01-01"
 release_id: "2709851"
 slug: "let-england-shake-2709851"
 hideSummary: true

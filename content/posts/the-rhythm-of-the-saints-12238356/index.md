@@ -3,6 +3,7 @@ title: "Paul Simon - The Rhythm Of The Saints"
 artist: "Paul Simon"
 album_name: "The Rhythm Of The Saints"
 date: 2019-04-26T12:43:37.000000Z
+release_date: "1990-10-01"
 release_id: "12238356"
 slug: "the-rhythm-of-the-saints-12238356"
 hideSummary: true

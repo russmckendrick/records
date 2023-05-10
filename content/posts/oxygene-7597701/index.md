@@ -3,6 +3,7 @@ title: "Jean-Michel Jarre - Oxygene"
 artist: "Jean-Michel Jarre"
 album_name: "Oxygene"
 date: 2015-12-28T14:08:01.000000Z
+release_date: "2015-08-28"
 release_id: "7597701"
 slug: "oxygene-7597701"
 hideSummary: true

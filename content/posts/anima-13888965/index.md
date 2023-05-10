@@ -3,6 +3,7 @@ title: "Thom Yorke - Anima"
 artist: "Thom Yorke"
 album_name: "Anima"
 date: 2019-07-20T10:15:42.000000Z
+release_date: "2019-06-27"
 release_id: "13888965"
 slug: "anima-13888965"
 hideSummary: true

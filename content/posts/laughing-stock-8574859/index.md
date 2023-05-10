@@ -3,6 +3,7 @@ title: "Talk Talk - Laughing Stock"
 artist: "Talk Talk"
 album_name: "Laughing Stock"
 date: 2016-10-22T12:17:26.000000Z
+release_date: "1991-01-01"
 release_id: "8574859"
 slug: "laughing-stock-8574859"
 hideSummary: true

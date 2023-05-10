@@ -3,6 +3,7 @@ title: "Cream - Disraeli Gears"
 artist: "Cream"
 album_name: "Disraeli Gears"
 date: 2016-04-22T16:36:08.000000Z
+release_date: "1967-01-01"
 release_id: "7010186"
 slug: "disraeli-gears-7010186"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "The National - I Am Easy To Find"
 artist: "The National"
 album_name: "I Am Easy To Find"
 date: 2019-05-17T18:27:54.000000Z
+release_date: "2019-05-17"
 release_id: "13632090"
 slug: "i-am-easy-to-find-13632090"
 hideSummary: true

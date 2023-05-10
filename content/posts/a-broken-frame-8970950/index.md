@@ -3,6 +3,7 @@ title: "Depeche Mode - A Broken Frame"
 artist: "Depeche Mode"
 album_name: "A Broken Frame"
 date: 2017-02-20T19:08:15.000000Z
+release_date: "1982-09-27"
 release_id: "8970950"
 slug: "a-broken-frame-8970950"
 hideSummary: true

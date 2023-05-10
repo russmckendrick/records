@@ -3,6 +3,7 @@ title: "Aphex Twin - Cheetah EP"
 artist: "Aphex Twin"
 album_name: "Cheetah EP"
 date: 2016-07-08T16:30:08.000000Z
+release_date: "2016-07-08"
 release_id: "8720448"
 slug: "cheetah-ep-8720448"
 hideSummary: true

@@ -3,6 +3,7 @@ title: "Phil Collins - No Jacket Required"
 artist: "Phil Collins"
 album_name: "No Jacket Required"
 date: 2016-01-11T17:44:45.000000Z
+release_date: "1985-01-25"
 release_id: "665295"
 slug: "no-jacket-required-665295"
 hideSummary: true

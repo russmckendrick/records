@@ -3,6 +3,7 @@ title: "Led Zeppelin - In Through The Out Door"
 artist: "Led Zeppelin"
 album_name: "In Through The Out Door"
 date: 2017-02-26T10:58:22.000000Z
+release_date: "1979-08-15"
 release_id: "7303532"
 slug: "in-through-the-out-door-7303532"
 hideSummary: true
