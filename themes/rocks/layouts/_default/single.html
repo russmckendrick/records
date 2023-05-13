@@ -27,17 +27,17 @@
         <ul class="icons">
           {{- $artist := .Language.Params.Taxonomies.tag | default "artist"
           }}{{- range ($.GetTerms $artist) }}<li><a href="{{ .Permalink }}"
-              class="icon alt fa-music"> {{ .LinkTitle }}</a></li>{{- end }}
+              class=""><i class="fa-sharp fa-solid fa-music"></i> {{ .LinkTitle }}</a></li>{{- end }}
           {{- $genres := .Language.Params.Taxonomies.tag | default "genres"
-          }}{{- range ($.GetTerms $genres) }}<li><a href="{{ .Permalink }}"
-              class="icon alt fa-headphones"> {{ .LinkTitle }}</a></li>{{- end
+          }}{{- range ($.GetTerms $genres) }}<li><i class="fa-solid fa-headphones"></i> <a href="{{ .Permalink }}"
+              class=""> {{ .LinkTitle }}</a></li>{{- end
           }}
           {{- $styles := .Language.Params.Taxonomies.tag | default "styles"
           }}{{- range ($.GetTerms $styles) }}<li><a href="{{ .Permalink }}"
-              class="icon alt fa-headphones"> {{ .LinkTitle }}</a></li>{{- end
+              class=""><i class="fa-solid fa-headphones"></i> {{ .LinkTitle }}</a></li>{{- end
           }}
           <li><a href="/random"
-              class="icon alt fa-random"> Random</a></li>
+              class=""><i class="fa-solid fa-shuffle"></i> Random</a></li>
         </ul>
       </div>
     </div>
