@@ -5,6 +5,6 @@ The band's biggest commercial success came with their second album Darklands, wh
 After releasing six albums, the band broke up in 1999 as a result of an onstage altercation the year prior that saw William Reid prematurely depart a tour after fighting with an intoxicated Jim Reid. They reunited in 2007 and released the album Damage and Joy in 2017, their first in 19 years.
 The band recorded twelve top 40 singles and two top 10 hits on the UK Singles Chart throughout their career."
 image: "the-jesus-and-mary-chain.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/the-jesus-and-mary-chain/206071588"
 wikipedia_url: "https://en.wikipedia.org/wiki/The_Jesus_and_Mary_Chain"
 ---

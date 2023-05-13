@@ -143,6 +143,7 @@ styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 
 <!-- section break -->
 
+"Ace of Spades" is a song by English heavy metal band Motörhead and the title track to the album Ace of Spades. It was released as a single in October 1980.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ace-of-spades/1591509047" >}}
@@ -154,6 +155,8 @@ styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ace_of_Spades_(song) |
+| Wikipedia Summary | "Ace of Spades" is a song by English heavy metal band Motörhead and the title track to the album Ace of Spades. It was released as a single in October 1980. |
 | Release Year   | 2020                                   |
 | Format         | Box Set Deluxe Edition (40th Anniversary), Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Album Stereo, Vinyl 2× LP Album Stereo, Vinyl 2× LP Album Stereo, Vinyl 10" 45 RPM EP Stereo, DVD Multichannel Album Compilation |
 | Label          | BMG |
