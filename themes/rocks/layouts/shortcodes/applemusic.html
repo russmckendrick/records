@@ -6,7 +6,7 @@ Parameters:
 -->
 {{ $embedUrl := replace (.Get "url") "music.apple.com" "embed.music.apple.com" }}
 <iframe id="embedPlayer" style="width:{{ default "100%" (.Get "width") }}"
-    src="{{ $embedUrl }}?app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto"
+    src="{{ $embedUrl }}?app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=dark"
     height="{{ default "450px" (.Get "height") }}" frameborder="2" sandbox="allow-forms
     allow-popups allow-same-origin allow-scripts
     allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media

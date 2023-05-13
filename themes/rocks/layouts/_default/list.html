@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 <section id="three" class="spotlights">
     <div class="inner">
         <header class="major">
@@ -7,14 +8,14 @@
         {{ if .Params.image }}
         <div class="row gtr-200">
             <div class="col-6 col-12-medium">
-                <p>{{ .Summary }}<br>
+                <p>{{ .Summary }}</p><br>
                     {{ if ne .Params.apple_music_artist_url "None" }}
                     <ul class="actions">
                         <li><a href="{{ .Params.apple_music_artist_url }}"
                                 class="button">Goto {{ .Title }} on Apple Music</a></li>
                     </ul>
 
-                    {{ end }}</p>
+                    {{ end }}
             </div>
             <div class="col-6 col-12-medium">
                 <span class="image fit"><img src="{{ (path.Join

@@ -12,7 +12,7 @@ enableRobotsTXT = true
   titleBold = "McKendrick"
   titleLight = "Rocks"
   homeHeader = "Hi, my name is Russ"
-  homeSubheader = "and this is my record collection, listed in the order I added them."
+  homeSubheader = "and this is my record collection, listed in the order I purchased them."
   homeButton = "View my collection"
 
 [menu]
