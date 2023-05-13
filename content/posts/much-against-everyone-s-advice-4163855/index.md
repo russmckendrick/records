@@ -10,6 +10,10 @@ cover:
     image: "much-against-everyone-s-advice-4163855.jpg"
     alt: "Much Against Everyone's Advice by Soulwax"
     caption: "Much Against Everyone's Advice by Soulwax"
+additional_images:
+    - "https://i.discogs.com/lVOAb5jAzmolbrEVgRQLXpe6HQimMozDQjcJym3vsLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTM1NzQ5Mzkz/Mi0yNjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/A1NwUfZoWEQP_Kk915mONT_I2ZhrD-YGQSMSu8MX4RE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTM1NzQ5Mzky/NC03NTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/fbCOk-4G1Rln6SvqtBahonxbC20JhCipn5DYXS1kT88/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTYxMzY3MTIz/My0xNjkyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -32,20 +36,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/much-against-everyones-advice/15159110" >}}
-
-
-
-
-
 ## Videos
 ### 01   Conversation Intercom - Soulwax
 {{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}<br>
-
 ### More Videos
 
 - [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
@@ -59,13 +55,15 @@ styles: ["Alternative Rock"]
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
 - [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2012                                   |
-| Discogs Link   | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855-Soulwax-Much-Against-Everyones-Advice) |
-| Label          | [PIAS] Recordings |
 | Format         | Vinyl LP Album Reissue |
+| Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 010 LP |
 | Notes | Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings |
+| Discogs URL    | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855-Soulwax-Much-Against-Everyones-Advice) |

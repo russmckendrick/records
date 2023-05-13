@@ -10,6 +10,8 @@ cover:
     image: "dojo-6278453.jpg"
     alt: "Dojo by Jouis"
     caption: "Dojo by Jouis"
+additional_images:
+    - "https://i.discogs.com/xdZ1kxWIfYL-CD3e7JGf5tXHDryLrAbn-FoQhS2LhcY/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzg0/NTMtMTQxNTQ0Nzkw/MC02NzY4LmpwZWc.jpeg"
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ---
@@ -30,20 +32,12 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dojo/892082605" >}}
-
-
-
-
-
 ## Videos
 ### Jouis ► Universe Goggles [HQ Audio] Dojo 2014
 {{< youtube id="zsoss5XuRLM" title="Jouis ► Universe Goggles [HQ Audio] Dojo 2014" >}}<br>
-
 ### More Videos
 
 - [All That Is and Is One](https://www.youtube.com/watch?v=0jw7-AulkFI)
@@ -54,13 +48,15 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 - [Universe Goggles](https://www.youtube.com/watch?v=ZVAL2CkJO5I)
 - [New Moon](https://www.youtube.com/watch?v=1W1eR2hEmPQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Jouis - Dojo](https://www.discogs.com/release/6278453-Jouis-Dojo) |
-| Label          | Beetroot |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Beetroot |
 | Catalog Number | BR 001 |
 | Notes | All music & lyrics written by Jouis |
+| Discogs URL    | [Jouis - Dojo](https://www.discogs.com/release/6278453-Jouis-Dojo) |

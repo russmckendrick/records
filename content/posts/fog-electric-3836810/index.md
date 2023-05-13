@@ -10,6 +10,8 @@ cover:
     image: "fog-electric-3836810.jpg"
     alt: "Fog Electric by North Atlantic Oscillation"
     caption: "Fog Electric by North Atlantic Oscillation"
+additional_images:
+    - "https://i.discogs.com/yh0StYvssS57FJGgjWyhd4Z4AbjGB1uMqwQhIAOzTlY/rs:fit/g:sm/q:90/h:380/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzY4/MTAtMTM0NjMzNzc4/MC05MTE5LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock"]
 ---
@@ -30,33 +32,27 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fog-electric-deluxe-edition/674007811" >}}
-
-
-
-
-
 ## Videos
 ### North Atlantic Oscillation - Soft Coda
 {{< youtube id="M43P_8UkA5A" title="North Atlantic Oscillation - Soft Coda" >}}<br>
-
 ### More Videos
 
 - [North Atlantic Oscillation - Savage with Barometer (Fog Electric)](https://www.youtube.com/watch?v=7JDhZb67cV4)
 - [North Atlantic Oscillation - Chirality (from Fog Electric)](https://www.youtube.com/watch?v=jMPe7pdj6Kw)
 - [North Atlantic Oscillation - The Receiver](https://www.youtube.com/watch?v=lddEcLhINGA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2012                                   |
-| Discogs Link   | [North Atlantic Oscillation - Fog Electric](https://www.discogs.com/release/3836810-North-Atlantic-Oscillation-Fog-Electric) |
-| Label          | Kscope |
 | Format         | Vinyl LP Album |
+| Label          | Kscope |
 | Catalog Number | KSCOPE828 |
 | Notes | First 500 preorders received a 7" with this LP. Last track "Theory Of Tides" is not included on the LP version. Includes download code.  |
+| Discogs URL    | [North Atlantic Oscillation - Fog Electric](https://www.discogs.com/release/3836810-North-Atlantic-Oscillation-Fog-Electric) |

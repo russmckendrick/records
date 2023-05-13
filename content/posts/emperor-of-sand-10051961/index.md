@@ -11,6 +11,20 @@ cover:
     image: "emperor-of-sand-10051961.jpg"
     alt: "Emperor Of Sand by Mastodon"
     caption: "Emperor Of Sand by Mastodon"
+additional_images:
+    - "https://i.discogs.com/enIV4St81IwzYFeY_6JEj5TD-cFe2t3CK4rWVe1XRi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE2MzI1NzY2/NTAtNTEzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/UIzJKEz2z3GNz0DhcrBnT3kLIgGl0TKdKfWPaF3Myww/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODAz/OTAtMzk0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Uh3A3mxp-zbYDD4l5ijSC1LJH_Z-Xa6rY0lU_TQIFcw/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODAz/OTAtMjM1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/oZ75ofSSeaW4yBnLoLudApt3fSbwfHRs8a4tRf80mwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE2MzI1NzY2/NTAtNzQzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/bsPHN-wE1trU7lph8Bs6l0PDCGpXWHFQbFQLgTj47aE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODA0/MDMtOTkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/g8nY9o0PFp6Km_BLjYL2VOQ-aG5SWTq5SXs5TLTTH9Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODA0/MDMtMTg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/R2yW9jYg3R6TSecliPe9nRmETozAganmmEm3g1Ptz1U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODA0/MDMtMjM4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/MDZqHlVYXnlf9y1OVMJBZkYaBYxOV2LE-8juqfUjz0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODA0/MDMtMTY2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/9O7YEOSpIOHckAMbJ2dVrmxl6DUfMeh7WjZSUwecREY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODAz/OTEtNDc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/fPbSHCS6YAzUu_rMPmZks8U0SsbtXc6Nz-GNkhdC1EQ/rs:fit/g:sm/q:90/h:598/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODAz/OTAtNDA5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/xhsHd3mAUY-7IvGtscuc6RcXe6Aak0Rp0ej-j0OmIIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODA0/MTMtMjQ5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/SVQ0_DT6rqCtaVZn-4CXl06C-213e8r7GeACt4-ZE-0/rs:fit/g:sm/q:90/h:775/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE2NDkzNDQy/OTMtNzcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/uSTswBBjkj1wqC_Iz0Kt0pXif-T8eeO0bJ-n6RQd_yg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE1ODIwNTkw/NzAtNTY3NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Sludge Metal"]
 ---
@@ -33,35 +47,30 @@ styles: ["Progressive Metal", "Sludge Metal"]
 
 <!-- section break -->
 
-
 With their customary cross-breeding of rock genres, the Georgians reflect on mortality and serious illness via the story of a condemned man wandering the desert. So far, so prog. Indeed, “Jaguar God” spends eight minutes running the gamut from folk-rock and psychedelic abandon to iron-plated riffs and acrobatic fretwork. This deeply emotional record isn’t a wholesale return to the intricate epics of 2009’s <i>Crack the Skye</i>, though: the punchy hard rock of “Show Yourself” and the melodic sludge of “Steambreather” deliver instant, fun-sized thrills.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emperor-of-sand/1195230194" >}}
-
-
-
-
-
 ## Videos
 ### Mastodon - Steambreather [Official Music Video]
 {{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather [Official Music Video]" >}}<br>
-
 ### More Videos
 
 - [Mastodon - Sultan's Curse [Official Audio]](https://www.youtube.com/watch?v=Og39iIBeOHI)
 - [Mastodon - Andromeda [Official Audio]](https://www.youtube.com/watch?v=8Ry7FStwey4)
 - [Mastodon - Show Yourself [Official Music Video]](https://www.youtube.com/watch?v=gUGda7GdZPQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [Mastodon - Emperor Of Sand](https://www.discogs.com/release/10051961-Mastodon-Emperor-Of-Sand) |
-| Label          | Reprise Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Emperor_of_Sand |
+| Wikipedia Summary | Emperor of Sand is the seventh studio album by American heavy metal band Mastodon. It was released on March 31, 2017 through record label Reprise Records. The album's first single, "Show Yourself", peaked at number 4 on the US Billboard Mainstream Rock Songs chart in 2017. The second single, "Steambreather", peaked at number 18 on the same chart. It was ranked on several year-end lists, including at number three on The Independent's "Top 20 Rock & Metal Albums of 2017".<br><br> |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (180 g) |
+| Label          | Reprise Records |
 | Catalog Number | 9362-49140-5 |
 | Notes | 180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.  1st catalog number on spine. 2nd catalog number on side A & C labels. 3rd catalog number on runout grooves.  All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.  Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA. Mixed at Henson Recording Studios, Hollywood, CA. Mastered at Casa de Amor, Atlanta, GA.  Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.  Printed on back cover: © ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.  Printed on side A & C labels: © ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1 |
+| Discogs URL    | [Mastodon - Emperor Of Sand](https://www.discogs.com/release/10051961-Mastodon-Emperor-Of-Sand) |

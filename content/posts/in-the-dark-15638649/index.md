@@ -10,6 +10,8 @@ cover:
     image: "in-the-dark-15638649.jpg"
     alt: "In The Dark by Toots & The Maytals"
     caption: "In The Dark by Toots & The Maytals"
+additional_images:
+    - "https://i.discogs.com/f8tFGYlT_ryGLAE1sDBveVuztOs7zD0ix10-M9v3ITQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM4/NjQ5LTE1OTUwMTI5/MjEtNTU0OS5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
@@ -33,20 +35,13 @@ styles: ["Roots Reggae"]
 
 <!-- section break -->
 
-
-
-
+In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-dark/1442876860" >}}
-
-
-
-
-
 ## Videos
 ### Toots And The Maytals - Time Tough
 {{< youtube id="PRba7rK0Q-Q" title="Toots And The Maytals - Time Tough" >}}<br>
-
 ### More Videos
 
 - [Toots & The Maytals - Take Me Home, Country Roads (1972)](https://www.youtube.com/watch?v=0pDzLHzbx-8)
@@ -62,13 +57,17 @@ styles: ["Roots Reggae"]
 - [Revolution](https://www.youtube.com/watch?v=Y2oI1q2t6gE)
 - [Sailing On](https://www.youtube.com/watch?v=itnsYaWbtQg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Dark_(Toots_and_the_Maytals_album) |
+| Wikipedia Summary | In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974. |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Toots & The Maytals - In The Dark](https://www.discogs.com/release/15638649-Toots-And-The-Maytals-In-The-Dark) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP2325 |
 | Notes |      |
+| Discogs URL    | [Toots & The Maytals - In The Dark](https://www.discogs.com/release/15638649-Toots-And-The-Maytals-In-The-Dark) |

@@ -10,6 +10,8 @@ cover:
     image: "recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485.jpg"
     alt: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips"
     caption: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips"
+additional_images:
+    - "https://i.discogs.com/72JLDIcGVHiviMMLk_R3l83y2Hg6Hr7UpRGS2cMjn4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk3/NDg1LTE1Nzc4ODU4/NTQtMjU1My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ---
@@ -33,19 +35,18 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [The Flaming Lips - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin](https://www.discogs.com/release/14597485-The-Flaming-Lips-Featuring-The-Colorado-Symphony-Recorded-Live-At-Red-Rocks-Amphitheatre-The-Soft-Bu) |
-| Label          | Bella Union |
 | Format         | Vinyl 2× LP Album |
+| Label          | Bella Union |
 | Catalog Number | BELLA882V |
 | Notes | Recorded live at Red Rocks Amphitheatre May 26th, 2016  ©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias. Made in the EU. |
+| Discogs URL    | [The Flaming Lips - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin](https://www.discogs.com/release/14597485-The-Flaming-Lips-Featuring-The-Colorado-Symphony-Recorded-Live-At-Red-Rocks-Amphitheatre-The-Soft-Bu) |

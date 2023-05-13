@@ -10,6 +10,15 @@ cover:
     image: "stranger-to-stranger-8604097.jpg"
     alt: "Stranger To Stranger by Paul Simon"
     caption: "Stranger To Stranger by Paul Simon"
+additional_images:
+    - "https://i.discogs.com/KOKz_vSyeC6M75bjGxJRq_7xFYj3uG3OTOhur2q3MPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NTQyNjgw/NC0zMjgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZrOQ2O0l43gD2H3NGgHh2xZzqnpWFxbu3jdj1sV1b7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/NC0xMTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/3O_zNjNE4yLbBv7LSKk4wzFxSZ2mjyXaZrzvTzHF7fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/Ny00OTAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/AHBO-A6-qBYIhigMHXFnYwWKIhGidanZ2p2VIeUAoaI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/OC02Njk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/1PzulLqmOZ-ykl9kYY9Xo_CF5hs078_1KKvoJXhh8zY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/Ny0yMjAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZrNPIG4_CJaHTI4xLylopbEM-RzbJVcs5DHA1ZIfI6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/Ni03MDcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/kr4g4XrIcYMR_q64XrqD4gi6kZn66sd2DjbJWibK8nU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/OS05NTc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/OXYZRY_edI3V4uUq9XkuDn-hJ2jaCv0Q02_wByFwkd8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQw/OTctMTQ2NDk1NTY0/Mi05OTkyLmpwZWc.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
@@ -32,33 +41,31 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-
-
-
+Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.
+His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1443229003" >}}
-
-
-
-
-
 ## Videos
 ### Stranger To Stranger
 {{< youtube id="P7zs5JmlhwY" title="Stranger To Stranger" >}}<br>
-
 ### More Videos
 
 - [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
 - [The Clock](https://www.youtube.com/watch?v=-mQr64uJ8xE)
 - [Paul Simon - Cool Papa Bell (Static Image Video)](https://www.youtube.com/watch?v=Rm2LIorVaPw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_to_Stranger |
+| Wikipedia Summary | Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.<br>His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Paul Simon - Stranger To Stranger](https://www.discogs.com/release/8604097-Paul-Simon-Stranger-To-Stranger) |
-| Label          | Concord Records |
 | Format         | Vinyl LP Album |
+| Label          | Concord Records |
 | Catalog Number | 0888072397811 |
 | Notes | Harry Partch instruments courtesy of Montclair State University and Dean Drummond Printed inner sleeve and insert. |
+| Discogs URL    | [Paul Simon - Stranger To Stranger](https://www.discogs.com/release/8604097-Paul-Simon-Stranger-To-Stranger) |

@@ -10,6 +10,11 @@ cover:
     image: "philharmonics-2469079.jpg"
     alt: "Philharmonics by Agnes Obel"
     caption: "Philharmonics by Agnes Obel"
+additional_images:
+    - "https://i.discogs.com/rq0nvSndZ95Rr_6_tTyygLC1UeyPKiZ7lX6pRIY5ItM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njkw/NzktMTQ5NTYyODYz/Mi01MTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/jMcSHKvpyM2NstzQOSlbJvLUuDvqVJCxfwczzTf8K4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njkw/NzktMTQ5NTYyODYz/MS01MzEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/wQ7h6BI_w2-6EC7uh1v2lezaVIhSMoeNnfZb_WHkOLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njkw/NzktMTQ5NTYyODYz/Mi02NjAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/kqr0LmUqbzZhFflGzorr8vSm6aMIOguHpwpWWD-NOOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njkw/NzktMTU5MzMyNDMz/My01MzA2LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
@@ -33,20 +38,12 @@ styles: ["Folk"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/philharmonics-deluxe-edition/431226423" >}}
-
-
-
-
-
 ## Videos
 ### Agnes Obel - Falling, Catching
 {{< youtube id="DHBa2ANs0fo" title="Agnes Obel - Falling, Catching" >}}<br>
-
 ### More Videos
 
 - [Agnes Obel - Riverside (Official)](https://www.youtube.com/watch?v=vjncyiuwwXQ)
@@ -61,13 +58,15 @@ styles: ["Folk"]
 - [Agnes Obel - Over The Hill](https://www.youtube.com/watch?v=56juk63B4yM)
 - [Agnes Obel - On Powdered Ground](https://www.youtube.com/watch?v=gz8tE1HlOok)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2010                                   |
-| Discogs Link   | [Agnes Obel - Philharmonics](https://www.discogs.com/release/2469079-Agnes-Obel-Philharmonics) |
-| Label          | [PIAS] Recordings |
 | Format         | Vinyl LP Album |
+| Label          | [PIAS] Recordings |
 | Catalog Number | PIASR 195 LP |
 | Notes | The track numbers are given sequentially on the release, 1 to 12. Recorded in Berlin 2004 - 2010.  ℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings. [PIAS] Recordings is a label of the [PIAS] Entertainment Group. |
+| Discogs URL    | [Agnes Obel - Philharmonics](https://www.discogs.com/release/2469079-Agnes-Obel-Philharmonics) |

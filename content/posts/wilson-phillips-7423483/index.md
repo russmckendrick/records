@@ -10,6 +10,14 @@ cover:
     image: "wilson-phillips-7423483.jpg"
     alt: "Wilson Phillips by Wilson Phillips"
     caption: "Wilson Phillips by Wilson Phillips"
+additional_images:
+    - "https://i.discogs.com/6DjfD435UIJ_Wc8jEDa8sfCncgdhoKNZ5JynhV4Byys/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzcz/MC00OTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/mDH9_kpms84AjUHaXiu50YNSxpiR7HqY_mJD4o4Kqr0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzc0/Mi04ODA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qpsZ2cKuSds61NMvesEXVnL3Uur9QhoPM8HulP_iVpk/rs:fit/g:sm/q:90/h:1133/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzc1/NS05MTI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/AUmVwAanz0YP5DOE9dqoUwFhdTL91Ctb2zWrOEbVizQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzc3/MC02MDY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/U68mjfgZIhGGAdysuGEt7yqER2V7Bu_B03EuZVGXUhI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzc4/Mi01Njg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/JiYcJ92aI5o83PJl4AvAPFbdU7GO21lJzkLQqfbddB4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzc5/Ni0xODk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/LY4PCxrTRkO22WMp_HNfOWEsQvxzf3jtBRfbsgPQ0sk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM0/ODMtMTUxNDUxNzgx/MC05MDkwLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock"]
 ---
@@ -31,20 +39,14 @@ styles: ["Soft Rock"]
 
 <!-- section break -->
 
-
-
-
+Wilson Phillips is an American pop group formed in Los Angeles in 1989. The group consists of Carnie Wilson and Wendy Wilson, the daughters of Brian Wilson of the Beach Boys, and Chynna Phillips, the daughter of John and Michelle Phillips of the Mamas & the Papas.
+Their 1990 eponymous debut album sold over 10 million copies worldwide and included five major US hit singles, four of which went Top 10 (three of those to number one) on the Billboard Hot 100. In 1990, the group won the Billboard Music Award for Hot 100 Single of the Year for their song "Hold On", and was nominated for five Grammy Awards and two American Music Awards.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wilson-phillips/723895185" >}}
-
-
-
-
-
 ## Videos
 ### wilson phillips - release me with lyrics
 {{< youtube id="dSKZy2Knk94" title="wilson phillips - release me with lyrics" >}}<br>
-
 ### More Videos
 
 - [The Dream is still Alive Wilson Phillips 1990 - Video](https://www.youtube.com/watch?v=aMOpnuv_8xU)
@@ -65,13 +67,17 @@ styles: ["Soft Rock"]
 - [THE DREAM IS STILL ALIVE | Wilson Phillips](https://www.youtube.com/watch?v=lg7WSzWAsVQ)
 - [Eyes Like Twins-Wilson Phillips](https://www.youtube.com/watch?v=AnSPKXfomKI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Wilson_Phillips |
+| Wikipedia Summary | Wilson Phillips is an American pop group formed in Los Angeles in 1989. The group consists of Carnie Wilson and Wendy Wilson, the daughters of Brian Wilson of the Beach Boys, and Chynna Phillips, the daughter of John and Michelle Phillips of the Mamas & the Papas.<br>Their 1990 eponymous debut album sold over 10 million copies worldwide and included five major US hit singles, four of which went Top 10 (three of those to number one) on the Billboard Hot 100. In 1990, the group won the Billboard Music Award for Hot 100 Single of the Year for their song "Hold On", and was nominated for five Grammy Awards and two American Music Awards. |
 | Release Year   | 1990                                   |
-| Discogs Link   | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483-Wilson-Phillips-Wilson-Phillips) |
-| Label          | SBK Records |
 | Format         | Vinyl LP Album |
+| Label          | SBK Records |
 | Catalog Number | SBKLP 5 |
 | Notes | Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854] |
+| Discogs URL    | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483-Wilson-Phillips-Wilson-Phillips) |

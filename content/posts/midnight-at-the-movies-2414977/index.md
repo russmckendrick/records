@@ -10,6 +10,12 @@ cover:
     image: "midnight-at-the-movies-2414977.jpg"
     alt: "Midnight At The Movies by Justin Townes Earle"
     caption: "Midnight At The Movies by Justin Townes Earle"
+additional_images:
+    - "https://i.discogs.com/nkes9RcZ7mO3oMSosbJTEVBzmvULXZfC_lfP72MCfE4/rs:fit/g:sm/q:90/h:373/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ5/NzctMTMwMjQzNjcw/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/0J8-DBnj5nmyrgZr6WAbQ3VtHBv0ik3hX757tqXUzdQ/rs:fit/g:sm/q:90/h:368/w:378/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ5/NzctMTMwMjQzNjcx/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/4nn7s0oW7j_1F-1AXLL7Waqik1aC8VnWD6d79DtjB44/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ5/NzctMTMwNDI5NzMz/MS5qcGVn.jpeg"
+    - "https://i.discogs.com/8hz0aVSIiNZkDp7AILxfaByqXAxKb0-JjDrv9ldOFKU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ5/NzctMTY0Njc5MTE4/NS05NzM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/7wiZilC6X2K4lMmGCHlBw2JIgaQbUeTpMeNkbzrQ5vI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ5/NzctMTY0Njc5MTEz/Mi03MDk2LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
@@ -33,23 +39,20 @@ styles: ["Country"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/midnight-at-the-movies/305368671" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2009                                   |
-| Discogs Link   | [Justin Townes Earle - Midnight At The Movies](https://www.discogs.com/release/2414977-Justin-Townes-Earle-Midnight-At-The-Movies) |
-| Label          | Bloodshot Records |
 | Format         | Vinyl LP Album Limited Edition |
+| Label          | Bloodshot Records |
 | Catalog Number | BS 160 LP |
 | Notes | "Limited Edition of 2000"  Released with mp3 download |
+| Discogs URL    | [Justin Townes Earle - Midnight At The Movies](https://www.discogs.com/release/2414977-Justin-Townes-Earle-Midnight-At-The-Movies) |

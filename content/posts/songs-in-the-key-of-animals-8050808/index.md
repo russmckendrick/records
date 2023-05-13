@@ -10,6 +10,8 @@ cover:
     image: "songs-in-the-key-of-animals-8050808.jpg"
     alt: "Songs In The Key Of Animals by Benji Hughes"
     caption: "Songs In The Key Of Animals by Benji Hughes"
+additional_images:
+    - "https://i.discogs.com/PidZns4jmMlmUEtuioqPYHIg7MeurwAZADplWSNTGZQ/rs:fit/g:sm/q:90/h:404/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTA4/MDgtMTQ1NDE4ODky/My0yMjk2LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
@@ -33,28 +35,26 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-
-
-
+Songs in the Key of Animals is the second studio album by American musician Benji Hughes. It was released in 2016 under Merge Records.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-animals/1047014473" >}}
-
-
-
-
-
 ## Videos
 ### Benji Hughes - Peacockin' Party (Official Music Video)
 {{< youtube id="rmHcDfvHP-A" title="Benji Hughes - Peacockin' Party (Official Music Video)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Animals |
+| Wikipedia Summary | Songs in the Key of Animals is the second studio album by American musician Benji Hughes. It was released in 2016 under Merge Records. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Benji Hughes - Songs In The Key Of Animals](https://www.discogs.com/release/8050808-Benji-Hughes-Songs-In-The-Key-Of-Animals) |
-| Label          | Merge Records |
 | Format         | Vinyl LP Album |
+| Label          | Merge Records |
 | Catalog Number | MRG551 |
 | Notes | LP includes a coupon for a full download. |
+| Discogs URL    | [Benji Hughes - Songs In The Key Of Animals](https://www.discogs.com/release/8050808-Benji-Hughes-Songs-In-The-Key-Of-Animals) |

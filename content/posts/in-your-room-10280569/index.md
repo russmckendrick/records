@@ -10,6 +10,11 @@ cover:
     image: "in-your-room-10280569.jpg"
     alt: "In Your Room by Anneke van Giersbergen"
     caption: "In Your Room by Anneke van Giersbergen"
+additional_images:
+    - "https://i.discogs.com/grXs6k5f0a0wvuoqQjMEvld3CE0QVcmUR5hCeuuZE4g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgw/NTY5LTE0OTQ2MDE1/MjQtNTkxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/i8rI5zjVZKQQdAPoQMLr6bEnnzzgBexSSTPUHv_RWew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgw/NTY5LTE0OTQ2MDE1/MjQtNzgzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/-Oc22GmfwI9NjpNzB02GvD2Ez_ua3i9NS7xtRjAIFfw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgw/NTY5LTE0OTQ2MDE1/OTgtNzE1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Rr_OWmuU2yuLRLUpltgUfKzhLU-D4i_qu_qaqHpg3nM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgw/NTY5LTE0OTQ2MDE1/OTktMzI2MS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -33,19 +38,18 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Anneke van Giersbergen - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Limited Edition Numbered (White) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP1876 |
 | Notes | Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver. |
+| Discogs URL    | [Anneke van Giersbergen - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |

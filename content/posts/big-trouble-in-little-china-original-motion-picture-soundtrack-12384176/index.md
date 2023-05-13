@@ -10,6 +10,16 @@ cover:
     image: "big-trouble-in-little-china-original-motion-picture-soundtrack-12384176.jpg"
     alt: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter"
     caption: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter"
+additional_images:
+    - "https://i.discogs.com/5CvrtiTOD8pzlqSoxhO6MmV17nsL1jg4l2C8vKaLcdY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzcz/OTYtNjQzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/no03VrIVS_ByEyRxJre5172YsqtQDA0u9sFqeKbqDBA/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc0/MTMtNDc2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Nx3WHX_6RHSM7nodK_w_bTQsAA062oT4zr9LcwlDnFU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc0/MDYtNTI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/gyK6JzOLehID0S7asfZm2cjQ9VratOhPVjx99Ygu63M/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc0/ODctNjcxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/egqf08sXZ3e6xLU-1CQEN0aW58tTPI2FKzJsSWOfBHU/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc1/MDAtNzA0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/hnkI7A6TdmiH6FJTHeJdBrB7QYIBBdNZQXGxVILtz20/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc1/MDctODc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/HKivt_bejJ2_jVuVluMCMeHovM7gqKS4j9Ch6KMmssA/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc1/MTUtNDMzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/hB8yKI9KHTGPnELimvTJK3Hr5o9u89VV8JFQuqy5Gwc/rs:fit/g:sm/q:90/h:665/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc0/NDItNTg5My5qcGVn.jpeg"
+    - "https://i.discogs.com/Y_EeFO327nNcLrdMLAlj91EhFPDOk8lXTVhOm9-6OZc/rs:fit/g:sm/q:90/h:830/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTc2LTE1MzQxNzc0/MjEtNjEyMi5qcGVn.jpeg"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ---
@@ -41,20 +51,12 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/big-trouble-in-little-china-original-motion-picture/1502302598" >}}
-
-
-
-
-
 ## Videos
 ### Coup De Villes - Big Trouble In Little China (Film Version).wmv
 {{< youtube id="OfSjNPxNPDg" title="Coup De Villes - Big Trouble In Little China (Film Version).wmv" >}}<br>
-
 ### More Videos
 
 - [Pork Chop Express (Main Title)](https://www.youtube.com/watch?v=V8_H5OdN6OM)
@@ -67,12 +69,14 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 - [Big Trouble In Little China Soundtrack - The Final Escape](https://www.youtube.com/watch?v=2-_ERyOeDSw)
 - [John Carpenter's Coup de Villes Music Video](https://www.youtube.com/watch?v=D03E9kUTTtQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [John Carpenter - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |
-| Label          | Mondo (3) |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Red With Light Yellow Splatter) |
+| Label          | Mondo (3) |
 | Catalog Number | MOND-124 |
+| Discogs URL    | [John Carpenter - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |

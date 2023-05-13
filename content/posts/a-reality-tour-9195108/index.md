@@ -10,6 +10,20 @@ cover:
     image: "a-reality-tour-9195108.jpg"
     alt: "A Reality Tour by David Bowie"
     caption: "A Reality Tour by David Bowie"
+additional_images:
+    - "https://i.discogs.com/rKFs4NcfgIkHivVC1ZkcSnO2G2VarI2Q9IgNDR83UY4/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3NjQ2MzEx/NC03ODQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/SrtjPTO5SoCfovFfqYrSCUs1Oz0SOJZJDbpZFtcmaSk/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3NjQ2MzE0/My0zMDgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/K9iGB6Nro6tF7Z8hZf68e83_t803YifDhdgR4KhzH70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDYw/MC05MDQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/61N_N3bx-7-qGF3jN30eYN5MSZKr5fDBmP2L6JIEb30/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDYx/NC03MTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/ebrl8Hhw7qsqRNYdvWLnfV1juLZcy_vfpg6k1O4fnBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDYy/OS05MjcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/2pWJRcIGt-5Wlb54o-jm_jr7DllMInPXKekh_WBTnSo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDY0/Mi04MDMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/6-niycfzAp2e_Wx_b8otCpqJbxEBOUoBiGfSj3ArLcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDY2/MS0yODkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/KM8dkpygIj4gdHhaL42qY99ARQWTcNSDCKiGPqxvsb0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDY3/Ni0zNTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/It0A0iElSTanJL6yfxOtRDO6lHmMqevNKLQJ2r2wmdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDcx/MS01ODQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Gr4RHwoJwqXItahLtQNA7MYeg_gDHZ4uTRF41xF-19I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDcz/Ni0zMDUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/DAxz9F0aLBdRjRTo9IqIWr8KcNlW-5OP87MedCtKnOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDc3/Ni02MjEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/_N6imyGiXoA8Ieqd3WXaEdUXEoQqbDG11jC8weD0Tu0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDc5/My03OTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/iYONbGnknlceEcBQxBYmL_lmZoqgin_krLpkYrqjCNI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTUx/MDgtMTQ3Njk3MDgw/Ni05NDU2LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Glam"]
 ---
@@ -54,23 +68,23 @@ styles: ["Art Rock", "Alternative Rock", "Glam"]
 
 <!-- section break -->
 
-
-
-
+A Reality Tour is a live album by David Bowie that was released on 25 January 2010. The album features 22 and 23 November 2003 performances in Dublin during his concert tour A Reality Tour. This is an audio version of the concert video of the same name, except that it adds three bonus tracks. The digital download on iTunes adds two more bonus tracks.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-reality-tour-live/1676509044" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Reality_Tour_(album) |
+| Wikipedia Summary | A Reality Tour is a live album by David Bowie that was released on 25 January 2010. The album features 22 and 23 November 2003 performances in Dublin during his concert tour A Reality Tour. This is an audio version of the concert video of the same name, except that it adds three bonus tracks. The digital download on iTunes adds two more bonus tracks. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [David Bowie - A Reality Tour](https://www.discogs.com/release/9195108-Bowie-A-Reality-Tour) |
-| Label          | ISO Records |
 | Format         | Vinyl 3× LP Album Reissue (Blue Translucent, 180g), Box Set Limited Edition |
+| Label          | ISO Records |
 | Catalog Number | 88985348411 |
 | Notes | Box set: lift off lid box. includes two photo inserts:  12" x 12" front cover image + 12" x 24" double-sided.  A REALITY TOUR was recorded November 22 and 23, 2003, in front of emotionally charged audiences at the Point Depot Dublin, Ireland.  Cover Photo: Dorothea Müller/Keystone © 2004   ℗ 2009 The copyright in this sound recording is owned by ISO Records, under license to Sony Music Entertainment. © 2009, 2016 ISO Records made under license to Sony Music Entertainment / Distributed by Sony Music Entertainment. Made in the EU / Sony Music Entertainment International Services GmbH. |
+| Discogs URL    | [David Bowie - A Reality Tour](https://www.discogs.com/release/9195108-Bowie-A-Reality-Tour) |

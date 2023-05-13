@@ -11,6 +11,14 @@ cover:
     image: "it-is-what-it-is-15052400.jpg"
     alt: "It Is What It Is by Thundercat"
     caption: "It Is What It Is by Thundercat"
+additional_images:
+    - "https://i.discogs.com/3OBZMv4dc-j0dPCh2OqCINHnVLeLqmWBG19qS_D49EE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTgtOTA5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/EWHhEgSJb8mMiAvCu4uKvJ-SrIR_rwdWk2Rem-xerR8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI1OTI4/OTgtNDAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/b0gKvKPRqVlHZVu0dzZCZiQutHcehhxVZRt8Pl5D3To/rs:fit/g:sm/q:90/h:420/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTEtNzYzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/_ziij7-Hz56Z0V-hA0tPdb1oSLrlyswsy1913sWNZKY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTgtNzA3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/cQ6FFSAQEgIKJPSlEiRjKpuW6verVp6blgcM04Brnhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTgtMzI2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Yg8_lrm2xxdbStZGpY6_3FIdGTcpb4fisVOWrNbORXA/rs:fit/g:sm/q:90/h:1920/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI4MzAx/OTEtNTkxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/MydvNn8ZSVu0VFE2NnzLnz65TlPAL3JMToJtta5yqUA/rs:fit/g:sm/q:90/h:190/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI4MzAx/OTEtMjYzNy5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 ---
@@ -36,7 +44,6 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 15. It Is What It Is
 
 <!-- section break -->
-
 
 Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of control, of his friend Mac Miller, who Bruner exchanged I-love-yous with over the phone hours before Miller’s overdose in late 2018. Not that he’s wallowing. Like 2017’s <i>Drunk</i>—an album that helped transform the bassist/singer-songwriter from jazz-fusion weirdo into one of the vanguard voices in 21st-century black music—<i>It Is What It Is</i> is governed by an almost cosmic sense of humour, juxtaposing sophisticated Afro-jazz (“Innerstellar Love”) with deadpan R&B (“I may be covered in cat hair/But I still smell good/Baby, let me know, how do I look in my durag?”), abstractions about mortality (“Existential Dread”) with chiptune-style punk about how much he loves his friend Louis Cole. “Yeah, it’s been an interesting last couple of years,” he tells Apple Music with a sigh. “But there’s always room to be stupid.” What emerges from the whiplash is a sense that—as the title suggests—no matter how much we tend to label things as good or bad, happy or sad, the only thing they are is what they are. (That Bruner keeps good company probably helps: Like on <i>Drunk</i>, the guest list here is formidable, ranging from LA polymaths like Miguel Atwood-Ferguson, Louis Cole and co-producer Flying Lotus to Childish Gambino, Ty Dolla $ign and former Slave singer Steve Arrington.) As for lessons learned, Bruner is Zen as he runs through each of the album’s tracks. “It’s just part of it,” he says. “It’s part of the story. That’s why the name of the album is what it is—[Mac’s death] made me put my life in perspective. I’m happy I’m still here.”<br />
 <b>Lost in Space / Great Scott / 22-26</b>
@@ -69,20 +76,12 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 "You know, getting older [<i>laughs</i>]."<br />
 <b>It Is What It Is</b>
 "That’s me in the middle, saying, ‘Hey, Mac.’ That’s me, getting a chance to say goodbye to my friend."
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/it-is-what-it-is/1494467036" >}}
-
-
-
-
-
 ## Videos
 ### Thundercat - 'Innerstellar Love' (Official Audio)
 {{< youtube id="yA4R9qLa26E" title="Thundercat - 'Innerstellar Love' (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [How Sway](https://www.youtube.com/watch?v=QwQeEmY1QxI)
@@ -100,13 +99,17 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
 - [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400-Thundercat-It-Is-What-It-Is) |
-| Label          | Brainfeeder |
+| Wikipedia URL | https://en.wikipedia.org/wiki/It_Is_What_It_Is_(Thundercat_album) |
+| Wikipedia Summary | It Is What It Is is the fourth studio album by American musician Thundercat, released through Brainfeeder on April 3, 2020. It was preceded by five singles: "King of the Hill," which was released as a single from the label's compilation album Brainfeeder X in 2018, and "Black Qualls," "Dragonball Durag," "Fair Chance," and "Innerstellar Love," the latter four being released in 2020. The track "Unrequited Love" had previously been used in an episode of the anime Carole & Tuesday in 2019. The album was executive produced by Thundercat and Flying Lotus, and features guest appearances from Louis Cole, Steve Lacy, Steve Arrington, Childish Gambino, Ty Dolla Sign, Lil B, Kamasi Washington, BadBadNotGood, and Zack Fox.It Is What It Is received critical acclaim, with critics praising Thundercat's typical sense of humor in his lyrics and bass playing, as well as Thundercat's way of expressing emotions - in particular, his grief over the loss of long-time close friend and collaborator Mac Miller, which feeds into many of the musical and lyrical elements of the album. The title track of the album contains a vocal sample from the late Miller; Thundercat also dedicated the album in his memory.The album won Best Progressive R&B Album at the 63rd Annual Grammy Awards, beating out fellow nominees Jhené Aiko, Chloe x Halle, Free Nationals, and Robert Glasper. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Pink, 140g) |
+| Label          | Brainfeeder |
 | Catalog Number | BF100RT |
 | Notes | Limited edition (Rough Trade exclusive), 1,000 copies.  140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.  Sleeve does not have gold foil detail (only on deluxe editions).  Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers.  |
+| Discogs URL    | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400-Thundercat-It-Is-What-It-Is) |

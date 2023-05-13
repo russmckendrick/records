@@ -10,6 +10,8 @@ cover:
     image: "velveteen-13782865.jpg"
     alt: "Velveteen by Transvision Vamp"
     caption: "Velveteen by Transvision Vamp"
+additional_images:
+    - "https://i.discogs.com/BUHohZsrM6hlxrmz7LssBehmjmGk2a6lFKJsrP9JtEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODY1LTE1NjEwMjM5/NjEtNjcyNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
@@ -32,20 +34,12 @@ styles: ["Rock & Roll"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/velveteen/1443764149" >}}
-
-
-
-
-
 ## Videos
 ### Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989
 {{< youtube id="q-ccY2xHhY8" title="Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989" >}}<br>
-
 ### More Videos
 
 - [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=yIsESekPHFo)
@@ -56,12 +50,14 @@ styles: ["Rock & Roll"]
 - [Transvision Vamp - Landslide of Love (1989)](https://www.youtube.com/watch?v=H1TBj_bYog8)
 - [Transvision Vamp - Born to Be Sold (1989)](https://www.youtube.com/watch?v=wyBphauZeJo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Transvision Vamp - Velveteen](https://www.discogs.com/release/13782865-Transvision-Vamp-Velveteen) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue (Red) |
+| Label          | Demon Records |
 | Catalog Number | DEMREC325 |
+| Discogs URL    | [Transvision Vamp - Velveteen](https://www.discogs.com/release/13782865-Transvision-Vamp-Velveteen) |

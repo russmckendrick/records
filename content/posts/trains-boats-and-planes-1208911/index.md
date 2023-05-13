@@ -10,6 +10,8 @@ cover:
     image: "trains-boats-and-planes-1208911.jpg"
     alt: "Trains, Boats And Planes by The Frank And Walters"
     caption: "Trains, Boats And Planes by The Frank And Walters"
+additional_images:
+    - "https://i.discogs.com/qEBPr0xTYQ1EQfi7b-EzPzjiF9HIRZ7yVgPKlNikEJc/rs:fit/g:sm/q:90/h:540/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg5/MTEtMTMzMDc5NTM3/Ni5qcGVn.jpeg"
 genres: ["Pop"]
 styles: []
 ---
@@ -32,20 +34,12 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trains-boats-and-planes/125917251" >}}
-
-
-
-
-
 ## Videos
 ### This Is Not A Song
 {{< youtube id="4gKKL_jw5WI" title="This Is Not A Song" >}}<br>
-
 ### More Videos
 
 - [Walter's Trip](https://www.youtube.com/watch?v=Veh7a-K3Dls)
@@ -59,13 +53,15 @@ styles: []
 - [Time](https://www.youtube.com/watch?v=FlLw-_KNNRM)
 - [High Is Low](https://www.youtube.com/watch?v=CCoDbxjRgfg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1992                                   |
-| Discogs Link   | [The Frank And Walters - Trains, Boats And Planes](https://www.discogs.com/release/1208911-The-Frank-And-Walters-Trains-Boats-And-Planes) |
-| Label          | Go! Discs |
 | Format         | Vinyl LP |
+| Label          | Go! Discs |
 | Catalog Number | 828-369-1 |
 | Notes | Comes in a gatefold cover with a printed inner sleeve. |
+| Discogs URL    | [The Frank And Walters - Trains, Boats And Planes](https://www.discogs.com/release/1208911-The-Frank-And-Walters-Trains-Boats-And-Planes) |

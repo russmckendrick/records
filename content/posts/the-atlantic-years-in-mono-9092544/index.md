@@ -10,6 +10,8 @@ cover:
     image: "the-atlantic-years-in-mono-9092544.jpg"
     alt: "The Atlantic Years - In Mono by Ray Charles"
     caption: "The Atlantic Years - In Mono by Ray Charles"
+additional_images:
+    - "https://i.discogs.com/lsnpzDrdHGTmz-hdfOPcsue_Qsb80WWuN5RtVUDDEzg/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/NDQtMTQ3NDY0NjE5/OS0xNDI5LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
@@ -106,20 +108,12 @@ styles: ["Rhythm & Blues"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405" >}}
-
-
-
-
-
 ## Videos
 ### Ray Charles - What'd I Say (Official Audio)
 {{< youtube id="6uTDa3771HM" title="Ray Charles - What'd I Say (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [The Genius After Hours (2016 Mono Remaster)](https://www.youtube.com/watch?v=sXv2EQ-Yb30)
@@ -130,12 +124,14 @@ styles: ["Rhythm & Blues"]
 - [Drown in My Own Tears (2016 Mono Remaster)](https://www.youtube.com/watch?v=xSXaXj9pLoY)
 - [Tell Me How Do You Feel (2016 Mono Remaster)](https://www.youtube.com/watch?v=1t6ieA4W-h4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544-Ray-Charles-The-Atlantic-Years-In-Mono) |
-| Label          | Rhino Records (2) |
 | Format         | Vinyl 7× LP Compilation Reissue Remastered Mono, Box Set |
+| Label          | Rhino Records (2) |
 | Catalog Number | 008122794568 |
+| Discogs URL    | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544-Ray-Charles-The-Atlantic-Years-In-Mono) |

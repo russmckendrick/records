@@ -10,6 +10,8 @@ cover:
     image: "the-greatest-hits-so-far-5905459.jpg"
     alt: "The Greatest Hits, So Far by Public Image Limited"
     caption: "The Greatest Hits, So Far by Public Image Limited"
+additional_images:
+    - "https://i.discogs.com/PuPYVwBeiGmVmDQPFQ7zLpu-pD7tzAyGJhOpmODQHU0/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDU0/NTktMTQwNTk1MjI0/OC03MTU3LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
@@ -35,20 +37,12 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-greatest-hits-so-far-remastered/714765153" >}}
-
-
-
-
-
 ## Videos
 ### PIL Greatest Hits
 {{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}<br>
-
 ### More Videos
 
 - [PIL (Public Image Ltd) - Public Image (Public Image)](https://www.youtube.com/watch?v=cifo77azntk)
@@ -70,13 +64,15 @@ styles: ["New Wave", "Synth-pop"]
 - [The Body by PIL](https://www.youtube.com/watch?v=56RICywExfw)
 - [PIL - Public Image](https://www.youtube.com/watch?v=ylOCIP54PIQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Public Image Limited - The Greatest Hits, So Far](https://www.discogs.com/release/5905459-Public-Image-Ltd-The-Greatest-Hits-So-Far) |
-| Label          | Virgin |
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
+| Label          | Virgin |
 | Catalog Number | 535109-2 |
 | Notes | Includes a voucher to download MP3 version of the album. |
+| Discogs URL    | [Public Image Limited - The Greatest Hits, So Far](https://www.discogs.com/release/5905459-Public-Image-Ltd-The-Greatest-Hits-So-Far) |

@@ -11,6 +11,16 @@ cover:
     image: "purple-4662898.jpg"
     alt: "Purple by Stone Temple Pilots"
     caption: "Purple by Stone Temple Pilots"
+additional_images:
+    - "https://i.discogs.com/Muua647YVDT1xRxxr9XfiMjhpbBx6VOC-2foGLnfXNY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzM4/Ni04MTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/R2xzB8_KETpaqdS6wx_p0Fg5cfkUrOLNP1zh-mK6xCY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzM5/NC00MDg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/CsvqYuTCWWHJOBSNydHZvgpuBdECCyHK1KQAGMchLDM/rs:fit/g:sm/q:90/h:363/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTM3NDg2MDMw/MS05MDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/50yzOagdIVuJVMX3QhxhPft-my3DpAEw8RSxXCqcf2Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ3/MC03NDk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/xrEPL1cRuIJjEqjMVsP4IKrwE56cB0QLAmzO6K3Fu9k/rs:fit/g:sm/q:90/h:363/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTM3NDg2MDI4/Ny00NjI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/CLy56rirpE4-rSWIPKUMBfI-8H9uSpHuikxjmCHyLIc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ5/MS0yNzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/nNwve2S6nJzM4pACw5vGo-eC3GJii6c8gRVEYg_rRWU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ5/OC00MjE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/J6xMoJ78YGQDVnCP2MGfdapUj8OBgPy-Xu9Dbg7hSyo/rs:fit/g:sm/q:90/h:311/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzUw/Ni0yMDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/gN0STf4_g9iVmp02FtzrbebeVWXmXosBubpyANvVbDc/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQx/Ni0zMzcyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
@@ -33,35 +43,30 @@ styles: ["Alternative Rock", "Grunge"]
 
 <!-- section break -->
 
-
 The year 1994 signaled grunge’s last grunt as the dominant sound of alterna-teen culture. While Soundgarden enjoyed their first No. 1 record with <i>Superunknown</i>, Pearl Jam were actively avoiding MTV to deflate their own hype and the Nirvana saga came to a tragic end. But where Stone Temple Pilots’ 1992 debut, <i>Core</i>, presented the San Diego upstarts as eager shotgun riders on the grunge wave, their 1994 follow-up savvily anticipated the changing cultural tides by looking beyond Seattle for inspiration.<br />
 <i>Purple</i> hardly skimps on the hard-rock swagger that made <i>Core</i> a multi-platinum smash—the frenzied “Unglued” and sludgy “Meatplow” pack the sort of pulverizing riffs that launched a million stage dives. But the album reveals surprising new dimensions to Stone Temple Pilots’ attack: On “Vasoline,” they hammer away at a fuzzy two-note refrain until it locks into a hypnotic psychedelic groove (the bongos certainly help), and while “Big Empty” revisits the skyscraping peaks of <i>Core</i>’s calling-card single, “Plush,” it takes its sweet time getting there atop some bluesy slide-guitar licks.<br />
 The most dramatic developments, however, are happening in Scott Weiland’s larynx. No longer the Vedder-like warbler of old, the singer invests the campfire-folk reprieve “Pretty Penny” with Beatles-esque bonhomie, and showcases a previously untapped sensitivity on “Interstate Love Song,” which sounds like a ‘70s soft-rock ballad dressed up in a flannel shirt and cut-off shorts. A resounding repudiation of the critics who initially dismissed them as alt-rock also-rans, <i>Purple</i> displays the first real flashes of the melodic ingenuity and glammy eccentricity that would ultimately distinguish Stone Temple Pilots from their mosh-pit peers.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/purple/300976267" >}}
-
-
-
-
-
 ## Videos
 ### Stone Temple Pilots - Vasoline (Official Music Video) [HD]
 {{< youtube id="ht672-wYelc" title="Stone Temple Pilots - Vasoline (Official Music Video) [HD]" >}}<br>
-
 ### More Videos
 
 - [Stone Temple Pilots - Interstate Love Song (Official Music Video) [HD]](https://www.youtube.com/watch?v=yjJL9DGU7Gg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
-| Discogs Link   | [Stone Temple Pilots - Purple](https://www.discogs.com/release/4662898-Stone-Temple-Pilots-Purple) |
-| Label          | Music On Vinyl |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Purple_(Stone_Temple_Pilots_album) |
+| Wikipedia Summary | Purple (stylized on the cover art in its Chinese character 紫) is the second studio album by the American rock band Stone Temple Pilots, released on June 7, 1994, by Atlantic Records. The album, building on the foundation laid by the band's debut album Core,  was a huge success for the band, selling 252,000 copies in its first week and debuting at number one on the Billboard 200 chart and remaining there for three weeks, eventually selling over six million copies. It spawned a number of successful singles – "Vasoline" and "Interstate Love Song" both topped the Mainstream Rock Tracks chart and hit number 2 on the Modern Rock Tracks chart, while "Big Empty" also cracked the top ten on both charts.  Lesser known album cuts "Pretty Penny" and "Unglued" were released as promotional radio singles.<br><br> |
+    | Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP816 |
 | Notes | Produced, recorded, and mixed at Southern Tracks, March '94 (3-28-94)   "Big Empty" recorded at the Record Plant on May 25th '93  "Loungefly" recorded at Paisley Park on July 12th '93  "Pretty Penny" recorded at Harptone Studios   180 gram audiophile vinyl with four page insert showing images of the masters   Originally released ℗ & © 1994 Atlantic Records  This release ℗ & © 2013 Warner Music   Made in the EU |
+| Discogs URL    | [Stone Temple Pilots - Purple](https://www.discogs.com/release/4662898-Stone-Temple-Pilots-Purple) |

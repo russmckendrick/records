@@ -10,6 +10,11 @@ cover:
     image: "the-rescue-13992920.jpg"
     alt: "The Rescue  by Explosions In The Sky"
     caption: "The Rescue  by Explosions In The Sky"
+additional_images:
+    - "https://i.discogs.com/gUYKGlFVyPBQSJB8PtE1JsGhi29DV-6n56tnJXFbzZg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTky/OTIwLTE1NjU4NzYx/NzktOTQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/-yNAkci_koJ9vuGivYnemTxoXup4-nKOoGqkEdJKQoo/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTky/OTIwLTE1NjU4NzYx/NzgtOTY3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/tJwpl2dOM9Tpc9cYCdXrnMeqmGNunYhishVzLj6eXMM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTky/OTIwLTE1NjYwNTUw/MDgtOTYzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/m78TZVvlkczV-_xGDoGsdtLXCcX3gqH2_eySLIeUAv0/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTky/OTIwLTE1NjU2NTIz/ODMtNTE3OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
@@ -29,28 +34,26 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-
-
-
+The Rescue is the fourth studio album by American post-rock band Explosions in the Sky. Written, recorded and mastered in two weeks in band member Michael James's house in Austin, Texas, The Rescue is a concept album inspired by an experience the band had while touring.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rescue-anniversary-edition/1476740620" >}}
-
-
-
-
-
 ## Videos
 ### Explosions in the Sky - The Rescue (Full Album) [HD]
 {{< youtube id="1mqBMmhgsjM" title="Explosions in the Sky - The Rescue (Full Album) [HD]" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Rescue_(Explosions_in_the_Sky_album) |
+| Wikipedia Summary | The Rescue is the fourth studio album by American post-rock band Explosions in the Sky. Written, recorded and mastered in two weeks in band member Michael James's house in Austin, Texas, The Rescue is a concept album inspired by an experience the band had while touring. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Explosions In The Sky - The Rescue ](https://www.discogs.com/release/13992920-Explosions-In-The-Sky-The-Rescue-) |
-| Label          | Temporary Residence Limited |
 | Format         | Vinyl LP EP Limited Edition Remastered (Orange Dusty Opaque) |
+| Label          | Temporary Residence Limited |
 | Catalog Number | TRR326 |
 | Notes | Limited Edition Colored Vinyl: Opaque Dusty Orange (Edition of 4.000) Vinyl format Includes MP3 Download Coupon inside package. |
+| Discogs URL    | [Explosions In The Sky - The Rescue ](https://www.discogs.com/release/13992920-Explosions-In-The-Sky-The-Rescue-) |

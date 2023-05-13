@@ -10,6 +10,10 @@ cover:
     image: "grimspound-10204837.jpg"
     alt: "Grimspound by Big Big Train"
     caption: "Grimspound by Big Big Train"
+additional_images:
+    - "https://i.discogs.com/t3TKkbRjq0O7xmoYhpU6TqS-dQmAx21ESRltiiSwQlc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE0OTMzNzA3/NDctMTM3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/3Wz8RiqtA1zGr6NHaNaIaGRPp2tsYQUV1tmdlzCUzfE/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE1MjEwMzM2/OTYtNzc4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/LqYDiBm8VdlOaFO0B1hv1t5QbcTdzlWX8LOcYKkZock/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE1MjEwMzM3/MDQtNDQzMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -29,32 +33,26 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grimspound/1208076126" >}}
-
-
-
-
-
 ## Videos
 ### Grimspound
 {{< youtube id="Aaf1XDtWVNk" title="Grimspound" >}}<br>
-
 ### More Videos
 
 - [Brave Captain](https://www.youtube.com/watch?v=m8M6KG1e-jU)
 - [A Mead Hall in Winter](https://www.youtube.com/watch?v=52lrA-D7aKA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Big Big Train - Grimspound](https://www.discogs.com/release/10204837-Big-Big-Train-Grimspound) |
-| Label          | Plane Groovy |
 | Format         | Vinyl 2× LP Album Limited Edition (Opaque Vinyl) |
+| Label          | Plane Groovy |
 | Catalog Number | PLG050 |
 | Notes | Limited edition Opaque Vinyl version which also came with a signed postcard |
+| Discogs URL    | [Big Big Train - Grimspound](https://www.discogs.com/release/10204837-Big-Big-Train-Grimspound) |

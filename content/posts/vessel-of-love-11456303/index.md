@@ -10,6 +10,12 @@ cover:
     image: "vessel-of-love-11456303.jpg"
     alt: "Vessel of Love by Hollie Cook"
     caption: "Vessel of Love by Hollie Cook"
+additional_images:
+    - "https://i.discogs.com/oKV62Zf9BNIpjGulb5EIHGpqYellvjVDHKThNHWwmz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTY2NDU0/MTgtNjY0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/JsLE89nashGfSivL4pAh92C2L7Np2bSABivpPSHz8FA/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjItNTA5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/eOvsSZl7oS1wxHQJluVxoI_JzFLo6Kr8DFmmwLE94SQ/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjEtNDQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/XcD2apWPYTo13CZqUMqVhEM6nB7zkmPnwhuZHPyOJ98/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjItNjgyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/c5dMp9yLB30VQUezHRIM3ZowSSF_-sjFRWDN3wva4Lg/rs:fit/g:sm/q:90/h:656/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjEtMjQ1Ny5qcGVn.jpeg"
 genres: ["Reggae", "Funk / Soul"]
 styles: ["Reggae-Pop", "Soul", "Dub"]
 ---
@@ -31,20 +37,12 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vessel-of-love/1289767295" >}}
-
-
-
-
-
 ## Videos
 ### Hollie Cook Angel Fire
 {{< youtube id="GjThn4PMHyI" title="Hollie Cook Angel Fire" >}}<br>
-
 ### More Videos
 
 - [Hollie Cook Stay Alive](https://www.youtube.com/watch?v=N1--GrdPQWc)
@@ -57,13 +55,15 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 - [Together](https://www.youtube.com/watch?v=JOXjfBI_FWI)
 - [Far From Me](https://www.youtube.com/watch?v=z9RkK7APJ2U)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Hollie Cook - Vessel of Love](https://www.discogs.com/release/11456303-Hollie-Cook-Vessel-of-Love) |
-| Label          | Merge Records |
 | Format         | Vinyl LP Album Limited Edition (Pink Translucent) |
+| Label          | Merge Records |
 | Catalog Number | MRG588 |
 | Notes | Peak Vinyl: Limited-edition translucent pink vinyl in the same packaging as the standard LP. Includes album download. |
+| Discogs URL    | [Hollie Cook - Vessel of Love](https://www.discogs.com/release/11456303-Hollie-Cook-Vessel-of-Love) |

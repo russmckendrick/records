@@ -10,6 +10,7 @@ cover:
     image: "residue-26911262.jpg"
     alt: "Residue by Amplifier"
     caption: "Residue by Amplifier"
+additional_images:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
@@ -37,23 +38,20 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/residue/1191817521" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Amplifier - Residue](https://www.discogs.com/release/26911262-Amplifier-Residue) |
-| Label          | Rockosmos |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered Test Pressing |
+| Label          | Rockosmos |
 | Catalog Number | ROK221 |
 | Notes | Funded via a Bandcamp Vinyl Pressing campaign. |
+| Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26911262-Amplifier-Residue) |

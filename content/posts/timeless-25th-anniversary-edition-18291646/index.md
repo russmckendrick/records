@@ -10,6 +10,21 @@ cover:
     image: "timeless-25th-anniversary-edition-18291646.jpg"
     alt: "Timeless (25th Anniversary Edition) by Goldie"
     caption: "Timeless (25th Anniversary Edition) by Goldie"
+additional_images:
+    - "https://i.discogs.com/5X7fhInE4oOFNDOSEMqTazuSF1I1CwjnQ02Fw9nzuP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDQtMzYwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/o0JxSvuzK8wxiCV532X-VWDInWcvWuE7CaKjQI9G7kY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDMtNzU3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/HPbZJPFZHhU7wAzqaF6E8TVn5KvI6bVqsoJhSFnbmSU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MTEtNDc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/9qCFcWG3JU20zxQYexZ2V3UGxf3jLxzncTFRQQTTSNw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MTAtNTQ5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/FjKSndn5Ay2R5CokYMR0QGhkwPY0EqShpi8Jq8bL6Z8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MTEtNTYwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/RwwX6JFuaCqOvAy1n0HpLbZtFs_dCCc-Aic0L-HVjzY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDgtOTA2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/13tmgGApWdM0p-f-u94Oahr7owoonWkp5V-todq2E-w/rs:fit/g:sm/q:90/h:398/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MTg1NzE5/ODUtNjIyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/UH2Cm6g3S0c9Frf-o1L9yOmohZbCjpXMkU9qiR6m8bs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDgtOTA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/znr57OOasp0vOwQfbl_RdtLeyUmGI5-O5JAqP6fWIuw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MTAtODM2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/paNKP8PjEeWRbu-bNjZ2nzjmj__TffwYr6N5n5vxJQo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDctMzEzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/qFhNZLyihEt-hh38rmsaK_MtYOoUGrHxF3u3pikccMo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MTEtMjkyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/X6pCAeooDFWEs809d5DINgrNaeL-AaVkF9ZlgQymxVI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDgtNTg1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Jp08JaoNIFgpgw1-tm75aBaVkFQV8elZzXxr-ao72Us/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDktNzk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/lA29YeOSFMj3FDhI1tirIeL4qL9wmdrX9TJiCrXOmLk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjkx/NjQ2LTE2MjE2Mzgx/MDktNjU0NC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Drum n Bass", "Jungle"]
 ---
@@ -37,16 +52,10 @@ styles: ["Drum n Bass", "Jungle"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Goldie - Inner City Life (Official Music Video)
 {{< youtube id="i-P98B2skts" title="Goldie - Inner City Life (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Goldie - Kemistry (V.I.P Mix)](https://www.youtube.com/watch?v=qL_jXmEgN_Q)
@@ -98,13 +107,15 @@ styles: ["Drum n Bass", "Jungle"]
 - [Goldie Presents Metalheads   Inner City Life](https://www.youtube.com/watch?v=fqX5AM-7ixM)
 - [Goldie & Beverley Knight - Inner City Life (Live at Commonwealth Games 2022 Closing)](https://www.youtube.com/watch?v=AseB9RMuRSI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Goldie - Timeless (25th Anniversary Edition)](https://www.discogs.com/release/18291646-Goldie-Timeless-25th-Anniversary-Edition) |
-| Label          | Metalheadz |
 | Format         | Vinyl 3× LP Album Limited Edition Reissue (Gold) |
+| Label          | Metalheadz |
 | Catalog Number | LMS551367 |
 | Notes | Released in tri-fold sleeve. |
+| Discogs URL    | [Goldie - Timeless (25th Anniversary Edition)](https://www.discogs.com/release/18291646-Goldie-Timeless-25th-Anniversary-Edition) |

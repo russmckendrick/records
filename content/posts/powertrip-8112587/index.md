@@ -11,6 +11,18 @@ cover:
     image: "powertrip-8112587.jpg"
     alt: "Powertrip by Monster Magnet"
     caption: "Powertrip by Monster Magnet"
+additional_images:
+    - "https://i.discogs.com/W64s64An2yNZfXIfP7_gPxRyy4NCl8qxEqas9MDcd7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ1NTM3NzU0/Ny02MTMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/W9M2WMsF1ixnr3ZsdYSeJwbV5Iztm1PGLVOlrq8iaiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ1NTM3NzU0/OC05NjM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/c_6tysxdxJgVtSS3XT-s2dAOoD07XNl2Y-XV59hjMto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ1NTM3NzU0/OS0zNDIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Ss6iWYUgk-BI2_TbjGQsgMfg_E2tXhKNVFhXJb4IObE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/Ny0xNjIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/a53kZuKibhN6o8GFwgxcvfUxzwmrl118tCydxhziFUA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/OC04MjA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/An5GIYtxyaADd_TECNbdy85Z_Z-q1P8RWK_v0QcLl98/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/My00MTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Z8tKSY56g8BpiyhEbDTzERwSd_jDUyxOPR8e0xUM5O4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/NC04ODk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/9g4gx-G6XmoZ355pY7DgT_RKZg4F7Bkcg_5pNwDoWJU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/Ny0yNjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/C5SX4s8C7aMIkEJ2u6oSzIFXQjt4sj--V5Kfy22rEGY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/NC0yMjQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/rYED_ii0pWQiWvaX0zKzDKEIN-Bg59yOcqJX9fg6g7E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/OC01ODk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/e9IwpVnjLXgVaitywWOlZ8W994rHFf5gk9DxMm_qDVQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/NS04MjY2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
@@ -38,22 +50,13 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 
 <!-- section break -->
 
-
 Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkwind, Black Sabbath, and Iggy & The Stooges, making leader Dave Wyndorf's authority unquestionable. He lives and breathes this music, and it shows. There are no half-steps here. The opening Stooges-like menace of "Crop Circle" is earth-rattling, and things only get crazier from there. "Powertrip", "Space Lord", and "3rd Eye Landslide" are solid rock/punk numbers with massive guitar sounds that make them easy shots for the arena. "See You in Hell" tells a creepy story based in truth, with a garage-rock organ that's pure psychedelia. "Baby Götterdämerung" throws in heavily tremoloed guitar for a psychedelic ballad. "Temple of Your Dreams" evokes the warrior side of heavy metal. "Tractor", an older MM song, is a beautifully dirty track that wallows in sludge. "19 Witches" throws in spaghetti western guitar. The band sounds both heavy and like it's having fun. <i>Powertrip</i> is a stone classic.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/powertrip/1440922360" >}}
-
-
-
-
-
 ## Videos
 ### Monster Magnet - Powertrip
 {{< youtube id="jE7Zv6d-HUA" title="Monster Magnet - Powertrip" >}}<br>
-
 ### More Videos
 
 - [Monster Magnet – Temple Of Your Dreams](https://www.youtube.com/watch?v=1JLcNRtr7nQ)
@@ -71,13 +74,16 @@ Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkw
 - [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
 - [Monster Magnet – See You In Hell](https://www.youtube.com/watch?v=MRrEUZLWD9o)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkwind, Black Sabbath, and Iggy & The Stooges, making leader Dave Wyndorf's authority unquestionable. He lives and breathes this music, and it shows. There are no half-steps here. The opening Stooges-like menace of "Crop Circle" is earth-rattling, and things only get crazier from there. "Powertrip", "Space Lord", and "3rd Eye Landslide" are solid rock/punk numbers with massive guitar sounds that make them easy shots for the arena. "See You in Hell" tells a creepy story based in truth, with a garage-rock organ that's pure psychedelia. "Baby Götterdämerung" throws in heavily tremoloed guitar for a psychedelic ballad. "Temple of Your Dreams" evokes the warrior side of heavy metal. "Tractor", an older MM song, is a beautifully dirty track that wallows in sludge. "19 Witches" throws in spaghetti western guitar. The band sounds both heavy and like it's having fun. <i>Powertrip</i> is a stone classic. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Monster Magnet - Powertrip](https://www.discogs.com/release/8112587-Monster-Magnet-Powertrip) |
-| Label          | Spinefarm Records |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
+| Label          | Spinefarm Records |
 | Catalog Number | 00600753637661 |
 | Notes | Black vinyl. Printed inner sleeves.  Hype sticker on the shrink-wrap: MONSTER MAGNET OFFICIAL RE-ISSUE 2LP SET RE-MASTERED FOR MAXIMUM POWERTRIPPIN! "Swing's like God's Own Dick!" Includes sleeve-notes & bonus studio + remixed material Includes Free Album Download Code 00600753637661  Recorded at North Vine Studios and NRG Recording Services. Mixed at The Armoury Studios, Vancouver, BC, Chapel Studios, Encino, CA, Larrabee West, Hollywood, CA, and A&M Recording Studios, Hollywood, CA. Mastered at Precision Sound Studios, Los Angeles, CA.  All songs published by Bull God Music Inc./Songs of PolyGram International, Inc. (BMI)  Original Sound Recording Made by A&M Records Ltd.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company. Made in the EU. |
+| Discogs URL    | [Monster Magnet - Powertrip](https://www.discogs.com/release/8112587-Monster-Magnet-Powertrip) |

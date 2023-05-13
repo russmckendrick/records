@@ -10,6 +10,15 @@ cover:
     image: "peter-gabriel-9473573.jpg"
     alt: "Peter Gabriel  by Peter Gabriel"
     caption: "Peter Gabriel  by Peter Gabriel"
+additional_images:
+    - "https://i.discogs.com/PcJ13WkojS-mnCo_kcXZTaxGkialROpG9w2eC3w4v-A/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTQ4MTIwMjQ4/Mi0zMDA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/0CE_dZriS0gMTxhR3QMyAMZ4ZV--xQhQXB6iUxtPSAE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTQ4MzgwODAw/My00OTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/eFVp433yaabUbtOeGRxpK5VG1NFZ5HNEPZUQ6HkIgQY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTY1NDY3ODM2/Ni04Njk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/qHBPIrn4w_9EoiO7MQQyTLtJISsX3xTTHzwmetn0o14/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTY1NDY3ODM3/NC02NzQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/yQQUaqleuxTlZOaZ5qNdeF382sP6iRPPg-n4tqJ7_IE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTY1NDY3ODM0/OC0yMjMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ogUDTFZcQgAIjjubEFwpEjbixKdhgoiY46sH3ocvqYU/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTY1NDY3ODM1/Ny0yODgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZrtI1XxWW2hiVA2a9BOpPxCwaQ-9me_nimSVIbv05KE/rs:fit/g:sm/q:90/h:169/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTY1NDc2MzM5/Mi02NzI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/5-SZteRWIU_STwgSETwSlnaoRVTbIt4EfQCwh7rOYeU/rs:fit/g:sm/q:90/h:790/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/NzMtMTYwNDM0MDQz/Ny01MDU3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 ---
@@ -29,23 +38,25 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
+Peter Gabriel is the fourth studio album by the English rock musician Peter Gabriel. In the United States and Canada, the album was released by Geffen Records with the title Security. Some music streaming services refer to it as Peter Gabriel 4: Security. A German-language version, entitled Deutsches Album (German Album), was also released. The album saw Gabriel expanding on the post-punk and world music influences from his 1980 self-titled record, and earned him his first US top 40 single with "Shock the Monkey".
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Peter_Gabriel_(1982_album) |
+| Wikipedia Summary | Peter Gabriel is the fourth studio album by the English rock musician Peter Gabriel. In the United States and Canada, the album was released by Geffen Records with the title Security. Some music streaming services refer to it as Peter Gabriel 4: Security. A German-language version, entitled Deutsches Album (German Album), was also released. The album saw Gabriel expanding on the post-punk and world music influences from his 1980 self-titled record, and earned him his first US top 40 single with "Shock the Monkey".<br><br> |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Peter Gabriel - Peter Gabriel ](https://www.discogs.com/release/9473573-Peter-Gabriel-Peter-Gabriel-) |
-| Label          | Real World Records |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 grams) |
+| Label          | Real World Records |
 | Catalog Number | PGLPR4 |
 | Notes | ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.  Half-Speed Remaster + Hi-Res Download Code.  Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped. |
+| Discogs URL    | [Peter Gabriel - Peter Gabriel ](https://www.discogs.com/release/9473573-Peter-Gabriel-Peter-Gabriel-) |

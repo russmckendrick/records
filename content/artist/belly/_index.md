@@ -3,4 +3,5 @@ title: "Belly"
 summary: "Hard-edged pop band founded by former member Tanya Donelly, following her short stint with . Formed in 1991 by Tanya with fellow ex-Muse Fred Abong and brothers Chris and Tom Gorman, they achieved strong initial success in both the UK and US indie/alternative scenes. Twice Grammy-nominated in the early 1990s. Abong left the band during the recording of their debut, *Star*, and was replaced by Gail Greenwood on bass. The subsequent tour boosted their popularity, however, their second album, *King*, which was expected to build on the success of its predecessor, wasn't as well received. Donelly disbanded Belly in 1996 and released her first solo material at the end of the year. In February 2016, Belly announced their reunion for live shows, as well as plans to record new material. The band launched a PledgeMusic campaign, and released their third album, *Dove*, on 3 May 2018."
 image: "belly.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/belly/256052273"
+wikipedia_url: "none"
 ---

@@ -10,6 +10,12 @@ cover:
     image: "bright-magic-20338117.jpg"
     alt: "Bright Magic by Public Service Broadcasting"
     caption: "Bright Magic by Public Service Broadcasting"
+additional_images:
+    - "https://i.discogs.com/hrJ4dusvSAn772FG7TQCqFw3u5c9hlQIqU7Z_pdeDpc/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/MzctNDQ3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/z52JIje4qvMy5vzDJbNrPo-6LhgnLwh7B9l1DJAdbHU/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/NDMtNTE5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/1A_IrTFZ8NSeNoxszU92Jabmzugd9bFh1juYDfVy8Cg/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/NDgtMzI5My5qcGVn.jpeg"
+    - "https://i.discogs.com/DFcuXevOBci1P1MGCILlaBknWs325mDNiuOC83uRqzg/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI2/MzQtNjg3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/3RhDs9g3bfOZkj5WM44uhV7T7yDUhgoV7jXt0WmwvZI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI3NTE3/MzItODAzNS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
@@ -32,20 +38,12 @@ styles: ["Indie Rock", "Post Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bright-magic/1566582480" >}}
-
-
-
-
-
 ## Videos
 ### Der Sumpf (Sinfonie der Großstadt)
 {{< youtube id="meB6tZRqeWw" title="Der Sumpf (Sinfonie der Großstadt)" >}}<br>
-
 ### More Videos
 
 - [Im Licht](https://www.youtube.com/watch?v=EVqhzYW6uLk)
@@ -59,13 +57,15 @@ styles: ["Indie Rock", "Post Rock"]
 - [Public Service Broadcasting - Lichtspiel III: Symphonie Diagonale](https://www.youtube.com/watch?v=hbLGFrWid-w)
 - [Ich und die Stadt](https://www.youtube.com/watch?v=GQ2tZjtfOgc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Public Service Broadcasting - Bright Magic](https://www.discogs.com/release/20338117-Public-Service-Broadcasting-Bright-Magic) |
-| Label          | Play It Again Sam |
 | Format         | Vinyl LP Album Limited Edition Stereo (Orange/Black [Marbled]) |
+| Label          | Play It Again Sam |
 | Catalog Number | PIASR1230LPX |
 | Notes | Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX  Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print  ℗ & © 2021 Test Card Recordings Released under exclusive license to Play It Again Sam.  Made in The EU. |
+| Discogs URL    | [Public Service Broadcasting - Bright Magic](https://www.discogs.com/release/20338117-Public-Service-Broadcasting-Bright-Magic) |

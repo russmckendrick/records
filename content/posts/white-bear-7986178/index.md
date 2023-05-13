@@ -10,6 +10,17 @@ cover:
     image: "white-bear-7986178.jpg"
     alt: "White Bear by The Temperance Movement"
     caption: "White Bear by The Temperance Movement"
+additional_images:
+    - "https://i.discogs.com/osZe4QZJbgjsaOf2XlfGgBNLqSyoSe3YJPTnjo3fj6s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTUxODYwMDI5/Ny0xNTgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Cq7jw1iE6Wm2DEk1Y6ab21rJmK3PPf0cNnAUXVOkkyA/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTUxODYwMDI5/Ny0yNDk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/H6wNQuuDZG3tQXgvdljaPRziZ84jgrSL0kpk3p3VGBk/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTQ1Mjk2NTEw/MC04MDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/kAl5BcAbwvGjrZvtfSmZ1vs7SWACtiP9na68hse28uM/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0yMTIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/7al1Nf7IjCsPMXhvP2GuiYdD0fI5nZBAQsZcUf0CDzs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0zMTIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/_Fzsh7ohunU6zyr5CVz5wLTYQWj2KRIQkf_yPiKDkUY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0zODA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/9kVJUsvbd95ETa30A_xLFzuE0j-VS_p794ufPd8ztDY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0xMTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/usF9WJAovR-MIAs_OAucfSZDOr0dq2eclBua8o1NpdA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC00NTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ReLiQtZEQ65mStGPWPFVIUj0JS7qLyBRTdQ4ubforJg/rs:fit/g:sm/q:90/h:867/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC03MTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Qp-nkTZX5sSGFu3zp7i50NLgeFU7tNM3n9DkIAH8DYg/rs:fit/g:sm/q:90/h:874/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0xNjk2LmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
@@ -31,20 +42,14 @@ styles: ["Blues Rock"]
 
 <!-- section break -->
 
-
-
-
+White Bear is the second studio album by British rock band the Temperance Movement.
+The album was produced in 2015 and released on 15 January 2016.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-bear/1037063159" >}}
-
-
-
-
-
 ## Videos
 ### The Temperance Movement - Three Bulleits (Official Audio)
 {{< youtube id="Cv2qj9Vm7uo" title="The Temperance Movement - Three Bulleits (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [The Temperance Movement - Get Yourself Free (Official Audio)](https://www.youtube.com/watch?v=Lza9M-5dL0s)
@@ -57,13 +62,17 @@ styles: ["Blues Rock"]
 - [The Temperance Movement - The Sun and Moon Roll Around Too Soon (Official Audio)](https://www.youtube.com/watch?v=_8MZg6H6CCw)
 - [The Temperance Movement - I Hope I'm Not Losing My Mind (Official Audio)](https://www.youtube.com/watch?v=vLH6Uy_TlwI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/White_Bear_(album) |
+| Wikipedia Summary | White Bear is the second studio album by British rock band the Temperance Movement.<br>The album was produced in 2015 and released on 15 January 2016. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Temperance Movement - White Bear](https://www.discogs.com/release/7986178-The-Temperance-Movement-White-Bear) |
-| Label          | Earache |
 | Format         | Vinyl LP Album Stereo (White) |
+| Label          | Earache |
 | Catalog Number | MOSH556LP |
 | Notes | White version of the "White Bear" album. Two versions were available : - simple white vinyl - "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package. Both comes with A double sided 12 panel poster.  Manufactured in the EU.  Durations do not appear on this release.  |
+| Discogs URL    | [The Temperance Movement - White Bear](https://www.discogs.com/release/7986178-The-Temperance-Movement-White-Bear) |

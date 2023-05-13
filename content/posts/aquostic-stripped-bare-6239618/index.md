@@ -10,6 +10,15 @@ cover:
     image: "aquostic-stripped-bare-6239618.jpg"
     alt: "Aquostic Stripped Bare by Status Quo"
     caption: "Aquostic Stripped Bare by Status Quo"
+additional_images:
+    - "https://i.discogs.com/esWQ_B21pyq4jNAzNXNnKQZsNIaoVkG0JFDDyPConv4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/My05NTY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/5HkZ7Rko1-AAXO0V49_sN92QVE3ln3wjQitGq_zmjRQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NC02NDUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/U-ESCFGwedV4G8y7iVsDtHBgZv_4hk6TT1g-ke-LkGg/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NC0yMDA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/TedM4t6AdlFlN2fk6hdoR7gAH9aR4FP60cMHS3GrcM8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NC05ODI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/5XvztEfJeqUkjRI8QD2OSFX_ecXpixpMXWRrfbrOh3o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NS01MTU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/t4cHRr53-WUjxULHXqVVFUY1w_q1AqZOt9g2ZYihyqA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NC03NDUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/yfFTNoBoVpg78iTyGUk7TvkCKEEEn6p_7GXa1hgdXFA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NC0xMzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/qHsGUPJg9cDUmHheFuvUkHf1WOeZ8_QoMybiwu3U-og/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzk2/MTgtMTQ3MDY3OTYx/NS04OTI5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic"]
 ---
@@ -43,23 +52,23 @@ styles: ["Acoustic"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/920706074" >}}
+## Videos
+### Status Quo-Stripped Bare [full album]
+{{< youtube id="l9a1KiMzhUs" title="Status Quo-Stripped Bare [full album]" >}}<br>
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Status Quo - Aquostic Stripped Bare](https://www.discogs.com/release/6239618-Status-Quo-Aquostic-Stripped-Bare) |
-| Label          | Ear Music |
 | Format         | Vinyl 2× LP Album |
+| Label          | Ear Music |
 | Catalog Number | 0209848ERE |
 | Notes | Gatefold sleeve. Black die cut paper inners. Contains a credit card sized download voucher, printed on one side only.  The purple circle on sleeve front is not a hype sticker but part of the print. |
+| Discogs URL    | [Status Quo - Aquostic Stripped Bare](https://www.discogs.com/release/6239618-Status-Quo-Aquostic-Stripped-Bare) |

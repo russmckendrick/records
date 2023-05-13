@@ -10,6 +10,11 @@ cover:
     image: "the-future-bites-17988457.jpg"
     alt: "The Future Bites by Steven Wilson"
     caption: "The Future Bites by Steven Wilson"
+additional_images:
+    - "https://i.discogs.com/YRf6JgLDYzAy1AryJ4PMuI8ddig8RZhqEKg-tNpN8Oo/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg4/NDU3LTE2MTY2MDUw/NTEtOTkxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/TXeoqhkQpxputUnM72mfwuh1vWQQM6gUTos51zQQdAU/rs:fit/g:sm/q:90/h:355/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg4/NDU3LTE2MTY2MDUw/NTItMzM5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/qL8tTqx7RIf6vh0zzpn3fnpwblcugyY4UO_CMzmUE88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg4/NDU3LTE2MTY2MDUw/NTItODY5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/yxVFHjyhjfvUa01xQFdQRbAuwQtKX0rGUmNLt0f-hkk/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg4/NDU3LTE2MTY2MDUw/NTItNjgzNS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
@@ -30,20 +35,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by British musician Steven Wilson. The album was initially set for release on 12 June 2020 through Caroline International, (his second and final album on the label) but later was pushed back to 29 January 2021 due to the COVID-19 pandemic, which affected the marketing and production related to the album. It was co-produced by Wilson and David Kosten and recorded in London.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-future-bites/1530202084" >}}
-
-
-
-
-
 ## Videos
 ### Steven Wilson - SELF (Official Video)
 {{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}<br>
-
 ### More Videos
 
 - [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
@@ -60,13 +58,17 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Future_Bites |
+| Wikipedia Summary | The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by British musician Steven Wilson. The album was initially set for release on 12 June 2020 through Caroline International, (his second and final album on the label) but later was pushed back to 29 January 2021 due to the COVID-19 pandemic, which affected the marketing and production related to the album. It was co-produced by Wilson and David Kosten and recorded in London. |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17988457-Steven-Wilson-The-Future-Bites) |
-| Label          | Caroline International |
 | Format         | Vinyl LP Album Repress (Clear) |
+| Label          | Caroline International |
 | Catalog Number | CAROL021LPTUK |
 | Notes | Replacement for the UK tour edition of the future bites. |
+| Discogs URL    | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17988457-Steven-Wilson-The-Future-Bites) |

@@ -10,6 +10,8 @@ cover:
     image: "fold-your-hands-child-you-walk-like-a-peasant-6172190.jpg"
     alt: "Fold Your Hands Child, You Walk Like A Peasant by Belle & Sebastian"
     caption: "Fold Your Hands Child, You Walk Like A Peasant by Belle & Sebastian"
+additional_images:
+    - "https://i.discogs.com/HdbJnZx8Uds5-PrbJmgMYEF0DnbwouxMbAOL1d0pmUk/rs:fit/g:sm/q:90/h:360/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIx/OTAtMTQxMzQyMDYw/OS02MTY3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -32,31 +34,28 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scottish group Belle & Sebastian released in 2000.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fold-your-hands-child-you-walk-like-a-peasant/1669033817" >}}
-
-
-
-
-
 ## Videos
 ### Belle and Sebastian - The Wrong Girl
 {{< youtube id="6d9sHXnT3ks" title="Belle and Sebastian - The Wrong Girl" >}}<br>
-
 ### More Videos
 
 - [Belle and Sebastian - I Fought in a War](https://www.youtube.com/watch?v=3MhMODbr-p4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fold_Your_Hands_Child,_You_Walk_Like_a_Peasant |
+| Wikipedia Summary | Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scottish group Belle & Sebastian released in 2000. |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Belle & Sebastian - Fold Your Hands Child, You Walk Like A Peasant](https://www.discogs.com/release/6172190-Belle-Sebastian-Fold-Your-Hands-Child-You-Walk-Like-A-Peasant) |
-| Label          | Matador |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Matador |
 | Catalog Number | OLE 429-8 |
 | Notes | Includes mp3 download coupon. |
+| Discogs URL    | [Belle & Sebastian - Fold Your Hands Child, You Walk Like A Peasant](https://www.discogs.com/release/6172190-Belle-Sebastian-Fold-Your-Hands-Child-You-Walk-Like-A-Peasant) |

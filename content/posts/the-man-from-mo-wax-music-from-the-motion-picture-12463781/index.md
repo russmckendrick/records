@@ -10,6 +10,19 @@ cover:
     image: "the-man-from-mo-wax-music-from-the-motion-picture-12463781.jpg"
     alt: "The Man From Mo'Wax (Music From The Motion Picture) by Various"
     caption: "The Man From Mo'Wax (Music From The Motion Picture) by Various"
+additional_images:
+    - "https://i.discogs.com/-wpr_nrBMmaxPa_geVe9V9nhEgBcyikMc3T26hc1T0s/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE1MzU4MDI3/OTctMzMzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/leEJ7YzfmxfDpL0hLq0C6OJOIYrJ4LNLXZvDr51iRCA/rs:fit/g:sm/q:90/h:281/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzktNzQzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/UtVZYeJi6CugPmVc_CjfLHrsYmxTYNsirTw0EcMwuZM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE1MzU4MDI3/OTctMjA0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/qr1sZityLKwFEIwkSQZ3w7tsIsdxnga2qMgYXf7cvPY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NjktMjg3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/uRJvi9M62VPo_nTwAO76ieXA9XDVRZ74MiSNw59n6Fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzktNDAwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/qaPa-tW51MF_TbS0FDdstVjDqNyldoAnhPcb7CsAIkY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/ODAtMTk3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/UATw2Ru4ZIUmR6NntKf72R86q382BK1QbH5kvjalYl0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzAtNzE5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/tUpGohB_wkvyXjvX7964Jd6a2OlY2AHoaK4t3CYQS-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzMtMTE4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/bbd4hzUKJtavjvTGAUzmsRKOB9q5rh2H5egndUElO4w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzgtMjA2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/7X9fSnieUZz6_HTIA3Nyo2fCaFEBlokNl50FMG63AZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzktNDk0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/1ANCe_9orrhIKAMaj36xLCPqgmG72-o_PWy6VOJKjwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/NzktMTYyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/DI9LQXB_QZ1k5WcH0jNY_TX7AqOYu8bA1O6rm0Vwxp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYz/NzgxLTE2NTAzMDM2/ODAtOTY3Mi5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ---
@@ -40,16 +53,10 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace
 {{< youtube id="VKW-67YNkqo" title="Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace" >}}<br>
-
 ### More Videos
 
 - [Zimbabwe Legit - Doin' Damage In My Native Language (Shadow's Legitimate Mix)](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
@@ -70,13 +77,15 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 - [Ian Brown & U.N.K.L.E - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
 - [DJ Shadow - What Does Your Soul Look Like (Part 1 - Blue Sky Revisit)](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781-Various-The-Man-From-MoWax-Music-From-The-Motion-Picture) |
-| Label          | UMC |
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Limited Edition |
+| Label          | UMC |
 | Catalog Number | 6727901 |
 | Notes | Gatefold sleeve.  Including download code and director's notes. |
+| Discogs URL    | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781-Various-The-Man-From-MoWax-Music-From-The-Motion-Picture) |

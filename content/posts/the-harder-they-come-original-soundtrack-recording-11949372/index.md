@@ -10,6 +10,15 @@ cover:
     image: "the-harder-they-come-original-soundtrack-recording-11949372.jpg"
     alt: "The Harder They Come (Original Soundtrack Recording) by Various"
     caption: "The Harder They Come (Original Soundtrack Recording) by Various"
+additional_images:
+    - "https://i.discogs.com/bYAMFjBg3SOub9jKXbpE1vFYv-tuTFaHK-gSnBoZjI0/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDcz/NDYtNjAyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/yg9X1egQ2R9pXGtdH_3VQD2tayK8lPW3JsW9SR3t-Cc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE2NjY4NjI5/MDMtNTIwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/0wZIQTn3NvPIFmWvO1Fykk5fH5wlBU23hJ76qprnYKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE2NjY4NjI5/MDQtMzQxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/QOkpULR69T-KA__4f7NGo4Vpju42Jd-sHY78bIxfPd0/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc1/MTktNzE0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/BIZzW3_At0M3RH3prVNrERVXBpwSRrJ5bAeB-QlixsI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc5/MDMtMzc3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/3NHOx-zDop-53gepnrZiwwgc-CAfjK0qZlAkEYYKRSo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc5/NjYtNjY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/2zI0OW34NB2lkbdSJMB6Gc7uiCzZ5VkQum3KiGOHVZc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc3/MjYtNjU3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/zyfnyO1eFXyVNyZ2qkIA7J60h9niqCoX9QmT-asYNJA/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc3/OTYtMjg5MC5qcGVn.jpeg"
 genres: ["Reggae", "Stage & Screen"]
 styles: ["Soundtrack", "Reggae"]
 ---
@@ -33,16 +42,10 @@ styles: ["Soundtrack", "Reggae"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Review 25: Jimmy Cliff - The Harder They Come
 {{< youtube id="f0DNBaKWieI" title="Review 25: Jimmy Cliff - The Harder They Come" >}}<br>
-
 ### More Videos
 
 - [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
@@ -64,13 +67,15 @@ styles: ["Soundtrack", "Reggae"]
 - [Jimmy Cliff - Sitting In Limbo + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=9r1Dwa3bou0)
 - [The Melodians - It's My Delight + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=fvMp6elDcOQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372-Various-The-Harder-They-Come-Original-Soundtrack-Recording) |
-| Label          | Island Records |
 | Format         | Vinyl LP Compilation Reissue (180 Gram, Gatefold) |
+| Label          | Island Records |
 | Catalog Number | 00602567073949 |
 | Notes | 180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched. |
+| Discogs URL    | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372-Various-The-Harder-They-Come-Original-Soundtrack-Recording) |

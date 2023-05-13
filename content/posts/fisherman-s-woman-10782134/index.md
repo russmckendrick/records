@@ -10,6 +10,13 @@ cover:
     image: "fisherman-s-woman-10782134.jpg"
     alt: "Fisherman's Woman by Emiliana Torrini"
     caption: "Fisherman's Woman by Emiliana Torrini"
+additional_images:
+    - "https://i.discogs.com/BDobfbxTwOIziFvurrl7ifPJOoGQRVDi0VnjCi4S5r4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5OTQ5/ODQtNzA1My5qcGVn.jpeg"
+    - "https://i.discogs.com/YtM2S8XNWvQRQIl7J15Kvu6VAllvv4d1hO6UlDeVch0/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMzk1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/YrAAera5Fu8s6Xk_mydEtwsVd_w9sFSvxWYarM5lO1Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtNzYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/4UWUrYRxGnYpGa3T342jHKgrawfpnT4KNxJeLNQ0ePc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMTYyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/bSLZ6fNV-xzBPKHNFG373O5nrtOcW5qfV9t4kC6ANC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMTgyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/DSwXAwgYhcbB0z5yM-jyvxV4nTS317vY8paYeRscONM/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE2NzE4MDY5/NzAtMTUyMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
@@ -33,20 +40,12 @@ styles: ["Folk Rock", "Acoustic"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fishermans-woman/259865722" >}}
-
-
-
-
-
 ## Videos
 ### Emiliana Torrini - Nothing Brings Me Down
 {{< youtube id="RRVlUGztsNM" title="Emiliana Torrini - Nothing Brings Me Down" >}}<br>
-
 ### More Videos
 
 - [Emiliana Torrini - Nothing Brings Me Down HD](https://www.youtube.com/watch?v=l7mXLajOYpc)
@@ -70,13 +69,15 @@ styles: ["Folk Rock", "Acoustic"]
 - [Emiliana Torrini - Serenade](https://www.youtube.com/watch?v=hoLBtOOuM34)
 - [Emiliana Torrini-Serenade lyrics](https://www.youtube.com/watch?v=giMPPilet8Y)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Emiliana Torrini - Fisherman's Woman](https://www.discogs.com/release/10782134-Emiliana-Torrini-Fishermans-Woman) |
-| Label          | Rough Trade |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Rough Trade |
 | Catalog Number | RTRADLP185 |
 | Notes | Issued in a gatefold sleeve with barcode sticker on shrink wrap. |
+| Discogs URL    | [Emiliana Torrini - Fisherman's Woman](https://www.discogs.com/release/10782134-Emiliana-Torrini-Fishermans-Woman) |

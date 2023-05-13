@@ -11,6 +11,46 @@ cover:
     image: "kid-a-mnesia-21254395.jpg"
     alt: "Kid A Mnesia by Radiohead"
     caption: "Kid A Mnesia by Radiohead"
+additional_images:
+    - "https://i.discogs.com/HRdqPgYGuzayDK5L1JbX1l1JqSxR1ZoP_j8b2LSpFeY/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MTUtMTY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/wVlCGmBurZZLtfkSqLAjH6reYNNJ4p-3mtn-orBpK5k/rs:fit/g:sm/q:90/h:660/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MjctNTI4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/nVBJcjfygmNwbv2x1hIXR4omfwUjldzHOvb7t1Fcueg/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDMzOTY1/NjUtNDU3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hrY5MvOi7bJBH5GYihOorRwDZeSRPhneybpEFTzRQh0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NTgtNjc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/7LXtzqFWDFM-EwAfowB_Lhl6v9oT086Cu8Z0Izf2lEc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjAtODUyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/FfRBstF_oyc0kDipM2CVA9p7BtOi1RjyT1Pg1jbV36s/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjItMTg4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/D8xtiGx1bJwx2y6FeDkGf455osvT6WiWqetEZOT7KE8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjktNTc1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/HPmgb-ASAB-p5Pj_pDJ2jXy2DcVqY6ZJDUaN2r_qrgk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzEtMzMwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/21kw3V4QioQF3mCkRvOvkfkCeFQ1beqYvlXY4PJew8k/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzMtMTc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/xc0_PhB9hSGIytHlNnZsgtdD-BiM2OaFuOWny86ECsI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjQtODMyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/ufg6DlhGpvyqqUzQqvoPMPpHc5t2fqi-59Aq6wo5s30/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjYtOTkwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/2ZKXDZGY_w1VngJOhQeVM_6APRyuUbM1cmJBjO4A5mA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjctNDU5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ALMbw55x94mbnGfGMjno3UtVlG-mf-TWcnYZs4ZrV4w/rs:fit/g:sm/q:90/h:1797/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MzUtNjIwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/lPLUvsidKLb1hC7D0atbWgRyKdgGTQoKl4l12yh3tjE/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NDUtNTE2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/JFTqitFDbONcKpqiRWgt13oeVfuHV9GNmjYBDe5VxnM/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NTEtNjE5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/JEqJ_YI9T0OaeJapdGDVUaGZP0xvfNSGx8TMsaBTrx4/rs:fit/g:sm/q:90/h:328/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NTktNTk3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/7-iJ530KuUeEfu77ZeFygaCaWM8GzSV8r8rpvtX2kcg/rs:fit/g:sm/q:90/h:325/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NjctMTY3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/gB9mnh6LG-WPjEItss7v22ztloeVLRTusnOwnqMPUqE/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NzgtMjE5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/JVIL4sRFqVh0LEOT186UDZF-wjzM6F5sTZa5Di0fwBs/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/ODUtMzM4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/KWL0UmK4wCBwK3FyhHZufy0wF-QzoRb6hiVh2mNktnU/rs:fit/g:sm/q:90/h:327/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/OTEtNDU1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/HC_BWpa5KI5t0cf4KwubLnQ6P_69d2xu7cAd3edBHAY/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/OTktOTU5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Dl5DT26grmDVp4-NrbikU59nR6xom_4NgGjChMurSJI/rs:fit/g:sm/q:90/h:324/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/MDctNTUzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/E7HI6t3wsM_e7VZYdjICdAQSmbs6EG5OjSGMTW8iWUs/rs:fit/g:sm/q:90/h:317/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/MTUtMzExMC5qcGVn.jpeg"
+    - "https://i.discogs.com/pGJisoLPSgiXOjU9u5iiiYnM5ObQMvUqWVlrD1KqR6o/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/MjQtMzgyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/cHkb-Oc9C9pNjKU3jQ83IgS0zQFWVv2PcwQwY_bimr8/rs:fit/g:sm/q:90/h:321/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/MzItNzM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/psdyOd-VevkdVT45IHtKw4v4ML9f9tsv04Zwe6aMODI/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/NDQtMTg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/xBgjwi-scjW3pCVNaNRozN6V3SNJHZy97po_cqmaM-E/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/NTItOTk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Dq5WI2AraWmzGDAUvunVFZATIcsYlivEcw40Qw6dx7s/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/ODctMTk3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Sq_z8Udx5honYYSsOt4B6GT41hTeSE8SSLykH4-7XUk/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYw/NjMtMjUyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/VBiA_XO4zC1AOw4VpJH8hn8qjMWfUiShaOzeUbUqdDg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzctOTQ4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/FI9_28JbrDq7yl7e1AOPNbTzKs9WVj0iDMyg8iNQFbE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzktNTA4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/UnK0ikzJdmlaoiaJI4ENw89Xx08p40hDPUCWVtAhMNw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/ODItOTYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/RIBo4adNERoHakn9v4E5MDJf8OBqyTu8DoyrnGPul3w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/ODQtMzkyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/22AW-jggMRgOdqjpCXuC_ntDdFXiLA38NMYhzBprYvM/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/ODYtOTk5My5qcGVn.jpeg"
+    - "https://i.discogs.com/apSZ6mHb2H0uO1fSCUXWEoIyotR6_0Q36zHA0oTiJME/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/OTEtODY5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Hw1k75ktCQcybZX4FCTsdYGJ38swgOIYcLTm6NnyLL4/rs:fit/g:sm/q:90/h:316/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDAxMDQ2/NDItOTY2My5qcGVn.jpeg"
+    - "https://i.discogs.com/We2CSY7WxZ7-3Jm_T9vrw3Mm49hi3IIdN1UqNotaoLo/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjYx/MTYtMzI5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/zKqb31pyA1I1ReqjXk2Cjlkn8AkfVRLol5-xL5CQi14/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDAyMDE0/NjgtMjgyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/EisW_IJOMeEGOJ8zDTfdm9Bup5fuxXjS0V462QoIFk0/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDAyMDE0/NjgtMjMxOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "IDM", "Experimental"]
 ---
@@ -59,27 +99,25 @@ styles: ["Alternative Rock", "IDM", "Experimental"]
 
 <!-- section break -->
 
-
 <i>KID A MNESIA</i> isn’t just an occasion to revisit a pair of groundbreaking albums (2000’s <i>Kid A</i> and 2001’s <i>Amnesiac</i>), but a chance to hear a little of how Radiohead got there. Recording sessions were tough: Thom Yorke had writer’s block, and his new commitment to electronic music—or, at least, a turn away from conventional rock—left some of his bandmates wondering about their function and purpose. As guitarist Ed O’Brien once put it, he was a guitarist faced with a bunch of tracks that had no guitar.<br />
 At one point, producer Nigel Godrich split the band into two groups: one working with instruments in the main recording area, the other in a programming room processing sounds from next door, all under the condition that no acoustic instruments—guitars, drums, etc.—be used. The constraints opened doors: Not only did the band discover new ways of working (and, by extension, refresh their passion for music after years of unyielding pressure), but, in doing so, they shifted the template for what we think of when we think of a rock band, mixing the acoustic and the electronic (“Everything in Its Right Place”, “Like Spinning Plates”) and relatively straightforward tracks (“Optimistic”, “Pyramid Song”) with fragmentary, discursive ones (“Kid A”, “Pulk/Pull Revolving Doors”). <br />
 In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “Follow Me Around“) and future (the deconstructed, full-band sound of “If You Say the Word”), as well as versions of “Like Spinning Plates” and “Pulk/Pull Revolving Doors” that chart their evolution in real time. It’s a snapshot of a band taking step back from themselves and the way they worked, finding a way forward in the process.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
-| Discogs Link   | [Radiohead - Kid A Mnesia](https://www.discogs.com/release/21254395-Radiohead-Kid-A-Mnesia) |
-| Label          | XL Recordings |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Kid_A_Mnesia |
+| Wikipedia Summary | Kid A Mnesia is a reissue compiling the albums Kid A (2000) and Amnesiac (2001) by the English rock band Radiohead. It also includes a bonus disc, Kid Amnesiae, comprising previously unreleased material. It was released on 5 November 2021 on XL Recordings. <br>Kid A Mnesia was promoted with a campaign on the social network TikTok, followed by singles and music videos for the previously unreleased tracks "If You Say the Word" and "Follow Me Around". It was released to acclaim, though reaction to the bonus material was mixed. It entered the top 10 of several national album charts, and topped the UK Independent Albums Chart and the US Billboard Top Alternative Albums and Top Rock Albums charts. <br>Kid A Mnesia Exhibition, an interactive experience with music and artwork from the albums, was released in the same month for PlayStation 5, macOS and Windows.<br><br> |
+    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (Cream), Vinyl LP Album Reissue (Cream), Vinyl LP Compilation (Cream), All Media Compilation Deluxe Edition Limited Edition (SCARRY Edition) |
+| Label          | XL Recordings |
 | Catalog Number | XL1166LPX |
 | Notes | Triple cream LP and the “SCARRY” book.    XL1166LPX is on the barcode sticker.  XL1166LPX_2 is on the packaging materials.  Thirty-six large 340mm x 320mm (13.4" x 12.6") pages of KID A and Amnesiac artwork on gloss laminated 600my GC1 board.  Each LP comes in a printed inner sleeve. Extra inner sleeves were included in the mailed package.  Kid A: Mastered [...] at Abbey Road Studios. The track 'Idioteque' contains two samples from the Odyssey label title 'First Recordings- Electronic Music Winners' (1976). The two compositions sampled are Paul Lansky's 'Mild Und Liese' published by Warner Chappell Music Publishing Ltd. and 'Short Piece' by Arthur Krieger published by the Subito Music Corporation. Both samples are used with the kind permission of the composers and the Sony Music Corporation.  Amnesiac: These recordings were made on location at the same time as Kid A Additional musicians on Pyramid Song & Dollars And Cents [...] recorded at Dorchester Abbey, Oxfordshire.  Kid Amnesiae: On Pyramid Strings and How To Disappear Strings: Strings performed by the Orchestra of St. John's [...] recorded at Dorchester Abbey, Oxfordshire. The fonts used are 'BD Plakatbau' by Buro Destruct and 'Deansgate' & 'Deansgate Light' by K-Type.  ℗ 2021 The copyright in this sound recording is owned by XL Recordings Ltd. © 2021 XL Recordings Ltd. All tracks published by Warner Chappell Music Publishing Ltd. |
+| Discogs URL    | [Radiohead - Kid A Mnesia](https://www.discogs.com/release/21254395-Radiohead-Kid-A-Mnesia) |

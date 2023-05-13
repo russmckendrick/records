@@ -10,6 +10,13 @@ cover:
     image: "please-please-please-13262472.jpg"
     alt: "Please Please Please by James Brown & The Famous Flames"
     caption: "Please Please Please by James Brown & The Famous Flames"
+additional_images:
+    - "https://i.discogs.com/_pHie2u-FEi8fcNCqvZkIwgmnTZ_zAfVZQsxvDZqvAc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NjM2MTQ1/NjctNDQ2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/5yh2ESoRxKzMnZ7BUk-vYR2VghFtHCywhjO73fPQnbU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NjM2MTQ3/NzktNjQ3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/wgrr74MP9DRb_H9u0-WRyALXcQm7C9rTIMOho0ZByt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NTQ0NjE2/MzMtNDMyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/g_fpMxKwT-hEVfpqODZDdUej4Fl1tOmKvqDok8lAFIU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NTQ0NjE2/MzktOTM4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/D9gP727xLhvoRN58iIck5jNCNe4jvJrb1fe7b6Z25Rw/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NjM2MTQ1/NjctMjU2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/lMLveasPMTKtgkUecSeNoLC_PrfA65J3fI3ur-jGCmg/rs:fit/g:sm/q:90/h:900/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NjM2MTQ3/OTgtMTM5OS5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
@@ -39,16 +46,10 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### James Brown- Please, Please, Please
 {{< youtube id="EkVZ3dHh6kg" title="James Brown- Please, Please, Please" >}}<br>
-
 ### More Videos
 
 - [Please, Please, Please](https://www.youtube.com/watch?v=pcYny0JxzNY)
@@ -69,12 +70,14 @@ styles: ["Rhythm & Blues", "Soul"]
 - [James Brown - Let's Make It (1959)](https://www.youtube.com/watch?v=yMSbsx7hdhQ)
 - [Love Or A Game](https://www.youtube.com/watch?v=3zseC9DxrKk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |
-| Label          | WaxTime In Color |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180 Gram) |
+| Label          | WaxTime In Color |
 | Catalog Number | 950662 |
+| Discogs URL    | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |

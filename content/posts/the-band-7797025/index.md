@@ -11,6 +11,14 @@ cover:
     image: "the-band-7797025.jpg"
     alt: "The Band by The Band"
     caption: "The Band by The Band"
+additional_images:
+    - "https://i.discogs.com/rz27eAiGucOlYnqlEBtVqvcjYtcxP7BLM_HfCskACdg/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ3/NC01Mjg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/kHrzzEVy--X38KxTuwq-M2Sn44uPYZaNHgw_lPnK17Y/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ3/NC01NzExLmpwZWc.jpeg"
+    - "https://i.discogs.com/iWf8MLTqoPb9Tjeg7Ya6g-ocLqTOhmUiUMlE60XqG5c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ3/NC05Mzg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/EhPA1HbodrGYxFhw8o7cJH7fIzij3HFwRdwvD8d2BJo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ3/NC00NjE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/4OKSWdQSiCzrLYbL2h9qPv6g0cy5LfbEdmuxF7MyXtc/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ2/OS0xMTc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/NYhpZmcVv7MQG5nL-LicWBPjM923JVahGyCdORu4Gz4/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ3/MC00NTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/O62NIyN0zTogjD0J7Q9qplwZxlNkFtjbv4IKwMAAzVQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/MjUtMTYzNjk4MDQ2/Ny01NDg2LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
@@ -34,24 +42,22 @@ styles: []
 
 <!-- section break -->
 
-
 He’s been labelled a hip–hop artist, but as the song says, Post Malone is a rockstar too. His second album regales fans with tales of the hedonism and excess that 2016’s astoundingly popular <i>Stoney</i> afforded him. The <i>beerbongs & bentleys</i> universe is one of partying, girls, money and Saint Laurent clothes, but he makes no secret of the downsides to success. Money is everything—except true happiness, and this tenderness adds a dark depth to his addictive songs. This album, like his previous releases, proves that Post holds the recipe for the perfect chart-topper: a wild lifestyle, exceptionally catchy melodies, and the ability to fit Mötley Crüe drummer Tommy Lee and heartfelt acoustic ballads alongside fiery features from Nicki Minaj, YG and 21 Savage. 
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beerbongs-bentleys/1373516902" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [The Band - The Band](https://www.discogs.com/release/7797025-The-Band-The-Band) |
-| Label          | Capitol Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Band_(album) |
+| Wikipedia Summary | The Band is the second studio album by the Canadian-American rock band the Band, released on September 22, 1969. It is also known as The Brown Album. According to Rob Bowman's liner notes for the 2000 reissue, The Band has been viewed as a concept album, with the songs focusing on people, places and traditions associated with an older version of Americana. Thus, the songs on this album draw on historic themes for "The Night They Drove Old Dixie Down", "King Harvest (Has Surely Come)" and "Jawbone" (which was composed in the unusual 6/4 time signature). |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180gm Gatefold) |
+| Label          | Capitol Records |
 | Catalog Number | 00602547206701 |
+| Discogs URL    | [The Band - The Band](https://www.discogs.com/release/7797025-The-Band-The-Band) |

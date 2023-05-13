@@ -11,6 +11,16 @@ cover:
     image: "encore-13150462.jpg"
     alt: "Encore by The Specials"
     caption: "Encore by The Specials"
+additional_images:
+    - "https://i.discogs.com/yaM12f1_Nj3np1GsU_iPoGEUadCQpfLrHCg870uXcoo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NDg5NDE2/NjEtMjczMS5qcGVn.jpeg"
+    - "https://i.discogs.com/RE8KIUc928HSrFc2R9Ik1GStvlslxpmVgjpSrGpEHpU/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NDg5NDE2/NzktOTUzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/0H6VJ8CU7Mype-LhAkO0XQP0oeddATZWlK9K-WnE4KM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NTAwOTE0/NTEtODQwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/W-n2GpE_DcvDKOEJfJxb2kstkCVYrMvX3mbzXa7VEGU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NTAwOTEx/MzItMjg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/ssCrEJK2EGBLzuQwSuo6_SfdYtcePuiJAUfAcUfqunw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NTAwOTEy/NjctNzk1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/9rTVhS2DT6RIiqUAxuQRtAezWFoIzzzSr3CNhYvGn74/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NTAwOTEz/MDYtNjc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/l7QqQob3L-sRC-uYUsfkF-ScRuSjyxCMoifJJ6-djtA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NTAwOTEz/MzEtMjgzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/e2efJHYAH7tCdWRGkjneYL6Yqt9vchjb5Myj-CXg4W4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NTAwOTEz/NDgtNjQ0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/I26tlyPyoBZkz8MfcfCpLDPFcHfJLb0bEbZmaI2HFe4/rs:fit/g:sm/q:90/h:650/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NDYyLTE1NDg5NDE2/NzMtOTE1My5qcGVn.jpeg"
 genres: ["Rock", "Reggae", "Funk / Soul"]
 styles: ["Ska", "New Wave"]
 ---
@@ -31,7 +41,6 @@ styles: ["Ska", "New Wave"]
 10. We Sell Hope
 
 <!-- section break -->
-
 
 Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Horace Panter had not recorded together as The Specials since laying down 1981’s era-defining “Ghost Town”. If that bred any trepidation about making an album again, it proved unfounded when they convened in 2018. “It was lovely because we were all facing the same way,” bassist Panter tells Apple Music. “We surrounded ourselves with great musicians, making the best music we possibly could. It was really joyous—how I always thought albums ought be made, really.” That serenity has not blunted the band’s edge—<i>Encore</i> is as vital a document of a turbulent world as “Ghost Town” was almost four decades before, contemplating misogyny, racism, crime and mental health with precision, invention and a musical palette that stretches from ska to polka. Here, Panter takes us through the joyous experience, track by track.<br />
 <b>“Black Skin Blue Eyed Boys”</b>
@@ -54,20 +63,12 @@ Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Hora
 “I think Terry had wanted to write about the condition that he has—and how he deals with it, or doesn't deal with it, or didn't deal with it—for quite some time. He was going, 'I want it to be in 5/4. I was sitting on the bus, humming it into my phone, and the woman in front of me turned round and glared at me.' So it sort of came out of the air. We went in and did it and [drummer] Kenrick [Rowe] just nailed it. It’s turned out beautifully.”<br />
 <b>“We Sell Hope”</b>
 “This is: ‘Actually, it’s not all miserable! We know you’ve had a really miserable half-hour listening to our record, but here’s some good stuff! We <i>are</i> positive about things.’ It’s nice and compact. It could have been seven minutes long, it could have ended up like [Pink Floyd's nine-part song series] ‘Shine On You Crazy Diamond’. But, no, let’s just make it a pop record.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/encore-deluxe-edition/1472250007" >}}
-
-
-
-
-
 ## Videos
 ### Stereotype (Live At Le Bataclan)
 {{< youtube id="3y0-Z3w3xq0" title="Stereotype (Live At Le Bataclan)" >}}<br>
-
 ### More Videos
 
 - [Too Much Too Young (Live At The Troxy)](https://www.youtube.com/watch?v=z9uiqpObNLA)
@@ -90,13 +91,17 @@ Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Hora
 - [Ghost Town (Live At Le Bataclan)](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
 - [All The Time In The World (Live At The Troxy)](https://www.youtube.com/watch?v=XLV6zYEDqGA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [The Specials - Encore](https://www.discogs.com/release/13150462-The-Specials-Encore) |
-| Label          | Island Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Encore_(The_Specials_album) |
+| Wikipedia Summary | Encore is the eighth studio album by the English ska revival band The Specials. It is their first studio album of original songs since 1998's Guilty 'til Proved Innocent!, and their first new material with vocalist Terry Hall since 1981's "Ghost Town" single.<br>The album features three covers of older songs; "Black Skin Blue Eyed Boys" (originally by The Equals), "Blam Blam Fever" (originally by The Valentines) and "The Lunatics" (originally by Hall and Lynval Golding's group Fun Boy Three, released in 1981 as "The Lunatics (Have Taken Over the Asylum)"). The Specials, in a different incarnation, previously released a cover of "Blam Blam Fever" on 2000's studio album Skinhead Girl.<br>The track "10 Commandments" is a rebuttal to Prince Buster's "Ten Commandments", criticising the original's outdated representation of women. The track features a lead vocal from Saffiyah Khan, who came to prominence after being photographed challenging an English Defence League demonstration whilst wearing a Specials t-shirt.Encore entered at number 1 on the UK Albums Chart after its first week of release, falling to 5 the week after and spending 9 weeks on the charts.<br><br> |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
+| Label          | Island Records |
 | Catalog Number | 7721103 |
 | Notes | Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover |
+| Discogs URL    | [The Specials - Encore](https://www.discogs.com/release/13150462-The-Specials-Encore) |

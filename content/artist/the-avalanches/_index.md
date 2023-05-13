@@ -1,6 +1,7 @@
 ---
 title: "The Avalanches"
-summary: "The Avalanches are an electronic music group from Melbourne, Australia, best known for their live DJ sets and debut album Since I Left You, which was assembled from approximately 3,500 vinyl samples. Their name, the last of multiple one-off stage names from early in the band's career, was taken from the 1960s surf album * With *."
+summary: "The Avalanches are an Australian electronic music group formed in Melbourne in 1997. They have released three studio albums Since I Left You , Wildflower , and We Will Always Love You , and perform live and recorded DJ sets. The group currently consists of Robbie Chater, Tony Di Blasi and Andy Szekeres. The band is an exponent of the plunderphonics genre, and their first album, Since I Left You, has been recognised by many critics as the most important example of the genre."
 image: "the-avalanches.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-avalanches/27524431"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Avalanches"
 ---

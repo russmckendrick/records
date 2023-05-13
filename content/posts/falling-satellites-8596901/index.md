@@ -10,6 +10,9 @@ cover:
     image: "falling-satellites-8596901.jpg"
     alt: "Falling Satellites by Frost*"
     caption: "Falling Satellites by Frost*"
+additional_images:
+    - "https://i.discogs.com/MRWG5Q-G9n-C8nbeqnh4Sgjur1drjbLbszBZOtxBSu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY5/MDEtMTQ2NDc4OTMx/Ni01MDA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/X2ktMXKAs9_5ZcjgDtmwTEqB4typitXEgISQd98C9Rg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY5/MDEtMTQ2NDc4OTI4/Mi01NDU0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
@@ -49,32 +52,26 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/falling-satellites/1102992919" >}}
-
-
-
-
-
 ## Videos
 ### FROST* - Numbers (OFFICIAL VIDEO)
 {{< youtube id="exnCIi-MLkc" title="FROST* - Numbers (OFFICIAL VIDEO)" >}}<br>
-
 ### More Videos
 
 - [The Raging Against The Dying of the Light Blues in 7/8](https://www.youtube.com/watch?v=89I01Wd5a1Q)
 - [Frost* - Lights Out (Progressive Rock)](https://www.youtube.com/watch?v=biEvNFPTpcw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Frost* - Falling Satellites](https://www.discogs.com/release/8596901-Frost-Falling-Satellites) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album (180 g), CD Album |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 450 |
 | Notes | Issued in a glossy gatefold sleeve. Includes printed inner sleeves with artwork and lyrics.  [On sticker on shrink (along with some hype text):] 180g Gatefold 2 LP Vinyl Edition (incl. bonus tracks and the album on CD) Frost* is the brainchild of Jem Godfrey, who is joined by John Mitchell ([a4256294] / [a323594]) on guitar and vocals, Nathan King ([a17640]) on bass and Craig Blundell ([a227943]) on drums.  © 2016 InsideOutMusic  ℗ 2016 Century Media Records Ltd. under exclusice license from InsideOutMusic Made in Germany  Recorded at The Cube, Mayfield, Strongroom, London and The Outhouse, Reading Strongroom recordings engineered by Lee Slater Mastered [...] at Metropolis  "Dedicated to Peter John Godfrey, 28/7/34 - 8/1/16."  [Cat# appearances:] "88985318931" on spine, labels and CD "IOMLP 450" on back cover "IOMCD 450" on CD  Tracks D1, D2, D3 (CD-12 to CD-14) are bonus tracks. |
+| Discogs URL    | [Frost* - Falling Satellites](https://www.discogs.com/release/8596901-Frost-Falling-Satellites) |

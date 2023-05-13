@@ -41,9 +41,9 @@ enableRobotsTXT = true
     url = "/search/"
     weight = 11
   [[menu.main]]
-    name = "Random Album"
+    name = "Crate Digging"
     url = "/random/"
-    weight = 12
+    weight = 200
 
 [taxonomies]
   artists = "artist"

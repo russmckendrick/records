@@ -10,6 +10,12 @@ cover:
     image: "quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777.jpg"
     alt: "Quadrophenia (Music From The Soundtrack Of The Who Film) by Various"
     caption: "Quadrophenia (Music From The Soundtrack Of The Who Film) by Various"
+additional_images:
+    - "https://i.discogs.com/LX_VoOVjquop8S4kchCfZSR8FZeikdWqWhj8hMVPbVk/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/Nzc3LTE0OTI5MDU2/ODctNzc5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/QJaZU0rWGyo43TFNV0sDizs1cm8lmk7Zlq27XKA_hgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/Nzc3LTE0OTMwMDA4/OTYtODI2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/IFsQtuMgbv_DoTLMr46PGM7FGoN6phSQLhBylydm9NY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/Nzc3LTE0OTMwMDA5/MDMtODQ2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Vf4dmx5EFX5R2nygnNO_ZcSC9qCqXR2joTlhldfB8rU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/Nzc3LTE0OTMwMDA5/MTMtNDcwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/9Vn5A8ol5vO6qdaoZMJ6CVVJsCXh3XzEBYB1L7gI1Rc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/Nzc3LTE0OTMwMDA5/MjMtODc3MC5qcGVn.jpeg"
 genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues", "Mod"]
 ---
@@ -43,16 +49,10 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### 5:15 - Quadrophenia - The Who
 {{< youtube id="OR5v4yyPV6Y" title="5:15 - Quadrophenia - The Who" >}}<br>
-
 ### More Videos
 
 - [The Chiffons - He´s So Fine](https://www.youtube.com/watch?v=rinz9Avvq6A)
@@ -68,13 +68,15 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 - [The Ronettes - Be My Baby - live [HQ]](https://www.youtube.com/watch?v=jrVbawRPO7I)
 - [The Crystals - Da Doo Ron Ron - new stereo remix versions](https://www.youtube.com/watch?v=v-qqi7-Q19k)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Various - Quadrophenia (Music From The Soundtrack Of The Who Film)](https://www.discogs.com/release/10174777-Various-Quadrophenia-Music-From-The-Soundtrack-Of-The-Who-Film) |
-| Label          | Polydor |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Green) |
+| Label          | Polydor |
 | Catalog Number | 5732868 |
 | Notes | RSD 2017 Re-issue on 180 gram "Parka Green" coloured vinyl.  Comes in gatefold sleeve. |
+| Discogs URL    | [Various - Quadrophenia (Music From The Soundtrack Of The Who Film)](https://www.discogs.com/release/10174777-Various-Quadrophenia-Music-From-The-Soundtrack-Of-The-Who-Film) |

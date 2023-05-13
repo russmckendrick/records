@@ -11,6 +11,20 @@ cover:
     image: "kiwanuka-14335267.jpg"
     alt: "Kiwanuka by Michael Kiwanuka"
     caption: "Kiwanuka by Michael Kiwanuka"
+additional_images:
+    - "https://i.discogs.com/sx39q6ZFPIxCanRNyfF__C5DTnwsbT-tGBl4YOM-LYM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1Nzk1MzYw/NDEtOTYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/-aKbWDkS2xgTxjfwLTzoSynTdxWeWy5g1mDEM7mX6L4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODQtNTgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/y_kpKBCAdWhXxoFJsUhh6Bk1B79NCKicJKuGHDNJqFQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODUtNjQ2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ikKYQIc0MsjxBr3PJmg_Unaapvq_IhHmhaLs10o4QYg/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1Nzk1MzYw/NDEtMTM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/YHZ93H3VOMGBJPIJG8NW0jcvDRWNy_nXa2UhgYNydMY/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE1/NjQtNjEzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/lgZnoZdgx1YHxK2AkLT0sxotzW8IqF5RX7OEpDwlgss/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE1/NjgtNzM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/hfGzW6N5ZMhH9QDyrhQvKe_AB8N3-4qKBB9lM_WW41M/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE2/NzMtNjY2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/6aH1Pt58BfKeu0kvKbCaAftYapCDa7RuAdT0ucPPa1o/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE3/MjgtNTY3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/wSZm-0xOukEDXi1ReGOIEV_JOenC6dEjJAtDq_wIHRE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODYtOTMyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/JgDcKlDnhemrYr_dNGO13a5lbxF10docN7fDqeu7tGI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODctNDQwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/VmafuiFh7bB1kxh9NdsI5_g27FU2I_TTI7x_w-sEcw0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODItNTYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/XxLbMyR-7tPCMVr6wclnjPWLyugXGXU9rUIYiYZG-qw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODctNjY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/L_YJQndiKuDS3JIdDt20k_FOwwT1iGR9HkYtVfzxAJg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE2Mzg1NjE5/MDktNjQyNS5qcGVn.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
@@ -34,7 +48,6 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 13. Light (5:48)
 
 <!-- section break -->
-
 
 Michael Kiwanuka never seemed the type to self-title an album. He certainly wasn’t expected to double down on such apparent self-assurance by commissioning a kingly portrait of himself as the cover art. After all, this is the singer-songwriter who was invited to join Kanye West’s <i>Yeezus</i> sessions but eventually snuck wordlessly out, suffering impostor syndrome. That sense of self-doubt shadowed him even before his 2012 debut <i>Home Again</i> collected a Mercury Prize nomination. “It’s an irrational thought, but I’ve always had it,” he tells Apple Music. “It keeps you on your toes, but it was also frustrating me. I was like, ‘I just want to be able to do this without worrying so much and just be confident in who I am as an artist.’” Notions of identity also got him thinking about how performers create personas—onstage or on social media—that obscure their true selves, inspiring him to call his third album <i>KIWANUKA</i> in an act of what he calls “anti-alter-ego”. “It’s almost a statement to myself,” he says. “I want to be able to say, ‘This is me, rain or shine.’ People might like it, people might not, it’s OK. At least people know who I am.” Kiwanuka was already known as a gifted singer and songwriter, but <i>KIWANUKA</i> reveals new standards of invention and ambition. With Danger Mouse and UK producer Inflo behind the boards—as they were on <i>Love & Hate</i> in 2016—these songs push his barrel-aged blend of soul and folk further into psychedelia, fuzz rock and chamber pop. Here, he takes us through that journey song by song.<br />
 <b>You Ain’t the Problem</b>
@@ -67,20 +80,12 @@ Michael Kiwanuka never seemed the type to self-title an album. He certainly wasn
 “I just thought ‘Light’ was a nice dreamy piece to end the record with—a bit of light at the end of this massive journey. You end on this peaceful note, something positive. For me, light describes loads of things that are good—whether it’s obvious things like the light at the end of the tunnel or just a light feeling in my heart. The idea that the day’s coming—such a peaceful, exciting thing. We’re just always looking for it.”<br /><i>All Apple Music subscribers using the latest version of Apple Music on iPhone, iPad, Mac, and Apple TV can listen to thousands of Dolby Atmos Music tracks using any headphones. When listening with compatible Apple or Beats headphones, Dolby Atmos Music will play back automatically when available for a song. For other headphones, go to Settings > Music > Audio and set the Dolby Atmos switch to “Always On.” You can also hear Dolby Atmos Music using the built-in speakers on compatible iPhones, iPads, MacBook Pros, and HomePods, or by connecting your Apple TV 4K to a compatible TV or AV receiver. Android is coming soon.<br />
 AirPods, AirPods Pro, AirPods Max, BeatsX, Beats Solo3, Beats Studio3, Powerbeats3, Beats Flex, Powerbeats Pro, and Beats Solo Pro<br />
 Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro (3rd generation or later), 11-inch iPad Pro, iPad (6th generation or later), iPad Air (3rd generation), and iPad mini (5th generation) with the latest version of iPadOS; and MacBook (2018 model and later).</i>
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kiwanuka/1474357932" >}}
-
-
-
-
-
 ## Videos
 ### Michael Kiwanuka  - You Ain't The Problem
 {{< youtube id="APBqmPQcRK8" title="Michael Kiwanuka  - You Ain't The Problem" >}}<br>
-
 ### More Videos
 
 - [Michael Kiwanuka - You Ain't The Problem (Lyric Video)](https://www.youtube.com/watch?v=2yEeF65NnyI)
@@ -98,13 +103,17 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 - [Solid Ground](https://www.youtube.com/watch?v=zO_wmEzfMRY)
 - [Light](https://www.youtube.com/watch?v=RCDsiBLZPnk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [Michael Kiwanuka - Kiwanuka](https://www.discogs.com/release/14335267-Michael-Kiwanuka-Kiwanuka) |
-| Label          | Polydor |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Love_%26_Hate_(Michael_Kiwanuka_album) |
+| Wikipedia Summary | Love & Hate is the second studio album by London-based singer-songwriter Michael Kiwanuka. The album was released on 15 July 2016 by Polydor Records (UK) and Interscope Records (US).<br><br> |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow, 180g) |
+| Label          | Polydor |
 | Catalog Number | 7795288 |
 | Notes | Gatefold sleeve holds two full color printed cardboard inner sleeves.  Some copies include colour print signed by the artist.  On labels: Made in the Czech Republic |
+| Discogs URL    | [Michael Kiwanuka - Kiwanuka](https://www.discogs.com/release/14335267-Michael-Kiwanuka-Kiwanuka) |

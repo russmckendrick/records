@@ -11,6 +11,12 @@ cover:
     image: "low-in-high-school-11140416.jpg"
     alt: "Low In High School by Morrissey"
     caption: "Low In High School by Morrissey"
+additional_images:
+    - "https://i.discogs.com/gS8AHiGuFVL4K9mR3BMaYqVZC4Yt4yfdDW3lajDe4es/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/NDE2LTE1MTA4MjM0/MjQtOTQxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/l869FyiM0GydadVsMRYQEDBSrkpbVyEr2T21GUikGe0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/NDE2LTE1MTA4MjM0/MjQtOTEwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/i769At0MUxKHKQoItQrcDEDlfbeV0jV8eCT_2DR8HKU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/NDE2LTE1MTA4MjM0/MjItNDc0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/6Si0gr4c8L4tANbdj8F0JW0o2r-hUBZ7pGXNdl3PdDA/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/NDE2LTE1MTA2NzY5/NTUtNzQzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ov6tx-MJ0HKRhx0uO5vVkfFBBirXXcCU0M-lFEiV_w8/rs:fit/g:sm/q:90/h:250/w:249/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/NDE2LTE1MTEzMTA3/NzUtODg5MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -34,22 +40,13 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
 On his eleventh studio album, Steven Morrissey beholds the choppy water of a polarised age and effectively grabs a surfboard. Bracing, black-skied and wrapped in lyrical barb-wire, <i>Low in High School</i> finds the former Smiths frontman taking on modern propagandists (“My Love, I’d Do Anything For You”), abusive authority figures (“Who Will Protect Us from the Police?”) and lust amid political revolution (“In Your Lap”). There’s melodic light to balance the dark imagery, though. “Spent the Day in Bed”—a stately, piano-sprinkled riposte to the horror of 24-hour news—may be one of the most deftly effective songs he’s produced in a decade.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/low-in-high-school/1282060987" >}}
-
-
-
-
-
 ## Videos
 ### Morrissey - My Love, I'd Do Anything for You (Official Audio)
 {{< youtube id="8Z13FURjttI" title="Morrissey - My Love, I'd Do Anything for You (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Morrissey - Jacky's Only Happy When She's Up on the Stage (Official Video)](https://www.youtube.com/watch?v=eZuB5TWrSv4)
@@ -64,13 +61,17 @@ On his eleventh studio album, Steven Morrissey beholds the choppy water of a pol
 - [Morrissey - Who Will Protect Us from the Police? (Official Audio)](https://www.youtube.com/watch?v=cvDRtyoqHNw)
 - [Morrissey - Israel (Official Audio)](https://www.youtube.com/watch?v=uCKjotJEWjo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [Morrissey - Low In High School](https://www.discogs.com/release/11140416-Morrissey-Low-In-High-School) |
-| Label          | Étienne |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Low_in_High_School |
+| Wikipedia Summary | Low in High School is the eleventh solo studio album by British singer Morrissey, released on 17 November 2017 through BMG. It was produced by Joe Chiccarelli, and recorded at La Fabrique Studios in France and at Ennio Morricone's Forum Studios in Italy.The album debuted at number 5 on the UK Albums Chart. Low in High School generally received mixed or average reviews.<br><br> |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Green) |
+| Label          | Étienne |
 | Catalog Number | 538337938 |
 | Notes | Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green. Green printed inner sleeve of card which is centre hole die cut on one side only. Includes a credit card sized download voucher, printed on both sides. Package came in hype stickered shrink-wrap.  Runouts are etched. |
+| Discogs URL    | [Morrissey - Low In High School](https://www.discogs.com/release/11140416-Morrissey-Low-In-High-School) |

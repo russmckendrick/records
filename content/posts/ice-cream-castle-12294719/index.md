@@ -11,6 +11,15 @@ cover:
     image: "ice-cream-castle-12294719.jpg"
     alt: "Ice Cream Castle by The Time"
     caption: "Ice Cream Castle by The Time"
+additional_images:
+    - "https://i.discogs.com/pxkh9HovyJqpejtq_fIB3yduyg8PSwWFLgZLidMYkoo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzIzNTg0/ODctMjU2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/wr1zW3UH0UDrgMB1OIgZUdpW93gpVvzFkqKdxPL3wgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzIzNTg0/OTEtNTc5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/xhE2P0vEwS2sWdjiYlNBzQDv09D_VdrnR9qRaeI8z7I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtODc1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z6iRYhwSrqFjW-oHTBU_5PVko5szMGb5EXV2H9mqDvg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDYtNDQ4My5qcGVn.jpeg"
+    - "https://i.discogs.com/BXMTEHnd5epjcykeqddTX_tS3fxg0B5u2oK24hElQHE/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtMTA4My5qcGVn.jpeg"
+    - "https://i.discogs.com/UA4au3lDVgoYPfcP_EiEmC2qhBowcnkqu-h3DDWTveM/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtMTkyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/oXla3yiR4R-YvYK5JQVmxPLJCku3nh6LTqbwFiEiUiY/rs:fit/g:sm/q:90/h:160/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDctMzAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/gCqdYmLf6IV20uzbBDwCnEJm2EdnEV5ESMbW0kraoDY/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDgtMjQ5NC5qcGVn.jpeg"
 genres: ["Funk / Soul", "Pop"]
 styles: ["Funk", "Rhythm & Blues"]
 ---
@@ -28,22 +37,13 @@ styles: ["Funk", "Rhythm & Blues"]
 
 <!-- section break -->
 
-
 Despite two solid albums of hard, mostly Prince-created funk, the Time didn't break out of their R&B framework until the world-beating success of Purple Rain carried them to crossover success. Morris Day's comedic turn in the movie, along with the band's sauciest grooves yet ("Jungle Love," "The Bird"), helped make Ice Cream Castle a major mainstream hit. Unfortunately, it also spelled the end of the line for five years, with the Time not releasing another disc until 1990. Though more than just a satellite of His Royal Badness' planet, the group's first farewell remains one of the strongest Prince-related album of that golden '80s era. Other highlights include the soft, reflective near-title track and - inevitably - Day's mock-seductive rap on "If the Kid Can't Make You Come." Chili sauce!
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ice-cream-castle/302057903" >}}
-
-
-
-
-
 ## Videos
 ### The Time - Ice Cream Castle (1984) - A1 - Ice Cream Castles
 {{< youtube id="gQRKyT3iJFg" title="The Time - Ice Cream Castle (1984) - A1 - Ice Cream Castles" >}}<br>
-
 ### More Videos
 
 - [Ice Cream Castles](https://www.youtube.com/watch?v=FI2pPT_GqPs)
@@ -58,13 +58,17 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 - [The Time - Ice Cream Castle (1984) - B3 - The Bird](https://www.youtube.com/watch?v=6_dXBUWcDmQ)
 - [The Bird](https://www.youtube.com/watch?v=hB0VT2OnFvM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
-| Discogs Link   | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719-The-Time-Ice-Cream-Castle) |
-| Label          | Warner Bros. Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ice_Cream_Castle |
+| Wikipedia Summary | Ice Cream Castle is a 1984 album by The Time. Similar to their previous two albums, this album consists of six tracks in the funk-pop or ballad genre, and it was produced and arranged by Prince as "The Starr ★ Company".<br>The album's two biggest hits, "Jungle Love" and "The Bird", were featured in the film Purple Rain and this, along with Day's performance in the movie, catapulted the album up the charts and to a crossover audience. The band didn't have time to enjoy the success, as they had disbanded by the time the movie was released.<br>Ice Cream Castle produced three singles: "Ice Cream Castles", "Jungle Love", and "The Bird". |
+    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Tri-coloured Vinyl) |
+| Label          | Warner Bros. Records |
 | Catalog Number | RCV1-25109 |
 | Notes | Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown. |
+| Discogs URL    | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719-The-Time-Ice-Cream-Castle) |

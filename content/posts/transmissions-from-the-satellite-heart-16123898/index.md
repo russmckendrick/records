@@ -11,6 +11,9 @@ cover:
     image: "transmissions-from-the-satellite-heart-16123898.jpg"
     alt: "Transmissions From The Satellite Heart by The Flaming Lips"
     caption: "Transmissions From The Satellite Heart by The Flaming Lips"
+additional_images:
+    - "https://i.discogs.com/q6m6wgXAFTQVhsgJ8mt4hf0tRac7lQDQseFVEs5xFIo/rs:fit/g:sm/q:90/h:572/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIz/ODk4LTE2MDM4MjY5/MTgtODkyMy5wbmc.jpeg"
+    - "https://i.discogs.com/gcoTpebYSPtEaM5z1wnhDwCj2pPnYcoNhWUQ5EZIPno/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIz/ODk4LTE2MDM4MjY5/MjQtMzQ2NS5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,22 +36,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
 An “alternative rock” band that actually does provide an alternative by utilizing the recording studio to its maximum advantage, Oklahoma’s Flaming Lips make moody, modern day psychedelia that’s weird, creepy and excitedly optimistic. “She Don’t Use Jelly” was the freak hit that finally put the band across to the mainstream. The band used this point of entry for maximum effect, landing themselves on <i>Beverly Hills 90210</i> and securing a devoted following with outlandish three-dimensional live performances. <i>Transmissions</i>, with new guitarist Ronald Jones and drummer Steven Drozd, showcases the band’s strengths, from the whiplash rock hysteria of the opener “Turn It On” to the mock-field recording rusticity of “Chewin’ the Apple of Your Eye,” (which actually sounds like a long-lost ‘60s outtake recovered from a worn bootleg LP). The group’s svengali Wayne Coyne is at full capacity, singing like a demented street performer to best camouflage the shockingly bubble-gum melodies underpinning these fancily adorned studio recordings (“Be My Head”). This is what you call ‘head’ music for people who upon turning on and tuning in, don’t choose to drop out. But instead opt to engage further.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transmissions-from-the-satellite-heart/1231989623" >}}
-
-
-
-
-
 ## Videos
 ### The Flaming Lips - She Don't Use Jelly [Official Music Video]
 {{< youtube id="cvfxKbpoxRE" title="The Flaming Lips - She Don't Use Jelly [Official Music Video]" >}}<br>
-
 ### More Videos
 
 - [The Flaming Lips - Be My Head [Official Music Video]](https://www.youtube.com/watch?v=6iwrnwSzbGM)
@@ -68,13 +62,17 @@ An “alternative rock” band that actually does provide an alternative by util
 - [The Flaming Lips Slow Nerve Action](https://www.youtube.com/watch?v=woKyGavzW0Q)
 - [The Flaming Lips - Slow Nerve Action (Official Audio)](https://www.youtube.com/watch?v=-nvbmsxYX-4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [The Flaming Lips - Transmissions From The Satellite Heart](https://www.discogs.com/release/16123898-The-Flaming-Lips-Transmissions-From-The-Satellite-Heart) |
-| Label          | Warner Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Transmissions_from_the_Satellite_Heart |
+| Wikipedia Summary | Transmissions from the Satellite Heart is the sixth studio album by American rock band the Flaming Lips, released in 1993 by Warner Bros. Records. The album marked the departure of Jonathan Donahue (to Mercury Rev) and Nathan Roberts, and the addition of guitarist Ronald Jones and drummer Steven Drozd.The track "She Don't Use Jelly" is notable for being the band's first charting radio hit, after its video was featured on the MTV series Beavis and Butt-Head nearly a year after the album's release. "Turn It On" was also a moderately successful single, and also had two different music videos, one of which was shot at a laundromat. By 2002, Transmissions from the Satellite Heart had sold 300,000 copies worldwide.The EP Due to High Expectations... The Flaming Lips Are Providing Needles for Your Balloons was released the following year to promote the album and featured live versions of "Chewin the Apple of Yer Eye" and "Slow•Nerve•Action." |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Grey [Ash Grey]) |
+| Label          | Warner Records |
 | Catalog Number | 093624952206 |
 | Notes | Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.  Made in Germany.  All runouts etched except for "P. USA -22310-" which is stamped. |
+| Discogs URL    | [The Flaming Lips - Transmissions From The Satellite Heart](https://www.discogs.com/release/16123898-The-Flaming-Lips-Transmissions-From-The-Satellite-Heart) |

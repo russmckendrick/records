@@ -11,6 +11,8 @@ cover:
     image: "screamadelica-3194462.jpg"
     alt: "Screamadelica by Primal Scream"
     caption: "Screamadelica by Primal Scream"
+additional_images:
+    - "https://i.discogs.com/TgPqfuPdOx1QBfeIGz3qFD9RuwRf4sSa0HqoguqBtbs/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQ0/NjItMTMyMTI5ODYw/NC5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["House", "Dub", "Downtempo"]
 ---
@@ -33,22 +35,13 @@ styles: ["House", "Dub", "Downtempo"]
 
 <!-- section break -->
 
-
 Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}
-
-
-
-
-
 ## Videos
 ### Primal Scream - Movin' on Up (Official HD Video)
 {{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin' on Up (Official HD Video)" >}}<br>
-
 ### More Videos
 
 - [Primal Scream - Loaded (Official Video)](https://www.youtube.com/watch?v=Y3ixEzKA4k0)
@@ -74,13 +67,16 @@ Before acid house, Primal Scream were your average, jangly psych-rock act. Then 
 - [Loaded (Andy Weatherall Mix)](https://www.youtube.com/watch?v=sNvUQka4wk0)
 - [Primal Scream - Loaded (Andy Weatherall Mix - Official Audio)](https://www.youtube.com/watch?v=Ha1H-UQhVW0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again. |
 | Release Year   | 2011                                   |
-| Discogs Link   | [Primal Scream - Screamadelica](https://www.discogs.com/release/3194462-Primal-Scream-Screamadelica) |
-| Label          | Creation Records |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
+| Label          | Creation Records |
 | Catalog Number | 88697811061 |
 | Notes | Re-mastered For The 20th Anniversary. Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews. 180 gram Audiophile Vinyl (Black). With a gold sticker on transparent outer shrink wrap. Matte gatefold sleeve. Generic anti-static die-cut poly-lined dust inner sleeves without corners.  Remastered at Metropolis.  |
+| Discogs URL    | [Primal Scream - Screamadelica](https://www.discogs.com/release/3194462-Primal-Scream-Screamadelica) |

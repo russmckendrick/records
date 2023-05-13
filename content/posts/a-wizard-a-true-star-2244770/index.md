@@ -10,6 +10,19 @@ cover:
     image: "a-wizard-a-true-star-2244770.jpg"
     alt: "A Wizard, A True Star by Todd Rundgren"
     caption: "A Wizard, A True Star by Todd Rundgren"
+additional_images:
+    - "https://i.discogs.com/qdart5K19tkhYVt4HwqLJNElvawIUtJMKVvPkW9pG9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI1/My04NTE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/a7hdQnF1_bBn2buVHXB9Kf_Be8d5rZVXhMWxXrRDZXI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI3/My0zOTYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/40nJVl6HCFJDoH8NUNxNO3OSLlGkZOpw3v37N2-a2JU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI3/OS04NzE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y8WhaYozoxXYsNU4Dz20oVjxv19dbU6IlPabbSF1YlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI3/NS05MDA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/OZrkASKvahMgLJhAi-f7Yl8cLkUwXDZ3V3NHE1T9fCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI0/NC0xNzY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/DtL79353Thc_IdGAsJLzNQ93FS63SL-cUC9Z2RGEx-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI0/NC03MTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/81sYn79UKzH9XuEpp-1ofKz8u60w35iXz-f3WKDCMsk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTIz/Ny02NTYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZDlrK3_HtSPRBSNTBQrRPigX9vMybtUGdwm8JkS_DCo/rs:fit/g:sm/q:90/h:151/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI2/MS0zMjIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/yYPwuyatwj6fJnXgPltJO130Ln2pabxhVe38tvdODGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI3/OC05MTMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/SWeJEukmayS8b2QIt9b8hF9MEWYYXfB-zXqQxKkUf5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI3/OC0yMTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/5SZlir-quYj4QjZLXyaW6iy4a7hpH-BoNepg3i1aFTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI0/Ni02NDQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/G7qMc0-EQvE41WkHF6OngEPkd4-l0o1d3rDmbugrhKo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ3/NzAtMTU1MTcwNTI0/NC0xNjk3LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
@@ -44,23 +57,24 @@ styles: ["Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+A Wizard, a True Star is the fourth album by American musician Todd Rundgren, released March 2, 1973, on Bearsville Records. It marked a departure from his previous, Something/Anything? (1972), with its lesser reliance on straightforward pop songs, a development he attributed to his experimentation with psychedelic drugs and his realization of "what music and sound were like in my internal environment, and how different that was from the music I had been making."The album was produced, engineered, and, with the exception of some tracks, entirely performed by Rundgren. He envisioned the record as a hallucinogenic-inspired "flight plan" with all the tracks seguing seamlessly into each other, starting with a "chaotic" mood and ending with a medley of his favorite soul songs. At the time of release, he stated that Wizard intended to advance utopian ideals; later, he said that the album had no definite meaning. No singles were issued from the album, as he wanted the tracks to be heard in the context of the LP. With 19 tracks, its nearly 56-minute runtime made it one of the longest single-disc LPs to date.
+Upon release, A Wizard, a True Star received widespread critical acclaim, but sold poorly, reaching number 86 on U.S. charts. According to Rundgren, "the result was a complete loss of about half of my audience at that point." To support the album, Rundgren formed a new group, Utopia, his first official band since the Nazz. Their technologically ambitious stage show was cancelled after about two weeks on the road. A Wizard, a True Star has since been recognized for its influence on later generations of bedroom musicians.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-wizard-a-true-star/1084056467" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Wizard,_a_True_Star |
+| Wikipedia Summary | A Wizard, a True Star is the fourth album by American musician Todd Rundgren, released March 2, 1973, on Bearsville Records. It marked a departure from his previous, Something/Anything? (1972), with its lesser reliance on straightforward pop songs, a development he attributed to his experimentation with psychedelic drugs and his realization of "what music and sound were like in my internal environment, and how different that was from the music I had been making."The album was produced, engineered, and, with the exception of some tracks, entirely performed by Rundgren. He envisioned the record as a hallucinogenic-inspired "flight plan" with all the tracks seguing seamlessly into each other, starting with a "chaotic" mood and ending with a medley of his favorite soul songs. At the time of release, he stated that Wizard intended to advance utopian ideals; later, he said that the album had no definite meaning. No singles were issued from the album, as he wanted the tracks to be heard in the context of the LP. With 19 tracks, its nearly 56-minute runtime made it one of the longest single-disc LPs to date.<br>Upon release, A Wizard, a True Star received widespread critical acclaim, but sold poorly, reaching number 86 on U.S. charts. According to Rundgren, "the result was a complete loss of about half of my audience at that point." To support the album, Rundgren formed a new group, Utopia, his first official band since the Nazz. Their technologically ambitious stage show was cancelled after about two weeks on the road. A Wizard, a True Star has since been recognized for its influence on later generations of bedroom musicians. |
 | Release Year   | 1973                                   |
-| Discogs Link   | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/2244770-Todd-Rundgren-A-Wizard-A-True-Star) |
-| Label          | Bearsville |
 | Format         | Vinyl LP Album Stereo (Gatefold) |
+| Label          | Bearsville |
 | Catalog Number | BEA 45 513 |
 | Notes | (P) 1973  Seperate lyric sheet, credits and a photo collage     |
+| Discogs URL    | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/2244770-Todd-Rundgren-A-Wizard-A-True-Star) |

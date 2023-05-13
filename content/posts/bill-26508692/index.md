@@ -10,6 +10,14 @@ cover:
     image: "bill-26508692.jpg"
     alt: "Bill by Tripping Daisy"
     caption: "Bill by Tripping Daisy"
+additional_images:
+    - "https://i.discogs.com/vApxrZbSwS2uGF5FH_tqijh47uynUSeoLqvQAySOh1U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTMx/MDYtNjg0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/wMmeh40iPi0uuqH3a3TD6sOgybIDYGH1m5DFx4r_CIk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTMx/MDgtMTE4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/CuNQtzcsrsdOcGlot2cA6EXzGfxEdJaizbPtOsE3jvc/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTMw/OTgtODI2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/KIXL4oJejYK_Z37j961unMSvirtxbQAEjb8CG5H2UN8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTMx/MDAtOTkzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/jDgUJ3w1kXLIx2xzUUAa1bbFuk6WZKO-7TGViwwKFuo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTMx/MDUtMzI2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/JSYTSp7ZvByom0ryMIfHQ2KYY42GErWTi5JuxQ9QtII/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTMx/MDctNzM3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/kx9GMnrwHpkDnet9yzKPskBjaKTQTu9VdWYWZriF4Z0/rs:fit/g:sm/q:90/h:484/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjkyLTE2Nzk1MTM2/NTUtMzUxOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -31,23 +39,24 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Bill is the debut studio album American rock band Tripping Daisy.  It was released in 1992 on the Dragon Street label, and then re-released on July 20, 1993 on the Island Red Label.  On the re-release, the track "Green Tambourine" was removed, and the two unlisted tracks were appended to the final track.
+The album had sold around 15,000 copies before it was picked up by Island.  "My Umbrella" spent two weeks on the Billboard Modern Rock Tracks chart, peaking at No. 24. The album is being released on vinyl in 2023 as part of the DFW Legacy Series.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bill/1443484197" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bill_(Tripping_Daisy_album) |
+| Wikipedia Summary | Bill is the debut studio album American rock band Tripping Daisy.  It was released in 1992 on the Dragon Street label, and then re-released on July 20, 1993 on the Island Red Label.  On the re-release, the track "Green Tambourine" was removed, and the two unlisted tracks were appended to the final track.<br>The album had sold around 15,000 copies before it was picked up by Island.  "My Umbrella" spent two weeks on the Billboard Modern Rock Tracks chart, peaking at No. 24. The album is being released on vinyl in 2023 as part of the DFW Legacy Series. |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Tripping Daisy - Bill](https://www.discogs.com/release/26508692-Tripping-Daisy-Bill) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP3369 |
 | Notes | MOV Hype Sticker: Available On Vinyl For The First Time Includes Insert 180 Gram Audiophile Vinyl |
+| Discogs URL    | [Tripping Daisy - Bill](https://www.discogs.com/release/26508692-Tripping-Daisy-Bill) |

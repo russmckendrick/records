@@ -10,6 +10,12 @@ cover:
     image: "unattended-luggage-12459797.jpg"
     alt: "Unattended Luggage by Nick Mason"
     caption: "Unattended Luggage by Nick Mason"
+additional_images:
+    - "https://i.discogs.com/P73JSXh-USaODUbZVG-L9TDdgDche5OVgw1zIH6EsaA/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3MTUz/NTktMzI2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/0kSim5pIayslbpbwwFZwh7rVxlvrPENisdqMQToiAzY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3MTUz/NjctNTI5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/RxFVW5MYDV-gnf4yM2uGATzhpBGngzCIDO54yIu_iBE/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3Mzg4/NzktODYwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/ePbB43h4rmHZ6ELbLngvzpuAGbPwlqnHoNWk19Yx5xM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3Mzg5/MTEtMTA2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/A0-B4hSXiDldeEQXPWQMXqtVq2q-DW2Jnsj4IUtVgj4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3Mzkz/MTAtNzkzMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -57,16 +63,10 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Nick Mason - Fictitious Sports (Full Album) HD. Tracklist
 {{< youtube id="1r1DStEjS48" title="Nick Mason - Fictitious Sports (Full Album) HD. Tracklist" >}}<br>
-
 ### More Videos
 
 - [White of the Eye](https://www.youtube.com/watch?v=rxEysWXn75g)
@@ -84,13 +84,15 @@ styles: []
 - [Dry Junk](https://www.youtube.com/watch?v=eIMH9NXzOZc)
 - [Discovery and Recoil](https://www.youtube.com/watch?v=HxkMInxogP0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Nick Mason - Unattended Luggage](https://www.discogs.com/release/12459797-Nick-Mason-Unattended-Luggage) |
-| Label          | Warner Music Group |
 | Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
+| Label          | Warner Music Group |
 | Catalog Number | 0190295660222 |
 | Notes | New Compilation Remastered on 180g Heavyweight Vinyl, Fictitious Sports (1981), Profiles (1985), White of the Eye (1987). Made in EU. |
+| Discogs URL    | [Nick Mason - Unattended Luggage](https://www.discogs.com/release/12459797-Nick-Mason-Unattended-Luggage) |

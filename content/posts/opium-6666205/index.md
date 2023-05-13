@@ -10,6 +10,10 @@ cover:
     image: "opium-6666205.jpg"
     alt: "Opium by Matt Berry"
     caption: "Opium by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/4Rp2GHmcx8nvhjxG5fN0xcP_8u3Oh4XcNsKYD2pRLlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYy/MDUtMTQ5MjA4NzYw/Mi0xOTM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/LpeXHk2kISL5dDfYfpVSrEif8K7h2P2qfYnCPPnzZgA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYy/MDUtMTQ5MjA4NzYw/MS00MDA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Waqty_CK8An6jr1xnOiHpfg2Ht0-Dz_340CFODm5Uw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYy/MDUtMTQ5MjA4NzYw/Mi00ODMyLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Experimental", "Prog Rock"]
 ---
@@ -32,16 +36,10 @@ styles: ["Experimental", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Matt Berry Opium
 {{< youtube id="yjVw8wg4J5o" title="Matt Berry Opium" >}}<br>
-
 ### More Videos
 
 - [Matt Berry Hot Dog](https://www.youtube.com/watch?v=GdSnL40fMwg)
@@ -55,13 +53,15 @@ styles: ["Experimental", "Prog Rock"]
 - [Matt Berry Jet Setter](https://www.youtube.com/watch?v=3GAas03g84c)
 - [Matt Berry One More Hit](https://www.youtube.com/watch?v=gXRX2PqPRiM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Matt Berry - Opium](https://www.discogs.com/release/6666205-Matt-Berry-Opium) |
-| Label          | Acid Jazz |
 | Format         | Vinyl LP Album Limited Edition Numbered Repress (Orange) |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP372 |
 | Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only. |
+| Discogs URL    | [Matt Berry - Opium](https://www.discogs.com/release/6666205-Matt-Berry-Opium) |

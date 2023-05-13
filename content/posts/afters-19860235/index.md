@@ -10,6 +10,15 @@ cover:
     image: "afters-19860235.jpg"
     alt: "Afters by The Helicopter Of The Holy Ghost"
     caption: "Afters by The Helicopter Of The Holy Ghost"
+additional_images:
+    - "https://i.discogs.com/YSsK92FymBGXUnPqu4e28d-uncGkWEMXmElGh-SXLAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTUtMTQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/gy9nBHXb3Na7HDY0CRQ6SHIrfcOyTKP06DRCeiohhbA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTYtMjk4My5qcGVn.jpeg"
+    - "https://i.discogs.com/xuexy3Gq-5eD_b86bXMLDZEEw389i76pW5A5pbaKhac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTg1/MzYtODE5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/lLuSKW2UxrnO8vvztr9GYogMRaTlj6VTu0m2yTxR0M4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTg1/MzYtOTYxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/BpxhU3e4M78APucb_0tL3gpD1E9I-ZQerlIuqn4NDnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTg0/MDUtNDcwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/_y0NtW9Es5yzP1Sq9bU9hL03v8qhvg4H3AOAd7ldB8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTUtODA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/yrG7t9sanBZf9blU3AcPCjJqurvFwWF9yf-Rclk3DIo/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTItNDExNS5qcGVn.jpeg"
+    - "https://i.discogs.com/9R1j7UaE4F1f4Pre7Jbpws1UPVl0NVRgYDbBlaYiAIU/rs:fit/g:sm/q:90/h:850/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTMtNDk5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -30,20 +39,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afters/1566401361" >}}
-
-
-
-
-
 ## Videos
 ### I Didn't
 {{< youtube id="e5HTe6s51_c" title="I Didn't" >}}<br>
-
 ### More Videos
 
 - [A Little Longer](https://www.youtube.com/watch?v=pdKa1G5heP8)
@@ -54,12 +55,14 @@ styles: ["Indie Rock"]
 - [Hangar Lane Gyratory System; 4.44am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
 - [Difficult Song](https://www.youtube.com/watch?v=SUl84NqIqJM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [The Helicopter Of The Holy Ghost - Afters](https://www.discogs.com/release/19860235-The-Helicopter-Of-The-Holy-Ghost-Afters) |
-| Label          | Kscope |
 | Format         | Vinyl LP Album |
+| Label          | Kscope |
 | Catalog Number | KSCOPE1120 |
+| Discogs URL    | [The Helicopter Of The Holy Ghost - Afters](https://www.discogs.com/release/19860235-The-Helicopter-Of-The-Holy-Ghost-Afters) |

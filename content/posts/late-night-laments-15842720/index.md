@@ -10,6 +10,10 @@ cover:
     image: "late-night-laments-15842720.jpg"
     alt: "Late Night Laments by Tim Bowness"
     caption: "Late Night Laments by Tim Bowness"
+additional_images:
+    - "https://i.discogs.com/53cw1Rl7Dq3Wl00BIdN_ZCXjOGa7J5xHxTw2Yjd79qc/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODIy/OTgtMzk2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/zNedHQ87bcgBLkr6NbPMRQfTc6vJGCCep3l-QhFYOrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODE5/MTEtMzczOC5qcGVn.jpeg"
+    - "https://i.discogs.com/RCVt6riwUe3AZfv1jIyxrcwFnTjSSjrTm6GVmRrjWrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODE5/MjQtNzQ1OC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Ambient"]
 ---
@@ -41,20 +45,12 @@ styles: ["Ambient"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424" >}}
-
-
-
-
-
 ## Videos
 ### We Caught the Light
 {{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}<br>
-
 ### More Videos
 
 - [TIM BOWNESS - Northern Rain (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=ns8_oScLjeE)
@@ -67,13 +63,15 @@ styles: ["Ambient"]
 - [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
 - [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Tim Bowness - Late Night Laments](https://www.discogs.com/release/15842720-Tim-Bowness-Late-Night-Laments) |
-| Label          | Inside Out Music |
 | Format         | Vinyl LP Album (Blue Transparent), CD Album, All Media Limited Edition |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 558 |
 | Notes | Comes with signed art print and is limited to 600 copies. |
+| Discogs URL    | [Tim Bowness - Late Night Laments](https://www.discogs.com/release/15842720-Tim-Bowness-Late-Night-Laments) |

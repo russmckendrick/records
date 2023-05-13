@@ -10,6 +10,9 @@ cover:
     image: "clouds-in-the-mirror-this-is-not-a-safe-place-reimagined-by-ptr-aleksnder-15229818.jpg"
     alt: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder) by Ride"
     caption: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder) by Ride"
+additional_images:
+    - "https://i.discogs.com/1ggoRRDBCUrGwKmnjpJ1Mbm2fmVZPfCIqaZL8YozyO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI5/ODE4LTE1ODg3MDA4/MTMtNTY4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ARVloMOPJG5ZUdTsifQmrNVgMqQ-42qEbyRxFzaCEUY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI5/ODE4LTE1ODg3MDA4/NjgtOTMyMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Classical"]
 styles: ["Alternative Rock", "Modern", "Downtempo"]
 ---
@@ -33,20 +36,12 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clouds-in-the-mirror-this-is-not-a-safe/1500022098" >}}
-
-
-
-
-
 ## Videos
 ### R.I.D.E. (Reimagined by Pêtr Aleksänder)
 {{< youtube id="v1sOUkKI0Sc" title="R.I.D.E. (Reimagined by Pêtr Aleksänder)" >}}<br>
-
 ### More Videos
 
 - [Eternal Recurrence (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=mkcJ6w7vdwY)
@@ -59,13 +54,15 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 - [Future Love (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=MVIcN2-x3LM)
 - [Jump Jet (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=t8HP_4MFkwU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Ride - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818-Ride-Reimagined-By-P%C3%AAtr-Aleks%C3%A4nder-Clouds-In-The-Mirror-This-Is-Not-A-Safe-Place-Reimagined-By-P%C3%AA) |
-| Label          | Wichita |
 | Format         | Vinyl LP Album Limited Edition (Clear) |
+| Label          | Wichita |
 | Catalog Number | WEBB584LP |
 | Notes | With one-sided card stock insert. Download code on sticker attached to inner sleeve.  On hype sticker:  Limited edition clear vinyl With full album download 'Wichita recordings would like to thank you for buying vinyl' |
+| Discogs URL    | [Ride - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818-Ride-Reimagined-By-P%C3%AAtr-Aleks%C3%A4nder-Clouds-In-The-Mirror-This-Is-Not-A-Safe-Place-Reimagined-By-P%C3%AA) |

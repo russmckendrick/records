@@ -10,6 +10,14 @@ cover:
     image: "the-singles-album-2148022.jpg"
     alt: "The Singles Album by Jimi Hendrix"
     caption: "The Singles Album by Jimi Hendrix"
+additional_images:
+    - "https://i.discogs.com/Aqnbu2Zef-deSmSwCKy_yAaW3amu71G2re-rXR8mSFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTI4MjkxMTI0/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/LiqxcSqPTK2RMvBsoL6Dh7KN6XC4H8qJH-wrM_Xm6BI/rs:fit/g:sm/q:90/h:576/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTUwMTM4NDk5/MS03MjE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/KnBWQyMoKZXDzam_Tc0UYpawcVp0qn6kLP90BDpo114/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTUwMTM4NDk5/MS02MTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/_BKHQvKi5MDxVNBGyEm2zjpt91O_IyqhB8uJvVHtzfw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTQwOTA0NDAw/NS02Nzc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/EJEgaf1IgVgEWKqCzZhYof8flhg1_PqfkybFU00uIFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTQwOTA0NDAw/Ni02MDg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/9Fq2QENTa3pi61u3RGaSGlMZUEi-1DtAdrQ4HAwxoPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTQwOTA0NDAw/Ni0zNTY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/6JR0Nh-sZVmMBNUOeeEpGZwM8owJKrRJlhqEa2BJH9o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgw/MjItMTQwOTA0NDAw/Ni00MjYxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
@@ -44,19 +52,18 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1983                                   |
-| Discogs Link   | [Jimi Hendrix - The Singles Album](https://www.discogs.com/release/2148022-Jimi-Hendrix-The-Singles-Album) |
-| Label          | Polydor |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Polydor |
 | Catalog Number | PODV 6 |
 | Notes | Issued in gatefold sleeve.  |
+| Discogs URL    | [Jimi Hendrix - The Singles Album](https://www.discogs.com/release/2148022-Jimi-Hendrix-The-Singles-Album) |

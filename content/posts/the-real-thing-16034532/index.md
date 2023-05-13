@@ -10,6 +10,18 @@ cover:
     image: "the-real-thing-16034532.jpg"
     alt: "The Real Thing by Faith No More"
     caption: "The Real Thing by Faith No More"
+additional_images:
+    - "https://i.discogs.com/_4hYnGDOqLqsRJlxsgW6SGw-QWe2HwqvqZceIBTfung/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzQtNjY2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/RWk4yUbRMMwhb37KEFrMsBO8RMXmxn8NQBhyU_-tjrs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NjktNTkxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/SSiq9t8M33nQpaaBT8k9haRWDJnvRmY1Rj_HlWR_AFM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzItNTEyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/7GUMIh8UT-iYWTJQCJy9YixXrf7L051uBfLscFZ9lfs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzMtNjE4My5qcGVn.jpeg"
+    - "https://i.discogs.com/wEOqqSbnt9AF3VR8K-vmjvz3IUks0TS_Dw-Xt0RVN8I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzItMTA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/mKaPj9b891G6VzXTu6kpuXGVcq6rhss_grSQPYbQwMM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTQw/NDAtNDM1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/oVg-PoboYVHKHCS5Iprod75o7Gd5mKt9aVDJ62R2WpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTA0/MjUtMjQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/M7qLGrWh5cK-9lpytRvyT3t28KkryMtGTbOyX0GGpEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NjUtMTE0My5qcGVn.jpeg"
+    - "https://i.discogs.com/UnFIX7kd8DTnHfy69Z27vbzMDKADbu5SS1TKHujlxa0/rs:fit/g:sm/q:90/h:342/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTQx/MzQtMjg5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/AZzcTqr7gRvqy3JLd_7hbWqphAMSZx_SOio4h3Jcbts/rs:fit/g:sm/q:90/h:178/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTQx/ODMtNjQyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/5vJwzQ_pkjIfEb7vh1Q76pRpU1_pVrHy5A6GmZ-iwAA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDc3MTQ3/NjYtNDg1Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -30,20 +42,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-real-thing/83386606" >}}
-
-
-
-
-
 ## Videos
 ### Faith No More - From Out Of Nowhere (Official Music Video)
 {{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
@@ -65,13 +70,17 @@ styles: ["Alternative Rock"]
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Thing_(Faith_No_More_album) |
+| Wikipedia Summary | The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock. |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/16034532-Faith-No-More-The-Real-Thing) |
-| Label          | Slash |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Yellow) |
+| Label          | Slash |
 | Catalog Number | RCV1 25878 |
 | Notes | 2500 pressed.   A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads: Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.  Rear sleeve and face labels: Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU.   Inner Sleeve: © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company.   Face labels:  |
+| Discogs URL    | [Faith No More - The Real Thing](https://www.discogs.com/release/16034532-Faith-No-More-The-Real-Thing) |

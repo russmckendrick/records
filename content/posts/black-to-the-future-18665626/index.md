@@ -11,6 +11,16 @@ cover:
     image: "black-to-the-future-18665626.jpg"
     alt: "Black To The Future by Sons Of Kemet"
     caption: "Black To The Future by Sons Of Kemet"
+additional_images:
+    - "https://i.discogs.com/tlelJA5frPD2A63XdNy_q7c9KZl00rC56xi_H3gut-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjA4MzM2/MjUtOTIzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/ltkk4JpiEwuCv2pVVEVYMzijYhCOAyy8-dHfBuNBStY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTI1/ODctNzYwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/1w79_3h2bcLjgDg2TPHcnHBQ4QNwTjcEOteLyAqYKrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTI1/ODctNTc4My5qcGVn.jpeg"
+    - "https://i.discogs.com/3uWhZiIan0v2v0o09NhP9d6J7f8LpeRQkLrF58kjgF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjA4MzM2/MjUtMTk5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/rGlWWA1j5-7JssBCK9_2VXjck_GXCNZvT2v25deqOMM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTI1/ODctMjMxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/MKGx0urD57ugcad_ZiF2Lpx5qd6WEDYjUZ4zL5FaqEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTI1/ODctNDI5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/7WelgNKQiLNgtErjgO4GRrxILcvuatIbFRZIrhoXUy4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTI1/ODctMzU1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/i8yw8EbxHQkpcckeFdDDX3DbrIoW1BigR87TmgdNwTE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTMz/NDItNDEwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/A5sso3sETivybo0tL8XrvlrSH8759qISOW02s6dfbLA/rs:fit/g:sm/q:90/h:138/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY1/NjI2LTE2MjE2OTMx/MzQtNjk3Ni5qcGVn.jpeg"
 genres: ["Jazz"]
 styles: ["Afrobeat", "Fusion"]
 ---
@@ -32,7 +42,6 @@ styles: ["Afrobeat", "Fusion"]
 11. Black (2:42)
 
 <!-- section break -->
-
 
 “I wanted to get a better sense of how African traditional cosmologies can inform my life in a modern-day context,” Sons of Kemet frontman Shabaka Hutchings tells Apple Music about the concept behind the British jazz group’s fourth LP. “Then, try to get some sense of those forms of knowledge and put it into the art that’s being produced.” Since their 2013 debut LP <i>Burn</i>, the Barbados-raised saxophonist/clarinetist and his bandmates (tuba player Theon Cross and drummers Tom Skinner and Eddie Hick) have been at the forefront of the new London jazz scene—deconstructing its conventions by weaving a rich sonic tapestry that fuses together elements of modal and free jazz, grime, dub, ’60s and ’70s Ethiopian jazz, and Afro-Caribbean music. On <i>Black to the Future</i>, the Mercury Prize-nominated quartet are at their most direct and confrontational with their sociopolitical message—welcoming to the fold a wide array of guest collaborators (most notably poet Joshua Idehen, who also collaborated with the group on 2018’s <i>Your Queen Is a Reptile</i>) to further contextualise the album’s themes of Black oppression and colonialism, heritage and ancestry, and the power of memory. If you look closely at the song titles, you’ll discover that each of them makes up a singular poem—a clever way for Hutchings to clue in listeners before they begin their musical journey. “It’s a sonic poem, in that the words and the music are the same thing,” Hutchings says. “Poetry isn't meant to be descriptive on the surface level, it's descriptive on a deep level. So if you read the line of poetry, and then you listen to the music, a picture should emerge that's more than what you'd have if you considered the music or the line separately.” Here, Hutchings gives insight into each of the tracks.<br />
 <b>“Field Negus” (feat. Joshua Idehen)</b>
@@ -57,20 +66,12 @@ styles: ["Afrobeat", "Fusion"]
 “It's about optimism, but not an optimism where you have a smile on your face. An optimism where you're resigned to the place of defeat within the big spectrum of things. It's having to actually resign yourself to what has happened in the continued dismantling of Black civilisation, and how Black people are regarded as a whole in the world within a certain light; but then understanding that it's part of a broader process of rising to something else, rising to a new era. Also, on the more technical side of the recording of this tune, this was the first tune that we recorded for the whole session. It's the first take of the first tune on the first day.”<br />
 <b>“Black” (feat. Joshua Idehen)</b>
 “There was a point where we all got into the studio and I asked that we go into these breathing exercises where we essentially just breathe in really deeply about 30 times, and at the end of 30, we breathe out and hold it for as long as you can with nothing inside. We did one of these exercises while lying on the floor with our eyes shut in pitch blackness. I asked everyone to scream as hard as we can, really just let it out. No one could have anything in their ears apart from the track, so no one was aware of how anyone else sounded. It was complete no-self-awareness, no shyness. It's like a cathartic ritual to really just let it out, however you want.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-to-the-future/1558301183" >}}
-
-
-
-
-
 ## Videos
 ### Field Negus
 {{< youtube id="ELXDbxKjx48" title="Field Negus" >}}<br>
-
 ### More Videos
 
 - [Pick Up Your Burning Cross](https://www.youtube.com/watch?v=IpK1a1RqfFA)
@@ -84,13 +85,17 @@ styles: ["Afrobeat", "Fusion"]
 - [Throughout The Madness, Stay Strong](https://www.youtube.com/watch?v=fH4baTgOALo)
 - [Black](https://www.youtube.com/watch?v=d6CADUV0QB0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
-| Discogs Link   | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626-Sons-Of-Kemet-Black-To-The-Future) |
-| Label          | Impulse! |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Black_to_the_Future_(Sons_of_Kemet_album) |
+| Wikipedia Summary | Black to the Future is the fourth and final studio album by British jazz group Sons of Kemet. It was released via Impulse! Records on 14 May 2021 to widespread critical acclaim from music critics.<br><br> |
+    | Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album |
+| Label          | Impulse! |
 | Catalog Number | 00602435621661 |
 | Notes | Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts. |
+| Discogs URL    | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626-Sons-Of-Kemet-Black-To-The-Future) |

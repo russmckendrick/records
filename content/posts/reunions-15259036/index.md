@@ -11,6 +11,21 @@ cover:
     image: "reunions-15259036.jpg"
     alt: "Reunions by Jason Isbell And The 400 Unit"
     caption: "Reunions by Jason Isbell And The 400 Unit"
+additional_images:
+    - "https://i.discogs.com/WD0INlhwdYoK9jQpW--S1B3aSTAwuvNCpKJ9tfVtfgA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctMTY4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/drT7Rx_7x_Acim4IZztxJdfMG3IoU6m7qiSOp4_u6SU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctOTE4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/SzAatyxS8_h6eYePzU3i90EaJ0taHIkRxKJdC5lDNS4/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODgtODA4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Knj1-paOi-GwkkLeyhTa9fuqpMwmyGQPg8r98NUFbWI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODktNzIzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/jl6vvs8WpfRxK5xYS45PLE1AQX0nYGQcq3x-owI6e9k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODktODkzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/LtwuiHtrqizkIjmBWcMDOXUBzhwy9tqTU6H56--f_Dw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTUtNjQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/XiLIWlTyi019tgZlemyjXP0F6dNJBizQUPNbJAVA9cg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctNDM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/kibBDC0CdV9pcpPInuPjNtexr7P1zPkVa928npzptxc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODYtODAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/3PoCvBlFlVgFPAV0hVXIYzXn8-A67WNjM3Xf9Gek2j4/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctOTgzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/KsU-u_NwFAKaq7k80hQYNPLymkp0Mk3-hljY1Ao9jxg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTUtNzY5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/C1OlIRwVvxLZgPpTddYOR0Ru4cLO__z4rS73Gna8RQw/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTYtODcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/z-xxgFVUI3iV9Ti-IXpJY2Kob6BdJaMKX9ZdBID0I7Q/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTYtODQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/TXioF9qzQnjEfKICS8nq1cFnzv2B67JdBUfg8IE5nfg/rs:fit/g:sm/q:90/h:1000/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODk0NjQ4/NzctNTg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/CLoafKAVwMidTwz1-fF4oNORYfHMSW-Bu-yKyo5N4fY/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODgtMjc0Ni5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -31,7 +46,6 @@ styles: []
 10. Letting You Go
 
 <!-- section break -->
-
 
 As Jason Isbell inched deeper and deeper into writing what would become <i>Reunions</i>, he noticed a theme begin to emerge in its songs. “I looked around and thought, ‘There’s so many ghosts here,’” he tells Apple Music. “To me, ghosts always mean a reunion with somebody you’ve known before, or yourself coming back to tell you something that you might have missed.” It’s possible that the Alabama native had missed more than most: Starting with a promising but fairly turbulent stint as a member of Drive-By Truckers in the 2000s, the first act and decade of the Jason Isbell origin story had been largely defined by his kryptonite-like relationship with alcohol. His fourth LP since becoming sober in 2012, <i>Reunions</i> is another set of finely rendered rock and roots music that finds Isbell—now A Great American Songwriter—making peace with the person he used to be. It’s an album whose scenes of love and anger and grief and parenthood are every bit as rich as its sonics. “Up until the last couple of years, I didn’t necessarily feel safe because I thought there was a risk that I might fall back into those old ways,” he says of revisiting his past. “These songs and the way the record sounds reflects something that was my intention 15 or 12 years ago, but I just didn’t have the ability and the focus and the means to get there as a songwriter or a recording artist.” Here, he takes us inside each song on the album.<br /> 
 <b>What’ve I Done to Help</b>
@@ -54,20 +68,12 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 “I was awake until four in the morning, just sort of laying there, not terribly concerned or worried about anything. And there was a time where I thought, ‘Well, if I was just drunk, I could go to sleep.’ But then I also thought, ‘Well, yeah, but I would wake up a couple hours later when the liquor wore off.’ I think it's important for me to remember how it felt to be handicapped by this disease and how my days actually went. I've finally gotten to the point now where I don't really hate that guy anymore, and I think that's even helped me because I can go back and actually revisit emotions and memories from those times without having to wear a suit of armour. For a many years, it was like, ‘Okay, if you're going to go back there, then you're going to have to put this armour on. You're going to have to plan your trip. You're going to have to get in and get out, like you're stealing a fucking diamond or something. Because if you stay there too long or if you wind up romanticising the way your life was in those days, then there's a good chance that you might slip.' I think the more honest I am with myself, the less likely I am to collapse and go back to who I used to be. It's not easy to constantly remind yourself of how much it sucked to be an active alcoholic, but it's necessary. I wrote this song for people who would get a lot of the inside references, and definitely for people who have been in recovery for a long period of time. I wrote it for people who have been going through that particular challenge and people who have those conversations with themselves. And really that's what it is at its root: a song about people who are trying to keep an open dialogue with themselves and explain, this is how it's going to be okay. Because if you stop doing that and then you lose touch with the reasons that you got sober in the first place and you go on cruise control, then you slip up or you just wind up white-knuckling it, miserable for the rest of your life. And I can't make either of those a possibility.”<br />
 <b>Letting You Go</b>
 “Once, when my daughter was really little, my wife said, ‘Every day, they get a little bit farther away from you.’ And that's the truth of it: It’s a long letting-go process. This is a simple song, a country song—something that I was trying to write like a Billy Joe Shaver or Willie Nelson song. I think it works emotionally because it’s stuff that a lot of people have felt, but it's tough to do in a way that wasn't cheesy, so I started with when we first met her and then tried to leave on a note of ‘Eventually, I know these things are going to happen. You’re going to have to leave.’ And that's the whole point. Some people think, ‘Well, my life is insignificant, none of this matters.’ And that makes them really depressed. But then some people, like me, think, ‘Man, my life is insignificant. None of this matters. This is fucking awesome.’ I think that might be why I wound up being such a drunk, but it helps now, still, for me to say, ‘I can't really fuck this up too bad. So I might as well enjoy it.’”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/reunions/1496052578" >}}
-
-
-
-
-
 ## Videos
 ### Jason Isbell and the 400 Unit - Overseas
 {{< youtube id="V4kFqy7U6NE" title="Jason Isbell and the 400 Unit - Overseas" >}}<br>
-
 ### More Videos
 
 - [Jason Isbell and the 400 Unit - Letting You Go](https://www.youtube.com/watch?v=g6alzZQXi7Y)
@@ -76,13 +82,17 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 - [Jason Isbell and the 400 Unit - River](https://www.youtube.com/watch?v=p5bathZEbNU)
 - [Jason Isbell and the 400 Unit - Running with Our Eyes Closed](https://www.youtube.com/watch?v=FAQ6ZYJLzfQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Jason Isbell And The 400 Unit - Reunions](https://www.discogs.com/release/15259036-Jason-Isbell-And-The-400-Unit-Reunions) |
-| Label          | Southeastern Records (2) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Reunions_(album) |
+| Wikipedia Summary | Reunions is the seventh studio album by Jason Isbell, and the fourth credited to "Jason Isbell and the 400 Unit". In an attempt to help small businesses during the COVID-19 pandemic, the album was released by Southeastern Records in independent record stores on May 8, 2020, which was one week before its wide release on May 15. The songs "Be Afraid", "What've I Done to Help", and "Only Children" were released as singles prior to the release of the full album. In the United States, Reunions peaked at number 9 on the Billboard 200 chart. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange Dreamsicle) |
+| Label          | Southeastern Records (2) |
 | Catalog Number | SER99921 |
 | Notes | Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.  In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included.  |
+| Discogs URL    | [Jason Isbell And The 400 Unit - Reunions](https://www.discogs.com/release/15259036-Jason-Isbell-And-The-400-Unit-Reunions) |

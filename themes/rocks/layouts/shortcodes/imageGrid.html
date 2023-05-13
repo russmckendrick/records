@@ -1,0 +1,11 @@
+<div class="box alt">
+    <div class="row gtr-50 gtr-uniform">
+        {{ range $.Page.Params.additional_images }}
+            <div class="col-4">
+                <span class="image fit">
+                    <img class="zoomable" src="{{ . }}" alt="" />
+                </span>
+            </div>
+        {{ end }}
+    </div>
+</div>

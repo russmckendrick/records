@@ -10,6 +10,10 @@ cover:
     image: "star-trek-ii-the-wrath-of-khan-7972559.jpg"
     alt: "Star Trek II: The Wrath Of Khan by James Horner"
     caption: "Star Trek II: The Wrath Of Khan by James Horner"
+additional_images:
+    - "https://i.discogs.com/PR_Gwnle2K-TCkvfyeFsWYmCFxEDgC7chlWgH4v5Ttc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzI1/NTktMTQ1MjcwNDk4/MS04NTE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/gSSVBNysSSWltw2frc1KvuYmt8a981Oo4nAjYx77b3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzI1/NTktMTQ1MjcwNDk2/Mi0zMDE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/a53B7oEP3yq7PpRM0TtR9MSqBMivvc3lAWR6_GjY8WU/rs:fit/g:sm/q:90/h:318/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzI1/NTktMTQ1MzU5NDk2/My03NzU0LmpwZWc.jpeg"
 genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
@@ -44,28 +48,23 @@ styles: ["Soundtrack", "Score"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-trek-ii-the-wrath-of-khan-original-motion/726982589" >}}
-
-
-
-
-
 ## Videos
 ### Star Trek II: The Wrath of Khan • Main Theme • James Horner
 {{< youtube id="aICzV6QS9wA" title="Star Trek II: The Wrath of Khan • Main Theme • James Horner" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [James Horner - Star Trek II: The Wrath Of Khan](https://www.discogs.com/release/7972559-James-Horner-Star-Trek-II-The-Wrath-Of-Khan) |
-| Label          | Mondo (3) |
 | Format         | Vinyl 2× LP Deluxe Edition Limited Edition (Blue/Purple Marble "Mutara Nebula") |
+| Label          | Mondo (3) |
 | Catalog Number | MOND-032 |
 | Notes | Deluxe expanded soundtrack.  |
+| Discogs URL    | [James Horner - Star Trek II: The Wrath Of Khan](https://www.discogs.com/release/7972559-James-Horner-Star-Trek-II-The-Wrath-Of-Khan) |

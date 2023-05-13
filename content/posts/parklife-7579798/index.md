@@ -11,6 +11,14 @@ cover:
     image: "parklife-7579798.jpg"
     alt: "Parklife by Blur"
     caption: "Parklife by Blur"
+additional_images:
+    - "https://i.discogs.com/33POXFAs-9SVHzYGF4WWKfoepnra12709mghfKPP26s/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc3/MS04ODI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/YabNXHzjbveGk3bYqmgsFXSQsbIczKfq9u4ffK3GDAY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc3/OC04MDQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/tfMwtw3X5gT66imAH17Py55NYv94BsjagIHPVB28-iU/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc3/Mi0yNDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/uXkGXxGrXeOhmbXcQsZynbW81miIoJgA6pkvMf6U-1U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc1/OC03NDcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/qozhNntfx2Vp3B1LkEhgZgscrQ_1IbcXVUzF0-bFhVs/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc1/NC0yMTYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ozD3t9mDV4__SbqfQ7T2zQKXr6g7HPZYEL-6U7ChSBY/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc1/Ny02MTUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/VdwKuwzC6Va2OsaOn3BD5V6VLo5lM0hQ4EkAHiiEsoE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzk3/OTgtMTQ2NDczNDc3/NC03Njk3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
@@ -38,25 +46,26 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
+Parklife is the third studio album by the English rock band Blur, released on 25 April 1994 on Food Records. After moderate sales for their previous album Modern Life Is Rubbish (1993), Parklife returned Blur to prominence in the UK, helped by its four hit singles: "Girls & Boys", "End of a Century", "Parklife" and "To the End".
+Certified four times platinum in the United Kingdom, in the year following its release the album came to define the emerging Britpop scene, along with the album Definitely Maybe by future rivals Oasis. Britpop in turn would form the backbone of the broader Cool Britannia movement. Parklife therefore has attained a cultural significance above and beyond its considerable sales and critical acclaim, cementing its status as a landmark in British rock music.In 2010, Parklife was one of ten classic album covers from British artists commemorated on a UK postage stamp issued by the Royal Mail. In 2015, Spin included the album in their list of "The 300 Best Albums of 1985–2014". In 2020, Rolling Stone included in their list of the 500 Greatest Albums of All Time.
 
-Released a year before Blur would face off against Oasis in the mid-'90s Battle of Britpop, the group's third album showcases the wit at the heart of their music. The sassy, disco-tinged "Girls and Boys" sets the tone, as jaunty guitar and keyboard riffs mesh with Damon Albarn's flirty vocals. Meanwhile, the melancholic "End of a Century" brings a wistful, Kinks-like touch. But it's the iconic title track, complete with actor Phil Daniels' chirpy Cockney monologues in the verses, that defines its era.
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/parklife/699665183" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Blur - Parklife](https://www.discogs.com/release/7579798-Blur-Parklife) |
-| Label          | Food |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Parklife |
+| Apple Music Summary | Released a year before Blur would face off against Oasis in the mid-'90s Battle of Britpop, the group's third album showcases the wit at the heart of their music. The sassy, disco-tinged "Girls and Boys" sets the tone, as jaunty guitar and keyboard riffs mesh with Damon Albarn's flirty vocals. Meanwhile, the melancholic "End of a Century" brings a wistful, Kinks-like touch. But it's the iconic title track, complete with actor Phil Daniels' chirpy Cockney monologues in the verses, that defines its era. |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Yellow Translucent) |
+| Label          | Food |
 | Catalog Number | FOODLPX10 |
 | Notes | Gatefold sleeve. Limited to 3000 copies on 180 gram yellow vinyl.  Same release, on black vinyl is here, [r8640693]. |
+| Discogs URL    | [Blur - Parklife](https://www.discogs.com/release/7579798-Blur-Parklife) |

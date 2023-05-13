@@ -11,6 +11,13 @@ cover:
     image: "the-hour-of-bewilderbeast-6662734.jpg"
     alt: "The Hour Of Bewilderbeast by Badly Drawn Boy"
     caption: "The Hour Of Bewilderbeast by Badly Drawn Boy"
+additional_images:
+    - "https://i.discogs.com/tO79k5-o3deyv-WZVgd2MqaOvwukJBgVfsr_s3uCf4I/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NC01MzkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/RUFjoFM58X9IYHcDHjfMGT6rKdFQURdJ-z_bFemP5Cw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/MC0yMTgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/eHAu2wiD4cKf9wMVk4ZsxJm4vIHJlzQRhldalwFzmW4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/My0yNTEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/if68iLSn13_pcH53ZE9t8j32_3utsgk_VZNTzAoQzns/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS0yMTg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/JMff0rQSZfMxF2LY60W2v9YNNGTOQF0DAVCfx2-2lRU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS00NjUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ABjrXNQXe0jU4WKZRUy5DMZvjCGaJMLqh1iH3XnTdmM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS0zNjgyLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Folk Rock", "Downtempo"]
 ---
@@ -40,22 +47,13 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 
 <!-- section break -->
 
-
 A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hour-of-bewilderbeast/1540689690" >}}
-
-
-
-
-
 ## Videos
 ### Badly Drawn Boy - The Shining
 {{< youtube id="KNY-Pl1_ji0" title="Badly Drawn Boy - The Shining" >}}<br>
-
 ### More Videos
 
 - [Badly Drawn Boy - Everybody's Stalking](https://www.youtube.com/watch?v=dlYsmqANxIo)
@@ -66,13 +64,16 @@ A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut fro
 - [Bewilderbeast](https://www.youtube.com/watch?v=8YwGcqtYRdI)
 - [Badly Drawn Boy - Bewilder](https://www.youtube.com/watch?v=hHPYNEDK2Ew)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker. |
 | Release Year   | 2012                                   |
-| Discogs Link   | [Badly Drawn Boy - The Hour Of Bewilderbeast](https://www.discogs.com/release/6662734-Badly-Drawn-Boy-The-Hour-Of-Bewilderbeast) |
-| Label          | Twisted Nerve |
 | Format         | Vinyl LP Reissue |
+| Label          | Twisted Nerve |
 | Catalog Number | TNXLLP133 |
 | Notes | ℗ & © 2000 XL Recordings Ltd. The copyright in this recording is owned by XL Recordings Ltd. "Made In the EU" below barcode on reverse side. All tracks written and produced by Damon Gough A.K.A. Badly Drawn Boy Other original photography by Dom Thomas, Hayley Slater-King and the Gough Family Ian Smith, Matt McGeever, Sam Morris and Sean Kelly from the band [a16376] and Joe Robinson and Ian Rainford from [a41656] appear courtesy of Twisted Nerve Records. Jez Williams, Jimmy Goodwin and Andy Williams from the band [a3855] appear courtesy of Heavenly Records.  Initial copies of this had Woody Allen in the top left circle of the album sleeve, but were removed in later editions.  Taja Sevelle complained that the lyrics of Magic In The Air were too similar to her single, Love Is Contagious and sections of the vocal were removed on later editions.    |
+| Discogs URL    | [Badly Drawn Boy - The Hour Of Bewilderbeast](https://www.discogs.com/release/6662734-Badly-Drawn-Boy-The-Hour-Of-Bewilderbeast) |

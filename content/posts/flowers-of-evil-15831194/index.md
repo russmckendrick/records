@@ -10,6 +10,17 @@ cover:
     image: "flowers-of-evil-15831194.jpg"
     alt: " Flowers Of Evil by Ulver"
     caption: " Flowers Of Evil by Ulver"
+additional_images:
+    - "https://i.discogs.com/sqyfHq8NKM0K28FUXIYevsvhMQnKQpewF0Xg3XfnRyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUw/OTAtNjA3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/7nGKGg2r0EhncTuuYb-aOtbGmnpdmVO2BTvdeU20n_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MDMtNDAzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/AtbIanrtYXZkqYzosOS8V1lsIJGkL3Lw1DL5jHNSID0/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE1OTk5MjMy/MjUtNDI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/vlnVhcP0D81KfP5XWoNARVMUAErr0hQmGEoHBjpTfgM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MTktNTEyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/JD_mMIUPnI3AEw_iM6te5OlHnqXYfH2ffzWdVoVU-Fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MjEtMzM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Z9sHNZNPGX10KSxDGw_zdVXJ3CtWTrbmv2BssyBHkUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MjItOTgxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/_SP_gdQE5ZlKseHKeoNQXdFWRInk9ytTEDAhuOZCrSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MjMtMzE5My5qcGVn.jpeg"
+    - "https://i.discogs.com/Fu_WdNb7Ph7VnQTLqpSh1mf60tW4qMqD_-Cl6L18v7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MjQtMzUyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/6UldOrobL3wiMJ79fJoS7ENQWsBmtYeSJQVWby9MN5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MjUtMTA2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/vuFqUOqfTSaVQOtRZq2CAL1YTVYmBLwOCIcI5TeHDD0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMx/MTk0LTE2MDc1NTUx/MjYtODM0MC5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -29,33 +40,27 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flowers-of-evil/1526294296" >}}
-
-
-
-
-
 ## Videos
 ### Ulver - Russian Doll
 {{< youtube id="3e_Zs79vq40" title="Ulver - Russian Doll" >}}<br>
-
 ### More Videos
 
 - [Ulver - Nostalgia](https://www.youtube.com/watch?v=Wt1qbDvMoik)
 - [Ulver - Russian Doll](https://www.youtube.com/watch?v=a8QwxdF_oMQ)
 - [Ulver - Flowers of Evil [Full Album, 2020]](https://www.youtube.com/watch?v=9M3CN0AUmoc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Ulver -  Flowers Of Evil](https://www.discogs.com/release/15831194-Ulver-Flowers-Of-Evil) |
-| Label          | House of Mythology |
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear) |
+| Label          | House of Mythology |
 | Catalog Number | HOM023LPC |
 | Notes | Limited 180 gram crystal clear vinyl, housed in thick printed inner sleeve and thick card stock sleeve. Includes a 12" matte paper four-page booklet.  Pressed in 1000 copies.  |
+| Discogs URL    | [Ulver -  Flowers Of Evil](https://www.discogs.com/release/15831194-Ulver-Flowers-Of-Evil) |

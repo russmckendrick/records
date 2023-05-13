@@ -10,6 +10,10 @@ cover:
     image: "threesome-vol-3-23730260.jpg"
     alt: "Threesome Vol. 3 by The Lickerish Quartet"
     caption: "Threesome Vol. 3 by The Lickerish Quartet"
+additional_images:
+    - "https://i.discogs.com/JvYTzfVsGdiUaaN24xSIp98dTVWM7mZA3ipT-mt80f8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMw/MjYwLTE2NTY1MTEy/MzEtMTc5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/4W0FIXy3B5Gmj1cLYQI-SSunKmIJ9W2txulxYrhXwIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMw/MjYwLTE2NTY1MTEy/MjYtNDM4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qbgEkYJmFShrHp3drE5UCaPI0hsK4IN9KK0c82DRd4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMw/MjYwLTE2NTY1MTEy/MjktNTg4Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
@@ -29,22 +33,19 @@ styles: ["Power Pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Lickerish Quartet - Threesome Vol. 3](https://www.discogs.com/release/23730260-The-Lickerish-Quartet-Threesome-Vol-3) |
-| Label          | Lojinx |
 | Format         | Vinyl 12" EP |
+| Label          | Lojinx |
 | Catalog Number | LJX129V12 |
+| Discogs URL    | [The Lickerish Quartet - Threesome Vol. 3](https://www.discogs.com/release/23730260-The-Lickerish-Quartet-Threesome-Vol-3) |

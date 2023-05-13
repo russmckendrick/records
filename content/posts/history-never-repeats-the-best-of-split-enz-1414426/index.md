@@ -10,6 +10,11 @@ cover:
     image: "history-never-repeats-the-best-of-split-enz-1414426.jpg"
     alt: "History Never Repeats (The Best Of Split Enz) by Split Enz"
     caption: "History Never Repeats (The Best Of Split Enz) by Split Enz"
+additional_images:
+    - "https://i.discogs.com/0nfceYCkjNywRzt8Zq7Vhq0_ohX-9wguGF6hWVDiHus/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MjYtMTMxNjEzOTYz/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/kwR3RXZTEgn4HKIlp-C5LFFLB6dBa0BoxJ6bTDDYiZw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MjYtMTMxNjEzOTY0/OC5qcGVn.jpeg"
+    - "https://i.discogs.com/g9hSe_1hsCQhDC26mAN0rG4mkfuUmZixvQCcgUpGbGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MjYtMTQ0NjY2MzQ5/OS0zNjAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/CX5Wm5afjYLp8u9IdwtyCN56kBOYLxH8YQOu-EUfizs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MjYtMTQ0NjY2MzQ5/OS02ODI1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
@@ -32,28 +37,24 @@ styles: ["New Wave"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Split Enz - Message To My Girl (1984)
 {{< youtube id="YUC_jE78FNE" title="Split Enz - Message To My Girl (1984)" >}}<br>
-
 ### More Videos
 
 - [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1987                                   |
-| Discogs Link   | [Split Enz - History Never Repeats (The Best Of Split Enz)](https://www.discogs.com/release/1414426-Split-Enz-History-Never-Repeats-The-Best-Of-Split-Enz) |
-| Label          | A&M Records |
 | Format         | Vinyl LP Compilation |
+| Label          | A&M Records |
 | Catalog Number | SP-3289 |
 | Notes | "B" on labels and "EMW" in runouts denotes an [l285745] pressing. |
+| Discogs URL    | [Split Enz - History Never Repeats (The Best Of Split Enz)](https://www.discogs.com/release/1414426-Split-Enz-History-Never-Repeats-The-Best-Of-Split-Enz) |

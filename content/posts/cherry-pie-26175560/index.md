@@ -10,6 +10,12 @@ cover:
     image: "cherry-pie-26175560.jpg"
     alt: "Cherry Pie by Warrant"
     caption: "Cherry Pie by Warrant"
+additional_images:
+    - "https://i.discogs.com/iUoj15-X0vAEK8yeVBP5r6nZtdDDe9aKmk_pQxaKUNc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc1/NTYwLTE2ODIwMTU3/MjQtOTU1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/nV0aZjjGv3krkeh_LWBP9E_CqWzIT_2vOFYLyUuGyrA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc1/NTYwLTE2ODIwMTU3/MjItMzE4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/RFf5fPxcZE0C8-6dGy3bHrUsROCBx0uJXWZHpYpvGHs/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc1/NTYwLTE2ODIwNDE1/MjMtMjg1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/dvJiyYhTJGzpGtldpgK8ZUGLTIvyy9MvNU9H4rQjBBc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc1/NTYwLTE2ODIwNDE1/MjMtNjE0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ro_pIUEVe6fwrMD1TmPY9jLJDxncMdO4EU77wGqe-3I/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc1/NTYwLTE2NzkzMDgz/NjYtMjk3Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Glam", "Hard Rock"]
 ---
@@ -33,20 +39,13 @@ styles: ["Glam", "Hard Rock"]
 
 <!-- section break -->
 
-
-
-
+Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cherry-pie-bonus-track-version/198468184" >}}
-
-
-
-
-
 ## Videos
 ### Warrant - Uncle Tom's Cabin (Official Video)
 {{< youtube id="bx6f68Wd9dc" title="Warrant - Uncle Tom's Cabin (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Warrant - Cherry Pie](https://www.youtube.com/watch?v=OjyZKfdwlng)
@@ -67,13 +66,17 @@ styles: ["Glam", "Hard Rock"]
 - [Warrant – Blind Faith](https://www.youtube.com/watch?v=QGB_J4OEk6c)
 - [Warrant – Sure Feels Good To Me](https://www.youtube.com/watch?v=KCL2ZWA_yE0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Cherry_Pie_(album) |
+| Wikipedia Summary | Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red". |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560-Warrant-Cherry-Pie) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP3112 |
 | Notes | Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112 |
+| Discogs URL    | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560-Warrant-Cherry-Pie) |

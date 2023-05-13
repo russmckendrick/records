@@ -10,6 +10,11 @@ cover:
     image: "ace-a-s-killer-b-s-22218358.jpg"
     alt: "Ace A's + Killer B's by Dodgy"
     caption: "Ace A's + Killer B's by Dodgy"
+additional_images:
+    - "https://i.discogs.com/9Uz_OieVuFb9ktaYE1W4boOc4ICJoIKpQfXef2-kJc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyODIw/NDEtMzg5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/bxC6v_fcNWoCxEvwpTJNo3S5M15y0LTDV7JSBGXFw98/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYw/OTItOTExNC5qcGVn.jpeg"
+    - "https://i.discogs.com/M7Y46y9a4vdFJwtdyQGmlQKfR6cUBJCmIWCzRNVF7jI/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYx/MDctNDk0My5qcGVn.jpeg"
+    - "https://i.discogs.com/1BD8EWfzCUfvueLzx_CKp1EbffLE9Je54srb3fviVcc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYx/MTEtNTc2MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---
@@ -38,28 +43,23 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ace-as-killer-bs/1443796376" >}}
-
-
-
-
-
 ## Videos
 ### Dodgy Ace A's + Killer B's
 {{< youtube id="WTkeHkdIuB0" title="Dodgy Ace A's + Killer B's" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Dodgy - Ace A's + Killer B's](https://www.discogs.com/release/22218358-Dodgy-Ace-As-Killer-Bs) |
-| Label          | Demon Records |
 | Format         | Vinyl LP (Green translucent, 180g), Vinyl LP (Yellow translucent, 180g), All Media Compilation Limited Edition Reissue Stereo |
+| Label          | Demon Records |
 | Catalog Number | DEMREC907X |
 | Notes | First ever vinyl issue. Previously only available on CD.  Title on hype sticker: Ace A's + Killer B's The Best Of  Standard sleeve with printed inner sleeves. Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'  Manufactured in E.U. |
+| Discogs URL    | [Dodgy - Ace A's + Killer B's](https://www.discogs.com/release/22218358-Dodgy-Ace-As-Killer-Bs) |

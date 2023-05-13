@@ -10,6 +10,12 @@ cover:
     image: "the-patty-patty-sound-7427082.jpg"
     alt: "The Patty Patty Sound by The Beta Band"
     caption: "The Patty Patty Sound by The Beta Band"
+additional_images:
+    - "https://i.discogs.com/yqRZggC5lzNeEdeTusFjLsJ49AlJtPsuz6GEKJbagoI/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/ODItMTQ0MjA2NjE3/Mi00NzY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/gwYz5LeK1DuqOoVs5zbNvJXZU1qYbkGm-fItvnWFgCk/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/ODItMTQ0MjA2NjE3/OS0xMjIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Mc9KRtr_Yj4swLVeSNVSP7Kcud89g1KVjdQpRLtPE2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/ODItMTQ3MjMyNjYx/MC02OTQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/8WwyNLnc9fllHGfEHshNCy9TZmVjb3gNV6kyV1qKTwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/ODItMTQ3MjMyNjYx/MS01NzM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ktiE-AtWu-gcc_GvtmrBTrADMZYOpXZwAVC6RBh7SwM/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/ODItMTQ3MjMyNjYx/Mi0yMzQ5LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
@@ -25,29 +31,30 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+The Patty Patty Sound is the second release by The Beta Band, released in 1998. Despite being almost 40mins long and originally being released on 2 x 12" records, the release is still considered an E.P. by both the band and the press. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and Los Amigos del Beta Bandidos. "The Monolith" is titled simply "Monolith" on The Three E.P.'s..
+The track "Monolith" features a manipulated sample of "Dry The Rain" from the E.P. Champion Versions.
+The Patty Patty Sound, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
+<br>
 ## Videos
 ### The Beta Band - Inner Meet Me
 {{< youtube id="eyRu0b7nnNc" title="The Beta Band - Inner Meet Me" >}}<br>
-
 ### More Videos
 
 - [Beta Band-She's The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
 - [The Beta Band - The House Song](https://www.youtube.com/watch?v=PihMXJ2lKCs)
 - [The Beta Band - 07 Monolith](https://www.youtube.com/watch?v=xeUVbfPIPhU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Patty_Patty_Sound |
+| Wikipedia Summary | The Patty Patty Sound is the second release by The Beta Band, released in 1998. Despite being almost 40mins long and originally being released on 2 x 12" records, the release is still considered an E.P. by both the band and the press. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and Los Amigos del Beta Bandidos. "The Monolith" is titled simply "Monolith" on The Three E.P.'s..<br>The track "Monolith" features a manipulated sample of "Dry The Rain" from the E.P. Champion Versions.<br>The Patty Patty Sound, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [The Beta Band - The Patty Patty Sound](https://www.discogs.com/release/7427082-The-Beta-Band-The-Patty-Patty-Sound) |
-| Label          | Regal |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Repress (180 g) |
+| Label          | Regal |
 | Catalog Number | REGS 18 |
 | Notes | 180gm pressing. MP3 download voucher. Spine reads "Supreme Food And Wine"  ℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd. © 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18. |
+| Discogs URL    | [The Beta Band - The Patty Patty Sound](https://www.discogs.com/release/7427082-The-Beta-Band-The-Patty-Patty-Sound) |

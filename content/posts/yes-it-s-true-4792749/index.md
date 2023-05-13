@@ -10,6 +10,8 @@ cover:
     image: "yes-it-s-true-4792749.jpg"
     alt: "Yes, It's True by The Polyphonic Spree"
     caption: "Yes, It's True by The Polyphonic Spree"
+additional_images:
+    - "https://i.discogs.com/FfF2nIHudVp-AKbPEDr45muoMNBh9YJwhYWH6b3p_Xs/rs:fit/g:sm/q:90/h:485/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTI3/NDktMTM3NTY5ODUy/Mi05MjAxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
@@ -32,20 +34,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yes-its-true/1595585729" >}}
-
-
-
-
-
 ## Videos
 ### The Polyphonic Spree : You Don't Know Me (OFFICIAL)
 {{< youtube id="hGiEL_BGToo" title="The Polyphonic Spree : You Don't Know Me (OFFICIAL)" >}}<br>
-
 ### More Videos
 
 - [The Polyphonic Spree : Blurry Up The Lines (OFFICIAL)](https://www.youtube.com/watch?v=Qpvp0dfE9Z0)
@@ -55,13 +49,15 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [The Polyphonic Spree : Raise Your Head (OFFICIAL)](https://www.youtube.com/watch?v=_7gNjOkszeQ)
 - [The Polyphonic Spree : Let Them Be (OFFICIAL)](https://www.youtube.com/watch?v=YCZUpxMLC2w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2013                                   |
-| Discogs Link   | [The Polyphonic Spree - Yes, It's True](https://www.discogs.com/release/4792749-The-Polyphonic-Spree-Yes-Its-True) |
-| Label          | Good Records |
 | Format         | Vinyl LP (Pastel Green) |
+| Label          | Good Records |
 | Catalog Number | GRR 27 |
 | Notes | "As part of the Kickstarter "label", what you hold in your hand is a direct reflection of your specific contribution to our musical dance. When this is played on your turntable, CD player or computer, the same applies. Forever know that, what you have done, is now doing exactly what we all wanted. Thank You!" - Tim |
+| Discogs URL    | [The Polyphonic Spree - Yes, It's True](https://www.discogs.com/release/4792749-The-Polyphonic-Spree-Yes-Its-True) |

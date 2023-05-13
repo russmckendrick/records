@@ -10,6 +10,9 @@ cover:
     image: "latest-writs-the-best-of-greatest-hits-10461741.jpg"
     alt: "Latest Writs The Best Of... Greatest Hits by The Pretty Things"
     caption: "Latest Writs The Best Of... Greatest Hits by The Pretty Things"
+additional_images:
+    - "https://i.discogs.com/NMgLRP4GLXTiczAxGHNdLaKNK5V-ZPfavED7TJaZCRc/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYx/NzQxLTE0OTc5NzA0/NTgtMjY3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/6gsUOsX1BMDMDZUC8dwFbxd7VGmA52vd6VLtYqZRD0g/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYx/NzQxLTE0OTc5NzA0/ODMtMzEwNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
@@ -34,19 +37,18 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741-Pretty-Things-Latest-Writs-The-Best-Of-Greatest-Hits) |
-| Label          | Madfish |
 | Format         | Vinyl LP Compilation Limited Edition (Turquoise vinyl) |
+| Label          | Madfish |
 | Catalog Number | SMALP 1085 |
 | Notes | ℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.    |
+| Discogs URL    | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741-Pretty-Things-Latest-Writs-The-Best-Of-Greatest-Hits) |

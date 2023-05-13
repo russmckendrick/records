@@ -11,6 +11,13 @@ cover:
     image: "the-doors-2548932.jpg"
     alt: "The Doors by The Doors"
     caption: "The Doors by The Doors"
+additional_images:
+    - "https://i.discogs.com/RgwvEQj9d-c-ZZwTTQd_51liBGDGx-1Mwi4slUyacI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3Mjcz/NC01MzAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/4Udl_jEgNY4Gm1Pk4PU_C57RY1LVmRwX4-Y5uMUCNPM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3Mjcz/MC04NTk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/hBhiS6-ajcYC2r6l6QAP-GmnlhxJ1-RHSRDdk9z1EjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3NzA4/OC00MTgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/nuYrqsztmi9gXO_OVrCIYtB1xd1G7r0BWjmXUKF8xVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3NzA4/OS0zNzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/wl8KzMfTbOgcQveTNk0HK6p9Ud1-3CdY2DDNtFrSxxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3Mjcz/MC00NDI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/1wUqab51SaQJNCfcS_eXoID0Xm_aqInoRjgkBhRIScI/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3Mjgz/MS01MDI0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Blues Rock"]
 ---
@@ -33,25 +40,24 @@ styles: ["Psychedelic Rock", "Blues Rock"]
 
 <!-- section break -->
 
-
-The Doors were among the most important rock 'n' roll bands of the '60s and have transcended into the 21st century with their magic and mystique intact. In an era when bands are often imitated, The Doors stand alone. They sound like no one else. In just five short years, 1967 to 1971, they released six studio albums with Jim Morrison that went beyond rock 'n' roll to touch on blues, folk, flamenco, crooner ballads, pop hits, and poetry. Morrison led with lyrics that served as love songs and existential ruminations. A number of big hits—"Light My Fire," "People Are Strange," "Hello, I Love You," "Touch Me," "Love Her Madly"—established The Doors' popular legacy, but deeper album cuts such as "The Changeling," "Peace Frog," "Waiting for the Sun," and "The Crystal Ship" illuminate the peerless musicianship of keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore, who made The Doors a <i>band</i> in the truest sense of the word.
-
-
-
+The Doors is the debut studio album by American rock band the Doors, released on January 4, 1967, by Elektra Records. It was recorded in August 1966 at Sunset Sound Recorders, Hollywood, California, under the production of Paul A. Rothchild. The album features the extended version of the breakthrough single "Light My Fire" and the lengthy closer "The End" with its Oedipal spoken word section. Publications including BBC and Rolling Stone have considered it one of the greatest and most unique debut albums in recorded history.The Doors were working the material of their debut album throughout the year of 1966 at various stages such as the Whisky a Go Go. The album's recording started after their dismissal from the venue, under the maintenance of Elektra Records. The recording of The Doors established the band's wide range of musical influences, such as jazz, classical, blues, pop, R&B and rock music. It has been largely viewed as an essential part of the psychedelic rock evolution, while also being acknowledged as a source of inspiration to other works.
+The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. In 2015 the Library of Congress selected The Doors for inclusion in the National Recording Registry based on its cultural, artistic or historical significance. The Doors remains the band's best-selling studio album, with sales of over 13 million copies, as of 2015.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2009                                   |
-| Discogs Link   | [The Doors - The Doors](https://www.discogs.com/release/2548932-The-Doors-The-Doors) |
-| Label          | Elektra |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Doors_(album) |
+| Apple Music Summary | The Doors were among the most important rock 'n' roll bands of the '60s and have transcended into the 21st century with their magic and mystique intact. In an era when bands are often imitated, The Doors stand alone. They sound like no one else. In just five short years, 1967 to 1971, they released six studio albums with Jim Morrison that went beyond rock 'n' roll to touch on blues, folk, flamenco, crooner ballads, pop hits, and poetry. Morrison led with lyrics that served as love songs and existential ruminations. A number of big hits—"Light My Fire," "People Are Strange," "Hello, I Love You," "Touch Me," "Love Her Madly"—established The Doors' popular legacy, but deeper album cuts such as "The Changeling," "Peace Frog," "Waiting for the Sun," and "The Crystal Ship" illuminate the peerless musicianship of keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore, who made The Doors a <i>band</i> in the truest sense of the word. |
+    | Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Label          | Elektra |
 | Catalog Number | 8122-79865-0 |
 | Notes | On sticker: "Featuring the Original Stereo Mixes Includes BREAK ON THROUGH (TO THE OTHER SIDE) LIGHT MY FIRE TWENTIETH CENTURY FOX 8122-79865-0 180-GRAM VINYL"  Manufactured in the E.U.  From the Rhino Records website: "The 12" reissue on 180-gram HQ virgin vinyl presents the original stereo mixes, artwork and inner sleeves. The laquers were cut at Bernie Grundman Mastering in Hollywood, CA under the direct supervision of original Doors producer/engineer Bruce Botnick and Electra Records founder Jac Holzman."  Part of the 2009 European reissues by [url=https://www.discogs.com/label/152823-Rhino-Vinyl]Rhino Vinyl[/url] on 180 Gram: - [url=https://www.discogs.com/release/2785880-The-Doors-The-Doors]The Doors (mono)[/url] - [url=https://www.discogs.com/release/2548932-The-Doors-The-Doors]The Doors (stereo)[/url] - [url=https://www.discogs.com/release/2548935-The-Doors-Strange-Days]Strange Days[/url] - [url=https://www.discogs.com/release/2795914-The-Doors-Waiting-For-The-Sun]Waiting For The Sun[/url] - [url=https://www.discogs.com/release/3080469-The-Doors-The-Soft-Parade]The Soft Parade[/url] - [url=https://www.discogs.com/release/3144579-The-Doors-Morrison-Hotel]Morrison Hotel[/url] - [url=https://www.discogs.com/release/2548925-Doors-LA-Woman]L.A. Woman[/url]  |
+| Discogs URL    | [The Doors - The Doors](https://www.discogs.com/release/2548932-The-Doors-The-Doors) |

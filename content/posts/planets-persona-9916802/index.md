@@ -10,6 +10,9 @@ cover:
     image: "planets-persona-9916802.jpg"
     alt: "Planets + Persona by Richard Barbieri"
     caption: "Planets + Persona by Richard Barbieri"
+additional_images:
+    - "https://i.discogs.com/DqvHM7IPGyuJA-9AraxhCOOD3JZXUZj2hnQTmpxqMx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTY4/MDItMTQ4ODQ5NjMw/Ny00ODQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/5LCqGXU1J-HPcXy203ZK1pCO_8dSkbG1N5c62JcrCCs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTY4/MDItMTQ4ODQ5NjMw/OC0xMDMxLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ---
@@ -28,28 +31,24 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Richard Barbieri - Planets + Persona (album montage)
 {{< youtube id="wx5bKmBCVYg" title="Richard Barbieri - Planets + Persona (album montage)" >}}<br>
-
 ### More Videos
 
 - [Richard Barbieri - New Found Land (from Planets & Persona)](https://www.youtube.com/watch?v=YEUZtutCahE)
 - [Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)](https://www.youtube.com/watch?v=MQiZVQc06KM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Richard Barbieri - Planets + Persona](https://www.discogs.com/release/9916802-Richard-Barbieri-Planets-Persona) |
-| Label          | Kscope |
 | Format         | Vinyl 2× LP 45 RPM Album (Gatefold) |
+| Label          | Kscope |
 | Catalog Number | KSCOPE942 |
 | Notes | Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.  www.kscopemusic.com/artists/richard-barbieri/ www.facebook.com/richardbarbieriofficial  Kscope is a Snapper Music label. Made in Germany.   |
+| Discogs URL    | [Richard Barbieri - Planets + Persona](https://www.discogs.com/release/9916802-Richard-Barbieri-Planets-Persona) |

@@ -11,6 +11,20 @@ cover:
     image: "lianne-la-havas-15622410.jpg"
     alt: "Lianne La Havas by Lianne La Havas"
     caption: "Lianne La Havas by Lianne La Havas"
+additional_images:
+    - "https://i.discogs.com/vOsfCP8sGZdNOFtPWRq8ZeeguJ-NBNlPScHjt2Vgul0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/NDEtNTcyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/nVxDpxrXU2mWo-Y0eNoL0YP8E-f8bROzmthgObXG28g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/MzMtNDIwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/ysRvot7vHdd-hTV7WyikDMl2sEMaEM8oX26ghOUcVB8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/NDQtNjM3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/4SRGDaEhQtbpD7nVjZ3gtcoJSqoAmP6OhrWej-L878I/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/NDEtMzk2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/7fhTB0ev8EI7195bRCwwi23czQjmTKioCOvtL_K-cbs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/MzktNjU4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/qDx36RvwMnRsdiiDM2PS102Z8oVlZ7wAAoArw2vPDoc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/MzgtNjEyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/uIWXok0G2pQs3_WMutMWl_VR9Q_nrY4NcnhrGidUhHk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTktNTQ0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/xZ9Kect2FdusMqs6hspg-egEDFDPnxzBUMnwkNvgROc/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNzQ2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qOVHaXEAnN_iP6H6VueSM92CsVApW1IoAYUT2yEBdNQ/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNzQ3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/3kJLZazOM4l70ToesTSefo9Cnn0l8GKsyCHGleg-YhI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNDA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/gKHZD5wJNrIZ5dcItx694OQldu4meYE98S9eJvF5egc/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQx/MjUtMTAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/kMAOcmqmeVyeJLmup2HiF1VRO_vcvp0_fYaQqduZxzY/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTQ3MjQ4/NDktOTE0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/1LayMdW1q2osYvVCK7kUZybVBfwdQ19A362ynl69uU4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTQ3MjQ4/MzEtMzY1NS5qcGVn.jpeg"
 genres: ["Funk / Soul", "Pop"]
 styles: []
 ---
@@ -32,7 +46,6 @@ styles: []
 11. Sour Flower
 
 <!-- section break -->
-
 
 “I don’t know where it went, really,” Lianne La Havas tells Apple Music of the time between the release of her stunning second album <i>Blood</i>, in 2015, and her self-titled third record, delivered in 2020. “Lots was happening—and nothing.” In 2016 she toured with Coldplay (“Something I couldn’t not do”) and Leon Bridges (“extremely fun”), after which La Havas thought she’d settle down to write album number three. Two years later, she was still drawing a blank. “I was trying really hard, but I realised I couldn’t force it,” she says. “I just had to live my life a bit.” The inspiration came, at last, in 2019, in the form of a series of “big life changes—stuff in my personal life, family, relationships.” <i>Lianne La Havas</i> was finished before the year’s end. “Once I made those changes, it was the catalyst for the clarity of what I needed to write and how I needed to do it. Once I knew what to do, the process was quick.”<br />
 The result is a record that harnesses the power of the bold, bass-imbued sounds of <i>Blood</i>—and then takes it up a level. The beats are heavier and the influences wider-ranging, from R&B (“my musical upbringing”) to Brazilian music (La Havas has been an avid fan for the last decade) and Radiohead, whose song “Weird Fishes” the singer gives her powerful take on midway through the album. “I feel like this is the first time my influences are more defined,” says La Havas. “But the album still sounds like me. It’s maybe the most me I’ve ever sounded, which is what I want.” <i>Lianne La Havas</i> is, too, a moving exploration of those seismic shifts that prompted the record’s inception and, in particular, the life cycle of a relationship. There’s the heady infatuation of those early days (“Read My Mind”), the devastating moment cracks begin to show (“Paper Thin”) and, finally, the slow, precarious process of putting yourself back together after a painful end (see “Sour Flower”, the album’s gorgeous, sprawling, jazz-imbibed outro). “This is my first album that is actually a full story where you can hear a beginning, middle and an end,” says La Havas. She adds, as reassurance, “I’m all right now. Get to the last song on this album and you will know that I am totally fine!” More than that, this is the most self-assured the Streatham singer has ever sounded. “I’d lost a bit of confidence and got insecure about everything,” she says. “As I completed each piece of the story on this album, it made me a bit stronger. With each song, I realised that I could do it—that I could finish something I was proud of.” Let La Havas guide you through her triumphant album, track by track.<br />
@@ -58,20 +71,12 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
 “Milton Nascimento, one of my favourite Brazilian artists, has an album called <i>Courage</i>. And during one of my darker times over the last few years, a friend of mine recommended that album to me. And then I wrote this song, and it wasn't going to be called that for a while. But then that word is just such a good word. I guess the song takes you to the most vulnerable point of just admitting that you're lonely and it's really hard and it feels like the pain is never going to end—even if it might've been your decision. It was a particularly confusing type of pain. The music was written with a friend of mine, Joe Harrison, who played bass on ‘Paper Thin’ too. He's just an amazing guitarist and songwriter. During those five years where everything and nothing was happening, I was doing a writing camp—I think, basically, my label panicked and wanted to give me the tools to try and make music. I ended up in the studio with lots of incredible musicians, but not much of it was right. One day, I remember I was feeling particularly alone in this process and I called Joe. I was like, ‘Hey, are you in LA right now? Please will you come to the studio?’ And I made everyone get out of the room so that me and Joe could just be in the studio together. And we just wrote that thing in about 10 minutes. That was my piece of beautiful treasure from that weird time creatively that I was having.”<br />
 <b>Sour Flower</b>
 “‘Sour flower’ is a phrase my great-grandmother used to say. Meaning ‘That's your sour flower, that's your problem, you deal with it.’ She was Jamaican and would say stuff like that, and I’d be like, ‘What does that mean?’ Later on, I was talking to Matt Hales, who I write a lot with, about her old phrases. We always wanted to get one of them onto a song. And that one just seemed appropriate. It's your journey, it's your issue, your cross to bear. For me, this song is all about the self-love and the self-care to restore yourself after whatever monumental derailment. I think it's ultimately a positive ending. But also, I wanted to have that long outro as well, to represent the ongoing work that the person is doing on themselves to improve things. The song is fully live—we all were playing together in the room, and it just feels like I should have done that earlier in my career. Of course there were some changes and then I was like, ‘No, we have to have that very first version, please.’ I'm glad that it ended up as it was on the day that we did it.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lianne-la-havas/1545263511" >}}
-
-
-
-
-
 ## Videos
 ### Read My Mind
 {{< youtube id="ZmbiD9SCF7w" title="Read My Mind" >}}<br>
-
 ### More Videos
 
 - [Sour Flower](https://www.youtube.com/watch?v=BgirEShyrMg)
@@ -81,13 +86,17 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
 - [Courage](https://www.youtube.com/watch?v=hX1kUBhmVAs)
 - [Green Papaya](https://www.youtube.com/watch?v=8KRgHWa8P90)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Lianne La Havas - Lianne La Havas](https://www.discogs.com/release/15622410-Lianne-La-Havas-Lianne-La-Havas) |
-| Label          | Warner Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lianne_La_Havas_(album) |
+| Wikipedia Summary | Lianne La Havas is the self-titled third studio album by English singer Lianne La Havas. The album was released on 17 July 2020. Released after a five-year hiatus and written following La Havas' break-up, the album was inspired by the life cycle of nature and its ability to thrive, go away, and come back stronger. Recording of the album took place between October 2019 and December 2019, with sessions taking place in London, Bath and New York. The album's production was handled by La Havas along with long-term collaborator Matt Hales, co-producers Beni Giles, Sam Crowe and guest co-producer Mura Masa.<br>Lianne La Havas is a concept album with a song cycle that depicts the stages of a relationship, from early romance to demise. The album's musical style was inspired by Milton Nascimento, Joni Mitchell, Jaco Pastorius, Al Green, and Destiny's Child, resulting in a predominately neo soul album with elements of jazz and folk. Upon release, the album was met with rave reviews from critics, who praised the album's eclectic musical style and lyrical exploration. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Mint Green) |
+| Label          | Warner Records |
 | Catalog Number | 0190295265014 |
 | Notes | Limited edition mint green vinyl.  ℗ & © Warner Records UK, a division of Warner Music UK Limited. All Rights Reserved. Unauthorized copying, hiring, lending, public performance & broadcasting prohibited. Made in the E.U. 0190295265014  SIDE A Bittersweet Published by Warner Chappell for Lianne La Havas , Published by Universal Music Publishing Ltd for Matt Hales , Incorporates elements of "Ike's Rap Part III" by Isaac Hayes, published by Universal Music Publishing and "Your Love Is So Doggone Good" by Di Fosco T. Ervin Jr. and Rudy Love, published by Kassner Associated Publishers Ltd. Used by permission. All Rights Reserved. Lead Vocals recorded at Studio Seventeen, Bath, UK, Recorded at 123 Studios, London, Sample replay produced for Replay Heaven Read My Mind Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Ltd for Matt Hales, Published by Method Paperwork/Universal Music Publishing for Bruno Major, Lead Vocals recorded at Seventeen Studios, Bath, UK, Recorded at 123 Studios, London and Miloco The Pool, London and Red Bull Studios, New York Green Papaya Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Ltd for Matt Hales, Copyright Control for Sam Crowe, Backing Vocals Engineered at Iguana Studios, Recorded at The Crows Nest Studio, London Can't Fight Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Lid for Matt Hales, Published by MOS Publishing Ltd for Alex Crossan, Strings arranged and performed for Echo Beach management, Recorded in Copenhagen, All Vocals recorded at Real World Studios, Bath, UK, Recorded at The Pool, London Paper Thin Published by Warner Chappell for Lianne, Published by Universal Music Publishing Ltd for Matt Hales, Recorded at The Legendary Diamond Mine, NY USA Out Of Your Mind (Interlude) Published by Warner Chappell for Lianne La Havas, Copyright Control for Geordan Reid-Campbell, Recorded at Studio 19, The Premises Studios, London  SIDE B Weird Fishes Published by Warner Chappell, Recorded at 123 Studios, London, Additional Vocals Recorded at The Pool Studios, London Please Don't Make Me Cry Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Ltd for Matt Hales, Published by Downtown Music Publishing for Nick Hakim, Mixed at Rumours, Brooklyn, Lead Vocals Recorded at Real World Studios, Bath, UK. Recorded and Engineered at Earseed Recording, New York, Additional Drums Engineered at Iguana Studios, London Seven Times Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Ltd for Matt Hales. Recorded at Real World Studios, Bath, UK and The Pool, London Courage Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Lid for Matt Hales, Published by Domino Publishing Ltd for Joe Harrison , Recorded at Eagle Rock Studios, Los Angeles, USA, Vocals Recorded at Studio Seventeen, Bath Sour Flower Published by Warner Chappell for Lianne La Havas, Published by Universal Music Publishing Ltd for Matt Hales, Published by Copyright Control for Sam Crowe. Mixed at Rumours, Brooklyn. Recorded at Red Bull Studios, NYC, USA, Vocals Recorded at Real World Studios, Bath, UK |
+| Discogs URL    | [Lianne La Havas - Lianne La Havas](https://www.discogs.com/release/15622410-Lianne-La-Havas-Lianne-La-Havas) |

@@ -1,6 +1,8 @@
 ---
 title: "Tori Amos"
-summary: "American singer, songwriter and pianist, born August 22, 1963 in Newton, North Carolina. Married to engineer , with whom she has a daughter, ."
+summary: "Tori Amos is an American singer-songwriter and pianist. She is a classically trained musician with a mezzo-soprano vocal range. Having already begun composing instrumental pieces on piano, Amos won a full scholarship to the Peabody Institute at Johns Hopkins University at the age of five, the youngest person ever to have been admitted. She had to leave at the age of eleven when her scholarship was discontinued for what Rolling Stone described as \"musical insubordination\". Amos was the lead singer of the short-lived 1980s pop group Y Kant Tori Read before achieving her breakthrough as a solo artist in the early 1990s. Her songs focus on a broad range of topics, including sexuality, feminism, politics, and religion.
+Her charting singles include \"Crucify\", \"Silent All These Years\", \"God\", \"Cornflake Girl\", \"Caught a Lite Sneeze\", \"Professional Widow\", \"Spark\", \"1000 Oceans\", \"Flavor\" and \"A Sorta Fairytale\", her most commercially successful single in the U.S. to date. Amos has received five MTV VMA nominations and eight Grammy Award nominations, and won an Echo Klassik award for her Night of Hunters classical crossover album. She is listed on VH1's 1999 \"100 Greatest Women of Rock and Roll\" at number 71."
 image: "tori-amos.jpg"
 apple_music_artist_url: "None"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tori_Amos"
 ---

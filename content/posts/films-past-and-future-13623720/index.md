@@ -10,6 +10,9 @@ cover:
     image: "films-past-and-future-13623720.jpg"
     alt: "Films: Past And Future by Rob Dougan"
     caption: "Films: Past And Future by Rob Dougan"
+additional_images:
+    - "https://i.discogs.com/G2kyOWmac-vdHnT2M32JjQwGaIPu1YWv2cikbS8QhCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIz/NzIwLTE1NTc3NDUz/MTEtMzMyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/94m4fc9f4sfjzc0tDKv995jhRBo_y4Ej7pb3vgcxtus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIz/NzIwLTE1NTc3NDU2/MDUtMjA1My5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ---
@@ -42,26 +45,22 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Films: Past and Future  Rob Dougan  (Walkthrough)
 {{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}<br>
-
 ### More Videos
 
 - [FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)](https://www.youtube.com/watch?v=mdIEqCWV9U8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Rob Dougan - Films: Past And Future](https://www.discogs.com/release/13623720-Rob-Dougan-Films-Past-And-Future) |
-| Label          | Label Rob |
 | Format         | Vinyl 3× LP Compilation |
+| Label          | Label Rob |
 | Catalog Number | none |
+| Discogs URL    | [Rob Dougan - Films: Past And Future](https://www.discogs.com/release/13623720-Rob-Dougan-Films-Past-And-Future) |

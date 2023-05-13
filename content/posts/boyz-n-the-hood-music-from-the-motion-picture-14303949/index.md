@@ -10,6 +10,14 @@ cover:
     image: "boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg"
     alt: "Boyz N The Hood (Music From The Motion Picture) by Various"
     caption: "Boyz N The Hood (Music From The Motion Picture) by Various"
+additional_images:
+    - "https://i.discogs.com/1DtcChLukovok0-TorLTx3p-yZgOAOt5MGaEYDRVHqM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDYy/NjctNTk5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/WvMlXhdLtDo6Py9mUB19ssb_iUbE3h56vB4qByAml7I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDYy/NjctNzk5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/J4XmOh1GPK9XnwqhMYfEAAJ2V7mzTloCoer_jR17rto/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDYy/NjctMzE3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ua-IsOrLHBids-ifiba5UVHuDxJg5DfRkfQl9a5aCaE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDYy/NjYtMzYwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/BIzyL-spspkSliYAJ8KwbNWFDZkuJRVCAxcm9l9moTI/rs:fit/g:sm/q:90/h:840/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDYy/NjctODcxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/YsFRxZ6W5P28YPfeCJWOJDt3Fb7iI8XvAV94eL0pri8/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDc2/MzktNDUxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/DlRaMfMi-KSXaAmJ-MMWiMCdk3BFelAZvaSpz8ohkiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/OTQ5LTE1NzE4NDYw/NjMtMTEyOC5wbmc.jpeg"
 genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ---
@@ -35,16 +43,10 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Every Single Weekend
 {{< youtube id="-2L2JoIrCG4" title="Every Single Weekend" >}}<br>
-
 ### More Videos
 
 - [Stanley Clarke-Boyz N The Hood Theme](https://www.youtube.com/watch?v=qsvAI3A7c_c)
@@ -55,12 +57,14 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 - [Tevin Campbell     Just Ask Me To (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=doRNgKeIGFA)
 - [Too Short    It's Your Life (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=yO90oQDOBeE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949-Various-Boyz-N-The-Hood-Music-From-The-Motion-Picture) |
-| Label          | Universal |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Blue Translucent, 180g) |
+| Label          | Universal |
 | Catalog Number | B0030621-01 |
+| Discogs URL    | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949-Various-Boyz-N-The-Hood-Music-From-The-Motion-Picture) |

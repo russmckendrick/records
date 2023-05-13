@@ -10,6 +10,16 @@ cover:
     image: "the-eight-legged-groove-machine-379123.jpg"
     alt: "The Eight Legged Groove Machine by The Wonder Stuff"
     caption: "The Eight Legged Groove Machine by The Wonder Stuff"
+additional_images:
+    - "https://i.discogs.com/xQyNahpyBcltQEqCLOt1q574yYvHZs4Tr-8YsYGVPAA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzQw/LTczMDEuanBlZw.jpeg"
+    - "https://i.discogs.com/8xzPT4edtwR5wQSjoBlbX5RJdh4y8XK23nHA8gI7A6c/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzQw/LTE5NjMuanBlZw.jpeg"
+    - "https://i.discogs.com/QrjV9qc0r1WORj0CL16QdfRlQmifQ-EncoFIGzevKhk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzM2/LTE5MjUuanBlZw.jpeg"
+    - "https://i.discogs.com/k2Jx_u3LuIYJFc4iW5l8zjanGOlutd0iDnhegSwfwZE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzM5/LTg3MjEuanBlZw.jpeg"
+    - "https://i.discogs.com/181Ic3mopsqcHmW5vqpTktVaHToCyXE-D3JR26ZnFwg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzM3/LTM1MjMuanBlZw.jpeg"
+    - "https://i.discogs.com/t185YImkGqimvNXofffEt_iGrNgULhPxlprPQreSLnI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzQ3/LTc0MDIuanBlZw.jpeg"
+    - "https://i.discogs.com/IpuBgdGE17xgKt-RyKI2vjRAHiKguW05RwaODUhHU7E/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzQw/LTI5MzkuanBlZw.jpeg"
+    - "https://i.discogs.com/8AX-alTVbkx8jSSWcdHh0y_0OVbVmCDKFsKqoWm4vro/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzI1/LTY5OTAuanBlZw.jpeg"
+    - "https://i.discogs.com/9OLD0URsHUQHsRePMXyQpgjsSLI3m3REqFLUgJ4oi-8/rs:fit/g:sm/q:90/h:173/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEy/My0xNTU1NjIzNzIy/LTYyNjAuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 ---
@@ -37,20 +47,13 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+The Eight Legged Groove Machine is the debut album by the Wonder Stuff from August 1988.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-eight-legged-groove-machine-remastered/1444101451" >}}
-
-
-
-
-
 ## Videos
 ### The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]
 {{< youtube id="dm1aYGFhceA" title="The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]" >}}<br>
-
 ### More Videos
 
 - [THE WONDERSTUFF : IT'S YER MONEY I'M AFTER BABY (reversed video)](https://www.youtube.com/watch?v=dWqmdlJQVFg)
@@ -71,13 +74,17 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 - [The Wonder Stuff - Give Give Give Me More More More](https://www.youtube.com/watch?v=7Aw-JYtdW4o)
 - [The Wonder Stuff - A Wish Away](https://www.youtube.com/watch?v=L0P1eNlCQIU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Eight_Legged_Groove_Machine |
+| Wikipedia Summary | The Eight Legged Groove Machine is the debut album by the Wonder Stuff from August 1988. |
 | Release Year   | 1988                                   |
-| Discogs Link   | [The Wonder Stuff - The Eight Legged Groove Machine](https://www.discogs.com/release/379123-The-Wonder-Stuff-The-Eight-Legged-Groove-Machine) |
-| Label          | The Far Out Recording Company |
 | Format         | Vinyl LP Album Stereo |
+| Label          | The Far Out Recording Company |
 | Catalog Number | GONLP 1 |
 | Notes | Released with a printed inner sleeve of lyrics, credits and photograph. Track B8 is not listed on the release and is preceded by 17 seconds of silence.  [Labels]: ℗ 1988 Polydor Ltd (UK)  © Polydor Ltd (UK) 1988. Polygram Music 1988.  [Sleeve]: UK GONLP 1 INT 837 135-1 [Y] | POL 281 The Far Out Record Company 1986/1988. ℗ Polydor Ltd (UK) 1988 © Polydor Ltd (UK) 1988. Place of manufacture of record as stated on label. Marketed and distributed in the UK by Polydor Ltd.  [Inner sleeve]: Lyrics reproduced by kind permission of Polygram Music. |
+| Discogs URL    | [The Wonder Stuff - The Eight Legged Groove Machine](https://www.discogs.com/release/379123-The-Wonder-Stuff-The-Eight-Legged-Groove-Machine) |

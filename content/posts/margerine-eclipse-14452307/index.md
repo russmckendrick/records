@@ -10,6 +10,10 @@ cover:
     image: "margerine-eclipse-14452307.jpg"
     alt: "Margerine Eclipse by Stereolab"
     caption: "Margerine Eclipse by Stereolab"
+additional_images:
+    - "https://i.discogs.com/Wf6j1ycH4hC6p_fCYwL6nEgjRiuzduLkUpff7Cxo-Yc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzU5NDAz/MzgtNDM4My5qcGVn.jpeg"
+    - "https://i.discogs.com/xfuGeQHXBz0diNM6RffqFtC2mF6UXyIkXrMG8J-QRmI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzU5NDAz/NDEtNjgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/qhueujWisagoRJ48EI20G4yiL7JzwcS2fbC9tSfur6w/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzQ3OTc3/NTctMTYxOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 ---
@@ -41,20 +45,14 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Margerine Eclipse is the eighth studio album by English-French rock band Stereolab. It was released on 27 January 2004 in the United States by Elektra Records and on 2 February 2004 in the United Kingdom by Duophonic Records. The album is in large part a eulogy to former band member Mary Hansen, who died in 2002.
+By June 2004, Margerine Eclipse had sold over 40,000 copies in United States. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/margerine-eclipse/1230564903" >}}
-
-
-
-
-
 ## Videos
 ### Stereolab - Cosmic Country Noir
 {{< youtube id="DLPtDxWTXLk" title="Stereolab - Cosmic Country Noir" >}}<br>
-
 ### More Videos
 
 - [Stereolab - Margerine Rock](https://www.youtube.com/watch?v=nXRL2etsV6I)
@@ -63,12 +61,16 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 - [Stereolab - Feel and Triple](https://www.youtube.com/watch?v=_aXEUwbf1S4)
 - [Stereolab - Margerine Melodie](https://www.youtube.com/watch?v=YlMqK1vzvBc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Margerine_Eclipse |
+| Wikipedia Summary | Margerine Eclipse is the eighth studio album by English-French rock band Stereolab. It was released on 27 January 2004 in the United States by Elektra Records and on 2 February 2004 in the United Kingdom by Duophonic Records. The album is in large part a eulogy to former band member Mary Hansen, who died in 2002.<br>By June 2004, Margerine Eclipse had sold over 40,000 copies in United States. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Stereolab - Margerine Eclipse](https://www.discogs.com/release/14452307-Stereolab-Margerine-Eclipse) |
-| Label          | Warp Records |
 | Format         | Vinyl 2× LP Album Reissue, Vinyl LP, All Media Limited Edition Numbered Remastered (Clear, Expanded Edition) |
+| Label          | Warp Records |
 | Catalog Number | D-UHF-D29R |
+| Discogs URL    | [Stereolab - Margerine Eclipse](https://www.discogs.com/release/14452307-Stereolab-Margerine-Eclipse) |

@@ -3,4 +3,5 @@ title: "PJ Harvey"
 summary: "Polly Jean \"PJ\" Harvey MBE is an English musician and singer-songwriter. Harvey began her career in 1988 when she joined Bristol band as a vocalist, guitarist and saxophone player. In January 1991, following her departure from , Polly Jean Harvey formed her own band with former bandmates and . Harvey decided to name the trio \"PJ Harvey\" after rejecting other names as \"nothing felt right at all or just suggested the wrong type of sound\". The trio consisted of Harvey on vocals and guitars, Ellis on drums and backing vocals, and Oliver on bass. Oliver later departed to rejoin the still-active Automatic Dlamini. He was subsequently replaced with . The band released two albums: \"\" and \"\" . The band's final tour was to support in August 1993, after which the trio officially disbanded. Since that PJ Harvey started recording music solo under the same name."
 image: "pj-harvey.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/pj-harvey/252623"
+wikipedia_url: "none"
 ---

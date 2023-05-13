@@ -10,6 +10,8 @@ cover:
     image: "dronne-9116811.jpg"
     alt: "Dronne by North Sea Radio Orchestra"
     caption: "Dronne by North Sea Radio Orchestra"
+additional_images:
+    - "https://i.discogs.com/c9STYTxvCLy3BVzJpip-WJegr3CZbsDut3FZhhXUE0Y/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTY4/MTEtMTQ3NTA2NTcx/OS00MjIzLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Krautrock", "Acoustic"]
 ---
@@ -30,20 +32,12 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dronne/1135427432" >}}
-
-
-
-
-
 ## Videos
 ### Vishnu Schist
 {{< youtube id="5AC9eYK9xq0" title="Vishnu Schist" >}}<br>
-
 ### More Videos
 
 - [Queen of All the Day and Night](https://www.youtube.com/watch?v=xS6jpnVgx9M)
@@ -52,13 +46,15 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 - [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
 - [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [North Sea Radio Orchestra - Dronne](https://www.discogs.com/release/9116811-North-Sea-Radio-Orchestra-Dronne) |
-| Label          | The Household Mark |
 | Format         | Vinyl LP Album |
+| Label          | The Household Mark |
 | Catalog Number | THM004LP |
 | Notes | Limited indies only 180g vinyl LP. Vinyl edition limited to 300 copies |
+| Discogs URL    | [North Sea Radio Orchestra - Dronne](https://www.discogs.com/release/9116811-North-Sea-Radio-Orchestra-Dronne) |

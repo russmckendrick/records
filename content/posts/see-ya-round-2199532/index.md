@@ -10,6 +10,13 @@ cover:
     image: "see-ya-round-2199532.jpg"
     alt: "See Ya 'Round by Split Enz"
     caption: "See Ya 'Round by Split Enz"
+additional_images:
+    - "https://i.discogs.com/F9-rngPKQ5KTGJbUj_rkfWF_DeWaG3gWcSlvVnggPZI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk1/MzItMTU4MDQ5NzUy/MC02NzAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/_txn9tfhn-JngtGrzvVCVhczE1pTYnP-Wvke4oBfBNo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk1/MzItMTU4MDQ5NzUy/MC03NjUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/KCUJsh24YCkCPsLQDXLw9F7wgKgrjYDu5lqPtBU9hzY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk1/MzItMTQ2NTEyNjc0/MS0xMjg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/o9DJmstLYBHsgU5l9GIVf843r8sUHz4C-9JsMSIobrw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk1/MzItMTQ2NTEyNjc0/Mi02MTY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/I-dyx1RSOVzeR1PmeNUvTvgpCSyalK1QhDG_0j-nrN0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk1/MzItMTU4MDQ5NzUz/OS0xMTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/7iM5NMNQN3PYLt0_K7YQ49SyrKY4hj0EDHRqG5V-aWc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk1/MzItMTU4MDQ5NzU0/MC01NzQ2LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -32,29 +39,25 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Split Enz - One Mouth Is Fed
 {{< youtube id="K2NJXKifgqU" title="Split Enz - One Mouth Is Fed" >}}<br>
-
 ### More Videos
 
 - [Split Enz - I Walk Away](https://www.youtube.com/watch?v=itr1FaWWDcI)
 - [Split Enz Years Go By Live '84](https://www.youtube.com/watch?v=QfCWjNrzxg4)
 - [Split Enz Kia Kaha: 1984](https://www.youtube.com/watch?v=BUmC6bYu6Yk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1984                                   |
-| Discogs Link   | [Split Enz - See Ya 'Round](https://www.discogs.com/release/2199532-Split-Enz-See-Ya-Round) |
-| Label          | Mushroom |
 | Format         | Vinyl LP Album |
+| Label          | Mushroom |
 | Catalog Number | RML 52050 |
 | Notes | Recorded at A.A.V. Studios, Melbourne.  ℗ 1984 Mushroom Records Pty. Ltd. Australia. Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization. Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z. Distributed by Festival Records Retail Marketing © 1984 Mushroom Records Pty. Ltd. Australia  NZ pressing |
+| Discogs URL    | [Split Enz - See Ya 'Round](https://www.discogs.com/release/2199532-Split-Enz-See-Ya-Round) |

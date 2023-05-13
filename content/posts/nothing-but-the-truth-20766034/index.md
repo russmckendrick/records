@@ -10,6 +10,23 @@ cover:
     image: "nothing-but-the-truth-20766034.jpg"
     alt: "Nothing But The Truth by The Pineapple Thief"
     caption: "Nothing But The Truth by The Pineapple Thief"
+additional_images:
+    - "https://i.discogs.com/33r0hyzlWfyKVOdBWyDSlNFlzJicOV_g2LZjOZkzvHk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjItNTIyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/mQVq37Sy0mzxOAHu88f5m7KTyexGQzFxAKYOqeFKzcU/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtMzI2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/fZdxC-7F5yFBQfqs-r0ex5qXnQ0JwQDSWOVvU9TcGgs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtNTkyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/k5uoxdmKzluM-io1s5Q4H4Vl-TfHFgWjneBtp60DNXM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtOTg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/xWkksDs59ZuGQq-dLMcPMhrVHYjmrtaQkEEcEMV1Ark/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtNzQzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Xxd6UneQw-aCVzw_zB4mPdj45bZkuDiTtsTHbqFkuEw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjItODI0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/HmoKR7n53_zqNKadCmHSyImUu37PYp-LHohaAVRYPwg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjItNTQzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/p-DWJhHng-LqzUPBkXbPvcAG2vpWNfp2v_tNNctLYOI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjEtMTA4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/mpNik2XWlKN3JpAoWr7pqEL7m_m2AP3WMRKql6woCuo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtMTU4My5qcGVn.jpeg"
+    - "https://i.discogs.com/gBNreraVVLtKRH28PMmIErJ_3IAGHodJJqZKR07lswM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtMzY4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/uLmZlM0F5O2Z7Zd1GgI29KJQteUbVrnw6EzCkxQVZhc/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtNDk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/iYozQTeBzCll0eDIJCn5SIiBIlnFg7Grq5nIcTK_HkM/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjUtNjQ5My5qcGVn.jpeg"
+    - "https://i.discogs.com/4MBWVpAGeQx3gQ3Z9rsyCJ9hZSrO_RlatOKaIX1LqZk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjQtOTg5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/5S9BFrQW2blGm9AxVJKC-c6t2khdZFtGsgIaGHgkoIg/rs:fit/g:sm/q:90/h:80/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NTgtMzQyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/j4amYpp8EJH4T9QA8QZPjPlPeb2wAj5HUhdcBaNkHwA/rs:fit/g:sm/q:90/h:105/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NTgtOTMxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/9NEZP9A3mhW9IARPz9mg2uP7UvfGOGrmMMgS2TGFN3s/rs:fit/g:sm/q:90/h:482/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY2/MDM0LTE2NjIyMjc4/NjEtMTI2Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -38,20 +55,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-truth/1579363537" >}}
-
-
-
-
-
 ## Videos
 ### Versions of the Truth (Nothing But The Truth)
 {{< youtube id="wN2UoQLf-so" title="Versions of the Truth (Nothing But The Truth)" >}}<br>
-
 ### More Videos
 
 - [In Exile (Nothing But The Truth)](https://www.youtube.com/watch?v=z-7iAQBnlXk)
@@ -72,13 +81,15 @@ styles: ["Prog Rock"]
 - [The Final Thing on My Mind (Nothing But The Truth)](https://www.youtube.com/watch?v=fODhYXZCRmo)
 - [Drum Cam Split Screen - Our Mire by The Pineapple Thief (From 'Nothing But The Truth')](https://www.youtube.com/watch?v=Ylxs0xVvSDo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [The Pineapple Thief - Nothing But The Truth](https://www.discogs.com/release/20766034-The-Pineapple-Thief-Nothing-But-The-Truth) |
-| Label          | Kscope |
 | Format         | Vinyl 2× LP Album Stereo |
+| Label          | Kscope |
 | Catalog Number | KSCOPE1136 |
 | Notes | Gavin Harrison - Drums Steve Kitch - Keyboards Bruce Soord - Guitars and vocals Jon Sykes - Bass guitar and backing vocals George Marios - Guitars and backing vocals - Mixed by - Bruce Soord and Gavin Harrison Mastered by - Steve Kitch at Steve Kitch mastering Artwork by - Michael Schoenholtz Design and layout by - Beech Photographer - Greg Holland Publisher - Universal/MCA Music Ltd Squatter Madras Music and Bruce Soord |
+| Discogs URL    | [The Pineapple Thief - Nothing But The Truth](https://www.discogs.com/release/20766034-The-Pineapple-Thief-Nothing-But-The-Truth) |

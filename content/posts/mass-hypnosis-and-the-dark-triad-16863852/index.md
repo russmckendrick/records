@@ -10,6 +10,13 @@ cover:
     image: "mass-hypnosis-and-the-dark-triad-16863852.jpg"
     alt: "Mass Hypnosis And The Dark Triad by Bill Fisher"
     caption: "Mass Hypnosis And The Dark Triad by Bill Fisher"
+additional_images:
+    - "https://i.discogs.com/ajey33RHiSQ3h-CRLhfQlYhSV1yKBaXtvNGM9afHV-g/rs:fit/g:sm/q:90/h:651/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MTAyODcx/OTQtNzA4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/MSZs4M_l8MMXvDSB4IO_bVf742drUGCBBfzRm_1yeys/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzMtMTUxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/7hPPmI5ln5EFC-GoaI0Iuw77Cto_2aCizxsWU67U4XI/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzItMjMwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/k67BFWcn6Sm1PgN8fLlQGdOYaMDP31rWIHCsz6I4_UA/rs:fit/g:sm/q:90/h:651/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzEtNjMwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/Jcg06AuiljsbJ6HUkARWhHF6Pr5-6mheiAcn6lhmiS8/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzEtMzgyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/P-7slcO4bmBRtPfjnKDOPDET_UQZfPi69B-ufsARVss/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzMtMjY3MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Avantgarde", "Psychedelic Rock"]
 ---
@@ -29,20 +36,12 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mass-hypnosis-and-the-dark-triad/1523722475" >}}
-
-
-
-
-
 ## Videos
 ### Bill Fisher - Celador (Official Music Video)
 {{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Bill Fisher - Psychopathy (Official Music Video)](https://www.youtube.com/watch?v=sUUy8JNoSKg)
@@ -53,13 +52,15 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 - [Mirror of Tomorrow](https://www.youtube.com/watch?v=I-Au5S3LRrs)
 - [Bill Fisher - All Through The Night (Official Visualizer Video)](https://www.youtube.com/watch?v=QevyAUTftlo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Bill Fisher - Mass Hypnosis And The Dark Triad](https://www.discogs.com/release/16863852-Bill-Fisher-Mass-Hypnosis-And-The-Dark-Triad) |
-| Label          | Septaphonic Records |
 | Format         | Vinyl LP Album Limited Edition Numbered (Infinite Void Edition) |
+| Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 4 |
 | Notes | Super-Deluxe Blue & White Marble Effect Heavyweight 180g 12″ Vinyl Ultra Matte Reverse Board Textured Gatefold Sleeve Handnumbered Limited Edition Holographic Sticker Second Pressing |
+| Discogs URL    | [Bill Fisher - Mass Hypnosis And The Dark Triad](https://www.discogs.com/release/16863852-Bill-Fisher-Mass-Hypnosis-And-The-Dark-Triad) |

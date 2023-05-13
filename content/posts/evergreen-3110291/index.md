@@ -10,6 +10,12 @@ cover:
     image: "evergreen-3110291.jpg"
     alt: "Evergreen by Acker Bilk His Clarinet And Strings"
     caption: "Evergreen by Acker Bilk His Clarinet And Strings"
+additional_images:
+    - "https://i.discogs.com/a9mRNb0bhHhKjai7fGTD0OKli7LW_EuPGLWlU9XTWdM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTM1ODUwOTEz/NS00MTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/RAHnuyoCIkM47gh3t4ipjQR_i6JhLFaW3_Hqp1SE-mE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/Ni03MTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/l29KwriiuEUJd_pga5XqpUzVvbtaHkNpqFBLIsokVP8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/NC05Mjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/IsSlmEwmvod1M6qc7UPMhQYCq3zHbtRON6xcc4EY0IA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/NC02NzUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/-KZvgcelC16Au7KufSt-eJ8O9E00NTK-VCiKyKe0jMo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI0/OS0yODgwLmpwZWc.jpeg"
 genres: ["Jazz"]
 styles: ["Easy Listening"]
 ---
@@ -41,26 +47,22 @@ styles: ["Easy Listening"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Acker Bilk - Evergreen.flv
 {{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}<br>
-
 ### More Videos
 
 - [Mr. Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1978                                   |
-| Discogs Link   | [Acker Bilk His Clarinet And Strings - Evergreen](https://www.discogs.com/release/3110291-Acker-Bilk-His-Clarinet-And-Strings-Evergreen) |
-| Label          | Warwick Records |
 | Format         | Vinyl LP Album Limited Edition (Green) |
+| Label          | Warwick Records |
 | Catalog Number | PW 5045 |
+| Discogs URL    | [Acker Bilk His Clarinet And Strings - Evergreen](https://www.discogs.com/release/3110291-Acker-Bilk-His-Clarinet-And-Strings-Evergreen) |

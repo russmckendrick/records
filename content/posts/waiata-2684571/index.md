@@ -10,6 +10,11 @@ cover:
     image: "waiata-2684571.jpg"
     alt: "Waiata by Split Enz"
     caption: "Waiata by Split Enz"
+additional_images:
+    - "https://i.discogs.com/lv42If5uSzyPcJmk2Hep37JF9oqANx2aI3VMA5ys5T4/rs:fit/g:sm/q:90/h:542/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/NzEtMTI5NjUzMjEw/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/iCZA5fMbQNzN1IXLT5dzD_DdfLHRfbS9pJXHd_OM6k0/rs:fit/g:sm/q:90/h:547/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/NzEtMTI5NjUzMjEw/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/f0N7x6VtoYS1eV96frI93K3i-5pOVVYulCzwsyXCMMg/rs:fit/g:sm/q:90/h:515/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/NzEtMTI5NjUzMjEx/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/SibispbCP-B_s6xu1MN1CllEVHaO0QZSO5-YWjSBBFQ/rs:fit/g:sm/q:90/h:541/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/NzEtMTI5NjUzMjEy/Ny5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
@@ -32,19 +37,12 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Split Enz - Iris
 {{< youtube id="pF72BXV2quw" title="Split Enz - Iris" >}}<br>
-
 ### More Videos
 
 - [Split Enz - Wail](https://www.youtube.com/watch?v=H_3PWbZsRGI)
@@ -54,13 +52,15 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 - [Split Enz - Albert Of India [Demo] - from Corroboree / Waiata](https://www.youtube.com/watch?v=ckT36u5xEZY)
 - [Split Enz - Ghost Girl](https://www.youtube.com/watch?v=8EJKYfnxlbs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1981                                   |
-| Discogs Link   | [Split Enz - Waiata](https://www.discogs.com/release/2684571-Split-Enz-Waiata) |
-| Label          | A&M Records |
 | Format         | Vinyl LP Album |
+| Label          | A&M Records |
 | Catalog Number | AMLH 64848 |
 | Notes | Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England. |
+| Discogs URL    | [Split Enz - Waiata](https://www.discogs.com/release/2684571-Split-Enz-Waiata) |

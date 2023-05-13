@@ -10,6 +10,9 @@ cover:
     image: "everything-is-recorded-11561081.jpg"
     alt: "Everything Is Recorded by Everything Is Recorded"
     caption: "Everything Is Recorded by Everything Is Recorded"
+additional_images:
+    - "https://i.discogs.com/B8xAZAwW_ot1Va1ZELMC-4UwlnBDPkiw9hCkNLvLVBU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYx/MDgxLTE1MTg3MDc3/MjUtMzE2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/TYcCbXteQ9t16z-YalEzQqWNw6-v_N9kREPZYtE6d3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYx/MDgxLTE1MTg3MDc3/MjktMzgxNi5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Trip Hop", "Beatdown"]
 ---
@@ -45,20 +48,12 @@ styles: ["Trip Hop", "Beatdown"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-is-recorded-by-richard-russell/1326029609" >}}
-
-
-
-
-
 ## Videos
 ### Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett
 {{< youtube id="V4xBBRuy87E" title="Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett" >}}<br>
-
 ### More Videos
 
 - [Everything Is Recorded – D'elusion feat. Infinite, Mela Murder and Green Gartside](https://www.youtube.com/watch?v=P11lAfY40Sc)
@@ -68,13 +63,15 @@ styles: ["Trip Hop", "Beatdown"]
 - [Everything Is Recorded - Bloodshot Red Eyes feat. Infinite & Green Gartside](https://www.youtube.com/watch?v=2PLLVNT9FjU)
 - [Everything Is Recorded - Mountains Of Gold (ft. Sampha, Ibeyi, Wiki & Kamasi Washington)](https://www.youtube.com/watch?v=PWCh1qlNth4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Everything Is Recorded - Everything Is Recorded](https://www.discogs.com/release/11561081-Everything-Is-Recorded-Everything-Is-Recorded) |
-| Label          | XL Recordings |
 | Format         | Vinyl LP Album Limited Edition (Yellow), CD Album |
+| Label          | XL Recordings |
 | Catalog Number | XL883LPE |
 | Notes | Limited edition yellow vinyl issue. Includes cd in a clear slip case, 2x A4 art prints and an A4 facsimile of an XL Recordings dj reaction report. |
+| Discogs URL    | [Everything Is Recorded - Everything Is Recorded](https://www.discogs.com/release/11561081-Everything-Is-Recorded-Everything-Is-Recorded) |

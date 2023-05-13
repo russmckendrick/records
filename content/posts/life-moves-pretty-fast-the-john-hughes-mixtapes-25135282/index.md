@@ -10,6 +10,9 @@ cover:
     image: "life-moves-pretty-fast-the-john-hughes-mixtapes-25135282.jpg"
     alt: "Life Moves Pretty Fast: The John Hughes Mixtapes by Various"
     caption: "Life Moves Pretty Fast: The John Hughes Mixtapes by Various"
+additional_images:
+    - "https://i.discogs.com/4sWwON_qdWUemQ1VZbiD8WjcpHwQSJqQA8yr3CY89-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE2NjgyMjQ5/ODItOTE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ENYqz4O-6cKoxJovyzaneCgwnkXM4E7s0hsDm1W9RO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE2NjgyMjQ5/ODktNjkwNC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle Pop", "Latin", "Synth-pop"]
 ---
@@ -94,24 +97,21 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Life Moves Pretty Fast - The John Hughes Mixtapes Trailer
 {{< youtube id="nRp5WuZgvDM" title="Life Moves Pretty Fast - The John Hughes Mixtapes Trailer" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Various - Life Moves Pretty Fast: The John Hughes Mixtapes](https://www.discogs.com/release/25135282-Various-Life-Moves-Pretty-Fast-The-John-Hughes-Mixtapes) |
-| Label          | Demon Records |
 | Format         | Vinyl 6× LP Compilation (Translucent Red ), Box Set |
+| Label          | Demon Records |
 | Catalog Number | DEMRECBOX71 |
 | Notes | Manufactured in the EU  6-LP, 140gm, translucent red vinyl box set  73 tracks featured in the following John Hughes films: National Lampoon's Vacation Sixteen Candles The Breakfast Club Weird Science Pretty In Pink Ferris Bueller's Day Off Some Kind of Wonderful Planes, Trains & Automobiles She's Having A Baby The Great Outdoors Uncle Buck  Includes 24-pg booklet with extensive liner notes and other commentary.  |
+| Discogs URL    | [Various - Life Moves Pretty Fast: The John Hughes Mixtapes](https://www.discogs.com/release/25135282-Various-Life-Moves-Pretty-Fast-The-John-Hughes-Mixtapes) |

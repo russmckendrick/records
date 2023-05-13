@@ -10,6 +10,14 @@ cover:
     image: "the-pleasure-principle-7654481.jpg"
     alt: "The Pleasure Principle by Gary Numan"
     caption: "The Pleasure Principle by Gary Numan"
+additional_images:
+    - "https://i.discogs.com/te27OmrwYGj_prMwOymTBLifWUZFL0H_BQbQrJgnSpA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTUxOTMyNTI2/My05OTEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/QJgdk4SlvB4Aj6E0WcQSKo357o27IvJiyPgBfugQdQk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTUxOTMyNTI2/NS05MDAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZPcY8rj45CjCbgLkpzwRrSc6sGrkX9b8oDb6Ehh82BE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTUxOTMyNTI2/NC00MjkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/x6aA_QrQxSbKgm7voDQiHsXrVVAYaAxF-lvrRLDeoXg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTUxOTMyNTI2/NS03MTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/uR5T2y2448r3LrX_-Y0P_Jy9OlzOP6MEBfgsB2DOgBc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTUxOTMyNTI2/NS03MTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/HJr14cdWfbGJOdV_IR_btdRapcQuEQWhEYQpakvONLw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTUxOTMyNTI2/NS00NzIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ve6KW9-BAyIjrblUGNZLUhCMPHFmb0fOEDdRmuSoEzc/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ0/ODEtMTU0OTgxOTk3/NS03ODgzLmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
@@ -31,20 +39,13 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+The Pleasure Principle is the debut solo studio album by English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-30th-anniversary-edition/331564777" >}}
-
-
-
-
-
 ## Videos
 ### GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album
 {{< youtube id="KJmujhpDslY" title="GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album" >}}<br>
-
 ### More Videos
 
 - [Airlane (Remastered 2009)](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
@@ -58,13 +59,17 @@ styles: ["New Wave", "Synth-pop"]
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Pleasure_Principle_(album) |
+| Wikipedia Summary | The Pleasure Principle is the debut solo studio album by English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481-Gary-Numan-The-Pleasure-Principle) |
-| Label          | Beggars Banquet |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Beggars Banquet |
 | Catalog Number | BBQLP 10 |
 | Notes | Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London |
+| Discogs URL    | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481-Gary-Numan-The-Pleasure-Principle) |

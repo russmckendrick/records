@@ -10,6 +10,9 @@ cover:
     image: "skinhead-moonstomp-26519942.jpg"
     alt: "Skinhead Moonstomp by Symarip"
     caption: "Skinhead Moonstomp by Symarip"
+additional_images:
+    - "https://i.discogs.com/f_wJSKDRZqVkKSngAtAxexho86F5HUUtXks5WAt9XmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE5/OTQyLTE2Nzk2MDM4/MzItNDY3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LYNQ0d8JQ0hXfWkHlY_3z2fbPic2cyLRDzPK16prdKU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE5/OTQyLTE2Nzk2MDM4/MzItNDQ2OS5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
@@ -33,20 +36,12 @@ styles: ["Ska", "Rocksteady"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/skinhead-moonstomp-deluxe-edition/1141938969" >}}
-
-
-
-
-
 ## Videos
 ### The Pyramids - Must Catch a Train (11.06.2022)
 {{< youtube id="Ub74H6vGXo4" title="The Pyramids - Must Catch a Train (11.06.2022)" >}}<br>
-
 ### More Videos
 
 - [Symarip ‎- Skinhead Moonstomp](https://www.youtube.com/watch?v=zyWYTkPY2Ls)
@@ -80,13 +75,15 @@ styles: ["Ska", "Rocksteady"]
 - [Symarip - Must Catch a Train](https://www.youtube.com/watch?v=EWJU--K-Y6U)
 - [Symarip - You're Mine](https://www.youtube.com/watch?v=tVNUcX80ANM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Symarip - Skinhead Moonstomp](https://www.discogs.com/release/26519942-Symarip-Skinhead-Moonstomp) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Numbered Reissue Mono (Smokey) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP2529 |
 | Notes | 1000 copies only. |
+| Discogs URL    | [Symarip - Skinhead Moonstomp](https://www.discogs.com/release/26519942-Symarip-Skinhead-Moonstomp) |

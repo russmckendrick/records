@@ -10,6 +10,10 @@ cover:
     image: "cutting-edge-80s-the-alternative-sound-of-a-decade-10555246.jpg"
     alt: "Cutting Edge 80s (The Alternative Sound Of A Decade) by Various"
     caption: "Cutting Edge 80s (The Alternative Sound Of A Decade) by Various"
+additional_images:
+    - "https://i.discogs.com/ukFjh1dICi1PNQpG2AJEnVuNXW7Fszx_q5NivX4AjhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU1/MjQ2LTE0OTk4MTE0/NTYtODE2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8uLuRsKSPQU5Wwrag8K_VTseDC-TjecDf-Pw0DsW-p8/rs:fit/g:sm/q:90/h:494/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU1/MjQ2LTE0OTk4MTE0/NTUtNjE1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/xzvlJzFx2mVrFy7utH4pTxbt6fUgLbcsd9ZRvPwrPXo/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU1/MjQ2LTE2MDA2MzI5/NjAtNjI5My5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock", "Pop"]
 styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", "Indie Rock", "Acid House", "Breaks", "House", "Breakbeat", "Leftfield", "Punk", "Pop Rock", "Folk Rock", "Glam", "Pop Rap"]
 ---
@@ -44,16 +48,10 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Romeo Void - A Girl in Trouble (Is a Temporary Thing) (Video)
 {{< youtube id="o1TT0yVTlRg" title="Romeo Void - A Girl in Trouble (Is a Temporary Thing) (Video)" >}}<br>
-
 ### More Videos
 
 - [PSYCHEDELIC FURS : Pretty in pink (HD)](https://www.youtube.com/watch?v=nu0sYQRECkY)
@@ -62,13 +60,15 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 - [John Cooper Clarke - Evidently Chickentown](https://www.youtube.com/watch?v=3KgB-sI2H-c)
 - [The First Picture Of You [Official video] - The Lotus Eaters (HD/HQ)](https://www.youtube.com/watch?v=-SZ_A8K-xTY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Various - Cutting Edge 80s (The Alternative Sound Of A Decade)](https://www.discogs.com/release/10555246-Various-Cutting-Edge-80s-The-Alternative-Sound-Of-A-Decade) |
-| Label          | Sony Music |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Sony Music |
 | Catalog Number | 88985431271 |
 | Notes | UK & European 2 vinyl compilation, subtitled: 'The alternative sound of a decade'   This compilation ℗ & © 2017 Sony Music Entertainment. Distributed by Sony Music Entertainment.  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU.  In 2015, a CD compilation was issued with a similar cover & name  [url=/release/7566631]catalogue #:  88875140272[/url], however, with different tracklisting. |
+| Discogs URL    | [Various - Cutting Edge 80s (The Alternative Sound Of A Decade)](https://www.discogs.com/release/10555246-Various-Cutting-Edge-80s-The-Alternative-Sound-Of-A-Decade) |

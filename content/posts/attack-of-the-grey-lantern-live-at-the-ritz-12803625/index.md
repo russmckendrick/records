@@ -10,6 +10,12 @@ cover:
     image: "attack-of-the-grey-lantern-live-at-the-ritz-12803625.jpg"
     alt: "Attack Of The Grey Lantern Live At The Ritz by Paul Draper"
     caption: "Attack Of The Grey Lantern Live At The Ritz by Paul Draper"
+additional_images:
+    - "https://i.discogs.com/Mob5sKW29IIXqordQC5tkGULXRLBqY-n9G7tHe88lm4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkw/NjgtNjYxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/KBPwMFj2deJDG_RGuokESvX8YMqzaGB0Lr8HA0Nx0WI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkw/NjItMjA3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/OBlfNLhZoAnqNne0b7Kbk-JBd1lanrOkkG2c_UPeu1s/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDIyODMy/MjUtNTg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/NBtnrPtXvXLDiYfl6D6SeD4v-KD844WYjZTEROQsJRY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDIyNzEw/NTItODY5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/WG2_PTKhWW0sLwvP1NxOUt8tQPSxIQmsQZ5KlrB6XdI/rs:fit/g:sm/q:90/h:710/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkx/MzgtNDExNi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: []
 ---
@@ -33,23 +39,20 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-live-at-the-ritz/1633688317" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Paul Draper - Attack Of The Grey Lantern Live At The Ritz](https://www.discogs.com/release/12803625-Paul-Draper-Attack-Of-The-Grey-Lantern-Live-At-The-Ritz) |
-| Label          | Kscope |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo |
+| Label          | Kscope |
 | Catalog Number | kscope1007 |
 | Notes | Comes with download card allowing 1 download of album in MP3 format.  Signed copies sold on Pauls November 2018 Acoustic tour.  |
+| Discogs URL    | [Paul Draper - Attack Of The Grey Lantern Live At The Ritz](https://www.discogs.com/release/12803625-Paul-Draper-Attack-Of-The-Grey-Lantern-Live-At-The-Ritz) |

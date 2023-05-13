@@ -10,6 +10,11 @@ cover:
     image: "the-wall-for-chamber-orchestra-13569554.jpg"
     alt: "The Wall For Chamber Orchestra by Pink Floyd"
     caption: "The Wall For Chamber Orchestra by Pink Floyd"
+additional_images:
+    - "https://i.discogs.com/O9xRZzCzdj9tC8v0fS9p8QYDcbR6Q0jGEP2n3hHQqTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1NTY3MDIy/NTAtNjE2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/moY5-QHM2QWJcmWmHACb-tOl8ZuI59p0USySzqO1-Mk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1NTY3MDIy/NzAtNDYwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/sfyOGBsgAW0fDr8Ady1aPVjHIG3jQDK5dTqDk0EQMqw/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1ODM1NzIw/MjMtOTc3MS5wbmc.jpeg"
+    - "https://i.discogs.com/VywoC4iyaO-0niuzt1CPWCCumQceB8nl3iEJN52g4to/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1ODM1NzIw/MjMtMjc5NC5wbmc.jpeg"
 genres: ["Classical"]
 styles: []
 ---
@@ -36,19 +41,18 @@ styles: []
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Pink Floyd - The Wall For Chamber Orchestra](https://www.discogs.com/release/13569554-Pink-Floyd-The-London-Symphonia-The-Wall-For-Chamber-Orchestra) |
-| Label          | Coda Records Ltd |
 | Format         | Vinyl LP Album Limited Edition Unofficial Release (White) |
+| Label          | Coda Records Ltd |
 | Catalog Number | CLRVNY004 |
 | Notes | Produced, Mastered and Manufactured in the Czech Republic |
+| Discogs URL    | [Pink Floyd - The Wall For Chamber Orchestra](https://www.discogs.com/release/13569554-Pink-Floyd-The-London-Symphonia-The-Wall-For-Chamber-Orchestra) |

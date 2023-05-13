@@ -10,6 +10,15 @@ cover:
     image: "electro-a-personal-selection-of-electro-classics-9836222.jpg"
     alt: "Electro (A Personal Selection Of Electro Classics) by Various"
     caption: "Electro (A Personal Selection Of Electro Classics) by Various"
+additional_images:
+    - "https://i.discogs.com/TYarZRrGkhMozXi8TZrjmqEjjP9L7mBJkOWlSddUG5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTQ4NzA5OTM0/MC05OTQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/kozBP1pA9dfBkOf20hXC51xkzlwvz1rFleFvqDO2I1E/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MS01ODgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/L7Afj2m14v76psf2Rnu6So47UM2O9JiCBeyRATWKlUM/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/Mi05MDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/hpyxM7vf_Jc4orpg-JcV0PUIQRQTB1V684LIe7eHFRg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MS01OTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Aq5_3TiYi3thVRgi_oJdDmcH69i5q4wlnJPgUUXcl6I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS0zODE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/WU5FpOL64Rc3Heb7lwboG2kovfjR2SPTEcferPCzpbw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS02NjUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/XEyPC3e7RsTO8VggU9wPlD9PSqLbX6kVg3LT3Itnh_w/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MC0zNTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qEO20BZT-MTI3a5yezhZFV-5-uuunT_4UMN-rEyPyZY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS0yNjI3LmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Electro"]
 ---
@@ -29,16 +38,10 @@ styles: ["Electro"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Hashim - Al Naafiysh (The Soul)
 {{< youtube id="i46sF1PcqL8" title="Hashim - Al Naafiysh (The Soul)" >}}<br>
-
 ### More Videos
 
 - [Aleem ft. Leroy Burgess - Release Yourself (DUB)](https://www.youtube.com/watch?v=v6mnQzQ0DgE)
@@ -62,13 +65,15 @@ styles: ["Electro"]
 - [X-Ray Vision ‎- Video Control (Vocal)](https://www.youtube.com/watch?v=blwFnZGLg4w)
 - [The Sunburst Band - Atlantic Forest](https://www.youtube.com/watch?v=6946h5a9gtk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Various - Electro (A Personal Selection Of Electro Classics)](https://www.discogs.com/release/9836222-Various-Electro-A-Personal-Selection-Of-Electro-Classics) |
-| Label          | Z Records |
 | Format         | Vinyl 2× 12" Compilation |
+| Label          | Z Records |
 | Catalog Number | ZEDDLP040 |
 | Notes | Gatefold sleeve. |
+| Discogs URL    | [Various - Electro (A Personal Selection Of Electro Classics)](https://www.discogs.com/release/9836222-Various-Electro-A-Personal-Selection-Of-Electro-Classics) |

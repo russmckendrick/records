@@ -11,6 +11,11 @@ cover:
     image: "graceland-3673709.jpg"
     alt: "Graceland by Paul Simon"
     caption: "Graceland by Paul Simon"
+additional_images:
+    - "https://i.discogs.com/ZStLRW-aLaYvFzvG1dOiLr_lnM6BG4h-7gAUAUWMsgM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM3/MDktMTUxODA4OTkx/Mi0zMjAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/qOLcxSfKm62X1R9JYcLguv8g-Iccvg4OmfKeQQYts4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM3/MDktMTUxODA4OTky/OS01ODA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Q5H4jNfetiisPVq3YC3JF4n8nAQsNKtt7pJhCMd22iQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM3/MDktMTUxODA4OTkz/OC05ODkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/dY0u3UmoVYc8ERjMSXlBHu_W8L2GtTwutNriVxmDgjk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM3/MDktMTUxODA4OTk1/MS0yODgwLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
@@ -33,22 +38,18 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
+Graceland is the seventh solo studio album by the American singer-songwriter Paul Simon. It was produced by Simon, engineered by Roy Halee and released on August 25, 1986, by Warner Bros. Records.
+In the early 1980s, Simon's relationship with his former musical partner Art Garfunkel had deteriorated, his marriage to the actress Carrie Fisher had collapsed, and his previous record, Hearts and Bones (1983), had been a commercial failure. In 1984, after a period of depression, Simon became fascinated by a bootleg cassette of mbaqanga, South African street music. He and Halee visited Johannesburg, where they spent two weeks recording with South African musicians. Further recordings were held in the United States, with guest musicians including Linda Ronstadt, the Everly Brothers, Louisiana band Good Rockin' Dopsie and the Twisters, and Los Angeles band Los Lobos.
+Graceland features an eclectic mixture of genres, including pop, rock, a cappella, zydeco, isicathamiya and mbaqanga. Simon wrote songs inspired by the recordings made in Johannesburg, collaborating with African and American artists. He received criticism for breaking the cultural boycott of South Africa because of its policy of apartheid. Following its completion, Simon toured alongside South African musicians, performing their music and songs from Graceland.
+Graceland became Simon's most successful studio album and his highest-charting album in over a decade; it is estimated to have sold more than 16 million copies worldwide. It was lauded by critics, won the 1987 Grammy for Album of the Year, and is frequently cited as one of the best albums of all time. In 2006, it was added to the United States' National Recording Registry as "culturally, historically, or aesthetically important".
 
-Released during the tense final years of apartheid, Paul Simon's <i>Graceland</i> introduced the buoyant textures of South African township music to vast international audiences. Simon’s collaborative genius—which calls on Los Lobos, Zydeco legend Good Rockin’ Dopsie, and Ladysmith Black Mambazo—invented a new musical language and earned a 1987 GRAMMY® for Album of the Year. The fractured narratives and emotionally fragile characters are unforgettable—whether it's the divorcé and his kid en route to Graceland, the unattainable girl with diamonds on the soles of her shoes, or the soft-in-the-middle hero of “You Can Call Me Al."
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/graceland/529574560" >}}
-
-
-
-
-
 ## Videos
 ### Paul Simon - The Boy In The Bubble
 {{< youtube id="Uy5T6s25XK4" title="Paul Simon - The Boy In The Bubble" >}}<br>
-
 ### More Videos
 
 - [Paul Simon - Graceland (Official Audio)](https://www.youtube.com/watch?v=GP6a-7MP91g)
@@ -62,13 +63,17 @@ Released during the tense final years of apartheid, Paul Simon's <i>Graceland</
 - [Paul Simon - That Was Your Mother (Official Audio)](https://www.youtube.com/watch?v=im9KnAg0r-w)
 - [All Around the World or the Myth of Fingerprints (Early Version) (Early Version - Offic...](https://www.youtube.com/watch?v=4KygdhHI_eE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
-| Discogs Link   | [Paul Simon - Graceland](https://www.discogs.com/release/3673709-Paul-Simon-Graceland) |
-| Label          | Legacy |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Graceland_(album) |
+| Apple Music Summary | Released during the tense final years of apartheid, Paul Simon's <i>Graceland</i> introduced the buoyant textures of South African township music to vast international audiences. Simon’s collaborative genius—which calls on Los Lobos, Zydeco legend Good Rockin’ Dopsie, and Ladysmith Black Mambazo—invented a new musical language and earned a 1987 GRAMMY® for Album of the Year. The fractured narratives and emotionally fragile characters are unforgettable—whether it's the divorcé and his kid en route to Graceland, the unattainable girl with diamonds on the soles of her shoes, or the soft-in-the-middle hero of “You Can Call Me Al." |
+    | Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Legacy |
 | Catalog Number | 88691914721 |
 | Notes | Made in EU.  Comes with mp3 download and poster.  |
+| Discogs URL    | [Paul Simon - Graceland](https://www.discogs.com/release/3673709-Paul-Simon-Graceland) |

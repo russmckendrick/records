@@ -10,6 +10,9 @@ cover:
     image: "make-me-young-etc-12765567.jpg"
     alt: "Make Me Young, etc.  by Thumpermonkey"
     caption: "Make Me Young, etc.  by Thumpermonkey"
+additional_images:
+    - "https://i.discogs.com/ZSMGNL4XWC41b0reKyI4idZfXomlxeKh_Cx3bbjQnPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NTY3LTE1NDE1MjM1/MDYtODExMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Jv98EB-xQY94aTh7ZyOAqL0bDZp9XXtVIU27_RYTIjM/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NTY3LTE1NDE1MjE2/NTktNDcwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -28,20 +31,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/make-me-young-etc/1575655883" >}}
-
-
-
-
-
 ## Videos
 ### Make Me Young Etc
 {{< youtube id="yABAVfQMC-E" title="Make Me Young Etc" >}}<br>
-
 ### More Videos
 
 - [Veldt](https://www.youtube.com/watch?v=ZEyDjgXHdRc)
@@ -51,12 +46,14 @@ styles: ["Prog Rock"]
 - [Figstorm](https://www.youtube.com/watch?v=bez5Jd96Xa4)
 - [Tempe Terra](https://www.youtube.com/watch?v=rtEqRFXhTBM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Thumpermonkey - Make Me Young, etc. ](https://www.discogs.com/release/12765567-Thumpermonkey-Make-Me-Young-etc-) |
-| Label          | Rockosmos |
 | Format         | Vinyl LP Album |
+| Label          | Rockosmos |
 | Catalog Number | n.a. |
+| Discogs URL    | [Thumpermonkey - Make Me Young, etc. ](https://www.discogs.com/release/12765567-Thumpermonkey-Make-Me-Young-etc-) |

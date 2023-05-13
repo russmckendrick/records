@@ -10,6 +10,17 @@ cover:
     image: "greatest-hits-434956.jpg"
     alt: "Greatest Hits by Steely Dan"
     caption: "Greatest Hits by Steely Dan"
+additional_images:
+    - "https://i.discogs.com/r9r2bgZfWvnLaFlE9Na4D_CD0A3rYJTN6Uk3wH0V3c4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTAz/LTMyNjQucG5n.jpeg"
+    - "https://i.discogs.com/nk6cpILuOlgx9U3XqvweCIJ1DeAXYlnKay5a3p-_znU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTEx/LTQ0MjcuanBlZw.jpeg"
+    - "https://i.discogs.com/KSunhgV-K8JM11Rz62rYfyY3vsdyTK3Z6UIUUD0kIco/rs:fit/g:sm/q:90/h:447/w:470/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTE3/LTY5ODkuanBlZw.jpeg"
+    - "https://i.discogs.com/G16Gw7K1nNcXLN6bvCv2BwhtKn69itZ-oQMTJ-n0PTY/rs:fit/g:sm/q:90/h:445/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTIz/LTc5OTIuanBlZw.jpeg"
+    - "https://i.discogs.com/DmQvm0v_C8Q9dKoWA9-tYhu2mEpZh4R0vL_mCAtgcTo/rs:fit/g:sm/q:90/h:445/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTI4/LTMwMjUuanBlZw.jpeg"
+    - "https://i.discogs.com/Sox9qqkQ87Z4fP_6pLqn1dLFkJRqwBp4dgdLhOt_3wU/rs:fit/g:sm/q:90/h:456/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTMx/LTgyMzMuanBlZw.jpeg"
+    - "https://i.discogs.com/-wFLGXCnM1uk9RwlKgPYANVDOrLKEJWF4iIcf887vm4/rs:fit/g:sm/q:90/h:263/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTM2/LTQ4NzYuanBlZw.jpeg"
+    - "https://i.discogs.com/0zk2UJHQQBmLtNQDvfXl1xKiCEQMOhIaxgsJ797RdJw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTQx/LTI2NjMuanBlZw.jpeg"
+    - "https://i.discogs.com/dwd1D6G3sI5jIbeV42wdikjSKGtJ5g1B-wqOyXL9P0c/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTQ0/LTY2NjcuanBlZw.jpeg"
+    - "https://i.discogs.com/id8ROUsHgXOx8YVREs-Vk7_X3RHanEvlMPWGLhRf5iQ/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/Ni0xNDg3NzgxOTQ5/LTM1NzEuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
@@ -39,20 +50,16 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
+Greatest Hits is a compilation album by Steely Dan, released in 1978. It has sold over two million units in the US.
+The double album includes tracks from the band's first six studio albums and includes a previously unreleased song, "Here at the Western World", which was recorded during the sessions for The Royal Scam but not included on that album.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-steely-dan/1440803723" >}}
-
-
-
-
-
 ## Videos
 ### RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan
 {{< youtube id="UfZWp-hGCdA" title="RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan" >}}<br>
-
 ### More Videos
 
 - [Do It Again](https://www.youtube.com/watch?v=jmdiKePVUy8)
@@ -61,12 +68,16 @@ styles: ["Classic Rock"]
 - [Doctor Wu](https://www.youtube.com/watch?v=ImtdntJQfSs)
 - [Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Steely_Dan_album) |
+| Wikipedia Summary | Greatest Hits is a compilation album by Steely Dan, released in 1978. It has sold over two million units in the US.<br>The double album includes tracks from the band's first six studio albums and includes a previously unreleased song, "Here at the Western World", which was recorded during the sessions for The Royal Scam but not included on that album.<br><br> |
 | Release Year   | 1978                                   |
-| Discogs Link   | [Steely Dan - Greatest Hits](https://www.discogs.com/release/434956-Steely-Dan-Greatest-Hits) |
-| Label          | ABC Records |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | ABC Records |
 | Catalog Number | ABCD 616 |
+| Discogs URL    | [Steely Dan - Greatest Hits](https://www.discogs.com/release/434956-Steely-Dan-Greatest-Hits) |

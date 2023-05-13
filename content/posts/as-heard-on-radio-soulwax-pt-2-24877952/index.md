@@ -10,6 +10,11 @@ cover:
     image: "as-heard-on-radio-soulwax-pt-2-24877952.jpg"
     alt: "As Heard On Radio Soulwax Pt.2 by 2 Many DJ's"
     caption: "As Heard On Radio Soulwax Pt.2 by 2 Many DJ's"
+additional_images:
+    - "https://i.discogs.com/aJ0Jyw2ACWuGii-3ouItrh3x7RlpmksXvbLqS3MXEZ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc3/OTUyLTE2NzA1MTI2/ODktNDE4My5qcGVn.jpeg"
+    - "https://i.discogs.com/aMlXO4ciVkNr2RlnNeBrBjUTb54KFJt_L2t-dBqv9A0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc3/OTUyLTE2NzA1MTI2/ODgtMjcxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/o-aibrITRaf1rOkHdqrcf2DjhnQD8nZJFRbrnKZMT7Y/rs:fit/g:sm/q:90/h:228/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc3/OTUyLTE2NjYyMTA3/ODMtMTI0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/N1TFDknk6qvcRSzItPAlGdI7Sfow8lcHK49iWV8alHY/rs:fit/g:sm/q:90/h:682/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc3/OTUyLTE2NjYyMTA3/ODQtNzc0NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["House", "Electro"]
 ---
@@ -66,27 +71,23 @@ styles: ["House", "Electro"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### 2 Many DJ's: As Heard On Radio Soulwax (Part 2)
 {{< youtube id="4Xe23QBP1bE" title="2 Many DJ's: As Heard On Radio Soulwax (Part 2)" >}}<br>
-
 ### More Videos
 
 - [As Heard on Radio Soulwax Pt. 2](https://www.youtube.com/watch?v=5QRaerLc0BM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [2 Many DJ's - As Heard On Radio Soulwax Pt.2](https://www.discogs.com/release/24877952-2manydjs-As-Heard-On-Radio-Soulwax-Pt2) |
-| Label          | Play It Again Sam |
 | Format         | Vinyl 2× LP Mixed Reissue Repress (Gatefold) |
+| Label          | Play It Again Sam |
 | Catalog Number | PIASR565DLPR |
 | Notes | ­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam. Made in the EU.  Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"  First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition.  |
+| Discogs URL    | [2 Many DJ's - As Heard On Radio Soulwax Pt.2](https://www.discogs.com/release/24877952-2manydjs-As-Heard-On-Radio-Soulwax-Pt2) |

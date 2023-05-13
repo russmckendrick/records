@@ -10,6 +10,20 @@ cover:
     image: "ox4_-the-best-of-ride-6901033.jpg"
     alt: "OX4_ The Best Of Ride by Ride"
     caption: "OX4_ The Best Of Ride by Ride"
+additional_images:
+    - "https://i.discogs.com/jQIgFs2BLKQgRH1x0pcN2YSi8HMCZDUvpWhBgyUyYnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTQ1MzMw/MC05NzU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/y6AKD9oi41_FFKMbqww_ksDp09KNMJRUhKsSiIcBoiU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTQ1MzI5/OC02MTAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/RLWpqIdwJd-N0ys8UtyLXSU-lPi6ycSnVdiKqIVCfBg/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDQ5/OS02OTc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/WbeoGAvGGvAJhnbsrxX4nMAs9GkWyLSVghWsSlJPxPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUw/OS0yMDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Zy08nG1xwfKXzZIMze0Mkr9vp_PoxQnXfmiDFkLWPsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUw/NC0xNzA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/sUuNYqXOYupst6hm-bg5CRwVXP8GEf3bRsMeSsu9Pwk/rs:fit/g:sm/q:90/h:420/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUw/OS01MDgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/6GanXqW9FdFHXIjo1iXf9lvNAbOqec-a6inpac1WtIg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUx/MC04Mzk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/JSIxzyPdskgz2GOgC9zG4x6VwRKrRfNp4e8Tx2Rh0Ik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUw/Ni00ODY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/43AeEod3fZ7eC_RQ4go0F1N-MuDV9zuR-m2RpUWZ3Y0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUx/Mi02MTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/NuZaFlMdG6vSOo5x6N_uxq0oAepcC_KjorkJK7qRXx0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUy/Mi05MjM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/gA9Oak2_Hy-VhI7ZvRal0rN-V5rvD7qLlUCpT0rW-_M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUx/OS00OTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/4rQCA5c8mxIaI9WokSHCjN6e9cHXf52udakTK7B10Vk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUy/My01NjEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/2XkS8MTH3U6VN1lmpB3z0RxtxTtIMw1CD1cdyIqOhNo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEw/MzMtMTQyOTc5NDUy/OS03MzA5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -36,31 +50,25 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723" >}}
-
-
-
-
-
 ## Videos
 ### Ride - Leave Them All Behind
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
-
 ### More Videos
 
 - [Ride - Like A Daydream](https://www.youtube.com/watch?v=8zzo25t_eC8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Ride - OX4_ The Best Of Ride](https://www.discogs.com/release/6901033-Ride-OX4_-The-Best-Of-Ride) |
-| Label          | Sire |
 | Format         | Vinyl 2× LP Record Store Day Compilation Reissue (Red) |
+| Label          | Sire |
 | Catalog Number | 081227955137 |
 | Notes | Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.  Pressing plant uncredited, identified by the three concentric rings near the spindle hole. |
+| Discogs URL    | [Ride - OX4_ The Best Of Ride](https://www.discogs.com/release/6901033-Ride-OX4_-The-Best-Of-Ride) |

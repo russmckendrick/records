@@ -10,6 +10,11 @@ cover:
     image: "stacked-up-xx-6329282.jpg"
     alt: "Stacked Up XX by Senser"
     caption: "Stacked Up XX by Senser"
+additional_images:
+    - "https://i.discogs.com/_c2XfGbya20Og_OkiE5rDYHJyDjp6f7r0vb-cx9i-58/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjky/ODItMTY1NjUwMDU4/OS04MTE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/oCVwQyNkc1mJAhTmB8gHec9RLDXKsqzr2bJFtq5EH1M/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjky/ODItMTY1NjUwMDU5/MC01NzE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/7Hau-QWD66mhOoxGiya1iOsiAko4b6K1sSSU9hWIyKQ/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjky/ODItMTY1NjUwMDU5/MS00NTkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/1ffTbYi4eTEJBns-b-Tac9tB6x0CkQzHRcLL-twufj0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjky/ODItMTQxNjYwMzk1/Mi02NDIxLmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ---
@@ -34,20 +39,12 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}
-
-
-
-
-
 ## Videos
 ### Senser - Age of Panic (Official Video)
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
@@ -70,13 +67,15 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 - [Senser - Age of Panic + Eject (live at Glastonbury 1994)](https://www.youtube.com/watch?v=WNhlU-n7eGs)
 - [Senser stacked up rehearsals and writing sessions 1992](https://www.youtube.com/watch?v=uYwnVsNhjck)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Senser - Stacked Up XX](https://www.discogs.com/release/6329282-Senser-Stacked-Up-XX) |
-| Label          | Ultimate |
 | Format         | Vinyl 2× LP Album Limited Edition Remastered |
+| Label          | Ultimate |
 | Catalog Number | SBR 208LP |
 | Notes | Stacked Up XX Limited Edition Double Vinyl Album includes a remastered version of the original record with new artwork and a digital download copy of all Stacked Up XX CD tracks.   Includes insert with pictures. Some signed copies were available from Senser website.  The Bacon Empire Publishing Ltd 2014. All Songs Published by London Music  |
+| Discogs URL    | [Senser - Stacked Up XX](https://www.discogs.com/release/6329282-Senser-Stacked-Up-XX) |

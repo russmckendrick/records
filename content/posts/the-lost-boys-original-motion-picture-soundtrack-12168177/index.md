@@ -10,6 +10,13 @@ cover:
     image: "the-lost-boys-original-motion-picture-soundtrack-12168177.jpg"
     alt: "The Lost Boys (Original Motion Picture Soundtrack) by Various"
     caption: "The Lost Boys (Original Motion Picture Soundtrack) by Various"
+additional_images:
+    - "https://i.discogs.com/wQGmVtX1bTPjgzKUmMd2qa5QSCl58DD4SpW8BVh7MUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY4/MTc3LTE1Mjk2NzIw/NjQtMjAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/ApukLn5WdEAOPACGBDbqEbsQ8PaUNdpAsUiEgLHHDP4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY4/MTc3LTE1Mjk2NzIw/ODQtNjg5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/HWOFGxLd4NUonQuv2aNJD2fh9-DNcBNGwNJytET19pM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY4/MTc3LTE1Mjk2NzIx/MTAtOTc0My5qcGVn.jpeg"
+    - "https://i.discogs.com/cHOkqC2fB0J_rI9clHNgYt70FwXudlN__sG8PCNph7w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY4/MTc3LTE1Mjk2NzIx/MzUtMjIzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/zXBk0O6AqS4F0NGcKrOwOft9VHodP5j-01B2PkOcc3w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY4/MTc3LTE1Mjk2NzIx/NTgtMTgxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/7AOOAL96t3k1iTZ_x2ZWQLUV1pU3--6vxtI5gqfEpHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY4/MTc3LTE1Mjk2NzIx/ODItODkxOS5qcGVn.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -31,19 +38,12 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### The Lost Boys (Original Soundtrack)
 {{< youtube id="raI38f_xMZE" title="The Lost Boys (Original Soundtrack)" >}}<br>
-
 ### More Videos
 
 - [The Lost Boys - Soundtrack - Power Play - By Eddie & The Tide -](https://www.youtube.com/watch?v=VQ1OW7vlgPA)
@@ -65,13 +65,15 @@ styles: ["Soundtrack"]
 - [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12168177-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |
-| Label          | Atlantic |
 | Format         | Vinyl LP Reissue (White) |
+| Label          | Atlantic |
 | Catalog Number | 603497860630 |
 | Notes | Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition"  |
+| Discogs URL    | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12168177-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |

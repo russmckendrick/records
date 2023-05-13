@@ -10,6 +10,13 @@ cover:
     image: "dizrythmia-2995959.jpg"
     alt: "Dizrythmia by Split Enz"
     caption: "Dizrythmia by Split Enz"
+additional_images:
+    - "https://i.discogs.com/xwwLonXl0an4IB3dVRueFTO5Rv5-nV_tS5bu-bKSO2o/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU5/NTktMTMxMDkzODgy/MS5qcGVn.jpeg"
+    - "https://i.discogs.com/mjg4nidMMVXTonU9VFaq3M6jmxGuTye1fvGpsj-5dT8/rs:fit/g:sm/q:90/h:431/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU5/NTktMTMxODk1MDQ3/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Vtu0TSh5v22tVul74tgaQAr3P7a377lNY9c3qfnBlPc/rs:fit/g:sm/q:90/h:448/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU5/NTktMTMxODk1MDQ3/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/T6_wT_Jx-B_6A7maKnkPULTGI-T2M3l3TAdPJIJwGy8/rs:fit/g:sm/q:90/h:444/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU5/NTktMTMxODk1MDQ4/NS5qcGVn.jpeg"
+    - "https://i.discogs.com/uiVUh_Lt8oQrNxSCh688eoQlVba4eHYMA_C5GeD9nDQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU5/NTktMTU0MTM0MjU3/NC03NDAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/43r29WFRjNbfU7v46J6Q_v4zSieBM1-H1WLE1H8vtUQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU5/NTktMTU0MTM0MjU3/MC00MTY1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -30,20 +37,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}
-
-
-
-
-
 ## Videos
 ### Split Enz - Sugar And Spice
 {{< youtube id="zt5tXIIrnW0" title="Split Enz - Sugar And Spice" >}}<br>
-
 ### More Videos
 
 - [Charlie](https://www.youtube.com/watch?v=vspL-4UUmRs)
@@ -52,13 +51,15 @@ styles: ["Prog Rock"]
 - [Split Enz - Jamboree](https://www.youtube.com/watch?v=iR1Xjbalmj4)
 - [Crosswords (2020 Remaster)](https://www.youtube.com/watch?v=MIn6XPXuzks)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1977                                   |
-| Discogs Link   | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959-Split-Enz-Dizrythmia) |
-| Label          | Chrysalis |
 | Format         | Vinyl LP Album |
+| Label          | Chrysalis |
 | Catalog Number | CHR 1145 |
 | Notes | Released with an insert with lyrics.  Backcover caption: Chrysalis Records Limited 388/396 Oxford Street, London, W1.  |
+| Discogs URL    | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959-Split-Enz-Dizrythmia) |

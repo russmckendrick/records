@@ -1,6 +1,9 @@
 ---
 title: "Nas"
-summary: "American rapper, songwriter and actor, born September 14, 1973 in Queens, New York. Son of jazz musician . Founder of rap group which consisted of , his cousin and brother . Married to aka from 2005 until 2010. Father of ."
+summary: "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.
+NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics , to give the U.S. space development effort a distinctly civilian orientation, emphasizing peaceful applications in space science. NASA has since led most American space exploration, including Project Mercury, Project Gemini, the 1968–1972 Apollo Moon landing missions, the Skylab space station, and the Space Shuttle. NASA supports the International Space Station and oversees the development of the Orion spacecraft and the Space Launch System for the crewed lunar Artemis program, Commercial Crew spacecraft, and the planned Lunar Gateway space station. The agency is also responsible for the Launch Services Program, which provides oversight of launch operations and countdown management for uncrewed NASA launches.
+NASA's science is focused on better understanding Earth through the Earth Observing System; advancing heliophysics through the efforts of the Science Mission Directorate's Heliophysics Research Program; exploring bodies throughout the Solar System with advanced robotic spacecraft such as New Horizons and planetary rovers such as Perseverance; and researching astrophysics topics, such as the Big Bang, through the James Webb Space Telescope, and the Great Observatories and associated programs."
 image: "nas.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/nas/35307"
+wikipedia_url: "https://en.wikipedia.org/wiki/NASA"
 ---

@@ -10,6 +10,8 @@ cover:
     image: "last-nights-glitter-15832271.jpg"
     alt: "Last Nights Glitter by Charlie Barnes"
     caption: "Last Nights Glitter by Charlie Barnes"
+additional_images:
+    - "https://i.discogs.com/f8eFghItJ68_jhIdh9T9AUjLLrZ6A_ZCKlgnYk0IC6g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMy/MjcxLTE1OTg2MjE0/NDItNTkxNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -31,22 +33,19 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-nights-glitter/1516641724" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Charlie Barnes - Last Nights Glitter](https://www.discogs.com/release/15832271-Charlie-Barnes-Last-Nights-Glitter) |
-| Label          | Not On Label |
 | Format         | Vinyl LP Stereo |
+| Label          | Not On Label |
 | Catalog Number | none |
+| Discogs URL    | [Charlie Barnes - Last Nights Glitter](https://www.discogs.com/release/15832271-Charlie-Barnes-Last-Nights-Glitter) |

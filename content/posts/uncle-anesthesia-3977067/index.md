@@ -10,6 +10,12 @@ cover:
     image: "uncle-anesthesia-3977067.jpg"
     alt: "Uncle Anesthesia by Screaming Trees"
     caption: "Uncle Anesthesia by Screaming Trees"
+additional_images:
+    - "https://i.discogs.com/nkCHUcYiN5w2VSDRRQGWCKBS0V_rGhr5jDNKyPVKnGc/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NjctMTM1MTE2NTkx/OC02MzQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/0JxtB_E_-LXc4AfcRHuM_NMfLfVUoDvceYgNN_GSAHg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NjctMTY1OTcxOTY1/NC02ODM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/_-D-1v6pmUp3Is46B5-PNMykT4jlcsZMmu87KANjCtc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NjctMTYwMTA3NDU1/MC02MDM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/LvXF0-dy3FbIzEj0FbgAcmU-mX2toxz1geKgyCOctDM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NjctMTYwMTA3NDU1/MC0zNzkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/RXe882cd3PvOI7voXf9zhsAUUDxCoaZLLkmxVESzeG0/rs:fit/g:sm/q:90/h:318/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcw/NjctMTY1OTcxOTY1/OC0yNTE4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -34,20 +40,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/uncle-anesthesia/268500515" >}}
-
-
-
-
-
 ## Videos
 ### Story Of Her Fate
 {{< youtube id="_LtDCEE8fro" title="Story Of Her Fate" >}}<br>
-
 ### More Videos
 
 - [Screaming Trees - Bed Of Roses](https://www.youtube.com/watch?v=GAmZsfFKCxU)
@@ -58,12 +57,16 @@ styles: ["Alternative Rock"]
 - [Time For Light](https://www.youtube.com/watch?v=VCg4E1I0YkM)
 - [Ocean Of Confusion](https://www.youtube.com/watch?v=BxXTRl7QIRU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Uncle_Anesthesia |
+| Wikipedia Summary | Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour. |
 | Release Year   | 2012                                   |
-| Discogs Link   | [Screaming Trees - Uncle Anesthesia](https://www.discogs.com/release/3977067-Screaming-Trees-Uncle-Anesthesia) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Reissue (180 gram) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP587 |
+| Discogs URL    | [Screaming Trees - Uncle Anesthesia](https://www.discogs.com/release/3977067-Screaming-Trees-Uncle-Anesthesia) |

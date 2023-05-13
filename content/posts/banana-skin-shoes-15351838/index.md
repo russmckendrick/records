@@ -11,6 +11,15 @@ cover:
     image: "banana-skin-shoes-15351838.jpg"
     alt: "Banana Skin Shoes by Badly Drawn Boy"
     caption: "Banana Skin Shoes by Badly Drawn Boy"
+additional_images:
+    - "https://i.discogs.com/tSDgGW0ng_ZRPUEEFfdowCP-CtkAQ9TzpNXCOYSqBUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE2NjUxMjY0/NDUtMTIyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/hfO7oLRLBBcoqeolm0ZQeiZ2gVodIJAty6NUR_Dt84U/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE2NjUxMjY0/NDUtNDQxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/bLGqLj4wh-tcj7im8GrPNu__IvRcte1K03B7SmSZf6s/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE1OTAxNjY4/NjktNjAzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/2NsBcydMbv_3Be-s1EOxksoKufTJaR2YQ3nVXceI9n0/rs:fit/g:sm/q:90/h:282/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE1OTAxNjY4/OTAtNTMyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/pPWMRCynhuudiabeWkwmt2m-N_Ef1ovW6Ij59SNnGi4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE1OTAxNjY4/ODctNTU5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/QHWGa06ZVgzEM76CMbEVzG1QjsBxkNxCEP37VD1_Iq4/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE1OTAxNjY4/ODgtMjQ1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/7jourLFBrxdV_jdhiIoy1hPLceKQRZPleRC31aVvJbY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE1OTAxNjY4/ODgtNTEwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/VpPAoGNCNpuOZWBV5O7XwW1s5DdixQujw21dKKakDbA/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUx/ODM4LTE1OTAxNjY4/ODktNDk5OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -36,22 +45,13 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
 On the title track that opens Badly Drawn Boy’s ninth studio album (and first in eight years), Damon Gough is getting back up and he’s ready to move on. “It’s time to break free from this plaster cast/And leave your past behind,” the English singer-songwriter rejoices over horn-filled funk, returning to the genre-bending experiments of 2000’s Mercury Prize-winning <i>The Hour of Bewilderbeast</i> and 2002’s <i>Have You Fed the Fish</i>. Gough, who went through an extended bout of soul-searching during his absence, exudes marital bliss on "I Need Someone to Trust" and "Fly on the Wall", taking a more pop-minded bent even as his penchant for chamber music remains present. The loose-limbed “Is This a Dream?” and “Colours” carry a celebratory tone, where he acknowledges his past mistakes as he recollects his thoughts. Even the more subdued moments, like the bossa-nova-tinged “You and Me Against the World”, play with a slow rhythmic groove as Gough opens his heart: “I feel so vulnerable/I want to be/Only in love.”
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/banana-skin-shoes/1500598594" >}}
-
-
-
-
-
 ## Videos
 ### Badly Drawn Boy - Banana Skin Shoes (Official Music Video)
 {{< youtube id="9DoVsGK87NM" title="Badly Drawn Boy - Banana Skin Shoes (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Badly Drawn Boy - I Just Wanna Wish You Happiness](https://www.youtube.com/watch?v=sUrot70vd90)
@@ -65,13 +65,16 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 - [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
 - [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | On the title track that opens Badly Drawn Boy’s ninth studio album (and first in eight years), Damon Gough is getting back up and he’s ready to move on. “It’s time to break free from this plaster cast/And leave your past behind,” the English singer-songwriter rejoices over horn-filled funk, returning to the genre-bending experiments of 2000’s Mercury Prize-winning <i>The Hour of Bewilderbeast</i> and 2002’s <i>Have You Fed the Fish</i>. Gough, who went through an extended bout of soul-searching during his absence, exudes marital bliss on "I Need Someone to Trust" and "Fly on the Wall", taking a more pop-minded bent even as his penchant for chamber music remains present. The loose-limbed “Is This a Dream?” and “Colours” carry a celebratory tone, where he acknowledges his past mistakes as he recollects his thoughts. Even the more subdued moments, like the bossa-nova-tinged “You and Me Against the World”, play with a slow rhythmic groove as Gough opens his heart: “I feel so vulnerable/I want to be/Only in love.” |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838-Badly-Drawn-Boy-Banana-Skin-Shoes) |
-| Label          | One Last Fruit |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
+| Label          | One Last Fruit |
 | Catalog Number | OLF005LP |
 | Notes | Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself. |
+| Discogs URL    | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838-Badly-Drawn-Boy-Banana-Skin-Shoes) |

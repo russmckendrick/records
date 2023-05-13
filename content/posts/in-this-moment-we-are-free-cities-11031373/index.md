@@ -10,6 +10,17 @@ cover:
     image: "in-this-moment-we-are-free-cities-11031373.jpg"
     alt: "In This Moment We Are Free - Cities by Vuur"
     caption: "In This Moment We Are Free - Cities by Vuur"
+additional_images:
+    - "https://i.discogs.com/JL4MV0nUlVU0obSwKCTBROumtEnXmgkTx-N869pIhc8/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MTctMTgxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/xJkdg3vw4a966Ee_bbVjSLLZhuujfQu5saa-35GN5SE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MjItODk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/aazJcUuBqWkygtKzx44G2AhXMBWGGHsYjfs9NSQG3do/rs:fit/g:sm/q:90/h:277/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MjgtMTgzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/-8mQnHCLAXRChdCF8J2CPBGkpE-CFpR-rJfIAWUHnjk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MzMtNDc3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/vk4sMRcS02xKS6dvGyHLXsY6rUDk-HGix8BFThgk3hw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MzUtOTY0My5qcGVn.jpeg"
+    - "https://i.discogs.com/wAgwSYGsNcLCRGzSCFgvZya0_enog5wxEOHCUB7pb6Q/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NDItOTIyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/4XnjO8PvcZiig3OgETOjpnwus8sN3vM8B2LraPxPIPo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NTEtNjI3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/fo5sKq8SWR6IAML4NH16O_sZydlTFBKlYRzVUW41ntY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NTYtNTA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Kvhyj_lZP3qEXjTqCDG4sWZZzAqt9N2sfx7XkgfAcsM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NjEtMTI0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Si13UZBN9ErgSD8AhEsm-fQBSQeuPfwkF_nfIJi-8tg/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE2MjEwMjE2/OTEtMzcwMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
@@ -43,20 +54,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116" >}}
-
-
-
-
-
 ## Videos
 ### VUUR - In This Moment We Are Free - Cities (Album Teaser)
 {{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities (Album Teaser)" >}}<br>
-
 ### More Videos
 
 - [VUUR - Days Go By - London (Album Track)](https://www.youtube.com/watch?v=Y3rT-X_zgOg)
@@ -65,13 +68,15 @@ styles: ["Progressive Metal"]
 - [VUUR - The Fire - San Francisco (Track By Track)](https://www.youtube.com/watch?v=11EeCmOz9Cg)
 - [An introduction to VUUR - Anneke van Giersbergen's new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Vuur - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-In-This-Moment-We-Are-Free-Cities) |
-| Label          | Inside Out Music |
 | Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album, CD Album, All Media Limited Edition |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 491 |
 | Notes | Released through the webshop of VUUR. Pre-ordered copies are signed by Anneke. |
+| Discogs URL    | [Vuur - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-In-This-Moment-We-Are-Free-Cities) |

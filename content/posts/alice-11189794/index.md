@@ -10,6 +10,19 @@ cover:
     image: "alice-11189794.jpg"
     alt: "Alice by Tom Waits"
     caption: "Alice by Tom Waits"
+additional_images:
+    - "https://i.discogs.com/Lz0zQ5kJR7SHXzMcGinasFsmALsZ6t94NaNulCAFdcc/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE1MTE1NDM1/MTMtNzI1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/w4DAinnwGsoea3WbxbG19c-Ym-h_mEE09HqH70sJfgg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE1MjI0MTI2/NjktNjI3My5qcGVn.jpeg"
+    - "https://i.discogs.com/y-38BLFvb5JeVc3Seo4lyVNmLuBHAh0aMXCxdVXH7VI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE1MjI0MTI2/NzAtMTU0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/w2Cv6QT_aSxmO9AqFyl4_509H3T1cIqVX_81f8kszvA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYy/NTItNDQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/A5aiHtzSZTh3HE_B-E736fQR3XtDzMljxKdnHQnB9pA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYy/NzUtODk0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/jATVlB8IheyQ5NHvPaJK78OIzehXCXDxaK2hShbo0JA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYy/OTEtNjI3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/flCm8mIojyKjYc4aXyQk8kiwr1MndcLrPrHKrza9n6I/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYz/MTItNTY2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/V4q4ejIBNxwIxum_HJ5n1aty-6S28qWefS7f84jrs3M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYz/NDktNTI5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/lUa6chag1a6kw58Kjm6EjX0EICO-8zkQI6dHaNDKvPM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYz/NTktNTIwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/IBC6fOl1yRVnRYNHRFQYv2x7-GHIwC0CvG0ExP0BSZc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYz/NjgtMjg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/5m8KalsAnIxGuBBcquU6do5lobPurrRpTc8c1Mv0y6s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYz/NzgtNTA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/skn4fLBNpSyZJwtV-ZqiU8NRTIW6rI2UWGoM6u7jIwo/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/Nzk0LTE2MjY3ODYz/OTMtNjY0My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
@@ -36,32 +49,23 @@ styles: ["Alternative Rock", "Experimental"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/alice-anniversary-edition/1646707007" >}}
-
-
-
-
-
 ## Videos
-### Alice - Tom Waits
-{{< youtube id="aEj-mrwwaxo" title="Alice - Tom Waits" >}}<br>
+### Tom Waits - Alice
+{{< youtube id="k8XY2d1c9ok" title="Tom Waits - Alice" >}}<br>
 
-### More Videos
 
-- [Tom Waits - Flowers Grave](https://www.youtube.com/watch?v=_x198_I0Nfc)
-- [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=9Bk9ao6cSFs)
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Tom Waits - Alice](https://www.discogs.com/release/11189794-Tom-Waits-Alice) |
-| Label          | Anti- |
 | Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched |
+| Label          | Anti- |
 | Catalog Number | 6632-3 |
 | Notes | 6632-3 CAT. NO. on spine & labels |
+| Discogs URL    | [Tom Waits - Alice](https://www.discogs.com/release/11189794-Tom-Waits-Alice) |

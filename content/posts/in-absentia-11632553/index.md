@@ -10,6 +10,23 @@ cover:
     image: "in-absentia-11632553.jpg"
     alt: "In Absentia by Porcupine Tree"
     caption: "In Absentia by Porcupine Tree"
+additional_images:
+    - "https://i.discogs.com/DhTwdq1cMDJs34aBmv2hgl_2XZUWJJtx9uZYkoCjcvc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MjktNTYzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/-D9-iCxqCduj2kXLIPLtZk_xWWlsnYT9gTLn3Q3_5Q4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzAtMzk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/sGpxi5ErXyWkmF85wBwEzsde0zBRrkXwhlEIzUJPrwI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzQtMTA0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/fowSruxQwvjjGulRdnQJ-A__wi1EU6wzEHJkIOmsUT8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzQtOTIyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/HTOiCtmhebCTq7AC2BcALnb6fpwWIwyr916Yb89E9ow/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzMtOTg5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/lOISMSZmZhRvhX-NEWIYo0nRCJsUOpcEmYtiTzWT4Uk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzMtMjYxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/fiEPhxfINMqlsv9H55icFm4M5jbKz4Mv3ZEPSn_tVJo/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzEtNjgwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/XqeL7aIpk6osU7MkcpfTlGFJE6iEkILgovswM4f2II4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzItNjIwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/bspW1nk1MZcwMJyBu-vbDoOYXl1RjUnA_ZRXwE6f9l4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzQtOTY1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/66XHfOJ3_ckQIYl3JcWfV8yDXcZk_upGPAlT8AOXjJU/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzUtNjg0My5qcGVn.jpeg"
+    - "https://i.discogs.com/SKg9wAmF90vQW9EaTgiPZPebKEA75mvIfAATopQTDvg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNTU2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/A3xff8lL5rQe7CJqLAckeLNQqm1SRA6gQgqJ-Ub9z6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNzc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/F9BeGyUs6mvwq1UgiSxLvto_tYL4AusQnYg-L6xafq8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtMTA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/C4oGp9Og0FUJDbTNrCgNATk_oShRp7s65Ek6pLaR1bA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzctNDMwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/niDBX8ndYapMaVYIuPN0i7kaPsLavLnVpyXt2GFO6XQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNzQ3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/D9Akz2b6WV7dbef1oMncvqonhXBMNUGGyrUFeVSYMTc/rs:fit/g:sm/q:90/h:736/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDI1/MTctMTg4OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,20 +50,15 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
+In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-absentia/1581760123" >}}
-
-
-
-
-
 ## Videos
 ### Porcupine Tree - In Absentia
 {{< youtube id="U8sfqB0J7i4" title="Porcupine Tree - In Absentia" >}}<br>
-
 ### More Videos
 
 - [Collapse [Intro - Remastered]](https://www.youtube.com/watch?v=-8JbDjln3rc)
@@ -56,13 +68,17 @@ styles: ["Alternative Rock"]
 - [Futile [Remastered]](https://www.youtube.com/watch?v=YN-N_YSXhcg)
 - [Meantime [Remastered]](https://www.youtube.com/watch?v=JNmaWGOnJz0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/In_Absentia |
+| Wikipedia Summary | In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.<br><br> |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553-Porcupine-Tree-In-Absentia) |
-| Label          | Kscope |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 180g) |
+| Label          | Kscope |
 | Catalog Number | KSCOPE981 |
 | Notes | [Liner Notes] "Remastered by Steven Wilson in November 2017." "The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "  Gatefold cover with printed inner sleeves.  |
+| Discogs URL    | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553-Porcupine-Tree-In-Absentia) |

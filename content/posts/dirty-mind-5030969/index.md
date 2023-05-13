@@ -11,6 +11,14 @@ cover:
     image: "dirty-mind-5030969.jpg"
     alt: "Dirty Mind by Prince"
     caption: "Dirty Mind by Prince"
+additional_images:
+    - "https://i.discogs.com/TFiGcmVvLlsIa4DsjCDTL0JTTTmQWMUwfXWHzDd_eEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjYyNDMw/OC01MDg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/cFLw9mrfXrEubHBr8GwCBvdIJWPtftdCLssEALiopyA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk0/Ny03NDUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/uRx_ciJyCIMonjPexCknon-9a802B0M3mg2Wj5048XE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk4/MC0xNDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/1EqPJevp8CvikslLR-JwpODa9cx3Z3WlmJlgzVEeZAM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk5/MS04NjU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ifNaCH_wMap_ka6doKaANyw6WtKT5PG729R-e0W15Hs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk3/MS05NjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/te6GHMqPjWkdt3RZuG4j6g8zKxuquucrp__p8qwwM-I/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk2/Mi03MjExLmpwZWc.jpeg"
+    - "https://i.discogs.com/bDvJf2ZVLqhXbsltg-exT6Z32XqPlW2SYZshyzeSH7I/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk1/Mi03MDgxLmpwZWc.jpeg"
 genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Soul", "Synth-pop"]
 ---
@@ -30,22 +38,15 @@ styles: ["Disco", "Soul", "Synth-pop"]
 
 <!-- section break -->
 
-
-Released at the end of 1980, <i>Dirty Mind</i> was a showcase for how Prince would revolutionize pop music: He welded New Wave to funk while challenging the status quo with his unapologetic sexuality. Even the love songs here (“When You Were Mine,” “Gotta Broken Heart Again”) have a touch of kink, while the kinky songs (“Head,” the punky incest poem “Sister”) take their taboos as seriously as heartache. It’s a blurring of the sacred and profane that would come to define his career.
-
+Dirty Mind is the third studio album by American singer-songwriter, and multi-instrumentalist Prince. It was released on October 8, 1980, by Warner Bros. Records and produced entirely by Prince at his home studio in Minneapolis, Minnesota earlier that year from May to June. Dirty Mind has been considered by critics to be his most creative and boldest album, setting the standard for his artistic direction in the following years.A fusion of post-disco, new wave, funk and dance, Dirty Mind has more punk sounds than Prince's previous albums. Prince’s high and feminine vocals, along with his androgynous image during the album's era, has been commended. Controversially, the album's theme is fueled by explicit topics including oral sex, threesome, incest and ejaculation, which has been credited for opening the doors for sexually explicit albums in the coming years.The first single of Dirty Mind, "Uptown" reached number five on both the Billboard Hot Soul Singles and the Billboard National Disco Action Top 30 charts. Though the album only reached number 45 on the Billboard 200, it earned widespread acclaim from music critics and crossover success. Due to its fusion of genres, critics have hailed it for setting the sound for urban black music of the early 1980s. The album has been ranked by several publications as one of the greatest albums of all time.
 
 
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dirty-mind/214145168" >}}
-
-
-
-
-
 ## Videos
 ### Dirty Mind
 {{< youtube id="4mXPQIrY5rE" title="Dirty Mind" >}}<br>
-
 ### More Videos
 
 - [When You Were Mine](https://www.youtube.com/watch?v=HEugh8DWQqA)
@@ -60,13 +61,17 @@ Released at the end of 1980, <i>Dirty Mind</i> was a showcase for how Prince wou
 - [Gotta Broken Heart Again](https://www.youtube.com/watch?v=7Xgx5WpMp98)
 - [When You Were Mine](https://www.youtube.com/watch?v=sXS2KdNzMDk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
-| Discogs Link   | [Prince - Dirty Mind](https://www.discogs.com/release/5030969-Prince-Dirty-Mind) |
-| Label          | Warner Bros. Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dirty_Mind |
+| Apple Music Summary | Released at the end of 1980, <i>Dirty Mind</i> was a showcase for how Prince would revolutionize pop music: He welded New Wave to funk while challenging the status quo with his unapologetic sexuality. Even the love songs here (“When You Were Mine,” “Gotta Broken Heart Again”) have a touch of kink, while the kinky songs (“Head,” the punky incest poem “Sister”) take their taboos as seriously as heartache. It’s a blurring of the sacred and profane that would come to define his career. |
+    | Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
+| Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-7 |
 | Notes | Recorded somewhere in Uptown. Re-mixed at Hollywood Sound Recorders, Hollywood, Calif.  Mastered at Bernie Grundman Mastering from the Original Tapes  Mastered at A&M Records. Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  The runouts read the release was plated at RTI and pressed by Optimal. A similar [url=https://www.discogs.com/Prince-Dirty-Mind/release/2908664]US version[/url] exists. |
+| Discogs URL    | [Prince - Dirty Mind](https://www.discogs.com/release/5030969-Prince-Dirty-Mind) |

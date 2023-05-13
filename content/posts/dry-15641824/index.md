@@ -11,6 +11,13 @@ cover:
     image: "dry-15641824.jpg"
     alt: "Dry by PJ Harvey"
     caption: "Dry by PJ Harvey"
+additional_images:
+    - "https://i.discogs.com/UuuMaIsKHukvlamciApiQyhLLqehWZDW8jhsdERrFBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/ODI0LTE1OTk5MDc1/MTctNzAyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/x66Rheiw1vk1Al5o1DJiOUja-LENL8RbyFp8WCAxKUM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/ODI0LTE1OTk5MDc1/MTctNDM5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/r0LYUHVwbLU2lPtSP6xJYecCN5W8zj1wuT200CnZ8ho/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/ODI0LTE1OTY4MDc4/NDQtMTc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/HDoKgBV1rxjTDw29YifRRhAUUGoT5viEnE5K5KUOhsA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/ODI0LTE1OTY4MDc4/NDQtOTg5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/tXG9FjoIvKwzfeyWMq74MYI4PsHcozZShv8RS8O9Dko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/ODI0LTE1OTk5MDc1/MTgtNzA3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/jhiC3LBFVUneW70mIj8MUkZC9_tHExybUg55YLfSnPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/ODI0LTE1OTk5MDc1/MTgtNDkyMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -33,33 +40,30 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-As a female songwriter addressing gender politics in the early ’90s, Polly Harvey drew comparisons to the Riot Grrrl movement. If this 1992 debut suggests any of her contemporaries though, it’s Nirvana with its bruising riffs, pop hooks and vocals that mine an impassioned yet vulnerable soul. Otherwise, this concoction of sensuality and spikiness seeded into blues, folk and post-punk is remarkably singular. “Dress and “Sheela-Na-Gig” are exhilarating in melody and power, while “Plants and Rags” proves that even ballads can have thrillingly sharp edges.
-
+Dry is the debut studio album by the band PJ Harvey, fronted by English singer-songwriter and musician PJ Harvey, released on Too Pure Records on 30 March 1992. The album was recorded at The Icehouse, a local studio in Yeovil, United Kingdom. The first 5000 LPs and first 1000 CDs included demo versions of the album's tracks and Dry was subsequently released in the United States on Indigo Records in the US. Both versions were released in 1992. Dry was reissued on vinyl and CD in July 2020: an 11-track companion album collecting all of the demos titled Dry - Demos was also released on vinyl as a stand-alone record.
 
 
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dry/1450131752" >}}
-
-
-
-
-
 ## Videos
 ### PJ Harvey - Dress
 {{< youtube id="ah9NdBKkEQY" title="PJ Harvey - Dress" >}}<br>
-
 ### More Videos
 
 - [PJ Harvey - Sheela-Na-Gig](https://www.youtube.com/watch?v=Sjxr_No-yuY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [PJ Harvey - Dry](https://www.discogs.com/release/15641824-P-J-Harvey-Dry) |
-| Label          | Too Pure |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dry_(album) |
+| Apple Music Summary | As a female songwriter addressing gender politics in the early ’90s, Polly Harvey drew comparisons to the Riot Grrrl movement. If this 1992 debut suggests any of her contemporaries though, it’s Nirvana with its bruising riffs, pop hooks and vocals that mine an impassioned yet vulnerable soul. Otherwise, this concoction of sensuality and spikiness seeded into blues, folk and post-punk is remarkably singular. “Dress and “Sheela-Na-Gig” are exhilarating in melody and power, while “Plants and Rags” proves that even ballads can have thrillingly sharp edges. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Metropolis Studios Cut) |
+| Label          | Too Pure |
 | Catalog Number | PURE 10 LP |
 | Notes | On spine, printed: PURE 10 LP   P J HARVEY   DRY. With inner sleeve black with white lettering.  Includes download card.  Mastering consultant: Head Thank you Richard and Paul  The etching 'HLH' was made by Mike Hillier during cutting. It is his new-born daughter's initials.  Alternative version cut by Lex van Coeverden (runouts with etching "-LvC-") is here: [r17089623] |
+| Discogs URL    | [PJ Harvey - Dry](https://www.discogs.com/release/15641824-P-J-Harvey-Dry) |

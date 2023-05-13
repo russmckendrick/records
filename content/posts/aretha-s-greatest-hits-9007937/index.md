@@ -11,6 +11,13 @@ cover:
     image: "aretha-s-greatest-hits-9007937.jpg"
     alt: "Aretha's Greatest Hits by Aretha Franklin"
     caption: "Aretha's Greatest Hits by Aretha Franklin"
+additional_images:
+    - "https://i.discogs.com/Qtk2XzVmlTEVJWq9Pd-ImP9DwD51JcyFpmoGESjBhpE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc5/MzctMTQ4ODM5ODIz/NS0zODc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/wuGAoQvAQ4Un9r9933L_VsZG2HtXajl4juqeC34AFKo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc5/MzctMTQ3MzE3NDQ1/MC00OTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/96KQHSNYboXyUngm3fV_0i2iNFvSKXQbVTzkfKFmlYA/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc5/MzctMTQ4ODM5ODIz/NC0xNDU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/zXNysnE6j7OR7qrPOyKoU-2R-tbi-shrmj3fDYbPAT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc5/MzctMTQ3MzE3NDQ1/Ny03NTI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/B4ho6vCqCOJkQB_Qnog_udvYRjc-c0lRAhecrNXJPHU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc5/MzctMTYyNzMwMzc3/OS0zOTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/3CEP5KOSEWNhj2A_pDQyGjH9Lz6UfRxuWogxsDRZb5s/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc5/MzctMTYyNzMwMzc3/OC0zNzgzLmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
@@ -36,33 +43,27 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-
 This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/30-greatest-hits/933578756" >}}
-
-
-
-
-
 ## Videos
 ### Aretha's Greatest Hits /Atlantic
 {{< youtube id="KuDE2JzHYhU" title="Aretha's Greatest Hits /Atlantic" >}}<br>
-
 ### More Videos
 
 - [Aretha Franklin - Spanish Harlem](https://www.youtube.com/watch?v=ax3EJyeKW3M)
 - [Chain of Fools by Aretha Franklin REMASTERED](https://www.youtube.com/watch?v=vFBi7ZEbGx8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Aretha Franklin - Aretha's Greatest Hits](https://www.discogs.com/release/9007937-Aretha-Franklin-Arethas-Greatest-Hits) |
-| Label          | Atlantic |
 | Format         | Vinyl LP Compilation Reissue |
+| Label          | Atlantic |
 | Catalog Number | 081227943516 |
+| Discogs URL    | [Aretha Franklin - Aretha's Greatest Hits](https://www.discogs.com/release/9007937-Aretha-Franklin-Arethas-Greatest-Hits) |

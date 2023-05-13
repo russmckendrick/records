@@ -1,6 +1,7 @@
 ---
 title: "Victoria Williams"
-summary: "American singer, songwriter and musician born December 23, 1958 in Shreveport, Louisiana."
+summary: "Victoria Williams is an American singer, songwriter and musician, originally from Shreveport, Louisiana, United States, although she has resided in Southern California throughout her musical career. Diagnosed with multiple sclerosis in the early 1990s, Williams was the catalyst for the Sweet Relief Musicians Fund."
 image: "victoria-williams.jpg"
 apple_music_artist_url: "None"
+wikipedia_url: "https://en.wikipedia.org/wiki/Victoria_Williams"
 ---

@@ -10,6 +10,9 @@ cover:
     image: "metal-killers-1916752.jpg"
     alt: "Metal Killers by Various"
     caption: "Metal Killers by Various"
+additional_images:
+    - "https://i.discogs.com/-qznj7gQF8MY_u_fDyxzKzM9hTAkhKsZdAwBkRp9nGk/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/NTItMTI1OTUyOTUx/MS5qcGVn.jpeg"
+    - "https://i.discogs.com/hE-Jpb28EKmlnbQWlaSzGv6U3hCGhGRF8lfeEqbQ0oM/rs:fit/g:sm/q:90/h:591/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/NTItMTQyNDE3NTI1/MS0yNDI0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
@@ -33,27 +36,23 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Accept - Fast As A Shark
 {{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1984                                   |
-| Discogs Link   | [Various - Metal Killers](https://www.discogs.com/release/1916752-Various-Metal-Killers) |
-| Label          | Kastle Killers |
 | Format         | Vinyl LP Compilation Stereo |
+| Label          | Kastle Killers |
 | Catalog Number | KKLP 101 |
 | Notes | Courtesy of Heavy Metal Records (Track B1)  |
+| Discogs URL    | [Various - Metal Killers](https://www.discogs.com/release/1916752-Various-Metal-Killers) |

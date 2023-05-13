@@ -10,6 +10,20 @@ cover:
     image: "the-complete-singles-26454110.jpg"
     alt: "The Complete Singles by Inspiral Carpets"
     caption: "The Complete Singles by Inspiral Carpets"
+additional_images:
+    - "https://i.discogs.com/kvlTvt34XHGeeP7jEWQ_Rg57s72SAZ7VzzCbQFdR6Xc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzQtOTg1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/JvVxHSjT2XIaZsbCrxQKqhoauO6kJw8NDoDs2ACCM7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2NzkxMzkz/NTQtNjAyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/34rky4hf4I3OdU5yrjGNc9b7cBaM9eml-eq6Pc55IiA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzYtNDgwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/fg9rTyir31nf7OKjdNnYD-nP6i6WNCAY_XTTBD1O5hw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzctMzc4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/RmmcIDKlyPFXWAK6dVeP9MwNtWY_bABjGmJm3mgPTrE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzktNTIyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/GivWlD9g5BemhhEnhOC21q4XzXCvrtUlUwyb92l4d0s/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NDEtMTUyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/OhoEox16sJCSUKNbRpJrauCMkABdQljNWJH299Oi-Pw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NDMtODQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/2AE7q5fwl4wcr2lu4ID-0bli9Ov6FeU-FymlDz4eXlA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NjMtODgyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/lruER1_SZPzvTn8rDVQrc0aVSYHiWD1oF4dIvxx-xWk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NjUtMjI4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/k6Dc-RoexEaMj2kj0drjqxtnL1cZcXP6LzzXpkHrflo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NjgtNTAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/QhRAU8gyUXcEAMWGOW_8bLe3JkCulG3SvxS1TWiCbyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2NzkxMzkz/NTAtNTc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/QGzfFpb_qxKvX1u_je31FMOXdb8hQBOYD5N8N3R5YDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2NzkxMzkz/NjAtODM3My5qcGVn.jpeg"
+    - "https://i.discogs.com/fZJccIt47sKM_Y_TdBpDraqSGYlgh79baWgPxIPtnsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2NzkxMzkz/NDctMTMwMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -45,20 +59,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1676326542" >}}
-
-
-
-
-
 ## Videos
 ### Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)
 {{< youtube id="cmqzakGa6Dc" title="Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)" >}}<br>
-
 ### More Videos
 
 - [Keep the Circle Around (2023 Remaster)](https://www.youtube.com/watch?v=mypEpDOaZ6U)
@@ -86,13 +92,15 @@ styles: ["Indie Rock"]
 - [Spitfire (2023 Remaster)](https://www.youtube.com/watch?v=xgrVxrWhCdw)
 - [Let You Down (Edit) (2023 Remaster)](https://www.youtube.com/watch?v=6m33S82yYAM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110-Inspiral-Carpets-The-Complete-Singles) |
-| Label          | Mute |
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered Stereo |
+| Label          | Mute |
 | Catalog Number | dung36lpx |
 | Notes | "Midnight Licorice" colour double vinyl [ie: black!]  Manufactured in Poland |
+| Discogs URL    | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110-Inspiral-Carpets-The-Complete-Singles) |

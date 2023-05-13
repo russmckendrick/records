@@ -10,6 +10,9 @@ cover:
     image: "3-years-5-months-and-2-days-in-the-life-of-6252763.jpg"
     alt: "3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development"
     caption: "3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development"
+additional_images:
+    - "https://i.discogs.com/wbb9hOXEVcjvqTC7tPBuWJu9AnMGb0Q0lgDWTFLevTU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTQxNTg5MDky/OC04MzIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/sHytCFSrNLxEWAwveBwIjjnuRZ3sQIzyByGisFmmHSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTQxNTg5MDky/Ny04NjAxLmpwZWc.jpeg"
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
@@ -36,20 +39,14 @@ styles: ["Conscious"]
 
 <!-- section break -->
 
-
-
-
+3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.
+The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160" >}}
-
-
-
-
-
 ## Videos
 ### People Everyday - Arrested Development
 {{< youtube id="QlKWz_FcVoo" title="People Everyday - Arrested Development" >}}<br>
-
 ### More Videos
 
 - [3̲ ̲Y̲e̲a̲r̲s̲,̲ ̲5̲ ̲M̲o̲n̲t̲h̲s̲ ̲A̲n̲d̲ ̲2̲ ̲D̲a̲y̲s̲ ̲I̲n̲ ̲T̲h̲e̲ ̲L̲i̲f̲e̲ ̲O̲f̲.̲.̲.̲](https://www.youtube.com/watch?v=GMGXnL78xmQ)
@@ -68,13 +65,17 @@ styles: ["Conscious"]
 - [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)
 - [Washed Away](https://www.youtube.com/watch?v=lBzxAXAvbu8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/3_Years,_5_Months_and_2_Days_in_the_Life_Of... |
+| Wikipedia Summary | 3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.<br>The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list. |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of...](https://www.discogs.com/release/6252763-Arrested-Development-3-Years-5-Months-And-2-Days-In-The-Life-Of) |
-| Label          | Cooltempo |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
+| Label          | Cooltempo |
 | Catalog Number | MOVLP890 |
 | Notes | 180 gram audiophile vinyl  Insert  |
+| Discogs URL    | [Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of...](https://www.discogs.com/release/6252763-Arrested-Development-3-Years-5-Months-And-2-Days-In-The-Life-Of) |

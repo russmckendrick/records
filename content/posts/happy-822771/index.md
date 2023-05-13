@@ -10,6 +10,11 @@ cover:
     image: "happy-822771.jpg"
     alt: "Happy by Ned's Atomic Dustbin"
     caption: "Happy by Ned's Atomic Dustbin"
+additional_images:
+    - "https://i.discogs.com/FSg2iKCg65FsBwI1TxomdmsRNQxYV3HYi6ZfthIHbY4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc3/MS0xNTg1NTE0NzI1/LTk5MDUucG5n.jpeg"
+    - "https://i.discogs.com/Bwnm9ppNOfh4oBOu5OQXeZxCXHzIuVExybIQIoFzYUs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc3/MS0xNTg1NTE0NzIw/LTI4MzcucG5n.jpeg"
+    - "https://i.discogs.com/dNW2H1bxZBZJfjZTlDUedpnxwfy3FeYUgnHJ4dCzBYU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc3/MS0xNTg1NTE0NzI0/LTUzMjQucG5n.jpeg"
+    - "https://i.discogs.com/F5_Rylcm99fMNapZoBINxxQf15VjAAAfIfr1vzFxpqM/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc3/MS0xNTg1NTE0NzIz/LTI2MTkucG5n.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -25,16 +30,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Ned's Atomic Dustbin - Happy
 {{< youtube id="gmD08Na5VKI" title="Ned's Atomic Dustbin - Happy" >}}<br>
-
 ### More Videos
 
 - [Neds Atomic Dustbin-Happy](https://www.youtube.com/watch?v=AI4lzeHQduE)
@@ -49,12 +48,14 @@ styles: ["Indie Rock"]
 - [Neds Atomic Dustbin Happy Stourbridge 2007](https://www.youtube.com/watch?v=GcrHOAooRIA)
 - [Ned's Atomic Dustbin - Talk Me Down](https://www.youtube.com/watch?v=MTvKNmdK97E)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1991                                   |
-| Discogs Link   | [Ned's Atomic Dustbin - Happy](https://www.discogs.com/release/822771-Neds-Atomic-Dustbin-Happy) |
-| Label          | Sony Soho Square |
 | Format         | Vinyl 12" 45 RPM Single Stereo |
+| Label          | Sony Soho Square |
 | Catalog Number | 656680 6 |
+| Discogs URL    | [Ned's Atomic Dustbin - Happy](https://www.discogs.com/release/822771-Neds-Atomic-Dustbin-Happy) |

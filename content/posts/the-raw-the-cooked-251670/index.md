@@ -10,6 +10,13 @@ cover:
     image: "the-raw-the-cooked-251670.jpg"
     alt: "The Raw & The Cooked by Fine Young Cannibals"
     caption: "The Raw & The Cooked by Fine Young Cannibals"
+additional_images:
+    - "https://i.discogs.com/X00L1lwQyQFyEKy3Bd6owX6NFMVgV-KZYppuo0vJIDs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/MC0xNjc2MDU0OTc5/LTYwMDMuanBlZw.jpeg"
+    - "https://i.discogs.com/3A3GqbSVfFnCe6MxfeVmNBja7Kmea_rtS-r47r9Vums/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/MC0xNjc2MDU0OTgw/LTI0MjYuanBlZw.jpeg"
+    - "https://i.discogs.com/gNOH7vYrOLxcw9TChnley5bU1QGtI5wJzXoKkfwkhLU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/MC0xNjc2MDU0OTc5/LTczNTEuanBlZw.jpeg"
+    - "https://i.discogs.com/cDHR9pbXGRycwPZGOUK8D76HdmkTOg91rMJcYe0mI5Y/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/MC0xNjc2MDU0OTgw/LTk3NTMuanBlZw.jpeg"
+    - "https://i.discogs.com/9yYhrCg1OjZosSOIuIgdPVehXa2TPdPkb9G13yUyAxs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/MC0xNjc2MDU0OTgw/LTEwOTAuanBlZw.jpeg"
+    - "https://i.discogs.com/VuMP7nb7zqlWD_Ba0T2lKm7m0eBnTusRHQusq38TQTc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/MC0xNjc2MDU0OTgw/LTg5ODEuanBlZw.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
@@ -31,20 +38,12 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-raw-the-cooked/1313940401" >}}
-
-
-
-
-
 ## Videos
 ### Fine Young Cannibals - The Raw And The Cooked (Full Album)
 {{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}<br>
-
 ### More Videos
 
 - [Fine Young Cannibals - She Drives Me Crazy  (Official Video)](https://www.youtube.com/watch?v=UtvmTu4zAMg)
@@ -65,13 +64,15 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1989                                   |
-| Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/251670-Fine-Young-Cannibals-The-Raw-The-Cooked) |
-| Label          | London Records |
 | Format         | Vinyl LP Album |
+| Label          | London Records |
 | Catalog Number | 828 069. 1 |
 | Notes | © 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited. A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd. A2, A5 & B4 ℗ 1987 Touchstone Pictures B5 ℗ 1987 FFRR Records Ltd.  Publishers: A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd. A2, A5 & B4 - Campbell Connelly Issued in a single sleeve and with a printed inner sleeve.  All runout data is stamped. |
+| Discogs URL    | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/251670-Fine-Young-Cannibals-The-Raw-The-Cooked) |

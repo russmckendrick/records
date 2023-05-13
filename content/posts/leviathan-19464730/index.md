@@ -10,6 +10,16 @@ cover:
     image: "leviathan-19464730.jpg"
     alt: "Leviathan by The Grid"
     caption: "Leviathan by The Grid"
+additional_images:
+    - "https://i.discogs.com/TkU7-C4jS2ZKZ9zZ7Xdtbmee58iCqUverpkFboktob8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzAtODMzNC5wbmc.jpeg"
+    - "https://i.discogs.com/nt-UbcsS-zRvDGdcNdyx99eBz6LJOZl57h6bKxTXAS0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzEtNDU3Ny5wbmc.jpeg"
+    - "https://i.discogs.com/ysRlBA1v__3pFPBYnTLrLAKjTQv0TmSZ5BX2iuuxexo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzAtODgyOS5wbmc.jpeg"
+    - "https://i.discogs.com/lo1UiJWpEcoRenTfInjQyTnZptReNqP9bVBlsULvzD8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NjktNzY4Mi5wbmc.jpeg"
+    - "https://i.discogs.com/pTtaGbIzQcHIUyABGQgMVQYflh9qKX0ycVGdbhw3mDw/rs:fit/g:sm/q:90/h:455/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NjktMTk0My5wbmc.jpeg"
+    - "https://i.discogs.com/vWbSMwSH9Ix3fp3hG7ZT_ptV8lrxyBlWg3A_oea3knE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzAtMTMxOC5wbmc.jpeg"
+    - "https://i.discogs.com/LOQKr-K9tUk1R_XSXYS5TohG-irj1Wjh9nfzmzRnrG0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzAtNzczNS5wbmc.jpeg"
+    - "https://i.discogs.com/bZOVeQciBgN1DfXlAwEzhhbpKzNQGUZEnbJkEeac1nc/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzAtNTEzMC5wbmc.jpeg"
+    - "https://i.discogs.com/jZFvvqUiLnIOgKIwBkyrKoJSRiQPEpdA-sWwpl0ZDqQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY0/NzMwLTE2MjYwOTEw/NzEtNTY5NC5wbmc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Ambient", "Drone", "Deep Techno"]
 ---
@@ -30,20 +40,12 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leviathan/1566407448" >}}
-
-
-
-
-
 ## Videos
 ### The Grid / Fripp - Empire
 {{< youtube id="pR9Ig8JhffE" title="The Grid / Fripp - Empire" >}}<br>
-
 ### More Videos
 
 - [The Grid / Fripp - Milkwood](https://www.youtube.com/watch?v=P_oQuB49VnA)
@@ -55,13 +57,15 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 - [The Grid / Fripp - Zhora](https://www.youtube.com/watch?v=9ClPw6JWGPM)
 - [The Grid / Fripp - Sympatico](https://www.youtube.com/watch?v=MinRXsxINRg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [The Grid - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |
-| Label          | Discipline Global Mobile |
 | Format         | Vinyl 2× LP Album (200g) |
+| Label          | Discipline Global Mobile |
 | Catalog Number | DGMLPX102 |
 | Notes | Gatefold sleeve     |
+| Discogs URL    | [The Grid - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |

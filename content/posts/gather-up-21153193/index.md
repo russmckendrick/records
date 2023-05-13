@@ -10,6 +10,37 @@ cover:
     image: "gather-up-21153193.jpg"
     alt: "Gather Up by Matt Berry"
     caption: "Gather Up by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/v-f-8R42hAao7msh81LNeRzNVMhb2QJZwokintkoI3c/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtNjE1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/JzRTJ-7PY1RQwRnIuRjdZGOmIWRQkK1Xue5ZLxbC2QY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtNzU4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/PpbFSDz25tC4CZ_JNTXiuXxexod-K6o86maJW-mATdo/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MTgtNzQxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/hZtwQbvVXBiMN_yGdjHz4hiEulIDzzZ38qql5VdA-cY/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTAtOTMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ADxJlyOCj4FU45Ty4gdjcHTFAPtC1vf9ZoD55lWewKY/rs:fit/g:sm/q:90/h:896/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDcw/MTYtNDA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/0ZyEWL4kB3jn4yqQA0u2XBdFO31xQ_mgpn_bWHhTEFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDcw/MTgtMzQxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/nrvafa8SczZM1yivouXobKzf9IaCR1RvMfSq45WK0P4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtODE4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/BXPybbgK915sN9ys_jr9EoXfW9VWqUKSgkFq2GqkhMM/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtOTU1My5qcGVn.jpeg"
+    - "https://i.discogs.com/WFYbSAX_ayFb22ieaKGDGrE9-JJhAmdQc5hp_POeCKQ/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtMjMyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/RPyfZfutElQpj76ziOXTbwJZTBfepu3mgkKrfsCyL08/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtMjc3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/7w5O10-O1TO5csjsJc71QTd-1ce7ZmqB8bbZ63z7Prc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtMzczMC5qcGVn.jpeg"
+    - "https://i.discogs.com/JclWkGT1txBo2raQgyAh2UYZPMzhJ20H2PZCagcEzxg/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtNjQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/aP9tcP91jVqkUtHLWl_wPmrEwPP_Xh-i5WpRyfIH9Co/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTMtNDg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/g9EI05LQR43ialD4Hz_wSZMpLjv8UA4Mdc9ruqnrxLA/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDYz/OTQtNDA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ZCGiqSlPY-WUTaA9XXGYjWdfTSV9RTDpZiP3rwxKOUs/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MTktMTY3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/M6LZhIBawtvDZCgoP_QWJq8YHJ_X3eYnOrrHLB52h24/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjAtODQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/SfXAVQJPD3Mbjgcn5jJa0JwPp6nn_bot6zptkSUYTco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtOTI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/4UaiXYVPPYUS7_TSHeYaQG9XFFFi9M24jD0s4PL_vYI/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtMjQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/-QLll1Pka_FI59OhXvPEu4reSqsrsxFzvdnZEqIkJpA/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtMTAyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Hr-z7ttSKpaqr9x57n0sZWlXInx_Lp7yv0XZpvTB2y4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjAtNjk3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/WlHQXf33pIFfPpLgYvQGwo47AQ-HL2yEDg1XSyXbBrA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtMjI5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1G9HofuM_G2qeE7JpjuBJwaM__3IODsK7CBPurnPSRc/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtNTg4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/f5m-uspsNeDG1uMVgBbOVYarVanUnr4jTXn-Q2HLU8E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjAtNDE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/rE6xIX0zLSn8yuY0nIJolwsvyD7HeMum1FDYfldejXE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MTktNjA5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ygT8ms1cRiMPmxL86XPPKsblIQWvb7Ps6cBYRG99Ze8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtNDczOS5qcGVn.jpeg"
+    - "https://i.discogs.com/Bhyyu15J6839zJTVWjkrSBCjOFG_KXNmvOJMeG5z8Og/rs:fit/g:sm/q:90/h:648/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDY3/MjEtNzk1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/kw4jE3lzbSTGkql5kbjq-1aRNQb5kVuUfNXqrUXEL4A/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDcw/MTYtMjA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/2wch5Z26wjmmonlUELvVZ9GGlapE5EaO4bnjAb-l8wE/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDcw/MTctMTA5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/qsOC1P2GYte-tkvlux0C8K6M6Mdsn8ogXyiKr2B8UPI/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDcw/MTctMTkyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/NzeAB2P8kcBo2FjnByuzEp8nrz9YZwP_EDtd5R9VQ7g/rs:fit/g:sm/q:90/h:663/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUz/MTkzLTE2MzgxMDcw/MTYtNTgxNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
@@ -76,32 +107,26 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}
-
-
-
-
-
 ## Videos
 ### Gather Up
 {{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>
-
 ### More Videos
 
 - [Matt Berry - Gather Up (Ten Years On Acid Jazz)](https://www.youtube.com/watch?v=LhXrLO8oMLs)
 - [The Pheasant (Live)](https://www.youtube.com/watch?v=zMKikkZX4qQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Matt Berry - Gather Up](https://www.discogs.com/release/21153193-Matt-Berry-Gather-Up) |
-| Label          | Acid Jazz |
 | Format         | Vinyl 5× LP Compilation, Box Set Limited Edition |
+| Label          | Acid Jazz |
 | Catalog Number | AJXBOX605 |
 | Notes | LP Boxset is limited to only 1,500 copies  The LP box set features: Five LPs Two original Matt Berry artwork prints A signed certificate of authentication by Matt Berry 64-page hardback book, with extensive sleevenotes by journalist Chris Catchpole, exclusive photographic archive of Matt’s 10 years on Acid Jazz, including previously unseen images, album cover contact sheets and more.  Discs one and two, Gather Up Part 1 and Part 2, pulls together an excellent 21-track career spanning collection expertly compiled by Berry (also available as a separate, standalone release on 2LP or single CD), including non-album tracks such as ‘Snuff Box Theme’. No easy achievement considering the sheer breadth, diversity and volume of his exceptional musical output.  Disc three in the set is a selection of rare and never heard before outtakes. It includes cuts from Berry’s 2010 Myspace EP ‘Summer Sun’; outtakes from the Witchazel and The Blue Elephant albums; the ‘Catch Me In Time’ track featuring soul legend Geno Washington; a wonderfully raw and impassioned live radio session version of ‘Take My Hand’ featuring Cecilia Fage; embryonic versions of album tracks, and much more.  Disc four, Phantom First, comprises demo recordings of some songs which did and did not evolve into the Phantom Birds album. A fascinating listen, familiar melodies wrong-foot the listener, revealing Berry’s working process, involving different track titles and completely different lyrics. Fittingly so, considering Bob Dylan’s influence on this album.  Disc five, Live At A Festival, features five songs recorded over three festivals In 2015, including The Green Man Festival in the Brecon Beacons. Backed by his exceptional band The Maypoles – featuring The Bluetones’ Mark Morriss on guitar - Berry and his well-drilled band deliver a stonking and urgent, folk-psych driven set, including the storming opener of Kill The Wolf’s ‘Medicine’ into a heavy, fuzzy version of Witchazel’s ‘So Low’. |
+| Discogs URL    | [Matt Berry - Gather Up](https://www.discogs.com/release/21153193-Matt-Berry-Gather-Up) |

@@ -10,6 +10,18 @@ cover:
     image: "begin-to-hope-8394522.jpg"
     alt: "Begin To Hope by Regina Spektor"
     caption: "Begin To Hope by Regina Spektor"
+additional_images:
+    - "https://i.discogs.com/LpqUeD7_Uou77k3y3NaHGcDgQdRn68YYEkO-ufM4_JU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MDc3NDcy/OC0xNTA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/esgfe73JobeLvYCxXgqqk46qN_Qzqqs6dm_zAE_OtLk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTcz/MS0xNTkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/P-1itxV9ztDhUqNFq2KZIQ1o_asOzIuNQNt4yJv7AH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTcz/Ni02NzQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/8tnk1LmIfw_5olB5b0YgIuYmHMExykdrio7abD_8L0k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTcz/OC05MjEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/bekZiHdkhQRMyxcq7g0u6hcvpGXxdJr5AHujZ2qjqJQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi05Mzk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/PKz2o2kA9eWJiOBP6hHmFzAR6a5QcxAzpXie7u58NW0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi02Njk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/c_Q3FossLm-7H41sYY9hlJJdF4zXUpPhEfh5CzwD2sY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi00MjI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/WrAWOpgP9OJK1Penr-3BmYvZdsnMJxvMuT4Sxflfo9o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Ny0zMjY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/KCKRGW-8yJWUWMKyxNqWbOMT1sHJDD55KoQ1MOdMVpU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTc2/Ni0zMjAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/DOtW1X4rUc1mbK2aGH00F-iyyv5fI_9kezNmdWGlMZA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTc2/Ny00ODcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/SKo09STtQCF7ev9l_iXZPaG106Viy8psljHspLS7A3w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi03NTYyLmpwZWc.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
@@ -43,20 +55,13 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-
-
-
+Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/begin-to-hope-bonus-track-version/157820746" >}}
-
-
-
-
-
 ## Videos
 ### Regina Spektor - On The Radio [Official Music Video]
 {{< youtube id="tHAhnJbGy9M" title="Regina Spektor - On The Radio [Official Music Video]" >}}<br>
-
 ### More Videos
 
 - [Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)](https://www.youtube.com/watch?v=To7sRUSb6NA)
@@ -65,13 +70,17 @@ styles: ["Indie Pop"]
 - [Regina Spektor - Samson [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
 - [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Begin_to_Hope |
+| Wikipedia Summary | Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522-Regina-Spektor-Begin-To-Hope) |
-| Label          | Sire |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition (10th Anniversary Edition, Gatefold) |
+| Label          | Sire |
 | Catalog Number | 553891-1 |
 | Notes | 10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies. |
+| Discogs URL    | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522-Regina-Spektor-Begin-To-Hope) |

@@ -10,6 +10,14 @@ cover:
     image: "who-s-zoomin-who-895574.jpg"
     alt: "Who's Zoomin' Who? by Aretha Franklin"
     caption: "Who's Zoomin' Who? by Aretha Franklin"
+additional_images:
+    - "https://i.discogs.com/vXdn9pFf2fITC92Zmiw4whLYnRUNwIKf9PrYnj8cKWE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xMTcyOTUzNzA2/LmpwZWc.jpeg"
+    - "https://i.discogs.com/_PP4nmECxiz_RIhRaOBpjresFd8PzA7rO4Qd_xpWA-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xMTcyOTUzNzE2/LmpwZWc.jpeg"
+    - "https://i.discogs.com/vVluHGnwVu3WTK_QAzdGMyepVir0im7nVDTXHjoHYHM/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xNDg5MzI5MTM2/LTIzMzkuanBlZw.jpeg"
+    - "https://i.discogs.com/9RaudZhYp7etBD8O2Ja7ZPp3QeG8dXQBS7-_yfVKJ9E/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xNDg5MzI5MTYy/LTE5MDEuanBlZw.jpeg"
+    - "https://i.discogs.com/fcBVVdjFI1piNj9XwbM1oSa1nDY4SwPLUgKa4J1JWT8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xMTkzOTk4NTMy/LmpwZWc.jpeg"
+    - "https://i.discogs.com/ttxnZ7Nfx9pDoRTfp2L9-oQ91SAjJupVW8FpGZwv4NU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xNDk3MDAzMzQ2/LTgzNjUuanBlZw.jpeg"
+    - "https://i.discogs.com/6Jx3DKpLbOfjgwD_6ITIzHk0JiE4JcYEGJUEYIeafKM/rs:fit/g:sm/q:90/h:366/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTU3/NC0xNDEzOTg2MDU1/LTg1MTYuanBlZw.jpeg"
 genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Synth-pop", "Soul"]
 ---
@@ -30,20 +38,12 @@ styles: ["Disco", "Synth-pop", "Soul"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052" >}}
-
-
-
-
-
 ## Videos
 ### Integrity
 {{< youtube id="wOse0WM-6c4" title="Integrity" >}}<br>
-
 ### More Videos
 
 - [Sisters Are Doin’ It For Themselves [Ft. Aretha Franklin] (Official Video)](https://www.youtube.com/watch?v=drGx7JkFSp4)
@@ -57,13 +57,15 @@ styles: ["Disco", "Synth-pop", "Soul"]
 - [Ain't Nobody Ever Loved You](https://www.youtube.com/watch?v=hoea1s3PY_8)
 - [Push](https://www.youtube.com/watch?v=FJprsu2VaWM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1985                                   |
-| Discogs Link   | [Aretha Franklin - Who's Zoomin' Who?](https://www.discogs.com/release/895574-Aretha-Franklin-Whos-Zoomin-Who) |
-| Label          | Arista |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Arista |
 | Catalog Number | 207 202 |
 | Notes | B1: Duet with The Eurythmics B4: Duet with Peter Wolf  Came with printed inner sleeve. (P) & (C) 1985 Arista Records  [On labels]: Orig. Sound Rec. made by Arista Rec. Inc. ℗ © 1985 Arista Records Inc.  [On runout groove]:  Mastering/processing method: Direct Mastering [DM].  Some copies were released with a sticker. |
+| Discogs URL    | [Aretha Franklin - Who's Zoomin' Who?](https://www.discogs.com/release/895574-Aretha-Franklin-Whos-Zoomin-Who) |

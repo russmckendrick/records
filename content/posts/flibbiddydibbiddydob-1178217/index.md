@@ -10,6 +10,11 @@ cover:
     image: "flibbiddydibbiddydob-1178217.jpg"
     alt: "Flibbiddydibbiddydob by Snuff"
     caption: "Flibbiddydibbiddydob by Snuff"
+additional_images:
+    - "https://i.discogs.com/kZko8an_EYZXFQEpNj4QnwiDdJLJLflh0DmBe0BNHOU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgy/MTctMTY2Mzc1NjM2/Mi04Njg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/HYlU-KTg0rnBo-Eq3qabCgiSMzqhA0vCu4NkKL4gb_Q/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgy/MTctMTY2Mzc1NjM2/Mi00Njg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/rZOzGg4meWZvTfteV00FOZbXxZhs9QTlbwFvPo2YfBA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgy/MTctMTQzNTc1MDE4/Ny05NjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/RNPnNllb8SOwZo6qh6xgt_8bzHKBFsWT2rf92RgfGfo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgy/MTctMTQzNTc1MDE5/MC0yNjU0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Punk"]
 ---
@@ -32,16 +37,10 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Snuff-Flibbiddydibbiddydob(full album)
 {{< youtube id="Mx_z6vLGOrg" title="Snuff-Flibbiddydibbiddydob(full album)" >}}<br>
-
 ### More Videos
 
 - [SNUFF : IN SICKNESS AND IN HEALTH](https://www.youtube.com/watch?v=1pNbgXR7NlA)
@@ -50,13 +49,15 @@ styles: ["Punk"]
 - [Do nothing-Snuff](https://www.youtube.com/watch?v=JzZ3PLXl__o)
 - [SNUFF - A HAZY SHADE OF WINTER](https://www.youtube.com/watch?v=RfNWt6aGsog)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1990                                   |
-| Discogs Link   | [Snuff - Flibbiddydibbiddydob](https://www.discogs.com/release/1178217-Snuff-Flibbiddydibbiddydob) |
-| Label          | Workers Playtime |
 | Format         | Vinyl 12" 45 RPM Mini-Album |
+| Label          | Workers Playtime |
 | Catalog Number | Play 11T |
 | Notes | Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.    Cat# Play 11T appears on spine and back cover.  Cat# PLAY 11T appears on labels.    ℗1989 Workers Playtime (On Back Cover)  ℗ Workers Playtime 1990 (On Labels) |
+| Discogs URL    | [Snuff - Flibbiddydibbiddydob](https://www.discogs.com/release/1178217-Snuff-Flibbiddydibbiddydob) |

@@ -10,6 +10,9 @@ cover:
     image: "the-best-of-big-star-10568074.jpg"
     alt: "The Best Of Big Star by Big Star"
     caption: "The Best Of Big Star by Big Star"
+additional_images:
+    - "https://i.discogs.com/wytyONwmGQS14oSVxjH_m2gda8jxffCeyqHFNZwCjws/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MDc0LTE1MDAwNTI1/NDgtNDAyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/jtN4DJPuoYZNjR4DUOj6_VzR4pl89V0GgOfnj1AWd5c/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MDc0LTE1MDAwNTI1/NTEtMjU3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
@@ -37,23 +40,20 @@ styles: ["Power Pop", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-big-star/1442996836" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Big Star - The Best Of Big Star](https://www.discogs.com/release/10568074-Big-Star-The-Best-Of-Big-Star) |
-| Label          | Stax |
 | Format         | Vinyl 2× LP 45 RPM Compilation |
+| Label          | Stax |
 | Catalog Number | 0888072022133 |
 | Notes | Jacket incorrectly lists as Andy Hummel as the writer of "O, My Soul", which was in fact written by Alex Chilton. |
+| Discogs URL    | [Big Star - The Best Of Big Star](https://www.discogs.com/release/10568074-Big-Star-The-Best-Of-Big-Star) |

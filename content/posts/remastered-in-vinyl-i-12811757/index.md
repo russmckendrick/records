@@ -10,6 +10,15 @@ cover:
     image: "remastered-in-vinyl-i-12811757.jpg"
     alt: "Remastered In Vinyl I by Kate Bush"
     caption: "Remastered In Vinyl I by Kate Bush"
+additional_images:
+    - "https://i.discogs.com/6ssxcVaPF_pRzlNa_Y_dp-Iw5EJlyPm7VI4sKNi-PEg/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDUxNTM0/NjUtMzA5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/PIkQtNIhj4nhwYYvH07HzLF5l8Yonz6_1mLq4tyQl_Q/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDUxNTM0/NjYtNjIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/6cIAq2J0uKp6uhQ5B_HIzeNs7PBtFXCb3PEvPnSSmZ0/rs:fit/g:sm/q:90/h:3803/w:373/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDI3MjI0/MzItNDAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/7v6c7L1XfqkHIeLHDJAgiHbAO7z1vCs5d4HMsteYb6U/rs:fit/g:sm/q:90/h:376/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDI2MTky/NTAtNjMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/LGNc39132PifT4dT5pBYjz_uZrLyDIGCs2iVBh6lNZA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MTItNDgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/l9_7UbAJNHRVpOh5Aiz0OIRygrH_q0Q0IHG2JWzIZi8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MjMtMjE4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Dt2L37TdjKGM9lUqv68uJmrvMjasYUmlyC6w4CLIwOY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MzEtNjg4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/EvOf266X4kQzPxgChbV7wYbuxdJw_-UbieT2_BCglNo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MzgtODE2NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
@@ -69,24 +78,21 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Kate Bush / 2018 remasters unboxing video
 {{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Kate Bush - Remastered In Vinyl I](https://www.discogs.com/release/12811757-Kate-Bush-Remastered-In-Vinyl-I) |
-| Label          | Fish People |
 | Format         | Vinyl LP Album Misprint Reissue Remastered, Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered, Box Set Compilation (180 Gram) |
+| Label          | Fish People |
 | Catalog Number | 0190295593964 |
 | Notes | 4 x remastered LP release in stickered card box.  'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'. |
+| Discogs URL    | [Kate Bush - Remastered In Vinyl I](https://www.discogs.com/release/12811757-Kate-Bush-Remastered-In-Vinyl-I) |

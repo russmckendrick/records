@@ -10,6 +10,9 @@ cover:
     image: "the-best-of-chapterhouse-14377153.jpg"
     alt: "The Best Of Chapterhouse by Chapterhouse"
     caption: "The Best Of Chapterhouse by Chapterhouse"
+additional_images:
+    - "https://i.discogs.com/R97tvMyGD2aRh8M0RNxCxW4k58ExdlCMSNFtiksKVKM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc3/MTUzLTE1NzMzMDcw/NzAtMjA2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/CcwqOUa56vE8YJu05a0aHn9oL0RI3BhzqmYZkVHJaXM/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc3/MTUzLTE1NzMzMDcw/NzUtNDc1Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
@@ -36,28 +39,23 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852" >}}
-
-
-
-
-
 ## Videos
 ### There's Still Life
 {{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Chapterhouse - The Best Of Chapterhouse](https://www.discogs.com/release/14377153-Chapterhouse-The-Best-Of-Chapterhouse) |
-| Label          | Sony Music |
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple & Pink Marble) |
+| Label          | Sony Music |
 | Catalog Number | MOVLP2568 |
 | Notes | Limited edition of 1500 copies |
+| Discogs URL    | [Chapterhouse - The Best Of Chapterhouse](https://www.discogs.com/release/14377153-Chapterhouse-The-Best-Of-Chapterhouse) |

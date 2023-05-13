@@ -10,6 +10,10 @@ cover:
     image: "the-raw-the-cooked-16531191.jpg"
     alt: "The Raw & The Cooked by Fine Young Cannibals"
     caption: "The Raw & The Cooked by Fine Young Cannibals"
+additional_images:
+    - "https://i.discogs.com/UzYmB-DYgox9fI0rbKzY2lRGDFG_HNheWN07jUvFFq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMx/MTkxLTE2MDgzMTc1/MzktNzU2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/xUREXz836RFOEdTQ-ERURwzzAZ0ge38e2ZWeZpD3yA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMx/MTkxLTE2MDgzMTc1/NDItOTc5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZBQcr-5ego8VR6WK4p2iCRUkndMeuahxcpMGb30BNFk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMx/MTkxLTE2MDgzMTc2/OTMtNzY5My5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
@@ -31,20 +35,12 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-raw-the-cooked/1313940401" >}}
-
-
-
-
-
 ## Videos
 ### Fine Young Cannibals - The Raw And The Cooked (Full Album)
 {{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}<br>
-
 ### More Videos
 
 - [Fine Young Cannibals - She Drives Me Crazy  (Official Video)](https://www.youtube.com/watch?v=UtvmTu4zAMg)
@@ -65,13 +61,15 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/16531191-Fine-Young-Cannibals-The-Raw-The-Cooked) |
-| Label          | London Records |
 | Format         | Vinyl LP Album Reissue Remastered (White, Gatefold) |
+| Label          | London Records |
 | Catalog Number | LMS5521363 |
 | Notes | Anniversary Edition Reissue on White Vinyl within Gatefold Sleeve. Includes download featuring rare & unreleased tracks. 32 tracks total in MP3 - 320 Kbits/s quality.  Initial copies from the artist's store came with a signed print |
+| Discogs URL    | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/16531191-Fine-Young-Cannibals-The-Raw-The-Cooked) |

@@ -10,6 +10,10 @@ cover:
     image: "hurricane-esmeralda-11512973.jpg"
     alt: "Hurricane Esmeralda by Moonparticle"
     caption: "Hurricane Esmeralda by Moonparticle"
+additional_images:
+    - "https://i.discogs.com/ttmOhzfuiIP6rz3oRh00-SpoDUsBI7cHoHj4j_vJdZE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEy/OTczLTE1MTc2NzQw/ODYtNzM2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/qj7v02nSPjCmzxnj6U12XtWCUXRybFUyJ3B4G1Zcq5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEy/OTczLTE2MTQ0Mzgz/NTMtODQyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/wze7TgEtaV4kXf2wNQvd1yHMbgAoMl3z7OOd2Q2P_yc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEy/OTczLTE2MTQ0Mzg0/MDctNzg1Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
@@ -30,28 +34,23 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hurricane-esmeralda/1314469704" >}}
-
-
-
-
-
 ## Videos
 ### MOONPARTICLE  - Michelangelo Don't Stop (2018).
 {{< youtube id="ueh4etEh_Zg" title="MOONPARTICLE  - Michelangelo Don't Stop (2018)." >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Moonparticle - Hurricane Esmeralda](https://www.discogs.com/release/11512973-Moonparticle-Hurricane-Esmeralda) |
-| Label          | Plane Groovy |
 | Format         | Vinyl LP Album Limited Edition Stereo |
+| Label          | Plane Groovy |
 | Catalog Number | PLG063 |
 | Notes | Limited edition of 300 copies. |
+| Discogs URL    | [Moonparticle - Hurricane Esmeralda](https://www.discogs.com/release/11512973-Moonparticle-Hurricane-Esmeralda) |

@@ -1,6 +1,7 @@
 ---
 title: "Blind Melon"
-summary: "American rock band best known for their 1992 hit \"No Rain\". Lead singer Shannon Hoon died from drug overdose in 1995."
+summary: "Blind Melon is an American rock band formed in 1990 in Los Angeles by five musicians: three from Mississippi, one from Pennsylvania and one from Indiana. The band currently consists of guitarists Rogers Stevens and Christopher Thorn, drummer Glen Graham, vocalist Travis Warren and bassist Nathan Towne. They are best known for their 1993 hit \"No Rain\", and enjoyed critical and commercial success in the early 1990s with their neo-psychedelic take on alternative rock. The band has sold over 3.2 million albums in the United States as of 2008.Blind Melon released two albums on Capitol Records – Blind Melon and Soup – before their original lead vocalist Shannon Hoon died of a drug overdose on the band's tour bus in New Orleans on October 21, 1995. After four years of unsuccessfully searching for a replacement for Hoon, Blind Melon officially dissolved in 1999. The remaining members reformed the band in 2006 with Warren and recorded one album with him, For My Friends . Shortly after its release, Warren left Blind Melon but returned in 2010, when the band returned to performing occasional gigs. Blind Melon is currently working on their fourth studio album. The group have been nominated for four Grammy Awards."
 image: "blind-melon.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/blind-melon/533032"
+wikipedia_url: "https://en.wikipedia.org/wiki/Blind_Melon"
 ---

@@ -11,6 +11,19 @@ cover:
     image: "we-23120624.jpg"
     alt: "We by Arcade Fire"
     caption: "We by Arcade Fire"
+additional_images:
+    - "https://i.discogs.com/vGEoZ6yPb7yTg2bH4Z_dfwkOtOSqJMEatj4maoJDthc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI1Mjgy/MzYtNjkyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/dY59h-BbojfHVwZ9m-aeX5cpIUG5uYPTSiYLHvkPr4Y/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI4MTc5/MjYtNjIwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/aGWv_c91POcdj_aCnxXD8W4APJDbZVPzc2k3063vfrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTE4NDA4/ODQtMzAyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Sw0acXIo9Jm5RIFbU1b_Z76oEpzDIYmD1nm2zkkh6rU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI4MTc5/MjctNzMwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/5kMd4GF-yZkVINkwGA4SzKVQeGy3gzoUO0BlLCXQ1u4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI4MTc5/MjQtODM1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/J1jbZEtySklIxC87xO4wdhvuBQrd9apF5L0L-GT17PU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTE4NDA4/ODMtMzEzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/_VmJvpe-h5Yxhiya94CvnjC8iHTnHK6w_mOtNmuK3-g/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTE4NDA4/ODQtODMzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/j9SctXGZFU7PtcVEwtxZTn47HV_Ri_xfHED5XTfQtCc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTE4NDA4/ODQtOTU1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/6V3S0cnrj7rQLgfGSUU6qhLVsxkqLOAfysas1StuQP8/rs:fit/g:sm/q:90/h:840/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI4MTc5/MzEtMjIwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/qDURbIPaCtOO2sHGpKlF1DifFgwfYlr_UyrBcJAX_qg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI4MTc5/MjMtODc2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/dYSyvzYo7Oanz1V315h5lqWEkzvoYmdOtqzWjLYgCh0/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTI5Nzcy/MzUtNjE1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/pLuOLl74Fwy_jR44P5BgCnavtuyL63SV5cWYodZkejs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/NjI0LTE2NTE4NDA4/ODQtNDI2Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -28,7 +41,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 7. We
 
 <!-- section break -->
-
 
 It has nearly become a cliché unto itself for so many albums released in 2021 and 2022: an accomplished work of art that perfectly articulates themes of isolation and desperation and fatalism, only for the artists to reveal that the songs that express these ideas most acutely were written <i>before</i> the pandemic. “It was already sort of all in the world,” Arcade Fire’s Win Butler tells Apple Music’s Zane Lowe. “In order to write music, you have to have this antenna up that kind of picks up little signals from the future and signals from the past. And so I think a lot of times we're just getting these like aftershocks of things that are about to happen.”
 
@@ -48,20 +60,12 @@ It has nearly become a cliché unto itself for so many albums released in 2021 a
 
 <b>“WE”</b>
 “I think the journey of the record, the first half is: Imagine this character's like, 'Get me the F out of here, get me off this planet, get me out of my own skin, get me away from myself. I don't want to be here.' It's anxiety and it's depression and it's heaviness, it's the weight of the world. And he looks at this black hole like, 'Well, maybe if I could get through that black hole, that would be far enough away.' And when he gets there, he finds that it's himself and it's everyone he ever loved and the lives of his ancestors. There's nothing to escape, because it's all the same thing anyway. Stories and films are always building towards this big conclusion and then the credits roll. And to me, the sentiment is, 'Let's just fucking do it again, with all of it—all the pain, all the loneliness, all the sadness, all the heartbreak. I just want to do it over and over again. Just run it back.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we/1613566080" >}}
-
-
-
-
-
 ## Videos
 ### Age of Anxiety I
 {{< youtube id="IH_qgFWOg2I" title="Age of Anxiety I" >}}<br>
-
 ### More Videos
 
 - [Age of Anxiety II (Rabbit Hole)](https://www.youtube.com/watch?v=SR9kwm5iF8Y)
@@ -72,13 +76,17 @@ It has nearly become a cliché unto itself for so many albums released in 2021 a
 - [Arcade Fire - Unconditional II (Race and Religion) (Official Audio) ft. Peter Gabriel](https://www.youtube.com/watch?v=dXGUMVoOPlk)
 - [Arcade Fire - WE (Official Audio)](https://www.youtube.com/watch?v=X4MHYNGmqng)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
-| Discogs Link   | [Arcade Fire - We](https://www.discogs.com/release/23120624-Arcade-Fire-We) |
-| Label          | Columbia |
+| Wikipedia URL | https://en.wikipedia.org/wiki/We_(Arcade_Fire_album) |
+| Wikipedia Summary | We is the sixth studio album by Canadian indie rock band Arcade Fire, released through Columbia Records on May 6, 2022. Produced by Nigel Godrich and band members Win Butler and Régine Chassagne, it was recorded in studios in New Orleans; in El Paso, Texas; and on Mount Desert Island in Maine. The album takes its name from the Russian dystopian novel We by Yevgeny Zamyatin. It was the final album by Arcade Fire to feature multi-instrumentalist Will Butler, who departed the band in 2022.<br>Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)", We received generally positive reviews from music critics and achieved moderate commercial success. It debuted at number six on the US Billboard 200 chart, earning 32,000 album-equivalent units (26,500 of which were sales of the full album) in its first week of release, and went to number one in the United Kingdom, Ireland, the Netherlands, and Portugal. The album was nominated for Best Alternative Music Album at the 65th Annual Grammy Awards. |
+    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Brown Marbled) |
+| Label          | Columbia |
 | Catalog Number | 19439971281 |
 | Notes | Limited pressing sold exclusively on Amazon and in Indie Stores. Packaged in an embossed gatefold sleeve with a gold foil hype sticker. Includes a printed inner sleeve, sticker and poster. |
+| Discogs URL    | [Arcade Fire - We](https://www.discogs.com/release/23120624-Arcade-Fire-We) |

@@ -10,6 +10,13 @@ cover:
     image: "god-fodder-781893.jpg"
     alt: "God Fodder by Ned's Atomic Dustbin"
     caption: "God Fodder by Ned's Atomic Dustbin"
+additional_images:
+    - "https://i.discogs.com/K0V6fZvbOgerYplGx_Yem6rUwKGSV8k0KBMeUh5un8I/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTg5/My0xMTkzOTEzNTIx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/3hxKNicuQdZKiN0SdfNiGpFrB-OnYNMkyuSB3tsNcTY/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTg5/My0xMTkzOTEzNTQy/LmpwZWc.jpeg"
+    - "https://i.discogs.com/oZnWchKEgOQwFoNq1uz1Y_qRrtsL8wCMDvgnGUVu4r0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTg5/My0xMTkzOTEzNTcw/LmpwZWc.jpeg"
+    - "https://i.discogs.com/_XrM0J8EwpupYRbRtuhEsK8rCpU3KA0cbJmjVBq_stw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTg5/My0xMTkzOTEzNTk1/LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ejl3DmGqCcIuiT5vhmpeWzApV38IM_mZrepcFBTH9BI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTg5/My0xMTkzOTEzNjE4/LmpwZWc.jpeg"
+    - "https://i.discogs.com/-LiD2yFgxJsfcl9yjBcAZqf-fOVZVDyjT7v2dUY5fBk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTg5/My0xMTkzOTEzNjQ1/LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Punk"]
 ---
@@ -34,20 +41,12 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-fodder/290933571" >}}
-
-
-
-
-
 ## Videos
 ### Neds Atomic Dustbin - Throwing Things - Live 1991
 {{< youtube id="1s2Yb3s0Zk4" title="Neds Atomic Dustbin - Throwing Things - Live 1991" >}}<br>
-
 ### More Videos
 
 - [Ned's Atomic Dustbin-Kill Your Television](https://www.youtube.com/watch?v=ZA2371iADS0)
@@ -72,13 +71,15 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 - [Ned's Atomic Dustbin-You](https://www.youtube.com/watch?v=xyOYwnTekOc)
 - [Ned's Atomic Dustbin-What Gives My Son?](https://www.youtube.com/watch?v=6ahrAlCt0L4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1991                                   |
-| Discogs Link   | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/781893-Neds-Atomic-Dustbin-God-Fodder) |
-| Label          | Furtive (2) |
 | Format         | Vinyl LP Album |
+| Label          | Furtive (2) |
 | Catalog Number | 468112 1 |
 | Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Comes with inner bag with lyrics, pictures and information.  Cat# 468112 1 appears on the spine, top left of the photo side of the insert and both labels. Cat# 468112-1 appears top right of back cover. 01-468112-20 appears bottom right of back cover. 01-468112.20 appears bottom right on the lyric side of the insert.  ℗1991 Sony Music Entertainment (UK) Ltd. ©1991 Sony Music Entertainment (UK) Ltd. |
+| Discogs URL    | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/781893-Neds-Atomic-Dustbin-God-Fodder) |

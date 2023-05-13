@@ -10,6 +10,15 @@ cover:
     image: "weezer-9296301.jpg"
     alt: "Weezer by Weezer"
     caption: "Weezer by Weezer"
+additional_images:
+    - "https://i.discogs.com/C-RQ2bD-DrB2Bv4-u_CkxiHZ0VD-_5oNdHOuYPIRr7k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTQ3ODEzOTAy/Ni00NDc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/ZusPE11ze_IURgW-K5zJnP0ThZCUrJadAPhk6gat81I/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTQ3ODEzOTAz/MC0xMjExLmpwZWc.jpeg"
+    - "https://i.discogs.com/-mgLhY4jnOFinTTABfNR89QZKtUSh7Kk368NW-7FUog/rs:fit/g:sm/q:90/h:531/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTU5OTc4ODE1/My03ODc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/yoA6vKLG35A8pSjHmSnGy7C858jaVvu6geIyrpEU8kY/rs:fit/g:sm/q:90/h:482/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTU5OTc4ODE2/My04MTMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/PVIv4JFiDLiGXDIHhA2PRmTj1PqMHKFrg1Wjm8TIFXo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTU5OTc4ODE0/My01OTI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/oH-liP-saxSYsPFSu30WlEZGfLZqfxP61NAyRA8e-Ag/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTU5OTc4ODEz/NC0xMTc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/biZ9F2GwP-TWKoqCOJ842sdysvFBQud5qkmaVzNe0Ds/rs:fit/g:sm/q:90/h:540/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTU5OTc4ODE3/Mi04MjI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/jc6swCar92gEBRXBwcLVsIgtseVLsrz7f6qYe9OJenQ/rs:fit/g:sm/q:90/h:552/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MDEtMTU5OTc4ODE4/OC0yNDk2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop", "Alternative Rock"]
 ---
@@ -31,32 +40,30 @@ styles: ["Power Pop", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.
+Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}
-
-
-
-
-
 ## Videos
 ### Weezer - Buddy Holly (Official Music Video)
 {{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Weezer - Say It Ain't So (Version 3)](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
 - [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Van_Weezer |
+| Wikipedia Summary | Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.<br>Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Weezer - Weezer](https://www.discogs.com/release/9296301-Weezer-Weezer) |
-| Label          | Geffen Records |
 | Format         | Vinyl LP Album Reissue Remastered |
+| Label          | Geffen Records |
 | Catalog Number | 00602547945396 |
 | Notes | 180 gram heavyweight vinyl. Includes download voucher. Includes fold out black and white poster/inlay.  Poster/Inlay: © 2004 Geffen Records.  Back cover: Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993 Remastered at Sterling Sound, NYC ℗ 2004 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU. |
+| Discogs URL    | [Weezer - Weezer](https://www.discogs.com/release/9296301-Weezer-Weezer) |

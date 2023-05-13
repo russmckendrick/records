@@ -10,6 +10,8 @@ cover:
     image: "after-the-rain-1841300.jpg"
     alt: "After The Rain by Nelson"
     caption: "After The Rain by Nelson"
+additional_images:
+    - "https://i.discogs.com/FWPPecPvQ7aMitxDgSlOWKfyRAAiz-gdS2aiaT0rHHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEz/MDAtMTUzMjYwMDgx/OC01MDAzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
@@ -33,20 +35,13 @@ styles: ["Hard Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+After the Rain is the debut album of the American rock group Nelson, released by DGC Records in 1990. The album was a commercial success, peaking at number 17 on the Billboard 200 and spending 64 weeks on the charts. It contained the #1 hit, "(Can't Live Without Your) Love and Affection" which was also a gold single. The follow-up single, "After the Rain", also reached the Hot 100's top 10, peaking at #6 in February 1991. The album was eventually certified double platinum by RIAA.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/after-the-rain-remastered/1443313013" >}}
-
-
-
-
-
 ## Videos
 ### Nelson – I Can Hardly Wait
 {{< youtube id="Nq4X0R7_FKc" title="Nelson – I Can Hardly Wait" >}}<br>
-
 ### More Videos
 
 - [Nelson - After The Rain](https://www.youtube.com/watch?v=bmywdJby43w)
@@ -54,13 +49,17 @@ styles: ["Hard Rock", "Pop Rock"]
 - [Nelson – (Can't Live Without Your) Love And Affection](https://www.youtube.com/watch?v=sYo7Pu7XPSU)
 - [Nelson - (Can't Live Without Your) Love And Affection [Official Video]](https://www.youtube.com/watch?v=x1W6-ErrHls)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/After_the_Rain_(Nelson_album) |
+| Wikipedia Summary | After the Rain is the debut album of the American rock group Nelson, released by DGC Records in 1990. The album was a commercial success, peaking at number 17 on the Billboard 200 and spending 64 weeks on the charts. It contained the #1 hit, "(Can't Live Without Your) Love and Affection" which was also a gold single. The follow-up single, "After the Rain", also reached the Hot 100's top 10, peaking at #6 in February 1991. The album was eventually certified double platinum by RIAA. |
 | Release Year   | 1990                                   |
-| Discogs Link   | [Nelson - After The Rain](https://www.discogs.com/release/1841300-Nelson-After-The-Rain) |
-| Label          | DGC |
 | Format         | Vinyl LP Album |
+| Label          | DGC |
 | Catalog Number | 7599-24290-1 |
 | Notes | Made in Germany |
+| Discogs URL    | [Nelson - After The Rain](https://www.discogs.com/release/1841300-Nelson-After-The-Rain) |

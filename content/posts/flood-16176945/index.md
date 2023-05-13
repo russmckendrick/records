@@ -11,6 +11,16 @@ cover:
     image: "flood-16176945.jpg"
     alt: "Flood by They Might Be Giants"
     caption: "Flood by They Might Be Giants"
+additional_images:
+    - "https://i.discogs.com/qUJsWslkmrnp5MJ1Zoyoeazhs5VHy9WRCtQrzzR7wHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTktNDcyOC5wbmc.jpeg"
+    - "https://i.discogs.com/5cz9FtKbsxZHm_l2kH7wZuA3CmMZkpVclPz2Zf2sZXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTctNTc5Mi5wbmc.jpeg"
+    - "https://i.discogs.com/IzkxDvWHLP1twY3nRD5H8BoZGDDHfM5gUhdSuPuWuQ8/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTUtNDc5Ny5wbmc.jpeg"
+    - "https://i.discogs.com/LWxRneHwb4HXCChhx5yd8l43Wt0RdvzFkuowxUN3cGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTgtNzYwNy5wbmc.jpeg"
+    - "https://i.discogs.com/T5P1nmtT0J8BHvwbVVO6Wo7DrE0CbqI_KiyV6pQwMo0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTYtNzIyMC5wbmc.jpeg"
+    - "https://i.discogs.com/2zEg6hzTJklPw46i1EdjDx5cvh1rDn1HcETASNl7jwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NjAtNTQ5OS5wbmc.jpeg"
+    - "https://i.discogs.com/XoBLlJ8LJusTKa-jHdfT_ble9cwJ5zhfAwU2whngjCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTctODEyMS5wbmc.jpeg"
+    - "https://i.discogs.com/Jak6IwYmHn4kzwgA6Sw9rSQM-1LE7KQU9vyWfq22fvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTktNjU0Ni5wbmc.jpeg"
+    - "https://i.discogs.com/xtl41mk9kZRUt8IBkQZPfhjRuSlHeW9ESarTBYOow1w/rs:fit/g:sm/q:90/h:704/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc2/OTQ1LTE2MDUwNTU2/NTYtNzUyOC5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
@@ -41,22 +51,15 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-It's pretty funny that two paeans to sloth are buried on this hard-working 19-song album, but that's hardly the only good joke on <i>Flood</i>, trickster duo They Might Be Giants' third album. (Try the title of "We Want a Rock.") Their first for Elektra, it finds the indie wunderkinds taking their omnivorous, only-half-kidding pop above ground. Four tracks produced by English hitmakers Clive Langer and Alan Winstanley (Elvis Costello, Madness) include a wry, genuinely touching missive from a nightlight  ("Birdhouse in Your Soul") and an obscure '50s geopolitical lesson ("Istanbul (Not Constantinople)"). Concept-sealing musical detail abounds, from the noisy party at which "Your Racist Friend" holds forth to the elegant statement from noise guitarist Arto Lindsay that ends "Hearing Aid."  Proof that TMBG's concepts traveled well even when separated from college-radio environs: <i>Flood</i> eventually went gold.
-
-
-
+Flood is the third studio album by Brooklyn-based alternative rock duo They Might Be Giants, released in January 1990. Flood was the duo's first album on the major label Elektra Records. It generated three singles: "Birdhouse in Your Soul", "Istanbul (Not Constantinople)", and the domestic promotional track "Twisting". The album is generally considered to be the band's definitive release, as it is their best-selling and most recognizable album. Despite minimal stylistic and instrumental differences from previous releases, Flood is distinguished by contributions from seasoned producers Clive Langer and Alan Winstanley. John Linnell and John Flansburgh also took advantage of new equipment and recording techniques, including unconventional, home-recorded samples, which were programmed through Casio FZ-1 synthesizers. The album was recorded in New York City at Skyline Studios, which was better equipped than studios the band had worked in previously.
+Promotion for Flood included television appearances, promotional videos, and an international tour. The album's mainstream promotion and success contributed to its status as the band's most well known album. Many fans, including young viewers of Tiny Toon Adventures, were first exposed to They Might Be Giants's music through Flood.
+The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 on the band's label, Idlewild Recordings.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flood/298111036" >}}
-
-
-
-
-
 ## Videos
 ### Theme from Flood
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}<br>
-
 ### More Videos
 
 - [THEY MIGHT BE GIANTS Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=vsQrKZcYtqg)
@@ -79,13 +82,17 @@ It's pretty funny that two paeans to sloth are buried on this hard-working 19-so
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/16176945-They-Might-Be-Giants-Flood) |
-| Label          | Music On Vinyl |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(They_Might_Be_Giants_album) |
+| Apple Music Summary | It's pretty funny that two paeans to sloth are buried on this hard-working 19-song album, but that's hardly the only good joke on <i>Flood</i>, trickster duo They Might Be Giants' third album. (Try the title of "We Want a Rock.") Their first for Elektra, it finds the indie wunderkinds taking their omnivorous, only-half-kidding pop above ground. Four tracks produced by English hitmakers Clive Langer and Alan Winstanley (Elvis Costello, Madness) include a wry, genuinely touching missive from a nightlight  ("Birdhouse in Your Soul") and an obscure '50s geopolitical lesson ("Istanbul (Not Constantinople)"). Concept-sealing musical detail abounds, from the noisy party at which "Your Racist Friend" holds forth to the elegant statement from noise guitarist Arto Lindsay that ends "Hearing Aid."  Proof that TMBG's concepts traveled well even when separated from college-radio environs: <i>Flood</i> eventually went gold. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Turquoise / White Marbled [Icy Mint], 180 gram) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP1239 |
 | Notes | Hype sticker: Limited numbered edition of 2,500 copies on icy mint coloured vinyl 180 gram audiophile vinyl  Gatefold sleeve. Poly-lined die-cut white paper inner sleeve.  Made in the EU. |
+| Discogs URL    | [They Might Be Giants - Flood](https://www.discogs.com/release/16176945-They-Might-Be-Giants-Flood) |

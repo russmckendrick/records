@@ -3,7 +3,6 @@ title: "Skin - Skin"
 artist: "Skin"
 album_name: "Skin"
 date: 2018-12-17T19:15:09.000000Z
-release_date: "2016-05-27"
 release_id: "3142113"
 slug: "skin-3142113"
 hideSummary: true
@@ -11,6 +10,12 @@ cover:
     image: "skin-3142113.jpg"
     alt: "Skin by Skin"
     caption: "Skin by Skin"
+additional_images:
+    - "https://i.discogs.com/p7fi06_ZhX-vwPeKqY9lT33iCLYrdW8s_I3_RSf1OJU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTUyMTEzODc2/MS02MDgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/-HA9HZQeKbW6Mg2wAhmFviopZ15X78P87S8CtslQ8B4/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTY1MjU2MTUy/MC03NTI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/XUfI7kGSt8GA96fpTnl5rJPfCfuBfJSftnmJolPJzgU/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTY1MjU2MTUy/Ni02MDI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/QmVMW4_8bgJR5c9vJobey6xHwqBFbGcShdDMrWw6o1s/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTY1MjU2MTUz/Mi02ODc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/ZpN6TpPE5ohpn-3r2f5PxRa_xisi56ispcP-BFKCD10/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTY1MjU2MTUz/OS00Nzg1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -33,33 +38,25 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-
-Entrancing electronica executed with utter confidence—and big pop hooks. Harley Streten’s dense production and can’t-teach radio-friendly choruses installed him as dance music’s fashionably brainy coming man, and this second album broadens his appeal and horizons. “Never Be Like You” is your starting point—a slinky, proper hit roughed up by Streten’s jabbing beats—but thanks to his cartel of collaborators, we’re spoiled. Kučka’s contributions provide some of the more halting moments, Raekwon is a devastatingly ominous presence (“You Know”), while Beck lends <i>Skin</i> its poised emotional climax on closer “Tiny Cities.”
-
-
-
+<br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/skin/1103321078" >}}
-
-
-
-
-
+{{< applemusic url="https://music.apple.com/gb/album/under-my-skin/533016327" >}}
 ## Videos
 ### Skin - Money
 {{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}<br>
-
 ### More Videos
 
 - [SKIN - Shine Your Light (1993)](https://www.youtube.com/watch?v=jkBX8h5P0No)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1994                                   |
-| Discogs Link   | [Skin - Skin](https://www.discogs.com/release/3142113-Skin-Skin) |
-| Label          | Parlophone |
 | Format         | Vinyl LP Album |
+| Label          | Parlophone |
 | Catalog Number | 7243 8 28869 1 4 |
 | Notes | Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |
+| Discogs URL    | [Skin - Skin](https://www.discogs.com/release/3142113-Skin-Skin) |

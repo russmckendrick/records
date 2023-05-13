@@ -10,6 +10,11 @@ cover:
     image: "affinity-17746783.jpg"
     alt: "Affinity by Haken"
     caption: "Affinity by Haken"
+additional_images:
+    - "https://i.discogs.com/NDshYEfz-YzD3ICN4Q7Vof-aslZSxMNfCy-lgiGRexo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ2/NzgzLTE2MTUxOTgx/ODEtMjA0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ceEZq8eECAwhnSLKw0UOioXCWqtTM4mvoTA3843K59M/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ2/NzgzLTE2MTUxOTgx/ODAtNTQ2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/G4pPv5Lif4YWNI-tV4s4sJlWFONIV397J-d9sXIHBU0/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ2/NzgzLTE2MTUxOTgx/ODEtOTc3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Vtv5PzLSHF27gtNEyWTvAgoEPZE450NmprZCJrXGCKM/rs:fit/g:sm/q:90/h:728/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ2/NzgzLTE2MTUxOTgx/ODEtNTg1Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
@@ -39,20 +44,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/affinity/1088398278" >}}
-
-
-
-
-
 ## Videos
 ### affinity.exe
 {{< youtube id="AvhjDInyGYQ" title="affinity.exe" >}}<br>
-
 ### More Videos
 
 - [HAKEN - Initiate (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-7pEXGCtnnk)
@@ -65,13 +62,15 @@ styles: ["Progressive Metal"]
 - [Haken - Bound By Gravity (with pics)](https://www.youtube.com/watch?v=wU6c9kBWABg)
 - [HAKEN - 1985 LIVE (Affinity Album)](https://www.youtube.com/watch?v=LMQoJDWGBVs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Haken - Affinity](https://www.discogs.com/release/17746783-Haken-Affinity) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 579 |
 | Notes | Gatefold sleeve. Black vinyl version.  LP tracks position given with 0s on back. |
+| Discogs URL    | [Haken - Affinity](https://www.discogs.com/release/17746783-Haken-Affinity) |

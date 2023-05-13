@@ -10,6 +10,9 @@ cover:
     image: "the-hipsters-5167648.jpg"
     alt: "The Hipsters by Deacon Blue"
     caption: "The Hipsters by Deacon Blue"
+additional_images:
+    - "https://i.discogs.com/US_vD1wFrXfexDtLQHu19ax4jKv2QTxIkL9-lIEbxxk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjc2/NDgtMTM5MDMzODk2/OS03NzQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/VHplQga-rfIXTePOMSL1tot8Aa7MuRSRffjT9hEJR8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjc2/NDgtMTM5MDMzODk3/OS02MzEyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -32,23 +35,20 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2013                                   |
-| Discogs Link   | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648-Deacon-Blue-The-Hipsters) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album (Yellow Transparent ) |
+| Label          | Demon Records |
 | Catalog Number | DEACONLP001 |
 | Notes | ℗ & © 2012 Demon Music Group Ltd.    Includes code for free MP3 download of the album. |
+| Discogs URL    | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648-Deacon-Blue-The-Hipsters) |

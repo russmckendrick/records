@@ -10,6 +10,11 @@ cover:
     image: "the-drifters-golden-hits-1250865.jpg"
     alt: "The Drifters' Golden Hits by The Drifters"
     caption: "The Drifters' Golden Hits by The Drifters"
+additional_images:
+    - "https://i.discogs.com/gdEpV42l41UENDV-gGfm1xYxVLU8VvD4R4XDqpeCu94/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTI0NzMwMzMx/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/59gCdKQ--VsXxuX92_bWEApTklC-Xwrve8NMbqDGskc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAx/OC00OTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/FBlR5TkCQoOl4TTqkfgL5hgVgW-VhoWMEeqXc9lqSTA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAy/My03Mjk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/_P0oWmGQj0P8MKd1d-uBSQ5PWiWUe-53PKqj6vLo_74/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAy/OC05NDUxLmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
@@ -33,20 +38,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-drifters-golden-hits-mono/1566599254" >}}
-
-
-
-
-
 ## Videos
 ### The Drifters - Saturday Night At The Movies
 {{< youtube id="yIkjFhoW2ns" title="The Drifters - Saturday Night At The Movies" >}}<br>
-
 ### More Videos
 
 - [The Drifters - Up on the Roof - Stereo LP - HQ](https://www.youtube.com/watch?v=K6RyTRCK-CM)
@@ -59,13 +56,15 @@ styles: ["Rhythm & Blues", "Soul"]
 - [1959 HITS ARCHIVE: (If You Cry) True Love, True Love - Drifters](https://www.youtube.com/watch?v=oRpkU1e_LYk)
 - [The Drifters - On Broadway - Stereo LP - HQ](https://www.youtube.com/watch?v=KUMvG0yNPtY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 0                                   |
-| Discogs Link   | [The Drifters - The Drifters' Golden Hits](https://www.discogs.com/release/1250865-The-Drifters-The-Drifters-Golden-Hits) |
-| Label          | Atlantic |
 | Format         | Vinyl LP Compilation Reissue |
+| Label          | Atlantic |
 | Catalog Number | K 40018 |
 | Notes | An Atlantic Record, distributed by WEA Records Ltd. |
+| Discogs URL    | [The Drifters - The Drifters' Golden Hits](https://www.discogs.com/release/1250865-The-Drifters-The-Drifters-Golden-Hits) |

@@ -11,6 +11,17 @@ cover:
     image: "the-number-of-the-beast-6191421.jpg"
     alt: "The Number Of The Beast by Iron Maiden"
     caption: "The Number Of The Beast by Iron Maiden"
+additional_images:
+    - "https://i.discogs.com/nEMq2lTulipXKMU5chmOL68hcUvFrYX7cPpe6I01m_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyODg1MDc0/OC0xNTA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/bZMYBXvFN_YbiQvC372Z41hL4s0380IcrfH2cqGvo5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyNjQyMTY4/Ni02MDExLmpwZWc.jpeg"
+    - "https://i.discogs.com/t0QAx-9l8FIP9jVWdhUBTKd493Z6CVF72sludR-MLrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyNjQyMTcy/Mi05NDAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/g-pybgUf0PDGTCAOatyzj15RyF9ZwUp0dHl9RtTccEo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyNjQyMTcz/Ny00OTczLmpwZWc.jpeg"
+    - "https://i.discogs.com/nvkal84U8DOkmfYXdVdE8ri5sX6ntjMhVq_o32TVgh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyNjQyMTY5/NC0yOTEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/bZInxZPHudaoB9DfrNeHLVh5ReUsXa_dj0ibHS1cz6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyNjQyMTcw/NS00NTQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/lu2Zm6N23EshVePxA801Blog5z2tlcRWJ3EiZvVNUW8/rs:fit/g:sm/q:90/h:2392/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTYxMDgzNDA5/NC05NjEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/5bwcq3ev_Gg6kOJkq1D6a2HoB4gNVNp4aUZ5vX2OjUw/rs:fit/g:sm/q:90/h:265/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTYxMDgzNDA5/NC00MzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/G4Q4fWjNdbEfQKKudHTSOeHKLjsRr2U3CvuQq2WoQAU/rs:fit/g:sm/q:90/h:207/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTYxMDgzNDA5/NS0xMTAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/bblo95I0N-vDsvBlm3cJJ18pusZM0IEY2Vl9qKVawxc/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTYxMDgzNDA5/NS02NzI0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
@@ -30,22 +41,14 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-
-Original lead singer Paul Di’Anno left Iron Maiden after their 1981 world tour. His replacement—Bruce Dickinson—proved more than up for the job. Bassist and chief songwriter Steve Harris caught lightning in a bottle with a collection of tunes that became cornerstones of the Maiden catalog. There isn’t a weak song here. The title track and “Run to the Hills” are crowd-pleasers while “Children of the Damned,” “The Prisoner,” and “Hallowed Be Thy Name” are exemplary displays of the group’s instrumental prowess, its uncanny knack for writing accessible riffs, and a perfect launchpad for Dickinson’s commanding operatic vocal style.
-
-
-
+The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the United Kingdom by EMI Records and in the United States by Harvest and Capitol Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.
+The Number of the Beast was met with critical and commercial success, and became the band's first album to top the UK Albums Chart and reach the top 40 of the US Billboard 200. The album produced the singles "Run to the Hills" and "The Number of the Beast", the former of which became the band's first top-ten UK single. The album was also controversial, particularly in the United States, due to the religious references in its artwork and the title track's lyrics. Since the release of The Number of the Beast, "The Beast" has become an alternate name for Iron Maiden and was later used in the titles of some of their compilations and live releases, including Best of the Beast and Visions of the Beast.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-number-of-the-beast/979953728" >}}
-
-
-
-
-
 ## Videos
 ### Invaders (2015 Remaster)
 {{< youtube id="iQ5JAxPqum0" title="Invaders (2015 Remaster)" >}}<br>
-
 ### More Videos
 
 - [Children of the Damned (2015 Remaster)](https://www.youtube.com/watch?v=wsuj2uhGBvY)
@@ -56,13 +59,17 @@ Original lead singer Paul Di’Anno left Iron Maiden after their 1981 world tour
 - [Gangland (2015 Remaster)](https://www.youtube.com/watch?v=YMIKgVnB0ig)
 - [Hallowed Be Thy Name (2015 Remaster)](https://www.youtube.com/watch?v=HAQQUDbuudY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421-Iron-Maiden-The-Number-Of-The-Beast) |
-| Label          | Parlophone |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Number_of_the_Beast_(album) |
+| Apple Music Summary | Original lead singer Paul Di’Anno left Iron Maiden after their 1981 world tour. His replacement—Bruce Dickinson—proved more than up for the job. Bassist and chief songwriter Steve Harris caught lightning in a bottle with a collection of tunes that became cornerstones of the Maiden catalog. There isn’t a weak song here. The title track and “Run to the Hills” are crowd-pleasers while “Children of the Damned,” “The Prisoner,” and “Hallowed Be Thy Name” are exemplary displays of the group’s instrumental prowess, its uncanny knack for writing accessible riffs, and a perfect launchpad for Dickinson’s commanding operatic vocal style. |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | Parlophone |
 | Catalog Number | 2564625240 |
 | Notes | Printed in EU.  Glossy cover and printed inner sleeve with photos, lyrics & credits. |
+| Discogs URL    | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421-Iron-Maiden-The-Number-Of-The-Beast) |

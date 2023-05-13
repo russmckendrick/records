@@ -11,6 +11,12 @@ cover:
     image: "specials-5759349.jpg"
     alt: "Specials by The Specials"
     caption: "Specials by The Specials"
+additional_images:
+    - "https://i.discogs.com/MfWgmJiH6dmvc5hi_r73oyQDvoG8OxlWNbjgk_YYK_M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTkz/NDktMTY2NjY0Njg4/Ni01ODI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/ZE7nXWWk3-nderPYXkaZTUtNYjTMrQsWReiqVO7zoyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTkz/NDktMTY2NjY0Njg4/Ny04NDk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y3c4pG3uT9hxn5SHnuC8kUpg6I_JhpmLtLgGJGvkN2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTkz/NDktMTY2NjY0Njg4/NS00NDEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/3Km6fCyb8kyuR51KKfhj-GzRM_edetIxh9HEA_3qx8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTkz/NDktMTY2NjY0Njg4/NS0xMjk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/KGgcsWO4A8IKA5EJrfSCZsa0-YzRSRsKkbloI0uDjBU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTkz/NDktMTY2NjY0Njg4/Ni00MTYyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Ska"]
 ---
@@ -36,22 +42,14 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-
-Michael Bublé’s yuletide collection takes some of the season’s most popular songs and invests them with his own personal seal of companionship. He promises a swinging holiday, full of big-band sass. With Shania Twain, he tips his hat to The Drifters’ arrangement of “White Christmas”, while The Puppini Sisters help bring a touch of the boogie-woogie bugle boy to “Jingle Bells” and Thalia delivers a perfect “Feliz Navidad”. Bublé’s cover of Mariah Carey’s “All I Want for Christmas Is You” takes some chutzpah, but it’s a gift that keeps on giving.
-
-
-
+The Specials, also known as The Special AKA, are an English 2 tone and ska revival band formed in 1977 in Coventry. After some early changes, the first stable lineup of the group consisted of Terry Hall and Neville Staple on vocals, Jerry Dammers on keyboards, Lynval Golding and Roddy Radiation on guitars, Horace Panter on bass, John Bradbury on drums, and Dick Cuthell and Rico Rodriguez on horns.  Their music combines the danceable rhythms of ska and rocksteady with the energy and attitude of punk. Lyrically, their work (often written by primary songwriter Dammers) presented overt political and social commentary.
+The band wore mod-style "1960s period rude boy outfits (pork pie hats, tonic and mohair suits and loafers)". In 1980, the song "Too Much Too Young", the lead track on their The Special AKA Live! EP, reached No. 1 on the UK Singles Chart. In 1981, the recession-themed single "Ghost Town" also hit No. 1 in the UK. After seven consecutive UK top 10 singles between 1979 and 1981, main lead vocalists Hall and Staple, along with guitarist Golding, left to form Fun Boy Three. Continuing as "The Special AKA" (a name they used frequently on earlier Specials releases), a substantially revised Specials line-up issued new material until 1984, including the top 10 UK hit single "Free Nelson Mandela". After this, founder Jerry Dammers dissolved the band and pursued political activism. The group re-formed in 1993, and have continued to perform and record with varying line-ups, none of them involving Dammers.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/christmas-deluxe-special-edition/669831882" >}}
-
-
-
-
-
 ## Videos
 ### The Specials   FULL ALBUM
 {{< youtube id="0eWzrqHYmZs" title="The Specials   FULL ALBUM" >}}<br>
-
 ### More Videos
 
 - [The Specials - Monkey Man](https://www.youtube.com/watch?v=8miotqEVeSo)
@@ -64,13 +62,17 @@ Michael Bublé’s yuletide collection takes some of the season’s most popular
 - [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
 - [The Specials - Stupid Marriage](https://www.youtube.com/watch?v=YM7oBFi0oN8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [The Specials - Specials](https://www.discogs.com/release/5759349-Specials-Specials) |
-| Label          | Two-Tone Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Specials |
+| Apple Music Summary | Michael Bublé’s yuletide collection takes some of the season’s most popular songs and invests them with his own personal seal of companionship. He promises a swinging holiday, full of big-band sass. With Shania Twain, he tips his hat to The Drifters’ arrangement of “White Christmas”, while The Puppini Sisters help bring a touch of the boogie-woogie bugle boy to “Jingle Bells” and Thalia delivers a perfect “Feliz Navidad”. Bublé’s cover of Mariah Carey’s “All I Want for Christmas Is You” takes some chutzpah, but it’s a gift that keeps on giving. |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
+| Label          | Two-Tone Records |
 | Catalog Number | CDL TTX 5001 |
 | Notes | Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company  |
+| Discogs URL    | [The Specials - Specials](https://www.discogs.com/release/5759349-Specials-Specials) |

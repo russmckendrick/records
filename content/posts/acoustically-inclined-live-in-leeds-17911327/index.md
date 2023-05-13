@@ -10,6 +10,12 @@ cover:
     image: "acoustically-inclined-live-in-leeds-17911327.jpg"
     alt: "Acoustically Inclined, Live In Leeds by Devin Townsend"
     caption: "Acoustically Inclined, Live In Leeds by Devin Townsend"
+additional_images:
+    - "https://i.discogs.com/fAqTlQjTiZAIcCzSr_GrhYJMWxmUuWMXnUt9LMTnBlU/rs:fit/g:sm/q:90/h:411/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEx/MzI3LTE2NjEzNDQ4/NTUtOTA3OC5wbmc.jpeg"
+    - "https://i.discogs.com/folApvn7vk3Ya7KH2WJ6wuSV6nesoYUlPQeConW1wHU/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEx/MzI3LTE2MTYxNTEz/NjItMTE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Xw8crNw17UkqSA6CxHRzvKOyMQh-XtG68XdxwfgCQ8s/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEx/MzI3LTE2MTYxNTEz/NzItMTQyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/TnoN_S_MOVCyuS05q7GgOnSkGyV68XEJf_jq-zx9zVQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEx/MzI3LTE2MTYxNTEz/NzktMjkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/qwwFFq3mstkoDptTfyTPpILt7XEZmsG2j27geM7qmjI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEx/MzI3LTE2MTYxNTEz/ODUtNTk0MC5tcG8.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ---
@@ -43,20 +49,12 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842" >}}
-
-
-
-
-
 ## Videos
 ### DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)
 {{< youtube id="H45yG8FzpkQ" title="DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)" >}}<br>
-
 ### More Videos
 
 - [Deadhead (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=Mn3ZaLRYqG8)
@@ -64,13 +62,15 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 - [Funeral (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=mZ_xXGLwu0c)
 - [Ih-Ah! (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=XtR4tnbHc-o)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Devin Townsend - Acoustically Inclined, Live In Leeds](https://www.discogs.com/release/17911327-Devin-Townsend-Acoustically-Inclined-Live-In-Leeds) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album Remastered Stereo (180g), CD Album Remastered, All Media Limited Edition |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 586 |
 | Notes | Black vinyl edition.  Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingom. |
+| Discogs URL    | [Devin Townsend - Acoustically Inclined, Live In Leeds](https://www.discogs.com/release/17911327-Devin-Townsend-Acoustically-Inclined-Live-In-Leeds) |

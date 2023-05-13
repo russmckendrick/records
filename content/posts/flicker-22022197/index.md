@@ -10,6 +10,9 @@ cover:
     image: "flicker-22022197.jpg"
     alt: "Flicker by Andy Bell"
     caption: "Flicker by Andy Bell"
+additional_images:
+    - "https://i.discogs.com/cnn7gEv0Hdeoa_ceQE9gA47d8XCyCKvxLw6Aric5aKU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/MTk3LTE2NDM5ODgx/NjctNjMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/t5HhQ7_KBdwqxUTNX45LJE1JE1aSJ-ICbne3O-aXh8U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/MTk3LTE2NDM5ODgx/NzYtNjMzMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -39,20 +42,12 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flicker/1600686699" >}}
-
-
-
-
-
 ## Videos
 ### Andy Bell Something Like Love
 {{< youtube id="ttvHX1pClw4" title="Andy Bell Something Like Love" >}}<br>
-
 ### More Videos
 
 - [We All Fall Down](https://www.youtube.com/watch?v=MoPRTSL1UYc)
@@ -72,13 +67,15 @@ styles: []
 - [The Looking Glass](https://www.youtube.com/watch?v=gYXa3rSDsao)
 - [When The Lights Go Down](https://www.youtube.com/watch?v=OrzpZ6GNZ0s)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Andy Bell - Flicker](https://www.discogs.com/release/22022197-Andy-Bell-Flicker) |
-| Label          | Sonic Cathedral Recordings |
 | Format         | Vinyl 2× LP Album Limited Edition (Translucent Ochre + Gold Obi Strip) |
+| Label          | Sonic Cathedral Recordings |
 | Catalog Number | SCR200LP |
 | Notes | Limited edition of 300 copies.  Available only from the Sonic Cathedral shop on Bandcamp. Includes download code. |
+| Discogs URL    | [Andy Bell - Flicker](https://www.discogs.com/release/22022197-Andy-Bell-Flicker) |

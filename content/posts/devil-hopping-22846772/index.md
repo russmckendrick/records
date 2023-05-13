@@ -10,6 +10,18 @@ cover:
     image: "devil-hopping-22846772.jpg"
     alt: "Devil Hopping by Inspiral Carpets"
     caption: "Devil Hopping by Inspiral Carpets"
+additional_images:
+    - "https://i.discogs.com/brkgoCs9oaTWwg6F4-fnlZBKXNqYeRaW_46yKnOWreg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQz/OTMtMzcxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/_veC4F97c9k26QX5E-WNQSsieV362XhYQlDcDuFxdzM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE1/NjEtNzI5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/vwBwKNUhZT4Tnj7GsBQxwyUtyQzxWfszaMUPikb_tXE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE1/NzEtMTk4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/CR_VK7r8rpe3PFzZBRoFaUKRNilF3mXX1SbU71SbNK8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE1/ODUtODQzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/C83GpIoSYhsuQcmHtAyqRa9IBIbjPGWXnbp1aimiuBs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE2/MDYtODYxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/e3oi5kheYiTULHNDtmasTAIyutPNnZ4HoWDtDNrN1nA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/MzItMzc4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/goPJBMjNRF2GZVOvPnnq06QJMOkXreK2DGk3e9Owcio/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/ODAtNzUxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/G6-G58sjYGsMYwP78rLAMjKwGnWYCN6xPQK7KGS9EDA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/MzctMzAwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/XhBD7vhtE77lJI9oAF5Eo8ehKxHnBjLHayLjblAOTdQ/rs:fit/g:sm/q:90/h:452/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE2/MjAtNjY1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Rn438uwj3w0MXS9ngN89AYgGjpYnb2cMxLojSvTQHKQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/ODYtNjE2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/NS_hU2htUsCUhNyrklwGW6aKcGAq-W5eZjvvFWg3avU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/ODUtOTEyMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
@@ -33,20 +45,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}
-
-
-
-
-
 ## Videos
 ### Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)
 {{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}<br>
-
 ### More Videos
 
 - [Party in the Sky](https://www.youtube.com/watch?v=gyG00HOZ1fA)
@@ -61,13 +65,15 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
 - [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/22846772-Inspiral-Carpets-Devil-Hopping) |
-| Label          | Mute |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent) |
+| Label          | Mute |
 | Catalog Number | ldung25 |
 | Notes | Hype sticker on sleeve. Inner sleeve with lyrics.  "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."    |
+| Discogs URL    | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/22846772-Inspiral-Carpets-Devil-Hopping) |

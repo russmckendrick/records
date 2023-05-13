@@ -10,6 +10,9 @@ cover:
     image: "the-vinyl-collection-79-84-7709507.jpg"
     alt: "The Vinyl Collection 79-84  by Simple Minds"
     caption: "The Vinyl Collection 79-84  by Simple Minds"
+additional_images:
+    - "https://i.discogs.com/GlUWY9e7UKcDFClKPFCPUsxO74I9yzaQDHMDo9e_V0o/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDk1/MDctMTQ0NzE4NDEy/My04NjAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/o5EXWFEeNNV4RZ8PPT7fJoEO00sK327wk9DlfYRYU4E/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDk1/MDctMTQ0NzE4NDEz/NC0zNjMzLmpwZWc.jpeg"
 genres: ["Pop"]
 styles: []
 ---
@@ -94,18 +97,17 @@ styles: []
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Simple Minds - The Vinyl Collection 79-84 ](https://www.discogs.com/release/7709507-Simple-Minds-The-Vinyl-Collection-79-84-) |
-| Label          | Universal Music |
 | Format         | Box Set Compilation Deluxe Edition Remastered (180g), Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
+| Label          | Universal Music |
 | Catalog Number | 4733760 |
+| Discogs URL    | [Simple Minds - The Vinyl Collection 79-84 ](https://www.discogs.com/release/7709507-Simple-Minds-The-Vinyl-Collection-79-84-) |

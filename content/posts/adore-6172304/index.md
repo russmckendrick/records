@@ -10,6 +10,10 @@ cover:
     image: "adore-6172304.jpg"
     alt: "Adore by The Smashing Pumpkins"
     caption: "Adore by The Smashing Pumpkins"
+additional_images:
+    - "https://i.discogs.com/MxRKk3orUfrYD8JO4jES_89mAVDvus7owzh1WndoURU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA5/NC05NDIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/5SJSdpMQ0IT84DG6D-QxjgMEDyndDWJD0sZEvpySJus/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA5/NS03NjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/oKYq1sp6ZjAnUnjYAd9tsK62rn0A5swvK2pE-Gb_F2o/rs:fit/g:sm/q:90/h:578/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA4/Mi00ODEzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -37,23 +41,23 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/adore-remastered/1440818528" >}}
+## Videos
+### The Smashing Pumpkins  Adore 1998 FLAC
+{{< youtube id="aHYJ6LUfxCs" title="The Smashing Pumpkins  Adore 1998 FLAC" >}}<br>
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [The Smashing Pumpkins - Adore](https://www.discogs.com/release/6172304-The-Smashing-Pumpkins-Adore) |
-| Label          | Virgin |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
+| Label          | Virgin |
 | Catalog Number | 6 02537 89926 5 |
 | Notes | Comes with 2 types of innersleeve; 1 type is blanck, 2nd type is printed innersleeves (both are different, one with lyrics and one with  credits) |
+| Discogs URL    | [The Smashing Pumpkins - Adore](https://www.discogs.com/release/6172304-The-Smashing-Pumpkins-Adore) |

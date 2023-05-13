@@ -1,6 +1,7 @@
 ---
 title: "Francis Monkman"
-summary: "Born: 9 June, 1949 in Hampstead, North London, England. British composer and keyboardist. Mostly known as a founding member of the groups and . He left this latter group in 1980 and was replaced by Steve Gray."
+summary: "Francis Monkman is an English rock, classical and film score composer, and a founding member of both the progressive rock band Curved Air and the classical/rock fusion band Sky. He is the son of Kenneth Monkman, an authority on the writer Laurence Sterne, and of Vita née Duncombe Mann."
 image: "francis-monkman.jpg"
 apple_music_artist_url: "None"
+wikipedia_url: "https://en.wikipedia.org/wiki/Francis_Monkman"
 ---

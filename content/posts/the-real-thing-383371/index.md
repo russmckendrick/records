@@ -10,6 +10,14 @@ cover:
     image: "the-real-thing-383371.jpg"
     alt: "The Real Thing by Faith No More"
     caption: "The Real Thing by Faith No More"
+additional_images:
+    - "https://i.discogs.com/v9ZMpEuDaxxwFrZSUn6Xx6tw9olUHVqoRX1R8XlmBCM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTgyMjAuanBlZw.jpeg"
+    - "https://i.discogs.com/JBrG-pwBhgPYPO8Ov10mhH3SSOLo7siNsuEiKQOr0DE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTQ3NzEuanBlZw.jpeg"
+    - "https://i.discogs.com/FtUxe-GjMU2Bbx6OkzJ-p355poPyJpGTHxhaPHHeloY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTg5NjcuanBlZw.jpeg"
+    - "https://i.discogs.com/Arqrx6jCuhNfP6kmELuOVDFKQBTIzndoOGOOxtpLuYk/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTYxNzMuanBlZw.jpeg"
+    - "https://i.discogs.com/cbtbahB7pWyqHQd536eHes9OtSQzlmHjEbV_e2uOsF0/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc3/LTU3MjcuanBlZw.jpeg"
+    - "https://i.discogs.com/JpRjKYxs6k_CQp_iWNkmWLeVZD_2lV6158NVNObJeyQ/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc4/LTEyNDUuanBlZw.jpeg"
+    - "https://i.discogs.com/DVWDxQ_v3bqvi2-aI9rsmCj0ZLkBJMNe0U39M0_UPtc/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xMzI5NzQ0MzYz/LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -30,20 +38,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-real-thing/83386606" >}}
-
-
-
-
-
 ## Videos
 ### Faith No More - From Out Of Nowhere (Official Music Video)
 {{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
@@ -65,13 +66,17 @@ styles: ["Alternative Rock"]
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Thing_(Faith_No_More_album) |
+| Wikipedia Summary | The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock. |
 | Release Year   | 1989                                   |
-| Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/383371-Faith-No-More-The-Real-Thing) |
-| Label          | London American Recordings |
 | Format         | Vinyl LP Album |
+| Label          | London American Recordings |
 | Catalog Number | 828 154-1 |
 | Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.    This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.    Includes a printed inner sleeve with graphics, photographs and credits.    Recorded December 1988 at Studio D, Sausalito, CA.  Mixed January 1989 at Blue Canyon, Studio City, CA.  Mastered at K-Disc, Los Angeles, CA.    Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.    ℗ 1989 Slash Records  © 1989 Slash Records   |
+| Discogs URL    | [Faith No More - The Real Thing](https://www.discogs.com/release/383371-Faith-No-More-The-Real-Thing) |

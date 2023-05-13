@@ -11,6 +11,31 @@ cover:
     image: "memento-mori-26515907.jpg"
     alt: "Memento Mori by Depeche Mode"
     caption: "Memento Mori by Depeche Mode"
+additional_images:
+    - "https://i.discogs.com/VgEatc2CXzHvpdDmzxgk6WV4u-Wi3gUsmbKPqx5aKSI/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTcw/NzMtOTg5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/GAKIr3bhbhTDIBgAgVS4KkMVuFai3WbQX8JdjnDJmmc/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjMtMjU0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/80KQIUPifwpc4PmQyL3J3NRHFu0e9IROXKBjA5mrAVk/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjEtODk5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/sSWZYYdZd_i3SGkBVxch_0iiJxNhgCmF4rzkL1KAc98/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjMtNTEyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/s3rY4j9VCe9qGHKumA9DhfzcSaIT5oT2-turwIBPyUI/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMzA5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/oVF2l5INqFlQKMSRtMYaLwsbFlW1XxNLoxlnr-Syuis/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtOTU4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/VQ86ONwxZxgi01VNXfGY5Pn2JF8VDN8dLHV5JYeI4Vs/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtODI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/9ZpDzFVCH2iepm5Xytnpq1FeEGrUTpqN9_hxgfX_smE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMjgwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/sUkwCnRltp49hwvKfc3cz9LLEuVhx92Ue6IoGfFb6Zo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtMjAwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/UcRcia5A6tx5uRiLHXy8pdiqp9sEX23U9empixYazYw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNzk3My5qcGVn.jpeg"
+    - "https://i.discogs.com/dsbDXIqCukKiaPgPKpKEUfEyYal3XVCQo9N5CY-FHaA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtOTY0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/f0RjNVoH0kAoF_z99EcnZ_9tHGiqNgElLyvLBvsWydA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMjE2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/-AkbaHGhxuYb9YnsQfEpBNStHDzCCvhbsxe1WGFURXE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtNzc4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/1WwIJjm9V-9pkltDrD9VTZdmVCXk99kAAaWIUSdE7fI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMTI2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/EkXI-vy5HfJ9sDtwoI71LOTABuq0_6Bk7xQslKBBcHM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjEtMTUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/9oCZwmFOjgaCUkGUIDjfIva0nAKpGP_wXClq5HxPmOg/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtOTkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/2yR4lGyYzGL4wFCs1RQzdRwNAVqb13zASDopCwGBK3U/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjItNTczMi5qcGVn.jpeg"
+    - "https://i.discogs.com/B9rRzS6TrrF9yxaEjMYuIYJhn5ReGu7meYIUgc3gOww/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNjI5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/a2aslM2BT_FVbyyypjCGIhV4-ezJWprl2Cge7srDUCU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtMjg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/4gbL3aV81Lbm1jX4wXQw9Kgqo3YkJkzppLeRgKodgRw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNDY0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/nBvpzZbd3AUA7VqELRdE0op8-s8sgYefquIb5hd75a4/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NTgtNzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/qNMMFWSdUlnv0h7E5rAgZe9B249g_ArLf-mZki2p74o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2ODE1OTQ0/MjYtNTY4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/47Uozjd7Q4HcSDOv9TltlEeo85fCq3cXbc18OMUgMXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2ODE1OTQ0/MjctNTQ3My5qcGVn.jpeg"
+    - "https://i.discogs.com/vWaB6F93O3-6crO-jnj_6nB0TWzZziA2JmwWzYJLovQ/rs:fit/g:sm/q:90/h:373/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjAtODAzNS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Alternative Rock"]
 ---
@@ -34,7 +59,6 @@ styles: ["Synth-pop", "Alternative Rock"]
 
 <!-- section break -->
 
-
 With over 50 hit singles and more than 100 million records sold, English synth-pop masters Depeche Mode could still play sold-out stadiums if they had stopped releasing music in the mid-’90s. “We could easily, if we wanted to, just go out and play the hits,” vocalist Dave Gahan tells Apple Music. “But that’s not what we’re about.” Depeche Mode’s 15th studio album is their first without co-founder and keyboardist Andy Fletcher, who passed away in 2022. This sad and hugely significant event in the band’s history is reflected in the album’s title. “<i>Memento Mori</i>—‘remember that you must die’,” Gahan says, translating the Latin phrase. “The music really will outlive all of us.”
 
 Main songwriter Martin Gore started working on the record early in the pandemic—well before Fletcher’s death—but recalls the moment when he played his demos for Gahan. “It’s always a tough moment when you have to present your songs for the first time to Dave,” he tells Apple Music. “I would’ve been presenting them to Andy as well, obviously. He passed away just days before I was about to send him the songs. And that’s one of the very sad parts about it, because he used to love getting the songs.”
@@ -55,23 +79,22 @@ Martin Gore: “Which is something I’ve never done before, worked with somebod
 
 <b>“Speak to Me”</b>
 Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void, the wanting to be with people and life—and at the same time, not wanting to be. The initial idea came to me, but the song was incredibly elevated by Martin and our producers, James [Ford] and Marta [Salogni], into a different place, another world. And that's exactly where I wanted the song to go as well. But it’s beyond what I could have put together myself. It’s a very simple song, but honest and real. For me, it was the key that opened the door for me to make another Depeche Mode record with Martin. It was an answer to that question for me.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/memento-mori/1670265523" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
-| Discogs Link   | [Depeche Mode - Memento Mori](https://www.discogs.com/release/26515907-Depeche-Mode-Memento-Mori) |
-| Label          | Columbia |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Memento_Mori_(Depeche_Mode_album) |
+| Wikipedia Summary | Memento Mori (stylised as "Memento|Mori" on the album cover) is the fifteenth studio album by Depeche Mode (stylised as "Depeche|Mode" on the album cover), released on 24 March 2023 through Columbia and Mute. The album was produced by James Ford. It was preceded by the single "Ghosts Again" and the track "My Cosmos Is Mine" (released on streaming platforms), and is the first Depeche Mode studio album to be recorded and released as a duo, after the death of co-founder and keyboardist Andy Fletcher on 26 May 2022. The album is promoted by the Memento Mori World Tour. |
+    | Release Year   | 2023                                   |
 | Format         | Vinyl LP Stereo (Red Opaque, 180g), Vinyl LP Single Sided Etched Stereo (Red Opaque, 180g), All Media Album Limited Edition |
+| Label          | Columbia |
 | Catalog Number | 19658792641 |
 | Notes | © & ℗ 2023 Venusnote Ltd., under exclusive license to Columbia Records, a Division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany Sony Music UK, 2 Canal Reach, Kings Cross, London, N1C 4DB, United Kingdom. Made in the EU.  [Publishing]: Tracks A1, B2, C1 to C3 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) Track A2 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc., Grabbing Hands Music Ltd., and EMI Music Publishing Ltd. (PRS) Tracks A3 to B1, B3 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) / Universal - Songs of PolyGram Int., Inc. (BMI) Track B4 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) Track C4 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) / WC Music Corp. (ASCAP) on behalf of Warner/Chappell Music Ltd. (PRS) / Marta Salogni Publishing Designee.  Recorded at Electric Ladyboy (Santa Barbara, CA) and Shangri-La (Malibu, CA) Shangri-La Studio Assistant: Gregg White Mixed at Studio Zona (London) Mastered at Metropolis Studios (London) Additional vocal recording at Blanco Studio (New York, NY) Design assistance for Antonymous BV  [On inner jacket] Andrew John Fletcher 1961 - 2022 'in our hearts and minds' dave & martin  [On hype sticker] Depeche Mode New album Memento Mori 2x 180g vinyl Limited Edition Opaque red vinyl 19658792641  Side D is etched with a floral arrangement and "est vere malus".  In runouts GZ Media and Memphis Records Pressing identifiers are stamped, the rest is etched.  Track times not given on release.  Comes in a trifold embossed sleeve with a poster. Some copies show both some transparency and translucency |
+| Discogs URL    | [Depeche Mode - Memento Mori](https://www.discogs.com/release/26515907-Depeche-Mode-Memento-Mori) |

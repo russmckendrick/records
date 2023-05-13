@@ -11,6 +11,45 @@ cover:
     image: "ants-from-up-there-21932389.jpg"
     alt: "Ants From Up There by Black Country, New Road"
     caption: "Ants From Up There by Black Country, New Road"
+additional_images:
+    - "https://i.discogs.com/hgdfOLIrDncrp6Okziecko_QqNcQiWAw4mu6B76bfxU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/4IDQi93XT_Mn6YAWI8Pwfo9v17LQbaKcpITRaBkI2AQ/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtMTI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/ojnbWcyGODNNwDRqZVC2oUd5fvxIWB4giNb67Zsy1jM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtNzY2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/YP2IRxILgEglrFaUs5BdOnmjxZ_CoN_yKTR4wRlgrUk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItMTYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/6_clp3T8L19z8cHYoE2tFRutKV2RHp4R4mc5hcjf7So/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTEtNjA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/XVEB-BQuwrV1O3ihHvTLy0rq4yN6TmuJmBXU8OHI5Vg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTQ3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/AoFo6rII0hr_xoj0_qj9eoqiUUO_Nt8li-7yPZCJ99c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItMjQyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/JSUJBAZ2W08ji65es5swBPT7umf06C96WcrwrKeTm3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItMzYzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/nY8GdeX9l3f2IGY7VGaQxo-9bbGLyRr923uRbHZ0dsc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNjI4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/b8P3iZFcPKLg8i5dGL-xz2H1c2rNbST2qfSts3MZXlU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNDcxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/t8qb41FzIarJbBpLUEWYGgd7pkNL8Putw85O4x4Y1nM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NzMxMDM1/MzMtNTg1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/js7fxLJ74N7OOw60dZ-8HvmzbIcCJhI3yrtUHGEjTaI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNDUzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/gUYv5U7ONqMKmrIfr4CypcWLRQr3ih1SmSoPKY34J84/rs:fit/g:sm/q:90/h:856/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTEtNjI3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ar1TNu52OXT1LsVaDlB6NJU8j2CmqV3_fM6qx5R6wuM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/ODgtOTUyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/i6uIktCLy9AeTcbDSsZjMzCFONtZexeS2GITf3SgdnE/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/ODctNzA4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/QcnLxj4XCrBX66tcW3jqD1359wQ2Ivco6cd3s8TRP64/rs:fit/g:sm/q:90/h:351/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/ODctOTU0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/uFv3mu-UInOB8ISPcNFm6wt0k1iAbCQMXKh3SBIdbDY/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktMjM0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/nMUNUeKALbfewIdU5xSVaVzR8i_k1ru-JqHQuSXAJ_o/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktMTU0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/DE0DPjpRfreKibL5HWXKccsi1MvAZSfBJLYm3bn-A8o/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjAtMjczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/j8ezLr3COU2bNAlsnbmEhPhyMqYoehszU31WpebRIFo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjQtMTcxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/_UqqwMawV2zrbf2jQtTE-pvCUJl2ZROuqd88rrvg6XQ/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktODUwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/DmYfle1LF9J-78mgv4S6F8QfXZ4dl7umS5J4p3ogxPU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjQtMzg4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Js0e8iXllebKfRWpmhh_tRLaFt_sMQqVWPf5eXUE8Z0/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNzQ3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/094nd_WzL5YIsyN43TtEqdtrrqMeKbpq55HaGJ4AOzM/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktOTU5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/xZu3GxvhqroT_8YliUrTQj3ByZiiNISxxTCiyKMAffI/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtOTYzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/QWGy2w4Wut6L1aO4nCQwxMfDKy3nIU8aDx-7--cQitA/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktNDYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/rvqr65AQ_riP6cexiZD429OIdL9jPw_UHBNr7YYvlsE/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjYtMjAwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/9PGAWbj383fwpTOhlDiEjbXo_ft3Q8IQwZCb0qquLNw/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NzEtNjkyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/FFs0JqeI_3VvwTXFt_2S8y_Wfe3sJfeynVFLLmcdKDE/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNjQzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/231j4w-N_4mAHN-sONYcJDOixkHGBCnFn_Yt5c8ld5k/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NzAtNTY5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/gE26fyTZ1amh2XZrk31nr3aZXEG7XDXxtnlz5fStMk0/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtMTUyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/Akk1MoDiOT9nqeYp9ZdMG5nqV-kdXjzReeH-WHtC0fU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjYtOTc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/nEL6lc6k4VrM4hS_OUZbnLmRYc2UI5DVQFSfMK8loYs/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNTgzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/V1o4wGRLBWimv6kZ_oVqTAbZN6pHXfL9MF_CK8oaHVA/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/NDEtMjAxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/PzBo9gl12t5R4kYfuKbv7xjvoDfzh-8JPpQocAPuTho/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtMjA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/8n8cvo1IoAbT-JLYrwEXGndOyLOY3M4_lyfwCAQ-qi0/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktNTM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ch5oSlqveojQK6DxM3dXX4ujfxqf5kPCqtK48dfAOhU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NTM0MTkw/OTMtMzY3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/P3AK5BpYgx0_257ftFnMtLz_lQcg5t1Flt2C8bEeKT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NTM0MTkw/OTMtMzQwMS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Folk Rock", "Experimental"]
 ---
@@ -31,7 +70,6 @@ styles: ["Folk Rock", "Experimental"]
 10. Basketball Shoes
 
 <!-- section break -->
-
 
 Traditionally, a band release their debut album and head out for an extended stretch on the road, honing their live chops, twisting their songs into new shapes. But when Black Country, New Road released <i>For the First Time</i> in February 2021, that route was blocked off by the pandemic. Instead, the London-based band set out to tweak and tamper with their experimental post-rock sound for a transformative second album. They might not have been able to travel, but their music could. “By the time the first album came out, those songs had existed for so long that we were very keen to change the way we wrote music,” bassist Tyler Hyde tells Apple Music. The material that makes up their second record, <i>Ants From Up There</i>, soon came to life, the group using the labyrinthine “Basketball Shoes”, which had been around before their debut, as a springboard. “We wanted to explore the themes we’d created on that song,” says Hyde. “It’s essentially three songs within one, all of which relatively cover the emotions and moods that are on the album. It’s hopeful and light, but still looks at some of the darker sides that the first album showed.”<br />
 The resultant record sees the band hit hypnotic new peaks. <i>Ants From Up There</i>, recorded before the departure of singer Isaac Wood in January 2022, is less reliant on jerky, rhythmic U-turns than their debut (although there is some of that), with expansive, Godspeed You! Black Emperor-ish atmospherics emerging in their place. “Fundamentally, we relearned an entirely new style of playing with each other,” says drummer Charlie Wayne. “We learned a lot about how to express ourselves just for each other rather than for anything else going on externally.” Here Hyde, Wayne and saxophonist Lewis Evans take us through it, track by track.<br />
@@ -55,20 +93,12 @@ CW: “For me, this is about as far away as we went from the first album. Aesthe
 LE: “This is another tune where we really thought about what we wanted from it before we wrote it. We had examples of things we liked, and one of them was Frank Ocean’s ‘White Ferrari’. We liked the idea of it almost being like two different bands [playing] at the same time. So you’ve got this quite simple but quite heart-wrenching, fugal-sounding arrangement of all the instruments with a drum solo that is just crazy and doesn’t really relate too much to what is going on in the other instruments. We react to the drum solo, but he doesn’t react to us. It’s that kind of idea.”<br />
 <b>“Basketball Shoes”</b>
 TH: “It’s essentially a medley of the whole album. It’s got literal musical motifs that are repeated on different songs in the album. It touches on all the themes that we’ve been exploring, and it’s the most climactic song on the album. It wouldn’t really make sense to not finish with it, it’s so exhausting. It’s such a journey. I think you just wouldn’t be able to pay much attention to anything that followed it because you’d be so wiped out after listening to it.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ants-from-up-there/1586070259" >}}
-
-
-
-
-
 ## Videos
 ### Black Country, New Road - 'Intro' (Official Audio)
 {{< youtube id="hg2FriyudSw" title="Black Country, New Road - 'Intro' (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Black Country, New Road - 'Chaos Space Marine' (Official Audio)](https://www.youtube.com/watch?v=Jqy6WPSfZSA)
@@ -81,13 +111,17 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 - [Black Country, New Road - 'Snow Globes' (Official Audio)](https://www.youtube.com/watch?v=hTVwQ1Gjqas)
 - [Black Country, New Road - 'Basketball Shoes' (Official Audio)](https://www.youtube.com/watch?v=uOnjuIb1TWY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
-| Discogs Link   | [Black Country, New Road - Ants From Up There](https://www.discogs.com/release/21932389-Black-Country-New-Road-Ants-From-Up-There) |
-| Label          | Ninja Tune |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ants_from_Up_There |
+| Wikipedia Summary | Ants from Up There is the second studio album by British rock band Black Country, New Road, released on 4 February 2022 on Ninja Tune. Recorded at Chale Abbey on the Isle of Wight, the album was produced by the band's live sound engineer Sergio Maschetzko, and is the final album to feature lead vocalist and guitarist Isaac Wood, who announced his departure from the band on 31 January 2022, four days prior to the album's release.Written during COVID-19 lockdowns and road-tested during brief touring stints in support of their debut album, For the First Time (2021), the album was released almost exactly a year after their debut, and was preceded by four singles: "Chaos Space Marine", "Bread Song", "Concorde" and "Snow Globes".<br>The album received unanimous critical acclaim upon its release. It became Black Country, New Road's highest-charting album, debuting at No. 3 on the UK Albums Chart and also reaching the top ten in Australia, Germany and the Netherlands. |
+    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marbled) |
+| Label          | Ninja Tune |
 | Catalog Number | ZEN278X |
 | Notes | Inverted artwork. Packaged in a gatefold sleeve.  Includes a lyric booklet and a download code.  Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.  Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.  ℗ & © Ninja Tune 2022 Made in EU  Recorded at Chale Abbey Studios. Mixed at Fish Factory and Chale Abbey Studios. Mastered [...] at Abbey Road. |
+| Discogs URL    | [Black Country, New Road - Ants From Up There](https://www.discogs.com/release/21932389-Black-Country-New-Road-Ants-From-Up-There) |

@@ -10,6 +10,12 @@ cover:
     image: "order-of-magnitude-empath-live-volume-1-16092605.jpg"
     alt: "Order Of Magnitude - Empath Live Volume 1 by Devin Townsend"
     caption: "Order Of Magnitude - Empath Live Volume 1 by Devin Townsend"
+additional_images:
+    - "https://i.discogs.com/efEShEuQNltsYmVCYJQy10bU5s_T98_K7BzZbxTFs14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MDMzODQy/NDYtMzI3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/JedZL5RR2bY69-TI_xAOCp1pqJ4idN1CHPAppprMjRU/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTkw/MTUtOTI4My5qcGVn.jpeg"
+    - "https://i.discogs.com/f-60C1N_RZLgWfJjodJEN42p2Qiof6DSk_l6_UPjsYY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTkw/MTUtOTkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/J1gfocRrWRrNsYpt3_gdWIwYhTRXjmQrSuP1om6vOoI/rs:fit/g:sm/q:90/h:1005/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTg3/NTgtMjI0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/BxECYE-C-BzVc4gLSyxTEBVwqajvehxdPMu2UwUTl_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTg5/NDAtMzU3OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
@@ -53,20 +59,12 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549" >}}
-
-
-
-
-
 ## Videos
 ### Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)
 {{< youtube id="qtgv89oLCOU" title="Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)" >}}<br>
-
 ### More Videos
 
 - [Borderlands (live in London 2019)](https://www.youtube.com/watch?v=xo8iSy87-5w)
@@ -74,13 +72,15 @@ styles: ["Progressive Metal", "Prog Rock"]
 - [Disco Inferno (live in London 2019)](https://www.youtube.com/watch?v=7BnKtXVoAFo)
 - [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Devin Townsend - Order Of Magnitude - Empath Live Volume 1](https://www.discogs.com/release/16092605-Devin-Townsend-Order-Of-Magnitude-Empath-Live-Volume-1) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 3× LP Album (Green Olive, 180g), CD 2× Album, All Media Limited Edition |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 563 |
 | Notes | Recorded on December 12th, 2019 at the Roundhouse, Camden, London, United Kingdom.  Issued with a postcard, a coaster and a sticker.  Slipcase sleeve with a gatefold sleeve for the first two LPs and a standard sleeve for the third one. CDs housed in a protective plastic sleeve. |
+| Discogs URL    | [Devin Townsend - Order Of Magnitude - Empath Live Volume 1](https://www.discogs.com/release/16092605-Devin-Townsend-Order-Of-Magnitude-Empath-Live-Volume-1) |

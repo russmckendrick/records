@@ -10,6 +10,12 @@ cover:
     image: "behaviour-12452776.jpg"
     alt: "Behaviour. by Pet Shop Boys"
     caption: "Behaviour. by Pet Shop Boys"
+additional_images:
+    - "https://i.discogs.com/AUjywK7mCypQlosCaUtyH71oXNsoE8-VtQA1CBV_N5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU2NTgy/NzktNzc5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Iq8mNk2kupSG-HjhKmnAdAQfVZCP3qrfbiGmZX-Chbw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NTktNjU4My5qcGVn.jpeg"
+    - "https://i.discogs.com/FJu91Dds7gzCkhm7buts-aj1rK8WXJOkxPQVccoEntE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NjQtNzA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/yYkLHbhsCSh6_dSv67K8u8poxwMEkPvQzIz7-_43UxM/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NjktOTAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/QRXwfu7yxu9nMKxIosjsfoqYbkERCqFN8bD1QkxDp6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NTItNTY0Mi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -31,20 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/behaviour-further-listening-1990-1991-deluxe-edition/1393146587" >}}
-
-
-
-
-
 ## Videos
 ### Pet Shop Boys - So Hard
 {{< youtube id="jFAA6Z_YIEM" title="Pet Shop Boys - So Hard" >}}<br>
-
 ### More Videos
 
 - [PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)](https://www.youtube.com/watch?v=iQAiRNeZMYg)
@@ -68,13 +66,15 @@ styles: ["Synth-pop"]
 - [Pet Shop Boys - So Hard (Performance Live 91) [4K]](https://www.youtube.com/watch?v=pOqFIrqE1Uc)
 - [PET SHOP BOYS **SO HARD**](https://www.youtube.com/watch?v=ca6XV9z83o0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Pet Shop Boys - Behaviour.](https://www.discogs.com/release/12452776-Pet-Shop-Boys-Behaviour) |
-| Label          | Parlophone |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Label          | Parlophone |
 | Catalog Number | 0190295821746 |
 | Notes | [Sticker on shrinkwrap:] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  [From inner sleeve:] Recorded at Red Deer, München, and Sarm West, London. Orchestra and strings recorded at Abbey Road.  Tracks listed sequentially on back cover and labels. Optimal credit extrapolated from runout data. |
+| Discogs URL    | [Pet Shop Boys - Behaviour.](https://www.discogs.com/release/12452776-Pet-Shop-Boys-Behaviour) |

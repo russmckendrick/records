@@ -10,6 +10,26 @@ cover:
     image: "surfing-with-the-alien-14479209.jpg"
     alt: "Surfing With The Alien by Joe Satriani"
     caption: "Surfing With The Alien by Joe Satriani"
+additional_images:
+    - "https://i.discogs.com/7kxjSP7bWMK9NIN-_4nPgFTWNtBfTjzktO5J6zlFpM8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzUtMTYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/9cXcBV8SZPxSyt980mGf-YzY-HyPuSZ0O2OaZ3XryXw/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ4/MjktMjQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/A8Perbbb3f7JU4k_uhGrMAga8Y7TT5y6wgSkvw4Erx8/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ2/NDctNjE4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/BNChWIBSZjEySdqpLoWlX3r2yG9hSb2FWr-KmaRmwQc/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ2/NDItMzcxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/g4eLZNy0mGDgEPEvUuWtBOzXIxOh6yuKH5pGHQdpLL4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ2/MTItODAxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/1-QOMbnIq1NFxdYJYLBCKvm8TRfk7hOwLPX7oxwJGqk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MDEtNjM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/GFkOa1mGUyn4OiLsqmn5GJ1B9siY8pKCRJzSHz6blRQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MjUtNzg4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/67ulo4R9K0NBMytU7G6wkpjYGs4Jkcv-zr4i7XJ7L3s/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MDktNDM2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/7rNy1wOxOLdoXhuL_nxxrOfomznMESlZtbrzhjstsVM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MjctMTQ0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Ufr1F4WLKEO8oZl3Wp5so4E6zJBsTVLXuVqxYh0e41Q/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzMtMjQwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Jq91Uo0WxeUihLrtF0CcvdYtsqH78VD8AWKmBxfUDjs/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTMtODE1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/EVbK3Jgg-2B4Gdc5xUO65iBnFToR4uQqJGmB-CL-54I/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzMtNTg2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/AYQ88IYRqbMIJSt8_hysAkAYEOop_X7l0_Et8TlDFt4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzYtMzIyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/7i6x6FkOarGkrbaobFr5NGH88-YY9bQzeqJgdZM6gig/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTMtNTExNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ryPxMI-R03RG011tpDJwMBV4lWT86IH9JBYdXjoGZdI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MjAtMjA1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/iLcywm261mFoK1jGu7JhwYlL5bZ7-kdVDB6Ure-BW50/rs:fit/g:sm/q:90/h:115/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTgtMzEwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/FLmxrvSGyCRw1vagsgQMevnuwZW24AoAQiUzi1IuUlU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ2/OTUtNDY3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/j3oswXGU7jNtXJc9TyADtYmV3dBimMg3nNqMjhvzOjU/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ5/MDAtODE2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/BM2EHmoyN4aS6bfZmZ2yL5MHIH1XbVDxGfi1eH62lzE/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ5/MDQtMTc1NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -41,20 +61,15 @@ styles: []
 
 <!-- section break -->
 
+Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/surfing-with-the-alien/405602019" >}}
-
-
-
-
-
 ## Videos
 ### Joe Satriani – Surfing With The Alien
 {{< youtube id="JeUPSYrVP1w" title="Joe Satriani – Surfing With The Alien" >}}<br>
-
 ### More Videos
 
 - [Joe Satriani – Hill Of The Skull](https://www.youtube.com/watch?v=SJ5n-Rr9t7M)
@@ -77,13 +92,17 @@ styles: []
 - [Joe Satriani - Midnight](https://www.youtube.com/watch?v=GpXr31S56CU)
 - [Joe Satriani - Echo](https://www.youtube.com/watch?v=cMj8n5NKSeM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Surfing_with_the_Alien |
+| Wikipedia Summary | Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.<br><br> |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209-Joe-Satriani-Surfing-With-The-Alien) |
-| Label          | Epic |
 | Format         | Vinyl LP Album (Red), Vinyl LP Album Mixed (Yellow), All Media Limited Edition Reissue Special Edition (Gatefold) |
+| Label          | Epic |
 | Catalog Number | 19075978611 |
 | Notes | Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses.   Includes digital download card.   Made in the EU. |
+| Discogs URL    | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209-Joe-Satriani-Surfing-With-The-Alien) |

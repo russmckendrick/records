@@ -11,6 +11,19 @@ cover:
     image: "city-burials-15179711.jpg"
     alt: "City Burials by Katatonia"
     caption: "City Burials by Katatonia"
+additional_images:
+    - "https://i.discogs.com/_c6_4tYgPrOS7yER-Zm3UvFq0y3sV9QkDkiKx1Xy7Ow/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTYtMTA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/AUgpJXxj49CIDw4yEOnW-jfE5XpI8eNwyDqkNtt7gkg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktMTE1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/acj2Pw0tjr1vwdXI19HuCB7aQEdqyCk22vHW0fNH2vc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDMxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/BuJEkc8vEozSAxhM4kMvdkEEjTLtMKVDTcMviYUGThQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNjI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ZL3XqiYGHpwdZaVC7DfCpvL4zutpkZfhPNYfPohb1_c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDAwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/S7CWKPmRv5OYKlfDPzer3bA1ScXRDV3dV7yRUPmTm04/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktODkyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/uwTdDIMa2_kBRjdJRx3BymGTFCOwS9myMq1rQ6iV0Mk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/xfMBOQP5_QKwT7DTId52ZvSXaMZ0Zpq-jTf9oQ_-Yfk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktODYxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/tKX6c2Hz71BfOlw-iYH4CHz7iZqNRN3Yk9Z7x5iinWc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktMzk4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Pnci09iTabRPqziPZ__oaLBaYZuCnOmc8RGpobfPVmA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktMzA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Jx-SgFqvkfdcix1tE6ru78QBIIaNjSe4Mt3hy2Ibr_g/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNTc1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/c1uK-XBd8g4U5jaXnnAuGWp03v36uIQ0YQv5bpGBGyM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNTIxOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
@@ -33,7 +46,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 12. Closing Of The Sky
 
 <!-- section break -->
-
 
 “This band has been going for a very long time,” Katatonia vocalist Jonas Renske tells Apple Music. In fact, Sweden’s reigning kings of melancholy have been at it for nearly 30 years, a timespan that led the Stockholm-based group to go on hiatus after the touring cycle for 2016’s <i>The Fall of Hearts</i>. “We never really had a proper break before,” Renske explains. “We wanted to get some perspective and see if the band is really what we want to do. It turns out we all missed it very much.” In his downtime, Renske wrote the bulk of the music and all of the lyrics for Katatonia’s 11th album, <i>City Burials</i>. “It’s a pretty lonely job to write music,” he says. “The whole creative process can be very tedious—if you’re struggling with something, it takes forever if you’re just by yourself. But of course it’s very rewarding when it’s done.” Below, Renske guides us through the many rewards of <i>City Burials</i>.<br />
 <b>Heart Set to Divide</b>
@@ -60,33 +72,29 @@ styles: ["Prog Rock", "Progressive Metal"]
 “As with ‘Neon Epitaph’, this song has these light and shade moments. Lyrically, it’s a little bit about wondering what’s in the afterlife—the people we might have known that are already there…will they wait for us? Is there something that still connects us when we go there? That kind of stuff. There’s also a guitar solo by Roger which I think is one of the best guitar solos I’ve ever heard—and I would say that even if it was not in Katatonia. It’s a great closing song for an album like <i>City Burials</i>.”<br />
 <b>Fighters</b>
 “This is a digital bonus song that’s not on the album. It’s a cover track by a short-lived Swedish metal band that was active in the beginning of the 2000s called Enter the Hunt. Their singer is Krister Linder, who was doing some guest vocals for us on our album <i>Night Is the New Day</i>—on the song ‘Departer’. Enter the Hunt only did one album and an EP, I think. The song ‘Fighters’ was only released digitally, so it’s not very well-known. But me and Anders thought that song was so good and we felt a bit sorry for them because they split up before anything could happen with it. So we decided to cover it to try and get it further up into the world.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/city-burials/1494960292" >}}
-
-
-
-
-
 ## Videos
 ### Katatonia - The Winter of our Passing OFFICIAL VIDEO
 {{< youtube id="P2H4tCc9E3U" title="Katatonia - The Winter of our Passing OFFICIAL VIDEO" >}}<br>
-
 ### More Videos
 
 - [Katatonia - Behind The Blood (from City Burials)](https://www.youtube.com/watch?v=nQaN2elJ-dQ)
 - [Katatonia - The Winter of our Passing (from City Burials)](https://www.youtube.com/watch?v=mnWkTAB-ceg)
 - [Katatonia - Lacquer (from City Burials)](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Katatonia - City Burials](https://www.discogs.com/release/15179711-Katatonia-City-Burials) |
-| Label          | Peaceville |
+| Wikipedia URL | https://en.wikipedia.org/wiki/City_Burials |
+| Wikipedia Summary | City Burials is the eleventh studio album by Swedish heavy metal band Katatonia. The album continues the progressive rock direction used in recent albums while returning to some of their earlier metal instrumentation. Three singles were released in promotion of the album; "Lacquer", "Behind the Blood", and "The Winter of Our Passing".<br><br> |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album |
+| Label          | Peaceville |
 | Catalog Number | VILELP860 |
 | Notes | Gatefold. Limited edition of 1500 copies. Closing Of The Sky is a bonus track for this release. |
+| Discogs URL    | [Katatonia - City Burials](https://www.discogs.com/release/15179711-Katatonia-City-Burials) |

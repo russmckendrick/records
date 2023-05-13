@@ -10,6 +10,12 @@ cover:
     image: "the-best-the-rest-of-the-island-years-74-78-11894228.jpg"
     alt: "The Best & The Rest Of The Island Years 74-78 by Sparks"
     caption: "The Best & The Rest Of The Island Years 74-78 by Sparks"
+additional_images:
+    - "https://i.discogs.com/SnkEKjZ7hJ1_J8JkeiwoxrR91R0brMbnQw7KFi_hMuU/rs:fit/g:sm/q:90/h:495/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE1MjQyODc1/OTYtNjY3MC5wbmc.jpeg"
+    - "https://i.discogs.com/GVpqT1LP8OpioZX7Pes3UHQrQUdx-Bzxc2E2GaA0Y9M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE1MjYwMzM1/NTktNDU5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/NG2G0Oy4hmB0xA7u2QMc-4f21fRHQsdbJjCeqjTHk4c/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE2NTIwNzEz/MjktMTE3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/3pNQarQmRnD08ZTqjzDB4QdkCo_e-567vZuTuUoYoUA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE2NTIwNzEz/MzAtNzg3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/qi_TqzU9t9AUryvVe2cKJpa1PQi04-vxBMVYaP4O77c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE2NTIwNzEz/MzAtNzM4Mi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
@@ -45,24 +51,21 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Record Store Day Preview 2018 / Sparks 2LP red vinyl
 {{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Sparks - The Best & The Rest Of The Island Years 74-78](https://www.discogs.com/release/11894228-Sparks-The-Best-The-Rest-Of-The-Island-Years-74-78) |
-| Label          | Island Records |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Remastered (Red Translucent) |
+| Label          | Island Records |
 | Catalog Number | 6702244 |
 | Notes | Limited edition Record Store Day 2018 release in gatefold sleeve. Remastered from the original tapes  Includes download code card. |
+| Discogs URL    | [Sparks - The Best & The Rest Of The Island Years 74-78](https://www.discogs.com/release/11894228-Sparks-The-Best-The-Rest-Of-The-Island-Years-74-78) |

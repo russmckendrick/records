@@ -10,6 +10,8 @@ cover:
     image: "the-fragile-army-1133398.jpg"
     alt: "The Fragile Army by The Polyphonic Spree"
     caption: "The Fragile Army by The Polyphonic Spree"
+additional_images:
+    - "https://i.discogs.com/YfvmT9WzNMaUSPBUQwKRSc4W-MBTPD3jgbg_AO-x7SI/rs:fit/g:sm/q:90/h:606/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMz/OTgtMTI2MDk5Mzkw/OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ---
@@ -33,23 +35,20 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fragile-army/279307568" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2007                                   |
-| Discogs Link   | [The Polyphonic Spree - The Fragile Army](https://www.discogs.com/release/1133398-The-Polyphonic-Spree-The-Fragile-Army) |
-| Label          | Gut Records |
 | Format         | Vinyl 2× LP (Gatefold) |
+| Label          | Gut Records |
 | Catalog Number | INSREC05V |
 | Notes | This is advertised as a "2 LP 180 gram vinyl", however the actual weight of the records are significantly lower. |
+| Discogs URL    | [The Polyphonic Spree - The Fragile Army](https://www.discogs.com/release/1133398-The-Polyphonic-Spree-The-Fragile-Army) |

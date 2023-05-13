@@ -10,6 +10,25 @@ cover:
     image: "star-8785855.jpg"
     alt: "Star by Belly"
     caption: "Star by Belly"
+additional_images:
+    - "https://i.discogs.com/RoHCwwqkGBbewM9DzxAu0SNhYXGceZrpIJf6NYMAkeM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDcz/NC00NjU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/z2O5m3gYBGGGxtD7vOyKR5n9dZ2LWVTP4n_6EORw9E8/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDcz/NS02NjI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/IDewHO35drIzq48LmmgBBPKOu_q33U_i9PykXCPoke0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDcz/Ni01MTkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/9OKzRF6zzdbx-YQPJWx3WC8eY7O_Cgj012-SpViB8Hs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTQ2OTY2MDkw/OS03NjczLmpwZWc.jpeg"
+    - "https://i.discogs.com/91Nj_J-wJIX_myNk4ZBfybv1LUfigFlNJMvC8zJYWuU/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTQ2OTY2MDkx/MC02NzMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/UorKsb_l-CG5UZaP1zhQb8FPyzFq_2k47hjjuxyLlYg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTQ2OTY2MDky/NC03ODk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/DUyUWCbRNXnbCxTBjseAd4CPZ333tUTdgaeo_FDfF5s/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTQ2OTY2MDky/NC00MTMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Bm5WuIKI-N29gn9cTLxX5IgZFpUuw7ZO_yKNKNSFU00/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDc0/MS05MDQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/JzC1J-b82_Pkct0uwSSGvUvpWxG8EyrvIibVfPwhhjU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDc0/MS01MzEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/DnxvWbA8ws_iSvwMJmBcwdz8vw9CABEbMncweQ_98vA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDc0/Mi0zMDY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/iu-vVY57ccHBvDzWMrcrJh_OO9zmQLHa_40lvIMyqwM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDc0/My0zNzMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/JEpUJTIai-n6GrsJF_DYgEtMzfSo11yA1RE51I-rss4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDcz/OC02NjI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/UL7zS1_0t5jjtCIN3yINeSaXMJ-HV_dg_B7px-nEAiA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDcz/Ny02MTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/iQxPoV2ZK8smY2yHrx0oTyxNYWBBdyl889j2MfuVwxs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDc0/MC02MTc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/T7cjiv5RVnEpdAhytSGEA2e-QKDHQvlsCkjqqfvg9M8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDcz/OS02NjQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/abUPJ2WiDMpQeXUxHzm02NKByEtSRUG1XyP2e1PlxQw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTU5ODgxNDc0/NC0xMjgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/WzeSrtqInyCETZv4xhP4CEg-z0-ZkyWHqn1VvpXLerM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTQ2OTY2MTg0/My05ODU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/81sY6tg8ZmwVUcWBZNLUJQ9BXcxcdDmu4BQCqzt08Sw/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/NTUtMTQ2OTY2MDg4/OC02ODc5LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
@@ -51,20 +70,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star/1450116246" >}}
-
-
-
-
-
 ## Videos
 ### Belly - Someone To Die For
 {{< youtube id="B8w0B0EKy_4" title="Belly - Someone To Die For" >}}<br>
-
 ### More Videos
 
 - [Belly - Low Red Moon](https://www.youtube.com/watch?v=JJgucSSCwtM)
@@ -83,13 +94,15 @@ styles: ["Indie Rock"]
 - [Belly - Sad Dress](https://www.youtube.com/watch?v=W6aG1mvs_GI)
 - [Belly - Stay](https://www.youtube.com/watch?v=K5EWwP3Ob9U)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Belly - Star](https://www.discogs.com/release/8785855-Belly-Star) |
-| Label          | 4AD |
 | Format         | Vinyl 2× LP Album Remastered (White Marbled), CD Album, All Media Limited Edition Reissue |
+| Label          | 4AD |
 | Catalog Number | DAD 3002 |
 | Notes | Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM." Each LP comes in a custom inner sleeve.  LP1: Blue marbling LP2: Pink/red marbling  Tracks numbered sequentially regardless of sides.  All songs [...] recorded at: Sound Emporium Studios, Nashville All songs [...] mixed at: Sixteenth Avenue Sound, Nashville except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool  P 2016 4AD Ltd, C 2016 4AD Ltd US- 134 Grand Street, New York, N.Y. 10013 UK- 17-19 Alma Road, London, SW18 1AA Manufactured in the E U  Labels: P & C 1993 4AD, manufactured in the E.U.  Track durations not listed on release. |
+| Discogs URL    | [Belly - Star](https://www.discogs.com/release/8785855-Belly-Star) |

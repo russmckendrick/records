@@ -10,6 +10,14 @@ cover:
     image: "exile-on-coldharbour-lane-8176313.jpg"
     alt: "Exile On Coldharbour Lane by Alabama 3"
     caption: "Exile On Coldharbour Lane by Alabama 3"
+additional_images:
+    - "https://i.discogs.com/-j9_bNTTknROdCwZ5sHk8oeHHX7X9uKkv3Eu88hBrR0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTQ1NjU3OTIw/NC0xMDgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/x4wq6bDiG68G6SwU4zRPLVaY0RRzixIKRj5-DgmjkhA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/NS0yMjA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/sO9OvVE2-MZEt8y0694kiUAzM5KZWyNYBk_dz8XLlKk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ni0xOTMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/2__1-ZHu0Us2cYxsFTkDVRSfUUpcscLggcN0bzrBapo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ny02MTY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/RJIN3DoRsedpgU7XsLmENfhw-ygEPMY8LEMGR50zFD4/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ni0yMzk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/DkDyksWuAJQxbW09OXlNQl8MEw0bLWSzwRLYOeyDVnQ/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/NS01Mjk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/L1w0g6xnnKudlb_p2ZVtfI9hJeoJIDcPUntingY3dqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTQ1NjU3OTIx/Ni0zODAzLmpwZWc.jpeg"
 genres: ["Electronic", "Blues", "Folk, World, & Country"]
 styles: ["Techno", "Acid House"]
 ---
@@ -33,20 +41,15 @@ styles: ["Techno", "Acid House"]
 
 <!-- section break -->
 
+Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1554839307" >}}
-
-
-
-
-
 ## Videos
 ### Converted
 {{< youtube id="Yx1liOUrOuM" title="Converted" >}}<br>
-
 ### More Videos
 
 - [Speed Of The Sound Of Loneliness](https://www.youtube.com/watch?v=kLfN4G3MFAY)
@@ -62,13 +65,17 @@ styles: ["Techno", "Acid House"]
 - [Alabama 3 - Peace In The Valley (Full Album Version).wmv](https://www.youtube.com/watch?v=5l8CTAZCv7w)
 - [[The Sopranos] Alabama 3 - Woke Up This Morning - lyrics](https://www.youtube.com/watch?v=nW3LikcBL68)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Exile_on_Coldharbour_Lane |
+| Wikipedia Summary | Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.<br><br> |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Alabama 3 - Exile On Coldharbour Lane](https://www.discogs.com/release/8176313-Alabama-3-Exile-On-Coldharbour-Lane) |
-| Label          | Elemental Records |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (180 Gram) |
+| Label          | Elemental Records |
 | Catalog Number | ELM40DMM |
 | Notes | One Little Indian 20th Anniversary Reissue pressed on heavy weight 180 gram vinyl and housed in a gatefold sleeve. Includes download coupon. Some copies sold via Alabama 3 website were signed by Larry Love. Same catalogue number and barcode as the [r=4445223], which was released in 2008 and pressed on 200 gram vinyl instead. |
+| Discogs URL    | [Alabama 3 - Exile On Coldharbour Lane](https://www.discogs.com/release/8176313-Alabama-3-Exile-On-Coldharbour-Lane) |

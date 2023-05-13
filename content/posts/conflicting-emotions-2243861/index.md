@@ -10,6 +10,14 @@ cover:
     image: "conflicting-emotions-2243861.jpg"
     alt: "Conflicting Emotions by Split Enz"
     caption: "Conflicting Emotions by Split Enz"
+additional_images:
+    - "https://i.discogs.com/u_u4lw2OKcgyZkYZ8Fvd8owdBZYgO91WTQvIDdKxZ-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTgz/Ny02NTY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/B79kXALnRLIwNhAzY3-FFFNhaffQR5EO7Su9y1moYXE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTY1ODAxMTQx/My02OTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/lF8qd7O16ZabacqDKD0PLd3LMWl0A9rdfwVR2IPCAQQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg0/Mi0yMzYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ab0lZQLBpeSmQzsSIAt-KxzPRHx_d52GmW1o80jXVkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg0/Ni04MzMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/XR_vZPPJXi_pGSieC8h-qayXrZQZRngm3GY8KVtaPew/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg0/OS05MjkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/6H_Sh6jMqkbGB8IZGRqj0atCTkNlKF22ZN9bSgtKJwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg1/NC0yMjUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/yz22bXb7_yd_c5Exx15Uc0YqNGqYCOcnTr4o_WSTYgw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTYxMzkzMzQw/My04OTIzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -31,32 +39,34 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Conflicting Emotions is the ninth album by New Zealand band Split Enz.
+As recording began, Tim Finn had just released a successful solo album, Escapade, and was focused on promoting it.  As a result, six of the ten songs on the album are written and sung by Neil Finn.
+The rumored resentment over Tim Finn's successful solo career was worsened by his desire to include drummer Ricky Fataar in recording sessions, and using a drum machine on most other tracks.  Hence, although Noel Crombie is credited as drummer/percussionist on the album liner notes, he actually contributed very little drumming. Neil Finn said at the time of recording, "These drum machine things that are going around at the moment. We thought it was high time we utilised one and we've been very careful with it."Eddie Rayner at this point started to use the Yamaha DX7 synthesizer which can heard on many tracks.
+The band advertised for a new drummer before taking to the road for the Conflicting Emotions tour, hoping an injection of new blood would revitalize them. Paul Hester answered the call, joining Split Enz in time to feature in the video clip for "Message to My Girl".
+The album cover art was created by former Split Enz frontman Phil Judd, while the back cover was painted by Noel Crombie.
+<br>
 ## Spotify
 {{< spotify type="album" id="5GHFTDBFBEIyzUUY8PiIrP" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Split Enz - The Devil You Know
 {{< youtube id="7WGCQqYlgZQ" title="Split Enz - The Devil You Know" >}}<br>
-
 ### More Videos
 
 - [Split Enz - Message To My Girl](https://www.youtube.com/watch?v=O6YD4rjVIO8)
 - [Audiosurf - Split enz - Bon voyage](https://www.youtube.com/watch?v=e7FqT3T1_q4)
 - [Audiosurf - Split enz - Our day](https://www.youtube.com/watch?v=0D8WfeT9f0o)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Conflicting_Emotions |
+| Wikipedia Summary | Conflicting Emotions is the ninth album by New Zealand band Split Enz.<br>As recording began, Tim Finn had just released a successful solo album, Escapade, and was focused on promoting it.  As a result, six of the ten songs on the album are written and sung by Neil Finn.<br>The rumored resentment over Tim Finn's successful solo career was worsened by his desire to include drummer Ricky Fataar in recording sessions, and using a drum machine on most other tracks.  Hence, although Noel Crombie is credited as drummer/percussionist on the album liner notes, he actually contributed very little drumming. Neil Finn said at the time of recording, "These drum machine things that are going around at the moment. We thought it was high time we utilised one and we've been very careful with it."Eddie Rayner at this point started to use the Yamaha DX7 synthesizer which can heard on many tracks.<br>The band advertised for a new drummer before taking to the road for the Conflicting Emotions tour, hoping an injection of new blood would revitalize them. Paul Hester answered the call, joining Split Enz in time to feature in the video clip for "Message to My Girl".<br>The album cover art was created by former Split Enz frontman Phil Judd, while the back cover was painted by Noel Crombie. |
 | Release Year   | 1984                                   |
-| Discogs Link   | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861-Split-Enz-Conflicting-Emotions) |
-| Label          | A&M Records |
 | Format         | Vinyl LP Album Stereo |
+| Label          | A&M Records |
 | Catalog Number | AMLX 64963 |
 | Notes | Includes inner sleeve with lyrics and credits.  Some copies came with hype sticker  "featuring  TIM FINN  64963"  Made in Holland.  Similar to [r=13033729] but with both stampers from EDP |
+| Discogs URL    | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861-Split-Enz-Conflicting-Emotions) |

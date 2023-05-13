@@ -11,6 +11,15 @@ cover:
     image: "cosmogramma-2595467.jpg"
     alt: "Cosmogramma by Flying Lotus"
     caption: "Cosmogramma by Flying Lotus"
+additional_images:
+    - "https://i.discogs.com/ieH33NeEyFkh1viWU-H8UkCHQUgKx0yxs0w8l5aMlo0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTQyMzk4NDQ2/Ni0xNzAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/8LOeSeM-enIxXtK53pL5FAoRa3VPYJKhdDKDvaEKxh0/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTMzODY0NTk0/My01MzQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jjokNR6bD91-olAj-brovGgkjCzRR_wx5wMcdk_VJnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTMzODY0NTkz/MS0zOTYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/BYhtSmKsso_fcxLtbm1TpI9SesD8I3653mTkgOgWPvk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTMzODY0NjAw/Ny05MzE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/CH-OHnx4o8PDYWZU_b5kTTXZfSLgY2_0hLKlym1udRI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTMzODY0NTk3/My03ODU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/AKSMttthTIQLPOT9A_ee7NlfJtzRDg9ERIz6p_ZyCbU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTMzODY0NTk4/Ni04OTc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/mpawm1hKRWDQbdTE9wqxSA5FqqxZjmGK_j7HxDRFyps/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTMzODY0NTk1/Ny0xNDc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/719PZ5caibm1WZdKWMMPIaqSG6IOzgRl1kAYxvTgS_s/rs:fit/g:sm/q:90/h:491/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/NjctMTM5MTg3OTI1/Mi01Nzg2LmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"]
 ---
@@ -39,22 +48,13 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 
 <!-- section break -->
 
-
 Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cosmogramma/367788829" >}}
-
-
-
-
-
 ## Videos
 ### Flying Lotus - Zodiac Shit
 {{< youtube id="0ScYz9sNaQk" title="Flying Lotus - Zodiac Shit" >}}<br>
-
 ### More Videos
 
 - [Flying Lotus - MmmHmm ft. Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
@@ -63,13 +63,16 @@ Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial m
 - [Flying Lotus- Cosmogramma ALBUM REVIEW](https://www.youtube.com/watch?v=KCuamde9Atc)
 - [Satelllliiiiiteee](https://www.youtube.com/watch?v=PC69RbHDiCg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra. |
 | Release Year   | 2010                                   |
-| Discogs Link   | [Flying Lotus - Cosmogramma](https://www.discogs.com/release/2595467-Flying-Lotus-Cosmogramma) |
-| Label          | Warp Records |
 | Format         | CD Album |
+| Label          | Warp Records |
 | Catalog Number | WARPCD195 |
 | Notes | Released in jewel case.    Published by Just Isn't Music.    (P)(C) 2010 Warp Records Limited    Made in EU.   |
+| Discogs URL    | [Flying Lotus - Cosmogramma](https://www.discogs.com/release/2595467-Flying-Lotus-Cosmogramma) |

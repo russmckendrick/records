@@ -10,6 +10,13 @@ cover:
     image: "motown-funk-volume-2-11895847.jpg"
     alt: "Motown Funk Volume 2 by Various"
     caption: "Motown Funk Volume 2 by Various"
+additional_images:
+    - "https://i.discogs.com/seljs-WUIzfqol3q26-RgG7sXNls5tDdUMOKvdMLrqA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMTcz/NzEtOTc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/qOVzrSlcMERABmH6PZiEx5rpu31McZwyYaMbuXgzc9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/MjQtNjU2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/MYGr3_1AFLyXQDZRX920z9betIaMPNbuLWGuc8S5IcU/rs:fit/g:sm/q:90/h:811/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIx/OTMtODExOC5qcGVn.jpeg"
+    - "https://i.discogs.com/BANpcGRZg990v9pdA3jj4vsEE5M66zXcUtvRL47Y8Vs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/MzYtNzEzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/LmXfSxAfiUv8MRdaKyENAdpYaBbhXKqTHsfOCHbMuIQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/NjItOTg0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/qam8BdEHo0qkb4jyPEnpQiyYL3T1pKubSNPht-0Rb6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/NzktNzg2OC5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
@@ -40,16 +47,10 @@ styles: ["Funk", "Soul"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Bottom & Company - Gonna Find A True Love
 {{< youtube id="_MYJV-4rTpI" title="Bottom & Company - Gonna Find A True Love" >}}<br>
-
 ### More Videos
 
 - [Keep On Truckin'](https://www.youtube.com/watch?v=wp_FlThJBSE)
@@ -64,13 +65,15 @@ styles: ["Funk", "Soul"]
 - [Undisputed Truth-U.F.O's](https://www.youtube.com/watch?v=m_VoWIUnCbo)
 - [Dazz Band  Let It Whip](https://www.youtube.com/watch?v=lCemjTAw7i0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847-Various-Motown-Funk-Volume-2) |
-| Label          | UMC |
 | Format         | Vinyl 2× LP Compilation (Yellow Translucent) |
+| Label          | UMC |
 | Catalog Number | 5381363 |
 | Notes | Released on Record Store Day 2018. |
+| Discogs URL    | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847-Various-Motown-Funk-Volume-2) |

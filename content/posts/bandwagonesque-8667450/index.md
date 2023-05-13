@@ -10,6 +10,14 @@ cover:
     image: "bandwagonesque-8667450.jpg"
     alt: "Bandwagonesque by Teenage Fanclub"
     caption: "Bandwagonesque by Teenage Fanclub"
+additional_images:
+    - "https://i.discogs.com/mlwOFr-EUX4gbmOXHFV9vuiluSy1D1MCjRNhtDpmgtU/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODA1/My04NTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/bhFxr6I1-rrPiJpBHBhNV8ej-8ZWbksbUEddv-s4xeU/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODA2/OC05MzY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/NA77yeTRxZjQeMS_DqCRWaKUYnMXPVWXUXg0CeT9T-E/rs:fit/g:sm/q:90/h:432/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODA5/NS0xMTA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/87S6Fai-0RNc_Fa92GPMZlkmqfuzIdQjjQ4liJ0tV18/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODEx/Ny03MDczLmpwZWc.jpeg"
+    - "https://i.discogs.com/gsWPmwk2KbzTy6aEwGbXpbfOcBLQWWrH9QMqcuFbpRg/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODEz/Ni02MDAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/DvQgiVmFCxWYwFS7oEKSSvTxWMqLXeBM19rtwJUWKoA/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODU4/NS0xOTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/85ZcvUoHuE_lDe4nbc_kX_xqtsBscLAb1qF8VJUPQYI/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NTAtMTQ3MTA1ODYw/Mi0xMTMxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,32 +41,26 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bandwagonesque/1417071599" >}}
-
-
-
-
-
 ## Videos
 ### Teenage Fanclub - Star Sign
 {{< youtube id="xw49UgKoZnQ" title="Teenage Fanclub - Star Sign" >}}<br>
-
 ### More Videos
 
 - [Teenage Fanclub - What You Do To Me](https://www.youtube.com/watch?v=SmJ3zOn9RD8)
 - [Teenage Fanclub - The Concept](https://www.youtube.com/watch?v=Er_JOsnwzcI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Teenage Fanclub - Bandwagonesque](https://www.discogs.com/release/8667450-Teenage-Fanclub-Bandwagonesque) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Pink, 180-gram, Gatefold) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP336 |
 | Notes | Limited to 500 numbered copies |
+| Discogs URL    | [Teenage Fanclub - Bandwagonesque](https://www.discogs.com/release/8667450-Teenage-Fanclub-Bandwagonesque) |

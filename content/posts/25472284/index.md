@@ -10,6 +10,21 @@ cover:
     image: "25472284.jpg"
     alt: "( ) by Sigur Rós"
     caption: "( ) by Sigur Rós"
+additional_images:
+    - "https://i.discogs.com/BylKlHvqsK5sin5RYQmJ29zQ4xAU8ftIRlnJVuCXnhA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzExMjAy/NDctMjM2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/IcPjR7k_8HaeHX_oD-inG5saHgd_ftjeHGB-s3a1PGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzExMjAy/NDgtMzkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/zkz6058QRczgqPtdLbYHvj-TdtenOEmvzy3MremK5UE/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtODUwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/xBBRgNBzGSGoTaa9cTkLRZMaFJDWucgDbDB0r0Jin2g/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtNjQxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZgoGiWvNBdzFe0_urevZNgSS5BYYaXzsM1io9Z7OFIM/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtODU2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/8tqVbBTYeGXbf9d9knqVJ9vNeamsXnyjoDKg3cKxG08/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjctOTYwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/2IOz9qm9xbko42lkjjjoYWAdD3YR6ytqeMHqYIHvVIY/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NzEtNTIyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/1qLo_0Jka884Z5UznTbsd-Iey46DZv4qaWjyuahgRR0/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjktODc5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/8iRPBQgKnRdEA1M1gMUK4i2tqfbPTDkeLU1vHlaJnBM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NzEtODc1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/sls7sbllFWkm1bqGvAMpUwQa21D5rSLv6l8kc0WaA-Y/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NzEtODkzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/GZyO2DquMux34kINBZCbb0KUESPl8mUmTkmSP6Jcs68/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtNzc1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ShR33evVhwN8_qfVv2jliEXNBiMdHhB08oCzM7C0KeY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjQtNDk2My5qcGVn.jpeg"
+    - "https://i.discogs.com/BgQ1zaALZTPF__a4FUUZf7O4vJ4H32WmaTzuBGoCFmU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzExMjAy/NDktMTkzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/JvHoRYRHIzR74MMuacqjDxUc6Essy1yeYTG24gZXaxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzExMjAy/NDctNzk4MS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Post Rock", "Ambient"]
 ---
@@ -29,20 +44,12 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}
-
-
-
-
-
 ## Videos
 ### Untitled #1 (Vaka)
 {{< youtube id="b8ByoWG1iGo" title="Untitled #1 (Vaka)" >}}<br>
-
 ### More Videos
 
 - [Untitled #2 (Fyrsta)](https://www.youtube.com/watch?v=_AzjHRndmvA)
@@ -53,13 +60,15 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 - [Untitled #7 (Dauðalagið)](https://www.youtube.com/watch?v=yY4uo9yC7v8)
 - [Untitled #8 (Popplagið)](https://www.youtube.com/watch?v=kwNF5tDQVGk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Sigur Rós - ( )](https://www.discogs.com/release/25472284-Sigur-R%C3%B3s--) |
-| Label          | Krúnk |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Translucent Haze, 180g, 20th Anniversary Edition) |
+| Label          | Krúnk |
 | Catalog Number | KRUNK79CLP |
 | Notes | Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.  ℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk. © 2022 Krunk |
+| Discogs URL    | [Sigur Rós - ( )](https://www.discogs.com/release/25472284-Sigur-R%C3%B3s--) |

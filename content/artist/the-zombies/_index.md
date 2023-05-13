@@ -1,6 +1,7 @@
 ---
 title: "The Zombies"
-summary: "English rock band founded in 1962 in St Albans, Herts, England. Inducted into the Rock and Roll Hall of Fame in 2019. Rod Argent: Keyboards, Vocals Paul Atkinson: Guitars Chris White: Bass, Vocals Colin Blunstone: Lead Vocals Hugh Grundy: Drums Current line-up: Colin Blunstone: Lead Vocals Rod Argent: Keyboards, Vocals Tom Toomey: Guitars, Vocals Søren Koch: Bass, Vocals Steve Rodford: Drums"
+summary: "The Zombies are a British rock band formed in the 1961 in St Albans. They are led by keyboardist and vocalist Rod Argent and vocalist Colin Blunstone. The group had a British and American hit in 1964 with \"She's Not There\". In the US, two further singles—\"Tell Her No\" in 1965 and \"Time of the Season\" in 1969—were also successful. Their 1968 album Odessey and Oracle was ranked number 100 on Rolling Stone's 2012 list of the 500 Greatest Albums of All Time, and number 243 on Rolling Stone's 2020 list. The Zombies were inducted into the Rock and Roll Hall of Fame in 2019."
 image: "the-zombies.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-zombies/930280"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Zombies"
 ---

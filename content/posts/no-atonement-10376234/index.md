@@ -10,6 +10,15 @@ cover:
     image: "no-atonement-10376234.jpg"
     alt: "No Atonement by Bullet Height"
     caption: "No Atonement by Bullet Height"
+additional_images:
+    - "https://i.discogs.com/C3lQzqcINLibBKU23JSxXWrc66SWirsK90f9psP-95U/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE0OTgwODk3/NDMtNzc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/upeEhnSuuelieosGdWh-MuM2Bx6miWv53L1w6hoXUEw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI2/MjUtMTg5My5qcGVn.jpeg"
+    - "https://i.discogs.com/dsGeu3558KmAyY3reX7w744ZAcnx2WEJJyex9vu0djY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI2/MzctNzkzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/GlBuBFP3obh_bNthncKR2dTLatQNyOO4kTgWwYAl7do/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI3/NTYtODI0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/izGIj4NYwt009n6jk3jy4OOkik5PUg-jcbLIdIq2kJk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI3/NTYtMjU4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/UXCYCvpEVV17Ni9uDhFpVVdvJ9nOgAZKFV7M02zifOg/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI2/MTktNTM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/L0KEmusKBTjD98qz9c2YNISqy1-xakNty3A4tLYfw-g/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI3/NTUtNTQzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Ed8ina73NWk3GGZAnyp_JvQyg8k4dqQWsZkR1pt9nOU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI2/MzQtNTAyNS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
@@ -41,20 +50,12 @@ styles: ["Industrial"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-atonement/1219447555" >}}
-
-
-
-
-
 ## Videos
 ### Fight Song
 {{< youtube id="0lyWF-I7pZA" title="Fight Song" >}}<br>
-
 ### More Videos
 
 - [BULLET HEIGHT - Bastion (Official Track)](https://www.youtube.com/watch?v=kmlmn3YHpNs)
@@ -67,13 +68,15 @@ styles: ["Industrial"]
 - [Fever](https://www.youtube.com/watch?v=Z6hnJrBKOKw)
 - [Break Our Hearts Down](https://www.youtube.com/watch?v=xHItLkOiP3g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Bullet Height - No Atonement](https://www.discogs.com/release/10376234-Bullet-Height-No-Atonement) |
-| Label          | Superball Music |
 | Format         | Vinyl LP Album (Green Petrol Transparent), CD Album, All Media Limited Edition |
+| Label          | Superball Music |
 | Catalog Number | SBMLP 044 |
 | Notes | Limited to 1000 copies. |
+| Discogs URL    | [Bullet Height - No Atonement](https://www.discogs.com/release/10376234-Bullet-Height-No-Atonement) |

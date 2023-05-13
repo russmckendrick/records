@@ -11,6 +11,17 @@ cover:
     image: "donuts-14749929.jpg"
     alt: "Donuts by J Dilla"
     caption: "Donuts by J Dilla"
+additional_images:
+    - "https://i.discogs.com/ZUfwdEHU7R1tZW77Iw4BY9V7GxV24BdLEPYZ2NpVQGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE2MTk3NDU2/MzgtNjc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/xt2j576XMSuQo-BN5VwD9iL5-SACVBY82pMgn6cCVZI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDUtMjE3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/I0_Ck3ZzHGP0lZL-_wbMNF7mKu0mfBcBa1x3eCZsfRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODA4NDUz/NzQtMTk4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8FNMjZh85UCYdEHbp_ndtZMmuyLcBy8IgjCqd9xoZ5M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDQtMzY0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/dBBU5uPdzFjI7Vmy92u-Gof_PR5rWVVp2FZCLmSvUsk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDQtMTYyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/jeMiAm2IBhlL0N1fMUNhIg8K4GaGlEwF31nW8JVPU34/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NjgtMzk2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zn-b1hcpgWZkx7YCt-WOVrcYe6DLeoOy0DHGzyu977w/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NzgtNTQ1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/KQm_-MV-KE3p4q4MmV113OprtNBa7wNwByID8gamSgc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/OTUtNjMzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/lyAl6cqeJ-za2A659bhitl-AIzbEW1pxokflMaPu5ME/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/OTUtMzg2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/5Zi9tu6iO2kHrOrgTu7dLtjX4fSLoTgcLAl82z9Hg-8/rs:fit/g:sm/q:90/h:418/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE2MTk3NDU2/MzctMjIwNi5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
@@ -53,24 +64,15 @@ styles: ["Instrumental"]
 
 <!-- section break -->
 
-
 There should have been more records like <i>Donuts</i>, many more. When J Dilla, aka Detroit’s James Yancey, made the album, he was 31 years old and widely celebrated as a producer of rare talent, having worked with Erykah Badu, D’Angelo, and De La Soul, among many others. He had an encyclopedic knowledge of obscure jazz, funk, and soul, and, as a talented drummer in his own right, he brought a rare sense of groove to the samples he chopped up on his trusty Akai MPC. <br />
 An entire tradition of beat music has been constructed atop the unique sense of swing that Dilla brought to the classic boom-bap cadence; “Dilla-esque” has become shorthand for a certain sensibility—a mixture of taste, timing, and restraint—that was present in all his productions, and almost impossible to imitate, no matter how many have tried. <br />
 But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posthumous releases: He suffered from lupus—he recorded some of <i>Donuts</i> in his hospital bed, in fact—and died just three days after the record hit shelves in February, 2006. It’s likely the album would have become legendary under any circumstances. Where his 2001 vocal album <i>Welcome 2 Detroit</i> ably showed off his chops, the all-instrumental <i>Donuts</i> proved how much was possible from sampling alone. Drawing not only from staples like Dionne Warwick and The Jackson 5 but also soft rockers 10cc, Sex Pistols impresario Malcom McLaren, and <i>Looney Tunes</i> composer Raymond Scott, Dilla wove brief loops into hypnotic sketches, most of them barely a minute long, that flowed into one overarching whole: the elegant expression of a state of mind that is by turns playful, defiant, and tender, in which the smallest details snowball into the biggest feelings. Dilla’s legacy left generations of fans mourning his loss, but his final completed statement is bursting with joy.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/donuts/108233171" >}}
-
-
-
-
-
 ## Videos
 ### J Dilla - Last Donut of the Night (Donuts) Official Video
 {{< youtube id="fC3Cthm0HFU" title="J Dilla - Last Donut of the Night (Donuts) Official Video" >}}<br>
-
 ### More Videos
 
 - [Sample Breakdown: J. Dilla - Don’t Cry](https://www.youtube.com/watch?v=6By2YvpjjWw)
@@ -104,13 +106,17 @@ But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posth
 - [J Dilla - Bye - Donuts (Full Album)](https://www.youtube.com/watch?v=2-hKtCCgIMw)
 - [J Dilla - Welcome to the Show - Donuts (Full Album)](https://www.youtube.com/watch?v=4tAsNON4SN0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [J Dilla - Donuts](https://www.discogs.com/release/14749929-J-Dilla-Donuts) |
-| Label          | Stones Throw Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Donuts_(album) |
+| Wikipedia Summary | Donuts is the second studio album by the American hip hop producer J Dilla, released on February 7, 2006, by Stones Throw Records. It was released on the day of his 32nd birthday, three days before his death.<br>The album was recorded in 2005, largely during J Dilla's extended stay at Cedars-Sinai Medical Center due to complications from thrombotic thrombocytopenic purpura (TTP) and lupus. Twenty-nine of the album's thirty-one tracks were recorded in J Dilla's hospital room, using a 45-rpm record player and a Boss SP-303 sampler.Donuts received widespread critical acclaim for its dense, eclectic sampling and its perceived confrontation of mortality. Pitchfork placed the album at number 38 on their list of the top 50 albums of 2006 and at number 66 on their list of the top 200 albums of the 2000s. In 2020, Rolling Stone ranked the album at 386 in their 500 Greatest Albums of All Time. It is regarded, by fans and critics alike, as J Dilla's magnum opus, a classic of instrumental hip hop, and one of the most influential hip hop albums of all time, with artists of many genres citing it as an inspiration. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition Reissue (Red-in-Clear, "Jelly" Edition) |
+| Label          | Stones Throw Records |
 | Catalog Number | STH2126-8 |
 | Notes | 2 x 12" (referred to as LP) Red-in-clear 'Jelly Edition' of Donuts, a limited run created for Stones Throw and Rough Trade (NYC & London). Limited to 1000 copies. |
+| Discogs URL    | [J Dilla - Donuts](https://www.discogs.com/release/14749929-J-Dilla-Donuts) |

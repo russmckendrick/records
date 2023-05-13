@@ -10,6 +10,11 @@ cover:
     image: "office-space-the-motion-picture-soundtrack-13458583.jpg"
     alt: "Office Space (The Motion Picture Soundtrack) by Various"
     caption: "Office Space (The Motion Picture Soundtrack) by Various"
+additional_images:
+    - "https://i.discogs.com/zDw9tCLutqTaQvc0G4Zibi73DwKwcQRFtAO9zIFGSbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU4/NTgzLTE2ODE0OTYx/MTItNTgwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/WRcQWQi0msGFzLpFeKOzUaobho1Tj_PyCHKP0PZpJhM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU4/NTgzLTE1NTU4ODkz/NjItODY4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/nuu8jnVWx7CTihKLdS4olNEvt0AQsZe8O7tP-C7zoTM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU4/NTgzLTE1NTU4ODkz/NTEtNTY5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/qQ1AZMjRjw-D7nstkJwc3HI4eFUaFZPB1lMwikO46y4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU4/NTgzLTE1NTU4ODkz/NTUtMjA2Mi5qcGVn.jpeg"
 genres: ["Hip Hop", "Latin", "Stage & Screen"]
 styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
@@ -33,16 +38,10 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Mambo 8
 {{< youtube id="lqi_HT1MfsU" title="Mambo 8" >}}<br>
-
 ### More Videos
 
 - [9-5](https://www.youtube.com/watch?v=rOifm4AbsuY)
@@ -61,13 +60,15 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 - [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
 - [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |
-| Label          | Interscope Records |
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
+| Label          | Interscope Records |
 | Catalog Number | B0029333-01 |
 | Notes | Stapler red, Record Store Day release limited to 2,500.  |
+| Discogs URL    | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |

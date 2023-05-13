@@ -10,6 +10,13 @@ cover:
     image: "pink-flag-12172756.jpg"
     alt: "Pink Flag by Wire"
     caption: "Pink Flag by Wire"
+additional_images:
+    - "https://i.discogs.com/4eQZ5ykkNOf5GFjlFGUMmylUji04PivC1iY_q3gqRsI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzAtMzA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/6TPnTWYyQQ0hJqjCCTRTllw_1NPyOeSsN6Y8hk27d_w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzItMjc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Af4zZE9EpB1prdxo5qe8td3ha6y7--hRVb_vtkVBSE8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/NzktNTAxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/8dcFY472UwGkoNJ671jT_dloDeWcw1Og1shXxEhp1Ek/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/ODUtNTY5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/IcKQHcRyoR_1EmzyC2twaHZA4XasR91Osn9WRPmTwpo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzctMTU0My5qcGVn.jpeg"
+    - "https://i.discogs.com/LAfu2u8zUPlARVhAEQ6cGN2tzimkoU3x6M84H-DFais/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzktNjQ3Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "New Wave"]
 ---
@@ -42,20 +49,13 @@ styles: ["Punk", "New Wave"]
 
 <!-- section break -->
 
-
-
-
+Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-flag/1328682500" >}}
-
-
-
-
-
 ## Videos
 ### Reuters (2006 Remastered Version)
 {{< youtube id="JFm-U8WIrNg" title="Reuters (2006 Remastered Version)" >}}<br>
-
 ### More Videos
 
 - [Field Day for the Sundays (2006 Remastered Version)](https://www.youtube.com/watch?v=bjGx8A3tXMw)
@@ -79,13 +79,17 @@ styles: ["Punk", "New Wave"]
 - [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)
 - [1 2 X U (2006 Remastered Version)](https://www.youtube.com/watch?v=jOjCSLMZPok)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Flag |
+| Wikipedia Summary | Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Wire - Pink Flag](https://www.discogs.com/release/12172756-Wire-Pink-Flag) |
-| Label          | Pinkflag |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Pinkflag |
 | Catalog Number | PF11LP |
 | Notes | Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag   |
+| Discogs URL    | [Wire - Pink Flag](https://www.discogs.com/release/12172756-Wire-Pink-Flag) |

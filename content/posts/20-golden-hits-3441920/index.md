@@ -10,6 +10,11 @@ cover:
     image: "20-golden-hits-3441920.jpg"
     alt: "20 Golden Hits by Willie Nelson"
     caption: "20 Golden Hits by Willie Nelson"
+additional_images:
+    - "https://i.discogs.com/9ZznD5GdXrJp7AOQ0TDx9rtHofEP5FytnfYCkEpzNFE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDE5/MjAtMTMzMDUzNTQw/OC5qcGVn.jpeg"
+    - "https://i.discogs.com/dLgWIplj8IkBgngZx9sPwGya0YTKI5NGNMDkEagJE2o/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDE5/MjAtMTMzMDUzNTQy/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/E53jn84-cqXyD4Vjfc1N_b-hV7oZWLTAO4GhjcN4XU8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDE5/MjAtMTMzMDUzNTQz/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZyaMyuiFZpDiyt4t2DxDC9BiCs5bwG_ZMw-3KogQCng/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDE5/MjAtMTMzMDUzNTQ0/Ny5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
@@ -41,18 +46,17 @@ styles: ["Country"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 0                                   |
-| Discogs Link   | [Willie Nelson - 20 Golden Hits](https://www.discogs.com/release/3441920-Willie-Nelson-20-Golden-Hits) |
-| Label          | Masters |
 | Format         | Vinyl LP Compilation |
+| Label          | Masters |
 | Catalog Number | MA 11121183 |
+| Discogs URL    | [Willie Nelson - 20 Golden Hits](https://www.discogs.com/release/3441920-Willie-Nelson-20-Golden-Hits) |

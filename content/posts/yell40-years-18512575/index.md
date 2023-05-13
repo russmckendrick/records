@@ -10,6 +10,22 @@ cover:
     image: "yell40-years-18512575.jpg"
     alt: "Yell40 Years by Yello"
     caption: "Yell40 Years by Yello"
+additional_images:
+    - "https://i.discogs.com/BpNe0YgqNfO_pNVN2rTg9Oe2qcqinYVJI6S28TiLu4g/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjMtMzUzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/njmt-JfEjujzbD_XJGXdnjzQ-mCysWZzMHjOS8Y1NQI/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMzM3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/VnjbVb24QtpEYOIdMcWIz97xeLN7DuUQH3P2RLs1VGw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtOTQ4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/2XmNjJ7QDLVYd3EBg03UPfW3uXO93I6cNH9-1Qnbgr4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjQtOTY4My5qcGVn.jpeg"
+    - "https://i.discogs.com/0XLU49T7F0ETJpwe0XtWl8CV1BiphrLamuMlXgmwoyM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMjQzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/1Pu3dQuSw9-U-KLePvRRTYNumFtETJ4UFr7m8slHamY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjQtNjIzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/D_snz1v13IwM89eD20A29BnHwca4UG6f0lmCV_1JjiM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMzIxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/_VQsl1dJ7B-ySbD1sYw3x5ACauKoJU0lF3fKUtOrJro/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjYtOTQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/COV6_XhKzRjVroTe9jks0QZyFU9HxTGeaDy13CEJIag/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjYtMTYzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/SqqiUA0ZN-j7Z7Gpcj13_3wTUk1YXvhJRTRp0FGW3r0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtODk2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/MvvLq9ByRJsGJu1BIju7SCjo_upbY17wWu2fJrAG7EY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMTEzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/6ZNR-ofaaAgQyYtRY_z3O7LYTHGHr18Fx6QV3Mpcj70/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjItODU0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/CEeUiw9t1Ko7keWZ_dNPBrXvQ927kiecVftckuzMNpA/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjEtMjAwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/9eyp7mDdR95DJY-yzZ3pjiRrRZZqyUSd1tfvvelsseo/rs:fit/g:sm/q:90/h:663/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtNjE2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/nYgs60XJ3SKQcsp8OuNAA6vY9Z07H95BDTuxEiPhtPM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjE1MzIz/MDYtMzc3Ni5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Electro"]
 ---
@@ -42,16 +58,10 @@ styles: ["Electro"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Yello - Waba Duba (Official Video)
 {{< youtube id="nN9DaTXV0b0" title="Yello - Waba Duba (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Meet My Angel](https://www.youtube.com/watch?v=b13C_Rhxu8M)
@@ -59,13 +69,15 @@ styles: ["Electro"]
 - [Yello - Bostich (DJ Hell 2018 Remix) - OFFICIAL VIDEO](https://www.youtube.com/watch?v=WdXvnRI8gJE)
 - [Takla Makan (Martin Roth Remix)](https://www.youtube.com/watch?v=LT5ftB3lMw8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Yello - Yell40 Years](https://www.discogs.com/release/18512575-Yello-Yell40-Years) |
-| Label          | Polydor |
 | Format         | Vinyl 2× LP Compilation Limited Edition (180-gram) |
+| Label          | Polydor |
 | Catalog Number | 0602435602295 |
 | Notes | No barcode printed on the release.  Comes with stickered barcode 0602435 738314 (ordered on Universal), stickered barcode 0602435 602288 (ordered on Amazon or Udiscover Music)  Gatefold sleeve.  180g  This Release (GSA) ℗&© 2021 Yello distributed by Universal Music GmbH This Release (ROW) ℗&© 2021 Yello under exclusive licence to Universal Music GmbH Made in the EU  Track A1 from [m35165] Track A2 from [m18478] Tracks A3, A4, C1 from [m35464] Tracks A5, C2 from [m38092] Track B1 from [m35649] Track B2 from [r5275723] Tracks B3, C4, C5 from [m187821] Tracks B4,D3, D6 from [m1795259] Track D5 (Bonus Track) from [r15747053] Track B5 from [m1273588] Track C3 from [m37841] Tracks D1, D2 from [m1065916] Track D4 from [m336777] |
+| Discogs URL    | [Yello - Yell40 Years](https://www.discogs.com/release/18512575-Yello-Yell40-Years) |

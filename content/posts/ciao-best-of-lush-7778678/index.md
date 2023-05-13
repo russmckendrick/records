@@ -10,6 +10,15 @@ cover:
     image: "ciao-best-of-lush-7778678.jpg"
     alt: "Ciao! Best Of Lush by Lush"
     caption: "Ciao! Best Of Lush by Lush"
+additional_images:
+    - "https://i.discogs.com/WODLdKehFbELUVOXy4okotCQ_LZR0-66wVX9SnC4N5k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MjM4/My02MzUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Z86cCrcJuEPn1EqYIeZEGaOuBJ5FQ9WBFUe5hblv7G8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My04OTU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/aJLsd7zZz0aX73whQXc6VuvU7zG0d4fbfqLtZ7ogvlA/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ5MzM5NjI3/Ny0yMDgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/-kPZ9Jy0uh_Ia4xz3bT__ToFSiEeIdIDmbpshm-B5I8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My01MzYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/VLISqqPswnp1kHHUyJkEDuIqSmjdLy8TGL7fhui722k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My02NzE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/AIv46cQAHsoGGKNTA35iP4yFGAV-Z0m5vesbsiVqutE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My04NTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/l-jFW8s8nMaYedmO_bHrWLuz8bI0B3nD4XuUWPAG75c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/NS0zNDM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/V7CLUuRoMwNO3-M0GNDp1QScgL7_AOT1BNP_kLDMYLU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ5MzQ5MjU1/NS0zODQyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
@@ -39,23 +48,20 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ciao-best-of-lush/310996586" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Lush - Ciao! Best Of Lush](https://www.discogs.com/release/7778678-Lush-Ciao-Best-Of-Lush) |
-| Label          | 4AD |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red) |
+| Label          | 4AD |
 | Catalog Number | CAD 2K22 |
 | Notes | Released on Record Store Day Black Friday 2015. Comes in a gatefold sleeve.  Dedicated to the memory of [url=https://www.discogs.com/artist/259782-Chris-Acland]Christopher Acland[/url].  A1 to A3 taken from the album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url]. ℗ 1996 4AD Ltd.  A4: single remix, original version on album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url]. ℗ 1996 4AD Ltd.  A5, B2 to C1: taken from the album [url=http://www.discogs.com/Lush-Split/master/19721]'Split'[/url]. ℗ 1994 4AD Ltd.  B1: taken from the single [url=http://www.discogs.com/Lush-Hypocrite/master/6363]'Hypocrite'[/url]. ℗ 1994 4AD Ltd.  C2 to D1: taken from the single album [url=http://www.discogs.com/Lush-Spooky/master/6277]'Spooky'[/url]. ℗ 1992 4AD Ltd.  D2: taken from the single [url=http://www.discogs.com/Lush-Mad-Love/master/19700]'Mad Love'[/url]. ℗ 1990 4AD Ltd.  D3: taken from the single [url=http://www.discogs.com/Lush-Sweetness-And-Light/master/6298]'Sweetness And Light'[/url]. ℗ 1990 4AD Ltd.  D4, D5: taken from the mini album [url=http://www.discogs.com/Lush-Scar/master/6226]'Scar'[/url]. ℗ 1989 4AD Ltd.  This compilation ℗ 2000 4AD Ltd. © 2015 4AD Ltd. |
+| Discogs URL    | [Lush - Ciao! Best Of Lush](https://www.discogs.com/release/7778678-Lush-Ciao-Best-Of-Lush) |

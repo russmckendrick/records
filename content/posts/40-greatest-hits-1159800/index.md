@@ -10,6 +10,14 @@ cover:
     image: "40-greatest-hits-1159800.jpg"
     alt: "40 Greatest Hits by Elvis Presley"
     caption: "40 Greatest Hits by Elvis Presley"
+additional_images:
+    - "https://i.discogs.com/BF1QjNSPtWlFDQ8lXR7wK8evplNvjMXId6Dy61uAYKk/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTUzMTIwNjEz/My0yNTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/7xV9ItzwdXjp2d53twPSaMvPbmbmQ5oFSUFxXV5A3F0/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTMwMDE0MDEz/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/LF8JsMAA58PSIHZtkt6f6PPOG91S6dfsSi0Zzoz_OXk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTMwMDE0MDE0/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/P0A1y9fy-FsP8HIuOZUM2cjzUAZNrItpWVTmdp977b8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTMwMDE0MDE1/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/pNoTJ6zQOEda3wgZ-aQZ1bdVsDNzq6VDtw5b5GXl8KQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTMwMDE0MDE1/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Miyv69HRJtZGcmzdRdzJmzoccQEoV3sKZD-T7Amx2J8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTMwMDE0MDE3/MS5qcGVn.jpeg"
+    - "https://i.discogs.com/x_1BvEtmcix7i7_fbzSh6dvzOeJSTMm_pQzgsnfhprA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/MDAtMTMwMDE0MDE4/MC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ---
@@ -61,23 +69,20 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/burning-love-40-greatest-hits-of-elvis-presley/1521597171" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1975                                   |
-| Discogs Link   | [Elvis Presley - 40 Greatest Hits](https://www.discogs.com/release/1159800-Elvis-Presley-40-Greatest-Hits) |
-| Label          | Arcade |
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
+| Label          | Arcade |
 | Catalog Number | ADEP 12 |
 | Notes | Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA  |
+| Discogs URL    | [Elvis Presley - 40 Greatest Hits](https://www.discogs.com/release/1159800-Elvis-Presley-40-Greatest-Hits) |

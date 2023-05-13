@@ -11,6 +11,24 @@ cover:
     image: "in-cauda-venenum-14182364.jpg"
     alt: "In Cauda Venenum by Opeth"
     caption: "In Cauda Venenum by Opeth"
+additional_images:
+    - "https://i.discogs.com/vfiSAqR9P-CX8tasXxXCyvPoodN0HnKHzGNaD9LrSLU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTMz/NDgtMTY3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/g3T7h3tLolME5bRlCAYfF6LoTNDZ7yyMUwLpRsBi0Ec/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTMz/NjQtNjExOC5qcGVn.jpeg"
+    - "https://i.discogs.com/k2dgO30PCEYRnSPDESXsWHXKvysneGINjMqr8NIe5q0/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTMz/NjktMzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/d21gCJH6gQRNQ9k1ksUknVohL9Pf3MGORiw4-dGHM7M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTMz/NzQtNDUwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/RgITkzI25sW97Zc5z54wif9NUQ7Qfhz5Ibfjnb7LZZI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTMz/OTAtNDM1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Emg36CxpKxnh343_4logP9muh61B_v_GrE7Kk_G_mXQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/MzItOTcxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/y2ofgI_cG7swcZhIbM1abLISBff9Z81h2CQgRQaSCkc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/MzgtNDc2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/rYBZbGf_Ovzq61xMTEuvNSq_T_AxWMeSvX21kmPPTNg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/NDItNzQ5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/D84NbBEuezyIuOHjEb7ZtwcaIhJGfb959uVVBbGLCwY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/NjYtNTE2My5qcGVn.jpeg"
+    - "https://i.discogs.com/EwdZ29Y0LHkicQoZhJhr9SY6YVqumgJxWw0IqUbLUps/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/NzAtNjE5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/o_KQyLKZmLXnoUbgNOotzB28NY548Srq1CQqueDbN3o/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/NzMtNzYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/QvZ1o0HDPPDgLPq4YfT-UlWHOduA4UJx3shSOfgSb-4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/NzktMTMwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Gz00N3gmIVPGDGO45i5VHRKGzJVRZrkg4cNYV-3Kr_k/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/ODEtNDI4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1-RzhKi7ET9mLEkSOLkRJGu7a7LiuLVjT47ZCFeAlUg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/ODQtOTU1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/cq_uGj4LzYHZ3p961SoDi5aWXSWF7yKwyMfjzdQUy3g/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/ODgtOTI2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/v3oQnDwFcfYjj41qw1EgFOsktbA1UPfHXgZGbvptpaY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE1NzAwOTM0/OTctODMxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/68MkWJmKwZTncB0kKtEjlFV7ZFGec5nxkEA54RLYsvM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MzY0LTE2MjIwNjg1/ODItOTg1OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
@@ -31,7 +49,6 @@ styles: ["Progressive Metal", "Prog Rock"]
 10. All Things Will Pass
 
 <!-- section break -->
-
 
 For their 13th album, Swedish metal titans Opeth did something they’d never done before: They recorded two versions—one in English, one in Swedish. But if you’re hoping for a deep, meaningful reason behind it, you’ll be sorely disappointed. “There is no why,” vocalist, guitarist and bandleader Mikael Åkerfeldt tells Apple Music. “For the most part, I don't know why I do things. The lyrics are very spontaneous and impulsive. I don't sit around pondering. The decision was made in the car, taking my daughters to school. It doesn't sound cool. I wish I could say I was at the top of a mountain, that I’d just climbed Mount Everest. But I was in my old Volvo.” Meaning or not, there are plenty of layers to <i>In Cauda Venenum</i>, a Latin phrase meaning “the poison is in the tail”. “I want music that you can play over and over again and always discover new things,” he says. Below, Åkerfeldt talks through each track on Opeth's most dramatic, diverse album to date.<br />
 <b>Garden of Earthly Delights</b>
@@ -54,20 +71,12 @@ For their 13th album, Swedish metal titans Opeth did something they’d never do
 “I’m really happy with this song because it’s so different; there are weird chords I never usually use, like major chords. I'm careful with major chords. I don't think I've written anything like it before. The ending really came out nicely too.”<br />
 <b>All Things Will Pass</b>
 “Out of all the songs, we decided early that it was going to be the last one. I wanted something really heartfelt and epic, with a magical touch. Honestly, I'm not always a fan of my own music. I like it, but it’s a different thing to me. The songs are not going to open up to me like they hopefully will for other people. But I knew what I wanted with this song, and to me, it’s almost perfect. You never know if you're going to do more records. If this is the last record for us—not that I’m saying it is—then this is a nice way to end it.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-cauda-venenum/1470602656" >}}
-
-
-
-
-
 ## Videos
 ### Opeth - In Cauda Venenum (Full Album)
 {{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum (Full Album)" >}}<br>
-
 ### More Videos
 
 - [Opeth - In Cauda Venenum (Swedish edition)](https://www.youtube.com/watch?v=YnnQqGvs9FE)
@@ -76,12 +85,16 @@ For their 13th album, Swedish metal titans Opeth did something they’d never do
 - [OPETH - Dignity (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=GF5FXYmBrc4)
 - [OPETH - Svekets Prins (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [Opeth - In Cauda Venenum](https://www.discogs.com/release/14182364-Opeth-In-Cauda-Venenum) |
-| Label          | Nuclear Blast |
+| Wikipedia URL | https://en.wikipedia.org/wiki/In_Cauda_Venenum |
+| Wikipedia Summary | In Cauda Venenum (Latin for "Poison in the tail") is the thirteenth studio album by Swedish progressive metal band Opeth, released on 27 September 2019 through Moderbolaget and Nuclear Blast. It was released in two versions: a Swedish-language version and an English-language version. The band toured in support of the album throughout 2019 and into 2020. At 67 minutes and 57 seconds, it is the band's longest studio album.  It is also the band's last album to feature drummer Martin Axenrot before his departure in 2021. |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Picture Disc |
+| Label          | Nuclear Blast |
 | Catalog Number | NB 4557-3 |
+| Discogs URL    | [Opeth - In Cauda Venenum](https://www.discogs.com/release/14182364-Opeth-In-Cauda-Venenum) |

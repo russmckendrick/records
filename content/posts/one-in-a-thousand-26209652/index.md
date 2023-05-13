@@ -10,6 +10,11 @@ cover:
     image: "one-in-a-thousand-26209652.jpg"
     alt: "One In A Thousand by Obey Robots"
     caption: "One In A Thousand by Obey Robots"
+additional_images:
+    - "https://i.discogs.com/3kASmMJxh5AcSLkUXzAOaX3rm4CvhKFkar_MwgkMC4w/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA5/NjUyLTE2NzcyNDQ5/NjQtMTc1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/MCIctzb7p6lre1S2cHBh2NCjBEPyxVl5j6R0S4vRkTI/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA5/NjUyLTE2NzcyNDQ5/NjUtMTczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/8xVM01sO3_KLaIYFgv05szZUgrIxgfaOQYWAld7_jMs/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA5/NjUyLTE2NzcyNDUy/NDUtNTg4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/7IGNyif9GQaKmIPqUkG9FMsBT3wsYGRZxasB1yqfZOU/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA5/NjUyLTE2NzcyNDUy/NDYtOTIzMS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Pop"]
 ---
@@ -31,23 +36,20 @@ styles: ["Alternative Rock", "Indie Pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Obey Robots - One In A Thousand](https://www.discogs.com/release/26209652-Obey-Robots-One-In-A-Thousand) |
-| Label          | My Big Sister Recordings |
 | Format         | Vinyl LP Album Limited Edition (Splatter) |
+| Label          | My Big Sister Recordings |
 | Catalog Number | none |
 | Notes | Limited to 400 copies |
+| Discogs URL    | [Obey Robots - One In A Thousand](https://www.discogs.com/release/26209652-Obey-Robots-One-In-A-Thousand) |

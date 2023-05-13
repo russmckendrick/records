@@ -10,6 +10,13 @@ cover:
     image: "vivid-701143.jpg"
     alt: "Vivid by Living Colour"
     caption: "Vivid by Living Colour"
+additional_images:
+    - "https://i.discogs.com/PhcooWKkreLkF_B8o0s2_DfOYmPL-P-oZOwXkDc-rpY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzMzkx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/4FtsMl_eNUz7VlA6jR5Oi7LAaTb0GMWE3k-EmIuQBgg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzMzk3/LmpwZWc.jpeg"
+    - "https://i.discogs.com/H6vMa2cGum-Bbh-aCHk_cpLXc1M_fqEGmIQJOi17pWY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDAz/LmpwZWc.jpeg"
+    - "https://i.discogs.com/z_nBplqRcPBIl2NFC7z6GVS89FHwMQvnWcmHwiDdhCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDA5/LmpwZWc.jpeg"
+    - "https://i.discogs.com/93e4Iz7Axom3wdMC0G_bOAc4qSNRwwe7CHXpBBEf2fk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDEy/LmpwZWc.jpeg"
+    - "https://i.discogs.com/8mm-qx0Agzfz2czNRgO-r39t6QX8LrlR9x4doVzEOc0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDE3/LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
@@ -32,20 +39,15 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 <!-- section break -->
 
+Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}
-
-
-
-
-
 ## Videos
 ### Cult of Personality
 {{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}<br>
-
 ### More Videos
 
 - [I Want To Know](https://www.youtube.com/watch?v=gMzHmdo7BEw)
@@ -59,13 +61,17 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
 - [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Vivid_(Living_Colour_album) |
+| Wikipedia Summary | Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.<br><br> |
 | Release Year   | 1988                                   |
-| Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/701143-Living-Colour-Vivid) |
-| Label          | Epic |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Epic |
 | Catalog Number | 460758 1 |
 | Notes | Including an insert with lyrics and credits.  Recorded at Skyline, Sound On Sound and Right Track Studios. Mixed at Right Track. Mastered at Sterling Sound, New York.  ℗ 1988 CBS Records Inc. © 1988 CBS Records Inc. Shorepak™ by Shorewood Packaging Co. Ltd. England.  Made in England.  On the insert: "In Memory of: Marc DeShong, Stephen Crichlow, James Baldwin, Alphonia Tims, Mary Multrie, Mrs. Kippins "Go on Virginia, play it loud. Your neighbors will love it."  Runouts are etched except for 'Λ' and the stamper numbers which are stamped. |
+| Discogs URL    | [Living Colour - Vivid](https://www.discogs.com/release/701143-Living-Colour-Vivid) |

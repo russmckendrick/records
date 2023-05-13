@@ -11,6 +11,14 @@ cover:
     image: "the-universal-want-15898397.jpg"
     alt: "The Universal Want by Doves"
     caption: "The Universal Want by Doves"
+additional_images:
+    - "https://i.discogs.com/4mCCCilqvf44cvw4thw7W8sm3a4HKNJwAyeDKvH-o-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE2MTU0Nzg5/ODktNTcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/3NsKWm2_zmG9hGvDhz-BXwGhpU5EWmcIzlnUln9bn_0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE1OTk5MDM1/MTUtOTM4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/l8R3w7yttT2OahpH07gDDk4IS8gKBfcdnyvFx2z4cYs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE1OTk5MDM1/MjEtNDk3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/GUTPJO057DKENP5OdObREfgFEqiRzfWZ5rPVBj8HpYA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE1OTk5MDM1/MzAtMzg3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/qO9bcNz9DCMl5F8c6cp3k7KIuB8-FjgIKAThcnCouiA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE1OTk5MDM1/MzUtNDcxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/FDSPquT_ikpPanDiLe9N7fC_JKJp2zevj7BeCsysxyM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE1OTk5MDM1/MzktODExOC5qcGVn.jpeg"
+    - "https://i.discogs.com/9_GU1Oah6-lTr8XgdWGkd4qwnE_mI0M0RlKOQ5TBvmc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk4/Mzk3LTE1OTk5MDM0/NjktNjI1Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
@@ -31,7 +39,6 @@ styles: ["Indie Rock", "Britpop"]
 10. Forest House (3:41)
 
 <!-- section break -->
-
 
 They began by just playing the hits. In 2017, nearly eight years after Doves had last picked up their instruments together, drummer Andy Williams and his twin brother, guitarist Jez, gave bassist/singer Jimi Goodwin a call. Come over to Andy’s studio, they said, and let’s see if we can remember how to play “Black and White Town” and “There Goes the Fear”—just for fun. “It came back really quickly,” Andy tells Apple Music. “We were all laughing and having fun. As a drummer, hearing that bass—<i>his</i> bass—instantly felt very familiar, in a good sense. Pretty soon, there was a real enthusiasm and hunger from us to work together.” When they went on hiatus after 2009’s excellent <i>Kingdom of Rust</i> album, Doves were fatigued. They’d been together for a quarter of a century, serving up four albums as one of Britain’s best and more adventurous indie-rock trios—plus one before that as house specialists Sub Sub. They were never meant to disappear for a decade, but when you’ve got families and side projects (the Williams brothers as Black Rivers, Goodwin with his 2014 solo album <i>Odludek</i>), life gets in the way. “I don’t want to sound boastful, but I think there’s a chemistry between us three that you don’t run into every day,” Andy says. “That time away from each other has helped us appreciate that.”<br />
 Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album precisely because it doesn’t sound like any other Doves album. The exquisitely measured mix of euphoria and sorrow is familiar, but by experimenting with Afrobeat, dub and keyboards foraged from behind the Iron Curtain, the trio continue to expand their horizons on every song. “We didn’t attempt to resurrect another ‘The Cedar Room’ or ‘There Goes the Fear’, because it’s a recipe for disaster when you chase your own tail,” says Andy. “It’s really important for us three to be excited and feel like we’re moving forward.” Let him guide you through that evolution, track by track.<br />
@@ -55,33 +62,29 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
 “I started it in my studio as a ballad. I never intended it to be like a house workout at the end. I was thinking of just a two-and-a-half-minute song about the universal want—this question of always chasing something, be it consumerism or some aspect of your life where you think you’re going to be happy. But Jez took it away and he obviously saw something else for the end section and thought of welding this house section onto the end. I couldn’t believe it when I heard it, it was just so unpredictable, and I hope that unpredictability carries through to the listener. I guess it’s kind of a reference to our past, our Sub Sub days—a cheeky doff of the cap to that era. It was a very formative era for all of us.”<br />
 <b>Forest House</b>
 “Again, this had been knocking around for a while and we were never able to master it, didn’t ever find the key to unlock it. It just felt like it was a really intimate way to finish the record—a small way to wind the album down. A simple song, but with Jez’s Russian keyboard in there—this old Russian ’60s monster of an analog keyboard. It’s almost got a dystopian sound. Once that got brought into the song, it was like, ‘Yeah.’”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-universal-want/1519035396" >}}
-
-
-
-
-
 ## Videos
 ### Doves - Carousels
 {{< youtube id="9a239ZI3iYI" title="Doves - Carousels" >}}<br>
-
 ### More Videos
 
 - [Doves - Prisoners](https://www.youtube.com/watch?v=Q02PXRTMus4)
 - [Doves - Cathedrals Of The Mind](https://www.youtube.com/watch?v=MBWsg9MtQuM)
 - [Doves - Broken Eyes](https://www.youtube.com/watch?v=pISDosb4Aes)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Doves - The Universal Want](https://www.discogs.com/release/15898397-Doves-The-Universal-Want) |
-| Label          | Virgin |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Universal_Want |
+| Wikipedia Summary | The Universal Want is the fifth studio album by British rock band Doves. The album was released by Heavenly Recordings and Virgin/EMI on 11 September 2020. The Universal Want is the band's first album following a hiatus that began in 2010; the band members pursued solo projects in the interim.<br>Three digital singles preceded the album's release across mid-2020: "Carousels" in June, "Prisoners" in July, and "Cathedrals of the Mind" in August. The Universal Want garnered critical acclaim and was commercially successful, entering the UK Albums Chart at #1, becoming Doves' third album to achieve the top position. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
+| Label          | Virgin |
 | Catalog Number | VY 3248 |
 | Notes | Includes download code. Some copies signed by the band in gold marker.  Made in the Czech Republic. |
+| Discogs URL    | [Doves - The Universal Want](https://www.discogs.com/release/15898397-Doves-The-Universal-Want) |

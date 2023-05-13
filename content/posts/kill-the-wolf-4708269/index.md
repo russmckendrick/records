@@ -10,6 +10,13 @@ cover:
     image: "kill-the-wolf-4708269.jpg"
     alt: "Kill The Wolf by Matt Berry"
     caption: "Kill The Wolf by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/0RSazXrnVl_u9I65uYWZlqFq5veWhc252_80uq_dbYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgy/NjktMTQ5MjA4NTg2/MC03NDcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/UxAODtrcQ9ABRSZNYFmFtMxA2VmBLmxLN6zcXpqJNN8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgy/NjktMTU4OTU1NzEw/Ny02MjM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Tle_DVbwbb5TjA1wRJd3h8j-QIbBuycH1g69CGS0_ms/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgy/NjktMTU4OTU1NzE2/MC02ODkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/2ofxm9oZXYYNSBmDJfrqY8yTnsGYpH2dGDxEzcpNAUs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgy/NjktMTU4OTU1NzIx/OC01MjM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/V9GVCoyTEw5WDHzVvgej0UWrSbg-Js48nm5GYLRq72Q/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgy/NjktMTU4OTU1NzMw/Ni03MTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/obw3RYRH7LoRJjwQJSIikyfCB8r6lTQnBARTT9AfhaQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgy/NjktMTU4OTU1NzM2/OS04NDEzLmpwZWc.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
@@ -33,20 +40,13 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}
-
-
-
-
-
 ## Videos
 ### Matt Berry - Gather Up (Kill the Wolf Album)
 {{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>
-
 ### More Videos
 
 - [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
@@ -63,13 +63,17 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 - [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Kill_the_Wolf_(Matt_Berry_album) |
+| Wikipedia Summary | Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records. |
 | Release Year   | 2013                                   |
-| Discogs Link   | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-Kill-The-Wolf) |
-| Label          | Acid Jazz |
 | Format         | Vinyl LP Album |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP334 |
 | Notes | The runouts are all stamped on both sides. |
+| Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-Kill-The-Wolf) |

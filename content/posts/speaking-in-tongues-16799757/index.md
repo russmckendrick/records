@@ -10,6 +10,14 @@ cover:
     image: "speaking-in-tongues-16799757.jpg"
     alt: "Speaking In Tongues by Talking Heads"
     caption: "Speaking In Tongues by Talking Heads"
+additional_images:
+    - "https://i.discogs.com/ZZtkAFFGmCT9NShQv30A5_D05H0HZEHjAHnenbX8vsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTMxNDc1/ODQtMzA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/65-_EseRbm3BEdowIAOAWw6CtsSIPojla2q8d7GfhzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTMxNDc1/ODYtMjk1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/I0T2l4XoQ6RqMZdqwJpN4jnnDE-Qe96AE2VpI17JdCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTMxNDc1/ODQtNDAyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/fNC7NvbYFOVC2IbNE3i0YEWuFQC_vv8A-CRS1gBrB8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTMxNDc1/ODUtOTE4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/E6g-e3OvlsKKgv7NxvbIchpVcZZEp9nQcSl0oWWtupY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTMxNDc1/ODUtNjM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/q2wIdIzjo__1sAgevwsZ7fhZq3o4td3TKbb4GH2tyXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTMxNDc1/NzgtNDM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/5bvAwsu2cAZyzr4fIxlBHqwn1Xfrg0Ow4ZzoLZlwAI4/rs:fit/g:sm/q:90/h:978/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk5/NzU3LTE2MTQyMDI4/NTYtNzgwNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
@@ -30,20 +38,14 @@ styles: ["New Wave"]
 
 <!-- section break -->
 
-
-
-
+Speaking in Tongues is the fifth studio album by American rock band Talking Heads, released on June 1, 1983, by Sire Records. After their split with producer Brian Eno and a short hiatus, which allowed the individual members to pursue side projects, recording began in 1982. It became the band's commercial breakthrough and produced the band's sole US top-ten hit, "Burning Down the House".
+The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense, which generated a live album of the same name. The album also crossed over to the dance charts, where it peaked at number two for six weeks. It is the group's highest-charting album on the US Billboard 200, peaking at number 15. It was also their biggest-selling album in Canada, where it was certified platinum in 1983.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues-bonus-track-version/124923817" >}}
-
-
-
-
-
 ## Videos
 ### Talking Heads - Burning Down the House (Official Video)
 {{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Making Flippy Floppy (2005 Remaster)](https://www.youtube.com/watch?v=xphLY5ucIpQ)
@@ -55,13 +57,17 @@ styles: ["New Wave"]
 - [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
 - [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Speaking_in_Tongues_(Talking_Heads_album) |
+| Wikipedia Summary | Speaking in Tongues is the fifth studio album by American rock band Talking Heads, released on June 1, 1983, by Sire Records. After their split with producer Brian Eno and a short hiatus, which allowed the individual members to pursue side projects, recording began in 1982. It became the band's commercial breakthrough and produced the band's sole US top-ten hit, "Burning Down the House".<br>The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense, which generated a live album of the same name. The album also crossed over to the dance charts, where it peaked at number two for six weeks. It is the group's highest-charting album on the US Billboard 200, peaking at number 15. It was also their biggest-selling album in Canada, where it was certified platinum in 1983. |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |
-| Label          | Rhino Records (2) |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Blue) |
+| Label          | Rhino Records (2) |
 | Catalog Number | RCV1-23883 |
 | Notes | "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies. |
+| Discogs URL    | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |

@@ -10,6 +10,11 @@ cover:
     image: "west-bank-songs-1978-1983-a-best-of-14843180.jpg"
     alt: "West Bank Songs 1978-1983 (A Best Of) by The Undertones"
     caption: "West Bank Songs 1978-1983 (A Best Of) by The Undertones"
+additional_images:
+    - "https://i.discogs.com/I156WrrR-GZAjuLoICsfcC9VTUpWSY3383UC2gGMDTM/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtOTc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Rtxb7ee2fj1eYGhcXwXbMf8AW_zIw_jI3N6emHkwb0U/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtNzQ2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/bje4yRCBoBSYGFPgifZGw9fDTHZb9F5dz2vOm7gyWm8/rs:fit/g:sm/q:90/h:1089/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtNDUzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/TOFwKRBlpofksVgraJP5qIr7J8fan5i4SzhISoub6dQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTIx/NjYtOTYxOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Power Pop"]
 ---
@@ -51,24 +56,21 @@ styles: ["Punk", "Power Pop"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Teenage Kicks
 {{< youtube id="u-mnSIbGTk0" title="Teenage Kicks" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [The Undertones - West Bank Songs 1978-1983 (A Best Of)](https://www.discogs.com/release/14843180-The-Undertones-West-Bank-Songs-1978-1983-A-Best-Of) |
-| Label          | BMG |
 | Format         | Vinyl LP (Purple Transparent), Vinyl LP (White), All Media Compilation Limited Edition |
+| Label          | BMG |
 | Catalog Number | SALVO426DLP |
 | Notes | Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.  50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website. |
+| Discogs URL    | [The Undertones - West Bank Songs 1978-1983 (A Best Of)](https://www.discogs.com/release/14843180-The-Undertones-West-Bank-Songs-1978-1983-A-Best-Of) |

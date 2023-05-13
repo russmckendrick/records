@@ -10,6 +10,11 @@ cover:
     image: "motown-funk-10167720.jpg"
     alt: "Motown Funk by Various"
     caption: "Motown Funk by Various"
+additional_images:
+    - "https://i.discogs.com/mXqo0u4TRvVzxjEoWefwK8P00QLlWisf20qUvHwxe9I/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/NzIwLTE0OTI3ODgw/NDctNDA4Ni5wbmc.jpeg"
+    - "https://i.discogs.com/7I7PxLqIU2hk4NTbP-bDlxFZKpD7Y4uJlFcmguxmYf0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/NzIwLTE0OTcwMjk2/NTQtMjMwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/IQi9warOH4QzB7lzMl9V80fjLSX-jNR3_PY4BU9IKsQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/NzIwLTE0OTcwMjk2/NzAtOTY4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/u5eU_ty4Ke4hJp2zz5EW8LPz0j-hTnLebxUk_sLkQSk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/NzIwLTE0OTcwMjk2/NzQtMTU4Ny5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
@@ -43,19 +48,12 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Barbara McNair - The Hunter Gets Captured By The Game
 {{< youtube id="e1aQDKgjm3g" title="Barbara McNair - The Hunter Gets Captured By The Game" >}}<br>
-
 ### More Videos
 
 - [Strung Out](https://www.youtube.com/watch?v=ldK1UHr_UzQ)
@@ -63,13 +61,15 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 - [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
 - [The Temptations - Psychedelic Shack (Extended Version)](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Various - Motown Funk](https://www.discogs.com/release/10167720-Various-Motown-Funk) |
-| Label          | Tamla Motown |
 | Format         | Vinyl 2× LP Compilation (Red Translucent) |
+| Label          | Tamla Motown |
 | Catalog Number | 537 552-0 |
 | Notes | Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company. |
+| Discogs URL    | [Various - Motown Funk](https://www.discogs.com/release/10167720-Various-Motown-Funk) |

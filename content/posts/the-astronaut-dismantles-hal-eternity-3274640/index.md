@@ -10,6 +10,9 @@ cover:
     image: "the-astronaut-dismantles-hal-eternity-3274640.jpg"
     alt: "The Astronaut Dismantles HAL/Eternity by Amplifier"
     caption: "The Astronaut Dismantles HAL/Eternity by Amplifier"
+additional_images:
+    - "https://i.discogs.com/ehPBn5Evwa1Yx_98KTQyBZY5HF1r09dbQSUcQqbtuUY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQ2/NDAtMTMyMzQ1ODIz/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/KKSm5kYoZdeAosDJizGyo16yeeSZ8tukjExnpPWlERI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQ2/NDAtMTMyMzQ1ODI1/NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ---
@@ -36,19 +39,18 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2011                                   |
-| Discogs Link   | [Amplifier - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640-Amplifier-The-Astronaut-Dismantles-HALEternity) |
-| Label          | Not On Label (Amplifier (3) Self-released) |
 | Format         | Vinyl 2× 12" EP Compilation Limited Edition Numbered Reissue |
+| Label          | Not On Label (Amplifier (3) Self-released) |
 | Catalog Number | none |
 | Notes | Limited to 500 hand-numbered copies. Comes with a full size 6-page booklet and some are signed by the band. |
+| Discogs URL    | [Amplifier - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640-Amplifier-The-Astronaut-Dismantles-HALEternity) |

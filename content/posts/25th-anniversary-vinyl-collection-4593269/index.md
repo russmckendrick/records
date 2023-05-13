@@ -10,6 +10,12 @@ cover:
     image: "25th-anniversary-vinyl-collection-4593269.jpg"
     alt: "25th Anniversary Vinyl Collection  by Public Enemy"
     caption: "25th Anniversary Vinyl Collection  by Public Enemy"
+additional_images:
+    - "https://i.discogs.com/aWG87T9MJpSZbWjC9jcwrhmitNUt-07lJOKL24q0RHc/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMy/NjktMTU2MDIwMzU4/Ni00NzA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Zyj48-avj6lptJapYknO1RgNnDbCJnWGkgPUfNSOS4E/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMy/NjktMTU2MDIwMzU4/OS0yODA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/ADrsHEF0WieTGrbHQxMeftMeHQ0fwTi5L_BlY3s_Tj0/rs:fit/g:sm/q:90/h:93/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMy/NjktMTU2MDIwMzU5/MS0xMTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/MKS3138REfCdxK086MLKiOPS-rUJwsN5g6eWVTZTzW8/rs:fit/g:sm/q:90/h:90/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMy/NjktMTU2MDIwMzU5/Ny0zOTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/7nxrc-37CVcFjdQbF6BroK56QzjSFhhVoi1mxFJTzqc/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMy/NjktMTM2OTM3NTQ3/MS04NDc1LmpwZWc.jpeg"
 genres: ["Hip Hop"]
 styles: []
 ---
@@ -119,27 +125,23 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Public Enemy: 25th Anniversary Vinyl Packaging
 {{< youtube id="8OSV5YArx_c" title="Public Enemy: 25th Anniversary Vinyl Packaging" >}}<br>
-
 ### More Videos
 
 - [Public Enemy 25th Anniversary Box Set out May 6th 2013](https://www.youtube.com/watch?v=qIMs1YfI9XU)
 - [Public Enemy-Fear Of A Black Planet Album Review](https://www.youtube.com/watch?v=9rqg7OrJlG8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2013                                   |
-| Discogs Link   | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269-Public-Enemy-25th-Anniversary-Vinyl-Collection-) |
-| Label          | Def Jam Recordings |
 | Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl 2× LP, Vinyl 2× LP, Vinyl 2× LP, Box Set Limited Edition Compilation (180 Gram) |
+| Label          | Def Jam Recordings |
 | Catalog Number | 06007 534 087-8 (0) |
+| Discogs URL    | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269-Public-Enemy-25th-Anniversary-Vinyl-Collection-) |

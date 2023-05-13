@@ -10,6 +10,8 @@ cover:
     image: "deep-south-blues-4025684.jpg"
     alt: "Deep South Blues by The Mississippi Moons"
     caption: "Deep South Blues by The Mississippi Moons"
+additional_images:
+    - "https://i.discogs.com/i6q4tM52MddqV3nW9z4nqTr-tzpOqHUZnkd6xRtqkJs/rs:fit/g:sm/q:90/h:472/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU2/ODQtMTM5MDM5MDQw/My05NzA5LmpwZWc.jpeg"
 genres: ["Jazz", "Blues"]
 styles: []
 ---
@@ -31,19 +33,18 @@ styles: []
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1964                                   |
-| Discogs Link   | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684-The-Mississippi-Moons-Deep-South-Blues) |
-| Label          | Presto |
 | Format         | Vinyl LP |
+| Label          | Presto |
 | Catalog Number | PRE 629 |
 | Notes | Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10 |
+| Discogs URL    | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684-The-Mississippi-Moons-Deep-South-Blues) |

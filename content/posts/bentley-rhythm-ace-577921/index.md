@@ -10,6 +10,8 @@ cover:
     image: "bentley-rhythm-ace-577921.jpg"
     alt: "Bentley Rhythm Ace by Bentley Rhythm Ace"
     caption: "Bentley Rhythm Ace by Bentley Rhythm Ace"
+additional_images:
+    - "https://i.discogs.com/vr-KA38zn6xFenxerRwepDLgq2gvT9wGBqnRo65fJlo/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzky/MS0xNDQ5MTY3MDQ4/LTc0MjQuanBlZw.jpeg"
 genres: ["Electronic"]
 styles: ["Big Beat"]
 ---
@@ -32,20 +34,13 @@ styles: ["Big Beat"]
 
 <!-- section break -->
 
-
-
-
+Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham in 1995, originally consisting of Mike Stokes and Richard March.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money-sun-hits-the-sky-bentley-rhythm/1509677858" >}}
-
-
-
-
-
 ## Videos
 ### Bentley Rhythym Ace - Bentley's Gonna Sort You Out
 {{< youtube id="3IWl77o3l50" title="Bentley Rhythym Ace - Bentley's Gonna Sort You Out" >}}<br>
-
 ### More Videos
 
 - [Bentley Rhythm Ace - Midlander (There Can Only Be One...)](https://www.youtube.com/watch?v=H7hpYIM51QI)
@@ -58,12 +53,16 @@ styles: ["Big Beat"]
 - [Spacehopper 1997 Bentley Rhythm Ace](https://www.youtube.com/watch?v=mpXVR7P4TyE)
 - [BENTLEY  RHYTHM  ACE - Return Of The Hardcore Jumble Carbootechnodisco Roadshow](https://www.youtube.com/watch?v=HfGDkeneGTo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bentley_Rhythm_Ace |
+| Wikipedia Summary | Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham in 1995, originally consisting of Mike Stokes and Richard March. |
 | Release Year   | 1997                                   |
-| Discogs Link   | [Bentley Rhythm Ace - Bentley Rhythm Ace](https://www.discogs.com/release/577921-Bentley-Rhythm-Ace-Bentley-Rhythm-Ace) |
-| Label          | EMI |
 | Format         | Vinyl 2× LP Album |
+| Label          | EMI |
 | Catalog Number | 7243 8 21049 1 9 |
+| Discogs URL    | [Bentley Rhythm Ace - Bentley Rhythm Ace](https://www.discogs.com/release/577921-Bentley-Rhythm-Ace-Bentley-Rhythm-Ace) |

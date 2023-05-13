@@ -10,6 +10,9 @@ cover:
     image: "knowing-me-knowing-you-8395860.jpg"
     alt: "Knowing Me Knowing You by Alan Partridge"
     caption: "Knowing Me Knowing You by Alan Partridge"
+additional_images:
+    - "https://i.discogs.com/HyjIhwOu3lHlzFKPdE1PhzLEjllIOPsayxnb4HB-mso/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/NjAtMTQ2MTM5NzQy/OS03NDk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/tZqCF2SgE1egnWZHF6qab00IU8SAHrpr5uptcFp4Pwk/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/NjAtMTQ2MTM5NzQz/Mi0zMDc2LmpwZWc.jpeg"
 genres: ["Non-Music"]
 styles: ["Comedy"]
 ---
@@ -23,19 +26,18 @@ styles: ["Comedy"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Alan Partridge - Knowing Me Knowing You](https://www.discogs.com/release/8395860-Alan-Partridge-Knowing-Me-Knowing-You) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Limited Edition Picture Disc |
+| Label          | Demon Records |
 | Catalog Number | DEMREC138 |
 | Notes | RSD April 2016 release. |
+| Discogs URL    | [Alan Partridge - Knowing Me Knowing You](https://www.discogs.com/release/8395860-Alan-Partridge-Knowing-Me-Knowing-You) |

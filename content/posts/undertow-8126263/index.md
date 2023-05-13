@@ -11,6 +11,14 @@ cover:
     image: "undertow-8126263.jpg"
     alt: "Undertow by Tool"
     caption: "Undertow by Tool"
+additional_images:
+    - "https://i.discogs.com/AAmLSKXqWaRqJiwByPbL75O6iP5oxVtVcNaybUewNDU/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzUy/OS04NzEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/RPe__rZRq3VioHaFDi_S-QzhQuqBAFM1ruiBRm4kTUk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzQ5/MC03MTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/eNtR0LJIBMpTOeXn9aUN8tIRdKJY5DRhHFUJczNwG8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzU1/MS01OTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/JJ9y0ax3OU6pKHAU9466UTHyIZ-gSZh6XscxV6F7leQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzU1/NS01MzQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/6PqCDwIbuSC1Dum6EEZ5FPydEprPVmPEuUNwXVQkAxA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzU0/MC0yNjUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/OvRfYJSO0pJTF4SbGv7T56lKvdmCMitvlf6auRf_lvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzU0/Ny00OTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/v5RG717LuQcGM7uKQxwCdg7PNmREsNdt2cuNjbcFSV4/rs:fit/g:sm/q:90/h:104/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTYwNDk1NjM1/OS01OTEwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
@@ -32,22 +40,14 @@ styles: ["Hard Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-TOOL's breakthrough moment—their double-platinum debut full-length—is best known for the pulsating alt-metal crossover hit "Sober". It was released before a scene-stealing summer when they graduated from the second stage to the main stage in the middle of Lollapalooza 1993. Embraced by alternative crowds and headbangers alike, it’s an album of both sensitivity and brutality, fragility and anger, somewhere between King Crimson's precision and Swans' bloodletting. Guitarist Adam Jones and bassist Paul d'Amour lurch around in drop-D, drummer Danny Carey adds busy prog flourishes and the voice of Maynard James Keenan dredges swamps and pierces skies. The band's unique mix of warmth and unease also comes from a willingness to experiment: In making the LP, the band blasted a piano with a shotgun, tickled a guitar with an Epilady hair remover and recruited punk poet laureate Henry Rollins for a spoken-word interlude.
-
-
-
+Undertow is the debut studio album by American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy, it was recorded from October to December 1992 at Sound City Studios in Van Nuys and Grandmaster Recorders in Hollywood. The album includes some tracks the band decided to not release on their debut EP Opiate. This is their only album to feature original bassist Paul D'Amour.
+According to AllMusic, Undertow helped heavy metal music remain prominent as a mainstream musical style, and allowed several later bands to break through to the mainstream. It was released at a time when grunge was at the height of its popularity, and pop punk was slowly beginning to gather mainstream attention. AllMusic saw the album's success in the "striking, haunting visuals that complemented the album's nihilistic yet wistful mood."As of 2020, Undertow has sold over three million copies in the United States, and is certified triple platinum by the Recording Industry Association of America.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/undertow/1474185287" >}}
-
-
-
-
-
 ## Videos
 ### TOOL - Intolerance (Audio)
 {{< youtube id="BS0KZaaPNsk" title="TOOL - Intolerance (Audio)" >}}<br>
-
 ### More Videos
 
 - [TOOL - Sober](https://www.youtube.com/watch?v=nspxAG12Cpc)
@@ -62,13 +62,17 @@ TOOL's breakthrough moment—their double-platinum debut full-length—is best k
 - [TOOL - Flood (Audio)](https://www.youtube.com/watch?v=DZNxJWIcwCc)
 - [TOOL - Disgustipated (Audio)](https://www.youtube.com/watch?v=CmJYZ1NIn1Y)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2006                                   |
-| Discogs Link   | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-Undertow) |
-| Label          | Volcano (2) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Undertow_(Tool_album) |
+| Apple Music Summary | TOOL's breakthrough moment—their double-platinum debut full-length—is best known for the pulsating alt-metal crossover hit "Sober". It was released before a scene-stealing summer when they graduated from the second stage to the main stage in the middle of Lollapalooza 1993. Embraced by alternative crowds and headbangers alike, it’s an album of both sensitivity and brutality, fragility and anger, somewhere between King Crimson's precision and Swans' bloodletting. Guitarist Adam Jones and bassist Paul d'Amour lurch around in drop-D, drummer Danny Carey adds busy prog flourishes and the voice of Maynard James Keenan dredges swamps and pierces skies. The band's unique mix of warmth and unease also comes from a willingness to experiment: In making the LP, the band blasted a piano with a shotgun, tickled a guitar with an Epilady hair remover and recruited punk poet laureate Henry Rollins for a spoken-word interlude. |
+    | Release Year   | 2006                                   |
 | Format         | Vinyl 2× LP Album Reissue |
+| Label          | Volcano (2) |
 | Catalog Number | 61422-31052-1 |
 | Notes | This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment.  |
+| Discogs URL    | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-Undertow) |

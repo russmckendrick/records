@@ -11,6 +11,21 @@ cover:
     image: "exile-on-main-st-2285052.jpg"
     alt: "Exile On Main St. by The Rolling Stones"
     caption: "Exile On Main St. by The Rolling Stones"
+additional_images:
+    - "https://i.discogs.com/vKHJAT8EendoVv_mP21PN_4J4C2bYUSMabeoPCE-o3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjYz/MS0yNzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/mUKoHWYyrnPWQvM44oyML8BcopTl117VFiio61-7RGY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjYz/Mi02OTgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/hF7Nxfe_Xfh1WDC74pammPpcFF7NQcKtbdmMjnSptp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY0/MS03NTUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/YlXtKP8OQLletvByw02Wgqs3Y5by0EFXzSd_o14TGcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY0/MS0xNzkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Y-I0GIqJjqPxVCkxWuwDc3jUY0lG83tWit0StTulGAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY0/OC03MDU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/yAing3nA-2W04Q3pcDUl8hBCFyb00OIMAPvXV30TE1U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY0/OC05OTQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/y0hJKUk0JZMDnYS8DEHsf3YnAqAd_jZ5862y9UH63Yc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY2/MC00ODQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/_mRSbiEImuQGblH7ClTC4vPXzmvLR1wN2GLJJWpT39o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY2/MC03NTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/HLCjAu0SAwnAdiIuXU2kUDruTcQ8gR_JsH1b4qeq-i8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY3/My04OTY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Wuqrkq7IgFFWYTvmJLkf0f1GnoopNnGLNF0fZm3hKUs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY3/NC04NjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/YJccRQ6k3Zy9pHoLTRP-Z_Dm7WqBo1W_yytkYI32pjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY4/NS05NzgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/SI9lSQn39hsKwJQjW1DvPdOFSUOTLNEklhWIh-Fgz_8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTYzODgxMjY4/NS0xNjY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/-PygcoKBQee8rCDb6m2g-jva1RWQ_iFtc3uo3kW6brY/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTQyNDkzMjI4/NS01MjIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/qavDs5mEEIEmdiLEEf-2MTM1XGwc8iDXpqNpOS56EdU/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUw/NTItMTQyNDkzMjY1/MC0yODU0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Country Rock", "Rock & Roll"]
 ---
@@ -40,27 +55,29 @@ styles: ["Blues Rock", "Country Rock", "Rock & Roll"]
 
 <!-- section break -->
 
-
-More than songs or performances, 1972’s <i>Exile on Main St.</i> was about mood. Listen close: Can you hear the young gods sweating it out in the basement of a French mansion overlooking the Mediterranean? Surrounded by junkies and hangers-on? Eating lobster and stuffed tomatoes in the afternoon and working all night? Never had the band managed to translate their myth—the sloppy, redemptive glory of rock ’n’ roll—so faithfully into sound. A great party album, yes, and a party unto itself. But <i>Exile</i> was also the closest The Rolling Stones ever got to something truly avant-garde, an album whose perceived mistakes—the muddy mix; the sloppy, dislocated performances—conjured a feeling something more correct would have wiped away.<br />
-Even in its looser moments, 1971’s <i>Sticky Fingers</i> had sounded professional—raw music gussied up for the main stage. <i>Exile</i>, by contrast, wasn’t just born in the basement, it evoked one: a place of clutter and darkness, strange things forgotten and unfinished. For every “Tumbling Dice” or “Torn and Frayed“—two of the album’s more coherent moments—there was an “I Just Want to See His Face” or “Let It Loose”, tracks that functioned less as finished thoughts than open-ended suggestions, seeds for new growth. And the blues that had once served as the band’s shorthand for earthly hardships and desires now sounded mysterious and arcane—less the entertainment of juke joints than the vernacular of some underground society.<br />
-The story of <i>Exile</i> is probably oversold—after all, they only spent part of the time in the basement. But the frame remains useful. “I hear you talking when I’m on the street,” Mick slurs on the opening line of “Rocks Off”. “Your mouth don't move, but I can hear you speak.” For the next hour, the paradoxes keep coming: light in darkness, clarity in chaos. For years, the band had described confusion—with <i>Exile</i>, they embodied it.
-
-
-
+Exile on Main St. is the 10th British and 12th American studio album by the English rock band the Rolling Stones, released on 12 May 1972 by Rolling Stones Records. It is viewed as a culmination of a string of the band's most critically successful albums, following the releases of Beggars Banquet (1968), Let It Bleed (1969) and Sticky Fingers (1971). The album is known for its murky, inconsistent sound due to more disjointed musicianship and a party-like atmosphere heard in several tracks.
+Recording began in 1969 at Olympic Studios in London during sessions for Sticky Fingers, with the main sessions beginning in mid-1971 at a rented villa in the South of France named Nellcôte after the band became tax exiles. Due to the lack of a professional studio nearby they worked with a mobile recording studio and recorded in-house. The loose and unorganised Nellcôte sessions went on for hours into the night, with personnel varying greatly from day to day. Recording was completed with overdub sessions at Sunset Sound in Los Angeles and included additional musicians such as pianist Nicky Hopkins, saxophonist Bobby Keys, drummer and producer Jimmy Miller, and horn player Jim Price. The results produced enough songs for the Stones' first double album.
+The band continued a back-to-basics direction heard in Sticky Fingers after the experimental instrumentation of previous albums, yet Exile exhibited a wider range of influences in blues, rock and roll, swing, country and gospel, while the lyrics explored themes related to hedonism, fame, sex and time. The album contains frequently performed concert staples and topped the charts in six countries, including the UK, US and Canada. It spawned the hit songs "Happy", which featured a rare lead vocal from Keith Richards, country music ballad "Sweet Virginia", and worldwide top-ten hit "Tumbling Dice". The album's artwork, a collage of various images, reflects the Rolling Stones as "runaway outlaws using the blues as its weapon against the world". After its release, the Stones embarked on an American tour, gaining infamy for the riotous audience and performances.
+Exile on Main St. was originally met with mixed reviews before receiving strong reassessments by the end of the 1970s. It has since been recognized as a pivotal hard rock album, viewed by many critics as the Rolling Stones' best work and as one of the greatest albums of all time. Rolling Stone magazine has ranked the album number 7 on its list of the 500 Greatest Albums of All Time in 2003 and 2012, and dropping to number 14 in the 2020 edition, consistently as the highest rated Rolling Stones album on the list. In 2012, the album was inducted into the Grammy Hall of Fame, the band's fourth album to be inducted. A remastered and expanded version of the album was released in 2010 featuring a bonus disc with 10 new tracks. Unusual for a re-release, it also charted highly at the time of its release, reaching number one in the UK and number two in the US.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exile-on-main-st-2010-remaster/1440872228" >}}
+## Videos
+### The Rolling Stones - Ventilator Blues (2010 European Vinyl)
+{{< youtube id="N4hVZj5xlvc" title="The Rolling Stones - Ventilator Blues (2010 European Vinyl)" >}}<br>
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
-| Discogs Link   | [The Rolling Stones - Exile On Main St.](https://www.discogs.com/release/2285052-The-Rolling-Stones-Exile-On-Main-St) |
-| Label          | Rolling Stones Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Exile_on_Main_St. |
+| Apple Music Summary | More than songs or performances, 1972’s <i>Exile on Main St.</i> was about mood. Listen close: Can you hear the young gods sweating it out in the basement of a French mansion overlooking the Mediterranean? Surrounded by junkies and hangers-on? Eating lobster and stuffed tomatoes in the afternoon and working all night? Never had the band managed to translate their myth—the sloppy, redemptive glory of rock ’n’ roll—so faithfully into sound. A great party album, yes, and a party unto itself. But <i>Exile</i> was also the closest The Rolling Stones ever got to something truly avant-garde, an album whose perceived mistakes—the muddy mix; the sloppy, dislocated performances—conjured a feeling something more correct would have wiped away.<br /><br>Even in its looser moments, 1971’s <i>Sticky Fingers</i> had sounded professional—raw music gussied up for the main stage. <i>Exile</i>, by contrast, wasn’t just born in the basement, it evoked one: a place of clutter and darkness, strange things forgotten and unfinished. For every “Tumbling Dice” or “Torn and Frayed“—two of the album’s more coherent moments—there was an “I Just Want to See His Face” or “Let It Loose”, tracks that functioned less as finished thoughts than open-ended suggestions, seeds for new growth. And the blues that had once served as the band’s shorthand for earthly hardships and desires now sounded mysterious and arcane—less the entertainment of juke joints than the vernacular of some underground society.<br /><br>The story of <i>Exile</i> is probably oversold—after all, they only spent part of the time in the basement. But the frame remains useful. “I hear you talking when I’m on the street,” Mick slurs on the opening line of “Rocks Off”. “Your mouth don't move, but I can hear you speak.” For the next hour, the paradoxes keep coming: light in darkness, clarity in chaos. For years, the band had described confusion—with <i>Exile</i>, they embodied it. |
+    | Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold ) |
+| Label          | Rolling Stones Records |
 | Catalog Number | 271 428-6 |
 | Notes | Packaged in a gatefold sleeve and printed inner sleeves.  ℗ 2010 Promotone B.V. under exclusive license to Universal Music International B.V. © 2010 Promotone B.V. under exclusive license to Universal Music International B.V.  A1, A2, A4, A5, B2, B3, C1, C2, C3, C4, C5, D4 published by EMI Music Publishing Ltd. A3 published by Campbell Connelly & Co. Ltd. B1, B4, D1 published by ABKCO Music, Inc. C3 published by Belfern Music Ltd. D2 published by Kobalt Music Publishing / MPCA King Of Spades D3 published by Westminster Music Ltd.  Made in the EU.  |
+| Discogs URL    | [The Rolling Stones - Exile On Main St.](https://www.discogs.com/release/2285052-The-Rolling-Stones-Exile-On-Main-St) |

@@ -10,6 +10,10 @@ cover:
     image: "dazed-and-confused-music-from-motion-picture-19590373.jpg"
     alt: "Dazed and Confused (Music From Motion Picture) by Various"
     caption: "Dazed and Confused (Music From Motion Picture) by Various"
+additional_images:
+    - "https://i.discogs.com/yXRm9ixjkHAJkNSIkvoKSHqXTeSEhxvKUH_4NdfDvh0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtMTg2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zUYOdxOZ_MnvoLB7Y6mYaaESBTaAPC6bfaszJXTiXUk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtNzcwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/hUKel3ZbU06goAYyR3ldXVAmlDAOj7RtGhm6fKtnrvw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtNDc3Ni5qcGVn.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock"]
 ---
@@ -35,16 +39,10 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Rock and Roll, Hoochie Koo
 {{< youtube id="KdSQA3SgWqk" title="Rock and Roll, Hoochie Koo" >}}<br>
-
 ### More Videos
 
 - [Slow Ride](https://www.youtube.com/watch?v=yaMNseIe_vI)
@@ -61,13 +59,15 @@ styles: ["Classic Rock"]
 - [Rock N' Roll All Night ( Good Quality ) - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
 - [Paranoid (2012 - Remaster)](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |
-| Label          | The Medicine Label |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
+| Label          | The Medicine Label |
 | Catalog Number | RCV1 24533 |
 | Notes | Made in Czech Republic. |
+| Discogs URL    | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |

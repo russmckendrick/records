@@ -10,6 +10,18 @@ cover:
     image: "the-man-who-fell-to-earth-9399915.jpg"
     alt: "The Man Who Fell To Earth by Various"
     caption: "The Man Who Fell To Earth by Various"
+additional_images:
+    - "https://i.discogs.com/EiY8QEoc11iuBCMTnHaPVD6I2BcrWo43RAad7WREMYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTQ3OTg5MTY4/NS00Mjk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Mp9NN9e3QULwLvor67ibMfnXWZzZUfeHzLHyGbc52_8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTQ3OTg5MTY4/OC00Mzk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/pNU2lNFmV8EaqSaEhNDOE_mITF-F5EYFwsEz-tj8flA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTQ3OTg5MTY5/My0zNjQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/wEoW--SdkPGAF-WWZJM92lNPbJ44OJWcEO93tRZ_uW4/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEw/Ny00ODQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/-pyzpaWTLzEtoLApt3vwEmJNi3aZCSYUZVeX5sBGpF8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEw/Ny04Mzg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/do8H0OVmaD18BHAkYchkAaiwI_5mh8gO7jYsgqtApR4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEw/OS03NjU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2i2umWh6exn0A7oeDwpM3kN_FgQ-ADOHiUfBiFrc3fE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEx/MS03MDAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/fzcZjUmQ78RT20XbYJtFIeq1pNi43Dh0ltX_igMLEk0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEw/OS02MTI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/i5Zp-XXCeD6sUlBO5fVqVFR2vzpRcfRt6Zz60VFM710/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEx/MC0xMDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/0Gp7hfb0jYHe8VBCbsHZkQtX2t3S28Ga3_7DSyHoTI0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEw/OS0zOTY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/bnm9KET9d1VcYoSdBLJCYaH_ofl3mH8rDm39TZqm4wI/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTk5/MTUtMTUxNjAzOTEx/MS05MzQzLmpwZWc.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -65,19 +77,12 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="2lMP8pgOPDyU3t9j1aUjv7" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9
 {{< youtube id="wd9vU1KaQiY" title="The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9" >}}<br>
-
 ### More Videos
 
 - [The Man Who Fell To Earth](https://www.youtube.com/watch?v=LpoeOfidJds)
@@ -95,13 +100,15 @@ styles: ["Soundtrack"]
 - [Mandala (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=js0AhQ9dyec)
 - [One Way (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=SHcRIQcIPOg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Various - The Man Who Fell To Earth](https://www.discogs.com/release/9399915-Various-The-Man-Who-Fell-To-Earth) |
-| Label          | UMC |
 | Format         | Box Set, CD 2× Album, Vinyl 2× LP |
+| Label          | UMC |
 | Catalog Number | 479 921-7 |
 | Notes | Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.  Made in Germany.  ℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd. |
+| Discogs URL    | [Various - The Man Who Fell To Earth](https://www.discogs.com/release/9399915-Various-The-Man-Who-Fell-To-Earth) |

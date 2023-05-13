@@ -11,6 +11,13 @@ cover:
     image: "stain-17161930.jpg"
     alt: "Stain by Living Colour"
     caption: "Stain by Living Colour"
+additional_images:
+    - "https://i.discogs.com/D9tOJ4UQyiEOwfiR07irsYmJ5U5zwMhRTBV_SdhIXrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2MTE5Mjk1/NjMtMjU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/fN6D96O3hc9JMHoHohJZIMkmVKeovjvB-9fggGArfTE/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/MzktMzMyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/G0LSMO1QeO3KZewxY_nA1ALSyvFPWTocrA2F-RctmyE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/MzktMTU5My5qcGVn.jpeg"
+    - "https://i.discogs.com/xaF8_i5ppLryGbs6mTTgnzgrIMRZ_Tem00idrI3hQrs/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDAtNjE3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/4H_JmD4oSokeBz40Mz14qPIdeo0BYCwWBUbeXvTN9NA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDAtNTE0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Y1uAi3cUNa1pQwik2hSoLRogsRAWf_3Ay_1QL437M3M/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDEtNTUyNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
@@ -35,30 +42,27 @@ styles: ["Funk Metal"]
 
 <!-- section break -->
 
-
-On their third album, funk-metal fusionists Living Colour proved they could out-angst the gloomiest grunge acts of the day. The darker, heavier sound of <i>Stain</i> is matched by weighty social commentary: The thrash-powered “Go Away” takes aim at the apathetic masses who think the world’s problems can be cured by sending “20 dollars to Live-Aid,” while the mutant thrust of “Ausländer” paints a harrowing portrait of xenophobia. Even the moments of beauty—like the luminous future soul of “Nothingness”—are infused with existential dread.
-
-
-
+Stain is the third studio album by American rock band Living Colour. It was released on March 2, 1993, by Epic Records. It is the first album to feature bassist Doug Wimbish. Stain features a generally heavier sound with more pessimistic themes, the songs representing a range of genres. It peaked at #26 on the Billboard 200. Citing "musical differences" the band split up in January 1995.The cover art shows a woman wearing a brank.
+From the mid-1990s through the early 2010s, the album was out of print due to rights issues after a lawsuit from Jon Stainbrook of the band The Stain forced Sony to cease production of the album. In November 2013, the album was reissued by Music On CD and is also available as an MP3 download. In June 2018, the album was reissued on limited edition green vinyl.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stain/158628416" >}}
-
-
-
-
-
 ## Videos
 ### Living Colour - Bi
 {{< youtube id="EMprpu0et9M" title="Living Colour - Bi" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
-| Discogs Link   | [Living Colour - Stain](https://www.discogs.com/release/17161930-Living-Colour-Stain) |
-| Label          | Music On Vinyl |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Stain_(album) |
+| Apple Music Summary | On their third album, funk-metal fusionists Living Colour proved they could out-angst the gloomiest grunge acts of the day. The darker, heavier sound of <i>Stain</i> is matched by weighty social commentary: The thrash-powered “Go Away” takes aim at the apathetic masses who think the world’s problems can be cured by sending “20 dollars to Live-Aid,” while the mutant thrust of “Ausländer” paints a harrowing portrait of xenophobia. Even the moments of beauty—like the luminous future soul of “Nothingness”—are infused with existential dread. |
+    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Red Translucent) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP1346 |
 | Notes | Limited to 1000 copies.  Originally released (P) & (C) 1993 Sony Music Entertainment. This release (P) & (C) 2015 Sony Music Entertainment.   Made in EU. |
+| Discogs URL    | [Living Colour - Stain](https://www.discogs.com/release/17161930-Living-Colour-Stain) |

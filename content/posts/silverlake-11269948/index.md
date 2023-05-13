@@ -10,6 +10,8 @@ cover:
     image: "silverlake-11269948.jpg"
     alt: "Silverlake by Pugwash"
     caption: "Silverlake by Pugwash"
+additional_images:
+    - "https://i.discogs.com/2ylnqSw0tBkgnVAsQzCx13shnYK2Q_HB-4bbWMdj7Z4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY5/OTQ4LTE1MTMxMTA2/ODAtNTIyMC5qcGVn.jpeg"
 genres: ["Pop"]
 styles: []
 ---
@@ -32,23 +34,20 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/silverlake/1282544689" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Pugwash - Silverlake](https://www.discogs.com/release/11269948-Pugwash-Silverlake) |
-| Label          | Lojinx |
 | Format         | Vinyl LP Album |
+| Label          | Lojinx |
 | Catalog Number | LJX111LP |
 | Notes | Black vinyl. |
+| Discogs URL    | [Pugwash - Silverlake](https://www.discogs.com/release/11269948-Pugwash-Silverlake) |

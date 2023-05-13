@@ -10,6 +10,14 @@ cover:
     image: "raw-like-sushi-14721225.jpg"
     alt: "Raw Like Sushi by Neneh Cherry"
     caption: "Raw Like Sushi by Neneh Cherry"
+additional_images:
+    - "https://i.discogs.com/7S8TuhzU4YbkPOI6kusXg9tEpdHlfpuUvVkV2u6QXys/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjUtNDM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/cHt1bbh2vvczGLqE5TpyBH2EUieoGAVhZt6An4rk59o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjQtMzQyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/89RUUX1jGT_F8kPNb6VQTQTYL2Davdx8qcneOKuq_Qk/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjYtMTI0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/uTUAzE0LOlP8xFS0pu4i8lLDKmlr_8A9W04Tdx9CBxk/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtODQ5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/kp5xYNWJbO4Gjy3hjZAy3kxiASO4LrO1FkSMlsdgjBU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzctNzc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Df-sUKtTvtE6xgAw_Vlw8f6gtLvRuwZA26m4OetQ_-0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtNTA3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/0RGgzbxA94nb784L_j3icTZHVKOXawyfe5f5Qrafc9A/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtNTg0OS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contemporary R&B", "New Jack Swing"]
 ---
@@ -31,20 +39,13 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 
 <!-- section break -->
 
-
-
-
+Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raw-like-sushi/716751901" >}}
-
-
-
-
-
 ## Videos
 ### Neneh Cherry - Buffalo Stance (Official Music Video)
 {{< youtube id="JWsRz3TJDEY" title="Neneh Cherry - Buffalo Stance (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Neneh Cherry - Manchild](https://www.youtube.com/watch?v=OJ9VBMBS3qE)
@@ -87,13 +88,17 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 - [The Next Generation (Sub-Woofer Mix)](https://www.youtube.com/watch?v=1fagkxqDRm4)
 - [Neneh Cherry - Heart (Club Mix / Audio)](https://www.youtube.com/watch?v=fbUXFN9wT8I)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Raw_Like_Sushi |
+| Wikipedia Summary | Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance". |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Neneh Cherry - Raw Like Sushi](https://www.discogs.com/release/14721225-Neneh-Cherry-Raw-Like-Sushi) |
-| Label          | Virgin |
 | Format         | Vinyl LP Album Reissue Remastered (30th Anniversary) |
+| Label          | Virgin |
 | Catalog Number | 0813320 |
 | Notes | 30th Anniversary Remastered Edition. Includes download code. |
+| Discogs URL    | [Neneh Cherry - Raw Like Sushi](https://www.discogs.com/release/14721225-Neneh-Cherry-Raw-Like-Sushi) |

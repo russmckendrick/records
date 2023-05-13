@@ -10,6 +10,12 @@ cover:
     image: "the-blue-elephant-18722572.jpg"
     alt: "The Blue Elephant by Matt Berry"
     caption: "The Blue Elephant by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/c7aHLCKxPS4G8YoiKu-qxgJbbZvcFf5cVxILDGIGCCo/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIy/NTcyLTE2MjA5OTU1/NzMtMzQ1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/_saVcgznQTi3C79tYGszyB5x3uhmuCBv7DYPxZTTZc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIy/NTcyLTE2MjA5OTU1/NzQtODc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/PpD7KfS6i_fL_jalqVGHUxAWc1xG969kVG_HEuPrj64/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIy/NTcyLTE2MjA5OTU1/NzQtNjgyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/28RVIdIiG-9CHvRhsk5kxzVli13cj3ZQK8nqGoaBBnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIy/NTcyLTE2MjA5OTU1/NzQtOTIxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/8qaF7H2WYhe2T3GwJj_sUcqnh06gm7bIcyeh3n58RnQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIy/NTcyLTE2MjA5OTU1/NzUtMjAzNy5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock"]
 ---
@@ -36,33 +42,27 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blue-elephant/1553322260" >}}
-
-
-
-
-
 ## Videos
 ### The Blue Elephant
 {{< youtube id="t7yQj7-IFgo" title="The Blue Elephant" >}}<br>
-
 ### More Videos
 
 - [Matt Berry - Aboard](https://www.youtube.com/watch?v=CuW559e_mv4)
 - [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
 - [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Matt Berry - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-The-Blue-Elephant) |
-| Label          | Acid Jazz |
 | Format         | Vinyl LP Album Limited Edition Stereo (Mustard) |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP578M |
 | Notes | 'Mustard' colour vinyl. Recorded by Matt Berry at Peach Studios between May & October 2020       |
+| Discogs URL    | [Matt Berry - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-The-Blue-Elephant) |

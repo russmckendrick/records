@@ -10,6 +10,8 @@ cover:
     image: "a-sort-of-homecoming-7809395.jpg"
     alt: "A Sort Of Homecoming by Anathema"
     caption: "A Sort Of Homecoming by Anathema"
+additional_images:
+    - "https://i.discogs.com/sUFiT_wcPR9NE-NaIk1FIv63XdeNOX1WK8M8KMG_8Dw/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDkz/OTUtMTQ0OTIzNzcy/Mi01OTEyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Acoustic"]
 ---
@@ -36,27 +38,22 @@ styles: ["Prog Rock", "Acoustic"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-sort-of-homecoming/1049320519" >}}
-
-
-
-
-
 ## Videos
 ### ANATHEMA - A Sort Of Homecoming (2015)
 {{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming (2015)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Anathema - A Sort Of Homecoming](https://www.discogs.com/release/7809395-Anathema-A-Sort-Of-Homecoming) |
-| Label          | Kscope |
 | Format         | Vinyl 3× LP (Gatefold) |
+| Label          | Kscope |
 | Catalog Number | KSCOPE884 |
+| Discogs URL    | [Anathema - A Sort Of Homecoming](https://www.discogs.com/release/7809395-Anathema-A-Sort-Of-Homecoming) |

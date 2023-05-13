@@ -10,6 +10,8 @@ cover:
     image: "american-fool-8668868.jpg"
     alt: "American Fool by John Cougar Mellencamp"
     caption: "American Fool by John Cougar Mellencamp"
+additional_images:
+    - "https://i.discogs.com/2egG2AcbyeE1IBuCxqzDHoRJwkKoX231a2_1fL8z18g/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njg4/NjgtMTQ2NjI2NDE0/NC01NjA3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
@@ -30,19 +32,14 @@ styles: ["Southern Rock"]
 
 <!-- section break -->
 
-
-
-
+American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.
+A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track.
+<br>
 ## Spotify
 {{< spotify type="album" id="4gouGcdQn9OvjX42xnWrF0" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Hurts So Good
 {{< youtube id="g_9rnnkRX0g" title="Hurts So Good" >}}<br>
-
 ### More Videos
 
 - [Jack & Diane](https://www.youtube.com/watch?v=qcca2DzOlOc)
@@ -55,12 +52,16 @@ styles: ["Southern Rock"]
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)
 - [American Fool (Bonus Track)](https://www.youtube.com/watch?v=-IIXpzlaMlw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/American_Fool |
+| Wikipedia Summary | American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.<br>A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [John Cougar Mellencamp - American Fool](https://www.discogs.com/release/8668868-John-Cougar-American-Fool) |
-| Label          | Riva (2) |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | Riva (2) |
 | Catalog Number | RVL 7501 |
+| Discogs URL    | [John Cougar Mellencamp - American Fool](https://www.discogs.com/release/8668868-John-Cougar-American-Fool) |

@@ -10,6 +10,10 @@ cover:
     image: "ziggy-stardub-26844965.jpg"
     alt: "Ziggy Stardub by Easy Star All-Stars"
     caption: "Ziggy Stardub by Easy Star All-Stars"
+additional_images:
+    - "https://i.discogs.com/KBnCBpaWp6_Dv_3C2IpQnsRivMS_ZcrbLDzTbkReIOI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ0/OTY1LTE2ODIxNzYx/MzEtOTgyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/j_Pb4mNRMo068sSVVH5a8xqpQNI6YeMuPijfDgsTLTs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ0/OTY1LTE2ODIxNzYx/NDEtMzI1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/4kXLNVoZPhrK-u9zO32_1AKY87EN2gP1znr74Gy0v3Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ0/OTY1LTE2ODI2MTgy/MzItNTc1NC5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Reggae", "Reggae-Pop", "Dub"]
 ---
@@ -32,20 +36,12 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ziggy-stardub/1660346908" >}}
-
-
-
-
-
 ## Videos
 ### EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]
 {{< youtube id="GE606BMUK0I" title="EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]" >}}<br>
-
 ### More Videos
 
 - [Soul Love (feat. Mortimer)](https://www.youtube.com/watch?v=aWfz7BqFpEk)
@@ -63,13 +59,14 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 - [Moonage Daydream Dub](https://www.youtube.com/watch?v=jAthsHyF3RI)
 - [Lady Stardust Dub](https://www.youtube.com/watch?v=gNyXFNHA0ic)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Easy Star All-Stars - Ziggy Stardub](https://www.discogs.com/release/26844965-Easy-Star-All-Stars-Ziggy-Stardub) |
+| Format         | Vinyl LP Album (Royal Blue) |
 | Label          | Easy Star Records |
-| Format         | Vinyl LP (Royal Blue) |
 | Catalog Number | ES-1100V |
-| Notes |     |
+| Discogs URL    | [Easy Star All-Stars - Ziggy Stardub](https://www.discogs.com/release/26844965-Easy-Star-All-Stars-Ziggy-Stardub) |

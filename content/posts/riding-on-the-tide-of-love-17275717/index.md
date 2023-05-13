@@ -10,6 +10,13 @@ cover:
     image: "riding-on-the-tide-of-love-17275717.jpg"
     alt: "Riding On The Tide Of Love by Deacon Blue"
     caption: "Riding On The Tide Of Love by Deacon Blue"
+additional_images:
+    - "https://i.discogs.com/qgupGH35ALeYhgCQ40APRPnP6d-N8cPRYWBqb8oY9R0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc1/NzE3LTE2MTI1NjI2/NTYtNTkzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/WkTfFdb-x_gOgG0NuBFC83B-UpugIle5tYaAGa9ZMCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc1/NzE3LTE2MTQxMTE3/MDEtNDMxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/JcT0CfZ-0AI8GYjhFWhfrAMPQfnidxs5KZd5M0RvC1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc1/NzE3LTE2MTQxMTE3/MDAtODc5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/3h_iuA-0eF3u6soSfzkGElAlsR0HpXjSaoEvMC5XsP0/rs:fit/g:sm/q:90/h:334/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc1/NzE3LTE2MTQxMTE2/OTktNDM2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/xGPvWqXLs2s1vbKXqixifqklMYn45Lwxk7r36LjnWmk/rs:fit/g:sm/q:90/h:96/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc1/NzE3LTE2MTQxMTE2/OTktMzgxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/9R_dlV0aK5-jlGoXtMfaaHO8W9uScBXVd4Hmg01NuA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc1/NzE3LTE2MTQxMTE3/MDAtNjc1Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -29,20 +36,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riding-on-the-tide-of-love/1552700945" >}}
-
-
-
-
-
 ## Videos
 ### Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)
 {{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)" >}}<br>
-
 ### More Videos
 
 - [Deacon Blue - Not Gonna Be That Girl (Official Audio)](https://www.youtube.com/watch?v=HEMgponMEZ4)
@@ -58,12 +57,14 @@ styles: ["Pop Rock"]
 - [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
 - [Deacon Blue - City of Love (At Home Sessions)](https://www.youtube.com/watch?v=eyEUQOIwxuY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Deacon Blue - Riding On The Tide Of Love](https://www.discogs.com/release/17275717-Deacon-Blue-Riding-On-The-Tide-Of-Love) |
-| Label          | Ear Music |
 | Format         | Vinyl LP Mini-Album Stereo |
+| Label          | Ear Music |
 | Catalog Number | 0215401EMU |
+| Discogs URL    | [Deacon Blue - Riding On The Tide Of Love](https://www.discogs.com/release/17275717-Deacon-Blue-Riding-On-The-Tide-Of-Love) |

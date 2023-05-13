@@ -10,6 +10,9 @@ cover:
     image: "the-yamaha-years-7453474.jpg"
     alt: "The Yamaha Years by John Shuttleworth"
     caption: "The Yamaha Years by John Shuttleworth"
+additional_images:
+    - "https://i.discogs.com/5tqXA37xqepHmEN87FvwgRGoyVWXbvzkoTMoD7xNWgY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTM0/NzQtMTQ0MjA1MzM0/OS01MTM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/pEdYm_qjnCy1PdsEDTviL6WQDRTjqNw3NL_mg3uhSFg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTM0/NzQtMTQ0MjA1MzM1/Ni05ODEzLmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop", "Comedy"]
 ---
@@ -48,20 +51,12 @@ styles: ["Synth-pop", "Comedy"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-yamaha-years/166090967" >}}
-
-
-
-
-
 ## Videos
 ### John Shuttleworth - My Wife Died in 1970 with lyrics
 {{< youtube id="1o2Rb7OTvZw" title="John Shuttleworth - My Wife Died in 1970 with lyrics" >}}<br>
-
 ### More Videos
 
 - [John Shuttleworth - Have you seen my Wife](https://www.youtube.com/watch?v=ewRRI4s7CNM)
@@ -71,13 +66,15 @@ styles: ["Synth-pop", "Comedy"]
 - [John Shuttleworth  Shopkeepers in the North](https://www.youtube.com/watch?v=PI7o-FJM8f4)
 - [Pigeons in Flight - John Shuttleworth](https://www.youtube.com/watch?v=GXp455mQ4xE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [John Shuttleworth - The Yamaha Years](https://www.discogs.com/release/7453474-John-Shuttleworth-The-Yamaha-Years) |
-| Label          | Free Range Product |
 | Format         | Vinyl 2× LP Album Stereo |
+| Label          | Free Range Product |
 | Catalog Number | FRP2LP001 |
 | Notes | "Includes songs from BBC TV's 500 Bus Stops"    "All songs written, performed and produced by Graham Fellows except 'The Christmas Orphan' written by G. Fellows and P. Ovcar"    Licensed From Chic Ken Productions  Contains 7 bonus tracks not featured on the CD version   |
+| Discogs URL    | [John Shuttleworth - The Yamaha Years](https://www.discogs.com/release/7453474-John-Shuttleworth-The-Yamaha-Years) |

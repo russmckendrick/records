@@ -10,6 +10,14 @@ cover:
     image: "hip-to-the-jag-15073542.jpg"
     alt: "Hip To The Jag by Kavus Torabi"
     caption: "Hip To The Jag by Kavus Torabi"
+additional_images:
+    - "https://i.discogs.com/nFPR2c0KgdAr4iYZCPrfVPB7po9BYhki65gKvaOFH5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE2NDI3ODgy/NTktNzQ5My5qcGVn.jpeg"
+    - "https://i.discogs.com/9mu0vOvzJ9VEBJtP8K0oTD6dYB8lCgy37dlcrTqMVFg/rs:fit/g:sm/q:90/h:571/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg3/MjEtNzg3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/hITELcF1WgcRwKLHyWaWtTNita01TQ8Ee42LJ-YfmaI/rs:fit/g:sm/q:90/h:563/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzctNjIzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/BxKV17FwFoCRnzIAzVJvPnIGuBAmNpdeT4KQIYqE6YI/rs:fit/g:sm/q:90/h:575/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzctMzQ4My5qcGVn.jpeg"
+    - "https://i.discogs.com/YuqRmo4Iaqi483ZRVyedp-CwyvWko-EyM6IlRSle7Mk/rs:fit/g:sm/q:90/h:539/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtNTczOC5qcGVn.jpeg"
+    - "https://i.discogs.com/LyfYoIn4DrANEAO_gUsuvw8BWjX2f4NftPUjxjsfCmQ/rs:fit/g:sm/q:90/h:571/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtNjgzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Cj12aLyT2zRPf8nZl1Mf14OS2Q_wt9bwnIRDpaZMDYA/rs:fit/g:sm/q:90/h:643/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtOTA3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
@@ -31,31 +39,25 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hip-to-the-jag/1504344922" >}}
-
-
-
-
-
 ## Videos
 ### Kavus Torabi - Cemetery Of Light
 {{< youtube id="u_YbgWDWtbY" title="Kavus Torabi - Cemetery Of Light" >}}<br>
-
 ### More Videos
 
 - [Radio to Their World](https://www.youtube.com/watch?v=6GTexztI2gw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Kavus Torabi - Hip To The Jag](https://www.discogs.com/release/15073542-Kavus-Torabi-Hip-To-The-Jag) |
-| Label          | Believers Roast |
 | Format         | Vinyl LP Album Limited Edition Stereo |
+| Label          | Believers Roast |
 | Catalog Number | BR23 |
 | Notes | BR23   - on spine BR23v - on back  Limited edition of 500 - Black vinyl edition of Kavus' life enhancing debut solo album  180gsm vinyl housed in a 300gsm natural brown card finished in matt varnish and a printed inner sleeve on uncoated art paper.  Orders via bandcamp came with a signed A5 print of the album cover Pre-orders through the Burning Shed are signed on the front cover in the lower left.  Hip To The Jag, Kavus Torabi's debut solo album, is a blissfully skewed swan dive into the swirling cosmic kaleidoscope of the poet's soul. From spectral, intricate and fragile compositions to psychedelic, joyous and open drone-scapes, it is brave, beautiful and beguiling throughout. |
+| Discogs URL    | [Kavus Torabi - Hip To The Jag](https://www.discogs.com/release/15073542-Kavus-Torabi-Hip-To-The-Jag) |

@@ -11,6 +11,9 @@ cover:
     image: "don-t-be-cruel-768752.jpg"
     alt: "Don't Be Cruel by Bobby Brown"
     caption: "Don't Be Cruel by Bobby Brown"
+additional_images:
+    - "https://i.discogs.com/5r49k_mSXJ_-_L-NLzR5R44vCGTPQv--UN1o3nffuDk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODc1/Mi0xNDM5Mjg2MzQ4/LTU3NTMuanBlZw.jpeg"
+    - "https://i.discogs.com/bk7KkAF-rtqRsPrwapwhoRdtvW3ljauzO_HaA-ELLTg/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODc1/Mi0xNDY0Nzc2MDI2/LTEzMDQuanBlZw.jpeg"
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["New Jack Swing"]
 ---
@@ -33,22 +36,13 @@ styles: ["New Jack Swing"]
 
 <!-- section break -->
 
-
 With 1988’s <i>Don’t Be Cruel</i>, Bobby Brown transformed himself from a teen idol into a seductive crooner with a rapper’s brash self-confidence. Overseen by producers Babyface and L.A. Reid, “Don’t Be Cruel” and the unapologetic “My Prerogative” pair Brown’s sneering-but-sexy attitude with hip-hop’s rugged breakbeats. Even the slow jams—“Roni,” “Rock Wit’cha”—conceal sharpness beneath Brown’s smooth delivery. Rap, pop, and soul converge on “Every Little Step,” a dazzling hit that proves R&B doesn’t have to be corny to be catchy.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-be-cruel/1440773569" >}}
-
-
-
-
-
 ## Videos
 ### Bobby Brown - I´ll be good to you
 {{< youtube id="zSrKa3xLcO0" title="Bobby Brown - I´ll be good to you" >}}<br>
-
 ### More Videos
 
 - [Bobby Brown - Every Little Step (Official Video)](https://www.youtube.com/watch?v=P0FKzPfsxA4)
@@ -71,13 +65,16 @@ With 1988’s <i>Don’t Be Cruel</i>, Bobby Brown transformed himself from a te
 - [Bobby Brown - Don't Be Cruel [Club MTV] *1989*](https://www.youtube.com/watch?v=kqmaLrpWk6Y)
 - [Don't Be Cruel Bobby Brown live in Japan 1991](https://www.youtube.com/watch?v=hmrWJHVt1q8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | With 1988’s <i>Don’t Be Cruel</i>, Bobby Brown transformed himself from a teen idol into a seductive crooner with a rapper’s brash self-confidence. Overseen by producers Babyface and L.A. Reid, “Don’t Be Cruel” and the unapologetic “My Prerogative” pair Brown’s sneering-but-sexy attitude with hip-hop’s rugged breakbeats. Even the slow jams—“Roni,” “Rock Wit’cha”—conceal sharpness beneath Brown’s smooth delivery. Rap, pop, and soul converge on “Every Little Step,” a dazzling hit that proves R&B doesn’t have to be corny to be catchy. |
 | Release Year   | 1988                                   |
-| Discogs Link   | [Bobby Brown - Don't Be Cruel](https://www.discogs.com/release/768752-Bobby-Brown-Dont-Be-Cruel) |
-| Label          | MCA Records |
 | Format         | Vinyl LP Album Misprint |
+| Label          | MCA Records |
 | Catalog Number | MCF 3425 |
 | Notes | Misprint version with MCF 3245 on back cover. |
+| Discogs URL    | [Bobby Brown - Don't Be Cruel](https://www.discogs.com/release/768752-Bobby-Brown-Dont-Be-Cruel) |

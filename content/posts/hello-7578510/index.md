@@ -10,6 +10,8 @@ cover:
     image: "hello-7578510.jpg"
     alt: "Hello! by Status Quo"
     caption: "Hello! by Status Quo"
+additional_images:
+    - "https://i.discogs.com/xR1FpeE1rsitUnT3HSKVgjMC9i1-HT2mNpcGaWNfwNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzg1/MTAtMTQ0NDQyNTQ3/MS0zMzc1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
@@ -29,22 +31,19 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hello/1443266438" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Status Quo - Hello!](https://www.discogs.com/release/7578510-Status-Quo-Hello) |
-| Label          | Vertigo |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Vertigo |
 | Catalog Number | 4723763 |
+| Discogs URL    | [Status Quo - Hello!](https://www.discogs.com/release/7578510-Status-Quo-Hello) |

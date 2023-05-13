@@ -10,6 +10,12 @@ cover:
     image: "bad-as-me-11147825.jpg"
     alt: "Bad As Me by Tom Waits"
     caption: "Bad As Me by Tom Waits"
+additional_images:
+    - "https://i.discogs.com/BXNvzzSVMht0suueHkCVqXZWqgvReLJl9_aMX58BnM4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/ODI1LTE1MTgxOTIw/ODUtNDEwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/n3xRmeHaCv1mPfY-t_dy4Wp81ItRPnef5BVzNsX_3tk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/ODI1LTE1MTgxOTE5/OTQtMTgyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/97oT9UA-RY4rYGoCLbfAFf9FZ4HAjcUcvBRYWg4HVrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/ODI1LTE1MTgxOTE5/OTQtOTEwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/nZ_M3xITaqjzagR4W4IDcHwqzeZF9NWnHfY0eYB-A78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/ODI1LTE1MTgxOTE5/OTUtNjI3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/68GUKzh_jseBEgV3MjRisQup3AhrXdFL0O0GYh-WL_E/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/ODI1LTE1MTgxOTIz/MDEtMzMzNC5qcGVn.jpeg"
 genres: ["Rock", "Blues"]
 styles: []
 ---
@@ -34,35 +40,28 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+Bad as Me is the seventeenth and most recent studio album by American singer-songwriter Tom Waits, released on October 21, 2011 by Anti- Records. The album is known to have been recorded as early as February 2011 and was officially announced for release on August 23, 2011 on Waits' official web site and various social media networks. On the same day, the title track, "Bad as Me", was released as the album's first single on iTunes.The album is Waits' first album consisting completely of new material in seven years since Real Gone (2004). Waits' label, Anti-, had recently agreed on a distribution deal with Warner Music Group allowing them to release the album internationally. This marks Waits' first release through the Warner organization since Heartattack and Vine (1980). Upon its release, Bad as Me received widespread critical acclaim. The album was nominated for a Grammy Award for Best Alternative Music Album.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-as-me-deluxe-edition/1485070792" >}}
-
-
-
-
-
 ## Videos
 ### Tom Waits - Satisfied
 {{< youtube id="xHn_Kb4Dz40" title="Tom Waits - Satisfied" >}}<br>
-
 ### More Videos
 
-- [Tom Waits - Bad As Me](https://www.youtube.com/watch?v=zfIRR2VeyEc)
 - [Tom Waits - Hell Broke Luce](https://www.youtube.com/watch?v=0Fju9o8BVJ8)
-- [Tom Waits - Kiss me (Bad As Me)](https://www.youtube.com/watch?v=_Qy7Tt84d1Q)
-- [Tom Waits - Raised Right Men](https://www.youtube.com/watch?v=M9uTo_KBBAw)
-- [Tom Waits   bad as me            full album](https://www.youtube.com/watch?v=c3IHscrJB0I)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bad_as_Me |
+| Wikipedia Summary | Bad as Me is the seventeenth and most recent studio album by American singer-songwriter Tom Waits, released on October 21, 2011 by Anti- Records. The album is known to have been recorded as early as February 2011 and was officially announced for release on August 23, 2011 on Waits' official web site and various social media networks. On the same day, the title track, "Bad as Me", was released as the album's first single on iTunes.The album is Waits' first album consisting completely of new material in seven years since Real Gone (2004). Waits' label, Anti-, had recently agreed on a distribution deal with Warner Music Group allowing them to release the album internationally. This marks Waits' first release through the Warner organization since Heartattack and Vine (1980). Upon its release, Bad as Me received widespread critical acclaim. The album was nominated for a Grammy Award for Best Alternative Music Album. |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Tom Waits - Bad As Me](https://www.discogs.com/release/11147825-Tom-Waits-Bad-As-Me) |
-| Label          | Anti- |
 | Format         | Vinyl LP Album Remastered (180 g) |
+| Label          | Anti- |
 | Catalog Number | 7151-1 |
 | Notes | Information on shrinkwrap:   "Newly Remastered with Waits/Brennan 7151-1"  "Download Card Included 180 Gram"  Information on the back:  "LC02576 | BIEM/STEMRA (C)&(P) 2011 ANTI, Inc. Manufactured and distributed by Epitaph Europe. P.O. Box 10574, 1001 EN Amsterdam. The Netherlands. All rights reserved. Unauthorized duplication is a violation of applicable laws. |
+| Discogs URL    | [Tom Waits - Bad As Me](https://www.discogs.com/release/11147825-Tom-Waits-Bad-As-Me) |

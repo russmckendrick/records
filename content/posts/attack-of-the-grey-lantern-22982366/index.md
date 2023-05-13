@@ -10,6 +10,12 @@ cover:
     image: "attack-of-the-grey-lantern-22982366.jpg"
     alt: "Attack Of The Grey Lantern  by Mansun"
     caption: "Attack Of The Grey Lantern  by Mansun"
+additional_images:
+    - "https://i.discogs.com/1eTcFNPDQu_iB855ZjPCq3Se67-sh3RhYPOiGcKqTSI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTA3MjIx/NDUtODk2My5qcGVn.jpeg"
+    - "https://i.discogs.com/KtxeVeWPdijjFq7jM02UCQMGUc8evW3SF4W0dGaMihY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTA3MjIx/NDUtNjcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/D6e_GjegWxWaKDvyNERJu9qo4VR1oFf6zvTL9Hr5P9U/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDcz/MTItNjI3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/7mT7aVHIpqQnB-2qiGo-Kjyyf5Ot0Jp_l7OE-LZKcwM/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDcz/NTgtNDA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/pcW5IfME00nmmJU2Tx4BzHFLnoEOajEe-7WXzZTMmdg/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDc0/MDAtOTgwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
@@ -32,20 +38,12 @@ styles: ["Britpop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}
-
-
-
-
-
 ## Videos
 ### Mansun Wide Open Space
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}<br>
-
 ### More Videos
 
 - [Disgusting](https://www.youtube.com/watch?v=O00-ToMySOc)
@@ -55,13 +53,15 @@ styles: ["Britpop"]
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
 - [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Mansun - Attack Of The Grey Lantern ](https://www.discogs.com/release/22982366-Mansun-Attack-Of-The-Grey-Lantern-) |
-| Label          | Kscope |
 | Format         | Vinyl LP Record Store Day Limited Edition Picture Disc |
+| Label          | Kscope |
 | Catalog Number | KSCOPE1142 |
 | Notes | RSD2022 Release |
+| Discogs URL    | [Mansun - Attack Of The Grey Lantern ](https://www.discogs.com/release/22982366-Mansun-Attack-Of-The-Grey-Lantern-) |

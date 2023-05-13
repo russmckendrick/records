@@ -10,6 +10,9 @@ cover:
     image: "green-onions-7877126.jpg"
     alt: "Green Onions by Booker T & The MG's"
     caption: "Green Onions by Booker T & The MG's"
+additional_images:
+    - "https://i.discogs.com/ZMeNP93hsI9wLrs6f3km0a_Tge8qj2u3eKFZPiwkzC4/rs:fit/g:sm/q:90/h:433/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzcx/MjYtMTQ1MDcxOTI1/My0zNjY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/YUJTOH6--n-7iQERkdZklAUOwDF4Qs7Pbx1MsUtPots/rs:fit/g:sm/q:90/h:429/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzcx/MjYtMTQ1MDcxOTI3/OC00MTY4LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul", "Funk"]
 ---
@@ -33,20 +36,13 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 
 <!-- section break -->
 
-
-
-
+"Green Onions" is an instrumental composition recorded in 1962 by Booker T. & the M.G.'s. Described as "one of the most popular instrumental rock and soul songs ever" and as one of "the most popular R&B instrumentals of its era", the tune is a twelve-bar blues with a rippling Hammond M3 organ line by Booker T. Jones that he wrote when he was 17, although the actual recording was largely improvised in the studio.The track was originally issued in May 1962 on the Volt label (a subsidiary of Stax Records) as the B-side of "Behave Yourself" on Volt 102; it was quickly reissued in August 1962 as the A-side of Stax 127, and it also appeared on the album Green Onions that same year. The organ sound of the song became a feature of the "Memphis soul sound".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/booker-t-the-mgs-green-onions/560188894" >}}
-
-
-
-
-
 ## Videos
 ### Booker T. & The MG's - Green Onions (Official Audio)
 {{< youtube id="0oox9bJaGJ8" title="Booker T. & The MG's - Green Onions (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Rinky Dink (MONO Audio)](https://www.youtube.com/watch?v=gFUwxnL5h_Q)
@@ -61,12 +57,16 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 - [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
 - [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Green_Onions |
+| Wikipedia Summary | "Green Onions" is an instrumental composition recorded in 1962 by Booker T. & the M.G.'s. Described as "one of the most popular instrumental rock and soul songs ever" and as one of "the most popular R&B instrumentals of its era", the tune is a twelve-bar blues with a rippling Hammond M3 organ line by Booker T. Jones that he wrote when he was 17, although the actual recording was largely improvised in the studio.The track was originally issued in May 1962 on the Volt label (a subsidiary of Stax Records) as the B-side of "Behave Yourself" on Volt 102; it was quickly reissued in August 1962 as the A-side of Stax 127, and it also appeared on the album Green Onions that same year. The organ sound of the song became a feature of the "Memphis soul sound". |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |
-| Label          | DOL |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
+| Label          | DOL |
 | Catalog Number | DOL1517H |
+| Discogs URL    | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |

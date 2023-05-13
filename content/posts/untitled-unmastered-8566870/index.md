@@ -11,6 +11,11 @@ cover:
     image: "untitled-unmastered-8566870.jpg"
     alt: "Untitled Unmastered. by Kendrick Lamar"
     caption: "Untitled Unmastered. by Kendrick Lamar"
+additional_images:
+    - "https://i.discogs.com/bCrq39WNiq319XPBevkb6fnHYYPXlApijlRn4M4Ie8Q/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTQ2NDM2ODk3/MC01NzExLmpwZWc.jpeg"
+    - "https://i.discogs.com/S49SqeEat4SWoZ4LPzPlEIN87ghmoLoQWyBOvoqoVT0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTQ2NDM2ODk3/MC02NTUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/gPXjZqje3IT4_JYjr5sqEMXKFNTciJQIlY2QimA_Iy0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTUzNzA1NDEy/Ny0yNzczLmpwZWc.jpeg"
+    - "https://i.discogs.com/usijTmXfwcvT7UrbyOUMW20eqfMOCCEjJE_DvRMP-_0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTUzNzA1NDEy/Ny0zMTEyLmpwZWc.jpeg"
 genres: ["Hip Hop", "Jazz", "Funk / Soul"]
 styles: ["Funk", "Conscious"]
 ---
@@ -30,22 +35,13 @@ styles: ["Funk", "Conscious"]
 
 <!-- section break -->
 
-
 Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you something about the Compton MC’s provocative, multi-layered genius. Take the contrast of the collection's ultra-generic title and its attention-grabbing, out-of-left-field release. Take the retro-futuristic, Funkadelic-inspired grooves that simmer under tracks like “untitled 02” and “untitled 06.” These are only the beginning of the album's  hypnotic, nuanced nod to hip-hop’s deep roots and unstoppable political and expressive currency. Songs like “untitled 03” and “untitled 05”—with layered references, wild-eyed jazz solos, and cutting insight—continue Lamar's winning streak.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/untitled-unmastered/1440844834" >}}
-
-
-
-
-
 ## Videos
 ### untitled 01 | 08.19.2014.
 {{< youtube id="oIoZgIOgu3o" title="untitled 01 | 08.19.2014." >}}<br>
-
 ### More Videos
 
 - [untitled 02 | 06.23.2014.](https://www.youtube.com/watch?v=_GghFQ8ryEU)
@@ -56,13 +52,16 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 - [untitled 07 | levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
 - [untitled 08 | 09.06.2014.](https://www.youtube.com/watch?v=JXikcHwPolM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you something about the Compton MC’s provocative, multi-layered genius. Take the contrast of the collection's ultra-generic title and its attention-grabbing, out-of-left-field release. Take the retro-futuristic, Funkadelic-inspired grooves that simmer under tracks like “untitled 02” and “untitled 06.” These are only the beginning of the album's  hypnotic, nuanced nod to hip-hop’s deep roots and unstoppable political and expressive currency. Songs like “untitled 03” and “untitled 05”—with layered references, wild-eyed jazz solos, and cutting insight—continue Lamar's winning streak. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Kendrick Lamar - Untitled Unmastered.](https://www.discogs.com/release/8566870-Kendrick-Lamar-Untitled-Unmastered) |
-| Label          | Top Dawg Entertainment |
 | Format         | Vinyl LP Album |
+| Label          | Top Dawg Entertainment |
 | Catalog Number | 00602547866813 |
 | Notes | [Back cover & labels] ℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc. Made in the EU. |
+| Discogs URL    | [Kendrick Lamar - Untitled Unmastered.](https://www.discogs.com/release/8566870-Kendrick-Lamar-Untitled-Unmastered) |

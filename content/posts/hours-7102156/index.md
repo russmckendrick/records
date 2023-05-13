@@ -10,6 +10,14 @@ cover:
     image: "hours-7102156.jpg"
     alt: "Hours... by David Bowie"
     caption: "Hours... by David Bowie"
+additional_images:
+    - "https://i.discogs.com/RkxKaF6XEg9Fs5QSDuCvfzPmm1UNlRmUfowxNbA7pww/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg1/Ni01ODM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/wZyW1JAcgRBc4xnkPKT9Gy4xoAQ79RmJ-noMBlaxuqI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg2/MS02Mjg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/g3WYkcLNP_uBxaYu3pAqeC4GPPo6CiRDST5z6doIc40/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg3/Ni00ODUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/fntczzCf7DLL5Lwj_eNLu6Md9jW7RWUDRNSLF6fOCmE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg4/MS0zNTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/l22KZfnfdClx_zbN8UEnX9-zeCMtGZu57ImBuKfsEdU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg4/Ni02MjM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2bfiPOxo1JppclJC2g5k8IH1KCc3aTjKf0G8LwpOMn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg5/My01MjEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/udgumq2rQhgxwRRJHO7TXXRk9UrOGUP7pVJ_ktY5kEU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIx/NTYtMTQzNDQ2OTg5/OS05MzcwLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 ---
@@ -31,23 +39,20 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hours/1053991355" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [David Bowie - Hours...](https://www.discogs.com/release/7102156-David-Bowie-Hours) |
-| Label          | ISO Records |
 | Format         | Vinyl LP Album Reissue |
+| Label          | ISO Records |
 | Catalog Number | MOVLP1400 |
 | Notes | Originally Released ℗ & © 1999 ISO Records. This Release ℗ & © 2015 Sony Music Entertainment under license from ISO Records. Made in the EU.  180 gram vinyl 20-page booklet Standard black vinyl. |
+| Discogs URL    | [David Bowie - Hours...](https://www.discogs.com/release/7102156-David-Bowie-Hours) |

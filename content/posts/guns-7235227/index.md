@@ -10,6 +10,11 @@ cover:
     image: "guns-7235227.jpg"
     alt: "Guns by Cardiacs"
     caption: "Guns by Cardiacs"
+additional_images:
+    - "https://i.discogs.com/MkMkfxz6B4IJ5y_8tODkhhu8NJOTiSJaJ-du9mIbQAg/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1ODczODQz/NS05Mzc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/euW3-9JU6sLpGoWpwAhnTH9CAF9E9iDkIsR4BbiEgXM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1ODczODQ4/NS05Mzg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/q-Hhk8NT9gbJ3uHvunJY7rfpbAmBmwaIPToIb6tV4iY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1MTE3MDM4/OC0yODAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/E80DSzXGD4E4ROIUM9i1i6Xm4j8WotbIt-JUexnc6WI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1MTE3MDQw/MC0xMzg3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
@@ -33,20 +38,15 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
+Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/guns/336779427" >}}
-
-
-
-
-
 ## Videos
 ### Spell with a Shell
 {{< youtube id="I1-978oeynU" title="Spell with a Shell" >}}<br>
-
 ### More Videos
 
 - [There's Good Cud](https://www.youtube.com/watch?v=07E2LaJZCiA)
@@ -61,13 +61,17 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [Song Of A Dead Pest](https://www.youtube.com/watch?v=87xA35MmnOs)
 - [Will Bleed Amen](https://www.youtube.com/watch?v=flgj1pkYSXw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Guns_(Cardiacs_album) |
+| Wikipedia Summary | Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.<br><br> |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Cardiacs - Guns](https://www.discogs.com/release/7235227-Cardiacs-Guns) |
-| Label          | The Alphabet Business Concern |
 | Format         | Vinyl LP Album Limited Edition Numbered |
+| Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP027 |
 | Notes |  "The first 200 pressings will have a special sticker to make them even more special." (They are numbered) Pressings without the shrink wrap sticker are found here: [r=12334086]  Comes in a gatefold sleeve with a picture inner sleeve and a download coupon.   Recorded and mixed at Apollo 8 London England.  Made in England.  ©&℗ Alphabet 1999 |
+| Discogs URL    | [Cardiacs - Guns](https://www.discogs.com/release/7235227-Cardiacs-Guns) |

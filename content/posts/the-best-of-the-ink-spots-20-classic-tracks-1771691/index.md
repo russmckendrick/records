@@ -10,6 +10,11 @@ cover:
     image: "the-best-of-the-ink-spots-20-classic-tracks-1771691.jpg"
     alt: "The Best Of The Ink Spots (20 Classic Tracks) by The Ink Spots"
     caption: "The Best Of The Ink Spots (20 Classic Tracks) by The Ink Spots"
+additional_images:
+    - "https://i.discogs.com/ObKbMxN1C1r1AWjYXo_vt4L-UvgFhQUmz73StzWCsNg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc3/Ni04NjQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Res_PjvP2lzXGfWNvbi9WuY6w9XTPByxNFKEQRvz-5s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc5/Ny0xMzQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/W55r_o7Y7htlAAMh3F-LymzZkBCiTemf3TVKrhNRls8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc4/MC0xMjE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/48p3swux1r_6dL_G_RG0x6DXNCq6M_bKP3DZx6IFYR0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc4/MC0xNjU1LmpwZWc.jpeg"
 genres: ["Pop"]
 styles: ["Vocal"]
 ---
@@ -41,16 +46,10 @@ styles: ["Vocal"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### If I Didn't Care
 {{< youtube id="Xt3QYPkoa64" title="If I Didn't Care" >}}<br>
-
 ### More Videos
 
 - [Bless You (For Being An Angel)](https://www.youtube.com/watch?v=XIuNdUNhQ_I)
@@ -73,13 +72,15 @@ styles: ["Vocal"]
 - [The Ink Spots - It's A Sin To Tell A Lie](https://www.youtube.com/watch?v=kK4JTwcCp_0)
 - [The Ink Spots - Someones Rocking My Dreamboat](https://www.youtube.com/watch?v=SR1_sY0_yAo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1981                                   |
-| Discogs Link   | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691-The-Ink-Spots-The-Best-Of-The-Ink-Spots-20-Classic-Tracks) |
-| Label          | Music For Pleasure |
 | Format         | Vinyl LP Compilation Reissue Mono |
+| Label          | Music For Pleasure |
 | Catalog Number | MFP 50529 |
 | Notes | On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd. |
+| Discogs URL    | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691-The-Ink-Spots-The-Best-Of-The-Ink-Spots-20-Classic-Tracks) |

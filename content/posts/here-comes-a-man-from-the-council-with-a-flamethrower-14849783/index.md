@@ -10,6 +10,13 @@ cover:
     image: "here-comes-a-man-from-the-council-with-a-flamethrower-14849783.jpg"
     alt: " Here Comes A Man From The Council With A Flamethrower by A Formal Horse"
     caption: " Here Comes A Man From The Council With A Flamethrower by A Formal Horse"
+additional_images:
+    - "https://i.discogs.com/5qC3fTrSpBjOBVEX1dmV3EMkagVaX2KwrYE1JxGUuXo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5MDMz/NTMtMTU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/P8us_EnU4KbyeguvvqteTEF1aRQSQBvN64wWNb91jOo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5MDMz/NTAtNjYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/aTNbp8y0yaHWqk-xLkjoNqj1iUsmqJQxOESweMO4VJE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MjAtNTQyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/0vJI-c3n1m17HF6jY4Deel-WHtSTVrhrCFjXDHpdFWw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MTgtMTI0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/-T9hCCCg_F6r4PF8UxzFscurhoADdk8MGUcTYChnKvs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5NjY5/OTgtNTU3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/WdxfirwHdLSOBGsOXKNoEprxWXDclMjWeQOjGjQD36E/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MjAtNTY5My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
@@ -37,20 +44,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/here-comes-a-man-from-the-council-with-a-flamethrower/1484413225" >}}
-
-
-
-
-
 ## Videos
 ### Magazine Zooey Deschanel
 {{< youtube id="ftjAexbR2p8" title="Magazine Zooey Deschanel" >}}<br>
-
 ### More Videos
 
 - [Commons](https://www.youtube.com/watch?v=AXcwWhRVprw)
@@ -60,13 +59,15 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [Bee](https://www.youtube.com/watch?v=vNAS4q54L0A)
 - [Here Comes a Man from the Council With a Flamethrower](https://www.youtube.com/watch?v=LdWKULgyC2I)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [A Formal Horse -  Here Comes A Man From The Council With A Flamethrower](https://www.discogs.com/release/14849783-A-Formal-Horse-Here-Comes-A-Man-From-The-Council-With-A-Flamethrower) |
-| Label          | Plane Groovy |
 | Format         | Vinyl LP Album Limited Edition Stereo (180 Gram) |
+| Label          | Plane Groovy |
 | Catalog Number | PLG081 |
 | Notes | Packaged in a single jacket with 2-page color insert and polylined LP sleeve.  Limited edition of 300 copies of which the first 60 were signed by the band. |
+| Discogs URL    | [A Formal Horse -  Here Comes A Man From The Council With A Flamethrower](https://www.discogs.com/release/14849783-A-Formal-Horse-Here-Comes-A-Man-From-The-Council-With-A-Flamethrower) |

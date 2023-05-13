@@ -10,6 +10,8 @@ cover:
     image: "do-you-trust-your-friends-1870709.jpg"
     alt: "Do You Trust Your Friends? by Stars"
     caption: "Do You Trust Your Friends? by Stars"
+additional_images:
+    - "https://i.discogs.com/Owg-cjtDaakBnoZ_leEYWLubkj4InbBvwV6z2RJtOGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzA3/MDktMTI0OTQ2OTQw/My5wbmc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "Downtempo"]
 ---
@@ -34,20 +36,12 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/do-you-trust-your-friends/1443067827" >}}
-
-
-
-
-
 ## Videos
 ### Jason Collett - Reunion (Stars Cover)
 {{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion (Stars Cover)" >}}<br>
-
 ### More Videos
 
 - [stars - your ex-lover is dead (final fantasy remix)](https://www.youtube.com/watch?v=_WROUOOtC7U)
@@ -58,13 +52,15 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 - [Your Ex-Lover Is Dead (Final Fantasy) - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
 - [Your Ex-Lover Is Dead by Stars (another version)](https://www.youtube.com/watch?v=x4cZyF2i5yw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2007                                   |
-| Discogs Link   | [Stars - Do You Trust Your Friends?](https://www.discogs.com/release/1870709-Stars-Do-You-Trust-Your-Friends) |
-| Label          | Arts & Crafts International |
 | Format         | Vinyl 2× LP Album (Gatefold) |
+| Label          | Arts & Crafts International |
 | Catalog Number | ACS-024 |
 | Notes | "A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire".     © 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International.   Printed in Canada.  |
+| Discogs URL    | [Stars - Do You Trust Your Friends?](https://www.discogs.com/release/1870709-Stars-Do-You-Trust-Your-Friends) |

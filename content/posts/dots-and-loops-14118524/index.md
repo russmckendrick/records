@@ -11,6 +11,10 @@ cover:
     image: "dots-and-loops-14118524.jpg"
     alt: "Dots And Loops by Stereolab"
     caption: "Dots And Loops by Stereolab"
+additional_images:
+    - "https://i.discogs.com/nXlGIli2G_i53WYCYTz83I8RGM_EE4rdBK6KIF5k9Po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE1NjgzMjQ2/NDMtMTE4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/BWZxUNaUG5BWo1RaPmajyoWVqa8Zs9Bb0yPmA0XyZ5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE1NjgzMjQ2/NTYtMzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/1XTO30uKi0r44arl-qUxLazJKwDB4ZmjHvKTRg15xlg/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE1NjgzMDA1/MTEtMzE0NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock", "Experimental"]
 ---
@@ -46,23 +50,14 @@ styles: ["Indie Rock", "Post Rock", "Experimental"]
 
 <!-- section break -->
 
-
 Part of Stereolab’s legacy was to expose the orthodoxy of indie rock by embracing stuff indie rockers would have found desperately uncool: space-age pop, cocktail jazz, elevator music. Where 1996’s <i>Emperor Tomato Ketchup</i> retained a punk edge (if you squinted, at least), <i>Dots and Loops</i>, released only a year later, was the full fruitcake. Compare the band’s 1993 epic “Jenny Ondioline”, a three-chord, 18-minute trance of noisy guitars and socialist incantations (“I don’t care, democracy’s being fucked”), with “Refractions in the Plastic Pulse”, which shifts from lounge waltz to variety-show jazz to synthesiser étude to funk-lite—a complex, almost pointedly corny descent into music that sounds less like the work of bonded mammals than some faceless corporation.<br />
 That, of course, is part of the point: Marxist-socialist-materialists that they were, the band advanced the idea that all this manufactured stuff was in fact the real music of our mostly manufactured times: the swingin’ '60s window dressing of “Miss Modular”, the soothing breakbeats of “Parsec”, the greet-the-day vibraphones of “Brakhage”—all of it sounded curiously prefabricated, musical MREs for enterprising youths on the go. Light, colourful, and effortlessly complex, <i>Dots and Loops</i> mapped the future the band had been searching for from the start.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dots-and-loops/1230517312" >}}
-
-
-
-
-
 ## Videos
 ### Stereolab - Miss Modular (Official Video)
 {{< youtube id="Q2kuPgS1Hi4" title="Stereolab - Miss Modular (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Brakhage](https://www.youtube.com/watch?v=QdnX8-HDgaY)
@@ -76,13 +71,17 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 - [Ticker-tape of the Unconscious](https://www.youtube.com/watch?v=Bxq21YMljFA)
 - [Contronatura](https://www.youtube.com/watch?v=y7aKp3rAH9A)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [Stereolab - Dots And Loops](https://www.discogs.com/release/14118524-Stereolab-Dots-And-Loops) |
-| Label          | Warp Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dots_and_Loops |
+| Wikipedia Summary | Dots and Loops is the fifth studio album by English-French rock band Stereolab. It was released on 22 September 1997 and was issued by Duophonic Records and Elektra Records. The band co-produced the album with John McEntire and Andi Toma, and recording took place at their respective studios in Chicago and Düsseldorf. It was their first album to be recorded straight to Digital Audio Tape and produced with Pro Tools. The album explores jazz and electronic sounds, and is influenced by bossa nova and 1960s pop music. Its lyrics address matters such as consumerism, the "spectacle", materialism, and human interaction.<br>Dots and Loops reached number 19 on the UK Albums Chart, as well as number 111 on the Billboard 200 chart in the United States. The track "Miss Modular" was issued as a single and as an EP, and peaked at number 60 on the UK Singles Chart. Several music critics have praised Dots and Loops for its blend of accessible music with experimental and avant-garde sounds, and some have considered it to be one of the band's finest works and one of the first produced with a Digital Audio Workstation. The album was reissued in 2019 with bonus material. |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear, Expanded Edition) |
+| Label          | Warp Records |
 | Catalog Number | none |
 | Notes | Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997.  Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk. Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.  Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion.   Remastered album plus a bonus disc of demos and alternate versions  Fold out poster and DL card  Numbered on hype sticker  The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [url=https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544]Obi strip version[/url]        |
+| Discogs URL    | [Stereolab - Dots And Loops](https://www.discogs.com/release/14118524-Stereolab-Dots-And-Loops) |

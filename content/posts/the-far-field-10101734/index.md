@@ -11,6 +11,15 @@ cover:
     image: "the-far-field-10101734.jpg"
     alt: "The Far Field  by Future Islands"
     caption: "The Far Field  by Future Islands"
+additional_images:
+    - "https://i.discogs.com/E6tBjuUlotUslLxKWNNM9EAaD2lylfh3dZqStE2AvmY/rs:fit/g:sm/q:90/h:370/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE0OTE5MDAy/MTYtNzQyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/-t7P7Y4oZLNzQs9Od-0NUBeKf4xAet44elvh5uyK-mk/rs:fit/g:sm/q:90/h:493/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDA4NDMw/MDgtNzk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/xDSSz1AFDgu75MsYf8Yw3gJ1gYzHCLKfKFA0PW0N-v4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDc1NTA1/NjYtMTY0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/qNSmwAKq2F8zaE3Lig1K1vZ6Z3KypgZnFGeJhJZcwik/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDc1NTA1/NjctNjE4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/qBkC07wBmNDD9IdNpUotghcRAqroCNSC78wyY9v5eQA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDc1NTA1/NjYtNjcyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/NPK8uv46Y0gC_FD4p_VkHNscK_GYHFRnGIo9KwuEaBg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDc1NTA1/NjgtMTc5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/gT7YNlC1MMO9moepCn81_Xn36BRS7_LRxaP2WBODBNs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDc1NTA1/NjUtNDM2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/7aRJ5UmO4V3XX6N0qCjK-YO_8jnQProTcV8PKI5kJeQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/NzM0LTE1MDgwOTM3/MzItOTAzOS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Synth-pop"]
 ---
@@ -34,22 +43,13 @@ styles: ["Indie Rock", "Synth-pop"]
 
 <!-- section break -->
 
-
 Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave.” “’Cause what was gold/Is gone and cold.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-far-field/1195221378" >}}
-
-
-
-
-
 ## Videos
 ### Aladdin
 {{< youtube id="5PFZnKYnL1s" title="Aladdin" >}}<br>
-
 ### More Videos
 
 - [Shadows](https://www.youtube.com/watch?v=XpDbwHbQ_Ak)
@@ -64,13 +64,17 @@ Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’
 - [Future Islands - Cave (Official Lyric Video)](https://www.youtube.com/watch?v=RGrhubD8VDg)
 - [Future Islands - Ran (Official Video)](https://www.youtube.com/watch?v=MlQunle406U)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734-Future-Islands-The-Far-Field-) |
-| Label          | 4AD |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Far_Field_(album) |
+| Wikipedia Summary | The Far Field is the fifth studio album by American synthpop band Future Islands, released on April 7, 2017 through 4AD. Several parallels can be made between this studio album and the band's second studio album, In Evening Air: both are titled after the final volume of poetry by Theodore Roethke, and both have  album art produced by former band member Kymia Nawabi. |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (White, 180 Gram) |
+| Label          | 4AD |
 | Catalog Number | 4AD0001LPX |
 | Notes | Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name. |
+| Discogs URL    | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734-Future-Islands-The-Far-Field-) |

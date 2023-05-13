@@ -10,6 +10,11 @@ cover:
     image: "12-things-i-forgot-16279675.jpg"
     alt: "12 Things I Forgot by Steven Wilson"
     caption: "12 Things I Forgot by Steven Wilson"
+additional_images:
+    - "https://i.discogs.com/-eqN2we1N23IxaHU6INVH7kidaz06DQUQF1aS9YHluU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/Njc1LTE2MDczNTU3/NDItMTcwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/OGit2g-Bow08ba26B1eLRLEVvT23VAxL68ZaGcGrxX8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/Njc1LTE2MDczNTU3/MzktMzc5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/fvUUWyrtectCoD8rhPoG0m0mW-s5aO7LRtHFuQVjuQ4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/Njc1LTE2MDczNTU3/NDYtNzgwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Wx2OzX5rSNYb5xQrBAFsq_dg7aPKlNuThbtHPBYoIqQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/Njc1LTE2MDczNTU3/NTAtMjgwOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ---
@@ -24,28 +29,24 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Steven Wilson - 12 THINGS I FORGOT (Official Audio)
 {{< youtube id="7wZrYAgf8d8" title="Steven Wilson - 12 THINGS I FORGOT (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
 - [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Steven Wilson - 12 Things I Forgot](https://www.discogs.com/release/16279675-Steven-Wilson-12-Things-I-Forgot) |
-| Label          | Caroline International |
 | Format         | Vinyl 12" 33 ⅓ RPM Single Limited Edition |
+| Label          | Caroline International |
 | Catalog Number | CAROL021S2LP |
 | Notes | 180g vinyl. |
+| Discogs URL    | [Steven Wilson - 12 Things I Forgot](https://www.discogs.com/release/16279675-Steven-Wilson-12-Things-I-Forgot) |

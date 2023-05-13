@@ -10,6 +10,11 @@ cover:
     image: "hell-s-ditch-16187018.jpg"
     alt: "Hell's Ditch by The Pogues"
     caption: "Hell's Ditch by The Pogues"
+additional_images:
+    - "https://i.discogs.com/Yx7GXpfgxnjcoow7XWTPK9y78geznsIdgsDyadMzIvw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDYxMzM5/MTUtOTQ4My5qcGVn.jpeg"
+    - "https://i.discogs.com/KB_G3_d812WDK2OQDVLWmlWetk3qmc0-uzQmECX8Hm8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDYxMzM5/MDQtNTcwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/3WAEOKHAW3KmVALb4brhUq9cfYtLLtDtZ8V4AOIYZ2k/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDQ5NDY0/NDUtNDE3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/emcehxQm7r5B0ffrSSPW_Y50pnNYPda5TGOzrw-ecFk/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDQ5NDY0/NDUtMTEwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
@@ -34,20 +39,12 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hells-ditch-expanded-edition/189232803" >}}
-
-
-
-
-
 ## Videos
 ### The Pogues - Hell's Ditch
 {{< youtube id="jBAgkmy2vrg" title="The Pogues - Hell's Ditch" >}}<br>
-
 ### More Videos
 
 - [Hell's Ditch](https://www.youtube.com/watch?v=9bmqL0g1M0I)
@@ -65,13 +62,15 @@ styles: ["Folk Rock"]
 - [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [The Pogues - Hell's Ditch](https://www.discogs.com/release/16187018-The-Pogues-Hells-Ditch) |
-| Label          | Pogue Mahone Records |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Translucent, 180g) |
+| Label          | Pogue Mahone Records |
 | Catalog Number | 825646255856 |
 | Notes | Limited to 5000 copies. Printed card inner sleeve.  ℗ & © 1990 Warner Music UK Ltd. Made in the EU.  Presented as exclusive on both the European Dig! as well as the US Rhino sites. Copies purchased through the US Rhino site might have an added barcode on the protective plastic. |
+| Discogs URL    | [The Pogues - Hell's Ditch](https://www.discogs.com/release/16187018-The-Pogues-Hells-Ditch) |

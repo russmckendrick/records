@@ -10,6 +10,18 @@ cover:
     image: "replicas-the-first-recordings-14258114.jpg"
     alt: "Replicas (The First Recordings) by Gary Numan"
     caption: "Replicas (The First Recordings) by Gary Numan"
+additional_images:
+    - "https://i.discogs.com/fMpURkg85UmZQ-_BuW82_6tyAIkXt8wGGwT9oX5i3j8/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NjQtNzg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/iPGu8syGprb4Hvef1zzO9ZIVBx_1II8Fao323ZfXiDY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NzEtOTM3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/JQf5VWHXWxFT64uRUWisyfloAU9Hqoq3lud214vGyoc/rs:fit/g:sm/q:90/h:1026/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NzUtNDczNC5qcGVn.jpeg"
+    - "https://i.discogs.com/-gL2Xpmfc_UrZf-Te2IXGvc6k9j_wQAywt9kFg8cydk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qRYeD3acurBYnIj7Y9gbqKTGNyStt6Wf8rxVkeojpSg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTY4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/aVSVaAxi1Hy9i_UbthFKzkpQg_C5CRShMtNqDo6KAFg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtODE1My5qcGVn.jpeg"
+    - "https://i.discogs.com/hAvZazpwAWHm8ZaDJVewOANEg7jxVX3iIg__7l9R9m4/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDktMTMzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/R_wIWSMKVSD86UU_6aGYd1x5JbT9nmVQDnLMf5krltg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTU0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/G0MOFTU51gyiI44dAEHp5UI6ksFxdJ9ZMA7aTXqECMo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDctNDE0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/RBr3iORH-JhotlaJY_avTM9lqpgxV4OXnfHqbsY_pOI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDktOTg5My5qcGVn.jpeg"
+    - "https://i.discogs.com/hMVsom9S0uEEUmXxBQP6Fnysjh0t5zc7JVCU-yOhm70/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDctMjY2My5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["New Wave"]
 ---
@@ -41,20 +53,12 @@ styles: ["New Wave"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}
-
-
-
-
-
 ## Videos
 ### You Are in My Vision (Early Version)
 {{< youtube id="syXXDdt2FuQ" title="You Are in My Vision (Early Version)" >}}<br>
-
 ### More Videos
 
 - [The Machman (Early Version)](https://www.youtube.com/watch?v=UWJeYMgvMN4)
@@ -77,13 +81,15 @@ styles: ["New Wave"]
 - [Down in the Park (BBC Peel Sessions)](https://www.youtube.com/watch?v=Wdl5--cSVe8)
 - [I Nearly Married a Human (BBC Peel Sessions)](https://www.youtube.com/watch?v=NTMKk8GrN4M)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Gary Numan - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan--Tubeway-Army-Replicas-The-First-Recordings) |
-| Label          | Beggars Banquet |
 | Format         | Vinyl 2× LP Album Compilation Stereo (Sage Green) |
+| Label          | Beggars Banquet |
 | Catalog Number | BBQ2159LP |
 | Notes | 40th Anniversary Edition  Signed copies available at gigs two weeks prior to official release   ℗ & © 2019 Beggars Banquet, The Arkive  Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London. Side Four Recorded at BBC Maida Vale Studios London. |
+| Discogs URL    | [Gary Numan - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan--Tubeway-Army-Replicas-The-First-Recordings) |

@@ -10,6 +10,8 @@ cover:
     image: "enz-of-an-era-4879495.jpg"
     alt: "Enz Of An Era by Split Enz"
     caption: "Enz Of An Era by Split Enz"
+additional_images:
+    - "https://i.discogs.com/7IHRueOBzv2Gqx06seOs6Xd6iJLKlKiokLGtKgCtYTg/rs:fit/g:sm/q:90/h:228/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk0/OTUtMTM3ODI4Mjc0/OC0yMTQwLnBuZw.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
@@ -35,24 +37,21 @@ styles: ["New Wave", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### 'Enz of an Era' Vignette
 {{< youtube id="NbNMQ_j1wgY" title="'Enz of an Era' Vignette" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1982                                   |
-| Discogs Link   | [Split Enz - Enz Of An Era](https://www.discogs.com/release/4879495-Split-Enz-Enz-Of-An-Era) |
-| Label          | Mushroom |
 | Format         | Vinyl Mispress Compilation LP |
+| Label          | Mushroom |
 | Catalog Number | RML 52027 |
 | Notes | Label on Side 1 features track listing etc for "So Lucky" by Renee Geyer     A2, A4, A7, B3, B4, B5, B7: Aust. Comps. / Mushroom.  A1, A3, A5, A6, B1, B2, B6: Aust. Recordings.    This Compilation (P) 1982 Mushroom Records Pty. Ltd., Australia.  Manufactured under license by Festival Manufacturing Pty. Limited and distributed by Festival Records Retail Marketing Division.  Trademark owned by Mushroom Records Pty. Ltd., Australia and used by Festival Records Pty. Limited, under authorization.  (C) 1982 Mushroom Records Pty. Ltd., Australia.    Tracks A1, B2 Recorded A.A.V. late 1980.  Track A2 Recorded Air Studios, June/July 1977.  Tracks A3, A5 Produced and engineered A.A.V. 1979.  Track A4 Recorded at A.A.V. Studios, Melbourne November 1975.  Track B3 Recorded at Basing Street Studios, London, April/May 1976.  Track B4 Recorded at Air Studios, London, 1976.  Track B5 Recorded Air Studios, June/July, 1977.  Track B6 Recorded at A.A.V. 1979  Track B7 Recorded at The Manor Studios, England.  |
+| Discogs URL    | [Split Enz - Enz Of An Era](https://www.discogs.com/release/4879495-Split-Enz-Enz-Of-An-Era) |

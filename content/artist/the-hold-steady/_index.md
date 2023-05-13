@@ -1,6 +1,9 @@
 ---
 title: "The Hold Steady"
-summary: "American indie rock band formed in 2003 in Minneapolis, Minnesota, now based in Brooklyn, New York. The band consists of Craig Finn , Tad Kubler , Galen Polivka , Franz Nicolay , Bobby Drake , and Steve Selvidge ."
+summary: "The Hold Steady is an American rock band originally from Minneapolis, Minnesota, now based in Brooklyn, New York, formed in 2003. The band consists of Craig Finn , Tad Kubler , Galen Polivka , Bobby Drake , Franz Nicolay and Steve Selvidge . Noted for their \"lyrically dense storytelling,\" and classic rock influences, the band's narrative-based songs frequently address themes such as drug addiction, religion and redemption, and often feature recurring characters based within the city of Minneapolis.
+Formed four years following the break-up of Finn and Kubler's former band, Lifter Puller, The Hold Steady released the debut album Almost Killed Me in 2004. They came to prominence with the release of their third studio album, Boys and Girls in America, in 2006. In 2010, keyboardist and multi-instrumentalist Franz Nicolay left the band prior to the recording of their fifth studio album, Heaven Is Whenever . During the band's subsequent tour, the band became a five piece, once more, with the addition of guitarist Steve Selvidge. The band released their sixth LP, Teeth Dreams, on March 25, 2014.
+Nicolay re-joined the band on May 4, 2016, and the band has since embarked on several concert residencies in the US and the UK. To coincide with each event, The Hold Steady released stand-alone singles, marking the first recorded material of the six-piece line-up. Working with producer Josh Kaufman, the band released their seventh album, Thrashing Thru the Passion, in 2019, followed by Open Door Policy in 2021. The Price of Progress was released in 2023, also produced by Kaufman."
 image: "the-hold-steady.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-hold-steady/19552743"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Hold_Steady"
 ---

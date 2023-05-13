@@ -3,6 +3,7 @@ title: "Extreme - Extreme"
 artist: "Extreme"
 album_name: "Extreme"
 date: 2021-03-11T10:22:48.000000Z
+release_date: "1970-09-18"
 release_id: "16250003"
 slug: "extreme-16250003"
 hideSummary: true
@@ -10,6 +11,9 @@ cover:
     image: "extreme-16250003.jpg"
     alt: "Extreme by Extreme"
     caption: "Extreme by Extreme"
+additional_images:
+    - "https://i.discogs.com/rPMt2k7mQgY0GUuj2bLjn7ztRZJqeDNjeLha9AQG-g0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUw/MDAzLTE2MDU5Nzg5/MTEtMzc0My5qcGVn.jpeg"
+    - "https://i.discogs.com/jWrLLvwQL8xi1QXBUeud9T66BpSBD8BqWYvqEiDiCf0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUw/MDAzLTE2MDU5Nzg5/MTctNTY5My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
@@ -31,20 +35,13 @@ styles: ["Funk Metal"]
 
 <!-- section break -->
 
-
-
-
+Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
+    <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/living-proof/1664434034" >}}
-
-
-
-
-
+{{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}
 ## Videos
 ### Little Girls
 {{< youtube id="JZDF4RO8Y-E" title="Little Girls" >}}<br>
-
 ### More Videos
 
 - [Extreme - Kid Ego](https://www.youtube.com/watch?v=vWgQCJemN_s)
@@ -59,13 +56,17 @@ styles: ["Funk Metal"]
 - [Rock A Bye Bye](https://www.youtube.com/watch?v=K_ousowfvDE)
 - [Play With Me](https://www.youtube.com/watch?v=nDWjWfLU2kQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Extreme - Extreme](https://www.discogs.com/release/16250003-Extreme-Extreme) |
-| Label          | Lmlr |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Extreme_(album) |
+| Wikipedia Summary | Extreme is the first studio album by the American glam metal band Extreme, released in 1989 by A&M Records.  The album reached No. 80 on the Billboard 200, and produced the minor Mainstream Rock hit "Kid Ego". The single "Play with Me" is featured on the soundtrack for the comedy film Bill & Ted's Excellent Adventure, an opening episode of season 4 of Stranger Things, and the 2007 rhythm game, Guitar Hero Encore: Rocks the 80s.<br><br> |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent) |
+| Label          | Lmlr |
 | Catalog Number | 783 266 |
 | Notes | Limited edition of 1,000 copies. |
+| Discogs URL    | [Extreme - Extreme](https://www.discogs.com/release/16250003-Extreme-Extreme) |

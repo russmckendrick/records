@@ -10,6 +10,13 @@ cover:
     image: "bellybutton-1839629.jpg"
     alt: "Bellybutton by Jellyfish"
     caption: "Bellybutton by Jellyfish"
+additional_images:
+    - "https://i.discogs.com/MX47sooBIEyDllanRmgRxLEN5wnOBUsMHmWJn6cZ_6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/NS0zNjM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/3CfltlhkQumutrh2jovBEI2BMafoLGgMlc79AxL95t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/My01ODg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/iVAuP-rYjxW5v55cSBYiQufp5J4oSpXGsB8JoFwF5tE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/Ni05OTc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/sy4EwlNWHqcRmMd4S4BNo_maBk7D1_T5ZKoOJOirqiY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/Ni02NTI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/bycM8xFOPsaEwr-X0VG6MOj5TYXGZrDW-5FAZWs8F8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/NS04OTI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Kf_2oXISDYQqbSy4SUpP_uGyEsdawuRKnmkZFZKtTII/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/MC03NTM1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Power Pop"]
 ---
@@ -31,20 +38,13 @@ styles: ["Alternative Rock", "Power Pop"]
 
 <!-- section break -->
 
-
-
-
+Bellybutton is the debut album by American rock band Jellyfish, released on July 27, 1990 on Charisma Records. It was recorded after Andy Sturmer and Roger Manning's departure from Beatnik Beatch and Jason Falkner's departure from the Three O'Clock. The album was recorded in Schnee Studios in North Hollywood and produced by Albhy Galuten and Jack Joseph Puig.Bellybutton was released to critical acclaim from contemporary music critics and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bellybutton/723693536" >}}
-
-
-
-
-
 ## Videos
 ### Jellyfish - The King Is Half-Undressed
 {{< youtube id="AgdgptaBma8" title="Jellyfish - The King Is Half-Undressed" >}}<br>
-
 ### More Videos
 
 - [The Man I Used To Be](https://www.youtube.com/watch?v=RTrfvwpX9g0)
@@ -58,13 +58,17 @@ styles: ["Alternative Rock", "Power Pop"]
 - [Baby's Coming Back](https://www.youtube.com/watch?v=VCk8jfgVAac)
 - [Calling Sarah](https://www.youtube.com/watch?v=NkY_5GttIqs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bellybutton_(album) |
+| Wikipedia Summary | Bellybutton is the debut album by American rock band Jellyfish, released on July 27, 1990 on Charisma Records. It was recorded after Andy Sturmer and Roger Manning's departure from Beatnik Beatch and Jason Falkner's departure from the Three O'Clock. The album was recorded in Schnee Studios in North Hollywood and produced by Albhy Galuten and Jack Joseph Puig.Bellybutton was released to critical acclaim from contemporary music critics and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015. |
 | Release Year   | 1991                                   |
-| Discogs Link   | [Jellyfish - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-Bellybutton) |
-| Label          | Charisma |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Charisma |
 | Catalog Number | CUSLP3 |
 | Notes | This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].  In gloss finish sleeve with b/w printed inner bag.  Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release. |
+| Discogs URL    | [Jellyfish - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-Bellybutton) |

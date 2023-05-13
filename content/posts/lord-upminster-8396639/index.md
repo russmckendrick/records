@@ -10,6 +10,7 @@ cover:
     image: "lord-upminster-8396639.jpg"
     alt: "Lord Upminster by Ian Dury"
     caption: "Lord Upminster by Ian Dury"
+additional_images:
 genres: ["Electronic", "Reggae", "Funk / Soul"]
 styles: ["New Wave", "Dub", "Disco"]
 ---
@@ -29,16 +30,10 @@ styles: ["New Wave", "Dub", "Disco"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Ian Dury - Red Letter
 {{< youtube id="elL42w6qOdk" title="Ian Dury - Red Letter" >}}<br>
-
 ### More Videos
 
 - [Ian Dury - Lord Upminster (Full Album) 1981](https://www.youtube.com/watch?v=7Z2hgwig88c)
@@ -59,13 +54,15 @@ styles: ["New Wave", "Dub", "Disco"]
 - [ian dury   trust is a must](https://www.youtube.com/watch?v=BgwGao1-zmI)
 - [Ian Dury   Lord Upminster   TRUST IS A MUST](https://www.youtube.com/watch?v=kVllPYHD81w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Ian Dury - Lord Upminster](https://www.discogs.com/release/8396639-Ian-Dury-Lord-Upminster) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue Stereo |
+| Label          | Demon Records |
 | Catalog Number | DEMREC58 |
 | Notes |   |
+| Discogs URL    | [Ian Dury - Lord Upminster](https://www.discogs.com/release/8396639-Ian-Dury-Lord-Upminster) |

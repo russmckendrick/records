@@ -10,6 +10,11 @@ cover:
     image: "attack-of-the-grey-lantern-12103408.jpg"
     alt: "Attack Of The Grey Lantern by Mansun"
     caption: "Attack Of The Grey Lantern by Mansun"
+additional_images:
+    - "https://i.discogs.com/jeklT1_54cSE7rMDE4jbD1qI4fum84EL2vyt4tbNbyM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NDEtNDg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/pyboX6TPRCKSMNKyADdF5snW7xebt8PoFjo1GFXRbtA/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTE0/ODctOTU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_j5F64N6AV6YFbYYvha4AO71LOtGpTUKCrKYmY6wKkg/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NTQtNzMzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/txKZVr93oxymfZW1wqRyqO8Ots3BJFaiFBReTfi6RUw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NzItMTgyMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Britpop"]
 ---
@@ -32,20 +37,13 @@ styles: ["Psychedelic Rock", "Britpop"]
 
 <!-- section break -->
 
-
-
-
+Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}
-
-
-
-
-
 ## Videos
 ### Mansun Wide Open Space
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}<br>
-
 ### More Videos
 
 - [Disgusting](https://www.youtube.com/watch?v=O00-ToMySOc)
@@ -55,13 +53,17 @@ styles: ["Psychedelic Rock", "Britpop"]
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
 - [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Attack_of_the_Grey_Lantern |
+| Wikipedia Summary | Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408-Mansun-Attack-Of-The-Grey-Lantern) |
-| Label          | Kscope |
 | Format         | Vinyl 2× LP Limited Edition Reissue Remastered (Purple) |
+| Label          | Kscope |
 | Catalog Number | KSCOPE992 |
 | Notes | Gatefold sleeve.   Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops. |
+| Discogs URL    | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408-Mansun-Attack-Of-The-Grey-Lantern) |

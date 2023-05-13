@@ -11,6 +11,9 @@ cover:
     image: "giants-of-all-sizes-14246743.jpg"
     alt: "Giants Of All Sizes by Elbow"
     caption: "Giants Of All Sizes by Elbow"
+additional_images:
+    - "https://i.discogs.com/MqcIWFMVLNi6LcZ-KK_4FzgpTvJ-Xt0ADrj7GUuoa5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ2/NzQzLTE1NzA2NTUx/ODUtMTAyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/q9M5JTx0GhZaqyHIHoBNIKLDv-kw0bXXFBiPmAH9HqI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ2/NzQzLTE1NzA2NTUx/ODUtOTk1Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -31,7 +34,6 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
 If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent expression of romance, solidarity and hope, one track was a sharp feather stem poking through the comfort blanket. “K2” betrayed vivid anger and unease over Brexit. Two years later, with that particular political process lurching uncertainly on, the band have leaned further into the turbulence of the age. <i>Giants of All Sizes</i> contemplates war, the Grenfell tragedy, division and poverty, fusing these themes with more personal concerns, including the passing of frontman Guy Garvey’s father and two of the group’s close friends. “Bewilderment feels like the zeitgeist,” Garvey tells Apple Music. “This album does have its uplifting moments, but it comes from a darker place. It’s got a big heart but asks some bewildered questions.” Recorded in Hamburg in a converted World War II bunker flanked by a border force headquarters and a Ugandan ministry, this album is Elbow at their most searching and bruised. “I think there’s more of an urgency to the record, as I think there is with this general sort of rudderlessness that everybody’s feeling,” says Garvey. “There’s this mixture of resignation and subdued panic, and the record’s shot through with it.” Discover more with Garvey’s track-by-track guide.<br />
 <b>Dexter & Sinister</b>
 “Dexter and sinister, in heraldry, it’s the right and left side of the shield. Two very good friends of ours died close together, and they were very good friends with each other. Jan Oldenburg ran the Night and Day cafe in Manchester, which is where we got our first record deal, where we used to hang out. Scott Alexander owned [Manchester venues] Big Hands and The Temple. When I was thinking of them both being gone, I was imagining Manchester’s coat of arms with the unicorn and antelope missing. And also the references to left and right, the way the country is split at the moment—although I’m not sure it’s as simple as that. However you look at it, 50 percent of the country are unhappy and want to gamble the farm on any kind of change. I think that's more urgently something to look at than different people’s politics.”<br />
@@ -51,20 +53,12 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 “I’d just come back from a holiday with my wife and I wrote a portrait of this guy I’d seen fishing on a rubber ring, using ping-pong bats to steer around this great big glassy lake, pulling this keep net with his teeth all day, every day. I was really pleased with how it scanned and everything, but ultimately it sounded like, ‘I’ve been to India, me!’ So I swept it off the board, leaving this gorgeous piece of music with no direction. I was on the bus with my son and there’s a stop called the Deronda Road. I’d been singing this ditty to my son, ‘We’re on Deronda Road,’ and the whole thing is literally about this moment on the bus with Jack. It’s the only shamelessly non-melancholy uplifting moment on the record.”<br />
 <b>Weightless</b>
 “Jack was born and my dad met him twice. He’s named after my dad’s older brother, who he hero-worshipped. So I was able to tell my dad that. It made my dad’s dying part of something. I'm obsessed with how people act given the right stimulus, and the fact we don't <i>really</i> have free will. We are reactive to what we have learned, what we have experienced. You can have genetic advantages and genetic disadvantages, but ultimately we’re all part of an organism—and I’ve never had it explained to me so finely than the way that Jack’s birth helped me with Dad’s death. It just makes me a cog in a wheel, part of the chain of cogs. I’ve got a job to do where he’s concerned, as my dad had with me. It’s actually very reassuring. The album throws up a lot of questions and ends with something I’m very sure of: my love for those two men.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/giants-of-all-sizes/1474373426" >}}
-
-
-
-
-
 ## Videos
 ### elbow - Dexter & Sinister (Official)
 {{< youtube id="-CR628yT7aE" title="elbow - Dexter & Sinister (Official)" >}}<br>
-
 ### More Videos
 
 - [elbow - Empires (Official Video)](https://www.youtube.com/watch?v=EJa5FvCaBJc)
@@ -76,13 +70,17 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 - [elbow - Weightless (Lyrics)](https://www.youtube.com/watch?v=5vW5HpyPKME)
 - [elbow - The Delayed 3.15 (Lyrics)](https://www.youtube.com/watch?v=c7yOQloSClU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [Elbow - Giants Of All Sizes](https://www.discogs.com/release/14246743-Elbow-Giants-Of-All-Sizes) |
-| Label          | Polydor |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Giants_of_All_Sizes |
+| Wikipedia Summary | Giants of All Sizes is the eighth studio album by British alternative rock band Elbow, released on Polydor Records on 11 October 2019. The album has a darker lyrical tone than previous Elbow albums, with singer Guy Garvey's lyrics relating to Brexit, the Grenfell Tower fire tragedy and the deaths of his father and two close friends. It was widely praised by critics, and entered the UK Albums Chart at number one, becoming the band's third consecutive chart-topping studio album. |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (180gm) |
+| Label          | Polydor |
 | Catalog Number | 7764402 |
 | Notes | Heavyweight Black Vinyl + Download Card  A Polydor Records Release. ℗ & © 2019 Polydor Limited. All rights reserved. Made In Germany. BIEM/SDRM. LC 00309 7764402. 00602577644023.  elbow.co.uk Worldwide management: TRC Management Ltd mail@trcmanagement.com |
+| Discogs URL    | [Elbow - Giants Of All Sizes](https://www.discogs.com/release/14246743-Elbow-Giants-Of-All-Sizes) |

@@ -10,6 +10,19 @@ cover:
     image: "hunting-high-and-low-12210337.jpg"
     alt: "Hunting High And Low by a-ha"
     caption: "Hunting High And Low by a-ha"
+additional_images:
+    - "https://i.discogs.com/qRCC3EGs_APGQnr5CMI1ubNN2nLct22MxtWsJnnPYf4/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1MzA2NDU2/MzgtNjYyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/K5galksitqDCM8BNmfjVBrSjLEXciEa5tEr97TeDdyI/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1MzA2NDU2/NDYtNzA3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/u_w-qmcgnebvBGRZAMeASKZpN8QzHAzS_pV0jWbbXg4/rs:fit/g:sm/q:90/h:643/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1OTQ2MTc1/MjktOTM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/6UrBRP32OZmPd5mKu-4oEfFnchiQSzqRJy7x85H8UbA/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1OTQ2MTc1/MjktODM3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/BGWS3dSlaiUNyzUz-08gBFU0d-3J3y1t6jmuOajoPEQ/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1NTc1Mzk2/MDctMTA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/smRfkaIxnO90XjgbbU_qU_YrL9li1IjSTe__UEwhnBI/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1MzA2NDU2/NTAtODU5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/-UPNBe3NzMEMkBMUhOxg_Zhyo2uVBVw3lb3uKuXj6bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MDktOTE1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/sZO3pHSXfv3FBIy_nFDX6f7Xs2PCGX8w69jBnIa21AQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MDktOTk2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/69UJF0sB6kMkzo_etEiekAda7hbntM7KXU-YuJkgaXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MTAtNDg3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ELkmYQWzwyJGDQXfV9T5du4ym-ybp57hwGEbXQ9NqGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MDktMjI2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ZRPSdalct4YBocbqNr5AmZ5fWlrlkzdZMBGOkT-JwkM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MTAtNTg2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/zXtcgdrYP2X_p4JKVXymHk6bX_QUoo-c9tPnNNHtZxE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MTAtMTA3Ni5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -31,23 +44,32 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
+Hunting High and Low is the debut studio album by Norwegian new wave band A-ha, released on 1 June 1985 in the United States and 28 October 1985 in the United Kingdom by Warner Bros. Records. The album was a huge commercial success, reaching high positions on charts worldwide and peaking at number 15 on the US Billboard 200. The album was recorded at Eel Pie Studios in Twickenham, London, and produced by Tony Mansfield, John Ratcliff and Alan Tarney.
+In all, five singles from the album were released, though not all were released internationally: "Take On Me", "Love Is Reason", "The Sun Always Shines on T.V.", "Train of Thought" and "Hunting High and Low". The group was nominated for Best New Artist at the Grammy Awards in 1986, making A-ha the first Norwegian band to be nominated for a Grammy.
+As part of a re-release of their first two albums, Hunting High and Low was expanded and remastered in 2010.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hunting-high-low-remastered/1037562339" >}}
+## Videos
+### A-ha - Hunting High And Low (Early Mix) (2019 Vinyl LP) - Technics 1200G / Goldring G1042
+{{< youtube id="IGxCel7kXlk" title="A-ha - Hunting High And Low (Early Mix) (2019 Vinyl LP) - Technics 1200G / Goldring G1042" >}}<br>
+### More Videos
 
+- [A-ha Full Album DJ Mix #01 - Hunting High and Low](https://www.youtube.com/watch?v=PYtBHb4XXqw)
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hunting_High_and_Low |
+| Wikipedia Summary | Hunting High and Low is the debut studio album by Norwegian new wave band A-ha, released on 1 June 1985 in the United States and 28 October 1985 in the United Kingdom by Warner Bros. Records. The album was a huge commercial success, reaching high positions on charts worldwide and peaking at number 15 on the US Billboard 200. The album was recorded at Eel Pie Studios in Twickenham, London, and produced by Tony Mansfield, John Ratcliff and Alan Tarney.<br>In all, five singles from the album were released, though not all were released internationally: "Take On Me", "Love Is Reason", "The Sun Always Shines on T.V.", "Train of Thought" and "Hunting High and Low". The group was nominated for Best New Artist at the Grammy Awards in 1986, making A-ha the first Norwegian band to be nominated for a Grammy.<br>As part of a re-release of their first two albums, Hunting High and Low was expanded and remastered in 2010.<br><br> |
 | Release Year   | 2018                                   |
-| Discogs Link   | [a-ha - Hunting High And Low](https://www.discogs.com/release/12210337-a-ha-Hunting-High-And-Low) |
-| Label          | Warner Bros. Records |
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
+| Label          | Warner Bros. Records |
 | Catalog Number | RCV1 25300 |
 | Notes | 140-gram clear vinyl - Limited edition of 8,000 copies. |
+| Discogs URL    | [a-ha - Hunting High And Low](https://www.discogs.com/release/12210337-a-ha-Hunting-High-And-Low) |

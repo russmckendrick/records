@@ -10,6 +10,18 @@ cover:
     image: "colours-in-the-sun-14328273.jpg"
     alt: "Colours In The Sun by Voyager"
     caption: "Colours In The Sun by Voyager"
+additional_images:
+    - "https://i.discogs.com/JXA9a7umaAWIBqId9lLBENcftedZJbAebTvKy-noJTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzIzMTQ3/ODctNTYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/TkcAntZ7ZWyRe3_u05otuPCqY625U_Wq_o2tJ1z1q40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzIzMTQ3/ODgtMTk2My5qcGVn.jpeg"
+    - "https://i.discogs.com/V2VV2kdvWLNm-7OstCUnaWWsr81HY4csuCyxM3brBL0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQz/MDktNDkzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/3ls0eYv6CQOP-md1yvmsSp51XQHMM3V6y7gZ4rnww6g/rs:fit/g:sm/q:90/h:217/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQz/MTUtOTgxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/xA6ksdmS0dYAj9h7tasQ5e6qyE5I7OW1-QGPMyXXGWI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQz/NDctNjc5My5qcGVn.jpeg"
+    - "https://i.discogs.com/oBwR1UNHxc8iVF8d9q6gAPE8paV1KwQnkHArxO_yXzM/rs:fit/g:sm/q:90/h:643/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQz/ODktNzQ5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/GmZwW7D3uGYIPzBTs4F8K9aYNmXhf2hFKKw5hPWi9eM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQz/NjktMjQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/hiZx2mdy-vmxlbfalYVemkAn_g6pyR3OaTCAK35CT1c/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQ0/MDUtNzI0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/why2_y4qolgOFWVYUWfiHIR5C5bT8HyJ4nPvEQewOEA/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQ0/MDUtMjgyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/eafnv6iY3fK01Fh_X28fiRI2laK6MClkS-Y6MF1VjY8/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQ0/MDgtMjI4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qwttiMCgrAkn-q_pVJXRGRMvSvqoPmWucbUD5uyeqZY/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzQ0NDQ0/MTItMzExOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ---
@@ -31,20 +43,12 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/colours-in-the-sun/1473359674" >}}
-
-
-
-
-
 ## Videos
 ### VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]
 {{< youtube id="eyFCWhywrqM" title="VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]" >}}<br>
-
 ### More Videos
 
 - [Voyager - Brightstar (Official Music Video)](https://www.youtube.com/watch?v=NDoITQV7324)
@@ -54,13 +58,15 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 - [VOYAGER – Severomance [official audio]](https://www.youtube.com/watch?v=jPkaA-_EtQQ)
 - [VOYAGER – Saccharine Dream [official audio]](https://www.youtube.com/watch?v=EKqZnyra1Eo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Voyager - Colours In The Sun](https://www.discogs.com/release/14328273-Voyager-Colours-In-The-Sun) |
-| Label          | Season Of Mist |
 | Format         | Vinyl LP Album Limited Edition (Turquoise Transparent) |
+| Label          | Season Of Mist |
 | Catalog Number | SOM 533LP |
 | Notes | First pressing. Transparent Turquoise version limited to 100.  |
+| Discogs URL    | [Voyager - Colours In The Sun](https://www.discogs.com/release/14328273-Voyager-Colours-In-The-Sun) |

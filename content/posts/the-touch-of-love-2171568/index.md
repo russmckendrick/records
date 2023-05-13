@@ -10,6 +10,11 @@ cover:
     image: "the-touch-of-love-2171568.jpg"
     alt: "The Touch Of Love by Gladys Knight And The Pips"
     caption: "The Touch Of Love by Gladys Knight And The Pips"
+additional_images:
+    - "https://i.discogs.com/7Y0cokpFCnjzwy-_78UR-pHoxYgPly7cR-K0a2XcdYY/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE1/NjgtMTI4MjM0NjE1/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/B5XyPXN9PR3RAZiXfFn01Uv-WiZzVr1tFETixFmwgCA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE1/NjgtMTI4MjM0NjE2/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/1VjPobio_5moK64Z1l3cFpNO6BexcuhU0eHUD_CM8RA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE1/NjgtMTI2ODQ5MzAw/My5qcGVn.jpeg"
+    - "https://i.discogs.com/RgdJ5MnUl66Bo2okdAYxPSkIwWGcvMktnKTKpFDvNqY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE1/NjgtMTI2ODQ5MzAx/Mi5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
@@ -37,19 +42,18 @@ styles: ["Soul"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1980                                   |
-| Discogs Link   | [Gladys Knight And The Pips - The Touch Of Love](https://www.discogs.com/release/2171568-Gladys-Knight-And-The-Pips-The-Touch-Of-Love) |
-| Label          | K-Tel |
 | Format         | Vinyl LP Compilation |
+| Label          | K-Tel |
 | Catalog Number | NE 1090 |
 | Notes | Produced in association with PYE and Buddah Records.  This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts. |
+| Discogs URL    | [Gladys Knight And The Pips - The Touch Of Love](https://www.discogs.com/release/2171568-Gladys-Knight-And-The-Pips-The-Touch-Of-Love) |

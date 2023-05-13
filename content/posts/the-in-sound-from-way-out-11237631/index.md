@@ -10,6 +10,12 @@ cover:
     image: "the-in-sound-from-way-out-11237631.jpg"
     alt: "The In Sound From Way Out! by Beastie Boys"
     caption: "The In Sound From Way Out! by Beastie Boys"
+additional_images:
+    - "https://i.discogs.com/nL2hn7GeHNo4kLveYDQAj1ZD1B1rP0y0Ze96d0nz9mo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM3/NjMxLTE1NDA5ODU0/NzgtMTcwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/C3PCas19mNMACbGeqdAwsZWa_mpXSPtglAoBxEK-wtI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM3/NjMxLTE1NDA5ODU0/OTMtOTEyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/-wWqVyDjTYEZSDdaU3G_Obq95Gnl3QdIn5G8IKuUVCw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM3/NjMxLTE1NDA5ODU0/OTYtNzQzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/22K_POOmjZ5delVJVORqr8ZsFkzvQMBYss3qpO1wKsk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM3/NjMxLTE1NDA5ODU0/ODktNTEwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/n0QvmRF2XrE5qasCSYmSJErjghawhEeFij5Y90sVeEA/rs:fit/g:sm/q:90/h:342/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM3/NjMxLTE1NDA5ODU0/NzgtNjA4Ny5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
@@ -35,19 +41,13 @@ styles: ["Instrumental"]
 
 <!-- section break -->
 
-
-
-
+The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name.
+<br>
 ## Spotify
 {{< spotify type="album" id="0nA01XOVBUoi1zDVVYKz4i" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Beastie Boys - 2 Sabrosa
 {{< youtube id="k_UfHToc50E" title="Beastie Boys - 2 Sabrosa" >}}<br>
-
 ### More Videos
 
 - [Beastie Boys - 7 Eugene's Lament](https://www.youtube.com/watch?v=IITuTnKD8po)
@@ -60,13 +60,17 @@ styles: ["Instrumental"]
 - [beastie boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=7pONzCsX_kM)
 - [beastie boys - Transitions - The In Sound From Way Out!](https://www.youtube.com/watch?v=P_u-N4E-JkU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_In_Sound_from_Way_Out!_(Beastie_Boys_album) |
+| Wikipedia Summary | The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name. |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Beastie Boys - The In Sound From Way Out!](https://www.discogs.com/release/11237631-Beastie-Boys-The-In-Sound-From-Way-Out) |
-| Label          | Capitol Records |
 | Format         | Vinyl LP Compilation Reissue (180 g) |
+| Label          | Capitol Records |
 | Catalog Number | 602557727920 |
 | Notes | A Capitol Records release; (P) 1996 (C) 2017 Capitol Records, LLC. [...] Made in the EU. [...] Netherlands.  (at the bottom right of the back cover) |
+| Discogs URL    | [Beastie Boys - The In Sound From Way Out!](https://www.discogs.com/release/11237631-Beastie-Boys-The-In-Sound-From-Way-Out) |

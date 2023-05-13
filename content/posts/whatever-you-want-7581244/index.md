@@ -10,6 +10,8 @@ cover:
     image: "whatever-you-want-7581244.jpg"
     alt: "Whatever You Want by Status Quo"
     caption: "Whatever You Want by Status Quo"
+additional_images:
+    - "https://i.discogs.com/rC3zk63V67rfA3V_6CrijaI6W3ktLLI6RYDwAqykx0Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODEy/NDQtMTQ0NDQ5MTQ1/Mi0xMzQ1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
@@ -31,27 +33,25 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 
 <!-- section break -->
 
-
-
-
+"Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-you-want/1443409213" >}}
-
-
-
-
-
 ## Videos
 ### Status Quo - Whatever You Want
 {{< youtube id="uLCOYGITsjA" title="Status Quo - Whatever You Want" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Whatever_You_Want_(Status_Quo_song) |
+| Wikipedia Summary | "Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Status Quo - Whatever You Want](https://www.discogs.com/release/7581244-Status-Quo-Whatever-You-Want) |
-| Label          | Vertigo |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Vertigo |
 | Catalog Number | 4723772 |
+| Discogs URL    | [Status Quo - Whatever You Want](https://www.discogs.com/release/7581244-Status-Quo-Whatever-You-Want) |

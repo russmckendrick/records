@@ -10,6 +10,8 @@ cover:
     image: "koyo-10895225.jpg"
     alt: "Koyo by Koyo"
     caption: "Koyo by Koyo"
+additional_images:
+    - "https://i.discogs.com/04I72pvORZe7MdQ42MI6xvORrvXTiujvsKDEBNH41dE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk1/MjI1LTE1MzU1NjUz/MzAtMTQ0MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
@@ -31,28 +33,23 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/koyo/1259107930" >}}
-
-
-
-
-
 ## Videos
 ### KOYO - Jettisoned (Official Video)
 {{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned (Official Video)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Koyo - Koyo](https://www.discogs.com/release/10895225-Koyo-Koyo) |
-| Label          | 88 Watt |
 | Format         | Vinyl 2× LP Album (Red & Blue) |
+| Label          | 88 Watt |
 | Catalog Number | 88WLPR004X |
 | Notes | Gatefold sleeve |
+| Discogs URL    | [Koyo - Koyo](https://www.discogs.com/release/10895225-Koyo-Koyo) |

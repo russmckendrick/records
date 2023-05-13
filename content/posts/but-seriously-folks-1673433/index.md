@@ -10,6 +10,17 @@ cover:
     image: "but-seriously-folks-1673433.jpg"
     alt: "But Seriously, Folks... by Joe Walsh"
     caption: "But Seriously, Folks... by Joe Walsh"
+additional_images:
+    - "https://i.discogs.com/mb7vIxhb1uFt2fh7JTxQgW3UcS0QXp2A6kzVdZUlE3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE3/My00ODUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/TLfUEWbNUfwRlGv8FLFIjYX7zCaO4lGbovuB5ddRKOs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIx/MC01MDg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/iMDIeO5OXuwcKcbRSisJedznfOMuk3fM5wEUUM6g44M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE5/MC02NjEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/MmLqtq7iMBkWVi6vscaXbqQhLJQelEou6DowUc5TvSE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE5/Ni00MjcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/832W4dCE-mrzRBdjkPPfp9XWz8-Q8fXEri-b4gqbVhI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIw/OS05MTE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/yD2oongUHCf3CjU8pmNwW4UlZVeL7aWYAvIQ5ZfsSNQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIx/MS04MDg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/wuvTV5biOgIbu2NFdFxPiP86Urc9gCroIvu5WSqh_uI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIz/MS0xNzQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/GRpJtUcZiX_Vr4f4JVrZeumK6Y-s-SfQSSfccggzVcU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTI0/OC0xNTAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/-rAQe-VERGSZPEV9497hhCPRigglNafRI1u4OAEy7b8/rs:fit/g:sm/q:90/h:358/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTI0/Mi03NTAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/FCB_77K9IAYqP5RWuxXV7I5X7dOiO6jkJztRXyr2YYo/rs:fit/g:sm/q:90/h:386/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTI0/Ni0zMjMzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ---
@@ -29,20 +40,12 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/but-seriously-folks/332682774" >}}
-
-
-
-
-
 ## Videos
 ### Joe Walsh - Over and Over
 {{< youtube id="dYuFFJ5Ness" title="Joe Walsh - Over and Over" >}}<br>
-
 ### More Videos
 
 - [Second Hand Store](https://www.youtube.com/watch?v=9uzCuP4_72U)
@@ -53,13 +56,15 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 - [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
 - [Joe Walsh - Life's Been Good](https://www.youtube.com/watch?v=BXWvKDSwvls)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1978                                   |
-| Discogs Link   | [Joe Walsh - "But Seriously, Folks..."](https://www.discogs.com/release/1673433-Joe-Walsh-But-Seriously-Folks) |
-| Label          | Asylum Records |
 | Format         | Vinyl LP Album Stereo (Gatefold) |
+| Label          | Asylum Records |
 | Catalog Number | K 53081 |
 | Notes | Mastered at Sterling Sound, N.Y.C. Recorded at Bayshore Recording Studios, Coconut Grove, Florida. Gatefold sleeve and printed inner sleeve ℗ 1978 Asylum Records © 1978 an Elektra/Asylum recording. |
+| Discogs URL    | [Joe Walsh - "But Seriously, Folks..."](https://www.discogs.com/release/1673433-Joe-Walsh-But-Seriously-Folks) |

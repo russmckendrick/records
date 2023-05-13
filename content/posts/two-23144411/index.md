@@ -10,6 +10,12 @@ cover:
     image: "two-23144411.jpg"
     alt: "Two by Dubstar"
     caption: "Two by Dubstar"
+additional_images:
+    - "https://i.discogs.com/9XVIMuq5n3s24oM9gA7oli9wqq5hG0xiOpfYlPbRenM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTMw/MDktNjQwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/lUvNw_jXNVUZKKt95KE-MCG-4Ycnnrac9l-KxeJ1BfY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTM1/MzctODQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Dote4YyeXN6AyG3NpiA37B0I_qfetiBfl7rlIm4_Grc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTM1/NDEtNzk0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/HNh7h0xzKkoW78AB2rWFBEZ5GkXAIDHTkXNZZmrs7YQ/rs:fit/g:sm/q:90/h:636/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTE5MzA1/NjctMjAwMi5wbmc.jpeg"
+    - "https://i.discogs.com/S4pO6n-ovOKCxtRrWTfLl-lx7pcPsvhzrAN1ppd4yjs/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTMw/NTEtNzI0Mi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -31,20 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/luh-feat-zakrem-extended-version-single/1617448535" >}}
-
-
-
-
-
+{{< applemusic url="https://music.apple.com/gb/album/luh-feat-pop-a-bean-remix-single/1620990649" >}}
 ## Videos
 ### Dubstar  - Token (Widescreen Mix) Official Artist Video
 {{< youtube id="IaHHRY9gpcs" title="Dubstar  - Token (Widescreen Mix) Official Artist Video" >}}<br>
-
 ### More Videos
 
 - [Dubstar - Tectonic Plates (Official Artist Lyric Video)](https://www.youtube.com/watch?v=tZN50XYHYUQ)
@@ -60,13 +58,15 @@ styles: ["Synth-pop"]
 - [Tectonic Plates (Extended)](https://www.youtube.com/watch?v=KPmx0XYwuPw)
 - [Tectonic Plates (Dressing Up Extended Mix)](https://www.youtube.com/watch?v=YOlNmpF2VE4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Dubstar - Two](https://www.discogs.com/release/23144411-Dubstar-Two) |
-| Label          | Northern Writes |
 | Format         | Vinyl LP Album Limited Edition (White) |
+| Label          | Northern Writes |
 | Catalog Number | NW009VW |
 | Notes | Hype sticker: Limited edition white vinyl.  Initial copies from Rough Trade East, London came with a signed print.  |
+| Discogs URL    | [Dubstar - Two](https://www.discogs.com/release/23144411-Dubstar-Two) |

@@ -10,6 +10,17 @@ cover:
     image: "in-the-wild-24106940.jpg"
     alt: "In The Wild by The Interrupters"
     caption: "In The Wild by The Interrupters"
+additional_images:
+    - "https://i.discogs.com/Lt4WyAXQpwK1ZinXWlipciGfy076p8LZiIhAuLAH2PM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NDktNDY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/hurnq84M2R7ZGN8tQlFi9vWHIqy7LZCFi8NI1knza8c/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NTAtNjQzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/vROGv7l7UwksYOKAGthcm1gSeNU6DQ_eDToRy-C6NIs/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NTMtNjg0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/_4O-KBNv3_3l9Tx-uRY6TT30DpOUuTqp32Ec_tINvbs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NTItMzA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/9ff22rWEBhENgzyJo78ldU1DsAsvTMrXNEHp15pSfts/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NTMtODExMS5qcGVn.jpeg"
+    - "https://i.discogs.com/ufI8D44YzQeW7ZVzdzDjyZ390l4WUgSdS7mzfF8vIWE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NTEtNTI0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/qdQlFg1tYWYWW8N-Se8goSYYeB8-VWKL-tyBudm0Rr4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NTAtODQyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/LfH5pQJrIyDfm-wCGsYRGCPVp26zYQpiV_-VL897u8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NDktNDY2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/iWDuhWqUP3jFqRG7sfzug-mCuxUHM1HKTJ-F5BqIxY8/rs:fit/g:sm/q:90/h:430/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NDgtOTgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/xqGyFZmrB7MOFwH4zbX1FcFHo4QYhvTpV_MOirZm2Pc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/OTQwLTE2NjAyODkz/NDktNDQ5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
@@ -35,20 +46,12 @@ styles: ["Punk", "Ska"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-wild/1614835473" >}}
-
-
-
-
-
+{{< applemusic url="https://music.apple.com/gb/album/in-the-wild-deluxe-edition/1680571234" >}}
 ## Videos
 ### The Interrupters - Anything Was Better (Lyric Video)
 {{< youtube id="KWvN78Z8YU8" title="The Interrupters - Anything Was Better (Lyric Video)" >}}<br>
-
 ### More Videos
 
 - [The Interrupters - Raised By Wolves](https://www.youtube.com/watch?v=GqjUHB6hf9s)
@@ -66,13 +69,15 @@ styles: ["Punk", "Ska"]
 - [Afterthought](https://www.youtube.com/watch?v=d7IN2vVQ-Go)
 - [Alien](https://www.youtube.com/watch?v=wijkVQ4ela8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Interrupters - In The Wild](https://www.discogs.com/release/24106940-The-Interrupters-In-The-Wild) |
-| Label          | Hellcat Records |
 | Format         | Vinyl LP Album Limited Edition Stereo (White) |
+| Label          | Hellcat Records |
 | Catalog Number | 0543-1 |
 | Notes | White (EU/UK indie store exclusive) |
+| Discogs URL    | [The Interrupters - In The Wild](https://www.discogs.com/release/24106940-The-Interrupters-In-The-Wild) |

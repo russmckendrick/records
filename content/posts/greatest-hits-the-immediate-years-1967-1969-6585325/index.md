@@ -10,6 +10,16 @@ cover:
     image: "greatest-hits-the-immediate-years-1967-1969-6585325.jpg"
     alt: "Greatest Hits The Immediate Years 1967 - 1969 by Small Faces"
     caption: "Greatest Hits The Immediate Years 1967 - 1969 by Small Faces"
+additional_images:
+    - "https://i.discogs.com/HUtbnqITwVGW8bR9llIxiMlRESUp1BpF6IDRVuPnn5k/rs:fit/g:sm/q:90/h:390/w:403/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTQyMjU0NTQz/MC03NDQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/viW_8BpeVCji8X7e4T0YxdxEmZq0a8fz5Co-Jyag6hw/rs:fit/g:sm/q:90/h:388/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTQyMjU0NTQz/Ni0yMjQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/kTR1KvLwnX6eFWtzdtvYPE1cjZoJYzBj5ReVe4xcJQg/rs:fit/g:sm/q:90/h:399/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTQyMjU0NTQ0/Ni01MTc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/AzOp_8kKI_Xr1gkwyfdm0_oAHoZHsB0Mn2s7PgOzy00/rs:fit/g:sm/q:90/h:399/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTQyMjU0NTQ1/Mi04NjI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/YXtsaPaDEtiqI1_jkS3O2EMfzYCYrjAKzYDaMepLKv4/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDcz/NC0xNjIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/3j22ZW6kdRY2AmrqMWmkUhC2rxAezBa15viwlp1dUbg/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDcz/OS0zNTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ZOziG4MGIUdUSDGzWJHng6vy3LjsV0E31PHU9or8Q58/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc0/My04NjYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/QNnjdEvaIRls-upQqWsSv_eRbPMcGXECTNtvb5SegW4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc0/Ni04NjExLmpwZWc.jpeg"
+    - "https://i.discogs.com/0gdVfd5pGqAQHTZ-WsHrGkOvmpLuqTgQx7i8Ibs37sY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc1/Mi04NjM5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ---
@@ -38,19 +48,12 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="0cO2uSBkGgniN35oeuaUCM" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### I Feel Much Better (2012 Remaster)
 {{< youtube id="C76bFMCA9ss" title="I Feel Much Better (2012 Remaster)" >}}<br>
-
 ### More Videos
 
 - [I'm Only Dreaming (2012 Remaster)](https://www.youtube.com/watch?v=_IwHI5Nq6xY)
@@ -61,13 +64,15 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 - [The Universal (2013 Remaster)](https://www.youtube.com/watch?v=abAt2vXSeHI)
 - [The Journey (2013 Remaster)](https://www.youtube.com/watch?v=Q1yKurfmu60)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Small Faces - Greatest Hits The Immediate Years 1967 - 1969](https://www.discogs.com/release/6585325-Small-Faces-Greatest-Hits-The-Immediate-Years-1967-1969) |
-| Label          | Charly Records |
 | Format         | Vinyl LP Compilation Remastered Mono |
+| Label          | Charly Records |
 | Catalog Number | CHARLY L 126 |
 | Notes | 'Small Faces Greatest Hits - The Immediate Years 1967 - 1969' vinyl edition was cut by Matt Colton on a Neumann VMS 80 mastering lathe modified by Crispin Murray, with nothing else in the signal path between the source material and the lacquer. The cutting session on 6 November 2013 was conducted under the supervision of Kenney Jones & Small Faces reissue series producer Rob Caiger.  2014 Black Vinyl Issue |
+| Discogs URL    | [Small Faces - Greatest Hits The Immediate Years 1967 - 1969](https://www.discogs.com/release/6585325-Small-Faces-Greatest-Hits-The-Immediate-Years-1967-1969) |

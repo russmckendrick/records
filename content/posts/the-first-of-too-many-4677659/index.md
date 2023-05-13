@@ -10,6 +10,10 @@ cover:
     image: "the-first-of-too-many-4677659.jpg"
     alt: "The First Of Too Many by Senseless Things"
     caption: "The First Of Too Many by Senseless Things"
+additional_images:
+    - "https://i.discogs.com/SCeX41OVnxTbcr3qU8YKc-yuPRypvyQ-EG4ZAr7ufj8/rs:fit/g:sm/q:90/h:504/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc2/NTktMTQwODE2ODUz/Mi02MzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/OmdEuxknN0sMNLNSh-HG11DyJ_sAICswwyTLk-psPQ0/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc2/NTktMTQwODE2ODcx/Ni0xODU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/8Yp9utoifjlKcuTVdW-ZjHuJZw71hbxsicpvcsJhVTk/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc2/NTktMTQwODE2ODU0/NS02OTE1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -36,32 +40,26 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}
-
-
-
-
-
 ## Videos
 ### Senseless Things - Everybody's Gone
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}<br>
-
 ### More Videos
 
 - [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
 - [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1991                                   |
-| Discogs Link   | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659-Senseless-Things-The-First-Of-Too-Many) |
-| Label          | Epic |
 | Format         | Vinyl LP Album Limited Edition (Purple) |
+| Label          | Epic |
 | Catalog Number | 469157 1 |
 | Notes | Recorded at the Greenhouse Studios, London - March/April 1991.  Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991.  Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991.  Track B2 mixed at Gooseberry Studis, Brixton - July 1991.   |
+| Discogs URL    | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659-Senseless-Things-The-First-Of-Too-Many) |

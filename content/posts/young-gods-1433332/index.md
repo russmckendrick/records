@@ -10,6 +10,10 @@ cover:
     image: "young-gods-1433332.jpg"
     alt: "Young Gods by Little Angels"
     caption: "Young Gods by Little Angels"
+additional_images:
+    - "https://i.discogs.com/YnyXmk9XY0NnKKs1VjoeSxKksnaSotj9wgcLxCbeO6o/rs:fit/g:sm/q:90/h:399/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTIxOTMyNTk4/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/W9T0xYh81c82Z--oTj8OCOHoNGrLPEJsR0j_kE1C2-I/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTU4Nzk4OTk4/NC0xNzg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/nkOwkuw7spIgzaErrEtGS5Aq3CtXTkHzLEe0Mi3ONNw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTU4Nzk4OTk4/My05MTI5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
@@ -34,28 +38,23 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/young-gods/1443369213" >}}
-
-
-
-
-
 ## Videos
 ### Little Angels - Young Gods
 {{< youtube id="dysWRyP3Ung" title="Little Angels - Young Gods" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1991                                   |
-| Discogs Link   | [Little Angels - Young Gods](https://www.discogs.com/release/1433332-Little-Angels-Young-Gods) |
-| Label          | Polydor |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Polydor |
 | Catalog Number | 847 846-1 |
 | Notes | Etching on matrixes also on Netherlands version r5579832 |
+| Discogs URL    | [Little Angels - Young Gods](https://www.discogs.com/release/1433332-Little-Angels-Young-Gods) |

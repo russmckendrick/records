@@ -3,4 +3,5 @@ title: "The Strokes"
 summary: "The Strokes are an American rock band from New York City. Formed in 1998, the band is composed of singer Julian Casablancas, guitarists Nick Valensi and Albert Hammond Jr., bassist Nikolai Fraiture, and drummer Fabrizio Moretti. Following the conclusion of five-album deals with RCA and Rough Trade, the band has continued to release new music through Casablancas' Cult Records. The band's debut album, Is This It , was met with widespread critical acclaim and helped usher in the garage rock revival movement of the early 21st century; it was ranked No. 8 on Rolling Stone's 100 \"Best Debut Albums of All Time\", No. 2 on Rolling Stone's \"100 Best Albums of the '00s\", No. 199 on Rolling Stone's \"500 Greatest Albums of All Time\", and No. 4 on NME's \"Top 500 Albums of All Time\"."
 image: "the-strokes.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-strokes/560289"
+wikipedia_url: "none"
 ---

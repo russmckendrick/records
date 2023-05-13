@@ -10,6 +10,13 @@ cover:
     image: "psychocandy-8084685.jpg"
     alt: "Psychocandy by The Jesus And Mary Chain"
     caption: "Psychocandy by The Jesus And Mary Chain"
+additional_images:
+    - "https://i.discogs.com/cnWoFtFtf5GdzqblEwcg63drngOAbpyMWYIk8eE8OAM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ2/ODUtMTY3NjY5OTMy/Ni04NTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/UcrX7BzWFzguwcO9fqodYgUWO9AU2M8ULufJ1NAqAqw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ2/ODUtMTY3NjY5OTMy/Ni05MzMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/yTCHK1WzPBKp4kKgksV-PQ8Y9O7yrVIZkTrRy3pKhMQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ2/ODUtMTY3NjY5OTMy/Ni0xMzYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/rTlKGoHRyuZkfnDYc5v7i-zfCFHrzsUvNdTIDyG36R4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ2/ODUtMTY3NjY5OTMy/NS01OTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/PyvkeOZ6yn7exOxhesBeu0bzegH75xgB67puP5k8xDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ2/ODUtMTY3NjY5OTMy/NC00MTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/UydoQ07X4JEFMgzZA6_NPGkTVjo3zM3vnknWSi-lPe4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQ2/ODUtMTY3NjY5OTMy/My03NzUxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Noise"]
 ---
@@ -35,20 +42,12 @@ styles: ["Noise"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/darklands/164392139" >}}
-
-
-
-
-
 ## Videos
 ### The Jesus And Mary Chain - Just Like Honey (Official Music Video)
 {{< youtube id="7EgB__YratE" title="The Jesus And Mary Chain - Just Like Honey (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
@@ -65,13 +64,15 @@ styles: ["Noise"]
 - [Something's Wrong](https://www.youtube.com/watch?v=UxlwSRNw8LA)
 - [It's So Hard](https://www.youtube.com/watch?v=UmdXQpwAzVQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1985                                   |
-| Discogs Link   | [The Jesus And Mary Chain - Psychocandy](https://www.discogs.com/release/8084685-The-Jesus-And-Mary-Chain-Psychocandy) |
-| Label          | Blanco Y Negro |
 | Format         | Vinyl LP Album |
+| Label          | Blanco Y Negro |
 | Catalog Number | BYN 7 |
 | Notes | German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN Label differences: three layers of rim text and flag.  Includes insert. |
+| Discogs URL    | [The Jesus And Mary Chain - Psychocandy](https://www.discogs.com/release/8084685-The-Jesus-And-Mary-Chain-Psychocandy) |

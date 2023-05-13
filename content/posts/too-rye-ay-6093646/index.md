@@ -10,6 +10,8 @@ cover:
     image: "too-rye-ay-6093646.jpg"
     alt: "Too-Rye-Ay by Kevin Rowland"
     caption: "Too-Rye-Ay by Kevin Rowland"
+additional_images:
+    - "https://i.discogs.com/FHDyjXTeVgYUVvBwyp3yz7ZuFZ994oKcwQyBsDO6JFs/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTM2/NDYtMTQxMDg5NDMw/Ni0xMTYyLmpwZWc.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: []
 ---
@@ -31,20 +33,15 @@ styles: []
 
 <!-- section break -->
 
+Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners. It was released in July 1982 by Mercury Records. The album is best known for the hit single "Come On Eileen", which included the refrain that inspired the album's title. It was the band's most successful album, debuting at number two on the UK Albums Chart.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/too-rye-ay/1442968287" >}}
-
-
-
-
-
 ## Videos
 ### Too-Rye-Ay
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}<br>
-
 ### More Videos
 
 - [Kevin Rowland & Dexys Midnight Runners - Until I Belive In My Soul (Original)](https://www.youtube.com/watch?v=zEiRtCI6WJI)
@@ -72,12 +69,16 @@ styles: []
 - [Until I Believe In My Soul (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=VvrDUFcrxIs)
 - [Come On Eileen (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fVaQeoWzwRU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Too-Rye-Ay |
+| Wikipedia Summary | Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners. It was released in July 1982 by Mercury Records. The album is best known for the hit single "Come On Eileen", which included the refrain that inspired the album's title. It was the band's most successful album, debuting at number two on the UK Albums Chart.<br><br> |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Kevin Rowland - Too-Rye-Ay](https://www.discogs.com/release/6093646-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay) |
-| Label          | Mercury |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Mercury |
 | Catalog Number | 3789427 |
+| Discogs URL    | [Kevin Rowland - Too-Rye-Ay](https://www.discogs.com/release/6093646-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay) |

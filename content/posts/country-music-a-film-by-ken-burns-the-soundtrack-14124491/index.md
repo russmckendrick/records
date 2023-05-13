@@ -10,6 +10,9 @@ cover:
     image: "country-music-a-film-by-ken-burns-the-soundtrack-14124491.jpg"
     alt: "Country Music A Film By Ken Burns The Soundtrack by Various"
     caption: "Country Music A Film By Ken Burns The Soundtrack by Various"
+additional_images:
+    - "https://i.discogs.com/P9_0f8QFHsjIJJHUJ4Ght6BOGENZqr0pDl9lyE03tNE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI0/NDkxLTE1Njk1ODcx/OTktMjc3Ni5wbmc.jpeg"
+    - "https://i.discogs.com/YXKOBSdxYmxYZcguh2TP117_xmgLGwtJGtBO2XNH93s/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI0/NDkxLTE1Njk1ODcy/MDMtNTM0NS5wbmc.jpeg"
 genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Soundtrack", "Country", "Rock & Roll"]
 ---
@@ -50,30 +53,25 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="3ZAFnRYQRAiBplISQFj7nC" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time
 {{< youtube id="XnFcRAuFFyI" title="Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time" >}}<br>
-
 ### More Videos
 
 - [Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s](https://www.youtube.com/watch?v=_o_FqMZ8OKA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Various - Country Music A Film By Ken Burns The Soundtrack](https://www.discogs.com/release/14124491-Various-Country-Music-A-Film-By-Ken-Burns-The-Soundtrack) |
-| Label          | Legacy |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Legacy |
 | Catalog Number | 19075960431 |
 | Notes | Superb soundtrack to accompany the documentary being aired on BBC4 in November, chronicling the history of Country music |
+| Discogs URL    | [Various - Country Music A Film By Ken Burns The Soundtrack](https://www.discogs.com/release/14124491-Various-Country-Music-A-Film-By-Ken-Burns-The-Soundtrack) |

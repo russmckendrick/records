@@ -10,6 +10,15 @@ cover:
     image: "grave-dancers-union-7068256.jpg"
     alt: "Grave Dancers Union by Soul Asylum"
     caption: "Grave Dancers Union by Soul Asylum"
+additional_images:
+    - "https://i.discogs.com/DtKlpv_Xb40ReDvrZEMaxmTDrp2oDjq59k2nTrH7a-4/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/NS05MjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/evsPgqO2V2fGe9zdS_qbZfrNnVbBhzA7dHwzxv_uKzQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/NS00NzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/QGmjgGMOoj59QoU59hfHmyIdtReJY-U3Rj43DPrtnmw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/OC0zNDAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/bOA0RroXFdicKASB6wUnVaDa4eBdiYETSQq6Z8NmTok/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/NS03NzA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/w3hG5WtWxnPk55CXPcsI84PbtnhOnqxETnzIbim_uEA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/OC03Njk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/JGZ1GETomUEi4tlkdR2m4OW8mWF8DlyB5MW3bxUV4eg/rs:fit/g:sm/q:90/h:559/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/OC04NTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/mjCB8dey1Vms5xVvVDRtky_HR5r-M_lx9NeCAcd78rs/rs:fit/g:sm/q:90/h:564/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/Ni02Mjc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/JS6XFbKr_N-pZkC5qpMly8YVM3lIb6gmwhuiPun6D4A/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/OC02MjE3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,20 +42,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grave-dancers-union-2022-remaster/158329476" >}}
-
-
-
-
-
 ## Videos
 ### Soul Asylum - Somebody to Shove
 {{< youtube id="OrrE5bCA5lg" title="Soul Asylum - Somebody to Shove" >}}<br>
-
 ### More Videos
 
 - [Soul Asylum - Black Gold](https://www.youtube.com/watch?v=KpiFDrFEGvE)
@@ -61,13 +63,17 @@ styles: ["Alternative Rock"]
 - [99%](https://www.youtube.com/watch?v=OrGtWLrMTxQ)
 - [The Sun Maid](https://www.youtube.com/watch?v=x025XOmFg5A)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Grave_Dancers_Union |
+| Wikipedia Summary | Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Soul Asylum - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-Grave-Dancers-Union) |
-| Label          | Columbia |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Columbia |
 | Catalog Number | MOVLP1368 |
 | Notes | 180 gram audiophile vinyl, including insert |
+| Discogs URL    | [Soul Asylum - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-Grave-Dancers-Union) |

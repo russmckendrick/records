@@ -10,6 +10,8 @@ cover:
     image: "live-7580911.jpg"
     alt: "Live by Status Quo"
     caption: "Live by Status Quo"
+additional_images:
+    - "https://i.discogs.com/64N430nKZDYHXZ5h9PIfOPmZR_-nj-WBYocx_U1sNTU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA5/MTEtMTQ0NDQ4Njg5/Ny00NTIzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
@@ -36,23 +38,20 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-the-n-e-c/1442835222" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-last-night-of-the-electrics-live/1226014241" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Status Quo - Live](https://www.discogs.com/release/7580911-Status-Quo-Live) |
-| Label          | Vertigo |
 | Format         | Vinyl 2× LP Album Reissue |
+| Label          | Vertigo |
 | Catalog Number | 4723768 |
 | Notes | Gatefold sleeve |
+| Discogs URL    | [Status Quo - Live](https://www.discogs.com/release/7580911-Status-Quo-Live) |

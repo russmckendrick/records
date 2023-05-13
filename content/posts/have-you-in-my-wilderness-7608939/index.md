@@ -11,6 +11,16 @@ cover:
     image: "have-you-in-my-wilderness-7608939.jpg"
     alt: "Have You In My Wilderness by Julia Holter"
     caption: "Have You In My Wilderness by Julia Holter"
+additional_images:
+    - "https://i.discogs.com/_-zuEWNCir0PY_deMBj60xr-8hqzI7DnLrCXvezSgHA/rs:fit/g:sm/q:90/h:560/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTA3NjEx/OS00MzQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/-B7ommeuUBId0Kx7GCkS_CSnQC8Lffz3es6akcJ-2Vk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ni04NTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Z7KzkNIwdInCGiz1cL5N4_UziZNoqGdJQ7WjEUbOMeE/rs:fit/g:sm/q:90/h:721/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ny0zNTMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/3Y7iv2qt48VwzwT14JczNYND7gGwICPRgNMwFMz3JPw/rs:fit/g:sm/q:90/h:98/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ni0zNzI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/9YuWAaMVdGgWY-4dXge4VOn3bKrxRpg1E-JNF9k8yHE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ny0zMTE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/2ybqoEq1wr7KW4iEC5oJ_bDyH7o1j0oGHSJ7t-5kMc4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/OC0zMzQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/keYdmbEwLjGXx9XBgCQFtglNvW-WudtRf4bsYImQS1g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE2/NC05OTI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/jwmv8UTQV7TtXI82MQ6B_fPSHbJomv8U9QxluQ_MXXE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE2/Mi03NjI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/0qtHoWycYveO7gF_BCCxoYrcoRIdO3wZyTmeKi-v9oU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/OS0xNzI4LmpwZWc.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Indie Pop"]
 ---
@@ -32,22 +42,13 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-
 Bold experimentalism is key for Californian Julia Holter. Her third album is a melange of thoughtful, alternative approaches to pop. “Feel You”’s harpsichord jauntiness and skittish drums provide the idea platform for the album’s textual tapestry. Syncopated jazz (“Vazquez”), hypnotic shanties (“Sea Calls Me Home”) and aching torch songs (“How Long?” and “Night Song”) all follow, but the tone—while opulent, rich and dramatic—never feels false. “Silhouette” is a gorgeously off-kilter, while “Betsy on the Roof” builds from barely a whisper.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/have-you-in-my-wilderness/1046817772" >}}
-
-
-
-
-
 ## Videos
 ### Julia Holter - Feel You (Official Video)
 {{< youtube id="X2JgMniIpRM" title="Julia Holter - Feel You (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Julia Holter –  Vasquez  (hommage à Julia - unofficial video)](https://www.youtube.com/watch?v=w8USu4D0dvw)
@@ -57,13 +58,17 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 - [Julia Holter - Sea Calls Me Home (Official Video)](https://www.youtube.com/watch?v=OERixQR-hxY)
 - [Have You In My Wilderness](https://www.youtube.com/watch?v=uYLOYsDYpRg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Julia Holter - Have You In My Wilderness](https://www.discogs.com/release/7608939-Julia-Holter-Have-You-In-My-Wilderness) |
-| Label          | Domino |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Have_You_in_My_Wilderness |
+| Wikipedia Summary | Have You in My Wilderness is the fourth studio album by American musician Julia Holter, released on September 25, 2015, by Domino Recording Company. Co-produced by Holter and Cole M.G.N., the album was preceded by the singles "Feel You" and "Sea Calls Me Home". Two further videos followed its release, for the tracks "Silhouette" and "Everytime Boots".<br>The album was released to widespread critical acclaim, placing highly on several music critics' end-of-year lists, and increased Holter's exposure significantly. |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
+| Label          | Domino |
 | Catalog Number | WIGLP341 |
 | Notes | Generic hype sticker on shrink wrap reads: "Comes With MP3s! Details enclosed. 180gm heavyweight virgin vinyl"   Includes download code card and printed lyric inner sleeve.  On sleeve, inner and labels, track A5 is incorrectly listed as Sea Calls Me Home, and track B1 as Night Song.  Some copies ordered from Piccadilly Records contain bonus 8-track promo CD titled "Julia Holter. Selected Tracks 2011-2014".  Thank you: Mom, Dad, Robin, Yelena, Dicky, Tashi and Ramona  In memory of my grandparents Nick and Jeanette, who gave me my first piano   Domino Recording Co. Ltd. P.O. Box 47029 London SW18 1WD / 20 Jay Street, Suite 626, Brooklyn NY 11201 Made in the E.U. |
+| Discogs URL    | [Julia Holter - Have You In My Wilderness](https://www.discogs.com/release/7608939-Julia-Holter-Have-You-In-My-Wilderness) |

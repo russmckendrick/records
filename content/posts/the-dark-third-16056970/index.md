@@ -10,6 +10,14 @@ cover:
     image: "the-dark-third-16056970.jpg"
     alt: "The Dark Third by Pure Reason Revolution"
     caption: "The Dark Third by Pure Reason Revolution"
+additional_images:
+    - "https://i.discogs.com/QnlrctsThT6dSv_yTR8vOKsDoefiEky3kAQthGheeXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MjkwNjU3/MjctNzU3My5qcGVn.jpeg"
+    - "https://i.discogs.com/ElYLtbajKI_7E-qAoCIiQeByEn8OEVsTc7EVQ6YTsHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MjkwNjU3/MzgtMjQwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/a62MFAi4oWmntoQQWjLM_SzIa6DI8Q5nKZHYANE1q3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MjkwNjU3/NDEtNzA5My5qcGVn.jpeg"
+    - "https://i.discogs.com/DcV9-PvqbU8F5AAlkkQzBDFvWxj8Q1muTnIYwhsNLQ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MjkwNjU3/NDQtNzM0My5qcGVn.jpeg"
+    - "https://i.discogs.com/tWmAmQYEl3Bj300bObn7f33dmx5CTVfUsmW8Vg9KsyU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MjkwNjU3/NDYtNTc1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/OsXa2TCneffPVfIop5YGwH7c_ExIv9N-gKuzvduuYoc/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MDI2NzU5/NDItNjE2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/brlM3mpwmv1K3jsGycaYTU4GApgO9wPpaQlv2MpS1gE/rs:fit/g:sm/q:90/h:504/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU2/OTcwLTE2MDI2NzU5/NDItNzU2NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
@@ -54,20 +62,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}
-
-
-
-
-
 ## Videos
 ### Pure Reason Revolution - The Twyncyn / Trembilin Willows
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
-
 ### More Videos
 
 - [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
@@ -87,13 +87,15 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/16056970-Pure-Reason-Revolution-The-Dark-Third) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album (Yellow), CD 2× Album, All Media Limited Edition Reissue |
+| Label          | Inside Out Music |
 | Catalog Number | 19439793441 |
 | Notes | Gatefold, strictly limited to 200 copies. |
+| Discogs URL    | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/16056970-Pure-Reason-Revolution-The-Dark-Third) |

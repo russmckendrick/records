@@ -10,6 +10,14 @@ cover:
     image: "this-is-big-audio-dynamite-6631916.jpg"
     alt: "This Is Big Audio Dynamite by Big Audio Dynamite"
     caption: "This Is Big Audio Dynamite by Big Audio Dynamite"
+additional_images:
+    - "https://i.discogs.com/kK2qNZeeFme5vDNaaJSjANdpXEIh-2DHpAFkIu9Qt4E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQ0MjA0MDI1/My01ODA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/ufgSx3cIwv84QiGEsgqIjMpRZsiOr8vYQyfdOEUTlCY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQ0MjA0MDI0/MS02MTc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/2B9o--jMIF2mEjobx8pSdxpPCV5JLvchABu4HFazj14/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQyMzQ4Njgz/Ni01NDMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/eJStbiYkEHuQ0eOApWxi6TboULIJ_vIhb1-2sOLnttI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQ0MjA0MDE0/MS02NjAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/GPH_epCoqa9YdfFlFFpg_8BAKscQtm_m2biu_LWROQ0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQ0MjA0MDE3/NC00OTQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/bdt4_w1gEzsBrrjMyAOIVNHzAuLJxmTUhWqX4eDhN9E/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQ0MjA0MDI2/NC0xNjU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/OiI9QGie97uNmQc-J5AyveWmDU7GjaZ91OtDLoxrJV4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE5/MTYtMTQ0MjA0MDI3/NC0zMzMxLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Electro", "Synth-pop"]
 ---
@@ -29,20 +37,12 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-big-audio-dynamite/192786175" >}}
-
-
-
-
-
 ## Videos
 ### Big Audio Dynamite - Medicine Show
 {{< youtube id="BD2kWCfTcaU" title="Big Audio Dynamite - Medicine Show" >}}<br>
-
 ### More Videos
 
 - [Big Audio Dynamite - E=MC2](https://www.youtube.com/watch?v=cHTDkJ-bQqM)
@@ -54,13 +54,15 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 - [The Bottom Line ((12 Inch Remix) [Edit Version])](https://www.youtube.com/watch?v=0Dxd-lp4rlk)
 - [Big Audio Dynamite - This Is Big Audio Dynamite (Full Album)](https://www.youtube.com/watch?v=GUM0B35JL9A)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1985                                   |
-| Discogs Link   | [Big Audio Dynamite - This Is Big Audio Dynamite](https://www.discogs.com/release/6631916-Big-Audio-Dynamite-This-Is-Big-Audio-Dynamite) |
-| Label          | CBS |
 | Format         | Vinyl LP Album (No Barcode) |
+| Label          | CBS |
 | Catalog Number | CBS 26714 |
 | Notes | Made entirely on location in West London  Lyrics printed on inner sleeve, all songs Bad Songs Publishing.  Very similar to [r=180852]; however this release does not have a barcode on the right hand top corner of the rear sleeve.  |
+| Discogs URL    | [Big Audio Dynamite - This Is Big Audio Dynamite](https://www.discogs.com/release/6631916-Big-Audio-Dynamite-This-Is-Big-Audio-Dynamite) |

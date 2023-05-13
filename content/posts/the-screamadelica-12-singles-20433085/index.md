@@ -10,6 +10,11 @@ cover:
     image: "the-screamadelica-12-singles-20433085.jpg"
     alt: "The Screamadelica 12 Singles by Primal Scream"
     caption: "The Screamadelica 12 Singles by Primal Scream"
+additional_images:
+    - "https://i.discogs.com/bagdO6FGX2o7tVCTV0Z-YTby6LaJfOBlu7rDZfKxtNw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2NDM0Nzc0/NzQtMTU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/IJCszYPYxuHn7bXbShxY3b0dKaxV_JLJuULEvTvxzMM/rs:fit/g:sm/q:90/h:250/w:243/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2MzMxMDM2/NDctOTE2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ogW-cvHclU_JezsYiIO8P5NJVRei4vn06FqrzQsTcEc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2NDM0Nzc0/ODItNjU4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/doWrNwT9s7X6nkVD4VcJ4GwEcfnTFBwz-8uEugUL7PI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2MzM0MzIw/NzktNDM4MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
 ---
@@ -55,23 +60,20 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-screamadelica-12-singles/1581970344" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Primal Scream - The Screamadelica 12" Singles](https://www.discogs.com/release/20433085-Primal-Scream-The-Screamadelica-12-Singles) |
-| Label          | Sony Music |
 | Format         | Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single (180g), Box Set Compilation |
+| Label          | Sony Music |
 | Catalog Number | 19439904541 |
 | Notes | Includes download code and 3 Paul Carnell art prints.  A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets.  Some others are packaged upside down and the back cover is attached to the front side of the box. |
+| Discogs URL    | [Primal Scream - The Screamadelica 12" Singles](https://www.discogs.com/release/20433085-Primal-Scream-The-Screamadelica-12-Singles) |

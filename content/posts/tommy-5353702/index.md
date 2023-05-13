@@ -10,6 +10,16 @@ cover:
     image: "tommy-5353702.jpg"
     alt: "Tommy by The Who"
     caption: "Tommy by The Who"
+additional_images:
+    - "https://i.discogs.com/WKIlYzT4-dsKTmjvErZZtcVmvqIcCEQsl8c4PvJvVJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTM5MTI5MTg5/OC0xMTUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZHSZxgCGItB4spOfur6PgvcLHQbHT5FUVRSUiJfp7Gw/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwNTA3/MS0zODMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/5RjEzsUwcd-MUurk4EoKp0bWBDqdaii6U785QArX3n4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwNTA3/OC0yOTM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/vqsi9Dy3u3MhheYrp50DGjbRMOWEmLipXOlxjW70IBY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwNTA5/NC02NDUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/zXzkOJHZY8vbc0Qcc8al7CT-ETbPLcB1rJpzJNk-CQ0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwNzAw/Mi02NjU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/YuOZtuHJh6B_-5mC7Yut0RNeU-n2jfoRYmjf6OB_ozY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwODMz/Ny05Njc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/b-k1yzQAp3ybk_KV72XNy6xfFwNIK3dMjNEFDywXcUs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwOTE0/My03NjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/XQdXpZZFMBaJUhYJqrHPwxiML060-cumV6INh7efU9s/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTUwNjEwNTEy/NC04MjE0LnBuZw.jpeg"
+    - "https://i.discogs.com/8GeeMaYkiaByfISVxGnCfJfGYaE8ueIEj9FTUBeVuKU/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTM3/MDItMTYzNTc0NDM1/NS04MzQ1LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Pop Rock"]
 ---
@@ -144,23 +154,25 @@ styles: ["Classic Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Tommy is the fourth studio album by the English rock band The Who, a double album first released on 17 May 1969. The album was mostly composed by guitarist Pete Townshend, and is a rock opera that tells the story of Tommy Walker. Tommy is traumatized from witnessing his father murder his mother's lover. Tommy's parents compound his trauma by denying the experience. In reaction, Tommy becomes dissociative ("deaf, dumb and blind"). Tommy then experiences the trauma of being sexually abused. As a way of coping with his trauma, Tommy dissociates further through playing pinball. He gains a following because of his skill at playing pinball. After numerous misguided attempts to heal Tommy, a doctor prescribes him a mirror so he can confront himself and his experience. Instead, Tommy becomes self-absorbed and comes to think of himself as a messianic figure. When the mirror is eventually broken, Tommy comes out of his dissociative state. Tommy then tries to lead his followers to believe that the only path to healing is through him.  His followers eventually reject him and his teachings.
+Townshend came up with the concept of Tommy after being introduced to the work of Meher Baba, and attempted to translate Baba's teachings into music. Recording on the album began in September 1968, but took six months to complete as material needed to be arranged and re-recorded in the studio. Tommy was acclaimed upon its release by critics, who hailed it as The Who's breakthrough. Its critical standing diminished slightly in later years; nonetheless, several writers view it as an important and influential album in the history of rock music. The Who promoted the album's release with an extensive tour, including a live version of Tommy, which lasted throughout 1969 and 1970. Key gigs from the tour included appearances at Woodstock, the 1969 Isle of Wight Festival, the University of Leeds, the Metropolitan Opera House, and the 1970 Isle of Wight Festival. The live performances of Tommy drew critical praise and revitalized the band's career.
+Subsequently, the rock opera developed into other media, including a Seattle Opera production in 1971, an orchestral version by Lou Reizner in 1972, a film in 1975, and a Broadway musical in 1992. The original album has sold 20 million copies and has been inducted into the Grammy Hall of Fame. It has been reissued several times on CD, including a remix by Jon Astley in 1996, a deluxe Super Audio CD in 2003, and a super deluxe box set in 2013, including previously unreleased demos and live material.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tommy/1461210985" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Tommy_(The_Who_album) |
+| Wikipedia Summary | Tommy is the fourth studio album by the English rock band The Who, a double album first released on 17 May 1969. The album was mostly composed by guitarist Pete Townshend, and is a rock opera that tells the story of Tommy Walker. Tommy is traumatized from witnessing his father murder his mother's lover. Tommy's parents compound his trauma by denying the experience. In reaction, Tommy becomes dissociative ("deaf, dumb and blind"). Tommy then experiences the trauma of being sexually abused. As a way of coping with his trauma, Tommy dissociates further through playing pinball. He gains a following because of his skill at playing pinball. After numerous misguided attempts to heal Tommy, a doctor prescribes him a mirror so he can confront himself and his experience. Instead, Tommy becomes self-absorbed and comes to think of himself as a messianic figure. When the mirror is eventually broken, Tommy comes out of his dissociative state. Tommy then tries to lead his followers to believe that the only path to healing is through him.  His followers eventually reject him and his teachings.<br>Townshend came up with the concept of Tommy after being introduced to the work of Meher Baba, and attempted to translate Baba's teachings into music. Recording on the album began in September 1968, but took six months to complete as material needed to be arranged and re-recorded in the studio. Tommy was acclaimed upon its release by critics, who hailed it as The Who's breakthrough. Its critical standing diminished slightly in later years; nonetheless, several writers view it as an important and influential album in the history of rock music. The Who promoted the album's release with an extensive tour, including a live version of Tommy, which lasted throughout 1969 and 1970. Key gigs from the tour included appearances at Woodstock, the 1969 Isle of Wight Festival, the University of Leeds, the Metropolitan Opera House, and the 1970 Isle of Wight Festival. The live performances of Tommy drew critical praise and revitalized the band's career.<br>Subsequently, the rock opera developed into other media, including a Seattle Opera production in 1971, an orchestral version by Lou Reizner in 1972, a film in 1975, and a Broadway musical in 1992. The original album has sold 20 million copies and has been inducted into the Grammy Hall of Fame. It has been reissued several times on CD, including a remix by Jon Astley in 1996, a deluxe Super Audio CD in 2003, and a super deluxe box set in 2013, including previously unreleased demos and live material. |
 | Release Year   | 2013                                   |
-| Discogs Link   | [The Who - Tommy](https://www.discogs.com/release/5353702-The-Who-Tommy) |
-| Label          | Polydor |
 | Format         | Box Set Limited Edition (Super Deluxe Edition), CD Album Reissue Remastered, CD, Blu-ray Album Stereo Multichannel, CD Album |
+| Label          | Polydor |
 | Catalog Number | 3747396 |
 | Notes | On disc four all tracks are from the Capitol Theatre, Ottawa, Ontario, Canada, 15 October 1969, except for "I'm Free", "Tommy's Holiday Camp", "We're Not Gonna Take It" and "See Me, Feel Me" which are from Swansea City Football Club, 12 June 1976. |
+| Discogs URL    | [The Who - Tommy](https://www.discogs.com/release/5353702-The-Who-Tommy) |

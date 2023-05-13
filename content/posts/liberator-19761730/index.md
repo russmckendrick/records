@@ -10,6 +10,15 @@ cover:
     image: "liberator-19761730.jpg"
     alt: "Liberator by Orchestral Manoeuvres In The Dark"
     caption: "Liberator by Orchestral Manoeuvres In The Dark"
+additional_images:
+    - "https://i.discogs.com/s8_kMc7DPyfdBWy9ad6KHgIhldQxvXj98CXWSwsto0E/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNjY1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_FSsxULcxqrMulQ0rlI4NUmgsp8JhvWfdYavClI-okk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNDI2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/l7D171thRtJMYjCgFW4fWgkdAMXzqOQBh1bLjxuksDs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktMTU3My5qcGVn.jpeg"
+    - "https://i.discogs.com/DDTa5FaxD0j3xQREluYogH7hLXRzuyRntKsNxI3ZTUA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNDgwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/ugcHhuMMBkkjV_HZcnNU1bwvvOQmerfAbreDsr9FJSw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktOTU0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/2y6nQRin8_l-j2tRV9-GFsFiNG4BBklgrVKpxsCHvuA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNTg4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/I_rnYUvJn6VhF2Y_VGBwW6jSHlV3WhVDYIj7nomNFM4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktMzExMS5qcGVn.jpeg"
+    - "https://i.discogs.com/jQ4BJL0MEibs9njAwB8wCQSDicsLJuVI2P1PrBJZobA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktODEwMy5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -33,20 +42,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/liberator/728324593" >}}
-
-
-
-
-
 ## Videos
 ### Dream Of Me (Based On Love's Theme)
 {{< youtube id="Vc-d3FGoxDI" title="Dream Of Me (Based On Love's Theme)" >}}<br>
-
 ### More Videos
 
 - [Orchestral Manoeuvres In The Dark - Stand Above Me](https://www.youtube.com/watch?v=HewK0qkT7OI)
@@ -60,13 +61,15 @@ styles: ["Synth-pop"]
 - [Dollar Girl](https://www.youtube.com/watch?v=KT-1fnFOzuM)
 - [Christine](https://www.youtube.com/watch?v=oh4JiRbgpMY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730-OMD-Liberator) |
-| Label          | EMI |
 | Format         | Vinyl LP Album Reissue Remastered |
+| Label          | EMI |
 | Catalog Number | 0602435422497 |
 | Notes | An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files). |
+| Discogs URL    | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730-OMD-Liberator) |

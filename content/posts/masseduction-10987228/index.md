@@ -11,6 +11,16 @@ cover:
     image: "masseduction-10987228.jpg"
     alt: "Masseduction by St. Vincent"
     caption: "Masseduction by St. Vincent"
+additional_images:
+    - "https://i.discogs.com/CFXvyNCN31DsyEbut8hBzU8DYcyQpTxnhedBttb1HdU/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDc5MzYz/MzEtNTYyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/qYJ45CtGO7YV_0M1E0pNgqz_ji_meqEUyJaZo7bK9mo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NDAtNzA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/T2aIpBgMdIdxInavKMZkibVnEjWUA8nIZ6XpxxLTQ0Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDgyNTM1/NDctNzgxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Nr-mEkjRTTwd-_mwp4dFE7um2bEZGcb319s8mTmgiG4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDgyNTM1/NDYtNTAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Im4wNuKm1eSktKIrjEkVTSIAvMfYSWiOZfrIo580g84/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDc3MzI0/NTQtNzE5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/sLgJNkfEwIssrhJ_qcgSvCCbS2uJ64rJob4X74oqjjs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjEtNDc2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/HZ1AfCV9qju8DWW_95MqebGN85zevPVzHaaT826TLDw/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjAtMTM0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/keRdpJu58nB2GjB9qla4yZELI0pZsxBut9SXZmMJpPI/rs:fit/g:sm/q:90/h:795/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjUtOTc1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/U-CL0QPTfl3hL9LyNuwf4EuaWR134oL58Oqa97b5Gcc/rs:fit/g:sm/q:90/h:803/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjctODM4OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -35,22 +45,13 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
 Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless,” where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/masseduction/1440947061" >}}
-
-
-
-
-
 ## Videos
 ### St. Vincent - Hang On Me (Official Audio)
 {{< youtube id="F9WjhPy02gU" title="St. Vincent - Hang On Me (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [St. Vincent - Masseduction](https://www.youtube.com/watch?v=jPha0h8TA5U)
@@ -58,13 +59,17 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 - [St. Vincent - Power Corrupts (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 - [St. Vincent - Los Ageless (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |
-| Label          | Loma Vista |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Masseduction |
+| Wikipedia Summary | Masseduction is the fifth studio album by American musician St. Vincent, released on October 13, 2017, through Loma Vista Recordings. The album peaked at number 10 on the Billboard 200, becoming her first top ten album in the United States. The album also received universal acclaim and was the fourth-most mentioned in critics' year-end lists for 2017. At the 61st Annual Grammy Awards, Masseduction won the award for Best Recording Package and Best Rock Song for its title track, and was also nominated for the Best Alternative Music Album. |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition (Pink) |
+| Label          | Loma Vista |
 | Catalog Number | LVR00225 |
 | Notes | ℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped. |
+| Discogs URL    | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |

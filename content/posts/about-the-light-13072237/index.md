@@ -11,6 +11,9 @@ cover:
     image: "about-the-light-13072237.jpg"
     alt: "About The Light by Steve Mason"
     caption: "About The Light by Steve Mason"
+additional_images:
+    - "https://i.discogs.com/lru1ilTTPUG8Vt7Lth_GP_VdD3uLSa4WQTLIuli5csE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjM3LTE1NDc2NDA3/NjYtODYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/tfoG4tKAggy6gCmA5ZPywzTMt4WcKlATrpTSRUDVBuc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjM3LTE1NDc2NDA3/NjktNTIxNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -32,24 +35,15 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
 In 1999, Steve Mason was becoming as noted for his self-sabotage as for the cosmic, folky magic he was making with The Beta Band. With the group’s next-big-thing status rapidly escalating in the UK, he gave interviews dismissing their imminent debut album as “f***ing awful” (it wasn’t).<br />
 Twenty years later, he’s finally inclined to play a few notes on his own trumpet, describing the fourth album under his own name as his first “legitimate record.” While that’s harsh on his other, excellent solo releases, his confidence in <i>About the Light</i> is well-founded. With his usual restlessness and daring, he’s made his most optimistic record, embracing the peace he’s found since 2010’s moving <i>Boys Outside</i> documented his debilitating depression.<br />
 Here, Mason emerges from insularity to seize the day on the title track’s country-fried blues before declaring, “She has brought the lights, I see/I won’t look back/That’s not for me” over the urgent soul-funk of “Stars Around My Heart”. Even contemplative moments, such as the gently psychedelic “Fox on the Rooftop”, emit a sense of playfulness and liberation. <i>About the Light</i> is further evidence that Mason possesses a rare combination of adventure, honesty and skill as a songwriter. This time around, he might even agree.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/about-the-light/1434556882" >}}
-
-
-
-
-
 ## Videos
 ### Steve Mason - About  the light
 {{< youtube id="8jPy090dfPg" title="Steve Mason - About  the light" >}}<br>
-
 ### More Videos
 
 - [Rocket](https://www.youtube.com/watch?v=3ko96ZE8lvk)
@@ -61,13 +55,16 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 - [Stars Around My Heart](https://www.youtube.com/watch?v=KLxAlOobhf4)
 - [Walking Away from Love](https://www.youtube.com/watch?v=9SfZEou56sU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | In 1999, Steve Mason was becoming as noted for his self-sabotage as for the cosmic, folky magic he was making with The Beta Band. With the group’s next-big-thing status rapidly escalating in the UK, he gave interviews dismissing their imminent debut album as “f***ing awful” (it wasn’t).<br /><br>Twenty years later, he’s finally inclined to play a few notes on his own trumpet, describing the fourth album under his own name as his first “legitimate record.” While that’s harsh on his other, excellent solo releases, his confidence in <i>About the Light</i> is well-founded. With his usual restlessness and daring, he’s made his most optimistic record, embracing the peace he’s found since 2010’s moving <i>Boys Outside</i> documented his debilitating depression.<br /><br>Here, Mason emerges from insularity to seize the day on the title track’s country-fried blues before declaring, “She has brought the lights, I see/I won’t look back/That’s not for me” over the urgent soul-funk of “Stars Around My Heart”. Even contemplative moments, such as the gently psychedelic “Fox on the Rooftop”, emit a sense of playfulness and liberation. <i>About the Light</i> is further evidence that Mason possesses a rare combination of adventure, honesty and skill as a songwriter. This time around, he might even agree. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-About-The-Light) |
-| Label          | Double Six (2) |
 | Format         | Vinyl LP Album Limited Edition (Silver) |
+| Label          | Double Six (2) |
 | Catalog Number | DS121LP |
 | Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
+| Discogs URL    | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-About-The-Light) |

@@ -10,6 +10,11 @@ cover:
     image: "cha-cha-cha-2950887.jpg"
     alt: "Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra"
     caption: "Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra"
+additional_images:
+    - "https://i.discogs.com/74sUOzGS4w7jPkADhOpM0qkowBGs4Vxf6IdHrpXzIYI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA4/ODctMTQ3MzM1MzIz/NS02NTE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/jnWcfXonu73QoZQSqrKLtPGia8IvPqXcsAt1rW56s0A/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA4/ODctMTQ3MzM1MzIz/OC04OTMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/TQ5bkcd97exBOh8Ij0C7fkljMOoYwnq7W3c5fDQ0Kvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA4/ODctMTQ3MzM1MzIz/NC00NjQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/xIfBkgLaxpSIVu6Az8CVW8N2XGtL0RqPHh9d7Zt_jkk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA4/ODctMTQ3MzM1MzI0/Mi02ODY3LmpwZWc.jpeg"
 genres: ["Jazz", "Latin"]
 styles: ["Cha-Cha"]
 ---
@@ -31,19 +36,12 @@ styles: ["Cha-Cha"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Chat Cha Cha
 {{< youtube id="LL6NYx_5s0o" title="Chat Cha Cha" >}}<br>
-
 ### More Videos
 
 - [Continental Cha Cha](https://www.youtube.com/watch?v=wI0HUieG2Xo)
@@ -66,13 +64,15 @@ styles: ["Cha-Cha"]
 - [Carmen & Fernando del Valle - Torrid Cha Cha](https://www.youtube.com/watch?v=QYMMx2I3nHs)
 - [Carmen & Fernando del Valle - Piccadilly Cha Cha](https://www.youtube.com/watch?v=7Ttn9aOGmR0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1964                                   |
-| Discogs Link   | [Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |
-| Label          | Allegro Records |
 | Format         | Vinyl LP |
+| Label          | Allegro Records |
 | Catalog Number | ALL734 |
 | Notes | Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964  |
+| Discogs URL    | [Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |

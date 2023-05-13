@@ -10,6 +10,8 @@ cover:
     image: "telekon-7788320.jpg"
     alt: "Telekon by Gary Numan"
     caption: "Telekon by Gary Numan"
+additional_images:
+    - "https://i.discogs.com/4FGC9VmAtsqhzsw2jQq1I9nLdtaBh3PJJsl8nWLnR6w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODgz/MjAtMTQ0ODc5NDAx/MS0yMzU0LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
@@ -39,20 +41,13 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/telekon/251679821" >}}
-
-
-
-
-
 ## Videos
 ### Gary Numan - This Wreckage
 {{< youtube id="m9uvIqIUq4U" title="Gary Numan - This Wreckage" >}}<br>
-
 ### More Videos
 
 - [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
@@ -65,13 +60,17 @@ styles: ["New Wave", "Synth-pop"]
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Telekon |
+| Wikipedia Summary | Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Gary Numan - Telekon](https://www.discogs.com/release/7788320-Gary-Numan-Telekon) |
-| Label          | Beggars Banquet |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Label          | Beggars Banquet |
 | Catalog Number | BBQLP19 |
 | Notes | 'We Are Glass' and 'I Die:You Die' were issued as singles but not included on the original vinyl release of the album (they did appear on the original UK cassette release). 'A Game Called Echo' was recorded at Rock City as part of the early album sessions and first relesed in 1985 on a retrospective 12''. 'Down In The Park (Piano Version)' was the B side of 'I Die:You Die'. 'Photograph' (B side of 'This Wreckage' single) and 'Trois Gymnopédies' (B side of 'We Are Glass') were tracks from 'Freerange' demo sessions for 'The Pleasure Principle' album and recorded between 9-12 April 1979. |
+| Discogs URL    | [Gary Numan - Telekon](https://www.discogs.com/release/7788320-Gary-Numan-Telekon) |

@@ -10,6 +10,14 @@ cover:
     image: "the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149.jpg"
     alt: "The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry"
     caption: "The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry"
+additional_images:
+    - "https://i.discogs.com/1QofV1upMgPyGKpB5H-5mVjbJe1nggozFYr0WPolPj4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NTk3NDQ5/MDYtNjUyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/VRuvBFyQ_WACFhw4HfgdqnuCGiLBX2W97MvV45yENiA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NTk3NDQ5/MDUtNDc2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/s7Pgv_8hmqFCTaSS1Kmknh6k97e4vwlGExwbNfZcbx0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MDMtOTUzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/0Kz9ggG_nGmIxmJZzPAXgkt5jBE1YIo2hDn3AoCHFpI/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY1/OTItODM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/eHGYPlJosJAEkcvpY2hUVFSNjgq-wq4qpumBvMcSuMY/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MTMtMTMzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/YSkGyAyVWwkuMEYOkJJXqzvMPFak04zOJOiOa5pCPgQ/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MjEtMTc1My5qcGVn.jpeg"
+    - "https://i.discogs.com/BTnGc8GduhzptG0WAAehyvOezWyjVUOxYvKfWZQ32bQ/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjkzNzE1/NDktOTg1OS5qcGVn.jpeg"
 genres: ["Rock", "Blues", "Pop", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
@@ -53,16 +61,10 @@ styles: ["Country Rock", "Country"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Ode To Billie Joe
 {{< youtube id="cJZ_ViDADOE" title="Ode To Billie Joe" >}}<br>
-
 ### More Videos
 
 - [I Saw An Angel Die](https://www.youtube.com/watch?v=hvGDAUW9SDw)
@@ -110,13 +112,15 @@ styles: ["Country Rock", "Country"]
 - [You And Me Together](https://www.youtube.com/watch?v=XpsAppX-j8M)
 - [The Girl From Cincinnati](https://www.youtube.com/watch?v=ynnH6kmOH_A)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Bobbie Gentry - The Girl From Chickasaw County (Highlights From The Capitol Masters)](https://www.discogs.com/release/24114149-Bobbie-Gentry-The-Girl-From-Chickasaw-County-Highlights-From-The-Capitol-Masters) |
-| Label          | UMC |
 | Format         | Vinyl 2× LP Compilation Remastered Stereo |
+| Label          | UMC |
 | Catalog Number | 5395656 |
 | Notes | Gatefold double album with 4-page insert of notes titled "An Introduction To The Recordings", printed inner sleeves , hype sticker on front shrink-wrap and "Made in Germany" sticker on back shrink-wrap.  [From insert] Transfers by Iron Mountain Entertainment Services. Photographs from the collection of Andrew Batt, Capitol Records and the BBC  [From back cover] This compilation ℗ 2022 Universal Music Operations Limited, © 2022 Universal Music Operations Limited Made in the EU.  [From hype sticker] Highlights from the acclaimed Grammy nominated boxset. Includes the classic tracks "Ode To Billie Joe" and "Fancy", as well as demos, outtakes and deepcuts.  [Track details] A1, A2 <> Universal/MCA Music Limited; Originally released on "Ode To Billie Joe" 21/08/1967 A3 to A5, B2, B5, C4, D4 to D6 <> Universal/MCA Music Limited; Originally released on "The Girl From Chickasaw County" 21/09/2018 A6 to B1 <> Universal/MCA Music Limited; Originally released on "The Delta Sweete - Deluxe" 31/07/2020 B3, B4 <> Universal/MCA Music Limited; Remixed for this release B6 <> EMI United Partnership Ltd.; Remixed for this release B7 <> Blue Crest Music, Inc. Hill and Range Songs, Inc.; Originally released on "The Girl From Chickasaw County" 21/09/2018 B8 <> Strictly Confidential; Originally released on "The Girl From Chickasaw County" 21/09/2018 B9, C5 <> Universal Music Publ. International MGB Ltd. / BMG Music Publishing International Ltd.; Originally released on "The Girl From Chickasaw County" 21/09/2018 C1 <> Carlin Music Corp.; Originally released on "The Girl From Chickasaw County" 21/09/2018 C2 <> Warner/Chappell Music Publishing Limited / BMG Rights Management (UK) Ltd. (Hal David); Originally released on "The Girl From Chickasaw County" 21/09/2018 C3 <> Sony/ATB Music Publishing (UK) Limited; Originally released on "The Girl From Chickasaw County" 21/09/2018 C6 <> Universal/MCA Music Limited; Originally released on "Fancy" 06/04/1970 C7 <> Imagem Music; Originally released on "Fancy" 06/04/1970 C8 <> Originally released on "The Girl From Chickasaw County" 21/09/2018 D1 <> Warner/Chappell North America Limited; Originally released on "The Girl From Chickasaw County" 21/09/2018 D2, D3 <> Universal/MCA Music Limited; Originally released on "Patchwork" 26/04/1971 D7 <> EMI Songs Ltd.; Originally released on "The Girl From Cincinnati" 7" 08/1972  Runouts are etched |
+| Discogs URL    | [Bobbie Gentry - The Girl From Chickasaw County (Highlights From The Capitol Masters)](https://www.discogs.com/release/24114149-Bobbie-Gentry-The-Girl-From-Chickasaw-County-Highlights-From-The-Capitol-Masters) |

@@ -11,6 +11,17 @@ cover:
     image: "lovers-rock-15435885.jpg"
     alt: "Lovers Rock by The Dears"
     caption: "Lovers Rock by The Dears"
+additional_images:
+    - "https://i.discogs.com/-LL5s4KZJ-EI5xndnwtH1xmz_XmL7KsUga0M1T8MDsk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTE3NTI0/OTEtNjAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/VvMrVAKGkpOlVhUoYEVJDdEMJfRQLeEYa2G9EdT9Sis/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTE3NTI1/MDYtMjI4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/fKqfPnp-kNVySA705ReSjNaX9jsJkpp-BWebHJsYqrs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTE3NTI1/MjEtODE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/5lKoqAe-Aqmme-lr3FxOKbhpsTZNHeL8DDOQHNrjY9k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTE3NTI1/MzgtNzg1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/7xCWAzeFdKOALQyXPhyaXQ7OWPGkuX4YQkSbKtXUkOM/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTE3NTI1/NzctNzg5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/wXPdlwOzSiBEhuV8AUhj_Zw5DivTlUQplApp3vqHRp0/rs:fit/g:sm/q:90/h:411/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTE3NTI1/NTktMzYzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/2cpaVcIWEX71-q-Nfp6dNYu4vQn1v4k1XDs2r9H4yj8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTg0NjM5/MzAtNzQxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/LVFoAxs8Znbjk76PHbbWWzVRVz5Hfm9o4bPNAVUmQBQ/rs:fit/g:sm/q:90/h:189/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTg0NjM5/MzEtOTAxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/OJKTPbwx6L2IBIYKWIx6HvWWGtqtgKwKJ3xngolJbV8/rs:fit/g:sm/q:90/h:346/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE1OTg0NjM5/MzItMzM4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/i7imnFbJiUmebHQL5lfxognD21BWMFMMmWYZ5aoJshk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/ODg1LTE2MzEyNDIx/NDYtNTY5OS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -31,7 +42,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. We'll Go Into Hiding
 
 <!-- section break -->
-
 
 Obviously, like anyone else releasing music in the spring of 2020, The Dears wrote and recorded their eighth album well before the COVID-19 crisis thrust the world into hibernation and a perpetual state of unease. Still, the Montreal indie-rockestra’s frontman Murray Lightburn can’t help but marvel at the uncanny timing of <i>Lovers Rock</i>, a record that adopts the name of the ’70s reggae subgenre and applies it to an imaginary utopian planet where Earth’s frantic romantics can escape as our world hurtles towards its doomsday course. “Right now, a lot of people in the world are feeling what a lot of our fans have been feeling for years, but it's from different circumstances,” Lightburn tells Apple Music. “We're all in the same boat now, but a lot of people have been feeling this way all the time. We know it, and that’s who we’re singing for.” In both thematic content and compositional complexity, Lightburn sees clear parallels between <i>Lovers Rock</i> and The Dears’ 2003 masterwork <i>No Cities Left</i>, another record that presciently tapped into the tenor of its tumultuous time (i.e., the dawn of the Iraq war and the outbreak of SARS). But as he reveals in this track-by-track survey, <i>Lovers Rock</i> savvily synthesises elements—soaring symphonic rock anthems, lush soul balladry, leftfield experimentation—from across The Dears’ discography. Arriving two decades after the band’s debut album, <i>Lovers Rock</i> effectively functions as a 20th-anniversary retrospective comprising all new songs.<br />
 <b>Heart of an Animal</b>
@@ -54,32 +64,28 @@ Obviously, like anyone else releasing music in the spring of 2020, The Dears wro
 “You could easily put this song on our first album [2000’s <i>End of a Hollywood Bedtime Story</i>], and I think that was almost intentional—it’s us conveying that we haven’t lost touch with our true selves, that despite all the evolution that we've gone through in the last two decades, we could crank out a song that would still easily fit, sonically and conceptually, on our first record. I even busted out some of the guitars that I used on that first record—not the exact guitars, but the same models. When we made our first record, I borrowed this Hagstrom guitar from 1971, and you can hear that tone throughout <i>Lovers Rock</i>, but on this song, it's really prominent. It reminds me of 'This Is a Broadcast'. I was feeling nostalgic.”<br />
 <b>We’ll Go Into Hiding</b>
 “This is the point where you're deciding to make that escape and cut yourself off from everything, and just focus on what's important. In this world, you get very distracted. We struggle to say focused: We're constantly scrolling through these screens and there's constant distractions, and we have crazy people running the free world and the news cycle is just an onslaught of panic and fear. It's super easy to lose your focus on the important things. And it's interesting that in these unprecedented times, you would hope it would draw people towards that focus. When we're promoting our music, we're not just promoting our music because we want people to buy our records; we're promoting that idea.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovers-rock/1499171415" >}}
-
-
-
-
-
 ## Videos
 ### The Dears - Instant Nightmare!
 {{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare!" >}}<br>
-
 ### More Videos
 
 - [The Dears - Is This What You Really Want?](https://www.youtube.com/watch?v=fcWiNJybFUY)
 - [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [The Dears - Lovers Rock](https://www.discogs.com/release/15435885-The-Dears-Lovers-Rock) |
-| Label          | Dangerbird Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lovers_Rock_(The_Dears_album) |
+| Wikipedia Summary | Lovers Rock is the eighth studio album by Canadian indie rock band The Dears. It was released on May 15, 2020 under Dangerbird Records.The first single from the album, "The Worst in Us", was released on March 13, 2020. The second single "I Know What You're Thinking And It's Awful" was released on May 1, 2020.<br><br> |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo (Silver Metallic) |
+| Label          | Dangerbird Records |
 | Catalog Number | DGB211-1 |
 | Notes | Includes download card.  Certain pre-orders included an autographed print. |
+| Discogs URL    | [The Dears - Lovers Rock](https://www.discogs.com/release/15435885-The-Dears-Lovers-Rock) |

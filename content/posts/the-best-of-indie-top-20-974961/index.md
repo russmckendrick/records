@@ -10,6 +10,15 @@ cover:
     image: "the-best-of-indie-top-20-974961.jpg"
     alt: "The Best Of Indie Top 20 by Various"
     caption: "The Best Of Indie Top 20 by Various"
+additional_images:
+    - "https://i.discogs.com/Wik9nJjxI9oZVf28Z0NWFjtMYAa6PRT6cNz1QA-HoHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xMTk1MzgzNTcw/LmpwZWc.jpeg"
+    - "https://i.discogs.com/JAviDMsNq8ej7kv-6XFhhC3hY6X7gf3mW9dFfVUscYc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xNDYzNDE4Nzg4/LTczOTAuanBlZw.jpeg"
+    - "https://i.discogs.com/iTdH76mQQCgymAE-jpHTa_jqh5KOwqaT4IxLlM61G0w/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xNDYzNDE4Nzg5/LTc5NTkuanBlZw.jpeg"
+    - "https://i.discogs.com/z0AEDUyuaRkxSeLwC0-BrEYZkBwO5zHGCGn_rJdIeQw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xNDYzNDE4Nzg2/LTQ4NTQuanBlZw.jpeg"
+    - "https://i.discogs.com/Y50Mjn8zamCGl1A5xTPPKAJhPSiAlJqdFytgnDPkBGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xMTk1MzgzNjAz/LmpwZWc.jpeg"
+    - "https://i.discogs.com/1AaYtzTyUpz3FPlHPMPAqi3F8az27rWSWz6S5pa_whw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xMTk1NTExNTY1/LmpwZWc.jpeg"
+    - "https://i.discogs.com/JM6PCX1XBAqaAjZh8asKjfJJOng-ugXKyxDpVQXBJR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xMTk1NTExNjAy/LmpwZWc.jpeg"
+    - "https://i.discogs.com/UbtbM1tHp3ztrnCL8-w2Z6PbLwch9fI3fr1quVIcJaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk2/MS0xMTk1NTExNzMx/LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
@@ -43,16 +52,10 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### The Pixies - Monkey Gone To Heaven
 {{< youtube id="XycBLF6kWuY" title="The Pixies - Monkey Gone To Heaven" >}}<br>
-
 ### More Videos
 
 - [24 Hour Party People - Happy Mondays [Song]](https://www.youtube.com/watch?v=N7sa9r0mvBs)
@@ -63,12 +66,14 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 - [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
 - [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1991                                   |
-| Discogs Link   | [Various - The Best Of Indie Top 20](https://www.discogs.com/release/974961-Various-The-Best-Of-Indie-Top-20) |
-| Label          | Beechwood Music |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Beechwood Music |
 | Catalog Number | BOTT 001 |
+| Discogs URL    | [Various - The Best Of Indie Top 20](https://www.discogs.com/release/974961-Various-The-Best-Of-Indie-Top-20) |

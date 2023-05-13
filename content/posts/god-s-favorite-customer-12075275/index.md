@@ -10,6 +10,11 @@ cover:
     image: "god-s-favorite-customer-12075275.jpg"
     alt: "God's Favorite Customer by Father John Misty"
     caption: "God's Favorite Customer by Father John Misty"
+additional_images:
+    - "https://i.discogs.com/huEGuWWWs8htctBsl_Mqk-kgSJ6mrSUaOxQKvOmIyAw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc1/Mjc1LTE1MjkwMjQ5/MzctMzU2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/SxSsau6NhjT-PML8nCQj27lnlIM4-wN8kPsX1A3vmxo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc1/Mjc1LTE1MjkwMjQ5/MzgtMjQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/xGfR3TzM8jIxUcOTZXgrlwalunGIPOYvPrMtsslomEQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc1/Mjc1LTE1Mjc3OTEz/MDEtMzI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/PcgYhxXjUx_d6KoSZCpCXQIHr2elZXteKeMATGwWrCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc1/Mjc1LTE1Mjc3OTEz/MDAtMjgyOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
@@ -31,20 +36,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gods-favorite-customer/1359220140" >}}
-
-
-
-
-
 ## Videos
 ### Father John Misty - God's Favorite Customer [Official Music Video]
 {{< youtube id="sNG4g354P3w" title="Father John Misty - God's Favorite Customer [Official Music Video]" >}}<br>
-
 ### More Videos
 
 - [Father John Misty - Please Don't Die [Official Music Video]](https://www.youtube.com/watch?v=SR1CSqQJi3E)
@@ -54,13 +51,15 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [Father John Misty - Mr. Tillman [Official Music Video]](https://www.youtube.com/watch?v=j5B5IGqyy2s)
 - [Father John Misty - Mr. Tillman [Official Audio]](https://www.youtube.com/watch?v=n38R1JTEAPo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Father John Misty - God's Favorite Customer](https://www.discogs.com/release/12075275-Father-John-Misty-Gods-Favorite-Customer) |
-| Label          | Bella Union |
 | Format         | Vinyl LP Album Limited Edition (Orange Neon) |
+| Label          | Bella Union |
 | Catalog Number | BELLA770RT |
 | Notes | Rough Trade Exclusive: Neon Orange. Limited to 1000 copies.   Test pressing labels with track numbering on sequential to 1 through 10.  Sticker with download information stuck on inner sleeve.  BELLA770RT on barcode sticker. BELLA770V on spine |
+| Discogs URL    | [Father John Misty - God's Favorite Customer](https://www.discogs.com/release/12075275-Father-John-Misty-Gods-Favorite-Customer) |

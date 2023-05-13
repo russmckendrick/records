@@ -10,6 +10,9 @@ cover:
     image: "map-of-the-past-18649051.jpg"
     alt: "Map Of The Past by It Bites"
     caption: "Map Of The Past by It Bites"
+additional_images:
+    - "https://i.discogs.com/KwDQcEy3VsVXUAfz_gkpDEqJ6TwMSqHxZLjVHQ28A5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ5/MDUxLTE2MjA1MTgw/OTYtOTAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/rkI1XjbJuOkgY4JajvGEgEKpNXRBPyhSht4i62etD0c/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ5/MDUxLTE2MjA1MTgx/MDQtMjkxNi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
@@ -45,20 +48,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/map-of-the-past/1056415449" >}}
-
-
-
-
-
 ## Videos
 ### It Bites - Map of The Past
 {{< youtube id="UTkXOi5c3dE" title="It Bites - Map of The Past" >}}<br>
-
 ### More Videos
 
 - [It Bites - Map of the Past](https://www.youtube.com/watch?v=Ny5bD9bhUpQ)
@@ -66,13 +61,15 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Man in the Photograph - It Bites](https://www.youtube.com/watch?v=gguU7-MhugA)
 - [It Bites - Meadow and the Stream](https://www.youtube.com/watch?v=wYlohpuSZ9A)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [It Bites - Map Of The Past](https://www.discogs.com/release/18649051-It-Bites-Map-Of-The-Past) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP 45 RPM Album Remastered, CD Album Remastered, All Media Reissue |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 585 |
 | Notes | Gatefold, black vinyl version..  Hype sticker: "Gatefold 2LP + CD + LP-Booklet The fifth studio album from  IT BITES available on vinyl once again. Newly remastered and  featuring expanded liner notes  on the making of the album."  ℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.  Tracks CD-12 and CD-13 are bonus tracks. |
+| Discogs URL    | [It Bites - Map Of The Past](https://www.discogs.com/release/18649051-It-Bites-Map-Of-The-Past) |

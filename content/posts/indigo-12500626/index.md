@@ -10,6 +10,9 @@ cover:
     image: "indigo-12500626.jpg"
     alt: "Indigo by Kandace Springs"
     caption: "Indigo by Kandace Springs"
+additional_images:
+    - "https://i.discogs.com/T2CWA7-VPiy4V8uR6QlnVUKxcjPQAjzi8AREv074V8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAw/NjI2LTE1MzY3MzQ2/NzEtMzExOC5qcGVn.jpeg"
+    - "https://i.discogs.com/miAZmcOkLHLMHeFT2EmkwgdFUn55H480aTqFT4PFOOQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAw/NjI2LTE1Mzg5NDU1/NjgtMzQyOS5qcGVn.jpeg"
 genres: ["Jazz"]
 styles: []
 ---
@@ -34,20 +37,12 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/indigo/1414681591" >}}
-
-
-
-
-
 ## Videos
 ### Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]
 {{< youtube id="EaQwTZmJywg" title="Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]" >}}<br>
-
 ### More Videos
 
 - [Kandace Springs - Fix Me](https://www.youtube.com/watch?v=oXmtRxZKVFo)
@@ -70,13 +65,15 @@ styles: []
 - [The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=XwwSU8O5X5M)
 - [Simple Things](https://www.youtube.com/watch?v=pL5jn3LRl6w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Kandace Springs - Indigo](https://www.discogs.com/release/12500626-Kandace-Springs-Indigo) |
-| Label          | Blue Note |
 | Format         | Vinyl LP Album |
+| Label          | Blue Note |
 | Catalog Number | B002872101 |
 | Notes | Single pocket sleeve with double-sided insert with photo and album credits. |
+| Discogs URL    | [Kandace Springs - Indigo](https://www.discogs.com/release/12500626-Kandace-Springs-Indigo) |

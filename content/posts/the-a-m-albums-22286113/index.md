@@ -10,6 +10,18 @@ cover:
     image: "the-a-m-albums-22286113.jpg"
     alt: "The A&M Albums by Dodgy"
     caption: "The A&M Albums by Dodgy"
+additional_images:
+    - "https://i.discogs.com/So9zyj6-novJww4KWFiVgqby1HBv6fEN5vJZsjvOBiI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA3/NDItMTExNy5qcGVn.jpeg"
+    - "https://i.discogs.com/ZgRgaz1AuWMSmdu5tj8-hgw4QaaDOTKzQl1pMVuJtQQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItOTU5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/wPSUiJCgr9CI3pnllbgi-il0rwoKKvA17RGz7LUmF8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItODIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/3WMDCZPjCMk5pi2pdnjMscwrHKi3-2uC0omVeFZzeZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItMzg3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/c144HAhAKpoqkrAMmmifs5qUOVEUBVwb99NtcDoEzsU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItODAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/12qnW6HJ7H46clRiwAe1cKEx65RL6AkErxZNnL7XFYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItNzIyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/uDVO1cMP5lnKQPKTjnd61kN-ASjPBcTEkM5wT9f1oD4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItMTE0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/sU-AlI3qLMmVaLeQBIC7rlpB84wYFHliS-LzfgiKIlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItOTY4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/-ObxBlZJWyRVQBNg4b1M9R6aFctD5xbd9Vu_yTadWYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA3/NDgtOTkwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/RtYuG_APK5c72OikWlMsUGrU3bikn6tnje85U0xN5S4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItMjI1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Mv5ieMDwOJS8sBQ7v6RWCef0ab_S4zoqlmwUGJz6mDY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg2/MTEzLTE2NDU3MjA1/NDItNTcwOS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
@@ -58,18 +70,17 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Dodgy - The A&M Albums](https://www.discogs.com/release/22286113-Dodgy-The-AM-Albums) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue Stereo, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Album Reissue Stereo, Box Set Compilation Deluxe Edition Limited Edition |
+| Label          | Demon Records |
 | Catalog Number | DEMRECBOX60 |
+| Discogs URL    | [Dodgy - The A&M Albums](https://www.discogs.com/release/22286113-Dodgy-The-AM-Albums) |

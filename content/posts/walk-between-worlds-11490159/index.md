@@ -10,6 +10,12 @@ cover:
     image: "walk-between-worlds-11490159.jpg"
     alt: "Walk Between Worlds by Simple Minds"
     caption: "Walk Between Worlds by Simple Minds"
+additional_images:
+    - "https://i.discogs.com/NHkHzAdzusDWDAkiejbIrqn9UFdUNx1RQ8aHv_7hpHA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/MjMtODg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/5tX5URcde5ogj0zT-H_dE_OgSfnQvqXYutiyH369uMc/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/MzItNzY3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/qld3otK20BhBcJBWTJjSpwg542QVHNr6GpwtdK8Vaog/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTgzNDIw/NjUtNDcwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/IIeqOrcb87RBWbwSJIOxEakHwn2M0b_DZ1IW8hqbDLM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTgzNDIw/ODEtNjU4My5qcGVn.jpeg"
+    - "https://i.discogs.com/ABICk5o928TBExrqZDUaOWt3oH_YNBeCtzLWi4SlafY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/NDgtMzg4Ni5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -32,23 +38,23 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple Minds, released in February 2018 by BMG.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/walk-between-worlds/1311990803" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Walk_Between_Worlds_(album) |
+| Wikipedia Summary | Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple Minds, released in February 2018 by BMG. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Simple Minds - Walk Between Worlds](https://www.discogs.com/release/11490159-Simpleminds-Walk-Between-Worlds) |
-| Label          | BMG |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Deluxe Edition (Fuchsia) |
+| Label          | BMG |
 | Catalog Number | 538349730 |
 | Notes | Made in the EU. Gatefold sleeve.  Sticker: DELUXE EDITION Double Album Etched Fuschia (Fuchsia) Vinyl Includes 3 x bonus tracks + Free download 538349730  Artist name on cover is in caps, and the letter N is mirrored.  Catalog number on back cover and on the hype sticker on the protective plastic is 538349730. Catalog number on spine is 4050538349733, which also coincides with the barcode.  |
+| Discogs URL    | [Simple Minds - Walk Between Worlds](https://www.discogs.com/release/11490159-Simpleminds-Walk-Between-Worlds) |

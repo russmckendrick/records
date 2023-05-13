@@ -10,6 +10,15 @@ cover:
     image: "gather-up-21118603.jpg"
     alt: "Gather Up by Matt Berry"
     caption: "Gather Up by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/j6J2vmUFpZgoLcpDNJckt2kDppSRfePBLGNcM6xExYw/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTYz/NTItMzI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/5ZFhfEPRD-V4kSy5fxUeqcNDtIXD3QQid0OlU6d4TSU/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2NzA5ODQ0/MjgtNzA4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/zlVO39cVlOi0nrAduv30JRUlVUPI8omsLL8j8vm1Ujs/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTYz/OTEtNDEwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/-qpl2358qsJZKmT_SqRdJln1G7StMCntU3zQEmNs5Ow/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTYz/OTYtMzgwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/1gRVXIzK-ZopAvdhBvBjNQIg-8K9BpS7bMCigO9oqXo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTY0/MDQtNTI1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/NHiAQnsF-OHAPaBZTL278_FZbYLNr6TvMhPvsKAjDGk/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTY0/MTAtNTYwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/6S7Ey1RVUxwCAX1bVGKYUiTiAsLo2bo-aL2p8xLhbKg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTY0/MTQtMTYyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/9RpNxok7A1k6h9E1eWNPWnNdR7ckaCOgS0wjsciUh1k/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2NzA5ODQ0/MTYtMzU0Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
@@ -42,32 +51,26 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}
-
-
-
-
-
 ## Videos
 ### Gather Up
 {{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>
-
 ### More Videos
 
 - [Matt Berry - Gather Up (Ten Years On Acid Jazz)](https://www.youtube.com/watch?v=LhXrLO8oMLs)
 - [The Pheasant (Live)](https://www.youtube.com/watch?v=zMKikkZX4qQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Matt Berry - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-Gather-Up) |
-| Label          | Acid Jazz |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
+| Label          | Acid Jazz |
 | Catalog Number | AJX2LP605 |
 | Notes | Gatefold sleeve |
+| Discogs URL    | [Matt Berry - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-Gather-Up) |

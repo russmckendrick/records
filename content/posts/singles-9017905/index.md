@@ -10,6 +10,16 @@ cover:
     image: "singles-9017905.jpg"
     alt: "Singles by New Order"
     caption: "Singles by New Order"
+additional_images:
+    - "https://i.discogs.com/xtGoNwLs9xvqAbfNkeNQ2PX1cbwClcHiugV8lSRGxjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTQ3NTI3NzI4/Ny01NTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/3TmxSz62GBlxj-UkvnfFoEWVR_jHHEiNezLEFdl3fac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTQ3NTI3NzI5/NC05ODM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/zoly2f8AkTy7TfexogINyMePCSjOgUv2oZUvDkDUgVw/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC0xNzQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/iIc0Zsy6f6DQEd-PBvKCqSdbWcj81-_mDsAmbDfNF_o/rs:fit/g:sm/q:90/h:706/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC01NTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qfce6XmFDtINzWSwrW0WgGx6j-6OwH8p1cyNqsqXNx4/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC00MDgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/LrXiPlOHqhjjrBF1z8q_flXhNs50-j2D70iXuw2k2ow/rs:fit/g:sm/q:90/h:729/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC05MDI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/xGDLOTXP_FIRMnmdLXtYJu7p3XIOul1HESWXupjVcWE/rs:fit/g:sm/q:90/h:755/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC0zMzQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/oIS4h-onFiKfq36cFXR_MHwSkyeKflp82Mb5idTc4Z4/rs:fit/g:sm/q:90/h:642/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC00MTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Ylxt-cmn0_QTxWb4ejJ5EP6-U1eZmJ_XVAoCLu6hqLU/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC00Mjk4LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Indie Rock"]
 ---
@@ -53,23 +63,20 @@ styles: ["New Wave", "Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles/1129721479" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [New Order - Singles](https://www.discogs.com/release/9017905-New-Order-Singles) |
-| Label          | Warner Music |
 | Format         | Vinyl 4× LP Compilation Remastered, Box Set |
+| Label          | Warner Music |
 | Catalog Number | 0825646069620 |
 | Notes | Additions in the new "Singles" 4xLP (Remastered 2016) / Omissions from the "Singles" 2xCD (2005):  B2 - Confusion (UK 7" Promo Edit) replaces "Confusion (''Singles'' Unique Edit) " C1 - The Perfect Kiss (7" Edit) replaces "The Perfect Kiss (Album Version)" D1 - Bizarre Love Triangle (7" Remix Edit) replaces "Bizarre Love Triangle (Album Version)" D2 - True Faith (7" Edit) replaces "True Faith (Album Version)" E3 - Run 2 (7" Remix Edit) replaces "Run (Album Version)" F5 - Nineteen63 (Arthur Baker Radio Remix) replaces "1963 (''Singles'' Unique Edit)" F4 - Spooky (Minimix) replaces "Spooky (Radio Edit)" .................................................................  H4 - I'll Stay With You (Lost Sirens LP Version) is an extra/bonus track in this remastered version. ..................................................................  Tracks first time on vinyl:  F4 - Spooky (Minimix) G1 - Crystal (Radio Edit) G2 - 60 Miles an Hour (Radio Edit) H3 - Turn (Stephen Street Edit)  Contains a [l873810] download coupon. |
+| Discogs URL    | [New Order - Singles](https://www.discogs.com/release/9017905-New-Order-Singles) |

@@ -10,6 +10,9 @@ cover:
     image: "give-out-but-don-t-give-up-the-original-memphis-recordings-20166970.jpg"
     alt: "Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream"
     caption: "Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream"
+additional_images:
+    - "https://i.discogs.com/Iqoz7nvM-U39RUNzYvt8oPnXTcYUh9M2-S8jMejFve8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTY2/OTcwLTE2MzEzMDQz/NTMtMjc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hYCZ7CpMcmun-_jfYAO-cARYXDridP7W9qoMovXusAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTY2/OTcwLTE2MzEzMDQz/NTMtMzM4Ni5qcGVn.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
@@ -47,23 +50,20 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Primal Scream - Give Out But Don't Give Up (The Original Memphis Recordings)](https://www.discogs.com/release/20166970-Primal-Scream-Give-Out-But-Dont-Give-Up-The-Original-Memphis-Recordings) |
-| Label          | Run Out Groove |
 | Format         | Vinyl 3× LP Album Reissue, All Media Deluxe Edition Limited Edition Numbered |
+| Label          | Run Out Groove |
 | Catalog Number | ROGV-114 |
 | Notes | Tri-fold sleeve machine-numbered on the rear. Includes booklet.  140g |
+| Discogs URL    | [Primal Scream - Give Out But Don't Give Up (The Original Memphis Recordings)](https://www.discogs.com/release/20166970-Primal-Scream-Give-Out-But-Dont-Give-Up-The-Original-Memphis-Recordings) |

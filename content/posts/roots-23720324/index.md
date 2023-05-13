@@ -10,6 +10,14 @@ cover:
     image: "roots-23720324.jpg"
     alt: "Roots by Children of the Sün"
     caption: "Roots by Children of the Sün"
+additional_images:
+    - "https://i.discogs.com/QVZezdnsfTgbEPbhZS18dTHIO7NfOQKYyKqaSCz2oeU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzA1/MjEtMjY1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/s6wvSuCKUrhbK3XtRrQJXZ1ObdMQxyDp0OzqzKbo-JA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzA1/MjAtNTc2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/6fsSqgtCXWw9VkhkM9S7a4tmYAs_orTpux_oGw6ijMI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzE3/NzAtNzUzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/iSzFMRb8Y9bm2KJnfGKQDe9WM3PyxBdDIwX4w01Syzs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzE3/NzQtODM2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/0FNZWJZP1pEVL35hYrIWU4BsrLETBZ42wP65_agP2Uo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzA1/NTQtMjY5My5qcGVn.jpeg"
+    - "https://i.discogs.com/zx_1PwEal64Bb2zyTAAtNWX0rmKe2RnIZG79Wp6tTFo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzA1/NjAtMzU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/dAz-XRe4a3JR6_vM5FGt1GH_2Oc8SrniCXDYRkZ59hM/rs:fit/g:sm/q:90/h:654/w:263/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/MzI0LTE2NTY0MzA1/NzUtOTI3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
@@ -34,20 +42,12 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roots/1590864217" >}}
-
-
-
-
-
 ## Videos
 ### Children of the Sün - Roots (full Album 2022)
 {{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots (full Album 2022)" >}}<br>
-
 ### More Videos
 
 - [CHILDREN OF THE SÜN - REFLECTION (Official Audio)](https://www.youtube.com/watch?v=geF67QdW7S4)
@@ -61,13 +61,15 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 - [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Children of the Sün - Roots](https://www.discogs.com/release/23720324-Children-of-the-S%C3%BCn-Roots) |
-| Label          | The Sign Records |
 | Format         | Vinyl LP Album Limited Edition (Purple Transparent) |
+| Label          | The Sign Records |
 | Catalog Number | CRC020 |
 | Notes | Edition of 500 copies on Purple Transparent vinyl.  Comes with: - a generic black inner sleeve - insert with band photo, lyrics and some credits - plastic protective outer sleeve with applied hype sticker  Matrix numbers are etched.  |
+| Discogs URL    | [Children of the Sün - Roots](https://www.discogs.com/release/23720324-Children-of-the-S%C3%BCn-Roots) |

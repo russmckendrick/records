@@ -10,6 +10,11 @@ cover:
     image: "ghostbusters-original-soundtrack-album-7318608.jpg"
     alt: "Ghostbusters - Original Soundtrack Album by Various"
     caption: "Ghostbusters - Original Soundtrack Album by Various"
+additional_images:
+    - "https://i.discogs.com/B-aMftNfWq6OWSyO6zjMk3NFvpNRKdbbEdy1o0mhiZ8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NTAy/OC01MzY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/wl9042ga1FGnIdbSJc11dGCArZrwsZ5rZRgVY5_rfP4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NTAy/Ny0yMDA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/yItHGpPLiNlPCI8rgoEcMiZf69URsbSpaO2v-Lhsql0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NDk4/NS0xMDYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/YEBy9XJ2ele9O9vNABLfjSFaRS4xgBEZh-f2rfi6TZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NDk4/Ni05ODUzLmpwZWc.jpeg"
 genres: ["Stage & Screen"]
 styles: []
 ---
@@ -31,16 +36,10 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Ghostbusters Full Album From the Motion Picture/Film 1984
 {{< youtube id="TymQWWtIU1c" title="Ghostbusters Full Album From the Motion Picture/Film 1984" >}}<br>
-
 ### More Videos
 
 - [Original GhostBusters Theme Song](https://www.youtube.com/watch?v=m9We2XsVZfc)
@@ -54,12 +53,14 @@ styles: []
 - [Magic](https://www.youtube.com/watch?v=hK2EUIYiWXU)
 - [Ghostbusters 1984 - Complete motion picture score - Elmer Bernstein](https://www.youtube.com/watch?v=4o6KaJ36660)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1984                                   |
-| Discogs Link   | [Various - Ghostbusters - Original Soundtrack Album](https://www.discogs.com/release/7318608-Various-Ghostbusters-Original-Soundtrack-Album) |
-| Label          | Arista |
 | Format         | Vinyl LP Album |
+| Label          | Arista |
 | Catalog Number | 206 559 |
+| Discogs URL    | [Various - Ghostbusters - Original Soundtrack Album](https://www.discogs.com/release/7318608-Various-Ghostbusters-Original-Soundtrack-Album) |

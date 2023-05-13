@@ -10,6 +10,9 @@ cover:
     image: "amplifier-9479697.jpg"
     alt: "Amplifier by Amplifier"
     caption: "Amplifier by Amplifier"
+additional_images:
+    - "https://i.discogs.com/FHgpV1p0nyCF8q0F9Rwx7bfdSx9PAYr6IHTsxJbTTkM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzk2/OTctMTQ4MTMwOTg5/OS03NzkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/SyE1cfp7ebkJF6bvU35J9I4UA_Eh_t__SzSkRlio21E/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzk2/OTctMTQ4MTc1ODg3/Ny04NjU3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
@@ -31,28 +34,30 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+Amplifier is the debut album of the Manchester alternative rock band Amplifier.
+Originally released by Music For Nations on 6 June 2004, it was re-released by the German-based label SPV in May 2005 after the collapse of the former. The Music For Nations release came in two formats: jewel case with 10 tracks, and digipack with 13 tracks. Unlike normal special editions, the 13-track version's bonus tracks are in the middle of the album, apparently forming the "true" album as the band intended it. The SPV release contains a bonus EP with four additional tracks (all previously released) and videos of two songs from the original.
+The critical reception of the album was generally positive, with comments such as:
+"A British rock-scene altering record. Enjoy it in all its infinite glory" Kerrang!
+"No other record this year will have the audacity to field such lofty ambitions, let alone have the skills to fulfil them" NME
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/four-walls-and-an-amplifier/959034630" >}}
-
-
-
-
-
 ## Videos
 ### Amplifier - 01. MotorHead
 {{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Amplifier_(Amplifier_album) |
+| Wikipedia Summary | Amplifier is the debut album of the Manchester alternative rock band Amplifier.<br>Originally released by Music For Nations on 6 June 2004, it was re-released by the German-based label SPV in May 2005 after the collapse of the former. The Music For Nations release came in two formats: jewel case with 10 tracks, and digipack with 13 tracks. Unlike normal special editions, the 13-track version's bonus tracks are in the middle of the album, apparently forming the "true" album as the band intended it. The SPV release contains a bonus EP with four additional tracks (all previously released) and videos of two songs from the original.<br>The critical reception of the album was generally positive, with comments such as:<br>"A British rock-scene altering record. Enjoy it in all its infinite glory" Kerrang!<br>"No other record this year will have the audacity to field such lofty ambitions, let alone have the skills to fulfil them" NME |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Amplifier - Amplifier](https://www.discogs.com/release/9479697-Amplifier-Amplifier) |
-| Label          | Not On Label (Amplifier (3) Self-released) |
 | Format         | Vinyl 2× LP Album Remastered |
+| Label          | Not On Label (Amplifier (3) Self-released) |
 | Catalog Number | none |
 | Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies.  Sequential tracklist as per the cover. |
+| Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/9479697-Amplifier-Amplifier) |

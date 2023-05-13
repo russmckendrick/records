@@ -10,6 +10,8 @@ cover:
     image: "the-art-of-losing-acoustic-ep-25733641.jpg"
     alt: "The Art of Losing - Acoustic EP by The Anchoress"
     caption: "The Art of Losing - Acoustic EP by The Anchoress"
+additional_images:
+    - "https://i.discogs.com/nQPTbfCn1a_hCjPuXDkwlmAiKabQvXIGi4IKdp7gsqc/rs:fit/g:sm/q:90/h:493/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzMz/NjQxLTE2NzM0NDM2/ODMtNjE3Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock"]
 ---
@@ -27,19 +29,18 @@ styles: ["Acoustic", "Alternative Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [The Anchoress - The Art of Losing - Acoustic EP](https://www.discogs.com/release/25733641-The-Anchoress-The-Art-of-Losing-Acoustic-EP) |
-| Label          | Kscope |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Stereo |
+| Label          | Kscope |
 | Catalog Number | KSCOPE1124 |
 | Notes | Limited edition of 500, each copy ordered from bandcamp is personally hand-signed by Catherine.  |
+| Discogs URL    | [The Anchoress - The Art of Losing - Acoustic EP](https://www.discogs.com/release/25733641-The-Anchoress-The-Art-of-Losing-Acoustic-EP) |

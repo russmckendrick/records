@@ -10,6 +10,8 @@ cover:
     image: "the-italian-job-6089363.jpg"
     alt: "The Italian Job by Quincy Jones"
     caption: "The Italian Job by Quincy Jones"
+additional_images:
+    - "https://i.discogs.com/naS5tZBULrocbREKeWiGmK63ZqnwPbgoOKrR1J-d9aI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODkz/NjMtMTQxMDc4OTY0/OS0zNDMyLmpwZWc.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -32,20 +34,13 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
+The Italian Job is the soundtrack to the 1969 film which was composed and arranged by Quincy Jones and released on the Paramount label.The lyrics to "On Days Like These" and "Getta Bloomin' Move On! (The Self Preservation Society)" were written by Don Black. "Getta Bloomin' Move On! (The Self Preservation Society)" was the closing theme of the film and was performed by members of the cast; the lyrics feature Cockney rhyming slang. Many incidental themes are based on English patriotic songs, such as "Rule, Britannia!", "The British Grenadiers" and "God Save the Queen".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-italian-job-original-soundtrack/1443280326" >}}
-
-
-
-
-
 ## Videos
 ### Quincy Jones - On Days Like These (The Italian Job)
 {{< youtube id="6AW-PaaHS1c" title="Quincy Jones - On Days Like These (The Italian Job)" >}}<br>
-
 ### More Videos
 
 - [Matt Monro - On Days Like These (The Italian Job,1969)](https://www.youtube.com/watch?v=KQIRbV_noi8)
@@ -54,13 +49,17 @@ styles: ["Soundtrack"]
 - [The Italian Job (pt 2) ultimate soundtrack suite by Quincy Jones](https://www.youtube.com/watch?v=pnrNUXbEYC0)
 - [Quincy Jones & Matt Monro - The Italian Job - On Days Like These (1969)](https://www.youtube.com/watch?v=rnlPqjkkt6E)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Italian_Job_(soundtrack) |
+| Wikipedia Summary | The Italian Job is the soundtrack to the 1969 film which was composed and arranged by Quincy Jones and released on the Paramount label.The lyrics to "On Days Like These" and "Getta Bloomin' Move On! (The Self Preservation Society)" were written by Don Black. "Getta Bloomin' Move On! (The Self Preservation Society)" was the closing theme of the film and was performed by members of the cast; the lyrics feature Cockney rhyming slang. Many incidental themes are based on English patriotic songs, such as "Rule, Britannia!", "The British Grenadiers" and "God Save the Queen". |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Quincy Jones - The Italian Job](https://www.discogs.com/release/6089363-Quincy-Jones-The-Italian-Job) |
-| Label          | Paramount Records |
 | Format         | Vinyl LP Reissue |
+| Label          | Paramount Records |
 | Catalog Number | SPFL 256 |
 | Notes | 2014 reissue in flipback sleeve. |
+| Discogs URL    | [Quincy Jones - The Italian Job](https://www.discogs.com/release/6089363-Quincy-Jones-The-Italian-Job) |

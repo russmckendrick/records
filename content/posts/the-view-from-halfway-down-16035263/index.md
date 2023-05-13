@@ -10,6 +10,10 @@ cover:
     image: "the-view-from-halfway-down-16035263.jpg"
     alt: "The View From Halfway Down by Andy Bell"
     caption: "The View From Halfway Down by Andy Bell"
+additional_images:
+    - "https://i.discogs.com/aQJ6YeTvfZyecal7ch-Qw9UOZ3IXW4vG1KzujUCofJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MjYzLTE2MDIyNzEx/ODQtNDI4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/A_C0lX_k-Q791YtOCQ6UZyoJJ3beTIRUtOurCnAaAaE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MjYzLTE2MDIyNzEy/MDItNTI5My5wbmc.jpeg"
+    - "https://i.discogs.com/Iv9dk2a8hXACgfDUMv0NbC9Wy_pxOss8oUW_9FkfhCs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MjYzLTE2MDIyNzIx/NjAtNjcwMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
@@ -29,20 +33,12 @@ styles: ["Shoegaze", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-view-from-halfway-down/1524681497" >}}
-
-
-
-
-
 ## Videos
 ### Andy Bell - Love Comes In Waves
 {{< youtube id="MbNmaB-es5U" title="Andy Bell - Love Comes In Waves" >}}<br>
-
 ### More Videos
 
 - [Andy Bell - Heat Haze On Weyland Road](https://www.youtube.com/watch?v=wX7VFHVab64)
@@ -53,13 +49,15 @@ styles: ["Shoegaze", "Indie Rock"]
 - [Andy Bell - Indica](https://www.youtube.com/watch?v=yxvqhlBtIbs)
 - [Andy Bell - Aubrey Drylands Gladwell](https://www.youtube.com/watch?v=7RJxFq0URe0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Andy Bell - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-The-View-From-Halfway-Down) |
-| Label          | Sonic Cathedral Recordings |
 | Format         | Vinyl LP Album Limited Edition Stereo (Blue ) |
+| Label          | Sonic Cathedral Recordings |
 | Catalog Number | SCR170LP |
 | Notes | Printed inner sleeve. Barcode is on a sticker on the shrink wrapping.  250 signed copies were available as 'pre-order' via Recordstore.co.uk  Includes a download code card.  (Track durations from playing the album.) |
+| Discogs URL    | [Andy Bell - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-The-View-From-Halfway-Down) |

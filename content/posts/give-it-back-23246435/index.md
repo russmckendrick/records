@@ -10,6 +10,15 @@ cover:
     image: "give-it-back-23246435.jpg"
     alt: "Give It Back by The Pineapple Thief"
     caption: "Give It Back by The Pineapple Thief"
+additional_images:
+    - "https://i.discogs.com/4MXV33zsZgO-oDRJCwikngAzLhgheyqQYqFHOdZBjhw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtMjIxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/SPZzl4Zlxd79920aj79dU94YQSp8dyrGdPCrmfJBGr8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtMTg5My5qcGVn.jpeg"
+    - "https://i.discogs.com/V58zzT1U3_lXpI3j6yPB8xSalL_3OdtixZpc8B3orvk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjEtNDcxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/_zbDPO1hE-PrTAoJ5fN0LnwZ3kjufQICYj2G-8CYaZE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjEtMTUwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Fq0ZaUNfZdc_dYE-EszThUuwpZ9CtgP_C-7xqHKsjhE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtNjA1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/E-bQL6So9r2Ti7BV_AJiKgaSRubOSkci-bMgm7CeTn8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtMzc1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/QOKpRCOHR_GnoIsWaRBs_FEUkOPMCH6yIS4FlGdaum8/rs:fit/g:sm/q:90/h:484/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtODA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/-MbH9-ryKLhBwyHFq87AExWbOj7W3g4XUVqUGfbHWfI/rs:fit/g:sm/q:90/h:210/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MTktNTA5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -31,20 +40,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-it-back-rewired/1610584399" >}}
-
-
-
-
-
 ## Videos
 ### Wretched Soul (Rewired)
 {{< youtube id="tlceIFqEOIQ" title="Wretched Soul (Rewired)" >}}<br>
-
 ### More Videos
 
 - [The Pineapple Thief - Dead In The Water Rewired (Lyric Video)](https://www.youtube.com/watch?v=p8CJ3a0mngI)
@@ -59,13 +60,15 @@ styles: ["Prog Rock"]
 - [Last Man Standing (Rewired)](https://www.youtube.com/watch?v=JlZI834YzYg)
 - [Little Man (Rewired)](https://www.youtube.com/watch?v=uj_DZgvgnyM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Pineapple Thief - Give It Back](https://www.discogs.com/release/23246435-The-Pineapple-Thief-Give-It-Back) |
-| Label          | Kscope |
 | Format         | Vinyl LP Album |
+| Label          | Kscope |
 | Catalog Number | KSCOPE1172 |
 | Notes | The time stamp in the back cover of the record doesn't match the real time stamp. Song times were updated according the recording results. |
+| Discogs URL    | [The Pineapple Thief - Give It Back](https://www.discogs.com/release/23246435-The-Pineapple-Thief-Give-It-Back) |

@@ -11,6 +11,11 @@ cover:
     image: "greatest-hits-1624163.jpg"
     alt: "Greatest Hits by Al Green"
     caption: "Greatest Hits by Al Green"
+additional_images:
+    - "https://i.discogs.com/dPsO8XDvNCkEtGIBQdgU9rSyzx349EsvPQnOZ9YT85U/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NjMtMTM3OTcxODE2/Ny03NjM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/JW_h6-ulsu37VxhtBGNlbJi8iSScte-SAoAeJA_yCHo/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NjMtMTM3OTcxODE3/Mi0zMDc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/VWU8VC96a1e2iDiNlY5lunfAXOKpjfz0nZBJpTNZYpA/rs:fit/g:sm/q:90/h:480/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NjMtMTIzMjg5MjA5/OC5qcGVn.jpeg"
+    - "https://i.discogs.com/mHuqRVtMYaVvkhYFkw7HcJAv1gJKeQGOTAC1eqfSBiY/rs:fit/g:sm/q:90/h:480/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NjMtMTIzMjg5MjEx/Ni5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
@@ -32,22 +37,13 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-
-It simply doesn’t get better than “Tired of Being Alone,” “Let’s Stay Together,” and “I’m Still In Love With You.” Green’s otherworldly improvisations in such compact space made the singles all the more revelatory. The productions knew how to squeeze every essential nuance into the limited space without losing an ounce of power.
-
-
-
+Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green. In 2003, the album was ranked number 52 on Rolling Stone magazine's list of the 500 greatest albums of all time, maintaining the rating in a 2012 revised list. The album's ranking dropped to number 456 in the 2020 revised list. The compilation has consistently ranked as one of the best executed 'greatest hits' albums in history. The album peaked at No. 3 on the Billboard Top Soul LPs  chart and No. 17 on the Top LPs chart.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1203896404" >}}
-
-
-
-
-
 ## Videos
 ### Tired of Being Alone
 {{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}<br>
-
 ### More Videos
 
 - [Call Me (Come Back Home)](https://www.youtube.com/watch?v=7vPYMqEjWOo)
@@ -61,13 +57,17 @@ It simply doesn’t get better than “Tired of Being Alone,” “Let’s Stay 
 - [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
 - [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
-| Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/1624163-Al-Green-Greatest-Hits) |
-| Label          | Hi Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Al_Green%27s_Greatest_Hits |
+| Apple Music Summary | It simply doesn’t get better than “Tired of Being Alone,” “Let’s Stay Together,” and “I’m Still In Love With You.” Green’s otherworldly improvisations in such compact space made the singles all the more revelatory. The productions knew how to squeeze every essential nuance into the limited space without losing an ounce of power. |
+    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Compilation Reissue |
+| Label          | Hi Records |
 | Catalog Number | HIUKLP 425 |
 | Notes | Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.  (P) 1972, 1973, 1975 Cream / Hi Records Inc. (C) 1987 Cream / Hi Records Inc. HI UK LP 425 = sleeve and spine cat# HIUKLP 425 = label cat# Runout matrices etched, except for TY1 that are stamped.  |
+| Discogs URL    | [Al Green - Greatest Hits](https://www.discogs.com/release/1624163-Al-Green-Greatest-Hits) |

@@ -10,6 +10,8 @@ cover:
     image: "just-supposin-7581302.jpg"
     alt: "Just Supposin'... by Status Quo"
     caption: "Just Supposin'... by Status Quo"
+additional_images:
+    - "https://i.discogs.com/uik_BR6eWV22hoNr2HCYonkB2zRbIQNeol9lka02Was/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODEz/MDItMTQ0NDQ5MjI4/OC02NjMwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
@@ -30,32 +32,26 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/just-supposin-deluxe/1443329378" >}}
-
-
-
-
-
 ## Videos
 ### Status Quo – What You're Proposin'
 {{< youtube id="z4Zh5DyMRDU" title="Status Quo – What You're Proposin'" >}}<br>
-
 ### More Videos
 
 - [Status Quo – Rock 'n' Roll](https://www.youtube.com/watch?v=UGuPCJcj3As)
 - [Status Quo – Lies](https://www.youtube.com/watch?v=Q4yckEtH-jQ)
 - [Status Quo – Don't Drive My Car](https://www.youtube.com/watch?v=n0GScZd2Ers)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Status Quo - Just Supposin'...](https://www.discogs.com/release/7581302-Status-Quo-Just-Supposin) |
-| Label          | Vertigo |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Vertigo |
 | Catalog Number | 4723773 |
+| Discogs URL    | [Status Quo - Just Supposin'...](https://www.discogs.com/release/7581302-Status-Quo-Just-Supposin) |

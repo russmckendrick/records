@@ -10,6 +10,8 @@ cover:
     image: "sky-blue-7514380.jpg"
     alt: "Sky Blue by Devin Townsend Project"
     caption: "Sky Blue by Devin Townsend Project"
+additional_images:
+    - "https://i.discogs.com/IKq7OCnOaLQiTGsQIuh8dnU3168JefihWpfOissFgiY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQz/ODAtMTQ0MzA0ODk4/MS03MjY2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -45,16 +47,10 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Devin Townsend - Sky Blue
 {{< youtube id="PRFHR19EW34" title="Devin Townsend - Sky Blue" >}}<br>
-
 ### More Videos
 
 - [DEVIN TOWNSEND PROJECT - Rejoice (Lyric Video)](https://www.youtube.com/watch?v=pCNx6vs7c2Y)
@@ -66,13 +62,15 @@ styles: []
 - [Devin Townsend Project - Warrior](https://www.youtube.com/watch?v=slr_xGSklqU)
 - [Devin Townsend and Anneke Van Giersbergen - Fallout (with lyrics)](https://www.youtube.com/watch?v=p4rOf7jRrtA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Devin Townsend Project - Sky Blue](https://www.discogs.com/release/7514380-Devin-Townsend-Project-Sky-Blue) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album, CD Album |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 423 |
 | Notes | 180g vinyl in gatefold sleeve. Printed Inner Sleeve w/lyrics  www.insideoutmusic.com FACTOR Canada  © 2015 HevyDevy Records and ℗ 2014 HevyDevy Records.  Made in Germany - Century Media Records Ltd. /85-87 Bayham Street / Camden / London NW1 0AG / England  We Acknowledge the financial support of the Government of Canada through the Department of Canadian Heritage (Canada Music Fund) and of Canada's Private Radio Broadcaster's |
+| Discogs URL    | [Devin Townsend Project - Sky Blue](https://www.discogs.com/release/7514380-Devin-Townsend-Project-Sky-Blue) |

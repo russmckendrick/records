@@ -10,6 +10,9 @@ cover:
     image: "kubrick-7815131.jpg"
     alt: "Kubrick by The Soulsavers"
     caption: "Kubrick by The Soulsavers"
+additional_images:
+    - "https://i.discogs.com/ExauphUjnsTS50-JrhNYD8_v1Z1DrBK9bJhiMiWusXM/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTUx/MzEtMTQ0OTM1MDU5/OC0zOTgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/CSN7CEtEOA2g7sbQ6HSYXkzCHPb3lmbqAPRcSCCY-BY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTUx/MzEtMTYxMTc2MzM5/My03NjE4LmpwZWc.jpeg"
 genres: ["Electronic", "Classical"]
 styles: ["Downtempo", "Modern Classical"]
 ---
@@ -37,31 +40,28 @@ styles: ["Downtempo", "Modern Classical"]
 
 <!-- section break -->
 
-
-
-
+Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kubrick/1048598267" >}}
-
-
-
-
-
 ## Videos
 ### Soulsavers - DeLarge (album Kubrick)
 {{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>
-
 ### More Videos
 
 - [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Kubrick_(album) |
+| Wikipedia Summary | Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [The Soulsavers - Kubrick](https://www.discogs.com/release/7815131-Soulsavers-Kubrick) |
-| Label          | [PIAS] |
 | Format         | Vinyl LP Album, CD Album |
+| Label          | [PIAS] |
 | Catalog Number | COOP006LP |
 | Notes | ℗ 2015, © 2015 San Quentin. The copyright in this sound recording is owned by San Quentin, and is exclusively licensed to [PIAS]. Made in the E.U.  Track B2 / CD-6 'Hal' is a re-recorded version of [url=https://www.discogs.com/The-Soulsavers-Closer-EP/master/121758]Closer[/url]. |
+| Discogs URL    | [The Soulsavers - Kubrick](https://www.discogs.com/release/7815131-Soulsavers-Kubrick) |

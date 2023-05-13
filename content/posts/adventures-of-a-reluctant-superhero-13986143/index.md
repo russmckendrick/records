@@ -10,6 +10,13 @@ cover:
     image: "adventures-of-a-reluctant-superhero-13986143.jpg"
     alt: "Adventures Of A Reluctant Superhero by Chali 2NA"
     caption: "Adventures Of A Reluctant Superhero by Chali 2NA"
+additional_images:
+    - "https://i.discogs.com/iOejJqVpOiOlm4ybay_aFsJ_VQCBuy_phKGQBlIFhB4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcw/ODAtMTk1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/j2sLAkdZbyBRomPmOSQZd8BhpGSK_jK8JFWS2fTOX3M/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcw/ODgtMzE3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/3dODnONOYjiPi301SoFiztQraKuwDWL_4hCTsb42Fmw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MDEtMjk0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/6R7Lutc5wNET7kblWDe_JvtbQSnTCj_PPXaifKng5_c/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MDktMjk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/863nSgPPY0TUDfIn3qwEUmNzwRg22IneoH3ehTWKHo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MjMtNzA1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/0Fg3hjcjq2aRCT21IufxqxewQ10ZNmwGmhNb5B_kMS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MzQtODgxMC5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: []
 ---
@@ -35,20 +42,12 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/adventures-of-a-reluctant-superhero/1470643068" >}}
-
-
-
-
-
 ## Videos
 ### Stay Tuned - Chali 2na and Krafty Kuts
 {{< youtube id="Zzs5wXa3-Jk" title="Stay Tuned - Chali 2na and Krafty Kuts" >}}<br>
-
 ### More Videos
 
 - [Bruce 2na](https://www.youtube.com/watch?v=a9AcviLZ_nU)
@@ -68,13 +67,15 @@ styles: []
 - [Hands High](https://www.youtube.com/watch?v=c9JFNWYp9Lo)
 - [Distance](https://www.youtube.com/watch?v=qi0unYZA5Fg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Chali 2NA - Adventures Of A Reluctant Superhero](https://www.discogs.com/release/13986143-Chali-2NA-Krafty-Kuts-Adventures-Of-A-Reluctant-Superhero) |
-| Label          | Manphibian Music |
 | Format         | Vinyl LP |
+| Label          | Manphibian Music |
 | Catalog Number | MANP 001LP |
 | Notes | Includes printed sleeve/liner, 8-page comic & digital download. |
+| Discogs URL    | [Chali 2NA - Adventures Of A Reluctant Superhero](https://www.discogs.com/release/13986143-Chali-2NA-Krafty-Kuts-Adventures-Of-A-Reluctant-Superhero) |

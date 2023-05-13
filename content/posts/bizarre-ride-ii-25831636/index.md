@@ -10,6 +10,17 @@ cover:
     image: "bizarre-ride-ii-25831636.jpg"
     alt: "Bizarre Ride II by The Pharcyde"
     caption: "Bizarre Ride II by The Pharcyde"
+additional_images:
+    - "https://i.discogs.com/WE8lU7ihT_6rFrNmO0Oc1AhPnJxpdO3CS_a3A5TuT9o/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIy/MTMtMzI5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/QpGCBUOThyWyBPAc-pWQagiUt9U826gu8NkVUX4XJTk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIy/MjYtMzQ2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/p48BbXc8_dWIxA69KKzVAm4DZxbPE5J9_ONku24t7HM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIy/MzUtMjY1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/DqHg_3ovdlhesAYtSxWL7Y4iELMDx_FjNgTU0UxO7Ws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIy/NDktNjA0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/MNZnqmKUHLMC6vMprKV37up80x621FpEcpNZcD-2Dik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIy/NjktNDMyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/1lHqeJvdS02Q4dmxcGbPD8Cbr6odXEvSWBm8o4Cta3A/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIy/OTAtMTcwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/jAWROfGUm48ZMMfOUhIobXv6fQzrQylQR8gwVfD86PM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIz/MTMtNDQ5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ImC0ZKgStmaUj8_QnhPVLIWukPA59KmJRs5PmLX2yIw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzQyNTIz/MjMtOTc1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/r5Ih5nnVydOfG8-ymz0L9Hjqa0ltKiz_B-Yp6lUoZww/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzcwNjQy/MjEtNzE0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/b9ZPVDWE3dJee6iAaO_EuL0leT48qFPL2FOxNbfNp-s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMx/NjM2LTE2NzcwNjQy/MjEtODQ5OS5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Turntablism", "Jazzy Hip-Hop"]
 ---
@@ -37,20 +48,13 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 
 <!-- section break -->
 
-
-
-
+Bizarre Ride II the Pharcyde is the debut album by American hip hop collective The Pharcyde, released on November 24, 1992, through the Delicious Vinyl and EastWest labels. The album was produced by former group member J-Swift, and features only one guest appearance, provided by little-known Los Angeles rapper Bucwheed (known then as "Buckwheat" from The Wascals). In the years after its release, Bizarre Ride has been hailed by music critics and alternative hip hop fans, as a classic hip hop album along with Souls of Mischief's 93 'til Infinity, and has appeared in numerous publications' "best albums" lists.Released during the dominant Gangsta rap era of West Coast hip hop, Bizarre Ride was described as "refreshing" due to its playful, light-hearted humor and lush, jazzy production. Along with albums such as To Whom It May Concern... by Freestyle Fellowship, and I Wish My Brother George Was Here by Del tha Funkee Homosapien, Bizarre Ride helped establish a new alternative scene on the West Coast, followed by artists such as Hieroglyphics, The Coup and Jurassic 5. Despite its wide critical acclaim, the album produced only moderate sales, peaking at No. 75 on the Billboard 200 album chart in 1993. However, on the strength of the second single, "Passin' Me By", the album was certified gold in sales by the Recording Industry Association of America (RIAA) on March 28, 1996.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bizarre-ride-ii-the-pharcyde/1440913414" >}}
-
-
-
-
-
 ## Videos
 ### 4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde
 {{< youtube id="VDieujZyzzM" title="4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde" >}}<br>
-
 ### More Videos
 
 - [Oh S*** by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=QdANlTrjXBg)
@@ -68,12 +72,16 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 - [Quinton's On The Way (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
 - [Return of the B-Boy by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4NR4b1bbls4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bizarre_Ride_II_the_Pharcyde |
+| Wikipedia Summary | Bizarre Ride II the Pharcyde is the debut album by American hip hop collective The Pharcyde, released on November 24, 1992, through the Delicious Vinyl and EastWest labels. The album was produced by former group member J-Swift, and features only one guest appearance, provided by little-known Los Angeles rapper Bucwheed (known then as "Buckwheat" from The Wascals). In the years after its release, Bizarre Ride has been hailed by music critics and alternative hip hop fans, as a classic hip hop album along with Souls of Mischief's 93 'til Infinity, and has appeared in numerous publications' "best albums" lists.Released during the dominant Gangsta rap era of West Coast hip hop, Bizarre Ride was described as "refreshing" due to its playful, light-hearted humor and lush, jazzy production. Along with albums such as To Whom It May Concern... by Freestyle Fellowship, and I Wish My Brother George Was Here by Del tha Funkee Homosapien, Bizarre Ride helped establish a new alternative scene on the West Coast, followed by artists such as Hieroglyphics, The Coup and Jurassic 5. Despite its wide critical acclaim, the album produced only moderate sales, peaking at No. 75 on the Billboard 200 album chart in 1993. However, on the strength of the second single, "Passin' Me By", the album was certified gold in sales by the Recording Industry Association of America (RIAA) on March 28, 1996. |
 | Release Year   | 2023                                   |
-| Discogs Link   | [The Pharcyde - Bizarre Ride II](https://www.discogs.com/release/25831636-The-Pharcyde-Bizarre-Ride-II) |
-| Label          | Craft Recordings |
 | Format         | Vinyl 2× LP Album Record Store Day Reissue Stereo (Clear w/Yellow & Purple Splatter) |
+| Label          | Craft Recordings |
 | Catalog Number | CR00018 |
+| Discogs URL    | [The Pharcyde - Bizarre Ride II](https://www.discogs.com/release/25831636-The-Pharcyde-Bizarre-Ride-II) |

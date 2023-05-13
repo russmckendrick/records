@@ -10,6 +10,9 @@ cover:
     image: "ii-24964399.jpg"
     alt: "II by Dead Cross"
     caption: "II by Dead Cross"
+additional_images:
+    - "https://i.discogs.com/PIY9hzwZY9l6og66_J2Le0Q0ojHVbfr3cDNcwwUQG7M/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY0/Mzk5LTE2NjgzMTE4/MzAtNTUwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/csAR_5K6roQ8OxLFADMVsljFoIulddGfUqRRxVRrkUQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY0/Mzk5LTE2NjgzMTE4/NDQtMjcwNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
@@ -30,20 +33,12 @@ styles: ["Hardcore", "Heavy Metal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ii/1630352567" >}}
-
-
-
-
-
 ## Videos
 ### Love Without Love
 {{< youtube id="GCPpZpRdjmw" title="Love Without Love" >}}<br>
-
 ### More Videos
 
 - [Animal Espionage](https://www.youtube.com/watch?v=x91B4AUsY-8)
@@ -55,13 +50,15 @@ styles: ["Hardcore", "Heavy Metal"]
 - [Dead Cross Reign Of Error](https://www.youtube.com/watch?v=4oEZq_JHwBg)
 - [Imposter Syndrome](https://www.youtube.com/watch?v=eCBTd720Nng)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Dead Cross - II](https://www.discogs.com/release/24964399-Dead-Cross-II) |
-| Label          | Ipecac Recordings |
 | Format         | Vinyl LP Album (Glass Coffin Vinyl) |
+| Label          | Ipecac Recordings |
 | Catalog Number | IPC248LP |
 | Notes | Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem  First catalog number on the spine, second on the sticker on shrink wrap |
+| Discogs URL    | [Dead Cross - II](https://www.discogs.com/release/24964399-Dead-Cross-II) |

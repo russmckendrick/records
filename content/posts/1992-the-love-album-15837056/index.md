@@ -10,6 +10,9 @@ cover:
     image: "1992-the-love-album-15837056.jpg"
     alt: "1992 The Love Album by Carter The Unstoppable Sex Machine"
     caption: "1992 The Love Album by Carter The Unstoppable Sex Machine"
+additional_images:
+    - "https://i.discogs.com/siEl3MjlyCQCn7HX9lMgboPeNgCZecM_TsxxsqTwGvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MDU2LTE1OTg3MDY1/MTktMjAxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/c2m0SGWVrQDT5JUxpymQvr3Qzkt0N3VokkRc8QA_v98/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MDU2LTE1OTg3MDY1/MTktNzc5Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
@@ -31,20 +34,12 @@ styles: ["Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-deluxe-version/1631043762" >}}
-
-
-
-
-
 ## Videos
 ### Carter USM - is wrestling fixed?
 {{< youtube id="37j36VPkm-w" title="Carter USM - is wrestling fixed?" >}}<br>
-
 ### More Videos
 
 - [Carter U.S.M. - The Only Living Boy In New Cross](https://www.youtube.com/watch?v=Bge-YbKLnI8)
@@ -54,13 +49,15 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Carter U.S.M. - The Only Living Boy In New Cross (Official Video)](https://www.youtube.com/watch?v=imcSt2HyzEo)
 - [Carter U.S.M. - The Impossible Dream](https://www.youtube.com/watch?v=-Mp6F0u-cw0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Carter The Unstoppable Sex Machine - 1992 The Love Album](https://www.discogs.com/release/15837056-Carter-The-Unstoppable-Sex-Machine-1992-The-Love-Album) |
-| Label          | Chrysalis |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc |
+| Label          | Chrysalis |
 | Catalog Number | CHRP 1946 |
 | Notes |  RSD UK August 2020 release limited to 750 copies.  Track B4 - words from 'The Man From La Mancha', © Dale Wasserman.  Track B5 - published by Carlin Music Corp. |
+| Discogs URL    | [Carter The Unstoppable Sex Machine - 1992 The Love Album](https://www.discogs.com/release/15837056-Carter-The-Unstoppable-Sex-Machine-1992-The-Love-Album) |

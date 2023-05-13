@@ -10,6 +10,15 @@ cover:
     image: "peaches-the-very-best-of-the-stranglers-16274027.jpg"
     alt: "Peaches: The Very Best Of The Stranglers by The Stranglers"
     caption: "Peaches: The Very Best Of The Stranglers by The Stranglers"
+additional_images:
+    - "https://i.discogs.com/ZcrhIyql0E1_rmfN30s5s9hCvF9tF-ETqbFXeEtTJcA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY1NTkx/MTAtNjU4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/_sjw6yPjLLCZRLL23phIVcip8xr1P73UBvF4Kkrf9X0/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY1NTkx/MjEtMTgzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/DGpd6RKjSgHU5mkT7-VXMK1vYRpBnbMLmlljQahRuzc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY4Mjkx/NDYtMjAwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/w0z4_Pwwyt-ra3RJ-cxxSFzf9f98F13jbDBTRwAo-0c/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY4Mjkx/NDQtOTgwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/TxoppPsKqzkxf7EttMfYKndG9rVylds689ToIVGdqhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY4Mjkx/NDUtNTQ5My5qcGVn.jpeg"
+    - "https://i.discogs.com/Ymw5sU_Wka87p1ulmdF1I1WN84PQatbdQLDDl0fY8qY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY4Mjkx/NDUtMjY2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/RJhQkKH8B7QbAnJ9h8ORiyU-6BpuEz4VIzrAKHWmAWA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY3ODE0/MjQtOTE3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/xr16EA_ATF4BvRxskb7caqpiQRm1Njz1IiSwn5iFfUk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDI3LTE2MDY3ODE0/MjQtMTAzNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
@@ -41,20 +50,12 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566" >}}
-
-
-
-
-
 ## Videos
 ### [Get A] Grip (On Yourself) (Grip '89 Remix)
 {{< youtube id="ckbONnCzZlU" title="[Get A] Grip (On Yourself) (Grip '89 Remix)" >}}<br>
-
 ### More Videos
 
 - [Always The Sun (Sunny Side Up Mix)](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
@@ -69,13 +70,15 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 - [The Stranglers - Always The Sun (Video)](https://www.youtube.com/watch?v=8dEySTzQ6oc)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |
-| Label          | Parlophone |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
+| Label          | Parlophone |
 | Catalog Number | 0190295187149 |
 | Notes | Sticker on front: the very best of the stranglers - 2 LP set on vinyl for the first time Limited 1,500 copies  Event: RSD 2020 Black friday Release type: RSD First Release |
+| Discogs URL    | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |

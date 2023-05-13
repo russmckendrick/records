@@ -10,6 +10,16 @@ cover:
     image: "mindfucker-11746582.jpg"
     alt: "Mindfucker by Monster Magnet"
     caption: "Mindfucker by Monster Magnet"
+additional_images:
+    - "https://i.discogs.com/H0i1pbCe-60zqCvcJclWoS7OpTf3RjSzQ3LMVVZN_hc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzMtNjM0My5qcGVn.jpeg"
+    - "https://i.discogs.com/sNwoBHfozXsmMHZc9g8Nob9MbGEH8ZC4sqM5MjYKHsQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtOTMzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/jYnrljP0QTXk7ke0KZOky0vqjUU6l-gnq3rXcq8g9ms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtNDE0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/UAbiojGxdfYIImwFy2L16i54MPkI-nyskYHcrKCn6B8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtOTMxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/42bEGv3DLS2Zl4X3H_2XBkoBAKkkdi8sCbFpMTlZ9dQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtNzI0My5qcGVn.jpeg"
+    - "https://i.discogs.com/qKqZv-S0A1MICLDTOiwhm_XFWFZzCheuiRTBwtYXxPU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtMzg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/BWvUAxvvAzyN-1co8LI6E81GbeySXf-UMkBuNQgjmz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtNTE0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ZThXhKQqKbCHT-1-hdEiMgrCNTb831R4BDrwqw6weOs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzQtNDM3My5qcGVn.jpeg"
+    - "https://i.discogs.com/sNeHizqZOLzKXCmd-EsvqYQ7wOC79gYrAvX2TbdmTdk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/NTgyLTE1MjE2NzE4/NzUtMzE5Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
@@ -33,32 +43,27 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### MONSTER MAGNET - Ejection (Official Video) | Napalm Records
 {{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection (Official Video) | Napalm Records" >}}<br>
-
 ### More Videos
 
 - [MONSTER MAGNET - I'm God (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
 - [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
 - [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582-Monster-Magnet-Mindfucker) |
-| Label          | Napalm Records |
 | Format         | Vinyl LP (Yellow Opaque), Vinyl LP Single Sided Etched (Yellow Opaque), All Media Album Limited Edition |
+| Label          | Napalm Records |
 | Catalog Number | NPR 757 VINYL |
 | Notes | Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies. |
+| Discogs URL    | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582-Monster-Magnet-Mindfucker) |

@@ -10,6 +10,8 @@ cover:
     image: "greatest-hits-23335586.jpg"
     alt: "Greatest Hits by Whitesnake"
     caption: "Greatest Hits by Whitesnake"
+additional_images:
+    - "https://i.discogs.com/vqXfq_DRjcBe1tY9px4CWADwjSVmvRQdVMxBxuzAues/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM1/NTg2LTE2NTMzNzU1/ODktNzM5OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -37,20 +39,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whitesnakes-greatest-hits/699743480" >}}
-
-
-
-
-
 ## Videos
 ### Whitesnake - Fool For Your Loving
 {{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}<br>
-
 ### More Videos
 
 - [Whitesnake - Slow & Easy](https://www.youtube.com/watch?v=1qqAtPV-kgs)
@@ -58,12 +52,14 @@ styles: ["Hard Rock"]
 - [Whitesnake - Love Ain't No Stranger](https://www.youtube.com/watch?v=unHzLEA6gvI)
 - [Whitesnake - Is This Love](https://www.youtube.com/watch?v=Lx15RANQiKM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586-Whitesnake-Greatest-Hits) |
-| Label          | Warner Music Group |
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Stereo |
+| Label          | Warner Music Group |
 | Catalog Number | 0190296457791 |
+| Discogs URL    | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586-Whitesnake-Greatest-Hits) |

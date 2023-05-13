@@ -10,6 +10,11 @@ cover:
     image: "luke-cage-original-soundtrack-9299784.jpg"
     alt: "Luke Cage - Original Soundtrack by Adrian Younge"
     caption: "Luke Cage - Original Soundtrack by Adrian Younge"
+additional_images:
+    - "https://i.discogs.com/L-xAMcUCnuobavRjnnWUtAq3OwFyOOmqsmBpSIcVDMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTk3/ODQtMTUwNDQxMjY0/MS02MDI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/dRKIbNxtYafEUauYYrUbWI9r0db1WyePEloY8HQ6jVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTk3/ODQtMTUwNDQxMjY0/MC0zODA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/HpuJZ_9S6Xt0cu8a-pu4xu-4W9eft4sKekJqMVvlCDo/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTk3/ODQtMTUwNDQxMjI5/NS0xODcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/bXi7tt-x2Cy34GPf6NRTdylX1fBkqbqY9MXJ2zFgrBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTk3/ODQtMTUwNDQxMjI5/Ni01MDczLmpwZWc.jpeg"
 genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -67,16 +72,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage
 {{< youtube id="yhwcVrVUa3U" title="Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage" >}}<br>
-
 ### More Videos
 
 - [Adrian Younge & Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
@@ -95,12 +94,14 @@ styles: ["Soundtrack"]
 - [Adrian Younge & Ali Shaheed Muhammad - Cottonmouth Theme](https://www.youtube.com/watch?v=7R8WxNN7h78)
 - [Adrian Younge & Ali Shaheed Muhammad - Luke Cops](https://www.youtube.com/watch?v=VMUS_42cLmE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Adrian Younge - Luke Cage - Original Soundtrack](https://www.discogs.com/release/9299784-Adrian-Younge-Ali-Shaheed-Muhammad-Luke-Cage-Original-Soundtrack) |
-| Label          | Mondo (3) |
 | Format         | Vinyl 2× LP Album (Yellow, Gatefold. 180g) |
+| Label          | Mondo (3) |
 | Catalog Number | MOND-094 |
+| Discogs URL    | [Adrian Younge - Luke Cage - Original Soundtrack](https://www.discogs.com/release/9299784-Adrian-Younge-Ali-Shaheed-Muhammad-Luke-Cage-Original-Soundtrack) |

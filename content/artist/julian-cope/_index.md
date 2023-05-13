@@ -1,6 +1,8 @@
 ---
 title: "Julian Cope"
-summary: "British vocalist, bassist, songwriter author and poet, born 21 October 1957 in Deri, Monmouthshire, Wales, UK. He grew up in Tamworth before moving to Liverpool . Now living in Avebury . Father of . His first band, as bassist, was The Crucial Three, which he co-founded in May 1977 together with and . They disbanded in June 1977. In 1978, he founded the post punk band with which he gained fame. The band disbanded in late 1982. He moved back to his old home Tamworth and started recording his first solo album which was released in 1984. He then started to write books, including, amongst others, two books about his own musical career. In 1992 he founded and in 1999 he founded the band , both bands are still going."
+summary: "Julian David Cope is an English musician and author. He was the singer and songwriter in Liverpool post-punk band the Teardrop Explodes and has followed a solo career since 1983 in addition to working on musical side projects such as Queen Elizabeth, Brain Donor and Black Sheep.
+Cope is also an author on Neolithic culture, publishing The Modern Antiquarian in 1998, and a political and cultural activist with a public interest in occultism and paganism. He has written two volumes of autobiography, Head-On and Repossessed ; two volumes of archaeology, The Modern Antiquarian and The Megalithic European ; and three volumes of musicology, Krautrocksampler , Japrocksampler ; and Copendium: A Guide to the Musical Underground ."
 image: "julian-cope.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/julian-cope/13104701"
+wikipedia_url: "https://en.wikipedia.org/wiki/Julian_Cope"
 ---

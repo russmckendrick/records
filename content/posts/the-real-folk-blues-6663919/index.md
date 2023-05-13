@@ -10,6 +10,9 @@ cover:
     image: "the-real-folk-blues-6663919.jpg"
     alt: "The Real Folk Blues by Howlin' Wolf"
     caption: "The Real Folk Blues by Howlin' Wolf"
+additional_images:
+    - "https://i.discogs.com/sJe5sfry8044uAYQUPtIFNUkMKoLsyBn5Dbc_p4WuWo/rs:fit/g:sm/q:90/h:433/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTQzMTAxOTcz/MC01NDM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/gMVVqkVQIHyu0WCSPp9rcvKU9Fd0Ja02dyUkimcidvs/rs:fit/g:sm/q:90/h:434/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTQzMTAxOTc0/My03ODg5LmpwZWc.jpeg"
 genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
@@ -33,20 +36,13 @@ styles: ["Chicago Blues"]
 
 <!-- section break -->
 
-
-
-
+The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-real-folk-blues/1444213729" >}}
-
-
-
-
-
 ## Videos
 ### Howlin' Wolf - Tell Me What I've Done [HD]
 {{< youtube id="pm-v_7K66rw" title="Howlin' Wolf - Tell Me What I've Done [HD]" >}}<br>
-
 ### More Videos
 
 - [Killing Floor](https://www.youtube.com/watch?v=CHrVB35kTrE)
@@ -59,13 +55,17 @@ styles: ["Chicago Blues"]
 - [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
 - [Howlin' Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Folk_Blues_(Howlin%27_Wolf_album) |
+| Wikipedia Summary | The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Howlin' Wolf - The Real Folk Blues](https://www.discogs.com/release/6663919-Howlin-Wolf-The-Real-Folk-Blues) |
-| Label          | Dolchess |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | Dolchess |
 | Catalog Number | DOL1502H |
 | Notes | 180g HQ Virgin Vinyl. Manufactured in Europe. The runouts are etched. |
+| Discogs URL    | [Howlin' Wolf - The Real Folk Blues](https://www.discogs.com/release/6663919-Howlin-Wolf-The-Real-Folk-Blues) |

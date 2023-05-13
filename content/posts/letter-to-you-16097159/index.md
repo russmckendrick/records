@@ -11,6 +11,29 @@ cover:
     image: "letter-to-you-16097159.jpg"
     alt: "Letter To You by Bruce Springsteen"
     caption: "Letter To You by Bruce Springsteen"
+additional_images:
+    - "https://i.discogs.com/JG9cNiz_0lkgm5MG42dGRUjn_cmRHyNqgVi5lCH00rs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDMzNzc5/NjUtMjUyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/BmzWY4vtV3Xo2QOvc8R3y4oSvzR5x_xigyKxfQjIhYk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/ODgtMjcxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/1GUouIDjIE7b2RPFycX_rw3MLdBsSPqF4A-ir9X0QRQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/ODktMzY0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/rUL1zNJOw3F_rvGcrYRxsiZ0tBmm2I9EEdFu7GCxwKY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDMzNzc5/NjUtNzczMi5qcGVn.jpeg"
+    - "https://i.discogs.com/o55JKY4b1bSQ8Pb1rcVH_-BTM_vFefOJUPOXMVOSWTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTEtNjkwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/uAncqDpwUsiWaIC1zIILKI_PtAQR8ErOfmpaHiZzLbA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTItNTk2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/6kX3iEpKALKzl5gGCwORUkFbGDYgPCjBofnHw4duFfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTMtMTM0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/GgaH6MhzwOH34duPcNAkBytbutdij6XVbDLVeLEcBmw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTMtNDQzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/2BLChUaFmfuDgf89nza9UaCum-ITLXuj_S3BGxcQgGI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/ODktMjg2My5qcGVn.jpeg"
+    - "https://i.discogs.com/6fk0qdS_UKfURyVGRPjS5mPGBAqpBAkcR2A6E0wGsFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTAtMzY1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/JMJPbXwzMjOpsQN9J0f34Ewd_-F8otaHyW8VXjRNILI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTAtMTQwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/3jakTF-NiCVbZX9kRBP7YovFmyO17I_2Y7mrIuxE1ww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTAtMzg3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/H-TKPZ00QteECGJJoR2BMgOXtQtwnXcSW3VlVBXBtN0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTMtMzY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/giwGkYCdjc7dwD2Scxx9AzOemuV_vEOzojY8pfx1SMI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTQtMjQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/lUXdj7VjAf2DLj67_2idCWc10YkgfA8MUDUvlHVm9jE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTEtNDAxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/TJfeWR4iInocRxsObxM-mG1a4FZB0Vzf310b6yOffGE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTItMTk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/biCg174uQLQs3ZNECH3jbr50LSvpZzKwsnU6MCOh8RQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTItNDU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zulQdu0OeE-on2cSVLwEpc14SqoQNbVcLjTnW_b5G1c/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDMzNzc5/NjUtMzkwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/5hMoTogI1Is5Cnpcs_ZXfYsesCIkxa6od_-aYSR7qyo/rs:fit/g:sm/q:90/h:966/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM1NjM2/NDktMzA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/XbYdjflZNdlscYj8ZOFVF2lyqmacJfmD4xGeH0l7jCU/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM5NjEy/MjEtNjA4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zBByoueJregI2No3vpafhMHyD9EzVqLe22YsE87JMJs/rs:fit/g:sm/q:90/h:1506/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM2NDE1/OTUtMjA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/CyK6DgHJumqY3S3PUALgaxZ4zuhxqFrxETYgABRF9Q8/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM2NDE1/NTgtMTU3My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Arena Rock", "Classic Rock"]
 ---
@@ -34,7 +57,6 @@ styles: ["Arena Rock", "Classic Rock"]
 
 <!-- section break -->
 
-
 Since Bruce Springsteen last released an album with the E Street Band—<i>High Hopes</i>, 2014’s collection of re-recorded outtakes and covers—he’s spent a lot of time thinking about his past. He followed his 2016 memoir <i>Born to Run</i> the next year with a one-man Broadway show in which he reimagined his songs as part of an intimate narrative about his own life and career. And while his 20th LP was recorded completely live with the band in a four-day sprint—for the first time since 1984’s <i>Born in the USA</i>—the songs themselves bear the deliberation and weight of an artist who knows he’s running out of time to do things like this. “The impetus for a lot of the material was the loss of my good friend George Theiss,” Springsteen tells Apple Music. “When he passed away, it left me as the only remaining living member of the first band that I had, which was a very strange thought, and it gave rise to most of the material. There's ageing and loss of people as time goes by, and that's a part of what the record is. And then at the same time, you're sort of celebrating the fact that the band goes on and we carry their spirits with us.”<br />
 That combination of wistfulness and joy—propelled by the full force of an E Street Band that’s been playing together in some form for nearly 50 years, minus two departed founding members, Clarence Clemons and Danny Federici—drives “Last Man Standing” and “Ghosts” most explicitly, but imbues the entire project. Though this may have been recorded live and fast, nothing sounds ragged or rambunctious; the efficiency owes to the shorthand of a unit that knows each other’s moves before they make them. While most of the songs were written recently, “Song for Orphans”, “If I Was the Priest” and “Janey Needs a Shooter” date back to the early ’70s, only adding to the feeling of loose ends being tied. And it’s not lost on Springsteen after this long period of reflection that this album fits into a larger story that he’s been telling for most of his life. “If you wanted to find a body of work that expressed what it was like to be an American, say from 1970 to now, in the post-industrial period of the United States—I'd be a place you could go and get some information on that,” he says. “And so in that sense, I always try to speak to my times in the way that I best could.” Here he digs deeper into just a few of the highlights from <i>Letter to You</i>.<br />
 <b>One Minute You’re Here</b>
@@ -49,20 +71,12 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 “I grew up Catholic, and that was enough to turn me off from religion forever. And I realised as I grew older that you can run away from your religion, but you can't really run away from your faith. And so I carried a lot of the language with me, which I use and write with quite often—'Promised Land' or 'House of a Thousand Guitars' and 'The Power of Prayer' on this record. Those little three-minute records and the 180-second character studies that came through pop music were like these little meditations and little prayers for me. And that's what I turned them into. And my faith came in and filled those songs, and gave them a spiritual dimension. It's an essential part of your life.”<br />
 <b>I’ll See You in My Dreams</b>
 “I remember a lot of my dreams and I always have. But that song was basically about those that pass away don't ever really leave us. They visit me in my dreams several times a year. Clarence will come up a couple times in a year. Or I'll see Danny. They just show up in very absurd, sometimes in abstract ways in the middle of strange stories. But they're there, and it's actually a lovely thing to revisit with them in that way. The pain slips away, the love remains, and they live in that love and walk alongside you and your ancestors and your life companions as a part of your spirit. So the song is basically about that: 'Hey. I'm not going to see you at the next session, but I'll see you in my dreams.'”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/letter-to-you/1529959055" >}}
-
-
-
-
-
 ## Videos
 ### Bruce Springsteen - One Minute You're Here (Official Audio)
 {{< youtube id="s-RT3nxr3T4" title="Bruce Springsteen - One Minute You're Here (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Bruce Springsteen - Letter To You (Official Video)](https://www.youtube.com/watch?v=AQyLEz0qy-g)
@@ -77,13 +91,17 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 - [Bruce Springsteen - Song For Orphans (Official Audio)](https://www.youtube.com/watch?v=ib96-ytmLDg)
 - [Bruce Springsteen - I'll See You In My Dreams (Official Audio)](https://www.youtube.com/watch?v=r9Wi5ff4pNw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Bruce Springsteen - Letter To You](https://www.discogs.com/release/16097159-Bruce-Springsteen-Letter-To-You) |
-| Label          | Columbia |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Letter_to_You |
+| Wikipedia Summary | Letter to You is the twentieth studio album by Bruce Springsteen. Released in October 2020, it was Springsteen's first new studio album with the E Street Band to be released since 2014's High Hopes. Letter to You was met with widespread critical acclaim; critics responded favorably to the album's treatment of issues of aging and death. The album was a commercial success, topping several international sales charts and was Springsteen's 21st top-10 album in the United States. Since touring was not possible due to the COVID-19 pandemic, the album was promoted with an online radio station, music videos, and a custom Twitter emoji. |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP (Gray), Vinyl LP Single Sided Etched (Gray), All Media Album Limited Edition Stereo |
+| Label          | Columbia |
 | Catalog Number | 194398116211 |
 | Notes | Limited edition gray vinyl. Two 140-gram LPs (side D is etched) in translucent inner sleeves inside a gatefold jacket with a 16-page 12"x12" booklet.  Barcode printed on sticker on shrinkwrap, obscuring barcode printed on rear sleeve, which is the same as the standard version.  On hype sticker: New album featuring The E Street Band Limited edition gray vinyl 19439811621  First cat# on cover and spine. Second cat# on labels.  Additional cat#s: Booklet: 19439803801B1 Inner sleeve 1: 19439803801 SV1 Inner sleeve 2: 19439803801 SV2  Mixed at Mix This! LA Mastered at Gateway Mastering (Portland, ME) Recorded at Stone Hill Studio, NJ  Publishing: Published by Bruce Springsteen, administered by Universal Music Group. © 2019, 2020 Bruce Springsteen (Global Music Rights)  On cover and labels: © & ℗ 2020 Bruce Springsteen Made in the EU.  On inner sleeves: © 2020 Bruce Springsteen  On booklet: All songs written and published by Bruce Springsteen, administrated by Universal Music Group. © 2019, 2020 Bruce Springsteen (Global Music Rights) © 2020 Bruce Springsteen 19439803801B1  Durations do not appear on this release. Timings via stopwatch.  Some copies came with free tote bag (see picture). Copy from Badlands.co.uk came bundled with exclusive A5 art print.  On runouts: All is etched except STERLING which is stamped |
+| Discogs URL    | [Bruce Springsteen - Letter To You](https://www.discogs.com/release/16097159-Bruce-Springsteen-Letter-To-You) |

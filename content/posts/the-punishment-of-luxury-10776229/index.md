@@ -10,6 +10,13 @@ cover:
     image: "the-punishment-of-luxury-10776229.jpg"
     alt: "The Punishment Of Luxury by Orchestral Manoeuvres In The Dark"
     caption: "The Punishment Of Luxury by Orchestral Manoeuvres In The Dark"
+additional_images:
+    - "https://i.discogs.com/FgFwbwcrINK98Coj0WmkgBoC2lVmDBuB-STy8-9jASI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc2/MjI5LTE1MTk5MjYx/MDItOTU1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/4l5JvwqbFdR3Qm8vW72aeFW7IU8ejdORIBbSF9VEvuw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc2/MjI5LTE1MTk5MjYw/ODItNDY2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/E8T1OKsbsTO69KWy8wp_aSV6WNRw_Ejk2iWm3RU9e7U/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc2/MjI5LTE2NDIxMjAy/NDEtNDczMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Q-vYQb_nJwgGTb8dWI_hsKNM3saIIiY8n6MHW1zeiqs/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc2/MjI5LTE2NDIxMjAy/NDEtNDA2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/43zjgTa_FI-hwsLmz14oiagRSYJluPzIo1HyIXosFlw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc2/MjI5LTE1MTk5MjYw/OTktMjc2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/qo-aHPDFIZGTHSS6C90WVuHPIy00OmoM9ClDQYnN8s0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc2/MjI5LTE1MTk5MjYw/NjUtNTY4Mi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -33,20 +40,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-punishment-of-luxury/1235723435" >}}
-
-
-
-
-
 ## Videos
 ### Orchestral Manoeuvres in the Dark - The Punishment of Luxury
 {{< youtube id="2cU53wWb6UI" title="Orchestral Manoeuvres in the Dark - The Punishment of Luxury" >}}<br>
-
 ### More Videos
 
 - [Orchestral Manoeuvres in the Dark — 'The Punishment of Luxury,' Live on Soundcheck](https://www.youtube.com/watch?v=NJQ3ZPF824E)
@@ -58,13 +57,15 @@ styles: ["Synth-pop"]
 - [OMD - La Mitrailleuse](https://www.youtube.com/watch?v=9PO_RkGju6M)
 - [Orchestral Manoeuvres in the Dark - Isotype](https://www.youtube.com/watch?v=gp_Du6uO9V4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - The Punishment Of Luxury](https://www.discogs.com/release/10776229-OMD-The-Punishment-Of-Luxury) |
-| Label          | 100% Records (2) |
 | Format         | Vinyl LP Album |
+| Label          | 100% Records (2) |
 | Catalog Number | 100LP66 |
 | Notes | Issued in a die-cut sleeve. |
+| Discogs URL    | [Orchestral Manoeuvres In The Dark - The Punishment Of Luxury](https://www.discogs.com/release/10776229-OMD-The-Punishment-Of-Luxury) |

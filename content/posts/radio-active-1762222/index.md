@@ -10,6 +10,11 @@ cover:
     image: "radio-active-1762222.jpg"
     alt: "Radio Active by Various"
     caption: "Radio Active by Various"
+additional_images:
+    - "https://i.discogs.com/BBdG7ZruBUaLXwawfY-rrQj_c61I6DgBUH8x2HJBG60/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIy/MjItMTM2MDg1Nzcz/MS0yNDc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Fq37V3cqb1EpQ5uJzAnw3fB_n1OqMaVTDq5u3LisTPI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIy/MjItMTM2MDg1ODA5/Ni00MTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/kjI4HVZ9yZ3vqUWc5968ppXfIqj9eMANfW0AjEyOXhU/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIy/MjItMTM2MDg1ODI0/Mi04NzE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/SeaaaHD25v-bdViJxEWTgCeYTGmjQGgHA5z_rIKjDpU/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIy/MjItMTM2MDg1ODI2/Ny04Mjg3LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 ---
@@ -41,19 +46,13 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 
 <!-- section break -->
 
-
-
-
+Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series.
+<br>
 ## Spotify
 {{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Radio Active (Face A) (1980)
 {{< youtube id="c-NmtskiSzo" title="Radio Active (Face A) (1980)" >}}<br>
-
 ### More Videos
 
 - [Ottawan - D.I.S.C.O. (HD) Legendado em PT- BR](https://www.youtube.com/watch?v=mJpymZpk-t8)
@@ -77,13 +76,17 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 - [Sue Wilkinson - You've Got to be a Hustler - TOTP 1980 [HD]](https://www.youtube.com/watch?v=rT0T6ErJEJU)
 - [UB40 - I Think It's Going to Rain Today (Lyrics)](https://www.youtube.com/watch?v=JSUhwUF5P_w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Radio_Active_(radio_series) |
+| Wikipedia Summary | Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series. |
 | Release Year   | 1980                                   |
-| Discogs Link   | [Various - Radio Active](https://www.discogs.com/release/1762222-Various-Radio-Active) |
-| Label          | Ronco |
 | Format         | Vinyl LP Compilation (Lyntone Pressing) |
+| Label          | Ronco |
 | Catalog Number | RTL 2049 |
 | Notes | Subtitled "20 Electric Hits"    Track B5 title shortened to 'Lies' on sleeve tracklist.   |
+| Discogs URL    | [Various - Radio Active](https://www.discogs.com/release/1762222-Various-Radio-Active) |

@@ -10,6 +10,15 @@ cover:
     image: "the-last-days-of-oakland-9225434.jpg"
     alt: "The Last Days Of Oakland by Fantastic Negrito"
     caption: "The Last Days Of Oakland by Fantastic Negrito"
+additional_images:
+    - "https://i.discogs.com/WH1g2qvYAh9GKbvLxNUKRY49_JKhGESGydN211rbj0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTU3MDAzMDQ3/OS01NzAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/iM3ljLb2I1AFJg2gzlnSS7zCV7Zm6JutlUi_coNcO58/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTU3MDAzMDQ3/OS05MDE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/iCVqUiAJqVNEBiW2Erkqw1CssoY60inM7vD_yg79jAU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTU3MDAzMDQ3/OS05NjA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/lIv2hVgLvL9KodHQ2pg9lOKoCstpdUzaEd-alz8j3OM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTU3MDAzMDQ3/OS03ODAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/oekwlnjvcSPu7lY9RtWMyPKYSuXfpNDyFAvaAj9fjtA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTUwNjA5NzI5/Mi05MDY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/-r0qLZtxVo8dLtkKVKyokYNDAyihxWkeD008hH0jQX4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTUwNjA5NzI5/NC00NTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/d-VqonJNWtmuXzJ4bQ0wAd77yTEA5vWqPxhhsEmR3Lg/rs:fit/g:sm/q:90/h:769/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTY3MzUyNDY3/NS00NzczLmpwZWc.jpeg"
+    - "https://i.discogs.com/FdHbJ7m16iNX7kBYs4DDasWPPqbdXVT4T8DO_VohewQ/rs:fit/g:sm/q:90/h:409/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTY3MzUyNDY5/My03MjkxLmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: []
 ---
@@ -34,20 +43,12 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-last-days-of-oakland/1246371196" >}}
-
-
-
-
-
 ## Videos
 ### Fantastic Negrito - The Worst (Official Audio)
 {{< youtube id="4fDJlWxhyvw" title="Fantastic Negrito - The Worst (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Fantastic Negrito - The Nigga Song](https://www.youtube.com/watch?v=yZn8NnCIX_s)
@@ -59,13 +60,15 @@ styles: []
 - [Fantastic Negrito - Nothing Without You (Official Audio)](https://www.youtube.com/watch?v=e-W98ao9e-I)
 - [Fantastic Negrito - About a Bird (Official Audio)](https://www.youtube.com/watch?v=m6UH2--6rWc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434-Fantastic-Negrito-The-Last-Days-Of-Oakland) |
-| Label          | Blackball Universe Records |
 | Format         | Vinyl LP Album |
+| Label          | Blackball Universe Records |
 | Catalog Number | none |
 | Notes | Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France |
+| Discogs URL    | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434-Fantastic-Negrito-The-Last-Days-Of-Oakland) |

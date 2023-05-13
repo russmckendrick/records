@@ -10,6 +10,21 @@ cover:
     image: "charmed-life-the-best-of-the-divine-comedy-22022677.jpg"
     alt: "Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy"
     caption: "Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy"
+additional_images:
+    - "https://i.discogs.com/VULQ8IL4laZIkrtvSEq6gruwI-oS40jDkALVnLy1Atk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTQtMjg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/NM-R9RRGBg3aNtB6eRK8PGglhj7euX7EWM571UmT0kU/rs:fit/g:sm/q:90/h:272/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtOTIyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/s3DArzZv-Oo4mehoFvv2n1qk7oBRWfUQwNemaiTHss8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtMTQ5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/tBmfu-c7M6ScZLh6PQ6LSn8hGwLseCjvPbsyZlmb-7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItODUyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/nGsOyX2EMpk_Q5SstXjmOrdcy2ClwwV8mYdJ_ihO-mQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItNTkyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/MmtplJRaPVcvHw1Dy6npiFtceNIMR5Y1-wujaslabKM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItNjEyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/DNd5YXic2X_zeST6hrzi2KwxPNJzgIBGrQvRXChvJOQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtOTYwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/-idDuXIA5390W55UkVehKg7jYj-VUqPwFv1tEbw5gYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtMzA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/JZBfz4sbx0Xh0kf-VUJyDTAijArqDXsJGCX1kOiWIew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtNzQ4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Yv50VU_DwXzz0YNVVM8F7f8Ma-GpKelGTJNI6fcBgXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtNTc1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Lsfn14XaLjVnm8WvOYa4wwXaNRec5HkWOYGxV-bGk6s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTQtOTg4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Z2tlQidTYfGDkwNlWfpGJErfpSCvhXGPo8b-_dUc_20/rs:fit/g:sm/q:90/h:386/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItMzM2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/dIfg6BIgNvo7wxBsMBdCiqLGKnSbYzR_T2UQkQScBM8/rs:fit/g:sm/q:90/h:351/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtMzU5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/W7qISUT155zuKFoeVELzOcQq6jil3PUQUgzmuI1w2Rc/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTEtNTA4MS5qcGVn.jpeg"
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
@@ -45,20 +60,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy-deluxe-edition/1594918111" >}}
-
-
-
-
-
 ## Videos
 ### Charmed Life
 {{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}<br>
-
 ### More Videos
 
 - [A Lady of a Certain Age](https://www.youtube.com/watch?v=_dDFCWsGfzQ)
@@ -75,13 +82,15 @@ styles: ["Indie Pop"]
 - [Those Pesky Kids](https://www.youtube.com/watch?v=u8sIYcN7ii4)
 - [Butterfly](https://www.youtube.com/watch?v=M4g_gPU5VNg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)](https://www.discogs.com/release/22022677-The-Divine-Comedy-Charmed-Life-The-Best-Of-The-Divine-Comedy) |
-| Label          | Divine Comedy Records Limited |
 | Format         | Vinyl LP (Gold), Vinyl LP (Silver), All Media Compilation Limited Edition |
+| Label          | Divine Comedy Records Limited |
 | Catalog Number | DCRL118LPX |
 | Notes | Signed "Charmed Life" lyric sheets were available with a CD and coloured vinyl bundle from the official artist store. |
+| Discogs URL    | [The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)](https://www.discogs.com/release/22022677-The-Divine-Comedy-Charmed-Life-The-Best-Of-The-Divine-Comedy) |

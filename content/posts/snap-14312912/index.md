@@ -10,6 +10,9 @@ cover:
     image: "snap-14312912.jpg"
     alt: "Snap! by The Jam"
     caption: "Snap! by The Jam"
+additional_images:
+    - "https://i.discogs.com/UNC6j4MBQeuEhTeIaqljOSqkD37CKEEVayr9N6ZFR60/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEy/OTEyLTE1NzIwMjY4/MjQtNzk5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ygFLz7vYXymlfT50cUHGGKNKnKrZ-SG8JHi9NiI00rw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEy/OTEyLTE1NzIwMjY4/MzEtMTk1OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Mod"]
 ---
@@ -55,20 +58,13 @@ styles: ["Mod"]
 
 <!-- section break -->
 
-
-
-
+Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year after the group disbanded. The double-album includes all sixteen of the band's UK singles, plus some B-sides, album tracks and rarities. Stephen Thomas Erlewine of AllMusic called it "one of the greatest greatest-hits albums of all time". A shorter version, removing the 8 non-singles, was released as a single CD in 1985 as Compact Snap!.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/snap/1452863068" >}}
-
-
-
-
-
 ## Videos
 ### The Jam - All Around The World
 {{< youtube id="GPktB0NHwDY" title="The Jam - All Around The World" >}}<br>
-
 ### More Videos
 
 - [The Jam - Going Underground (Compact SNAP!)](https://www.youtube.com/watch?v=vzkpgf2oXwo)
@@ -105,13 +101,17 @@ styles: ["Mod"]
 - [The Jam - (Compact SNAP!) Full Album](https://www.youtube.com/watch?v=9FoSomJHHU4)
 - [The Jam SNAP! Full Album](https://www.youtube.com/watch?v=f2TzoccDCDI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Snap!_(album) |
+| Wikipedia Summary | Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year after the group disbanded. The double-album includes all sixteen of the band's UK singles, plus some B-sides, album tracks and rarities. Stephen Thomas Erlewine of AllMusic called it "one of the greatest greatest-hits albums of all time". A shorter version, removing the 8 non-singles, was released as a single CD in 1985 as Compact Snap!. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [The Jam - Snap!](https://www.discogs.com/release/14312912-The-Jam-Snap) |
-| Label          | Polydor |
 | Format         | Vinyl 2× LP Compilation, Vinyl 7" EP, All Media Compilation Reissue |
+| Label          | Polydor |
 | Catalog Number | SNAP 1 |
 | Notes | Gatefold cover. |
+| Discogs URL    | [The Jam - Snap!](https://www.discogs.com/release/14312912-The-Jam-Snap) |

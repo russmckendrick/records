@@ -10,6 +10,9 @@ cover:
     image: "electronic-14048921.jpg"
     alt: "Electronic by Various"
     caption: "Electronic by Various"
+additional_images:
+    - "https://i.discogs.com/R2ok6d790pwlAh6449XMWDWUaa_vZAqoPDdUBOV2JdU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/OTIxLTE1NjY4MzQy/NjctMzczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/DU05uS3LI_RkDIWG92Yvohll-0JvaglxyjUbNRrGb_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/OTIxLTE1NjkzNTM3/NDYtOTA5MC5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro", "Hip Hop", "Pop Rock", "Downtempo"]
 ---
@@ -51,19 +54,14 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 
 <!-- section break -->
 
-
-
-
+Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
+The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
+<br>
 ## Spotify
 {{< spotify type="album" id="5AgLnccLcpqgDWFO5stqx1" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Japan - Quiet Life
 {{< youtube id="xhm-EqcPta0" title="Japan - Quiet Life" >}}<br>
-
 ### More Videos
 
 - [Visage's 1981 hit Fade to Grey](https://www.youtube.com/watch?v=PeGTJOFSIgU)
@@ -71,13 +69,17 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 - [Say Hello, Wave Goodbye](https://www.youtube.com/watch?v=1G6SuujVCtk)
 - [Simple Minds - Glittering Prize](https://www.youtube.com/watch?v=ucw0twciNGk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
+| Wikipedia Summary | Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.<br>The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Various - Electronic](https://www.discogs.com/release/14048921-Various-Electronic) |
-| Label          | UMC |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | UMC |
 | Catalog Number | 5388157 |
 | Notes | Includes 'The Sound of Vinyl' free digital download code.  This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.  Made in the E.U. |
+| Discogs URL    | [Various - Electronic](https://www.discogs.com/release/14048921-Various-Electronic) |

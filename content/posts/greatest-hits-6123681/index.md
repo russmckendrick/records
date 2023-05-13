@@ -11,6 +11,14 @@ cover:
     image: "greatest-hits-6123681.jpg"
     alt: "Greatest Hits by Fleetwood Mac"
     caption: "Greatest Hits by Fleetwood Mac"
+additional_images:
+    - "https://i.discogs.com/CaK5fACgeLGpbuBtdd3tWK6RsSzu7hCvEk9npISyS10/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTE1/OS03NDc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/e2hCLoUffGDBwuGoUnN_5I_Yr2FrEjPYgidB-vOGyzI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTE3/MC03OTAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/_bfxuhU2pWPIN8wnb8BtnFuw5OUdmy9MoF1rh2tL01o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTE4/Ni04ODY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Fj0E8ZiOUqB6M474Sz6voVUiYXBGFeKPtxW4vKdgByA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTIw/MS03MDY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/EwGsz5NcTofmqNj3Ip2Cmgx_SpTVfsxG4X_QKQFvvTE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTIx/Ni05MTU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/szzKv_KPYdASE0ZPi-4TScElS4WKUGKJruhsgwsz43M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTIz/MC00Mjk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/TTASA-WJZ3TEY1YqMWcOGvAJ2FvkOu9RjlvHdCKAepg/rs:fit/g:sm/q:90/h:600/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM2/ODEtMTQzMTgwNTI0/My01MTUyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
@@ -35,30 +43,26 @@ styles: ["Pop Rock", "Classic Rock"]
 
 <!-- section break -->
 
-
 The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled album and 1977’s <i>Rumours</i>. Christine McVie penned some stellar songs as evidenced by the gossamer “Everywhere” and the seductive “Tell Me Lies” from the underrated 1987 album <i>Tango In The Night</i>. Lindsay Buckingham’s most memorable songs surface, such as the catchy strut of “Don’t Stop,” the anthemic “Go Your Own Way” and the weirdly brilliant title-track from 1979’s <i>Tusk</i>.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}
-
-
-
-
-
 ## Videos
 ### Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album
 {{< youtube id="ohy8E4TJaZE" title="Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [Fleetwood Mac - Greatest Hits](https://www.discogs.com/release/6123681-Fleetwood-Mac-Greatest-Hits) |
-| Label          | Warner Bros. Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(1971_Fleetwood_Mac_album) |
+| Wikipedia Summary | Greatest Hits is a compilation album by the British blues rock band Fleetwood Mac released on CBS Records in the United Kingdom in 1971. The album assembles the band's hit singles in the UK covering the period from the band's beginning in 1968 to 1971, mostly in its original incarnation led by guitarist Peter Green. It peaked at No. 36 on the UK Albums Chart.<br><br> |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Compilation Reissue |
+| Label          | Warner Bros. Records |
 | Catalog Number | 8122795935 |
 | Notes | Sticker on shrink-wrap reads:  "8X Platinum Collection  13 Tracks Of Classic Fleetwood Mac   -Including-    Go Your Own Way   Don't Stop • Gypsy   Rhiannon • Dreams  Little Lies  8122795935"    Comes with a printed inner sleeve, containing liner note, credits and photos.    Published By:  Tracks A1, A6, B2, B4 & B6: Welsh Witch Music BMI.  Tracks A2, A4, A5, A7, B1, B3: Fleetwood Mac Music BMI.  Tracks A3, A5: Now Sounds Music BMI.    © 1988 Warner Bros. Records for the U.S. and WEA International Inc. for the world outside the U.S.  ℗ 1975, 1977, 1979, 1982, 1987, 1988 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.     [Back Cover]:  Manufactured in the EU.    [Inner Sleeve]:  Made in U.S.A. |
+| Discogs URL    | [Fleetwood Mac - Greatest Hits](https://www.discogs.com/release/6123681-Fleetwood-Mac-Greatest-Hits) |

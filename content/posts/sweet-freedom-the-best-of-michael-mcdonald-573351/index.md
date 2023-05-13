@@ -10,6 +10,11 @@ cover:
     image: "sweet-freedom-the-best-of-michael-mcdonald-573351.jpg"
     alt: "Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald"
     caption: "Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald"
+additional_images:
+    - "https://i.discogs.com/EIwGyioH9cOisZ8m1SW6O6U-PPjC1zCBGZrnCD-OSpQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzM1/MS0xNDUxOTEyMjYw/LTIzNDkuanBlZw.jpeg"
+    - "https://i.discogs.com/nCT_xPADNT_VpfQMVPiLnpYn7L2pXs5MXAce0vQF_5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzM1/MS0xNDUxOTEyMjUw/LTk0NDMuanBlZw.jpeg"
+    - "https://i.discogs.com/2BjDY-QqNctktaWLkpr-YgzQQGn-RPQP4upciwySLMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzM1/MS0xNDUxOTEyMjYy/LTY4MzIuanBlZw.jpeg"
+    - "https://i.discogs.com/0XcwyqmsldIuu3yMUge4cuyjhTTzn3LH9J3X8GVaVaY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzM1/MS0xNDUxOTEyMjYy/LTMzMTguanBlZw.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ---
@@ -33,16 +38,10 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### James Ingram and Michael McDonald - Yah Mo Be There
 {{< youtube id="_3rVtcm6pBE" title="James Ingram and Michael McDonald - Yah Mo Be There" >}}<br>
-
 ### More Videos
 
 - [MICHAEL McDONALD - I Gotta Try](https://www.youtube.com/watch?v=JL4JuGPxsJI)
@@ -56,13 +55,15 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 - [Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&B Pop](https://www.youtube.com/watch?v=dJe1iUuAW4M)
 - [Michael McDonald - Sweet Freedom (1986)](https://www.youtube.com/watch?v=O8-JPyVRkiE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1986                                   |
-| Discogs Link   | [Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)](https://www.discogs.com/release/573351-Michael-McDonald-Sweet-Freedom-The-Best-Of-Michael-McDonald) |
-| Label          | Warner Bros. Records |
 | Format         | Vinyl LP Compilation Remastered |
+| Label          | Warner Bros. Records |
 | Catalog Number | 241 049-1 |
 | Notes | Manufactured in Germany has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it  Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144] |
+| Discogs URL    | [Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)](https://www.discogs.com/release/573351-Michael-McDonald-Sweet-Freedom-The-Best-Of-Michael-McDonald) |

@@ -11,6 +11,8 @@ cover:
     image: "windy-city-9914922.jpg"
     alt: "Windy City by Alison Krauss"
     caption: "Windy City by Alison Krauss"
+additional_images:
+    - "https://i.discogs.com/kp4mZWuX-IUR7Wo5T2S59WZcDPFORHXgkkP5CDs-m_4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTQ5/MjItMTQ4ODQ3MDI0/Ny02Mzg3LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -32,34 +34,29 @@ styles: []
 
 <!-- section break -->
 
-
-The careful selection of covers on <i>Windy City</i> speaks volumes about Alison Krauss’ inspirations as an artist. Here, she offers a warmly nostalgic musical tour of mid-century Nashville. These are deep cuts—among the Bill Monroe b-sides and obscure bluegrass covers are only a few hits by Glen Campbell and Brenda Lee. But Krauss makes every song sound effortlessly her own, from the string-accompanied heartbreak “Losing You” to the gently swinging twang of “Dream of Me."
-
-
-
+Windy City is the fourth solo studio album by bluegrass-country artist Alison Krauss. Released on February 17, 2017, the album is Krauss' first solo release since Forget About It in 1999, and includes ten covers of classic songs that she selected with producer Buddy Cannon.The deluxe edition adds four live versions of tracks. The Target Exclusive version adds two more tracks to the deluxe edition. The Cracker Barrel Exclusive version adds one more track to the regular edition. The Barnes & Noble Exclusive vinyl LP version has an alternate cover image.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/windy-city-deluxe/1440864842" >}}
-
-
-
-
-
 ## Videos
 ### Alison Krauss - Windy City
 {{< youtube id="LNtKPzHxKG8" title="Alison Krauss - Windy City" >}}<br>
-
 ### More Videos
 
 - [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 - [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [Alison Krauss - Windy City](https://www.discogs.com/release/9914922-Alison-Krauss-Windy-City) |
-| Label          | Capitol Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Windy_City_(album) |
+| Apple Music Summary | The careful selection of covers on <i>Windy City</i> speaks volumes about Alison Krauss’ inspirations as an artist. Here, she offers a warmly nostalgic musical tour of mid-century Nashville. These are deep cuts—among the Bill Monroe b-sides and obscure bluegrass covers are only a few hits by Glen Campbell and Brenda Lee. But Krauss makes every song sound effortlessly her own, from the string-accompanied heartbreak “Losing You” to the gently swinging twang of “Dream of Me." |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (180g) |
+| Label          | Capitol Records |
 | Catalog Number | 00602557037500 |
 | Notes | Gatefold.  Includes free album download card |
+| Discogs URL    | [Alison Krauss - Windy City](https://www.discogs.com/release/9914922-Alison-Krauss-Windy-City) |

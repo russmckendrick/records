@@ -10,6 +10,13 @@ cover:
     image: "melting-pot-7147752.jpg"
     alt: "Melting Pot by The Charlatans"
     caption: "Melting Pot by The Charlatans"
+additional_images:
+    - "https://i.discogs.com/qJFD2oOFFGFCWj266d2W3py9aoyGc0_zqDKHRcxTaWM/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc3/NTItMTQ5MzM5Njg0/OS01MzE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/amChYIxauMkL_TJB7hXrKUkJUe-OlOR-s-AknazPoVg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc3/NTItMTQ5MzM5Njg1/MC0xNDYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/LzVINRvCLuWc-ooqSn2eY0Fg5MpH_jovkfUlD3FXMC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc3/NTItMTQ5MzM5Njg1/MC0xMzQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/RleqbiguakcEpuEAksUylH0Vbv_SsTl7GJntW4O-5Uw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc3/NTItMTQ5MzM5Njg1/MS01MTg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/1pyxLr-T5pzeIehtEUpLharpxphRWmyGNQvBrLZ5Ocg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc3/NTItMTQ5MzM5Njg1/MS0zNDE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/7AfQIdQUlyOG4kUHjfQ9i3vmvMrhQFsEX_pg5iLXRBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc3/NTItMTQ5MzM5Njg1/MS03OTY0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -38,20 +45,14 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Melting Pot is a greatest hits album by the British alternative rock band The Charlatans (known in the United States as The Charlatans UK).  Featuring tracks from their time on Beggars Banquet Records between 1990 and 1997, the album was released on 23 February 1998.  The cover features a picture of The Weaverdale cafe (subsequently renamed The Melting Pot, but closed in November 2016, and serving now as a BBQ takeaway) in Northwich, the site of the group's first meeting after signing to Beggars in 1990. The song "Opportunity Three" is a remix by Flood of the song "Opportunity" from the Some Friendly album; the remix otherwise appeared only on the Over Rising EP.
+The album was re-released on 20 May 2002 with a slipcase to match the artwork of B-sides compilation Songs from the Other Side. No changes were made to the album artwork or track listing.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/melting-pot/1450132766" >}}
-
-
-
-
-
 ## Videos
 ### The Charlatans - The Only One I Know
 {{< youtube id="0RJwW77Lsj8" title="The Charlatans - The Only One I Know" >}}<br>
-
 ### More Videos
 
 - [The Charlatans - Patrol (Chemical Brothers Mix)](https://www.youtube.com/watch?v=l30MOxYHLw0)
@@ -67,13 +68,17 @@ styles: ["Indie Rock"]
 - [Then](https://www.youtube.com/watch?v=x-eOMMuwTC4)
 - [Just When You’re Thinkin’ Things Over](https://www.youtube.com/watch?v=nJeHGRetnNw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Melting_Pot_(The_Charlatans_album) |
+| Wikipedia Summary | Melting Pot is a greatest hits album by the British alternative rock band The Charlatans (known in the United States as The Charlatans UK).  Featuring tracks from their time on Beggars Banquet Records between 1990 and 1997, the album was released on 23 February 1998.  The cover features a picture of The Weaverdale cafe (subsequently renamed The Melting Pot, but closed in November 2016, and serving now as a BBQ takeaway) in Northwich, the site of the group's first meeting after signing to Beggars in 1990. The song "Opportunity Three" is a remix by Flood of the song "Opportunity" from the Some Friendly album; the remix otherwise appeared only on the Over Rising EP.<br>The album was re-released on 20 May 2002 with a slipcase to match the artwork of B-sides compilation Songs from the Other Side. No changes were made to the album artwork or track listing. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [The Charlatans - Melting Pot](https://www.discogs.com/release/7147752-The-Charlatans-Melting-Pot) |
-| Label          | Beggars Banquet |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue |
+| Label          | Beggars Banquet |
 | Catalog Number | BBQLP 198 |
 | Notes | HMV UK exclusive limited to 500 copies. |
+| Discogs URL    | [The Charlatans - Melting Pot](https://www.discogs.com/release/7147752-The-Charlatans-Melting-Pot) |

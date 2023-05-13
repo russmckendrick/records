@@ -10,6 +10,17 @@ cover:
     image: "stacked-up-1723235.jpg"
     alt: "Stacked Up by Senser"
     caption: "Stacked Up by Senser"
+additional_images:
+    - "https://i.discogs.com/JAh-ZrZpFZGCmw4eInoNTTw-RuYTSkGYd-mphw3eBoc/rs:fit/g:sm/q:90/h:336/w:338/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTI4NDM2NjA5/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/jew-ZBVL91jCDUniyq7lA4P4AUrnwxH4gU4kkD7bOsY/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTMwMjU4NDgw/My5qcGVn.jpeg"
+    - "https://i.discogs.com/3qugmwVQ2l5fF3mEM77hGhNpz3f26b2LIDR_OuuVitQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTU4MzY3MTY3/MC02NDMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/5LSh3IMV7f-u93YOL8kCBvCYXcovszLW5UJPo06mzRU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTU4MzY3MTY2/OS02NjkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/_tu0nnXUiSVTFWX4yPXNIQDMgmaVCvKvEY4Ft4-6N8A/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTU4MzY3MTY2/OS03MTYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/yV3NpI3t1OHOcSd-qSNs1zrOdcTjbzFG1HeENdZNoGU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTMwMjU4NDc4/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/XICyidhQFsFMI1vLnjYHhQJbqN3NufIxdpyxiew5UZ4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTMwMjU4NDc5/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/UfUTYGmWEpw8tYQv75KYfpuEsouxGBT1fn9dtzi5WS4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTMwMjU4NDc1/MS5qcGVn.jpeg"
+    - "https://i.discogs.com/OXgSnQR8MDYCiPrZ11Yfs4jL2hjmbhr7DplLl4vEkyQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTMwMjU4NDc3/NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Tzz1f3Ucn50ti3po7azvnMN16X7slXPM0Sq2kNbaNyw/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMy/MzUtMTU4MzY3MTY2/OS0xODM1LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Electro"]
 ---
@@ -34,20 +45,12 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}
-
-
-
-
-
 ## Videos
 ### Senser - Age of Panic (Official Video)
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
@@ -70,13 +73,15 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 - [Senser - Age of Panic + Eject (live at Glastonbury 1994)](https://www.youtube.com/watch?v=WNhlU-n7eGs)
 - [Senser stacked up rehearsals and writing sessions 1992](https://www.youtube.com/watch?v=uYwnVsNhjck)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1994                                   |
-| Discogs Link   | [Senser - Stacked Up](https://www.discogs.com/release/1723235-Senser-Stacked-Up) |
-| Label          | Ultimate |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered (Yellow Fluorescent) |
+| Label          | Ultimate |
 | Catalog Number | topp lp008s |
 | Notes | Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold Sleeve with lyrics on inside. Some with merchandise insert.  |
+| Discogs URL    | [Senser - Stacked Up](https://www.discogs.com/release/1723235-Senser-Stacked-Up) |

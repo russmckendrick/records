@@ -10,6 +10,14 @@ cover:
     image: "lust-for-life-10451767.jpg"
     alt: "Lust For Life by Iggy Pop"
     caption: "Lust For Life by Iggy Pop"
+additional_images:
+    - "https://i.discogs.com/Ak44_4R7k2cD9cC-LtNf0-d-J_2wa3biluH-Ty95dog/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTg0NzI5/NTgtODY5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/DcVN_-sTXOpKXTQbo_81AnLJ2f5EIxIRrlpU-vqsf2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTc3MTY0/NTMtMTc2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/m1-UFwUgGg13eKpPLs4g5kj_363nvd6-JygfRhHjMUA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTc3MTY0/NjQtMjM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/s7lMHuWrjj_ftipsnKj32-yHeRtzAt3K2WxWyyJ2PjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTc3MTY1/MjctNDE3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/P0d6zM-hJA5YgNkg45Gbc2C8-5fm0V4FdHM8UOryQVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTc3MTY1/MzMtODA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/qppHarj0E_5fEwWk-nmXmy7QzFTiQFki8Y1F-9tzQow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTc3MTY1/NDEtOTYyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Tvj10YeP-gSxeC-h9fMWgMrJg43gF4xgx54-tT30FDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NzY3LTE0OTc3MTY1/NDctMTk4My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -30,20 +38,15 @@ styles: []
 
 <!-- section break -->
 
+"Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lust-for-life/1440882892" >}}
-
-
-
-
-
 ## Videos
 ### Lust For Life
 {{< youtube id="XPax7gTmgXA" title="Lust For Life" >}}<br>
-
 ### More Videos
 
 - [Ig̲g̲y P̲op - L̲ust For L̲ife (Full Album) 1977](https://www.youtube.com/watch?v=XaJSOsoEBbk)
@@ -58,13 +61,17 @@ styles: []
 - [Iggy Pop - Lust For Life](https://www.youtube.com/watch?v=jQvUBf5l7Vw)
 - [Iggy Pop - The Passenger (Official Video)](https://www.youtube.com/watch?v=-fWw7FE9tTo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song) |
+| Wikipedia Summary | "Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.<br><br> |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Iggy Pop - Lust For Life](https://www.discogs.com/release/10451767-Iggy-Pop-Lust-For-Life) |
-| Label          | UMC |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180) |
+| Label          | UMC |
 | Catalog Number | 00600753772454 |
 | Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Album notes credit Vocals to "The Band". Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".  Made in the EU. |
+| Discogs URL    | [Iggy Pop - Lust For Life](https://www.discogs.com/release/10451767-Iggy-Pop-Lust-For-Life) |

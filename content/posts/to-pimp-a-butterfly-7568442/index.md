@@ -11,6 +11,15 @@ cover:
     image: "to-pimp-a-butterfly-7568442.jpg"
     alt: "To Pimp A Butterfly by Kendrick Lamar"
     caption: "To Pimp A Butterfly by Kendrick Lamar"
+additional_images:
+    - "https://i.discogs.com/uyNREpCzq3Qt3jaKkfrEBTiqVoFO03P2Q1wrWh6qzAE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ0NDIxMjgw/Ny03MzMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/LRcz6Kh_xGTxMhyVanqjP3_fqsGQ3oQKT6O0zQ8CyCM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTUwNDgxNjg1/MC05NDkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/dhW3NFJ7dHCV3mLgfLbTeeJiLPUfP8euS0rpVnMUCG4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTUwNDgxNjg1/MS00NTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/QT4Y_bfbx-Fl5ohtiaLXw9EtEzUBV1NtxQqXK0EoaKE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTUwMzc3NjE4/OS01MDQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/YNG6jMTFugWzTcqCBBpLyuAs6dY7okc-xdjFz4byspo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ1OTM3NzI0/MS0zMDc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/P7CHpGXUWXReJMYzaLoZyMz-yOMDMvIpAKyVop4Dw7o/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ1OTM3NzI0/MS00NzQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/FxHrjMlLvcrceEgyFdfgvLEdZ1zVJVzm1X5fF3d3d4E/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ1OTM3NzI0/MC0yMzk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/MS3ihjVqEYLaRdQJ9Iy6-Z1eo6svA6Qteyz0fufnmRI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ1OTM3NzI0/MC0xODMyLmpwZWc.jpeg"
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
@@ -38,24 +47,18 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 <!-- section break -->
 
+To Pimp a Butterfly is the third studio album by American rapper Kendrick Lamar. It was released on March 15, 2015, by Top Dawg Entertainment, Aftermath Entertainment and Interscope Records. The album was recorded in studios throughout the United States, with production from Sounwave, Terrace Martin, Taz "Tisa" Arnold, Thundercat, Rahki, LoveDragon, Flying Lotus, Pharrell Williams, Boi-1da, Knxwledge, and several other high-profile hip hop producers, as well as executive production from Dr. Dre and Anthony "Top Dawg" Tiffith. Guest appearances include Thundercat, George Clinton, Bilal, Anna Wise, Snoop Dogg, James Fauntleroy, Ronald Isley, and Rapsody.
+Primarily a hip hop album, To Pimp a Butterfly incorporates numerous other musical styles spanning the history of African-American music, most prominently jazz, funk, and soul. Lyrically, it features political commentary and personal themes concerning African-American culture, racial inequality, depression, and institutional discrimination. This thematic direction was inspired by Lamar's tour of historic sites during his visit to South Africa, such as Nelson Mandela's jail cell on Robben Island.
+To Pimp a Butterfly sold 324,000 copies in the United States in its first week of release, earning a chart debut at number one on the US Billboard 200, while also becoming Lamar's first number-one album in the UK. It was eventually certified platinum by the Recording Industry Association of America (RIAA) and sold one million copies in the United States by 2017. Five singles were released in promotion of the album, including the top 40 hit "I". Lamar also supported the album with the Kunta's Groove Sessions Tour from late 2015 to early 2016.
+The album has received widespread acclaim from critics, who praised its musical scope and the social relevance of Lamar's lyrics. It earned Lamar seven nominations at the 2016 Grammy Awards, including a win for Best Rap Album and an Album of the Year nomination. He received four additional nominations for other collaborations from that year, receiving a total of 11 Grammy nominations, which was the most nominations for any rapper in a single night. The most critically acclaimed album of 2015 as well as one of the most critically acclaimed of its entire decade, it topped The Village Voice's annual Pazz & Jop poll of American critics nationwide, and was also ranked as the best album of 2015 by many other publications. In the years following its release, several publications named To Pimp a Butterfly one of the best albums of the 2010s; in 2020, the album was ranked 19th on Rolling Stone's updated list of the 500 Greatest Albums of All Time.
 
-In 2014, after Macklemore & Ryan Lewis’s <i>The Heist</i> won the Best Rap Album Grammy over Kendrick Lamar’s <i>good kid, m.A.A.d city</i>, Macklemore posted an apology to Kendrick, reading, in part, "You got robbed. I wanted you to win. You should have.”<br />
-He wasn’t alone. Flush with heat rocks like “Backseat Freestyle” and moody turns like “Swimming Pools (Drank),” <i>good kid, m.A.A.d city</i> was an epochal moment for Kendrick Lamar and West Coast hip-hop—but a bigger moment was still on the horizon. Meandering far from <i>m.A.A.d. city</i>’s Compton street soliloquies, the follow-up <i>To Pimp a Butterfly</i> is a searing portrait of the black experience in America as well as a document of Kendrick’s own personal awakening. He juxtaposes pain (“Institutionalized,” “The Blacker the Berry,” “King Kunta”) and depression (“u”) with joyful celebration (“i”). Kendrick holds a microscope up to the consequences of racialized self-hatred and class subjugation on “Wesley’s Theory” and “Complexion,” while “How Much a Dollar Cost” and “You Ain't Gotta Lie (Momma Said)” are dramatic, personal testimonials about fame and his changing world. And in the wake of increased gun violence and police brutality, the powerhouse “Alright” became a rallying cry for the Black Lives Matter movement. The music is as complex as his thoughts, favoring deep jazz, fragrant coffeehouse poetry, and dirty P-funk with help from a phalanx of collaborators ranging from Kamasi Washington and Thundercat to Pharrell Williams and Boi-1da.<br />
-<i>To Pimp a Butterfly</i> is Kendrick’s <i>Guernica</i>—a timeless, powerful, and fascinating political statement—as well as one of the sharpest left turns in rap history. The year after the Grammy snub, <i>TPAB</i> elevated Kendrick from one of the best rappers in the game to one of the best artists of all time. And, surprise! It also won the Grammy for Best Rap Album. (Then he won another for 2017's <i>DAMN</i>, plus a Pulitzer for good measure). Despite the adage, sometimes you <i>do</i> remember who came in second.
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-pimp-a-butterfly/1440828886" >}}
-
-
-
-
-
 ## Videos
 ### Kendrick Lamar - King Kunta
 {{< youtube id="hRK7PVJFbS8" title="Kendrick Lamar - King Kunta" >}}<br>
-
 ### More Videos
 
 - [Kendrick Lamar - i (Official Video)](https://www.youtube.com/watch?v=8aShfolR6w8)
@@ -63,13 +66,17 @@ He wasn’t alone. Flush with heat rocks like “Backseat Freestyle” and moody
 - [Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
 - [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly) |
-| Label          | Top Dawg Entertainment |
+| Wikipedia URL | https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly |
+| Apple Music Summary | In 2014, after Macklemore & Ryan Lewis’s <i>The Heist</i> won the Best Rap Album Grammy over Kendrick Lamar’s <i>good kid, m.A.A.d city</i>, Macklemore posted an apology to Kendrick, reading, in part, "You got robbed. I wanted you to win. You should have.”<br /><br>He wasn’t alone. Flush with heat rocks like “Backseat Freestyle” and moody turns like “Swimming Pools (Drank),” <i>good kid, m.A.A.d city</i> was an epochal moment for Kendrick Lamar and West Coast hip-hop—but a bigger moment was still on the horizon. Meandering far from <i>m.A.A.d. city</i>’s Compton street soliloquies, the follow-up <i>To Pimp a Butterfly</i> is a searing portrait of the black experience in America as well as a document of Kendrick’s own personal awakening. He juxtaposes pain (“Institutionalized,” “The Blacker the Berry,” “King Kunta”) and depression (“u”) with joyful celebration (“i”). Kendrick holds a microscope up to the consequences of racialized self-hatred and class subjugation on “Wesley’s Theory” and “Complexion,” while “How Much a Dollar Cost” and “You Ain't Gotta Lie (Momma Said)” are dramatic, personal testimonials about fame and his changing world. And in the wake of increased gun violence and police brutality, the powerhouse “Alright” became a rallying cry for the Black Lives Matter movement. The music is as complex as his thoughts, favoring deep jazz, fragrant coffeehouse poetry, and dirty P-funk with help from a phalanx of collaborators ranging from Kamasi Washington and Thundercat to Pharrell Williams and Boi-1da.<br /><br><i>To Pimp a Butterfly</i> is Kendrick’s <i>Guernica</i>—a timeless, powerful, and fascinating political statement—as well as one of the sharpest left turns in rap history. The year after the Grammy snub, <i>TPAB</i> elevated Kendrick from one of the best rappers in the game to one of the best artists of all time. And, surprise! It also won the Grammy for Best Rap Album. (Then he won another for 2017's <i>DAMN</i>, plus a Pulitzer for good measure). Despite the adage, sometimes you <i>do</i> remember who came in second. |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
+| Label          | Top Dawg Entertainment |
 | Catalog Number | 0602547311009 |
 | Notes | Released in a gatefold cover. No track durations mentioned on the release.  [a2402706] of [a1628709]'  The credit section inside gatefold contains some errors: – Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa. – Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"  [Back cover] ℗© 2015 Aftermath/Interscope Records. […] Made in the EU. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands |
+| Discogs URL    | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly) |

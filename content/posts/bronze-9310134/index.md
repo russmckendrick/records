@@ -10,6 +10,14 @@ cover:
     image: "bronze-9310134.jpg"
     alt: "Bronze by Crippled Black Phoenix"
     caption: "Bronze by Crippled Black Phoenix"
+additional_images:
+    - "https://i.discogs.com/mjkuN3iB5Z8Cqj7AFUA_WdY_lQ50azt8-U1peGxR5n4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM1MzY1/MS0yMzE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/65C1LGyIW-dkqYxxS0H8tnIUKkZf5WWCqLSWqXyyg7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM1MzY1/OC04MDMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/USTZMb89i7_vy3G8xo4LWGvEwC9_xhc5yvlKOju5fLg/rs:fit/g:sm/q:90/h:319/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM1MzY2/NC01ODY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/B_dW2njDyZ5pY688Y04_8XhcziPVELD4uH1pYrqXTFg/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM2Njgx/OC00MTM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/z0FOYCjlcd6SEWmVspdOD2D1Hdl-bm-rr6dRY35zMQw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM2Njgx/OS03NjQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/-2tLrl9Dw-S6Gl4xXUh6iDZsdyHRQmLeZLb6iDVAi20/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM2Njgy/MC05NjA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/FvJnkOC-YY7DxOHpBUIFrYr2l6uUTYSP53cgRMJjTyg/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAx/MzQtMTQ4NTM2Njgx/OS0yMDY2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
@@ -31,20 +39,12 @@ styles: ["Post Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bronze-deluxe-edition/1170690446" >}}
-
-
-
-
-
 ## Videos
 ### Crippled Black Phoenix - Bronze (Full Album)
 {{< youtube id="O5ka3u6su3M" title="Crippled Black Phoenix - Bronze (Full Album)" >}}<br>
-
 ### More Videos
 
 - [Crippled Black Phoenix - Dead Imperial Bastard](https://www.youtube.com/watch?v=KgjifMxvzQQ)
@@ -63,13 +63,15 @@ styles: ["Post Rock", "Prog Rock"]
 - [Crippled Black Phoenix - A future Shock](https://www.youtube.com/watch?v=qohb-MbsuLU)
 - [Crippled Black Phoenix - Winning A Losing Battle](https://www.youtube.com/watch?v=jhWfxcOGQnk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Crippled Black Phoenix - Bronze](https://www.discogs.com/release/9310134-Crippled-Black-Phoenix-Bronze) |
-| Label          | Season Of Mist |
 | Format         | Vinyl 2× LP Album Limited Edition (Green) |
+| Label          | Season Of Mist |
 | Catalog Number | SOM 399LP |
 | Notes | Limited edition of 200 copies worldwide.  Released in gatefold sleeve with printed insert.  First cat.# on spine, second cat.# on sticker.  On label print: A=B B=R C=O D=N |
+| Discogs URL    | [Crippled Black Phoenix - Bronze](https://www.discogs.com/release/9310134-Crippled-Black-Phoenix-Bronze) |

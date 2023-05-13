@@ -11,6 +11,10 @@ cover:
     image: "in-the-right-place-6772705.jpg"
     alt: "In The Right Place by Dr. John"
     caption: "In The Right Place by Dr. John"
+additional_images:
+    - "https://i.discogs.com/jJ1TL9zapevarhKcV3d3IqFY1MEOMZSoupMGESwUtI4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/MS02NTc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/FseJetQmKN60ZXfxKuQyPXx62Lf4anhvyBz_1Rs3jls/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/Ny0yODE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/3SxfDo_p2gLM9ctDtYuJsWbIBnMyjWDMYW0aYX0Fsvo/rs:fit/g:sm/q:90/h:200/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI2/NC00MTMyLmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Bayou Funk", "Soul", "Funk"]
 ---
@@ -33,22 +37,14 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 
 <!-- section break -->
 
-
-Working with producer Allen Toussaint and the Meters, the second installment of Dr. John's early-'70s New Orleans funk trilogy resulted in a righteous hit single ("Right Place, Wrong Time") and funk arrangements synchronized like the gears of a finely tuned watch. Dr. John borrows "I Been Hoodood" from his minstrel-singing grandfather, illuminates "Life" with flashes of New Orleans piano boogie, and takes a raffish soft-shoe stroll through the Crescent City demimonde on "Such a Night."
-
-
-
+In the Right Place is the sixth album by the New Orleans R&B artist Dr. John. The album was released on Atco Records in 1973, and became the biggest selling album of Dr. John's career.
+The song "Such a Night" was also performed as part of The Band's The Last Waltz concert, made famous by Martin Scorsese's film.The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching the Top 10 in both the U.S. and Canada. The album itself was Dr. John's highest charting album on the Billboard 200, spending 33 weeks on the chart and peaking at #24 on June 23, 1973.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-right-place/145077581" >}}
-
-
-
-
-
 ## Videos
 ### Right Place Wrong Time
 {{< youtube id="zw-2CTx4YgY" title="Right Place Wrong Time" >}}<br>
-
 ### More Videos
 
 - [Same Old Same Old](https://www.youtube.com/watch?v=R9FXjsc9uBs)
@@ -62,13 +58,17 @@ Working with producer Allen Toussaint and the Meters, the second installment of 
 - [I Been Hoodood](https://www.youtube.com/watch?v=8abnes8TpW8)
 - [Cold Cold Cold (Single)](https://www.youtube.com/watch?v=lO8RbsTX8Sg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Dr. John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |
-| Label          | ATCO Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Right_Place |
+| Apple Music Summary | Working with producer Allen Toussaint and the Meters, the second installment of Dr. John's early-'70s New Orleans funk trilogy resulted in a righteous hit single ("Right Place, Wrong Time") and funk arrangements synchronized like the gears of a finely tuned watch. Dr. John borrows "I Been Hoodood" from his minstrel-singing grandfather, illuminates "Life" with flashes of New Orleans piano boogie, and takes a raffish soft-shoe stroll through the Crescent City demimonde on "Such a Night." |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | ATCO Records |
 | Catalog Number | 0349791111 |
 | Notes | Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine,  like the original 1973 cover. |
+| Discogs URL    | [Dr. John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |

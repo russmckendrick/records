@@ -10,6 +10,10 @@ cover:
     image: "glow-25308085.jpg"
     alt: "Glow by Reef"
     caption: "Glow by Reef"
+additional_images:
+    - "https://i.discogs.com/F-LBEtUoZWuOOflDtn3tPAri8t7nrZZsXUeS5fXMLRw/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzA4/MDg1LTE2NzMzNjcw/ODctMjY4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/wsrFD0fj_t9JqJb6bYHlpQm1vvYATR_Kq-rnuK5mTqw/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzA4/MDg1LTE2NzMzNjcw/OTctODM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/1v58ATTFXD1gHtN9acSpbeqMKIXj4BFPVsk9XMPv9Gk/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzA4/MDg1LTE2NzMzNjcx/MDItMzY1OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,20 +37,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Glow is the second studio album by English rock band Reef. Produced by the band and George Drakoulias, the album was released on 27 January 1997 through Sony Soho Square and supported by the singles "Place Your Hands", "Come Back Brighter", "Consideration" and "Yer Old". Glow reached number one on the UK Albums Chart.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glow/424193244" >}}
-
-
-
-
-
 ## Videos
 ### Place Your Hands
 {{< youtube id="cJ-kDEXcR3c" title="Place Your Hands" >}}<br>
-
 ### More Videos
 
 - [Place Your Hands -  Reef -  Glow 1997](https://www.youtube.com/watch?v=e0iN7Mg73pQ)
@@ -63,13 +60,17 @@ styles: ["Alternative Rock"]
 - [Yer Old](https://www.youtube.com/watch?v=Eugzm7Q7Tvs)
 - [Lullaby](https://www.youtube.com/watch?v=dSS4uoDEVBM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Glow_(Reef_album) |
+| Wikipedia Summary | Glow is the second studio album by English rock band Reef. Produced by the band and George Drakoulias, the album was released on 27 January 1997 through Sony Soho Square and supported by the singles "Place Your Hands", "Come Back Brighter", "Consideration" and "Yer Old". Glow reached number one on the UK Albums Chart. |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Reef - Glow](https://www.discogs.com/release/25308085-Reef-Glow) |
-| Label          | Hassle Hindsight |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Glow-in-the-dark) |
+| Label          | Hassle Hindsight |
 | Catalog Number | HOFFSIDE009 |
 | Notes | 25th anniversary re-press, including brand new liner notes. Glow-in-the-dark vinyl, non-gatefold matt finish sleeve, supplied in transparent bag with hype sticker. Limited to 500 copies, hand numbered on rear of sleeve. |
+| Discogs URL    | [Reef - Glow](https://www.discogs.com/release/25308085-Reef-Glow) |

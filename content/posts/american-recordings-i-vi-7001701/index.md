@@ -10,6 +10,12 @@ cover:
     image: "american-recordings-i-vi-7001701.jpg"
     alt: "American Recordings I - VI by Johnny Cash"
     caption: "American Recordings I - VI by Johnny Cash"
+additional_images:
+    - "https://i.discogs.com/sSMzqTWs9FxcnntB_uDG0euN0F_o0xwCudCnMaH7MFI/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/My04Nzg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/mY5LoocOrqzF03gACjJ7K5rHmYGeYKc0XBBBFDJ_sbI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/My02NTA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/oqNdAqWqi6cVlg20JPGXlEjHusF5XdMKlj5zJF0uBtA/rs:fit/g:sm/q:90/h:4027/w:531/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/MS01OTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/yvQiW5lUulK2v95jFNonMTjadiq-hcoO3II_lt4l_8s/rs:fit/g:sm/q:90/h:3800/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/MS00MjI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/X1AckXSMHaMxnbXNfWEQDH5qmCsUVAJUouA3nwIvaso/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODY2/Mi02MTkyLmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -105,19 +111,18 @@ styles: []
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Johnny Cash - American Recordings I - VI](https://www.discogs.com/release/7001701-Johnny-Cash-American-Recordings-I-VI) |
-| Label          | American Recordings |
 | Format         | Vinyl 7× LP (180 Gram), Box Set Compilation |
+| Label          | American Recordings |
 | Catalog Number | 060254721702 |
 | Notes | 7 LP Box Set Contains Audiophile 180g Vinyl Reissues Of All Six Of Cash's American Recordings Albums  Repackaging these 2014 'Back To Black' re-issues in one box set: [r=5516812] (1994) [r=5516845] (1996) [r=5516860] (2000) [r=5516887] (2002) [r=5516900] (2006) [r=5516904] (2010) The only difference: there's one coupon for mp3 downloads in the box set instead of a coupon with each separate album. |
+| Discogs URL    | [Johnny Cash - American Recordings I - VI](https://www.discogs.com/release/7001701-Johnny-Cash-American-Recordings-I-VI) |

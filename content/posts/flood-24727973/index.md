@@ -10,6 +10,8 @@ cover:
     image: "flood-24727973.jpg"
     alt: "Flood by Headswim"
     caption: "Flood by Headswim"
+additional_images:
+    - "https://i.discogs.com/KfhGiqCP3WqW5DHVKuV0zDZ2zr_8mVWqQvpOQzbe04M/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI3/OTczLTE2NjUyMjYy/ODItMzY3MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -43,31 +45,28 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-flood-in-our-heads-ep/1169991821" >}}
-
-
-
-
-
 ## Videos
 ### Headswim - Gone To Pot (HQ)
 {{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}<br>
-
 ### More Videos
 
 - [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(Headswim_album) |
+| Wikipedia Summary | Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl". |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Headswim - Flood](https://www.discogs.com/release/24727973-Headswim-Flood) |
-| Label          | Epic |
 | Format         | Vinyl LP Album Reissue, Vinyl LP (Yellow) |
+| Label          | Epic |
 | Catalog Number | TAR055V |
 | Notes | 2022 reissue (black vinyl) with second vinyl (yellow) in gatefold sleeve with additional notes |
+| Discogs URL    | [Headswim - Flood](https://www.discogs.com/release/24727973-Headswim-Flood) |

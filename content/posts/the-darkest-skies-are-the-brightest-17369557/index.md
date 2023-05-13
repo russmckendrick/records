@@ -10,6 +10,8 @@ cover:
     image: "the-darkest-skies-are-the-brightest-17369557.jpg"
     alt: "The Darkest Skies Are The Brightest by Anneke van Giersbergen"
     caption: "The Darkest Skies Are The Brightest by Anneke van Giersbergen"
+additional_images:
+    - "https://i.discogs.com/NGd77H68iLiZnDNJC84kVYra26HRR10sOgd_8sh0xqc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY5/NTU3LTE2MTMzMDk3/ODEtOTY0Ny5qcGVn.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
@@ -43,32 +45,26 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-darkest-skies-are-the-brightest/1541054468" >}}
-
-
-
-
-
 ## Videos
 ### ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)
 {{< youtube id="WMuysO4TpWw" title="ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)" >}}<br>
-
 ### More Videos
 
 - [ANNEKE VAN GIERSBERGEN - Hurricane (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=T8PA4w1iSug)
 - [ANNEKE VAN GIERSBERGEN - I Saw A Car (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=fCfoKtDs0XE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Anneke van Giersbergen - The Darkest Skies Are The Brightest](https://www.discogs.com/release/17369557-Anneke-van-Giersbergen-The-Darkest-Skies-Are-The-Brightest) |
-| Label          | Inside Out Music |
 | Format         | Vinyl LP Album (180g), CD Album |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 577 |
 | Notes | Comes as 180 gram black vinyl in a gatefold sleeve. Contains a two page printed lyrics sheet and the album on a CD. Front cover is signed when sold through Anneke van Giersbergen's online merchstore.     Made in the EU. |
+| Discogs URL    | [Anneke van Giersbergen - The Darkest Skies Are The Brightest](https://www.discogs.com/release/17369557-Anneke-van-Giersbergen-The-Darkest-Skies-Are-The-Brightest) |

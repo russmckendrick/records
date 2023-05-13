@@ -10,6 +10,9 @@ cover:
     image: "yesterday-today-1992-1997-26197274.jpg"
     alt: "Yesterday Today 1992-1997 by Ocean Colour Scene"
     caption: "Yesterday Today 1992-1997 by Ocean Colour Scene"
+additional_images:
+    - "https://i.discogs.com/Gw4PxwGDo9rhCvr22LQMzXbd02xkBUf79UBxaMI3Fh4/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk3/Mjc0LTE2NzcxNTE1/MjAtNzI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/AhWQaUbJBbzjRuinlmwdhWg_rwoxLIG5DCxTTvQ_yQA/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk3/Mjc0LTE2NzcxNTE1/MjAtMjA0OC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ---
@@ -61,19 +64,18 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Ocean Colour Scene - Yesterday Today 1992-1997](https://www.discogs.com/release/26197274-Ocean-Colour-Scene-Yesterday-Today-1992-1997) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Compilation Reissue (Blue), Vinyl 2× LP Album Reissue (Orange), Vinyl 2× LP Album Reissue (Red), Box Set Limited Edition |
+| Label          | Demon Records |
 | Catalog Number | DEMRECBOX75 |
 | Notes |   |
+| Discogs URL    | [Ocean Colour Scene - Yesterday Today 1992-1997](https://www.discogs.com/release/26197274-Ocean-Colour-Scene-Yesterday-Today-1992-1997) |

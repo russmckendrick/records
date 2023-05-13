@@ -10,6 +10,19 @@ cover:
     image: "dumbing-up-18417163.jpg"
     alt: "Dumbing Up by World Party"
     caption: "Dumbing Up by World Party"
+additional_images:
+    - "https://i.discogs.com/e2v17fxJReisQF_LvCtKI7nQDDBKMHcrUifh1ASUiJc/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MTkxNDMw/NzgtNDk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/VbHSOICbfKAlc9oXPokHmOLh2wyWc4JuVDdxVtgpKGY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTE5/MDEtMzA1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/srz_uuirxvVyaCK51AY-DZMwUtcTh3a9EzKP23lU-e4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTE4/NzctOTAxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/kc67EeD21YyK4cQa2U3r0BG2-0MCG-fxca_24RcYoGY/rs:fit/g:sm/q:90/h:52/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTE4/NTAtODE0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/YNCQvXLXnMIL2FPnN4ezVgWTgLRtcEkiy9GBh-6c4Rc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIx/MjAtMjU0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/M6rX4n0hXOvy6_UKDv3Dqxy1U73vZKxi1KafZGultj8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIx/MjEtOTUyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/1JKm0zFm3L41id9gr-0zBDRSVzr6F-IwmBYPEgPHFdE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIw/OTQtNTY1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/5X3b25QQZ7rhxu5gpDIi6s2Jv2VZ2_Tk4-FeAmDdFHA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIx/MzQtMzA0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/78LB17S0E55swR9jYK4JiWodMQYKFK3KHkHT_OkxVs4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIw/ODYtNzQxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/_3zsurLlIZ-9i1b5ATv4nKEVTjBSlV9_YIjLXfZS8uU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIw/NzgtODAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/ckouyFZqOAZMOgtQeu0zpQczFQ1f7vJVlzI0KOL1Y8A/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjIyMTIw/OTktNDc4My5qcGVn.jpeg"
+    - "https://i.discogs.com/aRxRPCJjaFoQclYWjJoIjtswhHGdXY7GTlpbppo3qyQ/rs:fit/g:sm/q:90/h:783/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MTYzLTE2MjgyNDU5/MDktOTY3NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -43,20 +56,13 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Dumbing Up is the fifth and final studio album by World Party, released in 2000 on Karl Wallinger's own record label.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dumbing-up/711981890" >}}
-
-
-
-
-
 ## Videos
 ### World Party - What Does It Mean Now?
 {{< youtube id="4Bc56d0jtdk" title="World Party - What Does It Mean Now?" >}}<br>
-
 ### More Videos
 
 - [World Party - Is It Like Today?](https://www.youtube.com/watch?v=0tyLGi2LtlU)
@@ -68,13 +74,17 @@ styles: ["Alternative Rock"]
 - [See the Light](https://www.youtube.com/watch?v=9oWxP5Pk8Wc)
 - [World Party - Always On My Mind](https://www.youtube.com/watch?v=rN1GCf3MwoE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dumbing_Up |
+| Wikipedia Summary | Dumbing Up is the fifth and final studio album by World Party, released in 2000 on Karl Wallinger's own record label. |
 | Release Year   | 2021                                   |
-| Discogs Link   | [World Party - Dumbing Up](https://www.discogs.com/release/18417163-World-Party-Dumbing-Up) |
-| Label          | Seaview Records Ltd. |
 | Format         | Vinyl LP Album Misprint Reissue Remastered Stereo (180g) |
+| Label          | Seaview Records Ltd. |
 | Catalog Number | Seaview 5LP |
 | Notes | 180 gram vinyl reissue. This 2 LP version is first time on vinyl.  This release combines the tracks from the original 2000 UK CD release and the 2006 US CD release and adds "I Want to Be Free," "Words" and "Photograph."  Spine erroneously reads "Private Revolution."  Lyrics for "Who Are You?" are actually those of "What Does It Mean Now?"  Rear cover & labels: Manufactured in the USA. |
+| Discogs URL    | [World Party - Dumbing Up](https://www.discogs.com/release/18417163-World-Party-Dumbing-Up) |

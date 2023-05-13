@@ -11,6 +11,18 @@ cover:
     image: "hotel-california-6623165.jpg"
     alt: "Hotel California by Eagles"
     caption: "Hotel California by Eagles"
+additional_images:
+    - "https://i.discogs.com/sNmUG8YZWKxoT3qK9dqbvhLm8Ic875W3Z9Lb65kCLyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUyOTc4NTYx/MC0xODEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/B5NJki8SlPQTkj4aZxy9iTjuIT48t23KtIb3b1LLvJ4/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUyOTc4NTYw/NS02NjEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/hk2hGyacodhskSKmDHLfNChCrm8E6NE8dyMvbuTiUCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUyOTc4NTYw/OS0yNzc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/HS8CqXgjpEqBggEKpFsZs5oXaxZsjgj_4LqqhA5IGaM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTQzNDQ3ODc4/MC0yOTY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/6bEuoDfY2ivx5XQ1lSplRbsG2zMHrl2byr6jubbsAtY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTQzNDQ3ODc4/MC00NjEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/CQF6MK09D_AvPLQr_9qcq-M0zHcXCKFtJTueE5jauM8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUyOTc4NTYw/Ny02Njc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/T0BpDpXLaHE2ncWHKny42sijT567u_ivK1ZZEnJjOg0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUyOTc4NTYw/OC03MzE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/cL3a7xOcskwQ6hy99BuAdSNzpJpURgQJqhNlQg87-ys/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUyOTc4NTYw/OC01NTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/KxsX1fLsijkh_oJnwkxw1o_jTIHfInJhRo1dH3xvjWo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTQyMzMxOTQ4/OS0yMjA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/CjDUycbDybG1LvmW3_AxwfI8RZXuXi7qMijCN-0daJ4/rs:fit/g:sm/q:90/h:174/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUwODY5Mzgz/Mi05NzI4LnBuZw.jpeg"
+    - "https://i.discogs.com/RSMKwVKQ2Mn8NH2-gm6M1so-TLMCkpcik4IL46IyDPE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjMx/NjUtMTUwODY5Mzg2/Mi01MDk3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Country Rock"]
 ---
@@ -31,23 +43,14 @@ styles: ["Country Rock"]
 
 <!-- section break -->
 
-
 To put the Eagles’ mid-’70s dominance into perspective, consider this: In early 1976, the group released <i>Their Greatest Hits 1971-1975</i>, a compilation that would spend the next <i>half decade</i> in the Billboard Top 200 and go on to become the biggest-selling American album of the 20th century. But here’s the crazy thing: The band’s most popular, career-defining song was still to come. That honor, of course, goes to the title track of their 1976 smash <i>Hotel California</i>, the record where the Eagles expunged any lingering trace of their country-rock roots and took up residence in the football stadiums of the world.<br />
 That shift can be largely attributed to the new kid in town: Joe Walsh, who replaced outgoing founding guitarist Bernie Leadon. Formerly the frontman of dirty-boogie outfit the James Gang and an eccentric, hard-rockin’ solo artist in his own right, Walsh immediately puts his stamp on the band with the opening “Hotel California,” where he and six-string wingman Don Felder added the exclamation point to Don Henley’s eerie, enigmatic narrative with one of the most dramatic, finger-aching guitar solos in the rock canon. That swagger spills over into the brontosaurus stomp of “Victim of Love” (the closest this band ever got to heavy metal) and the disco-fied “Life in the Fast Lane,” an account of Hollywood hedonism as alluringly decadent as a penthouse masquerade ball with an open bar. But <i>Hotel California</i> is both a portrait of ’70s excess from behind the velvet rope and the soundtrack to the inevitably cruel comedown. In the sweeping yet cynical piano ballad “The Last Resort,” Henley is already bracing for the moment when the party has to end—not just for a band that would split within four years, but for the very notion of American capitalism itself.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hotel-california/635770200" >}}
-
-
-
-
-
 ## Videos
 ### Eagles - Hotel California (Lossless Audio)
 {{< youtube id="Br3KkvgMAZY" title="Eagles - Hotel California (Lossless Audio)" >}}<br>
-
 ### More Videos
 
 - [Eagles - Hotel California (Live 1977) (Official Video) [HD]](https://www.youtube.com/watch?v=09839DpTctU)
@@ -63,13 +66,17 @@ That shift can be largely attributed to the new kid in town: Joe Walsh, who repl
 - [The True Meaning of Hotel California](https://www.youtube.com/watch?v=yVkbwqKBO4E)
 - [Try and Love Again (2013 Remaster)](https://www.youtube.com/watch?v=yNnH1sN0dw8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [Eagles - Hotel California](https://www.discogs.com/release/6623165-Eagles-Hotel-California) |
-| Label          | Asylum Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hotel_California_(Eagles_album) |
+| Wikipedia Summary | Hotel California is the fifth studio album by American rock band Eagles. Released on December 8, 1976, by Asylum Records, Hotel California was recorded by Bill Szymczyk at the Criteria and Record Plant studios between March and October 1976. It was the band's first album with guitarist Joe Walsh, who had replaced founding member Bernie Leadon, and the last to feature founding bassist Randy Meisner. The front cover is a photograph of the Beverly Hills Hotel by David Alexander.<br>Hotel California topped the US Billboard Top LPs & Tapes chart. At the 20th Grammy Awards, the title track won Record of the Year, and "New Kid in Town" won Best Arrangement for Voices. The album was also nominated for Album of the Year but lost to Fleetwood Mac's Rumours. Three singles were released from the album, with the title track and "New Kid in Town" topping the Billboard Hot 100 and "Life in the Fast Lane" reaching No. 11.<br>Hotel California is one of the best-selling albums of all time. It has been certified 26× Platinum in the US, and has sold over 32 million copies worldwide, making it the band's best-selling album after Their Greatest Hits (1971–1975). It has been ranked as one of the greatest albums of all time. In 2003 and 2012, it was ranked number 37 on Rolling Stone's list of "The 500 Greatest Albums of All Time". A 40th anniversary special edition of Hotel California was released in November 2017.<br><br> |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Gatefold, 180 Gram) |
+| Label          | Asylum Records |
 | Catalog Number | RRM1-1084 |
 | Notes | ℗ & © 1976 Elektra/Asylum Records for the U.S. and WEA International Inc. for the world outside of the U.S.  All Rights Reserved. Marketed by Warner Strategic Marketing, a Warner Music Group Company. Made in EU. LC02982   LP is pressed on 180 gram vinyl and replicates the original album packaging - which means that includes a replica of the poster from the original issue with band photos by Norman Seeff in full colour. |
+| Discogs URL    | [Eagles - Hotel California](https://www.discogs.com/release/6623165-Eagles-Hotel-California) |

@@ -10,6 +10,11 @@ cover:
     image: "white-music-23678336.jpg"
     alt: "White Music by XTC"
     caption: "White Music by XTC"
+additional_images:
+    - "https://i.discogs.com/TGUS8ssVryMqNh8aTYLdzaHWK_9X7wVETm3w92Mn6yA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc4/MzM2LTE2NTYwNzYz/MjYtMTMwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/67JOh72-PA5v0Da9kOa4cDVm58BmRBAIvFE6ximpoAc/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc4/MzM2LTE2NTYwNzYz/NDEtNDI2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/xIVL0wMjWyWHtDtD8LLQTNWZJACaEz3YQ1JMNcG2Fd4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc4/MzM2LTE2NTgyNTI4/ODctMTE0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/27I2BLDXFbGCPV0Q2A_cZ_WFDe-5eAVEv4hBVJekWyY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc4/MzM2LTE2NTgyNTI4/ODgtMzYwMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
@@ -33,20 +38,14 @@ styles: ["New Wave", "Post-Punk"]
 
 <!-- section break -->
 
-
-
-
+White Music is the debut studio album by the English rock band XTC, released on 20 January 1978. It was the follow-up to their debut, 3D EP, released three months earlier. White Music reached No. 38 in the UK Albums Chart and spawned the single "Statue of Liberty", which was banned by the BBC for the lyric "In my fantasy I sail beneath your skirt". In April 1978, the group rerecorded "This Is Pop" as their third single.
+Originally titled Black Music, referring to black comedy, the title was changed at the suggestion of both Virgin Records and the band's manager. The resultant title, White Music, refers to white noise.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-music-bonus-track-version/724360813" >}}
-
-
-
-
-
 ## Videos
 ### Hang On To The Night (2001 Remaster)
 {{< youtube id="bc4ZYVVBog8" title="Hang On To The Night (2001 Remaster)" >}}<br>
-
 ### More Videos
 
 - [XTC white music](https://www.youtube.com/watch?v=px-E3Fw253o)
@@ -70,13 +69,17 @@ styles: ["New Wave", "Post-Punk"]
 - [Instant Tunes (2001 Remaster)](https://www.youtube.com/watch?v=gOCiMxfjswM)
 - [Into The Atom Age (2001 Remaster)](https://www.youtube.com/watch?v=3G7leRPG9-0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/White_Music |
+| Wikipedia Summary | White Music is the debut studio album by the English rock band XTC, released on 20 January 1978. It was the follow-up to their debut, 3D EP, released three months earlier. White Music reached No. 38 in the UK Albums Chart and spawned the single "Statue of Liberty", which was banned by the BBC for the lyric "In my fantasy I sail beneath your skirt". In April 1978, the group rerecorded "This Is Pop" as their third single.<br>Originally titled Black Music, referring to black comedy, the title was changed at the suggestion of both Virgin Records and the band's manager. The resultant title, White Music, refers to white noise. |
 | Release Year   | 2022                                   |
-| Discogs Link   | [XTC - White Music](https://www.discogs.com/release/23678336-XTC-White-Music) |
-| Label          | Ape House |
 | Format         | Vinyl LP Album Reissue Stereo (200 Gram) |
+| Label          | Ape House |
 | Catalog Number | APELP101 |
 | Notes | Newly cut from approved by Andy Partridge. |
+| Discogs URL    | [XTC - White Music](https://www.discogs.com/release/23678336-XTC-White-Music) |

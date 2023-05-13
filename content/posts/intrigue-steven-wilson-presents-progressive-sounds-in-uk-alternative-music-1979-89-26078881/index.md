@@ -10,6 +10,10 @@ cover:
     image: "intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26078881.jpg"
     alt: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson"
     caption: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson"
+additional_images:
+    - "https://i.discogs.com/mq-1_qsuoAgdsucm6aBfMwgeL7qAMZWs_JV4Y0lroSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjMtNTcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/ihFvhFK8ie7SQslomA3Ed_hOnAG_Oop9qK-Kg6b2Lp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjQtNjc3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/E6MYm2Yhv9hsS8SANsPmpcKyEw-LklLHHYiMy3QOn0Q/rs:fit/g:sm/q:90/h:750/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjAtNzM2Mi5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
@@ -79,16 +83,10 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Wire - I should have known better
 {{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
-
 ### More Videos
 
 - [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
@@ -97,13 +95,15 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 - [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
 - [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)](https://www.discogs.com/release/26078881-Steven-Wilson-Intrigue-Steven-Wilson-Presents-Progressive-Sounds-In-UK-Alternative-Music-1979-89) |
-| Label          | Demon Records |
 | Format         | Box Set, Vinyl 7× LP Compilation (140g) |
+| Label          | Demon Records |
 | Catalog Number | DEMRECBOX78 |
 | Notes | UK box set edition 7 x 140g vinyl compilation.  Three other versions exist: *  [url=/release/26064292]DEMRECBOX78X / 5014797908383 - (7 x 140g Signed Edition)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]  [ERRATUM]: F3:  [m=829865], printed as They All Run After The Carving Knife |
+| Discogs URL    | [Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)](https://www.discogs.com/release/26078881-Steven-Wilson-Intrigue-Steven-Wilson-Presents-Progressive-Sounds-In-UK-Alternative-Music-1979-89) |

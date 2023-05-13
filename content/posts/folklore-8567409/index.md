@@ -10,6 +10,18 @@ cover:
     image: "folklore-8567409.jpg"
     alt: "Folklore by Big Big Train"
     caption: "Folklore by Big Big Train"
+additional_images:
+    - "https://i.discogs.com/UUFrbPYL19NC4AQjt2eV1Lz3_SNotmkGg6k_mzttSiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDE5Njk3/MS03MjU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ppRlkXiVKO0bnteNXDkQy7G5LzhRZvlt8-ItKXrPARw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDg0/Mi02MDE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/wbAHohzZmRhJyXTXcMQUDE6O8XMQHMpFJPcwrDZyrxc/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDg1/Ni0xMjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/CQabRH8bijqzTa62xcwQM7mIHnmMzhACCr6xLYQXOUE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDg2/NC04NDkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Pt0bzhGI41LCm_QEh-FbMjNbWb7BpxlBibetzRPYebQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDg3/NC02ODIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/mByGOHB_aqxxxNbxKTNAFnSKEFz86iPOxtWwdhS62xw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDg4/NC0xNzk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/v0JxGzHV4irq8hLk1l3svJqtqeKHF3Quqloto_I-5Jg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDg5/Mi01NzU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/g4yuwfmnkLXO5okLHvrOhN9a0mYBtIPdiP3475JmSJ8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDkw/NC02ODQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Dwf_KbiFTqBMAMb3e8UXt0v32xh63qGoXM96iDONA5E/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDkx/Mi04NzIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/emGgYSwG1TwhIBFrx956O1m9SQuLCReByBir0yAe1lw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDky/MS0zMzAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/oeik0LVGIoQlYOR_XNYn_O7GxnZIMdEjaDsKSI5Hxgw/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njc0/MDktMTQ2NDI1MDky/OS0zMzE4LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock"]
 ---
@@ -32,33 +44,31 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+Folklore is the ninth studio album by the English progressive rock band Big Big Train. Released on 27 May 2016, it was recorded at English Electric Studios, produced by Big Big Train, and mixed and mastered at Aubitt Studios by Rob Aubrey. It is the first studio album to feature Rachel Hall and then-Beardfish lead vocalist Rikard Sjöblom as official members.
+The album was released in multiple formats: standard and High Res downloads, as a single CD, and as a double-LP vinyl release that features two additional tracks, "Mudlarks" and "Lost Rivers of London", both of which were previously released on the 2015 EP Wassail. Both versions of the album contain the title track from Wassail, meaning that the vinyl release features all three of the original songs on the EP.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/folklore/1096218321" >}}
-
-
-
-
-
 ## Videos
 ### big big train - lost rivers of London
 {{< youtube id="FaaOPtE1i_s" title="big big train - lost rivers of London" >}}<br>
-
 ### More Videos
 
 - [Big Big Train - Brooklands](https://www.youtube.com/watch?v=sOw-d1jQIl8)
 - [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-{2016}](https://www.youtube.com/watch?v=O9l-ROlHqg0)
 - [Folklore by Big Big Train](https://www.youtube.com/watch?v=0D9YF3e4Gac)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Folklore_(Big_Big_Train_album) |
+| Wikipedia Summary | Folklore is the ninth studio album by the English progressive rock band Big Big Train. Released on 27 May 2016, it was recorded at English Electric Studios, produced by Big Big Train, and mixed and mastered at Aubitt Studios by Rob Aubrey. It is the first studio album to feature Rachel Hall and then-Beardfish lead vocalist Rikard Sjöblom as official members.<br>The album was released in multiple formats: standard and High Res downloads, as a single CD, and as a double-LP vinyl release that features two additional tracks, "Mudlarks" and "Lost Rivers of London", both of which were previously released on the 2015 EP Wassail. Both versions of the album contain the title track from Wassail, meaning that the vinyl release features all three of the original songs on the EP. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Big Big Train - Folklore](https://www.discogs.com/release/8567409-Big-Big-Train-Folklore) |
-| Label          | Plane Groovy |
 | Format         | Vinyl 2× LP Album |
+| Label          | Plane Groovy |
 | Catalog Number | PLG044 |
 | Notes | Gatefold edition with two additional tracks to CD, Mudlark and Rivers of London, which both appear on the Wassail EP (2015). A limited number of copies sold through Burning Shed were autographed by the band on the inner booklet. |
+| Discogs URL    | [Big Big Train - Folklore](https://www.discogs.com/release/8567409-Big-Big-Train-Folklore) |

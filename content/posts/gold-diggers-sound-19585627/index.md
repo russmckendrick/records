@@ -11,6 +11,8 @@ cover:
     image: "gold-diggers-sound-19585627.jpg"
     alt: "Gold-Diggers Sound by Leon Bridges"
     caption: "Gold-Diggers Sound by Leon Bridges"
+additional_images:
+    - "https://i.discogs.com/Lhphiy4gdLRWmkapIrXmB2g1YTmYg5EJrkWsJ-kfV5U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg1/NjI3LTE2MjY5NzA5/NTAtNjk5Ny5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
@@ -32,7 +34,6 @@ styles: ["Soul", "Contemporary R&B"]
 11. Blue Mesas
 
 <!-- section break -->
-
 
 When Leon Bridges set out to make his third album, he wanted it to be different this time around. “We felt like the only way to unlock a unique sound was to create this immersive experience and find a place that was aesthetically inspiring,” he tells Apple Music. He landed on Gold-Diggers in East Hollywood, a three-in-one bar, hotel and recording studio that allowed the Texas-bred singer to tap into his sound the way he hears it in his head, free from the expectations of others. “It definitely felt the most liberating to me,” he says of the process. “I was just able to be myself and let go of any inhibitions and create without any boundaries.” <br />
 The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—became <i>Gold-Diggers Sound</i> and some of Bridges’ most refined work. He rose to fame through his ’50s and ’60s soul stylings, but the R&B contained within this album situates its nostalgia in a more modern context, bridging ’80s and ’90s R&B with lush, jazz-inspired live instrumentation. His writing coupled with his voice has long been the centrepiece, but hearing both in this context is to experience them anew. “When you look at <i>Gold-Diggers Sound</i>, a lot of these songs were derived from improvisational jams,” Bridges says. “Back to the basics of musicians in a room and creating music from the ground up.” Here he walks through each song on the album.<br />
@@ -58,20 +59,12 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 “‘Don't Worry’ is kind of a stream of thoughts to myself, reminiscing about a past lover and who she's currently with. Shout-out to my friend Ink, who is the singer-songwriter from Atlanta, and she embodies this country-hood type of vibe. Her energy is so infectious. I mean, she literally walks into the studio every day with cowboy boots and a cowboy hat and then just like brings this really awesome energy to the music—that's kind of how 'Don't Worry' came about.”<br />
 <b>“Blue Mesas”</b>
 “This whole album encapsulates the multifaceted aspects of life. It's not serious all the time, but sometimes there are those moments that capture the struggle, and that's what it was for me. 'Blue Mesas' just talks about the moment when I transitioned into fame, and it was honestly hard for me. When you take an insecure person and put them in the limelight, some people can tend to fold or thrive. I'm grateful that I had great people around me to help me get through those struggles. 'Blue Mesas' is just like that feeling of the solitude and weight that comes with having a little notoriety and still feeling isolated—even in the midst of people that love you.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-diggers-sound-apple-music-edition/1577502911" >}}
-
-
-
-
-
 ## Videos
 ### Leon Bridges - Motorbike (Official Video)
 {{< youtube id="Y9OMJ0HvPbk" title="Leon Bridges - Motorbike (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Leon Bridges - Steam (Official Video)](https://www.youtube.com/watch?v=c7IxY6CTiVA)
@@ -84,13 +77,17 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 - [Leon Bridges - Sweeter (Official Video) ft. Terrace Martin](https://www.youtube.com/watch?v=35AWgksymtA)
 - [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
-| Discogs Link   | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627-Leon-Bridges-Gold-Diggers-Sound) |
-| Label          | Columbia |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gold-Diggers_Sound |
+| Wikipedia Summary | Gold-Diggers Sound is the third studio album by American singer Leon Bridges. It was released on July 23, 2021, by Columbia Records. The album features guest appearances from Robert Glasper, Terrace Martin, and Atia "Ink" Boggs.<br>The album received widespread acclaim from critics and debuted at number 17 on the US Billboard 200. It was supported by three singles: "Sweeter", "Motorbike", and "Why Don't You Touch Me". The album was nominated for Best R&B Album at the 2022 Grammy Awards. |
+    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album |
+| Label          | Columbia |
 | Catalog Number | 19439886991 |
 | Notes | Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1.  |
+| Discogs URL    | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627-Leon-Bridges-Gold-Diggers-Sound) |

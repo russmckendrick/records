@@ -10,6 +10,8 @@ cover:
     image: "waves-13867076.jpg"
     alt: "Waves by AVA"
     caption: "Waves by AVA"
+additional_images:
+    - "https://i.discogs.com/eF_jUw5qUnuCrjDtX-z73WR7xk6wqpXEs9PLXz1FJJw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY3/MDc2LTE1NjI5MDE3/ODgtNDcyMS5qcGVn.jpeg"
 genres: ["Pop", "Classical"]
 styles: ["Indie Pop", "Neo-Classical"]
 ---
@@ -31,28 +33,23 @@ styles: ["Indie Pop", "Neo-Classical"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}
-
-
-
-
-
 ## Videos
 ### AVA - Waves [Neo-Classical, Ambient, Electronic]
 {{< youtube id="CiBM_R_2GYc" title="AVA - Waves [Neo-Classical, Ambient, Electronic]" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [AVA - Waves](https://www.discogs.com/release/13867076-AVA-Waves) |
-| Label          | One Little Indian Records |
 | Format         | Vinyl LP Album |
+| Label          | One Little Indian Records |
 | Catalog Number | TPLP1493 |
 | Notes | Some copies were autographed on back cover by Anna Phoebe and Aisling Browuer.  |
+| Discogs URL    | [AVA - Waves](https://www.discogs.com/release/13867076-AVA-Waves) |

@@ -10,6 +10,8 @@ cover:
     image: "new-jack-city-music-from-the-motion-picture-13457870.jpg"
     alt: "New Jack City (Music From The Motion Picture) by VARIOUS"
     caption: "New Jack City (Music From The Motion Picture) by VARIOUS"
+additional_images:
+    - "https://i.discogs.com/QhjKtkjrrSCQvT8qKKrUa8hzCk1qq85kBG3gtDfv_OI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/ODcwLTE1NTQ1ODE4/MjAtMzAyMS5wbmc.jpeg"
 genres: ["Hip Hop"]
 styles: ["Pop Rap", "RnB/Swing"]
 ---
@@ -32,19 +34,12 @@ styles: ["Pop Rap", "RnB/Swing"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="3N1GCkG6Z5Rs4Qy1iwnIEB" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### F.S. Effect - Get It Together (Black Is A Force)
 {{< youtube id="0e5z8givs6Y" title="F.S. Effect - Get It Together (Black Is A Force)" >}}<br>
-
 ### More Videos
 
 - [Guy - New Jack City](https://www.youtube.com/watch?v=K_Jn9qJleRc)
@@ -58,13 +53,15 @@ styles: ["Pop Rap", "RnB/Swing"]
 - [Essence - Lyrics 2 The Rhythm](https://www.youtube.com/watch?v=oDIfvCvNLuw)
 - [Keith Sweat - (There You Go) Tellin' Me No Again](https://www.youtube.com/watch?v=fEVN_yPyXXg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [VARIOUS - New Jack City (Music From The Motion Picture)](https://www.discogs.com/release/13457870-VARIOUS-New-Jack-City-Music-From-The-Motion-Picture) |
-| Label          | Giant Records |
 | Format         | Vinyl LP Compilation Reissue |
+| Label          | Giant Records |
 | Catalog Number | 0573953 |
 | Notes | RSD Exclusive 2019/Ltd. to 1500 |
+| Discogs URL    | [VARIOUS - New Jack City (Music From The Motion Picture)](https://www.discogs.com/release/13457870-VARIOUS-New-Jack-City-Music-From-The-Motion-Picture) |

@@ -10,6 +10,9 @@ cover:
     image: "the-second-brightest-star-10470066.jpg"
     alt: "The Second Brightest Star by Big Big Train"
     caption: "The Second Brightest Star by Big Big Train"
+additional_images:
+    - "https://i.discogs.com/qlo20QKvcIYExGO384cjU6cC2dVHaI33vsI4IK2lwDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcw/MDY2LTE0OTgwODAz/MjQtOTEzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/2YetftfL8BWvqjoCU5bJhowQaR5o83CoILrT56PLvLw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcw/MDY2LTE0OTgyMjA0/ODYtNDUwMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
@@ -32,20 +35,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-second-brightest-star/1252927599" >}}
-
-
-
-
-
 ## Videos
 ### Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]
 {{< youtube id="1FeatR8ZXy8" title="Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]" >}}<br>
-
 ### More Videos
 
 - [BIG BIG TRAIN-The Second Brightest Strar-10-The Gentlemen's Reprise-Prog Rock-{2017}](https://www.youtube.com/watch?v=Aow_g329l6g)
@@ -54,13 +49,15 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Terra Australis Incognita](https://www.youtube.com/watch?v=T4gWzO7aRpA)
 - [Big Big Train - London Plane Sequence](https://www.youtube.com/watch?v=z3SS27wGjq0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066-Big-Big-Train-The-Second-Brightest-Star) |
-| Label          | Plane Groovy |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
+| Label          | Plane Groovy |
 | Catalog Number | PLG056 |
 | Notes | Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements. |
+| Discogs URL    | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066-Big-Big-Train-The-Second-Brightest-Star) |

@@ -10,6 +10,8 @@ cover:
     image: "blood-music-16103500.jpg"
     alt: "Blood Music by Chapterhouse"
     caption: "Blood Music by Chapterhouse"
+additional_images:
+    - "https://i.discogs.com/ZeTHX_MyaOwaM-h4HE8sIMAce9JoABXHO0bVNLQ4q1g/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAz/NTAwLTE2MDM0Nzk0/MzAtMTg1OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
@@ -33,20 +35,15 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
+Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blood-music/351372160" >}}
-
-
-
-
-
 ## Videos
 ### Global Communication ~ Pentamerous Metamorphosis (Full Album)
 {{< youtube id="Kpj6vyxS4kw" title="Global Communication ~ Pentamerous Metamorphosis (Full Album)" >}}<br>
-
 ### More Videos
 
 - [Don't look now ~ Chapterhouse](https://www.youtube.com/watch?v=F36BQY6tnlg)
@@ -65,13 +62,17 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)](https://www.youtube.com/watch?v=0bgXNI4Fc7E)
 - [Chapterhouse - Picnic](https://www.youtube.com/watch?v=uFcBEq2pfmU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Music_(Chapterhouse_album) |
+| Wikipedia Summary | Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles.<br><br> |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Chapterhouse - Blood Music](https://www.discogs.com/release/16103500-Chapterhouse-Blood-Music) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl 2× LP Limited Edition Numbered Reissue Stereo (Red transparent) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP2700 |
 | Notes | Limited edition of 2000 numbered copies on transparent red vinyl. 180 gram audiophile vinyl |
+| Discogs URL    | [Chapterhouse - Blood Music](https://www.discogs.com/release/16103500-Chapterhouse-Blood-Music) |

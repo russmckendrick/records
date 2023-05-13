@@ -10,6 +10,8 @@ cover:
     image: "war-is-over-11111473.jpg"
     alt: "War Is Over by Von Hertzen Brothers"
     caption: "War Is Over by Von Hertzen Brothers"
+additional_images:
+    - "https://i.discogs.com/miWaA4Cef-4-6db9FqVnyJOVnszX_7VXkFcKGYTMThU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/NDczLTE1MTAwNTY4/OTEtMTQ1OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -33,32 +35,26 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/war-is-over/1600456979" >}}
-
-
-
-
-
 ## Videos
 ### War Is Over (Von Hertzen Brothers)
 {{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}<br>
-
 ### More Videos
 
 - [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
 - [Von Hertzen Brothers War Is Over](https://www.youtube.com/watch?v=uEa2_NhW6HU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Von Hertzen Brothers - War Is Over](https://www.discogs.com/release/11111473-Von-Hertzen-Brothers-War-Is-Over) |
-| Label          | Music Theories Recordings |
 | Format         | Vinyl 2× LP Album |
+| Label          | Music Theories Recordings |
 | Catalog Number | MTR75371 |
 | Notes | Includes download code. |
+| Discogs URL    | [Von Hertzen Brothers - War Is Over](https://www.discogs.com/release/11111473-Von-Hertzen-Brothers-War-Is-Over) |

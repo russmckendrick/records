@@ -10,6 +10,9 @@ cover:
     image: "internal-landscapes-2008-2018-the-best-of-12717350.jpg"
     alt: "Internal Landscapes 2008-2018 (The Best Of) by Anathema"
     caption: "Internal Landscapes 2008-2018 (The Best Of) by Anathema"
+additional_images:
+    - "https://i.discogs.com/fRb0yWc84xyBAyOSbkyolAYE9bZ4gfvxc90_i27LrDE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE3/MzUwLTE1NDA2Mzg4/NDMtNTg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/2XsLyB4SvpTOAJ9hmtB0EfiNgpxqSNYBUTt9ucnpIRg/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE3/MzUwLTE1NDA2Mzg4/NTctNzI1Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
@@ -34,20 +37,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/internal-landscapes-best-of-2008-2018/1424981630" >}}
-
-
-
-
-
 ## Videos
 ### Anathema - Springfield (from The Optimist)
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}<br>
-
 ### More Videos
 
 - [Anathema - Untouchable (part one) (from Weather Systems)](https://www.youtube.com/watch?v=av6sVWXeCWQ)
@@ -58,13 +53,15 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [Anathema - Thin Air (from the Universal concert film)](https://www.youtube.com/watch?v=fjOis-QWPdI)
 - [Anathema - Anathema (lyric video) (from Distant Satellites)](https://www.youtube.com/watch?v=a-80LdBCDXc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Anathema - Internal Landscapes 2008-2018 (The Best Of)](https://www.discogs.com/release/12717350-Anathema-Internal-Landscapes-2008-2018-The-Best-Of) |
-| Label          | Kscope |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
+| Label          | Kscope |
 | Catalog Number | KSCOPE1009 |
 | Notes | The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping. 2LP gatefold 180 gram heavyweight red vinyl. |
+| Discogs URL    | [Anathema - Internal Landscapes 2008-2018 (The Best Of)](https://www.discogs.com/release/12717350-Anathema-Internal-Landscapes-2008-2018-The-Best-Of) |

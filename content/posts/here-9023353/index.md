@@ -11,6 +11,17 @@ cover:
     image: "here-9023353.jpg"
     alt: "Here by Teenage Fanclub"
     caption: "Here by Teenage Fanclub"
+additional_images:
+    - "https://i.discogs.com/disMOCqbUaox1aqCTHdBcM8LphBMmhHq16Hot6Vgnwo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/MC01NDk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/qPKeCMkFcQa5N8t0LFsc9TFpeL5zg7IPeTgWQbK1uPs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/Mi0xMzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/qH-eQXnoCNlIO6ZmnJLQrFBjvmeA-2ouFuYfnnCzRXw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/NC00ODc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/LJf7atV3Rp3vwsazU9JjMr4z351Q3y4yfu7u-pOD7vg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjgw/NS0yOTYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/D-wG130qzsA4m4nHCPPm3mJ_ixDQqdZrTSyYYlvwyCw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjgw/MC0zMDU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/FqLmjUKUbZOQTKGBF6N9Vkg5hDheU0ZjEjTjNmmkrVc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjgw/MC01MDAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/_oMt0nvOuWSdMJwuT2XSJOez3s0EMP2rfXRw74GX79Q/rs:fit/g:sm/q:90/h:3233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/MC05MzU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/pv5Pl7AozuJnTP-CLAamzGrPDGb90LQFB2WeVCDuMpU/rs:fit/g:sm/q:90/h:386/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/MC02NTYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/XHPmZ0hmYVKO6LhoT6dpt5JlWQaQkLE_AC7xorYFK_c/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/NC05OTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/hcjcHNqJ4jg1eiwYzG8SdKsOSnTNfggYBFJjga9XTHU/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMz/NTMtMTQ3NTk1Mjc5/NS02NzQzLmpwZWc.jpeg"
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
@@ -34,33 +45,28 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-
 <i>Here</i> finds the Scottish indie veterans doing what they do best. Their 10th full-length is a beautifully crafted set of chiming guitars and poignant reflection that borders on the bittersweet—from the psychedelic sadness of “I Was Beautiful When I Was Alive” to the autumnal strums of “The Darkest Part of the Night”, a song whose end we always dread.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/here/1125410429" >}}
-
-
-
-
-
 ## Videos
 ### Teenage Fanclub - I'm In Love
 {{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}<br>
-
 ### More Videos
 
 - [Teenage Fanclub - Thin Air](https://www.youtube.com/watch?v=wjAl8jqdMjg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
-| Discogs Link   | [Teenage Fanclub - Here](https://www.discogs.com/release/9023353-Teenage-Fanclub-Here) |
-| Label          | Pema |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Here_(Teenage_Fanclub_album) |
+| Wikipedia Summary | Here is the tenth studio album by Scottish alternative rock band Teenage Fanclub, released on 9 September 2016 on the band's own PeMa label in Europe and on Merge Records in North America. It was the band's final album to feature bassist and co-founder Gerard Love, who left the band in November 2018. |
+    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
+| Label          | Pema |
 | Catalog Number | PEMA009LP |
 | Notes | Includes download code coupon and a printed inner sleeve.  ℗ & © 2016 PeMa  Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road. |
+| Discogs URL    | [Teenage Fanclub - Here](https://www.discogs.com/release/9023353-Teenage-Fanclub-Here) |

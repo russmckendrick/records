@@ -11,6 +11,12 @@ cover:
     image: "pyromania-23137115.jpg"
     alt: "Pyromania by Def Leppard"
     caption: "Pyromania by Def Leppard"
+additional_images:
+    - "https://i.discogs.com/Y26WQeRF2sDhi2csNUP4ELukYhleZzdL8EM9jSFuRIo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM3/MTE1LTE2NTE4Njgw/NzgtMTI0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/w1PG1MCMIgJM9olZzypSDj16RQMX1_v3_VONJMfkOfM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM3/MTE1LTE2NTE4Njgw/NzgtNTgzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/TlXtU3JLpqYacDgp_HywPxaFBLogumgYohDEMhg3XWM/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM3/MTE1LTE2NTE4Njgw/NzgtMjk0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/YVgd2dfawMwCR5v5nLUZTq9V9rPPCJ-ZVjEox0VokjQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM3/MTE1LTE2NTE4Njgw/NzgtNDgzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/jk2UeapU3oCCY3ZzfSPBj4qdmBnS0OBGhaklZrRIm9k/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM3/MTE1LTE2NTE4Njgw/NzQtODc2Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -32,22 +38,13 @@ styles: []
 
 <!-- section break -->
 
-
 <i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pyromania/1440902935" >}}
-
-
-
-
-
 ## Videos
 ### Def Leppard - Photograph
 {{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}<br>
-
 ### More Videos
 
 - [DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)](https://www.youtube.com/watch?v=q3sbi86cIRI)
@@ -57,13 +54,16 @@ styles: []
 - [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)
 - [Too Late For Love -- Def Leppard .HD +Перевод](https://www.youtube.com/watch?v=F_3qbVA692c)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | <i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe. |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115-Def-Leppard-Pyromania) |
-| Label          | Vertigo |
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Label          | Vertigo |
 | Catalog Number | 5777362 |
 | Notes | 2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios. |
+| Discogs URL    | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115-Def-Leppard-Pyromania) |

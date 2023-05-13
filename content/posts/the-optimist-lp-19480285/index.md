@@ -10,6 +10,16 @@ cover:
     image: "the-optimist-lp-19480285.jpg"
     alt: "The Optimist LP by Turin Brakes"
     caption: "The Optimist LP by Turin Brakes"
+additional_images:
+    - "https://i.discogs.com/40ipKoqCEBRhdKnbSm2dmyHhP4FRpUPdzIo6t_JSk3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2NjAxMjUw/MjUtNzA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/VbpXT36cjby15TXYx--p5SVxVXWVasgv9zBBjKefpCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODIz/NDUtNzEyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/WnSIt5wUUFoEMgXktu66XOooa1mqonMl_x-trNqBdqc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/MTktOTg0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/KK6WFWDYpuxTUfQpkN_G8qmXC3IjKAAycyphqV39wB0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/MDAtODQ4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/jm3xTvZDfO6jD3qF7dHGD3-QGFAYeG-Uwam5QRdlmFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NTAtMTI5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/MqV129Jasl14Wp6V5u3E2BDaCt6bemaTMwEvO8resY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NDktNzY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/CJCAiSSRAzs7my3CHEL73sHA-4QNF7l_oJ_o9nL8Y5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NTAtODE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/N735oyivqJn7kvMksiBhBpd4BK6_z7PWn_Y0sKsXUTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NDgtODU0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Rmln-oaehR5gNEo0ySq475MbiM2rWF50U45CWKeKUiM/rs:fit/g:sm/q:90/h:695/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2NjAxMjUw/MjUtNjc5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
@@ -45,20 +55,12 @@ styles: ["Folk Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-optimist-lp-original-demos-demo-version/1574258049" >}}
-
-
-
-
-
 ## Videos
 ### The Optimist
 {{< youtube id="zqoteSksoDQ" title="The Optimist" >}}<br>
-
 ### More Videos
 
 - [Turin Brakes - The Optimist](https://www.youtube.com/watch?v=EwjDOgEH4nk)
@@ -74,13 +76,15 @@ styles: ["Folk Rock", "Pop Rock"]
 - [Turin Brakes-Feeling Oblivion with lyrics](https://www.youtube.com/watch?v=bDYibOjyQrk)
 - [Emergency 72](https://www.youtube.com/watch?v=_Qr9S7LT39Y)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Turin Brakes - The Optimist LP](https://www.discogs.com/release/19480285-Turin-Brakes-The-Optimist-LP) |
-| Label          | Two Piers Records |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Amber Transparent) |
+| Label          | Two Piers Records |
 | Catalog Number | BN1LPX |
 | Notes | Back in print with refreshed artwork and bonus demos. 20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"  On sleeve: BN1LP On hype sticker: BN1LPX |
+| Discogs URL    | [Turin Brakes - The Optimist LP](https://www.discogs.com/release/19480285-Turin-Brakes-The-Optimist-LP) |

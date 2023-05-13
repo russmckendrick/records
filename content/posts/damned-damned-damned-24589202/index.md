@@ -11,6 +11,15 @@ cover:
     image: "damned-damned-damned-24589202.jpg"
     alt: "Damned Damned Damned by The Damned"
     caption: "Damned Damned Damned by The Damned"
+additional_images:
+    - "https://i.discogs.com/MVQhdhHcoxOPeNlgZNRrjxI9w-WAZEYCgmApeiVwjKU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU3Njcw/NTQtMjA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/rwbLdp1n-ClArEDKdfRhPzvSVkUwrOttgB0w8TDw5iU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU3Njcw/NTUtNjUzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/7_BZEWeVqKAMH0zwUW8sfHILTqjg0Z-_rmD0XGo6mp0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU4NDE1/MTAtODkzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/6U70c4mcckEfl0zc9qEp-nYTSzeJ-DRWcFnmAiJsS_Q/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU4NDE1/MTAtODg5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/x3on5F_5WArByzfUG09FLq6_PnqhIU26nzOu-3KqjB4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU3Njcw/NTUtNjg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/t6BkdnX89CqEe7_Y81ljUmSOV0W1VRaAUN1QcKUl4k8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU3Njcw/NTUtMjg1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/9rMEmUuQkx4izB14gl-TyqbyRPPXRnCQ-FbJAFdGZxc/rs:fit/g:sm/q:90/h:888/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU3Njcw/NTYtNTIxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/l36A6O6mRukkow86yf77QSvDeEcFMPw-FG_jsAdMQ1g/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg5/MjAyLTE2NjU3Njcw/NTUtNjIzNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk"]
 ---
@@ -34,22 +43,13 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-
 <i>The Beautiful & Damned</i> finds the Oakland rapper striving for balance in a rapidly changing world. G-Eazy examines cause and effect, angels and devils, late nights and blurry mornings with his low-key flow. Rearview glances are many, addressing addiction (“Sober”) and the ills of the world (“Love Is Gone”). Halsey assists on “Him & I,” which conjures up deep “’03 Bonnie & Clyde” vibes. Despite the dark outlook, he makes sure to celebrate the wins, jumping aboard a gold tank with Cardi B and A$AP Rocky on “No Limit,” a tribute to good times and the empire that Master P built. Most of all, G-Eazy puts his life under a microscope for all to see. You get a solid sense of his focus and growth as a pinpoint storyteller.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beautiful-damned/1308645364" >}}
-
-
-
-
-
 ## Videos
 ### I Fall (2017 - Remaster)
 {{< youtube id="kQTJ5jqGSpc" title="I Fall (2017 - Remaster)" >}}<br>
-
 ### More Videos
 
 - [Fan Club](https://www.youtube.com/watch?v=jzof7TAVZFU)
@@ -68,13 +68,16 @@ styles: ["Punk"]
 - [I Feel Alright (2017 - Remaster)](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
 - [Neat Neat Neat (2017 - Remaster)](https://www.youtube.com/watch?v=gXKDtkCzSCw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | <i>The Beautiful & Damned</i> finds the Oakland rapper striving for balance in a rapidly changing world. G-Eazy examines cause and effect, angels and devils, late nights and blurry mornings with his low-key flow. Rearview glances are many, addressing addiction (“Sober”) and the ills of the world (“Love Is Gone”). Halsey assists on “Him & I,” which conjures up deep “’03 Bonnie & Clyde” vibes. Despite the dark outlook, he makes sure to celebrate the wins, jumping aboard a gold tank with Cardi B and A$AP Rocky on “No Limit,” a tribute to good times and the empire that Master P built. Most of all, G-Eazy puts his life under a microscope for all to see. You get a solid sense of his focus and growth as a pinpoint storyteller. |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202-The-Damned-Damned-Damned-Damned) |
-| Label          | BMG |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow) |
+| Label          | BMG |
 | Catalog Number | BMGCAT705CLP |
 | Notes | Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  © & ℗ 1977 Still Records Ltd Published by Rock Music Co except: A1, B1 published by Rock Music Co/Street Music Co B6 published by B. Feldman & Co  Manufactured in Norway. Runouts are etched. |
+| Discogs URL    | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202-The-Damned-Damned-Damned-Damned) |

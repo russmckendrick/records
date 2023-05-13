@@ -11,6 +11,12 @@ cover:
     image: "fantasy-26449427.jpg"
     alt: "Fantasy by M83"
     caption: "Fantasy by M83"
+additional_images:
+    - "https://i.discogs.com/cCU5rSdc18awdgxIEE2IGTjLYcr8MgNEdOri4AlKy0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwNTc2/NTgtNzI5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/vosVsZAajcw3AJRi9hpGLO7x4Jg5qtHJYYcFQOIr6Uw/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwODY4/NDMtMzQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/RaGWGDPphsbTUSp3yeTeXMGbyH9gNrhIbJml56lGmWA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwODY4/NDEtNDUyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/J-HwtPxH7UMKK2lJEL3_rA01YEvDCwav8rEXesyDBdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwNTc2/NTgtMzM4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/9WDRAq1sUfwp8iIiIBcnrivTFJ2GquAWkg_5eL_615Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwNTc2/NTgtMjMxMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
@@ -35,22 +41,13 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 
 <!-- section break -->
 
-
 In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, Anthony Gonzalez (aka M83) said he didn’t want to talk about modern life so much as he wanted to avoid it. The irony is that since the release of 2011’s <i>Hurry Up, We’re Dreaming</i>, few artists have had as big of an impact on indie electronic music’s passage into the mainstream. Where 2016’s <i>Junk</i> explored the playful side of his ’80s obsessions and 2019’s <i>Knife + Heart</i> soundtracked the erotic, threatening side, the anthems of <i>Fantasy</i> tap into the heroism that has made his narrow vision so broadly appealing, from the tight New Wave vibe of “Amnesia” to the unsettling grandeur of “Dismemberment Bureau”. His nostalgia is escape, yes—but it’s also rebellion.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fantasy/1658838374" >}}
-
-
-
-
-
 ## Videos
 ### M83 - 'Oceans Niagara' (Official Music Video)
 {{< youtube id="ryFV9dORPPw" title="M83 - 'Oceans Niagara' (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [M83 - 'Fantasy' (Official Audio)](https://www.youtube.com/watch?v=vmdwiWPrJNE)
@@ -65,13 +62,17 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 - [M83 - 'Us And The Rest' (Official Audio)](https://www.youtube.com/watch?v=SBX5LsazDho)
 - [M83 - 'Earth To Sea' (Official Audio)](https://www.youtube.com/watch?v=kyaO0zgBxa8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
-| Discogs Link   | [M83 - Fantasy](https://www.discogs.com/release/26449427-M83-Fantasy) |
-| Label          | Other Suns |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fantasy_(M83_album) |
+| Wikipedia Summary | Fantasy is the ninth studio album by French band M83, released on 17 March 2023 through Virgin Records France and Mute Records. It was announced on 10 January 2023 alongside the release of the lead single "Oceans Niagara". The band will tour North America and Europe in support of the album from April to August 2023. |
+    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
+| Label          | Other Suns |
 | Catalog Number | OS1 LP |
 | Notes | tracks listed 1-13 on sleeve |
+| Discogs URL    | [M83 - Fantasy](https://www.discogs.com/release/26449427-M83-Fantasy) |

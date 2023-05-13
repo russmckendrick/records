@@ -10,6 +10,11 @@ cover:
     image: "play-to-win-the-virgin-albums-13428374.jpg"
     alt: "Play To Win (The • Virgin • Albums) by Heaven 17"
     caption: "Play To Win (The • Virgin • Albums) by Heaven 17"
+additional_images:
+    - "https://i.discogs.com/VhqhjjBoqHDMcZwk-Myg0184gd7HnUwBhHkZddxzBbQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/Mzc0LTE1NTQwMjU0/NTYtMzgyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/czeVy1DRj-mjWiPrkhpt0rYyDgt1wZFHtALxpigMkYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/Mzc0LTE1NTQwMjU0/NTctNTY5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/C2-BW9mi2Aeja0xwAViVwSMn33aVLgplXuDBPguVHJk/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/Mzc0LTE1NTQwMzAx/ODgtNzg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/dSIAxcrf67DLNAhzXchRup4ziHgQOaJzSifA1v0WCns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/Mzc0LTE1NTQ4MDc2/MzktMTQwMy5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -72,24 +77,21 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Play To Win (Remastered)
 {{< youtube id="m-fY639gW08" title="Play To Win (Remastered)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Heaven 17 - Play To Win (The • Virgin • Albums)](https://www.discogs.com/release/13428374-Heaven-17-Play-To-Win-The-Virgin-Albums) |
-| Label          | Demon Records |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Blue), Vinyl LP Album Reissue (Orange), Vinyl LP Album Reissue (Clear) |
+| Label          | Demon Records |
 | Catalog Number | DEMRECBOX31 |
 | Notes |    |
+| Discogs URL    | [Heaven 17 - Play To Win (The • Virgin • Albums)](https://www.discogs.com/release/13428374-Heaven-17-Play-To-Win-The-Virgin-Albums) |

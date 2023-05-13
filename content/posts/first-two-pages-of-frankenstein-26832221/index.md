@@ -11,6 +11,13 @@ cover:
     image: "first-two-pages-of-frankenstein-26832221.jpg"
     alt: "First Two Pages Of Frankenstein by The National"
     caption: "First Two Pages Of Frankenstein by The National"
+additional_images:
+    - "https://i.discogs.com/B-UUnzyIIHC2uilWNP33nmrHNlb13qm_hU8LW5MRfrY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM2/ODMtNzA1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/pFJJJBQN9vunM31laTihlMAhjlBm7gY_Yj4ZC3TWZ-I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM2/OTktNTM0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/jaGdf2UYKYOMJdpnsmRRqTg1P2mXcJ-Yx-cRk4fdmNA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MjQtNTI5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/vlvKcVoWa6ncvF6DlHsQt_TgBV8GWTPfiTk_70v_o08/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MDctODY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZvdM3Tb_OgStIgROp4SMI8rCWQX6VaiAywnRXx7_F7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MTAtOTkyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/iM0yt3dvX8RRtmpn-0zorgf2AIpmoVwgMbTrH_H-wJg/rs:fit/g:sm/q:90/h:554/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MDAtMjA2My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -32,7 +39,6 @@ styles: ["Indie Rock"]
 11. Send For Me (4:14)
 
 <!-- section break -->
-
 
 A year or so into the pandemic—and two decades into a career spent fronting The National—Matt Berninger couldn’t bear to write another song. “I didn't want to unpack myself,” he tells Apple Music. “I was burned out on introspection and self-analysis and making all these songs about complicated personal things. It was a mess I didn't want to clean up in my mind. So I just avoided it.”
 
@@ -57,33 +63,29 @@ The result is <i>First Two Pages of Frankenstein</i>, the veteran indie rock out
 
 <b>“Your Mind Is Not Your Friend”</b>
 “Phoebe—the way she sings is like no other. You can hear her right away. There's something incredibly soothing and comforting about her presence, and the way she sings. This song’s title was something that my wife was echoing to me a lot, she was saying that to me over and over again over the course of this year, and I just kept holding on to that thought. It was really helpful, because, somehow, I was able to not blame myself. It wasn't my fault I was in this position, it was my mind's fault. This wasn't me, it was just my mind playing tricks on me. Phoebe singing that was, in many ways, in this background echoey way, it was the voice of my wife in my head a little bit. I think that's why it felt like a good one to send her.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/first-two-pages-of-frankenstein/1660282625" >}}
-
-
-
-
-
 ## Videos
 ### The National - Eucalyptus (Official Video)
 {{< youtube id="MSywJt3VlUM" title="The National - Eucalyptus (Official Video)" >}}<br>
-
 ### More Videos
 
 - [The National - New Order T-Shirt (Official Visualizer)](https://www.youtube.com/watch?v=QEMabLFhD38)
 - [The National - Tropic Morning News (Lyric Video)](https://www.youtube.com/watch?v=zdU0qwZKLfU)
 - [The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)](https://www.youtube.com/watch?v=KrCTNeuvmqA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
-| Discogs Link   | [The National - First Two Pages Of Frankenstein](https://www.discogs.com/release/26832221-The-National-First-Two-Pages-Of-Frankenstein) |
-| Label          | 4AD |
+| Wikipedia URL | https://en.wikipedia.org/wiki/First_Two_Pages_of_Frankenstein |
+| Wikipedia Summary | First Two Pages of Frankenstein is the ninth studio album by the American indie rock band the National, released on April 28, 2023, by 4AD. The album was produced by The National at Long Pond studio in upstate New York and features guest appearances from Sufjan Stevens, Phoebe Bridgers, and Taylor Swift.<br><br> |
+    | Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition (Red, Optimal Pressing) |
+| Label          | 4AD |
 | Catalog Number | 4AD0566LPE |
 | Notes | Tracks numbered sequentially on back jacket.  This is the European version pressed by Optimal unlike the North American version [r26937629] which is not. |
+| Discogs URL    | [The National - First Two Pages Of Frankenstein](https://www.discogs.com/release/26832221-The-National-First-Two-Pages-Of-Frankenstein) |

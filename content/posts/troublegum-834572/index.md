@@ -10,6 +10,16 @@ cover:
     image: "troublegum-834572.jpg"
     alt: "Troublegum by Therapy?"
     caption: "Troublegum by Therapy?"
+additional_images:
+    - "https://i.discogs.com/hOP6zyU3euVMhI9TXGGN6Ur8RU0-qs86pfTb8wKwXcI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzg2/LTQzOTkuanBlZw.jpeg"
+    - "https://i.discogs.com/lZiarL8lZBrXQdlxTxbTyF4JrkvlvUnboCvdZUzZQZw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzg4/LTIyNDQuanBlZw.jpeg"
+    - "https://i.discogs.com/aSVWBlTqRxgfK5bvlja-n9C40jERdTwrblV02GgJyPE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzky/LTE0NjMuanBlZw.jpeg"
+    - "https://i.discogs.com/AQdpvo1H7uBxsPGe0wkypuup_iHVbTthz6lQ1E77i_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzk1/LTEyNDcuanBlZw.jpeg"
+    - "https://i.discogs.com/7-qtPIE3Fb8Gr2WTUHrd_V7f67g8UtSjrMPJZZIqaRA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzk4/LTM0NjkuanBlZw.jpeg"
+    - "https://i.discogs.com/7_f__k5QsrhFW4VqMkPB-JpXHzqMtnxgsZAla0AGsZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzk5/LTQyMjYuanBlZw.jpeg"
+    - "https://i.discogs.com/uX4bXHM4kFYs9r6TeigAC7RdMRiARgqmdFWfU9d1nfE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwNTAz/LTkwMDAuanBlZw.jpeg"
+    - "https://i.discogs.com/xz-4pgNgqxQaS2wSg86GLqOUpgkpVJz57f8ddAuTSU8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwNDA3/LTIwNDUuanBlZw.jpeg"
+    - "https://i.discogs.com/3gNuQFIEz_hdZ2YXGy3DpEQth3ZHgOi8VOH52qwoMbI/rs:fit/g:sm/q:90/h:856/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwNDA5/LTI1MzMuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -35,20 +45,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Troublegum is the second major label album by rock band Therapy? It was released on 7 February 1994 via A&M Records. The album features a more punk-oriented style compared to the likes of Stiff Little Fingers and the Undertones rather the band's previous noise rock-influenced works.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/troublegum/1443273371" >}}
-
-
-
-
-
 ## Videos
 ### Therapy? - Screamager
 {{< youtube id="-zZ44S3ZIJM" title="Therapy? - Screamager" >}}<br>
-
 ### More Videos
 
 - [Knives](https://www.youtube.com/watch?v=wdSbLWLGgFE)
@@ -71,13 +74,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Therapy? - Screamager](https://www.youtube.com/watch?v=oDVsIvvFtcs)
 - [Therapy? - Nowhere](https://www.youtube.com/watch?v=5Bcpj-q0Snc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Troublegum |
+| Wikipedia Summary | Troublegum is the second major label album by rock band Therapy? It was released on 7 February 1994 via A&M Records. The album features a more punk-oriented style compared to the likes of Stiff Little Fingers and the Undertones rather the band's previous noise rock-influenced works. |
 | Release Year   | 1994                                   |
-| Discogs Link   | [Therapy? - Troublegum](https://www.discogs.com/release/834572-Therapy-Troublegum) |
-| Label          | A&M Records |
 | Format         | Vinyl LP Album Limited Edition (Green) |
+| Label          | A&M Records |
 | Catalog Number | 540 196-1 |
 | Notes | Also available on [url=http://www.discogs.com/Therapy-Troublegum/release/1632751]black vinyl[/url]. |
+| Discogs URL    | [Therapy? - Troublegum](https://www.discogs.com/release/834572-Therapy-Troublegum) |

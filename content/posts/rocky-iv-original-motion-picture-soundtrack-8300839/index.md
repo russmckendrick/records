@@ -10,6 +10,9 @@ cover:
     image: "rocky-iv-original-motion-picture-soundtrack-8300839.jpg"
     alt: "Rocky IV (Original Motion Picture Soundtrack) by Various"
     caption: "Rocky IV (Original Motion Picture Soundtrack) by Various"
+additional_images:
+    - "https://i.discogs.com/-8wEl76_2vIBf83Q-2-d2Sw-9j2Qz4CTfvBHJMwyBjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDA4/MzktMTQ2MDEyOTU0/NC0zNzc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/o_geG4LueMl2r1NuiD1OK2WSCo7NbGdtkhAPM0-EnwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDA4/MzktMTQ2MDEyOTU0/NC03ODQzLmpwZWc.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -31,16 +34,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Survivor - Burning Heart (Video)
 {{< youtube id="Kc71KZG87X4" title="Survivor - Burning Heart (Video)" >}}<br>
-
 ### More Videos
 
 - [Hearts On Fire (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=_u8oAMhl8Vc)
@@ -54,13 +51,15 @@ styles: ["Soundtrack"]
 - [Training Montage (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=WU9NFr-81tA)
 - [Training Montage (Rocky IV Score Mix)](https://www.youtube.com/watch?v=DYo1yFZMlvM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Various - Rocky IV (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8300839-Various-Rocky-IV-Original-Motion-Picture-Soundtrack) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Limited Edition Numbered Reissue (Clear) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVATM062 |
 | Notes | Limited to 1000 individually-numbered copies.  PVC protective sleeve included 180 Gram Audiophile Vinyl |
+| Discogs URL    | [Various - Rocky IV (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8300839-Various-Rocky-IV-Original-Motion-Picture-Soundtrack) |

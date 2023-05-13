@@ -10,6 +10,13 @@ cover:
     image: "accelerator-19105981.jpg"
     alt: "Accelerator by The Future Sound Of London"
     caption: "Accelerator by The Future Sound Of London"
+additional_images:
+    - "https://i.discogs.com/vC9XPw6bXY2-a9awUPBsEGIfhfSuFHtLUz0jWKo0I9g/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/OTgxLTE2MjM0NDEx/ODYtODc3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/dRt2zNp6NlgSoo93NXDSBXizgl0U6Gy2isfTJ493gNU/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/OTgxLTE2MjM0NDEx/OTgtNzQwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/dThw1susc3DQAlBLZqhjr9WAMuMFLr_Qsbm9wfkbB-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/OTgxLTE2MjY2MDc2/MjUtNzg2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/7U6Ni_oh3ZC42YDza41QmWf_1sFuRSOoBmykgHhXT_s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/OTgxLTE2MjY2MDc2/MjUtMzM0My5qcGVn.jpeg"
+    - "https://i.discogs.com/6RwVMC9LdkRWQPoPtXznE2jIAeOoLHfVa6c6sGopPwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/OTgxLTE2MjY2MDc2/MjUtNjg4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Cc6iWFYf5fXIQ63cG8J5XHIgShuKHnt3K9rj9LBGV9Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/OTgxLTE2MjY2MDc2/MjYtMTE3Ny5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
@@ -31,20 +38,13 @@ styles: ["Techno"]
 
 <!-- section break -->
 
-
-
-
+Accelerator is the debut studio album by British electronic group the Future Sound of London. It was released in April 1992 by the record label Jumpin' & Pumpin'. It includes the hit single "Papua New Guinea".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/accelerator-deluxe/151039580" >}}
-
-
-
-
-
 ## Videos
 ### The Future Sound Of London - Pulse State - Jumpin' & Pumpin' 1992
 {{< youtube id="yKTZVb9dNj0" title="The Future Sound Of London - Pulse State - Jumpin' & Pumpin' 1992" >}}<br>
-
 ### More Videos
 
 - [The Future Sound of London. Expander](https://www.youtube.com/watch?v=UEPGLQAoNFc)
@@ -64,13 +64,17 @@ styles: ["Techno"]
 - [CENTRAL INDUSTRIAL - FSOL](https://www.youtube.com/watch?v=cOYJ7-HaZSQ)
 - [The Future Sound Of London - Calcium - Jumpin' & Pumpin' 1992](https://www.youtube.com/watch?v=-Mo8N_03mq4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Accelerator_(The_Future_Sound_of_London_album) |
+| Wikipedia Summary | Accelerator is the debut studio album by British electronic group the Future Sound of London. It was released in April 1992 by the record label Jumpin' & Pumpin'. It includes the hit single "Papua New Guinea". |
 | Release Year   | 2021                                   |
-| Discogs Link   | [The Future Sound Of London - Accelerator](https://www.discogs.com/release/19105981-The-Future-Sound-Of-London-Accelerator) |
-| Label          | Jumpin' & Pumpin' |
 | Format         | Vinyl 2× 12" Album Record Store Day Limited Edition Numbered Reissue |
+| Label          | Jumpin' & Pumpin' |
 | Catalog Number | DLPRSDTOT2 |
 | Notes | 30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1.  |
+| Discogs URL    | [The Future Sound Of London - Accelerator](https://www.discogs.com/release/19105981-The-Future-Sound-Of-London-Accelerator) |

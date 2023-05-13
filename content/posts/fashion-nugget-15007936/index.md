@@ -10,6 +10,17 @@ cover:
     image: "fashion-nugget-15007936.jpg"
     alt: "Fashion Nugget by Cake"
     caption: "Fashion Nugget by Cake"
+additional_images:
+    - "https://i.discogs.com/vUjhp9IsQF947uiJx9szE7ESXagIAP2G7zd0JZU9xng/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/MjUtNTIyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/GhA0WtZIwAsJntfv-GvvzlyzEhSgKC3ai8a_Jx-ZD4w/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDUtMjY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/sW86loP4hTZUKjprb3fVwf-jCb6lqCkqzcfr6PAn6Qo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDYtNzA4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/e8lVW3iN2EKthqkjM22bdFazxwUnplBY_j-MZoCxsM0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDctNTg4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/T3q-2THNOUbI9lCB_enlE5jRuPXFT4mYI0y1ACGXtac/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjkx/MjUtNzk3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/haAYoPZZ3lYfpsfiJZAsBcmvQG5M5hZmatuXuqIpmfA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjkx/NjctNjM0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/9lV01QGr9vKzPot2xMPpVkmX-uRKSbtNNmI25l-Qfy8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjky/MTUtOTI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/BHGKvEmT-Li4IeB3Yu6ZvYUkikvUirGJxDqpiwZ1mRw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjky/MzEtMTU2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/xlaBDuEnaAEvg28xF9ekMX6h4cy3hlOIs8q2vh74nNc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjky/NTYtOTU0My5qcGVn.jpeg"
+    - "https://i.discogs.com/gQQSeJrBsZof9A1kZVNx2FItz7EyCEKa2uaw_-MLuTc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjky/NzItODE5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -35,20 +46,14 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Fashion Nugget is the second studio album by alternative rock band Cake. It was released in 1996, and contains 14 songs. "The Distance" and "I Will Survive" became the most successful singles on the record, with the prior peaking at number 22 in the UK and at number 4 on the US Alternative Airplay Chart.
+The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fashion-nugget/1632472281" >}}
-
-
-
-
-
 ## Videos
 ### Cake-Frank Sinatra from Fashion Nugget
 {{< youtube id="aAkWJmoL8KQ" title="Cake-Frank Sinatra from Fashion Nugget" >}}<br>
-
 ### More Videos
 
 - [CAKE - The Distance (Official HD Video)](https://www.youtube.com/watch?v=F_HoMkkRHv8)
@@ -71,13 +76,17 @@ styles: ["Alternative Rock"]
 - [Cake-Italian Leather Sofa from Fashion Nugget](https://www.youtube.com/watch?v=DuVSvSbnaUg)
 - [Cake-Sad Songs and Waltzes from Fashion Nugget](https://www.youtube.com/watch?v=UK-DcAcQ-7Y)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fashion_Nugget |
+| Wikipedia Summary | Fashion Nugget is the second studio album by alternative rock band Cake. It was released in 1996, and contains 14 songs. "The Distance" and "I Will Survive" became the most successful singles on the record, with the prior peaking at number 22 in the UK and at number 4 on the US Alternative Airplay Chart.<br>The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies. |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Cake - Fashion Nugget](https://www.discogs.com/release/15007936-Cake-Fashion-Nugget) |
-| Label          | Not On Label (Cake) |
 | Format         | Vinyl LP Album Limited Edition Unofficial Release (Yellow) |
+| Label          | Not On Label (Cake) |
 | Catalog Number | 28671 |
 | Notes | Sticker on outer sleeve: COLOURED VINYL . LIMITED EDITION .  CAKE 2314 J STREET #117 SACRAMENTO, CA  95816 |
+| Discogs URL    | [Cake - Fashion Nugget](https://www.discogs.com/release/15007936-Cake-Fashion-Nugget) |

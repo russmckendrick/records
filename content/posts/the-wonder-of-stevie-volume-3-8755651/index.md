@@ -10,6 +10,8 @@ cover:
     image: "the-wonder-of-stevie-volume-3-8755651.jpg"
     alt: "The Wonder Of Stevie (Volume 3) by DJ Spinna"
     caption: "The Wonder Of Stevie (Volume 3) by DJ Spinna"
+additional_images:
+    - "https://i.discogs.com/KhngWRCsaod9NsMoAc1fCf8YMVPVwzwAbbp3r7JeAsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTU2/NTEtMTQ2ODA3NjM4/OC01NDE3LmpwZWc.jpeg"
 genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Gospel", "Disco"]
 ---
@@ -37,16 +39,10 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Keep On Running
 {{< youtube id="4qPfGgjCLns" title="Keep On Running" >}}<br>
-
 ### More Videos
 
 - [Buttercup](https://www.youtube.com/watch?v=-adgKAoLRL4)
@@ -67,12 +63,14 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 - [Go Home](https://www.youtube.com/watch?v=cVc-1zwqtbk)
 - [Don't You Worry About a Thing](https://www.youtube.com/watch?v=PpBBIwJTRU0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [DJ Spinna - The Wonder Of Stevie (Volume 3)](https://www.discogs.com/release/8755651-DJ-Spinna-The-Wonder-Of-Stevie-Volume-3) |
-| Label          | BBE |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | BBE |
 | Catalog Number | BBE358CLP |
+| Discogs URL    | [DJ Spinna - The Wonder Of Stevie (Volume 3)](https://www.discogs.com/release/8755651-DJ-Spinna-The-Wonder-Of-Stevie-Volume-3) |

@@ -10,6 +10,12 @@ cover:
     image: "witchazel-2797660.jpg"
     alt: "Witchazel by Matt Berry"
     caption: "Witchazel by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/Hwz-rDFy1ywqgAU3xtC72AeA7o1jinlv4FLkr2pe3sI/rs:fit/g:sm/q:90/h:514/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTMwMTQ4NDg5/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/qBZFhbeoh5jdSYo877QBWYNJugn2rxwnT6xSG7vJDbQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTUyNTExOTUz/My03MTY1LnBuZw.jpeg"
+    - "https://i.discogs.com/-TEWCnmLuqg3o_cZjIjSyq-eOP38GHC-GsoIyCz-6PQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTUyNTExOTY4/Ny0yNzg3LnBuZw.jpeg"
+    - "https://i.discogs.com/QAGXHka8Nn1AnciVY8xeP_KJ4VQSQfQ4LEsDmzpm3so/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTUyNTExOTcx/MS0xNzUyLnBuZw.jpeg"
+    - "https://i.discogs.com/pKdWyD0zbRAUtEDWpjyALgsZ7YvRYPbj-0tg2WAq-pc/rs:fit/g:sm/q:90/h:123/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTU1NDA3ODkz/NS01NzY1LmpwZWc.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
@@ -34,20 +40,12 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}
-
-
-
-
-
 ## Videos
 ### MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)
 {{< youtube id="Rdqu-HObUbo" title="MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)" >}}<br>
-
 ### More Videos
 
 - [Matt Berry Roosting Time](https://www.youtube.com/watch?v=d3pPrdSh9Ds)
@@ -63,13 +61,15 @@ styles: []
 - [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)
 - [Rain Came Down - Matt Berry](https://www.youtube.com/watch?v=QI4_DmjXpEM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2011                                   |
-| Discogs Link   | [Matt Berry - Witchazel](https://www.discogs.com/release/2797660-Matt-Berry-Witchazel) |
-| Label          | Acid Jazz |
 | Format         | Vinyl LP Album |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP251 |
 | Notes | Recorded between 2009 and 2010 on Jacobs Island, Shad Thames, London.    Some copies printed on reverse board with matte varnish, others printed on regular board with matte varnish |
+| Discogs URL    | [Matt Berry - Witchazel](https://www.discogs.com/release/2797660-Matt-Berry-Witchazel) |

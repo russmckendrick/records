@@ -10,6 +10,9 @@ cover:
     image: "johnny-cash-and-the-royal-philharmonic-orchestra-16200952.jpg"
     alt: "Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash"
     caption: "Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash"
+additional_images:
+    - "https://i.discogs.com/lB3g7YzR0o9bUowvit5wzngpbcsv3JQePVLf_icWmoE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAw/OTUyLTE2MDUyNzUw/ODQtNDE0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/etqGxaolMipTDA0ITwozXKCwswpSY0bk0zFMlbrNJDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAw/OTUyLTE2MDUyNzUx/NjgtMjY4Ny5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -33,22 +36,19 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Johnny Cash - Johnny Cash And The Royal Philharmonic Orchestra](https://www.discogs.com/release/16200952-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra) |
-| Label          | Columbia |
 | Format         | Vinyl LP Album |
+| Label          | Columbia |
 | Catalog Number | 19075996061 |
+| Discogs URL    | [Johnny Cash - Johnny Cash And The Royal Philharmonic Orchestra](https://www.discogs.com/release/16200952-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra) |

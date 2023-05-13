@@ -10,6 +10,16 @@ cover:
     image: "songs-of-faith-and-devotion-5349924.jpg"
     alt: "Songs Of Faith And Devotion by Depeche Mode"
     caption: "Songs Of Faith And Devotion by Depeche Mode"
+additional_images:
+    - "https://i.discogs.com/kyDZjEHJgW48MEWDSsCB1AGSktVF2VkGkU4M1dPy0lg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTQxMDIxMDk2/OS00ODk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/IPo2FCdAS103dGR-aJiQuwtEtO4qEa75A_eY_ky1SoY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTU1NTA4OTkx/NS0xMzQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/BcPlbapWAMHUpkpps5whVAK2KN8QRoI7-iR0PJCvVGE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTU1NTA4OTky/MC0yMzE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/LOeJvQRVJ9VqznfT26SUdHEw_WTrJJrUrIZY7KPKLrI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTQxMDIxMDk3/NC03OTExLmpwZWc.jpeg"
+    - "https://i.discogs.com/hiHDaknn61RecEI6myyWe1IsShi10jgniu11wFNJIGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTQxMDIxMDk4/MS0xNTM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/31IWHEv9MyTnprG8qeVvhogILXGG2vq_DU-cp3e6ltQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTQxMDIxMDk4/Ny05MDA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/8UJ0Ua04rHEUY_nWioawIja1dWzpPlop6WbtIpzY9K8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTU1NTA4OTkx/Mi0yNDY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/lUYGNxR4cWITWZqQHf4hrTC93XDDeUCjR0NBBrwogwI/rs:fit/g:sm/q:90/h:267/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTQxMDIxMDk5/Mi0xNjYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/uOsU2OCiZ4JhwFSf1JjWogQkOYNBHjM13sPOfaIOkMQ/rs:fit/g:sm/q:90/h:319/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MjQtMTM5MTE5OTQ3/OS0xMDcxLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
@@ -31,23 +41,26 @@ styles: ["Alternative Rock", "Synth-pop"]
 
 <!-- section break -->
 
+Songs of Faith and Devotion is the eighth studio album by English electronic music band Depeche Mode. It was first released on 22 March 1993 in the United Kingdom by Mute Records and a day later in the United States by Sire Records and Reprise Records. The album incorporated a more aggressive, darker rock-oriented tone than its predecessor Violator (1990), largely influenced by the emerging alternative rock and grunge scenes in the United States.Upon its release, Songs of Faith and Devotion reached number one in several countries, and became the first Depeche Mode album to debut atop the charts in both the UK and the US. To support the album, Depeche Mode embarked on the fourteen-month-long Devotional Tour, the largest tour they had undertaken to date.
+Recording the album and the subsequent tour exacerbated growing tensions and difficulties within the band, prompting Alan Wilder to quit in 1995, making this album the final one with him as a band member, and also the final album of the band to be recorded as a quartet. The ordeal had exhausted their creative output following the enormous success they had enjoyed with Violator, leading to rumours and media speculation that the band would split. Depeche Mode subsequently recovered from the experience, and released Ultra in 1997.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-faith-and-devotion-deluxe/665414502" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Songs_of_Faith_and_Devotion |
+| Wikipedia Summary | Songs of Faith and Devotion is the eighth studio album by English electronic music band Depeche Mode. It was first released on 22 March 1993 in the United Kingdom by Mute Records and a day later in the United States by Sire Records and Reprise Records. The album incorporated a more aggressive, darker rock-oriented tone than its predecessor Violator (1990), largely influenced by the emerging alternative rock and grunge scenes in the United States.Upon its release, Songs of Faith and Devotion reached number one in several countries, and became the first Depeche Mode album to debut atop the charts in both the UK and the US. To support the album, Depeche Mode embarked on the fourteen-month-long Devotional Tour, the largest tour they had undertaken to date.<br>Recording the album and the subsequent tour exacerbated growing tensions and difficulties within the band, prompting Alan Wilder to quit in 1995, making this album the final one with him as a band member, and also the final album of the band to be recorded as a quartet. The ordeal had exhausted their creative output following the enormous success they had enjoyed with Violator, leading to rumours and media speculation that the band would split. Depeche Mode subsequently recovered from the experience, and released Ultra in 1997.<br><br> |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Depeche Mode - Songs Of Faith And Devotion](https://www.discogs.com/release/5349924-Depeche-Mode-Songs-Of-Faith-And-Devotion) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 gram) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP943 |
 | Notes | ℗ & © 1993 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.  Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Overseas Ltd. except B2 and B4 assigned by Grabbing Hands Music Ltd.   Recorded at The Villa, Madrid and Chateau du Pape, Hamburg. Mixed at Olympic Studios, London. Remastered at Super Audio Mastering. Cut at The Exchange.  Plain black inner sleeve + insert designed as the original remaster inner. Contained in a resealable plastic bag with info sticker. |
+| Discogs URL    | [Depeche Mode - Songs Of Faith And Devotion](https://www.discogs.com/release/5349924-Depeche-Mode-Songs-Of-Faith-And-Devotion) |

@@ -10,6 +10,36 @@ cover:
     image: "tango-in-the-night-10063396.jpg"
     alt: "Tango In The Night by Fleetwood Mac"
     caption: "Tango In The Night by Fleetwood Mac"
+additional_images:
+    - "https://i.discogs.com/3z6-SSEtoF9hV_GY-6dEJzdyUik3hv6zGsOIpy0ZQNo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjUtOTU5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/9UEK8iw6vmxkJEQLzAS8Et-9K7gNufr096u4XyoawzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/ODEtNDQ0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/j-kBALAGY74OdADOEZ8sSl2-8RLhznqrNASQqgdJVaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NTItOTAxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/K0X6xpuaL575cvaOhUsBSP1LGLbih16CnFDXC7Dl7p0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NDktODA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/e0kbg4c9gabAJYkDtproUxoI9eJzWcoUu1BKtbcP0Bo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NDgtNTEzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/00mHdXsqHmsoYxi0vP8LTcBZxLell7knnCMMk0VyUL8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NDItNDgxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/feCuQqKJS6qFqkFW_nSBXqN2w4cDWbQiX7eQ1wG0CqM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjYtNTQ5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_fNXPVi5e0Q0K6WTxPnNOSX8WwD_ehO2xgHAh1Jf9Y8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjEtNzA3My5qcGVn.jpeg"
+    - "https://i.discogs.com/cNM-bSDHmWW80cjjoW0BpyLQqbqm3QwLgcrC28QSB7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzQtNTYxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/gUIABnsx5p2OIrjpsk6P6lKDs6INAPhNRCxCfOk6m34/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzItMjUxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/pTnsDKu1kfFVz_CoR7DxenQiEcVAk5sZXHNu7PJYZbM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NDYtODQwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/V1kkJfGxQPbOhiStPDOZ_ucvG8mDQclFdFWQpmm2U1E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NTktNDc3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/FDDUbXaYIjC--B6M-55TBsJBZKip-ESkUHcLtQaBuek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjgtMTkzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/tlhH1mIr7cehpN8JCgBZ2wsaGPxa11GRhHo0yHnS1mg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NTAtODc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/dqtOswsq1QOnLU4BlnY4z7HLFZPn1nuMmZOHqTeZ1yU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzItNDQ2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/-HwlOPntQtQvaFUqAxkPlGa-Z9DI_XgDkdTPjEHYwf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjQtNDkzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/VFJ7GQ1nd2-FQPRy-CwReEF7slOxh0alC2BjdtI4hfw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjItOTc5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/N-8XjR-WQp1MNklCUWlWaOwifLjPXqyDwf8saKLwICM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjMtMzUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/NreY6b088tFPHPeFRjW_YcBxxIvhD6t1iRgPN5eVKbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzUtNjI5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/sxRb11xrQ-5arDMCNAupRcstfBg3kBX0ZOp-yL-fSNI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/ODEtNjgzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/JXaMNZQwCL7_aODgdkCB8VK9YbOh3vash1TB_Par_KM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/ODItOTk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/E2JDZLm9kC2Zjn1EO6XGWlw1yf-ZUGVgVxwUoYVIYg4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzQtMzY1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/HGr9WRK7sNz9aM_HvHoYaxMEDbTzL5cziouQw2lFaTE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzMtNDA0My5qcGVn.jpeg"
+    - "https://i.discogs.com/_D4rysXscAjCKr7-qNfWUj_oJpKkLfVAU-rH5SpAcu4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzctOTcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/lSCQcKSNDqXB34PT0lc4xHE12HQjn6ynqYKiI1XMRH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzktOTg5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/KxqthrwWOrK9YtnTzV72EuppZPn9nNP6HZZBrSjzqTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/ODItMTg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/AhHkSTicGYkdNKLE_WcNWlrG3OSmtjfGVEnwW4ia0vM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/ODQtMjE4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/vDLhE78Oq2l7_hSLzpFekUaKYvG9Go2Qby-gT6fIRwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NjAtNzY1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/GlMzXYyFQy-ZzDk0vKLSTt_CEDmMxPJ8-ekr73Hch1U/rs:fit/g:sm/q:90/h:550/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/Mzk2LTE1MDk4Mzky/NzgtMjYyMS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -96,28 +126,27 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987. It is the fifth and final studio album from the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks following Buckingham's departure later that year, though the band's 2003 album, Say You Will, was recorded by all members except Christine McVie, who instead guested.
+Produced by Buckingham with Richard Dashut, Tango in the Night began as one of Buckingham's solo projects, but by 1985, the production had morphed into Fleetwood Mac's next record. It contains several hit singles, including four US top 20 hits: "Big Love" (No. 5), "Seven Wonders" (No. 19), "Little Lies" (No. 4), and "Everywhere" (No. 14). Two additional songs, "Family Man" (No. 90) and "Isn't It Midnight", were released as singles to lower chart success. Tango in the Night has sold over 15 million copies worldwide. In March 2017, remastered deluxe editions of Tango in the Night were released, the first a double-CD set and the second a 3CD/1DVD/1-LP boxset.The cover art for the album is a painting by Australian artist Brett-Livingstone Strong that was hanging in Buckingham's home. The painting is an homage to the 19th-century French painter Henri Rousseau, emulating his colourful jungle theme works such as The Snake Charmer and The Repast of the Lion. The painting was also used as the cover art for "Big Love", the album's lead single.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-deluxe/1196727792" >}}
-
-
-
-
-
 ## Videos
 ### Tango in the Night (2017 Remaster)
 {{< youtube id="i_xlI6gMH7U" title="Tango in the Night (2017 Remaster)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Tango_in_the_Night |
+| Wikipedia Summary | Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987. It is the fifth and final studio album from the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks following Buckingham's departure later that year, though the band's 2003 album, Say You Will, was recorded by all members except Christine McVie, who instead guested.<br>Produced by Buckingham with Richard Dashut, Tango in the Night began as one of Buckingham's solo projects, but by 1985, the production had morphed into Fleetwood Mac's next record. It contains several hit singles, including four US top 20 hits: "Big Love" (No. 5), "Seven Wonders" (No. 19), "Little Lies" (No. 4), and "Everywhere" (No. 14). Two additional songs, "Family Man" (No. 90) and "Isn't It Midnight", were released as singles to lower chart success. Tango in the Night has sold over 15 million copies worldwide. In March 2017, remastered deluxe editions of Tango in the Night were released, the first a double-CD set and the second a 3CD/1DVD/1-LP boxset.The cover art for the album is a painting by Australian artist Brett-Livingstone Strong that was hanging in Buckingham's home. The painting is an homage to the 19th-century French painter Henri Rousseau, emulating his colourful jungle theme works such as The Snake Charmer and The Repast of the Lion. The painting was also used as the cover art for "Big Love", the album's lead single. |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/10063396-Fleetwood-Mac-Tango-In-The-Night) |
-| Label          | Warner Bros. Records |
 | Format         | CD Album Reissue Remastered, CD Remastered, CD Compilation Remastered, DVD DVD-Video NTSC Compilation, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (30th Anniversary Edition) |
+| Label          | Warner Bros. Records |
 | Catalog Number | R2 554813 |
 | Notes | Deluxe edition of 'Tango In The Night', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Demo's, Alternates and B-Sides, Disc 3: CD - The 12'' mixes, Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album, Disc 5: 180g Vinyl LP - original album, remastered. Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  The Everywhere video on the DVD is the version that doesn't feature the band superimposed.  Sticker on front with format description + cat. no. R2 554813 |
+| Discogs URL    | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/10063396-Fleetwood-Mac-Tango-In-The-Night) |

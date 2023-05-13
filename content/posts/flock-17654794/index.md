@@ -10,6 +10,13 @@ cover:
     image: "flock-17654794.jpg"
     alt: "Flock by Jane Weaver"
     caption: "Flock by Jane Weaver"
+additional_images:
+    - "https://i.discogs.com/kGJmlFilGCpy0nXZKWSmOErMOZYC7_SkBzrCVJksr_U/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODQtOTEwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/XMUii9gpDMyAlK8ZV3CYI-G5b2OaO_jZ2X2UwFBrbX4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODQtMjI5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/mUVqIUSjCYFbg8Q0HvlFOB3BTbCgpysvY7JRilPjVj0/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODEtMjA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/pVaSWGhBVT9ABkFG_Ndd7fKU9-9VAp98igys9Gmvxao/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODMtNTIxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/ueZFLbgPNtQAlhiNZoVsT4vcWxN5QdWGrR7UmELZZ_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MzE5NzQ3/OTctMjIyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/KpYYBuBcIBzKK0mDi49Yvgem1jZBA7RD3Dn1px4YSs8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MzE5NzQ3/OTgtMTAxOS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: []
 ---
@@ -31,20 +38,13 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flock/1668446839" >}}
-
-
-
-
-
 ## Videos
 ### Jane Weaver - Heartlow (Official Video)
 {{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Jane Weaver - The Revolution Of Super Visions (Official Video)](https://www.youtube.com/watch?v=Zop_79wxs6M)
@@ -57,13 +57,17 @@ styles: []
 - [Pyramid Schemes](https://www.youtube.com/watch?v=AWVt8c4ju40)
 - [Solarised](https://www.youtube.com/watch?v=IOMq26ygSAQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Flock_(Jane_Weaver_album) |
+| Wikipedia Summary | Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound. |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Jane Weaver - Flock](https://www.discogs.com/release/17654794-Jane-Weaver-Flock) |
-| Label          | Fire Records |
 | Format         | Vinyl LP Album Limited Edition (Pink [Rose]) |
+| Label          | Fire Records |
 | Catalog Number | FIRELP544 |
 | Notes | Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown). |
+| Discogs URL    | [Jane Weaver - Flock](https://www.discogs.com/release/17654794-Jane-Weaver-Flock) |

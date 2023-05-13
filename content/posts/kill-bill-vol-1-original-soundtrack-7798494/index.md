@@ -10,6 +10,13 @@ cover:
     image: "kill-bill-vol-1-original-soundtrack-7798494.jpg"
     alt: "Kill Bill Vol. 1 - Original Soundtrack by Various"
     caption: "Kill Bill Vol. 1 - Original Soundtrack by Various"
+additional_images:
+    - "https://i.discogs.com/KplOJLxd6A6qJFI-oWkCHp3tDQyHfzDeygepzFgQpog/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg0/OTQtMTQ0OTEwNjA1/OC00OTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/e1eTTrjISE2TuWjoR7gPVXhfbhxzPXkw1NWoRERltcc/rs:fit/g:sm/q:90/h:518/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg0/OTQtMTQ5MTE0NDg2/Mi00NTA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/8jxGkfNlVRg1YloSwrrQxOlbA3MrTLC3GEuH6VKCDgs/rs:fit/g:sm/q:90/h:569/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg0/OTQtMTQ5MTE0NDg2/OC03NTA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/D16r2WgyALISOtwLEcmo9JpY3hL8G27opvoHGk7Pijo/rs:fit/g:sm/q:90/h:543/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg0/OTQtMTQ5MTE0NDg3/Mi0zNDgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/kt3nr1H4u6vHi5UvqvFbFTiSDLa1m_KNBa6z3t-62I4/rs:fit/g:sm/q:90/h:571/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg0/OTQtMTQ5MTE0NDg3/Ny02ODc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/xF2GuVZ_rmC409yNzN5fTYdUu40Efs_InAgmPlXu-hY/rs:fit/g:sm/q:90/h:509/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg0/OTQtMTQ5MTE0NDg4/Mi0yMDA0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
 styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
@@ -36,16 +43,10 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD
 {{< youtube id="7kSuas6mRpk" title="Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD" >}}<br>
-
 ### More Videos
 
 - [Kill Bill Vol. 1 [OST] #1 - Bang Bang (My Baby Shot Me Down)](https://www.youtube.com/watch?v=9KHEcUF_fvQ)
@@ -71,13 +72,15 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 - [Kill Bill Vol. 1 [OST] #21 - Sword Swings](https://www.youtube.com/watch?v=n_N3rfaUyh8)
 - [Kill Bill Vol. 1 [OST] #22 - Axe Throws](https://www.youtube.com/watch?v=J9hVWeiwsfA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Various - Kill Bill Vol. 1 - Original Soundtrack](https://www.discogs.com/release/7798494-Various-Kill-Bill-Vol-1-Original-Soundtrack) |
-| Label          | Maverick |
 | Format         | Vinyl LP Compilation Reissue Repress |
+| Label          | Maverick |
 | Catalog Number | 9362-48570-1 |
 | Notes | Reissue/Repress of the 2003 original release [r441066].  If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge.  This 2015 release does not.  Apart from this, it looks identical.  Includes a two-sided sheet with lyrics and infos.  |
+| Discogs URL    | [Various - Kill Bill Vol. 1 - Original Soundtrack](https://www.discogs.com/release/7798494-Various-Kill-Bill-Vol-1-Original-Soundtrack) |

@@ -10,6 +10,11 @@ cover:
     image: "mike-the-mechanics-1134097.jpg"
     alt: "Mike + The Mechanics by Mike & The Mechanics"
     caption: "Mike + The Mechanics by Mike & The Mechanics"
+additional_images:
+    - "https://i.discogs.com/8Pbhg3UcZAhNhkCc91Y8ovIYzEUendn--bNOixq4qrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTYyMTY3ODUx/Ny03NjMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ATa_okOnCHNvm4kgcXqjMFdrMGYda3nJRR8hw1N7dls/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTc5/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/xnPG7qVNVd2iZs1wOrsQtdAOUse32zqpIJm5XB6hpJo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTgx/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/layj2qxMRhCY4iJqjcXg61ns36__FjGn2RwwK0j64ZQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTgz/MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
@@ -30,20 +35,12 @@ styles: ["Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics-m6/1197681039" >}}
-
-
-
-
-
 ## Videos
 ### Mike & The Mechanics - Silent running
 {{< youtube id="ep7W89I_V_g" title="Mike & The Mechanics - Silent running" >}}<br>
-
 ### More Videos
 
 - [Mike + The Mechanics   Silent Running vinyl](https://www.youtube.com/watch?v=vhHCq5LMRhY)
@@ -58,13 +55,15 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Mike + The Mechanics - Taken In (Official Video)](https://www.youtube.com/watch?v=8toBVYDKukU)
 - [Mike + The Mechanics - Mike + The Mechanics (Full Album 1985)](https://www.youtube.com/watch?v=dOtfmYM_GOs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1985                                   |
-| Discogs Link   | [Mike & The Mechanics - Mike + The Mechanics](https://www.discogs.com/release/1134097-Mike-The-Mechanics-Mike-The-Mechanics) |
-| Label          | WEA |
 | Format         | Vinyl LP Album |
+| Label          | WEA |
 | Catalog Number | 252 496-1 |
 | Notes | Recorded at Air Studios Montserrat, Air London and The Farm.  ⓟ&© 1985 WEA International Inc. |
+| Discogs URL    | [Mike & The Mechanics - Mike + The Mechanics](https://www.discogs.com/release/1134097-Mike-The-Mechanics-Mike-The-Mechanics) |

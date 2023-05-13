@@ -11,6 +11,15 @@ cover:
     image: "nevermind-1860470.jpg"
     alt: "Nevermind by Nirvana"
     caption: "Nevermind by Nirvana"
+additional_images:
+    - "https://i.discogs.com/5y24rx2SqwplIX_XGLUqEA9Y8_1TE9sD-LFt7kAqLww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTY0ODIxNDU1/Ni0yMjQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/ttQzH7CKnBi8RWjWvV1pIaoIc-JKp_mL4WQOC7UZpnM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTYzNDY1MTgz/Ni04NTQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/v3YJwmIqNXGwqwOpN-moEUko1opchOCJ1L1YgukV-dE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTYzNDY1MTg0/NC0zNTk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/85dbFNSQMA8fx5yofdGAm-esCszfwYC_RVc9aHjufvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTYzNDY1MTg0/NC0zMzE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jU45WC025oWFhSwtfsQU1kSTrgOFkUskBSmgMa9BimA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTYzNDY1MTg1/My0zNTIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/KYkf_al9BWhj_7CletXniMgdmpekkICnjYDSvG7YmXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTYzNDY1MTg1/My01ODQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ftqGYB94PaOA9ErVt1cqC_MMu7Q27huELZrptrkLr_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTYzNDY1MTg2/Mi02NjE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/uUz9YQ8agOXcc0l8yzga0b2VDpXahd0irZiZVzs8pOs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA0/NzAtMTI5MzQ1MDUw/Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
@@ -34,25 +43,15 @@ styles: ["Alternative Rock", "Grunge"]
 
 <!-- section break -->
 
-
-Drummer Dave Grohl once said that the metaphor that kept coming up while Nirvana was recording <i>Nevermind</i> was children’s music. Listen and you can hear it: the sing-song melodies, the simple performances, the way it feels direct but also a little haunted. For however much the band are framed as ambassadors for generational angst, what makes <i>Nevermind</i> special isn’t its rage, but its innocence. Of course they wanted to tear down the culture that came before it: It was often misogynistic and cruel. But in its place, they wanted to build something equitable and new. “I’m so horny/That’s okay, my will is good,” Cobain sings on “Lithium”. It’s funny. It’s dumb. It’s simple. It’s wise. And it hits like a bolt of lightning: His will, it <i>is</i> good.<br />
-Even as an outsider, Cobain was an outsider—he drew influence from The Beatles just as much as he did Black Sabbath. And as much as the band helped bring punk and underground rock into the mainstream, <i>Nevermind</i> is a tirelessly complex piece of music—not in the way that prog rock is, but in the way folk art can be: an expression that draws on something familiar in ways that feel alien and intuitive. Anyone who has ever tried to pick up a guitar and play these songs realises that the punk maxim of needing just three chords is inapplicable: Here are songs that expand on it, progressing in ways that don’t make sense until they do.<br />
-Still, they never present themselves as more than ordinary. Where once stood the sex god in his leather pants now stands a beflannelled caveman, banging away on his cool new rock (“Territorial Pissings”, “Stay Away”); where once was the glossy power ballad is now something fragile and raw (“Polly”, “Something in the Way”). The old guard was still kicking: Both Metallica’s Black Album and Guns N’ Roses’ two-volume <i>Use Your Illusion</i> famously came out within weeks of <i>Nevermind</i>, selling millions while drawing the sort of critical curiosity that big rock bands hadn’t had in years. But <i>Nevermind</i> cut a Rubicon. Kip Winger, of the hair-metal band Winger, remembers seeing the course-setting video for “Smells Like Teen Spirit” and thinking he was finished. And not only did <i>Nevermind</i> go on to sell about as well as <i>Metallica</i> and <i>Use Your Illusion</i>, for a brief moment in early 1992, it even displaced Michael Jackson’s <i>Dangerous</i> as the best-selling album in the United States.<br />
-A publicist for Sub Pop (the band’s first label) once said that the thing that made Nirvana stand out in Seattle at the start was that girls liked them—not, you figure, just because Cobain was one of the first male rock stars to say he was a feminist, but because he was one of the first male rock stars who didn’t seem turned on by power. As radical as it seemed at the time, the beauty of <i>Nevermind</i> was simple: Anyone could come, just as they are.
-
-
-
+Nevermind is the second studio album by the American rock band Nirvana, released on September 24, 1991, by DGC Records. It was Nirvana's first release on a major label and the first to feature drummer Dave Grohl. Produced by Butch Vig, Nevermind features a more polished, radio-friendly sound than the band's prior work. It was recorded at Sound City Studios in Van Nuys, California, and Smart Studios in Madison, Wisconsin in May and June 1991, and mastered that August at the Mastering Lab in Hollywood, California.
+Written primarily by frontman Kurt Cobain, Nevermind is noted for channeling a range of emotions, being noted as dark, humorous, and disturbing. It includes anti-establishment views, anti-sexism, frustration, alienation, and troubled love inspired by Cobain's broken relationship with Bikini Kill's Tobi Vail. Contrary to the popular hedonistic themes of drugs and sex at the time, writers have observed that Nevermind re-invigorated sensitivity to mainstream rock. According to Cobain, the sound of the album was influenced by bands such as Pixies, R.E.M., the Smithereens, and Melvins. Though the album is considered a cornerstone of the grunge genre, it is noted for its musical diversity, which includes acoustic ballads ("Polly" and "Something in the Way") and punk-inspired hard rock ("Territorial Pissings" and "Stay Away").Nevermind became an unexpected critical and commercial success, hitting top 10 charts across the world. By January 1992, it reached number one on the US Billboard 200 and was selling approximately 300,000 copies a week. The lead single "Smells Like Teen Spirit" reached the top 10 of the US Billboard Hot 100 and went on to be inducted into the Grammy Hall of Fame. Its video was also heavily rotated on MTV. Three other successful singles were released: "Come as You Are", "Lithium", and "In Bloom". The album was voted the best album of the year in Pazz & Jop critics' poll, while "Smells Like Teen Spirit" also topped the single of the year and video of the year polls. The album also garnered the band three Grammy Award nominations in total across the 34th and 35th Grammy Awards, including Best Alternative Music Album.
+Nevermind and its singles' success propelled Nirvana to being widely regarded as the biggest band of the 1990s, with Cobain being dubbed by critics as the "voice of his generation." The album brought grunge and alternative rock to a mainstream audience while ending the dominance of hair metal, drawing similarities to the early 1960s British Invasion of American popular music. It is also often credited with initiating a resurgence of interest in punk culture among teenagers and young adults of Generation X, becoming seminal to the counterculture of the decade. It has sold more than 30 million copies worldwide, making it one of the best-selling albums of all time. In March 1999, it was certified Diamond by the RIAA. Among the most acclaimed and influential albums in the history of music, Nevermind was added to the National Recording Registry in 2004 as "culturally, historically, or aesthetically significant", and is frequently ranked highly on lists of the greatest albums of all time. The album has since been reissued with alternate takes and live performances.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nevermind/1440783617" >}}
-
-
-
-
-
 ## Videos
 ### Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)
 {{< youtube id="L1lTdnFQZw4" title="Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)" >}}<br>
-
 ### More Videos
 
 - [Nirvana - Smells Like Teen Spirit (Official Music Video)](https://www.youtube.com/watch?v=hTWKbfoikeg)
@@ -71,13 +70,17 @@ A publicist for Sub Pop (the band’s first label) once said that the thing that
 - [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)
 - [Nirvana - Aneurysm](https://www.youtube.com/watch?v=y7TPnH5emFg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2008                                   |
-| Discogs Link   | [Nirvana - Nevermind](https://www.discogs.com/release/1860470-Nirvana-Nevermind) |
-| Label          | DGC |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Nevermind |
+| Apple Music Summary | Drummer Dave Grohl once said that the metaphor that kept coming up while Nirvana was recording <i>Nevermind</i> was children’s music. Listen and you can hear it: the sing-song melodies, the simple performances, the way it feels direct but also a little haunted. For however much the band are framed as ambassadors for generational angst, what makes <i>Nevermind</i> special isn’t its rage, but its innocence. Of course they wanted to tear down the culture that came before it: It was often misogynistic and cruel. But in its place, they wanted to build something equitable and new. “I’m so horny/That’s okay, my will is good,” Cobain sings on “Lithium”. It’s funny. It’s dumb. It’s simple. It’s wise. And it hits like a bolt of lightning: His will, it <i>is</i> good.<br /><br>Even as an outsider, Cobain was an outsider—he drew influence from The Beatles just as much as he did Black Sabbath. And as much as the band helped bring punk and underground rock into the mainstream, <i>Nevermind</i> is a tirelessly complex piece of music—not in the way that prog rock is, but in the way folk art can be: an expression that draws on something familiar in ways that feel alien and intuitive. Anyone who has ever tried to pick up a guitar and play these songs realises that the punk maxim of needing just three chords is inapplicable: Here are songs that expand on it, progressing in ways that don’t make sense until they do.<br /><br>Still, they never present themselves as more than ordinary. Where once stood the sex god in his leather pants now stands a beflannelled caveman, banging away on his cool new rock (“Territorial Pissings”, “Stay Away”); where once was the glossy power ballad is now something fragile and raw (“Polly”, “Something in the Way”). The old guard was still kicking: Both Metallica’s Black Album and Guns N’ Roses’ two-volume <i>Use Your Illusion</i> famously came out within weeks of <i>Nevermind</i>, selling millions while drawing the sort of critical curiosity that big rock bands hadn’t had in years. But <i>Nevermind</i> cut a Rubicon. Kip Winger, of the hair-metal band Winger, remembers seeing the course-setting video for “Smells Like Teen Spirit” and thinking he was finished. And not only did <i>Nevermind</i> go on to sell about as well as <i>Metallica</i> and <i>Use Your Illusion</i>, for a brief moment in early 1992, it even displaced Michael Jackson’s <i>Dangerous</i> as the best-selling album in the United States.<br /><br>A publicist for Sub Pop (the band’s first label) once said that the thing that made Nirvana stand out in Seattle at the start was that girls liked them—not, you figure, just because Cobain was one of the first male rock stars to say he was a feminist, but because he was one of the first male rock stars who didn’t seem turned on by power. As radical as it seemed at the time, the beauty of <i>Nevermind</i> was simple: Anyone could come, just as they are. |
+    | Release Year   | 2008                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Label          | DGC |
 | Catalog Number | 0720642442517 |
 | Notes | Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU. |
+| Discogs URL    | [Nirvana - Nevermind](https://www.discogs.com/release/1860470-Nirvana-Nevermind) |

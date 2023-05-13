@@ -10,6 +10,13 @@ cover:
     image: "chairs-missing-12193551.jpg"
     alt: "Chairs Missing by Wire"
     caption: "Chairs Missing by Wire"
+additional_images:
+    - "https://i.discogs.com/u-5qfdiKGkoJM_p-Sz0o6RYjKE4akpyNNMUsfzTvk5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTUxLTE1MzAzNTI5/NDgtODI0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/9ljm1LVrvYpAiwVXyoqlJBbZx04z0ce_G5ZMUF6FtWY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTUxLTE1MzAzNTI5/NTUtOTUyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/9DT-RN9YbkAqU0CW67M3m-IzIb_LjufTThFDt1RtfM0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTUxLTE1NDA3NTUw/MDEtNTM1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/SxFeP9R6Wl3G139NWijW8P_-2iY_CsytKj0P7lWRm4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTUxLTE1NDA3NTUx/MzQtMTI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/o5T8sWG3AahegZfOf9z2zrSPUx5ntojY25svKmRyros/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTUxLTE1NjIwMDI1/NzgtMzA4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/L815N9qfsFSPuKPtoBFz98LzMNhrlYND1bXDkMWtM7Q/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTUxLTE1NjIwMDI1/NzktNjU1Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
@@ -36,20 +43,13 @@ styles: ["New Wave", "Post-Punk"]
 
 <!-- section break -->
 
-
-
-
+Chairs Missing is the second studio album by English rock band Wire. It was released on 8 September 1978 by Harvest Records. The album peaked at number 48 in the UK Albums Chart.Although it features some of the minimalist punk rock of the band's debut Pink Flag, Chairs Missing contains more developed song structure (taking some cues from 1970s prog-rock, psychedelia, and art rock), keyboard and synthesizer elements brought in by producer Mike Thorne, and a broader palette of emotional and intellectual subject matter. The title is said to be a British slang term for a mildly disturbed person, as in "that guy has a few chairs missing in his front room". The single "Outdoor Miner" was a minor hit, peaking at number 51 in the UK Singles Chart.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chairs-missing/1328869087" >}}
-
-
-
-
-
 ## Videos
 ### Practice Makes Perfect (2006 Remastered Version)
 {{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect (2006 Remastered Version)" >}}<br>
-
 ### More Videos
 
 - [French Film Blurred (2006 Remastered Version)](https://www.youtube.com/watch?v=ci1OZ1mWKMg)
@@ -67,13 +67,17 @@ styles: ["New Wave", "Post-Punk"]
 - [Used To (2006 Remastered Version)](https://www.youtube.com/watch?v=kFv1fNud0cY)
 - [Too Late (2006 Remastered Version)](https://www.youtube.com/watch?v=ZiKagKI-_OI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Chairs_Missing |
+| Wikipedia Summary | Chairs Missing is the second studio album by English rock band Wire. It was released on 8 September 1978 by Harvest Records. The album peaked at number 48 in the UK Albums Chart.Although it features some of the minimalist punk rock of the band's debut Pink Flag, Chairs Missing contains more developed song structure (taking some cues from 1970s prog-rock, psychedelia, and art rock), keyboard and synthesizer elements brought in by producer Mike Thorne, and a broader palette of emotional and intellectual subject matter. The title is said to be a British slang term for a mildly disturbed person, as in "that guy has a few chairs missing in his front room". The single "Outdoor Miner" was a minor hit, peaking at number 51 in the UK Singles Chart. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Wire - Chairs Missing](https://www.discogs.com/release/12193551-Wire-Chairs-Missing) |
-| Label          | Pinkflag |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Pinkflag |
 | Catalog Number | PF12LP |
 | Notes | Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Not available on cassette  Printed inner sleeve with lyrics.  Labels read "Side One" on both sides, track listing is correct for each side however. |
+| Discogs URL    | [Wire - Chairs Missing](https://www.discogs.com/release/12193551-Wire-Chairs-Missing) |

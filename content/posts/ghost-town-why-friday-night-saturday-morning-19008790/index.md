@@ -10,6 +10,12 @@ cover:
     image: "ghost-town-why-friday-night-saturday-morning-19008790.jpg"
     alt: "Ghost Town / Why? / Friday Night, Saturday Morning by The Specials"
     caption: "Ghost Town / Why? / Friday Night, Saturday Morning by The Specials"
+additional_images:
+    - "https://i.discogs.com/Bk82UTuw8ulhiRhJC3GvoVRr8lu9Wt2UbtZz8ri_0wQ/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtOTIzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/kUtEsm0FrjCe-lLpe49JbFulFiXfEcv6rZ3Xf5sbROw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtMzY1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/X1u4h1QPfuJdLFbYGHq2Du-1ajsQOmja7gDJP-Qv4oE/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtODAwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/fI5M6HH9XJFnlYRL9bnuqWakMWI75BqbvWh5tg8_bVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjMxMDQy/NTYtNDQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/yGFk9kREuhGO2GlalbEOh5EU8IzLuifW_FxzcdUTFoc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjMxMDQy/NzItOTE3Ny5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
@@ -24,16 +30,10 @@ styles: ["Ska", "Rocksteady"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### The Specials - Ghost Town [Official HD Remastered Video]
 {{< youtube id="RZ2oXzrnti4" title="The Specials - Ghost Town [Official HD Remastered Video]" >}}<br>
-
 ### More Videos
 
 - [The Specials ‎– The Conquering Ruler LP (2001) [VINYL RIP] *HQ AUDIO* *RE-ENGINEERED*](https://www.youtube.com/watch?v=mELEK9q4QjY)
@@ -109,13 +109,15 @@ styles: ["Ska", "Rocksteady"]
 - [Friday Night, Saturday Morning (2021 Remaster)](https://www.youtube.com/watch?v=QHKsa3DuQWU)
 - [Friday Night, Saturday Morning (Live)](https://www.youtube.com/watch?v=zt-wV3snjaU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [The Specials - Ghost Town / Why? / Friday Night, Saturday Morning](https://www.discogs.com/release/19008790-The-Specials-Ghost-Town-Why-Friday-Night-Saturday-Morning) |
-| Label          | Two-Tone Records |
 | Format         | Vinyl 7" 45 RPM Single Reissue (Half Speed Remastered) |
+| Label          | Two-Tone Records |
 | Catalog Number | CHS TTH 17 |
 | Notes | 40th Anniversary Edition Double 'A' Side Single Half-Speed Mastered at Abbey Road Studios |
+| Discogs URL    | [The Specials - Ghost Town / Why? / Friday Night, Saturday Morning](https://www.discogs.com/release/19008790-The-Specials-Ghost-Town-Why-Friday-Night-Saturday-Morning) |

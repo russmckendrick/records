@@ -10,6 +10,14 @@ cover:
     image: "spilt-milk-4165201.jpg"
     alt: "Spilt Milk by Jellyfish"
     caption: "Spilt Milk by Jellyfish"
+additional_images:
+    - "https://i.discogs.com/jWwgY6S9s2XVfXs8uSZDxLrlLZhDuOnmcKtNBI9fxMI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTQyODc3Mzg5/MC01Njg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/fQwfdNxFHcEHnZXbEo2HbhGa6heC0ZseLIvOi4SgUaQ/rs:fit/g:sm/q:90/h:593/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTQxMDY0NjU4/OS0yNTYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/lw-ztG57Vd73UEJWbuBgWQcUH-jcKXNjI33Zko9pdKQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTM1NzQyNzA3/My05NTAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ISn5nuiZUUY34IKoDIhK7uQDyVFOThWKx_FUnqaM2dI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTM1NzQyNzA5/MS05NDEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/N9OrwW96yVLyGG3NCRrayNem0QP36Bcj7VqjUOydo7M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTM1NzQyNzEw/Ny0zMjkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/n7u7hoARfSF_GWS99_QYpHwbiNJt5lchpOgnlyOoIqs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTM1NzQyNzEy/Mi0yMjk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/M6je6muOZ8sXlehiYnW5pySUmndzTX0q8uuIG-WqxTQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTM1NzQyNzEz/Ny0xNjY2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop", "Glam"]
 ---
@@ -33,32 +41,31 @@ styles: ["Power Pop", "Glam"]
 
 <!-- section break -->
 
-
-
-
+Spilt Milk is the second and last studio album by American rock band Jellyfish, released on February 9, 1993, by Charisma Records. It features a harsher and more ornate sound than their previous, Bellybutton (1990). As with Bellybutton, Spilt Milk was written and co-produced by founding members Andy Sturmer and Roger Manning. Albhy Galuten and Jack Joseph Puig also returned as producers.
+Named for the hard work and turmoil surrounding its making, Spilt Milk was recorded after the departure of bassist Chris Manning (who was replaced by Tim Smith) and lead guitarist Jason Falkner. Guitar duties were instead handled by session musicians Jon Brion and Lyle Workman. Production lasted several months due to the record's complicated orchestrations, and ultimately ran over-budget.
+The album was supported with a yearlong tour that introduced guitarist Eric Dover into the band's line-up. Spilt Milk performed below commercial expectations, peaking at number 164 on the Billboard 200 and number 21 on the UK Albums Chart. Singles "The Ghost at Number One" and "New Mistake" charted at numbers 43 and 55 in the UK, respectively. An expanded deluxe edition of the album was released by Omnivore Recordings in 2015.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spilt-milk/723680259" >}}
-
-
-
-
-
 ## Videos
 ### Jellyfish - New Mistake
 {{< youtube id="eHvgQDRpA-s" title="Jellyfish - New Mistake" >}}<br>
-
 ### More Videos
 
 - [Jellyfish - Spilt Milk [FULL ALBUM, HQ]](https://www.youtube.com/watch?v=cu9xIyZ6ZMg)
 - [Jellyfish - The Ghost At #1](https://www.youtube.com/watch?v=YgKjC2V4xfk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Spilt_Milk_(Jellyfish_album) |
+| Wikipedia Summary | Spilt Milk is the second and last studio album by American rock band Jellyfish, released on February 9, 1993, by Charisma Records. It features a harsher and more ornate sound than their previous, Bellybutton (1990). As with Bellybutton, Spilt Milk was written and co-produced by founding members Andy Sturmer and Roger Manning. Albhy Galuten and Jack Joseph Puig also returned as producers.<br>Named for the hard work and turmoil surrounding its making, Spilt Milk was recorded after the departure of bassist Chris Manning (who was replaced by Tim Smith) and lead guitarist Jason Falkner. Guitar duties were instead handled by session musicians Jon Brion and Lyle Workman. Production lasted several months due to the record's complicated orchestrations, and ultimately ran over-budget.<br>The album was supported with a yearlong tour that introduced guitarist Eric Dover into the band's line-up. Spilt Milk performed below commercial expectations, peaking at number 164 on the Billboard 200 and number 21 on the UK Albums Chart. Singles "The Ghost at Number One" and "New Mistake" charted at numbers 43 and 55 in the UK, respectively. An expanded deluxe edition of the album was released by Omnivore Recordings in 2015. |
 | Release Year   | 2012                                   |
-| Discogs Link   | [Jellyfish - Spilt Milk](https://www.discogs.com/release/4165201-Jellyfish-Spilt-Milk) |
-| Label          | Omnivore Recordings |
 | Format         | Vinyl LP Album Reissue (180 gram) |
+| Label          | Omnivore Recordings |
 | Catalog Number | OVLP-6 |
 | Notes | Full title: Jellyfish Presents Spilt Milk   Cut from original analog masters.  First time on LP in the U.S.  Pressed on 180-Gram Vinyl!  Black vinyl edition |
+| Discogs URL    | [Jellyfish - Spilt Milk](https://www.discogs.com/release/4165201-Jellyfish-Spilt-Milk) |

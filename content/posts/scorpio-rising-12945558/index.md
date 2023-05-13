@@ -10,6 +10,9 @@ cover:
     image: "scorpio-rising-12945558.jpg"
     alt: "Scorpio Rising by Death In Vegas"
     caption: "Scorpio Rising by Death In Vegas"
+additional_images:
+    - "https://i.discogs.com/3XPtaQFGzdxDRZZdnkC6ja_2WBRy2mO7FH5o4nuYJZE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ1/NTU4LTE1NDUwNzA2/NTYtNzUxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Ebf-pSc7VO0H2W1ZlPSwcxrx551JRSJl4opWr6LHRWE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ1/NTU4LTE1NDUwNzA2/NjctNzQ4Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 ---
@@ -31,20 +34,19 @@ styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 
 <!-- section break -->
 
+Scorpio Rising is the third album by British electronica band Death in Vegas. It was released on 16 September 2002 in the United Kingdom via Concrete Records, and on 17 June 2003 in the United States via Sanctuary Records. The album takes its name from an experimental film by Kenneth Anger. Scorpio Rising features guest vocalists Liam Gallagher, Hope Sandoval, Nicola Kuperus, and Paul Weller, as well as string arrangements by L. Subramaniam. The album was recorded at Death in Vegas' own studio The Contino Rooms in early 2002, with the strings recorded at Trinity Wave Station in Chennai, India.The song "Hands Around My Throat" contains samples from the songs "Rock Around the Clock" by Telex (written by Max C. Freedman and Jimmy DeKnight) and "Whitewater" by Tortoise (written by Dan Bitney, Bundy Kien Brown, John Herndon, Doug McCombs, and John McEntire). "23 Lies" includes a sample from "Goin' Back" by The Byrds, written and composed by Carole King and Gerry Goffin. "Scorpio Rising" takes its main riff from "Pictures of Matchstick Men" by Status Quo, and is co-credited to songwriter Francis Rossi.
+Several songs on the album have appeared in television advertisements and on film soundtracks:
 
-
-
+"Girls" is featured on the soundtrack to the 2003 film Lost in Translation and 2004 film D.E.B.S..
+"Hands Around My Throat" is featured on the Animatrix soundtrack; in a commercial TV-spot by Sony Ericsson for Sony Ericsson K700i; and in the episode "Once Bitten" of Big Little Lies.
+"Scorpio Rising" is used in a commercial by the Belgian mobile phone operator Base and at the end of the episode "Touch and Go" of ER.
+"Help Yourself" was used in a commercial by the former Czech mobile phone operator Eurotel (now Telefónica O2 Czech Republic); in Johan Kramer's 2003 film The Other Final; in the 2003 Girl Skateboards video Yeah Right!; and in the 2005 film 12 and Holding.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/274003120" >}}
-
-
-
-
-
 ## Videos
 ### Death In Vegas - Scorpio Raising ft. Liam Gallagher
 {{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}<br>
-
 ### More Videos
 
 - [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
@@ -57,13 +59,17 @@ styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 - [Death in Vegas - 23 Lies (Hope Sandoval)](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 - [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Scorpio_Rising_(Death_in_Vegas_album) |
+| Wikipedia Summary | Scorpio Rising is the third album by British electronica band Death in Vegas. It was released on 16 September 2002 in the United Kingdom via Concrete Records, and on 17 June 2003 in the United States via Sanctuary Records. The album takes its name from an experimental film by Kenneth Anger. Scorpio Rising features guest vocalists Liam Gallagher, Hope Sandoval, Nicola Kuperus, and Paul Weller, as well as string arrangements by L. Subramaniam. The album was recorded at Death in Vegas' own studio The Contino Rooms in early 2002, with the strings recorded at Trinity Wave Station in Chennai, India.The song "Hands Around My Throat" contains samples from the songs "Rock Around the Clock" by Telex (written by Max C. Freedman and Jimmy DeKnight) and "Whitewater" by Tortoise (written by Dan Bitney, Bundy Kien Brown, John Herndon, Doug McCombs, and John McEntire). "23 Lies" includes a sample from "Goin' Back" by The Byrds, written and composed by Carole King and Gerry Goffin. "Scorpio Rising" takes its main riff from "Pictures of Matchstick Men" by Status Quo, and is co-credited to songwriter Francis Rossi.<br>Several songs on the album have appeared in television advertisements and on film soundtracks:<br><br>"Girls" is featured on the soundtrack to the 2003 film Lost in Translation and 2004 film D.E.B.S..<br>"Hands Around My Throat" is featured on the Animatrix soundtrack; in a commercial TV-spot by Sony Ericsson for Sony Ericsson K700i; and in the episode "Once Bitten" of Big Little Lies.<br>"Scorpio Rising" is used in a commercial by the Belgian mobile phone operator Base and at the end of the episode "Touch and Go" of ER.<br>"Help Yourself" was used in a commercial by the former Czech mobile phone operator Eurotel (now Telefónica O2 Czech Republic); in Johan Kramer's 2003 film The Other Final; in the 2003 Girl Skateboards video Yeah Right!; and in the 2005 film 12 and Holding. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/12945558-Death-In-Vegas-Scorpio-Rising) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Red Translucent) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP2251 |
 | Notes | ℗ & © 2018 Sony Music Entertainment.  180 gram audiophile vinyl. Gatefold sleeve. Printed innersleeves with per track credits. 2.500 individually numbered copies on red vinyl.  Runouts are hand etched on all four sides. |
+| Discogs URL    | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/12945558-Death-In-Vegas-Scorpio-Rising) |

@@ -11,6 +11,8 @@ cover:
     image: "hold-your-fire-7897222.jpg"
     alt: "Hold Your Fire by Rush"
     caption: "Hold Your Fire by Rush"
+additional_images:
+    - "https://i.discogs.com/_aStLTPQ0xqFBFp59mQFmjYnC0ioADm7Cca7dB5tJ_o/rs:fit/g:sm/q:90/h:386/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTcy/MjItMTQ1MTIwNDM2/NC0xNzU1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
@@ -32,30 +34,26 @@ styles: ["Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
 Anyone acquainted with the epic grandeur of this progressive rock trio's work in the ‘70s might be surprised to hear Rush so comfortable in the pop-rock world of the ‘80s. Yet, it makes great sense that a band constantly looking to re-invent itself would find comfort in the emergent technologies of the era. Geddy Lee's voice frequently comes down from the helium-screech end of his range to embrace a warmer, human tone and it's his extra keyboard washes that layer the intricacies of the songs. Drummer Neil Peart can still be heard functioning as both the steady metronomic beat box and a percussive wunderkind consistently surprising with his inventive fills. But the real emphasis here is on songwriting. "Time Stand Still" with ‘Til Tuesday's Aimee Mann doubling up the vocals, "Open Secrets," and "Turn the Page" are among the group's most rewarding. "Force Ten" is a techno-charged hard rocker that recalls the band's fiery early edge. "Lock and Key" and "Mission" use ethereal textures underneath rock brawn.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hold-your-fire-remastered/1442456383" >}}
-
-
-
-
-
 ## Videos
 ### Rush - Lock And Key (Hold Your Fire) (German Repress CD)
 {{< youtube id="wbyZfD3umTM" title="Rush - Lock And Key (Hold Your Fire) (German Repress CD)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Rush - Hold Your Fire](https://www.discogs.com/release/7897222-Rush-Hold-Your-Fire) |
-| Label          | Mercury |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hold_Your_Fire |
+| Wikipedia Summary | Hold Your Fire is the twelfth studio album by Canadian rock band Rush, released on September 8, 1987. It was recorded at The Manor Studio in Oxfordshire, Ridge Farm Studio in Surrey, Air Studios in Montserrat and McClear Place in Toronto. Hold Your Fire was the last Rush studio album released outside Canada by PolyGram/Mercury. 'Til Tuesday bassist and vocalist Aimee Mann contributed vocals to "Time Stand Still" and appeared in the Zbigniew Rybczyński-directed video.  <br>The album was not as commercially successful as most of the band's releases of the 1980s, peaking at number 13 on the Billboard charts, the lowest chart peak for a Rush album since 1978's Hemispheres. However, it was eventually certified Gold by the RCAA. |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
+| Label          | Mercury |
 | Catalog Number | 00602547118295 |
 | Notes | Lyrics sheet inserted with lyrics, credits on one side and photo/art (man juggling with fire) on other. Plastic-lined paper inner sleeve. Including a voucher to download an MP3 Vinyl rip of the album. Voucher also includes credits for reissue and DMM info. Direct Metal Mastering (DMM) technology used. Pressed on 180 g vinyl.  |
+| Discogs URL    | [Rush - Hold Your Fire](https://www.discogs.com/release/7897222-Rush-Hold-Your-Fire) |

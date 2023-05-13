@@ -11,6 +11,8 @@ cover:
     image: "no-cities-to-love-7761945.jpg"
     alt: "No Cities To Love by Sleater-Kinney"
     caption: "No Cities To Love by Sleater-Kinney"
+additional_images:
+    - "https://i.discogs.com/kENe08sYaROGxEikBIxu6EjOjg7FOAyK0BhqVl5mqEU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE5/NDUtMTQ1MDQwMDc0/Mi0xODI0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 ---
@@ -32,22 +34,13 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 
 <!-- section break -->
 
-
 The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, honest-to-goodness rock. Corin Tucker is in full command of her howitzer of a voice on standouts like “Surface Envy”. Carrie Brownstein’s haughty punk sneer leads the glorious “A New Wave”. Janet Weiss’ masterful drumming navigates the songwriting’s hairpin tonal shifts, from the glittering “Hey Darling” to the turbulent album closer, “Fade". <i>No Cities to Love</i> is an electrifying step forward for one of the great American rock bands. 
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-cities-to-love/927171224" >}}
-
-
-
-
-
 ## Videos
 ### Sleater-Kinney - No Cities To Love
 {{< youtube id="Cj2k3QsHmyM" title="Sleater-Kinney - No Cities To Love" >}}<br>
-
 ### More Videos
 
 - [Sleater-Kinney - A New Wave [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=Kc1htX3q-F0)
@@ -55,13 +48,17 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 - [Sleater-Kinney - Fangless](https://www.youtube.com/watch?v=kV5ezv1yg0c)
 - [Sleater-Kinney - No Cities to Love](https://www.youtube.com/watch?v=_jiX-Svw7KQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Sleater-Kinney - No Cities To Love](https://www.discogs.com/release/7761945-Sleater-Kinney-No-Cities-To-Love) |
-| Label          | Sub Pop |
+| Wikipedia URL | https://en.wikipedia.org/wiki/No_Cities_to_Love |
+| Wikipedia Summary | No Cities to Love is the eighth studio album by American rock band Sleater-Kinney, released on January 20, 2015, through Sub Pop. It is the first album following a decade-long hiatus and the band's 2005 release, The Woods. The album received universal acclaim from music critics and was listed on several "Best Albums of 2015" lists.<br><br> |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (Gatefold) |
+| Label          | Sub Pop |
 | Catalog Number | SP1100 |
 | Notes | Black vinyl edition, comes in a triple gatefold cover.    Includes a four page sheet with lyrics and credits and a coupon with free download code.   Exclusive Barnes & Noble edition with art print signed by the band.     All songs written by Sleater Kinney.  Code Word Nemesis (ASCAP)    ©℗ 2015 Sub Pop Records.    Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"   |
+| Discogs URL    | [Sleater-Kinney - No Cities To Love](https://www.discogs.com/release/7761945-Sleater-Kinney-No-Cities-To-Love) |

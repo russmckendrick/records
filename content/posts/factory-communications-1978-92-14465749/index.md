@@ -10,6 +10,10 @@ cover:
     image: "factory-communications-1978-92-14465749.jpg"
     alt: "Factory Communications 1978-92 by Various"
     caption: "Factory Communications 1978-92 by Various"
+additional_images:
+    - "https://i.discogs.com/JCQ0Jlowfz66fki3nPU90zC893u7Y97N69OptvLXazE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE1NzUyMTA2/NDEtOTM3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ytBKFWO3skhcx8MjfTJaFm9z4iX9hGWJTFO7UboCDa0/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE1OTQxNDQ4/OTAtNzQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/akE_7VLLqvyA-2myqSbxUKjvZI290qOGZ3Xx2SN1sYo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE2NDE3NTQ0/MjUtNDI2OS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
 ---
@@ -100,19 +104,12 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Joy Division - Digital
 {{< youtube id="9qgFGqJz9yc" title="Joy Division - Digital" >}}<br>
-
 ### More Videos
 
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
@@ -136,13 +133,15 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
 - [Various ‎– Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Various - Factory Communications 1978-92](https://www.discogs.com/release/14465749-Various-Factory-Communications-1978-92) |
-| Label          | Warner Music |
 | Format         | Vinyl 8× LP Reissue (180g), Box Set Compilation |
+| Label          | Warner Music |
 | Catalog Number | 0190295663841 |
 | Notes | Housed in a cardboard box with 40 page booklet. Cat. # printed on all labels.  Track A5: The version used here is the 12" version FACUS 2 released August 1980. Track A6: On the single Finney and Perrin are credited as writers. Track B3: Duration on the 12" 10:11, here is fading out.   Track F1: On the 12" Royal Family And The Poor (The Poor) are also credited as producers.  [a=John Davis (4)] cut is directly credited on booklet and his signature (JD) is etched on side A |
+| Discogs URL    | [Various - Factory Communications 1978-92](https://www.discogs.com/release/14465749-Various-Factory-Communications-1978-92) |

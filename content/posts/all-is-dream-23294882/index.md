@@ -10,6 +10,16 @@ cover:
     image: "all-is-dream-23294882.jpg"
     alt: "All Is Dream by Mercury Rev"
     caption: "All Is Dream by Mercury Rev"
+additional_images:
+    - "https://i.discogs.com/jWJvDnvM0tI_pWto2LWHK6UftUByGa-S43Fko6DGbdw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjEtNDMyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/17ZIa3R4FLtMnbDJVrPiZmrgLj-fTLyKm5qRfBmoZ1g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjgtMjc1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1jMCDdu5m4aQBNHWPqB_VP2maPI5YrkXCw8qI5_RF6w/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjgtNjk4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/iNc-mw8xc5ux2pwCxb-8N5uzAPsRcmM6_va1g8aqyTc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjgtMjk1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/U-R4BnDOHCP_VUFITVkmtNp94y-DSCTpgK4hJjuaVck/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjQtNTcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/N0VsDFx0w8-lCiMnDxVY5cyNuYsS5b9LYamOKS4gTiM/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjQtNzczNC5qcGVn.jpeg"
+    - "https://i.discogs.com/J5xzuJS5ngs4yDoFblFlvPzF6xZf7bIk_uMTGhy8lpI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjMtNzU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/MnoNre4AIgajzUduq8hr0R0RZeC4RZnA6xGSMfCI6Zk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjMtMzY4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ChnaD89muh2Nwaf505wfQSomUy6JuMSvQE-mnGHeYgA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjctMTc2My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -47,20 +57,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-is-dream/1601008224" >}}
-
-
-
-
-
 ## Videos
 ### Mercury Rev - Tides of the Moon
 {{< youtube id="esRQQ0hV-ls" title="Mercury Rev - Tides of the Moon" >}}<br>
-
 ### More Videos
 
 - [Hercules](https://www.youtube.com/watch?v=J3wXbJpx3fM)
@@ -78,13 +80,15 @@ styles: ["Alternative Rock"]
 - [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
 - [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Mercury Rev - All Is Dream](https://www.discogs.com/release/23294882-Mercury-Rev-All-Is-Dream) |
-| Label          | Cherry Red |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow and Green Marble Edition) |
+| Label          | Cherry Red |
 | Catalog Number | BREDD816 |
 | Notes | Limited to 1000 copies Same version than the red and black marbled vinyl (2020) but in yellow and green  |
+| Discogs URL    | [Mercury Rev - All Is Dream](https://www.discogs.com/release/23294882-Mercury-Rev-All-Is-Dream) |

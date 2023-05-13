@@ -10,6 +10,14 @@ cover:
     image: "return-to-y-hup-the-world-of-ivor-cutler-14702777.jpg"
     alt: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
     caption: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
+additional_images:
+    - "https://i.discogs.com/jagkSY-h6TDez3EnJ3Imljdo1V3p_yTr12jdsrZ1GLQ/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/NjQtOTMzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/lur7E9uUhND7e77yrCAFpn2kV-d0LxSFD3kCKn3WIng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/NzYtNTM0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/et-51BKbdGhi-PlaQwl887R2lAIBD8rnyZCf62lQw34/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODMtNTQ2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/rqYn7uzk4ECm-PnCpi1gZ4UExxWmTbMv4nUSXGiniok/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODQtNDIyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/h7Fu4WmhP4gg7JgSpNX4mp9gXWDyVUng_af4I-0V7IQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODMtNjgxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/WWFBSqCLvqFcWrgV-PsI-E1VKvegQY12OMoPJ5qZWcQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODUtODgzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/khpFpRJ4vu0imHAz30oV3zmLN6cyvicRC6aYRchNvFg/rs:fit/g:sm/q:90/h:863/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODUtMjY3NC5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -47,26 +55,22 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)
 {{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}<br>
-
 ### More Videos
 
 - [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler](https://www.discogs.com/release/14702777-Citizen-Bravo-Raymond-MacDonald-And-Friends-Return-To-YHup-The-World-Of-Ivor-Cutler) |
-| Label          | Chemikal Underground Records |
 | Format         | Vinyl LP Album Limited Edition (Blue Marble) |
+| Label          | Chemikal Underground Records |
 | Catalog Number | CHEM255 |
+| Discogs URL    | [Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler](https://www.discogs.com/release/14702777-Citizen-Bravo-Raymond-MacDonald-And-Friends-Return-To-YHup-The-World-Of-Ivor-Cutler) |

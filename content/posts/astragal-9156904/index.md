@@ -10,6 +10,8 @@ cover:
     image: "astragal-9156904.jpg"
     alt: "Astragal by Broken DC"
     caption: "Astragal by Broken DC"
+additional_images:
+    - "https://i.discogs.com/GLpoXu4cs5Z4bsj85wb8Yz6h7S9BnKU6-ntZnp1Dfwo/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTY5/MDQtMTQ3NTc3OTkz/MC00Njk5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -31,28 +33,23 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/astragal/1171757044" >}}
-
-
-
-
-
 ## Videos
 ### Broken DC - Summer Lawns
 {{< youtube id="mK12aoSMjvc" title="Broken DC - Summer Lawns" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Broken DC - Astragal](https://www.discogs.com/release/9156904-Broken-DC-Astragal) |
-| Label          | God Unknown Records |
 | Format         | Vinyl LP Album Limited Edition |
+| Label          | God Unknown Records |
 | Catalog Number | GOD025 |
 | Notes | Limited edition of 300 |
+| Discogs URL    | [Broken DC - Astragal](https://www.discogs.com/release/9156904-Broken-DC-Astragal) |

@@ -10,6 +10,9 @@ cover:
     image: "intriguer-2388576.jpg"
     alt: "Intriguer by Crowded House"
     caption: "Intriguer by Crowded House"
+additional_images:
+    - "https://i.discogs.com/8_TjiGyLG4EohwwVVzvmLln5vO-s6lWeeBmf5MS-TQc/rs:fit/g:sm/q:90/h:445/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTI4MTE0MDg2/My5qcGVn.jpeg"
+    - "https://i.discogs.com/-p6GlKtR3WrVZIkHPSfRty87BPtCj6FqXqhsQ9Ue_UY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTYzNzMzNzkx/NC00Njg0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -31,28 +34,26 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/intriguer-deluxe-version/1599607936" >}}
-
-
-
-
-
 ## Videos
 ### Crowded House - Twice If You're Lucky
 {{< youtube id="YcKh-VeFxX0" title="Crowded House - Twice If You're Lucky" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Intriguer |
+| Wikipedia Summary | Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010. |
 | Release Year   | 2010                                   |
-| Discogs Link   | [Crowded House - Intriguer](https://www.discogs.com/release/2388576-Crowded-House-Intriguer) |
-| Label          | Universal Music Group International |
 | Format         | Vinyl LP Album |
+| Label          | Universal Music Group International |
 | Catalog Number | 00602527415185 |
 | Notes | Recorded at Roundhead Studios, Auckland May-Aug 09 Mixed at PLYRZ Studios, LA Mastered @ Gateway Mastering & DVD Portland. Additional recording @ Exchequer Studios, Dublin. Additional recording & mixing @ PLYRZ Studios Aug 25-Sept 25 2009.  Preorder from Neil Finn site were signed by Neil, Nick, Mark and Matt on cover  |
+| Discogs URL    | [Crowded House - Intriguer](https://www.discogs.com/release/2388576-Crowded-House-Intriguer) |

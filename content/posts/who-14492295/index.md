@@ -10,6 +10,10 @@ cover:
     image: "who-14492295.jpg"
     alt: "Who by The Who"
     caption: "Who by The Who"
+additional_images:
+    - "https://i.discogs.com/9f237LvpuNHApPgooFDhg7JFay-s4mBZSgom5UkXCG8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzgtNzg2My5qcGVn.jpeg"
+    - "https://i.discogs.com/DcSlJH2a9-EIc8IEv8h2qJsP97mqNdzbZkmwK4Yh85U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzktNjQ2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Ta-pkAhKFX55TD1GuaroUplKw8BilvYbT-ZzB0HOeoc/rs:fit/g:sm/q:90/h:979/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzgtMTAzOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
@@ -32,23 +36,24 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-
-
-
+Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.
+Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Who_(album) |
+| Wikipedia Summary | Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.<br>Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [The Who - Who](https://www.discogs.com/release/14492295-The-Who-Who) |
-| Label          | Polydor |
 | Format         | Vinyl LP Album Limited Edition Picture Disc |
+| Label          | Polydor |
 | Catalog Number | 0830402 |
 | Notes | The First Studio Album since 2006  Includes free digital download code of all songs of "Who"  ℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited  Made in the EU  |
+| Discogs URL    | [The Who - Who](https://www.discogs.com/release/14492295-The-Who-Who) |

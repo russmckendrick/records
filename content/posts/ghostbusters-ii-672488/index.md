@@ -10,6 +10,11 @@ cover:
     image: "ghostbusters-ii-672488.jpg"
     alt: "Ghostbusters II by Various"
     caption: "Ghostbusters II by Various"
+additional_images:
+    - "https://i.discogs.com/231Xg22hA-gbc5iUm0IRtp3h-6mkxSyl6ALPy30lFAM/rs:fit/g:sm/q:90/h:595/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjQ4/OC0xNDY3OTAwMjIz/LTk4MDIuanBlZw.jpeg"
+    - "https://i.discogs.com/QRERzcu0p-qYPBCi9anvolfgy7OHQCk00Oh8S8Utmnc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjQ4/OC0xNDY3OTAwMjMx/LTMxNjIuanBlZw.jpeg"
+    - "https://i.discogs.com/eahkcsBWIzTWUNoDy9rJn-Drw8jI85MlNayocXkkGPw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjQ4/OC0xNDY3OTAwMjM4/LTEwNzEuanBlZw.jpeg"
+    - "https://i.discogs.com/oQp5Sgpk_3PlB2Nl53x8ZV1dwbcZGCMYrv6aRjJbEI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjQ4/OC0xNDY3OTAwMjQ3/LTEyNjcuanBlZw.jpeg"
 genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ---
@@ -31,19 +36,12 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="7hb7PW4pEcddvEPyU8WORa" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Bobby Brown On Our Own (Ghostbusters II Soundtrack)
 {{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own (Ghostbusters II Soundtrack)" >}}<br>
-
 ### More Videos
 
 - [On Our Own (From Ghostbusters II Soundtrack)](https://www.youtube.com/watch?v=2_S94_nx5Ao)
@@ -58,12 +56,14 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 - [Flip City](https://www.youtube.com/watch?v=pahcnB6FTLk)
 - [Higher And Higher](https://www.youtube.com/watch?v=4hVyALxFzJ4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1989                                   |
-| Discogs Link   | [Various - Ghostbusters II](https://www.discogs.com/release/672488-Various-Ghostbusters-II) |
-| Label          | MCA Records |
 | Format         | Vinyl LP Compilation |
+| Label          | MCA Records |
 | Catalog Number | 256 434-1 |
+| Discogs URL    | [Various - Ghostbusters II](https://www.discogs.com/release/672488-Various-Ghostbusters-II) |

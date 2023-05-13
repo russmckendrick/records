@@ -10,6 +10,17 @@ cover:
     image: "blue-hearts-15934028.jpg"
     alt: "Blue Hearts by Bob Mould"
     caption: "Blue Hearts by Bob Mould"
+additional_images:
+    - "https://i.discogs.com/I8dAl71eLeTzNMdo1_0iMYnkKrO5-fj9PVe9WIo8YbE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDI4ODY1/MTMtMzAxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/_Sf25hWPg4k7sMFxSQR1Ie2VuF_U36i1CqZ09v6hKoY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQx/MDktODU4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/YMWtbRy5_YWCJtCQNKK4Fc6gk9FQSjZ2uJmOoxkuf-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQx/ODEtNDU1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/7CJ_ku5pGnVcfZJftttnizThX6q-tfrHdpSs6YROPmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQx/ODYtODEyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ep0jw5JTTOzThzk9L5k-yp9PjWG6Poin-T8dKXWZSCw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDA0Njc3/NTQtMTM3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/WCCsNtYKgCe0qW_MB8Ii3LzHPAIxED9q4_5yNeg67eU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDk1MTEz/MDYtODY2My5qcGVn.jpeg"
+    - "https://i.discogs.com/jyzvG1CIKwwBRCT_0OJkCHI1yg21uwebt63rAy_FUGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQx/MTgtNDU1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/5IPIJhVWGjZwgorMkq0BpvRwfRKNRlW3nb0pXVGXxVQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDk1MTEz/MTEtNTg0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/QPIx100DSYgUP6baiW6HMFgEFKo5zOWnCuF1FFNBqsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDA0Njc3/NTQtNTYwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/P1x2bXJB2VtVcZG_UuRMKcdSoBVpW19uvN1phfz06K4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQy/MjUtNjQ5MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Alternative Rock", "Indie Rock"]
 ---
@@ -35,35 +46,40 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-hearts/1512263916" >}}
-
-
-
-
-
 ## Videos
-### Bob Mould - American Crisis (Official Video)
-{{< youtube id="zD7TxGTPsV4" title="Bob Mould - American Crisis (Official Video)" >}}<br>
-
+### Heart on My Sleeve
+{{< youtube id="bkbPhYShiCg" title="Heart on My Sleeve" >}}<br>
 ### More Videos
 
-- [Bob Mould - Forecast of Rain (Official Video)](https://www.youtube.com/watch?v=Bygb9bTd__U)
-- [Everyth!ng to You](https://www.youtube.com/watch?v=pkTtkWteuuI)
-- [Bob Mould - Siberian Butterfly (Official Video)](https://www.youtube.com/watch?v=IowGrGWzecQ)
+- [Next Generation](https://www.youtube.com/watch?v=G75JEUymDqo)
+- [Bob Mould - American Crisis (Official Video)](https://www.youtube.com/watch?v=zD7TxGTPsV4)
 - [Fireball](https://www.youtube.com/watch?v=5JnKg2x3MA8)
+- [Bob Mould - Forecast of Rain (Official Video)](https://www.youtube.com/watch?v=Bygb9bTd__U)
+- [When You Left](https://www.youtube.com/watch?v=903-HdeLhbA)
+- [Bob Mould - Siberian Butterfly (Official Video)](https://www.youtube.com/watch?v=IowGrGWzecQ)
+- [Everyth!ng to You](https://www.youtube.com/watch?v=pkTtkWteuuI)
+- [Racing to the End](https://www.youtube.com/watch?v=Hlt7x1RF6Xc)
+- [Baby Needs a Cookie](https://www.youtube.com/watch?v=ge8la_2iAKk)
 - [Little Pieces](https://www.youtube.com/watch?v=umNJVoqQ4Wo)
+- [Leather Dreams](https://www.youtube.com/watch?v=hSW-b8Pgdvs)
+- [Password to My Soul](https://www.youtube.com/watch?v=8BU3bXTrwhY)
+- [The Ocean](https://www.youtube.com/watch?v=melM7wufREc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Hearts_(album) |
+| Wikipedia Summary | Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200. |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Bob Mould - Blue Hearts](https://www.discogs.com/release/15934028-Bob-Mould-Blue-Hearts) |
-| Label          | Merge Records |
 | Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
+| Label          | Merge Records |
 | Catalog Number | MRG730 |
 | Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.  Runouts are etched. |
+| Discogs URL    | [Bob Mould - Blue Hearts](https://www.discogs.com/release/15934028-Bob-Mould-Blue-Hearts) |

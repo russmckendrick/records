@@ -10,6 +10,8 @@ cover:
     image: "life-won-t-wait-5888309.jpg"
     alt: "Life Won't Wait by Rancid"
     caption: "Life Won't Wait by Rancid"
+additional_images:
+    - "https://i.discogs.com/RgCsHBAdSoCRhNcGBEY3vVX00BanK1XjboEtm0wAI18/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODgz/MDktMTQwNTQ2MTM0/MS01Nzk2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
@@ -43,32 +45,26 @@ styles: ["Punk", "Ska"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/life-wont-wait/1485036889" >}}
-
-
-
-
-
 ## Videos
 ### Rancid - Who Would've Thought [MUSIC VIDEO]
 {{< youtube id="oJqFEk67eLE" title="Rancid - Who Would've Thought [MUSIC VIDEO]" >}}<br>
-
 ### More Videos
 
 - [Rancid - Bloodclot [MUSIC VIDEO]](https://www.youtube.com/watch?v=1pnUvCRavfo)
 - [Rancid - Hooligans [MUSIC VIDEO]](https://www.youtube.com/watch?v=dN1FYAisi94)
 - [Rancid - Life Won't Wait (Full Album Stream)](https://www.youtube.com/watch?v=vlj-jh_HN7s)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309-Rancid-Life-Wont-Wait) |
-| Label          | Epitaph |
 | Format         | Vinyl 2× LP Album Reissue (Orange ) |
+| Label          | Epitaph |
 | Catalog Number | 86497-1 |
+| Discogs URL    | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309-Rancid-Life-Wont-Wait) |

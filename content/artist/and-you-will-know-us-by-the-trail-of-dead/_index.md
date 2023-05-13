@@ -1,6 +1,7 @@
 ---
 title: "...And You Will Know Us By The Trail Of Dead"
-summary: "American alternative rock band from Austin, Texas, founded 1994."
+summary: "...And You Will Know Us by the Trail of Dead , were an American alternative rock band from Austin, Texas, formed in 1994. The band's earliest stable lineup consisted of Conrad Keely, Jason Reece, Kevin Allen and Neil Busch, though for most of the band's history Keely and Reece were the core members with other musicians serving for varying lengths of time. Trail of Dead gathered a hardcore of fans and were well known for their energetic and protracted live performances. Between 1998 and 2023, the band released eleven studio albums and five EPs along with one live album and twenty-two singles. The artwork for all of the albums was created by Keely using various media. This artwork has strong and recurring mythical and historical themes. Their final studio album, XI: Bleed Here Now, was released on July 15, 2022. Conrad Keely announced via an Instagram post in March 2023 that the Trail is closed, and later clarified that the band had no plans to either tour nor make any more music in the traditional sense, citing a disastrous final tour, exhaustion, and the inhospitable state of the music industry towards smaller bands as the main drivers behind their decision."
 image: "and-you-will-know-us-by-the-trail-of-dead.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/and-you-will-know-us-by-the-trail-of-dead/110799"
+wikipedia_url: "https://en.wikipedia.org/wiki/...And_You_Will_Know_Us_by_the_Trail_of_Dead"
 ---

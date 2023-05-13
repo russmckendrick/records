@@ -10,6 +10,18 @@ cover:
     image: "third-degree-14222306.jpg"
     alt: "Third Degree by Flying Colors"
     caption: "Third Degree by Flying Colors"
+additional_images:
+    - "https://i.discogs.com/AgPWgEupqwUaDdkRHFwtXrNykR7H6NhdlaJHGAsF99A/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzAz/OTEtMjM2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/XOLQxU56TPpDsMDCcJnkVrq401xrbYxCLbgK8b7ctYo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzA0/NTMtNDQ3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/XRn40moywHv2ua53mrhxG2y8XcrKxgok754N6bQ8wmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ4/MjYtNjYxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/k6woy1X08Go8PzChByx2hZ4X_KlYLu5hihz_zNjMdyY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ4/MjQtMjM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/l3qG-2X_vts_8aClLk61c1Lw-dltbRmek6YuxIQvt5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ4/NDEtNDgwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/KdX_LmwyUM3GD7mrksZfWx1WNXBB6Rk26jzjhn17whI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ4/MTEtMzg5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/DoDUKoXlSvlft2B0ji2JFch51sjmFZGNkFgXySroH1c/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzA3/MzctMjY1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/vcoakab3JWVbjWt-Omvd3UjFy5lEBI1rGfRAi-W8VNw/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzA3/OTEtMzQyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/YH-O_YJfo_pvO9wTuGf8ft1lt7mhHyrbPHrsIgGpSCw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzEw/MDMtMzc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/F2agoALZvOLGO57re2vr2Uc_t9r_ri7f7qtGUOGzrPk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ5/MTctNjA4My5qcGVn.jpeg"
+    - "https://i.discogs.com/GMs_XHNVOaBUxj3fpPYyIK-8EH4dIgFatj47HGvPH2I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzA1NDYw/NTQtNDEwOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -30,20 +42,13 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+Third Degree is the third studio album by the American supergroup Flying Colors, released on October 4, 2019 via Mascot Label Group.The album was released on digital platforms and also on CD digipack, a limited-edition double-LP, a 180g blue or black vinyl and a limited-edition box set with bonus content such as a 40-page photobook, two coasters and a bonus disc with six bonus songs.Third Degree's first single and video, "More", was released as the band revealed the album's title, cover and tracklist. The second single, "You Are Not Alone", was released on August 28, 2019. The third, pop rock single "Love Letter", was released on September 12 and the final single, "The Loss Inside", about the process of grieving, had its video premiered on September 30, 2019.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/third-degree/1600470882" >}}
-
-
-
-
-
 ## Videos
 ### The Loss Inside
 {{< youtube id="glJ7oKA0vMs" title="The Loss Inside" >}}<br>
-
 ### More Videos
 
 - [Guardian](https://www.youtube.com/watch?v=-V2WaeT6r1U)
@@ -52,13 +57,17 @@ styles: ["Prog Rock"]
 - [Crawl](https://www.youtube.com/watch?v=pmupTHXOMQo)
 - [Geronimo](https://www.youtube.com/watch?v=PzPb0SUAF1Q)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Third_Degree_(Flying_Colors_album) |
+| Wikipedia Summary | Third Degree is the third studio album by the American supergroup Flying Colors, released on October 4, 2019 via Mascot Label Group.The album was released on digital platforms and also on CD digipack, a limited-edition double-LP, a 180g blue or black vinyl and a limited-edition box set with bonus content such as a 40-page photobook, two coasters and a bonus disc with six bonus songs.Third Degree's first single and video, "More", was released as the band revealed the album's title, cover and tracklist. The second single, "You Are Not Alone", was released on August 28, 2019. The third, pop rock single "Love Letter", was released on September 12 and the final single, "The Loss Inside", about the process of grieving, had its video premiered on September 30, 2019. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Flying Colors - Third Degree](https://www.discogs.com/release/14222306-Flying-Colors-Third-Degree) |
-| Label          | Music Theories Recordings |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
+| Label          | Music Theories Recordings |
 | Catalog Number | MTR 7596 1-2 |
 | Notes | Flying Colors Third Degree New album by virtuoso PROG/POP/ROCK band with (former) members of Deep Purple, Dream Theater, The Winery Dogs, Dixie Dregs, Spock's Beard, Alpha Rev & Transatlantic  Limited to 500 copies  Includes: 1 coaster 1 11" x 17" poster  Runouts hand etched, except MPO logo and job number, which are laser etched. |
+| Discogs URL    | [Flying Colors - Third Degree](https://www.discogs.com/release/14222306-Flying-Colors-Third-Degree) |

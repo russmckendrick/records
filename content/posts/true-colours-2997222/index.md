@@ -10,6 +10,8 @@ cover:
     image: "true-colours-2997222.jpg"
     alt: "True Colours by Split Enz"
     caption: "True Colours by Split Enz"
+additional_images:
+    - "https://i.discogs.com/ksvYaJRQueG8WLULdCExtoD_SXQleDpwWskNAqzvrNs/rs:fit/g:sm/q:90/h:506/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTcy/MjItMTMxMDk5OTY5/MS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
@@ -32,20 +34,13 @@ styles: ["New Wave", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}
-
-
-
-
-
 ## Videos
 ### Split Enz - I Got You (1980)
 {{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
-
 ### More Videos
 
 - [Split Enz - How Can I Resist Her? (1980)](https://www.youtube.com/watch?v=sA1M-_pJv6s)
@@ -56,13 +51,17 @@ styles: ["New Wave", "Pop Rock"]
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
 - [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/True_Colours_(Split_Enz_album) |
+| Wikipedia Summary | True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts. |
 | Release Year   | 1980                                   |
-| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/2997222-Split-Enz-True-Colours) |
-| Label          | A&M Records |
 | Format         | Vinyl LP Album Etched (Violet cover) |
+| Label          | A&M Records |
 | Catalog Number | AMLH 68422 |
 | Notes | Released with a special inner sleeve. Silver hype sticker on sleeve "Limited Edition Laser-Etched Disc AMLH 64822"  Holographic etched vinyl.  Recorded at Armstrongs, Melbourne, Australia. A Boomerang production. © 1980 A&M Records Ltd. ℗ 1979 Mushroom Records Pty. Ltd. Australia.  |
+| Discogs URL    | [Split Enz - True Colours](https://www.discogs.com/release/2997222-Split-Enz-True-Colours) |

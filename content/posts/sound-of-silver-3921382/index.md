@@ -11,6 +11,15 @@ cover:
     image: "sound-of-silver-3921382.jpg"
     alt: "Sound Of Silver by LCD Soundsystem"
     caption: "Sound Of Silver by LCD Soundsystem"
+additional_images:
+    - "https://i.discogs.com/51Zr-CJGnND4PeIrN8aDBIhThBPy07U5MB0aeFvz4FY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTA3/Mi0xOTMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/aTdi-_3OmUqczOB_nVUMXPlcj1r523k8lZwqmqI0Gz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTA4/MS03NjAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Qnbzb97tfpb6z-Va0mDO14cE80s_2Ejn2VTdcYzBLrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTA4/OC03MjIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/vizqwTvmOMiO6Xxi-ssrEivhj9Qmz_6p29B-I9V69DY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTA5/Ny04ODg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/uUNq4KStI5kaQGJK5trLSRegElJUQxNOWR_ODNhqOsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTEw/NS00NjcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/lc0ImYezkxBtpPLeeYmpSP8rHZMV3LusLcLErLQisF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTEx/Mi0yNTEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Nob0ylSbmHw2D02phNwph2SlqYjcJTAFYosTIAE-RFQ/rs:fit/g:sm/q:90/h:346/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM0OTI5OTEy/MS05NTQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Od1cJaNw4iE9NG1TH9I0u3ifBIS4B1Ep1U9nbNOciXI/rs:fit/g:sm/q:90/h:230/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/ODItMTM3Njg5NTkx/OS0zMjU0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
@@ -31,22 +40,13 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 
 <!-- section break -->
 
-
 With "Losing My Edge", James Murphy proved he had a better record collection than you. On <i>Sound of Silver</i>, he puts it to good use, crafting peerless tunes that draw from disco, dance-punk, krautrock, Detroit techno and more, all while still sounding quintessentially LCD—and incredibly moving. "New York, I Love You But You're Bringing Me Down" is a bittersweet dirge torn from the real-estate section, and the one-two punch of "Someone Great" and "All My Friends" is a masterstroke of middle-aged emo.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sound-of-silver/742432549" >}}
-
-
-
-
-
 ## Videos
 ### LCD Soundsystem - North American Scum (Official Video)
 {{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Get Innocuous!](https://www.youtube.com/watch?v=0GpLkFv-CKU)
@@ -60,13 +60,16 @@ With "Losing My Edge", James Murphy proved he had a better record collection tha
 - [Sound of Silver](https://www.youtube.com/watch?v=_kmTQj8x0N8)
 - [New York, I Love You but You're Bringing Me Down](https://www.youtube.com/watch?v=c5kM3iwYVi0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | With "Losing My Edge", James Murphy proved he had a better record collection than you. On <i>Sound of Silver</i>, he puts it to good use, crafting peerless tunes that draw from disco, dance-punk, krautrock, Detroit techno and more, all while still sounding quintessentially LCD—and incredibly moving. "New York, I Love You But You're Bringing Me Down" is a bittersweet dirge torn from the real-estate section, and the one-two punch of "Someone Great" and "All My Friends" is a masterstroke of middle-aged emo. |
 | Release Year   | 2012                                   |
-| Discogs Link   | [LCD Soundsystem - Sound Of Silver](https://www.discogs.com/release/3921382-LCD-Soundsystem-Sound-Of-Silver) |
-| Label          | DFA |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Label          | DFA |
 | Catalog Number | dfaemi 2164lp |
 | Notes | 2012 Reissue. 180g vinyl.  Printed in UK    Packaging:    Gatefold cover double album. Includes a large poster.  Printed inner sleeves with pictures and lyrics.  Metalic silver embossed writing on the front cover.  Electrospective sticker on the shrink wrap. |
+| Discogs URL    | [LCD Soundsystem - Sound Of Silver](https://www.discogs.com/release/3921382-LCD-Soundsystem-Sound-Of-Silver) |

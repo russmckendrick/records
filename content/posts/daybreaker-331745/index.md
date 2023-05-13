@@ -11,6 +11,13 @@ cover:
     image: "daybreaker-331745.jpg"
     alt: "Daybreaker by Beth Orton"
     caption: "Daybreaker by Beth Orton"
+additional_images:
+    - "https://i.discogs.com/ceOJa5gPtE7FHqYFvH4XQXX5VeXHT_FlvEnWTfPvxVU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk1/LTEyMTAuanBlZw.jpeg"
+    - "https://i.discogs.com/CXeBaqmIoCmtaUxFPTjH-xeq1XJWh_eGXeZpJSUoK6Y/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk2/LTEwNzYuanBlZw.jpeg"
+    - "https://i.discogs.com/YjbZC4v5wtSibAIUyH9wEb5blx9HKyCnUqOJsn0mKzk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTky/LTY2NzUuanBlZw.jpeg"
+    - "https://i.discogs.com/eiV-OhF922rKYyGvMog3eLbJh5kJpsIZKzzmyO_zgF4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTkz/LTI2OTkuanBlZw.jpeg"
+    - "https://i.discogs.com/exZvfPEnF9S-h8e6Q8jI4tdx-SJKrNN0c17d-qKPEzE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk2/LTUyMDUuanBlZw.jpeg"
+    - "https://i.discogs.com/LzJu34mOwuPK2D26ddTf6J7XnXd8XNHXCMg0JK4VNoY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk2/LTg0NTkuanBlZw.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
@@ -32,22 +39,19 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 
 <!-- section break -->
 
+Daybreaker is the third album by singer-songwriter Beth Orton released in 2002 on Heavenly Records and the Astralwerks Records label. The album reached #40 in US and #8 in UK. Mojo Magazine called the album "her best to date...". Q Magazine was not excited about the album: "Tortoise-pace strumming and a crippling shortage of choruses produce only torpor".  The album earned Orton a nomination at the BRIT Awards for Best British Female Singer as well as Best Album at the Q Awards.
+In an interview to Insound.com on 28 July 2002 she said about making the record:
 
-<i>Daybreaker</i> finds Orton at a crossroads, marrying her debut's folktronica to the Americana of <i>Central Reservation</i>. There's also a newfound cinematic streak—the stately orchestrations of “Paris Train”—and her diverse array of collaborators speaks to Orton's amplified stature. The Smiths' Johnny Marr co-wrote the languid “Concrete Sky”, while her earliest collaborators, the Chemical Brothers, underwrite the title-track's paranoid ambience. Emmylou Harris pops up on Nashville waltz “God Song”, while Ryan Adams is a frequent presence: He lends backing vocals, and wrote the tender and lovely “This One's Gonna Bruise” for Orton to sing.
+"We recorded 25 songs in two weeks with the whole band. Then there's the stuff I did with Johnny. There's stuff all over the place. And these are the ten songs that ended up being on the record because for me they encapsulate the mood best of the time we are recording the album. It took about six months altogether. That's not too bad. It was probably actually a year because I was looking for someone to do the mixing and things weren't working out."
+As of 2003 it has sold 169,000 copies in the United States.
 
 
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daybreaker/696518811" >}}
-
-
-
-
-
 ## Videos
 ### Paris Train
 {{< youtube id="6myjARKjFLs" title="Paris Train" >}}<br>
-
 ### More Videos
 
 - [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
@@ -63,13 +67,17 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 - [This One's Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
 - [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2002                                   |
-| Discogs Link   | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745-Beth-Orton-Daybreaker) |
-| Label          | Heavenly |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Daybreaker_(Beth_Orton_album) |
+| Apple Music Summary | <i>Daybreaker</i> finds Orton at a crossroads, marrying her debut's folktronica to the Americana of <i>Central Reservation</i>. There's also a newfound cinematic streak—the stately orchestrations of “Paris Train”—and her diverse array of collaborators speaks to Orton's amplified stature. The Smiths' Johnny Marr co-wrote the languid “Concrete Sky”, while her earliest collaborators, the Chemical Brothers, underwrite the title-track's paranoid ambience. Emmylou Harris pops up on Nashville waltz “God Song”, while Ryan Adams is a frequent presence: He lends backing vocals, and wrote the tender and lovely “This One's Gonna Bruise” for Orton to sing. |
+    | Release Year   | 2002                                   |
 | Format         | Vinyl LP Album |
+| Label          | Heavenly |
 | Catalog Number | HVNLP 37 |
 | Notes | All songs written by Beth Orton, except:  Tracks 1 & 9 which were written by Beth and Ted Barnes  Track 2 which was written by Beth and Johnny Marr  Track 8 which was written for Beth by Ryan Adams  Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read    All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10   |
+| Discogs URL    | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745-Beth-Orton-Daybreaker) |

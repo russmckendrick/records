@@ -10,6 +10,17 @@ cover:
     image: "flowers-at-the-scene-13283408.jpg"
     alt: "Flowers At The Scene by Tim Bowness"
     caption: "Flowers At The Scene by Tim Bowness"
+additional_images:
+    - "https://i.discogs.com/TcfKSyIwRsMB5AwHzZ7WUVRDdMkZNR0QbN1A0Lt0gSM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/NDktOTg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/emx5n-qMONKXeOvnI8CAgcwEAPmsmqMLiTRRC1fyaZg/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/NjAtMzU1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/C2JBcpgZKc-rn_0jPELD8kNSUhqBh04FiXucuYfYVVI/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/NjUtOTAxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/IhcLPSLa8itLPtugrMxQU-TPhRtQx0F7WtvsHWTjq1E/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/NzEtODg4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/_M6SP8YXBipDmsauIf_AN4XJdXpv05CE_cP4y7CIHwo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/ODUtNjU2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/hyq6f_aaZuSmX0dLPWfrxXbGm4GWYbI0a75m8Ulysvg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/OTItMzgwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/P8os5TWNVtQ2jmBZws_OpkqPtoytWcSpliLI0oVjxho/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA3/MDAtMjY4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/zu5_E2RJLy7jNMbJpCikWeeE_8QxvhvzXDyT5_iDx9s/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA3/MDktODg1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/kIUqjGNf5xLKnMu1445gHpTSd1eAqQD6bhEDFRSa8pg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA3/MTQtODQyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/8hVxu71SIQcTn-6sV7rZDpkY918TvPwgpROs1tyTLB4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA3/MjAtOTUxOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
@@ -43,33 +54,27 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flowers-at-the-scene/1447398700" >}}
-
-
-
-
-
 ## Videos
 ### TIM BOWNESS - I Go Deeper (Lyric Video)
 {{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper (Lyric Video)" >}}<br>
-
 ### More Videos
 
 - [TIM BOWNESS - Borderline (Lyric Video)](https://www.youtube.com/watch?v=qDuOJWLXM28)
 - [TIM BOWNESS - It's The World (Lyric Video)](https://www.youtube.com/watch?v=ohSYbX4qHzc)
 - [TIM BOWNESS talks “Flowers At The Scene” - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408-Tim-Bowness-Flowers-At-The-Scene) |
-| Label          | Inside Out Music |
 | Format         | Vinyl LP Album (Red Transparent), CD Album, All Media Limited Edition Numbered |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 524 |
 | Notes | Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card. |
+| Discogs URL    | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408-Tim-Bowness-Flowers-At-The-Scene) |

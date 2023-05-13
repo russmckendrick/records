@@ -10,6 +10,8 @@ cover:
     image: "don-t-give-up-on-me-25336930.jpg"
     alt: "Don't Give Up On Me by Solomon Burke"
     caption: "Don't Give Up On Me by Solomon Burke"
+additional_images:
+    - "https://i.discogs.com/ddewhSIN09EMUYLu1DzzaT4YkWhlcmz-ABDcZvrqO20/rs:fit/g:sm/q:90/h:599/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM2/OTMwLTE2Nzk1ODM1/NjYtNzQ2Ny5qcGVn.jpeg"
 genres: ["Funk / Soul", "Blues"]
 styles: ["Soul"]
 ---
@@ -33,28 +35,23 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-give-up-on-me/1485019443" >}}
-
-
-
-
-
 ## Videos
 ### Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)
 {{< youtube id="FR73etxqFx4" title="Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Solomon Burke - Don't Give Up On Me](https://www.discogs.com/release/25336930-Solomon-Burke-Dont-Give-Up-On-Me) |
-| Label          | Anti- |
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Reissue Repress (Gatefold - Transparent) |
+| Label          | Anti- |
 | Catalog Number | 0358-3 |
 | Notes | 2022 Limited edition of 2000 copies on transparent vinyl |
+| Discogs URL    | [Solomon Burke - Don't Give Up On Me](https://www.discogs.com/release/25336930-Solomon-Burke-Dont-Give-Up-On-Me) |

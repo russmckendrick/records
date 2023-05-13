@@ -10,6 +10,13 @@ cover:
     image: "smash-10243726.jpg"
     alt: "Smash by The Offspring"
     caption: "Smash by The Offspring"
+additional_images:
+    - "https://i.discogs.com/pr0O3im2QOOm3jjh2rOgEWE_59aQdSmI5QnKJ68uNk4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NzI2LTE0OTQzNzg1/MjQtNzQzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/zqMWk18Y4oDZ8dEk1_RMqNGyPio9jDdV43uVWkuKhhY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NzI2LTE1MjY0MDI1/OTItOTIwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/XYHDCswu36i-mln8lRMbRV_p4QAxtJE0WxJnUOMuCOc/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NzI2LTE1MjY0MDI1/OTMtNTIzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/gbC5Ck7exqLd0ZLr_eBvu2_Hc90LR338F-pgpH6Oghg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NzI2LTE1MjY0MDI1/OTUtNDI5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/L8LhYtw9v2YUaaNHRLamzTeWvrdYirMn0v9kafO11P4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NzI2LTE1MjY0MDI2/MDYtNDA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/su4n7-d5IW6ZscXLr4mXmxbjZIhLGwaBSgnFkahm9ls/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NzI2LTE1MjY0MDI2/MDUtNzIxNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Punk", "Hardcore"]
 ---
@@ -35,20 +42,12 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smash-remastered/1485043082" >}}
-
-
-
-
-
 ## Videos
 ### The Offspring - Come Out And Play
 {{< youtube id="1jOk8dk-qaU" title="The Offspring - Come Out And Play" >}}<br>
-
 ### More Videos
 
 - [The Offspring - Self Esteem](https://www.youtube.com/watch?v=Abrn8aVQ76Q)
@@ -68,13 +67,15 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 - [Not the One](https://www.youtube.com/watch?v=9SSfTP0BB6s)
 - [Smash](https://www.youtube.com/watch?v=rlkcRLkyVsw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Offspring - Smash](https://www.discogs.com/release/10243726-Offspring-Smash) |
-| Label          | Epitaph |
 | Format         | Vinyl LP Album Reissue Remastered |
+| Label          | Epitaph |
 | Catalog Number | 86868-1 |
 | Notes | Tracks listed sequentially on labels and back cover.   Comes with a printed inner sleeve with song lyrics, Thanks and Credits. Sticker on front reads: "Digitally Remastered from the original master tape"  All Songs Written By The Offspring Additional recording at The Hook, North Hollywood All Rights Reserved. Used By Permission. Except Killboy Powerhead, published by Touch and Go Records.  1994,2008 Epitaph 2798 Sunset Blvd, Los Angeles, CA 90026 |
+| Discogs URL    | [The Offspring - Smash](https://www.discogs.com/release/10243726-Offspring-Smash) |

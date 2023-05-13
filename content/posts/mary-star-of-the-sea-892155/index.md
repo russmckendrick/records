@@ -10,6 +10,13 @@ cover:
     image: "mary-star-of-the-sea-892155.jpg"
     alt: "Mary Star Of The Sea by Zwan"
     caption: "Mary Star Of The Sea by Zwan"
+additional_images:
+    - "https://i.discogs.com/lXwsXcOBLU7vVoES1eHSfB4CWNW6KC6OqK1Cw1LXAIM/rs:fit/g:sm/q:90/h:586/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDQzMTUwNzIz/LTgyMjgucG5n.jpeg"
+    - "https://i.discogs.com/1ROaKoksqkff3VENYaJBVDUmpQqyXnMtXME3j2OAXOU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4NzYw/LTM0MjQuanBlZw.jpeg"
+    - "https://i.discogs.com/QhaUo8qBnp7nfUKjw-Zr1coac1R0Q9AskqhI62OgObg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTc4NDIuanBlZw.jpeg"
+    - "https://i.discogs.com/-KAS2g5McrgR7QG7tiuTcUnqJB0iXb56ez17U7uT6p8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzc0/LTQ2ODkuanBlZw.jpeg"
+    - "https://i.discogs.com/X4MhhP4sSqcFsWHKKILGFLzjH1VGbBHmC5ZJAZ6hjQA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTQ0MzcuanBlZw.jpeg"
+    - "https://i.discogs.com/eN5a501EWHyzKstDjsXBkRnzL5Nf_7TyMhurvu83Bho/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTQ5NjIuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -36,28 +43,28 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".
+The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
+<br>
 ## Videos
 ### Zwan - Mary Star Of The Sea
 {{< youtube id="6cQ66dYE4WY" title="Zwan - Mary Star Of The Sea" >}}<br>
-
 ### More Videos
 
 - [Zwan - Lyric (Video Version)](https://www.youtube.com/watch?v=CwmUMySSNQc)
 - [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Mary_Star_of_the_Sea_(album) |
+| Wikipedia Summary | Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".<br>The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members. |
 | Release Year   | 2003                                   |
-| Discogs Link   | [Zwan - Mary Star Of The Sea](https://www.discogs.com/release/892155-Zwan-Mary-Star-Of-The-Sea) |
-| Label          | Martha's Music |
 | Format         | Vinyl 2× LP Album |
+| Label          | Martha's Music |
 | Catalog Number | 9362-48436-1 |
 | Notes | Two LPs in plain white inner sleeves, housed in a single pocket jacket. Pressing plant uncredited, identified by the matrix numbers.   A1, A3, A4, B2, B4 to C4, D2: Faust's Haus Music BMI A2: Faust's Haus Music BMI and Pazitronix Music ASCAP B1, B3, D1a: Faust's Haus Music BMI and Eva Jackson Music ASCAP D1b: Faust's Haus Music BMI, Eva Jackson Music ASCAP, Pazitronix Music ASCAP, Audreyella Music BMI, Bearded Music BMI  [Rear sleeve:] Recorded at Electrical Audio/Chicago IL and Chicago Recording Company/Chicago IL. Management by Elliot Roberts for Lookout Management © ℗ 2003 Martha's Music L.L.C. Manufactured and distributed by Reprise Records, 3300 Warner Blvd., Burbank, CA 91505-4694. Warner Music Group, An AOL Time Warner Company, 75 Rockefeller Plaza, New York, NY 10019-6908. Made in Germany by [Warner 'W' logo] Warner Music Manufacturing Europe.  |
+| Discogs URL    | [Zwan - Mary Star Of The Sea](https://www.discogs.com/release/892155-Zwan-Mary-Star-Of-The-Sea) |

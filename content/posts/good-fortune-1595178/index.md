@@ -10,6 +10,8 @@ cover:
     image: "good-fortune-1595178.jpg"
     alt: "Good Fortune by Airborn Audio"
     caption: "Good Fortune by Airborn Audio"
+additional_images:
+    - "https://i.discogs.com/roi8GhjEt4zlB-iZgTF2BCZui8VCt7VR9iklj1gOXZE/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUx/NzgtMTIzMTAxMDkw/OS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Experimental"]
 ---
@@ -36,20 +38,12 @@ styles: ["Abstract", "Experimental"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-fortune/416266336" >}}
-
-
-
-
-
 ## Videos
 ### Airborn Audio(M. Sayyid & High Priest) - This Year
 {{< youtube id="g6CBFUJaMyY" title="Airborn Audio(M. Sayyid & High Priest) - This Year" >}}<br>
-
 ### More Videos
 
 - [Airborn Audio(M.Sayyid & High Priest) - Paradise](https://www.youtube.com/watch?v=At0t0VPHwNY)
@@ -72,13 +66,15 @@ styles: ["Abstract", "Experimental"]
 - [Airborn Audio | House Of Mirrors (Edit) 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
 - [Airborn Audio - This Year (Unofficial Music Video)](https://www.youtube.com/watch?v=wkUzklrqM4o)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2004                                   |
-| Discogs Link   | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178-Airborn-Audio-Good-Fortune) |
-| Label          | Ninja Tune |
 | Format         | Vinyl LP Album |
+| Label          | Ninja Tune |
 | Catalog Number | ZEN 95 |
 | Notes | Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.  Printed in Canada.    Comes with an 12" photography (photocopy).   |
+| Discogs URL    | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178-Airborn-Audio-Good-Fortune) |

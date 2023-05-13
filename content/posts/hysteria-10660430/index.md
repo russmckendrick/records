@@ -11,6 +11,20 @@ cover:
     image: "hysteria-10660430.jpg"
     alt: "Hysteria by Def Leppard"
     caption: "Hysteria by Def Leppard"
+additional_images:
+    - "https://i.discogs.com/WbEPBRaBaVLC_G3iUSlybGxd8ACPDY7aFswzhyRIYCY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTQ4/OTMtNTQ0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/v_AO5ipZHbG9rENxJbddg2pyly7D_V9SLajPQ3yrBsM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NjgtNzgwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/MON1g9UNii6eIy6Qx1F8cCRcXCXjEb3sZ0s5zb44ZkE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzAtNzA5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/zCaTxh50kMkPiATlb4mrUviG-AHBj0P-LPh-HmjORxg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTQ5/MDEtNDUxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/nmZMUkF852Vsg4tYRWyGkGERTHrEDRiyrYxWzzPDOqE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUx/NDktMjkyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/l4FBVHrzo9L1j_eb2RFfjnDtRD3_xblm44uKsNTDoVo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUx/NDItNTcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/BxvFeBKoenBxPzE6S8qmxVY4crQK_uxaUswxuXc0sPY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUy/ODUtMjg2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/YeyfMg7iB7-i0W5_BFNvvPkcj9i9UFuXH_vaUM9B688/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUy/OTItNzQzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/2psPWSpuACBkvzyXH7dkX49oAhyZZvNpzoohmMNJL1Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzEtOTAyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/4NJ1WfM5XrDWRCQGiECULTyEjxzatGPWHkiYQi3vkTY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzMtMTYzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Ysbc0IyYPIEVMJCF2J-z4L7n04Psnz6B2bqk_dFDWQQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzQtMTU5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/wGi3hi9W9RcxT2CP-gUPup4AbgN1TXuqB24GKAA7zjA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzNTE4/OTctNTA0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/-hw-jsvgEW8oNFqG_JFCvMdNxOGUrGxn2K11pzsuIVo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDE5MjI4/NDktNDMzMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
@@ -33,7 +47,6 @@ styles: ["Hard Rock", "Arena Rock"]
 12. Love And Affection (4:35)
 
 <!-- section break -->
-
 
 When Def Leppard arrived at the follow-up to their mega-selling third album, 1983’s <i>Pyromania</i>, producer Mutt Lange shared his vision with the Sheffield heavy metal crew. He told them that too many bands were copying their sound and they needed to set themselves apart from the pack. They should, Lange said, make the rock version of <i>Thriller</i>. Released in August 1987, the resultant album <i>Hysteria</i> sold over 20 million copies, which tells you all you need to know about how successful the group were in achieving Lange’s aim. “We ended up having seven singles off of it,” lead guitarist Phil Collen tells Apple Music. “It was mission accomplished. Mutt Lange was amazing, a genius, and I don’t say that lightly.”
 
@@ -74,20 +87,12 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 
 <b>“Love and Affection”</b>
 “I wrote and demoed this in Paris. I used to have an apartment there, and I had my little four-track cassette thing and was sitting in there and making this riff. In the mid-’80s, there was a lot of rock bands like Journey, Bryan Adams, doing these songs that would kind of tick both boxes. They were rock songs, but they appealed to a kind of a poppy audience. This was a song like that. It was different to the other stuff on the record; it had that kind of songwriter thing. When we gave it the Def Leppard treatment, it obviously sounded very different. It was going to be the eighth single, but we stopped at seven. I think ‘Rocket’ ended up being the last single, and after that it was like, ‘OK, guys, you should probably go away and make another record now.’”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hysteria/1440903625" >}}
-
-
-
-
-
 ## Videos
 ### Def Leppard - Animal
 {{< youtube id="NSH1mOtc9-8" title="Def Leppard - Animal" >}}<br>
-
 ### More Videos
 
 - [Women - Def Leppard – Hysteria](https://www.youtube.com/watch?v=gGe2SHiSds8)
@@ -120,13 +125,17 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 - [Def Leppard - Women](https://www.youtube.com/watch?v=LNoKh2RcDTw)
 - [Def Leppard - Love Bites](https://www.youtube.com/watch?v=g-GhdSKnegU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [Def Leppard - Hysteria](https://www.discogs.com/release/10660430-Def-Leppard-Hysteria) |
-| Label          | UMC |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hysteria_(Def_Leppard_song) |
+| Wikipedia Summary | "Hysteria" is a song by English rock band Def Leppard. It is the tenth track on their 1987 album of the same name and was released as the album's fourth single in November 1987. The song became the band's first top 10 hit on the Billboard Hot 100, peaking at number 10. |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Orange Translucent, 180 gram) |
+| Label          | UMC |
 | Catalog Number | 5756104 |
 | Notes | 30th anniversary orange translucent coloured vinyl reissue.   Limited to 500 copies in the U.K. Limited to 500 copies in the U.S.A. Total copies unknown: - estimated: 1000 - 2000  Gatefold sleeve and printed credit / lyric inner sleeves.  Hype sticker on shrink wrap reads: DEF LEPPARD [logo] HYSTERIA REMASTERED 180g Heavyweight vinyl  Double LP for the first time Orange coloured ltd edition 5756104"  Multiple catalogue numbers are stated across the release: Outer sleeve and hype sticker shows catalogue number as 5756104 Inner sleeve (A+B) and record labels (A+B) shows catalogue number as 5764901 Inner sleeve (C+D) and record labels (C+D) shows catalogue number as 5764902  ℗ 2017 Phonogram Records Limited © 2017 Phonogram Records Limited. Made in the EU.  Hysteria was recorded at: Wisseloord Studios, Hilversum, Holland [...]. Windmill Lone Studio 2, Dublin, Ireland [...]. Studio Des Dames, Paris, France [...]  Hysteria was mixed at Battery Studios, London, England  All the songs published by: In the UK/Ireland: Why Bother Ltd./Warner Bros. Music/Zomba Music Publishers. In Australia / New Zealand: Bludgeon Riffola Ltd./Warner Bros. Music/Zomba Music Publishers. In the Rest of The Known Universe: Bludgeon Riffola Ltd./Zomba Music Publishers.  (Track durations are not written on the release.) |
+| Discogs URL    | [Def Leppard - Hysteria](https://www.discogs.com/release/10660430-Def-Leppard-Hysteria) |

@@ -11,6 +11,15 @@ cover:
     image: "the-north-3839836.jpg"
     alt: "The North by Stars"
     caption: "The North by Stars"
+additional_images:
+    - "https://i.discogs.com/w4wxS-ng6nYXTrBi_gf3BAbi0RbEuPFwxSmxXrsz-g0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM1NjQ3OTA4/OS01Nzk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/g-d4lzVge5gID9CDRNhaWWSkA3XSWmgcnNCoLU9JPHs/rs:fit/g:sm/q:90/h:480/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM0NjQ2MDQ4/Mi00NzE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/G1Ba5D0_rIbftXFi4XTOkiYRRH8mhllXbh71Kggd5m0/rs:fit/g:sm/q:90/h:480/w:501/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM0NjQ2MDU1/OC0yNDg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/xYBfPIl9MK0eJn6OORnPT0OBDRR-OHuKNgK4zTd-hhs/rs:fit/g:sm/q:90/h:480/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM0NjQ2MDU2/My0zMjQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/OwH4h4gxbFdiFReWdAm9Dvh_CQnfZeBztcn0k9DQP0c/rs:fit/g:sm/q:90/h:480/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM0NjQ2MDU2/OS02MzkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ka7sc8yGiCDUvuBKb2sCPs8LCgClL64ak3EVmCERwsA/rs:fit/g:sm/q:90/h:480/w:533/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM0NjQ2MDU3/NS02MzUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/BMpA_528s3pYoUibyeDMbROueyGCUS5O_g9Cwc2XbCo/rs:fit/g:sm/q:90/h:480/w:528/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTM0NjQ2MDU4/MC02ODcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/XE0B2truoPOVgsx5cmCwW2NFcSkuVta66jdvzhEeRq0/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk4/MzYtMTQ2MTA2Mzkx/OS0xNzY4LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,7 +42,6 @@ styles: ["Alternative Rock"]
 12. Walls (4:16)
 
 <!-- section break -->
-
 
 “If I ever win a Grammy, I’m gonna thank him,” Queens-born vocalist, producer and multi-disciplinary artist Yaya Bey tells Apple Music about one of the many songs on <i>Remember Your North Star</i> inspired by an unnamed ex-lover. He was a music industry player and that relationship, which lasted some three years, revealed many things to Bey—not just about the industry itself, but about who she is and what she values. “It was like, ‘Well, where am I going? Where am I headed and what should I remember?’ And I guess in trying to move towards love—love for self, love romantically, platonically—I’m remembering that that’s where I’m going. That’s my North Star.” 
 
@@ -74,20 +82,12 @@ While that relationship opened her eyes to some of the industry’s—and men at
 
 <b>“blessings”</b>
 “I wrote ‘blessings’ when I was in D.C. It’s one of the first songs I wrote. At the time, I was not talking to the same person I’ve been talking about. We were not on speaking terms. I guess I was going through breakup blues. I felt like I wasn’t enough for that person, and I was figuring out how to be enough for myself. But at the same time, I was in D.C. A label had paid for me to go out there and make an album. I was too sad to get out of bed, but if I could just get out of this funk and realise there’s blessings around me, I could find a way to be present for them. And wherever you are, a person needs that. And life goes on, with time, you know?”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/remember-your-north-star/1610345642" >}}
-
-
-
-
-
 ## Videos
 ### Stars - The Theory of Relativity
 {{< youtube id="Ta1xEMypk2Q" title="Stars - The Theory of Relativity" >}}<br>
-
 ### More Videos
 
 - [Stars - Hold On When You Get Love And Let Go When You Give It](https://www.youtube.com/watch?v=2SYO6a6PaTs)
@@ -103,13 +103,17 @@ While that relationship opened her eyes to some of the industry’s—and men at
 - [Through The Mines](https://www.youtube.com/watch?v=EAF52eYLem4)
 - [Stars- The North](https://www.youtube.com/watch?v=4e4JECimr0k)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
-| Discogs Link   | [Stars - The North](https://www.discogs.com/release/3839836-Stars-The-North) |
-| Label          | ATO Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_North_(Stars_album) |
+| Wikipedia Summary | The North is the sixth full-length studio album by Canadian indie pop band Stars. It was released on September 4, 2012, through ATO Records. The album has been characterized as having a more upbeat feel to it compared to previous works, as Amy Millan notes: the album was meant to be "playful, joyful and hopeful." The album debuted at number 5 on the Canadian Albums Chart.The album's cover shows the Habitat 67 complex, an experimental housing development as well as architectural landmark in Montreal, the band's home city. |
+    | Release Year   | 2012                                   |
 | Format         | Vinyl LP Album (Blue Translucent) |
+| Label          | ATO Records |
 | Catalog Number | 88088218161 |
 | Notes | Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album.   Gatefold sleeve.  Manufactured and distributed in the United States by RED Distribution, LLC. |
+| Discogs URL    | [Stars - The North](https://www.discogs.com/release/3839836-Stars-The-North) |

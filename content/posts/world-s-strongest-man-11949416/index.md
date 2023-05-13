@@ -11,6 +11,9 @@ cover:
     image: "world-s-strongest-man-11949416.jpg"
     alt: "World's Strongest Man by Gaz Coombes"
     caption: "World's Strongest Man by Gaz Coombes"
+additional_images:
+    - "https://i.discogs.com/nbHkukOwRmjEPnyEt0193a1tT3_X4J06Ahd0CFnYljM/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/NDE2LTE1MjU1MTg2/MTItMzk2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/rrP1L2IfMZwC8RnxaTBaTq9MqQ_FIuEFaBNFkZQgGRQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/NDE2LTE1MjUyOTQ3/NDQtMzQ2Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -33,34 +36,28 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
 For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/worlds-strongest-man/1440875853" >}}
-
-
-
-
-
 ## Videos
 ### Gaz Coombes - Deep Pockets (Audio)
 {{< youtube id="Ui5nb0wLY74" title="Gaz Coombes - Deep Pockets (Audio)" >}}<br>
-
 ### More Videos
 
 - [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
 - [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Gaz Coombes - World's Strongest Man](https://www.discogs.com/release/11949416-Gaz-Coombes-Worlds-Strongest-Man) |
-| Label          | Hot Fruit Recordings |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
+| Label          | Hot Fruit Recordings |
 | Catalog Number | HF012LP1 |
 | Notes | Gatefold Jacket Exclusive Pink Vinyl   Recorded at home and at Courtyard Studio, Oxford. |
+| Discogs URL    | [Gaz Coombes - World's Strongest Man](https://www.discogs.com/release/11949416-Gaz-Coombes-Worlds-Strongest-Man) |

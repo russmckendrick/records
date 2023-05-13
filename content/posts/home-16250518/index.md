@@ -10,6 +10,8 @@ cover:
     image: "home-16250518.jpg"
     alt: "Home by Koj"
     caption: "Home by Koj"
+additional_images:
+    - "https://i.discogs.com/Qdb8vSgGHZGTMM-JNj3O5VIrNAgkigUSdhSOLDfIihs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUw/NTE4LTE2MTIyMTAw/NTEtMjYzNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ---
@@ -30,28 +32,23 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/home/1501400140" >}}
-
-
-
-
-
 ## Videos
 ### KOJ - Home (Official Video)
 {{< youtube id="Y0D2FA0Po1Y" title="KOJ - Home (Official Video)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Koj - Home](https://www.discogs.com/release/16250518-Koj-Home) |
-| Label          | Long Branch Records |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Long Branch Records |
 | Catalog Number | SPV 289221 LP |
 | Notes | (p) & (c) 2020 Long Branch Records, a division of SPV GmbH. Distributed by SPV GmbH, Boulevard der EU 8, 30539 Hannover, Germany. Made in the EU. Supported by Initiative Musik gGmbH with project funds from the Federal Government Commissioner for Culture and Media. |
+| Discogs URL    | [Koj - Home](https://www.discogs.com/release/16250518-Koj-Home) |

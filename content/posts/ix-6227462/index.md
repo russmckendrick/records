@@ -10,6 +10,8 @@ cover:
     image: "ix-6227462.jpg"
     alt: "IX by ...And You Will Know Us By The Trail Of Dead"
     caption: "IX by ...And You Will Know Us By The Trail Of Dead"
+additional_images:
+    - "https://i.discogs.com/MwhiAehPMNRkJy8XNCpAsUR6e5fMUbBqYh99wMdOSRo/rs:fit/g:sm/q:90/h:443/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc0/NjItMTQxNDIyNzUw/NC02NjM3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Hardcore"]
 ---
@@ -43,20 +45,12 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ix/1047146946" >}}
-
-
-
-
-
 ## Videos
 ### …And You Will Know Us By The Trail Of Dead – IX
 {{< youtube id="MJC8rfQ_wGA" title="…And You Will Know Us By The Trail Of Dead – IX" >}}<br>
-
 ### More Videos
 
 - [..And You Will Know Us By the Trail of Dead - Lie Without A Liar](https://www.youtube.com/watch?v=5agmud4KYLc)
@@ -69,13 +63,15 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 - [A Million Random Digits](https://www.youtube.com/watch?v=X6GQGvhhwVY)
 - [Sound Of The Silk](https://www.youtube.com/watch?v=K4keIc5Vj-s)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [...And You Will Know Us By The Trail Of Dead - IX](https://www.discogs.com/release/6227462-And-You-Will-Know-Us-By-The-Trail-Of-Dead-IX) |
-| Label          | Superball Music |
 | Format         | Vinyl LP Album (Blue, 180g), CD Album, All Media Limited Edition |
+| Label          | Superball Music |
 | Catalog Number | SBMLP 033 |
 | Notes | 180g blue vinyl + CD. Gatefold. |
+| Discogs URL    | [...And You Will Know Us By The Trail Of Dead - IX](https://www.discogs.com/release/6227462-And-You-Will-Know-Us-By-The-Trail-Of-Dead-IX) |

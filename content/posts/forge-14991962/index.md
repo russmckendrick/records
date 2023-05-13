@@ -10,6 +10,8 @@ cover:
     image: "forge-14991962.jpg"
     alt: "Forge by Fassine"
     caption: "Forge by Fassine"
+additional_images:
+    - "https://i.discogs.com/u-_P1PhVCi22GZ4rvCiTYe-P2kEHdRKGwCweCr141_g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkx/OTYyLTE1ODU2NzYz/MTktNDI1OC5tcG8.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -30,33 +32,27 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/forge/1495646143" >}}
-
-
-
-
-
 ## Videos
 ### Forge
 {{< youtube id="nOz-mJlc5BA" title="Forge" >}}<br>
-
 ### More Videos
 
 - [Perfectly Planned](https://www.youtube.com/watch?v=Yo1eSTQ8Clc)
 - [Everyone Is Guilty To Me](https://www.youtube.com/watch?v=9fMOGTcoc1w)
 - [Migraine](https://www.youtube.com/watch?v=MU_QGJUgGtM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Fassine - Forge](https://www.discogs.com/release/14991962-Fassine-Forge) |
-| Label          | Trapped Animal |
 | Format         | Vinyl LP Limited Edition (Blue) |
+| Label          | Trapped Animal |
 | Catalog Number | TAR018VX |
 | Notes | Includes a download coupon. Catalogue number TAR018VX is on a barcode sticker on the shrink. |
+| Discogs URL    | [Fassine - Forge](https://www.discogs.com/release/14991962-Fassine-Forge) |

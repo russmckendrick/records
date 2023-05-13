@@ -11,6 +11,9 @@ cover:
     image: "drank-11703561.jpg"
     alt: "Drank by Thundercat"
     caption: "Drank by Thundercat"
+additional_images:
+    - "https://i.discogs.com/CpNLgBr1hJKM2qjwfwsHeXEUTwe1siK4unCdr_Ypxpc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/NTYxLTE1MjEwMzY2/ODItNzkzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/JimgJSAJcu53Tes6f_edjXIuDEg-SzHuUSzf-hltFgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/NTYxLTE1MjEwMzY2/ODYtODA3OS5qcGVn.jpeg"
 genres: ["Hip Hop", "Jazz"]
 styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 ---
@@ -46,22 +49,13 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 
 <!-- section break -->
 
-
 “I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}
-
-
-
-
-
 ## Videos
 ### Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)
 {{< youtube id="rKlHRIfV4BE" title="Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)" >}}<br>
-
 ### More Videos
 
 - [Thundercat - 'Walk On By feat. Kendrick Lamar’ (slowed)](https://www.youtube.com/watch?v=y2c-5DnkE2E)
@@ -69,13 +63,16 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 - [Thundercat - Jethro (Screwed & Chopped by DJ Slopped Up)](https://www.youtube.com/watch?v=KXznSsiNMoM)
 - [Thundercat - Show You The Way (Chopped And Screwed) DeathScrewed](https://www.youtube.com/watch?v=WxE2kUx588E)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | “I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Thundercat - Drank](https://www.discogs.com/release/11703561-Thundercat-OG-Ron-C-The-Chopstars-Drank) |
-| Label          | Brainfeeder |
 | Format         | Vinyl 2× LP Mixtape (Purple) |
+| Label          | Brainfeeder |
 | Catalog Number | BF067 |
 | Notes | Chopped Not Slopped by DJ Candlestick & OG Ron C for The Chopstars  Download code sticker affixed to inner sleeve of record 1. |
+| Discogs URL    | [Thundercat - Drank](https://www.discogs.com/release/11703561-Thundercat-OG-Ron-C-The-Chopstars-Drank) |

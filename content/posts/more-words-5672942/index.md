@@ -10,6 +10,12 @@ cover:
     image: "more-words-5672942.jpg"
     alt: "More Words by Glen Campbell"
     caption: "More Words by Glen Campbell"
+additional_images:
+    - "https://i.discogs.com/QdknGr_VmtS92b99pqAoLVzXCYJFTdDsH8c72je8-bY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTQxNjg2MTEw/MC00MzcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/FfISbMLBrrX6B2TAnv3zbidIVBuQz-dUNjr9zoYkw1I/rs:fit/g:sm/q:90/h:340/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTg0/Ni0zOTg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/uv4s5DSRffjRxjxcXgPmsR0Zdrsn3cn3b_Lga5lVunQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTkw/NC04MTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/MGgkpA60KxaTI-B_MKeMqDuqUL_mYh8SnJJeU3X-0LA/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTc2/Mi04OTA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/7TZjypKCdrNFKdZQ3fbuM0f5fjEnMYvVs7RYFty3OlE/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTc2/Mi0zOTk0LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -35,28 +41,24 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Gentle On My Mind , Glen Campbell , 1967 Vinyl
 {{< youtube id="VecunpIqlg0" title="Gentle On My Mind , Glen Campbell , 1967 Vinyl" >}}<br>
-
 ### More Videos
 
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
 - [Glen Campbell - Dreams Of The Everyday Housewife](https://www.youtube.com/watch?v=LonUQ5o-vLc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1975                                   |
-| Discogs Link   | [Glen Campbell - More Words](https://www.discogs.com/release/5672942-Glen-Campbell-More-Words) |
-| Label          | Ember Records |
 | Format         | Vinyl LP Compilation |
+| Label          | Ember Records |
 | Catalog Number | NRH 1001 |
 | Notes | Fold out front cover © 1975 ℗ 1968 track A1, A2, A4, B1, B3. B4 ℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7  Made in England  |
+| Discogs URL    | [Glen Campbell - More Words](https://www.discogs.com/release/5672942-Glen-Campbell-More-Words) |

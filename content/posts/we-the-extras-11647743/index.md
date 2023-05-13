@@ -10,6 +10,9 @@ cover:
     image: "we-the-extras-11647743.jpg"
     alt: "We The Extras by The Levellers"
     caption: "We The Extras by The Levellers"
+additional_images:
+    - "https://i.discogs.com/as4UhX6kIPky6bKwtTsAjTfoj_Yc5FSC2Phify4XydE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NzQzLTE1MjAxNzc1/ODMtOTk4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/MFOVg-KVDzg56ILom6EVfbmO1cT28lUL6afrbEpGq3s/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NzQzLTE1MjI1MTcx/NzEtMTkzNC5qcGVn.jpeg"
 genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
@@ -25,18 +28,17 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [The Levellers - We The Extras](https://www.discogs.com/release/11647743-Levellers-We-The-Extras) |
-| Label          | On The Fiddle Recordings |
 | Format         | Vinyl 12" EP |
+| Label          | On The Fiddle Recordings |
 | Catalog Number | OTFS023X |
+| Discogs URL    | [The Levellers - We The Extras](https://www.discogs.com/release/11647743-Levellers-We-The-Extras) |

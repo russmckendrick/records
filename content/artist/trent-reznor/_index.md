@@ -1,6 +1,9 @@
 ---
 title: "Trent Reznor"
-summary: "American producer, remixer, all-round musician, born May 17, 1965 in New Castle, Pennsylvania, USA. Best known as front man/singer of Nine Inch Nails. Founder of and . Started his musical career with Cleveland's '80 new-wave formation \"\". He is married to ."
+summary: "Michael Trent Reznor is an American musician, singer, songwriter, record producer, and composer. He serves as the lead vocalist, multi-instrumentalist, and principal songwriter of the industrial rock band Nine Inch Nails, which he founded in 1988 and of which he was the sole official member until 2016. The first Nine Inch Nails album, Pretty Hate Machine , was a commercial and critical success. Reznor has since released 11 more Nine Inch Nails studio albums.
+Reznor began his career in the mid-1980s as a member of synth-pop bands such as Option 30, The Innocent, and Exotic Birds. He has contributed to the albums of artists such as Marilyn Manson, whom he mentored, rapper Saul Williams and Halsey. Alongside his wife Mariqueen Maandig and long-time Nine Inch Nails collaborators Atticus Ross and Rob Sheridan, he formed the post-industrial group How to Destroy Angels in 2009.Beginning in 2010, Reznor, alongside Atticus Ross, began to work on film and television scores. The duo have scored many of David Fincher's films, including The Social Network , The Girl with the Dragon Tattoo , Gone Girl , and Mank . They won the Academy Award for Best Original Score and the Grammy Award for Best Score Soundtrack for Visual Media for both The Social Network and Soul . The duo has also scored the films Patriots Day , Mid90s, Bird Box , Waves , Bones and All, and Empire of Light . They have scored the documentaries Before the Flood and The Vietnam War , and the TV series Watchmen , winning a Primetime Emmy Award for the lattermost.
+In 1997, Reznor appeared on Time's list of the year's most influential people, and Spin magazine described him as \"the most vital artist in music\"."
 image: "trent-reznor.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/trent-reznor/2844131"
+wikipedia_url: "https://en.wikipedia.org/wiki/Trent_Reznor"
 ---

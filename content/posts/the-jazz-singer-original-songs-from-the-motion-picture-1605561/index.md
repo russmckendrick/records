@@ -10,6 +10,17 @@ cover:
     image: "the-jazz-singer-original-songs-from-the-motion-picture-1605561.jpg"
     alt: "The Jazz Singer (Original Songs From The Motion Picture) by Neil Diamond"
     caption: "The Jazz Singer (Original Songs From The Motion Picture) by Neil Diamond"
+additional_images:
+    - "https://i.discogs.com/_H2o-DXARTmNqyD7xJW42BnJXcEfAG7RSj1sU7LoNJE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTUz/Ny0yMDg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Sdwge3bUMjLvYBgPJ_-JMUmnt30l5Iz0vuDNBEY8gGs/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTU2/MS03NjM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/h1d9eXSJC-09b4TVuyI2U9uqZyn_pD71mc30L4Gw9yw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTU2/NC0yMDcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/gIUs8cllCzowUO9U9x6eUhyJ9VO9GFFZKHcmOBe7r4Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTU4/OC05MjE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/8jkGdZfBMgDp95n_qB5fQyECZDNNKW_jBHWXDWLWHQc/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTYw/NS03NTE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ySwEtDZ7nVakFVXW_KMXtqppqJUBtRQeX6LKclFq-tg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTYw/OC03Njk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/3rMSaq5rHZM0xd8QuDdiaQysi4FC2aJ1XcvDfJ1SkIM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTYx/NS0zMDEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Qd5y5i6lB813L4AljMnJITXUdNMTv6ZMgpkmrVx7NAo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTYx/OC03NTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/sllg-S2q2KeusUYV4M6-nPVpP50JuTQyyz86wYjjIbY/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTYy/Ny0xNTY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/KOlzWo0tMa-em4CZIA2RI_T_fP3yaFwc0y0NjHz5zPc/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU1/NjEtMTQ2MTg0OTYy/OS05NTg2LmpwZWc.jpeg"
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ---
@@ -35,20 +46,12 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546" >}}
-
-
-
-
-
 ## Videos
 ### America (From The Jazz Singer Soundtrack)
 {{< youtube id="SvseQ90FMHk" title="America (From The Jazz Singer Soundtrack)" >}}<br>
-
 ### More Videos
 
 - [Adon Olom (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
@@ -65,13 +68,15 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 - [Kol Nidre (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=H4QAReDEgVw)
 - [America (Reprise / From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=4ZoU4FtiyTs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1980                                   |
-| Discogs Link   | [Neil Diamond - The Jazz Singer (Original Songs From The Motion Picture)](https://www.discogs.com/release/1605561-Neil-Diamond-The-Jazz-Singer-Original-Songs-From-The-Motion-Picture) |
-| Label          | Capitol Records |
 | Format         | Vinyl LP Album (Gatefold) |
+| Label          | Capitol Records |
 | Catalog Number | EA-ST 12120 |
 | Notes | The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the label.  Gloss sleeve embossed |
+| Discogs URL    | [Neil Diamond - The Jazz Singer (Original Songs From The Motion Picture)](https://www.discogs.com/release/1605561-Neil-Diamond-The-Jazz-Singer-Original-Songs-From-The-Motion-Picture) |

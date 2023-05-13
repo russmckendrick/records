@@ -10,6 +10,17 @@ cover:
     image: "music-to-make-love-to-your-old-lady-by-23894969.jpg"
     alt: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather"
     caption: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather"
+additional_images:
+    - "https://i.discogs.com/VuTt3QNGEdsp8IF7KmHZK7jgb025AgVkb56GePmEPpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtODE2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/EmcvHFhvzdR-N14Gmd6raFTRF1J4kqCuz-45HvfMomU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtOTc2My5qcGVn.jpeg"
+    - "https://i.discogs.com/4zCF5N6DhCuAT6sEKZEjgIhyOMV_qmmfqwdTj5-P-4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtOTY2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/jy43kODRXrJoYTdC470nMt-cAVHilaeKUQg-HVsN7eQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItNDQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/SpPfir0WB3zzQUdYsTZtkCKtoul440QxeXaHYpyLgHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtMTA2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/uGEOb7jrAaUuYJsUIPh8EgaLGfeCd459o5jfHKABfEk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItNzkyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/esO3GNmpTw6RpsSOvvHizC0RyLPxjIb23JwnKd3GX5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItOTQ2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/yE-OIfggitGLp3pgEez12SL_XXnMOB5WKcI-BERs1lM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItMTY0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8dPPIHjDFiNEYKQK5mDBNkBZa7YWq6UHOWUWJEC2US0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItODY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/CVv_gJBM4o4LJtDCzRqa0SjToWEMqiDmViJmXXKS2GI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItODI1NS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Pop"]
 styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
@@ -37,20 +48,15 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 
 <!-- section break -->
 
+Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nathaniel-merriweather-presents-lovage-music-to-make/844768342" >}}
-
-
-
-
-
 ## Videos
 ### Lovage - Lies and Alibis
 {{< youtube id="hxf21Yh0LsI" title="Lovage - Lies and Alibis" >}}<br>
-
 ### More Videos
 
 - [Ladies Love Chest Rockwell](https://www.youtube.com/watch?v=KhtXq2B4Ogo)
@@ -79,13 +85,17 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
 - [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Music_to_Make_Love_to_Your_Old_Lady_By |
+| Wikipedia Summary | Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.<br><br> |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Nathaniel Merriweather - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969-Nathaniel-Merriweather-Presents-Lovage-Avec-Michael-Patton-Jennifer-Charles-Music-To-Make-Love-To-Yo) |
-| Label          | Bulk Recordings |
 | Format         | Vinyl 2× LP Album Reissue |
+| Label          | Bulk Recordings |
 | Catalog Number | BULK020LP |
 | Notes | "Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb  The cover is a remake of [m4375].   ℗ © 2022 Bulk Recordings |
+| Discogs URL    | [Nathaniel Merriweather - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969-Nathaniel-Merriweather-Presents-Lovage-Avec-Michael-Patton-Jennifer-Charles-Music-To-Make-Love-To-Yo) |

@@ -10,6 +10,17 @@ cover:
     image: "all-boro-kings-18211393.jpg"
     alt: "All Boro Kings by Dog Eat Dog"
     caption: "All Boro Kings by Dog Eat Dog"
+additional_images:
+    - "https://i.discogs.com/D7gC9WQIztMTaJ8rLtHu78uaYMOzBp6YpA3ePlR0Np8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MTc5MTQz/MTMtNjMzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/kt-mZSJQvm8metNJVXrgn0lKo9sV2_rbjbBV7by680E/rs:fit/g:sm/q:90/h:897/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MTc5MTQz/MTQtNzgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/5uRbzJc53B3PJiCqwRIMHJzDJYAxrICGVm3j7F3lmJ0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MTc5MTQz/MTQtOTgwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/D5AwUkw453C2IcfZrkK8hOq2qa5b4jpWSBRIhaOx4ko/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MTc5MTQz/MTQtODc3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/DmrmlrVKkKLgrAFpJ8LR1NpuejJyxYALXP9DpTVDYwI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MTc5MTQz/MTQtNzUxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/oVtPuKoYHFlR_gaAXmYZ2Wc9ic7zW8QO_-WK4q7P1cw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MTc5MTQz/MTQtMzQ0My5qcGVn.jpeg"
+    - "https://i.discogs.com/RGE3Db_2mXgOCYVxGKBBXxTQE4n3YIRs4E1L0MGkCF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MjY1Njcx/OTgtNDAwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Ijl9TRGpmHC7J7kLf8fFB5PSwQOH47EjOYQEN6IttdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MjY1Njcy/NTMtOTI4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/sFtl4HhK_K9SYh1q9_dU7a4mmO5b13W2zZ92lkrcfQ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MjY1Njcy/ODctMzU0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/L3LzJEyfyXpmqdyD_jCagUQU9Av94ljGkMuCU_CjtUs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/MzkzLTE2MjY1Njcz/MjAtMjYyMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Funk Metal", "Hardcore"]
 ---
@@ -31,20 +42,12 @@ styles: ["Funk Metal", "Hardcore"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-boro-kings-bonus-tracks/362161529" >}}
-
-
-
-
-
 ## Videos
 ### Dog Eat Dog - Funnel King
 {{< youtube id="a_TedVjcybg" title="Dog Eat Dog - Funnel King" >}}<br>
-
 ### More Videos
 
 - [Dog Eat Dog - Whos The King from All Boro Kings 1994longplay](https://www.youtube.com/watch?v=rtuaiaIm8wQ)
@@ -59,13 +62,15 @@ styles: ["Funk Metal", "Hardcore"]
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=HtQ2UnMdL6g)
 - [Dog Eat Dog - Who's The King?](https://www.youtube.com/watch?v=KA7gt2iTWBQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393-Dog-Eat-Dog-All-Boro-Kings) |
-| Label          | Roadrunner Records |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 Gram) |
+| Label          | Roadrunner Records |
 | Catalog Number | MOVLP2821 |
 | Notes | Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover. |
+| Discogs URL    | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393-Dog-Eat-Dog-All-Boro-Kings) |

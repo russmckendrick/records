@@ -10,6 +10,10 @@ cover:
     image: "loops-in-the-secret-society-13787906.jpg"
     alt: "Loops In The Secret Society by Jane Weaver"
     caption: "Loops In The Secret Society by Jane Weaver"
+additional_images:
+    - "https://i.discogs.com/X9_C52h-rE5rVgltpt3nmVnm35cWlejCIRKyAJ12MdI/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/OTA2LTE1NjExMzM2/NjUtNjgzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Caip_uCyCqvxDgfBIdonExmwrT1Xpeif-uNfJbOJMq8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/OTA2LTE1NjExMzM2/NzAtNzU3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/LTse2B0EVe8-YMVxALmAchzuHZHVJNjOupXCargrZc4/rs:fit/g:sm/q:90/h:940/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/OTA2LTE1NjExMzM2/ODAtODg3NS5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ---
@@ -43,20 +47,12 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/loops-in-the-secret-society/1667806926" >}}
-
-
-
-
-
 ## Videos
 ### Element (Loops Variation)
 {{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}<br>
-
 ### More Videos
 
 - [Milk Loop](https://www.youtube.com/watch?v=ga_vN2nOlwU)
@@ -71,13 +67,15 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 - [Majic Milk (Loops Variation)](https://www.youtube.com/watch?v=pFhCwUdCf6g)
 - [Jane Weaver new album . Loops In The Secret Society / 2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Jane Weaver - Loops In The Secret Society](https://www.discogs.com/release/13787906-Jane-Weaver-Loops-In-The-Secret-Society) |
-| Label          | Fire Records |
 | Format         | Vinyl 2× LP Album Deluxe Edition |
+| Label          | Fire Records |
 | Catalog Number | FIRELP538 |
 | Notes | Deluxe Double Gatefold Vinyl Plus High Quality Download |
+| Discogs URL    | [Jane Weaver - Loops In The Secret Society](https://www.discogs.com/release/13787906-Jane-Weaver-Loops-In-The-Secret-Society) |

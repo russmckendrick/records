@@ -11,6 +11,13 @@ cover:
     image: "different-class-8668192.jpg"
     alt: "Different Class by Pulp"
     caption: "Different Class by Pulp"
+additional_images:
+    - "https://i.discogs.com/EDv4npoFVPArGx_0FTHOljc8gHMKIrMsoTY0RgRegxQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgx/OTItMTQ2Njg2Mzk3/Ny0yOTU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/XY-Iv_sF-xhUSq7aqKiDiKLXMUUdekQxc38ZVEvEsxc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgx/OTItMTQ2Njg2NDAz/NC00NDY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2Wlh9MYAgvG3tAmHKsOcMwc3g4NwQarmhfYjesdbQ5k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgx/OTItMTQ2Njg2NDA2/Ny0zMTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/KE143Sjau0J5DSgEJKpxcASohSrwDHo4gbGI7YTs-4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgx/OTItMTQ2Njg2NDA3/OC01NDMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/s2F6mGSA72vP-cJSCyZ66WeiIengHbrRMIX_S8rWeDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgx/OTItMTQ2Njg2NDA0/Ni02OTYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/O1i54mZfQ7qFq1hRNq0z-ZC4NY0Y7qBIznLao7maBEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgx/OTItMTQ2Njg2NDA1/Ny0xODQwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
@@ -34,22 +41,13 @@ styles: ["Britpop"]
 
 <!-- section break -->
 
-
 An iconic album telling timeless tales of sex, class struggles, and insecurity. Dreamt up by Jarvis Cocker on a Casiotone keyboard, “Common People” is the instantaneous mega-hit destined for dance floors of all future generations, “Mis-Shapes” a call to arms for society’s outsiders, while coming-of-age anthems “Disco 2000” and “F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E” narrate the gloriously awkward fumblings of first love. After all, “this isn’t chocolate boxes and roses”. Listen closely and you’ll hear Cocker’s knowing wink and a wry smile as his unlikely Britpop heroes unified a generation of misfits.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/different-class/1440923838" >}}
-
-
-
-
-
 ## Videos
 ### Pulp - Common People
 {{< youtube id="yuTMWgOduFM" title="Pulp - Common People" >}}<br>
-
 ### More Videos
 
 - [Pulp - Disco 2000](https://www.youtube.com/watch?v=qJS3xnD7Mus)
@@ -61,13 +59,17 @@ An iconic album telling timeless tales of sex, class struggles, and insecurity. 
 - [F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E.](https://www.youtube.com/watch?v=osDBZGu7QuE)
 - [Underwear](https://www.youtube.com/watch?v=-IArKcMSwxM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
-| Discogs Link   | [Pulp - Different Class](https://www.discogs.com/release/8668192-Pulp-Different-Class) |
-| Label          | Island Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Different_Class |
+| Wikipedia Summary | Different Class (released in Japan as Common People) is the fifth studio album by English rock band Pulp, released on 30 October 1995 by Island Records.<br>The album was a critical and commercial success, entering the UK Albums Chart at number one and winning the 1996 Mercury Music Prize. It has been certified four times platinum, and had sold 1.33 million copies in the United Kingdom as of 2020. In 2013, NME ranked the album at number six in its list of the 500 greatest albums of all time.<br><br> |
+    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Island Records |
 | Catalog Number | 4785288 |
 | Notes | Includes a custom inner sleeve. There is a print error on the inner sleeve which lists track 6 as LIVE BED SHOW DOYLE.  This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.  ℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU. |
+| Discogs URL    | [Pulp - Different Class](https://www.discogs.com/release/8668192-Pulp-Different-Class) |

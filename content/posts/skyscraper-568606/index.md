@@ -10,6 +10,13 @@ cover:
     image: "skyscraper-568606.jpg"
     alt: "Skyscraper by David Lee Roth"
     caption: "Skyscraper by David Lee Roth"
+additional_images:
+    - "https://i.discogs.com/2BN60drGWC7LiqcGqrDSneESomS7ic0c3TO_xh4tVKY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODYw/Ni0xNjQ4MDI0NDU0/LTYxMDYuanBlZw.jpeg"
+    - "https://i.discogs.com/gZpLxywcIckyX_ClUgiQS8M4tCY59iGMqSXvHCgxqRk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODYw/Ni0xNjQ4MDI0NDU1/LTY0MzcuanBlZw.jpeg"
+    - "https://i.discogs.com/i7BUy_U6hrmIbGY185zTF7zQfqeZJPm6-BIrkpSUoBE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODYw/Ni0xNjQ4MDI0NDUy/LTk2NjUuanBlZw.jpeg"
+    - "https://i.discogs.com/xuvdO5BpN1t7Y8EbvNRpiMplhrqs3HAFiR4uWtx7wlM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODYw/Ni0xNjQ4MDI0NDUy/LTQwMTUuanBlZw.jpeg"
+    - "https://i.discogs.com/6dW2RBSrnCtj1OjN2djqIM9rEO6y-P7evkXsoiiMA-U/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODYw/Ni0xNjQ4MDI0NDUz/LTQ2MDMuanBlZw.jpeg"
+    - "https://i.discogs.com/Aq1hX-HRIizfh5h1N1aTzAnjFVXyzlOGoNU9mx2lBzE/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODYw/Ni0xNjQ4MDI0NDUz/LTIyMzIuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
@@ -31,20 +38,13 @@ styles: ["Hard Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Skyscraper is the second full-length studio album by David Lee Roth, released during his solo career after his departure as the original lead vocalist from Van Halen. It was released on January 26, 1988, on Warner Bros. Records.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/skyscraper/302138810" >}}
-
-
-
-
-
 ## Videos
 ### David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p
 {{< youtube id="PUBARAhO9EY" title="David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p" >}}<br>
-
 ### More Videos
 
 - [Just Like Paradise | David Lee Roth | Skyscraper | 1988 Warner Bros LP](https://www.youtube.com/watch?v=RNu8RRro4fY)
@@ -75,13 +75,17 @@ styles: ["Hard Rock", "Pop Rock"]
 - [David Lee Roth – Two Fools A Minute](https://www.youtube.com/watch?v=CUHtAqD4UVQ)
 - [David Lee Roth - Skyscraper [Full Album] (Remastered)](https://www.youtube.com/watch?v=OSOPWQp25mI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Skyscraper_(album) |
+| Wikipedia Summary | Skyscraper is the second full-length studio album by David Lee Roth, released during his solo career after his departure as the original lead vocalist from Van Halen. It was released on January 26, 1988, on Warner Bros. Records. |
 | Release Year   | 1988                                   |
-| Discogs Link   | [David Lee Roth - Skyscraper](https://www.discogs.com/release/568606-David-Lee-Roth-Skyscraper) |
-| Label          | Warner Bros. Records |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Warner Bros. Records |
 | Catalog Number | 925 671-1 |
 | Notes | Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound. Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle. Manufactured in Germany. Record Service GmbH, Alsdorf.  (C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S.  |
+| Discogs URL    | [David Lee Roth - Skyscraper](https://www.discogs.com/release/568606-David-Lee-Roth-Skyscraper) |

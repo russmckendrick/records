@@ -10,6 +10,15 @@ cover:
     image: "gold-against-the-soul-15458799.jpg"
     alt: "Gold Against The Soul by Manic Street Preachers"
     caption: "Gold Against The Soul by Manic Street Preachers"
+additional_images:
+    - "https://i.discogs.com/fIQOyY3FM4X6IGaOqUbjLF18ssmloeaa76MPjrDgVic/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NDgtMzU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/msaxmxiX62Wnj1VnrR8ekgv8_sq9bUn84xDff1a0nh4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NDgtNzY4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/TL-jKjxbY8-Eih8oiKo81B4Qn6JhyzvKN0DSxOJxljk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTgtOTQ1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/z7sbjHY2zQ8_DPpCV6bIx7rYe8xpVO5S044y2ix5XTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTYtMTk2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/y3zyYJFc-scXmOfHzN4UeI3Or7C6wVxri4_-hwgFgww/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTMtNTU4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/JMGlPeSBBJ8s5vkXpIF0LTYKckZ3v0psQLs59bLjZxI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTUtNjgyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/XXjV02S3CF_p8dJA6_IeJQMfPGG5opU7rDwLQwobC58/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE2MDQ2OTA4/MTYtMzcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/2dzrGs96tbjaEECUYwDrSoWsWKFlBpXchYisEgjVSo4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE2MDQ2OTA4/MTYtNzQ0Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -31,20 +40,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-against-the-soul/207067933" >}}
-
-
-
-
-
 ## Videos
 ### Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)
 {{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}<br>
-
 ### More Videos
 
 - [Manic Street Preachers - Gold Against the Soul (Audio)](https://www.youtube.com/watch?v=xJw2KqxlLho)
@@ -63,13 +64,15 @@ styles: ["Alternative Rock"]
 - [Symphony of Tourette (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=3Pgui4hr9SA)
 - [Gold Against The Soul - Trailer](https://www.youtube.com/watch?v=8qaD-U7fS24)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Manic Street Preachers - Gold Against The Soul](https://www.discogs.com/release/15458799-Manic-Street-Preachers-Gold-Against-The-Soul) |
-| Label          | Columbia |
 | Format         | Vinyl LP Album Reissue Remastered |
+| Label          | Columbia |
 | Catalog Number | 19439733611 |
 | Notes | 2020 remastered reissue on 180gm vinyl.  Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.  Includes a [l=we are vinyl] download code for album plus b sides.  Made in the EU. |
+| Discogs URL    | [Manic Street Preachers - Gold Against The Soul](https://www.discogs.com/release/15458799-Manic-Street-Preachers-Gold-Against-The-Soul) |

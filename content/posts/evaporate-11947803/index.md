@@ -10,6 +10,8 @@ cover:
     image: "evaporate-11947803.jpg"
     alt: "Evaporate by Midas Fall"
     caption: "Evaporate by Midas Fall"
+additional_images:
+    - "https://i.discogs.com/YQjg9DOMBSk1NFRhjB4AefruKiL3l9vMi4C0gImwloI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ3/ODAzLTE1MjUyNzEz/NjctODQ4MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ---
@@ -31,32 +33,26 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/evaporate/1343876649" >}}
-
-
-
-
-
 ## Videos
 ### Midas Fall - Glue
 {{< youtube id="oZ_ArHLW43I" title="Midas Fall - Glue" >}}<br>
-
 ### More Videos
 
 - [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
 - [Midas Fall - Evaporate (Live Session)](https://www.youtube.com/watch?v=U_KKsAY55qM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Midas Fall - Evaporate](https://www.discogs.com/release/11947803-Midas-Fall-Evaporate) |
-| Label          | Monotreme Records |
 | Format         | Vinyl LP |
+| Label          | Monotreme Records |
 | Catalog Number | MONO-130VNL |
 | Notes | Limited to 500 copies on 180g vinyl (300 clear blue & black, 200 black) Colours were randomly distributed Includes CD of the Album in Card Sleeve |
+| Discogs URL    | [Midas Fall - Evaporate](https://www.discogs.com/release/11947803-Midas-Fall-Evaporate) |

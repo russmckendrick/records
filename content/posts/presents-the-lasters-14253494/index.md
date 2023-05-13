@@ -10,6 +10,9 @@ cover:
     image: "presents-the-lasters-14253494.jpg"
     alt: "Presents The Lasters by Fred Deakin"
     caption: "Presents The Lasters by Fred Deakin"
+additional_images:
+    - "https://i.discogs.com/vO1VO3VFEfXMbdZD6eCwavxvjvVTbCX0EsNLVGcoRq0/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NDk0LTE1NzA4MDc2/NDctMjY1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/XURNwK1pZevVbUvlh1ZlgRc0KBLppgaMgUENneEbncU/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NDk0LTE1NzEzMDMx/MjktMjM5Ni5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
@@ -40,20 +43,12 @@ styles: ["Downtempo"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fred-deakin-presents-the-lasters/1480648770" >}}
-
-
-
-
-
 ## Videos
 ### FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly
 {{< youtube id="OE4YLy-4SgI" title="FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly" >}}<br>
-
 ### More Videos
 
 - [Fred Deakin - The End Of The World (Official Audio)](https://www.youtube.com/watch?v=tTRS9LS7IQY)
@@ -63,13 +58,15 @@ styles: ["Downtempo"]
 - [Bringing It Back To You](https://www.youtube.com/watch?v=4yhZzBTaA8A)
 - [Get The Message Through](https://www.youtube.com/watch?v=KWjwONTzryk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Fred Deakin - Presents The Lasters](https://www.discogs.com/release/14253494-Fred-Deakin-Presents-The-Lasters) |
-| Label          | Impotent Fury |
 | Format         | Vinyl 2× LP Limited Edition Numbered (Deluxe Kickstarter Edition) |
+| Label          | Impotent Fury |
 | Catalog Number | IFLSTRS001 |
 | Notes | Kickstarter edition. 500 copies only available to those who backed the project. One blue vinyl, one gold vinyl with a double gatefold sleeve, pop up artwork and tip on jacket with printed inner sleeves. Fred Deakin signed and numbered hype sticker.  Kickstarter description "The triple gatefold double vinyl album featuring metallic and florescent spot colour inks, a pop-up fold and augmented reality visuals. Both discs are pressed on heavyweight coloured vinyl. The sleeve artwork itself is a series of six "stained glass window" images constructed from laser cut perspex mounted onto light boxes which show scenes from the album's story" |
+| Discogs URL    | [Fred Deakin - Presents The Lasters](https://www.discogs.com/release/14253494-Fred-Deakin-Presents-The-Lasters) |

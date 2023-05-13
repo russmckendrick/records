@@ -10,6 +10,13 @@ cover:
     image: "cupid-psyche-85-481976.jpg"
     alt: "Cupid & Psyche 85 by Scritti Politti"
     caption: "Cupid & Psyche 85 by Scritti Politti"
+additional_images:
+    - "https://i.discogs.com/106m6IE8S0N2OqAhnVn18GbQe_rfL5fslK-XAneP-lE/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk3/Ni0xNDc1OTMyMjE4/LTcwMjIuanBlZw.jpeg"
+    - "https://i.discogs.com/lmvORf7CnuNzuaCnV07zixBvMNGfG7zi1TvLjGxXXyw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk3/Ni0xNDc1OTMyMjE2/LTIxNjUuanBlZw.jpeg"
+    - "https://i.discogs.com/BPywc2OABkDUsEo7tRiwxRTw_JtfJVRjZKAVmqC4XvA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk3/Ni0xNDc1OTMyMjE5/LTczMDQuanBlZw.jpeg"
+    - "https://i.discogs.com/1WJp6radlodD9PekXDc_k1l8j9sotXpH-Z5YMD5Q7tI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk3/Ni0xNDc1OTMyMjE5/LTUzMjQuanBlZw.jpeg"
+    - "https://i.discogs.com/2jgWaI2aypHzDAxJ3Duyc5XZ5TNAg0Qq23mqMYFTBAg/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk3/Ni0xNDc1OTMyMjE3/LTUwNjQuanBlZw.jpeg"
+    - "https://i.discogs.com/4iBWD5cELZnQQnDbGrxyj4NfEIv4jChPOCg7J04iZzw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk3/Ni0xNDc1OTMyMjE3/LTYxODkuanBlZw.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -30,20 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cupid-psyche-85/1139092963" >}}
-
-
-
-
-
 ## Videos
 ### Scritti Politti - The Word Girl
 {{< youtube id="cyWB9WPLT1s" title="Scritti Politti - The Word Girl" >}}<br>
-
 ### More Videos
 
 - [Small Talk](https://www.youtube.com/watch?v=cLdY5Pslcfg)
@@ -58,13 +57,15 @@ styles: ["Synth-pop"]
 - [Don't Work That Hard](https://www.youtube.com/watch?v=AbQjcVpfqOA)
 - [Scritti Politti  -  Absolute](https://www.youtube.com/watch?v=ycMaueZ3eas)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1985                                   |
-| Discogs Link   | [Scritti Politti - Cupid & Psyche 85](https://www.discogs.com/release/481976-Scritti-Politti-Cupid-Psyche-85) |
-| Label          | Virgin |
 | Format         | Vinyl LP Album |
+| Label          | Virgin |
 | Catalog Number | V 2350 |
 | Notes | Initial copies of this release on vinyl had the title Cupid & Psyche 85 embossed in gold print. The catalogue number V 2350 is the same.  ℗ 1985 Virgin Records Ltd. © 1985 Jouissance Ltd.  Manufactured in the U.K. |
+| Discogs URL    | [Scritti Politti - Cupid & Psyche 85](https://www.discogs.com/release/481976-Scritti-Politti-Cupid-Psyche-85) |

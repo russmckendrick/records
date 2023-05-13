@@ -1,6 +1,8 @@
 ---
 title: "Cocteau Twins"
-summary: "Scottish post-punk/ethereal/dream pop band formed in 1981 in Grangemouth, Falkirk and disbanded in 1997."
+summary: "Cocteau Twins were a Scottish rock band active from 1979 to 1997. They were formed in Grangemouth by Robin Guthrie and Will Heggie , adding Elizabeth Fraser in 1981 and replacing Heggie with multi-instrumentalist Simon Raymonde in 1983. The group earned critical praise for their ethereal, effects-laden sound and the soprano vocals of Fraser, whose lyrics often eschew any recognisable language. They pioneered the 1980s alternative subgenre of dream pop and helped define what would become shoegaze.After signing with the British record label 4AD in 1982, they released their debut album Garlands later that year. The addition of Raymonde in 1983 solidified their final lineup, which produced their biggest hit in the UK, \"Pearly-Dewdrops' Drops\", peaking at No. 29 on the UK Singles Chart. In 1988, Cocteau Twins signed with Capitol Records in the United States, distributing their fifth album, Blue Bell Knoll, through a major label in the country. After the 1990 release of their most critically acclaimed album, Heaven or Las Vegas, the band left 4AD for Fontana Records, where they released their final two albums.
+After nearly 20 years together, the band disbanded in 1997 in part due to issues stemming from the disintegration of Fraser and Guthrie's romantic relationship. In 2005, the band announced that they would reunite to headline Coachella and embark on a world tour but the reunion was cancelled a month later after Fraser refused to perform on stage with Guthrie. In a 2021 interview, Raymonde confirmed that Cocteau Twins \"will never reform\"."
 image: "cocteau-twins.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/cocteau-twins/3029779"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cocteau_Twins"
 ---

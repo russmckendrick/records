@@ -11,6 +11,22 @@ cover:
     image: "kick-489874.jpg"
     alt: "Kick by INXS"
     caption: "Kick by INXS"
+additional_images:
+    - "https://i.discogs.com/7DI9hs2Xeh_m5cAn7bp0OPNTJU-OA36qxubS6_CwN1k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xMTU5NjIyMzky/LmpwZWc.jpeg"
+    - "https://i.discogs.com/_OQswIzo4t3hl30cnanWVVJbj7QD4e2wybE7mMbOuyI/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNDAxNjU3MDU3/LTg0NzkuanBlZw.jpeg"
+    - "https://i.discogs.com/EEKeji_fPBvmg9ylXAWBlNKcQ8C6n-ELr1oygp0veOE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNDAxNjU3MDU3/LTk2ODEuanBlZw.jpeg"
+    - "https://i.discogs.com/aeNXH65IPyOaBPl4gQkcgfFehJ7BUQ-bcYmgafncbKc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNDAxNjU3MDU4/LTc1MTIuanBlZw.jpeg"
+    - "https://i.discogs.com/WBr0eKg9IKVY6ssIVdDnMDe_PD9UiT4bZ3MUMsJTo7g/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNDAxNjU3MDU4/LTU5NzQuanBlZw.jpeg"
+    - "https://i.discogs.com/dhhYldI-_EdAXDYuT8ImD3yVhxv2L3HsLnORkphcUKM/rs:fit/g:sm/q:90/h:571/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xMTc1MTM0MzMz/LmpwZWc.jpeg"
+    - "https://i.discogs.com/EenoGYw5tePVdKDekYFdWjNS0BYuJFQFG9Bg6FkcogI/rs:fit/g:sm/q:90/h:571/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xMTc1MTM0MzUw/LmpwZWc.jpeg"
+    - "https://i.discogs.com/PO-bFOUn_hjtXKzcRy754XU5rHutE6aghvtbjVlrivk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg5/LTU0NTIuanBlZw.jpeg"
+    - "https://i.discogs.com/_Fvs-gO4BewqvRYb9AA4Ss2BVYzWtzn62T61TYUyl4w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg5/LTI0MTMuanBlZw.jpeg"
+    - "https://i.discogs.com/Z2Riu8o7O6juhkO4zANl0e0TQK3Kcl63ik_IW9I3cNk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg4/LTk0NTUuanBlZw.jpeg"
+    - "https://i.discogs.com/Phrs534hEm-rxsXAskwljqK60MXdbMRgQ3PjYd3HCgM/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg5/LTQ3MTEuanBlZw.jpeg"
+    - "https://i.discogs.com/NnKGGYpezFXUeHyuorUeLnne7-DppdlQJicdcAwx4aI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg5/LTgwOTguanBlZw.jpeg"
+    - "https://i.discogs.com/PeGz3AerLYjnu1aTDkPyaFldwiG_87YHgT00rcvE6hU/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg5/LTQ1NDcuanBlZw.jpeg"
+    - "https://i.discogs.com/21YyDY73l_0XMSl3PC7Uj3m-UHCzBHiiYzyckyL_J2o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg4/LTMzOTkuanBlZw.jpeg"
+    - "https://i.discogs.com/5djlwn8l0JAPxMcKzntvKl4dFZsDjHWQTbtU1djjxpM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg3/NC0xNjQyMzQyNjg5/LTI4MTQuanBlZw.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
@@ -33,7 +49,6 @@ styles: ["Pop Rock", "Indie Rock"]
 12. Tiny Daggers (3:29)
 
 <!-- section break -->
-
 
 <i>Guitarist Tim Farriss goes track by track on the album that changed INXS—and modern pop—forever.</i><br />
 It is easy, with the benefit of hindsight and history, to chart an artist’s commercial and creative evolution, to divide a long career into distinct periods and surmise how one led to another. But for the artists themselves, the experience is a blur, especially given the view from inside a wild, world-beating run like the one Aussie pop powerhouse INXS were on circa their fifth album, <i>Listen Like Thieves</i>, in 1985. “Each record was kind of an era for us that blended from one to the other,” guitarist Tim Farriss tells Apple Music. “We were just touring our nuts off. The world certainly knew who we were, and the fans and the general public wanted us to succeed. We could feel that sort of thing, and we knew what our strengths were.” Refining those strengths—namely, a preternatural talent for big-tent, danceable pop-rock anchored by slick, studio-polished grooves—meant maintaining continuity for <i>Kick</i>, which would become the biggest album of the band’s career, selling some 20 million copies worldwide and yielding four Top 10 singles in the US alone. Chris Thomas would again produce, and the songwriting would be carried by Tim’s brother Andrew and frontman Michael Hutchence, who was comfortably growing into the job of swaggering international sex symbol.<br />
@@ -60,20 +75,12 @@ And to best wed those studio-polished grooves to the vibe of a tight live band t
 “I just love that song. We used to carry these huge video things around because they were big back then, and record personal stuff on tour and that. I put a little vignette together using the guys' personal footage from that time called 'For Your Eyes Only'. I don't know how to get a copy of that, but 'Calling All Nations' was one of the main pieces of music I used on it because it's just my favourite. We ended up calling the tour Calling All Nations—it was about coming down to the party.”<br />
 <b>Tiny Daggers</b>
 “I think we recorded that song in probably two days. It's pretty quick for us. We would play the last three songs on the album together live on that tour, too, so there was a bit of a race to the end. We thought we were exhausted after touring <i>Listen Like Thieves</i>, but we were <i>really</i> exhausted after touring this.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kick-remastered/1440855131" >}}
-
-
-
-
-
 ## Videos
 ### INXS - Need You Tonight (Official Music Video)
 {{< youtube id="F93ywiGMDnQ" title="INXS - Need You Tonight (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [INXS - Mediate](https://www.youtube.com/watch?v=Pr-Vfnd7Yno)
@@ -94,13 +101,17 @@ And to best wed those studio-polished grooves to the vibe of a tight live band t
 - [INXS – New Sensation](https://www.youtube.com/watch?v=IqWUU7qmVd8)
 - [INXS - Never Tear Us Apart (Soul Version)](https://www.youtube.com/watch?v=MxFrA-eq074)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
-| Discogs Link   | [INXS - Kick](https://www.discogs.com/release/489874-INXS-Kick) |
-| Label          | Mercury |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Kick_(INXS_album) |
+| Wikipedia Summary | Kick is the sixth studio album by Australian rock band INXS, released on 12 October 1987 through WEA in Australia, Mercury Records in Europe, and Atlantic Records in the United States and Canada. The album was produced by British producer Chris Thomas, recorded by David Nicholas in Sydney, Australia, and in Paris, France, and mixed by Bob Clearmountain at Air Studios in London.<br>The band's most successful studio album, Kick has been certified six times platinum by the RIAA and peaked at number three on the Billboard 200. The album also spawned four US top 10 singles, "New Sensation", "Never Tear Us Apart", "Devil Inside" and "Need You Tonight", the last of which reached the top of the US Billboard singles charts. |
+    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Album (Gatefold) |
+| Label          | Mercury |
 | Catalog Number | MERH 114 |
 | Notes | Gatefold sleeve. Includes a picture Inner sleeve with printed lyrics.  Track durations stated on the centre labels.  A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]  As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam) |
+| Discogs URL    | [INXS - Kick](https://www.discogs.com/release/489874-INXS-Kick) |

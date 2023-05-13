@@ -10,6 +10,16 @@ cover:
     image: "the-it-girl-25128730.jpg"
     alt: "The It Girl by Sleeper"
     caption: "The It Girl by Sleeper"
+additional_images:
+    - "https://i.discogs.com/psJSP5kDkUDKQpEug_ir46_X-WNg2JHk1YzmGYEmr-U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzM3/MjMtNTE0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/segcNlVbP7EtRzZ6r_dIQJnwar7CmQ9kruB7NN7dBqc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzM3/MzEtNTk1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/EjpAcLyQuc0-0OD7BdcBrW5IfYnP1PYBhPnQHwKnH0M/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTMtMjQ2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/UCfLHHuf5hUBDQxWlLiPWx6Pbl1BYTuKwN53qBNdlI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTUtOTE4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/DrSJenPvTPRBFi6pE6wZ7737yXuio6Ctkcjq6MNbdgs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTYtNzA0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/DmHQf1l8Ovz05obdVTS1CA2-4ix81xqv8vVZ34S57tk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTYtMjM2My5qcGVn.jpeg"
+    - "https://i.discogs.com/vSbFKVwcIxT7798wshFHBb89GQf8NgOAIys2hYaSSWU/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTUtODMzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/SrLJF7iFg8WGD7xytCKiyJ8Q2lV7VfhTWcdi2iCz9kE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTctNjY0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/wERMwo3XqNMZCWK6amPApm8q1h3h-yXmSiwbqklpyW4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzQ3/MTYtMjQ0Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
@@ -47,28 +57,23 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-it-girl/835855794" >}}
-
-
-
-
-
 ## Videos
 ### Shrinkwrapped - Sleeper - The It Girl
 {{< youtube id="GDqcXMQxMG0" title="Shrinkwrapped - Sleeper - The It Girl" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Sleeper - The It Girl](https://www.discogs.com/release/25128730-Sleeper-The-It-Girl) |
-| Label          | Gorsky Records |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent), CD Compilation |
+| Label          | Gorsky Records |
 | Catalog Number | SLEEP29LP |
 | Notes | Package includes 12 track "The It Girl B Sides & Demos" CD (not available separately) and a double-sided 12"x12" print slipped inside the sleeve.  Pre-orders via band’s store included an additional one-sided signed print  The CD tracks are listed in the incorrect order on the sleeve. The correct order (confirmed by the CD text titles) is as above. The order on the sleeve is: 1. Paint Me 2. Pokerface 3. Package Holiday 4. Spies 5. She's A Sweetheart 6. Room At The Top 7. Sale Of The Century 8. Nice Guy Eddie 9. Good Luck Mr Gorsky 10. Dress Like Your Mother 11. Lamp Light On 12. Mr Blue  Timings taken from the CD.  |
+| Discogs URL    | [Sleeper - The It Girl](https://www.discogs.com/release/25128730-Sleeper-The-It-Girl) |

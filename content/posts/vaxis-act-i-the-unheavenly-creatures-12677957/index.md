@@ -10,6 +10,11 @@ cover:
     image: "vaxis-act-i-the-unheavenly-creatures-12677957.jpg"
     alt: "Vaxis – Act I: The Unheavenly Creatures by Coheed And Cambria"
     caption: "Vaxis – Act I: The Unheavenly Creatures by Coheed And Cambria"
+additional_images:
+    - "https://i.discogs.com/5XgCKJzPjCHhFGWTi8JZAA-_dN1iSBNj0FWTG0KWF-Q/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NjctMTA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/-eFmHeHIZX7RI4SsBHrl8WXlZx8jL7hZTYqLlyznz-E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzEtNzg2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/RsXkJG2V6WDqeVX6vu2dvX2tEpl_LNtmlh7IcYntmXs/rs:fit/g:sm/q:90/h:1009/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzQtMTM3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/MvfBjUfWNc1NgHL6JWyuPDEpAuSk3LDQ9dAWrtceEu8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzQtODQ4OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -36,24 +41,21 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Coheed and Cambria: Old Flames [OFFICIAL VIDEO]
 {{< youtube id="SX6Dz0JRifU" title="Coheed and Cambria: Old Flames [OFFICIAL VIDEO]" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Coheed And Cambria - Vaxis – Act I: The Unheavenly Creatures](https://www.discogs.com/release/12677957-Coheed-And-Cambria-Vaxis-Act-I-The-Unheavenly-Creatures) |
-| Label          | Roadrunner Records |
 | Format         | Vinyl 2× LP Album (True Ugly Color Vinyl), Vinyl LP Single Sided Album Etched (True Ugly Color Vinyl) |
+| Label          | Roadrunner Records |
 | Catalog Number | RR7429-1 |
 | Notes | Tri-Fold Jacket Includes Digital Download 1686-174291 & RR-7429-1 Printed On Hype Sticker. Side VI withing etching Made in the EU |
+| Discogs URL    | [Coheed And Cambria - Vaxis – Act I: The Unheavenly Creatures](https://www.discogs.com/release/12677957-Coheed-And-Cambria-Vaxis-Act-I-The-Unheavenly-Creatures) |

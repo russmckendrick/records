@@ -10,6 +10,12 @@ cover:
     image: "a-new-morning-5448464.jpg"
     alt: "A New Morning by Suede"
     caption: "A New Morning by Suede"
+additional_images:
+    - "https://i.discogs.com/NccgwtxLjShyUb2o6b0MyVPxhGJkhol1ga08-hAJ5ZI/rs:fit/g:sm/q:90/h:468/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg0/NjQtMTM5MzYyMzUx/OS04MTk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/9fqrEDEy7BbGiVmXHTrAPs4Dp-3a4-lEDUR4xmqEwXY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg0/NjQtMTM5MzYyMzYw/OC0zMDUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/5uBR1W9EXIvhMXel1RgWUwEPMWf99HrW-DP8RzbrDak/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg0/NjQtMTM5MzYyMzYx/Ny00NDcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/1f_dhvHUGHJl24RG3txVhbur9bj_cZqKJY8aTYcx4gY/rs:fit/g:sm/q:90/h:364/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg0/NjQtMTM5MzYyMzYz/Ni0xMjc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/SElu5NwsDj734TupU4GsgDf0TsJc4zjtWNOFck7s_rg/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg0/NjQtMTM5MzYyMzY3/MS0zODM2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
@@ -33,28 +39,23 @@ styles: ["Alternative Rock", "Britpop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-new-morning-deluxe-edition-remastered/437250212" >}}
-
-
-
-
-
 ## Videos
 ### Obsessions
 {{< youtube id="eizbLoFEyqs" title="Obsessions" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Suede - A New Morning](https://www.discogs.com/release/5448464-Suede-A-New-Morning) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue Stereo (180 g) |
+| Label          | Demon Records |
 | Catalog Number | INSATIABLE 5 |
 | Notes | On vinyl for the first time.  Supplied with download card for the full album.  Though reissued in 2014, copyright notice states '(c) 2013'. Manufactured in the EU |
+| Discogs URL    | [Suede - A New Morning](https://www.discogs.com/release/5448464-Suede-A-New-Morning) |

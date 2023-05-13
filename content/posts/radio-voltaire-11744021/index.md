@@ -10,6 +10,10 @@ cover:
     image: "radio-voltaire-11744021.jpg"
     alt: "Radio Voltaire by Kino"
     caption: "Radio Voltaire by Kino"
+additional_images:
+    - "https://i.discogs.com/B3l8-uYaSNiQF9nUbwxfu6b1n1jCBsF93npTC9c6Ens/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1Mzc1NDE3/MDctNDA0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/_N3ichQL2Hmg32z3pY9oRdXu3fIqZuo26vPmeCQQowM/rs:fit/g:sm/q:90/h:494/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1Mzc1NDE3/MTEtNTA1My5qcGVn.jpeg"
+    - "https://i.discogs.com/Pm9sl0ZaDC-UIALSERsfI2v96a9mvwAL0oKGGz8x2CA/rs:fit/g:sm/q:90/h:695/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1MjE2NDI1/OTQtODY3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -43,20 +47,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-voltaire/1337056975" >}}
-
-
-
-
-
 ## Videos
 ### Radio Voltaire
 {{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}<br>
-
 ### More Videos
 
 - [Kino : ¨Radio Voltaire¨](https://www.youtube.com/watch?v=PPcNGSp-hFQ)
@@ -69,13 +65,15 @@ styles: ["Prog Rock"]
 - [I Won't Break So Easily Any More](https://www.youtube.com/watch?v=0fFdioSs9ic)
 - [Warmth of the Sun](https://www.youtube.com/watch?v=N6rIZtd6izQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Kino - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 501 |
 | Notes | Gatefold sleeve |
+| Discogs URL    | [Kino - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |

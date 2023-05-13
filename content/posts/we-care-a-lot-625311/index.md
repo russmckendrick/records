@@ -10,6 +10,15 @@ cover:
     image: "we-care-a-lot-625311.jpg"
     alt: "We Care A Lot by Faith No More"
     caption: "We Care A Lot by Faith No More"
+additional_images:
+    - "https://i.discogs.com/tluLXUt0zX1IOtDbBSkx3ogb2AipsK-UaScFxoNZkY4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTY0/LTUwMDAuanBlZw.jpeg"
+    - "https://i.discogs.com/8c6yGumOR2IYi4IkistDww6NTn3a-K_fojJhR1ODsEA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYz/LTQzNDEuanBlZw.jpeg"
+    - "https://i.discogs.com/X5c-7UuwS_00CRkevtyyx0xd3DV40B1VA7s3Q6kVuFo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTc4ODUuanBlZw.jpeg"
+    - "https://i.discogs.com/fsVgpOyMFDmb-o5ao6bpvEfaJft9SwEYDnyDPGNVHFs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTc2NDQuanBlZw.jpeg"
+    - "https://i.discogs.com/0-nNU4D_gmh_d4K7Vvg-LtSUIGljEde7wj0gXryN30I/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTYzMzUuanBlZw.jpeg"
+    - "https://i.discogs.com/ReerBv4o4c13N1gFf2rAlG4B9HhXIDb6YgmR6ruNpkA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYz/LTMzNzcuanBlZw.jpeg"
+    - "https://i.discogs.com/dzeBnItRc2HUULXFjsOE9YSlxqpIXHKwC4QNaIjWqhY/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNjcyODIxMjc2/LTM1ODMuanBlZw.jpeg"
+    - "https://i.discogs.com/Evbrw3NnP4Jv_JVdZczVsY5ET3NlmWKvDxbQdsiH3kY/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNjcyODIxMjc2/LTI2MTUuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ---
@@ -31,20 +40,15 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 
 <!-- section break -->
 
+"We Care a Lot" is a song by Faith No More. There are three versions of the song, all of which have been officially released over three different albums. The original was recorded for and released on the band's first studio album, We Care a Lot. A re-recorded version, with new lyrics, was included on the album Introduce Yourself and was the lead single, reaching number 53 on the UK Singles Chart. The live version, without original singer Chuck Mosley, was included on the live album and video Live at the Brixton Academy and was also released as a single in 1991. It was the second most frequently-played song during the band's live performances, behind "Epic". "We Care a Lot" featured different lyrics and ad-libs when performed by Mike Patton, much like performances of "Chinese Arithmetic".
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}
-
-
-
-
-
 ## Videos
 ### Faith No More - We Care a Lot (Official Music Video) [4K]
 {{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video) [4K]" >}}<br>
-
 ### More Videos
 
 - [We Care a Lot](https://www.youtube.com/watch?v=9L3M2WC5LPA)
@@ -59,13 +63,17 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 - [New Beginnings](https://www.youtube.com/watch?v=QuGYPgijH7Y)
 - [Faith No More - The Jungle Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/We_Care_a_Lot_(song) |
+| Wikipedia Summary | "We Care a Lot" is a song by Faith No More. There are three versions of the song, all of which have been officially released over three different albums. The original was recorded for and released on the band's first studio album, We Care a Lot. A re-recorded version, with new lyrics, was included on the album Introduce Yourself and was the lead single, reaching number 53 on the UK Singles Chart. The live version, without original singer Chuck Mosley, was included on the live album and video Live at the Brixton Academy and was also released as a single in 1991. It was the second most frequently-played song during the band's live performances, behind "Epic". "We Care a Lot" featured different lyrics and ad-libs when performed by Mike Patton, much like performances of "Chinese Arithmetic".<br><br> |
 | Release Year   | 1985                                   |
-| Discogs Link   | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311-Faith-No-More-We-Care-A-Lot) |
-| Label          | Mordam Records |
 | Format         | Vinyl LP Album |
+| Label          | Mordam Records |
 | Catalog Number | MDR 1 |
 | Notes | Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.    Recorded at: Prairie Sun Studios Cotati, CA  Mastered at K Disc Mastering (Kdisc stamped into the runout area)    European license-pressing & distribution by: De Konkurrent  ©&℗1985 Mordam Records    Includes an insert with additional artwork and lyrics.    K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.   |
+| Discogs URL    | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311-Faith-No-More-We-Care-A-Lot) |

@@ -10,6 +10,18 @@ cover:
     image: "the-dark-third-3050616.jpg"
     alt: "The Dark Third by Pure Reason Revolution"
     caption: "The Dark Third by Pure Reason Revolution"
+additional_images:
+    - "https://i.discogs.com/sH9jC_VRy2hr1X3CDmGNzzBlQBii_f3bA5HmUoiK6wc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODI3/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/5qkllG-JOOQGkroAG06JfJ0ZfCWv-UomRKNJcIP9ijY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODQw/MS5qcGVn.jpeg"
+    - "https://i.discogs.com/8pIsV6294M9Tm7bDH4uWsa3UL46y9OCcpXIus2o_e2A/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODQ4/OC5qcGVn.jpeg"
+    - "https://i.discogs.com/l2A30_px-ClNyv2DZIRRrlTK5l3iVdnZD6-KK2calKg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODU1/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/S3xk5YGHQ14XinQug7OG6ZOa3pquBYAPvmvFYw4INb8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODYw/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/t6fVf0490kMqNJRgSLRDLkqe7BEjtpmElMhbXbVW2O4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODY1/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/jASmJtRr3v2OCZK2QSRZFlpko72UWKE3aMJjtQUvFrM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODcz/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/m3Y6Q3kq62-Ype_tZXsVfiZNMSEVbE1FvYhtvdQQ20Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODc4/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/lIihtyTQvhFdXOVCuf4VbLjHbAiDpp7lE6kaA7R6eMQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODgx/NS5qcGVn.jpeg"
+    - "https://i.discogs.com/AMEmBokpCimLay2A0JyMvFjh12hYx7Vaa8yVtbT2qqs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODg0/My5qcGVn.jpeg"
+    - "https://i.discogs.com/0f7pM0glC1eMUZFE3GinIn_s7v3F1esMjMRfp0Ugjjs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/MTYtMTMxMzQwODg5/MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
@@ -35,20 +47,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}
-
-
-
-
-
 ## Videos
 ### Pure Reason Revolution - The Twyncyn / Trembilin Willows
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
-
 ### More Videos
 
 - [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
@@ -68,13 +72,15 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2011                                   |
-| Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616-Pure-Reason-Revolution-The-Dark-Third) |
-| Label          | Primal Vinyl Records |
 | Format         | Vinyl 2× LP Album |
+| Label          | Primal Vinyl Records |
 | Catalog Number | PVR0005LP |
 | Notes | Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.  © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records  Distributed by Plastic Head Music Distribution Ltd  Recorded at Fairhazel, Eden, The Gables & RAK Studios.   Mixed at RAK Studios.   |
+| Discogs URL    | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616-Pure-Reason-Revolution-The-Dark-Third) |

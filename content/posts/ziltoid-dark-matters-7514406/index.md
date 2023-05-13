@@ -10,6 +10,9 @@ cover:
     image: "ziltoid-dark-matters-7514406.jpg"
     alt: "Ziltoid (Dark Matters) by Devin Townsend Project"
     caption: "Ziltoid (Dark Matters) by Devin Townsend Project"
+additional_images:
+    - "https://i.discogs.com/Osy1UlXG90UaE-IgKJ8Qda1tozrS7ly821r6ubvtLRU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQ0/MDYtMTQ0MzA0OTMz/MS0yODMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/eUTqqNCyrsbYjxP8u8rhYABOuKtsSBfNuc4ghbEYK_E/rs:fit/g:sm/q:90/h:428/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQ0/MDYtMTU1NTkyMDQ4/Ni0xMTI2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -43,24 +46,21 @@ styles: []
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)
 {{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Devin Townsend Project - Ziltoid (Dark Matters)](https://www.discogs.com/release/7514406-Devin-Townsend-Project-Ziltoid-Dark-Matters) |
-| Label          | Inside Out Music |
 | Format         | Vinyl 2× LP Album, CD Album |
+| Label          | Inside Out Music |
 | Catalog Number | IOMLP 424 |
 | Notes | 180g vinyl in a gatefold sleeve. |
+| Discogs URL    | [Devin Townsend Project - Ziltoid (Dark Matters)](https://www.discogs.com/release/7514406-Devin-Townsend-Project-Ziltoid-Dark-Matters) |

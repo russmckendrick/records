@@ -10,6 +10,14 @@ cover:
     image: "0898-beautiful-south-12047875.jpg"
     alt: "0898 Beautiful South by The Beautiful South"
     caption: "0898 Beautiful South by The Beautiful South"
+additional_images:
+    - "https://i.discogs.com/lmS09efZWJZcU_ftvCeJw9S_kGawO2U3V8cESu51qNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE1MjcyNDYy/MzktODM0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/iw84NVibcI3heW36AiHwQgJCTuXe9ZiuFFmlfGf3Bdk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE2MjE4OTcy/ODMtMzc1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Xamu4ssKpAotgZuvo4w4woCj9j_9_bpS6XxmRgDexmY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE2NjgxMTg1/ODktNDg4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/PFl4vGa-JIPivLJCTgIH4G2ZVDsyLWvsTGR-1cOR2Pk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE2NjgxMTg1/ODktMzE4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/kVF2llO3EbIuKzUUMqKerFMklOf5C7qNt7mBdfj4RIs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE2NjgxMTg1/ODktNzk0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/ENegrptWRAEP3SLU525zSrT7g75V-Ca3EW1TxD27nH8/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE2NjgxMTg1/OTAtMzY2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LEOQFMG31iEmi376R2jwhtd3JUxtl-l8YvGEDXWVrEM/rs:fit/g:sm/q:90/h:416/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/ODc1LTE2MjE4OTcy/ODItMjYxOS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -33,20 +41,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/0898-beautiful-south/1442244263" >}}
-
-
-
-
-
 ## Videos
 ### The Beautiful South - Old Red Eyes Is Back
 {{< youtube id="ggJYJ9frSl0" title="The Beautiful South - Old Red Eyes Is Back" >}}<br>
-
 ### More Videos
 
 - [The Beautiful South - Bell Bottomed Tear [Live]](https://www.youtube.com/watch?v=8EqtpCLUbvM)
@@ -55,13 +55,15 @@ styles: ["Pop Rock"]
 - [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
 - [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [The Beautiful South - 0898 Beautiful South](https://www.discogs.com/release/12047875-The-Beautiful-South-0898-Beautiful-South) |
-| Label          | Go! Discs |
 | Format         | Vinyl LP Album Reissue Stereo |
+| Label          | Go! Discs |
 | Catalog Number | 5743902 |
 | Notes | "2018 Edition".  Issued in a matte sleeve. Picture/ lyric top opening inner sleeve of thin card. Includes a "The Sound Of Vinyl" download voucher. Package came shrink-wrapped.  Runouts are etched. |
+| Discogs URL    | [The Beautiful South - 0898 Beautiful South](https://www.discogs.com/release/12047875-The-Beautiful-South-0898-Beautiful-South) |

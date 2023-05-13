@@ -10,6 +10,10 @@ cover:
     image: "orange-synthetic-17164159.jpg"
     alt: "Orange Synthetic by Cobalt Chapel"
     caption: "Orange Synthetic by Cobalt Chapel"
+additional_images:
+    - "https://i.discogs.com/k8AeD0YMqMo98vMn2AUG9RW_EYE2nHGHpvE2XSU-RFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY0/MTU5LTE2MTIzODE3/NDgtNDMwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/aaZ-rbao5CurkznjlgFT5mQNpOjygyiJQljXfczIqL4/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY0/MTU5LTE2MTQ2Mjg2/MDAtNTUxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/r03lsiiVOKL5U7xh7h5uYs1by7pb-JZwWPuUnRSoVyg/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY0/MTU5LTE2MTQ2Mjg2/MDAtMTE0NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
@@ -31,20 +35,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orange-synthetic/1536139108" >}}
-
-
-
-
-
 ## Videos
 ### Orange Synthetic
 {{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}<br>
-
 ### More Videos
 
 - [A Father's Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
@@ -52,13 +48,15 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 - [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
 - [It's The End, The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Cobalt Chapel - Orange Synthetic](https://www.discogs.com/release/17164159-Cobalt-Chapel-Orange-Synthetic) |
-| Label          | Klove |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
+| Label          | Klove |
 | Catalog Number | KLOVE 2VA |
 | Notes | Some copies signed by artists. Includes insert. |
+| Discogs URL    | [Cobalt Chapel - Orange Synthetic](https://www.discogs.com/release/17164159-Cobalt-Chapel-Orange-Synthetic) |

@@ -10,6 +10,8 @@ cover:
     image: "mystoria-6055632.jpg"
     alt: "Mystoria by Amplifier"
     caption: "Mystoria by Amplifier"
+additional_images:
+    - "https://i.discogs.com/IlG_RUvTXCPm7F5_v4xYm3cvETLArBnaZp866eiHjqM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTU2/MzItMTQwOTkyNTM4/OC0yOTg5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
@@ -41,20 +43,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mystoria-deluxe-edition/1169669580" >}}
-
-
-
-
-
 ## Videos
 ### AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)
 {{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)" >}}<br>
-
 ### More Videos
 
 - [AMPLIFIER - ChugChugChugChug (Studio Episode #1)](https://www.youtube.com/watch?v=2IBQEao8Qhk)
@@ -62,13 +56,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [Amplifier - Black Rainbow](https://www.youtube.com/watch?v=z3JBcuP1FfQ)
 - [AMPLIFIER - Open Up (LYRIC VIDEO)](https://www.youtube.com/watch?v=VDdWkXa4yWE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Amplifier - Mystoria](https://www.discogs.com/release/6055632-Amplifier-Mystoria) |
-| Label          | Superball Music |
 | Format         | Vinyl LP Album, CD Album |
+| Label          | Superball Music |
 | Catalog Number | SBMLP 032 |
 | Notes | 180 gram black vinyl in gatefold cover with printed innersleeves  Comes with cd version of the album |
+| Discogs URL    | [Amplifier - Mystoria](https://www.discogs.com/release/6055632-Amplifier-Mystoria) |

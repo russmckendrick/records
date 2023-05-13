@@ -10,6 +10,11 @@ cover:
     image: "private-revolution-17493697.jpg"
     alt: "Private Revolution by World Party"
     caption: "Private Revolution by World Party"
+additional_images:
+    - "https://i.discogs.com/-71sDr9oBUjbdHBOKOTqdFXg85WY4o3qR8ymI6jqliI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDkz/Njk3LTE2MTM3NjEx/NTEtMjQ4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/c1-Rp1QzwZb50ubhTWlBoQJdqPcixV_rYma3hDW0s-4/rs:fit/g:sm/q:90/h:477/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDkz/Njk3LTE2MTM3NjEx/NDctMzIwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/4WA5BY_xeuPLDK_veRNZyVRZucD-kqBc-La0fBbOzJ8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDkz/Njk3LTE2NDA0Njc4/NjItMjg0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Empd6GKhHp7mO7GyEZ2niomYseg4CRjz-kmQcO8fBBU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDkz/Njk3LTE2NDA0Njc4/NjItODg3Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -32,20 +37,14 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Private Revolution is the debut album by the Welsh-British rock band World Party.  At this point, singer-songwriter/multi-instrumentalist Karl Wallinger was the only member of World Party, and the only person pictured on the cover.
+Wallinger is assisted on this album by several session musicians, including Anthony Thistlethwaite, Steve Wickham and Sinéad O'Connor. Several other musicians listed in the credits are actually whimsically named pseudonyms for Wallinger himself.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/private-revolution/711969568" >}}
-
-
-
-
-
 ## Videos
 ### World Party - Ship of Fools
 {{< youtube id="ZHh0V7UjVXI" title="World Party - Ship of Fools" >}}<br>
-
 ### More Videos
 
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=JaYcJQej5Uw)
@@ -62,12 +61,16 @@ styles: ["Alternative Rock"]
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Private_Revolution |
+| Wikipedia Summary | Private Revolution is the debut album by the Welsh-British rock band World Party.  At this point, singer-songwriter/multi-instrumentalist Karl Wallinger was the only member of World Party, and the only person pictured on the cover.<br>Wallinger is assisted on this album by several session musicians, including Anthony Thistlethwaite, Steve Wickham and Sinéad O'Connor. Several other musicians listed in the credits are actually whimsically named pseudonyms for Wallinger himself. |
 | Release Year   | 2021                                   |
-| Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/17493697-World-Party-Private-Revolution) |
-| Label          | Seaview |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Label          | Seaview |
 | Catalog Number | 1LP |
+| Discogs URL    | [World Party - Private Revolution](https://www.discogs.com/release/17493697-World-Party-Private-Revolution) |

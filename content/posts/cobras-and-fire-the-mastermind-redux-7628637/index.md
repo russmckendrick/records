@@ -10,6 +10,8 @@ cover:
     image: "cobras-and-fire-the-mastermind-redux-7628637.jpg"
     alt: "Cobras And Fire: The Mastermind Redux by Monster Magnet"
     caption: "Cobras And Fire: The Mastermind Redux by Monster Magnet"
+additional_images:
+    - "https://i.discogs.com/61dqbUliefepc4LYrIVnNI7EoKjMJVEBsa4zKRD4Vo4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg2/MzctMTQ0NTQ2OTg2/Mi00MDU5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock"]
 ---
@@ -31,20 +33,12 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cobras-and-fire-the-mastermind-redux/1183622896" >}}
-
-
-
-
-
 ## Videos
 ### Monster Magnet - Cobras And Fire (Hallucination Bomb)
 {{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}<br>
-
 ### More Videos
 
 - [MONSTER MAGNET - Watch Me Fade (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=TNIc7H-tkP4)
@@ -57,13 +51,15 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 - [The Titan](https://www.youtube.com/watch?v=g8XUUkXJqH4)
 - [Ball Of Confusion](https://www.youtube.com/watch?v=_ns1NlBWmGE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Monster Magnet - Cobras And Fire: The Mastermind Redux](https://www.discogs.com/release/7628637-Monster-Magnet-Cobras-And-Fire-The-Mastermind-Redux) |
-| Label          | Napalm Records |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow Vinyl) |
+| Label          | Napalm Records |
 | Catalog Number | NPR 629 LP |
 | Notes | 180 gram YELLOW VINYL edition with gatefold jacket.  Exclusively distributed in the USA by ADA.  Barcode for this limited edition is on a sticker which covers the original barcode printed on the sleeve (which is the barcode for the black vinyl version).    Featuring re-written and newly interpreted tracks of the [m=287598] album. |
+| Discogs URL    | [Monster Magnet - Cobras And Fire: The Mastermind Redux](https://www.discogs.com/release/7628637-Monster-Magnet-Cobras-And-Fire-The-Mastermind-Redux) |

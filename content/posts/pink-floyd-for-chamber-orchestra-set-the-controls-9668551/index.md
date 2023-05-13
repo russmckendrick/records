@@ -10,6 +10,8 @@ cover:
     image: "pink-floyd-for-chamber-orchestra-set-the-controls-9668551.jpg"
     alt: "Pink Floyd For Chamber Orchestra - Set The Controls by The Coda Chamber Ensemble"
     caption: "Pink Floyd For Chamber Orchestra - Set The Controls by The Coda Chamber Ensemble"
+additional_images:
+    - "https://i.discogs.com/IBmepM5O0TZ3xaFo61u9WYWYUWR-WcEj0D3S1xD_i_U/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njg1/NTEtMTQ4NDQ4MzIw/Ni01NDkxLmpwZWc.jpeg"
 genres: ["Classical"]
 styles: []
 ---
@@ -25,19 +27,18 @@ styles: []
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Coda Chamber Ensemble - Pink Floyd For Chamber Orchestra - Set The Controls](https://www.discogs.com/release/9668551-The-Coda-Chamber-Ensemble-Pink-Floyd-For-Chamber-Orchestra-Set-The-Controls) |
-| Label          | Coda Publishing |
 | Format         | Vinyl LP Limited Edition Unofficial Release (Gold) |
+| Label          | Coda Publishing |
 | Catalog Number | CPLVNYG224 |
 | Notes | Limited to 500 copies. |
+| Discogs URL    | [The Coda Chamber Ensemble - Pink Floyd For Chamber Orchestra - Set The Controls](https://www.discogs.com/release/9668551-The-Coda-Chamber-Ensemble-Pink-Floyd-For-Chamber-Orchestra-Set-The-Controls) |

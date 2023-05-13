@@ -10,6 +10,12 @@ cover:
     image: "phantom-birds-15930943.jpg"
     alt: "Phantom Birds by Matt Berry"
     caption: "Phantom Birds by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/Vz0beZ7SpJV-Qg-nEsOlaq56jzs3EsJnWTKFy81vMk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtNjgxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Ovia39oJ628sLTpDNSoBP5qSnfmDfe5crh3vFmsk2l0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtNzM2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/_B9AZ5vU4KvBTjL9F3EercJVxlYULm09CRbratyk02M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtNDE5My5qcGVn.jpeg"
+    - "https://i.discogs.com/HpjSkSPudmy_r-z-Mx3PIjtpySt9nQX9i-6rzsivZXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtOTAzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/pmMY0DlPlpttmW8UXIPI1YmI4cxWRvAgaKlZCxKlDYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtMzU4OC5qcGVn.jpeg"
 genres: ["Jazz", "Funk / Soul", "Blues"]
 styles: ["Psychedelic", "Easy Listening"]
 ---
@@ -34,20 +40,12 @@ styles: ["Psychedelic", "Easy Listening"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phantom-birds/1520178813" >}}
-
-
-
-
-
 ## Videos
 ### Something In My Eye
 {{< youtube id="fSEOOB3-gqQ" title="Something In My Eye" >}}<br>
-
 ### More Videos
 
 - [You Danced All Night](https://www.youtube.com/watch?v=QBuxse1m-t0)
@@ -63,13 +61,15 @@ styles: ["Psychedelic", "Easy Listening"]
 - [Waving Goodbye](https://www.youtube.com/watch?v=RztchZ6f3Oo)
 - [Covered In Clowns](https://www.youtube.com/watch?v=OZFsqfN49Dc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Matt Berry - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-Phantom-Birds) |
-| Label          | Acid Jazz |
 | Format         | Vinyl LP Album Limited Edition (Bone) |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP536B |
 | Notes | Limited edition, first release on bone coloured vinyl. Initial copies that were preodered had the option to be signed by Matt himself. |
+| Discogs URL    | [Matt Berry - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-Phantom-Birds) |

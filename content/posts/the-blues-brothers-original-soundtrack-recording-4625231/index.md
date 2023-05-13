@@ -11,6 +11,11 @@ cover:
     image: "the-blues-brothers-original-soundtrack-recording-4625231.jpg"
     alt: "The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers"
     caption: "The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers"
+additional_images:
+    - "https://i.discogs.com/uBNHQkjuooqDfjxZr2s4OmXqsoXT1TLEC329kKia9Fs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUy/MzEtMTU0NDM1MzMy/Mi04MjIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/yFCvKiZUlYs4Zrp3zFXmdDDoPs9e52n_BDg4LTmxC40/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUy/MzEtMTU0NDM1MzMy/My03OTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/RpXSQmpXKkGeS5MJAfew7uilXyA2CMLKVVbEl21-HVA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUy/MzEtMTU0NDM1MzMy/Mi04MzkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/5oiQwGtv5R12DtfRKtC03hMsx1MV7HWID9dxRfQDPNY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUy/MzEtMTU0NDM1MzMy/My05Mjg0LmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 ---
@@ -33,22 +38,13 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 
 <!-- section break -->
 
-
 The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy. 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443" >}}
-
-
-
-
-
 ## Videos
 ### The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072
 {{< youtube id="SSo3LizTu_I" title="The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072" >}}<br>
-
 ### More Videos
 
 - [The Blues Brothers - She Caught the Katy (Official Audio)](https://www.youtube.com/watch?v=o5xexv-dMrM)
@@ -63,13 +59,16 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 - [The Blues Brothers - Sweet Home Chicago (Official Audio)](https://www.youtube.com/watch?v=euJ22UqLD5Y)
 - [The Blues Brothers - Jailhouse Rock (Official Audio)](https://www.youtube.com/watch?v=TosN2G1mmTs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy.  |
 | Release Year   | 1980                                   |
-| Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/4625231-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |
-| Label          | Atlantic |
 | Format         | Vinyl LP Album |
+| Label          | Atlantic |
 | Catalog Number | K 50715 |
 | Notes | A Phantom/Black Rhino Production.  Original recording: Universal Recording, Chicago. Additional recording: Record Plant, Los Angeles Record Plant, New York City Soundmixers, New York City  Mixed at Record Plant, NYC Mastered at The Master Cutting Room.  ℗©1980 Atlantic Recording Corporation. Printed and made in England   |
+| Discogs URL    | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/4625231-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |

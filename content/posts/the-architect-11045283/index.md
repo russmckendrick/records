@@ -10,6 +10,9 @@ cover:
     image: "the-architect-11045283.jpg"
     alt: "The Architect by Jane Weaver"
     caption: "The Architect by Jane Weaver"
+additional_images:
+    - "https://i.discogs.com/xhH5tiQWUDfjg0mKz49o2PS8dXolIhi4BxjCy9GMdkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ1/MjgzLTE1MDkzNjA0/NTctODE3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/jjIN7y8VM9hnLcum2MsCf1Kmeegs5g45xI8mTFM8A4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ1/MjgzLTE1MDkzNjA0/NTgtOTcyMC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Indie Pop", "Synth-pop"]
 ---
@@ -25,28 +28,23 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-architect-ep/1667322669" >}}
-
-
-
-
-
 ## Videos
 ### Jane Weaver - The Architect
 {{< youtube id="keXHh0lr2y8" title="Jane Weaver - The Architect" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Jane Weaver - The Architect](https://www.discogs.com/release/11045283-Jane-Weaver-The-Architect) |
-| Label          | Fire Records |
 | Format         | Vinyl 12" 45 RPM EP |
+| Label          | Fire Records |
 | Catalog Number | FIRE485EP |
 | Notes | Includes a postcard with a download code. |
+| Discogs URL    | [Jane Weaver - The Architect](https://www.discogs.com/release/11045283-Jane-Weaver-The-Architect) |

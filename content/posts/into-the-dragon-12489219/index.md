@@ -10,6 +10,14 @@ cover:
     image: "into-the-dragon-12489219.jpg"
     alt: "Into The Dragon by Bomb The Bass"
     caption: "Into The Dragon by Bomb The Bass"
+additional_images:
+    - "https://i.discogs.com/-Y_UzZXnJtx7dSyI63NUCoida1ofOC83AU3d-2UzkXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTgtODE3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/CryqJvoKOkIIHTT9v2pdw0KnXRPRTzLjm715Rv4LAbk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktMTYzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/nVdfBbRysLtatTS0XYN-0DleE942-ERJjNZRaJyJGWc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktMjA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/08M31I85OPjDDpp7-ud2OA7FxATXEOeIEkj0RfYl-9g/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktODQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/VpXaWeFCNkO8SGfwKmq7M3p8HwspfBe84E06ZRSaImY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktNjI1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/P6YgOYWwvC-vdTHRFwI3sDnwDTHRO0xyOBmbGq9cmwo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktOTA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/nJlg9c1G9-osz8TF1uwuV3jJmKqvajakddK4VV70lJo/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTgtNTcwMy5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Hip-House", "Acid House", "Freestyle"]
 ---
@@ -33,20 +41,13 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 
 <!-- section break -->
 
-
-
-
+Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm King Records in 1988. It peaked at number 18 on the UK Albums Chart. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say A Little Prayer" featuring Maureen Walsh.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/into-the-dragon/400362376" >}}
-
-
-
-
-
 ## Videos
 ### Bomb The Bass - Don't Make Me Wait (Video)
 {{< youtube id="b_42p66WeM0" title="Bomb The Bass - Don't Make Me Wait (Video)" >}}<br>
-
 ### More Videos
 
 - [Bomb The Bass - Beat Dis (Video)](https://www.youtube.com/watch?v=W6CJmJ5p3Ow)
@@ -61,13 +62,17 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 - [BOMB THE BASS featuring AURRA - Hey You!](https://www.youtube.com/watch?v=alQBkH08BDU)
 - [BOMB THE BASS - Beat Dat [Freestyle Scratch Mix].](https://www.youtube.com/watch?v=vbMj6sfuIK8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Into_the_Dragon |
+| Wikipedia Summary | Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm King Records in 1988. It peaked at number 18 on the UK Albums Chart. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say A Little Prayer" featuring Maureen Walsh. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219-Bomb-The-Bass-Into-The-Dragon) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP2172 |
 | Notes | 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU. |
+| Discogs URL    | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219-Bomb-The-Bass-Into-The-Dragon) |

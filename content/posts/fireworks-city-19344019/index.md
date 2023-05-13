@@ -10,6 +10,11 @@ cover:
     image: "fireworks-city-19344019.jpg"
     alt: "Fireworks City by Audioweb"
     caption: "Fireworks City by Audioweb"
+additional_images:
+    - "https://i.discogs.com/Q3lwbrshLbAeaB_H1zDrQS9NEU3U6Am-oiGsRF5x5X0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ0/MDE5LTE2MjUxNjUw/ODItNzUwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/jGDTXOaI8VZX8Hmka3q3N_sHTMgTBatRBkEAjeIzIxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ0/MDE5LTE2MjUxNjUw/ODMtODc5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/POMT9MWvSOIDB8EZNepUVVOP7tlQ4UJe2ZYByfTXHjM/rs:fit/g:sm/q:90/h:220/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ0/MDE5LTE2MjUxNjUw/NzUtMTYwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/m7GFEuDGa5_8gLxoPVdK2KOP6Cm2-Z8-SU9G84O9dJ8/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ0/MDE5LTE2MjUxNjUw/NzYtNDkwNi5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Reggae"]
 styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ---
@@ -32,20 +37,12 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fireworks-city/1469551559" >}}
-
-
-
-
-
 ## Videos
 ### Policeman Skank - Audioweb
 {{< youtube id="5fXzgRQ5eX4" title="Policeman Skank - Audioweb" >}}<br>
-
 ### More Videos
 
 - [Test The Theory - Audioweb](https://www.youtube.com/watch?v=yqj8P274Qao)
@@ -59,13 +56,15 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 - [Out of My Mind - Audioweb](https://www.youtube.com/watch?v=6eEhJyDRS9Y)
 - [Get out of Here - Audioweb](https://www.youtube.com/watch?v=3IuYviB0GV8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Audioweb - Fireworks City](https://www.discogs.com/release/19344019-Audioweb-Fireworks-City) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Red, 180g) |
+| Label          | Demon Records |
 | Catalog Number | DEMREC918 |
 | Notes | "On vinyl for the first time" |
+| Discogs URL    | [Audioweb - Fireworks City](https://www.discogs.com/release/19344019-Audioweb-Fireworks-City) |

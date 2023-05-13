@@ -10,6 +10,13 @@ cover:
     image: "who-s-next-6957505.jpg"
     alt: "Who's Next by The Who"
     caption: "Who's Next by The Who"
+additional_images:
+    - "https://i.discogs.com/txTd9QJ8_2vgnGTABeTW4bZ13aQTbGNIQGHVadloAk4/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTc1/MDUtMTQ4NjgxNzAw/Mi0zNzYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/BFOHevRpFFB1jkcdbywkCM4szTPAlrumSof35AsJaCI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTc1/MDUtMTQ4NjgxNzAw/NC00MzcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/wEhwm4OrdUmsj4V-qYl_RtjJmhtBOa2ASkUttBmmzxE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTc1/MDUtMTQ4NjgxNjk5/My05MjM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/AvFk5qUfJFoyplTpL6i-rMj5wLY4CWcKyeuDlKK13Qg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTc1/MDUtMTQ4NjgxNzAw/NC02NDAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/gnDNVgVcTgMmU4C_ngRRmZDF758DSwFpUBfg-q0ZIt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTc1/MDUtMTQ4NjgxNzAw/Mi0xOTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/pLCBlurW44gxBjZ5Pf5zQLUl2Pcojj5NeHgkGmlQ-Bo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTc1/MDUtMTQ4NjgxNzAw/My01MDg1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Mod"]
 ---
@@ -30,23 +37,20 @@ styles: ["Hard Rock", "Mod"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whos-next-deluxe-edition/1440850317" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [The Who - Who's Next](https://www.discogs.com/release/6957505-The-Who-Whos-Next) |
-| Label          | Polydor |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
+| Label          | Polydor |
 | Catalog Number | 3715614 |
 | Notes | ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.  Made in the EU. |
+| Discogs URL    | [The Who - Who's Next](https://www.discogs.com/release/6957505-The-Who-Whos-Next) |

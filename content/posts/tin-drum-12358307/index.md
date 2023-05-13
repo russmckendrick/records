@@ -10,6 +10,14 @@ cover:
     image: "tin-drum-12358307.jpg"
     alt: "Tin Drum by Japan"
     caption: "Tin Drum by Japan"
+additional_images:
+    - "https://i.discogs.com/QAgaL4PsTSEaTuB4x2nfmvqlNJZx5kPYBVCe4FtGI5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1MzM2Mzc3/MjUtMTg4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/PKlnHS6JIvUXew4JZPRC9G8eIh7RuYHMF02aRjI6JU4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NjEtNDI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_z1NteQl0FnN3R418JyqZYlo9ROi0CtP-EwMzTKGzfc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1MzUxMzU3/MjgtODc3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/IH-qn3weqZdggGXA-ZcC0QGNE4rnOrCpndrIAi_7NxA/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NTgtNjAwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/EsRoMV2JJq6CIsJz8oSustJUzmF82cJL3_qkOJFhtl0/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NTgtMzI4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Hdj0HT2Khkaq-KWSwKl3hIB7UZ18jEWUcsyjzRNkAFI/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYy/NDUtNzU2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/I9Dbh-tONxgriKYuY5agvplIADuFDObptKZO_Cf653k/rs:fit/g:sm/q:90/h:830/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NzA5Nzg5/NzctODExNC5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
@@ -29,20 +37,13 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tin-drum-2003-remaster/714661649" >}}
-
-
-
-
-
 ## Videos
 ### The Art of Parties (2003 - Remaster)
 {{< youtube id="aEuB_rfuM7Q" title="The Art of Parties (2003 - Remaster)" >}}<br>
-
 ### More Videos
 
 - [Visions Of China (2003 Digital Remaster)](https://www.youtube.com/watch?v=1__fxehH3jo)
@@ -57,13 +58,17 @@ styles: ["New Wave", "Synth-pop"]
 - [Japan – Visions Of China](https://www.youtube.com/watch?v=wnlSy2I0gfc)
 - [Japan – The Art Of Parties](https://www.youtube.com/watch?v=hRgDEhqFXAc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Tin_Drum_(album) |
+| Wikipedia Summary | Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Japan - Tin Drum](https://www.discogs.com/release/12358307-Japan-Tin-Drum) |
-| Label          | Virgin |
 | Format         | Vinyl 2× 12" 45 RPM Album Limited Edition Reissue (Gatefold Sleeve) |
+| Label          | Virgin |
 | Catalog Number | 671 041-7 |
 | Notes | ℗ 1981 Virgin Records Ltd.  © 2018 Virgin Records Ltd. Made in the EU  Project Co-ordination For Universal at Hey Joe!  Mastered by Miles Showell at Abbey Road, each record was cut using a half-speed mastering technique; a specialist artisan process, which results in cuts that have a superior high frequency (treble) response and solid and stable stereo images. In short, this produces a very high-quality master, which in turn helps to create a very high-quality record.  Additionally, each album is being released as a double 45 RPM half-speed mastered edition, the ultimate high-quality reproduction as the faster the replay speed of the record, the higher the potential quality. The shorter side times also allow the level recorded to the master lacquer discs to be increased, thereby improving the signal to noise ratio.  Half Speed Mastering Certificate |
+| Discogs URL    | [Japan - Tin Drum](https://www.discogs.com/release/12358307-Japan-Tin-Drum) |

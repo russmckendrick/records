@@ -11,6 +11,23 @@ cover:
     image: "out-of-time-9375101.jpg"
     alt: "Out Of Time by R.E.M."
     caption: "Out Of Time by R.E.M."
+additional_images:
+    - "https://i.discogs.com/hVcvtaq6k0CLNU5jNOK5edjfzIc7Pjt74is0y7PVVeo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/Ny01MDEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/qRYJnfIiPmaizee5V1QJIDKUejGS2q7twx5zmqNSJFw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/NS03ODcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/-acBabshwMPJYHw0-KYCLXTShr_JTD9I5b3M1KKuoBw/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/OC02MTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/UZRMM6kviOeh6FCYMFWJt4NgNEyTbXQ-P9DuFyZQOSI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/MC05NjcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/DrMnZSZwmEwA1pfz87OQd_QzWiWehARGLSvTTkTEXyc/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/NS04NDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Px_CyHlBo4MltahMlNgg5ZI4VNbBMuOfrrlINXOtgTA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjA5/Ni04NzYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/wunsPnnwDV31SyK3dDJ6eZyGf39YwBrg01Z9v2HMdNU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjE3/NC05MDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/lFe-RlHLBKNmgytK9As3YT9k_oBQrcmLFY29GPMX7Pg/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjE4/MS0yMjkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/pnz_unqSsAA91yiDC86Of1dB2Ab4y7wYWBUd6Wq_9zQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjE4/MS05MzUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/2aF236eRpxpVU2N5BLWOd_ppc8ar13ZLzQDqyaqsGvg/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTU4NTIzMDA0/OC0zNjcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/moodoP-45PXhzpGowNOyOrU0fz7K9mWCKiWqyMnIV0A/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTU4NTIzMDA0/OS01Njg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/iwHbzb8sFvYtCIoao7IpTN8lX_xz3FdlfLxa53MJoX4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTU4NTIzMDA0/NC02ODAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/UgwQM-J2pQ1DuY-zZtf2ktlnnQvrO0hqJGd2YYFGiVI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTU4NTIzMDA1/MC02Njg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/VULF_JmpodjA5rgmi-8F2znh6i5hhJuuisWPMCdf0xM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTU4NTIzMDA0/OC0xNjQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/rHPWBEiISqKA4vHyEYJ5uckQ2Tz3HLMLXSqwSi3-dlc/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTU4NTIzMDA1/MC00NzQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/DMQgSplvWWmzxi_6dBh7h1Wt_ZwZqsOoAJOsLsZ5-Kk/rs:fit/g:sm/q:90/h:784/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjE3/NS0xNTcyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -55,7 +72,6 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-
 R.E.M. really had no idea that 1991’s <i>Out of Time</i>—or its unlikely breakthrough single “Losing My Religion”—would change their lives like it did. “Unless you're Max Martin or you're making a Kylie Minogue record, you can't know what it's going to do,” bassist Mike Mills tells Apple Music, 30 years later. “‘Losing My Religion’ is a five-minute song with no discernible chorus and the mandolin is the lead instrument. There is absolutely no way to ever predict that that would be a hit. You can’t know—so you just throw it out there.”<br />
 For much of the ’80s, the Athens, Georgia, art-rock outfit had enjoyed incremental success on their own terms, evolving from indie heroes to major-label signees with 1988’s <i>Green</i>, an album whose gruelling, year-long tour had left them so exhausted they insisted on a long break from the road—a move that many considered career suicide. It’s a decision that would have a major impact on every note of <i>Out of Time</i>. “I think we felt a freedom to experiment and to push ourselves in different directions, to not have to worry about how this or that song would perform onstage,” Michael Stipe tells Apple Music. “We were taking all kinds of risks.”<br />
 You can hear and feel that freedom start to finish, from the skittering funk of “Radio Song” (featuring a cameo from rapper KRS-One of Boogie Down Productions) to the childish delirium of “Shiny Happy People” (which included vocals from The B-52’s Kate Pierson, a fellow Athenian) to the cloud-parting harmonies of “Belong” and charred Americana of “Country Feedback”. At the centre was “Losing My Religion”, a song that found R.E.M. embracing strings and guitarist Peter Buck writing on mandolin, which he was still teaching himself how to play at the time. It quickly became their highest-charting single to date, a global smash that won two Grammys and helped <i>Out of Time</i> sell over 18 million copies. Released just months before Nirvana’s <i>Nevermind</i>, it was the first marker in an alt-rock revolution about to unfold—one R.E.M. had inspired if not engineered. “Record companies want to cover their ass,” Mills says. “They do everything by formula, because that's what's been proven to work. It was great to confound expectations, to be subversive. You could show people that there wasn’t just one way to be successful.” Here, Mills and Stipe take us inside some of the album’s key tracks.<br />
@@ -72,23 +88,22 @@ MS: “That song is pretty overtly political songs, referencing the times that w
 MS: “I feel like in terms of direct poppy pop songs, [1988’s] ‘Stand’ is much more direct in its messaging. But ‘Shiny Happy People’ is in the same arena—like a fruity pop song for kids. The band had presented me with this really dumb piece of music, and I was like, ‘I’m going to one-up you on this. You're giving me that to write to, check this out.’ And we never looked back.”<br />
 <b>Country Feedback</b>
 MS: “I remember it came out all at once. I sang it—I believe I sang it one time, I might’ve sung it twice—and then I stormed out. It was such an emotional experience. I mean, it would be a love song at the very end of a long love affair that has just collapsed into nothing—just gone, there's nothing left. At that point I was trying to challenge myself, trying to push myself to write love songs. 'Country Feedback' was really one of the darkest things I think I'd ever sung.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-of-time-2016-remaster/1440945025" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
-| Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |
-| Label          | Concord Bicycle Music |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Time_(album) |
+| Wikipedia Summary | Out of Time is the seventh studio album by American alternative rock band R.E.M., released on March 12, 1991, by Warner Bros. Records. With Out of Time, R.E.M.'s status grew from that of a cult band to a massive international act. The record topped the album sales charts in both the United States and the United Kingdom, spending 109 weeks on U.S. album charts and enjoying two separate spells at the summit, and spending 183 weeks on the British charts and a single week at the top. The album has sold more than four and a half million copies in the United States and more than 18 million copies worldwide. The album won three Grammy Awards in 1992: one as Best Alternative Music Album, and two for the first single, "Losing My Religion." |
+    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP (Demos), All Media Limited Edition Remastered (25th Anniversary Edition, 180 Gram) |
+| Label          | Concord Bicycle Music |
 | Catalog Number | 0888072010246 |
 | Notes | 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands. |
+| Discogs URL    | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |

@@ -1,6 +1,7 @@
 ---
 title: "John Martyn"
-summary: "Born: 11 September 1948 in New Malden, Surrey, England. Died: 29 January 2009 in Ireland, aged 60. John Martyn OBE was a British singer-songwriter and guitarist. Known for his acoustic guitar playing starting out in the folk clubs in the UK, but then moving beyond and into other more mainstream areas also. In February 1973, Martyn released the album Solid Air, the title song a tribute to the singer-songwriter"
+summary: "Iain David McGeachy , known professionally as John Martyn, was a Scottish singer-songwriter and guitarist. Over a 40-year career, he released 23 studio albums, and received frequent critical acclaim. The Times described him as \"an electrifying guitarist and singer whose music blurred the boundaries between folk, jazz, rock and blues\".Martyn began his career at age 17 as a key member of the Scottish folk music scene, drawing inspiration from American blues and English traditional music, and signed with Island Records. By the 1970s he had begun incorporating jazz and rock into his sound on albums such as Solid Air and One World , as well as experimenting with guitar effects and tape delay machines such as Echoplex. He struggled with substance abuse and domestic problems throughout the 1970s and 1980s, though he continued to release albums while collaborating with figures such as Phil Collins and Lee \"Scratch\" Perry. He remained active until his death in 2009."
 image: "john-martyn.jpg"
 apple_music_artist_url: "None"
+wikipedia_url: "https://en.wikipedia.org/wiki/John_Martyn"
 ---

@@ -10,6 +10,8 @@ cover:
     image: "the-first-of-too-many-25211626.jpg"
     alt: "The First Of Too Many  by Senseless Things"
     caption: "The First Of Too Many  by Senseless Things"
+additional_images:
+    - "https://i.discogs.com/qwWSxcTaQVPQdZB8HmBH_hhJLEPe63LsNfHe_WFizOg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEx/NjI2LTE2Njg5OTkx/ODMtNzg0Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 ---
@@ -53,32 +55,26 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}
-
-
-
-
-
 ## Videos
 ### Senseless Things - Everybody's Gone
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}<br>
-
 ### More Videos
 
 - [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
 - [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Senseless Things - The First Of Too Many ](https://www.discogs.com/release/25211626-Senseless-Things-The-First-Of-Too-Many-) |
-| Label          | Cherry Red |
 | Format         | Vinyl 2× LP Album Reissue |
+| Label          | Cherry Red |
 | Catalog Number | bredd867 |
 | Notes | Double LP release. Black vinyl contains original mix, red vinyl contains 30th anniversary mix. |
+| Discogs URL    | [Senseless Things - The First Of Too Many ](https://www.discogs.com/release/25211626-Senseless-Things-The-First-Of-Too-Many-) |

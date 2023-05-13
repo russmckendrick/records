@@ -10,6 +10,11 @@ cover:
     image: "the-best-of-suede-beautiful-ones-1992-2018-16032926.jpg"
     alt: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
     caption: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
+additional_images:
+    - "https://i.discogs.com/o0jYB2fEOf1oyNQM9g6f6qknTGG3QiDqUga86J5_P2w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA0/NDktOTU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/mRPaVrCpoSebnKXomw6UczqYJI0JUeqF-l7wsXo4nR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA0/NTAtOTM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/CGsXS_rnaxOjbAScQo5RpBvEWsOdTvcGmlDPOHujy0M/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA4/MzItNjkwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/XmkJtha7kOwW9ysczrOdLYyRsy9M8VxFKWkWkMK0Q18/rs:fit/g:sm/q:90/h:1299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDI3NDAy/NTAtNzkwNC5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
@@ -77,23 +82,20 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018-deluxe/1528561849" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16032926-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |
-| Label          | Demon Records |
 | Format         | Box Set Compilation, Vinyl 6× LP (White, 180 Gram) |
+| Label          | Demon Records |
 | Catalog Number | SUEDEBOX012 |
 | Notes | Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl. Inner sleeves showcase fans memorabilia  750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk] |
+| Discogs URL    | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16032926-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |

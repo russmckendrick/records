@@ -10,6 +10,20 @@ cover:
     image: "the-greatest-hits-14199596.jpg"
     alt: "The Greatest Hits by Thunder"
     caption: "The Greatest Hits by Thunder"
+additional_images:
+    - "https://i.discogs.com/zA6KnpPpUrHp1BguWll_VXEG3XveHiPxCSzN-h7N97I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/ODItMTg1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/5d4COSi5jT7TrSb4MdQd8eTZoYxanC8rfKCoH-DstX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/NzUtMjc2My5qcGVn.jpeg"
+    - "https://i.discogs.com/PZI_bCrHeeUukcmfIe-4gVofBoWr9G0O3RQ_fFZ5cnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/NjItNTAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/tv1tEBc1KyEagUoU3IESOZGXJRiIvz4P5sxGFr3i-M8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDQw/MDAtNDM4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/6qbfjPAD0mQ1Kj1dTgNIFu0uKNA5yf67kTjuX8Xzq74/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/ODgtMTIyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/UmgOiJ2nthz69KsG5Evxw7L92MFw6tN0yexS_TjW1xk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/ODgtMjk4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/DI8gY7xRthwkU9vo809JVY9mrPfzZ62v2Od55j5ZZ7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/OTUtNTE3My5qcGVn.jpeg"
+    - "https://i.discogs.com/i5Z9--MUoGFDvloooZoVSwFulvhScW7ghZg_1o8RnlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDQw/MzAtNzcyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZKhFoyLLkb4jdy6jzh8zeWlTbV5W0Om0HPNbc7Om4c4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDQw/MzAtMTY5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/oderR2xt6DgsmN137nXZylN1bESbZbucpFpi4sAhRXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDQw/MDItMTQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Uqyj-7ZbTlePKY3_KlEvrNPT6qta221TcZ7NjV_NfVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/OTAtMjAwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/7EMAK_zlwAtbOIoupYkBC9PY3g2oqyzwaAG7VOVBjdw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDQw/MTUtNzY2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/GuDdQuBfWEQnEaIcJUGGxNpVHOqcUseO23AVwIynqeg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDQw/MTgtODM5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -49,31 +63,25 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/la-thunder-covers-the-greatest-hits-of-led-zeppelin-box-set/991469744" >}}
-
-
-
-
-
 ## Videos
 ### Thunder – She’s So Fine (Official Video)
 {{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Thunder - Everybody Wants Her (Official Video)](https://www.youtube.com/watch?v=rrISpBSWN30)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |
-| Label          | BMG |
 | Format         | Vinyl 3× LP Compilation Limited Edition Stereo |
+| Label          | BMG |
 | Catalog Number | BMGCAT386TLP |
 | Notes | ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music. |
+| Discogs URL    | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |

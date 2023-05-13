@@ -11,6 +11,19 @@ cover:
     image: "the-story-of-sonny-boy-slim-7463093.jpg"
     alt: "The Story Of Sonny Boy Slim by Gary Clark Jr."
     caption: "The Story Of Sonny Boy Slim by Gary Clark Jr."
+additional_images:
+    - "https://i.discogs.com/-H3um0nX2f0iW-MWJuFosakJCPbzjW6baPJfM6pa9iU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/MS0yOTU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/-Pb8GmXG51ZKp1cEj2lF1jRP094H9Foa-NKs7XizYxw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/NC0xODY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Q2WxMiKuvjw8hDYp4Gcaxlc4SMA8YVJeseGyh_uMkAY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/NS0zNTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Bw4Jgnn4BYaR3jzJKBoumBWit37xapo-3Qj5hWmxRfI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/MS02ODIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/KnxdxX8NzKQr1AYQkEVOwxdNFDgnVdWf2dHjqrQNBsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OC00MTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/i0ZGEMIuuZ1B_13kVWxVNOH7xFkjs_gV5C8duipSQP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OS02Nzk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Qm-sFg_ou3wfv0jMQhoyfsV-P13kkuHAbT9XDiVxsGY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OS01NTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/A4IDjzPsky7MDN_IaI6wLyGFobXn8nzYwaEm_BFR1XA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OC0xMTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/K3vXllqChIr6z932CWrqWR0yHNcvkunb7mEM23P1I5M/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/Mi00NzAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/sS1pdw6oeY5DfCeEt924jsMUJHqvStQDzP7WWOywxTU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OS05NjA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/9iGyEf9Ytkdna6mZEJxX_Go6moVTTVz62Pv-M__N05Y/rs:fit/g:sm/q:90/h:174/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OC0zOTQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/EpKpoeuLBDNL3CvbhPIC8Htx84K7mnXb2EbLyq3_ujM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/My00NjE2LmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
@@ -35,22 +48,17 @@ styles: ["Rhythm & Blues"]
 
 <!-- section break -->
 
+The Story of Sonny Boy Slim is the second studio album by American blues rock musician Gary Clark Jr., released on September 11, 2015, through Warner Bros. Records. The album features 13 originals tracks and showcases many of Clark's signature moves. Clark blends his usual styles of blues, rock and soul music, with occasional touches of hip hop and R&B, to create his signature sound.
+The album's title was created by blending his two childhood nicknames. Sonny Boy was the nickname his mother gave him, Slim was given to him on the Austin Texas blues scene and referred to his tall and thin physical build.
+It reached number one on the Billboard Top Blues Albums chart in October that year.
 
-There's no question that Texas-based singer/guitarist Gary Clark Jr. can shred with the best of them. But on his second major-label full-length, it's his restraint that's his trump card. He gently dabs the minimalist blues-rocker "The Healing" with little more than a B.B. King-style riff and a poker-hot vocal, keeping the song gorgeously unfussy. Just as expressive is the stomping "Grinder", which features a literally screaming guitar lick that mimics the line it follows: "My baby's crying/So now my baby's crying”.
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426" >}}
-
-
-
-
-
 ## Videos
 ### Gary Clark Jr. - Wings
 {{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr. - Wings" >}}<br>
-
 ### More Videos
 
 - [Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)](https://www.youtube.com/watch?v=M6R0I7mGsUc)
@@ -59,13 +67,17 @@ There's no question that Texas-based singer/guitarist Gary Clark Jr. can shred w
 - [Gary Clark Jr. - Grinder (Official Music Video)](https://www.youtube.com/watch?v=5ffEpbvAcG4)
 - [Gary Clark Jr. - Cold Blooded](https://www.youtube.com/watch?v=QFajvN0IFyo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |
-| Label          | Warner Bros. Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Story_of_Sonny_Boy_Slim |
+| Apple Music Summary | There's no question that Texas-based singer/guitarist Gary Clark Jr. can shred with the best of them. But on his second major-label full-length, it's his restraint that's his trump card. He gently dabs the minimalist blues-rocker "The Healing" with little more than a B.B. King-style riff and a poker-hot vocal, keeping the song gorgeously unfussy. Just as expressive is the stomping "Grinder", which features a literally screaming guitar lick that mimics the line it follows: "My baby's crying/So now my baby's crying”. |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album, Vinyl LP Single Sided Album Etched |
+| Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |
 | Notes | © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits. |
+| Discogs URL    | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |

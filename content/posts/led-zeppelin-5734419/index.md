@@ -11,6 +11,12 @@ cover:
     image: "led-zeppelin-5734419.jpg"
     alt: "Led Zeppelin by Led Zeppelin"
     caption: "Led Zeppelin by Led Zeppelin"
+additional_images:
+    - "https://i.discogs.com/Of8HCWVr61BW_PZHMQK6A95VpQ-gqM3skESX5GlTYWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwOTIxMjIy/MS0yODM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2qItq3fFxIFR0mhFmmQlwZ0aUUB9JYEgPGRefAs5WL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwOTIxMjIy/MS00OTE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/FRJm3wDjRG42lXn2iHdcIwmhR8wDD-EF1LANMWMyeMc/rs:fit/g:sm/q:90/h:574/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwMTQzOTE0/NS0zNzQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/2IgyDstBeqnY2Y1rqTawFvOgtfFkZ568hdTB5tFJnf4/rs:fit/g:sm/q:90/h:583/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwMTQzOTE0/OC00Nzg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/TCpZdrm0Ps3fYr2SsreJ-tSdZRm8NQ_VFP7ysLU8ur4/rs:fit/g:sm/q:90/h:350/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwOTI5MzYx/MC01NTYyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
@@ -31,36 +37,31 @@ styles: ["Blues Rock", "Hard Rock"]
 
 <!-- section break -->
 
-
-Years after <i>Led Zeppelin IV</i> became one of the most famous albums in the history of rock music, Robert Plant was driving toward the Oregon Coast when the radio caught his ear. The music was fantastic: old, spectral doo-wop—nothing he’d ever heard before. When the DJ came back on, he started plugging the station’s seasonal fundraiser. Support local radio, he said—we promise we’ll never play “Stairway to Heaven”. Plant pulled over and called in with a sizable donation. It wasn’t that he didn’t like the song, he said later. He’d just heard it plenty before.<br /> 
-It hangs together well enough as an album. But the real beauty of <i>IV</i> is as a collection of seeds, each sprouting in a different direction: gentle folk (“Going to California”) and nasty blues (“Black Dog”), the epic (“Stairway to Heaven”) and the concise (“Rock and Roll”). That fans have fought for years over the album’s perfect moment (it’s “When the Levee Breaks”) is a testament not only to the passion the band inspires, but also to how perfectly they capture their own internal yins and yangs. An entire ecosystem of music could be built on the songs here. And it was.<br />
-Overstated? Yes—there are times when <i>IV</i> seems to exist to ask why you would overdub one guitar when you could overdub four. But if the flowery stuff doesn’t work for you (“The Battle of Evermore”), the dirty stuff (“Misty Mountain Hop”) probably will, and if you prefer your symphonies to stay in the concert hall, the band still sweats, pounds and moans enough to scandalise company at levels polite and otherwise. The irony of <i>IV</i> is that it opened a new world for hard rock by embracing the colour and variety of its natural enemy: pop.
-
-
-
+The discography of the English rock band Led Zeppelin consists of eight studio albums, four live albums, nine compilation albums, 16 singles, 16 music videos and eight music downloads. The band is estimated to have sold over 300 million records worldwide, becoming one of the best-selling music artists in history. According to Billboard, they are the 40th Greatest Artist of All Time, as well as the 11th Most Successful Artist on Billboard 200 history. The band has scored 7 number-one albums on Billboard 200 and has sold 112.5 million certified albums in the United States, becoming the 5th best-selling album artist in RIAA history.Formed in London in 1968, the group consisted of singer Robert Plant, guitarist Jimmy Page, bassist John Paul Jones, and drummer John Bonham. The band pioneered the concept of album-oriented rock and often refused to release popular songs as singles. Their debut album, Led Zeppelin (1969), released by Atlantic Records, charted at number six on the UK Albums Chart and at number ten on the United States Billboard 200. It received several sales certifications, including an eight-times multi-platinum from the Recording Industry Association of America (RIAA) and Diamond from the Music Canada. Led Zeppelin's second studio album, Led Zeppelin II, recorded when the band were on tour, was released a few months after the first. It reached number one in several countries, including the UK and the US, where it was certified 12 times multi-platinum. The album produced Led Zeppelin's highest-charting single, "Whole Lotta Love", which peaked at several music charts in the top 10. Led Zeppelin III (1970) was a softer, more folk-based effort compared to the hard rock of the band's previous releases. It also peaked at number one in the UK and in the US.
+Led Zeppelin's untitled fourth album, often called Led Zeppelin IV and released on 8 November 1971, is their most commercially successful album. It received a 24 times multi-platinum certification from RIAA, the fifth-highest of all albums, and fourth-highest exclusive of greatest hits compilations. The band's fifth album, Houses of the Holy, was released in 1973. Again a transatlantic chart-topper, it has received an 11 times multi-platinum certification from RIAA. In 1974, the band set up their own vanity label, Swan Song Records, which would release the rest of Led Zeppelin's studio albums. The first was the 1975 double album Physical Graffiti, which has received a 16 times platinum certification from RIAA. Zeppelin's seventh album, Presence (1976), achieved a triple Platinum certification from RIAA. On 20 October 1976, Led Zeppelin released their first concert film The Song Remains the Same. The recording of the film took place during three nights of concerts at Madison Square Garden in New York City, during the band's 1973 concert tour of the United States. The band's eighth album, In Through the Out Door, received a sextuple platinum certification. This was the last album released by the band before Bonham died of alcohol intoxication in 1980; Led Zeppelin disbanded less than three months later.In 1982 Led Zeppelin released the album Coda, a compilation of outtakes from the band's previous recordings. Since their break-up, the band have released numerous compilation and live albums from older concerts, including How the West Was Won, which peaked at number one on the Billboard charts, and the compilation album Mothership, which produced seven music downloads and was released on the same day Led Zeppelin's entire catalog became available in digital stores, including in the iTunes Store. "Stairway to Heaven", which had never been released as an official single before, was one of these songs released in digital stores.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-iv-remastered/580708175" >}}
-
-
-
-
-
 ## Videos
 ### Led Zeppelin - Led Zeppelin I (1969) (Full Album)
 {{< youtube id="G1rJohGD9LA" title="Led Zeppelin - Led Zeppelin I (1969) (Full Album)" >}}<br>
-
 ### More Videos
 
+- [Led Zeppelin - Babe I'm Gonna Leave You (I) (2014 European Vinyl)](https://www.youtube.com/watch?v=ln7LD5EnW68)
 - [Babe, I'm Gonna Leave You - Led Zeppelin HQ (with lyrics)](https://www.youtube.com/watch?v=v0IJPytL-bk)
 - [Good Times Bad Times (Remaster)](https://www.youtube.com/watch?v=lsZG7n7ries)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [Led Zeppelin - Led Zeppelin](https://www.discogs.com/release/5734419-Led-Zeppelin-Led-Zeppelin) |
-| Label          | Atlantic |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Led_Zeppelin_discography |
+| Apple Music Summary | Years after <i>Led Zeppelin IV</i> became one of the most famous albums in the history of rock music, Robert Plant was driving toward the Oregon Coast when the radio caught his ear. The music was fantastic: old, spectral doo-wop—nothing he’d ever heard before. When the DJ came back on, he started plugging the station’s seasonal fundraiser. Support local radio, he said—we promise we’ll never play “Stairway to Heaven”. Plant pulled over and called in with a sizable donation. It wasn’t that he didn’t like the song, he said later. He’d just heard it plenty before.<br /> <br>It hangs together well enough as an album. But the real beauty of <i>IV</i> is as a collection of seeds, each sprouting in a different direction: gentle folk (“Going to California”) and nasty blues (“Black Dog”), the epic (“Stairway to Heaven”) and the concise (“Rock and Roll”). That fans have fought for years over the album’s perfect moment (it’s “When the Levee Breaks”) is a testament not only to the passion the band inspires, but also to how perfectly they capture their own internal yins and yangs. An entire ecosystem of music could be built on the songs here. And it was.<br /><br>Overstated? Yes—there are times when <i>IV</i> seems to exist to ask why you would overdub one guitar when you could overdub four. But if the flowery stuff doesn’t work for you (“The Battle of Evermore”), the dirty stuff (“Misty Mountain Hop”) probably will, and if you prefer your symphonies to stay in the concert hall, the band still sweats, pounds and moans enough to scandalise company at levels polite and otherwise. The irony of <i>IV</i> is that it opened a new world for hard rock by embracing the colour and variety of its natural enemy: pop. |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Label          | Atlantic |
 | Catalog Number | 8122796641 |
 | Notes | Front cover has sticker with barcode and following text:  The Classic 1969 Debut Album on 180g Vinyl Includes Good Times Bad Times & Dazed And Confused Remastered by Jimmy Page   Back cover: © 1969 Atlantic Recording Corporation, a Warner Music Group Company. Manufactured & Marketed by Warner Music Group. Made in the EU.  Labels: © 1969 Atlantic Recording Corporation. ℗ 2013 Atlantic Recording Corporation. Manufactured in Germany.  All selections administered by WB Music Corp. (ASCAP) except as indicated: A2 by Songs Of Polygram International Inc. (BMI) / WB Music Corp. ASCAP A3 by Arc Music / Hoochie Coochie Music BMI B4 by Hoochie Coochie Music BMI |
+| Discogs URL    | [Led Zeppelin - Led Zeppelin](https://www.discogs.com/release/5734419-Led-Zeppelin-Led-Zeppelin) |

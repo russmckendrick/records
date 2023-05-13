@@ -10,6 +10,10 @@ cover:
     image: "604-20527537.jpg"
     alt: "604 by Ladytron"
     caption: "604 by Ladytron"
+additional_images:
+    - "https://i.discogs.com/csO71UFawsi88Z67wf3Lj2b4d-mHW4ctHIYXJIUzCT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI3/NTM3LTE2MzM3Nzg5/MzQtNzM4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/61sBJqrWxQpoUu6lPqXWWvmHBSYMPtIipfChGtE8S4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI3/NTM3LTE2MzM3Nzg5/MzMtNDE3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/5pA-B2Y5ppQOCXODwQ4UAKA_chKzbm8UrI9aneIPiDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI3/NTM3LTE2MzM3Nzg5/MzMtNTIyNy5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
@@ -37,20 +41,16 @@ styles: ["Electro", "Synth-pop"]
 
 <!-- section break -->
 
+604 is the debut studio album by English electronic music band Ladytron, released in the United States on 6 February 2001 by Emperor Norton Records and in the United Kingdom on 12 March 2001 by Invicta Hi-Fi. It was co-produced, engineered and mixed by Lance Thomas. Some of the tracks had been previously released on their EPs Miss Black and Her Friends (1999), Mu-Tron EP (2000) and Commodore Rock (2000).
+On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first three being live recordings made on 16 May 2003 at the Central Military Club in Sofia, Bulgaria. The January 2011 re-release of the album on Nettwerk also features these same bonus tracks.In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that the album was named after the area code for British Columbia. Reuben Wu drew the cover of the European edition of 604.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/604/1619141992" >}}
-
-
-
-
-
 ## Videos
 ### Ladytron - Playgirl [Official Music Video]
 {{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl [Official Music Video]" >}}<br>
-
 ### More Videos
 
 - [Discotraxx](https://www.youtube.com/watch?v=dzwpEUJfvHc)
@@ -72,13 +72,17 @@ styles: ["Electro", "Synth-pop"]
 - [Jet Age](https://www.youtube.com/watch?v=XTOSuN6i5to)
 - [Skools Out…](https://www.youtube.com/watch?v=EGIOehtTR0g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/604_(album) |
+| Wikipedia Summary | 604 is the debut studio album by English electronic music band Ladytron, released in the United States on 6 February 2001 by Emperor Norton Records and in the United Kingdom on 12 March 2001 by Invicta Hi-Fi. It was co-produced, engineered and mixed by Lance Thomas. Some of the tracks had been previously released on their EPs Miss Black and Her Friends (1999), Mu-Tron EP (2000) and Commodore Rock (2000).<br>On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first three being live recordings made on 16 May 2003 at the Central Military Club in Sofia, Bulgaria. The January 2011 re-release of the album on Nettwerk also features these same bonus tracks.In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that the album was named after the area code for British Columbia. Reuben Wu drew the cover of the European edition of 604.<br><br> |
 | Release Year   | 2021                                   |
-| Discogs Link   | [Ladytron - 604](https://www.discogs.com/release/20527537-Ladytron-604) |
-| Label          | Nettwerk |
 | Format         | Vinyl LP 45 RPM (Red [Blood Red]), Vinyl LP 45 RPM (Clear [Ultra Clear]), All Media Album Limited Edition Reissue |
+| Label          | Nettwerk |
 | Catalog Number | 30912 1 |
 | Notes | 20th Anniversary Edition limited to 1000 copies.  140g  |
+| Discogs URL    | [Ladytron - 604](https://www.discogs.com/release/20527537-Ladytron-604) |

@@ -1,6 +1,8 @@
 ---
 title: "Neon Neon"
-summary: ""
+summary: "Neon Neon is a collaborative project from producer Boom Bip and Gruff Rhys, the frontman for the Welsh rock band Super Furry Animals. They began work on the project in October 2006 originally under the moniker Delorean. In March 2008 the duo, by now calling themselves Neon Neon, released a full-length album entitled Stainless Style to generally positive reviews and earned a nomination for the 2008 Mercury Music Prize.Gruff Rhys cast doubt over the future of Neon Neon in a 2008 interview for the BBC: \"I don't know about making another Neon Neon album because it was quite a specific record about DeLorean's life story. If we did something in the future it would have to be something different. But it's nice that it did well and we get to play it live.\"Neon Neon remixed Oasis's song \"To Be Where There's Life\" from their Dig Out Your Soul album for inclusion as the B-side of Oasis's single, \"I'm Outta Time.\" However, it was only released on the vinyl copy of the single.
+In December 2011, Neon Neon announced the release of a new song from their Stainless Style sessions. The song \"Wheels\" was released as part of the Complex compilation, which celebrated the 10th anniversary of Lex Records. An NME article announcing the release of the song suggested that Neon Neon were to return to the studio in 2012 to record a second album.On 30 April 2013, the group released their second album, Praxis Makes Perfect, focusing on the life of Italian left-wing publisher Giangiacomo Feltrinelli."
 image: "neon-neon.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/neon-neon/266739607"
+wikipedia_url: "https://en.wikipedia.org/wiki/Neon_Neon"
 ---

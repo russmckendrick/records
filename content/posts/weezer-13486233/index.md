@@ -10,6 +10,13 @@ cover:
     image: "weezer-13486233.jpg"
     alt: "Weezer by Weezer"
     caption: "Weezer by Weezer"
+additional_images:
+    - "https://i.discogs.com/QnVExe-s9FyPtABaJtiNm-aJVkGKLCrdyKBwoyhy06g/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MjMzLTE1NTUxNjQx/NDktNjc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/y1nhsQM7QdOuW4Osm6EgKPLxyOAs1nsiRdNyib_WS8w/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MjMzLTE1NTUxNjQx/NDktMzQ1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/mZJS3sgDwOt18cfID3oQUTMoKnaytYurz8c5Ap_1Mk8/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MjMzLTE1NTUxNjQx/NDItNzg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/h6g2lkLeJw7i4_UX2OFGsJhBNVOgjpsomKLLh71_z8M/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MjMzLTE1NTUxNjQx/NDQtNDYzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/45vikHIaYoHUYtB_4yilCWj2-ll0l1JRVRHUWA8P-j4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MjMzLTE1NTUxNjQx/NDMtOTI3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/-rs3r_obIjQr6frbi_uI1Sq23k6-nm-exRC7gz726Do/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MjMzLTE1NTUxNjQx/NDYtODk1Mi5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 ---
@@ -31,31 +38,29 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.
+Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}
-
-
-
-
-
 ## Videos
 ### Weezer - Africa (starring Weird Al Yankovic)
 {{< youtube id="mk5Dwg5zm2U" title="Weezer - Africa (starring Weird Al Yankovic)" >}}<br>
-
 ### More Videos
 
 - [Weezer - Take On Me (Official Video)](https://www.youtube.com/watch?v=f7RwDnZI7Tw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Van_Weezer |
+| Wikipedia Summary | Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.<br>Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Weezer - Weezer](https://www.discogs.com/release/13486233-Weezer-Weezer) |
-| Label          | Crush Music (2) |
 | Format         | Vinyl LP Album Limited Edition (Teal) |
+| Label          | Crush Music (2) |
 | Catalog Number | 7567-86533-1 |
 | Notes | The sixth self-titled album by Weezer, commonly known as 'The Teal Album'. This album contains ten cover versions.  Released for Record Store Day 2019 - Saturday 13th April.  Manufactured in the E.U.   |
+| Discogs URL    | [Weezer - Weezer](https://www.discogs.com/release/13486233-Weezer-Weezer) |

@@ -10,6 +10,15 @@ cover:
     image: "peter-gabriel-9473649.jpg"
     alt: "Peter Gabriel by Peter Gabriel"
     caption: "Peter Gabriel by Peter Gabriel"
+additional_images:
+    - "https://i.discogs.com/PXAM06YqJOZJYNyhqXZUDqJtc_9mP1RM7VFEp_3pnDo/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTYxNDQ0NDY3/OC0zODU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/ato_pK73kc_jfrd_xirMN-Kvz7OZEHkz96HGD2E63Zk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTQ4MTIwMzcx/NS01MjI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/3FN5lcay0JjipOYGrBWk8-3x0_KeqVNVt2TDpr7rUo4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTQ4ODA0ODEw/OS00ODMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/0JTORl_cN2Iagd3MR1L-TTT3vuNrhL5u9FiMbPHKgT4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTU5MTEyNjg0/OS02NjA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/yidd2Y3LUYvoL7lx9WBTXM3q7zv5MRJ_O9FcsuUok88/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTU5MTEyNjg1/Ni00MjU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Cy1RmnZvA5BwWLBQQf7qj6vtCJ45yD9ts5xzfELAT_Y/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTU5MTEyNjg0/OS0xMzI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/j1A_LWxEXqZUybUrZ4LYVAsu2TpwQImMFQe0QxJIXz0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTU5MTEyNjg1/NS05NTc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ak8OoBttIv8Ydwob9wc8KM-t8-3wXtYlfaKKSgHAQxE/rs:fit/g:sm/q:90/h:845/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM2/NDktMTY0ODU4NDc4/NS05NTExLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock"]
 ---
@@ -31,23 +40,24 @@ styles: ["Pop Rock", "Art Rock"]
 
 <!-- section break -->
 
-
-
-
+Peter Gabriel is the third solo studio album by the English rock musician Peter Gabriel, released on 30 May 1980 by Charisma Records. The album, produced by Steve Lillywhite, has been acclaimed as Gabriel's artistic breakthrough as a solo artist. AllMusic wrote that it established him as "one of rock's most ambitious, innovative musicians".Building on the experimental sound of his previous self-titled studio album, it saw Gabriel embracing post-punk and new wave with an art rock sensibility. Gabriel also explored more overtly political material with the anti-war song "Games Without Frontiers" (which became a No. 4 hit and remains his joint highest-charting single in the UK) and the anti-apartheid protest song "Biko", which remembered the murdered activist Steve Biko. 
+In the US, the album was titled Peter Gabriel III. The album is also often referred to as Melt, owing to its cover photograph by Hipgnosis. Some music streaming services currently refer to it as Peter Gabriel 3: Melt.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Peter_Gabriel_(1980_album) |
+| Wikipedia Summary | Peter Gabriel is the third solo studio album by the English rock musician Peter Gabriel, released on 30 May 1980 by Charisma Records. The album, produced by Steve Lillywhite, has been acclaimed as Gabriel's artistic breakthrough as a solo artist. AllMusic wrote that it established him as "one of rock's most ambitious, innovative musicians".Building on the experimental sound of his previous self-titled studio album, it saw Gabriel embracing post-punk and new wave with an art rock sensibility. Gabriel also explored more overtly political material with the anti-war song "Games Without Frontiers" (which became a No. 4 hit and remains his joint highest-charting single in the UK) and the anti-apartheid protest song "Biko", which remembered the murdered activist Steve Biko. <br>In the US, the album was titled Peter Gabriel III. The album is also often referred to as Melt, owing to its cover photograph by Hipgnosis. Some music streaming services currently refer to it as Peter Gabriel 3: Melt. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473649-Peter-Gabriel-Peter-Gabriel) |
-| Label          | Real World Records |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Grams) |
+| Label          | Real World Records |
 | Catalog Number | PGLPR3 |
 | Notes | Half-Speed Remaster + Hi-Res Download Code  Pressing plant identified by runout. |
+| Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473649-Peter-Gabriel-Peter-Gabriel) |

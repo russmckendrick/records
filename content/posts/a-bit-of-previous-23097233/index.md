@@ -11,6 +11,19 @@ cover:
     image: "a-bit-of-previous-23097233.jpg"
     alt: "A Bit Of Previous by Belle & Sebastian"
     caption: "A Bit Of Previous by Belle & Sebastian"
+additional_images:
+    - "https://i.discogs.com/JAvyXGyFxMuWelUUoLBdMgL45rXw4Q1e0kYHUDeY29E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY1/MjctNTE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/UkbU7UR2ZI3bZzaEFPs5Exqs7Sh4viujUFh1IvVWRr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtODYyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/JkSDw0F7gIJSYp02WWKYKmG_guvOFCwKSo5CDvREMew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtMTE1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/s99LKx5w17xLLJOU7XqKXMjVgozq3AanC6TH_IwLBuc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY1/MjctMjY2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/a7SySVogrcD66I_GqP40-b-sI-62mQrRLRo9Zwxx8oM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY2/NTQtMzI4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/rAHAhAxGET0uI9oKAabkwlv6d3JT5N8dbDaaUzYXKMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY2/NTQtNDU0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/nt-TkCF8YPEYkQBywuEl5xQu8q-HxvvO91KXr-jw5TQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtNTA4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/JpTLlN9iKxauTkUbR3wXCmUOk70W9gfl_OThhkZVI8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtODY3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Qi8Upse46dixhl-NZz9G3xx9EoGfZ0G5D7Cp1KzOOuU/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtODI1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/LCNqZvWMxZCKMGV93VnEccd1kLD1OrL8gm4jb5tHr48/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtNTgzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/5tROZu6U7sJFxtnQUz4b2j2_vRtJqOx_VDnYuWbvR5I/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtMjYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/8yT8eRdEa1K6EUqqzkvoUvQzZP3Py2_fchahzIAB1CY/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtNzY1OS5qcGVn.jpeg"
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
@@ -37,7 +50,6 @@ styles: ["Indie Pop"]
 16. Sometimes
 
 <!-- section break -->
-
 
 In the winter of 2019, Belle and Sebastian had an album’s worth of material ready to record and were preparing to decamp from Scotland to California to make their ninth studio album. You know what happens next. “Once the lockdown started, everything else got forgotten, and then we very much went inside,” lead singer and songwriter Stuart Murdoch tells Apple Music. They kept busy, of course, collaborating with fans online for the pandemic-specific “Protecting the Hive” project and assembling the live compilation <i>What to Look for in Summer</i>. “But I don't think any of us were really interested in making an album remotely from each other,” says singer/violinist Sarah Martin. 
 
@@ -83,20 +95,12 @@ Murdoch: “Most of the songs are very current. They were all written pretty muc
 <b>“Working Boy in New York City”</b>
 Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thing, but maybe San Francisco didn't scan. It's about a friend of mine that I became friends with when I came to America for the first time in the early '90s. But it's best not to be too literal, and so I placed it in New York. And there's other elements that come in that go just beyond his story. But there's a line from his favorite song, which was ‘Downtown' by Petula Clark. And I specifically remember him one day describing what that song meant to him.”
 
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-bit-of-previous/1601369496" >}}
-
-
-
-
-
 ## Videos
 ### Belle and Sebastian - Young and Stupid (Official Lyric Video)
 {{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - Young and Stupid (Official Lyric Video)" >}}<br>
-
 ### More Videos
 
 - [Belle And Sebastian - A Bit Of Previous 7 inch](https://www.youtube.com/watch?v=yo-ZS8al_hQ)
@@ -113,13 +117,17 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 - [Sea of Sorrow](https://www.youtube.com/watch?v=J54Q0ZgDbGI)
 - [Working Boy in New York City](https://www.youtube.com/watch?v=pOOawVJjsEI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
-| Discogs Link   | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |
-| Label          | Matador |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Bit_of_Previous |
+| Wikipedia Summary | A Bit of Previous is the eleventh studio album by Scottish band Belle and Sebastian, released on 6 May 2022 through Matador Records. It was preceded by the singles "Unnecessary Drama", "If They're Shooting at You" and "Young and Stupid". A non-album single, also called "A Bit of Previous", was released in June 2022.<br><br> |
+    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Gatefold), Vinyl 7" 45 RPM |
+| Label          | Matador |
 | Catalog Number | OLE1845LPE |
 | Notes | Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet |
+| Discogs URL    | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |

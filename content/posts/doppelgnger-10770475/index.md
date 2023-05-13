@@ -10,6 +10,8 @@ cover:
     image: "doppelgnger-10770475.jpg"
     alt: "Doppelgänger by Curve"
     caption: "Doppelgänger by Curve"
+additional_images:
+    - "https://i.discogs.com/j35QPtnJ9nDhCzeC7LfW4dp8vp5bhx6LUfI89Dizk7Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NDc1LTE1MDQwNjY3/NzgtNjQyMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
@@ -31,20 +33,12 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009" >}}
-
-
-
-
-
 ## Videos
 ### Curve - Horror Head (4K Remaster)
 {{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head (4K Remaster)" >}}<br>
-
 ### More Videos
 
 - [Curve - Superblaster (4K Remaster)](https://www.youtube.com/watch?v=pYQa-Ft6nmE)
@@ -62,13 +56,15 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 - [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
 - [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelg%C3%A4nger) |
-| Label          | 3 Loop Music |
 | Format         | Vinyl LP Album Reissue |
+| Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-52LP |
 | Notes | Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
+| Discogs URL    | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelg%C3%A4nger) |

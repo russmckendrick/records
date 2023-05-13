@@ -1,6 +1,7 @@
 ---
 title: "Rival Schools"
-summary: "Indie rock band from New York, founded in 1999 and disbanded in 2003. They reformed in 2008 and went on hiatus again in 2013. In 2022 they announced a rerelease of their first album and a tour for 2023."
+summary: "Rival Schools: United by Fate, known in Japan as Shiritsu Justice Gakuen: Legion of Heroes, is a fighting game produced by Capcom originally released as an arcade game in 1997 and ported to the PlayStation in 1998. On February 23, 2012, Capcom released United by Fate on the Japanese PlayStation Network."
 image: "rival-schools.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/rival-schools/407052"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rival_Schools:_United_by_Fate"
 ---

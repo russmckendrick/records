@@ -11,6 +11,13 @@ cover:
     image: "nashville-skyline-7680434.jpg"
     alt: "Nashville Skyline by Bob Dylan"
     caption: "Nashville Skyline by Bob Dylan"
+additional_images:
+    - "https://i.discogs.com/GKqMzGUqJYXBhlCryV6W2nB4LHWuSXbFRhSBlFaRQgc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA0/MzQtMTYzNzkyNDU5/NS0xNDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/GlcM7tjPb43zd-jQPPE_i3HRg2znEUTx51doabgoWvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA0/MzQtMTYwMTQ3OTYw/My00OTA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/AudZdHWZQhsl4VL8bqcqcc0MMebFg-Weu_ORmmoODRY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA0/MzQtMTQ0ODc4NTgw/Ny02NDY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/NN_QIUPvL2DbJkyrRMEEmWY0vjpC5hf5aevS-GhFBeU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA0/MzQtMTUzMjY5Mjk4/My01MTI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/pgKfoEw9He-3OVnLeGB0R1NFN2ZYaSHD3jssPt4Oruc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA0/MzQtMTUyNDQyNjU1/OC0xOTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/xXgcoU2xoGmYVEHD719irUL_07hbiRsJnH-FGcKB5uo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA0/MzQtMTUyNDQyNjU1/OS0yMzY4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
@@ -32,25 +39,27 @@ styles: ["Folk Rock", "Country Rock"]
 
 <!-- section break -->
 
+Nashville Skyline is the ninth studio album by American singer-songwriter Bob Dylan, released on April 9, 1969, by Columbia Records as LP record, reel to reel tape and audio cassette.
+Building on the rustic style he experimented with on John Wesley Harding, Nashville Skyline displayed a complete immersion into country music. Along with the more basic lyrical themes, simple songwriting structures, and charming domestic feel, it introduced audiences to a radically new singing voice from Dylan, who had temporarily quit smoking—a soft, affected country croon.
+The result received a generally positive reaction from critics, and was a commercial success. Reaching No. 3 in the U.S., the album also scored Dylan his fourth UK No. 1 album.
 
-By 1969, Bob Dylan was again changing personas, this time singing country with a throaty drawl and a humble tone. Many highlights include a melancholic overhaul (featuring Johnny Cash) of Dylan’s 1963 weeper “Girl From the North Country”, and the swooning “I Threw It All Away”, which, with its spare organ and acoustic guitar, stuns as an epistle to regret. And Dylan proved that he could sing in a warm, liquid croon on the lovely, hushed “Lay Lady Lay”. This often twangy affair ranks as one of Dylan’s greatest.
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nashville-skyline/177980677" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
-| Discogs Link   | [Bob Dylan - Nashville Skyline](https://www.discogs.com/release/7680434-Bob-Dylan-Nashville-Skyline) |
-| Label          | Columbia |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Nashville_Skyline |
+| Apple Music Summary | By 1969, Bob Dylan was again changing personas, this time singing country with a throaty drawl and a humble tone. Many highlights include a melancholic overhaul (featuring Johnny Cash) of Dylan’s 1963 weeper “Girl From the North Country”, and the swooning “I Threw It All Away”, which, with its spare organ and acoustic guitar, stuns as an epistle to regret. And Dylan proved that he could sing in a warm, liquid croon on the lovely, hushed “Lay Lady Lay”. This often twangy affair ranks as one of Dylan’s greatest. |
+    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Label          | Columbia |
 | Catalog Number | KCS 9825 |
 | Notes | Looks to be the same pressing as the Music On Vinyl version from 2012. (The runout groove even features the MOV catalog number MOVLP 660). But both the backside and the labels feature Legacy logo together with Sony and Columbia. On some copies, the shrink wrap has a black sticker in the upper right corner "Legacy Vinyl" or "We are vinyl". |
+| Discogs URL    | [Bob Dylan - Nashville Skyline](https://www.discogs.com/release/7680434-Bob-Dylan-Nashville-Skyline) |

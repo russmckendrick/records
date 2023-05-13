@@ -10,6 +10,13 @@ cover:
     image: "solitude-standing-10361309.jpg"
     alt: "Solitude Standing by Suzanne Vega"
     caption: "Solitude Standing by Suzanne Vega"
+additional_images:
+    - "https://i.discogs.com/CMEbGKBR6JmffjXX3BWu6_i509GyolIH_9wOe0VNefA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MzA5LTE0OTU5ODgx/MDEtODA2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/0In29SFqrfkvGEhbHazFBTUOnLc97iutMndLDsPNn-8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MzA5LTE1MDMwMDk2/MDMtNjA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/szOkkBFW-Mzyco_U3m7JXHgKRaRyyYR3O90pDO0N8XU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MzA5LTE1MDMwMDk2/MDMtNjYyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/lRteKUr4EE256XzPZ7KxnTF6K1Jw922EvpoXMf-IcBE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MzA5LTE1MDMwMDk2/MDQtNDM1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/kSyOWdYtVLzPIHM0qb_vX2R_kcN61OAGdsmroyvXjjg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MzA5LTE1MDMwMDk2/MDMtNTcyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/VOKOrwSlDKE3w4Ea25Kglk_3YJXHl1K3aWuV5w81Kl4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MzA5LTE1MDMwMDk2/MDQtMzM4MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -32,20 +39,13 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Solitude Standing is the second studio album by American singer-songwriter Suzanne Vega, released on April 1, 1987, by A&M Records. It is the most commercially successful and critically acclaimed album of Vega's, being certified Platinum in the US and reaching number 11 on the Billboard 200.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/solitude-standing/1444012381" >}}
-
-
-
-
-
 ## Videos
 ### Suzanne Vega - Luka
 {{< youtube id="VZt7J0iaUD0" title="Suzanne Vega - Luka" >}}<br>
-
 ### More Videos
 
 - [Ironbound / Fancy Poultry](https://www.youtube.com/watch?v=wnV-DPmrkLk)
@@ -60,13 +60,17 @@ styles: ["Pop Rock"]
 - [Wooden Horse (Casper Hauser's Song)](https://www.youtube.com/watch?v=nPBZDs5y2vg)
 - [Tom's Diner (Reprise)](https://www.youtube.com/watch?v=bnOQIfaNQso)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Solitude_Standing |
+| Wikipedia Summary | Solitude Standing is the second studio album by American singer-songwriter Suzanne Vega, released on April 1, 1987, by A&M Records. It is the most commercially successful and critically acclaimed album of Vega's, being certified Platinum in the US and reaching number 11 on the Billboard 200. |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Suzanne Vega - Solitude Standing](https://www.discogs.com/release/10361309-Suzanne-Vega-Solitude-Standing) |
-| Label          | A&M Records |
 | Format         | Vinyl LP Album Reissue Stereo |
+| Label          | A&M Records |
 | Catalog Number | B0026079-01 |
 | Notes | 2017 reissue. Black vinyl. MASTERED BY CAPITOL stamped on Side A only. |
+| Discogs URL    | [Suzanne Vega - Solitude Standing](https://www.discogs.com/release/10361309-Suzanne-Vega-Solitude-Standing) |

@@ -10,6 +10,9 @@ cover:
     image: "ellengst-16022505.jpg"
     alt: "Ellengæst by Crippled Black Phoenix"
     caption: "Ellengæst by Crippled Black Phoenix"
+additional_images:
+    - "https://i.discogs.com/WaqEArcysiCanMrFdxWlNmU5xCTUO8e23_moohA762k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIy/NTA1LTE2MDIwNTUy/OTItNDY4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/aRngSRnVIRynKofHlIWCK2ghKs9gLQvghzWCIj0hI0o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIy/NTA1LTE2MDIwNTUy/OTktMTgxNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ---
@@ -29,28 +32,23 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elleng%C3%A6st/1524581300" >}}
-
-
-
-
-
 ## Videos
 ### Crippled Black Phoenix - Ellengæst (Full Album) 2020
 {{< youtube id="NSHkQICpeng" title="Crippled Black Phoenix - Ellengæst (Full Album) 2020" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Crippled Black Phoenix - Ellengæst](https://www.discogs.com/release/16022505-Crippled-Black-Phoenix-Elleng%C3%A6st) |
-| Label          | Season Of Mist |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Purple) |
+| Label          | Season Of Mist |
 | Catalog Number | SOM 574LP |
 | Notes | Plastic Head Distribution excl. edition on purple double vinyl strictly limited to 300 copies worldwide |
+| Discogs URL    | [Crippled Black Phoenix - Ellengæst](https://www.discogs.com/release/16022505-Crippled-Black-Phoenix-Elleng%C3%A6st) |

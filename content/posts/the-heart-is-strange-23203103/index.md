@@ -10,6 +10,8 @@ cover:
     image: "the-heart-is-strange-23203103.jpg"
     alt: "The Heart Is Strange by xPropaganda"
     caption: "The Heart Is Strange by xPropaganda"
+additional_images:
+    - "https://i.discogs.com/BC8Vc5LL4We5d9E38zYYhogxXVtYuomeUjRaF9FyI1Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAz/MTAzLTE2NTI2OTc1/NzQtNTk0Ni5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -29,20 +31,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-heart-is-strange-deluxe/1608061903" >}}
-
-
-
-
-
 ## Videos
 ### The Night
 {{< youtube id="7LbjI2bJrhE" title="The Night" >}}<br>
-
 ### More Videos
 
 - [Chasing Utopia](https://www.youtube.com/watch?v=kUzseIvaGo4)
@@ -53,12 +47,14 @@ styles: ["Synth-pop"]
 - [The Wolves Are Returning](https://www.youtube.com/watch?v=_906dqMbLLs)
 - [Ribbons Of Steel](https://www.youtube.com/watch?v=G1K3hBQ6330)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103-xPropaganda-The-Heart-Is-Strange) |
-| Label          | ZTT |
 | Format         | Vinyl LP Album |
+| Label          | ZTT |
 | Catalog Number | ZTTnovis1 |
+| Discogs URL    | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103-xPropaganda-The-Heart-Is-Strange) |

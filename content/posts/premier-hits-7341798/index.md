@@ -10,6 +10,8 @@ cover:
     image: "premier-hits-7341798.jpg"
     alt: "Premier Hits by Gary Numan"
     caption: "Premier Hits by Gary Numan"
+additional_images:
+    - "https://i.discogs.com/DNxTv4xHxvx_iifMhcy4wb08fGA7Sp90gEC4niPS5rU/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDE3/OTgtMTQzOTMyMjMz/NS0yNjc4LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -42,20 +44,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/premier-hits/1025318240" >}}
-
-
-
-
-
 ## Videos
 ### Gary Numan - Metal
 {{< youtube id="kLfz2bbxxuM" title="Gary Numan - Metal" >}}<br>
-
 ### More Videos
 
 - [Gary Numan - Cars](https://www.youtube.com/watch?v=Im3JzxlatUs)
@@ -69,12 +63,14 @@ styles: ["Synth-pop"]
 - [Gary Numan - We Are Glass](https://www.youtube.com/watch?v=HVHnIiWpNig)
 - [We are Glass](https://www.youtube.com/watch?v=Hh5ftP9-IAw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Gary Numan - Premier Hits](https://www.discogs.com/release/7341798-Gary-Numan-Tubeway-Army-Premier-Hits) |
-| Label          | Beggars Banquet |
 | Format         | Vinyl 2× LP Compilation Reissue |
+| Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2007 |
+| Discogs URL    | [Gary Numan - Premier Hits](https://www.discogs.com/release/7341798-Gary-Numan-Tubeway-Army-Premier-Hits) |

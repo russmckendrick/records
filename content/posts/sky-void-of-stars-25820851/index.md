@@ -11,6 +11,12 @@ cover:
     image: "sky-void-of-stars-25820851.jpg"
     alt: "Sky Void Of Stars by Katatonia"
     caption: "Sky Void Of Stars by Katatonia"
+additional_images:
+    - "https://i.discogs.com/L4CO-oNzAUX14tsjEN3ggHYLDQa75h0necDlqP0Mz7I/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzQyOTU2/MzQtMjYwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/RpE8_R9JOTZVPiagDfTUiJceCDnQwK7Yb3ZsiYCjd3I/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzQyOTU2/MzctMjY4My5qcGVn.jpeg"
+    - "https://i.discogs.com/6lrbhfUHDWLims3RkwfBSSYJVzUb2KzfKw4cnZAEEn4/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTItNTUxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/-0UzQG0K-RPAlKDsDWt9sq8okFVekjiqWxBprbwI4NA/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTEtOTQ4My5qcGVn.jpeg"
+    - "https://i.discogs.com/5y88FZ_YiCbdogc3MIEZAF9dDwQGhjtvZalbKLPcLwA/rs:fit/g:sm/q:90/h:900/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTEtOTM2NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
@@ -31,7 +37,6 @@ styles: ["Progressive Metal"]
 10. No Beacon To Illuminate Our Fall
 
 <!-- section break -->
-
 
 “I was thinking about way back in time when people were navigating by the stars. If they were sailing a ship and the stars weren’t visible, that would mean you can’t go anywhere, really.” That’s how Katatonia vocalist, guitarist and songwriter Jonas Renkse explains the title of the Swedish goth-metal titans’ 12th album. It’s this sense of being adrift that permeates <i>Sky Void of Stars</i>, helping to create a melancholy and introspective experience rich in metallic and electronic atmosphere. “I think it’s a very common feeling among humans,” Renkse tells Apple Music. “At some point in your life, you could feel you have no direction, or you don’t know where you’re going next.”
 
@@ -69,20 +74,12 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 
 <b>“Absconder” (Bonus Track)</b>
 “I wanted to do something a little bit different from what I usually do, so I thought about the band Muse. I wanted to do something a little bit in their style. I’m not sure I succeeded, but it’s definitely something different from what Katatonia usually does. It’s a very heavy opening, and then it goes into a really nice verse that blends a lot of different stuff in there. It’s got the ethereal quality that I like, but also some really jagged parts coming out of nowhere. It’s a very happening song.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sky-void-of-stars/1647368479" >}}
-
-
-
-
-
 ## Videos
 ### KATATONIA - Birds (Official Video) | Napalm Records
 {{< youtube id="_ILWPwc4KaY" title="KATATONIA - Birds (Official Video) | Napalm Records" >}}<br>
-
 ### More Videos
 
 - [KATATONIA - Sky Void of Stars (FULL ALBUM HQ) 2023!](https://www.youtube.com/watch?v=_juzo3SvrxM)
@@ -90,12 +87,16 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 - [KATATONIA - Austerity (Official Video) | Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
 - [KATATONIA - Opaline (Official Video) | Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
-| Discogs Link   | [Katatonia - Sky Void Of Stars](https://www.discogs.com/release/25820851-Katatonia-Sky-Void-Of-Stars) |
-| Label          | Napalm Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Sky_Void_of_Stars |
+| Wikipedia Summary | Sky Void of Stars is the twelfth studio album by Swedish heavy metal band Katatonia. It was released on 20 January 2023 and was generally well received by critics. |
+    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× 12" 45 RPM Album |
+| Label          | Napalm Records |
 | Catalog Number | NPR1208VINYL |
+| Discogs URL    | [Katatonia - Sky Void Of Stars](https://www.discogs.com/release/25820851-Katatonia-Sky-Void-Of-Stars) |

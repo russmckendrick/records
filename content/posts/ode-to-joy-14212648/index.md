@@ -11,6 +11,16 @@ cover:
     image: "ode-to-joy-14212648.jpg"
     alt: "Ode To Joy by Wilco"
     caption: "Ode To Joy by Wilco"
+additional_images:
+    - "https://i.discogs.com/MK_8uwqVsc3dvWBcIMOS4_xbYQ5JG9pX3PRdM1yCIAA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NjctNDM2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/aYtUU_n8KdpOBcW18CBoWoyOaCmg1lXn81gySQT0j4U/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NjgtODczMi5qcGVn.jpeg"
+    - "https://i.discogs.com/P1QNIsvg_3eUtxjDKSUu2UWyYmWq3_rsz_DZjF7gaOc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NzItODI4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/TTLFuB0he8NveFZOOHa7Sp9YOvimHAoi_URXZOHZA8I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NzMtNjc4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/MkCz4e6OPsgvamqfqtDmnPZ1jbVYJCpfizPxEv3QUz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1NzA5NzE0/OTUtMzMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/lpV-0iNqanVKnXdeQUNyfrDs_428NXbwe4P_CZFPDkA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1NzA5NzE0/OTUtOTQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/q43ilmxYLg3fl1RGF8B_EccMkjjuz5KovOZgm9jabuU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NzUtMTE5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/K-uulFXOM97RW0Hnhp0VAn3oeNuXA3ETv8TCSI6IgTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NzctNDE0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/AHVhH63TbPJZGfFPrx6eo-P0nVjouusuXAFwtR7TTrY/rs:fit/g:sm/q:90/h:404/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/NjQ4LTE1Njk5NjM3/NzgtODI3OC5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
@@ -32,7 +42,6 @@ styles: []
 11. An Empty Corner
 
 <!-- section break -->
-
 
 “We almost called the record <i>The Trouble With Caring</i>,” Wilco’s Jeff Tweedy tells Apple Music. “We all give a shit. You have to hang on to that in the face of a world where it's very apparent that a lot of people don't give a shit. It's important to fuck with them, to hold on to your sanity.” Though they instead went with something that slots somewhere between <i>Star Wars</i> and <i>Being There</i> in their discography's pantheon of cheekily reappropriated titles, that battle against ambivalence and stasis drives the band's 11th album—not just in subject matter, but in how they sound and operate in the thick of their third decade. On the heels of Tweedy's 2018 memoir and stripped-down two-headed solo venture, <i>WARM</i> and <i>Warmer</i>, <i>Ode to Joy</i> amps up the moodiness and chilly ambiance but still feels of a piece with that introspective, relatively direct work, reconciling what it means to be an artist—or to be, period—in this particular moment. “There's an American atmosphere right now of some type of mourning or grief,” Tweedy says. “What I've learned is that you shouldn't waste a whole lot of time feeling guilty about having moments of joy in the face of depression. Do not postpone happiness based on some struggle you are witnessing or participating in. That's just kind of a core contemplation of almost everything that I've been working on for a pretty long time.” Bask in the weird times with this track-by-track overview straight from Tweedy himself.<br />
 <b>Bright Leaves</b>
@@ -57,28 +66,25 @@ styles: []
 “Basically, the whole record is just working up to ‘Hold Me Anyway’. It's just a big, goofy hug of a song. I think it's just meant to be ridiculously loving and big-hearted and stupid. I think that was the whole idea, to kind of work the record towards this climax of an embrace.”<br />
 <b>An Empty Corner</b>
 “That song is mostly about this weird phenomenon when you dream about things that really happened. The first line, ‘Eight tiny lines on a copying machine’—first of all, I like the idea that nobody ever talks about <i>tiny</i> lines of cocaine. I used to work at a liquor store, and they would lay out lines of cocaine on the copying machine when the store would get busy. They made me a night manager at one point; I was only 18 years old. They gave me a gun and I had to make night deposits and then go back to the store and put the gun back in the safe. So I dreamt about that, and I woke up thinking I wish I had cocaine, but I don't even like cocaine. The other two verses are more actual dreamlike dream scenarios, but they're rooted in some of the authoritarian, dystopian atmosphere we're swimming around in. I like to look at a last song on a record as the closing credits of an album. This album, to me, needed closing credits that underlined the idea that maybe we're imagining some of this. That too shall pass and it's a thing that's really happening, but sometimes it does feel like a weird dream even while you're in it.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ode-to-joy/1472975878" >}}
-
-
-
-
-
 ## Videos
 ### Wilco Everyone Hides (Official Video)
 {{< youtube id="P2Gbbd6pVMg" title="Wilco Everyone Hides (Official Video)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [Wilco - Ode To Joy](https://www.discogs.com/release/14212648-Wilco-Ode-To-Joy) |
-| Label          | dBpm Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ode_to_Joy_(Wilco_album) |
+| Wikipedia Summary | Ode to Joy is the eleventh studio album from American indie rock band Wilco, released on October 4, 2019, on dBpm Records. The release has received positive reviews. |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
+| Label          | dBpm Records |
 | Catalog Number | DBPM-010-20-LP |
 | Notes | Includes a printed insert. Tracks are continuously numbered across sides.  ℗ © 2019 dBpm Records.  Recorded at The Loft - Chicago  All songs [...] published by Words Ampersand Music (BMI). Administered worldwide by BMG Rights Management. |
+| Discogs URL    | [Wilco - Ode To Joy](https://www.discogs.com/release/14212648-Wilco-Ode-To-Joy) |

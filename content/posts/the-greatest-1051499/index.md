@@ -10,6 +10,21 @@ cover:
     image: "the-greatest-1051499.jpg"
     alt: "The Greatest by Ian Brown"
     caption: "The Greatest by Ian Brown"
+additional_images:
+    - "https://i.discogs.com/tDdZPnqPE7EppGWm-wLJTMq3bsJa2d2mO-2-4G1rFgw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTE4ODI0MTg1/Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/BgxOWxzUiChNKsNSiYcuPfOgOUS0lsFD1TuhMYND69w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS01NDc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/4paN0XQTCDN4bZ349ywzSPSv4rtdNureSTs2rQTigOA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjcz/OC01MzU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Mvpp-afk8nc1-dK4erTICpU56vV9xi0h_Pd3MoaHiV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MC05MzA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/VgDtJpD75Df07kevBqtg-7ZikffygihyM_kD55z2rBw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/OC01Nzk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/TcLKJ1YZKyPRIGeehhsNbqSSMXwst6EQlxzLsAKr4Cw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/Mi02Njg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jd1DO8N-_sKEJWXmozIv-hMgxqIp0O10FsJ8BgwPmKg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/NS05MDcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZN6X3rR5MIJ-xpeOaYOs3TRvLmrUuXTEAWrMFSO0MoE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/MS01MjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/yzf4TqRZFnITSkv4eamna5Qz1kzp5JUnepyWM0isY_I/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MC0xODgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZhyywqCfFYtv0G1vy1H1PazbZ4ARUcDLyr2T02xa0Ms/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS00NjcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/nR0v952Xvi0ksC1a5ouvjTkhaBRu2WJ5EnQ7hyceh3g/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS01OTcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/wG7Hw7Ai4w837vyvfQVbWG04efNwGCjcQBM_Ca4eZeY/rs:fit/g:sm/q:90/h:335/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/OC0xNTc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/QjKO6CZTMIVozeDXsqVvLpEJIIIENijPu6vkqUQ92kM/rs:fit/g:sm/q:90/h:153/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/Ni0zNDY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/eajt7b6CcXlLIQrFrVJvGkO0wN3RqDcahQM5xZ61sr4/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS0yMzY2LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
@@ -38,20 +53,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
+The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging.
+<br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1445740062" >}}
-
-
-
-
-
+{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1442516060" >}}
 ## Videos
 ### Ian Brown - F.E.A.R.
 {{< youtube id="8f8wAXDZ9D0" title="Ian Brown - F.E.A.R." >}}<br>
-
 ### More Videos
 
 - [Ian Brown - Time Is My Everything](https://www.youtube.com/watch?v=jW6cLKlKOek)
@@ -60,13 +69,17 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Ian Brown - Billie Jean](https://www.youtube.com/watch?v=LC2lidZxymA)
 - [Ian Brown - Thriller (Michael Jackson cover)](https://www.youtube.com/watch?v=L5vwuhnM1QQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_(Ian_Brown_album) |
+| Wikipedia Summary | The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.<br>The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging. |
 | Release Year   | 2005                                   |
-| Discogs Link   | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |
-| Label          | Polydor |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Polydor |
 | Catalog Number | 987 289-0 |
 | Notes | Made in the EU. |
+| Discogs URL    | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |

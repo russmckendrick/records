@@ -11,6 +11,15 @@ cover:
     image: "music-for-the-masses-5349623.jpg"
     alt: "Music For The Masses by Depeche Mode"
     caption: "Music For The Masses by Depeche Mode"
+additional_images:
+    - "https://i.discogs.com/lrm0MLLGAl4bHghCLNqv-BqWvCU4jp3MY3L2TzCTodI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgw/My0xNTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/2BkoEjX6NT3ougVjYJT9UGSt4GhPO5T7UQb8tq-InxU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgw/OS05MzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/nVKbJZgHgfNmWtHitxtRbUONof8ErRSn8806vLP1fgg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgx/OS0xMzQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/m77upF8qa3bSDnlJ2yIasTtt3Dj91RwmEIvuJ4rypuM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgy/My01NTYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/FUQfIUnc_x0ETW56vCi-rpaq-ztNK7A1Z9djRQVfGKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgz/MC0xMzU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/KFgvukF5B9cr00Ph94jCAj8PhtunkFMXgPe64oTlZDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgz/NC04MTc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/EEM_Js0u3tfKYxfVWEfMzODfdelDMTwiXeTEqqL99QU/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDg0/OS05OTQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/B_TaW7NSFkZ2TOsGjoogSWYaXjKxWsPW8_EIDuBNjmM/rs:fit/g:sm/q:90/h:316/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTM5MTE5NTg1/NS0xMDM0LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -32,25 +41,26 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
+Music for the Masses is the sixth studio album by English electronic music band Depeche Mode, released on 28 September 1987 by Mute Records. The album was supported by the Music for the Masses Tour, which launched their fame in the US when they performed at the Rose Bowl in Pasadena. The tour led to the creation and filming of the documentary/live album titled 101. This saw the band using heavy amounts of sampling, much like they did in their previous album Black Celebration.
+Considered one of the band's best albums, Music for the Masses was included in the book 1001 Albums You Must Hear Before You Die.
 
-<i>Music for the Masses</i> was meant to be an ironic title, but there’s a tangible increase in grandeur in these songs. Opener “Never Let Me Down Again” anticipates the stadiums they’d soon be playing by welcoming in guitars and Led Zeppelin-sampling beats. “Nothing” and “Behind the Wheel” offer similarly widescreen synth-pop, but it’s not all swinging for the arena rafters: “Little 15” almost tips into chamber music and “The Things You Said” is one of Martin Gore’s most graceful and haunted ballads.
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses-deluxe/1174246735" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [Depeche Mode - Music For The Masses](https://www.discogs.com/release/5349623-Depeche-Mode-Music-For-The-Masses) |
-| Label          | Music On Vinyl |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_the_Masses |
+| Apple Music Summary | <i>Music for the Masses</i> was meant to be an ironic title, but there’s a tangible increase in grandeur in these songs. Opener “Never Let Me Down Again” anticipates the stadiums they’d soon be playing by welcoming in guitars and Led Zeppelin-sampling beats. “Nothing” and “Behind the Wheel” offer similarly widescreen synth-pop, but it’s not all swinging for the arena rafters: “Little 15” almost tips into chamber music and “The Things You Said” is one of Martin Gore’s most graceful and haunted ballads. |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Remastered (180 Gram, Gatefold) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP942 |
 | Notes | Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.  ℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V.   Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.   Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.  Design & Artwork Photography at T&CP Assoc.  |
+| Discogs URL    | [Depeche Mode - Music For The Masses](https://www.discogs.com/release/5349623-Depeche-Mode-Music-For-The-Masses) |

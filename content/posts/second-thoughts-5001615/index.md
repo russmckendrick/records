@@ -10,6 +10,11 @@ cover:
     image: "second-thoughts-5001615.jpg"
     alt: "Second Thoughts by Split Enz"
     caption: "Second Thoughts by Split Enz"
+additional_images:
+    - "https://i.discogs.com/kiTxet9DO_Ij-KVWyrVzUxg1Bh2u56rEp3O_DcZ2il0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE2/MTUtMTM4NzY0MTAw/MS0zODc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/kGgz-Gn9XurZVnWSNWu1h6B7wgkyFssXqIofEPp5vAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE2/MTUtMTM4NzY0MTAw/Ni0zODY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/89-mBg6s0kLYUFo9ZWStDxwzSF6FVw5qCnAwNq5hEG4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE2/MTUtMTYxNDQ2NDMx/NC0yMzc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/jYzM-VXWJHqJ37RMpIEY137N-uI6DagvbIcQ_R-VimQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE2/MTUtMTYxNDQ2NDMx/NC0xNTA1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
@@ -30,16 +35,10 @@ styles: ["Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Split Enz - Stranger Than Fiction
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}<br>
-
 ### More Videos
 
 - [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
@@ -50,13 +49,15 @@ styles: ["Pop Rock", "Prog Rock"]
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1976                                   |
-| Discogs Link   | [Split Enz - Second Thoughts](https://www.discogs.com/release/5001615-Split-Enz-Second-Thoughts) |
-| Label          | Mushroom |
 | Format         | Vinyl LP Album |
+| Label          | Mushroom |
 | Catalog Number | L 35981 |
 | Notes | Labels: Made in Australia by Festival Records Pty Ltd.    Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia |
+| Discogs URL    | [Split Enz - Second Thoughts](https://www.discogs.com/release/5001615-Split-Enz-Second-Thoughts) |

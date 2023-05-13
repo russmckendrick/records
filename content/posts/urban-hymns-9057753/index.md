@@ -10,6 +10,18 @@ cover:
     image: "urban-hymns-9057753.jpg"
     alt: "Urban Hymns by The Verve"
     caption: "Urban Hymns by The Verve"
+additional_images:
+    - "https://i.discogs.com/TLP6LW4ZgXRpjUcit-D4MAHWyl6iY6WqO665aAlrclA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjY4/Mi04MDg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/lzNsmJQK9mRHM2Ru1HwWLHTF_EMspk1nIi0lVQTce3w/rs:fit/g:sm/q:90/h:382/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjYw/My02MTg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/cPwbeLlSO4RhIfDRBM2LDsk2wNSmjJqs7VOheDmrglk/rs:fit/g:sm/q:90/h:436/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzQ5/My0yNjcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/uUPlhwUSsp3v8oAya9APYtGExZCZ5yrWgfoKPGkGwnA/rs:fit/g:sm/q:90/h:408/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzQ5/Ny04MDIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/63XFVGYbTPSGnEIe5wC7NpqRg6MaHUpR8g9GcJPYGQE/rs:fit/g:sm/q:90/h:411/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzQ5/OS03NTc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/zFKMy7OWJJzX35zRypcOV2RK5Pd1VleskHuqNbm36QA/rs:fit/g:sm/q:90/h:411/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzUw/My04NTg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qowSpVjNLrNYLExqakNj8AmDif-YukD_4Aa4TZDDnOY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzU1/Ny0xMTc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/VmnDay6Wuc3PjQygSFX8dxCUiNpBAiTFBuRZxDvP9HM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzU1/Mi0yMTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/u9sP6znpKcvrDRAsu8mDchgLx1ZRkC-7iZy_MUcdFvk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzU1/NS0xMDg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Pc_YTjn_fVaB9rHxML6_cpOmzYzbCL8JNRdYoOD_LMk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ4MDE5NzU1/OC0xODcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/910YRLv1FGn5FhkZxa7OjaoU6VEayKSHpyD2KEYjWTo/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjYw/NC00MjY0LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
@@ -34,20 +46,16 @@ styles: ["Alternative Rock", "Britpop"]
 
 <!-- section break -->
 
+Urban Hymns is the third studio album by English alternative rock band the Verve, released on 29 September 1997 on Hut Records. It earned nearly unanimous critical praise upon its release, and went on to become the band's best-selling release and one of the biggest selling albums of the year. As of 2019, Urban Hymns is ranked the 19th best-selling album in UK chart history and has sold over ten million copies worldwide. This is the only Verve album to feature guitarist and keyboardist Simon Tong, who initially joined the band to replace their original guitarist Nick McCabe. McCabe rejoined the band soon after, however, and Tong was considered the fifth member of the band; this makes the album the only one that the band recorded as a five-piece.
+The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK number one "The Drugs Don't Work". The critical and commercial success of the album saw the band win two Brit Awards in 1998, including Best British Album, and appear on the cover of Rolling Stone in April 1998. "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song. It was also among ten albums nominated for the best British album of the previous 30 years by the Brit Awards in 2010, ultimately losing to (What's the Story) Morning Glory? by Oasis. In 2013, NME ranked it at number 128 in its list of the 500 Greatest Albums of All Time.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/urban-hymns-deluxe-remastered-2016/1443258184" >}}
-
-
-
-
-
 ## Videos
 ### T̲he V̲e̲rve - Urban Hymns (Full Album)
 {{< youtube id="AWUD05jzL5o" title="T̲he V̲e̲rve - Urban Hymns (Full Album)" >}}<br>
-
 ### More Videos
 
 - [The Verve - Bitter Sweet Symphony (Official Music Video)](https://www.youtube.com/watch?v=1lyu1KKwC74)
@@ -109,13 +117,17 @@ styles: ["Alternative Rock", "Britpop"]
 - [Weeping Willow (Live From The 9:30 Club)](https://www.youtube.com/watch?v=dboEqXd8tBM)
 - [Stormy Clouds / (Reprise)](https://www.youtube.com/watch?v=0YofkBCMEkY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Urban_Hymns |
+| Wikipedia Summary | Urban Hymns is the third studio album by English alternative rock band the Verve, released on 29 September 1997 on Hut Records. It earned nearly unanimous critical praise upon its release, and went on to become the band's best-selling release and one of the biggest selling albums of the year. As of 2019, Urban Hymns is ranked the 19th best-selling album in UK chart history and has sold over ten million copies worldwide. This is the only Verve album to feature guitarist and keyboardist Simon Tong, who initially joined the band to replace their original guitarist Nick McCabe. McCabe rejoined the band soon after, however, and Tong was considered the fifth member of the band; this makes the album the only one that the band recorded as a five-piece.<br>The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK number one "The Drugs Don't Work". The critical and commercial success of the album saw the band win two Brit Awards in 1998, including Best British Album, and appear on the cover of Rolling Stone in April 1998. "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song. It was also among ten albums nominated for the best British album of the previous 30 years by the Brit Awards in 2010, ultimately losing to (What's the Story) Morning Glory? by Oasis. In 2013, NME ranked it at number 128 in its list of the 500 Greatest Albums of All Time.<br><br> |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Verve - Urban Hymns](https://www.discogs.com/release/9057753-The-Verve-Urban-Hymns) |
-| Label          | Virgin EMI Records |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Band Side Labels, RIM text, 180 gram) |
+| Label          | Virgin EMI Records |
 | Catalog Number | 4787014 |
 | Notes | ℗ 2016 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Originally released 1997 as HUTLP45. Includes printed innersleeves.  All tracks published by Kobalt Music Publishing Limited, except track 1 published by Abkco Music Inc.  At least five different vinyl releases exist; this one replicates the version with [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/8139920]the band pictured on each side label and RIM text[/url]  Other versions available are: - with [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/4274293]the band pictured on each side label without RIM text[/url] - with [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/445878]black side labels[/url] - the [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/3416731]mailing sleeve[/url] edition (limited to 5000 copies) - the [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/1548478]2008 US reissue[/url] by [L=Capitol Records]   Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media. |
+| Discogs URL    | [The Verve - Urban Hymns](https://www.discogs.com/release/9057753-The-Verve-Urban-Hymns) |

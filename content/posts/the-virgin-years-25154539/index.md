@@ -10,6 +10,18 @@ cover:
     image: "the-virgin-years-25154539.jpg"
     alt: "The Virgin Years by The Human League"
     caption: "The Virgin Years by The Human League"
+additional_images:
+    - "https://i.discogs.com/jshlHR4KCdN4sjG2OoAq0NDXbllLrLx84U3I_RunjD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/ODktNzA3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/o-Cr8Os7-tU27USwCJBZ0bOo0INy0Msnxfo-171pZKY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTEtNTQzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/DO_f6NPQvgOUAkrlXJnyKvi8jZk1JAS7xlP3AGLRYsQ/rs:fit/g:sm/q:90/h:116/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTItNzU5My5qcGVn.jpeg"
+    - "https://i.discogs.com/vOL21L2Z_xhY0jOek2eK9mBrUZ7ZOJ7XB5M12Xh4D_8/rs:fit/g:sm/q:90/h:80/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2NzE3MDA1/MzAtMTc1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZOQIZXO-2mjOet7_W0z1MPWMhe0_jAiBYBIr8cV5Eks/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2NzE3MDA1/MzAtMzA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/g4gOdYqoz0jS1SaJ_JZaA8sZVrwqe2wSkzvlPjvQyHg/rs:fit/g:sm/q:90/h:792/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2NzE3MDA1/MzAtMzcxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/4CkUIRsRBcg2A9ihi5fzF0Ge-lVCM65IV8VRWSSq1rk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTAtMTkwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/KQHPlquo7S1YVWv7yk5wSQxbvAtMN_Q0xeb6ubG0vaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTEtNjQ3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/SjbZcRwLKvUsKTUAqQ1iLesM0UdsUBxZHXtQbf-PKLc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTAtOTc1My5qcGVn.jpeg"
+    - "https://i.discogs.com/5frEUfY1raYeuqzpPi_2jTiW66Sj0SCNwDUpqEvJV7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTAtNzkxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/5_gtPYQTnjV2PK-KRXzdcZ7XaPwVHKfsp51wnmC14Ow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU0/NTM5LTE2Njg3OTUw/OTEtMjg5Ni5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ---
@@ -72,24 +84,21 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### The HumanLeague - Dare! - 1981 /LP Album
 {{< youtube id="NUFi1m0oVfQ" title="The HumanLeague - Dare! - 1981 /LP Album" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Human League - The Virgin Years](https://www.discogs.com/release/25154539-The-Human-League-The-Virgin-Years) |
-| Label          | UMC |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Turqouise), Vinyl LP Mini-Album Reissue (Lime Green ), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Crystal Clear) |
+| Label          | UMC |
 | Catalog Number | 358694 |
 | Notes | Coloured vinyl box set of the Human League MK II. Comprises  Dare - Turquoise vinyl Fascination - Lime Green vinyl Hysteria - Yellow vinyl Crash - Red vinyl Romantic? - Crystal Clear vinyl |
+| Discogs URL    | [The Human League - The Virgin Years](https://www.discogs.com/release/25154539-The-Human-League-The-Virgin-Years) |

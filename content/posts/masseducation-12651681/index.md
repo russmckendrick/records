@@ -10,6 +10,13 @@ cover:
     image: "masseducation-12651681.jpg"
     alt: "MassEducation by St. Vincent"
     caption: "MassEducation by St. Vincent"
+additional_images:
+    - "https://i.discogs.com/9ZtI_Qkf42-bMQFGvuF2eAMa0TRmdglTlNz3ZYj6zCA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzItNTkxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/GD-0sAzEb9jPSOaLuc4Wmp8yvJNj2YF_bo_QP-dnZPU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzYtNTY5My5qcGVn.jpeg"
+    - "https://i.discogs.com/EReTwgWwzKS8nyQ3vJrCekpiWr1I9_K7cLCQR1qR2LY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzUtMjI2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZjAfJ04pgQiDzjyXrip7GiAojLEjeDniDiHOx2CB48c/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzYtNjk2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/UBOQ_Jv1wGGg4zAnvxOU_t4G2ek93bPPEA8ASMIX5uk/rs:fit/g:sm/q:90/h:402/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1NDA2NTAy/MDMtNzQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/938FHyYynMTJg29mLRIcVwFkuK2XrjE2nSkaMv9zkuw/rs:fit/g:sm/q:90/h:783/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1NDA2NTAy/MTMtMzUwNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic"]
 ---
@@ -33,20 +40,12 @@ styles: ["Acoustic"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/masseducation/1437029839" >}}
-
-
-
-
-
 ## Videos
 ### New York (piano Version)
 {{< youtube id="xRHoqSIQnPg" title="New York (piano Version)" >}}<br>
-
 ### More Videos
 
 - [Slow Disco - St  Vincent](https://www.youtube.com/watch?v=qXo9Zxcuk_w)
@@ -62,13 +61,15 @@ styles: ["Acoustic"]
 - [St. Vincent - Smoking Section (piano version) (Audio)](https://www.youtube.com/watch?v=ehHmTw26dAc)
 - [St. Vincent - Fear The Future (piano version) (Audio)](https://www.youtube.com/watch?v=7KG0w6weC24)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [St. Vincent - MassEducation](https://www.discogs.com/release/12651681-St-Vincent-MassEducation) |
-| Label          | Loma Vista |
 | Format         | Vinyl LP Album |
+| Label          | Loma Vista |
 | Catalog Number | LVR00448 |
 | Notes | Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert.  Transparent front cover hype sticker placed on the shrink wrap.  Title on front cover is golden foil embossed.  Made in the EU. |
+| Discogs URL    | [St. Vincent - MassEducation](https://www.discogs.com/release/12651681-St-Vincent-MassEducation) |

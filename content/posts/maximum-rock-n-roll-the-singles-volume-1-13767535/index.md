@@ -10,6 +10,11 @@ cover:
     image: "maximum-rock-n-roll-the-singles-volume-1-13767535.jpg"
     alt: "Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream"
     caption: "Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream"
+additional_images:
+    - "https://i.discogs.com/GmsMXazQjMlvDyG3Ws_JPxk9KgEqjCsHu9goE7RWjmo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTM1LTE1NjA2ODg5/MjQtMzc5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/tllvTRc885qKvpA9fvmOPrK_JH5z1JkTqhhYK5Zib4w/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTM1LTE1NjA2ODg5/MjMtMzQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/kxt-ffO5ea63tB2MUmrF06JpzGqcH9OWLMGy-CrnZO0/rs:fit/g:sm/q:90/h:803/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTM1LTE1NjA2ODg5/MjUtNzY3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/NKC8uoX2w0GyABmyRza6UWGtN7CLEmP5IDBb1QonyqA/rs:fit/g:sm/q:90/h:803/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTM1LTE1NjA2ODg5/MjUtMjI1Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Blues Rock"]
 ---
@@ -38,19 +43,18 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 
 <!-- section break -->
 
+<br>
 
 
-
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 ](https://www.discogs.com/release/13767535-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-1-) |
-| Label          | Sony Music |
 | Format         | Vinyl LP (Red ), Vinyl LP (White ), All Media Compilation Limited Edition |
+| Label          | Sony Music |
 | Catalog Number | 88985486441 |
 | Notes | Limited 500 copies in a gatefold sleeve. |
+| Discogs URL    | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 ](https://www.discogs.com/release/13767535-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-1-) |

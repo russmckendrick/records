@@ -10,6 +10,12 @@ cover:
     image: "mr-beast-15504582.jpg"
     alt: "Mr Beast by Mogwai"
     caption: "Mr Beast by Mogwai"
+additional_images:
+    - "https://i.discogs.com/Bcb44ZCSYdj6V3iHyRd454Yx8a2Qi-HeQp7rDrOQm8E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI3NTAz/MzMtMTM3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/OIrwkQN9PP1upnRDEyazjnfRTtByylDWmu6u0pzHamM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI3NTAz/MzMtMTcwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/9wgrNhtMlNsPO69aamWfKeU04t2jkvkywPE523KyQeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI2NDk4/NTktMjg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/kU0FCltLpXuC5EgsUQB7LL58rfyPUxbcFurODTNW8ik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI3NTAz/MzItMTgyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/gmgFlS810JcdNoUfiKfav5ervPGudMVGLpUsQQovaD8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI3NTAz/MzItMTg3OC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock"]
 ---
@@ -31,32 +37,26 @@ styles: ["Art Rock", "Post Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-beast/122960260" >}}
-
-
-
-
-
 ## Videos
 ### Mogwai Auto Rock @ Les Nuits De Fourvière 2014
 {{< youtube id="5uyznyJQFI0" title="Mogwai Auto Rock @ Les Nuits De Fourvière 2014" >}}<br>
-
 ### More Videos
 
 - [Mogwai - Travel Is Dangerous (Official Video - 2006)](https://www.youtube.com/watch?v=BqXv_7j3Ryc)
 - [Mogwai - Friend of the Night](https://www.youtube.com/watch?v=yC_3alnTE9g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Mogwai - Mr Beast](https://www.discogs.com/release/15504582-Mogwai-Mr-Beast) |
-| Label          | [PIAS] Recordings |
 | Format         | Vinyl LP (Yellow Transparent), Vinyl LP Single Sided Etched (Yellow Transparent), All Media Album Limited Edition |
+| Label          | [PIAS] Recordings |
 | Catalog Number | PIASX062DLP |
 | Notes | Special release for Love Record Store Day 2020. Limited to 700 copies. |
+| Discogs URL    | [Mogwai - Mr Beast](https://www.discogs.com/release/15504582-Mogwai-Mr-Beast) |

@@ -10,6 +10,11 @@ cover:
     image: "soft-metal-it-ain-t-heavy-1205378.jpg"
     alt: "Soft Metal - It Ain't Heavy . . .  by Various"
     caption: "Soft Metal - It Ain't Heavy . . .  by Various"
+additional_images:
+    - "https://i.discogs.com/wRYbnmJIriQ6BCbZ2CVMiXVyIjc4Uia-pg2TYxH_SUA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/NzgtMTY1OTcyMTc1/OS02NjE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/j3b0JWJNqY2fJ7rmi0iQUMtmY90eztoSz0ItISzqFrc/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/NzgtMTY1OTcyMTc2/NC03MzA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/DOCB-GIdQLa84scHQcWPdd5e0B1tvsggEfK4OpAwogc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/NzgtMTI5OTkwOTkx/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Jzo5xPziGxlvkES-PilGf5kq9Hr8YCACBwKVY8FY-bo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/NzgtMTI5OTkwOTkx/Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
@@ -39,16 +44,10 @@ styles: ["Soft Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Heart - Alone
 {{< youtube id="1Cw1ng75KP0" title="Heart - Alone" >}}<br>
-
 ### More Videos
 
 - [Marillion - Kayleigh](https://www.youtube.com/watch?v=pQCu8Jp9iwM)
@@ -69,13 +68,15 @@ styles: ["Soft Rock"]
 - [Survivor - Burning Heart](https://www.youtube.com/watch?v=Kc71KZG87X4)
 - [John Parr - St Elmo's Fire  (Man In Motion)](https://www.youtube.com/watch?v=EOvMpND2OZY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1988                                   |
-| Discogs Link   | [Various - Soft Metal - It Ain't Heavy . . . ](https://www.discogs.com/release/1205378-Various-Soft-Metal-It-Aint-Heavy--) |
-| Label          | Stylus Music |
 | Format         | Vinyl LP Compilation Stereo |
+| Label          | Stylus Music |
 | Catalog Number | SMR 862 |
 | Notes | Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix Track A9 - Europe - The Final Countdown is the Album Version Track B1 - Starship - We Built This City is the Album Version Track B6 - Krokus - Screaming In The Night is a Live Version.  Durations do not appear on this release. Timings via stopwatch. |
+| Discogs URL    | [Various - Soft Metal - It Ain't Heavy . . . ](https://www.discogs.com/release/1205378-Various-Soft-Metal-It-Aint-Heavy--) |

@@ -10,6 +10,13 @@ cover:
     image: "deserter-s-songs-12865243.jpg"
     alt: "Deserter's Songs by Mercury Rev"
     caption: "Deserter's Songs by Mercury Rev"
+additional_images:
+    - "https://i.discogs.com/JmAiJsZ3joOwQz94piZfjumLmIpVLmeW-YDef_C1M58/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjQzLTE1NDM2MDgy/MzgtOTk5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Lp8QR_8lX6AtIKpG0NXnKvbPb-YI3Otsu0VKxudHFiU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjQzLTE1NDM2MDgy/MzgtNTgyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/uK66lqDEm8n_UePogfJpHLqInheg5DvtF6iYGp9Y_fg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjQzLTE1NDQ5Mjcw/MzUtMjI2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/pzZko1sHLbpyWhjS-6eT5G-QL0nzbRchnqGus_m17y4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjQzLTE1NDQ5Mjcw/MjYtMTMyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/bbvYcS5SyuiDIK-_WY3v60RHV0a-TB6w25LNFPLJrNM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjQzLTE1NDU0MTE1/OTItNjA5My5qcGVn.jpeg"
+    - "https://i.discogs.com/L22FCRVKWoQ9oPt-tYngr6MteZv2KzlDkj8qW9jnb1k/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY1/MjQzLTE1NDU0MTE1/OTItMzM1My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
@@ -32,20 +39,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deserters-songs-remastered/1523531674" >}}
-
-
-
-
-
 ## Videos
 ### Holes
 {{< youtube id="B7EyfGpV094" title="Holes" >}}<br>
-
 ### More Videos
 
 - [Tonite It Shows](https://www.youtube.com/watch?v=12_kW1d-VTQ)
@@ -59,12 +58,14 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 - [Pick Up If You're There](https://www.youtube.com/watch?v=FLCfMxO60N8)
 - [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Mercury Rev - Deserter's Songs](https://www.discogs.com/release/12865243-Mercury-Rev-Deserters-Songs) |
-| Label          | Excelsior Melodies |
 | Format         | Vinyl LP Album Reissue Remastered |
+| Label          | Excelsior Melodies |
 | Catalog Number | EXM-309 |
+| Discogs URL    | [Mercury Rev - Deserter's Songs](https://www.discogs.com/release/12865243-Mercury-Rev-Deserters-Songs) |

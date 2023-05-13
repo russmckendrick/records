@@ -10,6 +10,13 @@ cover:
     image: "dead-cities-18313399.jpg"
     alt: "Dead Cities by The Future Sound Of London"
     caption: "Dead Cities by The Future Sound Of London"
+additional_images:
+    - "https://i.discogs.com/FQHgALMFgyfvPc6LCSs4nnplRGSqtRwBzuvJOaLp7zY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEz/Mzk5LTE2MjI2MjI2/OTMtMzIyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/NyQsLb4zntfelzI6sqPeFx1rpLMhKx2vpmD8ZO5PXsk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEz/Mzk5LTE2MTk0NjMx/MTEtODY3OS5wbmc.jpeg"
+    - "https://i.discogs.com/z0jrbsgmRzWw8XB1ykWOy59dCOi5WY677UT-tgJ6834/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEz/Mzk5LTE2MTk0NjMx/MjQtODYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/GNGMe1eASE334Drns5ePhx1fWJTvR1srWJRITIpl2_o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEz/Mzk5LTE2MTk0NjMx/NTItODcxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/AuExe6_mN3Am9eASxzNnrUKF4FdC9MDqRYLxBbeNMKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEz/Mzk5LTE2MjIzNTU1/MjEtNTY0My5qcGVn.jpeg"
+    - "https://i.discogs.com/bbgFaahv6nbsdeH88zzhwdArvHJSFI66WOpS270e-2A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEz/Mzk5LTE2MzU1MjU4/MjAtNDYxOS5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ---
@@ -34,20 +41,12 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dead-cities/714769679" >}}
-
-
-
-
-
 ## Videos
 ### Future Sound Of London - Dead Cities (Official Video)
 {{< youtube id="1lTseaEvDSQ" title="Future Sound Of London - Dead Cities (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Dead Cities](https://www.youtube.com/watch?v=LMK9z5jyKbQ)
@@ -74,13 +73,15 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 - [The Future Sound Of London  ISDN](https://www.youtube.com/watch?v=wvCILJjTlnI)
 - [FSOL - Dead Cities Full Album 1996](https://www.youtube.com/watch?v=WrfYrxvnvzI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2021                                   |
-| Discogs Link   | [The Future Sound Of London - Dead Cities](https://www.discogs.com/release/18313399-The-Future-Sound-Of-London-Dead-Cities) |
-| Label          | Virgin |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Label          | Virgin |
 | Catalog Number | 3537463 |
 | Notes | Comes with a [url=https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008]free digital download[/url] code redeemable at [l1052727].  Gatefold cover.  Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print. |
+| Discogs URL    | [The Future Sound Of London - Dead Cities](https://www.discogs.com/release/18313399-The-Future-Sound-Of-London-Dead-Cities) |

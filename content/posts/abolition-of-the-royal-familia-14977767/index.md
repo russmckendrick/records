@@ -11,6 +11,22 @@ cover:
     image: "abolition-of-the-royal-familia-14977767.jpg"
     alt: "Abolition Of The Royal Familia by The Orb"
     caption: "Abolition Of The Royal Familia by The Orb"
+additional_images:
+    - "https://i.discogs.com/HWcyErfTepsNnRISd804nusOxHxiyyZ5Tp9xuJaVR10/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/MDEtNTI3My5qcGVn.jpeg"
+    - "https://i.discogs.com/OTgWjrp4FULv9V0-YjXqqa_jCFJJCLM9-WvwMkSgZaQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MTAtMzIxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/oQcNcx4z-H_IiM5mwaLRvlAsKIBOHqPH9Aayk4wFBio/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MDktODcwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/ihgI3d8p8UyIgNteOZ1JZnKGnXj2Mv6uQCJtrZn45LA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/MTktOTc2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/c3aXIsjMusEyJsE7WDCCaaNQiOp2iC3ELOyCqsiP-PI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/MzAtNDAwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ACyz_WNWwNdvJmGgZA2EyIkiO3m_NlRtKv587gyR41M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/MzUtNjk3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/S8nMSWFo86_H8mo013VnwLZ5sgY8RbzhXgF-UzsZX-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/NDAtMzMzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/JGhATvU1k4lDvD7KWAADFJvKS-p8bdi5DqVI3dOe_wA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/NDUtOTczMC5qcGVn.jpeg"
+    - "https://i.discogs.com/mC2IZvQMtW45WHbsXfL19sUFsfMfSeVBbrqfjIjZ15U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1ODk3MDky/NTctNjA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/zz2vw2mFFD-88YR441EhwDg0AYUfdwll5QLGU6w0FSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MDgtODg5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/WayyfbRYp5nq_0vYQ6MBVwP6vfe34LuqLOSD2G3CPho/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MDgtODg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/MolsEEapoQO2D3OyDdHLmj4wFKtZ3vsBA1GoqTf2FQ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MDgtMTE2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/XYTOqo2VaBEZg21zm0UNjCuAFdBWZthe4jmQHJrts2Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MDgtNjU2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/DLVmVSwFEKU85hGKIiuRiMUtbGKfXBC8WDwoxjq5EmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUy/MTAtMjY1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/IfR1Vk8xsL9eHGnd5n0eZd7QSC-oaz8R4AFwT_4NBIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/NzY3LTE1OTAzMzUz/NDYtNzE2OC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
@@ -34,22 +50,13 @@ styles: ["Ambient", "House"]
 
 <!-- section break -->
 
-
 Between the album title and the cover art, you might expect that The Orb’s <i>Abolition of the Royal Familia</i> advocates for insurrection. But the reality of the record, a companion to 2018’s <i>No Sounds Are Out of Bounds</i>, is more complicated. For all their implicit critique of the British monarchy, Alex Paterson and his fellow pranksters (including long-time comrades Youth, Steve Hillage and Roger Eno) mainly occupy themselves as they always have, moulding ambient, dub and house into voluminous shapes the colour and texture of cotton candy. It all kicks off with a surprisingly groove-heavy opening, as the gauzy disco of “Daze (Missing & Messed Up Mix)” gives way to the heavier “House of Narcotics (Opium Wars Mix)” and then the peak-time house of “Hawk Kings (Oseberg Buddhas Buttonhole)”. But the bulk of the album is as beatifically supine as The Orb have ever sounded. “Afros, Afghans and Angels (Helgö Treasure Chest)” is a pastel snapshot of easy-listening orchestra; “Shape Shifters (In Two Parts) [Coffee & Ghost Train Mix]” morphs from jazzy new age into moonwalking reggae. Even the closing “Slave Till U Die No Matter What U Buy”, an ambient remake of Jello Biafra’s “Message From Our Sponsor”, is dreamy rather than dread-filled. The Orb have always known how to channel even the zaniest impulses into compellingly psychedelic music; on <i>Abolition of the Royal Familia</i>, their gallows humour sounds deceptively sweet.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia/1489955235" >}}
-
-
-
-
-
 ## Videos
 ### The Orb - Daze (Missing & Messed Up Mix) Official Video
 {{< youtube id="_uUhsZHmwtE" title="The Orb - Daze (Missing & Messed Up Mix) Official Video" >}}<br>
-
 ### More Videos
 
 - [The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)](https://www.youtube.com/watch?v=8tPHdqP3xVU)
@@ -74,13 +81,17 @@ Between the album title and the cover art, you might expect that The Orb’s <i>
 - [Shape Shifting Part 2 in Dub (Pitter Patter in Batter See Version Excursion)](https://www.youtube.com/watch?v=2Dd7UuTs8-I)
 - [Say Cheese in Dub (Smile You're on Cctv)](https://www.youtube.com/watch?v=Y9KMOPEg3c8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [The Orb - Abolition Of The Royal Familia](https://www.discogs.com/release/14977767-Orb-Abolition-Of-The-Royal-Familia) |
-| Label          | Cooking Vinyl |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Abolition_of_the_Royal_Familia |
+| Wikipedia Summary | Abolition of the Royal Familia is the sixteenth studio album by English ambient house duo the Orb. The album was released on 27 March 2020 via Cooking Vinyl. It includes contributions from Youth, Roger Eno, Gaudi, David Harrow, and Steve Hillage and Miquette Giraudy (System 7). |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
+| Label          | Cooking Vinyl |
 | Catalog Number | COOKLP757XX |
 | Notes | Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.  On spine: COOKLP757 On sticker on back jacket: COOKLP757XX |
+| Discogs URL    | [The Orb - Abolition Of The Royal Familia](https://www.discogs.com/release/14977767-Orb-Abolition-Of-The-Royal-Familia) |

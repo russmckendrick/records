@@ -10,6 +10,7 @@ cover:
     image: "4-000-weeks-holiday-8396748.jpg"
     alt: "4.000 Weeks' Holiday by Ian Dury And The Music Students"
     caption: "4.000 Weeks' Holiday by Ian Dury And The Music Students"
+additional_images:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Disco"]
 ---
@@ -31,16 +32,10 @@ styles: ["Leftfield", "Disco"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk
 {{< youtube id="t03qMYuBpOY" title="IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk" >}}<br>
-
 ### More Videos
 
 - [Ian Dury - Ban The Bomb](https://www.youtube.com/watch?v=EV6s5Ol5GeI)
@@ -48,12 +43,14 @@ styles: ["Leftfield", "Disco"]
 - [Your My Inspiration Ian Dury](https://www.youtube.com/watch?v=Vw-88GgxY4Y)
 - [Ian Dury - The Man With No Face](https://www.youtube.com/watch?v=4PtZAmpzD1w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Ian Dury And The Music Students - 4.000 Weeks' Holiday](https://www.discogs.com/release/8396748-Ian-Dury-And-The-Music-Students-4000-Weeks-Holiday) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Demon Records |
 | Catalog Number | DEMREC59 |
+| Discogs URL    | [Ian Dury And The Music Students - 4.000 Weeks' Holiday](https://www.discogs.com/release/8396748-Ian-Dury-And-The-Music-Students-4000-Weeks-Holiday) |

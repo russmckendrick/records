@@ -10,6 +10,10 @@ cover:
     image: "santana-s-greatest-hits-11498676.jpg"
     alt: "Santana's Greatest Hits by Santana"
     caption: "Santana's Greatest Hits by Santana"
+additional_images:
+    - "https://i.discogs.com/RhtfTrtor-dau1HWYXwmaY1ozoFYzVUQmwexBFqfr3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/Njc2LTE1MTgzNjE2/MzktMzMxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/wrbs-zS6HgBk9LwkNX2LbL314tLwQuwYag9fs4e-PlE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/Njc2LTE1MTgzNjE3/MDYtMTAyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/TQG2D4iegk5M2NSagF3A5Y0geeo-XFY_FC3u1bFsgxc/rs:fit/g:sm/q:90/h:504/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/Njc2LTE1MTgzNjE3/NjQtNjEyMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
@@ -31,20 +35,12 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}
-
-
-
-
-
 ## Videos
 ### Santana. Samba Pa Ti
 {{< youtube id="WzSayxVM_E0" title="Santana. Samba Pa Ti" >}}<br>
-
 ### More Videos
 
 - [Santana - Black Magic Woman (Official Audio)](https://www.youtube.com/watch?v=9wT1s96JIb0)
@@ -64,12 +60,14 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 - [Carlos Santana Very Best Nonstop Playlist - Carlos Santana Greatest Hits Full Album](https://www.youtube.com/watch?v=iOrhaXaVYu0)
 - [Evil Ways](https://www.youtube.com/watch?v=lR4ZjMVHCuM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Santana - Santana's Greatest Hits](https://www.discogs.com/release/11498676-Santana-Santanas-Greatest-Hits) |
-| Label          | Columbia |
 | Format         | Vinyl LP Compilation Reissue |
+| Label          | Columbia |
 | Catalog Number | 88985446151 |
+| Discogs URL    | [Santana - Santana's Greatest Hits](https://www.discogs.com/release/11498676-Santana-Santanas-Greatest-Hits) |

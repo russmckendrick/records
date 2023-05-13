@@ -10,6 +10,23 @@ cover:
     image: "confessin-the-blues-12774929.jpg"
     alt: "Confessin' The Blues by Various"
     caption: "Confessin' The Blues by Various"
+additional_images:
+    - "https://i.discogs.com/D4_pppaIIM2ovqa_NlCt6IOmDsgwQ7SnjDGUk-C4deQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NDE3MDEy/NDEtMzQ1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/H1OlfiBuRZcjTBd_bLsrZM1nbxQCD065F9HKnGXc0ic/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MTYtNDkxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/w2DWuZDq4blr82YT1VWBsQIzcZKxbWXu4xC42wUiX-w/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MDYtNDcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/Cvv1Kjk34M-2AiSkEi6b1nNsbG1KWmMG8wTkX9Y-Umc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MTUtMzA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/GtAAY-6QbHFejfiEmaM8iPTzPIzEJHP1s4EW3E5U_7g/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MjAtNjUyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/L5-Abhm9l36Kqrs8TqZKr7VJroHWaQQjJ_mNIf9KFsE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MDYtNDQ0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/5FTp4OoXVPG6pksTdiLzdKiqOPyrOpled58yjWATS40/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MDUtODg4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/MB_YBBvG9HvFoAcgMcdaKlBAcYLxe6WzKkxTu2gkYOY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MjItNzY1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/1NqhSjkbTOJ368LCdNUImQKGJL6slJml4YQiCAp95ww/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MjMtNTcxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/6UIJADg42Mf6f3tOs1GCPxNryno0TQ7QK3nKpY2tQ0Q/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MjgtODgxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/LlW6iZh8S-XCP8Pa25wYUQ_kfTnZLE7eaDwb0ieUvi8/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MzYtMTcwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/kp03ymHHhvX9aaNk86AoNaLzR7bn5om_eh1fDVm54K0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MzQtMTY2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/yMF6_yxoQdmUgSc-uYhhaxve-WgBkHqWsfr48q6bW2c/rs:fit/g:sm/q:90/h:507/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MzktNzY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/4p5jR1pDr_r1vFDuQx6LDLNtzeCiTEbHDt-8D76C_nU/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/MzctNjIxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/XuCdCI3QbuAvf35QVvhb121qtlV0oolYzZF66v4cTtQ/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/NDEtODM1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/qzXLJuRLwFAZsmz_RRYqK_ATpJKB7Ibq44HsBed64XQ/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTI5LTE1NTYwMjg1/NDAtOTQzNy5qcGVn.jpeg"
 genres: ["Blues"]
 styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Rock & Roll"]
 ---
@@ -63,30 +80,25 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="4BlStEiUW9o9mv8OHOdEsI" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### Confessin' the Blues (version de luxe) & Le Blues en 150 figures
 {{< youtube id="SCy_YxJmFX4" title="Confessin' the Blues (version de luxe) & Le Blues en 150 figures" >}}<br>
-
 ### More Videos
 
 - [Muddy Waters - Rollin' Stone (Catfish Blues)](https://www.youtube.com/watch?v=4T2hygHu8CI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Various - Confessin' The Blues](https://www.discogs.com/release/12774929-Various-Confessin-The-Blues) |
-| Label          | BMG |
 | Format         | Vinyl 5× 10" 33 ⅓ RPM Compilation, Box Set |
+| Label          | BMG |
 | Catalog Number | BMGCAT155EPX |
 | Notes | "The Blues. It's probably the most important thing that America has ever given to the World." - Keith Richards (on the back cover) "The Blues - The sound of a sinner on revival day." - W.C. Handy - the father of the blues (on the second page of the 40 pages inside book)  The box includes 5 x 10" vinyl, period inner sleeves, 6 x art cards, extended essay and iconic imagery of the blues legends.  On sticker on shrink: Original blues masterpieces hand picked and curated in collaboration with The Rolling Stones  Manufactured in the EU.  This compilation ℗ & © 2018 BMG Rights Management (UK) Limited / Universal Music Operations Ltd. |
+| Discogs URL    | [Various - Confessin' The Blues](https://www.discogs.com/release/12774929-Various-Confessin-The-Blues) |

@@ -10,6 +10,8 @@ cover:
     image: "you-can-t-argue-with-a-sick-mind-4953542.jpg"
     alt: "You Can't Argue With A Sick Mind by Joe Walsh"
     caption: "You Can't Argue With A Sick Mind by Joe Walsh"
+additional_images:
+    - "https://i.discogs.com/QUQaBto2tU8ILMJNAXdL-g8f-M-9YB8-1UeZlCbR6-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTM1/NDItMTQyMTM0MzYz/NC00NzUxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
@@ -27,22 +29,15 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/you-cant-argue-with-a-sick-mind/1422950082" >}}
-
-
-
-
-
 ## Videos
 ### Joe Walsh and Friends (1975)
 {{< youtube id="Ip82v3MAYyA" title="Joe Walsh and Friends (1975)" >}}<br>
-
 ### More Videos
 
+- [Joe Walsh - Walk Away - You Can't Argue With a Sick Mind, (March 1976)](https://www.youtube.com/watch?v=2QeqS4_uB9I)
 - [Rocky Mountain Way - Joe Walsh 4-track reel to reel tape](https://www.youtube.com/watch?v=w0R6MDm6S54)
 - [Joe Walsh - Rocky Mountain Way (Live)](https://www.youtube.com/watch?v=F1uWA7VPGiE)
 - [Joe Walsh 🇺🇲 - Rocky Mountain Way (live) - Vinyl You Can't Argue With A Sick Mind LP 🇺🇲 1976](https://www.youtube.com/watch?v=iKP8aIz8yX4)
@@ -60,13 +55,15 @@ styles: ["Classic Rock"]
 - [Meadows (Live)](https://www.youtube.com/watch?v=D6a4RY76V0g)
 - [Turn To Stone](https://www.youtube.com/watch?v=piWs3y443-A)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 0                                   |
-| Discogs Link   | [Joe Walsh - You Can't Argue With A Sick Mind](https://www.discogs.com/release/4953542-Joe-Walsh-You-Cant-Argue-With-A-Sick-Mind) |
-| Label          | MCA Records |
 | Format         | Vinyl LP Album Reissue |
+| Label          | MCA Records |
 | Catalog Number | MCL-1613 |
 | Notes | Originally released 1976 |
+| Discogs URL    | [Joe Walsh - You Can't Argue With A Sick Mind](https://www.discogs.com/release/4953542-Joe-Walsh-You-Cant-Argue-With-A-Sick-Mind) |

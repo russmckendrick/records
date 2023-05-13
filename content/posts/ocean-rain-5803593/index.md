@@ -10,6 +10,8 @@ cover:
     image: "ocean-rain-5803593.jpg"
     alt: "Ocean Rain by Echo & The Bunnymen"
     caption: "Ocean Rain by Echo & The Bunnymen"
+additional_images:
+    - "https://i.discogs.com/PUeOEJsur4iNfluSHprwfSyQDkVpK503f5zz4gPI5lQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDM1/OTMtMTUwNjEyODk3/OS04MTY1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
@@ -30,20 +32,12 @@ styles: ["New Wave", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ocean-rain-expanded-version/184690028" >}}
-
-
-
-
-
 ## Videos
 ### Silver
 {{< youtube id="sQ_QRK_iWrk" title="Silver" >}}<br>
-
 ### More Videos
 
 - [Nocturnal Me](https://www.youtube.com/watch?v=Pu5PWfFmI4I)
@@ -56,13 +50,15 @@ styles: ["New Wave", "Indie Rock"]
 - [Ocean Rain](https://www.youtube.com/watch?v=p_AsT8Ney4A)
 - [ECHO & THE BUNNYMEN - Killing Moon - Lyrics for Fun Scenes and Full Moon](https://www.youtube.com/watch?v=prd9RX-fW2g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |
-| Label          | Korova |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Korova |
 | Catalog Number | VIN180LP075 |
 | Notes | 2014 Repressing in Black Vinyl |
+| Discogs URL    | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |

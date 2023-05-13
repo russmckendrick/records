@@ -10,6 +10,12 @@ cover:
     image: "house-of-pain-fine-malt-lyrics-24012683.jpg"
     alt: "House Of Pain (Fine Malt Lyrics) by House Of Pain"
     caption: "House Of Pain (Fine Malt Lyrics) by House Of Pain"
+additional_images:
+    - "https://i.discogs.com/Sl22SNGl-T8ExKnPw8ZCV2dlNo5jgpLMSdTsH6sqlzM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTg5NDcz/MTItNTU4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/bQgez1tcpu8ch0s8h5W30-gBigQYlqBA4NfyC-CbREo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTkwMzY4/MTQtNzY3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/DOy2jfDYm37zBXP2H-NUYiL0OZOZfXvZgEdtwO0Lt3k/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NTQtMTUyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/GsNhUv-N0vvS48y33iot4FVN50OUiRGh769PYnEMVH0/rs:fit/g:sm/q:90/h:652/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NjEtNjIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/ObuQnscv0yo-pvE2WNwolD6wsmE9Yto6Vjg_yLdwJtA/rs:fit/g:sm/q:90/h:638/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NjctODE1Mi5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ---
@@ -43,20 +49,12 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159" >}}
-
-
-
-
-
 ## Videos
 ### House of Pain - Jump Around (Official Music Video)
 {{< youtube id="XhzpxjuwZy0" title="House of Pain - Jump Around (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [House Of Pain - Life Goes On](https://www.youtube.com/watch?v=oR3gM8PhRRQ)
@@ -67,13 +65,15 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 - [House Of Pain - One For the Road](https://www.youtube.com/watch?v=3wSKzP4xhDc)
 - [House Of Pain - Top O' The Morning To Ya](https://www.youtube.com/watch?v=Fu7a9lADJ0g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [House Of Pain - House Of Pain (Fine Malt Lyrics)](https://www.discogs.com/release/24012683-House-Of-Pain-House-Of-Pain-Fine-Malt-Lyrics) |
-| Label          | Tommy Boy |
 | Format         | Vinyl LP (Orange), Vinyl LP (White), All Media Album Deluxe Edition Limited Edition Numbered Reissue Remastered |
+| Label          | Tommy Boy |
 | Catalog Number | TB-5184-1 |
 | Notes | Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl. Numbered edition of 6500. Comes with a jump rope. |
+| Discogs URL    | [House Of Pain - House Of Pain (Fine Malt Lyrics)](https://www.discogs.com/release/24012683-House-Of-Pain-House-Of-Pain-Fine-Malt-Lyrics) |

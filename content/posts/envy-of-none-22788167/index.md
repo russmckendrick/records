@@ -11,6 +11,15 @@ cover:
     image: "envy-of-none-22788167.jpg"
     alt: "Envy Of None by Envy Of None"
     caption: "Envy Of None by Envy Of None"
+additional_images:
+    - "https://i.discogs.com/nKxibG9eyiaR96UajOhJfRak0KM_vFv8kmMFPzIhGbw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTctMTE2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/fkfb5HTXf-7dYtvWEbcgB5BP1MqzB2VszCY3ptU3Tfo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTctMTY1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/IWoEeK0f8FCIG1deT2DVUfsqmU64nklcWOcbcOMNOjI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTUtODA3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/nOTL49Tdwj3-888F7p4TzPcQcbUu8wJA8YlJGyyJy-I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTgtODI1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/_sTkniHxEKAzj62FAsqHFSXaXrtZg5C71e9rkuei_Rc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTUtNDIxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/KpL-JHu7edwVFInH6GYD71N2goJgo_EjGRvSTrLlUuw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTctNDc1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/655XaaOUSXueLZXprhiOWU4C4pLvTJiHoMsnSEiHEoo/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTgtODc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/gktpwsYrVbz7FWUEbE5xE3tbEouzY4KGn2OHPYR6gEw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTYtNDE3Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
@@ -32,7 +41,6 @@ styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 11. Western Sunset
 
 <!-- section break -->
-
 
 For his first post-Rush album project, guitar wizard Alex Lifeson has teamed up with bassist Andy Curran of veteran Canadian rockers Coney Hatch, producer Alfio Annibalini (Voivod/Sons of Otis) and beguiling young singer Maiah Wynne to form Envy of None. The group’s self-titled debut is a true collaborative effort featuring deep electronic textures, dreamy alt-rock and a poignant tribute to Lifeson’s late, great friend and bandmate Neil Peart. Just don’t expect any of it to sound like Rush. “I was in Rush for 45 years, but I have a lot of other musical ideas,” Lifeson tells Apple Music. “Working with a different set of people who are great musicians and great songwriters was a rewarding experience. I was able to create the type of soundscapes and character in the guitar that was very non-guitarlike.” Below, Lifeson and Curran discuss each track. 
  
@@ -68,20 +76,12 @@ Lifeson: “Maiah’s performance is so amazing on this. It melts me every time 
  
 <b>“Western Sunset”</b>
 Lifeson: “This is difficult to talk about because I wrote the song around the time we heard of Neil’s illness. We all spent time with him, and one day I was on his patio, watching the sunset. It was a very serene, calm moment in the middle of this terrible news, and it struck me that with the sun setting and bringing closure to the day, it became this poignant moment we were sharing. As a closer for the album, it also gives you a chance to catch your breath and digest everything you just listened to. I immediately think of Neil when I hear the song, and it actually makes me feel good. That kind of thing is an important part of recovering from the loss of someone that you love so much.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/envy-of-none/1599578868" >}}
-
-
-
-
-
 ## Videos
 ### Never Said I Love You
 {{< youtube id="Yp8q2mMoa7k" title="Never Said I Love You" >}}<br>
-
 ### More Videos
 
 - [Shadow](https://www.youtube.com/watch?v=QF-NhLJ5bnU)
@@ -96,13 +96,17 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 - [Western Sunset](https://www.youtube.com/watch?v=VeQqcaZm5ws)
 - [Western Sunset - Envy of None - A Tribute to Neil Peart](https://www.youtube.com/watch?v=avToblb8HkY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
-| Discogs Link   | [Envy Of None - Envy Of None](https://www.discogs.com/release/22788167-Envy-Of-None-Envy-Of-None) |
-| Label          | Kscope |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Envy_of_None |
+| Wikipedia Summary | Envy of None (abbreviated as EON) is a Canadian-American rock supergroup formed in 2021 by former Rush guitarist Alex Lifeson, along with bassist Andy Curran, vocalist Maiah Wynne, and guitarist and keyboardist Alfio Annibalini. Their self-titled studio album was released on April 8, 2022. |
+    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
+| Label          | Kscope |
 | Catalog Number | 1164 |
 | Notes | Catalogue number appears on a sticker only Comes with an inner sleeve and an advertising sheet. '1+' and '3+' in runouts appear backwards (mirror image). Runouts are etched. |
+| Discogs URL    | [Envy Of None - Envy Of None](https://www.discogs.com/release/22788167-Envy-Of-None-Envy-Of-None) |

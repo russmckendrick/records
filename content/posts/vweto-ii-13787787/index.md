@@ -10,6 +10,11 @@ cover:
     image: "vweto-ii-13787787.jpg"
     alt: "Vweto II by Georgia Anne Muldrow"
     caption: "Vweto II by Georgia Anne Muldrow"
+additional_images:
+    - "https://i.discogs.com/AWCA450o4l340mn2uymWGAwS4621lSbDO9rDwu5qmD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjExMzE0/MTQtMjA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/u5HylPNZMnNTUVncMCd2_OnYm5JdUtCRIXvBWw3iOlk/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MjMtNzgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/FeZSHalDBbCuFX_LWtEbzFreoWZEuYx0uHsrg01HQxY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MjctODIwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/mDg0NTzHNZ7Ik4su469zOgoauUwJThiXdqC10nAjcOQ/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MzAtNTI5Mi5qcGVn.jpeg"
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
@@ -37,20 +42,12 @@ styles: ["Instrumental", "Funk"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vweto-ii/1456010351" >}}
-
-
-
-
-
 ## Videos
 ### Brokenfolks
 {{< youtube id="oJabLChQ8Bs" title="Brokenfolks" >}}<br>
-
 ### More Videos
 
 - [GEORGIA ANNE MULDROW - BIG MAMA AFRICA JAM](https://www.youtube.com/watch?v=jxbEScphfOs)
@@ -70,12 +67,14 @@ styles: ["Instrumental", "Funk"]
 - [Wu Punk](https://www.youtube.com/watch?v=j33VtKOYTLU)
 - [Mary Lou's Motherboard](https://www.youtube.com/watch?v=qaxYIPhdqp0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Georgia Anne Muldrow - Vweto II](https://www.discogs.com/release/13787787-Georgia-Anne-Muldrow-Vweto-II) |
-| Label          | Mello Music Group |
 | Format         | Vinyl LP Album (Black & Green Split Color) |
+| Label          | Mello Music Group |
 | Catalog Number | MMG-000132-1 |
+| Discogs URL    | [Georgia Anne Muldrow - Vweto II](https://www.discogs.com/release/13787787-Georgia-Anne-Muldrow-Vweto-II) |

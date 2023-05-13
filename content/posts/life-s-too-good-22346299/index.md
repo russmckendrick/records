@@ -10,6 +10,13 @@ cover:
     image: "life-s-too-good-22346299.jpg"
     alt: "Life's Too Good by The Sugarcubes"
     caption: "Life's Too Good by The Sugarcubes"
+additional_images:
+    - "https://i.discogs.com/QDHoPej93gmMVvuL0IN6wzxw6WquNvK_FpSOZw0xsB8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDYxNDA3/NTEtNzk2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/eZhES0iAK5HY12NgDb9vQv43M0UOVY71tnqV1KeSB40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDYxNDA3/NTAtNTIxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/KafTsLuRrmp6iAZCWso0ujlWHNm2HeAp7pjbgXC3Tx0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDYxNDA3/NDgtODkzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/1wL2fkgc4_OUlwuSKfvOq9VWzdw-5oMPoGm4uzpt9go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDYxNDA3/NDgtMjIzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/qFpExmf5buJ-czI9nR5oVJNPJMduv1gsz9HMj66OWn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDk5ODQ2/ODAtMzgwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/EP4dEiu_ARWxedIMgnXSK1-hOSO5fkkYhJpuyZxiLrs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDk5ODQ2/ODEtNjMyOC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
@@ -32,20 +39,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1536988611" >}}
-
-
-
-
-
 ## Videos
 ### Traitor
 {{< youtube id="xAb5-GDu3uE" title="Traitor" >}}<br>
-
 ### More Videos
 
 - [Motor Crash](https://www.youtube.com/watch?v=yl3IOefc82M)
@@ -59,13 +58,15 @@ styles: ["Indie Rock"]
 - [F***ing In Rhythm And Sorrow](https://www.youtube.com/watch?v=Zida7dnffkM)
 - [Take Some Petrol Darling](https://www.youtube.com/watch?v=zmSH84SYbcI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [The Sugarcubes - Life's Too Good](https://www.discogs.com/release/22346299-The-Sugarcubes-Lifes-Too-Good) |
-| Label          | One Little Independent Records |
 | Format         | Vinyl LP Album Limited Edition Reissue (Pink) |
+| Label          | One Little Independent Records |
 | Catalog Number | tplp5 |
 | Notes | Limited edition of 500 copies.  Comes with a Rough Trade Essential Edition obi and a barcode sticker on the plastic seal on the back.  The labels still show the track numbers of the original release (side A as 1-5 and side B as 6-10), with track B6 not mentioned on release, as with all previous releases.  From back sleeve: warmest thanks to frikki por his input. welcome to melax. recorded at: studio syrland, reykjavik. berry st. studios, london. orinocco studios, london.  Made in England. |
+| Discogs URL    | [The Sugarcubes - Life's Too Good](https://www.discogs.com/release/22346299-The-Sugarcubes-Lifes-Too-Good) |

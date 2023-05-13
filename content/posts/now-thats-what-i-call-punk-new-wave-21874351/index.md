@@ -10,6 +10,13 @@ cover:
     image: "now-thats-what-i-call-punk-new-wave-21874351.jpg"
     alt: "Now That’s What I Call Punk & New Wave by Various"
     caption: "Now That’s What I Call Punk & New Wave by Various"
+additional_images:
+    - "https://i.discogs.com/nmFZYlTrL9D1wyJtTorhexPcglhEBI76p7cB4nHkdQ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODc0/MzUxLTE2NDMwNTU0/OTUtNzY3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/KJjQvIzr40kz4FaFODBR3QbJsBfkHwFfYCD_Bsr-wGM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODc0/MzUxLTE2NDMxMTQy/NjAtMzQ5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/6INd0Pv2dGN7sHeB4-BJjusoge0fWBX_uXS5uU0gaME/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODc0/MzUxLTE2NDMxMTQy/NzEtODM4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/h7JvYVxlR2YApmW1wNj_0RcEoy0OedXatO7i2_GaFPA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODc0/MzUxLTE2NDMxMTQy/NzgtMzk5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/2x2LGcAW5-L1O-ffy1Y1MOtPev8i1EXAeWGDe7PXORg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODc0/MzUxLTE2NDMxMTQy/ODMtNDMzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/j2mQ3y_NFbAH6RM5Ustf5Rk_bA02pO0xIRCGVMH9Mgk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODc0/MzUxLTE2NDMxMTQy/OTEtNTY3NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk"]
 ---
@@ -55,16 +62,10 @@ styles: ["New Wave", "Punk"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### The Flying Lizards - Money
 {{< youtube id="E-P2qL3qkzk" title="The Flying Lizards - Money" >}}<br>
-
 ### More Videos
 
 - [NOW That's What I Call Punk & New Wave Artwork & Official Tracklist!](https://www.youtube.com/watch?v=TQb_AcW_cZw)
@@ -77,12 +78,14 @@ styles: ["New Wave", "Punk"]
 - [The Undertones - Teenage Kicks (Official Video)](https://www.youtube.com/watch?v=PinCg7IGqHg)
 - [Buzzcocks - Ever Fallen In Love (With Someone You Shouldn’t’ve?) (TOTP, 1978)](https://www.youtube.com/watch?v=0Af7ayYIJ9w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Various - Now That’s What I Call Punk & New Wave](https://www.discogs.com/release/21874351-Various-Now-Thats-What-I-Call-Punk-New-Wave) |
-| Label          | Sony Music |
 | Format         | Vinyl 2× LP Compilation (Pink Translucent) |
+| Label          | Sony Music |
 | Catalog Number | LPNNNOW122 |
+| Discogs URL    | [Various - Now That’s What I Call Punk & New Wave](https://www.discogs.com/release/21874351-Various-Now-Thats-What-I-Call-Punk-New-Wave) |

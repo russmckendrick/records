@@ -10,6 +10,8 @@ cover:
     image: "the-euphoric-12012650.jpg"
     alt: "The Euphoric by The Fierce & The Dead"
     caption: "The Euphoric by The Fierce & The Dead"
+additional_images:
+    - "https://i.discogs.com/kil5FaHPmuA26Aib3CnwemAUwKE-Z8g8MUSe6JvrlxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEy/NjUwLTE1MjY1NTIy/OTktOTE5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -30,23 +32,20 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-euphoric/1370930459" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [The Fierce & The Dead - The Euphoric](https://www.discogs.com/release/12012650-The-Fierce-The-Dead-The-Euphoric) |
-| Label          | Bad Elephant Music |
 | Format         | Vinyl LP Album |
+| Label          | Bad Elephant Music |
 | Catalog Number | BEM058 |
 | Notes | The track list on the back cover does not indicate sides. Parts 7 & 8 are listed as individual tracks but they are actually one track. Times and the title for the index track are taken from the Bandcamp listing.   'The Euphoric' on 12" vinyl LP in a gatefold sleeve, plus a limited edition bonus CD featuring unreleased live tracks and demos, and an print of the album artwork.  The bonus CD and print are both signed and numbered, and in limited editions of 500.  |
+| Discogs URL    | [The Fierce & The Dead - The Euphoric](https://www.discogs.com/release/12012650-The-Fierce-The-Dead-The-Euphoric) |

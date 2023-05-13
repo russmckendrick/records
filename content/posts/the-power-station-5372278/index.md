@@ -10,6 +10,11 @@ cover:
     image: "the-power-station-5372278.jpg"
     alt: "The Power Station by The Power Station"
     caption: "The Power Station by The Power Station"
+additional_images:
+    - "https://i.discogs.com/UhcyCHRlfwUrbTPM3sF4NzalQla9QpU3NFO55e-g9dI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTAy/NC05MzYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/SJV9MUeCQY5_R2RyLVkjyChH4KXfrtc3H-rczFK6l_8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTA0/MC0xNzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/HzS-J1siN93i1RINHnminJ0ZzLDm5A3wDjoL4Z7lFhA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTA4/OS04NjI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/PJiUYmE-O-gdGipBS_pSfFE4t8cDqOKZp2DpVoU73mQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTEw/NC0yNDAyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -29,33 +34,27 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064" >}}
-
-
-
-
-
 ## Videos
 ### The Power Station - Some Like It Hot
 {{< youtube id="Hw1t7OCESUw" title="The Power Station - Some Like It Hot" >}}<br>
-
 ### More Videos
 
 - [Harvest for the World (2005 Remaster)](https://www.youtube.com/watch?v=08OhoybGUmw)
 - [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
 - [The Power Station - Get It On (Bang A Gong)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 0                                   |
-| Discogs Link   | [The Power Station - The Power Station](https://www.discogs.com/release/5372278-The-Power-Station-The-Power-Station) |
-| Label          | Fame |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Fame |
 | Catalog Number | FA 3206 |
 | Notes | Budget re-issue. |
+| Discogs URL    | [The Power Station - The Power Station](https://www.discogs.com/release/5372278-The-Power-Station-The-Power-Station) |

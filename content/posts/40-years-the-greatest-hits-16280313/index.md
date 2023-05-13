@@ -10,6 +10,8 @@ cover:
     image: "40-years-the-greatest-hits-16280313.jpg"
     alt: "40 Years: The Greatest Hits by Spandau Ballet"
     caption: "40 Years: The Greatest Hits by Spandau Ballet"
+additional_images:
+    - "https://i.discogs.com/Rfn5IT4uiw5mWgTzpY8xhImVex_A4A1RYfn0Z6bK6A8/rs:fit/g:sm/q:90/h:563/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/MzEzLTE2MDY4NDQ4/NjYtMTE3Mi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -40,28 +42,23 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}
-
-
-
-
-
 ## Videos
 ### Spandau Ballet - The Boxer
 {{< youtube id="2vBQJv5cudk" title="Spandau Ballet - The Boxer" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Spandau Ballet - 40 Years: The Greatest Hits](https://www.discogs.com/release/16280313-Spandau-Ballet-40-Years-The-Greatest-Hits) |
-| Label          | Parlophone |
 | Format         | Vinyl 2× LP Compilation (Red) |
+| Label          | Parlophone |
 | Catalog Number | 0190295200046 |
 | Notes | Released to celebrate the 40th Anniversary of the group. |
+| Discogs URL    | [Spandau Ballet - 40 Years: The Greatest Hits](https://www.discogs.com/release/16280313-Spandau-Ballet-40-Years-The-Greatest-Hits) |

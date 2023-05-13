@@ -11,6 +11,15 @@ cover:
     image: "pony-15159576.jpg"
     alt: "Pony by Orville Peck"
     caption: "Pony by Orville Peck"
+additional_images:
+    - "https://i.discogs.com/a_bjnG8ImJy9DPLvRyWiqxaIkRbIpfrPIFFU5fs2EXM/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE1ODc0NjIw/ODgtOTg2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/kFSHLLJspGEQaNtM10dx_P5DGIsvRTIdE8bfVw1a1Uc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDQtMTkzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/-lwxCI7SY97WHxSAH48xVi3LwkgsCp7QavU7ssnHQfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDMtODEzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/mNKSCkY8RsaiWd5jFnQ4Lq7qj7Meu6o0KTw84vFWTVQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDQtNjg2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/v7lmrISfIYELQ8rsjhuF_dc-MSNYWdeVCq-xKfbNxUs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDUtMTk4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/NPvqeemUbzczo1jJY4sbODu5enCHEv6NKX8CTQ-8kGk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDYtNjc2My5qcGVn.jpeg"
+    - "https://i.discogs.com/FPtM3dfc7OQ9bUi6zPTQ75bSIDhORTh_dBp1ivmMyfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDYtNzk1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/9guFMcFlPv4WvKK1e758dBn18GsVW7RWpegSZKuoB0U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/NTc2LTE2MjY3MTU3/NDMtODYwNi5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
@@ -33,7 +42,6 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 12. Nothing Fades Like The Light
 
 <!-- section break -->
-
 
 “Members of the LGBT+ community that wouldn’t necessarily be at a country show. Mega-fans in Orville Peck masks. Couples in their 80s who are huge country fans. Drag queens. Five-year-olds!” Orville Peck is describing his average audience for Apple Music. “Maybe there are a million reasons for these people to be a room together,” he says. “But it’s lovely that I’m one of the reasons for them to be together.” It’s unsurprising that the fringe-masked, pseudonymous Toronto-based cowboy crooner’s debut album has attracted a broad church. <i>Pony</i> offers a very modern subversive spin on expertly informed country, tender torch songs of homoerotic desire and raw rock ’n’ roll decorated with his rich, sonorous voice. Peck may not want to show you his face, but here he’s happy to take you through his extraordinary debut, track by track.<br /> 
 <b>Dead of Night</b>
@@ -60,20 +68,12 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 “Although I sing a lot about relationships, this is the only song on the album that’s about true heartbreak. It took a long time to record and I kept making revisions lyrically and to the production because I really wanted to capture a feeling within it. It was that feeling when you’re so at a loss that something fell apart. For me, it was that I was so heartbroken and spent months walking in slow motion. So I wanted to capture that sensation of feeling numb and watching the world pass you but all you can do is think about whatever it may be. It’s strange, because it’s almost a divine, serene feeling, but it’s so negative. It’s very still and peaceful, but it’s so very lonely. That serene unhappiness is something that I imagine people could probably get stuck in.”<br />
 <b>Nothing Fades Like the Light</b>
 “This song is about the feeling of knowing something is coming to an end, and how that feeling can be more painful than when it does actually end. Embarrassingly, I still really choke up and cry in this song when I perform it. Which sounds conceited, but it’s not because I’m so moved by my performance. It’s very funny, as like I said earlier, I didn’t realise how closed I was emotionally for a very long time. A friend of mine passed away when I was quite young, and I remember being at the funeral and being incapable of crying. It dawned on me, ‘You know, I don’t cry very often. What makes me cry? Should I be crying? Do I feel things? Am I crazy?’ It’s nuts, because after that moment something clicked in my brain and I didn’t cry for about five or six years, at all. I think it became a compulsion where I just could not seem to cry. I eventually did, and it was actually a moment of bliss. Now I cry all the time.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pony/1446363542" >}}
-
-
-
-
-
 ## Videos
 ### Orville Peck - Dead of Night [OFFICIAL VIDEO]
 {{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" >}}<br>
-
 ### More Videos
 
 - [Orville Peck - Hope To Die [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=60MHmrtEuRY)
@@ -86,12 +86,16 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 - [Queen of the Rodeo](https://www.youtube.com/watch?v=zrLZ4fzUP5k)
 - [Kansas (Remembers Me Now)](https://www.youtube.com/watch?v=Jbml8g3iaDQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
-| Discogs Link   | [Orville Peck - Pony](https://www.discogs.com/release/15159576-Orville-Peck-Pony) |
-| Label          | Sub Pop |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pony_(Orville_Peck_album) |
+| Wikipedia Summary | Pony is the debut studio album by South African country musician Orville Peck, released on March 22, 2019 by Sub Pop. A country, alternative country, and cowboy pop album, Pony features elements of goth, dream pop, shoegazing, indie rock, surf rock, post-punk, gospel folk.Pony was named to the initial longlist for the 2019 Polaris Music Prize in June 2019. The album also received a Juno Award nomination for Alternative Album of the Year at the Juno Awards of 2020.<br><br> |
+    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Repress (Orange Neon) |
+| Label          | Sub Pop |
 | Catalog Number | SP1293 |
+| Discogs URL    | [Orville Peck - Pony](https://www.discogs.com/release/15159576-Orville-Peck-Pony) |

@@ -10,6 +10,8 @@ cover:
     image: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967.jpg"
     alt: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna"
     caption: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna"
+additional_images:
+    - "https://i.discogs.com/KtjVsH_ARafQ_BAaZGouf3D8ulGjLVPfmtoNou5C7Qw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjk2/Ny0xMjc5NDgzNTI3/LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
@@ -31,28 +33,24 @@ styles: ["Soul", "Funk", "Disco"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007
 {{< youtube id="ZaMX0Cs5Bc4" title="Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007" >}}<br>
-
 ### More Videos
 
 - [Melody Man–Smokey Robinson / remix DJ Spinna & Bobbito](https://www.youtube.com/watch?v=uOVu1qmf5ww)
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
 - [Jermaine Jackson - Let's Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2004                                   |
-| Discogs Link   | [DJ Spinna - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)](https://www.discogs.com/release/736967-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Melody-Man-Further-Forays-Into-The-Stevie-Songbook) |
-| Label          | Harmless |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Harmless |
 | Catalog Number | HURTLP055 |
+| Discogs URL    | [DJ Spinna - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)](https://www.discogs.com/release/736967-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Melody-Man-Further-Forays-Into-The-Stevie-Songbook) |

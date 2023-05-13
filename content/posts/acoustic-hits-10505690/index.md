@@ -10,6 +10,20 @@ cover:
     image: "acoustic-hits-10505690.jpg"
     alt: "Acoustic Hits by The Cure"
     caption: "Acoustic Hits by The Cure"
+additional_images:
+    - "https://i.discogs.com/wZ15fnlTeelwK0N7Lv2AxWTf4VB_Q_spJ6QfruSN4To/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/MTItMjM3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/yGFKBhdFTJO7eUQak2RqjeBgDMiJ26gsoyu1OHsYOX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/MTUtMjA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/BawGWqHQouaFaA2pUDxe8Jp26PCp4AYnHhylyMdvESE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NTEtNjM2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/b6eConLNJHQAh575GnZbxZs77DV7zueW2Zb3XTmqZL8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NTQtMjY0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/YAALGQno4mR6YKq0An3NRNpQe0uROJN_FUDO72Enc9I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NTQtNjIwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/tu0ov2k3idBdxuwH_MjxKf63KCf22njnnLJHzhMOeqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NTItNTI5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/JDBr5FjOdRSBvTi7zdOOLW-1WSR54aojla4yQ6hIKHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NTQtMjkwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/8RoydEC45ESpKFugGsg96gJJbh2v6TyT0-drC6aG_F8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NDgtMzA0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/U44wcrWsVJpx8jn6jgmH2bVibQwfN-SEF8HIeTQJOyg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/ODgtODM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/0y_rePVaNQoSAAFHs0oMcbuO8xh-ipd71FOceZaeXcg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/OTItNDMyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/fbT45CvoLfkdg7JO-E4gEecxGvmBJqVe-P2gkNdOcDA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/OTgtMjI2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Oqrl_xlYhsjR5IxtYSwREiNKuf7Wz4-FKds6MPxNlRs/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/ODgtMjAxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/y6T7toAoWBhgwWFUtFt75Bj9XW80jW7-q2bJnNBCFFY/rs:fit/g:sm/q:90/h:584/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE2NTAzOTU4/MjAtNzUyOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ---
@@ -39,23 +53,20 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cure-for-me-acoustic-single/1577868696" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [The Cure - Acoustic Hits](https://www.discogs.com/release/10505690-The-Cure-Acoustic-Hits) |
-| Label          | Fiction Records |
 | Format         | Vinyl 2× LP Album Reissue Repress (180) |
+| Label          | Fiction Records |
 | Catalog Number | 572 634-0 |
 | Notes | Black vinyl repress of the [url=https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635]picture disc[/url] (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940] |
+| Discogs URL    | [The Cure - Acoustic Hits](https://www.discogs.com/release/10505690-The-Cure-Acoustic-Hits) |

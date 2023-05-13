@@ -11,6 +11,11 @@ cover:
     image: "diesel-and-dust-3639615.jpg"
     alt: "Diesel And Dust by Midnight Oil"
     caption: "Diesel And Dust by Midnight Oil"
+additional_images:
+    - "https://i.discogs.com/qHBjr8ksp22nrr7gVhe_1zJZj7ipYd70rP-9b-VdNhA/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk2/MTUtMTMzODQ3MDc2/OS01ODczLmpwZWc.jpeg"
+    - "https://i.discogs.com/-TfVoiIK6H0u8X9a8tVAV5CnOd5hm0OuCAqzYRw8iN0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk2/MTUtMTMzODQzOTky/Mi05MTQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/UqQ-ghGaWkIyuxzK8FHav8BHQo8RUTaFG-b_Xbd79Qg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk2/MTUtMTMzODQzOTk0/OC01MTI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/q3x-KAzPJZSAaD77cLi3C1DJyYsqSArFulzHue03oik/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk2/MTUtMTMzODQzOTk2/MS00NzE0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -31,7 +36,6 @@ styles: ["Alternative Rock"]
 10. Sometimes (3:53)
 
 <!-- section break -->
-
 
 “The main thing we were focused on when we went to do <i>Diesel</i> was to try and get the songs down in as simple and uncomplicated form as we possibly could,” Midnight Oil vocalist Peter Garrett tells Apple Music. “Particularly the ones that were influenced by our trip into the Western Desert region with the Warumpi Band on the Blackfella/Whitefella tour.” The plan worked, with the band’s sixth album yielding some of the Sydney quintet’s most enduring songs, such as “Beds Are Burning” and “The Dead Heart”. That these singles were incendiary reflections on the history of First Nations peoples and the intersection of white and black culture, as witnessed by the group on that 1986 tour of remote Aboriginal communities, made their success all the more remarkable.<br />
 Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such as “Put Down That Weapon” and “Arctic World” were informed by broader, more global political concerns—they nonetheless remain inextricably linked with the album, alongside the band’s experiences in the Western Desert region. “When writers and musicians and performers take that raw material and fashion it into a piece of music, then you get the songs we had on <i>Diesel and Dust</i>,” says Garrett. “That’s probably what gave the album its power.” Here the singer offers a track-by-track guide to the record, which not only represented a watershed moment in Australian musical history, but broke Midnight Oil internationally.<br />
@@ -57,20 +61,12 @@ Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such 
 “We wanted to write and have a song that was almost like an anthem for activism, for people who care, for people who want to go out and lay their bodies on the line for their country or for the environment, or for an issue or cause. We’re not taking any prisoners. We and many people of our generation felt like we were up against it, ’cause the forces of darkness, the forces of greed, the forces of rampant overdevelopment or weaponising or trying to make money off other people were forces that we saw that needed to be opposed. And the only way that history could be made good and to get a better world happening was to be in there; we needed to be in the ring. And I think ‘Sometimes’ is that song.”<br />
 <b>Gunbarrel Highway</b>
 “It was a spare, one of those leftover songs. We sometimes have songs that are left over at the end of a Midnight Oil session, and for whatever reason we’re not sure if they’re finished. And somehow we overlooked this and thought, ‘Nah, it’s not quite ready.’ So it didn’t go out in America, but it was on the Australian version. Of course, people would know the Gunbarrel Highway. It’s this amazing highway that travels from the bottom of South Australia across Western Australia, and it’s so straight and there are so few trees that you can fire a gun down the highway and not hit anything from one end to the other. It’s got a nice swing to it, and lots of atmospheric imagery, so it actually become the perfect concluder to <i>Diesel and Dust</i>.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diesel-and-dust-2008-remaster/288955172" >}}
-
-
-
-
-
 ## Videos
 ### Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]
 {{< youtube id="R6eJwfgATZ8" title="Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]" >}}<br>
-
 ### More Videos
 
 - [Midnight Oil - Beds Are Burning](https://www.youtube.com/watch?v=ejorQVy3m8E)
@@ -85,13 +81,17 @@ Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such 
 - [Sometimes (2007 Remastered)](https://www.youtube.com/watch?v=tki30k4_oPk)
 - [Midnight Oil - Beds Are Burning (Diesel And Dust), 1987 Vinyl video. UHD, 4K, 24bit/96kHz](https://www.youtube.com/watch?v=fxUxj_byZtc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
-| Discogs Link   | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615-Midnight-Oil-Diesel-And-Dust) |
-| Label          | CBS |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Diesel_and_Dust |
+| Wikipedia Summary | Diesel and Dust is the sixth studio album by Australian rock band Midnight Oil, released in August 1987 by SPRINT Music label under Columbia Records. Diesel and Dust was produced by Warne Livesey and the band. It is a concept album about the struggles of Indigenous Australians and environmental causes, issues important to the band. It drew inspiration from the Blackfella/Whitefella Tour of remote Indigenous communities with the Warumpi Band and Gondwanaland in 1986. The album peaked at No. 1 on the Australian Kent Music Report Albums Chart for six weeks.<br>Diesel and Dust has been critically lauded since its release. Rolling Stone editors named it the best album of 1988 (the year of its United States release), and later ranked it the 13th greatest record of the 1980s. In October 2010, Diesel and Dust was listed at no.1 in the book, 100 Best Australian Albums. In December of 2021, the album was listed at no. 5 in Rolling Stone Australia’s ‘200 Greatest Albums of All Time’ countdown.<br><br> |
+    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Stereo (Red Label) |
+| Label          | CBS |
 | Catalog Number | 460005 1 |
 | Notes | Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England. |
+| Discogs URL    | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615-Midnight-Oil-Diesel-And-Dust) |

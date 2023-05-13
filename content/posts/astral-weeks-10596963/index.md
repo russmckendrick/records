@@ -11,6 +11,13 @@ cover:
     image: "astral-weeks-10596963.jpg"
     alt: "Astral Weeks by Van Morrison"
     caption: "Astral Weeks by Van Morrison"
+additional_images:
+    - "https://i.discogs.com/zOwjKqPqa-X_g_3oJIxDb-OouKbH8KrNpQ4TM_k4gOU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/OTYzLTE1MjUzNzI1/MzQtOTk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/dT6pkGoZOg1Jq0d4zJ4KKaboR4HBKNsiQ9WKMFEhy8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/OTYzLTE1MjUzNzI1/MzEtNzQ5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/DCO8MwuR9EU5STapzDpnl45qiLpPDKEvkf-RmQ1ScGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/OTYzLTE1MjUzNzI1/MzctNjU5My5qcGVn.jpeg"
+    - "https://i.discogs.com/jmiIs53coGOTxb_TlaCCYKeqIxQiM8Kw3Eb4MkfjAsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/OTYzLTE1MjUzNzI1/MzItNjAyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/95NUhaUMic4RlCT5JwboYChY1tV1LMiVEVKD02Fybq8/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/OTYzLTE1MjUzNzI1/MzItNzk5My5qcGVn.jpeg"
+    - "https://i.discogs.com/FKIMOvQCio7knRmu2G9U9RcXPnmL5EvhegtupD7CfTw/rs:fit/g:sm/q:90/h:961/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/OTYzLTE1MjUzNzI1/MzMtODczOS5qcGVn.jpeg"
 genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 ---
@@ -32,25 +39,26 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 
 <!-- section break -->
 
-
-There’s never been anything like <i>Astral Weeks</i>—not before or since. Parting with the straightforward, R&B-based rock of his past, a young Van Morrison embraced his love of jazz, blues, folk and poetry all at once. The thrillingly transcendent journey finds him mixing bittersweet childhood memories and in-the-moment reveries like a folk-rock James Joyce. His soulful voice soars over a constantly shifting, almost impressionistic landscape of fluid, jazzy lines, gentle strumming and shimmering orchestrations. The magic Morrison created here is as otherworldly as the title suggests.
-
-
-
+Astral Weeks is the second studio album by Northern Irish singer-songwriter Van Morrison. It was recorded at Century Sound Studios in New York during September and October 1968, and released in November of the same year by Warner Bros. Records.
+The album's music blends folk, blues, jazz, and classical styles, signalling a radical departure from the sound of Morrison's previous pop hits, such as "Brown Eyed Girl" (1967). The lyrics and cover art portray the symbolism equating earthly love and heaven that would often feature in the singer's subsequent records. His lyrics have been described as impressionistic, hypnotic, and modernist, while the record has been categorized as a song cycle or concept album.
+Astral Weeks did not originally receive promotion from Morrison's record label and was not an immediate success with consumers or critics. Its standing eventually improved greatly, with praise given to Morrison's singing, arrangements and songwriting, and the album has been viewed as one of rock music's greatest and most important records (a reputation the singer himself has dismissed). It was placed on numerous widely circulated lists of the best albums of all time and has had an enduring effect on both listeners and musicians[source?].
+Forty years after the album's release, Morrison performed all eight of its songs live for the first time at two Hollywood Bowl concerts in November 2008; this performance was later released as Astral Weeks Live at the Hollywood Bowl.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/astral-weeks/1031002336" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
-| Discogs Link   | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963-Van-Morrison-Astral-Weeks) |
-| Label          | Warner Bros. - Seven Arts Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Astral_Weeks |
+| Apple Music Summary | There’s never been anything like <i>Astral Weeks</i>—not before or since. Parting with the straightforward, R&B-based rock of his past, a young Van Morrison embraced his love of jazz, blues, folk and poetry all at once. The thrillingly transcendent journey finds him mixing bittersweet childhood memories and in-the-moment reveries like a folk-rock James Joyce. His soulful voice soars over a constantly shifting, almost impressionistic landscape of fluid, jazzy lines, gentle strumming and shimmering orchestrations. The magic Morrison created here is as otherworldly as the title suggests. |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (Clear, 180 g) |
+| Label          | Warner Bros. - Seven Arts Records |
 | Catalog Number | 081227937850 |
 | Notes | Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl |
+| Discogs URL    | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963-Van-Morrison-Astral-Weeks) |

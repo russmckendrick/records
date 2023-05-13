@@ -10,6 +10,10 @@ cover:
     image: "a-very-british-synthesizer-group-9408456.jpg"
     alt: "A Very British Synthesizer Group by The Human League"
     caption: "A Very British Synthesizer Group by The Human League"
+additional_images:
+    - "https://i.discogs.com/-rjyHStP_Hc0AKGkXwwbEyIGr-CDgXST9STkpyXkG0M/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/My00NDQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZfKPDx2CixzWo3WxI30QaTDufUvRf6LzntPKDrKdpuM/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/Ni0yNjY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/T0J-UYrCFgsQTwoCFVrGlj4W9Rzp70f5_jJKJmaTrng/rs:fit/g:sm/q:90/h:364/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/My03MDMzLmpwZWc.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -51,20 +55,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-super/1443093911" >}}
-
-
-
-
-
 ## Videos
 ### The Human League - Being Boiled (Fast Version)
 {{< youtube id="neuLu1MMl5M" title="The Human League - Being Boiled (Fast Version)" >}}<br>
-
 ### More Videos
 
 - [Soundtrack To A Generation (Edit)](https://www.youtube.com/watch?v=Uh4KgDyJ0t4)
@@ -81,13 +77,15 @@ styles: ["Synth-pop"]
 - [[Keep Feeling] Fascination](https://www.youtube.com/watch?v=Y2ENOHNZCNQ)
 - [Love On The Run (Early Version)](https://www.youtube.com/watch?v=jFPAHPv9CyU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Human League - A Very British Synthesizer Group](https://www.discogs.com/release/9408456-The-Human-League-A-Very-British-Synthesizer-Group) |
-| Label          | Virgin |
 | Format         | Vinyl 3× LP Compilation (180g) |
+| Label          | Virgin EMI Records |
 | Catalog Number | 571 111-5 |
 | Notes | Triple LP half-speed mastered box set.  Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).  First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan.  |
+| Discogs URL    | [The Human League - A Very British Synthesizer Group](https://www.discogs.com/release/9408456-The-Human-League-A-Very-British-Synthesizer-Group) |

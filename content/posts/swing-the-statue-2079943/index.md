@@ -10,6 +10,9 @@ cover:
     image: "swing-the-statue-2079943.jpg"
     alt: "Swing The Statue! by Victoria Williams"
     caption: "Swing The Statue! by Victoria Williams"
+additional_images:
+    - "https://i.discogs.com/zuwx2sQuzvf1eBouBoK6Rcp4ygifTEtjP1Jg7sTJUu0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDMtMTMxMDA0NTI3/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/4u4xoTb_waXSlPZSi-Mwqrtd4VZIDO6PhVYW3ICleMM/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDMtMTU5MjAyNTUw/Ni04ODg3LnBuZw.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
@@ -33,29 +36,28 @@ styles: ["Folk Rock", "Country Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records.
+<br>
 ## Videos
 ### Victoria Williams - Tarbelly & Featherfoot
 {{< youtube id="YFC00BJ8mLQ" title="Victoria Williams - Tarbelly & Featherfoot" >}}<br>
-
 ### More Videos
 
 - [Victoria Williams - Why look at the moon](https://www.youtube.com/watch?v=sTWWReyTcl4)
 - [Victoria Williams - Boogieman](https://www.youtube.com/watch?v=BtW8SV-9JLs)
 - [Victoria Williams - Wobbling](https://www.youtube.com/watch?v=GL8x-eNgPA4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Swing_the_Statue! |
+| Wikipedia Summary | Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records. |
 | Release Year   | 1990                                   |
-| Discogs Link   | [Victoria Williams - Swing The Statue!](https://www.discogs.com/release/2079943-Victoria-Williams-Swing-The-Statue) |
-| Label          | Rough Trade |
 | Format         | Vinyl LP Album |
+| Label          | Rough Trade |
 | Catalog Number | Rough US 50 |
 | Notes | Issued with illustrated inner sleeve that includes credits and release information. |
+| Discogs URL    | [Victoria Williams - Swing The Statue!](https://www.discogs.com/release/2079943-Victoria-Williams-Swing-The-Statue) |

@@ -10,6 +10,8 @@ cover:
     image: "saint-julian-11858948.jpg"
     alt: "Saint Julian by Julian Cope"
     caption: "Saint Julian by Julian Cope"
+additional_images:
+    - "https://i.discogs.com/k7tOPLFxektF6bcz9N5eIiIUU6Mes3Rw77ejkBZWNAY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU4/OTQ4LTE1MjM2MTYy/MTktMTk0MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
@@ -31,20 +33,13 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles).
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/saint-julian-expanded-edition/1442418528" >}}
-
-
-
-
-
 ## Videos
 ### Trampolene
 {{< youtube id="nSiA4Hm7gPc" title="Trampolene" >}}<br>
-
 ### More Videos
 
 - ['Saint Julian' Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
@@ -55,12 +50,16 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
 - [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Saint_Julian_(album) |
+| Wikipedia Summary | Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles). |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Julian Cope - Saint Julian](https://www.discogs.com/release/11858948-Julian-Cope-Saint-Julian) |
-| Label          | Island Records |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Island Records |
 | Catalog Number | ILPS 9861 |
+| Discogs URL    | [Julian Cope - Saint Julian](https://www.discogs.com/release/11858948-Julian-Cope-Saint-Julian) |

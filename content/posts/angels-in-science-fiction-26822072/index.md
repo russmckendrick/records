@@ -10,6 +10,8 @@ cover:
     image: "angels-in-science-fiction-26822072.jpg"
     alt: "Angels In Science Fiction by St. Paul & The Broken Bones"
     caption: "Angels In Science Fiction by St. Paul & The Broken Bones"
+additional_images:
+    - "https://i.discogs.com/JHKFUn9KLedCnNgZ5aUI-QQP3TxXpbKohXi5oPK-DFQ/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIy/MDcyLTE2ODE5OTg5/NzgtOTA4Ni5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
@@ -33,23 +35,20 @@ styles: ["Rhythm & Blues"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/angels-in-science-fiction/1664598318" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Discogs Link   | [St. Paul & The Broken Bones - Angels In Science Fiction](https://www.discogs.com/release/26822072-St-Paul-The-Broken-Bones-Angels-In-Science-Fiction) |
-| Label          | ATO Records |
 | Format         | Vinyl LP Album Limited Edition (Clear Transparent ) |
+| Label          | ATO Records |
 | Catalog Number | ATO0599LP |
 | Notes | Tracks listed as 01 - 12 on rear of sleeve   |
+| Discogs URL    | [St. Paul & The Broken Bones - Angels In Science Fiction](https://www.discogs.com/release/26822072-St-Paul-The-Broken-Bones-Angels-In-Science-Fiction) |

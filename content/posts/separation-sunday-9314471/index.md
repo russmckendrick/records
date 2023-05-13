@@ -10,6 +10,15 @@ cover:
     image: "separation-sunday-9314471.jpg"
     alt: "Separation Sunday by The Hold Steady"
     caption: "Separation Sunday by The Hold Steady"
+additional_images:
+    - "https://i.discogs.com/OV2BV68BDranUAW8GSY18IuDpztMXAOrNnxzds_H9LM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDEx/Ny0xODk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2S46coy01oG9F8__yJ7vDIL-P1Bk-K7B_Q21_AFzgWY/rs:fit/g:sm/q:90/h:280/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDEy/Mi03NzQ1LnBuZw.jpeg"
+    - "https://i.discogs.com/sK8dssf_M7YU1M0VM7y0Rn865LKLPWq7oze9MvR1u6g/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDc1/Ny01OTIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/jHhrw27zErb_rx2svbk01aLPPNJle7CkIQA3PaLIWKk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDc0/My03Mzc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/djSbbH3a7wqae2K6EjdZSLkrUJW2HyG-WBDUWXB9Nl8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDc1/NS02OTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Qv0CQVWe3WrfDCvBhI7_D5P6mXs1pnmYUaG0A_uAc9A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDY3/OC01MzQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/cfuymKGsLFN99oXpYQH6emdEJFPIiEkyGoo0xZkaBNc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDY5/OC05MDE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/E1GolMPywccWzq97EQBVUEl-SHr5Sk5YhflQ04t2sbY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/NzEtMTQ3ODQ0NDY4/OS02OTAxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -32,20 +41,14 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Separation Sunday is the second studio album by the American indie rock band The Hold Steady, released on May 3, 2005 through Frenchkiss Records. A concept album, Separation Sunday follows the interconnected stories of several fictional characters: Craig (the narrator), Holly (short for Halleluiah), a sometimes addict, sometimes prostitute, sometimes born again Christian/Catholic (and sometimes all three simultaneously); Charlemagne, a pimp; and Gideon, a skinhead, as they travel from city to city and party to party.Separation Sunday is lyrically dense, full of Biblical allusions, self-reference word play, and puns.  Vocalist/songwriter Craig Finn typically delivers these lyrics in a distinct flavor of sprechgesang.
+Musically, Separation Sunday touches on elements of Classic rock: guitar solos, riff-based structures, use of piano and organ, and guitar harmony.  Structurally, however, most songs eschew the standard verse-chorus-verse song structure, frequently foregoing choruses or refrains altogether. In a review of the album, Blender described The Hold Steady as "sound[ing] like the best bar band in the world."The album cover was photographed at the corner of Maspeth Avenue and Conselyea Street in Williamsburg, Brooklyn.The song "Your Little Hoodrat Friend" was featured on the video game Tony Hawk's Project 8.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/separation-sunday-deluxe-version/1143274331" >}}
-
-
-
-
-
 ## Videos
 ### The Hold Steady - How a Resurrection Really Feels
 {{< youtube id="PFiiq2sFD7E" title="The Hold Steady - How a Resurrection Really Feels" >}}<br>
-
 ### More Videos
 
 - [Stevie Nix](https://www.youtube.com/watch?v=IapupJ1gf9I)
@@ -58,13 +61,17 @@ styles: ["Indie Rock"]
 - [Hornets! Hornets!](https://www.youtube.com/watch?v=zi9FCw5FK60)
 - [Multitude of Casualties](https://www.youtube.com/watch?v=Q9WQoOBrq_g)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Separation_Sunday |
+| Wikipedia Summary | Separation Sunday is the second studio album by the American indie rock band The Hold Steady, released on May 3, 2005 through Frenchkiss Records. A concept album, Separation Sunday follows the interconnected stories of several fictional characters: Craig (the narrator), Holly (short for Halleluiah), a sometimes addict, sometimes prostitute, sometimes born again Christian/Catholic (and sometimes all three simultaneously); Charlemagne, a pimp; and Gideon, a skinhead, as they travel from city to city and party to party.Separation Sunday is lyrically dense, full of Biblical allusions, self-reference word play, and puns.  Vocalist/songwriter Craig Finn typically delivers these lyrics in a distinct flavor of sprechgesang.<br>Musically, Separation Sunday touches on elements of Classic rock: guitar solos, riff-based structures, use of piano and organ, and guitar harmony.  Structurally, however, most songs eschew the standard verse-chorus-verse song structure, frequently foregoing choruses or refrains altogether. In a review of the album, Blender described The Hold Steady as "sound[ing] like the best bar band in the world."The album cover was photographed at the corner of Maspeth Avenue and Conselyea Street in Williamsburg, Brooklyn.The song "Your Little Hoodrat Friend" was featured on the video game Tony Hawk's Project 8. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471-The-Hold-Steady-Separation-Sunday) |
-| Label          | Frenchkiss Records |
 | Format         | Vinyl LP Reissue Remastered (White Vinyl) |
+| Label          | Frenchkiss Records |
 | Catalog Number | FKR087-1 |
 | Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records.  |
+| Discogs URL    | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471-The-Hold-Steady-Separation-Sunday) |

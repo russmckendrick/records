@@ -10,6 +10,12 @@ cover:
     image: "half-the-city-5421968.jpg"
     alt: "Half The City by St. Paul & The Broken Bones"
     caption: "Half The City by St. Paul & The Broken Bones"
+additional_images:
+    - "https://i.discogs.com/w9DEIt5j9TMQpaMuIfLPesZuC-uIm7-21L6RnDd2baE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc2/My01OTYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/rskvie9ATTaigzRyipiUgF3CaYJoo2tWzckYnFs4A2s/rs:fit/g:sm/q:90/h:525/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc3/Ni00Njk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/On2ErsUEX63Dqrms2JbrvZ1ovvVTjP3p0DaQl8Hpyhk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc4/Ny01NjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/OoMTtUKPvW1yCyYn8vWz99jCrNwBLSZxJIJs9SfEEJ8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc5/Ni04ODY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/zcHBB9fI8D0ApKMaLAJf06J0AJvflUrHsEN2tGmCdmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTQ5MzczMzAz/MC0xNTU5LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
@@ -33,28 +39,23 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/half-the-city/1533050536" >}}
-
-
-
-
-
 ## Videos
 ### St. Paul and the Broken Bones - Half the City
 {{< youtube id="5GdkM1r5jhs" title="St. Paul and the Broken Bones - Half the City" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2014                                   |
-| Discogs Link   | [St. Paul & The Broken Bones - Half The City](https://www.discogs.com/release/5421968-St-Paul-The-Broken-Bones-Half-The-City) |
-| Label          | Single Lock Records |
 | Format         | Vinyl LP Album Stereo (180 Gram) |
+| Label          | Single Lock Records |
 | Catalog Number | SL 003 |
 | Notes | Includes printed inner sleeve and download coupon for entire album in MP3 format.    Recorded at The Nutthouse except "Sugar Dyed" was recorded at Ol' Elegante Studios. Additional overdubs recorded at Up and In Studio.  Mixed at FAME Studio A    © and ℗ 2014 Single Lock Records |
+| Discogs URL    | [St. Paul & The Broken Bones - Half The City](https://www.discogs.com/release/5421968-St-Paul-The-Broken-Bones-Half-The-City) |

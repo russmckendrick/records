@@ -10,6 +10,13 @@ cover:
     image: "i-learned-the-hard-way-2214427.jpg"
     alt: "I Learned The Hard Way by Sharon Jones & The Dap-Kings"
     caption: "I Learned The Hard Way by Sharon Jones & The Dap-Kings"
+additional_images:
+    - "https://i.discogs.com/NffonXAgffHXc_POhBTYslY-dg5KvVbDdjI81Y9XPWY/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTM4NDUyODQy/MC0yODEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/91H3qjgtHwot64keR46v9GXbWgy45V9xc0kFyZ9_d2w/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTM4NDUyODQz/MC0yMDQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/xmtJ29MXQ7KDitdha212pJM1TVfL4aOPBgnx-QlaHKs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTQyNDMyODcy/OC04MzkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/UIHDOIP5OS_9S1NQrX-wjJLdu2ifBZEAlu5cdFciZY0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTQyNDMyODcz/MC05MzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ObxqDiogCcHnX9V0kd7l2XUNIpdV-NS0o891UAwJDXg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTQyNDMyODcz/MC03NDkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/TlQ8d0aWTkbjqFpBCeq27oYfQnLpM6vkWPqmoJvmu7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTY4MTQ3Nzc1/NS00NTkyLmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
@@ -33,20 +40,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-learned-the-hard-way/1484995880" >}}
-
-
-
-
-
 ## Videos
 ### The Game Gets Old
 {{< youtube id="fpDhfubLDPI" title="The Game Gets Old" >}}<br>
-
 ### More Videos
 
 - [I Learned the Hard Way](https://www.youtube.com/watch?v=KAsasgoam0Q)
@@ -61,13 +60,15 @@ styles: ["Rhythm & Blues", "Soul"]
 - [If You Call](https://www.youtube.com/watch?v=XlenCIefJOM)
 - [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2010                                   |
-| Discogs Link   | [Sharon Jones & The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427-Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way) |
-| Label          | Daptone Records |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Daptone Records |
 | Catalog Number | DAP-019 |
 | Notes | Jacket: Another BOSCO MANN Production. Labels: A BOSCO MANN Production.  Includes code for digital download (Digital download includes an additional song, "When I Come Home") Stereo compatible  Hype sticker affixed to shrink: The explosive and soulful next chapter in the captivating story of Sharon Jones, the Dap-Kings and Daptone Records. Includes coupon for MP3 download! [Daptone Records logo] "...gritty, credible, emotion-laden..." - Rolling Stone "...simply one of the most scorching outfits on the planet..." - MOJO  Barcode is a sticker affixed to shrink  Recorded to 8-Tracks at Daptone Records' House Of Soul.  Track A1: ASCAP, BMI Tracks A2 to A6, B2 to B6: BMI Track B1: ASCAP, SESAC |
+| Discogs URL    | [Sharon Jones & The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427-Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way) |

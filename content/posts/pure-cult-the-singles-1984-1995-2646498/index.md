@@ -10,6 +10,14 @@ cover:
     image: "pure-cult-the-singles-1984-1995-2646498.jpg"
     alt: "Pure Cult The Singles 1984 - 1995 by The Cult"
     caption: "Pure Cult The Singles 1984 - 1995 by The Cult"
+additional_images:
+    - "https://i.discogs.com/V4ddJWFvEQzcgJ9uON9tpOdD81FZA2V-MeOqg4a-VEI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OC00MTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/cWU9aTrS0LGRu_u7fZfEhJSyoRuhGVfFJGMlTt-cgG0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OS04MjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/FfJ89QU2-RV_dHji6eYhWMPPtjzF7AB_aaEarriyJ4M/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OC01OTg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/3rLSNsmiZgFpypEq90HukXqWSK79wmBKhGyRIjNYRFg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OC00NDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/mWtEc-2MfQa1ZKXSYWXTgTVlgYywJLssWkilpP-1E8g/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OC0zMDg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Wn1nTWKdl_FHpBsOHjBA6rbn-cDdreZh6QVqxxopRxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OC0zMjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/AH1pOHvizQaHtjLHwfwFl-myZ0Jt3r-UaSNhOBOXRQc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY0/OTgtMTQ1NDg2NjAy/OC05NzEzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ---
@@ -40,16 +48,10 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### She Sells Sanctuary
 {{< youtube id="cQS4TzB0EvU" title="She Sells Sanctuary" >}}<br>
-
 ### More Videos
 
 - [Fire Woman](https://www.youtube.com/watch?v=7-DjzbGOtec)
@@ -71,13 +73,15 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 - [Wild Hearted Son (edit)](https://www.youtube.com/watch?v=RW_E6GdDW5o)
 - [Sweet Soul Sister (Edit)](https://www.youtube.com/watch?v=hcxZ8tytOgA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2011                                   |
-| Discogs Link   | [The Cult - Pure Cult The Singles 1984 - 1995](https://www.discogs.com/release/2646498-The-Cult-Pure-Cult-The-Singles-1984-1995) |
-| Label          | Beggars Banquet |
 | Format         | Vinyl 2× LP Remastered Reissue Compilation (Gatefold) |
+| Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2026 |
 | Notes | © 2010 Beggars Banquet |
+| Discogs URL    | [The Cult - Pure Cult The Singles 1984 - 1995](https://www.discogs.com/release/2646498-The-Cult-Pure-Cult-The-Singles-1984-1995) |

@@ -11,6 +11,12 @@ cover:
     image: "gris-gris-4673220.jpg"
     alt: "Gris-Gris by Dr. John"
     caption: "Gris-Gris by Dr. John"
+additional_images:
+    - "https://i.discogs.com/wuWRVKBHyXmiDwmYo0CQJ5O75AjHZ2Rd-LoV6Z2JCQk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC0zMDUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/GeFXdhe-eCGfIOzNe9GBIRMSj-PWzqkpeeUbr_ebw1c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC0zMDIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Eop8EHQV0fQIkcz2HgXLq-rCnbX4X8l0e0f4eFwA0UM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC03MTIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/qlZmevQaxK91fW726w2mtU5izT4veE1-er4X6bsABIo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC02NDgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/7LhFow_mteMqJ8CwK0B2U7MtOAUFjI72z7yc2fYSDKE/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTM3MjQ2MTQ4/My04MzkzLmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 ---
@@ -29,22 +35,14 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 
 <!-- section break -->
 
-
-In 1968, New Orleans keyboardist Mac Rebennack reinvented himself as a slightly sinister swamp spiritualist known as Dr. John, the frog-voiced Night Tripper. Rebennack and his crew's strange brew mixed San Francisco psychedelia with New Orleans R&B, which sounds especially effective in "Gris-Gris Gumbo Ya Ya" and "I Walk on Guilded Splinters"—heavily percussive, chant-driven tracks suggesting something ominous rising from the swamp. "Mama Roux," meanwhile, whips up its own Afro-Cuban magic.
-
-
-
+Gris-Gris (stylized as GRIS-gris, , named for a kind of talisman) is the debut album by American musician Dr. John (a.k.a. Mac Rebennack). Produced by Harold Battiste, it was released on Atco Records in 1968. The album introduced Rebennack's Dr. John character, inspired by a reputed 19th century voodoo doctor. The style of Gris-Gris is a hybrid of New Orleans R&B and psychedelia. It was recorded in California, albeit with several native New Orleans musicians.
+Gris-Gris failed to chart in the United Kingdom and the United States. It was re-issued on compact disc decades later and received much greater praise from modern critics, including being listed at number 143 on the 2003 and 2012 editions and at number 356 on the 2020 edition of Rolling Stone magazine's list of the 500 greatest albums of all time.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gris-gris/106225386" >}}
-
-
-
-
-
 ## Videos
 ### Gris-Gris Gumbo Ya Ya
 {{< youtube id="ijZUoSsnRPU" title="Gris-Gris Gumbo Ya Ya" >}}<br>
-
 ### More Videos
 
 - [Danse Kalinda Ba Doom](https://www.youtube.com/watch?v=jKn6sUz7O0g)
@@ -53,13 +51,17 @@ In 1968, New Orleans keyboardist Mac Rebennack reinvented himself as a slightly 
 - [Jump Sturdy](https://www.youtube.com/watch?v=KBPGqC27zqc)
 - [I Walk on Guilded Splinters](https://www.youtube.com/watch?v=lekQoT485aA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
-| Discogs Link   | [Dr. John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |
-| Label          | ATCO Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gris-Gris |
+| Apple Music Summary | In 1968, New Orleans keyboardist Mac Rebennack reinvented himself as a slightly sinister swamp spiritualist known as Dr. John, the frog-voiced Night Tripper. Rebennack and his crew's strange brew mixed San Francisco psychedelia with New Orleans R&B, which sounds especially effective in "Gris-Gris Gumbo Ya Ya" and "I Walk on Guilded Splinters"—heavily percussive, chant-driven tracks suggesting something ominous rising from the swamp. "Mama Roux," meanwhile, whips up its own Afro-Cuban magic. |
+    | Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
+| Label          | ATCO Records |
 | Catalog Number | SD 33-234 |
 | Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".  On back cover and labels: ℗© 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured In EU. LC02982  Liner notes uncredited.  On runouts: All is etched Last code (after MK) is mirrored   |
+| Discogs URL    | [Dr. John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |

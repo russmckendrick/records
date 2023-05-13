@@ -10,6 +10,8 @@ cover:
     image: "high-fidelity-a-hulu-original-15540975.jpg"
     alt: "High Fidelity (A Hulu Original) by Various"
     caption: "High Fidelity (A Hulu Original) by Various"
+additional_images:
+    - "https://i.discogs.com/siPBmUErzVa0SEkuO1_CsEzL3gwPJmk4hb7AADrlPLU/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/OTc1LTE1OTMyODYy/MjgtODYxMy5qcGVn.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -32,16 +34,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Ann Peebles - I can't stand the Rain 1974
 {{< youtube id="A09GZeORYlo" title="Ann Peebles - I can't stand the Rain 1974" >}}<br>
-
 ### More Videos
 
 - [High Fidelity: Opening Scene • A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
@@ -56,13 +52,15 @@ styles: ["Soundtrack"]
 - [Silk Rhodes - Pains](https://www.youtube.com/watch?v=SoxbvE1Doog)
 - [I Believe (When I Fall in Love It Will Be Forever)](https://www.youtube.com/watch?v=JO_b807HaLM)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Various - High Fidelity (A Hulu Original)](https://www.discogs.com/release/15540975-Various-High-Fidelity-A-Hulu-Original) |
-| Label          | Hollywood Records |
 | Format         | Vinyl LP Compilation Stereo (180g) |
+| Label          | Hollywood Records |
 | Catalog Number | MOND-163 |
 | Notes |  180 gram black vinyl |
+| Discogs URL    | [Various - High Fidelity (A Hulu Original)](https://www.discogs.com/release/15540975-Various-High-Fidelity-A-Hulu-Original) |

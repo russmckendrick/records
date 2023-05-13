@@ -11,6 +11,17 @@ cover:
     image: "second-coming-3852822.jpg"
     alt: "Second Coming by The Stone Roses"
     caption: "Second Coming by The Stone Roses"
+additional_images:
+    - "https://i.discogs.com/jL9BmcaYj0n83-fX16b-bji7D6nt8xY90yfFZe_Egwc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTY2ODkzOTcy/NC0yNDIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Yntp0J_86tbFZotTFVt586aLznwI4eq8XE_zt3V2RWw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTY2ODkzOTcy/NC03NDk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jzqhyv1igN_qtTg-hBTOmOpyVc1espFXMOaFR1l9ktA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTY2ODkzOTcy/Mi00MDE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/gTrW0SbUmH3F1JZcKRohCQALuQudwYinUPCexQKjMJE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTY2ODkzOTcy/MS0zNTQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/qx8cLO60ofr4GM1taOGADfCrwRwLnnIoyP2EaO3Icnc/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTQ3ODkxODI2/NS03NzY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/f0dsmUaTz9zQLLQPX7JCrM55M3mkLysv2Eqsdjt4uNA/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTQ3ODkxODI2/MS0xMTg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/12Onu68IM3afaca-s0xu_Q4m2_1sxlxf-h4oWEgA8Pk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTQ3ODkyMTAw/OS02MzI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/EhU0kMSABbcaK8XkQY_B5AWg6wShAt2tQzi6gq8nDpk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTQ3ODkyMTAx/My00MTgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/aFRQ-o5BjuQJ9sP4piVgloMsKau95Ta4X2snq6fJ_hs/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTQ3NjU1Njgy/My01MDE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/uMAhsaxYAIab3jz4XVVXeFg7DGVbD7y1lr594T-ZTOA/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI4/MjItMTQ3NjU1Njgy/Mi02MTM0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -34,22 +45,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
 Unbowed by the burden of expectation, the Mancunians forge new ways to groove. Despite the suffocating pressure to match a classic debut and the intra-band squabbles it caused, <i>Second Coming</i> contains premium psychedelic pop in “Ten Storey Love Song” and the spiteful “How Do You Sleep”. The band’s impulse to merge guitars and dance music into new states of bliss gets best explored here though. The techno-rock collision of “Begging You” is exhilarating and singular, while an elastic rhythm section and Ian Brown’s righteous swagger transform “Love Spreads” from a Led Zep tribute into mantric rock-funk.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/second-coming/1440870988" >}}
-
-
-
-
-
 ## Videos
 ### Breaking Into Heaven
 {{< youtube id="7nu5YLoaxHc" title="Breaking Into Heaven" >}}<br>
-
 ### More Videos
 
 - [The Stone Roses - Love Spreads (with lyrics)](https://www.youtube.com/watch?v=852fIw_I84I)
@@ -62,13 +64,17 @@ Unbowed by the burden of expectation, the Mancunians forge new ways to groove. D
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
 - [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
-| Discogs Link   | [The Stone Roses - Second Coming](https://www.discogs.com/release/3852822-The-Stone-Roses-Second-Coming) |
-| Label          | Geffen Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Second_Coming_(The_Stone_Roses_album) |
+| Wikipedia Summary | Second Coming is the second and final studio album by English rock band the Stone Roses, released through Geffen Records on 5 December 1994 in the UK. It was recorded at Forge Studios in Oswestry, Shropshire and Rockfield Studios near Monmouth in Wales between 1992 and 1994. It went platinum in the UK, sold over 1 million copies worldwide and was dedicated to Philip Hall, the band's publicist, who died of cancer in 1993. |
+    | Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
+| Label          | Geffen Records |
 | Catalog Number | 0600753385166 |
 | Notes | Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.  ℗ 1994 Geffen Records, Inc. © 1994 Geffen Records, Inc. Made in the EU.  Durations not on release. Runouts are stamped.  |
+| Discogs URL    | [The Stone Roses - Second Coming](https://www.discogs.com/release/3852822-The-Stone-Roses-Second-Coming) |

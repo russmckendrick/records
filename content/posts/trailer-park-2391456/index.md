@@ -11,6 +11,12 @@ cover:
     image: "trailer-park-2391456.jpg"
     alt: "Trailer Park by Beth Orton"
     caption: "Trailer Park by Beth Orton"
+additional_images:
+    - "https://i.discogs.com/cyngYRYUla2xLWATfcGUlQI6kE6Cp9U-lg7RSr90oV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/NTYtMTI4MTM0NTYz/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/_WpiR-8ccdI_qgvMAnkfoO4T-BEV8q5e420XyxWw5j0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/NTYtMTI4MTM0NTY1/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/HQjeg9mK8WhRi2Xzi7pjaKXOG9Av3X_VQCNUtbO5PUI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/NTYtMTI4MTQyOTYy/Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/QojyentOTHV0xpXPwxq1KjhnmipprAaaMbAtKBRg9mc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/NTYtMTI4MTM0NTY4/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/ryJajD8cpfC3TAR2n135xW5Z-SCHt-JNjETL8R66q0E/rs:fit/g:sm/q:90/h:330/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/NTYtMTI4MTM0NTcw/Mi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 ---
@@ -32,22 +38,13 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 
 <!-- section break -->
 
-
 Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}
-
-
-
-
-
 ## Videos
 ### Beth Orton - She Cries Your Name (Video)
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}<br>
-
 ### More Videos
 
 - [Someone's Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
@@ -60,13 +57,16 @@ Fusing folk and electronica, Orton's debut album blazed a quiet trail through Br
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers. |
 | Release Year   | 2010                                   |
-| Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456-Beth-Orton-Trailer-Park) |
-| Label          | Plain Recordings |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Plain Recordings |
 | Catalog Number | plain149 |
 | Notes | Ⓟ 1996 Deconstruction Ltd.  © 2010 Runt LLC    180 gram vinyl    Custom inner sleeve   |
+| Discogs URL    | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456-Beth-Orton-Trailer-Park) |

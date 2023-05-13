@@ -10,6 +10,14 @@ cover:
     image: "4-track-demos-15792454.jpg"
     alt: "4-Track Demos by PJ Harvey"
     caption: "4-Track Demos by PJ Harvey"
+additional_images:
+    - "https://i.discogs.com/nH3Ln-LWfWiOr07OoY0eSNVgztn7f69yjHvVHlnjFl4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE1OTkxNDc0/OTMtMTg3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/bIM7hQd0vItKGcuq-Rn00p6odPSMXzBF5JylZtfsD-k/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE1OTkxNDc0/OTMtMjE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/43u9BFRSfy9BtI3TD4ueZsDWbLacrqPaWl_koFtIC4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE2MDQ1MzMy/NzMtMTU5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/UwNEIzGKlHguMsqLqsCNo25qu5zwl0o2WMTG9sfWqLY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE1OTkxNDc0/OTMtMjQ3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/irFvIa1_z6ft5MkI2x2d_fLKvTXJKYjJ9IMVllZrzgc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE1OTkxNDc0/OTMtODY2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/kQDmGBzuRRT3QGvtqgPuSNxJdSgLi3fQB9kQf0OKFm8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE1OTkxNDc0/OTMtNTgyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/PLuAFNMb7i9hIu4kmwNcjUAxEbcRA2blP07JAMjHEt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDU0LTE2MDAwODk3/MTctMzQyMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 ---
@@ -35,20 +43,15 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 
 <!-- section break -->
 
+4-Track Demos is an album of demos by British singer-songwriter PJ Harvey. It was released in October 1993 by Island Records. It consists of eight demos of songs from her previous album, Rid of Me, along with six demos of some unreleased tracks which never made it to release with the three-piece PJ Harvey line-up. According to interviews with Harvey, all fourteen of these songs were written and demoed at her home between mid-1991 and autumn 1992. 4-Track Demos was Harvey's first entirely self-produced album; there would not be another such until 2004's Uh Huh Her.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/4-track-demos/1443834026" >}}
-
-
-
-
-
 ## Videos
 ### Rid Of Me (4-Track Demo Version)
 {{< youtube id="ZrRkrD8edhE" title="Rid Of Me (4-Track Demo Version)" >}}<br>
-
 ### More Videos
 
 - [Hardly Wait](https://www.youtube.com/watch?v=JmSfWo5pwpo)
@@ -61,13 +64,17 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 - [50ft Queenie (4-Track Demo Version)](https://www.youtube.com/watch?v=bt1g1FDOMh0)
 - [Reeling (4-Track Demo Version)](https://www.youtube.com/watch?v=qoxipCtMT14)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/4-Track_Demos |
+| Wikipedia Summary | 4-Track Demos is an album of demos by British singer-songwriter PJ Harvey. It was released in October 1993 by Island Records. It consists of eight demos of songs from her previous album, Rid of Me, along with six demos of some unreleased tracks which never made it to release with the three-piece PJ Harvey line-up. According to interviews with Harvey, all fourteen of these songs were written and demoed at her home between mid-1991 and autumn 1992. 4-Track Demos was Harvey's first entirely self-produced album; there would not be another such until 2004's Uh Huh Her.<br><br> |
 | Release Year   | 2020                                   |
-| Discogs Link   | [PJ Harvey - 4-Track Demos](https://www.discogs.com/release/15792454-P-J-Harvey-4-Track-Demos) |
-| Label          | Island Records |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | Island Records |
 | Catalog Number | 0851113 |
 | Notes | Includes a custom inner sleeve and a download card. An unconfirmed but very small number of pre-orders came with a 12" x 12" glossy, thick card art print of the front cover signed by PJ Harvey.  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. BIEM/SDRM.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP) |
+| Discogs URL    | [PJ Harvey - 4-Track Demos](https://www.discogs.com/release/15792454-P-J-Harvey-4-Track-Demos) |

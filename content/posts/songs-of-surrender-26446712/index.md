@@ -11,6 +11,19 @@ cover:
     image: "songs-of-surrender-26446712.jpg"
     alt: "Songs Of Surrender by U2"
     caption: "Songs Of Surrender by U2"
+additional_images:
+    - "https://i.discogs.com/5HQrd-fv90QX5tyQ8h7wrrMxIgLhFTCRcahqpxjN2b8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2NzkwODMy/NzQtODc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/QQf4DHvHAvycXLEodV1UH-WdrmI8wBlZTCKwZncaWQ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2NzkwODM0/MzUtMTUzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/UDyInW4HETOzk3jtAXZoVVzcg3ve4m4OPhdUm9EImrg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjQtMjAwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Oaa_hCFiTKsKEsseGSPj2AOFxSfDqZadJxsqLEHrxd0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MTUtODM2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/NL5dHDI_WZwWuzgdfT7O9s0Bqe7_nc8-9IHSBrUF_Mk/rs:fit/g:sm/q:90/h:494/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjMtMTk4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/sFaRzWqRv7igLYCg5nDoeeQwbYnsgV9yqcwergIkx7k/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjMtODk3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/bA4YC5ifDOss_7JHPOiUKsmPVOepsv_VH30RwndZS9A/rs:fit/g:sm/q:90/h:493/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjQtMjg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/RX5r4x5luiaReVjS1BVoCKTKzIUu9yhOzGvnd5yotss/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjMtMTc5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/o0XDCyNxwwJbr1MYr1uvTjUdcPt99mTi1NtbyCti5VU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjEtODA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/gMcaLvt7hbXavGzvBF942gqDVC4r9AlafBd92GI6_oE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjItMTczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/uTKaPJyMJrHCG5pZb97Z06tXtC6wWx9KsmdGog2hiNI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjItMzI2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Bh3PuZdH9DXjddTu3KIKLvv8HMUsrbwepGp15RZZ-GI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjEtNTk1OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
@@ -38,7 +51,6 @@ styles: ["Alternative Rock", "Acoustic"]
 
 <!-- section break -->
 
-
 “People say your songs are like your children,” Bono tells Apple Music. “Wrong: Your songs are like your parents. They tell you what to do, how to dress. But after a while, if you're successful, songs become big. They're owned by other people, not you. And with this collection, we were sort of trying to listen to them again and trying to think, well, first of all, will they hold up? Will they stand up to being broken down outside of the firepower of a rock ’n’ roll band like U2?” 
 
 In their 45 years as a band, U2 have done little in the way of looking backwards. Bono’s 2022 memoir <i>Surrender</i> changed that—a story of his life and career told through the prism of 40 songs. Thanks to a global pandemic shelving whatever grander plans the band had, this compilation is an extrapolation of that, with 40 songs from across their vast catalogue—10 selected by each band member—completely reworked, largely acoustically. “Suddenly we had the space and time to just make music without there being any kind of pressure or any expectation,” says The Edge. “This idea I'd been knocking around for a while was to try some more of our songs in a stripped-down way that we had done over the years. But also the joy of it was there was no necessity to put it out if we didn't like it.”
@@ -64,23 +76,22 @@ The Edge: “Oh, that’s right. We changed the lyrics.”
 
 <b>“City of Blinding Lights”</b>
 The Edge: “What's fun is to hear things like 'City of Blinding Lights', which sounds like a completely different song lyric to me, because Bono's interpreting it in a way that he couldn't possibly have done with the rock version. The same is true for a lot of them, where you're hearing it in a different way. And that's, I think, why [Bono] went for new lyrics in a lot of songs is because there was a kind of opportunity there, there was a platform to deliver lyrics that wasn't there before.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-surrender/1664119641" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
-| Discogs Link   | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712-U2-Songs-Of-Surrender) |
-| Label          | Island Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Songs_of_Surrender |
+| Wikipedia Summary | Songs of Surrender is an album of re-recorded songs by Irish rock band U2. Produced by guitarist the Edge, it was released on 17 March 2023 on Island Records and Interscope Records. Largely the effort of the Edge and lead vocalist Bono, the album comprises re-recorded and reinterpreted versions of 40 songs from the group's back catalogue, many in stripped-down and acoustic arrangements. The album is a companion to Bono's memoir, Surrender: 40 Songs, One Story (2022), which was structured into 40 chapters titled after U2 songs. Rearranged versions of the songs were first included in the audiobook edition of the memoir, and were performed by Bono during the book's promotional tour.<br>Recording on Songs of Surrender began in 2021 and spanned a two-year period during lockdowns for the COVID-19 pandemic. The Edge and Bono worked on the album informally at the Edge's home and in France, as well as at recording studios in London and Los Angeles. During the sessions, the band members collaborated with numerous producers and musicians, including Bob Ezrin, Duncan Stewart, Declan Gaffney, and Stjepan Hauser.<br>Songs of Surrender was released on numerous formats in 16-track, 20-track, and 40-track editions, and a dozen coloured variants of the double-LP vinyl edition were produced. The album's release was accompanied by a television documentary film, Bono & The Edge: A Sort of Homecoming, With Dave Letterman, which streamed on Disney+. The album debuted atop 11 charts in Europe, including in the United Kingdom where U2 achieved their first number-one album since 2009. The record debuted at number five in the United States and Canada.<br><br> |
+    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Limited Edition (Orange Translucent, 180g) |
+| Label          | Island Records |
 | Catalog Number | 5503448 |
 | Notes | 16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany". |
+| Discogs URL    | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712-U2-Songs-Of-Surrender) |

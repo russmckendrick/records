@@ -10,6 +10,9 @@ cover:
     image: "the-boy-with-the-arab-strap-6215340.jpg"
     alt: "The Boy With The Arab Strap by Belle & Sebastian"
     caption: "The Boy With The Arab Strap by Belle & Sebastian"
+additional_images:
+    - "https://i.discogs.com/Ji_ZZxE6Q6ow4AiVaIl0mLOqKeimCcd4EJwFaJXbaOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NDAtMTQxMzkxNjUy/Mi01ODc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/kFm89INFFsK56FhUIRZtsCjZ5ccOdiJaELMVfev6wuI/rs:fit/g:sm/q:90/h:1843/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NDAtMTQxMzkxNzE3/OC0zODg4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -33,20 +36,13 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-boy-with-the-arab-strap/516530719" >}}
-
-
-
-
-
 ## Videos
 ### Belle & Sebastian - It Could Have Been A Brilliant Career
 {{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}<br>
-
 ### More Videos
 
 - [Belle and Sebastian - Sleep The Clock Around](https://www.youtube.com/watch?v=3mB8V9Lz7u0)
@@ -61,13 +57,17 @@ styles: ["Indie Rock"]
 - [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
 - [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Boy_with_the_Arab_Strap |
+| Wikipedia Summary | The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records. |
 | Release Year   | 2014                                   |
-| Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/6215340-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |
-| Label          | Jeepster Recordings |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Jeepster Recordings |
 | Catalog Number | JPRLP 003 |
 | Notes | Includes download of entire album.  Includes a PVC outer sleeve.    ℗ & © 1998 Jeepster Recordings Ltd.  Made in the E.U.  Distributed by Universal Music Operations Ltd.    Lyrics printed on the inside (left half) of the gatefold sleeve.       |
+| Discogs URL    | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/6215340-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |

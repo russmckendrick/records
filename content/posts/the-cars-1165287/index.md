@@ -11,6 +11,13 @@ cover:
     image: "the-cars-1165287.jpg"
     alt: "The Cars by The Cars"
     caption: "The Cars by The Cars"
+additional_images:
+    - "https://i.discogs.com/a2HL-Ha7e9y70bb6Z8zrc9_bIw8wm0WAmioojuw70vg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/Ny0xNDk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/2MkjztMpeePEhNXSiaWVCmgpeWfHVpqeAHfTxfFWyIM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/My0zNjIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/kz0rOmeWsU81gkF2MncYTwLbqgdX5JIloZKdZI4LpXM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/Ni03MDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Cmi3_UkEiQGjHtJ3vpnKiobsdwt-ktsU5OEWJ3H9djc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/NS0xMjE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/1kIh1Badpjji0SI-lGpZeyWqzD-PJrE3Fo0gGp2F664/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/NS02OTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/HV5XIm7N0EZovjWfgWxpUGLzE4_hmRFocqmH07jwnaM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/Ni02NjY4LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
@@ -31,22 +38,13 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-
 The Cars’ classic ‘70s and ‘80s run captures a band carrying rock ‘n’ roll into the future without ever losing sight of the past. Their debut single, 1978’s “Just What I Needed,” is a shot across punk’s bow, wedding power pop’s punch to hard-rock choruses, while “My Best Friend’s Girl,” from the same year, is full of ‘50s twang. By 1981’s “Shake It Up,” peppy New Wave keyboards have stormed the sock hop, and 1984’s “Drive” is a synth-pop power ballad par excellence.
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/complete-greatest-hits/1088530786" >}}
-
-
-
-
-
 ## Videos
 ### Good Times Roll
 {{< youtube id="Ki6xHnDAwHw" title="Good Times Roll" >}}<br>
-
 ### More Videos
 
 - [My Best Friend's Girl](https://www.youtube.com/watch?v=j-dfrHkaXuE)
@@ -58,13 +56,17 @@ The Cars’ classic ‘70s and ‘80s run captures a band carrying rock ‘n’ 
 - [Moving in Stereo](https://www.youtube.com/watch?v=y5oPZFDci80)
 - [All Mixed Up](https://www.youtube.com/watch?v=VFXsdQb35Io)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1978                                   |
-| Discogs Link   | [The Cars - The Cars](https://www.discogs.com/release/1165287-The-Cars-The-Cars) |
-| Label          | Elektra |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Cars_(album) |
+| Wikipedia Summary | The Cars is the debut studio album by American rock band the Cars, released on June 6, 1978, by Elektra Records. Produced by Roy Thomas Baker, the album spawned the singles "Just What I Needed", "My Best Friend's Girl", and "Good Times Roll". It peaked at number 18 on the US Billboard 200 and has been certified six-times platinum by the Recording Industry Association of America (RIAA). |
+    | Release Year   | 1978                                   |
 | Format         | Vinyl LP Album |
+| Label          | Elektra |
 | Catalog Number | K 52088 |
 | Notes | ℗ 1978 Elektra Records © 1978 An Elektra/Asylum Recording  All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978 Made in UK A1 to B2, B4: Lido Music B3: Lido Music / Oversnare Music  This version labels say SIDE 1 and SIDE 2 Version with SIDE ONE and SIDE TWO on labels is here [r14061338] |
+| Discogs URL    | [The Cars - The Cars](https://www.discogs.com/release/1165287-The-Cars-The-Cars) |

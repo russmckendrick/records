@@ -11,6 +11,18 @@ cover:
     image: "on-the-line-13380922.jpg"
     alt: "On The Line by Jenny Lewis"
     caption: "On The Line by Jenny Lewis"
+additional_images:
+    - "https://i.discogs.com/jdETkDU64PtSZsTDDVVikGthkRdguLbNL6-84HVUQP4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg2/MDMtMjczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/lUWTl-BJkw7FZ0yeaJpYAENq1nL7aPi0qnTovRUl3IE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/OTMtNDc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/BPsK7f2UHm4wjm2DgJVpWpAYkzP1jjoC559vT-7xQ2c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg2/MDMtNDQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/nsQLHhyH-04-tjh2IuK5d2y2ruK0yS7_mthjDOmUnSg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/OTQtMjE2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/q1-WFYvALexhoziMgHNSzQaBFPqWqHKmnZ5Gb44uOBU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/OTAtOTkwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/z2LheB0CLA0caCsdcfa5p__daVa_w8l6bgPymCC15DA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/OTQtMTE1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Tmg7YBtuJPu5_FbkbqARNuDxWWy0fWBloGkMp2t-m7w/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/OTctNDEwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/XG69lSYkGjxdeQmog2yilwY5ygGK-goTJR-X_BNNmFI/rs:fit/g:sm/q:90/h:2406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg2/MDItMTE1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/AyO9Tgd1FgN7b9sVifijJCwLeiCHNz6bbXn7NKm-40Q/rs:fit/g:sm/q:90/h:2416/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg2/MDMtOTI5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/YkF9k9F3Ph2bLb3lBoF6iR1NcS3K_LYfQyC57Y5br9w/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/ODYtNDMwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/gnrTta2CxcvtRw9BM44MRDrSby48m0zsakEiTVK8nhw/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/OTIyLTE1NTQwODg1/OTctNzY1Ny5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
@@ -32,7 +44,6 @@ styles: ["Indie Rock"]
 11. Rabbit Hole (2:46)
 
 <!-- section break -->
-
 
 A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo artist beloved by the famed and famous, Jenny Lewis would appear to have led a gilded life. But her truth—and there have been intimations both in song lyrics and occasionally in interviews—is of a far darker inheritance. “I come from working-class showbiz people who ended up in jail, on drugs, both or worse,” Lewis tells Apple Music. “I grew up in a pretty crazy, unhealthy environment, but I somehow managed to survive.” The death of her mother in 2017 (with whom she had reconnected after a 20-year estrangement) and the end of her 12-year relationship with fellow singer-songwriter Johnathan Rice set the stage for Lewis’ fourth solo album, where she finally reconciles her public and private self. A bountiful pop record about sex, drugs, death and regret, with references to everyone from Elliott Smith to Meryl Streep, <i>On the Line</i> is the Lewis aesthetic writ large: an autobiographical picaresque burnished by her dark sense of humour. Here, Lewis takes us through the album track by track.<br />
 <b>“Heads Gonna Roll”</b>
@@ -57,20 +68,12 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 “This is an important song for me. If you read the credits on this record, it says, ‘All songs by Jenny Lewis.’ Being in a band like Rilo Kiley was all about surrendering yourself to the group. And then working with Johnathan for so long, I might have lost a little bit of myself in being a collaborator. It’s nice to know I can create something that’s totally my own. I feel like this got me back to that place.”<br />
 <b>“Rabbit Hole”</b>
 “The record was supposed to end with ‘On the Line’—the dial tone that closes the song was supposed to be the last thing you hear. But I needed to write ‘Rabbit Hole’, almost as a mantra for myself: ‘I’m not gonna go/Down the rabbit hole with you.’ I figured the song would be for my next project, but I played it for Beck and he insisted that we put it on this record. It almost feels like a perfect postscript to this whole period of my life.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-line/1449905465" >}}
-
-
-
-
-
 ## Videos
 ### Jenny Lewis - Heads Gonna Roll (Official Audio)
 {{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll (Official Audio)" >}}<br>
-
 ### More Videos
 
 - [Jenny Lewis - Wasted Youth (Official Audio)](https://www.youtube.com/watch?v=ZY8bdQRpmGU)
@@ -84,13 +87,17 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 - [Jenny Lewis - On The Line (Official Audio)](https://www.youtube.com/watch?v=GmfvvKDOEwE)
 - [Jenny Lewis - Rabbit Hole (Official Audio)](https://www.youtube.com/watch?v=PSgvM6D6ssY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
-| Discogs Link   | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922-Jenny-Lewis-On-The-Line) |
-| Label          | Warner Bros. Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/On_the_Line_(Jenny_Lewis_album) |
+| Wikipedia Summary | On the Line is the fourth studio album (third solo album) by American singer-songwriter Jenny Lewis. The album was released on March 22, 2019, by Warner Bros. Records. Recorded at Capitol Records' Studio B, the album has contributions from Beck, Ringo Starr, Ryan Adams, Don Was, Benmont Tench, Jason Falkner, and Jim Keltner. |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue) |
+| Label          | Warner Bros. Records |
 | Catalog Number | 585764-1 |
 | Notes | Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany. |
+| Discogs URL    | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922-Jenny-Lewis-On-The-Line) |

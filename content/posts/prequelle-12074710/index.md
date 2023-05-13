@@ -11,6 +11,16 @@ cover:
     image: "prequelle-12074710.jpg"
     alt: "Prequelle by Ghost"
     caption: "Prequelle by Ghost"
+additional_images:
+    - "https://i.discogs.com/Kom8FMs93PZfYi742oF7AgbLjFwg-SUxmckMy7Jpqy0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1NDczNzQ1/MjQtMTI0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/nbI6yRLbml5ZkZ_4Z9ywQWVZg_XY_HPemmuSn4jy4lU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM4/MzgtNjgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/rbSc4uR3o-hjAX8M1nxAeUEcEioVT47mkmBwGnmISBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM4/NDctODMyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/8ukYk4oXhJzUurKWPe_ibwF0SpL5dT8uLSUW1uiKSRM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM4/NjItNTA5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/-7lNE97KEKyPsGocvK3Y6GkU7pMNTyaZ-VpC0XS5LiY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM4/NzctOTU0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/4JAZYLT2I7DyRdXq__Q4Dfy76W7GecVbMzB1MHHHOss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM4/ODctMjk1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/dpNoFAfm2q4TnSwBx7xECkNcxqT15X0p-BXP4u1bXsQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM5/MDAtNzc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/0Zl-iPZk2i5YbwX5TkVPymADQ8zLK6i9PhPIi_n0PhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM5/MTAtNTA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Rmjn_3P6iLUvcc5sQUfzOfsBTz5hiFPQqxO72U3aq70/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjg2NTk5/MTQtNzA2OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Gothic Metal"]
 ---
@@ -32,22 +42,13 @@ styles: ["Gothic Metal"]
 
 <!-- section break -->
 
-
 Set in medieval times, when the bubonic plague spread death across Europe, Ghost’s fourth album is a sociopolitical allegory for our own time. On soaring, metallic hymns like the Faustian “Rats,” the guitar explosion of “See the Light,” and the sinister, rumbling “Faith,” the theatrical Swedes' new frontman, Cardinal Copia, pulls the curtain back on power-hungry politicians and religious charlatans everywhere. Later, the pulsing discotheque romance of “Dance Macabre” and satanic Queen-esque ballad “Pro Memoria” offer contrasting meditations on love and death.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prequelle/1368157625" >}}
-
-
-
-
-
 ## Videos
 ### Ghost - Rats (Official Music Video)
 {{< youtube id="C_ijc7A5oAc" title="Ghost - Rats (Official Music Video)" >}}<br>
-
 ### More Videos
 
 - [Ashes](https://www.youtube.com/watch?v=XxyGT0B2cHU)
@@ -61,13 +62,16 @@ Set in medieval times, when the bubonic plague spread death across Europe, Ghost
 - [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)
 - [Life Eternal](https://www.youtube.com/watch?v=LU6ZN_CJICo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Set in medieval times, when the bubonic plague spread death across Europe, Ghost’s fourth album is a sociopolitical allegory for our own time. On soaring, metallic hymns like the Faustian “Rats,” the guitar explosion of “See the Light,” and the sinister, rumbling “Faith,” the theatrical Swedes' new frontman, Cardinal Copia, pulls the curtain back on power-hungry politicians and religious charlatans everywhere. Later, the pulsing discotheque romance of “Dance Macabre” and satanic Queen-esque ballad “Pro Memoria” offer contrasting meditations on love and death. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Ghost - Prequelle](https://www.discogs.com/release/12074710-Ghost-Prequelle) |
-| Label          | Loma Vista |
 | Format         | Vinyl LP Album Limited Edition (Red/Clear Swirl) |
+| Label          | Loma Vista |
 | Catalog Number | LVR00392 |
 | Notes | Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings |
+| Discogs URL    | [Ghost - Prequelle](https://www.discogs.com/release/12074710-Ghost-Prequelle) |

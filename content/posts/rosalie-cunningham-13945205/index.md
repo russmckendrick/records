@@ -10,6 +10,11 @@ cover:
     image: "rosalie-cunningham-13945205.jpg"
     alt: "Rosalie Cunningham by Rosalie Cunningham"
     caption: "Rosalie Cunningham by Rosalie Cunningham"
+additional_images:
+    - "https://i.discogs.com/9AuNM2qGBFOfNoVXjgIffX0HFdGTmuQqfrQ74W4IUUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ1/MjA1LTE1NjY5OTg1/NjUtNDUyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/08nmH1omhQ8Ejii2DD1emlYPmgsCrDrs5oKep0if5eU/rs:fit/g:sm/q:90/h:582/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ1/MjA1LTE1OTg0MTU3/MzctNTIxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/zC_ovocsiN9GQ_mi8uLr1fMKftwv7xO0t4618XW7-Rk/rs:fit/g:sm/q:90/h:590/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ1/MjA1LTE1OTg0MTU3/MzctNjIwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/7VOCQkMwCMulMgWGuJCGST7VPpOGLMgUJeP97hQ--Zg/rs:fit/g:sm/q:90/h:563/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ1/MjA1LTE1OTg0MTU3/MzctNTE3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
@@ -29,31 +34,28 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-
-
-
+Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After the split of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rosalie-cunningham/1464598387" >}}
-
-
-
-
-
 ## Videos
 ### Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO
 {{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}<br>
-
 ### More Videos
 
 - [Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Rosalie_Cunningham |
+| Wikipedia Summary | Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After the split of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205-Rosalie-Cunningham-Rosalie-Cunningham) |
-| Label          | Esoteric Antenna |
 | Format         | Vinyl LP Album |
+| Label          | Esoteric Antenna |
 | Catalog Number | EANTLP1075 |
 | Notes | Standard black vinyl 200 copies was signed by the band Made in the EU |
+| Discogs URL    | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205-Rosalie-Cunningham-Rosalie-Cunningham) |

@@ -10,6 +10,12 @@ cover:
     image: "bbc-broadcasts-26289155.jpg"
     alt: "BBC Broadcasts by Genesis"
     caption: "BBC Broadcasts by Genesis"
+additional_images:
+    - "https://i.discogs.com/CntIENULTmeKffdraLu3hLOVnHo-q38MnAA6lSXL2aY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg5/MTU1LTE2Nzc4NDg2/MjktMzQ4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/f8mxL6QGFRz8ZrHbfP4C6Bk2CsIJIakNEGO0ZmHHrp8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg5/MTU1LTE2Nzc5NjAw/ODItOTA2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/KoONqUCHzEWOo4utxYTE32ypLiunMplHtw2T1axQoq8/rs:fit/g:sm/q:90/h:846/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg5/MTU1LTE2Nzc5NjAw/ODItMTg3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/5utsrFmS_YdfHLj_or_clkQZWOWieU4Ov-zVKaYPltk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg5/MTU1LTE2NzgxODg3/MjMtNTgxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/cwl87JyBqiTWm8R_K5qV6w_QjM1kHXujLfz_7Hzcawc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg5/MTU1LTE2NzgxODg3/MjMtMTEwNi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
@@ -52,19 +58,23 @@ styles: ["Prog Rock", "Pop Rock"]
 
 <!-- section break -->
 
+BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.
 
 
+<br>
 
 
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/BBC_Broadcasts |
+| Wikipedia Summary | BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.<br><br> |
 | Release Year   | 2023                                   |
-| Discogs Link   | [Genesis - BBC Broadcasts](https://www.discogs.com/release/26289155-Genesis-BBC-Broadcasts) |
-| Label          | EMI |
 | Format         | Vinyl 3× LP Compilation Stereo |
+| Label          | EMI |
 | Catalog Number | 00602435686370 |
 | Notes | Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)  Trifold sleeve. Made in the EU.  Photography By Knebwoth, BBC & Getty Images. |
+| Discogs URL    | [Genesis - BBC Broadcasts](https://www.discogs.com/release/26289155-Genesis-BBC-Broadcasts) |

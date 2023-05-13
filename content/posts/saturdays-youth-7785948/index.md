@@ -10,6 +10,8 @@ cover:
     image: "saturdays-youth-7785948.jpg"
     alt: "Saturdays = Youth by M83"
     caption: "Saturdays = Youth by M83"
+additional_images:
+    - "https://i.discogs.com/5eMAi1jGM2zFi2a27T5o0IZEJr1-t2DwVnvaD4A6wJU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ---
@@ -32,20 +34,12 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/saturdays-youth/1672227190" >}}
-
-
-
-
-
 ## Videos
 ### M83 'We Own The Sky' Official video
 {{< youtube id="sWsUNbdc5IM" title="M83 'We Own The Sky' Official video" >}}<br>
-
 ### More Videos
 
 - [M83 - Skin of the Night (audio)](https://www.youtube.com/watch?v=fIY64norZqY)
@@ -56,13 +50,15 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 - [M83 - Too Late (audio)](https://www.youtube.com/watch?v=JEEOuF1zfNQ)
 - [M83 - Graveyard Girl](https://www.youtube.com/watch?v=gY8iy8S0S4w)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [M83 - Saturdays = Youth](https://www.discogs.com/release/7785948-M83-Saturdays-Youth) |
-| Label          | Naïve |
 | Format         | Vinyl 2× LP Album Reissue |
+| Label          | Naïve |
 | Catalog Number | NV833361 |
 | Notes | ℗ 2008 M83 Recording Inc. © 2015 M83 Recording Inc. Made in France.  Ken Thomas is represented by Air Management Ewan Pearson is represented by Howie Martinez and Ian Clifford Artwork Design by Louise Downer at Blue Ink Creative  Tracks are listed sequentially as they show on the backside of the record's jacket and center labels. |
+| Discogs URL    | [M83 - Saturdays = Youth](https://www.discogs.com/release/7785948-M83-Saturdays-Youth) |

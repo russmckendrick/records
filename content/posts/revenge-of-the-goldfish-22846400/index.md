@@ -10,6 +10,14 @@ cover:
     image: "revenge-of-the-goldfish-22846400.jpg"
     alt: "Revenge Of The Goldfish ™ by Inspiral Carpets"
     caption: "Revenge Of The Goldfish ™ by Inspiral Carpets"
+additional_images:
+    - "https://i.discogs.com/d7sUXmYI3np_bYxUGTGbCHS_ailo7iA-Qb7Zxepbky4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/MzItMzUwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/DAArecFzz-yBLha2zdGGZTzeTI0jQpjYVzJH6kxUfRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/MzEtNTQyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/6bZlhXPlBqDqz8P4jG0ccr-uUIBQMOxKdYggva7PFFM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/MzEtODk3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/EECnsv6O_wb73UCEFV3lXWZLYW_rZ8sdT4AviHQ1uow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/NDAtNjExNy5qcGVn.jpeg"
+    - "https://i.discogs.com/pEwVSHjRNeA6cB2nNqNXjrjOKtVzSVX6puh4esMZfHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/NDAtNDY2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/xhA8a_Bt9EQn0eqZwKANAs9glwmsVpPo8c45MXaa13s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/MzktNTg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/NeEvRRR5EjC9xJXKfUI-GX6KHvQOw4YM7Iu7hXy8bOM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NDAwLTE2NDk3MDMz/MzktNDYyMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -33,20 +41,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/revenge-of-the-goldfish/1145592944" >}}
-
-
-
-
-
 ## Videos
 ### Inspiral Carpets - Generations (Official HD Video)
 {{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations (Official HD Video)" >}}<br>
-
 ### More Videos
 
 - [Saviour](https://www.youtube.com/watch?v=T3lwGF-a9ik)
@@ -61,13 +61,15 @@ styles: ["Indie Rock"]
 - [Rain Song](https://www.youtube.com/watch?v=WTQg9B90ytM)
 - [Irresistible Force](https://www.youtube.com/watch?v=wi5gO_h08Bg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Inspiral Carpets - Revenge Of The Goldfish ™](https://www.discogs.com/release/22846400-Inspiral-Carpets-Revenge-Of-The-Goldfish-) |
-| Label          | Mute |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Transparent, 30th Anniversary) |
+| Label          | Mute |
 | Catalog Number | ldung19 |
 | Notes | Hype sticker on sleeve. Inner sleeve with lyrics reports "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
+| Discogs URL    | [Inspiral Carpets - Revenge Of The Goldfish ™](https://www.discogs.com/release/22846400-Inspiral-Carpets-Revenge-Of-The-Goldfish-) |

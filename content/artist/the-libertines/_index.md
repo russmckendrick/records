@@ -1,6 +1,10 @@
 ---
 title: "The Libertines"
-summary: "London based rock & roll band , featuring Peter Doherty on vocals/guitar, Carl Barat also on vocals/guitar, John Hassall on bass guitar & Gary Powell on drums."
+summary: "The Libertines are an English rock band, formed in London in 1997 by frontmen Carl Barât and Pete Doherty . The band, centred on the songwriting partnership of Barât and Doherty, has also included John Hassall , and Gary Powell for most of its recording career. The band was part of the garage rock revival and spearheaded the movement in the UK.
+The band gained some notoriety in the early 2000s, due to Doherty's use of illegal drugs and conflicts between Barât and Doherty. Although their mainstream success was initially limited, their profile soon grew, culminating in a No. 2 single and No. 1 album on the UK Charts. In December 2004, their self-titled second album was voted the second best album of the year by NME magazine. The first two of their full-length LPs were produced by Mick Jones, of the British punk band The Clash.
+In spite of their critical and commercial success, the band's music was often eclipsed by its internal conflicts, stemming from Doherty's addictions to crack cocaine and heroin, which eventually led to the break-up of the band. Doherty has since stated that the break-up of the band was due to relationship difficulties between Barât and himself that were not related to his drug addictions. The members of the Libertines went on to form new bands with varying degrees of success.
+In August 2010, the four members of the Libertines reunited to play a series of shows, including slots at the 2010 Reading and Leeds Festivals. The reunion shows received a highly positive response from the press and fans. In April 2014 the Libertines announced they would again reform for a show at London's Hyde Park. In November 2014 the band signed a record deal with Virgin EMI Records, and released their third album, Anthems for Doomed Youth on 11 September 2015."
 image: "the-libertines.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-libertines/7259481"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Libertines"
 ---

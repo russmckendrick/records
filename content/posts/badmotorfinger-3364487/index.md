@@ -11,6 +11,13 @@ cover:
     image: "badmotorfinger-3364487.jpg"
     alt: "Badmotorfinger by Soundgarden"
     caption: "Badmotorfinger by Soundgarden"
+additional_images:
+    - "https://i.discogs.com/BxE4Dp8RjwcryJ3ONRun7OjS0fxKLUgVYh74ePl5Ho4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ0/ODctMTQ2MTY3NDUz/OC02NjUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/_h_01q-Ij-VdZhVCAkzWNStI6gwMC0eRpmq0OF-Pteo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ0/ODctMTY0ODg4NjU2/OC01ODU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/gE96Sz7nk_HzTVnbH5FENj3d5XL0pvuI9dPjkaZoLlI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ0/ODctMTQ2MTY3NDUz/Ny0xODEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/e7g0hQb7vc9BVkWlnadXja-XrWpa_s-9r2JQixVts3Q/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ0/ODctMTQ2MTY3NDUz/NC00MTEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/vmWcR6_MquysVtn7SwYnvfPby4jJ-TfKKG0K9RDa_uM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ0/ODctMTQ2MTY3NDUz/NC02NDczLmpwZWc.jpeg"
+    - "https://i.discogs.com/Oz3-O05Y1RrgOi7BwSRAqYq6-9C0cGUhxPDgYEMC3B0/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ0/ODctMTY0ODg4NjU4/Ny02Mjk5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Grunge"]
 ---
@@ -34,24 +41,15 @@ styles: ["Grunge"]
 
 <!-- section break -->
 
-
 Of the albums that reshaped mainstream rock in 1991 (including Nirvana’s <i>Nevermind</i> and Pearl Jam’s <i>Ten</i>), <i>Badmotorfinger</i> is both the most traditional and the least accessible. The hallmarks of classic hard rock are there: big riffs, heavy rhythms, Chris Cornell’s tomcat shriek. But there’s an antisociality to it that, if not the residual influence of punk and hardcore, is at least the kind of thing you wouldn’t play at parties. Talking with Apple Music, guitarist Kim Thayil describes it as a question of function: Some hard rock you can listen to while playing sports, driving fast, making love. “With our records,” he says, “we wanted to make sure that there was some depth in there, that there was a psychedelic element.”<br />
 They’re qualities achieved through special effects (“Rusty Cage”), repetition (“Jesus Christ Pose”) and sheer inertia (“Slaves & Bulldozers”). And while the pedigree was underground, they conveyed enough conventional sex and danger to appeal to audiences who didn’t care about pedigree so long as they rocked—which they did, without irony or pretense. When Guns N’ Roses asked them to tour in 1991, they went. And when Skid Row asked them a year later, they went then, too. Soundgarden were an interesting band—but one determined not to let their interestingness get to them.<br />
 Though <i>Badmotorfinger</i> didn’t see the same phenomenal success that <i>Nevermind</i> and <i>Ten</i> did, it bridged a gap between underground and mainstream rock at a time when the nature of that gap was changing and the width of it narrowing. Looking back, Thayil is grateful: “They got all the attention,” he says. “Meanwhile, [we had] steady growth.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/badmotorfinger-25th-anniversary-remaster/1440890539" >}}
-
-
-
-
-
 ## Videos
 ### Soundgarden - Rusty Cage
 {{< youtube id="pBZs_Py-1_0" title="Soundgarden - Rusty Cage" >}}<br>
-
 ### More Videos
 
 - [Badmotorfinger (1991)](https://www.youtube.com/watch?v=rH9UM3Oyoy0)
@@ -62,13 +60,17 @@ Though <i>Badmotorfinger</i> didn’t see the same phenomenal success that <i>Ne
 - [Holy Water](https://www.youtube.com/watch?v=gFtFdUOIalk)
 - [Room A Thousand Years Wide](https://www.youtube.com/watch?v=p4nNvXvrWlE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
-| Discogs Link   | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487-Soundgarden-Badmotorfinger) |
-| Label          | A&M Records |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Badmotorfinger |
+| Wikipedia Summary | Badmotorfinger is the third studio album by American rock band Soundgarden, released on October 8, 1991, through A&M Records. Soundgarden began the recording sessions for the album with new bassist Ben Shepherd in the spring of 1991. The album maintained the band's heavy metal sound, while featuring an increased focus on songwriting compared to the band's previous releases. AllMusic considered the album's music to be "surprisingly cerebral and arty"; alternative tunings and odd time signatures were present on several of the album's songs, and lyrics were intended to be ambiguous and evocative.<br>The focus on the Seattle grunge scene helped bring attention to Badmotorfinger, and the singles "Outshined" and "Rusty Cage" were able to find a major audience in rock radio and MTV. Badmotorfinger became the band's highest charting album at the time on the Billboard 200, where it peaked at number 39. The album received critical acclaim, citing the significant improvements over earlier releases and evolution in the band's sound. Soundgarden supported the album with tours of North America and Europe, including opening for Guns N' Roses on the Use Your Illusion Tour. In 1992, Badmotorfinger was nominated for the Grammy Award for Best Metal Performance, and it was certified double platinum by the Recording Industry Association of America in 1996. |
+    | Release Year   | 1992                                   |
 | Format         | Vinyl LP Album |
+| Label          | A&M Records |
 | Catalog Number | 395 374-1 |
 | Notes | ℗ 1991 A&M Records Inc., Los Angeles  Made in England  Some copies are issued with a hype sticker. |
+| Discogs URL    | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487-Soundgarden-Badmotorfinger) |

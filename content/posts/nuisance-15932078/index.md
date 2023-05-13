@@ -10,6 +10,15 @@ cover:
     image: "nuisance-15932078.jpg"
     alt: "Nuisance by Menswear"
     caption: "Nuisance by Menswear"
+additional_images:
+    - "https://i.discogs.com/afoWImHtffzDRcFqvDc6ZEuYl1nTPnfBFlQGl8G2OBc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDU3NTI0/NjEtODIxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/nv0TmR4XRLbkiveNYInGjSRaNEif8JsqKLTOMV6vDt0/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDU3NTI0/NjEtMjk5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/gBOxvHd9VVwG9t_RUktjItBmfRI1M1qmDd_DLLPZlfk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDY0MTkw/MzAtOTEyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Nt6r-WjC0lzPkjs0ru_7TJedzWe8CWb70Ur69lXwjcU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDU3Njkx/MTAtNjA5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/QnE_vOWRHzcI7C0EvFciKiqscKS0Geo5RqiEM-P_FnU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDY0MTkw/NTItMzA1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/cv0Pi0qbvHg41oMNtepHGsNXHUagNCuZu6Ct9PCUTDI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDY0MTg5/NzgtMzY4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/te6MQaOa-4qsJxWG2rxzuFTCJUt7UL6NBXu_e_jrAaU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDY0MTg5/NzgtNjYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/loelCo3dZ16eFdpj2jC2t5t8JhIVIQ92h2LoSdwSo5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MDc4LTE2MDY0MTg5/NzgtOTk4MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
@@ -35,20 +44,12 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nuisance/1320067263" >}}
-
-
-
-
-
 ## Videos
 ### MENSWEAR-BEING BRAVE
 {{< youtube id="NO4_BjbLCqY" title="MENSWEAR-BEING BRAVE" >}}<br>
-
 ### More Videos
 
 - [Menswear - I'll Manage Somehow](https://www.youtube.com/watch?v=ix469VbXjjM)
@@ -56,13 +57,15 @@ styles: ["Indie Rock", "Britpop"]
 - [Menswear - Daydreamer (Official Music Video)](https://www.youtube.com/watch?v=oRwlD6qyMF0)
 - [Menswear - Stardust (Official Video)](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2020                                   |
-| Discogs Link   | [Menswear - Nuisance](https://www.discogs.com/release/15932078-Menswer-Nuisance) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange, 180g) |
+| Label          | Demon Records |
 | Catalog Number | DEMREC 654 |
 | Notes | Record Store Day 2020 DROP#3 release. |
+| Discogs URL    | [Menswear - Nuisance](https://www.discogs.com/release/15932078-Menswer-Nuisance) |

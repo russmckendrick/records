@@ -10,6 +10,13 @@ cover:
     image: "jay-silent-bob-reboot-original-motion-picture-soundtrack-14465350.jpg"
     alt: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various"
     caption: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various"
+additional_images:
+    - "https://i.discogs.com/Z77Y_lEfXSTO611oXn_MtaLBGEsjsYN52ZasJhA5qrc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjktNzkyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/BdKOWKMN-EteiAK6F0IGC0jL0paEfTM6kLgI69IsmWI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtNDU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/CfBa5WltNPLUQQXAdcYYhkXnn_NWUDvOzR5fU7QAak0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtNzc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/K2VDG903Lok07Q916SKHyVGixn3qJPq8daFxYQYmSck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtMjkwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/EK4Ce0Nyn8d62qljVQlyt6RBZcwF6FnW1QWZRCLbTso/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjktMTA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/w0spBANftZh0z2jU0hYFCCXVZzVwsUehUi6REOv0ank/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE2NDMyMTEz/ODAtOTM4NS5qcGVn.jpeg"
 genres: ["Rock", "Non-Music", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Pop Rap"]
 ---
@@ -47,19 +54,12 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Spotify
 {{< spotify type="album" id="5i9znXMK0Ni5hrHCdSDZY9" width="100%" height="500" >}}
-
-
-
-
 ## Videos
 ### PM Dawn - I'd Die Without You
 {{< youtube id="C_qWlPCEnGM" title="PM Dawn - I'd Die Without You" >}}<br>
-
 ### More Videos
 
 - [Mooby's Song](https://www.youtube.com/watch?v=YUdJKKG8ih0)
@@ -69,13 +69,15 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 - [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
 - [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)](https://www.discogs.com/release/14465350-Various-Jay-Silent-Bob-Reboot-Original-Motion-Picture-Soundtrack) |
-| Label          | eOne |
 | Format         | Vinyl LP Album Record Store Day (Green [Weed Green], 180g) |
+| Label          | eOne |
 | Catalog Number | EOM-LP-46214 |
 | Notes | The track duration is not mentioned in the output. Made in U.S.A. including: a movie poster with credits  Hype Sticker:  "RECORD STORE DAY 1ST TIME ON VINYL! 180G WEED GREEN  COLORED EDITION INCLUDES CHRONICON DOWNLOAD CARD" |
+| Discogs URL    | [Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)](https://www.discogs.com/release/14465350-Various-Jay-Silent-Bob-Reboot-Original-Motion-Picture-Soundtrack) |

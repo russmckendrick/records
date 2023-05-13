@@ -10,6 +10,10 @@ cover:
     image: "double-roses-10098506.jpg"
     alt: "Double Roses by Karen Elson"
     caption: "Double Roses by Karen Elson"
+additional_images:
+    - "https://i.discogs.com/EVj2gmCRZcDqQBSp1Bh04SO-cJFxooR5eFd-ciqbxng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk4/NTA2LTE0OTE1Nzkx/MDMtODE2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/OaJYTXEhYpbe115s5AHw5iMdAgK52rEEoQvFTW1ht8w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk4/NTA2LTE0OTE1Nzkx/MDQtODYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/AhiP4JTigjbqRZSauaAjzjyDgtZL4sCu_rENgp7NfiI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk4/NTA2LTE0OTE1Nzkx/MDMtNjU5My5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
@@ -31,27 +35,22 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/double-roses/1186335978" >}}
-
-
-
-
-
 ## Videos
 ### Karen Elson - Double Roses [FULL ALBUM]
 {{< youtube id="uEKiKp-2bW4" title="Karen Elson - Double Roses [FULL ALBUM]" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Karen Elson - Double Roses](https://www.discogs.com/release/10098506-Karen-Elson-Double-Roses) |
-| Label          | 1965 Records |
 | Format         | Vinyl LP Album |
+| Label          | 1965 Records |
 | Catalog Number | 9223701 |
+| Discogs URL    | [Karen Elson - Double Roses](https://www.discogs.com/release/10098506-Karen-Elson-Double-Roses) |

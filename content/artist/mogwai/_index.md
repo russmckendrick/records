@@ -1,6 +1,9 @@
 ---
 title: "Mogwai"
-summary: "Scottish 'post-rock' band formed in Glasgow in 1995 by Stuart Braithwaite , Dominic Aitchison and Martin Bulloch . John Cummings soon joined in as an additional guitarist. Brendan O'Hare , joined the band temporarily in 1997 and helped make their debut LP *Young Team*. O'Hare left the band at the end of 1997. After touring with the band in the summer of 1998, the multi-instrumentalist Barry Burns was asked to join Mogwai as a full-time member."
+summary: "Mogwai are a Scottish post-rock band, formed in 1995 in Glasgow. The band consists of Stuart Braithwaite , Barry Burns , Dominic Aitchison , and Martin Bulloch . Mogwai typically compose lengthy guitar-based instrumental pieces that feature dynamic contrast, melodic bass guitar lines, and heavy use of distortion and effects.
+The band were for several years signed to Glasgow label Chemikal Underground, and have been distributed by different labels such as Matador in the US and Play It Again Sam in the UK, but now use their own label Rock Action Records in the UK, and Temporary Residence Ltd. in North America.
+Mogwai's tenth album, As the Love Continues, reached No. 1 in the UK Albums Chart on 26 February 2021."
 image: "mogwai.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/mogwai/2989748"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mogwai"
 ---

@@ -10,6 +10,14 @@ cover:
     image: "the-best-of-prefab-sprout-a-life-of-surprises-14187657.jpg"
     alt: "The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout"
     caption: "The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout"
+additional_images:
+    - "https://i.discogs.com/QIGF_cT4v1QecCr44n5Vs22YgzL_rbm2pnFsm6z63oY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDMtOTAyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/FO54FRf5wWbztcajUJHdIxRz14r6A26P8SQLeV-jtLQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDQtNTI0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/UZ6oF5SQ0pAfhuQBgCkWgv91CE5JItg6i8aUNNKQlhY/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDMtNTQ5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/33b73KD60IeJVCwDE8xa5StKpQNAuK0tYxqMKfEejR8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDUtNjMxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/ioy63kpOSc1I_mj7bCvWpUb7wx0zaTWoeZ_6Syjelgk/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDUtNTc3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/_kjbQxr_F_09c3QBM_izHjCa3fiv1orZm77DM4j84Uo/rs:fit/g:sm/q:90/h:653/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDMtMTYwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/GJ73u1yp0m7nXEQdkq7wyNBU5OAPU6ZO1NP9it9P7Nk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDItMjYzNS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
@@ -37,20 +45,12 @@ styles: ["Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-life-of-surprises-the-best-of-prefab-sprout-remastered/1476850752" >}}
-
-
-
-
-
 ## Videos
 ### Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)
 {{< youtube id="FKZY_r0hKqg" title="Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)" >}}<br>
-
 ### More Videos
 
 - [Prefab Sprout - If You Don't Love Me](https://www.youtube.com/watch?v=9FRQDOVSekE)
@@ -67,13 +67,15 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Prefab Sprout Wild Horses](https://www.youtube.com/watch?v=Zv_jxrAMThI)
 - [Prefab Sprout - The Sound Of Crying](https://www.youtube.com/watch?v=6we_GK0ZWa8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises](https://www.discogs.com/release/14187657-Prefab-Sprout-The-Best-Of-Prefab-Sprout-A-Life-Of-Surprises) |
-| Label          | Kitchenware Records |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gram) |
+| Label          | Kitchenware Records |
 | Catalog Number | 19075944651 |
 | Notes | Gatefold sleeve. Made in the EU.  Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers. |
+| Discogs URL    | [Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises](https://www.discogs.com/release/14187657-Prefab-Sprout-The-Best-Of-Prefab-Sprout-A-Life-Of-Surprises) |

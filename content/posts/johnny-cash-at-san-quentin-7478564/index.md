@@ -11,6 +11,11 @@ cover:
     image: "johnny-cash-at-san-quentin-7478564.jpg"
     alt: "Johnny Cash At San Quentin by Johnny Cash"
     caption: "Johnny Cash At San Quentin by Johnny Cash"
+additional_images:
+    - "https://i.discogs.com/3Sjrpgc56aqv1N5S4RpNGZVSmHj0sSpZrOpmfw2gzNE/rs:fit/g:sm/q:90/h:393/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzg1/NjQtMTQ0MjMwMjYz/OS04MTM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/0W1UREGrwIDGI3Px-JRjpgOQkM-omCjXrzwBjojJjKw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzg1/NjQtMTU3NzM5MTIz/Ny0yNTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/YRNJJ9VhvQYAv-mSbE1WwjgBGyfQTyc0_txmopdnApg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzg1/NjQtMTU3NzM5MTI3/MC05NDc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/gdAyAVUeU_ALellcHgG1ybkLC0iRgbjeTKe55zinC_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzg1/NjQtMTU3NzM5MTI4/My01OTMyLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Rock & Roll"]
 ---
@@ -32,25 +37,22 @@ styles: ["Country", "Rock & Roll"]
 
 <!-- section break -->
 
-
 Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/at-san-quentin-live/824812884" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Johnny Cash - Johnny Cash At San Quentin](https://www.discogs.com/release/7478564-Johnny-Cash-Johnny-Cash-At-San-Quentin) |
-| Label          | Columbia |
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
+| Label          | Columbia |
 | Catalog Number | 88875111981 |
 | Notes | Sticker on cover can vary with 2 versions: We are vinyl sticker or Legacy sticker.  The labels state that the record is mono. The audio is actually stereo.  Contains download card. |
+| Discogs URL    | [Johnny Cash - Johnny Cash At San Quentin](https://www.discogs.com/release/7478564-Johnny-Cash-Johnny-Cash-At-San-Quentin) |

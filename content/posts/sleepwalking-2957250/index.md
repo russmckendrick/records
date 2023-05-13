@@ -10,6 +10,8 @@ cover:
     image: "sleepwalking-2957250.jpg"
     alt: "Sleepwalking by Kingmaker"
     caption: "Sleepwalking by Kingmaker"
+additional_images:
+    - "https://i.discogs.com/qIRD5ThN-TbPnmPIVH67DS2CGXaecq8erzjtnRcUYqs/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTcy/NTAtMTMwOTA5MDY1/OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
@@ -33,20 +35,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sleepwalking/1629179702" >}}
-
-
-
-
-
 ## Videos
 ### Playground Brutality Kingmaker
 {{< youtube id="8TT8tNF67v8" title="Playground Brutality Kingmaker" >}}<br>
-
 ### More Videos
 
 - [Kingmaker - Queen Jane](https://www.youtube.com/watch?v=oyTtxrFYsmU)
@@ -56,13 +50,15 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Help Yourself](https://www.youtube.com/watch?v=IWQ2TG2Bv3s)
 - [Your Place](https://www.youtube.com/watch?v=PX0AIQWfxgw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1993                                   |
-| Discogs Link   | [Kingmaker - Sleepwalking](https://www.discogs.com/release/2957250-Kingmaker-Sleepwalking) |
-| Label          | Chrysalis |
 | Format         | Vinyl LP Album |
+| Label          | Chrysalis |
 | Catalog Number | CHR 6014 |
 | Notes | ℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd.  Release features Chrysalis and Scorch Records logos.   |
+| Discogs URL    | [Kingmaker - Sleepwalking](https://www.discogs.com/release/2957250-Kingmaker-Sleepwalking) |

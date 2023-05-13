@@ -10,6 +10,9 @@ cover:
     image: "animal-rights-8534931.jpg"
     alt: "Animal Rights by Moby"
     caption: "Animal Rights by Moby"
+additional_images:
+    - "https://i.discogs.com/mQN8XTwGV8-AX2PvQm-CHPmdv2wcf510ycQOWM99lzw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ5/MzEtMTQ2NDM5NDE1/MS02MDQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/B3Zw51onPY0JBOkU1de71YuCTjUW4R8_-ysX6LQ_8PE/rs:fit/g:sm/q:90/h:730/w:513/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ5/MzEtMTY0NjQzMTgw/OS0xNjcxLnBuZw.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Alternative Rock"]
 ---
@@ -33,23 +36,23 @@ styles: ["Punk", "Alternative Rock"]
 
 <!-- section break -->
 
-
-
-
+Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animal-rights/1193759982" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Animal_Rights_(album) |
+| Wikipedia Summary | Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Moby - Animal Rights](https://www.discogs.com/release/8534931-Moby-Animal-Rights) |
-| Label          | Mute |
 | Format         | Vinyl LP Album Limited Edition Reissue (180g) |
+| Label          | Mute |
 | Catalog Number | STUMM 150 |
 | Notes | If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included. |
+| Discogs URL    | [Moby - Animal Rights](https://www.discogs.com/release/8534931-Moby-Animal-Rights) |

@@ -10,6 +10,12 @@ cover:
     image: "captain-fantastic-original-soundtrack-8757071.jpg"
     alt: "Captain Fantastic (Original Soundtrack) by Alex Somers"
     caption: "Captain Fantastic (Original Soundtrack) by Alex Somers"
+additional_images:
+    - "https://i.discogs.com/SnKU0GgiUtslUHQZ-7Ybp0deSAP670ZFTccXpNqz6HI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/NzEtMTQ3NjU4NDUw/My00NjM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/fwYyo9YlOrK_NeGcJGOvSogiHt_Z49YoCq_C-l-EK3w/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/NzEtMTQ2ODI5Mzk5/NC05MzUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/O-GkKPX4iMk_f2f9SZ8uZC9Ib-HtqdZbBOK1G6TDP1c/rs:fit/g:sm/q:90/h:638/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/NzEtMTQ2ODI5Mzk5/NC05Mzk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/_UP5NjbQIni5fOYIMu8vtowcciiKoPAIAkxsW0TyBXQ/rs:fit/g:sm/q:90/h:637/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/NzEtMTQ2ODI5Mzk5/NC04MTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/MuM9zxr46k6BMVtZOsuFsk_Bq3msMojz1wpVThO8oOM/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/NzEtMTQ2ODI5Mzk5/NC00ODgwLmpwZWc.jpeg"
 genres: ["Classical", "Stage & Screen"]
 styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ---
@@ -45,16 +51,10 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Captain Fantastic Original Soundtrack OST (2016) Alex Somers
 {{< youtube id="iFCrtw63FNk" title="Captain Fantastic Original Soundtrack OST (2016) Alex Somers" >}}<br>
-
 ### More Videos
 
 - [Captain Fantastic - Alex Somers - Score Preview (Official Video)](https://www.youtube.com/watch?v=IF0i0Zv3kzM)
@@ -63,13 +63,15 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 - [Funeral Pyre - Alex Somers - Captain Fantastic Soundtrack (Official Video)](https://www.youtube.com/watch?v=bXks1AP8fG8)
 - [Memories](https://www.youtube.com/watch?v=T82gOSwFCPs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Alex Somers - Captain Fantastic (Original Soundtrack)](https://www.discogs.com/release/8757071-Alex-Somers-Captain-Fantastic-Original-Soundtrack) |
-| Label          | Invada |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Transparent Duck Egg Blue) |
+| Label          | Invada |
 | Catalog Number | INV164LP |
 | Notes | Limited to 1,150 copies Pressed on heavyweight colored vinyl Housed in a handmade bespoke gatefold sleeve with rounded edges Includes digital download card Transparent Duck Egg Blue |
+| Discogs URL    | [Alex Somers - Captain Fantastic (Original Soundtrack)](https://www.discogs.com/release/8757071-Alex-Somers-Captain-Fantastic-Original-Soundtrack) |

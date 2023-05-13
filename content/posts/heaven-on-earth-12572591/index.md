@@ -10,6 +10,15 @@ cover:
     image: "heaven-on-earth-12572591.jpg"
     alt: "Heaven On Earth by Belinda Carlisle"
     caption: "Heaven On Earth by Belinda Carlisle"
+additional_images:
+    - "https://i.discogs.com/mZDb356YuEtSvch24d1tmsampTtg6h8M1Lm3yKdNXgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTYtMjM4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/KOyG83g-htrZcUWl9EfaEdoaePSiowC81JG0JXuOHUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDc4Njk2/MTEtNTkwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/5VxQrIz-6otIWadVo-FVWwq8gNYGR4XjCI-2uvEgDnQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTYtNzc1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Bjlwq4uCCSjxaDyXF1PPZicdbvyoWaV1JL5XV2lMcvk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTctOTgzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/S9q5gnxECNjjCMRyyEbdyRLqrBcHJDzGvSUOIj0C14I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTYtNjQ5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/efT0Tt6gxWU1nSM5xLkX5LifGxS0wUOZ4rtP86mbSf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDc4Njk2/MTEtMjU5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/-65rVIrLjtFn65ct4GQkRaAMCkq6a1M8XX37sArsTXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTYtODUwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Ejq9MUlhJyyoIfqK7NTkLfP8WK2G93khneC945VIR6w/rs:fit/g:sm/q:90/h:840/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE2MjE3OTQz/NDItNjgyNC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
@@ -31,20 +40,13 @@ styles: ["Pop Rock", "Ballad"]
 
 <!-- section break -->
 
-
-
-
+Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-on-earth/684787804" >}}
-
-
-
-
-
 ## Videos
 ### Belinda Carlisle - Heaven Is A Place On Earth (Official Video)
 {{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth (Official Video)" >}}<br>
-
 ### More Videos
 
 - [Belinda Carlisle - I Get Weak (Official Video)](https://www.youtube.com/watch?v=sdTaPrs3fYE)
@@ -62,13 +64,17 @@ styles: ["Pop Rock", "Ballad"]
 - [Love Never Dies](https://www.youtube.com/watch?v=ivOXrlFOeEs)
 - [Heaven is a Place on Earth (Acoustic)](https://www.youtube.com/watch?v=-Gbnyvq66Hk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_on_Earth_(Belinda_Carlisle_album) |
+| Wikipedia Summary | Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States. |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591-Belinda-Carlisle-Heaven-On-Earth) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue (Blue Translucent) |
+| Label          | Demon Records |
 | Catalog Number | DEMREC306 |
 | Notes | Pressed on 180gm heavyweight translucent blue vinyl.  ℗ 1987 Artist Management Service Ltd. © 2018 Demon Music Group Ltd. Manufactured in the EU. |
+| Discogs URL    | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591-Belinda-Carlisle-Heaven-On-Earth) |

@@ -10,6 +10,11 @@ cover:
     image: "times-infinity-volume-one-7543598.jpg"
     alt: "Times Infinity Volume One by The Dears"
     caption: "Times Infinity Volume One by The Dears"
+additional_images:
+    - "https://i.discogs.com/dGZXByf2wfoG1qf_EE9n9_U9iPfs2H-jtyFpZ37dRuk/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDM1/OTgtMTQ0MzY2NDAw/Ny02MjU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/r-AndgGQlprRIOwXU3tGrgIdvdWicp104_9LuuWTisM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDM1/OTgtMTU4ODE5Nzk5/OC01NjA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/z3opz3riqKtZVKdbKv_q-s2MSv94-pUshMk6KgoKHLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDM1/OTgtMTU4ODE5ODAw/Ny03NDQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/SLmoQp8I0w3p7O9rIseAhrqlDcD1-lF7-7gm2TQjTaQ/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDM1/OTgtMTU4ODE5ODAw/Ny00MDk3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -31,20 +36,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/times-infinity-vol-one/1178843853" >}}
-
-
-
-
-
 ## Videos
 ### The Dears - I Used To Pray For The Heavens To Fall (Official Lyric Video)
 {{< youtube id="_OBe4JUNJTE" title="The Dears - I Used To Pray For The Heavens To Fall (Official Lyric Video)" >}}<br>
-
 ### More Videos
 
 - [The Dears - Onward and Downward](https://www.youtube.com/watch?v=eYQNyqAGt-o)
@@ -59,13 +56,15 @@ styles: ["Indie Rock"]
 - [The Dears - You Can't Get Born Again (Official Audio)](https://www.youtube.com/watch?v=ClLQADLUZQc)
 - [Times Infinity 1](https://www.youtube.com/watch?v=hYs4_Lt1ff0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [The Dears - Times Infinity Volume One](https://www.discogs.com/release/7543598-The-Dears-Times-Infinity-Volume-One) |
-| Label          | Dangerbird Records |
 | Format         | Vinyl LP Album |
+| Label          | Dangerbird Records |
 | Catalog Number | DGB121-1 |
 | Notes | (c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026  Pressed By information is not listed. Information derived from runouts.  |
+| Discogs URL    | [The Dears - Times Infinity Volume One](https://www.discogs.com/release/7543598-The-Dears-Times-Infinity-Volume-One) |

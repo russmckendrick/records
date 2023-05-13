@@ -10,6 +10,25 @@ cover:
     image: "binaural-11111324.jpg"
     alt: "Binaural by Pearl Jam"
     caption: "Binaural by Pearl Jam"
+additional_images:
+    - "https://i.discogs.com/j5XtJ1InCaIvVR-U5pik9ndFc1xxonFnsxYGEj-CmJA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE1MTAxNDIw/OTctOTcyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/cnpEKiIw7pOnM4wsaMZCfGpndtEvhaYBKFNp-Qu8u9M/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjEw/NDEtOTY4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/yHWOM_nLZ07TLxms4-uBEo8LmlPpVQWYWrF-GpfDfDM/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjEw/NDUtOTE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/wvlh9ePHHOVclnm6DdgNSJPdYVgF0P49Yy5qCQY6H-g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjEw/NDItMzU1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZtG_uyQTokJK0RQEmXRdvtqMTyGk2KETEX61c0SZhoI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE1MTAxNDIw/OTktNzk2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/fcJKky5T7goI_bPKKbRG4kHrXdwG6lmC_W5t4cwIjsc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE1Mzc1MTYx/NjgtMTcwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/6WAIIKvSyOJx0x7PxNnWtXroccCYLbkhQI0JoqM1ocI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE1Mzc1MTYx/ODktNjU0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/lIMWfti3F_2Ii3hRzXWvCj6PbXq0-jJtR_6z56hciD0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE1Mzc1MTYy/MDctMzExNi5qcGVn.jpeg"
+    - "https://i.discogs.com/WnO3TBx-kh7A-F2W8QO42sPszU5OqUkFbJ48H9ECmXc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE1Mzc1MTYy/MjMtNjQ5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/mM_7nySC7rQIoOHRZOHi35mBy3HSiAFx85kpNgfEJGI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjA2/NTktNjkwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/1LaHXzrG4cZ1ZfTngWS0m3Fxzl3VhdSn_39_-XCpjyg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjA2/NTktMTcyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/jKKiN038rM_SHGACjF_-XArFai2oFxBisq3ogd2xUxs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjA2/NjEtODI1My5qcGVn.jpeg"
+    - "https://i.discogs.com/IEog931hE9hdlhNk2nuPv2C3VKrQmRFn3C-GuUTxaAk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjA2/NjEtNDA3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/u_hREa4wgvQRmjMsxJi1k4hSvZlbQ_tv0ONLT0eXIkA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjEw/NDQtODc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/dMNKdiEE6udqaiwLcPUMCI9LRkc4A4gOSrHLi1NJJak/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjEw/NDYtMzY4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Tkak9EGafBKd23aPNQVZLAKOjJVpvgrnTbsot_7nwp4/rs:fit/g:sm/q:90/h:721/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjExMDI5/NDQtNjM2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/09Rb8TuooJVu8N-We_s16UXETpt6IJOzHoXr5gaxrQM/rs:fit/g:sm/q:90/h:324/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjA2/NDgtMzg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/CFdN_BSuhmMjhGXN3ZqdtQcKjuxwFqey_ayZ9IekGbA/rs:fit/g:sm/q:90/h:343/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/MzI0LTE2MjE0MjA2/NTQtNTA2OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
@@ -35,32 +54,32 @@ styles: ["Alternative Rock", "Grunge"]
 
 <!-- section break -->
 
+Binaural is the sixth studio album by American rock band Pearl Jam, released May 16, 2000, through Epic Records. Following a full-scale tour in support of its previous album, Yield (1998), Pearl Jam took a short break before reconvening toward the end of 1999 to begin work on a new album. During the production of the album, the band encountered hindrances such as singer Eddie Vedder's writer's block, and guitarist Mike McCready's entrance into rehabilitation due to an addiction to prescription drugs. This is Pearl Jam's first album to feature former Soundgarden drummer Matt Cameron, who joined during 1998's Yield Tour to replace Jack Irons.
+The music on the album featured an experimental sound, evident on songs that used binaural recording techniques. The atmospheric tracks, mostly featuring somber lyrics dealing with social criticism, led the band to convey these themes with images of nebulas in the album artwork. Binaural received positive reviews, and debuted at number two on the Billboard 200. Although the album was certified gold by the RIAA, it became the first Pearl Jam studio album to fail to reach Platinum status in the United States. The album's 2000 tour spawned a large collection of official bootleg releases.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/binaural/688730679" >}}
-
-
-
-
-
 ## Videos
 ### Nothing As It Seems
 {{< youtube id="A2QLjPU7Opo" title="Nothing As It Seems" >}}<br>
-
 ### More Videos
 
 - [Light Years](https://www.youtube.com/watch?v=qW_x8gujuYs)
 - [Sleight of Hand](https://www.youtube.com/watch?v=Gb0lzdMGc6Y)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Binaural_(album) |
+| Wikipedia Summary | Binaural is the sixth studio album by American rock band Pearl Jam, released May 16, 2000, through Epic Records. Following a full-scale tour in support of its previous album, Yield (1998), Pearl Jam took a short break before reconvening toward the end of 1999 to begin work on a new album. During the production of the album, the band encountered hindrances such as singer Eddie Vedder's writer's block, and guitarist Mike McCready's entrance into rehabilitation due to an addiction to prescription drugs. This is Pearl Jam's first album to feature former Soundgarden drummer Matt Cameron, who joined during 1998's Yield Tour to replace Jack Irons.<br>The music on the album featured an experimental sound, evident on songs that used binaural recording techniques. The atmospheric tracks, mostly featuring somber lyrics dealing with social criticism, led the band to convey these themes with images of nebulas in the album artwork. Binaural received positive reviews, and debuted at number two on the Billboard 200. Although the album was certified gold by the RIAA, it became the first Pearl Jam studio album to fail to reach Platinum status in the United States. The album's 2000 tour spawned a large collection of official bootleg releases.<br><br> |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Pearl Jam - Binaural](https://www.discogs.com/release/11111324-Pearl-Jam-Binaural) |
-| Label          | Epic |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
+| Label          | Epic |
 | Catalog Number | 88985409121 |
 | Notes | On back cover : © 2000, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 2000 Epic Records, a division of Sony Music Entertainment / Distributed by Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33310 Gütersloh, Germany. / All trademarks and logos are protected. / EPIC is a registered trademark of Sony Music Entertainment. / All Rights Reserved. /Made in the EU. / This package consists of previously released material. / LC00199  On sticker :  "Newly Remastered from the Original Sources by [a271098] 88985409121S1"  Released in a 3-panel gatefold jacket, with two special cardboard photo inner sleeves, and a replica of the original [r=1092382]'s booklet incl. song lyrics, credits & photos.  Unlike the [url=https://www.discogs.com/release/11112572]US version[/url], the EU version contains the Sony Music logo. |
+| Discogs URL    | [Pearl Jam - Binaural](https://www.discogs.com/release/11111324-Pearl-Jam-Binaural) |

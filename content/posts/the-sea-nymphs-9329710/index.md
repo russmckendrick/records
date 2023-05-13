@@ -10,6 +10,10 @@ cover:
     image: "the-sea-nymphs-9329710.jpg"
     alt: "The Sea Nymphs by The Sea Nymphs"
     caption: "The Sea Nymphs by The Sea Nymphs"
+additional_images:
+    - "https://i.discogs.com/hrKJ7TIEwee0M_NAHhu-3AKYZFBDewY9qQNEUmLPL1U/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk3/MTAtMTQ3ODcwNDUz/Ni0xMjY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/vM4UE0T-W7nWp2WixaRTdPyHNqlSeaBeqs6dP8nh0vg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk3/MTAtMTQ4MzkyNjk5/Ny05MDgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZV5ZXPTB7zI2XnJHz2fXEGaO7su3cSOQ6CSwEpwiOeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk3/MTAtMTQ4MzkyNzAx/My05MDM4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
@@ -40,20 +44,12 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sea-nymphs/1178220150" >}}
-
-
-
-
-
 ## Videos
 ### The Sea Nymphs : Abade
 {{< youtube id="h2McejcOiwI" title="The Sea Nymphs : Abade" >}}<br>
-
 ### More Videos
 
 - [The Sea Nymphs - The Sea Ritual (Peel Session)](https://www.youtube.com/watch?v=5NjQgbEduQQ)
@@ -64,13 +60,15 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [The Sea Nymphs - Christ Alive](https://www.youtube.com/watch?v=95POAOWn2xM)
 - [Dog Eat Spine](https://www.youtube.com/watch?v=hKtX4t_MBAA)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [The Sea Nymphs - The Sea Nymphs](https://www.discogs.com/release/9329710-The-Sea-Nymphs-The-Sea-Nymphs) |
-| Label          | The Alphabet Business Concern |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue |
+| Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP021 |
 | Notes | Limited to 200 numbered, stickered copies.  Includes download card. |
+| Discogs URL    | [The Sea Nymphs - The Sea Nymphs](https://www.discogs.com/release/9329710-The-Sea-Nymphs-The-Sea-Nymphs) |

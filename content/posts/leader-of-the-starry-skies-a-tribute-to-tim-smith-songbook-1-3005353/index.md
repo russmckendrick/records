@@ -10,6 +10,8 @@ cover:
     image: "leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353.jpg"
     alt: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various"
     caption: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various"
+additional_images:
+    - "https://i.discogs.com/lFiygeyYK1SngmpZItQTBpBYMRJmi0a3aNiVBz2xYfk/rs:fit/g:sm/q:90/h:295/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDUz/NTMtMTMxMTM1Mzg0/MS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ---
@@ -38,16 +40,10 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Oceansize - Fear (Spratleys Japs cover)
 {{< youtube id="_TEIJX5H-xw" title="Oceansize - Fear (Spratleys Japs cover)" >}}<br>
-
 ### More Videos
 
 - [Mikrokosmos - Is This The Life](https://www.youtube.com/watch?v=HHD4pRo_tdc)
@@ -61,12 +57,14 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 - [Big Ship](https://www.youtube.com/watch?v=fMxcqGFwntk)
 - [Savour](https://www.youtube.com/watch?v=PNAxcZ2LJuE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2011                                   |
-| Discogs Link   | [Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1](https://www.discogs.com/release/3005353-Various--Leader-Of-The-Starry-Skies--A-Tribute-To-Tim-Smith-Songbook-1) |
-| Label          | Believers Roast |
 | Format         | Vinyl 2× LP |
+| Label          | Believers Roast |
 | Catalog Number | BRR3LP |
+| Discogs URL    | [Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1](https://www.discogs.com/release/3005353-Various--Leader-Of-The-Starry-Skies--A-Tribute-To-Tim-Smith-Songbook-1) |

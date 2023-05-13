@@ -10,6 +10,8 @@ cover:
     image: "pocket-full-of-kryptonite-6958185.jpg"
     alt: "Pocket Full of Kryptonite  by Spin Doctors"
     caption: "Pocket Full of Kryptonite  by Spin Doctors"
+additional_images:
+    - "https://i.discogs.com/J6EeTZcbtYWuGqhOt6ZliDWRMWkcCy7Df1SPSy6t1aU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgx/ODUtMTQzMDQwNTg3/Ni04MDk0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -32,20 +34,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pocket-full-of-kryptonite/169627657" >}}
-
-
-
-
-
 ## Videos
 ### Spin Doctors - Jimmy Olsen's Blues (New Version)
 {{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsen's Blues (New Version)" >}}<br>
-
 ### More Videos
 
 - [Spin Doctors - What Time Is It?](https://www.youtube.com/watch?v=e86omL8uzks)
@@ -75,12 +69,14 @@ styles: ["Indie Rock"]
 - [Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))](https://www.youtube.com/watch?v=YMh6cGih564)
 - [Little Miss Can't Be Wrong ((live 9-25-1990 bootleg, Continental Divide, New York, NY))](https://www.youtube.com/watch?v=gARswxK2D-E)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Spin Doctors - Pocket Full of Kryptonite ](https://www.discogs.com/release/6958185-Spin-Doctors-Pocket-Full-of-Kryptonite-) |
-| Label          | Epic |
 | Format         | Vinyl LP Album Repress |
+| Label          | Epic |
 | Catalog Number | 88875013561 |
+| Discogs URL    | [Spin Doctors - Pocket Full of Kryptonite ](https://www.discogs.com/release/6958185-Spin-Doctors-Pocket-Full-of-Kryptonite-) |

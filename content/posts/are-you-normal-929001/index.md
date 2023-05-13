@@ -10,6 +10,14 @@ cover:
     image: "are-you-normal-929001.jpg"
     alt: "Are You Normal? by Ned's Atomic Dustbin"
     caption: "Are You Normal? by Ned's Atomic Dustbin"
+additional_images:
+    - "https://i.discogs.com/LJEuO_qgH1po0FoeicJdzicXzzxvn0uYUcoqKo0U1zY/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xMTc0MTY5ODc1/LmpwZWc.jpeg"
+    - "https://i.discogs.com/9JXA5SXquctQzKpj-_ohOQ-e2YD0UMWSG4FJTWnmupg/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xMTc0MTY5ODg0/LmpwZWc.jpeg"
+    - "https://i.discogs.com/nguWztfEGzZNCBOb4UpBpgeR31iQolltuDCQ6bkDUGg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xNjEwMDUxMjE2/LTM4NjYuanBlZw.jpeg"
+    - "https://i.discogs.com/_81sWJCYdepOyJBwEZKWwlNuapyIeDq-rSxqPIkMMIE/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xNjEwMDUxMzk5/LTYxMjUuanBlZw.jpeg"
+    - "https://i.discogs.com/XsxGyONyTEKUd_SHZZmW8HQAJ5lxgNWFTETjf7Np9ug/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xNjEwMDUxNDM2/LTQ1NDEuanBlZw.jpeg"
+    - "https://i.discogs.com/b1ct29rRRMkMv3eQGz9o682Smz7ipS0Uh3VIoDzaYX4/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xNjEwMDUxNDgy/LTg5MDcuanBlZw.jpeg"
+    - "https://i.discogs.com/sihy1wcJtqepGm3ceG4dBPhq-hUpfpCE9_OcCi4ctV0/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xNjEwMDUxNTE0/LTcwNDEuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -34,20 +42,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/are-you-normal/290619406" >}}
-
-
-
-
-
 ## Videos
 ### Ned's Atomic Dustbin-Legoland
 {{< youtube id="yCWYygUCwOk" title="Ned's Atomic Dustbin-Legoland" >}}<br>
-
 ### More Videos
 
 - [Ned's Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
@@ -65,13 +65,15 @@ styles: ["Indie Rock"]
 - [Ned's Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
 - [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1992                                   |
-| Discogs Link   | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |
-| Label          | Sony Soho Square |
 | Format         | Vinyl LP Album |
+| Label          | Sony Soho Square |
 | Catalog Number | 472633 1 |
 | Notes | printed inner sleeve with lyrics/credits |
+| Discogs URL    | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |

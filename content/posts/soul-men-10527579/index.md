@@ -10,6 +10,14 @@ cover:
     image: "soul-men-10527579.jpg"
     alt: "Soul Men by Sam & Dave"
     caption: "Soul Men by Sam & Dave"
+additional_images:
+    - "https://i.discogs.com/VHrxixqZx_5BG60iQu9lcOEKUgFW-EIe3qB6Nbjdauc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE2NjUzMTEz/MDAtMTY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/bjHGpPWn36PEtDqo43Ui01J36tYez68rEIfQrkK0m9E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/NjgtOTU1Ni5wbmc.jpeg"
+    - "https://i.discogs.com/oKWrh2PDF2OWqUTRxj8CYgskS3qNDstZSS9ytBTVWTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/NjktMzMwOC5wbmc.jpeg"
+    - "https://i.discogs.com/OmEI-1RG5x_HA19bZNI2R8ZbQbuemTAzjAoArF27PL8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/NzAtMzY2Ni5wbmc.jpeg"
+    - "https://i.discogs.com/Bub_FxEI4Je-_EbHOHkyD7gfhsYOcwJeU8SfiOxI1K8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/ODQtMjEwNi5wbmc.jpeg"
+    - "https://i.discogs.com/uBXS_Z--s6FpqXeVKpDxg_cvd3Mx_1dbxzFqyA6M4zc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/NjAtOTA1NC5wbmc.jpeg"
+    - "https://i.discogs.com/Bzu-kmO9CraQX2yxQg8HWyeoCXhYj87F_VruXnVkNGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/NzUtMzc2My5wbmc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
@@ -32,20 +40,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soul-men/265640765" >}}
-
-
-
-
-
 ## Videos
 ### Let It Be Me
 {{< youtube id="Sh_ujzyu78o" title="Let It Be Me" >}}<br>
-
 ### More Videos
 
 - [Sam & Dave - Just Keep Holding On](https://www.youtube.com/watch?v=7Mn5ZJd74Cs)
@@ -55,13 +55,15 @@ styles: ["Soul"]
 - [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
 - [Sam And Dave  I'm With You](https://www.youtube.com/watch?v=gTxg0V_Jkuk)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |
-| Label          | Stax |
 | Format         | Vinyl LP Album Reissue Mono (180g) |
+| Label          | Stax |
 | Catalog Number | 081227940577 |
 | Notes | Originally released on Stax in 1967 Manufactured in E.U. STAX 60 (60th Anniversary) Sticker  |
+| Discogs URL    | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |

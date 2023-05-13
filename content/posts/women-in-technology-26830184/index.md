@@ -10,6 +10,13 @@ cover:
     image: "women-in-technology-26830184.jpg"
     alt: "Women In Technology by White Town"
     caption: "Women In Technology by White Town"
+additional_images:
+    - "https://i.discogs.com/nt5KLHK_ycR84KtP_3bsTikEW110XPr39o72yvHU_Vo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMw/MTg0LTE2ODIwOTcx/ODctNDI5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ut80P9_3h42i1LomHn-w-CNCaySAyZqffELWiSEypvs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMw/MTg0LTE2ODIwOTcx/ODctNjM2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/KAbFwUV_13okKhh4mRVbvAYr86z1Em1G8jzRJSWNT_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMw/MTg0LTE2ODIwOTcy/MzEtOTg2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/9dWUiV2w1oTYwnT_gEInRLuRwZqH54-sW-aew8kdrwQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMw/MTg0LTE2ODIwOTcy/MzEtNDgwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/XPH7-sqghb1de9rBnkdXRgxRc6_uFM66dcIFNZmGC50/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMw/MTg0LTE2ODIwOTcy/MjktNTUyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Mt1u-lUSVX4_zdyq9DiLl789cUQ6wnvrZ7MfKuCierg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMw/MTg0LTE2ODIwOTcy/MjktNzE3MC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -33,20 +40,13 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/women-in-technology/696586755" >}}
-
-
-
-
-
 ## Videos
 ### White Town - Your Woman (Official HD Video)
 {{< youtube id="lVL-zZnD3VU" title="White Town - Your Woman (Official HD Video)" >}}<br>
-
 ### More Videos
 
 - [Going Nowhere Somehow](https://www.youtube.com/watch?v=HF-l8hPSoOA)
@@ -57,13 +57,17 @@ styles: ["Synth-pop"]
 - [The Function Of The Orgasm](https://www.youtube.com/watch?v=F0OMmwtMlK8)
 - [Once I Flew](https://www.youtube.com/watch?v=H2fHAc2wEmU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Women_in_Technology_(album) |
+| Wikipedia Summary | Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio. |
 | Release Year   | 2023                                   |
-| Discogs Link   | [White Town - Women In Technology](https://www.discogs.com/release/26830184-White-Town-Women-In-Technology) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (White, 180g) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP3224 |
 | Notes | 180 gram audiophile vinyl Includes insert RSD 2023 sticker Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."  Available on vinyl for the first time Limited numbered edition of 1000 individually copies on white coloured vinyl |
+| Discogs URL    | [White Town - Women In Technology](https://www.discogs.com/release/26830184-White-Town-Women-In-Technology) |

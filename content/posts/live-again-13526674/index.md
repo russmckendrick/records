@@ -10,6 +10,8 @@ cover:
     image: "live-again-13526674.jpg"
     alt: "Live Again! by The League Of Gentlemen"
     caption: "Live Again! by The League Of Gentlemen"
+additional_images:
+    - "https://i.discogs.com/rkRYZc6vlapPrvWUUHwyBFbkNjNoinoETUDD5YhYKiM/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE1NTU4Nzgz/NjEtODQ3MC5qcGVn.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Comedy"]
 ---
@@ -45,28 +47,23 @@ styles: ["Comedy"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-again/1457934944" >}}
-
-
-
-
-
 ## Videos
 ### The League Of Gentlemen Live Again Toddy’s Bingo
 {{< youtube id="AT7zM7TXjr8" title="The League Of Gentlemen Live Again Toddy’s Bingo" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-Live-Again) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Record Store Day Limited Edition (Gatefold, Pop-up sleeve ) |
+| Label          | Demon Records |
 | Catalog Number | DEMREC410 |
 | Notes | Black & White mixed 'Papa Lazarou' vinyl.  Gatefold sleeve with cardboard pop-up interior.  Record Store Day 2019 |
+| Discogs URL    | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-Live-Again) |

@@ -10,6 +10,12 @@ cover:
     image: "doing-it-for-the-kids-547494.jpg"
     alt: "Doing It For The Kids by Various"
     caption: "Doing It For The Kids by Various"
+additional_images:
+    - "https://i.discogs.com/w8-VOXi_Fp_HOLXj2j8uo2pwgudkxH7OiHdze3l2x6A/rs:fit/g:sm/q:90/h:608/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTI0MjYuanBlZw.jpeg"
+    - "https://i.discogs.com/nRCQSDO6aY_5ZNO8VFdWM_Ikt96mANwbYfbkzJt0XYw/rs:fit/g:sm/q:90/h:370/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xMTMwMDEzODkz/LmpwZWc.jpeg"
+    - "https://i.discogs.com/WWWng8nEuGPKH5CVIyN50s8A3rK7CV-hSb1OpHDIx1w/rs:fit/g:sm/q:90/h:605/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTIwMzguanBlZw.jpeg"
+    - "https://i.discogs.com/-D_d5T4MRqS_J-0hXBZeQkNlciTCtItP3x05bT1P-H0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgx/LTk5NzUuanBlZw.jpeg"
+    - "https://i.discogs.com/76A6KlgFK_W_tGFPjHEbJ6-4tICW0PimT4qRyBA7Vl4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTcyNDguanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -36,16 +42,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Primal Scream - All Fall Down
 {{< youtube id="4wi2bi9-ZUI" title="Primal Scream - All Fall Down" >}}<br>
-
 ### More Videos
 
 - [Pacific - Jetstream (Fanmade Video) (1988)](https://www.youtube.com/watch?v=Dul4i-Y5vU4)
@@ -64,13 +64,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)
 - [Heidi Berry - Northshore Train](https://www.youtube.com/watch?v=VWh8Bi8d4h0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1988                                   |
-| Discogs Link   | [Various - Doing It For The Kids](https://www.discogs.com/release/547494-Various-Doing-It-For-The-Kids) |
-| Label          | Creation Records |
 | Format         | Vinyl LP Compilation |
+| Label          | Creation Records |
 | Catalog Number | CRELP 037 |
 | Notes | Sticker on front: "CRELP 037 'Doing It For The Kids' A 15 track compilation LP for the price of a 7" single. From Creation"  Top right corner of front sleeve has "CRELP 037 An L.P. for the price of a 7" single" printed in dark blue/grey.    This compilation ℗ and © 1988 Creation Records.  A1, A2, A4, A6, B2, B6, B8 published by Complete Music A3, A5, B1, B3 to B5, B7 unpublished A7 published by Rough Trade Music Ltd.  "This is a label of love.." - Alan McGee. August, '88.  An Alan McGee/Richard Green Extravaganza.  A Creation Records Product.  Manufactured and Distributed by the Cartel.  Made in England.    Distributed in Germany by Rough Trade Distribution (sticker on back cover)  |
+| Discogs URL    | [Various - Doing It For The Kids](https://www.discogs.com/release/547494-Various-Doing-It-For-The-Kids) |

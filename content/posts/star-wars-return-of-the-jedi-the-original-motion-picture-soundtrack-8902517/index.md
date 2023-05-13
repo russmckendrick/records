@@ -10,6 +10,13 @@ cover:
     image: "star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517.jpg"
     alt: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams"
     caption: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams"
+additional_images:
+    - "https://i.discogs.com/_y7ZWjWR0wmoDOb76hN0sO0Pp2plcpsU3Q-vsXidsfk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDI1/MTctMTQ3MTEyMjYw/NS0zMDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/pNMNwDiBuqdyfY9ocvZI81RyQxWFTZr6hd2UY6AeatE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDI1/MTctMTQ3MTEyMjYw/Ni0xMDg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/mYSDtoycMlsb-sRbVV6AFJlO6G8vkRRYscMl23J7-jw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDI1/MTctMTY2NDQxMjg4/My00NDY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/4bYxj48rtZgJUzvA9t-s4qe40NoiYCHNmTNAU0q4EIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDI1/MTctMTY2NDQxMjg4/Mi0yMjQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/7jib4xyRuo_1WTky1nxAEOkEDefISeiicrKv-kxPwuo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDI1/MTctMTY2NDQxMjg4/My03NzUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/cafr95xRRIcVcD4IUNVuHewiz1ixbIVmQb78XVlQKQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDI1/MTctMTY2NDQxMjg4/Mi02NjM4LmpwZWc.jpeg"
 genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -32,20 +39,12 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-wars-return-of-the-jedi-original-motion/1375817940" >}}
-
-
-
-
-
 ## Videos
 ### Return of the Jedi (1983) Retrospective / Review
 {{< youtube id="N2tL4w8qgpk" title="Return of the Jedi (1983) Retrospective / Review" >}}<br>
-
 ### More Videos
 
 - [Main Title (The Story Continues)](https://www.youtube.com/watch?v=eP14omDNAfk)
@@ -60,13 +59,15 @@ styles: ["Soundtrack"]
 - [The Return of the Jedi](https://www.youtube.com/watch?v=MtB6kOMh5_k)
 - [Ewok Celebration and Finale](https://www.youtube.com/watch?v=QEq-KYcj7Rs)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |
-| Label          | RSO |
 | Format         | Vinyl LP (Gold) |
+| Label          | RSO |
 | Catalog Number | 28MW 0031 |
 | Notes | Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.  Gatefold sleeve.       |
+| Discogs URL    | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |

@@ -11,6 +11,22 @@ cover:
     image: "rush-5887416.jpg"
     alt: "Rush by Rush"
     caption: "Rush by Rush"
+additional_images:
+    - "https://i.discogs.com/iVFrfa7872a5Nzn0qZp8HNU25D-fdARVaytrBUpc8uc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjA5/Ny0zMDQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/DXwz8LVNYuRnT8qnmxGudBjfmEQhA5eqmPW_8bWY1AM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjA5/OS00MTY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/h1E_LADZk8NWER8RmAreuP4r5T880r0DbxqbkRIdWMM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjA5/OS04NDYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/HbeHl2BWq4OctbJ_toTvIxv5Yp3pbJY3EcZ88jPzJqc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjA5/Ny05MTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/UCEPR5lJdq5TPO_wOnCFfdqddNFemyN4ZRNw2b6B0MQ/rs:fit/g:sm/q:90/h:146/w:263/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjEz/My04NDQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/6sz2mBVzQ9kw75cRdim_hUHDCR2m55Svx17e6u0llYc/rs:fit/g:sm/q:90/h:282/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjE0/MC01NTUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/B4kBwpvjNzVDyFJb_94HpjeAgYisSo-GVvaGaQh-G_g/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjE5/MC00OTk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/weoCzBTeqYApoe8AC5YRyEFMyyv4m_C5zOrlIi6ATLc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjEz/OS02ODI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/6FjsbajXn5P-mIlZMIsXdpjPRlb4eIFj9VS5XMVrPbs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjEz/Ny00ODgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/eVczZOKDflsNgGKRc9AdoG9Mcb11ujqH_EiTzPnB2XI/rs:fit/g:sm/q:90/h:837/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjE5/NS00MjIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Yggf-mxlB-OfZ_pVfFM6vDCOJtExw48vq4oI91Pnfec/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjE5/MS00MDQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/jmpfPcDEaihV-dHeEAomIA3spUiWrBU-PdPtKcI3T0w/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjE5/My0yNjAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/bSkqCLlyLNw-Gddt10-B_7XDuudA6FLwKK3zeQFvCVQ/rs:fit/g:sm/q:90/h:838/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjI4/OC02MjIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/PA-mxKhvecQMmIuIgPxGhMfb9lKB6uAD8V8uy_Io0mA/rs:fit/g:sm/q:90/h:844/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjI4/Ni0yMDE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/QyXW3i32gUPP5gzzD5rqjRQHyjNq3OXVxXHbHhwLXHA/rs:fit/g:sm/q:90/h:848/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc0/MTYtMTQwNTUzNjI4/Ni01MDY2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -29,7 +45,6 @@ styles: ["Hard Rock"]
 8. Working Man (7:07)
 
 <!-- section break -->
-
 
 When it came to writing his third album, George Ezra was ready to fall back on a fail-safe formula. His first two—2014’s <i>Wanted on Voyage</i> and 2018’s <i>Staying at Tamara’s</i>—were propelled by travel (across Europe and in Barcelona, respectively), and the people, places and things Ezra witnessed along the way. A mammoth walk the length of the UK was lined up to help unlock album three, but when the pandemic hit in 2020, Ezra, like the rest of us, was forced to stay put. “I was living alone in a flat in London without a balcony,” he tells Apple Music. “I did five weeks in that flat and had an awful lot of conversations with myself. [That time] made me realise how much I'd relied in the past on other people's stories. Because I'm not pinching other people's stories, you're left with your own, and that's great. It’s cathartic.”
 
@@ -73,23 +88,22 @@ When it came to writing his third album, George Ezra was ready to fall back on a
 
 <b>Apple Music Edition tracks</b>
 “It was proposed to me that we reimagine some of the songs. I said, ‘Can we see what they would sound like if we give [the album’s string arranger] Tobie Tripp the stems: strip them back, replace things, let Tobie remix things that are in there?’ That, to me, felt like a sincere way of reimagining them. I think it's also a really good lesson in production of how many different ways something can sound. I genuinely didn't want to just do the singles. It felt like if you were given this space, do the ones that lend itself to this idea. Don't try and string up ‘Anyone for You’. Tobie indulged in more creative licence than I was anticipating, but it’s a beautiful thing now to have. Alongside everything else, there’s a huge ladle’s worth of impostor syndrome. There is still this sentiment of, ‘God, do people want to hear my music? Is this any good? Do these people want to work with me?’ And so it's not lost on me that these people do. I don’t jump for joy when I’m asking to do a cover, which will be born of insecurity and a lack of confidence. But a friend of mine who was once working with Jamie T said, ‘What do you think Jamie’s best song was?’ And I said, ‘Love Is Only a Heartbeat Away’. I love his <i>Carry on the Grudge</i> record, and [the cover] sounds great.”
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-rush-kid-apple-music-edition/1606177911" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
-| Discogs Link   | [Rush - Rush](https://www.discogs.com/release/5887416-Rush-Rush) |
-| Label          | Moon Records (18) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Rush_(Rush_album) |
+| Wikipedia Summary | Rush is the debut studio album by Canadian rock band Rush. It was released on March 1, 1974, in Canada by Moon Records, the group's own label, before it was released internationally by Mercury Records later that year. Recorded five years after the band's formation, this first release shows much of the hard rock sound typical of many of the popular rock bands emerging earlier in the decade. Rush were fans of such bands as Led Zeppelin, Yes and Cream, and these influences can be heard in most of the songs on the album.<br>Original drummer John Rutsey performed all drum parts on the album, but was unable to go on extended tours because of complications with his diabetes and so he retired from the band after the album was released. Rutsey worked on lyrics for the album, but never submitted them to the other members of the band. The lyrics were instead entirely composed by vocalist/bassist Geddy Lee and guitarist Alex Lifeson. Rutsey was soon replaced by Neil Peart, who remained the band's drummer as well as primary lyricist. |
+    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (200 Gram), Box Set |
+| Label          | Moon Records (18) |
 | Catalog Number | MN 100 |
 | Notes | ReDISCovered - Limited edition 200g 40th anniversary reissue of 1974 Moon Records album - Jacket art features all original 1974 details - Exclusive poster, band photo prints and Rush family tree - Digital download card - 320 kbps - Vinyl ripped AAC MP4s - Direct Metal Mastering DMM  Published by Core Music, CAPAC Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios Tracks A3 and B1 to B4 recorded at Eastern Sound Remixed at Toronto Sound  DMM Mastering at Abbey Road Studios - December 2013  Moon Records is a subsidiary of SRO Productions Ltd.  ℗ © 2014 The Island Def Jam Music Group  On center labels: ℗ 1974 S.R.O. Productions All selections - MAPL  [url=https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122]Similar release[/url] is the USA / Canada release [url=https://www.discogs.com/release/15631764-Rush-Rush]Similar release[/url] is a European release without the Universal Logo on the back of the box and no Download Code Sheet. |
+| Discogs URL    | [Rush - Rush](https://www.discogs.com/release/5887416-Rush-Rush) |

@@ -10,6 +10,11 @@ cover:
     image: "homophobic-asshole-1210486.jpg"
     alt: "Homophobic Asshole by Senseless Things"
     caption: "Homophobic Asshole by Senseless Things"
+additional_images:
+    - "https://i.discogs.com/9t52Vz9XpilPH5r3DrBR1fvL7Dby5xMy54gr990Qq4Y/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA0/ODYtMTIwNTQzNTM5/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/NO7XB1IQ4JXT5selGG4SUMGARpJcFDROGL-m5si-Aco/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA0/ODYtMTIwNTQzNTQ0/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/qmjmeyNGXJJMt5hq5eScXuaOB5_uwd-n8hq9Ua_Dd2I/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA0/ODYtMTIwNTQzNTUx/NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_ITHT0Ke-Trb0fIlhSIu1gTxhcckvptOLPXqhzH04mg/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA0/ODYtMTIwNTQzNTYw/Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -24,31 +29,25 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/homophobic-a-e/259488624" >}}
-
-
-
-
-
 ## Videos
 ### SENSELESS THINGS Homophobic Asshole
 {{< youtube id="Q3YUFhjR3wM" title="SENSELESS THINGS Homophobic Asshole" >}}<br>
-
 ### More Videos
 
 - [Senseless Things - Homophobic Asshole](https://www.youtube.com/watch?v=cbSvdWaARRM)
 - [Senseless Things - Body Bag](https://www.youtube.com/watch?v=tsHv3fLuxIU)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 1992                                   |
-| Discogs Link   | [Senseless Things - Homophobic Asshole](https://www.discogs.com/release/1210486-Senseless-Things-Homophobic-Asshole) |
-| Label          | Epic |
 | Format         | Vinyl 12" Single |
+| Label          | Epic |
 | Catalog Number | 658833 6 |
+| Discogs URL    | [Senseless Things - Homophobic Asshole](https://www.discogs.com/release/1210486-Senseless-Things-Homophobic-Asshole) |

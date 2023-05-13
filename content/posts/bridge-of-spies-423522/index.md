@@ -10,6 +10,13 @@ cover:
     image: "bridge-of-spies-423522.jpg"
     alt: "Bridge Of Spies by T'Pau"
     caption: "Bridge Of Spies by T'Pau"
+additional_images:
+    - "https://i.discogs.com/I7jYpjyqhUuYvMZ_UvPYciBO7AEut9w0EDnW5UoYNMo/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NDkx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/tk84RRpyqbMHhEMF8mWEoDzsdG-aGQuHydj0M1jNUVk/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTEx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/bO85OEZLbK66eFeWqaD4qA7QtblKtv52E_iRQxbiz0c/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTUz/LmpwZWc.jpeg"
+    - "https://i.discogs.com/wS1PJf-iOSqZJlghTp8jMwIHEdQRmOP-wsdhAGvFl6A/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTg1/LmpwZWc.jpeg"
+    - "https://i.discogs.com/IF_4IDC5xQlv7Yuou3UFcWeAUidS2Sa02gmya8WLFPc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NjM5/LmpwZWc.jpeg"
+    - "https://i.discogs.com/cEt1ce01mFE6Yi-bVOkOWHfUuZj_QtVq1P9_xwGENDY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NjYy/LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -32,20 +39,13 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bridge-of-spies/1442998643" >}}
-
-
-
-
-
 ## Videos
 ### T'Pau - Heart And Soul (Official Video)
 {{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul (Official Video)" >}}<br>
-
 ### More Videos
 
 - [T'Pau - Valentine](https://www.youtube.com/watch?v=s047ZgjysX8)
@@ -60,13 +60,17 @@ styles: ["Pop Rock"]
 - [T'pau Bridge Of Spies](https://www.youtube.com/watch?v=bruw9QIq6rQ)
 - [T'Pau 10 Bridge Of Spies](https://www.youtube.com/watch?v=6bv9-W0E_Pc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bridge_of_Spies_(album) |
+| Wikipedia Summary | Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau. |
 | Release Year   | 1987                                   |
-| Discogs Link   | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |
-| Label          | Siren (3) |
 | Format         | Vinyl LP Album Stereo |
+| Label          | Siren (3) |
 | Catalog Number | SRN LP8 |
 | Notes | This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve.  |
+| Discogs URL    | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |

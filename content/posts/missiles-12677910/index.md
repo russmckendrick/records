@@ -10,6 +10,9 @@ cover:
     image: "missiles-12677910.jpg"
     alt: "Missiles by The Dears"
     caption: "Missiles by The Dears"
+additional_images:
+    - "https://i.discogs.com/NGHkkTlG78Wvr_UQDLGYh-b4-SLMi-y8KBXeXODbUVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTEwLTE1Mzk4ODY1/MzYtNDgyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/KnyRVe8pJZoVnHs-j3981F4K1bOsPQnT2khZAc9Ohvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTEwLTE1Mzk4ODY1/MzYtODY0MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -34,28 +37,23 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/missiles/952849135" >}}
-
-
-
-
-
 ## Videos
 ### The Dears - Missiles
 {{< youtube id="dcxOp26H2OM" title="The Dears - Missiles" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [The Dears - Missiles](https://www.discogs.com/release/12677910-The-Dears-Missiles) |
-| Label          | Dangerbird Records |
 | Format         | Vinyl 2× LP Album |
+| Label          | Dangerbird Records |
 | Catalog Number | DGB033 |
 | Notes | ℗ © 2018 Dangerbird Records LLC  Tenth Anniversary First Edition on Vinyl LP  |
+| Discogs URL    | [The Dears - Missiles](https://www.discogs.com/release/12677910-The-Dears-Missiles) |

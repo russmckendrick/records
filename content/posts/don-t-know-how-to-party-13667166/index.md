@@ -10,6 +10,15 @@ cover:
     image: "don-t-know-how-to-party-13667166.jpg"
     alt: "Don't Know How To Party by The Mighty Mighty Bosstones"
     caption: "Don't Know How To Party by The Mighty Mighty Bosstones"
+additional_images:
+    - "https://i.discogs.com/5hADtu5g509FTWvIZ3gPvxYdHAxFY5_rcqFy665i1mY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjItMTEyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/8SJacgF407nY9nCT2cEAnCFwH3ZBrLVvgxBPsDOehiU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MTMtMzUzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/sqibFUv1zXrqPdG8-V9MDmHptY5iJiSF95Aj8diZLVE/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/OTktMzY0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/VvynkstZN38UKLPwi_0MUhKTSpU8Qxfr5HxCAAS_wkc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/OTUtNjE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/HcAgOOTuiC86XTB-xQ4JvefkKkwNlDNMAztExbrMcPw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjYtMjU0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/aesvBqiVRJtr1TrR0BRM-PyR4MykutO3yk__n4vU6cI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjUtMzAzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/tQHyEJ1sODSK0mHXLiGg9andv_UdX4wv5EjODGswTVE/rs:fit/g:sm/q:90/h:377/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MTEtNTEzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/23l_26PTAAxxq7BnKhjTKbtHRrhaZL4YZPlUUkCqydA/rs:fit/g:sm/q:90/h:1537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/NDEtMjg3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
@@ -33,20 +42,12 @@ styles: ["Ska", "Punk"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-know-how-to-party/1443739943" >}}
-
-
-
-
-
 ## Videos
 ### Someday I Suppose
 {{< youtube id="Mvav4aPv0-s" title="Someday I Suppose" >}}<br>
-
 ### More Videos
 
 - [Our Only Weapon](https://www.youtube.com/watch?v=3QtGz0NCTA0)
@@ -61,13 +62,15 @@ styles: ["Ska", "Punk"]
 - [What Was Was Over](https://www.youtube.com/watch?v=BXDgiwf76yw)
 - [Seven Thirty Seven / Shoe Glue](https://www.youtube.com/watch?v=UbHQT73w8Mg)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166-The-Mighty-Mighty-Bosstones-Dont-Know-How-To-Party) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl LP Album Reissue |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP2292 |
 | Notes | 180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU. |
+| Discogs URL    | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166-The-Mighty-Mighty-Bosstones-Dont-Know-How-To-Party) |

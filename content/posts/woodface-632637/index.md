@@ -11,6 +11,12 @@ cover:
     image: "woodface-632637.jpg"
     alt: "Woodface by Crowded House"
     caption: "Woodface by Crowded House"
+additional_images:
+    - "https://i.discogs.com/7C_Zrbu7XhgAxlD1ilCnEZ2UWS5m-kkRZ_j_UMAZnXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYz/Ny0xNTIyMjUxNDY3/LTUxNDQuanBlZw.jpeg"
+    - "https://i.discogs.com/7KoCR8Zjyk2pUduuncNN86Mwfk6b9dtUnobUWn0dym0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYz/Ny0xNTIyMjUxNDc3/LTM1MzcuanBlZw.jpeg"
+    - "https://i.discogs.com/9iQqnIExY8WaCXaE3Bsg2smwAUTkn4cEH3nGF_jQrGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYz/Ny0xNTQ5ODE1ODY2/LTExNjcuanBlZw.jpeg"
+    - "https://i.discogs.com/4qLO4atGVU-5xY2sGZ79LJfAjDy19XqPxZ8adgD6Vhc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYz/Ny0xNTQ5ODE1ODk4/LTIwNjkuanBlZw.jpeg"
+    - "https://i.discogs.com/PGXzLiYNDzBdqAv1YVCuKjjMtPcyXDnIIaL4DkK0pUY/rs:fit/g:sm/q:90/h:300/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYz/Ny0xMzIxMDcwNzY3/LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -36,22 +42,13 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-Neil Finn didn’t create Crowded House’s third and most rewarding album on his own, instead co-writing this lushly adventurous set with his brother (and former Split Enz foil) Tim. <i>Woodface</i> follows the lead of The Beatles and Beach Boys at their most psychedelic, expanding pop music’s range with bold sonic and lyrical details. While “Fall at Your Feet” is a timeless ballad as good as any found on the band’s hit-stacked 1986 debut, <i>Woodface</i>’s stranger turns foretell the proliferation of dreamy, obtuse indie rock. Every song is a layer cake of mesmerising melodies.
-
-
-
+Woodface is the third studio album by New Zealand-Australian band Crowded House. The album was produced by Mitchell Froom and Neil Finn and was released by Capitol in July 1991. It features five singles "Chocolate Cake", "Fall at Your Feet", "It's Only Natural", "Weather with You", and "Four Seasons in One Day". Woodface was a major hit in Australia and New Zealand as well as giving the band their first top ten hit album in the UK. It was listed at No. 3 in the book 100 Best Australian Albums in October 2010. It was voted number 80 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/woodface/724471916" >}}
-
-
-
-
-
 ## Videos
 ### Crowded House — Chocolate cake (subtitulada).
 {{< youtube id="e4Huvbcjo7A" title="Crowded House — Chocolate cake (subtitulada)." >}}<br>
-
 ### More Videos
 
 - [It's Only Natural](https://www.youtube.com/watch?v=r1mni1H2_SU)
@@ -68,12 +65,16 @@ Neil Finn didn’t create Crowded House’s third and most rewarding album on hi
 - [She Goes On](https://www.youtube.com/watch?v=Kar6Q_Yr65c)
 - [crowded house - how will you go](https://www.youtube.com/watch?v=8IoT0Zj3bU8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2000                                   |
-| Discogs Link   | [Crowded House - Woodface](https://www.discogs.com/release/632637-Crowded-House-Woodface) |
-| Label          | Simply Vinyl |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Woodface |
+| Apple Music Summary | Neil Finn didn’t create Crowded House’s third and most rewarding album on his own, instead co-writing this lushly adventurous set with his brother (and former Split Enz foil) Tim. <i>Woodface</i> follows the lead of The Beatles and Beach Boys at their most psychedelic, expanding pop music’s range with bold sonic and lyrical details. While “Fall at Your Feet” is a timeless ballad as good as any found on the band’s hit-stacked 1986 debut, <i>Woodface</i>’s stranger turns foretell the proliferation of dreamy, obtuse indie rock. Every song is a layer cake of mesmerising melodies. |
+    | Release Year   | 2000                                   |
 | Format         | Vinyl LP Reissue (180g) |
+| Label          | Simply Vinyl |
 | Catalog Number | SVLP 240 |
+| Discogs URL    | [Crowded House - Woodface](https://www.discogs.com/release/632637-Crowded-House-Woodface) |

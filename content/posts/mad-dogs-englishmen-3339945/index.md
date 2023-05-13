@@ -10,6 +10,14 @@ cover:
     image: "mad-dogs-englishmen-3339945.jpg"
     alt: "Mad Dogs & Englishmen by Joe Cocker"
     caption: "Mad Dogs & Englishmen by Joe Cocker"
+additional_images:
+    - "https://i.discogs.com/R8G_iI8uAhsr-Uc7RXxU4ur2NLC2VZ-_fCd6HkhNgWs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTMyNjQ4NDUx/Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/e8s5ly1Pwi36aoJQ8rBRhz4vCxzjShxoD9FZF6xKohY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTUzMTMwMjAy/NS0yMzU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/SXxloYuhoTBXzCT5N85Y1OfXR4AJ8_3TsUQPXIp1n0k/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTUzMTMwMjAy/NS00MjUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/PXwedB9ZKjpUd0b2A4onl_lXTJrCq0hzLvLedryeXVM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/Mi0yNDQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/l1jh5lRfswBj9lTHtpztJD88EvmOZdKv6DsArA7Q0Qw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/My02MzUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/s3Vp4LJEsflb16e65ykapY0LsUsxTChRYuc6WDi8Kws/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/Ny05MzY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/-KkiTeIiZEhykD_1mEn7h6tY7XovVbO8ADvtxv-1fAc/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/OS05NTg4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
@@ -40,20 +48,12 @@ styles: ["Blues Rock", "Classic Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen-live-at-the-fillmore-east-1970-reissue/1423706584" >}}
-
-
-
-
-
 ## Videos
 ### Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)
 {{< youtube id="79YmYQebXzE" title="Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)" >}}<br>
-
 ### More Videos
 
 - [MAD DOGS AND ENGLISHMEN @ THE FILLMORE EAST](https://www.youtube.com/watch?v=Ia-IoPMR9Uo)
@@ -72,13 +72,15 @@ styles: ["Blues Rock", "Classic Rock"]
 - [Joe Cocker, Mad Dogs and Englishmen - Something (LIVE) HD](https://www.youtube.com/watch?v=kiT5J61f588)
 - [Joe Cocker - Mad Dogs & Englishmen - With A Little Help From My Friends](https://www.youtube.com/watch?v=n6splB7acXc)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2011                                   |
-| Discogs Link   | [Joe Cocker - Mad Dogs & Englishmen](https://www.discogs.com/release/3339945-Joe-Cocker-Mad-Dogs-Englishmen) |
-| Label          | Music On Vinyl |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Label          | Music On Vinyl |
 | Catalog Number | MOVLP355 |
 | Notes | Comes in a gatefold sleeve  Recorded on March 27-18, 1970 at Fillmore East, New York  ℗ & © 2011 Universal Music B.V. A2 published by Gideon Music Inc. A4 published by Tangerine Music Inc. A5 published by Saunders Publications, Inc. A6 published by Stranger Music Inc. B1 published by Irving Music Inc. B2, C4 published by Skyhill Publishing Co., Inc./Delbon Publishing  B4 published by Baby Monica Music/Renleigh Music C1a published by Jay & Cee Music C1b published by East/Memphis Music Corp. C1c published by East Memphis Music-Time Music Corp. C3 published by M. Witmark & Sons D2 published by Maclen Music Inc. D3, D5 published by Skyhill Publishing Co., Inc. D4 published by Earl Barton Music Inc.  [a255183] appears with love from [l44717] [url=https://www.discogs.com/artist/791783-Don-Preston-2]Don Preston[/url] courtesy of [l59656]    |
+| Discogs URL    | [Joe Cocker - Mad Dogs & Englishmen](https://www.discogs.com/release/3339945-Joe-Cocker-Mad-Dogs-Englishmen) |

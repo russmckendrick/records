@@ -10,6 +10,15 @@ cover:
     image: "what-s-that-noise-11155777.jpg"
     alt: "What's That Noise? by Coldcut"
     caption: "What's That Noise? by Coldcut"
+additional_images:
+    - "https://i.discogs.com/hLv82k4wKWj6lmJVTk2o6bR4TNZusKm2uJqaukzz11E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE2NjMxNjA5/NzktMTQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/pwMA99dy_Fbl4sJu4UmyPnVVGZ3FitiVJwdjvqNWIHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE1MTA4ODc4/NDMtOTY2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/XdwQkEMO4iFbhH7GoePK6NPce9mky-5pZEEgIA2-gVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE1MTA4ODc4/NDMtODUwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/cNxhqEFerdV9B-_Yfek6mWbPA9HebJkbgCCKH4GRoLE/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE2NjMxNjA5/ODAtODM5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/vL1ACiHgcG_x7e2MgUeaIMRxUwNoEKwJTJLmCxjmtjM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE2NjMxNjA5/NzktNTE0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/PLzvrDaQ-UaLeEFvLcySSZ55-Zc5x26FobZoVHsyFNo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE2NjMxNjA5/NzQtMzQxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/xIgsmW9ztIUeBmGRxHW-8rKhrcpuMDjfUjPn-LubXvY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE2NjMxNjA5/NzgtMzE0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/dXfRqi8oVgwHSnKLmj_z5tDAywjpKqnrOJF71neZ34w/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/Nzc3LTE2NjMxNjA5/ODEtMzYzNi5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["House", "Breaks", "Downtempo"]
 ---
@@ -32,16 +41,10 @@ styles: ["House", "Breaks", "Downtempo"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Coldcut - What's That Noise? (Full Album)
 {{< youtube id="tgYhZ5Ennig" title="Coldcut - What's That Noise? (Full Album)" >}}<br>
-
 ### More Videos
 
 - [COLDCUT - WHAT'S THAT NOISE(FULL ALBUM - VINYL) 33RPM - 1988](https://www.youtube.com/watch?v=l13T8AboN7U)
@@ -89,13 +92,15 @@ styles: ["House", "Breaks", "Downtempo"]
 - [Studio Hot Plate Present - Coldcut - Doctorin' the house (Miami Beach mix)](https://www.youtube.com/watch?v=nclKim2JmTo)
 - [Coldcut feat Yazz and The Plastic People - Doctorin' The House (1988)](https://www.youtube.com/watch?v=r4uDSg1pdj4)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Coldcut - What's That Noise?](https://www.discogs.com/release/11155777-Coldcut-Whats-That-Noise) |
-| Label          | Sony Music |
 | Format         | Vinyl LP Album Reissue (180 gram) |
+| Label          | Sony Music |
 | Catalog Number | 88985459671 |
 | Notes | Includes download code |
+| Discogs URL    | [Coldcut - What's That Noise?](https://www.discogs.com/release/11155777-Coldcut-Whats-That-Noise) |

@@ -10,6 +10,22 @@ cover:
     image: "are-you-serious-8328483.jpg"
     alt: "Are You Serious by Andrew Bird"
     caption: "Are You Serious by Andrew Bird"
+additional_images:
+    - "https://i.discogs.com/54TEi27jc6QKuDQN7GadSBp1F-02lNSv7PnC-xNRAO4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTQ2MDQwMzU1/OC0yODM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/4-NO9GgAMhLygRhnEvIHBxWKPc_tbXjata8wLyNYsgs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC0xMTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/RhmDkp_OEp-Iw2uMgJQ-8hW7i91Kf19zY8djd2c0xjQ/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MS04NTI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/QtS1sFYzezt37brC0Cw-lYBwqZ5hYSTgG0WgLUmgBRI/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC05Mzg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/flsVQkCw3o0ltaPW7XYVX2PGaCaUACV-QLAM1psdPkc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTQ2MDQwMzU0/OC00MTAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/cNOPZzebJiYQkxBLjL2-P2NNJjA9ru_QVA6MmzLajyA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC01MTQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/xjA-a1lnluhiRml_mYytk7Uc_7GSUTPIx0fwXoZz3Hs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC0yOTgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Wc1E7vTnDe4cvYK7LKZ_9hTWKjzLa1_IxwJLwjVBRdo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTY1/Mi0zMTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/7TdbWfvte_L7sfpGg48oRtLrsOkdrtGYa1x4KSx_Uoo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTY1/OC02MjM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/P_7HklVcUX8rTMQ_eka8QUTP_LMjxbAQelupchfYuw4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC01MTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/eIiz8skhiy5K100NEO2G9Km-_9ZpmqS3gOLus-ZWDFQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYy/OS04MzA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/6IaPHjpcWGPBwbW2dywfgBGjDDDuWH0FzFEjRPG_aSE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTU0OTgzMTU0/OC0yMzMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/UeIn9IEz-XsAIuavuUXyV_xcH2v_EglA54Cv-cQrazI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTU0OTgzMTUx/My0yMjc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/0W5AS9yIJYJtrszRo-DalRSbHoulo3vUtLfMIu7uqXQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MS0xNDE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/nNVYD-FLNzJvOPiB94bJ8zzk1gmbbQung9kGnrPZe28/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC0xMTUzLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
@@ -34,20 +50,13 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
+Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/are-you-serious-deluxe-edition/1440954407" >}}
-
-
-
-
-
 ## Videos
 ### Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]
 {{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]" >}}<br>
-
 ### More Videos
 
 - [Andrew Bird - Saints Preservus  (Are You Serious 2016)](https://www.youtube.com/watch?v=vXXpcVVR8C4)
@@ -56,13 +65,17 @@ styles: ["Indie Rock"]
 - [Andrew Bird - Valleys of the Young](https://www.youtube.com/watch?v=IeuCE-iazeA)
 - [Andrew Bird - ROMA FADE  (Are You Serious 2016)](https://www.youtube.com/watch?v=wRoj8WzBsJo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Are_You_Serious_(Andrew_Bird_album) |
+| Wikipedia Summary | Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills. |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Andrew Bird - Are You Serious](https://www.discogs.com/release/8328483-Andrew-Bird-Are-You-Serious) |
-| Label          | Loma Vista |
 | Format         | Vinyl LP Album Deluxe Edition (Blue, 180g), Vinyl 7" Single (Red) |
+| Label          | Loma Vista |
 | Catalog Number | LVR-39052-01 |
 | Notes | Deluxe edition. Includes bonus red colored 7" single, insert with lyrics and download card. |
+| Discogs URL    | [Andrew Bird - Are You Serious](https://www.discogs.com/release/8328483-Andrew-Bird-Are-You-Serious) |

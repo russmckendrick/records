@@ -10,6 +10,9 @@ cover:
     image: "the-album-13704037.jpg"
     alt: "The Album by Mantronix"
     caption: "The Album by Mantronix"
+additional_images:
+    - "https://i.discogs.com/gQlwVt-YO1nxBy1CcNS38kXRVt78Lt_hb0ylot6XgjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA0/MDM3LTE1NTkzODE1/NzYtMTc1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/wUwu-Y545HldmZQxKnAarKjJXnklmLjpTR1UeC6u0ws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA0/MDM3LTE1OTMxNjIz/NTctMTgyMy5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Electro"]
 ---
@@ -30,20 +33,13 @@ styles: ["Electro"]
 
 <!-- section break -->
 
-
-
-
+The Album is the debut album by the group Mantronix.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-album/341928107" >}}
-
-
-
-
-
 ## Videos
 ### Mantronix - Bassline
 {{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}<br>
-
 ### More Videos
 
 - [Bassline](https://www.youtube.com/watch?v=TpXkptCMJhI)
@@ -61,12 +57,16 @@ styles: ["Electro"]
 - [Mantronix - Fresh Is The Word](https://www.youtube.com/watch?v=M2xKzGy93E8)
 - [Fresh Is The Word](https://www.youtube.com/watch?v=K0TMOqwF1mo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Mantronix:_The_Album |
+| Wikipedia Summary | The Album is the debut album by the group Mantronix. |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Mantronix - The Album](https://www.discogs.com/release/13704037-Mantronix-The-Album) |
-| Label          | Demon Music Group |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | Demon Music Group |
 | Catalog Number | DEMREC 364 |
+| Discogs URL    | [Mantronix - The Album](https://www.discogs.com/release/13704037-Mantronix-The-Album) |

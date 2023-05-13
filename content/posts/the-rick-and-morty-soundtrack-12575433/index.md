@@ -10,6 +10,8 @@ cover:
     image: "the-rick-and-morty-soundtrack-12575433.jpg"
     alt: "The Rick And Morty Soundtrack by Various"
     caption: "The Rick And Morty Soundtrack by Various"
+additional_images:
+    - "https://i.discogs.com/u-PKstYtH_Xn7ZScCK5EWxmyU1NbiZ40kTcrcsMYdVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/NDMzLTE1MzkwNDgz/NTItNzExNi5qcGVn.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -47,16 +49,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Rick and Morty - Rick and Morty Theme
 {{< youtube id="YQxRvqD4oSQ" title="Rick and Morty - Rick and Morty Theme" >}}<br>
-
 ### More Videos
 
 - [Rick and Morty - Full Official Soundtrack](https://www.youtube.com/watch?v=agDkuOaCb6E)
@@ -70,13 +66,15 @@ styles: ["Soundtrack"]
 - [Terryfold - Choas Chaos ft. Justin Roiland (3D ANIMATED)](https://www.youtube.com/watch?v=sE5t5I_yDeQ)
 - [Mazzy Star - Look On Down From The Bridge](https://www.youtube.com/watch?v=IGrZ4WAYRKw)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Various - The Rick And Morty Soundtrack](https://www.discogs.com/release/12575433-Various-The-Rick-And-Morty-Soundtrack) |
-| Label          | Sub Pop |
 | Format         | Vinyl 2× LP Compilation |
+| Label          | Sub Pop |
 | Catalog Number | SP1265 |
 | Notes | Black Vinyl Two single-pocket LP jackets housed together in a custom die-cut slipcase. Full color, printed inner sleeves with credits and thank yous. Includes digital download code.  Track list and title are stickers affixed to the shrink wrap. |
+| Discogs URL    | [Various - The Rick And Morty Soundtrack](https://www.discogs.com/release/12575433-Various-The-Rick-And-Morty-Soundtrack) |

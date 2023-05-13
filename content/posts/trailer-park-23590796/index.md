@@ -11,6 +11,16 @@ cover:
     image: "trailer-park-23590796.jpg"
     alt: "Trailer Park by Beth Orton"
     caption: "Trailer Park by Beth Orton"
+additional_images:
+    - "https://i.discogs.com/rBi5bESz51SF77bfpkLrSkRfXwuCxX0EqHniIEGr0MU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2ODEwODQ5/MDUtODA4My5qcGVn.jpeg"
+    - "https://i.discogs.com/_DIq3JoSQTOO1tPSWsYt7qY7B6Aiaemve_DbN00euzs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTUzNzQ1/MjAtODE5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/TUmpk-650ed4iZdiYz6mteUGexgCpDwNV79goHamFm8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTUzNzQ1/ODktMjc5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/n4iipUVn9hPXDE-jFlddnC6wnNLmPN4w4tJ1tfRaEnU/rs:fit/g:sm/q:90/h:447/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTUzNzQ2/MjQtNjM2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/V4FxOCaHKE5sL3SqBAqAy_A2nuTmPUwPW57my7ym-8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTkyOTE5/MzUtMTQ4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/fRHAjQ9nf63H58rN6sHFtl7g6xPSzATAYQ77qBACoi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTkyOTE5/NzAtNjk4My5qcGVn.jpeg"
+    - "https://i.discogs.com/11yD4t9NfoQpTN5mXjI5TT4no2GuwHllQBxoeeJGmHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTkyOTE5/OTMtOTk3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/pS6v5j2mbEaVYRNgJWnMR6LsqrvkG8Z0Shsyo4mAcZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTkyOTIw/MTctMjg3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Rujz2uI_MNQ3C8nunqS0hzI8RAUwMAtn13gBBCqEI30/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTkw/Nzk2LTE2NTkyOTIw/MzUtMjk0Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
@@ -33,22 +43,16 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 
 <!-- section break -->
 
+Trailer Park is the solo debut album by British singer Beth Orton. Combining folk, electronica, and trip hop elements, it earned Orton two BRIT Award nominations. One single from the album was the opening track, "She Cries Your Name", which previously appeared in a different form on William Orbit's album Strange Cargo Hinterland. All songs were co-written by Orton except for a cover version of Phil Spector's "I Wish I Never Saw the Sunshine." The album was among the first to fuse elements of 1960s and 1970s folk with modern electronica and trip hop.
+An expanded two-disc Legacy Edition was released internationally on 10 March 2009.
 
-Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
 
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}
-
-
-
-
-
 ## Videos
 ### Beth Orton - She Cries Your Name (Video)
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}<br>
-
 ### More Videos
 
 - [Someone's Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
@@ -61,13 +65,17 @@ Fusing folk and electronica, Orton's debut album blazed a quiet trail through Br
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
-| Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796-Beth-Orton-Trailer-Park) |
-| Label          | Sony Music |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Trailer_Park_(album) |
+| Apple Music Summary | Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers. |
+    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
+| Label          | Sony Music |
 | Catalog Number | 19439956801 |
 | Notes | On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ###### |
+| Discogs URL    | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796-Beth-Orton-Trailer-Park) |

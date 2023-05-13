@@ -10,6 +10,9 @@ cover:
     image: "night-thoughts-replacement-pack-a-13083066.jpg"
     alt: "Night Thoughts Replacement Pack A by Suede"
     caption: "Night Thoughts Replacement Pack A by Suede"
+additional_images:
+    - "https://i.discogs.com/9wFkX9aq7ptjAbg_b8XSuF7mOZPKZ7wnYpVMhzFdlFQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/MDY2LTE1NDc5MDQw/MDMtMzUzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/AUwcQrNNhkjjN9fS7WPR7x_tSEz2pt9geNWmu4E9XZ8/rs:fit/g:sm/q:90/h:879/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/MDY2LTE1NTA1MDEz/MTItMjU4Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -33,16 +36,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-
-
-
-
-
-
+<br>
 ## Videos
 ### Suede - What I'm Trying To Tell You
 {{< youtube id="so7PZl_1vOM" title="Suede - What I'm Trying To Tell You" >}}<br>
-
 ### More Videos
 
 - [Suede - Outsiders](https://www.youtube.com/watch?v=AL15Nvlf7ZU)
@@ -51,13 +48,15 @@ styles: ["Indie Rock"]
 - [Suede - Night Thoughts (Album Sampler)](https://www.youtube.com/watch?v=d5conz2AbJk)
 - [Suede  - Pale Snow](https://www.youtube.com/watch?v=ir9RgLZuIfY)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2019                                   |
-| Discogs Link   | [Suede - Night Thoughts Replacement Pack A](https://www.discogs.com/release/13083066-Suede-Night-Thoughts-Replacement-Pack-A) |
-| Label          | Demon Records |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue (Translucent Blue ) |
+| Label          | Demon Records |
 | Catalog Number | SUEDEAMZREP1 |
 | Notes | Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition.   Blue vinyl Amazon exclusive version. 1,000 only.  Sent in plain white sleeves with no album cover or inserts (unless requested).   ℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd. © Demon Music Group Ltd Made in the EU. |
+| Discogs URL    | [Suede - Night Thoughts Replacement Pack A](https://www.discogs.com/release/13083066-Suede-Night-Thoughts-Replacement-Pack-A) |

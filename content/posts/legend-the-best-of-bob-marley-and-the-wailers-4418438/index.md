@@ -11,6 +11,12 @@ cover:
     image: "legend-the-best-of-bob-marley-and-the-wailers-4418438.jpg"
     alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
     caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
+additional_images:
+    - "https://i.discogs.com/-teIDTwLB0xFhk2esn3K6wR4f84w6ChtOF7ONi0jRx4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/zm4SfMdiWCx9c7wNpgYHQ98t-5kyhiurjJjrZni2cmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ2MjA1OTk1/Ni0xMTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Auf4NdrSfAYk5FrVFoEEF7UGrQwYfjrjR37D8QRkFrU/rs:fit/g:sm/q:90/h:588/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ5MTU4ODE3/My02MDMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/MDOy1kepR7s1ZRtEw0lEggQ0SecwHTnnFJwfpkXDLuU/rs:fit/g:sm/q:90/h:598/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ5MTU4ODE3/NC00MDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/8zDxWZ0YhJ9c40zYSqleMs0kH2fblKJW8gLUaP6bTQk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTYxODA3NDI0/OS03MDQ5LmpwZWc.jpeg"
 genres: ["Reggae"]
 styles: ["Reggae", "Roots Reggae"]
 ---
@@ -36,22 +42,13 @@ styles: ["Reggae", "Roots Reggae"]
 
 <!-- section break -->
 
-
 An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove.
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-the-wailers-2002-edition/1469575763" >}}
-
-
-
-
-
 ## Videos
 ### Legend  Bob Marley Cd completo Hd  Remastered
 {{< youtube id="hUzeGvg0pOg" title="Legend  Bob Marley Cd completo Hd  Remastered" >}}<br>
-
 ### More Videos
 
 - [Bob Marley & The Wailers - Is This Love](https://www.youtube.com/watch?v=FIsuGbF3g0g)
@@ -69,13 +66,16 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 - [Bob Marley & The Wailers - Exodus](https://www.youtube.com/watch?v=QR4cb7tz2Eo)
 - [Bob Marley & The Wailers - Jamming](https://www.youtube.com/watch?v=E31D3IPkSz0)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Apple Music Summary | An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove. |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |
-| Label          | Tuff Gong |
 | Format         | Vinyl LP Compilation Reissue (180 Gram) |
+| Label          | Tuff Gong |
 | Catalog Number | 0600753030523 |
 | Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple |
+| Discogs URL    | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |

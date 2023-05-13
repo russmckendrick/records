@@ -10,6 +10,12 @@ cover:
     image: "fever-ray-1695082.jpg"
     alt: "Fever Ray by Fever Ray"
     caption: "Fever Ray by Fever Ray"
+additional_images:
+    - "https://i.discogs.com/OVes1nt3ASplXO8oJoCpxB0bL7LijwAkHOeEfMLMPsA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUw/ODItMTM1NzkyMTc0/Mi0xODg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/iBGm5mxXDz-u_D--VqVQpyo9TnaCLV7c0vh-TTm4w6A/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUw/ODItMTM0OTI5OTYw/NS0yNTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/nwCd06vQi6oTlxuqkp2VPTLmIIMHRv1uYgap0u54XTQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUw/ODItMTU5ODExMTc0/MS0xNjE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/UftUC1rVksRCecY6AGM9-1WavychKcwolq2T7JP3Pd8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUw/ODItMTU5ODExMTc0/NC05MjE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/7En6XD5f527vANUNKtwOekSNgXW-Yq01ek0Qnpwl3HA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUw/ODItMTM4OTYxMDgx/OS02OTM0LmpwZWc.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Electro", "Ambient", "Synth-pop"]
 ---
@@ -31,20 +37,13 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer of Swedish electronic music duo the Knife. It was released on 12 January 2009 by Rabid Records. The album spawned four singles: "If I Had a Heart", "When I Grow Up", "Triangle Walks" and "Seven".
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fever-ray-deluxe-edition/923360560" >}}
-
-
-
-
-
 ## Videos
 ### Fever Ray 'If I Had A Heart'
 {{< youtube id="EBAzlNJonO8" title="Fever Ray 'If I Had A Heart'" >}}<br>
-
 ### More Videos
 
 - [Fever Ray 'Seven'](https://www.youtube.com/watch?v=aX07gCjT7dA)
@@ -59,13 +58,17 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 - [Fever Ray 'Keep The Streets Empty For Me'](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
 - [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fever_Ray_(album) |
+| Wikipedia Summary | Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer of Swedish electronic music duo the Knife. It was released on 12 January 2009 by Rabid Records. The album spawned four singles: "If I Had a Heart", "When I Grow Up", "Triangle Walks" and "Seven". |
 | Release Year   | 2009                                   |
-| Discogs Link   | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082-Fever-Ray-Fever-Ray) |
-| Label          | Rabid Records |
 | Format         | Vinyl LP Album |
+| Label          | Rabid Records |
 | Catalog Number | RABIDT039 |
 | Notes | Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially |
+| Discogs URL    | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082-Fever-Ray-Fever-Ray) |

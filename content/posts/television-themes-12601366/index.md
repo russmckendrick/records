@@ -10,6 +10,11 @@ cover:
     image: "television-themes-12601366.jpg"
     alt: "Television Themes by Matt Berry"
     caption: "Television Themes by Matt Berry"
+additional_images:
+    - "https://i.discogs.com/1JLhUGTl5urVUXXiVT0TP1EuVxIYcY5yRao_IrJjdj4/rs:fit/g:sm/q:90/h:534/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAx/MzY2LTE1NDM1MDIy/NjUtMzEyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/2yNjybAHz4_pTO_LVUwkIaPGSZdXNVan7CI0jhP3t8w/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAx/MzY2LTE1MzgzODgx/MzUtMjUxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/fgfPgjMLfs9xvahxzbiKkxXq5xuJFSRlPOqMwTGOSUA/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAx/MzY2LTE1MzgzODg4/NTQtMTA4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Kdy8Mg6koCPl1_kyMkUMV4T-Qo4rSzPbtnq85Cm5-gw/rs:fit/g:sm/q:90/h:472/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAx/MzY2LTE1MzgzODg4/NjItMzY0Ni5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Pop", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Theme"]
 ---
@@ -35,20 +40,12 @@ styles: ["Theme"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/television-themes/1414662713" >}}
-
-
-
-
-
 ## Videos
 ### The Good Life
 {{< youtube id="XiaGzoiHX1s" title="The Good Life" >}}<br>
-
 ### More Videos
 
 - [Are You Being Served?](https://www.youtube.com/watch?v=pinYgTWT6Ik)
@@ -66,13 +63,15 @@ styles: ["Theme"]
 - [Picture Box](https://www.youtube.com/watch?v=kE0zAi8s2ck)
 - [LWT](https://www.youtube.com/watch?v=1WwYWczgfmQ)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2018                                   |
-| Discogs Link   | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-Television-Themes) |
-| Label          | Acid Jazz |
 | Format         | Vinyl LP Album (Orange) |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP450 |
 | Notes | "Halloween" orange vinyl.  Sleeve signed by Matt Berry.  Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles. |
+| Discogs URL    | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-Television-Themes) |

@@ -10,6 +10,12 @@ cover:
     image: "the-bus-driver-s-prayer-other-stories-7802272.jpg"
     alt: "The Bus Driver's Prayer & Other Stories by Ian Dury"
     caption: "The Bus Driver's Prayer & Other Stories by Ian Dury"
+additional_images:
+    - "https://i.discogs.com/hL_F1JMx5-kvg2_dwgBA-fxfVbavglp2LwXwEBn2emk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIy/NzItMTQ0OTA4MDA1/NC0yMjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/DNmk6BUSof6UfK_eTbXGQBqVinIc7KuI9MaFcJwSyio/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIy/NzItMTYyNTk2Mjk1/OC0xMDc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/3H1jm7DyCsEvyNQp1dYnIMaRTudg9Pu0IM4ujETzCc0/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIy/NzItMTYyNTk2Mjk2/OS04MTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/NDUPyNbsKJHuxaK04ThPy2d6obRdhfEvLGdreF_zG28/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIy/NzItMTYyNTk2Mjk3/Ny05Mjg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/l2br-3SFvIWUkmQEnSXSLIcPffXDsyMonMGZ9-XP-3U/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIy/NzItMTYyNTk2Mjk4/NC00NTkyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
@@ -35,28 +41,23 @@ styles: ["Power Pop", "Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1489399630" >}}
-
-
-
-
-
 ## Videos
 ### Ian Dury:-'Bus Driver's Prayer'
 {{< youtube id="v7kjbh8xtyo" title="Ian Dury:-'Bus Driver's Prayer'" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2015                                   |
-| Discogs Link   | [Ian Dury - The Bus Driver's Prayer & Other Stories](https://www.discogs.com/release/7802272-Ian-Dury-The-Bus-Drivers-Prayer-Other-Stories) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album |
+| Label          | Demon Records |
 | Catalog Number | DEMREC61 |
 | Notes | Manufactured in the EU  180-Gram Heavyweight Vinyl job |
+| Discogs URL    | [Ian Dury - The Bus Driver's Prayer & Other Stories](https://www.discogs.com/release/7802272-Ian-Dury-The-Bus-Drivers-Prayer-Other-Stories) |

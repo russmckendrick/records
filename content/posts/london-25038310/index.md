@@ -10,6 +10,12 @@ cover:
     image: "london-25038310.jpg"
     alt: "London by Jesus Jones"
     caption: "London by Jesus Jones"
+additional_images:
+    - "https://i.discogs.com/s2vqqD2u2mZGZ-5Cf2Mmlq6jyx0UczTkh7qNQmR2NaY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDM4/MzEwLTE2Njc0ODUx/NjQtNzQyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/Zhomab3yNcfD4wTBbhr9rj6jc0xaYjypqIP-9FE6XiI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDM4/MzEwLTE2Njc0ODUx/NjQtNDg5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/eWMc2P6d3T19SdnRQz96RDq50ezpEPxF6RXLDiUh4ew/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDM4/MzEwLTE2Njc0ODUx/NjMtNjQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/lxsK0ymVv7csWnP4K76YFm3RfnvnZFJ8ds7y7AfEFmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDM4/MzEwLTE2Njc0ODg2/NzgtNTcyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/SsoT-UqDg2QLKn-ozSszTEbCOdFz7EM7To6vU8t0Ofg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDM4/MzEwLTE2Njc0ODg2/NzgtNzMwNC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
@@ -33,22 +39,19 @@ styles: ["Alternative Rock", "Synth-pop"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/london/1647622598" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2022                                   |
-| Discogs Link   | [Jesus Jones - London](https://www.discogs.com/release/25038310-Jesus-Jones-London) |
-| Label          | Demon Records |
 | Format         | Vinyl LP Album Reissue (White) |
+| Label          | Demon Records |
 | Catalog Number | DEMREC956 |
+| Discogs URL    | [Jesus Jones - London](https://www.discogs.com/release/25038310-Jesus-Jones-London) |

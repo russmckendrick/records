@@ -10,6 +10,36 @@ cover:
     image: "the-aeroplane-flies-high-4760393.jpg"
     alt: "The Aeroplane Flies High by The Smashing Pumpkins"
     caption: "The Aeroplane Flies High by The Smashing Pumpkins"
+additional_images:
+    - "https://i.discogs.com/h8B0lPpZupfDlekjh_I9Kh7WXPooJfuQX2OTTXOxOmo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTM3NDY0MDEx/OS0xNjU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/NUqbX9FG45GLLeoTKgDwfQKkEzunOrSDue-eYbZD48s/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTM5MzM1NDQz/MS05OTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/5I7nV7DP_LZjL3WryPjzpVBMP_F5M_mIsBDGRNAYrro/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/NS03NjMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/HeXOpi2FHAE48Uon1iRFiKXi72b1itFhPSX5LHBEFGU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDAz/OC0yODMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/IEP31Td1q1w__vH9GexbLGihBMx3XPE0DOWUmF3QXn8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/MC03ODMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/-R5JXa7Y0AGyW-KDpM_bn9LY7j9rAcssvFt1KR0--2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/Ni0xNTEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Hh5InUvkBl26vZHrRJ7FjDlCjimyXCUSjLJUht_z8hU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDAz/Ny05MTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/eUmKBI66aekrO_CkypW4ARoRB-bcqIY88n_d1zn95ws/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/My0xNDU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Dq-E_Hqyu5xUAjBoXcEEo370Hd5zLmhD58Lkm1koBgE/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/Ni02NTg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/7t64p4mXNFueZ9iFFUQ4fxsIEX1jWHU7riBeqR48KAQ/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/Ni04OTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/4gkSmfEhC74RbUdUs6BRHGe2DHrSZV-9TCXO8YsT19E/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/My00MzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/l7XrpbwXsTB49vnn3MsSaaEpfkxM-qu2KDQOaIPvF5s/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/My0yMjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/7EA9R2HGCybTZJ8zgEdJg8uthcnzuwZfck-yZav4mgo/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/OC00NjIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/CUUV-3yhzdGqD0gGCbyTerIoFXMOSK6gmXOnar8TpUw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA0/OS05ODk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/04SpWzpxOIJ46eJOZGT1ulezqOwzxfqvV-KH4ENJypY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/Ni0xOTAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/zFZ8cdFw0x6uzRvdj9f-Ynybeo7j7yp5cim471rizjo/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/MS00MTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/B3OooV63OnB7Dr9V0GLZ8SQ7D203UkR4kt4jNvrGLcM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/NC0xOTYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/GqlXAs5Dmq5XBXljVMVCZit3YbYMzYN1G2PnlTpo8QA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/Ni05NDg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/FBmocGJahRAAQubLVrVwBRCuMujDkuJkFayWuCIbXaU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/OS00ODYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/kEebi-Essc0q_qPFPXe_I6jl4grcwt5-a5cGc7MBC7I/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA1/Ni03ODI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/EIRVBd5RhkldHsEqXCPMRqVYF_55mydsgvMfgqD3Rvc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA2/MS0zNzY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/fBRu6948lxki89fsbFBHiOE_gcIyKtqcn-c1ksjHEd8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA2/Mi0xNjc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/iEXNASor5IwchIMG8h_IHKC78JUcM_8oYioLuOgIn8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA2/NS01OTI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/-S-WyP5HCC3pBN9cAGrX42iv9LK8gJlUN4MVycR5VUk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA2/OS0zMDQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ARh0GzkRBN0bXgYzH_yXnQvRgO7EbUOVSGywikcugjA/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA2/Ni02NjE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/kGN0UI6lfK0TyhGjUczukbXsnmz3nihEfJl78goEACk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTU1NzQ0NDA2/OC0zMjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Vq0C695sn1NAFw-q0qMQxs9rnCBPHl8skJecd4uW4kg/rs:fit/g:sm/q:90/h:67/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTM5MzM1NDQz/MS05NDY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/XWZrJvNWSn1f0JlLGOKBgH2bn1clTIY0a_rDaEnYf0A/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTM5MzM1NDQz/MS04MzExLmpwZWc.jpeg"
+    - "https://i.discogs.com/slo6k0jsMpNrNhCKIwVcbBUNCwMXAftqOs4GVhBloIk/rs:fit/g:sm/q:90/h:360/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/OTMtMTM5MzM1NDQz/MS02NTg3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -59,23 +89,25 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
+The Aeroplane Flies High is a five-disc box set released by American alternative rock band The Smashing Pumpkins in 1996. It contains expanded versions of the five singles from their album Mellon Collie and the Infinite Sadness and also included a 44-page booklet with pictures and writings by the band's lead singer Billy Corgan, as well as lyrics. A limited edition release, the box reached number 42 on the Billboard charts. Originally intended to be limited to 200,000 copies, Virgin Records produced more after the original run sold out due to overwhelming and unexpected demand.  The album was remastered in 2013 under the supervision of frontman Billy Corgan and reissued on vinyl and as a CD/DVD box set.
 
 
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-aeroplane-flies-high-deluxe-edition/1433794676" >}}
 
 
-
-
-
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Aeroplane_Flies_High |
+| Wikipedia Summary | The Aeroplane Flies High is a five-disc box set released by American alternative rock band The Smashing Pumpkins in 1996. It contains expanded versions of the five singles from their album Mellon Collie and the Infinite Sadness and also included a 44-page booklet with pictures and writings by the band's lead singer Billy Corgan, as well as lyrics. A limited edition release, the box reached number 42 on the Billboard charts. Originally intended to be limited to 200,000 copies, Virgin Records produced more after the original run sold out due to overwhelming and unexpected demand.  The album was remastered in 2013 under the supervision of frontman Billy Corgan and reissued on vinyl and as a CD/DVD box set.<br><br> |
 | Release Year   | 2013                                   |
-| Discogs Link   | [The Smashing Pumpkins - The Aeroplane Flies High](https://www.discogs.com/release/4760393-The-Smashing-Pumpkins-The-Aeroplane-Flies-High) |
-| Label          | Virgin |
 | Format         | Box Set Compilation, Vinyl 5× 12" Maxi-Single Reissue Remastered |
+| Label          | Virgin |
 | Catalog Number | B0018550-01 |
 | Notes | "the end of what we had to offer, everything that followed the pieces of one without the other." - billy corgan  A1, I1 - Recorded at Pumpkinland and Chicago Recording Company. A2 - Mixed at The Chicago Recording Company. A3, A4, B2, B3 - Recorded at Soundworks Studios, Chicago.  Additional Recording on B3 at Farmer Brown's Studio. B1 - Recorded at Bugg Studios, Chicago. C1, I1 - Mixed at The Village Recorder. C2 to D3, - Mixed at Soundworks Recording Studios. C1 to D3 - Recorded at Pumpkinland, Chicago Recording Company and Soundworks Recording Studios. G1, H4 - Recorded at CRC. G2 to H1, H3 - Recorded at Sadland. H2 - Recorded at Soundworks. I2 to J1 - Recorded at Charing Cross Studios, Sydney, and Soundworks Recording Studios, Chicago. J2 - Recorded at Bugg Studios, Chicago and The Place, NYC. J3 - Recorded at Soundworks Recording Studios, Chicago. I2 to J3 - Mixed at Chung King, NYC.  "The Pastichio Medley is from a variety of sources recorded during completion of Mellon Collie And The Infinite Sadness.  The LP version has been faded out earlier than the original version in order to fit the vinyl format." |
+| Discogs URL    | [The Smashing Pumpkins - The Aeroplane Flies High](https://www.discogs.com/release/4760393-The-Smashing-Pumpkins-The-Aeroplane-Flies-High) |

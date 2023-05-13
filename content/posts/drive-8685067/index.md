@@ -10,6 +10,8 @@ cover:
     image: "drive-8685067.jpg"
     alt: "Drive by Anneke Van Giersbergen"
     caption: "Drive by Anneke Van Giersbergen"
+additional_images:
+    - "https://i.discogs.com/myZlzYi2HzC_vr7gq_ryoS5GIonRR5ZmWnBLIektfp8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODUw/NjctMTQ2NjU4MTA1/MC02NzA0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -31,28 +33,23 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drive/1045638252" >}}
-
-
-
-
-
 ## Videos
 ### Anneke van Giersbergen - We Live On
 {{< youtube id="TMSRPlQS4fY" title="Anneke van Giersbergen - We Live On" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Anneke Van Giersbergen - Drive](https://www.discogs.com/release/8685067-Anneke-Van-Giersbergen-Drive) |
-| Label          | Alone Records (2) |
 | Format         | Vinyl LP Album Limited Edition |
+| Label          | Alone Records (2) |
 | Catalog Number | AR-058LP |
 | Notes | For the first time on vinyl, under exclusive license from InsideOut Music.  Presented in gatefold jacket. Black vinyl limited to 300 copies.   |
+| Discogs URL    | [Anneke Van Giersbergen - Drive](https://www.discogs.com/release/8685067-Anneke-Van-Giersbergen-Drive) |

@@ -10,6 +10,8 @@ cover:
     image: "rosewood-almanac-10279453.jpg"
     alt: "Rosewood Almanac by Will Stratton"
     caption: "Rosewood Almanac by Will Stratton"
+additional_images:
+    - "https://i.discogs.com/SAKuXW2C0BpAOBCSEANCxYA_oFSpfq_4n76MHFyO3Z0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc5/NDUzLTE0OTQ1ODI2/NDAtNzMwNS5wbmc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -31,31 +33,28 @@ styles: []
 
 <!-- section break -->
 
-
-
-
+Rosewood Almanac is the sixth studio album by American singer-songwriter Will Stratton. It was released on May 12, 2017 through Bella Union.
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rosewood-almanac/1199406397" >}}
-
-
-
-
-
 ## Videos
 ### Vanishing Class
 {{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}<br>
-
 ### More Videos
 
 - [Will Stratton - Light blue](https://www.youtube.com/watch?v=FbgqMEmDroE)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Rosewood_Almanac |
+| Wikipedia Summary | Rosewood Almanac is the sixth studio album by American singer-songwriter Will Stratton. It was released on May 12, 2017 through Bella Union. |
 | Release Year   | 2017                                   |
-| Discogs Link   | [Will Stratton - Rosewood Almanac](https://www.discogs.com/release/10279453-Will-Stratton-Rosewood-Almanac) |
-| Label          | Bella Union |
 | Format         | Vinyl LP Album |
+| Label          | Bella Union |
 | Catalog Number | BELLA616V |
 | Notes | Includes download card and printed inner sleeve with lyrics and credits. |
+| Discogs URL    | [Will Stratton - Rosewood Almanac](https://www.discogs.com/release/10279453-Will-Stratton-Rosewood-Almanac) |

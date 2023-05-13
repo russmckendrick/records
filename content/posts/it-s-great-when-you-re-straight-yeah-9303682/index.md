@@ -10,6 +10,8 @@ cover:
     image: "it-s-great-when-you-re-straight-yeah-9303682.jpg"
     alt: "It's Great When You're Straight...Yeah by Black Grape"
     caption: "It's Great When You're Straight...Yeah by Black Grape"
+additional_images:
+    - "https://i.discogs.com/ZA4T_p3pWPEdtLjYEexGcvHUyDxPKqih5P6yQatCs30/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDM2/ODItMTQ3ODI3MzQz/NS02OTYxLmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
@@ -31,20 +33,12 @@ styles: ["Pop Rock", "Funk"]
 
 <!-- section break -->
 
-
-
-
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-great-when-youre-straight-yeah/1442232066" >}}
-
-
-
-
-
 ## Videos
 ### Black Grape - In the Name of the Father
 {{< youtube id="2_zaLwdbQYU" title="Black Grape - In the Name of the Father" >}}<br>
-
 ### More Videos
 
 - [Black Grape Reverend Black Grape](https://www.youtube.com/watch?v=ik9HDX8hJV0)
@@ -61,13 +55,15 @@ styles: ["Pop Rock", "Funk"]
 - [Black Grape - Kelly's Heroes (The Funeral Version)](https://www.youtube.com/watch?v=PSEkwEeRwKk)
 - [Black Grape, In The Name Of The Father, live on Later With Jools Holland](https://www.youtube.com/watch?v=kRwabWWv_D8)
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2016                                   |
-| Discogs Link   | [Black Grape - It's Great When You're Straight...Yeah](https://www.discogs.com/release/9303682-Black-Grape-Its-Great-When-Youre-StraightYeah) |
-| Label          | Radioactive |
 | Format         | Vinyl LP Album Reissue (180g) |
+| Label          | Radioactive |
 | Catalog Number | 5373030 |
 | Notes | Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London. A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069]. Contains a [l1052727] download coupon. Side B is labeled X on release. |
+| Discogs URL    | [Black Grape - It's Great When You're Straight...Yeah](https://www.discogs.com/release/9303682-Black-Grape-Its-Great-When-Youre-StraightYeah) |

@@ -11,6 +11,13 @@ cover:
     image: "violent-femmes-12101265.jpg"
     alt: "Violent Femmes by Violent Femmes"
     caption: "Violent Femmes by Violent Femmes"
+additional_images:
+    - "https://i.discogs.com/kB2Grv_W4GzsRp6l5Pan3OGm9L5YcmC6I4Nrqpz1yEU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzIxNzI5/NDUtNDY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/MZFwne45GErSX9IUzjUraufN_VZkVYmLJ6tGz-uCUyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzIxNzI5/NTEtNjg4My5qcGVn.jpeg"
+    - "https://i.discogs.com/lWv4odJhmxoyps6LhG1vXq18uHRuTJuSu4BbskVLk70/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/MjYtMjQ1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/rOe1eZ7shcawyBkOgSGgLdimi8YLCPk2-RNZDcaF5hA/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/MzQtNDM3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/EiwC0I2y_5d1lUNCVdInUs5wPHjYFxYf9BIH8Y8ZZ18/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/NDAtMjE5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/PhIXIaAWEHeN9rtdDdeNN-HuSVnwDFB9sf7wREqj-Bs/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/NTQtNTIyMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -31,7 +38,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Good Feeling (3:49)
 
 <!-- section break -->
-
 
 When Violent Femmes first started playing their strain of jazz- and folk-inspired alternative rock in Milwaukee in the early ’80s, there wasn’t much precedent for the music they were making. No one would give them a gig, so they played on city sidewalks with an acoustic guitar, an acoustic bass and a drum kit made up of one single tom with a steel washbasin flipped on top of it and a pair of brushes. “People in the punk scene—if they were walking and they saw us up ahead, they'd cross the street and act like they didn't know us,” Gordon Gano, the band’s singer, guitarist and principal songwriter, tells Apple Music. “We were the opposite of what people thought was cool.”
 
@@ -71,28 +77,25 @@ BR: “Gordon and I were busking one day, and Victor wasn't around. And I had ju
 <b>“Good Feeling”</b>
 BR: “We thought that it was good to end the album on a soft note. The song is kind of intense; it's about drugs. You hear the violin—that's clearly an homage to John Cale and his viola. There are many pop music references on the first album. We were just that way, because we're just big fans. But basically, it's just a good song. When we would play it live, women would be crying. We knew that it had a purpose to be in the repertoire.”
 
-
-
-
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/violent-femmes/1576789411" >}}
-
-
-
-
-
 ## Videos
 ### Violent Femmes - Full Album (1982)
 {{< youtube id="AkfzujwVFQs" title="Violent Femmes - Full Album (1982)" >}}<br>
 
 
+## Release Images
+{{< imageGrid >}}
 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
-| Discogs Link   | [Violent Femmes - Violent Femmes](https://www.discogs.com/release/12101265-Violent-Femmes-Violent-Femmes) |
-| Label          | Craft Recordings |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Violent_Femmes |
+| Wikipedia Summary | Violent Femmes are an American folk punk band from Milwaukee, Wisconsin. The band consists of founding members Gordon Gano (guitar, lead vocals) and Brian Ritchie (bass, backing vocals), joined by multi-instrumentalist Blaise Garza (joined 2004), and drummer John Sparrow (joined 2005). Former members of the band include drummers Victor DeLorenzo (1980–1993, 2002–2013), Guy Hoffman (1993–2002), and Brian Viglione (2013–2016). <br>Violent Femmes have released ten studio albums and 15 singles during the course of their career. The band found critical acclaim with the release of their self-titled debut album in early 1983. Featuring many of their best-known songs, including "Blister in the Sun", "Kiss Off", "Add It Up" and "Gone Daddy Gone", Violent Femmes became the band's biggest-selling album and was eventually certified platinum by the RIAA. After the release of their third album The Blind Leading the Naked (1986), the band's future was uncertain and they split up in 1987 when Gano and Ritchie went solo. However, they regrouped a year later, releasing their fourth album 3 (1989). The follow-up album, Why Do Birds Sing? (1991), contains the fan favorite and concert staple "American Music".<br>In 1993, founding member Victor DeLorenzo (percussion, snare drum) left Violent Femmes and was replaced by Guy Hoffman, who debuted on the band's sixth album New Times (1994). Two more albums – Rock!!!!! (1995) and Freak Magnet (2000) – were released with this lineup before DeLorenzo rejoined the band in 2002 for what was to be a farewell tour. Following the commercial failure of Freak Magnet, Violent Femmes did not release any more studio albums for almost two decades, although a number of compilation albums were released in the early 2000s, along with a few one-off songs. Some controversy over the licensing of the band's songs for commercial use led to an official break-up in 2009, though they re-formed in 2013 (shortly before DeLorenzo left Violent Femmes again), and have since released two more studio albums of new material: We Can Do Anything (2016) and Hotel Last Resort (2019). |
+    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Label          | Craft Recordings |
 | Catalog Number | CR00108 |
 | Notes | 180-Gram 35th Anniversary Reissue  Mastered at Capitol Mastering  Recorded at Castle Recording Company,  Lake Geneva, Wisconsin, July 1982.   Thanks to Robert Munger, Bryan King, 4TA and The Bone.  Special thanks to our friends who are no longer with us, James and Christina.  Originally released as [r=426356] (Jan 1982).  Track B4 has an altered title to previous releases.  |
+| Discogs URL    | [Violent Femmes - Violent Femmes](https://www.discogs.com/release/12101265-Violent-Femmes-Violent-Femmes) |
