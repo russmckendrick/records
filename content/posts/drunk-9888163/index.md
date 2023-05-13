@@ -72,7 +72,7 @@ styles: []
 <!-- section break -->
 
 “I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies.
-<br>
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}
 ## Videos
@@ -97,8 +97,9 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | “I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies. |
-| Release Year   | 2017                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Drunk_(album) |
+| Wikipedia Summary | Drunk is the third studio album by American musician Thundercat. It was released on February 24, 2017 by Brainfeeder. It features guest appearances from Kenny Loggins, Michael McDonald, Kendrick Lamar, Wiz Khalifa, Mac Miller, and Pharrell. It was released nearly four years after his previous studio album, Apocalypse. Drunk received positive reviews from music critics. A ChopNotSlop remix from OG Ron C, DJ Candlestick, & The Chopstars entitled 'Drank' was released as a special edition purple vinyl record. |
+    | Release Year   | 2017                                   |
 | Format         | Vinyl 4× 10" 45 RPM (Red), Box Set Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF064 |

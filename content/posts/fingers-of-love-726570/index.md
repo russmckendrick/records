@@ -31,8 +31,6 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-"Fingers of Love" is a 1994 song by rock group Crowded House from the group's fourth studio album Together Alone. It was released as a single in May 1994 and peaked at number 25 on the UK Singles Chart.
-"Fingers of Love" was performed by the band on their farewell concert Farewell to the World in 1996. On the DVD special features for the concert, guitarist Mark Hart reports that it is his favourite song to play. He states this is because of the full sound of the song and also because he performs an extensive solo.
 <br>
 ## Videos
 ### Crowded House - Fingers of Love
@@ -45,8 +43,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Fingers_of_Love |
-| Wikipedia Summary | "Fingers of Love" is a 1994 song by rock group Crowded House from the group's fourth studio album Together Alone. It was released as a single in May 1994 and peaked at number 25 on the UK Singles Chart.<br>"Fingers of Love" was performed by the band on their farewell concert Farewell to the World in 1996. On the DVD special features for the concert, guitarist Mark Hart reports that it is his favourite song to play. He states this is because of the full sound of the song and also because he performs an extensive solo. |
 | Release Year   | 1994                                   |
 | Format         | Vinyl 10" 45 RPM Single Numbered Stereo |
 | Label          | Capitol Records |

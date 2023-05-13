@@ -1,7 +1,7 @@
 ---
 title: "Moulettes"
-summary: "British folk rock meets progrock band, playing music which they themselves call craft pop."
+summary: "Moulettes are an English art rock band that combines elements of rock, progressive, folk and pop music. The band was formed in 2002 in Glastonbury, England by Hannah Miller , Ruth Skipper , Robert Skipper , Oliver Austin and Ted Dwane . The current lineup is Hannah Miller , Oliver Austin , Raevennan Husbandes , Jules Arthur , Mikey Simmonds Moulettes are a band of multi-instrumentalists who experiment with the interplay between electric and acoustic instruments through effects and distortion. Led by either a 4, 5 or 6 string cello; the band uses three-part vocal harmony and often incorporates orchestral and progressive elements into their music. They occasionally play with a chamber orchestra, or in larger ensembles which include Georgina Leach , Mikey Simmonds , Anisa Arslanagic, Emma Gatrill , Kate Young , Eliza Jaye , Marcus Hamblett , Rob Arcari , Laura Hockenhull and Faye Houston . Their main influences include Björk, Kate Bush, Gentle Giant, Nick Cave and the Bad Seeds, The Dirty Three, The Beatles and Pink Floyd. The band have received positive reviews from mainstream press which has acknowledged their original sound. The band have been nominated for several Best of The Year lists, and won Spiral Earth's Best Band and Album categories and won Featea Roots Music's best band of 2012. Having toured extensively and played at many festivals since their inception, Moulettes have shared the stage and studio with Seasick Steve, John Paul Jones, The Ting Tings, Mumford and Sons, Band of Skulls, Paul Heaton, Bonobo, Liz Green, The Unthanks, Arthur Brown and many more."
 image: "moulettes.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/moulettes/368830282"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Moulettes"
 ---

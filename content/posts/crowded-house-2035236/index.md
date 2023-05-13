@@ -39,8 +39,8 @@ styles: ["Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-Crowded House is the debut album by New Zealand-Australian band Crowded House. Produced by Mitchell Froom, it was released in August 1986 and was certified platinum in four countries. The album includes the hit singles "Don't Dream It's Over", "Something So Strong", "Mean to Me", "World Where You Live" and "Now We're Getting Somewhere".
-At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In December of 2021, the album was listed at no. 7 in Rolling Stone Australia's '200 Greatest Albums of All Time' countdown.
+This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
+This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}
@@ -59,8 +59,8 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Crowded_House_(album) |
-| Wikipedia Summary | Crowded House is the debut album by New Zealand-Australian band Crowded House. Produced by Mitchell Froom, it was released in August 1986 and was certified platinum in four countries. The album includes the hit singles "Don't Dream It's Over", "Something So Strong", "Mean to Me", "World Where You Live" and "Now We're Getting Somewhere".<br>At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In December of 2021, the album was listed at no. 7 in Rolling Stone Australia's '200 Greatest Albums of All Time' countdown. |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Crowded_House_discography |
+| Wikipedia Summary | This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.<br>This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works. |
 | Release Year   | 1986                                   |
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
