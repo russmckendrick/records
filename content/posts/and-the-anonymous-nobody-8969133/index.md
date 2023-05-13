@@ -51,6 +51,8 @@ styles: ["Conscious"]
 <!-- section break -->
 
 And the Anonymous Nobody... (stylized as and the Anonymous Nobody...) is the ninth and most recent full-length studio album by American hip hop group De La Soul, the group's first full-length album since The Grind Date and its last prior to group member Trugoy the Dove's death in 2023. It was released on August 26, 2016, on A.O.I. Records, executive produced by Jordan Katz. The group announced the track list on May 20, 2016.The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, Little Dragon, Snoop Dogg, Jill Scott, Justin Hawkins, Pete Rock, and Roc Marciano. It received positive reviews by critics, and peaked at 12 on the Billboard 200. The album was nominated for Best Rap Album at the 2017 Grammy Awards.
+
+
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-the-anonymous-nobody/1667383327" >}}
@@ -87,7 +89,7 @@ And the Anonymous Nobody... (stylized as and the Anonymous Nobody...) is the nin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/And_the_Anonymous_Nobody... |
-| Wikipedia Summary | And the Anonymous Nobody... (stylized as and the Anonymous Nobody...) is the ninth and most recent full-length studio album by American hip hop group De La Soul, the group's first full-length album since The Grind Date and its last prior to group member Trugoy the Dove's death in 2023. It was released on August 26, 2016, on A.O.I. Records, executive produced by Jordan Katz. The group announced the track list on May 20, 2016.The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, Little Dragon, Snoop Dogg, Jill Scott, Justin Hawkins, Pete Rock, and Roc Marciano. It received positive reviews by critics, and peaked at 12 on the Billboard 200. The album was nominated for Best Rap Album at the 2017 Grammy Awards. |
+| Wikipedia Summary | And the Anonymous Nobody... (stylized as and the Anonymous Nobody...) is the ninth and most recent full-length studio album by American hip hop group De La Soul, the group's first full-length album since The Grind Date and its last prior to group member Trugoy the Dove's death in 2023. It was released on August 26, 2016, on A.O.I. Records, executive produced by Jordan Katz. The group announced the track list on May 20, 2016.The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, Little Dragon, Snoop Dogg, Jill Scott, Justin Hawkins, Pete Rock, and Roc Marciano. It received positive reviews by critics, and peaked at 12 on the Billboard 200. The album was nominated for Best Rap Album at the 2017 Grammy Awards.<br><br> |
 | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | AOI Records |
