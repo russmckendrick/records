@@ -18,6 +18,7 @@ additional_images:
     - "https://i.discogs.com/Ug046uB1g_uwt8ty0kV5pidimhaW43nWbJEANBpduQo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU3/NDMzLTE1OTU2ODM0/NjAtNTUxNC5qcGVn.jpeg"
     - "https://i.discogs.com/kzwoYI9ou7FJPKOhxAiKBgnGmfL-5Hb7OySKuqQGUkA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU3/NDMzLTE1OTU2ODM0/NjItMjQ5OS5qcGVn.jpeg"
     - "https://i.discogs.com/oGjiRpOsQNChTrkOcGApw7O-7pQYTtkdINRURNI7vS0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU3/NDMzLTE1OTU0NDkz/MDItMjAyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/BeTn7HnsLoLs4FbnBxc51Gdm-s95GRgEFPDPqF5H8wU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU3/NDMzLTE1OTU2NDQ1/NjktNDM5Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---

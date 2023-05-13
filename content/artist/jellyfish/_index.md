@@ -4,6 +4,6 @@ summary: "Jellyfish was an American rock band that formed in San Francisco in 19
 During their five-year existence, Jellyfish attracted critical acclaim and a devoted cult following, but struggled against prevailing rock trends . Their only charting single on the Billboard Hot 100 was \"Baby's Coming Back\". Three other songs were top-twenty hits on Billboard's Modern Rock Tracks chart: \"The King Is Half-Undressed\", \"That Is Why\", and \"The Ghost at Number One\". Elsewhere, they had six songs appear on the UK Singles Chart, although none reached higher than the top thirty.
 Jellyfish broke up in 1994 due to poor record sales, Sturmer's discomfort with his role as frontman, and artistic conflicts between the two songwriters. Manning subsequently formed Imperial Drag with Dover, and pursued careers as a solo artist and session musician. Sturmer worked with the Japanese pop duo Puffy AmiYumi and continues to compose music for animated television programs. Since 2017, the trio of Manning, Dover, and Smith have recorded together as the Lickerish Quartet."
 image: "jellyfish.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/jellyfish/525765"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jellyfish_(band)"
 ---

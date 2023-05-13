@@ -44,7 +44,6 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-Tasmania is the eighth studio album by Australian psychedelic rock band Pond. It was released on 1 March 2019 by Spinning Top Records via Caroline Australia (Interscope Records internationally). As with previous Pond albums, it is also produced by former member and Tame Impala frontman Kevin Parker. It features 10 tracks, led by third single "Daisy".At the AIR Awards of 2020, the album was nominated for Best Independent Rock Album or EP.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tasmania/1660070869" >}}
@@ -61,8 +60,6 @@ Tasmania is the eighth studio album by Australian psychedelic rock band Pond. It
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Tasmania_(album) |
-| Wikipedia Summary | Tasmania is the eighth studio album by Australian psychedelic rock band Pond. It was released on 1 March 2019 by Spinning Top Records via Caroline Australia (Interscope Records internationally). As with previous Pond albums, it is also produced by former member and Tame Impala frontman Kevin Parker. It features 10 tracks, led by third single "Daisy".At the AIR Awards of 2020, the album was nominated for Best Independent Rock Album or EP. |
 | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (White) |
 | Label          | Marathon Artists |

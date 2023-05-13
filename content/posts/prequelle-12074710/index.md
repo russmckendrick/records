@@ -42,8 +42,10 @@ styles: ["Gothic Metal"]
 
 <!-- section break -->
 
-Set in medieval times, when the bubonic plague spread death across Europe, Ghost’s fourth album is a sociopolitical allegory for our own time. On soaring, metallic hymns like the Faustian “Rats,” the guitar explosion of “See the Light,” and the sinister, rumbling “Faith,” the theatrical Swedes' new frontman, Cardinal Copia, pulls the curtain back on power-hungry politicians and religious charlatans everywhere. Later, the pulsing discotheque romance of “Dance Macabre” and satanic Queen-esque ballad “Pro Memoria” offer contrasting meditations on love and death.
-<br>
+Prequelle is the fourth studio album by the Swedish rock band Ghost. It was released on 1 June 2018 and produced by Tom Dalgety. The album's first single, "Rats", was released ahead of the album on 13 April, and as of 28 July, had peaked at number one for seven weeks on the Billboard Mainstream Rock Songs chart. The second single, "Dance Macabre", later topped the same chart for two weeks as well. The album marked the band's strongest selling debut to date, landing at number 3 on the Billboard 200, selling 66,000 copies in its first week, with 61,000 of those being "traditional" album sales. The album's themes include medieval times and the Black Death, along with more modern subject matters.
+"Prequelle" was nominated for the Best Rock Album Grammy Award at the 61st annual awards ceremony and the Swedish Grammis Award in the category of Hard rock/metal.
+The album was released with five different versions of the cover art, each with the rider and horse in the foreground placed in a different position.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prequelle/1368157625" >}}
 ## Videos
@@ -68,8 +70,9 @@ Set in medieval times, when the bubonic plague spread death across Europe, Ghost
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Prequelle |
 | Apple Music Summary | Set in medieval times, when the bubonic plague spread death across Europe, Ghost’s fourth album is a sociopolitical allegory for our own time. On soaring, metallic hymns like the Faustian “Rats,” the guitar explosion of “See the Light,” and the sinister, rumbling “Faith,” the theatrical Swedes' new frontman, Cardinal Copia, pulls the curtain back on power-hungry politicians and religious charlatans everywhere. Later, the pulsing discotheque romance of “Dance Macabre” and satanic Queen-esque ballad “Pro Memoria” offer contrasting meditations on love and death. |
-| Release Year   | 2018                                   |
+    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Red/Clear Swirl) |
 | Label          | Loma Vista |
 | Catalog Number | LVR00392 |

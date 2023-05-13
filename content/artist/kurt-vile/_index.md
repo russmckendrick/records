@@ -1,7 +1,9 @@
 ---
 title: "Kurt Vile"
-summary: "American musician and producer, born 1980 in Philadelphia, PA. Founding member of ."
+summary: "Kurt Samuel Vile is an American singer, songwriter, multi-instrumentalist, and record producer. He is known for his solo work and as the former lead guitarist of rock band the War on Drugs. Both in the studio and during live performances, Vile is accompanied by his backing band, the Violators, which currently includes Jesse Trbovich , Kyle Spence and Adam Langellotti .
+Influenced by Pavement, John Prine, Neil Young, Ween, Tom Petty, Dinosaur Jr., and John Fahey, Vile began his musical career creating lo-fi home recordings with frequent collaborator Adam Granduciel in Philadelphia, with whom he has participated in early work by the War on Drugs as well as various solo projects. Focusing on his solo career, Vile released two albums, Constant Hitmaker and God Is Saying This to You... , compiling various home recordings dating back to 2003. Vile signed to Matador Records in 2009, and released his third album, Childish Prodigy, that same year. The album was his first recorded in a studio and with the full participation of the Violators.
+In 2011, Vile released his fourth studio album, Smoke Ring for My Halo, which significantly increased his exposure. His fifth studio album, Wakin on a Pretty Daze, was released in 2013, with Rob Laakso replacing Granduciel in his backing band. In 2015, Vile released his sixth studio album, B'lieve I'm Goin Down.... The lead single from the album, \"Pretty Pimpin\", was Vile's best performing song to date, topping the Billboard Adult Alternative Songs chart in March 2016. His 2017 release, Lotta Sea Lice, is a collaboration with Australian singer and guitarist Courtney Barnett. In 2018, he released his eighth studio album, Bottle It In, followed by a country-influenced EP, Speed, Sound, Lonely KV, in 2020."
 image: "kurt-vile.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/kurt-vile/274234314"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kurt_Vile"
 ---

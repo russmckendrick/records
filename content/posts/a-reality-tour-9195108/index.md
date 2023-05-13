@@ -68,7 +68,6 @@ styles: ["Art Rock", "Alternative Rock", "Glam"]
 
 <!-- section break -->
 
-A Reality Tour is a live album by David Bowie that was released on 25 January 2010. The album features 22 and 23 November 2003 performances in Dublin during his concert tour A Reality Tour. This is an audio version of the concert video of the same name, except that it adds three bonus tracks. The digital download on iTunes adds two more bonus tracks.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-reality-tour-live/1676509044" >}}
@@ -80,8 +79,6 @@ A Reality Tour is a live album by David Bowie that was released on 25 January 20
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/A_Reality_Tour_(album) |
-| Wikipedia Summary | A Reality Tour is a live album by David Bowie that was released on 25 January 2010. The album features 22 and 23 November 2003 performances in Dublin during his concert tour A Reality Tour. This is an audio version of the concert video of the same name, except that it adds three bonus tracks. The digital download on iTunes adds two more bonus tracks. |
 | Release Year   | 2016                                   |
 | Format         | Vinyl 3× LP Album Reissue (Blue Translucent, 180g), Box Set Limited Edition |
 | Label          | ISO Records |

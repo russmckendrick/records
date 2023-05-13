@@ -1,7 +1,7 @@
 ---
 title: "Paul Rodgers"
-summary: "English rock singer, born 17 Dec 1949 in Middlesbrough. Best known for being a member of Free and Bad Company and his collaboration with Queen. Also had a brief collaboration with Led Zeppelin guitarist Jimmy Page, under The Firm guise. Rodgers was also a member of Desperado along side , he left the band sometime before 1979, and there are no known recordings of his time in the band."
+summary: "Paul Rodgers is a British-Canadian singer, songwriter and musician. He was the lead vocalist of numerous rock bands, including Free, Bad Company, The Firm, and The Law. He has also performed as a solo artist, and collaborated with the remaining active members of Queen under the moniker Queen + Paul Rodgers. A poll in Rolling Stone magazine ranked him number 55 on its list of the \"100 Greatest Singers of All Time\". In 2011 Rodgers received the British Academy's Ivor Novello Award for Outstanding Contribution to British Music.Rodgers has been cited as a significant influence on various rock singers. In 1991, John Mellencamp called Rodgers \"the best rock singer ever\". Freddie Mercury in particular liked Rodgers and his aggressive style."
 image: "paul-rodgers.jpg"
 apple_music_artist_url: "None"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Paul_Rodgers"
 ---

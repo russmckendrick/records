@@ -42,9 +42,9 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-Soup is the second studio album by American rock band Blind Melon, released on August 15, 1995, through Capitol Records. It is the band's last album released during the lifetime of vocalist Shannon Hoon.
-Soup received generally mixed reviews from critics and fared poorly commercially, with the album only reaching number 28 on the US Billboard 200 albums chart and going on to sell 217,000 copies in the United States by October 1996. Hoon's death from a fatal drug overdose two months after the album's release resulted in the album's promotion being abruptly cut off, further affecting sales.
-The album has retrospectively been considered a "dark horse" in the alternative rock genre.
+Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.
+
+
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blind-melon/725821342" >}}
@@ -74,8 +74,8 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Soup_(Blind_Melon_album) |
-| Wikipedia Summary | Soup is the second studio album by American rock band Blind Melon, released on August 15, 1995, through Capitol Records. It is the band's last album released during the lifetime of vocalist Shannon Hoon.<br>Soup received generally mixed reviews from critics and fared poorly commercially, with the album only reaching number 28 on the US Billboard 200 albums chart and going on to sell 217,000 copies in the United States by October 1996. Hoon's death from a fatal drug overdose two months after the album's release resulted in the album's promotion being abruptly cut off, further affecting sales.<br>The album has retrospectively been considered a "dark horse" in the alternative rock genre. |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Blind_Melon_(album) |
+| Wikipedia Summary | Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.<br><br> |
 | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |

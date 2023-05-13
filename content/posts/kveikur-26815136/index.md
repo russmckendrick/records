@@ -53,7 +53,7 @@ styles: ["Post Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Release Year   | 2023                                   |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (Yellow [Sulphuric Yellow], 10th Anniversary Edition) |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Yellow [Sulphuric Yellow], 10th Anniversary Edition) |
 | Label          | Krúnk |
 | Catalog Number | KRUNK77CLPY |
 | Notes | ℗ 2013 The copyright in this sound recording is owned by Sigur Rós, under exclusive license to Krunk. © 2023 Krunk.  Includes limited silk screen print on 350gsm art card by Sigga Björg Sigurðardóttir. Pressed in a total number of 1350 ex on sulphuric coloured vinyl.   Circular hype sticker reads: "10th Anniversary Edition Record Store Day Sulphuric Yellow Heavyweight Vinyl Includes limited silk screen print on 350 gsm art card"  Additional information: • Front cover image [...] by kind permission of the Lydia Clarke Foundation. Mixing credit: • Assisted by Elisabeth Carlsson (Sundlaugin, Álafoss) • Assisted by Chris Kasych & Eric Isip (Eldorado, Los Angeles) • Assisted by Laura Sisk (Pacifique, North Hollywood)  |

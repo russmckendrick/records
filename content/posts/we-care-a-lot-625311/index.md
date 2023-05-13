@@ -40,9 +40,7 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 
 <!-- section break -->
 
-"We Care a Lot" is a song by Faith No More. There are three versions of the song, all of which have been officially released over three different albums. The original was recorded for and released on the band's first studio album, We Care a Lot. A re-recorded version, with new lyrics, was included on the album Introduce Yourself and was the lead single, reaching number 53 on the UK Singles Chart. The live version, without original singer Chuck Mosley, was included on the live album and video Live at the Brixton Academy and was also released as a single in 1991. It was the second most frequently-played song during the band's live performances, behind "Epic". "We Care a Lot" featured different lyrics and ad-libs when performed by Mike Patton, much like performances of "Chinese Arithmetic".
-
-
+We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}
@@ -69,8 +67,8 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/We_Care_a_Lot_(song) |
-| Wikipedia Summary | "We Care a Lot" is a song by Faith No More. There are three versions of the song, all of which have been officially released over three different albums. The original was recorded for and released on the band's first studio album, We Care a Lot. A re-recorded version, with new lyrics, was included on the album Introduce Yourself and was the lead single, reaching number 53 on the UK Singles Chart. The live version, without original singer Chuck Mosley, was included on the live album and video Live at the Brixton Academy and was also released as a single in 1991. It was the second most frequently-played song during the band's live performances, behind "Epic". "We Care a Lot" featured different lyrics and ad-libs when performed by Mike Patton, much like performances of "Chinese Arithmetic".<br><br> |
+| Wikipedia URL | https://en.wikipedia.org/wiki/We_Care_a_Lot |
+| Wikipedia Summary | We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself. |
 | Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mordam Records |

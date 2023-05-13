@@ -34,6 +34,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
+Pungent Effulgent is the debut studio album by British psychedelic rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pungent-effulgent/1189443799" >}}
@@ -48,6 +49,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pungent_Effulgent |
+| Wikipedia Summary | Pungent Effulgent is the debut studio album by British psychedelic rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s. |
 | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue (Blue) |
 | Label          | Kscope |

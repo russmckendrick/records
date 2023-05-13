@@ -39,9 +39,12 @@ styles: ["Hard Rock", "Classic Rock"]
 
 <!-- section break -->
 
+Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album. It peaked at No. 3 in the UK Albums Chart.
+
+
 <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/argus-remastered/1440504883" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-collection/1443329907" >}}
 ## Videos
 ### Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]
 {{< youtube id="iIbHRX8hO64" title="Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]" >}}<br>
@@ -62,6 +65,8 @@ styles: ["Hard Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Argus_(album) |
+| Wikipedia Summary | Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album. It peaked at No. 3 in the UK Albums Chart.<br><br> |
 | Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | MCA Records |

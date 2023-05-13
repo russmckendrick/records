@@ -42,8 +42,10 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-"Keep the Faith" is a song by American rock band Bon Jovi. It was written by Jon Bon Jovi, Richie Sambora, and Desmond Child. It was released on October 12, 1992, as the lead single from Bon Jovi's fifth album of the same name. It is characterized by its driving bass line and is a live staple for the band. "I Wish Everyday Could Be Like Christmas" appeared as a B-side to the song in the United States. In the US, the song reached number one on the Billboard Album Rock Tracks chart and peaked at number 29 on the Billboard Hot 100. Worldwide, "Keep the Faith" topped the charts of Norway and Portugal and reached number five in the United Kingdom.
-It is a regular song at live shows by the band and is featured on the Live from London and The Crush Tour DVDs. When played live it features Jon Bon Jovi playing percussion. In 2009, Jon Bon Jovi released a new version of "Keep the Faith" with the Washington DC Youth Choir on the compilation album Oh Happy Day. German Eurodance band X-Perience has also covered "Keep the Faith" in their 1997 album Take Me Home.
+Keep the Faith is the fifth studio album by American rock band Bon Jovi, released on November 3, 1992, by Mercury Records. It is Bon Jovi's last studio album to feature all five original band members as bass guitarist Alec John Such was dismissed from the band in 1994. It is Bon Jovi's first album since 1985's 7800° Fahrenheit not to be produced by Bruce Fairbairn. The album was produced by Bob Rock and was recorded at the Little Mountain Sound Studios in Vancouver, British Columbia. Keep the Faith marked a change to a "more serious interpretation of the band's pop-metal groove". It is also Bon Jovi's longest album to date, clocking in at 66 minutes.
+Keep the Faith peaked at number five on the US Billboard 200 chart and was certified double-platinum by the Recording Industry Association of America (RIAA). The album produced several hits for the band, including "Keep the Faith", "Bed of Roses" and "In These Arms".
+
+
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/keep-the-faith/1440826842" >}}
@@ -75,8 +77,8 @@ It is a regular song at live shows by the band and is featured on the Live from 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Keep_the_Faith_(Bon_Jovi_song) |
-| Wikipedia Summary | "Keep the Faith" is a song by American rock band Bon Jovi. It was written by Jon Bon Jovi, Richie Sambora, and Desmond Child. It was released on October 12, 1992, as the lead single from Bon Jovi's fifth album of the same name. It is characterized by its driving bass line and is a live staple for the band. "I Wish Everyday Could Be Like Christmas" appeared as a B-side to the song in the United States. In the US, the song reached number one on the Billboard Album Rock Tracks chart and peaked at number 29 on the Billboard Hot 100. Worldwide, "Keep the Faith" topped the charts of Norway and Portugal and reached number five in the United Kingdom.<br>It is a regular song at live shows by the band and is featured on the Live from London and The Crush Tour DVDs. When played live it features Jon Bon Jovi playing percussion. In 2009, Jon Bon Jovi released a new version of "Keep the Faith" with the Washington DC Youth Choir on the compilation album Oh Happy Day. German Eurodance band X-Perience has also covered "Keep the Faith" in their 1997 album Take Me Home. |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Keep_the_Faith |
+| Wikipedia Summary | Keep the Faith is the fifth studio album by American rock band Bon Jovi, released on November 3, 1992, by Mercury Records. It is Bon Jovi's last studio album to feature all five original band members as bass guitarist Alec John Such was dismissed from the band in 1994. It is Bon Jovi's first album since 1985's 7800° Fahrenheit not to be produced by Bruce Fairbairn. The album was produced by Bob Rock and was recorded at the Little Mountain Sound Studios in Vancouver, British Columbia. Keep the Faith marked a change to a "more serious interpretation of the band's pop-metal groove". It is also Bon Jovi's longest album to date, clocking in at 66 minutes.<br>Keep the Faith peaked at number five on the US Billboard 200 chart and was certified double-platinum by the Recording Industry Association of America (RIAA). The album produced several hits for the band, including "Keep the Faith", "Bed of Roses" and "In These Arms".<br><br> |
 | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album (180 gram) |
 | Label          | Mercury |

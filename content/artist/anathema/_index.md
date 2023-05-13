@@ -1,7 +1,8 @@
 ---
 title: "Anathema"
-summary: "Liverpool's Anathema, started out in the early '90s as strictly a doom metal outfit, with the requisite growled vocals and the trademark muddy sound, but when original singer Darren White left the band in 1995, with guitarist Vincent Cavanagh taking the reins, Anathema started their slow journey into completely uncharted territory. In fact, Anathema's metamorphosis over the past decade is one of the most remarkable band transformations in recent memory, as album after album has sounded more and more progressive and melodic, in no small part fueled by Cavanagh's superb singing voice. 2001's A Fine Day to Exit, aided by excellent songs like Release and Pressure, was an artistic breakthrough, as the band completely shed themselves of their metal roots, while still putting out powerful, brooding atmospheric rock. On 22 September 2020 the band announced that they would go on an indefinite hiatus."
+summary: "Anathema were an English rock band from Liverpool. The group was formed in 1990 by Vincent and Daniel Cavanagh, bassist Jamie Cavanagh, drummer/keyboardist John Douglas, and vocalist Darren White.
+The band maintained an active concert schedule throughout their career. They first toured in 1992 with the American death metal band Cannibal Corpse; they since performed throughout Europe, the United States, Central America, Australia, New Zealand, India, and Turkey. In the latter stages of their career, the band performed at notable venues such as London's O2 Arena, Wembley Arena, and the London Palladium, as well as appearing on stage with Stephen Hawking at Starmus Festival 3.Anathema released 11 studio albums, including Distant Satellites , which included the song \"Anathema\", named the Anthem of the Year at the third annual Progressive Music Awards. Three years later The Optimist was named Album of the Year at the Progressive Music Awards."
 image: "anathema.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/anathema/428003344"
-wikipedia_url: "https://en.wikipedia.org/wiki/Anathema"
+wikipedia_url: "https://en.wikipedia.org/wiki/Anathema_(band)"
 ---

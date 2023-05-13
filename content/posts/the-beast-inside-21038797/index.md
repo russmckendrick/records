@@ -40,8 +40,6 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-The Beast Inside is the second studio album from British indie rock band Inspiral Carpets. It was released on 22 April 1991 on Mute Records.
-The album made the Top 10 in the United Kingdom.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1144277578" >}}
@@ -66,8 +64,6 @@ The album made the Top 10 in the United Kingdom.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/The_Beast_Inside |
-| Wikipedia Summary | The Beast Inside is the second studio album from British indie rock band Inspiral Carpets. It was released on 22 April 1991 on Mute Records.<br>The album made the Top 10 in the United Kingdom. |
 | Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
 | Label          | Mute |

@@ -39,9 +39,6 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-Bagsy Me is the fourth album by Swedish band The Wannadies, released in 1997.
-It includes the hit singles "Someone Somewhere", "Shorty", "Friends", "Hit" and "You and Me Song", the last being originally available on previous album Be A Girl.  The song was not re-recorded and is present to capitalise on the band's growing fame following the track's appearance on the soundtrack to Baz Luhrmann's 1996 film Romeo + Juliet. The album was released in revised form in the US as The Wannadies.
-The CD version also features a pre-gap 'hidden track', which is the album versions of "Silent People" and "Bumble Bee Boy" played at the same time (both tracks feature on this album normally, as tracks 7 and 10) . Silent People is panned to the left, with Bumble Bee Boy panned to the right and starting 4 seconds later. The two songs feature the same music and some similar lyrics, but due to their differing tempos, they only sync up for a single line (the first 'how about you', in the first chorus of both songs).
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bagsy-me/705302046" >}}
@@ -58,8 +55,6 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Bagsy_Me |
-| Wikipedia Summary | Bagsy Me is the fourth album by Swedish band The Wannadies, released in 1997.<br>It includes the hit singles "Someone Somewhere", "Shorty", "Friends", "Hit" and "You and Me Song", the last being originally available on previous album Be A Girl.  The song was not re-recorded and is present to capitalise on the band's growing fame following the track's appearance on the soundtrack to Baz Luhrmann's 1996 film Romeo + Juliet. The album was released in revised form in the US as The Wannadies.<br>The CD version also features a pre-gap 'hidden track', which is the album versions of "Silent People" and "Bumble Bee Boy" played at the same time (both tracks feature on this album normally, as tracks 7 and 10) . Silent People is panned to the left, with Bumble Bee Boy panned to the right and starting 4 seconds later. The two songs feature the same music and some similar lyrics, but due to their differing tempos, they only sync up for a single line (the first 'how about you', in the first chorus of both songs). |
 | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Turquoise) |
 | Label          | Music On Vinyl |

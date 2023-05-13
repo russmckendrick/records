@@ -41,6 +41,7 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
+Bandwagonesque is the third album by Scottish alternative rock band Teenage Fanclub, released in November 1991 on Creation Records. The album gave the band substantial US success when the single "Star Sign" reached number four on the Billboard Modern Rock Tracks chart, becoming their biggest hit in that country, with "What You Do to Me" and "The Concept" also becoming top 20 hits on that chart. Bandwagonesque was voted 'album of the year' for 1991 by American music magazine Spin, famously beating Nirvana's landmark album Nevermind. It was voted number 386 in Colin Larkin's All Time Top 1000 Albums 3rd Edition (2000).
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bandwagonesque/1417071599" >}}
@@ -58,6 +59,8 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bandwagonesque |
+| Wikipedia Summary | Bandwagonesque is the third album by Scottish alternative rock band Teenage Fanclub, released in November 1991 on Creation Records. The album gave the band substantial US success when the single "Star Sign" reached number four on the Billboard Modern Rock Tracks chart, becoming their biggest hit in that country, with "What You Do to Me" and "The Concept" also becoming top 20 hits on that chart. Bandwagonesque was voted 'album of the year' for 1991 by American music magazine Spin, famously beating Nirvana's landmark album Nevermind. It was voted number 386 in Colin Larkin's All Time Top 1000 Albums 3rd Edition (2000). |
 | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Pink, 180-gram, Gatefold) |
 | Label          | Music On Vinyl |

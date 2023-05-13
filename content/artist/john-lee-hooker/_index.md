@@ -1,7 +1,8 @@
 ---
 title: "John Lee Hooker"
-summary: "American blues singer-songwriter and guitarist. Born: August 22, 1912 in Tutwiler, Tallahatchie County, Mississippi, USA. Died: June 21, 2001 in Los Altos, California, USA. Some of his best known songs include \"Boogie Chillen'\" , \"Crawling King Snake\" , \"Dimples\" , \"Boom Boom\" , and \"One Bourbon, One Scotch, One Beer\" . Several of his later albums, including The Healer , Mr. Lucky , Chill Out , and Don't Look Back , were album chart successes in the U.S. and UK. Inducted into Rock And Roll Hall of Fame in 1991 ."
+summary: "\"Boom Boom\" is a song written by American blues singer and guitarist John Lee Hooker and recorded in 1961. Although it became a blues standard, music critic Charles Shaar Murray calls it \"the greatest pop song he ever wrote\". \"Boom Boom\" was both an American R&B and pop chart success in 1962 and a UK top-twenty hit in 1992.
+The song is one of Hooker's most identifiable and enduring songs and \"among the tunes that every band on the R&B circuit simply had to play\". It has been recorded by numerous blues and other artists, including a 1965 North American hit by the Animals."
 image: "john-lee-hooker.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/john-lee-hooker/97536"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Boom_Boom_(John_Lee_Hooker_song)"
 ---

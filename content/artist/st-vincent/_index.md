@@ -1,7 +1,9 @@
 ---
 title: "St. Vincent"
-summary: "Annie Clark is a singer / multi-instrumentalist and performs under the name St. Vincent. She began learning guitar at the age of 12, having been influenced by her uncle, , of the jazz duo . Her aunt is . Clark plays piano, organ, drums, bass guitar, theremin, and vibraphone. Has collaborated and/or toured with , , , and , among others. In 2013, Clark received the Smithsonian American Ingenuity Award, and in 2014, she performed with remaining members of at their Rock and Roll Hall of Fame induction. won the 2015 Grammy Award for Best Alternative Music Album."
+summary: "Anne Erin Clark , known professionally as St. Vincent, is an American singer, musician, and songwriter. Her music is noted for its complex arrangements utilizing a wide array of instruments. St. Vincent is the recipient of various accolades, including three Grammy Awards.
+Raised in Dallas, St. Vincent began her music career as a member of the Polyphonic Spree. She was also a member of Sufjan Stevens's touring band before forming her own band in 2006. Her debut solo album, Marry Me, was released in 2007; it was followed by Actor and Strange Mercy . In 2012, St. Vincent released Love This Giant, an album made in collaboration with David Byrne of Talking Heads. Her fourth studio album, St. Vincent , received widespread acclaim from contemporary critics. Her fifth album, Masseduction , was released to further acclaim. St. Vincent's sixth album, Daddy's Home, was released in 2021.
+Besides music, St. Vincent has written and directed a segment in the 2017 anthology horror film XX. She also co-wrote and starred in the psychological thriller film The Nowhere Inn ."
 image: "st-vincent.jpg"
 apple_music_artist_url: "None"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/St._Vincent_(musician)"
 ---

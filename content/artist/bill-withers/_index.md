@@ -1,7 +1,7 @@
 ---
 title: "Bill Withers"
-summary: "Born: July 4, 1938 in Slab Fork, West Virginia, USA Died: March 30, 2020 In Los Angeles, CA. Soulful singer and songwriter. A late starter musically, he cut his first demos while working as a mechanic for the Lockheed Aircraft Corporation and released his debut album \"Just As I Am\" in 1971 at the age of 33. Father of"
+summary: "William Harrison Withers Jr. was an American singer and songwriter. He had several hits over a career spanning 18 years, including \"Ain't No Sunshine\" , \"Grandma's Hands\" , \"Use Me\" , \"Lean on Me\" , \"Lovely Day\" and \"Just the Two of Us\" . Withers won three Grammy Awards and was nominated for six more. His life was the subject of the 2009 documentary film Still Bill. Withers was inducted into the Songwriters Hall of Fame in 2005 and Rock and Roll Hall of Fame in 2015. Two of his songs were inducted into the Grammy Hall of Fame."
 image: "bill-withers.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/bill-withers/339834"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bill_Withers"
 ---
