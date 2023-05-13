@@ -53,7 +53,7 @@ The critical reception of the album was generally positive, with comments such a
 
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/four-walls-and-an-amplifier/959034630" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/amplifier/1201106185" >}}<br>
 
 
 ## Videos
