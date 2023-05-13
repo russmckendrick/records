@@ -44,6 +44,7 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
+Nuisance is the debut studio album by British rock band Menswear, released on 24 October 1995 by Laurel. The album was preceded by "I'll Manage Somehow", "Daydreamer" and "Stardust"; the former charted in the top 40 while the latter two charted in the top 20. The album peaked at number 11 on the UK album chart.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nuisance/1320067263" >}}
@@ -63,6 +64,8 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Nuisance_(album) |
+| Wikipedia Summary | Nuisance is the debut studio album by British rock band Menswear, released on 24 October 1995 by Laurel. The album was preceded by "I'll Manage Somehow", "Daydreamer" and "Stardust"; the former charted in the top 40 while the latter two charted in the top 20. The album peaked at number 11 on the UK album chart. |
 | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange, 180g) |
 | Label          | Demon Records |

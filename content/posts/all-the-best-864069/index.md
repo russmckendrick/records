@@ -62,6 +62,9 @@ styles: ["Punk", "Post-Punk"]
 
 <!-- section break -->
 
+All the Best is a compilation album by the band Stiff Little Fingers, released in 1983.
+The album consists of the A- and B-sides of all the band's singles and EPs recorded and released between 1978 and 1983. It was originally released to coincide both with the release of the band's final single "Price of Admission" and with their two "farewell shows" which took place in February 1983. The band reformed in 1987 and released further singles and the tracks on this album would later form a substantial part of the compilation album Anthology, released in 2002.
+All the Best peaked at No. 19 on the UK Album Chart.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-the-best/695791844" >}}
@@ -76,6 +79,8 @@ styles: ["Punk", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/All_the_Best_(Stiff_Little_Fingers_album) |
+| Wikipedia Summary | All the Best is a compilation album by the band Stiff Little Fingers, released in 1983.<br>The album consists of the A- and B-sides of all the band's singles and EPs recorded and released between 1978 and 1983. It was originally released to coincide both with the release of the band's final single "Price of Admission" and with their two "farewell shows" which took place in February 1983. The band reformed in 1987 and released further singles and the tracks on this album would later form a substantial part of the compilation album Anthology, released in 2002.<br>All the Best peaked at No. 19 on the UK Album Chart. |
 | Release Year   | 1983                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Chrysalis |

@@ -1,7 +1,7 @@
 ---
 title: "Kingmaker"
-summary: "A kingmaker is a person or group that has great influence on a royal or political succession, without themselves being a viable candidate. Kingmakers may use political, monetary, religious, and military means to influence the succession. Originally, the term applied to the activities of Richard Neville, 16th Earl of Warwick—\"Warwick the Kingmaker\"—during the Wars of the Roses in England."
+summary: "British indie rock group from Kingston upon Hull, formed in 1990 by ex-Tombstone Graffiti members Loz Hardy and Myles Howell , along with ex-puppeteer John Andrew . Reformed by Myles Howell and John Andrew to play live shows in 2010 sans lead singer and guitar player Loz Hardy, substituting a new lead vocalist, an additional guitar player, and a keyboard player."
 image: "kingmaker.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/kingmaker/18423451"
-wikipedia_url: "https://en.wikipedia.org/wiki/Kingmaker"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kingmaker_(band)"
 ---

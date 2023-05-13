@@ -70,7 +70,7 @@ Stand Up is the second studio album by British rock band Jethro Tull, released i
 The album quickly went to No. 1 on the UK charts, further launching the band's career, while the non-album single "Living in the Past" peaked at No. 3. The album was also Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200.
 <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stand-up-2016-steven-wilson-remixes-bonus-tracks/1187655211" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stand-up-2001-bonus-tracks-edition/726366185" >}}
 ## Videos
 ### J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969
 {{< youtube id="dP3V4ZRpSdM" title="J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969" >}}<br>

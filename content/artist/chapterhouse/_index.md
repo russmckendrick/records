@@ -2,6 +2,6 @@
 title: "Chapterhouse"
 summary: "Members: Stephen Patman, Andrew Sherriff, Simon Rowe, Russell Barrett, and Ashley Bates Formed in Reading in 1987 by Andrew Sherriff , Stephen Patman , Simon Rowe , Jon Curtis and Ashley Bates , Chapterhouse took the unusual step of rehearsing and gigging for well over a year before recording even a demotape. Initially lumped in with the British acid rock scene of the time, a mistake hardly rectified by the band's early performances supporting the rather laidback Spacemen 3. Chapterhouse eventually escaped from one genre only to find themselves thrust amongst the infamous \"shoegazer\" groups of 1991 , so called because of the bands' static live shows and insular music. Bassist Jon Curtis left early on to study, being replaced by Russell Barrett who also fronted his own garage band, the Bikinis. Chapterhouse eventually signed to the newly-formed Dedicated label, releasing a series of lavishly-acclaimed singles, including Pearl, which reached the UK Top 75, and which revelled in distorted melodies and attracted a healthy following, while the autumn of 1991 saw the band aiming their sights on the anticipatory American market. As of November, 2009, the band is together and playing live shows again, with dates in Japan and North America scheduled for 2010."
 image: "chapterhouse.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/chapterhouse/173417681"
-wikipedia_url: "none"
+apple_music_artist_url: "None"
+wikipedia_url: "https://en.wikipedia.org/wiki/Chapterhouse_(band)"
 ---

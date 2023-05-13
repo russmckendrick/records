@@ -1,7 +1,8 @@
 ---
 title: "Isobel Campbell"
-summary: "Former singer in the band Belle & Sebastian. After doing the main vocals for the band The Gentle Waves , she now releases material under her own name. She was born 27 April 1976 in Glasgow, Scotland, UK."
+summary: "Isobel Campbell is a Scottish singer, songwriter and cellist. She rose to prominence at age nineteen as a member of the indie pop band Belle & Sebastian, but left the group to pursue a solo career, first as The Gentle Waves, and later under her own name. She later collaborated with singer Mark Lanegan on three albums. Her latest studio album, There Is No Other, was released in 2020.
+Campbell's music has been described as either indie pop, chamber pop or singer-songwriter. Regardless of genre, Campbell makes gentle and sombre music, often using classical instruments."
 image: "isobel-campbell.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/isobel-campbell/4996189"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Isobel_Campbell"
 ---

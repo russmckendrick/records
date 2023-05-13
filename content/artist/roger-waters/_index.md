@@ -1,7 +1,10 @@
 ---
 title: "Roger Waters"
-summary: "English musician, singer-songwriter and composer, born 6 September 1943 in Great Bookham, Surrey, England, United Kingdom. Father to & ."
+summary: "George Roger Waters is an English musician, singer-songwriter and composer. In 1965, he co-founded the progressive rock band Pink Floyd as its bassist. Following the departure of singer-songwriter Syd Barrett in 1968, Waters also became the band's lyricist, co-lead vocalist and conceptual leader until his departure in 1985.
+Pink Floyd achieved international success with the concept albums The Dark Side of the Moon , Wish You Were Here , Animals , The Wall , and The Final Cut . By the early 1980s, they had become one of the most critically acclaimed and commercially successful groups in popular music. Amid creative differences, Waters left in 1985 and began a legal dispute over the use of the band's name and material. They settled out of court in 1987. Waters's solo work includes the studio albums The Pros and Cons of Hitch Hiking , Radio K.A.O.S. , Amused to Death , and Is This the Life We Really Want? . In 2005, he released Ça Ira, an opera translated from Étienne and Nadine Roda-Gils' libretto about the French Revolution.
+In 1990, Waters staged one of the largest rock concerts in history, The Wall – Live in Berlin, with an attendance of 450,000. As a member of Pink Floyd, he was inducted into the US Rock and Roll Hall of Fame in 1996 and the UK Music Hall of Fame in 2005. Later that year, he reunited with Pink Floyd for the Live 8 global awareness event, the group's only appearance with Waters since 1981. He has toured extensively as a solo act since 1999; he performed The Dark Side of the Moon in its entirety for his world tour of 2006–2008, and the Wall Live tour of 2010–2013 was the highest-grossing tour by a solo artist at the time.
+Waters incorporates political themes in his work and has drawn controversy for his views. He is a supporter of Palestine in the Israeli–Palestinian conflict, likening the treatment of Palestine by Israel to Nazi Germany, and has been accused of antisemitism by organisations including the Anti-Defamation League."
 image: "roger-waters.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/roger-waters/542658"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Roger_Waters"
 ---

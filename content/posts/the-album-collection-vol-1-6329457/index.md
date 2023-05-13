@@ -157,6 +157,8 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
+The Album Collection Vol. 1 1973–1984 is a box set collection by Bruce Springsteen released on November 17, 2014. The 8 disc box set contains remastered versions of Springsteen's first seven studio albums and for the first time ever on CD, remasters of Greetings from Asbury Park, N.J., The Wild, the Innocent & the E Street Shuffle, The River, Nebraska and Born in the U.S.A. The box set features each album with recreations of their original packaging and also contain a 60-page book. All seven albums have also made their remastered debut on vinyl, and are available digitally at the iTunes Store.
+The albums were remastered by engineers Bob Ludwig and Toby Scott using brand new transfers from the original analogue masters using the Plangent Process playback system.
 <br>
 ## Videos
 ### Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)
@@ -173,6 +175,8 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Album_Collection_Vol._1_1973%E2%80%931984 |
+| Wikipedia Summary | The Album Collection Vol. 1 1973–1984 is a box set collection by Bruce Springsteen released on November 17, 2014. The 8 disc box set contains remastered versions of Springsteen's first seven studio albums and for the first time ever on CD, remasters of Greetings from Asbury Park, N.J., The Wild, the Innocent & the E Street Shuffle, The River, Nebraska and Born in the U.S.A. The box set features each album with recreations of their original packaging and also contain a 60-page book. All seven albums have also made their remastered debut on vinyl, and are available digitally at the iTunes Store.<br>The albums were remastered by engineers Bob Ludwig and Toby Scott using brand new transfers from the original analogue masters using the Plangent Process playback system. |
 | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl 2× LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
 | Label          | Columbia |

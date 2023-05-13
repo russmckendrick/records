@@ -38,8 +38,6 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 <!-- section break -->
 
 Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks "Black Widow" and "Deadly Kiss" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs "Love Has Passed Me By", "Katzenjammer", and "Isolation Desolation" were re-recorded for Wretch, the latter's title shortened to "Isolation".
-
-
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wretch/207946744" >}}
@@ -66,7 +64,7 @@ Wretch is the first full-length album by American rock band Kyuss, released in S
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wretch_(album) |
-| Wikipedia Summary | Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks "Black Widow" and "Deadly Kiss" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs "Love Has Passed Me By", "Katzenjammer", and "Isolation Desolation" were re-recorded for Wretch, the latter's title shortened to "Isolation".<br><br> |
+| Wikipedia Summary | Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks "Black Widow" and "Deadly Kiss" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs "Love Has Passed Me By", "Katzenjammer", and "Isolation Desolation" were re-recorded for Wretch, the latter's title shortened to "Isolation". |
 | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress (White / Grey Marbled, 180 Gram) |
 | Label          | Dali Records |

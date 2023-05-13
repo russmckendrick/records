@@ -66,7 +66,7 @@ Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., rel
 "Turnip Farm" is also featured in the film Reality Bites.
 <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/green-mind/1318697584" >}}
+{{< applemusic url="https://music.apple.com/gb/album/green-mind-expanded-edition/1478820383" >}}
 ## Videos
 ### The Wagon [2019 Remaster]
 {{< youtube id="5O0ye0I6bvc" title="The Wagon [2019 Remaster]" >}}<br>

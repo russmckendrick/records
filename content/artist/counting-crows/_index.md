@@ -1,7 +1,9 @@
 ---
 title: "Counting Crows"
-summary: "Counting Crows is an American rock band from Berkeley, California, formed in 1991."
+summary: "Counting Crows is an American rock band from San Francisco, California. Formed in 1991, the band consists of guitarist David Bryson, drummer Jim Bogios, vocalist Adam Duritz, keyboardist Charlie Gillingham, multi-instrumentalist David Immerglück, bass guitarist Millard Powers, and guitarist Dan Vickrey. Past members include the drummers Steve Bowman and Ben Mize , and bass guitarist Matt Malley .
+Counting Crows gained popularity following the release of its first album, August and Everything After . With the breakthrough hit single \"Mr. Jones\" , the album sold more than 7 million copies in the United States. The band received two Grammy Awards nominations in 1994, one for \"Best Rock Performance by a Duo or Group with Vocal\" and one for \"Best New Artist\". The follow-up album, Recovering the Satellites, reached number one on the US Billboard 200 album chart and reached number one in several other countries. All but one of their subsequent albums reached the top 10 on the Billboard 200 list.
+Their hit singles include the aforementioned \"Mr. Jones\" as well as \"Rain King\", \"A Long December\", \"Hanginaround\", and a cover version of Joni Mitchell's \"Big Yellow Taxi\". Counting Crows received a 2004 Academy Award nomination for the single \"Accidentally in Love\", which was included in the film Shrek 2. The band has sold more than 20 million albums and is known for its dynamic live performances. Billboard has also ranked the band as the 8th greatest Adult Alternative Artist of all time.The band's most recent full album, Somewhere Under Wonderland, was released in 2014. They released a four-song EP in 2021 titled Butter Miracle:Suite One, which is expected to be expanded to a full album."
 image: "counting-crows.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/counting-crows/35719"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Counting_Crows"
 ---

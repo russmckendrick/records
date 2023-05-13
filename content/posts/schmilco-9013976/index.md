@@ -42,7 +42,7 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.”
-    <br>
+<br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/schmilco/1131561462" >}}
 ## Videos
@@ -58,9 +58,8 @@ A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surpris
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Schmilco |
-| Wikipedia Summary | Schmilco is the tenth studio album by Chicago-based alternative rock band Wilco and was released on September 9, 2016. Wilco announced the album on July 19, 2016, and released two songs, "Locator" and "If I Ever Was a Child". The album's announcement came a little more than a year after their previous studio album, Star Wars. |
-    | Release Year   | 2016                                   |
+| Apple Music Summary | A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.” |
+| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink, 180 grams) |
 | Label          | dBpm Records |
 | Catalog Number | 7259-1 |

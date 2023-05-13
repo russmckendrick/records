@@ -37,9 +37,6 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-Live at the Orpheum is a live album by the band King Crimson, released by Discipline Global Mobile records in 2015.  The album was recorded on 30 September and 1 October at the Orpheum Theatre in Los Angeles, California on the band's The Elements of King Crimson US tour of 2014.King Crimson's 2014 tour marked guitarist, founder and leader Robert Fripp's return to active service after a long legal battle with Universal Music Group. This line-up of King Crimson is notable for featuring three drummers, Pat Mastelloto, Gavin Harrison and Bill Rieflin. The other members of the band are long standing bass player Tony Levin, Mel Collins who was previously in the band from 1970 to 1972, also playing on Red in 1974, Jakko Jakszyk on guitar and vocals, and Robert Fripp.All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting through the recordings. The two shows at the Orpheum Theatre in Los Angeles were chosen for release. The album features 41 minutes of selections from the set and was released on 13 January 2015 on CD/DVD-A and heavy-weight vinyl.
-
-
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-the-orpheum/950800441" >}}
@@ -51,8 +48,6 @@ Live at the Orpheum is a live album by the band King Crimson, released by Discip
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_the_Orpheum |
-| Wikipedia Summary | Live at the Orpheum is a live album by the band King Crimson, released by Discipline Global Mobile records in 2015.  The album was recorded on 30 September and 1 October at the Orpheum Theatre in Los Angeles, California on the band's The Elements of King Crimson US tour of 2014.King Crimson's 2014 tour marked guitarist, founder and leader Robert Fripp's return to active service after a long legal battle with Universal Music Group. This line-up of King Crimson is notable for featuring three drummers, Pat Mastelloto, Gavin Harrison and Bill Rieflin. The other members of the band are long standing bass player Tony Levin, Mel Collins who was previously in the band from 1970 to 1972, also playing on Red in 1974, Jakko Jakszyk on guitar and vocals, and Robert Fripp.All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting through the recordings. The two shows at the Orpheum Theatre in Los Angeles were chosen for release. The album features 41 minutes of selections from the set and was released on 13 January 2015 on CD/DVD-A and heavy-weight vinyl.<br><br> |
 | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Discipline Global Mobile |

@@ -1,7 +1,7 @@
 ---
 title: "Billy Joel"
-summary: "Billy Joel was born on May 9, 1949 in the Bronx and shortly after moved to the Levittown section of Hicksville, Long Island, New York where he started playing piano at the age of 4. In 1964, inspired by the Beatles, he formed his first band \"The Echoes\", which became \"The Lost Souls\" in 1965 and then \"The Emerald Lords\" in 1966. In 1967 he joined \"The Hassles\" and recorded two albums, which were not successful. Billy Joel and Jon Small, the drummer of The Hassles then formed the psychedelic duo \"Attila\" and released one album without success. In 1971 Billy Joel started his solo career with the album \"Cold Spring Harbour\" and finally achieved fame in 1973 with his song \"Piano Man\". Inducted into Songwriters Hall of Fame in 1992. Inducted into Rock And Roll Hall of Fame in 1999"
+summary: "The Billy Joel Band is the band that backs singer-songwriter and pianist Billy Joel on both studio and live recordings. The band began with the recording of his first album as a solo artist in 1971; it stabilized around 1975 and underwent several lineup changes in the late 1980s and early 1990s. Joel's touring band as a whole did not begin playing on his records until he recorded the album Turnstiles in 1976. This line-up included Richie Cannata on saxophones and organ, Liberty DeVitto on drums, Russell Javors and Howie Emerson on guitars, and Doug Stegmeyer on bass.The band, which now no longer includes any of its original members, is often not recognized as a formal entity, and is instead referred to simply as Billy Joel's band. The Lords of 52nd Street is a band formed by the original band members that previously played with Joel."
 image: "billy-joel.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/billy-joel/485953"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Billy_Joel_Band"
 ---

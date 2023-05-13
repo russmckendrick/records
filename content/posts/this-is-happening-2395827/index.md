@@ -52,8 +52,9 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 
 <!-- section break -->
 
-Critical acclaim only leaves New York’s most self-aware hipster more confused on album three. At what cost popularity? “I try and try/It ends up feeling kind of wrong,” James Murphy admits on “You Wanted a Hit.” At what cost heartbreak? “Never needed anyone for so long,” he laments on “All I Want,” a pristine “Heroes” tribute. These songs vacillate between ecstasy and agony—even the bawdy “Drunk Girls” curdles—and yearn for release. The coiled “One Touch” never quite breaks free, while “Pow Pow” feels like a glorious tantrum.
-<br>
+This Is Happening is the third studio album by American rock band LCD Soundsystem. It was released first on May 17, 2010, jointly through DFA and Virgin Records in the United States and Parlophone elsewhere. It was recorded over the course of 2009 and early 2010 in the Mansion recording studio in Los Angeles. The first single, "Drunk Girls", was released in April 2010, with a music video directed by Spike Jonze. 
+The album is dedicated to Jerry Fuchs (1974–2009), who performed drums live with the band on occasion, as well as having a big part in associated DFA acts.
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-happening/693391469" >}}
 ## Videos
@@ -77,8 +78,9 @@ Critical acclaim only leaves New York’s most self-aware hipster more confused 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_Happening |
 | Apple Music Summary | Critical acclaim only leaves New York’s most self-aware hipster more confused on album three. At what cost popularity? “I try and try/It ends up feeling kind of wrong,” James Murphy admits on “You Wanted a Hit.” At what cost heartbreak? “Never needed anyone for so long,” he laments on “All I Want,” a pristine “Heroes” tribute. These songs vacillate between ecstasy and agony—even the bawdy “Drunk Girls” curdles—and yearn for release. The coiled “One Touch” never quite breaks free, while “Pow Pow” feels like a glorious tantrum. |
-| Release Year   | 2010                                   |
+    | Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | DFA |
 | Catalog Number | DFA 2250-2 |

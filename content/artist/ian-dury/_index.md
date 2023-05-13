@@ -1,7 +1,7 @@
 ---
 title: "Ian Dury"
-summary: "Singer, songwriter and actor. Born May 12, 1942 in Harrow, Middlesex, England - died of cancer in March 27, 2000, Upminster, London, England His son is also a musician. For releases by The Blockheads WITHOUT Ian Dury please use !"
+summary: "Ian Robins Dury was a British singer, songwriter and actor who rose to fame in the late 1970s, during the punk and new wave era of rock music. He was the lead singer and lyricist of Ian Dury and the Blockheads, and previously Kilburn and the High Roads."
 image: "ian-dury.jpg"
 apple_music_artist_url: "None"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ian_Dury"
 ---

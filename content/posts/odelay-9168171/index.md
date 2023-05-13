@@ -46,8 +46,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 <!-- section break -->
 
 Odelay is the fifth studio album by American musician Beck, released on June 18, 1996, by DGC Records. The album featured several successful singles, including "Where It's At", "Devils Haircut", and "The New Pollution", and peaked at number sixteen on the Billboard 200. As of July 2008, the album had sold 2.3 million copies in the United States, making Odelay Beck's most successful album to date. Since its release, the album has appeared in numerous publications' lists of the greatest of the 1990s and of all time.
-
-
     <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/odelay/1440871815" >}}

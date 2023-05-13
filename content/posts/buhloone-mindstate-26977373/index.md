@@ -69,7 +69,7 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Buhloone_Mindstate |
-| Wikipedia Summary | Buhloone Mindstate (stylized as Buhlo͞one Mind State on the album cover) is the third studio album by American hip hop group De La Soul. It was released on September 21, 1993, through Tommy Boy Records, and was the group's last record to be produced with Prince Paul. |
+| Wikipedia Summary | Buhloone Mindstate (stylized as Buhlo͞one Mind State on the album cover) is the third studio album by American hip hop group De La Soul. It was released on September 21, 1993, through Tommy Boy Records, and was the group's last record to be produced with Prince Paul.<br><br> |
     | Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Chrysalis |
