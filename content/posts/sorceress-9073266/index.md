@@ -47,9 +47,6 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. The album was released on 30 September 2016 via record label Nuclear Blast and the band's own imprint Moderbolaget. The album was produced and mixed by Tom Dalgety and recorded at Rockfield Studios in Wales. Following the album's release, the band embarked on a world tour with bands the Sword, Sahg, and Myrkur as supporting acts. Thematically, the album draws inspiration from Åkerfeldt's personal life, as he divorced in 2016. The album was streamed via SoundCloud on 29 September.
-
-
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sorceress/1138402841" >}}
@@ -68,8 +65,6 @@ Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. T
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Sorceress_(Opeth_album) |
-| Wikipedia Summary | Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. The album was released on 30 September 2016 via record label Nuclear Blast and the band's own imprint Moderbolaget. The album was produced and mixed by Tom Dalgety and recorded at Rockfield Studios in Wales. Following the album's release, the band embarked on a world tour with bands the Sword, Sahg, and Myrkur as supporting acts. Thematically, the album draws inspiration from Åkerfeldt's personal life, as he divorced in 2016. The album was streamed via SoundCloud on 29 September.<br><br> |
 | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Nuclear Blast Entertainment |

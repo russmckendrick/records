@@ -89,7 +89,7 @@ styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 Brave is the seventh studio album by Marillion, released in 1994. It charted at number 10 on the UK Albums Chart, being the last of the band's albums to reach the Top 10 in the United Kingdom until F E A R reached number 4 in 2016.
 <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brave/693409538" >}}
+{{< applemusic url="https://music.apple.com/gb/album/brave-deluxe-edition/1332727026" >}}
 ## Videos
 ### Marillion - 2013 - Brave 5.1 Surround
 {{< youtube id="vdv0R2HPRrE" title="Marillion - 2013 - Brave 5.1 Surround" >}}<br>

@@ -41,8 +41,12 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 
 <!-- section break -->
 
-Recorded as a soundtrack for Prince’s directorial debut, <i>Under the Cherry Moon</i>, <i>Parade</i> melds his deepening funk explorations with a fascination for <i>Sgt. Pepper’s</i>-era Beatles. The album comes on strong and playful, stripped-back yet bursting with color. There are a handful of classics here in the steel-drum double-dutch of “New Position” and the ‘40s fantasia “Under the Cherry Moon,” but nothing reaches the heights of “Kiss,” which makes more of empty space than most artists make of sound.
-<br>
+Parade is the eighth studio album by American recording artist Prince, and the third and final album where the Revolution is billed. It also was the soundtrack album to the 1986 film Under the Cherry Moon, directed by and starring Prince. It was released on March 31, 1986 by Paisley Park Records and Warner Bros. Records.
+Parade eschews the guitar and rock elements of Prince's 1984 album Purple Rain in favor of the psychedelic pop style he explored on Around the World in a Day (1985), austerely produced funk, and soundtrack compositions. After the critical disappointment of his 1985 album Around the World in a Day, Parade was released to acclaim from music critics. "Kiss" reached number one on the Billboard Hot 100. Parade was certified Platinum by the Recording Industry Association of America (RIAA) in June 1986.
+Parade was named one of the best albums of 1986 by The Village Voice and NME magazine, who named it their Album of the Year.
+
+
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/parade-music-from-the-motion-picture-under-the-cherry-moon/260336005" >}}
 ## Videos
@@ -63,8 +67,9 @@ Recorded as a soundtrack for Prince’s directorial debut, <i>Under the Cherry M
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Parade_(Prince_album) |
 | Apple Music Summary | Recorded as a soundtrack for Prince’s directorial debut, <i>Under the Cherry Moon</i>, <i>Parade</i> melds his deepening funk explorations with a fascination for <i>Sgt. Pepper’s</i>-era Beatles. The album comes on strong and playful, stripped-back yet bursting with color. There are a handful of classics here in the steel-drum double-dutch of “New Position” and the ‘40s fantasia “Under the Cherry Moon,” but nothing reaches the heights of “Kiss,” which makes more of empty space than most artists make of sound. |
-| Release Year   | 2016                                   |
+    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Paisley Park |
 | Catalog Number | 1-25395 |
