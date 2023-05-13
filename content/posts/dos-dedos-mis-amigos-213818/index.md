@@ -41,8 +41,6 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 
 <!-- section break -->
 
-Dos Dedos Mis Amigos is the fifth studio album by English industrial rock band Pop Will Eat Itself. It was released on 19 September 1994 in the United Kingdom by Infectious Records and in the United States by Nothing and Interscope Records. The album is somewhat different from the band's other albums, as it had more of an industrial influence and fewer samples were used. The cover art was created by longtime collaborators The Designers Republic. The album was the last before the band disbanded in 1996 (excluding the then unreleased album), until the reformed band released New Noise Designed by a Sadist in 2011, with a different line-up.
-It was followed by an album of remixes, Two Fingers My Friends!, which is the English translation of "Dos Dedos Mis Amigos".
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dos-dedos-mis-amigos/1449628743" >}}
@@ -61,8 +59,6 @@ It was followed by an album of remixes, Two Fingers My Friends!, which is the En
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Dos_Dedos_Mis_Amigos |
-| Wikipedia Summary | Dos Dedos Mis Amigos is the fifth studio album by English industrial rock band Pop Will Eat Itself. It was released on 19 September 1994 in the United Kingdom by Infectious Records and in the United States by Nothing and Interscope Records. The album is somewhat different from the band's other albums, as it had more of an industrial influence and fewer samples were used. The cover art was created by longtime collaborators The Designers Republic. The album was the last before the band disbanded in 1996 (excluding the then unreleased album), until the reformed band released New Noise Designed by a Sadist in 2011, with a different line-up.<br>It was followed by an album of remixes, Two Fingers My Friends!, which is the English translation of "Dos Dedos Mis Amigos". |
 | Release Year   | 1994                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Infectious Records |

@@ -45,6 +45,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 Appetite for Destruction is the debut studio album by American hard rock band Guns N' Roses, released by Geffen Records on July 21, 1987. It initially received little mainstream attention, and it was not until the following year that Appetite for Destruction became a commercial success, after the band had toured and received significant airplay with the singles "Welcome to the Jungle", "Paradise City", and "Sweet Child o' Mine". The album went on to peak at number one on the US Billboard 200, and it became the seventh best-selling album of all time in the United States, as well as the best-selling debut album. With over 30 million copies sold worldwide, it is also one of the best-selling albums globally. 
 Although critics were originally ambivalent toward the album, Appetite for Destruction has received retrospective acclaim and been viewed as one of the greatest albums of all time. In 2018, it was re-released as a remastered box set to similar acclaim.
+
+
     <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction-super-deluxe/1377826053" >}}

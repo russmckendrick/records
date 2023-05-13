@@ -1,7 +1,10 @@
 ---
 title: "Queens Of The Stone Age"
-summary: "Alternative Rock/Stoner band formed in 1997 in Palm Desert, California, United States."
+summary: "Queens of the Stone Age is an American rock band formed in 1996 in Seattle, Washington. The band was founded by vocalist and guitarist Josh Homme, who has been the only constant member throughout multiple lineup changes. The current lineup consists of Homme alongside Troy Van Leeuwen , Michael Shuman , Dean Fertita , and Jon Theodore . The band also has a large pool of contributors and collaborators. Queens of the Stone Age are known for their blues, Krautrock and electronica-influenced style of riff-oriented and rhythmic hard rock music, coupled with Homme's distinct falsetto vocals and unorthodox guitar scales.
+Formed after the dissolution of Homme's previous band Kyuss, the band originated from the spread of the Palm Desert music scene. Their self-titled debut album was recorded with former Kyuss members Alfredo Hernández on drums and Homme on all other instruments. Bass guitarist Nick Oliveri joined the band for its accompanying tour and became the band's co-lead vocalist alongside Homme. The band's second studio album, Rated R, which featured Mark Lanegan as a guest vocalist, was commercially and critically successful, and featured their breakout single \"The Lost Art of Keeping a Secret\". The band's third studio album, Songs for the Deaf, was released in 2002 to universal acclaim and commercial success, and featured Dave Grohl on drums, alongside contributions from Alain Johannes and Natasha Shneider.
+Following Oliveri and Lanegan's departures in 2004 and 2005, respectively, Homme became the band's sole lead vocalist, with multi-instrumentalist Troy Van Leeuwen and drummer Joey Castillo becoming key collaborators on 2005's Lullabies to Paralyze and 2007's electronic-influenced Era Vulgaris. After a several years of inactivity, ...Like Clockwork was released in 2013 and Villains in 2017 with Mark Ronson as producer for the latter, both of which received critical acclaim.
+The band have been nominated for Grammy Awards seven times: four times for Best Hard Rock Performance, twice for Best Rock Album, and once for Best Rock Performance."
 image: "queens-of-the-stone-age.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/queens-of-the-stone-age/857919"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Queens_of_the_Stone_Age"
 ---

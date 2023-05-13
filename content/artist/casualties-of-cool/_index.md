@@ -1,8 +1,7 @@
 ---
 title: "Casualties Of Cool"
-summary: "Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval , released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.
-A number of guests performed on the album, including Morgan Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic."
+summary: "Canadian country rock duo consisting of Devin Townsend and Ché Aimee Dorval. Townsend founded the project in 2010, and officially announced it in 2012. The duo's self-titled debut album was relesed in May 2014; it was partially funded by crowdfunding."
 image: "casualties-of-cool.jpg"
 apple_music_artist_url: "None"
-wikipedia_url: "https://en.wikipedia.org/wiki/Casualties_of_Cool"
+wikipedia_url: "none"
 ---

@@ -40,8 +40,6 @@ styles: ["Power Pop", "Alternative Rock"]
 
 <!-- section break -->
 
-Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.
-Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}
@@ -59,8 +57,6 @@ Four singles were released ahead of the album's release; "The End of the Game", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Van_Weezer |
-| Wikipedia Summary | Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.<br>Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart. |
 | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |

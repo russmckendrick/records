@@ -1,7 +1,9 @@
 ---
 title: "The Cure"
-summary: "English new wave / post-punk / pop rock band founded in 1976 in Crawley, West Sussex. The band was initially called Malice in 1976, Easy Cure in 1977, and finally The Cure in 1978. The band has seen many line-up changes but Robert Smith has been the frontman / songwriter / vocalist / guitarist throughout their existence. Inducted into the Rock And Roll Hall Of Fame in 2019. Line-ups: Robert Smith, vocals Michael Dempsey, bass Lol Tolhurst, drums/keyboards Simon Gallup, bass Matthieu Hartley, keyboards Phil Thornalley, bass Andy Anderson, drums Porl Thompson, saxophone/guitar/keyboards Boris Williams, drums Roger O'Donnell, keyboards Perry Bamonte, guitar/keyboards Jason Cooper, drums Reeves Gabrels, guitar"
+summary: "The Cure are an English rock band formed in 1978 in Crawley, West Sussex. Throughout numerous lineup changes since the band's formation, guitarist, lead vocalist, and songwriter Robert Smith has remained the only constant member. The band's debut album, Three Imaginary Boys , along with several early singles, placed the band in the post-punk and new wave movements that had sprung up in the United Kingdom. Beginning with their second album, Seventeen Seconds , the band adopted a new, increasingly dark and tormented style, which, together with Smith's stage look, had a strong influence on the emerging genre of gothic rock as well as the subculture that eventually formed around the genre.
+After the release of the band's fourth album, Pornography , Smith introduced a greater pop sensibility into the band's music, and they subsequently garnered worldwide mainstream success. Their singles compilation Standing on a Beach sold four million copies worldwide by 1989, and they reached their commercial peak with the albums Disintegration and Wish . The Cure have released 13 studio albums, two EPs, over 30 singles, and have sold over 30 million albums worldwide. Their most recent album, 4:13 Dream, was released in 2008.
+The Cure were inducted into the Rock and Roll Hall of Fame in 2019."
 image: "the-cure.jpg"
 apple_music_artist_url: "None"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Cure"
 ---

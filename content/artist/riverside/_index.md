@@ -1,7 +1,7 @@
 ---
 title: "Riverside"
-summary: "Polish progressive metal rock band from Warsaw founded in 2001 by friends and , who were joined later by and . Melnicki left the band shortly before the release of their debut, and was replaced by . Grudziński died in 2016, leading the band to continue as a trio in studio but joined by guitarist for live performances. Meller later became an official member in 2020."
+summary: "Riverside are a Polish progressive rock band from Warsaw. They were founded in 2001 by friends Mariusz Duda, Piotr Grudziński, Piotr Kozieradzki and Jacek Melnicki, who shared a love for progressive rock and heavy metal, although Duda, the main lyricist and composer of the band, was originally a fan of electronic, ambient, experimental music, like Radiohead, Massive Attack, Dead Can Dance, Tangerine Dream, Peter Gabriel, and later on, prog rock like Pink Floyd, Rush, Marillion, as well as thrash metal. Riverside can be described as a blend of atmospheric rock and metal elements, resulting in a sound similar to that of Porcupine Tree, Pain of Salvation, and Dream Theater."
 image: "riverside.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/riverside/60726978"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Riverside_(band)"
 ---
