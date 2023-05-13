@@ -37,9 +37,14 @@ styles: []
 <!-- section break -->
 
 Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. In 1986, the album won Cliff the Grammy Award for Best Reggae Recording.The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cliff-hanger/185867129" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cliff-hanger/185867129" >}}<br>
+
+
 ## Videos
 ### Reggae Street
 {{< youtube id="rDqRo2ecJ0o" title="Reggae Street" >}}<br>
@@ -65,8 +70,6 @@ Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cliff_Hanger_(album) |
-| Wikipedia Summary | Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. In 1986, the album won Cliff the Grammy Award for Best Reggae Recording.The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson. |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 26528 |

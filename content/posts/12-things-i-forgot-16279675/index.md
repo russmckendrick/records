@@ -29,7 +29,10 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Steven Wilson - 12 THINGS I FORGOT (Official Audio)
 {{< youtube id="7wZrYAgf8d8" title="Steven Wilson - 12 THINGS I FORGOT (Official Audio)" >}}<br>
@@ -44,7 +47,6 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM Single Limited Edition |
 | Label          | Caroline International |
 | Catalog Number | CAROL021S2LP |

@@ -52,9 +52,14 @@ styles: ["Arena Rock", "Classic Rock"]
 <!-- section break -->
 
 40 Trips Around the Sun is a greatest hits album by American rock band Toto, released on February 9, 2018. The album was released in commemoration of the 40th anniversary of Toto's self-titled debut album (1978).40 Trips Around the Sun contains 14 tracks from 1978 to 1993, and three previously unreleased recordings ("Spanish Sea", "Alone" and "Struck by Lightning"). "Spanish Sea" was recorded during the sessions for Isolation (1984), and was re-written with a new chorus. Steve Lukather said of the song: "Thanks to modern tech we were able to play once again with not only our 20 something selves but with our dear brothers Jeff and Mike Porcaro reminding us just how deep their groove was. Bittersweet... Many stories, laughs and a few tears on this one". "Alone" is a newly written song by Toto members David Paich, Steve Lukather, Steve Porcaro and Joseph Williams, while "Struck by Lightning" was previously unreleased.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-40-trips-around-the-sun/1310067089" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-40-trips-around-the-sun/1310067089" >}}<br>
+
+
 ## Videos
 ### Toto - I'll Supply the Love
 {{< youtube id="3CA6X0Zx3lg" title="Toto - I'll Supply the Love" >}}<br>
@@ -77,8 +82,6 @@ styles: ["Arena Rock", "Classic Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/40_Trips_Around_the_Sun |
-| Wikipedia Summary | 40 Trips Around the Sun is a greatest hits album by American rock band Toto, released on February 9, 2018. The album was released in commemoration of the 40th anniversary of Toto's self-titled debut album (1978).40 Trips Around the Sun contains 14 tracks from 1978 to 1993, and three previously unreleased recordings ("Spanish Sea", "Alone" and "Struck by Lightning"). "Spanish Sea" was recorded during the sessions for Isolation (1984), and was re-written with a new chorus. Steve Lukather said of the song: "Thanks to modern tech we were able to play once again with not only our 20 something selves but with our dear brothers Jeff and Mike Porcaro reminding us just how deep their groove was. Bittersweet... Many stories, laughs and a few tears on this one". "Alone" is a newly written song by Toto members David Paich, Steve Lukather, Steve Porcaro and Joseph Williams, while "Struck by Lightning" was previously unreleased. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Columbia |
 | Catalog Number | 19075808661 |

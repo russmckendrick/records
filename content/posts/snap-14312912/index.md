@@ -59,9 +59,14 @@ styles: ["Mod"]
 <!-- section break -->
 
 Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year after the group disbanded. The double-album includes all sixteen of the band's UK singles, plus some B-sides, album tracks and rarities. Stephen Thomas Erlewine of AllMusic called it "one of the greatest greatest-hits albums of all time". A shorter version, removing the 8 non-singles, was released as a single CD in 1985 as Compact Snap!.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/snap/1452863068" >}}
+{{< applemusic url="https://music.apple.com/gb/album/snap/1452863068" >}}<br>
+
+
 ## Videos
 ### The Jam - All Around The World
 {{< youtube id="GPktB0NHwDY" title="The Jam - All Around The World" >}}<br>
@@ -108,8 +113,6 @@ Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Snap!_(album) |
-| Wikipedia Summary | Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year after the group disbanded. The double-album includes all sixteen of the band's UK singles, plus some B-sides, album tracks and rarities. Stephen Thomas Erlewine of AllMusic called it "one of the greatest greatest-hits albums of all time". A shorter version, removing the 8 non-singles, was released as a single CD in 1985 as Compact Snap!. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation, Vinyl 7" EP, All Media Compilation Reissue |
 | Label          | Polydor |
 | Catalog Number | SNAP 1 |

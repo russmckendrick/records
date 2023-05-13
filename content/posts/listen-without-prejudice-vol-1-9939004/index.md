@@ -45,7 +45,12 @@ styles: ["Downtempo", "Synth-pop", "Vocal"]
 Listen Without Prejudice Vol. 1 is the second solo studio album by the English singer-songwriter George Michael, released on 3 September 1990 by Columbia Records (Epic Records in the UK). The album was Michael's final album of all-new material on Columbia until 2004's Patience. Listen Without Prejudice was a stark departure from Michael's previous album, 1987's Faith, with largely acoustic instrumentation and a sombre intensity in many of the lyrics and melodies. While the album topped the UK Albums Chart, disappointing sales in the United States led to Michael's legal battles against Sony Music, in which he accused the corporation of not fully supporting him as an artist.Listen Without Prejudice was reissued across a number of formats on 20 October 2017 and again topped the UK Albums Chart, 27 years after it first reached number one on the chart.
 
 
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### LISTEN WITHOUT PREJUDICE VOL.1 George Michael Vinyl HQ Sound Full Album
 {{< youtube id="2zNCDvlII6E" title="LISTEN WITHOUT PREJUDICE VOL.1 George Michael Vinyl HQ Sound Full Album" >}}<br>
@@ -67,8 +72,6 @@ Listen Without Prejudice Vol. 1 is the second solo studio album by the English s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Listen_Without_Prejudice_Vol._1 |
-| Wikipedia Summary | Listen Without Prejudice Vol. 1 is the second solo studio album by the English singer-songwriter George Michael, released on 3 September 1990 by Columbia Records (Epic Records in the UK). The album was Michael's final album of all-new material on Columbia until 2004's Patience. Listen Without Prejudice was a stark departure from Michael's previous album, 1987's Faith, with largely acoustic instrumentation and a sombre intensity in many of the lyrics and melodies. While the album topped the UK Albums Chart, disappointing sales in the United States led to Michael's legal battles against Sony Music, in which he accused the corporation of not fully supporting him as an artist.Listen Without Prejudice was reissued across a number of formats on 20 October 2017 and again topped the UK Albums Chart, 27 years after it first reached number one on the chart.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Epic |
 | Catalog Number | 88875145271 |

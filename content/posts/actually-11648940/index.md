@@ -40,9 +40,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. According to Neil Tennant and music historian Wayne Studer, Actually loosely critiques Thatcherism, the political zeitgeist of the 1980s, and was recorded in anticipation of Margaret Thatcher's re-election.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/actually-2018-remaster/1645128416" >}}
+{{< applemusic url="https://music.apple.com/gb/album/actually-2018-remaster/1645128416" >}}<br>
+
+
 ## Videos
 ### Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]
 {{< youtube id="dRHetRTOD1Q" title="Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]" >}}<br>
@@ -62,8 +67,6 @@ Actually (stylised as Pet Shop Boys, actually.) is the second studio album by En
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Actually |
-| Wikipedia Summary | Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. According to Neil Tennant and music historian Wayne Studer, Actually loosely critiques Thatcherism, the political zeitgeist of the 1980s, and was recorded in anticipation of Margaret Thatcher's re-election. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 0190295832612 |

@@ -40,9 +40,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1144277578" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1144277578" >}}<br>
+
+
 ## Videos
 ### Inspiral Carpets - Caravan
 {{< youtube id="lxGkMeS-5eI" title="Inspiral Carpets - Caravan" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
 | Label          | Mute |
 | Catalog Number | Ldung14 |

@@ -48,9 +48,15 @@ styles: ["Progressive Metal", "Sludge Metal"]
 <!-- section break -->
 
 With their customary cross-breeding of rock genres, the Georgians reflect on mortality and serious illness via the story of a condemned man wandering the desert. So far, so prog. Indeed, “Jaguar God” spends eight minutes running the gamut from folk-rock and psychedelic abandon to iron-plated riffs and acrobatic fretwork. This deeply emotional record isn’t a wholesale return to the intricate epics of 2009’s <i>Crack the Skye</i>, though: the punchy hard rock of “Show Yourself” and the melodic sludge of “Steambreather” deliver instant, fun-sized thrills.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/emperor-of-sand/1195230194" >}}
+{{< applemusic url="https://music.apple.com/gb/album/emperor-of-sand/1195230194" >}}<br>
+
+
 ## Videos
 ### Mastodon - Steambreather [Official Music Video]
 {{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather [Official Music Video]" >}}<br>
@@ -67,8 +73,6 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Emperor_of_Sand |
-| Wikipedia Summary | Emperor of Sand is the seventh studio album by American heavy metal band Mastodon. It was released on March 31, 2017 through record label Reprise Records. The album's first single, "Show Yourself", peaked at number 4 on the US Billboard Mainstream Rock Songs chart in 2017. The second single, "Steambreather", peaked at number 18 on the same chart. It was ranked on several year-end lists, including at number three on The Independent's "Top 20 Rock & Metal Albums of 2017".<br><br> |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (180 g) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49140-5 |

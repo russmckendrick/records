@@ -52,9 +52,14 @@ styles: ["Ambient", "Dub", "Ambient House"]
 <!-- section break -->
 
 <i>The Orb's Adventures Beyond the Ultraworld</i> is less an album than a magical place—like Narnia or Wonderland, but easier to get to (and get lost in). House grooves and hip-hop breaks provide the gently funky underpinning for undulating waves of sound: hazy synths, dub bass, field recordings and brain-teasing snippets of movie dialogue. The Steve Reich-sampling "Little Fluffy Clouds" is a rave-defining anthem, and the epic closer will have you dreaming in colours you never knew existed.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-orbs-adventures-beyond-the-ultraworld/1452851519" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-orbs-adventures-beyond-the-ultraworld/1452851519" >}}<br>
+
+
 ## Videos
 ### Little Fluffy Clouds
 {{< youtube id="KNfjpmvbQG0" title="Little Fluffy Clouds" >}}<br>
@@ -76,8 +81,6 @@ styles: ["Ambient", "Dub", "Ambient House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | <i>The Orb's Adventures Beyond the Ultraworld</i> is less an album than a magical place—like Narnia or Wonderland, but easier to get to (and get lost in). House grooves and hip-hop breaks provide the gently funky underpinning for undulating waves of sound: hazy synths, dub bass, field recordings and brain-teasing snippets of movie dialogue. The Steve Reich-sampling "Little Fluffy Clouds" is a rave-defining anthem, and the epic closer will have you dreaming in colours you never knew existed. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Label          | Island Records |
 | Catalog Number | 0602557753264 |

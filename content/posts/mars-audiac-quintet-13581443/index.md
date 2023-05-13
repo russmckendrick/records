@@ -66,9 +66,15 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 <!-- section break -->
 
 If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the gleaming optimism of the space age, <i>Mars Audiac Quintet</i> fell in love. The feel got lighter, the sound clearer, the French thicker, the structures more oriented towards pop songs than open-ended grooves (“Ping Pong”, “L’Enfer Des Formes”). Even the politics seemed more direct: “Look at the symbols, they are alive/They move, evolve, and then they die,” Laetitia Sadier sings on “Wow and Flutter”. That she’s paraphrasing the endless clash of Marxist dialectics doesn’t matter as much as how unbothered she sounds while doing it; all that’s missing is her cocktail. Then there’s stuff like “The Stars Our Destination”, which balances kitsch with earnestness and high-minded ideas with an almost naive optimism—a blend the band turned into their signature.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mars-audiac-quintet/1231421047" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mars-audiac-quintet/1231421047" >}}<br>
+
+
 ## Videos
 ### Des Etoiles Electroniques
 {{< youtube id="ZikC5SMHkPQ" title="Des Etoiles Electroniques" >}}<br>
@@ -90,8 +96,6 @@ If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the glea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mars_Audiac_Quintet |
-| Wikipedia Summary | Mars Audiac Quintet is the third studio album by English-French rock band Stereolab. It was released on 2 August 1994 and was issued by Duophonic Records and Elektra Records. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D05R |

@@ -49,9 +49,14 @@ Fear of the Dark is the ninth studio album released by English heavy metal band 
 It was also the first album to be produced by bassist and band founder Steve Harris, and the last album to feature the work of producer Martin Birch, who retired after its release.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fear-of-the-dark/979946632" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fear-of-the-dark/979946632" >}}<br>
+
+
 ## Videos
 ### CD / Iron Maiden - Fear Of The Dark / 1992
 {{< youtube id="VuKoiD423q8" title="CD / Iron Maiden - Fear Of The Dark / 1992" >}}<br>
@@ -64,8 +69,6 @@ It was also the first album to be produced by bassist and band founder Steve Har
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fear_of_the_Dark_(Iron_Maiden_album) |
-| Wikipedia Summary | Fear of the Dark is the ninth studio album released by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.<br>It was also the first album to be produced by bassist and band founder Steve Harris, and the last album to feature the work of producer Martin Birch, who retired after its release.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295852344 |

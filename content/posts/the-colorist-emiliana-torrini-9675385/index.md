@@ -55,9 +55,12 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-colorist-emiliana-torrini/1152099751" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-colorist-emiliana-torrini/1152099751" >}}<br>
+
+
 ## Videos
 ### The Colorist & Emiliana Torrini - Speed Of Dark
 {{< youtube id="-8R2-s5pMI0" title="The Colorist & Emiliana Torrini - Speed Of Dark" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Die-Cut Sleeve), CD Album, All Media Deluxe Edition |
 | Label          | Rough Trade |
 | Catalog Number | 883870081610 |

@@ -41,7 +41,10 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ripper's Sole (O.S.T.)
 {{< youtube id="8ric_N_AGD8" title="Ripper's Sole (O.S.T.)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Limited Edition (Aqua Blue Vinyl) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM 0679 |

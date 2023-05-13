@@ -55,7 +55,10 @@ styles: ["Bluegrass"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Cotillions
 {{< youtube id="lHKIJoDB0zQ" title="Cotillions" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Bluegrass"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Stereo (Smoke Translucent Marble, Gatefold) |
 | Label          | Martha's Music |
 | Catalog Number | MM001WPC |

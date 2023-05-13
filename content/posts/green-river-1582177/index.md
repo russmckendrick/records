@@ -38,9 +38,15 @@ styles: ["Southern Rock", "Classic Rock"]
 <!-- section break -->
 
 CCR were at the height of their powers in 1969, <i>Green River</i> being the second of three LPs the band would release that year. Having found their sound on <i>Bayou Country</i>, Fogerty and crew fully step into their own with this release, which features the timeless singles "Bad Moon Rising", "Lodi" and of course the title track. <i>Willy and the Poor Boys</i> would soon follow, keeping up the band's ferocious pace, but if you had to pick just one CCR album, this should be it.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/green-river/1440952818" >}}
+{{< applemusic url="https://music.apple.com/gb/album/green-river/1440952818" >}}<br>
+
+
 ## Videos
 ### Green River
 {{< youtube id="w0VI1zByJ3s" title="Green River" >}}<br>
@@ -63,8 +69,6 @@ CCR were at the height of their powers in 1969, <i>Green River</i> being the sec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_River_(album) |
-| Wikipedia Summary | Green River is the third studio album by American rock and roll band Creedence Clearwater Revival, released in August 1969. It was the second of three albums they released in that year, preceded by Bayou Country in January and followed by Willy and the Poor Boys in November.<br><br> |
-    | Release Year   | 1984                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Fantasy |
 | Catalog Number | FASLP 5004 |

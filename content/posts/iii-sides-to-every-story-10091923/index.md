@@ -52,9 +52,14 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 III Sides to Every Story is the third studio album by the American rock band Extreme, released on September 14, 1992, through A&M Records. It was the follow-up to the very successful Pornograffitti album. It was the last album that fully featured the band's original line-up: Gary Cherone, Nuno Bettencourt, Pat Badger and Paul Geary; Geary later left, and was replaced by Mike Mangini.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/iii-sides-to-every-story/1440724126" >}}
+{{< applemusic url="https://music.apple.com/gb/album/iii-sides-to-every-story/1440724126" >}}<br>
+
+
 ## Videos
 ### Extreme - Rest In Peace
 {{< youtube id="odz3c68JE1c" title="Extreme - Rest In Peace" >}}<br>
@@ -82,8 +87,6 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/III_Sides_to_Every_Story |
-| Wikipedia Summary | III Sides to Every Story is the third studio album by the American rock band Extreme, released on September 14, 1992, through A&M Records. It was the follow-up to the very successful Pornograffitti album. It was the last album that fully featured the band's original line-up: Gary Cherone, Nuno Bettencourt, Pat Badger and Paul Geary; Geary later left, and was replaced by Mike Mangini.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Green, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1387 |

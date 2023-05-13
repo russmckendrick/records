@@ -37,9 +37,12 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/richard-d-james-album/281111401" >}}
+{{< applemusic url="https://music.apple.com/gb/album/richard-d-james-album/281111401" >}}<br>
+
+
 ## Videos
 ### 4
 {{< youtube id="7WAa3tY6cfo" title="4" >}}<br>
@@ -61,7 +64,6 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Warp Records |
 | Catalog Number | WARP LP 43 |

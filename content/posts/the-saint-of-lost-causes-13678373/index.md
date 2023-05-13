@@ -44,9 +44,12 @@ styles: ["Folk", "Country"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-saint-of-lost-causes/1451565483" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-saint-of-lost-causes/1451565483" >}}<br>
+
+
 ## Videos
 ### Justin Townes Earle - The Saint Of Lost Causes [Audio Only]
 {{< youtube id="F9pXYG1ZITk" title="Justin Townes Earle - The Saint Of Lost Causes [Audio Only]" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Folk", "Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | New West Records |
 | Catalog Number | NW5279 |

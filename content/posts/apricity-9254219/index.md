@@ -35,9 +35,12 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/apricity/1442241018" >}}
+{{< applemusic url="https://music.apple.com/gb/album/apricity/1442241018" >}}<br>
+
+
 ## Videos
 ### Syd Arthur - No Peace
 {{< youtube id="lmDnL8byUAw" title="Syd Arthur - No Peace" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Harvest |
 | Catalog Number | 4776485 |

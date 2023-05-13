@@ -36,9 +36,14 @@ styles: ["Modern Classical", "Experimental"]
 I Trawl the Megahertz is an album originally released as a Paddy McAloon solo album in May 2003 on Liberty Records. It was later reissued in February 2019 on Sony Music under the Prefab Sprout name, as originally intended, with new artwork. McAloon was rendered nearly blind for a period in 1999 due to detached retinas; housebound, he found comfort in listening to shortwave radio transmissions like chat shows, phone-in programs and documentaries. He recorded conversations from these programs, fragmented them, and introduced new words and lines from other sources, generating source material for the album.
 The largely instrumental album marks a notable stylistic change from previous Prefab Sprout work, featuring classical passages and orchestration reminiscent of Claude Debussy and Maurice Ravel, McAloon's two favourite composers. Writing much of the music on his computer, McAloon was given help by co-producer Calum Malcolm and composer David McGuinness in translating his original versions into the final recordings, with live orchestration provided by Mr McFall's Chamber. McAloon's radio-sourced material was then integrated with the songs, with spoken word vocals from Yvonne Connors on the title track, TV and radio dialogue samples on "I'm 49" and McAloon's own singing on "Sleeping Rough".
 With themes of old memories and time passing, I Trawl the Megahertz is a highly personal work, dominated by its poignant title track, in which Connors intones "the story of her life", largely created by excerpts of radio conversation, over an orchestral motif. Despite concerns the album would alienate fans, I Trawl the Megahertz was belatedly released to positive critical reception, with many finding the album powerful and poignant. In the year end polls for 2003's albums of the year it featured at number 22 in Uncut Magazine and number 50 in Mojo, who later included the album in their 2005 list of the top 50 'most out there' albums. The magazine would later describe I Trawl the Megahertz as an "unlikely orch-pop masterpiece."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-trawl-the-megahertz/1441428258" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-trawl-the-megahertz/1441428258" >}}<br>
+
+
 ## Videos
 ### I Trawl The Megahertz (Complete)
 {{< youtube id="1bSPNboKCzM" title="I Trawl The Megahertz (Complete)" >}}<br>
@@ -56,8 +61,6 @@ With themes of old memories and time passing, I Trawl the Megahertz is a highly 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Trawl_the_Megahertz |
-| Wikipedia Summary | I Trawl the Megahertz is an album originally released as a Paddy McAloon solo album in May 2003 on Liberty Records. It was later reissued in February 2019 on Sony Music under the Prefab Sprout name, as originally intended, with new artwork. McAloon was rendered nearly blind for a period in 1999 due to detached retinas; housebound, he found comfort in listening to shortwave radio transmissions like chat shows, phone-in programs and documentaries. He recorded conversations from these programs, fragmented them, and introduced new words and lines from other sources, generating source material for the album.<br>The largely instrumental album marks a notable stylistic change from previous Prefab Sprout work, featuring classical passages and orchestration reminiscent of Claude Debussy and Maurice Ravel, McAloon's two favourite composers. Writing much of the music on his computer, McAloon was given help by co-producer Calum Malcolm and composer David McGuinness in translating his original versions into the final recordings, with live orchestration provided by Mr McFall's Chamber. McAloon's radio-sourced material was then integrated with the songs, with spoken word vocals from Yvonne Connors on the title track, TV and radio dialogue samples on "I'm 49" and McAloon's own singing on "Sleeping Rough".<br>With themes of old memories and time passing, I Trawl the Megahertz is a highly personal work, dominated by its poignant title track, in which Connors intones "the story of her life", largely created by excerpts of radio conversation, over an orchestral motif. Despite concerns the album would alienate fans, I Trawl the Megahertz was belatedly released to positive critical reception, with many finding the album powerful and poignant. In the year end polls for 2003's albums of the year it featured at number 22 in Uncut Magazine and number 50 in Mojo, who later included the album in their 2005 list of the top 50 'most out there' albums. The magazine would later describe I Trawl the Megahertz as an "unlikely orch-pop masterpiece." |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Single Sided Etched (White, 180g), Vinyl LP (White, 180g), All Media Album Limited Edition Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88985411061 |

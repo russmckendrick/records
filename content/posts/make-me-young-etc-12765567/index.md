@@ -31,9 +31,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/make-me-young-etc/1575655883" >}}
+{{< applemusic url="https://music.apple.com/gb/album/make-me-young-etc/1575655883" >}}<br>
+
+
 ## Videos
 ### Make Me Young Etc
 {{< youtube id="yABAVfQMC-E" title="Make Me Young Etc" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Rockosmos |
 | Catalog Number | n.a. |

@@ -71,9 +71,15 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 “I grew up Catholic, and that was enough to turn me off from religion forever. And I realised as I grew older that you can run away from your religion, but you can't really run away from your faith. And so I carried a lot of the language with me, which I use and write with quite often—'Promised Land' or 'House of a Thousand Guitars' and 'The Power of Prayer' on this record. Those little three-minute records and the 180-second character studies that came through pop music were like these little meditations and little prayers for me. And that's what I turned them into. And my faith came in and filled those songs, and gave them a spiritual dimension. It's an essential part of your life.”<br />
 <b>I’ll See You in My Dreams</b>
 “I remember a lot of my dreams and I always have. But that song was basically about those that pass away don't ever really leave us. They visit me in my dreams several times a year. Clarence will come up a couple times in a year. Or I'll see Danny. They just show up in very absurd, sometimes in abstract ways in the middle of strange stories. But they're there, and it's actually a lovely thing to revisit with them in that way. The pain slips away, the love remains, and they live in that love and walk alongside you and your ancestors and your life companions as a part of your spirit. So the song is basically about that: 'Hey. I'm not going to see you at the next session, but I'll see you in my dreams.'”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/letter-to-you/1529959055" >}}
+{{< applemusic url="https://music.apple.com/gb/album/letter-to-you/1529959055" >}}<br>
+
+
 ## Videos
 ### Bruce Springsteen - One Minute You're Here (Official Audio)
 {{< youtube id="s-RT3nxr3T4" title="Bruce Springsteen - One Minute You're Here (Official Audio)" >}}<br>
@@ -98,8 +104,6 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Letter_to_You |
-| Wikipedia Summary | Letter to You is the twentieth studio album by Bruce Springsteen. Released in October 2020, it was Springsteen's first new studio album with the E Street Band to be released since 2014's High Hopes. Letter to You was met with widespread critical acclaim; critics responded favorably to the album's treatment of issues of aging and death. The album was a commercial success, topping several international sales charts and was Springsteen's 21st top-10 album in the United States. Since touring was not possible due to the COVID-19 pandemic, the album was promoted with an online radio station, music videos, and a custom Twitter emoji. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP (Gray), Vinyl LP Single Sided Etched (Gray), All Media Album Limited Edition Stereo |
 | Label          | Columbia |
 | Catalog Number | 194398116211 |

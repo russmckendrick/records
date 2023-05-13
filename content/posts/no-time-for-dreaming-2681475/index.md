@@ -43,9 +43,14 @@ styles: ["Soul", "Rhythm & Blues"]
 <!-- section break -->
 
 No Time for Dreaming is the debut studio album by American soul singer Charles Bradley. It was released on January 25, 2011, by Daptone Records and Dunham Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-time-for-dreaming-feat-menahan-street-band/1485045964" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-time-for-dreaming-feat-menahan-street-band/1485045964" >}}<br>
+
+
 ## Videos
 ### OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band
 {{< youtube id="MTy7ugrSFz4" title="OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band" >}}<br>
@@ -76,8 +81,6 @@ No Time for Dreaming is the debut studio album by American soul singer Charles B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Time_for_Dreaming |
-| Wikipedia Summary | No Time for Dreaming is the debut studio album by American soul singer Charles Bradley. It was released on January 25, 2011, by Daptone Records and Dunham Records. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1001 |

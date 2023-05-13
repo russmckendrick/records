@@ -39,9 +39,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lovegod-deluxe-remastered/1444082369" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lovegod-deluxe-remastered/1444082369" >}}<br>
+
+
 ## Videos
 ### Backwards Dog (Remastered)
 {{< youtube id="-4wDQoLFF9U" title="Backwards Dog (Remastered)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Big Life |
 | Catalog Number | SOUP LP2R |

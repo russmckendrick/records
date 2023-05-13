@@ -40,9 +40,15 @@ styles: ["Hard Rock", "Prog Rock"]
 
 Hemispheres is the sixth studio album by Canadian rock band Rush, released in October 1978 by Anthem Records. After touring to support the band's previous release, A Farewell to Kings, during which the group gained popularity in the UK, Rush started work on their next album. As with the band's previous studio album, Hemispheres was recorded at Rockfield Studios in Monmouthshire and Trident Studios in London with longtime engineer and arranger, Terry Brown. Rush continued its progressive rock sound with the side-long "Cygnus X-1 Book II: Hemispheres" and the nine-minute instrumental "La Villa Strangiato", which was the band's first instrumental piece.
 Hemispheres received acclaim from music critics. It reached number 14 in Canada and the UK, and number 41 in the United States. The album's two shorter tracks, "Circumstances" and "The Trees" were released as singles in early 1979. In 1993, the album was certified platinum by the Recording Industry Association of America (RIAA) for selling one million copies. Rush supported Hemispheres with a concert tour from October 1978 to June 1979. The album was re-released in various expanded formats on November 16, 2018 as part of the band's ongoing 40th Anniversary editions, including the previously unreleased live set by the band at the Pinkpop Festival from June 1979.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hemispheres-remastered/1440764218" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hemispheres-remastered/1440764218" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +58,6 @@ Hemispheres received acclaim from music critics. It reached number 14 in Canada 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hemispheres_(Rush_album) |
-| Apple Music Summary | While the pop success of 1980's <i>Permanent Waves</i> made Rush a fixture on the hard rock scene, 1978's <i>Hemispheres</i> did much to establish its credentials among the prog-rock crowd. Featuring just four songs of great conceptual thrust and virtuoso musicianship, <i>Hemispheres</i> is not an album to be taken casually or lightly. It demands serious concentration. The eighteen-minute opening track, "Cygnus X-1 Book 2 Hemispheres," cut into five concrete sections (six, if Apollo and Dionysus are taken separately), delves heavily into the tug of war between reason and emotion, and musically tugs at various dissonant factors, as Geddy Lee's familiar shriek must overcome the torrent of guitar riffs and chords from Alex Lifeson and the never-let-up percussion of drummer Neil Peart. "Circumstances" and "The Trees" are closer to conventional rockers, yet with much more serious philosophical concerns than your average hard rock. "La Villa Strangiato" is a multi-parted instrumental overture that never shies from attempting an extra flourish in the effort to out-duel whatever its perceived instrumental competition might be. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547118066 |

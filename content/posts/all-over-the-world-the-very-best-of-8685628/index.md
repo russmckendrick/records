@@ -54,9 +54,12 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549" >}}<br>
+
+
 ## Videos
 ### Electric Light Orchestra - Showdown (Official Audio)
 {{< youtube id="JHsUGJ4jDsw" title="Electric Light Orchestra - Showdown (Official Audio)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Stereo (180g) |
 | Label          | Epic |
 | Catalog Number | 88985312351 |

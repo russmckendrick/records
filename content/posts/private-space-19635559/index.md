@@ -42,9 +42,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/private-space/1563802620" >}}
+{{< applemusic url="https://music.apple.com/gb/album/private-space/1563802620" >}}<br>
+
+
 ## Videos
 ### Durand Jones & The Indications - Witchoo (Official Video)
 {{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Red Nebula) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC227LP-C1 |

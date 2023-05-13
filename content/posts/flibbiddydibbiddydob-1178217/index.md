@@ -37,7 +37,10 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Snuff-Flibbiddydibbiddydob(full album)
 {{< youtube id="Mx_z6vLGOrg" title="Snuff-Flibbiddydibbiddydob(full album)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl 12" 45 RPM Mini-Album |
 | Label          | Workers Playtime |
 | Catalog Number | Play 11T |

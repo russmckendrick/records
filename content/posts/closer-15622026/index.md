@@ -50,9 +50,15 @@ Like Hook and Sumner, Curtis was seemingly unimpressed with what he heard when <
 Curtis took his own life shortly after the album was completed, and these songs of disillusionment and despair have inevitably been seen as windows into his anguish. “You would say, taken in isolation, ‘Oh my god, this guy’s <i>crying</i> for help,’” says Hook. “It's a very melancholy end [to the album]. Looking back now, you could say, ‘Look at “The Eternal”. Look at “Decades”. This is a great band, a great man, disappearing.’ But these lyrics are hidden in such beautiful music for the most part—<i>positive</i>, <i>angry</i>, <i>strong</i> music—that you just listen to this LP and go, ‘Oh my god, this is a great record. Fantastic.’ He hid it well–which pretty much sums up his attitude to everything.” While making <i>Closer</i>, Curtis’ marriage was becoming increasingly strained, and his epilepsy was so severe he was afraid to hold his baby daughter. As a consequence, he was being prescribed a debilitating regime of medication. “The most telling thing was when they did the documentary <i>Joy Division</i> [2007], they took Ian's prescription to a modern-day epilepsy expert and asked him what he thought,” says Hook. “The guy said it was guaranteed to kill him.”<br />
 <i>Closer</i> deserves to be regarded as more than a final statement, though. It’s a towering testament to the artistry of Curtis and Joy Division. Watching Curtis contend with his illness left the band with “an awful, awful feeling, the helplessness”, says Hook, but the singer’s drive often masked the depths of his suffering. Hook recalls finding him bloodied in the studio toilet one night after suffering a seizure and hitting his head. As Hook helped him clean up, Curtis insisted on getting straight back to recording. “He fought it tooth and nail, every moment,” says the bassist. “Ian was so ambitious, and he was so positive about Joy Division. Every gig that he had a fit and was carried off, in the dressing room afterwards, he wouldn’t want to go to hospital or go to bed. He wanted to go out and party. We were like, ‘Oh well, so do we.’ In an odd way, as a youngster, as a group member that looked like they were on their heady way to stardom, him turning round and letting you off the hook was what you wanted most.”<br />
 Curtis died on 18 May 1980, aged 23. It would be a while before his bandmates could bring themselves to listen to <i>Closer</i>, having resolved to carry on as New Order. “All we were interested in was being together, and making sure New Order, in any way we could do, survived, flourished,” says Hook. “And we managed to do that by ignoring Joy Division completely. When you’re [that age], every minute, you keep thinking someone’s going to take everything off you, like a child, because you are no more than a child. It was important for us to carry on, to throw ourselves into what we were doing and push that painful memory away.” Hook says it was two or three years until he listened to <i>Closer</i>: “I found that I didn't have the connection with it that I had with <i>Unknown Pleasures</i>. I was able to listen to <i>Closer</i> and actually enjoy it—it became one of my favourite records. That’s how divorced I felt from the reality of what it was: I could listen to it and think it was somebody else.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/closer-collectors-edition/266610001" >}}
+{{< applemusic url="https://music.apple.com/gb/album/closer-collectors-edition/266610001" >}}<br>
+
+
 ## Videos
 ### Atrocity Exhibition (2007 Remaster)
 {{< youtube id="KZoIeaT85-A" title="Atrocity Exhibition (2007 Remaster)" >}}<br>
@@ -74,8 +80,6 @@ Curtis died on 18 May 1980, aged 23. It would be a while before his bandmates co
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Closer_(Joy_Division_album) |
-| Wikipedia Summary | Closer is the second and final studio album by English rock band Joy Division, released on 18 July 1980 by Factory Records. Produced by Martin Hannett, it was released two months after the suicide of the band's lead singer and lyricist Ian Curtis. The album reached No. 6 on the UK Albums Chart and peaked at No. 3 in New Zealand in September 1981. Closer was also named NME Album of the Year. It was remastered and re-released in 2007.Today, Closer is widely recognised as a seminal release of the post-punk era. Following the release of the non-album single "Love Will Tear Us Apart" in June 1980, the remaining members re-formed as New Order. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress Stereo (Clear [Crystal Clear], 180 Gram) |
 | Label          | Factory |
 | Catalog Number | FACT∙XXV |

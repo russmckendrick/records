@@ -44,9 +44,14 @@ Octave is the ninth album by The Moody Blues, released in 1978, and their first 
 Octave was considered a departure from previous Moody Blues albums, mainly because of the group's use of lounge-style organs and synthesizers in place of a Mellotron or Chamberlin (Pinder's song "One Step Into the Light" references the Mellotron). Real strings were used on three songs: "Under Moonshine" and "I'm Your Man" (both written by Ray Thomas), as well as "Survival" (written by John Lodge).
 Released after a considerable break, which saw The Moody Blues returning in an era of punk music and disco, Octave produced a reduced commercial outcome for the band, but reached No. 6 in the United Kingdom and went platinum in the United States, where the album reached No. 13. The album produced the hit single "Steppin' in a Slide Zone", which hit No. 39 in the US, in addition to "Driftwood".
 In November 2008, the album was remastered and released on CD, with five previously unreleased, live, bonus tracks.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/octave-expanded/1450958696" >}}
+{{< applemusic url="https://music.apple.com/gb/album/octave-expanded/1450958696" >}}<br>
+
+
 ## Videos
 ### THE MOODY BLUES Octave 10 The day we meet again
 {{< youtube id="WBedAweB96Y" title="THE MOODY BLUES Octave 10 The day we meet again" >}}<br>
@@ -72,8 +77,6 @@ In November 2008, the album was remastered and released on CD, with five previou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Octave_(album) |
-| Wikipedia Summary | Octave is the ninth album by The Moody Blues, released in 1978, and their first release after a substantial hiatus following the success of the best-selling Seventh Sojourn in 1972. The album proved to be the last for the group with keyboardist Mike Pinder, who left during the album's sessions and declined an offer to tour with the group. He had just started a new family in California, and found that he was not getting along with his bandmates as he previously had. Pinder would be replaced by former Yes keyboardist Patrick Moraz in time for their 1978-1979 tour, beginning a new era in the band's history. Octave would also be the final studio album from the band produced by Tony Clarke.The album's title is a musical pun: it references both the notion of an octave; and as a word derived from the Latin octavus it refers to this being the eighth album by this line-up of the Moody Blues (following on from the previous album title Seventh Sojourn). The cover art was designed by artist John Kosh, famous for his work with The Beatles, The Rolling Stones, The Who, among others.<br>Octave was considered a departure from previous Moody Blues albums, mainly because of the group's use of lounge-style organs and synthesizers in place of a Mellotron or Chamberlin (Pinder's song "One Step Into the Light" references the Mellotron). Real strings were used on three songs: "Under Moonshine" and "I'm Your Man" (both written by Ray Thomas), as well as "Survival" (written by John Lodge).<br>Released after a considerable break, which saw The Moody Blues returning in an era of punk music and disco, Octave produced a reduced commercial outcome for the band, but reached No. 6 in the United Kingdom and went platinum in the United States, where the album reached No. 13. The album produced the hit single "Steppin' in a Slide Zone", which hit No. 39 in the US, in addition to "Driftwood".<br>In November 2008, the album was remastered and released on CD, with five previously unreleased, live, bonus tracks. |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Decca |
 | Catalog Number | TXS 129 |

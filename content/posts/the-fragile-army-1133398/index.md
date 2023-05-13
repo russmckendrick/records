@@ -35,9 +35,12 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-fragile-army/279307568" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-fragile-army/279307568" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2007                                   |
 | Format         | Vinyl 2× LP (Gatefold) |
 | Label          | Gut Records |
 | Catalog Number | INSREC05V |

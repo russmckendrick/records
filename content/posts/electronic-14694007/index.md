@@ -38,9 +38,14 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 
 Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
 The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gang-signs-prayer/1673768631" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gang-signs-prayer/1673768631" >}}<br>
+
+
 ## Videos
 ### Electronic - Getting Away With It (1990 Official Music Video) [HD Upgrade]
 {{< youtube id="DSfjtdnUsls" title="Electronic - Getting Away With It (1990 Official Music Video) [HD Upgrade]" >}}<br>
@@ -53,8 +58,6 @@ The album was a commercial and critical success, reaching number 2 in the United
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
-| Wikipedia Summary | Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.<br>The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (White) |
 | Label          | Parlophone |
 | Catalog Number | Fact 290 |

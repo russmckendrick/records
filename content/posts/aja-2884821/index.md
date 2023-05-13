@@ -41,9 +41,15 @@ styles: ["Pop Rock", "Fusion"]
 Aja (, pronounced like Asia) is the sixth studio album by the American jazz rock band Steely Dan. It was released on September 23, 1977, by ABC Records. Recording alongside nearly 40 musicians, band leaders Donald Fagen and Walter Becker pushed Steely Dan further into experimenting with different combinations of session players while pursuing longer, more sophisticated compositions and arrangements for the album.
 The album peaked at number three on the US charts and number five in the UK, ultimately becoming Steely Dan's most commercially successful LP. It spawned a number of hit singles, including "Peg", "Deacon Blues", and "Josie". 
 In July 1978, Aja won the Grammy Award for Best Engineered Recording – Non-Classical and received Grammy nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It has since appeared frequently on professional rankings of the greatest albums, with critics and audiophiles applauding the album's high production standards. In 2010, the Library of Congress selected the album for preservation in the National Recording Registry for being "culturally, historically, or artistically significant."
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aja-remastered/1440938356" >}}
+{{< applemusic url="https://music.apple.com/gb/album/aja-remastered/1440938356" >}}<br>
+
+
 ## Videos
 ### Black Cow
 {{< youtube id="XRj0Ohg-y1A" title="Black Cow" >}}<br>
@@ -63,8 +69,6 @@ In July 1978, Aja won the Grammy Award for Best Engineered Recording – Non-Cla
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aja_(album) |
-| Apple Music Summary | A work of immaculate craft and insinuating wit, 1977's <i>Aja</i> is perhaps the most fully-realized album in Steely Dan's catalog. Leaders Donald Fagan and Walter Becker enlisted an all-star crew of jazz/rock players - drummer Steve Gadd and saxophonist Wayne Shorter among them - to lend this album an urbane finesse and dark-tinged sparkle. Steely Dan pays tribute to old-school jazz in "Deacon Blues" and brings a sophisticated R&B groove to "Peg" and "Home At Last."  "Black Cow" has a sardonic sting, while "Josie" radiates warmth with a minimum of irony. The arrangements are gorgeously expansive -- the title tune is a jazz mini-suite. Fagan's vocals (embellished with high-gloss harmonies) are bitingly dry with a twist of venom. Behind the album's cool exterior is a burning passion for fine musicianship.  Undeniably excellent, this album's hipster Žlan has made it an enduring favorite among rock and jazz aficionados alike. |
-    | Release Year   | 2008                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | ABC Records |
 | Catalog Number | 0076732168813 |

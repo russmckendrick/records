@@ -35,9 +35,12 @@ styles: ["Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bright-sparks/1087348675" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bright-sparks/1087348675" >}}<br>
+
+
 ## Videos
 ### I Monster - The Fantastic Tale of Dr. Moog and the Birth of the Shimmering Beast
 {{< youtube id="ARVEE_aIgBQ" title="I Monster - The Fantastic Tale of Dr. Moog and the Birth of the Shimmering Beast" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (Gatefold Sleeve) |
 | Label          | Twins Of Evil |
 | Catalog Number | BIGTOELP2 |

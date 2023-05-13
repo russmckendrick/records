@@ -42,9 +42,14 @@ styles: ["Country"]
 <!-- section break -->
 
 Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020 under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ghosts-of-west-virginia/1499101368" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ghosts-of-west-virginia/1499101368" >}}<br>
+
+
 ## Videos
 ### Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]
 {{< youtube id="d5tOkJK8DUk" title="Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]" >}}<br>
@@ -60,8 +65,6 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ghosts_of_West_Virginia |
-| Wikipedia Summary | Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020 under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Mono (Blue & Gold West Virginia) |
 | Label          | New West Records |
 | Catalog Number | NW5397 |

@@ -59,9 +59,15 @@ MS: “That song is pretty overtly political songs, referencing the times that w
 MS: “I feel like in terms of direct poppy pop songs, [1988’s] ‘Stand’ is much more direct in its messaging. But ‘Shiny Happy People’ is in the same arena—like a fruity pop song for kids. The band had presented me with this really dumb piece of music, and I was like, ‘I’m going to one-up you on this. You're giving me that to write to, check this out.’ And we never looked back.”<br />
 <b>Country Feedback</b>
 MS: “I remember it came out all at once. I sang it—I believe I sang it one time, I might’ve sung it twice—and then I stormed out. It was such an emotional experience. I mean, it would be a love song at the very end of a long love affair that has just collapsed into nothing—just gone, there's nothing left. At that point I was trying to challenge myself, trying to push myself to write love songs. 'Country Feedback' was really one of the darkest things I think I'd ever sung.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/out-of-time-2016-remaster/1440945025" >}}
+{{< applemusic url="https://music.apple.com/gb/album/out-of-time-2016-remaster/1440945025" >}}<br>
+
+
 
 
 ## Release Images
@@ -71,8 +77,6 @@ MS: “I remember it came out all at once. I sang it—I believe I sang it one t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Time_(album) |
-| Wikipedia Summary | Out of Time is the seventh studio album by American alternative rock band R.E.M., released on March 12, 1991, by Warner Bros. Records. With Out of Time, R.E.M.'s status grew from that of a cult band to a massive international act. The record topped the album sales charts in both the United States and the United Kingdom, spending 109 weeks on U.S. album charts and enjoying two separate spells at the summit, and spending 183 weeks on the British charts and a single week at the top. The album has sold more than four and a half million copies in the United States and more than 18 million copies worldwide. The album won three Grammy Awards in 1992: one as Best Alternative Music Album, and two for the first single, "Losing My Religion."<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g, 25th Anniversary Edition) |
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072004405 |

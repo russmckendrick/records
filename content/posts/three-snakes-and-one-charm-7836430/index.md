@@ -46,9 +46,14 @@ styles: ["Southern Rock"]
 <!-- section break -->
 
 Three Snakes and One Charm is the fourth studio album by American rock band The Black Crowes. It was released on July 23, 1996.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/three-snakes-and-one-charm/1444127640" >}}
+{{< applemusic url="https://music.apple.com/gb/album/three-snakes-and-one-charm/1444127640" >}}<br>
+
+
 ## Videos
 ### The Black Crowes - Blackberry
 {{< youtube id="y9r_uE9YOSM" title="The Black Crowes - Blackberry" >}}<br>
@@ -74,8 +79,6 @@ Three Snakes and One Charm is the fourth studio album by American rock band The 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Three_Snakes_and_One_Charm |
-| Wikipedia Summary | Three Snakes and One Charm is the fourth studio album by American rock band The Black Crowes. It was released on July 23, 1996. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | American Recordings |
 | Catalog Number | 00602537494262 |

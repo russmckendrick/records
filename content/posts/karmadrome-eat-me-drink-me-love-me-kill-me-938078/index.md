@@ -28,7 +28,10 @@ styles: ["Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Eat Me, Drink Me, Love Me, Kill Me
 {{< youtube id="myZgDBe95L4" title="Eat Me, Drink Me, Love Me, Kill Me" >}}<br>
@@ -45,7 +48,6 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
 | Format         | Vinyl 7" 45 RPM Single |
 | Label          | RCA |
 | Catalog Number | PB45467 |

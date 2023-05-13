@@ -43,9 +43,14 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 On was the second album from English rock band Echobelly. Gaining a favourable response from critics, the album reached number 4 in the UK Albums Chart becoming their most commercially successful album. The album spawned three top 40 singles two of which managed to reach the top 20. On 21 July 2014, a 2CD expanded edition of the album was released with B-sides and previously unreleased live performances.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-echobelly/282215710" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-echobelly/282215710" >}}<br>
+
+
 ## Videos
 ### Echobelly - King Of The Kerb (Video)
 {{< youtube id="epqZrkxZ3_o" title="Echobelly - King Of The Kerb (Video)" >}}<br>
@@ -67,8 +72,6 @@ On was the second album from English rock band Echobelly. Gaining a favourable r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/On_(Echobelly_album) |
-| Wikipedia Summary | On was the second album from English rock band Echobelly. Gaining a favourable response from critics, the album reached number 4 in the UK Albums Chart becoming their most commercially successful album. The album spawned three top 40 singles two of which managed to reach the top 20. On 21 July 2014, a 2CD expanded edition of the album was released with B-sides and previously unreleased live performances. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Orange) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2250 |

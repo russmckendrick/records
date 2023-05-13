@@ -42,9 +42,14 @@ styles: ["Downtempo", "Folk Rock"]
 Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and bassist Paul Webb (under the pseudonym Rustin Man, formerly of Talk Talk). It was released on 28 October 2002 in the United Kingdom and on 7 October 2003 in the United States. Out of Season is largely a folk album with jazz leanings, with Gibbons and Webb drawing more directly on the influences of Nina Simone, Billie Holiday, and Nick Drake, at which Portishead's work in trip hop only hinted. Out of Season also features contributions from Gibbons' fellow Portishead bandmate Adrian Utley and Webb's former bandmate Lee Harris. The first track of the album, "Mysteries", appears on the original soundtrack of the French movie Les Poupées Russes (The Russian Dolls), and in Wim Wenders' Palermo Shooting from 2008. The album achieved a silver certification from the BPI.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/out-of-season/1443794694" >}}
+{{< applemusic url="https://music.apple.com/gb/album/out-of-season/1443794694" >}}<br>
+
+
 ## Videos
 ### Beth Gibbons & Rustin Man-Mysteries
 {{< youtube id="Epyt0IQ_uEA" title="Beth Gibbons & Rustin Man-Mysteries" >}}<br>
@@ -71,8 +76,6 @@ Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Season_(Beth_Gibbons_and_Rustin_Man_album) |
-| Wikipedia Summary | Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and bassist Paul Webb (under the pseudonym Rustin Man, formerly of Talk Talk). It was released on 28 October 2002 in the United Kingdom and on 7 October 2003 in the United States. Out of Season is largely a folk album with jazz leanings, with Gibbons and Webb drawing more directly on the influences of Nina Simone, Billie Holiday, and Nick Drake, at which Portishead's work in trip hop only hinted. Out of Season also features contributions from Gibbons' fellow Portishead bandmate Adrian Utley and Webb's former bandmate Lee Harris. The first track of the album, "Mysteries", appears on the original soundtrack of the French movie Les Poupées Russes (The Russian Dolls), and in Wim Wenders' Palermo Shooting from 2008. The album achieved a silver certification from the BPI.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Go! Beat |
 | Catalog Number | 0602567891543 |

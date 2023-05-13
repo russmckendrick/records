@@ -76,9 +76,14 @@ The drum machine acted as the drum player; Morrison did not contribute to the al
 The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were released in promotion. "This Corrosion" peaked at number 7 on the UK Singles Chart, while "Dominion" and "Lucretia My Reflection" peaked at number 13 and 20, respectively. Floodland debuted on the UK Albums Chart at number 9, later being certified gold in UK by the BPI for selling 100,000 copies. It also reached the top 40 in other European countries, including Switzerland. Despite initially receiving mixed reviews from music critics, Floodland has retrospectively received praise and been considered a seminal gothic rock album by several critics.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/floodland/1027459890" >}}
+{{< applemusic url="https://music.apple.com/gb/album/floodland/1027459890" >}}<br>
+
+
 ## Videos
 ### Flood I (New Version for Digital)
 {{< youtube id="Pekj1Y4raSM" title="Flood I (New Version for Digital)" >}}<br>
@@ -102,8 +107,6 @@ The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Floodland_(album) |
-| Wikipedia Summary | Floodland is the second studio album by English gothic rock band the Sisters of Mercy. It was released on 16 November 1987, through Merciful Release internationally and distributed by WEA, with Elektra Records handling the United States release. After the release of the band's debut studio album, First and Last and Always (1985), members Craig Adams and Wayne Hussey left to form the Mission, causing the dissolution of the Sisters of Mercy. As a result, band frontman Andrew Eldritch formed a side project known as the Sisterhood, recording new material with them. After the project's first album was received negatively overall, he went back to recording as part of the Sisters of Mercy and hired the Sisterhood member Patricia Morrison for the recording of a new album.<br>Eldritch wrote the songs of Floodland in Hamburg; the city's large amount of water influenced its title as well as the recurring lyrical theme of water. He then called upon Larry Alexander to produce the album with him and Jim Steinman to produce the songs "Dominion" / "Mother Russia" and "This Corrosion". Recording sessions began at Power Station Studios in New York City during January 1987 and carried on throughout the first half of the year at Strawberry Studios in Stockport and The Wool Hall in Bath. Eldritch served as the vocalist, performed all instruments, and programmed the band's drum machine, "Doktor Avalanche".<br>The drum machine acted as the drum player; Morrison did not contribute to the album despite being a member of the Sisters of Mercy. In contrast to First and Last and Always, Floodland was created in a less conventional way, being pieced together on computers using sequencers. The music incorporates the genres of gothic rock and dark wave, while the lyrical content sees Eldritch cast as the observer of a slowly deteriorating world. Some of the events that inspired certain songs include the Chernobyl disaster, the Cold War, and the band's previous breakup.<br>The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were released in promotion. "This Corrosion" peaked at number 7 on the UK Singles Chart, while "Dominion" and "Lucretia My Reflection" peaked at number 13 and 20, respectively. Floodland debuted on the UK Albums Chart at number 9, later being certified gold in UK by the BPI for selling 100,000 copies. It also reached the top 40 in other European countries, including Switzerland. Despite initially receiving mixed reviews from music critics, Floodland has retrospectively received praise and been considered a seminal gothic rock album by several critics.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl 3× 12" 45 RPM EP Reissue, Box Set |
 | Label          | Warner Music Group |
 | Catalog Number | 0825646077038 |

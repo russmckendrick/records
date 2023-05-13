@@ -54,9 +54,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116" >}}<br>
+
+
 ## Videos
 ### VUUR - In This Moment We Are Free - Cities (Album Teaser)
 {{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities (Album Teaser)" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 491 |

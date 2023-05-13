@@ -66,9 +66,12 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/script-for-a-jesters-tear/693400357" >}}
+{{< applemusic url="https://music.apple.com/gb/album/script-for-a-jesters-tear/693400357" >}}<br>
+
+
 
 
 ## Release Images
@@ -77,7 +80,6 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Box Set Limited Edition, Vinyl 4× LP Album EP Limited Edition |
 | Label          | Parlophone Records Ltd. |
 | Catalog Number | 0190295316686 |

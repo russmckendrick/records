@@ -53,9 +53,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (Blue Translucent) |
 | Label          | Craft Recordings |
 | Catalog Number | 00888072095274 |

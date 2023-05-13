@@ -39,9 +39,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mosaic/1507505607" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mosaic/1507505607" >}}<br>
+
+
 ## Videos
 ### Mosaic
 {{< youtube id="cZSZcsb1hWI" title="Mosaic" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | GlassVille Records |
 | Catalog Number | GVR192755 |

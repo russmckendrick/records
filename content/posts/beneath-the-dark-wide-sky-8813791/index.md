@@ -55,9 +55,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beneath-the-dark-wide-sky/1648321577" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beneath-the-dark-wide-sky/1648321577" >}}<br>
+
+
 ## Videos
 ### All Good Things
 {{< youtube id="fjo9bj0A-Qc" title="All Good Things" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Silver Marbled), CD Album |
 | Label          | Mutiny Records (2) |
 | Catalog Number | OMN16155 |

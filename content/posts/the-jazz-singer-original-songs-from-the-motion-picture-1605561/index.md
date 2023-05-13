@@ -46,9 +46,12 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546" >}}<br>
+
+
 ## Videos
 ### America (From The Jazz Singer Soundtrack)
 {{< youtube id="SvseQ90FMHk" title="America (From The Jazz Singer Soundtrack)" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | EA-ST 12120 |

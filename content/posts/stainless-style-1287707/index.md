@@ -43,9 +43,14 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 <!-- section break -->
 
 Stainless Style is the debut album from Neon Neon—a project from Super Furry Animals front man Gruff Rhys and electronic artist Boom Bip—which was released in March 2008 via Lex Records. The album was streamed in its entirety on the band's Myspace page for one week before its physical release.Stainless Style is a loose concept album based on the tumultuous life of DeLorean Motor Company founder John DeLorean, and features a number of high-profile guest appearances from Fab Moretti of The Strokes, Har Mar Superstar, Yo Majesty, Spank Rock, Cate Le Bon and Fatlip. The album was nominated for the 2008 Mercury Music Prize.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stainless-style/1601513716" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stainless-style/1601513716" >}}<br>
+
+
 ## Videos
 ### Neon Neon - Luxury Pool Feat. Fatlip
 {{< youtube id="6tlv6gJH4E4" title="Neon Neon - Luxury Pool Feat. Fatlip" >}}<br>
@@ -69,8 +74,6 @@ Stainless Style is the debut album from Neon Neon—a project from Super Furry A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stainless_Style |
-| Wikipedia Summary | Stainless Style is the debut album from Neon Neon—a project from Super Furry Animals front man Gruff Rhys and electronic artist Boom Bip—which was released in March 2008 via Lex Records. The album was streamed in its entirety on the band's Myspace page for one week before its physical release.Stainless Style is a loose concept album based on the tumultuous life of DeLorean Motor Company founder John DeLorean, and features a number of high-profile guest appearances from Fab Moretti of The Strokes, Har Mar Superstar, Yo Majesty, Spank Rock, Cate Le Bon and Fatlip. The album was nominated for the 2008 Mercury Music Prize. |
-| Release Year   | 2008                                   |
 | Format         | Vinyl LP Album |
 | Label          | Lex Records |
 | Catalog Number | LEX067LP |

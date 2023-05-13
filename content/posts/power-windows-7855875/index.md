@@ -38,9 +38,15 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 Throughout the ‘80s, like many veteran rockers, Rush had to come to terms with an ever-changing landscape that meant dealing with the video age and the emergence of new recording technologies. Since Rush was among the more progressive bands of the ‘70s, it was only natural that the band would find a comfortable fit for the new synthesizers and electronic effects sweeping onto modern rock albums. While there are no twenty-minute epics, Neil Peart did pen thematically ambitious songs that deal with everything from nuclear war ("Manhattan Project") and monetary greed ("The Big Money") to suburban alienation ("Middletown Dreams"). The musical interplay between band members is accentuated with the layers of synthesizers that percolate and align with drummer Peart's physically punishing attack. "Grand Designs," "Marathon" and "Mystic Rhythms" don't just channel the band's illustrious instrumental abilities but press them into the service of some of the group's most underrated songs, and singer Geddy Lee is no longer left to wail like a banshee into the abyss but is supported with a wide array of vocal effects and harmonies.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/power-windows-remastered/1440759088" >}}
+{{< applemusic url="https://music.apple.com/gb/album/power-windows-remastered/1440759088" >}}<br>
+
+
 ## Videos
 ### Rush - Marathon (1985 UK Vinyl)
 {{< youtube id="hPenBk-Wlmc" title="Rush - Marathon (1985 UK Vinyl)" >}}<br>
@@ -53,8 +59,6 @@ Throughout the ‘80s, like many veteran rockers, Rush had to come to terms with
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Power_Windows_(album) |
-| Wikipedia Summary | Power Windows is the eleventh studio album by Canadian rock band Rush, released on October 11, 1985 by Anthem Records. After touring in support of their previous album, Grace Under Pressure (1984), the band took a break and reconvened in early 1985 to begin work on a follow-up. The material continued to display the band's exploration of synthesizer-oriented music, this time with the addition of sampling, electronic drums, a string section, and choir, with power being a running lyrical theme. Power Windows was recorded in Montserrat and England with Peter Collins as co-producer and Andy Richards on additional keyboards.<br>The album reached No. 2 in Canada, No. 9 in the United Kingdom, and No. 10 in the United States. In January 1986, the album reached platinum certification by the Recording Industry Association of America (RIAA) for one million copies sold in the United States. Rush released two singles from the album, "The Big Money" and "Mystic Rhythms". The band supported the album with their 1985–1986 tour. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118288 |

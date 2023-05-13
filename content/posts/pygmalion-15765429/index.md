@@ -42,9 +42,14 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pygmalion/400647147" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pygmalion/400647147" >}}<br>
+
+
 ## Videos
 ### Rutti
 {{< youtube id="X3UmjDqF0lc" title="Rutti" >}}<br>
@@ -68,8 +73,6 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pygmalion_(album) |
-| Wikipedia Summary | Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Numbered Reissue Repress (Clear & Green Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP604 |

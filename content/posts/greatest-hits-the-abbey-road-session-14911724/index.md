@@ -43,7 +43,10 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)
 {{< youtube id="h7-XdZj3a_A" title="Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album |
 | Label          | Marshall Records (10) |
 | Catalog Number | R920.011 |

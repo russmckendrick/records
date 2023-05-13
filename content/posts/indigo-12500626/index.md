@@ -37,9 +37,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/indigo/1414681591" >}}
+{{< applemusic url="https://music.apple.com/gb/album/indigo/1414681591" >}}<br>
+
+
 ## Videos
 ### Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]
 {{< youtube id="EaQwTZmJywg" title="Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]" >}}<br>
@@ -71,7 +74,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Blue Note |
 | Catalog Number | B002872101 |

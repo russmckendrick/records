@@ -38,9 +38,14 @@ styles: ["Prog Rock"]
 A Collection of Great Dance Songs is a compilation album by English rock band Pink Floyd. It was released on 23 November 1981 in the United Kingdom by Harvest Records and in the United States by Columbia Records.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-collection-of-great-dance-songs/734647165" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-collection-of-great-dance-songs/734647165" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - A Collection Of Great Dance Songs (Full Album)
 {{< youtube id="U12sgIY8Hvg" title="Pink Floyd - A Collection Of Great Dance Songs (Full Album)" >}}<br>
@@ -53,8 +58,6 @@ A Collection of Great Dance Songs is a compilation album by English rock band Pi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Collection_of_Great_Dance_Songs |
-| Wikipedia Summary | A Collection of Great Dance Songs is a compilation album by English rock band Pink Floyd. It was released on 23 November 1981 in the United Kingdom by Harvest Records and in the United States by Columbia Records.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation Reissue Remastered (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP19 |

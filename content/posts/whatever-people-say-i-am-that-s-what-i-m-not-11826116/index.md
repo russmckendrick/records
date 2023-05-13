@@ -51,9 +51,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to the internet. There’s nothing <i>quite</i> so radical about their debut, which fuses a punk snarl with the sharp tunes and agitated rhythms of New Wave, but it’s delivered with such invigorating panache that every note sounds fresh. The clincher is Alex Turner, who can carve knowing vignettes from any situation—whether he’s idly fantasising in a checkout queue (“I Bet You Look Good on the Dancefloor”) or, on “Mardy Bum”, lamenting a girlfriend’s volatile mood (“I see your frown and it’s like looking down the barrel of a gun.”)
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whatever-people-say-i-am-thats-what-im-not/111153953" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whatever-people-say-i-am-thats-what-im-not/111153953" >}}<br>
+
+
 ## Videos
 ### Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)
 {{< youtube id="pK7egZaT3hs" title="Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)" >}}<br>
@@ -78,8 +83,6 @@ Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to the internet. There’s nothing <i>quite</i> so radical about their debut, which fuses a punk snarl with the sharp tunes and agitated rhythms of New Wave, but it’s delivered with such invigorating panache that every note sounds fresh. The clincher is Alex Turner, who can carve knowing vignettes from any situation—whether he’s idly fantasising in a checkout queue (“I Bet You Look Good on the Dancefloor”) or, on “Mardy Bum”, lamenting a girlfriend’s volatile mood (“I see your frown and it’s like looking down the barrel of a gun.”) |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Club Edition Reissue (Gray Translucent w/ Black Smoke, 180 g) |
 | Label          | Domino |
 | Catalog Number | WIGLP162VMP |

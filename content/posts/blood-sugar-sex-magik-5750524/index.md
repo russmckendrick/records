@@ -53,9 +53,15 @@ The joy of 1991’s <i>Blood Sugar Sex Magik</i> is hearing a band break through
 You can still hear their foundations in punk and rap (“The Power of Equality”), but you can also hear the romance of the Beat poets (“Breaking the Girl”) and the kind of Californian classic-rock ideals—free love, the expansion of consciousness, earnest poetry—that make the band feel as much like stewards of the ’60s as products of the ’80s (“Sir Psycho Sexy”).<br />
 It’s that balance—between the crude and the contemplative, the direct and the obscure, the jock jam and the art song—that makes <i>Blood Sugar Sex Magik</i> not just one of the definitive albums of the 1990s, but one that helped push alternative rock into the mainstream. Compared to Nirvana (whose <i>Nevermind</i> came out <i>the same day</i>), they were as Hollywood as Guns N’ Roses; compared to Guns N’ Roses, they represented a vision of hard rock that paved the way for not just rap metal, but a universe of heavy, guitar-based music that felt mainstream in reach but still underground in nature.<br />
 “Lowbrow but I rock a little know-how,” Kiedis sings on “Give It Away”. It’s a good line. But it’s also a mission statement: With <i>Blood Sugar Sex Magik</i>, the Red Hot Chili Peppers made weightlifting music you can think with.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blood-sugar-sex-magik/945581828" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blood-sugar-sex-magik/945581828" >}}<br>
+
+
 
 
 ## Release Images
@@ -65,8 +71,6 @@ It’s that balance—between the crude and the contemplative, the direct and th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik |
-| Wikipedia Summary | Blood Sugar Sex Magik is the fifth studio album by American rock band Red Hot Chili Peppers, released September 24, 1991, by Warner Bros. Records. Produced by Rick Rubin, its musical style differed notably from the band's previous album Mother's Milk (1989), reducing the use of heavy metal guitar riffs and accentuating the melodic songwriting contributions of guitarist John Frusciante. The album's subject matter incorporates sexual innuendos and references to drugs and death, as well as themes of lust and exuberance.<br>Blood Sugar Sex Magik peaked at number three on the US Billboard 200, and produced hit singles "Under the Bridge," "Give It Away," "Suck My Kiss," "Breaking the Girl" and "If You Have to Ask." The album propelled the band into worldwide popularity and critical acclaim. Frusciante quit the band during its 1992 tour, uncomfortable with fame; he rejoined in 1998.<br>Blood Sugar Sex Magik is widely recognized as an influential and seminal release of the alternative rock explosion of the 1990s, with Steve Huey of AllMusic calling it "probably the best album the Chili Peppers will ever make." |
-    | Release Year   | 0                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Warner Bros. Records |
 | Catalog Number | 7599-26681-1 |

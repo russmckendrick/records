@@ -39,9 +39,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Faithful is Todd Rundgren's seventh album, released in 1976.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/faithful/1084189642" >}}
+{{< applemusic url="https://music.apple.com/gb/album/faithful/1084189642" >}}<br>
+
+
 ## Videos
 ### T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎
 {{< youtube id="_d3JyvmT0Xg" title="T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎" >}}<br>
@@ -54,8 +59,6 @@ Faithful is Todd Rundgren's seventh album, released in 1976.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Faithful_(Todd_Rundgren_album) |
-| Wikipedia Summary | Faithful is Todd Rundgren's seventh album, released in 1976. |
-| Release Year   | 1976                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K55510 |

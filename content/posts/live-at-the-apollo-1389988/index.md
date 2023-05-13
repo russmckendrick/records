@@ -43,9 +43,15 @@ styles: ["Pop Rock", "Soul"]
 
 Live at the Apollo is an album by Daryl Hall & John Oates released in September 1985, recorded live at the Apollo Theater in New York. It is subtitled "With David Ruffin & Eddie Kendricks", of The Temptations-fame.  The album is a mixture of their classics and some then-current songs by Hall & Oates.  A VHS video of this concert with a different running order was released in 1987.
 On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appeared together at Live Aid, two months before this album was released.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-the-apollo/262058880" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-apollo/262058880" >}}<br>
+
+
 ## Videos
 ### A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks
 {{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks" >}}<br>
@@ -58,8 +64,6 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_the_Apollo_(Hall_%26_Oates_album) |
-| Apple Music Summary | Daryl Hall and John Oates are in peak form on this electric 1985 headlining set at the Apollo Theater, showing off their effortlessly tight-knit yet limber take on soul pop. With former Temptations Eddie Kendricks and David Ruffin in tow, the duo flash their bona fides on a rollicking introductory medley of Motown hits, before bringing it down to a simmer on a slow-burning take of “When Something Is Wrong With My Baby." |
-    | Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | RCA |
 | Catalog Number | PL87035 |

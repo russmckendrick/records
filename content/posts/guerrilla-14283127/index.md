@@ -52,9 +52,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/guerrilla/270284548" >}}
+{{< applemusic url="https://music.apple.com/gb/album/guerrilla/270284548" >}}<br>
+
+
 ## Videos
 ### Super Furry Animals - Do or Die (HD Official Video)
 {{< youtube id="YYzB2c3C5LM" title="Super Furry Animals - Do or Die (HD Official Video)" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered (20th Anniversary Edition) |
 | Label          | BMG |
 | Catalog Number | BMGCAT392DLP |

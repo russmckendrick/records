@@ -37,9 +37,14 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 Rage in Eden is the fifth album by the British new wave band Ultravox. It was released in 1981 on Chrysalis. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-definitive-edition/1633071500" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-definitive-edition/1633071500" >}}<br>
+
+
 ## Videos
 ### Ultravox - Rage In Eden - 1981
 {{< youtube id="UaN5JqUSTQw" title="Ultravox - Rage In Eden - 1981" >}}<br>
@@ -58,8 +63,6 @@ Rage in Eden is the fifth album by the British new wave band Ultravox. It was re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rage_in_Eden |
-| Wikipedia Summary | Rage in Eden is the fifth album by the British new wave band Ultravox. It was released in 1981 on Chrysalis. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies. |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CDL 1338 |

@@ -42,13 +42,16 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-"Gypsy" is a song by British-American rock band Fleetwood Mac. The song was written by Stevie Nicks around 1979; the earliest demo recordings were made in early 1980 with Tom Moncrieff for possible inclusion on her debut solo album Bella Donna. However, when Nicks' close friend Robin Anderson died of leukemia, the song took on a new significance and Nicks held it over for Fleetwood Mac. "Gypsy" was the second single release and second biggest hit from the Mirage album, following "Hold Me", reaching a peak of No. 12 on the Billboard Hot 100 for three weeks.
-In 2017, Nicks recorded an acoustic version to serve as the theme song for the Netflix drama series Gypsy.
+"Landslide" is a song written by Stevie Nicks and performed by British-American rock band Fleetwood Mac. The song was first featured on the band's self-titled album Fleetwood Mac (1975). The original recording also appears on the compilation albums 25 Years – The Chain (1992) and The Very Best of Fleetwood Mac (2002), while a live version was released as a single 23 years later from the live reunion album The Dance (1997). "Landslide" reached No. 51 on the US Billboard Hot 100 chart and No. 10 on the Adult Contemporary chart. "Landslide" was certified Gold in October 2009 for sales of over 500,000 copies in the United States. According to Nielsen Soundscan, "Landslide" sold 2,093,186 copies in the United States as of 2017.In 2021, the song was listed at No. 163 on Rolling Stone's "500 Greatest Songs of All Time".
+        
+        
+    
 
 
-    <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155" >}}<br>
+
+
 ## Videos
 ### Fleetwood Mac - Fleetwood Mac (Full Album) [1975]
 {{< youtube id="qs-hn1y7T7c" title="Fleetwood Mac - Fleetwood Mac (Full Album) [1975]" >}}<br>
@@ -60,9 +63,7 @@ In 2017, Nicks recorded an acoustic version to serve as the theme song for the N
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Gypsy_(Fleetwood_Mac_song) |
-| Apple Music Summary | A band at the forefront of the smooth U.S. West Coast sound, Fleetwood Mac contained three gifted songwriters and remarkable vocalists who all wrote enduring anthems. This sprawling compilation cherry-picks the best of their remarkable ’70s and ’80s output, highlighting Christine McVie’s lovelorn lyrics and sweet melodies (“You Make Loving Fun,” “Don’t Stop”), Stevie Nicks’ mystical bent and ethereal vocals (“Rhiannon,” “Sara”), and Lindsey Buckingham’s winning way with pop hooks and experimental production techniques (“Go Your Own Way,” “Tusk”). |
-    | Release Year   | 2019                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Landslide_(Fleetwood_Mac_song) |
 | Format         | Vinyl LP Album Reissue Stereo (White) |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 2281 |

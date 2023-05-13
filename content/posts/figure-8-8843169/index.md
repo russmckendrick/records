@@ -50,9 +50,14 @@ styles: ["Acoustic", "Indie Rock"]
 <!-- section break -->
 
 Figure 8 is the fifth studio album by American singer-songwriter Elliott Smith, and the final studio album released during his lifetime. It was recorded from 1998 to 2000 at numerous studios and released on April 18, 2000, through DreamWorks Records. Preceded by the singles "Happiness" and "Son of Sam", Figure 8 was Smith's second release on a major label.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/figure-8/1440745328" >}}
+{{< applemusic url="https://music.apple.com/gb/album/figure-8/1440745328" >}}<br>
+
+
 ## Videos
 ### Elliott Smith - Son Of Sam
 {{< youtube id="afeAUndotas" title="Elliott Smith - Son Of Sam" >}}<br>
@@ -72,8 +77,6 @@ Figure 8 is the fifth studio album by American singer-songwriter Elliott Smith, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Figure_8_(album) |
-| Wikipedia Summary | Figure 8 is the fifth studio album by American singer-songwriter Elliott Smith, and the final studio album released during his lifetime. It was recorded from 1998 to 2000 at numerous studios and released on April 18, 2000, through DreamWorks Records. Preceded by the singles "Happiness" and "Son of Sam", Figure 8 was Smith's second release on a major label. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Special Edition (Coke Bottle Swirl, 180 Gram) |
 | Label          | Bong Load Records |
 | Catalog Number | BL48 |

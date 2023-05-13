@@ -38,7 +38,10 @@ styles: ["Industrial"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Beavis and Butt-Head - Do 'Ministry - N.W.O.'
 {{< youtube id="WADa5ItkV6o" title="Beavis and Butt-Head - Do 'Ministry - N.W.O.'" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Sire |
 | Catalog Number | 8122-79760-1 |

@@ -44,9 +44,15 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 
 Music from Big Pink is the debut studio album by the Band. Released in 1968, it employs a distinctive blend of country, rock, folk, classical, R&B, blues, and soul. The music was composed partly in "Big Pink", a house shared by bassist/singer Rick Danko, pianist/singer Richard Manuel and organist Garth Hudson in West Saugerties, New York. The album itself was recorded in studios in New York and Los Angeles in 1968, and followed the band's backing of Bob Dylan on his 1966 tour (as the Hawks) and time spent together in upstate New York recording material that was officially released in 1975 as The Basement Tapes, also with Dylan. The cover artwork is a painting by Dylan.
 In 2000 the album was rereleased with additional outtakes from the recording sessions, and in 2018 a "50th Anniversary Super Deluxe" edition was released with a new stereo mix by Bob Clearmountain.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-from-big-pink-remastered/1440814725" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-from-big-pink-remastered/1440814725" >}}<br>
+
+
 ## Videos
 ### Tears Of Rage (Remixed 2018)
 {{< youtube id="E9S5Wwa63a0" title="Tears Of Rage (Remixed 2018)" >}}<br>
@@ -70,8 +76,6 @@ In 2000 the album was rereleased with additional outtakes from the recording ses
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_from_Big_Pink |
-| Apple Music Summary | Though it grew out of jam sessions in the basement of the band’s communal house in upstate New York, <i>Music From Big Pink</i> lures us to otherworldly environments. “I Shall Be Released” and “In a Station” emerge from floating, celestial sounds, while “Lonesome Suzie” is a Curtis Mayfield ballad soaked in tranquilized blues. The Band’s dreamy, hymn-like undertones come to light in “The Weight,” in which the triangulated harmonies of Richard Manuel, Rick Danko, and Levon Helm forge a new form of rustic gospel goodness. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Remastered Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 0602567480600 |

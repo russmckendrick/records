@@ -61,7 +61,10 @@ styles: ["Country Rock", "Country"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ode To Billie Joe
 {{< youtube id="cJZ_ViDADOE" title="Ode To Billie Joe" >}}<br>
@@ -118,7 +121,6 @@ styles: ["Country Rock", "Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Remastered Stereo |
 | Label          | UMC |
 | Catalog Number | 5395656 |

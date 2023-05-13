@@ -44,9 +44,14 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 Chairs Missing is the second studio album by English rock band Wire. It was released on 8 September 1978 by Harvest Records. The album peaked at number 48 in the UK Albums Chart.Although it features some of the minimalist punk rock of the band's debut Pink Flag, Chairs Missing contains more developed song structure (taking some cues from 1970s prog-rock, psychedelia, and art rock), keyboard and synthesizer elements brought in by producer Mike Thorne, and a broader palette of emotional and intellectual subject matter. The title is said to be a British slang term for a mildly disturbed person, as in "that guy has a few chairs missing in his front room". The single "Outdoor Miner" was a minor hit, peaking at number 51 in the UK Singles Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chairs-missing/1328869087" >}}
+{{< applemusic url="https://music.apple.com/gb/album/chairs-missing/1328869087" >}}<br>
+
+
 ## Videos
 ### Practice Makes Perfect (2006 Remastered Version)
 {{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect (2006 Remastered Version)" >}}<br>
@@ -74,8 +79,6 @@ Chairs Missing is the second studio album by English rock band Wire. It was rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chairs_Missing |
-| Wikipedia Summary | Chairs Missing is the second studio album by English rock band Wire. It was released on 8 September 1978 by Harvest Records. The album peaked at number 48 in the UK Albums Chart.Although it features some of the minimalist punk rock of the band's debut Pink Flag, Chairs Missing contains more developed song structure (taking some cues from 1970s prog-rock, psychedelia, and art rock), keyboard and synthesizer elements brought in by producer Mike Thorne, and a broader palette of emotional and intellectual subject matter. The title is said to be a British slang term for a mildly disturbed person, as in "that guy has a few chairs missing in his front room". The single "Outdoor Miner" was a minor hit, peaking at number 51 in the UK Singles Chart. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF12LP |

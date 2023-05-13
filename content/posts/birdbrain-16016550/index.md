@@ -41,9 +41,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/birdbrain/1027455005" >}}
+{{< applemusic url="https://music.apple.com/gb/album/birdbrain/1027455005" >}}<br>
+
+
 ## Videos
 ### Buffalo Tom - Birdbrain
 {{< youtube id="eEIb5Xrf81g" title="Buffalo Tom - Birdbrain" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Mint Green) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ2179LP |

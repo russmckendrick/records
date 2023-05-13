@@ -47,9 +47,12 @@ styles: ["Alternative Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/elastica/1537947271" >}}
+{{< applemusic url="https://music.apple.com/gb/album/elastica/1537947271" >}}<br>
+
+
 ## Videos
 ### Elastica - Line Up
 {{< youtube id="g7Y7vH2XsAM" title="Elastica - Line Up" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue, Flexi-disc 7" 45 RPM Single Sided, All Media Limited Edition |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP914 |

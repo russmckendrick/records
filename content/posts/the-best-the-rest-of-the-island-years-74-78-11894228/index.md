@@ -51,7 +51,10 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Record Store Day Preview 2018 / Sparks 2LP red vinyl
 {{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Remastered (Red Translucent) |
 | Label          | Island Records |
 | Catalog Number | 6702244 |

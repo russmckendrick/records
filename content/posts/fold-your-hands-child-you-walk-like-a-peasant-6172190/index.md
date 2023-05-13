@@ -35,9 +35,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scottish group Belle & Sebastian released in 2000.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fold-your-hands-child-you-walk-like-a-peasant/1669033817" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fold-your-hands-child-you-walk-like-a-peasant/1669033817" >}}<br>
+
+
 ## Videos
 ### Belle and Sebastian - The Wrong Girl
 {{< youtube id="6d9sHXnT3ks" title="Belle and Sebastian - The Wrong Girl" >}}<br>
@@ -52,8 +57,6 @@ Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scot
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fold_Your_Hands_Child,_You_Walk_Like_a_Peasant |
-| Wikipedia Summary | Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scottish group Belle & Sebastian released in 2000. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Matador |
 | Catalog Number | OLE 429-8 |

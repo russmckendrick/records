@@ -49,7 +49,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -58,7 +61,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Four Color Demons Records |
 | Catalog Number | none |

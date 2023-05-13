@@ -155,7 +155,10 @@ styles: ["Classic Rock", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -164,7 +167,6 @@ styles: ["Classic Rock", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue Remastered (Brown), Vinyl LP Album Reissue Remastered (Red), Vinyl LP Album Reissue Remastered (Blue [Powder Blue]), Vinyl LP Album Reissue Remastered (Yellow [Pale Yellow]), Flexi-disc 7" 33 ⅓ RPM Single Sided Reissue, Vinyl 4× 7" 45 RPM Single, CD 2× Compilation |
 | Label          | Salvo |
 | Catalog Number | SALVOBX412 |

@@ -94,9 +94,15 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 
 <b>“Grift Wood”</b>
 “I love Hollywood rock like Van Halen and Mötley Crüe, and it just feels fitting to have an uplifting track towards the end of the record. Musically, one thing that inspired the more Sunset Strip elements of the song was knowing that it was going to throw you off with a really long curveball that felt like something no Sunset Strip band has ever done. And that enabled the more glossy bits to be even more in line with the traditional elements of an early-’80s Sunset Strip song.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/impera/1603122391" >}}
+{{< applemusic url="https://music.apple.com/gb/album/impera/1603122391" >}}<br>
+
+
 ## Videos
 ### Ghost - Call Me Little Sunshine (Official Music Video)
 {{< youtube id="DD2m_iqD7dI" title="Ghost - Call Me Little Sunshine (Official Music Video)" >}}<br>
@@ -121,8 +127,6 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Impera |
-| Wikipedia Summary | Impera (stylized in all caps) is the fifth studio album by the Swedish rock band Ghost. Released on 11 March 2022, it was produced by Klas Åhlund who also produced the band's 2015 album, Meliora. The release of Impera was preceded by three singles: the first, "Hunter's Moon", was released on 30 September 2021 in support of the 2021 slasher film Halloween Kills with a version being a part of the film's closing credits; the second single, "Call Me Little Sunshine", was released on 20 January 2022 and the third, "Twenties", was released on 2 March 2022.<br>The theme of Impera mainly focuses on "the rise and fall of empires". The album received widespread critical acclaim. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (Magenta [Dark]) |
 | Label          | Loma Vista |
 | Catalog Number | LVR02521 |

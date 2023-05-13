@@ -42,9 +42,15 @@ styles: ["Psychedelic Rock"]
 Odessey and Oracle is the second studio album by English rock band the Zombies. It was originally released in the UK in April 1968 by CBS Records.
 The album was recorded primarily between June and August 1967. The sessions took place at EMI (now Abbey Road Studios) and Olympic Studios in London. The Zombies, having been dropped from Decca Records, financed these sessions independently. After signing with CBS, two singles and later the album itself were released to critical and commercial indifference, and the band quietly dissolved. A third single from the album, "Time of the Season", became a surprise hit in the United States in early 1969 after CBS staff producer Al Kooper recommended it be released on Date Records.
 The album gradually achieved critical praise and a cult following, and has since become one of the most acclaimed albums of the 1960s. It was ranked 100th on Rolling Stone magazine's list of the 500 Greatest Albums of All Time. When Rolling Stone revised their list in 2020, the album ranked 243rd.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/odessey-and-oracle/252723845" >}}
+{{< applemusic url="https://music.apple.com/gb/album/odessey-and-oracle/252723845" >}}<br>
+
+
 ## Videos
 ### The Zombies | The Odessey
 {{< youtube id="vpD-vRO4veU" title="The Zombies | The Odessey" >}}<br>
@@ -72,8 +78,6 @@ The album gradually achieved critical praise and a cult following, and has since
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Odessey_and_Oracle |
-| Apple Music Summary | Although 1968's <i>Odessey and Oracle</i> was released after The Zombies split, its lush and complex sound cemented the group's legacy for generations to come. It's easily among the finest examples of British psychedelic pop, draped in baroque orchestral arrangements, innovative Mellotron, layered harmonies, and Colin Blunstone's soft, breathy vocals. The breezily euphoric "Care of Cell 44," the haunting ballad "A Rose for Emily," and the sensual, jazzy "Time of the Season" exhibit keyboardist Rod Argent and bassist Chris White's uncommon sense of melody, arrangement, and dynamics. |
-    | Release Year   | 0                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Big Beat Records |
 | Catalog Number | WIKD 181 |

@@ -72,7 +72,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage
 {{< youtube id="yhwcVrVUa3U" title="Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage" >}}<br>
@@ -100,7 +103,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album (Yellow, Gatefold. 180g) |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-094 |

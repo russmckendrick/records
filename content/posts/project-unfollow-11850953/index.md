@@ -33,7 +33,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Little Simz - Poison Ivy ft. Tilla (Official Video)
 {{< youtube id="Yfy2UQnWQOw" title="Little Simz - Poison Ivy ft. Tilla (Official Video)" >}}<br>
@@ -49,7 +52,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 10" 45 RPM Club Edition Limited Edition Numbered (Gold) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-033 |

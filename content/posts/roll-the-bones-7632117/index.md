@@ -47,9 +47,14 @@ styles: ["Hard Rock", "Prog Rock"]
 
 Roll the Bones is the fourteenth studio album by Canadian rock band Rush, released September 3, 1991, on Anthem Records. The band began working on Roll the Bones after a brief creative hiatus following the tour promoting their previous release, Presto.
 Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-remastered/642200510" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-remastered/642200510" >}}<br>
+
+
 ## Videos
 ### Rush - Roll the Bones
 {{< youtube id="2Pm6tb7HkRI" title="Rush - Roll the Bones" >}}<br>
@@ -65,8 +70,6 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roll_the_Bones |
-| Wikipedia Summary | Roll the Bones is the fourteenth studio album by Canadian rock band Rush, released September 3, 1991, on Anthem Records. The band began working on Roll the Bones after a brief creative hiatus following the tour promoting their previous release, Presto.<br>Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 83737 |

@@ -44,9 +44,15 @@ styles: []
 <!-- section break -->
 
 Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecutive Fridays in August 2017, he gathered friends, family, artists, even a small orchestra and choir, in Roundhead Studios in Auckland and live-streamed the sessions. The final meeting on August 25 culminated in the complete recording of this album. It’s a return to organic chemistry, capturing the immediate, spontaneous, and whimsical moments that often get deleted in the era of Pro Tools.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/out-of-silence/1440901277" >}}
+{{< applemusic url="https://music.apple.com/gb/album/out-of-silence/1440901277" >}}<br>
+
+
 ## Videos
 ### Neil Finn - Love Is Emotional
 {{< youtube id="umEBtfZnZnA" title="Neil Finn - Love Is Emotional" >}}<br>
@@ -75,8 +81,6 @@ Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecuti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Silence_(Neil_Finn_album) |
-| Wikipedia Summary | Out of Silence, released 1 September 2017, is the fourth solo album by New Zealand singer-songwriter, Neil Finn. The making of the album was livestreamed on Finn's Facebook page. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRNF0016LP |

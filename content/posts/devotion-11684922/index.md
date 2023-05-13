@@ -50,9 +50,14 @@ styles: ["Indie Rock", "Dream Pop"]
 <!-- section break -->
 
 Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in United States according to Nielsen Soundscan.Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devotion/1247691975" >}}
+{{< applemusic url="https://music.apple.com/gb/album/devotion/1247691975" >}}<br>
+
+
 ## Videos
 ### Beach House  All the Years
 {{< youtube id="eWO4CuAKjyw" title="Beach House  All the Years" >}}<br>
@@ -70,8 +75,6 @@ Devotion is the second studio album by American dream pop duo Beach House. It wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Devotion_(Beach_House_album) |
-| Wikipedia Summary | Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in United States according to Nielsen Soundscan.Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld." |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Club Edition Deluxe Edition Reissue Remastered (Clear w/ Gold Splatter [Gold Cloud Burst], 180g, Tip-On Sleeve) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-027 |

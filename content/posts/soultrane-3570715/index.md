@@ -36,9 +36,14 @@ styles: []
 <!-- section break -->
 
 Soultrane is the fourth studio album by jazz musician John Coltrane, released in 1958 on Prestige Records, catalogue 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/soultrane-remastered/1440948339" >}}
+{{< applemusic url="https://music.apple.com/gb/album/soultrane-remastered/1440948339" >}}<br>
+
+
 ## Videos
 ### Russian Lullaby (Rudy Van Gelder Remaster)
 {{< youtube id="8RfThojoh40" title="Russian Lullaby (Rudy Van Gelder Remaster)" >}}<br>
@@ -56,8 +61,6 @@ Soultrane is the fourth studio album by jazz musician John Coltrane, released in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soultrane |
-| Wikipedia Summary | Soultrane is the fourth studio album by jazz musician John Coltrane, released in 1958 on Prestige Records, catalogue 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Jazz Wax Records |
 | Catalog Number | JWR 4536 |

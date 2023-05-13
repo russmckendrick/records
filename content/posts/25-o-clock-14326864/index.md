@@ -33,7 +33,10 @@ styles: ["Garage Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Mole From The Ministry / The Dukes Of Stratosphear
 {{< youtube id="49q5FtQltzg" title="Mole From The Ministry / The Dukes Of Stratosphear" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Garage Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM Mini-Album Reissue Repress Stereo (Gatefold, 200gr) |
 | Label          | Ape House |
 | Catalog Number | APELP023 |

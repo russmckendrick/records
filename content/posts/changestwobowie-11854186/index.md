@@ -40,9 +40,12 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/changestwobowie-2018-remaster/1350497019" >}}
+{{< applemusic url="https://music.apple.com/gb/album/changestwobowie-2018-remaster/1350497019" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Limited Edition Reissue Remastered (Blue Translucent) |
 | Label          | Parlophone |
 | Catalog Number | 0190295740542 |

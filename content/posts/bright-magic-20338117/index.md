@@ -38,9 +38,12 @@ styles: ["Indie Rock", "Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bright-magic/1566582480" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bright-magic/1566582480" >}}<br>
+
+
 ## Videos
 ### Der Sumpf (Sinfonie der Großstadt)
 {{< youtube id="meB6tZRqeWw" title="Der Sumpf (Sinfonie der Großstadt)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Indie Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Orange/Black [Marbled]) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR1230LPX |

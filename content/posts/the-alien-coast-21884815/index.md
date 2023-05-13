@@ -39,9 +39,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/alien-coast/1587179158" >}}
+{{< applemusic url="https://music.apple.com/gb/album/alien-coast/1587179158" >}}<br>
+
+
 ## Videos
 ### St. Paul & The Broken Bones - The Alien Coast Album Listening Party
 {{< youtube id="TUhQkIYB8KA" title="St. Paul & The Broken Bones - The Alien Coast Album Listening Party" >}}<br>
@@ -55,7 +58,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Deluxe Edition Stereo (Ghostly vinyl) |
 | Label          | ATO Records |
 | Catalog Number | ATO0590 |

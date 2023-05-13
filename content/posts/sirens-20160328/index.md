@@ -36,9 +36,12 @@ styles: ["Post Rock", "Stoner Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sirens/1577932525" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sirens/1577932525" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Post Rock", "Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Tonzonen Records |
 | Catalog Number | TON109 |

@@ -50,9 +50,12 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/city-music/1208719994" >}}
+{{< applemusic url="https://music.apple.com/gb/album/city-music/1208719994" >}}<br>
+
+
 ## Videos
 ### Kevin Morby - City Music (Official Video)
 {{< youtube id="7cKM3tfAsEo" title="Kevin Morby - City Music (Official Video)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Club Edition (White & Orange Tie-Dye) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC131 |

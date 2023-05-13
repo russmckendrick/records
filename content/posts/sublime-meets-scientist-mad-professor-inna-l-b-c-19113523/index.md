@@ -33,9 +33,12 @@ styles: ["Dub"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sublime-meets-scientist-mad-professor-inna-l-b-c/1585841109" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sublime-meets-scientist-mad-professor-inna-l-b-c/1585841109" >}}<br>
+
+
 ## Videos
 ### MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub
 {{< youtube id="EsHLjK2cQws" title="MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition (Yellow Opaque) |
 | Label          | Gasoline Alley |
 | Catalog Number | B0029669-01 |

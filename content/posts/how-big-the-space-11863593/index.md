@@ -31,7 +31,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### How Big the Space - Steven Wilson - (RSD 2018)
 {{< youtube id="udJsxISenfA" title="How Big the Space - Steven Wilson - (RSD 2018)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 12" 45 RPM Record Store Day Single Limited Edition (Blue) |
 | Label          | Caroline International |
 | Catalog Number | CAROL016RSD |

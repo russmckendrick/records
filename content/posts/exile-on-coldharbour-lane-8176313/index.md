@@ -44,9 +44,14 @@ styles: ["Techno", "Acid House"]
 Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1554839307" >}}
+{{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1554839307" >}}<br>
+
+
 ## Videos
 ### Converted
 {{< youtube id="Yx1liOUrOuM" title="Converted" >}}<br>
@@ -72,8 +77,6 @@ Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 Novemb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exile_on_Coldharbour_Lane |
-| Wikipedia Summary | Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (180 Gram) |
 | Label          | Elemental Records |
 | Catalog Number | ELM40DMM |

@@ -77,7 +77,10 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Play To Win (Remastered)
 {{< youtube id="m-fY639gW08" title="Play To Win (Remastered)" >}}<br>
@@ -89,7 +92,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Blue), Vinyl LP Album Reissue (Orange), Vinyl LP Album Reissue (Clear) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX31 |

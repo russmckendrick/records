@@ -40,9 +40,12 @@ styles: ["New Wave", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pajama-club/693719180" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pajama-club/693719180" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["New Wave", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRPJCO11LP |

@@ -42,7 +42,10 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Marnie - The Hunter [Stephen Morris Remix]
 {{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter [Stephen Morris Remix]" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Factory Benelux |
 | Catalog Number | FBN 60 |

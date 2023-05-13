@@ -45,9 +45,12 @@ styles: ["Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424" >}}
+{{< applemusic url="https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424" >}}<br>
+
+
 ## Videos
 ### We Caught the Light
 {{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album (Blue Transparent), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 558 |

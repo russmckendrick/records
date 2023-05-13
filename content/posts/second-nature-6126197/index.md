@@ -41,9 +41,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Second Nature is the second studio album by the American supergroup Flying Colors, that was released in Europe on September 29, 2014, in the US on September 30, and in the UK on October 6. On August 19, Loudwire premiered the video for the album's first single "Mask Machine". Soon after, Classic Rock premiered the song for Europe. On September 22, the entire album began streaming on the Prog magazine website.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/second-nature-deluxe-edition/1600467187" >}}
+{{< applemusic url="https://music.apple.com/gb/album/second-nature-deluxe-edition/1600467187" >}}<br>
+
+
 ## Videos
 ### Flying Colors - Open Up Your Eyes
 {{< youtube id="vXj2VF9eLYg" title="Flying Colors - Open Up Your Eyes" >}}<br>
@@ -58,8 +63,6 @@ Second Nature is the second studio album by the American supergroup Flying Color
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Nature_(Flying_Colors_album) |
-| Wikipedia Summary | Second Nature is the second studio album by the American supergroup Flying Colors, that was released in Europe on September 29, 2014, in the US on September 30, and in the UK on October 6. On August 19, Loudwire premiered the video for the album's first single "Mask Machine". Soon after, Classic Rock premiered the song for Europe. On September 22, the entire album began streaming on the Prog magazine website. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR 7443 1 |

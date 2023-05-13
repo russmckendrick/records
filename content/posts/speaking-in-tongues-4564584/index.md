@@ -40,9 +40,14 @@ styles: ["New Wave", "Pop Rock", "Funk"]
 
 Speaking in Tongues is the fifth studio album by American rock band Talking Heads, released on June 1, 1983, by Sire Records. After their split with producer Brian Eno and a short hiatus, which allowed the individual members to pursue side projects, recording began in 1982. It became the band's commercial breakthrough and produced the band's sole US top-ten hit, "Burning Down the House".
 The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense, which generated a live album of the same name. The album also crossed over to the dance charts, where it peaked at number two for six weeks. It is the group's highest-charting album on the US Billboard 200, peaking at number 15. It was also their biggest-selling album in Canada, where it was certified platinum in 1983.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues-bonus-track-version/124923817" >}}
+{{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues-bonus-track-version/124923817" >}}<br>
+
+
 ## Videos
 ### Talking Heads - Burning Down the House (Official Video)
 {{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}<br>
@@ -64,8 +69,6 @@ The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Speaking_in_Tongues_(Talking_Heads_album) |
-| Wikipedia Summary | Speaking in Tongues is the fifth studio album by American rock band Talking Heads, released on June 1, 1983, by Sire Records. After their split with producer Brian Eno and a short hiatus, which allowed the individual members to pursue side projects, recording began in 1982. It became the band's commercial breakthrough and produced the band's sole US top-ten hit, "Burning Down the House".<br>The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense, which generated a live album of the same name. The album also crossed over to the dance charts, where it peaked at number two for six weeks. It is the group's highest-charting album on the US Billboard 200, peaking at number 15. It was also their biggest-selling album in Canada, where it was certified platinum in 1983. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Sire |
 | Catalog Number | 8122796665 |

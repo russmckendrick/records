@@ -55,9 +55,12 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-3/1598920855" >}}
+{{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-3/1598920855" >}}<br>
+
+
 ## Videos
 ### Run The Jewels - Legend Has It | From The RTJ3 Album
 {{< youtube id="QaPrQa3oMy0" title="Run The Jewels - Legend Has It | From The RTJ3 Album" >}}<br>
@@ -87,7 +90,6 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (Gold) |
 | Label          | Run The Jewels, Inc. |
 | Catalog Number | RTJ003LP |

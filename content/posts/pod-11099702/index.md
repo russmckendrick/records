@@ -45,9 +45,14 @@ The Breeders formed in 1988 when Deal, bass player for the Pixies, befriended Do
 Due in part to Deal's work with the Pixies, the album was widely anticipated, particularly in Europe. It became a critical and popular success, reaching number 22 in the UK. Critics praised its dark, sexualized lyrics, and compared it favorably to the Pixies. Nirvana's Kurt Cobain said it was one of his favorite records, and Pitchfork ranked it number 81 on its list of the best albums of the 1990s. The cover art was designed by Vaughan Oliver and portrays a man performing a fertility dance while wearing a belt of eels.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pod/310996771" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pod/310996771" >}}<br>
+
+
 ## Videos
 ### Glorious
 {{< youtube id="OSwgWt0UNgE" title="Glorious" >}}<br>
@@ -72,8 +77,6 @@ Due in part to Deal's work with the Pixies, the album was widely anticipated, pa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pod_(The_Breeders_album) |
-| Wikipedia Summary | Pod is the debut studio album by American alternative rock band the Breeders, released by 4AD records on May 29, 1990. Engineered by Steve Albini, the album features band leader Kim Deal on vocals and guitar, Josephine Wiggs on bass, Britt Walford on drums, and Tanya Donelly on guitar. Albini's production prioritized sound over technical accomplishment; the final takes favor the band's spontaneous live "in studio" performances.<br>The Breeders formed in 1988 when Deal, bass player for the Pixies, befriended Donelly of Throwing Muses during a European tour. They recorded a country-infused demo in 1989, leading to 4AD co-founder Ivo Watts-Russell funding an album, Pod, recorded that year at the Palladium studio in Edinburgh, Scotland.<br>Due in part to Deal's work with the Pixies, the album was widely anticipated, particularly in Europe. It became a critical and popular success, reaching number 22 in the UK. Critics praised its dark, sexualized lyrics, and compared it favorably to the Pixies. Nirvana's Kurt Cobain said it was one of his favorite records, and Pitchfork ranked it number 81 on its list of the best albums of the 1990s. The cover art was designed by Vaughan Oliver and portrays a man performing a fertility dance while wearing a belt of eels.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD 0006 |

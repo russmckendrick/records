@@ -49,7 +49,10 @@ styles: ["Abstract"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -58,7 +61,6 @@ styles: ["Abstract"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Limited Edition (Red With Black Splatter, Gatefold, 180g) |
 | Label          | HevyDevy Records |
 | Catalog Number | HDR 0001007 |

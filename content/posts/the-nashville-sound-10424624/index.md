@@ -44,9 +44,12 @@ styles: ["Country"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-nashville-sound/1216344634" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-nashville-sound/1216344634" >}}<br>
+
+
 ## Videos
 ### Jason Isbell and the 400 Unit - Cumberland Gap
 {{< youtube id="tZaeKwgS7wg" title="Jason Isbell and the 400 Unit - Cumberland Gap" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Gatefold, 180 Gram) |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99881 |

@@ -51,9 +51,12 @@ styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,7 +65,6 @@ styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2003                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo |
 | Label          | ABKCO |
 | Catalog Number | 882 334-1 |

@@ -45,9 +45,15 @@ styles: []
 <!-- section break -->
 
 All Nerve is the fifth full-length studio album by American alternative rock band the Breeders, released on March 2, 2018, 10 years after their previous album Mountain Battles (2008). A Stereogum article in June 2016 reported that the band was recording new material at their Ohio studio and in October 2017 they released the first single from the album titled "Wait in the Car". 4AD announced on January 9, 2018, that the new album would be made available on March 2, 2018, and released the album's second single, All Nerve on the same day. The album also marks the band's first in 25 years with their Last Splash lineup. Courtney Barnett guests on one song on the album; "Howl at the Summit".
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-nerve/1319598646" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-nerve/1319598646" >}}<br>
+
+
 ## Videos
 ### The Breeders - Spacewoman (Official Video)
 {{< youtube id="oVk4xRdD5MA" title="The Breeders - Spacewoman (Official Video)" >}}<br>
@@ -64,8 +70,6 @@ All Nerve is the fifth full-length studio album by American alternative rock ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Nerve |
-| Apple Music Summary | The Breeders’ music is a ball of little contrasts: beautiful but rough, off-hand but confident, spacey but tactile, lived-in—an unfamiliar object knit from yarn. The group's first album with a fully reunited lineup from their breakthrough LP, <i>Last Splash</i>, finds them back on their private path, balancing rave-ups (“Nervous Mary”, “Wait in the Car”) with heavy-lidded ballads (“All Nerve”, “Dawn: Making an Effort”) and blasts of noise with girlish harmonies, gently pushing the familiar garage-band template in new directions. As always, their ace remains an ability to elevate naiveté to mysterious, almost supernatural levels—just listen to “Walking with a Killer”. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange, 180 g) |
 | Label          | 4AD |
 | Catalog Number | 4AD0035LPE |

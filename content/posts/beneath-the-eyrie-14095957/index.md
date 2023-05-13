@@ -47,9 +47,14 @@ styles: ["Indie Rock"]
 Beneath the Eyrie is the seventh studio album by American alternative rock band Pixies, released on September 13, 2019, by BMG/Infectious. Produced by Tom Dalgety, and preceded by the singles "On Graveyard Hill" and "Catfish Kate", the album was recorded in Dreamland Recording Studios, a remote, converted church in upstate New York. The band were influenced by their Gothic surroundings during the writing and recording process, with vocalist and guitarist Black Francis stating: "I wanted to intermingle with the spirit world, with life and death and with the mystical and a more surreal landscape."
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beneath-the-eyrie-deluxe/1497505141" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beneath-the-eyrie-deluxe/1497505141" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,8 +64,6 @@ Beneath the Eyrie is the seventh studio album by American alternative rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Beneath_the_Eyrie |
-| Wikipedia Summary | Beneath the Eyrie is the seventh studio album by American alternative rock band Pixies, released on September 13, 2019, by BMG/Infectious. Produced by Tom Dalgety, and preceded by the singles "On Graveyard Hill" and "Catfish Kate", the album was recorded in Dreamland Recording Studios, a remote, converted church in upstate New York. The band were influenced by their Gothic surroundings during the writing and recording process, with vocalist and guitarist Black Francis stating: "I wanted to intermingle with the spirit world, with life and death and with the mystical and a more surreal landscape."<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (White) |
 | Label          | Infectious Music |
 | Catalog Number | INFECT526LPC |

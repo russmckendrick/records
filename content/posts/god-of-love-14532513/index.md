@@ -41,9 +41,12 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/god-of-love/298875762" >}}
+{{< applemusic url="https://music.apple.com/gb/album/god-of-love/298875762" >}}<br>
+
+
 ## Videos
 ### Bad Brains - God Of Love (Full album 1995)
 {{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love (Full album 1995)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Limited Edition Numbered Reissue (Green, Yellow, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2531 |

@@ -36,9 +36,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/soul-of-an-octopus/1202252926" >}}
+{{< applemusic url="https://music.apple.com/gb/album/soul-of-an-octopus/1202252926" >}}<br>
+
+
 ## Videos
 ### ORk 2017 Soul of an Octopus
 {{< youtube id="tkgIDo3z91U" title="ORk 2017 Soul of an Octopus" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | RareNoise Records |
 | Catalog Number | RNR075LP |

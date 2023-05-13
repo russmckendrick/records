@@ -40,9 +40,14 @@ styles: ["Glam", "Hard Rock"]
 <!-- section break -->
 
 Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cherry-pie-bonus-track-version/198468184" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cherry-pie-bonus-track-version/198468184" >}}<br>
+
+
 ## Videos
 ### Warrant - Uncle Tom's Cabin (Official Video)
 {{< youtube id="bx6f68Wd9dc" title="Warrant - Uncle Tom's Cabin (Official Video)" >}}<br>
@@ -73,8 +78,6 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cherry_Pie_(album) |
-| Wikipedia Summary | Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red". |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3112 |

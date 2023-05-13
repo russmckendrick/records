@@ -38,7 +38,10 @@ styles: ["Electro"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Hashim - Al Naafiysh (The Soul)
 {{< youtube id="i46sF1PcqL8" title="Hashim - Al Naafiysh (The Soul)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× 12" Compilation |
 | Label          | Z Records |
 | Catalog Number | ZEDDLP040 |

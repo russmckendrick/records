@@ -48,9 +48,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/map-of-the-past/1056415449" >}}
+{{< applemusic url="https://music.apple.com/gb/album/map-of-the-past/1056415449" >}}<br>
+
+
 ## Videos
 ### It Bites - Map of The Past
 {{< youtube id="UTkXOi5c3dE" title="It Bites - Map of The Past" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Remastered, CD Album Remastered, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 585 |

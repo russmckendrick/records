@@ -39,9 +39,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1193733398" >}}
+{{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1193733398" >}}<br>
+
+
 ## Videos
 ### Yaz - Upstairs At Eric's (1982) Full Album
 {{< youtube id="6J5CIU9AiwA" title="Yaz - Upstairs At Eric's (1982) Full Album" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album (Musitech Plating) |
 | Label          | Mute |
 | Catalog Number | STUMM 7 |

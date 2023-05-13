@@ -53,7 +53,10 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### THE FONZ SONG by The Heyettes (1976)
 {{< youtube id="wfM8UgSzopU" title="THE FONZ SONG by The Heyettes (1976)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1976                                   |
 | Format         | Vinyl LP Album Compilation |
 | Label          | Warwick Records |
 | Catalog Number | WW5037 |

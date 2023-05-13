@@ -42,9 +42,15 @@ styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
 <!-- section break -->
 
 Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they get trapped in a fairy tale from the future”, <i>Oczy Mlody</i>—Polish for “eyes of the young”—is a set of viscous, synth-driven nocturnes that extends the band’s recent run of moody experimentation. While “Galaxy I Sink” recalls the despair of 2013’s <i>The Terror</i>, the prismatic pop of “We a Family” sounds relatively unburdened, thanks in part to an appearance by friend and collaborator Miley Cyrus.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/oczy-mlody/1161698600" >}}
+{{< applemusic url="https://music.apple.com/gb/album/oczy-mlody/1161698600" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,8 +60,6 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oczy_Mlody |
-| Wikipedia Summary | Oczy Mlody [ˈɔt͡ʂɨ ˈmwɔdɨ] (an erroneous Polish phrase, which could mean "the young eyes") is the fourteenth studio album by experimental rock band the Flaming Lips, released on January 13, 2017, on Warner Bros in the US and Bella Union in the UK. It is the first album to feature Jake Ingalls who joined the group in 2013. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA584V |

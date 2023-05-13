@@ -48,9 +48,14 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 <!-- section break -->
 
 Sound-Dust is the seventh studio album by English-French rock band Stereolab. It was released on 28 August 2001 in North America by Elektra Records and on 3 September 2001 internationally by Duophonic Records. The album was produced by John McEntire and Jim O'Rourke and recorded at McEntire's Chicago studio Soma. It was Stereolab's last album to feature singer and guitarist Mary Hansen, who died in a biking accident the following year.The first 1,200 copies of both the CD and LP issues of Sound-Dust were packaged with a handmade book sleeve. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.The song "Nothing to Do with Me" features lyrics derived from English satirist Chris Morris' TV series Jam.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sound-dust/1231424728" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sound-dust/1231424728" >}}<br>
+
+
 ## Videos
 ### Black Ants In Sound-dust
 {{< youtube id="TweTfd5AVfU" title="Black Ants In Sound-dust" >}}<br>
@@ -83,8 +88,6 @@ Sound-Dust is the seventh studio album by English-French rock band Stereolab. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sound-Dust |
-| Wikipedia Summary | Sound-Dust is the seventh studio album by English-French rock band Stereolab. It was released on 28 August 2001 in North America by Elektra Records and on 3 September 2001 internationally by Duophonic Records. The album was produced by John McEntire and Jim O'Rourke and recorded at McEntire's Chicago studio Soma. It was Stereolab's last album to feature singer and guitarist Mary Hansen, who died in a biking accident the following year.The first 1,200 copies of both the CD and LP issues of Sound-Dust were packaged with a handmade book sleeve. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.The song "Nothing to Do with Me" features lyrics derived from English satirist Chris Morris' TV series Jam. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP Single Sided Etched, All Media Limited Edition Numbered (Clear, Gatefold, Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | D-UHF-D27RC |

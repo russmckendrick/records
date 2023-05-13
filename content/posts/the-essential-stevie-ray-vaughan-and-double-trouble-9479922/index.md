@@ -49,9 +49,14 @@ styles: ["Blues Rock", "Texas Blues"]
 <!-- section break -->
 
 This double album is the ultimate anthology of blues rock guitar genius Stevie Ray Vaughan's brilliant but tragically brief career. With a discography spanning just eight years, the Texas axeman almost single-handedly brought the blues back into the mainstream with searing shuffles like "Pride and Joy" and tender instrumentals like the aqueous "Lenny," which simultaneously channeled Jimi Hendrix and Albert King. And he could make the funk flow when he wanted, as shown by tracks like "Couldn't Stand the Weather."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-essential-stevie-ray-vaughan-and-double-trouble/193063151" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-stevie-ray-vaughan-and-double-trouble/193063151" >}}<br>
+
+
 ## Videos
 ### Pride and Joy
 {{< youtube id="y1Xh-UepaUs" title="Pride and Joy" >}}<br>
@@ -69,8 +74,6 @@ This double album is the ultimate anthology of blues rock guitar genius Stevie R
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | This double album is the ultimate anthology of blues rock guitar genius Stevie Ray Vaughan's brilliant but tragically brief career. With a discography spanning just eight years, the Texas axeman almost single-handedly brought the blues back into the mainstream with searing shuffles like "Pride and Joy" and tender instrumentals like the aqueous "Lenny," which simultaneously channeled Jimi Hendrix and Albert King. And he could make the funk flow when he wanted, as shown by tracks like "Couldn't Stand the Weather." |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Epic |
 | Catalog Number | 88985357751 |

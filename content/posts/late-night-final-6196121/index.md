@@ -42,9 +42,14 @@ styles: ["Alternative Rock"]
 Late Night Final is the second studio album (and first full-length album after the mini-album Richard Hawley released six months earlier) from musician Richard Hawley, released in the UK in October 2001 by Setanta Records. Named after the cry of vendors selling the Sheffield Star evening newspaper on the streets of his home city, it was released to positive reviews. A single, "Baby, You're My Light" was released from the album in February 2002, reaching #81 in the UK Singles Chart.
 Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.
 The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/late-night-final/290851062" >}}
+{{< applemusic url="https://music.apple.com/gb/album/late-night-final/290851062" >}}<br>
+
+
 ## Videos
 ### Something Is
 {{< youtube id="Msf2bU9MJmU" title="Something Is" >}}<br>
@@ -68,8 +73,6 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Late_Night_Final |
-| Wikipedia Summary | Late Night Final is the second studio album (and first full-length album after the mini-album Richard Hawley released six months earlier) from musician Richard Hawley, released in the UK in October 2001 by Setanta Records. Named after the cry of vendors selling the Sheffield Star evening newspaper on the streets of his home city, it was released to positive reviews. A single, "Baby, You're My Light" was released from the album in February 2002, reaching #81 in the UK Singles Chart.<br>Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.<br>The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Setanta |
 | Catalog Number | SETLP088 |

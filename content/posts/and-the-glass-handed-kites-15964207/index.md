@@ -54,9 +54,14 @@ styles: []
 <!-- section break -->
 
 And the Glass Handed Kites is the fourth studio album by Danish band Mew, released in the United Kingdom on 19 September 2005, and in the United States on 25 July 2006.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mew-and-the-glass-handed-kites/424196154" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mew-and-the-glass-handed-kites/424196154" >}}<br>
+
+
 ## Videos
 ### Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)
 {{< youtube id="zqt8-FJsdQU" title="Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)" >}}<br>
@@ -72,8 +77,6 @@ And the Glass Handed Kites is the fourth studio album by Danish band Mew, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/And_the_Glass_Handed_Kites |
-| Wikipedia Summary | And the Glass Handed Kites is the fourth studio album by Danish band Mew, released in the United Kingdom on 19 September 2005, and in the United States on 25 July 2006. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Record Store Day Limited Edition Numbered (Black & White Marbled, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2561 |

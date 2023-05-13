@@ -47,9 +47,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radio-voltaire/1337056975" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radio-voltaire/1337056975" >}}<br>
+
+
 ## Videos
 ### Radio Voltaire
 {{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 501 |

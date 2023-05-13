@@ -98,9 +98,14 @@ styles: ["Blues Rock", "Rock & Roll", "Hard Rock"]
 
 Shake Your Money Maker (also stylized as The Black Crowes Present: $hake Your Money Maker) is the debut studio album by American rock band the Black Crowes, released on February 13, 1990, on Def American Recordings. It is the only album by the band to feature guitarist Jeff Cease. The album is named after a classic blues song written by Elmore James. The Black Crowes have played the song live many times over the years, but it is not included on this album.
 Shake Your Money Maker peaked at No. 4 on the Billboard 200, and two of its singles, "Hard to Handle" and "She Talks to Angels", reached No. 1 on the Mainstream Rock Tracks chart. "Jealous Again", "Twice As Hard" and "Seeing Things" were also charting singles in the United States. Shake Your Money Maker is the Black Crowes' best selling album, having sold more than 5 million copies.On January 8, 2021, the Black Crowes announced that a 30th anniversary edition of the album would be released on February 26, 2021. The new version contains the original tracks remastered in addition to three previously unreleased songs, outtakes, two demos from the Mr. Crowe's Garden era, and a live performance set recorded in 1990 at Center Stage in Atlanta. Previously unreleased track "Charming Mess" was released on the same day as the announcement.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/shake-your-money-maker/1440810644" >}}
+{{< applemusic url="https://music.apple.com/gb/album/shake-your-money-maker/1440810644" >}}<br>
+
+
 ## Videos
 ### The Black Crowes - Hard To Handle
 {{< youtube id="BRcs_OzQb14" title="The Black Crowes - Hard To Handle" >}}<br>
@@ -121,8 +126,6 @@ Shake Your Money Maker peaked at No. 4 on the Billboard 200, and two of its sing
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Shake_Your_Money_Maker_(album) |
-| Wikipedia Summary | Shake Your Money Maker (also stylized as The Black Crowes Present: $hake Your Money Maker) is the debut studio album by American rock band the Black Crowes, released on February 13, 1990, on Def American Recordings. It is the only album by the band to feature guitarist Jeff Cease. The album is named after a classic blues song written by Elmore James. The Black Crowes have played the song live many times over the years, but it is not included on this album.<br>Shake Your Money Maker peaked at No. 4 on the Billboard 200, and two of its singles, "Hard to Handle" and "She Talks to Angels", reached No. 1 on the Mainstream Rock Tracks chart. "Jealous Again", "Twice As Hard" and "Seeing Things" were also charting singles in the United States. Shake Your Money Maker is the Black Crowes' best selling album, having sold more than 5 million copies.On January 8, 2021, the Black Crowes announced that a 30th anniversary edition of the album would be released on February 26, 2021. The new version contains the original tracks remastered in addition to three previously unreleased songs, outtakes, two demos from the Mr. Crowe's Garden era, and a live performance set recorded in 1990 at Center Stage in Atlanta. Previously unreleased track "Charming Mess" was released on the same day as the announcement. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP, Vinyl LP, Vinyl 2× LP, Box Set Album Deluxe Edition Remastered (30th Anniversary) |
 | Label          | American Recordings |
 | Catalog Number | 00602508802539 |

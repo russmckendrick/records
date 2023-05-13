@@ -35,9 +35,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rphans-digital/1607158807" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rphans-digital/1607158807" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Purple Opaque With Black, White & Yellow Splatter) |
 | Label          | Rockosmos |
 | Catalog Number | ROK251 |

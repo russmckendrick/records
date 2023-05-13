@@ -37,9 +37,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boing/570560067" >}}
+{{< applemusic url="https://music.apple.com/gb/album/boing/570560067" >}}<br>
+
+
 ## Videos
 ### Airhead - Funny How (Official Music Video)
 {{< youtube id="17Zfcq6cq2g" title="Airhead - Funny How (Official Music Video)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP Album |
 | Label          | Korova |
 | Catalog Number | 9031 76273 1 |

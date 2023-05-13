@@ -46,9 +46,15 @@ Parade eschews the guitar and rock elements of Prince's 1984 album Purple Rain i
 Parade was named one of the best albums of 1986 by The Village Voice and NME magazine, who named it their Album of the Year.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/parade-music-from-the-motion-picture-under-the-cherry-moon/260336005" >}}
+{{< applemusic url="https://music.apple.com/gb/album/parade-music-from-the-motion-picture-under-the-cherry-moon/260336005" >}}<br>
+
+
 ## Videos
 ### Prince - Kiss (Official Music Video)
 {{< youtube id="H9tEvfIsDyo" title="Prince - Kiss (Official Music Video)" >}}<br>
@@ -68,8 +74,6 @@ Parade was named one of the best albums of 1986 by The Village Voice and NME mag
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Parade_(Prince_album) |
-| Apple Music Summary | Recorded as a soundtrack for Prince’s directorial debut, <i>Under the Cherry Moon</i>, <i>Parade</i> melds his deepening funk explorations with a fascination for <i>Sgt. Pepper’s</i>-era Beatles. The album comes on strong and playful, stripped-back yet bursting with color. There are a handful of classics here in the steel-drum double-dutch of “New Position” and the ‘40s fantasia “Under the Cherry Moon,” but nothing reaches the heights of “Kiss,” which makes more of empty space than most artists make of sound. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Paisley Park |
 | Catalog Number | 1-25395 |

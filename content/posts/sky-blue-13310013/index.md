@@ -44,9 +44,14 @@ styles: ["Country"]
 <!-- section break -->
 
 Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, recorded in 1973 but not released until 2019. All tracks were recorded in early 1973 at the Atlanta, Georgia, home studio of Bill Hedgepeth, a journalist, musician, and longtime friend of Van Zandt. Its 2019 release was conceived by Townes' surviving family—his wife and literary executor Jeanene, along with his children, J.T., Will, and Katie Bell.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sky-blue/1446644374" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sky-blue/1446644374" >}}<br>
+
+
 ## Videos
 ### Townes Van Zandt - All I Need (Official Audio)
 {{< youtube id="iPZzbym9RsE" title="Townes Van Zandt - All I Need (Official Audio)" >}}<br>
@@ -67,8 +72,6 @@ Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sky_Blue_(Townes_Van_Zandt_album) |
-| Wikipedia Summary | Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, recorded in 1973 but not released until 2019. All tracks were recorded in early 1973 at the Atlanta, Georgia, home studio of Bill Hedgepeth, a journalist, musician, and longtime friend of Van Zandt. Its 2019 release was conceived by Townes' surviving family—his wife and literary executor Jeanene, along with his children, J.T., Will, and Katie Bell. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (White Vinyl) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1706-1 |

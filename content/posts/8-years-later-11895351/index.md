@@ -36,9 +36,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/8-years-later/1585711251" >}}
+{{< applemusic url="https://music.apple.com/gb/album/8-years-later/1585711251" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Stereo (180 gram, White) |
 | Label          | Kscope |
 | Catalog Number | Kscope974 |

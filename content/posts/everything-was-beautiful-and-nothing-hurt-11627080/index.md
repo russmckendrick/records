@@ -48,9 +48,14 @@ styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 <!-- section break -->
 
 Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by American electronic musician Moby. It was released on March 2, 2018 by the record labels Little Idiot and Mute.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +65,6 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Was_Beautiful,_and_Nothing_Hurt_(Moby_album) |
-| Wikipedia Summary | Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by American electronic musician Moby. It was released on March 2, 2018 by the record labels Little Idiot and Mute. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT060LP |

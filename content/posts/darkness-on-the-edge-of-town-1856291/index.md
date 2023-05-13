@@ -43,9 +43,15 @@ Springsteen used outside sources when writing the album's songs, including John 
 Released three years after Born to Run, Darkness sold less than its predecessor but reached number five in the US, while its singles performed modestly. Springsteen promoted it on the successful Darkness Tour, his largest tour up to that point. Darkness was initially received favorably; critics praised the music and performances but were divided  the lyrical content. In later decades, the album has attracted acclaim as one of Springsteen's best works and is viewed as the benchmark for his future career. It has appeared on lists of the greatest albums of all time and was reissued in 2010, accompanied by a documentary detailing the album's making.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977" >}}
+{{< applemusic url="https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977" >}}<br>
+
+
 ## Videos
 ### Badlands
 {{< youtube id="SDlSCeQXbPo" title="Badlands" >}}<br>
@@ -70,8 +76,6 @@ Released three years after Born to Run, Darkness sold less than its predecessor 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Darkness_on_the_Edge_of_Town |
-| Apple Music Summary | Bruce Springsteen’s fourth album finds the rock ’n’ roll poet of the working class wrestling with themes involving troubled souls in troubled times. Songs are filled with dead-end factories, dark bars, and lost horizons—lyrical devices that reinforce Springsteen’s idea that salvation is found only through love. Surging opener “Badlands” and the dramatic “The Promised Land” offer hope as a vaccination against sadness and struggles, while the percolating title track—and poignant ballads “Racing in the Street” and “Factory”—subtly remind us that we were all just born to run. |
-    | Release Year   | 1978                                   |
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 86061 |

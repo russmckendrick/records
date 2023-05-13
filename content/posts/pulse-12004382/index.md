@@ -78,9 +78,14 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 Pulse (stylised P·U·L·S·E) is the third live album by the English rock band Pink Floyd. It was released on 29 May 1995 by EMI in the United Kingdom and on 6 June 1995 by Columbia in the United States. The album was recorded during the European leg of Pink Floyd's Division Bell Tour in 1994.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pulse-live-2018-remaster/1592552392" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pulse-live-2018-remaster/1592552392" >}}<br>
+
+
 ## Videos
 ### P̲i̲nk Flo̲yd P̲ulse̲ (Full Album) 1995
 {{< youtube id="Ygp1a9QoROc" title="P̲i̲nk Flo̲yd P̲ulse̲ (Full Album) 1995" >}}<br>
@@ -93,8 +98,6 @@ Pulse (stylised P·U·L·S·E) is the third live album by the English rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pulse_(Pink_Floyd_album) |
-| Wikipedia Summary | Pulse (stylised P·U·L·S·E) is the third live album by the English rock band Pink Floyd. It was released on 29 May 1995 by EMI in the United Kingdom and on 6 June 1995 by Columbia in the United States. The album was recorded during the European leg of Pink Floyd's Division Bell Tour in 1994. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 4× LP Album Reissue Remastered (180 gram), Box Set |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP17 |

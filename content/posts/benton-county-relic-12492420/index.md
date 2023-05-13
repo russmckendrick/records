@@ -43,9 +43,12 @@ styles: ["Country Blues", "Hill Country Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/benton-county-relic/1534658310" >}}
+{{< applemusic url="https://music.apple.com/gb/album/benton-county-relic/1534658310" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Country Blues", "Hill Country Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Single Lock Records |
 | Catalog Number | SL024 |

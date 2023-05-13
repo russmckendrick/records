@@ -38,9 +38,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/woodstock-sunday-august-17-1969-live/1478440844" >}}
+{{< applemusic url="https://music.apple.com/gb/album/woodstock-sunday-august-17-1969-live/1478440844" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Reissue |
 | Label          | Epic |
 | Catalog Number | 19075921541 |

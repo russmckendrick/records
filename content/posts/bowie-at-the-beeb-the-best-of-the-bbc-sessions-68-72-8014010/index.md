@@ -67,9 +67,12 @@ styles: ["Pop Rock", "Glam", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bowie-at-the-beeb-the-best-of-the-bbc-radio-sessions-68-72/1164160964" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bowie-at-the-beeb-the-best-of-the-bbc-radio-sessions-68-72/1164160964" >}}<br>
+
+
 
 
 ## Release Images
@@ -78,7 +81,6 @@ styles: ["Pop Rock", "Glam", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 4× LP Compilation Reissue (180 gram), Box Set |
 | Label          | Parlophone |
 | Catalog Number | 0825646095285 |

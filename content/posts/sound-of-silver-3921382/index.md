@@ -41,9 +41,15 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 <!-- section break -->
 
 Sound of Silver is the second studio album by American rock band LCD Soundsystem. The album was released jointly through DFA and Capitol Records in the United States and EMI elsewhere, first on March 12, 2007, in the United Kingdom. Sound of Silver was produced by the DFA and recorded during 2006 at Long View Farm in North Brookfield, Massachusetts and DFA Studios in New York, New York.  Upon release, Sound of Silver received acclaim from music critics, and it was later nominated for the Grammy Award for Best Electronic/Dance Album at the 50th Annual Grammy Awards.  The group's later released EP, entitled A Bunch of Stuff, was composed entirely of songs from this album.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sound-of-silver/742432549" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sound-of-silver/742432549" >}}<br>
+
+
 ## Videos
 ### LCD Soundsystem - North American Scum (Official Video)
 {{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}<br>
@@ -67,8 +73,6 @@ Sound of Silver is the second studio album by American rock band LCD Soundsystem
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sound_of_Silver |
-| Apple Music Summary | With "Losing My Edge", James Murphy proved he had a better record collection than you. On <i>Sound of Silver</i>, he puts it to good use, crafting peerless tunes that draw from disco, dance-punk, krautrock, Detroit techno and more, all while still sounding quintessentially LCD—and incredibly moving. "New York, I Love You But You're Bringing Me Down" is a bittersweet dirge torn from the real-estate section, and the one-two punch of "Someone Great" and "All My Friends" is a masterstroke of middle-aged emo. |
-    | Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | DFA |
 | Catalog Number | dfaemi 2164lp |

@@ -62,7 +62,10 @@ styles: ["New Wave", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Flying Lizards - Money
 {{< youtube id="E-P2qL3qkzk" title="The Flying Lizards - Money" >}}<br>
@@ -84,7 +87,6 @@ styles: ["New Wave", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation (Pink Translucent) |
 | Label          | Sony Music |
 | Catalog Number | LPNNNOW122 |

@@ -31,7 +31,10 @@ styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Abigail Mead & Nigel Goulding –Full Metal Jacket I Wanna Be Your Drill Instructor Eskimo pussy mix
 {{< youtube id="1U3vxsee6UY" title="Abigail Mead & Nigel Goulding –Full Metal Jacket I Wanna Be Your Drill Instructor Eskimo pussy mix" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl 12" 45 RPM Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 920 787-0 |

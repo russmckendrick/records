@@ -80,9 +80,13 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="4BlStEiUW9o9mv8OHOdEsI" width="100%" height="500" >}}
+{{< spotify type="album" id="4BlStEiUW9o9mv8OHOdEsI" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Confessin' the Blues (version de luxe) & Le Blues en 150 figures
 {{< youtube id="SCy_YxJmFX4" title="Confessin' the Blues (version de luxe) & Le Blues en 150 figures" >}}<br>
@@ -96,7 +100,6 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 5× 10" 33 ⅓ RPM Compilation, Box Set |
 | Label          | BMG |
 | Catalog Number | BMGCAT155EPX |

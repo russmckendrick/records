@@ -83,7 +83,12 @@ styles: ["Art Rock", "Pop Rock"]
 
 Before the Dawn is the second live album by English singer-songwriter Kate Bush, credited to The KT Fellowship. The album was released on 25 November 2016 by Bush's label Fish People, and is distributed in the United States by Concord Records. It was recorded in 2014 during Bush's sell-out 22-date residency, Before the Dawn, at the Hammersmith Apollo in London, which saw her return to the stage following a 35-year absence.
 The album has been certified Gold in the UK by the British Phonographic Industry.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### 'Wake Up' - Kate Bush - Before The Dawn - Live Album Ad
 {{< youtube id="t24pRXsTveE" title="'Wake Up' - Kate Bush - Before The Dawn - Live Album Ad" >}}<br>
@@ -96,8 +101,6 @@ The album has been certified Gold in the UK by the British Phonographic Industry
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Before_the_Dawn_(Kate_Bush_album) |
-| Wikipedia Summary | Before the Dawn is the second live album by English singer-songwriter Kate Bush, credited to The KT Fellowship. The album was released on 25 November 2016 by Bush's label Fish People, and is distributed in the United States by Concord Records. It was recorded in 2014 during Bush's sell-out 22-date residency, Before the Dawn, at the Hammersmith Apollo in London, which saw her return to the stage following a 35-year absence.<br>The album has been certified Gold in the UK by the British Phonographic Industry. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 4× LP Album, Box Set |
 | Label          | Fish People |
 | Catalog Number | 0190295920166 |

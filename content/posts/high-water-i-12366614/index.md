@@ -41,9 +41,12 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}
+{{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}<br>
+
+
 ## Videos
 ### The Magpie Salute ~ High Water
 {{< youtube id="C9FkRy4xsa0" title="The Magpie Salute ~ High Water" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album (Clear Transparent) |
 | Label          | Provogue |
 | Catalog Number | PRD7558 1 |

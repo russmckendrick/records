@@ -28,7 +28,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### VENNART - Dick Privilege
 {{< youtube id="ZE4JTf7qOWk" title="VENNART - Dick Privilege" >}}<br>
@@ -40,7 +43,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 7" Single (Gammon coloured vinyl) |
 | Label          | Not On Label (Vennart Self-released) |
 | Catalog Number | none |

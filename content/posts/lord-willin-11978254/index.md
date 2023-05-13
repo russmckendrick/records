@@ -60,9 +60,12 @@ styles: ["Gangsta"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lord-willin/309071685" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lord-willin/309071685" >}}<br>
+
+
 ## Videos
 ### Intro
 {{< youtube id="dajcaoe0RC8" title="Intro" >}}<br>
@@ -89,7 +92,6 @@ styles: ["Gangsta"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Club Edition Reissue (Green [Emerald]) |
 | Label          | Star Trak Entertainment |
 | Catalog Number | VMP-E065 |

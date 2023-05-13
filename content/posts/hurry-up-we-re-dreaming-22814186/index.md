@@ -57,9 +57,12 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hurry-up-were-dreaming/1674216738" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hurry-up-were-dreaming/1674216738" >}}<br>
+
+
 ## Videos
 ### M83 - Outro
 {{< youtube id="Eyjj8BgsBGU" title="M83 - Outro" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange, 10th Anniversary) |
 | Label          | Mute |
 | Catalog Number | M7571 |

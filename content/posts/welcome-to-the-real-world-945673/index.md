@@ -39,9 +39,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Welcome to the Real World is the second studio album by American pop rock band Mr. Mister, released on November 27, 1985, by RCA Records. Two singles from the album, "Broken Wings" and "Kyrie", topped the US Billboard Hot 100 chart, while "Is It Love" peaked at number eight. Welcome to the Real World topped the Billboard 200 in March 1986. A remastered 25th-anniversary edition of the album was released as a digipak on April 20, 2010.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-real-world/302053572" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-real-world/302053572" >}}<br>
+
+
 ## Videos
 ### Mr. Mister - Kyrie (Official Video)
 {{< youtube id="9NDjt4FzFWY" title="Mr. Mister - Kyrie (Official Video)" >}}<br>
@@ -57,8 +62,6 @@ Welcome to the Real World is the second studio album by American pop rock band M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_the_Real_World_(Mr._Mister_album) |
-| Wikipedia Summary | Welcome to the Real World is the second studio album by American pop rock band Mr. Mister, released on November 27, 1985, by RCA Records. Two singles from the album, "Broken Wings" and "Kyrie", topped the US Billboard Hot 100 chart, while "Is It Love" peaked at number eight. Welcome to the Real World topped the Billboard 200 in March 1986. A remastered 25th-anniversary edition of the album was released as a digipak on April 20, 2010. |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | RCA |
 | Catalog Number | PL89647 |

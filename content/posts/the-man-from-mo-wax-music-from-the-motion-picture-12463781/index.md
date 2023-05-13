@@ -53,7 +53,10 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace
 {{< youtube id="VKW-67YNkqo" title="Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Limited Edition |
 | Label          | UMC |
 | Catalog Number | 6727901 |

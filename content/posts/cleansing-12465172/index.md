@@ -40,9 +40,14 @@ styles: ["Groove Metal", "Industrial Metal"]
 <!-- section break -->
 
 Cleansing is the fourth album by the American heavy metal band Prong, released on January 25, 1994 by Epic Records. It was produced by Terry Date, whereas Prong's previous two albums had been produced by Mark Dodson. The album features ex-Killing Joke members Paul Raven on bass guitar and John Bechdel on keyboards and programming. Featuring an industrial-influenced sound, the record received moderate commercial success.The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; its music video received heavy rotation on MTV and was featured on an episode of Beavis and Butt-Head. As a part of the album's promotion, the band toured with Sepultura and Pantera as an opener for their Chaos A.D. and Far Beyond Driven tours, respectively.The record was reissued by SPV/Steamhammer in 2008.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cleansing/158332411" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cleansing/158332411" >}}<br>
+
+
 ## Videos
 ### Prong - Snap your fingers, snap your neck
 {{< youtube id="Cl-5TrGakWY" title="Prong - Snap your fingers, snap your neck" >}}<br>
@@ -61,8 +66,6 @@ Cleansing is the fourth album by the American heavy metal band Prong, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cleansing_(album) |
-| Wikipedia Summary | Cleansing is the fourth album by the American heavy metal band Prong, released on January 25, 1994 by Epic Records. It was produced by Terry Date, whereas Prong's previous two albums had been produced by Mark Dodson. The album features ex-Killing Joke members Paul Raven on bass guitar and John Bechdel on keyboards and programming. Featuring an industrial-influenced sound, the record received moderate commercial success.The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; its music video received heavy rotation on MTV and was featured on an episode of Beavis and Butt-Head. As a part of the album's promotion, the band toured with Sepultura and Pantera as an opener for their Chaos A.D. and Far Beyond Driven tours, respectively.The record was reissued by SPV/Steamhammer in 2008. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue |
 | Label          | The Century Family Inc. |
 | Catalog Number | 19075828161 |

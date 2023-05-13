@@ -38,9 +38,14 @@ styles: ["Acoustic", "Prog Rock"]
 <!-- section break -->
 
 Hindsight is an acoustically-oriented studio compilation album by British progressive rock band Anathema consisting of re-recorded versions of some of the band's classic songs with the addition of one new song; "Unchained (Tales of the Unexpected)". The title for the album was originally intended to be Temporary Peace.This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages: English, Italian and French, from where the song "Fragile Dreams" can be downloaded for free in MP3 format if signing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hindsight/282920209" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hindsight/282920209" >}}<br>
+
+
 ## Videos
 ### Anathema - A Natural Disaster [Hindsight]
 {{< youtube id="dNd4mq2HvoE" title="Anathema - A Natural Disaster [Hindsight]" >}}<br>
@@ -60,8 +65,6 @@ Hindsight is an acoustically-oriented studio compilation album by British progre
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hindsight_(Anathema_album) |
-| Wikipedia Summary | Hindsight is an acoustically-oriented studio compilation album by British progressive rock band Anathema consisting of re-recorded versions of some of the band's classic songs with the addition of one new song; "Unchained (Tales of the Unexpected)". The title for the album was originally intended to be Temporary Peace.This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages: English, Italian and French, from where the song "Fragile Dreams" can be downloaded for free in MP3 format if signing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica". |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE859 |

@@ -44,9 +44,15 @@ styles: ["Pop Rock", "Dance-pop", "Funk"]
 Around the World in a Day is the seventh studio album by American recording artist Prince, and the second release where his backing band The Revolution is billed. It was released on April 22, 1985, by Paisley Park Records and Warner Bros. Records. Departing somewhat from the commercial sound of his previous release, the massively successful Purple Rain (1984), the album instead saw Prince experimenting with psychedelic styles and more opulent textures. In compliance with Prince's wishes, the record company released the album with minimal publicity, withholding accompanying singles until almost a month after the album's release.Around the World in a Day was released to notably mixed reception among crossover audiences after the success of Purple Rain, though it nonetheless sold relatively well and became Prince and the Revolution's second number-one album on the Billboard 200. Two of its four singles reached the top 10 of the Billboard Hot 100: "Raspberry Beret" and "Pop Life". Following Prince's death, "Raspberry Beret" re-charted on the Billboard Hot 100 as a top 40 hit, reaching number 33. Around the World in a Day was certified double platinum by the Recording Industry Association of America (RIAA) on July 2, 1985.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/around-the-world-in-a-day/213034763" >}}
+{{< applemusic url="https://music.apple.com/gb/album/around-the-world-in-a-day/213034763" >}}<br>
+
+
 ## Videos
 ### Prince & The Revolution - Paisley Park (Official Music Video)
 {{< youtube id="1mhL5ynXzB0" title="Prince & The Revolution - Paisley Park (Official Music Video)" >}}<br>
@@ -61,8 +67,6 @@ Around the World in a Day is the seventh studio album by American recording arti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Around_the_World_in_a_Day |
-| Apple Music Summary | Fans expected <i>Purple Rain II</i>; The Kid took ‘em on a trip instead. In 1985, <i>Around the World in a Day</i> introduced a psychedelic overhaul to Prince’s lavender world. Songs like “America” and the title track are tinged with exotic instruments (finger cymbals, oud, darbuka) and striking studio tricks. “Raspberry Beret” sums up the mindset—curious, searching, whimsical, a damn near perfect Prince song. By rejecting the predictable path offered by commercial success, Prince inspired fans to seek their own utopia, their own Paisley Park. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Paisley Park |
 | Catalog Number | 25286-1 |

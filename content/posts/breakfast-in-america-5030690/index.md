@@ -38,9 +38,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Breakfast in America is the sixth studio album by the English rock band Supertramp, released by A&M Records on 29 March 1979. It was recorded in 1978 at The Village Recorder in Los Angeles. It spawned four US Billboard hit singles: "The Logical Song" (No. 6), "Goodbye Stranger" (No. 15), "Take the Long Way Home" (No. 10) and "Breakfast in America" (No. 62). In the UK, "The Logical Song" and the title track were both top 10 hits, the only two the group had in their native country.At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards for Best Album Package and Best Engineered Non-Classical Recording, as well as nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It holds an RIAA certification of quadruple platinum and became Supertramp's biggest-selling album, with more than 4 million copies sold in the US and more than 3 million in France (the fourth ever best-selling album). It was No. 1 on Billboard Pop Albums Chart for six weeks, until 30 June 1979. The album also hit No. 1 in Norway, Austria, West Germany, the Netherlands, Spain, Canada, Australia and France.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/breakfast-in-america-remastered/1440512054" >}}
+{{< applemusic url="https://music.apple.com/gb/album/breakfast-in-america-remastered/1440512054" >}}<br>
+
+
 ## Videos
 ### Supertramp - Breakfast In America (Official Video)
 {{< youtube id="gD1EkIbIUUc" title="Supertramp - Breakfast In America (Official Video)" >}}<br>
@@ -63,8 +68,6 @@ Breakfast in America is the sixth studio album by the English rock band Supertra
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Breakfast_in_America |
-| Wikipedia Summary | Breakfast in America is the sixth studio album by the English rock band Supertramp, released by A&M Records on 29 March 1979. It was recorded in 1978 at The Village Recorder in Los Angeles. It spawned four US Billboard hit singles: "The Logical Song" (No. 6), "Goodbye Stranger" (No. 15), "Take the Long Way Home" (No. 10) and "Breakfast in America" (No. 62). In the UK, "The Logical Song" and the title track were both top 10 hits, the only two the group had in their native country.At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards for Best Album Package and Best Engineered Non-Classical Recording, as well as nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It holds an RIAA certification of quadruple platinum and became Supertramp's biggest-selling album, with more than 4 million copies sold in the US and more than 3 million in France (the fourth ever best-selling album). It was No. 1 on Billboard Pop Albums Chart for six weeks, until 30 June 1979. The album also hit No. 1 in Norway, Austria, West Germany, the Netherlands, Spain, Canada, Australia and France. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Picture Disc Reissue |
 | Label          | A&M Records |
 | Catalog Number | 00600753454589 |

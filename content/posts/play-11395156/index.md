@@ -63,9 +63,14 @@ While some of Moby's earlier work had garnered critical and commercial success w
 In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of the 500 greatest albums of all time.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/play/1193810754" >}}
+{{< applemusic url="https://music.apple.com/gb/album/play/1193810754" >}}<br>
+
+
 ## Videos
 ### M̲oby - P̲lay (F̶ull A̶lbum) HQ
 {{< youtube id="JyM50qHSQBE" title="M̲oby - P̲lay (F̶ull A̶lbum) HQ" >}}<br>
@@ -78,8 +83,6 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Play_(Moby_album) |
-| Wikipedia Summary | Play is the fifth studio album by American electronic musician Moby. It was released on May 17, 1999, through Mute Records internationally and V2 Records in North America. Recording of the album began in mid-1997, following the release of Moby's fourth album, Animal Rights (1996), which deviated from his electronica style; Moby's goal for Play was to return to this style of music, blending downtempo with blues and roots music samples. Originally intended to be his final record, the album was recorded at Moby's home studio in Manhattan.<br>While some of Moby's earlier work had garnered critical and commercial success within the electronic dance music scene, Play was both a critical success and a commercial phenomenon. Initially issued to lackluster sales, it topped numerous album charts months after its release and was certified platinum in more than 20 countries. The album introduced Moby to a worldwide mainstream audience, not only through a large number of hit singles that helped the album to dominate worldwide charts for two years, but also through unprecedented licensing of its songs in films, television shows, and commercials. Play eventually became the biggest-selling electronica album of all time, with over 12 million copies sold worldwide, and became Moby's breakthrough album.<br>In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of the 500 greatest albums of all time.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Club Edition Reissue Remastered (Turquoise Translucent) |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT061 |

@@ -57,9 +57,14 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 
 The Beta Band were a Scottish musical group formed in 1996. Their style was described as being "folktronica", although it was mainly a blend of folk, psychedelia, electronica, experimental rock and trip hop, often involving stylistic experimentation. Despite inner conflict and the eventual decline of the group, they became critically acclaimed after releasing their first few recordings and achieved a cult following as they began releasing studio albums, before disbanding in 2004. They were praised by members of both Radiohead and Oasis, the former of which chose them to open for their concerts in 2001.
 The band's music has been featured in multiple films, including High Fidelity and It's All Gone Pete Tong.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-beta-band/1339300024" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-beta-band/1339300024" >}}<br>
+
+
 ## Videos
 ### The Beta Band - The Beta Band (Full Album)
 {{< youtube id="shIRuXRPKBA" title="The Beta Band - The Beta Band (Full Album)" >}}<br>
@@ -72,8 +77,6 @@ The band's music has been featured in multiple films, including High Fidelity an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Beta_Band |
-| Wikipedia Summary | The Beta Band were a Scottish musical group formed in 1996. Their style was described as being "folktronica", although it was mainly a blend of folk, psychedelia, electronica, experimental rock and trip hop, often involving stylistic experimentation. Despite inner conflict and the eventual decline of the group, they became critically acclaimed after releasing their first few recordings and achieved a cult following as they began releasing studio albums, before disbanding in 2004. They were praised by members of both Radiohead and Oasis, the former of which chose them to open for their concerts in 2001.<br>The band's music has been featured in multiple films, including High Fidelity and It's All Gone Pete Tong. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue, Vinyl LP Album, CD 2× Album |
 | Label          | Because Music |
 | Catalog Number | BEC5543698 |

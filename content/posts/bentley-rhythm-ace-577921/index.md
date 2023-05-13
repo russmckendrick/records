@@ -35,9 +35,14 @@ styles: ["Big Beat"]
 <!-- section break -->
 
 Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham in 1995, originally consisting of Mike Stokes and Richard March.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money-sun-hits-the-sky-bentley-rhythm/1509677858" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money-sun-hits-the-sky-bentley-rhythm/1509677858" >}}<br>
+
+
 ## Videos
 ### Bentley Rhythym Ace - Bentley's Gonna Sort You Out
 {{< youtube id="3IWl77o3l50" title="Bentley Rhythym Ace - Bentley's Gonna Sort You Out" >}}<br>
@@ -60,8 +65,6 @@ Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bentley_Rhythm_Ace |
-| Wikipedia Summary | Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham in 1995, originally consisting of Mike Stokes and Richard March. |
-| Release Year   | 1997                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | EMI |
 | Catalog Number | 7243 8 21049 1 9 |

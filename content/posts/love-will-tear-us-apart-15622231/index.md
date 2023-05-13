@@ -33,9 +33,14 @@ styles: ["New Wave", "Post-Punk"]
 The song was certified platinum in the UK, selling over 600,000 copies, and has an ongoing legacy as a defining song of the era. In 2002, NME named "Love Will Tear Us Apart" as the greatest single of all time, while Rolling Stone named it one of the 500 best songs ever in 2004, 2011, and 2021.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-will-tear-us-apart-single/429822858" >}}
+{{< applemusic url="https://music.apple.com/gb/album/love-will-tear-us-apart-single/429822858" >}}<br>
+
+
 ## Videos
 ### Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]
 {{< youtube id="zuuObGsB0No" title="Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]" >}}<br>
@@ -53,8 +58,6 @@ The song was certified platinum in the UK, selling over 600,000 copies, and has 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_Will_Tear_Us_Apart |
-| Wikipedia Summary | "Love Will Tear Us Apart" is a song by English rock band Joy Division, released in June 1980 as a non-album single. Its lyrics were inspired by lead singer Ian Curtis's marital problems and struggles with epilepsy. The single was released the month after his suicide.<br>The song was certified platinum in the UK, selling over 600,000 copies, and has an ongoing legacy as a defining song of the era. In 2002, NME named "Love Will Tear Us Apart" as the greatest single of all time, while Rolling Stone named it one of the 500 best songs ever in 2004, 2011, and 2021.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
 | Label          | Factory |
 | Catalog Number | FAC·XXIII·XII |

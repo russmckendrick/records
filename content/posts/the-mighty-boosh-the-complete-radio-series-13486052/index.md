@@ -30,7 +30,10 @@ styles: ["Comedy", "Radioplay"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Mighty Boosh -  Radio Show EP 2 - Jungle
 {{< youtube id="C4Fi2BQowkU" title="The Mighty Boosh -  Radio Show EP 2 - Jungle" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Comedy", "Radioplay"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Record Store Day (Yellow, 180g), Vinyl LP Record Store Day (White, 180g), Vinyl LP Record Store Day (Green, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX33 |

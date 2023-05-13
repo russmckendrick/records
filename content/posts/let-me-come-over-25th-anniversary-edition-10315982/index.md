@@ -53,9 +53,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/let-me-come-over-25th-anniversary-edition/1224811046" >}}
+{{< applemusic url="https://music.apple.com/gb/album/let-me-come-over-25th-anniversary-edition/1224811046" >}}<br>
+
+
 ## Videos
 ### Stymied
 {{< youtube id="GZAiJhZgmdo" title="Stymied" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl LP, All Media (Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2145 |

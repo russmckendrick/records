@@ -35,9 +35,15 @@ styles: ["Trip Hop", "Downtempo"]
 <!-- section break -->
 
 Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to his band since this outstanding debut. You can see his point: a record as compellingly discomfiting as <i>Dummy</i> seems at odds with a movement that spawned multiple chill-out albums. Its noir, precisely layered sound—tranquilized hip-hop beats, haunted strings, and tortured guitar lines—is given soul by Beth Gibbons’s voice. Bruised, elegant, and confessional, she suggests a faded actress spilling her heart into a dressing room mirror on the exquisitely sad “Sour Times” and “Glory Box”.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dummy/1440653096" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dummy/1440653096" >}}<br>
+
+
 ## Videos
 ### Portishead - Numb (Official Video)
 {{< youtube id="Z7If6GODLFc" title="Portishead - Numb (Official Video)" >}}<br>
@@ -60,8 +66,6 @@ Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dummy_(album) |
-| Wikipedia Summary | Dummy is the debut studio album by English electronic music band Portishead, released on 22 August 1994 by Go! Beat Records.The album received critical acclaim and won the 1995 Mercury Music Prize. It is often credited with popularising the trip hop genre, and is frequently cited in lists of the best albums of the 1990s. Dummy was certified triple platinum in the UK in February 2019, and had sold 920,000 copies in the United Kingdom as of September 2020. Worldwide, the album had sold 3.6 million copies by 2008.<br><br> |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Go! Beat |
 | Catalog Number | 3797205 |

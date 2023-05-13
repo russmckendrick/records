@@ -37,9 +37,14 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 <!-- section break -->
 
 Laughter is the third studio album by Ian Dury and the Blockheads; released in 1980, it was the last studio album Dury made for Stiff Records. It was also the last studio album he made with the Blockheads, until 1998's Mr. Love Pants, though a live album Warts 'n' Audience was produced in 1991.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/laughter/1489399868" >}}
+{{< applemusic url="https://music.apple.com/gb/album/laughter/1489399868" >}}<br>
+
+
 ## Videos
 ### Manic Depression (Jimi)
 {{< youtube id="CIhx64KPoRg" title="Manic Depression (Jimi)" >}}<br>
@@ -67,8 +72,6 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Laughter_(Ian_Dury_%26_The_Blockheads_album) |
-| Wikipedia Summary | Laughter is the third studio album by Ian Dury and the Blockheads; released in 1980, it was the last studio album Dury made for Stiff Records. It was also the last studio album he made with the Blockheads, until 1998's Mr. Love Pants, though a live album Warts 'n' Audience was produced in 1991. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC57 |

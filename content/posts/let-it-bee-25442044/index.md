@@ -36,9 +36,14 @@ styles: ["Pop Rock", "Indie Rock"]
 <!-- section break -->
 
 Let It Bee is the debut album by alternative rock band Voice of the Beehive. Released in 1988 on London Records, the album earned positive reviews from music critics and was a success on U.S. college radio stations. In the UK, the album reached #13 on the albums chart in its debut week ending 2 July 1988. The album peaked at #53 in Australia on the ARIA albums chart, and #40 in New Zealand.The group had their first top 40 hit single in the UK with "Don't Call Me Baby" from the album, which reached #15.  Let It Bee contained two bonus tracks on the U.S. edition (they were not listed on the CD cover, but were listed within the text on the disc).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/let-it-bee/1320002748" >}}
+{{< applemusic url="https://music.apple.com/gb/album/let-it-bee/1320002748" >}}<br>
+
+
 ## Videos
 ### Beat of Love - Voice of the Beehive
 {{< youtube id="KuGz-ZpqTWg" title="Beat of Love - Voice of the Beehive" >}}<br>
@@ -65,8 +70,6 @@ Let It Bee is the debut album by alternative rock band Voice of the Beehive. Rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Bee |
-| Wikipedia Summary | Let It Bee is the debut album by alternative rock band Voice of the Beehive. Released in 1988 on London Records, the album earned positive reviews from music critics and was a success on U.S. college radio stations. In the UK, the album reached #13 on the albums chart in its debut week ending 2 July 1988. The album peaked at #53 in Australia on the ARIA albums chart, and #40 in New Zealand.The group had their first top 40 hit single in the UK with "Don't Call Me Baby" from the album, which reached #15.  Let It Bee contained two bonus tracks on the U.S. edition (they were not listed on the CD cover, but were listed within the text on the disc). |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
 | Label          | London Records |
 | Catalog Number | LMS5521766 |

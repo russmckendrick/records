@@ -38,9 +38,14 @@ styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 
 Paris 1919 is the third solo studio album by Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.
 The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone. It was reissued on 19 June 2006 by Rhino Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paris-1919/1251616879" >}}
+{{< applemusic url="https://music.apple.com/gb/album/paris-1919/1251616879" >}}<br>
+
+
 ## Videos
 ### John Cale - Child's Christmas in Wales
 {{< youtube id="r9IKnVVRsmk" title="John Cale - Child's Christmas in Wales" >}}<br>
@@ -62,8 +67,6 @@ The album has received critical praise from several publications over the years,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paris_1919_(album) |
-| Wikipedia Summary | Paris 1919 is the third solo studio album by Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.<br>The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone. It was reissued on 19 June 2006 by Rhino Records. |
-| Release Year   | 1973                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Reprise Records |
 | Catalog Number | K44239 |

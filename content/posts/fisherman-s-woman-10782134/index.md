@@ -40,9 +40,12 @@ styles: ["Folk Rock", "Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fishermans-woman/259865722" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fishermans-woman/259865722" >}}<br>
+
+
 ## Videos
 ### Emiliana Torrini - Nothing Brings Me Down
 {{< youtube id="RRVlUGztsNM" title="Emiliana Torrini - Nothing Brings Me Down" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Folk Rock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP185 |

@@ -58,7 +58,10 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -67,7 +70,6 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1984                                   |
 | Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Vertigo |
 | Catalog Number | QUOTV 2 |

@@ -45,9 +45,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of-disk-1/121997782" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of-disk-1/121997782" >}}<br>
+
+
 ## Videos
 ### THE POLYPHONIC SPREE soldier girl
 {{< youtube id="4uzddaCSwpE" title="THE POLYPHONIC SPREE soldier girl" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2002                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | 679 |
 | Catalog Number | 679L011TLP |

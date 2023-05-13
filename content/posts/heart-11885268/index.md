@@ -43,9 +43,14 @@ The album features three regional covers: the Canadian cover features a man embr
 The album was originally released with a bonus promotional sampler of acts with current releases on Paper Bag, including Matthew Barber, Hawaii, The FemBots and Uncut. Two tracks from Heart were repeated on the sampler, along with a non-album bonus track, "Timeless."
 The US release includes a hidden bonus track, a live version of "The Comeback", originally taken from the 2001 EP of the same name. The track "Look Up" uses an English horn solo from the beginning of the third movement of Symphonie Fantastique by Hector Berlioz, and the track "The Woods" contains quotes from the movie Grey Gardens, the famed cult-classic documentary from 1975. Videos for the songs "Elevator Love Letter" and "Look Up" were shot to promote this album.
 The album was recorded in the bedroom of keyboard player Chris Seligman on Avenue Mont-Royal in Montreal.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/easy-stars-lonely-hearts-dub-band-bonus-track-version/309072993" >}}
+{{< applemusic url="https://music.apple.com/gb/album/easy-stars-lonely-hearts-dub-band-bonus-track-version/309072993" >}}<br>
+
+
 ## Videos
 ### Stars - Elevator Love Letter
 {{< youtube id="xU7KGcrD_gc" title="Stars - Elevator Love Letter" >}}<br>
@@ -62,8 +67,6 @@ The album was recorded in the bedroom of keyboard player Chris Seligman on Avenu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heart_(Stars_album) |
-| Wikipedia Summary | Heart is the second studio album by the Canadian indie rock band Stars, released on Paper Bag Records in Canada and on Arts & Crafts in the USA.<br>The album features three regional covers: the Canadian cover features a man embracing a woman who is resting on the man's lap, the US cover features a billboard with a woman's eyes gazing onward, and the European cover features three women spying out of a porthole.<br>The album was originally released with a bonus promotional sampler of acts with current releases on Paper Bag, including Matthew Barber, Hawaii, The FemBots and Uncut. Two tracks from Heart were repeated on the sampler, along with a non-album bonus track, "Timeless."<br>The US release includes a hidden bonus track, a live version of "The Comeback", originally taken from the 2001 EP of the same name. The track "Look Up" uses an English horn solo from the beginning of the third movement of Symphonie Fantastique by Hector Berlioz, and the track "The Woods" contains quotes from the movie Grey Gardens, the famed cult-classic documentary from 1975. Videos for the songs "Elevator Love Letter" and "Look Up" were shot to promote this album.<br>The album was recorded in the bedroom of keyboard player Chris Seligman on Avenue Mont-Royal in Montreal. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue Translucent, 140g) |
 | Label          | Last Gang Records |
 | Catalog Number | LGE-LP-1940 |

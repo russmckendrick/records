@@ -43,9 +43,14 @@ styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 <!-- section break -->
 
 Redlight is an album by the Slackers, released in 1997.The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/redlight/1485047063" >}}
+{{< applemusic url="https://music.apple.com/gb/album/redlight/1485047063" >}}<br>
+
+
 ## Videos
 ### The Slackers - Tin Tin Deo - [ Redlight ]
 {{< youtube id="EggsTYwhYk8" title="The Slackers - Tin Tin Deo - [ Redlight ]" >}}<br>
@@ -60,8 +65,6 @@ Redlight is an album by the Slackers, released in 1997.The band promoted the alb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Redlight_(The_Slackers_album) |
-| Wikipedia Summary | Redlight is an album by the Slackers, released in 1997.The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Clear w/ Oxblood, Cyan, & White Splatter) |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR167 |

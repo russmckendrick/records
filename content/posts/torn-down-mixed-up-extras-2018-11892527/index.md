@@ -53,7 +53,10 @@ styles: ["Alternative Rock", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -62,7 +65,6 @@ styles: ["Alternative Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Picture Disc |
 | Label          | Polydor |
 | Catalog Number | 0060256709992 (5) |

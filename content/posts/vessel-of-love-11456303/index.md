@@ -37,9 +37,12 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vessel-of-love/1289767295" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vessel-of-love/1289767295" >}}<br>
+
+
 ## Videos
 ### Hollie Cook Angel Fire
 {{< youtube id="GjThn4PMHyI" title="Hollie Cook Angel Fire" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink Translucent) |
 | Label          | Merge Records |
 | Catalog Number | MRG588 |

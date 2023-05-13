@@ -59,9 +59,12 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549" >}}
+{{< applemusic url="https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549" >}}<br>
+
+
 ## Videos
 ### Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)
 {{< youtube id="qtgv89oLCOU" title="Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Progressive Metal", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 3× LP Album (Green Olive, 180g), CD 2× Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 563 |

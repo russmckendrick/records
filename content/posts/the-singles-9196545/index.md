@@ -76,9 +76,14 @@ styles: ["Pop Rock", "Ballad"]
 <!-- section break -->
 
 The Singles is a compilation album by English drummer Phil Collins. It was released on 14 October 2016 through Atlantic Records and Warner Music. The album is Collins' fourth compilation album—after ...Hits (1998), The Platinum Collection (2004) and Love Songs: A Compilation... Old and New (2004)—and came at the end of his Take a Look at Me Now series, which saw him remaster and reissue his entire back catalogue dating back to 1981's Face Value. The compilation is made up of most of the hit singles from Collins' solo career, as well as lesser known singles. The album was released in two versions, a standard 2-CD edition and a deluxe 3-CD edition. A vinyl edition was also released, first available as a 4-LP set with the same track list as in standard 2-CD edition, but it was, in 2018, replaced with a 2-LP set, which have only 19 selected tracks from previous version.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-singles-deluxe-edition/1148701635" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-singles-deluxe-edition/1148701635" >}}<br>
+
+
 ## Videos
 ### Phil Collins - Sussudio (Remastered Video) (1985)
 {{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}<br>
@@ -99,8 +104,6 @@ The Singles is a compilation album by English drummer Phil Collins. It was relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Singles_(Phil_Collins_album) |
-| Wikipedia Summary | The Singles is a compilation album by English drummer Phil Collins. It was released on 14 October 2016 through Atlantic Records and Warner Music. The album is Collins' fourth compilation album—after ...Hits (1998), The Platinum Collection (2004) and Love Songs: A Compilation... Old and New (2004)—and came at the end of his Take a Look at Me Now series, which saw him remaster and reissue his entire back catalogue dating back to 1981's Face Value. The compilation is made up of most of the hit singles from Collins' solo career, as well as lesser known singles. The album was released in two versions, a standard 2-CD edition and a deluxe 3-CD edition. A vinyl edition was also released, first available as a 4-LP set with the same track list as in standard 2-CD edition, but it was, in 2018, replaced with a 2-LP set, which have only 19 selected tracks from previous version. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 4× LP Compilation Remastered, Box Set |
 | Label          | Atlantic |
 | Catalog Number | 081227945909 |

@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 Black Sunday is the second studio album by American hip hop group Cypress Hill. It was released on July 20, 1993, by Ruffhouse and Columbia Records. The album proved to be a massive success just like the first album Cypress Hill. The album debuted at #1 on the US Billboard 200, selling 261,000 copies in its first week of sales and became the highest Soundscan recording for a hip hop group at the time. Also, with their first album (Cypress Hill) still in the charts, they became the first hip hop group ever to have 2 albums in the Top 10 of the U.S. Billboard 200 at the same time. The album went Triple platinum in the U.S. with 3.4 million units sold.As Cypress Hill advocates for medical and recreational use of cannabis the booklet of the album contains 19 facts about the history of hemp and the positive attributes of cannabis.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-sunday/266797392" >}}
+{{< applemusic url="https://music.apple.com/gb/album/black-sunday/266797392" >}}<br>
+
+
 ## Videos
 ### Cypress Hill - Insane In The Brain (Official Video)
 {{< youtube id="RijB8wnJCN0" title="Cypress Hill - Insane In The Brain (Official Video)" >}}<br>
@@ -60,8 +65,6 @@ Black Sunday is the second studio album by American hip hop group Cypress Hill. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Sunday_(Cypress_Hill_album) |
-| Wikipedia Summary | Black Sunday is the second studio album by American hip hop group Cypress Hill. It was released on July 20, 1993, by Ruffhouse and Columbia Records. The album proved to be a massive success just like the first album Cypress Hill. The album debuted at #1 on the US Billboard 200, selling 261,000 copies in its first week of sales and became the highest Soundscan recording for a hip hop group at the time. Also, with their first album (Cypress Hill) still in the charts, they became the first hip hop group ever to have 2 albums in the Top 10 of the U.S. Billboard 200 at the same time. The album went Triple platinum in the U.S. with 3.4 million units sold.As Cypress Hill advocates for medical and recreational use of cannabis the booklet of the album contains 19 facts about the history of hemp and the positive attributes of cannabis. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Numbered Reissue (180Gram) |
 | Label          | Ruffhouse Records |
 | Catalog Number | 88765493481 |

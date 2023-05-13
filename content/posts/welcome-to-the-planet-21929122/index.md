@@ -37,9 +37,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-planet/1591312364" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-planet/1591312364" >}}<br>
+
+
 ## Videos
 ### Welcome to the Planet
 {{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Special Edition Stereo (180 Gram, Transparent Red) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG105 |

@@ -44,9 +44,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/young-sick-camellia/1415203559" >}}
+{{< applemusic url="https://music.apple.com/gb/album/young-sick-camellia/1415203559" >}}<br>
+
+
 ## Videos
 ### St. Paul & The Broken Bones - Apollo
 {{< youtube id="mHEPoG11EtE" title="St. Paul & The Broken Bones - Apollo" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Records (11) |
 | Catalog Number | 19075878101 |

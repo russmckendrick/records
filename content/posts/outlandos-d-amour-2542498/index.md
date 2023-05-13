@@ -40,9 +40,12 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/outlandos-damour-remastered/1440797181" >}}
+{{< applemusic url="https://music.apple.com/gb/album/outlandos-damour-remastered/1440797181" >}}<br>
+
+
 ## Videos
 ### The Police - Roxanne
 {{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Misprint Reissue Stereo (180g) |
 | Label          | A&M Records |
 | Catalog Number | 0082839475310 |

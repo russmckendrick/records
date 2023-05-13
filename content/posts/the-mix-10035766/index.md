@@ -51,9 +51,14 @@ styles: ["Electro"]
 The Mix is the tenth studio album by the German electronic music band Kraftwerk. It was released on 11 June 1991 by Kling Klang and EMI in Europe and by Elektra Records in North America. It has entirely re-arranged and re-recorded versions of a selection of songs which had originally appeared on Kraftwerk's albums Autobahn (1974) to Electric Café (1986). Some of the songs, such as "The Robots" and "Radioactivity", have new additional melodies and/or lyrics.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-mix-2009-remaster/726287427" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-mix-2009-remaster/726287427" >}}<br>
+
+
 ## Videos
 ### Kraftwerk   The Mix Full Album + Bonus Tracks 1991   English Version SD, 854x480
 {{< youtube id="lnVEj5H0rpU" title="Kraftwerk   The Mix Full Album + Bonus Tracks 1991   English Version SD, 854x480" >}}<br>
@@ -66,8 +71,6 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Mix_(Kraftwerk_album) |
-| Wikipedia Summary | The Mix is the tenth studio album by the German electronic music band Kraftwerk. It was released on 11 June 1991 by Kling Klang and EMI in Europe and by Elektra Records in North America. It has entirely re-arranged and re-recorded versions of a selection of songs which had originally appeared on Kraftwerk's albums Autobahn (1974) to Electric Café (1986). Some of the songs, such as "The Robots" and "Radioactivity", have new additional melodies and/or lyrics.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6605219 |

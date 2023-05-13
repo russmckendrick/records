@@ -109,7 +109,10 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -118,7 +121,6 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Box Set Compilation, Vinyl LP Album Remastered Repress (180 Gram), Vinyl LP Album Remastered Repress (180 Gram), Vinyl LP Album Remastered Repress (180 Gram), Vinyl LP Album Remastered Repress (180 Gram), Vinyl 2× LP Album Reissue Remastered (180 Gram), Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 0602537529193v |

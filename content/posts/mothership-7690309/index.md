@@ -51,9 +51,15 @@ styles: ["Hard Rock", "Classic Rock"]
 <!-- section break -->
 
 Mothership is a compilation album by English rock band Led Zeppelin, released by Atlantic Records and Rhino Entertainment on 12 November 2007 in the United Kingdom, and 13 November 2007 in the United States. It was released on the same day that Led Zeppelin's entire catalogue became available in digital stores, including the iTunes Store. The cover was designed by artist Shepard Fairey.The songs included were chosen by the surviving members of Led Zeppelin, Robert Plant, Jimmy Page and John Paul Jones, and represent the band's eight studio albums. In addition to a two-disc set, the album is also available in both "deluxe" and "collector's" editions with a DVD featuring varied live content from the previously released Led Zeppelin DVD (2003). A 4-LP vinyl package was also released on 26 August 2008. On 6 November 2015, the album was reissued using the audio from the band's 2014–15 remaster campaign.On 8 November 2007, a temporary XM Satellite Radio station, XM LED was made to promote the album.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mothership-remastered/1052497413" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mothership-remastered/1052497413" >}}<br>
+
+
 
 
 ## Release Images
@@ -63,8 +69,6 @@ Mothership is a compilation album by English rock band Led Zeppelin, released by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mothership_(Led_Zeppelin_album) |
-| Apple Music Summary | Mothership is Jimmy Page’s hand-curated selection of the best of Led Zeppelin, and it’s the ultimate showcase of their proto-metal skills. The intuitive interplay between John Bonham’s drums and Page’s guitar riffs created some of the leanest hard rock on record—“Black Dog,” “Whole Lotta Love”—providing cocksure backup to Robert Plant’s lascivious screams. Equally skilled as bluesmen—“Since I’ve Been Loving You” is particularly aching—they reached a compositional peak in the Eastern strings of “Kashmir” and the folk-prog epic “Stairway to Heaven,” rock standards that retain an otherworldly power. |
-    | Release Year   | 2015                                   |
 | Format         | Box Set, Vinyl 4× LP Compilation Enhanced Reissue Remastered (Embossed, 180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 344700 |

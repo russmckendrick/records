@@ -45,9 +45,12 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}
+{{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}<br>
+
+
 ## Videos
 ### Senser - Age of Panic (Official Video)
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1994                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered (Yellow Fluorescent) |
 | Label          | Ultimate |
 | Catalog Number | topp lp008s |

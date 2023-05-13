@@ -44,9 +44,15 @@ styles: ["Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled album and 1977’s <i>Rumours</i>. Christine McVie penned some stellar songs as evidenced by the gossamer “Everywhere” and the seductive “Tell Me Lies” from the underrated 1987 album <i>Tango In The Night</i>. Lindsay Buckingham’s most memorable songs surface, such as the catchy strut of “Don’t Stop,” the anthemic “Go Your Own Way” and the weirdly brilliant title-track from 1979’s <i>Tusk</i>.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}<br>
+
+
 ## Videos
 ### Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album
 {{< youtube id="ohy8E4TJaZE" title="Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album" >}}<br>
@@ -59,8 +65,6 @@ The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(1971_Fleetwood_Mac_album) |
-| Wikipedia Summary | Greatest Hits is a compilation album by the British blues rock band Fleetwood Mac released on CBS Records in the United Kingdom in 1971. The album assembles the band's hit singles in the UK covering the period from the band's beginning in 1968 to 1971, mostly in its original incarnation led by guitarist Peter Green. It peaked at No. 36 on the UK Albums Chart.<br><br> |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122795935 |

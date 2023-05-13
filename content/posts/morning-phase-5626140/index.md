@@ -52,9 +52,15 @@ styles: ["Folk", "Alternative Rock"]
 <!-- section break -->
 
 In the more than five years separating the release of <i>Modern Guilt</i> and <i>Morning Phase</i>, the multifaceted producer/songwriter continued to embellish his prolific, diverse career: he produced a clutch of beautiful albums (including Charlotte Gainsbourg’s <i>IRM</i> and Thurston Moore’s <i>Demolished Thoughts</i>) and undertook a number of visionary collaborative projects. With its lushness and atmospheric beauty, <i>Morning Phase</i> is his most accomplished (and straightforward) musical endeavour since his beloved 2002 album, <i>Sea Change</i>. In fact, many of the core musicians who played on <i>Sea Change</i>—including guitarist Smokey Hormel, bassist/multi-instrumentalist Justin Meldal-Johnsen and ex-Jellyfish keyboardist Roger Joseph Manning Jr.—give <i>Morning Phase</i> its finely detailed instrumental warmth. “Heart Is a Drum” sets the tone early with its glowing combination of acoustic instruments, luxurious electronics and elegant vocal harmonies. The other meditative highlights include the hazy, impressionistic orchestral sweep of “Wave” and the reflexive multi-tracked melody of “Morning”. This is an achingly beautiful collection of songwriting from one of pop music’s postmodern masters.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/morning-phase/1440857105" >}}
+{{< applemusic url="https://music.apple.com/gb/album/morning-phase/1440857105" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,8 +70,6 @@ In the more than five years separating the release of <i>Modern Guilt</i> and <i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Morning_Phase |
-| Wikipedia Summary | Morning Phase is the twelfth official studio album and twelfth overall by American singer Beck. The album was released in February 2014 by his new label, Capitol Records. According to a press release, Morning Phase is a "companion piece" to Beck's 2002 album Sea Change. Almost every credited musician who recorded parts for Sea Change returned to record for Morning Phase, with the sole exception being Sea Change producer Nigel Godrich.<br>Upon release, the album received critical acclaim and was nominated for five awards at the 57th Annual Grammy Awards, winning three: Album of the Year, Best Engineered Album, Non-Classical and Best Rock Album. Beck performed the album's song "Heart Is a Drum" with Chris Martin at the ceremony. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 0602537649747 |

@@ -41,9 +41,14 @@ styles: ["Hard Rock"]
 Lean into It is the second studio album by the American rock band Mr. Big, released on March 26, 1991. The band's breakthrough release, Lean into It peaked at number 15 on the Billboard 200 charts, while the single "To Be with You" became the band's first and only song to hit number 1 on the Billboard Hot 100. The follow-up single, "Just Take My Heart", was a top-20 hit, peaking at number 16 on the Billboard Hot 100."Daddy, Brother, Lover, Little Boy" features Gilbert and Sheehan running Makita cordless drills over their guitar strings in harmony to create an unusually fast solo which is likely not possible to replicate with hands. The "CDFF" prefix of the Jeff Paris-penned "Lucky This Time", is the song "Addicted to That Rush" from the band's 1989 eponymous debut album, played at a higher playback speed; hence the "CDFF" for "Compact Disc Fast Forward", "CDFF" is also the chord structure to the song.
 The cover image is a picture from the Montparnasse train accident that occurred on October 22, 1895 in Gare Montparnasse station in Paris, France.
 The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Metal Albums of All Time.The album includes the psychedelic rock song "Green-Tinted Sixties Mind".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lean-into-it-expanded-edition/1270103288" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lean-into-it-expanded-edition/1270103288" >}}<br>
+
+
 ## Videos
 ### Mr. Big - To Be With You 4K Video
 {{< youtube id="L6-uJLteKek" title="Mr. Big - To Be With You 4K Video" >}}<br>
@@ -59,8 +64,6 @@ The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Meta
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lean_into_It |
-| Wikipedia Summary | Lean into It is the second studio album by the American rock band Mr. Big, released on March 26, 1991. The band's breakthrough release, Lean into It peaked at number 15 on the Billboard 200 charts, while the single "To Be with You" became the band's first and only song to hit number 1 on the Billboard Hot 100. The follow-up single, "Just Take My Heart", was a top-20 hit, peaking at number 16 on the Billboard Hot 100."Daddy, Brother, Lover, Little Boy" features Gilbert and Sheehan running Makita cordless drills over their guitar strings in harmony to create an unusually fast solo which is likely not possible to replicate with hands. The "CDFF" prefix of the Jeff Paris-penned "Lucky This Time", is the song "Addicted to That Rush" from the band's 1989 eponymous debut album, played at a higher playback speed; hence the "CDFF" for "Compact Disc Fast Forward", "CDFF" is also the chord structure to the song.<br>The cover image is a picture from the Montparnasse train accident that occurred on October 22, 1895 in Gare Montparnasse station in Paris, France.<br>The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Metal Albums of All Time.The album includes the psychedelic rock song "Green-Tinted Sixties Mind". |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (White) |
 | Label          | Evoxs |
 | Catalog Number | EVLP036 |

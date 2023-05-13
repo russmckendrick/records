@@ -207,7 +207,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -216,7 +219,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Compilation, All Media Reissue Remastered Mono (180g) |
 | Label          | BMG |
 | Catalog Number | KINKSBOX003 |

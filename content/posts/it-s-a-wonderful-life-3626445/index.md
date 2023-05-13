@@ -39,9 +39,12 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-a-wonderful-life/1461512623" >}}
+{{< applemusic url="https://music.apple.com/gb/album/its-a-wonderful-life/1461512623" >}}<br>
+
+
 ## Videos
 ### Sparklehorse - It's a wonderful life
 {{< youtube id="AGZsQf6WjHI" title="Sparklehorse - It's a wonderful life" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Lo-Fi", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Plain Recordings |
 | Catalog Number | Plain176 |

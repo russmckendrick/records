@@ -40,9 +40,12 @@ styles: ["Theme"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/television-themes/1414662713" >}}
+{{< applemusic url="https://music.apple.com/gb/album/television-themes/1414662713" >}}<br>
+
+
 ## Videos
 ### The Good Life
 {{< youtube id="XiaGzoiHX1s" title="The Good Life" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Theme"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Orange) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP450 |

@@ -42,9 +42,15 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 <!-- section break -->
 
 <i>Prisoner</i> continues to refine the sound that Ryan Adams first explored with his 2014 self-titled album: a sure-handed mix of <i>Tunnel of Love</i>-era Springsteen, ‘80s college rock, and soft-focus synths. A track like “Anything I Say to You Now” illustrates how perfectly this formula suits him; a Smiths-esque jangle of guitars gives sentimental depth to his plain-spoken refrain, “Anything I say to you now is just a lie.” As he works through the rest of the emotional wreckage, highlights like "Shiver and Shake” prove that Adams’ poignancy as a songwriter can still bring us to our knees.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/prisoner/1440888762" >}}
+{{< applemusic url="https://music.apple.com/gb/album/prisoner/1440888762" >}}<br>
+
+
 ## Videos
 ### Ryan Adams - Do You Still Love Me? (Audio)
 {{< youtube id="U-qfQcJveDw" title="Ryan Adams - Do You Still Love Me? (Audio)" >}}<br>
@@ -61,8 +67,6 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prisoner_(Ryan_Adams_album) |
-| Wikipedia Summary | Prisoner is the sixteenth studio album by American singer-songwriter Ryan Adams. It was released on February 17, 2017. The album is Adams' first album of original material since his 2014 album, Ryan Adams, and was preceded by the singles "Do You Still Love Me?", "To Be Without You", and "Doomsday". |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 058 |

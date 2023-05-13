@@ -48,9 +48,15 @@ styles: ["Classic Rock"]
 Moondance is the third studio album by Northern Irish singer-songwriter Van Morrison. It was released on 27 January 1970 by Warner Bros. Records. After the commercial failure of his first Warner Bros. album Astral Weeks (1968), Morrison moved to upstate New York with his wife and began writing songs for Moondance. There, he met the musicians that would record the album with him at New York City's A & R Studios in August and September 1969.
 The album found Morrison abandoning the abstract folk jazz compositions of Astral Weeks in favour of more formally composed songs, which he wrote and produced entirely himself. Its lively rhythm and blues/rock music was the style he would become most known for in his career. The music incorporated soul, jazz, pop, and Irish folk sounds into songs about finding spiritual renewal and redemption in worldly matters such as nature, music, romantic love, and self-affirmation.
 Moondance was an immediate critical and commercial success. It helped establish Morrison as a major artist in popular music, while several of its songs became staples on FM radio in the early 1970s. Among the most acclaimed records in history, Moondance frequently ranks in professional listings of the greatest albums. In 2013, the album's remastered deluxe edition was released to similar acclaim.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/moondance/712727450" >}}
+{{< applemusic url="https://music.apple.com/gb/album/moondance/712727450" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ Moondance was an immediate critical and commercial success. It helped establish 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moondance |
-| Apple Music Summary | Few albums define an era like <i>Moondance</i>, a 1970 release that brings together several of our all-time favourite Van Morrison tracks. The opener, “And It Stoned Me,” simmers with the swaggering soul inflection that runs through most of the album. But the fusion of jazz, folk, R&B and Irish mysticism is a stylistic playground for the volcanic vocalist. He’s clearly having a blast—whether he's gliding through the Sinatra-esque title track or belting out a full-throated command to “turn it up…the radio” on “Caravan”.  |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Orange Translucent) |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1 1835 |

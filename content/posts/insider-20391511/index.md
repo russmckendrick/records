@@ -44,9 +44,14 @@ styles: ["Prog Rock", "Hard Rock"]
 Insider is the second album of the Manchester alternative rock band Amplifier. It was released in 2006 by the German-based label SPV on 29 September in Germany and Austria then in the rest of Europe on 2 October.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/insider/1189715758" >}}
+{{< applemusic url="https://music.apple.com/gb/album/insider/1189715758" >}}<br>
+
+
 ## Videos
 ### Amplifier -- Insider
 {{< youtube id="c3K6-ljo7UQ" title="Amplifier -- Insider" >}}<br>
@@ -59,8 +64,6 @@ Insider is the second album of the Manchester alternative rock band Amplifier. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Insider_(album) |
-| Wikipedia Summary | Insider is the second album of the Manchester alternative rock band Amplifier. It was released in 2006 by the German-based label SPV on 29 September in Germany and Austria then in the rest of Europe on 2 October.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Rockosmos |
 | Catalog Number | ROK141 |

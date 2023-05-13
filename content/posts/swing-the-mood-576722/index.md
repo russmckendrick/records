@@ -31,9 +31,12 @@ styles: ["Rock & Roll"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/swing-the-mood-the-definitive-collection/326033547" >}}
+{{< applemusic url="https://music.apple.com/gb/album/swing-the-mood-the-definitive-collection/326033547" >}}<br>
+
+
 ## Videos
 ### Jive Bunny and the Mastermixers - SWING THE MOOD
 {{< youtube id="d7zF10x8NWw" title="Jive Bunny and the Mastermixers - SWING THE MOOD" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl 12" 45 RPM Single (Sonopress Pressing) |
 | Label          | Music Factory |
 | Catalog Number | MFDT 001 |

@@ -40,9 +40,12 @@ styles: ["Leftfield", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-secret-of-letting-go/1449335374" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-secret-of-letting-go/1449335374" >}}<br>
+
+
 ## Videos
 ### Phosphorous
 {{< youtube id="VBnCyT4a-_s" title="Phosphorous" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Leftfield", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (180g Gatefold) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP728 |

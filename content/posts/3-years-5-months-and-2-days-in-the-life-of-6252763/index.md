@@ -41,9 +41,14 @@ styles: ["Conscious"]
 
 3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.
 The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160" >}}
+{{< applemusic url="https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160" >}}<br>
+
+
 ## Videos
 ### People Everyday - Arrested Development
 {{< youtube id="QlKWz_FcVoo" title="People Everyday - Arrested Development" >}}<br>
@@ -72,8 +77,6 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/3_Years,_5_Months_and_2_Days_in_the_Life_Of... |
-| Wikipedia Summary | 3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.<br>The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Cooltempo |
 | Catalog Number | MOVLP890 |

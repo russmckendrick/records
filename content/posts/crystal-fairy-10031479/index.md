@@ -49,9 +49,15 @@ styles: []
 <!-- section break -->
 
 Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed in 2016. The band consisted of Melvins' Buzz Osborne (guitar) and Dale Crover (drums), alongside Le Butcherettes' Teri Gender Bender (vocals) and Omar Rodríguez-López (bass) of At the Drive-In / The Mars Volta / Antemasque fame.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/crystal-fairy/1183014173" >}}
+{{< applemusic url="https://music.apple.com/gb/album/crystal-fairy/1183014173" >}}<br>
+
+
 ## Videos
 ### Chiseler
 {{< youtube id="_VYnkOJrjUY" title="Chiseler" >}}<br>
@@ -75,8 +81,6 @@ Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Crystal_Fairy_(band) |
-| Apple Music Summary | The debut album from Crystal Fairy, a supergroup of musicians from At the Drive-In, Le Butcherettes, and the Melvins, meditates on the mind of an artist. A whirlwind of delightfully rebellious, avant-garde sludge, it feels paranoid, panicked, and pressing, with wild tempos that suddenly spike or dip. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Lavender) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC-180LP-LV / IPC-180 |

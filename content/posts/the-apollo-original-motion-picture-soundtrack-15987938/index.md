@@ -61,9 +61,13 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6pjGpesm1IXSEQ0VEdebo2" width="100%" height="500" >}}
+{{< spotify type="album" id="6pjGpesm1IXSEQ0VEdebo2" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -72,7 +76,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Stereo (180gr.) |
 | Label          | Blue Note |
 | Catalog Number | 602508383793 |

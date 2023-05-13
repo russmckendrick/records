@@ -38,9 +38,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/deception-bay/1324894051" >}}
+{{< applemusic url="https://music.apple.com/gb/album/deception-bay/1324894051" >}}<br>
+
+
 ## Videos
 ### Milkbone Album Trailer
 {{< youtube id="OdeILt8MV1U" title="Milkbone Album Trailer" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Limited Edition (Red Vinyl) |
 | Label          | Milkbone |
 | Catalog Number | Milkbone001 |

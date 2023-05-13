@@ -38,9 +38,15 @@ styles: ["Soul"]
 <!-- section break -->
 
 Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green. In 2003, the album was ranked number 52 on Rolling Stone magazine's list of the 500 greatest albums of all time, maintaining the rating in a 2012 revised list. The album's ranking dropped to number 456 in the 2020 revised list. The compilation has consistently ranked as one of the best executed 'greatest hits' albums in history. The album peaked at No. 3 on the Billboard Top Soul LPs  chart and No. 17 on the Top LPs chart.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1203896404" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1203896404" >}}<br>
+
+
 ## Videos
 ### Tired of Being Alone
 {{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}<br>
@@ -64,8 +70,6 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Al_Green%27s_Greatest_Hits |
-| Apple Music Summary | It simply doesn’t get better than “Tired of Being Alone,” “Let’s Stay Together,” and “I’m Still In Love With You.” Green’s otherworldly improvisations in such compact space made the singles all the more revelatory. The productions knew how to squeeze every essential nuance into the limited space without losing an ounce of power. |
-    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Hi Records |
 | Catalog Number | HIUKLP 425 |

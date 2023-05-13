@@ -56,7 +56,10 @@ styles: ["Punk", "Power Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Teenage Kicks
 {{< youtube id="u-mnSIbGTk0" title="Teenage Kicks" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Punk", "Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP (Purple Transparent), Vinyl LP (White), All Media Compilation Limited Edition |
 | Label          | BMG |
 | Catalog Number | SALVO426DLP |

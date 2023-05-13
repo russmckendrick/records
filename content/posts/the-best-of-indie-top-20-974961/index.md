@@ -52,7 +52,10 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Pixies - Monkey Gone To Heaven
 {{< youtube id="XycBLF6kWuY" title="The Pixies - Monkey Gone To Heaven" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | BOTT 001 |

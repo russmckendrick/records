@@ -33,9 +33,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/drive/1045638252" >}}
+{{< applemusic url="https://music.apple.com/gb/album/drive/1045638252" >}}<br>
+
+
 ## Videos
 ### Anneke van Giersbergen - We Live On
 {{< youtube id="TMSRPlQS4fY" title="Anneke van Giersbergen - We Live On" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-058LP |

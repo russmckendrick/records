@@ -47,9 +47,14 @@ styles: ["Britpop", "Downtempo", "Indie Rock"]
 The Last Broadcast is the second studio album by British indie rock band Doves. The album was released by Heavenly Recordings on 29 April 2002, and went straight to number 1 on the UK Albums Chart. The album's first single "There Goes the Fear" entered the UK Singles Chart at number 3, the band's highest-charting single to date, despite being released and deleted on the same day. Two further singles, "Pounding" and "Caught by the River", were also successful, charting in the Top 30. The Last Broadcast garnered critical acclaim upon its release, and was a shortlist nominee for the Mercury Prize in 2002.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-last-broadcast/724582643" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-last-broadcast/724582643" >}}<br>
+
+
 ## Videos
 ### Intro
 {{< youtube id="Xupes6H56DA" title="Intro" >}}<br>
@@ -74,8 +79,6 @@ The Last Broadcast is the second studio album by British indie rock band Doves. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Last_Broadcast_(album) |
-| Wikipedia Summary | The Last Broadcast is the second studio album by British indie rock band Doves. The album was released by Heavenly Recordings on 29 April 2002, and went straight to number 1 on the UK Albums Chart. The album's first single "There Goes the Fear" entered the UK Singles Chart at number 3, the band's highest-charting single to date, despite being released and deleted on the same day. Two further singles, "Pounding" and "Caught by the River", were also successful, charting in the Top 30. The Last Broadcast garnered critical acclaim upon its release, and was a shortlist nominee for the Mercury Prize in 2002.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Orange) |
 | Label          | Heavenly |
 | Catalog Number | 7748263 |

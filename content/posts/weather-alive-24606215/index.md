@@ -43,9 +43,14 @@ styles: ["Ethereal"]
 Weather Alive is the eighth studio album by English singer-songwriter Beth Orton. The album was released on 23 September 2022 by Partisan Records.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/weather-alive/1624041691" >}}
+{{< applemusic url="https://music.apple.com/gb/album/weather-alive/1624041691" >}}<br>
+
+
 ## Videos
 ### Beth Orton - Weather Alive (Official Music Video)
 {{< youtube id="JkSBgl8278E" title="Beth Orton - Weather Alive (Official Music Video)" >}}<br>
@@ -64,8 +69,6 @@ Weather Alive is the eighth studio album by English singer-songwriter Beth Orton
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weather_Alive |
-| Wikipedia Summary | Weather Alive is the eighth studio album by English singer-songwriter Beth Orton. The album was released on 23 September 2022 by Partisan Records.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (Transparent [Clear]) |
 | Label          | Partisan Records |
 | Catalog Number | PTKF3023-3 |

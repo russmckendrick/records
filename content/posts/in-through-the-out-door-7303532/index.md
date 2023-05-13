@@ -39,9 +39,15 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 <!-- section break -->
 
 <i>In Through the Out Door</i>, Led Zeppelin’s final studio album, was also one of the few pre-SoundScan era releases to debut atop the Billboard chart. Coming after a three-year-plus wait, the record delivers some of Zeppelin’s most ambitious work. The Latin-tinged “Fool in the Rain” again demonstrates the quartet’s unique approach to dance music, while the pomp-rock spectacular “Carouselambra” allows John Paul Jones’ keyboards to take the spotlight. The definitively silly country romp “Hot Dog,” though, is maybe the least typical thing to ever come from this always surprising band. And the album's closer, “I’m Gonna Crawl,” proves that Led Zep had hardly forgotten the meat-and-potatoes thud that first won them an audience. If a great band need leave the stage, let it always be with such happily venturesome sounds.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-through-the-out-door-remastered/580707622" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-through-the-out-door-remastered/580707622" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +57,6 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Through_the_Out_Door |
-| Wikipedia Summary | In Through the Out Door is the eighth and final studio album by the English rock band Led Zeppelin.  It was recorded in three weeks in November and December 1978 at ABBA's Polar Studios in Stockholm, Sweden, and released by Swan Song Records on 15 August 1979. Unlike earlier Led Zeppelin albums, In Through the Out Door was dominated musically by John Paul Jones. It was the band's last studio release before they disbanded in December 1980 after the death of their drummer John Bonham three months earlier.The album was a huge commercial success; it went to No. 1 on the Billboard 200 in just its second week on the American chart. It also went to No. 1 in the UK, Canada, and New Zealand. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo ("A" Sleeve Variant ,180 Gram) |
 | Label          | Swan Song |
 | Catalog Number | 8122796574 |

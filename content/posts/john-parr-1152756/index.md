@@ -40,9 +40,14 @@ styles: ["Hard Rock", "Pop Rock"]
 
 John Parr is the self-titled debut album by John Parr, released in 1984. It contains 3 Billboard Top 100 songs: "Magical" which peaked at #73, "Love Grammar" at #89, and the biggest of the three, "Naughty Naughty", which peaked at #23 and was a top 10 AOR hit.
 "St. Elmo's Fire (Man in Motion)" is included on the 1985 London Records issue of the album (#LONLP 12) in the UK. It hit number one on the Billboard Hot 100 on September 7, 1985, remaining there for two weeks. It was the main theme for the Joel Schumacher's 1985 film St. Elmo's Fire. The song also peaked at number six in the UK, Parr's home country and became a number-one hit for John Parr around the world and provided many awards and a Grammy nomination.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/st-elmos-fire-anniversary-edition-single/711914155" >}}
+{{< applemusic url="https://music.apple.com/gb/album/st-elmos-fire-anniversary-edition-single/711914155" >}}<br>
+
+
 ## Videos
 ### John Parr - Naughty Naughty (Official Music Video)
 {{< youtube id="syhrz_AMLQU" title="John Parr - Naughty Naughty (Official Music Video)" >}}<br>
@@ -70,8 +75,6 @@ John Parr is the self-titled debut album by John Parr, released in 1984. It cont
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/John_Parr_(album) |
-| Wikipedia Summary | John Parr is the self-titled debut album by John Parr, released in 1984. It contains 3 Billboard Top 100 songs: "Magical" which peaked at #73, "Love Grammar" at #89, and the biggest of the three, "Naughty Naughty", which peaked at #23 and was a top 10 AOR hit.<br>"St. Elmo's Fire (Man in Motion)" is included on the 1985 London Records issue of the album (#LONLP 12) in the UK. It hit number one on the Billboard Hot 100 on September 7, 1985, remaining there for two weeks. It was the main theme for the Joel Schumacher's 1985 film St. Elmo's Fire. The song also peaked at number six in the UK, Parr's home country and became a number-one hit for John Parr around the world and provided many awards and a Grammy nomination. |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | LONLP 12 |

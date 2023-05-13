@@ -44,9 +44,12 @@ styles: ["Modern Classical"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ibm-1401-a-users-manual/311183849" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ibm-1401-a-users-manual/311183849" >}}<br>
+
+
 ## Videos
 ### Johann Johannsson - Part 1/ IBM 1401 Processing Unit
 {{< youtube id="tUkgJWxCyR0" title="Johann Johannsson - Part 1/ IBM 1401 Processing Unit" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Modern Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue (Clear) |
 | Label          | 4AD |
 | Catalog Number | DAD 2609 |

@@ -40,9 +40,15 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 <!-- section break -->
 
 Coming Up is the third album by English alternative rock band Suede, released on 2 September 1996 through Nude Records. It was the band's first album since the departure of guitarist Bernard Butler, who was replaced by Richard Oakes. Also added to the band was keyboardist (and Simon Gilbert's cousin) Neil Codling. The album was nominated for the 1997 Mercury Prize. A commercial and critical success, Coming Up was the second by the band to reach no. 1 on the UK Albums Chart, producing five top ten singles and receiving a favourable reception at home and in the US. Coming Up was the album that introduced Suede to a worldwide audience, in places such as Europe, Canada and Asia.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coming-up-remastered-deluxe-edition/437633399" >}}
+{{< applemusic url="https://music.apple.com/gb/album/coming-up-remastered-deluxe-edition/437633399" >}}<br>
+
+
 ## Videos
 ### [Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p
 {{< youtube id="aGah_flIerg" title="[Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p" >}}<br>
@@ -66,8 +72,6 @@ Coming Up is the third album by English alternative rock band Suede, released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coming_Up_(album) |
-| Apple Music Summary | Far from stalling Suede, the departure of guitarist Bernard Butler seems to loosen them up. With snake hips, <i>Coming Up</i> wriggles free of <i>Dog Man Star</i>’s claustrophobia and Brett Anderson's melodramas ring with more defiance than despair. New boy Richard Oakes is a faithful substitute for Butler’s spidery effervescence on cocksure stomps “Trash” and “Beautiful Ones”, and “Saturday Night” confirms that they can still shape melancholy and nihilism into a gorgeous ballad. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 3 |

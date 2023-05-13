@@ -76,9 +76,15 @@ OKNOTOK comprises remastered versions of OK Computer and its B-sides, plus three
 Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music videos were released for the three new songs, and "I Promise" and "Man of War" were released as singles. OKNOTOK debuted at number two in the UK Albums Chart and was the bestselling album in UK independent record stores for a year. In the US, it reached number 23 on the Billboard 200. It received critical acclaim.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ok-computer-oknotok-1997-2017/1239489060" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ok-computer-oknotok-1997-2017/1239489060" >}}<br>
+
+
 ## Videos
 ### Radiohead - Karma Police
 {{< youtube id="1uYWYWPc9HU" title="Radiohead - Karma Police" >}}<br>
@@ -106,8 +112,6 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/OK_Computer_OKNOTOK_1997_2017 |
-| Apple Music Summary | “One of the <i>crazy</i> things we did was not release this song because we didn’t think it was good enough.” That was Thom Yorke’s message to a Norwegian crowd in June 2017 before Radiohead played “I Promise” live for the first time since 1996. The centrepiece of <i>OKNOTOK</i>’s second set of unreleased tracks and B-sides, it’s a startlingly beautiful snapshot of the band’s ridiculous post-<i>The Bends</i>, <i>OK Computer</i>-era potency. Elsewhere, “Lift” is another glistening gem from the vaults and “Meeting in the Aisle” provides a reminder of the band’s haunting way around an instrumental. A remastered <i>OK Computer</i>, meanwhile, remains the foreboding masterpiece it ever was. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue, Vinyl LP Compilation, All Media Limited Edition Remastered (Blue Opaque, 180 Gram) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP868X |

@@ -38,9 +38,12 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/if-you-cant-stand-the-heat/1443422494" >}}
+{{< applemusic url="https://music.apple.com/gb/album/if-you-cant-stand-the-heat/1443422494" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723771 |

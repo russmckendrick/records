@@ -42,9 +42,14 @@ styles: ["Ambient"]
 <!-- section break -->
 
 Music for Psychedelic Therapy is the sixth studio album by English electronic music producer Jon Hopkins, released on 12 November 2021 by Domino Recording Company.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-for-psychedelic-therapy/1581582605" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-for-psychedelic-therapy/1581582605" >}}<br>
+
+
 ## Videos
 ### Welcome
 {{< youtube id="YhRybYyrNaI" title="Welcome" >}}<br>
@@ -66,8 +71,6 @@ Music for Psychedelic Therapy is the sixth studio album by English electronic mu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_Psychedelic_Therapy |
-| Wikipedia Summary | Music for Psychedelic Therapy is the sixth studio album by English electronic music producer Jon Hopkins, released on 12 November 2021 by Domino Recording Company. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Domino |
 | Catalog Number | WIGLP458X |

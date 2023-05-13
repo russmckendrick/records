@@ -55,9 +55,14 @@ styles: ["Synth-pop", "Electro", "Trance"]
 <!-- section break -->
 
 On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel Jarre explores electronic music’s past with an eye toward its future—and with a few notable friends in tow. “Glory,” with M83, is all airy, modern electronic pop, and "Zero Gravity,” Jarre’s Tangerine Dream collaboration, is a meandering cinematic soundscape that recalls his new-age roots. Elsewhere, he contrasts those lighter sounds with emotive trance flourishes, and drops some thudding kicks and eerie, electro-inspired synths on the Gesaffelstein-assisted “Conquistador.”
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745" >}}
+{{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745" >}}<br>
+
+
 ## Videos
 ### Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)
 {{< youtube id="pRwYx8w1clk" title="Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)" >}}<br>
@@ -82,8 +87,6 @@ On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Mich
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel Jarre explores electronic music’s past with an eye toward its future—and with a few notable friends in tow. “Glory,” with M83, is all airy, modern electronic pop, and "Zero Gravity,” Jarre’s Tangerine Dream collaboration, is a meandering cinematic soundscape that recalls his new-age roots. Elsewhere, he contrasts those lighter sounds with emotive trance flourishes, and drops some thudding kicks and eerie, electro-inspired synths on the Gesaffelstein-assisted “Conquistador.” |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Aero Productions |
 | Catalog Number | 88843018981 |

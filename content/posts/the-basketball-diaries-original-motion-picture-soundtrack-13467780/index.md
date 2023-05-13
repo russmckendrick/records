@@ -46,7 +46,10 @@ styles: ["Soundtrack", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Basketball Diaries Catholic Boy Jim Carroll
 {{< youtube id="JB72RnNJk9I" title="The Basketball Diaries Catholic Boy Jim Carroll" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Soundtrack", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange) |
 | Label          | Real Gone Music |
 | Catalog Number | 0000879 |

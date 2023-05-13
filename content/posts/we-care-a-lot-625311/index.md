@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 <!-- section break -->
 
 We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}<br>
+
+
 ## Videos
 ### Faith No More - We Care a Lot (Official Music Video) [4K]
 {{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video) [4K]" >}}<br>
@@ -68,8 +73,6 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Care_a_Lot |
-| Wikipedia Summary | We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself. |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mordam Records |
 | Catalog Number | MDR 1 |

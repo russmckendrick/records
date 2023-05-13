@@ -37,9 +37,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}<br>
+
+
 ## Videos
 ### Split Enz - Sugar And Spice
 {{< youtube id="zt5tXIIrnW0" title="Split Enz - Sugar And Spice" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1977                                   |
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1145 |

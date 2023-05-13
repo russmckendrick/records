@@ -39,9 +39,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/desires-magic-theatre/1443009179" >}}
+{{< applemusic url="https://music.apple.com/gb/album/desires-magic-theatre/1443009179" >}}<br>
+
+
 ## Videos
 ### Desire's Magic Theatre
 {{< youtube id="QygP9o9aO4s" title="Desire's Magic Theatre" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Spinefarm Records |
 | Catalog Number | 0602547711557 |

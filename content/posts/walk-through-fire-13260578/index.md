@@ -43,9 +43,14 @@ styles: ["Soul", "Country"]
 <!-- section break -->
 
 Yola’s sound conjures a moment in the late '60s when country, R&B, gospel, pop, rock and the lighter side of psychedelia mixed together so freely—and so seamlessly—one remembered they all came from the same distinctly American well. Produced by The Black Keys' Dan Auerbach, <i>Walk Through Fire</i> is expectedly long on style: “Faraway Look” is Dusty Springfield refracted through Phil Spector; “Walk Through Fire” is a slow folk thump so studiously offhand that Auerbach keeps the count-off in the mix; “Lonely the Night” captures the pop-lite poise of Petula Clark, and “Love All Night (Work All Day)” the catharsis of Rod Stewart. Really, though, it’s a testament to Yola’s writing and voice—smoky and deep but never smothering—that the album manages to cohere as the sound of a single artist.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/walk-through-fire-deluxe-edition/1488514243" >}}
+{{< applemusic url="https://music.apple.com/gb/album/walk-through-fire-deluxe-edition/1488514243" >}}<br>
+
+
 ## Videos
 ### Yola - Faraway Look [Official Audio]
 {{< youtube id="S8kMw5pxbkU" title="Yola - Faraway Look [Official Audio]" >}}<br>
@@ -69,8 +74,6 @@ Yola’s sound conjures a moment in the late '60s when country, R&B, gospel, pop
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Yola’s sound conjures a moment in the late '60s when country, R&B, gospel, pop, rock and the lighter side of psychedelia mixed together so freely—and so seamlessly—one remembered they all came from the same distinctly American well. Produced by The Black Keys' Dan Auerbach, <i>Walk Through Fire</i> is expectedly long on style: “Faraway Look” is Dusty Springfield refracted through Phil Spector; “Walk Through Fire” is a slow folk thump so studiously offhand that Auerbach keeps the count-off in the mix; “Lonely the Night” captures the pop-lite poise of Petula Clark, and “Love All Night (Work All Day)” the catharsis of Rod Stewart. Really, though, it’s a testament to Yola’s writing and voice—smoky and deep but never smothering—that the album manages to cohere as the sound of a single artist. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-008 |

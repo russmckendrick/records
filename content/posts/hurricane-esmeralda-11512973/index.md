@@ -34,9 +34,12 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hurricane-esmeralda/1314469704" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hurricane-esmeralda/1314469704" >}}<br>
+
+
 ## Videos
 ### MOONPARTICLE  - Michelangelo Don't Stop (2018).
 {{< youtube id="ueh4etEh_Zg" title="MOONPARTICLE  - Michelangelo Don't Stop (2018)." >}}<br>
@@ -48,7 +51,6 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG063 |

@@ -38,9 +38,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pills-n-thrills-and-bellyaches-collectors-edition/1313883247" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pills-n-thrills-and-bellyaches-collectors-edition/1313883247" >}}<br>
+
+
 ## Videos
 ### Happy Mondays - Step On (Official Music Video)
 {{< youtube id="mFBQ0PH5rM4" title="Happy Mondays - Step On (Official Music Video)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Yellow) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 60986 |

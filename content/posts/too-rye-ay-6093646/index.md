@@ -36,9 +36,14 @@ styles: []
 Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners. It was released in July 1982 by Mercury Records. The album is best known for the hit single "Come On Eileen", which included the refrain that inspired the album's title. It was the band's most successful album, debuting at number two on the UK Albums Chart.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/too-rye-ay/1442968287" >}}
+{{< applemusic url="https://music.apple.com/gb/album/too-rye-ay/1442968287" >}}<br>
+
+
 ## Videos
 ### Too-Rye-Ay
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}<br>
@@ -76,8 +81,6 @@ Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Too-Rye-Ay |
-| Wikipedia Summary | Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners. It was released in July 1982 by Mercury Records. The album is best known for the hit single "Come On Eileen", which included the refrain that inspired the album's title. It was the band's most successful album, debuting at number two on the UK Albums Chart.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Mercury |
 | Catalog Number | 3789427 |

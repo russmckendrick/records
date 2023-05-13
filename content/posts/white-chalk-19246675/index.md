@@ -43,9 +43,15 @@ styles: ["Indie Rock", "Ethereal"]
 <!-- section break -->
 
 <i>White Chalk</i> is a quick, quiet piano-based song cycle. Unlike the majority of PJ Harvey’s catalog, there are no pounding rhythms. The drums, provided by the Dirty Three’s Jim White, are most often muted, and Harvey herself abandons any instinct to shriek for the pleasures of seductive coo-ing. Guitars have been packed and none of the garage rock clang from her previous album, <i>Uh Huh Her</i>, has been invited to participate. Harvey begins with “The Devil,” singing high in her range, words forming in vague combinations, the piano repeating its patterns obsessively. “Dear Darkness” is swallowed up by a large church reverb and a choir of voices that lend a solemn spirituality to the majestic melody. Many of the songs segue into one another and the flow is much like what the titles suggest: “The Piano,” “Silence,” “Broken Harp,” “When Under Ether.” The album’s closer, “The Mountain,” is the sound of marking time, the piano notes closing down the show as Harvey escapes through a hole in the sky. A low-key but affecting work.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/white-chalk/1443639741" >}}
+{{< applemusic url="https://music.apple.com/gb/album/white-chalk/1443639741" >}}<br>
+
+
 ## Videos
 ### The Devil
 {{< youtube id="09019xe0TiQ" title="The Devil" >}}<br>
@@ -70,8 +76,6 @@ styles: ["Indie Rock", "Ethereal"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/White_Chalk |
-| Wikipedia Summary | White Chalk is the seventh studio album by English singer-songwriter and musician PJ Harvey, released on 24 September 2007 on Island Records.Work on the album started in 2006, with producer Flood and John Parish, who also worked on her To Bring You My Love and Is This Desire? albums. Other collaborators on White Chalk are Eric Drew Feldman and Jim White from Dirty Three.The first single released from White Chalk was "When Under Ether" on 17 September 2007 on digital download and 7" vinyl. A second single, "The Piano," was released on 26 November 2007. A third, "The Devil," was released on 7", download, and CD formats in March 2008.<br><br> |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl 12" 45 RPM Album Reissue (180 Gram) |
 | Label          | Island Records |
 | Catalog Number | 0725347 |

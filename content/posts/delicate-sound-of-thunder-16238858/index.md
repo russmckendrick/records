@@ -66,9 +66,14 @@ Delicate Sound of Thunder is a live album by English band Pink Floyd. It was rec
 The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/delicate-sound-of-thunder-live/696774967" >}}
+{{< applemusic url="https://music.apple.com/gb/album/delicate-sound-of-thunder-live/696774967" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - Sorrow (Delicate Sound Of Thunder) (1988 European CD)
 {{< youtube id="hmvQf8fZ0_A" title="Pink Floyd - Sorrow (Delicate Sound Of Thunder) (1988 European CD)" >}}<br>
@@ -81,8 +86,6 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Delicate_Sound_of_Thunder |
-| Wikipedia Summary | Delicate Sound of Thunder is a live album by English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988 and mixed at Abbey Road Studios in September 1988. It was released on 22 November 1988, through EMI Records in the UK and Columbia Records in the US.<br>The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 3× LP Album Reissue (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP36 |

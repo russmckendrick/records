@@ -40,9 +40,14 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 <!-- section break -->
 
 Nowhere is the debut album by British shoegaze band Ride, released 15 October 1990. Rolling Stone called the album "a masterpiece", and online magazine Pitchfork called it "one of shoegazing's enduring moments".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nowhere-remastered/884059844" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nowhere-remastered/884059844" >}}<br>
+
+
 ## Videos
 ### Ride - Taste (Video)
 {{< youtube id="APqGzOD0fUk" title="Ride - Taste (Video)" >}}<br>
@@ -68,8 +73,6 @@ Nowhere is the debut album by British shoegaze band Ride, released 15 October 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nowhere_(album) |
-| Wikipedia Summary | Nowhere is the debut album by British shoegaze band Ride, released 15 October 1990. Rolling Stone called the album "a masterpiece", and online magazine Pitchfork called it "one of shoegazing's enduring moments". |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Blue (Curacao) ) |
 | Label          | Wichita |
 | Catalog Number | webb572lp |

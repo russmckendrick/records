@@ -71,9 +71,15 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
 “Milton Nascimento, one of my favourite Brazilian artists, has an album called <i>Courage</i>. And during one of my darker times over the last few years, a friend of mine recommended that album to me. And then I wrote this song, and it wasn't going to be called that for a while. But then that word is just such a good word. I guess the song takes you to the most vulnerable point of just admitting that you're lonely and it's really hard and it feels like the pain is never going to end—even if it might've been your decision. It was a particularly confusing type of pain. The music was written with a friend of mine, Joe Harrison, who played bass on ‘Paper Thin’ too. He's just an amazing guitarist and songwriter. During those five years where everything and nothing was happening, I was doing a writing camp—I think, basically, my label panicked and wanted to give me the tools to try and make music. I ended up in the studio with lots of incredible musicians, but not much of it was right. One day, I remember I was feeling particularly alone in this process and I called Joe. I was like, ‘Hey, are you in LA right now? Please will you come to the studio?’ And I made everyone get out of the room so that me and Joe could just be in the studio together. And we just wrote that thing in about 10 minutes. That was my piece of beautiful treasure from that weird time creatively that I was having.”<br />
 <b>Sour Flower</b>
 “‘Sour flower’ is a phrase my great-grandmother used to say. Meaning ‘That's your sour flower, that's your problem, you deal with it.’ She was Jamaican and would say stuff like that, and I’d be like, ‘What does that mean?’ Later on, I was talking to Matt Hales, who I write a lot with, about her old phrases. We always wanted to get one of them onto a song. And that one just seemed appropriate. It's your journey, it's your issue, your cross to bear. For me, this song is all about the self-love and the self-care to restore yourself after whatever monumental derailment. I think it's ultimately a positive ending. But also, I wanted to have that long outro as well, to represent the ongoing work that the person is doing on themselves to improve things. The song is fully live—we all were playing together in the room, and it just feels like I should have done that earlier in my career. Of course there were some changes and then I was like, ‘No, we have to have that very first version, please.’ I'm glad that it ended up as it was on the day that we did it.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lianne-la-havas/1545263511" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lianne-la-havas/1545263511" >}}<br>
+
+
 ## Videos
 ### Read My Mind
 {{< youtube id="ZmbiD9SCF7w" title="Read My Mind" >}}<br>
@@ -93,8 +99,6 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lianne_La_Havas_(album) |
-| Wikipedia Summary | Lianne La Havas is the self-titled third studio album by English singer Lianne La Havas. The album was released on 17 July 2020. Released after a five-year hiatus and written following La Havas' break-up, the album was inspired by the life cycle of nature and its ability to thrive, go away, and come back stronger. Recording of the album took place between October 2019 and December 2019, with sessions taking place in London, Bath and New York. The album's production was handled by La Havas along with long-term collaborator Matt Hales, co-producers Beni Giles, Sam Crowe and guest co-producer Mura Masa.<br>Lianne La Havas is a concept album with a song cycle that depicts the stages of a relationship, from early romance to demise. The album's musical style was inspired by Milton Nascimento, Joni Mitchell, Jaco Pastorius, Al Green, and Destiny's Child, resulting in a predominately neo soul album with elements of jazz and folk. Upon release, the album was met with rave reviews from critics, who praised the album's eclectic musical style and lyrical exploration. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Mint Green) |
 | Label          | Warner Records |
 | Catalog Number | 0190295265014 |

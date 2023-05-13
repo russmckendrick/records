@@ -36,9 +36,12 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ziggy-stardub/1660346908" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ziggy-stardub/1660346908" >}}<br>
+
+
 ## Videos
 ### EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]
 {{< youtube id="GE606BMUK0I" title="EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album (Royal Blue) |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1100V |

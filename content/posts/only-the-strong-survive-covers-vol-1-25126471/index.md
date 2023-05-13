@@ -53,7 +53,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Bruce Springsteen - Only the Strong Survive (Official Audio)
 {{< youtube id="oiUuEeA5aKo" title="Bruce Springsteen - Only the Strong Survive (Official Audio)" >}}<br>
@@ -80,7 +83,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Orange [Orbit Orange]) |
 | Label          | Columbia |
 | Catalog Number | 19658753701 |

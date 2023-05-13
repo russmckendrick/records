@@ -43,9 +43,12 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/colours-in-the-sun/1473359674" >}}
+{{< applemusic url="https://music.apple.com/gb/album/colours-in-the-sun/1473359674" >}}<br>
+
+
 ## Videos
 ### VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]
 {{< youtube id="eyFCWhywrqM" title="VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Turquoise Transparent) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 533LP |

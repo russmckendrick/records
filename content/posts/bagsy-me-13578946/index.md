@@ -39,9 +39,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bagsy-me/705302046" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bagsy-me/705302046" >}}<br>
+
+
 ## Videos
 ### The Wannadies - Combat Honey
 {{< youtube id="nU6Aqp9oUL0" title="The Wannadies - Combat Honey" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Turquoise) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2303 |

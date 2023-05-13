@@ -40,9 +40,15 @@ styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 <!-- section break -->
 
 Eric Clapton was a rising star when he recorded this potent and scruffy album with British blues singer/songwriter John Mayall in 1966. Mayall’s tunes, including the brass-fortified “Key to Love,” the slow-burning “Double Crossing Time,” and barroom rave-up “Little Girl,” lift on Clapton’s fluid, gritty licks. The band channels some Beatles on Ray Charles’ R&B standard “What’d I Say,” before tackling with noisy accuracy Mose Allison and Bukka White’s gnarly prison anthem “Parchman Farm.” Meanwhile, Clapton makes his lead-vocal debut on a languorous rendition of Robert Johnson’s “Ramblin’ on My Mind.” 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blues-breakers-with-eric-clapton/1434913344" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blues-breakers-with-eric-clapton/1434913344" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +58,6 @@ Eric Clapton was a rising star when he recorded this potent and scruffy album wi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blues_Breakers_with_Eric_Clapton |
-| Wikipedia Summary | Blues Breakers, colloquially known as The Beano Album, is the debut studio album by the English blues rock band John Mayall & the Bluesbreakers, originally credited to John Mayall with Eric Clapton. Produced by Mike Vernon and released in 1966 by Decca Records (UK) and London Records (US), it pioneered a guitar-dominated blues-rock sound.<br>The album was commercially successful and most critics viewed it positively. In 2003 and 2012, Rolling Stone ranked it number 195 on its list of the "500 Greatest Albums of All Time". It was voted number 391 in Colin Larkin's All Time Top 1000 Albums (2000). |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Repress Mono (180 Gram) |
 | Label          | Decca |
 | Catalog Number | 0042280008611 |

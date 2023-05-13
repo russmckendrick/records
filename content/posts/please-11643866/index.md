@@ -42,9 +42,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people had to go into a record shop and say "Can I have the Pet Shop Boys album, 'Please'?". Please spawned four singles: "West End Girls", "Opportunities (Let's Make Lots of Money)", "Suburbia", and "Love Comes Quickly"; "West End Girls" reached number one in both the UK and the US.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/please-2018-remaster/1645128742" >}}
+{{< applemusic url="https://music.apple.com/gb/album/please-2018-remaster/1645128742" >}}<br>
+
+
 ## Videos
 ### Pet Shop Boys - Opportunities
 {{< youtube id="di60NYGu03Y" title="Pet Shop Boys - Opportunities" >}}<br>
@@ -64,8 +69,6 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Please_(Pet_Shop_Boys_album) |
-| Wikipedia Summary | Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people had to go into a record shop and say "Can I have the Pet Shop Boys album, 'Please'?". Please spawned four singles: "West End Girls", "Opportunities (Let's Make Lots of Money)", "Suburbia", and "Love Comes Quickly"; "West End Girls" reached number one in both the UK and the US. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 190295832759 |

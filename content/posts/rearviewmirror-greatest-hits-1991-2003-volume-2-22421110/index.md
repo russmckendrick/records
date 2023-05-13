@@ -55,7 +55,10 @@ styles: ["Alternative Rock", "Grunge"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Pearl Jam - Greatest Hits - The Up Side - HD Audio
 {{< youtube id="1z5XWZ5yzgU" title="Pearl Jam - Greatest Hits - The Up Side - HD Audio" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock", "Grunge"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (Gatefold Sleeve) |
 | Label          | Epic |
 | Catalog Number | 19439895061 |

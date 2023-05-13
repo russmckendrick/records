@@ -40,7 +40,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### EELS - Anything For Boo - official lyric video
 {{< youtube id="tfsby3Rh8r0" title="EELS - Anything For Boo - official lyric video" >}}<br>
@@ -57,7 +60,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | E Works Records |
 | Catalog Number | EWORKS116LP |

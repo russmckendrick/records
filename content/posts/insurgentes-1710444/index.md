@@ -50,9 +50,14 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 
 Insurgentes is the debut full-length solo album released by British musician and record producer Steven Wilson, known for being the founder and frontman of progressive rock band Porcupine Tree. The album was recorded all over the world in studios from Mexico City to Japan and Israel, between January and August 2008, and released in November 2008 as a special deluxe multi disc mail order version, with retail release to follow in February 2009. According to Wilson himself, the album contained "the most experimental song-based music [he had] made."
 The album is named after the Avenida de los Insurgentes, the longest avenue in Mexico City near which part of it was recorded.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/insurgentes-remastered/1119733844" >}}
+{{< applemusic url="https://music.apple.com/gb/album/insurgentes-remastered/1119733844" >}}<br>
+
+
 ## Videos
 ### Steven Wilson Harmony Korine HD
 {{< youtube id="BClzBQmZZBc" title="Steven Wilson Harmony Korine HD" >}}<br>
@@ -75,8 +80,6 @@ The album is named after the Avenida de los Insurgentes, the longest avenue in M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Insurgentes_(album) |
-| Wikipedia Summary | Insurgentes is the debut full-length solo album released by British musician and record producer Steven Wilson, known for being the founder and frontman of progressive rock band Porcupine Tree. The album was recorded all over the world in studios from Mexico City to Japan and Israel, between January and August 2008, and released in November 2008 as a special deluxe multi disc mail order version, with retail release to follow in February 2009. According to Wilson himself, the album contained "the most experimental song-based music [he had] made."<br>The album is named after the Avenida de los Insurgentes, the longest avenue in Mexico City near which part of it was recorded. |
-| Release Year   | 2009                                   |
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE808 |

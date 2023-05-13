@@ -45,9 +45,13 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="5RyWJx6ASGDuaEwVe0aWvG" width="100%" height="500" >}}
+{{< spotify type="album" id="5RyWJx6ASGDuaEwVe0aWvG" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### You're So Cool
 {{< youtube id="lFUkaB_NU5o" title="You're So Cool" >}}<br>
@@ -76,7 +80,6 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Limited Edition (Clear w/ White Splatter) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-0759 |

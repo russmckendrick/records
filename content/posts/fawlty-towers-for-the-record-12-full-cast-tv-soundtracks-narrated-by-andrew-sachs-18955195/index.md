@@ -54,7 +54,10 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -63,7 +66,6 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 6× LP Compilation (140g, White), Box Set Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX54 |

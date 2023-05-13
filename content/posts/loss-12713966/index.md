@@ -35,9 +35,12 @@ styles: ["Post Rock", "Post-Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/loss/1538573096" >}}
+{{< applemusic url="https://music.apple.com/gb/album/loss/1538573096" >}}<br>
+
+
 ## Videos
 ### Pijn - Loss [Full Album]
 {{< youtube id="f5dPFLMa2Ik" title="Pijn - Loss [Full Album]" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Post Rock", "Post-Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue/Frosted Clear/Purple Starburst) |
 | Label          | Holy Roar Records |
 | Catalog Number | HRR262V |

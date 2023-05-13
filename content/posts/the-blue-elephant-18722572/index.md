@@ -42,9 +42,12 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-blue-elephant/1553322260" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-blue-elephant/1553322260" >}}<br>
+
+
 ## Videos
 ### The Blue Elephant
 {{< youtube id="t7yQj7-IFgo" title="The Blue Elephant" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Mustard) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP578M |

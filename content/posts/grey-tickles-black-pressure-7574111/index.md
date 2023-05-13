@@ -81,9 +81,15 @@ styles: ["Indie Rock", "Experimental"]
 <!-- section break -->
 
 As epitomised by a title track referencing his haemorrhoids, the former Czars frontman has lost none of his candor or humor on this third solo album. His melodic skill remains intact too and, after the electro-pop of 2013’s <i>Pale Green Ghosts</i>, Grant investigates robotic funk (“Snug Slacks”), taut techno (“Disappointing”) and sumptuous FM rock (“Down Here”) while skewering ex-lovers and contemplating personal crises. Even on his most upbeat record yet, it’s an ability to amuse, shock and discomfit–sometimes in just one verse–that makes Grant such a compelling songwriter.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grey-tickles-black-pressure/1009276812" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grey-tickles-black-pressure/1009276812" >}}<br>
+
+
 ## Videos
 ### John Grant - Grey Tickles, Black Pressure (Album Trailer)
 {{< youtube id="-0QsMQZf1q4" title="John Grant - Grey Tickles, Black Pressure (Album Trailer)" >}}<br>
@@ -102,8 +108,6 @@ As epitomised by a title track referencing his haemorrhoids, the former Czars fr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grey_Tickles,_Black_Pressure |
-| Wikipedia Summary | Grey Tickles, Black Pressure is the third solo album by American musician John Grant. It was released via Bella Union on October 9, 2015. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (Lavender), Vinyl LP Album (Orange), CD Album, CD EP, All Media Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA505V |

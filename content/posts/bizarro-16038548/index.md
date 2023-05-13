@@ -39,9 +39,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Bizarro is the second studio album by The Wedding Present. It was released in October 1989 by their record label, RCA.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bizarro/211455153" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bizarro/211455153" >}}<br>
+
+
 ## Videos
 ### What Have I Said Now?
 {{< youtube id="BTHl_JYqWpE" title="What Have I Said Now?" >}}<br>
@@ -61,8 +66,6 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bizarro_(album) |
-| Wikipedia Summary | Bizarro is the second studio album by The Wedding Present. It was released in October 1989 by their record label, RCA. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | RCA |
 | Catalog Number | 19439793371 |

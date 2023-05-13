@@ -42,9 +42,12 @@ styles: ["Experimental", "Synthwave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hannetts-electronic-recordings-homage-to-delia-derbyshire/1286330954" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hannetts-electronic-recordings-homage-to-delia-derbyshire/1286330954" >}}<br>
+
+
 ## Videos
 ### Homage To Delia Derbyshire, Pt. 11
 {{< youtube id="KqF8gvUx4kA" title="Homage To Delia Derbyshire, Pt. 11" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Experimental", "Synthwave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Ozit-Morpheus Records |
 | Catalog Number | OZITDAN LP 9991 |

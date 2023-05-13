@@ -41,9 +41,15 @@ styles: ["Jazz-Rock", "Fusion", "Avantgarde", "Experimental"]
 <!-- section break -->
 
 Frank Zappa's guitar chops played second fiddle to his skewered pop visions, his tape-edit abilities, and the general bizarre quality of his work with The Mothers of Invention. <i>Lumpy Gravy</i> saw him conducting an orchestra, while <i>Cruising with Ruben and the Jets</i> fulfilled his interests in doo-wop. <i>Hot Rats</i>, meanwhile, shows off Zappa's unorthodox approach to jazz and blues. "Willie the Pimp," with Captain Beefheart wailing away as Howlin' Wolf, is an epic jam, with Zappa turning in one of his dirtiest performances on record. At nine minutes, the only complaint is that it's too short! "Peaches En Regalia" is a stone classic, a compact piece that shows off Zappa's guitar and arrangement skills. The extended pieces—"Son of Mr. Green Genes," "The Gumbo Variations"—carry symphonic and jazz-improv weight, respectively, while "Little Umbrellas" and "It Must Be a Camel" prove Zappa can get down to business when the spirit moves him. Longtime musical accomplices Ian Underwood and Don "Sugarcane" Harris are on board, as well as Jean-Luc Ponty and Little Feat's Lowell George. 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hot-rats/1562897106" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hot-rats/1562897106" >}}<br>
+
+
 ## Videos
 ### F̲rank Z̲a̲ppa - H̲ot R̲a̲ts (Full Album) 1969
 {{< youtube id="RdU4FHH4FnE" title="F̲rank Z̲a̲ppa - H̲ot R̲a̲ts (Full Album) 1969" >}}<br>
@@ -56,8 +62,6 @@ Frank Zappa's guitar chops played second fiddle to his skewered pop visions, his
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hot_Rats |
-| Wikipedia Summary | Hot Rats is the second solo album by Frank Zappa, released in October 1969. It was Zappa's first recording project after the dissolution of the original version of the Mothers of Invention. Five of the six songs are instrumental; while "Willie the Pimp", features vocals by Captain Beefheart.  In his original sleeve notes, Zappa described the album as "a movie for your ears".<br>Zappa dedicated the album to his newborn son, Dweezil. In February 2009, Dweezil's tribute band to his father, Zappa Plays Zappa, won a Grammy for Best Rock Instrumental Performance for their rendition of "Peaches en Regalia". |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Hot Pink, 180G, Gatefold) |
 | Label          | Zappa Records |
 | Catalog Number | ZR 3841Z-1 |

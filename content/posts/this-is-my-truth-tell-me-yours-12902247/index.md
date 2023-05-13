@@ -47,11 +47,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-This Is My Truth Tell Me Yours is the fifth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 14 September 1998 by record label Epic.
-Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was a commercial and critical success. The album debuted at number 1 in the UK Albums Chart, selling 136,000 copies, going Gold in the first week. It sold well in the United Kingdom, Europe and Asia, and represented a change in the sound from the furious alternative rock sound to a more melodic and tender approach. By March 1999 the album was Triple Platinum in the UK alone and since its release it has sold more than five million copies worldwide. It earned the band further nominations and accolades at the BRIT Awards in 1999. This is their first album whose lyrics were solely written by bassist Nicky Wire; their previous album still had songs that featured lyrics contributed by the late rhythm guitarist Richey Edwards.
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-is-my-truth-tell-me-yours/275147386" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-is-my-truth-tell-me-yours/275147386" >}}<br>
+
+
 ## Videos
 ### Manic Street Preachers ‎– If You Tolerate This Your Children Will Be Next
 {{< youtube id="vQGB-nXalLE" title="Manic Street Preachers ‎– If You Tolerate This Your Children Will Be Next" >}}<br>
@@ -73,9 +74,6 @@ Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_My_Truth_Tell_Me_Yours |
-| Wikipedia Summary | This Is My Truth Tell Me Yours is the fifth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 14 September 1998 by record label Epic.<br>Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was a commercial and critical success. The album debuted at number 1 in the UK Albums Chart, selling 136,000 copies, going Gold in the first week. It sold well in the United Kingdom, Europe and Asia, and represented a change in the sound from the furious alternative rock sound to a more melodic and tender approach. By March 1999 the album was Triple Platinum in the UK alone and since its release it has sold more than five million copies worldwide. It earned the band further nominations and accolades at the BRIT Awards in 1999. This is their first album whose lyrics were solely written by bassist Nicky Wire; their previous album still had songs that featured lyrics contributed by the late rhythm guitarist Richey Edwards. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Sony Music |
 | Catalog Number | 19075895241 |

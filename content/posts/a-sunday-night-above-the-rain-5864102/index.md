@@ -46,9 +46,13 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6ir2CmieJAjY36ZzWveT0K" width="100%" height="500" >}}
+{{< spotify type="album" id="6ir2CmieJAjY36ZzWveT0K" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,7 +61,6 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 3× LP Album (180 Gram) |
 | Label          | Ear Music |
 | Catalog Number | 0209657ERE |

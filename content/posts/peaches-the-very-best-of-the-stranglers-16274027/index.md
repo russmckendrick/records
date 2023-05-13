@@ -50,9 +50,12 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566" >}}<br>
+
+
 ## Videos
 ### [Get A] Grip (On Yourself) (Grip '89 Remix)
 {{< youtube id="ckbONnCzZlU" title="[Get A] Grip (On Yourself) (Grip '89 Remix)" >}}<br>
@@ -76,7 +79,6 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295187149 |

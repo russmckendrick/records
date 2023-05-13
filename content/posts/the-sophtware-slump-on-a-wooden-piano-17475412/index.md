@@ -42,9 +42,12 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump-on-a-wooden-piano/1527310709" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump-on-a-wooden-piano/1527310709" >}}<br>
+
+
 ## Videos
 ### Grandaddy - The Crystal Lake (Piano Version)
 {{< youtube id="MXwCreLCUrU" title="Grandaddy - The Crystal Lake (Piano Version)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Cloudy Clear) |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB217-1 |

@@ -39,9 +39,14 @@ styles: ["Indie Rock", "Prog Rock"]
 <!-- section break -->
 
 Visuals is the seventh studio album by Danish alternative rock band Mew. It was released on 28 April 2017. First single "85 Videos" was released together with a music video on 16 February. It is the first Mew album not to feature guitarist Bo Madsen, who left the band after their previous album, + -, was released in 2015.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/visuals/1195025592" >}}
+{{< applemusic url="https://music.apple.com/gb/album/visuals/1195025592" >}}<br>
+
+
 ## Videos
 ### Mew - Carry Me To Safety (Official Audio)
 {{< youtube id="6w8SpxnhKuI" title="Mew - Carry Me To Safety (Official Audio)" >}}<br>
@@ -58,8 +63,6 @@ Visuals is the seventh studio album by Danish alternative rock band Mew. It was 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Visuals_(album) |
-| Wikipedia Summary | Visuals is the seventh studio album by Danish alternative rock band Mew. It was released on 28 April 2017. First single "85 Videos" was released together with a music video on 16 February. It is the first Mew album not to feature guitarist Bo Madsen, who left the band after their previous album, + -, was released in 2015. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Gatefold, 180g) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR940LP |

@@ -38,9 +38,14 @@ styles: []
 <!-- section break -->
 
 Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Staples, Portugal. The Man and others—are a testament to his stylistic fluidity. And so are the albums the singer, songwriter and instrumentalist releases under his artist moniker, Son Little. The electronic abstractions of his 2015 self-titled debut gave way to the analog smudges of 2017’s <i>New Magic</i>, while Little’s latest is his pithiest, most sparse presentation of soul forms and indie rock impulses to date. His introspectiveness is the constant from project to project; even on earthy tracks, his performances feel a little elusive, like he’s splitting his attention between sensual expression and existential inquiry. This time, after his hard drive full of album demos went bad, Little serenely replaced the material with songs that feel like meditative mantras, capturing them in a Paris studio with producer Renaud Letang. The soul weeper “about her. again.” is peppered with startling silences, the sunnily mellow-sounding “3rd eye weeping” ponders inner pain from a slight remove, and “belladonna”, a tune with effervescent, skipping Afro-Cuban rhythms, measures the pull of attraction against the ballast of reason.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aloha/1484054682" >}}
+{{< applemusic url="https://music.apple.com/gb/album/aloha/1484054682" >}}<br>
+
+
 ## Videos
 ### Son Little - suffer
 {{< youtube id="xLo0a_mKmx4" title="Son Little - suffer" >}}<br>
@@ -57,8 +62,6 @@ Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Sta
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Staples, Portugal. The Man and others—are a testament to his stylistic fluidity. And so are the albums the singer, songwriter and instrumentalist releases under his artist moniker, Son Little. The electronic abstractions of his 2015 self-titled debut gave way to the analog smudges of 2017’s <i>New Magic</i>, while Little’s latest is his pithiest, most sparse presentation of soul forms and indie rock impulses to date. His introspectiveness is the constant from project to project; even on earthy tracks, his performances feel a little elusive, like he’s splitting his attention between sensual expression and existential inquiry. This time, after his hard drive full of album demos went bad, Little serenely replaced the material with songs that feel like meditative mantras, capturing them in a Paris studio with producer Renaud Letang. The soul weeper “about her. again.” is peppered with startling silences, the sunnily mellow-sounding “3rd eye weeping” ponders inner pain from a slight remove, and “belladonna”, a tune with effervescent, skipping Afro-Cuban rhythms, measures the pull of attraction against the ballast of reason. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Anti- |
 | Catalog Number | 27678-3 |

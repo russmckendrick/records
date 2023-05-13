@@ -85,9 +85,14 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 
 Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was their last for EMI (who would, however, continue to release back-catalogue material on compilations and re-issues, as well as distribute some later recordings).
 Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/afraid-of-sunlight/692119730" >}}
+{{< applemusic url="https://music.apple.com/gb/album/afraid-of-sunlight/692119730" >}}<br>
+
+
 
 
 ## Release Images
@@ -97,8 +102,6 @@ Afraid of Sunlight was the first Marillion studio album to fail to reach the Top
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Afraid_of_Sunlight |
-| Wikipedia Summary | Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was their last for EMI (who would, however, continue to release back-catalogue material on compilations and re-issues, as well as distribute some later recordings).<br>Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date". |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Remixed, 180 Gram), Vinyl 3× LP Album (180 Gram), Box Set Deluxe Edition Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190295477226 |

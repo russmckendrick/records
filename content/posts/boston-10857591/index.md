@@ -41,9 +41,15 @@ styles: ["Hard Rock"]
 Boston is the debut studio album by American rock band Boston, released on August 25, 1976, by Epic Records. It was produced by Tom Scholz and John Boylan. A multi-instrumentalist and engineer who had been involved in the Boston music scene since the late 1960s, Scholz started to write and record demos in his apartment basement with singer Brad Delp, but received numerous rejections from major record labels. The demo tape fell into the hands of CBS-owned Epic, who signed the band in 1975.
 Defying Epic Records's insistence on recording the album professionally in Los Angeles, Scholz and Boylan tricked the label into thinking the band was recording on the West Coast, when in reality, the bulk was being tracked solely by Scholz at his Massachusetts home. The album's contents are a complete recreation of the band's demo tape, and contain songs written and composed many years prior. The album's style, often referred to as the "Boston sound", was developed through Scholz's love for classical music, melodic hooks and early guitar-heavy rock groups such as the Kinks and the Yardbirds, as well as a number of analogue electronic effects developed by Scholz in his home studio. Besides Scholz, who played most of the instruments on nearly all of the tracks, and Delp, other musicians appear on the album such as drummers Jim Masdea and Sib Hashian, guitarist Barry Goudreau and bassist Fran Sheehan. All except Masdea became full-time band members.
 The album was released by Epic in August 1976 and broke sales records, becoming the best-selling debut LP in the US at the time, and winning the RIAA Century Award as best selling debut album. The album's singles, "More Than a Feeling", "Peace of Mind" and "Foreplay/Long Time", were major AM and FM hits, and nearly the entire album receives constant airplay on classic rock radio. The album is often referred to as a staple in '70s rock and has been included on many lists of essential albums. It has sold at least 17 million copies in the United States alone and at least 20 million worldwide making it one of the best selling debut albums of all time.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boston/913902091" >}}
+{{< applemusic url="https://music.apple.com/gb/album/boston/913902091" >}}<br>
+
+
 ## Videos
 ### Boston - Boston (1976) [Full Album]
 {{< youtube id="4zDR5jmCXOg" title="Boston - Boston (1976) [Full Album]" >}}<br>
@@ -76,8 +82,6 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boston_(album) |
-| Apple Music Summary | Gifted guitarist/producer Tom Scholz and singer Brad Delp couldn’t have imagined the success of their 1976 debut when they recorded it in a Boston basement. It’s packed with heavy, guitar-driven peaks, gentle passages, and glacier-sized choruses—from party-starter anthem “Smokin’,” to the ode to nostalgia “More Than a Feeling,” to the everyman ballad “Let Me Take You Home Tonight.” “Rock & Roll Band” is an autobiographical tale of bar-band adversities and “Foreplay/Long Time” kicks up from murky jazz-prog to pure, sing-along power pop. It’s an album for the ages. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Repress (180 g) |
 | Label          | Epic |
 | Catalog Number | 88985438101 |

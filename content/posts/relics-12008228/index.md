@@ -43,9 +43,15 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilation album by English progressive rock band Pink Floyd. The album was released in the UK on 14 May 1971 and in the United States on the following day. Initially released by Starline, the compilation was reissued by Music for Pleasure in the United Kingdom, while Harvest and Capitol distributed the album in the United States. A remastered CD was released in 1996 with a different album cover, picturing a three-dimensional model based on the sketch drawn by drummer Nick Mason for the album's initial release.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/relics/734655586" >}}
+{{< applemusic url="https://music.apple.com/gb/album/relics/734655586" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +61,6 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Relics_(album) |
-| Apple Music Summary | Representing Pink Floyd's magical early period, <i>Relics</i> combines album cuts with non-LP singles and one previously unreleased tune, the hypnotic, jazzy "Biding My Time". Tuneful early hits "See Emily Play" and "Arnold Layne" overflow with psychedelic visionary Syd Barrett's eccentric brand of off-kilter genius, mixing British whimsy with trippy textures and an infectiously cracked pop sensibility. The rest of the compilation captures the band at their dreamiest and most melodic, proving that Floyd didn't have to be freaky to be fascinating.<br> |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Reissue Remastered Stereo Mono (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP18 |

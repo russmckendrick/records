@@ -47,9 +47,15 @@ Amnesiac debuted at number one on the UK Albums Chart and number two on the US B
 Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning for Best Recording Package for the special edition. "Pyramid Song" was named one of the best tracks of the decade by Rolling Stone, NME and Pitchfork, and Rolling Stone ranked Amnesiac number 320 in their 2012 "500 Greatest Albums of All Time" list. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amnesiac/1097864180" >}}
+{{< applemusic url="https://music.apple.com/gb/album/amnesiac/1097864180" >}}<br>
+
+
 ## Videos
 ### Packt Like Sardines In a Crushd Tin Box
 {{< youtube id="LwE4LNP8zsI" title="Packt Like Sardines In a Crushd Tin Box" >}}<br>
@@ -65,8 +71,6 @@ Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amnesiac_(album) |
-| Apple Music Summary | Having bloomed from the same recording sessions as <i>Kid A</i>, Radiohead’s fifth album offers an alternate angle on the restive experimentation of their post-‘90s phase. <i>Amnesiac</i> undoubtedly shares its predecessor’s electronic digressions (“Like Spinning Plates”) and jazz flourishes (most potently on the tumbling, percussive “Dollars & Cents”). But it also offers something even more challenging, replete with crumbling orchestral builds and—as on the plaintive “Morning Bell/Amnesiac”—invigorating bursts of Thom Yorke’s matchless falsetto. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× 10" 33 ⅓ RPM Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP783 |

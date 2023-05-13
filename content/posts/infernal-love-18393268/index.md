@@ -41,9 +41,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Their third album on a major label, it was released on 12 June 1995 on A&M Records. The album was recorded at Real World Studios in Box, Wiltshire from January to March 1995.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/infernal-love-deluxe-edition/1443322426" >}}
+{{< applemusic url="https://music.apple.com/gb/album/infernal-love-deluxe-edition/1443322426" >}}<br>
+
+
 ## Videos
 ### Therapy? -  Stories
 {{< youtube id="aBRfZvi_sqQ" title="Therapy? -  Stories" >}}<br>
@@ -74,8 +79,6 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Infernal_Love |
-| Wikipedia Summary | Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Their third album on a major label, it was released on 12 June 1995 on A&M Records. The album was recorded at Real World Studios in Box, Wiltshire from January to March 1995. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2806 |

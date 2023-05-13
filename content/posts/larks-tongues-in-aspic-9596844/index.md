@@ -34,9 +34,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/larks-tongues-in-aspic-expanded-edition/918568338" >}}
+{{< applemusic url="https://music.apple.com/gb/album/larks-tongues-in-aspic-expanded-edition/918568338" >}}<br>
+
+
 ## Videos
 ### King Crimson - Larks' Tongues In Aspic, Part Two
 {{< youtube id="jX0caf1HvNs" title="King Crimson - Larks' Tongues In Aspic, Part Two" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue Remastered Repress (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP 5 |

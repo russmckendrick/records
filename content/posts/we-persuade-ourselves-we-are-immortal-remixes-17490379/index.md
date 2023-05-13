@@ -40,7 +40,10 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )
 {{< youtube id="DRSO40Cs9ok" title="the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Repress (180g) |
 | Label          | fsoldigital.com |
 | Catalog Number | LPTOT78 |

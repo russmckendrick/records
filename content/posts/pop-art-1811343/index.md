@@ -38,9 +38,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pop-art/1444051351" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pop-art/1444051351" >}}<br>
+
+
 ## Videos
 ### Transvision Vamp - I Want Your Love (1988)
 {{< youtube id="l3u3lc3II-I" title="Transvision Vamp - I Want Your Love (1988)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3421 |

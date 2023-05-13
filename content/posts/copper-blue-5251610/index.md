@@ -39,9 +39,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Copper Blue is the debut studio album by American alternative rock band Sugar. It was voted 1992 Album of the Year by the NME. All of the songs were written by guitarist/vocalist Bob Mould, who also co-produced with Lou Giordano. Musically, the band continues the thick punk guitar of Mould's previous band, Hüsker Dü, while slowing the tempo and emphasizing melody even more.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/copper-blue-deluxe-edition/529998071" >}}
+{{< applemusic url="https://music.apple.com/gb/album/copper-blue-deluxe-edition/529998071" >}}<br>
+
+
 ## Videos
 ### Copper Blue Sugar (Full Version / Album Complet 1992) HQ
 {{< youtube id="BfGioWWLZ8E" title="Copper Blue Sugar (Full Version / Album Complet 1992) HQ" >}}<br>
@@ -59,8 +64,6 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Copper_Blue |
-| Wikipedia Summary | Copper Blue is the debut studio album by American alternative rock band Sugar. It was voted 1992 Album of the Year by the NME. All of the songs were written by guitarist/vocalist Bob Mould, who also co-produced with Lou Giordano. Musically, the band continues the thick punk guitar of Mould's previous band, Hüsker Dü, while slowing the tempo and emphasizing melody even more. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Remastered |
 | Label          | Edsel Records |
 | Catalog Number | EDLP1001 |

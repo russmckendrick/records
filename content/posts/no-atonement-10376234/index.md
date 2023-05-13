@@ -50,9 +50,12 @@ styles: ["Industrial"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-atonement/1219447555" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-atonement/1219447555" >}}<br>
+
+
 ## Videos
 ### Fight Song
 {{< youtube id="0lyWF-I7pZA" title="Fight Song" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Green Petrol Transparent), CD Album, All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 044 |

@@ -41,9 +41,14 @@ styles: ["Alternative Rock"]
 
 Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in September 2017. It features Stewart Copeland (the Police, Curved Air), Vittorio Cosma (PFM, Elio e le Storie Tese), Mark King (Level 42), and Adrian Belew (Frank Zappa, David Bowie, King Crimson).
 One song, "Amaka Pipa", was previewed on earMUSIC's official channel on 12 June 2017, three months before the release of the album. A videoclip of another song, "Man in the Mountain", featuring the band recording in the studio, was also uploaded to the same channel three days before the release of the album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gizmodrome/1266717523" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gizmodrome/1266717523" >}}<br>
+
+
 ## Videos
 ### Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma
 {{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma" >}}<br>
@@ -66,8 +71,6 @@ One song, "Amaka Pipa", was previewed on earMUSIC's official channel on 12 June 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gizmodrome_(album) |
-| Wikipedia Summary | Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in September 2017. It features Stewart Copeland (the Police, Curved Air), Vittorio Cosma (PFM, Elio e le Storie Tese), Mark King (Level 42), and Adrian Belew (Frank Zappa, David Bowie, King Crimson).<br>One song, "Amaka Pipa", was previewed on earMUSIC's official channel on 12 June 2017, three months before the release of the album. A videoclip of another song, "Man in the Mountain", featuring the band recording in the studio, was also uploaded to the same channel three days before the release of the album. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Ear Music |
 | Catalog Number | 0212264EMU |

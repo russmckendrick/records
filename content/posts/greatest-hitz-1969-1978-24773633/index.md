@@ -66,7 +66,10 @@ styles: ["Glam"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -75,7 +78,6 @@ styles: ["Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Compilation (Translucent Grape), Vinyl LP (Translucent Pink) |
 | Label          | BMG |
 | Catalog Number | BMGCAT587DLP |

@@ -108,9 +108,12 @@ styles: ["Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405" >}}<br>
+
+
 ## Videos
 ### Ray Charles - What'd I Say (Official Audio)
 {{< youtube id="6uTDa3771HM" title="Ray Charles - What'd I Say (Official Audio)" >}}<br>
@@ -130,7 +133,6 @@ styles: ["Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 7× LP Compilation Reissue Remastered Mono, Box Set |
 | Label          | Rhino Records (2) |
 | Catalog Number | 008122794568 |

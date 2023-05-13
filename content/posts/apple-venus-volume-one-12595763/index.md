@@ -42,7 +42,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)
 {{< youtube id="tdjNPX2gjrU" title="XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue (200 Gram ) |
 | Label          | Ape House |
 | Catalog Number | APELP118 |

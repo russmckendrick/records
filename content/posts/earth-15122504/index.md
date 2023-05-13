@@ -36,7 +36,10 @@ styles: ["Indie Rock", "Folk", "House"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### EOB - Brasil
 {{< youtube id="xefWbfWUbrQ" title="EOB - Brasil" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Indie Rock", "Folk", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Capitol Records |
 | Catalog Number | 00602508363429 |

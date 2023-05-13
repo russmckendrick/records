@@ -34,9 +34,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/conduit/1349990562" >}}
+{{< applemusic url="https://music.apple.com/gb/album/conduit/1349990562" >}}<br>
+
+
 ## Videos
 ### Awooga - Conduit (2018) (Full Album)
 {{< youtube id="mXm_PYEIKAs" title="Awooga - Conduit (2018) (Full Album)" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Rockosmos |
 | Catalog Number | none |

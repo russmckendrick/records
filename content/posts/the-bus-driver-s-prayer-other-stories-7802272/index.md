@@ -41,9 +41,12 @@ styles: ["Power Pop", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1489399630" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1489399630" >}}<br>
+
+
 ## Videos
 ### Ian Dury:-'Bus Driver's Prayer'
 {{< youtube id="v7kjbh8xtyo" title="Ian Dury:-'Bus Driver's Prayer'" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Power Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Demon Records |
 | Catalog Number | DEMREC61 |

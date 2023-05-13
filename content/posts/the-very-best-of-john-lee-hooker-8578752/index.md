@@ -43,9 +43,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-john-lee-hooker-blues/679162110" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-john-lee-hooker-blues/679162110" >}}<br>
+
+
 ## Videos
 ### GIANT SIZED John Lee Hooker Vinyl Matchup
 {{< youtube id="W-DEJF5iZmU" title="GIANT SIZED John Lee Hooker Vinyl Matchup" >}}<br>
@@ -57,7 +60,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Not Now Music |
 | Catalog Number | CATLP126 |

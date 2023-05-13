@@ -40,9 +40,12 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/but-seriously-folks/332682774" >}}
+{{< applemusic url="https://music.apple.com/gb/album/but-seriously-folks/332682774" >}}<br>
+
+
 ## Videos
 ### Joe Walsh - Over and Over
 {{< youtube id="dYuFFJ5Ness" title="Joe Walsh - Over and Over" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | Asylum Records |
 | Catalog Number | K 53081 |

@@ -50,9 +50,14 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 Grace for Drowning is the second solo studio album by Steven Wilson, producer, songwriter, and frontman of Porcupine Tree. It was released by Kscope on 26 September 2011 as a double album. The album received a nomination at the 54th Annual Grammy Awards for Best Surround Sound Album.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grace-for-drowning-deluxe-version/674008092" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grace-for-drowning-deluxe-version/674008092" >}}<br>
+
+
 ## Videos
 ### Grace For Drowning + Sectarian - Steven Wilson
 {{< youtube id="GYydWVIgYlA" title="Grace For Drowning + Sectarian - Steven Wilson" >}}<br>
@@ -76,8 +81,6 @@ Grace for Drowning is the second solo studio album by Steven Wilson, producer, s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grace_for_Drowning |
-| Wikipedia Summary | Grace for Drowning is the second solo studio album by Steven Wilson, producer, songwriter, and frontman of Porcupine Tree. It was released by Kscope on 26 September 2011 as a double album. The album received a nomination at the 54th Annual Grammy Awards for Best Surround Sound Album.<br><br> |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE818 |

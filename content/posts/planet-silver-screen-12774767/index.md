@@ -34,9 +34,12 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/planet-silver-screen/1414568711" >}}
+{{< applemusic url="https://music.apple.com/gb/album/planet-silver-screen/1414568711" >}}<br>
+
+
 ## Videos
 ### FOUR STROKE BARON - PLANET SILVER SCREEN (OFFICIAL VIDEO)
 {{< youtube id="nfONQAflRBw" title="FOUR STROKE BARON - PLANET SILVER SCREEN (OFFICIAL VIDEO)" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Limited Edition Stereo (Purple vinyl) |
 | Label          | Prosthetic Records |
 | Catalog Number | PROS103361 |

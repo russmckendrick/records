@@ -45,9 +45,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/three-piece-suite-steven-wilson-mix/1261302548" >}}
+{{< applemusic url="https://music.apple.com/gb/album/three-piece-suite-steven-wilson-mix/1261302548" >}}<br>
+
+
 ## Videos
 ### Gentle Giant - Giant (Official Lyric Video)
 {{< youtube id="SQPp69MVAaw" title="Gentle Giant - Giant (Official Lyric Video)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV058 |

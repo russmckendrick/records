@@ -45,9 +45,14 @@ styles: ["Folk"]
 <!-- section break -->
 
 On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon," <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls," and spartan ballads, like the piano-based "The Meadow." Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-lookout/1336461182" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-lookout/1336461182" >}}<br>
+
+
 ## Videos
 ### Laura Veirs - The Lookout [Full Album Stream]
 {{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout [Full Album Stream]" >}}<br>
@@ -63,8 +68,6 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon," <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls," and spartan ballads, like the piano-based "The Meadow." Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Gold) |
 | Label          | Bella Union |
 | Catalog Number | BELLA744V |

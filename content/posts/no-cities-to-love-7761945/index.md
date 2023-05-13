@@ -35,9 +35,15 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 <!-- section break -->
 
 The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, honest-to-goodness rock. Corin Tucker is in full command of her howitzer of a voice on standouts like “Surface Envy”. Carrie Brownstein’s haughty punk sneer leads the glorious “A New Wave”. Janet Weiss’ masterful drumming navigates the songwriting’s hairpin tonal shifts, from the glittering “Hey Darling” to the turbulent album closer, “Fade". <i>No Cities to Love</i> is an electrifying step forward for one of the great American rock bands. 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-cities-to-love/927171224" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-cities-to-love/927171224" >}}<br>
+
+
 ## Videos
 ### Sleater-Kinney - No Cities To Love
 {{< youtube id="Cj2k3QsHmyM" title="Sleater-Kinney - No Cities To Love" >}}<br>
@@ -55,8 +61,6 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Cities_to_Love |
-| Wikipedia Summary | No Cities to Love is the eighth studio album by American rock band Sleater-Kinney, released on January 20, 2015, through Sub Pop. It is the first album following a decade-long hiatus and the band's 2005 release, The Woods. The album received universal acclaim from music critics and was listed on several "Best Albums of 2015" lists.<br><br> |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Sub Pop |
 | Catalog Number | SP1100 |

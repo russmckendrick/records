@@ -45,9 +45,12 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-treasury/1440822546" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-treasury/1440822546" >}}<br>
+
+
 ## Videos
 ### Nick Drake - Black Eyed Dog
 {{< youtube id="PabxhKTkE0U" title="Nick Drake - Black Eyed Dog" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Island Records |
 | Catalog Number | 4700056/00602547000569 |

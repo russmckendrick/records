@@ -204,9 +204,12 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-new-career-in-a-new-town-1977-1982/1255088551" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-new-career-in-a-new-town-1977-1982/1255088551" >}}<br>
+
+
 
 
 ## Release Images
@@ -215,7 +218,6 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 12" 45 RPM EP Compilation Remastered Stereo, Vinyl 2× LP Album Reissue Remastered Stereo (Yellow), Vinyl 3× LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Compilation Remastered Stereo Mono |
 | Label          | Parlophone |
 | Catalog Number | DBXL 3 |

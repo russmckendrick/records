@@ -57,9 +57,15 @@ styles: ["Alternative Rock"]
 The Color Before the Sun is the eighth studio album by American progressive rock band Coheed and Cambria. Following the conceptual double album, The Afterman: Ascension and Descension, released in 2012 and 2013 respectively, The Color Before the Sun is the first non-conceptual album the band has released, making it the only Coheed and Cambria album to not be a part of The Amory Wars storyline. The band released a live acoustic version of "Atlas" in August 2014, and announced a release date of October 9 in July of the following year, before announcing a push back to October 16, 2015. The first single was "You Got Spirit, Kid", released in July 2015, with a music video for the song released in August. A second music video, for the song "Island", was released in October.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-color-before-the-sun/1030919924" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-color-before-the-sun/1030919924" >}}<br>
+
+
 ## Videos
 ### Coheed and Cambria - The Color Before The Sun (Full Album)
 {{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun (Full Album)" >}}<br>
@@ -72,8 +78,6 @@ The Color Before the Sun is the eighth studio album by American progressive rock
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Color_Before_the_Sun |
-| Apple Music Summary | <i>The Color Before the Sun</i> is the first Coheed album to exist outside the dark universe of <i>The Amory Wars</i>—the elaborate sci-fi saga that entwines the band’s first seven albums with comics written by frontman Claudio Sanchez. Even without the narrative concept, <i>The Color Before the Sun</i> is one of the most focused albums of the band’s epic career. Launching to life with the catchy “Island”, Sanchez brings a fresh lyrical perspective to radio-ready rock (“Here to Mars", “You Got Spirit, Kid”), metal theatrics (“Eraser”) and cinematic prog-punk (“Peace To the Mountain”). |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album, CD Album Promo |
 | Label          | 300 Entertainment |
 | Catalog Number | 551277-1 |

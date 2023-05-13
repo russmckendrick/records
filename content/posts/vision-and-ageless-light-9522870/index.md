@@ -33,9 +33,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vision-and-ageless-light/1202059458" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vision-and-ageless-light/1202059458" >}}<br>
+
+
 ## Videos
 ### EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016
 {{< youtube id="DXmw3SgL49E" title="EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (Clear) |
 | Label          | The Laser's Edge |
 | Catalog Number | LE1077LP |

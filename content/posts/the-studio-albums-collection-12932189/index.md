@@ -135,7 +135,10 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -144,7 +147,6 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Numbered Special Edition, Vinyl 7× LP Album Reissue Remastered (Half-Speed Mastering) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00131 |

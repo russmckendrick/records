@@ -39,7 +39,12 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 <!-- section break -->
 
 Cuckoo is the second studio album by English alternative rock band Curve. It was released on 13 September 1993 and was issued by Anxious Records and Charisma Records. A musically more varied but significantly darker release than Curve's 1992 debut album Doppelgänger, Cuckoo was less commercially successful than the band's previous releases.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### CURVE - Half the Time  [Honey Tongue mix from : Blackerthreetrackertwo (UK) 1993] [audio]
 {{< youtube id="4tu9cFTHPok" title="CURVE - Half the Time  [Honey Tongue mix from : Blackerthreetrackertwo (UK) 1993] [audio]" >}}<br>
@@ -65,8 +70,6 @@ Cuckoo is the second studio album by English alternative rock band Curve. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cuckoo_(album) |
-| Wikipedia Summary | Cuckoo is the second studio album by English alternative rock band Curve. It was released on 13 September 1993 and was issued by Anxious Records and Charisma Records. A musically more varied but significantly darker release than Curve's 1992 debut album Doppelgänger, Cuckoo was less commercially successful than the band's previous releases. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-53LP |

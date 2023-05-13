@@ -48,9 +48,14 @@ During the accompanying  tour that lasted eight months, she performed the album'
 The album received largely positive reviews upon its release, although there was some criticism of its production. It currently holds a 79 out of 100 metascore at Metacritic based upon 28 reviews, indicating "generally favorable reviews". Uh Huh Her also earned PJ Harvey nominations to awards such as the Grammy Awards and the Brit Awards.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/uh-huh-her/1442242670" >}}
+{{< applemusic url="https://music.apple.com/gb/album/uh-huh-her/1442242670" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - You Come Through
 {{< youtube id="ner3eq4poYA" title="PJ Harvey - You Come Through" >}}<br>
@@ -69,8 +74,6 @@ The album received largely positive reviews upon its release, although there was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Uh_Huh_Her_(album) |
-| Wikipedia Summary | Uh Huh Her is the sixth studio album by English alternative rock musician PJ Harvey. The album was written, recorded and produced over a two-year period by the singer-songwriter herself. She also played every instrument on the album (the first such project since 4-Track Demos in 1993) with the exception of the final drum tracks, added by long-time collaborator Rob Ellis. It was released on 31 May 2004 in the United Kingdom, and 8 June 2004 in the United States.<br>During the accompanying  tour that lasted eight months, she performed the album's unreleased title-track. Uh Huh Her debuted and peaked at number 12 in the UK Albums Chart and has been certified Silver by the BPI. It became Harvey's highest charting album to date in the U.S., peaking at number 29 in the Billboard 200, and had sold more than 135,000 copies there as of 2005, according to AskBillboard. Although it charted higher than Stories from the City, Stories from the Sea in many territories, Uh Huh Her failed to achieve its predecessor's chart longevity and crossover interest.<br>The album received largely positive reviews upon its release, although there was some criticism of its production. It currently holds a 79 out of 100 metascore at Metacritic based upon 28 reviews, indicating "generally favorable reviews". Uh Huh Her also earned PJ Harvey nominations to awards such as the Grammy Awards and the Brit Awards.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0725318 |

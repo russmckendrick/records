@@ -48,7 +48,10 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### BEING FRANK: THE CHRIS SIEVEY STORY - OFFICIAL UK TRAILER [HD] - IN CINEMAS & ON DIGITAL MARCH 29
 {{< youtube id="_wHcHaPkYnw" title="BEING FRANK: THE CHRIS SIEVEY STORY - OFFICIAL UK TRAILER [HD] - IN CINEMAS & ON DIGITAL MARCH 29" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Compilation Picture Disc |
 | Label          | 7A Records |
 | Catalog Number | 7A020 |

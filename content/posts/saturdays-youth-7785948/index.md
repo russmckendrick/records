@@ -34,9 +34,12 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/saturdays-youth/1672227190" >}}
+{{< applemusic url="https://music.apple.com/gb/album/saturdays-youth/1672227190" >}}<br>
+
+
 ## Videos
 ### M83 'We Own The Sky' Official video
 {{< youtube id="sWsUNbdc5IM" title="M83 'We Own The Sky' Official video" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Naïve |
 | Catalog Number | NV833361 |

@@ -30,7 +30,10 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Pop Will Eat Itself - Can U Dig It? (Twelve)
 {{< youtube id="7uG_gNOhmDc" title="Pop Will Eat Itself - Can U Dig It? (Twelve)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl 12" 45 RPM Stereo |
 | Label          | RCA |
 | Catalog Number | PT 42620 |

@@ -42,9 +42,14 @@ styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 Weather Diaries is the fifth studio album by English rock band Ride. The album was released on 16 June 2017, and is the first Ride album since 1996's Tarantula. The album was produced by English DJ Erol Alkan and mixed by long-time Ride collaborator Alan Moulder.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/weather-diaries/1217906716" >}}
+{{< applemusic url="https://music.apple.com/gb/album/weather-diaries/1217906716" >}}<br>
+
+
 ## Videos
 ### Ride - Home Is A Feeling (OFFICIAL AUDIO)
 {{< youtube id="A5xwjWbBbzo" title="Ride - Home Is A Feeling (OFFICIAL AUDIO)" >}}<br>
@@ -57,8 +62,6 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weather_Diaries |
-| Wikipedia Summary | Weather Diaries is the fifth studio album by English rock band Ride. The album was released on 16 June 2017, and is the first Ride album since 1996's Tarantula. The album was produced by English DJ Erol Alkan and mixed by long-time Ride collaborator Alan Moulder.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Wichita |
 | Catalog Number | WEBB510LP |

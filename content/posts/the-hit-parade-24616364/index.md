@@ -86,9 +86,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-hit-parade/285881864" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-hit-parade/285881864" >}}<br>
+
+
 ## Videos
 ### The Wedding Present -  Blue Eyes
 {{< youtube id="d6PTTVI3qLc" title="The Wedding Present -  Blue Eyes" >}}<br>
@@ -105,7 +108,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Reissue, CD 2× Compilation Promo Reissue, All Media (30th Anniversary Edition) |
 | Label          | Sony Music |
 | Catalog Number | 19658708791 |

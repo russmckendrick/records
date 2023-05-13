@@ -43,9 +43,15 @@ styles: ["Prog Rock"]
 Animals is the tenth studio album by the English rock band Pink Floyd, released on 21 January 1977 through Harvest Records and Columbia Records. It was self-produced at Pink Floyd's Britannia Row Studios in London throughout 1976. The album continued the longform compositions that made up their previous works, including Wish You Were Here (1975).
 Animals is both a progressive rock album and a concept album, focusing on the social-political conditions of mid-1970s Britain, and was a change from the style of Pink Floyd's work. Tension within the band during production culminated in keyboardist Richard Wright being fired two years later. The album's cover, conceived by the band's bassist and lead songwriter Roger Waters and designed by long-time collaborator Storm Thorgerson, shows an inflatable pig floating between two chimneys of Battersea Power Station.
 Pink Floyd released no singles from Animals but promoted it through the In the Flesh tour. Waters' agitation with audiences during this tour inspired their next album, The Wall (1979). Animals reached number 2 in the UK and number 3 in the US. It initially received mixed reviews, but gained more favourable reviews in later years, and is considered one of the band's best works.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/animals/699610635" >}}
+{{< applemusic url="https://music.apple.com/gb/album/animals/699610635" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - Animals (Full Album) HD
 {{< youtube id="yFHYCiIYXOA" title="Pink Floyd - Animals (Full Album) HD" >}}<br>
@@ -58,8 +64,6 @@ Pink Floyd released no singles from Animals but promoted it through the In the F
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Animals_(Pink_Floyd_album) |
-| Apple Music Summary | Most of the British rock superstars of Pink Floyd's generation took little notice of the late-'70s punk revolution. While the three extended epics that make up the bulk of <i>Animals</i> couldn't sound less like the Sex Pistols, Roger Waters' venomous, Orwellian lyrics viciously dismiss the whole of modern British society as dogs, pigs and sheep. That sense of seething contempt and anger makes <i>Animals</i> a spiritual cousin to the punks, though the hopeful two-part bookend "Pigs on the Wing" offers a welcoming sense of compassion. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP10 |

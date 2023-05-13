@@ -40,9 +40,12 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bedroom/1502108037" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bedroom/1502108037" >}}<br>
+
+
 ## Videos
 ### bdrmm - Bedroom (Full Album)
 {{< youtube id="eQWIrE9xGes" title="bdrmm - Bedroom (Full Album)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Sonic Cathedral Recordings |
 | Catalog Number | SCR160LP |

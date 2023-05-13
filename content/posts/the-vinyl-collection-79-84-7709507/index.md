@@ -97,7 +97,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -106,7 +109,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Box Set Compilation Deluxe Edition Remastered (180g), Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
 | Label          | Universal Music |
 | Catalog Number | 4733760 |

@@ -58,9 +58,14 @@ styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
 <!-- section break -->
 
 The Thread That Keeps Us is the ninth studio album by American indie rock band Calexico. It was released on January 26, 2018, under Anti-.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-thread-that-keeps-us-deluxe-edition/1289246851" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-thread-that-keeps-us-deluxe-edition/1289246851" >}}<br>
+
+
 ## Videos
 ### Calexico - 'Another Space' (Official Audio)
 {{< youtube id="ELvbO5U2Xvw" title="Calexico - 'Another Space' (Official Audio)" >}}<br>
@@ -85,8 +90,6 @@ The Thread That Keeps Us is the ninth studio album by American indie rock band C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Thread_That_Keeps_Us |
-| Wikipedia Summary | The Thread That Keeps Us is the ninth studio album by American indie rock band Calexico. It was released on January 26, 2018, under Anti-. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Deluxe Edition Limited Edition |
 | Label          | City Slang |
 | Catalog Number | Slang50138LTD |

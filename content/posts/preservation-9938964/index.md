@@ -36,9 +36,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/preservation/1179774934" >}}
+{{< applemusic url="https://music.apple.com/gb/album/preservation/1179774934" >}}<br>
+
+
 ## Videos
 ### Nadia Reid - Preservation (Official Video)
 {{< youtube id="Yay24OXOW3k" title="Nadia Reid - Preservation (Official Video)" >}}<br>
@@ -53,7 +56,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Basin Rock |
 | Catalog Number | BR002 |

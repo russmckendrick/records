@@ -45,9 +45,14 @@ styles: ["Trip Hop"]
 Roseland NYC Live is a live album by English electronic music band Portishead. It was released on 2 November 1998 by Go! Beat. A PAL format VHS video was released the same year, with a DVD version following four years later. Although the New York Philharmonic is credited as appearing in the video, none of the musicians are members of the Philharmonic, nor is the Philharmonic credited in the audio album.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roseland-nyc-live/1440913466" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roseland-nyc-live/1440913466" >}}<br>
+
+
 ## Videos
 ### Portishead - Only you (Roseland NYC) (HQ)
 {{< youtube id="4cIiyfSZfzs" title="Portishead - Only you (Roseland NYC) (HQ)" >}}<br>
@@ -72,8 +77,6 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roseland_NYC_Live |
-| Wikipedia Summary | Roseland NYC Live is a live album by English electronic music band Portishead. It was released on 2 November 1998 by Go! Beat. A PAL format VHS video was released the same year, with a DVD version following four years later. Although the New York Philharmonic is credited as appearing in the video, none of the musicians are members of the Philharmonic, nor is the Philharmonic credited in the audio album.<br><br> |
-| Release Year   | 0                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Go! Beat |
 | Catalog Number | 559 424-1 |

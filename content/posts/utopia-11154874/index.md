@@ -51,9 +51,14 @@ Utopia is the ninth studio album by Icelandic singer-musician Björk. It was pri
 The album was acclaimed by music critics for its production, songwriting and Björk's vocals, and later received a nomination for Best Alternative Music Album at the 61st Annual Grammy Awards, becoming Björk's eighth consecutive nomination in the category.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/utopia/1505333074" >}}
+{{< applemusic url="https://music.apple.com/gb/album/utopia/1505333074" >}}<br>
+
+
 
 
 ## Release Images
@@ -63,8 +68,6 @@ The album was acclaimed by music critics for its production, songwriting and Bj�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Utopia_(Bj%C3%B6rk_album) |
-| Wikipedia Summary | Utopia is the ninth studio album by Icelandic singer-musician Björk. It was primarily produced by Björk and Venezuelan electronic record producer Arca, and released on 24 November 2017 through One Little Independent Records in the United Kingdom and The Orchard Enterprises in the United States.<br>The album was acclaimed by music critics for its production, songwriting and Björk's vocals, and later received a nomination for Best Alternative Music Album at the 61st Annual Grammy Awards, becoming Björk's eighth consecutive nomination in the category.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Peach) |
 | Label          | One Little Indian |
 | Catalog Number | tplp1381ltd |

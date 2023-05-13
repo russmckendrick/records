@@ -46,9 +46,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-s%C3%A9ance-of-dark-delusions/985590300" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-s%C3%A9ance-of-dark-delusions/985590300" >}}<br>
+
+
 ## Videos
 ### ¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥
 {{< youtube id="yeI5UM572xI" title="¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180 g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE879 |

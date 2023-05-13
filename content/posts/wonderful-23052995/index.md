@@ -42,9 +42,14 @@ styles: ["Pop Rock", "Ska"]
 <!-- section break -->
 
 Wonderful is the seventh studio album by the British band Madness, released on 1 November 1999. It was the band's first studio album in fourteen years since Mad Not Mad in 1985, and also the first to feature their classic seven-piece line-up since 1984's Keep Moving. The album saw Madness reunite with their original production team, Clive Langer and Alan Winstanley, who had produced all of the band's previous work.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wonderful/1208794317" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wonderful/1208794317" >}}<br>
+
+
 ## Videos
 ### Madness - Lovestruck
 {{< youtube id="FiThjLcB1Qk" title="Madness - Lovestruck" >}}<br>
@@ -70,8 +75,6 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wonderful_(Madness_album) |
-| Wikipedia Summary | Wonderful is the seventh studio album by the British band Madness, released on 1 November 1999. It was the band's first studio album in fourteen years since Mad Not Mad in 1985, and also the first to feature their classic seven-piece line-up since 1984's Keep Moving. The album saw Madness reunite with their original production team, Clive Langer and Alan Winstanley, who had produced all of the band's previous work. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP14 |

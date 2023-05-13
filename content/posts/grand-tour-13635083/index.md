@@ -42,9 +42,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Grand Tour is the twelfth studio album by the English progressive rock band Big Big Train. It contains all new songs unlike the previous, The Second Brightest Star. Thematically it broadens the lyrical landscape for the group into the European world, previously having a largely domestic British focus. It moves from English folklore and landscape, to the 17th and 18th century habit of well-to-do Europeans going on the 'Grand Tour' to experience a wider circle of art and science. It is the last studio album to feature band members Dave Gregory, Rachel Hall, and Danny Manners who left in 2020.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grand-tour/1459209342" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grand-tour/1459209342" >}}<br>
+
+
 ## Videos
 ### Big Big Train - Theodora in Green and Gold
 {{< youtube id="nZRsmxpS7iI" title="Big Big Train - Theodora in Green and Gold" >}}<br>
@@ -57,8 +62,6 @@ Grand Tour is the twelfth studio album by the English progressive rock band Big 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grand_Tour_(Big_Big_Train_album) |
-| Wikipedia Summary | Grand Tour is the twelfth studio album by the English progressive rock band Big Big Train. It contains all new songs unlike the previous, The Second Brightest Star. Thematically it broadens the lyrical landscape for the group into the European world, previously having a largely domestic British focus. It moves from English folklore and landscape, to the 17th and 18th century habit of well-to-do Europeans going on the 'Grand Tour' to experience a wider circle of art and science. It is the last studio album to feature band members Dave Gregory, Rachel Hall, and Danny Manners who left in 2020. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Cream) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG074 |

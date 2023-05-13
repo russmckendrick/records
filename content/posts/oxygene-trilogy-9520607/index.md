@@ -76,9 +76,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/oxygene-trilogy/1163145484" >}}
+{{< applemusic url="https://music.apple.com/gb/album/oxygene-trilogy/1163145484" >}}<br>
+
+
 ## Videos
 ### Jean Michel Jarre - Oxygene
 {{< youtube id="nz1cEO01LLc" title="Jean Michel Jarre - Oxygene" >}}<br>
@@ -93,7 +96,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Compilation Deluxe Edition Limited Edition (40th Anniversary Edition), CD Album Reissue, CD Album Reissue, CD Album, Vinyl LP Album Reissue (Transparent), Vinyl LP Album Reissue (Transparent), Vinyl LP Album (Transparent) |
 | Label          | Sony Music |
 | Catalog Number | 88985361872 |

@@ -72,9 +72,15 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with plenty of orchestral influences present in Eels’ latest offering—especially in the title track’s dark strings and “Rusty Pipes” with its subtle choral background vocals. “You Are The Shining Light” provides throwback with a ‘60s style drum beat and a piercing electric guitar lead, while the atmospheric “In Our Cathedral” gives that warm, fuzzy feeling—making <i>The Deconstruction</i> a reflective look at life through varied pop and rock styles.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-deconstruction/1330700343" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-deconstruction/1330700343" >}}<br>
+
+
 ## Videos
 ### EELS - The Deconstruction - title track (AUDIO)
 {{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track (AUDIO)" >}}<br>
@@ -94,8 +100,6 @@ Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Deconstruction |
-| Wikipedia Summary | The Deconstruction is the twelfth studio album by American rock band Eels, released on April 6, 2018. The band's twelfth studio release follows a four-year period where front man Mark Oliver "E" Everett took a hiatus from music. The album has garnered favorable reviews. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl 2× 12" 45 RPM (Pink), CD Album, Box Set Deluxe Edition |
 | Label          | E Works Records |
 | Catalog Number | EWORKS1150LPX |

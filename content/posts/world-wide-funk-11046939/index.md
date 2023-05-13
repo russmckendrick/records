@@ -62,9 +62,12 @@ styles: ["P.Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/world-wide-funk/1600467754" >}}
+{{< applemusic url="https://music.apple.com/gb/album/world-wide-funk/1600467754" >}}<br>
+
+
 ## Videos
 ### Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017
 {{< youtube id="xgqPq3MKbcI" title="Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017" >}}<br>
@@ -85,7 +88,6 @@ styles: ["P.Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Splatter) |
 | Label          | Mascot Records (2) |
 | Catalog Number | M 75141 |

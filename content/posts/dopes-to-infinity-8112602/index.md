@@ -50,9 +50,14 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 <!-- section break -->
 
 Monster Magnet's allegiance to Black Sabbath, Hawkwind, and Iggy & The Stooges has always guaranteed its albums will be packed with strong, guiding riffs and a sense of fun lurking under heavy rhythms. Leader Dave Wyndorf is a battle-tested veteran who knows this music inside and out. He applies this knowledge with an even hand, writing true anthems with the flashback power of the title track, "Negasonic Teenage Warhead", and the scorched-earth theatrics of "Ego, the Living Planet". The band's jump to a major label, starting with the previous <i>Superjudge</i> release, never dissipated its power and in fact improved its impact. The bigger budgets removed the grungy lo-fi recording and replaced it with a massive attack that was truer to the band's live sound. "Blow 'Em Off" adds acoustic guitars and strings. "Look to Your Orb for the Warning" coasts on Mellotron. "Third Alternative" furthers the band's interest in space rock, with a sound that evokes interplanetary communication alongside its grinding Sabbath-like doom.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dopes-to-infinity/1440920995" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dopes-to-infinity/1440920995" >}}<br>
+
+
 ## Videos
 ### Dopes To Infinity
 {{< youtube id="JWldvOmqhRk" title="Dopes To Infinity" >}}<br>
@@ -81,8 +86,6 @@ Monster Magnet's allegiance to Black Sabbath, Hawkwind, and Iggy & The Stooges h
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Monster Magnet's allegiance to Black Sabbath, Hawkwind, and Iggy & The Stooges has always guaranteed its albums will be packed with strong, guiding riffs and a sense of fun lurking under heavy rhythms. Leader Dave Wyndorf is a battle-tested veteran who knows this music inside and out. He applies this knowledge with an even hand, writing true anthems with the flashback power of the title track, "Negasonic Teenage Warhead", and the scorched-earth theatrics of "Ego, the Living Planet". The band's jump to a major label, starting with the previous <i>Superjudge</i> release, never dissipated its power and in fact improved its impact. The bigger budgets removed the grungy lo-fi recording and replaced it with a massive attack that was truer to the band's live sound. "Blow 'Em Off" adds acoustic guitars and strings. "Look to Your Orb for the Warning" coasts on Mellotron. "Third Alternative" furthers the band's interest in space rock, with a sound that evokes interplanetary communication alongside its grinding Sabbath-like doom. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642337 |

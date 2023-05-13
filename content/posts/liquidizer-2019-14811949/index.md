@@ -33,7 +33,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Jesus Jones - All The Answers
 {{< youtube id="ZiXm7kHLvt8" title="Jesus Jones - All The Answers" >}}<br>
@@ -47,7 +50,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× 7" 45 RPM Single Limited Edition Mispress (Silver/Grey (mispress variant) / Multicolour Grey) |
 | Label          | Speedowax Records |
 | Catalog Number | ATOMO183 |

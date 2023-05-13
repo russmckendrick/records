@@ -38,9 +38,12 @@ styles: ["Avantgarde"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-vigilante/1014625945" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-vigilante/1014625945" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)
 {{< youtube id="lb3iIeh0Ruw" title="Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 12", Vinyl 12" Single Sided Etched, All Media Album EP Reissue Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE897 |

@@ -47,9 +47,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/living-in-extraordinary-times/1382647329" >}}
+{{< applemusic url="https://music.apple.com/gb/album/living-in-extraordinary-times/1382647329" >}}<br>
+
+
 ## Videos
 ### James – ‘HANK’ (Official Audio)
 {{< youtube id="v_Vf8dNikAk" title="James – ‘HANK’ (Official Audio)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Magenta ) |
 | Label          | Infectious Music |
 | Catalog Number | INFECT438ELP1 |

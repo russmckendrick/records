@@ -34,9 +34,15 @@ It was commissioned and briefly released, on August 7, 1967, by Capitol Records 
 Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gravy as the second part of a conceptual continuity that later included his final album, Civilization Phaze III.
 
 
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="2WtjHoqPZlQhCNzEhy6TkZ" width="100%" height="500" >}}
+{{< spotify type="album" id="2WtjHoqPZlQhCNzEhy6TkZ" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,8 +52,6 @@ Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gra
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lumpy_Gravy |
-| Wikipedia Summary | Lumpy Gravy is the debut solo album by Frank Zappa, written by Zappa and performed by a group of session players he dubbed the Abnuceals Emuukha Electric Symphony Orchestra. Zappa conducted the orchestra but did not perform on the album. It is his third album overall: his previous releases had been under the name of his group, the Mothers of Invention.<br>It was commissioned and briefly released, on August 7, 1967, by Capitol Records in the 4-track Stereo-Pak format only and then withdrawn due to a lawsuit from MGM Records. MGM claimed that the album violated Zappa's contract with their subsidiary, Verve Records. In 1968 it was reedited and released by MGM's Verve Records on May 13, 1968. The final version of the album consisted of two musique concrète pieces that combined elements from the original orchestral performance with elements of surf music and the spoken word. It was praised for its music and editing.<br>Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gravy as the second part of a conceptual continuity that later included his final album, Civilization Phaze III.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180 Gram) |
 | Label          | Zappa Records |
 | Catalog Number | ZR 3836-1 |

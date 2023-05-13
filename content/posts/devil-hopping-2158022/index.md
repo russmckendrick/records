@@ -40,9 +40,12 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}
+{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}<br>
+
+
 ## Videos
 ### Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)
 {{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1994                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mute |
 | Catalog Number | DUNG 25 |

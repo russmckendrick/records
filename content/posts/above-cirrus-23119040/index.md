@@ -48,9 +48,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/above-cirrus/1609674107" >}}
+{{< applemusic url="https://music.apple.com/gb/album/above-cirrus/1609674107" >}}<br>
+
+
 ## Videos
 ### Our Prism
 {{< youtube id="lJJ2vUfY5ps" title="Our Prism" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Green [Light], 180g), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM628 |

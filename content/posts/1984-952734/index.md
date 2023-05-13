@@ -45,9 +45,15 @@ styles: ["Hard Rock", "Arena Rock"]
 1984 (stylized in Roman numerals as MCMLXXXIV) is the sixth studio album by American rock band Van Halen, released on January 9, 1984. It was the last Van Halen studio album until A Different Kind of Truth (2012) to feature lead singer David Lee Roth, who left the band in 1985 following creative differences. This is the final full-length album to feature all four original members (Van Halen brothers, Roth, and Michael Anthony), although they reunited briefly in 2000 to start work on what would much later become 2012's A Different Kind of Truth. Roth returned in 2007, but Eddie's son Wolfgang replaced Anthony in 2006. 1984 and Van Halen's debut are Van Halen's bestselling albums, each having sold more than 10 million copies.1984 was well received by music critics. Rolling Stone ranked the album number 81 on its list of the 100 Greatest Albums of the 1980s. It reached number two on the Billboard 200 album chart and remained there for five weeks, behind Michael Jackson's Thriller, on which guitarist Eddie Van Halen made a guest performance. 1984 produced four singles, including "Jump", Van Halen's only number-one single on the Billboard Hot 100; the top-20 hits "Panama" and "I'll Wait"; and the MTV favorite "Hot for Teacher". The album was certified diamond by the Recording Industry Association of America in 1999, signifying ten million shipped copies.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1984/976831013" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1984/976831013" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +63,6 @@ styles: ["Hard Rock", "Arena Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1984_(Van_Halen_album) |
-| Apple Music Summary | Jamming more ideas and personality into 34 minutes than most bands pack into a career, this towering pinnacle of ’80s hard rock was a last gasp both for David Lee Roth’s initial run in Van Halen and for metal as sunny as The Beach Boys. Rarely has a band sounded so skilled, so casually confident, so happy to be here. There’s Hall of Fame-hooked synth-rock (“Jump”), pomp-gone-pop (“I’ll Wait”), classy California car-club sass (“Panama”), and bar-band brashness (“Top Jimmy”), plus comedy and chops for miles. |
-    | Release Year   | 1984                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 92-3985-1 |

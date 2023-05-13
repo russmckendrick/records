@@ -43,9 +43,12 @@ styles: ["Indie Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ill-be-your-girl/1333262413" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ill-be-your-girl/1333262413" >}}<br>
+
+
 ## Videos
 ### The Decemberists - Severed
 {{< youtube id="ksTFj6L0mao" title="The Decemberists - Severed" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Indie Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLPX906 |

@@ -47,9 +47,14 @@ styles: ["Indie Rock"]
 Slave Ambient is the second studio album by American indie rock band The War on Drugs, released on August 16, 2011, on Secretly Canadian. Recorded over three years, Slave Ambient is the final release to feature contributions from founding guitarist Kurt Vile and drummer Mike Zanghi, and the first to feature drummer Steven Urgo.The album was preceded by the EP, Future Weather, in 2010.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/slave-ambient/452135966" >}}
+{{< applemusic url="https://music.apple.com/gb/album/slave-ambient/452135966" >}}<br>
+
+
 ## Videos
 ### The War On Drugs - Baby Missiles  (Official Video)
 {{< youtube id="rMToQg0vSds" title="The War On Drugs - Baby Missiles  (Official Video)" >}}<br>
@@ -67,8 +72,6 @@ Slave Ambient is the second studio album by American indie rock band The War on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slave_Ambient |
-| Wikipedia Summary | Slave Ambient is the second studio album by American indie rock band The War on Drugs, released on August 16, 2011, on Secretly Canadian. Recorded over three years, Slave Ambient is the final release to feature contributions from founding guitarist Kurt Vile and drummer Mike Zanghi, and the first to feature drummer Steven Urgo.The album was preceded by the EP, Future Weather, in 2010.<br><br> |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× 12" 45 RPM Album |
 | Label          | Secretly Canadian |
 | Catalog Number | SC190 |

@@ -49,9 +49,14 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 
 Supernature is the third studio album by English electronic music duo Goldfrapp, released on 17 August 2005 by Mute Records. The album received generally favourable reviews, with most critics complimenting its blend of pop and electronic music. It debuted at number two on the UK Albums Chart with first-week sales of 52,976 copies, and has been certified platinum by the British Phonographic Industry (BPI). Supernature has sold one million copies worldwide.
 The album's lead single, "Ooh La La", reached number four on the UK Singles Chart, becoming the duo's highest-peaking single to date. The album spawned three further singles: "Number 1", "Ride a White Horse" and "Fly Me Away". In North America, where "Number 1" was promoted as the first single, the album was released on 7 March 2006 and reached number 138 on the charts. Supernature was nominated for a Grammy Award for Best Electronic/Dance Album in 2007.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/supernature/1142257697" >}}
+{{< applemusic url="https://music.apple.com/gb/album/supernature/1142257697" >}}<br>
+
+
 ## Videos
 ### Goldfrapp - Number 1
 {{< youtube id="gzfaJRDfveo" title="Goldfrapp - Number 1" >}}<br>
@@ -67,8 +72,6 @@ The album's lead single, "Ooh La La", reached number four on the UK Singles Char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Supernature_(Goldfrapp_album) |
-| Wikipedia Summary | Supernature is the third studio album by English electronic music duo Goldfrapp, released on 17 August 2005 by Mute Records. The album received generally favourable reviews, with most critics complimenting its blend of pop and electronic music. It debuted at number two on the UK Albums Chart with first-week sales of 52,976 copies, and has been certified platinum by the British Phonographic Industry (BPI). Supernature has sold one million copies worldwide.<br>The album's lead single, "Ooh La La", reached number four on the UK Singles Chart, becoming the duo's highest-peaking single to date. The album spawned three further singles: "Number 1", "Ride a White Horse" and "Fly Me Away". In North America, where "Number 1" was promoted as the first single, the album was released on 7 March 2006 and reached number 138 on the charts. Supernature was nominated for a Grammy Award for Best Electronic/Dance Album in 2007. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Green Translucent, Gatefold) |
 | Label          | Mute |
 | Catalog Number | GSTUMM250 |

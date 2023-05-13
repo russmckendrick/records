@@ -37,9 +37,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Octopus is the fourth album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album with founding member Phil Shulman and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/octopus-steven-wilson-mix/1204273198" >}}
+{{< applemusic url="https://music.apple.com/gb/album/octopus-steven-wilson-mix/1204273198" >}}<br>
+
+
 ## Videos
 ### Gentle Giant - Octopus (Full Album - 1972) Remastered
 {{< youtube id="ifRnVEkqB2I" title="Gentle Giant - Octopus (Full Album - 1972) Remastered" >}}<br>
@@ -52,8 +57,6 @@ Octopus is the fourth album by British progressive rock band Gentle Giant, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Octopus_(Gentle_Giant_album) |
-| Wikipedia Summary | Octopus is the fourth album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album with founding member Phil Shulman and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV61 |

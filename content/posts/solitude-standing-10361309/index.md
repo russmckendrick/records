@@ -40,9 +40,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Solitude Standing is the second studio album by American singer-songwriter Suzanne Vega, released on April 1, 1987, by A&M Records. It is the most commercially successful and critically acclaimed album of Vega's, being certified Platinum in the US and reaching number 11 on the Billboard 200.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/solitude-standing/1444012381" >}}
+{{< applemusic url="https://music.apple.com/gb/album/solitude-standing/1444012381" >}}<br>
+
+
 ## Videos
 ### Suzanne Vega - Luka
 {{< youtube id="VZt7J0iaUD0" title="Suzanne Vega - Luka" >}}<br>
@@ -67,8 +72,6 @@ Solitude Standing is the second studio album by American singer-songwriter Suzan
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Solitude_Standing |
-| Wikipedia Summary | Solitude Standing is the second studio album by American singer-songwriter Suzanne Vega, released on April 1, 1987, by A&M Records. It is the most commercially successful and critically acclaimed album of Vega's, being certified Platinum in the US and reaching number 11 on the Billboard 200. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | A&M Records |
 | Catalog Number | B0026079-01 |

@@ -46,7 +46,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)
 {{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)" >}}<br>
@@ -58,7 +61,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 424 |

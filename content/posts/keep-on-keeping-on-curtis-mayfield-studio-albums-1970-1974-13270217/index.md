@@ -73,9 +73,12 @@ styles: ["Soul", "Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/keep-on-keeping-on-curtis-mayfield-studio-albums-1970/1449314858" >}}
+{{< applemusic url="https://music.apple.com/gb/album/keep-on-keeping-on-curtis-mayfield-studio-albums-1970/1449314858" >}}<br>
+
+
 ## Videos
 ### Kung Fu (Remastered)
 {{< youtube id="00_KO4YFaRM" title="Kung Fu (Remastered)" >}}<br>
@@ -87,7 +90,6 @@ styles: ["Soul", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Box Set, All Media Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 573931 |

@@ -81,9 +81,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/animals-2018-remix/1632196339" >}}
+{{< applemusic url="https://music.apple.com/gb/album/animals-2018-remix/1632196339" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - Animals (Full Album) HD
 {{< youtube id="yFHYCiIYXOA" title="Pink Floyd - Animals (Full Album) HD" >}}<br>
@@ -95,7 +98,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo, CD Album Reissue Stereo, Blu-ray Album Reissue Remastered Stereo Multichannel, DVD DVD-Video Multichannel Album Reissue Remastered Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR28D |

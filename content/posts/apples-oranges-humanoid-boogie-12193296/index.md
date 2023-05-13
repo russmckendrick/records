@@ -32,7 +32,10 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)
 {{< youtube id="wFWt15ZHNaA" title="Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 10" 33 ⅓ RPM EP Stereo Mono |
 | Label          | Ape House |
 | Catalog Number | APEEP 901 |

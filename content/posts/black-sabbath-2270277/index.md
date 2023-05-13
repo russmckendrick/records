@@ -37,9 +37,15 @@ It’s not that Black Sabbath invented heavy metal. By the end of the 1960s, gen
 Much like the horror genre (the band name itself was stolen from a 1963 Italian anthology by “Master of the Macabre” Mario Bava), these songs were generally designed to incite fear, terror, suspense, excitement. First, the scene is set: a dark and stormy night. Heavy rain, thunder and creepy church bells lay the foundation of “Black Sabbath” (the first song on Black Sabbath’s first album, <i>Black Sabbath</i>). It’s almost 40 seconds before the guitar riff strikes. Soon, Ozzy Osbourne starts singing about a mysterious “figure in black” pointing and staring at him—the lyrics were inspired by a vision bassist Geezer Butler had experienced in his room, then painted completely black, decorated with occultist books and satanic images. A few lines later comes Osbourne’s very first ungodly howl: “Oh, no, no, please, God help me.” It’s a song so intense and demonic, it not only terrified and intrigued millions, it instantly created the doom metal subgenre and led to countless Sabbath-worshipper attempts to emulate its impact ever since.<br />
 Despite the hasty recording session, an incredible level of creativity went into the stories behind these songs. Led Zeppelin might be the biggest Tolkien fanatics in rock, but Iommi, who was reading <i>Lord of the Rings</i> at the time, found inspiration for “The Wizard” in Gandalf: “Evil power disappears, demons worry when the wizard is near/He turns tears into joy, everyone's happy when the wizard walks by.” “Behind the Wall of Sleep” pays homage to H.P. Lovecraft, and “N.I.B.” is a twisted, Cream-inspired love song from the perspective of Lucifer himself.<br />
 <i>Black Sabbath</i> was, appropriately, released on Friday the 13th in February 1970, and, despite being panned by critics, became so successful that they returned to the studio just four months later to record <i>Paranoid</i>.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-sabbath-2009-remastered-version/1204520063" >}}
+{{< applemusic url="https://music.apple.com/gb/album/black-sabbath-2009-remastered-version/1204520063" >}}<br>
+
+
 ## Videos
 ### BLACK SABBATH - Black Sabbath (Official Video)
 {{< youtube id="0lVdMbUx1_k" title="BLACK SABBATH - Black Sabbath (Official Video)" >}}<br>
@@ -60,9 +66,7 @@ Despite the hasty recording session, an incredible level of creativity went into
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Forbidden_(Black_Sabbath_album) |
-| Wikipedia Summary | Forbidden is the eighteenth studio album by English rock band Black Sabbath, released in June 1995. This recording saw the reunion of Black Sabbath's Tyr-era line-up from 1990, with the return of Neil Murray and Cozy Powell. It was the last album to feature Tony Martin on vocals and Geoff Nicholls on keyboards, and the last by the band until 2013 when Ozzy Osbourne and Geezer Butler returned for the album 13. The album sold 21,000 copies in the US in its first week and as of 2013, Forbidden has sold 191,000 copies in the US.The album received a generally negative response from critics and fans alike. After its release, the band underwent several line-up changes and found itself at a career crossroads. However, original Black Sabbath vocalist Ozzy Osbourne would reconcile with guitarist Tony Iommi not long afterwards.<br><br> |
-    | Release Year   | 2010                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_and_Hell_(Black_Sabbath_album) |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 1871 |

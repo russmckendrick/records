@@ -35,9 +35,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dont-give-up-on-me/1485019443" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dont-give-up-on-me/1485019443" >}}<br>
+
+
 ## Videos
 ### Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)
 {{< youtube id="FR73etxqFx4" title="Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Reissue Repress (Gatefold - Transparent) |
 | Label          | Anti- |
 | Catalog Number | 0358-3 |

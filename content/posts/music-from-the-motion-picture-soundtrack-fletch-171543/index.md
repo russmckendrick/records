@@ -37,7 +37,10 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Stephanie Mills - Bit By Bit (Theme From Fletch) 1985
 {{< youtube id="jPlxWRZO7jY" title="Stephanie Mills - Bit By Bit (Theme From Fletch) 1985" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | MCA Records |
 | Catalog Number | 252 332-1 |

@@ -49,7 +49,10 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### 5:15 - Quadrophenia - The Who
 {{< youtube id="OR5v4yyPV6Y" title="5:15 - Quadrophenia - The Who" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Green) |
 | Label          | Polydor |
 | Catalog Number | 5732868 |

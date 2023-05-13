@@ -42,9 +42,14 @@ styles: ["Synth-pop"]
 
 Penthouse and Pavement is the debut studio album by English new wave and synth-pop band Heaven 17, released in September 1981 by Virgin Records.
 "(We Don't Need This) Fascist Groove Thang" was released as a single, but did not achieve chart success, partly due to a ban by the BBC. The album sold reasonably well, but was not a great commercial success on release. It has since been regarded as "an important outing", is included in the book 1001 Albums You Must Hear Before You Die, and was re-released in 2010 in a three-disc special edition.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/penthouse-and-pavement/714604615" >}}
+{{< applemusic url="https://music.apple.com/gb/album/penthouse-and-pavement/714604615" >}}<br>
+
+
 ## Videos
 ### [We Don't Need This] Fascist Groove Thang
 {{< youtube id="Q49BjlSOCGE" title="[We Don't Need This] Fascist Groove Thang" >}}<br>
@@ -67,8 +72,6 @@ Penthouse and Pavement is the debut studio album by English new wave and synth-p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Penthouse_and_Pavement |
-| Wikipedia Summary | Penthouse and Pavement is the debut studio album by English new wave and synth-pop band Heaven 17, released in September 1981 by Virgin Records.<br>"(We Don't Need This) Fascist Groove Thang" was released as a single, but did not achieve chart success, partly due to a ban by the BBC. The album sold reasonably well, but was not a great commercial success on release. It has since been regarded as "an important outing", is included in the book 1001 Albums You Must Hear Before You Die, and was re-released in 2010 in a three-disc special edition. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | 0602547941602 |

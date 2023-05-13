@@ -36,7 +36,10 @@ styles: ["Country"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Slim Whitman - - -  Birmingham Jail  - --  { Best Video }
 {{< youtube id="kqufglg5A4s" title="Slim Whitman - - -  Birmingham Jail  - --  { Best Video }" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Reissue Mono |
 | Label          | RCA Camden |
 | Catalog Number | CDM 1018 |

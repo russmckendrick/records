@@ -48,9 +48,12 @@ styles: ["Soundtrack", "Score"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/star-trek-ii-the-wrath-of-khan-original-motion/726982589" >}}
+{{< applemusic url="https://music.apple.com/gb/album/star-trek-ii-the-wrath-of-khan-original-motion/726982589" >}}<br>
+
+
 ## Videos
 ### Star Trek II: The Wrath of Khan • Main Theme • James Horner
 {{< youtube id="aICzV6QS9wA" title="Star Trek II: The Wrath of Khan • Main Theme • James Horner" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Deluxe Edition Limited Edition (Blue/Purple Marble "Mutara Nebula") |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-032 |

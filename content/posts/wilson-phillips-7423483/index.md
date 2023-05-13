@@ -39,11 +39,15 @@ styles: ["Soft Rock"]
 
 <!-- section break -->
 
-Wilson Phillips is an American pop group formed in Los Angeles in 1989. The group consists of Carnie Wilson and Wendy Wilson, the daughters of Brian Wilson of the Beach Boys, and Chynna Phillips, the daughter of John and Michelle Phillips of the Mamas & the Papas.
-Their 1990 eponymous debut album sold over 10 million copies worldwide and included five major US hit singles, four of which went Top 10 (three of those to number one) on the Billboard Hot 100. In 1990, the group won the Billboard Music Award for Hot 100 Single of the Year for their song "Hold On", and was nominated for five Grammy Awards and two American Music Awards.
-<br>
+"Hold On" is a song by American vocal group Wilson Phillips, released on February 27, 1990, as the lead single from their debut studio album, Wilson Phillips (1990). The song topped the US Billboard Hot 100 for a week in June 1990 and was the most successful single of that year in the US. The song won the Billboard Music Award for Hot 100 Single of the Year for 1990. At the Grammy Awards of 1991, "Hold On" received a nomination for Song of the Year, losing to "From a Distance" by Julie Gold and performed by Bette Midler.In 2017, Billboard ranked the song number 15 on their list of "100 Greatest Girl Group Songs of All Time". In 2020, Cleveland.com ranked it at number 37 in their list of the best Billboard Hot 100 No. 1 song of the 1990s. In 2022, Pitchfork ranked number 246 in their list of "The 250 Best Songs of the 1990s".
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wilson-phillips/723895185" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wilson-phillips/723895185" >}}<br>
+
+
 ## Videos
 ### wilson phillips - release me with lyrics
 {{< youtube id="dSKZy2Knk94" title="wilson phillips - release me with lyrics" >}}<br>
@@ -73,9 +77,7 @@ Their 1990 eponymous debut album sold over 10 million copies worldwide and inclu
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Wilson_Phillips |
-| Wikipedia Summary | Wilson Phillips is an American pop group formed in Los Angeles in 1989. The group consists of Carnie Wilson and Wendy Wilson, the daughters of Brian Wilson of the Beach Boys, and Chynna Phillips, the daughter of John and Michelle Phillips of the Mamas & the Papas.<br>Their 1990 eponymous debut album sold over 10 million copies worldwide and included five major US hit singles, four of which went Top 10 (three of those to number one) on the Billboard Hot 100. In 1990, the group won the Billboard Music Award for Hot 100 Single of the Year for their song "Hold On", and was nominated for five Grammy Awards and two American Music Awards. |
-| Release Year   | 1990                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hold_On_(Wilson_Phillips_song) |
 | Format         | Vinyl LP Album |
 | Label          | SBK Records |
 | Catalog Number | SBKLP 5 |

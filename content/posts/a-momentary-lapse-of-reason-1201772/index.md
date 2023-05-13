@@ -52,9 +52,15 @@ A Momentary Lapse of Reason was the first Pink Floyd album recorded without foun
 A Momentary Lapse of Reason received mixed reviews; some critics praised the production and instrumentation but criticised Gilmour's writing, and it was derided by Waters. It was nonetheless a commercial comeback for the band, reaching number three in the UK and US, and outsold Pink Floyd's previous album The Final Cut (1983). The album was supported by a highly successful world tour between 1987 and 1989, including free performance on a barge floating on the Grand Canal in Venice, Italy.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-momentary-lapse-of-reason/699606729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-momentary-lapse-of-reason/699606729" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - A Momentary Lapse Of Reason (Full Album)
 {{< youtube id="DEf0iT6r7z4" title="Pink Floyd - A Momentary Lapse Of Reason (Full Album)" >}}<br>
@@ -67,8 +73,6 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Momentary_Lapse_of_Reason |
-| Apple Music Summary | David Gilmour took some criticism for carrying on Pink Floyd without Roger Waters—not least from Waters himself. Begun as a solo album, this became the relaunch of Pink Floyd when cofounders Rick Wright and Nick Mason joined in. Gilmour's less-acidic worldview means <i>A Momentary Lapse of Reason</i> lacks the pointed lyrical edge of the last handful of Floyd albums. But the lush, richly detailed arrangements of tracks like the dreamy "Learning to Fly" give Gilmour's liquid guitar solos room to evolve. |
-    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | EMI |
 | Catalog Number | EMD 1003 |

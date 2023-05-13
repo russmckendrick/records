@@ -50,9 +50,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723" >}}<br>
+
+
 ## Videos
 ### Ride - Leave Them All Behind
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Reissue (Red) |
 | Label          | Sire |
 | Catalog Number | 081227955137 |

@@ -39,9 +39,15 @@ styles: []
 
 Signals is the ninth studio album by Canadian rock band Rush, released on September 9, 1982 by Anthem Records. After the release of their previous album, Moving Pictures, the band started to prepare material for a follow-up during soundchecks on their 1981 concert tour and during the mixing of their subsequent live album Exit...Stage Left. Signals demonstrates the group's continuing use of synthesizers, sequencers, and other electronic instrumentation. It is the last album produced by their longtime associate Terry Brown, who had worked with them since 1974.
 The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in the United States. In November 1982, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the United States. Rush released three singles from the album: "New World Man", which became the band's highest charting single in the United States and a number-one hit in Canada, as well as "Subdivisions", and "Countdown". The group supported Signals with a concert tour from April 1982 to May 1983. Signals has been reissued several times, including a remaster with a new stereo and 5.1 surround sound mix in 2011.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/signals-remastered/1440765198" >}}
+{{< applemusic url="https://music.apple.com/gb/album/signals-remastered/1440765198" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +57,6 @@ The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Signals_(Rush_album) |
-| Apple Music Summary | Anxious to explore the expanding sonic options of the electronic age while also sensing a shift in the hard rock marketplace, Rush softened their guitar-based attack to implement a heavier dependence on synthesizers and an emphasis on the moodier aspects of their sound. The change is announced with the opening keyboard purr of “Subdivisions,” a dead accurate if wordy investigation (drummer Neal Peart is the one member who reluctantly curtails his excesses) into the travails of adolescence. From there, the beats syncopate nearer to New Wave while the songs deal less with sci-fi imaginings and adhere closer to real life. “The Analog Kid,” “The Weapon” and “New World Man” all race forth with a surging energy appropriate to the era. While older fans may have been stunned by these concessions to modern fashion, the results are an invigorated power trio firing on all cylinders. “Losing It,” featuring Ben Mink on electric violin, is a mature reflection on artistic decline, while “Countdown” observes the space shuttle launch with enviable audio verite. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118264 |

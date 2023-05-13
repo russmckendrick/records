@@ -43,9 +43,14 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 Everything Is Wrong is the third studio album by American electronica musician Moby, released on March 14, 1995, by record labels Mute in the United Kingdom and Elektra in the United States. It was released with a limited-edition bonus disc of ambient music titled Underwater.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-is-wrong/1193759680" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-is-wrong/1193759680" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ Everything Is Wrong is the third studio album by American electronica musician M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Is_Wrong_(album) |
-| Wikipedia Summary | Everything Is Wrong is the third studio album by American electronica musician Moby, released on March 14, 1995, by record labels Mute in the United Kingdom and Elektra in the United States. It was released with a limited-edition bonus disc of ambient music titled Underwater.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (180g) |
 | Label          | Mute |
 | Catalog Number | STUMM130 |

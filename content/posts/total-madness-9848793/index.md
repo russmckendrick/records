@@ -52,9 +52,12 @@ styles: ["Ska", "Reggae-Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/total-madness/1208858748" >}}
+{{< applemusic url="https://music.apple.com/gb/album/total-madness/1208858748" >}}<br>
+
+
 
 
 ## Release Images
@@ -63,7 +66,6 @@ styles: ["Ska", "Reggae-Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Repress (Red, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP629 |

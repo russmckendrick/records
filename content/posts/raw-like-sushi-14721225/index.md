@@ -40,9 +40,14 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 <!-- section break -->
 
 Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/raw-like-sushi/716751901" >}}
+{{< applemusic url="https://music.apple.com/gb/album/raw-like-sushi/716751901" >}}<br>
+
+
 ## Videos
 ### Neneh Cherry - Buffalo Stance (Official Music Video)
 {{< youtube id="JWsRz3TJDEY" title="Neneh Cherry - Buffalo Stance (Official Music Video)" >}}<br>
@@ -95,8 +100,6 @@ Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Raw_Like_Sushi |
-| Wikipedia Summary | Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance". |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered (30th Anniversary) |
 | Label          | Virgin |
 | Catalog Number | 0813320 |

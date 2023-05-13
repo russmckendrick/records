@@ -53,9 +53,15 @@ The best comparison for 1991’s <i>Use Your Illusion I</i> and its fraternal tw
 This, though, is where Rose’s head was at, and what <i>Use Your Illusion</i> represents: not the spontaneity of bar bands, but the methodical grandeur of blockbusters. The climactic held vocal note of “Don’t Cry”—nearly 30 seconds, twisting in the spotlight—confirms what some listeners probably already figured out: Rose dreamed of opera. He later said he didn’t just want to outdo their debut, but bury it. And in a way, <i>Use Your Illusion</i> is an even scarier effort: tender one minute (“November Rain”, “Dead Horse”) and cruel the next (“Back Off Bitch”, “Bad Obsession”), an exercise in emotional whiplash that verges on the psychopathic.<br />
 But even by the band’s own standards, it was vicious: Where <i>Appetite</i> talks about addiction with a sense of swagger or double entendre (“Nightrain”, “Mr. Brownstone”), <i>Use Your Illusion</i> offers a 10-minute death fantasy called “Coma”; where <i>Appetite</i> is “feel my serpentine” (“Welcome to the Jungle”), <i>Use Your Illusion</i> is “suck my fucking dick” (“Get in the Ring”). Of the two volumes, the second is weirder and more adventurous. Slash once compared the entire project to The Beatles’ White Album (only not as good, he genuflected), but the experience is more like The Rolling Stones’ <i>Exile on Main St.</i>: sprawling, dislocated, less about any single song than the rollercoaster-like effect of the larger picture. And as massive as its impact was on the shape of ’90s rock, there are elements of the albums—and <i>II</i>, especially—that resonate even more closely with gangsta rap: the cinematic scope (“Civil War”), the mix of nostalgia and sentimentality (“Knockin’ on Heaven’s Door”) with almost paranoiac meanness (“You Could Be Mine”).<br />
 Both of its volumes seeing release on the same day, <i>Use Your Illusion</i> came out at a time when a wave of underground bands was redefining mainstream rock by trading grandiosity for modesty. But 1991 also marked the death of Freddie Mercury and, by extension, the end of Queen as we often remember them. The coincidence is poetic: As Nirvana and their peers largely eschewed rock’s taste for spectacle, G N' R embodied it. Like a fading starlet leaning into a nervous breakdown, Axl preens for the camera, knowing it won’t look away.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/use-your-illusion-ii/1389971138" >}}
+{{< applemusic url="https://music.apple.com/gb/album/use-your-illusion-ii/1389971138" >}}<br>
+
+
 ## Videos
 ### Gu̲ns N'Ro̲se̲s - Use Your Illusion II (Full Album)
 {{< youtube id="FOLaMrCIQAY" title="Gu̲ns N'Ro̲se̲s - Use Your Illusion II (Full Album)" >}}<br>
@@ -83,8 +89,6 @@ Both of its volumes seeing release on the same day, <i>Use Your Illusion</i> cam
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Use_Your_Illusion_II |
-| Wikipedia Summary | Use Your Illusion II is the fourth studio album by the American hard rock band Guns N' Roses. The album was released on September 17, 1991, the same day as its counterpart Use Your Illusion I. Both albums were released in conjunction with the Use Your Illusion Tour. Bolstered by the lead single "You Could Be Mine", Use Your Illusion II was the slightly more popular of the two albums, selling a record 770,000 copies its first week and debuting at number 1 on the U.S. charts, ahead of Use Your Illusion I's first-week sales of 685,000. As of 2010, Use Your Illusion II has sold 5,587,000 units in the United States, according to Nielsen SoundScan. Both albums have since been certified 7× Platinum by the RIAA. It was also No. 1 on the UK Albums Chart for a single week.<br>It is the last Guns N' Roses album to feature rhythm guitarist Izzy Stradlin. It also includes "Civil War", the last track to feature drummer Steven Adler in any capacity. This album, along with the counterpart of the album, was the last Guns N' Roses album to feature original material until 2008's album Chinese Democracy. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Repress |
 | Label          | Geffen Records |
 | Catalog Number | 0720642442012 |

@@ -41,7 +41,10 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Soundtrack of Our Lives - Bigtime
 {{< youtube id="CtjtlcJk2IM" title="The Soundtrack of Our Lives - Bigtime" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Limited Edition Numbered Reissue Remastered Stereo (Gold, Expanded) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2646 |

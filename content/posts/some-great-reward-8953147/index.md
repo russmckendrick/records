@@ -46,9 +46,14 @@ Additionally it also saw the band addressing more personal themes such as sexual
 This was the first album where they achieved chart success in the US with the single "People Are People" which reached No. 13 on the charts in mid-1985 on the Billboard Hot 100, and was a Top 20 hit in Canada. It was also the first album that peaked at a higher position on a chart that was not from the band's home country as it peaked at No. 1 in Germany.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/some-great-reward-deluxe-edition/665413158" >}}
+{{< applemusic url="https://music.apple.com/gb/album/some-great-reward-deluxe-edition/665413158" >}}<br>
+
+
 ## Videos
 ### Depeche Mode - Some Great Reward [FULL ALBUM]
 {{< youtube id="8gCF4xdVQV8" title="Depeche Mode - Some Great Reward [FULL ALBUM]" >}}<br>
@@ -61,8 +66,6 @@ This was the first album where they achieved chart success in the US with the si
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Some_Great_Reward |
-| Wikipedia Summary | Some Great Reward is the fourth studio album by English electronic music band Depeche Mode, released on 24 September 1984 by Mute Records. The album peaked at number five in the United Kingdom and number 51 in the United States, and was supported by the Some Great Reward Tour. This also saw the band using samplers, much like they did in their previous album Construction Time Again, which they would continue to use in their following albums Black Celebration and Music for the Masses.<br>Additionally it also saw the band addressing more personal themes such as sexual politics ("Master and Servant"), adulterous relationships ("Lie to Me"), and arbitrary divine justice ("Blasphemous Rumours").<br>"Blasphemous Rumours" was released as a double A-side with "Somebody".<br>This was the first album where they achieved chart success in the US with the single "People Are People" which reached No. 13 on the charts in mid-1985 on the Billboard Hot 100, and was a Top 20 hit in Canada. It was also the first album that peaked at a higher position on a chart that was not from the band's home country as it peaked at No. 1 in Germany.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Legacy |
 | Catalog Number | STUMM19 |

@@ -41,9 +41,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-two/611682743" >}}
+{{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-two/611682743" >}}<br>
+
+
 ## Videos
 ### Big Big Train - Leopards
 {{< youtube id="X4A4rFLUS84" title="Big Big Train - Leopards" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Orange) |
 | Label          | English Electric Recordings |
 | Catalog Number | 0700613252192 |

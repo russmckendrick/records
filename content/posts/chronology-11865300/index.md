@@ -36,9 +36,12 @@ styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chronology/1027734461" >}}
+{{< applemusic url="https://music.apple.com/gb/album/chronology/1027734461" >}}<br>
+
+
 ## Videos
 ### Chronology, Pt. 1 (Remastered)
 {{< youtube id="C-G8FU6rvv0" title="Chronology, Pt. 1 (Remastered)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (140 Gram) |
 | Label          | Columbia |
 | Catalog Number | 19075828261 |

@@ -46,9 +46,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Dividing their woozy mid-‘80s output from their later work’s clean-lined contours, 1988’s <i>Blue Bell Knoll</i> is a singular gem in Cocteau Twins’ sparkling catalog. The title track is among their most beautiful songs: Elizabeth Fraser’s lithe voice soars above crisp harpsichord, and the heartstring-tugging climax is all too short. The swirling churn of “Athol-brose” and “Suckling the Mender” tug toward shoegaze, and the album builds to a stunning finale with “Ella Megalast Burls Forever,” in which every element seems to shine brighter than everything else.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-bell-knoll-remastered-remastered/258199307" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-bell-knoll-remastered-remastered/258199307" >}}<br>
+
+
 ## Videos
 ### Belly - the bees
 {{< youtube id="jZao8Esp7g8" title="Belly - the bees" >}}<br>
@@ -60,8 +65,6 @@ Dividing their woozy mid-‘80s output from their later work’s clean-lined con
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Dividing their woozy mid-‘80s output from their later work’s clean-lined contours, 1988’s <i>Blue Bell Knoll</i> is a singular gem in Cocteau Twins’ sparkling catalog. The title track is among their most beautiful songs: Elizabeth Fraser’s lithe voice soars above crisp harpsichord, and the heartstring-tugging climax is all too short. The swirling churn of “Athol-brose” and “Suckling the Mender” tug toward shoegaze, and the album builds to a stunning finale with “Ella Megalast Burls Forever,” in which every element seems to shine brighter than everything else. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation (Honey) |
 | Label          | 4AD |
 | Catalog Number | 4AD0342LPE |

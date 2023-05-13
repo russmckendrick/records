@@ -51,9 +51,14 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 
 Any Minute Now is the third studio album by Belgian electronic music duo Soulwax. It was released on August 23, 2004 through the PIAS record label. It peaked at number 53 on the UK Albums Chart. All three singles from the album, "Any Minute Now", "E Talking" and "NY Excuse", reached the top 40 of the UK Singles Chart. Most of the tracks on Any Minute Now were remixed on Soulwax's follow-up record, 2005's Nite Versions.
 Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be heard by rewinding before the start of the first track. A version of this hidden track appeared on Nite Versions as "I Love Techno".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/any-minute-now/273159734" >}}
+{{< applemusic url="https://music.apple.com/gb/album/any-minute-now/273159734" >}}<br>
+
+
 ## Videos
 ### E Talking
 {{< youtube id="3dYrgHnZtmU" title="E Talking" >}}<br>
@@ -79,8 +84,6 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Any_Minute_Now |
-| Wikipedia Summary | Any Minute Now is the third studio album by Belgian electronic music duo Soulwax. It was released on August 23, 2004 through the PIAS record label. It peaked at number 53 on the UK Albums Chart. All three singles from the album, "Any Minute Now", "E Talking" and "NY Excuse", reached the top 40 of the UK Singles Chart. Most of the tracks on Any Minute Now were remixed on Soulwax's follow-up record, 2005's Nite Versions.<br>Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be heard by rewinding before the start of the first track. A version of this hidden track appeared on Nite Versions as "I Love Techno". |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 060 DLP |

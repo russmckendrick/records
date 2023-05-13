@@ -56,9 +56,14 @@ styles: ["Alternative Rock"]
 Straight Songs of Sorrow is the twelfth and final studio album by American singer Mark Lanegan. It was released through Heavenly Recordings on May 8, 2020. The album was inspired by writing his memoir Sing Backwards and Weep, which was published April 28, 2020. It's his first solo album credited to simply Mark Lanegan, as opposed to Mark Lanegan Band, since 2013's Imitations, and the first one credited to Mark Lanegan that doesn't feature former collaborator Mike Johnson.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/straight-songs-of-sorrow/1498128011" >}}
+{{< applemusic url="https://music.apple.com/gb/album/straight-songs-of-sorrow/1498128011" >}}<br>
+
+
 ## Videos
 ### Mark Lanegan - 'Bleed All Over'
 {{< youtube id="b4EL3wo1K84" title="Mark Lanegan - 'Bleed All Over'" >}}<br>
@@ -82,8 +87,6 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Straight_Songs_of_Sorrow |
-| Wikipedia Summary | Straight Songs of Sorrow is the twelfth and final studio album by American singer Mark Lanegan. It was released through Heavenly Recordings on May 8, 2020. The album was inspired by writing his memoir Sing Backwards and Weep, which was published April 28, 2020. It's his first solo album credited to simply Mark Lanegan, as opposed to Mark Lanegan Band, since 2013's Imitations, and the first one credited to Mark Lanegan that doesn't feature former collaborator Mike Johnson.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear Crystal, 180 gram) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP178C |

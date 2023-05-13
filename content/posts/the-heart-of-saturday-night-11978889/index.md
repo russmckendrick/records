@@ -44,9 +44,14 @@ styles: ["Blues Rock", "Folk"]
 <!-- section break -->
 
 The Heart of Saturday Night is the second studio album by singer and songwriter Tom Waits, released on October 15, 1974, on Asylum Records. The title song was written as a tribute to Jack Kerouac. The album marks the start of a decade-long collaboration between Waits and Bones Howe, who produced and engineered all Waits' recordings until the artist left Asylum.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-heart-of-saturday-night-remastered/1485071401" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-heart-of-saturday-night-remastered/1485071401" >}}<br>
+
+
 ## Videos
 ### Tom Waits - (Looking For) The Heart Of Saturday Night
 {{< youtube id="lbH6BUNsuts" title="Tom Waits - (Looking For) The Heart Of Saturday Night" >}}<br>
@@ -59,8 +64,6 @@ The Heart of Saturday Night is the second studio album by singer and songwriter 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Heart_of_Saturday_Night |
-| Wikipedia Summary | The Heart of Saturday Night is the second studio album by singer and songwriter Tom Waits, released on October 15, 1974, on Asylum Records. The title song was written as a tribute to Jack Kerouac. The album marks the start of a decade-long collaboration between Waits and Bones Howe, who produced and engineered all Waits' recordings until the artist left Asylum. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow Opaque) |
 | Label          | Anti- |
 | Catalog Number | 87566-1 |

@@ -34,9 +34,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/silverlake/1282544689" >}}
+{{< applemusic url="https://music.apple.com/gb/album/silverlake/1282544689" >}}<br>
+
+
 
 
 ## Release Images
@@ -45,7 +48,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Lojinx |
 | Catalog Number | LJX111LP |

@@ -41,9 +41,15 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 <!-- section break -->
 
 Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder where he parked his time machine. Channeling the buttoned-up charm of Sam Cooke and the mellower side of Otis Redding (as well as contemporary throwbacks like Raphael Saadiq), <i>Coming Home</i> captures a moment in the early '60s where gospel met blues and blossomed into doo-wop and soul. It was the period-perfect title track that helped Bridges gain an audience beyond his Texas hometown, but the swaying dedication to his mother, “Lisa Sawyer,” is every bit as lovely. 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coming-home-deluxe/1079234232" >}}
+{{< applemusic url="https://music.apple.com/gb/album/coming-home-deluxe/1079234232" >}}<br>
+
+
 ## Videos
 ### Leon Bridges - Coming Home (Official Music Video)
 {{< youtube id="MTrKkqE9p1o" title="Leon Bridges - Coming Home (Official Music Video)" >}}<br>
@@ -70,8 +76,6 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coming_Home_(Leon_Bridges_album) |
-| Wikipedia Summary | Coming Home is the debut studio album by American singer Leon Bridges. It was released on June 23, 2015, by Columbia Records. The album was written by Leon Bridges, Austin Michael Jenkins, Joshua Block, Chris Vivion and produced by Niles City Sound.<br>Coming Home was supported by two singles: "Coming Home" and "Smooth Sailin'". The album received generally positive reviews from critics, and charted at number six on the US Billboard 200. It was nominated for Best R&B Album at the 2016 Grammy Awards. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875 08914 1 |

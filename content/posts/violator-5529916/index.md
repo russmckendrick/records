@@ -48,9 +48,15 @@ Violator is the seventh studio album by English electronic music band Depeche Mo
 Preceded by the singles "Personal Jesus" and "Enjoy the Silence" (a top-10 entry in both the United Kingdom and the United States), the album propelled the band into international stardom, and also yielded the singles "Policy of Truth" and "World in My Eyes". Violator reached number two on the UK Albums Chart, and was the band's first album to chart inside the top 10 of the Billboard 200, peaking at number seven. The album was supported by the World Violation Tour.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/violator-deluxe/1174246686" >}}
+{{< applemusic url="https://music.apple.com/gb/album/violator-deluxe/1174246686" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ Preceded by the singles "Personal Jesus" and "Enjoy the Silence" (a top-10 entry
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Violator_(album) |
-| Apple Music Summary | On their seventh album, Depeche Mode struck upon a balance of lust, gloom, and melody that turned them into global superstars. Inspired by Priscilla Presley’s account of her life with Elvis, lead single “Personal Jesus” incorporates a rockabilly twang, the blues, and a preacher man’s fervor into their synth-pop, while “Enjoy the Silence,” originally written as a ballad, becomes one of their finest moments by mounting its mournful bass and pleading chorus onto house beats. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 941 |

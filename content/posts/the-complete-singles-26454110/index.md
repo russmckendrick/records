@@ -59,9 +59,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1676326542" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1676326542" >}}<br>
+
+
 ## Videos
 ### Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)
 {{< youtube id="cmqzakGa6Dc" title="Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)" >}}<br>
@@ -98,7 +101,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered Stereo |
 | Label          | Mute |
 | Catalog Number | dung36lpx |

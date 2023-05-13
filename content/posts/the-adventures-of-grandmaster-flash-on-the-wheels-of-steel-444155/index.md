@@ -26,7 +26,10 @@ styles: ["Cut-up/DJ"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Grandmaster Flash - The Adventures Of Grandmaster Flash On The Wheels Of Steel (1981)
 {{< youtube id="PFYg2Mmlc_o" title="Grandmaster Flash - The Adventures Of Grandmaster Flash On The Wheels Of Steel (1981)" >}}<br>
@@ -42,7 +45,6 @@ styles: ["Cut-up/DJ"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1981                                   |
 | Format         | Vinyl 12" 45 RPM |
 | Label          | Sugar Hill Records |
 | Catalog Number | SHL 557 |

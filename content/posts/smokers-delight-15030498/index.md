@@ -49,9 +49,14 @@ styles: ["Trip Hop", "Dub", "Downtempo"]
 <!-- section break -->
 
 Smokers Delight is the second studio album by English DJ and record producer Nightmares on Wax. It was released in 1995 on Warp in the United Kingdom, and on Wax Trax in the United States. It peaked at number 84 on the UK Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/smokers-delight-digital-deluxe/1498226874" >}}
+{{< applemusic url="https://music.apple.com/gb/album/smokers-delight-digital-deluxe/1498226874" >}}<br>
+
+
 ## Videos
 ### Nightmares on wax - night's introlude
 {{< youtube id="C6ixa3G_tL4" title="Nightmares on wax - night's introlude" >}}<br>
@@ -81,8 +86,6 @@ Smokers Delight is the second studio album by English DJ and record producer Nig
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Smokers_Delight |
-| Wikipedia Summary | Smokers Delight is the second studio album by English DJ and record producer Nightmares on Wax. It was released in 1995 on Warp in the United Kingdom, and on Wax Trax in the United States. It peaked at number 84 on the UK Albums Chart. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP (Translucent Green), Vinyl LP (Translucent Red), All Media Album Limited Edition Reissue (25th Anniversary Edition) |
 | Label          | Warp Records |
 | Catalog Number | WARPDD36RX |

@@ -35,9 +35,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album (Yellow Transparent ) |
 | Label          | Demon Records |
 | Catalog Number | DEACONLP001 |

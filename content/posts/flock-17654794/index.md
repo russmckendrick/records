@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/flock/1668446839" >}}
+{{< applemusic url="https://music.apple.com/gb/album/flock/1668446839" >}}<br>
+
+
 ## Videos
 ### Jane Weaver - Heartlow (Official Video)
 {{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}<br>
@@ -64,8 +69,6 @@ Flock is the eleventh album by English musician Jane Weaver, released on 5 March
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flock_(Jane_Weaver_album) |
-| Wikipedia Summary | Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink [Rose]) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP544 |

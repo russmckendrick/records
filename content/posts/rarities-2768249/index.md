@@ -67,9 +67,14 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 <!-- section break -->
 
 Rarities is a 2000 promo album by Emilíana Torrini.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rarities/1527623910" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rarities/1527623910" >}}<br>
+
+
 ## Videos
 ### Emiliana Torrini - Weird Friendless Kid
 {{< youtube id="MBj5ZFPWxqE" title="Emiliana Torrini - Weird Friendless Kid" >}}<br>
@@ -89,8 +94,6 @@ Rarities is a 2000 promo album by Emilíana Torrini.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rarities_(Emil%C3%ADana_Torrini_album) |
-| Wikipedia Summary | Rarities is a 2000 promo album by Emilíana Torrini. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 4× LP Compilation |
 | Label          | One Little Indian |
 | Catalog Number | TPLP1081 |

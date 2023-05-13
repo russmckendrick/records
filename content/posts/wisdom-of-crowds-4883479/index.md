@@ -41,9 +41,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wisdom-of-crowds/682955123" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wisdom-of-crowds/682955123" >}}<br>
+
+
 ## Videos
 ### Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)
 {{< youtube id="3XUcKhremjE" title="Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Limited Edition ( Red Transparent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE844 |

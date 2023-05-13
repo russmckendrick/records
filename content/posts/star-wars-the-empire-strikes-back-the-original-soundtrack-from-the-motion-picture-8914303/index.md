@@ -59,9 +59,12 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/star-wars-the-empire-strikes-back-original-motion/1375815586" >}}
+{{< applemusic url="https://music.apple.com/gb/album/star-wars-the-empire-strikes-back-original-motion/1375815586" >}}<br>
+
+
 ## Videos
 ### Star Wars (Main Theme)
 {{< youtube id="MNMSAIG0dfQ" title="Star Wars (Main Theme)" >}}<br>
@@ -90,7 +93,6 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Gold) |
 | Label          | RSO |
 | Catalog Number | MWZ 8113/4 |

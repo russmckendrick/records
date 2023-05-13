@@ -36,9 +36,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one/1553879308" >}}
+{{< applemusic url="https://music.apple.com/gb/album/one/1553879308" >}}<br>
+
+
 ## Videos
 ### Dubstar - Love Comes Late (Official Music Video)
 {{< youtube id="W3c4_v-wPw8" title="Dubstar - Love Comes Late (Official Music Video)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Northern Writes |
 | Catalog Number | none |

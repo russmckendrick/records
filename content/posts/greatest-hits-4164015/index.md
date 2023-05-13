@@ -41,9 +41,14 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Stevens. It reached #2 in the UK Albums Chart and peaked at #6 on the Billboard 200. Though made up mostly of tracks from his five previous studio albums, Cat Stevens' Greatest Hits did contain one new song, "Two Fine People", which was also released as a single in 1975, and the previous non-album single, "Another Saturday Night". Those singles charted at No. 33 and No. 6, respectively, on the Billboard Hot 100 singles chart.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cat-stevens/1440922727" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cat-stevens/1440922727" >}}<br>
+
+
 ## Videos
 ### Cat Stevens - Can't Keep It In
 {{< youtube id="0W_SGoBFJxs" title="Cat Stevens - Can't Keep It In" >}}<br>
@@ -83,8 +88,6 @@ Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Steve
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Cat_Stevens_album) |
-| Wikipedia Summary | Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Stevens. It reached #2 in the UK Albums Chart and peaked at #6 on the Billboard 200. Though made up mostly of tracks from his five previous studio albums, Cat Stevens' Greatest Hits did contain one new song, "Two Fine People", which was also released as a single in 1975, and the previous non-album single, "Another Saturday Night". Those singles charted at No. 33 and No. 6, respectively, on the Billboard Hot 100 singles chart.<br><br> |
-| Release Year   | 1975                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Island Records |
 | Catalog Number | ILPS 9310 |

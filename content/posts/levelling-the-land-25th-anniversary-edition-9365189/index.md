@@ -101,7 +101,10 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Far from Home (Remastered Version)
 {{< youtube id="x25Y01K0VtU" title="Far from Home (Remastered Version)" >}}<br>
@@ -121,7 +124,6 @@ styles: ["Alternative Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Album Limited Edition, Vinyl 2× 12" 33 ⅓ RPM Album Special Edition (Blue Vinyl), CD 2× Album, DVD Album, Vinyl 7" Limited Edition |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP023XX |

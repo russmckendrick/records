@@ -59,9 +59,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-the-roundhouse/1495412702" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-roundhouse/1495412702" >}}<br>
+
+
 ## Videos
 ### Nick Mason's Saucerful Of Secrets - One Of These Days (Live At The Roundhouse)
 {{< youtube id="ab8cP26wjU4" title="Nick Mason's Saucerful Of Secrets - One Of These Days (Live At The Roundhouse)" >}}<br>
@@ -76,7 +79,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album (Die Cut Slipcase) |
 | Label          | Legacy |
 | Catalog Number | 19075982711 |

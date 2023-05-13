@@ -45,9 +45,13 @@ styles: ["Pop Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="44VxbAytHpVi3Rq8hRhild" width="100%" height="500" >}}
+{{< spotify type="album" id="44VxbAytHpVi3Rq8hRhild" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### But I Might Die Tonight
 {{< youtube id="N_lge3bASow" title="But I Might Die Tonight" >}}<br>
@@ -69,7 +73,6 @@ styles: ["Pop Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 0888695 |

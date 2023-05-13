@@ -45,9 +45,15 @@ Byrne struggled with writer's block, but adopted a scattered, stream-of-consciou
 Remain in Light was acclaimed by critics, who praised its sonic experimentation, rhythmic innovations, and cohesive merging of disparate genres. The album peaked at number 19 on the US Billboard 200 and number 21 on the UK Albums Chart, and spawned the singles "Once in a Lifetime" and "Houses in Motion". It has been featured in several publications' lists of the best albums of the 1980s and of all time, and is often considered Talking Heads' magnum opus. In 2017, the Library of Congress deemed the album "culturally, historically, or artistically significant", and selected it for preservation in the National Recording Registry.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/remain-in-light/300948043" >}}
+{{< applemusic url="https://music.apple.com/gb/album/remain-in-light-deluxe-version/124922154" >}}<br>
+
+
 ## Videos
 ### Born Under Punches (The Heat Goes On) (2005 Remaster)
 {{< youtube id="w6T_X7MXg40" title="Born Under Punches (The Heat Goes On) (2005 Remaster)" >}}<br>
@@ -68,8 +74,6 @@ Remain in Light was acclaimed by critics, who praised its sonic experimentation,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Remain_in_Light |
-| Apple Music Summary | “The world moves on a woman’s hips”, David Byrne yelps on “The Great Curve”, summing up where his band is coming from on their genre-bending fourth album. You can hear them overhaul their nervy post-punk sound under the influence of African polyrhythms—and fearless producer Brian Eno—on “Once In a Lifetime” and “Crosseyed and Painless”, adopting trance-like beats and babbling loops of guitar/keyboards while Byrne chants free-associative lyrics that somehow make perfect sense. |
-    | Release Year   | 0                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Sire |
 | Catalog Number | SIR K 56 867 |

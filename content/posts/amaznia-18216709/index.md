@@ -41,9 +41,12 @@ styles: ["Ambient", "Field Recording"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amaz%C3%B4nia/1557713010" >}}
+{{< applemusic url="https://music.apple.com/gb/album/amaz%C3%B4nia/1557713010" >}}<br>
+
+
 ## Videos
 ### Amazônia, Pt. 1
 {{< youtube id="A1EmGAAmy34" title="Amazônia, Pt. 1" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Ambient", "Field Recording"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439845051 |

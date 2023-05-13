@@ -52,9 +52,14 @@ styles: ["Soul-Jazz"]
 <!-- section break -->
 
 "My Baby Just Cares for Me" is a jazz standard written by Walter Donaldson with lyrics by Gus Kahn.  Written for the film version of the musical comedy Whoopee! (1930), the song became a signature tune for Eddie Cantor who sang it in the movie. A stylized version of the song by American singer and songwriter Nina Simone, recorded in 1957, was a top 10 hit in the United Kingdom after it was used in a 1987 perfume commercial and resulted in a renaissance for Simone.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-voice-of-nina-simone-my-baby-just-cares-for-me/590241536" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-voice-of-nina-simone-my-baby-just-cares-for-me/590241536" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,8 +69,6 @@ styles: ["Soul-Jazz"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Baby_Just_Cares_for_Me |
-| Wikipedia Summary | "My Baby Just Cares for Me" is a jazz standard written by Walter Donaldson with lyrics by Gus Kahn.  Written for the film version of the musical comedy Whoopee! (1930), the song became a signature tune for Eddie Cantor who sang it in the movie. A stylized version of the song by American singer and songwriter Nina Simone, recorded in 1957, was a top 10 hit in the United Kingdom after it was used in a 1987 perfume commercial and resulted in a renaissance for Simone. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Not Now Music |
 | Catalog Number | NOT2LP156 |

@@ -48,9 +48,12 @@ styles: ["Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/day-and-age-deluxe-edition/1556722306" >}}
+{{< applemusic url="https://music.apple.com/gb/album/day-and-age-deluxe-edition/1556722306" >}}<br>
+
+
 ## Videos
 ### FROST* - Day And Age (Official Video)
 {{< youtube id="RmiAmW3sgHs" title="FROST* - Day And Age (Official Video)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP (Gold, 180g), Vinyl LP Single Sided Etched (Gold, 180g), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 576 |

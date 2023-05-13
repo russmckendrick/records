@@ -35,9 +35,14 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 The Best of Judas Priest is a compilation album featuring select songs from English heavy metal band Judas Priest's first two albums, Rocka Rolla (1974) and Sad Wings of Destiny (1976).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/setlist-the-very-best-of-judas-priest-live/646158338" >}}
+{{< applemusic url="https://music.apple.com/gb/album/setlist-the-very-best-of-judas-priest-live/646158338" >}}<br>
+
+
 ## Videos
 ### Judas Priest - Rocka Rolla (BBC Performance)
 {{< youtube id="957N7EAtpY4" title="Judas Priest - Rocka Rolla (BBC Performance)" >}}<br>
@@ -53,8 +58,6 @@ The Best of Judas Priest is a compilation album featuring select songs from Engl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_Judas_Priest |
-| Wikipedia Summary | The Best of Judas Priest is a compilation album featuring select songs from English heavy metal band Judas Priest's first two albums, Rocka Rolla (1974) and Sad Wings of Destiny (1976). |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Gull |
 | Catalog Number | GULP 1026 |

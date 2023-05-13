@@ -40,9 +40,12 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/doom-side-of-the-moon/1600465934" >}}
+{{< applemusic url="https://music.apple.com/gb/album/doom-side-of-the-moon/1600465934" >}}<br>
+
+
 ## Videos
 ### DOOM SIDE OF THE MOON - ECLIPSE
 {{< youtube id="a8HYM6bGtps" title="DOOM SIDE OF THE MOON - ECLIPSE" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Yellow ) |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR75411 |

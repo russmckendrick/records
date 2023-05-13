@@ -368,7 +368,10 @@ styles: ["Arena Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -377,7 +380,6 @@ styles: ["Arena Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Box Set Compilation (180 Gram), Vinyl LP Album Reissue Remastered Stereo (Purple), Vinyl 2× LP Single Sided Album Etched Reissue Remastered Stereo (Disc 1 White, Disc 2 Black), Vinyl LP Album Reissue Remastered Stereo (Red), Vinyl LP Album Reissue Remastered Stereo (White), Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo (Green), Vinyl LP Album Reissue Remastered Stereo (Pink), Vinyl LP Album Reissue Remastered Stereo (Silver), Vinyl LP Album Reissue Remastered Stereo (Yellow), Vinyl LP Album Reissue Remastered Stereo (Blue), Vinyl LP Album Reissue Remastered Stereo (Red), Vinyl LP Album Reissue Remastered Stereo (Orange), Vinyl LP Album Reissue Remastered Stereo (Blue-Green), Vinyl 2× LP Album Reissue Remastered Stereo (Disc 1 Blue, Disc 2 Purple), Vinyl 2× LP Album Reissue Remastered Stereo (Disc 1 Blue, Disc 2 Clear) |
 | Label          | Hollywood Records |
 | Catalog Number | D002232801 |

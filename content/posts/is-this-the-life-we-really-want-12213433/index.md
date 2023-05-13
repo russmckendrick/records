@@ -51,9 +51,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.”
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689" >}}
+{{< applemusic url="https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689" >}}<br>
+
+
 ## Videos
 ### Roger Waters - The Last Refugee
 {{< youtube id="_XdLNqWYgGI" title="Roger Waters - The Last Refugee" >}}<br>
@@ -70,8 +75,6 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.” |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Green) |
 | Label          | Columbia |
 | Catalog Number | C-192609 |

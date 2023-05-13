@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/guns/336779427" >}}
+{{< applemusic url="https://music.apple.com/gb/album/guns/336779427" >}}<br>
+
+
 ## Videos
 ### Spell with a Shell
 {{< youtube id="I1-978oeynU" title="Spell with a Shell" >}}<br>
@@ -68,8 +73,6 @@ Guns is the fifth and most recent studio album by English rock band Cardiacs. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Guns_(Cardiacs_album) |
-| Wikipedia Summary | Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP027 |

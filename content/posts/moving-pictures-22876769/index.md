@@ -91,9 +91,15 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Rush’s eighth studio album, 1981’s <i>Moving Pictures</i>, hoisted the trio out from its progressive rock trappings and exposed it to the radio-listening world at large with such groundbreaking hits as “Tom Sawyer” and “Limelight.” The former song sets the stage for the album, showing a cool fusion of new wave synths sprawled across a hard rock soundscape as drummer Neil Peart takes his otherworldly drumming to previously uncharted levels. Peart’s lyrics (cowritten with Pye Dubois) reimagined Mark Twain's character of Tom Sawyer as a modern, free-spirited rebel whose defense mechanisms mirror those of society. Where “Tom Sawyer” mused on the discontent of an imagined character, “Limelight” reflects the vexation of Peart, who was becoming uneasy with Rush’s snowballing success and the burdens of fame. The song boasts an incredible guitar solo that Alex Lifeson has claimed is his favorite to play live. The eerie “Witch Hunt” is the third part of Rush’s “Fear Series”: four songs focusing on aspects of life ruled by fear. “Vital Signs” closes, ambitiously braiding prog rock with reggae.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/moving-pictures-remastered/1440798539" >}}
+{{< applemusic url="https://music.apple.com/gb/album/moving-pictures-remastered/1440798539" >}}<br>
+
+
 
 
 ## Release Images
@@ -103,8 +109,6 @@ Rush’s eighth studio album, 1981’s <i>Moving Pictures</i>, hoisted the trio 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moving_Pictures_(Rush_album) |
-| Wikipedia Summary | Moving Pictures is the eighth studio album by Canadian rock band Rush, released on February 12, 1981 by Anthem Records. After touring to support their previous album, Permanent Waves (1980), the band started to write and record new material in August 1980 with longtime co-producer Terry Brown. They continued to write songs with a more radio-friendly sound, featuring tighter and shorter song structures compared with their earlier albums.<br>Moving Pictures received a positive reception from contemporary and retrospective music critics and became an instant commercial success, reaching number one in Canada and number 3 in both the United States and the United Kingdom. It remains Rush's highest-selling album in the United States, with 5 million copies sold. "Limelight", "Tom Sawyer" and "Vital Signs" were released as singles across 1981, and the instrumental "YYZ" was nominated for a Grammy Award for Best Rock Instrumental Performance. Rush supported the album on tour from February to July 1981. |
-    | Release Year   | 2022                                   |
 | Format         | All Media Deluxe Edition (40th Anniversary, Half-Speed Mastered, 180g), Vinyl LP Reissue Remastered Stereo, Vinyl 4× LP Stereo |
 | Label          | Anthem Entertainment |
 | Catalog Number | B0033537-01 |

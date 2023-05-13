@@ -39,9 +39,14 @@ styles: []
 Eternal Return is the fifth studio album by ARIA award-winning Australian singer-songwriter Sarah Blasko. The album was released on 6 November 2015 through EMI in Australia and Amazon in the US, and in the UK on 5 February 2016 through MVKA.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/eternal-return/1053501895" >}}
+{{< applemusic url="https://music.apple.com/gb/album/eternal-return/1053501895" >}}<br>
+
+
 ## Videos
 ### Sarah Blasko: Eternal Return
 {{< youtube id="QKEXADRzV3A" title="Sarah Blasko: Eternal Return" >}}<br>
@@ -63,8 +68,6 @@ Eternal Return is the fifth studio album by ARIA award-winning Australian singer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eternal_Return_(Sarah_Blasko_album) |
-| Wikipedia Summary | Eternal Return is the fifth studio album by ARIA award-winning Australian singer-songwriter Sarah Blasko. The album was released on 6 November 2015 through EMI in Australia and Amazon in the US, and in the UK on 5 February 2016 through MVKA.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Universal Music |
 | Catalog Number | 4755574 |

@@ -43,7 +43,10 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Every Single Weekend
 {{< youtube id="-2L2JoIrCG4" title="Every Single Weekend" >}}<br>
@@ -63,7 +66,6 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Blue Translucent, 180g) |
 | Label          | Universal |
 | Catalog Number | B0030621-01 |

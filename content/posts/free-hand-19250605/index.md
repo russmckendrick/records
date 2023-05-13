@@ -49,9 +49,14 @@ Free Hand is the seventh album by British progressive rock band Gentle Giant. It
 It was Gentle Giant's first album with their new label Chrysalis Records in the UK. It is noted for its high production values, and for a less dissonant, more accessible feel than their previous album The Power and the Glory. It was their highest-charting album in the US and the only one to reach the Top 50 on the Billboard 200.In addition to the usual stereo version, the album was also mixed in 4-channel quadraphonic sound in 1976. The 4-channel mix was not used until 2012 when it finally appeared on DVD with encoding in multichannel LPCM, DTS and Dolby Digital surround sound formats.A 1990 CD re-issue in the US by One Way Records used an alternate stereo mix. This version revealed some different details in the musical and vocal parts. However, this edition may have actually been a reduction or variation of the 4-channel mix.
 Alucard Music/EMI Records re-released the CD in 2009, "from the original 1/4-inch tapes through 24bit 96k Hi-Resolution transfer."
 On June 25, 2021, a new remix by musician and producer Steven Wilson was released in Dolby Atmos & 5.1 surround sound, accompanied by custom animated visuals for each track on Blu-ray. In addition, the original flat mix, original 1975 quad mix and an instrumental mix were all included in a digipack CD. A double vinyl album was also released with both the original flat mix and Steven Wilson remixed versions.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/free-hand/1629182869" >}}
+{{< applemusic url="https://music.apple.com/gb/album/free-hand/1629182869" >}}<br>
+
+
 ## Videos
 ### Just the Same (2012 Remaster)
 {{< youtube id="cr70zm9mI98" title="Just the Same (2012 Remaster)" >}}<br>
@@ -71,8 +76,6 @@ On June 25, 2021, a new remix by musician and producer Steven Wilson was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Free_Hand |
-| Wikipedia Summary | Free Hand is the seventh album by British progressive rock band Gentle Giant. It was released in 1975.<br>It was Gentle Giant's first album with their new label Chrysalis Records in the UK. It is noted for its high production values, and for a less dissonant, more accessible feel than their previous album The Power and the Glory. It was their highest-charting album in the US and the only one to reach the Top 50 on the Billboard 200.In addition to the usual stereo version, the album was also mixed in 4-channel quadraphonic sound in 1976. The 4-channel mix was not used until 2012 when it finally appeared on DVD with encoding in multichannel LPCM, DTS and Dolby Digital surround sound formats.A 1990 CD re-issue in the US by One Way Records used an alternate stereo mix. This version revealed some different details in the musical and vocal parts. However, this edition may have actually been a reduction or variation of the 4-channel mix.<br>Alucard Music/EMI Records re-released the CD in 2009, "from the original 1/4-inch tapes through 24bit 96k Hi-Resolution transfer."<br>On June 25, 2021, a new remix by musician and producer Steven Wilson was released in Dolby Atmos & 5.1 surround sound, accompanied by custom animated visuals for each track on Blu-ray. In addition, the original flat mix, original 1975 quad mix and an instrumental mix were all included in a digipack CD. A double vinyl album was also released with both the original flat mix and Steven Wilson remixed versions. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV066 |

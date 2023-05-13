@@ -34,9 +34,12 @@ styles: ["Contemporary Jazz"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/as-we-stand-feat-moses-boyd/1617398228" >}}
+{{< applemusic url="https://music.apple.com/gb/album/as-we-stand-feat-moses-boyd/1617398228" >}}<br>
+
+
 ## Videos
 ### As We Stand
 {{< youtube id="m1xqC2ohGxc" title="As We Stand" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Contemporary Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× 12" Album (Gatefold) |
 | Label          | Cadillac Records |
 | Catalog Number | SGCLP019 |

@@ -33,7 +33,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -42,7 +45,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1964                                   |
 | Format         | Vinyl LP |
 | Label          | Presto |
 | Catalog Number | PRE 629 |

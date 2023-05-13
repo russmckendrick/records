@@ -36,7 +36,10 @@ styles: ["Experimental", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Matt Berry Opium
 {{< youtube id="yjVw8wg4J5o" title="Matt Berry Opium" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Experimental", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Repress (Orange) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP372 |

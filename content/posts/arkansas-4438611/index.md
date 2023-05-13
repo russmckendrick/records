@@ -36,9 +36,12 @@ styles: ["Country"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/arkansas/714727780" >}}
+{{< applemusic url="https://music.apple.com/gb/album/arkansas/714727780" >}}<br>
+
+
 ## Videos
 ### Glen Campbell - Arkansas
 {{< youtube id="eccolhz6Jnc" title="Glen Campbell - Arkansas" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1975                                   |
 | Format         | Vinyl Compilation LP |
 | Label          | Capitol Records |
 | Catalog Number | VMP 1001 |

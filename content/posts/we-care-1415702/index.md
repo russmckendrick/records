@@ -42,9 +42,14 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 <!-- section break -->
 
 We Care is the debut album by Swedish alternative rock group Whale. The album was produced by Whale; several tracks were produced in cooperation with Falcon or Tricky.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-care/724612339" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we-care/724612339" >}}<br>
+
+
 ## Videos
 ### Whale - Hobo Humpin Slobo Babe
 {{< youtube id="2up7su7CeMU" title="Whale - Hobo Humpin Slobo Babe" >}}<br>
@@ -63,8 +68,6 @@ We Care is the debut album by Swedish alternative rock group Whale. The album wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Care |
-| Wikipedia Summary | We Care is the debut album by Swedish alternative rock group Whale. The album was produced by Whale; several tracks were produced in cooperation with Falcon or Tricky. |
-| Release Year   | 1995                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Virgin |
 | Catalog Number | 7243 8 40560 1 8 |

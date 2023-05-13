@@ -45,9 +45,14 @@ styles: ["Britpop", "Indie Rock"]
 <!-- section break -->
 
 In It for the Money is the second studio album by English alternative rock band Supergrass, released in 1997. NME called it "more fun than watching a wombat in a washing machine" and named it the 10th best album of the year. In 1998, Q readers voted it the 68th greatest album of all time, while in 2000 the same magazine placed it at number 57 in its list of the 100 Greatest British Albums Ever.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money/695598956" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money/695598956" >}}<br>
+
+
 ## Videos
 ### Supergrass - Richard III (Official HD Video)
 {{< youtube id="UnXrrOxzZCE" title="Supergrass - Richard III (Official HD Video)" >}}<br>
@@ -67,8 +72,6 @@ In It for the Money is the second studio album by English alternative rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_It_for_the_Money |
-| Wikipedia Summary | In It for the Money is the second studio album by English alternative rock band Supergrass, released in 1997. NME called it "more fun than watching a wombat in a washing machine" and named it the 10th best album of the year. In 1998, Q readers voted it the 68th greatest album of all time, while in 2000 the same magazine placed it at number 57 in its list of the 100 Greatest British Albums Ever. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Turquoise), Vinyl 12" Single (White), All Media Limited Edition (Textured Sleeve) |
 | Label          | BMG |
 | Catalog Number | BMGCAT506CLP |

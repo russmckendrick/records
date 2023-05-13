@@ -39,9 +39,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Mental Notes is the debut studio album by New Zealand band Split Enz. The album cover was painted by band member Phil Judd. Original vinyl copies featured Judd saying "Make a mental note" in the runout groove of the record's second side, causing the phrase to be looped ad infinitum on manual turntables until the stylus is removed.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mental-notes/1629181127" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mental-notes/1629181127" >}}<br>
+
+
 ## Videos
 ### Split Enz - Stranger Than Fiction
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}<br>
@@ -62,8 +67,6 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mental_Notes_(Split_Enz_album) |
-| Wikipedia Summary | Mental Notes is the debut studio album by New Zealand band Split Enz. The album cover was painted by band member Phil Judd. Original vinyl copies featured Judd saying "Make a mental note" in the runout groove of the record's second side, causing the phrase to be looped ad infinitum on manual turntables until the stylus is removed. |
-| Release Year   | 1976                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1131 |

@@ -32,7 +32,10 @@ styles: ["Leftfield", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk
 {{< youtube id="t03qMYuBpOY" title="IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Leftfield", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC59 |

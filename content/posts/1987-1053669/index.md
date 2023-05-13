@@ -38,9 +38,12 @@ styles: ["Hard Rock", "Arena Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}<br>
+
+
 ## Videos
 ### Whitesnake - Is This Love (Official Music Video)
 {{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Hard Rock", "Arena Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | EMI |
 | Catalog Number | EMCX 3528 |

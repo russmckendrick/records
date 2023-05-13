@@ -37,9 +37,12 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fireworks-city/1469551559" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fireworks-city/1469551559" >}}<br>
+
+
 ## Videos
 ### Policeman Skank - Audioweb
 {{< youtube id="5fXzgRQ5eX4" title="Policeman Skank - Audioweb" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Red, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC918 |

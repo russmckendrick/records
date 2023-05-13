@@ -58,7 +58,10 @@ styles: ["Rock & Roll", "Southern Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -67,7 +70,6 @@ styles: ["Rock & Roll", "Southern Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album, Vinyl 7" 45 RPM, All Media Stereo (Green Translucent) |
 | Label          | Silver Arrow |
 | Catalog Number | SAR27LP |

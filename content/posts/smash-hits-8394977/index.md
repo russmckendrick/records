@@ -45,9 +45,14 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 Smash Hits is a compilation album by the Jimi Hendrix Experience.  Track Records first issued it on April 12, 1968, in the UK and included all four of the group's singles (both A and B sides) released up to that time, plus four additional songs from the UK edition of Are You Experienced.
 Reprise Records did not issue the album in the US until July 30, 1969, with some different tracks.  It included two songs from Electric Ladyland and three tracks from the UK edition of Are You Experienced, which were previously unreleased in the US (including a stereo version of "Red House" from a different take than the original mono album version).
 Smash Hits has been reissued several times on CD, however, it has been largely superseded by more recent and comprehensive compilations, such as Experience Hendrix: The Best of Jimi Hendrix (1997).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-jimi-hendrix-experience-smash-hits/344477479" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-jimi-hendrix-experience-smash-hits/344477479" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +62,6 @@ Smash Hits has been reissued several times on CD, however, it has been largely s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Smash_Hits_(The_Jimi_Hendrix_Experience_album) |
-| Wikipedia Summary | Smash Hits is a compilation album by the Jimi Hendrix Experience.  Track Records first issued it on April 12, 1968, in the UK and included all four of the group's singles (both A and B sides) released up to that time, plus four additional songs from the UK edition of Are You Experienced.<br>Reprise Records did not issue the album in the US until July 30, 1969, with some different tracks.  It included two songs from Electric Ladyland and three tracks from the UK edition of Are You Experienced, which were previously unreleased in the US (including a stereo version of "Red House" from a different take than the original mono album version).<br>Smash Hits has been reissued several times on CD, however, it has been largely superseded by more recent and comprehensive compilations, such as Experience Hendrix: The Best of Jimi Hendrix (1997). |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Record Store Day Compilation Reissue Remastered |
 | Label          | Experience Hendrix |
 | Catalog Number | 88985303081 |

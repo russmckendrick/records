@@ -65,9 +65,14 @@ styles: ["Indie Rock"]
 Indie Cindy is the fifth studio album by the American alternative rock band the Pixies. Released in April 2014, it was the band's first album since 1991's Trompe le Monde, and the first Pixies album not to feature bass guitar player Kim Deal. Instead, bass guitar duties on the album are handled by Simon "Ding" Archer, a former member of the British post-punk band The Fall.The album combines all the songs from the band's 2013–14 extended play releases—EP1, EP2, and EP3—which were recorded and produced in 2012 by Gil Norton, who produced the band's previous albums Doolittle, Bossanova, and Trompe le Monde.Limited numbers of vinyl copies of the album were released on Record Store Day 2014 (double album but pressed at 45 rpm), 10 days prior to the album's full release. These copies came with a single-sided 7" single of "Women of War". The album was released in North America on April 29, 2014 as a digital download, digipak CD and 2LP vinyl as well as a deluxe edition on CD or vinyl which included a live CD and a 40-page hardback book.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/indie-cindy/1589760347" >}}
+{{< applemusic url="https://music.apple.com/gb/album/indie-cindy/1589760347" >}}<br>
+
+
 ## Videos
 ### PIXIES - Indie Cindy (Official Video)
 {{< youtube id="PDa3cY7U6NA" title="PIXIES - Indie Cindy (Official Video)" >}}<br>
@@ -82,8 +87,6 @@ Indie Cindy is the fifth studio album by the American alternative rock band the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Indie_Cindy |
-| Wikipedia Summary | Indie Cindy is the fifth studio album by the American alternative rock band the Pixies. Released in April 2014, it was the band's first album since 1991's Trompe le Monde, and the first Pixies album not to feature bass guitar player Kim Deal. Instead, bass guitar duties on the album are handled by Simon "Ding" Archer, a former member of the British post-punk band The Fall.The album combines all the songs from the band's 2013–14 extended play releases—EP1, EP2, and EP3—which were recorded and produced in 2012 by Gil Norton, who produced the band's previous albums Doolittle, Bossanova, and Trompe le Monde.Limited numbers of vinyl copies of the album were released on Record Store Day 2014 (double album but pressed at 45 rpm), 10 days prior to the album's full release. These copies came with a single-sided 7" single of "Women of War". The album was released in North America on April 29, 2014 as a digital download, digipak CD and 2LP vinyl as well as a deluxe edition on CD or vinyl which included a live CD and a 40-page hardback book.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× 12" 45 RPM Album (Orange, 180 gram), CD Album, All Media Limited Edition |
 | Label          | Pixies Music |
 | Catalog Number | PM006DLP |

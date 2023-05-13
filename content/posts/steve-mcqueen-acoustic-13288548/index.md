@@ -36,9 +36,12 @@ styles: ["Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/steve-mcqueen-acoustic/1457321476" >}}
+{{< applemusic url="https://music.apple.com/gb/album/steve-mcqueen-acoustic/1457321476" >}}<br>
+
+
 ## Videos
 ### Prefab Sprout - When Love Breaks Down (acoustic version - 2007)
 {{< youtube id="-DZwRaC1qvw" title="Prefab Sprout - When Love Breaks Down (acoustic version - 2007)" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Special Edition (180 g) |
 | Label          | Legacy |
 | Catalog Number | 19075923831 |

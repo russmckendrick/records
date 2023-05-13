@@ -64,7 +64,10 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Pink Floyd - A Momentary Lapse Of Reason (Full Album)
 {{< youtube id="DEf0iT6r7z4" title="Pink Floyd - A Momentary Lapse Of Reason (Full Album)" >}}<br>
@@ -76,7 +79,6 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP37 |

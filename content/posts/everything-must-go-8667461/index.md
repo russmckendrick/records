@@ -45,9 +45,15 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 Everything Must Go is the fourth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 20 May 1996, through Epic Records, and was the first record released by the band following the disappearance of lyricist and rhythm guitarist Richey Edwards.
 Released at the height of Britpop in the mid-1990s, the album was a commercial and critical success, it reached its peak in the UK on separate occasions, debuting and peaking at number 2 in the UK Albums Chart and earned the band accolades in the 1997 Brit Awards. It represented a shift in the group's sound due to Edwards' departure. The album charted in mainland Europe, Asia and Australia, eventually selling over two million copies. Everything Must Go is frequently featured and voted highly in lists for one of the best albums of all time by many music publications such as NME and Q.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-must-go-10th-anniversary-edition/311112270" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-must-go-10th-anniversary-edition/311112270" >}}<br>
+
+
 ## Videos
 ### Manic Street Preachers - Everything Must Go
 {{< youtube id="KBYUqYPy0tU" title="Manic Street Preachers - Everything Must Go" >}}<br>
@@ -68,8 +74,6 @@ Released at the height of Britpop in the mid-1990s, the album was a commercial a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Must_Go_(Manic_Street_Preachers_album) |
-| Apple Music Summary | Shimmering, box-fresh anthems that sparked the second age of Welsh rock’s favourite outcasts. Forged in the aftermath of founding member Richey Edwards’ disappearance, <i>Everything Must Go</i> could have easily been a deeper dive into the sparse hopelessness of preceding record <i>The Holy Bible</i>. Instead, it feels like a glorious rebirth, replete with grand sweeps of orchestration (the lush, defiant wallop of “Design For Life”) and growling, stadium-ready guitars (“Australia”) that channel a kind of lyrically oblique Britpop that became the Manics’ most popular sermon. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Blue) |
 | Label          | Sony Music |
 | Catalog Number | 88985317831 |

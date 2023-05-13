@@ -52,9 +52,15 @@ styles: ["Indie Rock", "Post Rock", "Experimental"]
 
 Part of Stereolab’s legacy was to expose the orthodoxy of indie rock by embracing stuff indie rockers would have found desperately uncool: space-age pop, cocktail jazz, elevator music. Where 1996’s <i>Emperor Tomato Ketchup</i> retained a punk edge (if you squinted, at least), <i>Dots and Loops</i>, released only a year later, was the full fruitcake. Compare the band’s 1993 epic “Jenny Ondioline”, a three-chord, 18-minute trance of noisy guitars and socialist incantations (“I don’t care, democracy’s being fucked”), with “Refractions in the Plastic Pulse”, which shifts from lounge waltz to variety-show jazz to synthesiser étude to funk-lite—a complex, almost pointedly corny descent into music that sounds less like the work of bonded mammals than some faceless corporation.<br />
 That, of course, is part of the point: Marxist-socialist-materialists that they were, the band advanced the idea that all this manufactured stuff was in fact the real music of our mostly manufactured times: the swingin’ '60s window dressing of “Miss Modular”, the soothing breakbeats of “Parsec”, the greet-the-day vibraphones of “Brakhage”—all of it sounded curiously prefabricated, musical MREs for enterprising youths on the go. Light, colourful, and effortlessly complex, <i>Dots and Loops</i> mapped the future the band had been searching for from the start.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dots-and-loops/1230517312" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dots-and-loops/1230517312" >}}<br>
+
+
 ## Videos
 ### Stereolab - Miss Modular (Official Video)
 {{< youtube id="Q2kuPgS1Hi4" title="Stereolab - Miss Modular (Official Video)" >}}<br>
@@ -78,8 +84,6 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dots_and_Loops |
-| Wikipedia Summary | Dots and Loops is the fifth studio album by English-French rock band Stereolab. It was released on 22 September 1997 and was issued by Duophonic Records and Elektra Records. The band co-produced the album with John McEntire and Andi Toma, and recording took place at their respective studios in Chicago and Düsseldorf. It was their first album to be recorded straight to Digital Audio Tape and produced with Pro Tools. The album explores jazz and electronic sounds, and is influenced by bossa nova and 1960s pop music. Its lyrics address matters such as consumerism, the "spectacle", materialism, and human interaction.<br>Dots and Loops reached number 19 on the UK Albums Chart, as well as number 111 on the Billboard 200 chart in the United States. The track "Miss Modular" was issued as a single and as an EP, and peaked at number 60 on the UK Singles Chart. Several music critics have praised Dots and Loops for its blend of accessible music with experimental and avant-garde sounds, and some have considered it to be one of the band's finest works and one of the first produced with a Digital Audio Workstation. The album was reissued in 2019 with bonus material. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear, Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | none |

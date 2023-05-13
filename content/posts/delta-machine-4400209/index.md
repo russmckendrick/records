@@ -62,9 +62,15 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Delta Machine is the thirteenth studio album by English electronic music band Depeche Mode, released on 22 March 2013 by Columbia Records and Mute Records. It is the band's first album released under Columbia. Recorded in 2012 in Santa Barbara, California and New York City, the album was produced by Ben Hillier and mixed by Flood who had worked with them previously on their most acclaimed albums Violator and Songs of Faith and Devotion. A deluxe edition was also released, containing a bonus disc with four bonus tracks, as well as a 28-page hardcover book including photos by Anton Corbijn."Heaven" was released as the album's lead single on 31 January 2013. The second single from the album, "Soothe My Soul", was released on 10 May 2013, followed by "Should Be Higher" on 11 October 2013. Following the album's release, Depeche Mode embarked on the Delta Machine Tour, which commenced in Nice, France, on 4 May 2013, and concluded in Moscow on 7 March 2014.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/delta-machine-deluxe/600433961" >}}
+{{< applemusic url="https://music.apple.com/gb/album/delta-machine-deluxe/600433961" >}}<br>
+
+
 
 
 ## Release Images
@@ -74,8 +80,6 @@ Delta Machine is the thirteenth studio album by English electronic music band De
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Delta_Machine |
-| Apple Music Summary | Depeche Mode often sound like they’re thumbing through their own glorious past on their 13th album. “Heaven”, “Goodbye,” and “Slow” all simmer with the union of blues and electronica that served them so well on 1990’s <i>Violator</i> and 1993’s <i>Songs of Faith and Devotion</i>, while “Soothe My Soul”’s terrific electro-glam thump recalls the hooks and angst of ’80s Mode. It’s not just about echoing former glories though: minimalist-techno ballad “My Little Universe” is thrillingly forward-looking.  |
-    | Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Columbia |
 | Catalog Number | 88765 46063 1 |

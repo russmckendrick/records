@@ -37,9 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cupid-psyche-85/1139092963" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cupid-psyche-85/1139092963" >}}<br>
+
+
 ## Videos
 ### Scritti Politti - The Word Girl
 {{< youtube id="cyWB9WPLT1s" title="Scritti Politti - The Word Girl" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2350 |

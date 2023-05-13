@@ -54,9 +54,12 @@ styles: ["Acoustic", "Country Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-legend-of-johnny-cash/675914676" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-legend-of-johnny-cash/675914676" >}}<br>
+
+
 
 
 ## Release Images
@@ -65,7 +68,6 @@ styles: ["Acoustic", "Country Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 00602537952168 |

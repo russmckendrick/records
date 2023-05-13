@@ -37,9 +37,14 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 <!-- section break -->
 
 Turning the Mind is the second album from Northampton-based band Maps, released in 2009.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/turning-the-mind/757877794" >}}
+{{< applemusic url="https://music.apple.com/gb/album/turning-the-mind/757877794" >}}<br>
+
+
 ## Videos
 ### Maps - Turning The Mind
 {{< youtube id="VRvjPQRp6Co" title="Maps - Turning The Mind" >}}<br>
@@ -57,8 +62,6 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Turning_the_Mind |
-| Wikipedia Summary | Turning the Mind is the second album from Northampton-based band Maps, released in 2009. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue Repress (Orange) |
 | Label          | Mute |
 | Catalog Number | STUMM298 |

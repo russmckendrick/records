@@ -39,9 +39,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/afters/1566401361" >}}
+{{< applemusic url="https://music.apple.com/gb/album/afters/1566401361" >}}<br>
+
+
 ## Videos
 ### I Didn't
 {{< youtube id="e5HTe6s51_c" title="I Didn't" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1120 |

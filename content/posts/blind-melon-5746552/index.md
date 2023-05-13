@@ -45,9 +45,14 @@ styles: ["Alternative Rock"]
 Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blind-melon/725821342" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blind-melon/725821342" >}}<br>
+
+
 ## Videos
 ### Blind Melon - No Rain
 {{< youtube id="3qVPNONdF58" title="Blind Melon - No Rain" >}}<br>
@@ -75,8 +80,6 @@ Blind Melon is the debut studio album by American rock band Blind Melon, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blind_Melon_(album) |
-| Wikipedia Summary | Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1100 |

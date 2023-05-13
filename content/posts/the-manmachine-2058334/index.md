@@ -42,9 +42,12 @@ styles: ["Electro", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-man-machine-remastered/726157248" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-man-machine-remastered/726157248" >}}<br>
+
+
 ## Videos
 ### Kraftwerk- die Roboter
 {{< youtube id="bLY1lYb1Pps" title="Kraftwerk- die Roboter" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66022 1 8 |

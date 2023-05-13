@@ -37,9 +37,12 @@ styles: ["Sludge Metal", "Doom Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/9-13/1260737417" >}}
+{{< applemusic url="https://music.apple.com/gb/album/9-13/1260737417" >}}<br>
+
+
 ## Videos
 ### IRON MONKEY - 9-13 (Official Music Video)
 {{< youtube id="_JH0os_xukQ" title="IRON MONKEY - 9-13 (Official Music Video)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Sludge Metal", "Doom Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (White Inside Clear With Black Splatter) |
 | Label          | Relapse Records |
 | Catalog Number | RR7379 |

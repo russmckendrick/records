@@ -51,9 +51,12 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-roxy-music/724413368" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-roxy-music/724413368" >}}<br>
+
+
 ## Videos
 ### Roxy Music - More Than This
 {{< youtube id="kOnde5c7OG8" title="Roxy Music - More Than This" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (Half-Speed, 180g) |
 | Label          | Virgin |
 | Catalog Number | RMLPB1 |

@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/prince-of-tears/1268762151" >}}
+{{< applemusic url="https://music.apple.com/gb/album/prince-of-tears/1268762151" >}}<br>
+
+
 ## Videos
 ### Baxter Dury - Miami
 {{< youtube id="HyILwv1KBT4" title="Baxter Dury - Miami" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | [PIAS] Le Label |
 | Catalog Number | PIASL101LP |

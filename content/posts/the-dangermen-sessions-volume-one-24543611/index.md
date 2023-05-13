@@ -44,9 +44,12 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1504284446" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1504284446" >}}<br>
+
+
 ## Videos
 ### Israelites
 {{< youtube id="KPoypZ9casY" title="Israelites" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP15 |

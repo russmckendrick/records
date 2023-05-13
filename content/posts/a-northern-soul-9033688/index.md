@@ -46,9 +46,15 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 A Northern Soul is the second studio album by English alternative rock band The Verve. The album was released in the United Kingdom on 20 June 1995 on the Hut label and in the United States on 3 July 1995 on Vernon Yard Records. The title is a reference to Northern Soul, a popular soul movement in Britain during the 1970s.
 A Northern Soul was a moderate success upon release, charting at number 13 in the UK, and has since received critical acclaim, as well as being ranked high in readers polls in popular music publications. This is the final album to feature the band's original line-up until 2008's Forth. In 2013, NME ranked it at number 390 in its list of the 500 Greatest Albums of All Time.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-northern-soul/1442287322" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-northern-soul/1442287322" >}}<br>
+
+
 ## Videos
 ### The Verve - This Is Music
 {{< youtube id="PgsPAsno4OU" title="The Verve - This Is Music" >}}<br>
@@ -73,8 +79,6 @@ A Northern Soul was a moderate success upon release, charting at number 13 in th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Northern_Soul |
-| Apple Music Summary | Made while Richard Ashcroft was processing the breakdown of a long-term relationship and the band were tumbling towards their first split, The Verve’s second album thrives on dark emotions. “This Is Music” charges its funk groove and inflamed guitars with defiance and rage, and acoustic ballad “On Your Own” is embittered by solitude and betrayal. The latter is a glimpse of the singer-songwriter classicism Ashcroft would eventually settle into, but “History” is the great leap forward here; its captivating sorrow driven by strings and a re-purposed William Blake poem. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 4786539 |

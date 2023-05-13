@@ -41,7 +41,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Coheed and Cambria: Old Flames [OFFICIAL VIDEO]
 {{< youtube id="SX6Dz0JRifU" title="Coheed and Cambria: Old Flames [OFFICIAL VIDEO]" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album (True Ugly Color Vinyl), Vinyl LP Single Sided Album Etched (True Ugly Color Vinyl) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7429-1 |

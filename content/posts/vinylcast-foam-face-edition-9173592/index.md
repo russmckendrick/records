@@ -39,7 +39,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Limited Edition Stereo (White) |
 | Label          | Makin' Hay Records |
 | Catalog Number | none |

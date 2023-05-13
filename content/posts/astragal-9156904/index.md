@@ -33,9 +33,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/astragal/1171757044" >}}
+{{< applemusic url="https://music.apple.com/gb/album/astragal/1171757044" >}}<br>
+
+
 ## Videos
 ### Broken DC - Summer Lawns
 {{< youtube id="mK12aoSMjvc" title="Broken DC - Summer Lawns" >}}<br>
@@ -47,7 +50,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | God Unknown Records |
 | Catalog Number | GOD025 |

@@ -48,9 +48,14 @@ styles: ["Downtempo", "Abstract", "Trip Hop"]
 <!-- section break -->
 
 Psyence Fiction is the debut studio album by English electronic music act Unkle, released on 24 August 1998 by Mo' Wax. The album was produced by Unkle, at the time consisting of James Lavelle and DJ Shadow. The music on Psyence Fiction was primarily composed by DJ Shadow. Lavelle recruited numerous guest musicians to contribute to the album's recording.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/psyence-fiction/1667639546" >}}
+{{< applemusic url="https://music.apple.com/gb/album/psyence-fiction/1667639546" >}}<br>
+
+
 ## Videos
 ### UNKLE feat. Thom Yorke - Rabbit In Your Headlights
 {{< youtube id="RCG7qJAP7Qk" title="UNKLE feat. Thom Yorke - Rabbit In Your Headlights" >}}<br>
@@ -67,8 +72,6 @@ Psyence Fiction is the debut studio album by English electronic music act Unkle,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Psyence_Fiction |
-| Wikipedia Summary | Psyence Fiction is the debut studio album by English electronic music act Unkle, released on 24 August 1998 by Mo' Wax. The album was produced by Unkle, at the time consisting of James Lavelle and DJ Shadow. The music on Psyence Fiction was primarily composed by DJ Shadow. Lavelle recruited numerous guest musicians to contribute to the album's recording. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | UMC |
 | Catalog Number | 6759386 |

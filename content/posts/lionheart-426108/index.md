@@ -47,9 +47,14 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 
 Lionheart is the second studio album by English art rock singer Kate Bush. It was released in November 1978, just nine months after Bush's successful debut album The Kick Inside. Lionheart reached no. 6 on the UK Albums Chart (her only album not to make the top 5) and has been certified Platinum by the BPI.
 The first single taken from the album, "Hammer Horror", missed the UK Top 40. However, the follow-up single, "Wow", was released on the back of Bush's UK tour and became a UK Top 20 hit.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lionheart-remastered/1441564919" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lionheart-remastered/1441564919" >}}<br>
+
+
 ## Videos
 ### Kate Bush ‎ Liоnheаrt  Full Album HD
 {{< youtube id="XZm8ciAdPcc" title="Kate Bush ‎ Liоnheаrt  Full Album HD" >}}<br>
@@ -64,8 +69,6 @@ The first single taken from the album, "Hammer Horror", missed the UK Top 40. Ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lionheart_(Kate_Bush_album) |
-| Wikipedia Summary | Lionheart is the second studio album by English art rock singer Kate Bush. It was released in November 1978, just nine months after Bush's successful debut album The Kick Inside. Lionheart reached no. 6 on the UK Albums Chart (her only album not to make the top 5) and has been certified Platinum by the BPI.<br>The first single taken from the album, "Hammer Horror", missed the UK Top 40. However, the follow-up single, "Wow", was released on the back of Bush's UK tour and became a UK Top 20 hit. |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Stereo (Embossed, Gatefold) |
 | Label          | EMI |
 | Catalog Number | EMA 787 |

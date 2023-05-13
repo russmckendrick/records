@@ -47,9 +47,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, released in 1993 on Creation Records in the UK and Geffen in the US. It was commonly believed at the time that it was named after the song "Thirteen" by Big Star, a band that has heavily influenced Teenage Fanclub. The self-produced album was poorly received by critics on its release. It peaked at number 14 on the UK Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/thirteen/1417070105" >}}
+{{< applemusic url="https://music.apple.com/gb/album/thirteen/1417070105" >}}<br>
+
+
 ## Videos
 ### Teenage Fanclub - Hang On
 {{< youtube id="UeuvjxmaEkk" title="Teenage Fanclub - Hang On" >}}<br>
@@ -62,8 +67,6 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thirteen_(Teenage_Fanclub_album) |
-| Wikipedia Summary | Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, released in 1993 on Creation Records in the UK and Geffen in the US. It was commonly believed at the time that it was named after the song "Thirteen" by Big Star, a band that has heavily influenced Teenage Fanclub. The self-produced album was poorly received by critics on its release. It peaked at number 14 on the UK Albums Chart. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 19075837061 |

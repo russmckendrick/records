@@ -34,9 +34,12 @@ styles: ["Indie Pop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-sound-of-mcalmont-and-butler/723687997" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-sound-of-mcalmont-and-butler/723687997" >}}<br>
+
+
 ## Videos
 ### McAlmont & Butler - Yes [Full Version]
 {{< youtube id="POIIGYt5RlE" title="McAlmont & Butler - Yes [Full Version]" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Indie Pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gold Translucent, 180 gram) |
 | Label          | Edsel Records |
 | Catalog Number | DEMREC114 |

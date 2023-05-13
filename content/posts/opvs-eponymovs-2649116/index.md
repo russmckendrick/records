@@ -36,7 +36,10 @@ styles: ["Doom Metal", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ghost Death Knell (OFFICIAL)
 {{< youtube id="qJy-hdKT5wM" title="Ghost Death Knell (OFFICIAL)" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Doom Metal", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album Limited Edition (Green Splatter) |
 | Label          | Rise Above Records |
 | Catalog Number | RISELP124 |

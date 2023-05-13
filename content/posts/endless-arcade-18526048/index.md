@@ -47,9 +47,14 @@ styles: ["Indie Rock"]
 Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclub. Released on 30 April 2021, it is the band's first record since the departure of co-founder Gerard Love in late 2018 and their first with former Gorky's Zygotic Mynci member Euros Childs. The album's title comes from co-founder Raymond McGinley's song of the same name, with McGinley envisioning an endless arcade as "a city that you can wander through, with a sense of mystery, an imaginary one that goes on forever. When it came to choosing an album title, it seemed to have something for this collection of songs."
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/endless-arcade/1544103316" >}}
+{{< applemusic url="https://music.apple.com/gb/album/endless-arcade/1544103316" >}}<br>
+
+
 ## Videos
 ### Teenage Fanclub - Home (single edit)
 {{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home (single edit)" >}}<br>
@@ -65,8 +70,6 @@ Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Endless_Arcade |
-| Wikipedia Summary | Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclub. Released on 30 April 2021, it is the band's first record since the departure of co-founder Gerard Love in late 2018 and their first with former Gorky's Zygotic Mynci member Euros Childs. The album's title comes from co-founder Raymond McGinley's song of the same name, with McGinley envisioning an endless arcade as "a city that you can wander through, with a sense of mystery, an imaginary one that goes on forever. When it came to choosing an album title, it seemed to have something for this collection of songs."<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Green Translucent, Die Cut Sleeve) |
 | Label          | Pema |
 | Catalog Number | PEMA14LPC |

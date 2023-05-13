@@ -56,9 +56,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/resistance-is-futile-deluxe/1326848106" >}}
+{{< applemusic url="https://music.apple.com/gb/album/resistance-is-futile-deluxe/1326848106" >}}<br>
+
+
 ## Videos
 ### Manic Street Preachers - Hold Me Like a Heaven (Official Video)
 {{< youtube id="JU5bn2LiOfA" title="Manic Street Preachers - Hold Me Like a Heaven (Official Video)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (White, 180g), CD Album |
 | Label          | Columbia |
 | Catalog Number | 19075809911 |

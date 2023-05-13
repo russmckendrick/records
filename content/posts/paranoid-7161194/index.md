@@ -51,9 +51,15 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}
+{{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}<br>
+
+
 ## Videos
 ### War Pigs / Luke's Wall (2012 - Remaster)
 {{< youtube id="lLb6UUw2ZVQ" title="War Pigs / Luke's Wall (2012 - Remaster)" >}}<br>
@@ -74,8 +80,6 @@ Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song) |
-| Wikipedia Summary | "Paranoid" is a song by English heavy metal band Black Sabbath, released in 1970 off the band's second studio album Paranoid (1970). It is the first single from the album, while the B-side is the song "The Wizard". It reached number 4 on the UK Singles Chart and number 61 on the US Billboard Hot 100.<br><br> |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue, CD Album Reissue |
 | Label          | Sanctuary |
 | Catalog Number | BMGRM054LP |

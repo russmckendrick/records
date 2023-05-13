@@ -50,9 +50,14 @@ styles: ["Ambient", "Prog Rock"]
 <!-- section break -->
 
 Eye of the Soundscape is a compilation album by Polish progressive rock band Riverside, released on 21 October 2016 through InsideOut Music.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/eye-of-the-soundscape/1152468690" >}}
+{{< applemusic url="https://music.apple.com/gb/album/eye-of-the-soundscape/1152468690" >}}<br>
+
+
 ## Videos
 ### Rapid Eye Movement (2016 mix)
 {{< youtube id="oifjq7YHyAg" title="Rapid Eye Movement (2016 mix)" >}}<br>
@@ -71,8 +76,6 @@ Eye of the Soundscape is a compilation album by Polish progressive rock band Riv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eye_of_the_Soundscape |
-| Wikipedia Summary | Eye of the Soundscape is a compilation album by Polish progressive rock band Riverside, released on 21 October 2016 through InsideOut Music. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP (180 Gram), Vinyl LP Single Sided Etched (180 Gram), CD 2× Album Compilation, All Media Album Compilation |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 465 |

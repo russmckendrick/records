@@ -54,9 +54,12 @@ styles: ["Electro", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/electronica-2-the-heart-of-noise/1081484725" >}}
+{{< applemusic url="https://music.apple.com/gb/album/electronica-2-the-heart-of-noise/1081484725" >}}<br>
+
+
 ## Videos
 ### Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)
 {{< youtube id="RmLEsmmnsGw" title="Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Aero Productions |
 | Catalog Number | 88875196681 |

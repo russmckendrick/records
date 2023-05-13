@@ -48,9 +48,14 @@ styles: ["Ambient"]
 <!-- section break -->
 
 The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-to-draw-to-satellite-feat-emil%C3%ADana-torrini/1440929755" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-to-draw-to-satellite-feat-emil%C3%ADana-torrini/1440929755" >}}<br>
+
+
 ## Videos
 ### Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)
 {{< youtube id="u8JLozxxGrg" title="Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)" >}}<br>
@@ -65,8 +70,6 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | The Montreal DJ vibes with Icelandic singer Emilíana Torrini. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Arts & Crafts |
 | Catalog Number | A&C 129 |

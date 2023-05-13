@@ -40,9 +40,14 @@ styles: ["Punk", "Synth-pop"]
 <!-- section break -->
 
 Tubeway Army is the debut album by Tubeway Army, released in 1978. Its initial limited-edition run of 5,000 (known unofficially as the Blue Album due to its coloured vinyl and cover) sold out but did not chart. When reissued in mid-1979, following the success of the follow-up Replicas (1979), the more commonly known cover art featuring a stylised portrait of Gary Numan was introduced. This release made No. 14 in the UK album charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tubeway-army/1028834525" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tubeway-army/1028834525" >}}<br>
+
+
 ## Videos
 ### Listen To The Sirens
 {{< youtube id="iA6smLm8cog" title="Listen To The Sirens" >}}<br>
@@ -67,8 +72,6 @@ Tubeway Army is the debut album by Tubeway Army, released in 1978. Its initial l
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tubeway_Army_(album) |
-| Wikipedia Summary | Tubeway Army is the debut album by Tubeway Army, released in 1978. Its initial limited-edition run of 5,000 (known unofficially as the Blue Album due to its coloured vinyl and cover) sold out but did not chart. When reissued in mid-1979, following the success of the follow-up Replicas (1979), the more commonly known cover art featuring a stylised portrait of Gary Numan was introduced. This release made No. 14 in the UK album charts. |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Blue Marbled) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ 2262 LP |

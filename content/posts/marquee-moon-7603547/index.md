@@ -44,9 +44,15 @@ The biggest difference, however, was philosophical. For all its revolutionary en
 But they also brought a naiveté and sexlessness to classic rock that rescued it from its increasingly macho jaws. These are songs about the beauty and mystery of the city at night (the title track) and the feeling of being so in love with your friends that you could faint (“Venus”). Verlaine sang them in a voice located somewhere between an elderly witch and a small, nervous boy—and yet for all the power in their performance, they never give up on the essential fragility that forms the album’s heart.
 
 By the mere fact of being the bookish outsiders they were, Television opened the door for anyone who felt the same, from R.E.M. and Sleater-Kinney and the history of indie rock down. That they couldn’t get into a rhythm with a conceptually driven figure like Brian Eno (who recorded demos for the album) or a classic-rock standby like Andy Johns (who nominally produced it) is telling: <i>Marquee Moon</i> wasn’t the past or the present, but a world apart.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/marquee-moon/1049069472" >}}
+{{< applemusic url="https://music.apple.com/gb/album/marquee-moon/1049069472" >}}<br>
+
+
 ## Videos
 ### See No Evil
 {{< youtube id="puIM6LkKLpI" title="See No Evil" >}}<br>
@@ -67,8 +73,6 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Marquee_Moon |
-| Wikipedia Summary | Marquee Moon is the debut album by American rock band Television. It was released on February 8, 1977, by Elektra Records. In the years leading up to the album, Television had become a prominent act on the New York music scene and generated interest from a number of record labels, eventually signing a record deal with Elektra. The group rehearsed extensively in preparation for Marquee Moon before recording it at A & R Recording in September 1976. It was produced by the band's frontman Tom Verlaine and sound engineer Andy Johns.<br>For Marquee Moon, Verlaine and fellow guitarist Richard Lloyd abandoned contemporary punk rock's power chords in favor of rock and jazz-inspired interplay, melodic lines, and counter-melodies. The resulting music is largely hook-driven with complex instrumental parts (particularly on longer tracks such as "Marquee Moon"), while evoking themes of adolescence, discovery, and transcendence through imagery in urban, pastoral, and nocturnal modes, including references to the geography of Lower Manhattan. Influenced by Bohemian and French poetry, Verlaine's lyrics also feature puns and double entendres intended to give the songs an impressionistic quality in describing his perception of an experience.<br>Released to widespread acclaim, Marquee Moon was hailed by critics as an original musical development in rock music. The critical recognition helped the album achieve unexpected commercial success in the United Kingdom, despite poor sales in the United States. Among the most acclaimed music releases in history, it consistently features in professionally curated lists of top albums, including Rolling Stone magazine's "500 Greatest Albums of All Time" (2003), on which it ranked 128th. Marquee Moon also proved to be a foundational record of alternative rock, as Television's innovative post-punk instrumentation for the album strongly influenced the new wave and indie rock movements of the 1980s and rock guitar playing in general. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (White, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122797158 |

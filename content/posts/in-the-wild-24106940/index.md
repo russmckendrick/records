@@ -46,9 +46,12 @@ styles: ["Punk", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-wild-deluxe-edition/1680571234" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-the-wild-deluxe-edition/1680571234" >}}<br>
+
+
 ## Videos
 ### The Interrupters - Anything Was Better (Lyric Video)
 {{< youtube id="KWvN78Z8YU8" title="The Interrupters - Anything Was Better (Lyric Video)" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (White) |
 | Label          | Hellcat Records |
 | Catalog Number | 0543-1 |

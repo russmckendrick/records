@@ -45,7 +45,10 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Clear) |
 | Label          | Not On Label (British Theatre Self-released) |
 | Catalog Number | none |

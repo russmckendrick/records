@@ -43,9 +43,14 @@ styles: ["Power Pop"]
 
 Look Sharp! is the second studio album by Swedish pop duo Roxette, released on 21 October 1988 by EMI, two years after their debut Pearls of Passion (1986). It was recorded at EMI Studios in Stockholm and at Trident II Studios in London between March and September 1988. The album was an immediate commercial success in Sweden, debuting at number one and eventually being certified 6× platinum there.
 Although commercial success elsewhere was initially modest, the album was the duo's international breakthrough. It went on to be certified platinum or multi-platinum in numerous territories, while four of its singles attained commercial success. In the United States, the album was certified platinum and the singles "The Look" and "Listen to Your Heart" both topped the Billboard Hot 100, while "Dangerous" and "Dressed for Success" reached numbers 2 and 14, respectively, on the same chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/look-sharp-deluxe-version/693221596" >}}
+{{< applemusic url="https://music.apple.com/gb/album/look-sharp-deluxe-version/693221596" >}}<br>
+
+
 ## Videos
 ### Roxette - The Look
 {{< youtube id="dzrPH89rtWY" title="Roxette - The Look" >}}<br>
@@ -74,8 +79,6 @@ Although commercial success elsewhere was initially modest, the album was the du
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Look_Sharp!_(Roxette_album) |
-| Wikipedia Summary | Look Sharp! is the second studio album by Swedish pop duo Roxette, released on 21 October 1988 by EMI, two years after their debut Pearls of Passion (1986). It was recorded at EMI Studios in Stockholm and at Trident II Studios in London between March and September 1988. The album was an immediate commercial success in Sweden, debuting at number one and eventually being certified 6× platinum there.<br>Although commercial success elsewhere was initially modest, the album was the duo's international breakthrough. It went on to be certified platinum or multi-platinum in numerous territories, while four of its singles attained commercial success. In the United States, the album was certified platinum and the singles "The Look" and "Listen to Your Heart" both topped the Billboard Hot 100, while "Dangerous" and "Dressed for Success" reached numbers 2 and 14, respectively, on the same chart. |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | EMC 3557 |

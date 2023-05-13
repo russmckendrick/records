@@ -39,9 +39,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/banefyre/1616007627" >}}
+{{< applemusic url="https://music.apple.com/gb/album/banefyre/1616007627" >}}<br>
+
+
 ## Videos
 ### CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us (official video) 2022
 {{< youtube id="07XHKXhfah0" title="CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us (official video) 2022" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 3× LP Album Limited Edition Stereo (140g) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 646LP |

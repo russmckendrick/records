@@ -49,9 +49,12 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}
+{{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>
+
+
 ## Videos
 ### Untitled #1 (Vaka)
 {{< youtube id="b8ByoWG1iGo" title="Untitled #1 (Vaka)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram), CD |
 | Label          | XL Recordings |
 | Catalog Number | XLLP611 |

@@ -49,9 +49,14 @@ styles: ["Alternative Rock"]
 A Natural Disaster is the seventh album by the British rock band Anathema. It was released on 3 November 2003 in the United Kingdom and on 24 February 2004 in the United States through Music for Nations.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-natural-disaster-remastered/970424341" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-natural-disaster-remastered/970424341" >}}<br>
+
+
 ## Videos
 ### Anathema - A Natural Disaster (Audio)
 {{< youtube id="_lMiIsQqLaE" title="Anathema - A Natural Disaster (Audio)" >}}<br>
@@ -67,8 +72,6 @@ A Natural Disaster is the seventh album by the British rock band Anathema. It wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Natural_Disaster |
-| Wikipedia Summary | A Natural Disaster is the seventh album by the British rock band Anathema. It was released on 3 November 2003 in the United Kingdom and on 24 February 2004 in the United States through Music for Nations.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88875058531 |

@@ -36,9 +36,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/much-against-everyones-advice/15159110" >}}
+{{< applemusic url="https://music.apple.com/gb/album/much-against-everyones-advice/15159110" >}}<br>
+
+
 ## Videos
 ### 01   Conversation Intercom - Soulwax
 {{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 010 LP |

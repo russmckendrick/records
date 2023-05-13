@@ -43,9 +43,14 @@ styles: ["Drum n Bass", "Pop Rock"]
 Earthling (stylised as EART HL I NG) is the 21st studio album by English musician David Bowie, released on 3 February 1997 through RCA Records in the United Kingdom, Virgin Records in the United States, and Arista Records/BMG in other territories. Mostly self-produced by Bowie, it was primarily recorded from August to October 1996 at New York City's Looking Glass Studios. Bowie composed the tracks with Reeves Gabrels and Mark Plati, who are credited as co-producers, with Mike Garson, Gail Ann Dorsey and Zack Alford providing overdubs later.
 Developing musical styles previously explored on Outside (1995), Earthling showcases an electronica-influenced sound partly inspired by the industrial and drum and bass culture of the 1990s, further exhibiting jungle and techno styles. Lyrically, the tracks express themes of alienation and spirituality. One of them, "I'm Afraid of Americans" was remixed for release as a single by Nine Inch Nails' Trent Reznor, who appeared in its music video. The artwork depicts Bowie wearing a Union Jack coat co-designed by Alexander McQueen.
 Earthling charted better than its predecessor and reached the top ten in several countries. Its accompanying singles featured numerous remixes and were supported with music videos. Bowie promoted the album through television appearances and on the Earthling Tour in 1997. Although the album was mostly received positively on release, later reviews find Earthling lacked innovation in a time when the drum and bass craze was well-established; others consider it a worthwhile addition to an underrated decade. It was reissued with bonus tracks in 2004 and remastered in 2021 for inclusion on the box set Brilliant Adventure (1992–2001).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/earthling-expanded-edition/1061943538" >}}
+{{< applemusic url="https://music.apple.com/gb/album/earthling-expanded-edition/1061943538" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ Earthling charted better than its predecessor and reached the top ten in several
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Earthling_(album) |
-| Wikipedia Summary | Earthling (stylised as EART HL I NG) is the 21st studio album by English musician David Bowie, released on 3 February 1997 through RCA Records in the United Kingdom, Virgin Records in the United States, and Arista Records/BMG in other territories. Mostly self-produced by Bowie, it was primarily recorded from August to October 1996 at New York City's Looking Glass Studios. Bowie composed the tracks with Reeves Gabrels and Mark Plati, who are credited as co-producers, with Mike Garson, Gail Ann Dorsey and Zack Alford providing overdubs later.<br>Developing musical styles previously explored on Outside (1995), Earthling showcases an electronica-influenced sound partly inspired by the industrial and drum and bass culture of the 1990s, further exhibiting jungle and techno styles. Lyrically, the tracks express themes of alienation and spirituality. One of them, "I'm Afraid of Americans" was remixed for release as a single by Nine Inch Nails' Trent Reznor, who appeared in its music video. The artwork depicts Bowie wearing a Union Jack coat co-designed by Alexander McQueen.<br>Earthling charted better than its predecessor and reached the top ten in several countries. Its accompanying singles featured numerous remixes and were supported with music videos. Bowie promoted the album through television appearances and on the Earthling Tour in 1997. Although the album was mostly received positively on release, later reviews find Earthling lacked innovation in a time when the drum and bass craze was well-established; others consider it a worthwhile addition to an underrated decade. It was reissued with bonus tracks in 2004 and remastered in 2021 for inclusion on the box set Brilliant Adventure (1992–2001). |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Record Store Day Reissue (Green, 180g) |
 | Label          | ISO Records |
 | Catalog Number | FRM-42627 |

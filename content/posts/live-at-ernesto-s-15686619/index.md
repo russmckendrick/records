@@ -48,9 +48,12 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-ernestos/1485048839" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-ernestos/1485048839" >}}<br>
+
+
 ## Videos
 ### The Slackers - Married Girl (Live At Ernesto's)
 {{< youtube id="j96ExxBfE3Q" title="The Slackers - Married Girl (Live At Ernesto's)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Reissue (Clear w/ Glow In The Dark Splatter) |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR 268 |

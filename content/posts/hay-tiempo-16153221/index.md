@@ -39,9 +39,12 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hay-tiempo/1525715715" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hay-tiempo/1525715715" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Clear) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC729 |

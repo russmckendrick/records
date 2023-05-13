@@ -47,9 +47,14 @@ styles: ["Blues Rock", "Southern Rock"]
 
 "Ramblin Man" is a song by American rock band The Allman Brothers Band, released in August 1973 as the lead single from the group's fourth studio album, Brothers and Sisters (1973). Written and sung by guitarist Dickey Betts, the song was inspired by a 1951 song of the same name by Hank Williams. It is considerably more inspired by country music than other Allman Brothers Band compositions, which made the group reluctant to record it. Guitarist Les Dudek provides guitar harmonies, and it was one of bassist Berry Oakley's last contributions to the band.
 The song became the Allman Brothers Band's first and only top 10 single, peaking at number two on the Billboard Hot 100 chart and number 12 on the Easy Listening chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-allman-brothers-band/1469584148" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-allman-brothers-band/1469584148" >}}<br>
+
+
 ## Videos
 ### Don't Want You No More
 {{< youtube id="IQGPC2IEOdQ" title="Don't Want You No More" >}}<br>
@@ -69,8 +74,6 @@ The song became the Allman Brothers Band's first and only top 10 single, peaking
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ramblin%27_Man_(The_Allman_Brothers_Band_song) |
-| Wikipedia Summary | "Ramblin Man" is a song by American rock band The Allman Brothers Band, released in August 1973 as the lead single from the group's fourth studio album, Brothers and Sisters (1973). Written and sung by guitarist Dickey Betts, the song was inspired by a 1951 song of the same name by Hank Williams. It is considerably more inspired by country music than other Allman Brothers Band compositions, which made the group reluctant to record it. Guitarist Les Dudek provides guitar harmonies, and it was one of bassist Berry Oakley's last contributions to the band.<br>The song became the Allman Brothers Band's first and only top 10 single, peaking at number two on the Billboard Hot 100 chart and number 12 on the Easy Listening chart. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547813190 |

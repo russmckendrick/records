@@ -42,7 +42,10 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Record Store Day Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1201 |

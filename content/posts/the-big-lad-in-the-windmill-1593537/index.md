@@ -40,9 +40,14 @@ styles: ["Pop Rock"]
 
 The Big Lad in the Windmill is the debut album of British progressive pop/rock band It Bites.
 The album reached No. 35 in the UK album charts and produced three singles - "All in Red", "Calling All the Heroes" and "Whole New World". "Calling All the Heroes" and "Whole New World" both charted, although "Calling All the Heroes" was by far the more successful of the two, reaching No. 6 in the UK charts and remaining the band's biggest and only significant hit.Although marketed as a 1980s pop album, The Big Lad in the Windmill features an unusual mix of musical styles including pop, hard rock, Prince-style funk, power balladry and progressive rock, often all within the same song. The album also showcased the band's musical virtuosity, featuring multiple changes of dynamics and tempo plus prominent guitar and keyboard solos. The version of "Calling All the Heroes" included on the album is the full-length version rather than the better-known single edit, and features additional musical sections plus several false endings.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-big-lad-in-the-windmill/714393070" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-big-lad-in-the-windmill/714393070" >}}<br>
+
+
 ## Videos
 ### Calling All The Heroes - It Bites
 {{< youtube id="3hIWY-ir0s8" title="Calling All The Heroes - It Bites" >}}<br>
@@ -61,8 +66,6 @@ The album reached No. 35 in the UK album charts and produced three singles - "Al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Lad_in_the_Windmill |
-| Wikipedia Summary | The Big Lad in the Windmill is the debut album of British progressive pop/rock band It Bites.<br>The album reached No. 35 in the UK album charts and produced three singles - "All in Red", "Calling All the Heroes" and "Whole New World". "Calling All the Heroes" and "Whole New World" both charted, although "Calling All the Heroes" was by far the more successful of the two, reaching No. 6 in the UK charts and remaining the band's biggest and only significant hit.Although marketed as a 1980s pop album, The Big Lad in the Windmill features an unusual mix of musical styles including pop, hard rock, Prince-style funk, power balladry and progressive rock, often all within the same song. The album also showcased the band's musical virtuosity, featuring multiple changes of dynamics and tempo plus prominent guitar and keyboard solos. The version of "Calling All the Heroes" included on the album is the full-length version rather than the better-known single edit, and features additional musical sections plus several false endings. |
-| Release Year   | 1986                                   |
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V2378 |

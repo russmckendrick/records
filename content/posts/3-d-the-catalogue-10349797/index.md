@@ -138,9 +138,12 @@ styles: ["Techno", "Electro", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/3-d-the-catalogue-live/1572506374" >}}
+{{< applemusic url="https://music.apple.com/gb/album/3-d-the-catalogue-live/1572506374" >}}<br>
+
+
 
 
 ## Release Images
@@ -149,7 +152,6 @@ styles: ["Techno", "Electro", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Box Set, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Album (Headphone Surround 3D), Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | 0190295923518 |

@@ -47,9 +47,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-awesome-album/1566650824" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-awesome-album/1566650824" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,7 +61,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Catch Your Dream (Red, White, and Blue Stripe)) |
 | Label          | Dualtone |
 | Catalog Number | x |

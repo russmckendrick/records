@@ -28,9 +28,12 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-architect-ep/1667322669" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-architect-ep/1667322669" >}}<br>
+
+
 ## Videos
 ### Jane Weaver - The Architect
 {{< youtube id="keXHh0lr2y8" title="Jane Weaver - The Architect" >}}<br>
@@ -42,7 +45,6 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 12" 45 RPM EP |
 | Label          | Fire Records |
 | Catalog Number | FIRE485EP |

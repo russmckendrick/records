@@ -39,9 +39,12 @@ styles: ["Glam"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/open-up-and-say-ahh-20th-anniversary-edition/716552394" >}}
+{{< applemusic url="https://music.apple.com/gb/album/open-up-and-say-ahh-20th-anniversary-edition/716552394" >}}<br>
+
+
 ## Videos
 ### Poison - Nothin' But A Good Time (Official Video)
 {{< youtube id="_88L-CU7PD4" title="Poison - Nothin' But A Good Time (Official Video)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Green ) |
 | Label          | Capitol Records |
 | Catalog Number | B0027945-01 |

@@ -43,9 +43,14 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 Pink Moon is the third and final studio album by the English musician Nick Drake, released in the UK by Island Records on 25 February 1972. It was the only one of Drake's studio albums to be released in North America during his lifetime. Pink Moon differs from Drake's previous albums in that it was recorded without a backing band, featuring just Drake on vocals, acoustic guitar and a brief piano riff overdubbed onto the title track.
 Released two years before Drake's death in November 1974, at the age of twenty-six, the lyrical content of Pink Moon has often been attributed to Drake's ongoing battle with depression. The songs are shorter than on his previous albums, with a total album running time of just over twenty-eight minutes.
 Pink Moon, like Drake's previous studio albums, did not sell well during his lifetime, and its stripped-back, intimate sound received a mixed response from critics. However, the album has since garnered significant critical acclaim.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pink-moon/1567147188" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pink-moon/1567147188" >}}<br>
+
+
 ## Videos
 ### Pink Moon
 {{< youtube id="ZgHdUeMHTwc" title="Pink Moon" >}}<br>
@@ -69,8 +74,6 @@ Pink Moon, like Drake's previous studio albums, did not sell well during his lif
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Moon |
-| Wikipedia Summary | Pink Moon is the third and final studio album by the English musician Nick Drake, released in the UK by Island Records on 25 February 1972. It was the only one of Drake's studio albums to be released in North America during his lifetime. Pink Moon differs from Drake's previous albums in that it was recorded without a backing band, featuring just Drake on vocals, acoustic guitar and a brief piano riff overdubbed onto the title track.<br>Released two years before Drake's death in November 1974, at the age of twenty-six, the lyrical content of Pink Moon has often been attributed to Drake's ongoing battle with depression. The songs are shorter than on his previous albums, with a total album running time of just over twenty-eight minutes.<br>Pink Moon, like Drake's previous studio albums, did not sell well during his lifetime, and its stripped-back, intimate sound received a mixed response from critics. However, the album has since garnered significant critical acclaim. |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Repress Album |
 | Label          | Island Records |
 | Catalog Number | 006025 17456976 |

@@ -43,9 +43,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Asquarius (1992) is the third studio album released by the Leeds-based indie rock band Cud which reached number 30 in the UK album chart. Q magazine included it in their 1998 issue as part of their essential dozen Britpop records to have in your collection. The album was reissued in 2007 in expanded form. The album was recorded at Woodlands in Castleford, except for "Possessions", which was recorded at Woodhouse in Leeds in January 1992. Mixing took place at Jacobs in Farnham, and Metropolis in London in February 1992. The recordings were mainly produced by Jon Langford, except for "Possessions", which was produced by Dave Creffield; the latter served as engineer throughout the sessions, with assistance from Neil Amor.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/asquarius-reissue-expanded/1443220829" >}}
+{{< applemusic url="https://music.apple.com/gb/album/asquarius-reissue-expanded/1443220829" >}}<br>
+
+
 ## Videos
 ### CUD - Rich and Strange (1992)
 {{< youtube id="D7ikmVbr8J8" title="CUD - Rich and Strange (1992)" >}}<br>
@@ -62,8 +67,6 @@ Asquarius (1992) is the third studio album released by the Leeds-based indie roc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Asquarius |
-| Wikipedia Summary | Asquarius (1992) is the third studio album released by the Leeds-based indie rock band Cud which reached number 30 in the UK album chart. Q magazine included it in their 1998 issue as part of their essential dozen Britpop records to have in your collection. The album was reissued in 2007 in expanded form. The album was recorded at Woodlands in Castleford, except for "Possessions", which was recorded at Woodhouse in Leeds in January 1992. Mixing took place at Jacobs in Farnham, and Metropolis in London in February 1992. The recordings were mainly produced by Jon Langford, except for "Possessions", which was produced by Dave Creffield; the latter served as engineer throughout the sessions, with assistance from Neil Amor. |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 390-1 |

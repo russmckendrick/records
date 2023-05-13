@@ -51,9 +51,15 @@ styles: ["Leftfield"]
 
 American Dream (stylized in all-lowercase on digital releases) is the fourth studio album by American rock band LCD Soundsystem, released on September 1, 2017, by DFA and Columbia. It was announced on January 5, 2016, the day after it was revealed that the band was reuniting after a disbandment lasting nearly five years. It is the band's first album in seven years, following This Is Happening (2010).  This album reached number 1 on the Top Rock Albums chart and was LCD Soundsystem's first record to top the US Billboard 200.
 Prior to release, LCD Soundsystem performed at large music festivals as well as smaller shows to promote their reunion. "Call the Police" and "American Dream" were released together as the album's lead single on May 5, 2017, and "Tonite" was released as the second single on August 16, 2017. "Oh Baby" was later released as a single on September 20, 2018. The album received widespread acclaim from music critics, appeared on many year-end lists, and was named "Album of the Year" by Mojo and Uncut. The album performed well commercially and became the band's first number-one album in the United States, Canada, and Portugal. At the 60th Annual Grammy Awards, the album was nominated for Best Alternative Music Album and "Tonite" won the Grammy Award for Best Dance Recording.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/american-dream/1258822744" >}}
+{{< applemusic url="https://music.apple.com/gb/album/american-dream/1258822744" >}}<br>
+
+
 ## Videos
 ### oh baby
 {{< youtube id="PPa7wrRW2zE" title="oh baby" >}}<br>
@@ -80,8 +86,6 @@ Prior to release, LCD Soundsystem performed at large music festivals as well as 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Dream_(LCD_Soundsystem_album) |
-| Apple Music Summary | You could forgive James Murphy for feeling apprehensive about reviving LCD Soundsystem after their epic bowing-out in 2011. But when David Bowie urges you to do something, you kind of have to take it to heart. Bowie’s influence is all over <i>american dream</i>, as are all the touchpoints that announced LCD's early-'00s indie bona fides. The searing guitars and ambient textures on “call the police” and “other voices” play like pages in Bowie’s Berlin diaries, and the band nods generously in the direction of Bono, Talking Heads, electro, and '80s post-punk throughout. That’s no surprise. But for Murphy, <i>american dream</i> also represents a beautifully matured reckoning. The jaded record-store geek of 2002’s “Losing My Edge” is now gracefully grappling with aging and loss on the thumping, New Order-esque “tonite,” sing-speaking lines like, "We maybe realize what it is we need before we die.” This is LCD come full circle. Not only have they not missed a stitch upon returning—<i>american dream</i> is arguably their best album yet. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | DFA |
 | Catalog Number | 88985456111 |

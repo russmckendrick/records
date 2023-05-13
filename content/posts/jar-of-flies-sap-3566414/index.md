@@ -55,7 +55,10 @@ styles: ["Grunge"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Alice In Chains - No Excuses (Official Video)
 {{< youtube id="r80HF68KM8g" title="Alice In Chains - No Excuses (Official Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Grunge"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP, Vinyl 12" 33 ⅓ RPM Single Sided EP Etched, All Media Mini-Album Compilation Reissue Stereo (180 Gram Audiophile, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP086 |

@@ -51,9 +51,15 @@ styles: ["Pop Rock", "Experimental"]
 <!-- section break -->
 
 Talk Talk snuck into the music industry as part of the New Romantic movement, opening for Duran Duran and recording a debut album, 1982’s <i>The Party’s Over</i>, that fit the emerging music trend. However — and this is a big however — singer Mark Hollis and producer-multi-instrumentalist Tim Friese-Greene had other plans. They quickly moved away from the synthetic washes and began exploring natural atmospherics that created a brand new style of music. <i>The Colour of Spring</i> is the middle ground. It retains the accessible spirit of <i>It’s My Life</i> with the pop snap and crackle of “I Don’t Believe In You” and the white funk of “Life’s What You Make It,” but there is also a touch of the luminous stillness and grandiosity that dominates <i>Spirit of Eden</i> and <i>Laughing Stock</i>. <i>The Colour of Spring</i> is the album most likely to satisfy all comers. The music often has a pulse (“Living in Another World”) and when it does stretch out on “April 5th,” “Chameleon Day” and “Time It’s Time,” it’s with a sweetness that retains its connections to the pop-rock world the band would soon be leaving for ambient lands.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-colour-of-spring/696811651" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-colour-of-spring/696811651" >}}<br>
+
+
 ## Videos
 ### Talk Talk - Give It Up
 {{< youtube id="OsEgxsyUn2c" title="Talk Talk - Give It Up" >}}<br>
@@ -75,8 +81,6 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Colour_of_Spring |
-| Wikipedia Summary | The Colour of Spring is the third studio album by English band Talk Talk, released on 17 February 1986. Written by Mark Hollis and producer Tim Friese-Greene, the album combines elements of jazz and art pop in an effort by Hollis to embrace more organic instrumentation and production values. Unlike previous Talk Talk albums, synthesizers are rarely featured on the album, being replaced by guitar, piano, and organ. The album went on to become Talk Talk's greatest commercial success, spawning the hit singles "Life's What You Make It" and "Living in Another World" and reaching the Top 20 in numerous countries (topping the Dutch charts), including the UK, where it reached No. 8 and stayed in the UK charts for 21 weeks. |
-    | Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180g), DVD DVD-Video NTSC Album Reissue Stereo |
 | Label          | EMI |
 | Catalog Number | EMCX 3506 |

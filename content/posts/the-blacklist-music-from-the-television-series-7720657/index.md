@@ -47,7 +47,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING
 {{< youtube id="jv-Tymtpj3o" title="The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING" >}}<br>
@@ -59,7 +62,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Compilation Limited Edition Numbered (Red) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM059 |

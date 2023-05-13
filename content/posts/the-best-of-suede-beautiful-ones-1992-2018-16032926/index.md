@@ -82,9 +82,12 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018-deluxe/1528561849" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018-deluxe/1528561849" >}}<br>
+
+
 
 
 ## Release Images
@@ -93,7 +96,6 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Box Set Compilation, Vinyl 6× LP (White, 180 Gram) |
 | Label          | Demon Records |
 | Catalog Number | SUEDEBOX012 |

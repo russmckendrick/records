@@ -43,9 +43,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the hit single "Seether" and received positive critical reviews.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/american-thighs/265134156" >}}
+{{< applemusic url="https://music.apple.com/gb/album/american-thighs/265134156" >}}<br>
+
+
 ## Videos
 ### Get Back
 {{< youtube id="0uyWZEkfXrg" title="Get Back" >}}<br>
@@ -71,8 +76,6 @@ American Thighs is the 1994 debut studio album by American alternative rock band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Thighs |
-| Wikipedia Summary | American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the hit single "Seether" and received positive critical reviews. |
-| Release Year   | 1994                                   |
 | Format         | Vinyl Album LP |
 | Label          | Hi-Rise Recordings |
 | Catalog Number | FLATLP 9 |

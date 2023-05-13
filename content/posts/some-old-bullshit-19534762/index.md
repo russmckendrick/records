@@ -49,9 +49,14 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 Some Old Bullshit, also known as Some Old B******t, is a compilation album by the rap rock trio Beastie Boys released in February 8, 1994. It compiles several of their early EPs, recorded in the early 1980s. These recordings present a sound radically different from that of the hip-hop sound generally associated with the band. Instead, these songs represent the band's part in the early New York hardcore scene. The album also features taped segments originally heard on Noise The Show, a popular hardcore radio show on WNYU in New York that played early recordings from Beastie Boys.  These segments feature the hyperbolic introductions of Noise The Show's host, Tim Sommer, an early supporter of the band.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/some-old-b-t/724689773" >}}
+{{< applemusic url="https://music.apple.com/gb/album/some-old-b-t/724689773" >}}<br>
+
+
 ## Videos
 ### Egg Raid On Mojo
 {{< youtube id="_fyEPio-kgM" title="Egg Raid On Mojo" >}}<br>
@@ -78,8 +83,6 @@ Some Old Bullshit, also known as Some Old B******t, is a compilation album by th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Some_Old_Bullshit |
-| Wikipedia Summary | Some Old Bullshit, also known as Some Old B******t, is a compilation album by the rap rock trio Beastie Boys released in February 8, 1994. It compiles several of their early EPs, recorded in the early 1980s. These recordings present a sound radically different from that of the hip-hop sound generally associated with the band. Instead, these songs represent the band's part in the early New York hardcore scene. The album also features taped segments originally heard on Noise The Show, a popular hardcore radio show on WNYU in New York that played early recordings from Beastie Boys.  These segments feature the hyperbolic introductions of Noise The Show's host, Tim Sommer, an early supporter of the band.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Compilation Reissue (180gram) |
 | Label          | Grand Royal |
 | Catalog Number | GR 003 |

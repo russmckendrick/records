@@ -36,9 +36,12 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/durand-jones-the-indications-deluxe-edition/1339389796" >}}
+{{< applemusic url="https://music.apple.com/gb/album/durand-jones-the-indications-deluxe-edition/1339389796" >}}<br>
+
+
 ## Videos
 ### Durand Jones And The Indications..Is It Any Wonder.
 {{< youtube id="1MplHc9WbCM" title="Durand Jones And The Indications..Is It Any Wonder." >}}<br>
@@ -58,7 +61,6 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red translucent) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC157 |

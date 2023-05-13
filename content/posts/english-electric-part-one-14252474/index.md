@@ -41,9 +41,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-one/558027300" >}}
+{{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-one/558027300" >}}<br>
+
+
 ## Videos
 ### Big Big Train - English Electric Part 1 (2012) Full
 {{< youtube id="czgRIvcnTeE" title="Big Big Train - English Electric Part 1 (2012) Full" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Blue) |
 | Label          | English Electric Recordings |
 | Catalog Number | 7426822210565 |

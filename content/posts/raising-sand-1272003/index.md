@@ -56,9 +56,15 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, but between their tender harmonies and the intimate slant of the material, it often sounds that way. They're haunting and heavenly when they join voices on the gospel number "Your Long Journey". Though the stripped-down, acoustic-based sound is a long way from Led Zeppelin, they rock on a slinky version of Allen Toussaint's "Fortune Teller". And when they cover a pair of lesser-known Everly Brothers songs, they sound remarkably like the brothers themselves.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/raising-sand/1440777888" >}}
+{{< applemusic url="https://music.apple.com/gb/album/raising-sand/1440777888" >}}<br>
+
+
 ## Videos
 ### Killing The Blues by Robert Plant & Alison Krauss from Raising Sand
 {{< youtube id="gwg2sdRdahM" title="Killing The Blues by Robert Plant & Alison Krauss from Raising Sand" >}}<br>
@@ -83,8 +89,6 @@ Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Raising_Sand |
-| Wikipedia Summary | Raising Sand is a collaborative studio album by rock singer Robert Plant and bluegrass-country singer Alison Krauss. It was released in October 2007 by Rounder Records. Raising Sand won Album of the Year at the 2008 Americana Music Honors & Awards and at the 2009 Grammy Awards.<br><br> |
-    | Release Year   | 2007                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Rounder Records |
 | Catalog Number | 11661-9075-1 |

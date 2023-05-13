@@ -44,9 +44,12 @@ styles: ["Southern Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}
+{{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}<br>
+
+
 ## Videos
 ### Sooner Or Later
 {{< youtube id="RO5Dl_b_sF4" title="Sooner Or Later" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Southern Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Provogue |
 | Catalog Number | PRD 7580 1 |

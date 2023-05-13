@@ -30,7 +30,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ned's Atomic Dustbin - Happy
 {{< youtube id="gmD08Na5VKI" title="Ned's Atomic Dustbin - Happy" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" 45 RPM Single Stereo |
 | Label          | Sony Soho Square |
 | Catalog Number | 656680 6 |

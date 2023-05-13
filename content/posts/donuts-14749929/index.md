@@ -67,9 +67,15 @@ styles: ["Instrumental"]
 There should have been more records like <i>Donuts</i>, many more. When J Dilla, aka Detroit’s James Yancey, made the album, he was 31 years old and widely celebrated as a producer of rare talent, having worked with Erykah Badu, D’Angelo, and De La Soul, among many others. He had an encyclopedic knowledge of obscure jazz, funk, and soul, and, as a talented drummer in his own right, he brought a rare sense of groove to the samples he chopped up on his trusty Akai MPC. <br />
 An entire tradition of beat music has been constructed atop the unique sense of swing that Dilla brought to the classic boom-bap cadence; “Dilla-esque” has become shorthand for a certain sensibility—a mixture of taste, timing, and restraint—that was present in all his productions, and almost impossible to imitate, no matter how many have tried. <br />
 But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posthumous releases: He suffered from lupus—he recorded some of <i>Donuts</i> in his hospital bed, in fact—and died just three days after the record hit shelves in February, 2006. It’s likely the album would have become legendary under any circumstances. Where his 2001 vocal album <i>Welcome 2 Detroit</i> ably showed off his chops, the all-instrumental <i>Donuts</i> proved how much was possible from sampling alone. Drawing not only from staples like Dionne Warwick and The Jackson 5 but also soft rockers 10cc, Sex Pistols impresario Malcom McLaren, and <i>Looney Tunes</i> composer Raymond Scott, Dilla wove brief loops into hypnotic sketches, most of them barely a minute long, that flowed into one overarching whole: the elegant expression of a state of mind that is by turns playful, defiant, and tender, in which the smallest details snowball into the biggest feelings. Dilla’s legacy left generations of fans mourning his loss, but his final completed statement is bursting with joy.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/donuts/108233171" >}}
+{{< applemusic url="https://music.apple.com/gb/album/donuts/108233171" >}}<br>
+
+
 ## Videos
 ### J Dilla - Last Donut of the Night (Donuts) Official Video
 {{< youtube id="fC3Cthm0HFU" title="J Dilla - Last Donut of the Night (Donuts) Official Video" >}}<br>
@@ -113,8 +119,6 @@ But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posth
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Donuts_(album) |
-| Wikipedia Summary | Donuts is the second studio album by the American hip hop producer J Dilla, released on February 7, 2006, by Stones Throw Records. It was released on the day of his 32nd birthday, three days before his death.<br>The album was recorded in 2005, largely during J Dilla's extended stay at Cedars-Sinai Medical Center due to complications from thrombotic thrombocytopenic purpura (TTP) and lupus. Twenty-nine of the album's thirty-one tracks were recorded in J Dilla's hospital room, using a 45-rpm record player and a Boss SP-303 sampler.Donuts received widespread critical acclaim for its dense, eclectic sampling and its perceived confrontation of mortality. Pitchfork placed the album at number 38 on their list of the top 50 albums of 2006 and at number 66 on their list of the top 200 albums of the 2000s. In 2020, Rolling Stone ranked the album at 386 in their 500 Greatest Albums of All Time. It is regarded, by fans and critics alike, as J Dilla's magnum opus, a classic of instrumental hip hop, and one of the most influential hip hop albums of all time, with artists of many genres citing it as an inspiration. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition Reissue (Red-in-Clear, "Jelly" Edition) |
 | Label          | Stones Throw Records |
 | Catalog Number | STH2126-8 |

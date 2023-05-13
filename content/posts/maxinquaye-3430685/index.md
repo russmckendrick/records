@@ -48,9 +48,15 @@ With assistance from fellow producer Mark Saunders, Tricky used dub music techni
 Maxinquaye reached the number three position on the United Kingdom's albums chart and sold over 100,000 copies in its first few months of release. 4th & B'way marketed the album by relying on independent record promoters and Tricky's appearances in media, including publicity photographs and music videos that portrayed him and Topley-Bird in gender-bending fashion. Maxinquaye was cited by many journalists as the year's best record and the key release of the burgeoning trip hop genre. Since then, it has sold more than 500,000 copies worldwide and ranks frequently on lists of the greatest albums, while regarded as a significant influence on electronica, underground hip hop and British hip hop.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/maxinquaye/1440918276" >}}
+{{< applemusic url="https://music.apple.com/gb/album/maxinquaye/1440918276" >}}<br>
+
+
 ## Videos
 ### Tricky - Maxinquaye [FULL ALBUM] ☆☆☆☆☆
 {{< youtube id="AxSvRhspIjo" title="Tricky - Maxinquaye [FULL ALBUM] ☆☆☆☆☆" >}}<br>
@@ -63,8 +69,6 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maxinquaye |
-| Apple Music Summary | If unease were an art form, then <i>Maxinquaye</i> would be its Sistine Chapel. Thanks to its unhurried hush, the album is a make-out must, but it's the pervading sense of danger that makes it so sensually sinister. Tricky and Martina Topley-Bird play devil and angel on your shoulders, trading gravelly raps with cool, crystalline delivery. Despite the claustrophobic atmospheres, there's something for every mood, from the sultry whispers of "Overcome" to a thrilling Public Enemy cover, "Black Steel". Listen loud—and, preferably, late at night. |
-    | Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP507 |

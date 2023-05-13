@@ -41,9 +41,15 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 On his eleventh studio album, Steven Morrissey beholds the choppy water of a polarised age and effectively grabs a surfboard. Bracing, black-skied and wrapped in lyrical barb-wire, <i>Low in High School</i> finds the former Smiths frontman taking on modern propagandists (“My Love, I’d Do Anything For You”), abusive authority figures (“Who Will Protect Us from the Police?”) and lust amid political revolution (“In Your Lap”). There’s melodic light to balance the dark imagery, though. “Spent the Day in Bed”—a stately, piano-sprinkled riposte to the horror of 24-hour news—may be one of the most deftly effective songs he’s produced in a decade.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/low-in-high-school/1282060987" >}}
+{{< applemusic url="https://music.apple.com/gb/album/low-in-high-school/1282060987" >}}<br>
+
+
 ## Videos
 ### Morrissey - My Love, I'd Do Anything for You (Official Audio)
 {{< youtube id="8Z13FURjttI" title="Morrissey - My Love, I'd Do Anything for You (Official Audio)" >}}<br>
@@ -68,8 +74,6 @@ On his eleventh studio album, Steven Morrissey beholds the choppy water of a pol
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Low_in_High_School |
-| Wikipedia Summary | Low in High School is the eleventh solo studio album by British singer Morrissey, released on 17 November 2017 through BMG. It was produced by Joe Chiccarelli, and recorded at La Fabrique Studios in France and at Ennio Morricone's Forum Studios in Italy.The album debuted at number 5 on the UK Albums Chart. Low in High School generally received mixed or average reviews.<br><br> |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Étienne |
 | Catalog Number | 538337938 |

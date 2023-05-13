@@ -103,9 +103,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic Street Preachers relocated to Cardiff to make one of the decade’s most remarkable and outlying rock records. Released in the UK on the same day as Oasis’ <i>Definitely Maybe</i>, <i>The Holy Bible</i> is a harrowing expression of anguish, unshrinking and unromantic in its abyss-edge study of death, fascism, self-harm, and man’s capacity for atrocity. Its barbed, rigorous post-punk sound is given extra muscle by the superior US Mix on this deluxe edition, which also includes highlights of the band’s 1994 gig at London’s Astoria—lyricist and guitarist Richey Edwards’ final show before disappearing in February 1995.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-holy-bible-20-remastered/942562485" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-holy-bible-20-remastered/942562485" >}}<br>
+
+
 ## Videos
 ### Yes (Remastered)
 {{< youtube id="4ZNGdD0Hxss" title="Yes (Remastered)" >}}<br>
@@ -128,8 +133,6 @@ In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic S
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic Street Preachers relocated to Cardiff to make one of the decade’s most remarkable and outlying rock records. Released in the UK on the same day as Oasis’ <i>Definitely Maybe</i>, <i>The Holy Bible</i> is a harrowing expression of anguish, unshrinking and unromantic in its abyss-edge study of death, fascism, self-harm, and man’s capacity for atrocity. Its barbed, rigorous post-punk sound is given extra muscle by the superior US Mix on this deluxe edition, which also includes highlights of the band’s 1994 gig at London’s Astoria—lyricist and guitarist Richey Edwards’ final show before disappearing in February 1995. |
-| Release Year   | 2014                                   |
 | Format         | Box Set Album Limited Edition, Vinyl LP Album Remastered (180 Gram), CD Album Remastered, CD Album Remastered, CD 2× |
 | Label          | Columbia |
 | Catalog Number | 88875036002 |

@@ -42,9 +42,14 @@ styles: ["Britpop", "Indie Rock"]
 
 Expecting to Fly is the debut studio album by the Bluetones. It was released on 12 February 1996, knocking Oasis's (What's the Story) Morning Glory? off the number-one spot in the UK Albums Chart for a week. The album is currently certified Platinum by the BPI. Its singles were "Bluetonic", "Slight Return" and "Cut Some Rug".
 A 2 CD Expanded Edition of the album was released on 9 March 2009.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/expecting-to-fly/1443718863" >}}
+{{< applemusic url="https://music.apple.com/gb/album/expecting-to-fly/1443718863" >}}<br>
+
+
 ## Videos
 ### The Bluetones - Slight Return
 {{< youtube id="B-3UpL6MkZ0" title="The Bluetones - Slight Return" >}}<br>
@@ -63,8 +68,6 @@ A 2 CD Expanded Edition of the album was released on 9 March 2009.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Expecting_to_Fly_(album) |
-| Wikipedia Summary | Expecting to Fly is the debut studio album by the Bluetones. It was released on 12 February 1996, knocking Oasis's (What's the Story) Morning Glory? off the number-one spot in the UK Albums Chart for a week. The album is currently certified Platinum by the BPI. Its singles were "Bluetonic", "Slight Return" and "Cut Some Rug".<br>A 2 CD Expanded Edition of the album was released on 9 March 2009. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-51LP |

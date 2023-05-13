@@ -45,9 +45,12 @@ styles: ["Math Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/%E6%B0%B4%E5%BA%95/1613718805" >}}
+{{< applemusic url="https://music.apple.com/gb/album/%E6%B0%B4%E5%BA%95/1613718805" >}}<br>
+
+
 ## Videos
 ### Elephant Gym - Underwater - Full Album - 2018
 {{< youtube id="oAwNf9Zy2UU" title="Elephant Gym - Underwater - Full Album - 2018" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Math Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Limited Edition (Dark Blue In Mint) |
 | Label          | Topshelf Records (2) |
 | Catalog Number | Eg-0017/TSR-201 |

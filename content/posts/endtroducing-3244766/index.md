@@ -53,9 +53,14 @@ In the United Kingdom, where DJ Shadow had already established himself as a risi
 Endtroducing was ranked highly on various lists of the best albums of 1996, and has been acclaimed by critics as one of the greatest albums of the 1990s. It is considered a landmark recording in instrumental hip hop, with DJ Shadow's sampling techniques and arrangements leaving a lasting influence. In 2020, Rolling Stone magazine ranked Endtroducing 329th on its list of the 500 greatest albums of all time.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/endtroducing/1660485817" >}}
+{{< applemusic url="https://music.apple.com/gb/album/endtroducing/1660485817" >}}<br>
+
+
 ## Videos
 ### DJ Shadow - Midnight In A Perfect World
 {{< youtube id="InFbBlpDTfQ" title="DJ Shadow - Midnight In A Perfect World" >}}<br>
@@ -76,8 +81,6 @@ Endtroducing was ranked highly on various lists of the best albums of 1996, and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Endtroducing..... |
-| Wikipedia Summary | Endtroducing..... is the debut studio album by American music producer DJ Shadow, released on September 16, 1996, by Mo' Wax. It is an instrumental hip hop work composed almost entirely of samples from vinyl records. DJ Shadow produced Endtroducing over two years, using an Akai MPC60 sampler and little other equipment. He edited and layered samples to create new tracks of varying moods and tempos.<br>In the United Kingdom, where DJ Shadow had already established himself as a rising act, Endtroducing received praise from music journalists at the time of its release, and reached the top 20 of the UK Albums Chart. It was certified gold by the British Phonographic Industry. Mo' Wax issued four singles from the album, including the chart hits "Midnight in a Perfect World" and "Stem". It took considerably longer for Endtroducing to find success in the United States. After promoting the album and returning to his hometown of Davis, California, DJ Shadow devoted his time to creating new music. During this period, interest in Endtroducing began to build among the American music press, and it peaked at number 37 on the US Billboard Heatseekers Albums chart.<br>Endtroducing was ranked highly on various lists of the best albums of 1996, and has been acclaimed by critics as one of the greatest albums of the 1990s. It is considered a landmark recording in instrumental hip hop, with DJ Shadow's sampling techniques and arrangements leaving a lasting influence. In 2020, Rolling Stone magazine ranked Endtroducing 329th on its list of the 500 greatest albums of all time.<br><br> |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Reissue (180gram) |
 | Label          | Mo Wax |
 | Catalog Number | 0600753351604 |

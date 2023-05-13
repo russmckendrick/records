@@ -42,9 +42,12 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-poets-life/1485055404" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-poets-life/1485055404" >}}<br>
+
+
 ## Videos
 ### Tim Armstrong - Wake Up
 {{< youtube id="5YuCERKiRIo" title="Tim Armstrong - Wake Up" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (White) |
 | Label          | Hellcat Records |
 | Catalog Number | 0491-1 |

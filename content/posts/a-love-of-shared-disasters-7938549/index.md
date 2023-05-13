@@ -43,9 +43,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-love-of-shared-disasters/1183915604" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-love-of-shared-disasters/1183915604" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats
 {{< youtube id="6Z-TufsJmDg" title="Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE901 |

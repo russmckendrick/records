@@ -34,9 +34,12 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tumbling-through-the-floativerse/1620580648" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tumbling-through-the-floativerse/1620580648" >}}<br>
+
+
 ## Videos
 ### Oilyvoice
 {{< youtube id="_jyi8X3NxrY" title="Oilyvoice" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1176 |

@@ -44,9 +44,14 @@ styles: ["Synth-pop"]
 
 Universal is the tenth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 2 September 1996 by Virgin Records. Frontman Andy McCluskey opted for a more organic, acoustic sound on the record, which peaked at number 24 on the UK Albums Chart. It was generally well received by music critics, although the British media's overall resistance to OMD – who had been rendered unfashionable by the prevalence of grunge and indie rock – prompted McCluskey to dissolve the group. Universal was their last album until 2010's History of Modern.
 The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the UK) and "Universal".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/universal/724394826" >}}
+{{< applemusic url="https://music.apple.com/gb/album/universal/724394826" >}}<br>
+
+
 ## Videos
 ### OMD Universal Vinyl LP Walking in the Milky Way
 {{< youtube id="LdF4ejCuzTk" title="OMD Universal Vinyl LP Walking in the Milky Way" >}}<br>
@@ -63,8 +68,6 @@ The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Universal_(Orchestral_Manoeuvres_in_the_Dark_album) |
-| Wikipedia Summary | Universal is the tenth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 2 September 1996 by Virgin Records. Frontman Andy McCluskey opted for a more organic, acoustic sound on the record, which peaked at number 24 on the UK Albums Chart. It was generally well received by music critics, although the British media's overall resistance to OMD – who had been rendered unfashionable by the prevalence of grunge and indie rock – prompted McCluskey to dissolve the group. Universal was their last album until 2010's History of Modern.<br>The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the UK) and "Universal". |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | EMI |
 | Catalog Number | 0602435422589 |

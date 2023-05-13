@@ -49,9 +49,15 @@ The album cover depicts handwritten lyrics to a song called "August and Everythi
 The album August & Everything After: Live at Town Hall was released on August 29, 2011, featuring live recordings of the songs from this album. More than 6 million copies of the album have been sold by February 2002 in the US.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/august-and-everything-after/1442449109" >}}
+{{< applemusic url="https://music.apple.com/gb/album/august-and-everything-after/1442449109" >}}<br>
+
+
 ## Videos
 ### Anna Begins
 {{< youtube id="d8LSBdUKo0c" title="Anna Begins" >}}<br>
@@ -72,8 +78,6 @@ The album August & Everything After: Live at Town Hall was released on August 29
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/August_and_Everything_After |
-| Apple Music Summary | By pairing plaintive songs with Adam Duritz’s supple, shape-shifting vocals, <i>August and Everything After</i> hits a recipe that feels both timeless and contemporary. With ringing chords and insistent grooves, “Omaha” and “Mr. Jones” are immediately inviting, but even in their poppy moments, Counting Crows always sound like a bunch of guys jamming in a living room. The band echoes R.E.M. in the impressionistic portraiture of “Round Here” and the jangly rushes of “Rain King”, while Duritz takes Van Morrison’s cue with the empathetic, unpredictable vocal expressions of “Anna Begins”. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | DGC |
 | Catalog Number | B0025531-01 |

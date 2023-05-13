@@ -49,9 +49,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>
+
+
 ## Videos
 ### Crowded House - Don't Dream It's Over (Official Video)
 {{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Video)" >}}<br>
@@ -67,7 +70,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange) |
 | Label          | Universal Music |
 | Catalog Number | 5784759 |

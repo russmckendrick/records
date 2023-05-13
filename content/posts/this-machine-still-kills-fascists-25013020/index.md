@@ -46,9 +46,14 @@ styles: ["Folk", "Acoustic"]
 This Machine Still Kills Fascists is the eleventh studio album by American band Dropkick Murphys and was released on September 30, 2022, on Dummy Luck Music. It marks the band's first studio album since The Gang's All Here to not feature vocalist Al Barr, who was on hiatus from the band to take care of his ailing mother. It is the band's first acoustic and country album and is composed of unused lyrics and words by Woody Guthrie.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-machine-still-kills-fascists-expanded-edition/1663331530" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-machine-still-kills-fascists-expanded-edition/1663331530" >}}<br>
+
+
 ## Videos
 ### Dropkick Murphys Two 6's Upside Down (Music Video)
 {{< youtube id="-5yrNwMWff0" title="Dropkick Murphys Two 6's Upside Down (Music Video)" >}}<br>
@@ -68,8 +73,6 @@ This Machine Still Kills Fascists is the eleventh studio album by American band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Machine_Still_Kills_Fascists |
-| Wikipedia Summary | This Machine Still Kills Fascists is the eleventh studio album by American band Dropkick Murphys and was released on September 30, 2022, on Dummy Luck Music. It marks the band's first studio album since The Gang's All Here to not feature vocalist Al Barr, who was on hiatus from the band to take care of his ailing mother. It is the band's first acoustic and country album and is composed of unused lyrics and words by Woody Guthrie.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Crystal) |
 | Label          | Dummy Luck Music |
 | Catalog Number | DLM002LPXC |

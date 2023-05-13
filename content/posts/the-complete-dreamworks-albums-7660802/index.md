@@ -113,7 +113,10 @@ styles: ["Indie Rock", "Lo-Fi"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -122,7 +125,6 @@ styles: ["Indie Rock", "Lo-Fi"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album, Box Set Compilation Limited Edition |
 | Label          | Universal Music Group |
 | Catalog Number | 602547306623 |

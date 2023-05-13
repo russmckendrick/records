@@ -39,7 +39,10 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Keep On Running
 {{< youtube id="4qPfGgjCLns" title="Keep On Running" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | BBE |
 | Catalog Number | BBE358CLP |

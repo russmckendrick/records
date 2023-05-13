@@ -43,9 +43,15 @@ styles: ["Southern Rock"]
 
 Scarecrow is the eighth studio album by John Mellencamp. Released in August 1985, it peaked at number two on the US chart. The remastered version was released May 24, 2005 on Mercury/Island/UMe and includes one bonus track. On November 4, 2022, a "deluxe" two-CD remastered and remixed version of the album was released.This album contained three top-ten hits, a record for a Mellencamp album: "R.O.C.K. in the U.S.A.", which peaked at number two in the US; "Lonely Ol' Night", which peaked at number six; and "Small Town", which also peaked at number six. "Lonely Ol' Night" also peaked at number one on the Mainstream Rock Tracks chart, his second chart-topping single on this chart.
 In 1989, Rolling Stone magazine ranked Scarecrow number 95 on its list of the 100 greatest albums of the 1980s, saying: "Scarecrow consolidated the band's rugged, roots-rock thrash and the ongoing maturation of Mellencamp's lyrics."
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scarecrow-bonus-track-2005-remaster/1440760003" >}}
+{{< applemusic url="https://music.apple.com/gb/album/scarecrow-bonus-track-2005-remaster/1440760003" >}}<br>
+
+
 ## Videos
 ### Rain On The Scarecrow ~ John Cougar Mellencamp 1985 Scarecrow ~ MERCURY LP
 {{< youtube id="1jlOJ7X3O60" title="Rain On The Scarecrow ~ John Cougar Mellencamp 1985 Scarecrow ~ MERCURY LP" >}}<br>
@@ -73,8 +79,6 @@ In 1989, Rolling Stone magazine ranked Scarecrow number 95 on its list of the 10
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scarecrow_(John_Mellencamp_album) |
-| Apple Music Summary | Released in 1985, at the peak of the decade’s neon garishness, John Mellencamp’s <i>Scarecrow</i> comes off like a tight Saturday night set played at the local VFW hall. “R.O.C.K. in the U.S.A.” nails a balance of ’60s energy and ’80s grit. Meanwhile, the haunting-but-wholesome “Rain on the Scarecrow” is both celebration and elegy for an endangered American farm culture. At the album’s core is “Small Town,” a three-chord anthem that marries the gleaming melodicism of The Byrds to Woody Guthrie’s rustic simplicity. |
-    | Release Year   | 1985                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Mercury |
 | Catalog Number | 824 865-1 |

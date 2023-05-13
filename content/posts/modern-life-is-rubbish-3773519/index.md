@@ -54,9 +54,14 @@ Modern Life Is Rubbish is the second album by English alternative rock band Blur
 Under threat of being dropped by Food Records, for their next album Blur underwent an image makeover championed by frontman Damon Albarn. The band incorporated influences from traditional British guitar-pop groups such as the Kinks and the Small Faces, and the resulting sound was melodic and lushly produced, featuring brass, woodwind and backing vocalists. Albarn's lyrics on Modern Life Is Rubbish use "poignant humour and Ray Davies characterisation to investigate the dreams, traditions and prejudices of suburban England", according to writer David Cavanagh.Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked at number 15, while the singles taken from the album charted in the Top 30. Applauded by the music press, the album's Anglocentric rhetoric rejuvenated the group's fortunes after their post-Leisure slump. Modern Life Is Rubbish is regarded as one of the defining releases of the Britpop scene, and its chart-topping follow-ups—Parklife and The Great Escape—saw Blur emerge as one of Britain's leading pop acts.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/modern-life-is-rubbish/726407617" >}}
+{{< applemusic url="https://music.apple.com/gb/album/modern-life-is-rubbish/726407617" >}}<br>
+
+
 
 
 ## Release Images
@@ -66,8 +71,6 @@ Under threat of being dropped by Food Records, for their next album Blur underwe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Modern_Life_Is_Rubbish |
-| Wikipedia Summary | Modern Life Is Rubbish is the second album by English alternative rock band Blur, released in May 1993. Although their debut album Leisure (1991) had been commercially successful, Blur faced a severe media backlash soon after its release, and fell out of public favour. After the group returned from an unsuccessful tour of the United States, poorly received live performances and the rising popularity of rival band Suede further diminished Blur's status in the UK.<br>Under threat of being dropped by Food Records, for their next album Blur underwent an image makeover championed by frontman Damon Albarn. The band incorporated influences from traditional British guitar-pop groups such as the Kinks and the Small Faces, and the resulting sound was melodic and lushly produced, featuring brass, woodwind and backing vocalists. Albarn's lyrics on Modern Life Is Rubbish use "poignant humour and Ray Davies characterisation to investigate the dreams, traditions and prejudices of suburban England", according to writer David Cavanagh.Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked at number 15, while the singles taken from the album charted in the Top 30. Applauded by the music press, the album's Anglocentric rhetoric rejuvenated the group's fortunes after their post-Leisure slump. Modern Life Is Rubbish is regarded as one of the defining releases of the Britpop scene, and its chart-topping follow-ups—Parklife and The Great Escape—saw Blur emerge as one of Britain's leading pop acts.<br><br> |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Special Edition (180 Gram, Gatefold) |
 | Label          | Food |
 | Catalog Number | FOODLPX9 |

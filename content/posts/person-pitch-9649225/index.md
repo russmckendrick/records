@@ -47,9 +47,14 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 <!-- section break -->
 
 Person Pitch is the third solo album by American recording artist Noah Lennox under his alias Panda Bear, released on March 20, 2007, by Paw Tracks. Departing stylistically from his prior work as both a member of Animal Collective and a solo artist, the album was recorded using the Boss SP-303 sampler, with instrumentation largely composed of manipulated samples and loops, accompanied by Lennox's layered vocals. He described it as a collection of "super dubby and old sounding" songs inspired by his then-recent marriage, fatherhood, and move to Portugal.The album was met with universal critical acclaim, and later ranked among various "top 10 albums of the 2000s" lists. It is noted for influencing a wide range of subsequent indie music, including the chillwave genre and numerous soundalike acts. Five of the album's seven tracks were issued as A-sided singles before the album's release: "I'm Not" and "Comfy in Nautica" (2005), "Bros" (2006), "Carrots" and "Take Pills" (2007).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/person-pitch/1484070816" >}}
+{{< applemusic url="https://music.apple.com/gb/album/person-pitch/1484070816" >}}<br>
+
+
 ## Videos
 ### Comfy In Nautica
 {{< youtube id="7xqOz_YqDxM" title="Comfy In Nautica" >}}<br>
@@ -69,8 +74,6 @@ Person Pitch is the third solo album by American recording artist Noah Lennox un
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Person_Pitch |
-| Wikipedia Summary | Person Pitch is the third solo album by American recording artist Noah Lennox under his alias Panda Bear, released on March 20, 2007, by Paw Tracks. Departing stylistically from his prior work as both a member of Animal Collective and a solo artist, the album was recorded using the Boss SP-303 sampler, with instrumentation largely composed of manipulated samples and loops, accompanied by Lennox's layered vocals. He described it as a collection of "super dubby and old sounding" songs inspired by his then-recent marriage, fatherhood, and move to Portugal.The album was met with universal critical acclaim, and later ranked among various "top 10 albums of the 2000s" lists. It is noted for influencing a wide range of subsequent indie music, including the chillwave genre and numerous soundalike acts. Five of the album's seven tracks were issued as A-sided singles before the album's release: "I'm Not" and "Comfy in Nautica" (2005), "Bros" (2006), "Carrots" and "Take Pills" (2007). |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 12" 45 RPM (White), Vinyl 12" 45 RPM (Blue), All Media Album Club Edition Reissue Remastered (Gatefold) |
 | Label          | My Animal Home |
 | Catalog Number | MAH08 |

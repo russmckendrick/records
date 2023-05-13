@@ -39,9 +39,12 @@ styles: ["Comedy", "Spoken Word"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beyond-the-fringe-live-at-the-cambridge-art-theatre/717490504" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beyond-the-fringe-live-at-the-cambridge-art-theatre/717490504" >}}<br>
+
+
 ## Videos
 ### Derek and Clive - 'Derek and Clive (Live)' - Full album
 {{< youtube id="-2ezqpFWnfU" title="Derek and Clive - 'Derek and Clive (Live)' - Full album" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Comedy", "Spoken Word"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1976                                   |
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | ILPS 9434 |

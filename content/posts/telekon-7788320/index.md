@@ -42,9 +42,14 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/telekon/251679821" >}}
+{{< applemusic url="https://music.apple.com/gb/album/telekon/251679821" >}}<br>
+
+
 ## Videos
 ### Gary Numan - This Wreckage
 {{< youtube id="m9uvIqIUq4U" title="Gary Numan - This Wreckage" >}}<br>
@@ -67,8 +72,6 @@ Telekon is the second solo studio album by English musician Gary Numan. It debut
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Telekon |
-| Wikipedia Summary | Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP19 |

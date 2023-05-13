@@ -4,6 +4,6 @@ summary: "David Bowie is the debut studio album by the English musician David Bo
 Musically, the album displays a baroque pop and music hall sound influenced by Anthony Newley and the Edwardian styles of contemporary British rock bands. The songs are primarily led by orchestral brass and woodwind instruments rather than traditional instruments in pop music at the time, although some tracks feature guitar. The lyrics are short-story narratives ranging from lighthearted to dark, discussing themes from childhood innocence, to drug use and totalitarianism. Bowie utilised various ideologies on the record for his later works. The cover artwork is a headshot of Bowie in a mod haircut wearing a high-collared jacket.
 Released in both mono and stereo mixes, David Bowie received positive reviews from music journalists but was a commercial failure due to a lack of promotion from Deram. Two tracks were omitted for its release in the United States in August 1967. Bowie provided more tracks for Deram, all of which were rejected and led to his departure from the label. Retrospective reviews unfavourably compare David Bowie to the artist's later works, but some recognise it positively on its own terms. The album was reissued in a two-disc deluxe edition in 2010, featuring both mixes and other tracks from the period."
 image: "david-bowie.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/david-bowie/551695"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/David_Bowie_(1967_album)"
 ---

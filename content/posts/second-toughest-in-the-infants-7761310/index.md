@@ -45,9 +45,15 @@ styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 
 Second Toughest in the Infants is the fourth studio album by British electronic music group Underworld, and the second in their "MK2" line-up with Darren Emerson. With this album, Underworld expanded on their progressive palette, while developing their signature sound of abrasive beats and anthemic melodies. The name of the album derives from a comment made by member Rick Smith's six-year-old nephew, Simon Prosser, when asked on his progress at infant school (the level of schooling attended by four- to seven-year-old children in the United Kingdom). Second Toughest featured the single "Pearl's Girl". The re-issue featured the band's best known single, "Born Slippy .NUXX".
 The album was remastered and re-released on 20 November 2015 with deluxe and super-deluxe expanded editions.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/second-toughest-in-the-infants-remastered/1443227490" >}}
+{{< applemusic url="https://music.apple.com/gb/album/second-toughest-in-the-infants-remastered/1443227490" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +63,6 @@ The album was remastered and re-released on 20 November 2015 with deluxe and sup
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Toughest_in_the_Infants |
-| Apple Music Summary | Rock-electronic fusionists Underworld’s 1996 album is a keystone of home-listening techno that helped introduce UK rave sounds to American ears: a high-BPM opus in which quarter-hour songs flit by in the blink of an eye, guitars cascade over rippling drum machines, and Karl Hyde unspools stream-of-consciousness rants like a Beat poet perched atop the subwoofer. Whether plunging into hypnotic house (“Rowla”) or the multi-part epics that open the album, it’s progressive in the truest sense of the term—a record that bridged divides, blazed new trails, and still sounds fresh, decades later. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Universal Music Catalogue |
 | Catalog Number | uwr00054 |

@@ -37,9 +37,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-big-area/1320027819" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-big-area/1320027819" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 122-1 |

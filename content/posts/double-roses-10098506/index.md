@@ -35,9 +35,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/double-roses/1186335978" >}}
+{{< applemusic url="https://music.apple.com/gb/album/double-roses/1186335978" >}}<br>
+
+
 ## Videos
 ### Karen Elson - Double Roses [FULL ALBUM]
 {{< youtube id="uEKiKp-2bW4" title="Karen Elson - Double Roses [FULL ALBUM]" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | 1965 Records |
 | Catalog Number | 9223701 |

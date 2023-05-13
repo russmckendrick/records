@@ -118,9 +118,13 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="5tA2nuPhQz0AVIzQtayJKi" width="100%" height="500" >}}
+{{< spotify type="album" id="5tA2nuPhQz0AVIzQtayJKi" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -129,7 +133,6 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Box Set Compilation Deluxe Edition, Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram) |
 | Label          | Trojan Records |
 | Catalog Number | TROJANLP001X |

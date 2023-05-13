@@ -35,9 +35,15 @@ styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 <!-- section break -->
 
 For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has been surprisingly prolific since his 2014 comeback. He’s toyed with robots (<i>Computer Controlled Acoustic Instruments pt2 EP</i>) and shown off rare synths (<i>Cheetah EP</i>), but on <i>Collapse EP</i>, he revels in the sheer thrill of gonzo beatmaking. The multi-part epic “T69 collapse” begins simply, with rubbery electro rhythms and wistful synths, but halfway through, the drums go haywire and threaten to pull the track apart at any moment. “Pthex” follows a similarly fraught path, starting with gentle echoes of James’ early-’90s ambient works before tangling up in knots. And the streamlined “1st 44” strips back to virtually nothing but shuddering kicks and claps; it’s one of his heaviest drum tracks ever.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/collapse-ep/1418633340" >}}
+{{< applemusic url="https://music.apple.com/gb/album/collapse-ep/1418633340" >}}<br>
+
+
 ## Videos
 ### Aphex Twin - T69 Collapse
 {{< youtube id="SqayDnQ2wmw" title="Aphex Twin - T69 Collapse" >}}<br>
@@ -54,8 +60,6 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Collapse_EP |
-| Wikipedia Summary | Collapse EP is an album or EP by British electronic musician Richard D. James under the pseudonym Aphex Twin. It was released on 14 September 2018 on Warp. The record received universal acclaim from music critics, who praised James for returning to his signature "Aphex Twin" sound. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP423 |

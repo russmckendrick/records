@@ -84,9 +84,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radio-gnome-invisible-trilogy/1057678912" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radio-gnome-invisible-trilogy/1057678912" >}}<br>
+
+
 ## Videos
 ### Gong_ Angel's Egg (1973) full album
 {{< youtube id="u0AhjPHGbLU" title="Gong_ Angel's Egg (1973) full album" >}}<br>
@@ -101,7 +104,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered Stereo (180gr), Vinyl LP Album Reissue Remastered Stereo (180gr), Vinyl LP Album Reissue Remastered Stereo (180gr) |
 | Label          | BYG Records |
 | Catalog Number | CHARLY L 178 |

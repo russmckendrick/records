@@ -63,9 +63,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 What comes next for Johnny Marr? The celebrated English musician is one of the best-known guitar players in modern history, from The Smiths to contemporary work with Hans Zimmer and even Modest Mouse. On his fourth solo album and first in four years, Marr threads the needle through his exhaustive exploration of genre. “Spirit Power and Soul” is soulful electro in the vein of The Cure—night and day from the spacey spoken-word interlude “Rubicon”, or the album’s frequent psychedelic detouring (Primal Scream’s Simone Marie plays bass on three of its tracks). His idiosyncratic, Smiths-ian riffs—those signature lead-rhythm guitar tones—abound (“Night and Day”, “God’s Gift”, the rollicking “Tenement Time”, which divides the first half of the double LP from the second.) Moody, expansive, filtered through a deep understanding of guitar-pop melody, the project asks its listeners to have an open and patient mind.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fever-dreams-pts-1-4/1588393496" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fever-dreams-pts-1-4/1588393496" >}}<br>
+
+
 ## Videos
 ### Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]
 {{< youtube id="-8NMZguzcx0" title="Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]" >}}<br>
@@ -84,8 +89,6 @@ What comes next for Johnny Marr? The celebrated English musician is one of the b
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | What comes next for Johnny Marr? The celebrated English musician is one of the best-known guitar players in modern history, from The Smiths to contemporary work with Hans Zimmer and even Modest Mouse. On his fourth solo album and first in four years, Marr threads the needle through his exhaustive exploration of genre. “Spirit Power and Soul” is soulful electro in the vein of The Cure—night and day from the spacey spoken-word interlude “Rubicon”, or the album’s frequent psychedelic detouring (Primal Scream’s Simone Marie plays bass on three of its tracks). His idiosyncratic, Smiths-ian riffs—those signature lead-rhythm guitar tones—abound (“Night and Day”, “God’s Gift”, the rollicking “Tenement Time”, which divides the first half of the double LP from the second.) Moody, expansive, filtered through a deep understanding of guitar-pop melody, the project asks its listeners to have an open and patient mind. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Turquoise) |
 | Label          | BMG |
 | Catalog Number | NVLP005T |

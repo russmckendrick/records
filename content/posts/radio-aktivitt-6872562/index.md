@@ -50,9 +50,12 @@ styles: ["Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radio-activity-remastered/700049905" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radio-activity-remastered/700049905" >}}<br>
+
+
 
 
 ## Release Images
@@ -61,7 +64,6 @@ styles: ["Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99587 1 7 |

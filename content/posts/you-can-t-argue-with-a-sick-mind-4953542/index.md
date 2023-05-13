@@ -29,9 +29,12 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/you-cant-argue-with-a-sick-mind/1422950082" >}}
+{{< applemusic url="https://music.apple.com/gb/album/you-cant-argue-with-a-sick-mind/1422950082" >}}<br>
+
+
 ## Videos
 ### Joe Walsh and Friends (1975)
 {{< youtube id="Ip82v3MAYyA" title="Joe Walsh and Friends (1975)" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | MCA Records |
 | Catalog Number | MCL-1613 |

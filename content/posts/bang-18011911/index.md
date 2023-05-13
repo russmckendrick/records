@@ -40,9 +40,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Bang! is the third studio album by Welsh-British group World Party, released by Ensign Records on 20 April 1993.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/top-summer-latin-house-2019-brazil-vibes-dance-party-mix/1465197024" >}}
+{{< applemusic url="https://music.apple.com/gb/album/top-summer-latin-house-2019-brazil-vibes-dance-party-mix/1465197024" >}}<br>
+
+
 ## Videos
 ### World Party - Let the Kindom Come
 {{< youtube id="YHxPgl8YFmk" title="World Party - Let the Kindom Come" >}}<br>
@@ -67,8 +72,6 @@ Bang! is the third studio album by Welsh-British group World Party, released by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bang!_(World_Party_album) |
-| Wikipedia Summary | Bang! is the third studio album by Welsh-British group World Party, released by Ensign Records on 20 April 1993. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Misprint Reissue |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 3LP |

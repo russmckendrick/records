@@ -44,9 +44,13 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="3ZoWd2dvTef0tPQ7S3V5c0" width="100%" height="500" >}}
+{{< spotify type="album" id="3ZoWd2dvTef0tPQ7S3V5c0" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Wu-Tang Clan - Don't Stop (Explicit) 2017
 {{< youtube id="AohtHrfgiBo" title="Wu-Tang Clan - Don't Stop (Explicit) 2017" >}}<br>
@@ -69,7 +73,6 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Compilation (Red Translucent) |
 | Label          | HBO |
 | Catalog Number | MSAP 0043LP |

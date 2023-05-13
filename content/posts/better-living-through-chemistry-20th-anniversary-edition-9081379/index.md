@@ -39,9 +39,12 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1143639792" >}}
+{{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1143639792" >}}<br>
+
+
 ## Videos
 ### FatBoy Slim - First down
 {{< youtube id="2FChxWapTP0" title="FatBoy Slim - First down" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue (Yellow) |
 | Label          | Skint |
 | Catalog Number | BRASSIC2LPS |

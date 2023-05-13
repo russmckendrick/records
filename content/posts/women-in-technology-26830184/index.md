@@ -41,9 +41,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/women-in-technology/696586755" >}}
+{{< applemusic url="https://music.apple.com/gb/album/women-in-technology/696586755" >}}<br>
+
+
 ## Videos
 ### White Town - Your Woman (Official HD Video)
 {{< youtube id="lVL-zZnD3VU" title="White Town - Your Woman (Official HD Video)" >}}<br>
@@ -64,8 +69,6 @@ Women in Technology is the second studio album by British recording artist White
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Women_in_Technology_(album) |
-| Wikipedia Summary | Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio. |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (White, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3224 |

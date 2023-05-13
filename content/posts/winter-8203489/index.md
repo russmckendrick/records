@@ -43,9 +43,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/winter/1068112932" >}}
+{{< applemusic url="https://music.apple.com/gb/album/winter/1068112932" >}}<br>
+
+
 ## Videos
 ### OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)
 {{< youtube id="QxzqnetYSbk" title="OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | Century Media |
 | Catalog Number | 88875193851 |

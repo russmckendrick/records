@@ -29,9 +29,12 @@ styles: ["Prog Rock", "Space Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/swell-digital/1571562583" >}}
+{{< applemusic url="https://music.apple.com/gb/album/swell-digital/1571562583" >}}<br>
+
+
 ## Videos
 ### Swell
 {{< youtube id="cRsXd_cxPv0" title="Swell" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Prog Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (FX) |
 | Label          | Rockosmos |
 | Catalog Number | ROK151 |

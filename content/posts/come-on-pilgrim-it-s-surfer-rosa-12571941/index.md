@@ -80,7 +80,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -89,7 +92,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Mini-Album Reissue (Gold), Vinyl LP Album Reissue (Gold), Vinyl LP (Gold), All Media Compilation (30th Anniversary) |
 | Label          | 4AD |
 | Catalog Number | 4AD0084LP |

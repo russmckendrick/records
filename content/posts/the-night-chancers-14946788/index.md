@@ -40,9 +40,14 @@ styles: ["Alternative Rock", "Indie Pop"]
 <!-- section break -->
 
 The Night Chancers is the sixth studio album by English musician Baxter Dury. It was released on 20 March 2020 under [PIAS] France LE LABEL for the world and under Heavenly Recordings for the UK, Ireland and USA.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-night-chancers/1487696844" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-night-chancers/1487696844" >}}<br>
+
+
 ## Videos
 ### Baxter Dury - Slumlord (Official Music Video)
 {{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord (Official Music Video)" >}}<br>
@@ -65,8 +70,6 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Night_Chancers |
-| Wikipedia Summary | The Night Chancers is the sixth studio album by English musician Baxter Dury. It was released on 20 March 2020 under [PIAS] France LE LABEL for the world and under Heavenly Recordings for the UK, Ireland and USA. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear, Heavyweight) |
 | Label          | [PIAS] Le Label |
 | Catalog Number | PIASLL141LPC |

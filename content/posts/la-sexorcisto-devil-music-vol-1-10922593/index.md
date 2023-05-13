@@ -44,9 +44,12 @@ styles: ["Heavy Metal", "Groove Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/la-sexorcisto-devil-music-volume-1/1440905956" >}}
+{{< applemusic url="https://music.apple.com/gb/album/la-sexorcisto-devil-music-volume-1/1440905956" >}}<br>
+
+
 ## Videos
 ### White Zombie - Welcome To Planet M.F.
 {{< youtube id="H8gHMU-pDbU" title="White Zombie - Welcome To Planet M.F." >}}<br>
@@ -74,7 +77,6 @@ styles: ["Heavy Metal", "Groove Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Purple, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP534 |

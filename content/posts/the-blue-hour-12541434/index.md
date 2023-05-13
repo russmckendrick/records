@@ -49,9 +49,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 The Blue Hour is the eighth studio album by English alternative rock band Suede. The album was released on 21 September 2018.It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-blue-hour/1372130297" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-blue-hour/1372130297" >}}<br>
+
+
 ## Videos
 ### SUEDE - THE INVISIBLES
 {{< youtube id="Gqzvcj0-kF4" title="SUEDE - THE INVISIBLES" >}}<br>
@@ -66,8 +71,6 @@ The Blue Hour is the eighth studio album by English alternative rock band Suede.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Blue_Hour_(album) |
-| Wikipedia Summary | The Blue Hour is the eighth studio album by English alternative rock band Suede. The album was released on 21 September 2018.It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Warner Music UK |
 | Catalog Number | WEA 503 |

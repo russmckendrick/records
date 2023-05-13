@@ -38,9 +38,14 @@ styles: ["Prog Rock", "Hard Rock"]
 
 Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984 on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided to not work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.
 Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 10 on the U.S. Billboard 200.  It was certified platinum in the U.S. for selling one million copies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grace-under-pressure-remastered/1440801137" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grace-under-pressure-remastered/1440801137" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,8 +55,6 @@ Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grace_Under_Pressure_(Rush_album) |
-| Wikipedia Summary | Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984 on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided to not work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.<br>Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 10 on the U.S. Billboard 200.  It was certified platinum in the U.S. for selling one million copies. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118271 |

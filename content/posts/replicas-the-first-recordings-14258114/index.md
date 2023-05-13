@@ -53,9 +53,12 @@ styles: ["New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}
+{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>
+
+
 ## Videos
 ### You Are in My Vision (Early Version)
 {{< youtube id="syXXDdt2FuQ" title="You Are in My Vision (Early Version)" >}}<br>
@@ -87,7 +90,6 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Compilation Stereo (Sage Green) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2159LP |

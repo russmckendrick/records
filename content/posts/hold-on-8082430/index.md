@@ -41,9 +41,14 @@ styles: ["Rhythm & Blues"]
 <!-- section break -->
 
 With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still be utterly vital and vibrant. The Brit sings—and writes—like Sam Cooke’s natural-born heir, but he brings his own tricks to the table too, whether delivering a sharp retort to spiritual dogma atop the funky feel of “Free Your Mind (While You Still Got Time),” slipping in a subtle ska undercurrent on the easy-rolling “This Is Where We Came In,” or unleashing his bluesy guitar skills on the instrumental “Satchelfoot.”
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hold-on/1485062879" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hold-on/1485062879" >}}<br>
+
+
 ## Videos
 ### The James Hunter 6 'If That Don't Tell You' | Live Studio Session
 {{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 'If That Don't Tell You' | Live Studio Session" >}}<br>
@@ -65,8 +70,6 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still be utterly vital and vibrant. The Brit sings—and writes—like Sam Cooke’s natural-born heir, but he brings his own tricks to the table too, whether delivering a sharp retort to spiritual dogma atop the funky feel of “Free Your Mind (While You Still Got Time),” slipping in a subtle ska undercurrent on the easy-rolling “This Is Where We Came In,” or unleashing his bluesy guitar skills on the instrumental “Satchelfoot.” |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-040 |

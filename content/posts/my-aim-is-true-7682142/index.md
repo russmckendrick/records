@@ -44,9 +44,15 @@ My Aim Is True is the debut studio album by the English singer-songwriter Elvis 
 Musically, My Aim Is True is influenced by a wide variety of genres, from punk, new wave and British pub rock to elements of 1950s rock and roll, R&B and rockabilly. The more downbeat lyrics are motivated by revenge and guilt, reflecting topics from relationship struggles to politically charged situations and misogynistic characters. The original monochrome cover art, showing Costello in a pigeon-toed stance, was later colourised for reissues.
 The album was preceded by three singles, all of which failed to chart. By June 1977, Costello formed a new permanent backing band, the Attractions, to better match his new image and commenced live performances with them for the rest of the year. In August, My Aim Is True reached number 14 in the UK. The American version, released in November 1977 through Columbia Records, added Costello's newest single "Watching the Detectives". By then the biggest-selling import album in US history, it reached number 32.
 On release, My Aim Is True was met with critical acclaim, with many praising Costello's musicianship and songwriting; it appeared on several year-end lists. In later decades, commentators consider it one of Costello's finest works, one of the best debut albums in music history and has appeared on numerous best-of lists. The album was reissued in 1993 and 2001, both of which featured extensive liner notes written by Costello, and in 2007 as a deluxe edition.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/my-aim-is-true/1440840988" >}}
+{{< applemusic url="https://music.apple.com/gb/album/my-aim-is-true/1440840988" >}}<br>
+
+
 ## Videos
 ### Welcome To The Working Week
 {{< youtube id="FJTIIfhk2k4" title="Welcome To The Working Week" >}}<br>
@@ -71,8 +77,6 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Aim_Is_True |
-| Apple Music Summary | Elvis Costello’s 1977 debut album is a literate, poppy-punk masterpiece, and then some. Yes, it tears through angry, pointed material—from sneering looks at the daily grind (“Welcome to the Working Week”) to mocking impossible standards of others (“Miracle Man”). It also mellows on a signature ballad that’s tough and tender (“Alison”), and the delectably spare and weirdly noir-ish “Watching the Detectives” is a mark of songwriting genius. While Costello’s lyrics cut like killer short stories, his musical knowledge is only partly displayed here, which makes the melodic brilliance even more remarkable.   |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | UMe |
 | Catalog Number | 0602547331144 |

@@ -43,9 +43,14 @@ Runaway Horses is the third solo studio album by American singer Belinda Carlisl
 The album peaked at number 37 on the US Billboard 200, a considerable fall in sales from Carlisle's 1987 album, Heaven on Earth, but reached number four in the United Kingdom, where it was certified Platinum.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/runaway-horses/685170199" >}}
+{{< applemusic url="https://music.apple.com/gb/album/runaway-horses/685170199" >}}<br>
+
+
 ## Videos
 ### Leave A Light On
 {{< youtube id="J7DOyqNtmgM" title="Leave A Light On" >}}<br>
@@ -70,8 +75,6 @@ The album peaked at number 37 on the US Billboard 200, a considerable fall in sa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Runaway_Horses_(album) |
-| Wikipedia Summary | Runaway Horses is the third solo studio album by American singer Belinda Carlisle, released on October 3, 1989, by MCA Records. The album features songs written by Rick Nowels, Ellen Shipley, Charlotte Caffey and a song co-written by Carlisle herself. The album contains an array of guest artists, including George Harrison and Bryan Adams.<br>The album peaked at number 37 on the US Billboard 200, a considerable fall in sales from Carlisle's 1987 album, Heaven on Earth, but reached number four in the United Kingdom, where it was certified Platinum.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Green Translucent) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC307 |

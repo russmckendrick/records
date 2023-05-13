@@ -45,9 +45,15 @@ Music for the Masses is the sixth studio album by English electronic music band 
 Considered one of the band's best albums, Music for the Masses was included in the book 1001 Albums You Must Hear Before You Die.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses-deluxe/1174246735" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses-deluxe/1174246735" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +63,6 @@ Considered one of the band's best albums, Music for the Masses was included in t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_the_Masses |
-| Apple Music Summary | <i>Music for the Masses</i> was meant to be an ironic title, but there’s a tangible increase in grandeur in these songs. Opener “Never Let Me Down Again” anticipates the stadiums they’d soon be playing by welcoming in guitars and Led Zeppelin-sampling beats. “Nothing” and “Behind the Wheel” offer similarly widescreen synth-pop, but it’s not all swinging for the arena rafters: “Little 15” almost tips into chamber music and “The Things You Said” is one of Martin Gore’s most graceful and haunted ballads. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP942 |

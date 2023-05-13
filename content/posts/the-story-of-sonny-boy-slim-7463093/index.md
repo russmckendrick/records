@@ -53,9 +53,15 @@ The album's title was created by blending his two childhood nicknames. Sonny Boy
 It reached number one on the Billboard Top Blues Albums chart in October that year.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426" >}}<br>
+
+
 ## Videos
 ### Gary Clark Jr. - Wings
 {{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr. - Wings" >}}<br>
@@ -74,8 +80,6 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Story_of_Sonny_Boy_Slim |
-| Apple Music Summary | There's no question that Texas-based singer/guitarist Gary Clark Jr. can shred with the best of them. But on his second major-label full-length, it's his restraint that's his trump card. He gently dabs the minimalist blues-rocker "The Healing" with little more than a B.B. King-style riff and a poker-hot vocal, keeping the song gorgeously unfussy. Just as expressive is the stomping "Grinder", which features a literally screaming guitar lick that mimics the line it follows: "My baby's crying/So now my baby's crying”. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album, Vinyl LP Single Sided Album Etched |
 | Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |

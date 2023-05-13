@@ -62,9 +62,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>
+
+
 ## Videos
 ### Pure Reason Revolution - The Twyncyn / Trembilin Willows
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
@@ -93,7 +96,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album (Yellow), CD 2× Album, All Media Limited Edition Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | 19439793441 |

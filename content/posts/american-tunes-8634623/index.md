@@ -48,9 +48,15 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 American Tunes  is the final recording from New Orleans jazz and R&B pianist Allen Toussaint, released on Nonesuch Records on June 10, 2016. It was produced by Joe Henry and includes music from a 2013 solo session at the pianist's home studio in New Orleans and an October 2015 session featuring musicians Bill Frisell, Charles Lloyd, Greg Leisz, Jay Bellerose, and David Piltch, with special guest vocalist Rhiannon Giddens and pianist Van Dyke Parks, recorded in Los Angeles the month before Toussaint died.The album title is taken from the 1973 Paul Simon song "American Tune," which Toussaint performs on the album. Also included are songs written or recorded by Toussaint, Professor Longhair (Henry Roeland Byrd), Duke Ellington, Bill Evans, and Fats Waller.Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert to celebrate the 30th anniversary of New Orleans Artists Against Hunger and Homelessness, an organization Toussaint co-founded, on December 8, 2015; instead, Simon played the concert without Toussaint in tribute to the late musician. "Allen Toussaint brought New Orleans to the world," Simon has said, "and he left before he could bless us with the complete genius of his music."
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/american-tunes/1100493803" >}}
+{{< applemusic url="https://music.apple.com/gb/album/american-tunes/1100493803" >}}<br>
+
+
 ## Videos
 ### Allen Toussaint - Big Chief [Official Audio]
 {{< youtube id="NKhE8YNU4cQ" title="Allen Toussaint - Big Chief [Official Audio]" >}}<br>
@@ -79,8 +85,6 @@ American Tunes  is the final recording from New Orleans jazz and R&B pianist All
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Tunes |
-| Apple Music Summary | The patriarch of New Orleans R&B recorded one last session before he passed away in November 2015. <i>American Tunes</i> features solo piano recordings made at Touissant’s home studio as well as others made with guests like Jay Bellerose, Bill Frisell, Rhiannon Giddens, and Van Dyke Parks. He’s in fine form, too, lending his singular style to songs by Professor Longhair, Duke Ellington, Fats Waller, Paul Simon, and beautiful originals like  “Southern Nights.” |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Nonesuch |
 | Catalog Number | 554656-1 |

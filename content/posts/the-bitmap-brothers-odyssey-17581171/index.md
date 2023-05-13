@@ -42,7 +42,10 @@ styles: ["Video Game Music"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Video Game Music"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Compilation (Transparent) |
 | Label          | Read-Only-Memory Ltd. |
 | Catalog Number | ROM17 |

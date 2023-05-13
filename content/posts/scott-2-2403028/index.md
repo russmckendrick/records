@@ -39,9 +39,12 @@ styles: ["Vocal", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scott-2/1442979621" >}}
+{{< applemusic url="https://music.apple.com/gb/album/scott-2/1442979621" >}}<br>
+
+
 ## Videos
 ### Scott Walker - The Amorous Humphrey Plugg
 {{< youtube id="JFXuMljSY7g" title="Scott Walker - The Amorous Humphrey Plugg" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Vocal", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1968                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Philips |
 | Catalog Number | SBL7840 |

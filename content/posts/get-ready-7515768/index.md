@@ -43,9 +43,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Twenty years after <i>Movement</i>, New Order marched into the 21st century with renewal on their minds once again. It had been eight years since <i>Republic</i>, an album fraught with turmoil, but they sound reinvigorated on the optimistic "Turn My Way" and the lean "Vicious Streak". Dark and driving, "Primitive Notion" wouldn't have been out of place on <i>Brotherhood</i>, but subtle electronic touches on songs like "Slow Jam" and "Someone Like You" prove that they're too interested in the future to get hung up on the past.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/get-ready/36400877" >}}
+{{< applemusic url="https://music.apple.com/gb/album/get-ready/36400877" >}}<br>
+
+
 ## Videos
 ### New Order - Crystal (Official Music Video)
 {{< youtube id="KVMyXDsadLQ" title="New Order - Crystal (Official Music Video)" >}}<br>
@@ -60,8 +66,6 @@ Twenty years after <i>Movement</i>, New Order marched into the 21st century with
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Get_Ready_(New_Order_album) |
-| Wikipedia Summary | Get Ready is the seventh studio album by English rock band New Order. It was released on 27 August 2001 in the United Kingdom by London Records and on 16 October 2001 in the United States by Reprise Records. It was the band's first studio album in eight years, following 1993's Republic, and was their last to feature the original lineup. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0825646071043 |

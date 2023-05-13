@@ -27,7 +27,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -36,7 +39,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Limited Edition Unofficial Release (Gold) |
 | Label          | Coda Publishing |
 | Catalog Number | CPLVNYG224 |

@@ -66,9 +66,13 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}
+{{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Alice In Chains - Would? (Official HD Video)
 {{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}<br>
@@ -96,7 +100,6 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Reissue (Gatefold Sleeve), CD, All Media Compilation Deluxe Edition (25th Anniversary Edition) |
 | Label          | Epic Soundtrax |
 | Catalog Number | 88985315511 |

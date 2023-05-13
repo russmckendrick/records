@@ -41,9 +41,12 @@ styles: ["Krautrock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/inform-educate-entertain/609540071" >}}
+{{< applemusic url="https://music.apple.com/gb/album/inform-educate-entertain/609540071" >}}<br>
+
+
 ## Videos
 ### Public Service Broadcasting - Inform/Educate/Entertain
 {{< youtube id="5u8r7hbmLFc" title="Public Service Broadcasting - Inform/Educate/Entertain" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Krautrock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVA01 |

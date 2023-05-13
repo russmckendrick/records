@@ -33,9 +33,12 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-utopia-strong/1466902269" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-utopia-strong/1466902269" >}}<br>
+
+
 ## Videos
 ### The Utopia Strong - Brainsurgeons 3 (Track Video)
 {{< youtube id="gG02P9j406I" title="The Utopia Strong - Brainsurgeons 3 (Track Video)" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange "Fireball Orange") |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH172 |

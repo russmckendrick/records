@@ -43,9 +43,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | I.R.S. Records |
 | Catalog Number | MIRH 1 |

@@ -54,9 +54,14 @@ styles: ["Rhythm & Blues", "Soul"]
 
 Durand Jones & The Indications’ 2016 self-titled debut started out as the work of a few friends in a Bloomington, Indiana, basement with a four-track recorder, an <i>American Idol</i> karaoke microphone and a budget somewhere in the neighbourhood of $450, beer included. That the album—gritty, but beautiful and laidback—caught on is a testament to both the endurance of classic soul and the appetites of modern audiences for something that doesn’t need to work so hard to reach out and grab you by the throat.<br />
 Recorded in a proper studio with the subtle aid of strings and horns, <i>American Love Call</i> only strengthens the band’s case, channelling the sturdy, mellow sound of ’70s vocal groups like The Chi-Lites and The Delfonics (“Don’t You Know”, “Court of Love”) and weaving in subtle references to modern life both lyrical (“Morning in America”) and sonic (the synthesiser flourishes on “Circles”). And while the album is retro at heart, it fits surprisingly well in a contemporary landscape, questing for chill while still offering plenty of detail to sink into.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/american-love-call/1443601998" >}}
+{{< applemusic url="https://music.apple.com/gb/album/american-love-call/1443601998" >}}<br>
+
+
 ## Videos
 ### Durand Jones & The Indications - Morning in America
 {{< youtube id="b1V_1TPDVxc" title="Durand Jones & The Indications - Morning in America" >}}<br>
@@ -79,8 +84,6 @@ Recorded in a proper studio with the subtle aid of strings and horns, <i>America
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Durand Jones & The Indications’ 2016 self-titled debut started out as the work of a few friends in a Bloomington, Indiana, basement with a four-track recorder, an <i>American Idol</i> karaoke microphone and a budget somewhere in the neighbourhood of $450, beer included. That the album—gritty, but beautiful and laidback—caught on is a testament to both the endurance of classic soul and the appetites of modern audiences for something that doesn’t need to work so hard to reach out and grab you by the throat.<br /><br>Recorded in a proper studio with the subtle aid of strings and horns, <i>American Love Call</i> only strengthens the band’s case, channelling the sturdy, mellow sound of ’70s vocal groups like The Chi-Lites and The Delfonics (“Don’t You Know”, “Court of Love”) and weaving in subtle references to modern life both lyrical (“Morning in America”) and sonic (the synthesiser flourishes on “Circles”). And while the album is retro at heart, it fits surprisingly well in a contemporary landscape, questing for chill while still offering plenty of detail to sink into. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Purple Translucent), CD EP |
 | Label          | Dead Oceans |
 | Catalog Number | DOC 177 |

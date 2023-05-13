@@ -66,9 +66,15 @@ You don’t always know when you’ve made a masterpiece. In April 1979, Joy Div
 “We all wanted to do something that was a bit like ‘The Murder Mystery’ on the third Velvet Underground album. Two lots of vocals going on; one's on one side and one's on the other side of the stereo. Ian wrote two lots of lyrics for it. He's singing one and Hooky's singing the other. In the end, when Ian's epilepsy became really bad, ‘Interzone’ became the song that we had to do because Ian couldn't sing anymore, Hooky could sing it.”<br />
 <b>“I Remember Nothing”</b>
 “This was probably the biggest step that we took on our own into technology. Bernard had brought the Transcendent kit synthesiser, which he made himself, and Rob and Ian had this idea that we should do this jam—unimaginatively called ‘The Synthesiser One’—at the end of the [live] set. It’s a brooding thing, it's malevolence in a tune. It was the beginning of Ian turning into a singer/guitarist, because when we did it live, Bernard would have to play the synth. Ian wouldn't go near the synth: He was frightened he’d break it.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/unknown-pleasures-collectors-edition/266603040" >}}
+{{< applemusic url="https://music.apple.com/gb/album/unknown-pleasures-collectors-edition/266603040" >}}<br>
+
+
 ## Videos
 ### Disorder (2007 Remaster)
 {{< youtube id="5BIElTtN6Fs" title="Disorder (2007 Remaster)" >}}<br>
@@ -91,8 +97,6 @@ You don’t always know when you’ve made a masterpiece. In April 1979, Joy Div
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Unknown_Pleasures |
-| Wikipedia Summary | Unknown Pleasures is the debut studio album by English rock band Joy Division, released on 15 June 1979 by Factory Records. The album was recorded and mixed over three successive weekends at Stockport's Strawberry Studios in April 1979, with producer Martin Hannett contributing a number of unconventional recording techniques to the group's sound. The cover artwork was designed by artist Peter Saville, using a data plot of signals from a radio pulsar. It is the only Joy Division album released during lead singer Ian Curtis's lifetime.<br>Factory Records did not release any singles from Unknown Pleasures, and the album did not chart despite the relative success of the group's non-album debut single "Transmission". It has since received sustained critical acclaim as an influential post-punk album, and has been named as one of the best albums of all time by publications such as NME, AllMusic, Select, Rolling Stone, and Spin. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red [Ruby Red], 180g) |
 | Label          | Factory |
 | Catalog Number | FACT 10 40 |

@@ -36,9 +36,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gods-favorite-customer/1359220140" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gods-favorite-customer/1359220140" >}}<br>
+
+
 ## Videos
 ### Father John Misty - God's Favorite Customer [Official Music Video]
 {{< youtube id="sNG4g354P3w" title="Father John Misty - God's Favorite Customer [Official Music Video]" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Alternative Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange Neon) |
 | Label          | Bella Union |
 | Catalog Number | BELLA770RT |

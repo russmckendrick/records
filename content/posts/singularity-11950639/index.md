@@ -42,9 +42,15 @@ styles: ["Tech House", "Electro", "Experimental"]
 <!-- section break -->
 
 Building on his background as a classical pianist and composer, Surrey producer Jon Hopkins uses vast electronic soundscapes to explore other worlds. Here, on his fifth album, he contemplates our own. Inspired by adventures with meditation and psychedelics, <i>Singularity</i> aims to evoke the magical awe of heightened consciousness. It’s a theme that could easily feel affected or clichéd, but Hopkins does it phenomenal justice with imaginative, mind-bending songs that feel both spontaneous and rigorously structured. Floating from industrial, polyrhythmic techno (“Emerald Rush") to celestial, ambient atmospheres (“Feel First Life”), it’s a transcendent headphone vision quest you’ll want to go on again.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/singularity/1349736537" >}}
+{{< applemusic url="https://music.apple.com/gb/album/singularity/1349736537" >}}<br>
+
+
 ## Videos
 ### Jon Hopkins - Emerald Rush (Official Video)
 {{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}<br>
@@ -68,8 +74,6 @@ Building on his background as a classical pianist and composer, Surrey producer 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Singularity_(Jon_Hopkins_album) |
-| Wikipedia Summary | Singularity is the fifth studio album by English electronic musician and producer Jon Hopkins, released on 4 May 2018 through Domino Records.<br>It was announced on 6 March 2018, with the release of the first single, "Emerald Rush". The second single, "Everything Connected", was released on 25 April, while the third, "Singularity", was released on 4 May, along with the album.<br>The album follows Hopkins's companion previous album, Immunity. It was released to critical acclaim and was nominated at the 2019 Grammy Awards for Best Dance/Electronic Album. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Domino |
 | Catalog Number | WIGLP352 |

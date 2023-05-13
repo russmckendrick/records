@@ -61,9 +61,12 @@ styles: ["Hard Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hemispheres-40th-anniversary/1437585347" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hemispheres-40th-anniversary/1437585347" >}}<br>
+
+
 
 
 ## Release Images
@@ -72,7 +75,6 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 2× LP, All Media (Slipcase) |
 | Label          | Anthem (5) |
 | Catalog Number | B0029021-01 |

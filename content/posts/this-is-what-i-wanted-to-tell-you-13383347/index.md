@@ -33,9 +33,14 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 <!-- section break -->
 
 This (Is What I Wanted to Tell You) is the thirteenth studio album by American band Lambchop, released on March 22, 2019. The album appeared 50th on the Mojo magazine's albums of the year list.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-is-what-i-wanted-to-tell-you/1442193707" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-is-what-i-wanted-to-tell-you/1442193707" >}}<br>
+
+
 ## Videos
 ### Lambchop - Everything For You (Official Video)
 {{< youtube id="u8NxdNERUGc" title="Lambchop - Everything For You (Official Video)" >}}<br>
@@ -50,8 +55,6 @@ This (Is What I Wanted to Tell You) is the thirteenth studio album by American b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_(Is_What_I_Wanted_to_Tell_You) |
-| Wikipedia Summary | This (Is What I Wanted to Tell You) is the thirteenth studio album by American band Lambchop, released on March 22, 2019. The album appeared 50th on the Mojo magazine's albums of the year list. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | City Slang |
 | Catalog Number | SLANG50197LP |

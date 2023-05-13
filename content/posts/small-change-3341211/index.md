@@ -41,9 +41,14 @@ styles: []
 <!-- section break -->
 
 Small Change is the fourth studio album by singer and songwriter Tom Waits, released on September 21, 1976 on Asylum Records. It was recorded in July at Wally Heider's Studio 3 in Hollywood. It was successful commercially and outsold his previous albums. This resulted in Waits putting together a touring band - The Nocturnal Emissions, which consisted of Frank Vicari on tenor saxophone, FitzGerald Jenkins on bass guitar and Chip White on drums and vibraphone. The Nocturnal Emissions toured Europe and the United States extensively from October 1976 till May 1977.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/small-change-remastered/1485074801" >}}
+{{< applemusic url="https://music.apple.com/gb/album/small-change-remastered/1485074801" >}}<br>
+
+
 ## Videos
 ### Tom Waits - Small Change (Got Rained On With His Own .38)
 {{< youtube id="vvGW4A_EI24" title="Tom Waits - Small Change (Got Rained On With His Own .38)" >}}<br>
@@ -61,8 +66,6 @@ Small Change is the fourth studio album by singer and songwriter Tom Waits, rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Small_Change_(Tom_Waits_album) |
-| Wikipedia Summary | Small Change is the fourth studio album by singer and songwriter Tom Waits, released on September 21, 1976 on Asylum Records. It was recorded in July at Wally Heider's Studio 3 in Hollywood. It was successful commercially and outsold his previous albums. This resulted in Waits putting together a touring band - The Nocturnal Emissions, which consisted of Frank Vicari on tenor saxophone, FitzGerald Jenkins on bass guitar and Chip White on drums and vibraphone. The Nocturnal Emissions toured Europe and the United States extensively from October 1976 till May 1977. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 8122 79806 9 |

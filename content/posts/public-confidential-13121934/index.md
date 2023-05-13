@@ -39,9 +39,12 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/public-confidential/1442800503" >}}
+{{< applemusic url="https://music.apple.com/gb/album/public-confidential/1442800503" >}}<br>
+
+
 ## Videos
 ### Maniac - The Beat feat Ranking Roger
 {{< youtube id="kKWUHAGSHvM" title="Maniac - The Beat feat Ranking Roger" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (White Black) |
 | Label          | DMF Records (3) |
 | Catalog Number | DMF 129LP |

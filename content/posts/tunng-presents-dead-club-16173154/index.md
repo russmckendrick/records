@@ -36,9 +36,12 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tunng-presents-dead-club/1662910624" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tunng-presents-dead-club/1662910624" >}}<br>
+
+
 ## Videos
 ### tunng - A Million Colours [Official Video]
 {{< youtube id="voFaQHAgdhw" title="tunng - A Million Colours [Official Video]" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Magenta) |
 | Label          | Full Time Hobby |
 | Catalog Number | FTH390LPB |

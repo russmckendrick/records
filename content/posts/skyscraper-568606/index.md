@@ -39,9 +39,14 @@ styles: ["Hard Rock", "Pop Rock"]
 <!-- section break -->
 
 Skyscraper is the second full-length studio album by David Lee Roth, released during his solo career after his departure as the original lead vocalist from Van Halen. It was released on January 26, 1988, on Warner Bros. Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/skyscraper/302138810" >}}
+{{< applemusic url="https://music.apple.com/gb/album/skyscraper/302138810" >}}<br>
+
+
 ## Videos
 ### David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p
 {{< youtube id="PUBARAhO9EY" title="David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p" >}}<br>
@@ -82,8 +87,6 @@ Skyscraper is the second full-length studio album by David Lee Roth, released du
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Skyscraper_(album) |
-| Wikipedia Summary | Skyscraper is the second full-length studio album by David Lee Roth, released during his solo career after his departure as the original lead vocalist from Van Halen. It was released on January 26, 1988, on Warner Bros. Records. |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 925 671-1 |

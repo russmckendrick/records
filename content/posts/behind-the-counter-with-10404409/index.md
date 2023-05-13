@@ -77,7 +77,10 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Zoetrope
 {{< youtube id="JV-spttHBcg" title="Zoetrope" >}}<br>
@@ -103,7 +106,6 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Compilation (Transparent Green Vinyl), Vinyl 7" 45 RPM (Black Vinyl), CD Compilation Promo |
 | Label          | Rough Trade |
 | Catalog Number | rtbtc1lpx |

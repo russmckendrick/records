@@ -36,9 +36,13 @@ styles: ["Soundtrack", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}
+{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### The Lost Boys (Original Soundtrack)
 {{< youtube id="raI38f_xMZE" title="The Lost Boys (Original Soundtrack)" >}}<br>
@@ -69,7 +73,6 @@ styles: ["Soundtrack", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Atlantic |
 | Catalog Number | 781 767-1 |

@@ -39,9 +39,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/half-the-city/1533050536" >}}
+{{< applemusic url="https://music.apple.com/gb/album/half-the-city/1533050536" >}}<br>
+
+
 ## Videos
 ### St. Paul and the Broken Bones - Half the City
 {{< youtube id="5GdkM1r5jhs" title="St. Paul and the Broken Bones - Half the City" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Single Lock Records |
 | Catalog Number | SL 003 |

@@ -43,9 +43,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-2-scratch-remastered/986702307" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-2-scratch-remastered/986702307" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 grams) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR2 |

@@ -42,9 +42,12 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/preternatural-bonus-track-version/1094302086" >}}
+{{< applemusic url="https://music.apple.com/gb/album/preternatural-bonus-track-version/1094302086" >}}<br>
+
+
 ## Videos
 ### Moulettes - Preternatural (Full Album)
 {{< youtube id="BWZCrvQNps0" title="Moulettes - Preternatural (Full Album)" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | C.R.A.F.T Pop Records |
 | Catalog Number | CRAFTPOP1 |

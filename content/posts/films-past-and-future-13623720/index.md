@@ -45,7 +45,10 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Films: Past and Future  Rob Dougan  (Walkthrough)
 {{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Label Rob |
 | Catalog Number | none |

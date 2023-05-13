@@ -58,9 +58,14 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 
 Ooh Las Vegas is a compilation album by the Scottish rock band Deacon Blue. It contains B-sides, unreleased tracks, and songs written for William McIlvanney's television play Dreaming.
 The Japanese release also included the four tracks from the Four Bacharach & David Songs EP.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ooh-las-vegas-b-sides-film-tracks-sessions/300117724" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ooh-las-vegas-b-sides-film-tracks-sessions/300117724" >}}<br>
+
+
 ## Videos
 ### Deacon Blue - Disneyworld
 {{< youtube id="YuMRvCvBJm0" title="Deacon Blue - Disneyworld" >}}<br>
@@ -82,8 +87,6 @@ The Japanese release also included the four tracks from the Four Bacharach & Dav
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ooh_Las_Vegas |
-| Wikipedia Summary | Ooh Las Vegas is a compilation album by the Scottish rock band Deacon Blue. It contains B-sides, unreleased tracks, and songs written for William McIlvanney's television play Dreaming.<br>The Japanese release also included the four tracks from the Four Bacharach & David Songs EP. |
-| Release Year   | 1990                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | CBS |
 | Catalog Number | 467242 1 |

@@ -43,9 +43,15 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 
 If you missed Led Zeppelin the first time around and wondered what all the fuss was about, well, you’re in luck: A band of (mostly) brothers from Frankenmuth, Michigan, is here to carry the torch for blues-based howling, loud guitars, and tight pants as mass entertainment. “Rock ’n’ roll is a lost ideology,” bassist Sam Kiszka tells Apple Music in the group's <i>Up Next</i> interview. “It turned into a niche thing. You’ve got to hit the roots again.” That’s exactly what the band does on their debut album, which feels of another time.<br />
 Swirling together the techniques and textures of rock and blues greats—The Allman Brothers Band, Cream, B.B. King, Neil Young, Jimi Hendrix, and most recognizably Zep, among others—<i>Anthem of the Peaceful Army</i> delivers monstrous riffs (“When the Curtain Falls”), jangly strummers (“The New Day”), and earnest acoustic ballads (“Anthem”). The end result is a nostalgia rush for those who know the references and a thrilling point of entry for those who may not. It helps that frontman Josh Kiszka, born with an engine of a tenor, has perfectly mastered Robert Plant’s shrill yelps and yowls ("Watching Over”) and rock ’n’ roll attitude—which covers everything from wardrobe and stage presence to the album as a stand-alone experience in the streaming era. “We’d like people to listen to this all the way through,” Kiszka says. “And f**king loud.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/anthem-of-the-peaceful-army/1435351050" >}}
+{{< applemusic url="https://music.apple.com/gb/album/anthem-of-the-peaceful-army/1435351050" >}}<br>
+
+
 ## Videos
 ### Greta Van Fleet - When The Curtain Falls
 {{< youtube id="86_vnQc1oBE" title="Greta Van Fleet - When The Curtain Falls" >}}<br>
@@ -69,8 +75,6 @@ Swirling together the techniques and textures of rock and blues greats—The All
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Anthem_of_the_Peaceful_Army |
-| Wikipedia Summary | Anthem of the Peaceful Army is the debut studio album by American rock band Greta Van Fleet. The album was released on October 19, 2018, and follows the band's two EP releases, Black Smoke Rising and From the Fires. The first single, "When the Curtain Falls", was released in July 2018. A second single, "You're the One" was released around the time of the album's release.<br>The album was the top selling album in its debut week in the US, selling 87,000 copies. Factoring in album equivalent units, it debuted at number three on the Billboard 200. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Lava |
 | Catalog Number | 00602567949756 |

@@ -37,9 +37,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/science-fiction/1362743489" >}}
+{{< applemusic url="https://music.apple.com/gb/album/science-fiction/1362743489" >}}<br>
+
+
 ## Videos
 ### Science Fiction
 {{< youtube id="b5WJDSmv1iE" title="Science Fiction" >}}<br>
@@ -54,7 +57,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Clear/white blob) |
 | Label          | Kozmik Artifactz |
 | Catalog Number | ARTIFACT 45 |

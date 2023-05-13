@@ -50,9 +50,14 @@ Definitely Maybe was an immediate commercial and critical success in the United 
 The album helped to spur a revitalisation in British pop music in the 1990s, and was embraced by critics for its optimistic themes and rejection of the negative outlook of the grunge music of the time. The album is regarded as a seminal entry of the Britpop scene, and has appeared in many publications' lists of the greatest albums of all time. In 2006, the NME conducted a readers' poll in which Definitely Maybe was voted the greatest album of all time. In 2015, Spin included the album in their list of "The 300 Best Albums of 1985–2014". Rolling Stone ranked the album at No. 217 on its 2020 list of the 500 Greatest Albums of All Time.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/definitely-maybe/1517506402" >}}
+{{< applemusic url="https://music.apple.com/gb/album/definitely-maybe/1517506402" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +67,6 @@ The album helped to spur a revitalisation in British pop music in the 1990s, and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Definitely_Maybe |
-| Wikipedia Summary | Definitely Maybe is the debut studio album by English rock band Oasis, released by Creation Records on 29 August 1994. Oasis booked Monnow Valley Studio near Rockfield in late 1993 to record the album and worked with producer Dave Batchelor, whom band member Noel Gallagher knew from his days working as a roadie for the Inspiral Carpets, though sessions were unsatisfactory and Batchelor was subsequently fired. It is the only Oasis album to feature all five original members.<br>In January 1994, the group set about re-recording the album at Sawmills Studio in Cornwall, where sessions were produced by Noel alongside Mark Coyle. The results were still deemed unsatisfactory; in desperation, Creation's Marcus Russell contacted engineer and producer Owen Morris, who eventually worked on mastering the album at Johnny Marr's studio in Manchester.<br>Definitely Maybe was an immediate commercial and critical success in the United Kingdom, having followed on the heels of the singles "Supersonic", "Shakermaker", and the UK top-ten hit "Live Forever", which was also a success on US Rock Airplay. The album went on to sell over 8.5 million copies worldwide and brought widespread critical acclaim. It went straight to number one in the UK Albums Chart and became the fastest-selling debut album in the UK at the time; it went on to be certified 8× platinum by the BPI for sales of over 2.4 million units. It also was successful in the United States, being certified platinum.<br>The album helped to spur a revitalisation in British pop music in the 1990s, and was embraced by critics for its optimistic themes and rejection of the negative outlook of the grunge music of the time. The album is regarded as a seminal entry of the Britpop scene, and has appeared in many publications' lists of the greatest albums of all time. In 2006, the NME conducted a readers' poll in which Definitely Maybe was voted the greatest album of all time. In 2015, Spin included the album in their list of "The 300 Best Albums of 1985–2014". Rolling Stone ranked the album at No. 217 on its 2020 list of the 500 Greatest Albums of All Time.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Silver) |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP70C |

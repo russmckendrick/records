@@ -35,7 +35,10 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -44,7 +47,6 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA882V |

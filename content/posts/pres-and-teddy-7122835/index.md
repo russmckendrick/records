@@ -32,9 +32,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pres-teddy/1425259073" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pres-teddy/1425259073" >}}<br>
+
+
 ## Videos
 ### Lester Young & Teddy Wilson.   Pres and Teddy
 {{< youtube id="tDesCGeGLL4" title="Lester Young & Teddy Wilson.   Pres and Teddy" >}}<br>
@@ -54,7 +57,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Verve Records |
 | Catalog Number | 0600753520390 |

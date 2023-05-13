@@ -43,9 +43,15 @@ Commontime is the fifth studio album by the English rock band Field Music. It wa
 As with other Field Music works, Commontime features unique song structures, unconventional instrumentation, and unusual time signatures that occasionally shift mid-song. It also includes interweaving vocals and sophisticated harmonies, with more instances of the Brewis brothers singing together than past Field Music albums, as well as prominent use of strings and brass instruments. The album features a wider array of supporting musicians than on the band's previous works, including the band's original keyboardist Andrew Moore, Peter's wife Jennie Brewis on vocals, and backup singer Liz Corney from the band Cornshed Sisters.
 Commontime was the first album released by Field Music since David and Peter Brewis became fathers, and several of its songs are about parenthood and family, as well as the shift in responsibility and priorities imposed by children. Other songs are about coming to terms with ageing and middle age, and although Commontime is less overtly political than previous Field Music albums, the Brewis brothers said the album conveys a message that experiencing joy and fun despite difficult political times is in itself an act of political defiance.
 Recorded at Field Music's home studio in Sunderland, the music for Commontime was written and recorded in spontaneous bursts over six months. "The Noisy Days Are Over" is the first single from the album, followed by “Disappointed”. The musician Prince wrote about the first single on Twitter, which generated media attention for the album and band. Field Music undertook their first American tour since 2010 in support of Commontime, though the U.S. portion of the tour was shortened at the band's request due to the challenges from parenthood. The album became the first Field Music album to reach the Top 40 in the UK Albums Chart. Commontime received positive reviews, with an aggregated Metacritic rating of 79/100, and appeared on a handful of year-end lists of the best albums of 2016. Several reviewers compared Commontime to the work of such artists as David Bowie, Talking Heads, XTC, Hot Chip, and Peter Gabriel.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/commontime/1048481537" >}}
+{{< applemusic url="https://music.apple.com/gb/album/commontime/1048481537" >}}<br>
+
+
 ## Videos
 ### FIELD MUSIC - The Noisy Days Are Over
 {{< youtube id="7FGPDau_QwA" title="FIELD MUSIC - The Noisy Days Are Over" >}}<br>
@@ -70,8 +76,6 @@ Recorded at Field Music's home studio in Sunderland, the music for Commontime wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Commontime_(album) |
-| Apple Music Summary | David and Peter Brewis’s sixth album is their first since becoming fathers. With paternal reflection steeping the lyrics, there’s also new warmth and optimism to the music. Their artful pop once revelled in restlessness and unpredictability but melodies are given more time to radiate here. There are still plenty of ideas and twists to get lost in during “The Noisy Days Are Over”’s taut funk and “Disappointed’’s blue-eyed-soul but “The Morning Is Waiting” is happy to wallow in a beautiful, string-mottled tune. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (180g Orange Colour) |
 | Label          | Memphis Industries |
 | Catalog Number | MI0387LP |

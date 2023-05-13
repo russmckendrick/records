@@ -163,9 +163,17 @@ Largely recorded in California in 1976, it was produced by the band with Ken Cai
 Recorded with the intention of making "a pop album" that would expand on the commercial success of their self-titled 1975 album, the music of Rumours is characterized by a mix of electric and acoustic instrumentation, accented rhythms, guitars, and keyboards, while its lyrics concern personal and often troubled relationships. Its release was postponed by delays in the mixing process. Following the album's release, Fleetwood Mac undertook worldwide concert tours. Rumours became the band's first number-one album on the UK Albums Chart and also topped the US Billboard 200. The songs "Go Your Own Way", "Dreams", "Don't Stop", and "You Make Loving Fun" were released as singles, all of which reached the US top 10, with "Dreams" reaching number one.
 Rumours was an instant commercial success, selling over 10 million copies worldwide within just a month of its release. It garnered widespread acclaim from critics, with praise centred on its production quality and vocal harmonies, which frequently relied on the interplay among the band’s three vocalists, and has inspired the work of musical acts in different genres. It won Album of the Year at the 1978 Grammy Awards and  received Diamond certifications in several countries, including the UK, Canada, Australia, and the US, where it was certified 20× Platinum. 
 As of February 2023, Rumours has sold over 40 million copies worldwide, making it the sixth best-selling album of the 1970s, and the 12th best-selling album of all time.Often considered Fleetwood Mac's magnum opus, Rumours has frequently been cited as one of the greatest albums of all time. In 2003, it was inducted into the Grammy Hall of Fame. In 2004, Rumours was remastered and reissued with the addition of "Silver Springs", which had been excluded from the original release, and a bonus CD of outtakes from the recording sessions.  In 2017, it was selected for preservation in the National Recording Registry, being deemed "culturally, historically, or aesthetically significant" by the Library of Congress. In 2020, Rumours was rated the seventh-greatest album of all time in Rolling Stone's list of the "500 Greatest Albums of All Time".
-    <br>
+
+
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rumours/594061854" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rumours/594061854" >}}<br>
+
+
 ## Videos
 ### Rumours (Full Album)
 {{< youtube id="uzEt9cATWFw" title="Rumours (Full Album)" >}}<br>
@@ -178,8 +186,6 @@ As of February 2023, Rumours has sold over 40 million copies worldwide, making i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rumours_(album) |
-| Apple Music Summary | Fleetwood Mac’s <i>Rumours</i> practically defined FM-radio in the late-‘70s. The group’s three main songwriters each carved out their territory as their romantic lives with each other were falling apart. Stevie Nicks had a touch of mystic (“Dreams”, “Gold Dust Woman”). Christine McVie wrote universal anthems (“Don’t Stop”, “Songbird”) and Lindsey Buckingham churned out dynamic pop confectionaries with undercurrents of emotional distress (“Second Hand News”, “Go Your Own Way”). Spinning tragedy into gold was clearly their specialty. |
-    | Release Year   | 2013                                   |
 | Format         | CD Album Reissue Remastered, CD Remastered, DVD DVD-Video NTSC, CD Remastered, CD Remastered, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (35th Anniversary Edition ) |
 | Label          | Warner Bros. Records |
 | Catalog Number | R2-533806 |

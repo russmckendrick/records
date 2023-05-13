@@ -44,9 +44,14 @@ Placebo is the debut studio album by British alternative rock band Placebo. It w
 The album was a commercial success in the UK, reaching number 5 in the UK Albums Chart. It spawned five singles, including "Nancy Boy" and "36 Degrees". The album was remastered and reissued in 2006 for its tenth anniversary, including demos and a DVD featuring live performances and music videos from the album.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/placebo/961067797" >}}
+{{< applemusic url="https://music.apple.com/gb/album/placebo/961067797" >}}<br>
+
+
 ## Videos
 ### Placebo - 36 Degrees
 {{< youtube id="f8CkTsDNGJI" title="Placebo - 36 Degrees" >}}<br>
@@ -73,8 +78,6 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Placebo_(album) |
-| Wikipedia Summary | Placebo is the debut studio album by British alternative rock band Placebo. It was released on 17 June 1996 by record label Virgin. It is the only album recorded with drummer Robert Schultzberg before his departure from the group.<br>The album was a commercial success in the UK, reaching number 5 in the UK Albums Chart. It spawned five singles, including "Nancy Boy" and "36 Degrees". The album was remastered and reissued in 2006 for its tenth anniversary, including demos and a DVD featuring live performances and music videos from the album.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Elevator Music (4) |
 | Catalog Number | 6711042 |

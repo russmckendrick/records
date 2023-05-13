@@ -42,9 +42,14 @@ styles: ["Pop Rock"]
 
 Hello, I Must Be Going! is the second solo studio album by English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After his band Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).
 Hello, I Must Be Going! received a more reserved commercial reaction than Face Value, but it nonetheless reached No. 2 in the United Kingdom and No. 8 in the United States. In total, Collins released eight singles from the album, with various tracks released as singles in different countries. The most successful was the first US and second UK single, a cover of "You Can't Hurry Love" by the Supremes, which went to No. 1 in the United Kingdom and No. 10 in the United States. Collins supported the album with his 1982–1983 tour, his first as a solo artist. The album earned Collins a Brit Award nomination for British Male Artist in 1983, and "I Don't Care Anymore" was nominated for a Grammy Award for Best Rock Vocal Performance, Male.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hello-i-must-be-going-deluxe-edition/1081948293" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hello-i-must-be-going-deluxe-edition/1081948293" >}}<br>
+
+
 ## Videos
 ### Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)
 {{< youtube id="_LeizBR6NZo" title="Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)" >}}<br>
@@ -63,8 +68,6 @@ Hello, I Must Be Going! received a more reserved commercial reaction than Face V
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hello,_I_Must_Be_Going!_(album) |
-| Wikipedia Summary | Hello, I Must Be Going! is the second solo studio album by English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After his band Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).<br>Hello, I Must Be Going! received a more reserved commercial reaction than Face Value, but it nonetheless reached No. 2 in the United Kingdom and No. 8 in the United States. In total, Collins released eight singles from the album, with various tracks released as singles in different countries. The most successful was the first US and second UK single, a cover of "You Can't Hurry Love" by the Supremes, which went to No. 1 in the United Kingdom and No. 10 in the United States. Collins supported the album with his 1982–1983 tour, his first as a solo artist. The album earned Collins a Brit Award nomination for British Male Artist in 1983, and "I Don't Care Anymore" was nominated for a Grammy Award for Best Rock Vocal Performance, Male. |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album (Gatefold Sleeve) |
 | Label          | Virgin |
 | Catalog Number | V2252 |

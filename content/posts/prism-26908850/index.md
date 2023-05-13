@@ -46,9 +46,14 @@ styles: ["Ambient House", "Dub", "Disco", "Drum n Bass", "Downtempo", "Ambient"]
 Prism is the seventeenth studio album by English ambient house duo the Orb. The album was released on 28 April 2023 via Cooking Vinyl. It includes contributions from Youth, Violeta Vicci, Gaudi, David Harrow, Leandro Fresco, Jono Podmore and David Lofts and features vocalists Eric Von Skywalker, Andy Cain and Rachel D’arcy.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/prism-deluxe/1665731165" >}}
+{{< applemusic url="https://music.apple.com/gb/album/prism-deluxe/1665731165" >}}<br>
+
+
 ## Videos
 ### The Orb - Prism
 {{< youtube id="CsPENyMyKcw" title="The Orb - Prism" >}}<br>
@@ -66,8 +71,6 @@ Prism is the seventeenth studio album by English ambient house duo the Orb. The 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prism_(The_Orb_album) |
-| Wikipedia Summary | Prism is the seventeenth studio album by English ambient house duo the Orb. The album was released on 28 April 2023 via Cooking Vinyl. It includes contributions from Youth, Violeta Vicci, Gaudi, David Harrow, Leandro Fresco, Jono Podmore and David Lofts and features vocalists Eric Von Skywalker, Andy Cain and Rachel D’arcy.<br><br> |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Citrus) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP865X |

@@ -51,9 +51,15 @@ Neon Bible is the second studio album by Canadian indie rock band Arcade Fire. I
 Neon Bible became Arcade Fire's highest-charting album at the time, debuting on the Billboard 200 at number two, selling 92,000 copies in its first week and more than 400,000 to date. Being released within a month of similarly successful releases by  The Shins (Wincing the Night Away) and Modest Mouse (We Were Dead Before the Ship Even Sank), Neon Bible was cited as an example of the popularization of indie rock. Critics met the self-produced Neon Bible with acclaim. Publications like NME and IGN praised the album for its grandiose nature, while Rolling Stone and Uncut opined that it resulted in a distant and overblown sound.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/neon-bible/1252615522" >}}
+{{< applemusic url="https://music.apple.com/gb/album/neon-bible/1252615522" >}}<br>
+
+
 ## Videos
 ### Arcade Fire - Neon Bible (Official Audio)
 {{< youtube id="eHe4cDG2ErM" title="Arcade Fire - Neon Bible (Official Audio)" >}}<br>
@@ -72,8 +78,6 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Neon_Bible |
-| Apple Music Summary | Faith has always been a thematic touchstone for Arcade Fire (frontman Win Butler even took religious studies at college in Montreal) but the twin American pillars of religion and commercialism come to the fore on this second album. Recorded in a converted church, <i>Neon Bible</i> thrums with urgent boot-stompers (“Keep the Car Running”), and jittery, organ-drenched hymnals (“Intervention”). But, somehow, it still manages to meld its baleful worldview with tricksy, irresistible melodies. |
-    | Release Year   | 2007                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album (Gatefold) |
 | Label          | Sonovox Records |
 | Catalog Number | 1724447 |

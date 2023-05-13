@@ -49,9 +49,15 @@ Exit Planet Dust is the debut studio album by English electronic music duo The C
 The album received critical acclaim and was in the UK charts for many weeks, charting in each year from its release in 1995 until 2000; its highest peak was number 9 in 1995.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exit-planet-dust/723670972" >}}
+{{< applemusic url="https://music.apple.com/gb/album/exit-planet-dust/723670972" >}}<br>
+
+
 
 
 ## Release Images
@@ -61,8 +67,6 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exit_Planet_Dust |
-| Apple Music Summary | While underground raves had made landfall in the US, electronic music was not a mainstream proposition there in 1995. This album helped change that. A demolition derby of breakbeats and synth pyrotechnics, The Chemical Brothers' debut combined the attitude of rock with the energy of club music. There are synths here that sound like buzz saws, and beats that could plow through roadblocks. With its repeated promise that "the brothers gonna work it out", "Leave Home" is one of the most emphatic album openers ever. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Freestyle Dust |
 | Catalog Number | XDUSTLP1 |

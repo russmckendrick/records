@@ -34,9 +34,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/more-stately-mansions/1062927890" >}}
+{{< applemusic url="https://music.apple.com/gb/album/more-stately-mansions/1062927890" >}}<br>
+
+
 ## Videos
 ### CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)
 {{< youtube id="w4fZO6j6I2s" title="CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)" >}}<br>
@@ -59,7 +62,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180), CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 035 |

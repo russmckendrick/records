@@ -48,9 +48,15 @@ styles: ["Techno", "Leftfield", "Ambient"]
 <!-- section break -->
 
 This ambitious 1994 album will leave you in a sweating, swirling, ecstatic trance. Bringing on DJ Darren Emerson was a brilliant move by Karl Hyde and Rick Smith, whose rock inclinations get completely submerged in endless textures of ambient echoes, throbbing bass, buzzing synths and scattered breakbeats. Hyde's dark, monotone moan—often multi-tracked—snakes its way through beats that drive relentlessly forward. Propulsive, yet fluid and melodic, this is dance music that both electronic heads and indie rockers can agree on.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dubnobasswithmyheadman-20th-anniversary-remaster/1443808376" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dubnobasswithmyheadman-20th-anniversary-remaster/1443808376" >}}<br>
+
+
 ## Videos
 ### Dark & Long (Remastered)
 {{< youtube id="HJEUwJ9lKlc" title="Dark & Long (Remastered)" >}}<br>
@@ -69,8 +75,6 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dubnobasswithmyheadman |
-| Wikipedia Summary | Dubnobasswithmyheadman (stylised as dubnobasswithmyheadman) is the third studio album by British electronic music group Underworld, released in the United Kingdom on Junior Boy's Own on 24 January 1994. It was the first Underworld album after the 1980s version of the band had made the transition from synthpop to electronic dance music and is also the first album to feature Darren Emerson as a band member. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (20th Anniversary Edition, 180g) |
 | Label          | Universal UMC |
 | Catalog Number | 3790795 |

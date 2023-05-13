@@ -30,9 +30,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/easy-to-smile/259486680" >}}
+{{< applemusic url="https://music.apple.com/gb/album/easy-to-smile/259486680" >}}<br>
+
+
 ## Videos
 ### Easy To Smile (Edited Version)
 {{< youtube id="98eDh69GD-M" title="Easy To Smile (Edited Version)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" Single 45 RPM |
 | Label          | Epic |
 | Catalog Number | 657695 6 |

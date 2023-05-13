@@ -42,9 +42,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/are-you-normal/290619406" >}}
+{{< applemusic url="https://music.apple.com/gb/album/are-you-normal/290619406" >}}<br>
+
+
 ## Videos
 ### Ned's Atomic Dustbin-Legoland
 {{< youtube id="yCWYygUCwOk" title="Ned's Atomic Dustbin-Legoland" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP Album |
 | Label          | Sony Soho Square |
 | Catalog Number | 472633 1 |

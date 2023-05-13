@@ -44,9 +44,12 @@ styles: ["Breakbeat", "Big Beat"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/decksandrumsandrockandroll/540024177" >}}
+{{< applemusic url="https://music.apple.com/gb/album/decksandrumsandrockandroll/540024177" >}}<br>
+
+
 ## Videos
 ### Propellerheads --- Take California
 {{< youtube id="Dd8WjeK8riE" title="Propellerheads --- Take California" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Breakbeat", "Big Beat"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue (20th Anniversary) |
 | Label          | Wall Of Sound |
 | Catalog Number | WALL LPN015 |

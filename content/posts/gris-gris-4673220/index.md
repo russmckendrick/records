@@ -37,9 +37,15 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 
 Gris-Gris (stylized as GRIS-gris, , named for a kind of talisman) is the debut album by American musician Dr. John (a.k.a. Mac Rebennack). Produced by Harold Battiste, it was released on Atco Records in 1968. The album introduced Rebennack's Dr. John character, inspired by a reputed 19th century voodoo doctor. The style of Gris-Gris is a hybrid of New Orleans R&B and psychedelia. It was recorded in California, albeit with several native New Orleans musicians.
 Gris-Gris failed to chart in the United Kingdom and the United States. It was re-issued on compact disc decades later and received much greater praise from modern critics, including being listed at number 143 on the 2003 and 2012 editions and at number 356 on the 2020 edition of Rolling Stone magazine's list of the 500 greatest albums of all time.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gris-gris/106225386" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gris-gris/106225386" >}}<br>
+
+
 ## Videos
 ### Gris-Gris Gumbo Ya Ya
 {{< youtube id="ijZUoSsnRPU" title="Gris-Gris Gumbo Ya Ya" >}}<br>
@@ -58,8 +64,6 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gris-Gris |
-| Apple Music Summary | In 1968, New Orleans keyboardist Mac Rebennack reinvented himself as a slightly sinister swamp spiritualist known as Dr. John, the frog-voiced Night Tripper. Rebennack and his crew's strange brew mixed San Francisco psychedelia with New Orleans R&B, which sounds especially effective in "Gris-Gris Gumbo Ya Ya" and "I Walk on Guilded Splinters"—heavily percussive, chant-driven tracks suggesting something ominous rising from the swamp. "Mama Roux," meanwhile, whips up its own Afro-Cuban magic. |
-    | Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | ATCO Records |
 | Catalog Number | SD 33-234 |

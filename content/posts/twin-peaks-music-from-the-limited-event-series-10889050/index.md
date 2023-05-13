@@ -55,7 +55,10 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Twin Peaks- Limited Event Series Full Soundtrack (HQ)
 {{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack (HQ)" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Compilation Limited Edition (Red and Black Splatter) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 081227933975 |

@@ -42,9 +42,12 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gosh-its/461069899" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gosh-its/461069899" >}}<br>
+
+
 ## Videos
 ### Bad Manners - Can-Can (TOTP)
 {{< youtube id="sirHoeJ5Td8" title="Bad Manners - Can-Can (TOTP)" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Magnet (2) |
 | Catalog Number | MAGL 5043 |

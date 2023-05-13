@@ -45,9 +45,14 @@ styles: []
 
 Garbage is an American rock band formed in Madison, Wisconsin, in 1993. The group's discography consists of seven studio albums, three compilation albums, one remix album, one extended play, 37 singles, four promotional singles, three video albums, and 38 music videos (many of which are alternate versions to the same song). The line-up consists of Scottish-born Shirley Manson and Americans Duke Erikson, Steve Marker, and Butch Vig. They have amassed worldwide album sales of over 17 million units.Garbage released a string of increasingly successful singles in 1995 and 1996, including "Queer", "Only Happy When It Rains", and "Stupid Girl". Their debut album, Garbage, charted in the top 20 in six countries and was certified double platinum in the United States, United Kingdom, Canada, and Australia. Garbage spent two years working on their follow-up album, Version 2.0, which charted in the top 20 in 12 countries and was certified platinum in four countries and the European Union.
 The band recorded the theme song of the 1999 James Bond film The World Is Not Enough. The band's third album, Beautiful Garbage (2001), failed to match the commercial success achieved by its predecessors. Garbage quietly disbanded in late 2003, but regrouped to complete their fourth album Bleed Like Me in 2005, peaking at a career-high number four on the Billboard 200. The band cut short their concert tour in support of Bleed Like Me announcing an "indefinite hiatus". Garbage reconvened in 2007 and released a greatest hits compilation Absolute Garbage. The band's fifth studio album, Not Your Kind of People, was released on 14 May 2012 through the band's own label, Stunvolume.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/garbage-20th-anniversary-edition/1544166061" >}}
+{{< applemusic url="https://music.apple.com/gb/album/garbage-20th-anniversary-edition/1544166061" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +62,6 @@ The band recorded the theme song of the 1999 James Bond film The World Is Not En
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Garbage_discography |
-| Wikipedia Summary | Garbage is an American rock band formed in Madison, Wisconsin, in 1993. The group's discography consists of seven studio albums, three compilation albums, one remix album, one extended play, 37 singles, four promotional singles, three video albums, and 38 music videos (many of which are alternate versions to the same song). The line-up consists of Scottish-born Shirley Manson and Americans Duke Erikson, Steve Marker, and Butch Vig. They have amassed worldwide album sales of over 17 million units.Garbage released a string of increasingly successful singles in 1995 and 1996, including "Queer", "Only Happy When It Rains", and "Stupid Girl". Their debut album, Garbage, charted in the top 20 in six countries and was certified double platinum in the United States, United Kingdom, Canada, and Australia. Garbage spent two years working on their follow-up album, Version 2.0, which charted in the top 20 in 12 countries and was certified platinum in four countries and the European Union.<br>The band recorded the theme song of the 1999 James Bond film The World Is Not Enough. The band's third album, Beautiful Garbage (2001), failed to match the commercial success achieved by its predecessors. Garbage quietly disbanded in late 2003, but regrouped to complete their fourth album Bleed Like Me in 2005, peaking at a career-high number four on the Billboard 200. The band cut short their concert tour in support of Bleed Like Me announcing an "indefinite hiatus". Garbage reconvened in 2007 and released a greatest hits compilation Absolute Garbage. The band's fifth studio album, Not Your Kind of People, was released on 14 May 2012 through the band's own label, Stunvolume. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP 45 RPM Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | BMG |
 | Catalog Number | BMGCAT514DLP |

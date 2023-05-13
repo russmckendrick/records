@@ -27,9 +27,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ep-two-ep/1163304346" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ep-two-ep/1163304346" >}}<br>
+
+
 ## Videos
 ### Paul Draper - EP TWO (Full EP stream)
 {{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO (Full EP stream)" >}}<br>
@@ -41,7 +44,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE935 |

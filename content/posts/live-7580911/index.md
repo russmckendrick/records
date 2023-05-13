@@ -38,9 +38,12 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-last-night-of-the-electrics-live/1226014241" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-last-night-of-the-electrics-live/1226014241" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723768 |

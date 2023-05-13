@@ -51,9 +51,12 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1061940454" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1061940454" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,7 +65,6 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White/Black Swirl, 180 Gram) |
 | Label          | Friday Music |
 | Catalog Number | FRM-40711 |

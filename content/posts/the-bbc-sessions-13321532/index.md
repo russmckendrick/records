@@ -48,9 +48,15 @@ styles: ["Indie Rock"]
 
 The BBC Sessions is an album by Belle and Sebastian. It is a double album. The first disc (Radio Sessions) is a compilation of unreleased recordings recorded between 1996 and 2001, while the second (Live in Belfast) is a live recording from a concert in Belfast on 21 December 2001. The live album contains covers of "Here Comes the Sun", "I'm Waiting for the Man" and "The Boys are Back in Town".
 The tracks on the first album come from sessions with Mark Radcliffe, Steve Lamacq and John Peel. The album cover features former member Isobel Campbell, who departed the band six years before this album's release, but is heard on these recordings.
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="0ezeGGrqYPEL6nlD3eXV4y" width="100%" height="500" >}}
+{{< spotify type="album" id="0ezeGGrqYPEL6nlD3eXV4y" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)
 {{< youtube id="7A2rbeKqulU" title="Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)" >}}<br>
@@ -65,8 +71,6 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_BBC_Sessions_(Belle_and_Sebastian_album) |
-| Wikipedia Summary | The BBC Sessions is an album by Belle and Sebastian. It is a double album. The first disc (Radio Sessions) is a compilation of unreleased recordings recorded between 1996 and 2001, while the second (Live in Belfast) is a live recording from a concert in Belfast on 21 December 2001. The live album contains covers of "Here Comes the Sun", "I'm Waiting for the Man" and "The Boys are Back in Town".<br>The tracks on the first album come from sessions with Mark Radcliffe, Steve Lamacq and John Peel. The album cover features former member Isobel Campbell, who departed the band six years before this album's release, but is heard on these recordings. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP018 |

@@ -32,7 +32,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -41,7 +44,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Limited Edition Picture Disc |
 | Label          | Panegyric |
 | Catalog Number | DGMP121 |

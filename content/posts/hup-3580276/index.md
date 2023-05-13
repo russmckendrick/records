@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 <!-- section break -->
 
 Hup is the second album by The Wonder Stuff, released in 1989.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-remastered/1443938336" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hup-remastered/1443772473" >}}<br>
+
+
 ## Videos
 ### CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989
 {{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}<br>
@@ -59,8 +64,6 @@ Hup is the second album by The Wonder Stuff, released in 1989.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hup_(album) |
-| Wikipedia Summary | Hup is the second album by The Wonder Stuff, released in 1989. |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 841187-1 |

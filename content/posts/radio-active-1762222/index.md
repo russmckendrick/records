@@ -47,9 +47,15 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 <!-- section break -->
 
 Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series.
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}
+{{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Radio Active (Face A) (1980)
 {{< youtube id="c-NmtskiSzo" title="Radio Active (Face A) (1980)" >}}<br>
@@ -83,8 +89,6 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Radio_Active_(radio_series) |
-| Wikipedia Summary | Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series. |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Compilation (Lyntone Pressing) |
 | Label          | Ronco |
 | Catalog Number | RTL 2049 |

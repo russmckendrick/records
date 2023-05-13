@@ -38,9 +38,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dilla/1238569093" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dilla/1238569093" >}}<br>
+
+
 ## Videos
 ### Abstract Orchestra - Dilla [Full Album]
 {{< youtube id="1UTyo3IMhfg" title="Abstract Orchestra - Dilla [Full Album]" >}}<br>
@@ -52,7 +55,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | ATA Records (3) |
 | Catalog Number | ATA006 |

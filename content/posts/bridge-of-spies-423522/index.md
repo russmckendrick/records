@@ -40,9 +40,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bridge-of-spies/1442998643" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bridge-of-spies/1442998643" >}}<br>
+
+
 ## Videos
 ### T'Pau - Heart And Soul (Official Video)
 {{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul (Official Video)" >}}<br>
@@ -67,8 +72,6 @@ Bridge of Spies is the debut album by British pop group T'Pau, released in Septe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bridge_of_Spies_(album) |
-| Wikipedia Summary | Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau. |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Siren (3) |
 | Catalog Number | SRN LP8 |

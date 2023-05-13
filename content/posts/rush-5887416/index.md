@@ -88,9 +88,15 @@ When it came to writing his third album, George Ezra was ready to fall back on a
 
 <b>Apple Music Edition tracks</b>
 “It was proposed to me that we reimagine some of the songs. I said, ‘Can we see what they would sound like if we give [the album’s string arranger] Tobie Tripp the stems: strip them back, replace things, let Tobie remix things that are in there?’ That, to me, felt like a sincere way of reimagining them. I think it's also a really good lesson in production of how many different ways something can sound. I genuinely didn't want to just do the singles. It felt like if you were given this space, do the ones that lend itself to this idea. Don't try and string up ‘Anyone for You’. Tobie indulged in more creative licence than I was anticipating, but it’s a beautiful thing now to have. Alongside everything else, there’s a huge ladle’s worth of impostor syndrome. There is still this sentiment of, ‘God, do people want to hear my music? Is this any good? Do these people want to work with me?’ And so it's not lost on me that these people do. I don’t jump for joy when I’m asking to do a cover, which will be born of insecurity and a lack of confidence. But a friend of mine who was once working with Jamie T said, ‘What do you think Jamie’s best song was?’ And I said, ‘Love Is Only a Heartbeat Away’. I love his <i>Carry on the Grudge</i> record, and [the cover] sounds great.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gold-rush-kid-apple-music-edition/1606177911" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gold-rush-kid-apple-music-edition/1606177911" >}}<br>
+
+
 
 
 ## Release Images
@@ -100,8 +106,6 @@ When it came to writing his third album, George Ezra was ready to fall back on a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rush_(Rush_album) |
-| Wikipedia Summary | Rush is the debut studio album by Canadian rock band Rush. It was released on March 1, 1974, in Canada by Moon Records, the group's own label, before it was released internationally by Mercury Records later that year. Recorded five years after the band's formation, this first release shows much of the hard rock sound typical of many of the popular rock bands emerging earlier in the decade. Rush were fans of such bands as Led Zeppelin, Yes and Cream, and these influences can be heard in most of the songs on the album.<br>Original drummer John Rutsey performed all drum parts on the album, but was unable to go on extended tours because of complications with his diabetes and so he retired from the band after the album was released. Rutsey worked on lyrics for the album, but never submitted them to the other members of the band. The lyrics were instead entirely composed by vocalist/bassist Geddy Lee and guitarist Alex Lifeson. Rutsey was soon replaced by Neil Peart, who remained the band's drummer as well as primary lyricist. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (200 Gram), Box Set |
 | Label          | Moon Records (18) |
 | Catalog Number | MN 100 |

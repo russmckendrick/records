@@ -114,9 +114,13 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="3oNY3UpmcQQ4TAicUcKkdf" width="100%" height="500" >}}
+{{< spotify type="album" id="3oNY3UpmcQQ4TAicUcKkdf" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Simon & Garfunkel - America (Almost Famous)
 {{< youtube id="jg66kgAfqlY" title="Simon & Garfunkel - America (Almost Famous)" >}}<br>
@@ -137,7 +141,6 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Box Set Deluxe Edition Stereo (Super Deluxe Edition), Vinyl 6× LP Compilation (180g) |
 | Label          | Geffen Records |
 | Catalog Number | B0033289-01 |

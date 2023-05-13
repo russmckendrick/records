@@ -41,9 +41,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/revenge-of-the-goldfish/1145592944" >}}
+{{< applemusic url="https://music.apple.com/gb/album/revenge-of-the-goldfish/1145592944" >}}<br>
+
+
 ## Videos
 ### Inspiral Carpets - Generations (Official HD Video)
 {{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations (Official HD Video)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Transparent, 30th Anniversary) |
 | Label          | Mute |
 | Catalog Number | ldung19 |

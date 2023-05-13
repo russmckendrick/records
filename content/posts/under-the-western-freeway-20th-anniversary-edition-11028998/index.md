@@ -63,7 +63,10 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Grandaddy - A.M. 180
 {{< youtube id="ptPXxAds1Jc" title="Grandaddy - A.M. 180" >}}<br>
@@ -80,7 +83,6 @@ styles: ["Lo-Fi", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (Yellow), Vinyl LP (Blue) |
 | Label          | Friendship Fever |
 | Catalog Number | FVRLP012 |

@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 <i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pyromania/1440902935" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pyromania/1440902935" >}}<br>
+
+
 ## Videos
 ### Def Leppard - Photograph
 {{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}<br>
@@ -60,8 +65,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | <i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Vertigo |
 | Catalog Number | 5777362 |

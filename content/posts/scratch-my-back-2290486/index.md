@@ -37,9 +37,14 @@ styles: ["Experimental", "Symphonic Rock"]
 <!-- section break -->
 
 Scratch My Back is the eighth studio album (and fifteenth album overall) by English musician Peter Gabriel, his first in eight years. It was released in February 2010. The album, recorded at Air Lyndhurst and Real World Studios during 2009, consists of cover versions of twelve songs by various artists, using only orchestra and voice. It is produced by Gabriel with Bob Ezrin.The album generally received favourable reviews by music journalists and performed well on the album charts around the world, peaking at No. 1 in Belgium, No. 2 in Germany and Canada, and No. 3 in the Czech Republic, Italy and Switzerland. It also reached the top 5 in France and Sweden. In Gabriel's native United Kingdom it peaked at No. 12 on the UK Albums Chart on 21 February 2010, the week following its release. In the United States it peaked at No. 26 on the Billboard 200, No. 2 on the Independent Albums chart and No. 3 on the Rock Albums chart on 12 March 2010.Scratch My Back was initially released on compact disc and as music download; a vinyl album edition was subsequently released in late March 2010.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scratch-my-back/989290344" >}}
+{{< applemusic url="https://music.apple.com/gb/album/scratch-my-back/989290344" >}}<br>
+
+
 ## Videos
 ### Peter Gabriel - Heroes
 {{< youtube id="LsvuipGq2ns" title="Peter Gabriel - Heroes" >}}<br>
@@ -64,8 +69,6 @@ Scratch My Back is the eighth studio album (and fifteenth album overall) by Engl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scratch_My_Back |
-| Wikipedia Summary | Scratch My Back is the eighth studio album (and fifteenth album overall) by English musician Peter Gabriel, his first in eight years. It was released in February 2010. The album, recorded at Air Lyndhurst and Real World Studios during 2009, consists of cover versions of twelve songs by various artists, using only orchestra and voice. It is produced by Gabriel with Bob Ezrin.The album generally received favourable reviews by music journalists and performed well on the album charts around the world, peaking at No. 1 in Belgium, No. 2 in Germany and Canada, and No. 3 in the Czech Republic, Italy and Switzerland. It also reached the top 5 in France and Sweden. In Gabriel's native United Kingdom it peaked at No. 12 on the UK Albums Chart on 21 February 2010, the week following its release. In the United States it peaked at No. 26 on the Billboard 200, No. 2 on the Independent Albums chart and No. 3 on the Rock Albums chart on 12 March 2010.Scratch My Back was initially released on compact disc and as music download; a vinyl album edition was subsequently released in late March 2010. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album (200g) |
 | Label          | Real World Records |
 | Catalog Number | PGLP12 |

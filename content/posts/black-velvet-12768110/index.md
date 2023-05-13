@@ -40,9 +40,14 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 <!-- section break -->
 
 Black Velvet is the fourth and final studio album by American funk/soul artist Charles Bradley, released on 9 November 2018. The album release was preceded by two singles, "Can't Fight the Feeling" and "I Feel a Change". The name of the album comes from Bradley's stage name during his time as a James Brown impersonator. The album consists of songs originally recorded for Bradley's three previous studio albums, and was compiled by producer Thomas Brenneck after Bradley's death from cancer in September 2017. Included are covers of "Stay Away" by Nirvana and "Heart of Gold" by Neil Young.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-velvet-feat-menahan-street-band/1485029036" >}}
+{{< applemusic url="https://music.apple.com/gb/album/black-velvet-feat-menahan-street-band/1485029036" >}}<br>
+
+
 ## Videos
 ### Charles Bradley - Can't Fight the Feeling (Official Audio)
 {{< youtube id="inCKjKHd-YY" title="Charles Bradley - Can't Fight the Feeling (Official Audio)" >}}<br>
@@ -65,8 +70,6 @@ Black Velvet is the fourth and final studio album by American funk/soul artist C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Velvet_(Charles_Bradley_album) |
-| Wikipedia Summary | Black Velvet is the fourth and final studio album by American funk/soul artist Charles Bradley, released on 9 November 2018. The album release was preceded by two singles, "Can't Fight the Feeling" and "I Feel a Change". The name of the album comes from Bradley's stage name during his time as a James Brown impersonator. The album consists of songs originally recorded for Bradley's three previous studio albums, and was compiled by producer Thomas Brenneck after Bradley's death from cancer in September 2017. Included are covers of "Stay Away" by Nirvana and "Heart of Gold" by Neil Young. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Purple With Black Splatter) |
 | Label          | Dunham |
 | Catalog Number | DUN 1007 |

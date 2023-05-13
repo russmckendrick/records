@@ -62,7 +62,10 @@ styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -71,7 +74,6 @@ styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Polygram TV |
 | Catalog Number | 515 207-1 |

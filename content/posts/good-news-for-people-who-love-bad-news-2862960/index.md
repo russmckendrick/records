@@ -53,9 +53,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 Good News for People Who Love Bad News is the fourth studio album by American rock band Modest Mouse, released on April 6, 2004 by Epic Records. Founding member Jeremiah Green did not perform on this album due to his temporary absence from the band, and it would be the only release during his time with Modest Mouse that he would not appear on.
 Good News for People Who Love Bad News was nominated for the Grammy Award for Best Alternative Music Album in 2005. It was certified platinum by the RIAA in August 2004, and had sold over 1.5 million copies in the United States by 2006. Three singles were released from the album: "Float On", "Ocean Breathes Salty", and "The World at Large".
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/good-news-for-people-who-love-bad-news/201257412" >}}
+{{< applemusic url="https://music.apple.com/gb/album/good-news-for-people-who-love-bad-news/201257412" >}}<br>
+
+
 ## Videos
 ### Horn Intro
 {{< youtube id="uHnfpd7gUjE" title="Horn Intro" >}}<br>
@@ -83,8 +89,6 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_News_for_People_Who_Love_Bad_News |
-| Apple Music Summary | The singular phrasing and manic yowls of Isaac Brock are here in abundance, as are turn-on-a-dime melodies, compelling lyrics, and inventive rhythms. But <i>Good News</i> also expands on the skeletal urgency of earlier albums to include slurring, stomping horns (supplied by the Dirty Dozen Brass Band), banjo, violin, and keyboards. It all comes together as an imaginative masterpiece by a rock band with wild-hearted vision. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Epic |
 | Catalog Number | E2 87125 |

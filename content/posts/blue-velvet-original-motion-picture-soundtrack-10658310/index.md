@@ -44,9 +44,12 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-velvet-original-motion-picture-soundtrack/1649800938" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-velvet-original-motion-picture-soundtrack/1649800938" >}}<br>
+
+
 ## Videos
 ### Blue Velvet: Main Title Theme (From Blue Velvet)
 {{< youtube id="HNXjgKA6mn8" title="Blue Velvet: Main Title Theme (From Blue Velvet)" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Blue/Black Split) |
 | Label          | Fire Records |
 | Catalog Number | FROST003LP |

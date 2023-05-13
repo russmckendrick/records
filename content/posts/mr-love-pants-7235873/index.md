@@ -36,9 +36,12 @@ styles: ["Pop Rock", "Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1489403955" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1489403955" >}}<br>
+
+
 ## Videos
 ### Ian Dury & The Blockheads- Honeysuckle Highway (Demo)
 {{< youtube id="Mn78lswQ3Hw" title="Ian Dury & The Blockheads- Honeysuckle Highway (Demo)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Pop Rock", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC62 |

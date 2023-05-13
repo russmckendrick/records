@@ -34,7 +34,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Survivor - Burning Heart (Video)
 {{< youtube id="Kc71KZG87X4" title="Survivor - Burning Heart (Video)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Limited Edition Numbered Reissue (Clear) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM062 |

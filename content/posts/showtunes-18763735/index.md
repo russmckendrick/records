@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 Showtunes is the fifteenth studio album by American rock band Lambchop. It was released on May 21, 2021, on Merge Records in the United States and on City Slang elsewhere.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/showtunes/1555645416" >}}
+{{< applemusic url="https://music.apple.com/gb/album/showtunes/1555645416" >}}<br>
+
+
 ## Videos
 ### Lambchop - A Chef's Kiss (Official Lyric Video)
 {{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chef's Kiss (Official Lyric Video)" >}}<br>
@@ -62,8 +67,6 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Showtunes_(Lambchop_album) |
-| Wikipedia Summary | Showtunes is the fifteenth studio album by American rock band Lambchop. It was released on May 21, 2021, on Merge Records in the United States and on City Slang elsewhere. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP 45 RPM Album Limited Edition Stereo (White) |
 | Label          | City Slang |
 | Catalog Number | SLANG50362LP |

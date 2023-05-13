@@ -34,9 +34,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064" >}}<br>
+
+
 ## Videos
 ### The Power Station - Some Like It Hot
 {{< youtube id="Hw1t7OCESUw" title="The Power Station - Some Like It Hot" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Fame |
 | Catalog Number | FA 3206 |

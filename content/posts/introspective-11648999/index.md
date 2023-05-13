@@ -36,9 +36,14 @@ styles: ["House", "Synth-pop"]
 <!-- section break -->
 
 Introspective is the third studio album by English synth-pop duo Pet Shop Boys, released on 10 October 1988 by Parlophone. It received generally positive reviews from critics.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/introspective-further-listening-1988-1989-deluxe-edition/1318859145" >}}
+{{< applemusic url="https://music.apple.com/gb/album/introspective-further-listening-1988-1989-deluxe-edition/1318859145" >}}<br>
+
+
 ## Videos
 ### Pet Shop Boys - Always On My Mind
 {{< youtube id="wDe60CbIagg" title="Pet Shop Boys - Always On My Mind" >}}<br>
@@ -90,8 +95,6 @@ Introspective is the third studio album by English synth-pop duo Pet Shop Boys, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Introspective |
-| Wikipedia Summary | Introspective is the third studio album by English synth-pop duo Pet Shop Boys, released on 10 October 1988 by Parlophone. It received generally positive reviews from critics. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295831950 |

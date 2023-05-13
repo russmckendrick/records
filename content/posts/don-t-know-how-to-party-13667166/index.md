@@ -42,9 +42,12 @@ styles: ["Ska", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dont-know-how-to-party/1443739943" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dont-know-how-to-party/1443739943" >}}<br>
+
+
 ## Videos
 ### Someday I Suppose
 {{< youtube id="Mvav4aPv0-s" title="Someday I Suppose" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Ska", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2292 |

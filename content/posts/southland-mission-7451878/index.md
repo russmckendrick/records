@@ -37,9 +37,12 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/southland-mission/1024130093" >}}
+{{< applemusic url="https://music.apple.com/gb/album/southland-mission/1024130093" >}}<br>
+
+
 ## Videos
 ### Phil Cook - Southland Mission (Documentary)
 {{< youtube id="k_4TyQ1s_Lc" title="Phil Cook - Southland Mission (Documentary)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Thirty Tigers |
 | Catalog Number | none |

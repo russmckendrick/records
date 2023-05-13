@@ -55,7 +55,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Telstar |
 | Catalog Number | STAR 2481 |

@@ -46,9 +46,12 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-poison-live-at-the-brixton-academy-16th-may-1993/1569041269" >}}
+{{< applemusic url="https://music.apple.com/gb/album/love-poison-live-at-the-brixton-academy-16th-may-1993/1569041269" >}}<br>
+
+
 ## Videos
 ### 🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]
 {{< youtube id="fNCogNik9n0" title="🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Stereo (Clear, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC880 |

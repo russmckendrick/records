@@ -36,9 +36,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/buried-alone-tales-of-crushing-defeat/1510598560" >}}
+{{< applemusic url="https://music.apple.com/gb/album/buried-alone-tales-of-crushing-defeat/1510598560" >}}<br>
+
+
 ## Videos
 ### Severed of Horsehoof
 {{< youtube id="5c5xHtYKAes" title="Severed of Horsehoof" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album |
 | Label          | Believers Roast |
 | Catalog Number | BRR002LP |

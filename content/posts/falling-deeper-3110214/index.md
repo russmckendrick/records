@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Prog Rock"]
 Falling Deeper is an album of orchestral re-interpretations from British atmospheric rock band Anathema released on 5 September 2011. The album is a follow-up to 2008's Hindsight, for which the band recorded different versions of their past songs.
 The album was produced by singer/guitarist Vincent Cavanagh and guitarist and main composer of the band Daniel Cavanagh who defines the record as “a nod to our past and a look to our future all at the same time, with a sound that is designed to transport you to the heart of the present moment.” The mixing was made by Andrea Wright at Parr Street Studios in Liverpool. The orchestral arrangements are composed by the band in collaboration with Dave Stewart who worked with Anathema on We're Here Because We're Here.
 The songs received new musical and vocal arrangements with 'feedback' lead guitars centred on a grand piano and a rhythm section. Dutch singer Anneke van Giersbergen sings on "Everwake", a song originally released on the 1992 EP The Crestfallen, and on "...Alone".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/falling-deeper/684127793" >}}
+{{< applemusic url="https://music.apple.com/gb/album/falling-deeper/684127793" >}}<br>
+
+
 ## Videos
 ### Anathema - Kingdom (from Falling Deeper)
 {{< youtube id="kKO9G--YlyU" title="Anathema - Kingdom (from Falling Deeper)" >}}<br>
@@ -56,8 +61,6 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Falling_Deeper |
-| Wikipedia Summary | Falling Deeper is an album of orchestral re-interpretations from British atmospheric rock band Anathema released on 5 September 2011. The album is a follow-up to 2008's Hindsight, for which the band recorded different versions of their past songs.<br>The album was produced by singer/guitarist Vincent Cavanagh and guitarist and main composer of the band Daniel Cavanagh who defines the record as “a nod to our past and a look to our future all at the same time, with a sound that is designed to transport you to the heart of the present moment.” The mixing was made by Andrea Wright at Parr Street Studios in Liverpool. The orchestral arrangements are composed by the band in collaboration with Dave Stewart who worked with Anathema on We're Here Because We're Here.<br>The songs received new musical and vocal arrangements with 'feedback' lead guitars centred on a grand piano and a rhythm section. Dutch singer Anneke van Giersbergen sings on "Everwake", a song originally released on the 1992 EP The Crestfallen, and on "...Alone". |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE820 |

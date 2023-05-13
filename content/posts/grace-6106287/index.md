@@ -35,9 +35,14 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 Grace is the only studio album by American singer-songwriter Jeff Buckley, released on August 23, 1994, by Columbia Records. The album had poor sales and received mixed reviews at the time of its release. However, in recent years it has dramatically risen in critical reputation. An extended version of the album (subtitled "Legacy Edition"), celebrating its tenth anniversary, was released on August 23, 2004, and peaked at number 44 in the UK.
 Grace re-entered the albums chart in Australia at number 44 for the week of January 29 to February 5, 2007, 13 years after its original release date. It is currently certified 8× platinum in Australia. The album has been cited by critics and listeners as one of the greatest albums of all time.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grace-legacy-edition/1476889347" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grace-legacy-edition/1476889347" >}}<br>
+
+
 ## Videos
 ### Mojo Pin
 {{< youtube id="ywEByqEVQRk" title="Mojo Pin" >}}<br>
@@ -61,8 +66,6 @@ Grace re-entered the albums chart in Australia at number 44 for the week of Janu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album) |
-| Wikipedia Summary | Grace is the only studio album by American singer-songwriter Jeff Buckley, released on August 23, 1994, by Columbia Records. The album had poor sales and received mixed reviews at the time of its release. However, in recent years it has dramatically risen in critical reputation. An extended version of the album (subtitled "Legacy Edition"), celebrating its tenth anniversary, was released on August 23, 2004, and peaked at number 44 in the UK.<br>Grace re-entered the albums chart in Australia at number 44 for the week of January 29 to February 5, 2007, 13 years after its original release date. It is currently certified 8× platinum in Australia. The album has been cited by critics and listeners as one of the greatest albums of all time. |
-| Release Year   | 2014                                   |
 | Format         | CD Album Reissue, Vinyl LP Album Reissue |
 | Label          | Columbia |
 | Catalog Number | 88843094771 |

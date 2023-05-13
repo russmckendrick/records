@@ -33,9 +33,12 @@ styles: ["Power Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620" >}}
+{{< applemusic url="https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620" >}}<br>
+
+
 
 
 ## Release Images
@@ -44,7 +47,6 @@ styles: ["Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 12" EP |
 | Label          | Lojinx |
 | Catalog Number | LJX129V12 |

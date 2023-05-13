@@ -46,9 +46,14 @@ styles: ["Electro", "Post-Punk"]
 <!-- section break -->
 
 Electric Lady Sessions is a live in-studio album by American rock band LCD Soundsystem. It was released on February 8, 2019, through DFA and Columbia Records. It was recorded over a three-day span at Electric Lady Studios in Manhattan, New York, during their American Dream Tour. The session featured a twelve-song setlist that included covers of songs by Heaven 17, Chic, and the Human League.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/electric-lady-sessions/1447409378" >}}
+{{< applemusic url="https://music.apple.com/gb/album/electric-lady-sessions/1447409378" >}}<br>
+
+
 ## Videos
 ### LCD Soundsystem - Seconds (electric lady sessions - official audio)
 {{< youtube id="nkj83iwRmNk" title="LCD Soundsystem - Seconds (electric lady sessions - official audio)" >}}<br>
@@ -73,8 +78,6 @@ Electric Lady Sessions is a live in-studio album by American rock band LCD Sound
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Lady_Sessions |
-| Wikipedia Summary | Electric Lady Sessions is a live in-studio album by American rock band LCD Soundsystem. It was released on February 8, 2019, through DFA and Columbia Records. It was recorded over a three-day span at Electric Lady Studios in Manhattan, New York, during their American Dream Tour. The session featured a twelve-song setlist that included covers of songs by Heaven 17, Chic, and the Human League. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album (180-gram) |
 | Label          | DFA |
 | Catalog Number | C-216887 |

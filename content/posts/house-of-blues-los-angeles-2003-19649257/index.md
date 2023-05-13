@@ -46,7 +46,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -55,7 +58,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue transparent) |
 | Label          | Transmission Recordings |
 | Catalog Number | Transmission 14.2 |

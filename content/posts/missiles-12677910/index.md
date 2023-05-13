@@ -37,9 +37,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/missiles/952849135" >}}
+{{< applemusic url="https://music.apple.com/gb/album/missiles/952849135" >}}<br>
+
+
 ## Videos
 ### The Dears - Missiles
 {{< youtube id="dcxOp26H2OM" title="The Dears - Missiles" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB033 |

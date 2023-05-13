@@ -37,9 +37,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/internal-landscapes-best-of-2008-2018/1424981630" >}}
+{{< applemusic url="https://music.apple.com/gb/album/internal-landscapes-best-of-2008-2018/1424981630" >}}<br>
+
+
 ## Videos
 ### Anathema - Springfield (from The Optimist)
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1009 |

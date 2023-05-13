@@ -53,9 +53,15 @@ To Pimp a Butterfly sold 324,000 copies in the United States in its first week o
 The album has received widespread acclaim from critics, who praised its musical scope and the social relevance of Lamar's lyrics. It earned Lamar seven nominations at the 2016 Grammy Awards, including a win for Best Rap Album and an Album of the Year nomination. He received four additional nominations for other collaborations from that year, receiving a total of 11 Grammy nominations, which was the most nominations for any rapper in a single night. The most critically acclaimed album of 2015 as well as one of the most critically acclaimed of its entire decade, it topped The Village Voice's annual Pazz & Jop poll of American critics nationwide, and was also ranked as the best album of 2015 by many other publications. In the years following its release, several publications named To Pimp a Butterfly one of the best albums of the 2010s; in 2020, the album was ranked 19th on Rolling Stone's updated list of the 500 Greatest Albums of All Time.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/to-pimp-a-butterfly/1440828886" >}}
+{{< applemusic url="https://music.apple.com/gb/album/to-pimp-a-butterfly/1440828886" >}}<br>
+
+
 ## Videos
 ### Kendrick Lamar - King Kunta
 {{< youtube id="hRK7PVJFbS8" title="Kendrick Lamar - King Kunta" >}}<br>
@@ -73,8 +79,6 @@ The album has received widespread acclaim from critics, who praised its musical 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly |
-| Apple Music Summary | In 2014, after Macklemore & Ryan Lewis’s <i>The Heist</i> won the Best Rap Album Grammy over Kendrick Lamar’s <i>good kid, m.A.A.d city</i>, Macklemore posted an apology to Kendrick, reading, in part, "You got robbed. I wanted you to win. You should have.”<br /><br>He wasn’t alone. Flush with heat rocks like “Backseat Freestyle” and moody turns like “Swimming Pools (Drank),” <i>good kid, m.A.A.d city</i> was an epochal moment for Kendrick Lamar and West Coast hip-hop—but a bigger moment was still on the horizon. Meandering far from <i>m.A.A.d. city</i>’s Compton street soliloquies, the follow-up <i>To Pimp a Butterfly</i> is a searing portrait of the black experience in America as well as a document of Kendrick’s own personal awakening. He juxtaposes pain (“Institutionalized,” “The Blacker the Berry,” “King Kunta”) and depression (“u”) with joyful celebration (“i”). Kendrick holds a microscope up to the consequences of racialized self-hatred and class subjugation on “Wesley’s Theory” and “Complexion,” while “How Much a Dollar Cost” and “You Ain't Gotta Lie (Momma Said)” are dramatic, personal testimonials about fame and his changing world. And in the wake of increased gun violence and police brutality, the powerhouse “Alright” became a rallying cry for the Black Lives Matter movement. The music is as complex as his thoughts, favoring deep jazz, fragrant coffeehouse poetry, and dirty P-funk with help from a phalanx of collaborators ranging from Kamasi Washington and Thundercat to Pharrell Williams and Boi-1da.<br /><br><i>To Pimp a Butterfly</i> is Kendrick’s <i>Guernica</i>—a timeless, powerful, and fascinating political statement—as well as one of the sharpest left turns in rap history. The year after the Grammy snub, <i>TPAB</i> elevated Kendrick from one of the best rappers in the game to one of the best artists of all time. And, surprise! It also won the Grammy for Best Rap Album. (Then he won another for 2017's <i>DAMN</i>, plus a Pulitzer for good measure). Despite the adage, sometimes you <i>do</i> remember who came in second. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 0602547311009 |

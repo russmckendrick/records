@@ -49,7 +49,10 @@ styles: ["Alternative Rock", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### St. Vincent - The Nowhere Inn (Official Video)
 {{< youtube id="KVLdVpG1Q0c" title="St. Vincent - The Nowhere Inn (Official Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Alternative Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Orange) |
 | Label          | Loma Vista |
 | Catalog Number | LVRO2343 |

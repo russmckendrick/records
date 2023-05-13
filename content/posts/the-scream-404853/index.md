@@ -40,9 +40,14 @@ styles: ["Post-Punk"]
 
 The Scream is the debut studio album by British rock band Siouxsie and the Banshees, released on 13 November 1978 by Polydor Records. The album is considered a landmark recording: its innovative combination of angular guitar with a bass-led rhythm and machine-like drums played mostly on toms, made it a pioneering work of the post-punk genre.
 The Scream was met with widespread acclaim and was hailed by critics as an original musical development in rock music. It has been cited as a key influence on a number of succeeding post-punk, noise rock and alternative rock acts, including Joy Division, Killing Joke, the Cure, Big Black, Sonic Youth, the Jesus and Mary Chain, Faith No More and Massive Attack.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-scream-deluxe/1412077263" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-scream-deluxe/1412077263" >}}<br>
+
+
 ## Videos
 ### Metal Postcard (Mittageisen)
 {{< youtube id="YL-HU1aDAlU" title="Metal Postcard (Mittageisen)" >}}<br>
@@ -55,8 +60,6 @@ The Scream was met with widespread acclaim and was hailed by critics as an origi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Scream_(album) |
-| Wikipedia Summary | The Scream is the debut studio album by British rock band Siouxsie and the Banshees, released on 13 November 1978 by Polydor Records. The album is considered a landmark recording: its innovative combination of angular guitar with a bass-led rhythm and machine-like drums played mostly on toms, made it a pioneering work of the post-punk genre.<br>The Scream was met with widespread acclaim and was hailed by critics as an original musical development in rock music. It has been cited as a key influence on a number of succeeding post-punk, noise rock and alternative rock acts, including Joy Division, Killing Joke, the Cure, Big Black, Sonic Youth, the Jesus and Mary Chain, Faith No More and Massive Attack. |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5009 |

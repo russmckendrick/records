@@ -37,7 +37,10 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation Limited Edition (Turquoise vinyl) |
 | Label          | Madfish |
 | Catalog Number | SMALP 1085 |

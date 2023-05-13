@@ -45,7 +45,10 @@ styles: ["Country"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Flesh and Blood
 {{< youtube id="X-CS-OT8Fco" title="Flesh and Blood" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Record Store Day Compilation |
 | Label          | Columbia |
 | Catalog Number | 88875195531 |

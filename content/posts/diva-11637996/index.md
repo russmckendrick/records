@@ -40,9 +40,14 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 <!-- section break -->
 
 Diva is the debut solo studio album by Scottish singer Annie Lennox, released on 6 April 1992 by RCA Records. The album entered the UK Albums Chart at number one and has since sold over 1.2 million copies in the UK alone, being certified quadruple platinum. In the United States, it reached number 23 on the Billboard 200 and has been certified double platinum. Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. The album received nominations for Album of the Year, Best Female Pop Vocal Performance and Best Long Form Music Video, winning the latter award at the Grammy Awards the same year.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/diva/258646635" >}}
+{{< applemusic url="https://music.apple.com/gb/album/diva/258646635" >}}<br>
+
+
 ## Videos
 ### Annie Lennox - Why (Official Music Video)
 {{< youtube id="HG7I4oniOyA" title="Annie Lennox - Why (Official Music Video)" >}}<br>
@@ -66,8 +71,6 @@ Diva is the debut solo studio album by Scottish singer Annie Lennox, released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Diva_(Annie_Lennox_album) |
-| Wikipedia Summary | Diva is the debut solo studio album by Scottish singer Annie Lennox, released on 6 April 1992 by RCA Records. The album entered the UK Albums Chart at number one and has since sold over 1.2 million copies in the UK alone, being certified quadruple platinum. In the United States, it reached number 23 on the Billboard 200 and has been certified double platinum. Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. The album received nominations for Album of the Year, Best Female Pop Vocal Performance and Best Long Form Music Video, winning the latter award at the Grammy Awards the same year. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | RCA |
 | Catalog Number | 88985419511 |

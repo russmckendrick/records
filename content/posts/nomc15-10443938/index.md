@@ -57,9 +57,12 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nomc15-live/1296071973" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nomc15-live/1296071973" >}}<br>
+
+
 
 
 ## Release Images
@@ -68,7 +71,6 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Album Limited Edition (Clear, 180g) |
 | Label          | Live Here Now |
 | Catalog Number | LHN018LP |

@@ -33,9 +33,12 @@ styles: ["Pop Rock", "Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-great-when-youre-straight-yeah/1442232066" >}}
+{{< applemusic url="https://music.apple.com/gb/album/its-great-when-youre-straight-yeah/1442232066" >}}<br>
+
+
 ## Videos
 ### Black Grape - In the Name of the Father
 {{< youtube id="2_zaLwdbQYU" title="Black Grape - In the Name of the Father" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Pop Rock", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Radioactive |
 | Catalog Number | 5373030 |

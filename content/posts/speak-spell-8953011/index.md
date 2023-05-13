@@ -43,9 +43,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/speak-and-spell-deluxe/665412305" >}}
+{{< applemusic url="https://music.apple.com/gb/album/speak-and-spell-deluxe/665412305" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Mute |
 | Catalog Number | STUMM5 |

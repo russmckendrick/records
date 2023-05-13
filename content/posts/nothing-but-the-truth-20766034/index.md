@@ -55,9 +55,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-truth/1579363537" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-truth/1579363537" >}}<br>
+
+
 ## Videos
 ### Versions of the Truth (Nothing But The Truth)
 {{< youtube id="wN2UoQLf-so" title="Versions of the Truth (Nothing But The Truth)" >}}<br>
@@ -87,7 +90,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1136 |

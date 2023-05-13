@@ -39,9 +39,15 @@ styles: ["Ska", "Punk"]
 <!-- section break -->
 
 With <i>Truth and Soul</i>, Fishbone certified their status as some of the most important, freethinking artists of the alt-rock era, the band your favorite band talked about. With their album-opening cover of Curtis Mayfield's soulful lament "Freddie's Dead," they define and transcend black music's past; with "Bonin' In the Boneyard," they lay the impossibly funky foundation for its future. "Ghetto Soundwave" and "Change" close this uproarious masterpiece with a pair of streetwise, socially conscious anthems that call for unity among the tribes.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/truth-and-soul/196393427" >}}
+{{< applemusic url="https://music.apple.com/gb/album/truth-and-soul/196393427" >}}<br>
+
+
 ## Videos
 ### Fishbone - Ghetto Soundwave
 {{< youtube id="HC0buvIyOkE" title="Fishbone - Ghetto Soundwave" >}}<br>
@@ -63,8 +69,6 @@ With <i>Truth and Soul</i>, Fishbone certified their status as some of the most 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Truth_and_Soul |
-| Wikipedia Summary | Truth and Soul is the second studio album by American rock band Fishbone. It was released on September 13, 1988. As is typical of the band's history of music the album features a wide array of genres including punk, ska, reggae, soul, funk, and blues. Additionally, Truth and Soul includes the band's earliest foray into hard rock and heavy metal. The album begins with a cover version of Curtis Mayfield's "Freddie's Dead", originally from the soundtrack to the film Super Fly. |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Numbered Reissue (Red Translucent, 35th Anniversary) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP606 |

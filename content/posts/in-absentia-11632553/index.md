@@ -53,9 +53,14 @@ styles: ["Alternative Rock"]
 In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-absentia/1581760123" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-absentia/1581760123" >}}<br>
+
+
 ## Videos
 ### Porcupine Tree - In Absentia
 {{< youtube id="U8sfqB0J7i4" title="Porcupine Tree - In Absentia" >}}<br>
@@ -75,8 +80,6 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Absentia |
-| Wikipedia Summary | In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE981 |

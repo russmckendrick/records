@@ -35,9 +35,14 @@ styles: ["Soundtrack"]
 <!-- section break -->
 
 The Italian Job is the soundtrack to the 1969 film which was composed and arranged by Quincy Jones and released on the Paramount label.The lyrics to "On Days Like These" and "Getta Bloomin' Move On! (The Self Preservation Society)" were written by Don Black. "Getta Bloomin' Move On! (The Self Preservation Society)" was the closing theme of the film and was performed by members of the cast; the lyrics feature Cockney rhyming slang. Many incidental themes are based on English patriotic songs, such as "Rule, Britannia!", "The British Grenadiers" and "God Save the Queen".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-italian-job-original-soundtrack/1443280326" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-italian-job-original-soundtrack/1443280326" >}}<br>
+
+
 ## Videos
 ### Quincy Jones - On Days Like These (The Italian Job)
 {{< youtube id="6AW-PaaHS1c" title="Quincy Jones - On Days Like These (The Italian Job)" >}}<br>
@@ -56,8 +61,6 @@ The Italian Job is the soundtrack to the 1969 film which was composed and arrang
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Italian_Job_(soundtrack) |
-| Wikipedia Summary | The Italian Job is the soundtrack to the 1969 film which was composed and arranged by Quincy Jones and released on the Paramount label.The lyrics to "On Days Like These" and "Getta Bloomin' Move On! (The Self Preservation Society)" were written by Don Black. "Getta Bloomin' Move On! (The Self Preservation Society)" was the closing theme of the film and was performed by members of the cast; the lyrics feature Cockney rhyming slang. Many incidental themes are based on English patriotic songs, such as "Rule, Britannia!", "The British Grenadiers" and "God Save the Queen". |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Reissue |
 | Label          | Paramount Records |
 | Catalog Number | SPFL 256 |

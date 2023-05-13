@@ -56,9 +56,14 @@ styles: []
 <!-- section break -->
 
 Up (2002) is the seventh studio and 13th album overall released by the English rock musician Peter Gabriel. It is his most recent full-length studio album of new original material to date, as the subsequent albums Scratch My Back and New Blood feature covers of other artists' songs, and orchestral renderings of Gabriel's older material, respectively.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/up/987441376" >}}
+{{< applemusic url="https://music.apple.com/gb/album/up/987441376" >}}<br>
+
+
 
 
 ## Release Images
@@ -68,8 +73,6 @@ Up (2002) is the seventh studio and 13th album overall released by the English r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Up_(Peter_Gabriel_album) |
-| Wikipedia Summary | Up (2002) is the seventh studio and 13th album overall released by the English rock musician Peter Gabriel. It is his most recent full-length studio album of new original material to date, as the subsequent albums Scratch My Back and New Blood feature covers of other artists' songs, and orchestral renderings of Gabriel's older material, respectively. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR11 |

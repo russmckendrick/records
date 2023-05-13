@@ -37,9 +37,12 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/changesnowbowie/1505418271" >}}
+{{< applemusic url="https://music.apple.com/gb/album/changesnowbowie/1505418271" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295332747 |

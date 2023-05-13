@@ -36,7 +36,10 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014
 {{< youtube id="WJbw8dobg0c" title="Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Sudarshan Disc |
 | Catalog Number | BBT 111 |

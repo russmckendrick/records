@@ -41,9 +41,15 @@ Pretty Hate Machine is the debut studio album by American industrial rock band N
 Trent Reznor and English producer Flood, among other contributors.
 The album features a heavily synth-driven electronic sound blended with industrial and rock elements. Much like the band's later work, the album's lyrics contain themes of angst, betrayal, and lovesickness. The record was promoted with the singles "Down in It", "Head Like a Hole", and "Sin", as well as the accompanying tour. A remastered edition was released in 2010.
 Although the record was successful, reaching No. 75 in the US and receiving highly favorable reviews from critics, Reznor (the band's only official member until 2016) feuded with TVT over promotion of the album, which led him to eventually sign with Interscope Records. Pretty Hate Machine was later certified triple-platinum by RIAA, becoming one of the first independently released albums to do so, and was included on several lists of the best releases of the 1980s. In 2020, Rolling Stone ranked Pretty Hate Machine at number 453 on its "500 Greatest Albums of All Time" list.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pretty-hate-machine-remastered/1440940694" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pretty-hate-machine-remastered/1440940694" >}}<br>
+
+
 ## Videos
 ### Head Like A Hole
 {{< youtube id="ghIRu6UvQPc" title="Head Like A Hole" >}}<br>
@@ -69,8 +75,6 @@ Although the record was successful, reaching No. 75 in the US and receiving high
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pretty_Hate_Machine |
-| Apple Music Summary | After Trent Reznor came storming out of the darkness with this explosive 1989 debut, industrial music would never be the same. Nine Inch Nails' mastermind moans and growls over a brilliantly messy clatter of synths, guitars, drum machines, and samples, unleashing his rage and dread through the crunchy rock grind of "Head Like a Hole" and the punchy synth-pop of "Terrible Lie." He then scrapes rock bottom with haunting piano dirge "Something I Can Never Have" before seeking catharsis in the sticky, funked-up "The Only Time." |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | UMe |
 | Catalog Number | B0015767-01 |

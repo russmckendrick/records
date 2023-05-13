@@ -56,9 +56,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-best-of-pixies/1025318588" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-best-of-pixies/1025318588" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,7 +70,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Compilation Album |
 | Label          | 4AD |
 | Catalog Number | CAD 2406 |

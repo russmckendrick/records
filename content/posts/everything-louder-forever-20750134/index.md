@@ -90,9 +90,12 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-louder-forever-the-very-best-of-deluxe-edition/1591621148" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-louder-forever-the-very-best-of-deluxe-edition/1591621148" >}}<br>
+
+
 ## Videos
 ### Motörhead – Ace Of Spades (Official Video)
 {{< youtube id="3mbvWn1EY6g" title="Motörhead – Ace Of Spades (Official Video)" >}}<br>
@@ -122,7 +125,6 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 4× LP Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT522QLP |

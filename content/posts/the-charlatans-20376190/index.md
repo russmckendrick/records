@@ -50,9 +50,14 @@ styles: ["Britpop", "Indie Rock"]
 <!-- section break -->
 
 This is a discography by the indie British rock band The Charlatans.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-charlatans/1136815128" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-charlatans/1136815128" >}}<br>
+
+
 ## Videos
 ### THE CHARLATANS - Bullet comes
 {{< youtube id="ogFE4t2eyqw" title="THE CHARLATANS - Bullet comes" >}}<br>
@@ -72,8 +77,6 @@ This is a discography by the indie British rock band The Charlatans.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Charlatans_discography |
-| Wikipedia Summary | This is a discography by the indie British rock band The Charlatans. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Yellow Marbled) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBL 174 LP2 |

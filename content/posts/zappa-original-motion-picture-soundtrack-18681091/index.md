@@ -56,9 +56,12 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/zappa-original-motion-picture-soundtrack/1540380239" >}}
+{{< applemusic url="https://music.apple.com/gb/album/zappa-original-motion-picture-soundtrack/1540380239" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,7 +70,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album (180g, Crystal Clear) |
 | Label          | Zappa Records |
 | Catalog Number | ZR20035-1C |

@@ -46,9 +46,12 @@ styles: ["Space Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/trippin-with-dr-faustus/1235100150" >}}
+{{< applemusic url="https://music.apple.com/gb/album/trippin-with-dr-faustus/1235100150" >}}<br>
+
+
 ## Videos
 ### Amplifier - Rainbow Machine
 {{< youtube id="TE4KCRZI2tg" title="Amplifier - Rainbow Machine" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Space Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (Clear) |
 | Label          | Rockosmos |
 | Catalog Number | ROK 16 |

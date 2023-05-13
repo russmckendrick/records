@@ -62,9 +62,14 @@ styles: ["Alternative Rock", "Gospel"]
 The Light the Dead See is the fourth full-length studio album from English electronica production duo Soulsavers, released by V2 Records in the UK on 21 May 2012, and by Mute in the US on 22 May 2012. The album title comes from a poem by Frank Stanford. The album is a collaboration with Dave Gahan, the frontman of Depeche Mode, as guest vocalist. Gahan sings and wrote the lyrics on all non-instrumental songs on the album.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-light-the-dead-see/671788459" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-light-the-dead-see/671788459" >}}<br>
+
+
 ## Videos
 ### Soulsavers - 'Take Me Back Home'
 {{< youtube id="v85gICtpVjw" title="Soulsavers - 'Take Me Back Home'" >}}<br>
@@ -83,8 +88,6 @@ The Light the Dead See is the fourth full-length studio album from English elect
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Light_the_Dead_See |
-| Wikipedia Summary | The Light the Dead See is the fourth full-length studio album from English electronica production duo Soulsavers, released by V2 Records in the UK on 21 May 2012, and by Mute in the US on 22 May 2012. The album title comes from a poem by Frank Stanford. The album is a collaboration with Dave Gahan, the frontman of Depeche Mode, as guest vocalist. Gahan sings and wrote the lyrics on all non-instrumental songs on the album.<br><br> |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | V2 |
 | Catalog Number | VVR797363 |

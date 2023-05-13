@@ -44,9 +44,15 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 Curt Smith and Roland Orzabal’s MTV-era breakthrough is a tour de force of New Wave's possibilities. They tip toward prog on the surging "Broken" and indulge in piano-led balladry on the spare "I Believe." The album is also a vehicle for some of the '80s' most inspired singles: On "Shout," with its indelible hook and vivid digital production, and the open-road anthem "Everybody Wants to Rule the World," they put their big-tent aspirations front and center, while the majestic "Head Over Heels / Broken" confirms their place atop the arena-pop throne.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/songs-from-the-big-chair/1440813508" >}}
+{{< applemusic url="https://music.apple.com/gb/album/songs-from-the-big-chair/1440813508" >}}<br>
+
+
 
 
 ## Release Images
@@ -56,8 +62,6 @@ Curt Smith and Roland Orzabal’s MTV-era breakthrough is a tour de force of New
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_from_the_Big_Chair |
-| Wikipedia Summary | Songs from the Big Chair is the second studio album by English pop rock band Tears for Fears, released on 25 February 1985 by Phonogram Records. The album peaked at number two in the UK and at number one in the U.S., becoming a multi-platinum seller and the band's most successful studio album to date. Songs from the Big Chair spawned the commercially successful singles "Mothers Talk", "Shout", "Everybody Wants to Rule the World", "Head over Heels" and "I Believe". |
-    | Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mercury |
 | Catalog Number | MERH 58 |

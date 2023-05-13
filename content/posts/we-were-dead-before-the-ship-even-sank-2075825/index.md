@@ -54,9 +54,15 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 We Were Dead Before the Ship Even Sank is the fifth studio album by American alternative rock band Modest Mouse, released in 2007. It followed their previous studio album, 2004's Good News for People Who Love Bad News. It is the band's only full-length with former Smiths guitarist Johnny Marr as a member. It is also their last with founding member and bassist Eric Judy.  It has a strong nautical theme and was originally envisioned as a concept album about a boat crew that dies in every song.This album was certified Gold by the RIAA on June 11, 2009. As of February 2015, it has sold 649,000 copies in the US.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-were-dead-before-the-ship-even-sank/216544035" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we-were-dead-before-the-ship-even-sank/216544035" >}}<br>
+
+
 ## Videos
 ### Modest Mouse - Missed the Boat (Contest Video)
 {{< youtube id="O4XskfT6vNY" title="Modest Mouse - Missed the Boat (Contest Video)" >}}<br>
@@ -78,8 +84,6 @@ We Were Dead Before the Ship Even Sank is the fifth studio album by American alt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Were_Dead_Before_the_Ship_Even_Sank |
-| Apple Music Summary | <i>We Were Dead Before the Ship Even Sank</i> is a gripping and satisfying recording, with skittering tempos, jerky rhythms, and delightful surprises around every quirky corner. Lead singer, guitarist, and gifted songwriter Isaac Brock sounds positively manic on the clattering “March Into the Sea.” A notable addition to the band on this recording is former Smiths guitarist Johnny Marr, whose chiming, lyrical style meshes beautifully with Brock’s jagged and idiosyncratic playing.  |
-    | Release Year   | 2007                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 82876 86139 1 |

@@ -40,9 +40,12 @@ styles: ["Ambient", "Electro"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/oxygene-3/1163143402" >}}
+{{< applemusic url="https://music.apple.com/gb/album/oxygene-3/1163143402" >}}<br>
+
+
 ## Videos
 ### Jean-Michel Jarre - Oxygene 3 [Full Album Stream]
 {{< youtube id="j9HKhcM0kzo" title="Jean-Michel Jarre - Oxygene 3 [Full Album Stream]" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Ambient", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (Translucent) |
 | Label          | Columbia |
 | Catalog Number | 88985361881 |

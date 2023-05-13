@@ -37,9 +37,12 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/west-coast-vs-wessex/1511829717" >}}
+{{< applemusic url="https://music.apple.com/gb/album/west-coast-vs-wessex/1511829717" >}}<br>
+
+
 ## Videos
 ### Eat the Meek
 {{< youtube id="Qiaaf0D3PoM" title="Eat the Meek" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP 45 RPM Album |
 | Label          | Fat Wreck Chords |
 | Catalog Number | FAT137-1 |

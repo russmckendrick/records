@@ -47,9 +47,14 @@ styles: ["Acoustic", "Alternative Rock", "Ballad"]
 <!-- section break -->
 
 Native Invader is the fifteenth studio album (twelfth of entirely original material) by American singer-songwriter Tori Amos. It was released on September 8, 2017, through Decca Records. Its lead single, "Cloud Riders", was released on July 27, 2017.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/native-invader-deluxe/1440657862" >}}
+{{< applemusic url="https://music.apple.com/gb/album/native-invader-deluxe/1440657862" >}}<br>
+
+
 ## Videos
 ### Tori Amos - Reindeer King (Audio)
 {{< youtube id="ub0yooZAGOA" title="Tori Amos - Reindeer King (Audio)" >}}<br>
@@ -64,8 +69,6 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Native_Invader |
-| Wikipedia Summary | Native Invader is the fifteenth studio album (twelfth of entirely original material) by American singer-songwriter Tori Amos. It was released on September 8, 2017, through Decca Records. Its lead single, "Cloud Riders", was released on July 27, 2017. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Decca |
 | Catalog Number | 00028948155880 |

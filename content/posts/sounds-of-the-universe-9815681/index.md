@@ -52,9 +52,14 @@ Sounds of the Universe is the twelfth studio album by English electronic music b
 The album was released by Virgin Records and Capitol Records in the United States and by EMI in Canada and Mexico, marking the first time in the band's catalog that saw distribution from EMI within North America, where previous albums were released by Sire Records and Reprise Records, both divisions of Warner Music Group.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,8 +69,6 @@ The album was released by Virgin Records and Capitol Records in the United State
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sounds_of_the_Universe |
-| Wikipedia Summary | Sounds of the Universe is the twelfth studio album by English electronic music band Depeche Mode, released on 17 April 2009 by Mute Records. The album was supported by the 2009–2010 concert tour Tour of the Universe. Three singles were released from the album: "Wrong", "Peace", and a double A-side of "Fragile Tension" and "Hole to Feed". "Perfect" was also released in the United States as a promotional single.<br>The album was released by Virgin Records and Capitol Records in the United States and by EMI in Canada and Mexico, marking the first time in the band's catalog that saw distribution from EMI within North America, where previous albums were released by Sire Records and Reprise Records, both divisions of Warner Music Group.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985337031 |

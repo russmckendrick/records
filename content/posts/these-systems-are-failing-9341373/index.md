@@ -39,9 +39,14 @@ styles: ["New Wave", "Post-Punk", "Punk"]
 <!-- section break -->
 
 These Systems Are Failing is the thirteenth studio album by American electronica musician Moby and the debut studio album by Moby & The Void Pacific Choir, a musical project formed by Moby with musicians Mindy Jones, Julie Mintz, Joel Nesvadba, Jamie Drake, Jonathan Nesvadba, and Lauren Tyler Scott. It was released on October 14, 2016 by record labels Little Idiot and Mute.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/these-systems-are-failing/1160876308" >}}
+{{< applemusic url="https://music.apple.com/gb/album/these-systems-are-failing/1160876308" >}}<br>
+
+
 ## Videos
 ### Moby & The Void Pacific Choir - And It Hurts
 {{< youtube id="_-hVE_9W0bw" title="Moby & The Void Pacific Choir - And It Hurts" >}}<br>
@@ -64,8 +69,6 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/These_Systems_Are_Failing |
-| Wikipedia Summary | These Systems Are Failing is the thirteenth studio album by American electronica musician Moby and the debut studio album by Moby & The Void Pacific Choir, a musical project formed by Moby with musicians Mindy Jones, Julie Mintz, Joel Nesvadba, Jamie Drake, Jonathan Nesvadba, and Lauren Tyler Scott. It was released on October 14, 2016 by record labels Little Idiot and Mute. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT049LP |

@@ -1,7 +1,8 @@
 ---
 title: "The XX"
-summary: "**The xx** ** are an English indie pop band from Wandsworth, London, formed in 2005. - vocals, guitar - vocals, bass - beats, production, keyboards On November 11, 2009 it was officially announced that was no longer part of the band citing exhaustion and personal differences."
+summary: "The xx are an English indie rock band from Wandsworth, London, formed in 2005. The band consists of Romy Madley Croft , Oliver Sim , Jamie Smith, also known as Jamie xx , and formerly Baria Qureshi . They are known for their distinct and minimalist sound that blends indie rock, indie electronic, indie pop, dream pop and electro-rock and the dual vocalist setup of both Croft and Sim. Their music employs soft, echoed guitar, prominent bass, light electronic beats and ambient soundscape backgrounds.
+The band was formed when Croft and Sim met during their time at Elliott School, with Baria Qureshi joining the same year and Smith a year later. After posting demos on their Myspace page, they drew the attention of the Beggars Group-owned label Young Turks . Working with producer Rodaidh McDonald, the band released their debut album, xx, in August 2009. The album was a commercial and critical success, reaching number three on the UK Albums Chart, ranking first for The Guardian's and second for NME's best of the year lists among others, and winning the Mercury Prize in 2010. After their debut, Qureshi left the group and their second album, Coexist, was released on 5 September 2012 to positive reviews, reaching number one in the UK and number five on the Billboard 200. After a four-year lapse between releases, including Smith's solo debut in 2015, In Colour, the band released their third album, I See You, on 13 January 2017, which debuted to critical acclaim and peaked at number one in the UK and number two on the Billboard 200."
 image: "the-xx.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-xx/315473044"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_xx"
 ---

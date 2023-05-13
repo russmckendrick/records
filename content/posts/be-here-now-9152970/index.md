@@ -50,9 +50,15 @@ Be Here Now is the third studio album by English rock band Oasis, released on 21
 Following the worldwide success of their first two albums, Definitely Maybe (1994) and (What's the Story) Morning Glory? (1995), the album was highly anticipated. Oasis' management company, Ignition, were aware of the dangers of overexposure, and before release sought to control media access to the album. The campaign included limiting pre-release radio airplay and forcing journalists to sign gag orders. The tactics alienated the press and many industry personnel connected with the band and fuelled large-scale speculation and publicity within the British music scene.
 Preceded by the lead single "D'You Know What I Mean?", Be Here Now was an instant commercial success, becoming the fastest-selling album in British chart history and topping the albums chart in 15 countries. It was the biggest selling album of 1997 in the UK, with 1.47 million units sold that year. As of 2016, the album has sold eight million copies worldwide. It has been certified 6× Platinum in the UK and Platinum in the US, being Oasis' third and final Platinum album in the country.
 According to co-producer Owen Morris, the recording sessions were marred by arguments and drug abuse, and the band's only motivations were commercial. While initial reception for Be Here Now was overwhelmingly positive, retrospective reviews have been more negative, with many calling it bloated and over-produced. The band members have had differing views of the album, with Noel severely criticising it and Liam Gallagher highly praising it and even declaring it as his favourite Oasis album in a 2017 interview. Critic Jon Savage would later pinpoint the album as the end of the Britpop movement. In 2016, the album was reissued with bonus tracks, including a new remix of "D'You Know What I Mean?".
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/be-here-now-deluxe-remastered-edition/1523139329" >}}
+{{< applemusic url="https://music.apple.com/gb/album/be-here-now-deluxe-remastered-edition/1523139329" >}}<br>
+
+
 ## Videos
 ### Be Here Now
 {{< youtube id="vn-X88PgIaU" title="Be Here Now" >}}<br>
@@ -65,8 +71,6 @@ According to co-producer Owen Morris, the recording sessions were marred by argu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Be_Here_Now_(album) |
-| Apple Music Summary | How do you react to becoming the UK’s biggest rock band? Just get bigger and bolder. From “D’ You Know What I Mean?”’s filmic psych and string-drenched weepy “Don’t Go Away” to “All Around the World”’s 36-piece orchestra and escalating key changes, everything on Oasis’s third album is rendered in epic scale. Sharp melodies and Liam’s serrated vocal penetrate the rich production to stop it becoming cloying and, for all the grandeur, “My Big Mouth” and “It’s Gettin’ Better (Man!!)” crackle with the feral energy that made Oasis so thrilling in the first place. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP85 |

@@ -55,9 +55,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
 The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1442516060" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1442516060" >}}<br>
+
+
 ## Videos
 ### Ian Brown - F.E.A.R.
 {{< youtube id="8f8wAXDZ9D0" title="Ian Brown - F.E.A.R." >}}<br>
@@ -76,8 +81,6 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_(Ian_Brown_album) |
-| Wikipedia Summary | The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.<br>The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging. |
-| Release Year   | 2005                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Polydor |
 | Catalog Number | 987 289-0 |

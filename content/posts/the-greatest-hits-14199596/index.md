@@ -63,9 +63,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/la-thunder-covers-the-greatest-hits-of-led-zeppelin-box-set/991469744" >}}
+{{< applemusic url="https://music.apple.com/gb/album/la-thunder-covers-the-greatest-hits-of-led-zeppelin-box-set/991469744" >}}<br>
+
+
 ## Videos
 ### Thunder – She’s So Fine (Official Video)
 {{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 3× LP Compilation Limited Edition Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT386TLP |

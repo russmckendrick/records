@@ -56,9 +56,14 @@ The Very Best is a greatest hits album released by Australian band INXS in 2011.
 Following the screening of INXS: Never Tear Us Apart, an Australian miniseries about INXS that commenced on 9 February 2014 on the Seven Network, the album re-entered the charts, peaking at number one. When the miniseries screened in New Zealand in August 2014, the album also charted, similarly peaking at number one.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best/1440521939" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best/1440521939" >}}<br>
+
+
 
 
 ## Release Images
@@ -68,8 +73,6 @@ Following the screening of INXS: Never Tear Us Apart, an Australian miniseries a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Best_(INXS_album) |
-| Wikipedia Summary | The Very Best is a greatest hits album released by Australian band INXS in 2011. It initially peaked at number 39.<br>Following the screening of INXS: Never Tear Us Apart, an Australian miniseries about INXS that commenced on 9 February 2014 on the Seven Network, the album re-entered the charts, peaking at number one. When the miniseries screened in New Zealand in August 2014, the album also charted, similarly peaking at number one.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Universal Music Group |
 | Catalog Number | 0602557887068 |

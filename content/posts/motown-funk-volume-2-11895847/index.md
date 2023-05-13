@@ -47,7 +47,10 @@ styles: ["Funk", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Bottom & Company - Gonna Find A True Love
 {{< youtube id="_MYJV-4rTpI" title="Bottom & Company - Gonna Find A True Love" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Funk", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation (Yellow Translucent) |
 | Label          | UMC |
 | Catalog Number | 5381363 |

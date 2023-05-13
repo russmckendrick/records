@@ -35,9 +35,14 @@ styles: ["Indie Rock"]
 
 The Great Eastern is the third studio album by Scottish indie rock band The Delgados. It was released on 17 April 2000 in the United Kingdom on their own Chemikal Underground record label, and later on 9 May 2000 in the United States.
 The Great Eastern was their first album not to be named after a cycling theme – the title refers to a textile mill in Glasgow, latterly a hostel for the homeless.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-great-eastern/121333037" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-great-eastern/121333037" >}}<br>
+
+
 ## Videos
 ### The Delgados - The Past That Suits You Best
 {{< youtube id="HJpvtbPqDu8" title="The Delgados - The Past That Suits You Best" >}}<br>
@@ -57,8 +62,6 @@ The Great Eastern was their first album not to be named after a cycling theme �
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Great_Eastern_(album) |
-| Wikipedia Summary | The Great Eastern is the third studio album by Scottish indie rock band The Delgados. It was released on 17 April 2000 in the United Kingdom on their own Chemikal Underground record label, and later on 9 May 2000 in the United States.<br>The Great Eastern was their first album not to be named after a cycling theme – the title refers to a textile mill in Glasgow, latterly a hostel for the homeless. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Reissue |
 | Label          | Chemikal Underground Ltd. |
 | Catalog Number | CHEM226 |

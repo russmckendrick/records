@@ -48,7 +48,10 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### She Sells Sanctuary
 {{< youtube id="cQS4TzB0EvU" title="She Sells Sanctuary" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Remastered Reissue Compilation (Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2026 |

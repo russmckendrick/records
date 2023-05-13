@@ -62,9 +62,14 @@ styles: ["Alternative Rock", "Pop Rock"]
 Anthology is a greatest hits album by Scottish/American rock band Garbage, released on October 28, 2022 through Stunvolume and BMG. It is the band's third overall and second international greatest hits album. The album includes remastered versions of 35 tracks, among hit singles and fan favourites, as well as rare track "Witness to Your Love", a song recorded in 2008 for inclusion in the Give Listen Help charity compilation. 
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/anthology/1655672474" >}}
+{{< applemusic url="https://music.apple.com/gb/album/anthology/1655672474" >}}<br>
+
+
 
 
 ## Release Images
@@ -74,8 +79,6 @@ Anthology is a greatest hits album by Scottish/American rock band Garbage, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Anthology_(Garbage_album) |
-| Wikipedia Summary | Anthology is a greatest hits album by Scottish/American rock band Garbage, released on October 28, 2022 through Stunvolume and BMG. It is the band's third overall and second international greatest hits album. The album includes remastered versions of 35 tracks, among hit singles and fan favourites, as well as rare track "Witness to Your Love", a song recorded in 2008 for inclusion in the Give Listen Help charity compilation. <br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Yellow Translucent) |
 | Label          | Stun Volume |
 | Catalog Number | BMGCAT585CLP |

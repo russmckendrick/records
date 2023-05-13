@@ -77,7 +77,10 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Jane's Addiction - Mountain Song (Official Video)
 {{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}<br>
@@ -105,7 +108,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album (Gatefold), Box Set Compilation Limited Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 556516 |

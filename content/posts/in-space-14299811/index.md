@@ -41,7 +41,10 @@ styles: ["Power Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue (Blue, Translucent) |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-338 |

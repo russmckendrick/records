@@ -51,9 +51,12 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scratched-unreleased-rare-tracks-remixes/1344026834" >}}
+{{< applemusic url="https://music.apple.com/gb/album/scratched-unreleased-rare-tracks-remixes/1344026834" >}}<br>
+
+
 ## Videos
 ### Jesus Jones - Starting From Scratch
 {{< youtube id="xBrqzeyZtgc" title="Jesus Jones - Starting From Scratch" >}}<br>
@@ -85,7 +88,6 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Blue & Yellow Marbled) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC985 |

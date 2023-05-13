@@ -44,9 +44,14 @@ styles: ["Pop Rock"]
 
 Different Light is the second studio album by American pop rock band the Bangles, released in January 1986. The album's Top 40 sound was a departure from their earlier 1960s-style rock'n'roll sound. It is their most successful album, reaching number two on the Billboard 200 and producing five charting singles, including the Billboard top two hits "Manic Monday" and "Walk Like an Egyptian". It is also the first album in which bassist Michael Steele sings lead vocals on some tracks.
 The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus track: "Walk Like an Egyptian (Extended Dance Mix)".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/different-light-deluxe-edition/397587066" >}}
+{{< applemusic url="https://music.apple.com/gb/album/different-light-deluxe-edition/397587066" >}}<br>
+
+
 ## Videos
 ### The Bangles - Manic Monday
 {{< youtube id="SsmVgoXDq2w" title="The Bangles - Manic Monday" >}}<br>
@@ -63,8 +68,6 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Different_Light |
-| Wikipedia Summary | Different Light is the second studio album by American pop rock band the Bangles, released in January 1986. The album's Top 40 sound was a departure from their earlier 1960s-style rock'n'roll sound. It is their most successful album, reaching number two on the Billboard 200 and producing five charting singles, including the Billboard top two hits "Manic Monday" and "Walk Like an Egyptian". It is also the first album in which bassist Michael Steele sings lead vocals on some tracks.<br>The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus track: "Walk Like an Egyptian (Extended Dance Mix)". |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Pink & Purple Marbled) |
 | Label          | Columbia |
 | Catalog Number | MOVLP2678 |

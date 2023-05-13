@@ -39,9 +39,14 @@ styles: ["Soul-Jazz", "Soul"]
 "Stay Awhile" is a song originally recorded by Dusty Springfield in 1964.  It was the second single from her LP, Stay Awhile/I Only Want to Be with You. It became a top 20 hit in the United Kingdom, and reached the top 40 in Australia and the U.S.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stay-awhile-i-only-want-to-be-with-you/1436881148" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stay-awhile-i-only-want-to-be-with-you/1436881148" >}}<br>
+
+
 ## Videos
 ### Stay Awhile
 {{< youtube id="pGB3WljqzmE" title="Stay Awhile" >}}<br>
@@ -64,8 +69,6 @@ styles: ["Soul-Jazz", "Soul"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stay_Awhile_(Dusty_Springfield_song) |
-| Wikipedia Summary | "Stay Awhile" is a song originally recorded by Dusty Springfield in 1964.  It was the second single from her LP, Stay Awhile/I Only Want to Be with You. It became a top 20 hit in the United Kingdom, and reached the top 40 in Australia and the U.S.<br><br> |
-| Release Year   | 1969                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Wing Records |
 | Catalog Number | WL.1211, WL 1211 |

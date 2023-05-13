@@ -32,9 +32,12 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/home/1501400140" >}}
+{{< applemusic url="https://music.apple.com/gb/album/home/1501400140" >}}<br>
+
+
 ## Videos
 ### KOJ - Home (Official Video)
 {{< youtube id="Y0D2FA0Po1Y" title="KOJ - Home (Official Video)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Long Branch Records |
 | Catalog Number | SPV 289221 LP |

@@ -45,9 +45,12 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/last-patrol/1184723168" >}}
+{{< applemusic url="https://music.apple.com/gb/album/last-patrol/1184723168" >}}<br>
+
+
 ## Videos
 ### Monster Magnet - Three Kingfishers
 {{< youtube id="1dt-XS9Ez5k" title="Monster Magnet - Three Kingfishers" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Spinning Goblin Productions |
 | Catalog Number | NPR 490 LP |

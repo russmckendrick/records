@@ -50,9 +50,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-faces-good-boys-when-theyre-asleep/56208331" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-faces-good-boys-when-theyre-asleep/56208331" >}}<br>
+
+
 ## Videos
 ### FACES   Flying 1970
 {{< youtube id="C_nnu8NHhjA" title="FACES   Flying 1970" >}}<br>
@@ -64,7 +67,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1977                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Riva (2) |
 | Catalog Number | RVLP 3 |

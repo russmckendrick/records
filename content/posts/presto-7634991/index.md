@@ -46,9 +46,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 Though it was considered at the point of release to be a less keyboard-intensive effort, 1989's <i>Presto</i> is still relatively reliant on keyboards for the main thrust of the power trio's sound. Guitarist Alex Lifeson can be heard snarling more prominently, but he still waits in line behind Geddy Lee's impressive keyboard washes and drummer Neil Peart's exemplary drum accents. The ambient undertow of <i>Power Windows</i> and <i>Hold Your Fire</i> is muted but not completely wiped aside. The emphasis remains on the songwriting where the band's pop sense has often been overlooked in light of their instrumental abilities. "Show Don't Tell," "The Pass," and "Scars" are obvious standouts, luxuriating in melodic riches that have always been the band's secret, unsung weapon. Harmonies, lush landscapes and a devout indifference to trends remain at the core of the band's approach. Over the years, they've turned away from the elaborate extended works — no twenty-minute opuses here — for the pleasure that comes with delivering a well-edited point of view.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/presto-remastered/642203303" >}}
+{{< applemusic url="https://music.apple.com/gb/album/presto-remastered/642203303" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +62,6 @@ Though it was considered at the point of release to be a less keyboard-intensive
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Though it was considered at the point of release to be a less keyboard-intensive effort, 1989's <i>Presto</i> is still relatively reliant on keyboards for the main thrust of the power trio's sound. Guitarist Alex Lifeson can be heard snarling more prominently, but he still waits in line behind Geddy Lee's impressive keyboard washes and drummer Neil Peart's exemplary drum accents. The ambient undertow of <i>Power Windows</i> and <i>Hold Your Fire</i> is muted but not completely wiped aside. The emphasis remains on the songwriting where the band's pop sense has often been overlooked in light of their instrumental abilities. "Show Don't Tell," "The Pass," and "Scars" are obvious standouts, luxuriating in melodic riches that have always been the band's secret, unsung weapon. Harmonies, lush landscapes and a devout indifference to trends remain at the core of the band's approach. Over the years, they've turned away from the elaborate extended works — no twenty-minute opuses here — for the pleasure that comes with delivering a well-edited point of view. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1-83736 |

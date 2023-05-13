@@ -40,9 +40,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/too-rye-ay-as-it-should-have-sounded-2022/1631813034" >}}
+{{< applemusic url="https://music.apple.com/gb/album/too-rye-ay-as-it-should-have-sounded-2022/1631813034" >}}<br>
+
+
 ## Videos
 ### Too-Rye-Ay
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Green) |
 | Label          | Mercury |
 | Catalog Number | 388 570-2 |

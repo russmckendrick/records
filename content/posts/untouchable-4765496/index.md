@@ -39,9 +39,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/untouchable-pt-2-single/1238312364" >}}
+{{< applemusic url="https://music.apple.com/gb/album/untouchable-pt-2-single/1238312364" >}}<br>
+
+
 ## Videos
 ### ANATHEMA-UNIVERSAL
 {{< youtube id="-8Pk_WA-Q_Q" title="ANATHEMA-UNIVERSAL" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE843 |

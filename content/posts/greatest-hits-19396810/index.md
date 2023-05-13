@@ -55,9 +55,14 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1535128775" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1535128775" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,8 +72,6 @@ Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Thin_Lizzy_album) |
-| Wikipedia Summary | Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | UMC |
 | Catalog Number | 3559306 |

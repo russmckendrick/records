@@ -49,9 +49,12 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842" >}}
+{{< applemusic url="https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842" >}}<br>
+
+
 ## Videos
 ### DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)
 {{< youtube id="H45yG8FzpkQ" title="DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Remastered Stereo (180g), CD Album Remastered, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 586 |

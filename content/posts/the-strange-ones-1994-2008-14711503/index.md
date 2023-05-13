@@ -337,9 +337,12 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-strange-ones-1994-2008/1493585754" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-strange-ones-1994-2008/1493585754" >}}<br>
+
+
 ## Videos
 ### Strange Ones
 {{< youtube id="aJsVw_PyTGs" title="Strange Ones" >}}<br>
@@ -355,7 +358,6 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | CD 2× Compilation, CD 5×, CD 6× Album Reissue, Vinyl 6× LP Album Picture Disc Reissue (180 GMS), Vinyl 7" 45 RPM Single, Box Set Compilation Deluxe Edition Limited Edition |
 | Label          | BMG |
 | Catalog Number | BMGCAT377BOX |

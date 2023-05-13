@@ -47,9 +47,14 @@ styles: ["Indie Rock"]
 
 Liquid Skin is the second album by English rock band Gomez, released on 13 September 1999 by Hut Records. Following the release of their debut studio album Bring It On (1998), the band began recording its follow-up between August 1998 and June 1999 at Parr Street Studios in Liverpool, and Abbey Road Studios in London. The band were allowed to self-produce the sessions after their label heard the strength of their demos. Described as a blues rock album, Liquid Skin was compared to the work of Beck, the Grateful Dead, and Pearl Jam.
 Liquid Skin received generally favourable reviews from critics, many of whom found it to be a retread of Bring It On with improved production. Preceded by a two-month tour of the United States, "Bring It On" was released as the lead single from Liquid Skin on 28 June 1999. Gomez appeared at a number of festivals, prior to the release of the album's second single "Rhythm & Blues Alibi" on 30 August 1999. Coinciding with the release of Liquid Skin, the band embarked on tours of the US and the UK, which were then followed by its third single "We Haven't Turned Around" on 8 November 1999. All three singles reached the top 40 of the UK Singles Chart, with "Rhythm & Blues Alibi" peaking the highest at number 18.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/liquid-skin/724465168" >}}
+{{< applemusic url="https://music.apple.com/gb/album/liquid-skin/724465168" >}}<br>
+
+
 ## Videos
 ### Hangover (Remastered 2019)
 {{< youtube id="XPebxxCiZQk" title="Hangover (Remastered 2019)" >}}<br>
@@ -73,8 +78,6 @@ Liquid Skin received generally favourable reviews from critics, many of whom fou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Liquid_Skin |
-| Wikipedia Summary | Liquid Skin is the second album by English rock band Gomez, released on 13 September 1999 by Hut Records. Following the release of their debut studio album Bring It On (1998), the band began recording its follow-up between August 1998 and June 1999 at Parr Street Studios in Liverpool, and Abbey Road Studios in London. The band were allowed to self-produce the sessions after their label heard the strength of their demos. Described as a blues rock album, Liquid Skin was compared to the work of Beck, the Grateful Dead, and Pearl Jam.<br>Liquid Skin received generally favourable reviews from critics, many of whom found it to be a retread of Bring It On with improved production. Preceded by a two-month tour of the United States, "Bring It On" was released as the lead single from Liquid Skin on 28 June 1999. Gomez appeared at a number of festivals, prior to the release of the album's second single "Rhythm & Blues Alibi" on 30 August 1999. Coinciding with the release of Liquid Skin, the band embarked on tours of the US and the UK, which were then followed by its third single "We Haven't Turned Around" on 8 November 1999. All three singles reached the top 40 of the UK Singles Chart, with "Rhythm & Blues Alibi" peaking the highest at number 18. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Transparent, 180 Gram) |
 | Label          | UMC |
 | Catalog Number | 00602577534225 |

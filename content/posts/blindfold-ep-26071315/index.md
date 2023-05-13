@@ -35,7 +35,10 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Curve - Ten little girls
 {{< youtube id="ProMC3LB4PM" title="Curve - Ten little girls" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 12" EP Limited Edition Numbered (Red and black marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12030 |

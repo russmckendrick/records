@@ -57,9 +57,14 @@ styles: ["Progressive Metal"]
 <!-- section break -->
 
 Transcendence is the seventeenth studio album by Canadian musician Devin Townsend. It is the seventh and final album in the Devin Townsend Project series. It was released on September 9, 2016, via HevyDevy Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/transcendence-deluxe-edition/1138087195" >}}
+{{< applemusic url="https://music.apple.com/gb/album/transcendence-deluxe-edition/1138087195" >}}<br>
+
+
 ## Videos
 ### DEVIN TOWNSEND PROJECT - Stormbending (Album Track)
 {{< youtube id="8s9qh77gj6Y" title="DEVIN TOWNSEND PROJECT - Stormbending (Album Track)" >}}<br>
@@ -74,8 +79,6 @@ Transcendence is the seventeenth studio album by Canadian musician Devin Townsen
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Transcendence_(Devin_Townsend_Project_album) |
-| Wikipedia Summary | Transcendence is the seventeenth studio album by Canadian musician Devin Townsend. It is the seventh and final album in the Devin Townsend Project series. It was released on September 9, 2016, via HevyDevy Records. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP (Clear), Vinyl LP Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 462 |

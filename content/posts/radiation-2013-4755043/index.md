@@ -42,9 +42,12 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radiation-2013/1328434526" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radiation-2013/1328434526" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,7 +56,6 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue Remastered (180 gram, Blue Translucent) |
 | Label          | Madfish |
 | Catalog Number | SMALP996 |

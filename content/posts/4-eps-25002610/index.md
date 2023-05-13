@@ -67,9 +67,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/4-eps/1621584649" >}}
+{{< applemusic url="https://music.apple.com/gb/album/4-eps/1621584649" >}}<br>
+
+
 ## Videos
 ### Ride - Chelsea Girl
 {{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation (White) |
 | Label          | Wichita |
 | Catalog Number | WEBB574LP |

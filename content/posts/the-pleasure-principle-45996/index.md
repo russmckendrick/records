@@ -39,9 +39,14 @@ styles: ["Synth-pop", "New Wave"]
 <!-- section break -->
 
 The Pleasure Principle is the debut solo studio album by English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-30th-anniversary-edition/331564777" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-30th-anniversary-edition/331564777" >}}<br>
+
+
 ## Videos
 ### GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album
 {{< youtube id="KJmujhpDslY" title="GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album" >}}<br>
@@ -65,8 +70,6 @@ The Pleasure Principle is the debut solo studio album by English new wave musici
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Pleasure_Principle_(album) |
-| Wikipedia Summary | The Pleasure Principle is the debut solo studio album by English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart. |
-| Release Year   | 1979                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 10 |

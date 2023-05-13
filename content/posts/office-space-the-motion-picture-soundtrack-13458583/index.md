@@ -38,7 +38,10 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Mambo 8
 {{< youtube id="lqi_HT1MfsU" title="Mambo 8" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
 | Label          | Interscope Records |
 | Catalog Number | B0029333-01 |

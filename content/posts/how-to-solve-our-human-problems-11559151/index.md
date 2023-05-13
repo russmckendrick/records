@@ -67,9 +67,14 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 How to Solve Our Human Problems is the collective title of three EPs by the band Belle and Sebastian, released through Matador Records between 2017 and 2018. The EPs were eventually compiled as a compilation album on 16 February 2018.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/how-to-solve-our-human-problems-pt-1-3/1586487006" >}}
+{{< applemusic url="https://music.apple.com/gb/album/how-to-solve-our-human-problems-pt-1-3/1586487006" >}}<br>
+
+
 ## Videos
 ### Belle and Sebastian - We Were Beautiful
 {{< youtube id="qlAfus-n9-U" title="Belle and Sebastian - We Were Beautiful" >}}<br>
@@ -84,8 +89,6 @@ How to Solve Our Human Problems is the collective title of three EPs by the band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/How_to_Solve_Our_Human_Problems |
-| Wikipedia Summary | How to Solve Our Human Problems is the collective title of three EPs by the band Belle and Sebastian, released through Matador Records between 2017 and 2018. The EPs were eventually compiled as a compilation album on 16 February 2018. |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl 12" EP, Vinyl 12" EP, Vinyl 12" EP |
 | Label          | Matador |
 | Catalog Number | OLE-1123-1 |

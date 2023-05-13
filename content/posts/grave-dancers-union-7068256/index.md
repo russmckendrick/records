@@ -43,9 +43,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grave-dancers-union-2022-remaster/158329476" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grave-dancers-union-2022-remaster/158329476" >}}<br>
+
+
 ## Videos
 ### Soul Asylum - Somebody to Shove
 {{< youtube id="OrrE5bCA5lg" title="Soul Asylum - Somebody to Shove" >}}<br>
@@ -70,8 +75,6 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grave_Dancers_Union |
-| Wikipedia Summary | Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Columbia |
 | Catalog Number | MOVLP1368 |

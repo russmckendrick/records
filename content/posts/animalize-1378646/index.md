@@ -40,9 +40,14 @@ styles: ["Hard Rock"]
 Animalize is the twelfth studio album by American rock band Kiss. It was released on September 17, 1984, by Mercury Records. The album marked the only appearance by lead guitarist Mark St. John, who replaced Vinnie Vincent in April 1984.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/animalize/1442844700" >}}
+{{< applemusic url="https://music.apple.com/gb/album/animalize/1442844700" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +57,6 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Animalize |
-| Wikipedia Summary | Animalize is the twelfth studio album by American rock band Kiss. It was released on September 17, 1984, by Mercury Records. The album marked the only appearance by lead guitarist Mark St. John, who replaced Vinnie Vincent in April 1984.<br><br> |
-| Release Year   | 1984                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Vertigo |
 | Catalog Number | VERL 18 |

@@ -37,9 +37,14 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 <!-- section break -->
 
 The Southern Harmony and Musical Companion is the second studio album by American rock band the Black Crowes, released on May 12, 1992. It was the first album by the band to feature Marc Ford on lead guitar, replacing Jeff Cease, who was fired the year before, and the first to feature keyboardist Eddie Harsch. The album's name derives from the full name of the Southern Harmony, an influential 1835 hymnal compiled by William Walker.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}<br>
+
+
 ## Videos
 ### The Black Crowes - Remedy
 {{< youtube id="BYyRLTveFJQ" title="The Black Crowes - Remedy" >}}<br>
@@ -56,8 +61,6 @@ The Southern Harmony and Musical Companion is the second studio album by America
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Southern_Harmony_and_Musical_Companion |
-| Wikipedia Summary | The Southern Harmony and Musical Companion is the second studio album by American rock band the Black Crowes, released on May 12, 1992. It was the first album by the band to feature Marc Ford on lead guitar, replacing Jeff Cease, who was fired the year before, and the first to feature keyboardist Eddie Harsch. The album's name derives from the full name of the Southern Harmony, an influential 1835 hymnal compiled by William Walker. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | American Recordings |
 | Catalog Number | 00602537494255 |

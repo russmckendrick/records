@@ -46,9 +46,14 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 <!-- section break -->
 
 Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible over the past 20 years. His fourth album with Mark Lanegan Band falls in line with 2014’s <i>Phantom Radio</i>, mixing the grit of blues and murder ballads with gothy electronic atmospheres. As always, the center of these songs is Lanegan’s voice, a husky instrument as threatening as it is seductive, be it on the brooding ‘60s shuffle of “Emperor” or the soaring “Nocturne,” which plays devil to U2’s angels.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gargoyle/1195027557" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gargoyle/1195027557" >}}<br>
+
+
 ## Videos
 ### Mark Lanegan - Death's Head Tattoo
 {{< youtube id="WlRo0LLIHOU" title="Mark Lanegan - Death's Head Tattoo" >}}<br>
@@ -69,8 +74,6 @@ Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible over the past 20 years. His fourth album with Mark Lanegan Band falls in line with 2014’s <i>Phantom Radio</i>, mixing the grit of blues and murder ballads with gothy electronic atmospheres. As always, the center of these songs is Lanegan’s voice, a husky instrument as threatening as it is seductive, be it on the brooding ‘60s shuffle of “Emperor” or the soaring “Nocturne,” which plays devil to U2’s angels. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP137 |

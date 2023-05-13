@@ -45,9 +45,15 @@ styles: ["Hard Rock", "Arena Rock"]
 
 The original cover of Bon Jovi’s third album featured a woman in a wet T-shirt with the words <i>Slippery When Wet</i> on the front, framed by a hot-pink border. Executives worried that stores wouldn’t sell the LP, so they made a change, swapping in a photo of a wet garbage bag with the title streaked in black. One image was meant to be fun and trashy (figuratively, at least), the other tough and stoic. That the band could pass as both spoke to what a massive phenomenon 1986’s <i>Slippery When Wet</i> became.<br />
 They had enough of a taste of heavy metal to sound contemporary (“You Give Love a Bad Name”, “Social Disease”), but—compared to pin-ups like Poison and Mötley Crüe—they also felt like classic rock (“Livin’ on a Prayer”, “Wanted Dead or Alive”). They could tap into the nostalgia of a Skynyrd ballad (“Never Say Goodbye”) just as naturally as they could channel the swagger of a Rod Stewart rave-up (“Wild in the Streets”). And because they are, at heart, a pop band, they pull it all together with a seamlessness that makes you not care where they’re coming from in the first place. So, while a lot of their pop-metal peers ended up stranded on the last branch of an evolutionary tree, Bon Jovi and <i>Slippery When Wet</i> both resonate as products of their time and a step in the continuum of loose-letting, party-friendly rock—trash-bag-black and wet T-shirt contest alike.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/slippery-when-wet/1422954626" >}}
+{{< applemusic url="https://music.apple.com/gb/album/slippery-when-wet/1422954626" >}}<br>
+
+
 ## Videos
 ### Bon Jovi - Wanted Dead Or Alive (Official Music Video)
 {{< youtube id="SRvCvsRp5ho" title="Bon Jovi - Wanted Dead Or Alive (Official Music Video)" >}}<br>
@@ -65,8 +71,6 @@ They had enough of a taste of heavy metal to sound contemporary (“You Give Lov
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slippery_When_Wet |
-| Wikipedia Summary | Slippery When Wet is the third studio album by American rock band Bon Jovi. It was released on August 18, 1986, by Mercury Records in North America and Vertigo Records internationally. It was produced by Bruce Fairbairn, with recording sessions between January and July 1986 at Little Mountain Sound Studios in Vancouver. The album features many of Bon Jovi's best-known songs, including "You Give Love a Bad Name", "Livin' on a Prayer", and "Wanted Dead or Alive".<br>The album has been called the album that "[turned] heavy metal into a radio-friendly pop format", and is also commonly seen as "a breakthrough for hair metal".Slippery When Wet was an instant commercial success, spending eight weeks at No. 1 on the U.S. Billboard 200 chart and was named by Billboard as the top-selling album of 1987. Slippery When Wet is Bon Jovi's best-selling album to date, with an RIAA certification of 12× Platinum, making it one of the top 100 best-selling albums in the United States. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 06025 470 292-1 (8) |

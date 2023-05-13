@@ -39,9 +39,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-boy-with-the-arab-strap/516530719" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-boy-with-the-arab-strap/516530719" >}}<br>
+
+
 ## Videos
 ### Belle & Sebastian - It Could Have Been A Brilliant Career
 {{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}<br>
@@ -66,8 +71,6 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Boy_with_the_Arab_Strap |
-| Wikipedia Summary | The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Green Transparent) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP003RSD |

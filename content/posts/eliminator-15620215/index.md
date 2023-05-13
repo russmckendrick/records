@@ -43,9 +43,15 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 Eliminator is the eighth studio album by American rock band ZZ Top. It was released on March 23, 1983, by Warner Bros. Records, and rose high on the charts in many countries. Four hit singles were released—"Gimme All Your Lovin'" which reached the American Top 40, "Sharp Dressed Man", "TV Dinners" and their most successful single, "Legs". A Diamond certified album in the United States, Eliminator is ZZ Top's most commercially successful release, with sales of 11 million in the US.Recorded in 1982, the album represents a further step of modernization by bandleader Billy Gibbons. Since El Loco in 1981, Gibbons had been edging the band's boogie and blues rock sound toward the popular new-wave/synth-rock aesthetic while retaining ZZ Top's signature electric guitar emphasis. For Eliminator, he increased the tempo and used more synthesizers and drum machines, producing a "tighter" album with a steady, driving beat. Pre-production engineer Linden Hudson collaborated with Gibbons in Texas on the album tempo and songs, then producer Bill Ham and engineer Terry Manning joined Gibbons in Memphis, Tennessee, to carefully craft the sound of each song after the full band was done recording, controversially replacing much of the contributions of bassist Dusty Hill and drummer Frank Beard. Ham claimed the album was solely the work of ZZ Top, denying the involvement of others, but in 1986 Hudson won a lawsuit establishing himself as composer of the song "Thug".
 A series of music videos served as successful promotional tools—the similarly themed videos for "Gimme All Your Lovin'", "Sharp Dressed Man" and "Legs" received regular rotation on MTV and helped the band gain popularity with a younger base. A customized 1933 Ford coupe, depicted on the album cover, could be seen in three of the four videos. Following Eliminator's release, ZZ Top embarked on a worldwide concert tour.
 The video for "Legs" earned the band the MTV Video Music Award for Best Group. Rolling Stone named Eliminator number 398 on its list of the 500 Greatest Albums of All Time. It was listed at number 39 in The 100 Greatest Albums of the 80s, and it was also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die. A remastered version was released in 2008.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/eliminator/655184882" >}}
+{{< applemusic url="https://music.apple.com/gb/album/eliminator/655184882" >}}<br>
+
+
 ## Videos
 ### Gimme All Your Lovin'
 {{< youtube id="_k1VSeudgxA" title="Gimme All Your Lovin'" >}}<br>
@@ -81,8 +87,6 @@ The video for "Legs" earned the band the MTV Video Music Award for Best Group. R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eliminator_(album) |
-| Apple Music Summary | In the slicker-than-slick '80s, a freaky-looking, long-bearded boogie trio out of Houston seemed unlikely to take MTV by storm. But with <i>Eliminator</i>, a reinvented ZZ Top did just that. Updating their classic, good-time Texas boogie with just enough synthesizers to appeal to the New Wave set—and wrapping it in videos full of sexy girls, spinning fur-covered guitars, and magical hot rods—they turned meaty singles like the choogling "Gimme All Your Lovin'" and the wry "Sharp Dressed Man" into genre-exploding classics. |
-    | Release Year   | 1983                                   |
 | Format         | Vinyl LP Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 92-3774-1 |

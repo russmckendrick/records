@@ -39,9 +39,12 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mobile-home/1443716812" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mobile-home/1443716812" >}}<br>
+
+
 ## Videos
 ### Longpigs - The Frank Sonata
 {{< youtube id="DSA6dU-2_Js" title="Longpigs - The Frank Sonata" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Clear, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC950X |

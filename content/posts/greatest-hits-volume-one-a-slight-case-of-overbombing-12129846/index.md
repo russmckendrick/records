@@ -41,9 +41,12 @@ styles: ["Goth Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-vol-one-a-slight-case-of/1384587799" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-vol-one-a-slight-case-of/1384587799" >}}<br>
+
+
 ## Videos
 ### Sisters of Mercy - Temple of Love '92
 {{< youtube id="ROnXv7Z7v28" title="Sisters of Mercy - Temple of Love '92" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Merciful Release |
 | Catalog Number | 0190295695071 |

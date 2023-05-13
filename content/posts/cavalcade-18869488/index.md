@@ -42,9 +42,14 @@ Cavalcade is the second studio album by English rock band Black Midi. It was rel
 For Cavalcade, the band had a more premeditated approach to the writing and recording, as opposed to the improvisational approach taken for their debut studio album, Schlagenheim (2019). The opening track "John L" was released as a single in promotion of the album, followed by a louder mix of the fourth track "Slow", and finally "Chondromalacia Patella" before its release. The album received widespread acclaim, with critics complimenting the band's stylistic progression and composition.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cavalcade/1556010645" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cavalcade/1556010645" >}}<br>
+
+
 ## Videos
 ### black midi - John L
 {{< youtube id="GT0nSp8lUws" title="black midi - John L" >}}<br>
@@ -66,8 +71,6 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cavalcade_(Black_Midi_album) |
-| Wikipedia Summary | Cavalcade is the second studio album by English rock band Black Midi. It was released on 28 May 2021, through Rough Trade Records. The album was primarily recorded in the summer of 2020 with producer John "Spud" Murphy, with the exception of the song "John L", which was recorded beforehand with Marta Salogni.<br>For Cavalcade, the band had a more premeditated approach to the writing and recording, as opposed to the improvisational approach taken for their debut studio album, Schlagenheim (2019). The opening track "John L" was released as a single in promotion of the album, followed by a louder mix of the fourth track "Slow", and finally "Chondromalacia Patella" before its release. The album received widespread acclaim, with critics complimenting the band's stylistic progression and composition.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Stereo (180g) |
 | Label          | Rough Trade |
 | Catalog Number | RT0212LP |

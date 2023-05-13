@@ -47,9 +47,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>
+
+
 ## Videos
 ### Pure Reason Revolution - The Twyncyn / Trembilin Willows
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Primal Vinyl Records |
 | Catalog Number | PVR0005LP |

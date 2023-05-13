@@ -49,9 +49,15 @@ Several singles were released, backed by music videos: "My Iron Lung", the doubl
 Though it reached number four on the UK Albums Chart, The Bends failed to build on the success of "Creep" outside the UK, reaching number 88 on the US Billboard 200. It has since been certified platinum in the US and quadruple platinum in the UK. It received greater acclaim than Pablo Honey, including a nomination for Best British Album at the Brit Awards 1996; it elevated Radiohead from one-hit-wonders to one of the most recognised British bands. It is frequently named one of the greatest albums of all time, and was  included in Colin Larkin's “All Time Top 1000 Albums” 3rd Edition (2000) and all three editions of Rolling Stone's “500 Greatest Albums of All Time” list. The Bends is credited for influencing a generation of post-Britpop acts, such as Coldplay, Muse and Travis.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-bends/1097862703" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-bends/1097862703" >}}<br>
+
+
 ## Videos
 ### Planet Telex
 {{< youtube id="09EsZXrKEP4" title="Planet Telex" >}}<br>
@@ -76,8 +82,6 @@ Though it reached number four on the UK Albums Chart, The Bends failed to build 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Bends_(album) |
-| Apple Music Summary | Art-rock adventure fuses with arena grandeur on the band’s first great leap forward. Given its recording was plagued by writer’s block and creative dead ends, Radiohead’s second album is remarkably confident and daring. The three guitarists build mesmerising layers within haunted balladry (“Fake Plastic Trees”), a thrilling Frankenstein’s monster of folk, grunge, psych and jazz (“Just”), and stunning, numinous closer “Street Spirit (Fade Out)”. Thom Yorke’s lyrics are equally nuanced and searching, creating an elegiac undertow from his anxieties about consumerism, narcissism, and the mind-melt of sudden fame. |
-    | Release Year   | 2008                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 7243 8 29626 1 8 |

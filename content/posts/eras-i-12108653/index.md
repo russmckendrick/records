@@ -71,7 +71,10 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Devin Townsend ~ Bend It Like Bender
 {{< youtube id="I4PkL5FwDEA" title="Devin Townsend ~ Bend It Like Bender" >}}<br>
@@ -85,7 +88,6 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album, Vinyl 2× LP Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 503 |

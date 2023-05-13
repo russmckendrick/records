@@ -42,7 +42,10 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Wonder Stuff - Who Wants To Be The Disco King?
 {{< youtube id="vWxaxu35rvw" title="The Wonder Stuff - Who Wants To Be The Disco King?" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Compilation (Damont Pressing) |
 | Label          | Telstar |
 | Catalog Number | STAR 2378 |

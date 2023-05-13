@@ -37,9 +37,14 @@ styles: ["Folk", "Psychedelic Rock"]
 Drift Code is the second studio album by English musician and former Talk Talk bassist Paul Webb, under his moniker Rustin Man. It was released on 1 February 2019 through Domino Recording Company.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/drift-code/1441129695" >}}
+{{< applemusic url="https://music.apple.com/gb/album/drift-code/1441129695" >}}<br>
+
+
 ## Videos
 ### Rustin Man - Vanishing Heart (Official Video)
 {{< youtube id="RyrGv1d8gFk" title="Rustin Man - Vanishing Heart (Official Video)" >}}<br>
@@ -55,8 +60,6 @@ Drift Code is the second studio album by English musician and former Talk Talk b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drift_Code |
-| Wikipedia Summary | Drift Code is the second studio album by English musician and former Talk Talk bassist Paul Webb, under his moniker Rustin Man. It was released on 1 February 2019 through Domino Recording Company.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Deluxe Edition (Signed Photographic Print, 180g) |
 | Label          | Domino |
 | Catalog Number | WIGLP414 |

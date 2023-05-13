@@ -43,9 +43,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-scala/1328370332" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-scala/1328370332" >}}<br>
+
+
 ## Videos
 ### Paul Draper - I Can Only Disappoint U - Live At Scala
 {{< youtube id="WSOGVuFEBEY" title="Paul Draper - I Can Only Disappoint U - Live At Scala" >}}<br>
@@ -60,7 +63,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE975 |

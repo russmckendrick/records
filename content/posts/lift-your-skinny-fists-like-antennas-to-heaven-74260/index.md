@@ -43,9 +43,14 @@ styles: ["Post Rock", "Experimental"]
 <!-- section break -->
 
 Lift Your Skinny Fists Like Antennas to Heaven (often shortened to Lift Yr. Skinny Fists Like Antennas to Heaven, Lift Your Skinny Fists, or LYSF), or Levez Vos Skinny Fists Comme Antennas to Heaven on the rear of physical releases, is the second studio album by Canadian post-rock band Godspeed You! Black Emperor, released as a double album on October 9, 2000, on vinyl by Constellation and November 8, 2000, on CD by Kranky. It has been listed on multiple decade-end lists as one of the greatest albums of the 2000s.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lift-your-skinny-fists-like-antennas-to-heaven/40886657" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lift-your-skinny-fists-like-antennas-to-heaven/40886657" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ Lift Your Skinny Fists Like Antennas to Heaven (often shortened to Lift Yr. Skin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lift_Your_Skinny_Fists_Like_Antennas_to_Heaven |
-| Wikipedia Summary | Lift Your Skinny Fists Like Antennas to Heaven (often shortened to Lift Yr. Skinny Fists Like Antennas to Heaven, Lift Your Skinny Fists, or LYSF), or Levez Vos Skinny Fists Comme Antennas to Heaven on the rear of physical releases, is the second studio album by Canadian post-rock band Godspeed You! Black Emperor, released as a double album on October 9, 2000, on vinyl by Constellation and November 8, 2000, on CD by Kranky. It has been listed on multiple decade-end lists as one of the greatest albums of the 2000s. |
-| Release Year   | 2000                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Constellation |
 | Catalog Number | cst012 |

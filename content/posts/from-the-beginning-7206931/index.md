@@ -43,9 +43,14 @@ styles: ["Mod", "Psychedelic Rock"]
 <!-- section break -->
 
 From the Beginning is the first compilation album by the English rock band Small Faces. It was released by Decca Records of group material after the band had left the record label; it consisted of the band's Decca hit singles combined with various unreleased recordings.   The album rose to Number 17 in the UK Album Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/from-the-beginning-deluxe-edition/1443798933" >}}
+{{< applemusic url="https://music.apple.com/gb/album/from-the-beginning-deluxe-edition/1443798933" >}}<br>
+
+
 ## Videos
 ### Small Faces ~ Baby Don't You Do It (Vinyl)
 {{< youtube id="K4Gay7gZmRA" title="Small Faces ~ Baby Don't You Do It (Vinyl)" >}}<br>
@@ -67,8 +72,6 @@ From the Beginning is the first compilation album by the English rock band Small
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/From_the_Beginning_(Small_Faces_album) |
-| Wikipedia Summary | From the Beginning is the first compilation album by the English rock band Small Faces. It was released by Decca Records of group material after the band had left the record label; it consisted of the band's Decca hit singles combined with various unreleased recordings.   The album rose to Number 17 in the UK Album Chart. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Compilation Reissue Mono (180 Gram) |
 | Label          | Decca |
 | Catalog Number | 471 537-3 |

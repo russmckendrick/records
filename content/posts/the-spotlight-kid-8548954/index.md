@@ -41,9 +41,14 @@ styles: ["Blues Rock", "Avantgarde"]
 <!-- section break -->
 
 The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 1972, it is the only album credited solely to Captain Beefheart (Don Van Vliet) rather than Captain Beefheart and his Magic Band, although every member is featured, and its material is considered part of the band's repertoire.  Often cited as one of the most accessible of Beefheart's albums, it is solidly founded in the blues but also uses instruments such as marimba and jingle bells that are not typical of that genre. The incarnation of the Magic Band on this album was Bill Harkleroad and Elliot Ingber, guitars; Mark Boston, bass; John French, drums; and Art Tripp, marimba. Session drummer Rhys Clark substituted for French on one track, "Glider".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-spotlight-kid/415006591" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-spotlight-kid/415006591" >}}<br>
+
+
 ## Videos
 ### Captain Beefheart - Alice In Blunderland
 {{< youtube id="3i0wU9HsCE0" title="Captain Beefheart - Alice In Blunderland" >}}<br>
@@ -61,8 +66,6 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Spotlight_Kid |
-| Wikipedia Summary | The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 1972, it is the only album credited solely to Captain Beefheart (Don Van Vliet) rather than Captain Beefheart and his Magic Band, although every member is featured, and its material is considered part of the band's repertoire.  Often cited as one of the most accessible of Beefheart's albums, it is solidly founded in the blues but also uses instruments such as marimba and jingle bells that are not typical of that genre. The incarnation of the Magic Band on this album was Bill Harkleroad and Elliot Ingber, guitars; Mark Boston, bass; John French, drums; and Art Tripp, marimba. Session drummer Rhys Clark substituted for French on one track, "Glider". |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Reprise Records |
 | Catalog Number | 0349791110 |

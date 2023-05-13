@@ -45,9 +45,14 @@ styles: ["Breakbeat", "Breaks"]
 <!-- section break -->
 
 The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-fat-of-the-land/1450123945" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-fat-of-the-land/1450123945" >}}<br>
+
+
 ## Videos
 ### The Prodigy ▶ The·Fat·of·the·Land (Full Album)
 {{< youtube id="GP6F0y3eU0Q" title="The Prodigy ▶ The·Fat·of·the·Land (Full Album)" >}}<br>
@@ -60,8 +65,6 @@ The Fat of the Land is the third studio album by English electronic music group 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Fat_of_the_Land |
-| Wikipedia Summary | The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress Stereo (Orange Neon) |
 | Label          | XL Recordings |
 | Catalog Number | XL121LPE2 |

@@ -40,9 +40,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the second studio album by Tripping Daisy, released on June 20, 1995 through Island Records. It is the band's major label debut, and was produced by Ted Niceley. It featured the band's biggest hit, "I Got a Girl", whose video received extensive airplay on MTV. By 1998, the album had sold over 300,000 copies in the United States. The album was certified Platinum in Canada on May 1, 1998.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-am-an-elastic-firecracker/1443726891" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-am-an-elastic-firecracker/1443726891" >}}<br>
+
+
 ## Videos
 ### Tripping Daisy - I Got A Girl
 {{< youtube id="eYI99xuI9CM" title="Tripping Daisy - I Got A Girl" >}}<br>
@@ -61,8 +66,6 @@ I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the sec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Am_an_Elastic_Firecracker |
-| Wikipedia Summary | I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the second studio album by Tripping Daisy, released on June 20, 1995 through Island Records. It is the band's major label debut, and was produced by Ted Niceley. It featured the band's biggest hit, "I Got a Girl", whose video received extensive airplay on MTV. By 1998, the album had sold over 300,000 copies in the United States. The album was certified Platinum in Canada on May 1, 1998. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3008 |

@@ -49,9 +49,14 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 <!-- section break -->
 
 Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cosmogramma/367788829" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cosmogramma/367788829" >}}<br>
+
+
 ## Videos
 ### Flying Lotus - Zodiac Shit
 {{< youtube id="0ScYz9sNaQk" title="Flying Lotus - Zodiac Shit" >}}<br>
@@ -69,8 +74,6 @@ Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial m
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra. |
-| Release Year   | 2010                                   |
 | Format         | CD Album |
 | Label          | Warp Records |
 | Catalog Number | WARPCD195 |

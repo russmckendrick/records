@@ -50,9 +50,14 @@ styles: ["Punk", "New Wave"]
 <!-- section break -->
 
 Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pink-flag/1328682500" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pink-flag/1328682500" >}}<br>
+
+
 ## Videos
 ### Reuters (2006 Remastered Version)
 {{< youtube id="JFm-U8WIrNg" title="Reuters (2006 Remastered Version)" >}}<br>
@@ -86,8 +91,6 @@ Pink Flag is the debut studio album by English rock band Wire. It was released i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Flag |
-| Wikipedia Summary | Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF11LP |

@@ -48,7 +48,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Latitude
 {{< youtube id="t3zBRu3b4RU" title="Latitude" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Gentle Art Of Music |
 | Catalog Number | GAOM 054LP |

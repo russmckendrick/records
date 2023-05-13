@@ -52,9 +52,15 @@ styles: ["Minneapolis Sound", "Funk"]
 1999 received widespread acclaim from critics, and was seen as Prince's breakthrough album. On March 24, 1999, 1999 was certified quadruple platinum by the Recording Industry Association of America (RIAA). Following Prince's death in 2016, the album re-entered the Billboard 200 and peaked at number seven, besting its original performance on the chart thirty-three years earlier. A re-release and remaster of the album, including 35 previously unreleased recordings, was released in November 2019.1999 has been ranked as one of the greatest albums of all time by several publications and organizations. The music videos for both "1999" and "Little Red Corvette" received heavy rotation on MTV, making Prince one of the first black artists to be prominently featured on the television channel. According to the Rolling Stone Album Guide (2004), "1999 may be Prince's most influential album: Its synth-and-drum machine-heavy arrangements codified the Minneapolis sound that loomed over mid-'80s R&B and pop, not to mention the next two decades' worth of electro, house, and techno."  It is also included on Rolling Stone's 500 Greatest Albums of All Time.  In 2008, the album was inducted into the Grammy Hall of Fame.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1999/214145240" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1999/214145240" >}}<br>
+
+
 ## Videos
 ### Prince - 1999 (Official Music Video)
 {{< youtube id="rblt2EtFfC4" title="Prince - 1999 (Official Music Video)" >}}<br>
@@ -78,8 +84,6 @@ styles: ["Minneapolis Sound", "Funk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1999_(Prince_album) |
-| Apple Music Summary | Even the brilliant provocations of <i>Dirty Mind</i> and <i>Controversy</i> couldn’t have prepared us for the album that made Prince a star. Featuring three Top 20 hits—“Little Red Corvette,” “Delirious,” and the title track—<i>1999</i> didn’t just help define his electro-futuristic sound, but the sound of ’80s pop in general. And though Prince's primary area of study remained sex (“Let’s Pretend We’re Married,” “Lady Cab Driver”), his stabs at satire (“All the Critics Love U in New York”) are surprisingly sharp, too. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-5 |

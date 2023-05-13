@@ -48,9 +48,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 Troublegum is the second major label album by rock band Therapy? It was released on 7 February 1994 via A&M Records. The album features a more punk-oriented style compared to the likes of Stiff Little Fingers and the Undertones rather the band's previous noise rock-influenced works.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/troublegum/1443273371" >}}
+{{< applemusic url="https://music.apple.com/gb/album/troublegum/1443273371" >}}<br>
+
+
 ## Videos
 ### Therapy? - Screamager
 {{< youtube id="-zZ44S3ZIJM" title="Therapy? - Screamager" >}}<br>
@@ -83,8 +88,6 @@ Troublegum is the second major label album by rock band Therapy? It was released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Troublegum |
-| Wikipedia Summary | Troublegum is the second major label album by rock band Therapy? It was released on 7 February 1994 via A&M Records. The album features a more punk-oriented style compared to the likes of Stiff Little Fingers and the Undertones rather the band's previous noise rock-influenced works.<br><br> |
-| Release Year   | 1994                                   |
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | A&M Records |
 | Catalog Number | 540 196-1 |

@@ -66,9 +66,15 @@ styles: ["Afrobeat", "Fusion"]
 “It's about optimism, but not an optimism where you have a smile on your face. An optimism where you're resigned to the place of defeat within the big spectrum of things. It's having to actually resign yourself to what has happened in the continued dismantling of Black civilisation, and how Black people are regarded as a whole in the world within a certain light; but then understanding that it's part of a broader process of rising to something else, rising to a new era. Also, on the more technical side of the recording of this tune, this was the first tune that we recorded for the whole session. It's the first take of the first tune on the first day.”<br />
 <b>“Black” (feat. Joshua Idehen)</b>
 “There was a point where we all got into the studio and I asked that we go into these breathing exercises where we essentially just breathe in really deeply about 30 times, and at the end of 30, we breathe out and hold it for as long as you can with nothing inside. We did one of these exercises while lying on the floor with our eyes shut in pitch blackness. I asked everyone to scream as hard as we can, really just let it out. No one could have anything in their ears apart from the track, so no one was aware of how anyone else sounded. It was complete no-self-awareness, no shyness. It's like a cathartic ritual to really just let it out, however you want.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-to-the-future/1558301183" >}}
+{{< applemusic url="https://music.apple.com/gb/album/black-to-the-future/1558301183" >}}<br>
+
+
 ## Videos
 ### Field Negus
 {{< youtube id="ELXDbxKjx48" title="Field Negus" >}}<br>
@@ -92,8 +98,6 @@ styles: ["Afrobeat", "Fusion"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_to_the_Future_(Sons_of_Kemet_album) |
-| Wikipedia Summary | Black to the Future is the fourth and final studio album by British jazz group Sons of Kemet. It was released via Impulse! Records on 14 May 2021 to widespread critical acclaim from music critics.<br><br> |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Impulse! |
 | Catalog Number | 00602435621661 |

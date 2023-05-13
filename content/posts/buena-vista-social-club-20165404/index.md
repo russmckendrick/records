@@ -87,9 +87,14 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 
 Buena Vista Social Club is a 1999 documentary film directed by Wim Wenders about the music of Cuba. It is named for a danzón that became the title piece of the album Buena Vista Social Club. The film is an international co-production of Germany, the United States, the United Kingdom, France, and Cuba.
 In 2020, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically or aesthetically significant.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/buena-vista-social-club/1467829048" >}}
+{{< applemusic url="https://music.apple.com/gb/album/buena-vista-social-club/1467829048" >}}<br>
+
+
 ## Videos
 ### Buena Vista Social Club - Chan Chan (Official Audio)
 {{< youtube id="o5cELP06Mik" title="Buena Vista Social Club - Chan Chan (Official Audio)" >}}<br>
@@ -117,8 +122,6 @@ In 2020, the film was selected for preservation in the United States National Fi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(film) |
-| Wikipedia Summary | Buena Vista Social Club is a 1999 documentary film directed by Wim Wenders about the music of Cuba. It is named for a danzón that became the title piece of the album Buena Vista Social Club. The film is an international co-production of Germany, the United States, the United Kingdom, France, and Cuba.<br>In 2020, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically or aesthetically significant. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, CD Album Reissue Remastered, CD |
 | Label          | World Circuit |
 | Catalog Number | WCV050BOX |

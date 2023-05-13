@@ -42,9 +42,12 @@ styles: ["Funk Metal", "Hardcore"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-boro-kings-bonus-tracks/362161529" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-boro-kings-bonus-tracks/362161529" >}}<br>
+
+
 ## Videos
 ### Dog Eat Dog - Funnel King
 {{< youtube id="a_TedVjcybg" title="Dog Eat Dog - Funnel King" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Funk Metal", "Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 Gram) |
 | Label          | Roadrunner Records |
 | Catalog Number | MOVLP2821 |

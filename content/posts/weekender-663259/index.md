@@ -29,9 +29,14 @@ styles: ["Indie Rock"]
 
 "Weekender" is a 1992 single by the band Flowered Up. The band had performed the song as early as 1991. The song has been described as denouncing people who only go to clubs on the weekend and advocating a party-all-the-time philosophy of the group. The group originally wanted it to be released through their current label London Records. The single was turned down by the label and released later in April 1992 by Heavenly Recordings.
 "Weekender" charted in the United Kingdom for five weeks, peaking at number 20 on the charts. The song received positive reviews on its initial release and was later referred to by The Guardian as the group's masterpiece.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-life-with-brian/1320038738" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-life-with-brian/1320038738" >}}<br>
+
+
 ## Videos
 ### HVN16 - Flowered Up 'Weekender'  film
 {{< youtube id="RrpCdoRgBpQ" title="HVN16 - Flowered Up 'Weekender'  film" >}}<br>
@@ -59,8 +64,6 @@ styles: ["Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weekender_(Flowered_Up_song) |
-| Wikipedia Summary | "Weekender" is a 1992 single by the band Flowered Up. The band had performed the song as early as 1991. The song has been described as denouncing people who only go to clubs on the weekend and advocating a party-all-the-time philosophy of the group. The group originally wanted it to be released through their current label London Records. The single was turned down by the label and released later in April 1992 by Heavenly Recordings.<br>"Weekender" charted in the United Kingdom for five weeks, peaking at number 20 on the charts. The song received positive reviews on its initial release and was later referred to by The Guardian as the group's masterpiece. |
-| Release Year   | 1992                                   |
 | Format         | Vinyl 12" 45 RPM Single Sided |
 | Label          | Heavenly |
 | Catalog Number | HVN 16 |

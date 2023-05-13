@@ -37,9 +37,13 @@ styles: ["Dub"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="27SJL8vrGvpLE2SOnsTyVn" width="100%" height="500" >}}
+{{< spotify type="album" id="27SJL8vrGvpLE2SOnsTyVn" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Lipi Brown's Selections - Star Wars Dub
 {{< youtube id="Fzekkfr8BvU" title="Lipi Brown's Selections - Star Wars Dub" >}}<br>
@@ -51,7 +55,6 @@ styles: ["Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Limited Edition Reissue (180 Gram) |
 | Label          | Burning Sounds |
 | Catalog Number | BSRLP988 |

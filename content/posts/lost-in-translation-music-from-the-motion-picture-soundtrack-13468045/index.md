@@ -44,7 +44,10 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A
 {{< youtube id="dNuZeKUhu70" title="Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Reissue (Violet) |
 | Label          | Emperor Norton |
 | Catalog Number | 603497854400 |

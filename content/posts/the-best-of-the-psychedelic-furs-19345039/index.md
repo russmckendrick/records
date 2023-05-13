@@ -35,9 +35,12 @@ styles: ["Alternative Rock", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heaven-the-best-of-the-psychedelic-furs/433444062" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heaven-the-best-of-the-psychedelic-furs/433444062" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Alternative Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC906 |

@@ -43,9 +43,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Music for People is the second album by the band VAST, released in September 12, 2000 by Elektra Records.  It would be VAST's last album on Elektra Records.  After the success of VAST's debut album, Music for People could only produce one successful single, "Free", which gained major MTV exposure.  However, after the mixed success of the album, VAST and Elektra Records parted ways over disappointing sales and differing views on the future of the band.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-for-people/149597" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-for-people/149597" >}}<br>
+
+
 ## Videos
 ### The Last One Alive
 {{< youtube id="9m02l9C6ris" title="The Last One Alive" >}}<br>
@@ -70,8 +75,6 @@ Music for People is the second album by the band VAST, released in September 12,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_People_(album) |
-| Wikipedia Summary | Music for People is the second album by the band VAST, released in September 12, 2000 by Elektra Records.  It would be VAST's last album on Elektra Records.  After the success of VAST's debut album, Music for People could only produce one successful single, "Free", which gained major MTV exposure.  However, after the mixed success of the album, VAST and Elektra Records parted ways over disappointing sales and differing views on the future of the band. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Green/Yellow Splatter [Serpentine]) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1217 |

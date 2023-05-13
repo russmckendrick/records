@@ -52,9 +52,15 @@ styles: ["Prog Rock", "Progressive Metal"]
 <!-- section break -->
 
 Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of vulnerability. On “Acid Rain”, the band pours out heavy riffs; a stirring, poignant quality defines “The Day After”, while a gentle spirit floats through “Guardian Angel”. Having lost guitarist and founder Piotr Grudziński in 2016, the Polish prog leaders let rip with a heavy heart on the evocative “Lament” and instrumental centrepiece “The Struggle for Survival”. This is an album about grief, acceptance and closure. 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wasteland/1416948034" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wasteland/1416948034" >}}<br>
+
+
 ## Videos
 ### RIVERSIDE - Lament (OFFICIAL VIDEO)
 {{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament (OFFICIAL VIDEO)" >}}<br>
@@ -72,8 +78,6 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wasteland_(Riverside_album) |
-| Wikipedia Summary | Wasteland is the seventh studio album by Polish progressive rock band Riverside. The album was released on 28 September 2018, through InsideOut Music. The album reached number one in Poland and Sweden, the top 20 in Germany, and the top 40 in Austria, Finland, the Netherlands and Switzerland. It is the first album without founding guitarist Piotr Grudziński after his death on 21 February 2016. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP (Silver), Vinyl LP Single Sided Etched (Silver), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 514 |

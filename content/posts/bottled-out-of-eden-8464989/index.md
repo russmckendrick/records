@@ -58,9 +58,12 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bottled-out-of-eden/1087654773" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bottled-out-of-eden/1087654773" >}}<br>
+
+
 ## Videos
 ### KnifeWorld - Bottled Out Of Eden [Full Album]
 {{< youtube id="T_9wjlangXE" title="KnifeWorld - Bottled Out Of Eden [Full Album]" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 447 |

@@ -44,9 +44,15 @@ styles: ["Alternative Rock", "Funk Metal"]
 <!-- section break -->
 
 Reuniting the classic Primus lineup to record original music for the first time since 1995, <i>The Desaturating Seven</i> is a concept album based on a children’s book called <i>The Rainbow Goblins</i>. Channeling their prog-rock roots, the band filters a fairy tale of color-eating goblins through adventurous time signatures, skronky-tonk guitar work, and ringleader Les Claypool’s nasal vocal intonations and bulbous basslines. This is Primus as fun-loving, boisterous, and ambitious as ever.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-desaturating-seven/1262680542" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-desaturating-seven/1262680542" >}}<br>
+
+
 ## Videos
 ### Primus - The Rainbow Goblins Chapter 7 (The Ends?)
 {{< youtube id="zH0ciOB9Fgw" title="Primus - The Rainbow Goblins Chapter 7 (The Ends?)" >}}<br>
@@ -72,8 +78,6 @@ Reuniting the classic Primus lineup to record original music for the first time 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Desaturating_Seven |
-| Wikipedia Summary | The Desaturating Seven is the ninth studio album by American rock group Primus, released on September 29, 2017. It is the band's first album of original material since 2011's Green Naugahyde, and is the first LP featuring original material written  with drummer Tim Alexander since 1995's Tales from the Punchbowl.<br><br> |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Rainbow Splattered) |
 | Label          | ATO Records |
 | Catalog Number | ATO0404LP |

@@ -39,9 +39,14 @@ styles: ["New Wave", "Soul"]
 
 Searching for the Young Soul Rebels is the debut studio album by English pop group Dexys Midnight Runners, released on 11 July 1980, through Parlophone and EMI Records. Led by Kevin Rowland, the group formed in 1978 in Birmingham, England, and formed a strong live reputation before recording their first material. Recorded during April 1980, the album combines the aggressiveness of punk rock with soul music, particularly influenced by the Northern soul movement.
 The album was preceded by and contains the hit-single "Geno", which topped the UK Singles Chart. It also contains two other charting singles: "Dance Stance" (re-recorded as "Burn It Down") and "There, There, My Dear" (which included the lyrics "I've been searching for the young soul rebels" that inspired the album's title). The album reached number 6 on the UK Albums Chart and is certified Silver by the British Phonographic Industry. It has been widely acclaimed by music critics since its release and is included in 1001 Albums You Must Hear Before You Die.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/searching-for-the-young-soul-rebels/742535835" >}}
+{{< applemusic url="https://music.apple.com/gb/album/searching-for-the-young-soul-rebels/742535835" >}}<br>
+
+
 ## Videos
 ### Burn It Down (2000 Remaster)
 {{< youtube id="IV6WFnLUl10" title="Burn It Down (2000 Remaster)" >}}<br>
@@ -65,8 +70,6 @@ The album was preceded by and contains the hit-single "Geno", which topped the U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Searching_for_the_Young_Soul_Rebels |
-| Wikipedia Summary | Searching for the Young Soul Rebels is the debut studio album by English pop group Dexys Midnight Runners, released on 11 July 1980, through Parlophone and EMI Records. Led by Kevin Rowland, the group formed in 1978 in Birmingham, England, and formed a strong live reputation before recording their first material. Recorded during April 1980, the album combines the aggressiveness of punk rock with soul music, particularly influenced by the Northern soul movement.<br>The album was preceded by and contains the hit-single "Geno", which topped the UK Singles Chart. It also contains two other charting singles: "Dance Stance" (re-recorded as "Burn It Down") and "There, There, My Dear" (which included the lyrics "I've been searching for the young soul rebels" that inspired the album's title). The album reached number 6 on the UK Albums Chart and is certified Silver by the British Phonographic Industry. It has been widely acclaimed by music critics since its release and is included in 1001 Albums You Must Hear Before You Die. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Parlophone |
 | Catalog Number | PCSX 7213 |

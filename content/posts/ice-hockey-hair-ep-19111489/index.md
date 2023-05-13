@@ -32,7 +32,10 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ice Hockey Hair
 {{< youtube id="QO-TzvE8gOU" title="Ice Hockey Hair" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT491EP |

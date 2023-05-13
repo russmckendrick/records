@@ -80,9 +80,15 @@ Michael Kiwanuka never seemed the type to self-title an album. He certainly wasn
 “I just thought ‘Light’ was a nice dreamy piece to end the record with—a bit of light at the end of this massive journey. You end on this peaceful note, something positive. For me, light describes loads of things that are good—whether it’s obvious things like the light at the end of the tunnel or just a light feeling in my heart. The idea that the day’s coming—such a peaceful, exciting thing. We’re just always looking for it.”<br /><i>All Apple Music subscribers using the latest version of Apple Music on iPhone, iPad, Mac, and Apple TV can listen to thousands of Dolby Atmos Music tracks using any headphones. When listening with compatible Apple or Beats headphones, Dolby Atmos Music will play back automatically when available for a song. For other headphones, go to Settings > Music > Audio and set the Dolby Atmos switch to “Always On.” You can also hear Dolby Atmos Music using the built-in speakers on compatible iPhones, iPads, MacBook Pros, and HomePods, or by connecting your Apple TV 4K to a compatible TV or AV receiver. Android is coming soon.<br />
 AirPods, AirPods Pro, AirPods Max, BeatsX, Beats Solo3, Beats Studio3, Powerbeats3, Beats Flex, Powerbeats Pro, and Beats Solo Pro<br />
 Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro (3rd generation or later), 11-inch iPad Pro, iPad (6th generation or later), iPad Air (3rd generation), and iPad mini (5th generation) with the latest version of iPadOS; and MacBook (2018 model and later).</i>
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kiwanuka/1474357932" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kiwanuka/1474357932" >}}<br>
+
+
 ## Videos
 ### Michael Kiwanuka  - You Ain't The Problem
 {{< youtube id="APBqmPQcRK8" title="Michael Kiwanuka  - You Ain't The Problem" >}}<br>
@@ -110,8 +116,6 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_%26_Hate_(Michael_Kiwanuka_album) |
-| Wikipedia Summary | Love & Hate is the second studio album by London-based singer-songwriter Michael Kiwanuka. The album was released on 15 July 2016 by Polydor Records (UK) and Interscope Records (US).<br><br> |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow, 180g) |
 | Label          | Polydor |
 | Catalog Number | 7795288 |

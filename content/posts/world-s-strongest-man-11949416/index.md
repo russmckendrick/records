@@ -37,9 +37,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/worlds-strongest-man/1440875853" >}}
+{{< applemusic url="https://music.apple.com/gb/album/worlds-strongest-man/1440875853" >}}<br>
+
+
 ## Videos
 ### Gaz Coombes - Deep Pockets (Audio)
 {{< youtube id="Ui5nb0wLY74" title="Gaz Coombes - Deep Pockets (Audio)" >}}<br>
@@ -54,8 +59,6 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Hot Fruit Recordings |
 | Catalog Number | HF012LP1 |

@@ -43,9 +43,14 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 Six is the second album by English alternative rock band Mansun, released in September 1998 via Parlophone. It was released in the UK and Europe on 7 September 1998, and in the US on 20 April 1999, with an alternative running order, different artwork, and the re-recorded single version of the title track. In an interview prior to the release of Six, Paul Draper stated that the "interlude" "Witness to a Murder (Part Two)" was included to separate the album into two parts as a tribute to old-style vinyl albums.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/six-remastered/1584319613" >}}
+{{< applemusic url="https://music.apple.com/gb/album/six-remastered/1584319613" >}}<br>
+
+
 ## Videos
 ### Mansun - Six
 {{< youtube id="RxbHvLgNl_4" title="Mansun - Six" >}}<br>
@@ -66,8 +71,6 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Six_(Mansun_album) |
-| Wikipedia Summary | Six is the second album by English alternative rock band Mansun, released in September 1998 via Parlophone. It was released in the UK and Europe on 7 September 1998, and in the US on 20 April 1999, with an alternative running order, different artwork, and the re-recorded single version of the title track. In an interview prior to the release of Six, Paul Draper stated that the "interlude" "Witness to a Murder (Part Two)" was included to separate the album into two parts as a tribute to old-style vinyl albums.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1066 |

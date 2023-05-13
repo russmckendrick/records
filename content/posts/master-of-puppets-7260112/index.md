@@ -43,9 +43,14 @@ The album's artwork, designed by Metallica and Peter Mensch and painted by Don B
 Master of Puppets peaked at number 29 on the Billboard 200 and received widespread acclaim from critics, who praised its music and political lyrics. It is widely considered to be one of the greatest and most influential metal albums of all time, and is credited with consolidating the American thrash metal scene. It was certified six times platinum by the RIAA in 2003 for shipping six million copies in the United States, and was later certified six times platinum by Music Canada and platinum by the BPI. In 2015, Master of Puppets became the first metal recording to be selected by the Library of Congress for preservation in the National Recording Registry for being "culturally, historically, or aesthetically significant."
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/master-of-puppets-remastered/1440901428" >}}
+{{< applemusic url="https://music.apple.com/gb/album/master-of-puppets-remastered/1440901428" >}}<br>
+
+
 ## Videos
 ### METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)
 {{< youtube id="QPmVvAGPoIo" title="METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)" >}}<br>
@@ -63,8 +68,6 @@ Master of Puppets peaked at number 29 on the Billboard 200 and received widespre
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Master_of_Puppets |
-| Wikipedia Summary | Master of Puppets is the third studio album by American heavy metal band Metallica, released on March 3, 1986, by Elektra Records. Recorded in Denmark at Sweet Silence Studios with producer Flemming Rasmussen, it was the band's last album to feature bassist Cliff Burton, who died in a bus accident in Sweden during the album's promotional tour.<br>The album's artwork, designed by Metallica and Peter Mensch and painted by Don Brautigam, depicts a cemetery field of white crosses tethered to strings, manipulated by a pair of hands in a clouded, blood-red sky, with a fiery orange glow on the horizon. Instead of releasing a single or video in advance of the album's release, Metallica embarked on a five-month American tour in support of Ozzy Osbourne. The European leg was canceled after Burton's death in September 1986, and the band returned home to audition a new bassist.<br>Master of Puppets peaked at number 29 on the Billboard 200 and received widespread acclaim from critics, who praised its music and political lyrics. It is widely considered to be one of the greatest and most influential metal albums of all time, and is credited with consolidating the American thrash metal scene. It was certified six times platinum by the RIAA in 2003 for shipping six million copies in the United States, and was later certified six times platinum by Music Canada and platinum by the BPI. In 2015, Master of Puppets became the first metal recording to be selected by the Library of Congress for preservation in the National Recording Registry for being "culturally, historically, or aesthetically significant."<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND005-1 |

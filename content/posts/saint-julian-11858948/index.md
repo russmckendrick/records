@@ -34,9 +34,14 @@ styles: ["Alternative Rock", "Pop Rock"]
 <!-- section break -->
 
 Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/saint-julian-expanded-edition/1442418528" >}}
+{{< applemusic url="https://music.apple.com/gb/album/saint-julian-expanded-edition/1442418528" >}}<br>
+
+
 ## Videos
 ### Trampolene
 {{< youtube id="nSiA4Hm7gPc" title="Trampolene" >}}<br>
@@ -57,8 +62,6 @@ Saint Julian is the third solo album by Julian Cope. It has a very strong pop so
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Saint_Julian_(album) |
-| Wikipedia Summary | Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles). |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | ILPS 9861 |

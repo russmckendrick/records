@@ -50,9 +50,12 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-volume-i-volume-ii/1461891971" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-volume-i-volume-ii/1461891971" >}}<br>
+
+
 ## Videos
 ### Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP
 {{< youtube id="wltzv3no6bY" title="Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | CBS |
 | Catalog Number | CBS 88666 |

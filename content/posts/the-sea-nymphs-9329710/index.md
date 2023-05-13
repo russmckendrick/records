@@ -44,9 +44,12 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-sea-nymphs/1178220150" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-sea-nymphs/1178220150" >}}<br>
+
+
 ## Videos
 ### The Sea Nymphs : Abade
 {{< youtube id="h2McejcOiwI" title="The Sea Nymphs : Abade" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP021 |

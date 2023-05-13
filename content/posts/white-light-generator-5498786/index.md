@@ -55,9 +55,12 @@ styles: ["Prog Rock", "Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/white-light-generator/1600467011" >}}
+{{< applemusic url="https://music.apple.com/gb/album/white-light-generator/1600467011" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - White Light Generator - Album Teaser
 {{< youtube id="63_zUUoqRoQ" title="Crippled Black Phoenix - White Light Generator - Album Teaser" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Prog Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP, Vinyl LP (White), Vinyl 7" 45 RPM, All Media Album |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7430 1 |

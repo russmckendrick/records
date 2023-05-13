@@ -40,7 +40,10 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### CYBOTRON - Gods Of Norse
 {{< youtube id="fPCj8pD31RM" title="CYBOTRON - Gods Of Norse" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Repress (Gatefold Sleeve, Clear) |
 | Label          | Festival Records |
 | Catalog Number | FEST601025LX |

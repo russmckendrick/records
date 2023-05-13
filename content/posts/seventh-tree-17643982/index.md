@@ -50,9 +50,14 @@ Seventh Tree is the fourth studio album by English electronic music duo Goldfrap
 Four singles were released from the album. "A&E" was released as the lead single on 11 February 2008, peaking at number 10 on the UK Singles Chart. The album's second single, "Happiness", peaked at number 25 on the UK chart, while the third single, "Caravan Girl", reached number 54. "Clowns" was released as the fourth and final single, charting at number 115 in the UK.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/seventh-tree/1143225545" >}}
+{{< applemusic url="https://music.apple.com/gb/album/seventh-tree/1143225545" >}}<br>
+
+
 ## Videos
 ### Goldfrapp - A&E (Official HD Video)
 {{< youtube id="p7Ptai9I6eo" title="Goldfrapp - A&E (Official HD Video)" >}}<br>
@@ -69,8 +74,6 @@ Four singles were released from the album. "A&E" was released as the lead single
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Seventh_Tree |
-| Wikipedia Summary | Seventh Tree is the fourth studio album by English electronic music duo Goldfrapp, released on 22 February 2008 by Mute Records. It was named after a dream Alison Goldfrapp had about a "very large tree". Taking inspiration from paganism and surreal English children's books, Goldfrapp described the album as a "sensual counterpoint to the glitterball glamour of Supernature", their previous studio album from 2005.Seventh Tree became the duo's most critically acclaimed album since their 2000 debut Felt Mountain, with critics praising their new sound and their bravery for abandoning the dance atmosphere of their previous two albums. The album debuted at number two on the UK Albums Chart with 46,945 copies sold in its first week.<br>Four singles were released from the album. "A&E" was released as the lead single on 11 February 2008, peaking at number 10 on the UK Singles Chart. The album's second single, "Happiness", peaked at number 25 on the UK chart, while the third single, "Caravan Girl", reached number 54. "Clowns" was released as the fourth and final single, charting at number 115 in the UK.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Special Edition (Yellow) |
 | Label          | Mute |
 | Catalog Number | YSTUMM280 |

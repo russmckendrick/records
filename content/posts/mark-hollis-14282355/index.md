@@ -42,9 +42,15 @@ styles: ["Post Rock", "Acoustic"]
 <!-- section break -->
 
 This is the only solo album from former Talk Talk singer Mark Hollis. Like the latter-day Talk Talk (<i>Spirit of Eden</i>, <i>Laughing Stock</i>), <i>Mark Hollis</i> is filled with songs that float between genres and use the full dynamic range by hanging low until Hollis suddenly raises his voice for emphasis. Unlike any Talk Talk release, this is largely an acoustic album with none of the songs being co-written by longtime collaborator Tim Friese-Greene. The bassoon can be heard cresting through “The Watershed.” The piano breaks the silences of “Inside Looking Out”, where jazz chords, an acoustic guitar and a plaintive melody and a vocal with slight reverb create a solitary vibe and a stillness that is as affecting as music made at ten times the volume. The quiet continues throughout the album with “Westward Bound” mastering the silent break. Clarinets and bassoons open “The Daily Planet” before a sparse drum and bass pound out an irregular heartbeat. Hollis stands nearly alone in his vocal prowess, in the rarefied company of such idiosyncratic geniuses as David Sylvian and Scott Walker.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mark-hollis/1444101871" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mark-hollis/1444101871" >}}<br>
+
+
 ## Videos
 ### The Colour Of Spring
 {{< youtube id="Pdf--O5WWrU" title="The Colour Of Spring" >}}<br>
@@ -65,8 +71,6 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mark_Hollis_(album) |
-| Wikipedia Summary | Mark Hollis is the only solo album by the former Talk Talk frontman Mark Hollis. It was released on Polydor Records on 26 January 1998, then reissued on Pond Life on 13 March 2000. In 2003, the album was released in LP format on Universal Records.Its sound is noted for being extremely sparse and minimal; AllMusic called it "quite possibly the most quiet and intimate record ever made". Hollis found inspiration not in the popular music of the day, but rather in 20th-century classical music and jazz from the late fifties and sixties.The album did not mark a return for Hollis to the music industry or live performance; he stated at the time of the album's release that "There won't be any gig, not even at home in the living room. This material isn't suited to play live." |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Polydor |
 | Catalog Number | 080 288-0 |

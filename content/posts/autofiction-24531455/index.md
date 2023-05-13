@@ -45,9 +45,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Autofiction is the ninth studio album by English alternative rock band Suede. The album was released on 16 September 2022 via BMG to critical acclaim. It was their first release in four years, following 2018's The Blue Hour and their first since Night Thoughts in 2016 to feature longtime producer Ed Buller. The album was created as a stylistic distinction from their previous reunion work, which had taken on a more orchestral and cinematic scope.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}
+{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}<br>
+
+
 ## Videos
 ### 🔴Suede – Complete A Side [ Autofiction Special Edition, Grey LP ]🔴
 {{< youtube id="vFzylluzzws" title="🔴Suede – Complete A Side [ Autofiction Special Edition, Grey LP ]🔴" >}}<br>
@@ -68,8 +73,6 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Autofiction_(album) |
-| Wikipedia Summary | Autofiction is the ninth studio album by English alternative rock band Suede. The album was released on 16 September 2022 via BMG to critical acclaim. It was their first release in four years, following 2018's The Blue Hour and their first since Night Thoughts in 2016 to feature longtime producer Ed Buller. The album was created as a stylistic distinction from their previous reunion work, which had taken on a more orchestral and cinematic scope. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Stereo (Grey) |
 | Label          | BMG |
 | Catalog Number | 538804791 |

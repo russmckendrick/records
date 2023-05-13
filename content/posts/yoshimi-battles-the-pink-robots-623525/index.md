@@ -39,9 +39,14 @@ styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 <!-- section break -->
 
 Yoshimi Battles the Pink Robots is the tenth studio album by American rock band the Flaming Lips, released on July 16, 2002, by Warner Bros. Records. The album saw the band pursue a more electronic direction than previous efforts, incorporating acoustic guitars and rhythms influenced by hip hop and top 40 music. The album was well-received critically and commercially, helping the band break into popularity, and was adapted into a musical in 2012. In 2022, the band announced a 20th anniversary box set version of the album and that they would perform the album in full twice in early 2023.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots/1189403816" >}}
+{{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots/1189403816" >}}<br>
+
+
 ## Videos
 ### The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]
 {{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]" >}}<br>
@@ -54,8 +59,6 @@ Yoshimi Battles the Pink Robots is the tenth studio album by American rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yoshimi_Battles_the_Pink_Robots |
-| Wikipedia Summary | Yoshimi Battles the Pink Robots is the tenth studio album by American rock band the Flaming Lips, released on July 16, 2002, by Warner Bros. Records. The album saw the band pursue a more electronic direction than previous efforts, incorporating acoustic guitars and rhythms influenced by hip hop and top 40 music. The album was well-received critically and commercially, helping the band break into popularity, and was adapted into a musical in 2012. In 2022, the band announced a 20th anniversary box set version of the album and that they would perform the album in full twice in early 2023. |
-| Release Year   | 2002                                   |
 | Format         | Vinyl LP Album (Red Translucent, Gatefold) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-48141-1 |

@@ -34,9 +34,14 @@ styles: []
 <!-- section break -->
 
 21st Century Love Songs is the tenth studio album by English rock band The Wildhearts. It was released on 3 September 2021. The album was preceded by the singles "Sort Your Fucking Shit Out" and "Splitter". Singer/guitarist Ginger Wildheart has described the album as a chance to "flex our creative muscle". Ginger has also stated that the album's attitude is inspired by the band's most successful previous album, the 1995 release P.H.U.Q.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/21st-century-love-songs/1571957841" >}}
+{{< applemusic url="https://music.apple.com/gb/album/21st-century-love-songs/1571957841" >}}<br>
+
+
 ## Videos
 ### The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album
 {{< youtube id="TTpP3Nu12Us" title="The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album" >}}<br>
@@ -49,8 +54,6 @@ styles: []
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/21st_Century_Love_Songs |
-| Wikipedia Summary | 21st Century Love Songs is the tenth studio album by English rock band The Wildhearts. It was released on 3 September 2021. The album was preceded by the singles "Sort Your Fucking Shit Out" and "Splitter". Singer/guitarist Ginger Wildheart has described the album as a chance to "flex our creative muscle". Ginger has also stated that the album's attitude is inspired by the band's most successful previous album, the 1995 release P.H.U.Q. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album |
 | Label          | Graphite Records (3) |
 | Catalog Number | GRAPHFAR36LP |

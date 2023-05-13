@@ -40,9 +40,12 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/on-the-dry-land/1177144029" >}}
+{{< applemusic url="https://music.apple.com/gb/album/on-the-dry-land/1177144029" >}}<br>
+
+
 ## Videos
 ### The Sea Nymphs - The Black Blooded Clam
 {{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 032 |

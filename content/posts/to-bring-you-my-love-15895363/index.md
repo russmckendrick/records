@@ -42,9 +42,15 @@ styles: ["Alternative Rock"]
 
 After releasing two savage instant-classic LPs as a trio with drummer Rob Ellis and bassist Steve Vaughan as PJ Harvey, Polly Jean Harvey blew up her band but got to keep the name. When it was released in February 1995, <i>To Bring You My Love</i> felt like a tectonic shift—in scope, in sonics, in stakes—as the bare-bones minimalism of 1992’s <i>Dry</i> and 1993’s <i>Rid of Me</i> gave way to something bolder and more dramatic. Harvey took on U2’s producer (Flood), their management and at least some of their ambition, trading grungy (as opposed to grunge-y) aesthetics for gowns and theatricality. But viewed from a distance, the album feels more of a piece with its predecessors than nearly anything that would come in her career subsequently. It’s a perfect fulcrum in a rich discography: Her presence is still feral, but tempered by the more nuanced textures and moods that she would come to explore further and eventually define herself by. The album’s key personnel—chiefly, her one-time bandmate John Parish and the Bad Seeds’ Mick Harvey—would become her most frequent and important collaborators over the ensuing decades, and <i>To Bring You My Love</i> reads like a road map of where they would later go.<br />
 The opening title track sets the swampy, unsettling mood—a dark religious revival that channels the blues without mimicking it, forging a connection between American traditionalism and gothic English horror (see: the whispered, cursed incantation closing out “Down by the Water”—“Little fish, big fish, swimming in the water/Come back here, man, give me my daughter”). “Long Snake Moan” and “Meet Ze Monsta” channel the ferociousness Harvey built her reputation on, while “Working for the Man” and, particularly, closing track “The Dancer” point Harvey forward, exploring the power in relative restraint, of withholding in all the spots where she used to deploy exorcism.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love/1440922042" >}}
+{{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love/1440922042" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - Down By The Water
 {{< youtube id="lbq4G1TjKYg" title="PJ Harvey - Down By The Water" >}}<br>
@@ -67,8 +73,6 @@ The opening title track sets the swampy, unsettling mood—a dark religious revi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/To_Bring_You_My_Love |
-| Wikipedia Summary | To Bring You My Love is the third studio album by English alternative rock musician PJ Harvey. It was released by Island Records in February 1995.  Recorded after the break-up of the PJ Harvey trio, it stands as her first proper solo album.  The songs on the album are heavily influenced by American blues music.<br>Harvey co-produced the record with Flood and John Parish.  To Bring You My Love would be the first of Harvey's many collaborations with Flood and Parish.  The music on the album was played largely by Harvey and Parish, with contributions from seasoned musicians Joe Gore, Mick Harvey, Jean-Marc Butty, and others.  Many of the musicians who appeared on the album joined Harvey on tour to support it in 1995.<br>To Bring You My Love is considered to be PJ Harvey's breakthrough.  It garnered massive critical acclaim worldwide and became her best-selling album.  The single "Down by the Water" received extensive airplay on radio and on MTV. The album was placed on Rolling Stone magazine's original list of the 500 greatest albums of all time.<br><br> |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0896473 |

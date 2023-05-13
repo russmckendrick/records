@@ -33,9 +33,12 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009" >}}
+{{< applemusic url="https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009" >}}<br>
+
+
 ## Videos
 ### Curve - Horror Head (4K Remaster)
 {{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head (4K Remaster)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-52LP |

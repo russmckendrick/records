@@ -37,7 +37,10 @@ styles: ["New Wave", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### 'Enz of an Era' Vignette
 {{< youtube id="NbNMQ_j1wgY" title="'Enz of an Era' Vignette" >}}<br>
@@ -49,7 +52,6 @@ styles: ["New Wave", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl Mispress Compilation LP |
 | Label          | Mushroom |
 | Catalog Number | RML 52027 |

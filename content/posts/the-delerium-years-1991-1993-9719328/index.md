@@ -134,7 +134,10 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -143,7 +146,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Box Set Compilation Remastered, Vinyl 2× LP Album, Vinyl 2× LP Album, Vinyl 3× LP Album, Vinyl 2× LP Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE893 |

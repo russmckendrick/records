@@ -32,9 +32,14 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 <!-- section break -->
 
 Piledriver is the fifth studio album by the English rock band Status Quo, released in 1972. It was the first to be produced by the group themselves, and their first on the Vertigo label. It peaked at number five in the UK and included several favourites that would be featured frequently in live concerts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/piledriver-deluxe-version/1442895761" >}}
+{{< applemusic url="https://music.apple.com/gb/album/piledriver-deluxe-version/1442895761" >}}<br>
+
+
 
 
 ## Release Images
@@ -44,8 +49,6 @@ Piledriver is the fifth studio album by the English rock band Status Quo, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Piledriver_(album) |
-| Wikipedia Summary | Piledriver is the fifth studio album by the English rock band Status Quo, released in 1972. It was the first to be produced by the group themselves, and their first on the Vertigo label. It peaked at number five in the UK and included several favourites that would be featured frequently in live concerts. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723762 |

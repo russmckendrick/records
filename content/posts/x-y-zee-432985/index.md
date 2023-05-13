@@ -31,7 +31,10 @@ styles: ["Breakbeat", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix
 {{< youtube id="UKVYQFQ_wOg" title="Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Breakbeat", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" (Yellow) |
 | Label          | RCA |
 | Catalog Number | PT 44244 |

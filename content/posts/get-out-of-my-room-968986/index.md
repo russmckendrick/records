@@ -42,9 +42,15 @@ styles: ["Acoustic", "Comedy"]
 
 Get Out of My Room is an album and short-form video featuring comedians Cheech & Chong, released in 1985. The opening track "Born In East L.A." and "I'm Not Home Right Now" were the only singles released for the album.
 Following the album's release, Cheech left the duo in 1986 in order to focus on his mainstream acting career and while they have since reconvened, Get Out of My Room remains their last album to date.
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="6uUpFFTnVIHJGYJAWsv5qt" width="100%" height="500" >}}
+{{< spotify type="album" id="6uUpFFTnVIHJGYJAWsv5qt" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Cheech and Chong - Love is Strange
 {{< youtube id="_TK2pzRRfQ8" title="Cheech and Chong - Love is Strange" >}}<br>
@@ -61,8 +67,6 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Get_Out_of_My_Room |
-| Wikipedia Summary | Get Out of My Room is an album and short-form video featuring comedians Cheech & Chong, released in 1985. The opening track "Born In East L.A." and "I'm Not Home Right Now" were the only singles released for the album.<br>Following the album's release, Cheech left the duo in 1986 in order to focus on his mainstream acting career and while they have since reconvened, Get Out of My Room remains their last album to date. |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCA 5640 |

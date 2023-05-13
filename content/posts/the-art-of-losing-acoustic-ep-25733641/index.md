@@ -29,7 +29,10 @@ styles: ["Acoustic", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -38,7 +41,6 @@ styles: ["Acoustic", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1124 |

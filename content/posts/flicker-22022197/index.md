@@ -42,9 +42,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/flicker/1600686699" >}}
+{{< applemusic url="https://music.apple.com/gb/album/flicker/1600686699" >}}<br>
+
+
 ## Videos
 ### Andy Bell Something Like Love
 {{< youtube id="ttvHX1pClw4" title="Andy Bell Something Like Love" >}}<br>
@@ -73,7 +76,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Translucent Ochre + Gold Obi Strip) |
 | Label          | Sonic Cathedral Recordings |
 | Catalog Number | SCR200LP |

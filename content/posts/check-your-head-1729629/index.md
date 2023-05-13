@@ -55,9 +55,15 @@ styles: ["Cut-up/DJ", "Fusion"]
 Coming into the reinvention of 1992’s <i>Check Your Head</i>, the Beastie Boys were in weird shape. <i>Paul’s Boutique</i> had flopped, the money from <i>Licensed to Ill</i> had mostly dried up, and the band were in the process of downsizing from top-dollar studios and a rented mansion in Beverly Hills to apartments and a makeshift rehearsal spot above a pharmacy across town in Atwater Village.<br />
 In the absence of expectation came new kinds of freedom. They were playing instruments again, building loops from scratch—a project that not only tightened the album’s band-of-brothers spirit, but bridged their punk roots with jazz, funk and soul (“Groove Holmes”, “In 3’s”). They weren’t The Meters, and weren’t trying to pretend otherwise. But in the garage-band primitivism of the grooves lay a sense of willingness to step into situations where they could change, be challenged and grow. They were beginners again, and loving it. As Ad-Rock put it in the Apple TV+ documentary <i>Beastie Boys Story</i>, “Five years earlier, we’re at Madison Square Garden. Now we’re playing clubs. You’d think we’d be bummed out about it. But actually, falling off can be fun.”<br />
 Like <i>Paul’s Boutique</i>, <i>Check Your Head</i> flowed like a mixtape, but rougher and noisier—a coarse flannel to <i>Paul’s Boutique</i>’s disco blouse. The rap-rock fusion played as comedy on <i>Licensed to Ill</i> was sober now (“So What’Cha Want”), a shift that not only helped define the expanding boundaries for alternative music in the 1990s (think Beck, think Rage Against the Machine), but also tapped into a reality that America was just waking up to: For white suburban kids who, in the past, might’ve only listened to rock music, hip-hop wasn’t foreign anymore, but the dominant sound in the culture. And here were the reformed ex-jerks bringing it home.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/check-your-head-deluxe-version-remastered/715727996" >}}
+{{< applemusic url="https://music.apple.com/gb/album/check-your-head-deluxe-version-remastered/715727996" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,8 +73,6 @@ Like <i>Paul’s Boutique</i>, <i>Check Your Head</i> flowed like a mixtape, but
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Check_Your_Head |
-| Wikipedia Summary | Check Your Head is the third studio album by American hip hop group Beastie Boys, released by Grand Royal and Capitol Records on April 21, 1992. Three years elapsed between the releases of the band's second studio album Paul's Boutique and Check Your Head, which was recorded at the G-Son Studios in Atwater Village in 1991 under the guidance of producer Mario Caldato Jr., the group's third producer in as many albums.  Less sample-heavy than their previous records, the album features instrumental contributions from all three members: Adam Horovitz on guitar, Adam Yauch on bass guitar, and Mike Diamond on drums.<br>The album was re-released in a number of formats in 2009, with 16 b-sides and rarities, as well as a commentary track, included as bonus material. It is one of the albums profiled in the 2007 book Check the Technique, which includes a track-by-track breakdown by Diamond, Yauch, Horovitz, Caldato, and frequent Beasties collaborator Money Mark. |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Grand Royal |
 | Catalog Number | C1-94225 |

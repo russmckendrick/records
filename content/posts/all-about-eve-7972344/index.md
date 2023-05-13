@@ -47,9 +47,12 @@ styles: ["Folk Rock", "Alternative Rock", "Goth Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-about-eve/1442969916" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-about-eve/1442969916" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,7 +61,6 @@ styles: ["Folk Rock", "Alternative Rock", "Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mercury |
 | Catalog Number | MERH 119 |

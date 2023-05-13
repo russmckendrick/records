@@ -40,9 +40,12 @@ styles: ["Psychedelic", "Easy Listening"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/phantom-birds/1520178813" >}}
+{{< applemusic url="https://music.apple.com/gb/album/phantom-birds/1520178813" >}}<br>
+
+
 ## Videos
 ### Something In My Eye
 {{< youtube id="fSEOOB3-gqQ" title="Something In My Eye" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Psychedelic", "Easy Listening"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Bone) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP536B |

@@ -36,7 +36,10 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -45,7 +48,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Capitol Records UK |
 | Catalog Number | CAPS 2001 |

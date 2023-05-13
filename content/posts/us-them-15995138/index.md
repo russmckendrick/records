@@ -77,9 +77,12 @@ styles: ["Classic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/us-them/1517099398" >}}
+{{< applemusic url="https://music.apple.com/gb/album/us-them/1517099398" >}}<br>
+
+
 ## Videos
 ### Roger Waters - Welcome To The Machine (Us + Them)
 {{< youtube id="PtTzX_XsjYs" title="Roger Waters - Welcome To The Machine (Us + Them)" >}}<br>
@@ -97,7 +100,6 @@ styles: ["Classic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 3× LP Album (Tri-fold) |
 | Label          | Columbia |
 | Catalog Number | 19439707691 |

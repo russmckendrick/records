@@ -42,9 +42,12 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/smash-remastered/1485043082" >}}
+{{< applemusic url="https://music.apple.com/gb/album/smash-remastered/1485043082" >}}<br>
+
+
 ## Videos
 ### The Offspring - Come Out And Play
 {{< youtube id="1jOk8dk-qaU" title="The Offspring - Come Out And Play" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Epitaph |
 | Catalog Number | 86868-1 |

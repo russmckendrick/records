@@ -47,9 +47,14 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 <!-- section break -->
 
 Wiseblood is the fifth studio album by American heavy metal band Corrosion of Conformity. It was released on October 15, 1996 by Columbia Records, the band's second and final album for the label. Its name comes from the novel Wise Blood, written by Southern Gothic author Flannery O'Connor. Metallica's lead vocalist James Hetfield provides backing vocals on "Man or Ash". The song "Drowning in a Daydream" was nominated for Best Metal Performance at the 40th Grammy Awards ceremony (which went to Tool for "Ænema"). The album had sold 130,000 copies by 1999, selling less than Blind and Deliverance.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wiseblood/170614446" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wiseblood/170614446" >}}<br>
+
+
 ## Videos
 ### Corrosion Of Conformity - Drowning In a Daydream
 {{< youtube id="uqfPv93Zonw" title="Corrosion Of Conformity - Drowning In a Daydream" >}}<br>
@@ -64,8 +69,6 @@ Wiseblood is the fifth studio album by American heavy metal band Corrosion of Co
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wiseblood_(Corrosion_of_Conformity_album) |
-| Wikipedia Summary | Wiseblood is the fifth studio album by American heavy metal band Corrosion of Conformity. It was released on October 15, 1996 by Columbia Records, the band's second and final album for the label. Its name comes from the novel Wise Blood, written by Southern Gothic author Flannery O'Connor. Metallica's lead vocalist James Hetfield provides backing vocals on "Man or Ash". The song "Drowning in a Daydream" was nominated for Best Metal Performance at the 40th Grammy Awards ceremony (which went to Tool for "Ænema"). The album had sold 130,000 copies by 1999, selling less than Blind and Deliverance. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Stereo (Blue & Red Marbled Translucent, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP753 |

@@ -63,9 +63,12 @@ styles: ["Soundtrack", "Score"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-2-a-netflix-original-series-soundtrack/1145580199" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-2-a-netflix-original-series-soundtrack/1145580199" >}}<br>
+
+
 ## Videos
 ### Kyle Dixon & Michael Stein - Stranger Things Vol. 2
 {{< youtube id="itC9WixTGNE" title="Kyle Dixon & Michael Stein - Stranger Things Vol. 2" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Stereo (Clear [Frosted Clear] With White Blue And Red Splatter) |
 | Label          | Invada |
 | Catalog Number | INV177LP |

@@ -34,9 +34,14 @@ styles: ["Dub", "Alternative Rock"]
 <!-- section break -->
 
 Audioweb is the eponymously titled debut album from the Manchester-based band.  The album was released in the UK in October 1996, along with a 2CD limited edition version containing a bonus disc of 6 live tracks.The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/audioweb/1442541735" >}}
+{{< applemusic url="https://music.apple.com/gb/album/audioweb/1442541735" >}}<br>
+
+
 ## Videos
 ### Sleeper
 {{< youtube id="4bl1IbUH1A8" title="Sleeper" >}}<br>
@@ -60,8 +65,6 @@ Audioweb is the eponymously titled debut album from the Manchester-based band.  
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Audioweb_(album) |
-| Wikipedia Summary | Audioweb is the eponymously titled debut album from the Manchester-based band.  The album was released in the UK in October 1996, along with a 2CD limited edition version containing a bonus disc of 6 live tracks.The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC897 |

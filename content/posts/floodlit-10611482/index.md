@@ -28,9 +28,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/floodlit-ep/1540744493" >}}
+{{< applemusic url="https://music.apple.com/gb/album/floodlit-ep/1540744493" >}}<br>
+
+
 ## Videos
 ### Pijn - Dumbstruck & Floodlit Live
 {{< youtube id="F417DTW7O6o" title="Pijn - Dumbstruck & Floodlit Live" >}}<br>
@@ -44,7 +47,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP 45 RPM EP Limited Edition Repress (Cream) |
 | Label          | Holy Roar Records |
 | Catalog Number | HRR166 |

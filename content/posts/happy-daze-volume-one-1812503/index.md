@@ -41,7 +41,10 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Island Records |
 | Catalog Number | ILPTV 1 |

@@ -97,7 +97,10 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Life Moves Pretty Fast - The John Hughes Mixtapes Trailer
 {{< youtube id="nRp5WuZgvDM" title="Life Moves Pretty Fast - The John Hughes Mixtapes Trailer" >}}<br>
@@ -109,7 +112,6 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 6× LP Compilation (Translucent Red ), Box Set |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX71 |

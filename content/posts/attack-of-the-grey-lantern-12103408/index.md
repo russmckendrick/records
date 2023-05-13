@@ -38,9 +38,14 @@ styles: ["Psychedelic Rock", "Britpop"]
 <!-- section break -->
 
 Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}<br>
+
+
 ## Videos
 ### Mansun Wide Open Space
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}<br>
@@ -60,8 +65,6 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Attack_of_the_Grey_Lantern |
-| Wikipedia Summary | Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Limited Edition Reissue Remastered (Purple) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE992 |

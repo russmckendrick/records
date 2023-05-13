@@ -28,9 +28,12 @@ styles: ["Jazz-Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beatmaker-single/1597038144" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beatmaker-single/1597038144" >}}<br>
+
+
 ## Videos
 ### Beatmaker
 {{< youtube id="30ZQP2INn48" title="Beatmaker" >}}<br>
@@ -42,7 +45,6 @@ styles: ["Jazz-Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 7" 45 RPM Single Limited Edition Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJX635S |

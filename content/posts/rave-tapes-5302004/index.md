@@ -67,9 +67,14 @@ styles: ["Post Rock"]
 Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, released on 20 January 2014 on Rock Action Records in the UK, and the following day in the USA on Sub Pop. The album was released on vinyl, MC, CD, high resolution digital download and as part of a limited edition box set. In the first week of release the album charted at number 10 in the UK Album Charts and number 2 in the Scottish Album Charts. An EP of unreleased tracks from the Rave Tapes sessions along with remixes of three tracks was released on 1 December 2014 on Rock Action titled Music Industry 3. Fitness Industry 1..
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rave-tapes/761276074" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rave-tapes/761276074" >}}<br>
+
+
 ## Videos
 ### Mogwai - 'Remurdered'
 {{< youtube id="sZ5nEuG-CRc" title="Mogwai - 'Remurdered'" >}}<br>
@@ -88,8 +93,6 @@ Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rave_Tapes |
-| Wikipedia Summary | Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, released on 20 January 2014 on Rock Action Records in the UK, and the following day in the USA on Sub Pop. The album was released on vinyl, MC, CD, high resolution digital download and as part of a limited edition box set. In the first week of release the album charted at number 10 in the UK Album Charts and number 2 in the Scottish Album Charts. An EP of unreleased tracks from the Rave Tapes sessions along with remixes of three tracks was released on 1 December 2014 on Rock Action titled Music Industry 3. Fitness Industry 1..<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Box Set Limited Edition, Vinyl LP Album, Vinyl 12" 45 RPM (Pink), Vinyl 7" Single Sided 45 RPM Etched, CD Album, Cassette Album (Pink) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT80 |

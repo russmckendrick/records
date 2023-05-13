@@ -46,7 +46,10 @@ styles: ["Vocal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### If I Didn't Care
 {{< youtube id="Xt3QYPkoa64" title="If I Didn't Care" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Vocal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Compilation Reissue Mono |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50529 |

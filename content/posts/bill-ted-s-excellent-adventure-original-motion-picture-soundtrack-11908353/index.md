@@ -41,7 +41,10 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Big Pig - I Can't Break Away (Bill&Ted's Exellent Adventure)
 {{< youtube id="eDtAgi31zIc" title="Big Pig - I Can't Break Away (Bill&Ted's Exellent Adventure)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | B0026799-01 |

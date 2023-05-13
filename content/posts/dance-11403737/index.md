@@ -52,9 +52,14 @@ styles: ["Electro", "Synth-pop"]
 
 Dance is the third solo studio album by English new wave musician Gary Numan, released on 4 September 1981 by Beggars Banquet Records. It was the first studio album Numan released after his "Farewell Concerts" staged at Wembley Arena (although Numan would return to performing live shows in 1982).
 Dance features the UK Top 10 single "She's Got Claws". The album itself reached No. 3 on the UK charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dance/1325734803" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dance/1325734803" >}}<br>
+
+
 ## Videos
 ### Slowcar to China
 {{< youtube id="ROGHXpApiwE" title="Slowcar to China" >}}<br>
@@ -78,8 +83,6 @@ Dance features the UK Top 10 single "She's Got Claws". The album itself reached 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dance_(Gary_Numan_album) |
-| Wikipedia Summary | Dance is the third solo studio album by English new wave musician Gary Numan, released on 4 September 1981 by Beggars Banquet Records. It was the first studio album Numan released after his "Farewell Concerts" staged at Wembley Arena (although Numan would return to performing live shows in 1982).<br>Dance features the UK Top 10 single "She's Got Claws". The album itself reached No. 3 on the UK charts. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple, Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2146 |

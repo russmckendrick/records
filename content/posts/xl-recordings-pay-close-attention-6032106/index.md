@@ -68,9 +68,13 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="3D9vUf511saEHLua6NcOLw" width="100%" height="500" >}}
+{{< spotify type="album" id="3D9vUf511saEHLua6NcOLw" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Jonny L - Piper
 {{< youtube id="ZRH7O726jwc" title="Jonny L - Piper" >}}<br>
@@ -82,7 +86,6 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 4× LP, DVD DVD-Video, Box Set Compilation |
 | Label          | XL Recordings |
 | Catalog Number | XLLP637 |

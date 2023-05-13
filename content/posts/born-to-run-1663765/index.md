@@ -42,9 +42,15 @@ Born to Run is the third studio album by American singer-songwriter Bruce Spring
 Born to Run garnered widespread acclaim upon release, and is considered by many critics to be one of the greatest rock albums of all time. On November 14, 2005, a 30th Anniversary remaster of the album was released as a box set including two DVDs: a production diary film and a concert movie. The album was remastered again in 2014 by veteran mastering engineer Bob Ludwig, who has worked on much of Springsteen's audio output since 1982, for release as part of The Album Collection Vol. 1 1973–1984, a boxed set composed of remastered editions of his first seven albums. It was later released in remastered form as a single disc as well.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/born-to-run/310730204" >}}
+{{< applemusic url="https://music.apple.com/gb/album/born-to-run/310730204" >}}<br>
+
+
 ## Videos
 ### Thunder Road
 {{< youtube id="W2X0Gf9jfz8" title="Thunder Road" >}}<br>
@@ -65,8 +71,6 @@ Born to Run garnered widespread acclaim upon release, and is considered by many 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Born_to_Run |
-| Apple Music Summary | Springsteen's third album was the one that broke it all open for him, planting his tales of Jersey girls, cars, and nights spent sleeping on the beach firmly in the Top Five. He shot for an unholy hybrid of Orbison, Dylan and Spector—and actually reached it. "Come take my hand", he invited in the opening lines. "We're ridin' out tonight to case the Promised Land." Soon after this album, he'd discover the limits of such dreams, but here, it's a wide-open road: Even the tales of petty crime ("Meeting Across the River") and teen-gang violence ("Jungleland") are invested with all the wit and charm you can handle. Bruce's catalogue is filled with one-of-a-kind albums from <i>The Wild, The Innocent and the E Street Shuffle</i> to <i>The Ghost of Tom Joad</i>. Forty years on, <i>Born to Run</i> still sits near the very top of that stack. |
-    | Release Year   | 1975                                   |
 | Format         | Vinyl LP Album Misprint Stereo (Gatefold) |
 | Label          | CBS |
 | Catalog Number | S 69170 |

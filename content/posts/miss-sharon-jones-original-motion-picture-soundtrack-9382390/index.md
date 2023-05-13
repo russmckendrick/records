@@ -49,9 +49,14 @@ styles: ["Funk", "Soul", "Soundtrack"]
 <!-- section break -->
 
 Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowering primer to the Brooklyn soul legend. Jones and her unbeatable band sizzle through such signature cuts as the darkly funky “I Learned the Hard Way” and the horn-kicked “100 Days, 100 Nights,” both steeped in romantic remorse. The soundtrack closes with the stunning exclusive track “I’m Still Here,” capturing Jones at her most autobiographical. The movie, which follows Jones’ 2013 struggle with cancer, became even more bittersweet after her death three years later.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/miss-sharon-jones-original-motion-picture-soundtrack/1488038920" >}}
+{{< applemusic url="https://music.apple.com/gb/album/miss-sharon-jones-original-motion-picture-soundtrack/1488038920" >}}<br>
+
+
 ## Videos
 ### Sharon Jones & the Dap-Kings I'm Still Here
 {{< youtube id="XQOYAjd8icg" title="Sharon Jones & the Dap-Kings I'm Still Here" >}}<br>
@@ -81,8 +86,6 @@ Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowerin
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowering primer to the Brooklyn soul legend. Jones and her unbeatable band sizzle through such signature cuts as the darkly funky “I Learned the Hard Way” and the horn-kicked “100 Days, 100 Nights,” both steeped in romantic remorse. The soundtrack closes with the stunning exclusive track “I’m Still Here,” capturing Jones at her most autobiographical. The movie, which follows Jones’ 2013 struggle with cancer, became even more bittersweet after her death three years later. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Daptone Records |
 | Catalog Number | DAP-043 |

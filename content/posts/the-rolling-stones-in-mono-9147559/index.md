@@ -260,9 +260,12 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-rolling-stones-in-mono-remastered/1440774096" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-rolling-stones-in-mono-remastered/1440774096" >}}<br>
+
+
 
 
 ## Release Images
@@ -271,7 +274,6 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Compilation Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl 2× LP Compilation Remastered Mono (Stray Cats) |
 | Label          | ABKCO |
 | Catalog Number | 018771834519 |

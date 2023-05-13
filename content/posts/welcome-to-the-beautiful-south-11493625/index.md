@@ -42,9 +42,14 @@ styles: ["Pop Rock"]
 Welcome to the Beautiful South is the debut album by English band The Beautiful South, released in October 1989 by Go! Discs and the next year in the United States by Elektra Records. Three singles were released from the album, which became top 40 hits in the United Kingdom: "Song for Whoever" (#2), "You Keep It All In" (#8) and "I'll Sail This Ship Alone" (#31).
 The original album cover depicted two pictures by Jan Saudek, one of a woman with a gun in her mouth, and another with a man smoking. Woolworths refused to stock the album, in the words of the band, to "prevent the hoards [sic] of impressionable young fans from blowing their heads off in a gun-gobbling frenzy, or taking up smoking"; An alternative cover featuring a picture of a stuffed toy rabbit and a teddy bear was therefore made.  A second alternative cover was also prepared for the Canadian edition of the album; this version omitted the picture of the woman, and featured only the smoking man.
 NME included it in their "Top 100 Albums You've Never Heard" list in 2012.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-beautiful-south/1444032567" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-beautiful-south/1444032567" >}}<br>
+
+
 ## Videos
 ### The Beautiful South - Song For Whoever
 {{< youtube id="J-q_gAM1BXQ" title="The Beautiful South - Song For Whoever" >}}<br>
@@ -70,8 +75,6 @@ NME included it in their "Top 100 Albums You've Never Heard" list in 2012.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_the_Beautiful_South |
-| Wikipedia Summary | Welcome to the Beautiful South is the debut album by English band The Beautiful South, released in October 1989 by Go! Discs and the next year in the United States by Elektra Records. Three singles were released from the album, which became top 40 hits in the United Kingdom: "Song for Whoever" (#2), "You Keep It All In" (#8) and "I'll Sail This Ship Alone" (#31).<br>The original album cover depicted two pictures by Jan Saudek, one of a woman with a gun in her mouth, and another with a man smoking. Woolworths refused to stock the album, in the words of the band, to "prevent the hoards [sic] of impressionable young fans from blowing their heads off in a gun-gobbling frenzy, or taking up smoking"; An alternative cover featuring a picture of a stuffed toy rabbit and a teddy bear was therefore made.  A second alternative cover was also prepared for the Canadian edition of the album; this version omitted the picture of the woman, and featured only the smoking man.<br>NME included it in their "Top 100 Albums You've Never Heard" list in 2012. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue (Fluffy toys cover) |
 | Label          | Go! Discs |
 | Catalog Number | 5743901 |

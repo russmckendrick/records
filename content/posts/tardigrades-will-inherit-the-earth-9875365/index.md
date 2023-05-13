@@ -63,9 +63,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tardigrades-will-inherit-the-earth/1187309663" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tardigrades-will-inherit-the-earth/1187309663" >}}<br>
+
+
 ## Videos
 ### THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)
 {{< youtube id="AlmmvkV5olE" title="THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)" >}}<br>
@@ -80,7 +83,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (180 grams), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 474 |

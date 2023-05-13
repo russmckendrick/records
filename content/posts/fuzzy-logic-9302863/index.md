@@ -43,9 +43,14 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recorded at Rockfield Studios in Wales, and released on the Creation label in May 1996, it was positively received by critics, who felt it was an eclectic if inconsistent mix of psychedelic music and glam rock, and was included in Q Magazine's list of recordings of the year. It has retained a modest respect among some critics; it was listed in Q's "Best British Albums Ever" in July 2004, and is included in the book 1001 Albums You Must Hear Before You Die. It contains two top 20 hits in "If You Don't Want Me to Destroy You" and "Something 4 the Weekend"; it also contains the singles "God! Show Me Magic" and "Hometown Unicorn". It reached number 23 in the UK Albums Chart on release. In 2013, NME ranked it at number 245 in its list of the 500 Greatest Albums of All Time.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fuzzy-logic/1663218952" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fuzzy-logic/1663218952" >}}<br>
+
+
 ## Videos
 ### Super Furry Animals - God! Show Me Magic (Video)
 {{< youtube id="d1siktyfFxY" title="Super Furry Animals - God! Show Me Magic (Video)" >}}<br>
@@ -61,8 +66,6 @@ Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fuzzy_Logic_(Super_Furry_Animals_album) |
-| Wikipedia Summary | Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recorded at Rockfield Studios in Wales, and released on the Creation label in May 1996, it was positively received by critics, who felt it was an eclectic if inconsistent mix of psychedelic music and glam rock, and was included in Q Magazine's list of recordings of the year. It has retained a modest respect among some critics; it was listed in Q's "Best British Albums Ever" in July 2004, and is included in the book 1001 Albums You Must Hear Before You Die. It contains two top 20 hits in "If You Don't Want Me to Destroy You" and "Something 4 the Weekend"; it also contains the singles "God! Show Me Magic" and "Hometown Unicorn". It reached number 23 in the UK Albums Chart on release. In 2013, NME ranked it at number 245 in its list of the 500 Greatest Albums of All Time. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
 | Label          | BMG |
 | Catalog Number | BMGCATLP77 |

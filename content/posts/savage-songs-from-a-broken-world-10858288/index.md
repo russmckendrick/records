@@ -47,9 +47,12 @@ styles: ["Alternative Rock", "Industrial"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/savage-songs-from-a-broken-world/1254271396" >}}
+{{< applemusic url="https://music.apple.com/gb/album/savage-songs-from-a-broken-world/1254271396" >}}<br>
+
+
 ## Videos
 ### Gary Numan - Ghost Nation (Official Audio)
 {{< youtube id="r36v1grp3I0" title="Gary Numan - Ghost Nation (Official Audio)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Alternative Rock", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | BMG |
 | Catalog Number | 538307451 |

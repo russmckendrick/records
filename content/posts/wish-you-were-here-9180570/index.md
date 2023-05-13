@@ -41,12 +41,16 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-Wish You Were Here is the ninth studio album by the English rock band Pink Floyd, released on 12 September 1975 through Harvest Records and Columbia Records. Based on material Pink Floyd composed while performing in Europe, Wish You Were Here was recorded over numerous sessions throughout 1975 at EMI Studios (now Abbey Road Studios) in London.
-The themes include alienation and criticism of the music business. The bulk of the album is taken up by "Shine On You Crazy Diamond", a nine-part tribute to founding member Syd Barrett, who left the band seven years earlier due to his deteriorating mental health. Barrett coincidentally visited during the album's production in 1975. Like their previous record, The Dark Side of the Moon (1973), Pink Floyd used studio effects and synthesisers. Guest singers included Roy Harper, who provided the lead vocals on "Have a Cigar", and Venetta Fields, who added backing vocals to "Shine On You Crazy Diamond". To promote the album, the band released the double A-side single "Have a Cigar" / "Welcome to the Machine".
-On its release, Wish You Were Here received mixed reviews from critics, who found its music uninspiring and inferior to the band's previous work. It has retrospectively received critical acclaim, hailed as one of the greatest albums of all time, and was cited by keyboardist Richard Wright and guitarist David Gilmour as their favourite Pink Floyd album.
-    <br>
+As sprawling as their earlier epic <i>The Dark Side of the Moon</i> yet more focused, this 1975 jewel featured lengthy, left-of-centre excursions (“Shine on You Crazy Diamond”) that were both majestic and reverent—along with a couple barbs thrown at the music industry ("Have a Cigar", "Welcome to the Machine"). It's also partly Pink Floyd’s anguished and glorious tribute to the gifted Syd Barrett—whose career with the band ended seven years earlier—and a moving set from top to bottom.
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wish-you-were-here/704223460" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wish-you-were-here/704223460" >}}<br>
+
+
 ## Videos
 ### P̲ink F̲lo̲yd - W̲ish You W̲ere H̲e̲re (Full Album) 1975
 {{< youtube id="TMy_mYkwl4M" title="P̲ink F̲lo̲yd - W̲ish You W̲ere H̲e̲re (Full Album) 1975" >}}<br>
@@ -58,9 +62,7 @@ On its release, Wish You Were Here received mixed reviews from critics, who foun
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album) |
-| Apple Music Summary | As sprawling as their earlier epic <i>The Dark Side of the Moon</i> yet more focused, this 1975 jewel featured lengthy, left-of-centre excursions (“Shine on You Crazy Diamond”) that were both majestic and reverent—along with a couple barbs thrown at the music industry ("Have a Cigar", "Welcome to the Machine"). It's also partly Pink Floyd’s anguished and glorious tribute to the gifted Syd Barrett—whose career with the band ended seven years earlier—and a moving set from top to bottom. |
-    | Release Year   | 2016                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_song) |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP9 |

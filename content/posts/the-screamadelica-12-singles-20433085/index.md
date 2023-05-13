@@ -60,9 +60,12 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-screamadelica-12-singles/1581970344" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-screamadelica-12-singles/1581970344" >}}<br>
+
+
 
 
 ## Release Images
@@ -71,7 +74,6 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single (180g), Box Set Compilation |
 | Label          | Sony Music |
 | Catalog Number | 19439904541 |

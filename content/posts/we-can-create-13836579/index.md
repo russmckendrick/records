@@ -45,9 +45,14 @@ styles: ["Downtempo", "Shoegaze"]
 <!-- section break -->
 
 We Can Create is the debut album from Northampton-based artist Maps, released in 2007. It was shortlisted for the 2007 Mercury Music Prize, but lost out to Klaxons debut album Myths of the Near Future. Five singles were released from the album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-can-create/757501669" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we-can-create/757501669" >}}<br>
+
+
 ## Videos
 ### Make Yourself Exist
 {{< youtube id="bHSQsbSAuHQ" title="Make Yourself Exist" >}}<br>
@@ -69,8 +74,6 @@ We Can Create is the debut album from Northampton-based artist Maps, released in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Can_Create |
-| Wikipedia Summary | We Can Create is the debut album from Northampton-based artist Maps, released in 2007. It was shortlisted for the 2007 Mercury Music Prize, but lost out to Klaxons debut album Myths of the Near Future. Five singles were released from the album. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue (Green Glass) |
 | Label          | Mute |
 | Catalog Number | lstumm281 |

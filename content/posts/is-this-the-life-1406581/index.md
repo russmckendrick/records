@@ -28,7 +28,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Cardiacs - Is This The Life (Lyrics Video)
 {{< youtube id="rwwUYl3KKeY" title="Cardiacs - Is This The Life (Lyrics Video)" >}}<br>
@@ -45,7 +48,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl 7" 45 RPM Single |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | alph 008Sp |

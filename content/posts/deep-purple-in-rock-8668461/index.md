@@ -47,9 +47,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/deep-purple-in-rock-25th-anniversary-edition/696798568" >}}
+{{< applemusic url="https://music.apple.com/gb/album/deep-purple-in-rock-25th-anniversary-edition/696798568" >}}<br>
+
+
 ## Videos
 ### DEEP PURPLE - DEEP PURPLE IN ROCK - ORIGINAL - 1970/UK - SIDE-A - HQ AUDIO - REMASTERED / 4K VIDEO
 {{< youtube id="VymRIGR-CAg" title="DEEP PURPLE - DEEP PURPLE IN ROCK - ORIGINAL - 1970/UK - SIDE-A - HQ AUDIO - REMASTERED / 4K VIDEO" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Marbled) |
 | Label          | Harvest |
 | Catalog Number | SHVL 777 |

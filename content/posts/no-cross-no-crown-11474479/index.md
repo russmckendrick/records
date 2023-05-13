@@ -49,9 +49,12 @@ styles: ["Stoner Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-cross-no-crown/1458857714" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-cross-no-crown/1458857714" >}}<br>
+
+
 ## Videos
 ### CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)
 {{< youtube id="ljxyItzRZm4" title="CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Stoner Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 4243-1 |

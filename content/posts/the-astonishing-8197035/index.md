@@ -75,9 +75,15 @@ styles: ["Prog Rock", "Progressive Metal"]
 The Astonishing is the thirteenth studio album by American progressive metal band Dream Theater, released on January 29, 2016 through Roadrunner Records. It is the band's second concept album, with a story conceived by guitarist John Petrucci and music written by Petrucci and keyboardist Jordan Rudess. Composer David Campbell assisted with orchestrating the album's strings and choirs. The band recorded their parts for the album throughout 2015 at Cove City Sound Studios in Long Island, New York, with the exception of vocals, which were recorded in Canada. Mixing and sound engineering were performed by the band's longtime collaborator, Richard Chycki, with Petrucci producing.
 The Astonishing is set in a dystopian future United States and follows the Ravenskill Rebel Militia in their efforts to defy the Great Northern Empire of the Americas using the magical power of music. It was inspired by contemporary fantasy and science fiction franchises such as Game of Thrones and Star Wars, as well as Petrucci's observations on the ubiquity of technological automation in modern-day society. In their effort to match the album's narrative, Dream Theater wrote songs in a wide variety of styles ranging from mellow ballads to their more conventional progressive metal sound.
 Leading up to The Astonishing's release, the band marketed the album with its own website, fan mailing lists, and trailer. It debuted in the top ten of nine countries and became the first Dream Theater album to reach number one on the US Billboard Rock Chart. It has received generally favorable reviews from music critics, and the band toured to support the album throughout most of 2016.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-astonishing/1061243392" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-astonishing/1061243392" >}}<br>
+
+
 ## Videos
 ### Dream Theater - The Gift Of Music [OFFICIAL VIDEO]
 {{< youtube id="fae4FQ4McSY" title="Dream Theater - The Gift Of Music [OFFICIAL VIDEO]" >}}<br>
@@ -92,8 +98,6 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Astonishing |
-| Apple Music Summary | A two-hour concept album about creative musicians battling institutional enforcement of electronic cacophony in the year 2285, <i>The Astonishing</i> tones down Dream Theater’s super-musicianly dexterity somewhat in service of its plot. Emphasis goes to piano parts, jazz touches, classical choirs, and orchestral arias such as the one in “Act of Faythe.” But amid all the multicharacter rock opera, riff-shredders like “Our New World” still connect on their own, while “When Your Time Has Come” works as a miniature version of the whole project. |
-    | Release Year   | 2016                                   |
 | Format         | Box Set, Vinyl 2× LP, Vinyl 2× LP, All Media Album (180g) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7493-1 |

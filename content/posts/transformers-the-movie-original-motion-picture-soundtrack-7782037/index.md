@@ -43,7 +43,10 @@ styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Transformers The Movie (1986) Soundtrack - Unicron's Reckoning (Epic Suite) (Soundtrack Mix)
 {{< youtube id="3rlREG4ad4Q" title="Transformers The Movie (1986) Soundtrack - Unicron's Reckoning (Epic Suite) (Soundtrack Mix)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Single Sided Etched Limited Edition Stereo (Red Vinyl (Autobot)), Vinyl LP Single Sided Etched Limited Edition Stereo (Purple Vinyl (Decepticon)) |
 | Label          | Volcano (2) |
 | Catalog Number | 88875144321 |

@@ -38,7 +38,10 @@ styles: ["Pop Rock", "Goth Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Spear Of Destiny-The Wheel.wmv
 {{< youtube id="p-6rxCRTsK0" title="Spear Of Destiny-The Wheel.wmv" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Pop Rock", "Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Epic |
 | Catalog Number | 450872 1 |

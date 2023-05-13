@@ -37,9 +37,12 @@ styles: ["Art Rock", "Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mr-beast/122960260" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mr-beast/122960260" >}}<br>
+
+
 ## Videos
 ### Mogwai Auto Rock @ Les Nuits De Fourvière 2014
 {{< youtube id="5uyznyJQFI0" title="Mogwai Auto Rock @ Les Nuits De Fourvière 2014" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Art Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP (Yellow Transparent), Vinyl LP Single Sided Etched (Yellow Transparent), All Media Album Limited Edition |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASX062DLP |

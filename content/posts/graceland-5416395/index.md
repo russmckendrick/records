@@ -46,9 +46,15 @@ Graceland features an eclectic mixture of genres, including pop, rock, a cappell
 Graceland became Simon's most successful studio album and his highest-charting album in over a decade; it is estimated to have sold more than 16 million copies worldwide. It was lauded by critics, won the 1987 Grammy for Album of the Year, and is frequently cited as one of the best albums of all time. In 2006, it was added to the United States' National Recording Registry as "culturally, historically, or aesthetically important".
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/graceland/529574560" >}}
+{{< applemusic url="https://music.apple.com/gb/album/graceland/529574560" >}}<br>
+
+
 ## Videos
 ### Paul Simon - The Boy In The Bubble
 {{< youtube id="Uy5T6s25XK4" title="Paul Simon - The Boy In The Bubble" >}}<br>
@@ -72,8 +78,6 @@ Graceland became Simon's most successful studio album and his highest-charting a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Graceland_(album) |
-| Apple Music Summary | Released during the tense final years of apartheid, Paul Simon's <i>Graceland</i> introduced the buoyant textures of South African township music to vast international audiences. Simon’s collaborative genius—which calls on Los Lobos, Zydeco legend Good Rockin’ Dopsie, and Ladysmith Black Mambazo—invented a new musical language and earned a 1987 GRAMMY® for Album of the Year. The fractured narratives and emotionally fragile characters are unforgettable—whether it's the divorcé and his kid en route to Graceland, the unattainable girl with diamonds on the soles of her shoes, or the soft-in-the-middle hero of “You Can Call Me Al." |
-    | Release Year   | 1986                                   |
 | Format         | Vinyl LP Album (Embossed) |
 | Label          | Warner Bros. Records |
 | Catalog Number | WX 52 |

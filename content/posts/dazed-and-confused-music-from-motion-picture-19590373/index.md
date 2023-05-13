@@ -39,7 +39,10 @@ styles: ["Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Rock and Roll, Hoochie Koo
 {{< youtube id="KdSQA3SgWqk" title="Rock and Roll, Hoochie Koo" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
 | Label          | The Medicine Label |
 | Catalog Number | RCV1 24533 |

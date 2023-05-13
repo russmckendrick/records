@@ -40,9 +40,14 @@ styles: ["Mod"]
 
 My Generation is the debut studio album by English rock band the Who, released on 3 December 1965 by Brunswick Records in the United Kingdom, and Festival Records in Australia. In the United States, it was released on 25 April 1966 by Decca Records as The Who Sings My Generation, with a different cover and a slightly altered track listing. Besides the members of the Who, being Roger Daltrey (vocals), Pete Townshend (guitar), John Entwistle (bass) and Keith Moon (drums), the album features contributions by session musician Nicky Hopkins (piano).
 The album was made immediately after the Who got their first singles on the charts and, according to the booklet in the Deluxe Edition, it was later dismissed by the band as something of a rush job that did not accurately represent their stage performance of the time.  While it didn't sell as well as later albums, peaking at No. 5 on the UK charts and failing to chart in the US, critics have since retrospectively rated it as one of the best rock albums of all time, especially noting its hard sound unusual for the time, and presaging various hard rock styles such as punk and heavy metal.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/my-generation-stereo-version-deluxe-version/1443123252" >}}
+{{< applemusic url="https://music.apple.com/gb/album/my-generation-stereo-version-deluxe-version/1443123252" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +57,6 @@ The album was made immediately after the Who got their first singles on the char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Generation_(album) |
-| Wikipedia Summary | My Generation is the debut studio album by English rock band the Who, released on 3 December 1965 by Brunswick Records in the United Kingdom, and Festival Records in Australia. In the United States, it was released on 25 April 1966 by Decca Records as The Who Sings My Generation, with a different cover and a slightly altered track listing. Besides the members of the Who, being Roger Daltrey (vocals), Pete Townshend (guitar), John Entwistle (bass) and Keith Moon (drums), the album features contributions by session musician Nicky Hopkins (piano).<br>The album was made immediately after the Who got their first singles on the charts and, according to the booklet in the Deluxe Edition, it was later dismissed by the band as something of a rush job that did not accurately represent their stage performance of the time.  While it didn't sell as well as later albums, peaking at No. 5 on the UK charts and failing to chart in the US, critics have since retrospectively rated it as one of the best rock albums of all time, especially noting its hard sound unusual for the time, and presaging various hard rock styles such as punk and heavy metal. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Repress Mono |
 | Label          | Brunswick |
 | Catalog Number | 3715603 |

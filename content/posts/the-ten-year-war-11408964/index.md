@@ -205,9 +205,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1299225968" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1299225968" >}}<br>
+
+
 
 
 ## Release Images
@@ -216,7 +219,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Purple-Black Swirl, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Translucent Red With Blue Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Purple With Black Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Yellow With Black Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Orange With Purple Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Translucent With Red Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Grey With Red Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Clear With Turquoise Splatter, 180 gr.), Vinyl 7" Single Reissue Remastered, Vinyl 7" Single Reissue Remastered Mono, Memory Stick FLAC Reissue Remastered, Box Set Compilation Deluxe Edition Limited Edition Numbered Reissue Repress |
 | Label          | BMG |
 | Catalog Number | BMGCATBOX73 |

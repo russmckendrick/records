@@ -44,9 +44,15 @@ styles: ["Hard Rock"]
 Presence is the seventh studio album by the English rock band Led Zeppelin, released by Swan Song Records on 31 March 1976. While the record was commercially successful, reaching the top of both the British and American album charts, and achieving a triple-platinum certification in the United States by the RIAA, it received mixed reviews from critics and is the lowest-selling album by the band.
 The album was written and recorded in the last months of 1975, during a difficult time in the band's history. Singer Robert Plant was recuperating from serious injuries he had sustained earlier that year in a car accident; this led to tours being cancelled and the band booking studio time to record Presence instead. The entire album was completed in a few weeks, with guitarist and producer Jimmy Page putting in several long shifts to complete recording and mixing. The title came from the strong presence the group felt as they worked together. The LP's artwork from Hipgnosis featured several photographs focused on a mysterious black object, called "The Object".
 Presence is dominated by compositions by Page and Plant, with only one track credited to the entire group; unlike other Zeppelin albums, it features no keyboards and little acoustic guitar. Because Plant was still recuperating, the band could not tour to capitalise on the release, and only two tracks, including the ten-minute opener "Achilles Last Stand", were performed live. However, the album has been re-appraised in retrospective reviews for its hard rock dynamics and simplicity compared to the group's other work.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/presence-remastered/580707889" >}}
+{{< applemusic url="https://music.apple.com/gb/album/presence-remastered/580707889" >}}<br>
+
+
 ## Videos
 ### Led Zeppelin - Presence (1976) (Full Album)
 {{< youtube id="zi2D4c5TX-I" title="Led Zeppelin - Presence (1976) (Full Album)" >}}<br>
@@ -59,8 +65,6 @@ Presence is dominated by compositions by Page and Plant, with only one track cre
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Presence_(album) |
-| Apple Music Summary | Cut in 18 days as Robert Plant recovered from a serious car accident — he was forced to sing from a wheelchair — <i>Presence</i> is the most underappreciated of Led albums but nonetheless shows that even a rushed Zep could turn in convincingly soaring (“Achilles Last Stand”), thumping (“Nobody’s Fault But Mine”) and playful (“Royal Orleans”) stuff. Jimmy Page’s guitar solos, especially on the opening “Achilles,” are among his most urgent and driven, while Robert Plant appears more angst-ridden than he would until his solo days. Presence is ultimately proof that the most minor Led Zeppelin album could go head to head with many other bands’ most important ones. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Swan Song |
 | Catalog Number | 8122796579 |

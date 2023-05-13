@@ -39,7 +39,10 @@ styles: ["Folk"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Angels
 {{< youtube id="SKMX6PlDXC4" title="Angels" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Nude Records |
 | Catalog Number | NUDE 23 LP |

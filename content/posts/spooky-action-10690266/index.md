@@ -36,9 +36,14 @@ styles: ["Indie Rock", "Prog Rock"]
 <!-- section break -->
 
 Spooky Action is the debut solo album by English singer songwriter and ex-Mansun frontman Paul Draper, released on 11 August 2017. It entered the UK Albums Chart at No. 19 and peaked at No. 3 on the UK Independent Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/spooky-action/1244714904" >}}
+{{< applemusic url="https://music.apple.com/gb/album/spooky-action/1244714904" >}}<br>
+
+
 ## Videos
 ### Paul Draper - Don't Poke The Bear
 {{< youtube id="22WfZ8vM-r0" title="Paul Draper - Don't Poke The Bear" >}}<br>
@@ -53,8 +58,6 @@ Spooky Action is the debut solo album by English singer songwriter and ex-Mansun
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spooky_Action |
-| Wikipedia Summary | Spooky Action is the debut solo album by English singer songwriter and ex-Mansun frontman Paul Draper, released on 11 August 2017. It entered the UK Albums Chart at No. 19 and peaked at No. 3 on the UK Independent Albums Chart. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE913C |

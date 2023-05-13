@@ -43,9 +43,14 @@ styles: ["Hardcore", "Heavy Metal"]
 <!-- section break -->
 
 Dead Cross is an American crossover thrash supergroup formed in Southern California. The band consists of guitarist Michael Crain (Retox), bassist Justin Pearson (the Locust, Head Wound City and Retox), drummer Dave Lombardo (Slayer, Mr. Bungle and Fantômas) and vocalist Mike Patton (Faith No More, Mr. Bungle and Fantômas).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dead-cross/1228978283" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dead-cross/1228978283" >}}<br>
+
+
 ## Videos
 ### Dead Cross Seizure and Desist
 {{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}<br>
@@ -68,8 +73,6 @@ Dead Cross is an American crossover thrash supergroup formed in Southern Califor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dead_Cross |
-| Wikipedia Summary | Dead Cross is an American crossover thrash supergroup formed in Southern California. The band consists of guitarist Michael Crain (Retox), bassist Justin Pearson (the Locust, Head Wound City and Retox), drummer Dave Lombardo (Slayer, Mr. Bungle and Fantômas) and vocalist Mike Patton (Faith No More, Mr. Bungle and Fantômas). |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP 45 RPM Album Limited Edition (Gold) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC193LP |

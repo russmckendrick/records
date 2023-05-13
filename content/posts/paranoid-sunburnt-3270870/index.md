@@ -35,9 +35,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paranoid-sunburnt/1537828183" >}}
+{{< applemusic url="https://music.apple.com/gb/album/paranoid-sunburnt/1537828183" >}}<br>
+
+
 ## Videos
 ### Skunk Anansie - Intellectualise my blackness
 {{< youtube id="W-UPYJ7ugBM" title="Skunk Anansie - Intellectualise my blackness" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Alternative Rock", "Funk Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2008                                   |
 | Format         | Vinyl 2× LP 45 RPM Limited Edition Numbered Reissue Remastered (200 Gram) |
 | Label          | One Little Indian |
 | Catalog Number | TPLP55DMM |

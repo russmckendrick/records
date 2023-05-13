@@ -42,9 +42,14 @@ Side one contains three new songs that had not been previously issued, and which
 Side two is a mix of live cover versions of songs by band members and other artists. Jeff Lynne's "Do Ya" was a B-side to The Move's "California Man" single (1972) which had a double-track B-side also featuring the song "Ella James".
 As well as referring to the fact the album was recorded live, the title is an obvious paraphrase of the phrase "Another Life," referencing the Eastern philosophical concept of reincarnation, as alluded to in the first track on Side One. The printed title of Powell's instrumental "Mister Triscuits" was reportedly the result of Powell's publisher mistranscribing its original full title, "The Emerald Tablet of Hermes Trismegistus".
 With no singles released to push it higher, the album peaked at #66 on the Billboard 200 charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/another-live/100982431" >}}
+{{< applemusic url="https://music.apple.com/gb/album/another-live/100982431" >}}<br>
+
+
 ## Videos
 ### TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION
 {{< youtube id="zo9Oor_vYeE" title="TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION" >}}<br>
@@ -60,8 +65,6 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Another_Live |
-| Wikipedia Summary | Another Live is a live album by the progressive rock band Utopia. It was recorded in August 1975 and released in 1975 on Bearsville.<br>The record was the band's first fully live album, the first Utopia album to include future mainstays Powell and Wilcox, and the last to feature founding members Schuckett and Klingman. The trio of backing singers Arnold McCuller, David Lasley and Phil Ballou were also new to the group and toured the summer tour, being replaced that September with future star Luther Vandross and Anthony Hinton, who had toured the UK with Utopia later that year.<br>Side one contains three new songs that had not been previously issued, and which were either never recorded or not released as studio versions. (Live 1975 versions of Powell's "Mister Triscuits" and Rundgren's "The Wheel" can also be heard on the album Todd Rundgren's Utopia Live at Hammersmith Odeon '75). (Shout Music, 2012).<br>Side two is a mix of live cover versions of songs by band members and other artists. Jeff Lynne's "Do Ya" was a B-side to The Move's "California Man" single (1972) which had a double-track B-side also featuring the song "Ella James".<br>As well as referring to the fact the album was recorded live, the title is an obvious paraphrase of the phrase "Another Life," referencing the Eastern philosophical concept of reincarnation, as alluded to in the first track on Side One. The printed title of Powell's instrumental "Mister Triscuits" was reportedly the result of Powell's publisher mistranscribing its original full title, "The Emerald Tablet of Hermes Trismegistus".<br>With no singles released to push it higher, the album peaked at #66 on the Billboard 200 charts. |
-| Release Year   | 1975                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55508 |

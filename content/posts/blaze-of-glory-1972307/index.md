@@ -41,9 +41,14 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 
 Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally requested Bon Jovi's "Wanted Dead or Alive" as the theme song for his upcoming Billy the Kid sequel, but Jon Bon Jovi ended up composing an all-new theme song for the film's soundtrack instead.
 The album featured guests such as Elton John, Little Richard, and Jeff Beck, was awarded a Golden Globe and received Academy Award and Grammy nominations.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory-inspired-by-the-film-young-guns-ii/1440657641" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory-inspired-by-the-film-young-guns-ii/1440657641" >}}<br>
+
+
 ## Videos
 ### Billy Get Your Guns (From Young Guns II Soundtrack)
 {{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From Young Guns II Soundtrack)" >}}<br>
@@ -72,8 +77,6 @@ The album featured guests such as Elton John, Little Richard, and Jeff Beck, was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blaze_of_Glory_(Jon_Bon_Jovi_album) |
-| Wikipedia Summary | Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally requested Bon Jovi's "Wanted Dead or Alive" as the theme song for his upcoming Billy the Kid sequel, but Jon Bon Jovi ended up composing an all-new theme song for the film's soundtrack instead.<br>The album featured guests such as Elton John, Little Richard, and Jeff Beck, was awarded a Golden Globe and received Academy Award and Grammy nominations. |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | Vertigo |
 | Catalog Number | 846 473-1 |

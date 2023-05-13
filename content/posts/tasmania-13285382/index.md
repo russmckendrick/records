@@ -44,9 +44,12 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tasmania/1660070869" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tasmania/1660070869" >}}<br>
+
+
 ## Videos
 ### Pond - Daisy (Official Video)
 {{< youtube id="Ap2gStsDZZo" title="Pond - Daisy (Official Video)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (White) |
 | Label          | Marathon Artists |
 | Catalog Number | MA0145LPX |

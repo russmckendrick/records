@@ -47,9 +47,14 @@ styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post
 
 Everyone into Position is the second studio album by British progressive/alternative rock band Oceansize, released on 19 September 2005 on Beggars Banquet. The album marked the final appearance of bassist Jon Ellis.
 According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The Last Wrongs' there are all these weird ambient noises and what it was is that a friend of ours was in the Amazon jungle and recorded all these parrots. They sounded like kids laughing and shouting, not parrots."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everyone-into-position/1136804665" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everyone-into-position/1136804665" >}}<br>
+
+
 ## Videos
 ### Oceansize - New Pin
 {{< youtube id="1sc9tN_DVX0" title="Oceansize - New Pin" >}}<br>
@@ -62,8 +67,6 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everyone_into_Position |
-| Wikipedia Summary | Everyone into Position is the second studio album by British progressive/alternative rock band Oceansize, released on 19 September 2005 on Beggars Banquet. The album marked the final appearance of bassist Jon Ellis.<br>According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The Last Wrongs' there are all these weird ambient noises and what it was is that a friend of ours was in the Amazon jungle and recorded all these parrots. They sounded like kids laughing and shouting, not parrots." |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Splatter Yellow) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 LP2 |

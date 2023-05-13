@@ -28,9 +28,12 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/22-lunar-halo/1458756440" >}}
+{{< applemusic url="https://music.apple.com/gb/album/22-lunar-halo/1458756440" >}}<br>
+
+
 ## Videos
 ### With Arms and Legs Moving, The Tell Tales
 {{< youtube id="MsnqxGAGXb4" title="With Arms and Legs Moving, The Tell Tales" >}}<br>
@@ -44,7 +47,6 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK32LP |

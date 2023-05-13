@@ -31,7 +31,10 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -40,7 +43,6 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 10" 33 ⅓ RPM EP Limited Edition Stereo (White with Black Splatter) |
 | Label          | Sonic Cathedral Recordings |
 | Catalog Number | SCR192 |

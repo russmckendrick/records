@@ -60,9 +60,12 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s-20th-anniversary-remaster/1410176605" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s-20th-anniversary-remaster/1410176605" >}}<br>
+
+
 ## Videos
 ### Dry The Rain (Remaster)
 {{< youtube id="6XKvbROUmNk" title="Dry The Rain (Remaster)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP (Orange), Vinyl LP (Yellow), CD, All Media Compilation Limited Edition Reissue Remastered |
 | Label          | Because Music |
 | Catalog Number | BE5543747 |

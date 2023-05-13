@@ -39,9 +39,12 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-roachford/289538023" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-roachford/289538023" >}}<br>
+
+
 ## Videos
 ### Roachford Cuddly Toy Original Video
 {{< youtube id="gZvpVYm2kxI" title="Roachford Cuddly Toy Original Video" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | 460630 1 |

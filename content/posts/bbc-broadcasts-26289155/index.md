@@ -61,7 +61,12 @@ styles: ["Prog Rock", "Pop Rock"]
 BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.
 
 
-<br>
+    
+    
+
+
+
+
 
 
 ## Release Images
@@ -71,8 +76,6 @@ BBC Broadcasts is a box set by the English rock band Genesis. It was released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/BBC_Broadcasts |
-| Wikipedia Summary | BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.<br><br> |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 3× LP Compilation Stereo |
 | Label          | EMI |
 | Catalog Number | 00602435686370 |

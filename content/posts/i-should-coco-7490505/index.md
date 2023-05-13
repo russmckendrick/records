@@ -46,9 +46,14 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 I Should Coco is the debut studio album by English alternative rock band Supergrass, released on 15 May 1995 by Parlophone. The title of the album is cockney rhyming slang for "I should think so".Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and they released their debut single, "Caught by the Fuzz", in October 1994 on the small independent local label Backbeat Records. Success of the single brought a major label record deal. I Should Coco was recorded in Cornwall and produced by Sam Williams, who had been impressed by the band while scouting in Oxford. At the height of the Britpop era, the album became the band's most successful release when it reached number one on the UK Albums Chart, and subsequently gained platinum status, selling over a million copies worldwide and 500,000 in the UK. The most successful single released from I Should Coco is "Alright", which peaked at number two on the UK Singles Chart, and gained platinum status.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-should-coco/697226967" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-should-coco/697226967" >}}<br>
+
+
 ## Videos
 ### Supergrass - Caught By The Fuzz (Official HD Video - US Version)
 {{< youtube id="GNIMuvbiZcc" title="Supergrass - Caught By The Fuzz (Official HD Video - US Version)" >}}<br>
@@ -64,8 +69,6 @@ I Should Coco is the debut studio album by English alternative rock band Supergr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Should_Coco |
-| Wikipedia Summary | I Should Coco is the debut studio album by English alternative rock band Supergrass, released on 15 May 1995 by Parlophone. The title of the album is cockney rhyming slang for "I should think so".Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and they released their debut single, "Caught by the Fuzz", in October 1994 on the small independent local label Backbeat Records. Success of the single brought a major label record deal. I Should Coco was recorded in Cornwall and produced by Sam Williams, who had been impressed by the band while scouting in Oxford. At the height of the Britpop era, the album became the band's most successful release when it reached number one on the UK Albums Chart, and subsequently gained platinum status, selling over a million copies worldwide and 500,000 in the UK. The most successful single released from I Should Coco is "Alright", which peaked at number two on the UK Singles Chart, and gained platinum status. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Single, All Media Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0825646130573 |

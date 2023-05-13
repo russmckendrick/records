@@ -35,9 +35,12 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-groop-played-space-age-batchelor-pad-music/268672477" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-groop-played-space-age-batchelor-pad-music/268672477" >}}<br>
+
+
 ## Videos
 ### Avant Garde M.O.R.
 {{< youtube id="40fwESeQ3XE" title="Avant Garde M.O.R." >}}<br>
@@ -57,7 +60,6 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Mini-Album Reissue (Clear) |
 | Label          | Too Pure |
 | Catalog Number | PURE 19LP |

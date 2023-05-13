@@ -52,7 +52,10 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -61,7 +64,6 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation (Gold Vinyl) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 958 |

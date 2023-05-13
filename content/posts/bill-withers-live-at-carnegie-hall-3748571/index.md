@@ -46,9 +46,14 @@ styles: ["Soul", "Funk"]
 <!-- section break -->
 
 On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me.” It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney,” everyone in the room is a believer.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-carnegie-hall/203795472" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-carnegie-hall/203795472" >}}<br>
+
+
 ## Videos
 ### Use Me (Live at Carnegie Hall, New York, NY - October 1972)
 {{< youtube id="fSqtPjpKb6k" title="Use Me (Live at Carnegie Hall, New York, NY - October 1972)" >}}<br>
@@ -74,8 +79,6 @@ On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall i
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me.” It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney,” everyone in the room is a believer. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP432 |

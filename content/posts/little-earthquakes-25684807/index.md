@@ -49,9 +49,15 @@ styles: ["Alternative Rock", "Acoustic"]
 By now, the story of Tori Amos’ 1992 solo debut is familiar: Child prodigy starts band; band gets signed; band makes album that falls prey to the stylistic trappings of its day (1988’s self-titled <i>Y Kant Tori Read</i>); album flops, and child prodigy—now in her late twenties—faces the rare opportunity to be honest with herself and start over.<br />
 Even in the midst of landmark records by Tracy Chapman and Sinéad O’Connor, Amos stood out, a confessional female singer-songwriter who chose piano instead of guitar, who forsook conversational directness for a musical vocabulary as dense as art rock. The comparisons to Kate Bush made sense: Both seemed like they’d fallen out of the sky, wailing in a language more readily felt than understood. But Amos’ closest comparison was Joni Mitchell, not for her warmth or the rawness of her soul, but for the way she balanced the gut-punch of her subject matter—rape (“Me and a Gun”) the eroticism of power (“Silent All These Years”)—with music that was circuitous and complex, but still catchy, even funny. “You’ve found a girl who thinks really deep thoughts,” she sings on “Silent All These Years”. “What’s so amazing about really deep thoughts?”<br />
 Her label famously wanted to replace the album’s piano with guitars—a response in part to the predominance of bands like Nirvana. But the grace of <i>Little Earthquakes</i> is that no matter how abstract Amos is in presentation, she never leaves any doubt of where she’s coming from. And for as delicate as the music sounds at first glance, the lingering impression is one of confidence and power. Like Alanis Morissette and Fiona Apple, Amos brought you into her head without sparing you the ugliness and complexity that lived there.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/little-earthquakes-remastered/981370459" >}}
+{{< applemusic url="https://music.apple.com/gb/album/little-earthquakes-remastered/981370459" >}}<br>
+
+
 ## Videos
 ### Tori Amos - Silent All These Years (Official Music Video)
 {{< youtube id="HSYr0etDzRM" title="Tori Amos - Silent All These Years (Official Music Video)" >}}<br>
@@ -67,8 +73,6 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Little_Earthquakes |
-| Wikipedia Summary | Little Earthquakes is the debut solo album by the American singer-songwriter Tori Amos, featuring the singles "Silent All These Years", "China", "Winter" and "Crucify". After Atlantic Records rejected the first version of the album, Amos began working on a second version with her then-boyfriend Eric Rosse. The album was first released in the UK on January 6, 1992, where it peaked at number 14 in the charts.<br>It was well received by critics and listeners. In the US, the album reached the top 60 of the Billboard 200.  It is frequently regarded as one of the greatest albums of all time; it was voted number 73 in Colin Larkin's All Time Top 1000 Albums 3rd Edition (2000) and ranked number 233 on Rolling Stone's 500 greatest albums of all time.<br><br> |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Special Edition Stereo (Green Translucent [Cola-Bottle Clear]) |
 | Label          | Atlantic |
 | Catalog Number | R1 82358 |

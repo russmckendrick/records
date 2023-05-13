@@ -38,9 +38,12 @@ styles: ["Abstract", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/good-fortune/416266336" >}}
+{{< applemusic url="https://music.apple.com/gb/album/good-fortune/416266336" >}}<br>
+
+
 ## Videos
 ### Airborn Audio(M. Sayyid & High Priest) - This Year
 {{< youtube id="g6CBFUJaMyY" title="Airborn Audio(M. Sayyid & High Priest) - This Year" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Abstract", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2004                                   |
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN 95 |

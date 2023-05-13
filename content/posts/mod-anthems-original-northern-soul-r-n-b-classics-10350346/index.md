@@ -57,7 +57,10 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]
 {{< youtube id="kasWTpTQ1k4" title="Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]" >}}<br>
@@ -96,7 +99,6 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0190295831783 |

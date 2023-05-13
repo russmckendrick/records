@@ -45,9 +45,14 @@ styles: ["Electro", "Synth-pop"]
 <!-- section break -->
 
 Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 10 May 1981.The album deals with the themes of the rise of computers within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. The compositions are credited to Ralf Hütter, Florian Schneider, and Karl Bartos. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}
+{{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>
+
+
 ## Videos
 ### Kraftwerk - Computerwelt
 {{< youtube id="zWSkwvvfmco" title="Kraftwerk - Computerwelt" >}}<br>
@@ -63,8 +68,6 @@ Computer World (German: Computerwelt) is the eighth studio album by German elect
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Computer_World |
-| Wikipedia Summary | Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 10 May 1981.The album deals with the themes of the rise of computers within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. The compositions are credited to Ralf Hütter, Florian Schneider, and Karl Bartos. As was the case with the two previous albums, Computer World was released in both German- and English-language editions. |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6602317 |

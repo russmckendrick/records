@@ -36,9 +36,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-this-will-be-yours/1474856040" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-this-will-be-yours/1474856040" >}}<br>
+
+
 ## Videos
 ### Bruce Soord - All This Will Be Yours (from All This Will Be Yours)
 {{< youtube id="bQoF0vvCHUk" title="Bruce Soord - All This Will Be Yours (from All This Will Be Yours)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE952 |

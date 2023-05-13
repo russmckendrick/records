@@ -36,9 +36,14 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 <!-- section break -->
 
 Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983 by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 29, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with "Heart and Soul" and "The Heart of Rock & Roll" earning Grammy Award nominations. Sports did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sports-30th-anniversary-edition-2013-remaster/1440825555" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sports-30th-anniversary-edition-2013-remaster/1440825555" >}}<br>
+
+
 ## Videos
 ### Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)
 {{< youtube id="M7JVlpm0eRs" title="Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)" >}}<br>
@@ -60,8 +65,6 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sports_(Huey_Lewis_and_the_News_album) |
-| Wikipedia Summary | Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983 by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 29, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with "Heart and Soul" and "The Heart of Rock & Roll" earning Grammy Award nominations. Sports did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA. |
-| Release Year   | 1983                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1412 |

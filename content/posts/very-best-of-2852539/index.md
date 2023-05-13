@@ -53,9 +53,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Very Best of Morrissey is a compilation album by Morrissey, containing material he released during the 1980s and 1990s on EMI. It was released on 25 April 2011.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-morrissey-remastered/693149479" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-morrissey-remastered/693149479" >}}<br>
+
+
 ## Videos
 ### Morrissey - Boxers - Vinyl
 {{< youtube id="CW6xl0oYWjc" title="Morrissey - Boxers - Vinyl" >}}<br>
@@ -78,8 +83,6 @@ Very Best of Morrissey is a compilation album by Morrissey, containing material 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Very_Best_of_Morrissey |
-| Wikipedia Summary | Very Best of Morrissey is a compilation album by Morrissey, containing material he released during the 1980s and 1990s on EMI. It was released on 25 April 2011. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Major Minor |
 | Catalog Number | SMLP71 |

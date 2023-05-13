@@ -36,7 +36,10 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Beverly Hills Cop - full album - score and songs - Harold Faltermeyer
 {{< youtube id="QmhagVGxWiA" title="Beverly Hills Cop - full album - score and songs - Harold Faltermeyer" >}}<br>
@@ -71,7 +74,6 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Geffen Records |
 | Catalog Number | B0023070-01 |

@@ -55,9 +55,14 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 <!-- section break -->
 
 The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects not only the most beloved tracks from Frank Sinatra's Reprise years, but also some of the best tunes in the entire American Songbook. Here, the singer's strutting enunciation injects extra pep into "The Way You Look Tonight," his inimitably cool voice expressing every ounce of the lyrics' joy. "The Girl from Ipanema," meanwhile, leaves the U.S. entirely, with the Chairman sliding gracefully down the bossa nova classic.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-best-remastered/1440858119" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-best-remastered/1440858119" >}}<br>
+
+
 ## Videos
 ### Nothing But The Best (2008 Remastered)
 {{< youtube id="8GrYyuO0TOE" title="Nothing But The Best (2008 Remastered)" >}}<br>
@@ -71,8 +76,6 @@ The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects not only the most beloved tracks from Frank Sinatra's Reprise years, but also some of the best tunes in the entire American Songbook. Here, the singer's strutting enunciation injects extra pep into "The Way You Look Tonight," his inimitably cool voice expressing every ounce of the lyrics' joy. "The Girl from Ipanema," meanwhile, leaves the U.S. entirely, with the Chairman sliding gracefully down the bossa nova classic. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP (Blue), Vinyl LP (Transparent), All Media Compilation Limited Edition Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 00602435639901 |

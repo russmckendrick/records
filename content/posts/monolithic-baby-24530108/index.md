@@ -55,9 +55,12 @@ styles: ["Stoner Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/monolithic-baby/1635598919" >}}
+{{< applemusic url="https://music.apple.com/gb/album/monolithic-baby/1635598919" >}}<br>
+
+
 ## Videos
 ### Monster Magnet ‎– Slut Machine
 {{< youtube id="BrztzfOW7z4" title="Monster Magnet ‎– Slut Machine" >}}<br>
@@ -85,7 +88,6 @@ styles: ["Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1066VINYL |

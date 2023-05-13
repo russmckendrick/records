@@ -41,9 +41,14 @@ styles: ["New Wave"]
 
 Zenyatta Mondatta (stylised as Zenyattà Mondatta on the album cover artwork) is the third studio album by English rock band the Police, released on 3 October 1980 by A&M Records. It was co-produced by the band and Nigel Gray.
 Zenyatta Mondatta reached number one on the UK Albums Chart and number five on the US Billboard 200. It produced the hit singles "Don't Stand So Close to Me" and "De Do Do Do, De Da Da Da". The album won the band two Grammy Awards: Best Rock Performance by a Duo or Group with Vocal for "Don't Stand So Close to Me" and Best Rock Instrumental Performance for "Behind My Camel".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/zenyatta-mondatta-remastered/1440637146" >}}
+{{< applemusic url="https://music.apple.com/gb/album/zenyatta-mondatta-remastered/1440637146" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,8 +58,6 @@ Zenyatta Mondatta reached number one on the UK Albums Chart and number five on t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Zenyatta_Mondatta |
-| Wikipedia Summary | Zenyatta Mondatta (stylised as Zenyattà Mondatta on the album cover artwork) is the third studio album by English rock band the Police, released on 3 October 1980 by A&M Records. It was co-produced by the band and Nigel Gray.<br>Zenyatta Mondatta reached number one on the UK Albums Chart and number five on the US Billboard 200. It produced the hit singles "Don't Stand So Close to Me" and "De Do Do Do, De Da Da Da". The album won the band two Grammy Awards: Best Rock Performance by a Duo or Group with Vocal for "Don't Stand So Close to Me" and Best Rock Instrumental Performance for "Behind My Camel". |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64831 |

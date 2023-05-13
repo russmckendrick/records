@@ -41,9 +41,15 @@ styles: []
 <!-- section break -->
 
 In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to escape a pandemic-burdened winter in his hometown of Kansas City. There, he wrote <i>This Is a Photograph</i>, a folky, left-of-the-dial rock album and a particularly reflective entry in his catalogue. Its sound is sometimes earthy and gospel-inflected, sometimes lush and symphonic, with lyrics tinted by existential reflection and the spectre of death. The sinewy title track was inspired by family photos that Morby and his mother went through after thinking they’d just seen his father die following an accidental double dose of heart medication. The lived-in duet “Bittersweet, TN”, about the loss of a friend, features vocals by Erin Rae and floats along on its banjo lines. And the sparse but upbeat “Goodbye To Good Times” doesn’t offer any resolution, but instead presents a eulogy for better days as the songwriter strums his acoustic guitar, simultaneously nostalgic and grounded in the difficult present.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-is-a-photograph/1607541242" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-is-a-photograph/1607541242" >}}<br>
+
+
 ## Videos
 ### Kevin Morby - This is a Photograph (Official Video)
 {{< youtube id="hmxrnAouciM" title="Kevin Morby - This is a Photograph (Official Video)" >}}<br>
@@ -60,8 +66,6 @@ In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_a_Photograph |
-| Wikipedia Summary | This Is a Photograph is the seventh studio album by American indie rock musician Kevin Morby, released on May 13, 2022, on Dead Oceans. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (Gold Nugget) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC316 |

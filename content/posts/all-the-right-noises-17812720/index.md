@@ -52,9 +52,14 @@ styles: ["Classic Rock"]
 All the Right Noises is the thirteenth studio album by English hard rock band Thunder, released on 12 March 2021 through BMG Rights Management. The band promoted the album with an online live special broadcast on 13 March 2021, and are scheduled to support the album with a tour of the UK from May 2021.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-the-right-noises/1543696882" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-the-right-noises/1543696882" >}}<br>
+
+
 ## Videos
 ### Thunder - Last One Out Turn Off The Lights (Official Video)
 {{< youtube id="AWWZ38bQYZg" title="Thunder - Last One Out Turn Off The Lights (Official Video)" >}}<br>
@@ -67,8 +72,6 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_the_Right_Noises_(album) |
-| Wikipedia Summary | All the Right Noises is the thirteenth studio album by English hard rock band Thunder, released on 12 March 2021 through BMG Rights Management. The band promoted the album with an online live special broadcast on 13 March 2021, and are scheduled to support the album with a tour of the UK from May 2021.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition Stereo (Blue & Orange Galaxy) |
 | Label          | BMG |
 | Catalog Number | BMGCAT465CDLP |

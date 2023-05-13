@@ -36,9 +36,12 @@ styles: ["Folk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/where-have-all-the-flowers-gone-the-songs-of-pete-seeger/262257395" >}}
+{{< applemusic url="https://music.apple.com/gb/album/where-have-all-the-flowers-gone-the-songs-of-pete-seeger/262257395" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP |
 | Label          | Contour |
 | Catalog Number | 2870 380 |

@@ -40,9 +40,14 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 The Unforgettable Fire is the fourth studio album by Irish rock band U2. It was produced by Brian Eno and Daniel Lanois, and released on 1 October 1984 by Island Records. The band wanted to pursue a new musical direction following the harder-hitting rock of their previous album, War (1983). As a result, they employed Eno and Lanois to produce and assist in their experimentation with a more ambient sound. The resulting change in direction was at the time the band's most dramatic. The album's title is a reference to "The Unforgettable Fire", an art exhibit about the atomic bombing of Hiroshima.
 Recording began in May 1984 at Slane Castle, where the band lived, wrote, and recorded to find new inspiration. The album was completed in August 1984 at Windmill Lane Studios. It features atmospheric sounds and lyrics that lead vocalist Bono describes as "sketches". "Pride (In the Name of Love)" and "MLK" are lyrical tributes to Martin Luther King Jr.The Unforgettable Fire received generally favourable reviews from critics and produced the band's biggest hit at the time, "Pride (In the Name of Love)", as well as the live favourite "Bad". A 25th anniversary edition of the album was released in October 2009.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-unforgettable-fire/1443184272" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-unforgettable-fire/1443184272" >}}<br>
+
+
 ## Videos
 ### U2 - Pride (In The Name Of Love) (European Reissue CD)
 {{< youtube id="RlcAemuWdSY" title="U2 - Pride (In The Name Of Love) (European Reissue CD)" >}}<br>
@@ -55,8 +60,6 @@ Recording began in May 1984 at Slane Castle, where the band lived, wrote, and re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Unforgettable_Fire |
-| Wikipedia Summary | The Unforgettable Fire is the fourth studio album by Irish rock band U2. It was produced by Brian Eno and Daniel Lanois, and released on 1 October 1984 by Island Records. The band wanted to pursue a new musical direction following the harder-hitting rock of their previous album, War (1983). As a result, they employed Eno and Lanois to produce and assist in their experimentation with a more ambient sound. The resulting change in direction was at the time the band's most dramatic. The album's title is a reference to "The Unforgettable Fire", an art exhibit about the atomic bombing of Hiroshima.<br>Recording began in May 1984 at Slane Castle, where the band lived, wrote, and recorded to find new inspiration. The album was completed in August 1984 at Windmill Lane Studios. It features atmospheric sounds and lyrics that lead vocalist Bono describes as "sketches". "Pride (In the Name of Love)" and "MLK" are lyrical tributes to Martin Luther King Jr.The Unforgettable Fire received generally favourable reviews from critics and produced the band's biggest hit at the time, "Pride (In the Name of Love)", as well as the live favourite "Bad". A 25th anniversary edition of the album was released in October 2009. |
-| Release Year   | 1984                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Island Records |
 | Catalog Number | U25 |

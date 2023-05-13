@@ -36,9 +36,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983" >}}
+{{< applemusic url="https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 19075996061 |

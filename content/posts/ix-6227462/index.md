@@ -45,9 +45,12 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ix/1047146946" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ix/1047146946" >}}<br>
+
+
 ## Videos
 ### …And You Will Know Us By The Trail Of Dead – IX
 {{< youtube id="MJC8rfQ_wGA" title="…And You Will Know Us By The Trail Of Dead – IX" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album (Blue, 180g), CD Album, All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 033 |

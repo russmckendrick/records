@@ -31,9 +31,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/torpor/1494198864" >}}
+{{< applemusic url="https://music.apple.com/gb/album/torpor/1494198864" >}}<br>
+
+
 ## Videos
 ### Baron - Stry
 {{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Svart Records |
 | Catalog Number | SVR338 |

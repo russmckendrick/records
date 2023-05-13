@@ -61,9 +61,14 @@ Boys and Girls in America is the third studio album by the Hold Steady, released
 On August 18, 2006, first single "Chips Ahoy!" was released as a free download from music site Pitchfork Media.  The second single, "Stuck Between Stations" began to appear on campus radio playlists in November 2006.
 Backing vocals for the track "Chillout Tent" are provided by Soul Asylum's Dave Pirner and the Reputation's Elizabeth Elmore.  Dana Kletter (ex-Blackgirls, Dear Enemy, and Hole's Live Through This) contributed backing vocals to "Chips Ahoy!", "You Can Make Him Like You", and "First Night".The album title is a line taken from the opening lines of the song "Stuck Between Stations" ("There are nights when I think that Sal Paradise was right/Boys and girls in America have such a sad time together"), which in turn refers to a quote from American novelist and poet Jack Kerouac's 1957 novel On the Road and its narrator, Sal Paradise.  The title is repeated in the lyrics in "First Night."
 Boys and Girls in America has sold 94,000 albums as of April 2010.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boys-and-girls-in-america/208395734" >}}
+{{< applemusic url="https://music.apple.com/gb/album/boys-and-girls-in-america/208395734" >}}<br>
+
+
 ## Videos
 ### The Hold Steady - Stuck Between Stations [Official Video]
 {{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - Stuck Between Stations [Official Video]" >}}<br>
@@ -76,8 +81,6 @@ Boys and Girls in America has sold 94,000 albums as of April 2010.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boys_and_Girls_in_America |
-| Wikipedia Summary | Boys and Girls in America is the third studio album by the Hold Steady, released on October 3, 2006, by Vagrant Records.<br>On August 18, 2006, first single "Chips Ahoy!" was released as a free download from music site Pitchfork Media.  The second single, "Stuck Between Stations" began to appear on campus radio playlists in November 2006.<br>Backing vocals for the track "Chillout Tent" are provided by Soul Asylum's Dave Pirner and the Reputation's Elizabeth Elmore.  Dana Kletter (ex-Blackgirls, Dear Enemy, and Hole's Live Through This) contributed backing vocals to "Chips Ahoy!", "You Can Make Him Like You", and "First Night".The album title is a line taken from the opening lines of the song "Stuck Between Stations" ("There are nights when I think that Sal Paradise was right/Boys and girls in America have such a sad time together"), which in turn refers to a quote from American novelist and poet Jack Kerouac's 1957 novel On the Road and its narrator, Sal Paradise.  The title is repeated in the lyrics in "First Night."<br>Boys and Girls in America has sold 94,000 albums as of April 2010. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Deluxe Edition (Gatefold) |
 | Label          | Vagrant Records |
 | Catalog Number | 538247700 |

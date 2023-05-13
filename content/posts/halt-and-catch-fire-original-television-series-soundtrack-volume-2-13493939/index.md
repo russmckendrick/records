@@ -47,9 +47,12 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-vol-2-original-television-series/1446955010" >}}
+{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-vol-2-original-television-series/1446955010" >}}<br>
+
+
 ## Videos
 ### Mosaic
 {{< youtube id="fi4_G2nB_-s" title="Mosaic" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Lakeshore Records |
 | Catalog Number | FROST007LPX |

@@ -41,9 +41,15 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 The poster boy for melancholic singer/songwriters, Nick Drake recorded three very different studio albums in his 26 years. Where his debut <i>Five Leaves Left</i> is somber and string-laden, and his swan song <i>Pink Moon</i> acoustic and stark, <i>Bryter Layter</i> is a virtual party, featuring strings, horns, and a galvanizing rhythm section on loan from Fairport Convention. The band dynamic tints Drake's compositions with a cosmopolitan flavor. You can practically smell the sophisticated nightclub of "At the Chime of the City Clock." When Drake does slow things to a contemplative crawl, it's for three momentous songs. Brilliantly augmented by John Cale's swelling viola and harpsichord, "Hazey Jane I," "Fly," and "Northern Sky" are wistful, romantic tunes that capture Drake's overwhelming sense of displacement in a harsh yet beautiful world.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bryter-layter-remastered/1440723775" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bryter-layter-remastered/1440723775" >}}<br>
+
+
 ## Videos
 ### Introduction
 {{< youtube id="jciIE7lh4hw" title="Introduction" >}}<br>
@@ -66,8 +72,6 @@ The poster boy for melancholic singer/songwriters, Nick Drake recorded three ver
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bryter_Layter |
-| Wikipedia Summary | Bryter Layter is the second studio album by English folk singer-songwriter Nick Drake. Recorded in 1970 and released on 5 March 1971 by Island Records, it would be his last album to feature backing musicians, as his next and final studio album, Pink Moon, would have Drake perform all songs solo. |
-    | Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Textured Sleeve) |
 | Label          | Island Records |
 | Catalog Number | 0602537347551 |

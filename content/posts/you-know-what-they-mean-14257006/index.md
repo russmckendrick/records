@@ -51,9 +51,12 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/you-know-what-they-mean/1475485888" >}}
+{{< applemusic url="https://music.apple.com/gb/album/you-know-what-they-mean/1475485888" >}}<br>
+
+
 ## Videos
 ### Lansing
 {{< youtube id="KT0e1ZwJtU8" title="Lansing" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 535 |

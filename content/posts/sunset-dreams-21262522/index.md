@@ -35,9 +35,12 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sunset-dreams/1668233212" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sunset-dreams/1668233212" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" EP (White) |
 | Label          | Fire Records |
 | Catalog Number | FIRE643W |

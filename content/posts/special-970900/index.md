@@ -39,9 +39,12 @@ styles: ["Reggae"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/special/185718171" >}}
+{{< applemusic url="https://music.apple.com/gb/album/special/185718171" >}}<br>
+
+
 ## Videos
 ### Special
 {{< youtube id="7t_56xBaLwY" title="Special" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CX 85878 |

@@ -43,9 +43,15 @@ styles: ["Heavy Metal"]
 
 The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the United Kingdom by EMI Records and in the United States by Harvest and Capitol Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.
 The Number of the Beast was met with critical and commercial success, and became the band's first album to top the UK Albums Chart and reach the top 40 of the US Billboard 200. The album produced the singles "Run to the Hills" and "The Number of the Beast", the former of which became the band's first top-ten UK single. The album was also controversial, particularly in the United States, due to the religious references in its artwork and the title track's lyrics. Since the release of The Number of the Beast, "The Beast" has become an alternate name for Iron Maiden and was later used in the titles of some of their compilations and live releases, including Best of the Beast and Visions of the Beast.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-number-of-the-beast/979953728" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-number-of-the-beast/979953728" >}}<br>
+
+
 ## Videos
 ### Invaders (2015 Remaster)
 {{< youtube id="iQ5JAxPqum0" title="Invaders (2015 Remaster)" >}}<br>
@@ -66,8 +72,6 @@ The Number of the Beast was met with critical and commercial success, and became
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Number_of_the_Beast_(album) |
-| Apple Music Summary | Original lead singer Paul Di’Anno left Iron Maiden after their 1981 world tour. His replacement—Bruce Dickinson—proved more than up for the job. Bassist and chief songwriter Steve Harris caught lightning in a bottle with a collection of tunes that became cornerstones of the Maiden catalog. There isn’t a weak song here. The title track and “Run to the Hills” are crowd-pleasers while “Children of the Damned,” “The Prisoner,” and “Hallowed Be Thy Name” are exemplary displays of the group’s instrumental prowess, its uncanny knack for writing accessible riffs, and a perfect launchpad for Dickinson’s commanding operatic vocal style. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Parlophone |
 | Catalog Number | 2564625240 |

@@ -42,9 +42,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hello-good-evening-welcome-and-goodbye-live/1594857663" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hello-good-evening-welcome-and-goodbye-live/1594857663" >}}<br>
+
+
 ## Videos
 ### The Music that Nobody Likes (Live)
 {{< youtube id="CQwq74RfkZw" title="The Music that Nobody Likes (Live)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (Red ) |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-50LP |

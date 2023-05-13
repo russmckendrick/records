@@ -44,9 +44,14 @@ styles: ["Prog Rock"]
 Three of a Perfect Pair is the tenth studio album by English band King Crimson, released in March 1984 by record label E.G. It is the final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/three-of-a-perfect-pair-expanded-edition/1090449276" >}}
+{{< applemusic url="https://music.apple.com/gb/album/three-of-a-perfect-pair-expanded-edition/1090449276" >}}<br>
+
+
 ## Videos
 ### King Crimson - Three Of A Perfect Pair
 {{< youtube id="QdMHy074kNc" title="King Crimson - Three Of A Perfect Pair" >}}<br>
@@ -59,8 +64,6 @@ Three of a Perfect Pair is the tenth studio album by English band King Crimson, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Three_of_a_Perfect_Pair |
-| Wikipedia Summary | Three of a Perfect Pair is the tenth studio album by English band King Crimson, released in March 1984 by record label E.G. It is the final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP10 |

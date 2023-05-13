@@ -63,7 +63,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Nick Mason - Fictitious Sports (Full Album) HD. Tracklist
 {{< youtube id="1r1DStEjS48" title="Nick Mason - Fictitious Sports (Full Album) HD. Tracklist" >}}<br>
@@ -90,7 +93,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
 | Label          | Warner Music Group |
 | Catalog Number | 0190295660222 |

@@ -41,9 +41,14 @@ styles: ["Techno"]
 <!-- section break -->
 
 Monsters Exist is the ninth studio album by Orbital, released on 14 September 2018 through their own ACP label. It is their first studio album in six years (their last studio album Wonky was released in 2012) and the first since they reformed for the second time in 2017.  The title is shown in the earlier video for "The Box" in 1996 when Tilda Swinton glances at an array of TV screens.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/monsters-exist-deluxe/1380840392" >}}
+{{< applemusic url="https://music.apple.com/gb/album/monsters-exist-deluxe/1380840392" >}}<br>
+
+
 ## Videos
 ### Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)
 {{< youtube id="GEmw73HGyAA" title="Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
@@ -71,8 +76,6 @@ Monsters Exist is the ninth studio album by Orbital, released on 14 September 20
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Monsters_Exist |
-| Wikipedia Summary | Monsters Exist is the ninth studio album by Orbital, released on 14 September 2018 through their own ACP label. It is their first studio album in six years (their last studio album Wonky was released in 2012) and the first since they reformed for the second time in 2017.  The title is shown in the earlier video for "The Box" in 1996 when Tilda Swinton glances at an array of TV screens. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1806 |

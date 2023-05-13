@@ -46,9 +46,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}
+{{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}<br>
+
+
 ## Videos
 ### Oceansize - Catalyst
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Yellow/Red Swirl) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 235X |

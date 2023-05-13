@@ -45,9 +45,14 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 
 Amorica (stylized as amorica.) is the third studio album by American rock band The Black Crowes. Spawned from the band's unreleased, incompleted, scrapped Tall album, Amorica was released November 1, 1994, on American Recordings and reissued in the UK in 1998 with two bonus tracks. Amorica reached gold status in the United States, shipping 500,000 copies.
 The record cover notably featured a close-up photo of the pelvic region of a woman wearing a United States flag thong with pubic hair showing at the top of the thong. The cover photo was taken from the cover of the July 1976 issue of Hustler magazine. The album with this cover was subsequently banned from chain stores like Walmart and Kmart, resulting in the cover being censored with a solid black background, displaying only the thong.Other songs recorded during the Amorica sessions were "Feathers", "Tied Up and Swallowed" and "Chevrolet" (a Taj Mahal cover). These tracks were later released as B-sides, bonus tracks or on compilation albums.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}<br>
+
+
 ## Videos
 ### The Black Crowes - A Conspiracy
 {{< youtube id="zvGXRCQSd44" title="The Black Crowes - A Conspiracy" >}}<br>
@@ -72,8 +77,6 @@ The record cover notably featured a close-up photo of the pelvic region of a wom
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amorica |
-| Wikipedia Summary | Amorica (stylized as amorica.) is the third studio album by American rock band The Black Crowes. Spawned from the band's unreleased, incompleted, scrapped Tall album, Amorica was released November 1, 1994, on American Recordings and reissued in the UK in 1998 with two bonus tracks. Amorica reached gold status in the United States, shipping 500,000 copies.<br>The record cover notably featured a close-up photo of the pelvic region of a woman wearing a United States flag thong with pubic hair showing at the top of the thong. The cover photo was taken from the cover of the July 1976 issue of Hustler magazine. The album with this cover was subsequently banned from chain stores like Walmart and Kmart, resulting in the cover being censored with a solid black background, displaying only the thong.Other songs recorded during the Amorica sessions were "Feathers", "Tied Up and Swallowed" and "Chevrolet" (a Taj Mahal cover). These tracks were later released as B-sides, bonus tracks or on compilation albums. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | American Recordings |
 | Catalog Number | 00602537494231 |

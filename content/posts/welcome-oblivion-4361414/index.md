@@ -60,9 +60,14 @@ styles: ["Industrial", "Electro"]
 <!-- section break -->
 
 Welcome Oblivion is the debut studio album by American post-industrial group How to Destroy Angels. It was released on March 5, 2013 on Columbia Records. It was described as "sensual electronic rock" by the Los Angeles Times.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-oblivion/604859646" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-oblivion/604859646" >}}<br>
+
+
 ## Videos
 ### How to Destroy Angels - Welcome Oblivion (Full Album)
 {{< youtube id="jQM-laUav_g" title="How to Destroy Angels - Welcome Oblivion (Full Album)" >}}<br>
@@ -83,8 +88,6 @@ Welcome Oblivion is the debut studio album by American post-industrial group How
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_Oblivion |
-| Wikipedia Summary | Welcome Oblivion is the debut studio album by American post-industrial group How to Destroy Angels. It was released on March 5, 2013 on Columbia Records. It was described as "sensual electronic rock" by the Los Angeles Times. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Columbia |
 | Catalog Number | 88765475461 |

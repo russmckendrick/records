@@ -35,9 +35,12 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-sadness-or-farewell/1601045064" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-sadness-or-farewell/1601045064" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - Hold On (Goodbye To All Of That)
 {{< youtube id="E5oVTs7WTKA" title="Crippled Black Phoenix - Hold On (Goodbye To All Of That)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP EP |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7397 1 |

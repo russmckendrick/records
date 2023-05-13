@@ -41,9 +41,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dry-demos/1515280509" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dry-demos/1515280509" >}}<br>
+
+
 ## Videos
 ### Oh My Lover (Demo)
 {{< youtube id="0iohH75zxjc" title="Oh My Lover (Demo)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Island Records |
 | Catalog Number | 0878247 |

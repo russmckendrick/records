@@ -40,9 +40,14 @@ styles: ["Indie Rock"]
 
 The Fidelity Wars is the second full-length album by British indie rock band Hefner. Recorded in London over a period of twelve days at Roundhouse Studios, it was released in 1999 on Too Pure. It was the first Hefner album to feature Jack Hayter.
 It was reissued by lead singer Darren Hayman in 2008.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-fidelity-wars/1057821453" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-fidelity-wars/1057821453" >}}<br>
+
+
 ## Videos
 ### Hefner - I Took Her Love For Granted (Official Video)
 {{< youtube id="KgTg_cjk0Fc" title="Hefner - I Took Her Love For Granted (Official Video)" >}}<br>
@@ -57,8 +62,6 @@ It was reissued by lead singer Darren Hayman in 2008.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Fidelity_Wars |
-| Wikipedia Summary | The Fidelity Wars is the second full-length album by British indie rock band Hefner. Recorded in London over a period of twelve days at Roundhouse Studios, it was released in 1999 on Too Pure. It was the first Hefner album to feature Jack Hayter.<br>It was reissued by lead singer Darren Hayman in 2008. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wialp081 |

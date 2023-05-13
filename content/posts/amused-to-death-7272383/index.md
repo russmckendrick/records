@@ -47,9 +47,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 Amused to Death is the third studio album by English musician Roger Waters, released 7 September 1992 on Columbia. Produced by Waters and Patrick Leonard, it was mixed in QSound to enhance its spatial feel. The album features Jeff Beck on lead guitar on several tracks. The album's title was inspired by Neil Postman's 1985 book Amusing Ourselves to Death.
 In 2015, the album was remastered and re-released with new artwork and in different formats, including a new 5.1 surround sound mix by original engineer James Guthrie, assisted by Joel Plante.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amused-to-death/975952384" >}}
+{{< applemusic url="https://music.apple.com/gb/album/amused-to-death/975952384" >}}<br>
+
+
 ## Videos
 ### The Ballad of Bill Hubbard
 {{< youtube id="EIzgTL5NDT8" title="The Ballad of Bill Hubbard" >}}<br>
@@ -76,8 +81,6 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amused_to_Death |
-| Wikipedia Summary | Amused to Death is the third studio album by English musician Roger Waters, released 7 September 1992 on Columbia. Produced by Waters and Patrick Leonard, it was mixed in QSound to enhance its spatial feel. The album features Jeff Beck on lead guitar on several tracks. The album's title was inspired by Neil Postman's 1985 book Amusing Ourselves to Death.<br>In 2015, the album was remastered and re-released with new artwork and in different formats, including a new 5.1 surround sound mix by original engineer James Guthrie, assisted by Joel Plante. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 88875065801 |

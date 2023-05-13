@@ -56,9 +56,12 @@ styles: ["Alternative Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1488363014" >}}
+{{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1488363014" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,7 +70,6 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT425DLP |

@@ -36,9 +36,14 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 Technical Ecstasy is the seventh studio album by English heavy metal band Black Sabbath, produced by guitarist Tony Iommi and released on 25 September 1976 by Vertigo Records. The album received mixed reviews from critics but was a commercial success, peaking at number 13 on the UK Albums Chart and number 51 on the US Billboard 200 Album chart, later being certified Gold by the RIAA in 1997.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy-2009-remastered-version/1193799249" >}}
+{{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy-2009-remastered-version/1193799249" >}}<br>
+
+
 ## Videos
 ### Back Street Kids (2021 - Remaster)
 {{< youtube id="fIbSaZEQHhE" title="Back Street Kids (2021 - Remaster)" >}}<br>
@@ -59,8 +64,6 @@ Technical Ecstasy is the seventh studio album by English heavy metal band Black 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Technical_Ecstasy |
-| Wikipedia Summary | Technical Ecstasy is the seventh studio album by English heavy metal band Black Sabbath, produced by guitarist Tony Iommi and released on 25 September 1976 by Vertigo Records. The album received mixed reviews from critics but was a commercial success, peaking at number 13 on the UK Albums Chart and number 51 on the US Billboard 200 Album chart, later being certified Gold by the RIAA in 1997. |
-| Release Year   | 1976                                   |
 | Format         | Cassette Album |
 | Label          | Vertigo |
 | Catalog Number | 7231 400 |

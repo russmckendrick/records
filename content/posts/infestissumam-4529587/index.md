@@ -40,9 +40,14 @@ styles: ["Hard Rock", "Heavy Metal"]
 <!-- section break -->
 
 Infestissumam (Latin superlative adjective meaning very or most hostile, used by the band as "the most hostile" or "the biggest threat" in reference to the Antichrist) is the second studio album by the Swedish rock band Ghost. It was recorded in Nashville, Tennessee, produced by Nick Raskulinecz and released on April 10, 2013. It was released in North America by Loma Vista Recordings on April 16 in partnership with Republic Records, a division of Universal Music Group, marking the band's major label debut. The album was generally well-received, with several music publications placing it on their list of the best heavy metal albums of the year, and won the 2014 Grammis Award for Best Hard Rock/Metal Album. In late 2013, the band released a special edition of the album, called Infestissumam Redux.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/infestissumam-deluxe-version/1446019421" >}}
+{{< applemusic url="https://music.apple.com/gb/album/infestissumam-deluxe-version/1446019421" >}}<br>
+
+
 ## Videos
 ### Ghost B.C. - Year Zero (Censored)
 {{< youtube id="gkBt7yLXyDk" title="Ghost B.C. - Year Zero (Censored)" >}}<br>
@@ -70,8 +75,6 @@ Infestissumam (Latin superlative adjective meaning very or most hostile, used by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Infestissumam |
-| Wikipedia Summary | Infestissumam (Latin superlative adjective meaning very or most hostile, used by the band as "the most hostile" or "the biggest threat" in reference to the Antichrist) is the second studio album by the Swedish rock band Ghost. It was recorded in Nashville, Tennessee, produced by Nick Raskulinecz and released on April 10, 2013. It was released in North America by Loma Vista Recordings on April 16 in partnership with Republic Records, a division of Universal Music Group, marking the band's major label debut. The album was generally well-received, with several music publications placing it on their list of the best heavy metal albums of the year, and won the 2014 Grammis Award for Best Hard Rock/Metal Album. In late 2013, the band released a special edition of the album, called Infestissumam Redux. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Stereo (Red Translucent) |
 | Label          | Loma Vista |
 | Catalog Number | 602537343737 |

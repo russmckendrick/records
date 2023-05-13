@@ -43,9 +43,14 @@ styles: ["Hard Rock", "Classic Rock"]
 Behind Closed Doors is the third studio album by English hard rock band Thunder. Recorded between May and August 1994 at various studios, primarily Southern Tracks in Atlanta, Georgia, it was produced the band's lead guitarist Luke Morley and Mike Fraser, the latter of whom also mixed the album at the Record Plant in Los Angeles, California. The album was released on 23 January 1995 by EMI Records in Europe and Japan, and was not released in the United States.
 Following the departure of the band's original bassist Mark "Snake" Luckhurst in December 1992, Behind Closed Doors is the first (and only) Thunder album to feature his replacement Mikael "Micke" Höglund, who joined in February 1993. All five band members, as well as former producer Andy Taylor, contributed to the writing of the material on the album, which also featured a wide range of additional guest musicians. Behind Closed Doors peaked at number 5 on the UK Albums Chart.
 Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in April 1995, which included shows in the UK, Europe and Japan, as well as a number of festival dates. Three singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Stand Up" peaked at number 23, "River of Pain" peaked at number 31 and "Castles in the Sand" peaked at number 30. All three singles also reached the UK Rock & Metal Singles Chart top five.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/behind-closed-doors-expanded-edition/742494830" >}}
+{{< applemusic url="https://music.apple.com/gb/album/behind-closed-doors-expanded-edition/742494830" >}}<br>
+
+
 ## Videos
 ### Thunder - Behind Closed Doors (Full Album)
 {{< youtube id="J_aEafaZk6A" title="Thunder - Behind Closed Doors (Full Album)" >}}<br>
@@ -62,8 +67,6 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Behind_Closed_Doors_(Thunder_album) |
-| Wikipedia Summary | Behind Closed Doors is the third studio album by English hard rock band Thunder. Recorded between May and August 1994 at various studios, primarily Southern Tracks in Atlanta, Georgia, it was produced the band's lead guitarist Luke Morley and Mike Fraser, the latter of whom also mixed the album at the Record Plant in Los Angeles, California. The album was released on 23 January 1995 by EMI Records in Europe and Japan, and was not released in the United States.<br>Following the departure of the band's original bassist Mark "Snake" Luckhurst in December 1992, Behind Closed Doors is the first (and only) Thunder album to feature his replacement Mikael "Micke" Höglund, who joined in February 1993. All five band members, as well as former producer Andy Taylor, contributed to the writing of the material on the album, which also featured a wide range of additional guest musicians. Behind Closed Doors peaked at number 5 on the UK Albums Chart.<br>Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in April 1995, which included shows in the UK, Europe and Japan, as well as a number of festival dates. Three singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Stand Up" peaked at number 23, "River of Pain" peaked at number 31 and "Castles in the Sand" peaked at number 30. All three singles also reached the UK Rock & Metal Singles Chart top five. |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear), Vinyl LP Album Limited Edition Reissue (Red) |
 | Label          | BMG |
 | Catalog Number | BMGCAT717DLP |

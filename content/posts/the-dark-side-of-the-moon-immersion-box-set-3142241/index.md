@@ -344,7 +344,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Pink Floyd - Dark Side Of The Moon
 {{< youtube id="DLOth-BuCNY" title="Pink Floyd - Dark Side Of The Moon" >}}<br>
@@ -356,7 +359,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | CD Album Reissue Remastered Stereo, CD Stereo, DVD DVD-Video Multichannel NTSC Album Reissue Remastered Stereo Quadraphonic, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Album Reissue Remastered Stereo Quadraphonic Multichannel, CD Album Stereo, Box Set Limited Edition |
 | Label          | EMI |
 | Catalog Number | 50999 029431 2 1 |

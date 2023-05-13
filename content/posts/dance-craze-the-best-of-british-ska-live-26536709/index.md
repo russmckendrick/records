@@ -81,7 +81,10 @@ styles: ["Ska", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)
 {{< youtube id="Tr5kO4-yKoM" title="DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)" >}}<br>
@@ -100,7 +103,6 @@ styles: ["Ska", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP, Vinyl LP Reissue, Box Set Deluxe Edition, All Media Album Compilation |
 | Label          | Two-Tone Records |
 | Catalog Number | CHR TTF 5004 |

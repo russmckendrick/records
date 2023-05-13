@@ -61,9 +61,12 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scratch-my-back-and-ill-scratch-yours/987543707" >}}
+{{< applemusic url="https://music.apple.com/gb/album/scratch-my-back-and-ill-scratch-yours/987543707" >}}<br>
+
+
 
 
 ## Release Images
@@ -72,7 +75,6 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl LP Album, All Media Compilation |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP952 |

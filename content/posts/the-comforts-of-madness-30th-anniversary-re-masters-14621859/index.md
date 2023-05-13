@@ -66,7 +66,10 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### A Deep Sleep for Steven (Remastered)
 {{< youtube id="Va5GW8WcTyA" title="A Deep Sleep for Steven (Remastered)" >}}<br>
@@ -90,7 +93,6 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album, Vinyl LP Compilation, All Media Limited Edition Special Edition (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4AD 0159 LPX |

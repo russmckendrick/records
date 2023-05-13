@@ -28,9 +28,12 @@ styles: ["Post Rock", "Experimental", "Folk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lachesis-clotho-atropos/1429387563" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lachesis-clotho-atropos/1429387563" >}}<br>
+
+
 ## Videos
 ### Lachesis
 {{< youtube id="U77FkZhmijU" title="Lachesis" >}}<br>
@@ -45,7 +48,6 @@ styles: ["Post Rock", "Experimental", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Tompkins Square |
 | Catalog Number | TSQ 5555 |

@@ -28,7 +28,10 @@ styles: ["Soul", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Edwin Starr - It's Called The Rock ( Disco 1979 )
 {{< youtube id="2tUr7Ca3aww" title="Edwin Starr - It's Called The Rock ( Disco 1979 )" >}}<br>
@@ -42,7 +45,6 @@ styles: ["Soul", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1979                                   |
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | 20th Century Fox Records |
 | Catalog Number | TCD 2420 |

@@ -32,9 +32,12 @@ styles: ["Folk Rock", "Trip Hop", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/champion-feat-chewiecatt-mack-on-the-beat-single/1582868947" >}}
+{{< applemusic url="https://music.apple.com/gb/album/champion-feat-chewiecatt-mack-on-the-beat-single/1582868947" >}}<br>
+
+
 ## Videos
 ### The Beta Band - Dry The Rain
 {{< youtube id="wsbR2dEmHGc" title="The Beta Band - Dry The Rain" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Folk Rock", "Trip Hop", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 12" EP Repress (180g) |
 | Label          | Regal |
 | Catalog Number | REGS 16 |

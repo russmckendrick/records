@@ -37,9 +37,12 @@ styles: ["Doo Wop", "Soul", "Surf"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-in-the-wind/1485064517" >}}
+{{< applemusic url="https://music.apple.com/gb/album/love-in-the-wind/1485064517" >}}<br>
+
+
 ## Videos
 ### The Sha La Das - Love in the Wind (Official Audio)
 {{< youtube id="S-0XRjO8Iy0" title="The Sha La Das - Love in the Wind (Official Audio)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Doo Wop", "Soul", "Surf"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1006 |

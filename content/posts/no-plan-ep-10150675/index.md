@@ -34,9 +34,14 @@ styles: ["Art Rock", "Jazz-Rock"]
 <!-- section break -->
 
 It’s impossible to hear <i>No Plan</i> as anything but Bowie confronting his terminal diagnosis—it opens with a revamp of <i>Blackstar</i>’s “Lazarus” and the lines, “Look up here, I’m in heaven”; in “No Plan”, his lack of regrets untethers him from earthly concerns. The proggy guitar of “Killing a Little Time” emphasises his rage, yet the rapturous intensity of “When I Met You” celebrates the great love who rearranged his soul. Sublime.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-plan-ep/1191638191" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-plan-ep/1191638191" >}}<br>
+
+
 
 
 ## Release Images
@@ -45,8 +50,6 @@ It’s impossible to hear <i>No Plan</i> as anything but Bowie confronting his t
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | It’s impossible to hear <i>No Plan</i> as anything but Bowie confronting his terminal diagnosis—it opens with a revamp of <i>Blackstar</i>’s “Lazarus” and the lines, “Look up here, I’m in heaven”; in “No Plan”, his lack of regrets untethers him from earthly concerns. The proggy guitar of “Killing a Little Time” emphasises his rage, yet the rapturous intensity of “When I Met You” celebrates the great love who rearranged his soul. Sublime. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Etched (180 Gram) |
 | Label          | ISO Records |
 | Catalog Number | 88985419651 |

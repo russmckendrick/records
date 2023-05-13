@@ -55,9 +55,15 @@ styles: ["Hard Rock", "Blues Rock", "Folk Rock", "Prog Rock"]
 
 Led Zeppelin were on a tear in the early part of their career, releasing a streak of riff-driven albums between 1969 and 1973 that set a new standard in hard rock. While each of those first five records was created during a concentrated period of recording, much of the sixth, the double LP <i>Physical Graffiti</i>, drew from material developed at earlier sessions. Tracks like the crunching “Houses of the Holy” (intended as the title track for their 1973 album) and the loose and lyrical “Down By the Seaside” (written in 1970 and reworked for the group’s fourth record, but ultimately not included) may have been meant for other projects, but they easily meet the band's exacting standards. And the odds-and-ends feel of <i>Physical Graffiti</i> is one of its strengths, showing every side of Led Zeppelin in a single sprawling package. <br />
 The extended format means the band can indulge every whim and include experiments that might have been harder to justify on a single disc. The proggy, bluesy “In My Time of Dying,” slinking along on the back of some of Jimmy Page’s greasiest slide-guitar work, stretches past 11 minutes, shifting from a deathly crawl to a raucous double-time romp. Meanwhile, the gorgeous acoustic instrumental “Bron-Yr-Aur” showcases the group’s interest in mystical folk, and “Boogie With Stu” is a ragged and joyous jam on an old Ritchie Valens tune. <i>Physical Graffiti</i> has its share of rock radio classics too—see the haunting “Kashmir,” which mixes a punishing groove with Middle Eastern modes and features one of Robert Plant’s most unhinged vocals, and the supremely funky “Trampled Under Foot” (John Paul Jones credits Stevie Wonder as the inspiration for its clavinet-delivered stomp). In these brilliant and widely loved songs as much as in the lesser-known gems that surround them, <i>Physical Graffiti</i> proves that as the second half of the '70s dawned, Zep were still making more killer music than they knew what to do with.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/physical-graffiti-remastered/580707980" >}}
+{{< applemusic url="https://music.apple.com/gb/album/physical-graffiti-remastered/580707980" >}}<br>
+
+
 ## Videos
 ### Kashmir - Led Zeppelin - Remastered
 {{< youtube id="3W6mDUmPZ0Y" title="Kashmir - Led Zeppelin - Remastered" >}}<br>
@@ -72,8 +78,6 @@ The extended format means the band can indulge every whim and include experiment
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Physical_Graffiti |
-| Wikipedia Summary | Physical Graffiti is the sixth studio album by the English rock band Led Zeppelin. It was released as a double album on 24 February 1975 by the group's new record label, Swan Song Records.<br>The band wrote and recorded eight new songs for the album in early 1974 at Headley Grange, a country house in Hampshire, which gave them ample time to improvise arrangements and experiment with recording. The total playing time covered just under three sides of an LP, so they decided to expand it into a double by including previously unreleased tracks from the sessions for the earlier albums Led Zeppelin III, Led Zeppelin IV and Houses of the Holy. The album covered a range of styles including hard rock, progressive rock, rock 'n' roll and folk. The album was then mixed over summer 1974 and planned for an end-of-year release; however, its release was delayed because the Peter Corriston-designed die-cut album cover proved difficult to manufacture.<br>Physical Graffiti was commercially and critically successful upon its release and debuted at number one on album charts in the UK and number three in the US. It was promoted by a successful US tour and a five-night residency at Earl's Court, London. The album has been reissued on CD several times, including an expansive 40th anniversary edition in 2015. Physical Graffiti was later certified 16× platinum in the United States by the Recording Industry Association of America (RIAA) in 2006, signifying shipments of over eight million copies. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g) |
 | Label          | Swan Song |
 | Catalog Number | 8122796578 |

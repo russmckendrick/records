@@ -45,9 +45,14 @@ styles: ["Soundtrack", "Ambient"]
 Lost Themes is the debut studio album by American film director and composer John Carpenter. It was released on February 3, 2015, through Sacred Bones Records. Carpenter created Lost Themes in collaboration with his son Cody Carpenter and his godson Daniel Davies. While Lost Themes is his first stand-alone album, Carpenter has composed numerous critically acclaimed soundtracks for films since the 1970s, including for the films Assault on Precinct 13, Halloween, and Escape from New York.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lost-themes/950418048" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lost-themes/950418048" >}}<br>
+
+
 ## Videos
 ### John Carpenter's -  Lost Themes (Full Vinyl Rip)
 {{< youtube id="EDqLQ7PgvY8" title="John Carpenter's -  Lost Themes (Full Vinyl Rip)" >}}<br>
@@ -60,8 +65,6 @@ Lost Themes is the debut studio album by American film director and composer Joh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Themes |
-| Wikipedia Summary | Lost Themes is the debut studio album by American film director and composer John Carpenter. It was released on February 3, 2015, through Sacred Bones Records. Carpenter created Lost Themes in collaboration with his son Cody Carpenter and his godson Daniel Davies. While Lost Themes is his first stand-alone album, Carpenter has composed numerous critically acclaimed soundtracks for films since the 1970s, including for the films Assault on Precinct 13, Halloween, and Escape from New York.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Green & White Haze) |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR123 |

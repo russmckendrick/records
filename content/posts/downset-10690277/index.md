@@ -48,9 +48,14 @@ styles: []
 downset. is the debut studio album by American rapcore band downset. The band's major label debut, it was released on July 12, 1994 by Mercury Records.According to Rey Oropeza, the album has sold 275,000 copies worldwide.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/downset/1443754337" >}}
+{{< applemusic url="https://music.apple.com/gb/album/downset/1443754337" >}}<br>
+
+
 ## Videos
 ### Downset - Downset
 {{< youtube id="NzyqdlrU4qs" title="Downset - Downset" >}}<br>
@@ -73,8 +78,6 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Downset._(album) |
-| Wikipedia Summary | downset. is the debut studio album by American rapcore band downset. The band's major label debut, it was released on July 12, 1994 by Mercury Records.According to Rey Oropeza, the album has sold 275,000 copies worldwide.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue, 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1883 |

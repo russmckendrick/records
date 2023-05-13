@@ -36,9 +36,12 @@ styles: ["Ambient", "Dub", "House"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/u-f-orb-deluxe-edition/1444192610" >}}
+{{< applemusic url="https://music.apple.com/gb/album/u-f-orb-deluxe-edition/1444192610" >}}<br>
+
+
 ## Videos
 ### U.F.Orb
 {{< youtube id="MzNp1n37Gm4" title="U.F.Orb" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Ambient", "Dub", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 00602557797831 |

@@ -37,9 +37,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-levitation/1578313533" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-levitation/1578313533" >}}<br>
+
+
 ## Videos
 ### Primal Scream - Jailbird (Live at LEVITATION)
 {{< youtube id="1RAa5b1Y31M" title="Primal Scream - Jailbird (Live at LEVITATION)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Yellow & Red Splatter [Accelerator Version]) |
 | Label          | The Reverberation Appreciation Society |
 | Catalog Number | RVRB-049 |

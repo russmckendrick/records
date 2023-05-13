@@ -207,9 +207,12 @@ styles: ["Pop Rock", "Glam", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/who-can-i-be-now-1974-1976/1135943211" >}}
+{{< applemusic url="https://music.apple.com/gb/album/who-can-i-be-now-1974-1976/1135943211" >}}<br>
+
+
 
 
 ## Release Images
@@ -218,7 +221,6 @@ styles: ["Pop Rock", "Glam", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Compilation |
 | Label          | Parlophone |
 | Catalog Number | 0190295989835 |

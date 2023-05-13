@@ -46,9 +46,16 @@ styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 <!-- section break -->
 
 Us is the sixth studio album by the English singer-songwriter and musician Peter Gabriel, released on 28 September 1992 by Real World Records. Following the release of his soundtrack album Passion in 1989, Gabriel started work on new material for a new album, his first since So, which became his biggest selling release. Gabriel focused on personal themes on Us, including his divorce in the late 1980s, his subsequent relationship with actress Rosanna Arquette, and the growing distance between him and his first daughter.Us was promoted with an early form of interactive multimedia software for Macintosh computers entitled Xplora1: Peter Gabriel's Secret World, which featured several music videos from the album. The album was a worldwide chart success, reaching No. 2 in the UK and the US and the top-ten in twelve other countries. Four singles were released: "Digging in the Dirt", "Steam", "Blood of Eden", and "Kiss That Frog", with "Steam" reaching No. 10 in the UK. Gabriel supported the album with his Secret World Tour in 1993 and 1994 which was documented on the Secret World Live album and same-titled concert film, both released in 1994. Us was reissued in 2002 and 2010.
-<br>
+
+
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/four-kinds-of-horses-bright-side-mix-single/1685222329" >}}
+{{< applemusic url="https://music.apple.com/gb/album/four-kinds-of-horses-bright-side-mix-single/1685222329" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,8 +65,6 @@ Us is the sixth studio album by the English singer-songwriter and musician Peter
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Us_(Peter_Gabriel_album) |
-| Wikipedia Summary | Us is the sixth studio album by the English singer-songwriter and musician Peter Gabriel, released on 28 September 1992 by Real World Records. Following the release of his soundtrack album Passion in 1989, Gabriel started work on new material for a new album, his first since So, which became his biggest selling release. Gabriel focused on personal themes on Us, including his divorce in the late 1980s, his subsequent relationship with actress Rosanna Arquette, and the growing distance between him and his first daughter.Us was promoted with an early form of interactive multimedia software for Macintosh computers entitled Xplora1: Peter Gabriel's Secret World, which featured several music videos from the album. The album was a worldwide chart success, reaching No. 2 in the UK and the US and the top-ten in twelve other countries. Four singles were released: "Digging in the Dirt", "Steam", "Blood of Eden", and "Kiss That Frog", with "Steam" reaching No. 10 in the UK. Gabriel supported the album with his Secret World Tour in 1993 and 1994 which was documented on the Secret World Live album and same-titled concert film, both released in 1994. Us was reissued in 2002 and 2010. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Real World Records |
 | Catalog Number | PGLPR7 |

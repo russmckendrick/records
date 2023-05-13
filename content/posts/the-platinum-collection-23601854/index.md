@@ -126,9 +126,14 @@ The Platinum Collection: Greatest Hits I, II & III is a box set by British rock 
 On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum Collection was re-released in the UK as well as in other territories around the world. The release consisted of the 2011 remasters of all three albums.In 2018, the album reached a peak of number 9 on the US Billboard 200 following the success of the Bohemian Rhapsody film and soundtrack, making it their first time with two albums in the US albums chart top 10. In 2019, the album reached a higher peak at number 6 on the US Billboard 200 thanks to sale pricing in the iTunes Store during the tracking week.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-platinum-collection/1440821736" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-platinum-collection/1440821736" >}}<br>
+
+
 
 
 ## Release Images
@@ -138,8 +143,6 @@ On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Platinum_Collection_(Queen_album) |
-| Wikipedia Summary | The Platinum Collection: Greatest Hits I, II & III is a box set by British rock band Queen which comprises their three greatest hits albums, Greatest Hits, Greatest Hits II and Greatest Hits III. The album was originally released on 13 November 2000 on the Parlophone label. A booklet with song facts and images is also included with the three CD set. The US release was delayed by Hollywood Records until September 2002 and featured the 2001 Japanese release remastered versions of Greatest Hits Volumes 1 and 2 on the US and Canadian versions of The Platinum Collection. The album peaked at number 2 in the UK.<br>On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum Collection was re-released in the UK as well as in other territories around the world. The release consisted of the 2011 remasters of all three albums.In 2018, the album reached a peak of number 9 on the US Billboard 200 following the success of the Bohemian Rhapsody film and soundtrack, making it their first time with two albums in the US albums chart top 10. In 2019, the album reached a higher peak at number 6 on the US Billboard 200 thanks to sale pricing in the iTunes Store during the tracking week.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Compilation Reissue Remastered (180 Grams, Yellow), Vinyl LP Compilation Reissue Remastered (180 Grams, Red), Vinyl LP Compilation Reissue Remastered (180 Grams, Pink), Vinyl LP Compilation Reissue Remastered (180 Grams, Purple), Vinyl LP Compilation Reissue Remastered (180 Grams, Blue), Vinyl LP Compilation Reissue Remastered (180 Grams, Green), Box Set Limited Edition |
 | Label          | EMI |
 | Catalog Number | 0602435877518 |

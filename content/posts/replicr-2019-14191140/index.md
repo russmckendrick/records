@@ -59,9 +59,12 @@ styles: ["Noise", "Experimental", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/replicr-2019/1471952343" >}}
+{{< applemusic url="https://music.apple.com/gb/album/replicr-2019/1471952343" >}}<br>
+
+
 ## Videos
 ### 65daysofstatic | replicr, 2019. new album coming 27.0.9.19
 {{< youtube id="9LQckltGMJ4" title="65daysofstatic | replicr, 2019. new album coming 27.0.9.19" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Noise", "Experimental", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 046 |

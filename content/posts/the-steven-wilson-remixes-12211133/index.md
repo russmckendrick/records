@@ -86,9 +86,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 The Steven Wilson Remixes is a box set by the English progressive rock band Yes. Released on 29 June 2018, it compiles remixed versions of five of the band's albums—The Yes Album (1971), Fragile (1971), Close to the Edge (1972), Tales from Topographic Oceans (1973), and Relayer (1974)—overseen by Steven Wilson.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-steven-wilson-remixes/1404263939" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-steven-wilson-remixes/1404263939" >}}<br>
+
+
 
 
 ## Release Images
@@ -98,8 +103,6 @@ The Steven Wilson Remixes is a box set by the English progressive rock band Yes.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Steven_Wilson_Remixes |
-| Wikipedia Summary | The Steven Wilson Remixes is a box set by the English progressive rock band Yes. Released on 29 June 2018, it compiles remixed versions of five of the band's albums—The Yes Album (1971), Fragile (1971), Close to the Edge (1972), Tales from Topographic Oceans (1973), and Relayer (1974)—overseen by Steven Wilson. |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation, Vinyl LP Album (Gatefold), Vinyl LP Album (Gatefold), Vinyl LP Album (Gatefold), Vinyl 2× LP Album (Gatefold), Vinyl LP Album (Gatefold), All Media Remastered Stereo (Remixed, 180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 562476 |

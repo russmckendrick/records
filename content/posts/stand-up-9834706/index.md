@@ -68,9 +68,14 @@ styles: ["Prog Rock", "Folk Rock"]
 
 Stand Up is the second studio album by British rock band Jethro Tull, released in 1969. It was the first Jethro Tull album to feature guitarist Martin Barre, who would go on to become the band's longtime guitarist until its initial dissolution in 2012.  Before recording sessions for the album began, the band's original guitarist Mick Abrahams departed the band as a result of musical differences with frontman and primary songwriter Ian Anderson; Abrahams wanted to stay with the blues rock sound of their 1968 debut, This Was, while Anderson wished to add other musical influences such as folk rock.Stand Up represents the first album project on which Anderson was in full control of the music and lyrics. The result was an eclectic album with various styles and instrumentation appearing in its songs.
 The album quickly went to No. 1 on the UK charts, further launching the band's career, while the non-album single "Living in the Past" peaked at No. 3. The album was also Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stand-up-2001-bonus-tracks-edition/726366185" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stand-up-2001-bonus-tracks-edition/726366185" >}}<br>
+
+
 ## Videos
 ### J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969
 {{< youtube id="dP3V4ZRpSdM" title="J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969" >}}<br>
@@ -83,8 +88,6 @@ The album quickly went to No. 1 on the UK charts, further launching the band's c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stand_Up_(Jethro_Tull_album) |
-| Wikipedia Summary | Stand Up is the second studio album by British rock band Jethro Tull, released in 1969. It was the first Jethro Tull album to feature guitarist Martin Barre, who would go on to become the band's longtime guitarist until its initial dissolution in 2012.  Before recording sessions for the album began, the band's original guitarist Mick Abrahams departed the band as a result of musical differences with frontman and primary songwriter Ian Anderson; Abrahams wanted to stay with the blues rock sound of their 1968 debut, This Was, while Anderson wished to add other musical influences such as folk rock.Stand Up represents the first album project on which Anderson was in full control of the music and lyrics. The result was an eclectic album with various styles and instrumentation appearing in its songs.<br>The album quickly went to No. 1 on the UK charts, further launching the band's career, while the non-album single "Living in the Past" peaked at No. 3. The album was also Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180Gm) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295932855 |

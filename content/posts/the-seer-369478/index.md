@@ -41,9 +41,14 @@ styles: ["Pop Rock"]
 The Seer is the third studio album by the Scottish band Big Country, released in 1986. The album featured very traditional Scottish musical settings, reminiscent of the band's debut album The Crossing (1983). Kate Bush worked on the title song in a duet with lead singer and lyricist Stuart Adamson. The album's first single, "Look Away", was an Irish number one, and was also the group's biggest hit single in the UK, reaching #7.The album reached number 2 in the UK Albums Chart.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-seer-re-presents/1442921978" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-seer-re-presents/1442921978" >}}<br>
+
+
 ## Videos
 ### Big Country - Look Away
 {{< youtube id="enZ3cLD-9kQ" title="Big Country - Look Away" >}}<br>
@@ -61,8 +66,6 @@ The Seer is the third studio album by the Scottish band Big Country, released in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Seer_(Big_Country_album) |
-| Wikipedia Summary | The Seer is the third studio album by the Scottish band Big Country, released in 1986. The album featured very traditional Scottish musical settings, reminiscent of the band's debut album The Crossing (1983). Kate Bush worked on the title song in a duet with lead singer and lyricist Stuart Adamson. The album's first single, "Look Away", was an Irish number one, and was also the group's biggest hit single in the UK, reaching #7.The album reached number 2 in the UK Albums Chart.<br><br> |
-| Release Year   | 1986                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mercury |
 | Catalog Number | MERH 87 |

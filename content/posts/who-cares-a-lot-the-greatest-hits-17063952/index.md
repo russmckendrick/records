@@ -49,7 +49,10 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Faith No More - We Care a Lot (Official Music Video)
 {{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video)" >}}<br>
@@ -80,7 +83,6 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue (Gold) |
 | Label          | Slash |
 | Catalog Number | 190295233174 |

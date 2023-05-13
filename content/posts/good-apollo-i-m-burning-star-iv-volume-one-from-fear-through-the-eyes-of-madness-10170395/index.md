@@ -53,9 +53,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/good-apollo-im-burning-star-iv-vol-1-from-fear-through/307654866" >}}
+{{< applemusic url="https://music.apple.com/gb/album/good-apollo-im-burning-star-iv-vol-1-from-fear-through/307654866" >}}<br>
+
+
 ## Videos
 ### Coheed and Cambria - Welcome Home (Official Video)
 {{< youtube id="n0H3RlaQVrM" title="Coheed and Cambria - Welcome Home (Official Video)" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP (Black/White Swirl), Vinyl LP (Black/Red Swirl), All Media Album Record Store Day Limited Edition Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 88843045891 |

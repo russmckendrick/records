@@ -54,9 +54,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/oceanography/1327538873" >}}
+{{< applemusic url="https://music.apple.com/gb/album/oceanography/1327538873" >}}<br>
+
+
 ## Videos
 ### Oceanography
 {{< youtube id="J3GOusISHlo" title="Oceanography" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP, CD, All Media Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 045 |

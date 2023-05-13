@@ -55,7 +55,10 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live
 {{< youtube id="KygvdzH0gj4" title="INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 3× LP Album Deluxe Edition |
 | Label          | Universal Music |
 | Catalog Number | 0602508245091 |

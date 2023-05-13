@@ -44,9 +44,14 @@ styles: ["Soul"]
 <!-- section break -->
 
 This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/30-greatest-hits/933578756" >}}
+{{< applemusic url="https://music.apple.com/gb/album/30-greatest-hits/933578756" >}}<br>
+
+
 ## Videos
 ### Aretha's Greatest Hits /Atlantic
 {{< youtube id="KuDE2JzHYhU" title="Aretha's Greatest Hits /Atlantic" >}}<br>
@@ -61,8 +66,6 @@ This collection spotlights the Queen of Soul’s epochal late-’60s and early-�
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Atlantic |
 | Catalog Number | 081227943516 |

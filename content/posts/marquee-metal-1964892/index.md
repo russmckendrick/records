@@ -45,7 +45,10 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | PolyGram TV |
 | Catalog Number | 845 417-1 |

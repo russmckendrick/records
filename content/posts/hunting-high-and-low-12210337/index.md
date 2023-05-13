@@ -49,9 +49,14 @@ In all, five singles from the album were released, though not all were released 
 As part of a re-release of their first two albums, Hunting High and Low was expanded and remastered in 2010.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hunting-high-low-remastered/1037562339" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hunting-high-low-remastered/1037562339" >}}<br>
+
+
 ## Videos
 ### A-ha - Hunting High And Low (Early Mix) (2019 Vinyl LP) - Technics 1200G / Goldring G1042
 {{< youtube id="IGxCel7kXlk" title="A-ha - Hunting High And Low (Early Mix) (2019 Vinyl LP) - Technics 1200G / Goldring G1042" >}}<br>
@@ -66,8 +71,6 @@ As part of a re-release of their first two albums, Hunting High and Low was expa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hunting_High_and_Low |
-| Wikipedia Summary | Hunting High and Low is the debut studio album by Norwegian new wave band A-ha, released on 1 June 1985 in the United States and 28 October 1985 in the United Kingdom by Warner Bros. Records. The album was a huge commercial success, reaching high positions on charts worldwide and peaking at number 15 on the US Billboard 200. The album was recorded at Eel Pie Studios in Twickenham, London, and produced by Tony Mansfield, John Ratcliff and Alan Tarney.<br>In all, five singles from the album were released, though not all were released internationally: "Take On Me", "Love Is Reason", "The Sun Always Shines on T.V.", "Train of Thought" and "Hunting High and Low". The group was nominated for Best New Artist at the Grammy Awards in 1986, making A-ha the first Norwegian band to be nominated for a Grammy.<br>As part of a re-release of their first two albums, Hunting High and Low was expanded and remastered in 2010.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1 25300 |

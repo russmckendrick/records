@@ -49,9 +49,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lightsleeper/1389944005" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lightsleeper/1389944005" >}}<br>
+
+
 ## Videos
 ### Prelude - Island Of Peace
 {{< youtube id="r8fphdbMffI" title="Prelude - Island Of Peace" >}}<br>
@@ -75,7 +78,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRNFLF0017LP |

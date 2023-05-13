@@ -52,9 +52,14 @@ styles: ["Art Rock", "Prog Rock", "Ambient", "New Age"]
 <!-- section break -->
 
 Secret World Live is the second live album and tenth album overall by the English rock musician Peter Gabriel, released on 30 August 1994 in the UK. The album documents the concert experience of the Secret World Tour. A concert film of the same name was released simultaneously. Its track listing omits "Red Rain" and adds "San Jacinto" after "Blood of Eden".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/secret-world-live/1445901797" >}}
+{{< applemusic url="https://music.apple.com/gb/album/secret-world-live/1445901797" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,8 +69,6 @@ Secret World Live is the second live album and tenth album overall by the Englis
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Secret_World_Live |
-| Wikipedia Summary | Secret World Live is the second live album and tenth album overall by the English rock musician Peter Gabriel, released on 30 August 1994 in the UK. The album documents the concert experience of the Secret World Tour. A concert film of the same name was released simultaneously. Its track listing omits "Red Rain" and adds "San Jacinto" after "Blood of Eden". |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Half-Speed Remaster) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR8 |

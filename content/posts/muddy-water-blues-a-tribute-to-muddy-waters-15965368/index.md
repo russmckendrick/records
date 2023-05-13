@@ -47,7 +47,10 @@ styles: ["Blues Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Paul Rodgers ~ The Hunter
 {{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers ~ The Hunter" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Orange, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2716 |

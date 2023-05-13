@@ -35,9 +35,12 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}
+{{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}<br>
+
+
 ## Videos
 ### Santana. Samba Pa Ti
 {{< youtube id="WzSayxVM_E0" title="Santana. Samba Pa Ti" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Columbia |
 | Catalog Number | 88985446151 |

@@ -70,9 +70,12 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/singles-collection-1979-2012/1442469562" >}}
+{{< applemusic url="https://music.apple.com/gb/album/singles-collection-1979-2012/1442469562" >}}<br>
+
+
 ## Videos
 ### Killing Joke Timewave
 {{< youtube id="zjaTN6ROjrI" title="Killing Joke Timewave" >}}<br>
@@ -87,7 +90,6 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP (Red Transparent), Vinyl LP (Yellow Transparent), Vinyl LP (Black), Vinyl LP (Clear), All Media Compilation Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE875352 |

@@ -56,9 +56,15 @@ styles: ["Punk", "Ska"]
 Sublime is the third and final studio album by American ska punk band Sublime. Produced by Paul Leary and David Kahne, the album was released on July 30, 1996, in the United States by MCA Records. Sublime formed in 1988 in Long Beach, California by vocalist/guitarist Bradley Nowell, bassist Eric Wilson, and drummer Bud Gaugh. The trio toured heavily from their inception while developing their sound. Their first studio release—40 Oz. to Freedom (1992)—featured the single "Date Rape", which attracted heavy airplay in Southern California. MCA signed the band and distributed their second independent album, Robbin' the Hood, in 1994.
 By the time it came to record their major label debut, Nowell had been struggling with a heroin addiction. Sublime was recorded over a period of three months in Austin, Texas, in sessions characterized by heavy drug use and raucous partying. The album's musical style contains elements of punk rock, reggae, and ska, as well as dancehall, hip hop, and dub music, with tempos ranging wildly. Nowell's lyrical subject matter relates to relationships, prostitution, riots, and addiction. Nowell had been ejected from the recording near its completion. Nowell died due to a heroin overdose in May 1996, just two months prior to the band's major album release, which led to the band's dissolution.
 Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wrong Way", the record proved to be enormously successful, despite the band being defunct and thus not able to promote the album through touring. It sold over five million copies in the United States by the end of the decade, and it continues to be a popular catalog album. The album was released during the third wave ska peak, and etched Sublime into a permanent place among the stars of the 1990s. Critical reviews were positive, praising Nowell's songwriting ability and the album's musical variety. Sublime has since been listed as one of the most well-regarded albums of the 1990s by Spin and Rolling Stone.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sublime/1440838803" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sublime/1440838803" >}}<br>
+
+
 ## Videos
 ### Sublime - Seed (Official Video)
 {{< youtube id="_dC48Y4Fk34" title="Sublime - Seed (Official Video)" >}}<br>
@@ -79,8 +85,6 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sublime_(album) |
-| Apple Music Summary | Full of unruly insouciance, Sublime’s eponymous third venture packs bong-powered summertime hits that made frontman Bradley Nowell immortal. His final record—which dropped weeks after his untimely death in 1996—is driven by slacker ska-punk debauchery, taking spectators on a wild ride fueled by tales of looting liquor stores (the sly, spunky bop of “April 29, 1992 (Miami)”) and popping a cap in Sancho (the bouncy upstroke of “Santeria”). Its languorous rhythms and puerile soul beguile with the defiant spirit of ‘90s alt-rock, which this masterpiece helped define. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (RTI, Gatefold) |
 | Label          | Gasoline Alley Records |
 | Catalog Number | B0024679-01 |

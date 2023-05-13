@@ -52,7 +52,12 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by Tim Burgess, about him traveling around the world to find specific albums on vinyl.
 
 
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### The Durutti Column - Otis
 {{< youtube id="V5Lreb5U87U" title="The Durutti Column - Otis" >}}<br>
@@ -65,8 +70,6 @@ Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tim_Book_Two:_Vinyl_Adventures_from_Istanbul_to_San_Francisco |
-| Wikipedia Summary | Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by Tim Burgess, about him traveling around the world to find specific albums on vinyl.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (White) |
 | Label          | O Genesis |
 | Catalog Number | OGEN62LP |

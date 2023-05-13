@@ -55,9 +55,15 @@ styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 Ill Communication is the fourth studio album by American hip-hop group Beastie Boys, released by Grand Royal Records on May 31, 1994. Co-produced by Beastie Boys and Mario Caldato, Jr., it is among the band's most varied releases, drawing from hip hop, punk rock, jazz, and funk, and continues their trend away from sampling and towards live instruments, which began with their previous release, Check Your Head (1992). The album features musical contributions from Money Mark, Eric Bobo and Amery "AWOL" Smith, and vocal contributions from Q-Tip and Biz Markie. Beastie Boys were influenced by Miles Davis's jazz rock albums On the Corner (1972) and Agharta (1975) while recording Ill Communication.The album became the band's second number-one album on the U.S. Billboard 200 chart and their second triple platinum album. It was supported by the single "Sabotage", which was accompanied by a music video directed by Spike Jonze that parodied 1970s cop shows.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ill-communication/724771323" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ill-communication/724771323" >}}<br>
+
+
 ## Videos
 ### Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)
 {{< youtube id="ajbr64jeLjQ" title="Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)" >}}<br>
@@ -74,8 +80,6 @@ Ill Communication is the fourth studio album by American hip-hop group Beastie B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ill_Communication |
-| Apple Music Summary | For the first time in their album-making career, the Beastie Boys didn't reinvent themselves on <i>Ill Communication</i>. Instead, they moved laterally, amplifying the breakthroughs of <i>Check Your Head</i> in a manner that was even more satisfying than the earlier album. From slammin' mic fests ("Sure Shot," "Root Down") to hardcore punk rants ("Tough Guy," "Heart Attack Man"), Buddhist meditations ("Bodhisattva Vow") and sturdy organ-funk instrumentals ("Ricky's Theme"), this is a dizzying ride through everything that moves Ad-Rock, MCA, and Mike D. Without setting themselves up as teachers, they school many a funk-rocker in groove, humor, and style. Listen to the crunch of "Sabotage," which begat a hilarious video, or the roots salute "B-Boys Makin' With the Freak Freak." A true long-form masterpiece. |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl 2× LP Album Remastered Reissue (180 gram, Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | 509996 94232 15 |

@@ -45,9 +45,12 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cure-for-sanity/292672031" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cure-for-sanity/292672031" >}}<br>
+
+
 ## Videos
 ### Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards
 {{< youtube id="pk51UnRyzlM" title="Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | RCA |
 | Catalog Number | PL 74828 |

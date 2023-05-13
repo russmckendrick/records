@@ -41,9 +41,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nick-of-time/1487734088" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nick-of-time/1487734088" >}}<br>
+
+
 ## Videos
 ### I Can Change Your Mind
 {{< youtube id="h-7hfMvA6Lc" title="I Can Change Your Mind" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-061 |

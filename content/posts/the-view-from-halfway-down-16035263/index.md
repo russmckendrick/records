@@ -33,9 +33,12 @@ styles: ["Shoegaze", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-view-from-halfway-down/1524681497" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-view-from-halfway-down/1524681497" >}}<br>
+
+
 ## Videos
 ### Andy Bell - Love Comes In Waves
 {{< youtube id="MbNmaB-es5U" title="Andy Bell - Love Comes In Waves" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Shoegaze", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Blue ) |
 | Label          | Sonic Cathedral Recordings |
 | Catalog Number | SCR170LP |

@@ -55,7 +55,10 @@ styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Orbis |
 | Catalog Number | HRL 031 |

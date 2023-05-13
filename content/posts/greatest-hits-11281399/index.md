@@ -44,9 +44,14 @@ Greatest Hits is a compilation album by the American group Sly and the Family St
 Three tracks released on singles in 1969 appear on album for the first time here: "Hot Fun in the Summertime", "Everybody Is a Star", and "Thank You (Falettinme Be Mice Elf Agin)".
 The recordings on this compilation are not the same as the single versions in all cases; some songs appear here in their album lengths and mixes. Mixes sometimes have different editing and changes in vocals and or instrumentation.
 Greatest Hits was certified quintuple platinum by the Recording Industry Association of America (RIAA), having shipped five million copies in the United States. In 2003, Rolling Stone magazine ranked the album number 60 on its list of the 500 greatest albums of all time, 61 in a 2012 revised list, and number 343 in the 2020 rankings.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/212579326" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/212579326" >}}<br>
+
+
 ## Videos
 ### Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)
 {{< youtube id="Bg0tFRea0wA" title="Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)" >}}<br>
@@ -66,8 +71,6 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Sly_and_the_Family_Stone_album) |
-| Wikipedia Summary | Greatest Hits is a compilation album by the American group Sly and the Family Stone. It was first released on November 21, 1970, by Epic Records. The album includes all of the singles from the albums Dance to the Music (1968), Life (1968), and Stand! (1969). <br>Three tracks released on singles in 1969 appear on album for the first time here: "Hot Fun in the Summertime", "Everybody Is a Star", and "Thank You (Falettinme Be Mice Elf Agin)".<br>The recordings on this compilation are not the same as the single versions in all cases; some songs appear here in their album lengths and mixes. Mixes sometimes have different editing and changes in vocals and or instrumentation.<br>Greatest Hits was certified quintuple platinum by the Recording Industry Association of America (RIAA), having shipped five million copies in the United States. In 2003, Rolling Stone magazine ranked the album number 60 on its list of the 500 greatest albums of all time, 61 in a 2012 revised list, and number 343 in the 2020 rankings. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Epic |
 | Catalog Number | 88985432351 |

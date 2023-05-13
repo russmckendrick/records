@@ -70,9 +70,14 @@ Coral Island is the tenth studio album by English rock band the Coral. Run On Re
 Coral Island received positive reviews from music critics, who praised the high-quality song writing. It reached number two in the UK, and charted in Germany, Scotland, and Switzerland. The album was preceded by the release of three singles: "Faceless Angel" in January 2021, "Lover Undiscovered" in March 2021, and "Vacancy" in April 2021. Coinciding with the album was the publication of a book by keyboardist Nick Power, which provided backstories for each of the characters mentioned on the album.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coral-island/1550963543" >}}
+{{< applemusic url="https://music.apple.com/gb/album/coral-island/1550963543" >}}<br>
+
+
 ## Videos
 ### Change Your Mind
 {{< youtube id="0f_0F_RR21U" title="Change Your Mind" >}}<br>
@@ -88,8 +93,6 @@ Coral Island received positive reviews from music critics, who praised the high-
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coral_Island_(album) |
-| Wikipedia Summary | Coral Island is the tenth studio album by English rock band the Coral. Run On Records and Modern Sky UK released it on 30 April 2021. During the cycle for their ninth studio album Move Through the Dawn (2018), the band began stockpiling song ideas; on the way home from Blackpool, the band had the idea of making a concept album about a fictional town. With the assistance of Edwin Burdis, the band began mapping out the album. The recording sessions were held at Parr Street Studios in Liverpool, with the narration recorded at Ian Murrary's house in Merseyside; the band and Chris Taylor acted as producers. Described as a psychedelic album, it drew comparison to the Kinks' Village Green Preservation Society (1968), while the narration was reminiscent of that heard on the Small Faces' Ogdens' Nut Gone Flake (1968).<br>Coral Island received positive reviews from music critics, who praised the high-quality song writing. It reached number two in the UK, and charted in Germany, Scotland, and Switzerland. The album was preceded by the release of three singles: "Faceless Angel" in January 2021, "Lover Undiscovered" in March 2021, and "Vacancy" in April 2021. Coinciding with the album was the publication of a book by keyboardist Nick Power, which provided backstories for each of the characters mentioned on the album.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Lime Green) |
 | Label          | Modern Sky UK |
 | Catalog Number | RO-001-LP |

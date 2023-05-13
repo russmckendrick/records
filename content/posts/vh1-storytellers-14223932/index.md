@@ -47,9 +47,14 @@ styles: ["Art Rock"]
 <!-- section break -->
 
 VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 and features a 23 August 1999 performance on Storytellers, a VH1 program.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vh1-storytellers-david-bowie-live/731935064" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vh1-storytellers-david-bowie-live/731935064" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,8 +64,6 @@ VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/VH1_Storytellers_(David_Bowie_album) |
-| Wikipedia Summary | VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 and features a 23 August 1999 performance on Storytellers, a VH1 program. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | DBVH1 9919 |

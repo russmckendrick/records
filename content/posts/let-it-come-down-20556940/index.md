@@ -45,9 +45,14 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 Let It Come Down is the fourth studio album by the rock band Spiritualized, released in 2001. It was recorded and produced at Abbey Road and AIR Studios. It took Jason Pierce, Spiritualized's lead singer, guitarist and sole constant member, four years to write, perform, produce and release. The album utilises 115 session musicians, including orchestra and London Community Gospel Choir. The wall of sound technique (most notably used by 1960s record producer Phil Spector) is evident on this album, especially on such tracks as "Do It All Over Again", "Stop Your Crying", "The Straight and the Narrow" and "Out of Sight".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/let-it-come-down/1502492981" >}}
+{{< applemusic url="https://music.apple.com/gb/album/let-it-come-down/1502492981" >}}<br>
+
+
 ## Videos
 ### Spiritualized - Do It All Over Again (Official Video)
 {{< youtube id="s2v0PZOpRqg" title="Spiritualized - Do It All Over Again (Official Video)" >}}<br>
@@ -67,8 +72,6 @@ Let It Come Down is the fourth studio album by the rock band Spiritualized, rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Come_Down_(Spiritualized_album) |
-| Wikipedia Summary | Let It Come Down is the fourth studio album by the rock band Spiritualized, released in 2001. It was recorded and produced at Abbey Road and AIR Studios. It took Jason Pierce, Spiritualized's lead singer, guitarist and sole constant member, four years to write, perform, produce and release. The album utilises 115 session musicians, including orchestra and London Community Gospel Choir. The wall of sound technique (most notably used by 1960s record producer Phil Spector) is evident on this album, especially on such tracks as "Do It All Over Again", "Stop Your Crying", "The Straight and the Narrow" and "Out of Sight". |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Special Edition (Ivory, 180 Gram) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1754-3 |

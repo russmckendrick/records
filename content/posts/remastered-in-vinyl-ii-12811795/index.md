@@ -84,7 +84,10 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Kate Bush / 2018 remasters unboxing video
 {{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}<br>
@@ -96,7 +99,6 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered (Gatefold), Box Set Compilation (180 Gram) |
 | Label          | Fish People |
 | Catalog Number | 0190295593957 |

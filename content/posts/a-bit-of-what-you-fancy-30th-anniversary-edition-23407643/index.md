@@ -40,9 +40,12 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-bit-of-what-you-fancy-30th-anniversary-edition/1574981034" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-bit-of-what-you-fancy-30th-anniversary-edition/1574981034" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP 10" Limited Edition (Blue Vinyl) |
 | Label          | Off Yer Rocka Recordings |
 | Catalog Number | OYR068 |

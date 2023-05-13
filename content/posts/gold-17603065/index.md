@@ -42,9 +42,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dr-hook-premium-gold-collection/723588920" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dr-hook-premium-gold-collection/723588920" >}}<br>
+
+
 ## Videos
 ### Dr  Hook - When You're In Love With A Beautiful Woman
 {{< youtube id="OsZ-QdP6VEE" title="Dr  Hook - When You're In Love With A Beautiful Woman" >}}<br>
@@ -56,7 +59,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Compilation Remastered (140 gram) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC842 |

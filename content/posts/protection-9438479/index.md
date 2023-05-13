@@ -43,9 +43,14 @@ styles: ["Trip Hop", "Downtempo", "Dub"]
 <!-- section break -->
 
 Protection is the second studio album by English electronic music group Massive Attack, released on 26 September 1994 by Wild Bunch Records and Circa. DJ Mad Professor remixed the album in 1995 under the name No Protection.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/protection/724410562" >}}
+{{< applemusic url="https://music.apple.com/gb/album/protection/724410562" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ Protection is the second studio album by English electronic music group Massive 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Protection_(Massive_Attack_album) |
-| Wikipedia Summary | Protection is the second studio album by English electronic music group Massive Attack, released on 26 September 1994 by Wild Bunch Records and Circa. DJ Mad Professor remixed the album in 1995 under the name No Protection. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 gr) |
 | Label          | Circa |
 | Catalog Number | 5700962 |

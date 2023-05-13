@@ -46,9 +46,14 @@ After the Gold Rush peaked at number eight on the Billboard Top Pop Albums chart
 In 2014, the album was inducted into the Grammy Hall of Fame.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush-50th-anniversary-bonus-tracks-edition/1541168056" >}}
+{{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush-50th-anniversary-bonus-tracks-edition/1541168056" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,8 +63,6 @@ In 2014, the album was inducted into the Grammy Hall of Fame.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/After_the_Gold_Rush |
-| Wikipedia Summary | After the Gold Rush is the third studio album by the Canadian-American musician Neil Young, released in September 1970 on Reprise Records, catalogue number RS 6383. It is one of four high-profile solo albums released by the members of folk rock group Crosby, Stills, Nash & Young in the wake of their chart-topping 1970 album Déjà Vu. Young's album consists mainly of country folk music along with several rock tracks, including "Southern Man". The material was inspired by the unproduced Dean Stockwell-Herb Bermann screenplay After the Gold Rush.<br>After the Gold Rush peaked at number eight on the Billboard Top Pop Albums chart; the two singles taken from the album, "Only Love Can Break Your Heart" and "When You Dance I Can Really Love", made it to number 33 and number 93 respectively on the Billboard Hot 100. Despite a mixed initial reaction, the album has since appeared on a number of greatest albums of all time lists.<br>In 2014, the album was inducted into the Grammy Hall of Fame.<br><br> |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Repress (140 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 517936-1 |

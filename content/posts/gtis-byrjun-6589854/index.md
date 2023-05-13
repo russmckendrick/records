@@ -50,9 +50,14 @@ styles: ["Post Rock", "Ambient"]
 <!-- section break -->
 
 Sigur Rós’ second record—their first to be widely heard outside their native Iceland—is one of those epochal, game-changing albums that redefined what is possible in rock music. In this case, it proved that a neoclassical, shoegazing post-rock band specialising in glacially paced 10-minute movements sung in a made-up, indecipherable dialect could attract a mass audience and become one of the most influential alt-rock groups of their generation. <i>Ágætis Byrjun</i> delivers one weighty moment after another: sonar-pinged arias that gradually accrue enough force to shift tectonic plates (“Svefn-F-Englar”); meditative piano ballads that erupt into shrieking symphonic psychedelia ("Viðrar vel til loftárása"); choral sing-alongs that sound like Christmas in heaven (“Olsen Olsen”). But for all of his band’s grandiose gestures, Jónsi Birgisson's crystalline, androgynous coo turns <i>Ágætis Byrjun</i> into an intensely intimate experience. Even if you can’t understand what he’s saying, his vulnerable voice has the uncanny power to tap into your most repressed emotions and deep-seated bittersweet memories.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/%C3%A1g%C3%A6tis-byrjun/1447442814" >}}
+{{< applemusic url="https://music.apple.com/gb/album/%C3%A1g%C3%A6tis-byrjun/1447442814" >}}<br>
+
+
 ## Videos
 ### Intro
 {{< youtube id="56qkeYZn7Ig" title="Intro" >}}<br>
@@ -74,8 +79,6 @@ Sigur Rós’ second record—their first to be widely heard outside their nativ
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Sigur Rós’ second record—their first to be widely heard outside their native Iceland—is one of those epochal, game-changing albums that redefined what is possible in rock music. In this case, it proved that a neoclassical, shoegazing post-rock band specialising in glacially paced 10-minute movements sung in a made-up, indecipherable dialect could attract a mass audience and become one of the most influential alt-rock groups of their generation. <i>Ágætis Byrjun</i> delivers one weighty moment after another: sonar-pinged arias that gradually accrue enough force to shift tectonic plates (“Svefn-F-Englar”); meditative piano ballads that erupt into shrieking symphonic psychedelia ("Viðrar vel til loftárása"); choral sing-alongs that sound like Christmas in heaven (“Olsen Olsen”). But for all of his band’s grandiose gestures, Jónsi Birgisson's crystalline, androgynous coo turns <i>Ágætis Byrjun</i> into an intensely intimate experience. Even if you can’t understand what he’s saying, his vulnerable voice has the uncanny power to tap into your most repressed emotions and deep-seated bittersweet memories. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue, CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP610 |

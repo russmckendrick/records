@@ -59,9 +59,14 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 <!-- section break -->
 
 The Lemon of Pink is the second studio album by American musical duo The Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-lemon-of-pink-remastered/410702942" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-lemon-of-pink-remastered/410702942" >}}<br>
+
+
 ## Videos
 ### The Books - The Lemon of Pink (full album)
 {{< youtube id="IiXpi5u5Vu8" title="The Books - The Lemon of Pink (full album)" >}}<br>
@@ -80,8 +85,6 @@ The Lemon of Pink is the second studio album by American musical duo The Books. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Lemon_of_Pink |
-| Wikipedia Summary | The Lemon of Pink is the second studio album by American musical duo The Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Club Edition Limited Edition Reissue Remastered (Yellow w/ Pink Splatter) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR181-VMP |

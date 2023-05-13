@@ -40,9 +40,14 @@ styles: ["Pop Rock"]
 
 Kimono My House is the third studio album by American rock band Sparks, released on May 1, 1974, by Island Records. The album is considered to be their commercial breakthrough, and was met with widespread acclaim.
 Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My House peaked at No. 4 in the UK and No. 101 in the US. Retrospectively, Kimono My House is considered one of Sparks's best works and one of the best glam rock albums.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kimono-my-house-21st-century-edition/1443750483" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kimono-my-house-21st-century-edition/1443750483" >}}<br>
+
+
 ## Videos
 ### This Town Ain't Big Enough For Both Of Us
 {{< youtube id="BI9gOtRMogY" title="This Town Ain't Big Enough For Both Of Us" >}}<br>
@@ -65,8 +70,6 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kimono_My_House |
-| Wikipedia Summary | Kimono My House is the third studio album by American rock band Sparks, released on May 1, 1974, by Island Records. The album is considered to be their commercial breakthrough, and was met with widespread acclaim.<br>Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My House peaked at No. 4 in the UK and No. 101 in the US. Retrospectively, Kimono My House is considered one of Sparks's best works and one of the best glam rock albums. |
-| Release Year   | 1974                                   |
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | ILPS 9272 |

@@ -51,7 +51,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Jesus And Mary Chain - You Trip Me Up (Official Video)
 {{< youtube id="zK2nJWNgZBA" title="The Jesus And Mary Chain - You Trip Me Up (Official Video)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (180gm) |
 | Label          | Warner Music Group |
 | Catalog Number | 0190295669249 |

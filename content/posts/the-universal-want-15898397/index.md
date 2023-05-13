@@ -62,9 +62,15 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
 “I started it in my studio as a ballad. I never intended it to be like a house workout at the end. I was thinking of just a two-and-a-half-minute song about the universal want—this question of always chasing something, be it consumerism or some aspect of your life where you think you’re going to be happy. But Jez took it away and he obviously saw something else for the end section and thought of welding this house section onto the end. I couldn’t believe it when I heard it, it was just so unpredictable, and I hope that unpredictability carries through to the listener. I guess it’s kind of a reference to our past, our Sub Sub days—a cheeky doff of the cap to that era. It was a very formative era for all of us.”<br />
 <b>Forest House</b>
 “Again, this had been knocking around for a while and we were never able to master it, didn’t ever find the key to unlock it. It just felt like it was a really intimate way to finish the record—a small way to wind the album down. A simple song, but with Jez’s Russian keyboard in there—this old Russian ’60s monster of an analog keyboard. It’s almost got a dystopian sound. Once that got brought into the song, it was like, ‘Yeah.’”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-universal-want/1519035396" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-universal-want/1519035396" >}}<br>
+
+
 ## Videos
 ### Doves - Carousels
 {{< youtube id="9a239ZI3iYI" title="Doves - Carousels" >}}<br>
@@ -81,8 +87,6 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Universal_Want |
-| Wikipedia Summary | The Universal Want is the fifth studio album by British rock band Doves. The album was released by Heavenly Recordings and Virgin/EMI on 11 September 2020. The Universal Want is the band's first album following a hiatus that began in 2010; the band members pursued solo projects in the interim.<br>Three digital singles preceded the album's release across mid-2020: "Carousels" in June, "Prisoners" in July, and "Cathedrals of the Mind" in August. The Universal Want garnered critical acclaim and was commercially successful, entering the UK Albums Chart at #1, becoming Doves' third album to achieve the top position. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Virgin |
 | Catalog Number | VY 3248 |

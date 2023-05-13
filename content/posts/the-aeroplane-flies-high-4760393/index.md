@@ -92,9 +92,14 @@ styles: ["Alternative Rock"]
 The Aeroplane Flies High is a five-disc box set released by American alternative rock band The Smashing Pumpkins in 1996. It contains expanded versions of the five singles from their album Mellon Collie and the Infinite Sadness and also included a 44-page booklet with pictures and writings by the band's lead singer Billy Corgan, as well as lyrics. A limited edition release, the box reached number 42 on the Billboard charts. Originally intended to be limited to 200,000 copies, Virgin Records produced more after the original run sold out due to overwhelming and unexpected demand.  The album was remastered in 2013 under the supervision of frontman Billy Corgan and reissued on vinyl and as a CD/DVD box set.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-aeroplane-flies-high-deluxe-edition/1433794676" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-aeroplane-flies-high-deluxe-edition/1433794676" >}}<br>
+
+
 
 
 ## Release Images
@@ -104,8 +109,6 @@ The Aeroplane Flies High is a five-disc box set released by American alternative
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Aeroplane_Flies_High |
-| Wikipedia Summary | The Aeroplane Flies High is a five-disc box set released by American alternative rock band The Smashing Pumpkins in 1996. It contains expanded versions of the five singles from their album Mellon Collie and the Infinite Sadness and also included a 44-page booklet with pictures and writings by the band's lead singer Billy Corgan, as well as lyrics. A limited edition release, the box reached number 42 on the Billboard charts. Originally intended to be limited to 200,000 copies, Virgin Records produced more after the original run sold out due to overwhelming and unexpected demand.  The album was remastered in 2013 under the supervision of frontman Billy Corgan and reissued on vinyl and as a CD/DVD box set.<br><br> |
-| Release Year   | 2013                                   |
 | Format         | Box Set Compilation, Vinyl 5× 12" Maxi-Single Reissue Remastered |
 | Label          | Virgin |
 | Catalog Number | B0018550-01 |

@@ -39,7 +39,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Dennis Brown - Tribulation Times (Reggae Album)
 {{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times (Reggae Album)" >}}<br>
@@ -51,7 +54,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Kingston Sounds |
 | Catalog Number | KSLP025 |

@@ -57,9 +57,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-is-dream/1601008224" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-is-dream/1601008224" >}}<br>
+
+
 ## Videos
 ### Mercury Rev - Tides of the Moon
 {{< youtube id="esRQQ0hV-ls" title="Mercury Rev - Tides of the Moon" >}}<br>
@@ -86,7 +89,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Red & Black Marbled Vinyl) |
 | Label          | Cherry Red |
 | Catalog Number | BREDD816 |

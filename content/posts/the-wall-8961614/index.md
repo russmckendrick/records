@@ -68,9 +68,15 @@ styles: ["Prog Rock", "Classic Rock"]
 
 Pink Floyd – The Wall is a 1982 British musical drama film directed by Alan Parker, based on Pink Floyd's 1979 album The Wall. The screenplay was written by Pink Floyd vocalist and bassist Roger Waters. The Boomtown Rats vocalist Bob Geldof plays rock star Pink, who, driven to insanity by the pressures of stardom and traumatic events in his life, constructs a physical and emotional wall to protect himself. However, this coping mechanism eventually backfires, and Pink demands to be set free.
 Like its associated album, the film is highly metaphorical, and frequently utilizes both visual and auditory symbols throughout its runtime. It features little dialogue, instead being driven by the music from the album throughout. The songs used in the film have several differences from their album versions, and one of the songs included, "When the Tigers Broke Free", does not appear on the album. Despite its turbulent production, the film received generally positive reviews and has an established cult following amongst Pink Floyd fans, although its reception from the band themselves has been less favorable.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-wall/704273346" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-wall/704273346" >}}<br>
+
+
 ## Videos
 ### P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979
 {{< youtube id="r48BLz42NuI" title="P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979" >}}<br>
@@ -85,8 +91,6 @@ Like its associated album, the film is highly metaphorical, and frequently utili
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall |
-| Apple Music Summary | Sweeping and epic, Roger Waters’ visionary rock opera tells the story of Pink, a rock star whose power has corrupted him. Pink Floyd told this partially autobiographical, partially metaphorical story with some of the most exhilarating art rock ever created. Powerhouse basslines, drumming both thunderous and restrained, and dreamy synth fills are matched with an orchestra, sound effects, song fragments, and Dave Gilmour’s guitar solos. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP11 |

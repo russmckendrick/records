@@ -69,9 +69,12 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gold-grey/1455859673" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gold-grey/1455859673" >}}<br>
+
+
 ## Videos
 ### BARONESS - Throw Me An Anchor [AUDIO]
 {{< youtube id="KcWFiTJ23Vo" title="BARONESS - Throw Me An Anchor [AUDIO]" >}}<br>
@@ -87,7 +90,6 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (Red Transparent), Vinyl LP Single Sided Etched (Blue Transparent), All Media Album Limited Edition |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN006-1 |

@@ -79,9 +79,15 @@ Martin Gore: “Which is something I’ve never done before, worked with somebod
 
 <b>“Speak to Me”</b>
 Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void, the wanting to be with people and life—and at the same time, not wanting to be. The initial idea came to me, but the song was incredibly elevated by Martin and our producers, James [Ford] and Marta [Salogni], into a different place, another world. And that's exactly where I wanted the song to go as well. But it’s beyond what I could have put together myself. It’s a very simple song, but honest and real. For me, it was the key that opened the door for me to make another Depeche Mode record with Martin. It was an answer to that question for me.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/memento-mori/1670265523" >}}
+{{< applemusic url="https://music.apple.com/gb/album/memento-mori/1670265523" >}}<br>
+
+
 
 
 ## Release Images
@@ -91,8 +97,6 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Memento_Mori_(Depeche_Mode_album) |
-| Wikipedia Summary | Memento Mori (stylised as "Memento|Mori" on the album cover) is the fifteenth studio album by Depeche Mode (stylised as "Depeche|Mode" on the album cover), released on 24 March 2023 through Columbia and Mute. The album was produced by James Ford. It was preceded by the single "Ghosts Again" and the track "My Cosmos Is Mine" (released on streaming platforms), and is the first Depeche Mode studio album to be recorded and released as a duo, after the death of co-founder and keyboardist Andy Fletcher on 26 May 2022. The album is promoted by the Memento Mori World Tour. |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl LP Stereo (Red Opaque, 180g), Vinyl LP Single Sided Etched Stereo (Red Opaque, 180g), All Media Album Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19658792641 |

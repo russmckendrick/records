@@ -38,9 +38,14 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 
 Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it imagines Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.
 The album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/electric-mud/1440803762" >}}
+{{< applemusic url="https://music.apple.com/gb/album/electric-mud/1440803762" >}}<br>
+
+
 ## Videos
 ### I Just Want To Make Love To You
 {{< youtube id="bmY4lnFvdy8" title="I Just Want To Make Love To You" >}}<br>
@@ -62,8 +67,6 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Mud |
-| Wikipedia Summary | Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it imagines Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.<br>The album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-485 |

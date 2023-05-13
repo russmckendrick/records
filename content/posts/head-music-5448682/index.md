@@ -48,9 +48,15 @@ styles: ["Alternative Rock", "Britpop"]
 <!-- section break -->
 
 Head Music is the fourth album by English alternative rock band Suede, released by Nude Records in May 1999. Produced and mixed by Steve Osborne, Head Music features a more electronic sound, which was a new approach for the band. The recording of Head Music was plagued with difficulties such as singer Brett Anderson's addiction to crack, and keyboardist Neil Codling's struggle with chronic fatigue syndrome. The album still went to number 1 on the UK Albums Chart, however, making it the band's third and final chart-topping album. Overall, the album received generally favourable reviews from critics.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/head-music-remastered/435028645" >}}
+{{< applemusic url="https://music.apple.com/gb/album/head-music-remastered/435028645" >}}<br>
+
+
 ## Videos
 ### Suede - Electricity (Official Video)
 {{< youtube id="ygHrqRx7Abg" title="Suede - Electricity (Official Video)" >}}<br>
@@ -68,8 +74,6 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Head_Music |
-| Apple Music Summary | Suede recruited Paul Oakenfold collaborator Steve Osborne to produce their fourth album but the sound of Brett Anderson skanking on “Savoir Faire” notwithstanding, <i>Head Music</i> is not the left turn towards the dancefloor that would suggest. Instead, Osborne gives a reliably melodic, melodramatic collection satisfying crispness and an electronic sheen. From the shouty glam-boogie of “Elephant Man”, to “Electricity”’s crackling riffs and “She’s In Fashion”’s infectious, drunken synths, this is Suede’s most atmospheric and expansive record yet. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 4 |

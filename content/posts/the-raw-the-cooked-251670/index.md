@@ -38,9 +38,12 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-raw-the-cooked/1313940401" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-raw-the-cooked/1313940401" >}}<br>
+
+
 ## Videos
 ### Fine Young Cannibals - The Raw And The Cooked (Full Album)
 {{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | 828 069. 1 |

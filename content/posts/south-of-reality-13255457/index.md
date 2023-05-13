@@ -39,9 +39,12 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/south-of-reality/1440080018" >}}
+{{< applemusic url="https://music.apple.com/gb/album/south-of-reality/1440080018" >}}<br>
+
+
 ## Videos
 ### The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...
 {{< youtube id="XcOHiGonWwU" title="The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo..." >}}<br>
@@ -57,7 +60,6 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album (Pink) |
 | Label          | Prawn Song |
 | Catalog Number | ATO 0445LP |

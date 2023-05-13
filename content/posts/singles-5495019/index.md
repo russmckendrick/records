@@ -40,9 +40,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Singles is the fourth studio album by American synthpop band Future Islands, released on March 24, 2014 through 4AD Records. The album's lead single "Seasons (Waiting on You)" was picked as the best track of 2014 by NME, Pitchfork Media and Spin.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/singles/791124020" >}}
+{{< applemusic url="https://music.apple.com/gb/album/singles/791124020" >}}<br>
+
+
 ## Videos
 ### Future Islands - Seasons (Waiting On You) (Official Video)
 {{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons (Waiting On You) (Official Video)" >}}<br>
@@ -61,8 +66,6 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Singles_(Future_Islands_album) |
-| Wikipedia Summary | Singles is the fourth studio album by American synthpop band Future Islands, released on March 24, 2014 through 4AD Records. The album's lead single "Seasons (Waiting on You)" was picked as the best track of 2014 by NME, Pitchfork Media and Spin. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album |
 | Label          | 4AD |
 | Catalog Number | CAD 3402 |

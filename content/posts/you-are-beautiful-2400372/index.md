@@ -35,9 +35,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/you-are-beautiful/1605185732" >}}
+{{< applemusic url="https://music.apple.com/gb/album/you-are-beautiful/1605185732" >}}<br>
+
+
 ## Videos
 ### Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)
 {{< youtube id="Jx70sfKwyZk" title="Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1975                                   |
 | Format         | Vinyl LP Album |
 | Label          | Avco |
 | Catalog Number | 9109 006 |

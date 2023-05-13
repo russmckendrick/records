@@ -39,9 +39,14 @@ styles: ["Ambient", "Berlin-School"]
 
 Quantum Gate (2017) is roughly the 150th release and roughly 30th main studio album by Tangerine Dream. It is the first full-length album since the death of founder Edgar Froese in 2015, and is largely based on ideas and musical sketches left by Froese. The album was preceded by and is companion to the 2015 mini-album Quantum Key.
 This album earned the group the most press they have had since the release of 1988's Optical Race due to the revived interest in the group following Froese's death.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/quantum-gate/1275652998" >}}
+{{< applemusic url="https://music.apple.com/gb/album/quantum-gate/1275652998" >}}<br>
+
+
 ## Videos
 ### Tangerine Dream - Sensing Elements
 {{< youtube id="18-UfWJDQWI" title="Tangerine Dream - Sensing Elements" >}}<br>
@@ -59,8 +64,6 @@ This album earned the group the most press they have had since the release of 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Quantum_Gate_(album) |
-| Wikipedia Summary | Quantum Gate (2017) is roughly the 150th release and roughly 30th main studio album by Tangerine Dream. It is the first full-length album since the death of founder Edgar Froese in 2015, and is largely based on ideas and musical sketches left by Froese. The album was preceded by and is companion to the 2015 mini-album Quantum Key.<br>This album earned the group the most press they have had since the release of 1988's Optical Race due to the revived interest in the group following Froese's death. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE967 |

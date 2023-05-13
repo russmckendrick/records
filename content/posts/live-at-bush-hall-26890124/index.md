@@ -52,9 +52,14 @@ Live at Bush Hall is a concert film by British rock band Black Country, New Road
 An album of the performance was released on 24 March 2023 through Ninja Tune.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-bush-hall/1669295690" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-bush-hall/1669295690" >}}<br>
+
+
 ## Videos
 ### Black Country, New Road - 'Up Song - Live at Bush Hall' (Official Audio)
 {{< youtube id="9rHjkRgJlEs" title="Black Country, New Road - 'Up Song - Live at Bush Hall' (Official Audio)" >}}<br>
@@ -76,8 +81,6 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Bush_Hall |
-| Wikipedia Summary | Live at Bush Hall is a concert film by British rock band Black Country, New Road released on 20 February 2023 through YouTube. It is the first official release since Ants from Up There and the departure of Isaac Wood, the band's vocalist, and consists of recordings from previously unreleased music performed live at Bush Hall, London, over the period of 15–16 December 2022.<br>An album of the performance was released on 24 March 2023 through Ninja Tune.<br><br> |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN289 |

@@ -39,7 +39,12 @@ styles: ["Roots Reggae"]
 <!-- section break -->
 
 Give Thankx is the twelfth album by Jimmy Cliff.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Lonely Streets
 {{< youtube id="6zEihLB92cU" title="Lonely Streets" >}}<br>
@@ -59,8 +64,6 @@ Give Thankx is the twelfth album by Jimmy Cliff.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Give_Thankx |
-| Wikipedia Summary | Give Thankx is the twelfth album by Jimmy Cliff. |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | WB 56 558 |

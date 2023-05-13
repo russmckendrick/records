@@ -69,9 +69,12 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/burning-love-40-greatest-hits-of-elvis-presley/1521597171" >}}
+{{< applemusic url="https://music.apple.com/gb/album/burning-love-40-greatest-hits-of-elvis-presley/1521597171" >}}<br>
+
+
 
 
 ## Release Images
@@ -80,7 +83,6 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1975                                   |
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Arcade |
 | Catalog Number | ADEP 12 |

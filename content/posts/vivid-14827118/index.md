@@ -43,9 +43,14 @@ styles: ["Alternative Rock", "Funk Metal"]
 Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}<br>
+
+
 ## Videos
 ### Cult of Personality
 {{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}<br>
@@ -69,8 +74,6 @@ Vivid is the debut studio album by American band Living Colour, released on May 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vivid_(Living_Colour_album) |
-| Wikipedia Summary | Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP596 |

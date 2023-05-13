@@ -54,9 +54,12 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blade-runner-2049-original-motion-picture-soundtrack/1291056782" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blade-runner-2049-original-motion-picture-soundtrack/1291056782" >}}<br>
+
+
 ## Videos
 ### Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer
 {{< youtube id="pMjIERoxzUQ" title="Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Epic |
 | Catalog Number | 19075803641 |

@@ -47,9 +47,15 @@ Appetite for Destruction is the debut studio album by American hard rock band Gu
 Although critics were originally ambivalent toward the album, Appetite for Destruction has received retrospective acclaim and been viewed as one of the greatest albums of all time. In 2018, it was re-released as a remastered box set to similar acclaim.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction-super-deluxe/1377826053" >}}
+{{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction-super-deluxe/1377826053" >}}<br>
+
+
 ## Videos
 ### Guns N Roses  Appetite for Destruction 1987  Full Album
 {{< youtube id="_0fJo8niR5M" title="Guns N Roses  Appetite for Destruction 1987  Full Album" >}}<br>
@@ -62,8 +68,6 @@ Although critics were originally ambivalent toward the album, Appetite for Destr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Appetite_for_Destruction |
-| Apple Music Summary | It's hard to overstate the impact of Guns N' Roses' 1987 debut as a commercial juggernaut, convulsive pop-cultural realignment and overall statement of (ill) intent. This extremely deluxe reissue—a year late for the record's 30th anniversary—clocks in at 51 tracks and three and a half hours, an exhaustive and definitive document of not only the original album but its sundry B-sides, outtakes and 25 previously unreleased demos. The ferocious live tracks encapsulate the energy of a band shot out of a cannon from the Sunset Strip's grimy glam-metal underground into worldwide infamy. Whatever the band's complicated history since, the sheer mass of material—highlighted by the seldom-heard pre-GNR song “Shadow of Your Love” and an embryonic acoustic version of “November Rain”—feels revelatory.  |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00720642414811 |

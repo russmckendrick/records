@@ -51,9 +51,14 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 Ladies and Gentlemen We Are Floating in Space is the third studio album by English space rock band Spiritualized, released on 16 June 1997. The album features guest appearances from the Balanescu Quartet, The London Community Gospel Choir and Dr. John.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ladies-and-gentlemen-we-are-floating-in-space/1502476612" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ladies-and-gentlemen-we-are-floating-in-space/1502476612" >}}<br>
+
+
 ## Videos
 ### Spiritualized - Come Together (Official Music Video)
 {{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together (Official Music Video)" >}}<br>
@@ -72,8 +77,6 @@ Ladies and Gentlemen We Are Floating in Space is the third studio album by Engli
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_We_Are_Floating_in_Space |
-| Wikipedia Summary | Ladies and Gentlemen We Are Floating in Space is the third studio album by English space rock band Spiritualized, released on 16 June 1997. The album features guest appearances from the Balanescu Quartet, The London Community Gospel Choir and Dr. John. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Repress Special Edition Stereo (Blue [Neptune Blue], 180g) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1753-4 |

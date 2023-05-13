@@ -46,9 +46,13 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="1RB1lMsMcQQmcqUyP23T5f" width="100%" height="500" >}}
+{{< spotify type="album" id="1RB1lMsMcQQmcqUyP23T5f" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### The Stone Roses - Ten Storey Love Song
 {{< youtube id="0uNLw3pXlVM" title="The Stone Roses - Ten Storey Love Song" >}}<br>
@@ -72,7 +76,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (Gatefold Sleeve) |
 | Label          | Silvertone Records |
 | Catalog Number | 88725406221 |

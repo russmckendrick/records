@@ -33,9 +33,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grimspound/1208076126" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grimspound/1208076126" >}}<br>
+
+
 ## Videos
 ### Grimspound
 {{< youtube id="Aaf1XDtWVNk" title="Grimspound" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Opaque Vinyl) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG050 |

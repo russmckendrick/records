@@ -39,9 +39,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rock-action/273164911" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rock-action/273164911" >}}<br>
+
+
 ## Videos
 ### Two Rights Make One Wrong
 {{< youtube id="zg7REZbQ-A0" title="Two Rights Make One Wrong" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Southpaw Recordings |
 | Catalog Number | PAWLP1 |

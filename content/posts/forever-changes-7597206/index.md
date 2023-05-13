@@ -37,9 +37,14 @@ styles: ["Folk Rock", "Psychedelic Rock"]
 
 Forever Changes is the third studio album by the American rock band Love, released by Elektra Records in November 1967. The album saw the group embrace a subtler folk-oriented sound and orchestration, while primary songwriter Arthur Lee explored darker themes alluding to mortality and his creeping disillusionment with the 1960s counterculture. It was the final album recorded by the original band lineup; after its completion, Bryan MacLean left the group acrimoniously and the other members were dismissed by leader Lee.
 Forever Changes had only moderate success in the album charts when it was first released in 1967; it peaked at No. 154 in the US, with a stronger showing in Great Britain, where it reached No. 24 on the UK album chart. In subsequent years, it became recognized as an influential document of 1960s psychedelia and was named among the greatest albums of all time by a variety of publications.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/forever-changes-remastered/1125521386" >}}
+{{< applemusic url="https://music.apple.com/gb/album/forever-changes-remastered/1125521386" >}}<br>
+
+
 ## Videos
 ### Alone Again Or (2015 Remaster)
 {{< youtube id="cPbNpIG8x_s" title="Alone Again Or (2015 Remaster)" >}}<br>
@@ -58,8 +63,6 @@ Forever Changes had only moderate success in the album charts when it was first 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Forever_Changes |
-| Wikipedia Summary | Forever Changes is the third studio album by the American rock band Love, released by Elektra Records in November 1967. The album saw the group embrace a subtler folk-oriented sound and orchestration, while primary songwriter Arthur Lee explored darker themes alluding to mortality and his creeping disillusionment with the 1960s counterculture. It was the final album recorded by the original band lineup; after its completion, Bryan MacLean left the group acrimoniously and the other members were dismissed by leader Lee.<br>Forever Changes had only moderate success in the album charts when it was first released in 1967; it peaked at No. 154 in the US, with a stronger showing in Great Britain, where it reached No. 24 on the UK album chart. In subsequent years, it became recognized as an influential document of 1960s psychedelia and was named among the greatest albums of all time by a variety of publications. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (White, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122797115 |

@@ -49,9 +49,14 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, which was released by EMI in 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-years-of-our-lives-deluxe-version/1631057930" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-years-of-our-lives-deluxe-version/1631057930" >}}<br>
+
+
 ## Videos
 ### Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975
 {{< youtube id="G00gx11mKf4" title="Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975" >}}<br>
@@ -91,8 +96,6 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives_(Steve_Harley_%26_Cockney_Rebel_album) |
-| Wikipedia Summary | The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, which was released by EMI in 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)". |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue (Orange & Blue / 2020 Reissue) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRVX1383 |

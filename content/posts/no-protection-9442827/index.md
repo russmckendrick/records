@@ -34,9 +34,12 @@ styles: ["Downtempo", "Dub", "Trip Hop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-protection/723371523" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-protection/723371523" >}}<br>
+
+
 
 
 ## Release Images
@@ -45,7 +48,6 @@ styles: ["Downtempo", "Dub", "Trip Hop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 5700963 |

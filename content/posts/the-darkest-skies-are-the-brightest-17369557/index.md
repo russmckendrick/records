@@ -45,9 +45,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-darkest-skies-are-the-brightest/1541054468" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-darkest-skies-are-the-brightest/1541054468" >}}<br>
+
+
 ## Videos
 ### ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)
 {{< youtube id="WMuysO4TpWw" title="ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)" >}}<br>
@@ -62,7 +65,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album (180g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 577 |

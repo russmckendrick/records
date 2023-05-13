@@ -55,9 +55,14 @@ styles: []
 <!-- section break -->
 
 Imposter is the third collaborative studio album by English singer-songwriter Dave Gahan and electronica producer Soulsavers. It was released on 12 November 2021 by Columbia Records. The album also produced one single.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/imposter/1587991588" >}}
+{{< applemusic url="https://music.apple.com/gb/album/imposter/1587991588" >}}<br>
+
+
 ## Videos
 ### Dave Gahan, Soulsavers - Metal Heart (Official Video)
 {{< youtube id="QNvNs0MzYGg" title="Dave Gahan, Soulsavers - Metal Heart (Official Video)" >}}<br>
@@ -75,8 +80,6 @@ Imposter is the third collaborative studio album by English singer-songwriter Da
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Imposter_(album) |
-| Wikipedia Summary | Imposter is the third collaborative studio album by English singer-songwriter Dave Gahan and electronica producer Soulsavers. It was released on 12 November 2021 by Columbia Records. The album also produced one single. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439925601 |

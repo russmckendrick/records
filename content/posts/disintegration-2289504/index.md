@@ -51,9 +51,15 @@ styles: ["Alternative Rock", "New Wave"]
 
 Disintegration is the eighth studio album by English rock band the Cure, released on 2 May 1989 by Fiction Records. The record marks a return to the introspective gothic rock style the band had established in the early 1980s. As he neared the age of 30, vocalist and guitarist Robert Smith had felt an increased pressure to follow up on the band's pop successes with a more enduring work. This, coupled with a distaste for the group's newfound popularity, caused Smith to lapse back into the use of hallucinogenic drugs, the effects of which had a strong influence on the production of the album. The band recorded the album at Hookend Recording Studios in Checkendon, Oxfordshire, with co-producer David M. Allen from late 1988 to early 1989. Following the completion of the mixing, founding member Lol Tolhurst was fired from the band.
 The album became the band's first commercial peak, charting at number three in the United Kingdom and at number 12 in the United States, and producing several hit singles including "Lovesong", which peaked at number two on the Billboard Hot 100. It remains the band's highest selling record to date, with more than four million copies sold worldwide. It was greeted with a warm critical reception before later being acclaimed, eventually being placed at number 116 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time". Stephen Thomas Erlewine of AllMusic called it the "culmination of all the musical directions the Cure were pursuing over the course of the '80s".
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/disintegration-remastered/1440785740" >}}
+{{< applemusic url="https://music.apple.com/gb/album/disintegration-remastered/1440785740" >}}<br>
+
+
 ## Videos
 ### Th̲e C̲ure – D̲isintegrat̲i̲o̲n̲ (Full Album) 1989
 {{< youtube id="fcF8DaOSasY" title="Th̲e C̲ure – D̲isintegrat̲i̲o̲n̲ (Full Album) 1989" >}}<br>
@@ -66,8 +72,6 @@ The album became the band's first commercial peak, charting at number three in t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album) |
-| Apple Music Summary | The Cure’s Robert Smith has always been a torn man; it’s what fuels his greatest music. He has a natural gift for pop music (“Love Song”), an obsessive love for the dark and dismal (“The Same Deep Water as You”) and a moderate side that sometimes lands the perfect balance between the two (“Pictures Of You’). Whether it’s revisionist history or not, Smith claims that 1989’s <i>Disintegration</i> is the second installment of a trilogy of Cure albums begun with 1982’s <i>Pornography</i> and completed with 2000’s <i>Bloodflowers</i>. Each one sprawls with epic visions and a definite death-rattle and on each of these releases, Smith slows the tempo, deepens the textures with pulsing synths and dirty skrotches of guitar, and often allows himself six to nine-plus minutes to make his point. While one hesitates to ever say Smith sounds comfortable—his natural state is apparently somewhere between romantically tortured and completely strung out to dry—he does seem to be working at peak capacity, as tracks such as the aforementioned and “Prayers for Rain” clearly bear out. |
-    | Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g, Gatefold Sleeve) |
 | Label          | Fiction Records |
 | Catalog Number | 532 456-3 |

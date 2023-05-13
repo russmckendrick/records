@@ -82,9 +82,15 @@ The Who were looking for a way to follow up their 1969 album Tommy, and had reco
 The album was released in 23 May 1970 by Decca and MCA in the United States, and by Track and Polydor in the United Kingdom. It has been reissued on several occasions and in several different formats. Since its release, Live at Leeds has been cited by several music critics as the best live rock recording of all time.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-leeds-deluxe-edition-2001-remaster/1440859591" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-leeds-deluxe-edition-2001-remaster/1440859591" >}}<br>
+
+
 
 
 ## Release Images
@@ -94,8 +100,6 @@ The album was released in 23 May 1970 by Decca and MCA in the United States, and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Leeds |
-| Apple Music Summary | Shortly after refining their sound on the rock opera <i>Tommy</i>, The Who went back to explosive basics on this live show. Part of the thrill comes from hearing the band rampage through its covers, including ripping hard rock takes on Mose Allison's "Young Man Blues" and Eddie Cochran's "Summertime Blues.” "Substitute” sounds even punkier than the original 1966 single had, and an extended “My Generation” gives Pete Townshend a chance to stretch out on guitar before Keith Moon and John Entwistle come crashing back in. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 3× LP Album Deluxe Edition Reissue Remastered (180 Gram) |
 | Label          | Polydor |
 | Catalog Number | 0600753698075 |

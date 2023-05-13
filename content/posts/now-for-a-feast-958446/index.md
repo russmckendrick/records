@@ -40,9 +40,12 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/now-for-a-feast-25th-anniversary-expanded-edition/461120910" >}}
+{{< applemusic url="https://music.apple.com/gb/album/now-for-a-feast-25th-anniversary-expanded-edition/461120910" >}}<br>
+
+
 ## Videos
 ### Pop Will Eat Itself - Orgone Accumulator
 {{< youtube id="iOD-G6_1OGM" title="Pop Will Eat Itself - Orgone Accumulator" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 33 |

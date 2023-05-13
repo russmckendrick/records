@@ -48,9 +48,13 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}
+{{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Barbara McNair - The Hunter Gets Captured By The Game
 {{< youtube id="e1aQDKgjm3g" title="Barbara McNair - The Hunter Gets Captured By The Game" >}}<br>
@@ -67,7 +71,6 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation (Red Translucent) |
 | Label          | Tamla Motown |
 | Catalog Number | 537 552-0 |

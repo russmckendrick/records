@@ -52,9 +52,14 @@ styles: ["Soundtrack"]
 <!-- section break -->
 
 Although her adaptations of Bach compositions for the Moog won Wendy Carlos three Grammys for her 1968 album <i>Switched-On Bach</i>, it was her scores for <i>A Clockwork Orange</i> and <i>The Shining</i> that got her the job providing the soundtrack for <i>Tron</i> in 1982. What set this one apart from the others was the fact that it was the first recording to meld analog synthesizers with a large ensemble—in this case, the London Philharmonic Orchestra. Both songs by Journey are exceptional (especially the instrumental “1990s Theme”), as are such sweepingly different pieces as “Tron Scherzo,” where Carlos’ staggered tones rub against the grain of descending orchestral notes, and “Theme from Tron,” a (now) retro-future contrast that has aged as well as Vangelis’ score for <i>Blade Runner</i>. Following its release, Carlos went on record to say she wasn’t happy with the recording because it was difficult to time the Moog’s oscillations with the signatures of the orchestra. But nobody since her has blended organic and modular tones as beautifully as on “Sea of Simulation.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tron-original-motion-picture-soundtrack/1443890451" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tron-original-motion-picture-soundtrack/1443890451" >}}<br>
+
+
 ## Videos
 ### Tron Suite - Wendy Carlos
 {{< youtube id="P5RcNuQXuR4" title="Tron Suite - Wendy Carlos" >}}<br>
@@ -83,8 +88,6 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Although her adaptations of Bach compositions for the Moog won Wendy Carlos three Grammys for her 1968 album <i>Switched-On Bach</i>, it was her scores for <i>A Clockwork Orange</i> and <i>The Shining</i> that got her the job providing the soundtrack for <i>Tron</i> in 1982. What set this one apart from the others was the fact that it was the first recording to meld analog synthesizers with a large ensemble—in this case, the London Philharmonic Orchestra. Both songs by Journey are exceptional (especially the instrumental “1990s Theme”), as are such sweepingly different pieces as “Tron Scherzo,” where Carlos’ staggered tones rub against the grain of descending orchestral notes, and “Theme from Tron,” a (now) retro-future contrast that has aged as well as Vangelis’ score for <i>Blade Runner</i>. Following its release, Carlos went on record to say she wasn’t happy with the recording because it was difficult to time the Moog’s oscillations with the signatures of the orchestra. But nobody since her has blended organic and modular tones as beautifully as on “Sea of Simulation. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Blue Translucent, 180 Gram, Gatefold) |
 | Label          | Audio Fidelity (3) |
 | Catalog Number | AFZLP2 177 |

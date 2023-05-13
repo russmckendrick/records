@@ -123,7 +123,10 @@ styles: ["Alternative Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -132,7 +135,6 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue (Brown), Vinyl 2× LP Album Reissue (Translucent Green), Vinyl LP Album Reissue (Pale Yellow), Vinyl 2× LP Album Reissue (Lilac), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Reissue (Translucent Blue) |
 | Label          | Demon Records |
 | Catalog Number | SUEDEBOX009X |

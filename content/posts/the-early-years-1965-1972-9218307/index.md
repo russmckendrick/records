@@ -678,9 +678,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-early-years-1967-1972-cre-ation/1137669181" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-early-years-1967-1972-cre-ation/1137669181" >}}<br>
+
+
 
 
 ## Release Images
@@ -689,7 +692,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Compilation Limited Edition, CD Stereo Mono, CD Stereo, DVD DVD-Video NTSC Stereo, Blu-ray Stereo, CD Stereo, DVD DVD-Video NTSC Stereo, Blu-ray Stereo, CD 2× Stereo, DVD DVD-Video NTSC Stereo, Blu-ray Stereo, CD 2× Stereo, DVD DVD-Video NTSC Album Stereo Quadraphonic, DVD DVD-Video NTSC Stereo, Blu-ray Album Stereo Quadraphonic, CD Stereo, DVD DVD-Video NTSC Stereo Quadraphonic, Blu-ray Stereo Quadraphonic, CD Stereo, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Stereo Multichannel, CD Stereo, DVD 2× DVD-Video NTSC Stereo, Blu-ray 2× Stereo, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, CD Album Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | 0190295950255 |

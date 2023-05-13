@@ -42,9 +42,14 @@ styles: ["Breakbeat", "House", "Big Beat"]
 
 Come with Us is the fourth studio album by English electronic music duo the Chemical Brothers, released in January 2002 by record labels Virgin and Freestyle Dust in the UK and Astralwerks and Ultra in the US. It features Richard Ashcroft (ex-the Verve) and Beth Orton as guest vocalists.
 The album debuted at number one on the UK Albums Chart. It was certified Gold by the BPI on 1 February 2002.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/come-with-us/721206816" >}}
+{{< applemusic url="https://music.apple.com/gb/album/come-with-us/721206816" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,8 +59,6 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Come_with_Us |
-| Wikipedia Summary | Come with Us is the fourth studio album by English electronic music duo the Chemical Brothers, released in January 2002 by record labels Virgin and Freestyle Dust in the UK and Astralwerks and Ultra in the US. It features Richard Ashcroft (ex-the Verve) and Beth Orton as guest vocalists.<br>The album debuted at number one on the UK Albums Chart. It was certified Gold by the BPI on 1 February 2002. |
-| Release Year   | 2002                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Astralwerks |
 | Catalog Number | ASW 11682 |

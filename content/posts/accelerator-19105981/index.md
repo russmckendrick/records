@@ -39,9 +39,14 @@ styles: ["Techno"]
 <!-- section break -->
 
 Accelerator is the debut studio album by British electronic group the Future Sound of London. It was released in April 1992 by the record label Jumpin' & Pumpin'. It includes the hit single "Papua New Guinea".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/accelerator-deluxe/151039580" >}}
+{{< applemusic url="https://music.apple.com/gb/album/accelerator-deluxe/151039580" >}}<br>
+
+
 ## Videos
 ### The Future Sound Of London - Pulse State - Jumpin' & Pumpin' 1992
 {{< youtube id="yKTZVb9dNj0" title="The Future Sound Of London - Pulse State - Jumpin' & Pumpin' 1992" >}}<br>
@@ -71,8 +76,6 @@ Accelerator is the debut studio album by British electronic group the Future Sou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Accelerator_(The_Future_Sound_of_London_album) |
-| Wikipedia Summary | Accelerator is the debut studio album by British electronic group the Future Sound of London. It was released in April 1992 by the record label Jumpin' & Pumpin'. It includes the hit single "Papua New Guinea". |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× 12" Album Record Store Day Limited Edition Numbered Reissue |
 | Label          | Jumpin' & Pumpin' |
 | Catalog Number | DLPRSDTOT2 |

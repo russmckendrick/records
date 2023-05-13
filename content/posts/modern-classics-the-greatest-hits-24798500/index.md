@@ -57,9 +57,12 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/modern-classics-the-greatest-hits/1440925454" >}}
+{{< applemusic url="https://music.apple.com/gb/album/modern-classics-the-greatest-hits/1440925454" >}}<br>
+
+
 ## Videos
 ### Mermaids
 {{< youtube id="xds2QRD4078" title="Mermaids" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 357 934-1 |

@@ -42,9 +42,14 @@ styles: ["Power Pop"]
 <!-- section break -->
 
 It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick, and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel,” the psych-folk popper “The Ballad of El Goodo,” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance.”  
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1-record/1422691834" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1-record/1422691834" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,8 +58,6 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick, and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel,” the psych-folk popper “The Ballad of El Goodo,” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance.”   |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Ardent Records (2) |
 | Catalog Number | CR00211 |

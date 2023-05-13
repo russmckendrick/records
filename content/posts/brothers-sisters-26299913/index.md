@@ -46,9 +46,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brothers-sisters/1650378995" >}}
+{{< applemusic url="https://music.apple.com/gb/album/brothers-sisters/1650378995" >}}<br>
+
+
 ## Videos
 ### Steve Mason - Mars Man (Official Audio)
 {{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man (Official Audio)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Deluxe Edition (Gold) |
 | Label          | Double Six (2) |
 | Catalog Number | DS145LPX |

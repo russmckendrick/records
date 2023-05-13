@@ -42,7 +42,10 @@ styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange, 20th Anniversary Edition, 180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295919948 |

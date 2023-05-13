@@ -30,7 +30,10 @@ styles: ["New Wave", "Dub", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ian Dury - Red Letter
 {{< youtube id="elL42w6qOdk" title="Ian Dury - Red Letter" >}}<br>
@@ -60,7 +63,6 @@ styles: ["New Wave", "Dub", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC58 |

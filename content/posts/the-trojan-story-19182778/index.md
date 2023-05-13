@@ -74,9 +74,13 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="1bDMzgcawjDfM2eRCnNGos" width="100%" height="500" >}}
+{{< spotify type="album" id="1bDMzgcawjDfM2eRCnNGos" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Mellow Larks - Time To Pray.wmv
 {{< youtube id="CXIO7Q6O-qQ" title="Mellow Larks - Time To Pray.wmv" >}}<br>
@@ -119,7 +123,6 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 3× LP Compilation Reissue (50th Anniversary) |
 | Label          | Trojan Records |
 | Catalog Number | TJBOX009 |

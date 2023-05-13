@@ -53,9 +53,12 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cure-for-me-acoustic-single/1577868696" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cure-for-me-acoustic-single/1577868696" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress (180) |
 | Label          | Fiction Records |
 | Catalog Number | 572 634-0 |

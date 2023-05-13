@@ -50,9 +50,15 @@ Parklife is the third studio album by the English rock band Blur, released on 25
 Certified four times platinum in the United Kingdom, in the year following its release the album came to define the emerging Britpop scene, along with the album Definitely Maybe by future rivals Oasis. Britpop in turn would form the backbone of the broader Cool Britannia movement. Parklife therefore has attained a cultural significance above and beyond its considerable sales and critical acclaim, cementing its status as a landmark in British rock music.In 2010, Parklife was one of ten classic album covers from British artists commemorated on a UK postage stamp issued by the Royal Mail. In 2015, Spin included the album in their list of "The 300 Best Albums of 1985–2014". In 2020, Rolling Stone included in their list of the 500 Greatest Albums of All Time.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/parklife/699665183" >}}
+{{< applemusic url="https://music.apple.com/gb/album/parklife/699665183" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +68,6 @@ Certified four times platinum in the United Kingdom, in the year following its r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Parklife |
-| Apple Music Summary | Released a year before Blur would face off against Oasis in the mid-'90s Battle of Britpop, the group's third album showcases the wit at the heart of their music. The sassy, disco-tinged "Girls and Boys" sets the tone, as jaunty guitar and keyboard riffs mesh with Damon Albarn's flirty vocals. Meanwhile, the melancholic "End of a Century" brings a wistful, Kinks-like touch. But it's the iconic title track, complete with actor Phil Daniels' chirpy Cockney monologues in the verses, that defines its era. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Yellow Translucent) |
 | Label          | Food |
 | Catalog Number | FOODLPX10 |

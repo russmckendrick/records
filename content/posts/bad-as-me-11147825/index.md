@@ -41,9 +41,14 @@ styles: []
 <!-- section break -->
 
 Bad as Me is the seventeenth and most recent studio album by American singer-songwriter Tom Waits, released on October 21, 2011 by Anti- Records. The album is known to have been recorded as early as February 2011 and was officially announced for release on August 23, 2011 on Waits' official web site and various social media networks. On the same day, the title track, "Bad as Me", was released as the album's first single on iTunes.The album is Waits' first album consisting completely of new material in seven years since Real Gone (2004). Waits' label, Anti-, had recently agreed on a distribution deal with Warner Music Group allowing them to release the album internationally. This marks Waits' first release through the Warner organization since Heartattack and Vine (1980). Upon its release, Bad as Me received widespread critical acclaim. The album was nominated for a Grammy Award for Best Alternative Music Album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bad-as-me-deluxe-edition/1485070792" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bad-as-me-deluxe-edition/1485070792" >}}<br>
+
+
 ## Videos
 ### Tom Waits - Satisfied
 {{< youtube id="xHn_Kb4Dz40" title="Tom Waits - Satisfied" >}}<br>
@@ -58,8 +63,6 @@ Bad as Me is the seventeenth and most recent studio album by American singer-son
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_as_Me |
-| Wikipedia Summary | Bad as Me is the seventeenth and most recent studio album by American singer-songwriter Tom Waits, released on October 21, 2011 by Anti- Records. The album is known to have been recorded as early as February 2011 and was officially announced for release on August 23, 2011 on Waits' official web site and various social media networks. On the same day, the title track, "Bad as Me", was released as the album's first single on iTunes.The album is Waits' first album consisting completely of new material in seven years since Real Gone (2004). Waits' label, Anti-, had recently agreed on a distribution deal with Warner Music Group allowing them to release the album internationally. This marks Waits' first release through the Warner organization since Heartattack and Vine (1980). Upon its release, Bad as Me received widespread critical acclaim. The album was nominated for a Grammy Award for Best Alternative Music Album. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Remastered (180 g) |
 | Label          | Anti- |
 | Catalog Number | 7151-1 |

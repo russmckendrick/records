@@ -58,9 +58,12 @@ styles: ["Classic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-knebworth-1990/1554080602" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-knebworth-1990/1554080602" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - Shine On You Crazy Diamond (Pts. 1-5) [Live at Knebworth 1990) [2021 Edit]
 {{< youtube id="ZfevCGgOTTk" title="Pink Floyd - Shine On You Crazy Diamond (Pts. 1-5) [Live at Knebworth 1990) [2021 Edit]" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Classic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP34 |

@@ -54,9 +54,15 @@ Everything Now is the fifth studio album by Canadian indie rock band Arcade Fire
 Upon release, Everything Now proved polarizing with critics—some reviews said it was a misstep for the band, but several publications named it one of the best albums of the year. It reached the top of the charts in numerous countries, including Arcade Fire's home country of Canada, the US, and the UK.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-now/1240796998" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-now/1240796998" >}}<br>
+
+
 ## Videos
 ### Arcade Fire - Creature Comfort (Official Video)
 {{< youtube id="xzwicesJQ7E" title="Arcade Fire - Creature Comfort (Official Video)" >}}<br>
@@ -73,8 +79,6 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Now |
-| Apple Music Summary | Though Arcade Fire have always been comfortable making grand statements, they’ve also been generous with nuance. After joining forces with LCD Soundsystem’s James Murphy on 2013’s <i>Reflektor</i>, the Canadian outfit bring in a similarly impressive crew of co-producers—Daft Punk’s Thomas Bangalter, Pulp’s Steve Mackey—for <i>Everything Now</i>, an album whose jaunty, disco-indebted art-rock is weighted with haunting takes on information overload (the ABBA-esque title track) and nostalgia (“Signs of Life”). “If you can’t see the forest for the trees, just burn it all down,” frontman Win Butler sings on “We Don’t Deserve Love,” a gorgeous yet disorienting ballad at the album’s conclusion. “And bring the ashes to me.” |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue Translucent) |
 | Label          | Sonovox Records |
 | Catalog Number | 88985447861 |

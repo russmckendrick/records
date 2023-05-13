@@ -31,7 +31,10 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### mansun - legacy
 {{< youtube id="vYUOCMYtzns" title="mansun - legacy" >}}<br>
@@ -45,7 +48,6 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition (Red Translucent ) |
 | Label          | Kscope |
 | Catalog Number | 1032 |

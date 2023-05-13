@@ -55,9 +55,15 @@ After transitioning to a more electronic style on their albums Kid A (2000) and 
 Following a high-profile internet leak of unfinished material ten weeks before release, Hail to the Thief debuted at number one on the UK Albums Chart and number three on the US Billboard 200 chart. It was certified platinum in the UK and Canada and gold in several countries. It was promoted with singles and music videos for "There There", "Go to Sleep" and "2 + 2 = 5". Hail to the Thief received positive reviews; it was the fifth consecutive Radiohead album nominated for a Grammy Award for Best Alternative Music Album, and won for the Grammy Award for Best Engineered Non-Classical Album.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hail-to-the-thief/1097863576" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hail-to-the-thief/1097863576" >}}<br>
+
+
 ## Videos
 ### Radiohead - Hail to the Thief (2003) Análisis en Español!! Discográfia Radiohead!!
 {{< youtube id="RS0lue1fwb8" title="Radiohead - Hail to the Thief (2003) Análisis en Español!! Discográfia Radiohead!!" >}}<br>
@@ -70,8 +76,6 @@ Following a high-profile internet leak of unfinished material ten weeks before r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hail_to_the_Thief |
-| Apple Music Summary | “That’s a nice way to start, Jonny,” mutters Thom Yorke, backed by the introductory blast of feedback on “2 + 2 = 5”. It’s a fitting opening for <i>Hail to the Thief</i>, a sixth record that sees Radiohead relinquish some of their trademark fastidiousness for something more rough-hewn, spontaneous, and freeform. It’s an approach that, in keeping with the atmosphere of political turmoil, yields skittering, richly complex songs that perhaps peak with the heady, bitter march of “There, There”. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× 12" 45 RPM Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP785 |

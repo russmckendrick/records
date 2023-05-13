@@ -45,9 +45,14 @@ styles: ["Krautrock", "Experimental", "Avantgarde"]
 Tago Mago is the second studio album by the German krautrock band Can, originally released as a double LP in August 1971 on the United Artists label. It was the band's first album to feature Damo Suzuki after the 1970 departure of previous vocalist Malcolm Mooney. Recorded in a rented castle near Cologne, the album features long-form experimental tracks blending rock improvisation, funk rhythms and musique concrète techniques.Tago Mago has been described as Can's best and most extreme record in sound and structure. The album has received widespread critical acclaim and is cited as an influence by various artists. Drowned in Sound called it "arguably the most influential rock album ever recorded."
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tago-mago-40th-anniversary-edition/709211421" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tago-mago-40th-anniversary-edition/709211421" >}}<br>
+
+
 ## Videos
 ### CAN - Bring Me Coffee Or Tea
 {{< youtube id="u0z76B3A_xM" title="CAN - Bring Me Coffee Or Tea" >}}<br>
@@ -68,8 +73,6 @@ Tago Mago is the second studio album by the German krautrock band Can, originall
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tago_Mago |
-| Wikipedia Summary | Tago Mago is the second studio album by the German krautrock band Can, originally released as a double LP in August 1971 on the United Artists label. It was the band's first album to feature Damo Suzuki after the 1970 departure of previous vocalist Malcolm Mooney. Recorded in a rented castle near Cologne, the album features long-form experimental tracks blending rock improvisation, funk rhythms and musique concrète techniques.Tago Mago has been described as Can's best and most extreme record in sound and structure. The album has received widespread critical acclaim and is cited as an influence by various artists. Drowned in Sound called it "arguably the most influential rock album ever recorded."<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Orange Clear, Gatefold) |
 | Label          | Spoon Records |
 | Catalog Number | XLSPOON6/7 |

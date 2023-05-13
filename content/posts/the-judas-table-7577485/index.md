@@ -41,9 +41,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-judas-table/1556091887" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-judas-table/1556091887" >}}<br>
+
+
 ## Videos
 ### Antimatter - Stillborn Empires [official music video]
 {{< youtube id="e06YDLbTNZA" title="Antimatter - Stillborn Empires [official music video]" >}}<br>
@@ -64,8 +69,6 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Judas_Table |
-| Wikipedia Summary | The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Limited Edition |
 | Label          | Prophecy Productions |
 | Catalog Number | PRO 184LP |

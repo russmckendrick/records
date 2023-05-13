@@ -35,9 +35,14 @@ styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 <!-- section break -->
 
 Maggot Brain is the third studio album by the American funk rock band Funkadelic, released by Westbound Records in July 1971. It was produced by band leader George Clinton and recorded at United Sound Systems in Detroit during late 1970 and early 1971. It was the final album recorded by the original Funkadelic lineup; after its release, original members Tawl Ross (guitar), Billy Nelson (bass), and Tiki Fulwood (drums) left the band for various reasons.The album charted in the R&B Top 20. Today, it is perhaps best known for its 10-minute title track, an improvisation performed by guitarist Eddie Hazel.  Pitchfork named it the 17th best album of the 1970s. In 2020, Rolling Stone ranked Maggot Brain the 136th greatest album of all time in its updated list.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/maggot-brain/1595227414" >}}
+{{< applemusic url="https://music.apple.com/gb/album/maggot-brain/1595227414" >}}<br>
+
+
 ## Videos
 ### Funkadelic - Maggot Brain [HQ]
 {{< youtube id="JOKn33-q4Ao" title="Funkadelic - Maggot Brain [HQ]" >}}<br>
@@ -53,8 +58,6 @@ Maggot Brain is the third studio album by the American funk rock band Funkadelic
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maggot_Brain |
-| Wikipedia Summary | Maggot Brain is the third studio album by the American funk rock band Funkadelic, released by Westbound Records in July 1971. It was produced by band leader George Clinton and recorded at United Sound Systems in Detroit during late 1970 and early 1971. It was the final album recorded by the original Funkadelic lineup; after its release, original members Tawl Ross (guitar), Billy Nelson (bass), and Tiki Fulwood (drums) left the band for various reasons.The album charted in the R&B Top 20. Today, it is perhaps best known for its 10-minute title track, an improvisation performed by guitarist Eddie Hazel.  Pitchfork named it the 17th best album of the 1970s. In 2020, Rolling Stone ranked Maggot Brain the 136th greatest album of all time in its updated list. |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Westbound Records |
 | Catalog Number | SEW 002 |

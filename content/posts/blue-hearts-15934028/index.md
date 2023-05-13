@@ -47,9 +47,14 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-hearts/1512263916" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-hearts/1512263916" >}}<br>
+
+
 ## Videos
 ### Heart on My Sleeve
 {{< youtube id="bkbPhYShiCg" title="Heart on My Sleeve" >}}<br>
@@ -76,8 +81,6 @@ Blue Hearts is an album by the American alternative rock musician Bob Mould, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Hearts_(album) |
-| Wikipedia Summary | Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
 | Label          | Merge Records |
 | Catalog Number | MRG730 |

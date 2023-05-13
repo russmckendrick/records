@@ -54,9 +54,13 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="5i9znXMK0Ni5hrHCdSDZY9" width="100%" height="500" >}}
+{{< spotify type="album" id="5i9znXMK0Ni5hrHCdSDZY9" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### PM Dawn - I'd Die Without You
 {{< youtube id="C_qWlPCEnGM" title="PM Dawn - I'd Die Without You" >}}<br>
@@ -75,7 +79,6 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day (Green [Weed Green], 180g) |
 | Label          | eOne |
 | Catalog Number | EOM-LP-46214 |

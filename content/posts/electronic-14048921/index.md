@@ -54,11 +54,13 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 
 <!-- section break -->
 
-Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
-The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="5AgLnccLcpqgDWFO5stqx1" width="100%" height="500" >}}
+{{< spotify type="album" id="5AgLnccLcpqgDWFO5stqx1" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Japan - Quiet Life
 {{< youtube id="xhm-EqcPta0" title="Japan - Quiet Life" >}}<br>
@@ -75,9 +77,6 @@ The album was a commercial and critical success, reaching number 2 in the United
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
-| Wikipedia Summary | Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.<br>The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | UMC |
 | Catalog Number | 5388157 |

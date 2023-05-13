@@ -50,7 +50,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -59,7 +62,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT07 |

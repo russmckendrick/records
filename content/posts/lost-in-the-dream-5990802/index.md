@@ -47,9 +47,15 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emotionally rich, guitar-driven grandeur that earned songwriter/bandleader Adam Granduciel accolades from far beyond his hometown scene in Philadelphia. The War on Drugs’ fourth full-length operates with a bigger, bolder agenda—evident in the clattering electronics and hypnotic production of the nearly nine-minute opener, “Under the Pressure”. From there, <i>Lost in the Dream</i> unfolds with warm, melancholic rock that combines Granduciel’s mystical tenor with a blurry haze of vintage synths, chiming guitars, horn accents and reverb-soaked ambience. Uptempo tracks like “Red Eyes” and “An Ocean in Between the Waves” juxtapose pulsing, mechanical backbeats with droning synths. Ballads, like the heartbreaking “Suffering” and the gently paced title track, float along in a beautiful fog. After <i>Lost in the Dream</i> closes with a couple of minutes of wordless feedback, the album leaves a hypnotic, lingering impression.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lost-in-the-dream/765568650" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lost-in-the-dream/765568650" >}}<br>
+
+
 ## Videos
 ### The War On Drugs - Red Eyes (Official Audio)
 {{< youtube id="bsoqmFL1vlU" title="The War On Drugs - Red Eyes (Official Audio)" >}}<br>
@@ -67,8 +73,6 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_in_the_Dream |
-| Wikipedia Summary | Lost in the Dream is the third studio album by American indie rock band The War on Drugs, released on March 18, 2014 through Secretly Canadian. The recording session, which took place over a two-year period, was characterized by numerous rewrites. The album's lyrical themes were influenced by the loneliness and depression Granduciel faced after he finished touring. Musically, the record was inspired by 1980s rock, as well as Americana, with influences coming from Bruce Springsteen, Spacemen 3 and Neil Young & Crazy Horse.<br>The album debuted at number 26 on the Billboard 200 and received universal acclaim from critics upon its release, appearing on and topping numerous end-of-year lists of the best albums. Five promotional radio singles were released: "Red Eyes", "Under the Pressure", "Burning", "Eyes to the Wind", and "An Ocean in Between the Waves".<br><br> |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Club Edition Limited Edition Reissue (Green) |
 | Label          | Secretly Canadian |
 | Catalog Number | SC310 |

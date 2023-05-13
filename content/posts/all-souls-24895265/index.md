@@ -43,9 +43,12 @@ styles: ["Post-Punk", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-souls/1650831654" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-souls/1650831654" >}}<br>
+
+
 ## Videos
 ### Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls
 {{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Post-Punk", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Compilation (Orange Opaque) |
 | Label          | Polydor |
 | Catalog Number | SATBLP15C |

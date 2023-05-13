@@ -50,9 +50,15 @@ The album features dark subject matter, focusing primarily on depression, pain, 
 Retrospectively, the album has continued to receive acclaim, with Rolling Stone placing the album at No. 26 on its list of the “100 Greatest Metal Albums of All Time”. Dirt was included in the 2005 book 1001 Albums You Must Hear Before You Die. It was voted "Kerrang! Critic's Choice Album of the Year". Guitar World named Dirt as the best guitar album of 1992. Loudwire named it as one of the best metal albums of the 1990s, and Rolling Stone ranked it at No. 6 on its list of "50 Greatest Grunge Albums" in 2019.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dirt-remastered/157316517" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dirt-remastered/157316517" >}}<br>
+
+
 ## Videos
 ### Alice In Chains - Rooster (Official HD Video)
 {{< youtube id="uAE6Il6OTcs" title="Alice In Chains - Rooster (Official HD Video)" >}}<br>
@@ -75,8 +81,6 @@ Retrospectively, the album has continued to receive acclaim, with Rolling Stone 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dirt_(Alice_in_Chains_album) |
-| Apple Music Summary | Alice In Chains’ <i>Dirt</i> casts an unnerving spell unlike anything else from the grunge explosion. Driven by relentlessly aggressive but rhythmically slippery riffs, “Would?” and “God Smack” give Layne Staley a chance to explore a vocal arsenal that encompasses bluesy wails, unholy screams, and guttural growls. While “Dirt” and “Hate to Feel” are some of the darkest dirges since Black Sabbath’s prime, the album peaks with “Down in a Hole” and “Rooster,” a pair of spooky, majestic ballads that alter the idea of what a slow-burning hard rock song can sound like. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Yellow Opaque, 30th Anniversary) |
 | Label          | Columbia |
 | Catalog Number | 19439986771 |

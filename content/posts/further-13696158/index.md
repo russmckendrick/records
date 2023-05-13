@@ -47,9 +47,14 @@ styles: []
 Further is the ninth studio album by English singer-songwriter Richard Hawley. It was released on 31 May 2019 by BMG Rights Management. The album is the first by Hawley not to be named after a location or landmark in his local city of Sheffield.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/further/1454553726" >}}
+{{< applemusic url="https://music.apple.com/gb/album/further/1454553726" >}}<br>
+
+
 ## Videos
 ### Richard Hawley – Off My Mind (Official Video)
 {{< youtube id="t9UuZlB8DTA" title="Richard Hawley – Off My Mind (Official Video)" >}}<br>
@@ -73,8 +78,6 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Further_(Richard_Hawley_album) |
-| Wikipedia Summary | Further is the ninth studio album by English singer-songwriter Richard Hawley. It was released on 31 May 2019 by BMG Rights Management. The album is the first by Hawley not to be named after a location or landmark in his local city of Sheffield.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | BMG |
 | Catalog Number | 538478641 |

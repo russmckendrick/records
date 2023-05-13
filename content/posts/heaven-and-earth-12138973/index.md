@@ -73,9 +73,15 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 <!-- section break -->
 
 Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the L.A.-based tenor saxophonist and his West Coast Get Down crew as bold new voices in jazz—the type who could headline classic concert halls or indie rock festivals interchangeably. On this double-length, the Kendrick Lamar collaborator stays true to the big, sweeping sound that first garnered him such wide-ranging acclaim. With broad melodic gestures, lengthy vamps and expansive sonics, including a double rhythm section and frequent use of choir and orchestra, <i>Heaven and Earth</i> documents the maturing of Washington’s resolutely Afrocentric aesthetic. “Fists of Fury”, a reimagined Bruce Lee theme, leads off the first half (<i>Earth</i>) with a pronounced activist message (“our time as victims is over… ”). The second half (<i>Heaven</i>) opens with “The Space Traveler’s Lullaby”, signalling a decisive turn toward spirituality and the cosmos.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heaven-and-earth/1363033047" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heaven-and-earth/1363033047" >}}<br>
+
+
 ## Videos
 ### Fists of Fury
 {{< youtube id="YFe5a66BuCw" title="Fists of Fury" >}}<br>
@@ -112,8 +118,6 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_and_Earth_(Kamasi_Washington_album) |
-| Wikipedia Summary | Heaven and Earth is the fourth studio album by American jazz saxophonist Kamasi Washington. It was released on June 22, 2018, through Young Turks Recordings. Both CD and LP versions of the album contain an extra disc called "The Choice" which is hidden within a closed part of the packaging which must be cut open to access the disc. The Choice was released digitally as a separate LP on June 29, 2018. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl 5× LP Album |
 | Label          | Young Turks |
 | Catalog Number | YT176LP |

@@ -37,7 +37,10 @@ styles: ["New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Split Enz - Message To My Girl (1984)
 {{< youtube id="YUC_jE78FNE" title="Split Enz - Message To My Girl (1984)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | A&M Records |
 | Catalog Number | SP-3289 |

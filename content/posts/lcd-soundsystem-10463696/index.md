@@ -38,9 +38,15 @@ styles: ["Alternative Rock", "Electro"]
 <!-- section break -->
 
 LCD Soundsystem is the debut studio album by American rock band LCD Soundsystem. It was released on January 24, 2005, jointly through DFA and Capitol Records in the United States and EMI elsewhere. The album encompasses genres that range from dance-punk to electronica to indie rock to dance music. The album was critically acclaimed upon release and was nominated for the 2006 Grammy Award for Best Electronic/Dance Album. Many singles were released to promote the album, including the band's breakout "Daft Punk Is Playing at My House", which reached number one on the UK Dance Chart in March, 2005.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lcd-soundsystem/696523434" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lcd-soundsystem/696523434" >}}<br>
+
+
 ## Videos
 ### LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)
 {{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)" >}}<br>
@@ -70,8 +76,6 @@ LCD Soundsystem is the debut studio album by American rock band LCD Soundsystem.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/LCD_Soundsystem_(album) |
-| Apple Music Summary | On LCD’s debut, James Murphy plunders the past—namely Liquid Liquid and ESG’s punk-funk—but makes those influences glitter anew. Bringing the New York underground overground, the bristling fizz of “Thrills” and “Movement” are dispatches from some dingy club full of beautiful people, but Murphy also forges his own inimitable pop sensibility from his love of his source material and his 30-something ennui. “Daft Punk Is Playing at My House” is a loving sneer, and the bubbling “Disco Infiltrator” feels like a champagne bath to clean away the city’s grime. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | DFA |
 | Catalog Number | dfaplg 2138lp |

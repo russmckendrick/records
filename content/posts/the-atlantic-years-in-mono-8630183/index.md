@@ -91,9 +91,12 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono/1114657651" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono/1114657651" >}}<br>
+
+
 
 
 ## Release Images
@@ -102,7 +105,6 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Compilation Reissue Remastered Mono (180 Gram ), Vinyl 7" 45 RPM Single Mono |
 | Label          | Atlantic |
 | Catalog Number | 0081227946401 |

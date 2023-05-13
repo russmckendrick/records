@@ -42,9 +42,12 @@ styles: ["Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pasar-de-las-luces/1608120869" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pasar-de-las-luces/1608120869" >}}<br>
+
+
 ## Videos
 ### Mint Field - Ojos En El Carro (Official Video)
 {{< youtube id="E6ENOMFlTGQ" title="Mint Field - Ojos En El Carro (Official Video)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× 12" Album (Gatefold) |
 | Label          | Innovative Leisure |
 | Catalog Number | IL2054 |

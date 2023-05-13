@@ -39,9 +39,15 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 Ghostbusters II is the soundtrack album for the film of the same name, released by MCA Records in 1989. The soundtrack includes the Billboard Hot 100 number two hit "On Our Own" performed by Bobby Brown, as well as Run-D.M.C.'s rendition of "Ghostbusters". The film score, Ghostbusters II: Original Motion Picture Score is composed by Randy Edelman. Since the release of the film in 1989, the complete film score was unreleased, until it was finally released on August 13, 2021.
 
 
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="7hb7PW4pEcddvEPyU8WORa" width="100%" height="500" >}}
+{{< spotify type="album" id="7hb7PW4pEcddvEPyU8WORa" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Bobby Brown On Our Own (Ghostbusters II Soundtrack)
 {{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own (Ghostbusters II Soundtrack)" >}}<br>
@@ -66,8 +72,6 @@ Ghostbusters II is the soundtrack album for the film of the same name, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ghostbusters_II_(soundtrack) |
-| Wikipedia Summary | Ghostbusters II is the soundtrack album for the film of the same name, released by MCA Records in 1989. The soundtrack includes the Billboard Hot 100 number two hit "On Our Own" performed by Bobby Brown, as well as Run-D.M.C.'s rendition of "Ghostbusters". The film score, Ghostbusters II: Original Motion Picture Score is composed by Randy Edelman. Since the release of the film in 1989, the complete film score was unreleased, until it was finally released on August 13, 2021.<br><br> |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | MCA Records |
 | Catalog Number | 256 434-1 |

@@ -45,7 +45,12 @@ styles: ["Alternative Rock"]
 
 Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".
 The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Zwan - Mary Star Of The Sea
 {{< youtube id="6cQ66dYE4WY" title="Zwan - Mary Star Of The Sea" >}}<br>
@@ -61,8 +66,6 @@ The album debuted at number 3 in the US, selling 90,000 copies in its first week
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mary_Star_of_the_Sea_(album) |
-| Wikipedia Summary | Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".<br>The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members. |
-| Release Year   | 2003                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Martha's Music |
 | Catalog Number | 9362-48436-1 |

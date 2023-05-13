@@ -50,9 +50,14 @@ styles: ["Alternative Rock"]
 
 Sol Invictus (Latin for Unconquered Sun) is the seventh studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album following 1997's Album of the Year, marking the longest gap between two studio albums in their career, and their first release on Reclamation Records. Sol Invictus was also the band's first album since 1992's Angel Dust to feature the same lineup as its predecessor.
 The album marked the group's fifth collaboration with longtime producer Matt Wallace, this time helping with the final mix rather than a more substantial producing role.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sol-invictus/971801283" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sol-invictus/971801283" >}}<br>
+
+
 ## Videos
 ### Sol Invictus
 {{< youtube id="5LqYlz_NXzo" title="Sol Invictus" >}}<br>
@@ -76,8 +81,6 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sol_Invictus_(album) |
-| Wikipedia Summary | Sol Invictus (Latin for Unconquered Sun) is the seventh studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album following 1997's Album of the Year, marking the longest gap between two studio albums in their career, and their first release on Reclamation Records. Sol Invictus was also the band's first album since 1992's Angel Dust to feature the same lineup as its predecessor.<br>The album marked the group's fifth collaboration with longtime producer Matt Wallace, this time helping with the final mix rather than a more substantial producing role. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition (Gold) |
 | Label          | Reclamation! Recordings |
 | Catalog Number | RRIPC002LPX |

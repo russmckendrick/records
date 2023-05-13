@@ -41,9 +41,12 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/god-fodder/290933571" >}}
+{{< applemusic url="https://music.apple.com/gb/album/god-fodder/290933571" >}}<br>
+
+
 ## Videos
 ### Neds Atomic Dustbin - Throwing Things - Live 1991
 {{< youtube id="1s2Yb3s0Zk4" title="Neds Atomic Dustbin - Throwing Things - Live 1991" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album |
 | Label          | Furtive (2) |
 | Catalog Number | 468112 1 |

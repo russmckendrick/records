@@ -49,9 +49,14 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 <!-- section break -->
 
 Above is the only studio album by the American rock band Mad Season, released on March 14, 1995, through Columbia Records. Above peaked at No. 24 on the Billboard 200 chart. The album has been certified gold by the RIAA in the United States. Layne Staley created the artwork on the album cover and inside the inlay.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/above/158602381" >}}
+{{< applemusic url="https://music.apple.com/gb/album/above/158602381" >}}<br>
+
+
 ## Videos
 ### Mad Season - River Of Deceit
 {{< youtube id="Fm72DPJCX58" title="Mad Season - River Of Deceit" >}}<br>
@@ -68,8 +73,6 @@ Above is the only studio album by the American rock band Mad Season, released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Above_(Mad_Season_album) |
-| Wikipedia Summary | Above is the only studio album by the American rock band Mad Season, released on March 14, 1995, through Columbia Records. Above peaked at No. 24 on the Billboard 200 chart. The album has been certified gold by the RIAA in the United States. Layne Staley created the artwork on the album cover and inside the inlay. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 gr) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP169 |

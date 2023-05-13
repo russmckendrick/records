@@ -48,9 +48,14 @@ Originally released by Music For Nations on 6 June 2004, it was re-released by t
 The critical reception of the album was generally positive, with comments such as:
 "A British rock-scene altering record. Enjoy it in all its infinite glory" Kerrang!
 "No other record this year will have the audacity to field such lofty ambitions, let alone have the skills to fulfil them" NME
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/four-walls-and-an-amplifier/959034630" >}}
+{{< applemusic url="https://music.apple.com/gb/album/four-walls-and-an-amplifier/959034630" >}}<br>
+
+
 ## Videos
 ### Amplifier - 01. MotorHead
 {{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}<br>
@@ -63,8 +68,6 @@ The critical reception of the album was generally positive, with comments such a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amplifier_(Amplifier_album) |
-| Wikipedia Summary | Amplifier is the debut album of the Manchester alternative rock band Amplifier.<br>Originally released by Music For Nations on 6 June 2004, it was re-released by the German-based label SPV in May 2005 after the collapse of the former. The Music For Nations release came in two formats: jewel case with 10 tracks, and digipack with 13 tracks. Unlike normal special editions, the 13-track version's bonus tracks are in the middle of the album, apparently forming the "true" album as the band intended it. The SPV release contains a bonus EP with four additional tracks (all previously released) and videos of two songs from the original.<br>The critical reception of the album was generally positive, with comments such as:<br>"A British rock-scene altering record. Enjoy it in all its infinite glory" Kerrang!<br>"No other record this year will have the audacity to field such lofty ambitions, let alone have the skills to fulfil them" NME |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP (Black/Grey Marbled), Vinyl LP (Red/Yellow Marbled), All Media Album Limited Edition Reissue Remastered |
 | Label          | Rockosmos |
 | Catalog Number | none |

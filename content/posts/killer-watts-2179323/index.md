@@ -49,7 +49,10 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Aerosmith - No Surprize
 {{< youtube id="_roTCXelnq0" title="Aerosmith - No Surprize" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1980                                   |
 | Format         | Vinyl 2× LP Album Compilation Stereo |
 | Label          | Epic |
 | Catalog Number | KW 1 |

@@ -39,9 +39,12 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-man-who-built-america-bonus-tracks-version/1618441329" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-man-who-built-america-bonus-tracks-version/1618441329" >}}<br>
+
+
 ## Videos
 ### Horslips...The Man Who Built America...Full Album
 {{< youtube id="qQ_ZVFgSbaw" title="Horslips...The Man Who Built America...Full Album" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1979                                   |
 | Format         | Vinyl LP Album |
 | Label          | DJM Records (2) |
 | Catalog Number | DJF 20546 |

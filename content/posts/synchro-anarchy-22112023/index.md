@@ -39,9 +39,14 @@ styles: ["Thrash", "Progressive Metal"]
 <!-- section break -->
 
 Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, by Canadian heavy metal band Voivod, released on February 11, 2022. Like its predecessor The Wake, this album was produced by Voivod and Francis Perron who also recorded and mixed it. The mastering was done by Maor Appelbaum and the artwork was designed by drummer Michel "Away" Langevin, who has created the cover artwork for each of the band's albums since their 1984 debut War and Pain. Synchro Anarchy also marks the first album by Voivod since 2009's Infini to have been recorded with the same lineup as the prior album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/synchro-anarchy-deluxe-edition/1596373988" >}}
+{{< applemusic url="https://music.apple.com/gb/album/synchro-anarchy-deluxe-edition/1596373988" >}}<br>
+
+
 ## Videos
 ### VOIVOD - Synchro Anarchy (2022) Full album Cd (Completo)
 {{< youtube id="hX08XkWW7HU" title="VOIVOD - Synchro Anarchy (2022) Full album Cd (Completo)" >}}<br>
@@ -58,8 +63,6 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Synchro_Anarchy |
-| Wikipedia Summary | Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, by Canadian heavy metal band Voivod, released on February 11, 2022. Like its predecessor The Wake, this album was produced by Voivod and Francis Perron who also recorded and mixed it. The mastering was done by Maor Appelbaum and the artwork was designed by drummer Michel "Away" Langevin, who has created the cover artwork for each of the band's albums since their 1984 debut War and Pain. Synchro Anarchy also marks the first album by Voivod since 2009's Infini to have been recorded with the same lineup as the prior album. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Stereo (180g) |
 | Label          | Century Media |
 | Catalog Number | 19439967881 |

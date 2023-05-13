@@ -50,9 +50,14 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 <!-- section break -->
 
 Cover Version is a compilation album released in 2014 by British musician and record producer Steven Wilson. The album compiles the 12 songs originally released as six "2 song" singles. Every release was made up of one original song and one cover song that involved new interpretations of other artist's songs in ways much different from their original versions. The only exception to this format is in "The Unquiet Grave" which is actually an old English folk song, and not an original song written by Wilson.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cover-version/883692149" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cover-version/883692149" >}}<br>
+
+
 ## Videos
 ### Steven Wilson - A Forest (The Cure cover)
 {{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest (The Cure cover)" >}}<br>
@@ -75,8 +80,6 @@ Cover Version is a compilation album released in 2014 by British musician and re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cover_Version |
-| Wikipedia Summary | Cover Version is a compilation album released in 2014 by British musician and record producer Steven Wilson. The album compiles the 12 songs originally released as six "2 song" singles. Every release was made up of one original song and one cover song that involved new interpretations of other artist's songs in ways much different from their original versions. The only exception to this format is in "The Unquiet Grave" which is actually an old English folk song, and not an original song written by Wilson. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE858 |

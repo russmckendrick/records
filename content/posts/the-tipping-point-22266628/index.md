@@ -49,9 +49,15 @@ styles: ["Pop Rock"]
 Roland Orzabal and Curt Smith have been through a lot together in their 40-plus years as collaborators. They’ve toured the world countless times in Tears for Fears, the New Wave group they founded in 1981; bounced back from a breakup in the ’90s; and released their sixth album, <i>Everybody Loves a Happy Ending</i>, as well as a smattering of singles, in the 2000s. Their 1982 breakout single “Mad World”, “Head Over Heels”, “Shout” and “Everybody Wants to Rule the World” remain timeless favourites for generations of listeners, and several chart-topping artists, from The Weeknd to Kanye West and Drake, have sampled their hits to elevate their own. With <i>The Tipping Point</i>, their seventh studio album and first LP in 18 years, they’re immensely satisfied with what they’ve written together—partly because they took their time to write their way back to each other, and largely because they did so on their own terms.
 
 “We spent a lot of time doing all these writing sessions over a bunch of years with a lot of what are considered more modern songwriters, and it didn't really work out for us because we felt it was slightly dishonest,” Smith tells Apple Music. “We were left with a lot of things that seemed like attempts at making a modern hit single, and I don't think that's what we do. We're really an album band. We made <i>The Hurting</i> before 'Mad World' was released. We made <i>Songs From the Big Chair</i> before 'Everybody' and 'Shout' were released. We sat down, just the two of us, with two acoustic guitars, and tried to forge a path forward. It felt more honest, and the material at the end of it was far better, probably because it was more honest.” “No Small Thing”, <i>The Tipping Point</i>'s first track, is a folk-tinged ballad that builds into a sweeping epic, and it's one Smith points to as an example of what they hoped to achieve when they reconnected and started writing: “This song is definitely a journey, and albums for us should be a journey.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-tipping-point/1586912660" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-tipping-point/1586912660" >}}<br>
+
+
 
 
 ## Release Images
@@ -61,8 +67,6 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Tipping_Point_(Tears_for_Fears_album) |
-| Wikipedia Summary | The Tipping Point is the seventh studio album by the English pop rock band Tears for Fears, released on 25 February 2022 through Concord Records.It is the band's first studio album since Everybody Loves a Happy Ending, released almost 18 years prior. It had been teased as early as 2013, but the project endured numerous delays and setbacks between touring; disagreements that bandleaders Roland Orzabal and Curt Smith had with their record label and management; and the death of Orzabal's wife, which influenced many of the songs on the album. The bulk of the album was completed in 2020 and 2021.<br>The album was a critical and commercial success, giving the band their sixth UK Top-5 album and highest chart peak in 30 years when it debuted at number 2 on the UK Album Chart. It also reached the Top 10 in numerous other countries including the US, Australia, France, Germany, Ireland, Switzerland, Belgium and The Netherlands. It became the band's third US top-ten album on the chart and their first release to achieve this since their 1989 album The Seeds of Love. The tracks "The Tipping Point", "No Small Thing", "Break the Man", "My Demons" and "Long, Long Time" were released as singles to promote the album.<br><br> |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (Green Grass) |
 | Label          | Concord Records |
 | Catalog Number | CRE01856 |

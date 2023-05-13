@@ -61,9 +61,15 @@ Recording took place in locations including the band's Britannia Row Studios and
 The Division Bell received mixed reviews, but reached number one in more than 10 countries, including the UK and the US. In the US, it was certified double platinum in 1994 and triple platinum in 1999. Pink Floyd promoted it with a tour of the US and Europe; the tour sold more than 5 million tickets and made around $100 million in gross income. A live album and video, Pulse, was released in 1995. Some of the unused material from the Division Bell sessions became part of Pink Floyd's next album, The Endless River (2014).
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-division-bell/704316542" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-division-bell/704316542" >}}<br>
+
+
 
 
 ## Release Images
@@ -73,8 +79,6 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Division_Bell |
-| Apple Music Summary | At the dawn of the Internet Age, personal communication became the touchstone of Pink Floyd's second post-Roger Waters album. With Rick Wright and Nick Mason fully reintegrated into the band, the songs are full of spacious, Floydian textures beneath deeply personal, introspective lyrics. David Gilmour shouts to be heard on “What Do You Want from Me”—one of Floyd’s toughest rockers. On “Keep Talking”, his pleading vocals become nearly drowned out by ominous funk beats and the synthetic voice of Stephen Hawking. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Blue) |
 | Label          | Parlophone |
 | Catalog Number | 0190295477394 |

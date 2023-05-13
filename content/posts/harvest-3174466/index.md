@@ -47,9 +47,15 @@ The album gave Young his biggest commercial success, and in “Heart of Gold”,
 You don’t need to listen to it in a rowboat, but you understand why Young might have wanted it that way: Not only is <i>Harvest</i> about the fantasy of keeping it simple, it’s about the fantasy of keeping it simple alone, or at least away from the shore. So give him space to grieve the friends he’s lost (“The Needle and the Damage Done”), and understand, at least in an artistic context, the cruelty of “A Man Needs a Maid” as the complaint of a guy who’s done the people thing and is sick of it. (The album’s 50th Anniversary package—which features a solo BBC performance from 1971 alongside a few studio outtakes, including an early version of “Bad Fog of Loneliness”—underscores the point.) 
 
 Classic as the album is, its relative delicacy and orchestral colouring make it feel like an outlier in Young’s catalogue. He famously wrote that “Heart of Gold” put him in the middle of the road, which was fine for a little while, but then got boring, so he steered into a ditch—a quip that gave rise to the unofficial titling of his mid-’70s stretch of <i>Time Fades Away</i>, <i>On the Beach</i> and <i>Tonight’s the Night</i> as the Ditch Trilogy. It’s a good line. But what makes it interesting isn’t the metaphorical contrast between road and ditch, it’s the revelation that, in Young’s mind, he was always travelling—a prophecy the 50-plus years that came after bore out.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/harvest-50th-anniversary-edition/1648841033" >}}
+{{< applemusic url="https://music.apple.com/gb/album/harvest-50th-anniversary-edition/1648841033" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,8 +65,6 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Harvest_(Neil_Young_album) |
-| Wikipedia Summary | Harvest is the fourth studio album by Canadian-American musician Neil Young, released on February 1, 1972, by Reprise Records, catalogue number MS 2032. It featured the London Symphony Orchestra on two tracks and vocals by guests David Crosby, Graham Nash, Linda Ronstadt, Stephen Stills, and James Taylor. It topped the Billboard 200 album chart for two weeks, and spawned two hit singles, "Old Man", which peaked at No. 31 on the US Billboard Hot 100, and "Heart of Gold", which reached No. 1. It was the best-selling album of 1972 in the United States.The album has since remained Neil Young's signature album as well as his best selling. In 2015, Harvest was inducted into the Grammy Hall of Fame.<br><br> |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49786-5 |

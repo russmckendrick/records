@@ -68,7 +68,10 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -77,7 +80,6 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Reissue Stereo (180g, Green), Vinyl LP Reissue Mono (180g, Orange), All Media Record Store Day Special Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC202 |

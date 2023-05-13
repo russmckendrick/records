@@ -104,7 +104,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Announcing The Album Collection Vol. 2, 1987-1996
 {{< youtube id="IXfd8YN1lJo" title="Announcing The Album Collection Vol. 2, 1987-1996" >}}<br>
@@ -124,7 +127,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 12" EP Reissue Remastered, Vinyl 12" EP Remastered (First Vinyl Pressing), Box Set Compilation Limited Edition Numbered |
 | Label          | Columbia |
 | Catalog Number | 88985460181 |

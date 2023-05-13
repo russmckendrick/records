@@ -31,7 +31,10 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### POP WILL EAT ITSELF - ANOTHER MAN'S RHUBARB (GOOD VIBES REMIX) (1991)
 {{< youtube id="dYC2etFfcMQ" title="POP WILL EAT ITSELF - ANOTHER MAN'S RHUBARB (GOOD VIBES REMIX) (1991)" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | RCA |
 | Catalog Number | PT44556 |

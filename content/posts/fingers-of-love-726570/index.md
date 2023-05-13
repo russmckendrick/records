@@ -31,7 +31,10 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Crowded House - Fingers of Love
 {{< youtube id="iLFpWo3i6VY" title="Crowded House - Fingers of Love" >}}<br>
@@ -43,7 +46,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1994                                   |
 | Format         | Vinyl 10" 45 RPM Single Numbered Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 10CL 715 |

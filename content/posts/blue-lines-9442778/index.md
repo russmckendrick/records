@@ -43,9 +43,15 @@ Blue Lines is the debut studio album by English electronic music group Massive A
 Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the Millennium" poll conducted by HMV, Channel 4, The Guardian and Classic FM. In 2000, Q readers placed it at number 9 in the magazine's poll of the "100 Greatest British Albums Ever". In 2003, the album was included on Rolling Stone's list of "The 500 Greatest Albums of All Time" and again in 2012 and 2020. Pitchfork ranked it at number 85 in its list of "The Top 100 Albums of the 1990s".A remastered version of the album was released on 19 November 2012.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +61,6 @@ Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Lines |
-| Apple Music Summary | Often considered one of the very first trip-hop albums (released before the term was coined!), <i>Blue Lines</i> is a masterpiece no matter what genre it is filed under. Elements of hip-hop, dub, funk, soul, R&B and electronic music come together in unforeseen ways. A variety of singers guest, with Shara Nelson bringing a notable imprint to the low-key "Safe From Harm," Horace Andy turning the elliptical keyboard lines of "One Love" into a formidable nightclub track, and Tricky rapping rather sedately through the title tune. The brilliance of this 45-minute excursion into a new world of sound can't be underestimated. Many of its stylistic choices became standard operating procedure for other musicians in the developing genre, but no one made such moves with more authority than Massive Attack. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 5700960 |

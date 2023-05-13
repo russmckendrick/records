@@ -38,9 +38,12 @@ styles: ["Disco", "Synth-pop", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052" >}}<br>
+
+
 ## Videos
 ### Integrity
 {{< youtube id="wOse0WM-6c4" title="Integrity" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Disco", "Synth-pop", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Arista |
 | Catalog Number | 207 202 |

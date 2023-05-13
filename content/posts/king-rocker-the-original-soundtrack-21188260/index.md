@@ -45,7 +45,10 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### King Rocker: Original Trailer
 {{< youtube id="Zy-ZeKkgXas" title="King Rocker: Original Trailer" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Fire Records |
 | Catalog Number | KROCK001LP |

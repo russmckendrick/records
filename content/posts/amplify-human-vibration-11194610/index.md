@@ -32,9 +32,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amplify-human-vibration/1293775068" >}}
+{{< applemusic url="https://music.apple.com/gb/album/amplify-human-vibration/1293775068" >}}<br>
+
+
 ## Videos
 ### Nordic Giants - Amplify Human Vibration [Full Album]
 {{< youtube id="b_D76NQA4wU" title="Nordic Giants - Amplify Human Vibration [Full Album]" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE968 |

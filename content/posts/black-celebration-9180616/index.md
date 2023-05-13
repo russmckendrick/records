@@ -43,9 +43,14 @@ Black Celebration is the fifth studio album by English electronic music band Dep
 Black Celebration reached number four on the UK Albums Chart, and has been cited as one of the most influential albums of the 1980s. To promote the album, the band embarked on the Black Celebration Tour. Three years after its release, Spin ranked it at number 15 on its "25 Greatest Albums of All Time" list.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-celebration-deluxe/1577638904" >}}
+{{< applemusic url="https://music.apple.com/gb/album/black-celebration-deluxe/1577638904" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ Black Celebration reached number four on the UK Albums Chart, and has been cited
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Celebration |
-| Wikipedia Summary | Black Celebration is the fifth studio album by English electronic music band Depeche Mode, released on 17 March 1986 by Mute Records. The album further cemented the darkening sound created by Alan Wilder, which the band later used for their subsequent albums Music for the Masses, Violator, and Songs of Faith and Devotion.<br>Black Celebration reached number four on the UK Albums Chart, and has been cited as one of the most influential albums of the 1980s. To promote the album, the band embarked on the Black Celebration Tour. Three years after its release, Spin ranked it at number 15 on its "25 Greatest Albums of All Time" list.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Remastered Reissue (Gatefold, 180 Gram) |
 | Label          | Legacy |
 | Catalog Number | STUMM26 |

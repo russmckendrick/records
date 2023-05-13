@@ -40,9 +40,15 @@ styles: ["Synth-pop"]
 Construction Time Again is the third studio album by English electronic music band Depeche Mode, released on 22 August 1983 by Mute Records. It was the band's first album to feature Alan Wilder as a member, who wrote the songs "Two Minute Warning" and "The Landscape Is Changing". The album's title comes from the second line of the first verse of the track "Pipeline". It was recorded at John Foxx's Garden Studios in London, and was supported by the Construction Time Again Tour.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/construction-time-again-deluxe/1174247799" >}}
+{{< applemusic url="https://music.apple.com/gb/album/construction-time-again-deluxe/1174247799" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +58,6 @@ Construction Time Again is the third studio album by English electronic music ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Construction_Time_Again |
-| Apple Music Summary | Depeche Mode continued their fascinating evolution on album three. Alan Wilder joined the line-up, bringing an interest in sampling that manifests itself on all the industrial clatter of “Pipeline.” Martin Gore’s writing developed a political bent and singer Dave Gahan found more gravitas. The confection is realized best on “Everything Counts”, where grinding synths and an unflagging beat give way to a chorus that cloaks its attack on corporate greed inside sugary harmonies. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Mute |
 | Catalog Number | STUMM13 |

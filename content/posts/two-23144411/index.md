@@ -37,9 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/luh-feat-pop-a-bean-remix-single/1620990649" >}}
+{{< applemusic url="https://music.apple.com/gb/album/luh-feat-pop-a-bean-remix-single/1620990649" >}}<br>
+
+
 ## Videos
 ### Dubstar  - Token (Widescreen Mix) Official Artist Video
 {{< youtube id="IaHHRY9gpcs" title="Dubstar  - Token (Widescreen Mix) Official Artist Video" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Northern Writes |
 | Catalog Number | NW009VW |

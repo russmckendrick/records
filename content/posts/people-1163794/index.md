@@ -40,9 +40,14 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 People is the debut studio album by Irish rock group Hothouse Flowers, released in May 1988.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/people/1317287289" >}}
+{{< applemusic url="https://music.apple.com/gb/album/people/1317287289" >}}<br>
+
+
 ## Videos
 ### Hothouse Flowers ‎– Don't Go
 {{< youtube id="Ym1bePL88ro" title="Hothouse Flowers ‎– Don't Go" >}}<br>
@@ -60,8 +65,6 @@ People is the debut studio album by Irish rock group Hothouse Flowers, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_(Hothouse_Flowers_album) |
-| Wikipedia Summary | People is the debut studio album by Irish rock group Hothouse Flowers, released in May 1988. |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | LON LP 58 |

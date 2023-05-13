@@ -57,9 +57,14 @@ Wah Wah consists of twenty-three tracks in total, and is often seen as the band'
 Critics were often divided in their reviews for Wah Wah, but were mostly positive. The Independent said that "a little bit of confusion is good for us all" whilst the NME called it "one of the few genuinely engaging dance albums around." Nonetheless, fans were more divided by the album, with the album's experimental bent meaning there was little to appeal to the more casual James fan. Retrospective assessment has been more positive, with Record Collector calling it a "landmark" album, whilst Allmusic noted that it was "one of the more uncommercial albums any band of its stature and its accompanying major label has had a hand in releasing." Select magazine named it the 45th best album of 1994 in their year-end critics poll. Wah Wah was remastered and re-released on clear heavyweight double vinyl in March 2015, alongside a remastered CD version in an expanded box set also containing a remastered edition of Laid.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/laid-wah-wah-super-deluxe-edition/1445903886" >}}
+{{< applemusic url="https://music.apple.com/gb/album/laid-wah-wah-super-deluxe-edition/1445903886" >}}<br>
+
+
 
 
 ## Release Images
@@ -69,8 +74,6 @@ Critics were often divided in their reviews for Wah Wah, but were mostly positiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wah_Wah_(album) |
-| Wikipedia Summary | Wah Wah is the sixth studio album by the Manchester-based English indie rock band James. After the success of their fourth album, Seven (1992), the band entered Real World Studios, Box, Wiltshire, to record their fifth album Laid in early 1993 with producer Brian Eno, with whom the group had longed to work. Prior to recording Laid, Eno observed the band's jam sessions at their Manchester rehearsal room, and considered these improvised pieces to be as important to the band's music as their eventually crafted songs. He requested to the group that whilst they were recording Laid, they would also concurrently record an album of their improvisations which Eno and, by Eno's request, second producer Markus Dravs would produce in a secondary studio in the Real World complex. Each composition started off with the band's improvisation being recorded, which Dravs would then edit, generally alone whilst James and Eno were recording Laid. Eno and Dravs would take a "promising" part of a recording and then mixed them only once. Tim Booth's desire to re-record some of his vocals caused friction in the studio.<br>Wah Wah consists of twenty-three tracks in total, and is often seen as the band's "experimental" and "jamming" companion to the "song"-centred Laid. Consequently it's their longest studio album to date with the band recording more than 300 songs for it. Ned Raggett said the album shares Laid's general focus towards an "evocative, restrained attractiveness and moody melancholy," but Wah Wah features more immediate numbers with full lyrics from Booth sung in his "fine voice", mixed with more open-ended instrumental or wordless vocal jams. The band intended to release Laid and Wah Wah at the same time, either as separate albums or as a double album, but hesitation from Fontana Records meant that Laid was released alone in October 1993 whilst Wah Wah was delayed until August 1994. In the intervening time, the only single from Wah Wah, "Jam J", was released in March 1994 as a double A-side with "Say Something" from Laid, reaching number 24 in the UK Singles Chart. When Wah Wah was eventually released, the band decided it would only be a limited edition available for one week, before only being available from mail order thereafter.<br>Critics were often divided in their reviews for Wah Wah, but were mostly positive. The Independent said that "a little bit of confusion is good for us all" whilst the NME called it "one of the few genuinely engaging dance albums around." Nonetheless, fans were more divided by the album, with the album's experimental bent meaning there was little to appeal to the more casual James fan. Retrospective assessment has been more positive, with Record Collector calling it a "landmark" album, whilst Allmusic noted that it was "one of the more uncommercial albums any band of its stature and its accompanying major label has had a hand in releasing." Select magazine named it the 45th best album of 1994 in their year-end critics poll. Wah Wah was remastered and re-released on clear heavyweight double vinyl in March 2015, alongside a remastered CD version in an expanded box set also containing a remastered edition of Laid.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Fontana |
 | Catalog Number | 0602547096432 |

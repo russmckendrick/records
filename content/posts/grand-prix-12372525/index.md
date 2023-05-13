@@ -47,9 +47,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub, released in May 1995 via Creation Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grand-prix/1417071608" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grand-prix/1417071608" >}}<br>
+
+
 ## Videos
 ### Teenage Fanclub - Sparky's Dream
 {{< youtube id="UK_CuMJJLwg" title="Teenage Fanclub - Sparky's Dream" >}}<br>
@@ -67,8 +72,6 @@ Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grand_Prix_(album) |
-| Wikipedia Summary | Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub, released in May 1995 via Creation Records. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 gram), Vinyl 7" 45 RPM Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 19075837051 |

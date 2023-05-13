@@ -82,7 +82,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### VENNART - Immortal Soldiers (Official Audio)
 {{< youtube id="tkc9A_wDh08" title="VENNART - Immortal Soldiers (Official Audio)" >}}<br>
@@ -97,7 +100,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Limited Edition, Vinyl 2× LP Album Limited Edition (Red), Vinyl 12" EP Limited Edition (White), CD Album, CD EP, DVD |
 | Label          | Medium Format |
 | Catalog Number | MF010 |

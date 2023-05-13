@@ -56,9 +56,12 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paul-weller-an-orchestrated-songbook-with-jules/1572852255" >}}
+{{< applemusic url="https://music.apple.com/gb/album/paul-weller-an-orchestrated-songbook-with-jules/1572852255" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,7 +70,6 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Polydor |
 | Catalog Number | 3845942 |

@@ -48,9 +48,12 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/last-day-of-june-original-game-soundtrack/1440875598" >}}
+{{< applemusic url="https://music.apple.com/gb/album/last-day-of-june-original-game-soundtrack/1440875598" >}}<br>
+
+
 ## Videos
 ### The Last Day Of June
 {{< youtube id="tWDMTkxppso" title="The Last Day Of June" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Deluxe Edition Limited Edition Numbered Stereo (Blue Translucent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM335 |

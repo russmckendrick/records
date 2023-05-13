@@ -40,9 +40,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cheating-the-polygraph/969274641" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cheating-the-polygraph/969274641" >}}<br>
+
+
 ## Videos
 ### Gavin Harrison Cheating The Polygraph/Mother & Child Divided
 {{< youtube id="ZwaqOBXpEDs" title="Gavin Harrison Cheating The Polygraph/Mother & Child Divided" >}}<br>
@@ -56,7 +59,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE876 |

@@ -43,7 +43,10 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD
 {{< youtube id="7kSuas6mRpk" title="Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Compilation Reissue Repress |
 | Label          | Maverick |
 | Catalog Number | 9362-48570-1 |

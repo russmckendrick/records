@@ -45,9 +45,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cant-buy-a-thrill/1652580027" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cant-buy-a-thrill/1652580027" >}}<br>
+
+
 ## Videos
 ### Do It Again
 {{< youtube id="jmdiKePVUy8" title="Do It Again" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | B0035111-01 |

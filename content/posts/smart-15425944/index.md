@@ -73,9 +73,14 @@ styles: ["Britpop"]
 <!-- section break -->
 
 Smart is the debut studio album by English Britpop band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/smart/298625555" >}}
+{{< applemusic url="https://music.apple.com/gb/album/smart/298625555" >}}<br>
+
+
 ## Videos
 ### Sleeper - Inbetweener
 {{< youtube id="6Vrk-lBoxNA" title="Sleeper - Inbetweener" >}}<br>
@@ -105,8 +110,6 @@ Smart is the debut studio album by English Britpop band Sleeper, released on 13 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Smart_(Sleeper_album) |
-| Wikipedia Summary | Smart is the debut studio album by English Britpop band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition (Clear) |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP25LPC |

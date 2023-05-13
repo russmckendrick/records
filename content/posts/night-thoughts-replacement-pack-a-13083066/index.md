@@ -36,7 +36,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Suede - What I'm Trying To Tell You
 {{< youtube id="so7PZl_1vOM" title="Suede - What I'm Trying To Tell You" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue (Translucent Blue ) |
 | Label          | Demon Records |
 | Catalog Number | SUEDEAMZREP1 |

@@ -35,9 +35,14 @@ styles: ["Psychedelic Rock"]
 <!-- section break -->
 
 Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After the split of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rosalie-cunningham/1464598387" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rosalie-cunningham/1464598387" >}}<br>
+
+
 ## Videos
 ### Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO
 {{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}<br>
@@ -52,8 +57,6 @@ Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rosalie_Cunningham |
-| Wikipedia Summary | Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After the split of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | Esoteric Antenna |
 | Catalog Number | EANTLP1075 |

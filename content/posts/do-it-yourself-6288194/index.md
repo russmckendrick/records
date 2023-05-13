@@ -34,9 +34,14 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 <!-- section break -->
 
 Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first album to be credited to Ian Dury & the Blockheads rather than Ian Dury alone, although Dury had used the full band name for the "What a Waste" 7" single of 1978. The album was released in the wake of the chart-topping hit single "Hit Me with Your Rhythm Stick", and reached number two in the charts, behind ABBA's Voulez-Vous. Do It Yourself sold around 200,000 copies, and was Dury's second Platinum album (after its predecessor New Boots and Panties!!).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/do-it-yourself/1489404416" >}}
+{{< applemusic url="https://music.apple.com/gb/album/do-it-yourself/1489404416" >}}<br>
+
+
 ## Videos
 ### Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)
 {{< youtube id="TtbzKDYotww" title="Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)" >}}<br>
@@ -63,8 +68,6 @@ Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Do_It_Yourself_(Ian_Dury_%26_the_Blockheads_album) |
-| Wikipedia Summary | Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first album to be credited to Ian Dury & the Blockheads rather than Ian Dury alone, although Dury had used the full band name for the "What a Waste" 7" single of 1978. The album was released in the wake of the chart-topping hit single "Hit Me with Your Rhythm Stick", and reached number two in the charts, behind ABBA's Voulez-Vous. Do It Yourself sold around 200,000 copies, and was Dury's second Platinum album (after its predecessor New Boots and Panties!!). |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC02 |

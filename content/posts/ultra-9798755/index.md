@@ -45,9 +45,14 @@ Ultra is the ninth studio album by English electronic music band Depeche Mode, r
 The album debuted at number one on the UK Albums Chart and at number five on the US Billboard 200. By April 2006, it had sold 584,000 copies in the United States. In 1999, Ned Raggett ranked the album at number 50 on his list of the "Top 136 or So Albums of the Nineties". That same year, the annual Ultra Music Festival in Miami was named after the album by its co-founder Russell Faibisch, and acknowledging its influence on the Polish rock scene, Tylko Rock ranked it at number 71 on its list of the "100 Albums That Shook Polish Rock".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ultra-deluxe/1174246980" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ultra-deluxe/1174246980" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +62,6 @@ The album debuted at number one on the UK Albums Chart and at number five on the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ultra_(Depeche_Mode_album) |
-| Wikipedia Summary | Ultra is the ninth studio album by English electronic music band Depeche Mode, released on 14 April 1997 by Mute Records. It was the band's first album following the departure of Alan Wilder, who had become disillusioned with life in the band. Wilder's departure and lead singer Dave Gahan's drug problems, which culminated in a near-fatal overdose, had caused speculation that Depeche Mode was finished. Ultra was the first album the band recorded as a trio since A Broken Frame (1982); it was also their first where the band members were not involved with production, with these duties being handled by Tim Simenon of Bomb the Bass fame. Though not directly supported by a full-length tour, it was promoted via a brief series of concerts promoted as Ultra Parties.<br>The album debuted at number one on the UK Albums Chart and at number five on the US Billboard 200. By April 2006, it had sold 584,000 copies in the United States. In 1999, Ned Raggett ranked the album at number 50 on his list of the "Top 136 or So Albums of the Nineties". That same year, the annual Ultra Music Festival in Miami was named after the album by its co-founder Russell Faibisch, and acknowledging its influence on the Polish rock scene, Tylko Rock ranked it at number 71 on its list of the "100 Albums That Shook Polish Rock".<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Sony Music |
 | Catalog Number | 88985336911 |

@@ -46,9 +46,15 @@ In an interview to Insound.com on 28 July 2002 she said about making the record:
 As of 2003 it has sold 169,000 copies in the United States.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/daybreaker/696518811" >}}
+{{< applemusic url="https://music.apple.com/gb/album/daybreaker/696518811" >}}<br>
+
+
 ## Videos
 ### Paris Train
 {{< youtube id="6myjARKjFLs" title="Paris Train" >}}<br>
@@ -74,8 +80,6 @@ As of 2003 it has sold 169,000 copies in the United States.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Daybreaker_(Beth_Orton_album) |
-| Apple Music Summary | <i>Daybreaker</i> finds Orton at a crossroads, marrying her debut's folktronica to the Americana of <i>Central Reservation</i>. There's also a newfound cinematic streak—the stately orchestrations of “Paris Train”—and her diverse array of collaborators speaks to Orton's amplified stature. The Smiths' Johnny Marr co-wrote the languid “Concrete Sky”, while her earliest collaborators, the Chemical Brothers, underwrite the title-track's paranoid ambience. Emmylou Harris pops up on Nashville waltz “God Song”, while Ryan Adams is a frequent presence: He lends backing vocals, and wrote the tender and lovely “This One's Gonna Bruise” for Orton to sing. |
-    | Release Year   | 2002                                   |
 | Format         | Vinyl LP Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP 37 |

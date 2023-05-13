@@ -29,9 +29,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-a-memory-feat-elohim-mansions-on-the-moon-remixes-ep/1442813569" >}}
+{{< applemusic url="https://music.apple.com/gb/album/its-a-memory-feat-elohim-mansions-on-the-moon-remixes-ep/1442813569" >}}<br>
+
+
 ## Videos
 ### Mansun -  Egg Shaped Fred (official PV)
 {{< youtube id="xX29wha0bKw" title="Mansun -  Egg Shaped Fred (official PV)" >}}<br>
@@ -43,7 +46,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 12" EP Limited Edition Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE971 |

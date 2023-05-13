@@ -39,7 +39,10 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Split Enz - One Mouth Is Fed
 {{< youtube id="K2NJXKifgqU" title="Split Enz - One Mouth Is Fed" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1984                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 52050 |

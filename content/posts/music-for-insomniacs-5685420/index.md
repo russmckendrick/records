@@ -29,9 +29,12 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-for-insomniacs/1152563129" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-for-insomniacs/1152563129" >}}<br>
+
+
 ## Videos
 ### Matt Berry - Music For Insomniacs - Part 1
 {{< youtube id="B3QA_GL9XSc" title="Matt Berry - Music For Insomniacs - Part 1" >}}<br>
@@ -45,7 +48,6 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album (Blue) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP321 |

@@ -65,9 +65,13 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="1XaJOcLe3xMQ611SMHtOja" width="100%" height="500" >}}
+{{< spotify type="album" id="1XaJOcLe3xMQ611SMHtOja" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Beck - Debra
 {{< youtube id="qL_9zWmDcjs" title="Beck - Debra" >}}<br>
@@ -102,7 +106,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | 30th Century Records |
 | Catalog Number | 88985 45369 1 |

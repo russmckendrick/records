@@ -55,9 +55,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-navigator/1181880598" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-navigator/1181880598" >}}<br>
+
+
 ## Videos
 ### Entrance
 {{< youtube id="Z0T3sCrDSls" title="Entrance" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | ATO Records |
 | Catalog Number | ATO0366 |

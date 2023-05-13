@@ -47,7 +47,10 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -56,7 +59,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (White) |
 | Label          | Fontana |
 | Catalog Number | 389 083-9 |

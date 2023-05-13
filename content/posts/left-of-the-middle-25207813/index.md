@@ -49,9 +49,15 @@ Before her out-of-nowhere smash of a debut album at age 22, Natalie Imbruglia wa
 A deep bench of co-writers ensures that continuing sense of variety: “Big Mistake” and “Wishing I Was There” intentionally echo the raw-throated angst of Alanis Morissette’s <i>Jagged Little Pill</i>, while “Leave Me Alone” incorporates Portishead-style flourishes like spine-tingling reverb and a jazzy, stuttered beat. Imbruglia fares quite well across all these scene changes, highlighting her vocal abilities best on ballads like the piano-led “Smoke” and the acoustic title track. 
 
 <i>Left of the Middle</i> earned Imbruglia three Grammy nominations and an ARIA win for Best Pop Release. Named after the location of her adopted home in Windsor, England, her 2001 follow-up, <i>White Lilies Island</i>, didn’t have a hit with the same longevity as “Torn”, but it did confirm Imbruglia as a charming, adaptable voice in radio-friendly pop rock. She has since pivoted freely between music and acting, and she won the third series of the UK’s <i>The Masked Singer</i> in 2022. But that first-ever single of hers is still her calling card, remaining one of the most-played songs on Australian radio.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/left-of-the-middle/263570526" >}}
+{{< applemusic url="https://music.apple.com/gb/album/left-of-the-middle/263570526" >}}<br>
+
+
 ## Videos
 ### Natalie Imbruglia - Torn (Official Video) [HD Remastered]
 {{< youtube id="xSZBIs0gs0E" title="Natalie Imbruglia - Torn (Official Video) [HD Remastered]" >}}<br>
@@ -87,8 +93,6 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Left_of_the_Middle |
-| Wikipedia Summary | Left of the Middle is the debut studio album by Australian singer Natalie Imbruglia, released on 24 November 1997 by RCA Records. It is primarily an alternative pop album. Spurred by the success of lead single "Torn", the album reached number one in Imbruglia's home country and top 10 in both the UK and US. The album went on to secure Imbruglia an ARIA for Best Pop Release and three Grammy nominations, Best Pop Vocal Album, Best Female Pop Vocal Performance for the single "Torn", and Best New Artist.The album sold over 7 million copies worldwide by 2002, making it the best-selling debut album by a female Australian singer. The single "Identify", which Imbruglia recorded for the soundtrack of the 1999 film Stigmata, only appears on the Taiwanese edition of the album, as well as on the compilation album, Glorious: The Singles 97–07.<br><br> |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Translucent) |
 | Label          | RCA |
 | Catalog Number | 74321544411 |

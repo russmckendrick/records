@@ -129,9 +129,15 @@ Ramones is the debut studio album by American punk rock band the Ramones, releas
 The album cover, photographed by Punk magazine's Roberta Bayley, features the four members leaning against a brick wall in New York City. The record company paid only $125 for the front photo, which has since become one of the most imitated album covers of all time. The back cover depicts an eagle belt buckle along with the album's liner notes. After its release, Ramones was promoted with two singles, which failed to chart. The Ramones also began touring to help sell records; these tour dates were mostly based in the United States, although two were booked in Britain.
 Violence, drug use, relationship issues, humor, and Nazism were prominent in the album's lyrics. The album opens with "Blitzkrieg Bop", which is among the band's most recognized songs. Most of the album's tracks are uptempo, with many songs measuring at well over 160 beats per minute. The songs are also rather short; at two-and-a-half minutes, "I Don't Wanna Go Down to the Basement" is the album's longest track. Ramones contains a cover of the Chris Montez song "Let's Dance".
 Ramones was unsuccessful commercially, peaking at number 111 on the US Billboard Top LPs & Tape chart, although it received glowing reviews from critics. Many later deemed it a highly influential record, and it has since received many accolades, such as the top spot on Spin magazine's list of the "50 Most Essential Punk Records". Ramones is considered an influential punk album in the United States and United Kingdom, and had a significant impact on other genres of rock music, such as grunge and heavy metal. The album was ranked at number 33 in Rolling Stone's 2003 list of the 500 Greatest Albums of All Time, maintaining the ranking in a 2012 revision and dropping to number 47 in the 2020 reboot of the list. It was placed first in the Rolling Stone 100 Best Debut Albums of All Time list in 2022. It was certified gold by the Recording Industry Association of America in 2014.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ramones/847972873" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ramones/847972873" >}}<br>
+
+
 ## Videos
 ### Blitzkrieg Bop
 {{< youtube id="NQDPx_k66w4" title="Blitzkrieg Bop" >}}<br>
@@ -144,8 +150,6 @@ Ramones was unsuccessful commercially, peaking at number 111 on the US Billboard
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ramones_(album) |
-| Apple Music Summary | One of the most thrilling albums ever made, the Ramones' debut defined the sound of American punk rock. Fast, loud, and subversively smart, these wise guys from Forest Hills, Queens fearlessly repurposed the cleanest '50s and '60s pop models—from girl groups to Beach Boys—for a disaffected new generation. From the shout-along choruses and needling fuzz guitars of "Blitzkrieg Bop" to the Lesley Gore-sweet "I Wanna Be Your Boyfriend," these rip-roarin’ cuts still sound as fresh as if they were recorded today. |
-    | Release Year   | 2016                                   |
 | Format         | CD Album Reissue Remastered Stereo Mono, CD, CD, Vinyl LP Album Remastered Mono, All Media Deluxe Edition Limited Edition Numbered Reissue (40th Anniversary) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 081227945176 |

@@ -50,9 +50,14 @@ styles: ["Nu Metal", "Ragga"]
 <!-- section break -->
 
 Roots Rock Riot is the second album from Welsh rock band Skindred. It was released on 23 October 2007 in the United States.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roots-rock-riot/1451028729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roots-rock-riot/1451028729" >}}<br>
+
+
 ## Videos
 ### Skindred - Killing me [Roots Rock Riot Album]
 {{< youtube id="dsaHEp1VfXE" title="Skindred - Killing me [Roots Rock Riot Album]" >}}<br>
@@ -69,8 +74,6 @@ Roots Rock Riot is the second album from Welsh rock band Skindred. It was releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roots_Rock_Riot |
-| Wikipedia Summary | Roots Rock Riot is the second album from Welsh rock band Skindred. It was released on 23 October 2007 in the United States. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Translucent Green), Vinyl 7" Single, All Media |
 | Label          | Hassle Records |
 | Catalog Number | HOFFSIDE004LP |

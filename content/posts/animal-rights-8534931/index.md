@@ -37,9 +37,14 @@ styles: ["Punk", "Alternative Rock"]
 <!-- section break -->
 
 Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/animal-rights/1193759982" >}}
+{{< applemusic url="https://music.apple.com/gb/album/animal-rights/1193759982" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,8 +54,6 @@ Animal Rights is the fourth studio album by American musician Moby, released on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Animal_Rights_(album) |
-| Wikipedia Summary | Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (180g) |
 | Label          | Mute |
 | Catalog Number | STUMM 150 |

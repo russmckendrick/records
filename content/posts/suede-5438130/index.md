@@ -44,9 +44,14 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 Suede is the debut album by English alternative rock band Suede, released in March 1993 on Nude Records. It was recorded in London at Master Rock studios late 1992 and early 1993 and was produced by Ed Buller. At the time the fastest-selling debut album in British history in almost a decade, Suede debuted at the top of the UK Albums Chart, won the 1993 Mercury Music Prize, and is often cited as one of the first Britpop records. Displaying a sound of Britishness and glam rock, its music and lyrical content has been compared to The Smiths and early David Bowie.The album was preceded by what Rolling Stone called "its triptych of instantly classic singles." The three singles, "The Drowners", "Metal Mickey" and "Animal Nitrate" helped to create a media buzz leading to significant hype for a year leading up to the album's release. It was met with generally favourable reviews both in the UK and in the US. Although it remains the group's biggest-selling album in the US, it struggled to make headway commercially compared to the success in the UK. In 2013, NME placed the album at number 78 in its list of the 500 greatest albums of all time.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}
+{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}<br>
+
+
 ## Videos
 ### Suede - Sleeping Pills (Audio Only)
 {{< youtube id="2e5N0tn1-7s" title="Suede - Sleeping Pills (Audio Only)" >}}<br>
@@ -61,8 +66,6 @@ Suede is the debut album by English alternative rock band Suede, released in Mar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Suede_(album) |
-| Wikipedia Summary | Suede is the debut album by English alternative rock band Suede, released in March 1993 on Nude Records. It was recorded in London at Master Rock studios late 1992 and early 1993 and was produced by Ed Buller. At the time the fastest-selling debut album in British history in almost a decade, Suede debuted at the top of the UK Albums Chart, won the 1993 Mercury Music Prize, and is often cited as one of the first Britpop records. Displaying a sound of Britishness and glam rock, its music and lyrical content has been compared to The Smiths and early David Bowie.The album was preceded by what Rolling Stone called "its triptych of instantly classic singles." The three singles, "The Drowners", "Metal Mickey" and "Animal Nitrate" helped to create a media buzz leading to significant hype for a year leading up to the album's release. It was met with generally favourable reviews both in the UK and in the US. Although it remains the group's biggest-selling album in the US, it struggled to make headway commercially compared to the success in the UK. In 2013, NME placed the album at number 78 in its list of the 500 greatest albums of all time. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 1 |

@@ -44,9 +44,12 @@ styles: ["Ambient", "House"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia-guillotine-mixes/1537418838" >}}
+{{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia-guillotine-mixes/1537418838" >}}<br>
+
+
 ## Videos
 ### Orb – Abolition Of The Royal Familia (Guillotine Mixes)
 {{< youtube id="RuVSXb_dTJk" title="Orb – Abolition Of The Royal Familia (Guillotine Mixes)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Ambient", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP784 |

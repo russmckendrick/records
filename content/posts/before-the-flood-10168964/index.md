@@ -56,9 +56,14 @@ styles: ["Ambient", "Dark Ambient"]
 <!-- section break -->
 
 An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> finds duo Trent Reznor and Atticus Ross (<i>The Social Network</i>) joining forces with fellow Oscar winner Gustavo Santaolalla (<i>Brokeback Mountain, Babel</i>) and Scottish post-rock outfit Mogwai (<i>Zidane: A 21st Century Portrait</i>) for a collection of soundscapes that—alternately unsettling and breathtakingly beautiful—evoke the scale and horror of global climate change. 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/before-the-flood-music-from-the-motion-picture/1162988948" >}}
+{{< applemusic url="https://music.apple.com/gb/album/before-the-flood-music-from-the-motion-picture/1162988948" >}}<br>
+
+
 ## Videos
 ### Trent Reznor & Atticus Ross - A Minute To Breathe
 {{< youtube id="wwwQ4uVGGSE" title="Trent Reznor & Atticus Ross - A Minute To Breathe" >}}<br>
@@ -77,8 +82,6 @@ An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> finds duo Trent Reznor and Atticus Ross (<i>The Social Network</i>) joining forces with fellow Oscar winner Gustavo Santaolalla (<i>Brokeback Mountain, Babel</i>) and Scottish post-rock outfit Mogwai (<i>Zidane: A 21st Century Portrait</i>) for a collection of soundscapes that—alternately unsettling and breathtakingly beautiful—evoke the scale and horror of global climate change.  |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album (180 gm) |
 | Label          | Lakeshore Records |
 | Catalog Number | LSINV178LP |

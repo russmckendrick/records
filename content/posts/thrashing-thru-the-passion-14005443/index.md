@@ -35,9 +35,14 @@ styles: []
 <!-- section break -->
 
 Thrashing Thru the Passion is the seventh studio album by American indie rock band the Hold Steady, released on August 16, 2019, on Frenchkiss Records. Produced by Josh Kaufman, the album sees the return to the line-up of keyboardist Franz Nicolay, who had left the group after 2008's Stay Positive.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/thrashing-thru-the-passion/1464237035" >}}
+{{< applemusic url="https://music.apple.com/gb/album/thrashing-thru-the-passion/1464237035" >}}<br>
+
+
 ## Videos
 ### The Hold Steady - Denver Haircut
 {{< youtube id="HA3CF9rusvE" title="The Hold Steady - Denver Haircut" >}}<br>
@@ -52,8 +57,6 @@ Thrashing Thru the Passion is the seventh studio album by American indie rock ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thrashing_Thru_the_Passion |
-| Wikipedia Summary | Thrashing Thru the Passion is the seventh studio album by American indie rock band the Hold Steady, released on August 16, 2019, on Frenchkiss Records. Produced by Josh Kaufman, the album sees the return to the line-up of keyboardist Franz Nicolay, who had left the group after 2008's Stay Positive. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Limited Edition (Brown) |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR103-1 |

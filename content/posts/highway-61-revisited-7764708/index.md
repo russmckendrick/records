@@ -40,9 +40,15 @@ Highway 61 Revisited is the sixth studio album by American singer-songwriter Bob
 Highway 61 Revisited peaked at No. 3 on the US Billboard 200 and No. 4 on the UK Albums Chart. Positively received on release, the album has since been described as one of Dylan's best works and among the greatest albums of all time, ranking No. 18 on Rolling Stone's "500 Greatest Albums of All Time". It was voted No. 26 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000) and was featured in Robert Dimery's 1001 Albums You Must Hear Before You Die (2010). "Like a Rolling Stone" was a top-10 hit in several countries, and was listed at No. 4 on Rolling Stone's 500 Greatest Songs of All Time list in 2021. Two other songs, "Desolation Row" and "Highway 61 Revisited", were listed at No. 187 and No. 373 respectively on the 2010 list.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/highway-61-revisited/201281514" >}}
+{{< applemusic url="https://music.apple.com/gb/album/highway-61-revisited/201281514" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +58,6 @@ Highway 61 Revisited peaked at No. 3 on the US Billboard 200 and No. 4 on the UK
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Highway_61_Revisited |
-| Apple Music Summary | If Dylan had dared flirted with rock conceits on the previous <i>Bringing It All Back Home</i>, here he did nothing less than tempestuously ravish them, recasting much of the era in his own willfully sketchy image in the bargain. <i>Highway 61</i> is electric in every sense of the word, a nervy jangle that spins furiously about the twin axes of a full-fledged rock studio band (anchored by Al Kooper and Michael Bloomfield) and a taunting, spectral Dylan who shed the last vestiges of his folkie past to become one of the 60's most elusive icons. Powered by the reptilian licks of Bloomfield, the title track, "From a Buick 6" and "Tombstone Blues" have more to do with garage-savvy American proto-punk than <i>Help!</i> or Rubber Soul, the Beatles' releases that frame the <i>61</i> era. There may be nods to the blues ("It Takes a Lot to Laugh..") and his recent folk past ("Desolation Row"), but the intoxicating language Dylan serves up throughout transcend anything as mundane as mere genre. Poetically opaque, brilliantly snotty, and sometimes damn near inscrutable, it remains as consistently riveting as the day it was released. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Mono (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | CL 2389 |

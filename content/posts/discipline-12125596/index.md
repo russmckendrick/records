@@ -36,9 +36,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Discipline is the eighth studio album by English progressive rock band King Crimson, released on 22 September 1981 by E.G. Records in the United Kingdom and by Warner Bros. Records in the United States.This album was King Crimson's first following a seven-year hiatus. Only band co-founder and guitarist Robert Fripp and drummer Bill Bruford remained from the previous incarnation. They were joined by two American musicians: guitarist, vocalist and lyricist Adrian Belew and bassist and backing vocalist Tony Levin. The album introduced a new sound for the band, influenced by new wave, post-punk and world music, while retaining an experimental character, helping lay the groundwork for what would eventually be known as post-progressive rock.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/discipline-expanded-edition/1090440045" >}}
+{{< applemusic url="https://music.apple.com/gb/album/discipline-expanded-edition/1090440045" >}}<br>
+
+
 ## Videos
 ### King Crimson - Discipline
 {{< youtube id="en5YRCvppIA" title="King Crimson - Discipline" >}}<br>
@@ -51,8 +56,6 @@ Discipline is the eighth studio album by English progressive rock band King Crim
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Discipline_(King_Crimson_album) |
-| Wikipedia Summary | Discipline is the eighth studio album by English progressive rock band King Crimson, released on 22 September 1981 by E.G. Records in the United Kingdom and by Warner Bros. Records in the United States.This album was King Crimson's first following a seven-year hiatus. Only band co-founder and guitarist Robert Fripp and drummer Bill Bruford remained from the previous incarnation. They were joined by two American musicians: guitarist, vocalist and lyricist Adrian Belew and bassist and backing vocalist Tony Levin. The album introduced a new sound for the band, influenced by new wave, post-punk and world music, while retaining an experimental character, helping lay the groundwork for what would eventually be known as post-progressive rock. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP8 |

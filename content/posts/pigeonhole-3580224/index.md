@@ -37,9 +37,12 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pigeonhole/201482702" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pigeonhole/201482702" >}}<br>
+
+
 ## Videos
 ### Get Better
 {{< youtube id="mjhFtxhdN00" title="Get Better" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | Play It Again Sam Records |
 | Catalog Number | BIAS 185 |

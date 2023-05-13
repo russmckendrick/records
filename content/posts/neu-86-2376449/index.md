@@ -40,9 +40,12 @@ styles: ["Krautrock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autoamerican-bonus-tracks-edition-2001-remaster/724402839" >}}
+{{< applemusic url="https://music.apple.com/gb/album/autoamerican-bonus-tracks-edition-2001-remaster/724402839" >}}<br>
+
+
 ## Videos
 ### Neu! - Neu 4 (Full Album) 1995
 {{< youtube id="vaxxWCdrftQ" title="Neu! - Neu 4 (Full Album) 1995" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Krautrock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album (Neon Yellow) |
 | Label          | Grönland Records |
 | Catalog Number | LPGRONIV |

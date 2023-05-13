@@ -41,9 +41,14 @@ styles: ["Ska", "Punk"]
 <!-- section break -->
 
 More Noise and Other Disturbances is the second studio album by the American band the Mighty Mighty Bosstones. It was released in 1992 by Taang! Records. It was a hit on college radio. "Where'd You Go" was released as a single.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/more-noise-and-other-disturbances/321176085" >}}
+{{< applemusic url="https://music.apple.com/gb/album/more-noise-and-other-disturbances/321176085" >}}<br>
+
+
 ## Videos
 ### The Mighty Mighty Bosstones   More Noise and Other Disturbances
 {{< youtube id="3r57EGlQQl8" title="The Mighty Mighty Bosstones   More Noise and Other Disturbances" >}}<br>
@@ -59,8 +64,6 @@ More Noise and Other Disturbances is the second studio album by the American ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/More_Noise_and_Other_Disturbances |
-| Wikipedia Summary | More Noise and Other Disturbances is the second studio album by the American band the Mighty Mighty Bosstones. It was released in 1992 by Taang! Records. It was a hit on college radio. "Where'd You Go" was released as a single. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Repress (Red) |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! 60 |

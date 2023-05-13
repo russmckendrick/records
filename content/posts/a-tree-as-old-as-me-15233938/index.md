@@ -28,9 +28,13 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="0hZZ417pOuUFd45IHNlk2t" width="100%" height="500" >}}
+{{< spotify type="album" id="0hZZ417pOuUFd45IHNlk2t" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -39,7 +43,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 10" 45 RPM EP Limited Edition Reissue |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |

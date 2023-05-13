@@ -45,9 +45,12 @@ styles: ["Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-life-of-surprises-the-best-of-prefab-sprout-remastered/1476850752" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-life-of-surprises-the-best-of-prefab-sprout-remastered/1476850752" >}}<br>
+
+
 ## Videos
 ### Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)
 {{< youtube id="FKZY_r0hKqg" title="Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gram) |
 | Label          | Kitchenware Records |
 | Catalog Number | 19075944651 |

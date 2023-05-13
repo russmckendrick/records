@@ -34,9 +34,12 @@ styles: ["Reggae", "Dub"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dubber-side-of-the-moon-bonus-track-version/393668042" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dubber-side-of-the-moon-bonus-track-version/393668042" >}}<br>
+
+
 ## Videos
 ### EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER
 {{< youtube id="waLrqTiltmQ" title="EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Reggae", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album (Light Blue) |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1023V |

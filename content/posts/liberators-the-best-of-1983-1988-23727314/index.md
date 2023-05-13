@@ -42,7 +42,10 @@ styles: ["Alternative Rock", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Alternative Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Compilation Stereo (Red Vinyl) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1015 5014797907355 |

@@ -71,9 +71,15 @@ For their 13th album, Swedish metal titans Opeth did something they’d never do
 “I’m really happy with this song because it’s so different; there are weird chords I never usually use, like major chords. I'm careful with major chords. I don't think I've written anything like it before. The ending really came out nicely too.”<br />
 <b>All Things Will Pass</b>
 “Out of all the songs, we decided early that it was going to be the last one. I wanted something really heartfelt and epic, with a magical touch. Honestly, I'm not always a fan of my own music. I like it, but it’s a different thing to me. The songs are not going to open up to me like they hopefully will for other people. But I knew what I wanted with this song, and to me, it’s almost perfect. You never know if you're going to do more records. If this is the last record for us—not that I’m saying it is—then this is a nice way to end it.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-cauda-venenum/1470602656" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-cauda-venenum/1470602656" >}}<br>
+
+
 ## Videos
 ### Opeth - In Cauda Venenum (Full Album)
 {{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum (Full Album)" >}}<br>
@@ -92,8 +98,6 @@ For their 13th album, Swedish metal titans Opeth did something they’d never do
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Cauda_Venenum |
-| Wikipedia Summary | In Cauda Venenum (Latin for "Poison in the tail") is the thirteenth studio album by Swedish progressive metal band Opeth, released on 27 September 2019 through Moderbolaget and Nuclear Blast. It was released in two versions: a Swedish-language version and an English-language version. The band toured in support of the album throughout 2019 and into 2020. At 67 minutes and 57 seconds, it is the band's longest studio album.  It is also the band's last album to feature drummer Martin Axenrot before his departure in 2021. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Picture Disc |
 | Label          | Nuclear Blast |
 | Catalog Number | NB 4557-3 |

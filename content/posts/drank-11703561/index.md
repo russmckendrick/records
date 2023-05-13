@@ -50,9 +50,14 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 <!-- section break -->
 
 “I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}
+{{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}<br>
+
+
 ## Videos
 ### Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)
 {{< youtube id="rKlHRIfV4BE" title="Thundercat, OG Ron C & The Chopstars - 'Drink Dat (feat. Wiz Khalifa)' (Chopnotslop Remix)" >}}<br>
@@ -69,8 +74,6 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | “I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Mixtape (Purple) |
 | Label          | Brainfeeder |
 | Catalog Number | BF067 |

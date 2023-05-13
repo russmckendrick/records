@@ -70,7 +70,10 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -79,7 +82,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Stereo, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Album Reissue Stereo, Box Set Compilation Deluxe Edition Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX60 |

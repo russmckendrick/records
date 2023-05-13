@@ -64,9 +64,15 @@ Obviously, like anyone else releasing music in the spring of 2020, The Dears wro
 “You could easily put this song on our first album [2000’s <i>End of a Hollywood Bedtime Story</i>], and I think that was almost intentional—it’s us conveying that we haven’t lost touch with our true selves, that despite all the evolution that we've gone through in the last two decades, we could crank out a song that would still easily fit, sonically and conceptually, on our first record. I even busted out some of the guitars that I used on that first record—not the exact guitars, but the same models. When we made our first record, I borrowed this Hagstrom guitar from 1971, and you can hear that tone throughout <i>Lovers Rock</i>, but on this song, it's really prominent. It reminds me of 'This Is a Broadcast'. I was feeling nostalgic.”<br />
 <b>We’ll Go Into Hiding</b>
 “This is the point where you're deciding to make that escape and cut yourself off from everything, and just focus on what's important. In this world, you get very distracted. We struggle to say focused: We're constantly scrolling through these screens and there's constant distractions, and we have crazy people running the free world and the news cycle is just an onslaught of panic and fear. It's super easy to lose your focus on the important things. And it's interesting that in these unprecedented times, you would hope it would draw people towards that focus. When we're promoting our music, we're not just promoting our music because we want people to buy our records; we're promoting that idea.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lovers-rock/1499171415" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lovers-rock/1499171415" >}}<br>
+
+
 ## Videos
 ### The Dears - Instant Nightmare!
 {{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare!" >}}<br>
@@ -82,8 +88,6 @@ Obviously, like anyone else releasing music in the spring of 2020, The Dears wro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lovers_Rock_(The_Dears_album) |
-| Wikipedia Summary | Lovers Rock is the eighth studio album by Canadian indie rock band The Dears. It was released on May 15, 2020 under Dangerbird Records.The first single from the album, "The Worst in Us", was released on March 13, 2020. The second single "I Know What You're Thinking And It's Awful" was released on May 1, 2020.<br><br> |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo (Silver Metallic) |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB211-1 |

@@ -43,9 +43,14 @@ styles: []
 <!-- section break -->
 
 The Sophtware Slump is the second studio album by American indie rock band Grandaddy. It was released in May 2000 by record label V2. It is seen by some as a concept album about problems concerning modern technology in society. The album was released to critical acclaim.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump/1440937568" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump/1440937568" >}}<br>
+
+
 ## Videos
 ### Grandaddy - He's Simple, He's Dumb, He's the Pilot
 {{< youtube id="IURAKQV7q_o" title="Grandaddy - He's Simple, He's Dumb, He's the Pilot" >}}<br>
@@ -65,8 +70,6 @@ The Sophtware Slump is the second studio album by American indie rock band Grand
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Sophtware_Slump |
-| Wikipedia Summary | The Sophtware Slump is the second studio album by American indie rock band Grandaddy. It was released in May 2000 by record label V2. It is seen by some as a concept album about problems concerning modern technology in society. The album was released to critical acclaim. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | The Control Group |
 | Catalog Number | CGO073 |

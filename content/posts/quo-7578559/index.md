@@ -36,9 +36,14 @@ styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 
 This is the discography of the British rock band Status Quo. They have released around 100 singles and have spent over 400 weeks in the UK Singles Chart. They have spent over 500 weeks in the UK Albums Chart and are one of the most successful bands of all time in the UK. Their most recent album, Backbone, was released in 2019.
 For a full list of the band's songs, see List of songs by Status Quo.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/quo/1442993053" >}}
+{{< applemusic url="https://music.apple.com/gb/album/quo/1442993053" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,8 +53,6 @@ For a full list of the band's songs, see List of songs by Status Quo.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Status_Quo_discography |
-| Wikipedia Summary | This is the discography of the British rock band Status Quo. They have released around 100 singles and have spent over 400 weeks in the UK Singles Chart. They have spent over 500 weeks in the UK Albums Chart and are one of the most successful bands of all time in the UK. Their most recent album, Backbone, was released in 2019.<br>For a full list of the band's songs, see List of songs by Status Quo. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723764 |

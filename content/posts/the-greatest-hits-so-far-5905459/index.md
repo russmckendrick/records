@@ -37,9 +37,12 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-greatest-hits-so-far-remastered/714765153" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-greatest-hits-so-far-remastered/714765153" >}}<br>
+
+
 ## Videos
 ### PIL Greatest Hits
 {{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}<br>
@@ -70,7 +73,6 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Label          | Virgin |
 | Catalog Number | 535109-2 |

@@ -41,9 +41,12 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/archive/335949366" >}}
+{{< applemusic url="https://music.apple.com/gb/album/archive/335949366" >}}<br>
+
+
 ## Videos
 ### Cardiacs - T.V.T.V.
 {{< youtube id="YU3fP7Efy28" title="Cardiacs - T.V.T.V." >}}<br>
@@ -60,7 +63,6 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 000 |

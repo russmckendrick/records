@@ -41,9 +41,14 @@ styles: ["Downtempo", "Modern Classical"]
 <!-- section break -->
 
 Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kubrick/1048598267" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kubrick/1048598267" >}}<br>
+
+
 ## Videos
 ### Soulsavers - DeLarge (album Kubrick)
 {{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>
@@ -58,8 +63,6 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kubrick_(album) |
-| Wikipedia Summary | Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | [PIAS] |
 | Catalog Number | COOP006LP |

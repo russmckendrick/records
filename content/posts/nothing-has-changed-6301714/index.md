@@ -59,9 +59,15 @@ Nothing Has Changed (stylised as Nothing has changed.) is a compilation album by
 It is the first album to showcase Bowie's entire career up to that point, from his first single "Liza Jane" in 1964 to "Sue (Or in a Season of Crime)", a new composition recorded specifically for the compilation. The different formats of the album all offer different tracks and mixes compared to the others. The three-disc version includes the most, such as songs from Bowie's unreleased 2001 album Toy. The collection also contains numerous discrepancies in its track listings. Its title comes from a lyric in the song "Sunday" from Bowie's 2002 album Heathen. Each of the different formats feature different cover artworks, all designed by Jonathan Barnbrook and all depicting Bowie examining himself in a mirror.
 Upon its release, the album debuted at number nine in the UK, becoming Bowie's 29th top 10 album. Following Bowie's death in 2016, it went on to peak at number five in the UK and charted in other countries. It has been certified Gold by the British Phonographic Industry (BPI) in the UK. The three-disc version of Nothing Has Changed received critical acclaim, with many praising its reverse sequencing as offering a different way to enjoy the artist's career. However, it attracted criticism for its exclusion of Bowie's Tin Machine period, as well as its under-representation of the Berlin Trilogy (1977–1979). Nevertheless, it is considered one of Bowie's best compilation albums.
 A revised version of the two-disc Nothing Has Changed, re-titled Bowie Legacy, was released on 11 November 2016 and includes selections from his final album Blackstar (2016).
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nothing-has-changed-the-best-of-david-bowie-deluxe-edition/926949929" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nothing-has-changed-the-best-of-david-bowie-deluxe-edition/926949929" >}}<br>
+
+
 
 
 ## Release Images
@@ -71,8 +77,6 @@ A revised version of the two-disc Nothing Has Changed, re-titled Bowie Legacy, w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nothing_Has_Changed |
-| Apple Music Summary | <i>Nothing Has Changed</i> is the first David Bowie compilation to bridge “Changes,” “Ziggy Stardust,” and other forever-potent glam anthems of his early years to his most current recordings. He pushed the parameters of pop music with the postmodern sonics of “Sound and Vision” and the dubbed-out funk of “Let’s Dance,” but the secret treasure is tucked at the end. The writhing jazz rhythms and wounded crooning of 2014’s “Sue (Or in a Season of Crime)” show that he never stopped searching for new inventions. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Parlophone |
 | Catalog Number | 825646205639 |

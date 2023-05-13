@@ -37,7 +37,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### VENNART - Immortal Soldiers (Official Audio)
 {{< youtube id="tkc9A_wDh08" title="VENNART - Immortal Soldiers (Official Audio)" >}}<br>
@@ -52,7 +55,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP 45 RPM Album |
 | Label          | Medium Format |
 | Catalog Number | MF010V |

@@ -41,9 +41,14 @@ styles: ["Pop Rock", "Ballad"]
 <!-- section break -->
 
 Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heaven-on-earth/684787804" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heaven-on-earth/684787804" >}}<br>
+
+
 ## Videos
 ### Belinda Carlisle - Heaven Is A Place On Earth (Official Video)
 {{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth (Official Video)" >}}<br>
@@ -71,8 +76,6 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_on_Earth_(Belinda_Carlisle_album) |
-| Wikipedia Summary | Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue (Blue Translucent) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC306 |

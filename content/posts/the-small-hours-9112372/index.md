@@ -41,9 +41,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-small-hours/1128004597" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-small-hours/1128004597" >}}<br>
+
+
 ## Videos
 ### Matt Berry - Obsessed and So Obscure
 {{< youtube id="D6eKamGyuMQ" title="Matt Berry - Obsessed and So Obscure" >}}<br>
@@ -59,7 +62,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition (Green, 180g) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP404 |

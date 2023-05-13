@@ -56,9 +56,14 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/begin-to-hope-bonus-track-version/157820746" >}}
+{{< applemusic url="https://music.apple.com/gb/album/begin-to-hope-bonus-track-version/157820746" >}}<br>
+
+
 ## Videos
 ### Regina Spektor - On The Radio [Official Music Video]
 {{< youtube id="tHAhnJbGy9M" title="Regina Spektor - On The Radio [Official Music Video]" >}}<br>
@@ -77,8 +82,6 @@ Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Begin_to_Hope |
-| Wikipedia Summary | Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition (10th Anniversary Edition, Gatefold) |
 | Label          | Sire |
 | Catalog Number | 553891-1 |

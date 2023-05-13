@@ -32,9 +32,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}
+{{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}<br>
+
+
 ## Videos
 ### Slowdive
 {{< youtube id="hs9kJZ1uJ-Q" title="Slowdive" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Numbered Reissue (Green [Translucent Green] With Black Marble ) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12009 |

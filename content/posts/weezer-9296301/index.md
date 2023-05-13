@@ -40,9 +40,12 @@ styles: ["Power Pop", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}
+{{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}<br>
+
+
 ## Videos
 ### Weezer - Buddy Holly (Official Music Video)
 {{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly (Official Music Video)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Power Pop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |
 | Catalog Number | 00602547945396 |

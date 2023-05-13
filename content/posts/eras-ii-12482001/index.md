@@ -87,7 +87,10 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)
 {{< youtube id="q_r6a-qmYkY" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)" >}}<br>
@@ -99,7 +102,6 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl 2× LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Orange), Vinyl 2× LP Album Reissue Remastered (Orange), Vinyl LP (Orange), Vinyl LP Single Sided Etched (Orange), All Media Album Reissue Remastered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 510 |

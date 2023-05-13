@@ -46,9 +46,15 @@ Like Drums and Wires, Black Sea was recorded at Virgin's Town House studio in Lo
 Black Sea was critically acclaimed and remains XTC's second-highest charting British album, placing at number 16 on the UK Albums Chart, as well as their most successful US album, peaking at number 41 on the Billboard 200. It spawned three UK top 40 singles: "Generals and Majors" (number 32), "Towers of London" (number 31), and "Sgt. Rock (Is Going to Help Me)" (number 16). Another single, "Respectable Street", was banned from BBC radio due to its references to abortion and a "Sony Entertainment Centre".
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-sea-bonus-track-version/724626591" >}}
+{{< applemusic url="https://music.apple.com/gb/album/black-sea-bonus-track-version/724626591" >}}<br>
+
+
 ## Videos
 ### XTC - Generals and Majors - Black Sea [1980]
 {{< youtube id="uCuZ11IW1CY" title="XTC - Generals and Majors - Black Sea [1980]" >}}<br>
@@ -70,8 +76,6 @@ Black Sea was critically acclaimed and remains XTC's second-highest charting Bri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Sea_(XTC_album) |
-| Apple Music Summary | A minimalist quartet with expansive productions, a modernist dance band, circa 1980, with undanceable rhythms and its heart in ‘60s pop, and whose songs — with unflagging intelligence — question everyone and distrust signs of intellect, XTC serve as a study in contrast. Its leader Andy Partridge is the virtual definition of the standoffish, British observer, preferring socio-political metaphor over matters of the heart  — and always singing on the defensive, as if he’s the kid at the bottom of the pile-up being beaten senseless. <i>Black Sea</i> is the group’s fourth album and continues along the sonic improvements — drums and guitars charge at you — and compositional maturity that took root with their previous <i>Drums and Wires</i>. “Respectable Street,” “Generals and Majors” and “Towers of London” are the closest this group of misanthropes is likely to come to accessible, mainstream pop. “Living Through Another Cuba” and “Love at First Sight” virtually define the group’s obstinate approach, spelling out their internal paranoia with jagged rhythms, carefully placed and seductively catchy backing vocals, and a parade of sounds that suggest the circus is in town. Plenty of fun to go around — if you prefer brain teasers. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200g) |
 | Label          | Ape House |
 | Catalog Number | APELP104 |

@@ -37,7 +37,10 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### S U R V I V E - Deserted Skies MNQ 026
 {{< youtube id="G4onbTp1jio" title="S U R V I V E - Deserted Skies MNQ 026" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear & Black) |
 | Label          | HoloDeck |
 | Catalog Number | HD015LP |

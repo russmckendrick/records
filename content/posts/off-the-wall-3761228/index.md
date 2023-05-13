@@ -43,9 +43,15 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 
 "Off the Wall" is a song by American singer Michael Jackson, from his fifth album of the same name (1979). It was written by English songwriter Rod Temperton and produced by Quincy Jones, and released by Epic Records as the album's third single on November 17, 1979 in the UK and on February 2, 1980 in the U.S. The song was first offered to Karen Carpenter, while she was working on her first solo album, but she turned it down. Lyrically, the song is about getting over troubles.
 The song was well received by music critics, and became Jackson's third top 10 single from Off the Wall, which eventually spawned four top 10 singles; Jackson was the first person to accomplish this. It was performed by Jackson in five of his concert tours.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/off-the-wall/186166282" >}}
+{{< applemusic url="https://music.apple.com/gb/album/off-the-wall/186166282" >}}<br>
+
+
 ## Videos
 ### Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)
 {{< youtube id="yURRmWtbTbo" title="Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)" >}}<br>
@@ -71,8 +77,6 @@ The song was well received by music critics, and became Jackson's third top 10 s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Off_the_Wall_(Michael_Jackson_song) |
-| Apple Music Summary | No longer a precocious child star but not yet the King of Pop, Michael Jackson hooked up with producer Quincy Jones for this 1979 solo breakthrough—a disco-era masterpiece propelled by gleaming melodies, compulsive grooves, and some of Jackson’s most spectacular performances. While it contains a handful of his signature, heart-tugging ballads, <i>Off the Wall</i> is also incredibly funky: From the sinuous sway of “Rock with You” to the glittering rush of “Don’t Stop ’Til You Get Enough,” these tracks will never cease to fill dance floors. |
-    | Release Year   | 1986                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 450086 1 |

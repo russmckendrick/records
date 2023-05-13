@@ -45,9 +45,14 @@ styles: ["Prog Rock", "Folk Rock"]
 
 Thick as a Brick is the fifth studio album by the British rock band Jethro Tull, released on 3 March 1972. The album contains a continuous piece of music, split over two sides of an LP record, and is intended as a parody of the concept album genre. The original packaging, designed as a 12-page newspaper, claims the album to be a musical adaptation of an epic poem by fictional eight-year-old genius Gerald Bostock, though the lyrics were actually written by the band's frontman, Ian Anderson.
 The album was recorded in late 1971, featuring music composed by Anderson and arranged with the contribution of all band members. The album was the band's first to include drummer Barrie "Barriemore" Barlow, replacing the band's previous drummer Clive Bunker. The live show promoting the album included the playing of the full suite, with various comic interludes. Thick as a Brick is considered by critics to be the first Jethro Tull release to entirely consist of progressive rock music. It received mixed reviews upon its release, but was a commercial success and topped various charts in 1972. Today it is regarded as a classic of progressive rock, and has received several accolades. Anderson produced a follow-up to the album in 2012, focusing on the adult life of the fictional Gerald Bostock.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/thick-as-a-brick-2012-steven-wilson-stereo-remix/1006839794" >}}
+{{< applemusic url="https://music.apple.com/gb/album/thick-as-a-brick-2012-steven-wilson-stereo-remix/1006839794" >}}<br>
+
+
 ## Videos
 ### JETHRO TULL - THICK AS A BRICK  (Pt.1&2) - FULL ALBUM [HD]
 {{< youtube id="X15PsqN0DHc" title="JETHRO TULL - THICK AS A BRICK  (Pt.1&2) - FULL ALBUM [HD]" >}}<br>
@@ -60,8 +65,6 @@ The album was recorded in late 1971, featuring music composed by Anderson and ar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thick_as_a_Brick |
-| Wikipedia Summary | Thick as a Brick is the fifth studio album by the British rock band Jethro Tull, released on 3 March 1972. The album contains a continuous piece of music, split over two sides of an LP record, and is intended as a parody of the concept album genre. The original packaging, designed as a 12-page newspaper, claims the album to be a musical adaptation of an epic poem by fictional eight-year-old genius Gerald Bostock, though the lyrics were actually written by the band's frontman, Ian Anderson.<br>The album was recorded in late 1971, featuring music composed by Anderson and arranged with the contribution of all band members. The album was the band's first to include drummer Barrie "Barriemore" Barlow, replacing the band's previous drummer Clive Bunker. The live show promoting the album included the playing of the full suite, with various comic interludes. Thick as a Brick is considered by critics to be the first Jethro Tull release to entirely consist of progressive rock music. It received mixed reviews upon its release, but was a commercial success and topped various charts in 1972. Today it is regarded as a classic of progressive rock, and has received several accolades. Anderson produced a follow-up to the album in 2012, focusing on the adult life of the fictional Gerald Bostock. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Chrysalis |
 | Catalog Number | 0825646139507 |

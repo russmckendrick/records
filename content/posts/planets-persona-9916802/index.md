@@ -31,7 +31,10 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Richard Barbieri - Planets + Persona (album montage)
 {{< youtube id="wx5bKmBCVYg" title="Richard Barbieri - Planets + Persona (album montage)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP 45 RPM Album (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE942 |

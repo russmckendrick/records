@@ -42,9 +42,14 @@ styles: ["Alternative Rock"]
 
 Ever since 1998’s career-turning <i>Deserter’s Songs</i>, Mercury Rev have regularly applied their cosmic tendencies and broad imaginations to recasting Americana. Here, they focus on a lost gem of country-rock: The 1968 follow-up to her chart-topping US debut, <i>Ode to Billie Joe</i>, Bobbie Gentry’s <i>The Delta Sweete</i> was a relative misfire in commercial terms. Thirteen years and a handful of albums later, the singer-songwriter vanished into a reclusive existence, adding new mystique to the music she left behind.<br />
 Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered original songs and covers about Mississippi life that reupholster country with Baroque flourishes and twists of soul and blues. Longtime fans Mercury Rev stay true to that experimentation, recruiting a cast of guest vocalists including Lucinda Williams, Hope Sandoval, and Phoebe Bridgers to help bring new ideas and atmospheres to the songs. Opener “Okolona River Bottom Band” sets the tone, transformed from swamp-side R&B into orchestral pop simmering with strings, tension, and Norah Jones’ yearning voice. “Reunion” undergoes the most radical reboot, a scratchy and antsy portrait of family life reshaped into grand space-rock hooked round the original’s slither of tragedy (“I heard this morning they drug the Tallahatchie/And found poor Billie gone”). It exemplifies a tribute that cherishes the invention and storytelling of Gentry’s songs but never insults her pioneering spirit with simple retreads.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741" >}}<br>
+
+
 ## Videos
 ### Mercury Rev x Norah Jones - Okolona River Bottom Band
 {{< youtube id="eTOI4qhp3o0" title="Mercury Rev x Norah Jones - Okolona River Bottom Band" >}}<br>
@@ -68,8 +73,6 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Ever since 1998’s career-turning <i>Deserter’s Songs</i>, Mercury Rev have regularly applied their cosmic tendencies and broad imaginations to recasting Americana. Here, they focus on a lost gem of country-rock: The 1968 follow-up to her chart-topping US debut, <i>Ode to Billie Joe</i>, Bobbie Gentry’s <i>The Delta Sweete</i> was a relative misfire in commercial terms. Thirteen years and a handful of albums later, the singer-songwriter vanished into a reclusive existence, adding new mystique to the music she left behind.<br /><br>Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered original songs and covers about Mississippi life that reupholster country with Baroque flourishes and twists of soul and blues. Longtime fans Mercury Rev stay true to that experimentation, recruiting a cast of guest vocalists including Lucinda Williams, Hope Sandoval, and Phoebe Bridgers to help bring new ideas and atmospheres to the songs. Opener “Okolona River Bottom Band” sets the tone, transformed from swamp-side R&B into orchestral pop simmering with strings, tension, and Norah Jones’ yearning voice. “Reunion” undergoes the most radical reboot, a scratchy and antsy portrait of family life reshaped into grand space-rock hooked round the original’s slither of tragedy (“I heard this morning they drug the Tallahatchie/And found poor Billie gone”). It exemplifies a tribute that cherishes the invention and storytelling of Gentry’s songs but never insults her pioneering spirit with simple retreads. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Limited Edition (180g) |
 | Label          | Bella Union |
 | Catalog Number | BELLA852V |

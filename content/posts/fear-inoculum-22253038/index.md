@@ -78,9 +78,15 @@ We could keep agonising over why TOOL took so long to release <i>Fear Inoculum</
 Whether or not this album is the “grand finale… swan song and epilogue” that Maynard James Keenan alludes to in “Descending”, the first thing to say is that <i>Fear Inoculum</i> will not disappoint. On their longest-ever album (despite only containing seven songs, broken up by three brief ambient interludes), TOOL refine and expand on their greatest strengths to create a meditative, intensely complex album that may, in terms of sheer musical skill, be their most impressive yet.<br />
 Danny Carey’s extraordinarily creative and technical approach to rhythm takes centre stage, from assaultive double pedalling to atmospheric tablas and electronic tinkering, heard best on “Chocolate Chip Trip”, a five-minute, multidimensional percussion solo. Guitarist Adam Jones unleashes more jams and solos than ever, particularly on the 15-minute opus “7empest”, which begins by sounding like the most traditionally TOOL song of the lot—but it sure doesn’t end that way. (Plus, Jones apparently wrote part of it in 21/16 time.) Justin Chancellor’s bass riffs are hypnotising and powerful, unique in their ability to be both repetitive, even monotonous, and completely engulfing. Keenan’s lyrics—layered, poetic, often elegiac—are as fun to analyse and interpret as ever. And though the album is easily their most drawn-out and ambient, it’s also immensely heavy. The balance is calculated and sublime.<br />
 So, what’s <i>Fear Inoculum</i> actually about? Keenan deliberately evades explanation, allowing the listener to find their own meaning. But in the most lyrically lucid moments, you’ll find reflections on life, growing up and facing your fear (he’s stated it could mean giving in to <i>or</i> becoming immune to it). There’s no pretending that 13 years haven’t passed—on “Invincible”, he sings: “Age old battle, mine/Weapon out and belly in/Tales told, battles won… Once invincible, now the armour’s wearing thin.” Still, there’s no sign of weakness, just acceptance and the kind of wisdom that comes with age. “We’re not buying your dubious state of serenity,” he knowingly roars on “7empest”. “Acting all surprised when you’re caught in the lie/It’s not unlike you… We know your nature.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fear-inoculum/1475686696" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fear-inoculum/1475686696" >}}<br>
+
+
 ## Videos
 ### TOOL - Fear Inoculum (Audio)
 {{< youtube id="q7DfQMPmJRI" title="TOOL - Fear Inoculum (Audio)" >}}<br>
@@ -100,8 +106,6 @@ So, what’s <i>Fear Inoculum</i> actually about? Keenan deliberately evades exp
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fear_Inoculum |
-| Wikipedia Summary | Fear Inoculum is the fifth studio album by American rock band Tool. It was released on August 30, 2019, through Tool Dissectional, Volcano Entertainment, and RCA Records. It is the band's first album in 13 years, due to creative, personal, and legal issues band members encountered since the release of 10,000 Days. It was released to critical acclaim, with reviewers generally agreeing that the band had successfully refined their established sound. The album topped the US Billboard 200 chart, their third in a row to do so, selling over 270,000 album-equivalent units. The album topped five other national album charts in its opening week as well. Two songs off the album received Grammy nominations, the first single "Fear Inoculum", for the Grammy Award for Best Rock Song, and "7empest", for the Grammy Award for Best Metal Performance, with the latter winning the award. The title track also holds the Guinness World Record for longest song ever to chart on the Billboard Hot 100.<br><br> |
-    | Release Year   | 2022                                   |
 | Format         | Box Set Album Deluxe Edition Limited Edition Reissue, Vinyl 5× LP Single Sided Etched (180g) |
 | Label          | Tool Dissectional |
 | Catalog Number | 19439-86879-1 |

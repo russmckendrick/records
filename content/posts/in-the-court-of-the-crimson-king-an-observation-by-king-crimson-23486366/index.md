@@ -35,7 +35,10 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### King Crimson - 21st Century Schizoid Man (Including Mirrors)
 {{< youtube id="7OvW8Z7kiws" title="King Crimson - 21st Century Schizoid Man (Including Mirrors)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Clear) |
 | Label          | Panegyric |
 | Catalog Number | KCLP1 |

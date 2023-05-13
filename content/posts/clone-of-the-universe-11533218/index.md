@@ -36,9 +36,14 @@ styles: ["Stoner Rock"]
 <!-- section break -->
 
 It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes, and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship," time-traveling astral rock of "Clone of the Universe," and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/clone-of-the-universe/1325141667" >}}
+{{< applemusic url="https://music.apple.com/gb/album/clone-of-the-universe/1325141667" >}}<br>
+
+
 ## Videos
 ### Fu Manchu - Don't Panic
 {{< youtube id="AOSkGeSOOz0" title="Fu Manchu - Don't Panic" >}}<br>
@@ -53,8 +58,6 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes, and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship," time-traveling astral rock of "Clone of the Universe," and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Black / Blue Swirl) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD014 |

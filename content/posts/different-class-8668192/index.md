@@ -42,9 +42,15 @@ styles: ["Britpop"]
 <!-- section break -->
 
 An iconic album telling timeless tales of sex, class struggles, and insecurity. Dreamt up by Jarvis Cocker on a Casiotone keyboard, “Common People” is the instantaneous mega-hit destined for dance floors of all future generations, “Mis-Shapes” a call to arms for society’s outsiders, while coming-of-age anthems “Disco 2000” and “F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E” narrate the gloriously awkward fumblings of first love. After all, “this isn’t chocolate boxes and roses”. Listen closely and you’ll hear Cocker’s knowing wink and a wry smile as his unlikely Britpop heroes unified a generation of misfits.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/different-class/1440923838" >}}
+{{< applemusic url="https://music.apple.com/gb/album/different-class/1440923838" >}}<br>
+
+
 ## Videos
 ### Pulp - Common People
 {{< youtube id="yuTMWgOduFM" title="Pulp - Common People" >}}<br>
@@ -66,8 +72,6 @@ An iconic album telling timeless tales of sex, class struggles, and insecurity. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Different_Class |
-| Wikipedia Summary | Different Class (released in Japan as Common People) is the fifth studio album by English rock band Pulp, released on 30 October 1995 by Island Records.<br>The album was a critical and commercial success, entering the UK Albums Chart at number one and winning the 1996 Mercury Music Prize. It has been certified four times platinum, and had sold 1.33 million copies in the United Kingdom as of 2020. In 2013, NME ranked the album at number six in its list of the 500 greatest albums of all time.<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785288 |

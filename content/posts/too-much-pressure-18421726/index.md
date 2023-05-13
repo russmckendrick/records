@@ -47,9 +47,14 @@ styles: ["Ska"]
 
 Too Much Pressure is the debut studio album by English 2 tone ska revival band the Selecter. After the band's official formation in 1979 in Coventry, following the release of a song entitled "The Selecter" by an unofficial incarnation of the band, the band's hit single "On My Radio" prompted their labels 2 Tone and Chrysalis to ask the band to record their debut album. Working with producer Errol Ross, the Selecter recorded the album at Horizon Studios over two months. The album contains original material, mostly composed by band founder and guitarist Neol Davies, as well as numerous ska and reggae cover versions, in a similar fashion to the Specials' debut album.
 The album was released in February 1980 on 2 Tone records. The record was commercially successful, charting at number 5 in the United Kingdom. The record's singles, "Three Minute Hero" and "Missing Words", made the top 25 of the UK Singles Chart. The album was also critically successful, and has had lasting praise in the ensuing years. Although the band's accompanying 2 On 2 Tour with several other 2 Tone acts was fraught with violence, it also helped achieve, in part, the album's commercial success. The band performed the album live for the first time as part of its 35th anniversary tour in 2014.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/too-much-pressure/1629178476" >}}
+{{< applemusic url="https://music.apple.com/gb/album/too-much-pressure/1629178476" >}}<br>
+
+
 ## Videos
 ### The Selecter - Too Much Pressure
 {{< youtube id="QHnX_wEW1K0" title="The Selecter - Too Much Pressure" >}}<br>
@@ -74,8 +79,6 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Too_Much_Pressure |
-| Wikipedia Summary | Too Much Pressure is the debut studio album by English 2 tone ska revival band the Selecter. After the band's official formation in 1979 in Coventry, following the release of a song entitled "The Selecter" by an unofficial incarnation of the band, the band's hit single "On My Radio" prompted their labels 2 Tone and Chrysalis to ask the band to record their debut album. Working with producer Errol Ross, the Selecter recorded the album at Horizon Studios over two months. The album contains original material, mostly composed by band founder and guitarist Neol Davies, as well as numerous ska and reggae cover versions, in a similar fashion to the Specials' debut album.<br>The album was released in February 1980 on 2 Tone records. The record was commercially successful, charting at number 5 in the United Kingdom. The record's singles, "Three Minute Hero" and "Missing Words", made the top 25 of the UK Singles Chart. The album was also critically successful, and has had lasting praise in the ensuing years. Although the band's accompanying 2 On 2 Tour with several other 2 Tone acts was fraught with violence, it also helped achieve, in part, the album's commercial success. The band performed the album live for the first time as part of its 35th anniversary tour in 2014. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album (Clear), Vinyl 7" 45 RPM Single (Clear), All Media Limited Edition Reissue Remastered (40th Anniversary) |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTH5002 |

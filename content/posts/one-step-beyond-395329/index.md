@@ -47,9 +47,14 @@ One Step Beyond . . . is the debut studio album by the British ska-pop group Mad
 This was the first album produced by the Clive Langer and Alan Winstanley team, who would go on to produce more Madness albums and to work with artists such as Elvis Costello and the Attractions, Morrissey, Dexys Midnight Runners, They Might Be Giants and David Bowie.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one-step-beyond-deluxe-version/1208852389" >}}
+{{< applemusic url="https://music.apple.com/gb/album/one-step-beyond-deluxe-version/1208852389" >}}<br>
+
+
 ## Videos
 ### Madness - One Step Beyond (Official 4k Video)
 {{< youtube id="SOJSM46nWwo" title="Madness - One Step Beyond (Official 4k Video)" >}}<br>
@@ -80,8 +85,6 @@ This was the first album produced by the Clive Langer and Alan Winstanley team, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/One_Step_Beyond... |
-| Wikipedia Summary | One Step Beyond . . . is the debut studio album by the British ska-pop group Madness, released by Stiff Records. Recorded and mixed in about three weeks, the album peaked at number two and remained on the U.K. Albums Chart for more than a year. The album has received much critical praise. It was ranked 90th in a 2005 survey held by British television's Channel 4 to determine the 100 greatest albums of all time.<br>This was the first album produced by the Clive Langer and Alan Winstanley team, who would go on to produce more Madness albums and to work with artists such as Elvis Costello and the Attractions, Morrissey, Dexys Midnight Runners, They Might Be Giants and David Bowie.<br><br> |
-| Release Year   | 1979                                   |
 | Format         | Vinyl LP Album Misprint |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 17 |

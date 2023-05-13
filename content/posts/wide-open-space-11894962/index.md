@@ -40,9 +40,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 "Wide Open Space" is a song by Chester rock band Mansun, released as a single on 25 November 1996. The song was the lead track of Four EP. The single's success led to alternative versions appearing on four of the next five Mansun singles. These versions were one live, one acoustic, and two remixes, the first and most popular by Perfecto, and a NRG version by The Trouser Enthusiasts. A completely different version credited to longtime engineer Mike Hunter was included as a hidden bonus track on their compilation Kleptomania. The song also appears on The Sound of Gran Turismo, a soundtrack album based on Gran Turismo.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wide-open-space-remastered-single/1584231195" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wide-open-space-remastered-single/1584231195" >}}<br>
+
+
 ## Videos
 ### Mansun - Wide Open Space (Perfecto Mix) ·1998·
 {{< youtube id="VEMiMRS1ixo" title="Mansun - Wide Open Space (Perfecto Mix) ·1998·" >}}<br>
@@ -62,8 +67,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wide_Open_Space |
-| Wikipedia Summary | "Wide Open Space" is a song by Chester rock band Mansun, released as a single on 25 November 1996. The song was the lead track of Four EP. The single's success led to alternative versions appearing on four of the next five Mansun singles. These versions were one live, one acoustic, and two remixes, the first and most popular by Perfecto, and a NRG version by The Trouser Enthusiasts. A completely different version credited to longtime engineer Mike Hunter was included as a hidden bonus track on their compilation Kleptomania. The song also appears on The Sound of Gran Turismo, a soundtrack album based on Gran Turismo. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Remastered (White) |
 | Label          | Kscope |
 | Catalog Number | Kscope989 |

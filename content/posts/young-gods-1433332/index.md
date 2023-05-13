@@ -38,9 +38,12 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/young-gods/1443369213" >}}
+{{< applemusic url="https://music.apple.com/gb/album/young-gods/1443369213" >}}<br>
+
+
 ## Videos
 ### Little Angels - Young Gods
 {{< youtube id="dysWRyP3Ung" title="Little Angels - Young Gods" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | 847 846-1 |

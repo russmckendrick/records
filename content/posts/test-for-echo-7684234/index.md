@@ -48,9 +48,14 @@ styles: ["Prog Rock"]
 
 Test for Echo is the sixteenth studio album by the Canadian rock band Rush, released on 10 September 1996 on Anthem Records. It was the final Rush album co-produced by Peter Collins. The band supported the album with a world tour in 1996 and 1997, after which they went on a four-year hiatus following the deaths of drummer Neil Peart's daughter and wife, and would not record again until 2002.
 The title track reached No. 1 on the mainstream rock chart. The song "Driven" became a bass showcase for Geddy Lee during live performances, while "Resist" was rearranged as an acoustic song on the Vapor Trails and R30 tours. The band did not perform any tracks from the album on subsequent tours. Test for Echo was remastered and reissued twice: in 2004 as a continuation of "The Rush Remasters" set and in 2013 as a part of the box set The Studio Albums 1989–2007. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/test-for-echo/642222761" >}}
+{{< applemusic url="https://music.apple.com/gb/album/test-for-echo/642222761" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +65,6 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Test_for_Echo |
-| Wikipedia Summary | Test for Echo is the sixteenth studio album by the Canadian rock band Rush, released on 10 September 1996 on Anthem Records. It was the final Rush album co-produced by Peter Collins. The band supported the album with a world tour in 1996 and 1997, after which they went on a four-year hiatus following the deaths of drummer Neil Peart's daughter and wife, and would not record again until 2002.<br>The title track reached No. 1 on the mainstream rock chart. The song "Driven" became a bass showcase for Geddy Lee during live performances, while "Resist" was rearranged as an acoustic song on the Vapor Trails and R30 tours. The band did not perform any tracks from the album on subsequent tours. Test for Echo was remastered and reissued twice: in 2004 as a continuation of "The Rush Remasters" set and in 2013 as a part of the box set The Studio Albums 1989–2007. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 83739 |

@@ -87,9 +87,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/every-countrys-sun/1232654304" >}}
+{{< applemusic url="https://music.apple.com/gb/album/every-countrys-sun/1232654304" >}}<br>
+
+
 ## Videos
 ### Every Country's Sun
 {{< youtube id="9ubqJl36KFU" title="Every Country's Sun" >}}<br>
@@ -101,7 +104,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (White), Vinyl 12" 33 ⅓ RPM, CD Album, Box Set Album Deluxe Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT108 |

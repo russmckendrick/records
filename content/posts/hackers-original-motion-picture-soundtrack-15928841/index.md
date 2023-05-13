@@ -51,7 +51,10 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)
 {{< youtube id="e7qtHLVgUi4" title="Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (25th Anniversary Edition) |
 | Label          | Varèse Sarabande |
 | Catalog Number | VSD00206 |

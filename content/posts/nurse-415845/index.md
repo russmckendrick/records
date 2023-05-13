@@ -39,9 +39,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Nurse is the first major label album released by the rock band Therapy? It was released in 1992 on A&M Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nurse/1444110474" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nurse/1444110474" >}}<br>
+
+
 ## Videos
 ### Therapy? - Nausea
 {{< youtube id="a9BmmGM9bSY" title="Therapy? - Nausea" >}}<br>
@@ -66,8 +71,6 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nurse_(album) |
-| Wikipedia Summary | Nurse is the first major label album released by the rock band Therapy? It was released in 1992 on A&M Records. |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | 540 044-1 |

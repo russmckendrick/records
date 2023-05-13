@@ -42,9 +42,14 @@ styles: []
 <!-- section break -->
 
 A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on classics: roots, country, Americana. He's already messed around with tradition, but on <i>Kids in the Street</i>, his sly stylistic mash-ups are revelatory. He zips between swaggering garage-damaged R&B (“Champagne Corolla”) and sweetly bluesy rock (“Short Hair Woman”). With savvy instrumentation and aching vocals, he freshens up bluegrass-anchored ballads (“Faded Valentine”) and country weepers (“What’s She Crying For”). Earle balances devilish playfulness with the arch outlook of a man who’s lived.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kids-in-the-street/1436938097" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kids-in-the-street/1436938097" >}}<br>
+
+
 ## Videos
 ### Justin Townes Earle - Kids In The Street [Audio Only]
 {{< youtube id="mDx4GtD3XJU" title="Justin Townes Earle - Kids In The Street [Audio Only]" >}}<br>
@@ -64,8 +69,6 @@ A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on classics: roots, country, Americana. He's already messed around with tradition, but on <i>Kids in the Street</i>, his sly stylistic mash-ups are revelatory. He zips between swaggering garage-damaged R&B (“Champagne Corolla”) and sweetly bluesy rock (“Short Hair Woman”). With savvy instrumentation and aching vocals, he freshens up bluegrass-anchored ballads (“Faded Valentine”) and country weepers (“What’s She Crying For”). Earle balances devilish playfulness with the arch outlook of a man who’s lived. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (150g) |
 | Label          | New West Records |
 | Catalog Number | NW5189 |

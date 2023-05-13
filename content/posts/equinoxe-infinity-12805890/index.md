@@ -42,9 +42,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/equinoxe-infinity/1435149472" >}}
+{{< applemusic url="https://music.apple.com/gb/album/equinoxe-infinity/1435149472" >}}<br>
+
+
 ## Videos
 ### Jean-Michel Jarre - Flying Totems (Franci98my Remix)
 {{< youtube id="Z6mtx7vMdqQ" title="Jean-Michel Jarre - Flying Totems (Franci98my Remix)" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (First Cover) |
 | Label          | Columbia |
 | Catalog Number | 19075876451 |

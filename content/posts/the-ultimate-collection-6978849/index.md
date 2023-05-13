@@ -50,9 +50,14 @@ styles: ["Folk Rock", "Pop Rock"]
 <!-- section break -->
 
 The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. It is the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paul-simon-the-ultimate-collection/967293370" >}}
+{{< applemusic url="https://music.apple.com/gb/album/paul-simon-the-ultimate-collection/967293370" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +67,6 @@ The Ultimate Collection is a greatest hits album by American folk singer Paul Si
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Ultimate_Collection_(Paul_Simon_album) |
-| Wikipedia Summary | The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. It is the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Sony Music |
 | Catalog Number | 88875085521 |

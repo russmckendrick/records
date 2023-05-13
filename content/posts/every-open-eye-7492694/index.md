@@ -44,9 +44,15 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Building on the hooky pop electronica that had internet oracles everywhere falling for their 2013 debut, Glaswegian trio Lauren Mayberry, Iain Cook and Martin Doherty return on a second record shimmering with icy, controlled confidence. “Leave a Trace” is a skittering R&B-influenced air-puncher while “Clearest Blue” builds to an almost impossibly euphoric riot of 80s synth stabs. It’s not all precision-engineered pyrotechnics though. Closing track “Afterglow” (complete with Mayberry’s haunting one-take vocal and a radiator clanking in the background) proves that Chvrches do stripped-down just as well as they do scrubbed-up.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/every-open-eye/1440834051" >}}
+{{< applemusic url="https://music.apple.com/gb/album/every-open-eye/1440834051" >}}<br>
+
+
 ## Videos
 ### CHVRCHES - Leave A Trace
 {{< youtube id="4Eo84jDIMKI" title="CHVRCHES - Leave A Trace" >}}<br>
@@ -67,8 +73,6 @@ Building on the hooky pop electronica that had internet oracles everywhere falli
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Every_Open_Eye |
-| Wikipedia Summary | Every Open Eye is the second studio album by Scottish synth-pop band Chvrches. It was released on 25 September 2015 by Virgin EMI Records and Goodbye Records. Self-produced, it is the band's follow-up to their critically acclaimed debut album, The Bones of What You Believe (2013). The album title comes from a lyric in the song "Clearest Blue". The album received positive reviews from music critics and was listed on several year-end best-of lists. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (White, 180 Gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3139 |

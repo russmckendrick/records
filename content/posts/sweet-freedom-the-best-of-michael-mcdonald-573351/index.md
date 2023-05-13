@@ -38,7 +38,10 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### James Ingram and Michael McDonald - Yah Mo Be There
 {{< youtube id="_3rVtcm6pBE" title="James Ingram and Michael McDonald - Yah Mo Be There" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1986                                   |
 | Format         | Vinyl LP Compilation Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 241 049-1 |

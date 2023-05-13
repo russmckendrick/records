@@ -47,9 +47,12 @@ styles: ["Comedy"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-again/1457934944" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-again/1457934944" >}}<br>
+
+
 ## Videos
 ### The League Of Gentlemen Live Again Toddy’s Bingo
 {{< youtube id="AT7zM7TXjr8" title="The League Of Gentlemen Live Again Toddy’s Bingo" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Record Store Day Limited Edition (Gatefold, Pop-up sleeve ) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC410 |

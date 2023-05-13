@@ -38,9 +38,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="2DHSJ8Zwoac6RU6hkSQQjS" width="100%" height="500" >}}
+{{< spotify type="album" id="2DHSJ8Zwoac6RU6hkSQQjS" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Steven Wilson - Vermillioncore (NEW ALBUM 4 ½ 2016)
 {{< youtube id="B9Kwm4EMlkk" title="Steven Wilson - Vermillioncore (NEW ALBUM 4 ½ 2016)" >}}<br>
@@ -56,7 +60,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Mini-Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE917 |

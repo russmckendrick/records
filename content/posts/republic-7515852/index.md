@@ -40,9 +40,15 @@ styles: ["Electro", "Synth-pop", "Indie Rock"]
 
 Republic (stylised as Republic©) is the sixth studio album by English rock band New Order. It was first released on 3 May 1993 in the United Kingdom by CentreDate Co Ltd in association with London Records and on 11 May 1993 in the United States by Qwest and Warner Bros. Records. It was the band's first album following the demise of their former label Factory Records, and would be their last studio album for eight years until 2001's Get Ready.
 Republic became New Order's second consecutive album to top the UK Albums Chart, and was nominated for the 1993 Mercury Music Prize. In the United States, it reached number 11 on the Billboard 200, the band's highest-peaking album on the chart to date. Its lead single "Regret" became New Order's last top-five entry on the UK Singles Chart. The band went on hiatus following a gig at the Reading Festival in promotion of the album in August 1993. Lead singer Bernard Sumner was known to dislike travelling to North America, and media reports suggested that the pressure of the long leg there contributed to the band's temporary demise, although they reunited in 1998.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/republic/1040965893" >}}
+{{< applemusic url="https://music.apple.com/gb/album/republic/1040965893" >}}<br>
+
+
 ## Videos
 ### New Order - Regret (Official Music Video)
 {{< youtube id="71ZHVmSuBJM" title="New Order - Regret (Official Music Video)" >}}<br>
@@ -57,8 +63,6 @@ Republic became New Order's second consecutive album to top the UK Albums Chart,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Republic_(album) |
-| Apple Music Summary | Gillian Gilbert's melancholy background vocals on "World" are a sure sign of a band that's all grown up—older, wearier, wiser, but undaunted in their pursuit of transcendence. Recorded after Factory's demise, <i>Republic</i> is a darker album than <i>Technique</i>, with somber tones creeping into New Order’s lush mix of guitars and synths. They're still raving on "Spooky" and the driving "Chemical", though the acid house has taken on a nervous twitch, and "Liar" is tinged by desperation. But reflection becomes a chance to soar on the triumphant "Regret".<br> |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0825646072231 |

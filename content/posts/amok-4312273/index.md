@@ -47,9 +47,12 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amok/1545337159" >}}
+{{< applemusic url="https://music.apple.com/gb/album/amok/1545337159" >}}<br>
+
+
 ## Videos
 ### Atoms For Peace - Before Your Very Eyes
 {{< youtube id="1GQF9y2dKv8" title="Atoms For Peace - Before Your Very Eyes" >}}<br>
@@ -74,7 +77,6 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP583 |

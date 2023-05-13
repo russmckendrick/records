@@ -36,9 +36,16 @@ styles: ["Alternative Rock", "Krautrock"]
 
 <!-- section break -->
 
-<br>
+Every Valley is a studio album by British art rock band Public Service Broadcasting. The group's third original album, it is a concept album which focuses on a topic of modern history, much like the band's previous work. The album's story depicts the history of the mining industry in Wales, more specifically chronicling the rise and decline of the country's coal industry. The band's lead songwriter, J Willgoose, Esq., described the album's premise as an allegory for today's "abandoned and neglected communities across the western world", which have led to a "malignant, cynical and calculating brand of politics."
+Every Valley was recorded in situ in the former steelworks town of Ebbw Vale, in South Wales. The band made use of a community hall formerly used as a convention space by the town's local workers' institute for the album's recording. It also features guest appearances by Welsh musicians James Dean Bradfield and Lisa Jên Brown, Scottish singer Tracyanne Campbell (of Camera Obscura) and English band Haiku Salut, as well as the Beaufort Male Choir. The album was released by PIAS Recordings on 7 July 2017. The album was commercially successful in the band’s home country, with critical reception being highly positive.
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/every-valley/1221474815" >}}
+{{< applemusic url="https://music.apple.com/gb/album/every-valley/1221474815" >}}<br>
+
+
 ## Videos
 ### Every Valley [Album Trailer]
 {{< youtube id="kFGsdmcF230" title="Every Valley [Album Trailer]" >}}<br>
@@ -53,7 +60,7 @@ styles: ["Alternative Rock", "Krautrock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Every_Valley |
 | Format         | Vinyl LP Album Limited Edition (180 gram, Clear) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR970LPX |

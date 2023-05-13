@@ -38,9 +38,12 @@ styles: ["Gangsta"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/new-funky-nation/1443498528" >}}
+{{< applemusic url="https://music.apple.com/gb/album/new-funky-nation/1443498528" >}}<br>
+
+
 ## Videos
 ### Six Bad Brothas
 {{< youtube id="9AATTZxO2PQ" title="Six Bad Brothas" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Gangsta"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLP 544 |

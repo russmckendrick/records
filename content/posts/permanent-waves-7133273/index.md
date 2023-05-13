@@ -41,9 +41,15 @@ styles: ["Hard Rock", "Prog Rock"]
 <!-- section break -->
 
 At the onset of the 1980s, Rush were poised as one of hard rock’s most successful groups. Their album epics established them as cult favorites with a rapidly expanding cult. Their overtly serious lyrics, written by the group’s drummer Neil Peart, led to obsessive discussion among fans and were a point of derision for critics. But what could not be argued was their larger than life <i>sound</i> — other power trios might be as loud, but none were as complex. Alex Lifeson’s guitar was simply massive, essaying classic guitar riffs soon emulated by aspiring actual and air guitarists everywhere, while Peart’s unrestrained drum fills challenged all rock drummers with their liberal use of unusual time signatures. <i>Permanent Waves</i> features several of the group’s essential tunes. “The Spirit of Radio” has become a classic rock staple with its climactic chorus delivering the necessary catharsis. “Freewill” stands as the band’s self-empowerment anthem (Peart is a diehard Ayn Rand disciple) and the expanded tracks — “Jacob’s Ladder,” “Natural Science” — trip out into extended instrumental passages that are among the most nuanced in rock. Rush managed to be progressive without losing their core appeal.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/permanent-waves-remastered/1440782947" >}}
+{{< applemusic url="https://music.apple.com/gb/album/permanent-waves-remastered/1440782947" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,8 +59,6 @@ At the onset of the 1980s, Rush were poised as one of hard rock’s most success
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Permanent_Waves |
-| Wikipedia Summary | Permanent Waves is the seventh studio album by Canadian rock band Rush, released on January 18, 1980, through Anthem Records. After touring to support their previous album, Hemispheres (1978), the band began working on new material for a follow-up in July 1979. This material showed a shift in the group's sound towards more concise arrangements and radio-friendly songs (such as "The Spirit of Radio" and "Freewill"), though their progressive rock blueprint is still evident on "Jacob's Ladder" and the nine-minute closer "Natural Science." Bassist/vocalist Geddy Lee also employed a more restrained vocal delivery compared to previous albums. Permanent Waves was recorded at Le Studio in Morin-Heights, Quebec with production handled by the group and Terry Brown.<br>Permanent Waves received a mostly positive reception from critics, and became the band's most successful album at the time of its release, reaching No. 3 in Canada and the UK and No. 4 in the United States. The album was certified platinum in the latter by the Recording Industry Association of America for selling one million copies. Rush released "The Spirit of Radio" as a single in February 1980 and toured in support of the album in 1980. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118073 |

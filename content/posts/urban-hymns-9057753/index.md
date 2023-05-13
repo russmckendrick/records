@@ -50,9 +50,14 @@ Urban Hymns is the third studio album by English alternative rock band the Verve
 The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK number one "The Drugs Don't Work". The critical and commercial success of the album saw the band win two Brit Awards in 1998, including Best British Album, and appear on the cover of Rolling Stone in April 1998. "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song. It was also among ten albums nominated for the best British album of the previous 30 years by the Brit Awards in 2010, ultimately losing to (What's the Story) Morning Glory? by Oasis. In 2013, NME ranked it at number 128 in its list of the 500 Greatest Albums of All Time.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/urban-hymns-deluxe-remastered-2016/1443258184" >}}
+{{< applemusic url="https://music.apple.com/gb/album/urban-hymns-deluxe-remastered-2016/1443258184" >}}<br>
+
+
 ## Videos
 ### T̲he V̲e̲rve - Urban Hymns (Full Album)
 {{< youtube id="AWUD05jzL5o" title="T̲he V̲e̲rve - Urban Hymns (Full Album)" >}}<br>
@@ -124,8 +129,6 @@ The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK n
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Urban_Hymns |
-| Wikipedia Summary | Urban Hymns is the third studio album by English alternative rock band the Verve, released on 29 September 1997 on Hut Records. It earned nearly unanimous critical praise upon its release, and went on to become the band's best-selling release and one of the biggest selling albums of the year. As of 2019, Urban Hymns is ranked the 19th best-selling album in UK chart history and has sold over ten million copies worldwide. This is the only Verve album to feature guitarist and keyboardist Simon Tong, who initially joined the band to replace their original guitarist Nick McCabe. McCabe rejoined the band soon after, however, and Tong was considered the fifth member of the band; this makes the album the only one that the band recorded as a five-piece.<br>The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK number one "The Drugs Don't Work". The critical and commercial success of the album saw the band win two Brit Awards in 1998, including Best British Album, and appear on the cover of Rolling Stone in April 1998. "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song. It was also among ten albums nominated for the best British album of the previous 30 years by the Brit Awards in 2010, ultimately losing to (What's the Story) Morning Glory? by Oasis. In 2013, NME ranked it at number 128 in its list of the 500 Greatest Albums of All Time.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Band Side Labels, RIM text, 180 gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 4787014 |

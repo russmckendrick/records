@@ -27,7 +27,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ned's Atomic Dustbin - Grey Cell Green
 {{< youtube id="GFxVMfBfQDY" title="Ned's Atomic Dustbin - Grey Cell Green" >}}<br>
@@ -41,7 +44,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl 12" 45 RPM EP |
 | Label          | Chapter 22 |
 | Catalog Number | 12 CHAP 47 |

@@ -37,9 +37,15 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 <!-- section break -->
 
 Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly reuniting for a couple of shows opening for Nirvana, whose leader, Kurt Cobain, was their most famous fan. Flash-forward to 2010 and the duo reunite with a new album and it’s a wonderful collection of skeletal pop songs sung with an ear towards simple hooks and perfectly scripted instrumentation. There are no wasted notes. The vocal interplay is ingenuous. “The Devil’s Inside Me” and “Turning It On” are great male-to-female pieces of sexual tension. The title track is a handclap-fueled ultra-catchy pop song. “Overweight But Over You” is exactly the kind of churning power-pop song that Cobain himself tried to write so many times. “I Hate the ‘80s” gears up with splendid 1960s guitars to mock the decade where the best music was often driven underground and left unheard. “Whitechapel” adds an extra sheen of sophistication right before the garage-rock-cum-country glee of “My God Is Bigger Than Your God.” Exquisite.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sex-with-an-x/387736753" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sex-with-an-x/387736753" >}}<br>
+
+
 ## Videos
 ### The Vaselines - I Hate The 80's (2010)
 {{< youtube id="i1zMx4Eltbo" title="The Vaselines - I Hate The 80's (2010)" >}}<br>
@@ -54,8 +60,6 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sex_with_an_X |
-| Wikipedia Summary | Sex with an X is the second studio album by the Scottish alternative rock band The Vaselines, which was released on 14 September 2010 on Sub Pop. It was their first new album since the release of Dum-Dum over 20 years earlier.<br>The first single from the album, "I Hate The 80s" was released on 10 June 2010. The second single, the title track "Sex with an X", was released on 24 August 2010 with the B-side; "Roaster", while the third single "Mouth To Mouth" was released on Valentine's Day, 14 February 2011.<br>On 9 September 2010, guardian.co.uk streamed the entire album on its Music Blog.  The album was released with a track by track guide written by The Vaselines.The final track, "Exit the Vaselines", is a reference to the compilation album, Enter the Vaselines. |
-    | Release Year   | 2010                                   |
 | Format         | Vinyl LP Album |
 | Label          | Sub Pop |
 | Catalog Number | SP 889 |

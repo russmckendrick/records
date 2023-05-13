@@ -38,9 +38,14 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 <!-- section break -->
 
 Future Ruins is the sixth studio album by English alternative rock band Swervedriver. It was released on 25 January 2019 through Dangerbird Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/future-ruins/1439002583" >}}
+{{< applemusic url="https://music.apple.com/gb/album/future-ruins/1439002583" >}}<br>
+
+
 ## Videos
 ### Mary Winter
 {{< youtube id="yohv_1_dJrM" title="Mary Winter" >}}<br>
@@ -63,8 +68,6 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Future_Ruins |
-| Wikipedia Summary | Future Ruins is the sixth studio album by English alternative rock band Swervedriver. It was released on 25 January 2019 through Dangerbird Records. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (Red) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT121LP |

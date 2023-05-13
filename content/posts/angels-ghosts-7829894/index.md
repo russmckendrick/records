@@ -40,9 +40,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/angels-ghosts/1037278178" >}}
+{{< applemusic url="https://music.apple.com/gb/album/angels-ghosts/1037278178" >}}<br>
+
+
 ## Videos
 ### Dave Gahan, Soulsavers - Shine (Official Video)
 {{< youtube id="MP38Z1QfkYw" title="Dave Gahan, Soulsavers - Shine (Official Video)" >}}<br>
@@ -56,7 +59,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 88875136551 |

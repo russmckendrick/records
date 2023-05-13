@@ -41,9 +41,14 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 <!-- section break -->
 
 Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers, and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”  
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-hate/1440832200" >}}
+{{< applemusic url="https://music.apple.com/gb/album/love-hate/1440832200" >}}<br>
+
+
 ## Videos
 ### Michael Kiwanuka - Cold Little Heart (Full Version)
 {{< youtube id="FGG5K1XLgkA" title="Michael Kiwanuka - Cold Little Heart (Full Version)" >}}<br>
@@ -65,8 +70,6 @@ Michael Kiwanuka’s stunning second LP proves he’s an artist with something t
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers, and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”   |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Polydor |
 | Catalog Number | 4783458 |

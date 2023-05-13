@@ -43,9 +43,14 @@ styles: ["Reggae", "Roots Reggae"]
 <!-- section break -->
 
 An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-the-wailers-2002-edition/1469575763" >}}
+{{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-the-wailers-2002-edition/1469575763" >}}<br>
+
+
 ## Videos
 ### Legend  Bob Marley Cd completo Hd  Remastered
 {{< youtube id="hUzeGvg0pOg" title="Legend  Bob Marley Cd completo Hd  Remastered" >}}<br>
@@ -72,8 +77,6 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Compilation Reissue (180 Gram) |
 | Label          | Tuff Gong |
 | Catalog Number | 0600753030523 |

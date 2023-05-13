@@ -41,9 +41,15 @@ styles: ["Disco", "Soul", "Synth-pop"]
 Dirty Mind is the third studio album by American singer-songwriter, and multi-instrumentalist Prince. It was released on October 8, 1980, by Warner Bros. Records and produced entirely by Prince at his home studio in Minneapolis, Minnesota earlier that year from May to June. Dirty Mind has been considered by critics to be his most creative and boldest album, setting the standard for his artistic direction in the following years.A fusion of post-disco, new wave, funk and dance, Dirty Mind has more punk sounds than Prince's previous albums. Prince’s high and feminine vocals, along with his androgynous image during the album's era, has been commended. Controversially, the album's theme is fueled by explicit topics including oral sex, threesome, incest and ejaculation, which has been credited for opening the doors for sexually explicit albums in the coming years.The first single of Dirty Mind, "Uptown" reached number five on both the Billboard Hot Soul Singles and the Billboard National Disco Action Top 30 charts. Though the album only reached number 45 on the Billboard 200, it earned widespread acclaim from music critics and crossover success. Due to its fusion of genres, critics have hailed it for setting the sound for urban black music of the early 1980s. The album has been ranked by several publications as one of the greatest albums of all time.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dirty-mind/214145168" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dirty-mind/214145168" >}}<br>
+
+
 ## Videos
 ### Dirty Mind
 {{< youtube id="4mXPQIrY5rE" title="Dirty Mind" >}}<br>
@@ -68,8 +74,6 @@ Dirty Mind is the third studio album by American singer-songwriter, and multi-in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dirty_Mind |
-| Apple Music Summary | Released at the end of 1980, <i>Dirty Mind</i> was a showcase for how Prince would revolutionize pop music: He welded New Wave to funk while challenging the status quo with his unapologetic sexuality. Even the love songs here (“When You Were Mine,” “Gotta Broken Heart Again”) have a touch of kink, while the kinky songs (“Head,” the punky incest poem “Sister”) take their taboos as seriously as heartache. It’s a blurring of the sacred and profane that would come to define his career. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-7 |

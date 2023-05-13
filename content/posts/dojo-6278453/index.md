@@ -32,9 +32,12 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dojo/892082605" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dojo/892082605" >}}<br>
+
+
 ## Videos
 ### Jouis ► Universe Goggles [HQ Audio] Dojo 2014
 {{< youtube id="zsoss5XuRLM" title="Jouis ► Universe Goggles [HQ Audio] Dojo 2014" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beetroot |
 | Catalog Number | BR 001 |

@@ -42,9 +42,14 @@ styles: ["Synth-pop"]
 
 The Collection is a greatest hits album by British band Ultravox, released on 2 November 1984 by Chrysalis Records. It includes all fourteen of the band's hit singles on Chrysalis from 1980 to 1984, including "Love's Great Adventure", released ahead of the album as a stand-alone single.
 The album peaked at number 2 on the UK Album Chart, becoming their highest-charting album. It also became their best-selling album, being certified triple platinum by the British Phonographic Industry (BPI) for shipments in excess of 900,000 copies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-collection/1629178655" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-collection/1629178655" >}}<br>
+
+
 ## Videos
 ### Ultravox - The Collection (Video, 1984)
 {{< youtube id="ZUguvYE9FuE" title="Ultravox - The Collection (Video, 1984)" >}}<br>
@@ -69,8 +74,6 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Collection_(Ultravox_album) |
-| Wikipedia Summary | The Collection is a greatest hits album by British band Ultravox, released on 2 November 1984 by Chrysalis Records. It includes all fourteen of the band's hit singles on Chrysalis from 1980 to 1984, including "Love's Great Adventure", released ahead of the album as a stand-alone single.<br>The album peaked at number 2 on the UK Album Chart, becoming their highest-charting album. It also became their best-selling album, being certified triple platinum by the British Phonographic Industry (BPI) for shipments in excess of 900,000 copies. |
-| Release Year   | 1984                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Chrysalis |
 | Catalog Number | UTV1 |

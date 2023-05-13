@@ -48,9 +48,15 @@ Pump was the second of three sequentially recorded Aerosmith albums to feature p
 A video documentary on the recording, The Making of Pump, was released in 1990.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pump/1440824301" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pump/1440824301" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ A video documentary on the recording, The Making of Pump, was released in 1990.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pump_(album) |
-| Apple Music Summary | Rejuvenated with the help of Bon Jovi producer Bruce Fairbairn, Aerosmith ended the ‘80s with a triumph. While unbridled rockers like “Love In an Elevator” match their sleazy glories of yesteryear, <i>Pump</i> has a serious side, too. In “Janie’s Got a Gun,” a girl’s sexual abuse culminates in an act of revenge. Throughout “Monkey on My Back,” Steven Tyler rails against the substances that nearly ruined his band. Thankfully, this sober, slightly more thoughtful Aerosmith was as exciting as the earlier model. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954381 |

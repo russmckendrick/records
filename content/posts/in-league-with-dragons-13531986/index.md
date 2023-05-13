@@ -41,9 +41,14 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 In League With Dragons is the seventeenth studio album by the Mountain Goats, released on April 26, 2019, on Merge Records. Inspired by tabletop role-playing games such as Dungeons & Dragons, the album has been described as a "partial rock opera" with influences from noir literature.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-league-with-dragons/1449160212" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-league-with-dragons/1449160212" >}}<br>
+
+
 ## Videos
 ### The Mountain Goats Younger
 {{< youtube id="987MTbOl0mc" title="The Mountain Goats Younger" >}}<br>
@@ -60,8 +65,6 @@ In League With Dragons is the seventeenth studio album by the Mountain Goats, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_League_with_Dragons |
-| Wikipedia Summary | In League With Dragons is the seventeenth studio album by the Mountain Goats, released on April 26, 2019, on Merge Records. Inspired by tabletop role-playing games such as Dungeons & Dragons, the album has been described as a "partial rock opera" with influences from noir literature.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album (Green), Vinyl 7" 45 RPM, All Media Limited Edition (Peak Vinyl Version) |
 | Label          | Merge Records |
 | Catalog Number | MRG679A |

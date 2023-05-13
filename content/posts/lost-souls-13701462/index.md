@@ -43,9 +43,12 @@ styles: ["Space Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lost-souls/724350250" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lost-souls/724350250" >}}<br>
+
+
 ## Videos
 ### Doves - The Cedar Room
 {{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Space Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Grey) |
 | Label          | Heavenly |
 | Catalog Number | 7748262 |

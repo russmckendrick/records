@@ -45,9 +45,12 @@ styles: ["Punk", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/life-wont-wait/1485036889" >}}
+{{< applemusic url="https://music.apple.com/gb/album/life-wont-wait/1485036889" >}}<br>
+
+
 ## Videos
 ### Rancid - Who Would've Thought [MUSIC VIDEO]
 {{< youtube id="oJqFEk67eLE" title="Rancid - Who Would've Thought [MUSIC VIDEO]" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue (Orange ) |
 | Label          | Epitaph |
 | Catalog Number | 86497-1 |

@@ -40,9 +40,15 @@ styles: ["Alternative Rock", "Synth-pop"]
 <!-- section break -->
 
 A general observation: You don’t go see Rick Rubin at Shangri-La if you’re just going to fuck around. For their sixth LP, The Strokes turn to the Mage of Malibu to produce their most focused collection of songs since 2003’s <i>Room on Fire</i>—the very beginning of a period marked by discord, disinterest and addiction. Only their fourth record since, <i>The New Abnormal</i> finds the fivesome sounding fully engaged and totally revitalised, offering glimpses of themselves as we first came to know them at the turn of the millennium—young saviours of rock, if not its last true stars—while also providing the sort of perspective and even grace that comes with age. “Bad Decisions” is at turns riffy and elegiac, Julian Casablancas’ corkscrewing chorus melody a close enough relative to 1981’s “Dancing With Myself” that Billy Idol and Tony James are credited as songwriters. Though not as immediate, “Not the Same Anymore” is equally toothsome, a heart-stopping soul number that manages to capture feelings of both triumph and deep regret, with Casablancas opening himself up and delivering what might be his finest vocal performance to date. “I was afraid,” he sings, amid a weave of cresting guitars. “I fucked up/I couldn’t change/It’s too late.” For a band that forged an entire mythology around appearing as though they couldn’t be bothered, this is an exciting development. It’s cool to care, too.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-new-abnormal/1498121188" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-new-abnormal/1498121188" >}}<br>
+
+
 ## Videos
 ### The Strokes - The Adults Are Talking (Official Video)
 {{< youtube id="ewOPQZZn4SY" title="The Strokes - The Adults Are Talking (Official Video)" >}}<br>
@@ -64,8 +70,6 @@ A general observation: You don’t go see Rick Rubin at Shangri-La if you’re j
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_New_Abnormal |
-| Wikipedia Summary | The New Abnormal is the sixth studio album by American rock band the Strokes, released on April 10, 2020, through Cult and RCA Records. It was their first full-length album since Comedown Machine (2013), marking the longest gap between studio albums by the band.  The album was produced by Rick Rubin and recorded at his Shangri-La studio in Malibu, California, with additional recording taking place at studios in Los Angeles County and Hawaii. The Strokes began performing songs from the album for the first time throughout 2019 before revealing the album's track list and cover art in early 2020. "At the Door", "Bad Decisions", and "Brooklyn Bridge to Chorus" were released as singles prior to the album's release, with "The Adults Are Talking" being released to radio months later.<br>The New Abnormal received very positive reviews from critics, many of whom considered it a return to form. Praise was directed particularly towards the maturity of singer Julian Casablancas' lyrics as well as the band's improved sense of musical cohesion. The album reached number 1 in Scotland and the top ten in six other countries, including the United States and the United Kingdom. It also won the Grammy Award for Best Rock Album at the 63rd Annual Grammy Awards in 2021, the band's first nomination and win.<br><br> |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album |
 | Label          | RCA |
 | Catalog Number | 19439-70588-1 |

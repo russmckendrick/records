@@ -81,9 +81,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/souvenir/1475850622" >}}
+{{< applemusic url="https://music.apple.com/gb/album/souvenir/1475850622" >}}<br>
+
+
 ## Videos
 ### Souvenir (Remastered 2019)
 {{< youtube id="RVftFadDCic" title="Souvenir (Remastered 2019)" >}}<br>
@@ -95,7 +98,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 3× LP Compilation (180 Gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 7743914 |

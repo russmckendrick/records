@@ -34,9 +34,14 @@ styles: ["Jazz-Funk"]
 
 Phase is the debut studio album by Australian psychedelic jazz fusion group, Mildlife. The album was released 2 November 2017.
 At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria Awards of 2018, the album was nominated for Best Soul, Funk, R'n'B and Gospel Album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/phase/1676185074" >}}
+{{< applemusic url="https://music.apple.com/gb/album/phase/1676185074" >}}<br>
+
+
 ## Videos
 ### Mildlife - The Magnificent Moon [Audio] (1 of 6)
 {{< youtube id="LCXU2OQW-Nc" title="Mildlife - The Magnificent Moon [Audio] (1 of 6)" >}}<br>
@@ -55,8 +60,6 @@ At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Phase_(Mildlife_album) |
-| Wikipedia Summary | Phase is the debut studio album by Australian psychedelic jazz fusion group, Mildlife. The album was released 2 November 2017.<br>At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria Awards of 2018, the album was nominated for Best Soul, Funk, R'n'B and Gospel Album. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Research Records |
 | Catalog Number | RESEARCH02 |

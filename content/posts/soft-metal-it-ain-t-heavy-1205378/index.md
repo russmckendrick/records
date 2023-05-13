@@ -44,7 +44,10 @@ styles: ["Soft Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Heart - Alone
 {{< youtube id="1Cw1ng75KP0" title="Heart - Alone" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Stylus Music |
 | Catalog Number | SMR 862 |

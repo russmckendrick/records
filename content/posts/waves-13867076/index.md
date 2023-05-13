@@ -33,9 +33,12 @@ styles: ["Indie Pop", "Neo-Classical"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}
+{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}<br>
+
+
 ## Videos
 ### AVA - Waves [Neo-Classical, Ambient, Electronic]
 {{< youtube id="CiBM_R_2GYc" title="AVA - Waves [Neo-Classical, Ambient, Electronic]" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Indie Pop", "Neo-Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | One Little Indian Records |
 | Catalog Number | TPLP1493 |

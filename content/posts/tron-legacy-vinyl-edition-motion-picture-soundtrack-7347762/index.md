@@ -63,7 +63,10 @@ styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -72,7 +75,6 @@ styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Walt Disney Records |
 | Catalog Number | D001356101 |

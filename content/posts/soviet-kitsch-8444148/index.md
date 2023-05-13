@@ -51,9 +51,14 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 Soviet Kitsch is the major label debut and third album by American singer/songwriter Regina Spektor. It was originally released on Shoplifter Records in May 2003 but was reissued in August 2004 when Spektor signed with Sire Records. The title is drawn from Milan Kundera's expression for the vacuous aesthetics of Stalinist-style communism, a theme in his book The Unbearable Lightness of Being. One version of the album was released with a bonus DVD, which included a short promotional film titled The Survival Guide to Soviet Kitsch and the music video for the song "Us".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/soviet-kitsch/20006406" >}}
+{{< applemusic url="https://music.apple.com/gb/album/soviet-kitsch/20006406" >}}<br>
+
+
 ## Videos
 ### Regina Spektor - Us [OFFICIAL Video]
 {{< youtube id="fczPlmz-Vug" title="Regina Spektor - Us [OFFICIAL Video]" >}}<br>
@@ -72,8 +77,6 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soviet_Kitsch |
-| Wikipedia Summary | Soviet Kitsch is the major label debut and third album by American singer/songwriter Regina Spektor. It was originally released on Shoplifter Records in May 2003 but was reissued in August 2004 when Spektor signed with Sire Records. The title is drawn from Milan Kundera's expression for the vacuous aesthetics of Stalinist-style communism, a theme in his book The Unbearable Lightness of Being. One version of the album was released with a bonus DVD, which included a short promotional film titled The Survival Guide to Soviet Kitsch and the music video for the song "Us".<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Red), Vinyl 7" 45 RPM Single Limited Edition (Large Center Hole) |
 | Label          | Sire |
 | Catalog Number | 9362-49267-9 |

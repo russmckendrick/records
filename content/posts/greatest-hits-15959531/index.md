@@ -50,9 +50,14 @@ Greatest Hits is a compilation album by the American hard rock band Guns N' Rose
 Despite the album having almost no promotion, it reached number one on the UK Albums Chart and number three on the Billboard 200 chart upon its release. Greatest Hits re-entered the Billboard 200 at number three in March 2012, selling about 85,000 copies as part of a promotion by both Amazon and Google Play that saw the album sold for 25 cents for one day. The album has proven a popular seller, selling over six million copies in the United States by 2018. Greatest Hits is one of the longest charting albums in the Billboard 200 era, being one of only seven albums to notch at least 400 weeks on the chart by June 2017. As of April 2022, it has spent 568 weeks on the chart.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-bonus-track-version/1533360448" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-bonus-track-version/1533360448" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +67,6 @@ Despite the album having almost no promotion, it reached number one on the UK Al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Guns_N%27_Roses_album) |
-| Wikipedia Summary | Greatest Hits is a compilation album by the American hard rock band Guns N' Roses, released on March 23, 2004. Released by Geffen Records in part because of the delay in the making of Chinese Democracy, the album was subject to lawsuits by band member Axl Rose and former band members, in an attempt to block its release due to its track listing.<br>Despite the album having almost no promotion, it reached number one on the UK Albums Chart and number three on the Billboard 200 chart upon its release. Greatest Hits re-entered the Billboard 200 at number three in March 2012, selling about 85,000 copies as part of a promotion by both Amazon and Google Play that saw the album sold for 25 cents for one day. The album has proven a popular seller, selling over six million copies in the United States by 2018. Greatest Hits is one of the longest charting albums in the Billboard 200 era, being one of only seven albums to notch at least 400 weeks on the chart by June 2017. As of April 2022, it has spent 568 weeks on the chart.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Gold With White & Red Splatter) |
 | Label          | Geffen Records |
 | Catalog Number | 00602435054032 |

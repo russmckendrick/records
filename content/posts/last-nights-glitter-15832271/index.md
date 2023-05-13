@@ -33,9 +33,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/last-nights-glitter/1516641724" >}}
+{{< applemusic url="https://music.apple.com/gb/album/last-nights-glitter/1516641724" >}}<br>
+
+
 
 
 ## Release Images
@@ -44,7 +47,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Stereo |
 | Label          | Not On Label |
 | Catalog Number | none |

@@ -36,9 +36,14 @@ styles: ["Electro"]
 The Album is the debut album by the group Mantronix.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-album/341928107" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-album/341928107" >}}<br>
+
+
 ## Videos
 ### Mantronix - Bassline
 {{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}<br>
@@ -66,8 +71,6 @@ The Album is the debut album by the group Mantronix.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mantronix:_The_Album |
-| Wikipedia Summary | The Album is the debut album by the group Mantronix.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Demon Music Group |
 | Catalog Number | DEMREC 364 |

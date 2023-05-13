@@ -43,9 +43,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/izzy-stradlin-and-the-ju-ju-hounds/1443075882" >}}
+{{< applemusic url="https://music.apple.com/gb/album/izzy-stradlin-and-the-ju-ju-hounds/1443075882" >}}<br>
+
+
 ## Videos
 ### Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop
 {{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Geffen Records |
 | Catalog Number | MOVLP1386 |

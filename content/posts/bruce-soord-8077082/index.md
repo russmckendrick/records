@@ -39,9 +39,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bruce-soord/1049319243" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bruce-soord/1049319243" >}}<br>
+
+
 ## Videos
 ### Bruce Soord - Familiar Patterns (from Bruce Soord)
 {{< youtube id="IYBB2iHfutE" title="Bruce Soord - Familiar Patterns (from Bruce Soord)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE915 |

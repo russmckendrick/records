@@ -41,9 +41,15 @@ Atom Heart Mother is the fifth studio album by the English band Pink Floyd. It w
 Although it was commercially successful on release, the band – particularly Roger Waters and David Gilmour – have expressed negative opinions of the album. "A really awful and embarrassing record," said Waters.A remastered CD was released in 1994 in the UK and the US, and again in 2011. Ron Geesin, who had influenced and collaborated with Waters, contributed to the title track and received a then-rare outside songwriting credit.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/atom-heart-mother/699606212" >}}
+{{< applemusic url="https://music.apple.com/gb/album/atom-heart-mother/699606212" >}}<br>
+
+
 ## Videos
 ### VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother
 {{< youtube id="0khlKK6bcb8" title="VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother" >}}<br>
@@ -58,8 +64,6 @@ Although it was commercially successful on release, the band – particularly Ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Atom_Heart_Mother |
-| Apple Music Summary | 1970 found Pink Floyd at their wildly experimental peak. Covering the first side of the original LP, the 23-minute instrumental title track is wonderfully grandiose, featuring some killer David Gilmour guitar solos and the band's first (and last) extensive use of orchestra and choir. Before the album ends with the quirky tape-loop-enhanced epic "Alan's Psychedelic Breakfast", a trio of remarkably lovely acoustic songs—highlighted by Roger Waters' delicately philosophical "If"—showcases the band's growing lyrical sophistication. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP5 |

@@ -46,9 +46,15 @@ styles: ["Alternative Rock"]
 
 Siamese Dream is the second studio album by American alternative rock band the Smashing Pumpkins, released on July 27, 1993, on Virgin Records. Despite recording sessions fraught with difficulties and tensions, Siamese Dream debuted at number ten on the Billboard 200, and was eventually certified 4× Platinum, with the album selling over six million copies worldwide, cementing the Smashing Pumpkins as a significant group in alternative music.
 Four singles were released in support of Siamese Dream: "Cherub Rock", "Today", "Disarm", and "Rocket". The album received widespread acclaim from critics and audiences alike, with the its musical influences and lyrical material standing out compared to other releases during the alternative rock and grunge movements of its time. The album has since been considered "one of the finest alternative rock albums", and is widely regarded as one of the greatest albums of the 1990s and of all time. Rolling Stone magazine has ranked it between numbers 341 and 362 on various iterations of their 500 Greatest Albums of All Time list.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/siamese-dream/721207206" >}}
+{{< applemusic url="https://music.apple.com/gb/album/siamese-dream/721207206" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,8 +64,6 @@ Four singles were released in support of Siamese Dream: "Cherub Rock", "Today", 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Siamese_Dream |
-| Apple Music Summary | Their debut album, <i>Gish</i>, established Smashing Pumpkins as a viable alternative rock band with arena rock potential, but <i>Siamese Dream</i> broke the gameplan wide open. From their earliest days, the Pumpkins had been a cauldron of heated emotions and demanding visions. Leader Billy Corgan took on most instrumental duties in order to recreate the sounds in his head. And with producer Butch Vig ready to capture the big rock sound that many alternative groups were shying away from, Corgan and Vig went about layering the guitars until the wall couldn’t be penetrated. None of this would mean much if not for powerful songwriting; “Cherub Rock”, “Quiet”, “Today” and “Geek U.S.A.” meshed the ‘90s-era underachiever vibe with the stadium sounds of classic rock bands. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 50999 67928 9 10 |

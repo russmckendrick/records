@@ -40,9 +40,12 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/leviathan/1566407448" >}}
+{{< applemusic url="https://music.apple.com/gb/album/leviathan/1566407448" >}}<br>
+
+
 ## Videos
 ### The Grid / Fripp - Empire
 {{< youtube id="pR9Ig8JhffE" title="The Grid / Fripp - Empire" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album (200g) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLPX102 |

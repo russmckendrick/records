@@ -52,7 +52,10 @@ styles: ["Drum n Bass", "Jungle"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Goldie - Inner City Life (Official Music Video)
 {{< youtube id="i-P98B2skts" title="Goldie - Inner City Life (Official Music Video)" >}}<br>
@@ -113,7 +116,6 @@ styles: ["Drum n Bass", "Jungle"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 3× LP Album Limited Edition Reissue (Gold) |
 | Label          | Metalheadz |
 | Catalog Number | LMS551367 |

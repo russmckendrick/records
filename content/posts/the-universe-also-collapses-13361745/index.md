@@ -35,9 +35,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-universe-also-collapses/1453425781" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-universe-also-collapses/1453425781" >}}<br>
+
+
 ## Videos
 ### Forever Reoccurring
 {{< youtube id="gyjBBUZ5cwE" title="Forever Reoccurring" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1039 |

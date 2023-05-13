@@ -1,7 +1,7 @@
 ---
 title: "The Time"
-summary: "Born in Minneapolis, the group featured keyboardist Harris, bassist , vocalist , keyboardist , guitarist , and drummer , all from two Twin Cities funk units, and \"Enterprise\". The band's first Warner Bros. album, 1981's The Time, was created almost single-handedly by , Day, who performed the lead vocals, and Johnson, who played some guitar. By 1982, the year of \"777-9311\", from '82 Warner Bros. album \"What Time Is It?\", the group had already established itself as one of the hottest bands working the live circuit. The original members reunited in 1990 for the album \"Pandemonium\" on Paisley Park label and released the single \"Jerk Out\". Despite expectations, the reunion only brought moderate success."
+summary: "The Time, also known as Morris Day and the Time and The Original 7ven, is an American musical group founded in Minneapolis in 1981. Their work has been a part of the formation of the Minneapolis sound, featuring a mix of soul music and dance music with funk, rock n roll, and more. Led by singer-songwriter Morris Day the band members are known for having been close Prince associates, and are arguably the most successful artists who have worked with Prince, achieving particular popularity with R&B fans with tracks such as \"The Bird\", \"Cool\", and \"Jungle Love\". Former members Jimmy Jam and Terry Lewis went on to a prominent production career after they left the band in 1983, while Day and guitarist Jesse Johnson recorded solo material in addition to their work with the Time."
 image: "the-time.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-time/166302"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_(band)"
 ---

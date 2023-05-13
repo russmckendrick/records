@@ -61,9 +61,12 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ad-astra/963146026" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ad-astra/963146026" >}}<br>
+
+
 ## Videos
 ### Spiritual beggars - Angel of betrayal
 {{< youtube id="Uf9UVqaBQI8" title="Spiritual beggars - Angel of betrayal" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Purple), CD Album Reissue |
 | Label          | Music For Nations |
 | Catalog Number | 88875088291 |

@@ -45,9 +45,15 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 <i>Harvest Moon</i> nods without subtlety to Neil’s star-making 1972 album, <i>Harvest</i>, in both its name and laidback, countrified sound. However, this is the sound of an old(er) man taking a look at his life and fighting to keep his heart of gold from fading to rust. With the softly swaying romantic title track, Neil delivers a wedding slow-dance for the ages, but on “From Hank to Hendrix” and “You and Me,” he addresses the struggles that beset every long-term union.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/harvest-moon/72796976" >}}
+{{< applemusic url="https://music.apple.com/gb/album/harvest-moon/72796976" >}}<br>
+
+
 ## Videos
 ### N̲eil Y̲o̲u̲n̲g - H̲arvest M̲o̲o̲n (Full Album)
 {{< youtube id="0x2woMlGHYM" title="N̲eil Y̲o̲u̲n̲g - H̲arvest M̲o̲o̲n (Full Album)" >}}<br>
@@ -60,8 +66,6 @@ styles: ["Folk Rock", "Country Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Harvest_Moon_(album) |
-| Wikipedia Summary | Harvest Moon is the 19th studio album by Canadian musician Neil Young, released on November 2, 1992. Many of its backing musicians also appeared on Young's 1972 album Harvest.<br><br> |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Limited Edition Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49107-8 |

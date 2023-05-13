@@ -41,9 +41,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/just-dropped-in-to-see-what-condition-my-rendition-was-in/1531719654" >}}
+{{< applemusic url="https://music.apple.com/gb/album/just-dropped-in-to-see-what-condition-my-rendition-was-in/1531719654" >}}<br>
+
+
 ## Videos
 ### Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)
 {{< youtube id="lWaKjzh0pFI" title="Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Stereo (Blue With Black Splatter) |
 | Label          | Daptone Records |
 | Catalog Number | DAP-066 |

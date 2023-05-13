@@ -48,7 +48,10 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Romeo Void - A Girl in Trouble (Is a Temporary Thing) (Video)
 {{< youtube id="o1TT0yVTlRg" title="Romeo Void - A Girl in Trouble (Is a Temporary Thing) (Video)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Sony Music |
 | Catalog Number | 88985431271 |

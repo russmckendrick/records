@@ -245,9 +245,14 @@ styles: ["Glam"]
 <!-- section break -->
 
 This expansive overview focuses on David Bowie's fertile breakthrough, kicking off with his haunting 1969 hit "Space Oddity" and including every studio album up to 1973's <i>Pin Ups</i>, his affectionate Swinging London homage. Tracks from the storming <i>Live Santa Monica '72</i> also showcase Bowie’s onstage reputation, as he balances rollicking workouts like the scuzzy “Hang on to Yourself” with poignant breathers like “Andy Warhol”, a moving acoustic guitar-led tribute from one pop icon to another.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/five-years-1969-1973/1016484169" >}}
+{{< applemusic url="https://music.apple.com/gb/album/five-years-1969-1973/1016484169" >}}<br>
+
+
 
 
 ## Release Images
@@ -256,8 +261,6 @@ This expansive overview focuses on David Bowie's fertile breakthrough, kicking o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | This expansive overview focuses on David Bowie's fertile breakthrough, kicking off with his haunting 1969 hit "Space Oddity" and including every studio album up to 1973's <i>Pin Ups</i>, his affectionate Swinging London homage. Tracks from the storming <i>Live Santa Monica '72</i> also showcase Bowie’s onstage reputation, as he balances rollicking workouts like the scuzzy “Hang on to Yourself” with poignant breathers like “Andy Warhol”, a moving acoustic guitar-led tribute from one pop icon to another. |
-| Release Year   | 2015                                   |
 | Format         | Box Set Compilation Limited Edition Remastered, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Compilation Stereo Mono |
 | Label          | Parlophone |
 | Catalog Number | 0825646284092 |

@@ -102,9 +102,15 @@ styles: ["Alternative Rock", "IDM", "Experimental"]
 <i>KID A MNESIA</i> isn’t just an occasion to revisit a pair of groundbreaking albums (2000’s <i>Kid A</i> and 2001’s <i>Amnesiac</i>), but a chance to hear a little of how Radiohead got there. Recording sessions were tough: Thom Yorke had writer’s block, and his new commitment to electronic music—or, at least, a turn away from conventional rock—left some of his bandmates wondering about their function and purpose. As guitarist Ed O’Brien once put it, he was a guitarist faced with a bunch of tracks that had no guitar.<br />
 At one point, producer Nigel Godrich split the band into two groups: one working with instruments in the main recording area, the other in a programming room processing sounds from next door, all under the condition that no acoustic instruments—guitars, drums, etc.—be used. The constraints opened doors: Not only did the band discover new ways of working (and, by extension, refresh their passion for music after years of unyielding pressure), but, in doing so, they shifted the template for what we think of when we think of a rock band, mixing the acoustic and the electronic (“Everything in Its Right Place”, “Like Spinning Plates”) and relatively straightforward tracks (“Optimistic”, “Pyramid Song”) with fragmentary, discursive ones (“Kid A”, “Pulk/Pull Revolving Doors”). <br />
 In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “Follow Me Around“) and future (the deconstructed, full-band sound of “If You Say the Word”), as well as versions of “Like Spinning Plates” and “Pulk/Pull Revolving Doors” that chart their evolution in real time. It’s a snapshot of a band taking step back from themselves and the way they worked, finding a way forward in the process.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}<br>
+
+
 
 
 ## Release Images
@@ -114,8 +120,6 @@ In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kid_A_Mnesia |
-| Wikipedia Summary | Kid A Mnesia is a reissue compiling the albums Kid A (2000) and Amnesiac (2001) by the English rock band Radiohead. It also includes a bonus disc, Kid Amnesiae, comprising previously unreleased material. It was released on 5 November 2021 on XL Recordings. <br>Kid A Mnesia was promoted with a campaign on the social network TikTok, followed by singles and music videos for the previously unreleased tracks "If You Say the Word" and "Follow Me Around". It was released to acclaim, though reaction to the bonus material was mixed. It entered the top 10 of several national album charts, and topped the UK Independent Albums Chart and the US Billboard Top Alternative Albums and Top Rock Albums charts. <br>Kid A Mnesia Exhibition, an interactive experience with music and artwork from the albums, was released in the same month for PlayStation 5, macOS and Windows.<br><br> |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (Cream), Vinyl LP Album Reissue (Cream), Vinyl LP Compilation (Cream), All Media Compilation Deluxe Edition Limited Edition (SCARRY Edition) |
 | Label          | XL Recordings |
 | Catalog Number | XL1166LPX |

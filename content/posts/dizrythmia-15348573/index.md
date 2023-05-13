@@ -32,9 +32,12 @@ styles: ["Pop Rock", "Art Rock", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}<br>
+
+
 ## Videos
 ### Split Enz - Sugar And Spice
 {{< youtube id="zt5tXIIrnW0" title="Split Enz - Sugar And Spice" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Pop Rock", "Art Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Red, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC539 |

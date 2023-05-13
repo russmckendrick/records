@@ -36,9 +36,12 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mass-hypnosis-and-the-dark-triad/1523722475" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mass-hypnosis-and-the-dark-triad/1523722475" >}}<br>
+
+
 ## Videos
 ### Bill Fisher - Celador (Official Music Video)
 {{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador (Official Music Video)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (Infinite Void Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 4 |

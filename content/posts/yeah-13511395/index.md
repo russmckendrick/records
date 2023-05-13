@@ -42,9 +42,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia and spring 2000 in the UK.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/yeah/270581696" >}}
+{{< applemusic url="https://music.apple.com/gb/album/yeah/270581696" >}}<br>
+
+
 ## Videos
 ### I Love Myself by The Wannadies (Album Yeah)
 {{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies (Album Yeah)" >}}<br>
@@ -59,8 +64,6 @@ Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yeah_(The_Wannadies_album) |
-| Wikipedia Summary | Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia and spring 2000 in the UK. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (Pink) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2304 |

@@ -34,9 +34,14 @@ styles: []
 <!-- section break -->
 
 Rosewood Almanac is the sixth studio album by American singer-songwriter Will Stratton. It was released on May 12, 2017 through Bella Union.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rosewood-almanac/1199406397" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rosewood-almanac/1199406397" >}}<br>
+
+
 ## Videos
 ### Vanishing Class
 {{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}<br>
@@ -51,8 +56,6 @@ Rosewood Almanac is the sixth studio album by American singer-songwriter Will St
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rosewood_Almanac |
-| Wikipedia Summary | Rosewood Almanac is the sixth studio album by American singer-songwriter Will Stratton. It was released on May 12, 2017 through Bella Union. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA616V |

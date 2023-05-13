@@ -46,7 +46,10 @@ styles: ["Country"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -55,7 +58,6 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Masters |
 | Catalog Number | MA 11121183 |

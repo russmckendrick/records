@@ -40,9 +40,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-is-changing/479864565" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-is-changing/479864565" >}}<br>
+
+
 ## Videos
 ### Everything Is Changing ~  Anneke Van Giersbergen ~ Everything Is Changing
 {{< youtube id="Gan5yrOagpc" title="Everything Is Changing ~  Anneke Van Giersbergen ~ Everything Is Changing" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-064LPPIC |

@@ -43,9 +43,14 @@ We Love Life is the seventh and final studio album by English rock band Pulp, re
 We Love Life saw positive critical reception and charted at number 6 on the UK album charts.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-love-life/1443378546" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we-love-life/1443378546" >}}<br>
+
+
 ## Videos
 ### Weeds
 {{< youtube id="kpdcSgqIsVc" title="Weeds" >}}<br>
@@ -85,8 +90,6 @@ We Love Life saw positive critical reception and charted at number 6 on the UK a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Love_Life |
-| Wikipedia Summary | We Love Life is the seventh and final studio album by English rock band Pulp, released on 22 October 2001 by Island Records. It reached number six on the UK Albums Chart, with a total chart stay of only three weeks. Written and recorded after the tumultuous sessions for This Is Hardcore, We Love Life saw the band move toward a more relaxed and natural sound, shepherded by producer Scott Walker. Walker had replaced original producer Chris Thomas, whom the band had worked with on previous albums.<br>We Love Life saw positive critical reception and charted at number 6 on the UK album charts.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785290 |

@@ -47,9 +47,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stop/1443915889" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stop/1443915889" >}}<br>
+
+
 ## Videos
 ### Walking Back To Me
 {{< youtube id="hTOBlrWzT0o" title="Walking Back To Me" >}}<br>
@@ -74,7 +77,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | Ama 5195 |

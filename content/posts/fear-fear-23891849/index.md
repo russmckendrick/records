@@ -38,9 +38,12 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fear-fear/1607961392" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fear-fear/1607961392" >}}<br>
+
+
 ## Videos
 ### Working Men's Club - Widow (Official Video)
 {{< youtube id="A5quA4GrzQ0" title="Working Men's Club - Widow (Official Video)" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP203C |

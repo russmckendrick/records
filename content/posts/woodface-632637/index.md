@@ -43,9 +43,15 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Woodface is the third studio album by New Zealand-Australian band Crowded House. The album was produced by Mitchell Froom and Neil Finn and was released by Capitol in July 1991. It features five singles "Chocolate Cake", "Fall at Your Feet", "It's Only Natural", "Weather with You", and "Four Seasons in One Day". Woodface was a major hit in Australia and New Zealand as well as giving the band their first top ten hit album in the UK. It was listed at No. 3 in the book 100 Best Australian Albums in October 2010. It was voted number 80 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/woodface/724471916" >}}
+{{< applemusic url="https://music.apple.com/gb/album/woodface/724471916" >}}<br>
+
+
 ## Videos
 ### Crowded House — Chocolate cake (subtitulada).
 {{< youtube id="e4Huvbcjo7A" title="Crowded House — Chocolate cake (subtitulada)." >}}<br>
@@ -72,8 +78,6 @@ Woodface is the third studio album by New Zealand-Australian band Crowded House.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Woodface |
-| Apple Music Summary | Neil Finn didn’t create Crowded House’s third and most rewarding album on his own, instead co-writing this lushly adventurous set with his brother (and former Split Enz foil) Tim. <i>Woodface</i> follows the lead of The Beatles and Beach Boys at their most psychedelic, expanding pop music’s range with bold sonic and lyrical details. While “Fall at Your Feet” is a timeless ballad as good as any found on the band’s hit-stacked 1986 debut, <i>Woodface</i>’s stranger turns foretell the proliferation of dreamy, obtuse indie rock. Every song is a layer cake of mesmerising melodies. |
-    | Release Year   | 2000                                   |
 | Format         | Vinyl LP Reissue (180g) |
 | Label          | Simply Vinyl |
 | Catalog Number | SVLP 240 |

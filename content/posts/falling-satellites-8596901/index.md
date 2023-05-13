@@ -52,9 +52,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/falling-satellites/1102992919" >}}
+{{< applemusic url="https://music.apple.com/gb/album/falling-satellites/1102992919" >}}<br>
+
+
 ## Videos
 ### FROST* - Numbers (OFFICIAL VIDEO)
 {{< youtube id="exnCIi-MLkc" title="FROST* - Numbers (OFFICIAL VIDEO)" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album (180 g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 450 |

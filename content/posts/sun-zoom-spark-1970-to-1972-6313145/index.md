@@ -87,7 +87,10 @@ styles: ["Blues Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Captain Beefheart - The Witch Doctor Life (Instrumental Take)
 {{< youtube id="xySrfIPz4Hc" title="Captain Beefheart - The Witch Doctor Life (Instrumental Take)" >}}<br>
@@ -101,7 +104,6 @@ styles: ["Blues Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram), Vinyl LP Album Reissue (180 Gram), Vinyl LP Album Reissue (180 Gram), Vinyl LP (180 Gram), Box Set Compilation Limited Edition Remastered |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 541728 |

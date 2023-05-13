@@ -53,7 +53,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de
 {{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de" >}}<br>
@@ -65,7 +68,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
 | Label          | Universal Music Group International |
 | Catalog Number | 0600753629734 |

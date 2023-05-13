@@ -36,9 +36,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-flash-of-darkness/1152562936" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-flash-of-darkness/1152562936" >}}<br>
+
+
 ## Videos
 ### A Flash of Darkness
 {{< youtube id="aSwZUI8ETZ8" title="A Flash of Darkness" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP346 |

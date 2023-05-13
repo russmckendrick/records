@@ -37,9 +37,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/symbiosis/1604277526" >}}
+{{< applemusic url="https://music.apple.com/gb/album/symbiosis/1604277526" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Sky Blue/Teal Marbled) |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |

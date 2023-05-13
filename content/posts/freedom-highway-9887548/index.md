@@ -42,9 +42,14 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 <!-- section break -->
 
 Freedom Highway is the second solo studio album of Folk/Americana musician and Carolina Chocolate Drops front woman Rhiannon Giddens. It was released via Nonesuch Records on February 24, 2017. Freedom Highway was nominated for Album of the Year at the 2017 Americana Music Honors & Awards. The title track "Freedom Highway" is a 1965 civil rights protest song written by Roebuck Staples and title track of The Staple Singers' album of the same name.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/freedom-highway/1179556528" >}}
+{{< applemusic url="https://music.apple.com/gb/album/freedom-highway/1179556528" >}}<br>
+
+
 ## Videos
 ### Rhiannon Giddens - At The Purchaser's Option
 {{< youtube id="6vy9xTS0QxM" title="Rhiannon Giddens - At The Purchaser's Option" >}}<br>
@@ -69,8 +74,6 @@ Freedom Highway is the second solo studio album of Folk/Americana musician and C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Freedom_Highway_(Rhiannon_Giddens_album) |
-| Wikipedia Summary | Freedom Highway is the second solo studio album of Folk/Americana musician and Carolina Chocolate Drops front woman Rhiannon Giddens. It was released via Nonesuch Records on February 24, 2017. Freedom Highway was nominated for Album of the Year at the 2017 Americana Music Honors & Awards. The title track "Freedom Highway" is a 1965 civil rights protest song written by Roebuck Staples and title track of The Staple Singers' album of the same name. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Nonesuch |
 | Catalog Number | 558805-1 |

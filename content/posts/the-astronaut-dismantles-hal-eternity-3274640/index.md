@@ -39,7 +39,10 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× 12" EP Compilation Limited Edition Numbered Reissue |
 | Label          | Not On Label (Amplifier (3) Self-released) |
 | Catalog Number | none |

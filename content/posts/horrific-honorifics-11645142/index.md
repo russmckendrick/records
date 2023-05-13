@@ -35,9 +35,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/horrific-honorifics-feat-crippled-black-phoenix/1331662196" >}}
+{{< applemusic url="https://music.apple.com/gb/album/horrific-honorifics-feat-crippled-black-phoenix/1331662196" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix -  False Spring
 {{< youtube id="0rYN9uTYn3c" title="Crippled Black Phoenix -  False Spring" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Limited Edition (Silver) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 434LP |

@@ -86,7 +86,10 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -95,7 +98,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Deluxe Edition, Vinyl LP Album Reissue (Clear), Vinyl LP Album Reissue (Gold), Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Reissue (Disc 1 Blue, Disc 2 Grey) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX30 |

@@ -55,9 +55,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/butterfly-mind/1613781394" >}}
+{{< applemusic url="https://music.apple.com/gb/album/butterfly-mind/1613781394" >}}<br>
+
+
 ## Videos
 ### TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)
 {{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Stereo (Green [Transparent], 180g), CD Album Stereo, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOM633 |

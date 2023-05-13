@@ -39,9 +39,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1536988611" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1536988611" >}}<br>
+
+
 ## Videos
 ### Traitor
 {{< youtube id="xAb5-GDu3uE" title="Traitor" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Pink) |
 | Label          | One Little Independent Records |
 | Catalog Number | tplp5 |

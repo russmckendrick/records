@@ -58,9 +58,14 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 This article is a discography of American rock musician Todd Rundgren.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-todd-rundgren/107636259" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-todd-rundgren/107636259" >}}<br>
+
+
 ## Videos
 ### Todd Rundgren - Todd (Full Album 1974)
 {{< youtube id="7X_HQXfyLVQ" title="Todd Rundgren - Todd (Full Album 1974)" >}}<br>
@@ -73,8 +78,6 @@ This article is a discography of American rock musician Todd Rundgren.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Todd_Rundgren_discography |
-| Wikipedia Summary | This article is a discography of American rock musician Todd Rundgren. |
-| Release Year   | 1974                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Bearsville |
 | Catalog Number | 2 BR 6952 |

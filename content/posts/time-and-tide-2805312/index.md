@@ -64,9 +64,15 @@ styles: ["New Wave", "Pop Rock"]
 
 Time and Tide is the eighth album by the New Zealand new wave band Split Enz, released in April 1982. It topped the album charts in New Zealand and Australia.
 At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Australian Album, despite being a New Zealand album.The album was re-released in 2006 along with all of Split Enz's studio album catalogue. Some albums were rearranged, reordered or adjusted; Time and Tide, however, was left unchanged.
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="5wMlZOCdi80meEY3mCbc8S" width="100%" height="500" >}}
+{{< spotify type="album" id="5wMlZOCdi80meEY3mCbc8S" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY
 {{< youtube id="Nv1IjVbPbHs" title="Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY" >}}<br>
@@ -93,8 +99,6 @@ At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Aust
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time_and_Tide_(Split_Enz_album) |
-| Wikipedia Summary | Time and Tide is the eighth album by the New Zealand new wave band Split Enz, released in April 1982. It topped the album charts in New Zealand and Australia.<br>At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Australian Album, despite being a New Zealand album.The album was re-released in 2006 along with all of Split Enz's studio album catalogue. Some albums were rearranged, reordered or adjusted; Time and Tide, however, was left unchanged. |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album, Vinyl LP Album Repress |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64894 |

@@ -47,9 +47,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sorceress/1138402841" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sorceress/1138402841" >}}<br>
+
+
 ## Videos
 ### OPETH - Era (OFFICIAL VIDEO)
 {{< youtube id="98wXIjkO4i0" title="OPETH - Era (OFFICIAL VIDEO)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 3822-1 |

@@ -35,9 +35,14 @@ styles: ["Stoner Rock"]
 <!-- section break -->
 
 Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner metal on their landmark album, <i>Sleep’s Holy Mountain</i>. The power trio’s lumbering chugs wander through prehistoric landscapes covered in mountains of fuzz and whirling vocal effects (“Dragonaut”) and continue into shadowy nether realms wherein monk-like chants ride throbbing, meditative riffs (“From Beyond”). Subtle yet incredibly potent doses of blues and funk pop up all over, giving jams like the hazy, psychedelic “Aquarian” a slow and shaggy swing.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sleeps-holy-mountain/43359181" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sleeps-holy-mountain/43359181" >}}<br>
+
+
 ## Videos
 ### Sleep - Dragonaut [Official Video]
 {{< youtube id="qMIS2BaDilY" title="Sleep - Dragonaut [Official Video]" >}}<br>
@@ -59,8 +64,6 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner metal on their landmark album, <i>Sleep’s Holy Mountain</i>. The power trio’s lumbering chugs wander through prehistoric landscapes covered in mountains of fuzz and whirling vocal effects (“Dragonaut”) and continue into shadowy nether realms wherein monk-like chants ride throbbing, meditative riffs (“From Beyond”). Subtle yet incredibly potent doses of blues and funk pop up all over, giving jams like the hazy, psychedelic “Aquarian” a slow and shaggy swing. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Earache |
 | Catalog Number | MOSH079FDR |

@@ -40,9 +40,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 There are no winners in <i>Nebraska</i>—a bleak sonic landscape where America’s dispossessed are ground into dust by social forces beyond their control. There’s the drifting murderer of the title track; a child whose family slaves away beneath a “Mansion On the Hill”; and a hard-luck guy forced to kill for the mob in “Atlantic City”. Springsteen’s darkest record is also his sparest: just voice and guitar lost in a sea of lonely reverb. There's an almost bone-chilling starkness to these songs, but they're deeply moving too.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nebraska/185798980" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nebraska/185798980" >}}<br>
+
+
 ## Videos
 ### Nebraska
 {{< youtube id="hCpL_ImsiDo" title="Nebraska" >}}<br>
@@ -64,8 +69,6 @@ There are no winners in <i>Nebraska</i>—a bleak sonic landscape where America�
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | There are no winners in <i>Nebraska</i>—a bleak sonic landscape where America’s dispossessed are ground into dust by social forces beyond their control. There’s the drifting murderer of the title track; a child whose family slaves away beneath a “Mansion On the Hill”; and a hard-luck guy forced to kill for the mob in “Atlantic City”. Springsteen’s darkest record is also his sparest: just voice and guitar lost in a sea of lonely reverb. There's an almost bone-chilling starkness to these songs, but they're deeply moving too. |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 25100 |

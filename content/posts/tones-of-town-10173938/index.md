@@ -37,9 +37,14 @@ styles: ["Pop Rock", "Indie Rock"]
 <!-- section break -->
 
 Tones of Town is the second studio album by indie rock band Field Music. It was released on 22 January 2007. "In Context" (w/b 'Off & On'), "A House Is Not a Home" (w/b 'Logic') and "She Can Do What She Wants" (w/b 'Sit Tighter', an alternate version of 'Sit Tight') were released as singles.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tones-of-town/210355490" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tones-of-town/210355490" >}}<br>
+
+
 ## Videos
 ### Field Music - In Context
 {{< youtube id="DBqx9Tpmj-U" title="Field Music - In Context" >}}<br>
@@ -54,8 +59,6 @@ Tones of Town is the second studio album by indie rock band Field Music. It was 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tones_of_Town |
-| Wikipedia Summary | Tones of Town is the second studio album by indie rock band Field Music. It was released on 22 January 2007. "In Context" (w/b 'Off & On'), "A House Is Not a Home" (w/b 'Logic') and "She Can Do What She Wants" (w/b 'Sit Tighter', an alternate version of 'Sit Tight') were released as singles. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
 | Label          | Memphis Industries |
 | Catalog Number | MI074LPX |

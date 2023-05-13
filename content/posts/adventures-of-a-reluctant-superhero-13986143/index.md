@@ -42,9 +42,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/adventures-of-a-reluctant-superhero/1470643068" >}}
+{{< applemusic url="https://music.apple.com/gb/album/adventures-of-a-reluctant-superhero/1470643068" >}}<br>
+
+
 ## Videos
 ### Stay Tuned - Chali 2na and Krafty Kuts
 {{< youtube id="Zzs5wXa3-Jk" title="Stay Tuned - Chali 2na and Krafty Kuts" >}}<br>
@@ -73,7 +76,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP |
 | Label          | Manphibian Music |
 | Catalog Number | MANP 001LP |

@@ -46,7 +46,10 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Magenta - The Twenty Seven Club PROMO
 {{< youtube id="yidfGKTVtdo" title="Magenta - The Twenty Seven Club PROMO" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG018 |

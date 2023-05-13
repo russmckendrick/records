@@ -36,9 +36,13 @@ styles: ["Cha-Cha"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}
+{{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Chat Cha Cha
 {{< youtube id="LL6NYx_5s0o" title="Chat Cha Cha" >}}<br>
@@ -70,7 +74,6 @@ styles: ["Cha-Cha"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1964                                   |
 | Format         | Vinyl LP |
 | Label          | Allegro Records |
 | Catalog Number | ALL734 |

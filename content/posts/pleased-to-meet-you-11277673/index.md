@@ -49,9 +49,14 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 
 Pleased to Meet You is the ninth studio album by English rock band James. Less than a year after the release of Millionaires (1999), the band were playing new material live. Recording was split between Ridge Farm, Whitfield St., House in the Woods studios; producer credit was split between Brian Eno, guitarist/violinist Saul Davies, KK and the band. "Getting Away with It (All Messed Up)" was released as a single in late June, followed a week later by Pleased to Meet You on 2 July through Mercury Records.
 The front cover features a composite image of all the band members' faces. Pleased to Meet You reached number 11 on the UK album chart, and was certified silver by the BPI. Lead single "Getting Away with It (All Messed Up)" reached number 22 on the UK singles chart. The record received a mainly favourable response from music critics. It was promoted with an appearance on Top of the Pops and various festivals across three months in the UK, Spain and Portugal. Vocalist Tim Booth left the band after their December UK tour; the final show of which was released as the Getting Away with It...Live live/video album in early 2002.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pleased-to-meet-you/1442647986" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pleased-to-meet-you/1442647986" >}}<br>
+
+
 ## Videos
 ### James - Getting Away With It (All Messed Up)
 {{< youtube id="Io2Cl1u5gmU" title="James - Getting Away With It (All Messed Up)" >}}<br>
@@ -69,8 +74,6 @@ The front cover features a composite image of all the band members' faces. Pleas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pleased_to_Meet_You_(James_album) |
-| Wikipedia Summary | Pleased to Meet You is the ninth studio album by English rock band James. Less than a year after the release of Millionaires (1999), the band were playing new material live. Recording was split between Ridge Farm, Whitfield St., House in the Woods studios; producer credit was split between Brian Eno, guitarist/violinist Saul Davies, KK and the band. "Getting Away with It (All Messed Up)" was released as a single in late June, followed a week later by Pleased to Meet You on 2 July through Mercury Records.<br>The front cover features a composite image of all the band members' faces. Pleased to Meet You reached number 11 on the UK album chart, and was certified silver by the BPI. Lead single "Getting Away with It (All Messed Up)" reached number 22 on the UK singles chart. The record received a mainly favourable response from music critics. It was promoted with an appearance on Top of the Pops and various festivals across three months in the UK, Spain and Portugal. Vocalist Tim Booth left the band after their December UK tour; the final show of which was released as the Getting Away with It...Live live/video album in early 2002. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 5712915 |

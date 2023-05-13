@@ -48,9 +48,14 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 <!-- section break -->
 
 The Eight Legged Groove Machine is the debut album by the Wonder Stuff from August 1988.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-eight-legged-groove-machine-remastered/1444101451" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-eight-legged-groove-machine-remastered/1444101451" >}}<br>
+
+
 ## Videos
 ### The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]
 {{< youtube id="dm1aYGFhceA" title="The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]" >}}<br>
@@ -81,8 +86,6 @@ The Eight Legged Groove Machine is the debut album by the Wonder Stuff from Augu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Eight_Legged_Groove_Machine |
-| Wikipedia Summary | The Eight Legged Groove Machine is the debut album by the Wonder Stuff from August 1988. |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | The Far Out Recording Company |
 | Catalog Number | GONLP 1 |

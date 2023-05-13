@@ -36,9 +36,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/architecture-morality/714757729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/architecture-morality/714757729" >}}<br>
+
+
 ## Videos
 ### Orchestral Manoeuvres In The Dark - Souvenir
 {{< youtube id="XDIYOiQUi2s" title="Orchestral Manoeuvres In The Dark - Souvenir" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 0602557050820 |

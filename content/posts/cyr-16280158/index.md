@@ -50,9 +50,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cyr/1663124222" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cyr/1663124222" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +67,6 @@ Cyr is the eleventh studio album by American alternative rock band the Smashing 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cyr_(album) |
-| Wikipedia Summary | Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Pink [Baby]) |
 | Label          | Sumerian Records |
 | Catalog Number | SUM1397 |

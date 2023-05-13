@@ -61,9 +61,14 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven Wilson. The album was released on 27 February 2015 through Kscope.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hand-cannot-erase-deluxe-edition/947842870" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hand-cannot-erase-deluxe-edition/947842870" >}}<br>
+
+
 ## Videos
 ### Steven Wilson - Perfect Life
 {{< youtube id="gOU_zWdhAoE" title="Steven Wilson - Perfect Life" >}}<br>
@@ -78,8 +83,6 @@ Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hand._Cannot._Erase. |
-| Wikipedia Summary | Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven Wilson. The album was released on 27 February 2015 through Kscope. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE875 |

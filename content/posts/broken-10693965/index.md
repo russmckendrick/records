@@ -52,9 +52,14 @@ styles: ["Industrial", "Industrial Metal"]
 Broken is the first extended play (EP) and second major release by American industrial rock band Nine Inch Nails. It was released on September 22, 1992, by Nothing, TVT, and Interscope Records. The EP was produced by frontman Trent Reznor and Flood.
 The release consists entirely of new material and replaces the synth-pop style of the band's 1989 debut album Pretty Hate Machine with a considerably heavier sound that would act as a precursor to their second album The Downward Spiral (1994). Its lyrical themes are in line with those of their succeeding work. The record was promoted with music videos for five of the eight songs which were censored due to their violent content, as well as a short film of the same name, which was never officially released, but was later leaked as a bootleg.
 Although it was derided by some critics for its lyrical content, Broken also received positive reviews from critics and reached number seven on the US Billboard 200, eventually receiving a platinum certification from the Recording Industry Association of America (RIAA). The recording helped to propel Nine Inch Nails into mainstream popularity, and later received two Grammy Awards (both for Best Metal Performance) for the songs "Wish" and "Happiness in Slavery".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/broken-ep/1440743805" >}}
+{{< applemusic url="https://music.apple.com/gb/album/broken-ep/1440743805" >}}<br>
+
+
 ## Videos
 ### Nine Inch Nails - Pinion
 {{< youtube id="XfW0ke4bwI4" title="Nine Inch Nails - Pinion" >}}<br>
@@ -71,8 +76,6 @@ Although it was derided by some critics for its lyrical content, Broken also rec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Broken_(Nine_Inch_Nails_EP) |
-| Wikipedia Summary | Broken is the first extended play (EP) and second major release by American industrial rock band Nine Inch Nails. It was released on September 22, 1992, by Nothing, TVT, and Interscope Records. The EP was produced by frontman Trent Reznor and Flood.<br>The release consists entirely of new material and replaces the synth-pop style of the band's 1989 debut album Pretty Hate Machine with a considerably heavier sound that would act as a precursor to their second album The Downward Spiral (1994). Its lyrical themes are in line with those of their succeeding work. The record was promoted with music videos for five of the eight songs which were censored due to their violent content, as well as a short film of the same name, which was never officially released, but was later leaked as a bootleg.<br>Although it was derided by some critics for its lyrical content, Broken also received positive reviews from critics and reached number seven on the US Billboard 200, eventually receiving a platinum certification from the Recording Industry Association of America (RIAA). The recording helped to propel Nine Inch Nails into mainstream popularity, and later received two Grammy Awards (both for Best Metal Performance) for the songs "Wish" and "Happiness in Slavery". |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided Mini-Album Etched (180g), Vinyl 7" 45 RPM, All Media Reissue Remastered Stereo (Definitive Edition) |
 | Label          | Nothing Records |
 | Catalog Number | B0025684-01 |

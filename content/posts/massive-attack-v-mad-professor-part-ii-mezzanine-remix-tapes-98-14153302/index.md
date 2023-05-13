@@ -38,7 +38,10 @@ styles: ["Dub", "Trip Hop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Dub", "Trip Hop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink Transparent) |
 | Label          | UMC |
 | Catalog Number | 00602508137853 |

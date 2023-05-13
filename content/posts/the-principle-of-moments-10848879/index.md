@@ -42,9 +42,15 @@ Like Plant's debut solo studio album, Pictures at Eleven (1982), the songs depar
 Rhino Entertainment released a remastered edition of the album, with bonus tracks, on 3 April 2007.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739" >}}<br>
+
+
 ## Videos
 ### Robert Plant - Big Log (Official Video) [HD REMASTERED]
 {{< youtube id="FxSsol3Zd7k" title="Robert Plant - Big Log (Official Video) [HD REMASTERED]" >}}<br>
@@ -67,8 +73,6 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Principle_of_Moments |
-| Apple Music Summary | For his second solo album following the dissolution of Led Zeppelin in 1980, Robert Plant teamed up with Phil Collins and other musicians to reinvent himself with a thrilling mix of new-age synths and prog rock. The mood is heady on “Big Log,” Plant cooing and moaning over twilit guitar twang. “Thru’ With the Two Step” sounds like a blues jam from Mars with its Brian Eno-esque electronic intro, while the off-kilter rock rhythm of “In the Mood” harks back to Plant’s Zeppelin days. |
-    | Release Year   | 1983                                   |
 | Format         | Vinyl LP Album |
 | Label          | Es Paranza Records |
 | Catalog Number | 79-0101-1 |

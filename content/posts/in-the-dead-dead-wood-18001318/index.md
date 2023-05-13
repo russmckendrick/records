@@ -39,9 +39,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-dead-dead-wood/1574731572" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-the-dead-dead-wood/1574731572" >}}<br>
+
+
 ## Videos
 ### VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)
 {{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)" >}}<br>
@@ -53,7 +56,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Clear w/ Black Blob [Silhouette]) |
 | Label          | Not On Label (Vennart Self-released) |
 | Catalog Number | none |

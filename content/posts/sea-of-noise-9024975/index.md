@@ -38,9 +38,14 @@ styles: ["Rhythm & Blues", "Soul"]
 <!-- section break -->
 
 While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '60s soul-indebted sound that made their debut such a revelation, it moves in some new directions too. There are more overtly funky grooves this time around, like the ones on the Curtis Mayfield-flavored "Flow with It (You Got Me Feeling Like)" and the postmodern good-foot grabber "Midnight on the Earth." But there's also a distinct inching toward indie pop, as on the rocker "La Bruit" and the outsized, orchestrated "Brain Matter."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sea-of-noise/1123180012" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sea-of-noise/1123180012" >}}<br>
+
+
 ## Videos
 ### St Paul & The Broken Bones  -  Sanctify
 {{< youtube id="_XqQsKxiKT0" title="St Paul & The Broken Bones  -  Sanctify" >}}<br>
@@ -57,8 +62,6 @@ While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '60s soul-indebted sound that made their debut such a revelation, it moves in some new directions too. There are more overtly funky grooves this time around, like the ones on the Curtis Mayfield-flavored "Flow with It (You Got Me Feeling Like)" and the postmodern good-foot grabber "Midnight on the Earth." But there's also a distinct inching toward indie pop, as on the rocker "La Bruit" and the outsized, orchestrated "Brain Matter." |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | RECORDS Label, LLC |
 | Catalog Number | REC006 |

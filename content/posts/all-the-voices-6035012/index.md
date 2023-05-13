@@ -185,9 +185,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-my-exs-live-in-texas-the-voice-performance-single/1568940699" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-my-exs-live-in-texas-the-voice-performance-single/1568940699" >}}<br>
+
+
 
 
 ## Release Images
@@ -196,7 +199,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
 | Label          | Universal Music Group International |
 | Catalog Number | 0602537778867 |

@@ -48,9 +48,12 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ciao-best-of-lush/310996586" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ciao-best-of-lush/310996586" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,7 +62,6 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red) |
 | Label          | 4AD |
 | Catalog Number | CAD 2K22 |

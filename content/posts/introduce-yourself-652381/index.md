@@ -39,9 +39,14 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 <!-- section break -->
 
 Introduce Yourself is Faith No More's second studio album, released in 1987. Due to the limited availability of the first album, We Care a Lot (until it was re-released on CD years later), many, including the band, once considered this Faith No More's true debut album. Being the group's major label debut, this album features better production than its predecessor, which is most evident on this album's version of the song "We Care a Lot," which also features updated, more topical, lyrics. It was the last album Chuck Mosley appeared on with the band.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/introduce-yourself/63819537" >}}
+{{< applemusic url="https://music.apple.com/gb/album/introduce-yourself/63819537" >}}<br>
+
+
 ## Videos
 ### Faster Disco
 {{< youtube id="x-AhE32UPw8" title="Faster Disco" >}}<br>
@@ -64,8 +69,6 @@ Introduce Yourself is Faith No More's second studio album, released in 1987. Due
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Introduce_Yourself |
-| Wikipedia Summary | Introduce Yourself is Faith No More's second studio album, released in 1987. Due to the limited availability of the first album, We Care a Lot (until it was re-released on CD years later), many, including the band, once considered this Faith No More's true debut album. Being the group's major label debut, this album features better production than its predecessor, which is most evident on this album's version of the song "We Care a Lot," which also features updated, more topical, lyrics. It was the last album Chuck Mosley appeared on with the band. |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album |
 | Label          | Slash |
 | Catalog Number | 25559-1 |

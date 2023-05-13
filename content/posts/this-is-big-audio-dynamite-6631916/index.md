@@ -37,9 +37,12 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-is-big-audio-dynamite/192786175" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-is-big-audio-dynamite/192786175" >}}<br>
+
+
 ## Videos
 ### Big Audio Dynamite - Medicine Show
 {{< youtube id="BD2kWCfTcaU" title="Big Audio Dynamite - Medicine Show" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album (No Barcode) |
 | Label          | CBS |
 | Catalog Number | CBS 26714 |

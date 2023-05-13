@@ -60,9 +60,13 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="29HIscCMZKDTvGBWOQgbyf" width="100%" height="500" >}}
+{{< spotify type="album" id="29HIscCMZKDTvGBWOQgbyf" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75
 {{< youtube id="e_W-I5LKiBY" title="Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75" >}}<br>
@@ -100,7 +104,6 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 4× LP Album Repress |
 | Label          | Columbia |
 | Catalog Number | 88985441551 |

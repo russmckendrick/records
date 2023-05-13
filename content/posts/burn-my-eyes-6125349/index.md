@@ -39,9 +39,14 @@ styles: ["Thrash", "Heavy Metal"]
 Burn My Eyes is the debut studio album by American heavy metal band Machine Head, released on August 9, 1994, by Roadrunner Records. The album's themes generally tie into the social disorder and corresponding inner tension that the band was exposed to in their native Oakland, California, reflected in Robb Flynn's lyrics, such as the Los Angeles Riots of 1992 and the Waco Siege of 1993. The album's title alludes to the third part of the phrase, "Burn my eyes and try to blind me" during the breakdown of "Old". The album shipped over 400,000 copies worldwide, becoming Roadrunner Records's best selling debut album until the release of Slipknot's self-titled debut album. This is Machine Head's only studio album to feature drummer Chris Kontos.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/burn-my-eyes/214477654" >}}
+{{< applemusic url="https://music.apple.com/gb/album/burn-my-eyes/214477654" >}}<br>
+
+
 ## Videos
 ### Machine Head - Old [OFFICIAL VIDEO]
 {{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}<br>
@@ -67,8 +72,6 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Burn_My_Eyes |
-| Wikipedia Summary | Burn My Eyes is the debut studio album by American heavy metal band Machine Head, released on August 9, 1994, by Roadrunner Records. The album's themes generally tie into the social disorder and corresponding inner tension that the band was exposed to in their native Oakland, California, reflected in Robb Flynn's lyrics, such as the Los Angeles Riots of 1992 and the Waco Siege of 1993. The album's title alludes to the third part of the phrase, "Burn my eyes and try to blind me" during the breakdown of "Old". The album shipped over 400,000 copies worldwide, becoming Roadrunner Records's best selling debut album until the release of Slipknot's self-titled debut album. This is Machine Head's only studio album to feature drummer Chris Kontos.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (Gold Transparent) |
 | Label          | Metal Blade Records |
 | Catalog Number | 3984-15313-1 |

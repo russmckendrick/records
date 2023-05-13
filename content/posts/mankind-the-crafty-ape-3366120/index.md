@@ -53,9 +53,12 @@ styles: ["Post Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mankind-the-crafty-ape/1600467205" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mankind-the-crafty-ape/1600467205" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - The Heart Of Every Country (album version)
 {{< youtube id="SLiR_MT6toQ" title="Crippled Black Phoenix - The Heart Of Every Country (album version)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7360 1 |

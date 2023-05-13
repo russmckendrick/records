@@ -68,9 +68,12 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291" >}}<br>
+
+
 
 
 ## Release Images
@@ -79,7 +82,6 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Clear, 180 gram, 30th Anniversary Edition) |
 | Label          | UMC |
 | Catalog Number | 0602508538506 |

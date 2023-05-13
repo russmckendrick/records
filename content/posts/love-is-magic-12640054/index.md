@@ -51,9 +51,14 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 Love Is Magic is the fourth studio album by American musician John Grant. It was released via Bella Union on October 12, 2018.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-is-magic/1407828339" >}}
+{{< applemusic url="https://music.apple.com/gb/album/love-is-magic/1407828339" >}}<br>
+
+
 ## Videos
 ### John Grant - Love Is Magic (OFFICIAL VIDEO)
 {{< youtube id="-qtTidRF2V0" title="John Grant - Love Is Magic (OFFICIAL VIDEO)" >}}<br>
@@ -72,8 +77,6 @@ Love Is Magic is the fourth studio album by American musician John Grant. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_Is_Magic |
-| Wikipedia Summary | Love Is Magic is the fourth studio album by American musician John Grant. It was released via Bella Union on October 12, 2018.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition (Clear) |
 | Label          | Bella Union |
 | Catalog Number | BELLA825V |

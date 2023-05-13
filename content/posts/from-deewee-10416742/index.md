@@ -54,9 +54,15 @@ styles: ["Electro", "Synth-pop", "Disco"]
 
 From Deewee (stylized as FROM DEEWEE) is the fourth studio album by Belgian electronic music duo Soulwax, released on 24 March 2017. With a length of 48 minutes, the album was recorded in one take by the Dewaele brothers along with three drummers. Besides the normal members of Soulwax, there is Laima Leyton on keys, Igor Cavalera, Blake Davies and Victoria Smith on drums. The first single from the album was "Transient Program for Drums and Machinery".
 The concept for the album was taken from Transient Program For Drums and Machinery, a live show they did in 2016.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/from-deewee/1202928741" >}}
+{{< applemusic url="https://music.apple.com/gb/album/from-deewee/1202928741" >}}<br>
+
+
 ## Videos
 ### Masterplanned
 {{< youtube id="pdcbDkrBVaY" title="Masterplanned" >}}<br>
@@ -78,8 +84,6 @@ The concept for the album was taken from Transient Program For Drums and Machine
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/From_Deewee |
-| Apple Music Summary | After leaving Soulwax (the band) dormant for well over a decade, it feels fitting that the Dewaele brothers resurrect their original guise with a subversive, one-take electronic blitz. <i>FROM DEEWEE</i> is a combative record, rigid with taut drums, hypnotic synths, and a deliciously portentous mood. “Conditions of a Shared Belief,” “Is It Always Binary,” and “My Tired Eyes” are highlights, but this is meticulously engineered to be enjoyed as one relentless thrill ride. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP (White), Vinyl 12" 33 ⅓ RPM 45 RPM, All Media Album Limited Edition |
 | Label          | [pias] |
 | Catalog Number | PIASR950DLPX |

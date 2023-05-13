@@ -42,9 +42,12 @@ styles: ["Noise"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/darklands/164392139" >}}
+{{< applemusic url="https://music.apple.com/gb/album/darklands/164392139" >}}<br>
+
+
 ## Videos
 ### The Jesus And Mary Chain - Just Like Honey (Official Music Video)
 {{< youtube id="7EgB__YratE" title="The Jesus And Mary Chain - Just Like Honey (Official Music Video)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Noise"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | Blanco Y Negro |
 | Catalog Number | BYN 7 |

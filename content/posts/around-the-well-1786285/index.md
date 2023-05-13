@@ -61,9 +61,14 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 <!-- section break -->
 
 <i>Around the Well</i> is a collection of “rarities” from Iron & Wine: outtakes, B-sides, soundtrack cuts, demos. Considering the low profile of the “band” in question (really singer-songwriter Sam Beam with whomever he chooses to collaborate), it’s merely a handy-dandy assembly of stray tracks that loyal fans will want in order to complete their collection. Everything that makes Beam such an attractive performer is here. The soft, whispered vocals, the impeccable finger-picked acoustics, the thoughtful enigmatic lyrics, the laidback, chilling melodies all coalesce into a formidable whole. If these are “leftovers,” then Beam is one solid, prolific songwriter. Covers of the Postal Service’s “Such Great Heights” (featured in the film <i>Garden State</i>) and the Flaming Lips’ “Waitin’ for a Superman” add to the intrigue factor. The 23 tracks begin with mostly quiet, unadorned acoustic tunes (“Loud As Hope” is simply gorgeous) with slide guitar and hushed arrangements, eventually expanding into fuller band excursions such as “Kingdom of the Animals” where piano and electric slide spike the punch. 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/around-the-well-bonus-track-version/314988639" >}}
+{{< applemusic url="https://music.apple.com/gb/album/around-the-well-bonus-track-version/314988639" >}}<br>
+
+
 ## Videos
 ### Iron and Wine - Love Vigilantes (a New Order cover)
 {{< youtube id="EL-mDlRKNKg" title="Iron and Wine - Love Vigilantes (a New Order cover)" >}}<br>
@@ -83,8 +88,6 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | <i>Around the Well</i> is a collection of “rarities” from Iron & Wine: outtakes, B-sides, soundtrack cuts, demos. Considering the low profile of the “band” in question (really singer-songwriter Sam Beam with whomever he chooses to collaborate), it’s merely a handy-dandy assembly of stray tracks that loyal fans will want in order to complete their collection. Everything that makes Beam such an attractive performer is here. The soft, whispered vocals, the impeccable finger-picked acoustics, the thoughtful enigmatic lyrics, the laidback, chilling melodies all coalesce into a formidable whole. If these are “leftovers,” then Beam is one solid, prolific songwriter. Covers of the Postal Service’s “Such Great Heights” (featured in the film <i>Garden State</i>) and the Flaming Lips’ “Waitin’ for a Superman” add to the intrigue factor. The 23 tracks begin with mostly quiet, unadorned acoustic tunes (“Loud As Hope” is simply gorgeous) with slide guitar and hushed arrangements, eventually expanding into fuller band excursions such as “Kingdom of the Animals” where piano and electric slide spike the punch.  |
-| Release Year   | 2009                                   |
 | Format         | Vinyl 2× LP Compilation, Vinyl 12" 33 ⅓ RPM Single Sided Etched |
 | Label          | Sub Pop |
 | Catalog Number | SP 808 |

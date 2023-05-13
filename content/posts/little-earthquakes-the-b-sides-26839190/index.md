@@ -38,7 +38,10 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Remastered Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 695082 |

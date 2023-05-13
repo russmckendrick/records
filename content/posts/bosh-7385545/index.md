@@ -38,9 +38,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bosh/780505469" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bosh/780505469" >}}<br>
+
+
 ## Videos
 ### Cleft live in session - Hostage
 {{< youtube id="qot35mfF_ls" title="Cleft live in session - Hostage" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 12" Album Limited Edition Misprint Numbered Repress (Blue Transparent) |
 | Label          | Mega Face Records |
 | Catalog Number | MFR03 |

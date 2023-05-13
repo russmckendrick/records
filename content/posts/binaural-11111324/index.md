@@ -56,9 +56,14 @@ styles: ["Alternative Rock", "Grunge"]
 
 Binaural is the sixth studio album by American rock band Pearl Jam, released May 16, 2000, through Epic Records. Following a full-scale tour in support of its previous album, Yield (1998), Pearl Jam took a short break before reconvening toward the end of 1999 to begin work on a new album. During the production of the album, the band encountered hindrances such as singer Eddie Vedder's writer's block, and guitarist Mike McCready's entrance into rehabilitation due to an addiction to prescription drugs. This is Pearl Jam's first album to feature former Soundgarden drummer Matt Cameron, who joined during 1998's Yield Tour to replace Jack Irons.
 The music on the album featured an experimental sound, evident on songs that used binaural recording techniques. The atmospheric tracks, mostly featuring somber lyrics dealing with social criticism, led the band to convey these themes with images of nebulas in the album artwork. Binaural received positive reviews, and debuted at number two on the Billboard 200. Although the album was certified gold by the RIAA, it became the first Pearl Jam studio album to fail to reach Platinum status in the United States. The album's 2000 tour spawned a large collection of official bootleg releases.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/binaural/688730679" >}}
+{{< applemusic url="https://music.apple.com/gb/album/binaural/688730679" >}}<br>
+
+
 ## Videos
 ### Nothing As It Seems
 {{< youtube id="A2QLjPU7Opo" title="Nothing As It Seems" >}}<br>
@@ -74,8 +79,6 @@ The music on the album featured an experimental sound, evident on songs that use
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Binaural_(album) |
-| Wikipedia Summary | Binaural is the sixth studio album by American rock band Pearl Jam, released May 16, 2000, through Epic Records. Following a full-scale tour in support of its previous album, Yield (1998), Pearl Jam took a short break before reconvening toward the end of 1999 to begin work on a new album. During the production of the album, the band encountered hindrances such as singer Eddie Vedder's writer's block, and guitarist Mike McCready's entrance into rehabilitation due to an addiction to prescription drugs. This is Pearl Jam's first album to feature former Soundgarden drummer Matt Cameron, who joined during 1998's Yield Tour to replace Jack Irons.<br>The music on the album featured an experimental sound, evident on songs that used binaural recording techniques. The atmospheric tracks, mostly featuring somber lyrics dealing with social criticism, led the band to convey these themes with images of nebulas in the album artwork. Binaural received positive reviews, and debuted at number two on the Billboard 200. Although the album was certified gold by the RIAA, it became the first Pearl Jam studio album to fail to reach Platinum status in the United States. The album's 2000 tour spawned a large collection of official bootleg releases. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Epic |
 | Catalog Number | 88985409121 |

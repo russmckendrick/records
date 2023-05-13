@@ -37,9 +37,12 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/third-degree/1443308710" >}}
+{{< applemusic url="https://music.apple.com/gb/album/third-degree/1443308710" >}}<br>
+
+
 ## Videos
 ### Nine Below Zero - Eleven Plus Eleven
 {{< youtube id="ExM1vP-rhH4" title="Nine Below Zero - Eleven Plus Eleven" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68537 |

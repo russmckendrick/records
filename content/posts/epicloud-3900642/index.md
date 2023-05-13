@@ -108,9 +108,12 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/epicloud/1045671472" >}}
+{{< applemusic url="https://music.apple.com/gb/album/epicloud/1045671472" >}}<br>
+
+
 ## Videos
 ### Devin Townsend LUCKY ANIMALS (Unofficial Video) =]
 {{< youtube id="UvmIByrcwAQ" title="Devin Townsend LUCKY ANIMALS (Unofficial Video) =]" >}}<br>
@@ -126,7 +129,6 @@ styles: ["Prog Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMSECD 364 |

@@ -49,7 +49,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Rick and Morty - Rick and Morty Theme
 {{< youtube id="YQxRvqD4oSQ" title="Rick and Morty - Rick and Morty Theme" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Sub Pop |
 | Catalog Number | SP1265 |

@@ -39,9 +39,14 @@ styles: ["Indie Rock"]
 
 Ben Folds Five was an American alternative rock trio formed in 1993 in Chapel Hill, North Carolina. The group comprises Ben Folds (lead vocals, piano), Robert Sledge (bass guitar, backing vocals) and Darren Jessee (drums, backing vocals). The group achieved success in the alternative, indie and pop music scenes. Their single "Brick" from the second album, Whatever and Ever Amen (1997), gained airplay on many mainstream radio stations. 
 During their first seven years, the band released three studio records, a compilation of B-sides and outtakes, and eight singles. They also contributed to a number of soundtracks and compilations. Ben Folds Five disbanded in October 2000, but reunited in 2011, and released their fourth album, The Sound of the Life of the Mind, in 2012, before disbanding again in 2013.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ben-folds-five/771779576" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ben-folds-five/771779576" >}}<br>
+
+
 ## Videos
 ### Ben Folds Five FULL ALBUM
 {{< youtube id="zUOt5AhUqKE" title="Ben Folds Five FULL ALBUM" >}}<br>
@@ -56,8 +61,6 @@ During their first seven years, the band released three studio records, a compil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ben_Folds_Five |
-| Wikipedia Summary | Ben Folds Five was an American alternative rock trio formed in 1993 in Chapel Hill, North Carolina. The group comprises Ben Folds (lead vocals, piano), Robert Sledge (bass guitar, backing vocals) and Darren Jessee (drums, backing vocals). The group achieved success in the alternative, indie and pop music scenes. Their single "Brick" from the second album, Whatever and Ever Amen (1997), gained airplay on many mainstream radio stations. <br>During their first seven years, the band released three studio records, a compilation of B-sides and outtakes, and eight singles. They also contributed to a number of soundtracks and compilations. Ben Folds Five disbanded in October 2000, but reunited in 2011, and released their fourth album, The Sound of the Life of the Mind, in 2012, before disbanding again in 2013. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Turquoise) |
 | Label          | Plain Recordings |
 | Catalog Number | plain169 |

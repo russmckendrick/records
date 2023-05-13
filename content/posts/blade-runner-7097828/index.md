@@ -45,9 +45,14 @@ styles: ["Ambient", "Soundtrack", "Score"]
 <!-- section break -->
 
 Blade Runner: Original Motion Picture Soundtrack is the soundtrack for Ridley Scott's 1982 science-fiction noir film Blade Runner, composed by Greek electronic musician Vangelis. It has received acclaim as an influential work in the history of electronic music and one of Vangelis's best works. It was nominated in 1983 for a BAFTA and Golden Globe for best original score. The score evokes the film's bleak futurism with an emotive synthesizer-based sound, drawing on the jazz scores of classic film noir as well as Middle Eastern texture and neo-classical elements.The official release of the soundtrack was delayed for over a decade. The first 1994 release omitted much of the film's score and included compositions not used in the film. A 25th anniversary edition released in 2007 included further unreleased material and a disc of new music inspired by the film. Various bootleg recordings containing more comprehensive versions of the score, as well as superior sound quality to the original 1994 release, have widely circulated.An orchestral rendition of the soundtrack was released in 1982 by the New American Orchestra, but disowned by both Vangelis and director Scott.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blade-runner-original-score-from-the-motion-picture/73327394" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blade-runner-original-score-from-the-motion-picture/73327394" >}}<br>
+
+
 ## Videos
 ### Выпуск №154. Vangelis ‎– Blade Runner(Vinyl, LP, Album, Reissue, Gatefold, 180 Gram)
 {{< youtube id="o375REu65fc" title="Выпуск №154. Vangelis ‎– Blade Runner(Vinyl, LP, Album, Reissue, Gatefold, 180 Gram)" >}}<br>
@@ -60,8 +65,6 @@ Blade Runner: Original Motion Picture Soundtrack is the soundtrack for Ridley Sc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blade_Runner_(soundtrack) |
-| Wikipedia Summary | Blade Runner: Original Motion Picture Soundtrack is the soundtrack for Ridley Scott's 1982 science-fiction noir film Blade Runner, composed by Greek electronic musician Vangelis. It has received acclaim as an influential work in the history of electronic music and one of Vangelis's best works. It was nominated in 1983 for a BAFTA and Golden Globe for best original score. The score evokes the film's bleak futurism with an emotive synthesizer-based sound, drawing on the jazz scores of classic film noir as well as Middle Eastern texture and neo-classical elements.The official release of the soundtrack was delayed for over a decade. The first 1994 release omitted much of the film's score and included compositions not used in the film. A 25th anniversary edition released in 2007 included further unreleased material and a disc of new music inspired by the film. Various bootleg recordings containing more comprehensive versions of the score, as well as superior sound quality to the original 1994 release, have widely circulated.An orchestral rendition of the soundtrack was released in 1982 by the New American Orchestra, but disowned by both Vangelis and director Scott. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold, 180 Gram) |
 | Label          | Warner Music Group |
 | Catalog Number | 0825646122110 |

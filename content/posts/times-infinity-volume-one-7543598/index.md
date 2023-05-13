@@ -36,9 +36,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/times-infinity-vol-one/1178843853" >}}
+{{< applemusic url="https://music.apple.com/gb/album/times-infinity-vol-one/1178843853" >}}<br>
+
+
 ## Videos
 ### The Dears - I Used To Pray For The Heavens To Fall (Official Lyric Video)
 {{< youtube id="_OBe4JUNJTE" title="The Dears - I Used To Pray For The Heavens To Fall (Official Lyric Video)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB121-1 |

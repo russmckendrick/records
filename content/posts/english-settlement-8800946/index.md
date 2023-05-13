@@ -71,9 +71,15 @@ styles: ["New Wave", "Pop Rock"]
 English Settlement is the fifth studio album and first double album by the English rock band XTC, released 12 February 1982 on Virgin Records. It marked a turn towards the more pastoral pop songs that would dominate later XTC releases, with an emphasis on acoustic guitar, 12-string electric guitar and fretless bass. In some countries, the album was released as a single LP with five tracks deleted. The title refers to the Uffington White Horse depicted on the cover, to the "settlement" of viewpoints, and to the Englishness that the band felt they "settled" into the record.
 XTC recorded the album at The Manor Studio in Oxfordshire with producer Hugh Padgham, the engineer of their previous two LPs. Compared to the band's previous releases, English Settlement showcased more complex and intricate arrangements, lengthier songs, lyrics that covered broader social issues, and a wider range of music styles. Principal songwriter Andy Partridge was fatigued by the grueling touring regimen imposed by their label and management, and believed that pursuing a sound less suited for live performance would relieve the pressure to tour. Three singles were issued from the album: "Senses Working Overtime" (number 10), "Ball and Chain" (number 58) and "No Thugs in Our House" (no chart showing).
 English Settlement was well-received critically and continues to be regarded by many critics as XTC's finest album. It reached number 5 on the UK Album Chart during an 11-week stay, making it the band's only top ten album in the UK. It also reached number 48 on the US Billboard 200 during a 20-week stay. An international tour was scheduled in support of the album, but it was canceled after several dates due to Partridge's worsening exhaustion. XTC's popularity in the UK faltered, and for the rest of their career, they remained a studio-only band. In 2002, English Settlement was ranked number 46 on Pitchfork's list of "The Top 100 Albums of the 1980s".
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/english-settlement/724357979" >}}
+{{< applemusic url="https://music.apple.com/gb/album/english-settlement/724357979" >}}<br>
+
+
 ## Videos
 ### XTC - Ball and Chain
 {{< youtube id="4a9wowg4AjI" title="XTC - Ball and Chain" >}}<br>
@@ -100,8 +106,6 @@ English Settlement was well-received critically and continues to be regarded by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/English_Settlement |
-| Apple Music Summary | After four albums of skittish and meticulous New Wave pop, Andy Partridge pushed his band to create <i>English Settlement</i>, their first double album. It is an exceptionally ripe collection of ideas: one moment a jittery anti-violence chant (“Melt the Guns”), the next a double-speed pastoral skank (“English Roundabout”). He also toned down some of their trademark dissonance for chiming ’60s guitars, particularly on the stunning single “Senses Working Overtime”—a song about his impending nervous breakdown—and the unsettlingly sweet warning shot “All of a Sudden (It’s Too Late).” |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue, CD Album Reissue, Box Set Deluxe Edition |
 | Label          | Ape House |
 | Catalog Number | APELPD105 |

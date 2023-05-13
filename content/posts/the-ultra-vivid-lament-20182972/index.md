@@ -43,9 +43,14 @@ styles: ["Alternative Rock"]
 
 The Ultra Vivid Lament is the fourteenth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 10 September 2021 through Columbia Records.
 Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", the album features contributions from Julia Cumming and Mark Lanegan. It was received well by critics, and debuted at number 1 on the UK Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-ultra-vivid-lament-deluxe-edition/1566880553" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-ultra-vivid-lament-deluxe-edition/1566880553" >}}<br>
+
+
 ## Videos
 ### Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer
 {{< youtube id="Lg2HrqFsz14" title="Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer" >}}<br>
@@ -61,8 +66,6 @@ Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Ultra_Vivid_Lament |
-| Wikipedia Summary | The Ultra Vivid Lament is the fourteenth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 10 September 2021 through Columbia Records.<br>Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", the album features contributions from Julia Cumming and Mark Lanegan. It was received well by critics, and debuted at number 1 on the UK Albums Chart. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Yellow, 180g) |
 | Label          | Columbia |
 | Catalog Number | 19439895431 |

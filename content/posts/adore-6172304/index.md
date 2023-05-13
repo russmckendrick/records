@@ -41,9 +41,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/adore-remastered/1440818528" >}}
+{{< applemusic url="https://music.apple.com/gb/album/adore-remastered/1440818528" >}}<br>
+
+
 ## Videos
 ### The Smashing Pumpkins  Adore 1998 FLAC
 {{< youtube id="aHYJ6LUfxCs" title="The Smashing Pumpkins  Adore 1998 FLAC" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | Virgin |
 | Catalog Number | 6 02537 89926 5 |

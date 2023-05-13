@@ -42,9 +42,14 @@ styles: ["Punk"]
 <!-- section break -->
 
 Do or Die is the first studio album released by Boston's Irish-American punk band, Dropkick Murphys. It was released in 1998. A music video for the single "Barroom Hero" was released. This is the only album that featured original lead vocalist Mike McColgan, who went on to become a fireman before forming his own band, the Street Dogs.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/do-or-die/1485047507" >}}
+{{< applemusic url="https://music.apple.com/gb/album/do-or-die/1485047507" >}}<br>
+
+
 ## Videos
 ### Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)
 {{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)" >}}<br>
@@ -59,8 +64,6 @@ Do or Die is the first studio album released by Boston's Irish-American punk ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Do_or_Die_(Dropkick_Murphys_album) |
-| Wikipedia Summary | Do or Die is the first studio album released by Boston's Irish-American punk band, Dropkick Murphys. It was released in 1998. A music video for the single "Barroom Hero" was released. This is the only album that featured original lead vocalist Mike McColgan, who went on to become a fireman before forming his own band, the Street Dogs. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Hellcat Records |
 | Catalog Number | 0407-1 |

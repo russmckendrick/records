@@ -39,9 +39,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-live-at-the-ritz/1633688317" >}}
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-live-at-the-ritz/1633688317" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo |
 | Label          | Kscope |
 | Catalog Number | kscope1007 |

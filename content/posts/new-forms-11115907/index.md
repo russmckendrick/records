@@ -52,9 +52,14 @@ styles: ["Drum n Bass"]
 New Forms is the debut studio album by British drum and bass group Roni Size & Reprazent. It was originally released on 23 June 1997 through Talkin' Loud, and later re-released by Mercury Records and Universal Music Group. The album was released to critical and commercial success, winning the 1997 Mercury Prize, certifying platinum in the UK, and often being cited as their magnum opus.New Forms was promoted by the release of its four singles, "Share the Fall", "Heroes", "Brown Paper Bag" and "Watching Windows", all of which entered the UK Singles Chart and featured vocals from Onallee. The album features production credits from Roni Size, Krust, DJ Die and Suv.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roni-size-reprazent-new-forms-vol-2-remastered/1443805487" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roni-size-reprazent-new-forms-vol-2-remastered/1443805487" >}}<br>
+
+
 ## Videos
 ### Intro
 {{< youtube id="zQeWeU8lfvs" title="Intro" >}}<br>
@@ -88,8 +93,6 @@ New Forms is the debut studio album by British drum and bass group Roni Size & R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Forms |
-| Wikipedia Summary | New Forms is the debut studio album by British drum and bass group Roni Size & Reprazent. It was originally released on 23 June 1997 through Talkin' Loud, and later re-released by Mercury Records and Universal Music Group. The album was released to critical and commercial success, winning the 1997 Mercury Prize, certifying platinum in the UK, and often being cited as their magnum opus.New Forms was promoted by the release of its four singles, "Share the Fall", "Heroes", "Brown Paper Bag" and "Watching Windows", all of which entered the UK Singles Chart and featured vocals from Onallee. The album features production credits from Roni Size, Krust, DJ Die and Suv.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition Remastered |
 | Label          | UMC |
 | Catalog Number | 5773719 |

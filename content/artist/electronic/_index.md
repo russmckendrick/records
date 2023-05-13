@@ -1,8 +1,7 @@
 ---
 title: "Electronic"
-summary: "Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other charged particles. Electronics is a subfield of electrical engineering, but it differs from it in that it focuses on using active devices such as transistors, diodes, and integrated circuits to control and amplify the flow of electric current and to convert it from one form to another, such as from alternating current to direct current or from analog to digital. Electronics also encompasses the fields of microelectronics, nanoelectronics, optoelectronics, and quantum electronics, which deal with the fabrication and application of electronic devices at microscopic, nanoscopic, optical, and quantum scales.
-Electronics has a profound impact on various aspects of modern society and culture, such as communication, entertainment, education, health care, industry, and security. The main driving force behind the advancement of electronics is the semiconductor industry, which produces the basic materials and components for electronic devices and circuits. The semiconductor industry is one of the largest and most profitable sectors in the global economy, with annual revenues exceeding $481 billion in 2018. The electronics industry also encompasses other sectors that rely on electronic devices and systems, such as e-commerce, which generated over $29 trillion in online sales in 2017."
+summary: "Electronic were an English alternative dance supergroup formed by singer/guitarist Bernard Sumner and guitarist Johnny Marr . They co-wrote the majority of their output between 1989 and 1998, collaborating with Neil Tennant and Chris Lowe, of Pet Shop Boys, on three tracks in their early years, and former Kraftwerk member Karl Bartos on nine songs in 1995."
 image: "electronic.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/electronic/496921"
-wikipedia_url: "https://en.wikipedia.org/wiki/Electronics"
+wikipedia_url: "https://en.wikipedia.org/wiki/Electronic_(band)"
 ---

@@ -45,9 +45,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/john-lennon-plastic-ono-band-the-ultimate-collection/1555558304" >}}
+{{< applemusic url="https://music.apple.com/gb/album/john-lennon-plastic-ono-band-the-ultimate-collection/1555558304" >}}<br>
+
+
 ## Videos
 ### WOMAN. (Ultimate Mix, 2020) - John Lennon (official music video HD)
 {{< youtube id="ZhfWiU8wGCc" title="WOMAN. (Ultimate Mix, 2020) - John Lennon (official music video HD)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Parlophone |
 | Catalog Number | EMTV 37 |

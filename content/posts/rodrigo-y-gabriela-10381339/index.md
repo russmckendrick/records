@@ -62,9 +62,14 @@ Rodrigo y Gabriela is the second studio album by Mexican musical duo Rodrigo y G
 Their album was subsequently certified platinum in Ireland.The Japanese version of the album has an extra track, named "Señorita Xxx".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rodrigo-y-gabriela/1336807458" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rodrigo-y-gabriela/1336807458" >}}<br>
+
+
 ## Videos
 ### Rodrigo y Gabriela - Diablo Rojo (HQ)
 {{< youtube id="l_cJ5fvVhiI" title="Rodrigo y Gabriela - Diablo Rojo (HQ)" >}}<br>
@@ -86,8 +91,6 @@ Their album was subsequently certified platinum in Ireland.The Japanese version 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rodrigo_y_Gabriela_(album) |
-| Wikipedia Summary | Rodrigo y Gabriela is the second studio album by Mexican musical duo Rodrigo y Gabriela. It was first released in Ireland on February 17, 2006, where it debuted at number one on the Irish Albums Chart. The album included covers of Led Zeppelin's "Stairway to Heaven" and Metallica's "Orion", two artists who the duo say influenced their music.<br>Their album was subsequently certified platinum in Ireland.The Japanese version of the album has an extra track, named "Señorita Xxx".<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Remastered |
 | Label          | Rubyworks |
 | Catalog Number | RWXLP37R |

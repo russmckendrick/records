@@ -55,7 +55,10 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1961 |

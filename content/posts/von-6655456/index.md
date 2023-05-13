@@ -59,9 +59,12 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/von/1447419946" >}}
+{{< applemusic url="https://music.apple.com/gb/album/von/1447419946" >}}<br>
+
+
 ## Videos
 ### Sigur Rós - Von [Full Album Stream]
 {{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von [Full Album Stream]" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g), CD Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP609 |

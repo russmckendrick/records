@@ -43,9 +43,12 @@ styles: ["Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fred-deakin-presents-the-lasters/1480648770" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fred-deakin-presents-the-lasters/1480648770" >}}<br>
+
+
 ## Videos
 ### FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly
 {{< youtube id="OE4YLy-4SgI" title="FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Limited Edition Numbered (Deluxe Kickstarter Edition) |
 | Label          | Impotent Fury |
 | Catalog Number | IFLSTRS001 |

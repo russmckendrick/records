@@ -44,10 +44,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-The Underfall Yard is the sixth studio album by the English progressive rock band Big Big Train, and their first to feature vocalist and multi-instrumentalist David Longdon. It was released on 15 December 2009, by English Electric Recordings.
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-underfall-yard/348683717" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-underfall-yard/348683717" >}}<br>
+
+
 ## Videos
 ### Evening Star
 {{< youtube id="mA2-i3C3P_U" title="Evening Star" >}}<br>
@@ -65,9 +67,6 @@ The Underfall Yard is the sixth studio album by the English progressive rock ban
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/The_Underfall_Yard |
-| Wikipedia Summary | The Underfall Yard is the sixth studio album by the English progressive rock band Big Big Train, and their first to feature vocalist and multi-instrumentalist David Longdon. It was released on 15 December 2009, by English Electric Recordings. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180 Gram, Remixed) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG091 |

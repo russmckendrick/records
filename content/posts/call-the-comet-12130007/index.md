@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Call the Comet is the third studio album by the English musician Johnny Marr. It was released on 15 June 2018 by New Voodoo and Warner Bros. Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/call-the-comet/1362676938" >}}
+{{< applemusic url="https://music.apple.com/gb/album/call-the-comet/1362676938" >}}<br>
+
+
 ## Videos
 ### Johnny Marr - Hi Hello - Official Music Video [HD]
 {{< youtube id="vT_IlY0A4_0" title="Johnny Marr - Hi Hello - Official Music Video [HD]" >}}<br>
@@ -60,8 +65,6 @@ Call the Comet is the third studio album by the English musician Johnny Marr. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Call_the_Comet |
-| Wikipedia Summary | Call the Comet is the third studio album by the English musician Johnny Marr. It was released on 15 June 2018 by New Voodoo and Warner Bros. Records. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Purple) |
 | Label          | Warner Bros. Records |
 | Catalog Number | NVLPH004 |

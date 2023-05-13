@@ -43,9 +43,12 @@ styles: ["Krautrock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/open-mind-the-best-of-blackfield/1416237959" >}}
+{{< applemusic url="https://music.apple.com/gb/album/open-mind-the-best-of-blackfield/1416237959" >}}<br>
+
+
 ## Videos
 ### Blackfield - Open Mind (from Open Mind: The Best of Blackfield)
 {{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind (from Open Mind: The Best of Blackfield)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Krautrock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP (Yellow [Sun Yellow]), Vinyl LP Single Sided Etched (Yellow [Sun Yellow]), All Media Compilation Limited Edition |
 | Label          | Kscope |
 | Catalog Number | kscope 1016 |

@@ -38,9 +38,14 @@ styles: ["Country", "Rock & Roll"]
 <!-- section break -->
 
 Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/at-san-quentin-live/824812884" >}}
+{{< applemusic url="https://music.apple.com/gb/album/at-san-quentin-live/824812884" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,8 +54,6 @@ Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Fols
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875111981 |

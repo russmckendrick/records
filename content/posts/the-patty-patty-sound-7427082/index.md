@@ -34,7 +34,12 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 The Patty Patty Sound is the second release by The Beta Band, released in 1998. Despite being almost 40mins long and originally being released on 2 x 12" records, the release is still considered an E.P. by both the band and the press. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and Los Amigos del Beta Bandidos. "The Monolith" is titled simply "Monolith" on The Three E.P.'s..
 The track "Monolith" features a manipulated sample of "Dry The Rain" from the E.P. Champion Versions.
 The Patty Patty Sound, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### The Beta Band - Inner Meet Me
 {{< youtube id="eyRu0b7nnNc" title="The Beta Band - Inner Meet Me" >}}<br>
@@ -51,8 +56,6 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Patty_Patty_Sound |
-| Wikipedia Summary | The Patty Patty Sound is the second release by The Beta Band, released in 1998. Despite being almost 40mins long and originally being released on 2 x 12" records, the release is still considered an E.P. by both the band and the press. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and Los Amigos del Beta Bandidos. "The Monolith" is titled simply "Monolith" on The Three E.P.'s..<br>The track "Monolith" features a manipulated sample of "Dry The Rain" from the E.P. Champion Versions.<br>The Patty Patty Sound, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Repress (180 g) |
 | Label          | Regal |
 | Catalog Number | REGS 18 |

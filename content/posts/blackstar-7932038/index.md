@@ -42,9 +42,12 @@ styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blackstar/1676286487" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blackstar/1676286487" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,7 +56,6 @@ styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (MPO Pressing, 180 Gram) |
 | Label          | ISO Records |
 | Catalog Number | 88875173871 |

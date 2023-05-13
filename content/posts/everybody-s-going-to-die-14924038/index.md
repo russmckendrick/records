@@ -42,9 +42,12 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everybodys-going-to-die/1487673648" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everybodys-going-to-die/1487673648" >}}<br>
+
+
 ## Videos
 ### Everybody's Going to Die
 {{< youtube id="vaMH-ha3Lbc" title="Everybody's Going to Die" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (Cosmic Rainbow Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 1 |

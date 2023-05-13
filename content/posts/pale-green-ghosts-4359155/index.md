@@ -55,9 +55,14 @@ styles: ["Synth-pop", "Folk Rock"]
 <!-- section break -->
 
 Pale Green Ghosts is the second solo album by former The Czars frontman John Grant, released on March 11, 2013, on the Bella Union label. Recorded in Reykjavík and produced by Icelandic musician Birgir Þórarinsson, the album features a range of local musicians alongside Irish singer Sinéad O'Connor providing backing vocals.The title refers to the Russian olive trees that stand along the I-25 highway near Grant's childhood home in Parker, Colorado. The track "Pale Green Ghosts" includes a string arrangement inspired by the second movement of Prelude in C-sharp minor by Rachmaninoff. Pale Green Ghosts was chosen as Album of the Year 2013 by Rough Trade.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pale-green-ghosts/730337669" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pale-green-ghosts/730337669" >}}<br>
+
+
 ## Videos
 ### John Grant - Pale Green Ghosts
 {{< youtube id="Ux1fglC0aT0" title="John Grant - Pale Green Ghosts" >}}<br>
@@ -81,8 +86,6 @@ Pale Green Ghosts is the second solo album by former The Czars frontman John Gra
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pale_Green_Ghosts |
-| Wikipedia Summary | Pale Green Ghosts is the second solo album by former The Czars frontman John Grant, released on March 11, 2013, on the Bella Union label. Recorded in Reykjavík and produced by Icelandic musician Birgir Þórarinsson, the album features a range of local musicians alongside Irish singer Sinéad O'Connor providing backing vocals.The title refers to the Russian olive trees that stand along the I-25 highway near Grant's childhood home in Parker, Colorado. The track "Pale Green Ghosts" includes a string arrangement inspired by the second movement of Prelude in C-sharp minor by Rachmaninoff. Pale Green Ghosts was chosen as Album of the Year 2013 by Rough Trade. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album (Mint Green), CD Album |
 | Label          | Bella Union |
 | Catalog Number | BELLAV377 |

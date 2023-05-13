@@ -47,9 +47,14 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 <!-- section break -->
 
 Going Blank Again is the second studio album by English rock band Ride, released on 9 March 1992 on Creation Records. It was produced by Alan Moulder, and peaked at No. 5 in the UK Albums Chart. In October 2009 the album was certified gold by the British Phonographic Industry for sales of over 100,000 units.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/going-blank-again/1621531296" >}}
+{{< applemusic url="https://music.apple.com/gb/album/going-blank-again/1621531296" >}}<br>
+
+
 ## Videos
 ### Ride - Leave Them All Behind
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
@@ -72,8 +77,6 @@ Going Blank Again is the second studio album by English rock band Ride, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Going_Blank_Again |
-| Wikipedia Summary | Going Blank Again is the second studio album by English rock band Ride, released on 9 March 1992 on Creation Records. It was produced by Alan Moulder, and peaked at No. 5 in the UK Albums Chart. In October 2009 the album was certified gold by the British Phonographic Industry for sales of over 100,000 units. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Reissue (Orange Transparent) |
 | Label          | Wichita |
 | Catalog Number | webb573lp |

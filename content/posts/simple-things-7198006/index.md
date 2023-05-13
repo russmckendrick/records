@@ -51,9 +51,15 @@ styles: ["Downtempo"]
 <!-- section break -->
 
 Born in the groggy, morning after haze of a new millennium, there is something fittingly languid, contemplative and ephemeral about Zero 7’s 2001 debut. Or, to perhaps put it another way, schoolfriends Henry Binns and Sam Hardaker’s first record sculpts a sonic atmosphere that enraptures even as it slips your grasp; its mixture of jazz-inflected instrumentals and hushed vocal tracks caught somewhere between a dream and the soundtrack for a nonexistent movie. “Distractions” (one of two songs fronted by a young, pre-global domination Sia Furler) is the true north of this approach: a weightless miracle of space-age effects and pleading, supple soul. But former sound engineers Binns and Hardaker are just as adept at lyricless communication (just drink in the lush, soaring strings on “Polaris”). And <i>Simple Things</i> is ultimately—fittingly—a masterpiece of restraint, space and a subtle, whispered sort of beauty.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/simple-things-special-edition/1441141192" >}}
+{{< applemusic url="https://music.apple.com/gb/album/simple-things-special-edition/1441141192" >}}<br>
+
+
 ## Videos
 ### Simple Things - Zero 7 (Full Album)
 {{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}<br>
@@ -70,8 +76,6 @@ Born in the groggy, morning after haze of a new millennium, there is something f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Simple_Things_(Zero_7_album) |
-| Wikipedia Summary | Simple Things is the debut studio album by Zero 7, released on 23 April 2001. It peaked at number 28 on the UK Albums Chart, staying on the chart for 56 weeks. It was nominated for the Mercury Prize. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Warner Music |
 | Catalog Number | 0825646132751 |

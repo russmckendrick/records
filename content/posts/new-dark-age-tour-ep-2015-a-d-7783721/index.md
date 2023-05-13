@@ -32,7 +32,10 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Crippled Black Phoenix - New Dark Age
 {{< youtube id="ZQnOxYuE8kM" title="Crippled Black Phoenix - New Dark Age" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 12" Single Sided Etched (Clear), Vinyl 12" (Clear), All Media EP Limited Edition |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 375LP |

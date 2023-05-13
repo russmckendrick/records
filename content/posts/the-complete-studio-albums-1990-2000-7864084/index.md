@@ -122,7 +122,10 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Pantera - Walk (Official Video)
 {{< youtube id="AkFqg5wAuFk" title="Pantera - Walk (Official Video)" >}}<br>
@@ -148,7 +151,6 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Blue), Vinyl LP Album Reissue (Gold), Vinyl LP Album Reissue (Orange), Vinyl 7" 33 ⅓ RPM Single (Translucent Yellow), Box Set Compilation Limited Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 550793 |

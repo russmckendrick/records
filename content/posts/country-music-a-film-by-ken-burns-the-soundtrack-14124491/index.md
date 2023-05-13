@@ -53,9 +53,13 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="3ZAFnRYQRAiBplISQFj7nC" width="100%" height="500" >}}
+{{< spotify type="album" id="3ZAFnRYQRAiBplISQFj7nC" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time
 {{< youtube id="XnFcRAuFFyI" title="Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time" >}}<br>
@@ -69,7 +73,6 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Legacy |
 | Catalog Number | 19075960431 |

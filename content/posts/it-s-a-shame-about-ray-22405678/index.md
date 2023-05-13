@@ -62,9 +62,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-a-shame-about-ray-expanded-edition/1667654799" >}}
+{{< applemusic url="https://music.apple.com/gb/album/its-a-shame-about-ray-expanded-edition/1667654799" >}}<br>
+
+
 ## Videos
 ### Lemonheads - Rudderless (Album version)
 {{< youtube id="NofWFKSMiM4" title="Lemonheads - Rudderless (Album version)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gold) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP624 |

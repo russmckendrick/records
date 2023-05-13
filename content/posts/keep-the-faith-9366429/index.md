@@ -46,9 +46,14 @@ Keep the Faith is the fifth studio album by American rock band Bon Jovi, release
 Keep the Faith peaked at number five on the US Billboard 200 chart and was certified double-platinum by the Recording Industry Association of America (RIAA). The album produced several hits for the band, including "Keep the Faith", "Bed of Roses" and "In These Arms".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/keep-the-faith/1440826842" >}}
+{{< applemusic url="https://music.apple.com/gb/album/keep-the-faith/1440826842" >}}<br>
+
+
 ## Videos
 ### Bon Jovi - Bed Of Roses
 {{< youtube id="NvR60Wg9R7Q" title="Bon Jovi - Bed Of Roses" >}}<br>
@@ -78,8 +83,6 @@ Keep the Faith peaked at number five on the US Billboard 200 chart and was certi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Keep_the_Faith |
-| Wikipedia Summary | Keep the Faith is the fifth studio album by American rock band Bon Jovi, released on November 3, 1992, by Mercury Records. It is Bon Jovi's last studio album to feature all five original band members as bass guitarist Alec John Such was dismissed from the band in 1994. It is Bon Jovi's first album since 1985's 7800° Fahrenheit not to be produced by Bruce Fairbairn. The album was produced by Bob Rock and was recorded at the Little Mountain Sound Studios in Vancouver, British Columbia. Keep the Faith marked a change to a "more serious interpretation of the band's pop-metal groove". It is also Bon Jovi's longest album to date, clocking in at 66 minutes.<br>Keep the Faith peaked at number five on the US Billboard 200 chart and was certified double-platinum by the Recording Industry Association of America (RIAA). The album produced several hits for the band, including "Keep the Faith", "Bed of Roses" and "In These Arms".<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album (180 gram) |
 | Label          | Mercury |
 | Catalog Number | B0021970-01 |

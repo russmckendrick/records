@@ -49,9 +49,15 @@ styles: []
 <!-- section break -->
 
 The former Drive-By Trucker delivers his most diverse album yet in <i>Something More Than Free</i>, a beautifully observed and finely conceived collection of windswept rock that finds the singer/songwriter exploring questions of place and identity. While “Speed Trap Town” perfectly captures the feeling of growing up in rural America, “24 Frames” ponders faith and family—all with the lyrical acuity of Townes Van Zandt and the melodic aplomb of Tom Petty. 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/something-more-than-free/986866335" >}}
+{{< applemusic url="https://music.apple.com/gb/album/something-more-than-free/986866335" >}}<br>
+
+
 ## Videos
 ### Jason Isbell - 24 Frames (Lyric Video)
 {{< youtube id="ZtgPeNKpnyw" title="Jason Isbell - 24 Frames (Lyric Video)" >}}<br>
@@ -64,8 +70,6 @@ The former Drive-By Trucker delivers his most diverse album yet in <i>Something 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Something_More_Than_Free |
-| Wikipedia Summary | Something More Than Free is the fifth studio album by Jason Isbell, released on July 17, 2015. It was produced by Dave Cobb, who had produced Isbell's previous record, Southeastern (2013). At the 58th Annual Grammy Awards, the album won the award for Best Americana Album, and the song "24 Frames" won the award for Best American Roots Song.<br><br> |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99861 |

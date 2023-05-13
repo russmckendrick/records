@@ -44,9 +44,14 @@ styles: ["Gospel", "Folk"]
 <!-- section break -->
 
 That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble, and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown,” which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-order-of-time/1440948460" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-order-of-time/1440948460" >}}<br>
+
+
 ## Videos
 ### Valerie June - Shakedown
 {{< youtube id="cShj4BimPXc" title="Valerie June - Shakedown" >}}<br>
@@ -64,8 +69,6 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble, and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown,” which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Concord Records |
 | Catalog Number | CRE00209 |

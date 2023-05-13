@@ -77,9 +77,15 @@ BR: “Gordon and I were busking one day, and Victor wasn't around. And I had ju
 <b>“Good Feeling”</b>
 BR: “We thought that it was good to end the album on a soft note. The song is kind of intense; it's about drugs. You hear the violin—that's clearly an homage to John Cale and his viola. There are many pop music references on the first album. We were just that way, because we're just big fans. But basically, it's just a good song. When we would play it live, women would be crying. We knew that it had a purpose to be in the repertoire.”
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/violent-femmes/1576789411" >}}
+{{< applemusic url="https://music.apple.com/gb/album/violent-femmes/1576789411" >}}<br>
+
+
 ## Videos
 ### Violent Femmes - Full Album (1982)
 {{< youtube id="AkfzujwVFQs" title="Violent Femmes - Full Album (1982)" >}}<br>
@@ -92,8 +98,6 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Violent_Femmes |
-| Wikipedia Summary | Violent Femmes are an American folk punk band from Milwaukee, Wisconsin. The band consists of founding members Gordon Gano (guitar, lead vocals) and Brian Ritchie (bass, backing vocals), joined by multi-instrumentalist Blaise Garza (joined 2004), and drummer John Sparrow (joined 2005). Former members of the band include drummers Victor DeLorenzo (1980–1993, 2002–2013), Guy Hoffman (1993–2002), and Brian Viglione (2013–2016). <br>Violent Femmes have released ten studio albums and 15 singles during the course of their career. The band found critical acclaim with the release of their self-titled debut album in early 1983. Featuring many of their best-known songs, including "Blister in the Sun", "Kiss Off", "Add It Up" and "Gone Daddy Gone", Violent Femmes became the band's biggest-selling album and was eventually certified platinum by the RIAA. After the release of their third album The Blind Leading the Naked (1986), the band's future was uncertain and they split up in 1987 when Gano and Ritchie went solo. However, they regrouped a year later, releasing their fourth album 3 (1989). The follow-up album, Why Do Birds Sing? (1991), contains the fan favorite and concert staple "American Music".<br>In 1993, founding member Victor DeLorenzo (percussion, snare drum) left Violent Femmes and was replaced by Guy Hoffman, who debuted on the band's sixth album New Times (1994). Two more albums – Rock!!!!! (1995) and Freak Magnet (2000) – were released with this lineup before DeLorenzo rejoined the band in 2002 for what was to be a farewell tour. Following the commercial failure of Freak Magnet, Violent Femmes did not release any more studio albums for almost two decades, although a number of compilation albums were released in the early 2000s, along with a few one-off songs. Some controversy over the licensing of the band's songs for commercial use led to an official break-up in 2009, though they re-formed in 2013 (shortly before DeLorenzo left Violent Femmes again), and have since released two more studio albums of new material: We Can Do Anything (2016) and Hotel Last Resort (2019). |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00108 |

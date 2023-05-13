@@ -52,9 +52,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/forever-delayed-the-greatest-hits/211440430" >}}
+{{< applemusic url="https://music.apple.com/gb/album/forever-delayed-the-greatest-hits/211440430" >}}<br>
+
+
 
 
 ## Release Images
@@ -63,7 +66,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Epic |
 | Catalog Number | MOVLP221 |

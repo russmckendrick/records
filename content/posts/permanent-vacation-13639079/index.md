@@ -46,9 +46,15 @@ styles: ["Hard Rock", "Glam"]
 
 Permanent Vacation is the ninth studio album by American rock band Aerosmith, released by Geffen Records on August 25, 1987. The album marks the band's shift to a pop-metal sound that they would maintain up to 2001's Just Push Play.Three hit singles were released from the album, "Dude (Looks Like a Lady)", "Angel", and "Rag Doll". It was their first to employ songwriters outside the band, instead of featuring songs solely composed by them. This came at the suggestion of executive John Kalodner. He also pushed the band to work with producer Bruce Fairbairn, who remained with them for another two albums. It was also the first Aerosmith album to be promoted by heavy music video airplay on MTV. Though Done with Mirrors was intended to mark Aerosmith's comeback, Permanent Vacation is often considered their true comeback, as it was the band's first truly popular album since their reunion. "Rag Doll", "Dude (Looks Like a Lady)", and "Angel" became major hits (all three charted in the Top 20) and helped Permanent Vacation become the band's greatest success in a decade.
 Permanent Vacation has sold over five million copies in the U.S.In the UK, it was the first Aerosmith album to attain both Silver (60,000 units sold) and Gold (100,000 units sold) certification by the British Phonographic Industry, achieving these in July 1989 and March 1990 respectively.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/permanent-vacation/1440823323" >}}
+{{< applemusic url="https://music.apple.com/gb/album/permanent-vacation/1440823323" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,8 +64,6 @@ Permanent Vacation has sold over five million copies in the U.S.In the UK, it wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Permanent_Vacation_(Aerosmith_album) |
-| Apple Music Summary | <i>Permanent Vacation</i> opens with the weird wail of "Heart's Done Time," echoing "Sweet Emotion," one of Aerosmith's finest moments, and from there the fresh-from-rehab band proceeds to reclaim the classic-rock throne. Debate rages eternal over whether the album's lynchpin is the staccato strut of "Rag Doll" or the self-aware riffage of "Dude (Looks Like a Lady)"; both are defining moments of '80s Aerosmith. Perfectly punchy, "I'm Down" is not the first time they covered The Beatles, and someone snuck a steel drum into the party-starting title track. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red/Black Marbled) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954374 |

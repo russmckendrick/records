@@ -45,9 +45,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rejoice-im-dead/1135524816" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rejoice-im-dead/1135524816" >}}<br>
+
+
 ## Videos
 ### GONG - Rejoice! (LIVE in Bonn 2017)
 {{< youtube id="wCO89IRZGTg" title="GONG - Rejoice! (LIVE in Bonn 2017)" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1049 |

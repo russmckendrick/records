@@ -40,9 +40,12 @@ styles: ["Classic Rock", "Rock & Roll"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rockin-all-over-the-world-the-collection/1442672981" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rockin-all-over-the-world-the-collection/1442672981" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Classic Rock", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723767 |

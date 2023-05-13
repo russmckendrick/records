@@ -72,9 +72,15 @@ styles: ["Prog Rock", "Progressive Metal"]
 “As with ‘Neon Epitaph’, this song has these light and shade moments. Lyrically, it’s a little bit about wondering what’s in the afterlife—the people we might have known that are already there…will they wait for us? Is there something that still connects us when we go there? That kind of stuff. There’s also a guitar solo by Roger which I think is one of the best guitar solos I’ve ever heard—and I would say that even if it was not in Katatonia. It’s a great closing song for an album like <i>City Burials</i>.”<br />
 <b>Fighters</b>
 “This is a digital bonus song that’s not on the album. It’s a cover track by a short-lived Swedish metal band that was active in the beginning of the 2000s called Enter the Hunt. Their singer is Krister Linder, who was doing some guest vocals for us on our album <i>Night Is the New Day</i>—on the song ‘Departer’. Enter the Hunt only did one album and an EP, I think. The song ‘Fighters’ was only released digitally, so it’s not very well-known. But me and Anders thought that song was so good and we felt a bit sorry for them because they split up before anything could happen with it. So we decided to cover it to try and get it further up into the world.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/city-burials/1494960292" >}}
+{{< applemusic url="https://music.apple.com/gb/album/city-burials/1494960292" >}}<br>
+
+
 ## Videos
 ### Katatonia - The Winter of our Passing OFFICIAL VIDEO
 {{< youtube id="P2H4tCc9E3U" title="Katatonia - The Winter of our Passing OFFICIAL VIDEO" >}}<br>
@@ -91,8 +97,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/City_Burials |
-| Wikipedia Summary | City Burials is the eleventh studio album by Swedish heavy metal band Katatonia. The album continues the progressive rock direction used in recent albums while returning to some of their earlier metal instrumentation. Three singles were released in promotion of the album; "Lacquer", "Behind the Blood", and "The Winter of Our Passing".<br><br> |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album |
 | Label          | Peaceville |
 | Catalog Number | VILELP860 |

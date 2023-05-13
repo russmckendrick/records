@@ -52,9 +52,15 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 <!-- section break -->
 
 <i>Neil Young: Greatest Hits</i> showcases several of Young's musical personas and how they often bleed into one another. 1969’s “Down By the River” and “Cowgirl In the Sand” have the sturdy, rumbling support of Crazy Horse, and two Crosby, Stills, Nash & Young cuts, “Helpless” and “Ohio,” are rock landmarks. All 16 remastered FM-radio staples are a testament to the rocker's brilliant restlessness..
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/135132797" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/135132797" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,8 +70,6 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Neil_Young_album) |
-| Wikipedia Summary | Greatest Hits is Neil Young's third compilation album after Decade and Lucky Thirteen. Eleven of the first twelve tracks appear on Decade, and the disc spans his solo career from 1969 through 1992. On the rear cover of the album, Young comments that the tracks were selected "based on original record sales, airplay and known download history."<br><br> |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl 2× LP (180 Gram), Vinyl 7" Stereo Mono, All Media Compilation Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 521636-1 |

@@ -40,9 +40,14 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 <!-- section break -->
 
 Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}
+{{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}<br>
+
+
 ## Videos
 ### Primal Scream - Movin' on Up (Official HD Video)
 {{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin' on Up (Official HD Video)" >}}<br>
@@ -77,8 +82,6 @@ Before acid house, Primal Scream were your average, jangly psych-rock act. Then 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Picture Disc Reissue Stereo |
 | Label          | Sony Music |
 | Catalog Number | 19439906211 |

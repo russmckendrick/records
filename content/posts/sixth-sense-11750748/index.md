@@ -37,9 +37,12 @@ styles: ["Contemporary Jazz"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sixth-sense/1359604900" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sixth-sense/1359604900" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Contemporary Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Hubro |
 | Catalog Number | HUBROLP3587 |

@@ -34,9 +34,12 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/strangeitude/151954221" >}}
+{{< applemusic url="https://music.apple.com/gb/album/strangeitude/151954221" >}}<br>
+
+
 ## Videos
 ### White Rhino Tea (2020 Ed Wynne Remaster)
 {{< youtube id="NwhHFbeMILQ" title="White Rhino Tea (2020 Ed Wynne Remaster)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Green Transparent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1067 |

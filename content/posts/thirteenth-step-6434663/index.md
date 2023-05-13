@@ -44,9 +44,14 @@ styles: ["Alternative Rock", "Prog Rock"]
 <!-- section break -->
 
 Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003 and as platinum on March 24, 2006 by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/thirteenth-step/723637755" >}}
+{{< applemusic url="https://music.apple.com/gb/album/thirteenth-step/723637755" >}}<br>
+
+
 ## Videos
 ### The Package
 {{< youtube id="m2Yhn6-jJPE" title="The Package" >}}<br>
@@ -64,8 +69,6 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thirteenth_Step |
-| Wikipedia Summary | Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003 and as platinum on March 24, 2006 by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1114 |

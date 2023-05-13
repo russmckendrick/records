@@ -43,9 +43,14 @@ styles: ["Blues Rock", "Classic Rock"]
 <!-- section break -->
 
 The Magpie Salute is an American rock band formed in 2016 by the Black Crowes guitarist Rich Robinson. The band also includes former Black Crowes members Marc Ford and Sven Pipien and Moke singer/songwriter John Hogg, as well as Rich Robinson band members Matt Slocum and Joe Magistro.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-magpie-salute-live/1440905281" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-magpie-salute-live/1440905281" >}}<br>
+
+
 ## Videos
 ### The Magpie Salute - Comin' Home
 {{< youtube id="wdCAGlj_jR0" title="The Magpie Salute - Comin' Home" >}}<br>
@@ -63,8 +68,6 @@ The Magpie Salute is an American rock band formed in 2016 by the Black Crowes gu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Magpie_Salute |
-| Wikipedia Summary | The Magpie Salute is an American rock band formed in 2016 by the Black Crowes guitarist Rich Robinson. The band also includes former Black Crowes members Marc Ford and Sven Pipien and Moke singer/songwriter John Hogg, as well as Rich Robinson band members Matt Slocum and Joe Magistro. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Limited Edition (Gold) |
 | Label          | Cargo Records |
 | Catalog Number | CARLP207 |

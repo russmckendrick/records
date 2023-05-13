@@ -38,9 +38,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/high-on-tulsa-heat/968599286" >}}
+{{< applemusic url="https://music.apple.com/gb/album/high-on-tulsa-heat/968599286" >}}<br>
+
+
 ## Videos
 ### John Moreland - High On Tulsa Heat (Full Album 2015)
 {{< youtube id="9fKhz3bWMrA" title="John Moreland - High On Tulsa Heat (Full Album 2015)" >}}<br>
@@ -59,7 +62,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP (180 Gram) |
 | Label          | Old Omens |
 | Catalog Number | OO01 |

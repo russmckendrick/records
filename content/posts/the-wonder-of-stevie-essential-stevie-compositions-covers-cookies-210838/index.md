@@ -44,7 +44,10 @@ styles: ["Soul", "Funk", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise
 {{< youtube id="aSORZzduAos" title="DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Soul", "Funk", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2003                                   |
 | Format         | Vinyl 2× 12" Compilation |
 | Label          | Harmless |
 | Catalog Number | HURTLP051 |

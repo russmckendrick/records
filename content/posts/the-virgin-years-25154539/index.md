@@ -84,7 +84,10 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The HumanLeague - Dare! - 1981 /LP Album
 {{< youtube id="NUFi1m0oVfQ" title="The HumanLeague - Dare! - 1981 /LP Album" >}}<br>
@@ -96,7 +99,6 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Turqouise), Vinyl LP Mini-Album Reissue (Lime Green ), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Crystal Clear) |
 | Label          | UMC |
 | Catalog Number | 358694 |

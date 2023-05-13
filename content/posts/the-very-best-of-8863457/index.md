@@ -51,9 +51,15 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 <!-- section break -->
 
 This handy, packed-to-the-brim career overview of Daryl Hall & John Oates contains not only the group’s six chart-toppers, but also plenty of other classic soul-pop singles and deep cuts from their ‘70s/’80s heyday. “Rich Girl” couches its biting critique in deftly deployed string arrangements, while the understated R&B croon of “Sara Smile” remains irresistible and sublime. Even lesser-known tracks like the sensuous, stinging “Your Imagination” illustrate how prolific and inspired this duo truly was.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-essential-daryl-hall-john-oates-remastered/199998241" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-daryl-hall-john-oates-remastered/199998241" >}}<br>
+
+
 ## Videos
 ### Daryl Hall & John Oates - Private Eyes (Official Music Video)
 {{< youtube id="JsntlJZ9h1U" title="Daryl Hall & John Oates - Private Eyes (Official Music Video)" >}}<br>
@@ -81,8 +87,6 @@ This handy, packed-to-the-brim career overview of Daryl Hall & John Oates contai
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Best_of_Daryl_Hall_%26_John_Oates |
-| Wikipedia Summary | The Very Best of Daryl Hall & John Oates is a 2001 compilation album by the duo Hall & Oates. It reached number 34 on the Billboard 200 and #1 on the Top Pop Catalog Albums Chart. Assembled from the duo's years with RCA Records (1975–1984), the compilation features the full-length album versions of most songs rather than their edited single versions.<br>It was released on K2 High Definition CD in 2012 and was re-released on vinyl on August 12, 2016. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue Remastered (Gray / Blue) |
 | Label          | RCA |
 | Catalog Number | 88985330971 |

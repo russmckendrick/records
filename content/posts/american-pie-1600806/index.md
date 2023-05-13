@@ -40,9 +40,14 @@ styles: ["Folk Rock", "Acoustic"]
 American Pie is the second studio album by American singer-songwriter Don McLean, released by United Artists Records on 24 October 1971. The folk rock album reached number one on the Billboard 200, containing the chart-topping singles "American Pie" and "Vincent". Recorded in May and June 1971 at The Record Plant in New York City, the LP is dedicated to Buddy Holly, and was reissued in 1980 minus the track "Sister Fatima". The album was released to much acclaim, later being included in the book 1001 Albums You Must Hear Before You Die.At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.P.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/american-pie-expanded-edition/724850042" >}}
+{{< applemusic url="https://music.apple.com/gb/album/american-pie-expanded-edition/724850042" >}}<br>
+
+
 ## Videos
 ### Don McLean - American Pie
 {{< youtube id="y5ecvBaqHBk" title="Don McLean - American Pie" >}}<br>
@@ -66,8 +71,6 @@ American Pie is the second studio album by American singer-songwriter Don McLean
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Pie_(Don_McLean_album) |
-| Wikipedia Summary | American Pie is the second studio album by American singer-songwriter Don McLean, released by United Artists Records on 24 October 1971. The folk rock album reached number one on the Billboard 200, containing the chart-topping singles "American Pie" and "Vincent". Recorded in May and June 1971 at The Record Plant in New York City, the LP is dedicated to Buddy Holly, and was reissued in 1980 minus the track "Sister Fatima". The album was released to much acclaim, later being included in the book 1001 Albums You Must Hear Before You Die.At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.P.<br><br> |
-| Release Year   | 1971                                   |
 | Format         | Vinyl LP Album |
 | Label          | United Artists Records |
 | Catalog Number | UAS 29285 |

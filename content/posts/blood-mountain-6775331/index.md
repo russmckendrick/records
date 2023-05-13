@@ -45,9 +45,14 @@ styles: ["Prog Rock", "Heavy Metal"]
 Blood Mountain is the third full-length studio album and major label debut by American heavy metal band Mastodon. The recording of the album finished in April 2006 and it was released on September 12 in the UK and September 12, 2006 in North America through Reprise Records. The album in full could be streamed at the band's MySpace page a few days prior to the release.
 Like Mastodon's previous studio work Leviathan, Blood Mountain is a concept album. According to bassist Troy Sanders, "It's about climbing up a mountain and the different things that can happen to you when you're stranded on a mountain, in the woods, and you're lost. You're starving, hallucinating, running into strange creatures. You're being hunted. It's about that whole struggle." Guitarist Bill Kelliher considers this album to represent the earth element. At the time, bassist Troy Sanders called it "sonically the best album we have done." The band's emphasis on clean, melodic vocals instead of the harsher vocals that the band used on their early work continues to grow on this album.
 The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skull", Josh Homme of Queens of the Stone Age on "Colony of Birchmen", as well as keyboard player Isaiah "Ikey" Owens of The Mars Volta and singer Cedric Bixler-Zavala of At the Drive-In and The Mars Volta on "Pendulous Skin" and "Siberian Divide", respectively.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blood-mountain/1217503029" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blood-mountain/1217503029" >}}<br>
+
+
 ## Videos
 ### Mastodon Colony Of Birchmen (Official Video)
 {{< youtube id="VQo9bwQ2rQc" title="Mastodon Colony Of Birchmen (Official Video)" >}}<br>
@@ -74,8 +79,6 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Mountain_(album) |
-| Wikipedia Summary | Blood Mountain is the third full-length studio album and major label debut by American heavy metal band Mastodon. The recording of the album finished in April 2006 and it was released on September 12 in the UK and September 12, 2006 in North America through Reprise Records. The album in full could be streamed at the band's MySpace page a few days prior to the release.<br>Like Mastodon's previous studio work Leviathan, Blood Mountain is a concept album. According to bassist Troy Sanders, "It's about climbing up a mountain and the different things that can happen to you when you're stranded on a mountain, in the woods, and you're lost. You're starving, hallucinating, running into strange creatures. You're being hunted. It's about that whole struggle." Guitarist Bill Kelliher considers this album to represent the earth element. At the time, bassist Troy Sanders called it "sonically the best album we have done." The band's emphasis on clean, melodic vocals instead of the harsher vocals that the band used on their early work continues to grow on this album.<br>The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skull", Josh Homme of Queens of the Stone Age on "Colony of Birchmen", as well as keyboard player Isaiah "Ikey" Owens of The Mars Volta and singer Cedric Bixler-Zavala of At the Drive-In and The Mars Volta on "Pendulous Skin" and "Siberian Divide", respectively. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Repress (Green Marbled) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49293-8 |

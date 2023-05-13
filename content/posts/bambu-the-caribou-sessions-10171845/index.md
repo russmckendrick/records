@@ -52,7 +52,10 @@ styles: ["Pop Rock", "Soft Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### It's Not Too Late
 {{< youtube id="t9K6LGai3n0" title="It's Not Too Late" >}}<br>
@@ -81,7 +84,6 @@ styles: ["Pop Rock", "Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Green) |
 | Label          | Caribou Records |
 | Catalog Number | 88985403631 |

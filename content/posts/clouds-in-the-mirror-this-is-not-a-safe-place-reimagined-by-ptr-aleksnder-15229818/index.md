@@ -36,9 +36,12 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/clouds-in-the-mirror-this-is-not-a-safe/1500022098" >}}
+{{< applemusic url="https://music.apple.com/gb/album/clouds-in-the-mirror-this-is-not-a-safe/1500022098" >}}<br>
+
+
 ## Videos
 ### R.I.D.E. (Reimagined by Pêtr Aleksänder)
 {{< youtube id="v1sOUkKI0Sc" title="R.I.D.E. (Reimagined by Pêtr Aleksänder)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Clear) |
 | Label          | Wichita |
 | Catalog Number | WEBB584LP |

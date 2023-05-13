@@ -54,7 +54,10 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### David Bowie-  You've Been Around (with Reeves Gabrels)
 {{< youtube id="PemstNpfIvg" title="David Bowie-  You've Been Around (with Reeves Gabrels)" >}}<br>
@@ -101,7 +104,6 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Compilation (Red), Vinyl LP Compilation (Blue), All Media Limited Edition Reissue (Gatefold) |
 | Label          | Music Brokers |
 | Catalog Number | VYN048 |

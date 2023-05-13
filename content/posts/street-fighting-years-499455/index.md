@@ -42,9 +42,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Street Fighting Years is the eighth studio album by Scottish rock band Simple Minds, released in May 1989 by record label Virgin Records worldwide apart from the US, where it was released by A&M. Produced by Trevor Horn and Stephen Lipson, the album reached the top of the UK Albums Chart.Produced by Trevor Horn and Stephen Lipson, it was a major stylistic departure from the previous album, 1985's Once Upon a Time. While still maintaining the epic arena rock sense of scale and drama which the band had developed since the mid-1980s, Street Fighting Years also moved away from the American soul and gospel influences of its predecessor in favour of soundtrack atmospherics and a new incorporation of acoustic and Celtic/folk music-related ingredients including fretless bass, slide guitar and accordion. The lyrics built on the more political themes which the band had introduced with "Ghost Dancing", moving away from the impressionistic or spiritual concerns of earlier 1980s Simple Minds songs and covering topics including the Poll Tax, the Soweto townships, the Berlin Wall and the stationing of nuclear submarines on the Scottish coast.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/street-fighting-years-super-deluxe/1494164697" >}}
+{{< applemusic url="https://music.apple.com/gb/album/street-fighting-years-super-deluxe/1494164697" >}}<br>
+
+
 ## Videos
 ### Street Fighting Years (Remastered 2002)
 {{< youtube id="jE6ET1kBwi8" title="Street Fighting Years (Remastered 2002)" >}}<br>
@@ -59,8 +64,6 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Street_Fighting_Years |
-| Wikipedia Summary | Street Fighting Years is the eighth studio album by Scottish rock band Simple Minds, released in May 1989 by record label Virgin Records worldwide apart from the US, where it was released by A&M. Produced by Trevor Horn and Stephen Lipson, the album reached the top of the UK Albums Chart.Produced by Trevor Horn and Stephen Lipson, it was a major stylistic departure from the previous album, 1985's Once Upon a Time. While still maintaining the epic arena rock sense of scale and drama which the band had developed since the mid-1980s, Street Fighting Years also moved away from the American soul and gospel influences of its predecessor in favour of soundtrack atmospherics and a new incorporation of acoustic and Celtic/folk music-related ingredients including fretless bass, slide guitar and accordion. The lyrics built on the more political themes which the band had introduced with "Ghost Dancing", moving away from the impressionistic or spiritual concerns of earlier 1980s Simple Minds songs and covering topics including the Poll Tax, the Soweto townships, the Berlin Wall and the stationing of nuclear submarines on the Scottish coast. |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | MINDS1 |

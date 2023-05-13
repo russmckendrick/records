@@ -43,9 +43,14 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 No Prayer for the Dying is the eighth studio album by English heavy metal band Iron Maiden. It is their first album to feature Janick Gers on guitar, who replaced Adrian Smith. Smith left the band during the pre-production phase, unhappy with the musical direction it was taking, and only having contributed to one song, "Hooks in You". Gers previously worked with singer Bruce Dickinson on his first solo album, Tattooed Millionaire, and had also worked with Ian Gillan, former Marillion singer Fish, and new wave of British heavy metal band, White Spirit.Although it received generally mixed to negative reviews, the album peaked at No. 2 in the UK Albums Chart and contains the band's only UK Singles Chart No. 1, "Bring Your Daughter... to the Slaughter".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-prayer-for-the-dying/979954026" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-prayer-for-the-dying/979954026" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ No Prayer for the Dying is the eighth studio album by English heavy metal band I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Prayer_for_the_Dying |
-| Wikipedia Summary | No Prayer for the Dying is the eighth studio album by English heavy metal band Iron Maiden. It is their first album to feature Janick Gers on guitar, who replaced Adrian Smith. Smith left the band during the pre-production phase, unhappy with the musical direction it was taking, and only having contributed to one song, "Hooks in You". Gers previously worked with singer Bruce Dickinson on his first solo album, Tattooed Millionaire, and had also worked with Ian Gillan, former Marillion singer Fish, and new wave of British heavy metal band, White Spirit.Although it received generally mixed to negative reviews, the album peaked at No. 2 in the UK Albums Chart and contains the band's only UK Singles Chart No. 1, "Bring Your Daughter... to the Slaughter". |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295852351 |

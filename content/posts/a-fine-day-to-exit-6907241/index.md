@@ -46,9 +46,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-fine-day-to-exit-remastered/970425242" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-fine-day-to-exit-remastered/970425242" >}}<br>
+
+
 ## Videos
 ### Anathema - A Fine Day To Exit
 {{< youtube id="woqLX7lunAA" title="Anathema - A Fine Day To Exit" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88875058501 |

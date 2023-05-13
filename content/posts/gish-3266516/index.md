@@ -52,9 +52,14 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 <!-- section break -->
 
 Gish is the debut studio album by American alternative rock band the Smashing Pumpkins, released in May 1991 through Caroline Records. Frontman Billy Corgan has variously described Gish as a "very spiritual album" and "an album about spiritual ascension".Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (one million copies shipped in the US) by the RIAA. On April 1, 2019 Rolling Stone magazine ranked Gish the 32nd greatest grunge album of all time.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gish-deluxe-edition/1471016488" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gish-deluxe-edition/1471016488" >}}<br>
+
+
 ## Videos
 ### Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}
 {{< youtube id="E2RDyA8id0A" title="Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}" >}}<br>
@@ -77,8 +82,6 @@ Gish is the debut studio album by American alternative rock band the Smashing Pu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gish |
-| Wikipedia Summary | Gish is the debut studio album by American alternative rock band the Smashing Pumpkins, released in May 1991 through Caroline Records. Frontman Billy Corgan has variously described Gish as a "very spiritual album" and "an album about spiritual ascension".Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (one million copies shipped in the US) by the RIAA. On April 1, 2019 Rolling Stone magazine ranked Gish the 32nd greatest grunge album of all time. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 5099990959615 |

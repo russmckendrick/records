@@ -34,9 +34,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/is-this-it/269080434" >}}
+{{< applemusic url="https://music.apple.com/gb/album/is-this-it/269080434" >}}<br>
+
+
 ## Videos
 ### The Strokes - Last Nite (Official Music Video)
 {{< youtube id="TOypSnKFHrE" title="The Strokes - Last Nite (Official Music Video)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Rough Trade |
 | Catalog Number | RTRADELP030 |

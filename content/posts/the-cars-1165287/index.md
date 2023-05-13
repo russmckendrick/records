@@ -39,9 +39,15 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 The Cars’ classic ‘70s and ‘80s run captures a band carrying rock ‘n’ roll into the future without ever losing sight of the past. Their debut single, 1978’s “Just What I Needed,” is a shot across punk’s bow, wedding power pop’s punch to hard-rock choruses, while “My Best Friend’s Girl,” from the same year, is full of ‘50s twang. By 1981’s “Shake It Up,” peppy New Wave keyboards have stormed the sock hop, and 1984’s “Drive” is a synth-pop power ballad par excellence.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/complete-greatest-hits/1088530786" >}}
+{{< applemusic url="https://music.apple.com/gb/album/complete-greatest-hits/1088530786" >}}<br>
+
+
 ## Videos
 ### Good Times Roll
 {{< youtube id="Ki6xHnDAwHw" title="Good Times Roll" >}}<br>
@@ -63,8 +69,6 @@ The Cars’ classic ‘70s and ‘80s run captures a band carrying rock ‘n’ 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Cars_(album) |
-| Wikipedia Summary | The Cars is the debut studio album by American rock band the Cars, released on June 6, 1978, by Elektra Records. Produced by Roy Thomas Baker, the album spawned the singles "Just What I Needed", "My Best Friend's Girl", and "Good Times Roll". It peaked at number 18 on the US Billboard 200 and has been certified six-times platinum by the Recording Industry Association of America (RIAA). |
-    | Release Year   | 1978                                   |
 | Format         | Vinyl LP Album |
 | Label          | Elektra |
 | Catalog Number | K 52088 |

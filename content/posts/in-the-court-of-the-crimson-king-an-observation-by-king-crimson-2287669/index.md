@@ -33,7 +33,10 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### King Crimson - 21st Century Schizoid Man (Including Mirrors)
 {{< youtube id="7OvW8Z7kiws" title="King Crimson - 21st Century Schizoid Man (Including Mirrors)" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1969                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Island Records |
 | Catalog Number | ILPS 9111 |

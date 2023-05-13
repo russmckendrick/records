@@ -37,9 +37,14 @@ Temple of Low Men is the second studio album by New Zealand-Australian rock band
 At the ARIA Music Awards of 1989 the group won four categories: Album of the Year and Best Group for Temple of Low Men; Best Cover Art for Seymour's work; and Song of the Year for "Better Be Home Soon".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738" >}}
+{{< applemusic url="https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738" >}}<br>
+
+
 ## Videos
 ### Crowded House - I Feel Possessed
 {{< youtube id="FhhB4ztWFbQ" title="Crowded House - I Feel Possessed" >}}<br>
@@ -62,8 +67,6 @@ At the ARIA Music Awards of 1989 the group won four categories: Album of the Yea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Temple_of_Low_Men |
-| Wikipedia Summary | Temple of Low Men is the second studio album by New Zealand-Australian rock band Crowded House, released by Capitol Records on 5 July 1988. The three band members, Neil Finn, Nick Seymour and Paul Hester, recorded the album in Melbourne and Los Angeles with Mitchell Froom as producer. Finn had written all ten tracks during the two years since their self-titled debut. Temple of Low Men peaked at number one in Australia, number two in New Zealand, number ten in Canada and number 40 on the US Billboard 200.<br>At the ARIA Music Awards of 1989 the group won four categories: Album of the Year and Best Group for Temple of Low Men; Best Cover Art for Seymour's work; and Song of the Year for "Better Be Home Soon".<br><br> |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2064 |

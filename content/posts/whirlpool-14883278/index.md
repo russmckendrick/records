@@ -34,9 +34,12 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whirlpool/400359123" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whirlpool/400359123" >}}<br>
+
+
 ## Videos
 ### If You Want Me
 {{< youtube id="nlr4f0kjlMo" title="If You Want Me" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & Silver Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2567 |

@@ -51,9 +51,12 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}<br>
+
+
 ## Videos
 ### Gather Up
 {{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP605 |

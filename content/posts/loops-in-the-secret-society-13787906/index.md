@@ -47,9 +47,12 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/loops-in-the-secret-society/1667806926" >}}
+{{< applemusic url="https://music.apple.com/gb/album/loops-in-the-secret-society/1667806926" >}}<br>
+
+
 ## Videos
 ### Element (Loops Variation)
 {{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition |
 | Label          | Fire Records |
 | Catalog Number | FIRELP538 |

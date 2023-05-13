@@ -38,9 +38,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/residue/1191817521" >}}
+{{< applemusic url="https://music.apple.com/gb/album/residue/1191817521" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered Test Pressing |
 | Label          | Rockosmos |
 | Catalog Number | ROK221 |

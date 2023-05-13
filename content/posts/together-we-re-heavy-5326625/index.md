@@ -37,9 +37,12 @@ styles: ["Art Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/together-were-heavy/903318414" >}}
+{{< applemusic url="https://music.apple.com/gb/album/together-were-heavy/903318414" >}}<br>
+
+
 ## Videos
 ### The Polyphonic Spree - Section 20 (Together We're Heavy)
 {{< youtube id="zpAOozUt-K8" title="The Polyphonic Spree - Section 20 (Together We're Heavy)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Art Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2004                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Hollywood Records |
 | Catalog Number | 2061-62423-1 |

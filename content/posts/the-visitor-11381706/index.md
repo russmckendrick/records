@@ -42,9 +42,15 @@ styles: []
 <!-- section break -->
 
 Like many of Neil Young's protest albums before it, <i>The Visitor</i> is another pull-no-punches affair, packing some of his most potent political statements to date. "I’m Canadian, by the way/And I love the USA,” he sings on “Already Great,” likening his adopted home to “the promised land… the helping hand” over sludgy piano and guitar. Then, with caustic wit, he plays an anti-environmentalist pipeline foreman on “Fly by Night Deal." But Young saves his most pointed jab for the languid, bluesy stomper “When Bad Got Good,” leading the band in a chant: “He lies/You lie/Lock him up!”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-visitor/1299337620" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-visitor/1299337620" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,8 +60,6 @@ Like many of Neil Young's protest albums before it, <i>The Visitor</i> is anothe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Visitor_(Neil_Young_and_Promise_of_the_Real_album) |
-| Wikipedia Summary | The Visitor is the 38th studio album by Canadian / American singer-songwriter Neil Young and his second studio album with American rock group Promise of the Real. The album was released on December 1, 2017, on Reprise Records. The album was preceded by the singles "Children of Destiny", which was released on July 4, 2017, and "Already Great", which was released on November 3, 2017 and is in response to President Donald Trump's campaign slogan of Make America Great Again. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | Reprise Records |
 | Catalog Number | 564840-1 |

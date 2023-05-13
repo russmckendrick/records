@@ -46,9 +46,15 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 <i>Here</i> finds the Scottish indie veterans doing what they do best. Their 10th full-length is a beautifully crafted set of chiming guitars and poignant reflection that borders on the bittersweet—from the psychedelic sadness of “I Was Beautiful When I Was Alive” to the autumnal strums of “The Darkest Part of the Night”, a song whose end we always dread.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/here/1125410429" >}}
+{{< applemusic url="https://music.apple.com/gb/album/here/1125410429" >}}<br>
+
+
 ## Videos
 ### Teenage Fanclub - I'm In Love
 {{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}<br>
@@ -63,8 +69,6 @@ styles: ["Indie Pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Here_(Teenage_Fanclub_album) |
-| Wikipedia Summary | Here is the tenth studio album by Scottish alternative rock band Teenage Fanclub, released on 9 September 2016 on the band's own PeMa label in Europe and on Merge Records in North America. It was the band's final album to feature bassist and co-founder Gerard Love, who left the band in November 2018. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Pema |
 | Catalog Number | PEMA009LP |

@@ -39,9 +39,15 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 <!-- section break -->
 
 Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot like Mazzy Star’s second album. Tambourines roll at tumbleweed tempos, a lap steel gently weeps, and Hope Sandoval sings with the fluid grace of a waking dream. The title track is a psychedelic swirl of feedback and gentle murmurs, and “Mary of Silence” goes even deeper into Doors-inspired drone rock. On “Fade into You,” Sandoval’s weary voice falls across acoustic strumming like velvet curtains brushing an empty dance floor.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/so-tonight-that-i-might-see/1440848808" >}}
+{{< applemusic url="https://music.apple.com/gb/album/so-tonight-that-i-might-see/1440848808" >}}<br>
+
+
 ## Videos
 ### Fade Into You
 {{< youtube id="avv2IIdDnnk" title="Fade Into You" >}}<br>
@@ -65,8 +71,6 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/So_Tonight_That_I_Might_See |
-| Wikipedia Summary | So Tonight That I Might See is the second studio album by American alternative rock band Mazzy Star, released on October 5, 1993.<br>The album's first track, "Fade into You", became the band's first and only single to make the Billboard Hot 100 chart, peaking at number 44, and also charted at number 48 on the UK Singles Chart. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Capitol Records |
 | Catalog Number | 00602557537574 |

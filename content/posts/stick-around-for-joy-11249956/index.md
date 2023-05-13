@@ -37,9 +37,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Stick Around for Joy is the third and final studio album by Icelandic alternative rock band the Sugarcubes. It was released in 1992 by Elektra. The album was supported by four singles: "Hit", which reached number one on the Modern Rock Tracks chart in the US and number 17 on the UK Singles Chart, "Walkabout", "Vitamin" and "Leash Called Love", which went to number one on the US Dance chart.The album peaked at number 95 on the Billboard 200 and reached number 16 on the UK Albums Chart, marking the band's lowest charting positions on both charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stick-around-for-joy/1472202997" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stick-around-for-joy/1472202997" >}}<br>
+
+
 ## Videos
 ### Gold
 {{< youtube id="GMLOzVaiF0M" title="Gold" >}}<br>
@@ -62,8 +67,6 @@ Stick Around for Joy is the third and final studio album by Icelandic alternativ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stick_Around_for_Joy |
-| Wikipedia Summary | Stick Around for Joy is the third and final studio album by Icelandic alternative rock band the Sugarcubes. It was released in 1992 by Elektra. The album was supported by four singles: "Hit", which reached number one on the Modern Rock Tracks chart in the US and number 17 on the UK Singles Chart, "Walkabout", "Vitamin" and "Leash Called Love", which went to number one on the US Dance chart.The album peaked at number 95 on the Billboard 200 and reached number 16 on the UK Albums Chart, marking the band's lowest charting positions on both charts. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | One Little Indian |
 | Catalog Number | tplp30dmm |

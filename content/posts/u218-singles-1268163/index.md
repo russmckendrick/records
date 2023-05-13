@@ -74,9 +74,14 @@ U218 Singles is a greatest hits album by Irish rock band U2, released in Novembe
 The album debuted on the Billboard 200 albums chart on 9 December 2006 at number 12 with sales of 134,000 copies. It spent 45 weeks on the chart. Despite not being released until November 2006, it was the seventh-highest-selling album in the world that year.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/u218-singles-deluxe-edition/1440729856" >}}
+{{< applemusic url="https://music.apple.com/gb/album/u218-singles-deluxe-edition/1440729856" >}}<br>
+
+
 
 
 ## Release Images
@@ -86,8 +91,6 @@ The album debuted on the Billboard 200 albums chart on 9 December 2006 at number
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/U218_Singles |
-| Wikipedia Summary | U218 Singles is a greatest hits album by Irish rock band U2, released in November 2006. In most markets, the album contains 18 songs: 16 of their most successful and popular singles, and two new songs. The 17th track is a cover version of the Skids' "The Saints Are Coming", recorded with Green Day to benefit Hurricane Katrina charities. The 18th and closing track was a new song entitled "Window in the Skies". In some markets such as the United Kingdom, an extra song, "I Will Follow", was included as the opening track. A DVD compilation of music videos from throughout the group's career entitled U218 Videos was released concurrent to U218 Singles.<br>The album debuted on the Billboard 200 albums chart on 9 December 2006 at number 12 with sales of 134,000 copies. It spent 45 weeks on the chart. Despite not being released until November 2006, it was the seventh-highest-selling album in the world that year.<br><br> |
-| Release Year   | 2006                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Island Records |
 | Catalog Number | U218 - 0602517135505 |

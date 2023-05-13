@@ -38,9 +38,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-drifters-golden-hits-mono/1566599254" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-drifters-golden-hits-mono/1566599254" >}}<br>
+
+
 ## Videos
 ### The Drifters - Saturday Night At The Movies
 {{< youtube id="yIkjFhoW2ns" title="The Drifters - Saturday Night At The Movies" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Atlantic |
 | Catalog Number | K 40018 |

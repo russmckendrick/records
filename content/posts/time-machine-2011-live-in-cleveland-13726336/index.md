@@ -59,9 +59,14 @@ styles: ["Prog Rock", "Hard Rock"]
 
 Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011.
 The album was nominated for a Juno Award in the "Music DVD of the Year" category. On 14 May 2014, the DVD was certified 2× Platinum in the US with 200,000 copies sold. It was later reissued as a part of the DVD and Blu-ray box set titled R40, released on 11 November 2014.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/time-machine-2011-live-in-cleveland/470703540" >}}
+{{< applemusic url="https://music.apple.com/gb/album/time-machine-2011-live-in-cleveland/470703540" >}}<br>
+
+
 
 
 ## Release Images
@@ -71,8 +76,6 @@ The album was nominated for a Juno Award in the "Music DVD of the Year" category
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time_Machine_2011:_Live_in_Cleveland |
-| Wikipedia Summary | Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011.<br>The album was nominated for a Juno Award in the "Music DVD of the Year" category. On 14 May 2014, the DVD was certified 2× Platinum in the US with 200,000 copies sold. It was later reissued as a part of the DVD and Blu-ray box set titled R40, released on 11 November 2014. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 4× LP Album Reissue (180g) |
 | Label          | Anthem (5) |
 | Catalog Number | R1 176655 |

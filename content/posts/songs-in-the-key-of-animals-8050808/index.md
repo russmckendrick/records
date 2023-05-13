@@ -36,9 +36,14 @@ styles: ["Indie Pop"]
 <!-- section break -->
 
 Songs in the Key of Animals is the second studio album by American musician Benji Hughes. It was released in 2016 under Merge Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-animals/1047014473" >}}
+{{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-animals/1047014473" >}}<br>
+
+
 ## Videos
 ### Benji Hughes - Peacockin' Party (Official Music Video)
 {{< youtube id="rmHcDfvHP-A" title="Benji Hughes - Peacockin' Party (Official Music Video)" >}}<br>
@@ -51,8 +56,6 @@ Songs in the Key of Animals is the second studio album by American musician Benj
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Animals |
-| Wikipedia Summary | Songs in the Key of Animals is the second studio album by American musician Benji Hughes. It was released in 2016 under Merge Records. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Merge Records |
 | Catalog Number | MRG551 |

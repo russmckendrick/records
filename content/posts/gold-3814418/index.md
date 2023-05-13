@@ -54,9 +54,14 @@ The album includes "When the Stars Go Blue", which has been covered by artists s
 Adams' friend and former roommate Adam Duritz (lead singer of Counting Crows) lends background vocals to several tracks.
 Adams received three Grammy Award nominations in 2002: Best Rock Album, Best Male Rock Vocal Performance for "New York, New York", and Best Male Country Vocal Performance for "Lovesick Blues", a song recorded for the Hank Williams tribute album, "Timeless".
 Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the Stars Go Blue". Also, the song "The Rescue Blues" was featured in an episode of Scrubs. In 2011, "Answering Bell" was featured in the film and on the soundtrack to Bridesmaids. "La Cienega Just Smiled" was featured in the Angel episode Unleashed.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gold/1452859795" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gold/1452859795" >}}<br>
+
+
 ## Videos
 ### Ryan Adams - New York, New York
 {{< youtube id="hmHgY_J63Ik" title="Ryan Adams - New York, New York" >}}<br>
@@ -86,8 +91,6 @@ Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gold_(Ryan_Adams_album) |
-| Wikipedia Summary | Gold is the second studio album by Ryan Adams, released September 25, 2001 on Lost Highway Records. The album remains Adams' best-selling album, certifying gold in the UK and going on to sell 364,000 copies in the U.S. and 812,000 worldwide. Adams noted that "with Gold, I was trying to prove something to myself. I wanted to invent a modern classic."Adams intended for the album to be a double album, but his record label, Lost Highway, condensed the album into a single disc. According to Adams, the label "took the last five songs, made it a bonus disc and put it on the first hundred and fifty thousand copies. Fucking my fans over and making them pay extra for a record I wanted to be a double album. They counted that as one record." This bonus disc is known as Side Four; the disc's title reflects the fact that the bonus material makes up the fourth side of the double LP edition of the album.<br>The album includes "When the Stars Go Blue", which has been covered by artists such as The Corrs and Bono, Tyler Hilton, Bethany Joy Galeotti, Tim McGraw and as a duo by Kurt Nilsen featuring Venke Knutson. "New York, New York" became a notable MTV and VH1 favorite following the September 11 attacks. "The Rescue Blues" was featured in the end credits of the 2001 film Behind Enemy Lines.<br>Adams' friend and former roommate Adam Duritz (lead singer of Counting Crows) lends background vocals to several tracks.<br>Adams received three Grammy Award nominations in 2002: Best Rock Album, Best Male Rock Vocal Performance for "New York, New York", and Best Male Country Vocal Performance for "Lovesick Blues", a song recorded for the Hank Williams tribute album, "Timeless".<br>Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the Stars Go Blue". Also, the song "The Rescue Blues" was featured in an episode of Scrubs. In 2011, "Answering Bell" was featured in the film and on the soundtrack to Bridesmaids. "La Cienega Just Smiled" was featured in the Angel episode Unleashed. |
-| Release Year   | 2008                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Lost Highway |
 | Catalog Number | 008817023519 |

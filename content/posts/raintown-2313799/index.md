@@ -38,9 +38,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/raintown/570301445" >}}
+{{< applemusic url="https://music.apple.com/gb/album/raintown/570301445" >}}<br>
+
+
 ## Videos
 ### Born in a Storm
 {{< youtube id="xahuOCodtL0" title="Born in a Storm" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 450549 1 |

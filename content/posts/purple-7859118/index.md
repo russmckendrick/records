@@ -58,9 +58,14 @@ styles: ["Stoner Rock", "Progressive Metal", "Heavy Metal"]
 
 Purple is the fourth studio album by American heavy metal band Baroness. It was released December 18, 2015 through the band's newly founded label Abraxan Hymns. It is the first album to be released by the band following their involvement in the 2012 bus accident that left nine people injured; it is also the first album to feature new band members Nick Jost and Sebastian Thomson, playing bass/keyboards and drums respectively and the last album to feature Pete Adams before his departure from the band in 2017.
 The first single from the album, "Chlorine & Wine", was released on August 28, 2015. The second single from the album, "Shock Me", was released on November 15, 2015 and reached number 28 on the Mainstream Rock Tracks chart in the US. The album was included at number 23 on Rock Sound's top 50 releases of 2015 list and at number 7 on Rolling Stone's Best Metal Albums of 2015 list.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/purple/1032909985" >}}
+{{< applemusic url="https://music.apple.com/gb/album/purple/1032909985" >}}<br>
+
+
 ## Videos
 ### BARONESS - Chlorine & Wine [Official Music Video]
 {{< youtube id="DnYO7iQfQDQ" title="BARONESS - Chlorine & Wine [Official Music Video]" >}}<br>
@@ -77,8 +82,6 @@ The first single from the album, "Chlorine & Wine", was released on August 28, 2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Purple_(Baroness_album) |
-| Wikipedia Summary | Purple is the fourth studio album by American heavy metal band Baroness. It was released December 18, 2015 through the band's newly founded label Abraxan Hymns. It is the first album to be released by the band following their involvement in the 2012 bus accident that left nine people injured; it is also the first album to feature new band members Nick Jost and Sebastian Thomson, playing bass/keyboards and drums respectively and the last album to feature Pete Adams before his departure from the band in 2017.<br>The first single from the album, "Chlorine & Wine", was released on August 28, 2015. The second single from the album, "Shock Me", was released on November 15, 2015 and reached number 28 on the Mainstream Rock Tracks chart in the US. The album was included at number 23 on Rock Sound's top 50 releases of 2015 list and at number 7 on Rolling Stone's Best Metal Albums of 2015 list. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180 gram) |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN-001 |

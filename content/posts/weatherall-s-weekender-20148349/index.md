@@ -29,9 +29,12 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/weatheralls-weekender/1549273189" >}}
+{{< applemusic url="https://music.apple.com/gb/album/weatheralls-weekender/1549273189" >}}<br>
+
+
 ## Videos
 ### HVN16 - Flowered Up 'Weekender'  film
 {{< youtube id="RrpCdoRgBpQ" title="HVN16 - Flowered Up 'Weekender'  film" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM Limited Edition Reissue (Yellow) |
 | Label          | Heavenly |
 | Catalog Number | HVN589 |

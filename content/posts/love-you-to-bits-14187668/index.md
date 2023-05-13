@@ -37,9 +37,14 @@ Love You to Bits is the seventh studio album by No-Man.Released as the first alb
 Produced, written and performed by No-Man and mixed by Bruno Ellingham, former Miles Davis keyboard player Adam Holzman, drummer Ash Soan, The Dave Desmond Brass Quintet, No-Man live bassist Pete Morgan and Slovak Jazz guitarist David Kollar guest.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-you-to-bits/1489308225" >}}
+{{< applemusic url="https://music.apple.com/gb/album/love-you-to-bits/1489308225" >}}<br>
+
+
 ## Videos
 ### Love You To Bits (Bit 1)
 {{< youtube id="eWRjB06579s" title="Love You To Bits (Bit 1)" >}}<br>
@@ -60,8 +65,6 @@ Produced, written and performed by No-Man and mixed by Bruno Ellingham, former M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_You_to_Bits |
-| Wikipedia Summary | Love You to Bits is the seventh studio album by No-Man.Released as the first album for 11 years after Schoolyard Ghosts (2008), the album consists of two five-part song cycles and has been described as, "Chronicling the aftermath of a relationship from different perspectives". Within the songs, each part is called a "bit" or a "piece". Musically, the album represents a return to the more electronic, beat-driven sound of the band's earliest albums, while also incorporating conceptual and organic elements that echo approaches heard on the band's later releases.<br>"Love You to Bits" (Bit 1) was released as a single in early November 2019, along with a 13-minute non-album instrumental B-side entitled "Love You to Shreds (Shreds 1–3)".<br>Produced, written and performed by No-Man and mixed by Bruno Ellingham, former Miles Davis keyboard player Adam Holzman, drummer Ash Soan, The Dave Desmond Brass Quintet, No-Man live bassist Pete Morgan and Slovak Jazz guitarist David Kollar guest.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Caroline International |
 | Catalog Number | CAROL020LP |

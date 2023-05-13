@@ -50,9 +50,14 @@ styles: ["Electric Blues", "Chicago Blues"]
 <!-- section break -->
 
 American blues has long been part of the Stones’ DNA, and <i>Blue & Lonesome</i> is a greasy, grimy tribute to their blues heroes. Deep cuts by the likes of Jimmy Reed, Howlin’ Wolf, Magic Sam, and Little Walter are delivered with soulful reverence, showing that even rock ‘n’ roll legends are still just music fans at heart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-lonesome/1440863936" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-lonesome/1440863936" >}}<br>
+
+
 ## Videos
 ### The Rolling Stones - Hate To See You Go
 {{< youtube id="lrIjMzBr-ck" title="The Rolling Stones - Hate To See You Go" >}}<br>
@@ -69,8 +74,6 @@ American blues has long been part of the Stones’ DNA, and <i>Blue & Lonesome</
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | American blues has long been part of the Stones’ DNA, and <i>Blue & Lonesome</i> is a greasy, grimy tribute to their blues heroes. Deep cuts by the likes of Jimmy Reed, Howlin’ Wolf, Magic Sam, and Little Walter are delivered with soulful reverence, showing that even rock ‘n’ roll legends are still just music fans at heart. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Rolling Stones Records |
 | Catalog Number | 571 494-4 |

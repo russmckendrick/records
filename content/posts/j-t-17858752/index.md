@@ -45,9 +45,13 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="02DqMqXTuEauf2EQsHZtmB" width="100%" height="500" >}}
+{{< spotify type="album" id="02DqMqXTuEauf2EQsHZtmB" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Steve Earle & The Dukes - Far Away In Another Town [Audio Only]
 {{< youtube id="yqcFxkhM_i0" title="Steve Earle & The Dukes - Far Away In Another Town [Audio Only]" >}}<br>
@@ -69,7 +73,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | New West Records |
 | Catalog Number | NW5492 |

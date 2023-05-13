@@ -49,7 +49,10 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Mental As Anything   Live It Up
 {{< youtube id="kK_eQImKnPA" title="Mental As Anything   Live It Up" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Compilation Reissue (Red), Vinyl LP Album Compilation Reissue (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC655 |

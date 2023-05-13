@@ -37,9 +37,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-the-orpheum/950800441" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-the-orpheum/950800441" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLV1 |

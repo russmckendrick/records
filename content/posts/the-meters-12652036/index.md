@@ -44,9 +44,15 @@ styles: ["Bayou Funk"]
 The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo Modeliste (drums), George Porter Jr. (bass), Leo Nocentelli (guitar) and Art Neville (keyboards). The band performed and recorded their own music from the late 1960s until 1977 and played an influential role as backing musicians for other artists, including Lee Dorsey, Robert Palmer, Dr. John, and Allen Toussaint. Their original songs "Cissy Strut" and "Look-Ka Py Py" are considered funk classics.While they rarely enjoyed significant mainstream success, they are considered originators of funk along with artists like James Brown, and their work is influential on many other bands, both their contemporaries and modern musicians. Their sound is defined by a combination of tight melodic grooves and syncopated New Orleans "second line" rhythms under highly charged guitar and keyboard riffing. The band has been nominated four times for induction into the Rock and Roll Hall of Fame, most recently in 2017. In 2018 the band was presented with the Grammy Lifetime Achievement Award.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}<br>
+
+
 ## Videos
 ### The Meters- Cardova
 {{< youtube id="bzjGeyW0MpE" title="The Meters- Cardova" >}}<br>
@@ -75,8 +81,6 @@ The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Meters |
-| Apple Music Summary | Often considered one of the very first trip-hop albums (released before the term was coined!), <i>Blue Lines</i> is a masterpiece no matter what genre it is filed under. Elements of hip-hop, dub, funk, soul, R&B and electronic music come together in unforeseen ways. A variety of singers guest, with Shara Nelson bringing a notable imprint to the low-key "Safe From Harm," Horace Andy turning the elliptical keyboard lines of "One Love" into a formidable nightclub track, and Tricky rapping rather sedately through the title tune. The brilliance of this 45-minute excursion into a new world of sound can't be underestimated. Many of its stylistic choices became standard operating procedure for other musicians in the developing genre, but no one made such moves with more authority than Massive Attack. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2195 |

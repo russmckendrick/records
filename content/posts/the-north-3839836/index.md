@@ -82,9 +82,15 @@ While that relationship opened her eyes to some of the industry’s—and men at
 
 <b>“blessings”</b>
 “I wrote ‘blessings’ when I was in D.C. It’s one of the first songs I wrote. At the time, I was not talking to the same person I’ve been talking about. We were not on speaking terms. I guess I was going through breakup blues. I felt like I wasn’t enough for that person, and I was figuring out how to be enough for myself. But at the same time, I was in D.C. A label had paid for me to go out there and make an album. I was too sad to get out of bed, but if I could just get out of this funk and realise there’s blessings around me, I could find a way to be present for them. And wherever you are, a person needs that. And life goes on, with time, you know?”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/remember-your-north-star/1610345642" >}}
+{{< applemusic url="https://music.apple.com/gb/album/remember-your-north-star/1610345642" >}}<br>
+
+
 ## Videos
 ### Stars - The Theory of Relativity
 {{< youtube id="Ta1xEMypk2Q" title="Stars - The Theory of Relativity" >}}<br>
@@ -110,8 +116,6 @@ While that relationship opened her eyes to some of the industry’s—and men at
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_North_(Stars_album) |
-| Wikipedia Summary | The North is the sixth full-length studio album by Canadian indie pop band Stars. It was released on September 4, 2012, through ATO Records. The album has been characterized as having a more upbeat feel to it compared to previous works, as Amy Millan notes: the album was meant to be "playful, joyful and hopeful." The album debuted at number 5 on the Canadian Albums Chart.The album's cover shows the Habitat 67 complex, an experimental housing development as well as architectural landmark in Montreal, the band's home city. |
-    | Release Year   | 2012                                   |
 | Format         | Vinyl LP Album (Blue Translucent) |
 | Label          | ATO Records |
 | Catalog Number | 88088218161 |

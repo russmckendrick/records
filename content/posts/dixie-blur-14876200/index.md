@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 Dixie Blur is the fourth studio album by American musician and producer Jonathan Wilson. It was released on March 6, 2020, by Bella Union.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dixie-blur/1489222560" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dixie-blur/1489222560" >}}<br>
+
+
 ## Videos
 ### Jonathan Wilson - 69 Corvette [Official Music Video]
 {{< youtube id="EGyg7pvkhOw" title="Jonathan Wilson - 69 Corvette [Official Music Video]" >}}<br>
@@ -69,8 +74,6 @@ Dixie Blur is the fourth studio album by American musician and producer Jonathan
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dixie_Blur |
-| Wikipedia Summary | Dixie Blur is the fourth studio album by American musician and producer Jonathan Wilson. It was released on March 6, 2020, by Bella Union. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album (Mint Green) |
 | Label          | Bella Union |
 | Catalog Number | BELLA995VX |

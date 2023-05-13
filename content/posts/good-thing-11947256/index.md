@@ -38,9 +38,15 @@ styles: ["Soul", "Contemporary R&B"]
 <!-- section break -->
 
 On his brilliant 2015 debut album, <i>Coming Home</i>, Texas singer/songwriter Leon Bridges invited comparisons to Sam Cooke and Otis Redding with his authentic take on soul. <i>Good Thing</i>, his 2018 follow-up, finds Bridges leaving the ’50 and ’60s, instead embracing ’70s icons like The Stylistics (“Bet Ain’t Worth the Hand”) and Chic (“You Don’t Know”). More surprises come in “If It Feels Good (Then It Must Be)” and “Bad Bad News,” contemporary jams that show he can swag it out with the likes of Usher and Pharrell too. Bridges' warm tenor is sturdy and smoky as mesquite wood as he combines deep emotions and nimble wordplay on “Beyond,” “Forgive You,” and “Georgia to Texas”—a moving story of his family’s history.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/good-thing/1356338660" >}}
+{{< applemusic url="https://music.apple.com/gb/album/good-thing/1356338660" >}}<br>
+
+
 ## Videos
 ### Leon Bridges - Georgia to Texas (Lyrics)
 {{< youtube id="Au3ZxR5zn6g" title="Leon Bridges - Georgia to Texas (Lyrics)" >}}<br>
@@ -57,8 +63,6 @@ On his brilliant 2015 debut album, <i>Coming Home</i>, Texas singer/songwriter L
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_Thing_(Leon_Bridges_album) |
-| Wikipedia Summary | Good Thing is the second studio album by American singer Leon Bridges. It was released on May 4, 2018, by Columbia Records. The album was supported by three singles: "Bet Ain't Worth the Hand", "Bad Bad News" and "Beyond".<br>Good Thing received generally positive reviews from critics and debuted at number three on the US Billboard 200. The album was nominated for Best R&B Album at the 2019 Grammy Awards. Its single "Bet Ain't Worth the Hand" won a Grammy for Best Traditional R&B Performance. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | C-206928 |

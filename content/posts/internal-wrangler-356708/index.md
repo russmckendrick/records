@@ -44,9 +44,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Internal Wrangler is the debut studio album by British indie rock band Clinic. It was released on 1 May 2000 through Domino Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/internal-wrangler/306614126" >}}
+{{< applemusic url="https://music.apple.com/gb/album/internal-wrangler/306614126" >}}<br>
+
+
 ## Videos
 ### Clinic - Earth Angel
 {{< youtube id="q4OWG1Qze7o" title="Clinic - Earth Angel" >}}<br>
@@ -70,8 +75,6 @@ Internal Wrangler is the debut studio album by British indie rock band Clinic. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Internal_Wrangler |
-| Wikipedia Summary | Internal Wrangler is the debut studio album by British indie rock band Clinic. It was released on 1 May 2000 through Domino Records. |
-| Release Year   | 2000                                   |
 | Format         | Vinyl LP Album |
 | Label          | Domino |
 | Catalog Number | WIGLP78 |

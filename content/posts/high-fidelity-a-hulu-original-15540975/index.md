@@ -34,7 +34,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ann Peebles - I can't stand the Rain 1974
 {{< youtube id="A09GZeORYlo" title="Ann Peebles - I can't stand the Rain 1974" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Compilation Stereo (180g) |
 | Label          | Hollywood Records |
 | Catalog Number | MOND-163 |

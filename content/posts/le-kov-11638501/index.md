@@ -38,9 +38,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/le-kov/1316525300" >}}
+{{< applemusic url="https://music.apple.com/gb/album/le-kov/1316525300" >}}<br>
+
+
 ## Videos
 ### Hi a Skoellyas Liv a Dhagrow
 {{< youtube id="JzYa659k29g" title="Hi a Skoellyas Liv a Dhagrow" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Blue) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP145C |

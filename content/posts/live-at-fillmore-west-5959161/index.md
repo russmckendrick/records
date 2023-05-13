@@ -42,9 +42,14 @@ styles: ["Jazz-Funk"]
 Live at Fillmore West is an album by King Curtis, released in 1971. The album showcases the concert he played with his band the Kingpins at the Fillmore West venue in San Francisco in March 1971 who were supporting and backing soul singer Aretha Franklin. A week after its release in August 1971, Curtis was stabbed to death outside his brownstone apartment in New York City.It was reissued on compact disc in the 1990s through Rhino Records and was released in an expanded edition in 2006. In addition it was released as an expanded edition four-CD box set entitled, Don't Fight the Feeling: The Complete Aretha Franklin & King Curtis Live At Fillmore West by Rhino Handmade in 2005, featuring the complete concert by King Curtis and Aretha Franklin. This edition was limited to 5000 numbered copies.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dont-fight-the-feeling-the-complete-aretha-franklin/955202983" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dont-fight-the-feeling-the-complete-aretha-franklin/955202983" >}}<br>
+
+
 ## Videos
 ### Memphis Soul Stew (Live at Fillmore West, 3/7/1971)
 {{< youtube id="QISOupYqTi4" title="Memphis Soul Stew (Live at Fillmore West, 3/7/1971)" >}}<br>
@@ -66,8 +71,6 @@ Live at Fillmore West is an album by King Curtis, released in 1971. The album sh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Fillmore_West |
-| Wikipedia Summary | Live at Fillmore West is an album by King Curtis, released in 1971. The album showcases the concert he played with his band the Kingpins at the Fillmore West venue in San Francisco in March 1971 who were supporting and backing soul singer Aretha Franklin. A week after its release in August 1971, Curtis was stabbed to death outside his brownstone apartment in New York City.It was reissued on compact disc in the 1990s through Rhino Records and was released in an expanded edition in 2006. In addition it was released as an expanded edition four-CD box set entitled, Don't Fight the Feeling: The Complete Aretha Franklin & King Curtis Live At Fillmore West by Rhino Handmade in 2005, featuring the complete concert by King Curtis and Aretha Franklin. This edition was limited to 5000 numbered copies.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1143 |

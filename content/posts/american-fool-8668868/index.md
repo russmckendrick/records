@@ -34,9 +34,15 @@ styles: ["Southern Rock"]
 
 American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.
 A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track.
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="4gouGcdQn9OvjX42xnWrF0" width="100%" height="500" >}}
+{{< spotify type="album" id="4gouGcdQn9OvjX42xnWrF0" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Hurts So Good
 {{< youtube id="g_9rnnkRX0g" title="Hurts So Good" >}}<br>
@@ -59,8 +65,6 @@ A remastered version of American Fool was released on Mercury/Island/UMe on Marc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Fool |
-| Wikipedia Summary | American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.<br>A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Riva (2) |
 | Catalog Number | RVL 7501 |

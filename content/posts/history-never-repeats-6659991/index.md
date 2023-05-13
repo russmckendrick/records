@@ -31,7 +31,12 @@ styles: ["New Wave"]
 <!-- section break -->
 
 History Never Repeats – The Best of Split Enz is a compilation of hits by New Zealand rock band Split Enz. Initially released in the US in 1987, then in New Zealand and Australia in 1989, the album has been through many variations and reissues over the years.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Split Enz - History Never Repeats
 {{< youtube id="vFp4axRBag8" title="Split Enz - History Never Repeats" >}}<br>
@@ -61,8 +66,6 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/History_Never_Repeats_%E2%80%93_The_Best_of_Split_Enz |
-| Wikipedia Summary | History Never Repeats – The Best of Split Enz is a compilation of hits by New Zealand rock band Split Enz. Initially released in the US in 1987, then in New Zealand and Australia in 1989, the album has been through many variations and reissues over the years. |
-| Release Year   | 1981                                   |
 | Format         | Vinyl 7" 45 RPM Single Etched |
 | Label          | A&M Records |
 | Catalog Number | AMS 8128 |

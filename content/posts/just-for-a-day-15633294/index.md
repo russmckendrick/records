@@ -39,9 +39,14 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 <!-- section break -->
 
 Just for a Day is the debut studio album by English rock band Slowdive. It was released on 2 September 1991 by Creation Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/just-for-a-day/399186360" >}}
+{{< applemusic url="https://music.apple.com/gb/album/just-for-a-day/399186360" >}}<br>
+
+
 ## Videos
 ### Spanish Air
 {{< youtube id="twfEU6MPzDw" title="Spanish Air" >}}<br>
@@ -63,8 +68,6 @@ Just for a Day is the debut studio album by English rock band Slowdive. It was r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Just_for_a_Day |
-| Wikipedia Summary | Just for a Day is the debut studio album by English rock band Slowdive. It was released on 2 September 1991 by Creation Records. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange [Flaming], 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP354 |

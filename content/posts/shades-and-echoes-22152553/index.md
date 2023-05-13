@@ -35,9 +35,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/shades-and-echoes/1593377292" >}}
+{{< applemusic url="https://music.apple.com/gb/album/shades-and-echoes/1593377292" >}}<br>
+
+
 ## Videos
 ### Chances Are (Official Music Video)
 {{< youtube id="Q8iw7N1opTw" title="Chances Are (Official Music Video)" >}}<br>
@@ -54,7 +57,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album |
 | Label          | Warner Music New Zealand |
 | Catalog Number | CAT 5419711037 |

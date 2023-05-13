@@ -40,9 +40,14 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 
 Escapade is the debut studio album by New Zealand musician and founder of Split Enz, Tim Finn. Released in June 1983, the album peaked at number 1 in New Zealand and number 8 in Australia.
 At the 1983 Countdown Australian Music Awards the album won Best Australian Album and "Fraction Too Much Friction" won Best Video.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tim-finn-the-escapade-band-live-at-the-venue-st-kilda-1983/1606863181" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tim-finn-the-escapade-band-live-at-the-venue-st-kilda-1983/1606863181" >}}<br>
+
+
 ## Videos
 ### Tim Finn - Through The Years (1983)
 {{< youtube id="oyVGUQguaic" title="Tim Finn - Through The Years (1983)" >}}<br>
@@ -59,8 +64,6 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Escapade_(Tim_Finn_album) |
-| Wikipedia Summary | Escapade is the debut studio album by New Zealand musician and founder of Split Enz, Tim Finn. Released in June 1983, the album peaked at number 1 in New Zealand and number 8 in Australia.<br>At the 1983 Countdown Australian Music Awards the album won Best Australian Album and "Fraction Too Much Friction" won Best Video. |
-| Release Year   | 1983                                   |
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 53104 |

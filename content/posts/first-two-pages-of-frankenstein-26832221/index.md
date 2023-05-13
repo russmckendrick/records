@@ -63,9 +63,15 @@ The result is <i>First Two Pages of Frankenstein</i>, the veteran indie rock out
 
 <b>“Your Mind Is Not Your Friend”</b>
 “Phoebe—the way she sings is like no other. You can hear her right away. There's something incredibly soothing and comforting about her presence, and the way she sings. This song’s title was something that my wife was echoing to me a lot, she was saying that to me over and over again over the course of this year, and I just kept holding on to that thought. It was really helpful, because, somehow, I was able to not blame myself. It wasn't my fault I was in this position, it was my mind's fault. This wasn't me, it was just my mind playing tricks on me. Phoebe singing that was, in many ways, in this background echoey way, it was the voice of my wife in my head a little bit. I think that's why it felt like a good one to send her.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/first-two-pages-of-frankenstein/1660282625" >}}
+{{< applemusic url="https://music.apple.com/gb/album/first-two-pages-of-frankenstein/1660282625" >}}<br>
+
+
 ## Videos
 ### The National - Eucalyptus (Official Video)
 {{< youtube id="MSywJt3VlUM" title="The National - Eucalyptus (Official Video)" >}}<br>
@@ -82,8 +88,6 @@ The result is <i>First Two Pages of Frankenstein</i>, the veteran indie rock out
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/First_Two_Pages_of_Frankenstein |
-| Wikipedia Summary | First Two Pages of Frankenstein is the ninth studio album by the American indie rock band the National, released on April 28, 2023, by 4AD. The album was produced by The National at Long Pond studio in upstate New York and features guest appearances from Sufjan Stevens, Phoebe Bridgers, and Taylor Swift.<br><br> |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition (Red, Optimal Pressing) |
 | Label          | 4AD |
 | Catalog Number | 4AD0566LPE |

@@ -48,9 +48,12 @@ styles: ["Trip Hop", "Beatdown"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-is-recorded-by-richard-russell/1326029609" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-is-recorded-by-richard-russell/1326029609" >}}<br>
+
+
 ## Videos
 ### Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett
 {{< youtube id="V4xBBRuy87E" title="Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Trip Hop", "Beatdown"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Yellow), CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XL883LPE |

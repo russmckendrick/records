@@ -36,9 +36,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/riding-on-the-tide-of-love/1552700945" >}}
+{{< applemusic url="https://music.apple.com/gb/album/riding-on-the-tide-of-love/1552700945" >}}<br>
+
+
 ## Videos
 ### Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)
 {{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Mini-Album Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0215401EMU |

@@ -54,9 +54,15 @@ The best comparison for 1991’s <i>Use Your Illusion I</i> and its fraternal tw
 This, though, is where Rose’s head was at, and what <i>Use Your Illusion</i> represents: not the spontaneity of bar bands, but the methodical grandeur of blockbusters. The climactic held vocal note of “Don’t Cry”—nearly 30 seconds, twisting in the spotlight—confirms what some listeners probably already figured out: Rose dreamed of opera. He later said he didn’t just want to outdo their debut, but bury it. And in a way, <i>Use Your Illusion</i> is an even scarier effort: tender one minute (“November Rain”, “Dead Horse”) and cruel the next (“Back Off Bitch”, “Bad Obsession”), an exercise in emotional whiplash that verges on the psychopathic.<br />
 But even by the band’s own standards, it was vicious: Where <i>Appetite</i> talks about addiction with a sense of swagger or double entendre (“Nightrain”, “Mr. Brownstone”), <i>Use Your Illusion</i> offers a 10-minute death fantasy called “Coma”; where <i>Appetite</i> is “feel my serpentine” (“Welcome to the Jungle”), <i>Use Your Illusion</i> is “suck my fucking dick” (“Get in the Ring”). Of the two volumes, the second is weirder and more adventurous. Slash once compared the entire project to The Beatles’ White Album (only not as good, he genuflected), but the experience is more like The Rolling Stones’ <i>Exile on Main St.</i>: sprawling, dislocated, less about any single song than the rollercoaster-like effect of the larger picture. And as massive as its impact was on the shape of ’90s rock, there are elements of the albums—and <i>II</i>, especially—that resonate even more closely with gangsta rap: the cinematic scope (“Civil War”), the mix of nostalgia and sentimentality (“Knockin’ on Heaven’s Door”) with almost paranoiac meanness (“You Could Be Mine”).<br />
 Both of its volumes seeing release on the same day, <i>Use Your Illusion</i> came out at a time when a wave of underground bands was redefining mainstream rock by trading grandiosity for modesty. But 1991 also marked the death of Freddie Mercury and, by extension, the end of Queen as we often remember them. The coincidence is poetic: As Nirvana and their peers largely eschewed rock’s taste for spectacle, G N' R embodied it. Like a fading starlet leaning into a nervous breakdown, Axl preens for the camera, knowing it won’t look away.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/use-your-illusion-ii/1389971138" >}}
+{{< applemusic url="https://music.apple.com/gb/album/use-your-illusion-ii/1389971138" >}}<br>
+
+
 ## Videos
 ### Guns N' Roses - Right Next Door To Hell (Visualizer)
 {{< youtube id="4cQg8k3Znvw" title="Guns N' Roses - Right Next Door To Hell (Visualizer)" >}}<br>
@@ -86,8 +92,6 @@ Both of its volumes seeing release on the same day, <i>Use Your Illusion</i> cam
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Use_Your_Illusion_I |
-| Wikipedia Summary | Use Your Illusion I is the third studio album by American hard rock band Guns N' Roses, released on September 17, 1991, the same day as its counterpart Use Your Illusion II. Both albums were released in conjunction with the Use Your Illusion Tour. The album debuted at No. 2 on the Billboard charts, selling 685,000 copies in its first week, behind Use Your Illusion II's first-week sales of 770,000. Use Your Illusion I has sold 5,502,000 units in the United States as of 2010, according to Nielsen SoundScan. Each of the Use Your Illusion albums have been certified 7× Platinum by the RIAA. It was nominated for a Grammy Award in 1992. This is their first album to feature drummer Matt Sorum, who replaced Steven Adler following Adler's departure in 1990 (although he was featured again on "Civil War", which appeared on its counterpart album), as well as keyboardist Dizzy Reed. This is their first album to be recorded as a six-piece band.<br><br> |
-    | Release Year   | 2008                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 0720642441510 |

@@ -43,9 +43,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-last-days-of-oakland/1246371196" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-last-days-of-oakland/1246371196" >}}<br>
+
+
 ## Videos
 ### Fantastic Negrito - The Worst (Official Audio)
 {{< youtube id="4fDJlWxhyvw" title="Fantastic Negrito - The Worst (Official Audio)" >}}<br>
@@ -66,7 +69,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Blackball Universe Records |
 | Catalog Number | none |

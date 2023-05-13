@@ -40,9 +40,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-live-at-wembley-1974-remastered/1664148827" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-live-at-wembley-1974-remastered/1664148827" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - Dark Side Of The Moon (Live at Wembley Empire Pool 1974) Movie (Side A)
 {{< youtube id="JlZqr30BMQ4" title="Pink Floyd - Dark Side Of The Moon (Live at Wembley Empire Pool 1974) Movie (Side A)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Stereo (Gatefold, 180 Gram, 50th Anniversary) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR50LP2 |

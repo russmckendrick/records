@@ -46,9 +46,14 @@ This Is Not a Safe Place is the sixth studio album by English rock band Ride. Th
 The album cover includes three slashes (///), which is based upon historic graffiti by hobos to indicate an unsafe place.Andy Bell stated that the album was influenced by the likes of Sonic Youth and the Fall  and by "post-punk in general, Siouxsie and the Banshees, Public Image Ltd".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-is-not-a-safe-place/1459049456" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-is-not-a-safe-place/1459049456" >}}<br>
+
+
 ## Videos
 ### Ride - Shadows Behind the Sun (2019)
 {{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun (2019)" >}}<br>
@@ -63,8 +68,6 @@ The album cover includes three slashes (///), which is based upon historic graff
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_Not_a_Safe_Place |
-| Wikipedia Summary | This Is Not a Safe Place is the sixth studio album by English rock band Ride. The album was released on 16 August 2019, the date being announced on 23 April 2019 along with the release of the album's first single, "Future Love". The album is the band's second produced by English DJ Erol Alkan.<br>The album cover includes three slashes (///), which is based upon historic graffiti by hobos to indicate an unsafe place.Andy Bell stated that the album was influenced by the likes of Sonic Youth and the Fall  and by "post-punk in general, Siouxsie and the Banshees, Public Image Ltd".<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Green, Translucent) |
 | Label          | Wichita |
 | Catalog Number | WEBB570LPC |

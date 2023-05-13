@@ -31,9 +31,12 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/home-of-the-newly-departed/1510605584" >}}
+{{< applemusic url="https://music.apple.com/gb/album/home-of-the-newly-departed/1510605584" >}}<br>
+
+
 
 
 ## Release Images
@@ -42,7 +45,6 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Compilation |
 | Label          | Believers Roast |
 | Catalog Number | BR017LP |

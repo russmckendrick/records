@@ -42,9 +42,12 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/big-bad-luv/1202947181" >}}
+{{< applemusic url="https://music.apple.com/gb/album/big-bad-luv/1202947181" >}}<br>
+
+
 ## Videos
 ### John Moreland - Sallisaw Blue (Official Audio)
 {{< youtube id="bfkXnZ65jS8" title="John Moreland - Sallisaw Blue (Official Audio)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | 4AD |
 | Catalog Number | 4AD0007LP |

@@ -42,9 +42,14 @@ styles: ["Punk"]
 
 Fulham Fallout is the studio debut album of UK punk band The Lurkers. The original album was released in June 1978 on the Beggar's Banquet label and hit number 57 on the UK Album Chart in its first week. The re-release on Captain Oi! Records added another twelve tracks of singles and demos to the original set of fourteen tracks.
 The style on this album is a good demonstration of how they earned the nickname "The British Ramones".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fulham-fallout/266191802" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fulham-fallout/266191802" >}}<br>
+
+
 ## Videos
 ### I Don't Need to Tell Her
 {{< youtube id="YQPuZfv1PdI" title="I Don't Need to Tell Her" >}}<br>
@@ -77,8 +82,6 @@ The style on this album is a good demonstration of how they earned the nickname 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fulham_Fallout |
-| Wikipedia Summary | Fulham Fallout is the studio debut album of UK punk band The Lurkers. The original album was released in June 1978 on the Beggar's Banquet label and hit number 57 on the UK Album Chart in its first week. The re-release on Captain Oi! Records added another twelve tracks of singles and demos to the original set of fourteen tracks.<br>The style on this album is a good demonstration of how they earned the nickname "The British Ramones". |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Gatefold, orange) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP2 |

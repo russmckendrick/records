@@ -44,9 +44,14 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 <!-- section break -->
 
 Sunshine Rock is the 13th solo album from American rock musician Bob Mould, formerly frontman of the bands Hüsker Dü and Sugar. The album release was announced on October 24, 2018. The album was released on February 8, 2019, and debuted at number 192 on the US Billboard 200. A review in Dagger says ""I Fought" has all the rage and bluster that Husker Du ever had (same with the great "Sin King") while "Camp Sunshine" is, dare I say a flowery love song[.] Sunshine Rock shows Bob and his unbeatable rhythm section at the top of their game." Robert Christgau wrote "this is the first time the solo Mould has come close to what he was once capable of, and that he's managed it this late should encourage us all."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sunshine-rock/1437426052" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sunshine-rock/1437426052" >}}<br>
+
+
 ## Videos
 ### Bob Mould Sunshine Rock
 {{< youtube id="ZHQUyZnS7qo" title="Bob Mould Sunshine Rock" >}}<br>
@@ -62,8 +67,6 @@ Sunshine Rock is the 13th solo album from American rock musician Bob Mould, form
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sunshine_Rock |
-| Wikipedia Summary | Sunshine Rock is the 13th solo album from American rock musician Bob Mould, formerly frontman of the bands Hüsker Dü and Sugar. The album release was announced on October 24, 2018. The album was released on February 8, 2019, and debuted at number 192 on the US Billboard 200. A review in Dagger says ""I Fought" has all the rage and bluster that Husker Du ever had (same with the great "Sin King") while "Camp Sunshine" is, dare I say a flowery love song[.] Sunshine Rock shows Bob and his unbeatable rhythm section at the top of their game." Robert Christgau wrote "this is the first time the solo Mould has come close to what he was once capable of, and that he's managed it this late should encourage us all." |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Red And Yellow Swirl) |
 | Label          | Merge Records |
 | Catalog Number | MRG650 |

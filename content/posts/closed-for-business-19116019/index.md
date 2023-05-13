@@ -35,9 +35,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1582887992" >}}
+{{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1582887992" >}}<br>
+
+
 ## Videos
 ### Mansun - Closed for business
 {{< youtube id="zAGa_yl5GwA" title="Mansun - Closed for business" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Stereo (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1117 |

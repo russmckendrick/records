@@ -104,9 +104,13 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}
+{{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Joy Division - Digital
 {{< youtube id="9qgFGqJz9yc" title="Joy Division - Digital" >}}<br>
@@ -139,7 +143,6 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 8× LP Reissue (180g), Box Set Compilation |
 | Label          | Warner Music |
 | Catalog Number | 0190295663841 |

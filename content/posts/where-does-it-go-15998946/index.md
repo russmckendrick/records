@@ -33,9 +33,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/where-does-it-go/1532924026" >}}
+{{< applemusic url="https://music.apple.com/gb/album/where-does-it-go/1532924026" >}}<br>
+
+
 ## Videos
 ### True Faith
 {{< youtube id="5DwsT7QCf3M" title="True Faith" >}}<br>
@@ -54,7 +57,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album |
 | Label          | Adassa |
 | Catalog Number | ADASSA003 |

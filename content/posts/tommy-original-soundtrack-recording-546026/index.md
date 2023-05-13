@@ -65,7 +65,10 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)
 {{< youtube id="vruNMUjZwAA" title="TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1975                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Polydor |
 | Catalog Number | 2657 014 |

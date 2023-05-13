@@ -44,9 +44,15 @@ The Rhythm of the Saints is the eighth solo studio album by American singer-song
 In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awards – Album of the Year and Producer of the Year.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-rhythm-of-the-saints-bonus-tracks-edition/380597264" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-rhythm-of-the-saints-bonus-tracks-edition/380597264" >}}<br>
+
+
 ## Videos
 ### Can't Run But
 {{< youtube id="znfNpN6rfoM" title="Can't Run But" >}}<br>
@@ -69,8 +75,6 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Rhythm_of_the_Saints |
-| Apple Music Summary | On his proper follow-up to <i>Graceland</i>, Simon introduces addictive Latin rhythms to sprightly West African guitars. Opening with the joyous massed drumming of “The Obvious Child,” from there he wields his soothing, conversational vocals to ponder modern life’s complexities, finding hope on the gospel-tinged “The Cool, Cool River.” |
-    | Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 7599-26098-1 |

@@ -55,7 +55,10 @@ styles: ["Indie Rock", "Blues Rock", "Garage Rock", "Country Rock", "Country Blu
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Indie Rock", "Blues Rock", "Garage Rock", "Country Rock", "Country Blu
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP (Red Translucent), Vinyl LP (Green Translucent), All Media Album Record Store Day Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19439873831 |

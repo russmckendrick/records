@@ -37,9 +37,14 @@ styles: ["Prog Rock"]
 Foxtrot is the fourth studio album by the English progressive rock band Genesis, released on 6 October 1972 on Charisma Records. It features their longest recorded song, the 23-minute track "Supper's Ready".
 The album was recorded following the tour in support of their previous album, Nursery Cryme (1971), which saw them gain popularity, including a well-received slot at the Great Western Express Festival, Lincolnshire in May 1972. The album was written over the summer of 1972 and combined songs that had already been performed live with new material worked out in jam sessions. Recording began in August with John Anthony, but sessions were prone to tension and disagreements. After a short Italian tour, sessions resumed with Dave Hitchcock taking over production duties. The cover was the final Genesis work to be designed by Paul Whitehead, featuring a fox wearing a red dress. Frontman Peter Gabriel wore the dress and a fox's head on stage for the following tour, which gathered press attention and greatly improved the group's profile.
 Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and received largely positive reviews. It went to number one in Italy, their first album reaching number one globally. A non-album single "Happy the Man" was released at the same time. The album has continued to attract critical praise and was reissued with a new stereo and 5.1 surround sound mix as part of their 2008 Genesis 1970–1975 box set.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/foxtrot/714886714" >}}
+{{< applemusic url="https://music.apple.com/gb/album/foxtrot/714886714" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,8 +54,6 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Foxtrot_(album) |
-| Wikipedia Summary | Foxtrot is the fourth studio album by the English progressive rock band Genesis, released on 6 October 1972 on Charisma Records. It features their longest recorded song, the 23-minute track "Supper's Ready".<br>The album was recorded following the tour in support of their previous album, Nursery Cryme (1971), which saw them gain popularity, including a well-received slot at the Great Western Express Festival, Lincolnshire in May 1972. The album was written over the summer of 1972 and combined songs that had already been performed live with new material worked out in jam sessions. Recording began in August with John Anthony, but sessions were prone to tension and disagreements. After a short Italian tour, sessions resumed with Dave Hitchcock taking over production duties. The cover was the final Genesis work to be designed by Paul Whitehead, featuring a fox wearing a red dress. Frontman Peter Gabriel wore the dress and a fox's head on stage for the following tour, which gathered press attention and greatly improved the group's profile.<br>Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and received largely positive reviews. It went to number one in Italy, their first album reaching number one globally. A non-album single "Happy the Man" was released at the same time. The album has continued to attract critical praise and was reissued with a new stereo and 5.1 surround sound mix as part of their 2008 Genesis 1970–1975 box set. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | 00602567489795 |

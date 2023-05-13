@@ -41,9 +41,14 @@ styles: ["Stoner Rock"]
 Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio album by American rock band Kyuss. It was released on June 28, 1994, through Elektra and Chameleon Records.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-to-sky-valley/207973376" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-sky-valley/207973376" >}}<br>
+
+
 ## Videos
 ### Kyuss - Demon Cleaner (Official Video)
 {{< youtube id="B7Ske2eKX2g" title="Kyuss - Demon Cleaner (Official Video)" >}}<br>
@@ -60,8 +65,6 @@ Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_Sky_Valley |
-| Wikipedia Summary | Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio album by American rock band Kyuss. It was released on June 28, 1994, through Elektra and Chameleon Records.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Repress (Gold Marbled, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 7559-61571-1 |

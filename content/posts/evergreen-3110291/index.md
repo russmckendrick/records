@@ -47,7 +47,10 @@ styles: ["Easy Listening"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Acker Bilk - Evergreen.flv
 {{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Easy Listening"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Warwick Records |
 | Catalog Number | PW 5045 |

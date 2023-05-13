@@ -35,9 +35,14 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 <!-- section break -->
 
 1972 is a studio EP by American rock band the Black Crowes, released on May 4, 2022. It is an album of cover songs.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1972-ep/1649880264" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1972-ep/1649880264" >}}<br>
+
+
 ## Videos
 ### The Black Crowes - 1972 (Full Album) 2022
 {{< youtube id="25_gvlilQpo" title="The Black Crowes - 1972 (Full Album) 2022" >}}<br>
@@ -57,8 +62,6 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1972_(EP) |
-| Wikipedia Summary | 1972 is a studio EP by American rock band the Black Crowes, released on May 4, 2022. It is an album of cover songs. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Stereo |
 | Label          | Silver Arrow |
 | Catalog Number | SAR26LP |

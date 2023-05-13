@@ -46,7 +46,10 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### James Brown- Please, Please, Please
 {{< youtube id="EkVZ3dHh6kg" title="James Brown- Please, Please, Please" >}}<br>
@@ -76,7 +79,6 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180 Gram) |
 | Label          | WaxTime In Color |
 | Catalog Number | 950662 |

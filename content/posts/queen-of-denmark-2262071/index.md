@@ -47,9 +47,14 @@ styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 <!-- section break -->
 
 Queen of Denmark is the debut solo album by American musician and former The Czars frontman John Grant, released via Bella Union on April 19, 2010. It is a collaboration between Grant and members of the American folk rock band Midlake, who had persuaded him to end his four-year hiatus from music following the break-up of The Czars.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/queen-of-denmark/671954335" >}}
+{{< applemusic url="https://music.apple.com/gb/album/queen-of-denmark/671954335" >}}<br>
+
+
 ## Videos
 ### John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD
 {{< youtube id="mzWQSabtWLs" title="John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD" >}}<br>
@@ -65,8 +70,6 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Queen_of_Denmark_(album) |
-| Wikipedia Summary | Queen of Denmark is the debut solo album by American musician and former The Czars frontman John Grant, released via Bella Union on April 19, 2010. It is a collaboration between Grant and members of the American folk rock band Midlake, who had persuaded him to end his four-year hiatus from music following the break-up of The Czars. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Bella Union |
 | Catalog Number | Bellav235 |

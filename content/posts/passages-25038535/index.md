@@ -38,9 +38,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Passages is the sixth album by the British alternative rock band Jesus Jones, released independently in 2018 through PledgeMusic.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/passages/1647622175" >}}
+{{< applemusic url="https://music.apple.com/gb/album/passages/1647622175" >}}<br>
+
+
 ## Videos
 ### Jesus Jones  - Suck It Up
 {{< youtube id="VQN-2UBfJSI" title="Jesus Jones  - Suck It Up" >}}<br>
@@ -56,8 +61,6 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Passages_(Jesus_Jones_album) |
-| Wikipedia Summary | Passages is the sixth album by the British alternative rock band Jesus Jones, released independently in 2018 through PledgeMusic. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue (Transparent Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC957 |

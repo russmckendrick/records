@@ -58,9 +58,14 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 <!-- section break -->
 
 New Jersey metal mongers Monster Magnet spent much of the '90s swimming against the prevailing pop currents, finally catching a break when the tides shifted their way on their fourth outing, 1998's <i>Powertrip</i> and its breakthrough hit "Space Lord." Two hard years of touring ensured that this follow-up wouldn't surface until 2001 - just in time for another shift in fashion, some attendant label tinkering, and finally a release from their contract. Ironic, considering how boldly the band has both tamed its darkly aggressive sonic ethos and expanded its range. The band incorporates electro-rhythms on the title track and "Queen of You," goes back to the future with the nouveau twang of "Kiss of the Scorpion," and completely shreds the envelope on the stripped-down electronica of "Take It," all seemingly with an eye on expanding their appeal beyond the metal faithful.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/god-says-no/1442412218" >}}
+{{< applemusic url="https://music.apple.com/gb/album/god-says-no/1442412218" >}}<br>
+
+
 ## Videos
 ### Melt - Monster Magnet - God Says No
 {{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}<br>
@@ -80,8 +85,6 @@ New Jersey metal mongers Monster Magnet spent much of the '90s swimming against 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | New Jersey metal mongers Monster Magnet spent much of the '90s swimming against the prevailing pop currents, finally catching a break when the tides shifted their way on their fourth outing, 1998's <i>Powertrip</i> and its breakthrough hit "Space Lord." Two hard years of touring ensured that this follow-up wouldn't surface until 2001 - just in time for another shift in fashion, some attendant label tinkering, and finally a release from their contract. Ironic, considering how boldly the band has both tamed its darkly aggressive sonic ethos and expanded its range. The band incorporates electro-rhythms on the title track and "Queen of You," goes back to the future with the nouveau twang of "Kiss of the Scorpion," and completely shreds the envelope on the stripped-down electronica of "Take It," all seemingly with an eye on expanding their appeal beyond the metal faithful. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637845 |

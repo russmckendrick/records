@@ -37,9 +37,14 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 <!-- section break -->
 
 "Green Onions" is an instrumental composition recorded in 1962 by Booker T. & the M.G.'s. Described as "one of the most popular instrumental rock and soul songs ever" and as one of "the most popular R&B instrumentals of its era", the tune is a twelve-bar blues with a rippling Hammond M3 organ line by Booker T. Jones that he wrote when he was 17, although the actual recording was largely improvised in the studio.The track was originally issued in May 1962 on the Volt label (a subsidiary of Stax Records) as the B-side of "Behave Yourself" on Volt 102; it was quickly reissued in August 1962 as the A-side of Stax 127, and it also appeared on the album Green Onions that same year. The organ sound of the song became a feature of the "Memphis soul sound".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/booker-t-the-mgs-green-onions/560188894" >}}
+{{< applemusic url="https://music.apple.com/gb/album/booker-t-the-mgs-green-onions/560188894" >}}<br>
+
+
 ## Videos
 ### Booker T. & The MG's - Green Onions (Official Audio)
 {{< youtube id="0oox9bJaGJ8" title="Booker T. & The MG's - Green Onions (Official Audio)" >}}<br>
@@ -64,8 +69,6 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_Onions |
-| Wikipedia Summary | "Green Onions" is an instrumental composition recorded in 1962 by Booker T. & the M.G.'s. Described as "one of the most popular instrumental rock and soul songs ever" and as one of "the most popular R&B instrumentals of its era", the tune is a twelve-bar blues with a rippling Hammond M3 organ line by Booker T. Jones that he wrote when he was 17, although the actual recording was largely improvised in the studio.The track was originally issued in May 1962 on the Volt label (a subsidiary of Stax Records) as the B-side of "Behave Yourself" on Volt 102; it was quickly reissued in August 1962 as the A-side of Stax 127, and it also appeared on the album Green Onions that same year. The organ sound of the song became a feature of the "Memphis soul sound". |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | DOL |
 | Catalog Number | DOL1517H |

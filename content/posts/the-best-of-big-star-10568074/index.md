@@ -40,9 +40,12 @@ styles: ["Power Pop", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-big-star/1442996836" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-big-star/1442996836" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Power Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP 45 RPM Compilation |
 | Label          | Stax |
 | Catalog Number | 0888072022133 |

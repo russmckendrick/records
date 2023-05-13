@@ -45,9 +45,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/afterglow-deluxe-edition/1442858192" >}}
+{{< applemusic url="https://music.apple.com/gb/album/afterglow-deluxe-edition/1442858192" >}}<br>
+
+
 ## Videos
 ### CROWDED HOUSE - AFTERGLOW 15
 {{< youtube id="rjEFOuITayE" title="CROWDED HOUSE - AFTERGLOW 15" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Compilation Reissue (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 788022 |

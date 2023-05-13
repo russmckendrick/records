@@ -40,7 +40,10 @@ styles: ["Acoustic", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Neil Finn & Paul Kelly - Goin' Your Way [Trailer]
 {{< youtube id="Vh7Jk9tUluY" title="Neil Finn & Paul Kelly - Goin' Your Way [Trailer]" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Acoustic", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP (Yellow Highlighter ) |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-154 |

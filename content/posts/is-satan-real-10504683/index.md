@@ -37,9 +37,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/is-satan-real/1146826298" >}}
+{{< applemusic url="https://music.apple.com/gb/album/is-satan-real/1146826298" >}}<br>
+
+
 ## Videos
 ### Church of the Cosmic Skull - Mountain Heart (Official Audio)
 {{< youtube id="WkqEmrRxGIg" title="Church of the Cosmic Skull - Mountain Heart (Official Audio)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Repress (Clear vinyl) |
 | Label          | Bilocation Records |
 | Catalog Number | BILOCATION 44 |

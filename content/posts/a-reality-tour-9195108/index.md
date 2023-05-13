@@ -68,9 +68,12 @@ styles: ["Art Rock", "Alternative Rock", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-reality-tour-live/1676509044" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-reality-tour-live/1676509044" >}}<br>
+
+
 
 
 ## Release Images
@@ -79,7 +82,6 @@ styles: ["Art Rock", "Alternative Rock", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 3× LP Album Reissue (Blue Translucent, 180g), Box Set Limited Edition |
 | Label          | ISO Records |
 | Catalog Number | 88985348411 |

@@ -47,9 +47,15 @@ Preceded by the single "Starman", Ziggy Stardust reached the UK top five. Critic
 In later decades, Ziggy Stardust is considered one of Bowie's best works and has appeared on numerous lists of the greatest albums of all time. Bowie had ideas for a musical based on the album, although this project never came to fruition; ideas were later used for Diamond Dogs. Ziggy Stardust has been reissued several times and was remastered in 2012 for its 40th anniversary. In 2017, it was selected for preservation in the National Recording Registry by the Library of Congress, being deemed "culturally, historically, or artistically significant".
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,8 +65,6 @@ In later decades, Ziggy Stardust is considered one of Bowie's best works and has
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars |
-| Apple Music Summary | When David Bowie stood onstage at the Hammersmith Odeon in full Ziggy Stardust getup and announced his retirement in July 1973, nobody really knew what he meant. Was this Bowie’s retirement, or just Ziggy’s? And what was the difference, anyway? The persona had been laid on so thick, it seemed impossible to peel it away from the artist who invented it. Not to mention, of course, how liberating the persona had been to Bowie’s audience: the drama, the glitter, the possibility of becoming your most fantastic inner self, societal boxes and pre-existing roles be damned. If the crowd screamed in protest, you couldn’t blame them: Ziggy had promised that they weren’t alone—and now he was leaving them.<br /><br>The concept is catchy, but the subversion is in the music: nasty but glamorous (“Moonage Daydream”, “Suffragette City”), theatrical but intimate (“Five Years”), punk before punk (“Hang on to Yourself”) and cabaret for an audience who would’ve never deigned (“Rock ’n’ Roll Suicide”). He’s so exceptional he talks about himself in the third person but so arrogant his fans kill him for it (“Ziggy Stardust”), so deluded he thinks rock ’n’ roll can save the world but so brave he’s willing to die trying (“Star”). “And it was cold, and it rained, so I felt like an actor,” he sings on “Five Years”—an image that captures the moments in life that feel so real they seem fake. The artifice brings him down, but it also sets him free.<br /><br>The album helped loosen binaries around gender, sexuality, performance and identity. But it also helped broaden the vocabulary of mainstream rock more generally, drawing on concepts from the underground (Bowie barely escaped an interview without talking about Iggy Pop), the art world, kabuki, mime and film (“Space Oddity” had been written under the influence of <i>2001</i>, <i>Ziggy Stardust</i> under that of <i>A Clockwork Orange</i>). Calling him flighty or inauthentic missed the point: Like Andy Warhol, Bowie treated his art in part as a synthesis of his interests. For all the ways it was radical at the time, <i>Ziggy</i> also pointed to a referential, hyperlinked future we’re all familiar with—curation as creation. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue Remastered Stereo |
 | Label          | Parlophone |
 | Catalog Number | DBZSPD 2022 |

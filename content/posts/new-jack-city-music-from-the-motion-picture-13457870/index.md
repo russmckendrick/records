@@ -34,9 +34,13 @@ styles: ["Pop Rap", "RnB/Swing"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="3N1GCkG6Z5Rs4Qy1iwnIEB" width="100%" height="500" >}}
+{{< spotify type="album" id="3N1GCkG6Z5Rs4Qy1iwnIEB" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### F.S. Effect - Get It Together (Black Is A Force)
 {{< youtube id="0e5z8givs6Y" title="F.S. Effect - Get It Together (Black Is A Force)" >}}<br>
@@ -59,7 +63,6 @@ styles: ["Pop Rap", "RnB/Swing"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Giant Records |
 | Catalog Number | 0573953 |

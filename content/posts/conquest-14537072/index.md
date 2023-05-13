@@ -70,7 +70,10 @@ styles: ["Cut-up/DJ", "Turntablism"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)
 {{< youtube id="uxVfxVVk6yM" title="DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)" >}}<br>
@@ -84,7 +87,6 @@ styles: ["Cut-up/DJ", "Turntablism"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (Red), CD Promo |
 | Label          | Copeland Entertainment |
 | Catalog Number | MMMCONQUEST1 |

@@ -41,9 +41,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/new-miserable-experience/1442677676" >}}
+{{< applemusic url="https://music.apple.com/gb/album/new-miserable-experience/1442677676" >}}<br>
+
+
 ## Videos
 ### Gin Blossoms - Found Out About You (New Miserable Experience CD) Subtitulada Español / Inglés
 {{< youtube id="kOpj02X_MTU" title="Gin Blossoms - Found Out About You (New Miserable Experience CD) Subtitulada Español / Inglés" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | A&M Records |
 | Catalog Number | B-0026126-01 |

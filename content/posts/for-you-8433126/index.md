@@ -51,9 +51,15 @@ For You is the debut studio album by American singer-songwriter Prince. It was r
 For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul chart. "Soft and Wet", the album's lead single, became a minor hit on the Billboard Hot 100, peaking at No. 92. However, it became a Top 20 hit on the Billboard Hot Soul Singles chart, peaking at No. 12. In 2016, after Prince's death, the album re-charted on the Billboard 200, reaching No. 138.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/for-you/663586846" >}}
+{{< applemusic url="https://music.apple.com/gb/album/for-you/663586846" >}}<br>
+
+
 ## Videos
 ### For You
 {{< youtube id="2-hcFcWYM08" title="For You" >}}<br>
@@ -75,8 +81,6 @@ For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul ch
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/For_You_(Prince_album) |
-| Apple Music Summary | Stepping onto the world stage in 1978, Prince was already a wildly talented soul singer with an unusual taste for hard rock riffs and future-shock keyboard hooks. His sumptuous debut, <i>For You</i>, blends opulent disco-era arrangements with the raw lyrics and the wildly distinctive style that would quickly define him. While it’s not as expansive or experimental as the albums that followed, <i>For You</i> remains a luscious collection of offbeat electro-funk (“Soft and Wet”) and steamy slow jams (“Baby”). |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-49220-9 |

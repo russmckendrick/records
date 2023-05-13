@@ -38,9 +38,12 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/international-treasure/1614462986" >}}
+{{< applemusic url="https://music.apple.com/gb/album/international-treasure/1614462986" >}}<br>
+
+
 ## Videos
 ### Trident of Fire
 {{< youtube id="xvIHA2Zek3U" title="Trident of Fire" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (Yellow Citrine) |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH265S |

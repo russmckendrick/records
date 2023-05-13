@@ -42,9 +42,14 @@ styles: ["Techno", "IDM"]
 <!-- section break -->
 
 After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5,” James makes the most of the challenge.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cheetah-ep/1121631291" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cheetah-ep/1121631291" >}}<br>
+
+
 ## Videos
 ### Cheetaht2 [Ld Spectrum]
 {{< youtube id="3fYeGslglCc" title="Cheetaht2 [Ld Spectrum]" >}}<br>
@@ -60,8 +65,6 @@ After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Che
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5,” James makes the most of the challenge. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP391 |

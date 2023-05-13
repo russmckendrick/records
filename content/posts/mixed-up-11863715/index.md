@@ -54,9 +54,14 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 Mixed Up is a remix album by English rock band the Cure, released on 20 November 1990 by Fiction Records. The songs are remixes of some of their hits, reflecting the popularity of remixing of existing songs and dance culture of the late 1980s and early 1990s. In 2018, a sequel was released titled Torn Down.
 Most of the songs are extended mixes. Several had been previously released on 12" singles, but some are completely remade, with Smith recutting vocals due to the original tapes not being available. The record closes with the extended version of a new single, "Never Enough". The remix of "Pictures of You" was originally released under the title "(Strange Mix)".  In an interview featured on the Trilogy DVD, singer Robert Smith described the remix album as something "fun after the doom and gloom of Disintegration".
 The Cure also released some other new mixes as the b-sides of the singles from Mixed Up: the first single, "Never Enough", featured a remix of "Let's Go to Bed", entitled "Let's Go to Bed" (Milk Mix) (on the 12", cassette and CD versions), as well as a new song, "Harold and Joe", while the second single, "Close to Me (Remix)" contained "Just Like Heaven" (Dizzy Mix) (on all formats) and "Primary" (Red Mix) (on the 12", CD and cassette versions) as B-sides, the third single, "A Forest" (Tree Mix) contained the original version of the song and "Inbetween Days" (Shiver Mix) (only on 5-inch CD) as B-sides.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mixed-up-remastered-2018-deluxe-edition/1364112266" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mixed-up-remastered-2018-deluxe-edition/1364112266" >}}<br>
+
+
 
 
 ## Release Images
@@ -66,8 +71,6 @@ The Cure also released some other new mixes as the b-sides of the singles from M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mixed_Up_(The_Cure_album) |
-| Wikipedia Summary | Mixed Up is a remix album by English rock band the Cure, released on 20 November 1990 by Fiction Records. The songs are remixes of some of their hits, reflecting the popularity of remixing of existing songs and dance culture of the late 1980s and early 1990s. In 2018, a sequel was released titled Torn Down.<br>Most of the songs are extended mixes. Several had been previously released on 12" singles, but some are completely remade, with Smith recutting vocals due to the original tapes not being available. The record closes with the extended version of a new single, "Never Enough". The remix of "Pictures of You" was originally released under the title "(Strange Mix)".  In an interview featured on the Trilogy DVD, singer Robert Smith described the remix album as something "fun after the doom and gloom of Disintegration".<br>The Cure also released some other new mixes as the b-sides of the singles from Mixed Up: the first single, "Never Enough", featured a remix of "Let's Go to Bed", entitled "Let's Go to Bed" (Milk Mix) (on the 12", cassette and CD versions), as well as a new song, "Harold and Joe", while the second single, "Close to Me (Remix)" contained "Just Like Heaven" (Dizzy Mix) (on all formats) and "Primary" (Red Mix) (on the 12", CD and cassette versions) as B-sides, the third single, "A Forest" (Tree Mix) contained the original version of the song and "Inbetween Days" (Shiver Mix) (only on 5-inch CD) as B-sides. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Picture Disc Reissue Remastered |
 | Label          | Polydor |
 | Catalog Number | 670 998-8 |

@@ -53,9 +53,15 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Nearly 20 years into the band's career, The National have reached a status attained only by the likes of Radiohead: a progressive, uncompromising band with genuinely broad appeal. Produced by multi-instrumentalist Aaron Dessner in his upstate New York studio (with co-production from guitarist Bryce Dessner and singer Matt Berninger), <i>Sleep Well Beast</i> captures the band at their moody, majestic best, from the propulsive “The System Only Dreams in Total Darkness” to “Guilty Party,” where Berninger’s portraits of failing marriage come to a sad, gorgeous, and surprisingly subtle head.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sleep-well-beast/1233837225" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sleep-well-beast/1233837225" >}}<br>
+
+
 ## Videos
 ### The National - 'The System Only Dreams in Total Darkness'
 {{< youtube id="2O6duDDkhis" title="The National - 'The System Only Dreams in Total Darkness'" >}}<br>
@@ -76,8 +82,6 @@ Nearly 20 years into the band's career, The National have reached a status attai
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sleep_Well_Beast |
-| Wikipedia Summary | Sleep Well Beast is the seventh studio album by the American indie rock band The National, released on September 8, 2017, by 4AD. The album won the Grammy Award for Best Alternative Music Album in 2018. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (White) |
 | Label          | 4AD |
 | Catalog Number | 4AD0020LP |

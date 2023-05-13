@@ -36,9 +36,12 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/there-is-no-time/1612636667" >}}
+{{< applemusic url="https://music.apple.com/gb/album/there-is-no-time/1612636667" >}}<br>
+
+
 ## Videos
 ### Church of the Cosmic Skull - There Is No Time (Full Album 2022)
 {{< youtube id="tmt-O6of2o4" title="Church of the Cosmic Skull - There Is No Time (Full Album 2022)" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Numbered (Pink, Super Deluxe Stepping Aboard Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 6 |

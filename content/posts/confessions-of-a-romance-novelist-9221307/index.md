@@ -42,9 +42,14 @@ styles: ["Indie Rock", "Art Rock"]
 <!-- section break -->
 
 Confessions of a Romance Novelist is the debut album from The Anchoress aka Catherine Anne Davies. Released on 15 January 2016, the album received a favourable critique from The Guardian.The album was named amongst the Guardian critics' Albums of the Year, won HMV's Welsh Album of the Year, Best Newcomer at the PROG awards, and a nomination for Welsh Music Prize.Mojo described Davies as being in possession of "a devastatingly powerful voice". The Observer called it "a blackly witty break up album...compelling", while PROG magazine described the record as "Kate Bush’s Hounds Of Love updated for the 21st century".On the album, Catherine plays a variety of instruments, including piano, guitar, flute, omnichord, mellotron, wurlitzer, glockenspiel, and celeste, as well as sampling church bells, and an orchestra of typewriters.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/confessions-of-a-romance-novelist/1048632716" >}}
+{{< applemusic url="https://music.apple.com/gb/album/confessions-of-a-romance-novelist/1048632716" >}}<br>
+
+
 ## Videos
 ### Confessions of a Romance Novelist
 {{< youtube id="6ul6hypmC30" title="Confessions of a Romance Novelist" >}}<br>
@@ -60,8 +65,6 @@ Confessions of a Romance Novelist is the debut album from The Anchoress aka Cath
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Confessions_of_a_Romance_Novelist |
-| Wikipedia Summary | Confessions of a Romance Novelist is the debut album from The Anchoress aka Catherine Anne Davies. Released on 15 January 2016, the album received a favourable critique from The Guardian.The album was named amongst the Guardian critics' Albums of the Year, won HMV's Welsh Album of the Year, Best Newcomer at the PROG awards, and a nomination for Welsh Music Prize.Mojo described Davies as being in possession of "a devastatingly powerful voice". The Observer called it "a blackly witty break up album...compelling", while PROG magazine described the record as "Kate Bush’s Hounds Of Love updated for the 21st century".On the album, Catherine plays a variety of instruments, including piano, guitar, flute, omnichord, mellotron, wurlitzer, glockenspiel, and celeste, as well as sampling church bells, and an orchestra of typewriters. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE920 |

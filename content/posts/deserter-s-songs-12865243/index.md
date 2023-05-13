@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/deserters-songs-remastered/1523531674" >}}
+{{< applemusic url="https://music.apple.com/gb/album/deserters-songs-remastered/1523531674" >}}<br>
+
+
 ## Videos
 ### Holes
 {{< youtube id="B7EyfGpV094" title="Holes" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Excelsior Melodies |
 | Catalog Number | EXM-309 |

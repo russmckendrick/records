@@ -37,9 +37,14 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released in October 1985 by record label Virgin (A&M in the US).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/once-upon-a-time/1440841956" >}}
+{{< applemusic url="https://music.apple.com/gb/album/once-upon-a-time/1440841956" >}}<br>
+
+
 ## Videos
 ### Simple Minds Once Upon a Time
 {{< youtube id="eQlYTc_rZ7c" title="Simple Minds Once Upon a Time" >}}<br>
@@ -56,8 +61,6 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Once_Upon_a_Time_(Simple_Minds_album) |
-| Wikipedia Summary | Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released in October 1985 by record label Virgin (A&M in the US). |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Virgin |
 | Catalog Number | 4722194 |

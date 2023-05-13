@@ -48,9 +48,15 @@ styles: ["Alternative Rock"]
 Stories from the City, Stories from the Sea is the fifth studio album by English alternative rock musician PJ Harvey, released on 24 October 2000 by Island Records. Recorded during March to April 2000, it contains themes of love that are tied into Harvey's affection for New York City.The album became the second major commercial success of her recording career, following her successful breakthrough To Bring You My Love (1995). Upon its release, the album received acclaim from most music critics and earned Harvey several accolades, including the 2001 Mercury Prize. It spent 17 weeks on the UK Albums Chart, and was certified Platinum in the UK and Australia. It is generally regarded as one of her best works.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stories-from-the-city-stories-from-the-sea/1442556188" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stories-from-the-city-stories-from-the-sea/1442556188" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - A Place Called Home
 {{< youtube id="_m2NyS3IDjE" title="PJ Harvey - A Place Called Home" >}}<br>
@@ -66,8 +72,6 @@ Stories from the City, Stories from the Sea is the fifth studio album by English
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stories_from_the_City,_Stories_from_the_Sea |
-| Apple Music Summary | Polly Harvey says she aimed for “absolute beauty” on her most upbeat, direct record yet. She’s certainly been reinvigorated by a love affair but that doesn’t mean her edges and explosiveness have been dulled. A simple drums-bass-guitar set-up carves the melodic lushness and “This is Love” declares its carnal desires with a dopamine rush of blues-punk, while “Big Exit” wraps the insecurities of love in a buzz of dual guitars and counter-melodies. Don’t expect a happy ending either: Thom Yorke duet “This Mess We’re In” is gorgeous but heavy-legged with impending trouble. |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0898541 |

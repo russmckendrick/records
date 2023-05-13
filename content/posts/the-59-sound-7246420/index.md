@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-59-sound/1631014742" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-59-sound/1631014742" >}}<br>
+
+
 ## Videos
 ### The Gaslight Anthem - The '59 Sound (2008) [Full Album]
 {{< youtube id="L7XJcQVXtuY" title="The Gaslight Anthem - The '59 Sound (2008) [Full Album]" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Alternative Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Limited Edition Reissue Stereo (Blue Translucent) |
 | Label          | SideOneDummy Records |
 | Catalog Number | SD1358-1 |

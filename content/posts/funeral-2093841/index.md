@@ -49,9 +49,15 @@ Funeral is the debut studio album by Canadian indie rock band Arcade Fire, relea
 The album produced five singles, with "Rebellion (Lies)" being the most successful, having peaked at #19 on the UK Singles Chart. The album was nominated for a Grammy Award in 2005 for Best Alternative Music Album. It received widespread critical acclaim and topped many year-end and decade-end lists, now being often considered one of the greatest albums of all time.  According to the website Metacritic, the album had the second most appearances on end-of-decade Top 10 lists, only behind Radiohead's Kid A. In the 2020 updated version of Rolling Stone's 500 Greatest Albums of All Time, it was ranked at number 500.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/funeral/1249417623" >}}
+{{< applemusic url="https://music.apple.com/gb/album/funeral/1249417623" >}}<br>
+
+
 ## Videos
 ### Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)
 {{< youtube id="TwisvB3PVpU" title="Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)" >}}<br>
@@ -74,8 +80,6 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Funeral_(Arcade_Fire_album) |
-| Apple Music Summary | Arcade Fire’s fiery, rhythmically complex rock burns at full-beam, straight out of the gate. Make no mistake, the Montreal collective's debut deals in weighty themes (take “Haiti”, the rootsy, shuffling tribute to core member Régine Chassagne’s politically volatile childhood home). But—from the stirring swell of “Wake Up” to the twitchy anguish of “Neighbourhood #3” (Power Out)”—frontman Win Butler marshals a kind of choral defiance, tracking down life-affirming light in the darkest spaces. |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Repress (180 Gram) |
 | Label          | Merge Records |
 | Catalog Number | MRG255 |

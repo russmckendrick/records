@@ -37,9 +37,14 @@ styles: ["House", "Synth-pop", "Downtempo"]
 
 Happiness is the debut studio album, and second album overall, by English electronic group The Beloved, released in February 1990 in the United Kingdom by East West Records and in the United States by Atlantic Records the following month. The group's first album since slimming down from a four-piece to a duo comprising Jon Marsh and Steve Waddington in 1987, the two members moved away from their previous, New Order-styled sound and drew influence from the late 1980s rave scene in London and from Black American house music.
 Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exemplifies the Beloved's new house-styled dance-pop material, becoming one of the first albums to fuse house and pop music, and features optimistic lyrics that helped it fit in with the hedonism of the UK's contemporary music scene and the second summer of love. Aided by four charting singles, including the group's breakthrough hit—the ambient-styled "The Sun Rising"—and their first Top 20 success in "Hello", Happiness reached number 14 on the UK Albums Chart and number 154 on the US Billboard 200 chart. It also received critical acclaim, and numerous magazines ranked the album among the greatest of the year.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/happiness/1325509066" >}}
+{{< applemusic url="https://music.apple.com/gb/album/happiness/1325509066" >}}<br>
+
+
 ## Videos
 ### Hello (Remastered)
 {{< youtube id="Y-uevW8RdiM" title="Hello (Remastered)" >}}<br>
@@ -67,8 +72,6 @@ Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Happiness_(The_Beloved_album) |
-| Wikipedia Summary | Happiness is the debut studio album, and second album overall, by English electronic group The Beloved, released in February 1990 in the United Kingdom by East West Records and in the United States by Atlantic Records the following month. The group's first album since slimming down from a four-piece to a duo comprising Jon Marsh and Steve Waddington in 1987, the two members moved away from their previous, New Order-styled sound and drew influence from the late 1980s rave scene in London and from Black American house music.<br>Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exemplifies the Beloved's new house-styled dance-pop material, becoming one of the first albums to fuse house and pop music, and features optimistic lyrics that helped it fit in with the hedonism of the UK's contemporary music scene and the second summer of love. Aided by four charting singles, including the group's breakthrough hit—the ambient-styled "The Sun Rising"—and their first Top 20 success in "Hello", Happiness reached number 14 on the UK Albums Chart and number 154 on the US Billboard 200 chart. It also received critical acclaim, and numerous magazines ranked the album among the greatest of the year. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Label          | New State Music |
 | Catalog Number | NEW9239LP |

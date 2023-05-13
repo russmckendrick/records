@@ -41,9 +41,15 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 Working again with director Barbet Schroeder, Pink Floyd created this soundtrack for the film <i>La Vallée</i> over a two-week period in early 1972. It was a relatively quick session for the group, which was also recording <i>The Dark Side of the Moon</i> back in London. To compare it to the soundtrack they had recorded just three years earlier (<i>More</i>) is remarkable—just listen to the tightly arranged, pastoral wonder of “Wot’s ... Uh the Deal” or the nearly glam, folk sing-along “Free Four”. With the dark, paranoia-and-synthesiser-tinged “Childhood’s End”, you can hear the seeds of the music that came to fruition on <i>The Dark Side ... </i>. At this point in their career, Pink Floyd had developed into a distinct and powerful group—veering between stately rock ’n’ roll and wide-eyed wonder at the drop of a hat. All the pieces of the band were in place on this album—lyrical introspection, Gilmour’s soaring guitar work and the loping gait of the rhythm section.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/obscured-by-clouds/717956085" >}}
+{{< applemusic url="https://music.apple.com/gb/album/obscured-by-clouds/717956085" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - Obscured By Clouds (1972) [Full Album]
 {{< youtube id="Te_-nISxLVI" title="Pink Floyd - Obscured By Clouds (1972) [Full Album]" >}}<br>
@@ -58,8 +64,6 @@ Working again with director Barbet Schroeder, Pink Floyd created this soundtrack
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Obscured_by_Clouds |
-| Wikipedia Summary | Obscured by Clouds is the seventh studio album by the English progressive rock band Pink Floyd, released on 2 June 1972 by Harvest and Capitol Records. It serves as the soundtrack for the French film La Vallée, by Barbet Schroeder. It was recorded in two sessions in France, while Pink Floyd were in the midst of touring, and produced by the band.<br>Obscured by Clouds is shorter than some of Pink Floyd's previous albums, and makes heavy use of the acoustic guitar. Lyrically, the songs centre around love, a common theme in the film the album was inspired by. The album's only single was "Free Four". Obscured by Clouds has been seen as a stopgap for the band, who had started work on their next album, The Dark Side of the Moon (1973). The album reached number six in the United Kingdom and number 46 in the United States;  retrospective opinions from both fans and critics have been mixed, some critics noting the similarities to their later material.<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP7 |

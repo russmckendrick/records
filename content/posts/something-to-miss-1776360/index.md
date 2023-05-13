@@ -30,9 +30,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/something-to-miss/259504098" >}}
+{{< applemusic url="https://music.apple.com/gb/album/something-to-miss/259504098" >}}<br>
+
+
 ## Videos
 ### Senseless Things - Something To Miss
 {{< youtube id="NzWfqBz8ksY" title="Senseless Things - Something To Miss" >}}<br>
@@ -44,7 +47,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1995                                   |
 | Format         | Vinyl 12" Single |
 | Label          | Epic |
 | Catalog Number | 661116 6 |

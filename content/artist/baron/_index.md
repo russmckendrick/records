@@ -1,7 +1,7 @@
 ---
 title: "Baron"
-summary: "UK psych band BARON was formed in 2008 by Diagonal members Alex Crispin and Luke Foster, later joined by Peter Evans and Blue Firth. They released their debut album in 2010."
+summary: "The Red Baron was an American Christian and straight edge band, where they primarily played a hardcore punk style of music. They come from West Palm Beach, Florida. The band started making music in 2004 and disbanded in 2009."
 image: "baron.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/baron/1542052110"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Red_Baron_(band)"
 ---

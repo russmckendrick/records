@@ -41,9 +41,14 @@ styles: ["Pop Rock", "Prog Rock"]
 Ra is the second studio album and third release by Utopia on Bearsville Records, released in 1977. Rundgren planned on releasing the LP in 1976 on his own label "Ethereal Records" as the new 4 piece line up was not signed to Bearsville. Replete with an elaborate $250,000 stage show featuring a 22-foot-tall (6.7 m) pyramid and golden sphinx which took 18 months of prep, Ra was Rundgren's most ambitious live undertaking.
 The cornerstone of the album and show is "Singring and the Glass Guitar," which comprises solos by each band member battling the elements: water (drums), wind (bass), fire (keyboards), and earth (guitar).
 The album was modestly successful, peaking the Billboard Top 200 at #79.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ra/129642450" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ra/129642450" >}}<br>
+
+
 ## Videos
 ### Communion With The Sun
 {{< youtube id="2bSaJ1KqqMA" title="Communion With The Sun" >}}<br>
@@ -62,8 +67,6 @@ The album was modestly successful, peaking the Billboard Top 200 at #79.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ra_(Utopia_album) |
-| Wikipedia Summary | Ra is the second studio album and third release by Utopia on Bearsville Records, released in 1977. Rundgren planned on releasing the LP in 1976 on his own label "Ethereal Records" as the new 4 piece line up was not signed to Bearsville. Replete with an elaborate $250,000 stage show featuring a 22-foot-tall (6.7 m) pyramid and golden sphinx which took 18 months of prep, Ra was Rundgren's most ambitious live undertaking.<br>The cornerstone of the album and show is "Singring and the Glass Guitar," which comprises solos by each band member battling the elements: water (drums), wind (bass), fire (keyboards), and earth (guitar).<br>The album was modestly successful, peaking the Billboard Top 200 at #79. |
-| Release Year   | 1977                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55514 |

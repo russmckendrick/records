@@ -60,9 +60,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy-deluxe-edition/1594918111" >}}
+{{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy-deluxe-edition/1594918111" >}}<br>
+
+
 ## Videos
 ### Charmed Life
 {{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}<br>
@@ -88,7 +91,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP (Gold), Vinyl LP (Silver), All Media Compilation Limited Edition |
 | Label          | Divine Comedy Records Limited |
 | Catalog Number | DCRL118LPX |

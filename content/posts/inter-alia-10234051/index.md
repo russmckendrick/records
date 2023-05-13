@@ -37,9 +37,13 @@ styles: ["Indie Rock", "Post-Hardcore"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="3Ka6oBfQ6rdAvQ1kK9KYvX" width="100%" height="500" >}}
+{{< spotify type="album" id="3Ka6oBfQ6rdAvQ1kK9KYvX" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### At The Drive In - Hostage Stamps (Official Music Video)
 {{< youtube id="JoNJ6AQhmFY" title="At The Drive In - Hostage Stamps (Official Music Video)" >}}<br>
@@ -53,7 +57,6 @@ styles: ["Indie Rock", "Post-Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Grimace Purple / Deep Purple With Grimace Purple Splatter Split) |
 | Label          | Rise Records (3) |
 | Catalog Number | RISE 369-1 |

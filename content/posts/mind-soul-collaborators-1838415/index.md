@@ -35,7 +35,10 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Back to the Planet   Sleepless Nights
 {{< youtube id="aDdBekh_jhA" title="Back to the Planet   Sleepless Nights" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1993                                   |
 | Format         | Vinyl LP Album |
 | Label          | Parallel Records |
 | Catalog Number | ALLP2 |

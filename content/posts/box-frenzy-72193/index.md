@@ -41,9 +41,12 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/box-frenzy-25th-anniversary-expanded-edition/1607835372" >}}
+{{< applemusic url="https://music.apple.com/gb/album/box-frenzy-25th-anniversary-expanded-edition/1607835372" >}}<br>
+
+
 ## Videos
 ### Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)
 {{< youtube id="hWhwXhpiMMU" title="Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)" >}}<br>
@@ -61,7 +64,6 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 18 |

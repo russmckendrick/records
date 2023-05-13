@@ -26,7 +26,10 @@ styles: ["Breakbeat"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DJ Format - Music For The Mature B Boy - Album Sampler Mix
 {{< youtube id="_DoiY8Xckyg" title="DJ Format - Music For The Mature B Boy - Album Sampler Mix" >}}<br>
@@ -38,7 +41,6 @@ styles: ["Breakbeat"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2003                                   |
 | Format         | Vinyl 12" Picture Disc Limited Edition |
 | Label          | Genuine |
 | Catalog Number | GEN 005 T |

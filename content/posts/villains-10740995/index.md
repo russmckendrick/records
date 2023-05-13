@@ -53,9 +53,14 @@ styles: ["Alternative Rock"]
 Villains is the seventh studio album by American rock band Queens of the Stone Age, released on August 25, 2017 through Matador. The album was announced on June 14, with a teaser trailer taking the form of a comedy skit featuring the band performing a polygraph test with Liam Lynch. The first single, "The Way You Used to Do", was released the following day along with the announcement of a world tour. Villains is the first Queens of the Stone Age album to not feature any special guest musicians, the second to not feature Mark Lanegan, and the first to feature Jon Theodore as full time member of the band.The album received widely positive reviews and performed well commercially, topping Billboard's Top Alternative Albums and Top Rock Albums charts. At the 2018 Grammy Awards ceremony, it was nominated for Best Rock Album, losing to The War on Drugs' A Deeper Understanding.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/villains/1586488985" >}}
+{{< applemusic url="https://music.apple.com/gb/album/villains/1586488985" >}}<br>
+
+
 ## Videos
 ### Queens of the Stone Age - The Evil Has Landed (Audio)
 {{< youtube id="Exa0CzlCb3Y" title="Queens of the Stone Age - The Evil Has Landed (Audio)" >}}<br>
@@ -78,8 +83,6 @@ Villains is the seventh studio album by American rock band Queens of the Stone A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Villains_(Queens_of_the_Stone_Age_album) |
-| Wikipedia Summary | Villains is the seventh studio album by American rock band Queens of the Stone Age, released on August 25, 2017 through Matador. The album was announced on June 14, with a teaser trailer taking the form of a comedy skit featuring the band performing a polygraph test with Liam Lynch. The first single, "The Way You Used to Do", was released the following day along with the announcement of a world tour. Villains is the first Queens of the Stone Age album to not feature any special guest musicians, the second to not feature Mark Lanegan, and the first to feature Jon Theodore as full time member of the band.The album received widely positive reviews and performed well commercially, topping Billboard's Top Alternative Albums and Top Rock Albums charts. At the 2018 Grammy Awards ceremony, it was nominated for Best Rock Album, losing to The War on Drugs' A Deeper Understanding.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Indie Edition) |
 | Label          | Matador |
 | Catalog Number | OLE-1125-8 |

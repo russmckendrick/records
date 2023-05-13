@@ -53,9 +53,15 @@ The xx began recording I See You in 2014 at Marfa Recording Co. in Marfa, Texas,
 I See You was released to widespread critical acclaim, with many reviewers finding its music less insular than the xx's previous recordings. It became the band's second number-one album in the United Kingdom and an international top-ten chart success. Four singles were released to promote the album, beginning with "On Hold", while the xx embarked on the European I See You Tour and subsequent concerts in the Americas.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-see-you/1170658234" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-see-you/1170658234" >}}<br>
+
+
 ## Videos
 ### The xx - On Hold (Official Video)
 {{< youtube id="blJKoXWlqJk" title="The xx - On Hold (Official Video)" >}}<br>
@@ -74,8 +80,6 @@ I See You was released to widespread critical acclaim, with many reviewers findi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_See_You_(The_xx_album) |
-| Apple Music Summary | After two albums of perfectly coiled indie pop, The xx open up. The intimate spaces and beautifully tessellated arrangements endure, but, perhaps owing to drummer/producer Jamie xx’s solo flowering, <i>I See You</i> is expansive and bright. The samples employed on “Say Something Loving” (Alessi Brothers) and “On Hold” (Hall & Oates), for example, add a new and joyous dimension to Romy Madley Croft and Oliver Sims’ vocals. The Londoners remain untouchable as stripped-back, small-hours balladeers, with closer “Test Me” as halting and affecting as they’ve ever been.       |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Clear), CD Album |
 | Label          | Young Turks |
 | Catalog Number | YTLP161V |

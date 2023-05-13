@@ -164,9 +164,12 @@ styles: ["Power Pop", "Punk", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/against-the-odds-1974-1982/1625686357" >}}
+{{< applemusic url="https://music.apple.com/gb/album/against-the-odds-1974-1982/1625686357" >}}<br>
+
+
 ## Videos
 ### Once I Had A Love (Betrock Demo)
 {{< youtube id="bzVt7eerM28" title="Once I Had A Love (Betrock Demo)" >}}<br>
@@ -209,7 +212,6 @@ styles: ["Power Pop", "Punk", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Box Set Compilation Deluxe Edition Limited Edition (Super Deluxe Edition), Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 10" Album, Vinyl 7" 45 RPM |
 | Label          | UMC |
 | Catalog Number | 00602508760693 |

@@ -48,7 +48,10 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### De La Soul - A Roller Skating Jam Named Saturdays (Music Video)
 {{< youtube id="vqI5PTYmF3w" title="De La Soul - A Roller Skating Jam Named Saturdays (Music Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Yellow Marbled) |
 | Label          | Ace |
 | Catalog Number | XXQLP2062C |

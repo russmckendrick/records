@@ -48,9 +48,13 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="0cO2uSBkGgniN35oeuaUCM" width="100%" height="500" >}}
+{{< spotify type="album" id="0cO2uSBkGgniN35oeuaUCM" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### I Feel Much Better (2012 Remaster)
 {{< youtube id="C76bFMCA9ss" title="I Feel Much Better (2012 Remaster)" >}}<br>
@@ -70,7 +74,6 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Compilation Remastered Mono |
 | Label          | Charly Records |
 | Catalog Number | CHARLY L 126 |

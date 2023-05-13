@@ -42,7 +42,10 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | K-Tel |
 | Catalog Number | NE 1090 |

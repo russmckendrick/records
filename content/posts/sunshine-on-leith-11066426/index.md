@@ -43,9 +43,14 @@ styles: ["Folk Rock"]
 Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fletcher. It is an adaptation of the stage musical of the same name, a jukebox musical featuring songs by The Proclaimers. It was screened in the Special Presentation section at the 2013 Toronto International Film Festival.The songs, arranged by musical director Paul Englishby, are performed by the cast. The Proclaimers themselves appear in a brief cameo.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sunshine-on-leith-2011-remaster/693799054" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sunshine-on-leith-2011-remaster/693799054" >}}<br>
+
+
 ## Videos
 ### The Proclaimers-Sunshine On Leith
 {{< youtube id="ZmELS03_4So" title="The Proclaimers-Sunshine On Leith" >}}<br>
@@ -65,8 +70,6 @@ Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sunshine_on_Leith_(film) |
-| Wikipedia Summary | Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fletcher. It is an adaptation of the stage musical of the same name, a jukebox musical featuring songs by The Proclaimers. It was screened in the Special Presentation section at the 2013 Toronto International Film Festival.The songs, arranged by musical director Paul Englishby, are performed by the cast. The Proclaimers themselves appear in a brief cameo.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Parlophone Records Ltd. |
 | Catalog Number | 0190295784416 |

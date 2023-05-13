@@ -37,9 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/behaviour-further-listening-1990-1991-deluxe-edition/1393146587" >}}
+{{< applemusic url="https://music.apple.com/gb/album/behaviour-further-listening-1990-1991-deluxe-edition/1393146587" >}}<br>
+
+
 ## Videos
 ### Pet Shop Boys - So Hard
 {{< youtube id="jFAA6Z_YIEM" title="Pet Shop Boys - So Hard" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295821746 |

@@ -1,11 +1,51 @@
 <div class="box alt">
     <div class="row gtr-50 gtr-uniform">
-        {{ range $.Page.Params.additional_images }}
+        {{ range $index, $image := $.Page.Params.additional_images }}
             <div class="col-4">
                 <span class="image fit">
-                    <img class="zoomable" src="{{ . }}" alt="" />
+                    {{ if lt $index 3 }}
+                        <img src="{{ $image }}" alt="" />
+                    {{ else }}
+                        <div class="image-wrapper">
+                            <img class="click-to-load" data-src="{{ $image }}" src="/images/click-to-load.png" alt="" />
+                            <div class="overlay-text">Click to load</div>
+                        </div>
+                    {{ end }}
                 </span>
             </div>
         {{ end }}
     </div>
 </div>
+
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+    const images = document.querySelectorAll('.click-to-load');
+
+    images.forEach(img => {
+        img.addEventListener('click', function() {
+            this.src = this.dataset.src;
+            this.classList.remove('click-to-load');
+            this.nextElementSibling.style.display = 'none';
+        });
+    });
+});
+</script>
+
+<style> 
+.image-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}
+</style>

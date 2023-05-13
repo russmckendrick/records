@@ -36,9 +36,14 @@ styles: ["Avantgarde"]
 
 Fantastic Planet (French: La Planète sauvage; Czech: Divoká planeta, lit. "The Wild Planet") is a 1973 experimental independent adult animated science fiction art film, directed by René Laloux and written by Laloux and Roland Topor, the latter of whom also completed the film's production design. The film was animated at Jiří Trnka Studio in Prague. The film was an international co-production between companies from France and Czechoslovakia. The allegorical story, about humans living on a strange planet dominated by giant humanoid aliens who consider them animals, is based on the 1957 novel Oms en série by French writer Stefan Wul.
 A working title while in development was Sur la planète Ygam (On the Planet Ygam), which is where most of the story takes place; the actual title (The Fantastic/Savage Planet) is the name of Ygam's moon. Production began in 1963. Fantastic Planet was awarded the Grand Prix special jury prize at the 1973 Cannes Film Festival, and in 2016, it was ranked the 36th greatest animated movie ever by Rolling Stone.This is the first animated movie to be rated PG by the MPAA in the United States.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fantastic-planet/1667792300" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fantastic-planet/1667792300" >}}<br>
+
+
 ## Videos
 ### Noveller - No Unholy Mountain
 {{< youtube id="rkJCNRJWIzU" title="Noveller - No Unholy Mountain" >}}<br>
@@ -54,8 +59,6 @@ A working title while in development was Sur la planète Ygam (On the Planet Yga
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fantastic_Planet |
-| Wikipedia Summary | Fantastic Planet (French: La Planète sauvage; Czech: Divoká planeta, lit. "The Wild Planet") is a 1973 experimental independent adult animated science fiction art film, directed by René Laloux and written by Laloux and Roland Topor, the latter of whom also completed the film's production design. The film was animated at Jiří Trnka Studio in Prague. The film was an international co-production between companies from France and Czechoslovakia. The allegorical story, about humans living on a strange planet dominated by giant humanoid aliens who consider them animals, is based on the 1957 novel Oms en série by French writer Stefan Wul.<br>A working title while in development was Sur la planète Ygam (On the Planet Ygam), which is where most of the story takes place; the actual title (The Fantastic/Savage Planet) is the name of Ygam's moon. Production began in 1963. Fantastic Planet was awarded the Grand Prix special jury prize at the 1973 Cannes Film Festival, and in 2016, it was ranked the 36th greatest animated movie ever by Rolling Stone.This is the first animated movie to be rated PG by the MPAA in the United States. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (Mint Green) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP398 |

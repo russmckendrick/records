@@ -37,9 +37,12 @@ styles: ["Classic Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1208718941" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1208718941" >}}<br>
+
+
 ## Videos
 ### Emerson, Lake & Palmer - Lucky Man
 {{< youtube id="89g1P_J40JA" title="Emerson, Lake & Palmer - Lucky Man" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Classic Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Atlantic |
 | Catalog Number | K 50 757 |

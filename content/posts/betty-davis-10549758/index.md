@@ -51,9 +51,14 @@ styles: ["Funk"]
 <!-- section break -->
 
 Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an American singer, songwriter, and model. She was known for her controversial sexually-oriented lyrics and performance style and was the second wife of trumpeter Miles Davis. Her AllMusic profile describes her as "a wildly flamboyant funk diva with few equals ... [who] combined the gritty emotional realism of Tina Turner, the futurist fashion sense of David Bowie, and the trendsetting flair of Miles Davis".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/betty-davis/658976770" >}}
+{{< applemusic url="https://music.apple.com/gb/album/betty-davis/658976770" >}}<br>
+
+
 ## Videos
 ### If I'm In Luck I Might Get Picked Up
 {{< youtube id="W8b4hPEN05I" title="If I'm In Luck I Might Get Picked Up" >}}<br>
@@ -74,8 +79,6 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Betty_Davis |
-| Wikipedia Summary | Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an American singer, songwriter, and model. She was known for her controversial sexually-oriented lyrics and performance style and was the second wife of trumpeter Miles Davis. Her AllMusic profile describes her as "a wildly flamboyant funk diva with few equals ... [who] combined the gritty emotional realism of Tina Turner, the futurist fashion sense of David Bowie, and the trendsetting flair of Miles Davis". |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Club Edition Reissue Remastered Repress Stereo (Silver & Blue Splatter, 180g) |
 | Label          | Light In The Attic |
 | Catalog Number | LITA 026 |

@@ -53,9 +53,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coma-divine-recorded-live-in-rome-expanded-edition/1170643787" >}}
+{{< applemusic url="https://music.apple.com/gb/album/coma-divine-recorded-live-in-rome-expanded-edition/1170643787" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Album Reissue Remastered |
 | Label          | Kscope |
 | Catalog Number | Kscope950 |

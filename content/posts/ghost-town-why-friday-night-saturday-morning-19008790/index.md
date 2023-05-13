@@ -30,7 +30,10 @@ styles: ["Ska", "Rocksteady"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Specials - Ghost Town [Official HD Remastered Video]
 {{< youtube id="RZ2oXzrnti4" title="The Specials - Ghost Town [Official HD Remastered Video]" >}}<br>
@@ -115,7 +118,6 @@ styles: ["Ska", "Rocksteady"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 7" 45 RPM Single Reissue (Half Speed Remastered) |
 | Label          | Two-Tone Records |
 | Catalog Number | CHS TTH 17 |

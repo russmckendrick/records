@@ -41,7 +41,10 @@ styles: ["House", "Breaks", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Coldcut - What's That Noise? (Full Album)
 {{< youtube id="tgYhZ5Ennig" title="Coldcut - What's That Noise? (Full Album)" >}}<br>
@@ -98,7 +101,6 @@ styles: ["House", "Breaks", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Sony Music |
 | Catalog Number | 88985459671 |

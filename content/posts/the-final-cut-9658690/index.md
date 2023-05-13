@@ -48,9 +48,15 @@ Waters planned the album as a soundtrack for the 1982 film adaptation of The Wal
 The Final Cut received mixed reviews, though retrospective reception has been more favourable. Though it reached number one in the UK and number six in the US, it was the lowest-selling Pink Floyd studio album worldwide since their sixth album, Meddle (1971).
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-final-cut/719121288" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-final-cut/719121288" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Final_Cut_(album) |
-| Apple Music Summary | Roger Waters dominated Pink Floyd on <i>The Wall</i>, but the follow-up was nearly his first solo album. Rick Wright had been fired, studio musicians supplant the band, and even David Gilmour only sings lead on the scabrous rocker "Not Now John". Recorded during the build-up to the Falklands War, Waters' lyrics reflect his personal demons: corruption, societal breakdown and—looming over everything—his father's death in World War II. But there's compassion in Waters' worldview and a few glimpses of hope amidst the bitterness. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP12 |

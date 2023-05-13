@@ -49,9 +49,12 @@ styles: ["Alternative Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/alice-anniversary-edition/1646707007" >}}
+{{< applemusic url="https://music.apple.com/gb/album/alice-anniversary-edition/1646707007" >}}<br>
+
+
 ## Videos
 ### Tom Waits - Alice
 {{< youtube id="k8XY2d1c9ok" title="Tom Waits - Alice" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Alternative Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched |
 | Label          | Anti- |
 | Catalog Number | 6632-3 |

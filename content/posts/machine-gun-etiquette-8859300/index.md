@@ -43,9 +43,14 @@ styles: ["Punk"]
 Machine Gun Etiquette is the third studio album by English punk rock band the Damned, released on 2 November 1979 by Chiswick Records.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/machine-gun-etiquette/1621373741" >}}
+{{< applemusic url="https://music.apple.com/gb/album/machine-gun-etiquette/1621373741" >}}<br>
+
+
 ## Videos
 ### Machine Gun Etiquette
 {{< youtube id="6gqxFAqCRYQ" title="Machine Gun Etiquette" >}}<br>
@@ -67,8 +72,6 @@ Machine Gun Etiquette is the third studio album by English punk rock band the Da
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Machine_Gun_Etiquette |
-| Wikipedia Summary | Machine Gun Etiquette is the third studio album by English punk rock band the Damned, released on 2 November 1979 by Chiswick Records.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Ace |
 | Catalog Number | WIKD 333 |

@@ -37,9 +37,12 @@ styles: ["Electro", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}
+{{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>
+
+
 ## Videos
 ### Kraftwerk - Électric Café (Edición Española) (1986) [HQ]
 {{< youtube id="QFuIUGqMb7U" title="Kraftwerk - Électric Café (Edición Española) (1986) [HQ]" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Remastered (English Version) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66050 1 1 |

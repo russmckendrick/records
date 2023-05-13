@@ -43,9 +43,14 @@ styles: ["Synth-pop"]
 
 "Electricity" is the 1979 debut single by English electronic band Orchestral Manoeuvres in the Dark (OMD), featured on their eponymous debut album the following year. Andy McCluskey and Paul Humphreys sing the lead vocals on the track together in unison. Recognised as one of the most influential singles of its era, "Electricity" was integral to the rise of the UK's synth-pop movement. It has garnered praise from music journalists and other recording artists.
 The track is a holdover from defunct Wirral group the Id (who were led by McCluskey and Humphreys), and features a melodic synthesizer break as opposed to a sung chorus. Following OMD's release of "Electricity" on Factory Records, the band were offered a recording contract with Dindisc, who twice re-issued the single. It achieved limited success on the UK Singles Chart, peaking at no. 99 in early 1980, but found popularity in nightclubs. A 2019 re-release, through Virgin EMI, topped the UK Vinyl Singles Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}<br>
+
+
 ## Videos
 ### Orchestral Manoeuvres In The Dark - Electricity (1979)
 {{< youtube id="7qKSJIsQN1Y" title="Orchestral Manoeuvres In The Dark - Electricity (1979)" >}}<br>
@@ -75,8 +80,6 @@ The track is a holdover from defunct Wirral group the Id (who were led by McClus
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electricity_(Orchestral_Manoeuvres_in_the_Dark_song) |
-| Wikipedia Summary | "Electricity" is the 1979 debut single by English electronic band Orchestral Manoeuvres in the Dark (OMD), featured on their eponymous debut album the following year. Andy McCluskey and Paul Humphreys sing the lead vocals on the track together in unison. Recognised as one of the most influential singles of its era, "Electricity" was integral to the rise of the UK's synth-pop movement. It has garnered praise from music journalists and other recording artists.<br>The track is a holdover from defunct Wirral group the Id (who were led by McCluskey and Humphreys), and features a melodic synthesizer break as opposed to a sung chorus. Following OMD's release of "Electricity" on Factory Records, the band were offered a recording contract with Dindisc, who twice re-issued the single. It achieved limited success on the UK Singles Chart, peaking at no. 99 in early 1980, but found popularity in nightclubs. A 2019 re-release, through Virgin EMI, topped the UK Vinyl Singles Chart. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 602557050806 |

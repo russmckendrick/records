@@ -46,9 +46,14 @@ styles: ["Pop Rock", "Prog Rock"]
 
 Three Sides Live is the third live album by the English rock band Genesis, released as a double album on 4 June 1982 on Charisma Records in the United Kingdom. It was released by Atlantic Records in the United States. After touring in support of their studio album Abacab ended in December 1981 the band entered an eight-month break in activity, during which they selected recordings from their previous tours for a live album. Three Sides Live includes recordings between 1976 and 1981; the UK edition contains additional live tracks on the fourth side of the double LP, while the original international edition featured tracks from their 1982 EP 3×3 and B-sides from Duke. Subsequent international reissues have adopted the UK track sequence.
 Three Sides Live received a mostly positive critical reception and was a commercial success, peaking at No. 2 on the UK Albums Chart and No. 10 on the US Billboard 200, where it sold 500,000 copies. Its release coincided with the band's Three Sides Live concert film. It was remastered in 1994 and 2009, the latter for their Genesis Live 1973–2007 box set.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/three-sides-live/724403891" >}}
+{{< applemusic url="https://music.apple.com/gb/album/three-sides-live/724403891" >}}<br>
+
+
 
 
 ## Release Images
@@ -58,8 +63,6 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Three_Sides_Live |
-| Wikipedia Summary | Three Sides Live is the third live album by the English rock band Genesis, released as a double album on 4 June 1982 on Charisma Records in the United Kingdom. It was released by Atlantic Records in the United States. After touring in support of their studio album Abacab ended in December 1981 the band entered an eight-month break in activity, during which they selected recordings from their previous tours for a live album. Three Sides Live includes recordings between 1976 and 1981; the UK edition contains additional live tracks on the fourth side of the double LP, while the original international edition featured tracks from their 1982 EP 3×3 and B-sides from Duke. Subsequent international reissues have adopted the UK track sequence.<br>Three Sides Live received a mostly positive critical reception and was a commercial success, peaking at No. 2 on the UK Albums Chart and No. 10 on the US Billboard 200, where it sold 500,000 copies. Its release coincided with the band's Three Sides Live concert film. It was remastered in 1994 and 2009, the latter for their Genesis Live 1973–2007 box set. |
-| Release Year   | 1982                                   |
 | Format         | Vinyl 2× LP Album Stereo (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | GE 2002 |

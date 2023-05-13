@@ -46,9 +46,15 @@ Tubular Bells initially sold slowly, but gained worldwide attention in December 
 An orchestral version produced by David Bedford was released in 1975 as The Orchestral Tubular Bells. It was followed by the albums Tubular Bells II (1992), Tubular Bells III (1998), The Millennium Bell (1999), and a re-recorded version, Tubular Bells 2003, for its 30th anniversary. A remastered edition was released in 2009. Its contribution to British music was recognised when Oldfield played extracts during the 2012 Summer Olympics opening ceremony in London. In 2010, Tubular Bells was one of ten classic album covers from British artists commemorated on a series of UK postage stamps issued by the Royal Mail.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tubular-bells/1440852773" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tubular-bells/1440852773" >}}<br>
+
+
 ## Videos
 ### Mike Oldfield - Tubular Bells Full Album
 {{< youtube id="bv_4sZCLlr0" title="Mike Oldfield - Tubular Bells Full Album" >}}<br>
@@ -61,8 +67,6 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tubular_Bells |
-| Apple Music Summary | A shifting labyrinth of complex orchestral pop beckons you on a two-part 1973 suite of mostly instrumental music that goes well beyond the familiar tinkling melody of its opening section. Oldfield—a prodigious talent who wrote his first songs at the age of nine—plays 20 instruments throughout, including the titular bells, and the scope is staggering. Spanish guitar flickers, ambient moments materialise, and it all builds to a finger-plucked, deliciously proggy finale. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram ), Vinyl LP Album Reissue (180 Gram), All Media Deluxe Edition Remastered Stereo (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 0600753695036 |

@@ -48,9 +48,12 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-original-recordings-remastered/1614241853" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-original-recordings-remastered/1614241853" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,7 +62,6 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Stereo (Green) |
 | Label          | UMC |
 | Catalog Number | 455 953-5 |

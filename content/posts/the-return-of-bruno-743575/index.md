@@ -41,9 +41,14 @@ styles: ["Blues Rock", "Pop Rock"]
 The Return of Bruno is the debut studio album by American actor Bruce Willis. Released by Motown Records in January 1987, the album consists of blues, rhythm and blues and soul music sung by Willis, with backing musicians including Booker T. Jones, The Pointer Sisters, and The Temptations. It is a companion piece to an HBO special of the same name, which aired shortly after the album's release. A re-issue was distributed by Razor & Tie in 1997.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-return-of-bruno/1444378334" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-return-of-bruno/1444378334" >}}<br>
+
+
 ## Videos
 ### Jackpot (Bruno's Bop)
 {{< youtube id="Z2uComF6LuY" title="Jackpot (Bruno's Bop)" >}}<br>
@@ -65,8 +70,6 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Return_of_Bruno_(album) |
-| Wikipedia Summary | The Return of Bruno is the debut studio album by American actor Bruce Willis. Released by Motown Records in January 1987, the album consists of blues, rhythm and blues and soul music sung by Willis, with backing musicians including Booker T. Jones, The Pointer Sisters, and The Temptations. It is a companion piece to an HBO special of the same name, which aired shortly after the album's release. A re-issue was distributed by Razor & Tie in 1997.<br><br> |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Motown |
 | Catalog Number | ZL 72571 |

@@ -35,9 +35,14 @@ styles: ["Art Rock", "Prog Rock"]
 The Yes Album is the third studio album by English progressive rock band Yes, released on 19 February 1971 by Atlantic Records. It was the band's first album to feature guitarist Steve Howe, who replaced Peter Banks in 1970, as well as their last to feature keyboardist Tony Kaye until 1983's 90125.
 The band spent mid-1970 writing and rehearsing new material at a farmhouse at Romansleigh, Devon, and the new songs were recorded at Advision Studios in London in the autumn. The album was the first by the band to feature all-original material. While the album retained close harmony singing, Kaye's Hammond organ, and Chris Squire's melodic bass, as heard on earlier releases, the new material also covered further styles including jazz piano, funk, and acoustic music. All of the band members contributed ideas, and tracks were extended in length to allow music to develop. Howe contributed a variety of guitar styles, including a Portuguese guitar, and recorded the solo acoustic guitar piece "Clap", live at the Lyceum Theatre, London.
 The album was a critical success and a major commercial breakthrough for Yes, who had been at risk of being dropped by Atlantic due to the commercial failures of their first two albums. It reached number 4 in the United Kingdom and number 40 in the United States, and was later certified platinum by the Recording Industry Association of America for surpassing one million copies. The album has been reissued on CD several times, and was given a Blu-ray release in 2014 remixed by Steven Wilson.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-yes-album/1049017157" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-yes-album/1049017157" >}}<br>
+
+
 ## Videos
 ### Y̲es – T̲he Y̲es Album (Full Album) 1971
 {{< youtube id="_Y6oPS4aLk8" title="Y̲es – T̲he Y̲es Album (Full Album) 1971" >}}<br>
@@ -50,8 +55,6 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Yes_Album |
-| Wikipedia Summary | The Yes Album is the third studio album by English progressive rock band Yes, released on 19 February 1971 by Atlantic Records. It was the band's first album to feature guitarist Steve Howe, who replaced Peter Banks in 1970, as well as their last to feature keyboardist Tony Kaye until 1983's 90125.<br>The band spent mid-1970 writing and rehearsing new material at a farmhouse at Romansleigh, Devon, and the new songs were recorded at Advision Studios in London in the autumn. The album was the first by the band to feature all-original material. While the album retained close harmony singing, Kaye's Hammond organ, and Chris Squire's melodic bass, as heard on earlier releases, the new material also covered further styles including jazz piano, funk, and acoustic music. All of the band members contributed ideas, and tracks were extended in length to allow music to develop. Howe contributed a variety of guitar styles, including a Portuguese guitar, and recorded the solo acoustic guitar piece "Clap", live at the Lyceum Theatre, London.<br>The album was a critical success and a major commercial breakthrough for Yes, who had been at risk of being dropped by Atlantic due to the commercial failures of their first two albums. It reached number 4 in the United Kingdom and number 40 in the United States, and was later certified platinum by the Recording Industry Association of America for surpassing one million copies. The album has been reissued on CD several times, and was given a Blu-ray release in 2014 remixed by Steven Wilson. |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Atlantic |
 | Catalog Number | ATL 40 106 |

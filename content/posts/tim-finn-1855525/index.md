@@ -43,9 +43,14 @@ Brian Timothy Finn  (born 25 June 1952) is a New Zealand singer, songwriter, mus
 He reunited with Neil and subsequently joined Crowded House for their third album Woodface, co-writing the majority of the songs on the album, including the hits "Four Seasons in One Day", "Weather with You" and "It's Only Natural". Leaving the band after the album's release, he reunited with Neil again later in the 1990s under the name Finn Brothers. Finn has participated in various collaborations with other artists, including former Split Enz members, and has also composed scores for films and musicals. Along with his brother, Finn was appointed Officer of the Order of British Empire in 1993 for his services to music. 
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/he-will-have-his-way-the-songs-of-tim-neil-finn/721281542" >}}
+{{< applemusic url="https://music.apple.com/gb/album/he-will-have-his-way-the-songs-of-tim-neil-finn/721281542" >}}<br>
+
+
 ## Videos
 ### Tim Finn - Not Even Close (1989)
 {{< youtube id="KIAnj5YGh-E" title="Tim Finn - Not Even Close (1989)" >}}<br>
@@ -61,8 +66,6 @@ He reunited with Neil and subsequently joined Crowded House for their third albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tim_Finn |
-| Wikipedia Summary | Brian Timothy Finn  (born 25 June 1952) is a New Zealand singer, songwriter, musician, and composer. He is best known as a founding member of Split Enz. Finn founded the band in 1972 with Phil Judd and served as lead singer and principal songwriter. Following Judd's departure in 1977, he was joined by brother Neil. Finn wrote or co-wrote some of the band's best-known songs, including "I See Red" and "Six Months in a Leaky Boat". While still a member of Split Enz, he began a solo career, scoring the two hits "Fraction Too Much Friction" and "Made My Day" in 1983; he left the band in 1984. <br>He reunited with Neil and subsequently joined Crowded House for their third album Woodface, co-writing the majority of the songs on the album, including the hits "Four Seasons in One Day", "Weather with You" and "It's Only Natural". Leaving the band after the album's release, he reunited with Neil again later in the 1990s under the name Finn Brothers. Finn has participated in various collaborations with other artists, including former Split Enz members, and has also composed scores for films and musicals. Along with his brother, Finn was appointed Officer of the Order of British Empire in 1993 for his services to music. <br><br> |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album (Allied Pressing) |
 | Label          | Capitol Records |
 | Catalog Number | C1-48735 |

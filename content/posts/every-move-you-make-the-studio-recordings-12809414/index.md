@@ -128,7 +128,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -137,7 +140,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Album Reissue Remastered (Half Speed Mastered; 180 gram), Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Compilation Remastered (Half Speed Mastered) |
 | Label          | A&M Records |
 | Catalog Number | 676 325-0 |

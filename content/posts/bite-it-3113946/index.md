@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see 1995 in music). The album includes two of the overall four previously released singles by the band, namely "No Time" and "Jackie's Racing". Another single, "Detroit", was not part of the original album but added as a bonus track to certain subsequent releases of Bite It, making "Starrclub" the only Whiteout single not released on a proper album (although it was re-released on the Japanese EP No Time). The album was available on both CD and vinyl.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bite-it/1635562008" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bite-it/1635562008" >}}<br>
+
+
 ## Videos
 ### Whiteout - No Time
 {{< youtube id="KsoyNoEl2gw" title="Whiteout - No Time" >}}<br>
@@ -58,8 +63,6 @@ Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bite_It |
-| Wikipedia Summary | Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see 1995 in music). The album includes two of the overall four previously released singles by the band, namely "No Time" and "Jackie's Racing". Another single, "Detroit", was not part of the original album but added as a bonus track to certain subsequent releases of Bite It, making "Starrclub" the only Whiteout single not released on a proper album (although it was re-released on the Japanese EP No Time). The album was available on both CD and vinyl. |
-| Release Year   | 1995                                   |
 | Format         | Vinyl 2× LP Limited Edition |
 | Label          | Silvertone Records |
 | Catalog Number | OREZLP536 |

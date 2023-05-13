@@ -39,7 +39,10 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Just Another Victim
 {{< youtube id="M0TVU6mI12I" title="Just Another Victim" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP232 |

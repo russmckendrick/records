@@ -68,9 +68,15 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 “Although I sing a lot about relationships, this is the only song on the album that’s about true heartbreak. It took a long time to record and I kept making revisions lyrically and to the production because I really wanted to capture a feeling within it. It was that feeling when you’re so at a loss that something fell apart. For me, it was that I was so heartbroken and spent months walking in slow motion. So I wanted to capture that sensation of feeling numb and watching the world pass you but all you can do is think about whatever it may be. It’s strange, because it’s almost a divine, serene feeling, but it’s so negative. It’s very still and peaceful, but it’s so very lonely. That serene unhappiness is something that I imagine people could probably get stuck in.”<br />
 <b>Nothing Fades Like the Light</b>
 “This song is about the feeling of knowing something is coming to an end, and how that feeling can be more painful than when it does actually end. Embarrassingly, I still really choke up and cry in this song when I perform it. Which sounds conceited, but it’s not because I’m so moved by my performance. It’s very funny, as like I said earlier, I didn’t realise how closed I was emotionally for a very long time. A friend of mine passed away when I was quite young, and I remember being at the funeral and being incapable of crying. It dawned on me, ‘You know, I don’t cry very often. What makes me cry? Should I be crying? Do I feel things? Am I crazy?’ It’s nuts, because after that moment something clicked in my brain and I didn’t cry for about five or six years, at all. I think it became a compulsion where I just could not seem to cry. I eventually did, and it was actually a moment of bliss. Now I cry all the time.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pony/1446363542" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pony/1446363542" >}}<br>
+
+
 ## Videos
 ### Orville Peck - Dead of Night [OFFICIAL VIDEO]
 {{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" >}}<br>
@@ -93,8 +99,6 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pony_(Orville_Peck_album) |
-| Wikipedia Summary | Pony is the debut studio album by South African country musician Orville Peck, released on March 22, 2019 by Sub Pop. A country, alternative country, and cowboy pop album, Pony features elements of goth, dream pop, shoegazing, indie rock, surf rock, post-punk, gospel folk.Pony was named to the initial longlist for the 2019 Polaris Music Prize in June 2019. The album also received a Juno Award nomination for Alternative Album of the Year at the Juno Awards of 2020.<br><br> |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Repress (Orange Neon) |
 | Label          | Sub Pop |
 | Catalog Number | SP1293 |

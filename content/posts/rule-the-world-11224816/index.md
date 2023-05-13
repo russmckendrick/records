@@ -49,9 +49,14 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 Rule the World: The Greatest Hits is a greatest hits album by English pop/rock band Tears for Fears, released in 2017 by Virgin EMI Records. The compilation is an updated version of 1992's Tears Roll Down (Greatest Hits 82–92), including almost every track from that album (with the sole exception of "Laid So Low (Tears Roll Down)"), plus additional singles from the three studio albums released after Tears Roll Down and two new songs: "Stay" and "I Love You but I'm Lost" (co-written by the band with Dan Smith of Bastille). The latter was released as a digital single on 13 October 2017.The album peaked at No. 12 in the UK, becoming the band's sixth UK top 20 album, and has been certified Gold by the British Phonographic Industry for combined units and sales in excess of 100,000 copies.A UK and European tour called the Rule the World Live 2018 was scheduled to begin in April 2018, but was postponed to 2019 due to "unforeseen health concerns".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rule-the-world-the-greatest-hits/1440759345" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rule-the-world-the-greatest-hits/1440759345" >}}<br>
+
+
 
 
 ## Release Images
@@ -61,8 +66,6 @@ Rule the World: The Greatest Hits is a greatest hits album by English pop/rock b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rule_the_World:_The_Greatest_Hits |
-| Wikipedia Summary | Rule the World: The Greatest Hits is a greatest hits album by English pop/rock band Tears for Fears, released in 2017 by Virgin EMI Records. The compilation is an updated version of 1992's Tears Roll Down (Greatest Hits 82–92), including almost every track from that album (with the sole exception of "Laid So Low (Tears Roll Down)"), plus additional singles from the three studio albums released after Tears Roll Down and two new songs: "Stay" and "I Love You but I'm Lost" (co-written by the band with Dan Smith of Bastille). The latter was released as a digital single on 13 October 2017.The album peaked at No. 12 in the UK, becoming the band's sixth UK top 20 album, and has been certified Gold by the British Phonographic Industry for combined units and sales in excess of 100,000 copies.A UK and European tour called the Rule the World Live 2018 was scheduled to begin in April 2018, but was postponed to 2019 due to "unforeseen health concerns". |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation (Gatefold Sleeve) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3197 |

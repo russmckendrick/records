@@ -66,9 +66,15 @@ styles: []
 “Basically, the whole record is just working up to ‘Hold Me Anyway’. It's just a big, goofy hug of a song. I think it's just meant to be ridiculously loving and big-hearted and stupid. I think that was the whole idea, to kind of work the record towards this climax of an embrace.”<br />
 <b>An Empty Corner</b>
 “That song is mostly about this weird phenomenon when you dream about things that really happened. The first line, ‘Eight tiny lines on a copying machine’—first of all, I like the idea that nobody ever talks about <i>tiny</i> lines of cocaine. I used to work at a liquor store, and they would lay out lines of cocaine on the copying machine when the store would get busy. They made me a night manager at one point; I was only 18 years old. They gave me a gun and I had to make night deposits and then go back to the store and put the gun back in the safe. So I dreamt about that, and I woke up thinking I wish I had cocaine, but I don't even like cocaine. The other two verses are more actual dreamlike dream scenarios, but they're rooted in some of the authoritarian, dystopian atmosphere we're swimming around in. I like to look at a last song on a record as the closing credits of an album. This album, to me, needed closing credits that underlined the idea that maybe we're imagining some of this. That too shall pass and it's a thing that's really happening, but sometimes it does feel like a weird dream even while you're in it.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ode-to-joy/1472975878" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ode-to-joy/1472975878" >}}<br>
+
+
 ## Videos
 ### Wilco Everyone Hides (Official Video)
 {{< youtube id="P2Gbbd6pVMg" title="Wilco Everyone Hides (Official Video)" >}}<br>
@@ -81,8 +87,6 @@ styles: []
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ode_to_Joy_(Wilco_album) |
-| Wikipedia Summary | Ode to Joy is the eleventh studio album from American indie rock band Wilco, released on October 4, 2019, on dBpm Records. The release has received positive reviews. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | dBpm Records |
 | Catalog Number | DBPM-010-20-LP |

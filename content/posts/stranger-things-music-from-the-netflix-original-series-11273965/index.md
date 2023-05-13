@@ -61,7 +61,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### INTRO - Will Singing the Clash
 {{< youtube id="cy9iyo9Ygg4" title="INTRO - Will Singing the Clash" >}}<br>
@@ -96,7 +99,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Compilation |
 | Label          | Legacy |
 | Catalog Number | 88985480901 |

@@ -42,9 +42,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Beat is the ninth studio album by the British rock band King Crimson, released in 1982 by record label E.G. This is the second King Crimson album to feature the band's line-up of co-founder Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford. It is the first release in King Crimson’s discography to feature the same lineup as the previous studio album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beat-expanded-edition/1090454400" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beat-expanded-edition/1090454400" >}}<br>
+
+
 ## Videos
 ### King Crimson - Heartbeat
 {{< youtube id="WYnT6huYhLw" title="King Crimson - Heartbeat" >}}<br>
@@ -57,8 +62,6 @@ Beat is the ninth studio album by the British rock band King Crimson, released i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Beat_(King_Crimson_album) |
-| Wikipedia Summary | Beat is the ninth studio album by the British rock band King Crimson, released in 1982 by record label E.G. This is the second King Crimson album to feature the band's line-up of co-founder Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford. It is the first release in King Crimson’s discography to feature the same lineup as the previous studio album. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP9 |

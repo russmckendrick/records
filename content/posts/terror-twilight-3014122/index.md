@@ -41,9 +41,14 @@ styles: ["Indie Rock"]
 
 Terror Twilight is the fifth and final studio album by American indie rock band Pavement, released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.
 Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some creative choices, and songwriter Stephen Malkmus later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/terror-twilight/1589125798" >}}
+{{< applemusic url="https://music.apple.com/gb/album/terror-twilight/1589125798" >}}<br>
+
+
 ## Videos
 ### Pavement - Spit On A Stranger (Official Video)
 {{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger (Official Video)" >}}<br>
@@ -58,8 +63,6 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Terror_Twilight |
-| Wikipedia Summary | Terror Twilight is the fifth and final studio album by American indie rock band Pavement, released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.<br>Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some creative choices, and songwriter Stephen Malkmus later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Reissue (180 gram) |
 | Label          | Domino |
 | Catalog Number | WIGLP 66 |

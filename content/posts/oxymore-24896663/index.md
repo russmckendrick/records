@@ -80,9 +80,14 @@ styles: ["Techno"]
 <!-- section break -->
 
 Oxymore is the twenty-second studio album by French musician and composer Jean-Michel Jarre. It was released on 21 October 2022 through Sony and Columbia.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/oxymore/1631819443" >}}
+{{< applemusic url="https://music.apple.com/gb/album/oxymore/1631819443" >}}<br>
+
+
 ## Videos
 ### AGORA
 {{< youtube id="Jb-u4KeW7Zw" title="AGORA" >}}<br>
@@ -117,8 +122,6 @@ Oxymore is the twenty-second studio album by French musician and composer Jean-M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oxymore |
-| Wikipedia Summary | Oxymore is the twenty-second studio album by French musician and composer Jean-Michel Jarre. It was released on 21 October 2022 through Sony and Columbia. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× 12" 33 ⅓ RPM Album (180g) |
 | Label          | Columbia |
 | Catalog Number | 19658746581 |

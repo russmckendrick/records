@@ -30,7 +30,10 @@ styles: ["Shoegaze", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Chapterhouse - Precious One
 {{< youtube id="HW0JWRt0t1A" title="Chapterhouse - Precious One" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Shoegaze", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | Dedicated |
 | Catalog Number | HOUSE 001T |

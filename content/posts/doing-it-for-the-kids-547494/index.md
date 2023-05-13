@@ -42,7 +42,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Primal Scream - All Fall Down
 {{< youtube id="4wi2bi9-ZUI" title="Primal Scream - All Fall Down" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Creation Records |
 | Catalog Number | CRELP 037 |

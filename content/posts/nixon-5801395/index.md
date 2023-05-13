@@ -40,9 +40,14 @@ styles: ["Folk Rock", "Country Rock"]
 
 Nixon is the fifth studio album by American rock band Lambchop. It was released on February 7, 2000 and was issued by Merge Records and City Slang.
 Nixon became a breakthrough release for Lambchop in the United Kingdom, where it received critical acclaim and was named among the best albums of 2000 by numerous publications.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nixon/1269033778" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nixon/1269033778" >}}<br>
+
+
 ## Videos
 ### Grumpus - Lambchop
 {{< youtube id="ZVk5KalTrwU" title="Grumpus - Lambchop" >}}<br>
@@ -58,8 +63,6 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nixon_(album) |
-| Wikipedia Summary | Nixon is the fifth studio album by American rock band Lambchop. It was released on February 7, 2000 and was issued by Merge Records and City Slang.<br>Nixon became a breakthrough release for Lambchop in the United Kingdom, where it received critical acclaim and was named among the best albums of 2000 by numerous publications. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180gram) |
 | Label          | City Slang |
 | Catalog Number | SLANG50044LP |

@@ -35,7 +35,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Matt Berry - The Night Terrors (Saint Etienne Remix)
 {{< youtube id="m32LRNhhNXQ" title="Matt Berry - The Night Terrors (Saint Etienne Remix)" >}}<br>
@@ -55,7 +58,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP415 |

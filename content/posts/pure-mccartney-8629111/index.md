@@ -106,9 +106,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 This collection, curated by Sir Paul, proves there are second and third acts in life. <i>Pure McCartney</i> highlights his solo works from his 1970 debut to 2015. There are plenty of curios mixed in with the hits—too many here to mention—presenting a comprehensive, well-balanced road map of the legend’s long and winding career.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pure-mccartney-deluxe-edition/1440951787" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pure-mccartney-deluxe-edition/1440951787" >}}<br>
+
+
 
 
 ## Release Images
@@ -117,8 +122,6 @@ This collection, curated by Sir Paul, proves there are second and third acts in 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | This collection, curated by Sir Paul, proves there are second and third acts in life. <i>Pure McCartney</i> highlights his solo works from his 1970 debut to 2015. There are plenty of curios mixed in with the hits—too many here to mention—presenting a comprehensive, well-balanced road map of the legend’s long and winding career. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 4× LP, Box Set Compilation Remastered (180g, Slip Case) |
 | Label          | Concord Music Group |
 | Catalog Number | HRM-38698-01 |

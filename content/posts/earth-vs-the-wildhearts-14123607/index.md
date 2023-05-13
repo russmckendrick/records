@@ -38,9 +38,14 @@ styles: ["Hard Rock"]
 
 Earth vs the Wildhearts is the debut studio album by British rock band The Wildhearts, released in 1993. The title is based on such B-movie titles as Earth vs. the Flying Saucers and Earth vs. the Spider.
 The album has been reissued twice: first in 1994 with the addition of the formerly single-only track "Caffeine Bomb", and again in 2010 with several B-sides from the period.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/earth-versus-the-wildhearts/41297620" >}}
+{{< applemusic url="https://music.apple.com/gb/album/earth-versus-the-wildhearts/41297620" >}}<br>
+
+
 ## Videos
 ### The Wildhearts - TV Tan
 {{< youtube id="o8y-M_0UffE" title="The Wildhearts - TV Tan" >}}<br>
@@ -57,8 +62,6 @@ The album has been reissued twice: first in 1994 with the addition of the former
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Earth_vs_the_Wildhearts |
-| Wikipedia Summary | Earth vs the Wildhearts is the debut studio album by British rock band The Wildhearts, released in 1993. The title is based on such B-movie titles as Earth vs. the Flying Saucers and Earth vs. the Spider.<br>The album has been reissued twice: first in 1994 with the addition of the formerly single-only track "Caffeine Bomb", and again in 2010 with several B-sides from the period. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | EastWest |
 | Catalog Number | 0190295451950 |

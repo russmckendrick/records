@@ -37,9 +37,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/organisation/714776809" >}}
+{{< applemusic url="https://music.apple.com/gb/album/organisation/714776809" >}}<br>
+
+
 ## Videos
 ### Enola Gay (Remastered)
 {{< youtube id="n4mqwJ569_M" title="Enola Gay (Remastered)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin |
 | Catalog Number | 0602557050837 |

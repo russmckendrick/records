@@ -55,9 +55,15 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 "Born in the U.S.A." is a song written and performed by Bruce Springsteen, and released in 1984 on the album of the same name. One of Springsteen's best-known singles, it was ranked 275th on Rolling Stone's list of "The 500 Greatest Songs of All Time", and in 2001, the RIAA's Songs of the Century placed the song 59th (out of 365), remaining a favorite in classic rock. The song addresses the economic hardships of Vietnam veterans upon their return home, juxtaposed ironically against patriotic glorification of the nation's fighting forces.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/born-in-the-u-s-a/203708420" >}}
+{{< applemusic url="https://music.apple.com/gb/album/born-in-the-u-s-a/203708420" >}}<br>
+
+
 ## Videos
 ### Bruce Springsteen - Born in the U.S.A. (Official Video)
 {{< youtube id="EPhWR4d3FJQ" title="Bruce Springsteen - Born in the U.S.A. (Official Video)" >}}<br>
@@ -82,8 +88,6 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Born_in_the_U.S.A._(song) |
-| Apple Music Summary | <i>Born in the U.S.A.</i> delivered the superstar status that Springsteen fans had always expected. The title track was one of seven hits from <i>U.S.A.</i>, which also included the ultra-modern synth-rock of "Dancing in the Dark," the lustful "I'm on Fire," and the quiet, end-of-the-road "My Hometown." Springsteen's ability to make fist-waving, good-time music of troubled stories was at its highest peak here. |
-    | Release Year   | 1984                                   |
 | Format         | Vinyl LP Album Stereo (Sunburst Label) |
 | Label          | CBS |
 | Catalog Number | CBS 86304 |

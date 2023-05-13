@@ -41,9 +41,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dont-prey-for-me/1442397355" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dont-prey-for-me/1442397355" >}}<br>
+
+
 ## Videos
 ### Little Angels - Don't Prey For Me (Full Album)
 {{< youtube id="wW4ex-Id_nA" title="Little Angels - Don't Prey For Me (Full Album)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Polydor |
 | Catalog Number | 843 469-1 |

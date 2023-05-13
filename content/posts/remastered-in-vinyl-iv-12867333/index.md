@@ -80,7 +80,10 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Kate Bush / 2018 Remasters unboxing part 2
 {{< youtube id="lC_U-Nu0hrw" title="Kate Bush / 2018 Remasters unboxing part 2" >}}<br>
@@ -92,7 +95,6 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Box Set Compilation |
 | Label          | Fish People |
 | Catalog Number | 0190295593926 |

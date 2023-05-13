@@ -36,9 +36,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/eupnea/1494941222" >}}
+{{< applemusic url="https://music.apple.com/gb/album/eupnea/1494941222" >}}<br>
+
+
 ## Videos
 ### PURE REASON REVOLUTION - Ghosts & Typhoons (OFFICIAL VIDEO)
 {{< youtube id="nIfrCbRkBww" title="PURE REASON REVOLUTION - Ghosts & Typhoons (OFFICIAL VIDEO)" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP (Yellow Neon, 180 Gram), Vinyl LP Single Sided Etched (Yellow Neon, 180 Gram), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 545 |

@@ -48,9 +48,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Rare Birds is the third studio album by American musician and producer Jonathan Wilson. It was released on March 2, 2018 under Bella Union.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rare-birds/1320439940" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rare-birds/1320439940" >}}<br>
+
+
 ## Videos
 ### Jonathan Wilson - Trafalgar Square [Official Music Video]
 {{< youtube id="R2pg8BPQWlc" title="Jonathan Wilson - Trafalgar Square [Official Music Video]" >}}<br>
@@ -70,8 +75,6 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rare_Birds_(album) |
-| Wikipedia Summary | Rare Birds is the third studio album by American musician and producer Jonathan Wilson. It was released on March 2, 2018 under Bella Union. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Gold) |
 | Label          | Bella Union |
 | Catalog Number | BELLA730VX |

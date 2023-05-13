@@ -45,9 +45,14 @@ styles: ["Pop Rock"]
 
 Pacific Ocean Blue is the only studio album by American musician Dennis Wilson, co-founder of the Beach Boys. When released in August 1977, it was warmly received critically, and noted for outselling the Beach Boys' contemporary efforts. Two singles were issued from the album, "River Song" and "You and I", which did not chart.
 The album remains a focal point of Wilson's legacy, being referred to as a "classic". It was voted number 838 in Colin Larkin's All Time Top 1000 Albums. Wilson intended to record a follow-up, entitled Bambu, but the album was left unfinished at the time of his death in December 1983.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pacific-ocean-blue-bambu-deluxe-legacy-edition/457508820" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pacific-ocean-blue-bambu-deluxe-legacy-edition/457508820" >}}<br>
+
+
 ## Videos
 ### Only with You
 {{< youtube id="1Q-oVAhZ3GQ" title="Only with You" >}}<br>
@@ -71,8 +76,6 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pacific_Ocean_Blue |
-| Wikipedia Summary | Pacific Ocean Blue is the only studio album by American musician Dennis Wilson, co-founder of the Beach Boys. When released in August 1977, it was warmly received critically, and noted for outselling the Beach Boys' contemporary efforts. Two singles were issued from the album, "River Song" and "You and I", which did not chart.<br>The album remains a focal point of Wilson's legacy, being referred to as a "classic". It was voted number 838 in Colin Larkin's All Time Top 1000 Albums. Wilson intended to record a follow-up, entitled Bambu, but the album was left unfinished at the time of his death in December 1983. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP096 |

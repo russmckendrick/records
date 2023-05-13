@@ -32,9 +32,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fog-electric-deluxe-edition/674007811" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fog-electric-deluxe-edition/674007811" >}}<br>
+
+
 ## Videos
 ### North Atlantic Oscillation - Soft Coda
 {{< youtube id="M43P_8UkA5A" title="North Atlantic Oscillation - Soft Coda" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE828 |

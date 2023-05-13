@@ -35,9 +35,12 @@ styles: ["Pop Rock", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics-m6/1197681039" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics-m6/1197681039" >}}<br>
+
+
 ## Videos
 ### Mike & The Mechanics - Silent running
 {{< youtube id="ep7W89I_V_g" title="Mike & The Mechanics - Silent running" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | WEA |
 | Catalog Number | 252 496-1 |

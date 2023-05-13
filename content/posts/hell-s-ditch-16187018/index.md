@@ -39,9 +39,12 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hells-ditch-expanded-edition/189232803" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hells-ditch-expanded-edition/189232803" >}}<br>
+
+
 ## Videos
 ### The Pogues - Hell's Ditch
 {{< youtube id="jBAgkmy2vrg" title="The Pogues - Hell's Ditch" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Translucent, 180g) |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 825646255856 |

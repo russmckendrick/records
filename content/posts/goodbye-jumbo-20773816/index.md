@@ -42,9 +42,14 @@ styles: ["Alternative Rock"]
 
 Goodbye Jumbo is the second studio album by Welsh-British alternative rock band World Party, released on 24 April 1990 on Ensign Records.
 The album received generally positive reviews from critics and peaked at No. 73 on the US Billboard 200 and No. 36 on the UK Albums Chart. "Way Down Now", the album's lead single, spent five weeks at number one on the Billboard Alternative Songs chart, and follow-up single "Put the Message in the Box" reached No. 8.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/goodbye-jumbo/977887401" >}}
+{{< applemusic url="https://music.apple.com/gb/album/goodbye-jumbo/977887401" >}}<br>
+
+
 ## Videos
 ### Is It Too Late?
 {{< youtube id="7IZlfTeOcYg" title="Is It Too Late?" >}}<br>
@@ -71,8 +76,6 @@ The album received generally positive reviews from critics and peaked at No. 73 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Goodbye_Jumbo |
-| Wikipedia Summary | Goodbye Jumbo is the second studio album by Welsh-British alternative rock band World Party, released on 24 April 1990 on Ensign Records.<br>The album received generally positive reviews from critics and peaked at No. 73 on the US Billboard 200 and No. 36 on the UK Albums Chart. "Way Down Now", the album's lead single, spent five weeks at number one on the Billboard Alternative Songs chart, and follow-up single "Put the Message in the Box" reached No. 8. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Seaview Records |
 | Catalog Number | seaview 2LP |

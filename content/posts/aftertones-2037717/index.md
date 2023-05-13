@@ -38,9 +38,12 @@ styles: ["Ballad"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aftertones/1546946678" >}}
+{{< applemusic url="https://music.apple.com/gb/album/aftertones/1546946678" >}}<br>
+
+
 ## Videos
 ### Aftertones
 {{< youtube id="NlY_DgfLMm8" title="Aftertones" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Ballad"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1975                                   |
 | Format         | Vinyl LP Album (Terre Haute Pressing) |
 | Label          | Columbia |
 | Catalog Number | PC 33919 |

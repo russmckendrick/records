@@ -50,9 +50,14 @@ Leftism is the debut studio album by English electronic music duo Leftfield, rel
 On its release, the album was well received from the British press with positive reviews from the NME and Q. The album was nominated for the Mercury Prize in 1995 but lost to Portishead's Dummy. Leftism sold well and was released months later in the United States. Critics have praised the album as one of the major album-length works of dance music, with Q referring to it as "the first truly complete album experience to be created by house musicians and the first quintessentially British one".
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/leftism-22/1219444979" >}}
+{{< applemusic url="https://music.apple.com/gb/album/leftism-22/1219444979" >}}<br>
+
+
 ## Videos
 ### Song of Life (Remastered)
 {{< youtube id="WCoAndSOF7I" title="Song of Life (Remastered)" >}}<br>
@@ -79,8 +84,6 @@ On its release, the album was well received from the British press with positive
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Leftism_(album) |
-| Wikipedia Summary | Leftism is the debut studio album by English electronic music duo Leftfield, released in 1995 on Columbia Records. It contained a mixture of new tracks along with reworked versions of previous Leftfield singles. The album contains guest spots from musicians not associated with dance music at the time such as John Lydon from Public Image Ltd. (and formerly of Sex Pistols) and Toni Halliday from Curve. The album was described as progressive house, although some journalists found that label too limiting, suggesting the album incorporated many genres. After completing the album, the duo initially were not pleased with it.<br>On its release, the album was well received from the British press with positive reviews from the NME and Q. The album was nominated for the Mercury Prize in 1995 but lost to Portishead's Dummy. Leftism sold well and was released months later in the United States. Critics have praised the album as one of the major album-length works of dance music, with Q referring to it as "the first truly complete album experience to be created by house musicians and the first quintessentially British one".<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Album Reissue Remastered Special Edition (180 g) |
 | Label          | Columbia |
 | Catalog Number | 88985388501 |

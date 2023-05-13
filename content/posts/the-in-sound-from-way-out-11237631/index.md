@@ -42,9 +42,15 @@ styles: ["Instrumental"]
 <!-- section break -->
 
 The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name.
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="0nA01XOVBUoi1zDVVYKz4i" width="100%" height="500" >}}
+{{< spotify type="album" id="0nA01XOVBUoi1zDVVYKz4i" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Beastie Boys - 2 Sabrosa
 {{< youtube id="k_UfHToc50E" title="Beastie Boys - 2 Sabrosa" >}}<br>
@@ -67,8 +73,6 @@ The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_In_Sound_from_Way_Out!_(Beastie_Boys_album) |
-| Wikipedia Summary | The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation Reissue (180 g) |
 | Label          | Capitol Records |
 | Catalog Number | 602557727920 |

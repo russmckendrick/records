@@ -44,9 +44,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/affinity/1088398278" >}}
+{{< applemusic url="https://music.apple.com/gb/album/affinity/1088398278" >}}<br>
+
+
 ## Videos
 ### affinity.exe
 {{< youtube id="AvhjDInyGYQ" title="affinity.exe" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 579 |

@@ -38,9 +38,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/soul-of-a-woman/1484989831" >}}
+{{< applemusic url="https://music.apple.com/gb/album/soul-of-a-woman/1484989831" >}}<br>
+
+
 ## Videos
 ### Sharon Jones & the Dap Kings - Matter of Time
 {{< youtube id="_Z9LA1u5KCI" title="Sharon Jones & the Dap Kings - Matter of Time" >}}<br>
@@ -63,7 +66,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Daptone Records |
 | Catalog Number | DAP-050 |

@@ -37,9 +37,12 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ogdens-nut-gone-flake/1193811494" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ogdens-nut-gone-flake/1193811494" >}}<br>
+
+
 ## Videos
 ### The Small Faces - Lazy Sunday Afternoon
 {{< youtube id="zXeRB-3nDR8" title="The Small Faces - Lazy Sunday Afternoon" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Mono |
 | Label          | Charly Records |
 | Catalog Number | 101L |

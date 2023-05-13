@@ -41,7 +41,12 @@ styles: ["Pop Rock"]
 
 Frenzy is the fourth studio album by New Zealand new wave band Split Enz. Frenzy ventured even further beyond the band's art rock roots to more of a pop sound.
 The album is notable for being the first to feature Neil Finn on lead vocals – though the lyrics to "Give It a Whirl" and both music & lyrics to "Master Plan" were written by his brother Tim.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Split Enz-Frenzy (Full Album) 1979 Original Version
 {{< youtube id="dIjapHRUESw" title="Split Enz-Frenzy (Full Album) 1979 Original Version" >}}<br>
@@ -57,8 +62,6 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frenzy_(Split_Enz_album) |
-| Wikipedia Summary | Frenzy is the fourth studio album by New Zealand new wave band Split Enz. Frenzy ventured even further beyond the band's art rock roots to more of a pop sound.<br>The album is notable for being the first to feature Neil Finn on lead vocals – though the lyrics to "Give It a Whirl" and both music & lyrics to "Master Plan" were written by his brother Tim. |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLK 63153 |

@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/were-here-because-were-here/369025308" >}}
+{{< applemusic url="https://music.apple.com/gb/album/were-here-because-were-here/369025308" >}}<br>
+
+
 ## Videos
 ### Anathema - Thin Air (lyrics)
 {{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air (lyrics)" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Label          | Kscope |
 | Catalog Number | Kscope1068 |

@@ -42,9 +42,14 @@ styles: ["Art Rock", "Prog Rock"]
 
 Oops! Wrong Planet is the third studio album by American rock band  Utopia. It delivers a markedly trimmed down, pop-oriented direction for the band following the progressively influenced previous album, Ra.
 Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/oops-wrong-planet/129641944" >}}
+{{< applemusic url="https://music.apple.com/gb/album/oops-wrong-planet/129641944" >}}<br>
+
+
 ## Videos
 ### Utopia - Abandon City
 {{< youtube id="Wyiu68va3mA" title="Utopia - Abandon City" >}}<br>
@@ -64,8 +69,6 @@ Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" la
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oops!_Wrong_Planet |
-| Wikipedia Summary | Oops! Wrong Planet is the third studio album by American rock band  Utopia. It delivers a markedly trimmed down, pop-oriented direction for the band following the progressively influenced previous album, Ra.<br>Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979. |
-| Release Year   | 1977                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55517 |

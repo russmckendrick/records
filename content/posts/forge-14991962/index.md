@@ -32,9 +32,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/forge/1495646143" >}}
+{{< applemusic url="https://music.apple.com/gb/album/forge/1495646143" >}}<br>
+
+
 ## Videos
 ### Forge
 {{< youtube id="nOz-mJlc5BA" title="Forge" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Limited Edition (Blue) |
 | Label          | Trapped Animal |
 | Catalog Number | TAR018VX |

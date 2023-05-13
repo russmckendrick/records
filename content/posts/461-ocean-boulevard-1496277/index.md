@@ -41,9 +41,14 @@ The album was Clapton's return to the recording studio after a three-year hiatus
 A remastered two-disc deluxe edition of the album was released in 2004, which included selections from two live shows at the Hammersmith Odeon, and additional studio jam sessions.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/461-ocean-boulevard/1440851328" >}}
+{{< applemusic url="https://music.apple.com/gb/album/461-ocean-boulevard/1440851328" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,8 +58,6 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/461_Ocean_Boulevard |
-| Wikipedia Summary | 461 Ocean Boulevard is the second studio album by English musician Eric Clapton. The album was released in late July 1974 for RSO Records, shortly after the record company released the hit single "I Shot the Sheriff" in early July the same year. The album topped various international charts and sold more than two million copies.<br>The album was Clapton's return to the recording studio after a three-year hiatus due to his heroin addiction. The title refers to the address on Ocean Boulevard in Golden Beach, Florida, where Clapton lived while recording the album. Upon completing the album, Clapton and RSO head Robert Stigwood recommended the house and Miami's Criteria Studios to fellow RSO artists, the Bee Gees, who then moved in to write and record Main Course. The street address of the house was changed after the album's release.<br>A remastered two-disc deluxe edition of the album was released in 2004, which included selections from two live shows at the Hammersmith Odeon, and additional studio jam sessions.<br><br> |
-| Release Year   | 1983                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | RSO |
 | Catalog Number | SPELP 24 |

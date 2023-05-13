@@ -41,9 +41,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/0898-beautiful-south/1442244263" >}}
+{{< applemusic url="https://music.apple.com/gb/album/0898-beautiful-south/1442244263" >}}<br>
+
+
 ## Videos
 ### The Beautiful South - Old Red Eyes Is Back
 {{< youtube id="ggJYJ9frSl0" title="The Beautiful South - Old Red Eyes Is Back" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Go! Discs |
 | Catalog Number | 5743902 |

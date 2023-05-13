@@ -34,7 +34,10 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal
 {{< youtube id="YUSxUHEt_Cw" title="The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album |
 | Label          | fsoldigital.com |
 | Catalog Number | LP TOT 79 |

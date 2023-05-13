@@ -34,9 +34,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/birth-of-the-marvellous/1448303615" >}}
+{{< applemusic url="https://music.apple.com/gb/album/birth-of-the-marvellous/1448303615" >}}<br>
+
+
 ## Videos
 ### Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album
 {{< youtube id="P0FtRWykN-w" title="Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Prosthetic Records |
 | Catalog Number | PROS103551 |

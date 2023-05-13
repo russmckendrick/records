@@ -43,9 +43,14 @@ styles: ["New Wave", "Punk", "Experimental"]
 
 154 is the third album by the English post-punk band Wire, released in 1979 
 on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/154-2006-remastered-version/1339606590" >}}
+{{< applemusic url="https://music.apple.com/gb/album/154-2006-remastered-version/1339606590" >}}<br>
+
+
 ## Videos
 ### I Should Have Known Better (2006 Remastered Version)
 {{< youtube id="FxigNmhB5KM" title="I Should Have Known Better (2006 Remastered Version)" >}}<br>
@@ -74,8 +79,6 @@ on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/154_(album) |
-| Wikipedia Summary | 154 is the third album by the English post-punk band Wire, released in 1979 <br>on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF13LP |

@@ -42,9 +42,12 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/terraformer/1618539649" >}}
+{{< applemusic url="https://music.apple.com/gb/album/terraformer/1618539649" >}}<br>
+
+
 ## Videos
 ### Thank You Scientist - Terraformer (Official Music Video)
 {{< youtube id="OKKWQEpS8hI" title="Thank You Scientist - Terraformer (Official Music Video)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Red Mix/Blue Mix) |
 | Label          | Evil Ink Records |
 | Catalog Number | EI304 |

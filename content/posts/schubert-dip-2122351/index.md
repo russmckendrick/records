@@ -40,9 +40,14 @@ styles: ["Leftfield", "Synth-pop"]
 <!-- section break -->
 
 Schubert Dip is the debut album by British rock band EMF, released on Parlophone Records on 7 May 1991. It features the worldwide hit single "Unbelievable" which reached number one on the US Billboard Hot 100. The name of the album is a pun on the name of the popular sweet sherbet dip and the 19th-century composer Franz Schubert.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/schubert-dip/1242337425" >}}
+{{< applemusic url="https://music.apple.com/gb/album/schubert-dip/1242337425" >}}<br>
+
+
 ## Videos
 ### EMF - Children (Official Music Video)
 {{< youtube id="fN7XEB31uow" title="EMF - Children (Official Music Video)" >}}<br>
@@ -67,8 +72,6 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Schubert_Dip |
-| Wikipedia Summary | Schubert Dip is the debut album by British rock band EMF, released on Parlophone Records on 7 May 1991. It features the worldwide hit single "Unbelievable" which reached number one on the US Billboard Hot 100. The name of the album is a pun on the name of the popular sweet sherbet dip and the 19th-century composer Franz Schubert. |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | PCS 7353 |

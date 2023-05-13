@@ -45,9 +45,12 @@ styles: ["Prog Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vapor-trails-remixed/708140941" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vapor-trails-remixed/708140941" >}}<br>
+
+
 
 
 ## Release Images
@@ -56,7 +59,6 @@ styles: ["Prog Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | 8122796441 |

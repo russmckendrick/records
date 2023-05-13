@@ -43,13 +43,15 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 
 <!-- section break -->
 
-Trailer Park is the solo debut album by British singer Beth Orton. Combining folk, electronica, and trip hop elements, it earned Orton two BRIT Award nominations. One single from the album was the opening track, "She Cries Your Name", which previously appeared in a different form on William Orbit's album Strange Cargo Hinterland. All songs were co-written by Orton except for a cover version of Phil Spector's "I Wish I Never Saw the Sunshine." The album was among the first to fuse elements of 1960s and 1970s folk with modern electronica and trip hop.
-An expanded two-disc Legacy Edition was released internationally on 10 March 2009.
+Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
+    
+    
 
 
-    <br>
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}
+{{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}<br>
+
+
 ## Videos
 ### Beth Orton - She Cries Your Name (Video)
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}<br>
@@ -71,9 +73,6 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Trailer_Park_(album) |
-| Apple Music Summary | Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
 | Label          | Sony Music |
 | Catalog Number | 19439956801 |

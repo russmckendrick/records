@@ -39,9 +39,12 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}
+{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>
+
+
 ## Videos
 ### Me, I Disconnect from You
 {{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}<br>
@@ -63,7 +66,6 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 7 |

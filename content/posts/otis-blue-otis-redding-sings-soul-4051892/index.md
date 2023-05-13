@@ -40,9 +40,14 @@ styles: ["Soul"]
 <!-- section break -->
 
 On this 1965 album Redding cemented his place as the preeminent soul man, thanks to an impassioned vocal style that could veer from tender to urgent in the space of a verse. Highlights include two of his most enduring originals: “I’ve Been Loving You Too Long” and the attitude-laden swagger of “Respect.” Redding utterly transforms The Rolling Stones’ “Satisfaction (I Can’t Get No)” with his forceful vocals, while his take on Sam Cooke’s civil rights anthem “A Change Is Gonna Come” is wracked with emotion.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/otis-blue-otis-redding-sings-soul-collectors-edition/278115738" >}}
+{{< applemusic url="https://music.apple.com/gb/album/otis-blue-otis-redding-sings-soul-collectors-edition/278115738" >}}<br>
+
+
 ## Videos
 ### My Girl
 {{< youtube id="PtW03zWhXRw" title="My Girl" >}}<br>
@@ -56,8 +61,6 @@ On this 1965 album Redding cemented his place as the preeminent soul man, thanks
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | On this 1965 album Redding cemented his place as the preeminent soul man, thanks to an impassioned vocal style that could veer from tender to urgent in the space of a verse. Highlights include two of his most enduring originals: “I’ve Been Loving You Too Long” and the attitude-laden swagger of “Respect.” Redding utterly transforms The Rolling Stones’ “Satisfaction (I Can’t Get No)” with his forceful vocals, while his take on Sam Cooke’s civil rights anthem “A Change Is Gonna Come” is wracked with emotion. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue Special Edition Stereo (Blue, 180 Gram) |
 | Label          | ATCO Records |
 | Catalog Number | 8122797160 |

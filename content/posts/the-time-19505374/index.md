@@ -46,9 +46,14 @@ styles: ["Minneapolis Sound", "Funk"]
 <!-- section break -->
 
 The Time is the 1981 debut album by the Time. The album was largely produced and arranged by Prince, credited as Jamie Starr. Three singles came from the album: "Get It Up", "Cool" and "Girl", with the first two charting within the top ten on the R&B charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/time-flies-1994-2009/1517527208" >}}
+{{< applemusic url="https://music.apple.com/gb/album/time-flies-1994-2009/1517527208" >}}<br>
+
+
 ## Videos
 ### Get It Up
 {{< youtube id="qF632f3h7gY" title="Get It Up" >}}<br>
@@ -67,8 +72,6 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Time_(The_Time_album) |
-| Wikipedia Summary | The Time is the 1981 debut album by the Time. The album was largely produced and arranged by Prince, credited as Jamie Starr. Three singles came from the album: "Get It Up", "Cool" and "Girl", with the first two charting within the top ten on the R&B charts. |
-| Release Year   | 2021                                   |
 | Format         | All Media Compilation Limited Edition, Vinyl LP Album Reissue Remastered (Red), Vinyl LP Compilation Remastered (White) |
 | Label          | Warner Records |
 | Catalog Number | 603497843954 |

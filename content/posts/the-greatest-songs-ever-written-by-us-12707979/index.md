@@ -57,9 +57,12 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-greatest-songs-ever-written-by-us/1485042726" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-greatest-songs-ever-written-by-us/1485042726" >}}<br>
+
+
 ## Videos
 ### NOFX - Don't Call Me White
 {{< youtube id="4Ik09xFT6mk" title="NOFX - Don't Call Me White" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation (Green Translucent) |
 | Label          | Epitaph Europe |
 | Catalog Number | 6727-1 |

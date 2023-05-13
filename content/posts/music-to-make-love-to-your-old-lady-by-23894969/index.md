@@ -51,9 +51,14 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nathaniel-merriweather-presents-lovage-music-to-make/844768342" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nathaniel-merriweather-presents-lovage-music-to-make/844768342" >}}<br>
+
+
 ## Videos
 ### Lovage - Lies and Alibis
 {{< youtube id="hxf21Yh0LsI" title="Lovage - Lies and Alibis" >}}<br>
@@ -92,8 +97,6 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_to_Make_Love_to_Your_Old_Lady_By |
-| Wikipedia Summary | Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Bulk Recordings |
 | Catalog Number | BULK020LP |

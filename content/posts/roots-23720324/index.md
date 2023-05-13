@@ -42,9 +42,12 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roots/1590864217" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roots/1590864217" >}}<br>
+
+
 ## Videos
 ### Children of the Sün - Roots (full Album 2022)
 {{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots (full Album 2022)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (Purple Transparent) |
 | Label          | The Sign Records |
 | Catalog Number | CRC020 |

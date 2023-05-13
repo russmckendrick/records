@@ -50,9 +50,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}
+{{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}<br>
+
+
 
 
 ## Release Images
@@ -61,7 +64,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 3× LP Album Reissue, All Media Deluxe Edition Limited Edition Numbered |
 | Label          | Run Out Groove |
 | Catalog Number | ROGV-114 |

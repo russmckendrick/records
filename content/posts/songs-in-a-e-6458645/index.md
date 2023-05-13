@@ -42,9 +42,13 @@ styles: ["Alternative Rock", "Space Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="2sVtK7SzMhN1NRrTB42Vqo" width="100%" height="500" >}}
+{{< spotify type="album" id="2sVtK7SzMhN1NRrTB42Vqo" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Baby I'm Just a Fool
 {{< youtube id="ncD2YXmCUeI" title="Baby I'm Just a Fool" >}}<br>
@@ -59,7 +63,6 @@ styles: ["Alternative Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (White) |
 | Label          | Sanctuary |
 | Catalog Number | 1768732 |

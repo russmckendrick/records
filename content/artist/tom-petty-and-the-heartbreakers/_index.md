@@ -4,6 +4,6 @@ summary: "Tom Petty and the Heartbreakers were an American rock band from Gaines
 Although Petty insists that the band be referred to as rock and roll, the Heartbreakers' music was characterized as both southern rock and heartland rock, cited alongside artists such as Bruce Springsteen, Bob Seger, and John Mellencamp as progenitors of that genre that arose in the late 1970s and 1980s. While the heartland rock movement waned in the 1990s, the band remained active and popular, touring regularly until Petty's death in 2017, after which the Heartbreakers disbanded. Their final studio album, Hypnotic Eye, was released in 2014.
 The band was inducted into the Rock and Roll Hall of Fame in 2002, their first year of eligibility. Although most of their material was produced and performed under the name \"Tom Petty and the Heartbreakers\", Petty released three solo albums, the most successful of which was Full Moon Fever . In these releases, some members of the band contributed as collaborators, producing and performing as studio musicians."
 image: "tom-petty-and-the-heartbreakers.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/tom-petty-the-heartbreakers/161527"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tom_Petty_and_the_Heartbreakers"
 ---

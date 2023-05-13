@@ -52,9 +52,14 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 <!-- section break -->
 
 Empath is the eighteenth studio album by Canadian metal musician Devin Townsend, released on his own label HevyDevy Records on March 29, 2019. It is his first solo album since Dark Matters, which was a part of the 2014 double album Z², and his first release to act solely as a solo album since 2007's Ziltoid the Omniscient.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/empath-deluxe-edition/1449841303" >}}
+{{< applemusic url="https://music.apple.com/gb/album/empath-deluxe-edition/1449841303" >}}<br>
+
+
 ## Videos
 ### DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)
 {{< youtube id="AdHJurX0yVA" title="DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)" >}}<br>
@@ -81,8 +86,6 @@ Empath is the eighteenth studio album by Canadian metal musician Devin Townsend,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Empath_(album) |
-| Wikipedia Summary | Empath is the eighteenth studio album by Canadian metal musician Devin Townsend, released on his own label HevyDevy Records on March 29, 2019. It is his first solo album since Dark Matters, which was a part of the 2014 double album Z², and his first release to act solely as a solo album since 2007's Ziltoid the Omniscient. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album (180g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 526 |

@@ -37,9 +37,13 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}
+{{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Split Enz - Iris
 {{< youtube id="pF72BXV2quw" title="Split Enz - Iris" >}}<br>
@@ -58,7 +62,6 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64848 |

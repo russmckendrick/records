@@ -41,9 +41,12 @@ styles: ["Folk", "Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980" >}}<br>
+
+
 ## Videos
 ### the pogues-sally maclennane [best quality]
 {{< youtube id="fvV5mryQF1I" title="the pogues-sally maclennane [best quality]" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Folk", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 0190295672560 |

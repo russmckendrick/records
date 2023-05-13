@@ -39,7 +39,10 @@ styles: ["Folk Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Compilation Reissue (180 gram) |
 | Label          | Madfish |
 | Catalog Number | SMALP1028 |

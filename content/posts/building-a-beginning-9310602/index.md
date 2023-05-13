@@ -39,9 +39,14 @@ styles: ["Neo Soul", "Funk"]
 <!-- section break -->
 
 A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”), or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/building-a-beginning/1133940590" >}}
+{{< applemusic url="https://music.apple.com/gb/album/building-a-beginning/1133940590" >}}<br>
+
+
 ## Videos
 ### Jamie Lidell - Building A Beginning (Lyric Video)
 {{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning (Lyric Video)" >}}<br>
@@ -55,8 +60,6 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”), or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP 45 RPM (Red), Vinyl LP 45 RPM (Yellow), All Media Album |
 | Label          | Jajulin |
 | Catalog Number | JJL004 |

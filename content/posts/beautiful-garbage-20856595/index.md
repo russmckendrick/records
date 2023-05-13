@@ -48,9 +48,12 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beautiful-garbage/1544163294" >}}
+{{< applemusic url="https://music.apple.com/gb/album/beautiful-garbage/1544163294" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,7 +62,6 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 140g) |
 | Label          | Stun Volume |
 | Catalog Number | BMGCAT528DCLP |

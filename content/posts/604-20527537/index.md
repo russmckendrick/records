@@ -45,9 +45,14 @@ styles: ["Electro", "Synth-pop"]
 On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first three being live recordings made on 16 May 2003 at the Central Military Club in Sofia, Bulgaria. The January 2011 re-release of the album on Nettwerk also features these same bonus tracks.In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that the album was named after the area code for British Columbia. Reuben Wu drew the cover of the European edition of 604.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/604/1619141992" >}}
+{{< applemusic url="https://music.apple.com/gb/album/604/1619141992" >}}<br>
+
+
 ## Videos
 ### Ladytron - Playgirl [Official Music Video]
 {{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl [Official Music Video]" >}}<br>
@@ -79,8 +84,6 @@ On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/604_(album) |
-| Wikipedia Summary | 604 is the debut studio album by English electronic music band Ladytron, released in the United States on 6 February 2001 by Emperor Norton Records and in the United Kingdom on 12 March 2001 by Invicta Hi-Fi. It was co-produced, engineered and mixed by Lance Thomas. Some of the tracks had been previously released on their EPs Miss Black and Her Friends (1999), Mu-Tron EP (2000) and Commodore Rock (2000).<br>On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first three being live recordings made on 16 May 2003 at the Central Military Club in Sofia, Bulgaria. The January 2011 re-release of the album on Nettwerk also features these same bonus tracks.In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that the album was named after the area code for British Columbia. Reuben Wu drew the cover of the European edition of 604.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP 45 RPM (Red [Blood Red]), Vinyl LP 45 RPM (Clear [Ultra Clear]), All Media Album Limited Edition Reissue |
 | Label          | Nettwerk |
 | Catalog Number | 30912 1 |

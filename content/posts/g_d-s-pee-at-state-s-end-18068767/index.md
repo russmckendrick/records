@@ -44,9 +44,13 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6gZsJeN8MdITXZMVDXrMk0" width="100%" height="500" >}}
+{{< spotify type="album" id="6gZsJeN8MdITXZMVDXrMk0" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,7 +59,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP (180 g), Vinyl 10" 33 ⅓ RPM EP, All Media Album |
 | Label          | Constellation |
 | Catalog Number | CST156 |

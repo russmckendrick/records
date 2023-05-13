@@ -54,9 +54,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/eponymous-1981-1983/1343357621" >}}
+{{< applemusic url="https://music.apple.com/gb/album/eponymous-1981-1983/1343357621" >}}<br>
+
+
 ## Videos
 ### The Alarm - Lie Of The Land
 {{< youtube id="Xe9MsP1VddQ" title="The Alarm - Lie Of The Land" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo |
 | Label          | The Twenty First Century Recording Company |
 | Catalog Number | 21C093 |

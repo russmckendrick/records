@@ -41,9 +41,14 @@ styles: ["Prog Rock", "Progressive Metal"]
 <!-- section break -->
 
 Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song "Pull Me Under" has the distinction of being the only Top 10 hit (radio or otherwise) the band has had to date. This particular song has also had more recent success as it has appeared in the 2008 video game Guitar Hero World Tour.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/images-and-words/282703578" >}}
+{{< applemusic url="https://music.apple.com/gb/album/images-and-words/282703578" >}}<br>
+
+
 ## Videos
 ### Dream Theater - Pull Me Under [OFFICIAL VIDEO]
 {{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}<br>
@@ -58,8 +63,6 @@ Images and Words is the second studio album by American progressive metal band D
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Images_and_Words |
-| Wikipedia Summary | Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song "Pull Me Under" has the distinction of being the only Top 10 hit (radio or otherwise) the band has had to date. This particular song has also had more recent success as it has appeared in the 2008 video game Guitar Hero World Tour. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180gram) |
 | Label          | ATCO Records |
 | Catalog Number | MOVLP780 |

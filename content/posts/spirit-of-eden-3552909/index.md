@@ -48,10 +48,17 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 <!-- section break -->
 
-<i>Spirit of Eden</i> is one of the most powerful and singular experiences in modern music. Released in 1988, written by singer Mark Hollis and producer-multi-instrumentalist Tim Friese-Greene, and performed as improvisations with several outside musicians, then digitally edited into place, the album is quite simply a masterpiece. Critical reception has only grown over the years as the album’s subtle emotional spaces reveal themselves over longer periods to be even deeper than originally suspected. The pop hooks of the group’s previous works have been dismissed for the extended ambience of the nine-minute “The Rainbow,” the seven-minute symphonic grind of “Desire” and the nearly seven-minute “Eden,” where the organ and guitar again rise to dramatic heights. Lyrics pass in the night with meanings obscured, but the emotions are clearly pained yet hopeful. Hollis’ voice turns the musical spaces into something greater than the sum of its parts. This level of experimentation would continue with the follow-up <i>Laughing Stock</i> and Hollis’ self-titled solo album. He has since retired from music.
-<br>
+Spirit of Eden is the fourth studio album by English band Talk Talk, released in 1988 on Parlophone Records. The songs were written by vocalist Mark Hollis and producer Tim Friese-Greene and the album was compiled from a lengthy recording process at London's Wessex Studios between 1987 and 1988. Often working in darkness, the band recorded many hours of improvised performances that drew on elements of jazz, ambient, blues, classical music, and dub. These long-form recordings were then heavily edited and re-arranged into an album in mostly digital format.
+Spirit of Eden was a radical departure from Talk Talk's earlier and more accessible albums. Compared to the success of 1986's The Colour of Spring, it was a commercial disappointment. Despite its mixed reception, the album's stature grew more favourable in subsequent years, with contemporary critics describing Spirit of Eden as an underrated masterpiece, and early progenitor of the post-rock genre. In 2013, NME ranked Spirit of Eden at number 95 in its list of the "500 Greatest Albums of All Time", and in 2020, the same publication included Spirit of Eden on its list of "The best new wave albums ever".
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/spirit-of-eden/701395363" >}}
+{{< applemusic url="https://music.apple.com/gb/album/spirit-of-eden/701395363" >}}<br>
+
+
 ## Videos
 ### I Believe in You [Official video] - Talk Talk (HD/HQ)
 {{< youtube id="fKtp3SOQE6I" title="I Believe in You [Official video] - Talk Talk (HD/HQ)" >}}<br>
@@ -70,8 +77,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | <i>Spirit of Eden</i> is one of the most powerful and singular experiences in modern music. Released in 1988, written by singer Mark Hollis and producer-multi-instrumentalist Tim Friese-Greene, and performed as improvisations with several outside musicians, then digitally edited into place, the album is quite simply a masterpiece. Critical reception has only grown over the years as the album’s subtle emotional spaces reveal themselves over longer periods to be even deeper than originally suspected. The pop hooks of the group’s previous works have been dismissed for the extended ambience of the nine-minute “The Rainbow,” the seven-minute symphonic grind of “Desire” and the nearly seven-minute “Eden,” where the organ and guitar again rise to dramatic heights. Lyrics pass in the night with meanings obscured, but the emotions are clearly pained yet hopeful. Hollis’ voice turns the musical spaces into something greater than the sum of its parts. This level of experimentation would continue with the follow-up <i>Laughing Stock</i> and Hollis’ self-titled solo album. He has since retired from music. |
-| Release Year   | 2012                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Spirit_of_Eden |
 | Format         | Vinyl LP Album Reissue (180 gram), DVD DVD-Video NTSC Album Reissue |
 | Label          | Parlophone |
 | Catalog Number | PCSDX 105 |

@@ -57,9 +57,14 @@ styles: ["Pop Punk"]
 <!-- section break -->
 
 Insomniac is the fourth studio album by American rock band Green Day, released on October 10, 1995, by Reprise Records. It was recorded at Hyde Street in San Francisco, and the band prioritized high-energy takes during the recording sessions. Released as the follow-up to the band's multi-platinum breakthrough Dookie, Insomniac featured a heavier, hardcore punk sound, with bleaker lyrics than its predecessor. Lyrically, the album discusses themes such as alienation, anxiety, boredom, and drug use. Insomniac also served as a reaction to many early fans who had turned their backs on the band after it achieved mainstream success with Dookie.The album received generally positive reviews from critics, who praised frontman Billie Joe Armstrong's songwriting and sarcastic sense of humor. Three songs were released as singles, "Geek Stink Breath", "Stuck with Me", and "Brain Stew / Jaded". Though it peaked at number 2 on the Billboard 200 chart and was certified 2× Platinum by the Recording Industry Association of America in 1996, Insomniac did not have the sales endurance of its predecessor Dookie, largely due to its slightly darker lyrical tone and its heavier and more abrasive sound. Insomniac has sold over 2,100,000 copies in the United States and over 10,000,000 copies worldwide as of 2022. The album was reissued on vinyl on May 12, 2009. In 2021, a deluxe version of the album was released for its 25th anniversary, including previously unreleased live tracks.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/insomniac-25th-anniversary-deluxe-edition/1557550800" >}}
+{{< applemusic url="https://music.apple.com/gb/album/insomniac-25th-anniversary-deluxe-edition/1557550800" >}}<br>
+
+
 ## Videos
 ### Green Day – Brain Stew
 {{< youtube id="sYGUcshuQdA" title="Green Day – Brain Stew" >}}<br>
@@ -86,8 +91,6 @@ Insomniac is the fourth studio album by American rock band Green Day, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Insomniac_(Green_Day_album) |
-| Wikipedia Summary | Insomniac is the fourth studio album by American rock band Green Day, released on October 10, 1995, by Reprise Records. It was recorded at Hyde Street in San Francisco, and the band prioritized high-energy takes during the recording sessions. Released as the follow-up to the band's multi-platinum breakthrough Dookie, Insomniac featured a heavier, hardcore punk sound, with bleaker lyrics than its predecessor. Lyrically, the album discusses themes such as alienation, anxiety, boredom, and drug use. Insomniac also served as a reaction to many early fans who had turned their backs on the band after it achieved mainstream success with Dookie.The album received generally positive reviews from critics, who praised frontman Billie Joe Armstrong's songwriting and sarcastic sense of humor. Three songs were released as singles, "Geek Stink Breath", "Stuck with Me", and "Brain Stew / Jaded". Though it peaked at number 2 on the Billboard 200 chart and was certified 2× Platinum by the Recording Industry Association of America in 1996, Insomniac did not have the sales endurance of its predecessor Dookie, largely due to its slightly darker lyrical tone and its heavier and more abrasive sound. Insomniac has sold over 2,100,000 copies in the United States and over 10,000,000 copies worldwide as of 2022. The album was reissued on vinyl on May 12, 2009. In 2021, a deluxe version of the album was released for its 25th anniversary, including previously unreleased live tracks. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (Made in Czech version), Vinyl LP Single Sided Etched, All Media Deluxe Edition Limited Edition (25th Anniversary Edition) |
 | Label          | Reprise Records |
 | Catalog Number | 093624884576 |

@@ -36,9 +36,12 @@ styles: ["Reggae", "Punk", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/jah-wont-pay-the-bills-2016-edition/1443218407" >}}
+{{< applemusic url="https://music.apple.com/gb/album/jah-wont-pay-the-bills-2016-edition/1443218407" >}}<br>
+
+
 ## Videos
 ### Sublime - Jah Won't Pay The Bills (Record Store Day 2016)
 {{< youtube id="iO4ll__JMrQ" title="Sublime - Jah Won't Pay The Bills (Record Store Day 2016)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Reggae", "Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Record Store Day Limited Edition Reissue Stereo |
 | Label          | Skunk Records (2) |
 | Catalog Number | B0024479-01 |

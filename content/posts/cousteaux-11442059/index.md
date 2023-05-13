@@ -33,9 +33,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/waiting-for-cousteau/1027736044" >}}
+{{< applemusic url="https://music.apple.com/gb/album/waiting-for-cousteau/1027736044" >}}<br>
+
+
 ## Videos
 ### CousteauX - The Innermost Light
 {{< youtube id="G7MOMU0K5c4" title="CousteauX - The Innermost Light" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Silent X Records |
 | Catalog Number | SNTX002LP |

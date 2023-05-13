@@ -61,9 +61,12 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ghost-in-the-shell-koukaku-kidoutai-original-soundtrack/910532068" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ghost-in-the-shell-koukaku-kidoutai-original-soundtrack/910532068" >}}<br>
+
+
 ## Videos
 ### Ghost In The Shell (1995) OST
 {{< youtube id="ceBW3RbrL0E" title="Ghost In The Shell (1995) OST" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP, Vinyl 7" 45 RPM Single Sided, All Media Album Limited Edition Misprint Reissue Stereo |
 | Label          | We Release Whatever The Fuck We Want Records |
 | Catalog Number | WRWTFWW017LTD |

@@ -53,9 +53,14 @@ styles: ["Alternative Rock", "Ethereal"]
 <!-- section break -->
 
 Long before dreampop was a genre, Robin Guthrie and Simon Raymonde of the Grangeland, Scotland–based Cocteau Twins were pioneering the sound. These songs chronologically span the Twins' tenure on 4AD before they signed to Fontana/Capitol for 1993’s <i>Four Calendar Café</i>—the album where Fraser first sang in proper English. Before that, her vocal approach focused on creating abstract textures and sounds with her beautiful soprano. “Blind Dumb Deaf” from 1982’s <i>Garlands</i> opens with an immediately decipherable nod to Joy Division’s dark pulsing bass lines and early-'80s Cure. The following “Sugar Hiccup” from 1983’s <i>Head over Heels</i> finds Guthrie and Raymonde moving away from gothy post-punk trappings and exploring new six-string soundscapes, which would be further realized in the gauzy chimes of “Pearly-Dewdrops' Drops” and the seductive “Lorelei.” <i>Victorialand</i>'s opening track, “Lazy Calm,” solidified their sound, ushering in an Eno-like ambience under Fraser’s ethereal inflections. The standout songs “Carolyn’s Fingers” and “Heaven or Las Vegas” infused accessible pop melodies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stars-and-topsoil-a-collection-1982-1990/1025322826" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stars-and-topsoil-a-collection-1982-1990/1025322826" >}}<br>
+
+
 ## Videos
 ### Sugar Hiccup
 {{< youtube id="gbzCUmuI-Bg" title="Sugar Hiccup" >}}<br>
@@ -73,8 +78,6 @@ Long before dreampop was a genre, Robin Guthrie and Simon Raymonde of the Grange
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Long before dreampop was a genre, Robin Guthrie and Simon Raymonde of the Grangeland, Scotland–based Cocteau Twins were pioneering the sound. These songs chronologically span the Twins' tenure on 4AD before they signed to Fontana/Capitol for 1993’s <i>Four Calendar Café</i>—the album where Fraser first sang in proper English. Before that, her vocal approach focused on creating abstract textures and sounds with her beautiful soprano. “Blind Dumb Deaf” from 1982’s <i>Garlands</i> opens with an immediately decipherable nod to Joy Division’s dark pulsing bass lines and early-'80s Cure. The following “Sugar Hiccup” from 1983’s <i>Head over Heels</i> finds Guthrie and Raymonde moving away from gothy post-punk trappings and exploring new six-string soundscapes, which would be further realized in the gauzy chimes of “Pearly-Dewdrops' Drops” and the seductive “Lorelei.” <i>Victorialand</i>'s opening track, “Lazy Calm,” solidified their sound, ushering in an Eno-like ambience under Fraser’s ethereal inflections. The standout songs “Carolyn’s Fingers” and “Heaven or Las Vegas” infused accessible pop melodies. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (White) |
 | Label          | 4AD |
 | Catalog Number | CAD 2K19 |

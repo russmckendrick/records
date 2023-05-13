@@ -31,9 +31,14 @@ styles: ["Post-Punk"]
 
 "Ceremony" is a song written by Joy Division, and first released as New Order's debut single in 1981. The song and its B-side, "In a Lonely Place", were written and recorded as Joy Division prior to the death of Ian Curtis. Both were re-recorded and carried over to Joy Division's re-formation under the name New Order.
 New Order released the song as a single twice, firstly in January 1981 and secondly in September 1981 featuring new member Gillian Gilbert, with the latter recording later appearing on the album Substance.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ceremony-version-2-2019-remaster-single/1457720890" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ceremony-version-2-2019-remaster-single/1457720890" >}}<br>
+
+
 ## Videos
 ### New Order (Substance; 1987) - Ceremony
 {{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}<br>
@@ -48,8 +53,6 @@ New Order released the song as a single twice, firstly in January 1981 and secon
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ceremony_(New_Order_song) |
-| Wikipedia Summary | "Ceremony" is a song written by Joy Division, and first released as New Order's debut single in 1981. The song and its B-side, "In a Lonely Place", were written and recorded as Joy Division prior to the death of Ian Curtis. Both were re-recorded and carried over to Joy Division's re-formation under the name New Order.<br>New Order released the song as a single twice, firstly in January 1981 and secondly in September 1981 featuring new member Gillian Gilbert, with the latter recording later appearing on the album Substance. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered (180g) |
 | Label          | Factory |
 | Catalog Number | FAC. 33 |

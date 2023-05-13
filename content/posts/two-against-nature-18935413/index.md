@@ -42,9 +42,14 @@ styles: ["Pop Rock", "Fusion"]
 <!-- section break -->
 
 Two Against Nature is the eighth studio album by American rock band Steely Dan. Their first studio album in 20 years, it was recorded from 1997 to 1999 and released on February 29, 2000, by Giant Records.A critical success, Two Against Nature won the group four Grammy Awards: Album of the Year, Best Pop Vocal Album, Best Engineered Album – Non-Classical, and Best Pop Performance by a Duo or Group with Vocals (for the single "Cousin Dupree"). Commercially, it peaked at number six on the U.S. Billboard 200 chart and sold more than one million copies, earning a Platinum certification from the Recording Industry Association of America.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/two-against-nature/297597608" >}}
+{{< applemusic url="https://music.apple.com/gb/album/two-against-nature/297597608" >}}<br>
+
+
 ## Videos
 ### Gaslighting Abbie
 {{< youtube id="tZemaEpPJ80" title="Gaslighting Abbie" >}}<br>
@@ -66,8 +71,6 @@ Two Against Nature is the eighth studio album by American rock band Steely Dan. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Two_Against_Nature |
-| Wikipedia Summary | Two Against Nature is the eighth studio album by American rock band Steely Dan. Their first studio album in 20 years, it was recorded from 1997 to 1999 and released on February 29, 2000, by Giant Records.A critical success, Two Against Nature won the group four Grammy Awards: Album of the Year, Best Pop Vocal Album, Best Engineered Album – Non-Classical, and Best Pop Performance by a Duo or Group with Vocals (for the single "Cousin Dupree"). Commercially, it peaked at number six on the U.S. Billboard 200 chart and sold more than one million copies, earning a Platinum certification from the Recording Industry Association of America. |
-| Release Year   | 2021                                   |
 | Format         | All Media Album Record Store Day Limited Edition Reissue Stereo (180 Gram), Vinyl LP, Vinyl LP Single Sided Etched |
 | Label          | Giant Records |
 | Catalog Number | R1 24719 |

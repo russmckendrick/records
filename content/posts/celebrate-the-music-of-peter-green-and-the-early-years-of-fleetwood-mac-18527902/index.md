@@ -66,9 +66,13 @@ styles: ["Classic Rock", "Blues Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="0my24L5pit3nfpj6ccdlZA" width="100%" height="500" >}}
+{{< spotify type="album" id="0my24L5pit3nfpj6ccdlZA" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more
 {{< youtube id="clf-JWLd8_Y" title="Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more" >}}<br>
@@ -80,7 +84,6 @@ styles: ["Classic Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 4× LP Album |
 | Label          | BMG |
 | Catalog Number | BMGCAT454QLP |

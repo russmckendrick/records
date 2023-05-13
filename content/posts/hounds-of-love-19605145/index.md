@@ -52,9 +52,14 @@ styles: ["Art Rock", "Pop Rock"]
 
 Hounds of Love is the fifth studio album by English musician Kate Bush, released on 16 September 1985 by EMI Records. It was a commercial success and marked a return to the public eye for Bush after the relatively low sales of her previous album, 1982's The Dreaming. The album's lead single, "Running Up That Hill (A Deal with God)", became one of Bush's biggest hits, reaching number 3 in the UK upon release and later giving Bush her second number 1 UK single in June 2022. The album's first side produced three further singles, "Cloudbusting", "Hounds of Love", and "The Big Sky". The second side, subtitled The Ninth Wave, forms a conceptual suite about a woman drifting alone in the sea at night.
 Hounds of Love received critical acclaim both on its release and in retrospective reviews. It is considered by many fans and music critics to be Bush's best album, and has been regularly voted one of the greatest albums of all time. It was Bush's second album to top the UK Albums Chart and in the US, it reached the top 40 on the Billboard 200. It is her best-selling studio album, having been certified double platinum for 600,000 sales in the UK, and by 1998 it had sold 1.1 million copies worldwide. The album was nominated at the 1986 Brit Awards for Best British Album, at which Bush was also nominated for Best British Female and Best British Single for "Running Up That Hill". In 2022, the album re-entered various charts, including reaching number one on the Billboard Top Alternative Albums, due to the appearance of "Running Up That Hill" in the Netflix series Stranger Things.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hounds-of-love-2018-remaster/1675560565" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hounds-of-love-2018-remaster/1675560565" >}}<br>
+
+
 ## Videos
 ### Kate Bush - Hounds of Love - Official Music Video
 {{< youtube id="VerK4zwMRQw" title="Kate Bush - Hounds of Love - Official Music Video" >}}<br>
@@ -71,8 +76,6 @@ Hounds of Love received critical acclaim both on its release and in retrospectiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hounds_of_Love |
-| Wikipedia Summary | Hounds of Love is the fifth studio album by English musician Kate Bush, released on 16 September 1985 by EMI Records. It was a commercial success and marked a return to the public eye for Bush after the relatively low sales of her previous album, 1982's The Dreaming. The album's lead single, "Running Up That Hill (A Deal with God)", became one of Bush's biggest hits, reaching number 3 in the UK upon release and later giving Bush her second number 1 UK single in June 2022. The album's first side produced three further singles, "Cloudbusting", "Hounds of Love", and "The Big Sky". The second side, subtitled The Ninth Wave, forms a conceptual suite about a woman drifting alone in the sea at night.<br>Hounds of Love received critical acclaim both on its release and in retrospective reviews. It is considered by many fans and music critics to be Bush's best album, and has been regularly voted one of the greatest albums of all time. It was Bush's second album to top the UK Albums Chart and in the US, it reached the top 40 on the Billboard 200. It is her best-selling studio album, having been certified double platinum for 600,000 sales in the UK, and by 1998 it had sold 1.1 million copies worldwide. The album was nominated at the 1986 Brit Awards for Best British Album, at which Bush was also nominated for Best British Female and Best British Single for "Running Up That Hill". In 2022, the album re-entered various charts, including reaching number one on the Billboard Top Alternative Albums, due to the appearance of "Running Up That Hill" in the Netflix series Stranger Things. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Coloured) |
 | Label          | Fish People |
 | Catalog Number | 0190296729041 |

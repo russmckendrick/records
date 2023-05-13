@@ -44,9 +44,12 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-partys-over/697202581" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-partys-over/697202581" >}}<br>
+
+
 ## Videos
 ### Talk Talk - Today (Official Video)
 {{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Repress (White, 40th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 0190296419638 |

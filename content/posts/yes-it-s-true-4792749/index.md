@@ -34,9 +34,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/yes-its-true/1595585729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/yes-its-true/1595585729" >}}<br>
+
+
 ## Videos
 ### The Polyphonic Spree : You Don't Know Me (OFFICIAL)
 {{< youtube id="hGiEL_BGToo" title="The Polyphonic Spree : You Don't Know Me (OFFICIAL)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP (Pastel Green) |
 | Label          | Good Records |
 | Catalog Number | GRR 27 |

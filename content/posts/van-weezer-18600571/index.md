@@ -46,9 +46,15 @@ styles: ["Alternative Rock"]
 
 In early 2020, Weezer were forced to put the release of the guitar-driven <i>Van Weezer</i> on hold when the stadium tour Hella Mega, on which they would share the bill with Green Day and Fall Out Boy, was postponed due to the COVID-19 pandemic. The veteran pop-rockers turned inward and decided to release <i>OK Human</i> instead—an unplugged orchestral album centred around themes of isolation and feeling alienated that felt more appropriate during lockdown. With the possibility of live shows ever-so-slightly looming on the horizon, they crank the Marshall stack back up and serve fun, gnarly riffs on their second album of 2021. Inspired by their shared love of hard rock and heavy metal bands of the ’70s and ’80s—after all, the album’s title is an obvious nod to Van Halen—the band’s 15th LP offers a nostalgic whiff of guitar histrionics (“Beginning of the End”), stomp-clap anthems à la “Beverly Hills” with more punch (“All the Good Ones”) and palm-muted power chords (“1 More Hit”).<br />
 Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler—recalling the catchy immediacy of the Green Album, even if, sonically, it’s the equivalent of wearing spandex and lace rather than baggy khakis. But as it is with every Weezer album, they also embrace their pop side regardless of whatever gimmick they pursue. There are sparkling odes to the underdog (“Hero”), anecdotes about overcoming stage fright (“Beginning of the End”) and adolescent memories about raging to Aerosmith (“I Need Some of That”), each guided by frontman Rivers Cuomo’s dewy-eyed ruminations and tightly crafted power-pop hooks. And for the long-time faithful, Cuomo even throws in some fan service with “Sheila Can Do It”—converting an old demo he wrote in the mid-’90s into a revved-up rocker with bubblegum New Wave flourishes.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/van-weezer/1479227321" >}}
+{{< applemusic url="https://music.apple.com/gb/album/van-weezer/1479227321" >}}<br>
+
+
 ## Videos
 ### Weezer - Hero (Official Video)
 {{< youtube id="BdJS11C8LA0" title="Weezer - Hero (Official Video)" >}}<br>
@@ -64,8 +70,6 @@ Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Van_Weezer |
-| Wikipedia Summary | Van Weezer is the fifteenth studio album by American rock band Weezer, released on May 7, 2021, by Crush Music and Atlantic Records. Featuring a classic rock and hard rock inspired sound, the album was announced in September 2019 with an original release date of May 2020, coinciding with announcement of the band's participation in the Hella Mega Tour alongside Green Day and Fall Out Boy. However, due to the COVID-19 pandemic, the tour was delayed indefinitely and Van Weezer's release was delayed until May 2021, almost four months after the release of the band's previous album OK Human.<br>Four singles were released ahead of the album's release; "The End of the Game", "Hero", "Beginning of the End" and "I Need Some of That". A fifth single, "All The Good Ones," was released on the same day as the album. The album received generally positive reviews from critics. It debuted and peaked at number 11 on the US Billboard 200 chart. |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink [Neon]) |
 | Label          | Crush Music (2) |
 | Catalog Number | 075678650925 |

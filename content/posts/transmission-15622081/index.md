@@ -32,9 +32,14 @@ styles: ["New Wave", "Post-Punk"]
 <!-- section break -->
 
 "Transmission" is a song by English post-punk band Joy Division. Originally recorded in 1978 for the band's aborted self-titled album, it was later re-recorded the following year at a faster tempo and released by record label Factory as the band's debut single.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/transmission-2020-digital-remaster-single/1511732470" >}}
+{{< applemusic url="https://music.apple.com/gb/album/transmission-2020-digital-remaster-single/1511732470" >}}<br>
+
+
 ## Videos
 ### JOY DIVISION - Transmission (Factory / 1979) FULL 7
 {{< youtube id="HfIT468m8Nk" title="JOY DIVISION - Transmission (Factory / 1979) FULL 7" >}}<br>
@@ -47,8 +52,6 @@ styles: ["New Wave", "Post-Punk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Transmission_(song) |
-| Wikipedia Summary | "Transmission" is a song by English post-punk band Joy Division. Originally recorded in 1978 for the band's aborted self-titled album, it was later re-recorded the following year at a faster tempo and released by record label Factory as the band's debut single. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
 | Label          | Factory |
 | Catalog Number | FAC13.12 |

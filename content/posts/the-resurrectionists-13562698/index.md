@@ -40,9 +40,12 @@ styles: ["Post Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-resurrectionists-remastered/1458796610" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-resurrectionists-remastered/1458796610" >}}<br>
+
+
 ## Videos
 ### 200 Tons of Bad Luck (Remastered)
 {{< youtube id="rwPIbMiYUMQ" title="200 Tons of Bad Luck (Remastered)" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE916 |

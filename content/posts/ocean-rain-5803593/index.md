@@ -32,9 +32,12 @@ styles: ["New Wave", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ocean-rain-expanded-version/184690028" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ocean-rain-expanded-version/184690028" >}}<br>
+
+
 ## Videos
 ### Silver
 {{< youtube id="sQ_QRK_iWrk" title="Silver" >}}<br>
@@ -56,7 +59,6 @@ styles: ["New Wave", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Korova |
 | Catalog Number | VIN180LP075 |

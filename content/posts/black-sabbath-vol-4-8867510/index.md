@@ -41,9 +41,12 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vol-4-2009-remastered-version/1193828030" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vol-4-2009-remastered-version/1193828030" >}}<br>
+
+
 ## Videos
 ### Wheels of Confusion / The Straightener (2021 - Remaster)
 {{< youtube id="DhCZ5yC9uLE" title="Wheels of Confusion / The Straightener (2021 - Remaster)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Orange, Gatefold, 180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2602 |

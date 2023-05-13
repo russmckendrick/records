@@ -38,9 +38,12 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}
+{{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}<br>
+
+
 ## Videos
 ### Weezer - Africa (starring Weird Al Yankovic)
 {{< youtube id="mk5Dwg5zm2U" title="Weezer - Africa (starring Weird Al Yankovic)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Teal) |
 | Label          | Crush Music (2) |
 | Catalog Number | 7567-86533-1 |

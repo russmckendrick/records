@@ -56,9 +56,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/please-come-home/1049160955" >}}
+{{< applemusic url="https://music.apple.com/gb/album/please-come-home/1049160955" >}}<br>
+
+
 ## Videos
 ### Why Do We Stay - Lonely Robot
 {{< youtube id="WnXbsTZQX3g" title="Why Do We Stay - Lonely Robot" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 415 |

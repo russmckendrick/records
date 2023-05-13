@@ -38,9 +38,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/were-not-done-end-title-from-the-kin-original-motion/1392201092" >}}
+{{< applemusic url="https://music.apple.com/gb/album/were-not-done-end-title-from-the-kin-original-motion/1392201092" >}}<br>
+
+
 ## Videos
 ### Mogwai // Donuts (Official Audio)
 {{< youtube id="_5CHTscFyFo" title="Mogwai // Donuts (Official Audio)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT 115LPX |

@@ -44,9 +44,14 @@ styles: ["Art Rock", "Pop Rock"]
 <!-- section break -->
 
 The Kick Inside is the debut studio album by English art rock singer Kate Bush. Released on 17 February 1978 by EMI Records, it includes her UK No. 1 hit, "Wuthering Heights". The album peaked at No. 3 on the UK Albums Chart and has been certified Platinum by the British Phonographic Industry (BPI). The production included efforts by several progressive rock veterans, including Duncan Mackay, Ian Bairnson, David Paton, Andrew Powell, and Stuart Elliott of the Alan Parsons Project, and David Gilmour of Pink Floyd.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-kick-inside-remastered/1441813799" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-kick-inside-remastered/1441813799" >}}<br>
+
+
 ## Videos
 ### Kate Bush - Wuthering Heights - Official Music Video - Version 1
 {{< youtube id="-1pMMIe4hb4" title="Kate Bush - Wuthering Heights - Official Music Video - Version 1" >}}<br>
@@ -74,8 +79,6 @@ The Kick Inside is the debut studio album by English art rock singer Kate Bush. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Kick_Inside |
-| Wikipedia Summary | The Kick Inside is the debut studio album by English art rock singer Kate Bush. Released on 17 February 1978 by EMI Records, it includes her UK No. 1 hit, "Wuthering Heights". The album peaked at No. 3 on the UK Albums Chart and has been certified Platinum by the British Phonographic Industry (BPI). The production included efforts by several progressive rock veterans, including Duncan Mackay, Ian Bairnson, David Paton, Andrew Powell, and Stuart Elliott of the Alan Parsons Project, and David Gilmour of Pink Floyd. |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3223 |

@@ -42,9 +42,12 @@ styles: ["Country Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/candy-man-blues/1109245334" >}}
+{{< applemusic url="https://music.apple.com/gb/album/candy-man-blues/1109245334" >}}<br>
+
+
 ## Videos
 ### Avalon blues - The complete 1928 okeh recordings (full album)
 {{< youtube id="u8EraarVcKI" title="Avalon blues - The complete 1928 okeh recordings (full album)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Country Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Compilation (Blue) |
 | Label          | Complete Blues |
 | Catalog Number | SBLUELP010 |

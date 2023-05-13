@@ -35,9 +35,12 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/curva-cereza-single/1514226691" >}}
+{{< applemusic url="https://music.apple.com/gb/album/curva-cereza-single/1514226691" >}}<br>
+
+
 ## Videos
 ### Curve - I speak your every word
 {{< youtube id="OTUS6N9OWYY" title="Curve - I speak your every word" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Pink & Purple Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12032 |

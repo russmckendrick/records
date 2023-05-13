@@ -48,9 +48,15 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 30th Anniversary Remaster released 2002.  Added tracks 8 & 9 to original release, credited track 1.
 2005 mix of original multi-track tapes by Ronan Chris Murphy at DGM.  Released as download from dgmlive.com in 2005 and on CD as disc two of The Collectable King Crimson Vol. 1 in 2006.  This edition is now the full Asbury Park concert, without overdubs, and in the proper running order.  Includes all tracks, with the uncut versions of "Asbury Park" and "Easy Money"; "21st Century Schizoid Man" is moved to be the last track and is now the version from Asbury Park rather than Providence, Rhode Island. Does not include Eddie Jobson's overdubs.
 2013 mix by original multi-track tapes by Robert Fripp, Tony Arnold and David Singleton at the Courthouse, Cranborne, Dorset.  Same track order and versions as release #3.  Splits improv at end of track 6 into its own track.  This mix is available on The Road to Red and the 40th Anniversary edition of USA.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>
+
+
 ## Videos
 ### King Crimson - Larks Tongues In Aspic Part II (USA album)
 {{< youtube id="HYF3KU-UALg" title="King Crimson - Larks Tongues In Aspic Part II (USA album)" >}}<br>
@@ -63,8 +69,6 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/USA_(King_Crimson_album) |
-| Apple Music Summary | King Crimson’s 1969 debut album is often considered the group’s best. It is <i>the</i> album that transformed psychedelia into progressive rock influenced by jazz and classical music. Prior adventurers such as The Moody Blues sound tame in comparison to the wild-eyed ambitions of “21st Century Schizoid Man.” The members all dominate their instruments, with Ian McDonald bringing the Mellotron to center stage along with his expansive saxophone work, while Robert Fripp takes the guitar beyond the blues and singer Greg Lake commands the mic.  |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP12 |

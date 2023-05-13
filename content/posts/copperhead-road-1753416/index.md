@@ -42,9 +42,15 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 A maverick to his Virginia-born bones, Earle took a long stride toward freedom on 1988's <i>Copperhead Road</i>. The guitars snarl and the drums slam fiercely on this fiery, take-no-prisoners song collection. The title track (a FM rock favorite) and "The Devil's Right Hand" roar with the defiance of a Confederate guerilla force, with Earle's vocals ringing with feverish desperation. Softer tunes like "Nothing but a Child" (a tender nativity song) take the edge off the anger. Another highpoint, "Johnny Come Lately," matches him with the Pogues for a galloping Irish-Appalachian romp. At this point in his career, Earle was veering away from Nashville's restrictions and reveling in his own potent country/rock/folk blend fearlessly. He's gone on to release other outstanding albums, but <i>Copperhead Road</i> is unmatched for its musical ferocity and fine-etched lyrical insights. There's venom and honey alike to be savored here.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/copperhead-road/1440832255" >}}
+{{< applemusic url="https://music.apple.com/gb/album/copperhead-road/1440832255" >}}<br>
+
+
 ## Videos
 ### Steve Earle - Back To The Wall
 {{< youtube id="bbEIS1q6GZ0" title="Steve Earle - Back To The Wall" >}}<br>
@@ -59,8 +65,6 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Copperhead_Road_(song) |
-| Wikipedia Summary | "Copperhead Road" is a song written and recorded by American singer-songwriter Steve Earle. It was released in 1988 as the first single and title track from his third studio album of the same name. The song reached number 10 on the U.S. Billboard Mainstream Rock Tracks chart, and was Earle's highest-peaking song to date on that chart in the United States. The song has sold 1.1 million digital copies in the United States as of September 2017. On April 20, 2023, the Tennessee General Assembly passed an act recognizing the song as the 11th official state song of the state of Tennessee. |
-    | Release Year   | 1988                                   |
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3426 |

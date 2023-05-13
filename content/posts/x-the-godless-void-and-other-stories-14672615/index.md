@@ -56,9 +56,14 @@ styles: ["Alternative Rock"]
 
 Before the writing and recording of their tenth album, …And You Will Know Us By the Trail of Dead co-founder/multi-instrumentalist Conrad Keely experienced some life changes. After a five-year stay in Cambodia, Keely moved back to Austin in 2018 and reconvened with co-founder Jason Reece—a decision that allowed both of them to rekindle their musical partnership and celebrate their enduring career (best demonstrated when they embarked on a 20th-anniversary tour in support of their breakthrough 1999 release <i>Madonna</i>).<br />
 Musically, Keely and his bandmates approach their return with a skilful balance of melody and raw urgency—and a witches’ brew of symphonic bombast. On the Pink Floyd-like “Who Haunts the Haunter”, Keely connects ideas of existentialism with references to ancient Greek mythology—always tackling such grand concepts in a whimsical and approachable manner. He writes about feeling displaced and breaking creative barriers on “All Who Wander” and “Something Like This”, adding sharp-edged riffs and layers of melodic picking over lavish piano strokes. “Children of the Sky” unburdens his sorrow with a cathartic release, conveying the hurt that comes from leaving someone or something meaningful over tumbling drums and an extended musical bridge.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/x-the-godless-void-and-other-stories/1485457072" >}}
+{{< applemusic url="https://music.apple.com/gb/album/x-the-godless-void-and-other-stories/1485457072" >}}<br>
+
+
 ## Videos
 ### ...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)
 {{< youtube id="bbXNaERHIfA" title="...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)" >}}<br>
@@ -77,8 +82,6 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Before the writing and recording of their tenth album, …And You Will Know Us By the Trail of Dead co-founder/multi-instrumentalist Conrad Keely experienced some life changes. After a five-year stay in Cambodia, Keely moved back to Austin in 2018 and reconvened with co-founder Jason Reece—a decision that allowed both of them to rekindle their musical partnership and celebrate their enduring career (best demonstrated when they embarked on a 20th-anniversary tour in support of their breakthrough 1999 release <i>Madonna</i>).<br /><br>Musically, Keely and his bandmates approach their return with a skilful balance of melody and raw urgency—and a witches’ brew of symphonic bombast. On the Pink Floyd-like “Who Haunts the Haunter”, Keely connects ideas of existentialism with references to ancient Greek mythology—always tackling such grand concepts in a whimsical and approachable manner. He writes about feeling displaced and breaking creative barriers on “All Who Wander” and “Something Like This”, adding sharp-edged riffs and layers of melodic picking over lavish piano strokes. “Children of the Sky” unburdens his sorrow with a cathartic release, conveying the hurt that comes from leaving someone or something meaningful over tumbling drums and an extended musical bridge. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album (Clear), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 533 |

@@ -39,9 +39,15 @@ styles: ["Classic Rock"]
 <!-- section break -->
 
 No one could've predicted this 2004 EP — a collection of the band's favorite tunes. The pure heavy metal thunder of Eddie Cochran's "Summertime Blues" is undeniable and quite a shocker coming from a band that always found ways to complicate its simplest impulses with elaborate concepts and deliberate, fussy intricacies. Here, guitarist Alex Lifeson turns the amp to ten, drummer Neil Peart kicks out the jams, slipping in just a few quick flourishes to keep things interesting, and singer Geddy Lee refrains from the high-end hysteria to deliver a full-throated attack. There's nearly an R&B menace to the folk-rock haunting the Yardbirds' "Heart Full of Soul," where gorgeous harmonies and Lifeson's thick fuzz-tone spring the song to life. They double-dip into the Yardbirds catalog with a sonically ambitious take on the psychedelic classic "Shapes of Things." The Buffalo Springfield's "For What It's Worth" never sounded more ominous and the band speeds up Love's "Seven and Seven Is" until it's nearly hardcore punk. This Canadian power trio has never been criticized for being too brief, but this collection could easily be expanded considering how much fun Rush is having.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/feedback-ep/642209709" >}}
+{{< applemusic url="https://music.apple.com/gb/album/feedback-ep/642209709" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +57,6 @@ No one could've predicted this 2004 EP — a collection of the band's favorite t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Feedback_(EP) |
-| Wikipedia Summary | Feedback is an EP by Canadian rock band Rush, released in 2004. The record features eight covers of songs that were influential for the band members during the 1960s. The outing marked the 30th anniversary of the release of Rush's debut album, which featured the original lineup of Geddy Lee, Alex Lifeson and John Rutsey. The tour in support of the Feedback album was called the R30: 30th Anniversary Tour. The record was remastered and reissued in 2013 as a part of the box set The Studio Albums 1989–2007. In 2016 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 12" EP Reissue Remastered (200 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 83728 |

@@ -45,9 +45,15 @@ Rio is the second studio album by the English new wave band Duran Duran, release
 A new wave album with musical elements such as dance and synth-pop, Rio is mostly composed of fast, upbeat numbers, with a couple slower synthesiser-based ballads. Lead vocalist Simon Le Bon's obtuse lyrics cover topics from chasing one's dreams to pursuing a love interest. Bassist John Taylor conceived the title, which the band felt represented the optimistic and exotic tone of the album. The cover artwork, painted by Patrick Nagel and designed by Malcolm Garrett to resemble 1950s cigar packaging, is considered one of the greatest of all time.
 Duran Duran shot music videos for many of the album's tracks, all of which helped spearhead the 1980s MTV revolution. Accompanied by three worldwide hit singles, Rio peaked at number two in the United Kingdom and remained in the chart for 110 weeks. Initially unsuccessful in the United States, the album was remixed by Capitol Records to better match American radio at the time; the remixed album spent 129 weeks on the Billboard chart, reaching number six. The band toured the US and Europe throughout the latter half of 1982.
 Rio initially received mixed-to-negative reviews from critics, who commended the melodies but disparaged the lyrics. Retrospective reviewers consider Rio the band's best work and praise its timelessness, instrumentation and band performances. With the album, Duran Duran were forerunners in the Second British Invasion of the 1980s, helping ensure the success of other English artists throughout the decade. It has since made appearances on best-of lists and has been reissued several times.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rio-collectors-edition/693610443" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rio-collectors-edition/693610443" >}}<br>
+
+
 ## Videos
 ### Duran Duran - Hungry like the Wolf (Official Music Video)
 {{< youtube id="oJL-lCzEXgI" title="Duran Duran - Hungry like the Wolf (Official Music Video)" >}}<br>
@@ -69,8 +75,6 @@ Rio initially received mixed-to-negative reviews from critics, who commended the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rio_(Duran_Duran_album) |
-| Apple Music Summary | Duran Duran’s second album elegantly and audaciously tests the boundaries of synth-pop, fleshing out New Wave guitars and disco grooves with shimmering keyboards and some of the '80s' catchiest hooks. "Rio" pits Simon Le Bon's suave voice against a sleek, driving pulse, while "The Chauffeur" sets him adrift among ethereal pads and pan pipes. John Taylor's muscular basslines propel "Last Chance on the Stairway" and "My Own Way"; "Hungry Like the Wolf" plays hard rock riffs off delectable vocal harmonies. The melancholy "Save a Prayer" sounds tailor-made for slow dances in the distant future. |
-    | Release Year   | 1982                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3411 |

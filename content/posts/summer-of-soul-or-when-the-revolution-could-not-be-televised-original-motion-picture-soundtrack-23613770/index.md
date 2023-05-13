@@ -55,9 +55,13 @@ styles: ["Soul", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="28BxxgJQdogo7eWYbwHH7w" width="100%" height="500" >}}
+{{< spotify type="album" id="28BxxgJQdogo7eWYbwHH7w" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Summer Of Soul -  Original Motion Picture Soundtrack
 {{< youtube id="Vv1mxxZzbOs" title="Summer Of Soul -  Original Motion Picture Soundtrack" >}}<br>
@@ -69,7 +73,6 @@ styles: ["Soul", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Legacy |
 | Catalog Number | 19439953321 |

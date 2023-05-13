@@ -40,9 +40,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-punishment-of-luxury/1235723435" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-punishment-of-luxury/1235723435" >}}<br>
+
+
 ## Videos
 ### Orchestral Manoeuvres in the Dark - The Punishment of Luxury
 {{< youtube id="2cU53wWb6UI" title="Orchestral Manoeuvres in the Dark - The Punishment of Luxury" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | 100% Records (2) |
 | Catalog Number | 100LP66 |

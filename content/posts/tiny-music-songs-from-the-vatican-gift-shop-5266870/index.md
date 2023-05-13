@@ -40,9 +40,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tiny-music-songs-from-the-vatican-gift-shop-super/1558522377" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tiny-music-songs-from-the-vatican-gift-shop-super/1558522377" >}}<br>
+
+
 ## Videos
 ### Stone Temple Pilots - Big Bang Baby (Official Music Video)
 {{< youtube id="G0gAxuvo5rc" title="Stone Temple Pilots - Big Bang Baby (Official Music Video)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP935 |

@@ -63,9 +63,15 @@ Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Hora
 “I think Terry had wanted to write about the condition that he has—and how he deals with it, or doesn't deal with it, or didn't deal with it—for quite some time. He was going, 'I want it to be in 5/4. I was sitting on the bus, humming it into my phone, and the woman in front of me turned round and glared at me.' So it sort of came out of the air. We went in and did it and [drummer] Kenrick [Rowe] just nailed it. It’s turned out beautifully.”<br />
 <b>“We Sell Hope”</b>
 “This is: ‘Actually, it’s not all miserable! We know you’ve had a really miserable half-hour listening to our record, but here’s some good stuff! We <i>are</i> positive about things.’ It’s nice and compact. It could have been seven minutes long, it could have ended up like [Pink Floyd's nine-part song series] ‘Shine On You Crazy Diamond’. But, no, let’s just make it a pop record.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/encore-deluxe-edition/1472250007" >}}
+{{< applemusic url="https://music.apple.com/gb/album/encore-deluxe-edition/1472250007" >}}<br>
+
+
 ## Videos
 ### Stereotype (Live At Le Bataclan)
 {{< youtube id="3y0-Z3w3xq0" title="Stereotype (Live At Le Bataclan)" >}}<br>
@@ -98,8 +104,6 @@ Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Hora
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Encore_(The_Specials_album) |
-| Wikipedia Summary | Encore is the eighth studio album by the English ska revival band The Specials. It is their first studio album of original songs since 1998's Guilty 'til Proved Innocent!, and their first new material with vocalist Terry Hall since 1981's "Ghost Town" single.<br>The album features three covers of older songs; "Black Skin Blue Eyed Boys" (originally by The Equals), "Blam Blam Fever" (originally by The Valentines) and "The Lunatics" (originally by Hall and Lynval Golding's group Fun Boy Three, released in 1981 as "The Lunatics (Have Taken Over the Asylum)"). The Specials, in a different incarnation, previously released a cover of "Blam Blam Fever" on 2000's studio album Skinhead Girl.<br>The track "10 Commandments" is a rebuttal to Prince Buster's "Ten Commandments", criticising the original's outdated representation of women. The track features a lead vocal from Saffiyah Khan, who came to prominence after being photographed challenging an English Defence League demonstration whilst wearing a Specials t-shirt.Encore entered at number 1 on the UK Albums Chart after its first week of release, falling to 5 the week after and spending 9 weeks on the charts.<br><br> |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 7721103 |

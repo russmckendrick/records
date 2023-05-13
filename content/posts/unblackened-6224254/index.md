@@ -57,9 +57,12 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/unblackened-live/1504797619" >}}
+{{< applemusic url="https://music.apple.com/gb/album/unblackened-live/1504797619" >}}<br>
+
+
 ## Videos
 ### Sold My Soul - Black Label Society (Unblackened)
 {{< youtube id="PH8An0MFF2A" title="Sold My Soul - Black Label Society (Unblackened)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 3× LP Album Limited Edition (Clear) |
 | Label          | Vinyl Vault |
 | Catalog Number | VV3LP011 |

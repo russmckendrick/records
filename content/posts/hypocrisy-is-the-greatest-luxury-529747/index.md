@@ -51,9 +51,14 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 
 Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew The Disposable Heroes of Hiphoprisy, released in 1992.  Hypocrisy Is the Greatest Luxury was met with critical acclaim.
 "Television, the Drug of the Nation" was released as a single. It was recorded previously by Michael Franti's first band, the Beatnigs.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hypocrisy-is-the-greatest-luxury/1442921405" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hypocrisy-is-the-greatest-luxury/1442921405" >}}<br>
+
+
 ## Videos
 ### THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)
 {{< youtube id="XgtIGQkZyrU" title="THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)" >}}<br>
@@ -93,8 +98,6 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hypocrisy_Is_the_Greatest_Luxury |
-| Wikipedia Summary | Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew The Disposable Heroes of Hiphoprisy, released in 1992.  Hypocrisy Is the Greatest Luxury was met with critical acclaim.<br>"Television, the Drug of the Nation" was released as a single. It was recorded previously by Michael Franti's first band, the Beatnigs. |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP Album, Vinyl 12" Single Sided, All Media Limited Edition |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLPX 584 |

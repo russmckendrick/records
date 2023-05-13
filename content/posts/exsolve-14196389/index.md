@@ -32,9 +32,12 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exsolve/1438778156" >}}
+{{< applemusic url="https://music.apple.com/gb/album/exsolve/1438778156" >}}<br>
+
+
 ## Videos
 ### Mandrel Cantus Excerpt
 {{< youtube id="9Pwhuk_tLdc" title="Mandrel Cantus Excerpt" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear With Black And Gold Splatter) |
 | Label          | Adderstone Records |
 | Catalog Number | ASR001 |

@@ -40,9 +40,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/flowers-of-evil/1526294296" >}}
+{{< applemusic url="https://music.apple.com/gb/album/flowers-of-evil/1526294296" >}}<br>
+
+
 ## Videos
 ### Ulver - Russian Doll
 {{< youtube id="3e_Zs79vq40" title="Ulver - Russian Doll" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear) |
 | Label          | House of Mythology |
 | Catalog Number | HOM023LPC |

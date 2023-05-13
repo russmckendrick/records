@@ -38,7 +38,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition (Blue) |
 | Label          | Transmission Recordings |
 | Catalog Number | Transmission 11.2 |

@@ -40,9 +40,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}
+{{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}<br>
+
+
 ## Videos
 ### Oceansize - Catalyst
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2003                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 235 |

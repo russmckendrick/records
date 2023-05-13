@@ -33,9 +33,12 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dixie-narco-ep/1568698448" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dixie-narco-ep/1568698448" >}}<br>
+
+
 
 
 ## Release Images
@@ -44,7 +47,6 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue |
 | Label          | Creation Records |
 | Catalog Number | 19439844431 |

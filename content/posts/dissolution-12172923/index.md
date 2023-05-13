@@ -38,9 +38,14 @@ styles: ["Prog Rock", "Art Rock"]
 Dissolution  (stylised as di§olution) is the twelfth studio album by British rock band The Pineapple Thief, released on 31 August 2018 through Kscope. It's the second album to include Gavin Harrison on drums, but this is Harrison's first album as an official member of the band.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dissolution/1394673558" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dissolution/1394673558" >}}<br>
+
+
 ## Videos
 ### The Pineapple Thief- Dissolution- Full Album
 {{< youtube id="J2G89BomTYk" title="The Pineapple Thief- Dissolution- Full Album" >}}<br>
@@ -53,8 +58,6 @@ Dissolution  (stylised as di§olution) is the twelfth studio album by British ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dissolution_(The_Pineapple_Thief_album) |
-| Wikipedia Summary | Dissolution  (stylised as di§olution) is the twelfth studio album by British rock band The Pineapple Thief, released on 31 August 2018 through Kscope. It's the second album to include Gavin Harrison on drums, but this is Harrison's first album as an official member of the band.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Crystal Clear Vinyl) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE997 |

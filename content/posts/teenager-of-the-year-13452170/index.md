@@ -56,9 +56,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/teenager-of-the-year/126286447" >}}
+{{< applemusic url="https://music.apple.com/gb/album/teenager-of-the-year/126286447" >}}<br>
+
+
 ## Videos
 ### Frank Black - Headache
 {{< youtube id="ytQhL0-3FtM" title="Frank Black - Headache" >}}<br>
@@ -76,7 +79,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (White) |
 | Label          | 4AD |
 | Catalog Number | DAD 4009 LPE |

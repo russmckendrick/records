@@ -40,9 +40,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sentimental-fool/1651925180" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sentimental-fool/1651925180" >}}<br>
+
+
 ## Videos
 ### Lee Fields - Forever (Official Audio)
 {{< youtube id="BRXpKc873PQ" title="Lee Fields - Forever (Official Audio)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Mono (Orange [Sentimental Orange], Indie Exclusive) |
 | Label          | Daptone Recording Co. |
 | Catalog Number | DAP-075 |

@@ -63,9 +63,15 @@ The series was created by Jonathan Prince and developed by Josh Goldstein and Pr
 The theme song "Generation" was written and performed by Emerson Hart, lead singer of the band Tonic. The song earned Hart an ASCAP award for Best Theme Song of Television in 2003. The show was the 2003 TV Land Awards "Future Classic" winner.
 
 
-<br>
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="1WqrASGjFxsN4g7lttZ7T1" width="100%" height="500" >}}
+{{< spotify type="album" id="1WqrASGjFxsN4g7lttZ7T1" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Lindsey Buckingham - Trouble (1981) (Music Video) 720p
 {{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble (1981) (Music Video) 720p" >}}<br>
@@ -80,8 +86,6 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Dreams |
-| Wikipedia Summary | American Dreams is an American drama television series that ran on NBC for three seasons and 61 episodes, from September 29, 2002, to March 30, 2005. The show tells the story of the Pryor family of Philadelphia during the mid-1960s, with many plotlines around teenager Meg Pryor (Brittany Snow), who dances on Dick Clark's American Bandstand. The show often featured contemporary musicians performing as popular musicians of the 1960s. Season one takes place in 1963–64, season two in 1964–65 and season three in 1965–66.<br>The series was created by Jonathan Prince and developed by Josh Goldstein and Prince; the latter was also one of the executive producers with Dick Clark. It debuted on September 29, 2002, and initially aired on Sundays at 8:00 pm Eastern Time but moved to the same time on Wednesdays from March 9, 2005, to the third-season finale (March 30, 2005). The show was known as Our Generation when it debuted in Australia but was changed back to American Dreams when it returned for the second season.<br>The theme song "Generation" was written and performed by Emerson Hart, lead singer of the band Tonic. The song earned Hart an ASCAP award for Best Theme Song of Television in 2003. The show was the 2003 TV Land Awards "Future Classic" winner.<br><br> |
-| Release Year   | 1985                                   |
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Starblend Records Ltd. |
 | Catalog Number | SLTD 12 |

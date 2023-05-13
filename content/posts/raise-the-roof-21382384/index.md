@@ -46,9 +46,15 @@ styles: ["Blues Rock", "Folk Rock"]
 
 Robert Plant and Alison Krauss’ 2007 collaborative album <i>Raising Sand</i> remains, nearly a decade and a half after its release, a landmark record in roots music. The LP earned Plant, of Led Zeppelin fame, and reigning bluegrass queen Krauss five Grammys at the 2009 ceremony, including the coveted Album of the Year trophy, among many other accolades. The album also offered a new vision for how artists could work within an already nebulous genre, with the two recording favourite songs new and old for a collection that still sounds timeless.<br />
 Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick right back up where they left off. Still present are the pair’s intimacy, their contrasting but complementary vocal styles and, notably, the gentle hand of producer T Bone Burnett, who also helmed <i>Raising Sand</i>. While much remains the same, <i>Raise the Roof</i> is a decidedly larger affair than its predecessor, even in its quieter moments, thanks likely to each artist’s growth via work with other projects (Band of Joy and Sensational Space Shifters for Plant; long-time band Union Station for Krauss) in the intervening decade-plus. Covered artists include Calexico (“Quattro [World Drifts In]”), Allen Toussaint (“Trouble With My Lover”) and Merle Haggard (“Going Where the Lonely Go”), with the album’s tracklist revealing a catholic breadth of influences. The duo are backed by some of Nashville’s finest players, including guitarists Buddy Miller and Bill Frisell.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/raise-the-roof-deluxe-edition/1580054664" >}}
+{{< applemusic url="https://music.apple.com/gb/album/raise-the-roof-deluxe-edition/1580054664" >}}<br>
+
+
 ## Videos
 ### Robert Plant & Alison Krauss - Quattro (World Drifts In) (Official Audio)
 {{< youtube id="z2B9H2M4Cb0" title="Robert Plant & Alison Krauss - Quattro (World Drifts In) (Official Audio)" >}}<br>
@@ -75,8 +81,6 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Raise_the_Roof_(album) |
-| Wikipedia Summary | Raise the Roof is the second collaborative studio album by British singer-songwriter Robert Plant and American bluegrass-country singer and violinist Alison Krauss. The album was released on November 19, 2021, by Rounder Records and Concord Records in the United States and Warner Music for the rest of the world. The album was nominated for three Grammy Awards at the 65th Annual Grammy Awards, including Best Americana Album, Best American Roots Song for "High and Lonesome," and Best Country Duo/Group Performance for "Going Where the Lonely Go". |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Red Translucent) |
 | Label          | Warner Music |
 | Catalog Number | 0190296548857 |

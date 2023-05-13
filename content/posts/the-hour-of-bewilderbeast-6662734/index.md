@@ -48,9 +48,14 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 <!-- section break -->
 
 A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-hour-of-bewilderbeast/1540689690" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-hour-of-bewilderbeast/1540689690" >}}<br>
+
+
 ## Videos
 ### Badly Drawn Boy - The Shining
 {{< youtube id="KNY-Pl1_ji0" title="Badly Drawn Boy - The Shining" >}}<br>
@@ -70,8 +75,6 @@ A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut fro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Reissue |
 | Label          | Twisted Nerve |
 | Catalog Number | TNXLLP133 |

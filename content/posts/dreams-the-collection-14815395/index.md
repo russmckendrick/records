@@ -38,9 +38,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dreams-the-collection/1440649801" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dreams-the-collection/1440649801" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | UMC |
 | Catalog Number | 5389805 |

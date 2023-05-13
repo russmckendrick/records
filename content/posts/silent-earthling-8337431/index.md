@@ -41,9 +41,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/silent-earthling/1078005851" >}}
+{{< applemusic url="https://music.apple.com/gb/album/silent-earthling/1078005851" >}}<br>
+
+
 ## Videos
 ### Three Trapped Tigers - Silent Earthling (Full Album)
 {{< youtube id="8QlQw4QU_0E" title="Three Trapped Tigers - Silent Earthling (Full Album)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SMBLP 039 |

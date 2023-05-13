@@ -36,9 +36,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kveikur/1447442983" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kveikur/1447442983" >}}<br>
+
+
 ## Videos
 ### Sigur Rós - Ísjaki (Official Lyric Video)
 {{< youtube id="dF6E47Pn6mY" title="Sigur Rós - Ísjaki (Official Lyric Video)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Yellow [Sulphuric Yellow], 10th Anniversary Edition) |
 | Label          | Krúnk |
 | Catalog Number | KRUNK77CLPY |

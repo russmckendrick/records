@@ -36,9 +36,12 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/do-you-trust-your-friends/1443067827" >}}
+{{< applemusic url="https://music.apple.com/gb/album/do-you-trust-your-friends/1443067827" >}}<br>
+
+
 ## Videos
 ### Jason Collett - Reunion (Stars Cover)
 {{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion (Stars Cover)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2007                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Arts & Crafts International |
 | Catalog Number | ACS-024 |

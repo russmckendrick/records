@@ -59,9 +59,14 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 <!-- section break -->
 
 Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album by English-French rock band Stereolab. It was released on 21 September 1999 and was issued by Duophonic Records and Elektra Records. The album was largely co-produced by Stereolab, John McEntire, and Jim O'Rourke.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cobra-and-phases-group-play-voltage-in-the-milky-night/1230503490" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cobra-and-phases-group-play-voltage-in-the-milky-night/1230503490" >}}<br>
+
+
 ## Videos
 ### Stereolab - The Free Design (Official Video)
 {{< youtube id="FBR6bFZbh6A" title="Stereolab - The Free Design (Official Video)" >}}<br>
@@ -83,8 +88,6 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cobra_and_Phases_Group_Play_Voltage_in_the_Milky_Night |
-| Wikipedia Summary | Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album by English-French rock band Stereolab. It was released on 21 September 1999 and was issued by Duophonic Records and Elektra Records. The album was largely co-produced by Stereolab, John McEntire, and Jim O'Rourke. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D23RC |

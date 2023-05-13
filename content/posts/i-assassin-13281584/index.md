@@ -38,9 +38,14 @@ styles: ["Electro", "Synth-pop"]
 <!-- section break -->
 
 I, Assassin is the fourth solo studio album by English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: "Music for Chameleons", "We Take Mystery (To Bed)" and "White Boys and Heroes", all of which reached the UK Top 20 ("We Take Mystery" peaked at No. 9, and is Numan's last Top 10 single to date).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-assassin/251628587" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-assassin/251628587" >}}<br>
+
+
 ## Videos
 ### White Boys and Heroes
 {{< youtube id="_R-8V9Ody8s" title="White Boys and Heroes" >}}<br>
@@ -67,8 +72,6 @@ I, Assassin is the fourth solo studio album by English new wave musician Gary Nu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I,_Assassin |
-| Wikipedia Summary | I, Assassin is the fourth solo studio album by English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: "Music for Chameleons", "We Take Mystery (To Bed)" and "White Boys and Heroes", all of which reached the UK Top 20 ("We Take Mystery" peaked at No. 9, and is Numan's last Top 10 single to date). |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Green) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 40 |

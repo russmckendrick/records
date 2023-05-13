@@ -40,9 +40,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/give-it-back-rewired/1610584399" >}}
+{{< applemusic url="https://music.apple.com/gb/album/give-it-back-rewired/1610584399" >}}<br>
+
+
 ## Videos
 ### Wretched Soul (Rewired)
 {{< youtube id="tlceIFqEOIQ" title="Wretched Soul (Rewired)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1172 |

@@ -55,9 +55,12 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devolution-series-2-galactic-quarantine-live/1564004758" >}}
+{{< applemusic url="https://music.apple.com/gb/album/devolution-series-2-galactic-quarantine-live/1564004758" >}}<br>
+
+
 ## Videos
 ### DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)
 {{< youtube id="4rOhiHLPT9Q" title="DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album (180g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 588 |

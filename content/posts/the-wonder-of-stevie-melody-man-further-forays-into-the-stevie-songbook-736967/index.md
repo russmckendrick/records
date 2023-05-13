@@ -33,7 +33,10 @@ styles: ["Soul", "Funk", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007
 {{< youtube id="ZaMX0Cs5Bc4" title="Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Soul", "Funk", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2004                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Harmless |
 | Catalog Number | HURTLP055 |

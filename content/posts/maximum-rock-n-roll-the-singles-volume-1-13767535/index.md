@@ -43,7 +43,10 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -52,7 +55,6 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (Red ), Vinyl LP (White ), All Media Compilation Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 88985486441 |

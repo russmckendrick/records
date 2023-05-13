@@ -43,9 +43,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we-the/1440743107" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we-the/1440743107" >}}<br>
+
+
 ## Videos
 ### The Cranberries - Dreams
 {{< youtube id="Yam5uK6e-bQ" title="The Cranberries - Dreams" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (25th. Anniversary, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 6750577 |

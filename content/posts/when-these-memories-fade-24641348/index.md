@@ -56,7 +56,10 @@ styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Jellyfish - When These Memories Fade [7 Singles Box Set] - Trailer
 {{< youtube id="LWD6GQOTjPE" title="Jellyfish - When These Memories Fade [7 Singles Box Set] - Trailer" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Box Set Compilation Limited Edition Remastered Stereo, Vinyl 7" 45 RPM Single Reissue (Purple), Vinyl 7" 45 RPM Single Reissue (Cream), Vinyl 7" 33 ⅓ RPM EP Reissue (Cerise Pink), Vinyl 7" 45 RPM Single Reissue (Beige), Vinyl 7" 45 RPM Single Reissue (Blue), Vinyl 7" 45 RPM Single Reissue (Baby Pink), Vinyl 7" 45 RPM Single (Salmon Pink) |
 | Label          | New Land + |
 | Catalog Number | NEWLANDX001 |

@@ -58,9 +58,14 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 <!-- section break -->
 
 The Singles is a compilation album of singles and B-sides by the German experimental rock band Can, released in 2017.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cant-stop-the-feeling-original-song-from-dreamworks/1110121889" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cant-stop-the-feeling-original-song-from-dreamworks/1110121889" >}}<br>
+
+
 ## Videos
 ### Can - Soul Desert (Official Audio)
 {{< youtube id="TECyopdL4fI" title="Can - Soul Desert (Official Audio)" >}}<br>
@@ -96,8 +101,6 @@ The Singles is a compilation album of singles and B-sides by the German experime
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Singles_(Can_album) |
-| Wikipedia Summary | The Singles is a compilation album of singles and B-sides by the German experimental rock band Can, released in 2017. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Spoon Records |
 | Catalog Number | SPOON60 |

@@ -41,9 +41,14 @@ styles: ["New Wave", "Mod"]
 <!-- section break -->
 
 All Mod Cons is the third studio album by the British band the Jam, released in 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for "all modern conveniences" and is a pun on the band's association with the mod revival. The album reached No. 6 in the UK Albums Chart.The album was reissued in the United States in 1979, with the song "The Butterfly Collector" replacing "Billy Hunt".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-mod-cons-remastered/1440910355" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-mod-cons-remastered/1440910355" >}}<br>
+
+
 ## Videos
 ### Billy Hunt
 {{< youtube id="4A6GeBiHp1A" title="Billy Hunt" >}}<br>
@@ -68,8 +73,6 @@ All Mod Cons is the third studio album by the British band the Jam, released in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Mod_Cons |
-| Wikipedia Summary | All Mod Cons is the third studio album by the British band the Jam, released in 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for "all modern conveniences" and is a pun on the band's association with the mod revival. The album reached No. 6 in the UK Albums Chart.The album was reissued in the United States in 1979, with the song "The Butterfly Collector" replacing "Billy Hunt". |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album (Strawberry mastering) |
 | Label          | Polydor |
 | Catalog Number | POLD 5008 |

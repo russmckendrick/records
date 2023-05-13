@@ -46,9 +46,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Transience is a compilation album released in 2015 by British musician and record producer Steven Wilson. It compiles thirteen songs originally recorded between 2003 and 2015. The album was released as a CD and a limited-edition double LP.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/transience/1143182695" >}}
+{{< applemusic url="https://music.apple.com/gb/album/transience/1143182695" >}}<br>
+
+
 ## Videos
 ### Steven Wilson - Lazarus
 {{< youtube id="YMM2Iqvmu_4" title="Steven Wilson - Lazarus" >}}<br>
@@ -66,8 +71,6 @@ Transience is a compilation album released in 2015 by British musician and recor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Transience_(Steven_Wilson_album) |
-| Wikipedia Summary | Transience is a compilation album released in 2015 by British musician and record producer Steven Wilson. It compiles thirteen songs originally recorded between 2003 and 2015. The album was released as a CD and a limited-edition double LP. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP (180g), Vinyl LP Single Sided Etched (180g), All Media Compilation Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE904 |

@@ -39,9 +39,15 @@ The first Steel Pulse single for Island Records, "Ku Klux Klan" (a call for resi
 We learned a lot of discipline on that tour that rubbed off - rehearsal, execution on stage, how to tour, stability [...] that's when the doors really started to open for us. It has always been one of the most memorable moments of my career. To play as part of that package exposed Steel Pulse to audiences that literally were in awe of our message. Of course, being formally introduced through Bob Marley helped us tremendously. Playing for audiences, especially those in Paris who saw the force of Steel Pulse and the force of Bob Marley play on the same bill, enabled us to sell out shows every time since then.
 Steel Pulse headlined its own tour in 1978 and released two more singles from the album: "Prodigal Son" and "Prediction." Mykaell Riley left the band because of musical differences and went on to success with the Reggae Philharmonic Orchestra and as producer for a number of top artists and TV themes. His departure propelled Hinds into the spotlight and in an attempt to draw a stronger black audience, the group adopted the banner of the Rastafari movement. Appearances on television included mainstream shows like Top of the Pops and Rock Goes to College. At one of their 'Rock Against Racism' appearances, in Victoria Park, East London in April 1978, more than 80,000 people watched a concert that also included The Clash, Tom Robinson Band and X-Ray Spex.
 A live performance of the track "Macka Splaff" appeared on a 1978 Virgin Records compilation album called Live at the Electric Circus, alongside offerings by The Fall, Joy Division, Buzzcocks and John Cooper Clarke. Two of their tracks were also included in the film Reggae in Babylon that documented the reggae movement in the UK in 1978, alongside Aswad, Matumbi, Jimmy Lindsay and Alton Ellis.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/handsworth-revolution-deluxe-edition/1480067980" >}}
+{{< applemusic url="https://music.apple.com/gb/album/handsworth-revolution-deluxe-edition/1480067980" >}}<br>
+
+
 ## Videos
 ### Steel Pulse - Handsworth Revolution - 01 - Handsworth Revolution
 {{< youtube id="A3LFvaAD2-Y" title="Steel Pulse - Handsworth Revolution - 01 - Handsworth Revolution" >}}<br>
@@ -63,8 +69,6 @@ A live performance of the track "Macka Splaff" appeared on a 1978 Virgin Records
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Handsworth_Revolution |
-| Apple Music Summary | England’s Steel Pulse took no prisoners with their cerebral yet accessible brand of roots reggae. On this 1978 debut, the woofer-challenging grooves are tempered with cool jazz, soothing harmonies and warm organs, which juxtapose the political and religious protestations and themes. The album appealed to a wide audience—songs like “Soldiers” and “Bad Man” gave voice to the voiceless in black Britain while turning on the punks and mods. The beautiful “Prodigal Son” became one of their signature tunes, and “Prediction” revealed a musical diversity that served them well down the road.   |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 535 158-2 |

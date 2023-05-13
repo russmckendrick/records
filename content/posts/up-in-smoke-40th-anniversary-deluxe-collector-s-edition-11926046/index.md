@@ -87,7 +87,10 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Cheech and Chong Original.Trailer[1978]
 {{< youtube id="k2pXxHW1DHs" title="Cheech and Chong Original.Trailer[1978]" >}}<br>
@@ -104,7 +107,6 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album, Vinyl 7" 45 RPM Single Picture Disc Stereo Mono, CD Album, Blu-ray Multichannel, Box Set Deluxe Edition Numbered |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 566654 |

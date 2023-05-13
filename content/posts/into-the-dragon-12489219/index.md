@@ -42,9 +42,14 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 <!-- section break -->
 
 Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm King Records in 1988. It peaked at number 18 on the UK Albums Chart. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say A Little Prayer" featuring Maureen Walsh.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/into-the-dragon/400362376" >}}
+{{< applemusic url="https://music.apple.com/gb/album/into-the-dragon/400362376" >}}<br>
+
+
 ## Videos
 ### Bomb The Bass - Don't Make Me Wait (Video)
 {{< youtube id="b_42p66WeM0" title="Bomb The Bass - Don't Make Me Wait (Video)" >}}<br>
@@ -69,8 +74,6 @@ Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm K
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Into_the_Dragon |
-| Wikipedia Summary | Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm King Records in 1988. It peaked at number 18 on the UK Albums Chart. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say A Little Prayer" featuring Maureen Walsh. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2172 |

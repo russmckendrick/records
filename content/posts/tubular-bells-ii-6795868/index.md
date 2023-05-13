@@ -40,9 +40,12 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tubular-bells-ii/358349175" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tubular-bells-ii/358349175" >}}<br>
+
+
 ## Videos
 ### Michael Gordon Oldfield - TB 2 (1992)
 {{< youtube id="815lML8_xQk" title="Michael Gordon Oldfield - TB 2 (1992)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Music |
 | Catalog Number | 2564623323 |

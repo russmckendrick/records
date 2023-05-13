@@ -35,7 +35,10 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Curve Frozen
 {{< youtube id="q8_5TC1s0wQ" title="Curve Frozen" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 12" EP Limited Edition Numbered (White marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12031 |

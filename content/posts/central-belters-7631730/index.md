@@ -90,9 +90,15 @@ styles: ["Post Rock"]
 <!-- section break -->
 
 Glasgow’s Mogwai has never done anything in a small way. Their towering post-rock is rife with gorgeous, swelling crescendos (“Helicon 1”), frenetic, calculated explosions (“Mogwai Fear Satan”), and vast depths of emotion (“Devil Rides”). The career-spanning compilation <i>Central Belters</i> reflects the band’s preference for the monumental, packing in nearly four hours of highlights. It’s a long, tempestuous ride, but the heart-stopping (and tear duct-filling) drama doesn’t relent for a second.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/central-belters/1039971176" >}}
+{{< applemusic url="https://music.apple.com/gb/album/central-belters/1039971176" >}}<br>
+
+
 ## Videos
 ### D to E
 {{< youtube id="wuKoBB6JVJU" title="D to E" >}}<br>
@@ -110,8 +116,6 @@ Glasgow’s Mogwai has never done anything in a small way. Their towering post-r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Central_Belters |
-| Wikipedia Summary | Central Belters  is a compilation album by Scottish post-rock band Mogwai, released on 23 October 2015 by Rock Action Records. It is a career retrospective of the band's work to mark their 20th anniversary, and contains highlights from the band's career, non-album singles, and some rarities. The title refers to the Central Belt of Scotland, from where the group originated. The album reached number 40 on the UK Albums Chart and was met with critical acclaim.<br><br> |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 6× LP, Box Set Compilation Limited Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT100LP |

@@ -43,9 +43,14 @@ styles: ["Pop Rock"]
 
 This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
 This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>
+
+
 ## Videos
 ### Crowded House - Don't Dream It's Over (Official Music Video)
 {{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Music Video)" >}}<br>
@@ -62,8 +67,6 @@ This discography relates to releases by Crowded House only. See Neil Finn's disc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Crowded_House_discography |
-| Wikipedia Summary | This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.<br>This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Capitol Records |
 | Catalog Number | 4788026 |

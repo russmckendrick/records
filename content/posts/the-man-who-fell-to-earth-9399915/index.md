@@ -77,9 +77,13 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="2lMP8pgOPDyU3t9j1aUjv7" width="100%" height="500" >}}
+{{< spotify type="album" id="2lMP8pgOPDyU3t9j1aUjv7" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9
 {{< youtube id="wd9vU1KaQiY" title="The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9" >}}<br>
@@ -106,7 +110,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Box Set, CD 2× Album, Vinyl 2× LP |
 | Label          | UMC |
 | Catalog Number | 479 921-7 |

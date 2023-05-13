@@ -37,9 +37,14 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 <!-- section break -->
 
 Everything Was Beautiful is the ninth studio album by Spiritualized, released under Fat Possum Records on April 22, 2022. The album contains influences from psychedelic music, gospel music, and classic rock.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful/1591255695" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful/1591255695" >}}<br>
+
+
 ## Videos
 ### Spiritualized - Always Together With You (Official Music Video)
 {{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You (Official Music Video)" >}}<br>
@@ -59,8 +64,6 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Was_Beautiful |
-| Wikipedia Summary | Everything Was Beautiful is the ninth studio album by Spiritualized, released under Fat Possum Records on April 22, 2022. The album contains influences from psychedelic music, gospel music, and classic rock. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA1270V |

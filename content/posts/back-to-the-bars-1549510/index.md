@@ -56,9 +56,14 @@ styles: ["Power Pop", "Pop Rock"]
 Back to the Bars is a live album by rock musician Todd Rundgren, which was released as a double LP in 1978.
 The album was recorded during week-long stints in New York City (The Bottom Line), Los Angeles (The Roxy), and Cleveland (The Agora). The music featured the best of Rundgren's most commercial work spanning seven of the eight solo albums released in the 1970s up to, but not including, his most recent at the time. This effort was in place of rumors of a re-release of his out-of-print first two LPs, Runt, and Runt. The Ballad of Todd Rundgren. The only offering from those were "The Range War", and the bulk of the material came from Something/Anything?, A Wizard, a True Star, Todd, Initiation, and Faithful. The finale included past and present members of Rundgren's Utopia: Roger Powell, Kasim Sulton, John Wilcox, John Siegler, Ralph Schuckett and Moogy Klingman. Also joining in were the Hello People: Norman Smart, Greg Geddes, Bobby Sedita, and Larry Tasse. Special guest stars were Rick Derringer, Spencer Davis, Daryl Hall, John Oates, and Stevie Nicks.
 Despite a hard push to replicate the success of Frampton Comes Alive!, Back to the Bars did not generate any significant singles or lift for Rundgren.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/back-to-the-bars-live/1084024177" >}}
+{{< applemusic url="https://music.apple.com/gb/album/back-to-the-bars-live/1084024177" >}}<br>
+
+
 ## Videos
 ### Todd Rundgren (Vinyl) Back to the Bars (full album)
 {{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}<br>
@@ -73,8 +78,6 @@ Despite a hard push to replicate the success of Frampton Comes Alive!, Back to t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Back_to_the_Bars |
-| Wikipedia Summary | Back to the Bars is a live album by rock musician Todd Rundgren, which was released as a double LP in 1978.<br>The album was recorded during week-long stints in New York City (The Bottom Line), Los Angeles (The Roxy), and Cleveland (The Agora). The music featured the best of Rundgren's most commercial work spanning seven of the eight solo albums released in the 1970s up to, but not including, his most recent at the time. This effort was in place of rumors of a re-release of his out-of-print first two LPs, Runt, and Runt. The Ballad of Todd Rundgren. The only offering from those were "The Range War", and the bulk of the material came from Something/Anything?, A Wizard, a True Star, Todd, Initiation, and Faithful. The finale included past and present members of Rundgren's Utopia: Roger Powell, Kasim Sulton, John Wilcox, John Siegler, Ralph Schuckett and Moogy Klingman. Also joining in were the Hello People: Norman Smart, Greg Geddes, Bobby Sedita, and Larry Tasse. Special guest stars were Rick Derringer, Spencer Davis, Daryl Hall, John Oates, and Stevie Nicks.<br>Despite a hard push to replicate the success of Frampton Comes Alive!, Back to the Bars did not generate any significant singles or lift for Rundgren. |
-| Release Year   | 1978                                   |
 | Format         | Vinyl 2× LP |
 | Label          | Bearsville |
 | Catalog Number | K 65511 |

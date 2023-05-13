@@ -39,9 +39,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-real-thing/83386606" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-real-thing/83386606" >}}<br>
+
+
 ## Videos
 ### Faith No More - From Out Of Nowhere (Official Music Video)
 {{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
@@ -73,8 +78,6 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Thing_(Faith_No_More_album) |
-| Wikipedia Summary | The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock. |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album |
 | Label          | London American Recordings |
 | Catalog Number | 828 154-1 |

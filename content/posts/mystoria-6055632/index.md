@@ -43,9 +43,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mystoria-deluxe-edition/1169669580" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mystoria-deluxe-edition/1169669580" >}}<br>
+
+
 ## Videos
 ### AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)
 {{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 032 |

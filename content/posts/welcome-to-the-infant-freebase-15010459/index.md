@@ -57,9 +57,14 @@ Welcome to the Infant Freebase is the debut album by the Swedish rock band The S
 The album was originally conceived as a double album, but their record company disagreed.
 It includes the singles "Instant Repeater '99", "Blow My Cool", "Mantra Slider", and "Firmament Vacation (A Soundtrack of Our Lives)", and the song "Instant Repeater '99" was used for the closing credits of the movie Spun.
 The vinyl release of this record also includes the tracks from the Homo Habilis Blues EP.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-infant-freebase/64778945" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-infant-freebase/64778945" >}}<br>
+
+
 ## Videos
 ### The Soundtrack Of Our Lives - Embryonic Rendezvous
 {{< youtube id="2v6TpXXyIgE" title="The Soundtrack Of Our Lives - Embryonic Rendezvous" >}}<br>
@@ -75,8 +80,6 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_the_Infant_Freebase |
-| Wikipedia Summary | Welcome to the Infant Freebase is the debut album by the Swedish rock band The Soundtrack of Our Lives.<br>The album was originally conceived as a double album, but their record company disagreed.<br>It includes the singles "Instant Repeater '99", "Blow My Cool", "Mantra Slider", and "Firmament Vacation (A Soundtrack of Our Lives)", and the song "Instant Repeater '99" was used for the closing credits of the movie Spun.<br>The vinyl release of this record also includes the tracks from the Homo Habilis Blues EP. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gold ) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2645 |

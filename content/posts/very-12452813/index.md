@@ -43,9 +43,14 @@ styles: ["House", "Synth-pop", "Dance-pop"]
 <!-- section break -->
 
 Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released on 27 September 1993 by Parlophone, nearly three years after the duo's previous studio album, Behaviour, and following the compilation album Discography: The Complete Singles Collection. Very exhibits one of many turning points the Pet Shop Boys would make to their music, shifting from the subdued electronic pop of Behaviour to richly instrumented dance arrangements. The content and lyrics led to Very being called their "coming-out" album, since it was during this time that Neil Tennant had publicly discussed his long-rumoured homosexuality.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/very-further-listening-1992-1994-deluxe-edition-2018/1393146194" >}}
+{{< applemusic url="https://music.apple.com/gb/album/very-further-listening-1992-1994-deluxe-edition-2018/1393146194" >}}<br>
+
+
 ## Videos
 ### Pet Shop Boys - Can You Forgive Her?
 {{< youtube id="Me4AhOi6LYE" title="Pet Shop Boys - Can You Forgive Her?" >}}<br>
@@ -104,8 +109,6 @@ Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Very_(Pet_Shop_Boys_album) |
-| Wikipedia Summary | Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released on 27 September 1993 by Parlophone, nearly three years after the duo's previous studio album, Behaviour, and following the compilation album Discography: The Complete Singles Collection. Very exhibits one of many turning points the Pet Shop Boys would make to their music, shifting from the subdued electronic pop of Behaviour to richly instrumented dance arrangements. The content and lyrics led to Very being called their "coming-out" album, since it was during this time that Neil Tennant had publicly discussed his long-rumoured homosexuality. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295823085 |

@@ -76,9 +76,14 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 The Coral is the debut studio album by British rock band the Coral. It was released on 29 July 2002, through the Deltasonic record label. After finalising their line-up, the band had a residency at The Cavern Club, and were spotted and signed by Alan Willis of Deltasonic soon afterwards. Following the release of a single and an EP, and two UK tours, the band began recording their debut album. Sessions were held at Linford Manor Studios, Milton Keynes in early 2002, and were produced by the Lightning Seeds frontman Ian Broudie and the Coral. Described as a neo-psychedelia and folk rock album, frontman James Skelly's voice was compared to Eric Burdon of the Animals and Jim Morrison of the Doors.
 The Coral toured the United Kingdom twice (one stint as a co-headliner with the Music), and supported Pulp and Oasis for a few shows, leading up to the release of The Coral's lead single "Goodbye" on 15 July 2002. Following an appearance at that year's V Festival, the band toured the UK again in October 2002 to coincide with the release of the album's second single "Dreaming of You" on 7 October 2002. The Coral was released in the United States on 4 March 2003, through Columbia Records.
 The Coral received universal acclaim reviews from music critics, many of whom praised the high quality musicianship. The album peaked at number five in the UK, while also charting in France, Ireland, Japan, Scotland, and the US. It, alongside "Dreaming of You", would later be certified platinum in the UK. "Goodbye" charted at number 21 in the UK, and number 28 in Scotland, while "Dreaming of You" peaked at number 13 in the UK, and number 14 in Scotland. The album was nominated for the Mercury Music Prize, and a Brit Award.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-coral-singles-collection/289953389" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-coral-singles-collection/289953389" >}}<br>
+
+
 ## Videos
 ### Spanish Main
 {{< youtube id="n-MoD4xtFaM" title="Spanish Main" >}}<br>
@@ -102,8 +107,6 @@ The Coral received universal acclaim reviews from music critics, many of whom pr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Coral_(album) |
-| Wikipedia Summary | The Coral is the debut studio album by British rock band the Coral. It was released on 29 July 2002, through the Deltasonic record label. After finalising their line-up, the band had a residency at The Cavern Club, and were spotted and signed by Alan Willis of Deltasonic soon afterwards. Following the release of a single and an EP, and two UK tours, the band began recording their debut album. Sessions were held at Linford Manor Studios, Milton Keynes in early 2002, and were produced by the Lightning Seeds frontman Ian Broudie and the Coral. Described as a neo-psychedelia and folk rock album, frontman James Skelly's voice was compared to Eric Burdon of the Animals and Jim Morrison of the Doors.<br>The Coral toured the United Kingdom twice (one stint as a co-headliner with the Music), and supported Pulp and Oasis for a few shows, leading up to the release of The Coral's lead single "Goodbye" on 15 July 2002. Following an appearance at that year's V Festival, the band toured the UK again in October 2002 to coincide with the release of the album's second single "Dreaming of You" on 7 October 2002. The Coral was released in the United States on 4 March 2003, through Columbia Records.<br>The Coral received universal acclaim reviews from music critics, many of whom praised the high quality musicianship. The album peaked at number five in the UK, while also charting in France, Ireland, Japan, Scotland, and the US. It, alongside "Dreaming of You", would later be certified platinum in the UK. "Goodbye" charted at number 21 in the UK, and number 28 in Scotland, while "Dreaming of You" peaked at number 13 in the UK, and number 14 in Scotland. The album was nominated for the Mercury Music Prize, and a Brit Award. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Repress Stereo (White), Vinyl LP Compilation Stereo (White), All Media Limited Edition Remastered |
 | Label          | Run on Records |
 | Catalog Number | RO-002-LP |

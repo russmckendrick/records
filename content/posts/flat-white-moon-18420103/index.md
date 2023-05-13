@@ -35,9 +35,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/flat-white-moon/1551209901" >}}
+{{< applemusic url="https://music.apple.com/gb/album/flat-white-moon/1551209901" >}}<br>
+
+
 ## Videos
 ### Field Music - Flat White Moon (Full Album) 2021
 {{< youtube id="YfdqxwgyFgY" title="Field Music - Flat White Moon (Full Album) 2021" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Transparent) |
 | Label          | Memphis Industries |
 | Catalog Number | MI0657LP |

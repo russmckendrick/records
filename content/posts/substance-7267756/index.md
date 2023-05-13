@@ -45,9 +45,15 @@ styles: ["Post-Punk", "New Wave"]
 <!-- section break -->
 
 This anthology gave listeners an unprecedented glimpse into Joy Division's catalogue when it appeared, eight years after Ian Curtis' death, and it remains an essential compendium. The smouldering "Warsaw" and the rest of the group's 1978 debut EP capture their punk intensity; "Atmosphere" offers a whiff of their ethereal beauty. An industrial-tinged version of "She's Lost Control" hints at an electronic path they never got the chance to take. And then there's the heartbreaking "Love Will Tear Us Apart". If any one song represents their legacy, it's this one.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/substance-1977-1980/996111401" >}}
+{{< applemusic url="https://music.apple.com/gb/album/substance-1977-1980/996111401" >}}<br>
+
+
 ## Videos
 ### Warsaw (2010 Remaster)
 {{< youtube id="gtSFtvXgeRk" title="Warsaw (2010 Remaster)" >}}<br>
@@ -77,8 +83,6 @@ This anthology gave listeners an unprecedented glimpse into Joy Division's catal
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Substance_(Joy_Division_album) |
-| Wikipedia Summary | Substance is a singles compilation album by English rock band Joy Division. It was released on 11 July 1988 by Factory Records. It is the companion to a similar singles compilation by their subsequent band New Order, also entitled Substance. It peaked at number 7 on the UK Albums Chart and 146 on the Billboard 200, the band's only chart appearance in the United States. It also reached number 15 in New Zealand and number 53 in Australia in August 1988. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered |
 | Label          | Factory |
 | Catalog Number | Fact250R |

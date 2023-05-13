@@ -37,7 +37,10 @@ styles: ["Art Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Art Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Virgin |
 | Catalog Number | PGTV 6 |

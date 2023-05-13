@@ -44,9 +44,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says," the horn-driven funk of "Idiots Rule," and howling rocker "Pig’s in Zen" show a far more eccentric sensibility.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nothings-shocking/1018518208" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nothings-shocking/1018518208" >}}<br>
+
+
 ## Videos
 ### Jane's Addiction - Mountain Song (Official Video)
 {{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}<br>
@@ -62,8 +67,6 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says," the horn-driven funk of "Idiots Rule," and howling rocker "Pig’s in Zen" show a far more eccentric sensibility. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122798884 |

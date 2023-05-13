@@ -48,9 +48,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}
+{{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>
+
+
 ## Videos
 ### Sigur Ros - Glósóli [Official Music Video]
 {{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli [Official Music Video]" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP (180 g), Vinyl 10" 33 ⅓ RPM Single Sided Etched, All Media Album Deluxe Edition Limited Edition Reissue |
 | Label          | Krúnk |
 | Catalog Number | KRUNK9LP |

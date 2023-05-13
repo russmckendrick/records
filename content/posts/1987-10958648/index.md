@@ -53,9 +53,12 @@ styles: ["Classic Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}<br>
+
+
 ## Videos
 ### Whitesnake - Is This Love (Official Music Video)
 {{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Classic Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Remastered (180 Gram), Vinyl LP, All Media Reissue (30th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 0190295785178 |

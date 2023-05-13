@@ -39,9 +39,14 @@ styles: ["Alternative Rock", "Power Pop"]
 <!-- section break -->
 
 Bellybutton is the debut album by American rock band Jellyfish, released on July 27, 1990 on Charisma Records. It was recorded after Andy Sturmer and Roger Manning's departure from Beatnik Beatch and Jason Falkner's departure from the Three O'Clock. The album was recorded in Schnee Studios in North Hollywood and produced by Albhy Galuten and Jack Joseph Puig.Bellybutton was released to critical acclaim from contemporary music critics and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bellybutton/723693536" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bellybutton/723693536" >}}<br>
+
+
 ## Videos
 ### Jellyfish - The King Is Half-Undressed
 {{< youtube id="AgdgptaBma8" title="Jellyfish - The King Is Half-Undressed" >}}<br>
@@ -65,8 +70,6 @@ Bellybutton is the debut album by American rock band Jellyfish, released on July
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bellybutton_(album) |
-| Wikipedia Summary | Bellybutton is the debut album by American rock band Jellyfish, released on July 27, 1990 on Charisma Records. It was recorded after Andy Sturmer and Roger Manning's departure from Beatnik Beatch and Jason Falkner's departure from the Three O'Clock. The album was recorded in Schnee Studios in North Hollywood and produced by Albhy Galuten and Jack Joseph Puig.Bellybutton was released to critical acclaim from contemporary music critics and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015. |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Charisma |
 | Catalog Number | CUSLP3 |

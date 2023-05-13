@@ -63,9 +63,14 @@ Egyptology is the fourth studio album by World Party released in 1997, re-releas
 I was so lucky that Robbie recorded "She's the One" because it allowed me to keep going [after his aneurysm in 2000]. He nicked my pig and killed it but gave me enough bacon to live on for four years. He kept my kids in school and me in Seaview [Wallinger's recording studio] and for that I thank him.
 
 Due in part to the disagreement over "She's the One", Egyptology would be Wallinger's last album with Chrysalis; his 2000 album Dumbing Up was released on his own label.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/egyptology/710934487" >}}
+{{< applemusic url="https://music.apple.com/gb/album/egyptology/710934487" >}}<br>
+
+
 ## Videos
 ### World Party She's the One live on Jools Holland
 {{< youtube id="KrJL23YDmS4" title="World Party She's the One live on Jools Holland" >}}<br>
@@ -85,8 +90,6 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Egyptology_(album) |
-| Wikipedia Summary | Egyptology is the fourth studio album by World Party released in 1997, re-released in 2006. It contained the #31 British single "Beautiful Dream" and the award-winning "She's the One", among other songs.  But the album was not a commercial success, and Karl Wallinger was upset when his label, Chrysalis, used "She's the One" as a vehicle for pop artist Robbie Williams; Williams' version hit #1 on the British pop charts and won Williams several awards. Wallinger later wrote:<br><br>I was so lucky that Robbie recorded "She's the One" because it allowed me to keep going [after his aneurysm in 2000]. He nicked my pig and killed it but gave me enough bacon to live on for four years. He kept my kids in school and me in Seaview [Wallinger's recording studio] and for that I thank him.<br><br>Due in part to the disagreement over "She's the One", Egyptology would be Wallinger's last album with Chrysalis; his 2000 album Dumbing Up was released on his own label. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 4VC |

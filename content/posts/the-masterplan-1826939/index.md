@@ -51,9 +51,14 @@ styles: ["Britpop"]
 The Masterplan is a compilation album by English rock band Oasis. It was released on 2 November 1998 by Creation Records, the band's final release through the label. It comprises B-sides which never made it onto an album up to that point. Originally intended for release only in areas such as the United States and Japan, where the tracks were previously only available on expensive European-import singles, The Masterplan reached number 2 in the UK, where it initially went platinum, and number 51 in the United States. However, it did reach the Top 20 in various charts around the world, going on to sell 3 million copies. It has since been certified triple platinum in the UK. Four songs from the album appear on the 2006 compilation album Stop the Clocks.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-masterplan/1517453693" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-masterplan/1517453693" >}}<br>
+
+
 ## Videos
 ### Oasis - The Masterplan
 {{< youtube id="dPPi2D6GK7A" title="Oasis - The Masterplan" >}}<br>
@@ -68,8 +73,6 @@ The Masterplan is a compilation album by English rock band Oasis. It was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Masterplan_(album) |
-| Wikipedia Summary | The Masterplan is a compilation album by English rock band Oasis. It was released on 2 November 1998 by Creation Records, the band's final release through the label. It comprises B-sides which never made it onto an album up to that point. Originally intended for release only in areas such as the United States and Japan, where the tracks were previously only available on expensive European-import singles, The Masterplan reached number 2 in the UK, where it initially went platinum, and number 51 in the United States. However, it did reach the Top 20 in various charts around the world, going on to sell 3 million copies. It has since been certified triple platinum in the UK. Four songs from the album appear on the 2006 compilation album Stop the Clocks.<br><br> |
-| Release Year   | 1998                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Creation Records |
 | Catalog Number | CRELP 241 |

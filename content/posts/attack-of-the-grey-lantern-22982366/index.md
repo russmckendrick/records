@@ -38,9 +38,12 @@ styles: ["Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}<br>
+
+
 ## Videos
 ### Mansun Wide Open Space
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Record Store Day Limited Edition Picture Disc |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1142 |

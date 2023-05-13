@@ -49,9 +49,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/virus-deluxe-edition/1503491133" >}}
+{{< applemusic url="https://music.apple.com/gb/album/virus-deluxe-edition/1503491133" >}}<br>
+
+
 ## Videos
 ### HAKEN - Prosthetic (OFFICIAL VIDEO)
 {{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic (OFFICIAL VIDEO)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 549 |

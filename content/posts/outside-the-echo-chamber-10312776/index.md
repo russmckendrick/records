@@ -65,9 +65,12 @@ styles: ["Reggae", "Dub", "Dancehall"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/outside-the-echo-chamber/1583219464" >}}
+{{< applemusic url="https://music.apple.com/gb/album/outside-the-echo-chamber/1583219464" >}}<br>
+
+
 ## Videos
 ### Coldcut x On-U Sound - 'Vitals feat. Roots Manuva (Dub)'
 {{< youtube id="9FjK8yyVY0M" title="Coldcut x On-U Sound - 'Vitals feat. Roots Manuva (Dub)'" >}}<br>
@@ -92,7 +95,6 @@ styles: ["Reggae", "Dub", "Dancehall"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 8× 7" 45 RPM Album, Box Set Limited Edition |
 | Label          | Ahead Of Our Time |
 | Catalog Number | AHEDBOX015 |

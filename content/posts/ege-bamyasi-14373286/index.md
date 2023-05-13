@@ -38,9 +38,12 @@ styles: ["Krautrock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ege-bamyasi-remastered/711468600" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ege-bamyasi-remastered/711468600" >}}<br>
+
+
 ## Videos
 ### Pinch - Can (1972)
 {{< youtube id="Hls8WnUfHbY" title="Pinch - Can (1972)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Krautrock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
 | Label          | Mute |
 | Catalog Number | XLSPOON8_UK |

@@ -62,9 +62,15 @@ styles: ["Blues Rock", "Southern Rock"]
 <!-- section break -->
 
 Rather than issue a “Greatest Hits” collection to sum up their past twenty years, the Black Crowes decided to eyeball their catalog and reinvent their favorite tunes with acoustic arrangements. It’s an obvious move for a band that has always held onto their rock and pre-rock roots. Their Southern charm, where they’ve taken back roots music from their British rock heroes (the Rolling Stones, the Faces), has never let them down as long as singer Chris Robinson can knowingly leer into the lyrics. Acoustic or not, the funk is still there for the sweaty workouts of “Remedy”, “Jealous Again” and “Downtown Money Waster”, while an elegiac mood carries “She Talks to Angels”, “Ballad In Urgency” and Gram Parsons’ “She”. The electric organ provides the extra boost to help these acoustic guitar-wielding rockers over the classic rock mountain. Bonus tracks, “Boomer’s Story” and Little Feat’s “Willin’” are welcomed additions to what is fast becoming an impeccable catalog of tunes. Their 2008 comeback <i>Warpaint</i> reinvigorated the band and <i>Before the Frost/ Until the Freeze</i> solidified their place as one of America’s finest rock ‘n’ roll bands.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/croweology-acoustic-versions/383772953" >}}
+{{< applemusic url="https://music.apple.com/gb/album/croweology-acoustic-versions/383772953" >}}<br>
+
+
 ## Videos
 ### Wiser Time
 {{< youtube id="bS5MwHiLqOQ" title="Wiser Time" >}}<br>
@@ -87,8 +93,6 @@ Rather than issue a “Greatest Hits” collection to sum up their past twenty y
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Croweology |
-| Wikipedia Summary | Croweology is an acoustic-based album by American rock band The Black Crowes, released on August 3, 2010. The set includes newly recorded versions of nineteen songs from the band's career, covering their albums from Shake Your Money Maker to Lions, plus a cover of the Chris Ethridge and Gram Parsons song "She", in mostly-acoustic arrangements. Critic Stephen Thomas Erlewine stated the Crowes capture "the sound of seasoned veterans still finding new ways to play old favorites" and the double album is "a generous, entertaining gift to the fans who have stayed true throughout the years". This would be the last recorded album to feature lead guitarist,  Luther Dickinson. Croweology was the last studio record released by the band before their hiatus lasting from 2013 to 2020. |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl 3× LP Album Limited Edition Reissue Stereo (10th Anniversary, Gold + Black) |
 | Label          | Silver Arrow |
 | Catalog Number | SAR 03 LP |

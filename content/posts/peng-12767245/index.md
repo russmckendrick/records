@@ -44,9 +44,14 @@ styles: ["Experimental", "Indie Rock"]
 <!-- section break -->
 
 Peng! is the debut studio album by English-French rock band Stereolab. It was released on 26 May 1992 by Too Pure in the United Kingdom. The album was issued in the United States on 13 June 1995 by Too Pure and American Recordings. A remastered edition of the album was released on 9 November 2018 by Too Pure and Beggars Arkive.The album's title (a German onomatopoeia for a loud pop or bang) and cover art are derived from a comic strip named "Der tödliche Finger" that appeared in a 1970 issue of Hotcha, a Swiss underground newspaper. Different panels of the same strip were adapted into cover art for other early Stereolab releases, and remain popular icons for the band.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peng/311000701" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peng/311000701" >}}<br>
+
+
 ## Videos
 ### Super Falling Star (2018 Remaster)
 {{< youtube id="UMqB3817qNU" title="Super Falling Star (2018 Remaster)" >}}<br>
@@ -70,8 +75,6 @@ Peng! is the debut studio album by English-French rock band Stereolab. It was re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peng! |
-| Wikipedia Summary | Peng! is the debut studio album by English-French rock band Stereolab. It was released on 26 May 1992 by Too Pure in the United Kingdom. The album was issued in the United States on 13 June 1995 by Too Pure and American Recordings. A remastered edition of the album was released on 9 November 2018 by Too Pure and Beggars Arkive.The album's title (a German onomatopoeia for a loud pop or bang) and cover art are derived from a comic strip named "Der tödliche Finger" that appeared in a 1970 issue of Hotcha, a Swiss underground newspaper. Different panels of the same strip were adapted into cover art for other early Stereolab releases, and remain popular icons for the band. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Clear) |
 | Label          | Too Pure |
 | Catalog Number | PURE11LPX |

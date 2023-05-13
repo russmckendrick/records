@@ -57,9 +57,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-mountain/1045392645" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-mountain/1045392645" >}}<br>
+
+
 ## Videos
 ### The Path
 {{< youtube id="RvzL2FoF5W8" title="The Path" >}}<br>
@@ -82,7 +85,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo, All Media Reissue Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 578 |

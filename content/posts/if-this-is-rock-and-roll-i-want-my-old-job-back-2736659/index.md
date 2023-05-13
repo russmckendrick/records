@@ -39,9 +39,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 If This Is Rock and Roll, I Want My Old Job Back is a 1991 album by Irish rock group The Saw Doctors. It was their debut album, and propelled them to national stardom. It included two of their most famous hits, "I Useta Lover" and "N17", the former was a nine-week number 1 in the Irish charts. The photograph on the album's front cover showed the fathers of the band members dressed in leather jackets, with the band themselves in exactly the same pose on the back cover.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/if-this-is-rock-and-roll-i-want-my-old-job-back/374785828" >}}
+{{< applemusic url="https://music.apple.com/gb/album/if-this-is-rock-and-roll-i-want-my-old-job-back/374785828" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +56,6 @@ If This Is Rock and Roll, I Want My Old Job Back is a 1991 album by Irish rock g
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/If_This_Is_Rock_and_Roll,_I_Want_My_Old_Job_Back |
-| Wikipedia Summary | If This Is Rock and Roll, I Want My Old Job Back is a 1991 album by Irish rock group The Saw Doctors. It was their debut album, and propelled them to national stardom. It included two of their most famous hits, "I Useta Lover" and "N17", the former was a nine-week number 1 in the Irish charts. The photograph on the album's front cover showed the fathers of the band members dressed in leather jackets, with the band themselves in exactly the same pose on the back cover. |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP |
 | Label          | Solid Records (4) |
 | Catalog Number | Rock 7 |

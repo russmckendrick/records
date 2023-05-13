@@ -36,9 +36,12 @@ styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/foxbase-beta/1240860951" >}}
+{{< applemusic url="https://music.apple.com/gb/album/foxbase-beta/1240860951" >}}<br>
+
+
 ## Videos
 ### Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)
 {{< youtube id="pnQChL9V88g" title="Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue |
 | Label          | Heavenly |
 | Catalog Number | HVNLP1RX |

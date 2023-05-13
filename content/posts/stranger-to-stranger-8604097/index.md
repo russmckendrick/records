@@ -43,9 +43,14 @@ styles: ["Folk Rock"]
 
 Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.
 His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1443229003" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1443229003" >}}<br>
+
+
 ## Videos
 ### Stranger To Stranger
 {{< youtube id="P7zs5JmlhwY" title="Stranger To Stranger" >}}<br>
@@ -62,8 +67,6 @@ His first release in over five years, Stranger to Stranger received wide critica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_to_Stranger |
-| Wikipedia Summary | Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.<br>His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Concord Records |
 | Catalog Number | 0888072397811 |

@@ -42,7 +42,10 @@ styles: ["Soundtrack", "Reggae"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Review 25: Jimmy Cliff - The Harder They Come
 {{< youtube id="f0DNBaKWieI" title="Review 25: Jimmy Cliff - The Harder They Come" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Soundtrack", "Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Reissue (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 00602567073949 |

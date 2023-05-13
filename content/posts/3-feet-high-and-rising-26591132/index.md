@@ -68,9 +68,15 @@ Afrika Bambaataa famously combed the corners of Planet Rock looking for the perf
 Lighthearted skits and interludes filled the album with wacky accents, inside jokes (“What does, ‘Tuhs eht lleh pu’ mean?”) and whispered silliness. “Stand by Me” is looped for a 56-second song about body odour. Loopy slang words (either invented or inherited from fellow members of the Native Tongues crew) create an insular universe where sex songs are about “buddy” and “jenny”, something good is “strictly Dan Stuckie” and your MCs for the evening are “Plug One” and “Plug Two”. Their freewheeling poetry—what they called a “Change in Speak”—broke sentences apart into expressionist clouds that ranged from pure poetry to inspired nonsense: “When that negative number fills up the cavity/Maybe you can subtract it/You can call it your lucky partner/Maybe you can call it your adjective.”
 
 Proudly eccentric and preaching their message of self-expression while dressed in African medallions instead of fat gold ropes, they became the bohemian model for years of alternative-minded rappers. “We was trying to take it to the next place, letting people know there’s individuality here,” Trugoy said. “Not all of us have to wear Adidas; you could wear Le Coq Sportif. There’s so many other things we could do.” You can hear, and see, their influence in the spiritual verses of Arrested Development and P.M. Dawn, underground lyricists like Common and Mos Def, and even pop polyglots like Gorillaz, Black Eyed Peas and Beck.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/3-feet-high-and-rising/1657705063" >}}
+{{< applemusic url="https://music.apple.com/gb/album/3-feet-high-and-rising/1657705063" >}}<br>
+
+
 ## Videos
 ### De La Soul - Intro (Official Audio)
 {{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}<br>
@@ -106,8 +112,6 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/3_Feet_High_and_Rising |
-| Wikipedia Summary | 3 Feet High and Rising is the debut studio album by the American hip hop group De La Soul, released on March 3, 1989 by Tommy Boy Records. It was the first of three collaborations with the producer Prince Paul, and was the critical and commercial peak of both parties. The album title comes from the Johnny Cash song "Five Feet High and Rising". The album contains the singles "Me Myself and I", "The Magic Number", "Buddy", and "Eye Know".<br>The album was a critical and commercial success. It is consistently placed on lists of the greatest albums of all time by noted critics and publications, with Robert Christgau calling it "unlike any rap album you or anybody else has ever heard". In 1998, it was selected as one of The Source's "100 Best Rap Albums". It was selected by the Library of Congress as a 2010 addition to the National Recording Registry, which selects recordings annually that are culturally, historically, or aesthetically significant. As of 2023, it is the only De La Soul album to be certified platinum by the RIAA.Along with the rest of De La Soul's back catalog, 3 Feet High and Rising was not made available for digital purchase or streaming until 2023, due to concerns about the legality of the samples for digital releases.<br><br> |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Opaque, 180g) |
 | Label          | AOI Records |
 | Catalog Number | RMM-047-1 |

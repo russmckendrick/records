@@ -35,9 +35,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nil-recurring-ep/1532102677" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nil-recurring-ep/1532102677" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 12" Mini-Album Remastered (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE936 |

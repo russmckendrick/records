@@ -41,9 +41,12 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dead-cities/714769679" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dead-cities/714769679" >}}<br>
+
+
 ## Videos
 ### Future Sound Of London - Dead Cities (Official Video)
 {{< youtube id="1lTseaEvDSQ" title="Future Sound Of London - Dead Cities (Official Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Virgin |
 | Catalog Number | 3537463 |

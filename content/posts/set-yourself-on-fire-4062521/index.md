@@ -47,9 +47,14 @@ The album's most notable single was "Ageless Beauty", the band's breakthrough hi
 On November 17, 2009, "Your Ex-Lover Is Dead" was featured on Fox network's So You Think You Can Dance, season 6.  Former show contestant and current choreographer Travis Wall chose it as the track for his piece danced by Ellenore Scott and Ryan Di Lello.
 In 2005 Set Yourself on Fire was a Juno Award nominee for Alternative Album of the Year. It lost to the album Let It Die by Feist, who is an occasional bandmate of Stars' Amy Millan, Torquil Campbell, and Evan Cranley in the indie rock band Broken Social Scene.
 The novelist Ibi Kaslik is quoted on the jacket of the album. The album features string arrangements from Bulgarian composer Todor Kobakov.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/set-yourself-on-fire/1442859173" >}}
+{{< applemusic url="https://music.apple.com/gb/album/set-yourself-on-fire/1442859173" >}}<br>
+
+
 ## Videos
 ### Stars - Ageless Beauty
 {{< youtube id="JKg17Gc8WCI" title="Stars - Ageless Beauty" >}}<br>
@@ -67,8 +72,6 @@ The novelist Ibi Kaslik is quoted on the jacket of the album. The album features
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Set_Yourself_on_Fire |
-| Wikipedia Summary | Set Yourself on Fire is the third studio album by Canadian indie rock band Stars. It was released on September 14, 2004 on the Arts & Crafts International record label in Canada and the United Kingdom, and on March 8, 2005 in the United States.<br>The album's most notable single was "Ageless Beauty", the band's breakthrough hit in Canada. "Your Ex-Lover Is Dead" has also garnered significant play in the United States.  It was featured on the soundtrack of The O.C.<br>On November 17, 2009, "Your Ex-Lover Is Dead" was featured on Fox network's So You Think You Can Dance, season 6.  Former show contestant and current choreographer Travis Wall chose it as the track for his piece danced by Ellenore Scott and Ryan Di Lello.<br>In 2005 Set Yourself on Fire was a Juno Award nominee for Alternative Album of the Year. It lost to the album Let It Die by Feist, who is an occasional bandmate of Stars' Amy Millan, Torquil Campbell, and Evan Cranley in the indie rock band Broken Social Scene.<br>The novelist Ibi Kaslik is quoted on the jacket of the album. The album features string arrangements from Bulgarian composer Todor Kobakov. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Repress (180g) |
 | Label          | Arts & Crafts International |
 | Catalog Number | A&C009 |

@@ -55,9 +55,15 @@ styles: ["Country Blues", "Folk Rock"]
 
 On his first LP of original songs in nearly a decade—and his first since reluctantly accepting Nobel Prize honours in 2016—Bob Dylan takes a long look back. <i>Rough and Rowdy Ways</i> is a hot bath of American sound and historical memory, the 79-year-old singer-songwriter reflecting on where we’ve been, how we got here and how much time he has left. There are temperamental blues (“False Prophet”, “Crossing the Rubicon”) and gentle hymns (“I’ve Made Up My Mind to Give Myself to You”), rollicking farewells (“Goodbye Jimmy Reed”) and heady exchanges with the Grim Reaper (“Black Rider”). It reads like memoir, but you know he’d claim it’s fiction.<br />
 And yet, maybe it’s the timing—coming out in June 2020 amidst the throes of a pandemic and a social uprising that bears echoes of the 1960s—or his age, but Dylan’s every line here does have the added charge of what feels like a final word, like some ancient wisdom worth decoding and preserving before it’s too late. “Mother of Muses” invokes Elvis and MLK, Dylan claiming, “I’ve already outlived my life by far.” On the 16-minute master stroke and stand-alone single “Murder Most Foul”, he draws Nazca Lines around the 1963 assassination of JFK—the death of a president, a symbol, an era and something more difficult to define. It’s “Key West (Philosopher Pirate)” that lingers longest, though: Over nine minutes of accordion and electric guitar mingling like light on calm waters, Dylan tells the story of an outlaw cycling through radio stations as he makes his way to the end of U.S. Route 1, the end of the road. “Key West is the place to be, if you’re looking for your mortality,” he says, in a growl that gives way to a croon. “Key West is paradise divine.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rough-and-rowdy-ways/1512248541" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rough-and-rowdy-ways/1512248541" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,8 +73,6 @@ And yet, maybe it’s the timing—coming out in June 2020 amidst the throes of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rough_and_Rowdy_Ways |
-| Wikipedia Summary | Rough and Rowdy Ways is the 39th studio album by American singer-songwriter Bob Dylan, released on June 19, 2020, through Columbia Records. It is Dylan's first album of original songs since his 2012 album Tempest, following three releases, one a triple album, that covered traditional pop standards. The album was recorded at Sound City Studios in January and February 2020. The session musicians included all of the then-current members of Dylan's Never Ending Tour band alongside other musicians, such as Blake Mills and Fiona Apple. The album's sound was described by critics as Americana, folk, blues, and rhythm and blues.Rough and Rowdy Ways was preceded by the singles "Murder Most Foul", "I Contain Multitudes" and "False Prophet"; "Murder Most Foul" became Dylan's first song to top any US Billboard chart. The album was universally praised by critics, described as being one of Dylan's best works and placing highly in many year-end album lists, including the top spot on four lists. It peaked at No. 1 in more than ten countries and No. 2 in the United States and Australia. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Olive ) |
 | Label          | Columbia |
 | Catalog Number | 19439780991 |

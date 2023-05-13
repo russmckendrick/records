@@ -44,9 +44,12 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/memoirs-of-a-madman/911604105" >}}
+{{< applemusic url="https://music.apple.com/gb/album/memoirs-of-a-madman/911604105" >}}<br>
+
+
 ## Videos
 ### OZZY OSBOURNE - Dreamer
 {{< youtube id="LCCiwPEdEpg" title="OZZY OSBOURNE - Dreamer" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Compilation Remastered Stereo (Gatefold, 180 gram) |
 | Label          | Epic |
 | Catalog Number | 88875015611 |

@@ -42,9 +42,12 @@ styles: ["Prog Rock", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/on-an-island/703028242" >}}
+{{< applemusic url="https://music.apple.com/gb/album/on-an-island/703028242" >}}<br>
+
+
 ## Videos
 ### David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)
 {{< youtube id="kEa__0wtIRo" title="David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Prog Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2006                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | EMI |
 | Catalog Number | 0946 3 55695 1 3 |

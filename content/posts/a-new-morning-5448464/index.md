@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-new-morning-deluxe-edition-remastered/437250212" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-new-morning-deluxe-edition-remastered/437250212" >}}<br>
+
+
 ## Videos
 ### Obsessions
 {{< youtube id="eizbLoFEyqs" title="Obsessions" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 5 |

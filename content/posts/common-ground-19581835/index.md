@@ -44,9 +44,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 Common Ground is the thirteenth studio album by the English progressive rock band Big Big Train, released on 30 July 2021. With the departure of Dave Gregory, Rachel Hall, and Danny Manners in 2020, Common Ground is the first album release with the core four-piece lineup of Greg Spawton, David Longdon, Nick D'Virgilio, and Rikard Sjöblom. Joining the core line-up on the album are session musicians Carly Bryant, Dave Foster, and Aidan O'Rourke. Upon release it entered the UK music charts at number 31.It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/common-ground/1564398164" >}}
+{{< applemusic url="https://music.apple.com/gb/album/common-ground/1564398164" >}}<br>
+
+
 ## Videos
 ### Common Ground by Big Big Train
 {{< youtube id="wIQnhCcI4gA" title="Common Ground by Big Big Train" >}}<br>
@@ -67,8 +72,6 @@ Common Ground is the thirteenth studio album by the English progressive rock ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Common_Ground_(Big_Big_Train_album) |
-| Wikipedia Summary | Common Ground is the thirteenth studio album by the English progressive rock band Big Big Train, released on 30 July 2021. With the departure of Dave Gregory, Rachel Hall, and Danny Manners in 2020, Common Ground is the first album release with the core four-piece lineup of Greg Spawton, David Longdon, Nick D'Virgilio, and Rikard Sjöblom. Joining the core line-up on the album are session musicians Carly Bryant, Dave Foster, and Aidan O'Rourke. Upon release it entered the UK music charts at number 31.It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG096 |

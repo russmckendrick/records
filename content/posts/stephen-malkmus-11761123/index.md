@@ -41,9 +41,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as the primary songwriter, lead singer and guitarist of the indie rock band Pavement. He currently performs with Stephen Malkmus and the Jicks and as a solo artist.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stephen-malkmus/306715054" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stephen-malkmus/306715054" >}}<br>
+
+
 ## Videos
 ### Stephen Malkmus - Jenny And The Ess-Dog (Official Video)
 {{< youtube id="GgPuX759XBw" title="Stephen Malkmus - Jenny And The Ess-Dog (Official Video)" >}}<br>
@@ -63,8 +68,6 @@ Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stephen_Malkmus |
-| Wikipedia Summary | Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as the primary songwriter, lead singer and guitarist of the indie rock band Pavement. He currently performs with Stephen Malkmus and the Jicks and as a solo artist. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue (180 g) |
 | Label          | Domino |
 | Catalog Number | WIGLP90 |

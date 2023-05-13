@@ -40,9 +40,14 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 <!-- section break -->
 
 Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}<br>
+
+
 ## Videos
 ### Matt Berry - Gather Up (Kill the Wolf Album)
 {{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>
@@ -69,8 +74,6 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kill_the_Wolf_(Matt_Berry_album) |
-| Wikipedia Summary | Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Green Bottle) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP327G |

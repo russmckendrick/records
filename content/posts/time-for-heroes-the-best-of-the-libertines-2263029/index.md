@@ -46,9 +46,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/time-for-heroes-the-best-of-the-libertines/1544358134" >}}
+{{< applemusic url="https://music.apple.com/gb/album/time-for-heroes-the-best-of-the-libertines/1544358134" >}}<br>
+
+
 ## Videos
 ### The Libertines - Can't Stand Me Now (Official Video)
 {{< youtube id="CqM11bt9QvI" title="The Libertines - Can't Stand Me Now (Official Video)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2007                                   |
 | Format         | Vinyl LP Compilation Limited Edition (Red) |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP421 |

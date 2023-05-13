@@ -51,9 +51,14 @@ styles: ["Folk", "Country", "Country Rock"]
 <!-- section break -->
 
 Justin Townes Earle’s got the blues. A serious undercurrent of unhappy thoughts courses through <i>Nothing’s Gonna Change</i>, the fourth full-length from the talented Nashville musician. In the place of gospel or rockabilly seasoning, Earle goes to the sound of Memphis soul, with horns, unhurried arrangements, and a voice that often sounds like he’s just taken a gut hit. There are signs that perhaps his struggle to stay outside the hard-partying life has taken a backseat. Lyrics like “I tell her I’ve been getting sick again/we both pretend we don’t know why” suggest he’s not too happy with his current state. On the chillingly beautiful “Unfortunately, Anna,” his frustration and despair is palpable: “I’m feeling low and downright mean,” he breathlessly snarls as a steel guitar exhales in the background. The music ranges from the kind of quiet introspection fans of Nick Lowe will appreciate (“Am I That Lonely Tonight?,” “Won’t Be the Last Time”) to a pop-country blend that recalls Lyle Lovett (“Maria,” “Memphis in the Rain”) and a scattering of horn-inflected barroom shuffles (“Baby’s Got a Bad Idea,” “Look the Other Way”).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nothings-gonna-change-the-way-you-feel-about-me-now/496335297" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nothings-gonna-change-the-way-you-feel-about-me-now/496335297" >}}<br>
+
+
 ## Videos
 ### Nothing's Gonna Change The Way You Feel About Me Now
 {{< youtube id="oQXVxJdPfl8" title="Nothing's Gonna Change The Way You Feel About Me Now" >}}<br>
@@ -65,8 +70,6 @@ Justin Townes Earle’s got the blues. A serious undercurrent of unhappy thought
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Justin Townes Earle’s got the blues. A serious undercurrent of unhappy thoughts courses through <i>Nothing’s Gonna Change</i>, the fourth full-length from the talented Nashville musician. In the place of gospel or rockabilly seasoning, Earle goes to the sound of Memphis soul, with horns, unhurried arrangements, and a voice that often sounds like he’s just taken a gut hit. There are signs that perhaps his struggle to stay outside the hard-partying life has taken a backseat. Lyrics like “I tell her I’ve been getting sick again/we both pretend we don’t know why” suggest he’s not too happy with his current state. On the chillingly beautiful “Unfortunately, Anna,” his frustration and despair is palpable: “I’m feeling low and downright mean,” he breathlessly snarls as a steel guitar exhales in the background. The music ranges from the kind of quiet introspection fans of Nick Lowe will appreciate (“Am I That Lonely Tonight?,” “Won’t Be the Last Time”) to a pop-country blend that recalls Lyle Lovett (“Maria,” “Memphis in the Rain”) and a scattering of horn-inflected barroom shuffles (“Baby’s Got a Bad Idea,” “Look the Other Way”). |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 193 LP |

@@ -38,7 +38,10 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1994                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Essential! Records |
 | Catalog Number | ESS LP 213 |

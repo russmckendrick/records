@@ -40,9 +40,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/letters-to-maro/1348707186" >}}
+{{< applemusic url="https://music.apple.com/gb/album/letters-to-maro/1348707186" >}}<br>
+
+
 ## Videos
 ### Who's Master?
 {{< youtube id="IIJlPaNFWCA" title="Who's Master?" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram) |
 | Label          | Gentle Art Of Music |
 | Catalog Number | GAOM 056LP |

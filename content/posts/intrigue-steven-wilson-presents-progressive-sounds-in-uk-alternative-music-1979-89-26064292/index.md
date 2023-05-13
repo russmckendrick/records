@@ -84,7 +84,10 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Wire - I should have known better
 {{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
@@ -102,7 +105,6 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl 7× LP Compilation (140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX78X |

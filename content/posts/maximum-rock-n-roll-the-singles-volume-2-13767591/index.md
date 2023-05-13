@@ -40,7 +40,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (Green), Vinyl LP (White), All Media Compilation Limited Edition Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19075933811 |

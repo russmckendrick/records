@@ -32,9 +32,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-euphoric/1370930459" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-euphoric/1370930459" >}}<br>
+
+
 
 
 ## Release Images
@@ -43,7 +46,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bad Elephant Music |
 | Catalog Number | BEM058 |

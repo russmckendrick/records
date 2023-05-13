@@ -31,9 +31,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-heart-is-strange-deluxe/1608061903" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-heart-is-strange-deluxe/1608061903" >}}<br>
+
+
 ## Videos
 ### The Night
 {{< youtube id="7LbjI2bJrhE" title="The Night" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album |
 | Label          | ZTT |
 | Catalog Number | ZTTnovis1 |

@@ -42,9 +42,15 @@ styles: ["Hard Rock", "Prog Rock"]
 
 Undertow is the debut studio album by American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy, it was recorded from October to December 1992 at Sound City Studios in Van Nuys and Grandmaster Recorders in Hollywood. The album includes some tracks the band decided to not release on their debut EP Opiate. This is their only album to feature original bassist Paul D'Amour.
 According to AllMusic, Undertow helped heavy metal music remain prominent as a mainstream musical style, and allowed several later bands to break through to the mainstream. It was released at a time when grunge was at the height of its popularity, and pop punk was slowly beginning to gather mainstream attention. AllMusic saw the album's success in the "striking, haunting visuals that complemented the album's nihilistic yet wistful mood."As of 2020, Undertow has sold over three million copies in the United States, and is certified triple platinum by the Recording Industry Association of America.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/undertow/1474185287" >}}
+{{< applemusic url="https://music.apple.com/gb/album/undertow/1474185287" >}}<br>
+
+
 ## Videos
 ### TOOL - Intolerance (Audio)
 {{< youtube id="BS0KZaaPNsk" title="TOOL - Intolerance (Audio)" >}}<br>
@@ -69,8 +75,6 @@ According to AllMusic, Undertow helped heavy metal music remain prominent as a m
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Undertow_(Tool_album) |
-| Apple Music Summary | TOOL's breakthrough moment—their double-platinum debut full-length—is best known for the pulsating alt-metal crossover hit "Sober". It was released before a scene-stealing summer when they graduated from the second stage to the main stage in the middle of Lollapalooza 1993. Embraced by alternative crowds and headbangers alike, it’s an album of both sensitivity and brutality, fragility and anger, somewhere between King Crimson's precision and Swans' bloodletting. Guitarist Adam Jones and bassist Paul d'Amour lurch around in drop-D, drummer Danny Carey adds busy prog flourishes and the voice of Maynard James Keenan dredges swamps and pierces skies. The band's unique mix of warmth and unease also comes from a willingness to experiment: In making the LP, the band blasted a piano with a shotgun, tickled a guitar with an Epilady hair remover and recruited punk poet laureate Henry Rollins for a spoken-word interlude. |
-    | Release Year   | 2006                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Volcano (2) |
 | Catalog Number | 61422-31052-1 |

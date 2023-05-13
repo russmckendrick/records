@@ -44,9 +44,15 @@ Building on the rustic style he experimented with on John Wesley Harding, Nashvi
 The result received a generally positive reaction from critics, and was a commercial success. Reaching No. 3 in the U.S., the album also scored Dylan his fourth UK No. 1 album.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nashville-skyline/177980677" >}}
+{{< applemusic url="https://music.apple.com/gb/album/nashville-skyline/177980677" >}}<br>
+
+
 
 
 ## Release Images
@@ -56,8 +62,6 @@ The result received a generally positive reaction from critics, and was a commer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nashville_Skyline |
-| Apple Music Summary | By 1969, Bob Dylan was again changing personas, this time singing country with a throaty drawl and a humble tone. Many highlights include a melancholic overhaul (featuring Johnny Cash) of Dylan’s 1963 weeper “Girl From the North Country”, and the swooning “I Threw It All Away”, which, with its spare organ and acoustic guitar, stuns as an epistle to regret. And Dylan proved that he could sing in a warm, liquid croon on the lovely, hushed “Lay Lady Lay”. This often twangy affair ranks as one of Dylan’s greatest. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | KCS 9825 |

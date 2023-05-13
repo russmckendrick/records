@@ -241,9 +241,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/loving-the-alien-1983-1988-remastered/1416872602" >}}
+{{< applemusic url="https://music.apple.com/gb/album/loving-the-alien-1983-1988-remastered/1416872602" >}}<br>
+
+
 
 
 ## Release Images
@@ -252,7 +255,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Single Sided Album Etched, Vinyl 3× LP Album Reissue Remastered, Vinyl 2× LP Compilation, Vinyl 3× LP Compilation |
 | Label          | Parlophone |
 | Catalog Number | DBXL4 |

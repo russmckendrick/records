@@ -52,9 +52,14 @@ styles: ["Indie Rock"]
 
 Bottle It In is the eighth studio album by American musician Kurt Vile, released on October 12, 2018 through Matador Records. It features contributions from Kim Gordon, Cass McCombs, Stella Mozgawa of Warpaint, and Mary Lattimore.
 The album was preceded by the singles "Loading Zones" and "Bassackwards".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bottle-it-in/1586491648" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bottle-it-in/1586491648" >}}<br>
+
+
 ## Videos
 ### Kurt Vile - Bassackwards
 {{< youtube id="pOFWHty4XFQ" title="Kurt Vile - Bassackwards" >}}<br>
@@ -69,8 +74,6 @@ The album was preceded by the singles "Loading Zones" and "Bassackwards".
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bottle_It_In |
-| Wikipedia Summary | Bottle It In is the eighth studio album by American musician Kurt Vile, released on October 12, 2018 through Matador Records. It features contributions from Kim Gordon, Cass McCombs, Stella Mozgawa of Warpaint, and Mary Lattimore.<br>The album was preceded by the singles "Loading Zones" and "Bassackwards". |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Matador |
 | Catalog Number | OLE-1146-8 |

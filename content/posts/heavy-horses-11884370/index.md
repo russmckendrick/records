@@ -55,9 +55,12 @@ styles: ["Folk Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heavy-horses-2003-bonus-tracks-edition/699733389" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heavy-horses-2003-bonus-tracks-edition/699733389" >}}<br>
+
+
 
 
 ## Release Images
@@ -66,7 +69,6 @@ styles: ["Folk Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295757311 |

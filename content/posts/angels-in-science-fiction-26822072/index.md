@@ -35,9 +35,12 @@ styles: ["Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/angels-in-science-fiction/1664598318" >}}
+{{< applemusic url="https://music.apple.com/gb/album/angels-in-science-fiction/1664598318" >}}<br>
+
+
 
 
 ## Release Images
@@ -46,7 +49,6 @@ styles: ["Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition (Clear Transparent ) |
 | Label          | ATO Records |
 | Catalog Number | ATO0599LP |

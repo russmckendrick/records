@@ -39,9 +39,12 @@ styles: ["Blues Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/queen-of-the-night/1541334774" >}}
+{{< applemusic url="https://music.apple.com/gb/album/queen-of-the-night/1541334774" >}}<br>
+
+
 ## Videos
 ### Maggie Bell - Queen Of The Night (1974) [ Complete LP]
 {{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night (1974) [ Complete LP]" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1974                                   |
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 2383 239 |

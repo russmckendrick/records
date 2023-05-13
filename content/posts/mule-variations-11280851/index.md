@@ -46,9 +46,14 @@ styles: ["Abstract", "Art Rock"]
 
 Mule Variations is the thirteenth studio album by American musician Tom Waits, released on April 16, 1999, on the ANTI- label. It was Waits' first studio album in six years, following The Black Rider (1993). The album was backed by an extensive tour in Europe and North America during the summer and autumn of 1999, which was Waits' first proper tour since 1987. Other promotional stops included a solo performance on VH1 Storytellers.
 Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nominated for Best Male Rock Performance for the track "Hold On". It has sold more than 500,000 copies worldwide. In 2012, the album was ranked number 416 on Rolling Stone's list of The 500 Greatest Albums of All Time.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mule-variations-remastered/1485070836" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mule-variations-remastered/1485070836" >}}<br>
+
+
 ## Videos
 ### Tom Waits - Hold On
 {{< youtube id="0P5jV4lHHR0" title="Tom Waits - Hold On" >}}<br>
@@ -66,8 +71,6 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mule_Variations |
-| Wikipedia Summary | Mule Variations is the thirteenth studio album by American musician Tom Waits, released on April 16, 1999, on the ANTI- label. It was Waits' first studio album in six years, following The Black Rider (1993). The album was backed by an extensive tour in Europe and North America during the summer and autumn of 1999, which was Waits' first proper tour since 1987. Other promotional stops included a solo performance on VH1 Storytellers.<br>Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nominated for Best Male Rock Performance for the track "Hold On". It has sold more than 500,000 copies worldwide. In 2012, the album was ranked number 416 on Rolling Stone's list of The 500 Greatest Albums of All Time. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
 | Label          | Anti- |
 | Catalog Number | 6547-3 |

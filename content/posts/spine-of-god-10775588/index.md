@@ -39,9 +39,12 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/spine-of-god/1246231213" >}}
+{{< applemusic url="https://music.apple.com/gb/album/spine-of-god/1246231213" >}}<br>
+
+
 ## Videos
 ### Monster Magnet - Spine Of God (Full Album)
 {{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God (Full Album)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Gatefold) |
 | Label          | Napalm Records |
 | Catalog Number | NPR 744 VINYL |

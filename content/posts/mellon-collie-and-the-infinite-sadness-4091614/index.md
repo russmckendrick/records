@@ -86,9 +86,15 @@ styles: ["Alternative Rock"]
 Mellon Collie and the Infinite Sadness is the third studio album by American alternative rock band the Smashing Pumpkins, released on October 24, 1995, in the United Kingdom and a day later in the United States on Virgin Records. Produced by frontman Billy Corgan with Flood and Alan Moulder, the 28-track album was released as a two-disc CD and triple LP. It features a wide array of musical styles.
 Propelled by its lead single "Bullet with Butterfly Wings", the album debuted at number one on the US Billboard 200 with first-week sales of 246,500 units. It remains the band's only album to top the Billboard 200. It spawned five more singles—"1979", "Zero", "Tonight, Tonight", the promotional "Muzzle" and "Thirty-Three"—over the course of 1996, and was certified diamond by the RIAA, equivalent to more than 10 million units sold. Lauded by critics for its ambition and scope, Mellon Collie and the Infinite Sadness earned the band seven Grammy Award nominations in 1997, including Album of the Year and Record of the Year ("1979"), as well as nine MTV Music Video Awards nominations, eight of which were for "Tonight, Tonight", including Video of the Year. The songs became hits on mainstream rock and modern rock stations, and "Bullet with Butterfly Wings", "1979", "Tonight, Tonight" and "Thirty-Three" became the band's first Top 40 hits, crossing over to pop radio stations.
 Recording sessions saw a wealth of productivity: dozens of fully completed songs were cut from the album and would surface on later releases. A box set released in November 1996 titled The Aeroplane Flies High compiled the promotional singles from the album and featured approximately 30 fully completed songs from the Mellon Collie sessions that had not made the final cut for the album (including one track, "Pastichio Medley", which contained more than 70 short snippets of songs in various states of completion). Both Mellon Collie and The Aeroplane Flies High later saw reissues that included even more tracks from the sessions.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-remastered/721224313" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-remastered/721224313" >}}<br>
+
+
 ## Videos
 ### The Smashing Pumpkins - Tonight, Tonight (Official Music Video)
 {{< youtube id="NOG3eus4ZSo" title="The Smashing Pumpkins - Tonight, Tonight (Official Music Video)" >}}<br>
@@ -105,8 +111,6 @@ Recording sessions saw a wealth of productivity: dozens of fully completed songs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mellon_Collie_and_the_Infinite_Sadness |
-| Apple Music Summary | This edition of one of the most important and artistically ambitious albums of the '90s features a remastering of the original album by Bob Ludwig. Even before it was further boosted by Ludwig here, the original album was one of the finest-<i>sounding</i> albums of its day, with producer Flood and his longtime associate Alan Moulder ensuring that every guitar chord achieved epic grandeur. The album spanned two fully packed CDs upon its original release, making it essentially a 4-LP set. The songwriting was solid, and Corgan was clearly on a mission to inject his prog-rock interests into a slicker-than-grunge hard rock sound.  |
-    | Release Year   | 2012                                   |
 | Format         | Vinyl 4× LP Album Reissue Remastered, Box Set |
 | Label          | Virgin |
 | Catalog Number | 5099997855316 |

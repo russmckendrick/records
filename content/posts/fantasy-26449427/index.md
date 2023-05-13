@@ -42,9 +42,15 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 <!-- section break -->
 
 In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, Anthony Gonzalez (aka M83) said he didn’t want to talk about modern life so much as he wanted to avoid it. The irony is that since the release of 2011’s <i>Hurry Up, We’re Dreaming</i>, few artists have had as big of an impact on indie electronic music’s passage into the mainstream. Where 2016’s <i>Junk</i> explored the playful side of his ’80s obsessions and 2019’s <i>Knife + Heart</i> soundtracked the erotic, threatening side, the anthems of <i>Fantasy</i> tap into the heroism that has made his narrow vision so broadly appealing, from the tight New Wave vibe of “Amnesia” to the unsettling grandeur of “Dismemberment Bureau”. His nostalgia is escape, yes—but it’s also rebellion.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fantasy/1658838374" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fantasy/1658838374" >}}<br>
+
+
 ## Videos
 ### M83 - 'Oceans Niagara' (Official Music Video)
 {{< youtube id="ryFV9dORPPw" title="M83 - 'Oceans Niagara' (Official Music Video)" >}}<br>
@@ -69,8 +75,6 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fantasy_(M83_album) |
-| Wikipedia Summary | Fantasy is the ninth studio album by French band M83, released on 17 March 2023 through Virgin Records France and Mute Records. It was announced on 10 January 2023 alongside the release of the lead single "Oceans Niagara". The band will tour North America and Europe in support of the album from April to August 2023. |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
 | Label          | Other Suns |
 | Catalog Number | OS1 LP |

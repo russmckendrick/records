@@ -41,9 +41,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hotel-last-resort/1460178156" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hotel-last-resort/1460178156" >}}<br>
+
+
 ## Videos
 ### Violent Femmes - Hotel Last Resort (Official Lyric Video)
 {{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort (Official Lyric Video)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | Add It Up Productions |
 | Catalog Number | PIASR1100LP |

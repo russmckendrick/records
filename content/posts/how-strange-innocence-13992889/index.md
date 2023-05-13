@@ -39,9 +39,14 @@ styles: ["Post Rock"]
 
 How Strange, Innocence is the first album recorded by post-rock band Explosions in the Sky, released on January 17, 2000. It is their only album for the Sad Loud America label. Initially only 300 copies were issued in the form of CD-Rs. Due to many requests from fans, the album was remastered from the original tapes,  given new artwork, and reissued on CD by Temporary Residence Limited on October 11, 2005.
 The album was also released in a limited edition, 300 copy, double LP 180 gram vinyl on Ruined Potential records. The record was released in 5 different colors (black, blue, red, gray and white). The black, blue, and gray versions came with a special insert. The band sold the vinyl version exclusively on their 2004 tour. On July 4, 2019, a vinyl re-issue and streaming platform release (along with 2005's The Rescue) was announced for August 16.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/how-strange-innocence-anniversary-edition/318867117" >}}
+{{< applemusic url="https://music.apple.com/gb/album/how-strange-innocence-anniversary-edition/318867117" >}}<br>
+
+
 ## Videos
 ### Explosions In The Sky - How Strange, Innocence ( Full Album )
 {{< youtube id="gl1xv2cspJI" title="Explosions In The Sky - How Strange, Innocence ( Full Album )" >}}<br>
@@ -54,8 +59,6 @@ The album was also released in a limited edition, 300 copy, double LP 180 gram v
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/How_Strange,_Innocence |
-| Wikipedia Summary | How Strange, Innocence is the first album recorded by post-rock band Explosions in the Sky, released on January 17, 2000. It is their only album for the Sad Loud America label. Initially only 300 copies were issued in the form of CD-Rs. Due to many requests from fans, the album was remastered from the original tapes,  given new artwork, and reissued on CD by Temporary Residence Limited on October 11, 2005.<br>The album was also released in a limited edition, 300 copy, double LP 180 gram vinyl on Ruined Potential records. The record was released in 5 different colors (black, blue, red, gray and white). The black, blue, and gray versions came with a special insert. The band sold the vinyl version exclusively on their 2004 tour. On July 4, 2019, a vinyl re-issue and streaming platform release (along with 2005's The Rescue) was announced for August 16. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue Remastered (Blue Light & Dark Mix) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR085 |

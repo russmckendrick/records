@@ -36,9 +36,14 @@ Most of the album is taken up by the 22-minute "Autobahn", featuring lyrics by S
 Initial reception to Autobahn was mixed; it received negative reviews from Rolling Stone and Village Voice's critic Robert Christgau who felt the music was inferior to earlier electronic music from Wendy Carlos and Mike Oldfield. Other critics found the track "Autobahn" hypnotic and arresting for its imagery of driving on the autobahn. Critics from the Fort Worth Star-Telegram and Newsday included the album in their "Honorable Mentions" sections of their year-end lists. Later reception was unanimously enthusiastic; Simon Witter wrote in NME the album is of "enormous historical significance" and Simon Reynolds said the album is where Kraftwerk's music really starts to matter. Musicians of the 1970s and 1980s, including David Bowie, cited the album as a major influence.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autobahn-remastered/726154713" >}}
+{{< applemusic url="https://music.apple.com/gb/album/autobahn-remastered/726154713" >}}<br>
+
+
 
 
 ## Release Images
@@ -48,8 +53,6 @@ Initial reception to Autobahn was mixed; it received negative reviews from Rolli
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Autobahn_(album) |
-| Wikipedia Summary | Autobahn is the fourth studio album by German electronic music band Kraftwerk, released in November 1974 by Philips Records. The album marked several personnel changes in the band, which was initially a duo consisting of Florian Schneider and Ralf Hütter; later, the group added Klaus Röder on guitar and flute, and Wolfgang Flür on percussion. The album also completed the group's transition from the experimental krautrock style of their earlier work to an electronic pop sound consisting mostly of synthesizers and drum machines. Recording started at the group's own Kling Klang facility, but was predominantly made at Conny Plank's studio. Autobahn also includes lyrics and a new look for the group that was suggested by Emil Schult, an associate of Schneider and Hütter.<br>Most of the album is taken up by the 22-minute "Autobahn", featuring lyrics by Schneider, Hütter, and Schult. The song was inspired by the group's joy of driving on Germany's autobahns, and recorded music that reflected a trip emulating the sounds of a vehicle. The album's release in West Germany saw little press attention. "Autobahn" was released as a single and received airplay at a Chicago radio station, leading it to spread across the United States. In 1975, the song became an international hit and Kraftwerk's first release of their music in the US. "Autobahn"'s success led to the band touring the United States with new member Karl Bartos, who would replace Röder, followed by a tour of the United Kingdom.<br>Initial reception to Autobahn was mixed; it received negative reviews from Rolling Stone and Village Voice's critic Robert Christgau who felt the music was inferior to earlier electronic music from Wendy Carlos and Mike Oldfield. Other critics found the track "Autobahn" hypnotic and arresting for its imagery of driving on the autobahn. Critics from the Fort Worth Star-Telegram and Newsday included the album in their "Honorable Mentions" sections of their year-end lists. Later reception was unanimously enthusiastic; Simon Witter wrote in NME the album is of "enormous historical significance" and Simon Reynolds said the album is where Kraftwerk's music really starts to matter. Musicians of the 1970s and 1980s, including David Bowie, cited the album as a major influence.<br><br> |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99586 1 8 |

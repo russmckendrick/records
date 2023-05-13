@@ -61,9 +61,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/monster-2019-remaster/1484709966" >}}
+{{< applemusic url="https://music.apple.com/gb/album/monster-2019-remaster/1484709966" >}}<br>
+
+
 ## Videos
 ### R.E.M. - What's The Frequency, Kenneth? (Official Music Video)
 {{< youtube id="jWkMhCLkVOg" title="R.E.M. - What's The Frequency, Kenneth? (Official Music Video)" >}}<br>
@@ -92,7 +95,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary Expanded Edition) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00239 |

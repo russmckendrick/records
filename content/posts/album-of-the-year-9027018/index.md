@@ -59,9 +59,14 @@ styles: ["Alternative Rock", "Hard Rock"]
 <!-- section break -->
 
 Album of the Year is the sixth studio album by American rock band Faith No More, released on June 3, 1997, by Slash and Reprise Records. It is the first album to feature the band's current guitarist Jon Hudson, and was their last studio album before their eleven-year hiatus from 1998 to 2009. The album has been described by AllMusic as being "more straightforward musically than past releases." It spawned three singles: "Ashes to Ashes", "Last Cup of Sorrow", and "Stripsearch".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/album-of-the-year/365629446" >}}
+{{< applemusic url="https://music.apple.com/gb/album/album-of-the-year/365629446" >}}<br>
+
+
 ## Videos
 ### Collision
 {{< youtube id="otNNGROI0Cs" title="Collision" >}}<br>
@@ -86,8 +91,6 @@ Album of the Year is the sixth studio album by American rock band Faith No More,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Album_of_the_Year_(Faith_No_More_album) |
-| Wikipedia Summary | Album of the Year is the sixth studio album by American rock band Faith No More, released on June 3, 1997, by Slash and Reprise Records. It is the first album to feature the band's current guitarist Jon Hudson, and was their last studio album before their eleven-year hiatus from 1998 to 2009. The album has been described by AllMusic as being "more straightforward musically than past releases." It spawned three singles: "Ashes to Ashes", "Last Cup of Sorrow", and "Stripsearch". |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 GM) |
 | Label          | Slash Records |
 | Catalog Number | 0190295972967 |

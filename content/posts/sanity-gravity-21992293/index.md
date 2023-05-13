@@ -37,9 +37,12 @@ styles: ["Jazz-Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sanity-gravity-remastered/1596823241" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sanity-gravity-remastered/1596823241" >}}<br>
+
+
 ## Videos
 ### Gavin Harrison - Aim
 {{< youtube id="suOkrGLngns" title="Gavin Harrison - Aim" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1133 |

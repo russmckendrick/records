@@ -39,9 +39,14 @@ styles: ["Indie Rock", "Britpop"]
 
 People Move On is the debut studio album of English singer-songwriter Bernard Butler that was released on 6 April 1998 through Creation Records. After a dispute with David McAlmont over the McAlmont & Butler project, Butler collaborated with various artists before starting his solo career. Following a brief period with Sony LRD in early 1996, by the end of that year, Butler had signed to Creation and switched managers from Geoff Travis to Gail Colson. Butler produced the sessions for People Move On at RAK and Air Studios, both in London, between February and July 1997. The album, which is described as a pop, rock, and folk release, has been compared to the work of Jeff Buckley, Neil Young, and Wilco.
 Music critics gave People Move On generally favourable reviews, though some of them criticized Butler's ability as a vocalist. The album charted at number 11 in the UK Albums Chart; all three of its singles charted on the UK Singles Chart, where "Stay" – the album's best-selling single – peaked at number 12. The British Phonographic Industry (BPI) certified the album silver in the United Kingdom. Before the release of the first two singles of People Move On, "Stay" on 5 January 1998 and "Not Alone" on 16 March 1998, Butler held a four-show residency in London. "A Change of Heart" was released as the album's third and final single on 15 June 1998, which was surrounded by festival performances. Butler closed the year with his first tour of the UK. People Move On was reissued in 2022; the re-release includes a version with newly recorded vocals, which some critics praised.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/people-move-on/1587703233" >}}
+{{< applemusic url="https://music.apple.com/gb/album/people-move-on/1587703233" >}}<br>
+
+
 ## Videos
 ### Bernard Butler - People Move On (1998) Full album
 {{< youtube id="xM54pVZkEMU" title="Bernard Butler - People Move On (1998) Full album" >}}<br>
@@ -64,8 +69,6 @@ Music critics gave People Move On generally favourable reviews, though some of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_Move_On |
-| Wikipedia Summary | People Move On is the debut studio album of English singer-songwriter Bernard Butler that was released on 6 April 1998 through Creation Records. After a dispute with David McAlmont over the McAlmont & Butler project, Butler collaborated with various artists before starting his solo career. Following a brief period with Sony LRD in early 1996, by the end of that year, Butler had signed to Creation and switched managers from Geoff Travis to Gail Colson. Butler produced the sessions for People Move On at RAK and Air Studios, both in London, between February and July 1997. The album, which is described as a pop, rock, and folk release, has been compared to the work of Jeff Buckley, Neil Young, and Wilco.<br>Music critics gave People Move On generally favourable reviews, though some of them criticized Butler's ability as a vocalist. The album charted at number 11 in the UK Albums Chart; all three of its singles charted on the UK Singles Chart, where "Stay" – the album's best-selling single – peaked at number 12. The British Phonographic Industry (BPI) certified the album silver in the United Kingdom. Before the release of the first two singles of People Move On, "Stay" on 5 January 1998 and "Not Alone" on 16 March 1998, Butler held a four-show residency in London. "A Change of Heart" was released as the album's third and final single on 15 June 1998, which was surrounded by festival performances. Butler closed the year with his first tour of the UK. People Move On was reissued in 2022; the re-release includes a version with newly recorded vocals, which some critics praised. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (White 180g, Signed Print) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC943 |

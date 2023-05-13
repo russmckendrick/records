@@ -29,9 +29,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tubular-bells-50th-anniversary-celebration/1645180679" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tubular-bells-50th-anniversary-celebration/1645180679" >}}<br>
+
+
 
 
 ## Release Images
@@ -40,7 +43,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Limited Edition (Blue), Vinyl LP Limited Edition (Purple) |
 | Label          | Cleopatra |
 | Catalog Number | CLO3402 |

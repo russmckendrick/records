@@ -40,9 +40,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gold-against-the-soul/207067933" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gold-against-the-soul/207067933" >}}<br>
+
+
 ## Videos
 ### Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)
 {{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439733611 |

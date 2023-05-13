@@ -44,9 +44,15 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 <!-- section break -->
 
 Orton's second album forsakes the trip-hop of her debut for more robust textures. The devil's on their trail: Opener “Stolen Car” has a nervy energy and a beautifully orchestrated droning undertow, and sets up a road trip through the American south (by way of Orton's native Norwich). There's sweet countrypolitan in “Sweetest Decline” and “Pass in Time”, but the best bits ooze with darkness: the desert hum of “So Much More,” the ominous twang in “Devil Song,” and on the one-take “Feel to Believe,” a furious vocal performance that breaches the limits of the microphone.
-<br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/central-reservation/281790109" >}}
+{{< applemusic url="https://music.apple.com/gb/album/central-reservation/281790109" >}}<br>
+
+
 ## Videos
 ### Beth Orton - Central Reservation - 07 - Stars All Seem To Weep
 {{< youtube id="ntr5FGZejK4" title="Beth Orton - Central Reservation - 07 - Stars All Seem To Weep" >}}<br>
@@ -68,8 +74,7 @@ Orton's second album forsakes the trip-hop of her debut for more robust textures
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Orton's second album forsakes the trip-hop of her debut for more robust textures. The devil's on their trail: Opener “Stolen Car” has a nervy energy and a beautifully orchestrated droning undertow, and sets up a road trip through the American south (by way of Orton's native Norwich). There's sweet countrypolitan in “Sweetest Decline” and “Pass in Time”, but the best bits ooze with darkness: the desert hum of “So Much More,” the ominous twang in “Devil Song,” and on the one-take “Feel to Believe,” a furious vocal performance that breaches the limits of the microphone. |
-| Release Year   | 2022                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Central_Reservation_(album) |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Red [Pillar Box]) |
 | Label          | Sony Music |
 | Catalog Number | 19439 95678 1 |

@@ -41,9 +41,14 @@ styles: ["Pop Rock"]
 
 Time on Earth is the fifth studio album by the pop-rock band Crowded House. Tracks have been produced by both Ethan Johns and Steve Lillywhite and the album was released on 30 June 2007 in Australia, 2 July in the United Kingdom and 10 July in North America. Time on Earth is the band's first studio album since 1993, and marks the reunion of the band eleven years after they disbanded and features new drummer Matt Sherrod in place of the original drummer, Paul Hester, who killed himself in 2005.
 As the first studio album from the group in fourteen years, Time on Earth has been subject to much speculation. Upon its release the album garnered positive critical reception and reached Platinum status within weeks of release in Australia, and Gold status in its second week of release in New Zealand. To promote the album, the group toured internationally, beginning by performing at Coachella music festival and at Live Earth in July. For further promotion, three singles were released from the album, "Don't Stop Now", "She Called Up" and "Pour le monde", and a special tour edition of the album was released in Australia in November 2007 featuring an extra CD with eleven songs from a concert from the album's North American tour.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/time-on-earth/1600080505" >}}
+{{< applemusic url="https://music.apple.com/gb/album/time-on-earth/1600080505" >}}<br>
+
+
 ## Videos
 ### Crowded House - Don't Stop Now
 {{< youtube id="eGZJKsTHXG0" title="Crowded House - Don't Stop Now" >}}<br>
@@ -56,8 +61,6 @@ As the first studio album from the group in fourteen years, Time on Earth has be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time_on_Earth |
-| Wikipedia Summary | Time on Earth is the fifth studio album by the pop-rock band Crowded House. Tracks have been produced by both Ethan Johns and Steve Lillywhite and the album was released on 30 June 2007 in Australia, 2 July in the United Kingdom and 10 July in North America. Time on Earth is the band's first studio album since 1993, and marks the reunion of the band eleven years after they disbanded and features new drummer Matt Sherrod in place of the original drummer, Paul Hester, who killed himself in 2005.<br>As the first studio album from the group in fourteen years, Time on Earth has been subject to much speculation. Upon its release the album garnered positive critical reception and reached Platinum status within weeks of release in Australia, and Gold status in its second week of release in New Zealand. To promote the album, the group toured internationally, beginning by performing at Coachella music festival and at Live Earth in July. For further promotion, three singles were released from the album, "Don't Stop Now", "She Called Up" and "Pour le monde", and a special tour edition of the album was released in Australia in November 2007 featuring an extra CD with eleven songs from a concert from the album's North American tour. |
-| Release Year   | 2007                                   |
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 396 0271 |

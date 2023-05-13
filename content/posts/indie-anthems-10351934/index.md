@@ -48,9 +48,13 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="0I5gq6g5TdvPWVAqEECV2y" width="100%" height="500" >}}
+{{< spotify type="album" id="0I5gq6g5TdvPWVAqEECV2y" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Suede - Trash
 {{< youtube id="-PdKGDMhau4" title="Suede - Trash" >}}<br>
@@ -82,7 +86,6 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP004 |

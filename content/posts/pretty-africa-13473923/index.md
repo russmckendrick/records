@@ -40,7 +40,10 @@ styles: ["Ska", "Rocksteady"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)
 {{< youtube id="AnZDKe8XErg" title="Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Ska", "Rocksteady"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Gold, Translucent) |
 | Label          | Trojan Records |
 | Catalog Number | TBL 1037 |

@@ -78,9 +78,14 @@ Goo is the sixth full-length studio album by American alternative rock band Soni
 Goo was a critical and commercial success upon its release, peaking at number 96 on the US Billboard 200, their highest chart position to date. Although it lacked significant radio airplay, its lead single "Kool Thing", a collaborative effort with Public Enemy's Chuck D, reached number seven on the Billboard Modern Rock Tracks chart. Since then, Goo has been viewed as one of alternative rock's most important albums, and is considered musically and artistically significant. In 2020, the album was ranked at number 358 on Rolling Stone's 500 greatest albums of all time list.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/goo/1440838993" >}}
+{{< applemusic url="https://music.apple.com/gb/album/goo/1440838993" >}}<br>
+
+
 ## Videos
 ### Sonic Youth - Dirty Boots (Revised Audio)
 {{< youtube id="7XdYnh729IQ" title="Sonic Youth - Dirty Boots (Revised Audio)" >}}<br>
@@ -104,8 +109,6 @@ Goo was a critical and commercial success upon its release, peaking at number 96
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Goo_(album) |
-| Wikipedia Summary | Goo is the sixth full-length studio album by American alternative rock band Sonic Youth, released on June 26, 1990, by DGC Records. For this album, the band sought to expand upon its trademark alternating guitar arrangements and the layered sound of their previous album Daydream Nation (1988) with songwriting on that was more topical than past works, exploring themes of female empowerment and pop culture. Coming off the success of Daydream Nation, Nick Sansano returned to engineer Goo, but veteran producer Ron Saint Germain was chosen by Sonic Youth to finish mixing the album following Sansano's dismissal.<br>Goo was a critical and commercial success upon its release, peaking at number 96 on the US Billboard 200, their highest chart position to date. Although it lacked significant radio airplay, its lead single "Kool Thing", a collaborative effort with Public Enemy's Chuck D, reached number seven on the Billboard Modern Rock Tracks chart. Since then, Goo has been viewed as one of alternative rock's most important albums, and is considered musically and artistically significant. In 2020, the album was ranked at number 358 on Rolling Stone's 500 greatest albums of all time list.<br><br> |
-| Release Year   | 2005                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Remastered, Box Set |
 | Label          | Goofin' Records |
 | Catalog Number | GOO-07 |

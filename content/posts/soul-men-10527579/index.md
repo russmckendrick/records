@@ -40,9 +40,12 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/soul-men/265640765" >}}
+{{< applemusic url="https://music.apple.com/gb/album/soul-men/265640765" >}}<br>
+
+
 ## Videos
 ### Let It Be Me
 {{< youtube id="Sh_ujzyu78o" title="Let It Be Me" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue Mono (180g) |
 | Label          | Stax |
 | Catalog Number | 081227940577 |

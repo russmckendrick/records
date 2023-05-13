@@ -148,7 +148,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -157,7 +160,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Box Set Limited Edition, Vinyl LP Album Reissue (Clear With Yellow & Brown Splatter, 140g), Vinyl LP Album Reissue (Clear With Orange & Grey Splatter, 140g), Vinyl LP Album Reissue (Clear With Yellow & Blue Splatter, 140g), Vinyl LP Album Reissue (Clear With Red & Green Splatter, 140g), Vinyl LP Album Reissue (Clear With Blue & White Splatter, 140g), Vinyl 2× LP Compilation Reissue (Clear With Red & Purple Splatter, 140g), Vinyl LP Compilation (Clear, 140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX48X |

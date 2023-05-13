@@ -64,7 +64,10 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -73,7 +76,6 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Compilation Reissue (Blue), Vinyl 2× LP Album Reissue (Orange), Vinyl 2× LP Album Reissue (Red), Box Set Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX75 |

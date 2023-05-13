@@ -41,9 +41,12 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hammer-and-anvil/1056376043" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hammer-and-anvil/1056376043" >}}<br>
+
+
 ## Videos
 ### Pure Reason Revolution - Valour - Hammer and Anvil - 2010
 {{< youtube id="l8MK78-aPLs" title="Pure Reason Revolution - Valour - Hammer and Anvil - 2010" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow) |
 | Label          | Superball Music |
 | Catalog Number | MOVLP3078 |

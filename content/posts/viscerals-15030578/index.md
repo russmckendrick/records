@@ -38,9 +38,12 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/viscerals/1491152566" >}}
+{{< applemusic url="https://music.apple.com/gb/album/viscerals/1491152566" >}}<br>
+
+
 ## Videos
 ### Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer
 {{< youtube id="dsn9leb4ZSc" title="Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Blood And Guts) |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH184 |

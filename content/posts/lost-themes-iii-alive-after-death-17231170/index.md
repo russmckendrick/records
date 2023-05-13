@@ -45,9 +45,14 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 Lost Themes III: Alive After Death is the third studio album by American film director and composer John Carpenter. It was released on February 5, 2021, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lost-themes-iii-alive-after-death/1534812089" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lost-themes-iii-alive-after-death/1534812089" >}}<br>
+
+
 ## Videos
 ### John Carpenter - Alive After Death (Official Music Video)
 {{< youtube id="A8NHR31TA9E" title="John Carpenter - Alive After Death (Official Music Video)" >}}<br>
@@ -73,8 +78,6 @@ Lost Themes III: Alive After Death is the third studio album by American film di
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Themes_III:_Alive_After_Death |
-| Wikipedia Summary | Lost Themes III: Alive After Death is the third studio album by American film director and composer John Carpenter. It was released on February 5, 2021, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR-265 |

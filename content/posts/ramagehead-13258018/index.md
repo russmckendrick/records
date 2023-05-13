@@ -41,9 +41,12 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ramagehead/1444798137" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ramagehead/1444798137" >}}<br>
+
+
 ## Videos
 ### O.R.k. - Kneel To Nothing (from Ramagehead)
 {{< youtube id="rMfs1ph1ZGU" title="O.R.k. - Kneel To Nothing (from Ramagehead)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1014 |

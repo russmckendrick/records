@@ -49,9 +49,12 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mandy-original-motion-picture-soundtrack-deluxe/1409930378" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mandy-original-motion-picture-soundtrack-deluxe/1409930378" >}}<br>
+
+
 ## Videos
 ### Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track
 {{< youtube id="PKZEBhRX-TU" title="Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track" >}}<br>
@@ -81,7 +84,6 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Red Translucent) |
 | Label          | Lakeshore Records |
 | Catalog Number | LKSINV203LP |

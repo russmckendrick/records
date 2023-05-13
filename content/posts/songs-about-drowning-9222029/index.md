@@ -40,9 +40,12 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/songs-about-drowning/1160347728" >}}
+{{< applemusic url="https://music.apple.com/gb/album/songs-about-drowning/1160347728" >}}<br>
+
+
 ## Videos
 ### Thought Forms - Woolf Music
 {{< youtube id="20G3LlU4z1A" title="Thought Forms - Woolf Music" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (Purple) |
 | Label          | Invada |
 | Catalog Number | INV167LP |

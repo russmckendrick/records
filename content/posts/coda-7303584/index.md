@@ -45,9 +45,14 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 Coda is the first compilation album by the English rock band Led Zeppelin. The album is a collection of rejected tracks from various sessions during Led Zeppelin's twelve-year career. It was released on 19 November 1982, almost two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coda-deluxe-edition/999609825" >}}
+{{< applemusic url="https://music.apple.com/gb/album/coda-deluxe-edition/999609825" >}}<br>
+
+
 ## Videos
 ### Led Zeppelin - Coda (1982) (Full Album)
 {{< youtube id="RunTziaqymA" title="Led Zeppelin - Coda (1982) (Full Album)" >}}<br>
@@ -60,8 +65,6 @@ Coda is the first compilation album by the English rock band Led Zeppelin. The a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coda_(Led_Zeppelin_album) |
-| Wikipedia Summary | Coda is the first compilation album by the English rock band Led Zeppelin. The album is a collection of rejected tracks from various sessions during Led Zeppelin's twelve-year career. It was released on 19 November 1982, almost two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Swan Song |
 | Catalog Number | 8122795588 |

@@ -43,9 +43,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/who-do-we-hate-today/1566592596" >}}
+{{< applemusic url="https://music.apple.com/gb/album/who-do-we-hate-today/1566592596" >}}<br>
+
+
 ## Videos
 ### Jim's Bed Of Unease (Intro)
 {{< youtube id="DnkIJYBaDOg" title="Jim's Bed Of Unease (Intro)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Cherry Red |
 | Catalog Number | BRED850 |

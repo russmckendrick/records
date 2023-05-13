@@ -52,9 +52,12 @@ styles: ["African"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hasabe-my-worries/1680801339" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hasabe-my-worries/1680801339" >}}<br>
+
+
 ## Videos
 ### AYALEW MESFIN.HASABE
 {{< youtube id="_1BwNKnKi4E" title="AYALEW MESFIN.HASABE" >}}<br>
@@ -80,7 +83,6 @@ styles: ["African"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Club Edition (Maroon, 180 gram) |
 | Label          | Now-Again Records |
 | Catalog Number | NA 5164 |

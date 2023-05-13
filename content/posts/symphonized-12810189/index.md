@@ -46,9 +46,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/symphonized-live/1434911196" >}}
+{{< applemusic url="https://music.apple.com/gb/album/symphonized-live/1434911196" >}}<br>
+
+
 ## Videos
 ### ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)
 {{< youtube id="oIwzEfWT85Q" title="ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)" >}}<br>
@@ -65,7 +68,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 520 |

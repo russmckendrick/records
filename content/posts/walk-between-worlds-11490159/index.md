@@ -39,9 +39,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple Minds, released in February 2018 by BMG.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/walk-between-worlds/1311990803" >}}
+{{< applemusic url="https://music.apple.com/gb/album/walk-between-worlds/1311990803" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +56,6 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Walk_Between_Worlds_(album) |
-| Wikipedia Summary | Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple Minds, released in February 2018 by BMG. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Deluxe Edition (Fuchsia) |
 | Label          | BMG |
 | Catalog Number | 538349730 |

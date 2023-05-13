@@ -43,10 +43,12 @@ styles: ["Reggae", "Ska"]
 
 <!-- section break -->
 
-Peculiar is an album by the New York City ska band The Slackers. It was released on Hellcat Records in 2006.
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peculiar/1485051101" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peculiar/1485051101" >}}<br>
+
+
 ## Videos
 ### The Slackers - Peculiar (Full Album)
 {{< youtube id="_3IU39RVIV8" title="The Slackers - Peculiar (Full Album)" >}}<br>
@@ -58,9 +60,6 @@ Peculiar is an album by the New York City ska band The Slackers. It was released
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Peculiar_(album) |
-| Wikipedia Summary | Peculiar is an album by the New York City ska band The Slackers. It was released on Hellcat Records in 2006. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue (Blue Electric & White Galaxy), Vinyl 7" 45 RPM |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR231-1 |

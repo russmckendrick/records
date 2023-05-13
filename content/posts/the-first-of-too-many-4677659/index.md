@@ -40,9 +40,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}<br>
+
+
 ## Videos
 ### Senseless Things - Everybody's Gone
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album Limited Edition (Purple) |
 | Label          | Epic |
 | Catalog Number | 469157 1 |

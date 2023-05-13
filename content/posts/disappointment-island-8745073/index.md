@@ -35,7 +35,10 @@ styles: ["Emo", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### TTNG - Disappointment Island [Full LP] (2016)
 {{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island [Full LP] (2016)" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Emo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Sargent House |
 | Catalog Number | sh157 |

@@ -43,9 +43,13 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}
+{{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### MONSTER MAGNET - Ejection (Official Video) | Napalm Records
 {{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection (Official Video) | Napalm Records" >}}<br>
@@ -61,7 +65,6 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP (Yellow Opaque), Vinyl LP Single Sided Etched (Yellow Opaque), All Media Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 757 VINYL |

@@ -41,7 +41,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Unofficial Release (White) |
 | Label          | Coda Records Ltd |
 | Catalog Number | CLRVNY004 |

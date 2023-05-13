@@ -47,7 +47,10 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### No World for Tomorrow
 {{< youtube id="DYFVQ_o3SAQ" title="No World for Tomorrow" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2793 |

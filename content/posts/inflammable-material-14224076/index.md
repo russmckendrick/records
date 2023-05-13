@@ -43,9 +43,14 @@ styles: ["Punk"]
 <!-- section break -->
 
 Inflammable Material is the debut album by the Northern Irish punk band Stiff Little Fingers, released in 1979. Most of the album's tracks are about the "Troubles" and the grim reality of life in Northern Ireland with the songs containing themes of teenage boredom, sectarian violence, RUC (police) oppression, etc., urging people to "grab it and change it, it's yours" in what became their signature song "Alternative Ulster". The song "Rough Trade" is about the band's view of the music business as being dishonest, but they have since claimed it is not about their record label which happens to have the same name.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/inflammable-material/697417504" >}}
+{{< applemusic url="https://music.apple.com/gb/album/inflammable-material/697417504" >}}<br>
+
+
 ## Videos
 ### Suspect Device
 {{< youtube id="on6DxBgfsDY" title="Suspect Device" >}}<br>
@@ -71,8 +76,6 @@ Inflammable Material is the debut album by the Northern Irish punk band Stiff Li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Inflammable_Material |
-| Wikipedia Summary | Inflammable Material is the debut album by the Northern Irish punk band Stiff Little Fingers, released in 1979. Most of the album's tracks are about the "Troubles" and the grim reality of life in Northern Ireland with the songs containing themes of teenage boredom, sectarian violence, RUC (police) oppression, etc., urging people to "grab it and change it, it's yours" in what became their signature song "Alternative Ulster". The song "Rough Trade" is about the band's view of the music business as being dishonest, but they have since claimed it is not about their record label which happens to have the same name. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295448271 |

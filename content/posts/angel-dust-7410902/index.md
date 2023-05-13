@@ -62,9 +62,14 @@ styles: ["Alternative Rock"]
 Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more "theatrical" sound.Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. It also debuted at number 10 on the Billboard 200, making it the band's only top-ten album in the United States.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/angel-dust/184672979" >}}
+{{< applemusic url="https://music.apple.com/gb/album/angel-dust/184672979" >}}<br>
+
+
 ## Videos
 ### Faith No More - Easy
 {{< youtube id="MoE6SeSm268" title="Faith No More - Easy" >}}<br>
@@ -94,8 +99,6 @@ Angel Dust is the fourth studio album by American rock band Faith No More, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Angel_Dust_(Faith_No_More_album) |
-| Wikipedia Summary | Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more "theatrical" sound.Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. It also debuted at number 10 on the Billboard 200, making it the band's only top-ten album in the United States.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition Reissue Remastered (180 Gram) |
 | Label          | Slash |
 | Catalog Number | 0825646094608 |

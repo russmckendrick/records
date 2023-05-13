@@ -39,9 +39,12 @@ styles: ["Post Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/night-raider-remastered/1458792311" >}}
+{{< applemusic url="https://music.apple.com/gb/album/night-raider-remastered/1458792311" >}}<br>
+
+
 ## Videos
 ### Time of Ye Life / Born for Nothing / Paranoid Arm of Narcoleptic Empire (Remastered)
 {{< youtube id="I9DpYZlzc78" title="Time of Ye Life / Born for Nothing / Paranoid Arm of Narcoleptic Empire (Remastered)" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Reissue Remastered Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1031 |

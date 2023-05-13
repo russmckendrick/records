@@ -37,9 +37,14 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 <!-- section break -->
 
 There Is No Love in Fluorescent Light is the eighth studio album by Canadian band Stars. It is the follow-up album to No One Is Lost, in 2014. It was released on October 13, 2017.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/there-is-no-love-in-fluorescent-light/1267599221" >}}
+{{< applemusic url="https://music.apple.com/gb/album/there-is-no-love-in-fluorescent-light/1267599221" >}}<br>
+
+
 ## Videos
 ### Privilege
 {{< youtube id="Q1-jaX3K4Ik" title="Privilege" >}}<br>
@@ -64,8 +69,6 @@ There Is No Love in Fluorescent Light is the eighth studio album by Canadian ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/There_Is_No_Love_in_Fluorescent_Light |
-| Wikipedia Summary | There Is No Love in Fluorescent Light is the eighth studio album by Canadian band Stars. It is the follow-up album to No One Is Lost, in 2014. It was released on October 13, 2017. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Bone) |
 | Label          | Last Gang Records |
 | Catalog Number | Q101943 |

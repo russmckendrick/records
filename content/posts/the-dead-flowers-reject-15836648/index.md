@@ -39,7 +39,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition (White) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1049 |

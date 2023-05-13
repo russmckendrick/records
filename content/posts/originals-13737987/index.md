@@ -71,9 +71,15 @@ styles: ["Minneapolis Sound", "Funk"]
 <!-- section break -->
 
 When Prince died in 2016, he left behind a huge amount of unreleased music—a literal steel vault so private and tightly guarded it had to be drilled open. Following on the heels of 2018’s unprecedentedly intimate <i>Piano & a Microphone 1983</i>, <i>Originals</i> is a collection of highly polished demos for songs ultimately gifted to other artists. As exciting as it is to hear Prince's initial vision for now-ubiquitous hits like “Manic Monday” and “Nothing Compares 2 U,” the most revelatory tracks here tend to be the raunchy ones: “Sex Shooter,” originally for Apollonia 6 (“Come on, kiss the gun”); “Jungle Love,” originally for The Time (and complete with monkey-howl backing vocals); the sex-doll synth-pop of “Make-Up,” for Vanity 6. Not that it <i>isn’t</i> exciting to hear him sing “Manic Monday” (adopted by The Bangles) and “Nothing Compares 2 U” (reportedly inspired by a departed housekeeper before being rendered immortal by Sinéad O’Connor)—it is. But what better testament to Prince’s genius than his ability to lay our nastiest, basest impulses over a funk beat and elevate them to high art?
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/originals/1460319631" >}}
+{{< applemusic url="https://music.apple.com/gb/album/originals/1460319631" >}}<br>
+
+
 ## Videos
 ### Prince - Nothing Compares 2 U (Official Music Video)
 {{< youtube id="cpGA0azFdCs" title="Prince - Nothing Compares 2 U (Official Music Video)" >}}<br>
@@ -101,8 +107,6 @@ When Prince died in 2016, he left behind a huge amount of unreleased music—a l
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Originals_(Prince_album) |
-| Wikipedia Summary | Originals is a posthumous demo album by American musician Prince, released through Warner Records on June 7, 2019 (on what would have been Prince's 61st birthday), exclusively through Tidal, with a wide release following on June 21, 2019. It compiles the original demo versions of songs Prince wrote and gave to other artists. All except for Prince's recording of "Nothing Compares 2 U", which was first officially released in 2018, were previously unreleased. The demo album was met with widespread critical acclaim, and debuted at number 15 on the Billboard 200, as well as the top 10 in Belgium, Hungary, Portugal, and Switzerland. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album (Purple, 180 Gram), CD Album, All Media Deluxe Edition Limited Edition |
 | Label          | NPG Records |
 | Catalog Number | 603497851768 |

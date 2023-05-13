@@ -52,9 +52,15 @@ Clockwork Angels is the nineteenth and final studio album by Canadian rock band 
 The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. The album won the award for Rock Album of the Year at the 2013 Juno Awards.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/clockwork-angels/522093869" >}}
+{{< applemusic url="https://music.apple.com/gb/album/clockwork-angels/522093869" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,8 +70,6 @@ The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Clockwork_Angels |
-| Apple Music Summary | <i>Clockwork Angels</i> is the 20th studio album from rock’s holy triumvirate of Geddy Lee, Alex Lifeson, and Neil Peart, but it also reconfirms Rush’s 35-year-plus dedication to musical and lyrical exploration. The recipe remains the same (as the credits always note, “Music: Lee and Lifeson, Lyrics: Peart”), but the potential for ideas encased in air-guitar perfection keeps flourishing. <i>Clockwork Angels</i> is a conceptual tale about a young man’s dream quest. It involves steampunk, lost cities, pirates, a watchmaker, and more. Musically, Rush doesn't slow down. “Caravan” and “BU2B” exude a heft and dark resonance that recalls Tool. “Headlong Flight,” meanwhile, is another freewheeling Rush track, coasting on a zipline over jagged crevices with Lee as narrator, Lifeson’s careening guitar the guidance system, and Peart’s fluid percussion the accelerator pedal. |
-    | Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Roadrunner Records |
 | Catalog Number | RRCAR 7656-1 |

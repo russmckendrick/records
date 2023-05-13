@@ -104,9 +104,14 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 A milestone record of the folk-rock movement, CSN’s second album together (and their first with Y) was a virtual how-to for flower children entering adulthood in the ‘70s. It offers sweetly harmonised instruction on how to embrace domesticity (“Our House”), raise kids (“Teach Your Children”) and steer clear of trouble without selling out (“Almost Cut My Hair”). But <i>Déjà Vu</i>’s great power is its enigmatic familiarity, which carries Aquarian Age ideals into a new era (“Woodstock”, “Carry On”).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/d%C3%A9j%C3%A0-vu/321974224" >}}
+{{< applemusic url="https://music.apple.com/gb/album/d%C3%A9j%C3%A0-vu/321974224" >}}<br>
+
+
 ## Videos
 ### Deja Vu - Crosby, Stills, Nash & Young Unboxing en Español.
 {{< youtube id="LD3BaYb3RyI" title="Deja Vu - Crosby, Stills, Nash & Young Unboxing en Español." >}}<br>
@@ -118,8 +123,6 @@ A milestone record of the folk-rock movement, CSN’s second album together (and
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | A milestone record of the folk-rock movement, CSN’s second album together (and their first with Y) was a virtual how-to for flower children entering adulthood in the ‘70s. It offers sweetly harmonised instruction on how to embrace domesticity (“Our House”), raise kids (“Teach Your Children”) and steer clear of trouble without selling out (“Almost Cut My Hair”). But <i>Déjà Vu</i>’s great power is its enigmatic familiarity, which carries Aquarian Age ideals into a new era (“Woodstock”, “Carry On”). |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo, CD Album Reissue Remastered Stereo, CD 3× Stereo, Box Set Deluxe Edition (50th Anniversary) |
 | Label          | Atlantic |
 | Catalog Number | 603497848027 |

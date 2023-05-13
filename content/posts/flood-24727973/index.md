@@ -46,9 +46,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-flood-in-our-heads-ep/1169991821" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-flood-in-our-heads-ep/1169991821" >}}<br>
+
+
 ## Videos
 ### Headswim - Gone To Pot (HQ)
 {{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}<br>
@@ -63,8 +68,6 @@ Flood is the 1994 debut full-length album by the English rock band Headswim. Its
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(Headswim_album) |
-| Wikipedia Summary | Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl". |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl LP (Yellow) |
 | Label          | Epic |
 | Catalog Number | TAR055V |

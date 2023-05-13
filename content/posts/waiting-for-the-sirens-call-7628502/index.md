@@ -47,9 +47,14 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 <!-- section break -->
 
 New Order's eighth studio album offers proof that after more than two decades in the trenches, rock 'n' roll is something like second nature. Yes, <i>rock 'n' roll</i>: Just listen to the bluesy shuffle of "Working Overtime", a surprising British Invasion throwback. Elsewhere, they sound as modern as ever, with synths and dance beats driving "Krafty" and "Morning Night and Day", but the album's beefy guitars and drums are stadium-sized. Even the club-oriented "Jetstream", with its gospel-influenced vocal harmonies, sounds like they've been listening to The Rolling Stones.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/waiting-for-the-sirens-call/1041432291" >}}
+{{< applemusic url="https://music.apple.com/gb/album/waiting-for-the-sirens-call/1041432291" >}}<br>
+
+
 ## Videos
 ### New Order - Jetstream  [OFFICIAL MUSIC VIDEO]
 {{< youtube id="AhsYhd9m2Dc" title="New Order - Jetstream  [OFFICIAL MUSIC VIDEO]" >}}<br>
@@ -64,8 +69,6 @@ New Order's eighth studio album offers proof that after more than two decades in
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | New Order's eighth studio album offers proof that after more than two decades in the trenches, rock 'n' roll is something like second nature. Yes, <i>rock 'n' roll</i>: Just listen to the bluesy shuffle of "Working Overtime", a surprising British Invasion throwback. Elsewhere, they sound as modern as ever, with synths and dance beats driving "Krafty" and "Morning Night and Day", but the album's beefy guitars and drums are stadium-sized. Even the club-oriented "Jetstream", with its gospel-influenced vocal harmonies, sounds like they've been listening to The Rolling Stones. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Remastered (Gatefold, 180g) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 0825646071968 |

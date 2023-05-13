@@ -39,9 +39,15 @@ styles: ["Country Rock", "Country"]
 
 Grievous Angel is the second and final solo studio album by Gram Parsons, compiled from summer 1973 sessions and released four months after his death from a morphine and alcohol overdose in September 1973. Prominently featuring a young Emmylou Harris, Grievous Angel received great critical acclaim upon release but failed to find commercial success, a fate shared with Parsons’ previous efforts solo and with The Flying Burrito Brothers. Grievous Angel peaked at number 195 on the Billboard charts. Despite its modest sales, it is viewed as a successful example of the hybrid between country and rock and roll Parsons called "Cosmic American Music".
 It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the album was ranked number 425 on Rolling Stone magazine's list of the 500 greatest albums of all time.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}
+{{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}<br>
+
+
 ## Videos
 ### Return of the Grievous Angel (Remastered Version)
 {{< youtube id="h_Iz0iVvhEc" title="Return of the Grievous Angel (Remastered Version)" >}}<br>
@@ -59,8 +65,6 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grievous_Angel |
-| Apple Music Summary | The smartest move in the making of Gram Parson's posthumously released 1974 sophomore album is Emmylou Harris' promotion from backing singer to full-fledged duet partner—with the deliciously painful "Love Hurts" and "Hearts on Fire" immortalizing their rapport. Elvis Presley bandmembers add a barroom kick to "Ooh Las Vegas," while "Return of the Grievous Angel" and "In My Hour of Darkness" best manifest the country rocker's tragic magic. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Reprise Records |
 | Catalog Number | R1-2171 |

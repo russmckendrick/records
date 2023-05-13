@@ -52,9 +52,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-stars-the-oceans-the-moon/1313459800" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-stars-the-oceans-the-moon/1313459800" >}}<br>
+
+
 ## Videos
 ### Bring on the Dancing Horses (Transformed) (Official Audio)
 {{< youtube id="nQ1UH7k1G4k" title="Bring on the Dancing Horses (Transformed) (Official Audio)" >}}<br>
@@ -80,7 +83,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Luminous) |
 | Label          | BMG |
 | Catalog Number | 538355220 |

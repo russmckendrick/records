@@ -38,9 +38,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Stranger Heads Prevail is the second album by progressive rock band Thank You Scientist. It was released on July 29, 2016. It is the first album to feature Cody McCorry on bass and theremin and the final album to feature Odin Alvarez, Andrew Digrius, and Ellis Jasenovic on drums, trumpet, and saxophone, respectively, prior to their departure in 2017.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-heads-prevail/1617477129" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stranger-heads-prevail/1617477129" >}}<br>
+
+
 ## Videos
 ### Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]
 {{< youtube id="df6lSXzv9lI" title="Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]" >}}<br>
@@ -64,8 +69,6 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_Heads_Prevail |
-| Wikipedia Summary | Stranger Heads Prevail is the second album by progressive rock band Thank You Scientist. It was released on July 29, 2016. It is the first album to feature Cody McCorry on bass and theremin and the final album to feature Odin Alvarez, Andrew Digrius, and Ellis Jasenovic on drums, trumpet, and saxophone, respectively, prior to their departure in 2017. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Repress (Clear w/Blue Smoke) |
 | Label          | Evil Ink Records |
 | Catalog Number | EI209V |

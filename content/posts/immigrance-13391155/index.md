@@ -44,9 +44,14 @@ styles: ["Fusion"]
 <!-- section break -->
 
 The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiration from its members, sourced from all over the world. Produced by bassist-composer and founder Michael League, the richly instrumental and spiritual <i>Immigrance</i> celebrates multiculturalism and calls for a revaluing of human connection and harmony. This message resonates throughout the album’s sound palette with compositions like “Xavi”, inspired by Moroccan Chaabi groove, and the jazz-funk beat of “Bad Kids to the Back”.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/immigrance/1448116436" >}}
+{{< applemusic url="https://music.apple.com/gb/album/immigrance/1448116436" >}}<br>
+
+
 ## Videos
 ### Chonks
 {{< youtube id="tmeJsETS-Yk" title="Chonks" >}}<br>
@@ -68,8 +73,6 @@ The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiratio
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiration from its members, sourced from all over the world. Produced by bassist-composer and founder Michael League, the richly instrumental and spiritual <i>Immigrance</i> celebrates multiculturalism and calls for a revaluing of human connection and harmony. This message resonates throughout the album’s sound palette with compositions like “Xavi”, inspired by Moroccan Chaabi groove, and the jazz-funk beat of “Bad Kids to the Back”. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | GroundUP Music (2) |
 | Catalog Number | GUM0319V |

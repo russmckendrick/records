@@ -39,7 +39,10 @@ styles: ["Dance-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -48,7 +51,6 @@ styles: ["Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (White ) |
 | Label          | Not On Label (EMF Self-released) |
 | Catalog Number | EMF04 |

@@ -75,9 +75,15 @@ And to best wed those studio-polished grooves to the vibe of a tight live band t
 “I just love that song. We used to carry these huge video things around because they were big back then, and record personal stuff on tour and that. I put a little vignette together using the guys' personal footage from that time called 'For Your Eyes Only'. I don't know how to get a copy of that, but 'Calling All Nations' was one of the main pieces of music I used on it because it's just my favourite. We ended up calling the tour Calling All Nations—it was about coming down to the party.”<br />
 <b>Tiny Daggers</b>
 “I think we recorded that song in probably two days. It's pretty quick for us. We would play the last three songs on the album together live on that tour, too, so there was a bit of a race to the end. We thought we were exhausted after touring <i>Listen Like Thieves</i>, but we were <i>really</i> exhausted after touring this.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kick-remastered/1440855131" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kick-remastered/1440855131" >}}<br>
+
+
 ## Videos
 ### INXS - Need You Tonight (Official Music Video)
 {{< youtube id="F93ywiGMDnQ" title="INXS - Need You Tonight (Official Music Video)" >}}<br>
@@ -108,8 +114,6 @@ And to best wed those studio-polished grooves to the vibe of a tight live band t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kick_(INXS_album) |
-| Wikipedia Summary | Kick is the sixth studio album by Australian rock band INXS, released on 12 October 1987 through WEA in Australia, Mercury Records in Europe, and Atlantic Records in the United States and Canada. The album was produced by British producer Chris Thomas, recorded by David Nicholas in Sydney, Australia, and in Paris, France, and mixed by Bob Clearmountain at Air Studios in London.<br>The band's most successful studio album, Kick has been certified six times platinum by the RIAA and peaked at number three on the Billboard 200. The album also spawned four US top 10 singles, "New Sensation", "Never Tear Us Apart", "Devil Inside" and "Need You Tonight", the last of which reached the top of the US Billboard singles charts.<br><br> |
-    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Mercury |
 | Catalog Number | MERH 114 |

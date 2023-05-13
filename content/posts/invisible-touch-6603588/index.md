@@ -41,9 +41,15 @@ Invisible Touch is the thirteenth studio album by the English rock band Genesis,
 Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart and No. 3 on the US Billboard 200. It remains the band's highest selling album after it was certified multi-platinum for over 1.2 million copies sold in the UK and 6 million sold in the US. Genesis became the first band and foreign act to have five singles from one album reach the top five on the US Billboard Hot 100, with "Invisible Touch" being their first and only song to reach No. 1 on the charts. The album received mixed reviews upon its release and retrospectively, with its more pop-oriented approach and perceived similarities to Collins' solo work receiving both praise and criticism. In 2007, the album was re-released with new stereo and 5.1 surround sound mixes.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/invisible-touch-2007-remaster/714425692" >}}
+{{< applemusic url="https://music.apple.com/gb/album/invisible-touch-2007-remaster/714425692" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,8 +59,6 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Invisible_Touch |
-| Apple Music Summary | By the mid-'80s, it was hard to distinguish a Genesis record from a Phil Collins solo cut. <i>Invisible Touch</i> was released just a year after Collins' blockbuster <i>No Jacket Required</i>, and it plays like a sequel to that pop-rock classic. From the political "Land of Confusion" to the romantic ballad "In Too Deep" to the chart-topping pop of the title track, the album is packed with big hooks and glistening production—making for the most accessible and commercial distillation of Genesis' art-rock sound. |
-    | Release Year   | 1986                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Virgin |
 | Catalog Number | GEN LP2 |

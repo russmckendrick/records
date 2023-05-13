@@ -42,9 +42,15 @@ styles: ["Heavy Metal"]
 <!-- section break -->
 
 Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old band. Ditching Black Sabbath’s hairy stoner grooves, the singer forged a bold new approach to heavy metal, one reliant upon the classical training of his guitarist, Randy Rhoads, whose runs and compositional genius were the perfect complement to Ozzy’s meditations on paranoia, death, and sin. “Crazy Train,” “I Don’t Know,” “Mr. Crowley”—these aren’t songs so much as skillfully choreographed dances between seething dread and melodic elegance.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blizzard-of-ozz-40th-anniversary-expanded-edition/1531535089" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blizzard-of-ozz-40th-anniversary-expanded-edition/1531535089" >}}<br>
+
+
 ## Videos
 ### Mr. Crowley
 {{< youtube id="o0RE230PlX4" title="Mr. Crowley" >}}<br>
@@ -66,8 +72,6 @@ Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blizzard_of_Ozz |
-| Wikipedia Summary | Blizzard of Ozz is the debut studio album by English heavy metal vocalist Ozzy Osbourne, released on 12 September 1980 in the UK and on 27 March 1981 in the US. The album was Osbourne's first release following his firing from Black Sabbath in 1979. Blizzard of Ozz is the first of two studio albums Osbourne recorded with guitarist Randy Rhoads prior to Rhoads' death in 1982. In 2017, it was ranked 9th on Rolling Stone's list of "100 Greatest Metal Albums of All Time".<br><br> |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (Silver With Red Swirls) |
 | Label          | Epic |
 | Catalog Number | 19439812511 |

@@ -38,9 +38,13 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}
+{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### The Lost Boys (Original Soundtrack)
 {{< youtube id="raI38f_xMZE" title="The Lost Boys (Original Soundtrack)" >}}<br>
@@ -71,7 +75,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Reissue (White) |
 | Label          | Atlantic |
 | Catalog Number | 603497860630 |

@@ -43,9 +43,14 @@ styles: ["Post Rock", "Ambient"]
 <!-- section break -->
 
 All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky.  It was released February 20, 2007.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-of-a-sudden-i-miss-everyone/923356909" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-of-a-sudden-i-miss-everyone/923356909" >}}<br>
+
+
 ## Videos
 ### The Birth And Death Of The Day
 {{< youtube id="Fz-mWblMPpw" title="The Birth And Death Of The Day" >}}<br>
@@ -72,8 +77,6 @@ All of a Sudden I Miss Everyone is the fifth studio album from American post-roc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_of_a_Sudden_I_Miss_Everyone |
-| Wikipedia Summary | All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky.  It was released February 20, 2007. |
-| Release Year   | 2007                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | Temporary Residence Limited |
 | Catalog Number | trr 99 |

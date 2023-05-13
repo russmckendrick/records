@@ -38,7 +38,10 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | METROBOLIST 6 |

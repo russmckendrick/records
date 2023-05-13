@@ -41,9 +41,14 @@ styles: ["Synth-pop", "Ambient"]
 Short Stories is the debut album by Jon and Vangelis, the collaboration between Jon Anderson of the progressive rock band Yes and electronic music pioneer Vangelis. This was not the first time that the two had worked together: Vangelis had auditioned to be Rick Wakeman's replacement in Yes in 1974, but the role was given to Patrick Moraz. In 1975, Jon Anderson sang on "So Long Ago So Clear" from Heaven and Hell.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/short-stories-2016-remaster/1443103998" >}}
+{{< applemusic url="https://music.apple.com/gb/album/short-stories-2016-remaster/1443103998" >}}<br>
+
+
 ## Videos
 ### Jon and Vangelis - Short Stories: I Hear You Now
 {{< youtube id="Q-INz9nR1vg" title="Jon and Vangelis - Short Stories: I Hear You Now" >}}<br>
@@ -68,8 +73,6 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Short_Stories_(Jon_and_Vangelis_album) |
-| Wikipedia Summary | Short Stories is the debut album by Jon and Vangelis, the collaboration between Jon Anderson of the progressive rock band Yes and electronic music pioneer Vangelis. This was not the first time that the two had worked together: Vangelis had auditioned to be Rick Wakeman's replacement in Yes in 1974, but the role was given to Patrick Moraz. In 1975, Jon Anderson sang on "So Long Ago So Clear" from Heaven and Hell.<br><br> |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5030 |

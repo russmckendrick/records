@@ -40,9 +40,15 @@ Whereas Barrett had been the primary songwriter on Pink Floyd's debut album, The
 A Saucerful of Secrets reached number nine in the UK charts, but did not chart in the US until April 2019, peaking at number 158. It received mostly positive reviews, though many critics have deemed it inferior to The Piper at the Gates of Dawn.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-saucerful-of-secrets/699872176" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-saucerful-of-secrets/699872176" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - A Saucerful Of Secrets (Full Album)
 {{< youtube id="rmmuHnXLJiw" title="Pink Floyd - A Saucerful Of Secrets (Full Album)" >}}<br>
@@ -57,8 +63,6 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Saucerful_of_Secrets |
-| Apple Music Summary | On their second album, Pink Floyd shifted from quirky psych-pop to a full-on space-rock assault. <i>A Saucerful of Secrets</i> was a giant step towards the kind of cosmic exploits they'd soon be famous for. Syd Barrett ceded the spotlight to new guitarist David Gilmour, but the trippy intensity of extended tracks like the hypnotic, Eastern-tinged "Set the Controls for the Heart of the Sun" and the brain-melting avant-garde title track left no doubt that Floyd were the rulers of the acid-rock realm. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP29 |

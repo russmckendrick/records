@@ -44,9 +44,14 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 Heroes to Zeros is the third and final studio album by The Beta Band, released in 2004.  It was produced by The Beta Band and mixed by Nigel Godrich.
 The cover illustration was created by comic book writer and artist Kaare Andrews. The Beta Band logo for the album was created by comic book artist Dave McCaig, later to be reused on The Best of the Beta Band.
 The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the Banshees.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heroes-to-zeros/1339220142" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heroes-to-zeros/1339220142" >}}<br>
+
+
 ## Videos
 ### The Beta Band - 'Out-Side'
 {{< youtube id="XQceoURGvIQ" title="The Beta Band - 'Out-Side'" >}}<br>
@@ -71,8 +76,6 @@ The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heroes_to_Zeros |
-| Wikipedia Summary | Heroes to Zeros is the third and final studio album by The Beta Band, released in 2004.  It was produced by The Beta Band and mixed by Nigel Godrich.<br>The cover illustration was created by comic book writer and artist Kaare Andrews. The Beta Band logo for the album was created by comic book artist Dave McCaig, later to be reused on The Best of the Beta Band.<br>The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the Banshees. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Because Music |
 | Catalog Number | BEC5543703 |

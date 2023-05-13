@@ -50,9 +50,14 @@ styles: ["Britpop"]
 <!-- section break -->
 
 Oasis cement their place at rock’s top table with ideas as big as their tunes. Revelling in his band’s dizzying ascent, Noel Gallagher embraces Oasis’s stadium destiny by adding strings, pianos and balladry to their arsenal. “Some Might Say” and “Morning Glory” retain the invigorating roar of <i>Definitely Maybe</i> but “Wonderwall” and “Don’t Look Back In Anger” are stately singalongs to unite pub lock-ins and festival fields in “love you, mate” embraces. Accordingly, Liam Gallagher shed some of his sneer, bringing sensitivity and reflection to “Champagne Supernova”’s sunset psychedelia.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whats-the-story-morning-glory/1517447039" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whats-the-story-morning-glory/1517447039" >}}<br>
+
+
 ## Videos
 ### O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)
 {{< youtube id="b4NffykrJ6Y" title="O̲a̲sis - (W̲hat's t̲he S̲t̲ory) M̲o̲rning G̲l̲ory? (Full Album)" >}}<br>
@@ -66,8 +71,6 @@ Oasis cement their place at rock’s top table with ideas as big as their tunes.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Oasis cement their place at rock’s top table with ideas as big as their tunes. Revelling in his band’s dizzying ascent, Noel Gallagher embraces Oasis’s stadium destiny by adding strings, pianos and balladry to their arsenal. “Some Might Say” and “Morning Glory” retain the invigorating roar of <i>Definitely Maybe</i> but “Wonderwall” and “Don’t Look Back In Anger” are stately singalongs to unite pub lock-ins and festival fields in “love you, mate” embraces. Accordingly, Liam Gallagher shed some of his sneer, bringing sensitivity and reflection to “Champagne Supernova”’s sunset psychedelia. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP73 |

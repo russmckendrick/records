@@ -41,9 +41,15 @@ styles: ["Country", "Country Rock"]
 <!-- section break -->
 
 After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gram Parsons kept pushing the envelope with his solo debut. On the one hand, he continued making old-school country contemporary, whether covering the George Jones weeper "That's All It Took" or blending honky-tonk and soul on his own "Big Mouth Blues." On the other, he took the singer/songwriter path in new directions, coupling complex imagery with country arrangements on tunes like "The New Soft Shoe." The rest of the world is still playing catch-up.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gp/305092396" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gp/305092396" >}}<br>
+
+
 ## Videos
 ### Still Feeling Blue (Remastered Version)
 {{< youtube id="zmu6jygpD00" title="Still Feeling Blue (Remastered Version)" >}}<br>
@@ -67,8 +73,6 @@ After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/GP_(album) |
-| Wikipedia Summary | GP is American singer-songwriter Gram Parsons' debut solo album, and the only one released during his lifetime. It was originally released in a gatefold sleeve in 1973. GP received critical acclaim upon release, but failed to reach the Billboard charts. In the original Rolling Stone review, which individually covered both GP and its follow-up, Grievous Angel, the reviewer praises Parsons' vocals and delivery paraphrasing Gram's lyrics, "boy, but he sure can sing". |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180g, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 8122795953 |

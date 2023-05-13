@@ -35,7 +35,10 @@ styles: ["Score", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Francis Monkman - The Long Good Friday (1979) Soundtrack.
 {{< youtube id="2boaFaezG00" title="Francis Monkman - The Long Good Friday (1979) Soundtrack." >}}<br>
@@ -53,7 +56,6 @@ styles: ["Score", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP |
 | Label          | Silva Screen |
 | Catalog Number | SILLP1489 |

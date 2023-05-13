@@ -30,9 +30,12 @@ styles: ["Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/todd-rundgrens-utopia/100982409" >}}
+{{< applemusic url="https://music.apple.com/gb/album/todd-rundgrens-utopia/100982409" >}}<br>
+
+
 ## Videos
 ### UTOPIA - Todd Rundgren's Utopia -- 1974
 {{< youtube id="CO0aqSBTVJk" title="UTOPIA - Todd Rundgren's Utopia -- 1974" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1974                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Bearsville |
 | Catalog Number | K55501 |

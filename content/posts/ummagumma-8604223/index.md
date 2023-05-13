@@ -48,9 +48,15 @@ Ummagumma is the fourth album by English rock band Pink Floyd. It is a double al
 Although the album was well received at the time of release, and was a top five hit in the UK album charts, it has since been looked upon unfavourably by the band, who have expressed negative opinions about it in interviews. Nevertheless, the album has been reissued on CD several times, along with the rest of their catalogue.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ummagumma/699827490" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ummagumma/699827490" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ Although the album was well received at the time of release, and was a top five 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ummagumma |
-| Apple Music Summary | <i>Ummagumma</i> is Floyd at their most cosmically adventurous—and one of the most joyously freaky records ever released by a major label. On the live half, the band attacks already-trippy material like the swirling "Astronomy Domine" with an even more ominous, otherworldly feel. The studio recordings are solo efforts by all four band members, crafting heady prog-rock suites and mind-blowing avant-garde sound collages. In the middle sits Roger Waters' chiming "Grantchester Meadows", pointing the way to the delicate, atmospheric tunes that would become Floyd mainstays. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP4 |

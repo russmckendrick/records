@@ -46,9 +46,13 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}
+{{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### STAX DOES THE BEATLES(a few tracks)
 {{< youtube id="uKYcbGMHPAM" title="STAX DOES THE BEATLES(a few tracks)" >}}<br>
@@ -76,7 +80,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Compilation |
 | Label          | Craft Recordings |
 | Catalog Number | CR00173 |

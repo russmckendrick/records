@@ -46,9 +46,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Unbowed by the burden of expectation, the Mancunians forge new ways to groove. Despite the suffocating pressure to match a classic debut and the intra-band squabbles it caused, <i>Second Coming</i> contains premium psychedelic pop in “Ten Storey Love Song” and the spiteful “How Do You Sleep”. The band’s impulse to merge guitars and dance music into new states of bliss gets best explored here though. The techno-rock collision of “Begging You” is exhilarating and singular, while an elastic rhythm section and Ian Brown’s righteous swagger transform “Love Spreads” from a Led Zep tribute into mantric rock-funk.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/second-coming/1440870988" >}}
+{{< applemusic url="https://music.apple.com/gb/album/second-coming/1440870988" >}}<br>
+
+
 ## Videos
 ### Breaking Into Heaven
 {{< youtube id="7nu5YLoaxHc" title="Breaking Into Heaven" >}}<br>
@@ -71,8 +77,6 @@ Unbowed by the burden of expectation, the Mancunians forge new ways to groove. D
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Coming_(The_Stone_Roses_album) |
-| Wikipedia Summary | Second Coming is the second and final studio album by English rock band the Stone Roses, released through Geffen Records on 5 December 1994 in the UK. It was recorded at Forge Studios in Oswestry, Shropshire and Rockfield Studios near Monmouth in Wales between 1992 and 1994. It went platinum in the UK, sold over 1 million copies worldwide and was dedicated to Philip Hall, the band's publicist, who died of cancer in 1993. |
-    | Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Geffen Records |
 | Catalog Number | 0600753385166 |

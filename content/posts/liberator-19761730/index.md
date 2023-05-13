@@ -42,9 +42,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/liberator/728324593" >}}
+{{< applemusic url="https://music.apple.com/gb/album/liberator/728324593" >}}<br>
+
+
 ## Videos
 ### Dream Of Me (Based On Love's Theme)
 {{< youtube id="Vc-d3FGoxDI" title="Dream Of Me (Based On Love's Theme)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | EMI |
 | Catalog Number | 0602435422497 |

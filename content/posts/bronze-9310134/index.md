@@ -39,9 +39,12 @@ styles: ["Post Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bronze-deluxe-edition/1170690446" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bronze-deluxe-edition/1170690446" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - Bronze (Full Album)
 {{< youtube id="O5ka3u6su3M" title="Crippled Black Phoenix - Bronze (Full Album)" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Green) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 399LP |

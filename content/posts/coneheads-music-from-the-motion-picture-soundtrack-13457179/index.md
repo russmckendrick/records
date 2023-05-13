@@ -40,9 +40,13 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="1SWZCAejTTpS4tG3uRPqo9" width="100%" height="500" >}}
+{{< spotify type="album" id="1SWZCAejTTpS4tG3uRPqo9" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Michael Monroe feat. Slash - Magic Carpet Ride
 {{< youtube id="RWgSXpWcaZg" title="Michael Monroe feat. Slash - Magic Carpet Ride" >}}<br>
@@ -63,7 +67,6 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Record Store Day (Yellow, Translucent) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 45345-1 |

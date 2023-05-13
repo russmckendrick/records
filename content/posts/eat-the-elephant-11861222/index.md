@@ -51,9 +51,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 Eat the Elephant is the fourth studio album by American rock band A Perfect Circle. It is their first album release in fourteen years since 2004's Emotive. While early work on new material traces back to as early as 2008, years of slow progress would ensue due to conflict between the band's chief music writers, frontman Maynard James Keenan and guitarist Billy Howerdel, largely stemming from their commitments to other projects and inability to come to an agreement on the direction to take the band. Renewed focus, alongside assistance from music producer Dave Sardy, helped propel the band into much more productive sessions across 2017, with the album being completed in early 2018. Thematically, the album covers a variety of Keenan's views on modern societal, religious, and political issues, focusing on his perceived lack of accountability in humanity. Musically, the album was viewed as an extension and maturation of their rock sound, adding more piano and electronic elements into songs for a more mellow sound than prior albums.
 The album was released on April 20, 2018, after four singles were released in advance: "The Doomed" in October 2017, "Disillusioned" in January 2018, "TalkTalk" in February 2018, and "So Long, and Thanks for All the Fish" in April 2018. The album was generally well received by critics, who praised it for being a successful comeback album, and the maturation in the band's sound, though some lamented the lack of more hard rock songs from band's prior work. The album debuted at number 3 on the US Billboard 200 chart, their fourth album to debut in the top 4 of the chart, and debuted in the top 10 of eight other countries' album charts.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/eat-the-elephant/1340651075" >}}
+{{< applemusic url="https://music.apple.com/gb/album/eat-the-elephant/1340651075" >}}<br>
+
+
 ## Videos
 ### A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)
 {{< youtube id="mdcdxpn0JHY" title="A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)" >}}<br>
@@ -72,8 +78,6 @@ The album was released on April 20, 2018, after four singles were released in ad
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eat_the_Elephant |
-| Apple Music Summary | Maynard James Keenan’s rock supergroup has seriously grown up in the 14 years since their last album. The Tool frontman’s band is still angry—they’ve just found new, different ways to express it. The gargantuan riffs of APC’s past now make room for strings, piano and post-rock builds. <i>Eat the Elephant</i> is thoughtful and brooding, but still heavy as ever (tracks like “TalkTalk” would fit right in on <i>Thirteenth Step</i>). Harps and horns make slow-burning “The Contrarian” frighteningly ominous, and “So Long, and Thanks for All the Fish” sounds so uplifting it’s unsettling—but its lyrics reveal a sardonic ode to modern life, while lamenting the loss of David Bowie and other legends. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (White ) |
 | Label          | BMG |
 | Catalog Number | 538374370 |

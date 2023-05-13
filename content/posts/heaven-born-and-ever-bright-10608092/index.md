@@ -44,9 +44,14 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 <!-- section break -->
 
 Heaven Born and Ever Bright is the third studio album by British rock band Cardiacs. It was produced by Tim Smith, engineered by David Murder and mixed by both. Due to Rough Trade going bankrupt soon after the album's release, it was scarce until reissued in 1995 by the Alphabet Business Concern. This reissue was remastered and given new cover art.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heaven-born-and-ever-bright/333656477" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heaven-born-and-ever-bright/333656477" >}}<br>
+
+
 ## Videos
 ### Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)
 {{< youtube id="CQwlaMzdzl8" title="Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)" >}}<br>
@@ -69,8 +74,6 @@ Heaven Born and Ever Bright is the third studio album by British rock band Cardi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_Born_and_Ever_Bright |
-| Wikipedia Summary | Heaven Born and Ever Bright is the third studio album by British rock band Cardiacs. It was produced by Tim Smith, engineered by David Murder and mixed by both. Due to Rough Trade going bankrupt soon after the album's release, it was scarce until reissued in 1995 by the Alphabet Business Concern. This reissue was remastered and given new cover art. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP017 |

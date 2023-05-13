@@ -61,7 +61,10 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -70,7 +73,6 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Polydor |
 | Catalog Number | MQTV 1 |

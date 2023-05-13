@@ -60,9 +60,15 @@ The pulsing electronics of opener “The Same” suggest the racing hearts and t
 These aren’t exactly new themes for Yorke and it’s not a record that sits at an extreme outpost of Radiohead’s extended universe. Emboldened by Skinner’s fluid, intrepid rhythms, <i>A Light for Attracting Attention</i> draws frequently on various periods of Yorke and Greenwood’s past work. The emotional eloquence of Greenwood’s soundtrack projects resurfaces on “Speech Bubbles” and “Pana-Vision”, while Yorke’s fascination with digital reveries continues to be explored on “Open the Floodgates” and “The Same”. Elegantly cloaked in strings, “Free in the Knowledge” is a beautiful acoustic-guitar ballad in the lineage of Radiohead’s “Fake Plastic Trees” and the original live version of “True Love Waits”. Of course, lesser-trodden ground is visited, too: most intriguingly, math-rock (“Thin Thing”) and folk songs fit for a ’70s sci-fi drama (“Waving a White Flag”).
 
 The album closes with “Skrting on the Surface”, a song first aired at a 2009 show Yorke played with Atoms for Peace. With Greenwood’s guitar arpeggios and Yorke’s aching falsetto, it calls back even further to <i>The Bends</i>’ finale, “Street Spirit (Fade Out)”. However, its message about the fragility of existence—“When we realise we have only to die, then we’re out of here/We’re just skirting on the surface”—remains sharply resonant.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-light-for-attracting-attention/1616902433" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-light-for-attracting-attention/1616902433" >}}<br>
+
+
 ## Videos
 ### The Smile - The Same
 {{< youtube id="4rDaqGv4AIE" title="The Smile - The Same" >}}<br>
@@ -88,8 +94,6 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Light_for_Attracting_Attention |
-| Wikipedia Summary | A Light for Attracting Attention is the debut studio album by the English rock band the Smile. It was digitally released through XL Recordings on 13 May 2022, with a physical release on 17 June.<br>The Smile comprises the Radiohead members Thom Yorke and Jonny Greenwood with the drummer Tom Skinner. Yorke provided vocals, and he and Greenwood played guitar, bass and keyboards. The album was produced by Radiohead's longtime producer Nigel Godrich.<br>The Smile worked during the COVID-19 lockdowns and made their surprise debut in a performance streamed by Glastonbury Festival in May 2021. In early 2022, they released five singles and performed to an audience for the first time at three shows in London in January, which were livestreamed. They began an international tour in May. A Light for Attracting Attention received acclaim and reached number five on the UK Albums Chart. It was nominated for Record of the Year at the 2023 Libera Awards. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
 | Label          | XL Recordings |
 | Catalog Number | XL1196LPE |

@@ -62,9 +62,14 @@ An announcement from the official site said:
 
 Disc One is designed to sound like one evening's performance, even though the 17 tracks are selected from 10 cities, from Paris to Birmingham; Tulsa to Milan; and Atlanta to Dublin. Sonically the album is superb and has been beautifully recorded and meticulously mastered. Disc Two is a bonus compendium called TOM TALES, which is a selection of the comic bromides, strange musings, and unusual facts that Tom traditionally shares with his audience during the piano set. Waits' topics range from the ritual of insects to the last dying breath of Henry Ford.
 Prior to release, ANTI- made the first eight tracks available for free download.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/glitter-and-doom-live-remastered/1485071268" >}}
+{{< applemusic url="https://music.apple.com/gb/album/glitter-and-doom-live-remastered/1485071268" >}}<br>
+
+
 ## Videos
 ### Tom Waits - Tom Tales
 {{< youtube id="h8207Ah_yso" title="Tom Waits - Tom Tales" >}}<br>
@@ -77,8 +82,6 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glitter_and_Doom_Live |
-| Wikipedia Summary | Glitter and Doom Live is a live album by Tom Waits, by the ANTI- label on November 23, 2009. The songs were recorded during the Glitter and Doom Tour of the US and Europe in the summer of 2008.<br>An announcement from the official site said:<br><br>Disc One is designed to sound like one evening's performance, even though the 17 tracks are selected from 10 cities, from Paris to Birmingham; Tulsa to Milan; and Atlanta to Dublin. Sonically the album is superb and has been beautifully recorded and meticulously mastered. Disc Two is a bonus compendium called TOM TALES, which is a selection of the comic bromides, strange musings, and unusual facts that Tom traditionally shares with his audience during the piano set. Waits' topics range from the ritual of insects to the last dying breath of Henry Ford.<br>Prior to release, ANTI- made the first eight tracks available for free download. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Reissue Remastered |
 | Label          | Anti- |
 | Catalog Number | 7053-3 |

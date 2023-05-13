@@ -44,9 +44,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/seeking-new-gods/1554723124" >}}
+{{< applemusic url="https://music.apple.com/gb/album/seeking-new-gods/1554723124" >}}<br>
+
+
 ## Videos
 ### Gruff Rhys - Loan Your Loneliness (Official Video)
 {{< youtube id="nr3HnNMS1Cw" title="Gruff Rhys - Loan Your Loneliness (Official Video)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album (Green) |
 | Label          | Rough Trade |
 | Catalog Number | RT0127LP2 |

@@ -90,9 +90,12 @@ styles: ["Prog Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/home-invasion-in-concert-at-the-royal-albert-hall-live/1435313423" >}}
+{{< applemusic url="https://music.apple.com/gb/album/home-invasion-in-concert-at-the-royal-albert-hall-live/1435313423" >}}<br>
+
+
 ## Videos
 ### Steven Wilson - Home Invasion /Regret #9 full HD 1080p live from [Home Invasion Live 2018 BLUERAY CD
 {{< youtube id="-tajHRP9Cm8" title="Steven Wilson - Home Invasion /Regret #9 full HD 1080p live from [Home Invasion Live 2018 BLUERAY CD" >}}<br>
@@ -107,7 +110,6 @@ styles: ["Prog Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 5× LP Stereo, Box Set Album |
 | Label          | Caroline International |
 | Catalog Number | CAROL017LP |

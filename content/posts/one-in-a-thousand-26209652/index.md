@@ -36,9 +36,12 @@ styles: ["Alternative Rock", "Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}
+{{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Alternative Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition (Splatter) |
 | Label          | My Big Sister Recordings |
 | Catalog Number | none |

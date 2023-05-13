@@ -46,9 +46,14 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 4-Track Demos is an album of demos by British singer-songwriter PJ Harvey. It was released in October 1993 by Island Records. It consists of eight demos of songs from her previous album, Rid of Me, along with six demos of some unreleased tracks which never made it to release with the three-piece PJ Harvey line-up. According to interviews with Harvey, all fourteen of these songs were written and demoed at her home between mid-1991 and autumn 1992. 4-Track Demos was Harvey's first entirely self-produced album; there would not be another such until 2004's Uh Huh Her.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/4-track-demos/1443834026" >}}
+{{< applemusic url="https://music.apple.com/gb/album/4-track-demos/1443834026" >}}<br>
+
+
 ## Videos
 ### Rid Of Me (4-Track Demo Version)
 {{< youtube id="ZrRkrD8edhE" title="Rid Of Me (4-Track Demo Version)" >}}<br>
@@ -71,8 +76,6 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/4-Track_Demos |
-| Wikipedia Summary | 4-Track Demos is an album of demos by British singer-songwriter PJ Harvey. It was released in October 1993 by Island Records. It consists of eight demos of songs from her previous album, Rid of Me, along with six demos of some unreleased tracks which never made it to release with the three-piece PJ Harvey line-up. According to interviews with Harvey, all fourteen of these songs were written and demoed at her home between mid-1991 and autumn 1992. 4-Track Demos was Harvey's first entirely self-produced album; there would not be another such until 2004's Uh Huh Her.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0851113 |

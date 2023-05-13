@@ -36,9 +36,12 @@ styles: ["Acoustic", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/loss/107694351" >}}
+{{< applemusic url="https://music.apple.com/gb/album/loss/107694351" >}}<br>
+
+
 ## Videos
 ### Loss
 {{< youtube id="X7FCbmZm-1c" title="Loss" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Acoustic", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 1028 |

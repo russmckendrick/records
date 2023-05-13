@@ -36,9 +36,12 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mekanik-destruktiw-kommandoh-2017-remastered-version/1534549783" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mekanik-destruktiw-kommandoh-2017-remastered-version/1534549783" >}}<br>
+
+
 ## Videos
 ### MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)
 {{< youtube id="23k0pCLLmuE" title="MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Limited Edition Numbered Reissue (Copper, 180 g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2975 |

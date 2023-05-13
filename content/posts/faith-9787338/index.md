@@ -41,9 +41,15 @@ styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 <!-- section break -->
 
 Faith is the debut solo studio album by the English singer George Michael, released on 30 October 1987 by Columbia Records and Epic Records. In addition to playing various instruments on the album, Michael wrote and produced every track on the recording except for one, "Look at Your Hands", which he co-wrote with David Austin. A "black" inspired pop-R&B album, Faith's songs include introspective lyrics, which generated controversies about Michael's personal relationships at that time.Faith peaked at number one on the UK Albums Chart and US Billboard 200. It stayed for 51 non-consecutive weeks inside the Billboard 200 top 10, including 12 weeks at number one. It was also the first album by a white solo artist to hit number one on the Billboard Top Black Albums chart. Faith spawned four number one singles on the Billboard Hot 100: "Faith", "Father Figure", "One More Try", and "Monkey", making Michael the only British male solo artist to have four number one hits from one album on the Billboard Hot 100. Michael embarked on The Faith Tour to promote Faith in February 1988, opening at Tokyo's Budokan arena, before going on to dates in Australia, Europe and North America.Faith is one of the best-selling albums of all time, having sold over 20 million copies worldwide, and was certified Diamond by the Recording Industry Association of America in 1996. The album won several awards, including Album of the Year at the 31st Grammy Awards. Michael won three awards at the 1989 American Music Awards: Favorite Pop/Rock Male Artist, Favorite Soul/R&B Male Artist and Favorite Soul/R&B Album. He was also honoured with the MTV Video Vanguard Award. Often ranked as one of the best albums of the 1980s, Faith was ranked number 151 on Rolling Stone's list of the 500 Greatest Albums of All Time in 2020.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/faith-2010-remaster/395918916" >}}
+{{< applemusic url="https://music.apple.com/gb/album/faith-2010-remaster/395918916" >}}<br>
+
+
 ## Videos
 ### George Michael - Faith (Official Video)
 {{< youtube id="6Cs3Pvmmv0E" title="George Michael - Faith (Official Video)" >}}<br>
@@ -72,8 +78,6 @@ Faith is the debut solo studio album by the English singer George Michael, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Faith_(George_Michael_album) |
-| Apple Music Summary | You could say that George Michael’s debut solo album is about thematic freedom—a loosening of Wham!’s teen-oriented songwriting shackles and a conscious step into the seamy passions and moral complexity of adulthood. And, yes, fundamentally that checks out. From the sultry, wide-screen gospel of “Father Figure” to the grunt-laden, censor-baiting paean to monogamous desire that is “I Want Your Sex, Pts. 1 & 2”, <i>Faith</i> established a path to artistic seriousness (and, let’s be real, controversy) that many an emancipated commercial pop star went on to emulate. But this record—animated by Prince and Michael Jackson’s critically acclaimed creative breakthroughs and featuring Michael not only producing all the songs but also playing many of the instruments himself—is, in many ways, a preternaturally gifted musician rightly asking for some respect to be put on their name. “Faith” turns a spare rockabilly riff into three minutes of taut, melodic perfection, “One More Try” pairs those signature roller-coaster vocal runs with a pulsing, tear-streaked torch song, and “Hand to Mouth” shows that no one can imbue life’s grimy underbelly with yearning sumptuousness quite like George. |
-    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Album |
 | Label          | Epic |
 | Catalog Number | 460000 1 |

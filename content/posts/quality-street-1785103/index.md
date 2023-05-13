@@ -38,9 +38,12 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/quality-street/714633804" >}}
+{{< applemusic url="https://music.apple.com/gb/album/quality-street/714633804" >}}<br>
+
+
 ## Videos
 ### World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990
 {{< youtube id="itseYKke4bw" title="World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album (Gatefold Sleeve) |
 | Label          | Circa |
 | Catalog Number | CIRCA 17 |

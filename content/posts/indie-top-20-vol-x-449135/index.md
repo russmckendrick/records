@@ -51,7 +51,10 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### THE FARM - GROOVY TRAIN (TERRY FARLEY REMIX) (1990)
 {{< youtube id="fOj_zwVKY-w" title="THE FARM - GROOVY TRAIN (TERRY FARLEY REMIX) (1990)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT010 |

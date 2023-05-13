@@ -45,9 +45,12 @@ styles: ["Blues Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sittin-heavy/1600457332" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sittin-heavy/1600457332" >}}<br>
+
+
 ## Videos
 ### Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016
 {{< youtube id="EKv4MNo03zY" title="Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Blues Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album |
 | Label          | Mascot Records (2) |
 | Catalog Number | M74851 |

@@ -60,7 +60,10 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Lost Highway Soundtrack 01. I’m Deranged (Edit)
 {{< youtube id="oHxkDIvbyGg" title="Lost Highway Soundtrack 01. I’m Deranged (Edit)" >}}<br>
@@ -95,7 +98,6 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Deluxe Edition Limited Edition Numbered Reissue (Yellow With A Tip Of Black, Gatefold, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM101 |

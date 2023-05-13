@@ -44,9 +44,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 Hatful of Hollow is a compilation album by English rock band the Smiths, released on 12 November 1984 by Rough Trade Records. The album features BBC Radio 1 studio recordings and two contemporary singles with their B-sides. It was eventually released in the United States on 9 November 1993 by Sire Records, who had initially declined to release the album in the US. Sire instead released Louder Than Bombs in the US in 1987—which contains several of the same tracks as Hatful of Hollow—as well as many from the UK compilation The World Won't Listen.
 Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart for 46 weeks. In 2000, Q magazine placed the album at No. 44 on its list of the "100 Greatest British Albums Ever".
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hatful-of-hollow/799969670" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hatful-of-hollow/799969670" >}}<br>
+
+
 ## Videos
 ### The Smiths - How Soon Is Now? (Official Music Video)
 {{< youtube id="hnpILIIo9ek" title="The Smiths - How Soon Is Now? (Official Music Video)" >}}<br>
@@ -59,8 +65,6 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hatful_of_Hollow |
-| Apple Music Summary | Released just months after The Smiths’ debut album, this collection of non-LP B-sides and singles finds Morrissey and guitarist Johnny Marr brilliantly blending deceptively simple motifs with literate, trenchant lyrics. From the anthemic art-pop of “How Soon Is Now?” to the cockeyed, quasi-R&B of “This Night Has Opened My Eyes”, every song here is hummable and melancholic in equal measure. Unquenchable yearning on “Please, Please, Please Let Me Get What I Want”, the ironic narcissism of “Heaven Knows I’m Miserable Now”—the moods and themes gel effortlessly too. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl LP Compilation (180 Gram, Gat) |
 | Label          | SIRE |
 | Catalog Number | R1 45205 |

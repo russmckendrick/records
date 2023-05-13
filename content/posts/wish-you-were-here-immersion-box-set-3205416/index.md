@@ -225,7 +225,10 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### P̲ink F̲lo̲yd - W̲ish You W̲ere H̲e̲re (Full Album) 1975
 {{< youtube id="TMy_mYkwl4M" title="P̲ink F̲lo̲yd - W̲ish You W̲ere H̲e̲re (Full Album) 1975" >}}<br>
@@ -237,7 +240,6 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | CD Album Reissue Remastered Stereo, CD Remastered Stereo, DVD Multichannel NTSC Album Reissue Remastered Stereo Quadraphonic, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Album Reissue Remastered Stereo Quadraphonic Multichannel, Box Set Limited Edition |
 | Label          | EMI |
 | Catalog Number | 50999 029435 2 7 |

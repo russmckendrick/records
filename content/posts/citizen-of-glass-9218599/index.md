@@ -42,9 +42,14 @@ styles: ["Vocal", "Ballad"]
 <!-- section break -->
 
 Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again,” in the eerie celestial layers of the stately “Trojan Horses,” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes.” Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity, and privacy.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/citizen-of-glass/1132114456" >}}
+{{< applemusic url="https://music.apple.com/gb/album/citizen-of-glass/1132114456" >}}<br>
+
+
 ## Videos
 ### Agnes Obel - Stretch your Eyes (Official Audio)
 {{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes (Official Audio)" >}}<br>
@@ -66,8 +71,6 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again,” in the eerie celestial layers of the stately “Trojan Horses,” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes.” Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity, and privacy. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | [PIAS] |
 | Catalog Number | PIASR905LP |

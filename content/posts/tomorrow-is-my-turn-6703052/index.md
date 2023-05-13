@@ -52,9 +52,14 @@ styles: ["Folk", "Delta Blues"]
 <!-- section break -->
 
 Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Records released the album on February 10, 2015. She worked with T Bone Burnett in the production of this album. The album was nominated for Best Folk Album at the 58th Annual Grammy Awards. The title song is Nina Simone's English version of Charles Aznavour's 1962 hit "L'Amour, c'est comme un jour".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tomorrow-is-my-turn/940289735" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tomorrow-is-my-turn/940289735" >}}<br>
+
+
 ## Videos
 ### Rhiannon Giddens - Don't Let It Trouble Your Mind
 {{< youtube id="uQJ0ylPcUuo" title="Rhiannon Giddens - Don't Let It Trouble Your Mind" >}}<br>
@@ -78,8 +83,6 @@ Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Reco
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tomorrow_Is_My_Turn_(album) |
-| Wikipedia Summary | Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Records released the album on February 10, 2015. She worked with T Bone Burnett in the production of this album. The album was nominated for Best Folk Album at the 58th Annual Grammy Awards. The title song is Nina Simone's English version of Charles Aznavour's 1962 hit "L'Amour, c'est comme un jour". |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (140 gram), CD Album |
 | Label          | Nonesuch |
 | Catalog Number | 541708-1 |

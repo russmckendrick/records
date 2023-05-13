@@ -37,9 +37,14 @@ styles: ["Prog Rock"]
 Red is the seventh studio album by English progressive rock band King Crimson. It was released on 6 October 1974 through Island Records in the United Kingdom and Atlantic Records in North America and Japan. The album was recorded at Olympic Studios in London in July and August 1974, and produced by the band themselves. The track "Providence" was a free improvisation recorded at their 30 June 1974 concert at the Palace Theater in the city of the same name. Parts of some of the pieces were conceived during previous improvisations performed by the band live. "Starless" was originally considered for their previous album, Starless and Bible Black (1974), but was deemed incomplete at the time. The lengthy version included on this album was refined and performed during concerts throughout 1974.
 Red is a progressive rock album with a noticeably heavier sound than their previous albums; it was later called one of the 50 "heaviest albums of all time" by Q. This was achieved with the performances of just three band members: guitarist Robert Fripp, bassist and vocalist John Wetton and drummer Bill Bruford. The dense sound of the album was created by use of significant layering, multiple guitar overdubs, and key guest appearances by musicians including founding King Crimson member Ian McDonald, classical oboist Robin Miller and English jazz trumpeter Mark Charig.
 Roughly two weeks prior to the release of Red, King Crimson disbanded. The album turned out to be their lowest-charting album at that time, spending only one week in the UK Albums Chart at No. 45 and the US Billboard 200 at No. 66. However, it was well received among fans and critics. It has received further praise retrospectively, being recognised as one of the band's best works, and has been reissued many times.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/red-expanded-edition/918614446" >}}
+{{< applemusic url="https://music.apple.com/gb/album/red-expanded-edition/918614446" >}}<br>
+
+
 ## Videos
 ### King Crimson - Red (OFFICIAL)
 {{< youtube id="X_pDwv3tpug" title="King Crimson - Red (OFFICIAL)" >}}<br>
@@ -52,8 +57,6 @@ Roughly two weeks prior to the release of Red, King Crimson disbanded. The album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Red_(King_Crimson_album) |
-| Wikipedia Summary | Red is the seventh studio album by English progressive rock band King Crimson. It was released on 6 October 1974 through Island Records in the United Kingdom and Atlantic Records in North America and Japan. The album was recorded at Olympic Studios in London in July and August 1974, and produced by the band themselves. The track "Providence" was a free improvisation recorded at their 30 June 1974 concert at the Palace Theater in the city of the same name. Parts of some of the pieces were conceived during previous improvisations performed by the band live. "Starless" was originally considered for their previous album, Starless and Bible Black (1974), but was deemed incomplete at the time. The lengthy version included on this album was refined and performed during concerts throughout 1974.<br>Red is a progressive rock album with a noticeably heavier sound than their previous albums; it was later called one of the 50 "heaviest albums of all time" by Q. This was achieved with the performances of just three band members: guitarist Robert Fripp, bassist and vocalist John Wetton and drummer Bill Bruford. The dense sound of the album was created by use of significant layering, multiple guitar overdubs, and key guest appearances by musicians including founding King Crimson member Ian McDonald, classical oboist Robin Miller and English jazz trumpeter Mark Charig.<br>Roughly two weeks prior to the release of Red, King Crimson disbanded. The album turned out to be their lowest-charting album at that time, spending only one week in the UK Albums Chart at No. 45 and the US Billboard 200 at No. 66. However, it was well received among fans and critics. It has received further praise retrospectively, being recognised as one of the band's best works, and has been reissued many times. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (200-Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP7 |

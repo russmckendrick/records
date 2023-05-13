@@ -40,9 +40,12 @@ styles: ["Glam", "Pop Rock", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/changesonebowie-2016-remaster/1090470635" >}}
+{{< applemusic url="https://music.apple.com/gb/album/changesonebowie-2016-remaster/1090470635" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Glam", "Pop Rock", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Compilation Reissue (Clear, 180g) |
 | Label          | Parlophone |
 | Catalog Number | COBLP 2016 |

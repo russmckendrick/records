@@ -34,9 +34,14 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 <!-- section break -->
 
 Hot Shots II is the second studio album by the Scottish musical group The Beta Band, released on 16 July 2001. Colin "C-Swing" Emmanuel and the band co-produced the album. The band's previous work had used dense experimentation but Hot Shots II had a minimal style influenced by R&B, hip hop and electronica.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hot-shots-ii/1339241338" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hot-shots-ii/1339241338" >}}<br>
+
+
 ## Videos
 ### The Beta Band - Eclipse
 {{< youtube id="06KiM57Pvu0" title="The Beta Band - Eclipse" >}}<br>
@@ -52,8 +57,6 @@ Hot Shots II is the second studio album by the Scottish musical group The Beta B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hot_Shots_II |
-| Wikipedia Summary | Hot Shots II is the second studio album by the Scottish musical group The Beta Band, released on 16 July 2001. Colin "C-Swing" Emmanuel and the band co-produced the album. The band's previous work had used dense experimentation but Hot Shots II had a minimal style influenced by R&B, hip hop and electronica. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver) |
 | Label          | Because Music |
 | Catalog Number | BEC5543810 |

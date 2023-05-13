@@ -53,9 +53,14 @@ A.M. is the debut studio album by the American alternative rock band Wilco, rele
 Although A.M. was released before Son Volt's Trace, critical reviews were modest and initial sales were low. The album was later regarded as a "failure" by band members, as Trace was a greater success. It was the band's last album to be recorded in a purely alternative country style, as following the record the band began to expand their sound across multiple genres. It is also the only Wilco album to feature Brian Henneman of The Bottle Rockets as a lead guitarist.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/willpower-deluxe/1442258237" >}}
+{{< applemusic url="https://music.apple.com/gb/album/willpower-deluxe/1442258237" >}}<br>
+
+
 ## Videos
 ### Wilco - I Must Be High (Video)
 {{< youtube id="Fw730Mvz8o8" title="Wilco - I Must Be High (Video)" >}}<br>
@@ -74,8 +79,6 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A.M._(Wilco_album) |
-| Wikipedia Summary | A.M. is the debut studio album by the American alternative rock band Wilco, released on March 28, 1995, by Sire Records and Reprise Records. The album was released only months after the breakup of Uncle Tupelo, an alternative country band that was the predecessor of Wilco. Prior to its release, there was debate about whether the album would be better than the debut album of Son Volt, the new band of former Uncle Tupelo lead singer Jay Farrar.<br>Although A.M. was released before Son Volt's Trace, critical reviews were modest and initial sales were low. The album was later regarded as a "failure" by band members, as Trace was a greater success. It was the band's last album to be recorded in a purely alternative country style, as following the record the band began to expand their sound across multiple genres. It is also the only Wilco album to feature Brian Henneman of The Bottle Rockets as a lead guitarist.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Club Edition Reissue (Red/Tangerine, 180-gram) |
 | Label          | Nonesuch |
 | Catalog Number | 518084-1 |

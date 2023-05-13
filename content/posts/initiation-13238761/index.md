@@ -37,9 +37,14 @@ styles: ["Experimental"]
 <!-- section break -->
 
 Initiation is the sixth album by American musician Todd Rundgren, released May 23, 1975 on Bearsville Records. With this album, Rundgren fully embraced the synthesized prog sound he had begun exploring in more depth in his work with his band Utopia.  However, unlike Utopia, in which Rundgren had limited himself to playing guitar, most of the synthesizers on Initiation were played and programmed by Rundgren himself.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/initiation/1084825294" >}}
+{{< applemusic url="https://music.apple.com/gb/album/initiation/1084825294" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,8 +54,6 @@ Initiation is the sixth album by American musician Todd Rundgren, released May 2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Initiation_(Todd_Rundgren_album) |
-| Wikipedia Summary | Initiation is the sixth album by American musician Todd Rundgren, released May 23, 1975 on Bearsville Records. With this album, Rundgren fully embraced the synthesized prog sound he had begun exploring in more depth in his work with his band Utopia.  However, unlike Utopia, in which Rundgren had limited himself to playing guitar, most of the synthesizers on Initiation were played and programmed by Rundgren himself. |
-| Release Year   | 1975                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55504 |

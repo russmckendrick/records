@@ -39,9 +39,12 @@ styles: ["Country"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/midnight-at-the-movies/305368671" >}}
+{{< applemusic url="https://music.apple.com/gb/album/midnight-at-the-movies/305368671" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 160 LP |

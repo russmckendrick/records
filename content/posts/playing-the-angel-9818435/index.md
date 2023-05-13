@@ -48,9 +48,15 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 If 2001’s <i>Exciter</i> had Depeche Mode experimenting with glitches, loops, and abstractions like a goth Radiohead, <i>Playing the Angel</i> restores some of the drama and majesty of their late ’80s/early ’90s stadium years. Bruised by broken love, “Precious” suggests the towering peaks of 1990’s <i>Violator</i> while featuring one of Dave Gahan’s most emotive vocals. Thirties gospel-blues standard “John the Revelator” is covered with salacious zeal, and “Nothing’s Impossible” throbs with rare, chest-beating optimism.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/playing-the-angel-deluxe/1174247798" >}}
+{{< applemusic url="https://music.apple.com/gb/album/playing-the-angel-deluxe/1174247798" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ If 2001’s <i>Exciter</i> had Depeche Mode experimenting with glitches, loops, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Playing_the_Angel |
-| Wikipedia Summary | Playing the Angel is the eleventh studio album by English electronic music band Depeche Mode. It was first released on 17 October 2005 by Mute Records in the UK, and a day later by Sire Records and Reprise Records in the United States. It was supported by the Touring the Angel tour and the four singles "Precious", "A Pain That I'm Used To", "Suffer Well", and "John the Revelator" / "Lilian". The album reached number one in over 10 countries and entered the top 10 in the United Kingdom and United States. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Sony Music |
 | Catalog Number | 88985336991 |

@@ -51,9 +51,14 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/are-you-serious-deluxe-edition/1440954407" >}}
+{{< applemusic url="https://music.apple.com/gb/album/are-you-serious-deluxe-edition/1440954407" >}}<br>
+
+
 ## Videos
 ### Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]
 {{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]" >}}<br>
@@ -72,8 +77,6 @@ Are You Serious is the tenth solo studio album by Andrew Bird, released on April
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Are_You_Serious_(Andrew_Bird_album) |
-| Wikipedia Summary | Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Deluxe Edition (Blue, 180g), Vinyl 7" Single (Red) |
 | Label          | Loma Vista |
 | Catalog Number | LVR-39052-01 |

@@ -49,9 +49,15 @@ In 1993, alternative rock was still ruled by the brooding sounds of what we once
 Here were songs about panic attacks (“Basket Case”), poverty (“Welcome to Paradise”), and mind-destroying boredom (“Longview”) that felt not just familiar, but funny. If it was punk, it was punk not in the style of Sex Pistols but Ramones: guys whose anger was neutered by their own hilarious incompetence, whose smarts were evident in how effortlessly they played dumb. Even the album’s sober moments (“She,” “When I Come Around”) had a directness that made them feel ordinary, routine: These weren’t tortured artists mapping the rim of existential despair; they were regular dudes, walking around, hoping to burn off a little nervous energy.<br />
 Within a year, the band had gone from sharing a basement near the UC Berkeley campus (you can still see it in the “Longview” video) to sharing a Grammy—a shift that set them on the path to becoming the rabble-rousing arena act they are now, more in tune with artists like Foo Fighters and Bruce Springsteen than Dead Kennedys. (The tradeoff proved bittersweet: Purists from the Bay Area punk scene they’d helped nurture and grow wrote them off as sellouts; a piece of graffiti on the wall of the legendary Berkeley DIY space 924 Gilman Street read “Billie Joe Must Die”—all this despite the band’s sound staying pretty much the same throughout.) Snotty, charming, and lighthearted, <i>Dookie</i> was the album that put alt-rock’s feet back on the ground. 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dookie/1160081985" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dookie/1160081985" >}}<br>
+
+
 ## Videos
 ### Burnout
 {{< youtube id="XLjo0lY450c" title="Burnout" >}}<br>
@@ -79,8 +85,6 @@ Within a year, the band had gone from sharing a basement near the UC Berkeley ca
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dookie |
-| Wikipedia Summary | Dookie is the third studio album and the major label debut by American punk band Green Day, released on February 1, 1994, by Reprise Records. The band's first collaboration with producer Rob Cavallo, it was recorded in late summer 1993 at Fantasy Studios in Berkeley, California. Written mostly by frontman Billie Joe Armstrong, the album is heavily based around his personal experiences, with themes such as boredom, anxiety, relationships, and sexuality. The album was promoted with five singles: "Longview", "Basket Case", a re-recorded version of "Welcome to Paradise" (originally on their Kerplunk! album), "When I Come Around", and "She".<br>After several years of grunge's dominance in popular music, Dookie brought a livelier, more melodic rock sound to the mainstream, with unassuming lyrics that reached a universal audience and propelled Green Day to worldwide popularity. Considered one of the defining albums of the 1990s and punk rock in general, it also revived the general public's interest in the genre. The album influenced a new wave of groups associated with punk rock and pop-punk, such as Blink-182, Sum 41, Rancid, and Fall Out Boy.<br>Dookie received critical acclaim upon its release and won the band a Grammy Award for Best Alternative Album in 1995. It was also a worldwide success, reaching number two in the United States and the top five in several other countries. It was later certified diamond by the RIAA, and has sold over 20 million copies worldwide, making it the band's best-selling album and one of the best-selling albums worldwide. Regarding its legacy, Dookie has been labeled by critics and journalists as one of the greatest punk rock and pop-punk albums of all time.<br>Rolling Stone placed Dookie on three iterations of their "500 Greatest Albums of All Time" list, and at number 1 on their "50 Greatest Pop-Punk Albums" list.<br><br> |
-    | Release Year   | 2008                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49869-5 |

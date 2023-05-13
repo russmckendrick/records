@@ -41,9 +41,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/uncle-anesthesia/268500515" >}}
+{{< applemusic url="https://music.apple.com/gb/album/uncle-anesthesia/268500515" >}}<br>
+
+
 ## Videos
 ### Story Of Her Fate
 {{< youtube id="_LtDCEE8fro" title="Story Of Her Fate" >}}<br>
@@ -64,8 +69,6 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Uncle_Anesthesia |
-| Wikipedia Summary | Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour. |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP587 |

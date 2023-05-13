@@ -71,9 +71,14 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 
 Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval , released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.
 A number of guests performed on the album, including Morgan Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/casualties-of-cool-deluxe-version/865501059" >}}
+{{< applemusic url="https://music.apple.com/gb/album/casualties-of-cool-deluxe-version/865501059" >}}<br>
+
+
 ## Videos
 ### CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)
 {{< youtube id="L2avV9ZGE3A" title="CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)" >}}<br>
@@ -89,8 +94,6 @@ A number of guests performed on the album, including Morgan Ågren of Kaipa on d
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Casualties_of_Cool |
-| Wikipedia Summary | Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval , released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.<br>A number of guests performed on the album, including Morgan Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 493 |

@@ -51,7 +51,10 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### China Crisis - Jean Walks in Fresh Fields
 {{< youtube id="d7Mf_mxnsjg" title="China Crisis - Jean Walks in Fresh Fields" >}}<br>
@@ -83,7 +86,6 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (White) |
 | Label          | Ace |
 | Catalog Number | XXQLP2068W |

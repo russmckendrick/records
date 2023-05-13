@@ -51,9 +51,15 @@ Cure for Pain is the second studio album by alternative rock band Morphine, rele
 The tracks "Sheila" and "In Spite of Me" were prominently featured on the soundtrack of the 1994 independent film Spanking the Monkey. The video for "Thursday" also appeared on an episode of Beavis and Butt-head.
 The track "Buena" also appears in the first season of The Sopranos, in the Daria episode "The Teachings of Don Jake," and the barroom scene in the 1997 film Ulee's Gold.
 In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underrated '90s Alternative Rock Albums" list.As of 1995, it has sold 107,000 copies in United States and over 300,000 copies worldwide. As of 2017, combined sales of Cure for Pain and 1995's Yes are 661,000 sold copies in United States.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cure-for-pain/162448483" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cure-for-pain/162448483" >}}<br>
+
+
 ## Videos
 ### Dawna
 {{< youtube id="ca2puE1R7a8" title="Dawna" >}}<br>
@@ -79,8 +85,6 @@ In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cure_for_Pain |
-| Apple Music Summary | In the midst of the overdriven guitars that ruled college rock in the early ‘90s, Morphine emerged with a smoldering, intoxicating sound that ditched the six-strings for the tones of Mark Sandman’s two-string bass and Dana Colley’s moody saxophone riffs. The trio’s landmark 1993 album, <i>Cure for Pain</i>, ventures into sinewy blues numbers like “Buena” that showcase Sandman’s murky vocals, as well as slinking noir-jazz groovers like “Sheila,” sounding like little else from that era with its heavy, seedy atmosphere. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Blue Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1783 |

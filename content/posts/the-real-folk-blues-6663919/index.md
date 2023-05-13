@@ -37,9 +37,14 @@ styles: ["Chicago Blues"]
 <!-- section break -->
 
 The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/more-real-folk-blues/1444213729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/more-real-folk-blues/1444213729" >}}<br>
+
+
 ## Videos
 ### Howlin' Wolf - Tell Me What I've Done [HD]
 {{< youtube id="pm-v_7K66rw" title="Howlin' Wolf - Tell Me What I've Done [HD]" >}}<br>
@@ -62,8 +67,6 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Folk_Blues_(Howlin%27_Wolf_album) |
-| Wikipedia Summary | The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Dolchess |
 | Catalog Number | DOL1502H |

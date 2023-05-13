@@ -39,9 +39,15 @@ styles: ["Folk Rock", "Indie Rock"]
 <!-- section break -->
 
 Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers and pirates, Colin Meloy and company posses the most unlikely aesthetic in indie pop. But on <i>The Crane Wife</i>, the band toys with a different sort of nostalgia. A series of arena-style power chords ring out at the end of the sublime opener, "The Crane Wife 3", an oddly sequenced finale to a three-part song cycle for a Japanese folktale. Those chords presage the head-scratcher to come:  yet another themed song cycle,"The Island," nearly thirteen minutes long and enthusiastically channeling the ghosts of early Yes, Pink Floyd, even (seriously) Jethro Tull. Studded with swirling organ fills and Meloy's impassioned yips, this is prog rock at its most earnest and grandiose, and the song grows on you - as does the album's other curiosity, the Steely Dan-style white-boy funk of "The Perfect Crime". Not every song is such a departure: witness the bubbly "O Valencia", or "Yankee Bayonet", a lovely, lovelorn duet with Laura Veirs. .  <i>The Crane Wife</i> shows a band in transition: dark, brooding, and ambitious.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-crane-wife/259967897" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-crane-wife/259967897" >}}<br>
+
+
 ## Videos
 ### The Decemberists - O Valencia
 {{< youtube id="IbsHwuyfnnw" title="The Decemberists - O Valencia" >}}<br>
@@ -54,8 +60,6 @@ Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Crane_Wife |
-| Wikipedia Summary | The Crane Wife is the fourth album by The Decemberists, released in 2006. It was produced by Tucker Martine and Chris Walla, and is the band's first album on the Capitol Records label. The album was inspired by a Japanese folk tale, and centers on two song cycles, The Crane Wife and The Island, the latter inspired by William Shakespeare's The Tempest. National Public Radio listeners voted The Crane Wife the best album of 2006.The album cover was designed by the Portland artist Carson Ellis, Colin Meloy's wife, who has created artwork for each of the band's albums. |
-    | Release Year   | 2006                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Capitol Records |
 | Catalog Number | C1 0946 3 53984 1 0 |

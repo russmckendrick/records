@@ -40,9 +40,14 @@ styles: ["New Wave"]
 
 Wild Planet is the second studio album by American new wave band the B-52's, released in 1980 by Warner Bros. Records.
 As with their first album, the B-52's traveled to Compass Point Studios in the Bahamas to record Wild Planet. Several of the songs from the album had been concert staples since 1978. The band deliberately did not record them for their first album because they had too many tracks and wanted a strong second album, knowing that performing the tracks live would make fans look forward to it.Film director Gus Van Sant later referred to the song "Private Idaho" in the title of his 1991 film My Own Private Idaho and thanked the band in the film's credits, although he did not seek approval from the band to use it.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wild-planet/1442407466" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wild-planet/1442407466" >}}<br>
+
+
 ## Videos
 ### The B-52's - Private Idaho (Official Audio)
 {{< youtube id="BxHyliIspkA" title="The B-52's - Private Idaho (Official Audio)" >}}<br>
@@ -58,8 +63,6 @@ As with their first album, the B-52's traveled to Compass Point Studios in the B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wild_Planet |
-| Wikipedia Summary | Wild Planet is the second studio album by American new wave band the B-52's, released in 1980 by Warner Bros. Records.<br>As with their first album, the B-52's traveled to Compass Point Studios in the Bahamas to record Wild Planet. Several of the songs from the album had been concert staples since 1978. The band deliberately did not record them for their first album because they had too many tracks and wanted a strong second album, knowing that performing the tracks live would make fans look forward to it.Film director Gus Van Sant later referred to the song "Private Idaho" in the title of his 1991 film My Own Private Idaho and thanked the band in the film's credits, although he did not seek approval from the band to use it. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Island Records |
 | Catalog Number | 538798 0 |

@@ -53,9 +53,12 @@ styles: ["Space Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/superjudge-deluxe/1443231247" >}}
+{{< applemusic url="https://music.apple.com/gb/album/superjudge-deluxe/1443231247" >}}<br>
+
+
 ## Videos
 ### Monster Magnet - Cage Around The Sun (w/ lyrics)
 {{< youtube id="YNY0IgDOfqo" title="Monster Magnet - Cage Around The Sun (w/ lyrics)" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Space Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642450 |

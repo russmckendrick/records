@@ -41,9 +41,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/space-for-the-earth/1524291057" >}}
+{{< applemusic url="https://music.apple.com/gb/album/space-for-the-earth/1524291057" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,7 +55,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1078 |

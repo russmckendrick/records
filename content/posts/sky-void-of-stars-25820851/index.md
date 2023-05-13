@@ -74,9 +74,15 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 
 <b>“Absconder” (Bonus Track)</b>
 “I wanted to do something a little bit different from what I usually do, so I thought about the band Muse. I wanted to do something a little bit in their style. I’m not sure I succeeded, but it’s definitely something different from what Katatonia usually does. It’s a very heavy opening, and then it goes into a really nice verse that blends a lot of different stuff in there. It’s got the ethereal quality that I like, but also some really jagged parts coming out of nowhere. It’s a very happening song.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sky-void-of-stars/1647368479" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sky-void-of-stars/1647368479" >}}<br>
+
+
 ## Videos
 ### KATATONIA - Birds (Official Video) | Napalm Records
 {{< youtube id="_ILWPwc4KaY" title="KATATONIA - Birds (Official Video) | Napalm Records" >}}<br>
@@ -94,8 +100,6 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sky_Void_of_Stars |
-| Wikipedia Summary | Sky Void of Stars is the twelfth studio album by Swedish heavy metal band Katatonia. It was released on 20 January 2023 and was generally well received by critics. |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× 12" 45 RPM Album |
 | Label          | Napalm Records |
 | Catalog Number | NPR1208VINYL |

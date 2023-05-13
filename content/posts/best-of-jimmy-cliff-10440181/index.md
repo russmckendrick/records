@@ -36,9 +36,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-jimmy-cliff-1975/1488634629" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-jimmy-cliff-1975/1488634629" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Island Records |
 | Catalog Number | B0026395-01 |

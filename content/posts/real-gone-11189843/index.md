@@ -54,9 +54,14 @@ Real Gone is the sixteenth studio album by Tom Waits, released October 3, 2004 i
 The album features some of the few political songs Waits has written, the most explicit being "Day After Tomorrow", a song Waits has described as an "elliptical" protest against the Iraq War.
 It was chosen by the editors of Harp Magazine as the best album of 2004.
 A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Tom Waits and Kathleen Brennan.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/real-gone-remastered/1485070843" >}}
+{{< applemusic url="https://music.apple.com/gb/album/real-gone-remastered/1485070843" >}}<br>
+
+
 ## Videos
 ### Tom Waits - Sins of My Father
 {{< youtube id="ZG_9sonT_8k" title="Tom Waits - Sins of My Father" >}}<br>
@@ -78,8 +83,6 @@ A remixed, remastered version of the album was released by ANTI- on November 22,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Real_Gone_(album) |
-| Wikipedia Summary | Real Gone is the sixteenth studio album by Tom Waits, released October 3, 2004 in Europe, and October 5 in United States on the ANTI- label. The album was supported by the Real Gone Tour, playing sold out locations in North America and Europe in October and November 2004.<br>The album features some of the few political songs Waits has written, the most explicit being "Day After Tomorrow", a song Waits has described as an "elliptical" protest against the Iraq War.<br>It was chosen by the editors of Harp Magazine as the best album of 2004.<br>A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Tom Waits and Kathleen Brennan. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Remastered (Remixed, 180 gram) |
 | Label          | Anti- |
 | Catalog Number | 7548-1 |

@@ -52,7 +52,10 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991
 {{< youtube id="NZ_LDyvoxUY" title="The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT011 |

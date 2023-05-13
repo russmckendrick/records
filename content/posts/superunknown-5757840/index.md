@@ -59,9 +59,15 @@ styles: ["Grunge", "Alternative Rock"]
 
 Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. It is the band's second album with bassist Ben Shepherd, and features new producer Michael Beinhorn. Soundgarden began work on the album after touring in support of its previous album, Badmotorfinger (1991). Superunknown captured the heaviness of the band's earlier releases while displaying a more diverse range of influences.
 Superunknown was a critical and commercial success and became the band's breakthrough album. It debuted at number one on the Billboard 200, selling 310,000 copies in its opening week. The album also topped the Australian, Canadian, and New Zealand charts. Five singles were released from the album: "The Day I Tried to Live", "My Wave", "Fell on Black Days", "Spoonman", and "Black Hole Sun", the latter two of which won Grammy Awards and helped Soundgarden reach mainstream popularity. In 1995, the album was nominated for the Grammy Award for Best Rock Album. It has been certified six times platinum by the RIAA in the United States. Superunknown has been listed by several publications as one of the best albums of the 1990s and a quintessential grunge album. In April 2019, it was ranked No. 9 on Rolling Stone's "50 Greatest Grunge Albums" list.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/superunknown-20th-anniversary/1440811129" >}}
+{{< applemusic url="https://music.apple.com/gb/album/superunknown-20th-anniversary/1440811129" >}}<br>
+
+
 ## Videos
 ### Soundgarden - My Wave (Official Music Video)
 {{< youtube id="HEbYxEXM2cE" title="Soundgarden - My Wave (Official Music Video)" >}}<br>
@@ -80,8 +86,6 @@ Superunknown was a critical and commercial success and became the band's breakth
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Superunknown |
-| Apple Music Summary | With <i>Superunknown</i>, Soundgarden left grunge behind for good. Arriving just as Nirvana were in their death throes and Pearl Jam were becoming increasingly weary of life in the spotlight, Soundgarden’s fourth album eagerly seized the mantle for arena-ready alternative rock. From the bone-cracking thrust of “My Wave” to the Beatlesesque power ballad “Black Hole Sun” to the doomy metallic monster “4th of July”, <i>Superunknown</i> blew Soundgarden’s musical scope wide open and foregrounded their latent pop sensibility—but not at the expense of the band’s essential, mosh-pit-baiting heaviosity. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | A&M Records |
 | Catalog Number | 0602537789818 |

@@ -39,9 +39,14 @@ styles: ["Stoner Rock"]
 ...And the Circus Leaves Town is the fourth and final studio album by American stoner rock band Kyuss, released on July 11, 1995, nearly a year before their breakup. Drummer Alfredo Hernández (Yawning Man) replaces Brant Bjork, who left Kyuss in 1993. The album features a tighter and more straightforward sound, both in songwriting and production, than the band's preceding efforts. The album was not as commercially or critically successful as the previous Blues for the Red Sun and Welcome to Sky Valley. Critic Dean Brown attributes this partly to a lack of promotion and the band's breakup, but also notes that the album "deserves to be cherished as much as the two molten hot records that came right before it." A video was released for "One Inch Man", the album's only official single.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/and-the-circus-leaves-town/207914986" >}}
+{{< applemusic url="https://music.apple.com/gb/album/and-the-circus-leaves-town/207914986" >}}<br>
+
+
 ## Videos
 ### Kyuss - One Inch Man
 {{< youtube id="CAXGu81Rk1g" title="Kyuss - One Inch Man" >}}<br>
@@ -60,8 +65,6 @@ styles: ["Stoner Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/...And_the_Circus_Leaves_Town |
-| Wikipedia Summary | ...And the Circus Leaves Town is the fourth and final studio album by American stoner rock band Kyuss, released on July 11, 1995, nearly a year before their breakup. Drummer Alfredo Hernández (Yawning Man) replaces Brant Bjork, who left Kyuss in 1993. The album features a tighter and more straightforward sound, both in songwriting and production, than the band's preceding efforts. The album was not as commercially or critically successful as the previous Blues for the Red Sun and Welcome to Sky Valley. Critic Dean Brown attributes this partly to a lack of promotion and the band's breakup, but also notes that the album "deserves to be cherished as much as the two molten hot records that came right before it." A video was released for "One Inch Man", the album's only official single.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Repress (Blue Marbled, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 7559-61811-1 |

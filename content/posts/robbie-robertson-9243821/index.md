@@ -40,9 +40,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Jaime Royal "Robbie" Robertson  (born July 5, 1943) is a Canadian musician. He is best known for his work as lead guitarist and songwriter for the Band, and for his career as a solo recording artist. With the deaths of Richard Manuel in 1986, Rick Danko in 1999, and Levon Helm in 2012, Robertson is one of only two living original members of the Band, with the other being Garth Hudson.Robertson's work with the Band was instrumental in creating the Americana music genre. Robertson has been inducted into the Rock and Roll Hall of Fame and the Canadian Music Hall of Fame as a member of the Band, and has been inducted to Canada's Walk of Fame, both with the Band and on his own. He is ranked 59th in Rolling Stone magazine's list of the 100 greatest guitarists. As a songwriter, Robertson is credited for writing "The Weight", "The Night They Drove Old Dixie Down", "Up on Cripple Creek" with the Band, and had solo hits with "Broken Arrow" and "Somewhere Down the Crazy River", and many others. He has been inducted into the Canadian Songwriters Hall of Fame, and received a Lifetime Achievement Award from the National Academy of Songwriters.As a film soundtrack producer and composer, Robertson is known for his collaborations with director Martin Scorsese, which began with the rockumentary film The Last Waltz (1978), and continued through a number of dramatic films, including Raging Bull (1980), The King of Comedy (1983), Casino (1995), The Departed (2006), The Wolf of Wall Street (2013) and The Irishman (2019). He has worked on many other soundtracks for film and television.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/robbie-robertson/1442372729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/robbie-robertson/1442372729" >}}<br>
+
+
 ## Videos
 ### Robbie Robertson   Fallen Angel
 {{< youtube id="HdtAfUtOEWA" title="Robbie Robertson   Fallen Angel" >}}<br>
@@ -64,8 +69,6 @@ Jaime Royal "Robbie" Robertson  (born July 5, 1943) is a Canadian musician. He i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Robbie_Robertson |
-| Wikipedia Summary | Jaime Royal "Robbie" Robertson  (born July 5, 1943) is a Canadian musician. He is best known for his work as lead guitarist and songwriter for the Band, and for his career as a solo recording artist. With the deaths of Richard Manuel in 1986, Rick Danko in 1999, and Levon Helm in 2012, Robertson is one of only two living original members of the Band, with the other being Garth Hudson.Robertson's work with the Band was instrumental in creating the Americana music genre. Robertson has been inducted into the Rock and Roll Hall of Fame and the Canadian Music Hall of Fame as a member of the Band, and has been inducted to Canada's Walk of Fame, both with the Band and on his own. He is ranked 59th in Rolling Stone magazine's list of the 100 greatest guitarists. As a songwriter, Robertson is credited for writing "The Weight", "The Night They Drove Old Dixie Down", "Up on Cripple Creek" with the Band, and had solo hits with "Broken Arrow" and "Somewhere Down the Crazy River", and many others. He has been inducted into the Canadian Songwriters Hall of Fame, and received a Lifetime Achievement Award from the National Academy of Songwriters.As a film soundtrack producer and composer, Robertson is known for his collaborations with director Martin Scorsese, which began with the rockumentary film The Last Waltz (1978), and continued through a number of dramatic films, including Raging Bull (1980), The King of Comedy (1983), Casino (1995), The Departed (2006), The Wolf of Wall Street (2013) and The Irishman (2019). He has worked on many other soundtracks for film and television. |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 924160-1 |

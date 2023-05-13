@@ -61,9 +61,15 @@ styles: ["Thrash"]
 <!-- section break -->
 
 <i>Chaos A.D.</i> isn't just one of the decade's best metal albums; it's one of the genre's most diverse albums. When the band decamped to a remote studio in South Wales with master engineer Andy Wallace, it was intent on doing something different. A harbinger of the album’s ambitions, “Kaiowas” is a completely acoustic track recorded outdoors at a medieval Welsh castle. Even the album’s heaviest riffs display a newly enflamed confidence and sense of purpose. The brilliant opening track, “Refuse/Resist”—which functions both as a protest anthem and a visceral celebration of heavy metal—set the template for a new groove-oriented vision of violent guitar music. While many metal bands seemed as though they were out to prove they could out-rock, outpace, and out-scream every other group, <i>Chaos A.D.</i> isn't concerned about competing with its predecessors or peers. Instead, the band made an album that celebrated its personal influences, tastes, and desire for innovation. Aside from its powerful songs, this was the philosophy by which Sepultura breathed new life into notions of what heavy metal was and could be.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chaos-a-d/214479827" >}}
+{{< applemusic url="https://music.apple.com/gb/album/chaos-a-d/214479827" >}}<br>
+
+
 ## Videos
 ### Sepultura - Refuse/Resist [OFFICIAL VIDEO]
 {{< youtube id="6ODNxy3YOPU" title="Sepultura - Refuse/Resist [OFFICIAL VIDEO]" >}}<br>
@@ -79,8 +85,6 @@ styles: ["Thrash"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chaos_A.D. |
-| Wikipedia Summary | Chaos A.D. is the fifth studio album by Brazilian heavy metal band Sepultura, released in 1993 by Roadrunner Records. The album saw a stylistic departure from the band's earlier thrash metal style, by featuring a new groove metal sound. Chaos A.D. is also Sepultura's only album on Epic Records, who handled its release for North American distribution, as well as the first album to feature Paulo Jr. on bass after having played with the band in a live capacity since 1984.<br><br> |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold 180gr) |
 | Label          | Roadrunner Records |
 | Catalog Number | 081227934248 |

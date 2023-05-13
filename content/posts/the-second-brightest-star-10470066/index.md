@@ -35,9 +35,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-second-brightest-star/1252927599" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-second-brightest-star/1252927599" >}}<br>
+
+
 ## Videos
 ### Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]
 {{< youtube id="1FeatR8ZXy8" title="Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG056 |

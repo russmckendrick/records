@@ -34,9 +34,12 @@ styles: ["Synth-pop", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-deluxe-version/1631043762" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-deluxe-version/1631043762" >}}<br>
+
+
 ## Videos
 ### Carter USM - is wrestling fixed?
 {{< youtube id="37j36VPkm-w" title="Carter USM - is wrestling fixed?" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc |
 | Label          | Chrysalis |
 | Catalog Number | CHRP 1946 |

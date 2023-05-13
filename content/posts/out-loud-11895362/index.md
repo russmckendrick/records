@@ -35,9 +35,12 @@ styles: ["Soul", "Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/out-loud-live/1371582575" >}}
+{{< applemusic url="https://music.apple.com/gb/album/out-loud-live/1371582575" >}}<br>
+
+
 ## Videos
 ### Black Man In A White World (Live)
 {{< youtube id="tzGH7q9NCeU" title="Black Man In A White World (Live)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Record Store Day Limited Edition |
 | Label          | Polydor |
 | Catalog Number | 6730886 |

@@ -44,9 +44,14 @@ styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box office when there was so much going for it. Jim Henson peppered the movie with Muppets, and it featured a young and beautiful Jennifer Connelly. It also starred a Fu Manchu-by-way-of-Andy Warhol-looking David Bowie, who wrote and recorded six songs for the soundtrack. Even the Trevor Jones score is a cool mix of ‘80s-flavored synthesizers and pointed guitars. Bowie’s “Chilly Down” is sung in character as Jareth, the evil Goblin King, but it sounds like a wonderfully cartoonish mix of <i>Let’s Dance</i> and <i>Tonight</i>-era Bowie, and there’s even a rap in the middle of the tune! With “Hallucination,” Jones approximates tripping out with warbling melodies and bent strings before a very unpsychedelic saxophone slips in and straightens things out. Bowie’s “As the World Falls Down” sounds like a less-daunting version of “This Is Not America” (which he recorded a year prior for the soundtrack to <i>The Falcon and the Snowman</i>). The smooth and soulful “Underground” proves to be the standout jam.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/labyrinth-from-the-original-soundtrack-of-the/1440880284" >}}
+{{< applemusic url="https://music.apple.com/gb/album/labyrinth-from-the-original-soundtrack-of-the/1440880284" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +60,6 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box office when there was so much going for it. Jim Henson peppered the movie with Muppets, and it featured a young and beautiful Jennifer Connelly. It also starred a Fu Manchu-by-way-of-Andy Warhol-looking David Bowie, who wrote and recorded six songs for the soundtrack. Even the Trevor Jones score is a cool mix of ‘80s-flavored synthesizers and pointed guitars. Bowie’s “Chilly Down” is sung in character as Jareth, the evil Goblin King, but it sounds like a wonderfully cartoonish mix of <i>Let’s Dance</i> and <i>Tonight</i>-era Bowie, and there’s even a rap in the middle of the tune! With “Hallucination,” Jones approximates tripping out with warbling melodies and bent strings before a very unpsychedelic saxophone slips in and straightens things out. Bowie’s “As the World Falls Down” sounds like a less-daunting version of “This Is Not America” (which he recorded a year prior for the soundtrack to <i>The Falcon and the Snowman</i>). The smooth and soulful “Underground” proves to be the standout jam. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
 | Label          | EMI America |
 | Catalog Number | 00602557354843 |

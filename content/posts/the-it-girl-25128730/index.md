@@ -58,9 +58,14 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 The It Girl is the second studio album by English Britpop band Sleeper, released in May 1996 (see 1996 in music). It was their most successful album, selling over 300,000 copies in the UK alone. The album was released internationally; the US version has a different track listing along with alternative photos in the liner booklet. It was recorded in London over the winter of 1995 and 1996.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-it-girl/835855794" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-it-girl/835855794" >}}<br>
+
+
 ## Videos
 ### Shrinkwrapped - Sleeper - The It Girl
 {{< youtube id="GDqcXMQxMG0" title="Shrinkwrapped - Sleeper - The It Girl" >}}<br>
@@ -73,8 +78,6 @@ The It Girl is the second studio album by English Britpop band Sleeper, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_It_Girl_(album) |
-| Wikipedia Summary | The It Girl is the second studio album by English Britpop band Sleeper, released in May 1996 (see 1996 in music). It was their most successful album, selling over 300,000 copies in the UK alone. The album was released internationally; the US version has a different track listing along with alternative photos in the liner booklet. It was recorded in London over the winter of 1995 and 1996. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent), CD Compilation |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP29LP |

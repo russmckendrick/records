@@ -57,9 +57,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/clockwork-angels-tour-live/721246255" >}}
+{{< applemusic url="https://music.apple.com/gb/album/clockwork-angels-tour-live/721246255" >}}<br>
+
+
 
 
 ## Release Images
@@ -68,7 +71,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl LP, Vinyl LP Single Sided Etched, Box Set Album Reissue |
 | Label          | Anthem (5) |
 | Catalog Number | R1 175982 |

@@ -37,9 +37,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dove/1343422246" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dove/1343422246" >}}<br>
+
+
 ## Videos
 ### Belly: Mine (Official Video)
 {{< youtube id="PsGgcabXrpg" title="Belly: Mine (Official Video)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Yellow/Orange Splatter, Translucent) |
 | Label          | Not On Label (Belly Self-released) |
 | Catalog Number | 83774-031-I |

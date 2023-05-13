@@ -64,9 +64,15 @@ Roots is the sixth studio album by Brazilian heavy metal band Sepultura. It was 
 Following the shift to slower tempos and Latin-tinged rhythms on the album Chaos A.D., Roots delves even further into Brazilian musical textures and features significant contributions from iconic Brazilian musician Carlinhos Brown, who guided and arranged the sections throughout the album that feature ensemble percussion playing. Both in sound and overall aesthetic, Roots is also a conscious nod to Brazil's marginalized indigenous population and cultures. The song "Itsári" features a Xavante chant that re-appears on the song "Born Stubborn" and serves as a loose thematic thread for the whole album, which on the whole showcases the band's increased affinity for experimentation and collaboration.
 "Lookaway" features guest appearances by Korn vocalist Jonathan Davis, then-Korn drummer David Silveria, House of Pain/Limp Bizkit turntablist DJ Lethal, and Faith No More/Mr. Bungle vocalist Mike Patton. Riff-wise, Roots also draws influence from the then-surging nu metal movement, specifically Korn (whose first two albums were also produced by Roots producer Ross Robinson) and Deftones. After leaving the band, Max Cavalera would continue to pursue the nu metal and "world" stylings of Roots with his solo project Soulfly.
 Since its release, Roots has sold over two million copies worldwide.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roots/214473832" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roots/214473832" >}}<br>
+
+
 ## Videos
 ### Sepultura - Roots (Full Album)
 {{< youtube id="NXvPBe9ynsc" title="Sepultura - Roots (Full Album)" >}}<br>
@@ -102,8 +108,6 @@ Since its release, Roots has sold over two million copies worldwide.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roots_(Sepultura_album) |
-| Apple Music Summary | Blurring the line between mosh pits and tribal dances, <i>Roots</i> is a rush of down-tuned guitar chug, Amazonian rhythms, and industrial electronics. Mid-’90s groove metal doesn’t get any more funky or furious than “Breed Apart” and “Ratamahatta,” a riot of wildly clattering percussion with singer Max Cavalera venting volcanic anger at his government’s treatment of Brazil’s indigenous population. Sepultura team up with musicians from the Xavante tribe for “Itsari,” an enchanting foray into Brazilian folk music that speaks to the band’s grand vision. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Roadrunner Records |
 | Catalog Number | R562035 |

@@ -42,9 +42,14 @@ styles: ["Pop Rock", "AOR"]
 "Money for Nothing" is a song by British rock band Dire Straits, the second track on their fifth studio album, Brothers in Arms (1985). It was released as the album's second single on 28 June 1985 through Vertigo Records. The song's lyrics are written from the point of view of two working-class men watching music videos and commenting on what they see. The song features a guest appearance by Sting singing background vocals, providing both the signature falsetto introduction and backing chorus of "I want my MTV". The groundbreaking video was the first to be aired on MTV Europe when the network launched on 1 August 1987.It was Dire Straits' most commercially successful single, peaking at number 1 for three weeks on both the US Billboard Hot 100 and Top Rock Tracks chart and number 4 in the band's native UK. In July 1985, the month following its release, Dire Straits and Sting performed the song at Live Aid. At the 28th Annual Grammy Awards in 1986, "Money for Nothing" won Best Rock Performance by a Duo or Group with Vocal and was nominated for Record of the Year and Song of the Year as well. At the 1986 MTV Video Music Awards, the music video received 11 nominations, winning Video of the Year and Best Group Video.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/money-for-nothing-remastered-2022/1622635555" >}}
+{{< applemusic url="https://music.apple.com/gb/album/money-for-nothing-remastered-2022/1622635555" >}}<br>
+
+
 ## Videos
 ### LP Dire Straits   Money For Nothing 1988   01   Sultans Of Swing
 {{< youtube id="5LFeiIK0DGo" title="LP Dire Straits   Money For Nothing 1988   01   Sultans Of Swing" >}}<br>
@@ -69,8 +74,6 @@ styles: ["Pop Rock", "AOR"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Money_for_Nothing_(song) |
-| Wikipedia Summary | "Money for Nothing" is a song by British rock band Dire Straits, the second track on their fifth studio album, Brothers in Arms (1985). It was released as the album's second single on 28 June 1985 through Vertigo Records. The song's lyrics are written from the point of view of two working-class men watching music videos and commenting on what they see. The song features a guest appearance by Sting singing background vocals, providing both the signature falsetto introduction and backing chorus of "I want my MTV". The groundbreaking video was the first to be aired on MTV Europe when the network launched on 1 August 1987.It was Dire Straits' most commercially successful single, peaking at number 1 for three weeks on both the US Billboard Hot 100 and Top Rock Tracks chart and number 4 in the band's native UK. In July 1985, the month following its release, Dire Straits and Sting performed the song at Live Aid. At the 28th Annual Grammy Awards in 1986, "Money for Nothing" won Best Rock Performance by a Duo or Group with Vocal and was nominated for Record of the Year and Song of the Year as well. At the 1986 MTV Video Music Awards, the music video received 11 nominations, winning Video of the Year and Best Group Video.<br><br> |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Vertigo |
 | Catalog Number | VERH 64 |

@@ -41,9 +41,14 @@ styles: ["Downtempo", "Indie Rock"]
 
 Some Cities is the third studio album by the British indie rock band Doves. The album was released by Heavenly Recordings on 21 February 2005, and became the band's second consecutive album to top the UK Albums Chart at number 1. Some Cities was conceived as a rawer, stripped-down record, and conceptually touches upon the physical changes of the band's hometown of Manchester, as well as emotional transformations.
 The album features the band's second-highest charting single, "Black and White Town", which peaked at number 6 on the UK Singles Chart. Two further singles from the album—"Snowden" and "Sky Starts Falling"—also fared moderately well on the chart, peaking at number 17 and 45, respectively.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/some-cities/724424013" >}}
+{{< applemusic url="https://music.apple.com/gb/album/some-cities/724424013" >}}<br>
+
+
 ## Videos
 ### Shadows Of Salford
 {{< youtube id="LR3rHOXQeeM" title="Shadows Of Salford" >}}<br>
@@ -70,8 +75,6 @@ The album features the band's second-highest charting single, "Black and White T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Some_Cities |
-| Wikipedia Summary | Some Cities is the third studio album by the British indie rock band Doves. The album was released by Heavenly Recordings on 21 February 2005, and became the band's second consecutive album to top the UK Albums Chart at number 1. Some Cities was conceived as a rawer, stripped-down record, and conceptually touches upon the physical changes of the band's hometown of Manchester, as well as emotional transformations.<br>The album features the band's second-highest charting single, "Black and White Town", which peaked at number 6 on the UK Singles Chart. Two further singles from the album—"Snowden" and "Sky Starts Falling"—also fared moderately well on the chart, peaking at number 17 and 45, respectively. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (White) |
 | Label          | Heavenly |
 | Catalog Number | 7748265 |

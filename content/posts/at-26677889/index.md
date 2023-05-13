@@ -40,9 +40,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/at/1675919389" >}}
+{{< applemusic url="https://music.apple.com/gb/album/at/1675919389" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Stereo (Purple) |
 | Label          | Floating World |
 | Catalog Number | FWLP052 |

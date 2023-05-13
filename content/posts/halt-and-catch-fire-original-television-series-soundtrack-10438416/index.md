@@ -59,9 +59,12 @@ styles: ["Ambient", "Berlin-School", "Score"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-original-television-series-soundtrack/1141609067" >}}
+{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-original-television-series-soundtrack/1141609067" >}}<br>
+
+
 
 
 ## Release Images
@@ -70,7 +73,6 @@ styles: ["Ambient", "Berlin-School", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition (White) |
 | Label          | Fire Records |
 | Catalog Number | FROST001LP |

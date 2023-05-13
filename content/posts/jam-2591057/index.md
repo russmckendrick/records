@@ -53,9 +53,12 @@ styles: ["Soft Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/jam/1442295456" >}}
+{{< applemusic url="https://music.apple.com/gb/album/jam/1442295456" >}}<br>
+
+
 ## Videos
 ### Little Angels – Womankind
 {{< youtube id="AyqjkGLewpY" title="Little Angels – Womankind" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Soft Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1993                                   |
 | Format         | Vinyl LP Album, Vinyl 10" 33 ⅓ RPM |
 | Label          | Polydor |
 | Catalog Number | 517 676-1 |

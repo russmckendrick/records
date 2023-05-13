@@ -41,9 +41,12 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/leisure-special-edition/699689006" >}}
+{{< applemusic url="https://music.apple.com/gb/album/leisure-special-edition/699689006" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,7 +55,6 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Turquoise, 25th Anniversary Edition) |
 | Label          | Food |
 | Catalog Number | FOODLPX6 |

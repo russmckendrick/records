@@ -39,9 +39,15 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 
 Stranger in Town is the tenth studio album by American rock singer Bob Seger and his second with the Silver Bullet Band, released by Capitol Records in May 1978 (see 1978 in music). As with its predecessor, the Silver Bullet Band backed Seger on about half of the songs and the Muscle Shoals Rhythm Section backed Seger on the other half.
 The album became an instant success in the United States, being certified platinum by the Recording Industry Association of America less than a month after the album's release, and, like its predecessor Night Moves, it would later go 6× Platinum. It was also his first album to chart in the UK, where limited editions were released on silver vinyl and in picture disc format as well as standard black vinyl.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-in-town/1440888092" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stranger-in-town/1440888092" >}}<br>
+
+
 ## Videos
 ### Hollywood Nights
 {{< youtube id="UhuVwVpr3WY" title="Hollywood Nights" >}}<br>
@@ -63,8 +69,6 @@ The album became an instant success in the United States, being certified platin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_in_Town_(album) |
-| Apple Music Summary | Released on the heels of a breakthrough 1976, <i>Stranger in Town</i> marked Seger’s first album after becoming a bona fide star. Not that you’d know it outside, say, “Hollywood Nights,” which tells tale of a homesick Midwestern boy looking out at L.A. For the most part, <i>Stranger</i> sticks to the same passionate rave-ups (“Feel Like a Number,” “Old Time Rock and Roll”) and hard-bitten ballads (“Still the Same,” “Till It Shines”) that paved Seger’s road to fame in the first place—a strong but humble sound that still resonates. |
-    | Release Year   | 1982                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Capitol Records |
 | Catalog Number | EAST 11698 |

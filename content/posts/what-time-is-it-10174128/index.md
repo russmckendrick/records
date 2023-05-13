@@ -39,9 +39,14 @@ styles: ["Electro", "Soul", "Funk", "Synth-pop"]
 <!-- section break -->
 
 Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies The Time’s singular vision of Minneapolis funk. Prince produced and his fingerprints are all over the music, but “Wild and Loose” and “The Walk” are obviously the handiwork of an experienced band. Led by Morris Day, the quintet’s space-age interpretation of Motown showmanship coalesces on “Onedayi’mgonnabesomebody”. While “Gigolos Get Lonely Too” is a swooning, sassy slow jam, “777-9311” is the showstopper. Its impulsive polyrhythms are so tightly interlocked that listening to it is like peeking inside a Swiss watch.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/what-time-is-it/273890984" >}}
+{{< applemusic url="https://music.apple.com/gb/album/what-time-is-it/273890984" >}}<br>
+
+
 ## Videos
 ### The Time - What Time Is It? (1982) - A1 - Wild N' Loose
 {{< youtube id="_u148NzjYzE" title="The Time - What Time Is It? (1982) - A1 - Wild N' Loose" >}}<br>
@@ -65,8 +70,6 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies The Time’s singular vision of Minneapolis funk. Prince produced and his fingerprints are all over the music, but “Wild and Loose” and “The Walk” are obviously the handiwork of an experienced band. Led by Morris Day, the quintet’s space-age interpretation of Motown showmanship coalesces on “Onedayi’mgonnabesomebody”. While “Gigolos Get Lonely Too” is a swooning, sassy slow jam, “777-9311” is the showstopper. Its impulsive polyrhythms are so tightly interlocked that listening to it is like peeking inside a Swiss watch. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Stereo (Green vinyl) |
 | Label          | Warner Bros. Records |
 | Catalog Number | R1 23701 |

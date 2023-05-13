@@ -44,9 +44,14 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 
 Silver Sun is the debut full album by the British power pop band Silver Sun.  It was released in May 1997 on Polydor Records and was produced by Nigel Godrich.
 Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching #30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1]
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/silver-sun/1276092987" >}}
+{{< applemusic url="https://music.apple.com/gb/album/silver-sun/1276092987" >}}<br>
+
+
 ## Videos
 ### Silver Sun - Silver Sun (1997) FULL ALBUM
 {{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun (1997) FULL ALBUM" >}}<br>
@@ -62,8 +67,6 @@ Changing their name from Sun, under which their debut EP had been released, thei
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Silver_Sun_(Silver_Sun_album) |
-| Wikipedia Summary | Silver Sun is the debut full album by the British power pop band Silver Sun.  It was released in May 1997 on Polydor Records and was produced by Nigel Godrich.<br>Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching #30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1] |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Stereo (140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC919 |

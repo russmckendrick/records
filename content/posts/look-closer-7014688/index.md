@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 Bronx-born Saun & Starr are best known as backup singers for the venerable retro-soul band Sharon Jones & The Dap-Kings. This time around, with The Dap-Kings as <i>their</i> backing band, they step into the spotlight with <i>Look Closer</i>, putting a gently contemporary spin on classic soul and early funk. They preserve the loose, organic, live-band sound that makes their ancestors so irreplaceable, from mid-period Marvin Gaye (the bright and breezy “Sunshine [You’re Blowin’ My Cool]”) to the sultry, brooding sound of someone like Irma Thomas (“In the Night”).
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/look-closer/1485060275" >}}
+{{< applemusic url="https://music.apple.com/gb/album/look-closer/1485060275" >}}<br>
+
+
 ## Videos
 ### Saun & Starr Look Closer (feat. The Dap-Kings)
 {{< youtube id="fM7i9bbWrw4" title="Saun & Starr Look Closer (feat. The Dap-Kings)" >}}<br>
@@ -65,8 +70,6 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Bronx-born Saun & Starr are best known as backup singers for the venerable retro-soul band Sharon Jones & The Dap-Kings. This time around, with The Dap-Kings as <i>their</i> backing band, they step into the spotlight with <i>Look Closer</i>, putting a gently contemporary spin on classic soul and early funk. They preserve the loose, organic, live-band sound that makes their ancestors so irreplaceable, from mid-period Marvin Gaye (the bright and breezy “Sunshine [You’re Blowin’ My Cool]”) to the sultry, brooding sound of someone like Irma Thomas (“In the Night”). |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Daptone Records |
 | Catalog Number | DAP-035 |

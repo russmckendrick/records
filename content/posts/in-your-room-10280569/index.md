@@ -38,7 +38,10 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (White) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1876 |

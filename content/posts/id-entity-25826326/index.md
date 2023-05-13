@@ -41,9 +41,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/id-entity-deluxe-edition/1647627440" >}}
+{{< applemusic url="https://music.apple.com/gb/album/id-entity-deluxe-edition/1647627440" >}}<br>
+
+
 ## Videos
 ### Friend or Foe?
 {{< youtube id="-BCXXbuQHxs" title="Friend or Foe?" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (White, 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM658 |

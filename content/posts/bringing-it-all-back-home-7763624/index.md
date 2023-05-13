@@ -40,9 +40,15 @@ styles: ["Folk Rock", "Folk"]
 <!-- section break -->
 
 Bringing It All Back Home (known as Subterranean Homesick Blues in some European countries; sometimes also spelled Bringin' It All Back Home) is the fifth studio album by American singer-songwriter Bob Dylan. It was released in March 1965, by Columbia Records.The first half of the album features electric songs, followed by mainly acoustic songs in the second half. The album abandons the protest music of Dylan's previous records in favor of more surreal, complex lyrics. On side one of the original LP, Dylan is backed by an electric rock and roll band—a move that further alienated him from some of his former peers in the folk music community.The album reached No. 6 on Billboard's Pop Albums chart, the first of Dylan's LPs to break into the US top 10. It also topped the UK charts later that spring. The first track, "Subterranean Homesick Blues", became Dylan's first single to chart in the US, peaking at No. 39. Bringing It All Back Home has been described as one of the greatest albums of all time by multiple publications.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bringing-it-all-back-home/177964575" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bringing-it-all-back-home/177964575" >}}<br>
+
+
 
 
 ## Release Images
@@ -52,8 +58,6 @@ Bringing It All Back Home (known as Subterranean Homesick Blues in some European
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bringing_It_All_Back_Home |
-| Apple Music Summary | You can tell Bob Dylan knew he’d found greatness by blending folk and rock ’n’ roll. Tracks such as “Subterranean Homesick Blues” and “Maggie’s Farm” rollick, while love songs like “She Belongs to Me” still show Dylan’s capacity for tenderness, even when backed by drums and electric guitars. The “folk” tunes here are extraordinary—from the childlike wonder of “Mr. Tambourine Man” to the poignant reflection of “It’s All Over Now, Baby Blue”—Dylan’s words are more enigmatic than ever before, yet more clear-eyed and meaningful too. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Mono (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | CL 2328 |

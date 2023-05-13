@@ -76,9 +76,14 @@ styles: ["Art Rock", "Pop Rock"]
 <!-- section break -->
 
 Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/glastonbury-2000-live/1438252305" >}}
+{{< applemusic url="https://music.apple.com/gb/album/glastonbury-2000-live/1438252305" >}}<br>
+
+
 
 
 ## Release Images
@@ -88,8 +93,6 @@ Glastonbury 2000 is a live album by English musician David Bowie. It was recorde
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glastonbury_2000 |
-| Wikipedia Summary | Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 3× LP Misprint Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295570453 |

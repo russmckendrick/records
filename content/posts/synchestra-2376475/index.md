@@ -44,9 +44,12 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/synchestra/1045644245" >}}
+{{< applemusic url="https://music.apple.com/gb/album/synchestra/1045644245" >}}<br>
+
+
 ## Videos
 ### The Devin Townsend Band - Vampira Inside Out Music
 {{< youtube id="MMLXoobDKWs" title="The Devin Townsend Band - Vampira Inside Out Music" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Prog Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Brown, Gatefold, 180-Gram) |
 | Label          | Back On Black |
 | Catalog Number | BOBV246LP |

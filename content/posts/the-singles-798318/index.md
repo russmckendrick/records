@@ -61,9 +61,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-singles/1144246489" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-singles/1144246489" >}}<br>
+
+
 ## Videos
 ### Joe
 {{< youtube id="cT-uBrN6IVs" title="Joe" >}}<br>
@@ -94,7 +97,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1995                                   |
 | Format         | Vinyl 2× LP Limited Edition Compilation, Vinyl 7" 45 RPM |
 | Label          | Mute |
 | Catalog Number | MOOTEL 3 |

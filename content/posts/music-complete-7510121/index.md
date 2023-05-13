@@ -42,9 +42,14 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 <!-- section break -->
 
 Dance, it seems, can be a healer. New Order return to the propulsive modern electronica they pretty much invented on a spectacular tenth album that nimbly outmanoeuvres both the spectres of a tragic past and an acrimonious recent history. It’s their first record without founding member Peter Hook, but a handful of shrewd cameos (notably Iggy Pop’s rumbling monologue on the sparse, spooky “Stray Dog”) add to the feel of cathartic, communal celebration. Expect to fall hard for “Singularity”, which rolls back the years to reverberate with the urgent majesty of a packed Hacienda.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-complete/1003724995" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-complete/1003724995" >}}<br>
+
+
 ## Videos
 ### New Order - Singularity (Official Music Video)
 {{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}<br>
@@ -56,8 +61,6 @@ Dance, it seems, can be a healer. New Order return to the propulsive modern elec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Dance, it seems, can be a healer. New Order return to the propulsive modern electronica they pretty much invented on a spectacular tenth album that nimbly outmanoeuvres both the spectres of a tragic past and an acrimonious recent history. It’s their first record without founding member Peter Hook, but a handful of shrewd cameos (notably Iggy Pop’s rumbling monologue on the sparse, spooky “Stray Dog”) add to the feel of cathartic, communal celebration. Expect to fall hard for “Singularity”, which rolls back the years to reverberate with the urgent majesty of a packed Hacienda. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Mute |
 | Catalog Number | STUMM390 |

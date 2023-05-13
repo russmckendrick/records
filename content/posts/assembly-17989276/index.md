@@ -62,9 +62,12 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/assembly/1550840015" >}}
+{{< applemusic url="https://music.apple.com/gb/album/assembly/1550840015" >}}<br>
+
+
 ## Videos
 ### Joe Strummer - Junco Partner (Acoustic) [Official Video]
 {{< youtube id="V1hsbEUfif8" title="Joe Strummer - Junco Partner (Acoustic) [Official Video]" >}}<br>
@@ -80,7 +83,6 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered (Red, 180 Gr) |
 | Label          | Dark Horse Records |
 | Catalog Number | DH0002 |

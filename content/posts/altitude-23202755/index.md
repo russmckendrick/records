@@ -96,9 +96,15 @@ styles: ["Acoustic", "Soft Rock"]
 
 <b>“Lapwing”</b>
 “It’s named after a lapwing plover, which is a bird. They’re the birds that swoop you and have spikes on their wings, and they have this really strange call. If you listen carefully there are some bird calls from the lapwing plover at the start of the track. The bird it’s named after doesn’t have anything to do with the lyrics. Baden’s themes are lust and strong sexual connection and desire. We had a little drum loop we recorded; we’d never done that before. Tom recorded all his parts and then we messed it up in the studio and it plays on top of his natural drumming for the whole song. We wanted to experiment and take our music in a different direction.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/low-altitude-living/1638690759" >}}
+{{< applemusic url="https://music.apple.com/gb/album/low-altitude-living/1638690759" >}}<br>
+
+
 ## Videos
 ### Alt - Favourite Girl
 {{< youtube id="-vjGteVwIM8" title="Alt - Favourite Girl" >}}<br>
@@ -113,8 +119,6 @@ styles: ["Acoustic", "Soft Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Altitude_(ALT_album) |
-| Wikipedia Summary | Altitude was the only studio album to date released by ALT, the grouping of Tim Finn, Andy White & Liam O'Moanlai. Also released was a live recording simply called Bootleg. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition Reissue Remastered Stereo |
 | Label          | Needle Mythology |
 | Catalog Number | NEMYLP010 |

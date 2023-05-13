@@ -44,9 +44,14 @@ styles: ["Blues Rock"]
 
 White Bear is the second studio album by British rock band the Temperance Movement.
 The album was produced in 2015 and released on 15 January 2016.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/white-bear/1037063159" >}}
+{{< applemusic url="https://music.apple.com/gb/album/white-bear/1037063159" >}}<br>
+
+
 ## Videos
 ### The Temperance Movement - Three Bulleits (Official Audio)
 {{< youtube id="Cv2qj9Vm7uo" title="The Temperance Movement - Three Bulleits (Official Audio)" >}}<br>
@@ -69,8 +74,6 @@ The album was produced in 2015 and released on 15 January 2016.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/White_Bear_(album) |
-| Wikipedia Summary | White Bear is the second studio album by British rock band the Temperance Movement.<br>The album was produced in 2015 and released on 15 January 2016. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Stereo (White) |
 | Label          | Earache |
 | Catalog Number | MOSH556LP |

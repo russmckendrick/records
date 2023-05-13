@@ -140,7 +140,10 @@ styles: ["Soul"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### I've Got Dreams to Remember
 {{< youtube id="MOwNCKZeNOE" title="I've Got Dreams to Remember" >}}<br>
@@ -155,7 +158,6 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Box Set Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 563422 |

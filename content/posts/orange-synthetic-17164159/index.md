@@ -35,9 +35,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/orange-synthetic/1536139108" >}}
+{{< applemusic url="https://music.apple.com/gb/album/orange-synthetic/1536139108" >}}<br>
+
+
 ## Videos
 ### Orange Synthetic
 {{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Klove |
 | Catalog Number | KLOVE 2VA |

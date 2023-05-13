@@ -45,9 +45,15 @@ Tapestry is the second studio album by American singer-songwriter Carole King, r
 Tapestry has been certified 14× Platinum by the Recording Industry Association of America in the US, and has sold an estimated 25 million copies worldwide, making it one of the best-selling albums of all time. In 2000, it attained number 74 in Colin Larkin's All Time Top 1000 Albums, and in 2020, it was ranked number 25 on Rolling Stone's list of the 500 greatest albums of all time. Tapestry won four Grammy Awards, including Album of the Year, Song of the Year and Record of the Year.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tapestry/747087657" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tapestry/747087657" >}}<br>
+
+
 ## Videos
 ### Carole King - I Feel the Earth Move (Official Audio)
 {{< youtube id="6913KnbMpHM" title="Carole King - I Feel the Earth Move (Official Audio)" >}}<br>
@@ -72,8 +78,6 @@ Tapestry has been certified 14× Platinum by the Recording Industry Association 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album) |
-| Apple Music Summary | Difficult as it may be, imagine for a minute that <i>Tapestry</i> wasn’t one of the most successful albums in music history; that it wasn’t a defining touchstone for both the boomer generation and the singer/songwriter movement. Freed from all the baggage, Carole King’s second album <i>still</i> overflows with emotionally honest, subtly soulful singing; masterfully written tunes that blend pop, folk, and R&B; and warm, organic but seamless production. But it’s the unguarded intimacy of <i>Tapestry</i> we love most, particularly on highlights like “It’s Too Late” and “You’ve Got a Friend." |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 g) |
 | Label          | Ode Records (2) |
 | Catalog Number | 88875170161 |

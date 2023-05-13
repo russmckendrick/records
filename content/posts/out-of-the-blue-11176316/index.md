@@ -45,9 +45,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 <!-- section break -->
 
 Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 28 October 1977. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/out-of-the-blue/1054525002" >}}
+{{< applemusic url="https://music.apple.com/gb/album/out-of-the-blue/1054525002" >}}<br>
+
+
 ## Videos
 ### E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977
 {{< youtube id="2f9CoaIH9FE" title="E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977" >}}<br>
@@ -69,8 +74,6 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_the_Blue_(Electric_Light_Orchestra_album) |
-| Wikipedia Summary | Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 28 October 1977. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue Stereo |
 | Label          | Sony Music |
 | Catalog Number | 88985456161 |

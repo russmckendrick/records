@@ -66,9 +66,14 @@ Rush in Rio is a three-disc live album by Canadian band Rush, released on Octobe
 The DVD has been certified 7× Platinum by the R.I.A.A. in the US with over 700,000 copies sold as of September 2010. The track "O Baterista"  was nominated for a Grammy Award for Best Rock Instrumental Performance in 2005, but lost to Brian Wilson's "Mrs. O'Leary's Cow".
 Rush in Rio was the first live album released by the band to not follow the pattern of releasing a live album after every four studio releases and was also the first to feature a complete setlist without any changes in song order, including Neil Peart's drum solo. It is also the band's first live album that presents a single night's performance in its entirety (not counting the two bonus tracks). In an interview about the album and DVD, Alex Lifeson and James "Jimbo" Barton noted that it took an extended amount of time to mix the sound. This was due to technical difficulties of recording the audio on primitive equipment.
 At this concert, Rush played to 40,000, their second-largest crowd on the Vapor Trails Tour (the largest crowd was 60,000 at the show the previous night in São Paulo). In a rare departure from the band's practice of re-creating the sound of their studio work when playing live, the song "Resist" (on disc 2) was rearranged into a stripped-down acoustic version between Lifeson and Geddy Lee, with Peart sitting out after his drum solo.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rush-in-rio-live/5305450" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rush-in-rio-live/5305450" >}}<br>
+
+
 
 
 ## Release Images
@@ -78,8 +83,6 @@ At this concert, Rush played to 40,000, their second-largest crowd on the Vapor 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rush_in_Rio |
-| Wikipedia Summary | Rush in Rio is a three-disc live album by Canadian band Rush, released on October 21, 2003. The album is also available as a two DVD set. With the exception of the last two tracks on the third disc, the album was recorded at Maracanã Stadium in Rio de Janeiro on the final night of the Vapor Trails Tour. The other two tracks were taken from previous shows on the same tour. "Between Sun & Moon" was recorded at the Cricket Wireless Pavilion, Phoenix, Arizona, on September 27, 2002, and "Vital Signs" was recorded at the Colisée Pepsi, Quebec City, Quebec, on October 19, 2002.<br>The DVD has been certified 7× Platinum by the R.I.A.A. in the US with over 700,000 copies sold as of September 2010. The track "O Baterista"  was nominated for a Grammy Award for Best Rock Instrumental Performance in 2005, but lost to Brian Wilson's "Mrs. O'Leary's Cow".<br>Rush in Rio was the first live album released by the band to not follow the pattern of releasing a live album after every four studio releases and was also the first to feature a complete setlist without any changes in song order, including Neil Peart's drum solo. It is also the band's first live album that presents a single night's performance in its entirety (not counting the two bonus tracks). In an interview about the album and DVD, Alex Lifeson and James "Jimbo" Barton noted that it took an extended amount of time to mix the sound. This was due to technical difficulties of recording the audio on primitive equipment.<br>At this concert, Rush played to 40,000, their second-largest crowd on the Vapor Trails Tour (the largest crowd was 60,000 at the show the previous night in São Paulo). In a rare departure from the band's practice of re-creating the sound of their studio work when playing live, the song "Resist" (on disc 2) was rearranged into a stripped-down acoustic version between Lifeson and Geddy Lee, with Peart sitting out after his drum solo. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 4× LP Album (180g) |
 | Label          | Atlantic |
 | Catalog Number | R1 83672 |

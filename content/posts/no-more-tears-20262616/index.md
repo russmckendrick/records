@@ -45,9 +45,14 @@ styles: ["Heavy Metal", "Hard Rock"]
 <!-- section break -->
 
 "No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album of the same name. With a running time of 7:23, it is the longest solo song that Osbourne has ever recorded on a studio album. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-more-tears-30th-anniversary-expanded-edition/1585398360" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-more-tears-30th-anniversary-expanded-edition/1585398360" >}}<br>
+
+
 ## Videos
 ### OZZY OSBOURNE - No More Tears (Official Video)
 {{< youtube id="CprfjfN5PRs" title="OZZY OSBOURNE - No More Tears (Official Video)" >}}<br>
@@ -62,8 +67,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_More_Tears_(Ozzy_Osbourne_song) |
-| Wikipedia Summary | "No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album of the same name. With a running time of 7:23, it is the longest solo song that Osbourne has ever recorded on a studio album. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Epic |
 | Catalog Number | 19439877271 |

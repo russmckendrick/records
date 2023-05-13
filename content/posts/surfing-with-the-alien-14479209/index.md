@@ -64,9 +64,14 @@ styles: []
 Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/surfing-with-the-alien/405602019" >}}
+{{< applemusic url="https://music.apple.com/gb/album/surfing-with-the-alien/405602019" >}}<br>
+
+
 ## Videos
 ### Joe Satriani – Surfing With The Alien
 {{< youtube id="JeUPSYrVP1w" title="Joe Satriani – Surfing With The Alien" >}}<br>
@@ -99,8 +104,6 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Surfing_with_the_Alien |
-| Wikipedia Summary | Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (Red), Vinyl LP Album Mixed (Yellow), All Media Limited Edition Reissue Special Edition (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 19075978611 |

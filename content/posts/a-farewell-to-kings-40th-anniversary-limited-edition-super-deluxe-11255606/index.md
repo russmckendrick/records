@@ -94,7 +94,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -103,7 +106,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Box Set Deluxe Edition Limited Edition, Vinyl 4× LP (180 Gram), CD 3× Deluxe Edition, Blu-ray Blu-ray Audio Stereo Multichannel |
 | Label          | Anthem (5) |
 | Catalog Number | B0027243-80 |

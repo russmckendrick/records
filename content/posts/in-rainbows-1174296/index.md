@@ -49,9 +49,15 @@ Radiohead self-released In Rainbows online and allowed fans to set their own pri
 Radiohead promoted In Rainbows with webcasts, music videos, competitions and a worldwide tour. "Jigsaw Falling into Place" and "Nude" were released as singles; "Nude" became Radiohead's first US top-40 song since their debut single "Creep" (1992). The retail release of In Rainbows topped the UK Albums Chart and the US Billboard 200, and by October 2008 it had sold over three million copies worldwide. It was the bestselling vinyl record of 2008, and is certified platinum in the UK and Canada and gold in the US, Belgium and Japan. In Rainbows received acclaim, winning Grammy Awards for Best Alternative Music Album and Best Boxed or Special Limited Edition Package, and was ranked one of the best albums of the year and the decade by various publications. Rolling Stone included In Rainbows in its updated lists of the 500 Greatest Albums of All Time.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-rainbows/1109714933" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-rainbows/1109714933" >}}<br>
+
+
 
 
 ## Release Images
@@ -61,8 +67,6 @@ Radiohead promoted In Rainbows with webcasts, music videos, competitions and a w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Rainbows |
-| Apple Music Summary | Love and melody return as Radiohead hit a fine balance between adventure and warmth. With no label to please and a pay-what-you-want purchase model planned, <i>In Rainbows</i> was free to be wilfully avant garde. Instead, amid plenty of rhythmic and electronic flourishes, the band re-engage with tunes and guitars, framing emotional intensity within straightforward rock (“Bodysnatchers”) and gently burning love songs that are artful without being oblique (“All I Need”, “House of Cards”). Of course, the love Thom Yorke sings of is darkly complicated but it’s satisfying to hear his aching falsetto at the fore again. |
-    | Release Year   | 2007                                   |
 | Format         | Vinyl LP Album (180g) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 324 |

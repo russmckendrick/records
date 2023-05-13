@@ -90,9 +90,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink Floyd. It is a live recording of Pink Floyd's 1979 rock opera The Wall.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roger-waters-the-wall/1042853859" >}}
+{{< applemusic url="https://music.apple.com/gb/album/roger-waters-the-wall/1042853859" >}}<br>
+
+
 ## Videos
 ### ROGER WATERS - The Happiest Days of Our Lives/Another Brick in The Wall part 2-ASSAGO 4 aprile 2011
 {{< youtube id="qTNCXPY7e5Y" title="ROGER WATERS - The Happiest Days of Our Lives/Another Brick in The Wall part 2-ASSAGO 4 aprile 2011" >}}<br>
@@ -113,8 +118,6 @@ Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roger_Waters:_The_Wall_(album) |
-| Wikipedia Summary | Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink Floyd. It is a live recording of Pink Floyd's 1979 rock opera The Wall. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 3× LP Album (Tri-Fold, 180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875155411 |

@@ -49,9 +49,12 @@ styles: ["Punk", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/when-god-was-great/1553943817" >}}
+{{< applemusic url="https://music.apple.com/gb/album/when-god-was-great/1553943817" >}}<br>
+
+
 ## Videos
 ### The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING
 {{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Red With Yellow Splatter) |
 | Label          | Hellcat Records |
 | Catalog Number | 0539-1 |

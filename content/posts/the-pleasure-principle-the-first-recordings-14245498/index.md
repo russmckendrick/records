@@ -46,9 +46,12 @@ styles: ["New Wave", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-the-first-recordings/1481785089" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-the-first-recordings/1481785089" >}}<br>
+
+
 ## Videos
 ### Cars (Demo Version 2)
 {{< youtube id="K83As_YKLac" title="Cars (Demo Version 2)" >}}<br>
@@ -81,7 +84,6 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Stereo (Orange) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2158LP |

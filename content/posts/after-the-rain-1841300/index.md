@@ -36,9 +36,14 @@ styles: ["Hard Rock", "Pop Rock"]
 <!-- section break -->
 
 After the Rain is the debut album of the American rock group Nelson, released by DGC Records in 1990. The album was a commercial success, peaking at number 17 on the Billboard 200 and spending 64 weeks on the charts. It contained the #1 hit, "(Can't Live Without Your) Love and Affection" which was also a gold single. The follow-up single, "After the Rain", also reached the Hot 100's top 10, peaking at #6 in February 1991. The album was eventually certified double platinum by RIAA.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/after-the-rain-remastered/1443313013" >}}
+{{< applemusic url="https://music.apple.com/gb/album/after-the-rain-remastered/1443313013" >}}<br>
+
+
 ## Videos
 ### Nelson – I Can Hardly Wait
 {{< youtube id="Nq4X0R7_FKc" title="Nelson – I Can Hardly Wait" >}}<br>
@@ -56,8 +61,6 @@ After the Rain is the debut album of the American rock group Nelson, released by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/After_the_Rain_(Nelson_album) |
-| Wikipedia Summary | After the Rain is the debut album of the American rock group Nelson, released by DGC Records in 1990. The album was a commercial success, peaking at number 17 on the Billboard 200 and spending 64 weeks on the charts. It contained the #1 hit, "(Can't Live Without Your) Love and Affection" which was also a gold single. The follow-up single, "After the Rain", also reached the Hot 100's top 10, peaking at #6 in February 1991. The album was eventually certified double platinum by RIAA. |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | DGC |
 | Catalog Number | 7599-24290-1 |

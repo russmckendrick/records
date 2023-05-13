@@ -37,7 +37,12 @@ styles: ["Folk Rock", "Country Rock"]
 <!-- section break -->
 
 Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Victoria Williams - Tarbelly & Featherfoot
 {{< youtube id="YFC00BJ8mLQ" title="Victoria Williams - Tarbelly & Featherfoot" >}}<br>
@@ -54,8 +59,6 @@ Swing the Statue! is the second album by American singer/songwriter Victoria Wil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Swing_the_Statue! |
-| Wikipedia Summary | Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records. |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | Rough Trade |
 | Catalog Number | Rough US 50 |

@@ -70,9 +70,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/star/1450116246" >}}
+{{< applemusic url="https://music.apple.com/gb/album/star/1450116246" >}}<br>
+
+
 ## Videos
 ### Belly - Someone To Die For
 {{< youtube id="B8w0B0EKy_4" title="Belly - Someone To Die For" >}}<br>
@@ -100,7 +103,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Remastered (White Marbled), CD Album, All Media Limited Edition Reissue |
 | Label          | 4AD |
 | Catalog Number | DAD 3002 |

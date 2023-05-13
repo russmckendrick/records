@@ -46,9 +46,15 @@ styles: ["Alternative Rock", "Grunge"]
 The year 1994 signaled grunge’s last grunt as the dominant sound of alterna-teen culture. While Soundgarden enjoyed their first No. 1 record with <i>Superunknown</i>, Pearl Jam were actively avoiding MTV to deflate their own hype and the Nirvana saga came to a tragic end. But where Stone Temple Pilots’ 1992 debut, <i>Core</i>, presented the San Diego upstarts as eager shotgun riders on the grunge wave, their 1994 follow-up savvily anticipated the changing cultural tides by looking beyond Seattle for inspiration.<br />
 <i>Purple</i> hardly skimps on the hard-rock swagger that made <i>Core</i> a multi-platinum smash—the frenzied “Unglued” and sludgy “Meatplow” pack the sort of pulverizing riffs that launched a million stage dives. But the album reveals surprising new dimensions to Stone Temple Pilots’ attack: On “Vasoline,” they hammer away at a fuzzy two-note refrain until it locks into a hypnotic psychedelic groove (the bongos certainly help), and while “Big Empty” revisits the skyscraping peaks of <i>Core</i>’s calling-card single, “Plush,” it takes its sweet time getting there atop some bluesy slide-guitar licks.<br />
 The most dramatic developments, however, are happening in Scott Weiland’s larynx. No longer the Vedder-like warbler of old, the singer invests the campfire-folk reprieve “Pretty Penny” with Beatles-esque bonhomie, and showcases a previously untapped sensitivity on “Interstate Love Song,” which sounds like a ‘70s soft-rock ballad dressed up in a flannel shirt and cut-off shorts. A resounding repudiation of the critics who initially dismissed them as alt-rock also-rans, <i>Purple</i> displays the first real flashes of the melodic ingenuity and glammy eccentricity that would ultimately distinguish Stone Temple Pilots from their mosh-pit peers.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/purple/300976267" >}}
+{{< applemusic url="https://music.apple.com/gb/album/purple/300976267" >}}<br>
+
+
 ## Videos
 ### Stone Temple Pilots - Vasoline (Official Music Video) [HD]
 {{< youtube id="ht672-wYelc" title="Stone Temple Pilots - Vasoline (Official Music Video) [HD]" >}}<br>
@@ -63,8 +69,6 @@ The most dramatic developments, however, are happening in Scott Weiland’s lary
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Purple_(Stone_Temple_Pilots_album) |
-| Wikipedia Summary | Purple (stylized on the cover art in its Chinese character 紫) is the second studio album by the American rock band Stone Temple Pilots, released on June 7, 1994, by Atlantic Records. The album, building on the foundation laid by the band's debut album Core,  was a huge success for the band, selling 252,000 copies in its first week and debuting at number one on the Billboard 200 chart and remaining there for three weeks, eventually selling over six million copies. It spawned a number of successful singles – "Vasoline" and "Interstate Love Song" both topped the Mainstream Rock Tracks chart and hit number 2 on the Modern Rock Tracks chart, while "Big Empty" also cracked the top ten on both charts.  Lesser known album cuts "Pretty Penny" and "Unglued" were released as promotional radio singles.<br><br> |
-    | Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP816 |

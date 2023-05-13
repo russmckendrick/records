@@ -50,7 +50,10 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Yes We Can Can
 {{< youtube id="mP3YhOzb74k" title="Yes We Can Can" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | Nonesuch |
 | Catalog Number | 075597918458 |

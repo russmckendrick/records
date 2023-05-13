@@ -48,9 +48,15 @@ Houses of the Holy is the fifth studio album by the English rock band Led Zeppel
 Although critical response was mixed, Houses of the Holy became a commercial success, later receiving a Diamond (over 10 million albums sold) certification by the Recording Industry Association of America (RIAA) in 1999. In 2020, the album was ranked at number 278 on Rolling Stone's 500 Greatest Albums of All Time.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/houses-of-the-holy-remastered/580707916" >}}
+{{< applemusic url="https://music.apple.com/gb/album/houses-of-the-holy-remastered/580707916" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +66,6 @@ Although critical response was mixed, Houses of the Holy became a commercial suc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Houses_of_the_Holy |
-| Apple Music Summary | Led Zeppelin were never a group of settlers. Their previous album, <i>IV</i> virtually defined the hard rock genre with its era-defining guitar riffs and bombastic destiny. It remains among rock’s essential albums. The follow-up never tries to emulate that achievement. Instead, <i>Houses of the Holy</i> approaches things from a diverse, genre-busting side. “The Song Remains the Same” opens things at their leisure, opting for a dense guitar-heavy maelstrom that soon gives way to the meditative seven-and-a-half minutes of “The Rain Song.” Guitarist Jimmy Page and bassist-keyboardist John Paul Jones work in lockstep, weaving mystical passages (the shivering mellotron-heavy “No Quarter”), dynamic acoustic/electric rock (“Over the Hills and Far Away”), reggae (“D’Yer Maker”) and both pseudo-funk (the James Brown homage “The Crunge”) and their own legitimate brand of groove rock (“The Ocean,” “Dancing Days”) always with a sense of musical space that allowed each instrument to shine individually and work within the context of the group. Led Zeppelin mastered each genre they attempted. They never shied from a new idea. And they often succeeded brilliantly with each risk. |
-    | Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram, Gatefold) |
 | Label          | Atlantic |
 | Catalog Number | 8122796573 |

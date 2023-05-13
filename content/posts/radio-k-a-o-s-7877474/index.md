@@ -35,9 +35,14 @@ styles: ["Alternative Rock", "Classic Rock"]
 
 Radio K.A.O.S. is the second solo studio album by English rock musician Roger Waters. Released on 15 June 1987 in the United Kingdom and June 16 in the United States, it was Waters' first solo studio album after his formal departure from the band Pink Floyd in 1985. Like his previous and future studio albums and many works of his during his time with Pink Floyd, the album is a concept album based on a number of key topical subjects of the late 1980s, including monetarism and its effect on citizens, popular culture of the time, and the events and consequences of the Cold War. It also makes criticisms of Margaret Thatcher's government, much like Pink Floyd's The Final Cut (1983), another album conceived by Waters.
 The album follows Billy, a mentally and physically disabled man from Wales, forced to live with his uncle David in Los Angeles after his brother Benny is sent to prison following an act intended to support striking coal miners which results in the death of a taxi driver, and his dismissal from his mining job due to "market forces". The album explores Billy's view of the world through an on-air conversation between him and Jim, a disc jockey (DJ) at a fictitious local radio station named Radio KAOS.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radio-k-a-o-s/180102794" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radio-k-a-o-s/180102794" >}}<br>
+
+
 ## Videos
 ### The Powers That Be | Roger Waters | Radio KAOS | 1987 Columbia LP
 {{< youtube id="TSbKF4vBd4o" title="The Powers That Be | Roger Waters | Radio KAOS | 1987 Columbia LP" >}}<br>
@@ -59,8 +64,6 @@ The album follows Billy, a mentally and physically disabled man from Wales, forc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Radio_K.A.O.S. |
-| Wikipedia Summary | Radio K.A.O.S. is the second solo studio album by English rock musician Roger Waters. Released on 15 June 1987 in the United Kingdom and June 16 in the United States, it was Waters' first solo studio album after his formal departure from the band Pink Floyd in 1985. Like his previous and future studio albums and many works of his during his time with Pink Floyd, the album is a concept album based on a number of key topical subjects of the late 1980s, including monetarism and its effect on citizens, popular culture of the time, and the events and consequences of the Cold War. It also makes criticisms of Margaret Thatcher's government, much like Pink Floyd's The Final Cut (1983), another album conceived by Waters.<br>The album follows Billy, a mentally and physically disabled man from Wales, forced to live with his uncle David in Los Angeles after his brother Benny is sent to prison following an act intended to support striking coal miners which results in the death of a taxi driver, and his dismissal from his mining job due to "market forces". The album explores Billy's view of the world through an on-air conversation between him and Jim, a disc jockey (DJ) at a fictitious local radio station named Radio KAOS. |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Promo |
 | Label          | EMI |
 | Catalog Number | 074 24 0783 1 |

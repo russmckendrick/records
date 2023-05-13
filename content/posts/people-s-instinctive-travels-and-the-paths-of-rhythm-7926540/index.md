@@ -49,9 +49,14 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 <!-- section break -->
 
 A seminal debut album that hasn’t aged a second. Bursting with inventiveness, color and charm, it framed Q-Tip, Phife Dawg, Ali Shaheed Muhammed and Jarobi (who would quit the band in 1991 to attend culinary school) as one of hip-hop’s most important groups. Lyrically, it’s extraordinary—tackling police brutality and high art, STDs and veganism—while freewheeling, giddy creativity radiates off everything. Its most iconic moments (“I Left My Wallet In El Segundo”, “Can I Kick It?”) are its most spare and jazzy, while hip-hop is still yet to pen a love letter that tops “Bonita Applebum.”
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peoples-instinctive-travels-and-the-paths-of/1046921573" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peoples-instinctive-travels-and-the-paths-of/1046921573" >}}<br>
+
+
 ## Videos
 ### Push It Along
 {{< youtube id="T6a8N2CjNRU" title="Push It Along" >}}<br>
@@ -77,8 +82,6 @@ A seminal debut album that hasn’t aged a second. Bursting with inventiveness, 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | A seminal debut album that hasn’t aged a second. Bursting with inventiveness, color and charm, it framed Q-Tip, Phife Dawg, Ali Shaheed Muhammed and Jarobi (who would quit the band in 1991 to attend culinary school) as one of hip-hop’s most important groups. Lyrically, it’s extraordinary—tackling police brutality and high art, STDs and veganism—while freewheeling, giddy creativity radiates off everything. Its most iconic moments (“I Left My Wallet In El Segundo”, “Can I Kick It?”) are its most spare and jazzy, while hip-hop is still yet to pen a love letter that tops “Bonita Applebum.” |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary, Gatefold, 180 gram) |
 | Label          | Jive |
 | Catalog Number | 88875172371 |

@@ -89,7 +89,10 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Collected Works of Neutral Milk Hotel (Unboxing)
 {{< youtube id="XKRzAT19oHk" title="The Collected Works of Neutral Milk Hotel (Unboxing)" >}}<br>
@@ -101,7 +104,6 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Reissue (Gatefold), Vinyl 2× LP 45 RPM Album Deluxe Edition Reissue (Gatefold), Vinyl 10" 45 RPM EP Reissue, Vinyl 10" 45 RPM Reissue, Vinyl 3× 7" 45 RPM Reissue, Vinyl LP Album Picture Disc, Box Set Compilation Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG776 |

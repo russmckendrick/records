@@ -40,9 +40,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mothers-milk-remastered/1440872972" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mothers-milk-remastered/1440872972" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Alternative Rock", "Funk Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | EMI |
 | Catalog Number | 509996 98172 12 |

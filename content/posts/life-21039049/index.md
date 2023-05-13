@@ -45,9 +45,14 @@ styles: ["Indie Pop"]
 Life is the first studio album by the British indie rock band Inspiral Carpets. It was released on 23 April 1990 by Cow Records, through Mute Records, during the period dubbed Madchester by the British media. The group released three singles from this album: "Move", "This Is How It Feels" and "She Comes in the Fall", with the latter two in different versions from those found on the album.
 It was reissued in 2013 with the PlaneCrash and TrainSurfing EPs and an unreleased John Peel session as bonus tracks, plus the 21790 live video on a bonus DVD. The 2013 reissue is based on the original UK CD release.
 A slightly modified version of Life was released in North America. It dropped the track "Besides Me" and added "Commercial Rain" (a re-recorded version of a B-side to the "Joe" single) and three tracks from their then-forthcoming Island Head EP.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/life-extended-edition/1193777299" >}}
+{{< applemusic url="https://music.apple.com/gb/album/life-extended-edition/1193777299" >}}<br>
+
+
 ## Videos
 ### Real Thing
 {{< youtube id="xHOPXlOyUCY" title="Real Thing" >}}<br>
@@ -72,8 +77,6 @@ A slightly modified version of Life was released in North America. It dropped th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Life_(Inspiral_Carpets_album) |
-| Wikipedia Summary | Life is the first studio album by the British indie rock band Inspiral Carpets. It was released on 23 April 1990 by Cow Records, through Mute Records, during the period dubbed Madchester by the British media. The group released three singles from this album: "Move", "This Is How It Feels" and "She Comes in the Fall", with the latter two in different versions from those found on the album.<br>It was reissued in 2013 with the PlaneCrash and TrainSurfing EPs and an unreleased John Peel session as bonus tracks, plus the 21790 live video on a bonus DVD. The 2013 reissue is based on the original UK CD release.<br>A slightly modified version of Life was released in North America. It dropped the track "Besides Me" and added "Commercial Rain" (a re-recorded version of a B-side to the "Joe" single) and three tracks from their then-forthcoming Island Head EP. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Gold) |
 | Label          | Mute |
 | Catalog Number | ldung8 |

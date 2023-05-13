@@ -40,9 +40,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/101-damnations-bonus-edition/1286410386" >}}
+{{< applemusic url="https://music.apple.com/gb/album/101-damnations-bonus-edition/1286410386" >}}<br>
+
+
 ## Videos
 ### Carter USM - Murder on the Midnight Mile
 {{< youtube id="XtDOmAh0QvM" title="Carter USM - Murder on the Midnight Mile" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | Big Cat |
 | Catalog Number | ABB 101 |

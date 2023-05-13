@@ -43,9 +43,15 @@ styles: ["Heavy Metal", "Hard Rock"]
 Master of Reality is the third studio album by English heavy metal band Black Sabbath, released on 21 July 1971 by Vertigo Records. It is regarded by some critics as the foundation of doom metal, stoner rock, and sludge metal. Produced by Rodger Bain, who also produced the band's prior two albums, Master of Reality was recorded at Island Studios in London from February to April 1971. Guitarist Tony Iommi and bassist Geezer Butler downtuned their instruments during the production, achieving what Iommi called a "bigger, heavier sound".Master of Reality peaked at number five on the UK Albums Chart and number eight on the US Billboard 200. Negatively received by critics on release, the album is now considered one of the greatest heavy metal albums of all time. It was certified double platinum after having sold over two million copies.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/master-of-reality-2009-remastered-version/1193822439" >}}
+{{< applemusic url="https://music.apple.com/gb/album/master-of-reality-2009-remastered-version/1193822439" >}}<br>
+
+
 ## Videos
 ### After Forever (2009 - Remaster)
 {{< youtube id="F-VfSPA8iLc" title="After Forever (2009 - Remaster)" >}}<br>
@@ -66,8 +72,6 @@ Master of Reality is the third studio album by English heavy metal band Black Sa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Master_of_Reality |
-| Apple Music Summary | Early Sabbath’s apocalyptic vision reaches a fever pitch on what is arguably their finest hour: 1971’s <i>Master of Reality</i>. The tectonic-scale heaviness of “Children of the Grave”, “Into the Void” and “Sweet Leaf” gave birth to an entirely new vibe in rock. Ozzy completes the wicked package with incantatory lyrics that belie a young dude whose psyche has been shredded by Christianity, social alienation and the looming threat of global thermonuclear war. Don’t skip over the ballad “Solitude”—it’s the gloomiest of the lot. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green, 180g, Gatefold) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2562 |

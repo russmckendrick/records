@@ -48,7 +48,10 @@ styles: ["Classic Rock", "Musical"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -57,7 +60,6 @@ styles: ["Classic Rock", "Musical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album |
 | Label          | Columbia |
 | Catalog Number | 88985 37455 1 |

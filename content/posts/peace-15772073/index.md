@@ -51,9 +51,14 @@ styles: ["Folk Rock"]
 <!-- section break -->
 
 Peace is the twelfth studio album by folk-punk rock band the Levellers. The album entered the British album charts at #8, the band's highest charting entry since 1997's Mouth to Mouth reached #5, and improving on previous release We the Collective's #12 position. The 11-track album followed 2018's We the Collective, but is the band's first album composed entirely of new material since 2012's Static on the Airwaves. Peace was recorded at the band's personal recording studio Metway Studios, and released on their label On the Fiddle RecordingsThe album was produced by Sean Lakeman.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peace/1497353598" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peace/1497353598" >}}<br>
+
+
 ## Videos
 ### Four Boys Lost
 {{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}<br>
@@ -68,8 +73,6 @@ Peace is the twelfth studio album by folk-punk rock band the Levellers. The albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peace_(Levellers_album) |
-| Wikipedia Summary | Peace is the twelfth studio album by folk-punk rock band the Levellers. The album entered the British album charts at #8, the band's highest charting entry since 1997's Mouth to Mouth reached #5, and improving on previous release We the Collective's #12 position. The 11-track album followed 2018's We the Collective, but is the band's first album composed entirely of new material since 2012's Static on the Airwaves. Peace was recorded at the band's personal recording studio Metway Studios, and released on their label On the Fiddle RecordingsThe album was produced by Sean Lakeman. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Deluxe Edition Stereo (Blue Splatter), Vinyl 7" |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP031S |

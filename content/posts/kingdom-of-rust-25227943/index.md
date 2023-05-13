@@ -48,9 +48,15 @@ styles: ["Alternative Rock", "Post Rock"]
 <!-- section break -->
 
 Four years after <i>Some Cities</i>, Doves return triumphant with the heavy, epic rumbling sound of <i>Kingdom of Rust</i>. The trio's penchant for minor chords and reverb-heavy production drapes the new album in overcast, moderately melancholy tones, and an underlining theme of movement and travel affords their fourth album a kinetic aesthetic. On opening track, “Jetstream”, frontman Jimi Goodwin sings about catching a drift on a troubled dream as the instrumentation gradually creates the feeling of dislocated movement — with the eventual appearance of stomping drums, cascading electronic.s and an effective, minimal guitar riff. Hints of woozy psychedelia color “10:03”, which starts like Coldplay-meets-Glasvegas and ends with a thundering U2-inspired groove, and the trio is occasionally accompanied by violin and cello (“Kingdom of Rust”, “Birds Flew Backwards”) for swirling, orchestral atmospherics.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kingdom-of-rust/721269518" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kingdom-of-rust/721269518" >}}<br>
+
+
 ## Videos
 ### Doves - Kingdom of rust [Kingdom of rust] Music video
 {{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust [Kingdom of rust] Music video" >}}<br>
@@ -63,8 +69,6 @@ Four years after <i>Some Cities</i>, Doves return triumphant with the heavy, epi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kingdom_of_Rust |
-| Wikipedia Summary | Kingdom of Rust is the fourth studio album from British indie rock band Doves. The album was released on 6 April 2009 in the UK via Heavenly Recordings. Kingdom of Rust was met with generally positive critical acclaim, and entered the UK Albums Chart at number 2. Two singles were released from the album: the title track, released a week prior to the album in March 2009, which charted at number 28 on the UK Singles Chart; and "Winter Hill", released in July 2009, which became the band's first single not to chart in the top 100.<br>The album was born from a tumultuous time in Doves' history, and followed a four-year gap between their last album Some Cities in 2005, at the time the longest period between albums from the band. Doves would tour to promote the album throughout 2009, culminating in a recording hiatus in 2010 which would subsequently last until 2020. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Limited Edition Reissue (Gold Vinyl) |
 | Label          | Heavenly Recordings |
 | Catalog Number | 0888252 |

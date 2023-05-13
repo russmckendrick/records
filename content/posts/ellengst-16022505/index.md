@@ -32,9 +32,12 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/elleng%C3%A6st/1524581300" >}}
+{{< applemusic url="https://music.apple.com/gb/album/elleng%C3%A6st/1524581300" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - Ellengæst (Full Album) 2020
 {{< youtube id="NSHkQICpeng" title="Crippled Black Phoenix - Ellengæst (Full Album) 2020" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Purple) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 574LP |

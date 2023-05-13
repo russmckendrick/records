@@ -73,9 +73,12 @@ styles: ["Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-brixton-deluxe/1181005050" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-brixton-deluxe/1181005050" >}}<br>
+
+
 ## Videos
 ### Everest - Public Service Broadcasting Live At Brixton
 {{< youtube id="2_J-_m9-Zqc" title="Everest - Public Service Broadcasting Live At Brixton" >}}<br>
@@ -98,7 +101,6 @@ styles: ["Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Gatefold, Blue), DVD ( ) |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVAL04X |

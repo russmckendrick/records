@@ -48,9 +48,15 @@ styles: []
 Every few years, well-meaning critics ask if The Beastie Boys’ 1986 debut album “holds up.” But that question misses the point: <i>Licensed to Ill</i> is one of the most colossally gleeful, goofy in-jokes ever recorded. It’s many things, in fact: It’s the product of three snotty punks who brought anarchic energy to New York’s burgeoning rap scene. It’s an homage to the flotsam and jetsam of ’80s pop culture, a rejection of the band’s upper-crust origins, and a vibrant vehicle for the tongue-in-cheek libido and exuberance of youth. And it catapulted three young men into superstardom.<br />
 The Beastie Boys, with an able assist from producer Rick Rubin—who was still in an NYU dorm at the time—pulled off a neat trick in marrying rock’s searing edge to the verbal interplay of nascent hip-hop. And they did it without trying to hide their origins: They were three Jewish kids from Manhattan, and they rapped like it. It’s clear something is cockeyed from the first track, “Rhymin’ and Stealin’.” Samples of Led Zeppelin and Black Sabbath collide with bravado-drenched verses about pirates, Moby Dick, Colonel Sanders, and Betty Crocker. It just gets weirder from there, with the purposely boneheaded “Fight for Your Right,” which simultaneously mocks <i>and</i> fuels party culture, and the backwards beat of “Paul Revere,” the band’s nonsensical origin story. And the anthemic “No Sleep Till Brooklyn” remains a headbanger’s delight.<br />
 By the band’s own admission, the album’s crasser elements haven’t aged well; in 1999, Ad-Rock issued an apology for its homophobic language (the LP’s original title was <i>Don’t Be a Faggot</i>), noting that “time has healed our stupidity.” Stupidity it was. Still, while there’s nothing particularly edifying about <i>Licensed to Ill</i>, it remains one of the most unmitigated sources of fun ever committed to wax.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/licensed-to-ill/1440912031" >}}
+{{< applemusic url="https://music.apple.com/gb/album/licensed-to-ill/1440912031" >}}<br>
+
+
 ## Videos
 ### Beastie Boys - (You Gotta) Fight For Your Right (To Party) [Official Music Video]
 {{< youtube id="eBShN8qT4lk" title="Beastie Boys - (You Gotta) Fight For Your Right (To Party) [Official Music Video]" >}}<br>
@@ -63,8 +69,6 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Licensed_to_Ill |
-| Wikipedia Summary | Licensed to Ill is the debut studio album by American hip hop group Beastie Boys. It was released on November 15, 1986, by Def Jam and Columbia Records. The album became the first rap LP to top the Billboard album chart, and was the second rap album to become a platinum album. It is one of Columbia Records' fastest-selling debut records to date and was certified Diamond by the Recording Industry Association of America in 2015 for shipping over ten million copies in the United States. The album  received critical acclaim for its unique musical style, chemistry between the group members, and their stylized rapping. Since its release, Licensed to Ill has been ranked by critics as one of the greatest hip hop and debut albums of all time. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram, Gatefold, 30th Anniversary Edition) |
 | Label          | Def Jam Recordings |
 | Catalog Number | 06025 478 207-5 (4) |

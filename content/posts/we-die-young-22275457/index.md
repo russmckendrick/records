@@ -31,7 +31,12 @@ styles: ["Alternative Metal", "Grunge"]
 <!-- section break -->
 
 We Die Young is a song and single EP by the American rock band Alice in Chains, engineered and co-produced by Dave Jerden. It was released in July 1990 and is their first studio EP. This was a promo-only EP released on vinyl and cassette, and is thus a sought-after collector's item amongst Alice in Chains fans.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Alice In Chains - We Die Young (Official HD Video)
 {{< youtube id="6JA25BIxgtk" title="Alice In Chains - We Die Young (Official HD Video)" >}}<br>
@@ -48,8 +53,6 @@ We Die Young is a song and single EP by the American rock band Alice in Chains, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Die_Young |
-| Wikipedia Summary | We Die Young is a song and single EP by the American rock band Alice in Chains, engineered and co-produced by Dave Jerden. It was released in July 1990 and is their first studio EP. This was a promo-only EP released on vinyl and cassette, and is thus a sought-after collector's item amongst Alice in Chains fans. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439784651 |

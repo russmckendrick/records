@@ -125,7 +125,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Public Enemy: 25th Anniversary Vinyl Packaging
 {{< youtube id="8OSV5YArx_c" title="Public Enemy: 25th Anniversary Vinyl Packaging" >}}<br>
@@ -140,7 +143,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl 2× LP, Vinyl 2× LP, Vinyl 2× LP, Box Set Limited Edition Compilation (180 Gram) |
 | Label          | Def Jam Recordings |
 | Catalog Number | 06007 534 087-8 (0) |

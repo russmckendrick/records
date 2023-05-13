@@ -102,9 +102,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 The Queen Is Dead is the third studio album by the English rock band the Smiths. It was released on 16 June 1986 in the UK by Rough Trade Records, and on 23 June 1986 in the US by Sire Records.
 The album was produced by the singer, Morrissey, and the guitarist, Johnny Marr, working predominantly with the engineer Stephen Street, who had engineered the Smiths' previous album, Meat Is Murder (1985). Marr wrote several songs while the Smiths toured Britain in early 1985, working out arrangements with the bassist, Andy Rourke, and the drummer, Mike Joyce during soundchecks. The title of the album is from Hubert Selby Jr.'s 1964 novel Last Exit to Brooklyn. The cover art features the French actor Alain Delon in the 1964 film L'Insoumis.The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching number two. It reached number 70 on the US Billboard Top Pop Albums chart and was certified Gold by the RIAA in late 1990. In 2020, Rolling Stone ranked The Queen Is Dead 113th on its updated list of the "500 Greatest Albums of All Time". In its 2013 list, NME named The Queen Is Dead the greatest album.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-queen-is-dead/800092985" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-queen-is-dead/800092985" >}}<br>
+
+
 ## Videos
 ### T̶h̶e̶ q̶u̶e̶e̶n̶ i̶s̶ d̶e̶a̶d̶  - T̶h̶e̶ S̶m̶i̶t̶h̶s̶ (̶F̶u̶l̶l̶ a̶l̶b̶u̶m̶)̶ H̶Q̶
 {{< youtube id="Ol34GSU5jCY" title="T̶h̶e̶ q̶u̶e̶e̶n̶ i̶s̶ d̶e̶a̶d̶  - T̶h̶e̶ S̶m̶i̶t̶h̶s̶ (̶F̶u̶l̶l̶ a̶l̶b̶u̶m̶)̶ H̶Q̶" >}}<br>
@@ -117,8 +123,6 @@ The album was produced by the singer, Morrissey, and the guitarist, Johnny Marr,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Queen_Is_Dead |
-| Apple Music Summary | From start to finish, <i>The Queen Is Dead</i> is, perhaps, The Smiths' strongest album, and it's certainly their funniest. In particular, the Kinks-like music hall bounce of "Frankly, Mr. Shankly" and the rockabilly-tinged "Vicar in a Tutu" sport hilariously cruel lyrics, while pungent one-liners crop up in nearly every track. Elsewhere, the shimmering "The Boy with the Thorn in His Side" is one of Johnny Marr's most glorious tunes, while "There Is a Light That Never Goes Out" features one of Morrissey's most disconsolately romantic lyrics. |
-    | Release Year   | 2017                                   |
 | Format         | Box Set Deluxe Edition, Vinyl LP Album Remastered, Vinyl 2× LP Compilation, Vinyl 2× LP Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 0190295785628 |

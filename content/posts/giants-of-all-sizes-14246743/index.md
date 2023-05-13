@@ -53,9 +53,15 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 “I’d just come back from a holiday with my wife and I wrote a portrait of this guy I’d seen fishing on a rubber ring, using ping-pong bats to steer around this great big glassy lake, pulling this keep net with his teeth all day, every day. I was really pleased with how it scanned and everything, but ultimately it sounded like, ‘I’ve been to India, me!’ So I swept it off the board, leaving this gorgeous piece of music with no direction. I was on the bus with my son and there’s a stop called the Deronda Road. I’d been singing this ditty to my son, ‘We’re on Deronda Road,’ and the whole thing is literally about this moment on the bus with Jack. It’s the only shamelessly non-melancholy uplifting moment on the record.”<br />
 <b>Weightless</b>
 “Jack was born and my dad met him twice. He’s named after my dad’s older brother, who he hero-worshipped. So I was able to tell my dad that. It made my dad’s dying part of something. I'm obsessed with how people act given the right stimulus, and the fact we don't <i>really</i> have free will. We are reactive to what we have learned, what we have experienced. You can have genetic advantages and genetic disadvantages, but ultimately we’re all part of an organism—and I’ve never had it explained to me so finely than the way that Jack’s birth helped me with Dad’s death. It just makes me a cog in a wheel, part of the chain of cogs. I’ve got a job to do where he’s concerned, as my dad had with me. It’s actually very reassuring. The album throws up a lot of questions and ends with something I’m very sure of: my love for those two men.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/giants-of-all-sizes/1474373426" >}}
+{{< applemusic url="https://music.apple.com/gb/album/giants-of-all-sizes/1474373426" >}}<br>
+
+
 ## Videos
 ### elbow - Dexter & Sinister (Official)
 {{< youtube id="-CR628yT7aE" title="elbow - Dexter & Sinister (Official)" >}}<br>
@@ -77,8 +83,6 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Giants_of_All_Sizes |
-| Wikipedia Summary | Giants of All Sizes is the eighth studio album by British alternative rock band Elbow, released on Polydor Records on 11 October 2019. The album has a darker lyrical tone than previous Elbow albums, with singer Guy Garvey's lyrics relating to Brexit, the Grenfell Tower fire tragedy and the deaths of his father and two close friends. It was widely praised by critics, and entered the UK Albums Chart at number one, becoming the band's third consecutive chart-topping studio album. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (180gm) |
 | Label          | Polydor |
 | Catalog Number | 7764402 |

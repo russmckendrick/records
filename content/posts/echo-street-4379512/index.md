@@ -42,9 +42,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/echo-street-bonus-edition/1179873452" >}}
+{{< applemusic url="https://music.apple.com/gb/album/echo-street-bonus-edition/1179873452" >}}<br>
+
+
 ## Videos
 ### Amplifier (Echo Street) - Where the river goes
 {{< youtube id="mOzRzoE-F5Y" title="Amplifier (Echo Street) - Where the river goes" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album (180 g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE837 |

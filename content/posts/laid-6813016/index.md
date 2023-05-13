@@ -48,9 +48,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/laid-deluxe-edition/1445872484" >}}
+{{< applemusic url="https://music.apple.com/gb/album/laid-deluxe-edition/1445872484" >}}<br>
+
+
 ## Videos
 ### James - Out to get you
 {{< youtube id="rZ_ePY2CjRw" title="James - Out to get you" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Fontana |
 | Catalog Number | 0602547096401 |

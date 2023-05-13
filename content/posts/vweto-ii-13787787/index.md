@@ -42,9 +42,12 @@ styles: ["Instrumental", "Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vweto-ii/1456010351" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vweto-ii/1456010351" >}}<br>
+
+
 ## Videos
 ### Brokenfolks
 {{< youtube id="oJabLChQ8Bs" title="Brokenfolks" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Instrumental", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (Black & Green Split Color) |
 | Label          | Mello Music Group |
 | Catalog Number | MMG-000132-1 |

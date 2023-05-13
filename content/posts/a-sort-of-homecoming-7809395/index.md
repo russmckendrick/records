@@ -38,9 +38,12 @@ styles: ["Prog Rock", "Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-sort-of-homecoming/1049320519" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-sort-of-homecoming/1049320519" >}}<br>
+
+
 ## Videos
 ### ANATHEMA - A Sort Of Homecoming (2015)
 {{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming (2015)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 3× LP (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE884 |

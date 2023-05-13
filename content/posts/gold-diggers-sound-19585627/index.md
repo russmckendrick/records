@@ -59,9 +59,15 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 “‘Don't Worry’ is kind of a stream of thoughts to myself, reminiscing about a past lover and who she's currently with. Shout-out to my friend Ink, who is the singer-songwriter from Atlanta, and she embodies this country-hood type of vibe. Her energy is so infectious. I mean, she literally walks into the studio every day with cowboy boots and a cowboy hat and then just like brings this really awesome energy to the music—that's kind of how 'Don't Worry' came about.”<br />
 <b>“Blue Mesas”</b>
 “This whole album encapsulates the multifaceted aspects of life. It's not serious all the time, but sometimes there are those moments that capture the struggle, and that's what it was for me. 'Blue Mesas' just talks about the moment when I transitioned into fame, and it was honestly hard for me. When you take an insecure person and put them in the limelight, some people can tend to fold or thrive. I'm grateful that I had great people around me to help me get through those struggles. 'Blue Mesas' is just like that feeling of the solitude and weight that comes with having a little notoriety and still feeling isolated—even in the midst of people that love you.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gold-diggers-sound-apple-music-edition/1577502911" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gold-diggers-sound-apple-music-edition/1577502911" >}}<br>
+
+
 ## Videos
 ### Leon Bridges - Motorbike (Official Video)
 {{< youtube id="Y9OMJ0HvPbk" title="Leon Bridges - Motorbike (Official Video)" >}}<br>
@@ -84,8 +90,6 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gold-Diggers_Sound |
-| Wikipedia Summary | Gold-Diggers Sound is the third studio album by American singer Leon Bridges. It was released on July 23, 2021, by Columbia Records. The album features guest appearances from Robert Glasper, Terrace Martin, and Atia "Ink" Boggs.<br>The album received widespread acclaim from critics and debuted at number 17 on the US Billboard 200. It was supported by three singles: "Sweeter", "Motorbike", and "Why Don't You Touch Me". The album was nominated for Best R&B Album at the 2022 Grammy Awards. |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 19439886991 |

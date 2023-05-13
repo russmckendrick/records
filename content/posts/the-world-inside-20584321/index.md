@@ -33,9 +33,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-world-inside/1578306223" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-world-inside/1578306223" >}}<br>
+
+
 
 
 ## Release Images
@@ -44,7 +47,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Red Transparent With Black Splatter) |
 | Label          | Not On Label (Tacoma Narrows Bridge Disaster Self-released) |
 | Catalog Number | none |

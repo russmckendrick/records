@@ -46,9 +46,14 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 <!-- section break -->
 
 The Soft Bulletin is the ninth studio album by American rock band the Flaming Lips, released by Warner Bros. Records on May 17, 1999, in the United Kingdom, and on June 22, 1999, in the United States. The album was released to widespread acclaim, and was hailed by critics as a departure from their previous guitar-heavy alternative rock sound into a more layered, intricately arranged work.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-soft-bulletin/1247942375" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-soft-bulletin/1247942375" >}}<br>
+
+
 ## Videos
 ### Feeling Yourself Disintegrate (2017 Remaster)
 {{< youtube id="XvvGYEjloOg" title="Feeling Yourself Disintegrate (2017 Remaster)" >}}<br>
@@ -64,8 +69,6 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Soft_Bulletin |
-| Wikipedia Summary | The Soft Bulletin is the ninth studio album by American rock band the Flaming Lips, released by Warner Bros. Records on May 17, 1999, in the United Kingdom, and on June 22, 1999, in the United States. The album was released to widespread acclaim, and was hailed by critics as a departure from their previous guitar-heavy alternative rock sound into a more layered, intricately arranged work. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 530199-1 |

@@ -36,9 +36,14 @@ styles: ["Roots Reggae"]
 <!-- section break -->
 
 In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-dark/1442876860" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-the-dark/1442876860" >}}<br>
+
+
 ## Videos
 ### Toots And The Maytals - Time Tough
 {{< youtube id="PRba7rK0Q-Q" title="Toots And The Maytals - Time Tough" >}}<br>
@@ -64,8 +69,6 @@ In the Dark is the second international album release by the reggae singing grou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Dark_(Toots_and_the_Maytals_album) |
-| Wikipedia Summary | In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2325 |

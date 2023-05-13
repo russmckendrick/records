@@ -38,7 +38,10 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1973                                   |
 | Format         | Vinyl LP Stereo |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50056 |

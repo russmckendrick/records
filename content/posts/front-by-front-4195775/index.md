@@ -38,9 +38,12 @@ styles: ["EBM"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/front-by-front/139889038" >}}
+{{< applemusic url="https://music.apple.com/gb/album/front-by-front/139889038" >}}<br>
+
+
 ## Videos
 ### Front 242 - Headhunter (Official Video)
 {{< youtube id="m1cRGVaJF7Y" title="Front 242 - Headhunter (Official Video)" >}}<br>
@@ -62,7 +65,6 @@ styles: ["EBM"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Red Rhino Europe |
 | Catalog Number | RRE LP 7 |

@@ -38,9 +38,14 @@ styles: ["New Wave", "Synth-pop"]
 <!-- section break -->
 
 Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tin-drum-2003-remaster/714661649" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tin-drum-2003-remaster/714661649" >}}<br>
+
+
 ## Videos
 ### The Art of Parties (2003 - Remaster)
 {{< youtube id="aEuB_rfuM7Q" title="The Art of Parties (2003 - Remaster)" >}}<br>
@@ -65,8 +70,6 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tin_Drum_(album) |
-| Wikipedia Summary | Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× 12" 45 RPM Album Limited Edition Reissue (Gatefold Sleeve) |
 | Label          | Virgin |
 | Catalog Number | 671 041-7 |

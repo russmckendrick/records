@@ -38,7 +38,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -47,7 +50,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Remastered (Yellow) |
 | Label          | BMG |
 | Catalog Number | BMGCAT606LP |

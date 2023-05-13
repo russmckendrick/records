@@ -43,9 +43,12 @@ styles: ["Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fauna/1650860109" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fauna/1650860109" >}}<br>
+
+
 ## Videos
 ### Haken - Taurus (Official Video)
 {{< youtube id="4FQBK4CFWbI" title="Haken - Taurus (Official Video)" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Magenta [Transparent], 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM667 |

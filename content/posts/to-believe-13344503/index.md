@@ -39,9 +39,12 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/to-believe/1446886232" >}}
+{{< applemusic url="https://music.apple.com/gb/album/to-believe/1446886232" >}}<br>
+
+
 ## Videos
 ### The Cinematic Orchestra - 'To Believe feat. Moses Sumney'
 {{< youtube id="e7q4sgupsZc" title="The Cinematic Orchestra - 'To Believe feat. Moses Sumney'" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (White, 180 Gram), Vinyl LP (Clear, 180 Gram), All Media Album Deluxe Edition |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN226X |

@@ -42,9 +42,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.”
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/schmilco/1131561462" >}}
+{{< applemusic url="https://music.apple.com/gb/album/schmilco/1131561462" >}}<br>
+
+
 ## Videos
 ### SCHMILCO - Wilco [2016] - Full Album
 {{< youtube id="h2wt9TvkSZE" title="SCHMILCO - Wilco [2016] - Full Album" >}}<br>
@@ -58,8 +63,6 @@ A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surpris
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.” |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink, 180 grams) |
 | Label          | dBpm Records |
 | Catalog Number | 7259-1 |

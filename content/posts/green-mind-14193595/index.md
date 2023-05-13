@@ -64,9 +64,14 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 
 Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., released in 1991. It was the band's first release after bassist Lou Barlow's departure, as well as the first released by a major label. The record is close to being a J Mascis solo album: he played most of the instruments, with founding drummer Murph only featuring on three tracks (1, 7 and 9).The cover photograph, Priscilla, Jones Beach, 1969, is by Joseph Szabo and taken from his book of photographs Almost Grown.
 "Turnip Farm" is also featured in the film Reality Bites.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/green-mind-expanded-edition/1478820383" >}}
+{{< applemusic url="https://music.apple.com/gb/album/green-mind-expanded-edition/1478820383" >}}<br>
+
+
 ## Videos
 ### The Wagon [2019 Remaster]
 {{< youtube id="5O0ye0I6bvc" title="The Wagon [2019 Remaster]" >}}<br>
@@ -84,8 +89,6 @@ Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_Mind |
-| Wikipedia Summary | Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., released in 1991. It was the band's first release after bassist Lou Barlow's departure, as well as the first released by a major label. The record is close to being a J Mascis solo album: he played most of the instruments, with founding drummer Murph only featuring on three tracks (1, 7 and 9).The cover photograph, Priscilla, Jones Beach, 1969, is by Joseph Szabo and taken from his book of photographs Almost Grown.<br>"Turnip Farm" is also featured in the film Reality Bites. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (Green), Vinyl LP Compilation (Green), All Media Deluxe Edition Reissue Remastered |
 | Label          | Cherry Red |
 | Catalog Number | PBREDD756 |

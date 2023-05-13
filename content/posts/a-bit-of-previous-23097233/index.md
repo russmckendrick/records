@@ -95,9 +95,15 @@ Murdoch: “Most of the songs are very current. They were all written pretty muc
 <b>“Working Boy in New York City”</b>
 Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thing, but maybe San Francisco didn't scan. It's about a friend of mine that I became friends with when I came to America for the first time in the early '90s. But it's best not to be too literal, and so I placed it in New York. And there's other elements that come in that go just beyond his story. But there's a line from his favorite song, which was ‘Downtown' by Petula Clark. And I specifically remember him one day describing what that song meant to him.”
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-bit-of-previous/1601369496" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-bit-of-previous/1601369496" >}}<br>
+
+
 ## Videos
 ### Belle and Sebastian - Young and Stupid (Official Lyric Video)
 {{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - Young and Stupid (Official Lyric Video)" >}}<br>
@@ -124,8 +130,6 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Bit_of_Previous |
-| Wikipedia Summary | A Bit of Previous is the eleventh studio album by Scottish band Belle and Sebastian, released on 6 May 2022 through Matador Records. It was preceded by the singles "Unnecessary Drama", "If They're Shooting at You" and "Young and Stupid". A non-album single, also called "A Bit of Previous", was released in June 2022.<br><br> |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Gatefold), Vinyl 7" 45 RPM |
 | Label          | Matador |
 | Catalog Number | OLE1845LPE |

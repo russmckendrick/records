@@ -32,9 +32,12 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dronne/1135427432" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dronne/1135427432" >}}<br>
+
+
 ## Videos
 ### Vishnu Schist
 {{< youtube id="5AC9eYK9xq0" title="Vishnu Schist" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | The Household Mark |
 | Catalog Number | THM004LP |

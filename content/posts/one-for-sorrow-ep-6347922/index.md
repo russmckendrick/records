@@ -32,9 +32,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one-for-sorrow-ep/909495393" >}}
+{{< applemusic url="https://music.apple.com/gb/album/one-for-sorrow-ep/909495393" >}}<br>
+
+
 ## Videos
 ### One For Sorrow - The Anchoress
 {{< youtube id="AP0MpWelbx8" title="One For Sorrow - The Anchoress" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 12" EP |
 | Label          | Hiraeth (2) |
 | Catalog Number | HIR002 |

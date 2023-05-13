@@ -49,9 +49,14 @@ styles: ["Ska", "Punk"]
 <!-- section break -->
 
 Energy is the only studio album by the American ska punk band Operation Ivy. It was originally released on vinyl and cassette in May 1989 through Lookout! Records with the catalog number LK 010. Although the album itself has never been released on CD, all of the tracks were featured on the career-spanning compilation Operation Ivy issued by Lookout in 1991. Despite achieving no mainstream success, Energy is considered one of the most important albums of ska punk and is frequently cited as an influence by many later bands of the genre.The album stayed in print on Lookout until 2006, when the band took back its recordings from the label due to unpaid royalties. Guitarist Tim "Lint" Armstrong's label Hellcat Records re-released the original album as a 12-inch LP picture disc in 2004, and in 2007 put out a remastered version of the self-titled compilation. A second vinyl edition was released by Hellcat on April 18, 2012 and debuted at number 13 on the Vinyl Albums chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/summer-operation/1660380490" >}}
+{{< applemusic url="https://music.apple.com/gb/album/summer-operation/1660380490" >}}<br>
+
+
 ## Videos
 ### Knowledge (2007 Remaster)
 {{< youtube id="2ItT4f8O93Q" title="Knowledge (2007 Remaster)" >}}<br>
@@ -67,8 +72,6 @@ Energy is the only studio album by the American ska punk band Operation Ivy. It 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Energy_(Operation_Ivy_album) |
-| Wikipedia Summary | Energy is the only studio album by the American ska punk band Operation Ivy. It was originally released on vinyl and cassette in May 1989 through Lookout! Records with the catalog number LK 010. Although the album itself has never been released on CD, all of the tracks were featured on the career-spanning compilation Operation Ivy issued by Lookout in 1991. Despite achieving no mainstream success, Energy is considered one of the most important albums of ska punk and is frequently cited as an influence by many later bands of the genre.The album stayed in print on Lookout until 2006, when the band took back its recordings from the label due to unpaid royalties. Guitarist Tim "Lint" Armstrong's label Hellcat Records re-released the original album as a 12-inch LP picture disc in 2004, and in 2007 put out a remastered version of the self-titled compilation. A second vinyl edition was released by Hellcat on April 18, 2012 and debuted at number 13 on the Vinyl Albums chart. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Hellcat Records |
 | Catalog Number | 86893-1 |

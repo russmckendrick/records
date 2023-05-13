@@ -41,9 +41,15 @@ styles: ["Prog Rock", "Hard Rock"]
 <!-- section break -->
 
 Initially panned as indulgent and pretentious on its 1975 release, Rush’s <i>Caress of Steel</i> found the Canadian trio abandoning the proto-metal style of its two preceding albums and fully embracing progressive rock. (The opener “Bastille Day” is the token hard rock vestige.) This is best exemplified in the last two songs: the 12-and-a-half-minute epic “The Necromancer” and “The Fountain of Lamneth,” a near 20-minute composition in six parts that took up the entire second side of the album’s vinyl record. Composed in three movements, “The Necromancer” is Rush’s second song featuring the fictional character Prince By-Tor. (He first appeared in "By-Tor & The Snow Dog" on Rush's second album, <i>Fly by Night</i>.) But it’s Alex Lifeson’s awe-inspiring guitar solo erupting a third of the way in that easily upstages both the song’s concept and narrative. Though everyone blamed the lengthy “The Fountain of Lamneth” for poor album sales and a disastrous tour, it was this very approach to Rush's music that made the following <i>2112</i> a three-time multiplatinum achievement.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/caress-of-steel-remastered/1440641046" >}}
+{{< applemusic url="https://music.apple.com/gb/album/caress-of-steel-remastered/1440641046" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,8 +59,6 @@ Initially panned as indulgent and pretentious on its 1975 release, Rush’s <i>C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Caress_of_Steel |
-| Wikipedia Summary | Caress of Steel is the third studio album by Canadian rock band Rush, released on September 24, 1975, by Mercury Records. It marked a development in the group's sound, moving from the blues-based hard rock style of their debut towards progressive rock. The shift proved to be a commercial and critical nadir for Rush, however, as the album's darker sound and fantastical compositions initially failed to find an audience and confused some of the band's peers, while poor sales put the band in danger of being dropped by Mercury. Despite being more positively viewed by the band's fans in retrospect, Ultimate Classic Rock noted that the album is still considered "the black sheep of their catalog". |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 4711570 |

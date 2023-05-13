@@ -41,9 +41,12 @@ styles: ["Funk", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/return-to-the-37th-chamber/1472448782" >}}
+{{< applemusic url="https://music.apple.com/gb/album/return-to-the-37th-chamber/1472448782" >}}<br>
+
+
 ## Videos
 ### El Michels Affair - Return To The 37th chamber (Full Album Stream)
 {{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber (Full Album Stream)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Funk", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Big Crown Records |
 | Catalog Number | BC017-LP B |

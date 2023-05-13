@@ -45,9 +45,14 @@ Music for the Jilted Generation is the second studio album by English electronic
 A remastered and expanded edition of the album titled More Music for the Jilted Generation was released in 2008.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-for-the-jilted-generation/1450123784" >}}
+{{< applemusic url="https://music.apple.com/gb/album/music-for-the-jilted-generation/1450123784" >}}<br>
+
+
 ## Videos
 ### Intro
 {{< youtube id="0PEkoVCdMRc" title="Intro" >}}<br>
@@ -73,8 +78,6 @@ A remastered and expanded edition of the album titled More Music for the Jilted 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_the_Jilted_Generation |
-| Wikipedia Summary | Music for the Jilted Generation is the second studio album by English electronic music group the Prodigy. It was first released in July 1994 by XL Recordings in the United Kingdom and by Mute Records in the United States. Just as on the group's debut album Experience (1992), Maxim Reality was the only member of the band's lineup—besides Liam Howlett—to contribute to the album.<br>A remastered and expanded edition of the album titled More Music for the Jilted Generation was released in 2008.<br><br> |
-| Release Year   | 2008                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 114 |

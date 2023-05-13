@@ -38,11 +38,17 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-Peter Gabriel is the third solo studio album by the English rock musician Peter Gabriel, released on 30 May 1980 by Charisma Records. The album, produced by Steve Lillywhite, has been acclaimed as Gabriel's artistic breakthrough as a solo artist. AllMusic wrote that it established him as "one of rock's most ambitious, innovative musicians".Building on the experimental sound of his previous self-titled studio album, it saw Gabriel embracing post-punk and new wave with an art rock sensibility. Gabriel also explored more overtly political material with the anti-war song "Games Without Frontiers" (which became a No. 4 hit and remains his joint highest-charting single in the UK) and the anti-apartheid protest song "Biko", which remembered the murdered activist Steve Biko. 
-In the US, the album was titled Peter Gabriel III. The album is also often referred to as Melt, owing to its cover photograph by Hipgnosis. Some music streaming services currently refer to it as Peter Gabriel 3: Melt.
-<br>
+Peter Gabriel is the fourth studio album by the English rock musician Peter Gabriel. In the United States and Canada, the album was released by Geffen Records with the title Security. Some music streaming services refer to it as Peter Gabriel 4: Security. A German-language version, entitled Deutsches Album (German Album), was also released. The album saw Gabriel expanding on the post-punk and world music influences from his 1980 self-titled record, and earned him his first US top 40 single with "Shock the Monkey".
+
+
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
+
+
 ## Videos
 ### Peter Gabriel - Solsbury Hill (Live DNA)
 {{< youtube id="WeYqJxlSv-Y" title="Peter Gabriel - Solsbury Hill (Live DNA)" >}}<br>
@@ -54,9 +60,7 @@ In the US, the album was titled Peter Gabriel III. The album is also often refer
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Peter_Gabriel_(1980_album) |
-| Wikipedia Summary | Peter Gabriel is the third solo studio album by the English rock musician Peter Gabriel, released on 30 May 1980 by Charisma Records. The album, produced by Steve Lillywhite, has been acclaimed as Gabriel's artistic breakthrough as a solo artist. AllMusic wrote that it established him as "one of rock's most ambitious, innovative musicians".Building on the experimental sound of his previous self-titled studio album, it saw Gabriel embracing post-punk and new wave with an art rock sensibility. Gabriel also explored more overtly political material with the anti-war song "Games Without Frontiers" (which became a No. 4 hit and remains his joint highest-charting single in the UK) and the anti-apartheid protest song "Biko", which remembered the murdered activist Steve Biko. <br>In the US, the album was titled Peter Gabriel III. The album is also often referred to as Melt, owing to its cover photograph by Hipgnosis. Some music streaming services currently refer to it as Peter Gabriel 3: Melt. |
-| Release Year   | 2016                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Peter_Gabriel_(1982_album) |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR1 |

@@ -47,9 +47,14 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 <!-- section break -->
 
 New Jersey is the fourth studio album by American rock band Bon Jovi, released on September 19, 1988, by Mercury Records. The album was produced by Bruce Fairbairn and recorded at Little Mountain Sound Studios in Vancouver, British Columbia, Canada. The album was the follow-up to the band's third album, Slippery When Wet, and reached number one on the Billboard 200 chart in its second week of release after debuting at number eight. It remained at the top for four consecutive weeks and was Bon Jovi's last album to do so until Lost Highway (2007).It produced five Billboard Hot 100 top ten hits, the most top ten hits to date for any glam metal album, including "Bad Medicine" and "I'll Be There for You", which both reached number one. The album was certified 7× platinum by the Recording Industry Association of America (RIAA). The album also debuted at number one in the UK and was the band's first UK No. 1 album. New Jersey was released by the Soviet state-owned record label Melodiya, being the first American album to be officially released in the USSR. To celebrate the band's 30th anniversary in 2014, the album was repackaged with bonus tracks.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/new-jersey/1440826305" >}}
+{{< applemusic url="https://music.apple.com/gb/album/new-jersey/1440826305" >}}<br>
+
+
 ## Videos
 ### Bon Jovi - Bad Medicine
 {{< youtube id="eOUtsybozjg" title="Bon Jovi - Bad Medicine" >}}<br>
@@ -81,8 +86,6 @@ New Jersey is the fourth studio album by American rock band Bon Jovi, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Jersey_(album) |
-| Wikipedia Summary | New Jersey is the fourth studio album by American rock band Bon Jovi, released on September 19, 1988, by Mercury Records. The album was produced by Bruce Fairbairn and recorded at Little Mountain Sound Studios in Vancouver, British Columbia, Canada. The album was the follow-up to the band's third album, Slippery When Wet, and reached number one on the Billboard 200 chart in its second week of release after debuting at number eight. It remained at the top for four consecutive weeks and was Bon Jovi's last album to do so until Lost Highway (2007).It produced five Billboard Hot 100 top ten hits, the most top ten hits to date for any glam metal album, including "Bad Medicine" and "I'll Be There for You", which both reached number one. The album was certified 7× platinum by the Recording Industry Association of America (RIAA). The album also debuted at number one in the UK and was the band's first UK No. 1 album. New Jersey was released by the Soviet state-owned record label Melodiya, being the first American album to be officially released in the USSR. To celebrate the band's 30th anniversary in 2014, the album was repackaged with bonus tracks. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Mercury |
 | Catalog Number | B0021969-01 |

@@ -30,7 +30,10 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Amorphous Androgynous - The world is full of plankton
 {{< youtube id="aEdJGBa9gfs" title="Amorphous Androgynous - The world is full of plankton" >}}<br>
@@ -45,7 +48,6 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 10" 33 ⅓ RPM EP Record Store Day Limited Edition Numbered |
 | Label          | fsoldigital.com |
 | Catalog Number | 10RSDAA1 |

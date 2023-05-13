@@ -41,9 +41,14 @@ styles: ["Glam"]
 
 Electric Warrior is the second studio album by English rock band T. Rex, their sixth since their debut as Tyrannosaurus Rex. The album marked a turning point in the band's sound, moving away from the folk-oriented sound of the group's previous albums and pioneering a more flamboyant, pop-friendly glam rock style.The album reached number one on the UK Albums Chart and became the best selling album of 1971. Specifically the single "Get It On" helped promote the album's success and reached the top ten in the US Billboard Hot 100 singles chart. Retitled "Bang a Gong (Get It On)" by the US record company, it also became the band's only North American hit.
 Electric Warrior has since received acclaim as a pivotal release of the glam rock movement. It had a profound influence on later musicians of different genres.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/electric-warrior/1440804752" >}}
+{{< applemusic url="https://music.apple.com/gb/album/electric-warrior/1440804752" >}}<br>
+
+
 ## Videos
 ### T. Rex - Bang a Gong (Get It On) (Official Audio)
 {{< youtube id="FyzWDl0nz00" title="T. Rex - Bang a Gong (Get It On) (Official Audio)" >}}<br>
@@ -63,8 +68,6 @@ Electric Warrior has since received acclaim as a pivotal release of the glam roc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Warrior |
-| Wikipedia Summary | Electric Warrior is the second studio album by English rock band T. Rex, their sixth since their debut as Tyrannosaurus Rex. The album marked a turning point in the band's sound, moving away from the folk-oriented sound of the group's previous albums and pioneering a more flamboyant, pop-friendly glam rock style.The album reached number one on the UK Albums Chart and became the best selling album of 1971. Specifically the single "Get It On" helped promote the album's success and reached the top ten in the US Billboard Hot 100 singles chart. Retitled "Bang a Gong (Get It On)" by the US record company, it also became the band's only North American hit.<br>Electric Warrior has since received acclaim as a pivotal release of the glam rock movement. It had a profound influence on later musicians of different genres. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | A&M Records |
 | Catalog Number | 535 407-6 |

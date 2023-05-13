@@ -80,9 +80,14 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink Floyd. It was recorded at the Amphitheatre of Pompeii. It documents his 2015–16 world tour to promote his album, Rattle That Lock (2015). The concert was directed by Gavin Elder. The album was released on 29 September 2017 and is available on CD, LP, digital download, DVD, BD and deluxe box set containing the CD album and BD, plus a bonus exclusive BD of extras.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-pompeii/1260000840" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-pompeii/1260000840" >}}<br>
+
+
 ## Videos
 ### David Gilmour - One of These Days (Live At Pompeii)
 {{< youtube id="ABPQdXertbs" title="David Gilmour - One of These Days (Live At Pompeii)" >}}<br>
@@ -110,8 +115,6 @@ Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Pompeii |
-| Wikipedia Summary | Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink Floyd. It was recorded at the Amphitheatre of Pompeii. It documents his 2015–16 world tour to promote his album, Rattle That Lock (2015). The concert was directed by Gavin Elder. The album was released on 29 September 2017 and is available on CD, LP, digital download, DVD, BD and deluxe box set containing the CD album and BD, plus a bonus exclusive BD of extras.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 4× LP Album (180 gram), Box Set |
 | Label          | Columbia |
 | Catalog Number | 88985464971 |

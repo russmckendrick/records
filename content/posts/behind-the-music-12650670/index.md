@@ -51,9 +51,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/behind-the-music-bonus-tracks/160441258" >}}
+{{< applemusic url="https://music.apple.com/gb/album/behind-the-music-bonus-tracks/160441258" >}}<br>
+
+
 ## Videos
 ### Soundtrack of Our Lives - Independent Luxury
 {{< youtube id="hdW3yRTeBzM" title="Soundtrack of Our Lives - Independent Luxury" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Gold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2242 |

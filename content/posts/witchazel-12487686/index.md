@@ -40,9 +40,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}
+{{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}<br>
+
+
 ## Videos
 ### MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)
 {{< youtube id="Rdqu-HObUbo" title="MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)" >}}<br>
@@ -67,7 +70,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow Vinyl) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251X |

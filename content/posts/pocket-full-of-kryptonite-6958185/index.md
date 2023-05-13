@@ -34,9 +34,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pocket-full-of-kryptonite/169627657" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pocket-full-of-kryptonite/169627657" >}}<br>
+
+
 ## Videos
 ### Spin Doctors - Jimmy Olsen's Blues (New Version)
 {{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsen's Blues (New Version)" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Repress |
 | Label          | Epic |
 | Catalog Number | 88875013561 |

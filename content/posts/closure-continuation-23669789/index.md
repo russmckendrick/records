@@ -61,9 +61,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Add this album to your library now.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/closure-continuation/1592522261" >}}
+{{< applemusic url="https://music.apple.com/gb/album/closure-continuation/1592522261" >}}<br>
+
+
 ## Videos
 ### Porcupine Tree - Harridan (Official Lyric Video)
 {{< youtube id="AW5v4Ohxk5k" title="Porcupine Tree - Harridan (Official Lyric Video)" >}}<br>
@@ -85,8 +90,6 @@ Add this album to your library now.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Add this album to your library now. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 3× 12" 45 RPM Album (Clear), Box Set Deluxe Edition |
 | Label          | Music For Nations |
 | Catalog Number | 19439956921 |

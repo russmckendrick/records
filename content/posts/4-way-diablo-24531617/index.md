@@ -43,9 +43,12 @@ styles: ["Stoner Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/4-way-diablo/1635598921" >}}
+{{< applemusic url="https://music.apple.com/gb/album/4-way-diablo/1635598921" >}}<br>
+
+
 ## Videos
 ### Monster Magnet - Slap In The Face - 4-Way Diablo.wmv
 {{< youtube id="Adf7bQ8W6Ck" title="Monster Magnet - Slap In The Face - 4-Way Diablo.wmv" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1067VINYL |

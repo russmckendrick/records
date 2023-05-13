@@ -38,9 +38,12 @@ styles: ["Folk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/philharmonics-deluxe-edition/431226423" >}}
+{{< applemusic url="https://music.apple.com/gb/album/philharmonics-deluxe-edition/431226423" >}}<br>
+
+
 ## Videos
 ### Agnes Obel - Falling, Catching
 {{< youtube id="DHBa2ANs0fo" title="Agnes Obel - Falling, Catching" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASR 195 LP |

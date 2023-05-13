@@ -50,9 +50,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-big-dream/1213517622" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-big-dream/1213517622" >}}<br>
+
+
 ## Videos
 ### The Big Dream
 {{< youtube id="xz4KqSTClIA" title="The Big Dream" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 476 |

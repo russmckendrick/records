@@ -41,9 +41,12 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/orange/1169152194" >}}
+{{< applemusic url="https://music.apple.com/gb/album/orange/1169152194" >}}<br>
+
+
 ## Videos
 ### The Jon Spencer Blues Explosion - Bellbottoms
 {{< youtube id="XlTqcshkmc8" title="The Jon Spencer Blues Explosion - Bellbottoms" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1994                                   |
 | Format         | Vinyl LP Album |
 | Label          | Matador |
 | Catalog Number | ole 105-1 |

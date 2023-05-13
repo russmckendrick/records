@@ -41,9 +41,15 @@ styles: ["Future Jazz", "Downtempo"]
 <!-- section break -->
 
 Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporized vocals, warm synths, and stainless steel hi-fi sensibility. Without being as kitschy or (wink, wink) ironic as its spacey “Sexy Boy” single might lead you to believe, the album is an immaculate collection of suave Moog moves and future-disco downtempo. A defining achievement in the chill-out subgenre, it rightfully dominated compilation racks at the turn of the century on the strength of songs like “Kelly Watch the Stars” and “You Make It Easy.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/moon-safari/697240234" >}}
+{{< applemusic url="https://music.apple.com/gb/album/moon-safari/697240234" >}}<br>
+
+
 ## Videos
 ### Air - Sexy Boy  (full length)
 {{< youtube id="A_ulZiob5I0" title="Air - Sexy Boy  (full length)" >}}<br>
@@ -77,8 +83,6 @@ Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporiz
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moon_Safari |
-| Wikipedia Summary | Moon Safari is the debut studio album by French electronic music duo Air, released on 16 January 1998 by Source and Virgin Records. Moon Safari was re-released on 14 April 2008 to mark the album's 10th anniversary, including a bound book, a DVD documentary about the duo, and a bonus CD with live performances and remixes.<br>Moon Safari was acclaimed by critics. It is credited with setting the stage for the budding downtempo music style. By February 2012, it had sold 386,000 copies in the United States.<br><br> |
-    | Release Year   | 1998                                   |
 | Format         | Vinyl LP Album |
 | Label          | Source |
 | Catalog Number | 7243 8 44978 1 1 |

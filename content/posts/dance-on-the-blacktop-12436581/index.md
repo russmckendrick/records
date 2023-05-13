@@ -33,9 +33,15 @@ styles: ["Shoegaze", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+Dance on the Blacktop is the third studio album by American shoegaze band Nothing. It is the last album to feature bassist Nick Bassett (also the guitarist of Whirr) and founding member, vocalist and guitarist Brandon Setta before both departed the band between 2018 and 2019, respectively. The album was released on August 24, 2018 by Relapse Records.
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dance-on-the-blacktop/1375809650" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dance-on-the-blacktop/1375809650" >}}<br>
+
+
 ## Videos
 ### NOTHING - Zero Day (Official Music Video)
 {{< youtube id="RJhkZo5OCHE" title="NOTHING - Zero Day (Official Music Video)" >}}<br>
@@ -51,7 +57,7 @@ styles: ["Shoegaze", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dance_on_the_Blacktop |
 | Format         | Vinyl LP Album Limited Edition (White Chrysanthemum (White)) |
 | Label          | Relapse Records |
 | Catalog Number | RR7394 |

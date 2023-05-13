@@ -39,9 +39,12 @@ styles: ["Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/his-n-hers-deluxe-edition/1444184951" >}}
+{{< applemusic url="https://music.apple.com/gb/album/his-n-hers-deluxe-edition/1444184951" >}}<br>
+
+
 ## Videos
 ### Pulp - Babies (Official Video)
 {{< youtube id="38by00DGid0" title="Pulp - Babies (Official Video)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785292 |

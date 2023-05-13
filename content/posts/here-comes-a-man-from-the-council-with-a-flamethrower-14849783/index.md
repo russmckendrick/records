@@ -44,9 +44,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/here-comes-a-man-from-the-council-with-a-flamethrower/1484413225" >}}
+{{< applemusic url="https://music.apple.com/gb/album/here-comes-a-man-from-the-council-with-a-flamethrower/1484413225" >}}<br>
+
+
 ## Videos
 ### Magazine Zooey Deschanel
 {{< youtube id="ftjAexbR2p8" title="Magazine Zooey Deschanel" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (180 Gram) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG081 |

@@ -44,9 +44,14 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Knowing what we know now about the career of Mark Hollis and Talk Talk, it’s much easier to hear the strengths of their second album, <i>It’s My Life</i>, and how it relates to the band Talk Talk would become. At the time of its release, the band had been linked to the New Romantic movement, opening for Duran Duran, but this album began the shift towards their own identifiable sound. The addition of producer-multi-instrumentalist Tim Friese-Greene provided the group with an entirely new weapon. The synths are still very present on this album — and the band were able to squeeze out hits with the über-catchy “Dum Dum Girl” and “It’s My Life” — but there’s a concentration in new textures. “Renée” is a hint to where the group’s sound would be going on future releases: Hollis’ chilling voice and instrumental passages that threaten to disappear into the fog. “Does Caroline Know” uses a challenging rhythm track, while the hummable “It’s You” takes the mechanized ‘80s sounds and turns on the heart and soul.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-my-life-remastered-1997/695469000" >}}
+{{< applemusic url="https://music.apple.com/gb/album/its-my-life-remastered-1997/695469000" >}}<br>
+
+
 ## Videos
 ### Talk Talk - It's My Life ( Official Video)
 {{< youtube id="cFH5JgyZK1I" title="Talk Talk - It's My Life ( Official Video)" >}}<br>
@@ -69,8 +74,6 @@ Knowing what we know now about the career of Mark Hollis and Talk Talk, it’s m
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Knowing what we know now about the career of Mark Hollis and Talk Talk, it’s much easier to hear the strengths of their second album, <i>It’s My Life</i>, and how it relates to the band Talk Talk would become. At the time of its release, the band had been linked to the New Romantic movement, opening for Duran Duran, but this album began the shift towards their own identifiable sound. The addition of producer-multi-instrumentalist Tim Friese-Greene provided the group with an entirely new weapon. The synths are still very present on this album — and the band were able to squeeze out hits with the über-catchy “Dum Dum Girl” and “It’s My Life” — but there’s a concentration in new textures. “Renée” is a hint to where the group’s sound would be going on future releases: Hollis’ chilling voice and instrumental passages that threaten to disappear into the fog. “Does Caroline Know” uses a challenging rhythm track, while the hummable “It’s You” takes the mechanized ‘80s sounds and turns on the heart and soul. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress Stereo (Purple Translucent, 180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295195328 / 0190295792619 |

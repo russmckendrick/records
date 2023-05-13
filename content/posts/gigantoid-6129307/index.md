@@ -38,9 +38,12 @@ styles: ["Stoner Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gigantoid/868547942" >}}
+{{< applemusic url="https://music.apple.com/gb/album/gigantoid/868547942" >}}<br>
+
+
 ## Videos
 ### Dimension Shifter
 {{< youtube id="RIzhUm0Gt_g" title="Dimension Shifter" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Repress (Blue Translucent With White Splatter) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD008 |

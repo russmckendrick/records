@@ -53,9 +53,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 New Adventures in Hi-Fi is the tenth studio album by the American alternative rock band R.E.M. It was their fifth major-label release for Warner Bros. Records, released on September 9, 1996, in Europe and Australia, and the following day in the United States. New Adventures in Hi-Fi was the last album recorded with founding member Bill Berry (who left the band amicably the following year), original manager Jefferson Holt, and long-time producer Scott Litt. The members of R.E.M. consider the recorded album representative of the band at their peak, and fans generally regard it as the band's last great record before a perceived artistic decline during the late 1990s and early 2000s. It has sold around seven million units, growing in cult status years after its release, with several retrospectives ranking it among the top of the band's recorded catalogue.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/new-adventures-in-hi-fi/1440951221" >}}
+{{< applemusic url="https://music.apple.com/gb/album/new-adventures-in-hi-fi/1440951221" >}}<br>
+
+
 ## Videos
 ### R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)
 {{< youtube id="9BC07l2_zKU" title="R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)" >}}<br>
@@ -75,8 +80,6 @@ New Adventures in Hi-Fi is the tenth studio album by the American alternative ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Adventures_in_Hi-Fi |
-| Wikipedia Summary | New Adventures in Hi-Fi is the tenth studio album by the American alternative rock band R.E.M. It was their fifth major-label release for Warner Bros. Records, released on September 9, 1996, in Europe and Australia, and the following day in the United States. New Adventures in Hi-Fi was the last album recorded with founding member Bill Berry (who left the band amicably the following year), original manager Jefferson Holt, and long-time producer Scott Litt. The members of R.E.M. consider the recorded album representative of the band at their peak, and fans generally regard it as the band's last great record before a perceived artistic decline during the late 1990s and early 2000s. It has sold around seven million units, growing in cult status years after its release, with several retrospectives ranking it among the top of the band's recorded catalogue. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary ) |
 | Label          | Craft Recordings |
 | Catalog Number | 888072245457 |

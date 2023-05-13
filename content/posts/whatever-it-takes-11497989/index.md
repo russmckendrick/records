@@ -38,9 +38,12 @@ styles: ["Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whatever-it-takes/1484988854" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whatever-it-takes/1484988854" >}}<br>
+
+
 ## Videos
 ### I Don't Wanna Be Without You
 {{< youtube id="Y7Kc_zDU2RI" title="I Don't Wanna Be Without You" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Mono (Gold Transparent) |
 | Label          | Daptone Records |
 | Catalog Number | DAP-051 |

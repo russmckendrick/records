@@ -42,9 +42,12 @@ styles: ["Prog Rock", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-later-years-1987-2019/1477509316" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-later-years-1987-2019/1477509316" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,7 +56,6 @@ styles: ["Prog Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation (180 gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLY19LP |

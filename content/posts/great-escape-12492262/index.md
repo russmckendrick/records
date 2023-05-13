@@ -46,9 +46,12 @@ styles: ["Prog Rock", "Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/great-escape/1407034902" >}}
+{{< applemusic url="https://music.apple.com/gb/album/great-escape/1407034902" >}}<br>
+
+
 ## Videos
 ### Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)
 {{< youtube id="CV07GXCsQGg" title="Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Prog Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 491LP |

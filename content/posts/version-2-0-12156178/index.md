@@ -55,9 +55,14 @@ Version 2.0 is the second studio album by American rock band Garbage. It was rel
 Version 2.0 was a commercial success, topping the charts in the United Kingdom, France, and New Zealand, and earning platinum certifications in several countries. The album has sold 1.7 million copies in the United States and four million copies worldwide. Garbage embarked on an 18-month-long world tour, and released a string of commercially successful singles backed with innovative music videos. Version 2.0 received generally positive reviews from critics, and was included on year-end lists of 1998's best albums by several publications. In 1999, it was nominated for Grammy Awards for Album of the Year and Best Rock Album. The album's third single "Special" was further nominated the following year for Best Rock Song and for Best Rock Performance by a Duo or Group.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/version-2-0-20th-anniversary-edition-2018-remaster/1544368240" >}}
+{{< applemusic url="https://music.apple.com/gb/album/version-2-0-20th-anniversary-edition-2018-remaster/1544368240" >}}<br>
+
+
 
 
 ## Release Images
@@ -67,8 +72,6 @@ Version 2.0 was a commercial success, topping the charts in the United Kingdom, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Version_2.0 |
-| Wikipedia Summary | Version 2.0 is the second studio album by American rock band Garbage. It was released on May 11, 1998, by Mushroom Records worldwide, with the North American release on Almo Sounds the following day. With this album, the band aimed to improve and expand upon the style of their 1995 eponymous debut rather than reinventing their sound. Lead singer Shirley Manson wrote dark, introspective lyrics, which she felt complemented the songs' melodies.<br>Version 2.0 was a commercial success, topping the charts in the United Kingdom, France, and New Zealand, and earning platinum certifications in several countries. The album has sold 1.7 million copies in the United States and four million copies worldwide. Garbage embarked on an 18-month-long world tour, and released a string of commercially successful singles backed with innovative music videos. Version 2.0 received generally positive reviews from critics, and was included on year-end lists of 1998's best albums by several publications. In 1999, it was nominated for Grammy Awards for Album of the Year and Best Rock Album. The album's third single "Special" was further nominated the following year for Best Rock Song and for Best Rock Performance by a Duo or Group.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Orange) |
 | Label          | Stun Volume |
 | Catalog Number | STNVOL030V |

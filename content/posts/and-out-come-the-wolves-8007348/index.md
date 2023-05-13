@@ -48,9 +48,12 @@ styles: ["Punk", "Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/and-out-come-the-wolves/1485040366" >}}
+{{< applemusic url="https://music.apple.com/gb/album/and-out-come-the-wolves/1485040366" >}}<br>
+
+
 ## Videos
 ### Rancid - Maxwell Murder (Full Album Stream)
 {{< youtube id="XcccqG6-dDg" title="Rancid - Maxwell Murder (Full Album Stream)" >}}<br>
@@ -81,7 +84,6 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Gold, 180g) |
 | Label          | Epitaph |
 | Catalog Number | 7441-1 |

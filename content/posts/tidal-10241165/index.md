@@ -48,9 +48,15 @@ A few days after accepting her Best New Artist award at the 1997 MTV Video Music
 At the time, albums like Alanis Morissette’s <i>Jagged Little Pill</i> and No Doubt’s <i>Tragic Kingdom</i> (and events like the all-female Lilith Fair tour) had brought a feminist edge to the mainstream. But <i>Tidal</i> is both angrier and subtler. A rap fan who’s said the only album she bought in 1997 was <i>Wu-Tang Forever</i>, Apple knows how to make herself ten feet tall (“Sleep to Dream”) while also expressing how small society has made her feel (“Sullen Girl”). She sounds older than she is (“Shadowboxer”), but points out that sexual abuse has a way of making you grow up fast (“The Child Is Gone”). If she takes pride in her powers of seduction, it’s only because it’s one of the few she’s allowed to exercise (“Criminal”). While Billie Holiday—a childhood influence—transformed her pain with laughter, Apple wields hers like a blade: Discreet, but it’ll cut you.<br />
 She’d grown up with classical piano and jazz standards—worlds where technical proficiency can often outweigh raw feeling. But for all its finesse, the lingering mood of <i>Tidal</i> is bitter and resolute: She’s going to bare her heart no matter how much it hurts. Listening to her spar with Howard Stern in 1997, you want to root for her not just because she’s getting bullied by a guy more than twice her age, but because she’s brave enough to fight back. As to her speech at the MTV awards, she says she got into this line of work to say whatever it is she wanted to say, and that’s what she’s gonna do. So how was she any different from him?
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tidal/309677190" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tidal/309677190" >}}<br>
+
+
 ## Videos
 ### Fiona Apple - The First Taste
 {{< youtube id="uiuk0z8dzXo" title="Fiona Apple - The First Taste" >}}<br>
@@ -68,8 +74,6 @@ She’d grown up with classical piano and jazz standards—worlds where technica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tidal_(album) |
-| Wikipedia Summary | Tidal is the debut studio album by American singer-songwriter Fiona Apple, released on July 23, 1996, by The WORK Group. Tidal produced six singles: "Shadowboxer", "Slow Like Honey", "Sleep to Dream", "The First Taste", "Criminal" and "Never Is a Promise". "Criminal", the album's most popular single, won a Grammy Award for Best Female Rock Vocal Performance in 1998. In 2017, Tidal got its first vinyl run as a "Vinyl Me Please" exclusive "Record of the Month". |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP 45 RPM Album Club Edition Reissue Remastered (180 gram) |
 | Label          | Epic |
 | Catalog Number | 88985420001 |

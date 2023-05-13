@@ -34,9 +34,12 @@ styles: ["Contemporary"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}
+{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}<br>
+
+
 ## Videos
 ### AVAWAVES - AWAKENING (Official video)
 {{< youtube id="qiymWhnJO50" title="AVAWAVES - AWAKENING (Official video)" >}}<br>
@@ -48,7 +51,6 @@ styles: ["Contemporary"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | One Little Independent Records |
 | Catalog Number | TPLP1597 |

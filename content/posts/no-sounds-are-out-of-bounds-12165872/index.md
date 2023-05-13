@@ -46,9 +46,14 @@ styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 <!-- section break -->
 
 No Sounds Are Out of Bounds is the fifteenth studio album by English ambient house duo the Orb. The album was released on 22 June 2018 via Cooking Vinyl. It includes contributions from Youth, Roger Eno, Hollie Cook, Guy Pratt, Jah Wobble, Gaudi, Roney FM and Michael Rendall.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-sounds-are-out-of-bounds-deluxe/1391652456" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-sounds-are-out-of-bounds-deluxe/1391652456" >}}<br>
+
+
 ## Videos
 ### The Orb - Doughnuts Forever (Unofficial Video)
 {{< youtube id="dRMwQ85qD5U" title="The Orb - Doughnuts Forever (Unofficial Video)" >}}<br>
@@ -67,8 +72,6 @@ No Sounds Are Out of Bounds is the fifteenth studio album by English ambient hou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Sounds_Are_Out_of_Bounds |
-| Wikipedia Summary | No Sounds Are Out of Bounds is the fifteenth studio album by English ambient house duo the Orb. The album was released on 22 June 2018 via Cooking Vinyl. It includes contributions from Youth, Roger Eno, Hollie Cook, Guy Pratt, Jah Wobble, Gaudi, Roney FM and Michael Rendall. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Limited Edition (Blue) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP711 |

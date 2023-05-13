@@ -36,9 +36,14 @@ styles: ["Indie Rock", "Shoegaze"]
 <!-- section break -->
 
 Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blood-music/351372160" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blood-music/351372160" >}}<br>
+
+
 ## Videos
 ### Global Communication ~ Pentamerous Metamorphosis (Full Album)
 {{< youtube id="Kpj6vyxS4kw" title="Global Communication ~ Pentamerous Metamorphosis (Full Album)" >}}<br>
@@ -67,8 +72,6 @@ Blood Music is the second and final studio album by British shoegaze band Chapte
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Music_(Chapterhouse_album) |
-| Wikipedia Summary | Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Limited Edition Numbered Reissue Stereo (Red transparent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2700 |

@@ -51,9 +51,15 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 Depeche Mode’s lyrics have been so consumed by personal anxieties during the latter half of their career that it’s startling to hear some explicitly political songs here. Stripping back their blues influences in favor of muscular electronics, they rage against apathy and the ruling classes on “Going Backwards”, “Where’s the Revolution,” and “Scum”. However, it’s in the more optimistic and confessional moments—Krautrock peace anthem “So Much Love” and distorted Motown ballad “Poison Heart”—that <i>Spirit</i> truly excels.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/spirit-deluxe/1199983730" >}}
+{{< applemusic url="https://music.apple.com/gb/album/spirit-deluxe/1199983730" >}}<br>
+
+
 ## Videos
 ### Depeche Mode - Where's the Revolution (Official Video)
 {{< youtube id="jsCR05oKROA" title="Depeche Mode - Where's the Revolution (Official Video)" >}}<br>
@@ -66,8 +72,6 @@ Depeche Mode’s lyrics have been so consumed by personal anxieties during the l
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spirit_(Depeche_Mode_album) |
-| Wikipedia Summary | Spirit is the fourteenth studio album by English electronic music band Depeche Mode, released on 17 March 2017 by Columbia Records and Mute Records. The album was recorded with new producer James Ford, and was preceded by the single "Where's the Revolution". It was the final Depeche Mode studio album to feature co-founder and keyboardist Andy Fletcher before his death on 26 May 2022. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88985 41165 1 |

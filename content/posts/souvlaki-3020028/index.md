@@ -40,9 +40,14 @@ styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 
 Souvlaki is the second studio album by English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.
 On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/souvlaki/399211729" >}}
+{{< applemusic url="https://music.apple.com/gb/album/souvlaki/399211729" >}}<br>
+
+
 ## Videos
 ### Slowdive - Alison (Video)
 {{< youtube id="jkM3M3zGcGE" title="Slowdive - Alison (Video)" >}}<br>
@@ -64,8 +69,6 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Souvlaki_(album) |
-| Wikipedia Summary | Souvlaki is the second studio album by English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.<br>On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP202 |

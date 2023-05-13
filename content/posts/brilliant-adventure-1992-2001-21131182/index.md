@@ -260,9 +260,12 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brilliant-adventure-1992-2001/1589252338" >}}
+{{< applemusic url="https://music.apple.com/gb/album/brilliant-adventure-1992-2001/1589252338" >}}<br>
+
+
 
 
 ## Release Images
@@ -271,7 +274,6 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Box Set Compilation Limited Edition, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Single Sided Album Etched Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 3× LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Single Sided Album Etched, Vinyl 4× LP Compilation Remastered |
 | Label          | Parlophone |
 | Catalog Number | DBXL 5 |

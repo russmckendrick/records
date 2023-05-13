@@ -45,9 +45,14 @@ styles: ["Post Rock", "Math Rock", "Shoegaze"]
 <!-- section break -->
 
 Wild Light is the fifth studio album by 65daysofstatic, released on 16 September 2013 in the UK and Europe and on 29 October 2013 in the United States. It is the band's first album released on the Superball Music label.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wild-light/1045712161" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wild-light/1045712161" >}}<br>
+
+
 ## Videos
 ### 65daysofstatic - Safe Passage
 {{< youtube id="V480DQCRSJ0" title="65daysofstatic - Safe Passage" >}}<br>
@@ -70,8 +75,6 @@ Wild Light is the fifth studio album by 65daysofstatic, released on 16 September
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wild_Light_(album) |
-| Wikipedia Summary | Wild Light is the fifth studio album by 65daysofstatic, released on 16 September 2013 in the UK and Europe and on 29 October 2013 in the United States. It is the band's first album released on the Superball Music label. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 028 |

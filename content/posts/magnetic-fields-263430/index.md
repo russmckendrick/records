@@ -36,9 +36,14 @@ styles: ["Ambient"]
 <!-- section break -->
 
 Though Jean-Michel Jarre's first album of the ’80s is composed of a single electronic suite, it’s both more urgent and features greater rhythmic momentum than any of the epic synthesiser journeys he’d taken before. Seemingly informed by the early ’80s synth-pop explosion—for which Jarre’s earlier albums helped lay the groundwork—<i>Les Chants Magnétiques</i> is the sound of a concept coming full circle. Upbeat, percolating rhythms and perky snatches of melody tickle the ear along the way, as the extended piece evolves.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/les-chants-magn%C3%A9tiques-magnetic-fields/1027735663" >}}
+{{< applemusic url="https://music.apple.com/gb/album/les-chants-magn%C3%A9tiques-magnetic-fields/1027735663" >}}<br>
+
+
 ## Videos
 ### Jean-Michel Jarre - Les Chants Magnétiques [Magnetic Fields] (1981)
 {{< youtube id="kf3mk4jDC4M" title="Jean-Michel Jarre - Les Chants Magnétiques [Magnetic Fields] (1981)" >}}<br>
@@ -86,8 +91,6 @@ Though Jean-Michel Jarre's first album of the ’80s is composed of a single ele
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Though Jean-Michel Jarre's first album of the ’80s is composed of a single electronic suite, it’s both more urgent and features greater rhythmic momentum than any of the epic synthesiser journeys he’d taken before. Seemingly informed by the early ’80s synth-pop explosion—for which Jarre’s earlier albums helped lay the groundwork—<i>Les Chants Magnétiques</i> is the sound of a concept coming full circle. Upbeat, percolating rhythms and perky snatches of melody tickle the ear along the way, as the extended piece evolves. |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLS 1033 |

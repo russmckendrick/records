@@ -39,9 +39,14 @@ styles: ["Alternative Rock", "Grunge"]
 <!-- section break -->
 
 Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in the form of Superfuzz Bigmuff Plus Early Singles.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/superfuzz-bigmuff-deluxe-edition/279888941" >}}
+{{< applemusic url="https://music.apple.com/gb/album/superfuzz-bigmuff-deluxe-edition/279888941" >}}<br>
+
+
 ## Videos
 ### Need
 {{< youtube id="Pf_yzsgnOnI" title="Need" >}}<br>
@@ -60,8 +65,6 @@ Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Superfuzz_Bigmuff |
-| Wikipedia Summary | Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in the form of Superfuzz Bigmuff Plus Early Singles. |
-| Release Year   | 1988                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Glitterhouse Records |
 | Catalog Number | GR 0034 |

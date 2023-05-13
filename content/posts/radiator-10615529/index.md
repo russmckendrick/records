@@ -49,9 +49,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radiator/1651927761" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radiator/1651927761" >}}<br>
+
+
 ## Videos
 ### Super Furry Animals - Hermann Loves Pauline (Video)
 {{< youtube id="njhQ23ZKjFU" title="Super Furry Animals - Hermann Loves Pauline (Video)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180gram) |
 | Label          | BMG |
 | Catalog Number | BMGCAT2LP98 |

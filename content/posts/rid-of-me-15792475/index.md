@@ -48,9 +48,15 @@ Rid of Me is the second studio album by English singer-songwriter and musician P
 The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of Harvey on guitar and vocals, Rob Ellis on drums and background vocals, and Steve Vaughan on bass. Most of the songs on the album were recorded by Steve Albini, and it was the last album they recorded as a trio before disbanding in late 1993. Rid of Me was met with critical acclaim, and is cited as one of the greatest albums of all time, ranking at number 153 on the 2020 version of Rolling Stone's 500 Greatest Albums of All Time (up from 406 on the list's previous edition).
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rid-of-me/1440923277" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rid-of-me/1440923277" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - Man-Size
 {{< youtube id="WuJE40OBt48" title="PJ Harvey - Man-Size" >}}<br>
@@ -77,8 +83,6 @@ The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rid_of_Me |
-| Apple Music Summary | After introducing a trio sound that fan Warren Zevon likened to Bartok, PJ Harvey moved on to up the ante with producer Steve Albini. Bringing the use of soft-loud dynamics to a new, er, levels, Albini showcased the Harvey band's rumble in a way that made even their great debut, <i>Dry</i>, sound a little tame. Filled with sexual and social power and loathing, the record also put across a wicked sense of humor, as when a male band member howls a "Lick my legs, I'm on fire" mantra at the end of the title track or the outfit turns Dylan's "Highway 61 Revisited" into a sonic carnival ride. The blend was not unlike that of Polly Jean Harvey's hero Captain Beefheart, who was apparently pleased: The two have been confidantes for years. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Island Records |
 | Catalog Number | 0851112 |

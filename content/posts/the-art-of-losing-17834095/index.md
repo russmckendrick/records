@@ -46,9 +46,14 @@ styles: []
 <!-- section break -->
 
 The Art of Losing is the second studio album by Welsh musician The Anchoress (birth name Catherine Anne Davies). It was released on 12 March 2021 by Kscope. Written and produced by Davies, the record has a dark alt-pop sound. Lyrically, it draws from grief, fury, and Davies's personal experiences. Upon release, the album was met with critical acclaim, with praise towards Davies's storytelling.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-art-of-losing/1535065686" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-art-of-losing/1535065686" >}}<br>
+
+
 ## Videos
 ### The Exchange - The Anchoress feat. James Dean Bradfield
 {{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat. James Dean Bradfield" >}}<br>
@@ -61,8 +66,6 @@ The Art of Losing is the second studio album by Welsh musician The Anchoress (bi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Art_of_Losing_(The_Anchoress_album) |
-| Wikipedia Summary | The Art of Losing is the second studio album by Welsh musician The Anchoress (birth name Catherine Anne Davies). It was released on 12 March 2021 by Kscope. Written and produced by Davies, the record has a dark alt-pop sound. Lyrically, it draws from grief, fury, and Davies's personal experiences. Upon release, the album was met with critical acclaim, with praise towards Davies's storytelling. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Gold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1111 |

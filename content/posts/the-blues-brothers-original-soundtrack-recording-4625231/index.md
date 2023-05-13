@@ -39,9 +39,14 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 <!-- section break -->
 
 The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy. 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443" >}}<br>
+
+
 ## Videos
 ### The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072
 {{< youtube id="SSo3LizTu_I" title="The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072" >}}<br>
@@ -65,8 +70,6 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy.  |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Album |
 | Label          | Atlantic |
 | Catalog Number | K 50715 |

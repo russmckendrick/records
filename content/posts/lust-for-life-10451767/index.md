@@ -41,9 +41,14 @@ styles: []
 "Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lust-for-life/1440882892" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lust-for-life/1440882892" >}}<br>
+
+
 ## Videos
 ### Lust For Life
 {{< youtube id="XPax7gTmgXA" title="Lust For Life" >}}<br>
@@ -68,8 +73,6 @@ styles: []
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song) |
-| Wikipedia Summary | "Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180) |
 | Label          | UMC |
 | Catalog Number | 00600753772454 |

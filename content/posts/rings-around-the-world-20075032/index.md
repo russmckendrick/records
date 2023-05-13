@@ -40,9 +40,12 @@ styles: ["IDM", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/207054203" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/207054203" >}}<br>
+
+
 ## Videos
 ### Super Furry Animals - Juxtapozed with U (Video)
 {{< youtube id="dmCZ4f8NhOk" title="Super Furry Animals - Juxtapozed with U (Video)" >}}<br>
@@ -58,7 +61,6 @@ styles: ["IDM", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT510DLP |

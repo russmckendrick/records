@@ -43,7 +43,10 @@ styles: ["Post-Punk", "New Wave", "Synth-pop", "Coldwave"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -52,7 +55,6 @@ styles: ["Post-Punk", "New Wave", "Synth-pop", "Coldwave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1986                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Fiction Records |
 | Catalog Number | FIXH 12 |

@@ -40,9 +40,12 @@ styles: ["Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/masseducation/1437029839" >}}
+{{< applemusic url="https://music.apple.com/gb/album/masseducation/1437029839" >}}<br>
+
+
 ## Videos
 ### New York (piano Version)
 {{< youtube id="xRHoqSIQnPg" title="New York (piano Version)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Loma Vista |
 | Catalog Number | LVR00448 |

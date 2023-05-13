@@ -41,9 +41,14 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 Best Shots is a Platinum-certified greatest hits album released by the American rock singer Pat Benatar in 1987 in Europe and in an updated version in 1989 in North America. It peaked at No. 67 on the U.S. Billboard 200 album chart, two years after the album peaked at No. 6 in the UK.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/best-shots/724322042" >}}
+{{< applemusic url="https://music.apple.com/gb/album/best-shots/724322042" >}}<br>
+
+
 ## Videos
 ### Pat Benatar - Love is a battlefield 1984
 {{< youtube id="0q2jL8hpT_0" title="Pat Benatar - Love is a battlefield 1984" >}}<br>
@@ -58,8 +63,6 @@ Best Shots is a Platinum-certified greatest hits album released by the American 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Best_Shots |
-| Wikipedia Summary | Best Shots is a Platinum-certified greatest hits album released by the American rock singer Pat Benatar in 1987 in Europe and in an updated version in 1989 in North America. It peaked at No. 67 on the U.S. Billboard 200 album chart, two years after the album peaked at No. 6 in the UK.<br><br> |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Chrysalis |
 | Catalog Number | PATV1 |

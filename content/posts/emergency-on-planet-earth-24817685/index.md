@@ -49,9 +49,14 @@ styles: ["Acid Jazz"]
 
 Emergency on Planet Earth is the debut studio album by English funk and acid jazz band Jamiroquai, released on 14 June 1993 under Sony Soho Square. Prior its release, the band debuted in 1992 with "When You Gonna Learn" under Acid Jazz Records, and front-man Jay Kay was given a major-label deal with Sony Music. The album was produced as Kay formed the band and is characterised by its acid jazz foundations, layers of instrumentation and socially charged lyrics.
 Critical reviews of the album were generally positive and noted its 1970s stylings. It reached number one in the UK Albums Chart and sold over 1,200,000 copies worldwide. Its single "Too Young to Die" peaked at number 10 in the UK Singles Chart. A remastered version of the album was released in 2013 to coincide with the 20th anniversary of the album's release.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/emergency-on-planet-earth-remastered/600870407" >}}
+{{< applemusic url="https://music.apple.com/gb/album/emergency-on-planet-earth-remastered/600870407" >}}<br>
+
+
 ## Videos
 ### Jamiroquai - When You Gonna Learn? (Official Music Video)
 {{< youtube id="eo7iwlMFPrM" title="Jamiroquai - When You Gonna Learn? (Official Music Video)" >}}<br>
@@ -74,8 +79,6 @@ Critical reviews of the album were generally positive and noted its 1970s stylin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Emergency_on_Planet_Earth |
-| Wikipedia Summary | Emergency on Planet Earth is the debut studio album by English funk and acid jazz band Jamiroquai, released on 14 June 1993 under Sony Soho Square. Prior its release, the band debuted in 1992 with "When You Gonna Learn" under Acid Jazz Records, and front-man Jay Kay was given a major-label deal with Sony Music. The album was produced as Kay formed the band and is characterised by its acid jazz foundations, layers of instrumentation and socially charged lyrics.<br>Critical reviews of the album were generally positive and noted its 1970s stylings. It reached number one in the UK Albums Chart and sold over 1,200,000 copies worldwide. Its single "Too Young to Die" peaked at number 10 in the UK Singles Chart. A remastered version of the album was released in 2013 to coincide with the 20th anniversary of the album's release. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Reissue Special Edition (Clear, 180g) |
 | Label          | Sony Music |
 | Catalog Number | 19658702311 |

@@ -47,9 +47,14 @@ styles: ["New Wave", "Darkwave"]
 <!-- section break -->
 
 Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by English musician Gary Numan, released on 9 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/splinter-songs-from-a-broken-mind/1170105981" >}}
+{{< applemusic url="https://music.apple.com/gb/album/splinter-songs-from-a-broken-mind/1170105981" >}}<br>
+
+
 ## Videos
 ### Here in the Black
 {{< youtube id="HCxk8FCu4xE" title="Here in the Black" >}}<br>
@@ -71,8 +76,6 @@ Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by Engl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Splinter_(Songs_from_a_Broken_Mind) |
-| Wikipedia Summary | Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by English musician Gary Numan, released on 9 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album (180) |
 | Label          | Mortal Records |
 | Catalog Number | MORTALLP15 |

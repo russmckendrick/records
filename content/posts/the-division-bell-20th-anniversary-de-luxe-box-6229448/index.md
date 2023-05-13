@@ -47,7 +47,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -56,7 +59,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Box Set Limited Edition, Vinyl 2× LP Album Remastered (Gatefold Sleeve), Blu-ray Album Remastered Stereo Multichannel, Vinyl 7" 45 RPM Single (Red Color), Vinyl 7" 45 RPM Single (Transparent), Vinyl 12" Single (Blue Color), CD Album Reissue Remastered |
 | Label          | Warner Music |
 | Catalog Number | WPZR-30576/83 |

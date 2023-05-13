@@ -28,9 +28,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/variations-on-darkness/1458756921" >}}
+{{< applemusic url="https://music.apple.com/gb/album/variations-on-darkness/1458756921" >}}<br>
+
+
 ## Videos
 ### The Hungry Ghosts, We Live in an Old Chaos of the Sun
 {{< youtube id="ywHYsR6WqHs" title="The Hungry Ghosts, We Live in an Old Chaos of the Sun" >}}<br>
@@ -44,7 +47,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK31LP |

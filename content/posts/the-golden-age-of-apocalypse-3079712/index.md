@@ -49,9 +49,14 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 <!-- section break -->
 
 The Golden Age of Apocalypse is the debut studio album by Thundercat, released on Brainfeeder in 2011.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-golden-age-of-apocalypse/453767128" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-golden-age-of-apocalypse/453767128" >}}<br>
+
+
 ## Videos
 ### Mystery Machine (The Golden Age of Apocalypse)
 {{< youtube id="-9DagL4amrY" title="Mystery Machine (The Golden Age of Apocalypse)" >}}<br>
@@ -78,8 +83,6 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Golden_Age_of_Apocalypse |
-| Wikipedia Summary | The Golden Age of Apocalypse is the debut studio album by Thundercat, released on Brainfeeder in 2011. |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF023 |

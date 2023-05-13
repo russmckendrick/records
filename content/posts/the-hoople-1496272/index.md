@@ -40,9 +40,14 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 
 The Hoople is the seventh studio album by British rock band Mott the Hoople. The album peaked in the UK Albums Chart at No. 11, whilst its highest chart rating in the US was No. 28. A remastered and expanded version was released by Sony BMG on the Columbia Legacy label in Europe in 2006.  It was the only album to feature guitarist Ariel Bender (who replaced Mick Ralphs following his departure to form Bad Company), and the last album to feature vocalist Ian Hunter before his departure for a solo career.
 The album's cover features a stylised portrait of Kari-Ann Muller (with the band members in her hair), who also graces the cover of Roxy Music's 1972 debut album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mott-the-hoople-greatest-hits/532943087" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mott-the-hoople-greatest-hits/532943087" >}}<br>
+
+
 ## Videos
 ### Mott The Hoople The Golden Age of Rock 'n' Roll
 {{< youtube id="gyFidNXfkMw" title="Mott The Hoople The Golden Age of Rock 'n' Roll" >}}<br>
@@ -64,8 +69,6 @@ The album's cover features a stylised portrait of Kari-Ann Muller (with the band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Hoople |
-| Wikipedia Summary | The Hoople is the seventh studio album by British rock band Mott the Hoople. The album peaked in the UK Albums Chart at No. 11, whilst its highest chart rating in the US was No. 28. A remastered and expanded version was released by Sony BMG on the Columbia Legacy label in Europe in 2006.  It was the only album to feature guitarist Ariel Bender (who replaced Mick Ralphs following his departure to form Bad Company), and the last album to feature vocalist Ian Hunter before his departure for a solo career.<br>The album's cover features a stylised portrait of Kari-Ann Muller (with the band members in her hair), who also graces the cover of Roxy Music's 1972 debut album. |
-| Release Year   | 1974                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | S 69062 |

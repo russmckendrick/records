@@ -34,9 +34,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/trains-boats-and-planes/125917251" >}}
+{{< applemusic url="https://music.apple.com/gb/album/trains-boats-and-planes/125917251" >}}<br>
+
+
 ## Videos
 ### This Is Not A Song
 {{< youtube id="4gKKL_jw5WI" title="This Is Not A Song" >}}<br>
@@ -59,7 +62,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP |
 | Label          | Go! Discs |
 | Catalog Number | 828-369-1 |

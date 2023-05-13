@@ -49,9 +49,14 @@ styles: ["Hardcore Hip-Hop"]
 Run the Jewels 2 is the second studio album by American hip hop duo Run the Jewels, which consists of Killer Mike and El-P. The album was released early for free on October 24, 2014, and the following day on iTunes. It was made available on CD and LP by Mass Appeal Records and RBC Records on October 28, 2014.
 Run the Jewels 2 received widespread acclaim from critics for its darker and more layered production, Killer Mike and El-P's lyricism and chemistry and its guest contributions. Several publications also ranked it as the best album of 2014, including Pitchfork, Complex and Stereogum. The album debuted at number 50 on the US Billboard 200, selling 12,000 copies in the first week.
 A parody remix album, Meow the Jewels, was released for free featuring beats created entirely from cat sounds. In addition to Meow the Jewels, a standard remix album was scheduled to be released by Fool's Gold Records in 2015 as well.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-2/1569903245" >}}
+{{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-2/1569903245" >}}<br>
+
+
 ## Videos
 ### Run The Jewels - Oh My Darling (Don't Cry) (Official Video)
 {{< youtube id="G-S9mtYowPY" title="Run The Jewels - Oh My Darling (Don't Cry) (Official Video)" >}}<br>
@@ -77,8 +82,6 @@ A parody remix album, Meow the Jewels, was released for free featuring beats cre
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Run_the_Jewels_2 |
-| Wikipedia Summary | Run the Jewels 2 is the second studio album by American hip hop duo Run the Jewels, which consists of Killer Mike and El-P. The album was released early for free on October 24, 2014, and the following day on iTunes. It was made available on CD and LP by Mass Appeal Records and RBC Records on October 28, 2014.<br>Run the Jewels 2 received widespread acclaim from critics for its darker and more layered production, Killer Mike and El-P's lyricism and chemistry and its guest contributions. Several publications also ranked it as the best album of 2014, including Pitchfork, Complex and Stereogum. The album debuted at number 50 on the US Billboard 200, selling 12,000 copies in the first week.<br>A parody remix album, Meow the Jewels, was released for free featuring beats created entirely from cat sounds. In addition to Meow the Jewels, a standard remix album was scheduled to be released by Fool's Gold Records in 2015 as well. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue Special Edition (Teal, Gatefold, w/ Gangsta Boo) |
 | Label          | Mass Appeal |
 | Catalog Number | MSAP0005LP |

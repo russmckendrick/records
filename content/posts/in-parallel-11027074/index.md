@@ -36,9 +36,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-parallel/1258197590" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-parallel/1258197590" >}}<br>
+
+
 ## Videos
 ### Dhani Harrison - Never Know [Audio]
 {{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}<br>
@@ -52,8 +57,6 @@ Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo a
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (180g) |
 | Label          | BMG |
 | Catalog Number | 538317510 |

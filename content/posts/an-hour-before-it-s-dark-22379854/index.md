@@ -38,9 +38,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/an-hour-before-its-dark/1593404034" >}}
+{{< applemusic url="https://music.apple.com/gb/album/an-hour-before-its-dark/1593404034" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue) |
 | Label          | Ear Music |
 | Catalog Number | 0217171EMU |

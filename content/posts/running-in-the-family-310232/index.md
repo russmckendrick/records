@@ -38,9 +38,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/running-in-the-family/1443532962" >}}
+{{< applemusic url="https://music.apple.com/gb/album/running-in-the-family/1443532962" >}}<br>
+
+
 ## Videos
 ### Level 42 - Running In The Family (Vier gegen Willi) (Remastered)
 {{< youtube id="waOLCp6jbWM" title="Level 42 - Running In The Family (Vier gegen Willi) (Remastered)" >}}<br>
@@ -52,7 +55,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1987                                   |
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | POLH 42 |

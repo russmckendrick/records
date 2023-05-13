@@ -31,7 +31,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ned's Atomic Dustbin - Faceless HD
 {{< youtube id="-sbuANFW8qE" title="Ned's Atomic Dustbin - Faceless HD" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" 45 RPM |
 | Label          | Sony Soho Square |
 | Catalog Number | 657462 6 |

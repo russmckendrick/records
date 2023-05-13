@@ -44,9 +44,12 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/matt-berry-and-the-maypoles-live/1152533410" >}}
+{{< applemusic url="https://music.apple.com/gb/album/matt-berry-and-the-maypoles-live/1152533410" >}}<br>
+
+
 ## Videos
 ### Matt Berry & The Maypoles,  Snuff Box, 13/02/2015
 {{< youtube id="mugYr-k8YGA" title="Matt Berry & The Maypoles,  Snuff Box, 13/02/2015" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (Deep Translucent Blue, Gatefold) |
 | Label          | Acid Jazz |
 | Catalog Number | AJX397X |

@@ -34,9 +34,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-good-wishes/1385894969" >}}
+{{< applemusic url="https://music.apple.com/gb/album/all-good-wishes/1385894969" >}}<br>
+
+
 ## Videos
 ### Gulp - Search For Your Love (Official Video)
 {{< youtube id="Vr3Ib8vomG0" title="Gulp - Search For Your Love (Official Video)" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | E.L.K. Records |
 | Catalog Number | ELKREC5LP |

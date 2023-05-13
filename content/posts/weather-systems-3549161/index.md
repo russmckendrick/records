@@ -36,9 +36,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/weather-systems/674013181" >}}
+{{< applemusic url="https://music.apple.com/gb/album/weather-systems/674013181" >}}<br>
+
+
 ## Videos
 ### Anathema - Untouchable (part one) (from Weather Systems)
 {{< youtube id="av6sVWXeCWQ" title="Anathema - Untouchable (part one) (from Weather Systems)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE824 |

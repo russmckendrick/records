@@ -42,9 +42,14 @@ Where You Been is the fifth official studio album by Dinosaur Jr., released on F
 The song "Start Choppin'" was their biggest hit, reaching number 3 on the Modern Rock Tracks chart in the U.S., and the Top 20 of the UK Singles Chart. This was drummer Murph's last recording with J Mascis until 2007's Beyond.
 This was the only Dinosaur Jr. album between 1988's Bug and 2007's Beyond to be recorded entirely with a full band. During Dinosaur Jr.'s major label years, Mascis performed most of the instruments himself on record.
 The album peaked with 263,000 units sold in the US.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/where-you-been/1318714108" >}}
+{{< applemusic url="https://music.apple.com/gb/album/where-you-been/1318714108" >}}<br>
+
+
 ## Videos
 ### Dinosaur Jr - Out There
 {{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}<br>
@@ -61,8 +66,6 @@ The album peaked with 263,000 units sold in the US.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Where_You_Been |
-| Wikipedia Summary | Where You Been is the fifth official studio album by Dinosaur Jr., released on February 9, 1993.<br>The song "Start Choppin'" was their biggest hit, reaching number 3 on the Modern Rock Tracks chart in the U.S., and the Top 20 of the UK Singles Chart. This was drummer Murph's last recording with J Mascis until 2007's Beyond.<br>This was the only Dinosaur Jr. album between 1988's Bug and 2007's Beyond to be recorded entirely with a full band. During Dinosaur Jr.'s major label years, Mascis performed most of the instruments himself on record.<br>The album peaked with 263,000 units sold in the US. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Vinyl 180 |
 | Catalog Number | VIN180LP069 |

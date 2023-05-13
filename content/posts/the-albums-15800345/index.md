@@ -113,9 +113,12 @@ styles: ["Indie Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kiss-best-of-solo-albums/1538080316" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kiss-best-of-solo-albums/1538080316" >}}<br>
+
+
 
 
 ## Release Images
@@ -124,7 +127,6 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Box Set Compilation Limited Edition Special Edition, Vinyl LP Album Reissue (White, 180g), Vinyl 2× LP Compilation Reissue (Gold. 180g), Vinyl 2× LP Album Reissue (Maroon, Gatefold, 180g), Vinyl LP Album Reissue (Green, 180g), Vinyl 2× LP Album Reissue (Pink, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX49X |

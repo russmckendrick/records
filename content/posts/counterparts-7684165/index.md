@@ -48,9 +48,14 @@ styles: ["Hard Rock", "Prog Rock"]
 
 Counterparts is the fifteenth studio album by Canadian rock band Rush, released October 19, 1993, on Anthem Records. After the band finished touring its previous album Roll the Bones (1991) in mid-1992, the members took a break before starting work on a follow-up.
 Counterparts reached No. 2 in the United States, one of the band's two highest-charting albums in the country, and No. 6 in Canada. The first single, "Stick It Out", was No. 1 on the Billboard Album Rock Tracks chart for four weeks. In 1994, the instrumental "Leave That Thing Alone" was nominated for a Grammy Award for Best Rock Instrumental Performance. Counterparts was remastered in 2004 and reissued in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/counterparts-remastered/642211626" >}}
+{{< applemusic url="https://music.apple.com/gb/album/counterparts-remastered/642211626" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +65,6 @@ Counterparts reached No. 2 in the United States, one of the band's two highest-c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Counterparts_(Rush_album) |
-| Wikipedia Summary | Counterparts is the fifteenth studio album by Canadian rock band Rush, released October 19, 1993, on Anthem Records. After the band finished touring its previous album Roll the Bones (1991) in mid-1992, the members took a break before starting work on a follow-up.<br>Counterparts reached No. 2 in the United States, one of the band's two highest-charting albums in the country, and No. 6 in Canada. The first single, "Stick It Out", was No. 1 on the Billboard Album Rock Tracks chart for four weeks. In 1994, the instrumental "Leave That Thing Alone" was nominated for a Grammy Award for Best Rock Instrumental Performance. Counterparts was remastered in 2004 and reissued in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 82528 |

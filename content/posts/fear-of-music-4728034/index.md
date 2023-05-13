@@ -42,9 +42,14 @@ styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 
 Fear of Music is the third studio album by American rock band Talking Heads, released on August 3, 1979, by Sire Records. It was recorded at locations in New York City during April and May 1979 and was produced by Brian Eno and Talking Heads. The album reached number 21 on the Billboard 200 and number 33 on the UK Albums Chart. It spawned the singles "Life During Wartime", "I Zimbra", and "Cities".
 Fear of Music received favorable reviews from critics. Praise centered on its unconventional rhythms and frontman David Byrne's lyrical performances. The album is often considered one of Talking Heads' best releases and has been featured in several publications' lists of the best albums of all time.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fear-of-music/300965520" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fear-of-music/300965520" >}}<br>
+
+
 ## Videos
 ### I Zimbra (2005 Remaster)
 {{< youtube id="qKFn66dzdz0" title="I Zimbra (2005 Remaster)" >}}<br>
@@ -68,8 +73,6 @@ Fear of Music received favorable reviews from critics. Praise centered on its un
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fear_of_Music |
-| Wikipedia Summary | Fear of Music is the third studio album by American rock band Talking Heads, released on August 3, 1979, by Sire Records. It was recorded at locations in New York City during April and May 1979 and was produced by Brian Eno and Talking Heads. The album reached number 21 on the Billboard 200 and number 33 on the UK Albums Chart. It spawned the singles "Life During Wartime", "I Zimbra", and "Cities".<br>Fear of Music received favorable reviews from critics. Praise centered on its unconventional rhythms and frontman David Byrne's lyrical performances. The album is often considered one of Talking Heads' best releases and has been featured in several publications' lists of the best albums of all time. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Sire |
 | Catalog Number | R1-6076 |

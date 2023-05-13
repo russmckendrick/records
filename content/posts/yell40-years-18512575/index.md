@@ -58,7 +58,10 @@ styles: ["Electro"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Yello - Waba Duba (Official Video)
 {{< youtube id="nN9DaTXV0b0" title="Yello - Waba Duba (Official Video)" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition (180-gram) |
 | Label          | Polydor |
 | Catalog Number | 0602435602295 |

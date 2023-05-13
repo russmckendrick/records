@@ -61,9 +61,12 @@ styles: ["Soundtrack", "Score"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-1-original-television-series-soundtrack/1111049508" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-1-original-television-series-soundtrack/1111049508" >}}<br>
+
+
 ## Videos
 ### Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)
 {{< youtube id="-B--tEBZwCg" title="Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album (White) |
 | Label          | Invada |
 | Catalog Number | INV160LP |

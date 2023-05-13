@@ -39,9 +39,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 Come on Feel the Lemonheads is the sixth studio album by American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/come-on-feel-the-lemonheads/1667958046" >}}
+{{< applemusic url="https://music.apple.com/gb/album/come-on-feel-the-lemonheads/1667958046" >}}<br>
+
+
 ## Videos
 ### The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]
 {{< youtube id="66dq0FIQO8c" title="The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]" >}}<br>
@@ -58,8 +63,6 @@ Come on Feel the Lemonheads is the sixth studio album by American alternative ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Come_on_Feel_the_Lemonheads |
-| Wikipedia Summary | Come on Feel the Lemonheads is the sixth studio album by American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1240 |

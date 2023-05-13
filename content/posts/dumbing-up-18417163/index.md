@@ -57,9 +57,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Dumbing Up is the fifth and final studio album by World Party, released in 2000 on Karl Wallinger's own record label.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dumbing-up/711981890" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dumbing-up/711981890" >}}<br>
+
+
 ## Videos
 ### World Party - What Does It Mean Now?
 {{< youtube id="4Bc56d0jtdk" title="World Party - What Does It Mean Now?" >}}<br>
@@ -81,8 +86,6 @@ Dumbing Up is the fifth and final studio album by World Party, released in 2000 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dumbing_Up |
-| Wikipedia Summary | Dumbing Up is the fifth and final studio album by World Party, released in 2000 on Karl Wallinger's own record label. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Misprint Reissue Remastered Stereo (180g) |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | Seaview 5LP |

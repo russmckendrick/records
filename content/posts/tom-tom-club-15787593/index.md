@@ -36,9 +36,12 @@ styles: ["Dub", "Synth-pop", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tom-tom-club-deluxe-version/1443455978" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tom-tom-club-deluxe-version/1443455978" >}}<br>
+
+
 ## Videos
 ### Tom Tom Club  -  Wordy Rappinghood
 {{< youtube id="6Vl1m5FYlAo" title="Tom Tom Club  -  Wordy Rappinghood" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Dub", "Synth-pop", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow (Tropical) & Red) |
 | Label          | Sire |
 | Catalog Number | RGM-1070 |

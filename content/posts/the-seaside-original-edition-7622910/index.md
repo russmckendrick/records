@@ -43,7 +43,10 @@ styles: ["Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Cardiacs -  Jibber and Twitch rehearsal
 {{< youtube id="OxhuQWKwbqY" title="Cardiacs -  Jibber and Twitch rehearsal" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Remastered |
 | Label          | Alphabet (3) |
 | Catalog Number | ALPH LP 001 |

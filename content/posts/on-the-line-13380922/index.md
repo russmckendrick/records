@@ -68,9 +68,15 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 “This is an important song for me. If you read the credits on this record, it says, ‘All songs by Jenny Lewis.’ Being in a band like Rilo Kiley was all about surrendering yourself to the group. And then working with Johnathan for so long, I might have lost a little bit of myself in being a collaborator. It’s nice to know I can create something that’s totally my own. I feel like this got me back to that place.”<br />
 <b>“Rabbit Hole”</b>
 “The record was supposed to end with ‘On the Line’—the dial tone that closes the song was supposed to be the last thing you hear. But I needed to write ‘Rabbit Hole’, almost as a mantra for myself: ‘I’m not gonna go/Down the rabbit hole with you.’ I figured the song would be for my next project, but I played it for Beck and he insisted that we put it on this record. It almost feels like a perfect postscript to this whole period of my life.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/on-the-line/1449905465" >}}
+{{< applemusic url="https://music.apple.com/gb/album/on-the-line/1449905465" >}}<br>
+
+
 ## Videos
 ### Jenny Lewis - Heads Gonna Roll (Official Audio)
 {{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll (Official Audio)" >}}<br>
@@ -94,8 +100,6 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/On_the_Line_(Jenny_Lewis_album) |
-| Wikipedia Summary | On the Line is the fourth studio album (third solo album) by American singer-songwriter Jenny Lewis. The album was released on March 22, 2019, by Warner Bros. Records. Recorded at Capitol Records' Studio B, the album has contributions from Beck, Ringo Starr, Ryan Adams, Don Was, Benmont Tench, Jason Falkner, and Jim Keltner. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 585764-1 |

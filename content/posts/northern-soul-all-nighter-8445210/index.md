@@ -66,9 +66,13 @@ styles: ["Soul", "Rhythm & Blues"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6tT9kikyZYdYwfV08PhLVE" width="100%" height="500" >}}
+{{< spotify type="album" id="6tT9kikyZYdYwfV08PhLVE" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Major Lance -  Delilah  (1963)
 {{< youtube id="yBCnH7gY7sQ" title="Major Lance -  Delilah  (1963)" >}}<br>
@@ -85,7 +89,6 @@ styles: ["Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Not Now Music |
 | Catalog Number | NOT2LP226 |

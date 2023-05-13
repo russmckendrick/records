@@ -47,9 +47,14 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 <!-- section break -->
 
 Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, released in November 2016 by Caroline International. The album features acoustic studio recordings of previously released songs. It received mixed reviews.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/acoustic/1440871080" >}}
+{{< applemusic url="https://music.apple.com/gb/album/acoustic/1440871080" >}}<br>
+
+
 
 
 ## Release Images
@@ -59,8 +64,6 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Acoustic_(Simple_Minds_album) |
-| Wikipedia Summary | Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, released in November 2016 by Caroline International. The album features acoustic studio recordings of previously released songs. It received mixed reviews. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Caroline International |
 | Catalog Number | SMAC02 |

@@ -47,9 +47,14 @@ styles: ["Prog Rock", "Art Rock"]
 <!-- section break -->
 
 In Keeping Secrets of Silent Earth: 3 is the second studio album by American progressive rock band Coheed and Cambria. It was released on October 7, 2003, through Equal Vision Records. It was recorded at Applehead Recording, Woodstock, New York and produced by Michael Birnbaum and Chris Bittner.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vsq-performs-coheed-and-cambrias-in-keeping-secrets/982055465" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vsq-performs-coheed-and-cambrias-in-keeping-secrets/982055465" >}}<br>
+
+
 ## Videos
 ### Coheed and Cambria - Devil in Jersey City
 {{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}<br>
@@ -64,8 +69,6 @@ In Keeping Secrets of Silent Earth: 3 is the second studio album by American pro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Keeping_Secrets_of_Silent_Earth:_3 |
-| Wikipedia Summary | In Keeping Secrets of Silent Earth: 3 is the second studio album by American progressive rock band Coheed and Cambria. It was released on October 7, 2003, through Equal Vision Records. It was recorded at Applehead Recording, Woodstock, New York and produced by Michael Birnbaum and Chris Bittner. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Limited Edition Reissue Remastered (180g) |
 | Label          | Columbia |
 | Catalog Number | 88843099221 |

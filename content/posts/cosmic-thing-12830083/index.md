@@ -44,9 +44,14 @@ styles: ["Alternative Rock"]
 
 Cosmic Thing is the fifth studio album by American new wave band the B-52's, released in 1989 by Reprise Records. It contains the singles "Love Shack", "Roam" and "Deadbeat Club", which reached the Top 10, 20 and 30 of the US Billboard Hot 100 charts, respectively. The music video for "Love Shack" won the award for Best Group Video at the 1990 MTV Video Music Awards. Six of the album's songs were produced by Nile Rodgers in New York City, and the remaining four by Don Was in upstate New York.
 Cosmic Thing was the 9th best-selling album of 1990 in the US, peaking at No. 4 on the Billboard 200, and was an international success as well, charting in the Top 10 in the UK, and reaching No. 1 in Australia and New Zealand. The album eventually achieved 4× platinum status in the US and platinum status in the UK. Its success served as a comeback for the band, following the death of guitarist, songwriter and founding member Ricky Wilson in 1985. The band also embarked on the worldwide Cosmic Tour to promote the album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cosmic-thing/983850956" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cosmic-thing/983850956" >}}<br>
+
+
 ## Videos
 ### The B-52's - Deadbeat Club (Official Music Video)
 {{< youtube id="JXy0XnzTQuc" title="The B-52's - Deadbeat Club (Official Music Video)" >}}<br>
@@ -63,8 +68,6 @@ Cosmic Thing was the 9th best-selling album of 1990 in the US, peaking at No. 4 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cosmic_Thing |
-| Wikipedia Summary | Cosmic Thing is the fifth studio album by American new wave band the B-52's, released in 1989 by Reprise Records. It contains the singles "Love Shack", "Roam" and "Deadbeat Club", which reached the Top 10, 20 and 30 of the US Billboard Hot 100 charts, respectively. The music video for "Love Shack" won the award for Best Group Video at the 1990 MTV Video Music Awards. Six of the album's songs were produced by Nile Rodgers in New York City, and the remaining four by Don Was in upstate New York.<br>Cosmic Thing was the 9th best-selling album of 1990 in the US, peaking at No. 4 on the Billboard 200, and was an international success as well, charting in the Top 10 in the UK, and reaching No. 1 in Australia and New Zealand. The album eventually achieved 4× platinum status in the US and platinum status in the UK. Its success served as a comeback for the band, following the death of guitarist, songwriter and founding member Ricky Wilson in 1985. The band also embarked on the worldwide Cosmic Tour to promote the album. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Rainbow) |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 25854 |

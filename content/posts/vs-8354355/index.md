@@ -45,9 +45,15 @@ styles: ["Alternative Rock", "Grunge"]
 Decades after the fact, it's easy to forget that in grunge's heyday, Pearl Jam were even bigger than Nirvana. Though Kurt Cobain became the scene's icon (especially in death), Pearl Jam commanded the attention of an even wider swath of America. And their second album, <i>Vs.</i>, marks the moment where the band proved that both they and the movement they spearheaded had the legs to move forward and evolve. <br />
 In the wake of their debut's record-breaking success and resultant overexposure, Pearl Jam tried to avoid making another blockbuster. <i>Vs.</i> is less polished and anthemic than <i>Ten</i>; the songs are more idiosyncratic, and the band declined to make music videos for the singles. The core elements of the sound that made Pearl Jam superstars are still evident here—the big, blazing riffs on tunes like "Blood" and "Animal," and Vedder's leonine roar throughout most of the album. <br />
 But the band were branching out into new directions, too. The syncopated grooves of "Rats" and "W.M.A." show the grunge gods could be funky when they wanted to. "Glorified G" mates its anti-gun message with a rather R.E.M.-ish, much poppier feel. Perhaps most significantly, a good chunk of <i>Vs.</i> explores a quieter, more melodic side, as heard on the ghostly, nearly ambient "Indifference," the lyrically and sonically small-scale character study "Elderly Woman Behind the Counter in a Small Town," and the hooky, acoustic-strumming "Daughter," which became the album's biggest hit. But when they let loose on the rockers, they reminded the world of the fury and abandon that made them heroes in the first place.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vs-expanded-edition/426656353" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vs-expanded-edition/426656353" >}}<br>
+
+
 ## Videos
 ### Go (Remastered)
 {{< youtube id="gBt8DnKC1_Y" title="Go (Remastered)" >}}<br>
@@ -72,8 +78,6 @@ But the band were branching out into new directions, too. The syncopated grooves
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vs._(Pearl_Jam_album) |
-| Wikipedia Summary | Vs. (pronounced versus) is the second studio album by American rock band Pearl Jam, released October 12, 1993, through Epic Records. After a relentless touring schedule in support of their 1991 debut album Ten, Pearl Jam headed into the studio in early 1993 facing the challenge of following up the commercial success of its debut. The resulting album, Vs., featured a rawer and more aggressive sound compared with the band's previous release. It was the band's first collaboration with producer Brendan O'Brien and its first album with drummer Dave Abbruzzese.<br>Pearl Jam decided to scale back its promotional efforts for Vs., including declining to produce music videos for any of the album's singles. Upon its release, Vs. sold 950,378 copies in its first five days on sale, which set the record for most copies of an album sold during its first week, a record it held for five years. Vs. occupied the number one spot on the Billboard 200 chart for five weeks, the longest duration for a Pearl Jam album. The album received positive reviews from critics and has been certified 7x platinum by the RIAA in the United States.<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold ) |
 | Label          | Sony Music |
 | Catalog Number | 88697843131 |

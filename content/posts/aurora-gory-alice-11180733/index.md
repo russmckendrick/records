@@ -36,9 +36,14 @@ styles: ["Alternative Rock"]
 Aurora Gory Alice is the first studio album by Letters to Cleo. It was released in 1993 on CherryDisc Records and re-released in 1994 on Giant Records. The first single from the album was "I See," which got little exposure (although it was later used as the music that plays during the closing credits of Daria episode "Through a Lens Darkly"). However, the second single, "Here & Now", received much exposure when it was featured on the Melrose Place soundtrack a year later.The re-released version of the album contains different versions of "Rim Shak" and "Here & Now" than the original release. The difference between the two versions was that the second version had Scott Riebling playing bass, while the first release featured Brian Karp, who originally played bass and wrote music for the band. A demo version of "I See" is available on the 1998 release Sister.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aurora-gory-alice/298888785" >}}
+{{< applemusic url="https://music.apple.com/gb/album/aurora-gory-alice/298888785" >}}<br>
+
+
 ## Videos
 ### Letters To Cleo - Here & Now (Official Music Video)
 {{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here & Now (Official Music Video)" >}}<br>
@@ -53,8 +58,6 @@ Aurora Gory Alice is the first studio album by Letters to Cleo. It was released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aurora_Gory_Alice |
-| Wikipedia Summary | Aurora Gory Alice is the first studio album by Letters to Cleo. It was released in 1993 on CherryDisc Records and re-released in 1994 on Giant Records. The first single from the album was "I See," which got little exposure (although it was later used as the music that plays during the closing credits of Daria episode "Through a Lens Darkly"). However, the second single, "Here & Now", received much exposure when it was featured on the Melrose Place soundtrack a year later.The re-released version of the album contains different versions of "Rim Shak" and "Here & Now" than the original release. The difference between the two versions was that the second version had Scott Riebling playing bass, while the first release featured Brian Karp, who originally played bass and wrote music for the band. A demo version of "I See" is available on the 1998 release Sister.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Reissue (Purple Translucent) |
 | Label          | Dot Rat Records |
 | Catalog Number | DRR-101 |

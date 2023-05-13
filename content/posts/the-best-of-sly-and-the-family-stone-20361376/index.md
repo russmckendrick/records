@@ -51,9 +51,12 @@ styles: ["Funk", "Psychedelic", "Disco"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-sly-the-family-stone/508650571" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-sly-the-family-stone/508650571" >}}<br>
+
+
 ## Videos
 ### Sly & The Family Stone - Dance To The Music (Audio)
 {{< youtube id="Jn2PNlhvy8E" title="Sly & The Family Stone - Dance To The Music (Audio)" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Funk", "Psychedelic", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Stereo (Pink, Transparent) |
 | Label          | Epic |
 | Catalog Number | MOVLP125 |

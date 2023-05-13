@@ -40,9 +40,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-learned-the-hard-way/1484995880" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-learned-the-hard-way/1484995880" >}}<br>
+
+
 ## Videos
 ### The Game Gets Old
 {{< youtube id="fpDhfubLDPI" title="The Game Gets Old" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Daptone Records |
 | Catalog Number | DAP-019 |

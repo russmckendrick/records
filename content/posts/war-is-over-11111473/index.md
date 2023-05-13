@@ -35,9 +35,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/war-is-over/1600456979" >}}
+{{< applemusic url="https://music.apple.com/gb/album/war-is-over/1600456979" >}}<br>
+
+
 ## Videos
 ### War Is Over (Von Hertzen Brothers)
 {{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR75371 |

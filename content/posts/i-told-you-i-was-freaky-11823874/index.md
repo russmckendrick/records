@@ -47,9 +47,15 @@ styles: ["Comedy"]
 <!-- section break -->
 
 Behold one of the majestically silly couplets on this second serving of Kiwi comedy folk (“Here I am all dressed in snakeskin/Now I’m in the kitchen making love to your cake tin” purrs Jemaine Clement on the title track) and you’d be forgiven for thinking it was business (time) as usual. But the Clement and Bret McKenzie aren’t afraid to broaden their parodic palette on this follow-up. To be clear: this is a good thing. “Sugalumps” inverts traditional R&B objectification with absurd results and “You Don’t Have to Be a Prostitute” takes an audacious run at Sting’s “Roxanne”.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-told-you-i-was-freaky/335064254" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-told-you-i-was-freaky/335064254" >}}<br>
+
+
 ## Videos
 ### Flight of the Conchords- Pencils In The Wind Album Verison
 {{< youtube id="86wcD9XmJ_k" title="Flight of the Conchords- Pencils In The Wind Album Verison" >}}<br>
@@ -78,8 +84,6 @@ Behold one of the majestically silly couplets on this second serving of Kiwi com
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Told_You_I_Was_Freaky |
-| Wikipedia Summary | I Told You I Was Freaky is the second studio album by New Zealand folk parody duo Flight of the Conchords. It features 13 songs. Out of those 13, ten were released as singles on the American iTunes Store following their television debut. It was released on 20 October 2009 in the US and 2 November in the UK. One of the songs, "Demon Woman", was released as part of a downloadable track pack for the video game Rock Band. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Green Translucent) |
 | Label          | Sub Pop |
 | Catalog Number | SP 800 |

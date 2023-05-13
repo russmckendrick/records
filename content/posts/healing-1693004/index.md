@@ -35,9 +35,14 @@ styles: ["Art Rock", "Synth-pop"]
 Healing is Todd Rundgren's ninth studio album, released in 1981. The album's themes are spirituality and the human condition, something Rundgren had touched on many times in earlier works but never with the consistency exhibited here as every track explores a different aspect. The back cover image of the album (artwork by Prairie Prince) shows the caduceus  and a Qabalistic Tree of Life each overlaid by a treble clef (Which is reversed for the Tree of Life), reflecting Rundgren's linking of his spirituality and music.
 The original vinyl release includes a bonus 7" 33rpm single featuring the tracks "Time Heals" and "Tiny Demons" which are unlisted on the album sleeve but are included at the end of the later CD release as tracks 10 and 11.
 "Time Heals" and "Compassion" were both released as singles and a promotional video was made for the former, which was the eighth music video to air on MTV during its launch on August 1, 1981.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/healing/1084030825" >}}
+{{< applemusic url="https://music.apple.com/gb/album/healing/1084030825" >}}<br>
+
+
 
 
 ## Release Images
@@ -47,8 +52,6 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Healing_(Todd_Rundgren_album) |
-| Wikipedia Summary | Healing is Todd Rundgren's ninth studio album, released in 1981. The album's themes are spirituality and the human condition, something Rundgren had touched on many times in earlier works but never with the consistency exhibited here as every track explores a different aspect. The back cover image of the album (artwork by Prairie Prince) shows the caduceus  and a Qabalistic Tree of Life each overlaid by a treble clef (Which is reversed for the Tree of Life), reflecting Rundgren's linking of his spirituality and music.<br>The original vinyl release includes a bonus 7" 33rpm single featuring the tracks "Time Heals" and "Tiny Demons" which are unlisted on the album sleeve but are included at the end of the later CD release as tracks 10 and 11.<br>"Time Heals" and "Compassion" were both released as singles and a promotional video was made for the former, which was the eighth music video to air on MTV during its launch on August 1, 1981. |
-| Release Year   | 1981                                   |
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | BHS 3522 |

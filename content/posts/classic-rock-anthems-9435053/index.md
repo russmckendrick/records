@@ -54,9 +54,13 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6xhhCNbvErbq2yyRTU7CtS" width="100%" height="500" >}}
+{{< spotify type="album" id="6xhhCNbvErbq2yyRTU7CtS" width="100%" height="500" >}}<br>
+
+
 
 
 ## Release Images
@@ -65,7 +69,6 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation (180g, Gatefold) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP001 |

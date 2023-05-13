@@ -190,7 +190,10 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979
 {{< youtube id="r48BLz42NuI" title="P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979" >}}<br>
@@ -204,7 +207,6 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2012                                   |
 | Format         | CD 2× Album Reissue Remastered Stereo, CD 2× Album Reissue Remastered Stereo, CD 2× Stereo, DVD DVD-Video NTSC Stereo, Box Set Compilation Limited Edition |
 | Label          | EMI |
 | Catalog Number | 5099902943923 |

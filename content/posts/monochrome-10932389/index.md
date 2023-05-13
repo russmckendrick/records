@@ -37,7 +37,10 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Daniel Cavanagh - The Exorcist (from Monochrome)
 {{< youtube id="pKGoYUZ_B1c" title="Daniel Cavanagh - The Exorcist (from Monochrome)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE945 |

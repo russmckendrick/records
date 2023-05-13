@@ -43,9 +43,12 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wait-til-i-get-over/1668161620" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wait-til-i-get-over/1668161620" >}}<br>
+
+
 ## Videos
 ### Durand Jones - Lord Have Mercy (Official Video)
 {{< youtube id="q1Eq7tpGTjc" title="Durand Jones - Lord Have Mercy (Official Video)" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition (Blue [Blue Jay]) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC280 |

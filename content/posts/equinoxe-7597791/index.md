@@ -37,9 +37,14 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 
 This 1978 stunner presents a single electronic suite, overflowing with lush, analog synth lines. Jarre doubles down on the approach of his previous classic, <i>Oxygène</i>: The tunes are more intensely rhythmic, the synth lines even richer and more atmospheric and the graceful melodic structures recall the symphonic flow of Jarre's famed film-composer father, Maurice. Blending impressionistic atmospheres with pop-savvy hooks and the influence of German electronic music, <i>Equinoxe</i> suggests what might have happened if Kraftwerk had studied Debussy.
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/equinoxe/1027735188" >}}
+{{< applemusic url="https://music.apple.com/gb/album/equinoxe/1027735188" >}}<br>
+
+
 ## Videos
 ### Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ]
 {{< youtube id="RAhgz9aLukk" title="Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ]" >}}<br>
@@ -60,8 +65,6 @@ This 1978 stunner presents a single electronic suite, overflowing with lush, ana
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | This 1978 stunner presents a single electronic suite, overflowing with lush, analog synth lines. Jarre doubles down on the approach of his previous classic, <i>Oxygène</i>: The tunes are more intensely rhythmic, the synth lines even richer and more atmospheric and the graceful melodic structures recall the symphonic flow of Jarre's famed film-composer father, Maurice. Blending impressionistic atmospheres with pop-savvy hooks and the influence of German electronic music, <i>Equinoxe</i> suggests what might have happened if Kraftwerk had studied Debussy.<br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Disques Dreyfus |
 | Catalog Number | 88843024691 |

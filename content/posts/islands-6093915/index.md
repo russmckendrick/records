@@ -43,9 +43,14 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 The title track of <i>Islands</i> is a melancholic trance that outlines a mood of unattainable tranquility. Sung by new bassist Boz Burrell, it’s a strikingly patient and uncluttered ballad, and one of Crimson’s most delicate moments. Elsewhere, the band seeks to provoke the senses, not least with the spiky, lurching groove of “Ladies of the Road,” which sounds like The Beatles attempting <i>Bitches Brew</i>. Robert Fripp’s sonic ingenuity continues to blossom on “Sailor’s Tale,” in which his sustained guitar notes melt into a small symphony of glassy groans.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/islands-expanded-edition/978453417" >}}
+{{< applemusic url="https://music.apple.com/gb/album/islands-expanded-edition/978453417" >}}<br>
+
+
 ## Videos
 ### King Crimson - Islands
 {{< youtube id="jY7dbRyoHfE" title="King Crimson - Islands" >}}<br>
@@ -57,8 +62,6 @@ The title track of <i>Islands</i> is a melancholic trance that outlines a mood o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | The title track of <i>Islands</i> is a melancholic trance that outlines a mood of unattainable tranquility. Sung by new bassist Boz Burrell, it’s a strikingly patient and uncluttered ballad, and one of Crimson’s most delicate moments. Elsewhere, the band seeks to provoke the senses, not least with the spiky, lurching groove of “Ladies of the Road,” which sounds like The Beatles attempting <i>Bitches Brew</i>. Robert Fripp’s sonic ingenuity continues to blossom on “Sailor’s Tale,” in which his sustained guitar notes melt into a small symphony of glassy groans. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP4 |

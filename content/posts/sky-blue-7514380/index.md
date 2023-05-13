@@ -47,7 +47,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Devin Townsend - Sky Blue
 {{< youtube id="PRFHR19EW34" title="Devin Townsend - Sky Blue" >}}<br>
@@ -68,7 +71,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 423 |

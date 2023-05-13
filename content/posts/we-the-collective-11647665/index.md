@@ -50,9 +50,14 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".The album was produced by John Leckie.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-the-collective/1318326494" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we-the-collective/1318326494" >}}<br>
+
+
 ## Videos
 ### WE THE COLLECTIVE - LEVELLERS
 {{< youtube id="eRUKW_xvEBE" title="WE THE COLLECTIVE - LEVELLERS" >}}<br>
@@ -72,8 +77,6 @@ We the Collective is the eleventh studio album by folk-punk rock band the Levell
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_the_Collective |
-| Wikipedia Summary | We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".The album was produced by John Leckie.<br><br> |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Green), Vinyl 12" (Green, Bonus), All Media Deluxe Edition Limited Edition |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP029F |

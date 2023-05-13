@@ -40,9 +40,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/varshons-2/1667417175" >}}
+{{< applemusic url="https://music.apple.com/gb/album/varshons-2/1667417175" >}}<br>
+
+
 ## Videos
 ### The Lemonheads – Can’t Forget
 {{< youtube id="zp-Yux6P7VU" title="The Lemonheads – Can’t Forget" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP532 |

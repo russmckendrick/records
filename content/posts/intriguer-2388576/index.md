@@ -35,9 +35,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/intriguer-deluxe-version/1599607936" >}}
+{{< applemusic url="https://music.apple.com/gb/album/intriguer-deluxe-version/1599607936" >}}<br>
+
+
 ## Videos
 ### Crowded House - Twice If You're Lucky
 {{< youtube id="YcKh-VeFxX0" title="Crowded House - Twice If You're Lucky" >}}<br>
@@ -50,8 +55,6 @@ Intriguer is the sixth studio album by rock group Crowded House, released on 11 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Intriguer |
-| Wikipedia Summary | Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010. |
-| Release Year   | 2010                                   |
 | Format         | Vinyl LP Album |
 | Label          | Universal Music Group International |
 | Catalog Number | 00602527415185 |

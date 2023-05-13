@@ -41,9 +41,15 @@ styles: ["Pop Rock", "Indie Rock"]
 <!-- section break -->
 
 Camera Obscura perform a retro-twee pop that skirts between ‘60s girl-group homage and the skittering rhythms of fellow Scotsmen Belle and Sebastian, always with a sense of melancholy nagging our protagonist. Singer Tracyanne Campbell’s heart is always being broken and even when it’s not, her psyche is thrown off kilter by its manic swoon. The ensemble specializes in a blurry film noir where the sun breaks through the clouds just long enough to remind you that a storm is always brewing. “You Told a Lie” slows to reverb-ed strings and a dream-laced melody that channels the works of Lee Hazlewood and Serge Gainsbourg. “French Navy” captures the group at their most ebullient. “James” is a tour de force ballad brilliantly capturing the sorrow of a busted but somehow unrequited relationship. “Swans” swings with an optimistic Byrdsian folk-rock jangle amongst the reverb. The title track builds a Phil Spectorian wall of sound. “Other Towns and Cities” sounds as if someone threw Campbell down a deep dark well, which is where her emotions lead her anyway.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/my-maudlin-career/307895944" >}}
+{{< applemusic url="https://music.apple.com/gb/album/my-maudlin-career/307895944" >}}<br>
+
+
 ## Videos
 ### Camera Obscura - French Navy official video
 {{< youtube id="O3CkfvYMCWM" title="Camera Obscura - French Navy official video" >}}<br>
@@ -65,8 +71,6 @@ Camera Obscura perform a retro-twee pop that skirts between ‘60s girl-group ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Maudlin_Career |
-| Wikipedia Summary | My Maudlin Career is the fourth studio album by the Scottish indie pop band Camera Obscura. The album was made available for streaming on 14 April 2009, before being released on 20 April via 4AD. Like its predecessor, the album was produced by Jari Haapalainen of The Bear Quartet. The string and horn arrangements are by Björn Yttling, of Peter Bjorn and John. |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl LP Album |
 | Label          | 4AD |
 | Catalog Number | CAD 2907 |

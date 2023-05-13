@@ -82,9 +82,12 @@ styles: ["Folk Rock", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-sin-%C3%A9-legacy-edition-audio-version/309064121" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-at-sin-%C3%A9-legacy-edition-audio-version/309064121" >}}<br>
+
+
 ## Videos
 ### Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)
 {{< youtube id="GQm1cX8uWxE" title="Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)" >}}<br>
@@ -100,7 +103,6 @@ styles: ["Folk Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 4× LP Album Record Store Day Deluxe Edition Limited Edition Numbered |
 | Label          | Columbia |
 | Catalog Number | 88985494801 |

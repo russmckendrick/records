@@ -87,9 +87,15 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 
 <b>“Love and Affection”</b>
 “I wrote and demoed this in Paris. I used to have an apartment there, and I had my little four-track cassette thing and was sitting in there and making this riff. In the mid-’80s, there was a lot of rock bands like Journey, Bryan Adams, doing these songs that would kind of tick both boxes. They were rock songs, but they appealed to a kind of a poppy audience. This was a song like that. It was different to the other stuff on the record; it had that kind of songwriter thing. When we gave it the Def Leppard treatment, it obviously sounded very different. It was going to be the eighth single, but we stopped at seven. I think ‘Rocket’ ended up being the last single, and after that it was like, ‘OK, guys, you should probably go away and make another record now.’”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hysteria/1440903625" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hysteria/1440903625" >}}<br>
+
+
 ## Videos
 ### Def Leppard - Animal
 {{< youtube id="NSH1mOtc9-8" title="Def Leppard - Animal" >}}<br>
@@ -132,8 +138,6 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hysteria_(Def_Leppard_song) |
-| Wikipedia Summary | "Hysteria" is a song by English rock band Def Leppard. It is the tenth track on their 1987 album of the same name and was released as the album's fourth single in November 1987. The song became the band's first top 10 hit on the Billboard Hot 100, peaking at number 10. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Orange Translucent, 180 gram) |
 | Label          | UMC |
 | Catalog Number | 5756104 |

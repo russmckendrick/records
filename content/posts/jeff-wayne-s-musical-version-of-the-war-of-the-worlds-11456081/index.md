@@ -50,9 +50,12 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/317564400" >}}
+{{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/317564400" >}}<br>
+
+
 ## Videos
 ### The War of the Worlds - Jeff Wayne's Musical Version - Full Musical
 {{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Wayne's Musical Version - Full Musical" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold, 180ɢ) |
 | Label          | Sony Music |
 | Catalog Number | 88985449431 |

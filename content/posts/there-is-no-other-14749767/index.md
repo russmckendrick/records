@@ -50,9 +50,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/there-is-no-other/1474138431" >}}
+{{< applemusic url="https://music.apple.com/gb/album/there-is-no-other/1474138431" >}}<br>
+
+
 ## Videos
 ### Isobel Campbell - Ant Life (Official Video)
 {{< youtube id="Sv3vXIUumvc" title="Isobel Campbell - Ant Life (Official Video)" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Yellow Heavyweight Vinyl), CD |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP720Y |

@@ -115,7 +115,10 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -124,7 +127,6 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered (Blue), Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Green), Vinyl LP Compilation, Cassette Album (Demo) |
 | Label          | Believe |
 | Catalog Number | EMF001BLV |

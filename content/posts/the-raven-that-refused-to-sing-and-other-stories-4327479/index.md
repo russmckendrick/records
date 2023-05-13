@@ -44,9 +44,14 @@ styles: ["Art Rock", "Prog Rock", "Fusion"]
 <!-- section break -->
 
 The Raven That Refused to Sing (And Other Stories) is the third solo album by British musician Steven Wilson, released by Kscope Music Records on 25 February 2013. Each track on the album is based on a story of the supernatural. Alan Parsons, who had previously been involved in the creation of Pink Floyd's The Dark Side of the Moon was responsible for engineering the album.A deluxe, 4-disc edition of the album was released as well, which included a 128-page book of lyrics and ghost stories, with illustrations by Hajo Mueller. In addition to this, the album is also available in stand alone double-vinyl, CD and Blu-ray editions. The album was generally well received critically, and has sold over 100,000 copies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-raven-that-refused-to-sing-and-other-stories/684102613" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-raven-that-refused-to-sing-and-other-stories/684102613" >}}<br>
+
+
 ## Videos
 ### Steven Wilson - Luminol (Demo)
 {{< youtube id="_aGzrVi87n8" title="Steven Wilson - Luminol (Demo)" >}}<br>
@@ -71,8 +76,6 @@ The Raven That Refused to Sing (And Other Stories) is the third solo album by Br
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Raven_That_Refused_to_Sing_(And_Other_Stories) |
-| Wikipedia Summary | The Raven That Refused to Sing (And Other Stories) is the third solo album by British musician Steven Wilson, released by Kscope Music Records on 25 February 2013. Each track on the album is based on a story of the supernatural. Alan Parsons, who had previously been involved in the creation of Pink Floyd's The Dark Side of the Moon was responsible for engineering the album.A deluxe, 4-disc edition of the album was released as well, which included a 128-page book of lyrics and ghost stories, with illustrations by Hajo Mueller. In addition to this, the album is also available in stand alone double-vinyl, CD and Blu-ray editions. The album was generally well received critically, and has sold over 100,000 copies. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE835 |

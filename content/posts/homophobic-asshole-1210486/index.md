@@ -29,9 +29,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/homophobic-a-e/259488624" >}}
+{{< applemusic url="https://music.apple.com/gb/album/homophobic-a-e/259488624" >}}<br>
+
+
 ## Videos
 ### SENSELESS THINGS Homophobic Asshole
 {{< youtube id="Q3YUFhjR3wM" title="SENSELESS THINGS Homophobic Asshole" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1992                                   |
 | Format         | Vinyl 12" Single |
 | Label          | Epic |
 | Catalog Number | 658833 6 |

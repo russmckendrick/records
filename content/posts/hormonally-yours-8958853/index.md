@@ -39,9 +39,14 @@ styles: []
 <!-- section break -->
 
 Hormonally Yours is the second studio album by British pop-rock act Shakespears Sister, released on 17 February 1992 by London Records. The album went on to become a critical and commercial success, and is their best-selling album to date. Hormonally Yours peaked at No. 3 on the UK Albums Chart and has been certified double platinum by the BPI, spending 55 weeks on the chart. The album spawned five singles, three of which reached the UK top 20. The album's second single, "Stay" became the group's best-selling single, topping the UK Singles Chart for eight consecutive weeks. It also peaked at number four on the US Billboard Hot 100.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hormonally-yours/1321519468" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hormonally-yours/1321519468" >}}<br>
+
+
 ## Videos
 ### Shakespears Sister - Stay (Official Video)
 {{< youtube id="YCYaALgW80c" title="Shakespears Sister - Stay (Official Video)" >}}<br>
@@ -61,8 +66,6 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hormonally_Yours |
-| Wikipedia Summary | Hormonally Yours is the second studio album by British pop-rock act Shakespears Sister, released on 17 February 1992 by London Records. The album went on to become a critical and commercial success, and is their best-selling album to date. Hormonally Yours peaked at No. 3 on the UK Albums Chart and has been certified double platinum by the BPI, spending 55 weeks on the chart. The album spawned five singles, three of which reached the UK top 20. The album's second single, "Stay" became the group's best-selling single, topping the UK Singles Chart for eight consecutive weeks. It also peaked at number four on the US Billboard Hot 100. |
-| Release Year   | 1992                                   |
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | 828 266-1 |

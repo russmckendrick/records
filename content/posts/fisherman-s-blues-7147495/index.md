@@ -34,9 +34,12 @@ styles: ["Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fishermans-blues-collectors-edition/1631053858" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fishermans-blues-collectors-edition/1631053858" >}}<br>
+
+
 
 
 ## Release Images
@@ -45,7 +48,6 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Chrysalis |
 | Catalog Number | CHEN 5 |

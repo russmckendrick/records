@@ -55,7 +55,10 @@ styles: ["Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Album (180 gram) |
 | Label          | Eagle Records |
 | Catalog Number | EAGLP679 |

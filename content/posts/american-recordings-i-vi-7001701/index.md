@@ -111,7 +111,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -120,7 +123,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 7× LP (180 Gram), Box Set Compilation |
 | Label          | American Recordings |
 | Catalog Number | 060254721702 |

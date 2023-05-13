@@ -38,9 +38,14 @@ styles: ["Classic Rock"]
 
 Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.
 Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,8 +55,6 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Who_(album) |
-| Wikipedia Summary | Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.<br>Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Picture Disc |
 | Label          | Polydor |
 | Catalog Number | 0830402 |

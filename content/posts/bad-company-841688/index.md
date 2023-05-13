@@ -37,9 +37,14 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 <!-- section break -->
 
 Bad Company is the debut studio album by the English hard rock supergroup Bad Company. The album was recorded at Headley Grange with Ronnie Lane's Mobile Studio in November 1973, and it was the first album released on Led Zeppelin's Swan Song Records label.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bad-company/978942690" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bad-company/978942690" >}}<br>
+
+
 ## Videos
 ### Bad Company - Bad Company (US CD Reissue)
 {{< youtube id="XQcR3iL-7ks" title="Bad Company - Bad Company (US CD Reissue)" >}}<br>
@@ -55,8 +60,6 @@ Bad Company is the debut studio album by the English hard rock supergroup Bad Co
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_Company_(album) |
-| Wikipedia Summary | Bad Company is the debut studio album by the English hard rock supergroup Bad Company. The album was recorded at Headley Grange with Ronnie Lane's Mobile Studio in November 1973, and it was the first album released on Led Zeppelin's Swan Song Records label. |
-| Release Year   | 1974                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Island Records |
 | Catalog Number | ILPS 9279 |

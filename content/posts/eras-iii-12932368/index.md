@@ -88,7 +88,10 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### DEVIN TOWNSEND - Eras - Vinyl Collection Part III (Unboxing)
 {{< youtube id="u6Mf0yHHoE8" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part III (Unboxing)" >}}<br>
@@ -100,7 +103,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Remastered, Vinyl 2× LP Album, Vinyl LP, Vinyl LP Etched, All Media Album, Vinyl 2× LP Album Remastered, Vinyl 2× LP Album Remastered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 511 |

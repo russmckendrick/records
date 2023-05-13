@@ -48,9 +48,14 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 Mer de Noms (French for "Sea of Names") is the debut studio album by American rock band A Perfect Circle. The album was released on May 23, 2000, and entered the Billboard 200 at No. 4, making it the highest ever Billboard 200 debut for a rock band's first album. It sold over 188,000 copies in the first week, and was certified platinum by the RIAA later that same year. Three singles were released in promotion of the album, "Judith", "3 Libras", and "The Hollow", all of which hit the top 20 of both the Billboard US Modern Rock and  Mainstream Rock charts.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mer-de-noms/723435992" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mer-de-noms/723435992" >}}<br>
+
+
 ## Videos
 ### A Perfect Circle - Judith (Official Music Video)
 {{< youtube id="xTgKRCXybSM" title="A Perfect Circle - Judith (Official Music Video)" >}}<br>
@@ -68,8 +73,6 @@ Mer de Noms (French for "Sea of Names") is the debut studio album by American ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mer_de_Noms |
-| Wikipedia Summary | Mer de Noms (French for "Sea of Names") is the debut studio album by American rock band A Perfect Circle. The album was released on May 23, 2000, and entered the Billboard 200 at No. 4, making it the highest ever Billboard 200 debut for a rock band's first album. It sold over 188,000 copies in the first week, and was certified platinum by the RIAA later that same year. Three singles were released in promotion of the album, "Judith", "3 Libras", and "The Hollow", all of which hit the top 20 of both the Billboard US Modern Rock and  Mainstream Rock charts.<br><br> |
-| Release Year   | 2008                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Gatefold, 180g) |
 | Label          | Virgin |
 | Catalog Number | 7243 8 49253 1 4 |

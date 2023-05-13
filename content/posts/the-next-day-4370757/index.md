@@ -75,9 +75,14 @@ The Next Day is the 25th studio album by the English musician David Bowie, relea
 Primarily an art rock album, The Next Day references Bowie's earlier glam and funk releases. The generally bleak lyrics draw from his reading of English and Russian history and examine themes of tyranny and violence. The cover art is an adapted version of Bowie's 1977 album "Heroes" by designer Jonathan Barnbrook, who placed a white square with the album's title over Bowie's face and crossed out the "Heroes" title. The album was released through ISO Records in association with Columbia Records.
 The lead single "Where Are We Now?" and announcement of the album were posted online on 8 January 2013, Bowie's 66th birthday, surprising fans and media who had assumed he had retired from music. Preceded by a viral marketing campaign, The Next Day topped charts worldwide and debuted at number one and two on the UK Albums Chart and US Billboard 200, respectively. It was Bowie's first UK number-one album since 1993 and his highest-charting US album since 1976. Several singles with accompanying music videos were released throughout 2013. Outtakes and remixes appeared on The Next Day Extra, released in November.
 The Next Day was praised by critics as Bowie's best work in decades; it placed on several year-end lists. Many reviewers highlighted the vocal and musical performances, and made positive comparisons to his earlier works, though some felt the album lacked innovation and was overlong. Among the first surprise albums of the 2010s, The Next Day was included in the 2014 revised edition of the book 1001 Albums You Must Hear Before You Die.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-next-day/1676277418" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-next-day/1676277418" >}}<br>
+
+
 
 
 ## Release Images
@@ -87,8 +92,6 @@ The Next Day was praised by critics as Bowie's best work in decades; it placed o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Next_Day |
-| Wikipedia Summary | The Next Day is the 25th studio album by the English musician David Bowie, released in March 2013. Having retreated from public view after undergoing surgery for a blocked artery in 2004, it was his first studio release in ten years. Co-produced by Bowie and Tony Visconti, the album was recorded in New York City between May 2011 and October 2012. It featured contributions from session musicians, some of whom he had worked with in the past, including Gerry Leonard, Earl Slick, Gail Ann Dorsey, Steve Elson, Sterling Campbell and Zachary Alford. Recording took place in secret; all personnel involved signed non-disclosure agreements.<br>Primarily an art rock album, The Next Day references Bowie's earlier glam and funk releases. The generally bleak lyrics draw from his reading of English and Russian history and examine themes of tyranny and violence. The cover art is an adapted version of Bowie's 1977 album "Heroes" by designer Jonathan Barnbrook, who placed a white square with the album's title over Bowie's face and crossed out the "Heroes" title. The album was released through ISO Records in association with Columbia Records.<br>The lead single "Where Are We Now?" and announcement of the album were posted online on 8 January 2013, Bowie's 66th birthday, surprising fans and media who had assumed he had retired from music. Preceded by a viral marketing campaign, The Next Day topped charts worldwide and debuted at number one and two on the UK Albums Chart and US Billboard 200, respectively. It was Bowie's first UK number-one album since 1993 and his highest-charting US album since 1976. Several singles with accompanying music videos were released throughout 2013. Outtakes and remixes appeared on The Next Day Extra, released in November.<br>The Next Day was praised by critics as Bowie's best work in decades; it placed on several year-end lists. Many reviewers highlighted the vocal and musical performances, and made positive comparisons to his earlier works, though some felt the album lacked innovation and was overlong. Among the first surprise albums of the 2010s, The Next Day was included in the 2014 revised edition of the book 1001 Albums You Must Hear Before You Die. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Stereo (180g), CD Album Promo Stereo |
 | Label          | ISO Records |
 | Catalog Number | 88765461861 |

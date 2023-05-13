@@ -79,9 +79,14 @@ styles: []
 
 Elephants on Acid is the ninth studio album by American hip hop group Cypress Hill, and is the group's first studio album in eight years following Rise Up making it the group's longest gap between albums. The album was released on September 28, 2018. The album includes 21 tracks. Unlike Rise Up, the group's last album, which was produced by a number of people, this album is fully produced by DJ Muggs.
 Despite serving as an interlude, "Muggs Is Dead" was released as a second single of the album on August 23 and received an animated video.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1413278413" >}}
+{{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1413278413" >}}<br>
+
+
 ## Videos
 ### Cypress Hill - Tusko (Intro) (Audio)
 {{< youtube id="etAPOcsHgOk" title="Cypress Hill - Tusko (Intro) (Audio)" >}}<br>
@@ -113,8 +118,6 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Elephants_on_Acid |
-| Wikipedia Summary | Elephants on Acid is the ninth studio album by American hip hop group Cypress Hill, and is the group's first studio album in eight years following Rise Up making it the group's longest gap between albums. The album was released on September 28, 2018. The album includes 21 tracks. Unlike Rise Up, the group's last album, which was produced by a number of people, this album is fully produced by DJ Muggs.<br>Despite serving as an interlude, "Muggs Is Dead" was released as a second single of the album on August 23 and received an animated video. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | BMG |
 | Catalog Number | 538415541 |

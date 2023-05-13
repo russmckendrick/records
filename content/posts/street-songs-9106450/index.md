@@ -39,9 +39,15 @@ styles: ["Funk", "Disco"]
 <!-- section break -->
 
 Street Songs is the fifth studio album by American musician Rick James, released in April 1981 on Gordy Records. "Give It to Me Baby", the lead single from the album, became James' second number one single on the R&B chart, spending five weeks at the top spot.  The fifth song on the album, "Super Freak", was also one of James' biggest hits. A Deluxe Edition was released in 2001 containing an additional 17 mixes and live versions of the album tracks. Although the song "Fire and Desire" (a duet he performed with singer Teena Marie) was not originally released as a single, the song itself received much airplay on R&B radio stations and has since become a classic hit (James and Marie would reunite to perform the song at the 2004 BET Awards 5 weeks before James' death).
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/street-songs/1440805214" >}}
+{{< applemusic url="https://music.apple.com/gb/album/street-songs/1440805214" >}}<br>
+
+
 ## Videos
 ### Give It To Me Baby
 {{< youtube id="zYV6zZc_9jI" title="Give It To Me Baby" >}}<br>
@@ -66,8 +72,6 @@ Street Songs is the fifth studio album by American musician Rick James, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Street_Songs |
-| Apple Music Summary | With 1981’s <i>Street Songs</i>, Rick James slapped a rocker’s edge onto disco’s derriere. Inspired by the Buffalo projects where they grew up, he and the Stone City Band explore a thriving subculture of prostitutes, junkies and hustlers on “Ghetto Life”, while “Mr. Policeman” is one of the first songs to openly address police brutality. James had the guts to go where others wouldn’t dare. With their wired grooves and debauched come-ons, “Give It to Me Baby” and “Super Freak” are more than suggestive—they’re deliriously, defiantly hedonistic. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Gordy |
 | Catalog Number | G 1002 |

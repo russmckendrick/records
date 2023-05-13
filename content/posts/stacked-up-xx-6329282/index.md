@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}
+{{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}<br>
+
+
 ## Videos
 ### Senser - Age of Panic (Official Video)
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Remastered |
 | Label          | Ultimate |
 | Catalog Number | SBR 208LP |

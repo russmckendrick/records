@@ -39,9 +39,14 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-five-ghosts/1293360624" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-five-ghosts/1293360624" >}}<br>
+
+
 ## Videos
 ### Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album
 {{< youtube id="TERbyLZDCqU" title="Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album" >}}<br>
@@ -57,8 +62,6 @@ The Five Ghosts is the fifth studio album by Stars, which was released worldwide
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Five_Ghosts |
-| Wikipedia Summary | The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.The album was named as a longlisted nominee for the 2011 Polaris Music Prize.<br><br> |
-| Release Year   | 2010                                   |
 | Format         | Vinyl 7" (Pink Translucent ), Vinyl 7" (Yellow Translucent ), Vinyl 7" (White Translucent ), Vinyl 7" (Pink Marbled Translucent ), Vinyl 7" (Clear Milky Translucent ), Vinyl 7" (Blue Light Translucent ), Box Set Album Limited Edition |
 | Label          | Soft Revolution Records |
 | Catalog Number | 003 Box Set |

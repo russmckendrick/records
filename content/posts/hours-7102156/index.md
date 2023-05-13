@@ -39,9 +39,12 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hours/1053991355" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hours/1053991355" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | ISO Records |
 | Catalog Number | MOVLP1400 |

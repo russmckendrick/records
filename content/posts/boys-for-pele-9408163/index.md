@@ -52,9 +52,14 @@ styles: ["Alternative Rock", "Avantgarde"]
 <!-- section break -->
 
 Boys for Pele is the third studio album by American singer and songwriter Tori Amos. Preceded by the first single, "Caught a Lite Sneeze", by three weeks, the album was released on January 22, 1996, in the United Kingdom, on January 23 in the United States, and on January 29 in Australia. Despite the album being Amos's least radio friendly material to date, Boys for Pele debuted at number two on both the US Billboard 200 and the UK Albums Chart, making it her biggest simultaneous transatlantic debut, her first Billboard top 10 debut, and the highest-charting US debut of her career to date.Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs that incorporate harpsichord, clavichord, harmonium, gospel choirs, brass bands and full orchestras. Amos wrote all of the tracks, and for the first time, she served as sole producer for her own album. For Amos, the album was a step into a different direction, in terms of singing, songwriting, and recording, and is experimental in comparison to her previous work.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boys-for-pele-deluxe/1155862196" >}}
+{{< applemusic url="https://music.apple.com/gb/album/boys-for-pele-deluxe/1155862196" >}}<br>
+
+
 ## Videos
 ### Tori Amos - Talula (The Tornado Mix) (Official Music Video)
 {{< youtube id="PgHlNeoAH1A" title="Tori Amos - Talula (The Tornado Mix) (Official Music Video)" >}}<br>
@@ -70,8 +75,6 @@ Boys for Pele is the third studio album by American singer and songwriter Tori A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boys_for_Pele |
-| Wikipedia Summary | Boys for Pele is the third studio album by American singer and songwriter Tori Amos. Preceded by the first single, "Caught a Lite Sneeze", by three weeks, the album was released on January 22, 1996, in the United Kingdom, on January 23 in the United States, and on January 29 in Australia. Despite the album being Amos's least radio friendly material to date, Boys for Pele debuted at number two on both the US Billboard 200 and the UK Albums Chart, making it her biggest simultaneous transatlantic debut, her first Billboard top 10 debut, and the highest-charting US debut of her career to date.Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs that incorporate harpsichord, clavichord, harmonium, gospel choirs, brass bands and full orchestras. Amos wrote all of the tracks, and for the first time, she served as sole producer for her own album. For Amos, the album was a step into a different direction, in terms of singing, songwriting, and recording, and is experimental in comparison to her previous work. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | 081227947774 |

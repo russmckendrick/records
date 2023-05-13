@@ -51,9 +51,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-musics-for-taking-care-of-the/1648119317" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-musics-for-taking-care-of-the/1648119317" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,7 +65,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Compilation Stereo (Blue, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC734 |

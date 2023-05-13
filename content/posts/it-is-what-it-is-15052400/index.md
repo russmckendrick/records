@@ -76,9 +76,15 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 "You know, getting older [<i>laughs</i>]."<br />
 <b>It Is What It Is</b>
 "That’s me in the middle, saying, ‘Hey, Mac.’ That’s me, getting a chance to say goodbye to my friend."
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/it-is-what-it-is/1494467036" >}}
+{{< applemusic url="https://music.apple.com/gb/album/it-is-what-it-is/1494467036" >}}<br>
+
+
 ## Videos
 ### Thundercat - 'Innerstellar Love' (Official Audio)
 {{< youtube id="yA4R9qLa26E" title="Thundercat - 'Innerstellar Love' (Official Audio)" >}}<br>
@@ -106,8 +112,6 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It_Is_What_It_Is_(Thundercat_album) |
-| Wikipedia Summary | It Is What It Is is the fourth studio album by American musician Thundercat, released through Brainfeeder on April 3, 2020. It was preceded by five singles: "King of the Hill," which was released as a single from the label's compilation album Brainfeeder X in 2018, and "Black Qualls," "Dragonball Durag," "Fair Chance," and "Innerstellar Love," the latter four being released in 2020. The track "Unrequited Love" had previously been used in an episode of the anime Carole & Tuesday in 2019. The album was executive produced by Thundercat and Flying Lotus, and features guest appearances from Louis Cole, Steve Lacy, Steve Arrington, Childish Gambino, Ty Dolla Sign, Lil B, Kamasi Washington, BadBadNotGood, and Zack Fox.It Is What It Is received critical acclaim, with critics praising Thundercat's typical sense of humor in his lyrics and bass playing, as well as Thundercat's way of expressing emotions - in particular, his grief over the loss of long-time close friend and collaborator Mac Miller, which feeds into many of the musical and lyrical elements of the album. The title track of the album contains a vocal sample from the late Miller; Thundercat also dedicated the album in his memory.The album won Best Progressive R&B Album at the 63rd Annual Grammy Awards, beating out fellow nominees Jhené Aiko, Chloe x Halle, Free Nationals, and Robert Glasper. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Pink, 140g) |
 | Label          | Brainfeeder |
 | Catalog Number | BF100RT |

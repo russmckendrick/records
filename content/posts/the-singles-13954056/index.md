@@ -49,9 +49,12 @@ styles: ["Soft Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-singles/1443777907" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-singles/1443777907" >}}<br>
+
+
 ## Videos
 ### The Bluetones | The Singles Commercial (2002)
 {{< youtube id="pxA_ESHkE4o" title="The Bluetones | The Singles Commercial (2002)" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (Blue) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC421 |

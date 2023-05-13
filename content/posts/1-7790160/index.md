@@ -68,9 +68,14 @@ styles: ["Pop Rock"]
 1 is a compilation album of the English rock band the Beatles, originally released on 13 November 2000. The album features virtually every number-one single the band achieved in the United Kingdom or United States from 1962 to 1970. Issued on the 30th anniversary of the band's break-up, it was their first compilation available on only one CD. 1 was a commercial success and topped charts worldwide. It has sold over 31 million copies.Since Nielsen SoundScan began tracking US album sales in January 1991, 1 is the fourth best-selling album in the US, the best-selling album of the 2000s decade in the US, as well as the best-selling album of the decade worldwide.
 1 was remastered and reissued in September 2011. It was remixed and reissued again in several different deluxe editions in November 2015, the most comprehensive of which is a three-disc set entitled 1+, which includes video discs of Beatles promotional films.
 As of June 2015, 1 was the sixth best-selling album of the 21st century in the UK, having sold over 3.1 million copies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1/1440833098" >}}
+{{< applemusic url="https://music.apple.com/gb/album/1/1440833098" >}}<br>
+
+
 
 
 ## Release Images
@@ -80,8 +85,6 @@ As of June 2015, 1 was the sixth best-selling album of the 21st century in the U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1_(Beatles_album) |
-| Wikipedia Summary | 1 is a compilation album of the English rock band the Beatles, originally released on 13 November 2000. The album features virtually every number-one single the band achieved in the United Kingdom or United States from 1962 to 1970. Issued on the 30th anniversary of the band's break-up, it was their first compilation available on only one CD. 1 was a commercial success and topped charts worldwide. It has sold over 31 million copies.Since Nielsen SoundScan began tracking US album sales in January 1991, 1 is the fourth best-selling album in the US, the best-selling album of the 2000s decade in the US, as well as the best-selling album of the decade worldwide.<br>1 was remastered and reissued in September 2011. It was remixed and reissued again in several different deluxe editions in November 2015, the most comprehensive of which is a three-disc set entitled 1+, which includes video discs of Beatles promotional films.<br>As of June 2015, 1 was the sixth best-selling album of the 21st century in the UK, having sold over 3.1 million copies. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram, Gatefold) |
 | Label          | Apple Records |
 | Catalog Number | 0602547567901 |

@@ -55,9 +55,12 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}<br>
+
+
 ## Videos
 ### Senseless Things - Everybody's Gone
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Cherry Red |
 | Catalog Number | bredd867 |

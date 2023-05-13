@@ -39,9 +39,14 @@ styles: ["Funk Metal", "Hard Rock", "Arena Rock"]
 
 Extreme II: Pornograffitti (also known as simply Pornograffiti) is the second studio album by the heavy metal band Extreme, released on August 7, 1990, through A&M Records. The album title is a portmanteau of pornography and graffiti.
 Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certified double platinum in the U.S. by the RIAA. It is the band's best selling album. Two singles from Pornograffiti, "More Than Words" and "Hole Hearted", reached No. 1 and 4 respectively on the Billboard Hot 100. Two other tracks, "Decadence Dance" and "Get the Funk Out", became popular on MTV's Headbangers Ball.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/extreme-ii-pornograffitti/1445751596" >}}
+{{< applemusic url="https://music.apple.com/gb/album/extreme-ii-pornograffitti/1445751596" >}}<br>
+
+
 ## Videos
 ### Extreme - More Than Words (Official Music Video)
 {{< youtube id="UrIiLvg58SY" title="Extreme - More Than Words (Official Music Video)" >}}<br>
@@ -57,8 +62,6 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Extreme_II:_Pornograffitti |
-| Wikipedia Summary | Extreme II: Pornograffitti (also known as simply Pornograffiti) is the second studio album by the heavy metal band Extreme, released on August 7, 1990, through A&M Records. The album title is a portmanteau of pornography and graffiti.<br>Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certified double platinum in the U.S. by the RIAA. It is the band's best selling album. Two singles from Pornograffiti, "More Than Words" and "Hole Hearted", reached No. 1 and 4 respectively on the Billboard Hot 100. Two other tracks, "Decadence Dance" and "Get the Funk Out", became popular on MTV's Headbangers Ball. |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | 395 313-1 |

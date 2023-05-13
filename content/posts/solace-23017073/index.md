@@ -39,9 +39,12 @@ styles: ["Post Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/solace/1615429505" >}}
+{{< applemusic url="https://music.apple.com/gb/album/solace/1615429505" >}}<br>
+
+
 ## Videos
 ### The Tree of Life
 {{< youtube id="CsUmGZ7bK6E" title="The Tree of Life" >}}<br>
@@ -61,7 +64,6 @@ styles: ["Post Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Eco Vinyl) |
 | Label          | Tweed Jacket Music Ltd |
 | Catalog Number | TJMLP01 |

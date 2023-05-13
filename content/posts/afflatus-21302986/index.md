@@ -33,9 +33,12 @@ styles: ["Art Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/afflatus/1563231701" >}}
+{{< applemusic url="https://music.apple.com/gb/album/afflatus/1563231701" >}}<br>
+
+
 
 
 ## Release Images
@@ -44,7 +47,6 @@ styles: ["Art Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition (Neon Green) |
 | Label          | Good Records Recordings |
 | Catalog Number | GRR104LP |

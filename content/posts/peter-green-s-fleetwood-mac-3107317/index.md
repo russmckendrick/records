@@ -38,9 +38,12 @@ styles: ["Blues Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-peter-greens-fleetwood-mac/459432385" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-peter-greens-fleetwood-mac/459432385" >}}<br>
+
+
 ## Videos
 ### Peter Green's Fleetwood Mac  1968  (Expanded Edition)
 {{< youtube id="mF9wRyQGv1k" title="Peter Green's Fleetwood Mac  1968  (Expanded Edition)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Blues Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP339 |

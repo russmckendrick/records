@@ -36,7 +36,10 @@ styles: ["Space Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -45,7 +48,6 @@ styles: ["Space Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Rockosmos |
 | Catalog Number | ROK 31 |

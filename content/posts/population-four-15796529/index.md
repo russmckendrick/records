@@ -43,9 +43,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/population-four/1676102669" >}}
+{{< applemusic url="https://music.apple.com/gb/album/population-four/1676102669" >}}<br>
+
+
 ## Videos
 ### Cranes - Tangled Up
 {{< youtube id="8O5YYeaseyk" title="Cranes - Tangled Up" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & White Swirled, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2598 |

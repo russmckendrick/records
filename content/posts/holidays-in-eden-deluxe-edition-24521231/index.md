@@ -77,9 +77,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/holidays-in-eden-deluxe-edition/1645122919" >}}
+{{< applemusic url="https://music.apple.com/gb/album/holidays-in-eden-deluxe-edition/1645122919" >}}<br>
+
+
 
 
 ## Release Images
@@ -88,7 +91,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Remixed), Vinyl 3× LP Album, Box Set Compilation Deluxe Edition Limited Edition (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 0190296609190 |

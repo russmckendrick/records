@@ -45,9 +45,14 @@ styles: ["Funk Metal"]
 <!-- section break -->
 
 Living Colour’s second album blows up the muscular swagger of their debut into an eclectic, epic musical statement on survival in America. Channeling the hardcore fury of Bad Brains, the title track sounds the alarm for environmental disaster; “Elvis Is Dead” uses The King as the piñata in a savage funk-metal battering of systemic racism. But the band balances these big-picture pronouncements with intimate, playful gestures—on “Love Rears Its Ugly Head,” Corey Glover cheekily plumbs the anxieties of modern romance over a stuttering soul groove.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/times-up/158439495" >}}
+{{< applemusic url="https://music.apple.com/gb/album/times-up/158439495" >}}<br>
+
+
 ## Videos
 ### Living Colour - Solace of You
 {{< youtube id="vIUke0CCvDs" title="Living Colour - Solace of You" >}}<br>
@@ -69,8 +74,6 @@ Living Colour’s second album blows up the muscular swagger of their debut into
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Living Colour’s second album blows up the muscular swagger of their debut into an eclectic, epic musical statement on survival in America. Channeling the hardcore fury of Bad Brains, the title track sounds the alarm for environmental disaster; “Elvis Is Dead” uses The King as the piñata in a savage funk-metal battering of systemic racism. But the band balances these big-picture pronouncements with intimate, playful gestures—on “Love Rears Its Ugly Head,” Corey Glover cheekily plumbs the anxieties of modern romance over a stuttering soul groove. |
-| Release Year   | 1990                                   |
 | Format         | Vinyl LP Album |
 | Label          | Epic |
 | Catalog Number | 466920 1 |

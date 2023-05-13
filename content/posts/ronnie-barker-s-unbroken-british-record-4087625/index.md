@@ -36,7 +36,10 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -45,7 +48,6 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1978                                   |
 | Format         | Vinyl LP Album |
 | Label          | K-Tel |
 | Catalog Number | NE 1029 |

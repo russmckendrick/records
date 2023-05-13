@@ -56,9 +56,12 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/land-animal/1225586747" >}}
+{{< applemusic url="https://music.apple.com/gb/album/land-animal/1225586747" >}}<br>
+
+
 ## Videos
 ### Insides In
 {{< youtube id="se6f2_rAfh4" title="Insides In" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (White), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 479 |

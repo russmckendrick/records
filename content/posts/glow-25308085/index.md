@@ -38,9 +38,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Glow is the second studio album by English rock band Reef. Produced by the band and George Drakoulias, the album was released on 27 January 1997 through Sony Soho Square and supported by the singles "Place Your Hands", "Come Back Brighter", "Consideration" and "Yer Old". Glow reached number one on the UK Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/glow/424193244" >}}
+{{< applemusic url="https://music.apple.com/gb/album/glow/424193244" >}}<br>
+
+
 ## Videos
 ### Place Your Hands
 {{< youtube id="cJ-kDEXcR3c" title="Place Your Hands" >}}<br>
@@ -67,8 +72,6 @@ Glow is the second studio album by English rock band Reef. Produced by the band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glow_(Reef_album) |
-| Wikipedia Summary | Glow is the second studio album by English rock band Reef. Produced by the band and George Drakoulias, the album was released on 27 January 1997 through Sony Soho Square and supported by the singles "Place Your Hands", "Come Back Brighter", "Consideration" and "Yer Old". Glow reached number one on the UK Albums Chart. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Glow-in-the-dark) |
 | Label          | Hassle Hindsight |
 | Catalog Number | HOFFSIDE009 |

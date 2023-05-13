@@ -54,9 +54,14 @@ styles: ["Synth-pop", "Pop Rock"]
 Greatest Hits is a greatest hits album by British pop duo Eurythmics, released on 18 March 1991 by RCA Records. It contains their successful singles spanning the years 1982 through 1990. The album topped the charts in the United Kingdom for a total of 10 weeks and in Australia for seven weeks. It remains the duo's best-selling album worldwide and has been certified six-times platinum in the United Kingdom and triple platinum in the United States. Phil Sutcliffe in Q Magazine noted that "this compilation portrays, for once, a band accorded precise justice by the singles charts".The original European version of the album contains 18 tracks, while the version released in the US contains only 14. The five songs omitted from the US edition are "Right by Your Side", "Sexcrime (Nineteen Eighty-Four)", "It's Alright (Baby's Coming Back)", "You Have Placed a Chill in My Heart" and "The Miracle of Love", while "The King and Queen of America" is added. The track order also differs.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-eurythmics/307738008" >}}
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-eurythmics/307738008" >}}<br>
+
+
 ## Videos
 ### Eurythmics - When Tomorrow Comes [Lyrics]
 {{< youtube id="Z5rFDibmeQk" title="Eurythmics - When Tomorrow Comes [Lyrics]" >}}<br>
@@ -84,8 +89,6 @@ Greatest Hits is a greatest hits album by British pop duo Eurythmics, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Eurythmics_album) |
-| Wikipedia Summary | Greatest Hits is a greatest hits album by British pop duo Eurythmics, released on 18 March 1991 by RCA Records. It contains their successful singles spanning the years 1982 through 1990. The album topped the charts in the United Kingdom for a total of 10 weeks and in Australia for seven weeks. It remains the duo's best-selling album worldwide and has been certified six-times platinum in the United Kingdom and triple platinum in the United States. Phil Sutcliffe in Q Magazine noted that "this compilation portrays, for once, a band accorded precise justice by the singles charts".The original European version of the album contains 18 tracks, while the version released in the US contains only 14. The five songs omitted from the US edition are "Right by Your Side", "Sexcrime (Nineteen Eighty-Four)", "It's Alright (Baby's Coming Back)", "You Have Placed a Chill in My Heart" and "The Miracle of Love", while "The King and Queen of America" is added. The track order also differs.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Label          | Legacy |
 | Catalog Number | 88985370421 |

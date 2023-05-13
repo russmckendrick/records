@@ -54,9 +54,12 @@ styles: ["Art Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/flowers-at-the-scene/1447398700" >}}
+{{< applemusic url="https://music.apple.com/gb/album/flowers-at-the-scene/1447398700" >}}<br>
+
+
 ## Videos
 ### TIM BOWNESS - I Go Deeper (Lyric Video)
 {{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper (Lyric Video)" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album (Red Transparent), CD Album, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 524 |

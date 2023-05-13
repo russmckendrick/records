@@ -51,9 +51,12 @@ styles: ["Synth-pop", "Comedy"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-yamaha-years/166090967" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-yamaha-years/166090967" >}}<br>
+
+
 ## Videos
 ### John Shuttleworth - My Wife Died in 1970 with lyrics
 {{< youtube id="1o2Rb7OTvZw" title="John Shuttleworth - My Wife Died in 1970 with lyrics" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Synth-pop", "Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Free Range Product |
 | Catalog Number | FRP2LP001 |

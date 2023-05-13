@@ -29,9 +29,12 @@ styles: ["New Wave", "Electro"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green-2019-remaster-single/1457716993" >}}
+{{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green-2019-remaster-single/1457716993" >}}<br>
+
+
 ## Videos
 ### New Order - Everything's Gone Green (Official Lyric Video)
 {{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["New Wave", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 12" 45 RPM Reissue Remastered (180g) |
 | Label          | Factory Benelux |
 | Catalog Number | FBN 8 |

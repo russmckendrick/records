@@ -50,9 +50,12 @@ styles: ["New Wave", "Art Rock", "Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-name-of-this-band-is-talking-heads-live-expanded-version/20917648" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-name-of-this-band-is-talking-heads-live-expanded-version/20917648" >}}<br>
+
+
 ## Videos
 ### New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)
 {{< youtube id="2KM5XNGJDqg" title="New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["New Wave", "Art Rock", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Red Opaque ) |
 | Label          | Sire |
 | Catalog Number | RCV5 3590 |

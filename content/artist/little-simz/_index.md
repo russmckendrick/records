@@ -1,7 +1,9 @@
 ---
 title: "Little Simz"
-summary: "British rapper, singer, musician, recording artist and actress. Born: 23 February 1994 in Islington, London, UK. Simbi Ajikawo is better known as Little Simz . As an actress, she had a featured role in the first Netflix-released series of London-based street drama \"Top Boy\" , alongside former vocalist . Her fourth album, \"\" , was shortlisted for the Mercury Prize , as was her fifth album, \"\" , which was shortlisted for the Mercury Prize , and for which she won. In February 2022 she also took the 'Best New Artist' award at the Brit Awards."
+summary: "Simbiatu \"Simbi\" Abisola Abiola Ajikawo , better known by her stage name Little Simz, is a British rapper, singer and actress. She rose to prominence with the independent release of her first three albums; A Curious Tale of Trials + Persons , Stillness in Wonderland and Grey Area , the last of which was shortlisted for the Mercury Prize and won the awards for Best Album at both the Ivor Novello Awards and the NME Awards.
+Her fourth album, Sometimes I Might Be Introvert received widespread critical acclaim, with several publications deeming it the best album of 2021. It went on to win the 2022 Mercury Prize. It also earned her the 2022 Brit Award for Best New Artist and the Libera Award for Best Hip-Hop/Rap Record. Her fifth album, No Thank You , was released to critical acclaim.
+Outside of music, Simz has starred in the Netflix revival drama series Top Boy."
 image: "little-simz.jpg"
 apple_music_artist_url: "None"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Little_Simz"
 ---

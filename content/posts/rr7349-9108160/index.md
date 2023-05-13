@@ -43,9 +43,15 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 RR7349 (its cassette release titled HD037) is the third studio album by Texas synthwave group Survive. Completed in January 2015, it wasn't until September 2016 that the album was released by the labels Relapse and Survive's own Holodeck. As with other releases by the band, RR7349 follows a slow-tempo style using elements of dark wave, electro, and intelligent dance music. Reviews of the album from critics were very favorable, some of them highlighting that it has a complex narrative unusual for instrumental electronic music albums. The LP peaked at number 108 on the American Billboard 200 album chart.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rr7349/1132755962" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rr7349/1132755962" >}}<br>
+
+
 ## Videos
 ### S U R V I V E - RR7349 - 1 - A. H. B.
 {{< youtube id="QG8tmtjLMgg" title="S U R V I V E - RR7349 - 1 - A. H. B." >}}<br>
@@ -68,8 +74,6 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/RR7349 |
-| Apple Music Summary | Like something straight out of the sci-fi films they idolize, these time-traveling synth savants from Austin zap listeners deep into the analog past. “A.H.B.” draws you in, with sinister electro-funk moving in slinky slow motion, and the gnarly “Dirt” dials up the feedback on a wormhole to the outer reaches of coldwave. The ominous “Copter” conjures zombies from around every corner—while promising a brighter day with its shimmering ambient outro. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Relapse Records |
 | Catalog Number | RR7349 |

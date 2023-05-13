@@ -42,9 +42,14 @@ styles: ["Soft Rock", "Pop Rock"]
 <!-- section break -->
 
 Together Alone is the fourth studio album by New Zealand-Australian recording artists Crowded House. It was released in October 1993 and was their first album to feature multi-instrumentalist Mark Hart as a full band member. Unlike the band's first three albums, which were recorded in the US and Australia and produced by Mitchell Froom, Together Alone was recorded in New Zealand with producer Youth. Six singles were released from Together Alone, including "Distant Sun", which was a top 10 hit in New Zealand and Canada, and "Locked Out" which reached number 12 on the UK singles chart and number 8 on the US Modern Rock chart, the latter on the strength of the song's inclusion on the soundtrack of the 1994 film Reality Bites.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/together-alone/723500449" >}}
+{{< applemusic url="https://music.apple.com/gb/album/together-alone/723500449" >}}<br>
+
+
 ## Videos
 ### Kare Kare
 {{< youtube id="44chfOSuRNk" title="Kare Kare" >}}<br>
@@ -60,8 +65,6 @@ Together Alone is the fourth studio album by New Zealand-Australian recording ar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Together_Alone |
-| Wikipedia Summary | Together Alone is the fourth studio album by New Zealand-Australian recording artists Crowded House. It was released in October 1993 and was their first album to feature multi-instrumentalist Mark Hart as a full band member. Unlike the band's first three albums, which were recorded in the US and Australia and produced by Mitchell Froom, Together Alone was recorded in New Zealand with producer Youth. Six singles were released from Together Alone, including "Distant Sun", which was a top 10 hit in New Zealand and Canada, and "Locked Out" which reached number 12 on the UK singles chart and number 8 on the US Modern Rock chart, the latter on the strength of the song's inclusion on the soundtrack of the 1994 film Reality Bites. |
-| Release Year   | 1993                                   |
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2215 |

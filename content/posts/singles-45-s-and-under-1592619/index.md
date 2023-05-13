@@ -40,9 +40,12 @@ styles: ["New Wave", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/singles-45s-and-under/1446091631" >}}
+{{< applemusic url="https://music.apple.com/gb/album/singles-45s-and-under/1446091631" >}}<br>
+
+
 ## Videos
 ### Pulling Mussels (From The Shell)
 {{< youtube id="vB5glE-Oo94" title="Pulling Mussels (From The Shell)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["New Wave", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68552 |

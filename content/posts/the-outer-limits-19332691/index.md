@@ -40,9 +40,19 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 
 <!-- section break -->
 
-<br>
+The Outer Limits is the seventh studio album released by Canadian heavy metal band Voivod. It was issued via Mechanic/MCA Records in 1993. The album features a cover of "The Nile Song", originally by the British progressive rock band Pink Floyd, and Voivod's longest song "Jack Luminous", tracking in at 17 minutes and 26 seconds. When originally issued, the CD came with a miniature pair of 3D glasses in order to view the booklet art. The text in the upper right corner of the album cover reads "Number 8" to represent that it is actually the band's eighth album release overall following the compilation The Best of Voivod.
+The Outer Limits was the final album to feature vocalist Denis Bélanger until his 2002 return. It was also Voivod's first album without original bassist Blacky, who had left the band before the release of the critically acclaimed but commercially unsuccessful 1991 album Angel Rat. Uncomfortable with the idea of bringing in an immediate replacement for Blacky, Voivod opted to have session musician Pierre St-Jean play bass guitar for the recording of the album.
+In March 2018, the album, along with Nothingface and Angel Rat, was reissued on CD in Japan as a budget edition.
+In 2021, record label Real Gone Music released the album on limited edition blue vinyl and red vinyl editions.
+    
+    
+
+
+
 ## Spotify
-{{< spotify type="album" id="0EevA0t8Qcxh4TFLtBQPyo" width="100%" height="500" >}}
+{{< spotify type="album" id="0EevA0t8Qcxh4TFLtBQPyo" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Voivod the outer limits full album
 {{< youtube id="FoCfpkSpeH0" title="Voivod the outer limits full album" >}}<br>
@@ -58,7 +68,7 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Outer_Limits_(album) |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red/Black Smoke) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1320 |

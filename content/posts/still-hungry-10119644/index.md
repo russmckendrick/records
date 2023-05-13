@@ -37,9 +37,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/still-hungry/1252039374" >}}
+{{< applemusic url="https://music.apple.com/gb/album/still-hungry/1252039374" >}}<br>
+
+
 ## Videos
 ### DJ Format & Abdominal - We Say
 {{< youtube id="rvbrRYUpRoA" title="DJ Format & Abdominal - We Say" >}}<br>
@@ -57,7 +60,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | AAF |
 | Catalog Number | AAF003LP |

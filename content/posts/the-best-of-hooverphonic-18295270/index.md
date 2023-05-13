@@ -68,9 +68,12 @@ styles: ["Europop", "Downtempo"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-hooverphonic/1162708533" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-hooverphonic/1162708533" >}}<br>
+
+
 ## Videos
 ### Hooverphonic - Sometimes
 {{< youtube id="_QbnmV90tko" title="Hooverphonic - Sometimes" >}}<br>
@@ -85,7 +88,6 @@ styles: ["Europop", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 3× LP Compilation Reissue Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2638 |

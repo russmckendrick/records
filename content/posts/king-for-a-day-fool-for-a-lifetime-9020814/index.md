@@ -59,9 +59,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/king-for-a-day-fool-for-a-lifetime/184673815" >}}
+{{< applemusic url="https://music.apple.com/gb/album/king-for-a-day-fool-for-a-lifetime/184673815" >}}<br>
+
+
 ## Videos
 ### Faith No More - King For A Day
 {{< youtube id="tq-9kk8k4gk" title="Faith No More - King For A Day" >}}<br>
@@ -91,7 +94,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold Sleeve, 180 gram) |
 | Label          | Slash |
 | Catalog Number | 0190295973292 |

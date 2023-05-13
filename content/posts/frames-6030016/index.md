@@ -47,7 +47,12 @@ In May 2008, the band re-released the album with an accompanying DVD, featuring 
 The band played the album in full on 18 October 2008 in Manchester as part of a trilogy of shows that celebrated the band's ten-year anniversary.
 
 Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we were fucked. This is not a slight on Steven [Hodson], and I never said to anybody that I didn't think it would be as good any more, but I had a vibe about it. Then halfway through mixing it really started to make sense and I knew it would be something our fans would like. It's the kind of record they would want us to make, although I expect our hardcore fans to get it and hate and say "What have they done?" then a year later it'll be their favorite record.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Commemorative T-shirt
 {{< youtube id="BZ5g_5Op4pA" title="Commemorative T-shirt" >}}<br>
@@ -70,8 +75,6 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frames_(Oceansize_album) |
-| Wikipedia Summary | Frames is the third studio album by British progressive/alternative rock band Oceansize, released on 1 October 2007 on Superball Music. The album marks the first appearance of bassist Steven Hodson, following the departure of Jon Ellis in 2005.<br>In May 2008, the band re-released the album with an accompanying DVD, featuring a full performance of the album, a documentary focusing on the making of the album, and various live tracks. The package also includes an Oceansize sticker.<br>The band played the album in full on 18 October 2008 in Manchester as part of a trilogy of shows that celebrated the band's ten-year anniversary.<br><br>Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we were fucked. This is not a slight on Steven [Hodson], and I never said to anybody that I didn't think it would be as good any more, but I had a vibe about it. Then halfway through mixing it really started to make sense and I knew it would be something our fans would like. It's the kind of record they would want us to make, although I expect our hardcore fans to get it and hate and say "What have they done?" then a year later it'll be their favorite record. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album (Red Transparent), CD Album, All Media Deluxe Edition Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 001 |

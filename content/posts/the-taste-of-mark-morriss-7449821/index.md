@@ -36,9 +36,12 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-taste-of-mark-morriss/1182948149" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-taste-of-mark-morriss/1182948149" >}}<br>
+
+
 ## Videos
 ### Souvenir
 {{< youtube id="6RGWoXzmp7k" title="Souvenir" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP375 |

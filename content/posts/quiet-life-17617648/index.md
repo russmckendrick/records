@@ -35,9 +35,14 @@ styles: ["New Wave"]
 
 Quiet Life is the third studio album by English new wave band Japan, first released on 17 November 1979 in Canada by record label Hansa (it would be released in the UK some weeks later).
 The album was a transition from the glam rock-influenced style of previous albums to a synth-pop style. Though sales were initially slow, Quiet Life was the band's first album to chart and was later certified Gold by the British Phonographic Industry for sales in excess of 100,000 copies.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/quiet-life-deluxe-edition/1552770369" >}}
+{{< applemusic url="https://music.apple.com/gb/album/quiet-life-deluxe-edition/1552770369" >}}<br>
+
+
 ## Videos
 ### Quiet Life (2020 - Remaster)
 {{< youtube id="VFFRyLyE7BI" title="Quiet Life (2020 - Remaster)" >}}<br>
@@ -58,8 +63,6 @@ The album was a transition from the glam rock-influenced style of previous album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Quiet_Life |
-| Wikipedia Summary | Quiet Life is the third studio album by English new wave band Japan, first released on 17 November 1979 in Canada by record label Hansa (it would be released in the UK some weeks later).<br>The album was a transition from the glam rock-influenced style of previous albums to a synth-pop style. Though sales were initially slow, Quiet Life was the band's first album to chart and was later certified Gold by the British Phonographic Industry for sales in excess of 100,000 copies. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Red, Half-Speed, Gatefold) |
 | Label          | BMG |
 | Catalog Number | BMGCAT403CLP |

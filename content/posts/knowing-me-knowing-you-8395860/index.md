@@ -26,7 +26,10 @@ styles: ["Comedy"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -35,7 +38,6 @@ styles: ["Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Limited Edition Picture Disc |
 | Label          | Demon Records |
 | Catalog Number | DEMREC138 |

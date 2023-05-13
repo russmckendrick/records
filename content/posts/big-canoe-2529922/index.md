@@ -38,9 +38,12 @@ styles: ["New Wave", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/big-canoe/723416046" >}}
+{{< applemusic url="https://music.apple.com/gb/album/big-canoe/723416046" >}}<br>
+
+
 ## Videos
 ### TIM FINN - No Thunder, No Fire, No Rain (1986)
 {{< youtube id="V7140SlRUQE" title="TIM FINN - No Thunder, No Fire, No Rain (1986)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["New Wave", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1986                                   |
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V2369 |

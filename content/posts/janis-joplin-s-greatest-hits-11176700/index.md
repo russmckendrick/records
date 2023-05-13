@@ -40,9 +40,14 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 Few white women knew the blues as well as Joplin, and this collection showcases her most iconic moments. Her soul shines through the rib-rattling wail of “Piece of My Heart,” while “Me and Bobby McGee” marries her aching voice to classic country storytelling. A live take of “Down On Me” illustrates her command of the stage while fronting the blues rock powerhouse Big Brother & The Holding Company.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/janis-joplins-greatest-hits/1475500000" >}}
+{{< applemusic url="https://music.apple.com/gb/album/janis-joplins-greatest-hits/1475500000" >}}<br>
+
+
 ## Videos
 ### Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)
 {{< youtube id="A24JZkgvNv4" title="Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)" >}}<br>
@@ -62,8 +67,6 @@ Few white women knew the blues as well as Joplin, and this collection showcases 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Few white women knew the blues as well as Joplin, and this collection showcases her most iconic moments. Her soul shines through the rib-rattling wail of “Piece of My Heart,” while “Me and Bobby McGee” marries her aching voice to classic country storytelling. A live take of “Down On Me” illustrates her command of the stage while fronting the blues rock powerhouse Big Brother & The Holding Company. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Compilation Reissue (Pink & Blue Splattered Clear) |
 | Label          | Columbia |
 | Catalog Number | 88985479731 |

@@ -44,11 +44,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-Folklore is the ninth studio album by the English progressive rock band Big Big Train. Released on 27 May 2016, it was recorded at English Electric Studios, produced by Big Big Train, and mixed and mastered at Aubitt Studios by Rob Aubrey. It is the first studio album to feature Rachel Hall and then-Beardfish lead vocalist Rikard Sjöblom as official members.
-The album was released in multiple formats: standard and High Res downloads, as a single CD, and as a double-LP vinyl release that features two additional tracks, "Mudlarks" and "Lost Rivers of London", both of which were previously released on the 2015 EP Wassail. Both versions of the album contain the title track from Wassail, meaning that the vinyl release features all three of the original songs on the EP.
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/folklore/1096218321" >}}
+{{< applemusic url="https://music.apple.com/gb/album/folklore/1096218321" >}}<br>
+
+
 ## Videos
 ### big big train - lost rivers of London
 {{< youtube id="FaaOPtE1i_s" title="big big train - lost rivers of London" >}}<br>
@@ -64,9 +65,6 @@ The album was released in multiple formats: standard and High Res downloads, as 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Folklore_(Big_Big_Train_album) |
-| Wikipedia Summary | Folklore is the ninth studio album by the English progressive rock band Big Big Train. Released on 27 May 2016, it was recorded at English Electric Studios, produced by Big Big Train, and mixed and mastered at Aubitt Studios by Rob Aubrey. It is the first studio album to feature Rachel Hall and then-Beardfish lead vocalist Rikard Sjöblom as official members.<br>The album was released in multiple formats: standard and High Res downloads, as a single CD, and as a double-LP vinyl release that features two additional tracks, "Mudlarks" and "Lost Rivers of London", both of which were previously released on the 2015 EP Wassail. Both versions of the album contain the title track from Wassail, meaning that the vinyl release features all three of the original songs on the EP. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Plane Groovy |
 | Catalog Number | PLG044 |

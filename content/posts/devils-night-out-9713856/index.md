@@ -38,9 +38,12 @@ styles: ["Ska", "Punk", "Hardcore"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devils-night-out/321147421" >}}
+{{< applemusic url="https://music.apple.com/gb/album/devils-night-out/321147421" >}}<br>
+
+
 ## Videos
 ### The Mighty Mighty Bosstones  - Devils Night Out Full Album
 {{< youtube id="cTIEH0PVRGg" title="The Mighty Mighty Bosstones  - Devils Night Out Full Album" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Ska", "Punk", "Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! #44 |

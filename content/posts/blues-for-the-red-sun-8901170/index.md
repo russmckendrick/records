@@ -42,9 +42,15 @@ styles: ["Stoner Rock", "Hard Rock"]
 <!-- section break -->
 
 With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging his basslines deep enough to rattle the earth’s core and John Garcia howling from some sun-scorched spot in the middle of the California desert, Kyuss’ second album married early grunge to late-’60s acid rock—planting the seed from which stoner rock sprouted. Gut-churning slabs of ultra-distorted, tripped-out sludge like “Thumb” and “Molten Universe” plow ahead like bulldozers reshaping the moon—picking up steam, sending meteors into orbit and leaving craters in their wake.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blues-for-the-red-sun/213508542" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blues-for-the-red-sun/213508542" >}}<br>
+
+
 ## Videos
 ### Kyuss - Thong Song (Official Video)
 {{< youtube id="CtFuXV5FEvI" title="Kyuss - Thong Song (Official Video)" >}}<br>
@@ -68,8 +74,6 @@ With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blues_for_the_Red_Sun |
-| Wikipedia Summary | Blues for the Red Sun is the second studio album by American rock band Kyuss, released in 1992. While the album received mainly favorable reviews, it fared poorly commercially, selling only 39,000 units. It has since become a very influential album within the stoner rock genre. It was the last Kyuss album to feature bassist Nick Oliveri, who was replaced by Scott Reeder shortly after recording had been completed.<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Repress (Dark Red Marbled) |
 | Label          | Dali Records |
 | Catalog Number | 3705-61340-1 |

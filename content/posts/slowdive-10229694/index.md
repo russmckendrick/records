@@ -40,9 +40,15 @@ styles: ["Shoegaze", "Indie Rock"]
 <!-- section break -->
 
 Some bands take a few years to regroup for their next move; dream-pop pioneers Slowdive took 22, a return all the more bittersweet given how many bands their sound has influenced since. Combining the atmospherics of ambient music with rock ’n’ roll’s low center of gravity, <i>Slowdive</i> sounds as vital as anything the band recorded in the early ‘90s, whether it’s the foggy, countryish inflections of “No Longer Making Time” or the propulsive “Star Roving.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/slowdive/1210172617" >}}
+{{< applemusic url="https://music.apple.com/gb/album/slowdive/1210172617" >}}<br>
+
+
 ## Videos
 ### Everyone Knows
 {{< youtube id="2hY0bFCtZbA" title="Everyone Knows" >}}<br>
@@ -61,8 +67,6 @@ Some bands take a few years to regroup for their next move; dream-pop pioneers S
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slowdive_(album) |
-| Wikipedia Summary | Slowdive is the fourth studio album by English rock band Slowdive. It was released on 5 May 2017 by the record label Dead Oceans. It was Slowdive's first studio album in 22 years, following Pygmalion (1995). It was also the band's first album since Souvlaki (1993) to feature the drummer Simon Scott as a member.<br>Slowdive was preceded by the singles "Star Roving", released on 12 January 2017, and "Sugar for the Pill", released on 28 March 2017. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC132 |

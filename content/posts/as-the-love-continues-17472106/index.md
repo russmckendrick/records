@@ -74,9 +74,15 @@ styles: []
 <!-- section break -->
 
 Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur: You pretty much know what you’re getting when you come to a Mogwai album, but rarely have they given it up with such ease as they do on <i>As the Love Continues</i>, their 10th LP. For a band whose central theme has remained almost industrially consistent, they’ve built up plenty of variations on it: the sparkling, New Agey electronics of “Dry Fantasy”, the classic indie rock sound of “Ceiling Granny” and “Ritchie Sacramento”, the ’80s dance rhythms of “Supposedly, We Were Nightmares”. Even when they reach for their signature build-and-release (“Midnight Flit”), you get the sense of a band not just marching towards an inevitable climax but relishing in texture, nuance and note-to-note intricacies that make that climax feel fresh again. And while they’ve always been beautiful, they’ve also seemed to treat that beauty as an intellectual liability, something to be undermined in the name of staying sharp.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/as-the-love-continues/1535337264" >}}
+{{< applemusic url="https://music.apple.com/gb/album/as-the-love-continues/1535337264" >}}<br>
+
+
 ## Videos
 ### Mogwai // Dry Fantasy (Official Video)
 {{< youtube id="55wY7XrGFzY" title="Mogwai // Dry Fantasy (Official Video)" >}}<br>
@@ -92,8 +98,6 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/As_the_Love_Continues |
-| Wikipedia Summary | As the Love Continues is the tenth studio album by Scottish post-rock band Mogwai, released on 19 February 2021 on Rock Action Records in the UK and Europe, and on Temporary Residence Limited in the US. Its UK release date marked the 25th anniversary of Mogwai's first single, "Tuner/Lower". It was preceded by the single "Dry Fantasy", and the streaming of a live concert of the album played in full.<br>As the Love Continues was met with near universal critical and fan acclaim, including a Mercury Prize nomination in 2021. The album topped the UK charts in its first week of release, a position that the band called "totally surreal". |
-    | Release Year   | 2021                                   |
 | Format         | Box Set, Vinyl 2× LP Album (Red ), Vinyl 12" (Demos), CD |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT140 |

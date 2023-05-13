@@ -30,9 +30,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/magnet-ep/1031295288" >}}
+{{< applemusic url="https://music.apple.com/gb/album/magnet-ep/1031295288" >}}<br>
+
+
 
 
 ## Release Images
@@ -41,7 +44,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Limited Edition Stereo (Screenprint) |
 | Label          | Crate Digger Records |
 | Catalog Number | CDIGG001 |

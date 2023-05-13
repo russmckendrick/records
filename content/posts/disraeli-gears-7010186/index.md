@@ -43,9 +43,15 @@ styles: ["Psychedelic Rock", "Blues Rock"]
 
 Disraeli Gears is the second studio album by the British rock band Cream. It was released in November 1967 and reached No. 5 on the UK Albums Chart., and No. 1 on the Swedish and Finnish charts.  The album was also No. 1 for two weeks on the Australian album chart and was listed as the No. 1 album of 1968 by Cash Box in the year-end album chart in the United States.  The album features the singles "Strange Brew" and "Sunshine of Your Love", as well as their respective B-sides "Tales of Brave Ulysses" and "SWLABR".
 The original 11-track album was remastered in 1998, and then subsequently released as a two-disc Deluxe Edition in 2004.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/disraeli-gears/1440817229" >}}
+{{< applemusic url="https://music.apple.com/gb/album/disraeli-gears/1440817229" >}}<br>
+
+
 
 
 ## Release Images
@@ -55,8 +61,6 @@ The original 11-track album was remastered in 1998, and then subsequently releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Disraeli_Gears |
-| Apple Music Summary | On their second studio album, the British power trio subdues blues grooves to create a psychedelic hard-rock masterpiece. The trippy “Strange Brew” and the rollicking “Sunshine of Your Love” blend seamlessly with lesser-known tunes to form an aura that’s best conveyed by the album cover’s fluorescent colors. Jack Bruce and Eric Clapton create haunting vocal harmonies. And where Clapton’s guitar tones are sublimely experimental, drummer Ginger Baker provides eclectic rhythms that defy easy categorization. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Polydor |
 | Catalog Number | 535 484-3 |

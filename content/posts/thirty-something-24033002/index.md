@@ -64,9 +64,12 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/30-something/1619288979" >}}
+{{< applemusic url="https://music.apple.com/gb/album/30-something/1619288979" >}}<br>
+
+
 ## Videos
 ### Smiley
 {{< youtube id="Gl-7yh4hY04" title="Smiley" >}}<br>
@@ -103,7 +106,6 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 4× 12" Album (180g), Box Set |
 | Label          | Orbital Recordings Ltd. |
 | Catalog Number | LMS5521698 |

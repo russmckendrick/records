@@ -43,9 +43,12 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/milking-the-stars-a-re-imagining-of-last-patrol/1183601514" >}}
+{{< applemusic url="https://music.apple.com/gb/album/milking-the-stars-a-re-imagining-of-last-patrol/1183601514" >}}<br>
+
+
 ## Videos
 ### MONSTER MAGNET - The Duke (Official Video) | Napalm Records
 {{< youtube id="2RCwgz4FiSA" title="MONSTER MAGNET - The Duke (Official Video) | Napalm Records" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 563 LP |

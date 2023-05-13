@@ -34,9 +34,12 @@ styles: ["Rock & Roll"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/velveteen/1443764149" >}}
+{{< applemusic url="https://music.apple.com/gb/album/velveteen/1443764149" >}}<br>
+
+
 ## Videos
 ### Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989
 {{< youtube id="q-ccY2xHhY8" title="Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue (Red) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC325 |

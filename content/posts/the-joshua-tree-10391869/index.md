@@ -132,9 +132,15 @@ The Joshua Tree received critical acclaim, topped the charts in over 20 countrie
 Frequently listed among the greatest albums of all time, The Joshua Tree is one of the world's best-selling albums, with over 25 million copies sold. U2 commemorated the record's 20th anniversary with a remastered re-release, and its 30th anniversary with concert tours and a reissue. In 2014, The Joshua Tree was selected for preservation in the US National Recording Registry, having been deemed "culturally, historically, or aesthetically significant" by the Library of Congress.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-joshua-tree/1443155637" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-joshua-tree/1443155637" >}}<br>
+
+
 ## Videos
 ### U̲2   The J̲o̲shua Tree  Full Album  1987
 {{< youtube id="UxkVin0IFqw" title="U̲2   The J̲o̲shua Tree  Full Album  1987" >}}<br>
@@ -147,8 +153,6 @@ Frequently listed among the greatest albums of all time, The Joshua Tree is one 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Joshua_Tree |
-| Apple Music Summary | Shortly before U2 released what became one of the best-selling albums of all time, Bono thought about calling the record-pressing plant to stop production on it. Too many mistakes, he thought, too many wrong moves. He’d had this feeling before, of course—he later said he couldn’t figure out why anyone would even <i>buy</i> a U2 album. But the stakes were higher now: They’d already been crowned Band of the ’80s by <i>Rolling Stone</i> (in 1985, no less), and their live shows had become the kind of spectacles that inspired rapture.<br /><br>Add to this the anxiety that <i>The Joshua Tree</i> represented something new for the band: the gospel influences, the emotional nakedness, the introduction of understatement to a sound that had defined itself by its forthrightness. In the past, they’d let their songwriting be loose and in-the-moment—after all, planning would’ve been unpunk. Now they were exploring the liberations that come with constraint. Chrissie Hynde of the Pretenders had told Bono he had an amazing voice. But if he was going to sing the way he was capable of singing—the way he so obviously wanted to sing—he’d have to buckle down and write words he really believed in.<br /><br>If you lean in close, you can pull apart the sound in layers: the wisps of guitar, the bits of pocket-watch percussion (“One Tree Hill”). But if you sit back, it sounds minimal and direct. The words point to romantic love (“With or Without You,” “I Still Haven’t Found What I’m Looking For”) but also to the search for God and meaning—a reflection of the dualities they found in both gospel and the romanticism of Van Morrison and Patti Smith. The backdrop—the inky washes of sound, courtesy of Brian Eno and Daniel Lanois—captures constant change, but the foreground—the march-like rhythms, the impassioned vocals—is steadfast and firm. They rock with the tools of their era, but they also tap into something eternal.<br /><br>The album’s original title was <i>The Two Americas</i>. But the spirit of travel and adventure remains, as does the spirit of being lost in a strange place and soaking in the beauty of the unknown. <i>The Joshua Tree</i> is the sound of the quest that leaves you transformed.  |
-    | Release Year   | 2017                                   |
 | Format         | Box Set Deluxe Edition (30th Anniversary Edition), Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album, Vinyl 3× LP Compilation |
 | Label          | Island Records |
 | Catalog Number | 00602557482485 |

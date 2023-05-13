@@ -39,9 +39,14 @@ styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 <!-- section break -->
 
 The Holy Pictures is a 2008 studio album by David Holmes. The album departs from the eclectic soundtrack-to-an-imaginary-film style of his previous studio albums, in favour of a more personal approach. It was nominated for the 2008 Choice Music Prize, awarded to the best Irish album of the year. The tracks "I Heard Wonders" and "Holy Pictures" were released as singles.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-holy-pictures/1452866493" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-holy-pictures/1452866493" >}}<br>
+
+
 ## Videos
 ### I Heard Wonders
 {{< youtube id="sAtpVizpkKM" title="I Heard Wonders" >}}<br>
@@ -64,8 +69,6 @@ The Holy Pictures is a 2008 studio album by David Holmes. The album departs from
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Holy_Pictures |
-| Wikipedia Summary | The Holy Pictures is a 2008 studio album by David Holmes. The album departs from the eclectic soundtrack-to-an-imaginary-film style of his previous studio albums, in favour of a more personal approach. It was nominated for the 2008 Choice Music Prize, awarded to the best Irish album of the year. The tracks "I Heard Wonders" and "Holy Pictures" were released as singles. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE54LP |

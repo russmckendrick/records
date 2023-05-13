@@ -38,9 +38,12 @@ styles: ["Indie Rock", "Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-one-is-lost/908536655" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-one-is-lost/908536655" >}}<br>
+
+
 ## Videos
 ### Stars - No One Is Lost (Official Video)
 {{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost (Official Video)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Indie Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Pink/Black Split) |
 | Label          | ATO Records |
 | Catalog Number | ATO0251 |

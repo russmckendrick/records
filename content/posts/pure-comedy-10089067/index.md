@@ -55,9 +55,15 @@ styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 <!-- section break -->
 
 Josh Tillman’s third album as Father John Misty is a wry and passionate complaint against nearly everything under the sun: Politics, religion, entertainment, war—even Father John Misty can’t escape Father John Misty’s gimlet eye. But even the wordiest, most cynically self-aware songs here (“Leaving L.A.,” “When the God of Love Returns There’ll Be Hell to Pay”) are executed with angelic beauty, a contrast that puts Tillman in a league with spiritual predecessors like Randy Newman or Harry Nilsson. A performer as savvy as Tillman knows you can’t sell the apocalypse without making it sound pretty.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pure-comedy/1195129976" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pure-comedy/1195129976" >}}<br>
+
+
 ## Videos
 ### Father John Misty - Pure Comedy [Official Music Video]
 {{< youtube id="wKrSYgirAhc" title="Father John Misty - Pure Comedy [Official Music Video]" >}}<br>
@@ -73,8 +79,6 @@ Josh Tillman’s third album as Father John Misty is a wry and passionate compla
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pure_Comedy |
-| Wikipedia Summary | Pure Comedy is the third studio album by American folk musician Josh Tillman under his pseudonym Father John Misty. Its release was announced on January 23, 2017. It was released on April 7, 2017 on Bella Union in the UK and Europe and on Sub Pop in the rest of the world. This is Tillman's third studio album since his departure from Fleet Foxes. It was produced by Josh Tillman in collaboration with Jonathan Wilson, sound engineer Trevor Spencer and composer/double-bassist Gavin Bryars. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition (Aluminium/Copper), Vinyl 7", All Media Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA628VX |

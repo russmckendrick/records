@@ -34,9 +34,15 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 <!-- section break -->
 
 Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <i>Rendez-Vous</i> goes clear into the cosmos. Designed for play onboard space shuttle missions, the six-part suite has a weightless, soaring quality appropriate for that otherworldly setting. The final section is dedicated to Jarre's friend Ron McNair, an astronaut who died in the 1986 Challenger explosion. With a haunting saxophone solo atop a synthesised heartbeat, the piece becomes an emotional memorial and a somber conclusion to the interplanetary trip.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rendez-vous/1027735025" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rendez-vous/1027735025" >}}<br>
+
+
 ## Videos
 ### Jean Michel Jarre - Rendez Vous
 {{< youtube id="qcf3eGVPlZE" title="Jean Michel Jarre - Rendez Vous" >}}<br>
@@ -57,8 +63,6 @@ Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rendez-Vous_(Jean-Michel_Jarre_album) |
-| Wikipedia Summary | Rendez-vous (English: Appointment) is the eighth studio album by electronic musician and composer Jean-Michel Jarre released on Disques Dreyfus, licensed to Polydor, in 1986. The album art was created by long-time collaborator Michel Granger. |
-    | Release Year   | 1986                                   |
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | POLH 27 |

@@ -41,9 +41,12 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/jurassic-shift/214136665" >}}
+{{< applemusic url="https://music.apple.com/gb/album/jurassic-shift/214136665" >}}<br>
+
+
 ## Videos
 ### Sunhair (2020 Ed Wynne Remaster)
 {{< youtube id="FDixlKkQR2w" title="Sunhair (2020 Ed Wynne Remaster)" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album Reissue (Pink 180g Vinyl, Gatefold), Vinyl 12" |
 | Label          | Madfish |
 | Catalog Number | SMALP955 |

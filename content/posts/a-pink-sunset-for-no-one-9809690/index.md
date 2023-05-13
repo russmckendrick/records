@@ -36,9 +36,12 @@ styles: ["Ambient", "Drone"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-pink-sunset-for-no-one/1668273418" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-pink-sunset-for-no-one/1668273418" >}}<br>
+
+
 ## Videos
 ### A Pink Sunset For No One
 {{< youtube id="zGk4imfGKi4" title="A Pink Sunset For No One" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Ambient", "Drone"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album |
 | Label          | Fire Records |
 | Catalog Number | FIRELP401 |

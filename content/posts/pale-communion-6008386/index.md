@@ -51,9 +51,14 @@ styles: ["Prog Rock"]
 Pale Communion is the eleventh studio album by Swedish progressive metal band Opeth. The album was released on 26 August 2014 through Roadrunner Records. The album was produced by Mikael Åkerfeldt and mixed by Steven Wilson. Pale Communion is the first album with keyboardist Joakim Svalberg after the departure of Per Wiberg in 2011. The album sold 19,090 copies in its first week of release in the United States, debuting at number 19 on the Billboard 200.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pale-communion/881685468" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pale-communion/881685468" >}}<br>
+
+
 ## Videos
 ### Opeth - Eternal Rains Will Come (Audio)
 {{< youtube id="CoW3Sywb5xQ" title="Opeth - Eternal Rains Will Come (Audio)" >}}<br>
@@ -76,8 +81,6 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pale_Communion |
-| Wikipedia Summary | Pale Communion is the eleventh studio album by Swedish progressive metal band Opeth. The album was released on 26 August 2014 through Roadrunner Records. The album was produced by Mikael Åkerfeldt and mixed by Steven Wilson. Pale Communion is the first album with keyboardist Joakim Svalberg after the departure of Per Wiberg in 2011. The album sold 19,090 copies in its first week of release in the United States, debuting at number 19 on the Billboard 200.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7573-1 |

@@ -50,9 +50,15 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 
 Lateralus () is the third studio album by American rock band Tool. It was released on May 15, 2001, through Volcano Entertainment. The album was recorded at Cello Studios in Hollywood and The Hook, Big Empty Space, and The Lodge, in North Hollywood, between October 2000 and January 2001. David Bottrill, who had produced the band's two previous releases Ænima and Salival, produced the album along with the band, and became the last Tool album produced by Bottrill to date. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package.
 The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200 copies in its first week of release. It was certified double platinum by the RIAA on August 5, 2003. On February 13, 2015, the album was certified Gold by the BPI. It was also certified platinum in Australia, and double platinum in Canada. The band won the Grammy Award for Best Metal Performance for the song "Schism" in 2002. Lateralus was ranked No. 123 on the Rock and Roll Hall of Fame's "Definitive 200" list. This was also the only album of Tool's catalogue which did not featured the Parental Advisory sticker.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lateralus/1474185412" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lateralus/1474185412" >}}<br>
+
+
 ## Videos
 ### TOOL - Schism
 {{< youtube id="MM62wjLrgmA" title="TOOL - Schism" >}}<br>
@@ -80,8 +86,6 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lateralus |
-| Apple Music Summary | The massive, nearly 79-minute <i>Lateralus</i> is TOOL entering full bloom as the 21st century's most popular, beloved and impactful progressive rock band—a patient unfurling of heady ideas, mystical themes and off-kilter riffs. The trademarks of their next two decades are born here on their third album—a spiral of math and science themes, brain-melting time signatures, shifting rhythmic interplay, expanding song lengths, tumbles of drums and the metaphysical artwork of Alex Grey. It's a legacy band embarking on a new flight path, reinventing their experimental genius and finding new ways to be heavy. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue |
 | Label          | Zomba |
 | Catalog Number | 0614223116013 |

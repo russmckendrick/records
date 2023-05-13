@@ -40,9 +40,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/be-a-girl/253726073" >}}
+{{< applemusic url="https://music.apple.com/gb/album/be-a-girl/253726073" >}}<br>
+
+
 ## Videos
 ### Sweet Nymphet
 {{< youtube id="LBXwXV5JOI4" title="Sweet Nymphet" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Yellow Transparent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2302 |

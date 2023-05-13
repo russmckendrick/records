@@ -41,9 +41,12 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dos-dedos-mis-amigos/1449628743" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dos-dedos-mis-amigos/1449628743" >}}<br>
+
+
 ## Videos
 ### Pop Will Eat Itself - Ich Bin Ein Auslander
 {{< youtube id="76wSk1j02_4" title="Pop Will Eat Itself - Ich Bin Ein Auslander" >}}<br>
@@ -59,7 +62,6 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1994                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Infectious Records |
 | Catalog Number | INFECT 10LPX |

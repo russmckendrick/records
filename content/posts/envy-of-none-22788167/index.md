@@ -76,9 +76,15 @@ Lifeson: “Maiah’s performance is so amazing on this. It melts me every time 
  
 <b>“Western Sunset”</b>
 Lifeson: “This is difficult to talk about because I wrote the song around the time we heard of Neil’s illness. We all spent time with him, and one day I was on his patio, watching the sunset. It was a very serene, calm moment in the middle of this terrible news, and it struck me that with the sun setting and bringing closure to the day, it became this poignant moment we were sharing. As a closer for the album, it also gives you a chance to catch your breath and digest everything you just listened to. I immediately think of Neil when I hear the song, and it actually makes me feel good. That kind of thing is an important part of recovering from the loss of someone that you love so much.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/envy-of-none/1599578868" >}}
+{{< applemusic url="https://music.apple.com/gb/album/envy-of-none/1599578868" >}}<br>
+
+
 ## Videos
 ### Never Said I Love You
 {{< youtube id="Yp8q2mMoa7k" title="Never Said I Love You" >}}<br>
@@ -103,8 +109,6 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Envy_of_None |
-| Wikipedia Summary | Envy of None (abbreviated as EON) is a Canadian-American rock supergroup formed in 2021 by former Rush guitarist Alex Lifeson, along with bassist Andy Curran, vocalist Maiah Wynne, and guitarist and keyboardist Alfio Annibalini. Their self-titled studio album was released on April 8, 2022. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Kscope |
 | Catalog Number | 1164 |

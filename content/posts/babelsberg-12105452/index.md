@@ -43,9 +43,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was released in June 2018 under Rough Trade Records.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/babelsberg/1362980945" >}}
+{{< applemusic url="https://music.apple.com/gb/album/babelsberg/1362980945" >}}<br>
+
+
 ## Videos
 ### Gruff Rhys - Limited Edition Heart (Official Audio)
 {{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart (Official Audio)" >}}<br>
@@ -61,8 +66,6 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Babelsberg_(album) |
-| Wikipedia Summary | Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was released in June 2018 under Rough Trade Records. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album |
 | Label          | Rough Trade |
 | Catalog Number | RT0010LP |

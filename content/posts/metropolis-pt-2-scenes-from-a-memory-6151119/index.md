@@ -50,9 +50,14 @@ The album is the sequel to "Metropolis—Part I: 'The Miracle and the Sleeper'",
 For the album's twentieth anniversary, the band performed the album live in its entirety throughout the Distance over Time Tour (as documented on Distant Memories - Live in London).
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/metropolis-pt-2-scenes-from-a-memory/282694467" >}}
+{{< applemusic url="https://music.apple.com/gb/album/metropolis-pt-2-scenes-from-a-memory/282694467" >}}<br>
+
+
 ## Videos
 ### Scene One: Regression
 {{< youtube id="H2UHWFU5uFY" title="Scene One: Regression" >}}<br>
@@ -77,8 +82,6 @@ For the album's twentieth anniversary, the band performed the album live in its 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Metropolis_Pt._2:_Scenes_from_a_Memory |
-| Wikipedia Summary | Metropolis Pt. 2: Scenes from a Memory is the fifth studio album and first concept album by American progressive metal band Dream Theater, released on October 26, 1999, through Elektra Records. It was recorded at BearTracks Studios in Suffern, New York, where the band had previously recorded their second studio album, Images and Words (1992), and the EP A Change of Seasons (1995).<br>The album is the sequel to "Metropolis—Part I: 'The Miracle and the Sleeper'", a song featured on the band's 1992 album Images and Words. It was the first album to feature Jordan Rudess on keyboards.<br>For the album's twentieth anniversary, the band performed the album live in its entirety throughout the Distance over Time Tour (as documented on Distant Memories - Live in London).<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1001 |

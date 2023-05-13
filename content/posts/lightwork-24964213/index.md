@@ -105,9 +105,12 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lightwork-deluxe-edition/1638173881" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lightwork-deluxe-edition/1638173881" >}}<br>
+
+
 ## Videos
 ### Equinox
 {{< youtube id="8t_QBTKrTXU" title="Equinox" >}}<br>
@@ -125,7 +128,6 @@ styles: ["Progressive Metal", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Box Set Deluxe Edition Limited Edition, Vinyl 2× LP Album (Orange [Transparent Orange]), Vinyl LP Album (Orange [Transparent Orange]), CD Album, CD Album, Blu-ray Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOM624 |

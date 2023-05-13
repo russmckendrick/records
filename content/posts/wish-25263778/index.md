@@ -46,9 +46,12 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wish-30th-anniversary-edition/1634667788" >}}
+{{< applemusic url="https://music.apple.com/gb/album/wish-30th-anniversary-edition/1634667788" >}}<br>
+
+
 ## Videos
 ### The Cure - From The Edge Of The Deep Green Sea [HQ]
 {{< youtube id="olNQWNrKxn8" title="The Cure - From The Edge Of The Deep Green Sea [HQ]" >}}<br>
@@ -60,7 +63,6 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (30th Anniversary Edition, 180 g) |
 | Label          | Fiction Records |
 | Catalog Number | fixh20 |

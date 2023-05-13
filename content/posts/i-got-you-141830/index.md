@@ -29,7 +29,12 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 "I Got You" is a song by New Zealand rock band Split Enz. It was released as a single on 21 January 1980 by Mushroom Records in Australia and New Zealand, and August 1980 by A&M internationally, as the first single from their breakthrough album True Colours. Written by co-lead singer Neil Finn, who did not initially believe it to be a hit, it became the band's most commercially successful song, topping the charts in Australasia (spending eight weeks at number-one in Australia) and placing in the top 20 of the British and Canadian charts. By July 1980, it had become the biggest selling single in Australian history.The song was rated #11 on the Australasian Performing Right Association's Top 100 New Zealand Songs Of All Time list.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Split Enz - I Got You (1980)
 {{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
@@ -47,8 +52,6 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Got_You_(Split_Enz_song) |
-| Wikipedia Summary | "I Got You" is a song by New Zealand rock band Split Enz. It was released as a single on 21 January 1980 by Mushroom Records in Australia and New Zealand, and August 1980 by A&M internationally, as the first single from their breakthrough album True Colours. Written by co-lead singer Neil Finn, who did not initially believe it to be a hit, it became the band's most commercially successful song, topping the charts in Australasia (spending eight weeks at number-one in Australia) and placing in the top 20 of the British and Canadian charts. By July 1980, it had become the biggest selling single in Australian history.The song was rated #11 on the Australasian Performing Right Association's Top 100 New Zealand Songs Of All Time list. |
-| Release Year   | 1980                                   |
 | Format         | Vinyl 7" 45 RPM Single Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMS 7546 |

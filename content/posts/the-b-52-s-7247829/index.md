@@ -37,9 +37,12 @@ styles: ["New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/b-52s/1440816774" >}}
+{{< applemusic url="https://music.apple.com/gb/album/b-52s/1440816774" >}}<br>
+
+
 ## Videos
 ### The B-52's - Rock Lobster (Official Music Video)
 {{< youtube id="n4QSYx4wVQg" title="The B-52's - Rock Lobster (Official Music Video)" >}}<br>
@@ -54,7 +57,6 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180 gram, Audiophile Pressing) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1420 |

@@ -41,9 +41,15 @@ styles: ["Modern Classical"]
 <!-- section break -->
 
 Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she’s also written a piece for an MRI scanner. Echoing that breadth of approaches, her debut album blends classical leanings (clarinet, tuba, cello) with bubbling electronics and Dirty Projectors-esque avant-pop. The Scottish-born, London-based composer stokes pinging, bass-buffeted melodies on opener “Nautilus”, while “Taken” moves to distorted guitar and a quasi-rock chorus. Whether turning to epic synth odysseys (“The Vapours”) or sugary electro-pop (“Something Helpful”), <i>Varmints</i> accumulates more giddy ideas with every passing minute.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/varmints/1053717277" >}}
+{{< applemusic url="https://music.apple.com/gb/album/varmints/1053717277" >}}<br>
+
+
 ## Videos
 ### Anna Meredith -  Nautilus (Official Video)
 {{< youtube id="Vajhs2wBeCU" title="Anna Meredith -  Nautilus (Official Video)" >}}<br>
@@ -61,8 +67,6 @@ Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Varmints_(album) |
-| Wikipedia Summary | Varmints is the debut studio album by the Scottish composer and electronica musician Anna Meredith, released on 4 March 2016 on Moshi Moshi. The album won Scottish Album of the Year Award in 2016. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Moshi Moshi Records |
 | Catalog Number | MOSHILP67 |

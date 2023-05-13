@@ -65,9 +65,14 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 The Octopus is the third studio album of the Manchester space rock band Amplifier. The format of the album is double CD. It was released to fans online in December 2010 and was commercially released in January 2011. In reviewing the album, the BBC stated that it was "an album that commands respects and time to be afforded to it, but the rewards are plentiful. If two discs seem slightly overwhelming at first, then the other perspective is that there is so much quality to digest here that your value for money is not even in question." The album can be listened to online at a mini-site set up by the band. The Octopus vinyl edition was released in October 2019 with "The Eternal" as an exclusive bonus track.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-octopus/1198303873" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-octopus/1198303873" >}}<br>
+
+
 ## Videos
 ### Amplifier  The Wave  HD
 {{< youtube id="mixPxkJswHA" title="Amplifier  The Wave  HD" >}}<br>
@@ -84,8 +89,6 @@ The Octopus is the third studio album of the Manchester space rock band Amplifie
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Octopus_(album) |
-| Wikipedia Summary | The Octopus is the third studio album of the Manchester space rock band Amplifier. The format of the album is double CD. It was released to fans online in December 2010 and was commercially released in January 2011. In reviewing the album, the BBC stated that it was "an album that commands respects and time to be afforded to it, but the rewards are plentiful. If two discs seem slightly overwhelming at first, then the other perspective is that there is so much quality to digest here that your value for money is not even in question." The album can be listened to online at a mini-site set up by the band. The Octopus vinyl edition was released in October 2019 with "The Eternal" as an exclusive bonus track.<br><br> |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (Clear With Black Splatter), Vinyl LP (Blue Transparent With Black Splatter), Vinyl LP (Orange Transparent With Black Splatter), Vinyl LP (Red Transparent With Black Splatter), All Media Album Reissue Remastered |
 | Label          | Rockosmos |
 | Catalog Number | ROK 70 |

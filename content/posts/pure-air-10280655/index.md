@@ -39,9 +39,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pure-air/1068872943" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pure-air/1068872943" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1875 |

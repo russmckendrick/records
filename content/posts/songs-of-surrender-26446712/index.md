@@ -76,9 +76,15 @@ The Edge: “Oh, that’s right. We changed the lyrics.”
 
 <b>“City of Blinding Lights”</b>
 The Edge: “What's fun is to hear things like 'City of Blinding Lights', which sounds like a completely different song lyric to me, because Bono's interpreting it in a way that he couldn't possibly have done with the rock version. The same is true for a lot of them, where you're hearing it in a different way. And that's, I think, why [Bono] went for new lyrics in a lot of songs is because there was a kind of opportunity there, there was a platform to deliver lyrics that wasn't there before.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/songs-of-surrender/1664119641" >}}
+{{< applemusic url="https://music.apple.com/gb/album/songs-of-surrender/1664119641" >}}<br>
+
+
 
 
 ## Release Images
@@ -88,8 +94,6 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_of_Surrender |
-| Wikipedia Summary | Songs of Surrender is an album of re-recorded songs by Irish rock band U2. Produced by guitarist the Edge, it was released on 17 March 2023 on Island Records and Interscope Records. Largely the effort of the Edge and lead vocalist Bono, the album comprises re-recorded and reinterpreted versions of 40 songs from the group's back catalogue, many in stripped-down and acoustic arrangements. The album is a companion to Bono's memoir, Surrender: 40 Songs, One Story (2022), which was structured into 40 chapters titled after U2 songs. Rearranged versions of the songs were first included in the audiobook edition of the memoir, and were performed by Bono during the book's promotional tour.<br>Recording on Songs of Surrender began in 2021 and spanned a two-year period during lockdowns for the COVID-19 pandemic. The Edge and Bono worked on the album informally at the Edge's home and in France, as well as at recording studios in London and Los Angeles. During the sessions, the band members collaborated with numerous producers and musicians, including Bob Ezrin, Duncan Stewart, Declan Gaffney, and Stjepan Hauser.<br>Songs of Surrender was released on numerous formats in 16-track, 20-track, and 40-track editions, and a dozen coloured variants of the double-LP vinyl edition were produced. The album's release was accompanied by a television documentary film, Bono & The Edge: A Sort of Homecoming, With Dave Letterman, which streamed on Disney+. The album debuted atop 11 charts in Europe, including in the United Kingdom where U2 achieved their first number-one album since 2009. The record debuted at number five in the United States and Canada.<br><br> |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Limited Edition (Orange Translucent, 180g) |
 | Label          | Island Records |
 | Catalog Number | 5503448 |

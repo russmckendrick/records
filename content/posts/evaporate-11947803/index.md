@@ -33,9 +33,12 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/evaporate/1343876649" >}}
+{{< applemusic url="https://music.apple.com/gb/album/evaporate/1343876649" >}}<br>
+
+
 ## Videos
 ### Midas Fall - Glue
 {{< youtube id="oZ_ArHLW43I" title="Midas Fall - Glue" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP |
 | Label          | Monotreme Records |
 | Catalog Number | MONO-130VNL |

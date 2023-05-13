@@ -62,9 +62,15 @@ styles: ["Folk Rock", "Country Rock"]
 
 Ever since 1998’s career-turning <i>Deserter’s Songs</i>, Mercury Rev have regularly applied their cosmic tendencies and broad imaginations to recasting Americana. Here, they focus on a lost gem of country-rock: The 1968 follow-up to her chart-topping US debut, <i>Ode to Billie Joe</i>, Bobbie Gentry’s <i>The Delta Sweete</i> was a relative misfire in commercial terms. Thirteen years and a handful of albums later, the singer-songwriter vanished into a reclusive existence, adding new mystique to the music she left behind.<br />
 Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered original songs and covers about Mississippi life that reupholster country with Baroque flourishes and twists of soul and blues. Longtime fans Mercury Rev stay true to that experimentation, recruiting a cast of guest vocalists including Lucinda Williams, Hope Sandoval, and Phoebe Bridgers to help bring new ideas and atmospheres to the songs. Opener “Okolona River Bottom Band” sets the tone, transformed from swamp-side R&B into orchestral pop simmering with strings, tension, and Norah Jones’ yearning voice. “Reunion” undergoes the most radical reboot, a scratchy and antsy portrait of family life reshaped into grand space-rock hooked round the original’s slither of tragedy (“I heard this morning they drug the Tallahatchie/And found poor Billie gone”). It exemplifies a tribute that cherishes the invention and storytelling of Gentry’s songs but never insults her pioneering spirit with simple retreads.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741" >}}<br>
+
+
 ## Videos
 ### Okolona River Bottom Band (Remastered 2020)
 {{< youtube id="pgt3aOY5Mqo" title="Okolona River Bottom Band (Remastered 2020)" >}}<br>
@@ -100,8 +106,6 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Delta_Sweete |
-| Wikipedia Summary | The Delta Sweete is the second studio album by American singer-songwriter Bobbie Gentry. It was released on February 5, 1968, by Capitol Records. The album was produced by Kelly Gordon. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Stereo (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 00600753904770 |

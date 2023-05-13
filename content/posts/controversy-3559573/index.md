@@ -44,9 +44,15 @@ Controversy is the fourth studio album by American recording artist Prince, rele
 Controversy reached number three on the Billboard R&B Albums chart and was certified Platinum by the Recording Industry Association of America (RIAA). It was voted the eighth best album of the year in the 1981 Pazz & Jop, an annual critics poll run by The Village Voice.This was the first of his albums to associate Prince with the color purple as well as the first to use sensational spelling in his song titles.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/controversy/214145071" >}}
+{{< applemusic url="https://music.apple.com/gb/album/controversy/214145071" >}}<br>
+
+
 ## Videos
 ### Controversy
 {{< youtube id="TzWM8pjAp44" title="Controversy" >}}<br>
@@ -65,8 +71,6 @@ Controversy reached number three on the Billboard R&B Albums chart and was certi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Controversy_(Prince_album) |
-| Apple Music Summary | Already infamous for his provocative lyrics, Prince continued to shock fans by bringing politics into the mix on 1981’s <i>Controversy</i>, unleashing some of pop’s funkiest protest jams. Powered by pulsating basslines and gleaming synth-pop riffs, tracks like “Controversy” and “Sexuality” are floor-filling anthems that cleverly question identity norms. Of course, no Prince album would be complete without a few lush ballads (“Do Me, Baby”) and raunchy rock jams (“Jack U Off”). <i>Controversy</i> is that perfect Prince combo of deep sensuality and social commentary. |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-6 |

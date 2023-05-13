@@ -40,7 +40,12 @@ Furnace Room Lullaby is the second studio album by Neko Case and Her Boyfriends,
 Said Case of the title track at a performance at Austin City Limits in 2003, "I wanted to write a murder ballad, simply because I was such a huge fan of the Louvin Brothers.  Not that this song is anywhere as good as a Louvin Brothers song, but I tried."
 Guest musicians on the album include Scott Betts, Brian Connelly, Bob Egan, Dallas Good and Travis Good, Kelly Hogan, Evan Johns, Kevin Kane, Don Kerr, Linda McRae, Darryl Neudorf, Carl Newman, Ford Pier, John Ramberg, Henri Sangalang, Ron Sexsmith and Joel Trueblood.
 The title track was included on the soundtrack to Sam Raimi's film The Gift.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Set Out Running
 {{< youtube id="HTPJq30ghBA" title="Set Out Running" >}}<br>
@@ -63,8 +68,6 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Furnace_Room_Lullaby |
-| Wikipedia Summary | Furnace Room Lullaby is the second studio album by Neko Case and Her Boyfriends, released in February 2000, on Mint Records.<br>Said Case of the title track at a performance at Austin City Limits in 2003, "I wanted to write a murder ballad, simply because I was such a huge fan of the Louvin Brothers.  Not that this song is anywhere as good as a Louvin Brothers song, but I tried."<br>Guest musicians on the album include Scott Betts, Brian Connelly, Bob Egan, Dallas Good and Travis Good, Kelly Hogan, Evan Johns, Kevin Kane, Don Kerr, Linda McRae, Darryl Neudorf, Carl Newman, Ford Pier, John Ramberg, Henri Sangalang, Ron Sexsmith and Joel Trueblood.<br>The title track was included on the soundtrack to Sam Raimi's film The Gift. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear w/ Red, Gatefold) |
 | Label          | Anti- |
 | Catalog Number | #86915-1 |

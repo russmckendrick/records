@@ -50,7 +50,10 @@ styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -59,7 +62,6 @@ styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Record Store Day (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1093 |

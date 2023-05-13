@@ -36,9 +36,12 @@ styles: ["Ska", "Rocksteady"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/skinhead-moonstomp-deluxe-edition/1141938969" >}}
+{{< applemusic url="https://music.apple.com/gb/album/skinhead-moonstomp-deluxe-edition/1141938969" >}}<br>
+
+
 ## Videos
 ### The Pyramids - Must Catch a Train (11.06.2022)
 {{< youtube id="Ub74H6vGXo4" title="The Pyramids - Must Catch a Train (11.06.2022)" >}}<br>
@@ -81,7 +84,6 @@ styles: ["Ska", "Rocksteady"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Numbered Reissue Mono (Smokey) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2529 |

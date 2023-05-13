@@ -41,9 +41,14 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}
+{{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}<br>
+
+
 ## Videos
 ### Split Enz - I Got You (1980)
 {{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
@@ -64,8 +69,6 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/True_Colours_(Split_Enz_album) |
-| Wikipedia Summary | True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts. |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Album Etched (Blue Cover) |
 | Label          | A&M Records |
 | Catalog Number | SP-4822 |

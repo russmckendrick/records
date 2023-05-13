@@ -59,9 +59,15 @@ styles: ["Gangsta"]
 
 Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records. A double album, it was released sixteen days after his murder. It features collaborations with guest artists such as 112, Jay-Z, Lil' Kim, Mase, Bone Thugs-n-Harmony, Too $hort, Angela Winbush, D.M.C. of Run-D.M.C., R. Kelly, The Lox, and Puff Daddy. Life After Death exhibits The Notorious B.I.G. further delving into the mafioso rap subgenre. The album is a sequel to his first album, Ready to Die, and picks up where the last song, "Suicidal Thoughts", ends.
 Life After Death sold 690,000 copies in its first week, soon reaching the No. 1 spot on the Billboard 200. It received widespread critical acclaim upon release and was nominated for Best Rap Album, Best Rap Solo Performance for its first single "Hypnotize", and Best Rap Performance by a Duo or Group for its second single "Mo Money Mo Problems" at the 40th Annual Grammy Awards. The album is widely considered to be one of the greatest hip hop albums of all time. In 2020, it was ranked at No. 179 on Rolling Stone magazine's list of the 500 Greatest Albums of All Time.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/life-after-death-2014-remaster/906888433" >}}
+{{< applemusic url="https://music.apple.com/gb/album/life-after-death-2014-remaster/906888433" >}}<br>
+
+
 ## Videos
 ### The Notorious B.I.G. - Sky's The Limit (Official Music Video)
 {{< youtube id="d3vOeCkeCNA" title="The Notorious B.I.G. - Sky's The Limit (Official Music Video)" >}}<br>
@@ -86,8 +92,6 @@ Life After Death sold 690,000 copies in its first week, soon reaching the No. 1 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Life_After_Death |
-| Apple Music Summary | How to top a debut that single-handedly reinvigorated East Coast gangsta rap? Pick up right where it left off, but make everything way bigger. Christopher Wallace’s sprawling second album ramps up the drama and the pop sheen: "Mo Money Mo Problems" turns a sparkling Diana Ross sample into a "triple beam lyrical dream", and the smooth, rolling "Hypnotize" is as spellbinding as its title promises. Still, Big never sacrificed any of the narrative grit—look no further than “Ten Crack Commandments” or his much-imitated, never-duplicated flow. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 3× 12" Album Reissue |
 | Label          | Bad Boy Entertainment |
 | Catalog Number | 8122796070 |

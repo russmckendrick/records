@@ -39,9 +39,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/london/1647622598" >}}
+{{< applemusic url="https://music.apple.com/gb/album/london/1647622598" >}}<br>
+
+
 
 
 ## Release Images
@@ -50,7 +53,6 @@ styles: ["Alternative Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Reissue (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC956 |

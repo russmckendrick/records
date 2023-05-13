@@ -37,9 +37,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-life-of-the-honey-bee-and-other-moments-of-clarity/1510099512" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-life-of-the-honey-bee-and-other-moments-of-clarity/1510099512" >}}<br>
+
+
 ## Videos
 ### Abel Ganz : One Small Soul
 {{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo (Orange) |
 | Label          | Abel Records (3) |
 | Catalog Number | ARAG001LP |

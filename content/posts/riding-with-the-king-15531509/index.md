@@ -50,9 +50,15 @@ styles: ["Blues Rock"]
 
 Riding with the King is a collaborative album by B.B. King and Eric Clapton that was released in 2000. It was their first collaborative album and won the 2001 Grammy Award for Best Traditional Blues Album. The album reached number one on Billboard's Top Blues Albums and was certified 2× Platinum in the United States. Riding with the King was also released on a DVD-Audio in higher resolution and with a 5.1 surround sound mix in 2000.
 The album was generally well received by reviewers, although some felt that it could have been better, and that the sound on the CD was too polished for a blues album.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/81873725" >}}
+{{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/81873725" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +68,6 @@ The album was generally well received by reviewers, although some felt that it c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Riding_with_the_King_(B.B._King_and_Eric_Clapton_album) |
-| Apple Music Summary | <i>Riding With the King</i> is the sound of two roosters scratching, crowing and strutting around the henhouse. King and Clapton whip up loads of crying guitar genius, like the licks they trade on “Three O’Clock Blues” and “When My Heart Beats Like a Hammer”. The pair also have a blast sharing the mic. King even gets his English protégé to unleash a Memphis growl in the midst of a soul-funk version of Sam & Dave’s “Hold On! I’m Comin’”. Slowhand never sounded so wild. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Blue, 180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 093624893417 |

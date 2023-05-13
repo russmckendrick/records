@@ -80,7 +80,10 @@ styles: ["Alternative Rock", "Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -89,7 +92,6 @@ styles: ["Alternative Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Box Set Compilation |
 | Label          | Fish People |
 | Catalog Number | 0190295593933 |

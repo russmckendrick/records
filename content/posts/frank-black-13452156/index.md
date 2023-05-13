@@ -48,9 +48,14 @@ styles: ["Indie Rock"]
 
 Frank Black is the debut solo album by American alternative rock musician Frank Black. The album was recorded in 1992 and released on March 8, 1993, via 4AD and Elektra Records, after the breakup of Black's band Pixies.
 The album is similar in style, both musically and lyrically, to the Pixies' last album prior to their 1993 breakup, Trompe le Monde. Frank Black is characterized by a focus on UFOs and science fiction. Two singles from the album—"Los Angeles" and "Hang On to Your Ego"—were released in 1993; both reached the top ten of Billboard's Modern Rock Tracks chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bonnie-clyde-original-broadway-cast-recording/1664559020" >}}
+{{< applemusic url="https://music.apple.com/gb/album/bonnie-clyde-original-broadway-cast-recording/1664559020" >}}<br>
+
+
 ## Videos
 ### Frank Black.- Los Angeles (Official Video 1993)
 {{< youtube id="fuLllNyfiHs" title="Frank Black.- Los Angeles (Official Video 1993)" >}}<br>
@@ -78,8 +83,6 @@ The album is similar in style, both musically and lyrically, to the Pixies' last
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frank_Black_(album) |
-| Wikipedia Summary | Frank Black is the debut solo album by American alternative rock musician Frank Black. The album was recorded in 1992 and released on March 8, 1993, via 4AD and Elektra Records, after the breakup of Black's band Pixies.<br>The album is similar in style, both musically and lyrically, to the Pixies' last album prior to their 1993 breakup, Trompe le Monde. Frank Black is characterized by a focus on UFOs and science fiction. Two singles from the album—"Los Angeles" and "Hang On to Your Ego"—were released in 1993; both reached the top ten of Billboard's Modern Rock Tracks chart. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Reissue (Orange) |
 | Label          | 4AD |
 | Catalog Number | CAD 3004 LPE |

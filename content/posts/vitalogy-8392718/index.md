@@ -59,9 +59,15 @@ styles: ["Grunge", "Rock & Roll"]
 
 Written largely during sound checks while Pearl Jam toured behind 1993’s <i>Vs.</i>, <i>Vitalogy</i> is, above all else, the band’s first record with Eddie Vedder at the wheel. When he’d joined the Seattle outfit a few years earlier—a surfer from San Diego who’d auditioned long-distance via cassette tape—Vedder hadn’t expected to become a celebrity or the face of a supposed cultural revolution. <i>Vitalogy</i> (which was originally titled <i>Life</i>) finds him responding to the pressures of mainstream success by asserting control over the one thing he could: music.<br />
 When Stone Gossard, the band’s chief songwriter up to that point, presented him with a characteristically midtempo demo—lead single “Spin the Black Circle”, an ode to vinyl that couldn’t have been less en vogue in 1994—Vedder returned it a day later at twice the speed. That tension can be felt throughout <i>Vitalogy</i>. From wilfully difficult experiments (never forget “Stupid Mop”, an eight-minute outro of improvised noise and the voices of psychiatric hospital patients he'd recorded from TV as a teenager) to white-knuckle triumphs like “Corduroy” and “Not for You”, Vedder's contributions formed a clear line in the sand: This is how things are gonna go from here on out, and with any luck, not everybody's gonna like it. Even “Better Man”—a song Vedder wrote in the '80s that had been left off of <i>Vs.</i>—came very close to being left out again because it was simply too palatable. Though the album would top the charts upon its release—exclusively on vinyl for the first two weeks—<i>Vitalogy</i> marked Pearl Jam's first real turn inward. But by insisting they retreat at the height of their fame, Vedder ensured that they'd never be crushed by it—a gambit that's still paying off decades later.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vitalogy-expanded-edition/426356461" >}}
+{{< applemusic url="https://music.apple.com/gb/album/vitalogy-expanded-edition/426356461" >}}<br>
+
+
 ## Videos
 ### Immortality (Remastered)
 {{< youtube id="pw4VEW3StIw" title="Immortality (Remastered)" >}}<br>
@@ -78,8 +84,6 @@ When Stone Gossard, the band’s chief songwriter up to that point, presented hi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vitalogy |
-| Wikipedia Summary | Vitalogy is the third studio album by American rock band Pearl Jam, released on November 22, 1994, on Epic Records. Pearl Jam wrote and recorded Vitalogy while touring behind its previous album Vs. (1993). The music on the record is more diverse than previous releases, and consisted of aggressive rock songs, ballads, and other stylistic elements, making it Pearl Jam's most experimental album at that period. Considered a departure from the grunge sound of the band's first two albums, the record focuses more on punk rock and hardcore styles in its production.The album was first released on vinyl, followed by a release on CD and cassette two weeks later on December 6, 1994. The LP sold 34,000 copies in its first week of release, and until Jack White's 2014 album Lazaretto it held the record for most vinyl sales in one week since SoundScan began tracking sales in 1991. Upon its CD release, Vitalogy became the second-fastest selling album in history, behind only the band's previous release Vs., selling 877,000 copies in its first week and quickly going multi-platinum. The album received critical acclaim from critics and has been certified 6x platinum by the RIAA in the United States. The album was included on Rolling Stone's 2003 and 2012 500 Greatest Albums of All Time lists at number 485, but was dropped from the 2020 edition. It is Pearl Jam's second and last album to feature drummer Dave Abbruzzese, who was fired from the band before recording was finished. He was initially replaced by session drummers and later officially replaced by former Red Hot Chili Peppers' drummer Jack Irons, who completed the recording of the album.<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Remastered Reissue (180 Gram, Gold Foil Stamp) |
 | Label          | Epic |
 | Catalog Number | 88697843111 |

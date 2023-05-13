@@ -42,9 +42,14 @@ styles: ["Punk", "Ska"]
 <!-- section break -->
 
 The Interrupters are an American ska punk band formed in Los Angeles, California, in 2011. The band comprises lead vocalist Aimee Interrupter, drummer Jesse Bivona, bassist Justin Bivona, and guitarist Kevin Bivona. They have released four studio albums. The latest, In the Wild, was released in 2022, along with the album's lead single, "Raised by Wolves".
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-interrupters-deluxe-edition/1485060236" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-interrupters-deluxe-edition/1485060236" >}}<br>
+
+
 ## Videos
 ### The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**
 {{< youtube id="gg8HvYqMo7M" title="The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**" >}}<br>
@@ -60,8 +65,6 @@ The Interrupters are an American ska punk band formed in Los Angeles, California
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Interrupters_(band) |
-| Wikipedia Summary | The Interrupters are an American ska punk band formed in Los Angeles, California, in 2011. The band comprises lead vocalist Aimee Interrupter, drummer Jesse Bivona, bassist Justin Bivona, and guitarist Kevin Bivona. They have released four studio albums. The latest, In the Wild, was released in 2022, along with the album's lead single, "Raised by Wolves". |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Repress |
 | Label          | Hellcat Records |
 | Catalog Number | 0530-1 |

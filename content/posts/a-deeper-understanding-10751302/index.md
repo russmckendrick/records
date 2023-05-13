@@ -51,9 +51,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 <!-- section break -->
 
 After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a step further. Marrying the weathered hope of Dylan, Springsteen, and Petty with a studio rat’s sense of detail, <i>A Deeper Understanding</i> feels like an album designed to get lost in, where lush textures meet plainspoken questions about life, loss, and hope, and where songs stretch out as though they're chasing answers. For as much as Granduciel says in words, it’s his music that speaks loudest, from the synth-strobing heartland rock of “Holding On” and “Nothing to Find” to ballads like “Clean Living” and “Knocked Down,” whose spaces are as expansive as any sound.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-deeper-understanding/1242366660" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-deeper-understanding/1242366660" >}}<br>
+
+
 ## Videos
 ### The War on Drugs - Pain [Official Video]
 {{< youtube id="J9LgHNf2Qy0" title="The War on Drugs - Pain [Official Video]" >}}<br>
@@ -70,8 +76,6 @@ After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Deeper_Understanding |
-| Wikipedia Summary | A Deeper Understanding is the fourth studio album by American indie rock band The War on Drugs. It was released on August 25, 2017, through Atlantic Records.  The album was mixed by engineer Shawn Everett. The album won Best Rock Album at the 60th Annual Grammy Awards. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Atlantic |
 | Catalog Number | 7567-86606-2 |

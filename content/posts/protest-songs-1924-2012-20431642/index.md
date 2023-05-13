@@ -51,9 +51,12 @@ styles: ["Ska"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/protest-songs-1924-2012/1575774360" >}}
+{{< applemusic url="https://music.apple.com/gb/album/protest-songs-1924-2012/1575774360" >}}<br>
+
+
 ## Videos
 ### The Specials - Freedom Highway
 {{< youtube id="wfSTXDOURFI" title="The Specials - Freedom Highway" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album (180g) |
 | Label          | Island Records |
 | Catalog Number | 3840701 |

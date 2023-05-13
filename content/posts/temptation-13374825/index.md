@@ -29,9 +29,12 @@ styles: ["Indie Rock", "New Wave", "Post-Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/temptation-2019-remaster-single/1457719992" >}}
+{{< applemusic url="https://music.apple.com/gb/album/temptation-2019-remaster-single/1457719992" >}}<br>
+
+
 ## Videos
 ### New Order - Temptation (Official Music Video) [HD Upgrade]
 {{< youtube id="xxDv_RTdLQo" title="New Order - Temptation (Official Music Video) [HD Upgrade]" >}}<br>
@@ -43,7 +46,6 @@ styles: ["Indie Rock", "New Wave", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered (180g) |
 | Label          | Factory |
 | Catalog Number | fac 63 |

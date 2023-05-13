@@ -52,9 +52,15 @@ Kid A debuted at the top of the UK Albums Chart and became Radiohead's first num
 A second album of material from the sessions, Amnesiac, was released eight months later. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kid-a/1097862870" >}}
+{{< applemusic url="https://music.apple.com/gb/album/kid-a/1097862870" >}}<br>
+
+
 ## Videos
 ### Everything In Its Right Place
 {{< youtube id="NUnXxh5U25Y" title="Everything In Its Right Place" >}}<br>
@@ -78,8 +84,6 @@ A second album of material from the sessions, Amnesiac, was released eight month
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kid_A |
-| Apple Music Summary | The band that pushed rock’s boundaries vault clear of them on a stunning reinvention. Texture and agitated beats are prioritized over hooks, while guitars recede to accommodate electronica on a remarkable album. Orchestral ballad “How to Disappear Completely” and the rattling guitars of “Optimistic” are bridges back to <i>OK Computer</i>, but <i>Kid A</i> eludes classification by absorbing ambient techno, classical and jazz as it voices millennial paranoia (“Idioteque”), alienation (“The National Anthem”), and separation (“Morning Bell”). Initially icy and challenging, the album rewards repeated listens as its fractured parts melt into mantric rhythms and slow-surfacing melodies. |
-    | Release Year   | 2000                                   |
 | Format         | Vinyl 2× 10" 33 ⅓ RPM Album |
 | Label          | Parlophone |
 | Catalog Number | 7243 5 27753 1 6 |

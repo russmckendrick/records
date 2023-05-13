@@ -42,9 +42,14 @@ styles: ["Alternative Rock", "Britpop", "Glam"]
 
 See You in the Next Life... is a fan-club release album by the English alternative rock band Suede, released in 2004.The album was limited to 2,000 copies and is mostly demos and remixes of previously released songs. "Elaine Paige" is an alternate version of "Another No One", a B-side on the "Trash" CD2 single. "La Puissance" is a live version of "The Power" (from Suede's Dog Man Star album) sung in French.
 On 29 August 2020, the band and Demon Records released a red vinyl edition for Record Store Day, marking the first edition in this format.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/see-you-in-the-next-life/1485580531" >}}
+{{< applemusic url="https://music.apple.com/gb/album/see-you-in-the-next-life/1485580531" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,8 +59,6 @@ On 29 August 2020, the band and Demon Records released a red vinyl edition for R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/See_You_in_the_Next_Life... |
-| Wikipedia Summary | See You in the Next Life... is a fan-club release album by the English alternative rock band Suede, released in 2004.The album was limited to 2,000 copies and is mostly demos and remixes of previously released songs. "Elaine Paige" is an alternate version of "Another No One", a B-side on the "Trash" CD2 single. "La Puissance" is a live version of "The Power" (from Suede's Dog Man Star album) sung in French.<br>On 29 August 2020, the band and Demon Records released a red vinyl edition for Record Store Day, marking the first edition in this format. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Reissue (180g) |
 | Label          | Demon Records |
 | Catalog Number | demrec871 |

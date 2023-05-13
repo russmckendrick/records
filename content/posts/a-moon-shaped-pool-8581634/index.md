@@ -56,9 +56,15 @@ Radiohead promoted A Moon Shaped Pool with singles and videos for "Burn the Witc
 A Moon Shaped Pool was named one of the best albums of the year and decade by many publications. It was the fifth Radiohead album nominated for the Mercury Prize, and was nominated for Best Alternative Music Album and Best Rock Song (for "Burn the Witch") at the 59th Annual Grammy Awards. It topped the charts in several countries, becoming Radiohead's sixth number one on the UK Album Charts, and was a bestseller on vinyl. It is certified gold in the UK, US, Canada, Australia, France and Italy.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-moon-shaped-pool/1111577743" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-moon-shaped-pool/1111577743" >}}<br>
+
+
 ## Videos
 ### Radiohead - Burn The Witch
 {{< youtube id="yI2oS2hoL0k" title="Radiohead - Burn The Witch" >}}<br>
@@ -82,8 +88,6 @@ A Moon Shaped Pool was named one of the best albums of the year and decade by ma
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Moon_Shaped_Pool |
-| Apple Music Summary | Radiohead’s ninth album is a haunting collection of shapeshifting rock, dystopian lullabies, and vast spectral beauty. Though you’ll hear echoes of their previous work—the remote churn of “Daydreaming,” the feverish ascent and spidery guitar of “Ful Stop,” Jonny Greenwood’s terrifying string flourishes—<i>A Moon Shaped Pool</i> is both familiar and wonderfully elusive, much like its unforgettable closer. A live favorite since the mid-‘90s, “True Love Waits” has been re-imagined in the studio as a weightless, piano-driven meditation that grows more exquisite as it gently floats away. |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Optimal Media Pressing, White Opaque) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP790X |

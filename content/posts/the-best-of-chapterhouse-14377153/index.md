@@ -39,9 +39,12 @@ styles: ["Indie Rock", "Shoegaze"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852" >}}<br>
+
+
 ## Videos
 ### There's Still Life
 {{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple & Pink Marble) |
 | Label          | Sony Music |
 | Catalog Number | MOVLP2568 |

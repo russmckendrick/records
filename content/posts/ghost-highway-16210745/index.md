@@ -41,9 +41,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ghost-highway/988896855" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ghost-highway/988896855" >}}<br>
+
+
 ## Videos
 ### Mazzy Star - Fade Into You (Official Music Video)
 {{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You (Official Music Video)" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Remastered (Purple) |
 | Label          | Easy Action |
 | Catalog Number | EARS152LP |

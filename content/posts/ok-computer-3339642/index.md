@@ -60,9 +60,15 @@ Despite lowered sales estimates by EMI, who deemed the record uncommercial and d
 OK Computer received acclaim and has been cited as one of the greatest albums of all time. It was nominated for the Album of the Year and won Best Alternative Music Album at the 1998 Grammy Awards. It was also nominated for Best British Album at the 1998 Brit Awards. The album initiated a stylistic shift in British rock away from Britpop toward melancholic, atmospheric alternative rock that became more prevalent in the next decade. In 2014, it was included by the United States Library of Congress in the National Recording Registry as "culturally, historically, or aesthetically significant". A remastered version with additional tracks, OKNOTOK 1997 2017, was released in 2017, marking the album's twentieth anniversary. In 2019, in response to an internet leak, Radiohead released MiniDiscs [Hacked], comprising hours of additional material.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ok-computer/1097861387" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ok-computer/1097861387" >}}<br>
+
+
 ## Videos
 ### Radiohead - Karma Police
 {{< youtube id="1uYWYWPc9HU" title="Radiohead - Karma Police" >}}<br>
@@ -90,8 +96,6 @@ OK Computer received acclaim and has been cited as one of the greatest albums of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/OK_Computer |
-| Apple Music Summary | The greatest album of all time? Plenty of polls suggest that, with Radiohead’s third set of songs frequently vying for that almighty accolade. There is, underneath the blanket praise, music too; a perfect (1997) statement of pre-millennial angst that sees the singer Thom Yorke being awkward about everything, from trains to politics. "Karma Police" is the band’s last great catchy pop tune, but it’s lesser known tracks like "Let Down" that still offer the surprises. So pretty, so sad, so Radiohead.  |
-    | Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Reissue Repress (180 Gram, Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 7243 8 55229 1 8 |

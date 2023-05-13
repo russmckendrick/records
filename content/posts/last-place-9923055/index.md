@@ -41,9 +41,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/last-place/1435528003" >}}
+{{< applemusic url="https://music.apple.com/gb/album/last-place/1435528003" >}}<br>
+
+
 ## Videos
 ### Grandaddy - Way We Won't
 {{< youtube id="QUEiXOxFfec" title="Grandaddy - Way We Won't" >}}<br>
@@ -66,7 +69,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Translucent Blue) |
 | Label          | 30th Century Records |
 | Catalog Number | 88985 39875 1 |

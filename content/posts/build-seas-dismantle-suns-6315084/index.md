@@ -36,9 +36,12 @@ styles: ["Post Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/build-seas-dismantle-suns-eps/930867694" >}}
+{{< applemusic url="https://music.apple.com/gb/album/build-seas-dismantle-suns-eps/930867694" >}}<br>
+
+
 ## Videos
 ### Nordic Giants ± Mechanical Minds ± Dismantle Suns EP
 {{< youtube id="TxeBiUnKOEM" title="Nordic Giants ± Mechanical Minds ± Dismantle Suns EP" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE869 |

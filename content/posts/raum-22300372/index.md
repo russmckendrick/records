@@ -43,9 +43,12 @@ styles: ["Berlin-School"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/raum/1599337918" >}}
+{{< applemusic url="https://music.apple.com/gb/album/raum/1599337918" >}}<br>
+
+
 ## Videos
 ### Continuum
 {{< youtube id="V4FmQ2an8ww" title="Continuum" >}}<br>
@@ -64,7 +67,6 @@ styles: ["Berlin-School"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1019 |

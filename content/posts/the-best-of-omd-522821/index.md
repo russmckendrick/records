@@ -43,9 +43,12 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}<br>
+
+
 ## Videos
 ### Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)
 {{< youtube id="BAnOXcp6h8Y" title="Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl LP Album Compilation (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | OMD 1 |

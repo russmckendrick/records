@@ -54,9 +54,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/marbles/1328777975" >}}
+{{< applemusic url="https://music.apple.com/gb/album/marbles/1328777975" >}}<br>
+
+
 ## Videos
 ### Marbles Iii
 {{< youtube id="_rfBi07AvKI" title="Marbles Iii" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Reissue, Box Set Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1086 |

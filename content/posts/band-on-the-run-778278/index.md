@@ -44,9 +44,15 @@ The album was mostly recorded at EMI's studio in Lagos, Nigeria, as McCartney wa
 In 2000, Q magazine placed Band on the Run at number 75 in its list of the "100 Greatest British Albums Ever". In 2012, it was listed at 418 on Rolling Stone's revised list of "the 500 Greatest Albums of All Time". A contemporary review by Jon Landau in Rolling Stone described the album as being "with the possible exception of John Lennon's Plastic Ono Band, the finest record yet released by any of the four musicians who were once called the Beatles". It was McCartney's last album issued on the Apple record label. In 2013, Band on the Run was inducted into the Grammy Hall of Fame.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/band-on-the-run-2010-remaster/1443413822" >}}
+{{< applemusic url="https://music.apple.com/gb/album/band-on-the-run-2010-remaster/1443413822" >}}<br>
+
+
 ## Videos
 ### Mrs. Vandebilt (Remastered 2010)
 {{< youtube id="aIh6UdXTBFs" title="Mrs. Vandebilt (Remastered 2010)" >}}<br>
@@ -69,8 +75,6 @@ In 2000, Q magazine placed Band on the Run at number 75 in its list of the "100 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Band_on_the_Run |
-| Apple Music Summary | Recorded under less than ideal circumstances in Lagos, Nigeria after two key members quit, <i>Band on the Run</i> was Wings' make-or-break moment. The rough-and-ready studio sound adds some welcome grit on rockers like "Jet" and the affectionate John Lennon tribute "Let Me Roll It." Elsewhere, the title track is one of McCartney's most soaring multi-part pop masterpieces, and "Bluebird" is a tender acoustic love song. Quirkier material, like the playful "Mrs. Vandebilt" and "Picasso's Last Words (Drink To Me)," adds even more depth. |
-    | Release Year   | 1973                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Apple Records |
 | Catalog Number | PAS 10007 |

@@ -38,9 +38,14 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 <!-- section break -->
 
 Digital Garbage is the tenth studio album by American rock band Mudhoney. It was released on September 19, 2018. This is their seventh studio album release on Sub Pop.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/digital-garbage/1399701869" >}}
+{{< applemusic url="https://music.apple.com/gb/album/digital-garbage/1399701869" >}}<br>
+
+
 ## Videos
 ### Mudhoney - Paranoid Core
 {{< youtube id="AtnzoY2RVoA" title="Mudhoney - Paranoid Core" >}}<br>
@@ -55,8 +60,6 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Digital_Garbage |
-| Wikipedia Summary | Digital Garbage is the tenth studio album by American rock band Mudhoney. It was released on September 19, 2018. This is their seventh studio album release on Sub Pop. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (Blue Opaque) |
 | Label          | Sub Pop |
 | Catalog Number | SP1225 |

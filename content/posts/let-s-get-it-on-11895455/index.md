@@ -35,9 +35,12 @@ styles: ["Funk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lets-get-it-on-remastered/1442835298" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lets-get-it-on-remastered/1442835298" >}}<br>
+
+
 ## Videos
 ### Let's Get It On
 {{< youtube id="FnzUKC2tdjA" title="Let's Get It On" >}}<br>
@@ -49,7 +52,6 @@ styles: ["Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Gatefold, Red) |
 | Label          | Tamla |
 | Catalog Number | 00600753801918 |

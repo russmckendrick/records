@@ -51,9 +51,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/on-earth-as-it-is-the-complete-works/1440887833" >}}
+{{< applemusic url="https://music.apple.com/gb/album/on-earth-as-it-is-the-complete-works/1440887833" >}}<br>
+
+
 ## Videos
 ### Mother Love Bone - Stargazer
 {{< youtube id="p9n9gW1wCks" title="Mother Love Bone - Stargazer" >}}<br>
@@ -68,7 +71,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 12" EP Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Box Set Compilation |
 | Label          | Monkeywrench Records |
 | Catalog Number | B0025317-01 |

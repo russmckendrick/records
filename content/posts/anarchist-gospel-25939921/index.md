@@ -43,9 +43,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/anarchist-gospel/1645020451" >}}
+{{< applemusic url="https://music.apple.com/gb/album/anarchist-gospel/1645020451" >}}<br>
+
+
 ## Videos
 ### Sunny War - Higher (feat. David Rawlings) [Official Audio]
 {{< youtube id="8hnaMoHzx7o" title="Sunny War - Higher (feat. David Rawlings) [Official Audio]" >}}<br>
@@ -67,7 +70,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album (Red, Black & White Hand-poured) |
 | Label          | New West Records |
 | Catalog Number | NW5702 |

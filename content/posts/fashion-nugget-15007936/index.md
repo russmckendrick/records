@@ -50,9 +50,14 @@ Fashion Nugget is the second studio album by alternative rock band Cake. It was 
 The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fashion-nugget/1632472281" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fashion-nugget/1632472281" >}}<br>
+
+
 ## Videos
 ### Cake-Frank Sinatra from Fashion Nugget
 {{< youtube id="aAkWJmoL8KQ" title="Cake-Frank Sinatra from Fashion Nugget" >}}<br>
@@ -85,8 +90,6 @@ The album was recorded at Paradise Studios in Sacramento, California.On December
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fashion_Nugget |
-| Wikipedia Summary | Fashion Nugget is the second studio album by alternative rock band Cake. It was released in 1996, and contains 14 songs. "The Distance" and "I Will Survive" became the most successful singles on the record, with the prior peaking at number 22 in the UK and at number 4 on the US Alternative Airplay Chart.<br>The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.<br><br> |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Unofficial Release (Yellow) |
 | Label          | Not On Label (Cake) |
 | Catalog Number | 28671 |

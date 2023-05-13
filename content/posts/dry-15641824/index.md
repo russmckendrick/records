@@ -43,9 +43,15 @@ styles: ["Indie Rock"]
 Dry is the debut studio album by the band PJ Harvey, fronted by English singer-songwriter and musician PJ Harvey, released on Too Pure Records on 30 March 1992. The album was recorded at The Icehouse, a local studio in Yeovil, United Kingdom. The first 5000 LPs and first 1000 CDs included demo versions of the album's tracks and Dry was subsequently released in the United States on Indigo Records in the US. Both versions were released in 1992. Dry was reissued on vinyl and CD in July 2020: an 11-track companion album collecting all of the demos titled Dry - Demos was also released on vinyl as a stand-alone record.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dry/1450131752" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dry/1450131752" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - Dress
 {{< youtube id="ah9NdBKkEQY" title="PJ Harvey - Dress" >}}<br>
@@ -60,8 +66,6 @@ Dry is the debut studio album by the band PJ Harvey, fronted by English singer-s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dry_(album) |
-| Apple Music Summary | As a female songwriter addressing gender politics in the early ’90s, Polly Harvey drew comparisons to the Riot Grrrl movement. If this 1992 debut suggests any of her contemporaries though, it’s Nirvana with its bruising riffs, pop hooks and vocals that mine an impassioned yet vulnerable soul. Otherwise, this concoction of sensuality and spikiness seeded into blues, folk and post-punk is remarkably singular. “Dress and “Sheela-Na-Gig” are exhilarating in melody and power, while “Plants and Rags” proves that even ballads can have thrillingly sharp edges. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Metropolis Studios Cut) |
 | Label          | Too Pure |
 | Catalog Number | PURE 10 LP |

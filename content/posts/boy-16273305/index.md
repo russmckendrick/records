@@ -50,9 +50,15 @@ Boy is the debut studio album by Irish rock band U2. It was produced by Steve Li
 Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, which became U2's chosen recording location during the 1980s. It was their first time working with Lillywhite, who employed non-standard production techniques, such as recording drummer Larry Mullen Jr. playing in a stairwell, and recording smashed bottles and cutlery skimmed against a spinning bicycle wheel. The band found Lillywhite to be very encouraging and creative, and he subsequently became a frequent producer of their recorded work. Thematically, the album's lyrics reflect on adolescence, innocence, and the passage into adulthood, themes represented on its cover artwork through the photo of a young boy's face.Boy received generally positive reviews and included one of U2's first singles to receive airplay on US radio, "I Will Follow". The release was followed by the band's first tour of continental Europe and the US, the Boy Tour. The album peaked on the UK chart at number 52 in August 1981 and in the US at number 63. In 2003, Boy was ranked 417th on Rolling Stone's list of "The 500 Greatest Albums of All Time". In 2008, a remastered edition of the record was released.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boy-deluxe-edition/1440793935" >}}
+{{< applemusic url="https://music.apple.com/gb/album/boy-deluxe-edition/1440793935" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +68,6 @@ Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boy_(album) |
-| Apple Music Summary | U2’s 1980 debut album announced a band with a distinctive sonic tone and major ambitions. Guitarist Dave “The Edge” Evans had his basic chiming attack in place, the rhythm section of bassist Adam Clayton and drummer Larry Mullen, Jr. was capable of tense, propulsive motion, and singer Paul “Bono” Hewson knew how to scale the castle walls, mountainside, and whatever romantic terrain he needed to in order to reach the soulful aspirations of youth. And producer Steve Lillywhite ensured the band’s vision got to tape. “I Will Follow” was an immediate anthem, but the tight frisson of “An Cat Dubh”, the driving attack that alternates with moments of pastoral reflection in “Out of Control”, and the carefully placed dramatic guitar notes that chase “Stories for Boys“ make this a more than impressive debut. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (White, 40th Anniversary Edition) |
 | Label          | Island Records |
 | Catalog Number | 0749627 |

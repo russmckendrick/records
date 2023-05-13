@@ -61,9 +61,12 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/remixes/1545401738" >}}
+{{< applemusic url="https://music.apple.com/gb/album/remixes/1545401738" >}}<br>
+
+
 ## Videos
 ### KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)
 {{< youtube id="6lk0x2ZA1nU" title="KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 3× LP Compilation Stereo (180g) |
 | Label          | Kling Klang |
 | Catalog Number | 0190296504761 |

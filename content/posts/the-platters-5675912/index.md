@@ -36,9 +36,14 @@ styles: ["Rhythm & Blues"]
 <!-- section break -->
 
 The Platters are an American vocal group formed in 1952. They are one of the most successful vocal groups of the early rock and roll era. Their distinctive sound bridges the pre-rock Tin Pan Alley tradition and the new burgeoning genre. The act has gone through multiple line-ups over the years, earning it the branding tag "Many Voices One Name", with the most successful incarnation comprising lead tenor Tony Williams, David Lynch, Paul Robi, founder and naming member Herb Reed, and Zola Taylor. The group had 40 charting singles on the  Billboard Hot 100 between 1955 and 1967, including four number-one hits.  In 1990, the Platters were inducted into the Rock and Roll Hall of Fame. The Platters continue to perform around the world with Herb Reed Enterprises (an LLC set up by Reed in response to numerous fake Platters groups) owning the rights and trademark to the name.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-platters/1440912576" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-platters/1440912576" >}}<br>
+
+
 ## Videos
 ### The Platters - Bewitched
 {{< youtube id="T_zX6hPH84o" title="The Platters - Bewitched" >}}<br>
@@ -56,8 +61,6 @@ The Platters are an American vocal group formed in 1952. They are one of the mos
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Platters |
-| Wikipedia Summary | The Platters are an American vocal group formed in 1952. They are one of the most successful vocal groups of the early rock and roll era. Their distinctive sound bridges the pre-rock Tin Pan Alley tradition and the new burgeoning genre. The act has gone through multiple line-ups over the years, earning it the branding tag "Many Voices One Name", with the most successful incarnation comprising lead tenor Tony Williams, David Lynch, Paul Robi, founder and naming member Herb Reed, and Zola Taylor. The group had 40 charting singles on the  Billboard Hot 100 between 1955 and 1967, including four number-one hits.  In 1990, the Platters were inducted into the Rock and Roll Hall of Fame. The Platters continue to perform around the world with Herb Reed Enterprises (an LLC set up by Reed in response to numerous fake Platters groups) owning the rights and trademark to the name. |
-| Release Year   | 1956                                   |
 | Format         | Vinyl LP |
 | Label          | Mercury |
 | Catalog Number | MPL 6504 |

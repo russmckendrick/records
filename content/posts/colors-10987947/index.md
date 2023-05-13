@@ -45,9 +45,14 @@ styles: ["Dance-pop", "New Wave"]
 Colors is the thirteenth studio album by American musician Beck, released on October 13, 2017, by Fonograf Records &  Capitol Records. The album was recorded between 2013 and 2017, with Beck producing alongside Greg Kurstin. The album's earliest single, "Dreams", was released in June 2015, while three more singles ("Wow", "Dear Life" in Italy and "Up All Night" in the US) were released between June 2016 and September 2017. The title track was also released as a single in April 2018. The album won the Best Alternative Music Album and Best Engineered Album, Non-Classical at the 61st Annual Grammy Awards.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/colors/1440881121" >}}
+{{< applemusic url="https://music.apple.com/gb/album/colors/1440881121" >}}<br>
+
+
 
 
 ## Release Images
@@ -57,8 +62,6 @@ Colors is the thirteenth studio album by American musician Beck, released on Oct
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Colors_(Beck_album) |
-| Wikipedia Summary | Colors is the thirteenth studio album by American musician Beck, released on October 13, 2017, by Fonograf Records &  Capitol Records. The album was recorded between 2013 and 2017, with Beck producing alongside Greg Kurstin. The album's earliest single, "Dreams", was released in June 2015, while three more singles ("Wow", "Dear Life" in Italy and "Up All Night" in the US) were released between June 2016 and September 2017. The title track was also released as a single in April 2018. The album won the Best Alternative Music Album and Best Engineered Album, Non-Classical at the 61st Annual Grammy Awards.<br><br> |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Red) |
 | Label          | Fonograf Records |
 | Catalog Number | 00602557176803 |

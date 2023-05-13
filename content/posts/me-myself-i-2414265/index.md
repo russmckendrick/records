@@ -42,9 +42,14 @@ styles: ["Pop Rock"]
 
 Me Myself I is the sixth studio album by British recording artist Joan Armatrading. Released in May 1980, the album was Armatrading's highest ever chart placing both in the UK (number 5) and in the US (number 28).  In Australia, the album peaked at number 13. It was certified "Gold" in the UK by the BPI in July 1980.
 The title track became one of her most successful singles, peaking at number 21 over an 11-week stay in the UK Singles Chart. It was also used in the soundtrack of an Australian movie of the same title made in 1999. "All the Way From America" was a minor hit, peaking at number 54 in the UK chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/me-myself-i/1443914431" >}}
+{{< applemusic url="https://music.apple.com/gb/album/me-myself-i/1443914431" >}}<br>
+
+
 ## Videos
 ### Ma Me O Beach
 {{< youtube id="K-tf2qFtNFU" title="Ma Me O Beach" >}}<br>
@@ -68,8 +73,6 @@ The title track became one of her most successful singles, peaking at number 21 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Me_Myself_I |
-| Wikipedia Summary | Me Myself I is the sixth studio album by British recording artist Joan Armatrading. Released in May 1980, the album was Armatrading's highest ever chart placing both in the UK (number 5) and in the US (number 28).  In Australia, the album peaked at number 13. It was certified "Gold" in the UK by the BPI in July 1980.<br>The title track became one of her most successful singles, peaking at number 21 over an 11-week stay in the UK Singles Chart. It was also used in the soundtrack of an Australian movie of the same title made in 1999. "All the Way From America" was a minor hit, peaking at number 54 in the UK chart. |
-| Release Year   | 1980                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64809 |

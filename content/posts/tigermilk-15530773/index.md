@@ -38,9 +38,12 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tigermilk/1669026397" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tigermilk/1669026397" >}}<br>
+
+
 ## Videos
 ### The State That I Am In - Belle & Sebastian
 {{< youtube id="soMbZ7eLKlM" title="The State That I Am In - Belle & Sebastian" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Baby Blue) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP007CLR |

@@ -45,9 +45,12 @@ styles: ["Reggae", "Dub"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radiodread/165821778" >}}
+{{< applemusic url="https://music.apple.com/gb/album/radiodread/165821778" >}}<br>
+
+
 ## Videos
 ### Easy Star All Stars - Radiodread (Album Full)
 {{< youtube id="wKIvYmlOS_o" title="Easy Star All Stars - Radiodread (Album Full)" >}}<br>
@@ -73,7 +76,6 @@ styles: ["Reggae", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Repress (Transparent gold & solid army green ) |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1055V |

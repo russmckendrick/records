@@ -46,9 +46,15 @@ styles: ["Indie Rock"]
 <!-- section break -->
 
 Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless,” where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/masseduction/1440947061" >}}
+{{< applemusic url="https://music.apple.com/gb/album/masseduction/1440947061" >}}<br>
+
+
 ## Videos
 ### St. Vincent - Hang On Me (Official Audio)
 {{< youtube id="F9WjhPy02gU" title="St. Vincent - Hang On Me (Official Audio)" >}}<br>
@@ -66,8 +72,6 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Masseduction |
-| Wikipedia Summary | Masseduction is the fifth studio album by American musician St. Vincent, released on October 13, 2017, through Loma Vista Recordings. The album peaked at number 10 on the Billboard 200, becoming her first top ten album in the United States. The album also received universal acclaim and was the fourth-most mentioned in critics' year-end lists for 2017. At the 61st Annual Grammy Awards, Masseduction won the award for Best Recording Package and Best Rock Song for its title track, and was also nominated for the Best Alternative Music Album. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition (Pink) |
 | Label          | Loma Vista |
 | Catalog Number | LVR00225 |

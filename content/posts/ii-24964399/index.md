@@ -33,9 +33,12 @@ styles: ["Hardcore", "Heavy Metal"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ii/1630352567" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ii/1630352567" >}}<br>
+
+
 ## Videos
 ### Love Without Love
 {{< youtube id="GCPpZpRdjmw" title="Love Without Love" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Hardcore", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Glass Coffin Vinyl) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC248LP |

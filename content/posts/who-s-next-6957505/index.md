@@ -37,10 +37,18 @@ styles: ["Hard Rock", "Mod"]
 
 <!-- section break -->
 
-<br>
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whos-next-deluxe-edition/1440850317" >}}
 
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/whos-next-deluxe-edition/1440850317" >}}<br>
+
+
+## Videos
+### [Full Album] T̲he W̲ho - W̲ho's N̲ext
+{{< youtube id="v2lSNMiaPeA" title="[Full Album] T̲he W̲ho - W̲ho's N̲ext" >}}<br>
+### More Videos
+
+- [The̲ W̲ho  - W̲ho's N̲ext Full Album 1971](https://www.youtube.com/watch?v=jaExqxFvNtk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -48,7 +56,6 @@ styles: ["Hard Rock", "Mod"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
 | Label          | Polydor |
 | Catalog Number | 3715614 |

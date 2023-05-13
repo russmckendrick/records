@@ -58,9 +58,12 @@ styles: ["Hard Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-rush-single/1653217412" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-rush-single/1653217412" >}}<br>
+
+
 ## Videos
 ### Rush - By Tor And The Snow Dog (1978 UK Vinyl)
 {{< youtube id="xOtEx_y__MM" title="Rush - By Tor And The Snow Dog (1978 UK Vinyl)" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1978                                   |
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Mercury |
 | Catalog Number | 6641 799 |

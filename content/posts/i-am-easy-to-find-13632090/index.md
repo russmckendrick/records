@@ -52,9 +52,15 @@ Just as the film is about nothing more and nothing less than an examination of o
 Despite this decentralization, it still feels like a cohesive National album—in turns brooding and bombastic, elegiac and euphoric, propelled by jittery rhythms and orchestral flourishes. But it is also a busy tapestry of voices and ideas, all in the name of exploring identity and what it means to be present and angry and bewildered at a tumultuous time. “There's a shaking off all the old tropes and patterns and ruts,” Berninger says. “Women are sick and tired of how they are spoken about or represented. Children are rebelling against the packages that they're forced into—and it's wonderful. I never questioned the package that I was supposed to walk around in until my thirties.”<br />
 The album’s default mood is uneasy lullaby, epitomized by the title track, “Hairpin Turns,” “Light Years,” and the woozily logorrheic, nearly seven-minute centerpiece “Not in Kansas.” This gravity makes the moments that gallop, relatively speaking—“Where Is Her Head,” the purposefully gender-nonspecific “Rylan,” and the palpitating opener “You Had Your Soul with You”—feel all the more urgent.<br />
 The expanded cast might be slightly disorienting at first, but that disorientation is by design—an attempt to make the band’s music and perspective feel more universal by working in concert with other musicians and a film director. “This is a packaging of the blurry chaos that creates some sort of reflection of it, and seeing a reflection of the chaos through some other artist's lens makes you feel more comfortable inside it,” says Berninger. “Other people are in this chaos with me and shining lights into corners. I'm not alone in this.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-am-easy-to-find/1453848132" >}}
+{{< applemusic url="https://music.apple.com/gb/album/i-am-easy-to-find/1453848132" >}}<br>
+
+
 ## Videos
 ### I Am Easy To Find - A Film by Mike Mills / An Album by The National
 {{< youtube id="ifElv18k2O8" title="I Am Easy To Find - A Film by Mike Mills / An Album by The National" >}}<br>
@@ -71,8 +77,6 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Am_Easy_to_Find_(album) |
-| Wikipedia Summary | I Am Easy to Find is the eighth studio album by American indie rock band The National, released on May 17, 2019, via 4AD. The follow-up to the band's 2017 album, Sleep Well Beast, it was supported by the lead single, "You Had Your Soul with You", and accompanied by a short film of the same name, directed by Mike Mills and starring Alicia Vikander. Vikander is also featured on the album cover. A trailer was released for the companion film along with the announcement of the album. A tour promoting the album began in June 2019. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl LP (Red), Vinyl LP (Yellow), Vinyl LP Single Sided Etched (Grey), All Media Album Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0154LPX |

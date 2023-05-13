@@ -28,7 +28,10 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -37,7 +40,6 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 12" EP |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFS023X |

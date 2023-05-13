@@ -40,9 +40,12 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hallucinations-of-a-higher-truth/1575676546" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hallucinations-of-a-higher-truth/1575676546" >}}<br>
+
+
 ## Videos
 ### Bill Fisher - In the Morning (Official Visualiser Video)
 {{< youtube id="3SAs3xtNG4g" title="Bill Fisher - In the Morning (Official Visualiser Video)" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered (Crimson Nebula Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 5 |

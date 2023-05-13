@@ -49,9 +49,15 @@ The album reached number 6 on the UK Charts. In the United States, it was releas
 The album has been hailed as a pivotal psychedelic music recording. Special limited editions of The Piper at the Gates of Dawn were issued to mark its thirtieth, fortieth, and fiftieth anniversaries, with the former two releases containing bonus tracks. In 2012, The Piper at the Gates of Dawn was placed at number 347 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time", and number 253 in the 2020 edition.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401" >}}<br>
+
+
 ## Videos
 ### Pink Floyd - The Piper At The Gates Of Dawn  (Full Album)
 {{< youtube id="MwTV23pBm_U" title="Pink Floyd - The Piper At The Gates Of Dawn  (Full Album)" >}}<br>
@@ -64,8 +70,6 @@ The album has been hailed as a pivotal psychedelic music recording. Special limi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn |
-| Apple Music Summary | Even though Pink Floyd's debut album followed <i>Sgt. Pepper's</i> by a couple of months, nothing could have prepared the world for the magical blend of genius and LSD-induced madness that drove Floyd frontman Syd Barrett's dazzling psychedelic vision. Barrett's cubist guitar riffs collide magnificently with Rick Wright's hypnotic, snake-charmer organ lines amid a dizzying merry-go-round of sound effects. All the while, Syd's equally abstract lyrical approach freely mixes fairytale imagery with cosmic explorations—the ideal soundtrack for journeys through both outer and inner space.<br> |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP26 |

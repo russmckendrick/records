@@ -48,7 +48,10 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### The Fall Hey! Luciani
 {{< youtube id="KPr2ENnp_GI" title="The Fall Hey! Luciani" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation Reissue (White) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 111 |

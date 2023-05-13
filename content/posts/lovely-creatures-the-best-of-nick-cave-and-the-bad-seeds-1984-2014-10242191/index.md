@@ -55,9 +55,12 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lovely-creatures-the-best-of-nick-cave-and-the/1210447337" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lovely-creatures-the-best-of-nick-cave-and-the/1210447337" >}}<br>
+
+
 ## Videos
 ### Nick Cave & The Bad Seeds - Tupelo
 {{< youtube id="oSl4KX7zBTQ" title="Nick Cave & The Bad Seeds - Tupelo" >}}<br>
@@ -74,7 +77,6 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 3× LP Compilation Remastered (180 g) |
 | Label          | Mute |
 | Catalog Number | LPSEEDS15 |

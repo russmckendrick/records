@@ -42,9 +42,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sounds-that-cant-be-made/558499415" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sounds-that-cant-be-made/558499415" >}}<br>
+
+
 ## Videos
 ### Marillion - Sounds That Can't Be Made
 {{< youtube id="16AfYI3Xd-g" title="Marillion - Sounds That Can't Be Made" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Ear Music |
 | Catalog Number | 0209119ERE |

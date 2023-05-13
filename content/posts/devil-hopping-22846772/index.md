@@ -45,9 +45,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}
+{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}<br>
+
+
 ## Videos
 ### Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)
 {{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent) |
 | Label          | Mute |
 | Catalog Number | ldung25 |

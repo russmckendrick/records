@@ -32,9 +32,12 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/just-supposin-deluxe/1443329378" >}}
+{{< applemusic url="https://music.apple.com/gb/album/just-supposin-deluxe/1443329378" >}}<br>
+
+
 ## Videos
 ### Status Quo – What You're Proposin'
 {{< youtube id="z4Zh5DyMRDU" title="Status Quo – What You're Proposin'" >}}<br>
@@ -50,7 +53,6 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723773 |

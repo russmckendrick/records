@@ -94,7 +94,10 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -103,7 +106,6 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl LP Album Reissue (180g), Vinyl LP Single Sided Album Etched Reissue (180g), Vinyl 2× LP Album Reissue (180g), Vinyl LP Album (180g), Vinyl LP Single Sided Album Etched (180g), Vinyl 3× LP Album (180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 512 |

@@ -43,9 +43,12 @@ styles: ["Chicago Blues"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-collection-the/1484883790" >}}
+{{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-collection-the/1484883790" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,7 +57,6 @@ styles: ["Chicago Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | Not Now Music |
 | Catalog Number | CATLP105 |

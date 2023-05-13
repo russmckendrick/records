@@ -39,9 +39,14 @@ styles: ["Pop Rock", "Prog Rock"]
 <!-- section break -->
 
 Asia is the debut studio album by English rock supergroup Asia, released in 1982. According to both Billboard and Cashbox, it was the #1 album in the United States for the year 1982. It contains their biggest hit "Heat of the Moment", which reached #4 in the US on the Billboard Hot 100 chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/turn/328947264" >}}
+{{< applemusic url="https://music.apple.com/gb/album/turn/328947264" >}}<br>
+
+
 ## Videos
 ### Asia - Heat Of The Moment (Official Music Video)
 {{< youtube id="lCALGlGuVUA" title="Asia - Heat Of The Moment (Official Music Video)" >}}<br>
@@ -56,8 +61,6 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Asia_(Asia_album) |
-| Wikipedia Summary | Asia is the debut studio album by English rock supergroup Asia, released in 1982. According to both Billboard and Cashbox, it was the #1 album in the United States for the year 1982. It contains their biggest hit "Heat of the Moment", which reached #4 in the US on the Billboard Hot 100 chart. |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album |
 | Label          | Geffen Records |
 | Catalog Number | GEF 85577 |

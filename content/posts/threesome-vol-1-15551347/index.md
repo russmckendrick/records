@@ -44,9 +44,12 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/threesome-vol-1-ep/1503092920" >}}
+{{< applemusic url="https://music.apple.com/gb/album/threesome-vol-1-ep/1503092920" >}}<br>
+
+
 ## Videos
 ### The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]
 {{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]" >}}<br>
@@ -62,7 +65,6 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Remastered Stereo (Random Color) |
 | Label          | Label Logic |
 | Catalog Number | none |

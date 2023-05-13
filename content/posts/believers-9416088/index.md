@@ -40,9 +40,14 @@ styles: ["Pop Rock"]
 <!-- section break -->
 
 Believers is the eighth studio album released by Scottish band Deacon Blue, released on 30 September 2016 via both EarMusic and Sheer Sound recording labels. The album was a commercial success in the United Kingdom, debuting at number thirteen and remained in the UK Albums Chart for a further week, making Believers Deacon Blue's seventh Top 40 UK album. In their native Scotland, Believers debuted at number four on the Scottish Albums Chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/believers/1136775251" >}}
+{{< applemusic url="https://music.apple.com/gb/album/believers/1136775251" >}}<br>
+
+
 ## Videos
 ### Deacon Blue  - Believers - 03 - I Will and I Won't
 {{< youtube id="UVUsVqdKzmI" title="Deacon Blue  - Believers - 03 - I Will and I Won't" >}}<br>
@@ -57,8 +62,6 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Believers_(Deacon_Blue_album) |
-| Wikipedia Summary | Believers is the eighth studio album released by Scottish band Deacon Blue, released on 30 September 2016 via both EarMusic and Sheer Sound recording labels. The album was a commercial success in the United Kingdom, debuting at number thirteen and remained in the UK Albums Chart for a further week, making Believers Deacon Blue's seventh Top 40 UK album. In their native Scotland, Believers debuted at number four on the Scottish Albums Chart. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0211435EMU |

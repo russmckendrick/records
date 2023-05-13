@@ -46,9 +46,14 @@ styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 <!-- section break -->
 
 Icky Thump is the sixth and final studio album by American rock duo The White Stripes, released through Warner Bros. and Third Man Records in June 2007, with XL Recordings handling the United Kingdom release. Its first release came on June 15, 2007, in Germany, with the release for the rest of Europe occurring on June 18 and the rest of the world on June 19.Icky Thump received positive reviews from critics and enjoyed commercial success, entering the UK Albums Chart at number one and debuting at number two on the Billboard 200, becoming the duo's highest-charting album in the US with 223,000 copies sold. By late July, Icky Thump was certified gold in the United States. On February 10, 2008, the album won a Grammy Award for Best Alternative Music Album.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/icky-thump/1533513464" >}}
+{{< applemusic url="https://music.apple.com/gb/album/icky-thump/1533513464" >}}<br>
+
+
 ## Videos
 ### The White Stripes - Icky Thump (Official Music Video)
 {{< youtube id="1OjTspCqvk8" title="The White Stripes - Icky Thump (Official Music Video)" >}}<br>
@@ -64,8 +69,6 @@ Icky Thump is the sixth and final studio album by American rock duo The White St
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Icky_Thump |
-| Wikipedia Summary | Icky Thump is the sixth and final studio album by American rock duo The White Stripes, released through Warner Bros. and Third Man Records in June 2007, with XL Recordings handling the United Kingdom release. Its first release came on June 15, 2007, in Germany, with the release for the rest of Europe occurring on June 18 and the rest of the world on June 19.Icky Thump received positive reviews from critics and enjoyed commercial success, entering the UK Albums Chart at number one and debuting at number two on the Billboard 200, becoming the duo's highest-charting album in the US with 223,000 copies sold. By late July, Icky Thump was certified gold in the United States. On February 10, 2008, the album won a Grammy Award for Best Alternative Music Album. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (180 Gram) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-500 |

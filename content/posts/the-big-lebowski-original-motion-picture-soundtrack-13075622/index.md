@@ -44,7 +44,10 @@ styles: ["Soundtrack"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Bob Dylan - The Man in Me (Audio)
 {{< youtube id="G6oBqDkNz38" title="Bob Dylan - The Man in Me (Audio)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Compilation Reissue (180 Gram) |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-149 |

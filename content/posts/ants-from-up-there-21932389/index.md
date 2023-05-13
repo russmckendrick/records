@@ -93,9 +93,15 @@ CW: “For me, this is about as far away as we went from the first album. Aesthe
 LE: “This is another tune where we really thought about what we wanted from it before we wrote it. We had examples of things we liked, and one of them was Frank Ocean’s ‘White Ferrari’. We liked the idea of it almost being like two different bands [playing] at the same time. So you’ve got this quite simple but quite heart-wrenching, fugal-sounding arrangement of all the instruments with a drum solo that is just crazy and doesn’t really relate too much to what is going on in the other instruments. We react to the drum solo, but he doesn’t react to us. It’s that kind of idea.”<br />
 <b>“Basketball Shoes”</b>
 TH: “It’s essentially a medley of the whole album. It’s got literal musical motifs that are repeated on different songs in the album. It touches on all the themes that we’ve been exploring, and it’s the most climactic song on the album. It wouldn’t really make sense to not finish with it, it’s so exhausting. It’s such a journey. I think you just wouldn’t be able to pay much attention to anything that followed it because you’d be so wiped out after listening to it.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ants-from-up-there/1586070259" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ants-from-up-there/1586070259" >}}<br>
+
+
 ## Videos
 ### Black Country, New Road - 'Intro' (Official Audio)
 {{< youtube id="hg2FriyudSw" title="Black Country, New Road - 'Intro' (Official Audio)" >}}<br>
@@ -118,8 +124,6 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ants_from_Up_There |
-| Wikipedia Summary | Ants from Up There is the second studio album by British rock band Black Country, New Road, released on 4 February 2022 on Ninja Tune. Recorded at Chale Abbey on the Isle of Wight, the album was produced by the band's live sound engineer Sergio Maschetzko, and is the final album to feature lead vocalist and guitarist Isaac Wood, who announced his departure from the band on 31 January 2022, four days prior to the album's release.Written during COVID-19 lockdowns and road-tested during brief touring stints in support of their debut album, For the First Time (2021), the album was released almost exactly a year after their debut, and was preceded by four singles: "Chaos Space Marine", "Bread Song", "Concorde" and "Snow Globes".<br>The album received unanimous critical acclaim upon its release. It became Black Country, New Road's highest-charting album, debuting at No. 3 on the UK Albums Chart and also reaching the top ten in Australia, Germany and the Netherlands. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marbled) |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN278X |

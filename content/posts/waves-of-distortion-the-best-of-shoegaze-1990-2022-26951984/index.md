@@ -49,7 +49,10 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -58,7 +61,6 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP (Red / Blue 'Inkspot'), Vinyl LP (White), All Media Compilation Deluxe Edition Limited Edition Stereo |
 | Label          | Two Piers |
 | Catalog Number | BN5LPXX |

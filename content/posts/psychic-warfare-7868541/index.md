@@ -44,9 +44,14 @@ styles: ["Hard Rock"]
 Psychic Warfare is the eleventh studio album by the band Clutch, It was released on October 2, 2015 through the band's own label Weathermaker Music.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/psychic-warfare/1675774664" >}}
+{{< applemusic url="https://music.apple.com/gb/album/psychic-warfare/1675774664" >}}<br>
+
+
 ## Videos
 ### Clutch - X-Ray Visions
 {{< youtube id="X8cmbmwFAl8" title="Clutch - X-Ray Visions" >}}<br>
@@ -59,8 +64,6 @@ Psychic Warfare is the eleventh studio album by the band Clutch, It was released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Psychic_Warfare |
-| Wikipedia Summary | Psychic Warfare is the eleventh studio album by the band Clutch, It was released on October 2, 2015 through the band's own label Weathermaker Music.<br><br> |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album |
 | Label          | Weathermaker Music |
 | Catalog Number | WM042 |

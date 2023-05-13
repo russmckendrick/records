@@ -61,9 +61,15 @@ styles: ["Classic Rock"]
 Tusk is the twelfth studio album by British-American rock band Fleetwood Mac, released as a double album on 12 October 1979 by Warner Bros. Records. It is considered more experimental than their previous albums, partly as a consequence of Lindsey Buckingham's sparser songwriting arrangements and the influence of post-punk. The production costs were initially estimated to be about $1 million but many years later were revealed to be about $1.4 million (equivalent to $5.23 million in 2021), making it the most expensive rock album recorded to that date.The band embarked on a nine-month tour to promote Tusk. They travelled extensively across the world, including the U.S., Australia, New Zealand, Japan, France, Belgium, Germany, the Netherlands, and the UK. In Germany, they shared the bill with Bob Marley. On this world tour, the band recorded music for the Fleetwood Mac Live album, released in 1980.Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk was regarded as a commercial failure by the label, selling four million copies. In 2013, NME ranked Tusk at number 445 in their list of "500 Greatest Albums of All Time". The album was also included in the book 1001 Albums You Must Hear Before You Die. In 2000, it was voted number 853 in Colin Larkin's All Time Top 1000 Albums.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tusk-remastered/1055803853" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tusk-remastered/1055803853" >}}<br>
+
+
 ## Videos
 ### Fleetwood Mac   1979   Tusk
 {{< youtube id="j3gnGhTCLqs" title="Fleetwood Mac   1979   Tusk" >}}<br>
@@ -76,8 +82,6 @@ Tusk is the twelfth studio album by British-American rock band Fleetwood Mac, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tusk_(album) |
-| Apple Music Summary | Fleetwood Mac decided to follow up the career-defining, best-selling <i>Rumours</i> with an album that would not compromise their integrity or seem like a quick rehash of their proven FM-radio-friendly formula. <i>Tusk</i> is not <i>Rumours, Pt. II</i>. It's an expansive, 20-track collection that allows each of the three songwriters—Lindsey Buckingham, Christine McVie, and Stevie Nicks—to stretch their musical vocabulary with the very best sonics that money could buy. Buckingham took on much of the production himself, recording at home and in the personally modified Village Recorder studio in West Los Angeles, until he fashioned an album both quirky and accessible, as much a part of the '70s rock elite establishment as informed by the funkier experiments of the emerging punk and new wave. Though individual tracks do stand out—McVie's "Over & Over," "Never Make Me Cry," "Sara," "Storms," and "Beautiful Child," "Buckingham's "Walk a Thin Line" and "Tusk"—the album is best experienced as a long, flowing whole, moods emerging, harmonies shifting, and odd sound experiments percolating underneath the smooth professional sheen. |
-    | Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Reissue (Silver) |
 | Label          | Warner Records |
 | Catalog Number | RCV1 3350 |

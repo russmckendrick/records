@@ -41,7 +41,10 @@ styles: ["Punk"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Ian Dury & The Blockheads - Reasons To Be Cheerful Part III
 {{< youtube id="6iiZEOHpogA" title="Ian Dury & The Blockheads - Reasons To Be Cheerful Part III" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Compilation (Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC280 |

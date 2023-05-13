@@ -42,9 +42,14 @@ styles: ["Blues Rock"]
 <!-- section break -->
 
 A Deeper Cut is the third studio album by British rock band the Temperance Movement.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-deeper-cut/1301389456" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-deeper-cut/1301389456" >}}<br>
+
+
 ## Videos
 ### The Temperance Movement - Caught in the Middle (Official Video)
 {{< youtube id="VMTDrY4lTDo" title="The Temperance Movement - Caught in the Middle (Official Video)" >}}<br>
@@ -69,8 +74,6 @@ A Deeper Cut is the third studio album by British rock band the Temperance Movem
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Deeper_Cut |
-| Wikipedia Summary | A Deeper Cut is the third studio album by British rock band the Temperance Movement. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange, Gatefold) |
 | Label          | Earache |
 | Catalog Number | MOSH606LP |

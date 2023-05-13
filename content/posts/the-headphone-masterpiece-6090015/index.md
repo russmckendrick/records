@@ -61,9 +61,14 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 
 The Headphone Masterpiece is the debut album by American singer-songwriter and multi-instrumentalist Cody Chesnutt, released in 2002. It was recorded in his home bedroom with a 4-track recorder and Chesnutt playing guitar, bass, keyboard, and the organ. A 36-song double album, The Headphone Masterpiece features neo soul and lo-fi music, and distorted, overdubbed production. It was written and arranged by Chesnutt, whose mix of ironic and sincere lyrics reflect on personal experiences such as falling in love with his wife and reconciling his love for rock and roll with the drawbacks to the rock lifestyle.
 After unsuccessfully shopping the album to record companies, Chesnutt distributed it himself on his website before releasing it again through his own label Ready, Set, Go! on September 24, 2002. The album charted for one week on the Billboard 200, reaching 25,000 copies sold by March 30, 2003, according to Nielsen SoundScan. Critically, it was well received, with reviewers generally finding the music adventurous, even if indulgent.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-headphone-masterpiece/1529286229" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-headphone-masterpiece/1529286229" >}}<br>
+
+
 ## Videos
 ### Cody Chesnutt - Eric Burdon
 {{< youtube id="tD4VoPlC91A" title="Cody Chesnutt - Eric Burdon" >}}<br>
@@ -86,8 +91,6 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Headphone_Masterpiece |
-| Wikipedia Summary | The Headphone Masterpiece is the debut album by American singer-songwriter and multi-instrumentalist Cody Chesnutt, released in 2002. It was recorded in his home bedroom with a 4-track recorder and Chesnutt playing guitar, bass, keyboard, and the organ. A 36-song double album, The Headphone Masterpiece features neo soul and lo-fi music, and distorted, overdubbed production. It was written and arranged by Chesnutt, whose mix of ironic and sincere lyrics reflect on personal experiences such as falling in love with his wife and reconciling his love for rock and roll with the drawbacks to the rock lifestyle.<br>After unsuccessfully shopping the album to record companies, Chesnutt distributed it himself on his website before releasing it again through his own label Ready, Set, Go! on September 24, 2002. The album charted for one week on the Billboard 200, reaching 25,000 copies sold by March 30, 2003, according to Nielsen SoundScan. Critically, it was well received, with reviewers generally finding the music adventurous, even if indulgent. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 3× LP Album Limited Edition Numbered Repress |
 | Label          | One Little Indian |
 | Catalog Number | TPLP345DMM |

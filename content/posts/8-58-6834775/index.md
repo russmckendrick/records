@@ -43,9 +43,14 @@ styles: ["Downtempo", "Electro"]
 <!-- section break -->
 
 8:58 is the debut album of Paul Hartnoll's 8:58 project, released on March 30, 2015. According to Hartnoll, the album is a continuation of his work with Orbital. The album features contributions from actor Cillian Murphy, folk band The Unthanks, singer-songwriter Ed Harcourt, Lisa Knapp, Robert Smith, Lianne Hall and Fable.The song "Please" is a reworking of the track of the same name from Paul Hartnoll's 2007 solo album, The Ideal Condition, and was previously released under the title "Please (Remember 1992?) (PH Mix)". The track "A Forest" is a cover of The Cure's track of the same name.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/defected-radio-episode-058-hosted-by-sam-divine/1251991857" >}}
+{{< applemusic url="https://music.apple.com/gb/album/defected-radio-episode-058-hosted-by-sam-divine/1251991857" >}}<br>
+
+
 ## Videos
 ### 8:58 - Nearly There
 {{< youtube id="HkJYq40WNU0" title="8:58 - Nearly There" >}}<br>
@@ -67,8 +72,6 @@ styles: ["Downtempo", "Electro"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/8:58 |
-| Wikipedia Summary | 8:58 is the debut album of Paul Hartnoll's 8:58 project, released on March 30, 2015. According to Hartnoll, the album is a continuation of his work with Orbital. The album features contributions from actor Cillian Murphy, folk band The Unthanks, singer-songwriter Ed Harcourt, Lisa Knapp, Robert Smith, Lianne Hall and Fable.The song "Please" is a reworking of the track of the same name from Paul Hartnoll's 2007 solo album, The Ideal Condition, and was previously released under the title "Please (Remember 1992?) (PH Mix)". The track "A Forest" is a cover of The Cure's track of the same name. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1503 |

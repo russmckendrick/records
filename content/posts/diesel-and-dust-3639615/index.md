@@ -61,9 +61,15 @@ Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such 
 “We wanted to write and have a song that was almost like an anthem for activism, for people who care, for people who want to go out and lay their bodies on the line for their country or for the environment, or for an issue or cause. We’re not taking any prisoners. We and many people of our generation felt like we were up against it, ’cause the forces of darkness, the forces of greed, the forces of rampant overdevelopment or weaponising or trying to make money off other people were forces that we saw that needed to be opposed. And the only way that history could be made good and to get a better world happening was to be in there; we needed to be in the ring. And I think ‘Sometimes’ is that song.”<br />
 <b>Gunbarrel Highway</b>
 “It was a spare, one of those leftover songs. We sometimes have songs that are left over at the end of a Midnight Oil session, and for whatever reason we’re not sure if they’re finished. And somehow we overlooked this and thought, ‘Nah, it’s not quite ready.’ So it didn’t go out in America, but it was on the Australian version. Of course, people would know the Gunbarrel Highway. It’s this amazing highway that travels from the bottom of South Australia across Western Australia, and it’s so straight and there are so few trees that you can fire a gun down the highway and not hit anything from one end to the other. It’s got a nice swing to it, and lots of atmospheric imagery, so it actually become the perfect concluder to <i>Diesel and Dust</i>.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/diesel-and-dust-2008-remaster/288955172" >}}
+{{< applemusic url="https://music.apple.com/gb/album/diesel-and-dust-2008-remaster/288955172" >}}<br>
+
+
 ## Videos
 ### Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]
 {{< youtube id="R6eJwfgATZ8" title="Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]" >}}<br>
@@ -88,8 +94,6 @@ Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Diesel_and_Dust |
-| Wikipedia Summary | Diesel and Dust is the sixth studio album by Australian rock band Midnight Oil, released in August 1987 by SPRINT Music label under Columbia Records. Diesel and Dust was produced by Warne Livesey and the band. It is a concept album about the struggles of Indigenous Australians and environmental causes, issues important to the band. It drew inspiration from the Blackfella/Whitefella Tour of remote Indigenous communities with the Warumpi Band and Gondwanaland in 1986. The album peaked at No. 1 on the Australian Kent Music Report Albums Chart for six weeks.<br>Diesel and Dust has been critically lauded since its release. Rolling Stone editors named it the best album of 1988 (the year of its United States release), and later ranked it the 13th greatest record of the 1980s. In October 2010, Diesel and Dust was listed at no.1 in the book, 100 Best Australian Albums. In December of 2021, the album was listed at no. 5 in Rolling Stone Australia’s ‘200 Greatest Albums of All Time’ countdown.<br><br> |
-    | Release Year   | 1987                                   |
 | Format         | Vinyl LP Album Stereo (Red Label) |
 | Label          | CBS |
 | Catalog Number | 460005 1 |

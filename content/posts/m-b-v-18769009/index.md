@@ -53,9 +53,15 @@ The main feeling that Kevin Shields felt upon the release of <i>m b v</i> in 201
 <i>m b v</i> began back in 1996. The band’s classic line-up had started to disintegrate, with drummer Colm Ó Cíosóig and bassist Debbie Googe departing. Perhaps in a reflection of this unsettling period, Shields began to approach songwriting in a much more experimental manner. “I went on this process of recording a lot of ideas in a purposely abstract way,” he says. “I wasn’t trying to write a song with a beginning and an end. Instead of writing a part in a song, I’d record it and then record another part. I was doing the writing process and the recording process at the same time but in different ways. It might be weeks between a verse and a chorus…well, I don’t do choruses.” <br />
 The idea was that eventually these ideas would form a coherent whole that would be a new my bloody valentine record, but the project stalled in 1997 when Shields ran out of money. “And then I started hanging out with Primal Scream and I kind of drifted into that world, which was fun for quite a while.” It wasn’t until Shields was remastering the band’s back catalogue in 2006 that he listened back to the unfinished sessions. “I realised it was actually better and more relevant than I thought it was,” he recalls. “I’d kind of forgotten about the more melodic parts of it and realised they were quite strong. I thought, ‘I should finish this and make it into an album.’” It was a freeing process, Shields says, filled with lots of “crazy shit”. At one point, they paid to fly people from England to Japan with proofs of the artwork because they didn’t trust just seeing it on a computer. “We were literally throwing money at it to make sure it was as good as possible,” he says. “Every single penny was justified.” By the end, Shields felt vindicated. “We did it our way and it was perfectly good.”<br />
 No my bloody valentine record ever sounds of its time—they all sound like the future. But there is something especially reinvigorating about listening to their third album, perhaps because of how unlikely its release seemed at points. To hear Shields still erecting signposts on where guitar music can go on the sensational closer “wonder 2”, which sounds like a rock band playing drum and bass from inside the engine of a 747, or the slo-mo sway of “if i am” is to be reminded that this is a visionary at work. One of the central themes of <i>m b v</i>, says Shields, was a strong sense of everything coming to an end. He thinks that’s why it still resonated when he listened back in 2006, the feeling growing as he recommenced work on it in 2011 and even more so now. “We’re in a cycle of the world of things coming to an end and moving into a new phase,” he says. “The record is more relevant as every decade goes by.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/m-b-v/1556924265" >}}
+{{< applemusic url="https://music.apple.com/gb/album/m-b-v/1556924265" >}}<br>
+
+
 ## Videos
 ### she found now - m b v  - my bloody valentine
 {{< youtube id="rBKjhgHGVZs" title="she found now - m b v  - my bloody valentine" >}}<br>
@@ -77,8 +83,6 @@ No my bloody valentine record ever sounds of its time—they all sound like the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/M_b_v_(album) |
-| Wikipedia Summary | m b v is the third and most recent studio album by Irish-English rock band My Bloody Valentine, self-released on 2 February 2013. Produced by the band's vocalist and guitarist Kevin Shields, m b v was the band's first full-length release of original material since Loveless (1991), over two decades earlier.<br>Recording for m b v began prior to My Bloody Valentine's breakup in 1997. Shields resumed recording in 2006 at the time when the band was reunited, with further recording occurring after 2011. The album received critical acclaim and was named among the best albums of 2013 by numerous publications, including Pitchfork, Uncut, and The Wire.<br><br> |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Deluxe Edition Reissue (Gatefold) |
 | Label          | Domino |
 | Catalog Number | REWIGLP160X |

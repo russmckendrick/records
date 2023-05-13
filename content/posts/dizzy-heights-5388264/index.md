@@ -40,9 +40,14 @@ styles: ["Pop Rock", "Alternative Rock"]
 <!-- section break -->
 
 Dizzy Heights, released in February 2014, is the third solo album by New Zealand singer-songwriter, Neil Finn.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dizzy-heights-bonus-track-version/727690973" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dizzy-heights-bonus-track-version/727690973" >}}<br>
+
+
 ## Videos
 ### Neil Finn - Divebomber
 {{< youtube id="ks_-25Fgh5U" title="Neil Finn - Divebomber" >}}<br>
@@ -55,8 +60,6 @@ Dizzy Heights, released in February 2014, is the third solo album by New Zealand
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dizzy_Heights_(Neil_Finn_album) |
-| Wikipedia Summary | Dizzy Heights, released in February 2014, is the third solo album by New Zealand singer-songwriter, Neil Finn. |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP |
 | Label          | Lester Records |
 | Catalog Number | LRNF0011LP |

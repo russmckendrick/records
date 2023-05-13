@@ -34,9 +34,14 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 <!-- section break -->
 
 "Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whatever-you-want/1443409213" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whatever-you-want/1443409213" >}}<br>
+
+
 ## Videos
 ### Status Quo - Whatever You Want
 {{< youtube id="uLCOYGITsjA" title="Status Quo - Whatever You Want" >}}<br>
@@ -49,8 +54,6 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whatever_You_Want_(Status_Quo_song) |
-| Wikipedia Summary | "Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs. |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723772 |

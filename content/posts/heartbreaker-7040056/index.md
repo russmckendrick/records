@@ -50,9 +50,15 @@ styles: ["Acoustic"]
 <!-- section break -->
 
 Heartbreaker is the debut solo studio album by American singer/songwriter Ryan Adams, released September 5, 2000 on Bloodshot Records. The album was recorded over fourteen days at Woodland Studios in Nashville, Tennessee. It was nominated for the 2001 Shortlist Music Prize. The album is said to be inspired by Adams' break-up with music industry publicist Amy Lombardi.According to Adams, the album's title originates from a poster of Mariah Carey: "My manager called and said, 'You have 15 seconds to name this record,' "My eyes focused on this poster of Mariah wearing a T-shirt that said HEARTBREAKER. I just shouted, 'Heartbreaker!'"A Deluxe Edition, featuring bonus recording session takes and pre-album demos, was released on May 6, 2016 on PAX-AM records.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heartbreaker/593627968" >}}
+{{< applemusic url="https://music.apple.com/gb/album/heartbreaker/593627968" >}}<br>
+
+
 ## Videos
 ### [Argument with David Rawlings Concerning Morrisey]
 {{< youtube id="-Z0o7zWtu_0" title="[Argument with David Rawlings Concerning Morrisey]" >}}<br>
@@ -80,8 +86,6 @@ Heartbreaker is the debut solo studio album by American singer/songwriter Ryan A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heartbreaker_(Ryan_Adams_album) |
-| Apple Music Summary | Ryan Adams began his solo career close to where he'd left off with Whiskeytown—kicking out rough-and-tumble country and heart-on-sleeve ballads. The difference is how relaxed he sounds, even when rocking out on "To Be Young (Is to Be Sad, Is to Be High)" and singing duet with Emmylou Harris on "Oh My Sweet Carolina." Collaborators Gillian Welch and David Rawlings keep him in a good-natured mood, and their harmonies help make "Amy" one of the prettiest tunes he'd yet written. Only the near-punk "Shakedown on 9th Street" hints at how musically unpredictable he'd become. |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 052 |

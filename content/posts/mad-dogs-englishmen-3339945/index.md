@@ -48,9 +48,12 @@ styles: ["Blues Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen-live-at-the-fillmore-east-1970-reissue/1423706584" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen-live-at-the-fillmore-east-1970-reissue/1423706584" >}}<br>
+
+
 ## Videos
 ### Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)
 {{< youtube id="79YmYQebXzE" title="Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)" >}}<br>
@@ -78,7 +81,6 @@ styles: ["Blues Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP355 |

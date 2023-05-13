@@ -38,9 +38,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/for-the-music/1531752115" >}}
+{{< applemusic url="https://music.apple.com/gb/album/for-the-music/1531752115" >}}<br>
+
+
 ## Videos
 ### Blackfield - For The Music (Official Music Video)
 {{< youtube id="1N8wIhCxMns" title="Blackfield - For The Music (Official Music Video)" >}}<br>
@@ -58,7 +61,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink Transparent) |
 | Label          | Warner Music Central Europe |
 | Catalog Number | 0190295-1397-8-0 |

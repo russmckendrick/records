@@ -48,9 +48,13 @@ styles: ["Acoustic", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="6DX4SASj4jxDSTPq9vz3RL" width="100%" height="500" >}}
+{{< spotify type="album" id="6DX4SASj4jxDSTPq9vz3RL" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### An Introduction to Syd Barrett
 {{< youtube id="dOZ9RvvwXpo" title="An Introduction to Syd Barrett" >}}<br>
@@ -65,7 +69,6 @@ styles: ["Acoustic", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Repress |
 | Label          | Syd Barrett Music Ltd. |
 | Catalog Number | SBM001LP |

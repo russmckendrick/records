@@ -33,9 +33,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/koyo/1259107930" >}}
+{{< applemusic url="https://music.apple.com/gb/album/koyo/1259107930" >}}<br>
+
+
 ## Videos
 ### KOYO - Jettisoned (Official Video)
 {{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned (Official Video)" >}}<br>
@@ -47,7 +50,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album (Red & Blue) |
 | Label          | 88 Watt |
 | Catalog Number | 88WLPR004X |

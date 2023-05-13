@@ -49,9 +49,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lost-in-the-ghost-light/1179909058" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lost-in-the-ghost-light/1179909058" >}}<br>
+
+
 ## Videos
 ### Tim Bowness - Lost In The Ghost Light album trailer
 {{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album (Gold), CD Album, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 473 |

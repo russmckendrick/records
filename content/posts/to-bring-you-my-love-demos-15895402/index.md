@@ -41,9 +41,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love-demos/1521894413" >}}
+{{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love-demos/1521894413" >}}<br>
+
+
 ## Videos
 ### To Bring You My Love (Demo)
 {{< youtube id="Q45TjwkoZM8" title="To Bring You My Love (Demo)" >}}<br>
@@ -65,7 +68,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album (180g) |
 | Label          | Island Records |
 | Catalog Number | 0896476 |

@@ -51,7 +51,10 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Captain Fantastic Original Soundtrack OST (2016) Alex Somers
 {{< youtube id="iFCrtw63FNk" title="Captain Fantastic Original Soundtrack OST (2016) Alex Somers" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Transparent Duck Egg Blue) |
 | Label          | Invada |
 | Catalog Number | INV164LP |

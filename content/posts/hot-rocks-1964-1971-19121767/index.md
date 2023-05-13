@@ -59,9 +59,12 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786" >}}<br>
+
+
 
 
 ## Release Images
@@ -70,7 +73,6 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Yellow, 180 Gram, Gatefold) |
 | Label          | London Records |
 | Catalog Number | 2PS 606/7 |

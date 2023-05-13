@@ -43,9 +43,12 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ace-as-killer-bs/1443796376" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ace-as-killer-bs/1443796376" >}}<br>
+
+
 ## Videos
 ### Dodgy Ace A's + Killer B's
 {{< youtube id="WTkeHkdIuB0" title="Dodgy Ace A's + Killer B's" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP (Green translucent, 180g), Vinyl LP (Yellow translucent, 180g), All Media Compilation Limited Edition Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC907X |

@@ -72,7 +72,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### ATUM
 {{< youtube id="2bYiu-yVwr4" title="ATUM" >}}<br>
@@ -117,7 +120,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 4× LP Album |
 | Label          | Thirty Tigers |
 | Catalog Number | 04471LP |

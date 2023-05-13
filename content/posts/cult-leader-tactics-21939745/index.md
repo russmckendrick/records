@@ -42,9 +42,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cult-leader-tactics/1588722385" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cult-leader-tactics/1588722385" >}}<br>
+
+
 
 
 ## Release Images
@@ -53,7 +56,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Violet Translucent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1160 |

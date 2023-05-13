@@ -42,9 +42,15 @@ styles: ["Psychedelic Rock", "Blues Rock"]
 
 The Doors is the debut studio album by American rock band the Doors, released on January 4, 1967, by Elektra Records. It was recorded in August 1966 at Sunset Sound Recorders, Hollywood, California, under the production of Paul A. Rothchild. The album features the extended version of the breakthrough single "Light My Fire" and the lengthy closer "The End" with its Oedipal spoken word section. Publications including BBC and Rolling Stone have considered it one of the greatest and most unique debut albums in recorded history.The Doors were working the material of their debut album throughout the year of 1966 at various stages such as the Whisky a Go Go. The album's recording started after their dismissal from the venue, under the maintenance of Elektra Records. The recording of The Doors established the band's wide range of musical influences, such as jazz, classical, blues, pop, R&B and rock music. It has been largely viewed as an essential part of the psychedelic rock evolution, while also being acknowledged as a source of inspiration to other works.
 The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. In 2015 the Library of Congress selected The Doors for inclusion in the National Recording Registry based on its cultural, artistic or historical significance. The Doors remains the band's best-selling studio album, with sales of over 13 million copies, as of 2015.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,8 +60,6 @@ The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Doors_(album) |
-| Apple Music Summary | The Doors were among the most important rock 'n' roll bands of the '60s and have transcended into the 21st century with their magic and mystique intact. In an era when bands are often imitated, The Doors stand alone. They sound like no one else. In just five short years, 1967 to 1971, they released six studio albums with Jim Morrison that went beyond rock 'n' roll to touch on blues, folk, flamenco, crooner ballads, pop hits, and poetry. Morrison led with lyrics that served as love songs and existential ruminations. A number of big hits—"Light My Fire," "People Are Strange," "Hello, I Love You," "Touch Me," "Love Her Madly"—established The Doors' popular legacy, but deeper album cuts such as "The Changeling," "Peace Frog," "Waiting for the Sun," and "The Crystal Ship" illuminate the peerless musicianship of keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore, who made The Doors a <i>band</i> in the truest sense of the word. |
-    | Release Year   | 2009                                   |
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122-79865-0 |

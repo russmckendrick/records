@@ -47,9 +47,15 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 <!-- section break -->
 
 The most jarring part about listening to the London band black midi isn’t how much musical ground they cover—post-punk, progressive rock, breakneck jazz, cabaret—but the fact that they cover it all at once. A quasi-concept album that seems to have something to do with war (“Welcome to Hell”, “27 Questions”), or at least the violence men do more generally (“Sugar/Tzu”, “Dangerous Liaisons”), <i>Hellfire</i> isn’t an easy listen. But it’s funny (main character: Tristan Bongo), beautiful, at least in a garish, misanthropic way (the Neil Diamond bombast of “The Defence”), and so obviously playful in its intelligence that you just want to let it run over you. The first listen feels like being yelled at in a language you don’t understand. By the third, you’ll be yelling with them.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hellfire/1613170781" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hellfire/1613170781" >}}<br>
+
+
 ## Videos
 ### black midi - Welcome To Hell
 {{< youtube id="Efmq_uXt1Rk" title="black midi - Welcome To Hell" >}}<br>
@@ -68,8 +74,6 @@ The most jarring part about listening to the London band black midi isn’t how 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hellfire_(Black_Midi_album) |
-| Wikipedia Summary | Hellfire is the third studio album by English rock band Black Midi, released on 15 July 2022 on Rough Trade Records. The band recorded the majority of the album over a thirteen-day period with producer Marta Salogni, who had previously worked with the band in recording the song "John L" from their second studio album.<br>Released to critical acclaim, the album was preceded by the singles "Welcome to Hell", "Eat Men Eat", and “Sugar/Tzu”, and entered the UK Albums Chart at #22, becoming the band's highest charting album to date. During the writing and recording process, the band experimented with first-person narratives, and expanded upon their sound with the introduction of cabaret, country, flamenco, and show tune influences. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album (Red), Flexi-disc 7" 45 RPM Single Sided (Orange), All Media Limited Edition Special Edition |
 | Label          | Rough Trade |
 | Catalog Number | RT0321LPE |

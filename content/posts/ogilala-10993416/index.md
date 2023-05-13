@@ -39,7 +39,10 @@ styles: ["Acoustic", "Folk"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### William Patrick Corgan - Aeronaut
 {{< youtube id="7PdZXNET88A" title="William Patrick Corgan - Aeronaut" >}}<br>
@@ -54,7 +57,6 @@ styles: ["Acoustic", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | BMG |
 | Catalog Number | 538321031 |

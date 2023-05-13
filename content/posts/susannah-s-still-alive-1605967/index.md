@@ -28,7 +28,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Cardiacs - Suzannah's Still Alive
 {{< youtube id="8YMs5QwHmMc" title="Cardiacs - Suzannah's Still Alive" >}}<br>
@@ -42,7 +45,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1988                                   |
 | Format         | Vinyl 7" 45 RPM Single Stereo |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH 009 |

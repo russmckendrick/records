@@ -39,9 +39,12 @@ styles: ["Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hip-to-the-jag/1504344922" >}}
+{{< applemusic url="https://music.apple.com/gb/album/hip-to-the-jag/1504344922" >}}<br>
+
+
 ## Videos
 ### Kavus Torabi - Cemetery Of Light
 {{< youtube id="u_YbgWDWtbY" title="Kavus Torabi - Cemetery Of Light" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Believers Roast |
 | Catalog Number | BR23 |

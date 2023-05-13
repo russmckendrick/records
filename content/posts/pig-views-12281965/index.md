@@ -41,9 +41,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pig-views/1561978428" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pig-views/1561978428" >}}<br>
+
+
 ## Videos
 ### Regal Worm - Pig Views (2018) (Full Album)
 {{< youtube id="zFJmtIe8ubo" title="Regal Worm - Pig Views (2018) (Full Album)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram, Pink) |
 | Label          | Uranium Club |
 | Catalog Number | UCV92002 |

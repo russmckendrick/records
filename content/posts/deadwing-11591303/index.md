@@ -48,9 +48,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/deadwing/1581676721" >}}
+{{< applemusic url="https://music.apple.com/gb/album/deadwing/1581676721" >}}<br>
+
+
 ## Videos
 ### Deadwing
 {{< youtube id="gZDE8UGVQyU" title="Deadwing" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE982 |

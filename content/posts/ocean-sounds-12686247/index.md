@@ -42,9 +42,12 @@ styles: ["Alternative Rock", "Neo-Classical"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ocean-sounds/1424578057" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ocean-sounds/1424578057" >}}<br>
+
+
 ## Videos
 ### iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)
 {{< youtube id="TmNR7BfO2KE" title="iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Alternative Rock", "Neo-Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (180 gr.) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE984 |

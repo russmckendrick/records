@@ -43,9 +43,12 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-demon-joke/1049159070" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-demon-joke/1049159070" >}}<br>
+
+
 ## Videos
 ### VENNART - Operate (OFFICIAL VIDEO)
 {{< youtube id="Xgc2B6wYilI" title="VENNART - Operate (OFFICIAL VIDEO)" >}}<br>
@@ -60,7 +63,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album (180g, gatefold), CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 037 |

@@ -52,9 +52,12 @@ styles: ["Acoustic"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/920706074" >}}
+{{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/920706074" >}}<br>
+
+
 ## Videos
 ### Status Quo-Stripped Bare [full album]
 {{< youtube id="l9a1KiMzhUs" title="Status Quo-Stripped Bare [full album]" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Ear Music |
 | Catalog Number | 0209848ERE |

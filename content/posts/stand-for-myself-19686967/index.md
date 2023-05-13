@@ -61,9 +61,15 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 “‘Be My Friend’ was one of the songs to arrive in my mind almost complete. That was a real moment, when I was able to come up with something that felt really real, really true, really about the time I was in, but also about my journey. It was as much about allyship [as] it was the idea of what I needed to get to this point in the first place. I thought it was important to call Brandi to sing with me: She'd had the same conversation with me pertaining to queerness, and the pursuit of not being a token, and to manifest your most true self in your art so you don't feel like you're apologising for yourself or hiding yourself in your art.”<br />
 <b>“Stand for Myself”</b>
 “The song ‘Stand for Myself’ is the ultimate conclusion of a concept. It starts with referencing the 'Barely Alive' version of myself: 'I understand why you're essentially burying your head in the sand: You want to feel nothing.' But also, it can speak on people that are experiencing white fragility. It's like, I get it, it makes you feel uncomfortable. You don't want to have to feel empathy for people that aren't like you, because it feels like work. But then it's saying, 'I was like that, I was an absolute parrot, and I didn't have any sets of perspective of what I might stand to gain from not being such an anxious twonk.' That's really where we get to: But I did do it, because I was left without choice. Now I feel like I'm actually alive, and it's really great. You can have this, too, if you're actually willing to do the work—go and take the implicit test, find out what your biases are, work on them, feel things for other people that aren't clones of you—and that's really everything. When someone goes, 'Hey, this album should be called <i>Don't Mess With Yola!</i>,' I'm like, you've missed the point of this record. It's not a <i>don't mess with</i>. It's not <i>I'm a strong Black woman</i>. It's the deserving of softness and a measure of kindness and of support and friendship and love. And that's really all encapsulated in 'Stand for Myself'.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stand-for-myself/1561240873" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stand-for-myself/1561240873" >}}<br>
+
+
 ## Videos
 ### Yola - Diamond Studded Shoes [Official Music Video]
 {{< youtube id="GfC_n8efpiM" title="Yola - Diamond Studded Shoes [Official Music Video]" >}}<br>
@@ -78,8 +84,6 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stand_for_Myself |
-| Wikipedia Summary | Stand for Myself is the second studio album by English singer and songwriter Yola. It was released on 30 July 2021, through Easy Eye Sound and distributed by Concord Records. The album debuted at number 196 on the Billboard 200 chart and at number 46 on the UK Albums Chart chart, being her first entry on both charts. The album was nominated for Best Americana Album at the 2022 Grammy Awards. |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Stereo (Purple Opaque) |
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-0081 |

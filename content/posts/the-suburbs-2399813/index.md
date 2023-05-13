@@ -49,9 +49,15 @@ styles: ["Indie Rock"]
 The Suburbs is the third studio album by Canadian indie rock band Arcade Fire, released on August 2, 2010. Coinciding with its announcement, the band released a limited edition 12-inch single containing the title track and "Month of May". The album debuted at No. 1 on the Irish Albums Chart, the UK Albums Chart, the US Billboard 200 chart, and the Canadian Albums Chart. It won Album of the Year at the 2011 Grammy Awards, Best International Album at the 2011 BRIT Awards, Album of the Year at the 2011 Juno Awards, and the 2011 Polaris Music Prize for best Canadian album. Two weeks after winning Grammy's Album of the Year, the album jumped from No. 52 to No. 12 on the Billboard 200, the album's highest ranking since August 2010.Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (everywhere except the U.S. and Canada). The American and Canadian versions were released on August 2, 2011, to coincide with the original album's anniversary. The new version included two brand new tracks recorded during The Suburbs album sessions ("Culture War" and "Speaking in Tongues", the latter featuring David Byrne), an extended version of album track "Wasted Hours", Spike Jonze's short film, Scenes from the Suburbs, and an 80-page booklet as well as other exclusive content.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-suburbs/1252757950" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-suburbs/1252757950" >}}<br>
+
+
 ## Videos
 ### Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)
 {{< youtube id="NuSbELCNloc" title="Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)" >}}<br>
@@ -80,8 +86,6 @@ The Suburbs is the third studio album by Canadian indie rock band Arcade Fire, r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Suburbs |
-| Apple Music Summary | “Our heads are just houses, without enough windows,” trills Régine Chassagne aboard the grand, orchestral sweep of “Half Light I.” It’s a line that typifies the poetic cynicism—and evocative suburban imagery—of Arcade Fire’s expansive third record. Dripping conflicted nostalgia (“Rococo”), adventurous thematic echoes (“The Suburbs” and “Suburban War”), and throbbing, piano-driven grandeur (“We Used To Wait”), <i>The Suburbs</i> both despairs and idealizes, cultivating a masterpiece from disenchantment with the information age. |
-    | Release Year   | 2010                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | City Slang |
 | Catalog Number | 2743427 |

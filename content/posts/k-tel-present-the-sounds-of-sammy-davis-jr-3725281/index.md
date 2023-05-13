@@ -45,7 +45,10 @@ styles: []
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Sammy Davis What Kind of Fool Am I
 {{< youtube id="7Jg7wFHWXT4" title="Sammy Davis What Kind of Fool Am I" >}}<br>
@@ -61,7 +64,6 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 0                                   |
 | Format         | Vinyl LP Compilation |
 | Label          | K-Tel |
 | Catalog Number | NE 704 |

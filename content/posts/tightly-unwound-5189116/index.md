@@ -42,9 +42,14 @@ styles: ["Alternative Rock", "Prog Rock"]
 Tightly Unwound (2008) is the seventh studio album by The Pineapple Thief, and their first album released by Kscope. All previous Pineapple Thief releases were published by Cyclops Records. Kscope dedicated a microsite to the album before its release, containing a preview of the album in audio streaming, a picture gallery, desktop wallpapers and audio samples as a source for remixes.
 Those who were signed to the  mailing list could get the acoustic version of "Shoot First" as a free-download track. On 28 July 2008 the band released Shoot First as a download EP.
 A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tightly-unwound/731043162" >}}
+{{< applemusic url="https://music.apple.com/gb/album/tightly-unwound/731043162" >}}<br>
+
+
 ## Videos
 ### The Pineapple Thief - Shoot First (from Tightly Unwound)
 {{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First (from Tightly Unwound)" >}}<br>
@@ -60,8 +65,6 @@ A video for the song, filmed by the acclaimed director Lasse Hoile (famous for h
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tightly_Unwound |
-| Wikipedia Summary | Tightly Unwound (2008) is the seventh studio album by The Pineapple Thief, and their first album released by Kscope. All previous Pineapple Thief releases were published by Cyclops Records. Kscope dedicated a microsite to the album before its release, containing a preview of the album in audio streaming, a picture gallery, desktop wallpapers and audio samples as a source for remixes.<br>Those who were signed to the  mailing list could get the acoustic version of "Shoot First" as a free-download track. On 28 July 2008 the band released Shoot First as a download EP.<br>A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album (Orange) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE852 |

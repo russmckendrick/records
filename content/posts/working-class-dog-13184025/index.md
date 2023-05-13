@@ -40,9 +40,14 @@ styles: []
 Working Class Dog is the fifth studio album by Australian rock musician Rick Springfield, released by RCA Records in 1981. The album was certified Platinum in the United States and eventually sold over three million US copies.  It produced Springfield's biggest career hit with the #1 million-selling song, "Jessie's Girl".  Springfield was awarded the 1982 Grammy Award for Best Rock Vocal Performance, Male.
 The album was re-released on CD in 2006 as a "25th anniversary edition" with three bonus tracks.
 "Love Is Alright Tonite" was used to comedic effect in the film Wet Hot American Summer.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/working-class-dog/270571529" >}}
+{{< applemusic url="https://music.apple.com/gb/album/working-class-dog/270571529" >}}<br>
+
+
 ## Videos
 ### Rick Springfield - Love Is Alright Tonite
 {{< youtube id="yWEzf-mska4" title="Rick Springfield - Love Is Alright Tonite" >}}<br>
@@ -61,8 +66,6 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Working_Class_Dog |
-| Wikipedia Summary | Working Class Dog is the fifth studio album by Australian rock musician Rick Springfield, released by RCA Records in 1981. The album was certified Platinum in the United States and eventually sold over three million US copies.  It produced Springfield's biggest career hit with the #1 million-selling song, "Jessie's Girl".  Springfield was awarded the 1982 Grammy Award for Best Rock Vocal Performance, Male.<br>The album was re-released on CD in 2006 as a "25th anniversary edition" with three bonus tracks.<br>"Love Is Alright Tonite" was used to comedic effect in the film Wet Hot American Summer. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Black & White Swirled) |
 | Label          | RCA Victor |
 | Catalog Number | MOVLP1655 |

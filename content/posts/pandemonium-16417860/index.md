@@ -46,9 +46,14 @@ styles: ["Industrial", "Heavy Metal"]
 <!-- section break -->
 
 Pandemonium is the ninth studio album by English post-punk band Killing Joke, released on 2 August 1994 by Butterfly Records. The album marked Killing Joke's return after a four-year hiatus, the longest the band had taken since it was founded. It also featured the return of founding member Youth, who replaced Paul Raven on bass.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pandemonium/1679617786" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pandemonium/1679617786" >}}<br>
+
+
 ## Videos
 ### Killing Joke - Pandemonium
 {{< youtube id="skUUVejxDZc" title="Killing Joke - Pandemonium" >}}<br>
@@ -71,8 +76,6 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pandemonium_(Killing_Joke_album) |
-| Wikipedia Summary | Pandemonium is the ninth studio album by English post-punk band Killing Joke, released on 2 August 1994 by Butterfly Records. The album marked Killing Joke's return after a four-year hiatus, the longest the band had taken since it was founded. It also featured the return of founding member Youth, who replaced Paul Raven on bass. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP (Blue Transparent), Vinyl LP (Clear), All Media Album Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE511303 |

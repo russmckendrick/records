@@ -27,9 +27,12 @@ styles: ["Electro", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ep-one-ep/1105432622" >}}
+{{< applemusic url="https://music.apple.com/gb/album/ep-one-ep/1105432622" >}}<br>
+
+
 ## Videos
 ### Paul Draper - EP ONE (Full EP stream)
 {{< youtube id="T4R-y4AHIis" title="Paul Draper - EP ONE (Full EP stream)" >}}<br>
@@ -43,7 +46,6 @@ styles: ["Electro", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (White, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE927 |

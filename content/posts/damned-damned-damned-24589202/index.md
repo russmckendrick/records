@@ -44,9 +44,14 @@ styles: ["Punk"]
 <!-- section break -->
 
 <i>The Beautiful & Damned</i> finds the Oakland rapper striving for balance in a rapidly changing world. G-Eazy examines cause and effect, angels and devils, late nights and blurry mornings with his low-key flow. Rearview glances are many, addressing addiction (“Sober”) and the ills of the world (“Love Is Gone”). Halsey assists on “Him & I,” which conjures up deep “’03 Bonnie & Clyde” vibes. Despite the dark outlook, he makes sure to celebrate the wins, jumping aboard a gold tank with Cardi B and A$AP Rocky on “No Limit,” a tribute to good times and the empire that Master P built. Most of all, G-Eazy puts his life under a microscope for all to see. You get a solid sense of his focus and growth as a pinpoint storyteller.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beautiful-damned/1308645364" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-beautiful-damned/1308645364" >}}<br>
+
+
 ## Videos
 ### I Fall (2017 - Remaster)
 {{< youtube id="kQTJ5jqGSpc" title="I Fall (2017 - Remaster)" >}}<br>
@@ -74,8 +79,6 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | <i>The Beautiful & Damned</i> finds the Oakland rapper striving for balance in a rapidly changing world. G-Eazy examines cause and effect, angels and devils, late nights and blurry mornings with his low-key flow. Rearview glances are many, addressing addiction (“Sober”) and the ills of the world (“Love Is Gone”). Halsey assists on “Him & I,” which conjures up deep “’03 Bonnie & Clyde” vibes. Despite the dark outlook, he makes sure to celebrate the wins, jumping aboard a gold tank with Cardi B and A$AP Rocky on “No Limit,” a tribute to good times and the empire that Master P built. Most of all, G-Eazy puts his life under a microscope for all to see. You get a solid sense of his focus and growth as a pinpoint storyteller. |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow) |
 | Label          | BMG |
 | Catalog Number | BMGCAT705CLP |

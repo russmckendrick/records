@@ -38,9 +38,14 @@ styles: ["Punk", "Indie Rock"]
 <!-- section break -->
 
 Lick is the third album by The Lemonheads and the last to feature founding member Ben Deily. It was released in 1989 and was the group's last album before signing to major label Atlantic. A typo on the album itself erroneously states its release date as 1988. As with their first two albums, it was re-released as a CD in 1992, with two bonus tracks.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lick/595928526" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lick/595928526" >}}<br>
+
+
 ## Videos
 ### The Lemonheads   Lick Full Album
 {{< youtube id="Oyr-I8wU9kA" title="The Lemonheads   Lick Full Album" >}}<br>
@@ -66,8 +71,6 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lick_(album) |
-| Wikipedia Summary | Lick is the third album by The Lemonheads and the last to feature founding member Ben Deily. It was released in 1989 and was the group's last album before signing to major label Atlantic. A typo on the album itself erroneously states its release date as 1988. As with their first two albums, it was re-released as a CD in 1992, with two bonus tracks. |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album |
 | Label          | World Service |
 | Catalog Number | SERV 007 |

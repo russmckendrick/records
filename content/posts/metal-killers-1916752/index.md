@@ -36,9 +36,13 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}
+{{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Accept - Fast As A Shark
 {{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}<br>
@@ -50,7 +54,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1984                                   |
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Kastle Killers |
 | Catalog Number | KKLP 101 |

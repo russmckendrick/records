@@ -41,9 +41,14 @@ styles: ["Disco", "Pop Rock"]
 Prince is the second studio album by American musician Prince. It was released on October 19, 1979 by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-prince/175020481" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-prince/175020481" >}}<br>
+
+
 ## Videos
 ### Prince - Why You Wanna Treat Me So Bad? (Official Music Video)
 {{< youtube id="fPaYtVJouYA" title="Prince - Why You Wanna Treat Me So Bad? (Official Music Video)" >}}<br>
@@ -61,8 +66,6 @@ Prince is the second studio album by American musician Prince. It was released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prince_(album) |
-| Wikipedia Summary | Prince is the second studio album by American musician Prince. It was released on October 19, 1979 by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-49220-8 |

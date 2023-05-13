@@ -46,9 +46,15 @@ Live Through This was met with critical acclaim, and charted in nine countries b
 In critical circles, Live Through This is considered a contemporary classic, and was included in Rolling Stone's 2020 updated list of The 500 Greatest Albums of All Time at number 106. It has also been featured on the book 1001 Albums You Must Hear Before You Die and on NME's The 500 Greatest Albums of All Time list, where it ranked at the 84. As of 2010, it has sold over 1.6 million copies in the US.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-through-this/1445732603" >}}
+{{< applemusic url="https://music.apple.com/gb/album/live-through-this/1445732603" >}}<br>
+
+
 ## Videos
 ### Hole - Miss World (Official Video)
 {{< youtube id="mS1Ckczz0LQ" title="Hole - Miss World (Official Video)" >}}<br>
@@ -64,8 +70,6 @@ In critical circles, Live Through This is considered a contemporary classic, and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_Through_This |
-| Apple Music Summary | <i>Live Through This</i> is one of the best rock albums of the ’90s, full stop. Released at the height of the grunge boom, it mixes punk ferocity with catchy jangle-pop, and contains some of the most potent feminist lyrics to ever find their way onto the radio. "Miss World" smuggles its confrontational lines within easy-to-digest hooks, while the monster choruses and quiet-loud-explosive dynamics of "Violet" and "Doll Parts" established Courtney Love as a songwriting force to be reckoned with, drama be damned.  |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | DGC |
 | Catalog Number | 602547849670 |

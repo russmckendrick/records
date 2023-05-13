@@ -41,7 +41,10 @@ styles: ["Hard Rock", "Blues Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Led Zeppelin   When the Levee Breaks (music video)
 {{< youtube id="8j7oT2I8Nz8" title="Led Zeppelin   When the Levee Breaks (music video)" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Hard Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180g) |
 | Label          | Atlantic |
 | Catalog Number | 8122-79657-7 |

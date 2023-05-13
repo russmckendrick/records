@@ -51,9 +51,12 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/big-trouble-in-little-china-original-motion-picture/1502302598" >}}
+{{< applemusic url="https://music.apple.com/gb/album/big-trouble-in-little-china-original-motion-picture/1502302598" >}}<br>
+
+
 ## Videos
 ### Coup De Villes - Big Trouble In Little China (Film Version).wmv
 {{< youtube id="OfSjNPxNPDg" title="Coup De Villes - Big Trouble In Little China (Film Version).wmv" >}}<br>
@@ -75,7 +78,6 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Red With Light Yellow Splatter) |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-124 |

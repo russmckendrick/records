@@ -50,9 +50,14 @@ styles: ["Industrial"]
 <!-- section break -->
 
 Intruder is the nineteenth studio album by English musician Gary Numan, released on 21 May 2021 by BMG and The End. It entered UK Albums Chart at number two, on 28 May 2021.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/intruder/1544855563" >}}
+{{< applemusic url="https://music.apple.com/gb/album/intruder/1544855563" >}}<br>
+
+
 ## Videos
 ### Gary Numan - Intruder (Official Video)
 {{< youtube id="-RxebQuFgJY" title="Gary Numan - Intruder (Official Video)" >}}<br>
@@ -77,8 +82,6 @@ Intruder is the nineteenth studio album by English musician Gary Numan, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Intruder_(Gary_Numan_album) |
-| Wikipedia Summary | Intruder is the nineteenth studio album by English musician Gary Numan, released on 21 May 2021 by BMG and The End. It entered UK Albums Chart at number two, on 28 May 2021. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver ) |
 | Label          | BMG |
 | Catalog Number | 538658721 |

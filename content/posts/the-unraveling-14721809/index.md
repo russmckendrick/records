@@ -38,9 +38,15 @@ styles: ["Southern Rock", "Country Rock"]
 <!-- section break -->
 
 In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood and Mike Cooley expressed their concerns about the sharp political divides that cut across US racial and socioeconomic lines. Since then, those complex moral issues have only gotten worse—leaving the Southern rock band no other choice but to report back on what they’ve learned. Hood is responsible for the bulk of the songs: He speaks directly to his children on issues like gun violence (“Thoughts and Prayers”) and child separation federal policies (“Babies in Cages”), expressing regret over the mess they’ve inherited. Cooley is at his most serious-minded on the powerful “Grievance Merchants”, offering a pointed critique on the rise of white supremacist ideology. The melancholy, fiddle-laced “21st Century USA” continues the band’s MO of defending the working class, conjuring the image of an economically depressed rural county and the employees who deserve their fair share.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-unraveling/1487667655" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-unraveling/1487667655" >}}<br>
+
+
 ## Videos
 ### Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)
 {{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)" >}}<br>
@@ -53,8 +59,6 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Unraveling_(Drive-By_Truckers_album) |
-| Wikipedia Summary | The Unraveling is the twelfth studio album by American rock band Drive-By Truckers, released on January 31, 2020 on ATO Records. It was produced by long-time collaborator David Barbe, and recorded between 2017 and 2019.The album continues the themes of political angst from their previous album, American Band. In the album's liner notes, songwriter Patterson Hood summarized the album's inspiration, writing "21st Century USA, tanks rolling through the streets of Washington DC as our utopian dreams give way to a dystopian now. Nearly a generation since the towers fell and the shit came down. William Gibson's dark visions have come to pass, everyone is connected and more disconnected than ever. Our children have lock-down drills." Hood's songs "Thoughts and Prayers" and "Babies in Cages" take on the issues of gun violence and the Trump administration family separation policy directly, and rank among the most political the band has ever written. |
-    | Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | ATO Records |
 | Catalog Number | ATO0518LP |

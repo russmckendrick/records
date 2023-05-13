@@ -42,9 +42,14 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 Lost Themes II is the second studio album by American film director and composer John Carpenter. It was released on April 15, 2016, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lost-themes-ii/1079110381" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lost-themes-ii/1079110381" >}}<br>
+
+
 ## Videos
 ### John Carpenter Lost themes II - Distant Dream
 {{< youtube id="sAfVnzSVrBY" title="John Carpenter Lost themes II - Distant Dream" >}}<br>
@@ -69,8 +74,6 @@ Lost Themes II is the second studio album by American film director and composer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Themes_II |
-| Wikipedia Summary | Lost Themes II is the second studio album by American film director and composer John Carpenter. It was released on April 15, 2016, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR-150 |

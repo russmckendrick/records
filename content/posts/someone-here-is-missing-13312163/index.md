@@ -39,9 +39,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featuring cover art by Storm Thorgerson.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/someone-here-is-missing/369027963" >}}
+{{< applemusic url="https://music.apple.com/gb/album/someone-here-is-missing/369027963" >}}<br>
+
+
 ## Videos
 ### The Pineapple Thief - Someone Here is Missing
 {{< youtube id="LXR1pQ-HuvI" title="The Pineapple Thief - Someone Here is Missing" >}}<br>
@@ -54,8 +59,6 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Someone_Here_Is_Missing |
-| Wikipedia Summary | Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featuring cover art by Storm Thorgerson. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Remastered Repress |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1028 |

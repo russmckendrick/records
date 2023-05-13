@@ -65,9 +65,15 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 “I wrote that riff ages and ages ago, around the time I first heard <i>World of Echo</i> by Arthur Russell, which is possibly my favourite record of all time. I was playing around with the same sort of delay effects that he was using, trying to play some of his songs on guitar, sort of translate them from the cello. We didn't play it for ages and ages, and then just before we recorded this album, we had the idea to resurrect it and put it together with an old story that I had written. It’s a love story—love and loss and all that's in between. It just made sense for it to be something quieter, calmer. And because it was arranged most recently, it definitely gives the most glimpse of our new material.”<br />
 <b>Opus</b>
 “‘Opus’ and ‘Instrumental’ were written on the same day. We were in a room together without any music prepared, for the first time in a few months, and we were all feeling quite down. It was a highly emotional time, and I think the music probably equal parts benefits and suffers from that. It's rich with a fair amount of typical teenage angst and frustration, even though we were sort of past our teens by that point. I mean, it felt very strange but very, very good to be playing together again. It took us a little while to realise that we might actually be able to do it. It was just a desire to get going and to make something new for ourselves, to build a new relationship musically with each other and the world, to just get out there and play a show. We didn't really have our sights set particularly high—we just really wanted to play live at the pub.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/for-the-first-time/1533822061" >}}
+{{< applemusic url="https://music.apple.com/gb/album/for-the-first-time/1533822061" >}}<br>
+
+
 ## Videos
 ### Black Country New Road - 'Instrumental' (Official Visualizer)
 {{< youtube id="95k_xxZvMIc" title="Black Country New Road - 'Instrumental' (Official Visualizer)" >}}<br>
@@ -86,8 +92,6 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/For_the_First_Time_(Black_Country,_New_Road_album) |
-| Wikipedia Summary | For the First Time (stylized in sentence case as For the first time) is the debut studio album by British rock band Black Country, New Road, released on 5 February 2021 through Ninja Tune. The album was preceded by the release of two singles, "Science Fair" and "Track X", and also includes re-recorded versions of their 2019 debut singles "Athens, France" and "Sunglasses". Known for experimenting with post-punk, klezmer, free jazz, and math rock, the band showcased a clear preference for atmospherics over post-punk on For the First Time.The album received widespread acclaim from music critics for its experimental sound and poetic lyricism. It was nominated for the Mercury Prize in 2021. It was successful commercially, debuting at No. 4 on the UK Albums Chart. |
-    | Release Year   | 2021                                   |
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN269 |

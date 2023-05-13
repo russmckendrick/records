@@ -42,9 +42,14 @@ styles: ["Indie Rock", "Britpop"]
 <!-- section break -->
 
 The Modern Age is the fourth studio album by English Britpop band Sleeper. The album was released in the UK on 22 March 2019, and peaked at number 18 on the UK Album Chart. Three singles were released from this album, "Look At You Now", "The Sun Also Rises" and "More Than I Do", all of which failed to chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-modern-age/1445590486" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-modern-age/1445590486" >}}<br>
+
+
 ## Videos
 ### SLEEPER 'THE SUN ALSO RISES' Official video
 {{< youtube id="czLvTGLcyHE" title="SLEEPER 'THE SUN ALSO RISES' Official video" >}}<br>
@@ -59,8 +64,6 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Modern_Age_(album) |
-| Wikipedia Summary | The Modern Age is the fourth studio album by English Britpop band Sleeper. The album was released in the UK on 22 March 2019, and peaked at number 18 on the UK Album Chart. Three singles were released from this album, "Look At You Now", "The Sun Also Rises" and "More Than I Do", all of which failed to chart. |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Cream) |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP19LPC2 |

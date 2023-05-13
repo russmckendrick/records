@@ -47,9 +47,12 @@ styles: ["Art Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/motorcade-amnesiacs-deluxe-edition/990339960" >}}
+{{< applemusic url="https://music.apple.com/gb/album/motorcade-amnesiacs-deluxe-edition/990339960" >}}<br>
+
+
 ## Videos
 ### Candle Book and Bell
 {{< youtube id="lRlpH34urEI" title="Candle Book and Bell" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE886 |

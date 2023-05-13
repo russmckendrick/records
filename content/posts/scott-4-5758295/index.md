@@ -39,9 +39,12 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scott-4/1443533039" >}}
+{{< applemusic url="https://music.apple.com/gb/album/scott-4/1443533039" >}}<br>
+
+
 ## Videos
 ### Scott Walker - Boy Child
 {{< youtube id="THPVTsenZxs" title="Scott Walker - Boy Child" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 3728852 |

@@ -58,9 +58,14 @@ styles: ["Prog Rock"]
 Distant Satellites (stylised as distant satellites) is the tenth studio album by the British rock band Anathema. It was released in June 2014 via Kscope and reached #33 in the UK album charts.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/distant-satellites-tour-edition/1030782699" >}}
+{{< applemusic url="https://music.apple.com/gb/album/distant-satellites-tour-edition/1030782699" >}}<br>
+
+
 ## Videos
 ### Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)
 {{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)" >}}<br>
@@ -76,8 +81,6 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Distant_Satellites |
-| Wikipedia Summary | Distant Satellites (stylised as distant satellites) is the tenth studio album by the British rock band Anathema. It was released in June 2014 via Kscope and reached #33 in the UK album charts.<br><br> |
-| Release Year   | 2014                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE866 |

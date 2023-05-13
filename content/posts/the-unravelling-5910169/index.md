@@ -39,9 +39,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-unravelling/1049125354" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-unravelling/1049125354" >}}<br>
+
+
 ## Videos
 ### Knifeworld- Don't Land On Me
 {{< youtube id="8PX5KKQqN-c" title="Knifeworld- Don't Land On Me" >}}<br>
@@ -53,7 +56,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2014                                   |
 | Format         | Vinyl LP Album (180 Gram), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 402 |

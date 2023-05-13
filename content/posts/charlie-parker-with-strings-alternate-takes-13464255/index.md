@@ -42,7 +42,10 @@ styles: ["Bop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Just Friends (Take 2 / Alternate Take)
 {{< youtube id="KBZlk32eCz0" title="Just Friends (Take 2 / Alternate Take)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Bop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Blue) |
 | Label          | Verve Records |
 | Catalog Number | B0029671-01 |

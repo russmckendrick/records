@@ -36,9 +36,12 @@ styles: ["Space Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/shimmer-into-nature/1423203880" >}}
+{{< applemusic url="https://music.apple.com/gb/album/shimmer-into-nature/1423203880" >}}<br>
+
+
 ## Videos
 ### Glass Staircase
 {{< youtube id="9v0FLIFgrMA" title="Glass Staircase" >}}<br>
@@ -55,7 +58,6 @@ styles: ["Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1004 |

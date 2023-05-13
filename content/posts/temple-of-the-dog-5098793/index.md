@@ -43,9 +43,14 @@ styles: ["Grunge", "Alternative Rock"]
 <!-- section break -->
 
 Temple of the Dog is the only album by the American rock band Temple of the Dog, released on April 16, 1991, through A&M Records. It is a tribute to Andrew Wood, the former lead singer of Malfunkshun and Mother Love Bone, who died on March 19, 1990, of a heroin overdose. The album has been certified platinum by the RIAA in the United States.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog/1440657497" >}}
+{{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog/1440657497" >}}<br>
+
+
 ## Videos
 ### Temple Of The Dog - Hunger Strike
 {{< youtube id="VUb450Alpps" title="Temple Of The Dog - Hunger Strike" >}}<br>
@@ -58,8 +63,6 @@ Temple of the Dog is the only album by the American rock band Temple of the Dog,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Temple_of_the_Dog_(album) |
-| Wikipedia Summary | Temple of the Dog is the only album by the American rock band Temple of the Dog, released on April 16, 1991, through A&M Records. It is a tribute to Andrew Wood, the former lead singer of Malfunkshun and Mother Love Bone, who died on March 19, 1990, of a heroin overdose. The album has been certified platinum by the RIAA in the United States. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP956 |

@@ -42,9 +42,14 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 <!-- section break -->
 
 Lighthouse is the third studio album by Russian chamber progressive band iamthemorning. It was released on 1 April 2016 through Kscope. It features several guest musicians, including Gavin Harrison and Colin Edwin from Porcupine Tree, as well as Mariusz Duda from Riverside.The album was primarily recorded at Murder Mile Studios in London and Mosfilm Studios in Moscow, mixed at Murder Mile Studio, mastered by Marcel van Limbeek and Neil Pickles at Reveal Sound Studios in London and produced by iamthemorning. The album was premiered by AllMusic on 30 March 2016.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lighthouse/1086183990" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lighthouse/1086183990" >}}<br>
+
+
 ## Videos
 ### iamthemorning 20160227 live streaming recording
 {{< youtube id="QJnLS4tsvX8" title="iamthemorning 20160227 live streaming recording" >}}<br>
@@ -57,8 +62,6 @@ Lighthouse is the third studio album by Russian chamber progressive band iamthem
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lighthouse_(iamthemorning_album) |
-| Wikipedia Summary | Lighthouse is the third studio album by Russian chamber progressive band iamthemorning. It was released on 1 April 2016 through Kscope. It features several guest musicians, including Gavin Harrison and Colin Edwin from Porcupine Tree, as well as Mariusz Duda from Riverside.The album was primarily recorded at Murder Mile Studios in London and Mosfilm Studios in Moscow, mixed at Murder Mile Studio, mastered by Marcel van Limbeek and Neil Pickles at Reveal Sound Studios in London and produced by iamthemorning. The album was premiered by AllMusic on 30 March 2016. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | kscope919 |

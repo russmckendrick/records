@@ -47,9 +47,14 @@ styles: []
 
 IV is the fourth studio album from Canadian jazz instrumental hip hop band BadBadNotGood. It was released on July 8, 2016. It features collaborations with Future Islands frontman Sam Herring, saxophonist Colin Stetson, Haitian-Canadian musician Kaytranada, American hip hop artist Mick Jenkins, and Canadian singer-songwriter Charlotte Day Wilson.
 It is also the band's first album to feature longtime touring partner and collaborator Leland Whitty as a formal member of the band.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/iv/1608122086" >}}
+{{< applemusic url="https://music.apple.com/gb/album/iv/1608122086" >}}<br>
+
+
 ## Videos
 ### BADBADNOTGOOD - 'IV' LP (Full Album Stream)
 {{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}<br>
@@ -69,8 +74,6 @@ It is also the band's first album to feature longtime touring partner and collab
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/IV_(BadBadNotGood_album) |
-| Wikipedia Summary | IV is the fourth studio album from Canadian jazz instrumental hip hop band BadBadNotGood. It was released on July 8, 2016. It features collaborations with Future Islands frontman Sam Herring, saxophonist Colin Stetson, Haitian-Canadian musician Kaytranada, American hip hop artist Mick Jenkins, and Canadian singer-songwriter Charlotte Day Wilson.<br>It is also the band's first album to feature longtime touring partner and collaborator Leland Whitty as a formal member of the band. |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Innovative Leisure Records |
 | Catalog Number | IL 2034 |

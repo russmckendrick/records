@@ -42,9 +42,12 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/east-of-the-sun-west-of-the-moon/378016648" >}}
+{{< applemusic url="https://music.apple.com/gb/album/east-of-the-sun-west-of-the-moon/378016648" >}}<br>
+
+
 ## Videos
 ### A-HA - Cold River
 {{< youtube id="hdoeQHzmVsg" title="A-HA - Cold River" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue Stereo (Purple Velvet, 30th Anniversary Edition) |
 | Label          | Warner Records |
 | Catalog Number | RCV1 26314 |

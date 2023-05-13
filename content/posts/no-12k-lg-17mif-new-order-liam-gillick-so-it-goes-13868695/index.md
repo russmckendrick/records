@@ -58,9 +58,12 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-live-at-mif/1462511115" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-live-at-mif/1462511115" >}}<br>
+
+
 ## Videos
 ### ∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So it goes.. Apri 17 2020 uncut Livestream
 {{< youtube id="yyJwxNJ7ZdQ" title="∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So it goes.. Apri 17 2020 uncut Livestream" >}}<br>
@@ -72,7 +75,6 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP (Green), Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition |
 | Label          | Mute |
 | Catalog Number | STUMM450 |

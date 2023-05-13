@@ -42,9 +42,15 @@ styles: ["Synth-pop"]
 <!-- section break -->
 
 With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Broken Frame</i> is Depeche Mode exploring their sound with impressive assurance. “The Meaning of Love” and “A Photograph of You” maintain the energy and infectiousness of <i>Speak & Spell</i>, but “See You” leads its pop hook down a dark alley of a heartbreak. “Satellite” investigates electro-dub and, at the album’s most ambitious, “Shouldn’t Have Done That” examines the evolution of dictators with unsettling harmonies and marching jackboots.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-broken-frame-deluxe/665404834" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-broken-frame-deluxe/665404834" >}}<br>
+
+
 
 
 ## Release Images
@@ -54,8 +60,6 @@ With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Bro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Broken_Frame |
-| Wikipedia Summary | A Broken Frame is the second studio album by English electronic music band Depeche Mode, released on 27 September 1982 by Mute Records. The album was written entirely by Martin Gore and was recorded as a trio after the departure of Vince Clarke, who had left and formed Yazoo with singer Alison Moyet. Alan Wilder was part of a second band tour in the United Kingdom prior to the release of A Broken Frame, but had not officially joined yet and does not appear on the album.<br><br> |
-    | Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Mute |
 | Catalog Number | STUMM9 |

@@ -54,9 +54,14 @@ Greatest Hits is a compilation album by Steely Dan, released in 1978. It has sol
 The double album includes tracks from the band's first six studio albums and includes a previously unreleased song, "Here at the Western World", which was recorded during the sessions for The Royal Scam but not included on that album.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-steely-dan/1440803723" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-steely-dan/1440803723" >}}<br>
+
+
 ## Videos
 ### RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan
 {{< youtube id="UfZWp-hGCdA" title="RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan" >}}<br>
@@ -75,8 +80,6 @@ The double album includes tracks from the band's first six studio albums and inc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Steely_Dan_album) |
-| Wikipedia Summary | Greatest Hits is a compilation album by Steely Dan, released in 1978. It has sold over two million units in the US.<br>The double album includes tracks from the band's first six studio albums and includes a previously unreleased song, "Here at the Western World", which was recorded during the sessions for The Royal Scam but not included on that album.<br><br> |
-| Release Year   | 1978                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | ABC Records |
 | Catalog Number | ABCD 616 |

@@ -49,9 +49,12 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/so-hows-your-girl/1607689963" >}}
+{{< applemusic url="https://music.apple.com/gb/album/so-hows-your-girl/1607689963" >}}<br>
+
+
 ## Videos
 ### Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]
 {{< youtube id="1w_HupwkGbE" title="Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]" >}}<br>
@@ -79,7 +82,6 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Record Store Day Reissue |
 | Label          | Tommy Boy |
 | Catalog Number | TB-1258-1 |

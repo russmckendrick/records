@@ -37,9 +37,12 @@ styles: ["Math Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/on-the-wrong-side-of-history-ep/1618095681" >}}
+{{< applemusic url="https://music.apple.com/gb/album/on-the-wrong-side-of-history-ep/1618095681" >}}<br>
+
+
 ## Videos
 ### Cleft - Wrong [Full Album]
 {{< youtube id="RvnQpW_Vw6E" title="Cleft - Wrong [Full Album]" >}}<br>
@@ -51,7 +54,6 @@ styles: ["Math Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl LP Album Stereo (Blue Splatter) |
 | Label          | Mega Face Records |
 | Catalog Number | MFR06 |

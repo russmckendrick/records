@@ -54,9 +54,14 @@ styles: ["Synth-pop", "New Wave"]
 Exorcising Ghosts is a compilation album by the British band Japan, released in November 1984 by record label Virgin.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exorcising-ghosts/724314377" >}}
+{{< applemusic url="https://music.apple.com/gb/album/exorcising-ghosts/724314377" >}}<br>
+
+
 ## Videos
 ### Quiet Life
 {{< youtube id="WJGzrTfVwVk" title="Quiet Life" >}}<br>
@@ -84,8 +89,6 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exorcising_Ghosts |
-| Wikipedia Summary | Exorcising Ghosts is a compilation album by the British band Japan, released in November 1984 by record label Virgin.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Compilation Reissue (Half Speed Mastered) |
 | Label          | Virgin EMI Records |
 | Catalog Number | ARHSDLP009 |

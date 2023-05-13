@@ -73,9 +73,12 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570363167" >}}
+{{< applemusic url="https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570363167" >}}<br>
+
+
 
 
 ## Release Images
@@ -84,7 +87,6 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | All Media Compilation, Vinyl LP Album Compilation Reissue Stereo, Vinyl LP Album Compilation Reissue Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 00602508802102 |

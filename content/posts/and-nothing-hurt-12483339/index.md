@@ -42,9 +42,15 @@ styles: ["Psychedelic Rock"]
 
 The title of Spiritualized’s eighth album is the back half of a line from Kurt Vonnegut’s <i>Slaughterhouse-Five</i>: “Everything was beautiful, and nothing hurt.” In a tweet, Pierce explained that starting with <i>And</i> “presupposes that something, or everything, has happened before.” After almost four decades making music—often in response to personal crises including heartbreak, addiction, disease, and near-death experiences—everything <i>has</i> happened to Pierce before. <i>And Nothing Hurt</i> was born from a different kind of upheaval.<br />
 In the flush ’90s, labels could let a band like Spiritualized splurge on ample studio time, 120 live musicians for a single track, and entire choirs. No longer afforded those luxuries, Pierce learned to use Pro Tools, painstakingly sampling sounds from classical recordings, and managed, with just a handful of backing musicians, to create an album every bit as gargantuan and emotional as ever. Pierce deftly moves between intimacy and maximalism, combining shoegaze, free jazz, somber ballads, lavish orchestration, and synths in ways that shouldn’t work, but do. “Let’s Dance” begins wistful and dainty, gradually building into a wild, brassy carnival. Likewise, the joyful “On the Sunshine” morphs from warm flutes into a cacophony of squealing horns and ecstatic jazz. <i>And Nothing Hurts</i> is a profoundly self-aware album acknowledging age, loss, and mortality. On “The Prize,” Pierce sings, “Gonna be shooting like a star across the sky/Gonna burn brightly for a while/Then you’re gone.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/and-nothing-hurt/1391135207" >}}
+{{< applemusic url="https://music.apple.com/gb/album/and-nothing-hurt/1391135207" >}}<br>
+
+
 ## Videos
 ### Spiritualized - And Nothing Hurt Full (Album Stream)
 {{< youtube id="ydrvW4Sw4QA" title="Spiritualized - And Nothing Hurt Full (Album Stream)" >}}<br>
@@ -57,8 +63,6 @@ In the flush ’90s, labels could let a band like Spiritualized splurge on ample
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/And_Nothing_Hurt |
-| Wikipedia Summary | And Nothing Hurt is the eighth studio album by Spiritualized. The album was released on 7 September 2018 through Fat Possum Records in the United States and Bella Union in the United Kingdom, and is the band's first album in six years since 2012's Sweet Heart Sweet Light. The album was announced on 11 June 2018, along with the release of the album's first singles, "I'm Your Man" and "A Perfect Miracle". The album was produced by Jason Pierce.Everything Was Beautiful, the band's ninth studio album released in 2022, is intended to be a companion piece to And Nothing Hurt and was created from the same demo sessions as that album. When both album titles are combined, they form the quote "Everything Was Beautiful and Nothing Hurt", taken from the 1969 novel Slaughterhouse-Five by Kurt Vonnegut. |
-    | Release Year   | 2018                                   |
 | Format         | Vinyl LP Album (White) |
 | Label          | Bella Union |
 | Catalog Number | BELLAVI800HZ |

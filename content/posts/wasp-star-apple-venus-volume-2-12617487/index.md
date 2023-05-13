@@ -43,7 +43,12 @@ styles: []
 <!-- section break -->
 
 Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English rock band XTC, released 23 May 2000 on Cooking Vinyl/Idea Records. Defined by bandmember Andy Partridge as the "eclectric" counterpart to 1999's Apple Venus Volume 1, it consists of rock-based material largely written between 1994 and 1996. Wasp Star reached number 40 on the UK Albums Chart. In 2002, the group released an instrumental version of the album entitled Waspstrumental. XTC dissolved in 2006, leaving Wasp Star their last studio album to date.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2
 {{< youtube id="g1I4AJJZ-1w" title="XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2" >}}<br>
@@ -68,8 +73,6 @@ Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wasp_Star_(Apple_Venus_Volume_2) |
-| Wikipedia Summary | Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English rock band XTC, released 23 May 2000 on Cooking Vinyl/Idea Records. Defined by bandmember Andy Partridge as the "eclectric" counterpart to 1999's Apple Venus Volume 1, it consists of rock-based material largely written between 1994 and 1996. Wasp Star reached number 40 on the UK Albums Chart. In 2002, the group released an instrumental version of the album entitled Waspstrumental. XTC dissolved in 2006, leaving Wasp Star their last studio album to date. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue (200 gram) |
 | Label          | Ape House |
 | Catalog Number | APELP119 |

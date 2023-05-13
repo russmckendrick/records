@@ -120,9 +120,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots-20th-anniversary/1650861915" >}}
+{{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots-20th-anniversary/1650861915" >}}<br>
+
+
 ## Videos
 ### The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]
 {{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]" >}}<br>
@@ -134,7 +137,6 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Box Set Deluxe Edition, Vinyl LP Album Reissue, Vinyl 4× LP Compilation |
 | Label          | Warner Records |
 | Catalog Number | 093624 873051 |

@@ -51,9 +51,14 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 <!-- section break -->
 
 Pink Floyd’s remarkable, unparalleled career is given a single album overview. Stretching back to the Syd Barrett era for one song, the early, pre-album single “See Emily Play,” <i>A Foot in the Door</i> then fast-forwards to the heart of the group’s legacy with classics from every era of the band’s successes. “Money” and “Another Brick in the Wall Part 2” showcase a group that bridged the commercial and underground world with singular, truly progressive music.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-foot-in-the-door-the-best-of-pink-floyd/700053987" >}}
+{{< applemusic url="https://music.apple.com/gb/album/a-foot-in-the-door-the-best-of-pink-floyd/700053987" >}}<br>
+
+
 
 
 ## Release Images
@@ -62,8 +67,6 @@ Pink Floyd’s remarkable, unparalleled career is given a single album overview.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Pink Floyd’s remarkable, unparalleled career is given a single album overview. Stretching back to the Syd Barrett era for one song, the early, pre-album single “See Emily Play,” <i>A Foot in the Door</i> then fast-forwards to the heart of the group’s legacy with classics from every era of the band’s successes. “Money” and “Another Brick in the Wall Part 2” showcase a group that bridged the commercial and underground world with singular, truly progressive music. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP21 |

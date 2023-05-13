@@ -30,9 +30,12 @@ styles: ["Minimal", "Ambient"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air-poppy-nogood-and/259224014" >}}
+{{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air-poppy-nogood-and/259224014" >}}<br>
+
+
 ## Videos
 ### A Rainbow in the Curved Air (Instrumental)
 {{< youtube id="eKg_R1W94G0" title="A Rainbow in the Curved Air (Instrumental)" >}}<br>
@@ -46,7 +49,6 @@ styles: ["Minimal", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1971                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | S 64564 |

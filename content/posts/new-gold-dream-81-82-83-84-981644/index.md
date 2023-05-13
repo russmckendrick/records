@@ -38,9 +38,12 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/new-gold-dream-81-82-83-84-remastered/1443123330" >}}
+{{< applemusic url="https://music.apple.com/gb/album/new-gold-dream-81-82-83-84-remastered/1443123330" >}}<br>
+
+
 ## Videos
 ### New Gold Dream (81/82/83/84)
 {{< youtube id="N85mtGZ9JkY" title="New Gold Dream (81/82/83/84)" >}}<br>
@@ -52,7 +55,6 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1982                                   |
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | 204 965 |

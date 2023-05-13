@@ -41,7 +41,12 @@ styles: ["Hard Rock"]
 <!-- section break -->
 
 Earth Rocker is the tenth studio album by American rock band Clutch. It was released on March 15, 2013 by Weathermaker Music. Earth Rocker is the first studio album to be released by Clutch since Strange Cousins from the West in 2009. The album was produced by Machine, who also produced the band's 2004 album Blast Tyrant.
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### Clutch - Earth Rocker  (Album Stream)
 {{< youtube id="AhGqABVdguo" title="Clutch - Earth Rocker  (Album Stream)" >}}<br>
@@ -56,8 +61,6 @@ Earth Rocker is the tenth studio album by American rock band Clutch. It was rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Earth_Rocker |
-| Wikipedia Summary | Earth Rocker is the tenth studio album by American rock band Clutch. It was released on March 15, 2013 by Weathermaker Music. Earth Rocker is the first studio album to be released by Clutch since Strange Cousins from the West in 2009. The album was produced by Machine, who also produced the band's 2004 album Blast Tyrant. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Weathermaker Music |
 | Catalog Number | WM028 |

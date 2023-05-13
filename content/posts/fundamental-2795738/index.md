@@ -41,9 +41,14 @@ styles: ["New Wave", "Pop Rock"]
 <!-- section break -->
 
 Fundamental or Fundamental As Anything is the fifth studio album released by Australian rock/pop group, Mental As Anything. The album was produced by Richard Gottehrer and was released on Regular Records in March 1985. It peaked at #3 on the Australian Kent Music Report albums charts.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fundamental-as-anything/1064935549" >}}
+{{< applemusic url="https://music.apple.com/gb/album/fundamental-as-anything/1064935549" >}}<br>
+
+
 ## Videos
 ### Mental As Anything - Live It Up (1985)
 {{< youtube id="eD01-p3oVI0" title="Mental As Anything - Live It Up (1985)" >}}<br>
@@ -67,8 +72,6 @@ Fundamental or Fundamental As Anything is the fifth studio album released by Aus
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fundamental_(Mental_As_Anything_album) |
-| Wikipedia Summary | Fundamental or Fundamental As Anything is the fifth studio album released by Australian rock/pop group, Mental As Anything. The album was produced by Richard Gottehrer and was released on Regular Records in March 1985. It peaked at #3 on the Australian Kent Music Report albums charts. |
-| Release Year   | 1985                                   |
 | Format         | Vinyl LP Album |
 | Label          | Epic |
 | Catalog Number | EPC 26836 |

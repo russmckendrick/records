@@ -49,7 +49,10 @@ styles: ["Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### I Don't Want To See The Sights
 {{< youtube id="xivKBrdgz3c" title="I Don't Want To See The Sights" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Reissue (Clear), Vinyl LP Reissue Remastered (Clear), All Media (Expanded Edition, Gatefold Sleeve) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2165LP |

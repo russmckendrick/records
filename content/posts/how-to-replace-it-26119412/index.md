@@ -48,9 +48,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/how-to-replace-it/1650427627" >}}
+{{< applemusic url="https://music.apple.com/gb/album/how-to-replace-it/1650427627" >}}<br>
+
+
 ## Videos
 ### dEUS - Must Have Been New (Official Visualizer)
 {{< youtube id="SUCUO5k0MLg" title="dEUS - Must Have Been New (Official Visualizer)" >}}<br>
@@ -66,7 +69,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Crystal Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB820LP |

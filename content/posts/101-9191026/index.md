@@ -61,9 +61,14 @@ styles: ["Synth-pop"]
 101 is a live album and documentary film by English electronic music band Depeche Mode, released on 13 March 1989 by Mute Records. It chronicles the final leg of the band's Music for the Masses Tour and the final show on 18 June 1988 at the Rose Bowl in Pasadena, California.Band member Alan Wilder is credited with coming up with the album's title; the performance was the 101st and final performance of the tour (and coincidentally also the number of a famous highway in the area). The film was directed and produced by D. A. Pennebaker.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/101-live/665404620" >}}
+{{< applemusic url="https://music.apple.com/gb/album/101-live/665404620" >}}<br>
+
+
 
 
 ## Release Images
@@ -73,8 +78,6 @@ styles: ["Synth-pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/101_(album) |
-| Wikipedia Summary | 101 is a live album and documentary film by English electronic music band Depeche Mode, released on 13 March 1989 by Mute Records. It chronicles the final leg of the band's Music for the Masses Tour and the final show on 18 June 1988 at the Rose Bowl in Pasadena, California.Band member Alan Wilder is credited with coming up with the album's title; the performance was the 101st and final performance of the tour (and coincidentally also the number of a famous highway in the area). The film was directed and produced by D. A. Pennebaker.<br><br> |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 2× LP Album Reissue (180 Gram, Gatefold Sleeve) |
 | Label          | Mute |
 | Catalog Number | Stumm101 |

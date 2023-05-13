@@ -39,9 +39,15 @@ styles: ["Blues Rock", "Classic Rock"]
 <!-- section break -->
 
 Eric Clapton’s skills as a guitarist and songwriter came together on this 1977 album. Even the covers, such as J.J. Cale’s hypnotic blues-blast “Cocaine” and John Martyn’s gentle “May You Never,” are soulful and well-sketched. His unhurried guitar playing is subtly persuasive and restrained, especially on the country-influenced “Lay Down Sally,” the melancholic lover’s ballad “Wonderful Tonight,” and blues burner “Mean Old Frisco.” More, Clapton’s singing conveys wide-ranging emotions—from sadness on the telling “We’re All the Way” to contrition on the Dylanesque “Next Time You See Her.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/slowhand-35th-anniversary-edition/1440782705" >}}
+{{< applemusic url="https://music.apple.com/gb/album/slowhand-35th-anniversary-edition/1440782705" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +57,6 @@ Eric Clapton’s skills as a guitarist and songwriter came together on this 1977
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slowhand |
-| Wikipedia Summary | Slowhand is the fifth full-length studio album by Eric Clapton. Released on 25 November 1977 by RSO Records, and titled after Clapton's nickname, it is one of his most commercially and critically successful studio albums. Slowhand produced the two hit singles "Lay Down Sally" and "Wonderful Tonight", reached various international music charts and was honoured with numerous awards and recording certifications. In 2012, a deluxe edition was released to celebrate the album's 35th anniversary. |
-    | Release Year   | 1977                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | RSO |
 | Catalog Number | 2479 201 |

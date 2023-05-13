@@ -44,9 +44,12 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe/1469726921" >}}
+{{< applemusic url="https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe/1469726921" >}}<br>
+
+
 ## Videos
 ### No Mans Sky - Escape Velocity - LP 2015
 {{< youtube id="RhC5a_sXayA" title="No Mans Sky - Escape Velocity - LP 2015" >}}<br>
@@ -60,7 +63,6 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 4× LP Album Deluxe Edition, Box Set |
 | Label          | Laced Records |
 | Catalog Number | LMLP004X |

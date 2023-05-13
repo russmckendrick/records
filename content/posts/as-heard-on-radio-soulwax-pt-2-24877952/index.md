@@ -71,7 +71,10 @@ styles: ["House", "Electro"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### 2 Many DJ's: As Heard On Radio Soulwax (Part 2)
 {{< youtube id="4Xe23QBP1bE" title="2 Many DJ's: As Heard On Radio Soulwax (Part 2)" >}}<br>
@@ -85,7 +88,6 @@ styles: ["House", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Mixed Reissue Repress (Gatefold) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR565DLPR |

@@ -49,9 +49,12 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159" >}}
+{{< applemusic url="https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159" >}}<br>
+
+
 ## Videos
 ### House of Pain - Jump Around (Official Music Video)
 {{< youtube id="XhzpxjuwZy0" title="House of Pain - Jump Around (Official Music Video)" >}}<br>
@@ -71,7 +74,6 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP (Orange), Vinyl LP (White), All Media Album Deluxe Edition Limited Edition Numbered Reissue Remastered |
 | Label          | Tommy Boy |
 | Catalog Number | TB-5184-1 |

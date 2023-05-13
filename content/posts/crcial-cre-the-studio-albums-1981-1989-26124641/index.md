@@ -99,7 +99,10 @@ styles: ["Hard Rock", "Glam"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -108,7 +111,6 @@ styles: ["Hard Rock", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (White / Black Splatter, 180 Gr.), Vinyl LP Album Reissue Remastered Stereo (Yellow / Black Splatter, 180 Gr., Gatefold), Vinyl LP Album Reissue Remastered Stereo (Hot Pink Magenta / Black Splatter, 180 Gr.), Vinyl LP Album Reissue Remastered Stereo (Cyan Blue / Black Splatter, 180 Gr.), Vinyl LP Album Reissue Stereo (Coke Bottle Green / Oxblood Splatter, 180 Gr.), Box Set Compilation Limited Edition |
 | Label          | BMG |
 | Catalog Number | 5388 16322 |

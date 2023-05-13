@@ -55,9 +55,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-super/1443093911" >}}
+{{< applemusic url="https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-super/1443093911" >}}<br>
+
+
 ## Videos
 ### The Human League - Being Boiled (Fast Version)
 {{< youtube id="neuLu1MMl5M" title="The Human League - Being Boiled (Fast Version)" >}}<br>
@@ -83,7 +86,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2016                                   |
 | Format         | Vinyl 3× LP Compilation (180g) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 571 111-5 |

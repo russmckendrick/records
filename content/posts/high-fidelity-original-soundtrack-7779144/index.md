@@ -45,9 +45,13 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 
 <!-- section break -->
 
-<br>
+
+
+
 ## Spotify
-{{< spotify type="album" id="0zXA2xmkw5x4iN4Cb3j13P" width="100%" height="500" >}}
+{{< spotify type="album" id="0zXA2xmkw5x4iN4Cb3j13P" width="100%" height="500" >}}<br>
+
+
 ## Videos
 ### Jack Black - Lets get it on
 {{< youtube id="J0ML8LfyNR8" title="Jack Black - Lets get it on" >}}<br>
@@ -71,7 +75,6 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Record Store Day Compilation Numbered Reissue (Orange) |
 | Label          | Hollywood Records |
 | Catalog Number | D002176001 |

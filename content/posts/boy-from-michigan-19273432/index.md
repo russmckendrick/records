@@ -36,9 +36,14 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 <!-- section break -->
 
 Boy From Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boy-from-michigan/1556064481" >}}
+{{< applemusic url="https://music.apple.com/gb/album/boy-from-michigan/1556064481" >}}<br>
+
+
 ## Videos
 ### John Grant - Boy from Michigan (Official Video)
 {{< youtube id="ecBpAwovikg" title="John Grant - Boy from Michigan (Official Video)" >}}<br>
@@ -56,8 +61,6 @@ Boy From Michigan is the fifth studio album by American musician John Grant. It 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boy_From_Michigan |
-| Wikipedia Summary | Boy From Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 2× LP Album Deluxe Edition (Velvet O-card, Signed Edition) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1220V |

@@ -40,7 +40,10 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Oceansize - Fear (Spratleys Japs cover)
 {{< youtube id="_TEIJX5H-xw" title="Oceansize - Fear (Spratleys Japs cover)" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2011                                   |
 | Format         | Vinyl 2× LP |
 | Label          | Believers Roast |
 | Catalog Number | BRR3LP |

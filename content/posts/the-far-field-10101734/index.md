@@ -44,9 +44,15 @@ styles: ["Indie Rock", "Synth-pop"]
 <!-- section break -->
 
 Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave.” “’Cause what was gold/Is gone and cold.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-far-field/1195221378" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-far-field/1195221378" >}}<br>
+
+
 ## Videos
 ### Aladdin
 {{< youtube id="5PFZnKYnL1s" title="Aladdin" >}}<br>
@@ -71,8 +77,6 @@ Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Far_Field_(album) |
-| Wikipedia Summary | The Far Field is the fifth studio album by American synthpop band Future Islands, released on April 7, 2017 through 4AD. Several parallels can be made between this studio album and the band's second studio album, In Evening Air: both are titled after the final volume of poetry by Theodore Roethke, and both have  album art produced by former band member Kymia Nawabi. |
-    | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (White, 180 Gram) |
 | Label          | 4AD |
 | Catalog Number | 4AD0001LPX |

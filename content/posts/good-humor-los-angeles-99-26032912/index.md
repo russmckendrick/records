@@ -58,7 +58,10 @@ styles: ["Indie Pop"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 ## Videos
 ### Wood Cabin
 {{< youtube id="zsCbZrig4c4" title="Wood Cabin" >}}<br>
@@ -81,7 +84,6 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Splatter [Green Transparent with Dark Green & White Splatter]), CD Promo |
 | Label          | Heavenly |
 | Catalog Number | HVNLP71C |

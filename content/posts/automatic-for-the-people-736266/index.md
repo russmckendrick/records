@@ -60,9 +60,15 @@ Although Spatial Audio is a relatively new technology, one of its gifts is the w
 “Those background vocals, that was an idea we took from ‘I'm Not in Love’ by 10cc. I recorded my voice singing eight different notes, and then we fed that into an eight-channel mixer and I played it like an instrument. So I played my voice, if you will. I think we loved that idea, we were really happy about it, but I don't think most people could really tell what was going on there, and you can hear it a little better in Atmos, for sure.”<br />
 <b>“Nightswimming”</b>
 “I guess this information is out there, but that was the ‘Layla’ piano, the one Jim Gordon played on the Derek & The Dominos song, and we worked with that down in Florida. It's not the best technical-sounding piano in the world—no classical pianists would ever want that for a live concert—but for this song, there's a resonance to it. I actually believe that the history has something to do with how good it sounds—at least it felt that way to me when I was playing it. And yes, I think a little more of that comes through in the Atmos than it did in the actual stereo mix.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/automatic-for-the-people-2017-remaster/1571670285" >}}
+{{< applemusic url="https://music.apple.com/gb/album/automatic-for-the-people-2017-remaster/1571670285" >}}<br>
+
+
 
 
 ## Release Images
@@ -72,8 +78,6 @@ Although Spatial Audio is a relatively new technology, one of its gifts is the w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Automatic_for_the_People |
-| Wikipedia Summary | Automatic for the People is the eighth studio album by American alternative rock band R.E.M., released by Warner Bros. Records on October 5, 1992 in the United Kingdom and Europe, and on the following day in the United States. R.E.M. began production on the album while their previous album, Out of Time (1991), was still ascending top albums charts and achieving global success. Aided by string arrangements from John Paul Jones, Automatic for the People features ruminations on mortality, loss, mourning, and nostalgia.<br>Upon release, it received widespread acclaim from critics, reached number two on the US Billboard 200, and yielded six singles. Rolling Stone reviewer Paul Evans concluded of the album, "This is the members of R.E.M. delving deeper than ever; grown sadder and wiser, the Athens subversives reveal a darker vision that shimmers with new, complex beauty." Automatic for the People has sold more than 18 million copies worldwide.<br><br> |
-    | Release Year   | 1999                                   |
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-45055-1 |

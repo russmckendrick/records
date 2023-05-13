@@ -39,9 +39,12 @@ styles: ["Hard Rock", "Classic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/backstreet-symphony/693198536" >}}
+{{< applemusic url="https://music.apple.com/gb/album/backstreet-symphony/693198536" >}}<br>
+
+
 ## Videos
 ### Thunder - She's so fine
 {{< youtube id="RprKusE4DF8" title="Thunder - She's so fine" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Hard Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver) |
 | Label          | BMG |
 | Catalog Number | BMGCAT708DLP |

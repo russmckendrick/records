@@ -63,7 +63,10 @@ styles: ["Rock & Roll", "Ballad"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -72,7 +75,6 @@ styles: ["Rock & Roll", "Ballad"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2018                                   |
 | Format         | Vinyl 2× LP Album Compilation |
 | Label          | RCA Victor |
 | Catalog Number | 19075896631 |

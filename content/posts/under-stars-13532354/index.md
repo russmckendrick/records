@@ -56,9 +56,12 @@ styles: ["Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/under-stars-bonus-tracks-edition/1454003781" >}}
+{{< applemusic url="https://music.apple.com/gb/album/under-stars-bonus-tracks-edition/1454003781" >}}<br>
+
+
 ## Videos
 ### Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album
 {{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2019                                   |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 528 |

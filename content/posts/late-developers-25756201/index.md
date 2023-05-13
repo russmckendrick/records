@@ -56,9 +56,15 @@ Belle and Sebastian went into the pandemic with an LP's worth of material. After
 Murdoch envisioned <i>A Bit of Previous</i> like an ’80s Go-Betweens album, imbued with all shades of emotion as it dealt with the folly of youth, spiritual yearning and the things you wish you’d said. <i>Late Developers</i> doesn’t veer too much from that, thematically, but it does feel like the band stepping out into the sunlight. Aside from the minor-key raw energy of opener “Juliet Naked” (which was originally written for the 2018 Ethan Hawke film of the same name), these are generally bright, upbeat indie-pop tunes—the sort that the band have been perfecting since the mid-’90s. In fact, one actual song from that era—“When the Cynics Stare Back From the Wall”, which Murdoch wrote in 1994—is unearthed here as a duet with Camera Obscura vocalist (and fellow Glaswegian) Tracyanne Campbell. There’s also the innocent, ditty-like “Will I Tell You a Secret”, penned in the early 2000s.
 
 What tends to give modern Belle and Sebastian albums so much texture and variance is the contributions of the band's individual members. Like her songs on <i>A Bit of Previous</i>, violinist/singer Sarah Martin’s tracks here (“Give a Little Time”, “When You’re Not With Me”, “Do You Follow”) showcase her swooping vocals and feature the kinds of unpredictable changes that fall outside B&S's signature songwriting playbook. Guitarist Stevie Jackson’s “So in the Moment” has a revved-up ’60s pop vibe—a cognate for “Unnecessary Drama”, a ripping rocker of a single from the, well, previous album. And Murdoch continues to stretch out with form, whether it’s on the nostalgic, searching “When We Were Very Young”, the deeper soul of “The Evening Star” or the unprecedentedly poppy “I Don’t Know What You See in Me”, which the band co-wrote (a first) with Peter Ferguson, aka Wuh Oh. But one of the most welcome collaborations is the return of Anjolee Williams and her LA-based gospel choir, who help merge Murdoch’s pop instincts with some Caribbean-inflected soul on the album-ending title track.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/late-developers/1652979276" >}}
+{{< applemusic url="https://music.apple.com/gb/album/late-developers/1652979276" >}}<br>
+
+
 ## Videos
 ### Belle and Sebastian- Juliet Naked (Official Audio)
 {{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked (Official Audio)" >}}<br>
@@ -83,8 +89,6 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Late_Developers |
-| Wikipedia Summary | Late Developers is the twelfth studio album by Scottish indie pop band Belle and Sebastian. It was released on 13 January 2023 by Matador Records. |
-    | Release Year   | 2023                                   |
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Matador |
 | Catalog Number | OLE1896LPE |

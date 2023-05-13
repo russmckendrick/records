@@ -72,9 +72,12 @@ styles: ["Pop Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-last-domino/1574912438" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-last-domino/1574912438" >}}<br>
+
+
 
 
 ## Release Images
@@ -83,7 +86,6 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2021                                   |
 | Format         | Vinyl 4× LP Compilation Limited Edition (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 3542867 |

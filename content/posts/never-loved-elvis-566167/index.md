@@ -47,9 +47,14 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 Never Loved Elvis is the third album by The Wonder Stuff released in 1991. Guest musicians on the album include Kirsty MacColl and Linda McRae.
 The song "Mission Drive" was inspired by Wonder Stuff singer Miles Hunt's fall out with best friend and former flatmate Clint Mansell of Pop Will Eat Itself.
 The most successful single from the album, "The Size of a Cow", reached No. 5 on the UK singles chart. The album peaked at No. 3 on the albums chart.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-remastered/1443938336" >}}
+{{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-remastered/1443938336" >}}<br>
+
+
 ## Videos
 ### The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)
 {{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)" >}}<br>
@@ -67,8 +72,6 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Never_Loved_Elvis |
-| Wikipedia Summary | Never Loved Elvis is the third album by The Wonder Stuff released in 1991. Guest musicians on the album include Kirsty MacColl and Linda McRae.<br>The song "Mission Drive" was inspired by Wonder Stuff singer Miles Hunt's fall out with best friend and former flatmate Clint Mansell of Pop Will Eat Itself.<br>The most successful single from the album, "The Size of a Cow", reached No. 5 on the UK singles chart. The album peaked at No. 3 on the albums chart. |
-| Release Year   | 1991                                   |
 | Format         | Vinyl LP Album |
 | Label          | The Far Out Recording Company |
 | Catalog Number | 847252-1 |

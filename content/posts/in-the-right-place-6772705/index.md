@@ -39,9 +39,15 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 
 In the Right Place is the sixth album by the New Orleans R&B artist Dr. John. The album was released on Atco Records in 1973, and became the biggest selling album of Dr. John's career.
 The song "Such a Night" was also performed as part of The Band's The Last Waltz concert, made famous by Martin Scorsese's film.The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching the Top 10 in both the U.S. and Canada. The album itself was Dr. John's highest charting album on the Billboard 200, spending 33 weeks on the chart and peaking at #24 on June 23, 1973.
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-right-place/145077581" >}}
+{{< applemusic url="https://music.apple.com/gb/album/in-the-right-place/145077581" >}}<br>
+
+
 ## Videos
 ### Right Place Wrong Time
 {{< youtube id="zw-2CTx4YgY" title="Right Place Wrong Time" >}}<br>
@@ -65,8 +71,6 @@ The song "Such a Night" was also performed as part of The Band's The Last Waltz 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Right_Place |
-| Apple Music Summary | Working with producer Allen Toussaint and the Meters, the second installment of Dr. John's early-'70s New Orleans funk trilogy resulted in a righteous hit single ("Right Place, Wrong Time") and funk arrangements synchronized like the gears of a finely tuned watch. Dr. John borrows "I Been Hoodood" from his minstrel-singing grandfather, illuminates "Life" with flashes of New Orleans piano boogie, and takes a raffish soft-shoe stroll through the Crescent City demimonde on "Such a Night." |
-    | Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | ATCO Records |
 | Catalog Number | 0349791111 |

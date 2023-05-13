@@ -35,9 +35,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sleepwalking/1629179702" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sleepwalking/1629179702" >}}<br>
+
+
 ## Videos
 ### Playground Brutality Kingmaker
 {{< youtube id="8TT8tNF67v8" title="Playground Brutality Kingmaker" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1993                                   |
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 6014 |

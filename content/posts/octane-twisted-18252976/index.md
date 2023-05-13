@@ -69,9 +69,14 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. The album contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with 3 songs from the band's (then) final show at Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/octane-twisted-live/684102949" >}}
+{{< applemusic url="https://music.apple.com/gb/album/octane-twisted-live/684102949" >}}<br>
+
+
 
 
 ## Release Images
@@ -81,8 +86,6 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Octane_Twisted |
-| Wikipedia Summary | Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. The album contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with 3 songs from the band's (then) final show at Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.<br><br> |
-| Release Year   | 2021                                   |
 | Format         | Box Set Album Reissue, Vinyl 3× LP Stereo, Vinyl LP Single Sided Etched |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM132LBX |

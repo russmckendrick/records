@@ -60,9 +60,15 @@ It has nearly become a cliché unto itself for so many albums released in 2021 a
 
 <b>“WE”</b>
 “I think the journey of the record, the first half is: Imagine this character's like, 'Get me the F out of here, get me off this planet, get me out of my own skin, get me away from myself. I don't want to be here.' It's anxiety and it's depression and it's heaviness, it's the weight of the world. And he looks at this black hole like, 'Well, maybe if I could get through that black hole, that would be far enough away.' And when he gets there, he finds that it's himself and it's everyone he ever loved and the lives of his ancestors. There's nothing to escape, because it's all the same thing anyway. Stories and films are always building towards this big conclusion and then the credits roll. And to me, the sentiment is, 'Let's just fucking do it again, with all of it—all the pain, all the loneliness, all the sadness, all the heartbreak. I just want to do it over and over again. Just run it back.”
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we/1613566080" >}}
+{{< applemusic url="https://music.apple.com/gb/album/we/1613566080" >}}<br>
+
+
 ## Videos
 ### Age of Anxiety I
 {{< youtube id="IH_qgFWOg2I" title="Age of Anxiety I" >}}<br>
@@ -83,8 +89,6 @@ It has nearly become a cliché unto itself for so many albums released in 2021 a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_(Arcade_Fire_album) |
-| Wikipedia Summary | We is the sixth studio album by Canadian indie rock band Arcade Fire, released through Columbia Records on May 6, 2022. Produced by Nigel Godrich and band members Win Butler and Régine Chassagne, it was recorded in studios in New Orleans; in El Paso, Texas; and on Mount Desert Island in Maine. The album takes its name from the Russian dystopian novel We by Yevgeny Zamyatin. It was the final album by Arcade Fire to feature multi-instrumentalist Will Butler, who departed the band in 2022.<br>Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)", We received generally positive reviews from music critics and achieved moderate commercial success. It debuted at number six on the US Billboard 200 chart, earning 32,000 album-equivalent units (26,500 of which were sales of the full album) in its first week of release, and went to number one in the United Kingdom, Ireland, the Netherlands, and Portugal. The album was nominated for Best Alternative Music Album at the 65th Annual Grammy Awards. |
-    | Release Year   | 2022                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (Brown Marbled) |
 | Label          | Columbia |
 | Catalog Number | 19439971281 |

@@ -43,9 +43,14 @@ styles: ["Alternative Rock", "Grunge"]
 Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of “Nearly Lost You”. The band's biggest hit, “Nearly Lost You” benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.
 Around the time of the recording of the album, the band’s original drummer Mark Pickerel left to pursue other musical interests, and was replaced with Barrett Martin.
 Nearly four years passed in between Sweet Oblivion and the band's follow-up album, Dust, a move that hurt much of the band's commercial momentum.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sweet-oblivion/157316025" >}}
+{{< applemusic url="https://music.apple.com/gb/album/sweet-oblivion/157316025" >}}<br>
+
+
 ## Videos
 ### Screaming Trees - Nearly Lost You
 {{< youtube id="PE5f561Y1x4" title="Screaming Trees - Nearly Lost You" >}}<br>
@@ -63,8 +68,6 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sweet_Oblivion |
-| Wikipedia Summary | Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of “Nearly Lost You”. The band's biggest hit, “Nearly Lost You” benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.<br>Around the time of the recording of the album, the band’s original drummer Mark Pickerel left to pursue other musical interests, and was replaced with Barrett Martin.<br>Nearly four years passed in between Sweet Oblivion and the band's follow-up album, Dust, a move that hurt much of the band's commercial momentum. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP101 |

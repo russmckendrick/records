@@ -44,9 +44,12 @@ styles: ["Synth-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/premier-hits/1025318240" >}}
+{{< applemusic url="https://music.apple.com/gb/album/premier-hits/1025318240" >}}<br>
+
+
 ## Videos
 ### Gary Numan - Metal
 {{< youtube id="kLfz2bbxxuM" title="Gary Numan - Metal" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2007 |

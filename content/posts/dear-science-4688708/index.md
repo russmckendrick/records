@@ -43,9 +43,14 @@ styles: ["Leftfield", "Indie Rock"]
 <!-- section break -->
 
 Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009. It was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dear-science-bonus-track-version/1437099502" >}}
+{{< applemusic url="https://music.apple.com/gb/album/dear-science-bonus-track-version/1437099502" >}}<br>
+
+
 ## Videos
 ### Halfway Home
 {{< youtube id="CBEht-RY8oc" title="Halfway Home" >}}<br>
@@ -66,8 +71,6 @@ Dear Science is the third studio album by the band TV on the Radio. It was relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dear_Science |
-| Wikipedia Summary | Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009. It was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe. |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Reissue (White, Gatefold, 180g) |
 | Label          | 4AD |
 | Catalog Number | CAD2821 |

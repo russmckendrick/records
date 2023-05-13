@@ -43,9 +43,12 @@ styles: ["Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pop-up-jim-bob/1511931898" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pop-up-jim-bob/1511931898" >}}<br>
+
+
 ## Videos
 ### Jim Bob - Jo's Got Papercuts [Official Video]
 {{< youtube id="OqRWb9JQW_0" title="Jim Bob - Jo's Got Papercuts [Official Video]" >}}<br>
@@ -63,7 +66,6 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Cherry Red |
 | Catalog Number | BRED808 |

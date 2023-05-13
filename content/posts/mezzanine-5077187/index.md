@@ -50,9 +50,14 @@ styles: ["Trip Hop", "Downtempo"]
 Mezzanine is the third studio album by English electronic music group Massive Attack, released on 20 April 1998 by Circa and Virgin Records. For the album, the group began to explore a darker aesthetic, and focused on a more atmospheric style influenced by British post-punk, industrial music, hip hop and dub music.Mezzanine topped the charts in the United Kingdom, Australia, Ireland, and New Zealand, becoming the group's most commercially successful album to date. It ranked highly on many year-end lists. The album spawned four singles, "Risingson", "Teardrop", "Angel" and "Inertia Creeps", which also variously charted in the United Kingdom.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mezzanine-deluxe/1428684976" >}}
+{{< applemusic url="https://music.apple.com/gb/album/mezzanine-deluxe/1428684976" >}}<br>
+
+
 ## Videos
 ### Mezzanine
 {{< youtube id="bcsjz0HXGYk" title="Mezzanine" >}}<br>
@@ -65,8 +70,6 @@ Mezzanine is the third studio album by English electronic music group Massive At
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mezzanine_(album) |
-| Wikipedia Summary | Mezzanine is the third studio album by English electronic music group Massive Attack, released on 20 April 1998 by Circa and Virgin Records. For the album, the group began to explore a darker aesthetic, and focused on a more atmospheric style influenced by British post-punk, industrial music, hip hop and dub music.Mezzanine topped the charts in the United Kingdom, Australia, Ireland, and New Zealand, becoming the group's most commercially successful album to date. It ranked highly on many year-end lists. The album spawned four singles, "Risingson", "Teardrop", "Angel" and "Inertia Creeps", which also variously charted in the United Kingdom.<br><br> |
-| Release Year   | 2013                                   |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Virgin |
 | Catalog Number | 0602537540433 |

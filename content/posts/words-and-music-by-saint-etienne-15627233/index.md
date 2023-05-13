@@ -41,9 +41,12 @@ styles: ["Indie Pop", "Dance-pop"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/words-and-music-by-saint-etienne/1502242307" >}}
+{{< applemusic url="https://music.apple.com/gb/album/words-and-music-by-saint-etienne/1502242307" >}}<br>
+
+
 ## Videos
 ### When I Was Seventeen
 {{< youtube id="GSTSTNK0BG0" title="When I Was Seventeen" >}}<br>
@@ -69,7 +72,6 @@ styles: ["Indie Pop", "Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Reissue (White w/ Black, Yellow and Green Splatter) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP92C |

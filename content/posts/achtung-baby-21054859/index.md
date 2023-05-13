@@ -57,9 +57,14 @@ styles: ["Pop Rock"]
 Achtung Baby () is the seventh studio album by Irish rock band U2. It was produced by Daniel Lanois and Brian Eno, and was released on 18 November 1991 on Island Records. After criticism of their 1988 release Rattle and Hum, U2 shifted their direction to incorporate influences from alternative rock, industrial music, and electronic dance music into their sound. Thematically, Achtung Baby is darker, more introspective, and at times more flippant than their previous work. The album and the subsequent multimedia-intensive Zoo TV Tour were central to the group's 1990s reinvention, by which they abandoned their earnest public image for a more lighthearted and self-deprecating one.
 Seeking inspiration from German reunification, U2 began recording Achtung Baby at Berlin's Hansa Studios in October 1990. The sessions were fraught with conflict, as the band argued over their musical direction and the quality of their material. After tension and slow progress nearly prompted the group to disband, they made a breakthrough with the improvised writing of the song "One". Morale and productivity improved during subsequent recording sessions in Dublin, where the album was completed in 1991. To confound the public's expectations of the band and their music, U2 chose the record's facetious title and colourful multi-image sleeve.
 Achtung Baby is one of U2's most successful records; it received favourable reviews and debuted at number one on the US Billboard 200 Top Albums, while topping the charts in many other countries. Five songs were released as commercial singles, all of which were chart successes, including "One", "Mysterious Ways", and "The Fly". The album has sold 18 million copies worldwide and won a Grammy Award in 1993 for Best Rock Performance by a Duo or Group with Vocal. Achtung Baby has since been acclaimed by writers and music critics as one of the greatest albums of all time. The record was reissued in October 2011 for its 20th anniversary, and again in November 2021 for its 30th anniversary.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/achtung-baby/1443063058" >}}
+{{< applemusic url="https://music.apple.com/gb/album/achtung-baby/1443063058" >}}<br>
+
+
 
 
 ## Release Images
@@ -69,8 +74,6 @@ Achtung Baby is one of U2's most successful records; it received favourable revi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Achtung_Baby |
-| Wikipedia Summary | Achtung Baby () is the seventh studio album by Irish rock band U2. It was produced by Daniel Lanois and Brian Eno, and was released on 18 November 1991 on Island Records. After criticism of their 1988 release Rattle and Hum, U2 shifted their direction to incorporate influences from alternative rock, industrial music, and electronic dance music into their sound. Thematically, Achtung Baby is darker, more introspective, and at times more flippant than their previous work. The album and the subsequent multimedia-intensive Zoo TV Tour were central to the group's 1990s reinvention, by which they abandoned their earnest public image for a more lighthearted and self-deprecating one.<br>Seeking inspiration from German reunification, U2 began recording Achtung Baby at Berlin's Hansa Studios in October 1990. The sessions were fraught with conflict, as the band argued over their musical direction and the quality of their material. After tension and slow progress nearly prompted the group to disband, they made a breakthrough with the improvised writing of the song "One". Morale and productivity improved during subsequent recording sessions in Dublin, where the album was completed in 1991. To confound the public's expectations of the band and their music, U2 chose the record's facetious title and colourful multi-image sleeve.<br>Achtung Baby is one of U2's most successful records; it received favourable reviews and debuted at number one on the US Billboard 200 Top Albums, while topping the charts in many other countries. Five songs were released as commercial singles, all of which were chart successes, including "One", "Mysterious Ways", and "The Fly". The album has sold 18 million copies worldwide and won a Grammy Award in 1993 for Best Rock Performance by a Duo or Group with Vocal. Achtung Baby has since been acclaimed by writers and music critics as one of the greatest albums of all time. The record was reissued in October 2011 for its 20th anniversary, and again in November 2021 for its 30th anniversary. |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Stereo (Red Translucent, 180 Gram), Vinyl LP Stereo (Blue Translucent, 180 Gram), All Media Album Deluxe Edition Limited Edition Numbered Reissue Special Edition (30th Anniversary Special Edition) |
 | Label          | Island Records |
 | Catalog Number | U28AB30 |

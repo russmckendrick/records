@@ -39,9 +39,14 @@ styles: ["Blues Rock"]
 The Very Best of Cream is a 1995 compilation album by the British rock band Cream.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cream/1440920886" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cream/1440920886" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,8 +56,6 @@ The Very Best of Cream is a 1995 compilation album by the British rock band Crea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Best_of_Cream |
-| Wikipedia Summary | The Very Best of Cream is a 1995 compilation album by the British rock band Cream.<br><br> |
-| Release Year   | 1969                                   |
 | Format         | Vinyl LP Compilation Stereo (Laminated) |
 | Label          | Polydor |
 | Catalog Number | 583 060 |

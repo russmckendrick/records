@@ -43,9 +43,12 @@ styles: ["Breakbeat", "Industrial"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/this-is-the-day-this-is-the-hour-this-is-this/478281843" >}}
+{{< applemusic url="https://music.apple.com/gb/album/this-is-the-day-this-is-the-hour-this-is-this/478281843" >}}<br>
+
+
 ## Videos
 ### Poison to the Mind
 {{< youtube id="ffPjII-GJ7Y" title="Poison to the Mind" >}}<br>
@@ -77,7 +80,6 @@ styles: ["Breakbeat", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1989                                   |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | RCA |
 | Catalog Number | PL 74141 |

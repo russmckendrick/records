@@ -52,7 +52,10 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
+
+
 
 
 ## Release Images
@@ -61,7 +64,6 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1983                                   |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Polydor |
 | Catalog Number | PODV 6 |

@@ -40,7 +40,12 @@ styles: ["Psychedelic Rock"]
 
 Psonic Psunspot is the second album by English rock band the Dukes of Stratosphear, released in 1987. Also counted as XTC's tenth studio album, it is a follow-up to 25 O'Clock (1985).
 In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums of the 1980s", calling the songs "a surreal rock-opera of opaque, hallucinogenic wonder".
-<br>
+    
+    
+
+
+
+
 ## Videos
 ### The Dukes Of Stratosphear - Vanishing Girl
 {{< youtube id="0bbqezgfqD8" title="The Dukes Of Stratosphear - Vanishing Girl" >}}<br>
@@ -58,8 +63,6 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Psonic_Psunspot |
-| Wikipedia Summary | Psonic Psunspot is the second album by English rock band the Dukes of Stratosphear, released in 1987. Also counted as XTC's tenth studio album, it is a follow-up to 25 O'Clock (1985).<br>In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums of the 1980s", calling the songs "a surreal rock-opera of opaque, hallucinogenic wonder". |
-| Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Reissue Repress Stereo (Gatefold, 200 Gram) |
 | Label          | Ape House |
 | Catalog Number | APELP024 |

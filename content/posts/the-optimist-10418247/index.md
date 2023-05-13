@@ -52,9 +52,14 @@ styles: ["Prog Rock", "Alternative Rock"]
 <!-- section break -->
 
 The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start,” whose comfortably numbing Floydian sway blossoms into orchestral ecstasy.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-optimist/1218795282" >}}
+{{< applemusic url="https://music.apple.com/gb/album/the-optimist/1218795282" >}}<br>
+
+
 ## Videos
 ### Anathema - Springfield (from The Optimist)
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}<br>
@@ -68,8 +73,6 @@ The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001�
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start,” whose comfortably numbing Floydian sway blossoms into orchestral ecstasy. |
-| Release Year   | 2017                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Silver, 180gr) |
 | Label          | Kscope |
 | Catalog Number | Kscope944 |

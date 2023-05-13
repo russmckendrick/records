@@ -48,9 +48,14 @@ styles: ["Alternative Rock"]
 <!-- section break -->
 
 Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s with this simmering, electronic-infused album. <i>Is This Desire?</i> is built on the intimate tales and torments of various women—the prostitute's plight in "Angelene" is reflected in Harvey's grungy snarl, while the innocent "Joy" hopelessly rumbles through creeping industrial dissonance. Harvey's electronic experiments are as moody as her characters, fluttering between grinding, overblown beats on "My Beautiful Leah" and "A Perfect Day Elise," and a minimalist, Portishead-like throb on "Electric Light."
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/is-this-desire/1440912742" >}}
+{{< applemusic url="https://music.apple.com/gb/album/is-this-desire/1440912742" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - The Wind
 {{< youtube id="GmOMuBYEejc" title="PJ Harvey - The Wind" >}}<br>
@@ -68,8 +73,6 @@ Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s with this simmering, electronic-infused album. <i>Is This Desire?</i> is built on the intimate tales and torments of various women—the prostitute's plight in "Angelene" is reflected in Harvey's grungy snarl, while the innocent "Joy" hopelessly rumbles through creeping industrial dissonance. Harvey's electronic experiments are as moody as her characters, fluttering between grinding, overblown beats on "My Beautiful Leah" and "A Perfect Day Elise," and a minimalist, Portishead-like throb on "Electric Light." |
-| Release Year   | 2021                                   |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Island Records |
 | Catalog Number | 0898528 |

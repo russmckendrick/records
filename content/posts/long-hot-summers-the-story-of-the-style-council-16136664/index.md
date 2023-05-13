@@ -56,9 +56,12 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/long-hot-summers-the-story-of-the-style-council/1529602288" >}}
+{{< applemusic url="https://music.apple.com/gb/album/long-hot-summers-the-story-of-the-style-council/1529602288" >}}<br>
+
+
 ## Videos
 ### Long Hot Summers - The Story Of The Style Council - Trailer
 {{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}<br>
@@ -72,7 +75,6 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 3× LP Compilation Limited Edition Remastered |
 | Label          | Polydor |
 | Catalog Number | 089 411-9 |

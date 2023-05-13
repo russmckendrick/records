@@ -39,9 +39,12 @@ styles: ["Hard Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/whitesnakes-greatest-hits/699743480" >}}
+{{< applemusic url="https://music.apple.com/gb/album/whitesnakes-greatest-hits/699743480" >}}<br>
+
+
 ## Videos
 ### Whitesnake - Fool For Your Loving
 {{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}<br>
@@ -58,7 +61,6 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Stereo |
 | Label          | Warner Music Group |
 | Catalog Number | 0190296457791 |

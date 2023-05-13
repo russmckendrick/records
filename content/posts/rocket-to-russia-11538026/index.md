@@ -46,9 +46,14 @@ styles: ["Punk", "Power Pop", "Rock & Roll"]
 Rocket to Russia is the third studio album by the American punk rock band the Ramones, and was released on November 4, 1977, through Sire Records. Its origins date back to the summer of 1977, when "Sheena Is a Punk Rocker" was released as a single. That summer was known as the peak of the punk rock genre since many punk bands were offered recording contracts. The album's recording began in August 1977, and the band had a considerably larger budget with Sire allowing them between $25,000 and $30,000; much of this money went toward the album's production rather than recording.
 The album's cover art was directed by John Gillespie. John Holmstrom and guitarist Johnny Ramone both worked on illustration, with the entire back cover contemplating a military theme, while the inner sleeve artwork depicted many of the themes portrayed in songs. The subject matter of songs varied throughout the album, though nearly all the tracks on the album incorporated humor into the lyrics. The musical style showed more of a surf rock influence, and many songs had minimal structuring.
 The album received positive reviews, with many critics appreciating the matured production and sound quality as compared to Rocket to Russia's predecessors. Music critic Stephen Thomas Erlewine called it his favorite Ramones album as it contained several hooks and featured more variety of tempos. The album was not as commercially successful as the band had hoped, peaking at number 49 on the Billboard 200. Band members blamed the Sex Pistols for their lack of sales, saying that they changed the punk image for the worse. This is the last album to be recorded with all four original members as credited performers, as drummer Tommy Ramone left the band in 1978 to work solely on production. The album was ranked at number 106 in Rolling Stone's "500 Greatest Albums of All Time" in 2012, and was ranked number 385 in the 2020 edition.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rocket-to-russia/847962534" >}}
+{{< applemusic url="https://music.apple.com/gb/album/rocket-to-russia/847962534" >}}<br>
+
+
 ## Videos
 ### Ramones - Rocket to Russia (Full Album) [Official Video]
 {{< youtube id="j3KzGpptn5Q" title="Ramones - Rocket to Russia (Full Album) [Official Video]" >}}<br>
@@ -61,8 +66,6 @@ The album received positive reviews, with many critics appreciating the matured 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rocket_to_Russia |
-| Wikipedia Summary | Rocket to Russia is the third studio album by the American punk rock band the Ramones, and was released on November 4, 1977, through Sire Records. Its origins date back to the summer of 1977, when "Sheena Is a Punk Rocker" was released as a single. That summer was known as the peak of the punk rock genre since many punk bands were offered recording contracts. The album's recording began in August 1977, and the band had a considerably larger budget with Sire allowing them between $25,000 and $30,000; much of this money went toward the album's production rather than recording.<br>The album's cover art was directed by John Gillespie. John Holmstrom and guitarist Johnny Ramone both worked on illustration, with the entire back cover contemplating a military theme, while the inner sleeve artwork depicted many of the themes portrayed in songs. The subject matter of songs varied throughout the album, though nearly all the tracks on the album incorporated humor into the lyrics. The musical style showed more of a surf rock influence, and many songs had minimal structuring.<br>The album received positive reviews, with many critics appreciating the matured production and sound quality as compared to Rocket to Russia's predecessors. Music critic Stephen Thomas Erlewine called it his favorite Ramones album as it contained several hooks and featured more variety of tempos. The album was not as commercially successful as the band had hoped, peaking at number 49 on the Billboard 200. Band members blamed the Sex Pistols for their lack of sales, saying that they changed the punk image for the worse. This is the last album to be recorded with all four original members as credited performers, as drummer Tommy Ramone left the band in 1978 to work solely on production. The album was ranked at number 106 in Rolling Stone's "500 Greatest Albums of All Time" in 2012, and was ranked number 385 in the 2020 edition. |
-| Release Year   | 2018                                   |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Sire |
 | Catalog Number | RR1 6042 |

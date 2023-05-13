@@ -39,9 +39,14 @@ styles: ["Southern Rock", "Country Rock"]
 Welcome 2 Club XIII  is the fourteenth studio album by southern rock band Drive-By Truckers released on June 3, 2022. The album's title references one of the venues where the band first played near Muscle Shoals, Alabama. The autobiographical nature of the album's lyrics presents a welcomed return to form in contrast to the more politically charged songs from the band's previous albums. It features vocal contributions from Schaefer Llana, Mike Mills (from R.E.M.), and Margo Price.
 
 
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/welcome-2-club-xiii/1617848474" >}}
+{{< applemusic url="https://music.apple.com/gb/album/welcome-2-club-xiii/1617848474" >}}<br>
+
+
 ## Videos
 ### Drive-By Truckers - Welcome 2 Club XIII (Official Video)
 {{< youtube id="VWM6EZW9F6I" title="Drive-By Truckers - Welcome 2 Club XIII (Official Video)" >}}<br>
@@ -54,8 +59,6 @@ Welcome 2 Club XIII  is the fourteenth studio album by southern rock band Drive-
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_2_Club_XIII |
-| Wikipedia Summary | Welcome 2 Club XIII  is the fourteenth studio album by southern rock band Drive-By Truckers released on June 3, 2022. The album's title references one of the venues where the band first played near Muscle Shoals, Alabama. The autobiographical nature of the album's lyrics presents a welcomed return to form in contrast to the more politically charged songs from the band's previous albums. It features vocal contributions from Schaefer Llana, Mike Mills (from R.E.M.), and Margo Price.<br><br> |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Limited Edition (Red) |
 | Label          | ATO Records |
 | Catalog Number | ATO0601 |

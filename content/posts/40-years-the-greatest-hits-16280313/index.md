@@ -42,9 +42,12 @@ styles: ["Pop Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}
+{{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}<br>
+
+
 ## Videos
 ### Spandau Ballet - The Boxer
 {{< youtube id="2vBQJv5cudk" title="Spandau Ballet - The Boxer" >}}<br>
@@ -56,7 +59,6 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Compilation (Red) |
 | Label          | Parlophone |
 | Catalog Number | 0190295200046 |

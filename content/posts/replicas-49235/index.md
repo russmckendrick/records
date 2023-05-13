@@ -43,9 +43,12 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}
+{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>
+
+
 ## Videos
 ### Me, I Disconnect from You
 {{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}<br>
@@ -67,7 +70,6 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 1979                                   |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 7 |

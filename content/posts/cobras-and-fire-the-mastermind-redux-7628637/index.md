@@ -33,9 +33,12 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cobras-and-fire-the-mastermind-redux/1183622896" >}}
+{{< applemusic url="https://music.apple.com/gb/album/cobras-and-fire-the-mastermind-redux/1183622896" >}}<br>
+
+
 ## Videos
 ### Monster Magnet - Cobras And Fire (Hallucination Bomb)
 {{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}<br>
@@ -57,7 +60,6 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow Vinyl) |
 | Label          | Napalm Records |
 | Catalog Number | NPR 629 LP |

@@ -38,9 +38,12 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-for-you/1444058292" >}}
+{{< applemusic url="https://music.apple.com/gb/album/blue-for-you/1444058292" >}}<br>
+
+
 
 
 ## Release Images
@@ -49,7 +52,6 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2015                                   |
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723766 |

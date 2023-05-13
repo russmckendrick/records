@@ -48,9 +48,14 @@ styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 <!-- section break -->
 
 Less Is More is an acoustic studio album by Marillion, released on the band's own label on 2 October 2009. A retail version is distributed by Edel Music. The band's 16th studio album, it contains re-arranged songs from the period that Steve Hogarth has been their singer (since 1989) plus the previously unreleased track, "It's Not Your Fault". Despite some positive reviews, the album did not chart in the UK.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/less-is-more/331174061" >}}
+{{< applemusic url="https://music.apple.com/gb/album/less-is-more/331174061" >}}<br>
+
+
 
 
 ## Release Images
@@ -60,8 +65,6 @@ Less Is More is an acoustic studio album by Marillion, released on the band's ow
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Less_Is_More_(Marillion_album) |
-| Wikipedia Summary | Less Is More is an acoustic studio album by Marillion, released on the band's own label on 2 October 2009. A retail version is distributed by Edel Music. The band's 16th studio album, it contains re-arranged songs from the period that Steve Hogarth has been their singer (since 1989) plus the previously unreleased track, "It's Not Your Fault". Despite some positive reviews, the album did not chart in the UK. |
-| Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (White, 180 gram) |
 | Label          | Ear Music |
 | Catalog Number | 0214647EMU |

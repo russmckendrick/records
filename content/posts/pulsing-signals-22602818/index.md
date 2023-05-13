@@ -47,9 +47,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pulsing-signals-live/1599773680" >}}
+{{< applemusic url="https://music.apple.com/gb/album/pulsing-signals-live/1599773680" >}}<br>
+
+
 ## Videos
 ### What We Was (intro)
 {{< youtube id="yeqqcbU6Pj0" title="What We Was (intro)" >}}<br>
@@ -70,7 +73,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl 2× LP |
 | Label          | Kscope |
 | Catalog Number | Kscope1143 |

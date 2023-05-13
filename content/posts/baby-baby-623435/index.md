@@ -31,9 +31,14 @@ styles: ["Pop Rock", "Synth-pop"]
 <!-- section break -->
 
 "Baby Baby" is a pop song by American recording artist Amy Grant and it was issued as the first single from her eighth studio album, Heart in Motion (1991). The song was written by Grant and Keith Thomas, who also produced it. It was released on January 18, 1991, through A&M Records and topped the US Billboard Hot 100 chart for two consecutive weeks in April 1991, becoming the first in a string of hits from Heart in Motion. At the 34th Annual Grammy Awards in 1992, the song received three Grammy Award nominations, including Song of the Year and Record of the Year.
-<br>
+    
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lullaby-renditions-of-amy-grant-just-for-babies/1271452396" >}}
+{{< applemusic url="https://music.apple.com/gb/album/lullaby-renditions-of-amy-grant-just-for-babies/1271452396" >}}<br>
+
+
 ## Videos
 ### Amy Grant - Baby, Baby
 {{< youtube id="vMXuuYnoRdI" title="Amy Grant - Baby, Baby" >}}<br>
@@ -55,8 +60,6 @@ styles: ["Pop Rock", "Synth-pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Baby_Baby_(Amy_Grant_song) |
-| Wikipedia Summary | "Baby Baby" is a pop song by American recording artist Amy Grant and it was issued as the first single from her eighth studio album, Heart in Motion (1991). The song was written by Grant and Keith Thomas, who also produced it. It was released on January 18, 1991, through A&M Records and topped the US Billboard Hot 100 chart for two consecutive weeks in April 1991, becoming the first in a string of hits from Heart in Motion. At the 34th Annual Grammy Awards in 1992, the song received three Grammy Award nominations, including Song of the Year and Record of the Year. |
-| Release Year   | 1991                                   |
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | A&M Records |
 | Catalog Number | AMY 727 |

@@ -53,9 +53,12 @@ styles: ["Folk Rock", "Prog Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stormwatch-2004-bonus-tracks-edition/726158739" >}}
+{{< applemusic url="https://music.apple.com/gb/album/stormwatch-2004-bonus-tracks-edition/726158739" >}}<br>
+
+
 
 
 ## Release Images
@@ -64,7 +67,6 @@ styles: ["Folk Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2020                                   |
 | Format         | Vinyl LP Album Limited Edition Stereo (white vinyl, 180gm) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295300234 |

@@ -45,9 +45,15 @@ Let England Shake is the eighth studio album by English singer-songwriter and mu
 Upon release, the album received numerous accolades. It was placed 2011 "Album of the Year" by 16 publications and in September 2011 won the coveted Mercury Prize. It was PJ Harvey's fourth nomination overall (including 2001's winner Stories from the City, Stories from the Sea), making her the most successful artist in the prize's history. The album also won the Uncut Music Award in November 2011, as well as Album of the Year in the 2012 Ivor Novello Awards.
 
 
-    <br>
+        
+        
+    
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/let-england-shake/1440758226" >}}
+{{< applemusic url="https://music.apple.com/gb/album/let-england-shake/1440758226" >}}<br>
+
+
 ## Videos
 ### PJ Harvey - The Glorious Land
 {{< youtube id="YBtOWXNPQ_w" title="PJ Harvey - The Glorious Land" >}}<br>
@@ -63,8 +69,6 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_England_Shake |
-| Apple Music Summary | For her 11th album, PJ Harvey steps away from the strident agit-folk that made her name in the ‘90s, writing instead a subtle and hauntingly beautiful record that is simultaneously a meditation on the brutality and futility of the First World War and a nostalgic paean to her home country. As is her custom, guitars take center stage, all eerie and drenched in chilling reverb (“In the Dark Places”), while Harvey’s vocals are uncharacteristically understated and soft, reaching tremulously to the top of her register on “Hanging in the Wire.” |
-    | Release Year   | 2011                                   |
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 2758997 |

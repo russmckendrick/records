@@ -40,9 +40,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 <!-- section break -->
 
-<br>
+
+
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/young-tribe-rule/1635555869" >}}
+{{< applemusic url="https://music.apple.com/gb/album/young-tribe-rule/1635555869" >}}<br>
+
+
 
 
 ## Release Images
@@ -51,7 +54,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Release Year   | 2022                                   |
 | Format         | Vinyl LP Mini-Album Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1054 |
