@@ -37,7 +37,6 @@ styles: ["Art Rock", "Post Rock"]
 
 <!-- section break -->
 
-Mr Beast, released in 2006,   is the fifth studio album by Scottish post-rock group Mogwai.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-beast/122960260" >}}
@@ -55,8 +54,6 @@ Mr Beast, released in 2006,   is the fifth studio album by Scottish post-rock gr
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Mr_Beast_(album) |
-| Wikipedia Summary | Mr Beast, released in 2006,   is the fifth studio album by Scottish post-rock group Mogwai. |
 | Release Year   | 2020                                   |
 | Format         | Vinyl LP (Yellow Transparent), Vinyl LP Single Sided Etched (Yellow Transparent), All Media Album Limited Edition |
 | Label          | [PIAS] Recordings |

@@ -41,8 +41,6 @@ styles: []
 
 <!-- section break -->
 
-Last Place is the fifth studio album by the American indie rock band Grandaddy, released on March 3, 2017, on 30th Century Records. Self-produced and recorded by the band's frontman and primary recording artist Jason Lytle, the album is the first by Grandaddy since Just Like the Fambly Cat (2006) and the band's prior break-up.
-Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Way We Won't", "A Lost Machine" and "Evermore". This is the final album to feature Kevin Garcia on bass, as he would die of a stroke two months after its release.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-place/1435528003" >}}
@@ -68,8 +66,6 @@ Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Wa
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Last_Place_(album) |
-| Wikipedia Summary | Last Place is the fifth studio album by the American indie rock band Grandaddy, released on March 3, 2017, on 30th Century Records. Self-produced and recorded by the band's frontman and primary recording artist Jason Lytle, the album is the first by Grandaddy since Just Like the Fambly Cat (2006) and the band's prior break-up.<br>Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Way We Won't", "A Lost Machine" and "Evermore". This is the final album to feature Kevin Garcia on bass, as he would die of a stroke two months after its release. |
 | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Limited Edition (Translucent Blue) |
 | Label          | 30th Century Records |
