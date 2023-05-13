@@ -74,6 +74,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/atum/1644219042" >}}<br>
 
 
 ## Videos

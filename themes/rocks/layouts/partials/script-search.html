@@ -4,10 +4,13 @@
   var store = null;
 
   function doSearch(query) {
-    if (!index || !store) {
-      return;
-    }
+    var searchResultsContainer = document.getElementById("search-results");
 
+    // If the search query is empty, clear the search results and return
+    if (!index || !store || !query) {
+      searchResultsContainer.innerHTML = '';
+      return;
+   }
     var results = index.search(query).map(function (result) {
       return store[result.ref];
     });
@@ -26,7 +29,7 @@
         <div class="content">
           <div class="inner">
             <header class="major">
-              <h3>${result.album}</h3>
+              <h3>${result.artist} - ${result.album}</h3>
             </header>
             <p>Added: ${result.date}</p>
             <ul class="actions">

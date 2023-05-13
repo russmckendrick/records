@@ -6,10 +6,7 @@
                     {{ if lt $index 3 }}
                         <img src="{{ $image }}" alt="" />
                     {{ else }}
-                        <div class="image-wrapper">
-                            <img class="click-to-load" data-src="{{ $image }}" src="/images/click-to-load.png" alt="" />
-                            <div class="overlay-text">Click to load</div>
-                        </div>
+                        <img class="lazy-load" data-src="{{ $image }}" src="/images/click-to-load.png" alt="" />
                     {{ end }}
                 </span>
             </div>
@@ -18,34 +15,27 @@
 </div>
 
 <script>
-window.addEventListener('DOMContentLoaded', (event) => {
-    const images = document.querySelectorAll('.click-to-load');
-
-    images.forEach(img => {
-        img.addEventListener('click', function() {
-            this.src = this.dataset.src;
-            this.classList.remove('click-to-load');
-            this.nextElementSibling.style.display = 'none';
+    window.addEventListener('DOMContentLoaded', (event) => {
+        const images = document.querySelectorAll('.lazy-load');
+        let delay = 0; // Initial delay
+    
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    delay += 1000; // Increase delay by 2 seconds for each image
+    
+                    setTimeout(() => {
+                        img.src = img.dataset.src;
+                        img.classList.remove('lazy-load');
+                        observer.unobserve(img);
+                    }, delay);
+                }
+            });
+        });
+    
+        images.forEach(img => {
+            observer.observe(img);
         });
     });
-});
-</script>
-
-<style> 
-.image-wrapper {
-    position: relative;
-    display: inline-block;
-}
-
-.overlay-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 30px;
-    text-align: center;
-    width: 100%;
-    font-weight: bold;
-}
-</style>
+    </script>
