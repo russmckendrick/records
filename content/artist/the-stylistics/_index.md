@@ -1,7 +1,7 @@
 ---
 title: "The Stylistics"
-summary: "US soul group formed in 1968 and popular during the 1970s. Airrion Love born 08/10/1951, Philadelphia, Pennsylvania, U.S.A. James Smith born 16/06/1950, New York City, U.S.A. Herbie Murrell born 27/04/1949, Lane, South Carolina, U.S.A. James Dunn born 04/02/1950, Philadelphia, Pennsylvania, U.S.A. Russell Thompkins Jnr. born 21/03/1951, Philadelphia, Pennsylvania, U.S.A. Current line up is Airrion Love, Herbie Murrell, Van Fields and Harold \"Eban\" Brown."
+summary: "The Stylistics are an American, Philadelphia soul group that achieved their greatest chart success in the 1970s. They formed in 1968, with a lineup of singers Russell Thompkins Jr., Herb Murrell, Airrion Love, James Smith and James Dunn. All of their US hits were ballads characterized by the falsetto of Russell Thompkins Jr. and the production of Thom Bell. During the early 1970s, the group had twelve consecutive R&B top ten hits, including \"Stop, Look, Listen\", \"You Are Everything\", \"Betcha by Golly, Wow\", \"I'm Stone in Love with You\", \"Break Up to Make Up\" and \"You Make Me Feel Brand New\", which earned them 5 gold singles and 3 gold albums."
 image: "the-stylistics.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-stylistics/1385237217"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Stylistics"
 ---

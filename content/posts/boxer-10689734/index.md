@@ -48,6 +48,8 @@ styles: ["Acoustic", "Indie Rock"]
 <!-- section break -->
 
 Boxer is the fourth studio album by American indie rock band The National, released on May 22, 2007 on Beggars Banquet Records. Following its release, the album debuted at number 68 on the U.S. Billboard 200, selling about 9,500 copies in its first week.A documentary film, titled A Skin, A Night, was released the following year. Focusing on the recording process of Boxer, the film was directed by independent filmmaker Vincent Moon, and released in conjunction with a collection of b-sides, demos and live recordings, titled The Virginia EP, on May 20, 2008.
+
+
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boxer/220311706" >}}
@@ -65,7 +67,7 @@ Boxer is the fourth studio album by American indie rock band The National, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boxer_(The_National_album) |
-| Wikipedia Summary | Boxer is the fourth studio album by American indie rock band The National, released on May 22, 2007 on Beggars Banquet Records. Following its release, the album debuted at number 68 on the U.S. Billboard 200, selling about 9,500 copies in its first week.A documentary film, titled A Skin, A Night, was released the following year. Focusing on the recording process of Boxer, the film was directed by independent filmmaker Vincent Moon, and released in conjunction with a collection of b-sides, demos and live recordings, titled The Virginia EP, on May 20, 2008. |
+| Wikipedia Summary | Boxer is the fourth studio album by American indie rock band The National, released on May 22, 2007 on Beggars Banquet Records. Following its release, the album debuted at number 68 on the U.S. Billboard 200, selling about 9,500 copies in its first week.A documentary film, titled A Skin, A Night, was released the following year. Focusing on the recording process of Boxer, the film was directed by independent filmmaker Vincent Moon, and released in conjunction with a collection of b-sides, demos and live recordings, titled The Virginia EP, on May 20, 2008.<br><br> |
 | Release Year   | 2017                                   |
 | Format         | Vinyl LP Album Club Edition Reissue Special Edition (Gray), Vinyl 7" 45 RPM (Clear) |
 | Label          | Beggars Banquet |

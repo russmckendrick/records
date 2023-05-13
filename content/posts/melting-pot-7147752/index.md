@@ -47,6 +47,8 @@ styles: ["Indie Rock"]
 
 Melting Pot is a greatest hits album by the British alternative rock band The Charlatans (known in the United States as The Charlatans UK).  Featuring tracks from their time on Beggars Banquet Records between 1990 and 1997, the album was released on 23 February 1998.  The cover features a picture of The Weaverdale cafe (subsequently renamed The Melting Pot, but closed in November 2016, and serving now as a BBQ takeaway) in Northwich, the site of the group's first meeting after signing to Beggars in 1990. The song "Opportunity Three" is a remix by Flood of the song "Opportunity" from the Some Friendly album; the remix otherwise appeared only on the Over Rising EP.
 The album was re-released on 20 May 2002 with a slipcase to match the artwork of B-sides compilation Songs from the Other Side. No changes were made to the album artwork or track listing.
+
+
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/melting-pot/1450132766" >}}
@@ -75,7 +77,7 @@ The album was re-released on 20 May 2002 with a slipcase to match the artwork of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Melting_Pot_(The_Charlatans_album) |
-| Wikipedia Summary | Melting Pot is a greatest hits album by the British alternative rock band The Charlatans (known in the United States as The Charlatans UK).  Featuring tracks from their time on Beggars Banquet Records between 1990 and 1997, the album was released on 23 February 1998.  The cover features a picture of The Weaverdale cafe (subsequently renamed The Melting Pot, but closed in November 2016, and serving now as a BBQ takeaway) in Northwich, the site of the group's first meeting after signing to Beggars in 1990. The song "Opportunity Three" is a remix by Flood of the song "Opportunity" from the Some Friendly album; the remix otherwise appeared only on the Over Rising EP.<br>The album was re-released on 20 May 2002 with a slipcase to match the artwork of B-sides compilation Songs from the Other Side. No changes were made to the album artwork or track listing. |
+| Wikipedia Summary | Melting Pot is a greatest hits album by the British alternative rock band The Charlatans (known in the United States as The Charlatans UK).  Featuring tracks from their time on Beggars Banquet Records between 1990 and 1997, the album was released on 23 February 1998.  The cover features a picture of The Weaverdale cafe (subsequently renamed The Melting Pot, but closed in November 2016, and serving now as a BBQ takeaway) in Northwich, the site of the group's first meeting after signing to Beggars in 1990. The song "Opportunity Three" is a remix by Flood of the song "Opportunity" from the Some Friendly album; the remix otherwise appeared only on the Over Rising EP.<br>The album was re-released on 20 May 2002 with a slipcase to match the artwork of B-sides compilation Songs from the Other Side. No changes were made to the album artwork or track listing.<br><br> |
 | Release Year   | 2015                                   |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue |
 | Label          | Beggars Banquet |

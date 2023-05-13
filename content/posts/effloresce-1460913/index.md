@@ -40,7 +40,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 <!-- section break -->
 
-Effloresce is the debut studio album by British progressive/alternative rock band Oceansize. It was released on 29 September 2003. The record garnered considerable praise from critics.
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}
@@ -57,8 +56,6 @@ Effloresce is the debut studio album by British progressive/alternative rock ban
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Effloresce_(album) |
-| Wikipedia Summary | Effloresce is the debut studio album by British progressive/alternative rock band Oceansize. It was released on 29 September 2003. The record garnered considerable praise from critics. |
 | Release Year   | 2003                                   |
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
