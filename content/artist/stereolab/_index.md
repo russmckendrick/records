@@ -1,7 +1,8 @@
 ---
 title: "Stereolab"
-summary: "Stereolab formed in London in 1990 by record collector and French chanteuse . They were active between 1990 and 2009, when the band took a 10-year hiatus. In 2019 they reunited for live performances to promote a year-long seven album reissue campaign. was a member from 1993 to 1994 and he continued appearing on later records for occasional guest appearances. Guitar, Vocals, Vocals, Vocals, Bass, Bass, Bass, Bass, Drums, Drums, Keyboards, Keyboards, Keyboards, Keyboards, Keyboards, Horn,"
+summary: "Stereolab are an Anglo-French avant-pop band formed in London in 1990. Led by the songwriting team of Tim Gane and Lætitia Sadier, the group's music combines influences from krautrock, lounge and 1960s pop music, often incorporating a repetitive motorik beat with heavy use of vintage electronic keyboards and female vocals sung in English and French. Their lyrics have political and philosophical themes influenced by the Surrealist and Situationist movements. On stage, they play in a more feedback-driven and guitar-oriented style. The band also draw from funk, jazz and Brazilian music, and were one of the first artists to be dubbed \"post-rock\". Stereolab were formed by Gane and Sadier after the break-up of McCarthy. The two were romantically involved for fourteen years and are the group's only consistent members. Other longtime members included 1992 addition Mary Hansen , who died in 2002, and 1993 addition Andy Ramsay . The High Llamas' leader Sean O'Hagan was a member from 1993 to 1994 and continued appearing on later records for occasional guest appearances.
+Throughout their career, Stereolab has had moderate commercial success. The band were released from their recording contract with Elektra Records, and their self-owned label Duophonic signed a distribution deal with Too Pure and later Warp Records. After a ten-year hiatus, the band reunited for live performances in 2019."
 image: "stereolab.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/stereolab/162658"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Stereolab"
 ---

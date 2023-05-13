@@ -38,7 +38,7 @@ styles: ["Indie Rock"]
 In 1999, Steve Mason was becoming as noted for his self-sabotage as for the cosmic, folky magic he was making with The Beta Band. With the group’s next-big-thing status rapidly escalating in the UK, he gave interviews dismissing their imminent debut album as “f***ing awful” (it wasn’t).<br />
 Twenty years later, he’s finally inclined to play a few notes on his own trumpet, describing the fourth album under his own name as his first “legitimate record.” While that’s harsh on his other, excellent solo releases, his confidence in <i>About the Light</i> is well-founded. With his usual restlessness and daring, he’s made his most optimistic record, embracing the peace he’s found since 2010’s moving <i>Boys Outside</i> documented his debilitating depression.<br />
 Here, Mason emerges from insularity to seize the day on the title track’s country-fried blues before declaring, “She has brought the lights, I see/I won’t look back/That’s not for me” over the urgent soul-funk of “Stars Around My Heart”. Even contemplative moments, such as the gently psychedelic “Fox on the Rooftop”, emit a sense of playfulness and liberation. <i>About the Light</i> is further evidence that Mason possesses a rare combination of adventure, honesty and skill as a songwriter. This time around, he might even agree.
-<br>
+    <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/about-the-light/1434556882" >}}
 ## Videos
@@ -61,8 +61,9 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Apple Music Summary | In 1999, Steve Mason was becoming as noted for his self-sabotage as for the cosmic, folky magic he was making with The Beta Band. With the group’s next-big-thing status rapidly escalating in the UK, he gave interviews dismissing their imminent debut album as “f***ing awful” (it wasn’t).<br /><br>Twenty years later, he’s finally inclined to play a few notes on his own trumpet, describing the fourth album under his own name as his first “legitimate record.” While that’s harsh on his other, excellent solo releases, his confidence in <i>About the Light</i> is well-founded. With his usual restlessness and daring, he’s made his most optimistic record, embracing the peace he’s found since 2010’s moving <i>Boys Outside</i> documented his debilitating depression.<br /><br>Here, Mason emerges from insularity to seize the day on the title track’s country-fried blues before declaring, “She has brought the lights, I see/I won’t look back/That’s not for me” over the urgent soul-funk of “Stars Around My Heart”. Even contemplative moments, such as the gently psychedelic “Fox on the Rooftop”, emit a sense of playfulness and liberation. <i>About the Light</i> is further evidence that Mason possesses a rare combination of adventure, honesty and skill as a songwriter. This time around, he might even agree. |
-| Release Year   | 2019                                   |
+| Wikipedia URL | https://en.wikipedia.org/wiki/About_the_Light |
+| Wikipedia Summary | About the Light is the fourth studio album by Scottish musician Steve Mason. It was released on 18 January 2019 through Domino Recording Company |
+    | Release Year   | 2019                                   |
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Double Six (2) |
 | Catalog Number | DS121LP |

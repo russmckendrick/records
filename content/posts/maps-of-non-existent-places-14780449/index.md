@@ -34,6 +34,8 @@ styles: ["Prog Rock"]
 <!-- section break -->
 
 Maps of Non-Existent Places is the debut full-length album by progressive rock band Thank You Scientist. This is the only album to feature Greg Colacino on bass and Russ Lynch on violin, viola and mandolin.
+
+
 <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maps-of-non-existent-places/1617741451" >}}
@@ -51,7 +53,7 @@ Maps of Non-Existent Places is the debut full-length album by progressive rock b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maps_of_Non-Existent_Places |
-| Wikipedia Summary | Maps of Non-Existent Places is the debut full-length album by progressive rock band Thank You Scientist. This is the only album to feature Greg Colacino on bass and Russ Lynch on violin, viola and mandolin. |
+| Wikipedia Summary | Maps of Non-Existent Places is the debut full-length album by progressive rock band Thank You Scientist. This is the only album to feature Greg Colacino on bass and Russ Lynch on violin, viola and mandolin.<br><br> |
 | Release Year   | 2020                                   |
 | Format         | Vinyl 2× LP Album Limited Edition Repress (Blood Red With Black Swirl) |
 | Label          | Evil Ink Records |

@@ -27,6 +27,10 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 
 <!-- section break -->
 
+Los Amigos del Beta Bandidos (Translated to 'The Friends of the Beta Bandits' in English) is the third release by The Beta Band, released in 1998. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and The Patty Patty Sound.
+Los Amigos del Beta Bandidos, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
+
+
 <br>
 ## Videos
 ### The Beta Band - Dr. Baker
@@ -42,6 +46,8 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Los_Amigos_del_Beta_Bandidos |
+| Wikipedia Summary | Los Amigos del Beta Bandidos (Translated to 'The Friends of the Beta Bandits' in English) is the third release by The Beta Band, released in 1998. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and The Patty Patty Sound.<br>Los Amigos del Beta Bandidos, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.<br><br> |
 | Release Year   | 2013                                   |
 | Format         | Vinyl 12" EP Record Store Day Limited Edition Reissue |
 | Label          | EMI |

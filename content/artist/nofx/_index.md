@@ -1,7 +1,8 @@
 ---
 title: "NOFX"
-summary: "Los Angeles, California based punk rock band founded in 1983. What does NOFX stand for? \"NOFX doesn't stand for shit. We just kinda ripped off the name from an old Boston band .\" Current members: “Fat” Mike Burkett - Vocals/Bass Eric Melvin - Vocals/Rhythm guitar Erik “Smelly” Sandin - Drums Aaron “El Hefe” Abeyta - Backing vocals/Lead guitar/Trumpet/Trombone Former members: Dave Allen - Vocals/Rhythm guitar Steve Kidwiller - Lead guitar Dave Casillas - Lead guitar Scott Aldahl - Drums Scott Sellers - Drums"
+summary: "NOFX is an American punk rock band formed in Los Angeles in 1983. Vocalist/bassist Fat Mike, guitarist Eric Melvin and drummer Erik Sandin are original founding and longest-serving members of the band, who have appeared on every release of the band, although Sandin departed briefly in 1985, only to rejoin the following year. El Hefe joined the band in 1991 to play lead guitar and trumpet, rounding out the current line-up.
+NOFX's mainstream success coincided with increased interest in punk rock during the 1990s, though, unlike many of their contemporaries they have never been signed to a major label. NOFX has released fifteen studio albums, sixteen extended plays and a number of 7-inch singles. The band rose to popularity with their fifth studio album Punk in Drublic , which is their only release to receive gold certification by the RIAA. Their latest studio album, Double Album, was released on December 2, 2022. The group has sold over eight million records worldwide, making them one of the most successful independent bands. In 2008, NOFX broadcast their own show on Fuse TV entitled NOFX: Backstage Passport."
 image: "nofx.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/nofx/2819846"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/NOFX"
 ---

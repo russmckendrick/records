@@ -1,7 +1,7 @@
 ---
 title: "The Power Station"
-summary: "The Power Station was formed in 1984 and consisted of and of with of and singer . When Robert Palmer quit the group in mid-1985, was recruited as the lead singer. The band folded in late 1985 as the members turned to other projects. The band reunited in 1995 with its original members. The group worked together on writing and arranging a new album, however, personal issues forced bassist John Taylor to withdraw from the project and leave the band before any recording took place. Producer stepped in to become the Power Station's bassist and new fourth member, playing all bass parts on the album \"Living in Fear\" . Bernard Edwards died of pneumonia in April, 1996 and the group disbanded permanently in 1997."
+summary: "The Power Station was a British-American 1980s/1990s rock and pop music supergroup originally formed in New York City and London in 1984. It was made up of singer Robert Palmer, former Chic drummer Tony Thompson, and Duran Duran members John Taylor and Andy Taylor . Bernard Edwards, also of Chic, was involved on the studio side as recording producer and for a short time also functioned as The Power Station's manager. Edwards also replaced John Taylor on bass for the recording of the band's second album. The band was formed in New York City late in 1984 during a break in Duran Duran's schedule that became a lengthy hiatus. The Power Station was named after the Power Station recording studio in New York, where their first album was conceived and recorded."
 image: "the-power-station.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-power-station/17245286"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/The_Power_Station_(band)"
 ---

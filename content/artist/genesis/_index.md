@@ -5,6 +5,6 @@ The group were formed by five Charterhouse pupils, including Banks, Rutherford, 
 Collins took over as lead singer, and the group released A Trick of the Tail and Wind & Wuthering with continued success. Hackett left Genesis in 1977, reducing the band to Banks, Rutherford, and Collins. Their ninth studio album, ...And Then There Were Three... , contained the band's first major hit \"Follow You Follow Me\". Their next five albums – Duke , Abacab , Genesis , Invisible Touch and We Can't Dance – were also successful. Collins left Genesis in 1996, and Banks and Rutherford replaced him with Ray Wilson, who appeared on their final album Calling All Stations . The commercial failure of the album led to a group hiatus. Banks, Rutherford and Collins reunited for the Turn It On Again Tour in 2007, and again in 2021 for The Last Domino? Tour.
 With between 100 million and 150 million albums sold worldwide, Genesis are one of the world's best-selling music artists. Their discography includes 15 studio and six live albums. They have won numerous awards and have inspired a number of tribute bands recreating Genesis shows from various stages of the band's career. In 2010, Genesis were inducted into the Rock and Roll Hall of Fame."
 image: "genesis.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/genesis/95966"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Genesis_(band)"
 ---

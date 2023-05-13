@@ -55,9 +55,7 @@ The first single taken from the album, "Hammer Horror", missed the UK Top 40. Ho
 {{< youtube id="XZm8ciAdPcc" title="Kate Bush ‎ Liоnheаrt  Full Album HD" >}}<br>
 ### More Videos
 
-- [Kashka from Baghdad](https://www.youtube.com/watch?v=ZsUQIMGIVrM)
 - [Kate Bush - Wow - Official Music Video](https://www.youtube.com/watch?v=ZyuxXWxKSTg)
-- [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
 
 ## Release Images
 {{< imageGrid >}}

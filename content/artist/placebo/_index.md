@@ -1,7 +1,9 @@
 ---
 title: "Placebo"
-summary: "British alternative rock band from London, founded in 1994. They are known for their androgynous image and angst-fueled musical content. Fan Club : Touring members: - bass, keyboards, guitar – keyboards, backing vocals – keyboards, guitar, backing vocals – violin, keyboards, theremin, percussion, backing vocals – guitar, keyboards, lap steel guitar, backing vocals - drums - violin, keyboards, percussion, backing vocals"
+summary: "Placebo are a British alternative rock band, formed in London in 1994 by vocalist–guitarist Brian Molko and bassist–guitarist Stefan Olsdal. Drummer Robert Schultzberg joined in late 1994, but left in 1996 shortly after the release of the band's eponymous debut album due to conflicts with Molko, and was replaced the same year by Steve Hewitt. Molko was born in Belgium and Olsdal and Schultzberg in Sweden; remaining members Molko and Olsdal both grew up in Luxembourg before separately relocating to London and are both British citizens.
+Following the release of a demo, a split single, and their eponymous debut album, Placebo gained exposure in 1997 after the single \"Nancy Boy\" became popular in the UK, a song notorious at the time for its gender-bending content. The band stood out amongst the Britpop scene they were associated with at the time for their androgynous appearance and musical content, as well as Molko's distinctive high registered voice and lyrics which openly discussed sexuality, mental health, and drug use.
+Hewitt left Placebo in 2007, due to personal and musical differences. He was replaced the following year by Steve Forrest. Placebo released two albums with Forrest, who left in 2015 to pursue his own musical career. Since 2015, Placebo are officially a duo, though augmented with additional musicians. Placebo have collaborated with various artists over the years, including David Bowie, Justin Warfield, Michael Stipe and Alison Mosshart. To date, Placebo have released eight studio albums, all of which have reached the Top 20 in the United Kingdom, and have sold around 14 million records worldwide."
 image: "placebo.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/placebo/649817"
-wikipedia_url: "none"
+wikipedia_url: "https://en.wikipedia.org/wiki/Placebo_(band)"
 ---

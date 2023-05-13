@@ -40,6 +40,8 @@ styles: ["Classic Rock"]
 The Principle of Moments is the second solo studio album by the English singer Robert Plant, formerly of Led Zeppelin. It was Plant's second Top 10 album in the US and UK. It also gave him his first solo Top 40 hit with "Big Log". The most popular track on album-oriented rock radio in the US was "Other Arms", which reached number-one on the Billboard Top Tracks chart. Genesis' drummer Phil Collins played drums for five of the album's eight songs (as he did on Pictures at Eleven). On the other two tracks former Jethro Tull drummer Barriemore Barlow performed. On the closing track "Big Log", Gerald Woodroffe programmed a Roland TR-808 drum machine.
 Like Plant's debut solo studio album, Pictures at Eleven (1982), the songs departed from the hard rock sound of Led Zeppelin. Following the strength of these albums, Plant launched a successful tour in 1983. Phil Collins was the drummer for Plant's band for the North American portion of the tour. Collins was content to perform in the background, despite his own enormous success as a solo artist and with Genesis at the time. Little Feat's Richie Hayward played drums for the remaining dates.
 Rhino Entertainment released a remastered edition of the album, with bonus tracks, on 3 April 2007.
+
+
     <br>
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739" >}}
