@@ -187,8 +187,6 @@ styles: []
 
 
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-my-exs-live-in-texas-the-voice-performance-single/1568940699" >}}<br>
 
 
 
