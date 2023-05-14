@@ -2,7 +2,6 @@
 
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
 
-
 {{ if eq .Paginator.PageNumber 1 }}
 <!-- Banner -->
 <section id="banner" class="major">

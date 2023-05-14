@@ -47,8 +47,6 @@ styles: ["Downtempo", "Electro"]
     
 
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/defected-radio-episode-058-hosted-by-sam-divine/1251991857" >}}<br>
 
 
 ## Videos
