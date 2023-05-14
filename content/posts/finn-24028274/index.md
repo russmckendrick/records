@@ -62,7 +62,7 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brothers-in-arms-remastered-1996/1565391787" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/finn/1599847083" >}}<br>
 
 
 ## Videos
