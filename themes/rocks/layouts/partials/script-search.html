@@ -2,44 +2,46 @@
 <script>
   var index = null;
   var store = null;
-
+  
   function doSearch(query) {
-    var searchResultsContainer = document.getElementById("search-results");
+  var searchResultsContainer = document.getElementById("search-results");
 
-    // If the search query is empty, clear the search results and return
-    if (!index || !store || !query) {
-      searchResultsContainer.innerHTML = '';
-      return;
-   }
-    var results = index.search(query).map(function (result) {
-      return store[result.ref];
-    });
-
-    var searchResultsContainer = document.getElementById("search-results");
-    searchResultsContainer.innerHTML = '<section id="two" class="spotlights"></section>';
-    var spotlightsSection = searchResultsContainer.querySelector("#two");
-
-    results.forEach(function (result, index) {
-      var imagePosition = index % 2 === 0 ? "center center" : "top center";
-      var resultElement = document.createElement("section");
-      resultElement.innerHTML = `
-        <a href="${result.uri}" class="image">
-          <img src="${result.coverImage}" alt="" data-position="${imagePosition}" />
-        </a>
-        <div class="content">
-          <div class="inner">
-            <header class="major">
-              <h3>${result.artist} - ${result.album}</h3>
-            </header>
-            <p>Added: ${result.date}</p>
-            <ul class="actions">
-              <li><a href="${result.uri}" class="button">View album</a></li>
-            </ul>
-          </div>
-        </div>`;
-      spotlightsSection.appendChild(resultElement);
-    });
+  // If the search query is empty, clear the search results and return
+  if (!index || !store || !query) {
+    searchResultsContainer.innerHTML = '';
+    return;
   }
+
+  var results = index.search(query).map(function (result) {
+    return store[result.ref];
+  });
+
+  searchResultsContainer.innerHTML = '<div id="two" class="columns is-multiline"></div>';
+  var spotlightsSection = document.getElementById("two");
+
+  results.forEach(function (result, index) {
+    var resultElement = document.createElement("div");
+    resultElement.className = "column is-one-third";
+    resultElement.innerHTML = `
+      <div class="card bm--card-equal-height">
+        <div class="card-image">
+          <figure class="image is-1by1">
+          <a href="${result.uri}" class="link"><img src="${result.coverImage}"></a>
+        </figure>
+        </div>
+        <div class="card-content">
+          <div class="media">
+            <div class="media-content">
+              <a href="{{ .Permalink }}" class="link"><p class="title is-4">${result.album}</p></a>
+              <p class="subtitle is-6">by ${result.artist}</p>
+            </div>
+          </div>
+        </div>
+      </div>`;
+    spotlightsSection.appendChild(resultElement);
+  });
+}
+
 
   fetch("{{ "index.json" | absURL }}")
     .then(function (response) {

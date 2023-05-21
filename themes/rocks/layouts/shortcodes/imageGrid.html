@@ -1,41 +1,13 @@
-<div class="box alt">
-    <div class="row gtr-50 gtr-uniform">
-        {{ range $index, $image := $.Page.Params.additional_images }}
-            <div class="col-4">
-                <span class="image fit">
-                    {{ if lt $index 3 }}
-                        <img src="{{ $image }}" alt="" />
-                    {{ else }}
-                        <img class="lazy-load" data-src="{{ $image }}" src="/images/click-to-load.png" alt="" />
-                    {{ end }}
-                </span>
-            </div>
-        {{ end }}
+ <section class="section">
+    <div class="container">
+        <div id="carousel-demo" class="carousel">
+            {{ range $index, $image := $.Page.Params.additional_images }}
+            <figure class="image is-4by3">
+                <img
+                    src="{{ $image }}"
+                    alt="Placeholder image">
+            </figure>
+            {{ end }}
+        </div>
     </div>
-</div>
-
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        const images = document.querySelectorAll('.lazy-load');
-        let delay = 0; // Initial delay
-    
-        const observer = new IntersectionObserver((entries, observer) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const img = entry.target;
-                    delay += 1000; // Increase delay by 2 seconds for each image
-    
-                    setTimeout(() => {
-                        img.src = img.dataset.src;
-                        img.classList.remove('lazy-load');
-                        observer.unobserve(img);
-                    }, delay);
-                }
-            });
-        });
-    
-        images.forEach(img => {
-            observer.observe(img);
-        });
-    });
-    </script>
+</section>

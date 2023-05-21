@@ -1,40 +1,37 @@
 {{ define "main" }}
 
 <!-- random.html -->
+<section class="hero has-background-dark is-link has-background">
+    <img class="hero-background is-transparent"
+      src="https://www.mckendrick.rocks/images/banner.jpg" />
+    <div class="hero-body">
+      <p><button class="button is-success is-rounded is-large is-fullwidth" id="get-random-album">Grab another album from the shelves</button></p>
+    </div>
+  </section>
 
-<section id="banner" class="style3">
-    <div class="inner">
-        <header class="major">
-            <h1>Crate Digging</h1>
-        </header>
-        <div class="content">
-            <p><button class="button primary large" id="get-random-album">Grab Another Random Album</button></p>
-        </div>
+  <section class="section">
+    <div class="container is-max-desktop">
+        <div class="card">
+            <div class="card-image">
+              <figure class="image is-1by1">
+                <img id="album-image" alt="Album cover" data-position="center center">
+              </figure>
+            </div>
+            <div class="card-content">
+                <div class="media-content">
+                  <p class="title is-4"><span id="album-album"></span> by <span id="album-artist"></span></p>
+                  <p class="subtitle is-6">Date added: <span id="album-date"></span></p>
+                </div>
+              </div>
+                <footer class="card-footer">
+                    <a href="#" id="goto-album" class="card-footer-item">Goto Album</a>
+                </footer>
+            </div>
+          </div>
     </div>
 </section>
 
 <!-- Main -->
-<div id="main">
-
-    <section id="two" class="spotlights">
-        <section>
-            <a href="#" id="image-link-album" class="image">
-                <img id="album-image" alt="Album cover" data-position="center center">
-            </a>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3><span id="album-album"></span> by <span id="album-artist"></span></h3>
-                    </header>
-                    <p>Date added: <span id="album-date"></span></p>
-                    <ul class="actions">
-                        <li><a href="#" id="goto-album" class="button">Goto Album</a></li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-    </div>
-</div>
 
 <script>
     const albumsUrl = "/index.json";

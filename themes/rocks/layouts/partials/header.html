@@ -1,18 +1,46 @@
- <!-- Header -->
-<header id="header" class="alt">
-    <a href="/" class="logo"><strong>{{ .Site.Params.TitleBold }}</strong>
-        <span>{{ .Site.Params.TitleLight }}</span></a>
-    <nav>
-        <a href="#menu">Menu</a>
-    </nav>
-</header>
+ <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <div class="tags has-addons">
+        <span class="tag is-success is-medium is-rounded" ><i class="fa-solid fa-headphones"></i></span>
+        <span class="tag is-danger is-medium is-rounded">MCKENDRICK.ROCKS</span>
+      </div>
+    </a>
 
-<!-- Menu -->
-<nav id="menu">
-    <ul class="links">
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ $text := print .Name | safeHTML }}
-                {{ $text }}</a></li>
-        {{ end }}
-    </ul>
+    <a role="button" class="navbar-burger burger" aria-label="menu"
+      aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+
+    <div class="navbar-start">
+      {{ range .Site.Menus.main }}
+      <a class="navbar-item" href="{{ .URL }}">{{ $text := print .Name |
+        safeHTML }}
+        {{ $text }}
+      </a>
+      {{ end }}
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="buttons">
+      {{ range .Site.Menus.end }}
+      <a href="{{ .URL }}">
+      <button class="button {{ .Pre }}">
+        <span class="icon is-small">{{ $icon := printf "<i class=\"%s\"></i>" .Identifier }}{{ $icon | safeHTML }}</span>
+        {{ if .Name }}<span>{{ $text := print .Name | safeHTML }}{{ $text }}</span>{{ end }}
+      </button>
+    </a>
+      {{ end }}
+        </div>
+      </div>
+    </div>
+
+  </div>
+
 </nav>

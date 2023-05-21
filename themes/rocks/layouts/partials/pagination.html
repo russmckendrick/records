@@ -1,7 +1,7 @@
 {{ $paginator := .Paginator }}
-
+<div class="container mt-4 mb-4">
 <!-- Number of links either side of the current page. -->
-{{ $adjacent_links := 7 }}
+{{ $adjacent_links := 4 }}
 
 <!-- $max_links = ($adjacent_links * 2) + 1 -->
 {{ $max_links := (add (mul $adjacent_links 2) 1) }}
@@ -15,39 +15,43 @@
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
 
-<ul class="pagination">
-  <!-- First page. -->
+<nav class="pagination is-centered is-rounded" role="navigation" aria-label="pagination">
 
   <!-- Previous page. -->
   {{ if $paginator.HasPrev }}
-  <li><span class="button small">
-      <a href="{{ $paginator.Prev.URL }}">
-        Prev
-      </a></span>
-  </li>
+  <a href="{{ $paginator.Prev.URL }}" class="pagination-previous">Previous</a>
   {{ else }}
-  <li><span class="button small disabled">
-      Prev
-    </span></li>
+  <a class="pagination-previous" disabled>Previous</a>
   {{ end }}
 
+    <!-- First page. -->
   {{ if ne $paginator.PageNumber 1 }}
-  <li><span class="button small">
-      <a href="{{ $paginator.First.URL }}">
-        <<
-      </a></span>
-  </li>
+    <a href="{{ $paginator.First.URL }}" class="pagination-previous is-hidden-mobile"><<</a>
   {{ else }}
-  <li><span class="button small disabled">
-      <<
-    </span></li>
+    <a class="pagination-previous is-hidden-mobile" disabled><<</a>
   {{ end }}
+
+
+    <!-- Last page. -->
+    {{ if ne $paginator.PageNumber $paginator.TotalPages }}
+    <a href="{{ $paginator.Last.URL }}" class="pagination-next is-hidden-mobile">>></a>
+    {{ else }}
+    <a class="pagination-next is-hidden-mobile" disabled>>></a>
+    {{ end }}
+
+  <!-- Next page. -->
+  {{ if $paginator.HasNext }}
+  <a href="{{ $paginator.Next.URL }}" class="pagination-next">Next page</a>
+  {{ else }}
+  <a class="pagination-next" disabled>Next page</a>
+  {{ end }}
+
+  <ul class="pagination-list">
 
   <!-- Page numbers. -->
   {{ range $paginator.Pagers }}
 
   {{ $.Scratch.Set "page_number_flag" false }}
-
 
   <!-- Advanced page numbers. -->
   {{ if gt $paginator.TotalPages $max_links }}
@@ -94,7 +98,7 @@
   <!-- Output page numbers. -->
   {{ if eq ($.Scratch.Get "page_number_flag") true }}
   <li>
-    <a href="{{ .URL }}" class="page{{ if eq . $paginator }} active{{ end }}">
+    <a href="{{ .URL }}" class="pagination-link{{ if eq . $paginator }} is-current{{ end }}" aria-label="Page {{ .PageNumber }}" aria-current="{{ if eq . $paginator }}page{{ end }}">
       {{ .PageNumber }}
     </a>
   </li>
@@ -102,31 +106,8 @@
 
   {{ end }}
 
-  <!-- Last page. -->
-  {{ if ne $paginator.PageNumber $paginator.TotalPages }}
-  <li><span class="button small">
-      <a href="{{ $paginator.Last.URL }}">
-        >>
-      </a></span>
-  </li>
-  {{ else }}
-  <li><span class="button small disabled">
-      >>
-    </span></li>
-  {{ end }}
+</ul>
+</nav>
+</div>
 
-  <!-- Next page. -->
-  {{ if $paginator.HasNext }}
-  <li><span class="button small">
-      <a href="{{ $paginator.Next.URL }}">
-        Next
-      </a></span>
-  </li>
-  {{ else }}
-  <li><span class="button small disabled">
-      Next
-    </span></li>
-  {{ end }}
-
-</ul><!-- .pagination -->
 {{ end }}

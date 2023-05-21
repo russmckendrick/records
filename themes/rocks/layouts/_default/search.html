@@ -1,16 +1,23 @@
 {{ define "main" }}
-<div id="main" class="alt">
-  <section id="one">
-    <div class="inner">
-      <header class="major">
-        <h1>{{ .Title }}</h1>
-      </header>
-      <input type="text" id="search" placeholder="Search...">
-    </div>
-  </section>
 
-  <section id="two" class="spotlights">
+<section class="hero is-large has-background-dark is-link has-background">
+  <img alt="Fill Murray" class="hero-background is-transparent"
+    src="https://www.mckendrick.rocks/images/banner.jpg" />
+  <div class="hero-body">
+    <h1 class="title is-1">{{ .Title }}</h1>
+    <div class="control has-icons-left has-icons-right">
+      <input class="input is-large" type="text" id="search" placeholder="Search...">
+      <span class="icon is-small is-left">
+        <i class="fas fa-user"></i>
+      </span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
     <div id="search-results"></div>
-  </section>
+  </div>
 </div>
+</section>
 {{ end }}

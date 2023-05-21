@@ -2,58 +2,57 @@ baseURL = 'https://www.mckendrick.rocks/'
 languageCode = 'en-gb'
 title = 'McKendrickRocks'
 theme = "rocks"
-paginate = 20
+paginate = 18
 enableRobotsTXT = true
 
 [permalinks]
-    posts = "/albums/:slug"
+posts = "/albums/:slug"
 
 [params]
-  titleBold = "McKendrick"
-  titleLight = "Rocks"
-  homeHeader = "Hi, my name is Russ"
-  homeSubheader = "and this is my record collection, listed in the order I purchased them."
-  homeButton = "View my collection"
+titleBold = "McKendrick"
+titleLight = "Rocks"
+homeHeader = "Hi, my name is Russ"
+homeSubheader = "and this is my record collection, listed in the order I purchased them."
+homeButton = "View my collection"
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 10
-  [[menu.main]]
-    name = "Artists"
-    url = "/artist/"
-    weight = 20
-  [[menu.main]]
-    name = "Styles"
-    url = "/styles/"
-    weight = 21
-  [[menu.main]]
-    name = "Genres"
-    url = "/genres/"
-    weight = 22
-  [[menu.main]]
-    name = "Source Code"
-    url = "https://github.com/russmckendrick/records/"
-    weight = 100
-  [[menu.main]]
-    name = "Search"
-    url = "/search/"
-    weight = 11
-  [[menu.main]]
-    name = "Crate Digging"
-    url = "/random/"
-    weight = 200
+[[menu.main]]
+name = "Artists"
+url = "/artist/"
+weight = 20
+[[menu.main]]
+name = "Styles"
+url = "/styles/"
+weight = 21
+[[menu.main]]
+name = "Genres"
+url = "/genres/"
+weight = 22
+[[menu.end]]
+url = "/search/"
+identifier = "fa-solid fa-magnifying-glass"
+pre = "has-background-dark has-text-white"
+weight = 100
+[[menu.end]]
+url = "https://github.com/russmckendrick/records/"
+identifier = "fa-brands fa-github-alt"
+pre = "has-background-link-dark has-text-white"
+weight = 101
+[[menu.end]]
+url = "/random/"
+identifier = "fa-solid fa-shuffle"
+pre = "has-background-primary-dark has-text-white"
+weight = 102
 
 [taxonomies]
-  artists = "artist"
-  genres = "genres"
-  styles = "styles"
+artists = "artist"
+genres = "genres"
+styles = "styles"
 
 [sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"] 
+home = ["HTML", "RSS", "JSON"]

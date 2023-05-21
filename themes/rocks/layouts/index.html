@@ -1,51 +1,81 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
-
 {{ if eq .Paginator.PageNumber 1 }}
-<!-- Banner -->
-<section id="banner" class="major">
-  <div class="inner">
-    <header class="major">
-      <h1>{{ .Site.Params.homeHeader }}</h1>
-    </header>
-    <div class="content">
-      <p>{{ .Site.Params.homeSubheader }}</p>
-      <ul class="actions">
-        <li><a href="#one" class="button next scrolly">{{
-            .Site.Params.homeButton }}</a></li>
-      </ul>
-    </div>
+<section class="hero is-large has-background-dark is-link has-background">
+  <img alt="Fill Murray" class="hero-background is-transparent"
+    src="https://www.mckendrick.rocks/images/banner.jpg" />
+  <div class="hero-body">
+    <h1 class="title is-1">
+      {{ .Site.Params.homeHeader }}
+    </h1>
+    <h1 class="subtitle is-3">
+      {{ .Site.Params.homeSubheader }}
+    </h1>
   </div>
 </section>
 {{ end }}
 
-<section id="one" class="tiles">
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
 
+<section class="section">
+  <div class="container">
+    <div class="columns is-multiline">
 
-  {{ range $paginator.Pages }}
-  <article>
-    <span class="image">
-      <img src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}"
-        alt="" />
-    </span>
-    <header class="major">
-      <h3><a href="{{ .Permalink }}" class="link">{{ .Page.Params.Artist }}<br>{{
-          .Page.Params.album_name }}</a></h3>
+      {{ range $paginator.Pages }}
       {{ $dateTime := .PublishDate.Format "2006-01-02" }}
-      {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
-      <p>Added: {{ .PublishDate.Format $dateFormat }}</p>
-    </header>
-  </article>
+      {{ $dateFormat := .Site.Params.dateFormat | default "2 January, 2006" }}
 
-  {{end}}
+      <div class="column is-one-third">
+        <div class="card bm--card-equal-height">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <a href="{{ .Permalink }}" class="link"><img
+                  src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" alt="{{ .Page.Params.Artist }}"></a>
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <a href="{{ .Permalink }}" class="link"><p class="title is-4">{{.Page.Params.album_name
+                    }}</p></a>
+                <p class="subtitle is-6">by {{ .Page.Params.Artist }}
+              <time datetime="2016-1-1"> added on {{ .PublishDate.Format $dateFormat }}</time></p>
+              </div>
+            </div>
+            <div class="content">
+              <div class="field is-grouped is-grouped-multiline">
+                {{- range .Params.genres }}
+                <div class="control">
+                  <a href="/tags/{{ . | urlize }}">
+                    <div class="tags has-addons">
+                      <span class="tag is-dark">Genre</span>
+                      <span class="tag is-info">{{ . }}</span>
+                    </div>
+                  </a>
+                </div>
+                {{- end }}
+                {{- range .Params.styles }}
+                <div class="control">
+                    <a href="/tags/{{ . | urlize }}"></a>
+                  <div class="tags has-addons">
+                      <span class="tag is-dark">Style</span>
+                      <span class="tag is-success">{{ . }}</span>
+                  </div>
+                    </a>
+                </div>
+                {{- end }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-</section>
-</section>
-<section id="three">
-  <div class="inner">
-    <center>{{- partial "pagination.html" . -}}</center>
+      {{end}}
+
+    </div>
   </div>
 </section>
+
+{{- partial "pagination.html" . -}}
 
 {{ end }}

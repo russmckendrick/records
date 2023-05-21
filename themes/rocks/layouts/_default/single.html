@@ -1,46 +1,91 @@
 {{ define "main" }}
-<div id="main" class="alt">
-  <section id="one">
-    <div class="inner">
-      <header class="major">
-        <h1>{{ .Page.Params.album_name }}<br>{{ .Page.Params.Artist }}</h1>
-        {{ partial "metadata.html" . }}<br>
-      </header>
-      {{- $sectionDelimiter := "<!-- section break -->" -}}
-      {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
-      {{- if gt (len $rawContentSections) 1 -}}
-      <div class="row gtr-200">
-        <div class="col-8 col-12-medium">
-          {{ index $rawContentSections 0 | .RenderString }}
+<section class="hero is-medium has-background-dark is-link has-background">
+  <img class="hero-background is-transparent" src="{{ .Page.Params.cover.image }}" />
+  <div class="hero-body">
+    <h1 class="title is-1">
+      {{ .Page.Params.album_name }}<br>
+    </h1>
+    <h1 class="subtitle is-3">
+      by {{ .Page.Params.Artist }}
+    </h1>
+  </div>
+</section>
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+
+{{- $sectionDelimiter := "<!-- section break -->" -}}
+{{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+{{- if gt (len $rawContentSections) 1 -}}
+
+<section class="section">
+  <div class="container">
+    <div class="columns is-desktop">
+      <div class="column is-half">
+        {{ index $rawContentSections 0 | .RenderString }}
+      </div>
+      <div class="divider is-vertical is-right"></div>
+      <div class="column">
+        <div class="content has-text-centered">
+          {{ partial "metadata.html" . }}
+          <div class="divider">Tags</div>
+          <div class="field is-grouped is-grouped-multiline">
+            {{- $artist := .Language.Params.Taxonomies.tag | default "artist"}}{{-
+            range ($.GetTerms $artist) }}
+            <div class="control">
+              <a href="{{ .Permalink }}">
+                <div class="tags has-addons">
+                  <span class="tag is-dark">Artist</span>
+                  <span class="tag is-primary">{{ .LinkTitle }}</span>
+                </div>
+              </a>
+            </div>
+            {{- end }}
+            {{- $genres := .Language.Params.Taxonomies.tag | default "genres"
+            }}{{- range ($.GetTerms $genres) }}
+            <div class="control">
+              <a href="{{ .Permalink }}">
+                <div class="tags has-addons">
+                  <span class="tag is-dark">Genre</span>
+                  <span class="tag is-info">{{ .LinkTitle }}</span>
+                </div>
+              </a>
+            </div>
+            {{- end }}
+            {{- $genres := .Language.Params.Taxonomies.tag | default "styles"
+            }}{{- range ($.GetTerms $genres) }}
+            <div class="control">
+              <a href="{{ .Permalink }}">
+                <div class="tags has-addons">
+                  <span class="tag is-dark">Style</span>
+                  <span class="tag is-success">{{ .LinkTitle }}</span>
+                </div>
+              </a>
+            </div>
+            {{- end }}
+          </div>
+          <div class="divider">Tracklisting</div>
+          <div class="content has-text-left">
+            {{ index $rawContentSections 1 | .RenderString }}
+          </div>
         </div>
-        <div class="col-4 col-12-medium">
-          {{ index $rawContentSections 1 | .RenderString }}
-        </div>
-        <div class="col-12 col-12-medium">
-          {{ index $rawContentSections 2 | .RenderString }}
-        </div>
-        {{- else -}}
-        <div>
-          {{ .Content }}
-        </div>
-        {{- end -}}
-        <ul class="icons">
-          {{- $artist := .Language.Params.Taxonomies.tag | default "artist"
-          }}{{- range ($.GetTerms $artist) }}<li><a href="{{ .Permalink }}"
-              class=""><i class="fa-sharp fa-solid fa-music"></i> {{ .LinkTitle }}</a></li>{{- end }}
-          {{- $genres := .Language.Params.Taxonomies.tag | default "genres"
-          }}{{- range ($.GetTerms $genres) }}<li><i class="fa-solid fa-headphones"></i> <a href="{{ .Permalink }}"
-              class=""> {{ .LinkTitle }}</a></li>{{- end
-          }}
-          {{- $styles := .Language.Params.Taxonomies.tag | default "styles"
-          }}{{- range ($.GetTerms $styles) }}<li><a href="{{ .Permalink }}"
-              class=""><i class="fa-solid fa-headphones"></i> {{ .LinkTitle }}</a></li>{{- end
-          }}
-          <li><a href="/random"
-              class=""><i class="fa-solid fa-shuffle"></i> Random</a></li>
-        </ul>
       </div>
     </div>
-    </section>
+    <div class="content">
+      {{ if gt (len $rawContentSections) 2 -}} <div class="divider">Overview</div>{{ end }}
+        {{ index $rawContentSections 2 | .RenderString }}
+    </div>
   </div>
+</section>
+
+<section class="section">
+    <div class="container">
+      {{ index $rawContentSections 3 | .RenderString }}
+      {{- else -}}
+      {{ .Content }}
+      {{- end -}}
+    </div>
+  </div>
+</section>
+
   {{ end }}

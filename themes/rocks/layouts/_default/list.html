@@ -1,68 +1,70 @@
 {{ define "main" }}
-<div id="main" class="alt">
-<section id="three" class="spotlights">
-    <div class="inner">
-        <header class="major">
-            <h1>{{ .Title }}</h1>
-        </header>
-        {{ if .Params.image }}
-        <div class="row gtr-200">
-            <div class="col-6 col-12-medium">
-                <p>{{ .Summary }}</p><br>
-                    {{ if ne .Params.apple_music_artist_url "None" }}
-                    <ul class="actions">
-                        <li><a href="{{ .Params.apple_music_artist_url }}"
-                                class="button">Goto {{ .Title }} on Apple Music</a></li>
-                    </ul>
 
-                    {{ end }}
+
+<section class="section">
+    <div class="container">
+        <h1 class="title is-1">{{ .Title }}</h1>
+    </div>
+</section>
+
+{{ if .Params.image }}
+<section class="section">
+    <div class="container">
+        <div class="columns is-desktop">
+            {{ if .Params.image }}
+            <div class="column is-half">
+                <img src="{{ (path.Join .RelPermalink .Params.image) | absURL }}" alt />
             </div>
-            <div class="col-6 col-12-medium">
-                <span class="image fit"><img src="{{ (path.Join
-                        .RelPermalink .Params.image) | absURL }}" alt="" /></span>
+            {{ end }}
+            <div class="column">
+                <p>{{ .Summary }}</p> {{ if ne .Params.apple_music_artist_url "None" }}<br>
+                <a href="{{ .Params.apple_music_artist_url }}">
+                    <button class="button is-large is-responsive is-link is-rounded">Goto {{ .Title }} on Apple Music</button>
+                </a>
+                {{ end }}
             </div>
-        </div>
         </div>
     </section>
-    {{ end }}
+{{ end }}
 
-    {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) }}
-    <section id="four" class="spotlights">
-        {{ range $index, $page := $paginator.Pages }}
-        <section>
-            <a href="{{ $page.RelPermalink }}" class="image">
-                {{ if partial "modBool" $index }}
-                <img src="{{ (path.Join $page.RelPermalink
-                    $page.Params.cover.image) | absURL }}" alt=""
-                    data-position="center center" />
-                {{ else }}
-                <img src="{{ (path.Join $page.RelPermalink
-                    $page.Params.cover.image) | absURL }}" alt=""
-                    data-position="top center" />
-                {{ end }}
-            </a>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ $page.Params.album_name }}</h3>
-                    </header>
-                    {{ $dateTime := .PublishDate.Format "2006-01-02"
-                    }}
-                    {{ $dateFormat := .Site.Params.dateFormat |
-                    default "Jan 2, 2006" }}
-                    <p>Added: {{ .PublishDate.Format $dateFormat }}</p>
-                    <ul class="actions">
-                        <li><a href="{{ $page.RelPermalink }}"
-                                class="button">View album</a></li>
-                    </ul>
+    <section class="section">
+        <div class="container">
+            {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) }}
+
+            {{ range $index, $page := $paginator.Pages }}
+                {{ if modBool $index 2 }}
+                <div class="columns is-desktop is-vcentered has-background-dark has-text-light">
+                <div class="column">
+                    <h1 class="title is-1 has-text-light">{{ $page.Params.album_name }} by {{ $page.Params.artist }}</h1>
+                    <a href="{{ $page.RelPermalink }}">
+                        <button class="button is-large is-responsive is-primary is-rounded">Goto Album</button>
+                    </a>
+                </div>
+                <div class="column is-two-fifths">
+                    <img src="{{ (path.Join $page.RelPermalink $page.Params.cover.image) | absURL }}">
                 </div>
             </div>
-        </section>
-        {{ end }}
-    </section>
+                {{ else }}
+                <div class="columns is-desktop is-vcentered has-background-light has-text-dark">
+                <div class="column is-two-fifth">
+                    <img src="{{ (path.Join $page.RelPermalink $page.Params.cover.image) | absURL }}">
+                </div>
+                <div class="column">
+                    <h1 class="title is-1">{{ $page.Params.album_name }} by {{ $page.Params.artist }}</h1>
+                    <a href="{{ $page.RelPermalink }}">
+                        <button class="button is-large is-responsive is-primary is-rounded">Goto Album</button>
+                    </a>
+                </div>
+            </div>
+                {{ end }}
+
+            {{ end }}
+        </div>
+    </section> 
+
     <section id="five">
         <div class="inner">
-            <br><center>{{- partial "pagination.html" . -}}</center>
+            {{- partial "pagination.html" . -}}
         </div>
     </section>
 </div>
