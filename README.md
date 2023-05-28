@@ -4,7 +4,7 @@ Welcome to the Records repository! This is the source code for [McKendrick Rocks
 
 ## Overview 🌐
 
-This site was built using [Hugo](https://gohugo.io/), a fast and flexible static site generator. The theme was adapted from the beautiful [Forty theme](https://html5up.net/) by HTML5 UP. The content on this site is scraped from [Discogs](http://discogs.com/), an online database and marketplace for music enthusiasts. 📀💿
+This site was built using [Hugo](https://gohugo.io/), a fast and flexible static site generator. The content on this site is scraped from [Discogs](http://discogs.com/), an online database and marketplace for music enthusiasts. 📀💿
 
 ## Repository Structure 📁
 
